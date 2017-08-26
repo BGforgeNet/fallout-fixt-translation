@@ -17,19 +17,23 @@ msgstr ""
 msgid ""
 "RemindBoy message: Water supplies running low in Vault 13.  Find the water "
 "chip quickly."
-msgstr ""
+msgstr "Сообщение от RemindBoy: В Убежище 13 заканчиваются запасы воды."
 
 #: data/text/english/cuts/boil2.sve:1
 msgid ""
 "RemindBoy message: Water supplies nearly gone in Vault 13.  Situation "
 "critical."
 msgstr ""
+"Сообщение от RemindBoy: Запасы воды в Убежище 13 подошли к концу.  Ситуация "
+"критическая."
 
 #: data/text/english/cuts/boil3.sve:1
 msgid ""
 "RemindBoy message: Water supplies exhausted. Vault 13 is dead.  Mission "
 "over."
 msgstr ""
+"Сообщение от RemindBoy: Запасы воды закончились.  Убежище 13 погибло.  "
+"Миссия завершена."
 
 #: data/text/english/cuts/intro.sve:1490
 msgid "War. War never changes."
@@ -61,7 +65,7 @@ msgstr ""
 
 #: data/text/english/cuts/intro.sve:1860
 msgid "that could be acquired."
-msgstr ""
+msgstr "Но в этот раз военной добычей стало также оружие."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:1900 data/text/english/cuts/narrate.txt:8
@@ -74,7 +78,7 @@ msgstr ""
 
 #: data/text/english/cuts/intro.sve:2020
 msgid "For these resources, China would invade Alaska,"
-msgstr ""
+msgstr "США присоединили к себе Канаду,"
 
 #: data/text/english/cuts/intro.sve:2065
 msgid "the US would annex Canada,"
@@ -90,53 +94,53 @@ msgstr ""
 
 #: data/text/english/cuts/intro.sve:2160
 msgid "bent on controlling the last remaining resources on Earth."
-msgstr ""
+msgstr "дерущиеся за контроль над еще оставшимися на Земле ресурсами."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:2230 data/text/english/cuts/narrate.txt:11
 msgid "In 2077, the storm of world war had come again."
-msgstr ""
+msgstr "В 2077 году снова разразилась война."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:2300 data/text/english/cuts/narrate.txt:12
 msgid "In two brief hours, most of the planet was reduced to cinders."
-msgstr ""
+msgstr "Всего за два часа большая часть планеты превратилась в пепел."
 
 #: data/text/english/cuts/intro.sve:2370
 msgid "And from the ashes of nuclear devastation,"
-msgstr ""
+msgstr "И из пепла ядерного взрыва,"
 
 #: data/text/english/cuts/intro.sve:2410
 msgid "a new civilization would struggle to arise."
-msgstr ""
+msgstr "возродилась новая цивилизация."
 
 #: data/text/english/cuts/intro.sve:2470
 msgid "A few were able to reach the relative safety"
-msgstr ""
+msgstr "Очень немногим удалось добраться до относительно безопасных"
 
 #: data/text/english/cuts/intro.sve:2510
 msgid "of the large underground Vaults."
-msgstr ""
+msgstr "огромных подземных Убежищ."
 
 #: data/text/english/cuts/intro.sve:2550
 msgid "Your family was part of that group that entered Vault Thirteen."
-msgstr ""
+msgstr "Ваша семья была в числе тех, кто поселился в Убежище Тринадцать."
 
 #: data/text/english/cuts/intro.sve:2630
 msgid "Imprisioned safely behind the large Vault door,"
-msgstr ""
+msgstr "Заточенное за огромной дверью Убежища,"
 
 #: data/text/english/cuts/intro.sve:2675
 msgid "under a mountain of stone,"
-msgstr ""
+msgstr "под толщей камня,"
 
 #: data/text/english/cuts/intro.sve:2710
 msgid "a generation has lived without knowledge of the outside world."
-msgstr ""
+msgstr "это поколение жило, не зная ничего о внешнем мире."
 
 #: data/text/english/cuts/intro.sve:2790
 msgid "Life in the Vault is about to change."
-msgstr ""
+msgstr "Но жизнь в Убежище должна вот-вот измениться."
 
 #. LEAVE empty space in translation
 #: data/text/english/cuts/intro.sve:2860
@@ -1901,71 +1905,71 @@ msgstr ""
 
 #: data/text/english/cuts/ovrintro.sve:30
 msgid "Ahh, you're here.  Good."
-msgstr ""
+msgstr "Ааа, ты здесь.  Хорошо."
 
 #: data/text/english/cuts/ovrintro.sve:80
 msgid "We've got a problem.  A big one."
-msgstr ""
+msgstr "У нас возникла проблема.  Большая проблема."
 
 #: data/text/english/cuts/ovrintro.sve:117
 msgid "The controller chip for our water purification system"
-msgstr ""
+msgstr "Контрольный чип системы очистки воды"
 
 #: data/text/english/cuts/ovrintro.sve:165
 msgid "has given up the ghost."
-msgstr ""
+msgstr "отдал богу душу."
 
 #: data/text/english/cuts/ovrintro.sve:205
 msgid "Can't make another one and the process is too complicated"
-msgstr ""
+msgstr "Сделать еще один мы не можем, этот процесс слишком сложен для"
 
 #: data/text/english/cuts/ovrintro.sve:250
 msgid "for a work around system."
-msgstr ""
+msgstr "наших здешних мощностей."
 
 #: data/text/english/cuts/ovrintro.sve:290
 msgid "Simply put, we're running out of drinking water."
-msgstr ""
+msgstr "Проще говоря, у нас кончается питьевая вода."
 
 #: data/text/english/cuts/ovrintro.sve:355
 msgid "No water, no Vault."
-msgstr ""
+msgstr "Нет воды - нет Убежища."
 
 #: data/text/english/cuts/ovrintro.sve:410
 msgid "This is crucial to our survival."
-msgstr ""
+msgstr "Для того, чтобы выжить, нужно что-то делать."
 
 #: data/text/english/cuts/ovrintro.sve:470
 msgid "And frankly, I... I think you're the only hope we have."
-msgstr ""
+msgstr "И, честно говоря... мне кажется, ты наша единственная надежда."
 
 #: data/text/english/cuts/ovrintro.sve:560
 msgid "You need to go find us another controller chip."
-msgstr ""
+msgstr "Тебе нужно найти для нас другой контрольный чип."
 
 #: data/text/english/cuts/ovrintro.sve:615
 msgid "We estimate we have four to five months"
-msgstr ""
+msgstr "По нашим подсчетам вода в Убежище закончится"
 
 #: data/text/english/cuts/ovrintro.sve:650
 msgid "before the Vault runs out of water."
-msgstr ""
+msgstr "через четыре-пять месяцев."
 
 #: data/text/english/cuts/ovrintro.sve:695
 msgid "We need that chip."
-msgstr ""
+msgstr "Нам нужен этот чип."
 
 #: data/text/english/cuts/ovrintro.sve:735
 msgid "We marked your map with the location of another Vault."
-msgstr ""
+msgstr "Мы отметили на карте местонахождение другого Убежища."
 
 #: data/text/english/cuts/ovrintro.sve:785
 msgid "Not a bad place to start I think."
-msgstr ""
+msgstr "Я думаю, поиски вполне можно начать там."
 
 #: data/text/english/cuts/ovrintro.sve:855
 msgid "Look, just be safe, OK?"
-msgstr ""
+msgstr "Да, и еще... Береги себя, ладно?"
 
 #: data/text/english/dialog/abel.msg:100
 msgid "You see Abel."

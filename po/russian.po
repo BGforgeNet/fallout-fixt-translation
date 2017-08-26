@@ -1392,6 +1392,9 @@ msgid ""
 "dream of conquest and enforced peace, but it is the destruction of the Vats "
 "that neutralizes the mutant threat."
 msgstr ""
+"Смерть Создателя была первым шагом на пути к прекращению этого бесконечного "
+"противостояния и вынужденного мира, но окончательно угроза нападения "
+"мутантов исчезла лишь после уничтожения Чанов."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_10.txt:2
@@ -1399,6 +1402,9 @@ msgid ""
 "Without the ability to create more mutants and enforce their harsh brand of "
 "justice, the mutant armies flee to the east, beyond the no-man's land."
 msgstr ""
+"Армии мутантов, не имея возможности создавать новых воинов и насаждать "
+"повсюду свои представления о справедливости, бежали на восток, за пределы "
+"ничьих земель."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_11.txt:1
@@ -1406,6 +1412,8 @@ msgid ""
 "You managed to destroy the Vats, then you killed the Master before he could "
 "realize his twisted plans."
 msgstr ""
+"Вам удалось уничтожить Чаны и убить Создателя до того, как он воплотил в "
+"жизнь свои безумные планы."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_11.txt:2
@@ -1413,6 +1421,8 @@ msgid ""
 "With the Master gone, his armies flee to the east in fear of retribution "
 "from the remaining normals."
 msgstr ""
+"После смерти Создателя его армия бежала на восток, опасаясь возмездия со "
+"стороны оставшихся в живых нормов."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_12.txt:1
@@ -1420,11 +1430,13 @@ msgid ""
 "The ghouls of Necropolis learn firsthand the final meaning of dehydration, "
 "as their city succumbs to the desert sands and the water runs out."
 msgstr ""
+"Гули Некрополя поняли, что такое обезвоживание, когда их город погрузился в "
+"пески пустыни и запасы воды подошли к концу."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_12.txt:2
 msgid "Without their water purifying control chip, they do not survive."
-msgstr ""
+msgstr "Без контрольного чипа системы очистки воды они не смогли выжить."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_13.txt:1
@@ -1432,23 +1444,26 @@ msgid ""
 "The ghouls of Necropolis learn how to maintain the repaired water pump,  and"
 " eventually rediscover many lost secrets of engineering."
 msgstr ""
+"Гули Некрополя поняли, как обращаться с водяным насосом и со временем "
+"открыли много утерянных секретов инженерного искусства."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_13.txt:2
 msgid "They form a business selling this technology to other towns."
-msgstr ""
+msgstr "Они создали свой бизнес, продавая эту технологию в другие города."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_15.txt:1
 msgid ""
 "The mutant attack on Necropolis spares none of the ghoulish inhabitants."
 msgstr ""
+"После атаки мутантов на Некрополь, никто из гулей, живущих там, не выжил."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_15.txt:2
 msgid ""
 "After the mutant armies advance, they leave a truly dead city behind them."
-msgstr ""
+msgstr "Мутанты оставили после себя по-настоящему мертвый город."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_16.txt:1
@@ -1456,11 +1471,13 @@ msgid ""
 "The Followers of the Apocalypse rise to become a major influence in New "
 "California."
 msgstr ""
+"Последователи Апокалипсиса стали самой влиятельной группировкой в Новой "
+"Калифорнии."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_16.txt:2
 msgid "With your help, they gain control of the LA Boneyard."
-msgstr ""
+msgstr "С вашей помощью они захватили власть в Могильнике Лос-Анджелеса."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_18.txt:1
@@ -1468,11 +1485,13 @@ msgid ""
 "The mutant armies, led into battle by the fierce Super Mutants, destroy the "
 "Followers of the Apocalypse."
 msgstr ""
+"Армии мутантов под предводительством жестоких Супермутантов уничтожили "
+"Последователей Апокалипсиса."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_18.txt:2
 msgid "Barely human carrion feeders pick over the Followers’ remains."
-msgstr ""
+msgstr "Лишь мародеры изучали их останки."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_19.txt:1
@@ -1480,6 +1499,8 @@ msgid ""
 "In Shady Sands, Tandi helps her father Aradesh bring a new community and new"
 " life out of the broken remains of the world."
 msgstr ""
+"В Шэйди Сэндс Танди помогла своему отцу Арадешу создать новое сообщество и "
+"новую жизнь на останках мира."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_19.txt:2
@@ -1487,16 +1508,18 @@ msgid ""
 "They are responsible for the New California Republic, whose ideals spread "
 "across the land."
 msgstr ""
+"Они стоят во главе Новой Калифорнийской Республики, идеалы которой сейчас "
+"популярны по всей стране."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_2.txt:1
 msgid "You are taken away, and slowly returned to normal Vault life."
-msgstr ""
+msgstr "Вас спасли, вы потихоньку вернулись к обычной жизни Убежища."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_2.txt:2
 msgid "But a month later, disaster strikes."
-msgstr ""
+msgstr "Но месяц спустя разразилась катастрофа."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_20.txt:1
@@ -1505,12 +1528,16 @@ msgid ""
 "Sands into a respected community which is prosperous for many years, before "
 "his untimely death at the hands of a Desert Raider."
 msgstr ""
+"Арадеш скорбил по своей убитой дочери Танди, но со временем превратил Шэйди "
+"Сэндс в уважаемую общину, которая процветала много лет, вплоть до смерти "
+"Арадеша от руки налетчика из пустошей."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_21.txt:1
 msgid ""
 "Tandi takes control of Shady Sands after the death of her father, Aradesh."
 msgstr ""
+"После смерти ее отца, Арадеша, Танди взяла в свои руки власть в Шэйди Сэндс."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_21.txt:2
@@ -1518,6 +1545,8 @@ msgid ""
 "Her brilliant if headstrong style of leadership makes Shady Sands a powerful"
 " force in the years to come."
 msgstr ""
+"Ее блестящее лидерство в последующие годы превратило Шэйди Сэндс во "
+"влиятельное поселение."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_22.txt:1
@@ -1525,6 +1554,8 @@ msgid ""
 "With Aradesh dead, and Tandi missing or killed, Shady Sands needs a new "
 "leader."
 msgstr ""
+"После смерти Арадеша и исчезновения или убийства Танди Шэйди Сэндс был нужен"
+" новый лидер."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_22.txt:2
@@ -1532,6 +1563,8 @@ msgid ""
 "After several elections, they find they cannot be governed by a single "
 "person and create a guiding council."
 msgstr ""
+"После нескольких проведенных выборов люди поняли, что не могут жить под "
+"управлением одного человека и создали правящий совет."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_22.txt:3
@@ -1539,6 +1572,8 @@ msgid ""
 "Shortly afterwards, the Raiders regroup and attack Shady Sands, burning the "
 "small community to the ground."
 msgstr ""
+"Вскоре после этого налетчики перегруппировались и напали на Шэйди Сэндс. "
+"Маленькое поселение полностью погибло."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_23.txt:1
@@ -1546,6 +1581,8 @@ msgid ""
 "The mutant army marches as far north as Shady Sands, razing the small town "
 "to the ground."
 msgstr ""
+"Армия мутантов надвинулась на Шэйди Сэндс с севера  и стерла маленький город"
+" с лица земли."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_24.txt:1
@@ -1553,11 +1590,14 @@ msgid ""
 "Killian Darkwater takes firm control of Junktown, drives out the last of "
 "Gizmo’s kind, and then enforces his own brand of frontier justice."
 msgstr ""
+"Киллиан Даркуотер взял в свои руки власть в Джанктауне, изгнал оттуда "
+"последних приспешников Гизмо и создал собственный закон справедливости "
+"фронтира."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_24.txt:2
 msgid "Life is fair and safe under his law."
-msgstr ""
+msgstr "Под его руководством жизнь стала безопасной и честной."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_25.txt:1
@@ -1565,6 +1605,7 @@ msgid ""
 "Junktown becomes the new boomtown under the careful, and profitable, "
 "guidance of Don Gizmo."
 msgstr ""
+"Джанктаун стал процветающим городом под осторожным правлением Дона Гизмо."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_25.txt:2
@@ -1573,18 +1614,24 @@ msgid ""
 "the scope of his power, until he chokes to death while eating some Iguana-"
 "on-a-stick."
 msgstr ""
+"Он получал очень большие доходы, продолжая расширять свое казино и власть "
+"его росла вплоть до момента его смерти. Он умер, подавившись игуаной на "
+"палочке."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_27.txt:1
 msgid ""
 "The mutants are slowed, but not stopped, by the brave defenders of Junktown."
 msgstr ""
+"Отважные защитники Джанктауна смогли задержать мутантов, но не смогли их "
+"остановить."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_27.txt:2
 msgid ""
 "When the army finishes their brutal siege, nothing of Junktown remains."
 msgstr ""
+"Когда армия довела дело до конца, от Джанктауна остались лишь воспоминания."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_28.txt:1
@@ -1592,6 +1639,8 @@ msgid ""
 "The Brotherhood of Steel helps the other human outposts drive the mutant "
 "armies away with minimal loss of life, on both sides of the conflict."
 msgstr ""
+"Братство Стали помогло другим поселениям людей избавиться от мутантов с "
+"минимальными потерями с обеих сторон."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_28.txt:2
@@ -1599,6 +1648,8 @@ msgid ""
 "The advanced technology of the Brotherhood is slowly reintroduced into New "
 "California, with little disruption or chaos."
 msgstr ""
+"Технологии Братства без особых проблем постепенно распространились в Новой "
+"Калифорнии."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_28.txt:3
@@ -1606,6 +1657,8 @@ msgid ""
 "The Brotherhood wisely remains out of the power structure, and becomes a "
 "major research and development house."
 msgstr ""
+"Само Братство мудро предпочло держаться подальше от власти и стало основной "
+"исследовательской структурой нового мира."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_29.txt:1
@@ -1613,6 +1666,8 @@ msgid ""
 "The Brotherhood of Steel, under new leadership after the death of Rhombus, "
 "becomes an overzealous, techno-religious dictatorship."
 msgstr ""
+"Братство Стали под предводительством нового лидера, появившегося после "
+"смерти Ромбуса, стало фанатичной техно-религиозной диктаторской структурой."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_29.txt:2
@@ -1620,16 +1675,19 @@ msgid ""
 "In 20 years, the Steel Plague devastates the newly formed New California "
 "Republic, and starts a Dark Age that could last a thousand years."
 msgstr ""
+"Через 20 лет Стальная Чума обрушилась на недавно созданную Новую "
+"Калифорнийскую Республику и началось мрачное средневековье, которое может "
+"продлиться еще тысячу лет."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_3.txt:1
 msgid "Your bones are scraped clean by the desolate wind."
-msgstr ""
+msgstr "Ваши кости отполировал ветер пустыни."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_3.txt:2
 msgid "Your Vault will now surely die, as you have."
-msgstr ""
+msgstr "Теперь ваше Убежище погибнет, как погибли вы."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_31.txt:1
@@ -1637,6 +1695,8 @@ msgid ""
 "The Brotherhood of Steel repels the first wave of a mutant invasion, but a "
 "traitor in their midst causes the Citadel to fall."
 msgstr ""
+"Братство Стали отразило первую атаку мутантов, но из-за предателя в их рядах"
+" Цитадель погибла."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_31.txt:2
@@ -1644,6 +1704,8 @@ msgid ""
 "Fortunately, the advanced technology is mastered slowly by the mutants, and "
 "they were unable to use it against you."
 msgstr ""
+"К счастью, мутанты очень медленно осваивают технологии Братства и не могут "
+"использовать ее против вас."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_32.txt:1
@@ -1651,23 +1713,25 @@ msgid ""
 "With your assistance, Old Harold brings the ghoul population of the Hub into"
 " equality with the humans."
 msgstr ""
+"С вашей помощью Старый Гарольд сделал людей и гулей, живущих в Хабе "
+"равноправными членами общества."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_32.txt:2
 msgid "The two sides work together, and the Hub prospers."
-msgstr ""
+msgstr "Они работают бок о бок, и Хаб процветает."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_32.txt:3
 msgid "Old Harold is still alive, as far as anyone knows."
-msgstr ""
+msgstr "Насколько известно, Старый Гарольд все еще жив."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_34.txt:1
 msgid ""
 "The Hub disperses before the might of the mutant army and will never "
 "recover."
-msgstr ""
+msgstr "Хаб исчез под натиском мутантов. Он так и не смог восстановиться."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_35.txt:1
@@ -1675,11 +1739,13 @@ msgid ""
 "Thanks to your persistence, the Raiders are destroyed as an effective "
 "fighting force, and disband."
 msgstr ""
+"Благодаря вашему упорству налетчики уничтожены, и больше не представляют "
+"угрозу для мирных жителей."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_35.txt:2
 msgid "None of the Raider survivors are ever heard from again."
-msgstr ""
+msgstr "Больше о них никто никогда ничего не слышал."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_36.txt:1
@@ -1687,12 +1753,15 @@ msgid ""
 "The Desert Raiders eventually regroup and manage to terrorize small "
 "communities in the years following your adventures."
 msgstr ""
+"Налетчики Пустошей со временем перегруппировались, и начали терроризировать "
+"маленькие поселения уже после того, как ваши приключения подошли к концу."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_37.txt:1
 msgid ""
 "The Desert Raiders pillage most of the northern parts of New California."
 msgstr ""
+"Налетчики Пустошей грабили большую часть северных земель Новой Калифорнии."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_37.txt:2
@@ -1700,31 +1769,33 @@ msgid ""
 "They are a scourge that lasts for years, until a rebel army of mutants "
 "brings them down."
 msgstr ""
+"Они буйствовали еще много лет, пока, наконец, армия мятежных мутантов не "
+"уничтожила их."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_38.txt:1
 msgid "Your mission beneath the Mutant Stronghold is successful."
-msgstr ""
+msgstr "Ваша миссия на базе Мутантов была успешно выполнена."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_38.txt:2 data/text/english/cuts/nar_39.txt:2
 msgid "Your actions today will influence the outside world for years to come."
-msgstr ""
+msgstr "Ваши сегодняшние действия повлияют на многие события во внешнем мире."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_39.txt:1
 msgid "Your mission beneath the Cathedral is successful."
-msgstr ""
+msgstr "Ваша миссия в Соборе была успешно выполнена."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_4.txt:1
 msgid "The darkness of the afterlife is all that awaits you now."
-msgstr ""
+msgstr "Темнота загробного мира ожидает вас."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_4.txt:2
 msgid "May you find more peace in that world then you found in this one..."
-msgstr ""
+msgstr "Возможно, там вы найдете покой, который так и не нашли здесь..."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_40.txt:1
@@ -1732,11 +1803,14 @@ msgid ""
 "Your involvement with the various places and people of the Wasteland is well"
 " documented by future historians."
 msgstr ""
+"Историки будущего задокументировали ваше появление в различных местах и "
+"общение с разными людьми Пустошей."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_40.txt:2
 msgid "Only a single question remained unanswered: What happened to you?"
 msgstr ""
+"Лишь один вопрос остался без ответа: что же в конце концов случилось с вами?"
 
 #. indexed_txt
 #: data/text/english/cuts/nar_41.txt:1
@@ -1744,56 +1818,59 @@ msgid ""
 "You march into the desert sands, leaving the shattered corpse of the "
 "Overseer behind you, never to return to the Vault."
 msgstr ""
+"Вы уходите в Пустоши, оставляя позади растерзанный труп Смотрителя. Вы "
+"больше никогда не вернетесь в Убежище."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_42.txt:1
 msgid "You march into the desert sands, leaving the Vault behind you."
 msgstr ""
+"Вы уходите в Пустоши, все дальше от Убежища, оставшегося у вас за спиной."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_44.txt:1
 msgid "Interplay Productions presents..."
-msgstr ""
+msgstr "Interplay Productions представляет..."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_45.txt:1
 msgid "Fallout, a post nuclear role-playing game."
-msgstr ""
+msgstr "Fallout, пост-ядерная ролевая игра."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_46.txt:1
 msgid "Fallout, a post nuclear adventure."
-msgstr ""
+msgstr "Fallout, пост-ядерное приключение."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_5.txt:1
 msgid "Not even the carrion eaters are interested in your radiated corpse."
-msgstr ""
+msgstr "Ваш облученный труп не заинтересовал даже стервятников."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_6.txt:1
 msgid "Your life ends in the wasteland."
-msgstr ""
+msgstr "Ваша жизнь закончилась в пустыне."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:1
 msgid "The radiation has taken its toll."
-msgstr ""
+msgstr "Радиация взяла свое."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:2
 msgid "Your death was lingering and extremely painful."
-msgstr ""
+msgstr "Вы умирали долго, в страшных мучениях."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:3
 msgid "Your adventure is done."
-msgstr ""
+msgstr "Ваше приключение закончено."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_8.txt:1
 msgid "You fought valiantly, but to no avail.  "
-msgstr ""
+msgstr "Вы сражались изо всех сил, но это вам не помогло.  "
 
 #. indexed_txt
 #: data/text/english/cuts/nar_8.txt:2
@@ -1801,6 +1878,8 @@ msgid ""
 "Your twisted and ruined body goes down in a hail of bullets, and thus ends "
 "your life in the wasteland."
 msgstr ""
+"Ваше искореженное, прошитое пулями тело падает на землю, и ваша жизнь в "
+"пустошах заканчивается."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:1

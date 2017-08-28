@@ -4,8 +4,8 @@
 {400}{}{Кровь}
 {500}{}{Непроходимая клетка}
 {501}{}{}
-{600}{}{нож}
-{700}{}{копье}
+{600}{}{Нож}
+{700}{}{Копье}
 {800}{}{Электромагнитный взрыв}
 {900}{}{Лазерный взрыв}
 {1000}{}{Плазменный взрыв}
@@ -14,14 +14,14 @@
 {1300}{}{Электрический заряд}
 {1400}{}{Взрыв}
 {1500}{}{Взрыв}
-{1600}{}{Сетка выхода}
-{1700}{}{Сетка выхода}
-{1800}{}{Сетка выхода}
-{1900}{}{Сетка выхода}
-{2000}{}{Сетка выхода}
-{2100}{}{Сетка выхода}
-{2200}{}{Сетка выхода}
-{2300}{}{Сетка выхода}
+{1600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{1700}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{1800}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{1900}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{2000}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{2100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{2200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{2300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
 {2400}{}{Фонарик}
 {2500}{}{Граната}
 {2600}{}{Камень}
@@ -29,19 +29,19 @@
 {2800}{}{Взрыв}
 {2900}{}{Взрыв}
 {3000}{}{Коктейль Молотова}
-{3100}{}{Сетка выхода}
-{3200}{}{Сетка выхода}
-{3300}{}{Сетка выхода}
-{3400}{}{Сетка выхода}
-{3500}{}{Сетка выхода}
-{3600}{}{Сетка выхода}
-{3700}{}{Сетка выхода}
-{3800}{}{Сетка выхода}
-{3900}{}{Сетка выхода}
-{4000}{}{Сетка выхода}
-{4100}{}{Сетка выхода}
-{4200}{}{Сетка выхода}
-{4300}{}{Сетка выхода}
-{4400}{}{Сетка выхода}
-{4500}{}{Сетка выхода}
-{4600}{}{Сетка выхода}
+{3100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3400}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3500}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3700}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3800}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3900}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{4000}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{4100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{4200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{4300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{4400}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{4500}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{4600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}

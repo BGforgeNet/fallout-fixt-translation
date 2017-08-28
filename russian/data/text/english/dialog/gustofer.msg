@@ -48,15 +48,6 @@
 {147}{}{Ладно, но если не успеешь к началу боя, твоя ставка сгорит!}
 {148}{}{Начинаем бой!}
 {149}{}{Не отвлекай меня, пока бой не закончился.}
-
-#
-# TRANSLATION NOTE: The following two lines are identical in English, but they
-# differ in foreign translations. The first line is for the case of the
-# player-character masculine ("my friend" will be masculine); the second line is
-# for the case of the player-character feminine ("my friend" will be feminine).
-#
-
 {150}{}{Ну, всех денег не выиграешь, друг мой. Повезет в следующий раз.}
 {151}{}{Ну, всех денег не выиграешь, друг мой. Повезет в следующий раз.}
-
 {152}{}{Можно сделать только одну ставку на бой.}

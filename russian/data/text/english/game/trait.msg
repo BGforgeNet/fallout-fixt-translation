@@ -1,9 +1,3 @@
-#
-#   Messages from trait.c
-#
-#
-#   TRAIT NAMES
-#
 {100}{}{Ускоренный метаболизм}
 {101}{}{Здоровяк}
 {102}{}{Миниатюрный}
@@ -15,28 +9,24 @@
 {108}{}{Кровавая баня}
 {109}{}{Порченый}
 {110}{}{Добрая душа}
-{111}{}{Чувств. к химии}
-{112}{}{Сопрот. химии}
+{111}{}{Drug-Reliant}
+{112}{}{Сопротивляемость урону}
 {113}{}{Ночн. существо}
 {114}{}{Тренированный}
 {115}{}{Одаренный}
-#
-#   TRAIT DESCRIPTIONS
-#
-{200}{}{Ваш метаболизм в два раза быстрее обычного. Это означает, что вы более подвержены действию ядов и радиации, но зато процессы восстановления проходят быстрее.}
+{200}{}{Your metabolic rate is twice that of your fellow vault-dwellers. Because your body heals faster, it has not developed a normal resistance to the elements.                  +2 Healing Rate, but Poison Resistance & Radiation Resistance start at 0%}
 {201}{}{Пожертвовать скоростью ради мощности. Вы бьете редко, но уж если бьете, будьте уверены - это заметят! Общее число ваших очков действия уменьшено, но показатель силы увеличен.}
-{202}{}{Возможно, вы несколько уступаете по комплекции другим обитателям Убежища, но это никогда вас не останавливало. Много снаряжения вам не унести, зато вы превосходите других в ловкости.}
-{203}{}{Одной рукой вы управляете значительно лучше, чем другой. Одноручное оружие - ваш конек, но вот двуручное вызывает проблемы.}
-{204}{}{Ваши удары всегда очень точные. Вы наносите не такой уж большой урон, но имеете больше шансов на критический удар.}
+{202}{}{You are not quite as big as the other vault-dwellers, but that never slowed you down.                                               +1 Agility, but Carry Weight is lowered by 10 times your Strength.       (-10 lb at STR 1 up to -100 lb at STR 10)}
+{203}{}{One of your hands is very dominant. You excel with 1-handed weapons.                  +20% Chance To Hit with all 1-handed weapons (including melee and unarmed), but -40% Chance To Hit with all 2-handed weapons.}
+{204}{}{Your attacks show a lot of finesse. You cause more critical hits, but you don't do as much damage.                            +10% Critical Chance, but your attacks deal 30% less damage.}
 {205}{}{Вы действуете в бою гораздо быстрее. У вас нет добавок к классу брони за ловкость (играет роль только то, что надето на вас), но повышаются шансы опередить противника.}
 {206}{}{Главное - хорошо размахнуться, а целиться - дело десятое. Ваши удары жестоки, но не всегда точны. Критический удар для вас редкость, но вы всегда наносите дополнительный урон.}
-{207}{}{Вы стреляете не раздумывая, но и не целясь. На использование стрелкового и метательного оружия у вас уходит на одно очко действия меньше.}
+{207}{}{You attack faster than normal, so you don't have time to make targeted attacks.               All attacks (including melee and unarmed) cost 1 less Action Point, but you can't aim for specific body parts.}
 {208}{}{Странная ирония судьбы: люди вокруг вас постоянно умирают жестокой смертью. Из всех способов умереть вы всегда выбираете для вашей жертвы самый кошмарный.}
-{209}{}{Хорошая новость: у всех вокруг вас повышаются шансы критических промахов во время боя. Плохая новость: у вас тоже!}
-{210}{}{В юности вы отдавали предпочтение мирным занятиям. В результате ваши боевые навыки на низком уровне, зато навыки первой помощи, доктора, красноречия и торговли гораздо лучше.}
-{211}{}{Вы намного легче привыкаете к химикатам. Ваши шансы пристраститься к наркотикам в два раза выше, чем у обычных людей, но вы быстрее оправляетесь от постэффектов.}
-{212}{}{Химикаты действуют на вас в два раза меньше по времени, но ваши шансы пристраститься к ним также в два раза ниже, чем у остальных.}
-{213}{}{Как ночное существо, вы больше активны, когда солнце закатилось. Ваши интеллект и восприятие улучшены ночью, но уменьшаются днем.}
-{214}{}{Вы тщательно оттачиваете свои навыки, и получаете бонус в 5 очков на каждом уровне, но лишаетесь части дополнительных качеств. Способности даются вам лишь каждые четыре уровня.}
+{209}{}{Mayhem seems to follow you everywhere. Everyone around you has more critical failures in combat. The bad thing is, so do you!                All combat failures (misses) have a fairly high chance of being "upgraded" to a Critical Failure (critical miss).}
+{210}{}{You spent more time than normal studying non-combative skills growing up.             +15% to First Aid, Doctor, Speech, and Barter, but -10% to Small Guns, Big Guns, Energy Weapons, Throwing, Melee Weapons, and Unarmed.}
+{211}{}{You have enjoyed your trips to the vault medic a bit too much.                     You recover twice as fast as normal from the ill effects of drug addiction, but your chance to become addicted is also twice normal.}
+{212}{}{You are resistant to all drugs and medications. This caused a lot of frustrations for the vault medic.                                               Your chance to become addicted to drugs is 50% of normal, but drugs only affect you half as long as normal.}
+{213}{}{A night owl even as a child, you are more awake and alert when the sun goes down.                                                              +1 Intelligence and +1 Perception between 6:01 PM and 6:00 AM, but you have  -1 Intelligence and -1 Perception between 6:01 AM and 6:00 PM.}
+{214}{}{You've spent more time honing your skills than most, because you were born with less potential than most.                    +10% to all skills and +5 Skill Points per level, but Perks only every 4th level. (Normal is every 3rd)}
 {215}{}{Ваши природные данные великолепны, но вы мало тренируетесь. Все ваши характеристики выше на 1, но каждый навык на начало игры меньше на 10%, и вы получаете на 5 очков навыков меньше за уровень.}
-

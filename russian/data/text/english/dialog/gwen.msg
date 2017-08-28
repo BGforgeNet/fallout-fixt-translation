@@ -1,4 +1,4 @@
-{100}{}{Вы видите Гвен, налетчицу.}
+{100}{}{You see a desert bandit. Based on how the others look at her, she must have some position of importance or authority.}
 {101}{}{Я Гвен, помощница Гарла. А ты кто?}
 {102}{}{Я }
 {103}{}{. Что ты здесь делаешь?}
@@ -21,3 +21,4 @@
 {120}{}{Ты умрешь в первую очередь.}
 {121}{}{Сейчас увидишь, что это за калеки!}
 {122}{}{???Ты меня утомляешь. Уходи, пока я всерьез не разозлилась.}
+{200}{}{You see: Gwen, the Khans' second-in-command and advisor to Garl.}

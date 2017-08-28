@@ -1,6 +1,6 @@
 {100}{}{Вы видите Саммаэля, одного из мусорщиков Святилища.}
 {101}{}{Вы видите обшарпанного вида мужчину в темно-синей одежде.}
-{102}{}{Эй, что-то не припомню, чтобы мы встречались. Ты кто?} # fixed
+{102}{}{Эй, что-то не припомню, чтобы мы встречались. Ты кто?}
 {103}{}{Я }
 {104}{}{.}
 {105}{}{А кто спрашивает?}
@@ -28,7 +28,7 @@
 {127}{}{Чада Собора.}
 {128}{}{Спасибо, никто.}
 {129}{}{Клинки - это печальное зрелище. Правда, они сводят концы с концами, и некоторые из них даже оказываются здесь, в Святилище, если они соглашаются с ролью, которую предлагают им Регуляторы.}
-{130}{}{Ну, если тебе еще не приходилось с ними встречаться... Они злые как черти, и им больше ничего не нужно, кроме как вырвать сердце какому-нибудь мусорщику.} # fixed
+{130}{}{Ну, если тебе еще не приходилось с ними встречаться... Они злые как черти, и им больше ничего не нужно, кроме как вырвать сердце какому-нибудь мусорщику.}
 {131}{}{Слышал, где-то к востоку от Клинков есть их гнездо, но сам я его не видел.}
 {132}{}{Оружейники не так давно переехали на большую фабрику на северо-востоке. Больше сказать ничего не могу, так как у них там ров с какой-то радиоактивной дрянью, и чтобы туда пробраться, нужно пройти мимо Когтей Смерти.}
 {133}{}{Последователи исповедуют мир и терпимость. Идея, в принципе, приятная, но неосуществимая. Они живут в большой библиотеке к северо-западу от нас.}
@@ -38,3 +38,16 @@
 {137}{}{Еще раз, чем ты занимаешься?}
 {138}{}{Ничем, спасибо.}
 {139}{}{О, понятно. Ну ладно. Бывай.}
+{140}{}{Miles said I should talk to you about parts for his hydroponic farms. Do you know anything about that?}
+{141}{}{Мы работаем только ночью, и наша работа у нас хорошо получается. Но я хочу заметить, что иногда не все возвращаются домой. На прошлой неделе я послал одного парня поискать некоторые запчасти для Майлза, и с тех пор о нем ни слуху, ни духу.  Последнее сообщение от него гласило, что он нашел детали и уже возвращается домой.}
+{142}{}{Буду знать. Спасибо за информацию.}
+{143}{}{If I can get any info on your guy, is there some kind of finder's fee?}
+{144}{}{Great, thank you. I'll search in that area for the parts. I'll let you know if I find your missing friend.}
+{145}{}{В любое время.}
+{146}{}{Would you? That'd be great. Like I said, things have been busy here and we can't afford to be losing more people.}
+{147}{}{(He laughs.) No, not really. If I had the caps for that I'd already have hired someone to track him down. (He thinks for a moment.) I like your spirit, though. Tell you what, if you can find him, I'll see what I can do for you.}
+{148}{}{Good news, I found your guy. Bad news, he's very dead.}
+{149}{}{I'm sorry to tell you this, but it appears your friend was killed by the Deathclaws at the warehouse.}
+{150}{}{Damn! *sigh* I figured as much. Thanks.}
+{151}{}{Oh, that's right. Here's your reward. (He hands you what looks like a hand-held miniature chainsaw.) There used to be a gang here that used these. Feel free to kill some of those bastard Deathclaws with it. See'ya 'round.}
+{152}{}{Here, take this for the trouble, it's the least I can do. (He hands you 200 caps.)}

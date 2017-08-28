@@ -1,7 +1,3 @@
-# These are Male farmers who work and toil under the sun. Tone of voice is busy, yet friendly.
-# Accent, if any would be akin to Midwestern United States, a little slow and drawn out, but not
-# a Southern drawl.
-
 {100}{}{Вы видите фермера.}
 {101}{}{Мне нужна почва получше.}
 {102}{}{Я не нанимаюсь.}
@@ -10,8 +6,6 @@
 {105}{}{Эти глупые растения просто не хотят выживать.}
 {106}{}{Зачем я стал фермером?}
 {107}{}{Лучше бы эти придурки не ссали мне на саженцы.}
-# pissing == urinating
-
 {108}{}{Ненавижу собак!}
 {109}{}{Ненавижу собак! Ну, кроме твоей, конечно.}
 {110}{}{Это не твой дом.}

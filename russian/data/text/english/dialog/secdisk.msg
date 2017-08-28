@@ -1,3 +1,10 @@
 {100}{}{??? Странная штука. Кажется, это можно использовать в вашем карманном компьютере.}
-{101}{}{Pip-Boy: файл найден в системе. Загрузка отменена.}
+{101}{}{Pip-Boy: загрузка данных с диска.}
 {102}{}{Pip-Boy: загрузка данных с диска.}
+{103}{}{This disk is in bad shape. It has no proper label but has "overide" scratched onto the side.}
+{104}{}{Вы видите диск с зашифрованной информацией.}
+{105}{}{Отключение системы безопасности Гамма Омикрон Дельта}
+{106}{}{**END-DISK**}
+{107}{}{**END-DISK**}
+{108}{}{Сосуд}
+{109}{}{Pip-Boy 2000 displays: 'Username: "admin". Password: "muerte". Security override: Gamma Omicron Delta.'}

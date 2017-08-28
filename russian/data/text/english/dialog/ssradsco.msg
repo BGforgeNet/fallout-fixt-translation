@@ -1,1 +1,6 @@
-{100}{}{Вы получаете 500 единиц опыта за то, что остановили радскорпионов.}
+{100}{}{Вы }
+{101}{}{ experience for protecting Shady Sands by killing all the radscorpions.}
+{102}{}{It looks to have originated from the North American Emperor scorpion.}
+{188}{}{Теперь радскорпионы заперты в своем логове.}
+{189}{}{}
+{200}{}{Вход в пещеру ведет к логову радскорпионов.}

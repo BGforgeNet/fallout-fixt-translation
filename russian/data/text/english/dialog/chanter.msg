@@ -12,13 +12,5 @@
 {111}{}{Каждый из нас сам себе глава. Создатель - лишь твой проводник. Восславим Создателя! Восславим Священный Огонь, который освещает наш путь!}
 {112}{}{Это лучше любого напитка, это лучше секса! О-о-о! Создатель выше греха и добродетели! А-а-а! Создатель - наш отец и наш возлюбленный!}
 {113}{}{Ни одна история больше не закончится смертью! Создатель здесь, и он защитит нас!}
-
-#
-# TRANSLATION NOTE: The following two lines are identical in English, but they
-# differ in foreign translations. The first line is for the case of the
-# player-character masculine ("my friend" will be masculine); the second line is
-# for the case of the player-character feminine ("my friend" will be feminine).
-#
-
 {114}{}{Пришла пора восславить Создателя! Прощай! Я расскажу тебе свою историю в другой раз!}
 {115}{}{Пришла пора восславить Создателя! Прощай! Я расскажу тебе свою историю в другой раз!}

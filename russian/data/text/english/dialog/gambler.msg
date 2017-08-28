@@ -34,13 +34,5 @@
 {133}{}{Замечательно!}
 {134}{}{Я думаю, что ты шулер и лжец. Где мои деньги?}
 {135}{}{Ты что, хочешь меня кинуть? Ни гроша не получишь!}
-
-#
-# TRANSLATION NOTE: The following two lines are identical in English, but they
-# differ in foreign translations. The first line is for the case of the
-# player-character masculine ("my friend" will be masculine); the second line is
-# for the case of the player-character feminine ("my friend" will be feminine).
-#
-
-{136}{}{Буэнос диас, дружище! Чем могу помочь?}
+{136}{}{Буэнос диас, подруга! Чем могу помочь?}
 {137}{}{Буэнос диас, подруга! Чем могу помочь?}

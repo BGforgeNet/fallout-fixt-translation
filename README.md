@@ -9,3 +9,4 @@ Contribute at [BGforge](https://tra.bgforge.net).
 
 Current languages:
 * Russian (based on [1C/FUP version](http://www.nuclear-city.com/index.php/topic/420-fallout-1-update-pack/))
+

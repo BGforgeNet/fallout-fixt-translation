@@ -1,3 +1,7 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
 {100}{}{Steel Wall}
 {200}{}{Steel Wall}
 {300}{}{Steel Wall}
@@ -981,17 +985,28 @@
 {97400}{}{Fence}
 {97500}{}{Fence}
 {97600}{}{Fence}
-{97700}{}{Truck}
-{97800}{}{Truck}
-{97900}{}{Truck}
-{98000}{}{Truck}
-{98100}{}{Truck}
-{98200}{}{Truck}
-{98300}{}{Truck}
-{98400}{}{Truck}
-{98500}{}{Truck}
-{98600}{}{Truck}
-{98700}{}{Truck}
+{97700}{}{Nuka-Cola Truck}
+{97701}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{97800}{}{Nuka-Cola Truck}
+{97801}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{97900}{}{Nuka-Cola Truck}
+{97901}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98000}{}{Nuka-Cola Truck}
+{98001}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98100}{}{Nuka-Cola Truck}
+{98101}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98200}{}{Nuka-Cola Truck}
+{98201}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98300}{}{Nuka-Cola Truck}
+{98301}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98400}{}{Nuka-Cola Truck}
+{98401}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98500}{}{Nuka-Cola Truck}
+{98501}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98600}{}{Nuka-Cola Truck}
+{98601}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98700}{}{Nuka-Cola Truck}
+{98701}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
 {98800}{}{Cave Wall}
 {98900}{}{Wall}
 {99000}{}{Wall}
@@ -1026,7 +1041,7 @@
 {101900}{}{Wall}
 {102000}{}{Doorway}
 {102100}{}{Doorway}
-{102200}{}{Dooway}
+{102200}{}{Doorway}
 {102300}{}{Wall}
 {102400}{}{Wall}
 {102500}{}{Wall}
@@ -1139,10 +1154,10 @@
 {113200}{}{Doorway}
 {113300}{}{Doorway}
 {113400}{}{Doorway}
-{113500}{}{Forcefield Emitter}
-{113600}{}{Forcefield Emitter}
-{113700}{}{Forcefield Emitter}
-{113800}{}{Forcefield Emitter}
+{113500}{}{Force Field Emitter}
+{113600}{}{Force Field Emitter}
+{113700}{}{Force Field Emitter}
+{113800}{}{Force Field Emitter}
 {113900}{}{Wall}
 {114000}{}{Wall}
 {114100}{}{Wall}
@@ -1167,7 +1182,9 @@
 {115300}{}{Water Tank}
 {115400}{}{Wall}
 {115500}{}{Destroyed Entrance}
+{115501}{}{This was the entrance to the mighty Brotherhood Of Steel - now just another ruined building of the wastes.}
 {115600}{}{Destroyed Entrance}
+{115601}{}{This was the entrance to the mighty Brotherhood Of Steel - now just another ruined building of the wastes.}
 {115700}{}{Wall}
 {115800}{}{Wall}
 {115900}{}{Wall}

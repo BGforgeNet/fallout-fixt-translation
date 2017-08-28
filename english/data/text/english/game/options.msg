@@ -6,8 +6,8 @@
 # (These MUST match "text message" enumeration on the top of OPTIONS.C)
 #
 # ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-# ° Main option panel °
+#
+# Main option panel
 #
 # Buttons
 {0}{}{SAVE GAME}
@@ -23,25 +23,25 @@
 {102}{}{COMBAT DIFFICULTY}
 {103}{}{VIOLENCE LEVEL}
 {104}{}{TARGET HIGHLIGHT}
-{105}{}{BURNING GUYS}
+{105}{}{UNUSED}
 {106}{}{COMBAT MESSAGES}
-{107}{}{COMBAT TAUNTS}
+{107}{}{COMBAT FLOATS}
 {108}{}{LANGUAGE FILTER}
-{109}{}{RUNNING}
+{109}{}{PLAYER RUNNING}
 {110}{}{SUBTITLES}
 {111}{}{ITEM HIGHLIGHT}
 {112}{}{COMBAT SPEED}
 {113}{}{TEXT DELAY}
 {114}{}{MASTER AUDIO VOLUME}
-{115}{}{MUSIC/MOVIE VOLUME}
+{115}{}{MUSIC & MOVIE VOLUME}
 {116}{}{SOUND EFFECTS VOLUME}
 {117}{}{SPEECH VOLUME}
-{118}{}{BRIGHTNESS LEVEL}
+{118}{}{BRIGHTNESS/CONTRAST}
 {119}{}{MOUSE SENSITIVITY}
 {120}{}{DEFAULT}
 {121}{}{CANCEL}
 {122}{}{Affect player speed}
-{123}{}{Pipboy speech}
+{123}{}{UNUSED}
 #
 # Label text
 #
@@ -69,8 +69,6 @@
 {222}{}{Loud}           # 2
 {223}{}{Brighter}
 {224}{}{Wide}
-
-
 #
 # Pause window
 #
@@ -79,7 +77,6 @@
 #
 # Demo versions only
 #
-{1000}{}{Sorry, the preferences menu is not}  # 1
-{1001}{}{available in the demo version.}      # 2
-
+{1000}{}{UNUSED}
+{1001}{}{UNUSED}
 

@@ -1,4 +1,4 @@
-{100}{}{You see Orfeo, a Senior Member of the Children of the Cathedral.}
+{100}{}{You see: Orfeo, a Senior Member of the Children of the Cathedral.}
 {101}{}{Ah. A new convert. Welcome.}
 {102}{}{Me kill!!!}
 {103}{}{I am not a convert!}

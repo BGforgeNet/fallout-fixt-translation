@@ -10,18 +10,17 @@
 {106}{}{This house is off limits to the likes of you.}
 # "You are not permitted to enter the house."
 
-{107}{}{What the…  Get em!}
+{107}{}{What the... Get 'em!}
 {108}{}{You made a big mistake coming in here!}
-{109}{}{What are you doing here?  You're dead meat.}
+{109}{}{What are you doing here? You're dead meat.}
 # "You're dead meat" == "i'm going to kill you"
 
 {110}{}{Mmmm, looks good.}
 # refering to food
 
-{111}{}{Is that Brahmin I smell?}
-# Brahmin is an animal akin to a 2 headed cow. consider Male
+{111}{}{Is that brahmin I smell?}
 
-{112}{}{Hook it to my veins!}
+{112}{}{Hook it into my veins!}
 # referring to getting more alcohol
 
 {113}{}{Anything in the fridge?}

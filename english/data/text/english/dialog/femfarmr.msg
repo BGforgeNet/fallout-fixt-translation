@@ -6,7 +6,7 @@
 {105}{}{Nice day, isn't it?}
 {106}{}{This soil is much healthier than it looks.}
 {107}{}{I'm trying to save these trees and I think it's working.}
-{108}{}{There should be a fertilizer caravan.  Now there's some money.}
+{108}{}{There should be a fertilizer caravan. Now there's some money.}
 {109}{}{Come on in, there's plenty of room.}
 {110}{}{It's a little chilly out there; have a seat.}
 {111}{}{Farming suits me.}

@@ -1,4 +1,4 @@
-{100}{}{You see Sally.}
+{100}{}{You see: Sally.}
 {101}{}{Why does everyone talk to me funny??}
 {102}{}{The mutant ignores you.}
 

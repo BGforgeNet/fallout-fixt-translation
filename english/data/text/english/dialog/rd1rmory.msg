@@ -1,4 +1,4 @@
-{100}{}{You see Kathy, owner of this shop.}
+{100}{}{You see: Kathy, owner of this shop.}
 {101}{}{Sorry, I don't have much today.}
 {102}{}{What're you looking for today?}
 {103}{}{Yes? Can I help you?}

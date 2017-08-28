@@ -1,35 +1,46 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# TEXT ENTRIES, MESSAGES AND HOLODISK TEXT CONTENTS FROM PIP-BOY
 #
-# Text labels and messages used in PIPBOY.C
+#-------------------------------------------------------------------
 #
-# (These MUST match "text message" enumeration on the top of PIPBOY.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
+# TRANSLATION NOTE:
+#
+#  If you need to add lines to holodisk texts due to changed word and line lengths, that is fine.
+#   as long as you follow the line numbers sequentially (1094, 1095, 1096 ... etc)
+#    and end it with one last sequentially-numbered line that only contains **END-DISK**
+#
+# Also make sure to test them in-game, as you need to use **END-PAR** entries
+#  to go to the next page, otherwise the text will overflow at the bottom.
+#
+#
+# --[Sduibek, thanks to Luffier for info]
+#
+#
 #
 # Special holiday dates
 #
-{100}{}{Happy New Year's Day!}      # New years
-{101}{}{Happy Valentine's Day!}     # April fools
-{102}{}{Happy All Fool's Day!}      # April fools
+{100}{}{Happy New Year!}            # New years
+{101}{}{Happy Valentine's Day!}     # 
+{102}{}{Alt+F4 and then Y enables God Mode}    # April fools!
 {103}{}{Happy Ship Day!}            # Shipping day!
 {104}{}{Happy Independence Day!}    # Independence day
 {105}{}{Happy Halloween!}           # Halloween
 {106}{}{Happy Thanksgiving Day!}    # Thanksgiving
-{107}{}{Merry Christmas!}           # X-mas
-
+{107}{}{Happy Christmas!}           # X-mas  # Merry changed to Happy, most people outside of USA say Happy.  -Sduibek
 #
-# System messages
+# System messages - in Pip-Boy 2000 interface. Text for buttons on left side, and green text on bottom when viewing Status entries.
 #
 {200}{}{MORE}
 {201}{}{BACK}
-{202}{}{STATUS}
+{202}{}{Status}
 {203}{}{No current tasks.}
-{204}{}{CLUES}  # clues gone
+# TRANSLATORS: Don't do anything with line 204. Leave it blank or put equivalent of "NOT USED".  -Sduibek
+{204}{}{}	# Clues gone
 {205}{}{AUTOMAPS}
 {206}{}{VIDEO ARCHIVES}
 {207}{}{DATA}
+# 208 and 209 assumed to be not used in game. They were blank in original game files. Contact me if yours aren't blank.  -Sduibek
 {208}{}{}
 {209}{}{}
 {210}{}{Status}
@@ -37,13 +48,13 @@
 {212}{}{of}
 {213}{}{Page}
 {214}{}{DONE}
-{215}{}{You can not rest at this location!}
-
+# changed "at this location" to "at this time", because it doesn't depend on location, it depends on if anything on map is aggro/hostile. This is important distinction.  -Sduibek
+{215}{}{Cannot rest at this time.}
 #
 # Alarm clock
 #
 {300}{}{ALARM CLOCK}
-{301}{}{Hit Points}
+{301}{}{Current Hit Points: }
 {302}{}{Rest for ten minutes}
 {303}{}{Rest for thirty minutes}
 {304}{}{Rest for an hour}
@@ -52,42 +63,75 @@
 {307}{}{Rest for four hours}
 {308}{}{Rest for five hours}
 {309}{}{Rest for six hours}
-{310}{}{Rest until morning (0600)}
-{311}{}{Rest until noon (1200)}
-{312}{}{Rest until evening (1800)}
-{313}{}{Rest until midnight (0000)}
-{314}{}{Rest until healed}
-
+{310}{}{Rest until morning  (06:00)}
+{311}{}{Rest until noon  (12:00)}
+{312}{}{Rest until evening  (18:00)}
+{313}{}{Rest until midnight  (00:00)}
+{314}{}{Rest until healed  (full HP)}
 #
-# Holodisk titles
 #
-{400}{}{FEV Experiment Tape}
-{401}{}{Security Tape}
-{402}{}{Ancient Brotherhood Tape}
-{403}{}{Alpha Experiment Tape}
-{404}{}{Delta Experiment Tape}
-{405}{}{Vree's Experiment Tape}
-{406}{}{Brotherhood Code}
-{407}{}{Mutant Transmissions}
-{408}{}{Brotherhood Tape}
-{409}{}{Sophia Tape}
-{410}{}{Maxson Log}
+#  "DISKS & LOGS" entry titles. They display IN THIS ORDER!
+#
+#
+# Numerical order of GVARs does not match with order of entries.
+#
+# For example the first entry slot in Pip-Boy (FEV Experiment) is hard-coded to correspond
+#  with the second GVAR. (162, FEVDisk)  They are all hard-coded like this.
+#
+#
+# TRANSLATORS: Ignore this "GVARs:" list.  -Sduibek
+#
+# GVARs:
+#  161 artifact
+#  162 fevdisk
+#  163 secdisk
+#  164 diskA
+#  165 diskD
+#  166 vreedisk
+#  167 codedisk (honor code, unused)
+#  209 mutdisk
+#  210 brohist - must update in ScrName.msg
+#  211 sopdisk - must update in ScrName.msg
+#  212 maxdisk - must update in ScrName.msg
+#  234 grey _MBnodisk
+#  235 maxson _MBnodisk
+#  237 valtdisk
+#  258 fev (zax)
+#  259 pwrarm (zax)
+#  260 personnel (zax)
+#  271 doorcode (are these swapped/bothusing?)
+#  298 ltcodes (are these swapped/bothusing?)
+#  311 regdisk
+#
+# Some entries have been moved or removed from the following list, as a fix for the more-than-13-entries bug.  -Sduibek
+# For entries that are blank now, please make yours blank as well.
+#
+{400}{}{FEV Experiments Disk}       # DONE!
+{401}{}{Vault Locations v34.129}    # Moved from 416. Security Disk was here, but is now a dialog sequence.  -Sduibek
+{402}{}{Ancient Brotherhood Disk}   # 
+{403}{}{Alpha Experiments Log}
+{404}{}{Delta Experiments Log}
+{405}{}{Vree's Autopsy Reports}
+{406}{}{Regulator Transmission} # Brotherhood Honor Code was not used and never will be; it's against canon.  -Sduibek
+{407}{}{Mutant Transmissions}  #done. -Sduibek  # will become dialog
+{408}{}{Brotherhood Disk}
+{409}{}{Sophia's Disk}
+{410}{}{Maxson's Log}
 {411}{}{Richard Grey Audio Diary}
 {412}{}{Captain Maxson's Diary}
-{413}{}{FEV Research}
-{414}{}{Power Armor Specs}
-{415}{}{West Tech Records}
-{416}{}{Vault Locations v34.129}
-{417}{}{Regulator Transmission}
-
+{413}{}{FEV Research} # from ZAX, no disk
+{414}{}{}  # Power Armor Specs was here, is now a dialog sequence.  -Sduibek
+{415}{}{West Tek Records} # from ZAX, no disk
+{416}{}{}
+{417}{}{Regulator Transmission} # Regulator Transmission was here, is now a dialog sequence.  -Sduibek
 #
 # Movie archive titles
 # Order must match the list (see gmovie.h)
 #
-{500}{}{InterPlay Logo}               # Not show in Pipboy
-{501}{}{MacPlay Logo}                 # MacPlay version ,Not show in Pipboy
-{502}{}{Intro}                        # Not show in Pipboy
-{503}{}{Vat Destruction}
+{500}{}{InterPlay Logo}  # Not show in Pip-Boy 2000
+{501}{}{MacPlay Logo}    # MacPlay version ,Not show in Pip-Boy 2000
+{502}{}{Intro}           # Not show in Pip-Boy 2000
+{503}{}{Vats Destruction}
 {504}{}{Cathedral Destruction}
 {505}{}{Overseer Briefing}
 {506}{}{Vault 13 Water Deprivation}   # Death
@@ -97,96 +141,177 @@
 {510}{}{Dipped in the Vats}           # Death
 {511}{}{Vault 13 Water}
 {512}{}{Vault 13 Water Running Low}
-{513}{}{Rae Kills the Master}
-
+{513}{}{Rae Kills the Master} # VIDEO DOES NOT EXIST. DO NOT USE.  -Sduibek
 #
 # Things for the Mac version to speak
 #
-#
 {600}{}{Status}
-{601}{}{Clues}  # Clues gone
+{601}{}{UNUSED}
 {602}{}{Automaps}
-{603}{}{Archives}
+{603}{}{Videos}
 {604}{}{Alarm Clock}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the Rob Co Pipboy 2000.}
-{607}{}{So long.}
-{608}{}{Wake up.}
-
-
+{606}{}{Welcome to the RobCo Pip-Boy 2000.}
+{607}{}{So long...}
+{608}{}{Wake up...}
 #
-# Status thread text
+#
+# Status thread text - QUESTS data
+#
 #
 # Format:
 # 0 City name
 # 1 ... 9 thread/quest name
 #
-{700}{}{Vault 13}
-{701}{}{Calm rebel faction.}
-{702}{}{Destroy the Mutant leader.}
-{703}{}{Destroy the source of the Mutants.}
-{704}{}{Find the Water Chip.}
-{705}{}{Find the Water Thief.}
+# You can fill-in the blank entries here, but there's no point as they'll never show up in Pip-Boy.
 #
-{710}{}{Buried Vault}
+{700}{}{Vault 13}
+#
+{701}{}{Calm or disband the rebel faction.}             # GVAR 238
+{702}{}{Eliminate the leader of the Super Mutants.}     # GVAR 309
+{703}{}{Destroy the source of the Super Mutants.}       # GVAR 308
+{704}{}{Find a new Water Chip for the Vault.}           # GVAR 101
+{705}{}{Find and catch the Water Thief.}                # GVAR 188
+{706}{}{}
+{707}{}{}
+{708}{}{}
+{709}{}{}
+#
+{710}{}{Vault 15}  # Cannot display in Pip-Boy at all.
+{711}{}{}
+{712}{}{}
+{713}{}{}
+{714}{}{}
+{715}{}{}
+{716}{}{}
+{717}{}{}
+{718}{}{}
+{719}{}{}
 #
 {720}{}{Shady Sands}
-{721}{}{Cure Jarvis of Radscorpion Poison.}
-{722}{}{Make Poison Antidote.}
-{723}{}{Rescue Tandi from the Raiders.}
-{724}{}{Stop the Radscorpions.}
+#
+{721}{}{Diagnose and cure Jarvis of his ailment.}       # GVAR 
+{722}{}{Help Razlo find a cure for radscorpion venom.}  # GVAR 
+{723}{}{Rescue Tandi from the raiders.}                 # GVAR 
+{724}{}{Stop the threat of the local radscorpions.}     # GVAR 
+{725}{}{}
+{726}{}{}
+{727}{}{}
+{728}{}{}
+{729}{}{}
 #
 {730}{}{Junktown}
-{731}{}{Help Saul.}
-{732}{}{Kill Killian.}
-{733}{}{Rescue Sinthia.}
-{734}{}{Save Trish.}
-{735}{}{Stop Gizmo.}
-{736}{}{Bust the Skulz gang.}
 #
-{740}{}{Raiders}
+{731}{}{Help Saul.}                                     # GVAR 
+{732}{}{Kill Killian.}                                  # GVAR 
+{733}{}{Rescue Sinthia.}                                # GVAR 
+{734}{}{Save Trish.}                                    # GVAR 
+{735}{}{Stop Gizmo.}                                    # GVAR 
+{736}{}{Bust the Skulz gang.}                           # GVAR 
+{737}{}{}
+{738}{}{}
+{739}{}{}
+#
+{740}{}{The Khans}  # Cannot display in Pip-Boy at all.
+{741}{}{}
+{742}{}{}
+{743}{}{}
+{744}{}{}
+{745}{}{}
+{746}{}{}
+{747}{}{}
+{748}{}{}
+{749}{}{}
 #
 {750}{}{Necropolis}
-{751}{}{Destroy the Super Mutants at the Watershed.}
-{752}{}{Fix the Necropolis water pump.}
 #
-{760}{}{Hub}
-{761}{}{Destroy Deathclaw.}
-{762}{}{Dispose of Jain.}
-{763}{}{Dispose of merchant.}
-{764}{}{Find the missing caravans.}
-{765}{}{Steal necklace from the Merchants.}
+{751}{}{Deal with the Super Mutants at the Watershed.}  # GVAR
+{752}{}{Fix the water pump.}                            # GVAR 
+{753}{}{}
+{754}{}{}
+{755}{}{}
+{756}{}{}
+{757}{}{}
+{758}{}{}
+{759}{}{}
 #
-{770}{}{Brotherhood}
-{771}{}{Become an Initiate.}
-{772}{}{Rescue Initiate from the Hub.}
+{760}{}{The Hub}
 #
-{780}{}{Military Base}
+{761}{}{Find and destroy the Deathclaw.}                # GVAR 
+{762}{}{Dispose of Jain.}                               # GVAR 
+{763}{}{Dispose of the merchant.}                       # GVAR 
+{764}{}{Find the missing caravans.}                     # GVAR 
+{765}{}{Steal necklace from the merchant.}              # GVAR 
+{766}{}{}
+{767}{}{}
+{768}{}{}
+{769}{}{}
 #
-{790}{}{Glow}
-{791}{}{Disarm Traps for the Facility.}
-{792}{}{Turn on power for the Glow.}
+{770}{}{Brotherhood of Steel}
+{771}{}{Become an Initiate.}                    # GVAR 
+{772}{}{Rescue Initiate from the Hub.}          # GVAR 
+{773}{}{}
+{774}{}{}
+{775}{}{}
+{776}{}{}
+{777}{}{}
+{778}{}{}
+{779}{}{}
 #
-{800}{}{Boneyard}
-{801}{}{Become a Blade.}
-{802}{}{Deliver Locket for Romero.}
-{803}{}{Deliver package from the Gun Runners.}
-{804}{}{Find Children spy in the Followers.}
-{805}{}{Fix hydroponic farms in Adytum.}
-{806}{}{Rescue Jason Zimmerman.}
-{807}{}{Stop the Gangs from attacking Adytum.}
+{780}{}{Mariposa Military Base}  # Cannot display in Pip-Boy at all.
+{781}{}{}
+{782}{}{}
+{783}{}{}
+{784}{}{}
+{785}{}{}
+{786}{}{}
+{787}{}{}
+{788}{}{}
+{789}{}{}
 #
-{810}{}{Cathedral}
-
-
+{790}{}{The Glow}
+{791}{}{Disarm the facility's traps.}           # GVAR 140
+{792}{}{Turn on the power.}                     # GVAR 139
+{793}{}{}
+{794}{}{}
+{795}{}{}
+{796}{}{}
+{797}{}{}
+{798}{}{}
+{799}{}{}
 #
-# Holodisk text
+{800}{}{L.A. Boneyard}
+{801}{}{Become a Blade.}                        # GVAR 135
+{802}{}{Deliver Locket for Romero.}             # GVAR 127
+{803}{}{Deliver package from the Gun Runners.}  # GVAR 129
+{804}{}{Find Children spy in the Followers.}    # GVAR 133
+{805}{}{Fix the hydroponic farms in Adytum.}    # GVAR 138
+{806}{}{Rescue Jason Zimmerman.}                # GVAR 130
+{807}{}{Stop the Gangs from attacking Adytum.}  # GVAR 128
+{808}{}{}
+{809}{}{}
 #
-
-# *** FEV Experiment Disk ***
+{810}{}{Children's Cathedral}  # Cannot display in Pip-Boy at all.
+{811}{}{}
+{812}{}{}
+{813}{}{}
+{814}{}{}
+{815}{}{}
+{816}{}{}
+{817}{}{}
+{818}{}{}
+{819}{}{}
+#
+#
+#  ---HOLODISK TEXT FOR "DISKS & LOGS" SECTION---
+#
+#
+#   1.  *** FEV Experiments Disk *** - FEVDisk.ssl - "FEV Experiments Log" - (found in The Glow, GLOW2.MAP)
+#
+#
 {1000}{}{• Log Date March 21, 2075:}
 {1001}{}{Major Barnett has ordered experiments with batch}
-{1002}{}{10-011 of  panimmunity virion, which has been }
+{1002}{}{10-011 of panimmunity virion, which has been }
 {1003}{}{renamed FEV, for Forced Evolutionary Virus. His}
 {1004}{}{main concern is with the side effects of the }
 {1005}{}{quad-helix structure rather than its main effect}
@@ -196,7 +321,7 @@
 {1009}{}{is a great success. While their basal metabolism}
 {1010}{}{appears unchanged, their immunity to infection }
 {1011}{}{and radiation is exceeding all earlier expectations.}
-{1012}{}{Addendum: choroplasts seem unaffected by the virion.}
+{1012}{}{Addendum: chloroplasts seem unaffected by the virion.}
 {1013}{}{Further experiments on plant cells have been }
 {1014}{}{canceled by order of Major Barnett.}
 {1015}{}{**END-PAR**}
@@ -280,18 +405,83 @@
 # -
 {1087}{}{• Log Date January 7, 2077}
 {1088}{}{Major Barnett has ordered transfer of all FEV }
-{1089}{}{research  to the Mariposa Military Base. He }
+{1089}{}{research to the Mariposa Military Base. He }
 {1090}{}{plans to continue the project experiments on }
 {1091}{}{volunteer subjects. I am against this, and would }
 {1092}{}{like it noted here that research on human subjects}
 {1093}{}{is not recommended by myself or my staff.}
 {1094}{}{**END-DISK**}
-
-# *** Security Disk ***
-{2000}{}{Security override Gamma Omicron Delta.}
-{2001}{}{**END-DISK**}
-
-# *** Ancient Brotherhood Disk ***
+#
+#
+#   2.  *** Vault Locations v34.129 *** - ValtDisk.ssl - (from Mrs Stapleton HUBDWNTN.MAP)
+#
+#   (was Security Disk, but that wasn't used in vanilla Fallout and is moved to dialog sequence anyway.)  -Sduibek
+#
+#
+{2000}{}{Vault Locations v34.129 Revision C (Western USA)}
+{2001}{}{**END-PAR**}
+#
+{2002}{}{Hello, and welcome to the latest edition of the Western}
+{2003}{}{United States Vault Location Pamphlet. We hope you}
+{2004}{}{enjoy the pamphlet, and remember Vaults are not just}
+{2005}{}{for the upwardly mobile, but for everyone.}
+{2006}{}{**END-PAR**}
+#
+{2007}{}{Vault 12}
+{2008}{}{**END-PAR**}
+#
+{2009}{}{Under the sprawling metropolis of Bakersfield, lies the}
+{2010}{}{technological magnificence of Vault 12. Built with every}
+{2011}{}{amenity in mind for the prospective vault-dweller,}
+{2012}{}{Vault 12 was given the "Pressed Vault Suit"}
+{2013}{}{award for attention to preparedness. Buried far}
+{2014}{}{underground, the protection that vault-dwellers will}
+{2015}{}{receive will be unprecedented. Much like all other}
+{2016}{}{Vaults, Vault 12 has been fitted with the newest in}
+{2017}{}{Vault Water Purification Systems. Able to take even}
+{2018}{}{the waste located in the sewers of Bakersfield, this}
+{2019}{}{system is able to deliver over 15000 gallons of pure,}
+{2020}{}{refreshing drinking water every day.}
+{2021}{}{**END-PAR**}
+#
+{2022}{}{Vault 13}
+{2023}{}{**END-PAR**}
+#
+{2024}{}{Located in a scenic mountainous region northwest of}
+{2025}{}{Vault 12, this Vault offers an endless supply of pure}
+{2026}{}{water to the inhabitants. The rumors that the water}
+{2027}{}{table in the area could easily be contaminated in the}
+{2028}{}{event of a Nuclear War have been found by the}
+{2029}{}{Department of Water and Power to be completely}
+{2030}{}{unfounded. In the event that the water in the area}
+{2031}{}{were to become tainted, remote even though it may be,}
+{2032}{}{Vault 13 has been fitted with the government approved}
+{2033}{}{Vault Water Purification System. Rated to work without}
+{2034}{}{significant loss of output for over 250,000 hours,}
+{2035}{}{prospective vault-dwellers should have nothing to fear.}
+{2036}{}{**END-PAR**}
+#
+{2037}{}{Vault 15}
+{2038}{}{**END-PAR**}
+#
+{2039}{}{Due east from Vault 13, construction on this Vault has}
+{2040}{}{gone extremely smoothly. Much work was done to}
+{2041}{}{reinforce the walls of the third level of this Vault, to}
+{2042}{}{make all the future vault-dwellers more secure in the}
+{2043}{}{knowledge that in the event of even a major earthquake,}
+{2044}{}{the regulatory computers of the Vault would continue}
+{2045}{}{to function. Recent tours of the newly constructed}
+{2046}{}{Vault, have had many a potential vault-dweller walking}
+{2047}{}{away with a newfound awe of the improvements done to}
+{2048}{}{this already impressive Vault.}
+{2049}{}{**END-DISK**}
+#
+#
+#   3.  *** Ancient Brotherhood Disk *** - Artifact.ssl - "strange disk" - (found in The Glow, GLOW1.MAP)
+#
+#   (disk player needs to find to become an Initiate of the Brotherhood.)
+#
+#
 {3000}{}{Capt. Maxson was right. This place is death.}
 {3001}{}{I'm writing this so that if we don't make it}
 {3002}{}{back, someone, some day, might find out what}
@@ -342,7 +532,7 @@
 {3041}{}{Gehenna. That bastard has all the anti-rad. }
 {3042}{}{**END-PAR**}
 # -
-{3043}{}{That leaves Soto and myself.  We can't make }
+{3043}{}{That leaves Soto and myself. We can't make }
 {3044}{}{it far enough away from here without the }
 {3045}{}{anti-rads, so I've got to try to find Camarillo}
 {3046}{}{before it's too late.}
@@ -350,9 +540,11 @@
 # -
 {3048}{}{Sgt. D. Allen , United States Armed Forces.}
 {3049}{}{**END-DISK**}
-
-
-#  *** Alpha Experiment Disk ***
+#
+#
+#   4.  *** Alpha Experiment Disk *** - DiskA.ssl - "Alpha Experiments Log" - (found in The Glow, GLOW2.MAP)
+#
+#
 {4000}{}{Prototype Panimmunity Virion Project}
 {4001}{}{**END-PAR**}
 # -
@@ -361,8 +553,8 @@
 {4004}{}{Chinese government, we have manufactured a virus }
 {4005}{}{fragment consisting of ribonucleic acid (RNA) }
 {4006}{}{encased in a protein-lipid sheath. This virion }
-{4007}{}{contains a specially arranged sequence of radiated}
-{4008}{}{amino acids (RAA) that are capable of attaching to}
+{4007}{}{contains a specially arranged sequence of irradiated}
+{4008}{}{amino acids (IAA) that are capable of attaching to}
 {4009}{}{non-specific binding sites on deoxyribonucleic }
 {4010}{}{acid (DNA) and force a non-replicating mitosis to}
 {4011}{}{occur. The resulting host cell is left with a }
@@ -398,22 +590,26 @@
 {4038}{}{begin mitosis. Further experiments will be necessary}
 {4039}{}{to determine the results on these cells.}
 {4040}{}{**END-DISK**}
-
-
-# *** Delta Experiment Disk ***
-{5000}{}{The Military has deemed it necessary for us to research}
-{5001}{}{further in depth the effects of wave technology upon}
-{5002}{}{living organisms.  We have taken light and sound as the}
-{5003}{}{basis of our studies.  By manipulating the amplitude of}
-{5004}{}{the light waves and magnifying the frequency, we have}
-{5005}{}{been able to get lasers which will cut through a few}
-{5006}{}{feet a steel.  Unfortunately, the power to do such a}
-{5007}{}{task has not been fully developed.  We have other}
-{5008}{}{scientists looking into this.}
-{5009}{}{**END-DISK**}
-
-
-# *** Vree's Experiment Disk ***
+#
+#
+#   5.  *** Delta Experiment Disk *** - DiskD.ssl - "Delta Experiments Log" - (found in The Glow, GLOW2.MAP) - THIS WILL BE MOVED TO A DIALOG SEQUENCE.  -Sduibek
+#
+#
+{5000}{}{}
+{5001}{}{}
+{5002}{}{}
+{5003}{}{}
+{5004}{}{}
+{5005}{}{}
+{5006}{}{}
+{5007}{}{}
+{5008}{}{}
+{5009}{}{}
+#
+#
+#   6.  *** Vree's Experiment Disk *** - VreeDisk.ssl - "Vree's Autopsy Reports" - (received from Vree.ssl)
+#
+#
 {6000}{}{• Initial Observations}
 {6001}{}{**END-PAR**}
 # -
@@ -436,7 +632,7 @@
 {6015}{}{Height: 3.2 meters}
 {6016}{}{Mass:    363.21 kg}
 {6017}{}{Gender: Indeterminate}
-{6018}{}{Skin Colour: Predominantly gray with tints of green }
+{6018}{}{Skin Color: Predominantly gray with tints of green }
 {6019}{}{under the current lighting system. Uncertain if this is}
 {6020}{}{due to decay or exposure in the wastelands. Note: The }
 {6021}{}{skin is extremely tough with respect to scalpels.}
@@ -508,7 +704,7 @@
 {6080}{}{least two people and three animals the size of dogs.}
 {6081}{}{What is truly astonishing is the extent of viral}
 {6082}{}{infection in the subject. I had read once that some}
-{6083}{}{pre-war scientists were conducting experiments with}
+{6083}{}{pre-War scientists were conducting experiments with}
 {6084}{}{such a virus, but all of the research notes were}
 {6085}{}{destroyed.}
 {6086}{}{**END-PAR**}
@@ -522,10 +718,10 @@
 {6093}{}{to bring about the best possible combination. While}
 {6094}{}{the process by which this happens is uncertain, it does}
 {6095}{}{have some severe side effects. Chief among them is}
-{6096}{}{sterility.  The test subject would have been unable to}
+{6096}{}{sterility. The test subject would have been unable to}
 {6097}{}{reproduce with any creature, whether clean or mutated.}
 {6098}{}{Other side effects include an alteration of pigment of}
-{6099}{}{the epidermis.  The life expectancy is increased by 10%.}
+{6099}{}{the epidermis. The life expectancy is increased by 10%.}
 {6100}{}{Intellect is decreased by this strain by 30%.}
 {6101}{}{**END-PAR**}
 # -
@@ -539,68 +735,40 @@
 {6108}{}{there could be some place which is creating them.}
 {6109}{}{As to where they could be, I cannot hazard a guess.}
 {6110}{}{**END-DISK**}
+#
+#
+#   7.  
+#
+#
+# (was previously Brotherhood of Steel Honor Code - CodeDisk.ssl - NOT USED IN GAME, GOES AGAINST FALLOUT CANON.  -Sduibek)
+#
+#
+start
 
 
-# *** Brotherhood of Steel Honor Code ***
-# *** Maxson's History ***
-{7000}{}{My father was a security guard at a secret military base}
-{7001}{}{in the desert of southern California. A typical MP, I}
-{7002}{}{remember mostly his strength.  When it came time for}
-{7003}{}{the revolution, I respected his convictions. He stayed}
-{7004}{}{behind, to help those who were disabled and wounded,}
-{7005}{}{even the scis. He put the well being of myself and my}
-{7006}{}{mother into the hands of his best friend, and ordered}
-{7007}{}{us into the desert with the other rebels.}
-{7008}{}{**END-PAR**}
-# -
-{7009}{}{We, very few, marched into the wastes. The only thought}
-{7010}{}{on my mind was that I would never see my father again.}
-{7011}{}{He knew that to stay behind was death. And still, he}
-{7012}{}{stayed. He respected the flag, the CIC and the badge}
-{7013}{}{that he wore.}
-{7014}{}{**END-PAR**}
-# -
-{7015}{}{What an idiot.}
-{7016}{}{**END-PAR**}
-# -
-{7017}{}{He died for the sins of others. That will never happen}
-{7018}{}{again to us. We will become self-sufficient. We will}
-{7019}{}{become keepers of knowledge and lore. We will survive}
-{7020}{}{the end of civilization. We will take responsibility}
-{7021}{}{for our actions, and we will hold accountable the}
-{7022}{}{actions of others.}
-{7023}{}{**END-PAR**}
-# -
-{7024}{}{This I pledge to you, Maxson, my son. The Brotherhood}
-{7025}{}{of Steel is justly named. We are a Brotherhood. Unlike}
-{7026}{}{my father, we will stand back to back with those that}
-{7027}{}{share our convictions and beliefs. We are Steel. We are}
-{7028}{}{hard. We have been sharpened to and edge.}
-{7029}{}{**END-PAR**}
-# -
-{7030}{}{Always remember the fires that we were forged in.}
-{7031}{}{Never forget. }
-{7032}{}{The motto from a previous time, and our motto now.}
-{7033}{}{**END-DISK**}
-
-# *** Mutant disk *** (bug fixed by WG: 8011 was duplicated)
-{8000}{}{Message sent: Base, this is Scavenger Team two come in.}
-{8001}{}{Over.}
+end
+#
+#
+#   8.  *** SUPER MUTANT TRANSMISSIONS *** - MutDisk.ssl - "Mutant Transmissions Disk" - (received from DCMutant.ssl)
+#
+#
+{8000}{}{Message sent: Base, this is Scavenger Team Two,}
+{8001}{}{come in. Over.}
 {8002}{}{**END-PAR**}
 # -
-{8003}{}{Message received: We're reading you loud an clear, go}
+{8003}{}{Message received: We're reading you loud 'n clear, go}
 {8004}{}{ahead. Over.}
 {8005}{}{**END-PAR**}
 # -
 {8006}{}{Message sent: We've collected four males, two females,}
 {8007}{}{and their supplies from the caravan. They're not too }
-{8008}{}{badly contaminated. Tell the Lieutenent that we're }
+{8008}{}{badly contaminated. Tell the Lieutenant that we're }
 {8009}{}{sending them ahead, they might be able to survive the}
 {8010}{}{process. We're going to wait here for a few more days}
-{8011}{}{ to try and intercept another caravan. Over.}
+{8011}{}{ to try to intercept another caravan. Over.}
 {8012}{}{**END-PAR**}
 # -
-{8013}{}{Message received: Roger that.  Were any casulties }
+{8013}{}{Message received: Roger that. Were any casualties }
 {8014}{}{accrued during the acquisition? Over.}
 {8015}{}{**END-PAR**}
 # -
@@ -609,17 +777,19 @@
 {8018}{}{problem they had. One of our scouts did not return from}
 {8019}{}{his perimeter patrol. A few of our other scouts reported}
 {8020}{}{that there was something big and fast seen near our}
-{8021}{}{camp last night.  I'll be checking it out personally }
+{8021}{}{camp last night. I'll be checking it out personally }
 {8022}{}{at 0600 hours tomorrow morning. Over.}
 {8023}{}{**END-PAR**}
 # -
 {8024}{}{Message received: Copy. We'll be awaiting your report.}
-{8025}{}{If possible, try to capture it.  The Master would be}
+{8025}{}{If possible, try to capture it. The Master would be}
 {8026}{}{very pleased. Over.}
 {8027}{}{**END-DISK**}
-
-
-# *** Military Base Disk***
+#
+#
+#   9.  *** Military Base Disk*** - IS THIS EVEN FOUND/USED IN-GAME?
+#
+#
 {9000}{}{• Oct 10, 2077}
 {9001}{}{I, Roger Maxson, Captain, serial number 072389 have}
 {9002}{}{started this log because it doesn't look good for any of}
@@ -640,9 +810,9 @@
 {9015}{}{Every time we get a report from higher up things get}
 {9016}{}{worse here. The war is going in a very bad direction and}
 {9017}{}{this place is about to go into full mutiny, with all the}
-{9018}{}{chaos it brings. I stopped one of the men from executing}
-{9019}{}{a scientist today, and demanded that we interrogate}
-{9020}{}{them to find out what their orders were.}
+{9018}{}{chaos that entails. I stopped one of the men from}
+{9019}{}{executing a scientist today, and demanded that we}
+{9020}{}{interrogate them to find out what their orders were.}
 {9021}{}{**END-PAR**}
 # -
 {9022}{}{• Oct.13 2077 }
@@ -696,7 +866,7 @@
 {9065}{}{I can't believe those bastards finally did it. Damn them}
 {9066}{}{all to hell. They finally let the A-bombs fly. We were }
 {9067}{}{right in the middle of trying to pry the real story out }
-{9068}{}{of von Felden when we completely lost contact.  I have a }
+{9068}{}{of von Felden when we completely lost contact. I have a }
 {9069}{}{feeling the research center was hit hard. I don't know }
 {9070}{}{why, just call it a gut feeling. It seems inconceivable }
 {9071}{}{that we were not targeted. I'm sure China will make up }
@@ -710,7 +880,7 @@
 {9078}{}{Sgt. Platner volunteered to go outside today to take }
 {9079}{}{specific readings on the atmosphere. It seems the }
 {9080}{}{radiation has not spread this far. Since he was wearing }
-{9081}{}{his power armor, there was no threat to him from }
+{9081}{}{his Power Armor, there was no threat to him from }
 {9082}{}{radiation, but if he had been exposed he would have had }
 {9083}{}{to be exiled. We don't have adequate decontamination }
 {9084}{}{facilities here.}
@@ -720,7 +890,7 @@
 {9087}{}{I convinced the men that we should bury the scientists. }
 {9088}{}{I don't know why... perhaps it was to ease my conscience.}
 {9089}{}{I finally started to believe their stories when the last }
-{9090}{}{one was dying.  }
+{9090}{}{one was dying. }
 {9091}{}{**END-PAR**}
 # -
 {9092}{}{My God, what have I become? }
@@ -731,10 +901,13 @@
 {9096}{}{the exodus to the old government bunker at Lost Hills. }
 {9097}{}{I'm leaving this log behind to be buried when this place}
 {9098}{}{goes in the next exchange. Who knows, maybe someone}
-{9099}{}{will find it someday.....}
+{9099}{}{will find it someday...}
 {9100}{}{**END-DISK**}
-
-# *** Sophia Disk ***
+#
+#
+#   10.  *** Sophia Disk *** - SopDisk.ssl - "Sophia's Disk"
+#
+#
 {10000}{}{The Exodus from the accursed base was a trying time for}
 {10001}{}{the men and their families. While there was no }
 {10002}{}{radioactive fallout to contend with, they were }
@@ -783,12 +956,15 @@
 # -
 {10039}{}{These men were never heard from again.}
 {10040}{}{**END-DISK**}
-
-# *** Maxson Disk ***
+#
+#
+#   11.  *** Maxson Disk *** - MaxDisk.ssl - "Maxson's Log"
+#
+#
 {11000}{}{By my orders, as active commanding officer following}
 {11001}{}{the untimely death of Colonel Robert Spindel during}
 {11002}{}{this time of crisis, the full base security team has}
-{11003}{}{been deployed to the security bunker at Lost Hill.}
+{11003}{}{been deployed to the security bunker at Lost Hills.}
 {11004}{}{**END-PAR**}
 # -
 {11005}{}{This directive also includes the families of the}
@@ -802,8 +978,8 @@
 # -
 {11012}{}{Operative 1: All military personnel, and their }
 {11013}{}{families, are to vacate the base by 0800, 25 Oct 2077.}
-{11014}{}{All personnel, travelling under command, will make }
-{11015}{}{their way to Lost Hill base. No leave has been granted.}
+{11014}{}{All personnel, traveling under command, will make }
+{11015}{}{their way to Lost Hills base. No leave has been granted.}
 {11016}{}{**END-PAR**}
 # -
 {11017}{}{Operative 2: All civilian personnel are directed to }
@@ -818,21 +994,24 @@
 {11025}{}{**END-PAR**}
 # -
 {11026}{}{Operative 4: All codes of military justice will be }
-{11027}{}{harsly enforced, on military personnel and civilian }
+{11027}{}{harshly enforced, on military personnel and civilian }
 {11028}{}{personnel in joint military operations.}
 {11029}{}{**END-PAR**}
 # -
-{11030}{}{Operative 5: Until such time as consistant and }
+{11030}{}{Operative 5: Until such time as consistent and }
 {11031}{}{authorized communication can be established with the }
-{11032}{}{War Department, these orders will have precendence over}
+{11032}{}{War Department, these orders will have precedence over}
 {11033}{}{any previously established orders.}
 {11034}{}{**END-PAR**}
 # -
 {11035}{}{Captain Maxson}
 {11036}{}{24 Oct 2077}
 {11037}{}{**END-DISK**}
-
-# *** Richard Grey audio diary ***
+#
+#
+#   12.  *** Richard Grey audio diary *** - Downloaded from Vats Control Computer (MBVATS12.MAP)
+#
+#
 {12000}{}{                                                    0000 - 0004}
 {12001}{}{I'm dying. I need to get this down before the pain}
 {12002}{}{overwhelms me.}
@@ -964,8 +1143,11 @@
 {12114}{}{continue to grow and feed until we have brought peace}
 {12115}{}{and unity to the entire world.}
 {12116}{}{**END-DISK**}
-
-# *** Captain Maxson's Diary ***
+#
+#
+#   13.  *** Captain Maxson's Diary *** - Downloaded from Vats Control Computer (MBVATS12.MAP)
+#
+#
 {13000}{}{• Oct 10, 2077}
 {13001}{}{I, Roger Maxson, Captain, serial number 072389 have}
 {13002}{}{started this log because it doesn't look good for any}
@@ -993,7 +1175,7 @@
 {13022}{}{I killed a man today. I was interrogating  chief scientist}
 {13023}{}{Anderson  and he was giving me the full details of their}
 {13024}{}{inhuman experiments. He said his orders came from the}
-{13025}{}{Gov't., but I didn't buy it. He started screaming about}
+{13025}{}{government, but I didn't buy it. He started screaming about}
 {13026}{}{how he was following orders, how he was a military man,}
 {13027}{}{and I just shot him. I tell myself it was to keep him from}
 {13028}{}{causing a full mutiny among the men, but I'm not so sure.}
@@ -1012,7 +1194,7 @@
 {13039}{}{position as leader of the men. They follow me without}
 {13040}{}{question now. The interrogations invariably end up being}
 {13041}{}{executions. Shellman held out the longest, but the end}
-{13042}{}{result was the same.  Her arguments about her orders}
+{13042}{}{result was the same. Her arguments about her orders}
 {13043}{}{were a bit to specific to be completely made up. I'm}
 {13044}{}{getting a real bad feeling in my gut about how this is}
 {13045}{}{all going to end up. I don't even lie to myself anymore}
@@ -1024,7 +1206,7 @@
 {13050}{}{I don't know why they never sent anyone here to see}
 {13051}{}{what was happening when we stopped responding to}
 {13052}{}{their transmissions. It doesn't make any sense.}
-{13053}{}{Well, they'll come now. I declared ourselves seceeded}
+{13053}{}{Well, they'll come now. I declared ourselves seceded}
 {13054}{}{from the union. They remember Jefferson Davis. What}
 {13055}{}{will history say about me?}
 {13056}{}{**END-PAR**}
@@ -1040,11 +1222,11 @@
 {13064}{}{I can't believe those bastards finally did it. Damn them}
 {13065}{}{all to hell. They finally let the A-Bombs fly. We were}
 {13066}{}{right in the middle of trying to pry the real story out}
-{13067}{}{of von Felden when we completely lost contact.  I have}
+{13067}{}{of von Felden when we completely lost contact. I have}
 {13068}{}{a feeling the research center was hit hard. I don't know}
 {13069}{}{why, just call it a gut feeling. It seems inconceivable}
 {13070}{}{that we were not targeted. I'm sure China will make up}
-{13071}{}{for that oversite real soon. Luckily, we had moved our}
+{13071}{}{for that oversight real soon. Luckily, we had moved our}
 {13072}{}{families from outside into the facility the day before}
 {13073}{}{yesterday. We do not yet know if the fallout has}
 {13074}{}{reached this area.}
@@ -1054,7 +1236,7 @@
 {13077}{}{Sgt. Platner volunteered to go outside today to take}
 {13078}{}{specific readings on the atmosphere. It seems the}
 {13079}{}{radiation has not spread this far. Since he was wearing}
-{13080}{}{his power armor, there was no threat to him from}
+{13080}{}{his Power Armor, there was no threat to him from}
 {13081}{}{radiation, but if he had been exposed he would have had}
 {13082}{}{to be exiled. We don't have adequate decontamination}
 {13083}{}{facilities here.}
@@ -1072,13 +1254,13 @@
 {13093}{}{the exodus to the old government bunker at Lost Hills.}
 {13094}{}{I'm leaving this log behind to be buried when this place}
 {13095}{}{goes in the next exchange. Who knows, maybe someone}
-{13096}{}{will find it someday.....}
+{13096}{}{will find it someday...}
 {13097}{}{**END-DISK**}
-
-
-# Computer Download of the FEV project
-# Uses the global var COMPUTER_FEV
-
+#
+#
+#   14.  *** FEV Research *** - (Downloaded from ZAX on GLOW2.MAP) - "FEV project"
+#
+#
 {14000}{}{FEV Summary Digest:}
 {14001}{}{**END-PAR**}
 {14002}{}{2073. As China became increasingly aggressive with}
@@ -1094,7 +1276,7 @@
 {14011}{}{to standard viral infection.}
 {14012}{}{**END-PAR**}
 #
-{14013}{}{2076. Unforseen side effects began surfacing in early}
+{14013}{}{2076. Unforeseen side effects began surfacing in early}
 {14014}{}{2076 with the PVP. Animal test subjects began showing}
 {14015}{}{an abnormal growth rate accompanied by increased }
 {14016}{}{brain activity. The U.S. government took notice of }
@@ -1106,20 +1288,20 @@
 #
 {14022}{}{2077. FEV nears completion. Test on lab animals are at }
 {14023}{}{a near 100% success rate. Size and muscle density }
-{14024}{}{increase approximately 60%, and the protential }
+{14024}{}{increase approximately 60%, and the potential }
 {14025}{}{intelligence increase by 200%. Effects upon human }
 {14026}{}{subjects remain unknown; although they are theoretically}
 {14027}{}{promising. The military, wishing to continue further }
 {14028}{}{testing, builds a large facility at the Mariposa }
 {14029}{}{military installation in central California. At this }
-{14030}{}{new facility, testing of the FEV virus continues on }
-{14031}{}{volunteer subjects from the military.}
+{14030}{}{new facility, testing of the Forced Evolutionary Virus }
+{14031}{}{continues on volunteer subjects from the military.}
 {14032}{}{**END-DISK**}
-
-
-# Computer Downlod of the Power Armor Specs
-# Uses the global var COMPUTER_POWER_ARMOR
-
+#
+#
+#   15.  *** Power Armor Specs *** - (Downloaded from ZAX on GLOW2.MAP)
+#
+#
 {15000}{}{The T-51b Powered Infantry Armor is designed with the}
 {15001}{}{latest passive defense features for both civilian and}
 {15002}{}{military disturbances. The back-mounted TX-28}
@@ -1131,11 +1313,11 @@
 {15008}{}{coating can reflect laser and radiation emissions without}
 {15009}{}{damage to the composite subsurface.}
 {15010}{}{**END-DISK**}
-
-
-# Computer Download of the Personel Records
-# Uses the global var COMPUTER_RECORDS
-
+#
+#
+#   16.  *** Personnel Records *** - (Downloaded from ZAX on GLOW2.MAP) - "West Tek Records"
+#
+#
 {16000}{}{Robert Anderson}
 {16001}{}{Research Assistant}
 {16002}{}{Security Clearance: Blue}
@@ -1183,98 +1365,103 @@
 {16037}{}{Security Clearance: Blue}
 {16038}{}{Stationed: Mariposa Military Base}
 {16039}{}{**END-DISK**}
-
-# Holodisk from the Brotherhood Library
-# uses the global var BROTHERHOOD_LIBRARY_DISK
-
-{17000}{}{Vault Locations v34.129 Revision C (Western USA)}
-{17001}{}{**END-PAR**}
 #
-{17002}{}{Hello, and welcome to the latest edition of the Western}
-{17003}{}{United States Vault Location Pamphlet.  We hope you}
-{17004}{}{enjoy the pamphlet, and remember Vaults are not just}
-{17005}{}{for the upwardly mobile, but for everyone.}
-{17006}{}{**END-PAR**}
 #
-{17007}{}{Vault 12}
-{17008}{}{**END-PAR**}
+#   17. was Vault Locations, is now blank. --Vault Locations was moved to 2.--
 #
-{17009}{}{Under the sprawling metropolis of Bakersfield, lies the}
-{17010}{}{technological magnificence of Vault 12.  Built with every}
-{17011}{}{amenity in mind for the prospective Vault Dweller,}
-{17012}{}{Vault 12 was given the "Pressed Vault Suit"}
-{17013}{}{award for attention to preparedness.  Buried far}
-{17014}{}{underground, the protection that Vault Dwellers will}
-{17015}{}{receive will be unprecedented.  Much like all other}
-{17016}{}{Vaults, Vault 12 has been fitted with the newest in}
-{17017}{}{Vault Water Purification Systems.  Able to take even}
-{17018}{}{the waste located in the sewers of Bakersfield, this}
-{17019}{}{system is able to deliver over 15,000 gallons of pure,}
-{17020}{}{refreshing drinking water every day.}
-{17021}{}{**END-PAR**}
 #
-{17022}{}{Vault 13}
-{17023}{}{**END-PAR**}
+{17000}{}{}
+{17001}{}{}
+{17002}{}{}
+{17003}{}{}
+{17004}{}{}
+{17005}{}{}
+{17006}{}{}
+{17007}{}{}
+{17008}{}{}
+{17009}{}{}
+{17010}{}{}
+{17011}{}{}
+{17012}{}{}
+{17013}{}{}
+{17014}{}{}
+{17015}{}{}
+{17016}{}{}
+{17017}{}{}
+{17018}{}{}
+{17019}{}{}
+{17020}{}{}
+{17021}{}{}
+{17022}{}{}
+{17023}{}{}
+{17024}{}{}
+{17025}{}{}
+{17026}{}{}
+{17027}{}{}
+{17028}{}{}
+{17029}{}{}
+{17030}{}{}
+{17031}{}{}
+{17032}{}{}
+{17033}{}{}
+{17034}{}{}
+{17035}{}{}
+{17036}{}{}
+{17037}{}{}
+{17038}{}{}
+{17039}{}{}
+{17040}{}{}
+{17041}{}{}
+{17042}{}{}
+{17043}{}{}
+{17044}{}{}
+{17045}{}{}
+{17046}{}{}
+{17047}{}{}
+{17048}{}{}
+{17049}{}{}
 #
-{17024}{}{Located in a scenic mountainous region northwest of}
-{17025}{}{Vault 12, this Vault offers an endless supply of pure}
-{17026}{}{water to the inhabitants.  The rumors that the water}
-{17027}{}{table in the area could easily be contaminated in the}
-{17028}{}{event of a Nuclear War have been found by the}
-{17029}{}{Department of Water and Power to be completely}
-{17030}{}{unfounded.  In the event that the water in the area}
-{17031}{}{were to become tainted, remote even though it may be,}
-{17032}{}{Vault 13 has been fitted with the government approved}
-{17033}{}{Vault Water Purification System.  Rated to work without}
-{17034}{}{significant loss of output for over 250,000 hours,}
-{17035}{}{prospective Vault Dwellers should  have nothing to fear.}
-{17036}{}{**END-PAR**}
 #
-{17037}{}{Vault 15}
-{17038}{}{**END-PAR**}
+#   18.  *** Regulators Radio Transmission *** - RegDisk.ssl - (for Blades/Jon quest) - "Regulator Transmission"
 #
-{17039}{}{Due east from Vault 13, construction on this Vault has}
-{17040}{}{gone extremely smoothly.  Much work was done to}
-{17041}{}{reinforce the walls of the third level of this Vault, to}
-{17042}{}{make all the future Vault Dwellers more secure in the}
-{17043}{}{knowledge that in the event of even a major earthquake,}
-{17044}{}{the regulatory computers of the Vault would continue}
-{17045}{}{to function.  Recent tours of the newly constructed}
-{17046}{}{Vault, have had many a potential Vault Dweller walking}
-{17047}{}{away with a new found awe of the improvements done to}
-{17048}{}{this already impressive Vault.}
-{17049}{}{**END-DISK**}
-
-#Regulator Disk from Blades
-
+#
 {18000}{}{Regulator's radio transmission log:}
 {18001}{}{**END-PAR**}
+#
 {18002}{}{Message sent: Regulator patrol to Regulator base come}
 {18003}{}{in. Do you copy? Over.}
 {18004}{}{**END-PAR**}
+#
 {18005}{}{Message received: This is Regulator base, Principle}
 {18006}{}{Regulator Caleb responding. Report? Over.}
 {18007}{}{**END-PAR**}
+#
 {18008}{}{Message sent: Sir, yes sir! Regulator Second Class}
 {18009}{}{Cravotta reporting. We've apprehended the Zimmerman}
 {18010}{}{boy trying to infiltrate our perimeter again, sir.}
 {18011}{}{Orders? Over.}
 {18012}{}{**END-PAR**}
-{18013}{}{Message received: Shit! Again! Well that's the last time}
+#
+{18013}{}{Message received: Shit! Again?! Well that's the last time}
 {18014}{}{that's going to happen. Eliminate him and make it look}
 {18015}{}{like the Blades did it.}
 {18016}{}{Understand? Over.}
 {18017}{}{**END-PAR**}
+#
 {18018}{}{Message sent: Sir? Uh... did I copy correctly, sir?}
 {18019}{}{Kill him? Over.}
 {18020}{}{**END-PAR**}
+#
 {18021}{}{Message received: : That's affirmative, Regulator.}
 {18022}{}{And I want it messy. Impale him on the guard posts}
 {18023}{}{out front- oh, and cut out his tongue so he }
-{18024}{}{can't talk while we "attempt" to save his sorry ass.}
+{18024}{}{can't talk while we 'attempt' to save his sorry ass.}
 {18025}{}{Over?}
 {18026}{}{**END-PAR**}
+#
 {18027}{}{Message sent: It shall be done, sir, Over.}
 {18028}{}{**END-PAR**}
+#
 {18029}{}{End transmission.}
 {18030}{}{**END-DISK**}
+

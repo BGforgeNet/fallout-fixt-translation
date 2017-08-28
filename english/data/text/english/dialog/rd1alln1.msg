@@ -1,4 +1,4 @@
-{100}{}{You see Mitch, the manager of the All-In-One Store.}
+{100}{}{You see: Mitch, the manager of the All-In-One Store.}
 {101}{}{Looking for something?}
 {102}{}{What're you looking for today?}
 {103}{}{What can I help you with?}
@@ -20,7 +20,7 @@
 {119}{}{Don't be a stranger.}
 {120}{}{I have all the good stuff.}
 {121}{}{What?}
-{122}{}{Mitch runs this place not me.}
+{122}{}{Mitch runs this place, not me.}
 {123}{}{I'm off to the Falcon when I'm off!}
 {124}{}{Stay out of trouble.}
 {125}{}{Watch it.}
@@ -29,4 +29,5 @@
 {128}{}{Welcome to the All-In-One Store.}
 {129}{}{Buy something already!}
 {130}{}{You trying to cause trouble?}
-{131}{}{We're close.}
+{131}{}{We're closed.}
+{132}{}{We're closed.}

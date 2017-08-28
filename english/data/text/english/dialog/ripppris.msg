@@ -3,5 +3,5 @@
 {102}{}{No way!}
 {103}{}{Die!}
 {104}{}{Okay.}
-{105}{}{Oh, thank you. Thank you. Good bye!}
-{106}{}{But . . .}
+{105}{}{Oh, thank you. Thank you. Goodbye!}
+{106}{}{But... }

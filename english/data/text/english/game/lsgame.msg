@@ -1,4 +1,3 @@
-#
 # ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 #
 # Text labels and messages used in LOADSAVE.C
@@ -17,10 +16,10 @@
 {106}{}{Error loading save game list!} # Line 1
 {107}{}{Save game directory:}    # Line 2
 {108}{}{Doesn't exist or is corrupted.} # Line 3
-{109}{}{SAVE GAME}
-{110}{}{LOAD GAME}
+{109}{}{SAVE SLOT}
+{110}{}{SAVE SLOT}
 {111}{}{- EMPTY -}
-{112}{}{- CORRUPT SAVE  FILE -}
+{112}{}{- CORRUPT SAVE FILE -}
 {113}{}{- OLD VERSION -}
 {114}{}{Empty.}
 {115}{}{Error!}
@@ -39,7 +38,7 @@
 {128}{}{DEC}
 {129}{}{Level}
 {130}{}{DESCRIPTION}
-{131}{}{Save game already exists, overwrite?}
+{131}{}{Save game already exists! Overwrite?}
 {132}{}{Error saving game!}             # Line 1
 {133}{}{Unable to save game.}           # Line 2
 {134}{}{Error loading game!}            # Line 1
@@ -49,9 +48,7 @@
 
 {140}{}{Game Saved.}
 {141}{}{Game Loaded.}
-#
-# Demo versions only
-#
-{200}{}{Sorry you can't save or load} # 1
-{201}{}{in the demo version.}         # 2
 
+# Demo versions only
+{200}{}{UNUSED}
+{201}{}{UNUSED}

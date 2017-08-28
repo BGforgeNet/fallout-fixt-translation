@@ -1,11 +1,9 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 #
 # Text labels and messages used by EDITOR.C
 #
 # (These MUST match "text message" enumeration on the top of EDITOR.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 #
 #
 {100}{}{DONE}
@@ -17,28 +15,33 @@
 {106}{}{NAME}
 {107}{}{MALE}
 {108}{}{FEMALE}
-{109}{}{PERKS}
-{110}{}{KARMA}
-{111}{}{KILLS}
+{109}{}{Perks}
+{110}{}{Karma}
+{111}{}{Killed} # Killed makes more sense than Kills in the descriptions
 {112}{}{SKILL POINTS}
 {113}{}{Level:}
-{114}{}{Exp:}
+{114}{}{Experience:}
 {115}{}{Next Level:}
 {116}{}{CHAR POINTS}
 {117}{}{SKILLS}
 {118}{}{You must use all character points} # 1
 {119}{}{before starting the game!}         # 2
 #
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
 {120}{}{Character Points}
-{121}{}{Amount of free character points that can be added to one of the basic stats.}
+{121}{}{Amount of free points that can be added to your primary statistics.}
 {122}{}{Next Level}
-{123}{}{The amount of experience points needed to move up to the next level.}
+{123}{}{This is how many experience points are needed to move up to the next level.}
 {124}{}{Perks}
 {125}{}{Karma}
 {126}{}{Kills}
-{127}{}{Perks add additional abilities. Every third experience level, you can choose one perk.}
+{127}{}{Perks add additional abilities. You can choose one perk every third experience level, or every fourth experience level if you have the Skilled trait.}
 {128}{}{These are the effects of the choices you make during the game.}
-{129}{}{A counter that keeps track of the type and numbers of creatures you have slaughtered, or have seen killed in your presence.}
+{129}{}{This tab keeps track of the type and number of creatures that you and your buddies have slaughtered. Fun!}
 {130}{}{Skill Points}
 {131}{}{Use free skill points to increase the level of a skill.}
 #
@@ -55,9 +58,9 @@
 {142}{}{You must select all tag skills}  # 1
 {143}{}{before starting the game!}       # 2
 {144}{}{Tag Skills}
-{145}{}{Tag skills are skills your character specializes in.  Each tag skill gains +20%, and increases twice as fast.  You must pick three tag skills.}
+{145}{}{Tag skills are the skills that you have specialized in.  Each tag skill gains +20%, and increases twice as fast (1 point increases the skill by 2%).  You must pick three tag skills.}
 {146}{}{Optional Traits}
-{147}{}{Optional traits describe your character in more detail.  All traits will have positive and negative effects.  You may choose up to two traits during creation.}
+{147}{}{Optional traits define your character in more detail.  All traits will have both positive and negative effects.  You may choose up to two traits during character creation.}
 {148}{}{You already have the maximum of} # 1
 {149}{}{two traits!}                     # 2
 {150}{}{Skills}
@@ -71,12 +74,12 @@
 #
 {157}{}{All stats must be between 1 and 10} # 1
 {158}{}{before starting the game!}          # 2
-
-
+#
+#
 #
 # Abbreviated basic stat levels
 #
-{200}{}{V.Bad}  # Terrible
+{200}{}{V.Bad}  # Very Bad
 {201}{}{Bad}    # Bad
 {202}{}{Poor}   # Poor
 {203}{}{Fair}   # Fair
@@ -86,14 +89,14 @@
 {207}{}{Great}  # Great
 {208}{}{Exclnt} # Excellent
 {209}{}{Heroic} # Heroic
-
+#
 #
 # Abbreviated Derived/Non Derived stat names
 #
 {300}{}{Hit Points}
 {301}{}{Action Points }
 {302}{}{Armor Class}
-{303}{}{Unarmed Damage}
+{303}{}{} # 303 is blank on purpose, leave blank
 {304}{}{Melee Damage}
 {305}{}{Damage Res.  }
 {306}{}{Poison Res.   }
@@ -103,31 +106,31 @@
 {310}{}{Critical Chance}
 {311}{}{Carry Weight}
 {312}{}{Poisoned}
-{313}{}{Radiated}
+{313}{}{Irradiated}
 {314}{}{Eye Damage}
 {315}{}{Crippled Right Arm}
 {316}{}{Crippled Left Arm}
 {317}{}{Crippled Right Leg}
 {318}{}{Crippled Left Leg}
-
+#
 #
 # Damage info texts
 #
 # Poisoned
-{400}{}{Your character has been poisoned.  Poison will do damage over a period of time, until cured or it passes from your system.}
+{400}{}{You have been poisoned.  Poison will do damage over a period of time, until it is cured or passes from your system.  Endurance increases your resistance to poison.}
 # Radiation
-{401}{}{Your character is suffering from a significant amount of Radiation poisoning.  The more radiation damage, the more deadly the effect.}
+{401}{}{You are suffering from a significant amount of radiation poisoning.  The more rads you have received, the more deadly the effect.  Going over 1000 will usually mean certain death.}
 # Eye Damage
-{402}{}{This means your character has been seriously hit in one or both of your eyes.  This affects your Perception.}
+{402}{}{This means you have been seriously wounded in one or both of your eyes.  This affects your Perception.}
 # Crippled right arm
-{403}{}{The right arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons.}
+{403}{}{Your right arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons at all.}
 # Crippled left arm
-{404}{}{Your character's left arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons.}
+{404}{}{Your left arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons at all.}
 # Crippled right leg
-{405}{}{Your character has a crippled right leg.}
+{405}{}{You have a crippled right leg. This affects your movement speed in combat and means you cannot run.}
 # Crippled left leg
-{406}{}{Your character has a crippled left leg.}
-
+{406}{}{You have a crippled left leg. This affects your movement speed in combat and means you cannot run.}
+#
 # Month strings
 {500}{}{January}
 {501}{}{February}
@@ -141,7 +144,7 @@
 {509}{}{October}
 {510}{}{November}
 {511}{}{December}
-
+#
 #
 # Option menu text
 #
@@ -154,22 +157,22 @@
 {606}{}{the current character?}                 # line 2
 {607}{}{ was successfully saved.}
 {608}{}{ was successfully loaded.}
-{609}{}{already exists.}
+{609}{}{already exists!}
 {610}{}{Do you wish to overwrite?}
 {611}{}{Error saving }
 {612}{}{Error loading }
 {613}{}{Character file invalid.}
 {614}{}{Character data invalid.}
 {615}{}{Error reading file list!}
-{616}{}{PRINT}
-{617}{}{PLAYER}
+{616}{}{} # 616 is blank on purpose, leave blank
+{617}{}{} # 617 is blank on purpose, leave blank
 {618}{}{BLANK.GCD}
-
+#
 #
 # ASCII text file printing text
 #
 {620}{}{FALLOUT}                   # Title line 1
-{621}{}{VAULT-13 PERSONNEL RECORD} # Title line 2
+{621}{}{VAULT 13 PERSONNEL RECORD} # Title line 2
 {622}{}{hours} # Title line 3
 # -
 # -
@@ -227,38 +230,47 @@
 {652}{}{ ::: Inventory :::}
 #-
 {653}{}{                                      Total Weight:}
-
+#
 #
 # Karma name strings
 #
-{1000}{}{Reputation (General) }
-{1001}{}{Berserker}
+#
+{1000}{}{Reputation (General)  }
+{1001}{}{Berserker!}
 {1002}{}{Champion}
-{1003}{}{Childkiller}
-{1004}{}{Nuka Cola addiction}
-{1005}{}{Buffout addiction}
-{1006}{}{Mentats addiction}
-{1007}{}{Psycho addiction}
-{1008}{}{RadAway addiction}
-{1009}{}{Alcohol addiction}
+{1003}{}{Child-Killer}
+#
+#
+# ADDICTIONS - Sduibek's custom names  (TRANSLATORS: If you have an idea for better/cooler addiction titles, please tell me!)
+#
+#
+{1004}{}{Nuka-Fiend}         # Other ideas: "Sodalicious", "Cola Fiend".  (Sduibek's was "Coke Fiend" previously, which - oops - doesn't work because it's not COCA-Cola.)
+{1005}{}{Juicer}             # TRANSLATORS: Slang word for a person who uses/abuses steroids.
+{1006}{}{Completely Mental}  # Other ideas: "Mental", "Mentalist", "Brainiac", etc.  TRANSLATORS: Slang for "totally crazy".
+{1007}{}{Psycho}             # Other ideas: Could add stylized emphasis such as "Psycho!" or "PSYCHO".
+{1008}{}{Radiant}            # Could use suggestions for other ideas on this.
+{1009}{}{Alcoholic}          # was "Combat Armor" (internal one used for +20% Radiation Resistance on items)
+#
 #
 # Karma description strings
 #
-{1100}{}{This is a ranged stat that represents your general reputation. The higher the number, the better known and respected you are. If your rep is negative, you are hated by some for your evil actions.}
-{1101}{}{You have killed a large number of people. This is generally not a good thing to get known for. People from the wrong side of the track will like you a little more, however.}
-{1102}{}{Your actions have revealed you to be a champion of the people. You war against evil and villainy is widely known. Honorable people will respect you better.}
+#
+{1100}{}{This ranged number represents your general reputation. Higher positive values indicate you've gained the attention and respect of normal folk. Negative values indicate you are hated by some for your evil actions.}
+{1101}{}{You have killed a large number of innocent people. This is generally not a good thing to be known for. However, people from the wrong side of the track will like you more.}
+{1102}{}{You have killed many evil-doers of the wastes, revealing you to be a champion of the people. Your war against chaos and villainy is widely known.}
 {1103}{}{You have killed children, the youth of the wasteland. This is considered to be a really bad thing. You evil, evil person.}
-{1104}{}{You thoroughly enjoy Nuka-Cola, the pop of the post-nuclear world.}
-{1105}{}{You are addicted to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular chem or suffer withdrawal.}
-{1107}{}{You have a chem addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to Radaway. While not life threatening, you must take it regularly.}
+{1104}{}{You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud.}
+{1105}{}{You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal.}
+{1107}{}{You have a vicious drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to RadAway. While not directly life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning.}
 {1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
 {1110}{}{TEMPORARY - What is this?}
-
-
 #
-# Special Demo version only text
+#
+#
+# TEXT USED FOR falldemo.exe DEMO VERSION ONLY
+#
 #
 {5000}{}{Sorry, you can only print your}   # 1
 {5001}{}{character in the full version.}   # 2
@@ -268,6 +280,4 @@
 {5005}{}{character in the full version.}   # 2
 {5006}{}{CHEAT MODE}
 {5007}{}{Not available in demo.}
-
-
-
+#

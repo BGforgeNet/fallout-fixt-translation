@@ -1,383 +1,387 @@
-{101}{}{}                                               #obj_dude
-{102}{}{Elder.}                                         #elder
-{103}{}{Barterman}                                      #barter
-{104}{}{Bodyguard}                                      #bguard
-{105}{}{Cow}                                            #cow
-{106}{}{Gunrunner Moat Guard}                           #MoatGrd
-{107}{}{Shady Sands Guard}                              #guard
-{108}{}{Loser}                                          #loser
-{109}{}{Shady Sands Peasant}                            #pleasant
-{110}{}{Gunrunner}                                      #GunRnr
-{111}{}{Entrance to Map}                                #map_init
-{112}{}{Radscorpion}                                    #radscorp
-{113}{}{Super Mutant Sentry}                            #mutant2
-{114}{}{Shady Sands Well}                               #sswell
-{115}{}{Set}                                            #set
-{116}{}{Harry}                                          #harry
-{117}{}{Stimpak}                                        #stimpack
-{118}{}{Manhole Cover}                                  #cover
-{119}{}{Manhole}                                        #manhole
-{120}{}{Ladder}                                         #ladder
-{121}{}{Chair}                                          #chair
-{122}{}{Nuka Cola Machine}                              #coke
-{123}{}{Manager's Desk}                                 #computer
-{124}{}{Corpse}                                         #dead
-{125}{}{Desk}                                           #desk
-{126}{}{Ghoul Corpse}                                   #1dedgul1
-{127}{}{Mole Rat}                                       #1molrat1
-{128}{}{Manhole}                                        #1manhol1
-{129}{}{Ladder}                                         #1ladder1
-{130}{}{Ghoul Manager}                                  #ghoul
-{131}{}{Map Script}                                     #alphhotl
-{132}{}{Ghoul}                                          #genghoul
-{133}{}{Aradesh}                                        #Aradesh
-{134}{}{Brahmin}                                        #Brahmin
-{135}{}{Cougar}                                         #Cougar
-{136}{}{Flash}                                          #Flash
-{137}{}{Junktown Guard}                                 #JtGenGrd
-{138}{}{Junktown Peasant}                               #JtPeasnt
-{139}{}{Butch}                                          #Butch
-{140}{}{Cabbot}                                         #Cabbot
-{141}{}{Children of the Cathedral Member}               #  Childmem
-{142}{}{Decker}                                         #Decker
-{143}{}{Elder}                                          #Elder
-{144}{}{Gizmo}                                          #Gizmo
-{145}{}{Harold}                                         #Harold
-{146}{}{Jain}                                           #Jain
-{147}{}{Killian}                                        #Killian
-{148}{}{Laura}                                          #Laura
-{149}{}{Loxley}                                         #Loxley
-{150}{}{Lieutenant}                                     #Lt
-{151}{}{Master}                                         #Master
-{152}{}{Maxson}                                         #  Maxson
-{153}{}{Morpheus}                                       #  Morph
-{154}{}{Nicole}                                         #  Nicole
-{155}{}{Overseer}                                       #  Over
-{156}{}{Rhombus}                                        #  Rhombus
-{157}{}{Tandi}                                          #  Tandi
-{158}{}{Vree}                                           #  Vree
-{159}{}{Mole Rat}                                       #  1MoleRat
-{160}{}{Necropolis Airlock}                             #  AirLock
-{161}{}{Barry}                                          #  Barry
-{162}{}{Computer}                                       #  DeadComp
-{163}{}{Door}                                           #  Door
-{164}{}{Ganger Ghoul}                                   #  Ganger
-{165}{}{Gary}                                           #  Gary
-{166}{}{Ghoul}                                          #  Generic
-{167}{}{Ghoul}                                          #  GenGhoul
-{168}{}{Glowing One}                                    #  GenGlow1
-{169}{}{Ghoul Corpse}                                   #  GhDead
-{170}{}{Ghoul Sentry}                                   #  GhDorGrd
-{171}{}{Ghoul Corpse}                                   #  GhGenDed
-{172}{}{Set's Guard}                                    #  GhGuard
-{173}{}{Ghoul Manager}                                  #  Ghoul
-{174}{}{Ghoul Refugee}                                  #  GhRefuge
-{175}{}{Ghoul Guard}                                    #  GhZero
-{176}{}{Caged Glowing One}                              #  GlowOne
-{177}{}{Undergrounder}                                  #  Groundr
-{178}{}{Shady Sands Guard}                              #  Guard
-{179}{}{Harry}                                          #  Harry
-{180}{}{Larry}                                          #  Larry
-{181}{}{Ganger Leader}                                  #  Leader
-{182}{}{Ghoul Manager}                                  #  Manager
-{183}{}{Mangled Corpse}                                 #  Mangled
-{184}{}{Ghoul Peasant}                                  #  Meander
-{185}{}{Super Mutant}                                   #  Mutant2
-{186}{}{Water Computer}                                 #  NH2OComp
-{187}{}{Water Pump}                                     #  NH2OPump
-{188}{}{Wall}                                           #  OddWall
-{189}{}{Ghoul Prisoner}                                 #  Prisonr
-{190}{}{Sally}                                          #  Sally
-{191}{}{Graffiti}                                       #  graffiti
-{192}{}{Set's Cooler}                                   #  SetColer
-{193}{}{Set's Desk}                                     #  SetDesk
-{194}{}{Door}                                           #  SetDoor1
-{195}{}{Set's Bodyguard}                                #  SetGuard
-{196}{}{Wall}                                           #  SetSctDr
-{197}{}{Odd Smell}                                      #  Smell
-{198}{}{Stimpak}                                        #  StimPack
-{199}{}{Necorpolis Storeroom}                           #  StoreRom
-{200}{}{Super Mutant}                                   #  Super
-{201}{}{Terry}                                          #  Terry
-{202}{}{Garret}                                         #  Garret
-{203}{}{Gretch}                                         #  Gretch
-{204}{}{Morbid}                                         #  Morbid
-{205}{}{Dumar}                                          #  Dumar
-{206}{}{Barstow}                                        #  Barstow
-{207}{}{Children of the Cathedral Initiate}             #  Genint
-{208}{}{Children of the Cathedral Healer}               #  JtChidMem
-{209}{}{Undergrounder Lookout}                          #  Lookout
-{210}{}{Computer}                                       #  MachIV
-{211}{}{Blocked Room}                                   #  BlkRoom
-{212}{}{Desert}                                         #  RndDesrt
-{213}{}{Shady Sands Guard}                              #  TGuard
-{214}{}{Shady Sands Cook}                               #  cook
-{215}{}{Shady Sands Citizen}                            #  citizen
-{216}{}{Chair}                                          #  HousChar
-{217}{}{Agatha's Bed}                                   #  AgathBed
-{218}{}{Razlo's Bed}                                    #  RozBed
-{219}{}{Razlo's Wife}                                   #  Wife
-{220}{}{Dresser}                                        #  SDresser
-{221}{}{Rug}                                            #  ShadyRug
-{222}{}{Bookcase}                                       #  SBokcase
-{223}{}{Fruit Jar}                                      #  MuteJar
-{224}{}{Desk}                                           #  ShadDesk
-{225}{}{Shelf}                                          #  CookShel
-{226}{}{Table}                                          #  CookTabl
-{227}{}{Mutated Fruit}                                  #  Fruit
-{228}{}{Brahmin Pen Smell}                              #  PenSmell
-{229}{}{Razlo}                                          #  Razlo
-{230}{}{Vault 13 Citizen}                               #  ValtCtzn
-{231}{}{Vault 13 Airlock}                               #  ValtLock
-{232}{}{Vault 13 Monitor}                               #  ValtMon
-{233}{}{Vault 13 Central Core}                          #  CoreComp
-{234}{}{Vault 13 Library Computer}                      #  LibComp
-{235}{}{Kalnor}                                         #  Assblow
-{236}{}{Raider}                                         #  GenRaidr
-{237}{}{Garl}                                           #  Garl
-{238}{}{Raider Prisoner}                                #  RaidPris
-{239}{}{Petrox}                                         #  Petrox
-{240}{}{Tolya}                                          #  Tolya
-{241}{}{Gwen}                                           #  Gwen
-{242}{}{Diana}                                          #  Diana
-{243}{}{Alya}                                           #  Alya
-{244}{}{Living Quarters}                                #  LivingQ
-{245}{}{Meeting Room}                                   #  Meeting
-{246}{}{Storeroom}                                      #  BVStore
-{247}{}{Library}                                        #  BVLib
-{248}{}{Central Core}                                   #  BVCore
-{249}{}{Meeting Room}                                   #  BVMeet
-{250}{}{Living Quarters}                                #  BVLive
-{251}{}{Living Quarters}                                #  UndrBed
-{252}{}{Blocked Passage}                                #  RubChip
-{253}{}{Blocked Passage}                                #  RubCore
-{254}{}{Airlock}                                        ##  BVAirL
-{255}{}{Hall of the Dead}                               #  HallDed1
-{256}{}{Gabriel}                                        #  Gabriel
-{257}{}{Craps Table}                                    #  HiCraps
-{258}{}{Manhole}                                        #  NUp2Dwn1
-{259}{}{Manhole}                                        #  NUp2Dwn2
-{260}{}{Ladder}                                         #  NDwn2Up1
-{261}{}{Ladder}                                         #  NDwn2Up2
-{262}{}{Gate Guard}                                     #  GateDemo   ;
-{263}{}{Water Ration Guard}                             #  WtrGrd
-{264}{}{Watershed}                                      #  WatrShed
-{265}{}{Manhole}                                        #  NWUp2Dn1
-{266}{}{Manhole}                                        #  NWUp2Dn2
-{267}{}{Manhole}                                        #  NWUp2Dn3
-{268}{}{Vault 13 Citizen}                               #  Ration
-{269}{}{Ladder}                                         #  NWDn2Up1
-{270}{}{Ladder}                                         #  NWDn2Up2
-{271}{}{Ladder}                                         #  NWDn2Up3
-{272}{}{Andrew}                                         #  Andrew.int
-{273}{}{Hotel of the Dead}                              #  HotelMap
-{274}{}{Lorriane}                                       #  Lorian
-{275}{}{Manhole}                                        #  NHUp2Dn1
-{276}{}{Manhole}                                        #  NHUp2Dn2
-{277}{}{Manhole}                                        #  NHUp2Dn3
-{278}{}{Vault 13 Officer}                               #  Officer
-{279}{}{Ladder}                                         #  NHDn2Up1
-{280}{}{Ladder}                                         #  NHDn2Up2
-{281}{}{Ladder}                                         #  NHDn2Up3
-{282}{}{Radscorpion Caves}                              #  RadSCave
-{283}{}{Seth}                                           #  Seth
-{284}{}{Vault 13 Medic}                                 #  Medic
-{285}{}{Vault 13 Citizen}                               #  GenVault
-{286}{}{Junktown Casino}                                #  JunkCas
-{287}{}{Junktown Crashhouse}                            #  JunkKill
-{288}{}{Junktown Entrance}                              #  JunkEnt
-{289}{}{Blocked Passage}                                #  Blkrom
-{290}{}{Airlock}                                        #  BVAir
-{291}{}{Medical Cache}                                  #  BVCache
-{292}{}{Vault 15 Entrance}                              #  BVEnt
-{293}{}{Shady Sands}                                    #  ShadyEt
-{294}{}{Shady Sands}                                    #  ShadyWst
-{295}{}{Medical Lab}                                    #  MedLab
-{296}{}{Abandonned Shack}                               #  shack
-{297}{}{Seth}                                           #  Seth2
-{298}{}{Brotherhood Scribe}                             #  SCRIBEA
-{299}{}{Vault 13}                                       #  Vault13
-{300}{}{Elevator}                                       #  BVElv1W
-{301}{}{Elevator}                                       #  BVElv2E
-{302}{}{Elevator}                                       #  BVElv2W
-{303}{}{Elevator}                                       #  BVElv3
-{304}{}{Broken Elevator}                                #  BVBroken
-{305}{}{Brotherhood of Steel Entrance}                  #  BroHdEnt
-{306}{}{Rat Breeding Pit}                               #  RatPit
-{307}{}{Darkness}                                       #  FearDark
-{308}{}{Cave Openning}                                  #  ValtLeav
-{309}{}{Vault 13 Citizen}                               #  ValtCupl
-{310}{}{Your Living Quarters}                           #  YourRoom
-{311}{}{Katrina}                                        #  SSGuide
-{312}{}{Cave Openning}                                  #  LiteLeav
-{313}{}{Vault 13 Central Core}                          #  ValtCore
-{314}{}{Computer}                                       #  VCompOp
-{315}{}{Vault 13 Operations Room}                       #  ValtOp
-{316}{}{Vautl 13 Security Room}                         #  ValtSec
-{317}{}{Vault 13 Storage}                               #  ValtStor
-{318}{}{Vault 13 Meeting Room}                          #  ValtMeet
-{319}{}{Vault 13 Medical Lab}                           #  ValtMed
-{320}{}{Scrapheap}                                      #  JunkDemo
-{321}{}{Junktown Guard}                                 #  GuarDemo
-{322}{}{}                                               #  WanRats
-{323}{}{Flare}                                          #  Flare
-{324}{}{Elevator}                                       #  ValEl1
-{325}{}{Elevator}                                       #  ValEl2w
-{326}{}{Elevator}                                       #  ValEl2e
-{327}{}{Elevator}                                       #  ValEl3
-{328}{}{Vault 15}                                       #  Vaultbur
-{329}{}{Dog}                                            #  dog
-{330}{}{Ghoul Guard}                                    #  GhRndGrd
-{331}{}{Angry Ghoul}                                    #  GhKick
-{332}{}{Super Mutant Guard}                             #  Mutant3
-{333}{}{Super Mutant Sentry}                            #  Mutant4
-{334}{}{Super Mutant}                                   #  Mutant5
-{335}{}{Ian}                                            #  Ian
-{336}{}{Curtis}                                         #  Curtis
-{337}{}{Child}                                          #  Child
-{338}{}{Raiders}                                        #  RaidMap
-{339}{}{Mutated Fruit}                                  #  MutFruit
-{340}{}{Raider Guard}                                   #  RaidGrd
-{341}{}{Avellone}                                       #  Hunter
-{342}{}{Dog}                                            #  Dog2
-{343}{}{Duc}                                            #  Duc
-{344}{}{City}                                           #  RndCity
-{345}{}{Coast}                                          #  RndCoast
-{346}{}{Mountain}                                       #  RndMtn
-{347}{}{Hernandez}                                      #  Gambler
-{348}{}{Caves}                                          #  VaultEnt
-{349}{}{Miles}                                          #  Miles
-{350}{}{Smitty}                                         #  Smitty
-{351}{}{Adytowner}                                      #  Adytownr
-{352}{}{Regulator}                                      #  Regulatr
-{353}{}{Lorri}                                          #  Lorri
-{354}{}{Sammael}                                        #  Sammael
-{355}{}{Caleb}                                          #  Caleb
-{356}{}{Taylor}                                         #  Taylor
-{357}{}{Julianna}                                       #  Julie
-{358}{}{Followers Scholar}                              #  FolSchol
-{359}{}{Followers Initiate}                             #  FolInit
-{360}{}{Nightkin Scout}                                 #  FlSupMut
-{361}{}{Children of the Cathedral Scholar}              #  ChidScol
-{362}{}{Children of the Cathedral Initiate}             #  ChidInit
-{363}{}{Followers Scout}                                #  FolScout
-{364}{}{Followers Guard}                                #  FolGuard
-{365}{}{Thinker Super Mutant}                           #  ThSupMut
-{366}{}{Heather}                                        #  Heather
-{367}{}{Peter}                                          #  Peter
-{368}{}{Jake}                                           #  Jake
-{369}{}{Orfeo}                                          #  Orfeo
-{370}{}{Marney}                                         #  Marney
-{371}{}{Neil}                                           #  Neil
-{372}{}{Amber}                                          #  Amber
-{373}{}{Uthern}                                         #  Uthern
-{374}{}{Talius}                                         #  Talius
-{375}{}{Children of the Cathedral Guard}                #  ChdGuard
-{376}{}{Children of the Cathedral Scout}                #  ChdScout
-{377}{}{Super Mutant Scout}                             #  ScSupMut
-{378}{}{Razor}                                          #  Razor
-{379}{}{Blades Ganger}                                  #  Blade
-{380}{}{Fire}                                           #  Fire
-{381}{}{Beca}                                           #  Beca
-{382}{}{Blades' Weaponsmaster}                          #  Dolgan
-{383}{}{Michelle}                                       #  Michelle
-{384}{}{Blades' Nightwatchman}                          #  Dragon
-{385}{}{Romero}                                         #  Romero
-{386}{}{Brotherhood of Steel}                           #  Brohd12
-{387}{}{Brotherhood of Steel}                           #  Brohd34
-{388}{}{Jon}                                            #  Jon
-{389}{}{Prisoner}                                       #  RippPris
-{390}{}{Brotherhood Scribe}                             #  SCRIBEB
-{391}{}{Ladder}                                         #  BVLad
-{392}{}{Charred Body}                                   #  CharBody
-{393}{}{Dried Bones}                                    #  BoneBody
-{394}{}{Corpse encased in odd armor}                    #  DeadBro
-{395}{}{Holodisk}                                       #  GenDisk
-{396}{}{Radiation Hotspot}                              #  HotSpot
-{397}{}{Corpse encase in odd armor}                     #  PerNPwr
-{398}{}{Secure Door}                                    #  Glo1Weap
-{399}{}{Computer}                                       #  GloComp
-{400}{}{Secure Door}                                    #  Glo3Supl
-{401}{}{Generator}                                      #  GlowGen
-{402}{}{Water Pump}                                     #  GlowPump
-{403}{}{Living Quarters}                                #  SciRoom
-{404}{}{Sentry Gun}                                     #  SentryGn
-{405}{}{Door with red paint on it}                      #  GloRdDor
-{406}{}{Door with blue paint on it}                     #  GloBlDor
-{407}{}{Secure door}                                    #  Glo3Wep
-{408}{}{Secured lockbox}                                #  GlwBox
-{409}{}{Computer}                                       #  Tylier
-{410}{}{Cage}                                           #  GlowCage
-{411}{}{Table}                                          #  GlowTabl
-{412}{}{Computer}                                       #  Zax
-{413}{}{Unusual skeleton}                               #  GlwAlien
-{414}{}{Note}                                           #  Freezer
-{415}{}{Farli}                                          #  Farli
-{416}{}{Darrel}                                         #  Darrel
-{417}{}{Brotherhood Paladin Guard}                      #  PalGuard
-{418}{}{Talus}                                          #  Talus
-{419}{}{Sophia}                                         #  Sophia
-{420}{}{Michael}                                        #  Michael
-{421}{}{Secure Door}                                    #  Glo4Weap
-{422}{}{Brotherhood Scribe}                             #  ScribeA
-{423}{}{Brotherhood Scribe}                             #  ScribeB
-{424}{}{Brotherhood Paladin Sentry}                     #  Sentry
-{425}{}{Brotherhood Paladin}                            #  PaladinA
-{426}{}{Brotherhood Paladin Guard}                      #  PaladinB
-{427}{}{Brotherhood Paladin}                            #  PaladinC
-{428}{}{Elevator with blue paint on it}                 #  GloBlElv
-{429}{}{Brotherhood Knight}                             #  KnightA
-{430}{}{Brotherhood Knight}                             #  KnightB
-{431}{}{Desk}                                           #  GlowDesk
-{432}{}{Weapons Systems Armed}                          #  WeapSys
-{433}{}{Strange Holodisk}                               #  Artifact
-{434}{}{Cabinet}                                        #  GloCabn
-{435}{}{Noxious Fumes}                                  #  GasTrap
-{436}{}{Lasers}                                         #  LazrTrap
-{437}{}{Crazed Raider}                                  #  JtRaider
-{438}{}{Sinthia}                                        #  Sinthia
-{439}{}{Marcelles}                                      #  Marcelle
-{440}{}{Secure Safe}                                    #  KillSafe
-{441}{}{Bob}                                            #  JtBob
-{442}{}{Trish}                                          #  Trish
-{443}{}{Vault 13 Door}                                  #  V13Door
-{444}{}{Door Computer}                                  #  V13Comp
-{445}{}{Holodisk}                                       #  DiskA
-{446}{}{Holodisk}                                       #  DiskD
-{447}{}{Holodisk}                                       #  FEVDisk
-{448}{}{Holodisk}                                       #  VreeDisk
-{449}{}{Holodisk}                                       #  SecDisk
-{450}{}{Holodisk}                                       #  CodeDisk
-{451}{}{Gambler}                                        #  GenGambl
-{452}{}{Phil}                                           #  Phil
-{453}{}{Dogmeat}                                        #  Junkdog
-{454}{}{Slot Machine}                                   #  ChepSlot
-{455}{}{Slot Machine}                                   #  GoodSlot
-{456}{}{Blackjack Table}                                #  LowJack
-{457}{}{Blackjack Table}                                #  HighJack
-{458}{}{Children of the Cathedral Technician}           #  ChocTech
-{459}{}{Abel}                                           #  Abel
-{460}{}{Force Field}                                    #  FieldA
-{461}{}{Radio}                                          #  Radio
-{462}{}{Sign}                                           #  VatSign
-{463}{}{Very Secure Door}                               #  VConDoor
-{464}{}{Computer}                                       #  ForcComp
-{465}{}{Robobrain}                                      #  MrHandyA
-{466}{}{Robobrain}                                      #  MrHandyB
-{467}{}{Flip}                                           #  Flip
-{468}{}{Computer}                                       #  RobCtrl
-{469}{}{Nightkin Sargeant}                              #  VSgTeam9
-{470}{}{Nightkin Sentry}                                #  VatTeam9
-{471}{}{Computer}                                       #  VConComp
-{472}{}{Lenore}                                         #  PeasantD
-{473}{}{Computer}                                       #  DemoComp
-{474}{}{Dog}                                            #  DemoDog
-{475}{}{Lenore}                                         #  DemoPeas
-{476}{}{Phil}                                           #  DemoPhil
-{477}{}{Zack}                                           #  Zack
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{101}{}{}                                               # obj_dude
+{102}{}{}                                               # elder
+{103}{}{Shady Sands' trader}                            # barter
+{104}{}{Bodyguard}                                      # bguard
+{105}{}{Brahma}                                         # cow
+{106}{}{Gun Runner Moat Guard}                          # MoatGrd
+{107}{}{Guard}                                          # Shady Sands Guard
+{108}{}{Loser}                                          # loser
+{109}{}{Shady Sands Peasant}                            # pleasant
+{110}{}{Gun Runner}                                     # GunRnr
+{111}{}{Entrance to Map}                                # map_init
+{112}{}{Nasty Radscorpion}                              # radscorp
+{113}{}{Super Mutant Sentry}                            # mutant2
+{114}{}{Shady Sands Well}                               # sswell
+{115}{}{Set}                                            # set
+{116}{}{Harry}                                          # harry
+{117}{}{Stimpak}                                        # stimpack
+{118}{}{Manhole Cover}                                  # cover
+{119}{}{Manhole}                                        # manhole
+{120}{}{Ladder}                                         # ladder
+{121}{}{Chair}                                          # chair
+{122}{}{Nuka-Cola Machine}                              # coke
+{123}{}{Manager's Desk}                                 # computer
+{124}{}{Corpse}                                         # dead
+{125}{}{Desk}                                           # desk
+{126}{}{Ghoul Corpse}                                   # 1dedgul1
+{127}{}{Mole Rat}                                       # 1molrat1
+{128}{}{Manhole}                                        # 1manhol1
+{129}{}{Ladder}                                         # 1ladder1
+{130}{}{Ghoul Manager}                                  # ghoul
+{131}{}{Map Script}                                     # alphhotl
+{132}{}{Ghoul}                                          # genghoul
+{133}{}{Aradesh}                                        # Aradesh
+{134}{}{Brahma}                                         # Brahmin
+{135}{}{Cougar}                                         # Cougar
+{136}{}{Flash}                                          # Flash
+{137}{}{Junktown Guard}                                 # JtGenGrd
+{138}{}{Junktown Peasant}                               # JtPeasnt
+{139}{}{Butch}                                          # Butch
+{140}{}{Cabbot}                                         # Cabbot
+{141}{}{Children of the Cathedral Member}               # Childmem
+{142}{}{Decker}                                         # Decker
+{143}{}{Elder}                                          # Elder
+{144}{}{Gizmo}                                          # Gizmo
+{145}{}{Harold}                                         # Harold
+{146}{}{Jain}                                           # Jain
+{147}{}{Killian}                                        # Killian
+{148}{}{Laura}                                          # Laura
+{149}{}{Loxley}                                         # Loxley
+{150}{}{The Lieutenant}                                 # Lt
+{151}{}{The Master}                                     # Master
+{152}{}{Maxson}                                         # Maxson
+{153}{}{Morpheus}                                       # Morph
+{154}{}{Nicole}                                         # Nicole
+{155}{}{The Overseer}                                   # Over
+{156}{}{Rhombus}                                        # Rhombus
+{157}{}{Tandi}                                          # Tandi
+{158}{}{Vree}                                           # Vree
+{159}{}{Mole Rat}                                       # 1MoleRat
+{160}{}{Necropolis Airlock}                             # AirLock
+{161}{}{Barry}                                          # Barry
+{162}{}{Computer}                                       # DeadComp
+{163}{}{Door}                                           # Door
+{164}{}{Ganger Ghoul}                                   # Ganger
+{165}{}{Gary}                                           # Gary
+{166}{}{Ghoul}                                          # Generic
+{167}{}{Ghoul}                                          # GenGhoul
+{168}{}{Glowing One}                                    # GenGlow1
+{169}{}{Ghoul Corpse}                                   # GhDead
+{170}{}{Ghoul Sentry}                                   # GhDorGrd
+{171}{}{Ghoul Corpse}                                   # GhGenDed
+{172}{}{Set's Guard}                                    # GhGuard
+{173}{}{Ghoul Manager}                                  # Ghoul
+{174}{}{Ghoul Refugee}                                  # GhRefuge
+{175}{}{Ghoul Guard}                                    # GhZero
+{176}{}{Caged Glowing One}                              # GlowOne
+{177}{}{Undergrounder}                                  # Groundr
+{178}{}{Guard}                                          # Shady Sands Guard
+{179}{}{Harry}                                          # Harry
+{180}{}{Larry}                                          # Larry
+{181}{}{Undergrounder Leader}                           # Leader
+{182}{}{Ghoul Manager}                                  # Manager
+{183}{}{Mangled Corpse}                                 # Mangled
+{184}{}{Ghoul Peasant}                                  # Meander
+{185}{}{Super Mutant}                                   # Mutant2
+{186}{}{Water Computer}                                 # NH2OComp
+{187}{}{Water Pump}                                     # NH2OPump
+{188}{}{Wall}                                           # OddWall
+{189}{}{Ghoul Prisoner}                                 # Prisonr
+{190}{}{Sally}                                          # Sally
+{191}{}{Graffiti}                                       # graffiti
+{192}{}{Set's Cooler}                                   # SetColer
+{193}{}{Set's Desk}                                     # SetDesk
+{194}{}{Door}                                           # SetDoor1
+{195}{}{Set's Bodyguard}                                # SetGuard
+{196}{}{Wall}                                           # SetSctDr
+{197}{}{Odd Smell}                                      # Smell
+{198}{}{Stimpak}                                        # StimPack
+{199}{}{Necropolis Storeroom}                           # StoreRom
+{200}{}{Super Mutant}                                   # Super
+{201}{}{Terry}                                          # Terry
+{202}{}{Garret}                                         # Garret
+{203}{}{Gretch}                                         # Gretch
+{204}{}{Doc Morbid}                                     # Morbid
+{205}{}{Dumar}                                          # Dumar
+{206}{}{Barstow}                                        # Barstow
+{207}{}{Children of the Cathedral Initiate}             # Genint
+{208}{}{Children of the Cathedral Healer}               # JtChidMem
+{209}{}{Undergrounder Lookout}                          # Lookout
+{210}{}{Computer}                                       # MachIV
+{211}{}{Blocked Room}                                   # BlkRoom
+{212}{}{Desert}                                         # RndDesrt
+{213}{}{Guard}                                          # TGuard (Shady Sands)
+{214}{}{Shady Sands Cook}                               # cook
+{215}{}{Shady Sands Citizen}                            # citizen
+{216}{}{Chair}                                          # HousChar
+{217}{}{Agatha's Bed}                                   # AgathBed
+{218}{}{Razlo's Bed}                                    # RozBed
+{219}{}{Razlo's Wife}                                   # Wife
+{220}{}{Dresser}                                        # SDresser
+{221}{}{Rug}                                            # ShadyRug
+{222}{}{Bookcase}                                       # SBokcase
+{223}{}{Fruit Jar}                                      # MuteJar
+{224}{}{Desk}                                           # ShadDesk
+{225}{}{Shelf}                                          # CookShel
+{226}{}{Table}                                          # CookTabl
+{227}{}{Mutated Fruit}                                  # Fruit
+{228}{}{Brahma Pen Smell}                               # PenSmell
+{229}{}{Razlo}                                          # Razlo
+{230}{}{Vault 13 Citizen}                               # ValtCtzn
+{231}{}{Vault 13 Airlock}                               # ValtLock
+{232}{}{Vault 13 Monitor}                               # ValtMon
+{233}{}{Vault 13 Central Core}                          # CoreComp
+{234}{}{Vault 13 Library Computer}                      # LibComp
+{235}{}{Kalnor}                                         # Assblow
+{236}{}{Raider}                                         # GenRaidr
+{237}{}{Garl}                                           # Garl
+{238}{}{Raider Prisoner}                                # RaidPris
+{239}{}{Petrox}                                         # Petrox
+{240}{}{Tolya}                                          # Tolya
+{241}{}{Gwen}                                           # Gwen
+{242}{}{Diana}                                          # Diana
+{243}{}{Alya}                                           # Alya
+{244}{}{Living Quarters}                                # LivingQ
+{245}{}{Meeting Room}                                   # Meeting
+{246}{}{Storeroom}                                      # BVStore
+{247}{}{Library}                                        # BVLib
+{248}{}{Central Core}                                   # BVCore
+{249}{}{Meeting Room}                                   # BVMeet
+{250}{}{Living Quarters}                                # BVLive
+{251}{}{Living Quarters}                                # UndrBed
+{252}{}{Blocked Passage}                                # RubChip
+{253}{}{Blocked Passage}                                # RubCore
+{254}{}{Airlock}                                        # BVAirL
+{255}{}{Hall of the Dead}                               # HallDed1
+{256}{}{Gabriel}                                        # Gabriel
+{257}{}{Craps Table}                                    # HiCraps
+{258}{}{Manhole}                                        # NUp2Dwn1
+{259}{}{Manhole}                                        # NUp2Dwn2
+{260}{}{Ladder}                                         # NDwn2Up1
+{261}{}{Ladder}                                         # NDwn2Up2
+{262}{}{Gate Guard}                                     # GateDemo
+{263}{}{Water Ration Guard}                             # WtrGrd
+{264}{}{Watershed}                                      # WatrShed
+{265}{}{Manhole}                                        # NWUp2Dn1
+{266}{}{Manhole}                                        # NWUp2Dn2
+{267}{}{Manhole}                                        # NWUp2Dn3
+{268}{}{Vault 13 Citizen}                               # Ration
+{269}{}{Ladder}                                         # NWDn2Up1
+{270}{}{Ladder}                                         # NWDn2Up2
+{271}{}{Ladder}                                         # NWDn2Up3
+{272}{}{Andrew}                                         # Andrew.int
+{273}{}{Hotel of the Dead}                              # HotelMap
+{274}{}{Lorraine}                                       # Lorian    [of Adytum]
+{275}{}{Manhole}                                        # NHUp2Dn1
+{276}{}{Manhole}                                        # NHUp2Dn2
+{277}{}{Manhole}                                        # NHUp2Dn3
+{278}{}{Vault 13 Officer}                               # Officer
+{279}{}{Ladder}                                         # NHDn2Up1
+{280}{}{Ladder}                                         # NHDn2Up2
+{281}{}{Ladder}                                         # NHDn2Up3
+{282}{}{Radscorpion Caves}                              # RadSCave
+{283}{}{Seth}                                           # Seth
+{284}{}{Vault 13 Medic}                                 # Medic
+{285}{}{Vault 13 Citizen}                               # GenVault
+{286}{}{Junktown Casino}                                # JunkCas
+{287}{}{Junktown Crashhouse}                            # JunkKill
+{288}{}{Junktown Entrance}                              # JunkEnt
+{289}{}{Blocked Passage}                                # Blkrom
+{290}{}{Airlock}                                        # BVAir
+{291}{}{Medical Cache}                                  # BVCache
+{292}{}{Vault 15 Entrance}                              # BVEnt
+{293}{}{Shady Sands}                                    # ShadyEt
+{294}{}{Shady Sands}                                    # ShadyWst
+{295}{}{Medical Lab}                                    # MedLab
+{296}{}{Abandoned Shack}                                # shack
+{297}{}{Seth}                                           # Seth2
+{298}{}{Brotherhood Scribe}                             # SCRIBEA
+{299}{}{Vault 13}                                       # Vault13
+{300}{}{Elevator}                                       # BVElv1W
+{301}{}{Elevator}                                       # BVElv2E
+{302}{}{Elevator}                                       # BVElv2W
+{303}{}{Elevator}                                       # BVElv3
+{304}{}{Broken Elevator}                                # BVBroken
+{305}{}{Brotherhood of Steel Entrance}                  # BroHdEnt
+{306}{}{Rat Breeding Pit}                               # RatPit
+{307}{}{Darkness}                                       # FearDark
+{308}{}{Cave Opening}                                   # ValtLeav
+{309}{}{Vault 13 Citizen}                               # ValtCupl
+{310}{}{Your Living Quarters}                           # YourRoom
+{311}{}{Katrina}                                        # SSGuide
+{312}{}{Cave Opening}                                   # LiteLeav
+{313}{}{Vault 13 Central Core}                          # ValtCore
+{314}{}{Computer}                                       # VCompOp
+{315}{}{Vault 13 Operations Room}                       # ValtOp
+{316}{}{Vault 13 Security Room}                         # ValtSec
+{317}{}{Vault 13 Storage}                               # ValtStor
+{318}{}{Vault 13 Meeting Room}                          # ValtMeet
+{319}{}{Vault 13 Medical Lab}                           # ValtMed
+{320}{}{Scrapheap}                                      # JunkDemo
+{321}{}{Junktown Guard}                                 # GuarDemo
+{322}{}{}                                               # WanRats
+{323}{}{Flare}                                          # Flare
+{324}{}{Elevator}                                       # ValEl1
+{325}{}{Elevator}                                       # ValEl2w
+{326}{}{Elevator}                                       # ValEl2e
+{327}{}{Elevator}                                       # ValEl3
+{328}{}{Vault 15}                                       # Vaultbur
+{329}{}{Dog}                                            # dog
+{330}{}{Ghoul Guard}                                    # GhRndGrd
+{331}{}{Angry Ghoul}                                    # GhKick
+{332}{}{Super Mutant Guard}                             # Mutant3
+{333}{}{Super Mutant Sentry}                            # Mutant4
+{334}{}{Super Mutant}                                   # Mutant5
+{335}{}{Ian}                                            # Ian
+{336}{}{Curtis}                                         # Curtis
+{337}{}{Child}                                          # Child
+{338}{}{The Khans}                                      # RaidMap
+{339}{}{Mutated Fruit}                                  # MutFruit
+{340}{}{Raider Guard}                                   # RaidGrd
+{341}{}{Avellone}                                       # Hunter
+{342}{}{Dog}                                            # Dog2
+{343}{}{Duc}                                            # Duc
+{344}{}{City}                                           # RndCity
+{345}{}{Coast}                                          # RndCoast
+{346}{}{Mountain}                                       # RndMtn
+{347}{}{Hernandez}                                      # Gambler
+{348}{}{Caves}                                          # VaultEnt
+{349}{}{Miles}                                          # Miles
+{350}{}{Smitty}                                         # Smitty
+{351}{}{Adytum resident}                                # Adytownr
+{352}{}{Regulator}                                      # Regulatr
+{353}{}{Lorraine}                                       # Lorraine, not used
+{354}{}{Sammael}                                        # Sammael
+{355}{}{Caleb}                                          # Caleb
+{356}{}{Tine}                                           # Taylor
+{357}{}{Julianna}                                       # Julie
+{358}{}{Followers Scholar}                              # FolSchol
+{359}{}{Followers Initiate}                             # FolInit
+{360}{}{Nightkin Scout}                                 # FlSupMut
+{361}{}{Children of the Cathedral Scholar}              # ChidScol
+{362}{}{Children of the Cathedral Initiate}             # ChidInit
+{363}{}{Followers Scout}                                # FolScout
+{364}{}{Followers Guard}                                # FolGuard
+{365}{}{Thinker Super Mutant}                           # ThSupMut
+{366}{}{Heather}                                        # Heather
+{367}{}{Peter}                                          # Peter
+{368}{}{Jake}                                           # Jake
+{369}{}{Orfeo}                                          # Orfeo
+{370}{}{Marney}                                         # Marney
+{371}{}{Neil}                                           # Neil
+{372}{}{Amber}                                          # Amber
+{373}{}{Uthern}                                         # Uthern
+{374}{}{Talius}                                         # Talius
+{375}{}{Children of the Cathedral Guard}                # ChdGuard
+{376}{}{Children of the Cathedral Scout}                # ChdScout
+{377}{}{Super Mutant Scout}                             # ScSupMut
+{378}{}{Razor}                                          # Razor
+{379}{}{Blades Ganger}                                  # Blade
+{380}{}{Fire}                                           # Fire
+{381}{}{Beca}                                           # Beca
+{382}{}{Blades' Weaponsmaster}                          # Dolgan
+{383}{}{Michelle}                                       # Michelle
+{384}{}{Blades' Nightwatchman}                          # Dragon
+{385}{}{Romero}                                         # Romero
+{386}{}{Brotherhood of Steel}                           # Brohd12
+{387}{}{Brotherhood of Steel}                           # Brohd34
+{388}{}{Jon}                                            # Jon
+{389}{}{Prisoner}                                       # RippPris
+{390}{}{Brotherhood Scribe}                             # SCRIBEB
+{391}{}{Ladder}                                         # BVLad
+{392}{}{Charred Body}                                   # CharBody
+{393}{}{Dried Bones}                                    # BoneBody
+{394}{}{Person encased in odd armor}                    # DeadBro
+{395}{}{Empty Holodisk}                                 # GenDisk
+{396}{}{Radiation Hotspot}                              # HotSpot
+{397}{}{Person encased in odd armor}                    # PerNPwr
+{398}{}{Secure Door}                                    # Glo1Weap
+{399}{}{Computer}                                       # GloComp
+{400}{}{Secure Door}                                    # Glo3Supl
+{401}{}{Generator}                                      # GlowGen
+{402}{}{Water Pump}                                     # GlowPump
+{403}{}{Living Quarters}                                # SciRoom
+{404}{}{Sentry Gun}                                     # SentryGn
+{405}{}{Door with red paint on it}                      # GloRdDor
+{406}{}{Door with blue paint on it}                     # GloBlDor
+{407}{}{Secure door}                                    # Glo3Wep
+{408}{}{Secured lockbox}                                # GlwBox
+{409}{}{Defense Regulation Computer}                    # Tylier
+{410}{}{Cage}                                           # GlowCage
+{411}{}{Table}                                          # GlowTabl
+{412}{}{Supercomputer}                                  # ZAX
+{413}{}{Unusual skeleton}                               # GlwAlien
+{414}{}{Note}                                           # Freezer
+{415}{}{Farli}                                          # Farli
+{416}{}{Darrel}                                         # Darrel
+{417}{}{Brotherhood Paladin Guard}                      # PalGuard
+{418}{}{Talus}                                          # Talus
+{419}{}{Sophia}                                         # Sophia
+{420}{}{Michael}                                        # Michael
+{421}{}{Secure Door}                                    # Glo4Weap
+{422}{}{Brotherhood Scribe}                             # ScribeA
+{423}{}{Brotherhood Scribe}                             # ScribeB
+{424}{}{Brotherhood Paladin Sentry}                     # Sentry
+{425}{}{Brotherhood Paladin}                            # PaladinA
+{426}{}{Brotherhood Paladin Guard}                      # PaladinB
+{427}{}{Brotherhood Paladin}                            # PaladinC
+{428}{}{Elevator with blue paint on it}                 # GloBlElv
+{429}{}{Brotherhood Knight}                             # KnightA
+{430}{}{Brotherhood Knight}                             # KnightB
+{431}{}{Desk}                                           # GlowDesk
+{432}{}{Weapons Systems Armed}                          # WeapSys
+{433}{}{Ancient Brotherhood Disk}                       # Artifact
+{434}{}{Cabinet}                                        # GloCabn
+{435}{}{Noxious Fumes}                                  # GasTrap
+{436}{}{Lasers}                                         # LazrTrap
+{437}{}{Crazed Raider}                                  # JtRaider
+{438}{}{Sinthia}                                        # Sinthia
+{439}{}{Marcelles}                                      # Marcelle
+{440}{}{Secure Safe}                                    # KillSafe
+{441}{}{Bob}                                            # JtBob
+{442}{}{Trish}                                          # Trish
+{443}{}{Vault 13 Door}                                  # V13Door
+{444}{}{Door Computer}                                  # V13Comp
+{445}{}{Alpha Experiments Disk}                         # DiskA
+{446}{}{Delta Experiments Disk}                         # DiskD
+{447}{}{FEV Experiments Disk}                           # FEVDisk
+{448}{}{Vree's Autopsy Reports}                         # VreeDisk
+{449}{}{Security Override Disk}                         # SecDisk
+{450}{}{Encryption Decoder Disk}                        # CodeDisk
+{451}{}{Gambler}                                        # GenGambl
+{452}{}{Phil}                                           # Phil
+{453}{}{Dogmeat}                                        # Junkdog
+{454}{}{Slot Machine}                                   # ChepSlot
+{455}{}{Slot Machine}                                   # GoodSlot
+{456}{}{Blackjack Table}                                # LowJack
+{457}{}{Blackjack Table}                                # HighJack
+{458}{}{Children of the Cathedral Technician}           # ChocTech
+{459}{}{Abel}                                           # Abel
+{460}{}{Force Field}                                    # FieldA
+{461}{}{Radio}                                          # Radio
+{462}{}{Sign}                                           # VatSign
+{463}{}{Very Secure Door}                               # VConDoor
+{464}{}{Computer}                                       # ForcComp
+{465}{}{Robobrain}                                      # MrHandyA
+{466}{}{Robobrain}                                      # MrHandyB
+{467}{}{Flip}                                           # Flip
+{468}{}{Computer}                                       # RobCtrl
+{469}{}{Nightkin Sergeant}                              # VSgTeam9
+{470}{}{Nightkin Sentry}                                # VatTeam9
+{471}{}{Computer}                                       # VConComp
+{472}{}{Lenore}                                         # PeasantD
+{473}{}{Computer}                                       # DemoComp
+{474}{}{Dog}                                            # DemoDog
+{475}{}{Lenore}                                         # DemoPeas
+{476}{}{Phil}                                           # DemoPhil
+{477}{}{Zack}                                           # Zack
 {478}{}{Theresa}                                        # theresa
 {479}{}{Upset Vault 13 Citizen}                         # REBEL
-{480}{}{Refridgerator}                                  # demodoor
+{480}{}{Refrigerator}                                   # demodoor
 {481}{}{Brotherhood Scribe}                             # SCRIBEC
 {482}{}{Jason}                                          # JASON
 {483}{}{Thug}                                           # THUG
@@ -388,8 +392,8 @@
 {488}{}{Sherry}                                         # Sherry
 {489}{}{Tycho}                                          # Tycho
 {490}{}{Skulz Ganger}                                   # GendSkulz
-{491}{}{Slummer}                                        #Slummer
-{492}{}{Zark}                                           #Zark
+{491}{}{Slummer}                                        # Slummer
+{492}{}{Zark}                                           # Zark
 {493}{}{Calder}                                         # Calder
 {494}{}{Nightkin Sentry}                                # ChidNite
 {495}{}{Child with an Attitude}                         # ChidGAB
@@ -401,25 +405,25 @@
 {501}{}{Rutger}                                         # Rutger
 {502}{}{Phrax}                                          # Phrax
 {503}{}{Generator}                                      # DemoGen
-{504}{}{Crypt Ganger}                                   #DemoCryp
+{504}{}{Crypt Ganger}                                   # DemoCryp
 {505}{}{Fool Ganger}                                    # DemoFool
-{506}{}{Lenny}                                          #Lenny
-{507}{}{Icepick}                                        #Icepick
+{506}{}{Lenny}                                          # Lenny
+{507}{}{Icepick}                                        # Icepick
 {508}{}{Skizzer}                                        # Skizzer
 {509}{}{Scrapheap Citizen}                              # Pez
 {510}{}{Rock}                                           # Rock
 {511}{}{Lex}                                            # Lex.int
 {512}{}{Rayze}                                          # Rayze.int
-{513}{}{Skippy}                                         #Skippy.int
-{514}{}{Baka}                                           #Baka.int
+{513}{}{Skippy}                                         # Skippy.int
+{514}{}{Baka}                                           # Baka.int
 {515}{}{Scout the Crypts}                               # scoutc.int
 {516}{}{Scout the Fools}                                # scoutf.int
 {517}{}{Follower of the Apocalypse}                     # FollMap.int
 {518}{}{Computer}                                       # SemiComp
 {519}{}{Irradiated Rat}                                 # RadRat
-{520}{}{Refridgerator}                                  # NGarFrdg
+{520}{}{Refrigerator}                                   # NGarFrdg
 {521}{}{Ladder}                                         # WtrLadr
-{522}{}{Ladder}                                         #  NecVLadr
+{522}{}{Ladder}                                         # NecVLadr
 {523}{}{Manhole}                                        # NecVHole
 {524}{}{Manhole}                                        # WtrHole
 {525}{}{Necropolis Vault}                               # ValtNec
@@ -441,9 +445,9 @@
 {541}{}{Stronghold}                                     # MBStrong
 {542}{}{Vats}                                           # MBVats
 {543}{}{Military Base Entrance}                         # MBEnt
-{544}{}{Children of the Cathedral}                      #Childrn1.int
-{545}{}{Children of the Cathedral}                      #Childrn2.int
-{546}{}{Master's Vault}                                 #Master1.int
+{544}{}{Children of the Cathedral}                      # Childrn1.int
+{545}{}{Children of the Cathedral}                      # Childrn2.int
+{546}{}{Master's Vault}                                 # Master1.int
 {547}{}{Master's Vault}                                 # Master2.int
 {548}{}{Computer}                                       # MVComp
 {549}{}{Nuclear Warhead}                                # MVNuke
@@ -472,13 +476,13 @@
 {572}{}{Elevator}                                       # Elev6.int
 {573}{}{Barfly}                                         # Barfly.int
 {574}{}{Vault 15}                                       # BV2Vault.int
-{575}{}{Nuka Cola Truck}                                # ColaTruk.int
-{576}{}{Flying Saucer}                                  # FSauser.int
+{575}{}{Nuka-Cola Truck}                                # ColaTruk.int
+{576}{}{Crashed UFO}                                    # FSauser.int
 {577}{}{The Glow}                                       # Glowent.int
 {578}{}{The Glow}                                       # GlowMap1.int
 {579}{}{The Glow}                                       # GlowMap2.int
 {580}{}{L.A. Boneyard}                                  # LAAdytum.int
-{581}{}{L.A. Boneyard}                                  #LABlades.int
+{581}{}{L.A. Boneyard}                                  # LABlades.int
 {582}{}{L.A. Boneyard}                                  # LAGunRun.int
 {583}{}{L.A. Boneyard}                                  # LARipper.int
 {584}{}{The Hub}                                        # HubEnt.int
@@ -486,7 +490,7 @@
 {586}{}{The Hub}                                        # HubHeigt.int
 {587}{}{The Hub}                                        # HubOldTn.int
 {588}{}{The Hub}                                        # HubWater.int
-{589}{}{Cave}                                           #DethCave.int
+{589}{}{Cave}                                           # DethCave.int
 {590}{}{Strange Call Box}                               # DrWhoMap.int
 {591}{}{Large Footprint}                                # LgFtPrnt.int
 {592}{}{Used Car Lot}                                   # UsedCar.int
@@ -522,18 +526,18 @@
 {622}{}{Elevator}                                       # Elev10.int
 {623}{}{Elevator}                                       # Elev11.int
 {624}{}{Super Mutant Soldier}                           # GenMutan.int
-{625}{}{Super Mutant Sargeant}                          # GenSarg.int
+{625}{}{Super Mutant Sergeant}                          # GenSarg.int
 {626}{}{Very Secure Door}                               # MBOut2In.int
 {627}{}{Trophy}                                         # Trophy.int
 {628}{}{Saul}                                           # Saul.int
 {629}{}{Gustofer}                                       # Gustofer.int
-{630}{}{Robot}                                          # Robot.int
-{631}{}{Nightkin Sentry}                                # VGateMut.int
-{632}{}{Nightkin Sargeant}                              # VPLotMut.int
-{633}{}{Nightkin Sentry}                                # VFenceMt.int
+{630}{}{}                                               # Robot.int
+{631}{}{Super Mutant Sentry}                            # VGateMut.int
+{632}{}{Nightkin Sergeant}                              # VPLotMut.int
+{633}{}{Super Mutant Sentry}                            # VFenceMt.int
 {634}{}{Holodisk}                                       # DoorCode.int
 {635}{}{Garret}                                         # Guard2.int
-{636}{}{Super Mutant Guard}                             # VDoorMut.int
+{636}{}{Nightkin Guard}                                 # VDoorMut.int
 {637}{}{Force Field}                                    # FieldB.int
 {638}{}{Force Field}                                    # FieldC.int
 {639}{}{Force Field}                                    # FieldD.int
@@ -561,7 +565,7 @@
 {661}{}{Caravan Driver}                                 # crvndrvr.int
 {662}{}{Dan}                                            # dan.int
 {663}{}{Dan's Wife}                                     # danwife.int
-{664}{}{Hubbian}                                        # deadguy.int
+{664}{}{Hubber}                                         # deadguy.int
 {665}{}{Decker's Guard}                                 # deckgrd.int
 {666}{}{Demetre}                                        # demetre.int
 {667}{}{Deputy Fry}                                     # depfry.int
@@ -578,13 +582,13 @@
 {678}{}{Bodyguard}                                      # hbodgrd2.int
 {679}{}{Children of the Cathedral Guard}                # hchdgrd.int
 {680}{}{Farmer}                                         # hgenfarm.int
-{681}{}{Hubbian Guard}                                  # hgengrd.int
+{681}{}{Hub Guard}                                      # hgengrd.int
 {682}{}{Daren Hightower}                                # hightowr.int
 {683}{}{Hightower's Guard}                              # htwrgrd.int
 {684}{}{Hightower's Wife}                               # htwrwife.int
-{685}{}{Hubber}                                         #/ hubber.int
+{685}{}{Hubber}                                         # hubber.int
 {686}{}{Caravan Merchant}                               # hubcarvn.int
-{687}{}{Hubbian Police Officer}                         # hubcop.int
+{687}{}{Hub Police Officer}                             # hubcop.int
 {688}{}{Flower Child}                                   # hubflrcd.int
 {689}{}{Jake}                                           # hubjake.int
 {690}{}{Children of the Cathedral Patient}              # hubpatnt.int
@@ -638,7 +642,7 @@
 {738}{}{Ladder}                                         # Cell2Ady.int
 {739}{}{Gizmo's Guard}                                  # GizGuard.int
 {740}{}{Ripper Ganger}                                  # ripper.int
-{741}{}{Holodisk}                                       # MutDisk.int
+{741}{}{Super Mutant Radio Transmissions Disk}          # MutDisk.int
 {742}{}{Deathclaw}                                      # DethClaw.int
 {743}{}{Deathclaw Spawn}                                # Deathspr.int
 {744}{}{Fisherman}                                      # FishrMan.int
@@ -646,7 +650,7 @@
 {746}{}{Unusual Call Box}                               # Tardis.int
 {747}{}{Large Footprint}                                # FootMap.int
 {748}{}{Unusual Call Box}                               # WhoMap.int
-{749}{}{Brahmin}                                        # TalkCow.int
+{749}{}{Brahma}                                         # TalkCow.int
 {750}{}{Herd of Brahmin}                                # TCowMap.int
 {751}{}{Injured Peasant}                                # MissBro
 {752}{}{Rough Guard}                                    # HubCaptr.int
@@ -672,7 +676,7 @@
 {772}{}{Jeremiah}                                       # Jerem.int
 {773}{}{Super Mutant Guard}                             # AirGrd.int
 {774}{}{Super Mutant Guard}                             # AirGrd2.int
-{775}{}{Dr. Lorri}                                      # BOSLori.int
+{775}{}{Dr. Lorri}                                      # BOSLorri.int
 {776}{}{Moore}                                          # Moore.int
 {777}{}{Lucy}                                           # Lucy.int
 {778}{}{Wiggup}                                         # Wiggup.int
@@ -687,25 +691,25 @@
 {787}{}{Computer}                                       # PsyCon.int
 {788}{}{Rae}                                            # Ray.int
 {789}{}{Very Secure Door}                               # BHDoor.int
-{790}{}{Doctor's Assistant}                             # BOSAsIs.int
+{790}{}{Doctor's Assistant}                             # BOSAsist.int
 {791}{}{Your Roommate}                                  # RD1.int
 {792}{}{Brotherhood of Steel Initiate}                  # GenInit.int
 {793}{}{Coyote}                                         # Coyote.int
-{794}{}{Super Mutant Senty}                             # Smone.int
+{794}{}{Super Mutant Sentry}                            # Smone.int
 {795}{}{Super Mutant Guard}                             # SMTwo.int
-{796}{}{Sherrif Greene}                                 # Justin.int
+{796}{}{Sheriff Greene}                                 # Justin.int
 {797}{}{Bartender}                                      # Falcon1.int
-{798}{}{Hubbian Merchant}                               # Merch1.int
+{798}{}{Hub Merchant}                                   # Merch1.int
 {799}{}{Lance}                                          # Lance.int
 {800}{}{Raider}                                         # LoneRaid.int
-{801}{}{Hubbian Merchant}                               # RndMerch.int
+{801}{}{Hub Merchant}                                   # RndMerch.int
 {802}{}{Brotherhood Paladin Scout}                      # PalScout.int
 {803}{}{Trent}                                          # Trent.int
 {804}{}{Craps Dealer}                                   # HDealer.int
 {805}{}{Slot Machine}                                   # HSlots.int
 {806}{}{Drunk}                                          # HRndBar.int
 {807}{}{Gambler}                                        # HGenGamb.int
-{808}{}{Hooker}                                         # HHooker.int
+{808}{}{Hooker}                                         # HHookerA.int
 {809}{}{John}                                           # HJohn.int
 {810}{}{Dealer}                                         # HGenDeal.int
 {811}{}{Praying Super Mutant}                           # Smpray.int
@@ -744,7 +748,7 @@
 {844}{}{Holodisk}                                       # BroHist.int
 {845}{}{Holodisk}                                       # SopDisk.int
 {846}{}{Holodisk}                                       # MaxDisk.int
-{847}{}{Refridgerator}                                  # Fridg.int
+{847}{}{Refrigerator}                                   # Fridg.int
 {848}{}{Bookcase}                                       # HubSafe.int
 {849}{}{Raider}                                         # GenRaidA.int
 {850}{}{Raider}                                         # GenRaidB.int
@@ -762,7 +766,7 @@
 {862}{}{}                                               # CrvnMstr.int
 {863}{}{Raider}                                         # CrvnEnmy.int
 {864}{}{Wares For Sale}                                 # KillStor.int
-{865}{}{Caravan Travelling}                             # CarEnctr.int
+{865}{}{Traveling Caravan}                              # CarEnctr.int
 {866}{}{Commonly Said Things}                           # GenChat.int
 {867}{}{Temporary Place}                                # TEMP
 {868}{}{Temporary Place}                                # TEMP
@@ -774,7 +778,7 @@
 {874}{}{Jeremiah}                                       # Jerem2.int
 {875}{}{Door}                                           # WoodDoor.int
 {876}{}{Sturdy Door}                                    # MetlDoor.int
-{877}{}{Caravan Travelling}                             # HubEnctr.int
+{877}{}{Traveling Caravan}                              # HubEnctr.int
 {878}{}{Caravan Merchant}                               # HGenVan2.int
 {879}{}{Far Go Traders Merchant}                        # FGTRtnVn.int
 {880}{}{Crimson Caravans Merchant}                      # CCRtnVn.int
@@ -814,7 +818,7 @@
 {914}{}{Computer}                                       # MstrComp.int
 {915}{}{Door}                                           # Childoor.int
 {916}{}{Julio}                                          # HWMHost.int
-{917}{}{Caravan Teamster}                               # CarvLead.int
+{917}{}{Caravan Leader}                                 # CarvLead.int
 {918}{}{Bookcase}                                       # GenBCase.int
 {919}{}{Crack Assault Paladin}                          # BroInvad.int
 {920}{}{Follower Scout}                                 # FolInvad.int
@@ -837,7 +841,7 @@
 {937}{}{Very Solid Door}                                # SDoor.int
 {938}{}{Stupid Mutant}                                  # PowerMut.int
 {939}{}{Bulletin Board}                                 # bullbord.int
-{940}{}{Gunrunners' Suitcase}                           # GunCase.int
+{940}{}{Gun Runners' Suitcase}                          # GunCase.int
 {941}{}{Gunther}                                        # Gunther.int
 {942}{}{Slappy}                                         # Slappy.int
 {943}{}{Shopkeeper}                                     # CathShop
@@ -846,20 +850,20 @@
 {946}{}{Lemmy}                                          # Lemmy.int
 {947}{}{Guard}                                          # Bethgrd.int
 {948}{}{Super Mutant Scout}                             # DCMutant.int
-{949}{}{Far Go Trader Caravanner}                       # FGTCarvn.int
+{949}{}{Far Go Trader Caravaner}                        # FGTCarvn.int
 {950}{}{Super Mutant Patroller}                         # MutAmbsh.int
 {951}{}{Lockbox}                                        # DocLokr.int
-{952}{}{Refridgerator}                                  # CrashBox.int
+{952}{}{Refrigerator}                                   # CrashBox.int
 {953}{}{Door}                                           # SkumDoor.int
 {954}{}{Super Mutant Patroller}                         # SupAmbsh.int
 {955}{}{Toxic sludge}                                   # MoatChek.int
 {956}{}{Mysterious Stranger}                            # Stranger.int
-{957}{}{}                                             # SupGrd.int
+{957}{}{}                                               # SupGrd.int
 {958}{}{Very Secure Door}                               # SupDoor.int
 {959}{}{Locker}                                         # VWepLokr.int
 {960}{}{Brotherhood Locker}                             # BroLock.int
 {961}{}{Vault Data Holodisk}                            # ValtDisk.int
-{962}{}{Mrs. Staple}                                    # Staple.int
+{962}{}{Mrs. Stapleton}                                 # Staple.int
 {963}{}{Alarm Light}                                    # Klaxon.int
 {964}{}{Toggle Switch}                                  # Toggle.int
 {965}{}{Knight Paul}                                    # Paul.int
@@ -920,7 +924,7 @@
 {1020}{}{Crimson Caravan Guard}                         # CCGuard2.int
 {1021}{}{Mother Deathclaw}                              # MomClaw.int
 {1022}{}{Deathclaw}                                     # RoamClaw.int
-{1023}{}{Micheal}                                       # BYMike.int
+{1023}{}{Michael}                                       # BYMike.int
 {1024}{}{Christine}                                     # BYChris.int
 {1025}{}{Greg}                                          # BYGreg.int
 {1026}{}{Blade}                                         # InBlade.int
@@ -938,7 +942,7 @@
 {1038}{}{Raider}                                        # FarmRaid.int
 {1039}{}{Mathia}                                        # Mathia.int
 {1040}{}{Floor}                                         # JTile.int
-{1041}{}{Brahmin}                                       # Stampede.int
+{1041}{}{Brahma}                                        # Stampede.int
 {1042}{}{Brotherhood Elder}                             # HighEld.int
 {1043}{}{Mole Rat}                                      # MoleRat2.int
 {1044}{}{Brotherhood Elder}                             # BroEld.int
@@ -949,7 +953,7 @@
 {1049}{}{Force Field}                                   # PsyField.int
 {1050}{}{Kenny}                                         # Kenny.int
 {1051}{}{Brotherhood Guard}                             # SuplyGrd.int
-{1052}{}{Hub}                                           # HubMis1.int
+{1052}{}{Irwin's Farm}                                  # HubMis0.int
 {1053}{}{}                                              # RndEcGen.int
 {1054}{}{Locker}                                        # GenLock.int
 {1055}{}{Holodisk}                                      # RegDisk.int
@@ -957,8 +961,22 @@
 {1057}{}{Followers}                                     # LAFollwr.int
 {1058}{}{Door}                                          # RaidDoor.int
 {1059}{}{Damaged Force Field Emitter}                   # GenEmit.int
-{1060}{}{Test}                                          #
+{1060}{}{}                                              #
 {1061}{}{Cheater Item}                                  # Chitem.int
 {1062}{}{Caravan Customer}                              # carcust.int
 {1063}{}{Boxer}                                         # jboxer.int
 {1064}{}{}                                              # stapbox.int
+{1065}{}{}                                              # invaded.int
+{1066}{}{Brahma}                                        # carcow.int
+{1067}{}{}                                              # fke_dude.int
+{1068}{}{}                                              # alldogs.int
+{1069}{}{}                                              # bobstand.int
+{1070}{}{Hooker}                                        # HHookerD.int
+{1071}{}{}                                              # massacre.int
+{1072}{}{Damaged Force Field}                           # redfield.int
+{1073}{}{Raider}                                        # FarmRad2.int
+{1074}{}{Raider}                                        # FarmRad3.int
+{1075}{}{Raider}                                        # FarmRad4.int
+{1076}{}{Raider}                                        # FarmRad5.int
+{1077}{}{Raider}                                        # FarmRad6.int
+{1078}{}{Raider}                                        # FarmRad7.int

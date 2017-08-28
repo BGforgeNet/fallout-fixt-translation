@@ -1,4 +1,4 @@
-{100}{}{You see a Far Go Trader Merchant.}
+{100}{}{You see a Far Go Trader merchant.}
 {101}{}{Get the hell out.}
 {102}{}{Take off or you won't live to regret it.}
 {103}{}{Skag!}

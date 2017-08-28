@@ -1,2 +1,2 @@
-{100}{}{You see a glowing ghoul.}
+{100}{}{You see: Glowing Ghoul.}
 {101}{}{You tread without permission.}

@@ -6,6 +6,6 @@
 {105}{}{If you look at him wrong, you're dead.}
 {106}{}{Watch it.}
 {107}{}{I surrender!}
-{108}{}{I never liked working for that guy Decker anyways.}
+{108}{}{I never liked working for that guy Decker anyway.}
 {109}{}{Now that Decker and Kane are gone, I'm gonna take over!}
-{110}{}{You'd better be careful around the Hub from now on.  I'm watching you.}
+{110}{}{You'd better be careful around the Hub from now on. I'm watching you.}

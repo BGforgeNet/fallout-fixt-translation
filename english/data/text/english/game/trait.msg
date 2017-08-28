@@ -1,3 +1,7 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
 #
 #   Messages from trait.c
 #
@@ -7,36 +11,41 @@
 {100}{}{Fast Metabolism}
 {101}{}{Bruiser}
 {102}{}{Small Frame}
-{103}{}{One Hander}
+{103}{}{One-Hander}
 {104}{}{Finesse}
 {105}{}{Kamikaze}
-{106}{}{Heavy Handed}
+{106}{}{Heavy-Handed}
 {107}{}{Fast Shot}
 {108}{}{Bloody Mess}
 {109}{}{Jinxed}
-{110}{}{Good Natured}
-{111}{}{Chem Reliant}
-{112}{}{Chem Resistant}
+{110}{}{Good-Natured}
+{111}{}{Drug-Reliant}
+{112}{}{Drug-Resistant}
 {113}{}{Night Person}
 {114}{}{Skilled}
 {115}{}{Gifted}
 #
 #   TRAIT DESCRIPTIONS
 #
-{200}{}{Your metabolic rate is twice normal.  This means that you are much less resistant to radiation and poison, but your body heals faster.}
-{201}{}{A little slower, but a little bigger.  You may not hit as often, but they will feel it when you do!  Your total action points are lowered, but your Strength is increased.}
-{202}{}{You are not quite as big as the other Vault-Dwellers, but that never slowed you down.  You can't carry as much, but you are more agile.}
-{203}{}{One of your hands is very dominant.  You excel with single-handed weapons, but two-handed weapons cause a problem.}
-{204}{}{Your attacks show a lot of finesse.  You don't do as much damage, but you cause more critical hits.}
-{205}{}{By not paying attention to any threats, you can act a lot faster in a turn.  This lowers your armor class to just what you are wearing, but you sequence much faster in a combat turn.}
-{206}{}{You swing harder, not better.  Your attacks are very brutal, but lack finesse.  You rarely cause a good critical, but you always do more melee damage.}
-{207}{}{You don't have time to aim for a targeted attack, because you attack faster than normal people.  It costs you one less action point to use a weapon.}
-{208}{}{By some strange twist of fate, people around you die violently.  You always see the worst way a person can die.}
-{209}{}{The good thing is that everyone around you has more critical failures in combat, the bad thing is so do you!}
-{210}{}{You studied less-combative skills as you were growing up.  Your combat skills start at a lower level, but First Aid, Doctor, Speech and Barter are substantially improved.}
-{211}{}{You are more easily addicted to chems.  Your chance to be addicted by chem use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Chems only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
-{213}{}{As a night-time person, you are more awake when the sun goes down.  Your Intelligence and Perception are improved at night, but dulled during the day.}
-{214}{}{Since you spent more time improving your skills than a normal person, you start with better skill levels.  The tradeoff is that you do not gain as many extra abilities.  You will gain a perk every four levels.}
-{215}{}{You have more innate abilities than most, so you have not spent as much time honing your skills.  Your primary statistics are each +1, but you lose -10% on all skills to start, and receive 5 less skill points per level.}
-
+##
+## TRANSLATION NOTE: The long empty spaces below are intentional. Do not remove them. However, they will likely need to be modified after translation.
+##                   The spaces are to create a nice-looking visual separation between the summaries and detailed stat-change descriptions.
+##                   This means you will need to tweak the translation and number of spaces as needed, if you want to obtain the separation. (You don't have to, it's mostly cosmetic and to slightly increase readability)
+##
+##
+{200}{}{Your metabolic rate is twice that of your fellow vault-dwellers. Because your body heals faster, it has not developed a normal resistance to the elements.                  +2 Healing Rate, but Poison Resistance & Radiation Resistance start at 0%}
+{201}{}{A little slower, but a little bigger. You may not hit as often, but they will feel it when you do!                                                  +2 Strength, -2 Action Points.}
+{202}{}{You are not quite as big as the other vault-dwellers, but that never slowed you down.                                               +1 Agility, but Carry Weight is lowered by 10 times your Strength.       (-10 lb at STR 1 up to -100 lb at STR 10)}
+{203}{}{One of your hands is very dominant. You excel with 1-handed weapons.                  +20% Chance To Hit with all 1-handed weapons (including melee and unarmed), but -40% Chance To Hit with all 2-handed weapons.}
+{204}{}{Your attacks show a lot of finesse. You cause more critical hits, but you don't do as much damage.                            +10% Critical Chance, but your attacks deal 30% less damage.}
+{205}{}{By not paying any attention to threats, you can act a lot faster in a combat turn.                                     +5 Sequence, but Armor Class is 0 unless wearing armor.}
+{206}{}{You swing harder, not better. Your attacks are very brutal, but lack finesse.            +4 Melee Damage, but  -30% to Critical Hits table (meaning damage boosts and other effects of Critical Hits are reduced and/or less likely).}
+{207}{}{You attack faster than normal, so you don't have time to make targeted attacks.               All attacks (including melee and unarmed) cost 1 less Action Point, but you can't aim for specific body parts.}
+{208}{}{By some strange twist of fate, people around you die very violently. You always see the worst way a person can die.       You never saw such violence in Vault life, so this may have unforseen effects on your future actions.}
+{209}{}{Mayhem seems to follow you everywhere. Everyone around you has more critical failures in combat. The bad thing is, so do you!                All combat failures (misses) have a fairly high chance of being "upgraded" to a Critical Failure (critical miss).}
+{210}{}{You spent more time than normal studying non-combative skills growing up.             +15% to First Aid, Doctor, Speech, and Barter, but -10% to Small Guns, Big Guns, Energy Weapons, Throwing, Melee Weapons, and Unarmed.}
+{211}{}{You have enjoyed your trips to the vault medic a bit too much.                     You recover twice as fast as normal from the ill effects of drug addiction, but your chance to become addicted is also twice normal.}
+{212}{}{You are resistant to all drugs and medications. This caused a lot of frustrations for the vault medic.                                               Your chance to become addicted to drugs is 50% of normal, but drugs only affect you half as long as normal.}
+{213}{}{A night owl even as a child, you are more awake and alert when the sun goes down.                                                              +1 Intelligence and +1 Perception between 6:01 PM and 6:00 AM, but you have  -1 Intelligence and -1 Perception between 6:01 AM and 6:00 PM.}
+{214}{}{You've spent more time honing your skills than most, because you were born with less potential than most.                    +10% to all skills and +5 Skill Points per level, but Perks only every 4th level. (Normal is every 3rd)}
+{215}{}{You have more innate abilities and talents than most, so you have not spent as much time honing your skills.                                      +1 to all your primary statistics, but you start with -10% on all skills and receive 5 less Skill Points per level.}

@@ -1,5 +1,5 @@
 {100}{}{You see a locked strongbox.}
-{101}{}{You see an unlocked stronbox.}
+{101}{}{You see an unlocked strongbox.}
 {102}{}{The strongbox is locked.}
 {103}{}{While opening the strongbox, you detected and disarmed a trap.}
 {104}{}{While opening the strongbox, you detected a trap, but accidentally set it off.}

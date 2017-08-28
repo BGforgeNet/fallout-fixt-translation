@@ -11,7 +11,5 @@
 # for the case of the player-character feminine ("my friend" will be feminine).
 #
 
-{106}{}{Your arrival was timely, my friend. Allow me to present you with a small
- token of my gratitude.}
-{107}{}{Your arrival was timely, my friend. Allow me to present you with a small
- token of my gratitude.}
+{106}{}{Your arrival was timely, my friend. Allow me to present you with a small token of my gratitude.}
+{107}{}{Your arrival was timely, my friend. Allow me to present you with a small token of my gratitude.}

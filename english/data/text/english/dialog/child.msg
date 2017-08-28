@@ -13,7 +13,7 @@
 {112}{}{Then you shouldn't carry around a weapon like that.}
 
 {980}{}{Huh?}
-{981}{}{I da know. Ask mommy.}
+{981}{}{I dunno. Ask mommy.}
 {982}{}{Ask daddy.}
 
 {1000}{}{Deathclaw}
@@ -42,10 +42,12 @@
 {1023}{}{Town}
 {1024}{}{Downtown}
 {1025}{}{Heights}
+{1026}{}{The Boneyard}
+{1027}{}{L.A. Boneyard}
 
 {1100}{}{Wah! Nightmare monster!}
 {1101}{}{Big meanies!}
-{1102}{}{I da know.}
+{1102}{}{I dunno.}
 {1103}{}{Big stinkies.}
 {1104}{}{Ask mommy.}
 {1105}{}{Funny sea songs.}
@@ -69,3 +71,5 @@
 {1123}{}{Daddy keeps telling us to play there.}
 {1124}{}{Big people area.}
 {1125}{}{Big people area.}
+{1126}{}{Scary place.}
+{1127}{}{Scary place.}

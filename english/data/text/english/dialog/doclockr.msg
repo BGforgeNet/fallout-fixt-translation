@@ -7,7 +7,6 @@
 {106}{}{You accidentally set off the trap!}
 {107}{}{You unlock the locker.}
 {108}{}{You fail to bypass the lock on the locker.}
-{109}{}{The locker's already unlocked.}
-{110}{}{While tampering with the lock, you trip up the tumblers. There's no
- bypassing this lock now.}
+{109}{}{The locker is already unlocked.}
+{110}{}{While tampering with the lock, you trip up the tumblers. There's no bypassing this lock now.}
 {111}{}{You notice that there is a crude explosive device on the locker.}

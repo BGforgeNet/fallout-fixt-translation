@@ -15,14 +15,14 @@
 {114}{}{Yeah, nice weather. }
 {115}{}{Nice weather if you don't mind a radioactive tan. }
 {116}{}{They got any holy wine around this joint? }
-{117}{}{Screw the weather. I'm here to kill the Master. Where is that punk! }
+{117}{}{Screw the weather. I'm here to kill the Master. Where is that punk? }
 {118}{}{Yeah. Sunny. Sunny good. }
 {119}{}{Hello friend. It is good to see you. Put down your weapon, you are among friends here! }
 {120}{}{Sorry, it's been a tough week. So what can you tell me about this place? }
 {121}{}{Sorry, but I've learned to be cautious. Who's in charge here? }
 {122}{}{Friends, eh? That's odd, I've heard a lot of bad things about you. }
 {123}{}{Nice to know I'm among friends here. What's up? }
-{124}{}{Friends? How friendly do you want to get.. }
+{124}{}{Friends? How friendly do you want to get... }
 {125}{}{They got any holy wine around this joint? }
 {126}{}{Weapon? }
 {127}{}{Hello stranger. Forgive me, but you should not draw your weapon in the Cathedral. }
@@ -43,7 +43,7 @@
 {142}{}{I haven't yet, though I'm interested. Aside from this Peace and Unity stuff, what are you guys all about? }
 {143}{}{It had to happen. Who do I see about the initiation? }
 {144}{}{I came here for instruction. Can I see the Master? }
-{145}{}{Friends? How friendly do you want to get.. }
+{145}{}{Friends? How friendly do you want to get... }
 {146}{}{They got any holy wine around this joint? }
 {147}{}{Raaar! The cause! Raaar!? }
 {148}{}{Hello stranger. May I help you? }
@@ -53,7 +53,7 @@
 {152}{}{Who is this Master guy? }
 {153}{}{I could use a full body massage and maybe something extra. You interested? }
 {154}{}{They got any holy wine around this joint? }
-{155}{}{Help? Uh.. no. }
+{155}{}{Help? Uh... no. }
 {156}{}{Forgive me stranger, but I have many duties. Please excuse me. }
 {157}{}{Hail the Master! Hail Peace! Hail the Holy Flame! Hail Unity! }
 {158}{}{I can go for the peace part, but why is the Master so important? }
@@ -67,26 +67,26 @@
 {167}{}{Someone screwed up my orders. Don't mind me. }
 {168}{}{I'm not one of the Cathedral guards, I'm one of the patrols. }
 {169}{}{We don't? Oh shit! }
-{170}{}{I'm...ah...Oh well, nothing that can't be solved with a bullet. DIE! }
+{170}{}{I'm... ah... Oh well, nothing that can't be solved with a bullet. DIE! }
 {171}{}{My apologies. Praise the Master, and have a nice day. }
 {172}{}{Maybe later. }
 {173}{}{I do not believe we have any. Praise the Master, I'm sure this is for the best. }
-{174}{}{I'm sure it is. [Groan]. }
+{174}{}{I'm sure it is. [groan] }
 {175}{}{What kind of a Cathedral doesn't even have holy wine? }
 {176}{}{Fine, so I'll have to kill you when I'm sober. Like now. Die, you son of a bitch! }
 {177}{}{Many have tried to kill the Master, and all have failed. However, if you attempt this vile act, the Master may forgive you and find a good use for you. I shall pray for you. }
 {178}{}{I was only joking. People who spend a lot of time in the Wastes have a weird sense of humor, you know. So what's happening around here? }
-{179}{}{We'll see about that.. }
+{179}{}{We'll see about that... }
 {180}{}{Nobody prays for my soul. But somebody better start praying for you, because I'm killing you right now! }
 {181}{}{You have come to the wrong place, friend. This place is not about power. This place is about peace. }
-{182}{}{I hear that our Crusade goes well. Soon we shall bring Peace and Unity to the Boneyard, and all the surrounding communities  Isn't it great? }
+{182}{}{I hear that our Crusade goes well. Soon we shall bring Peace and Unity to L.A. Boneyard, and all the surrounding communities. Isn't it great? }
 {183}{}{Who's next on the list to receive Peace and Unity? }
 {184}{}{That's rather vague. Have you heard anything else? }
 {185}{}{Good. About time someone cleaned up this dump. }
 {186}{}{Yes. Isn't death grand. }
 {187}{}{The person that you seek is Father Morpheus. He can be found in the tower. Is that all? }
 {188}{}{Is there anything I should know before I meet him? }
-{189}{}{We'll see about that.. }
+{189}{}{We'll see about that... }
 {190}{}{Thanks! Fresh meat at last! }
 {191}{}{Is there something else on your mind, my child? }
 {192}{}{Sorry, it's been a tough week. So what can you tell me about this place? }
@@ -107,7 +107,7 @@
 {207}{}{Have you never been to the Cathedral before? This is a place of Peace and Unity. This is a place where differences are forgotten and we seek a future of unity and prosperity for all. A future where the horrors that our ancestors inflicted on us can never happen again! }
 {208}{}{And how do we achieve this perfect Utopia? }
 {209}{}{But does free will have to be sacrificed to create Utopia? }
-{210}{}{I would like to see the Master and hear what he has to say!. }
+{210}{}{I would like to see the Master and hear what he has to say. }
 {211}{}{How can you be so sure this ain't some form of mind control? }
 {212}{}{They got any holy wine around this joint? }
 {213}{}{I agree. I prefer to inflict my own horrors on people. }
@@ -122,11 +122,11 @@
 {222}{}{Sure. Praise to the Master! How's that? }
 {223}{}{I don't think so. }
 {224}{}{Anyone ever tell you that you're a zombie? }
-{225}{}{Let's praise him over a few bottles of holy wine. Praising goes a lot better when the spirit moves you.. }
+{225}{}{Let's praise him over a few bottles of holy wine. Praising goes a lot better when the spirit moves you... }
 {226}{}{You know, the one that's in your hand? }
 {227}{}{Oh, that weapon. }
 {228}{}{Um, is it loaded? }
-{229}{}{I don't know much. The mind of the Master is so great.. I do know that the Children are marching north. We will take control of all of the settlements, and baptize everyone! The baptism will change us and bring us closer to God, so we can have peace and unity, and there will never be war or destruction again! }
+{229}{}{I don't know much. The mind of the Master is so great... I do know that the Children are marching north. We will take control of all of the settlements, and baptize everyone! The baptism will change us and bring us closer to God, so we can have peace and unity, and there will never be war or destruction again! }
 {230}{}{And where is the baptismal font? }
 {231}{}{That sounds like he's going to dump everybody in the FEV-2 Virus! }
 {232}{}{What a wonderful day that's going to be! }
@@ -143,18 +143,18 @@
 {243}{}{I'm afraid I can't help you. Only Father Morpheus communes with the Master. You can find him in the tower. }
 {244}{}{Is there anything I should know before I meet him? }
 {245}{}{Thanks. Be seeing you. }
-{246}{}{Father Morpheus. That's a real peaceful sounding name. Who's his assistant, Brother Murder? Brother Death? Sister Kill maybe? }
+{246}{}{Father Morpheus. That's a real peaceful sounding name. Who's his assistant, Brother Murder? Brother Death? Sister Kill, maybe? }
 {247}{}{I am more than willing to be reborn for my cause. Kill me if you must, but I will be redeemed and you will die. }
 {248}{}{Kid, one way or another, you're spilling your guts right now! }
 {249}{}{I'd be happy if you just shut up. You zombies are giving me a headache. }
 {250}{}{You got guts, kid. I admire that. Maybe I won't kill you. }
 {251}{}{I don't give a rat's ass about your soul, kid, but I'll be damned if I turn down the invitation. One martyr, coming up! }
-{252}{}{Well... Uh.. Peace be with you.. I think... Farewell.. }
+{252}{}{Well... Uh... Peace be with you... I think... Farewell... }
 {253}{}{Look around you? Do you not hear the messages? How can you doubt the Master's sincerity? }
 {254}{}{Nobody wants peace. Everyone's out for numero uno, pal. Wake up! }
 {255}{}{It's easy to talk about peace, but what's the Master really doing? }
-{256}{}{Forgive me, brother. The world is such a terrible place, and I worry about losing our freedom.. }
-{257}{}{It's easy to talk about peace, but I hear terrible rumors of mutant armies.. }
+{256}{}{Forgive me, brother. The world is such a terrible place, and I worry about losing our freedom... }
+{257}{}{It's easy to talk about peace, but I hear terrible rumors of mutant armies... }
 {258}{}{Maybe you're right. Who do I see to sign up? }
 {259}{}{Sincerity only comes out of the barrel of a gun! }
 {260}{}{He is Keeper of the Holy Flame, one who strives to wipe away all divisions, all hatreds. He wields both sword and plowshare, but would rather build than destroy. Hail the Master! Hail Unity! }
@@ -170,18 +170,18 @@
 {270}{}{Sure. No problem. }
 {271}{}{Why's that? }
 {272}{}{I only have one question about them. Do they scream real loud when you kill them? }
-{273}{}{You know nothing? You must be stupid? }
+{273}{}{You know nothing? You must be stupid. }
 {274}{}{Nightkin! Nightkin! Kill! }
-{275}{}{This has been a wonderful talk, but I am falling behind in my praises. Farewell. Praise the Master! Praise the Holy Flame! Let us sing the sacred songs.. }
+{275}{}{This has been a wonderful talk, but I am falling behind in my praises. Farewell. Praise the Master! Praise the Holy Flame! Let us sing the sacred songs... }
 {276}{}{If you do not like it here, you can leave. Praise the Master, and have a nice day. }
 {277}{}{I pity the Wastes, if that is a sample of the warped humor it breeds. I would not share it with the others. }
 {278}{}{Anyone in particular I should avoid? }
 {279}{}{This place must be no fun at all! }
 {280}{}{Okay, I'll cut the jokes. }
 {281}{}{Have you heard the one about the nuke jockey and the traveling salesman? }
-{282}{}{Are you sure I can't show you what I do for laughs.. }
+{282}{}{Are you sure I can't show you what I do for laughs... }
 {283}{}{Not that I can think of. Farewell, friend. }
-{284}{}{I do not believe that I can help you, my friend. Farewell, and have a nice day. Praise the Master! Praise the Holy Flame.. }
+{284}{}{I do not believe that I can help you, my friend. Farewell, and have a nice day. Praise the Master! Praise the Holy Flame... }
 {285}{}{I can't help you with that, I'm afraid. Well, I must meditate on the glories of the Master. Please excuse me. Hail the Master! Praise the Holy Flame! }
 {286}{}{Everyone here is filled with love! But it's hard for some people to express their love, and the Nightkin find it extremely hard to express it. But you shall discover this on your own. Praise the Master! Praise the Holy Flame! }
 {287}{}{We must submit to the Master and the Holy Flame. When we have proven ourselves, we shall become baptized and closer to God. When all have been baptized, we shall be as one, a Unity under the Master! }
@@ -196,24 +196,24 @@
 {296}{}{I ain't no philosopher, but I know when something's right and something's wrong, and this is wrong. }
 {297}{}{Maybe you're right. }
 {298}{}{Humanity ain't worth saving, and neither are you. Die, you little zombie! }
-{299}{}{The Master has said that it was lack of Unity, so it must have been. Seek his high priest! Father Morpheus will correct the lies you have been told. }
+{299}{}{The Master has said that it was lack of Unity, so it must have been. Seek his High Priest! Father Morpheus will correct the lies you have been told. }
 {300}{}{We're not zombies! When I was a member of the Fighting Flesh street gang, I was a psychotic fool who did anything that the higher-ups told me to do! Praise to the Master that I am no longer so blind! Oh, praise the Master! Let's praise him together, shall we? }
 {301}{}{I could praise him better if I knew what he was doing. }
 {302}{}{Praise the Master! }
 {303}{}{You praise the Master, I'm outta here. }
 {304}{}{How about praising him together over some holy wine. I need a drink! }
 {305}{}{I've got an even better idea. I'll praise him over your dead zombie corpse. Time to die! }
-{306}{}{Isn't it wonderful that the Master would unite humans and mutants? He transcends hatred and prejudice. Can't you see, this proves that he wants what's best for everyone! }
-{307}{}{I suppose the armies are sharing love and brotherhood everywhere they go.. }
+{306}{}{Isn't it wonderful that the Master would unite humans and mutants? He transcends hatred and prejudice. Can't you see? This proves that he wants what's best for everyone! }
+{307}{}{I suppose the armies are sharing love and brotherhood everywhere they go... }
 {308}{}{I guess he's not doing it because mutants are more effective killers. }
 {309}{}{Praise the Master! }
 {310}{}{I need more proof. }
 {311}{}{How about praising him together over some holy wine. I need a drink! }
-{312}{}{I see it now. I'll follow the Master's example! I know what's best for you, therefore, I must kill you now! Makes perfect sense.. }
+{312}{}{I see it now. I'll follow the Master's example! I know what's best for you, therefore, I must kill you now! Makes perfect sense... }
 {313}{}{Open your heart. Open your mind. Listen to what people are saying, and you will find enlightenment. }
-{314}{}{Perhaps there's someone who can explain things more directly. Is the Master available.. }
+{314}{}{Perhaps there's someone who can explain things more directly. Is the Master available? }
 {315}{}{What I'm seeing are a bunch of zombies! }
-{316}{}{Those ain't reasons, Those are propaganda! }
+{316}{}{Those ain't reasons, those are propaganda! }
 {317}{}{I think I'll just walk around and see for myself. }
 {318}{}{I'd rather open a bottle of wine. Where is the booze around here? }
 {319}{}{You zombies make me sick! I want to kill each and every one of you! }
@@ -242,8 +242,8 @@
 {342}{}{But if he were truly wise, would his message have any ambiguity? }
 {343}{}{You're nuts! }
 {344}{}{I think I'd better look around a little more. }
-{345}{}{Yeah. I've got a great idea! Let's break out the holy wine and drink a toast to the master's wisdom! }
+{345}{}{Yeah. I've got a great idea! Let's break out the holy wine and drink a toast to the Master's wisdom! }
 {346}{}{All the wisdom in the world won't help against a .56 caliber slug between the eyes. }
 {347}{}{We're forging a world that's better for everyone. That's all. I'm sorry if you don't understand yet. I pray that someone wiser than I can change your mind. Farewell, my friend. Praise the Master! Praise Peace and Unity! }
 {348}{}{The world holds many surprises, my friend, some pleasant, some unpleasant. Farewell, my friend, and praise the Master! }
-{349}{}{[done] }
+{349}{}{[Done] }

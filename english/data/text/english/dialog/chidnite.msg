@@ -1,10 +1,8 @@
-{100}{}{You see before you a Nightkin.}
+{100}{}{You see a Nightkin.}
 {101}{}{Die!}
 {102}{}{Leave me or die!}
-{103}{}{I don't like your tone. If my message does not get to the Master,
- I will see to it that your death is slow and painful.}
-{104}{}{I just wanted to compliment you on the great looking hump on your back.
- Your breath could use some work, though . . .}
+{103}{}{I don't like your tone. If my message does not get to the Master, I will see to it that your death is slow and painful.}
+{104}{}{I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though...}
 {105}{}{Could you direct me to the man in charge?}
 {106}{}{Man, you could use a drink worse than me!}
 {107}{}{I'm not leaving!}
@@ -21,8 +19,8 @@
 {118}{}{You wanna see unwise? It's unwise to give me lip, asshole!}
 {119}{}{Go upstairs. Others of my kind will judge the worth of your message.}
 {120}{}{This is your last warning!}
-{121}{}{Sure it is! Big deal . . .}
+{121}{}{Sure it is! Big deal...}
 {122}{}{I REALLY need to speak with the guy in charge!}
 {123}{}{Okay! Okay! I'm sorry! Have a good day.}
 {124}{}{You know what your mistake is? You give warnings. I don't. Die!}
-{125}{}{[done]}
+{125}{}{[Done]}

@@ -1,1 +1,2 @@
-{100}{}{The Rad Scorpion beckons you to come closer.}
+{100}{}{The radscorpion beckons you to come closer.}
+{101}{}{You see: Nasty Radscorpion.}

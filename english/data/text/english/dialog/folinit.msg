@@ -1,13 +1,13 @@
-{100}{}{You see Initiate Walter of the Followers.}
-{101}{}{You see Initiate Nicolas of the Followers.}
-{102}{}{You see Initiate William of the Followers.}
-{103}{}{You see Initiate Matthew of the Followers.}
-{104}{}{You see Initiate John of the Followers.}
-{105}{}{You see Initiate Mellenie of the Followers.}
-{106}{}{You see Initiate Jeanne of the Followers.}
-{107}{}{You see Initiate Lori of the Followers.}
-{108}{}{You see Initiate Sarah of the Followers.}
-{109}{}{You see Initiate Christine of the Followers.}
+{100}{}{You see: Initiate Walter, of the Followers.}
+{101}{}{You see: Initiate Nicolas, of the Followers.}
+{102}{}{You see: Initiate William, of the Followers.}
+{103}{}{You see: Initiate Matthew, of the Followers.}
+{104}{}{You see: Initiate John, of the Followers.}
+{105}{}{You see: Initiate Mellenie, of the Followers.}
+{106}{}{You see: Initiate Jeanne, of the Followers.}
+{107}{}{You see: Initiate Lorraine, of the Followers.}## was Lori, then Gloria
+{108}{}{You see: Initiate Sarah, of the Followers.}
+{109}{}{You see: Initiate Christine, of the Followers.}
 {110}{}{May peace be your guide in this horrid wasteland.}
 {111}{}{I can't wait to fight the Children}
 {112}{}{If I can't be a Scholar, then I want to be a Scribe.}

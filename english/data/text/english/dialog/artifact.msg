@@ -1,9 +1,14 @@
-{100}{}{This seems strange. You think it may be what the Brotherhood
- sent you to retrieve.}
-{101}{}{Pip Boy displays: File Found on System. Aborting download.}
-{102}{}{Pip Boy displays: Downloading data from Disk.}
-{103}{}{You see a disk Sophia gave you.}
-{104}{}{You see a disk Maxson gave you.}
-{105}{}{You see a strange disk from the Military Base.}
-{106}{}{You see a strange holodisk.}
-{107}{}{You see a Vault Location Disk.}
+{100}{}{You see a strange disk of some sort.}
+{101}{}{Pip-Boy 2000 displays: "Downloading ... Aborting, data already exists!"}
+{102}{}{Pip-Boy 2000 displays: "Downloading data ... ... ... Done. Have a nice day!"}
+#
+# for Fallout Fixt:
+#
+{103}{}{This object is very old and has a strange insignia on it. You think it may be what the Brotherhood of Steel sent you to retrieve.}
+{104}{}{You see: Ancient Brotherhood Disk.}
+# 
+{125}{}{You see a strange disk from the Military Base.}
+# 
+#
+# Received from MRS STAPLETON in The Hub
+{127}{}{This particular holodisk is in excellent shape. The shiny label reads: "Vault Locations v34.129".}

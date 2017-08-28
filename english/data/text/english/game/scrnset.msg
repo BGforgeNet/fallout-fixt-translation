@@ -1,10 +1,9 @@
 #
+# This file is used for the hi-res patch settings (choose Settings and then Screen Settings from the main menu)
 #
 #
-#
-#
-{0}{}{Game Preferences}
-{1}{}{Screen Settings}
+{0}{}{GAME PREFERENCES}
+{1}{}{SCREEN SETTINGS}
 {3}{}{Options}
 
 
@@ -23,7 +22,7 @@
 
 {100}{}{Hi-Res}
 {101}{}{RESOLUTION}
-{102}{}{Colours}
+{102}{}{Colors}
 {103}{}{8 Bit}
 {104}{}{16 Bit}
 {105}{}{32 Bit}
@@ -84,9 +83,9 @@
 {300}{}{PRESS A KEY or ESC to cancel.}
 
 {500}{}{Hi-Res Patch settings.}
-{501}{}{Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen Mode.}
-{502}{}{Setup the Fullscreen Colour output here.}
-{503}{}{Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver default setting.}
+{501}{}{Set up the Screen Resolution, color mode and Refresh Rate for FullScreen Mode.}
+{502}{}{Set up the Fullscreen color output here.}
+{503}{}{Set up the Fullscreen Refresh Rate here. Set this to '0' for the driver default setting.}
 {504}{}{Customize the Fullscreen Width by clicking the number box.}
 {505}{}{Customize the Fullscreen Height by clicking the number box.}
 {506}{}{Enable or Disable Window Mode.}

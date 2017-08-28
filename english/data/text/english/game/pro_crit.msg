@@ -1,31 +1,29 @@
-{100}{}{Vault Dweller}
-{101}{}{}
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{100}{}{Vault-dweller}
 {200}{}{Townsman}
-{201}{}{Human male dressed in protective leather clothing}
+{201}{}{Human male dressed in protective leather clothing.}
 {300}{}{Townsman}
 {301}{}{Human male wearing heavy steel armor.}
 {400}{}{Loser}
 {401}{}{A pathetic loser.}
 {500}{}{Peasant}
-{501}{}{}
-{600}{}{Vault Dweller}
-{601}{}{}
-{700}{}{Powered Armor}
-{800}{}{Vault Overseer}
+{600}{}{Vault-dweller}
+{700}{}{Power Armor}
+{800}{}{The Overseer}
 {900}{}{Super Mutant}
-{901}{}{}
 {1000}{}{Greater Mole Rat}
-{1001}{}{}
 {1100}{}{Radscorpion}
-{1101}{}{Radscorpion}
+{1101}{}{A giant mutated scorpion, scourge to animals and humans alike.}
 {1200}{}{Person in Robes}
 {1300}{}{Merchant}
-{1301}{}{}
 {1400}{}{Zombie Guard}
-{1401}{}{}
+{1401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
 {1500}{}{Combat Armor Female}
 {1600}{}{Glowing One}
-{1601}{}{}
+{1601}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
 {1700}{}{Leather Jacket Man}
 {1800}{}{Peasant}
 {1900}{}{Leather Jacket Woman}
@@ -34,150 +32,98 @@
 {2200}{}{Townswoman}
 {2201}{}{Human female wearing attractive steel armor.}
 {2300}{}{Super Mutant Lieutenant}
-{2301}{}{}
-{2400}{}{Townswoman}
-{2401}{}{Human female wearing protective leather armor.}
-{2500}{}{Nightkin}
-{2501}{}{}
-{2600}{}{Vault Dweller}
-{2601}{}{}
+{2400}{}{Nightkin}
+{2500}{}{Townswoman}
+{2501}{}{Human female wearing protective leather armor.}
+{2600}{}{Vault-dweller}
 {2700}{}{Male Guard}
 {2800}{}{Brahma}
-{2801}{}{A two headed, mutant cow.}
 {2900}{}{Peasant}
 {3000}{}{Peasant}
 {3100}{}{Man in Leather Armor}
 {3200}{}{Peasant}
-{3201}{}{}
 {3300}{}{Citizen}
-{3301}{}{}
-{3400}{}{Vault Dweller}
-{3500}{}{Vault Dweller}
-{3501}{}{}
+{3400}{}{Vault-dweller}
+{3500}{}{Vault-dweller}
 {3600}{}{Dog}
-{3601}{}{A canine, probably of a mixed breed.}
+{3601}{}{A canine, probably of mixed breed.}
 {3700}{}{Woman}
 {3800}{}{Man}
 {3900}{}{Peasant}
-{3901}{}{}
 {4000}{}{Peasant}
-{4001}{}{}
-{4100}{}{Person In Power Armor}
+{4100}{}{Person encased in odd armor}
 {4200}{}{Boy}
-{4201}{}{}
 {4300}{}{Lesser Centaur}
-{4301}{}{}
 {4400}{}{Mr. Handy}
 {4500}{}{Floater}
-{4501}{}{}
 {4600}{}{Scribe}
-{4700}{}{Overseer}
+{4700}{}{The Overseer}
 {4800}{}{Cave Rat}
-{4801}{}{}
 {4900}{}{Gizmo}
-{5000}{}{Master}
+{5000}{}{The Master}
 {5100}{}{Deathclaw}
-{5101}{}{}
+{5101}{}{Many myths and rumors exist about these creatures, but their true origin remains unknown. Big, tough, fast.}
 {5200}{}{Technician}
-{5201}{}{}
 {5300}{}{Technician}
-{5301}{}{}
 {5400}{}{Technician}
-{5401}{}{}
 {5500}{}{Guard}
-{5501}{}{}
 {5600}{}{Guard}
-{5601}{}{}
 {5700}{}{Guard}
 {5800}{}{Technician}
-{5801}{}{}
 {5900}{}{Citizen}
-{5901}{}{}
 {6000}{}{Bum}
-{6001}{}{}
 {6100}{}{Worker}
-{6101}{}{}
 {6200}{}{Cathedral Student}
-{6201}{}{}
 {6300}{}{Tandi}
 {6400}{}{Aradesh}
 {6500}{}{Seth}
 {6600}{}{Merchant}
-{6601}{}{}
 {6700}{}{Guard}
-{6701}{}{}
 {6800}{}{Mantis}
-{6801}{}{}
 {6900}{}{Robobrain}
 {7000}{}{Raider Guard}
 {7100}{}{Citizen}
-{7101}{}{}
 {7200}{}{Citizen}
-{7201}{}{}
 {7300}{}{Garl's Advisor}
 {7400}{}{Citizen}
-{7401}{}{}
 {7500}{}{Raider}
 {7600}{}{Ian}
-{7700}{}{Floating Eye}
+{7700}{}{Floating Eye, Mk II}
 {7800}{}{Pig Rat}
-{7801}{}{}
 {7900}{}{Killian Darkwater}
 {8000}{}{Lars}
 {8100}{}{Izo}
 {8200}{}{Traveler}
-{8201}{}{}
 {8300}{}{Citizen}
-{8301}{}{}
 {8400}{}{Citizen}
-{8401}{}{}
 {8500}{}{Traveler}
-{8501}{}{}
 {8600}{}{Peasant}
-{8601}{}{}
 {8700}{}{Citizen}
-{8701}{}{}
 {8800}{}{Merchant}
-{8801}{}{}
 {8900}{}{Stranger}
-{8901}{}{}
 {9000}{}{Guard}
-{9001}{}{}
 {9100}{}{Farmer}
-{9101}{}{}
 {9200}{}{Merchant}
-{9201}{}{}
 {9300}{}{Peasant}
-{9301}{}{}
 {9400}{}{Neal}
 {9500}{}{Peasant}
-{9501}{}{}
 {9600}{}{Worker}
-{9601}{}{}
 {9700}{}{Merchant}
 {9800}{}{Peasant}
-{9801}{}{}
 {9900}{}{Thug}
-{9901}{}{}
 {10000}{}{Stranger}
-{10001}{}{}
 {10100}{}{Child of the Cathedral}
 {10200}{}{Vinnie}
-{10201}{}{}
 {10300}{}{Traveler}
-{10301}{}{}
 {10400}{}{Set}
 {10500}{}{Garret}
-{10600}{}{Ghoul}
-{10601}{}{}
+{10600}{}{Zombie}
+{10601}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
 {10700}{}{Nightkin Guard}
-{10701}{}{}
 {10800}{}{Tough Super Mutant}
-{10801}{}{}
 {10900}{}{Ghoul Guard}
-{10901}{}{}
+{10901}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
 {11000}{}{Undergrounder}
-{11001}{}{}
 {11100}{}{Dan}
 {11200}{}{Sheriff Greene}
 {11300}{}{Deputy Fry}
@@ -231,96 +177,57 @@
 {15700}{}{Harold}
 {15800}{}{Harry}
 {15900}{}{Tough Rat}
-{15901}{}{}
-{16000}{}{Radiated Rat}
-{16001}{}{}
-{16100}{}{Tough Radiated Rat}
-{16101}{}{}
+{16000}{}{Irradiated Rat}
+{16100}{}{Tough Irradiated Rat}
 {16200}{}{Lesser Mole Rat}
-{16201}{}{}
 {16300}{}{Coyote}
-{16301}{}{}
 {16400}{}{Large Brahma}
-{16401}{}{}
 {16500}{}{Deathclaw Spawn}
-{16501}{}{}
+{16501}{}{A smaller and younger version of its terrifying counterpart, but no less dangerous.}
 {16600}{}{Nasty Radscorpion}
-{16601}{}{}
 {16700}{}{Bloody Floater}
-{16701}{}{}
 {16800}{}{Greater Centaur}
-{16801}{}{}
 {16900}{}{Lowly Peasant}
-{16901}{}{}
 {17000}{}{Peasant}
-{17001}{}{}
 {17100}{}{Farmer}
-{17101}{}{}
 {17200}{}{Worker}
-{17201}{}{}
 {17300}{}{Farmer}
-{17301}{}{}
 {17400}{}{Merchant}
-{17401}{}{}
 {17500}{}{Guard}
-{17501}{}{}
 {17600}{}{Great Mantis}
-{17601}{}{}
 {17700}{}{Mean Pig Rat}
-{17701}{}{}
 {17800}{}{Farmer}
-{17801}{}{}
 {17900}{}{Worker}
-{17901}{}{}
 {18000}{}{Merchant}
-{18001}{}{}
 {18100}{}{Guard}
-{18101}{}{}
 {18200}{}{Glower}
-{18201}{}{}
+{18201}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
 {18300}{}{Mad Glowing One}
-{18301}{}{}
+{18301}{}{This irradiated ghoul has maintained enough brain matter and motor function to be able to speak clearly.}
 {18400}{}{Zombie}
-{18401}{}{}
+{18401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
 {18500}{}{Guard}
-{18501}{}{}
 {18600}{}{Super Mutant Guard}
-{18601}{}{}
 {18700}{}{Mean Super Mutant}
-{18701}{}{}
 {18800}{}{Mad Super Mutant}
 {18900}{}{Deadly Super Mutant}
 {19000}{}{Tough Nightkin}
-{19001}{}{}
 {19100}{}{Deadly Nightkin}
-{19101}{}{}
 {19200}{}{Super Nightkin}
-{19300}{}{Master Nighkin}
-{19301}{}{}
+{19300}{}{Master Nightkin}
 {19400}{}{Guard}
-{19401}{}{}
 {19500}{}{Merchant}
-{19501}{}{}
 {19600}{}{Guard}
-{19601}{}{}
 {19700}{}{Guard}
-{19701}{}{}
 {19800}{}{Guard}
-{19801}{}{}
 {19900}{}{Girl}
-{19901}{}{}
 {20000}{}{Scribe}
 {20100}{}{Guard}
-{20101}{}{}
 {20200}{}{Stranger}
-{20201}{}{}
 {20300}{}{Thug}
-{20301}{}{}
 {20400}{}{Mercenary}
-{20401}{}{}
 {20500}{}{Guard}
-{20501}{}{}
-{20600}{}{Vault Dweller}
+{20600}{}{Vault-dweller}
 {20700}{}{Garl}
 {20800}{}{Doc Morbid}
 {20900}{}{Gretch}
@@ -421,7 +328,8 @@
 {30301}{}{You see a Siberian Husky waiting patiently for her master.}
 {30400}{}{Mysterious Stranger}
 {30500}{}{Mindless Ghoul}
-{30600}{}{Eyeball, Mk II}
+{30501}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
+{30600}{}{Floating Eye}
 {30700}{}{Egg}
 {30701}{}{Deathclaw Egg}
 {30800}{}{Dugan}
@@ -429,3 +337,87 @@
 {31000}{}{Hammer}
 {31100}{}{Dead Traveler}
 {31200}{}{Kenji}
+{31300}{}{Ian}
+{31400}{}{Ian}
+{31500}{}{Ian}
+{31600}{}{Ian}
+{31700}{}{Ian}
+{31800}{}{Ian}
+{31900}{}{Ian}
+{32000}{}{Ian}
+{32100}{}{Ian}
+{32200}{}{Ian}
+{32300}{}{Ian}
+{32400}{}{Ian}
+{32500}{}{Ian}
+{32600}{}{Ian}
+{32700}{}{Ian}
+{32800}{}{Ian}
+{32900}{}{Ian}
+{33000}{}{Ian}
+{33100}{}{Ian}
+{33200}{}{Ian}
+{33300}{}{Ian}
+{33400}{}{Ian}
+{33500}{}{Ian}
+{33600}{}{Ian}
+{33700}{}{Ian}
+{33800}{}{Ian}
+{33900}{}{Ian}
+{34000}{}{Tycho}
+{34100}{}{Tycho}
+{34200}{}{Tycho}
+{34300}{}{Tycho}
+{34400}{}{Tycho}
+{34500}{}{Tycho}
+{34600}{}{Tycho}
+{34700}{}{Tycho}
+{34800}{}{Tycho}
+{34900}{}{Tycho}
+{35000}{}{Tycho}
+{35100}{}{Tycho}
+{35200}{}{Tycho}
+{35300}{}{Tycho}
+{35400}{}{Tycho}
+{35500}{}{Tycho}
+{35600}{}{Tycho}
+{35700}{}{Tycho}
+{35800}{}{Tycho}
+{35900}{}{Tycho}
+{36000}{}{Tycho}
+{36100}{}{Tycho}
+{36200}{}{Tycho}
+{36300}{}{Tycho}
+{36400}{}{Tycho}
+{36500}{}{Tycho}
+{36600}{}{Tycho}
+{36700}{}{Katja}
+{36800}{}{Katja}
+{36900}{}{Katja}
+{37000}{}{Katja}
+{37100}{}{Katja}
+{37200}{}{Katja}
+{37300}{}{Katja}
+{37400}{}{Katja}
+{37500}{}{Katja}
+{37600}{}{Katja}
+{37700}{}{Katja}
+{37800}{}{Katja}
+{37900}{}{Katja}
+{38000}{}{Katja}
+{38100}{}{Katja}
+{38200}{}{Katja}
+{38300}{}{Katja}
+{38400}{}{Katja}
+{38500}{}{Katja}
+{38600}{}{Katja}
+{38700}{}{Katja}
+{38800}{}{Katja}
+{38900}{}{Katja}
+{39000}{}{Katja}
+{39100}{}{Katja}
+{39200}{}{Katja}
+{39300}{}{Katja}
+{39400}{}{Baby Radscorpion}
+{39500}{}{Mother Radscorpion}
+{39600}{}{The Overseer}

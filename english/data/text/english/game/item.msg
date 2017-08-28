@@ -1,13 +1,17 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
 #
 # Item.c messages
 #
 {1}{}{You gained %d %s.}
 {2}{}{You lost %d %s.}
-{3}{}{You feel better.}
-{4}{}{You suffer a fatal heart attack from chem overdose.}
+{3}{}{You feel better now.}
+{4}{}{You suffer a fatal heart attack from drug overdose.}
 {5}{}{%s has no charges left.}
 {6}{}{%s is on.}
 {7}{}{%s is off.}
-{8}{}{You pass the Geiger counter over your body. The rem counter reads: %d}
+{8}{}{You pass the Geiger counter over your body. It displays: %d rads.}
 {9}{}{This item can only be used from the interface bar.}
 {10}{}{Nothing happens.}

@@ -4,12 +4,10 @@
 {103}{}{Welcome to Adytum, stranger. Watch yourself, we'll be watching you.}
 {104}{}{I'd like to enter.}
 {105}{}{Can I ask you a few questions?}
-{106}{}{Uhhh . . .}
-{107}{}{Zimmerman might have a use for you. Come inside, but
- remember, we're watching.}
+{106}{}{Uhhh... }
+{107}{}{Zimmerman might have a use for you. Come inside, but remember, we're watching.}
 {108}{}{Welcome back! You're welcome here any time.}
-{109}{}{Don't you have a job to do? Come back here when you've
- dealt with the it.}
+{109}{}{Don't you have a job to do? Come back here when you've dealt with the it.}
 {110}{}{Go away!}
 {111}{}{What do you want now?}
 {112}{}{I'd like to enter.}
@@ -19,27 +17,18 @@
 {116}{}{No.}
 {117}{}{What do you want to know about?}
 {118}{}{What do you do here?}
-{119}{}{Can you tell me more about the Boneyard?}
+{119}{}{Can you tell me more about L.A. Boneyard?}
 {120}{}{How can I get inside?}
-{121}{}{What do you know about the Children of the Cathedral
- and the Followers of the Apocalypse?}
+{121}{}{What do you know about the Children of the Cathedral and the Followers of the Apocalypse?}
 {122}{}{Nothing, thanks.}
-{123}{}{I'm one of the Regulators. It's our job to keep the peace
- in Adytum, and to protect the town. Our boss, Caleb,
- could tell you more.}
-{124}{}{East of us are the Followers. They are a bunch of peace-nuts.
- East are the Blade, a bunch of Skags if you ask me. A ways south of here is the Cathedral, 
-where the Children have their religious center.}
-{125}{}{Sorry, but we have to be careful of strangers here. Too
- dangerous. Maybe you can do some work for Zimmerman.}
+{123}{}{I'm one of the Regulators. It's our job to keep the peace in Adytum, and to protect the town. Our boss, Caleb, could tell you more.}
+{124}{}{East of us are the Followers. They are a bunch of peace-nuts. East are the Blades, a bunch of skags if you ask me. A ways south of here is the Cathedral, where the Children have their religious center.}
+{125}{}{Sorry, but we have to be careful of strangers here. Too dangerous. Maybe you can do some work for Zimmerman.}
 {126}{}{Finish your job.}
-{127}{}{You're welcome here anytime, of course!}
-{128}{}{They're both groups of nuts. The Followers want everyone to be
- peaceful and happy. They don't realize that the world is too
- harsh for that.}
-{129}{}{The Children have some sort of god they worship
- in their Cathedral to the south. They have a hospital, 
- but they're a little too weird to be on the level.}
+{127}{}{You're welcome here any time, of course!}
+{128}{}{They're both groups of nuts. The Followers want everyone to be peaceful and happy. They don't realize that the world is too harsh for that.}
+# "on the level" means legit, following all the rules, being legal/ethical/transparent
+{129}{}{The Children have some sort of god they worship in their Cathedral to the south. They have a hospital, but they're a little too weird to be on the level.}
 {130}{}{You were warned to keep your weapons under control!}
 {131}{}{You'd better put your weapons away while you're here.}
 {132}{}{A thief, eh? Let me show you what we do to your kind here!}
@@ -70,7 +59,7 @@ where the Children have their religious center.}
 {1015}{}{Boneyard}
 
 {1100}{}{That's here.}
-{1101}{}{They live easth of here.}
+{1101}{}{They live east of here.}
 {1102}{}{It's a ways south of us.}
 {1104}{}{They're on the north of here.}
 {1105}{}{They're to the east of the Blades, and then north of the Deathclaws.}
@@ -83,4 +72,4 @@ where the Children have their religious center.}
 {1112}{}{That's a myth.}
 {1113}{}{We protect Adytum.}
 {1114}{}{They go outside to get things.}
-{1115}{}{This is the Boneyard.}
+{1115}{}{This is L.A. Boneyard.}

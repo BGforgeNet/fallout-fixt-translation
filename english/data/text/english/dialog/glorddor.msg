@@ -1,6 +1,5 @@
 {100}{}{The frame of this security door has remnants of red paint.}
-{101}{}{You get a mild shock from the electric field on the door and take a point
- of damage.}
+{101}{}{You get a mild shock from the electric field on the door and take a point of damage.}
 {102}{}{You get a strong shock from the electric field on the door. You sustain }
 {103}{}{ points of damage.}
 {104}{}{You force the door open.}
@@ -14,13 +13,13 @@
 {112}{}{This skill has no effect on the door.}
 
 {113}{}{You disarm the electric field on the door.}
-{114}{}{You intesified the power of the electric field.}
+{114}{}{You intensified the power of the electric field.}
 {115}{}{You fail to disarm the electric field.}
 {116}{}{You pick the lock on the door without setting off the security system.}
 {117}{}{You fail to pick the lock and take serious damage from the security system.}
 {118}{}{You fail to pick the lock and take damage from the security system.}
 {119}{}{You are shocked by the security system and lose concentration to pick the lock.}
-{120}{}{You take and intense shock from the security system and lose concentration to pick the lock.}
+{120}{}{You receive an intense shock from the security system and lose concentration to pick the lock.}
 {121}{}{You utterly fail in trying to pick this lock and destroy your picks.}
 {122}{}{You fail to pick this lock.}
 {123}{}{You see a sturdy, rusted door.}

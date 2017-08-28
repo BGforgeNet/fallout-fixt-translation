@@ -1,19 +1,17 @@
 {100}{}{You see a Paladin.}
 {101}{}{Sorry, we're on alert. I can't talk right now.}
-{102}{}{Do you see anything.}
+{102}{}{Do you see anything?}
 {103}{}{Those mutants will pay for what they did.}
 {104}{}{Don't worry, we have everything under control.}
-{105}{}{I wouldn't stick around here if I were you initiate, there's likely
- to be more bloodshed.}
-{106}{}{Keep an eye out for us Initiate.}
-{107}{}{I wouldn't stick around here if I were you stranger, there's likely
- to be more bloodshed.}
-{108}{}{Keep an eye out stranger, trouble's brewing.}
+{105}{}{I wouldn't stick around here if I were you, Initiate; there's likely to be more bloodshed.}
+{106}{}{Keep an eye out for us, Initiate.}
+{107}{}{I wouldn't stick around here if I were you, stranger; there's likely to be more bloodshed.}
+{108}{}{Keep an eye out, stranger. Trouble's brewing.}
 {109}{}{Leave.}
 {110}{}{Do not distract me, we're on alert.}
-{111}{}{Keep quite.}
-{112}{}{Stop wasting my time, initiate.}
-{113}{}{Button your hatch stranger.}
+{111}{}{Keep quiet.}
+{112}{}{Stop wasting my time, Initiate.}
+{113}{}{Button your hatch, stranger.}
 {114}{}{Beat it stranger, before there's more bloodshed.}
 {115}{}{This world should be cleansed of these vile abominations.}
 {116}{}{What was that?}
@@ -30,9 +28,9 @@
 {205}{}{Not yet.}
 {206}{}{Scouts report that everything is clear.}
 {207}{}{Good.}
-{208}{}{So, what were you working on this morning Ray?}
+{208}{}{So, what were you working on this morning, Ray?}
 {209}{}{Just trying to increase the range on the plasma rifle.}
-{210}{}{Have you checked out the Gatling laser?}
-{211}{}{Yea, I assisted with the first prototype.}
+{210}{}{Have you checked out the gatling laser?}
+{211}{}{Yeah, I assisted with the first prototype.}
 {212}{}{Quit with the chatter!}
 {213}{}{Yes, sir. Sorry, sir.}

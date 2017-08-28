@@ -1,4 +1,0 @@
-{100}{}{You see Dogmeat.}
-{101}{}{Arf! Arf Arf! Arf! Arf! Arf! Arf! Arf! Arf!}
-{102}{}{[Sniff. Sniff.] Grrrr! Snarl!}
-{103}{}{[Sniff. Sniff] Woof!}

@@ -3,13 +3,13 @@
 # job of confusing the matter for people. Elusive and evasive. She will play
 # on anything that you give her to work with.
 
-{100}{}{You see Heather of the Follower's Scouts.}
+{100}{}{You see: Heather, of the Followers' scouts.}
 {101}{}{What are you doing here?}
 {102}{}{Dis!}
 # moronic line for This
 
 {103}{}{Go bye.}
-# moronic line for Good Bye.
+# moronic line for "Goodbye".
 
 {104}{}{I'm just looking around.}
 {105}{}{I am here to kill you!}
@@ -22,8 +22,7 @@
 {112}{}{Thank you, but I am already spoken for. I think it is time for you to leave.}
 # "I am already spoken for" == "i am already dating someone else"
 
-{113}{}{Yes, the spy. I have heard of that bothersome pest. I really wish we
- could catch him.}
+{113}{}{Yes, the spy. I have heard of that bothersome pest. I really wish we could catch him.}
 # Spy is considered male
 
 {114}{}{I kept hearing that it was a female spy.}
@@ -36,8 +35,7 @@
 # spy is considered female
 
 {117}{}{Good luck to you. Sorry I bothered you.}
-{118}{}{I bet it was the braggart Neil that said as much. I'll have to have
- a talk with him later.}
+{118}{}{I bet it was the braggart Neil that said as much. I'll need to have a talk with him later.}
 # Neil is male
 
 {119}{}{You think that Neil is the spy?}
@@ -51,30 +49,25 @@
 {123}{}{I will get you proof.}
 {124}{}{He seems like a nice person. I don't know.}
 {125}{}{Why do you think it is him?}
-{126}{}{Thank you. You don't know how much this means to me. Once you get
- proof, kill him.}
-{127}{}{What is there not to know? He has access to the Children. He works
- during the night when most are asleep. It has to be him.}
+{126}{}{Thank you. You don't know how much this means to me. Once you get proof, kill him.}
+{127}{}{What is there not to know? He has access to the Children. He works during the night when most are asleep. It has to be him.}
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
-# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# anyone who gets in their way or acts against their wishes. They are really bad people.
 # consider Male.
 
-{128}{}{Ok, I will check into it.}
+{128}{}{Okay, I will check into it.}
 {129}{}{Forget it. I think you are trying to divert me!}
-{130}{}{I am truly sorry that you think that way. I cannot have someone think
- I am a spy. I will remove you from service.}
+{130}{}{I am truly sorry that you think that way. I cannot have someone think I am a spy. I will remove you from service.}
 # Spy is female. "I will remove you from service" == "i am going to have to kill you now"
 
-{131}{}{He has access to the Children during the night. No one ever sees
- him on duty. It must be him.}
+{131}{}{He has access to the Children during the night. No one ever sees him on duty. It must be him.}
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
 # consider Male.
 
-{132}{}{Ok, I will check into it.}
+{132}{}{Okay, I will check into it.}
 {133}{}{Forget it. I think you are trying to divert me!}
-{134}{}{I am not certain as to who it is. I think it may either be a guard
- or a scholar. They keep sneaking into the Children's Cathedral at night.}
+{134}{}{I am not certain as to whom it is. I think it may either be a guard or a scholar. They keep sneaking into the Children's Cathedral at night.}
 # Guard is considered male. Scholar is considered female.
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
@@ -83,19 +76,18 @@
 {135}{}{Any other leads that you can think of?}
 # == is there any other information that you can think of?
 
-{136}{}{But I've heard talk that only the scouts do raids on the Children}
+{136}{}{But I've heard talk that only the scouts do raids on the Children.}
 # scouts is male
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
 # consider Male.
 
-{137}{}{Ok. Thank you for your help.}
+{137}{}{Okay. Thank you for your help.}
 {138}{}{Not really. Just that I think it is a male and probably a scholar or guard.}
 # is is refering to a male spy. Scholar and guard are male.
 
-{139}{}{Ok. Thank you for your help.}
-{140}{}{True. We scouts do many raids on the Children, and to much loss lately.
- This spy costs us dearly.}
+{139}{}{Okay. Thank you for your help.}
+{140}{}{True. We scouts do many raids on the Children, and to much loss lately. This spy costs us dearly.}
 # scouts is male. spy is male.
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
@@ -115,11 +107,10 @@
 {145}{}{If you kill off the scouts, then you stop the raids.}
 {146}{}{I don't know. Why would you do that?}
 {147}{}{Don't know. Just wondering.}
-{148}{}{Sounds like a good thought. I've noticed Peter never gets attacked much
- in the raids. I think he may be the one.}
+{148}{}{Sounds like a good thought. I've noticed Peter never gets attacked much in the raids. I think he may be the one.}
 # Peter is male. She thinks that Peter may be the male spy.
 
-{149}{}{Ok, I will check into it.}
+{149}{}{Okay, I will check into it.}
 {150}{}{Forget it. I think you are trying to divert me!}
 {151}{}{You think that it is me?}
 # it referring to the female spy.
@@ -131,13 +122,12 @@
 {154}{}{Then wonder somewhere else. I must get back to work.}
 # then think about it somewhere else
 
-{155}{}{I think he thinks I am the spy. But I'm not.}
+{155}{}{I think he thinks I am the spy, but I'm not.}
 # spy is female
 
 {156}{}{Maybe he is right.}
 {157}{}{Why would he think that?}
-{158}{}{Because I am the new scout. I've only been here for about a year
- and the trouble started about five months ago.}
+{158}{}{Because I am the new scout. I've only been here for about a year and the trouble started about five months ago.}
 # scout is female
 
 {159}{}{I think Neil may be right.}
@@ -150,13 +140,11 @@
 {162}{}{If you need information, look to Nicole. She thinks she knows everything.}
 # Nicole is female. said in a snotty manner.
 
-{163}{}{I can be persuaded to tell you something that's going on. For a price.}
+{163}{}{I can be persuaded to tell you something that's going on, for a price.}
 {164}{}{How much?}
 {165}{}{You would sell secrets?}
 {166}{}{Forget it. I have no money.}
 {167}{}{Three hundred caps and the information is yours.}
-# caps are a form of money. equivalant to a dollar each
-
 {168}{}{Sure.}
 {169}{}{No way.}
 {170}{}{There will be a raid on the south end of the Children's stronghold. Now go.}

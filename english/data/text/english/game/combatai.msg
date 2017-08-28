@@ -1,116 +1,131 @@
-#                                    T:\GURPS\CD\DATA\TEXT\GAME\COMBATAI.MSG
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+#
 # FALLOUT BATTLECRIES
-# When the Bomb Drops, the real fun begins
+# "When the Bomb Drops, the real fun begins"
 #
 # Version 1.0  May 13, 1997  Scott Bennie
 #         1.1  May 14, 1997  Chris Taylor (edits and line number change)
 #         1.2  June 19, 1997 Leonard, Jason, Chris (edits)
+#	  1.?  2008-2010ish  TeamX and Alchemist
+#	  2.0  July 14, 2011 Sduibek, Fallout Fixt (lots of fixes, filled in all blank entries up to #23 Peasant, modified duplicate and boring/lame entries)
+#	  2.1  Dec 23, 2012  Sduibek, Fallout Fixt (grammar/spelling/etc fixes)
 #
-# Combat AI messages (ranges defined in data\data\ai.txt)
+# Combat AI messages (ranges and chance to display defined in data\data\ai.txt)
 #
 
-# 1. Guard 1 (Professional)
-# Guard 1 should be used for caravan guards, soldiers, and other professional tough guys  who are paid to fight and don't particularly have much of an attitude. It's also very serious in tone.
+# 1. Guard 1 (Professional)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 1 should be used for caravan guards, soldiers, and other professional
+# tough guys who are paid to fight and don't particularly have much
+# of an attitude. It's also very serious in tone.
+#
 #
 #  running away
 #
-{1000}{}{}
-{1001}{}{}
+{1000}{}{I didn't sign up for this}
+{1001}{}{I don't get paid enough for this}
 {1002}{}{Fall back!}
-{1003}{}{Fall back!}
+{1003}{}{Regroup!}
 {1004}{}{I'm not dying for this!}
 {1005}{}{That's enough for me}
 #
 # moving in to attack
 #
-{1006}{}{}
+{1006}{}{I'm going to teach you a lesson}
 {1007}{}{You just made a big mistake!}
 {1008}{}{We don't like your kind around here!}
 {1009}{}{I don't like your kind}
-{1010}{}{}
-{1011}{}{}
+{1010}{}{That was your last mistake}
+{1011}{}{Blood resolves what words can't}
 #
 # attacking
 #
-{1012}{}{}
-{1013}{}{}
+{1012}{}{Eat this}
+{1013}{}{Think fast!}
 {1014}{}{Now you die!}
-{1015}{}{}
-{1016}{}{}
-{1017}{}{You are going to die}
+{1015}{}{Second one today...}
+{1016}{}{I enjoy a good workout}
+{1017}{}{You are going to die.}
 {1018}{}{Let's see how tough you are...}
 {1019}{}{Punk}
 {1020}{}{Attack!}
-{1021}{}{}
+{1021}{}{Let's see how you like this}
 #
 # target being missed
 #
-{1022}{}{}
+{1022}{}{Too slow}
 {1023}{}{I've been doing this for years, punk}
 {1024}{}{You ain't good enough}
 {1025}{}{That was your last mistake}
 {1026}{}{Amateur}
-{1027}{}{}
+{1027}{}{Is that all you got?}
 #
 # target hit in head
 #
-{1028}{}{Ow! You son of a...}
+{1028}{}{Ow! You son of a bitch}
 {1029}{}{I'm gonna kill you for that}
-{1030}{}{}
+{1030}{}{I think I might have a concussion}
 #
 # target hit in left arm
 #
-{1031}{}{Ow, my arm}
+{1031}{}{That's not good}
 {1032}{}{Damn, my arm's busted!}
 {1033}{}{My arm!}
 #
 # target hit in right arm
 #
-{1034}{}{Ow, my arm}
-{1035}{}{Damn, my arm's busted!}
+{1034}{}{GAH! I think it's broken...}
+{1035}{}{Fuck that smarts}
 {1036}{}{My arm!}
 #
 # target hit in torso
 #
 {1037}{}{Ooph!}
 {1038}{}{Ow}
-{1039}{}{Gasp!}
+{1039}{}{[Gasp!]}
 {1040}{}{My ribs!}
 #
 # target hit in right leg
 #
-{1041}{}{Ow, my leg}
+{1041}{}{My knee!}
 {1042}{}{You're gonna pay for that!}
-{1043}{}{My knee!}
+{1043}{}{My leg's going numb}
 #
 # target hit in left leg
 #
-{1044}{}{Ow, my leg}
-{1045}{}{You're gonna pay for that!}
+{1044}{}{Fuck, you broke it!}
+{1045}{}{I hope it doesn't buckle}
 {1046}{}{My knee!}
 #
 # target hit in eyes
 #
 {1047}{}{I can't see!}
 {1048}{}{My eye!}
-{1049}{}{}
+{1049}{}{Fuck! At least I have another one}
 #
 # target hit in groin
 #
 {1050}{}{Oooooo, my groin!}
-{1051}{}{}
-{1052}{}{}
+{1051}{}{Fuck, nice shot}
+{1052}{}{You fight dirty}
 {1053}{}{Urp!}
 {1054}{}{Oof!}
 {1055}{}{That hurt}
 
-# 2. Guard 2 (Gung-ho)
-# Guard 2 should be used for really military types or military wannabes. It's a little over the top in places. He's a little bit conceited.
+#
+# 2. Guard 2 (Gung-ho)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 2 should be used for really military types or military wannabes.
+# It's a little over the top in places. He's a little bit conceited.
+#
 #
 #  running away
 #
 {1100}{}{Reinforcements!}
-{1101}{}{}
+{1101}{}{Discretion is the better part of valor}
 {1102}{}{Medic!}
 {1103}{}{Retreat! Retreat!}
 {1104}{}{Fall back! Fall back!}
@@ -118,8 +133,8 @@
 #
 # moving in to attack
 #
-{1106}{}{}
-{1107}{}{}
+{1106}{}{Time to put my training to the test!}
+{1107}{}{I'm gonna fucking end you}
 {1108}{}{I'm gonna teach you some manners}
 {1109}{}{You're history!}
 {1110}{}{Attack!}
@@ -131,25 +146,25 @@
 {1113}{}{Now I have you!}
 {1114}{}{Now you die!}
 {1115}{}{How do you like this?}
-{1116}{}{}
+{1116}{}{Paid for your coffin yet?}
 {1117}{}{Shouldn't start what you can't finish}
 {1118}{}{You better pray to the gods!}
-{1119}{}{}
-{1120}{}{}
-{1121}{}{See you in Hell}
+{1119}{}{Time to die!}
+{1120}{}{This will be easy}
+{1121}{}{See you in hell}
 #
 # target being missed
 #
-{1122}{}{}
+{1122}{}{Ha! Seriously?}
 {1123}{}{Is that the best you can do?}
 {1124}{}{C'mon loser. Gimme a fight!}
 {1125}{}{Try aiming next time}
 {1126}{}{Civilian}
-{1127}{}{}
+{1127}{}{Figures.}
 #
 # target hit in head (3)
 #
-{1128}{}{}
+{1128}{}{Uugghh... can't think straight}
 {1129}{}{My face!}
 {1130}{}{You broke my nose!}
 #
@@ -157,13 +172,13 @@
 #
 {1131}{}{You broke my arm!}
 {1132}{}{A busted arm is not stopping me!}
-{1133}{}{}
+{1133}{}{I'm going to get you for that}
 #
 # target hit in right arm
 #
-{1134}{}{You broke my arm!}
-{1135}{}{A busted arm is not stopping me!}
-{1136}{}{}
+{1134}{}{You broke it!}
+{1135}{}{I didn't need that elbow anyway}
+{1136}{}{Good thing I'm a lefty}
 #
 # target hit in torso
 #
@@ -174,14 +189,14 @@
 #
 # target hit in right leg
 #
-{1141}{}{Ow, my leg}
+{1141}{}{That was a lucky shot}
 {1142}{}{You will pay for that!}
 {1143}{}{That kind of wound will not stop me!}
 #
 # target hit in left leg
 #
-{1144}{}{Ow, my leg}
-{1145}{}{That kind of wound will not stop me!}
+{1144}{}{Ow, my leg!}
+{1145}{}{Take my leg, I'll take your life}
 {1146}{}{You will pay!}
 #
 # target hit in eyes
@@ -196,19 +211,24 @@
 {1151}{}{Ack!}
 {1152}{}{Oof!}
 {1153}{}{I...can't...breathe...}
-{1154}{}{I...can't...breathe...}
+{1154}{}{Son of a bitch}
 {1155}{}{You punk...}
 
-# 3. Guard 3 (Sadistic)
-# Guard 3 is the henchman of really nasty people. He likes to hurt people, and makes no bones about it and is a bit of a coward.
+#
+# 3. Guard 3 (Sadistic)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 3 is the henchman of really nasty people. 
+# He likes to hurt people, and makes no bones about it, and is a bit of a coward.
+#
 #
 #  running away
+#
 {1200}{}{Gotta get outta here!}
 {1201}{}{I'll be back...}
 {1202}{}{You ain't killing me today!}
 {1203}{}{Later punk!}
 {1204}{}{You ain't seen the last of me!}
-{1205}{}{You'll pay for this -- later!}
+{1205}{}{You'll pay for this - later!}
 #
 # moving in to attack
 #
@@ -216,18 +236,18 @@
 {1207}{}{Fresh meat...}
 {1208}{}{I'm gonna dance on your grave}
 {1209}{}{Everybody! It's target practice!}
-{1210}{}{}
+{1210}{}{Bleed, bleed, bleed!}
 {1211}{}{I'm going to enjoy this...}
 #
 # attacking (10)
 #
-{1212}{}{}
+{1212}{}{Gonna sell your corpse to Doc Morbid}
 {1213}{}{Don't bother screaming for mercy...}
 {1214}{}{This is the best part...}
-{1215}{}{}
+{1215}{}{Your shoe's untied}
 {1216}{}{Gonna feed you to the dogs}
 {1217}{}{Shouldn't start what you can't finish}
-{1218}{}{Hope you don't die too quick}
+{1218}{}{Hope you don't die too quickly.}
 {1219}{}{Only one of us is walking away}
 {1220}{}{Die!}
 {1221}{}{I eat punks like you for breakfast}
@@ -239,8 +259,8 @@
 #
 {1225}{}{You're a joke}
 {1226}{}{Is that the best you can do?}
-{1227}{}{}
-{1228}{}{}
+{1227}{}{Whatever}
+{1228}{}{Whew, that was close}
 {1229}{}{Too slow!}
 {1230}{}{Loser}
 #
@@ -252,51 +272,54 @@
 #
 # target hit in left arm
 #
-{1234}{}{Ow, my arm}
+{1234}{}{Ow, my arm!}
 {1235}{}{You broke my arm!}
-{1236}{}{A busted arm ain't stopping me!}
+{1236}{}{I can get it reattached}
 #
 # target hit in right arm
 #
-{1237}{}{Ow, my arm}
+{1237}{}{A busted arm ain't stopping me!}
 {1238}{}{You broke my arm!}
-{1239}{}{A busted arm ain't stopping me!}
+{1239}{}{I can't feel my fingers...}
 #
 # target hit in torso
 #
 {1240}{}{Ow, my ribs!}
-{1241}{}{That was your one free shot}
+{1241}{}{That was your one free shot. Time to die.}
 {1242}{}{I'm gonna make you pay for that}
 #
 # target hit in right leg
 #
 {1243}{}{My leg!}
 {1244}{}{You're gonna pay for that!}
-{1245}{}{Argh!}
+{1245}{}{I can still kill you with a limp}
 #
 # target hit in left leg
 #
 {1246}{}{My leg!}
-{1247}{}{}
-{1248}{}{Argh!}
+{1247}{}{Argh!}
+{1248}{}{Not enough to stop me, pal}
 #
 # target hit in eyes
 #
 {1249}{}{Argh! My eyes!}
 {1250}{}{My eye! You'll pay for that one!}
-{1251}{}{}
+{1251}{}{Fuck! You're history}
 #
 # target hit in groin
 #
 {1252}{}{Oooooo, my groin!}
 {1253}{}{Ooo! I gotta learn that move...}
-{1254}{}{Urp!}
+{1254}{}{Right in the nuts...}
 {1255}{}{Urp!}
-{1256}{}{Urp!}
+{1256}{}{My girlfriend won't be happy about this}
 {1257}{}{Ow! I'm gonna kill you for that!}
 
-# 4. Guard 4 (Humorous)
+#
+# 4. Guard 4 (Humorous)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Guard 4 is used when the designer wants to be silly with guards
+#
 #
 #  running away (6)
 #
@@ -311,7 +334,7 @@
 #
 {1306}{}{I'm gonna make you look like a cracked pretzel}
 {1307}{}{Look! Your shoe's untied!}
-{1308}{}{Wait til I get you...}
+{1308}{}{Wait 'til I get you...}
 {1309}{}{}
 {1310}{}{I'm gonna give you such a walloping}
 {1311}{}{}
@@ -346,13 +369,13 @@
 #
 # target hit in left arm
 #
-{1331}{}{Ow, my arm}
+{1331}{}{Ow, my arm!}
 {1332}{}{Ow!}
 {1333}{}{Ow, quit it!}
 #
 # target hit in right arm
 #
-{1334}{}{Ow, my arm}
+{1334}{}{Ow, my arm!}
 {1335}{}{Ow!}
 {1336}{}{Ow, quit it!}
 {1337}{}{I don't want to be a lefty!}
@@ -368,13 +391,13 @@
 #
 # target hit in right leg
 #
-{1344}{}{Ow, my leg}
+{1344}{}{Ow, my leg!}
 {1345}{}{Ow! Don't do that!}
 {1346}{}{!}
 #
 # target hit in left leg
 #
-{1347}{}{Ow, my leg}
+{1347}{}{Ow, my leg!}
 {1348}{}{Ow! You're mean!}
 {1349}{}{}
 #
@@ -393,26 +416,29 @@
 {1357}{}{}
 {1358}{}{The pain, the pain...}
 
-# 5. Guard 5 (Perfunctory)
+#
+# 5. Guard 5 (Perfunctory)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Guard 5 is a guard who doesn't say much, or when he does, it's pretty short.
+#
 #
 #  running away (6)
 #
 {1400}{}{Outta here!}
 {1401}{}{Bye!}
 {1402}{}{Aaaaahhhh!}
-{1403}{}{}
-{1404}{}{}
-{1405}{}{See you around}
+{1403}{}{Fuck this}
+{1404}{}{I'm out}
+{1405}{}{See ya 'round}
 #
 # moving in to attack
 #
-{1406}{}{}
+{1406}{}{Gonna fuck you up}
 {1407}{}{You're history!}
 {1408}{}{Playtime's over}
 {1409}{}{Somebody's dyin'}
 {1410}{}{Deal me in}
-{1411}{}{}
+{1411}{}{Let's go!}
 #
 # attacking
 #
@@ -420,26 +446,26 @@
 {1413}{}{Die!}
 {1414}{}{Loser}
 {1415}{}{Punk}
-{1416}{}{}
+{1416}{}{Eat it, whore}
 {1417}{}{Hope this hurts}
-{1418}{}{}
-{1419}{}{}
+{1418}{}{Say a prayer}
+{1419}{}{Don't flinch}
 {1420}{}{I'll bury you}
-{1421}{}{You're dead}
+{1421}{}{You're dead!}
 #
 # target being missed
 #
 {1422}{}{Missed me!}
 {1423}{}{Not impressed}
-{1424}{}{}
+{1424}{}{Pathetic}
 {1425}{}{You're slow}
 {1426}{}{You're useless}
-{1427}{}{}
+{1427}{}{Ha!}
 #
 # target hit in head
 #
-{1428}{}{That hurt}
-{1429}{}{My eyes!}
+{1428}{}{Fuck that hurt!}
+{1429}{}{My face!}
 {1430}{}{Ow! My nose...}
 #
 # target hit in left arm
@@ -450,16 +476,16 @@
 #
 # target hit in right arm
 #
-{1434}{}{Ow!}
-{1435}{}{Ow! My arm!}
-{1436}{}{Ow! You broke it!}
+{1434}{}{Not again...}
+{1435}{}{My arm!}
+{1436}{}{Payback time}
 #
 # target hit in torso
 #
 {1437}{}{Ow!}
 {1438}{}{Ouch!}
 {1439}{}{Ooph!}
-{1440}{}{Gasp!}
+{1440}{}{[Gasp!]}
 {1441}{}{Oof!}
 {1442}{}{Ugh!}
 #
@@ -472,9 +498,9 @@
 #
 # target hit in left leg
 #
-{1446}{}{Ow!}
-{1447}{}{Ow! My knee!}
-{1448}{}{Ow! My leg!}
+{1446}{}{Shit!}
+{1447}{}{My leg!}
+{1448}{}{My knee...}
 #
 # target hit in eyes
 #
@@ -489,26 +515,29 @@
 {1454}{}{Damn that hurts}
 {1455}{}{Ooof!}
 {1456}{}{Urp!}
-{1457}{}{I...can't...breathe...}
+{1457}{}{Ohhhhh, it burns!}
 
-# 6. Guard 6 (Smart-ass)
+#
+# 6. Guard 6 (Smartass)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Guard 6 is a guard who says a lot of wisecracks. Somewhat conceited.
+#
 #
 #  running away (6)
 #
-{1500}{}{I'm outta here!}
+{1500}{}{I'm outta here! Lunchtime}
 {1501}{}{I'm gone!}
-{1502}{}{}
+{1502}{}{Whoops, picked the wrong opponent}
 {1503}{}{Maybe this wasn't such a good idea}
 {1504}{}{A guy could get hurt out here!}
-{1505}{}{}
+{1505}{}{Just kidding}
 #
 # moving in to attack (6)
 #
 {1506}{}{Time to increase the ol' body count}
 {1507}{}{A guard's work is never done}
-{1508}{}{}
-{1509}{}{Not again. Ammo is so expensive!}
+{1508}{}{Your face might look better in pieces}
+{1509}{}{Not again... Ammo is so expensive!}
 {1510}{}{They better not stick me with burial duty}
 {1511}{}{Who do you think you are?}
 #
@@ -517,87 +546,91 @@
 {1512}{}{Now here's a pro at work}
 {1513}{}{You shouldn't have gotten up this morning}
 {1514}{}{You're taking a dirt nap!}
-{1515}{}{}
+{1515}{}{Let's see if you fight better than your grandma}
 {1516}{}{And now I lay you down to rest...}
-{1517}{}{}
+{1517}{}{Like taking candy from a baby...}
 {1518}{}{It's survival of the fittest, and you're out of shape}
-{1519}{}{}
+{1519}{}{I'd rather be sailing}
 {1520}{}{Drop dead!}
 {1521}{}{I'm gonna be the last thing you ever see!}
 #
 # target being missed
 #
 {1522}{}{I ain't that easy}
-{1523}{}{Aw! Did you miss me?}
+{1523}{}{Awwww, did you miss me?}
 {1524}{}{Keep trying and one day you'll hit!}
-{1525}{}{}
+{1525}{}{Nice one, dumbass}
 {1526}{}{Want me to stand still for you?}
-{1527}{}{}
+{1527}{}{I almost flinched}
 #
 # target hit in head
 #
-{1528}{}{Ow!}
+{1528}{}{Now I won't hear your screams}
 {1529}{}{My head is ringing!}
-{1530}{}{Ow! My ear!}
+{1530}{}{Ow! My ear! Oh wait, I have a spare.}
 #
 # target hit in left arm
 #
-{1531}{}{Ow, my arm}
-{1532}{}{You broke my arm!}
+{1531}{}{Aw, but I liked that arm!}
+{1532}{}{There it goes...}
 {1533}{}{Ow... you're very disarming...}
 #
 # target hit in right arm
 #
-{1534}{}{Ow, my arm}
-{1535}{}{You broke my arm!}
-{1536}{}{Ow... you're very disarming...}
+{1534}{}{That hand was my favorite!}
+{1535}{}{It's broken, like my heart. I hate you.}
+{1536}{}{Loosened my grip a bit}
 #
 # target hit in torso
 #
 {1537}{}{You must think you're pretty good}
-{1538}{}{Ugh!}
-{1539}{}{Oof!}
+{1538}{}{That's all you got? Ugh}
+{1539}{}{Oof! Bitch!}
 {1540}{}{Want to come over and try that again?}
 {1541}{}{When you grow up, I bet you want to be good as me}
 {1542}{}{At least that wasn't as ugly as your face!}
-{1543}{}{Ouch!  Dammit!}
+{1543}{}{Ouch! Dammit!}
 #
 # target hit in right leg
 #
-{1544}{}{Ow!}
+{1544}{}{Where's my foot?}
 {1545}{}{Just a scratch ...and a few broken bones}
 {1546}{}{Didn't need that knee anyway}
 #
 # target hit in left leg
 #
-{1547}{}{Ack!}
-{1548}{}{Just a scratch ...and a few broken bones}
-{1549}{}{Didn't need that knee anyway}
+{1547}{}{Now I've only got ONE left feet}
+{1548}{}{Where's my knee gone to this time?}
+{1549}{}{Great, now I gotta grow a new one. Dick.}
 #
 # target hit in eyes
 #
 {1550}{}{I'm blind!}
 {1551}{}{Now I don't have to see your ugly face}
-{1552}{}{Now I don't have to see your ugly face}
+{1552}{}{Oh well, I can still smell you}
 #
 # target hit in groin
 #
 {1553}{}{My groin! My groin!}
 {1554}{}{You're making this real personal}
-{1555}{}{}
+{1555}{}{No more kids for me}
 {1556}{}{There goes my sex life!}
 {1557}{}{Oh, the pain!}
 {1558}{}{Ow! Now that's what I call painful!}
 
-# 7. Guard 7 (Rookie)
-# "I can hit a target real good when it ain't moving. I'm sure looking forward to some real action. Honest I am!" (Naïve, and probably won't live long enough to learn)
+#
+# 7. Guard 7 (Rookie)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# "I can hit a target real good when it ain't moving. I'm sure looking forward
+# to some real action. Honest I am!" (Naïve, and probably won't live long enough to learn)
+#
 #
 #  running away
 #
 {1600}{}{Hey, I could die out here!}
-{1601}{}{Maybe this wasn't a good idea}
-{1602}{}{I quit!}
-{1603}{}{Help!}
+{1601}{}{Maybe this wasn't such a good idea}
+{1602}{}{I quit! You win.}
+{1603}{}{Help! I'm scared!}
 {1604}{}{Aaaaahhhh!}
 {1605}{}{Lemme outta here!}
 #
@@ -607,21 +640,21 @@
 {1607}{}{You shouldn't mess with me!}
 {1608}{}{Now I can prove myself in battle!}
 {1609}{}{This is it... right?}
-{1610}{}{}
+{1610}{}{Gotta turn off the safety this time}
 {1611}{}{This could be fun!}
 #
 # attacking
 #
 {1612}{}{Take this!}
 {1613}{}{Now I have you!}
-{1614}{}{Take this!}
+{1614}{}{This is great!}
 {1615}{}{How do you like this?}
 {1616}{}{Die, you raider freak!}
 {1617}{}{You mutant freak!}
 {1618}{}{Attack!}
-{1619}{}{}
-{1620}{}{}
-{1621}{}{}
+{1619}{}{Stop moving!}
+{1620}{}{Don't scream, it scares me}
+{1621}{}{Don't bleed too much}
 #
 # target being missed
 #
@@ -630,30 +663,30 @@
 {1624}{}{Slick move, huh?}
 {1625}{}{Is that the best you can do?}
 {1626}{}{Hey! That could have hurt!}
-{1627}{}{}
+{1627}{}{Hey, watch it, that was close!}
 #
 # target hit in head
 #
-{1628}{}{Ow!}
+{1628}{}{Can we take a timeout?}
 {1629}{}{My face! What have you done!}
 {1630}{}{Aggghhh! My face! No! No!}
 #
 # target hit in left arm
 #
-{1631}{}{Ow, my arm}
-{1632}{}{My arm, what did you do to it?}
-{1633}{}{Aggghhh!}
+{1631}{}{Seriously? Now I can't fight}
+{1632}{}{My arm, my arm!}
+{1633}{}{Oh shit, no!}
 #
 # target hit in right arm
 #
-{1634}{}{Ow, my arm}
+{1634}{}{That was my shooting hand!}
 {1635}{}{My arm, what did you do to it?}
 {1636}{}{Aggghhh!}
 #
 # target hit in torso
 #
 {1637}{}{Ow!}
-{1638}{}{}
+{1638}{}{Damn, that does hurt}
 {1639}{}{Owie! Owie! Owie!}
 {1640}{}{I'm not sure if I like this...}
 {1641}{}{Take it easy on me, I'm just a beginner}
@@ -663,15 +696,15 @@
 #
 # target hit in right leg
 #
-{1645}{}{Ow, my leg}
-{1646}{}{My leg, what did you do to it?}
+{1645}{}{Come on, I need that!}
+{1646}{}{My leg! What have you done?}
 {1647}{}{Aggghhh!}
 #
 # target hit in left leg
 #
-{1648}{}{Ow, my leg}
-{1649}{}{My leg!}
-{1650}{}{Aggghhh!}
+{1648}{}{Ow, my leg!}
+{1649}{}{My leg! No...}
+{1650}{}{I needed that for running away...}
 #
 # target hit in eyes
 #
@@ -688,8 +721,11 @@
 {1658}{}{I...can't...breathe...}
 {1659}{}{Damn, that hurts!}
 
-# 8. Bouncer
+#
+# 8. Bouncer  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Bouncer is a professional. Fighting scum is his business. The opponent is another loser who's caused too much trouble.
+#
 #
 #  running away
 #
@@ -702,12 +738,12 @@
 #
 # moving in to attack
 #
-{1706}{}{Not another hooligan!}
+{1706}{}{Not another hooligan...}
 {1707}{}{You just crossed the line!}
 {1708}{}{You ain't getting away with that here!}
-{1709}{}{Not on my watch!}
+{1709}{}{Not on my watch, buddy!}
 {1710}{}{I'm gonna blot you out!}
-{1711}{}{}
+{1711}{}{[sigh] Not again...}
 #
 # attacking
 #
@@ -715,9 +751,9 @@
 {1713}{}{Turn out the lights...}
 {1714}{}{This'll teach you not to cause trouble}
 {1715}{}{I'm gonna open up on you!}
-{1716}{}{}
+{1716}{}{I'll turn your pain to eleven}
 {1717}{}{Let's see how tough you are...}
-{1718}{}{Think you some kinda of hot shot, huh?}
+{1718}{}{Think you're some kinda hot shot, huh?}
 {1719}{}{Shouldn't start what you can't finish}
 {1720}{}{Did you expect to get away with this?}
 {1721}{}{I eat floozies like you for breakfast}
@@ -739,15 +775,15 @@
 #
 # target hit in left arm
 #
-{1731}{}{Ow, my arm}
+{1731}{}{Ow, my arm!}
 {1732}{}{I'm gonna ice you for that!}
 {1733}{}{That was a mistake}
 #
 # target hit in right arm
 #
-{1734}{}{Ow, my arm}
+{1734}{}{You sunnovabitch}
 {1735}{}{I'm gonna do you in for that!}
-{1736}{}{That was a mistake}
+{1736}{}{Whatever, I can still kill you without it}
 #
 # target hit in torso
 #
@@ -762,26 +798,29 @@
 # target hit in left leg
 #
 {1740}{}{Ow! You trying to cut me down?}
-{1741}{}{Ow!}
+{1741}{}{Bad move, buddy}
 {1742}{}{That hurt...}
 #
 # target hit in eyes
 #
-{1743}{}{I can't see!}
-{1744}{}{Ouch!}
+{1743}{}{I can't see! Cheap shot}
+{1744}{}{Ouch! That's it, you're gonna get it}
 {1745}{}{I don't need to see ya to scrag ya!}
 #
 # target hit in groin
 #
 {1746}{}{Oooo! In da balls!}
-{1747}{}{Oooo! In da balls!}
-{1748}{}{Oooo! In da balls!}
-{1749}{}{Ack! My jewels!}
-{1750}{}{Ack! My jewels!}
-{1751}{}{Urp!}
+{1747}{}{Do that again and I'll end you}
+{1748}{}{Shit that stings!}
+{1749}{}{Ack! My jewels! Not cool.}
+{1750}{}{Gonna need some ice}
+{1751}{}{Urp! Nice aim...}
 
-# 9. Loser
+#
+# 9. Loser  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Loser don't want no trouble. How's he survived so long?
+#
 #
 #  running away
 #
@@ -790,16 +829,16 @@
 {1802}{}{Please stop!}
 {1803}{}{Help!}
 {1804}{}{Aaaaahhhh!}
-{1805}{}{Mercy!}
+{1805}{}{[crying]}
 #
 # moving in to attack
 #
 {1806}{}{Hmm, uh, stop!}
 {1807}{}{I don't like your kind...}
 {1808}{}{I really hoped it wouldn't come to this...}
-{1809}{}{I guess I have to defend myself}
+{1809}{}{I don't wanna get hurt}
 {1810}{}{I guess I have to defend myself}
-{1811}{}{I really hoped it wouldn't come to this...}
+{1811}{}{Here goes nothing}
 #
 # attacking
 #
@@ -807,37 +846,37 @@
 {1813}{}{You shouldn't have started this!}
 {1814}{}{You asked for this!}
 {1815}{}{How do you like this?}
-{1816}{}{}
+{1816}{}{You made this happen}
 {1817}{}{You beast!}
 {1818}{}{I don't want to do this!}
-{1819}{}{}
+{1819}{}{Stand still for a second}
 {1820}{}{I didn't want this fight, but...}
 {1821}{}{You cad!}
 #
 # target being missed
 #
-{1822}{}{}
+{1822}{}{Shit, that was close!}
 {1823}{}{You missed me!}
 {1824}{}{Wow, that could have hurt!}
 {1825}{}{Whew! I'm still alive!}
 {1826}{}{Hey! That could have hurt!}
-{1827}{}{Whew! I'm still alive!}
+{1827}{}{Oh good, nothing bleeding}
 #
 # target hit in head
 #
 {1828}{}{My face! My face!}
-{1829}{}{Ow! That hurt!}
-{1830}{}{}
+{1829}{}{Fuck! That hurt!}
+{1830}{}{Oh god!}
 #
 # target hit in left arm
 #
-{1831}{}{Ow, my arm}
+{1831}{}{Oh no!}
 {1832}{}{Ow!}
 {1833}{}{You broke my arm!}
 #
 # target hit in right arm
 #
-{1834}{}{Ow, my arm}
+{1834}{}{My arm...}
 {1835}{}{Wahhhh!}
 {1836}{}{My God! My arm!}
 #
@@ -846,20 +885,20 @@
 {1837}{}{Ow! That really hurt!}
 {1838}{}{I think I'm gonna faint}
 {1839}{}{Ouch!}
-{1840}{}{}
+{1840}{}{I need some fresh air after that}
 {1841}{}{That hurt!}
 {1842}{}{Just leave me alone!}
 {1843}{}{Ohhh, pain!}
 #
 # target hit in right leg
 #
-{1844}{}{Ow, my leg}
-{1845}{}{My knee!}
-{1846}{}{Ow!}
+{1844}{}{Why? WHY?}
+{1845}{}{Yep, definitely broken.}
+{1846}{}{How am I supposed to walk now?}
 #
 # target hit in left leg
 #
-{1847}{}{Ow, my leg}
+{1847}{}{Owww, my leg's useless!}
 {1848}{}{My knee!}
 {1849}{}{Aaaarrrrggghhh!}
 #
@@ -867,19 +906,22 @@
 #
 {1850}{}{I'm blind! Oh God, I'm blind!}
 {1851}{}{My face! My eyes! Arrrrgh!}
-{1852}{}{My eyes!}
+{1852}{}{My eyes! What have you done to my eyes!?}
 #
 # target hit in groin
 #
 {1853}{}{Ooooooooo, my groin! Ooooooo...}
 {1854}{}{Oww...It burns!}
-{1855}{}{Urp!}
+{1855}{}{Everything... going... black...}
 {1856}{}{Ooorp! aoooww...}
 {1857}{}{I...can't...breathe...}
 {1858}{}{The pain, the pain...}
 
-# 10. Berserker
+#
+# 10. Berserker  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Berserker just want trouble. How's he survived so long?
+#
 #
 #  running away
 #
@@ -893,33 +935,33 @@
 # moving in to attack
 #
 {1906}{}{I'm gonna pin your ears back!}
-{1907}{}{Fresh meat!}
+{1907}{}{Fresh meat! Delicious}
 {1908}{}{You just made my day!}
 {1909}{}{You're gonna be my bitch!}
-{1910}{}{I'm gonna pin your ears back!}
+{1910}{}{You're fucking history, pal}
 {1911}{}{I'm gonna settle your hash!}
 #
 # attacking
 #
-{1912}{}{}
-{1913}{}{}
+{1912}{}{Stop screaming, it's annoying}
+{1913}{}{Hope you're not afraid of blood}
 {1914}{}{Please don't beg. Death should be dignified.}
-{1915}{}{I hope you don't die too quick}
+{1915}{}{I hope you don't die too quickly}
 {1916}{}{Got any last words?}
 {1917}{}{Take this!}
 {1918}{}{Die! Die! Die! Die! Die!}
-{1919}{}{Die!}
+{1919}{}{Wanna see your insides?}
 {1920}{}{Let's open you up a little...}
 {1921}{}{You're dogfood, friend.}
 #
 # target being missed
 #
 {1922}{}{You didn't even wing me}
-{1923}{}{}
+{1923}{}{Haha, nice.}
 {1924}{}{C'mon, punk. Give me a fight!}
 {1925}{}{Is that the best you can do?}
 {1926}{}{This is gonna be easier than I thought}
-{1927}{}{This is gonna be easier than I thought}
+{1927}{}{Wow, how are you still alive?}
 #
 # target hit in head
 #
@@ -930,54 +972,58 @@
 # target hit in left arm
 #
 {1931}{}{You winged me!}
-{1932}{}{}
+{1932}{}{Nice shot. Mine will be better.}
 {1933}{}{You broke my arm, but I'll break your neck}
 #
 # target hit in right arm
 #
-{1934}{}{}
+{1934}{}{Oh so that's how you wanna play it?}
 {1935}{}{It's just a scratch...}
-{1936}{}{You broke my arm, so I'm gonna break your neck}
+{1936}{}{Break my arm, I'll break your neck...}
 #
 # target hit in torso
 #
-{1937}{}{}
+{1937}{}{Alright bitch, you're gonna die}
 {1938}{}{Oof! I'm gonna scrag you for that...}
-{1939}{}{Oof!}
-{1940}{}{Oof!}
+{1939}{}{Merely a flesh wound, unlike yours.}
+{1940}{}{Oof! Is that all you got?}
 {1941}{}{I love the sound of cracking ribs!}
-{1942}{}{}
-{1943}{}{Arg!}
+{1942}{}{That hurts, but I'm still pissed off}
+{1943}{}{Arg! Come here and try that again}
 #
 # target hit in right leg
 #
-{1944}{}{I love the sound of bones crunching}
-{1945}{}{}
-{1946}{}{You broke my leg, but I'll break your neck}
+{1944}{}{I love the sound of bones crunching!}
+{1945}{}{Nope, still attached.}
+{1946}{}{I think you broke it. Die!}
 #
 # target hit in left leg
 #
-{1947}{}{I love the sound of bones crunching}
-{1948}{}{}
-{1949}{}{You broke my arm, but I'll break your neck}
+{1947}{}{I love the sound of bones crunching!}
+{1948}{}{Whatever, I can still end you}
+{1949}{}{That hurt a bit, but not enough}
 #
 # target hit in eyes
 #
-{1950}{}{Hey, I'm blind}
+{1950}{}{Hey, I'm blind. Big deal.}
 {1951}{}{I can't see. That'll make this fair}
-{1952}{}{My eyes, bitch!}
+{1952}{}{My eyes! Bitch!}
 #
 # target hit in groin
 #
-{1953}{}{Oof, my groin!}
+{1953}{}{Oof, my junk!}
 {1954}{}{That was a ballsy move}
-{1955}{}{}
-{1956}{}{}
+{1955}{}{Try that... again... [gasp]}
+{1956}{}{That's it, you're fucking dead!}
 {1957}{}{So that's the way you want to play it}
 {1958}{}{Ack!}
 
-# 11. Peasant
-# I work the land. Is this is what I get for years of hard work? Some well-armed troublemaker who's making my life miserable?
+#
+# 11. Peasant  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I work the land. Is this is what I get for years of hard work?
+# Some well-armed troublemaker who's making my life miserable?
+#
 #
 #  running away
 #
@@ -985,13 +1031,13 @@
 {2001}{}{Have mercy!}
 {2002}{}{Somebody help me!}
 {2003}{}{Please stop!}
-{2004}{}{}
+{2004}{}{Go away, I didn't do anything!}
 {2005}{}{I ain't dyin' for this!}
 #
 # moving in to attack
 #
-{2006}{}{Wait til I get you...}
-{2007}{}{}
+{2006}{}{Wait 'til I get you...}
+{2007}{}{Why are you doing this?}
 {2008}{}{Hey you!}
 {2009}{}{You're not welcome here}
 {2010}{}{Nobody's taking this place over...}
@@ -999,22 +1045,22 @@
 #
 # attacking
 #
-{2012}{}{}
-{2013}{}{}
+{2012}{}{I needed a workout}
+{2013}{}{Where's that damn shovel?}
 {2014}{}{This is what we do to vermin!}
 {2015}{}{You mutant freak!}
-{2016}{}{}
+{2016}{}{You ain't takin' me without a fight}
 {2017}{}{Gonna feed you to the dogs}
 {2018}{}{This'll learn ya!}
 {2019}{}{Fine. You asked for this.}
 {2020}{}{You animal!}
-{2021}{}{}
+{2021}{}{When in Rome...}
 #
 # target being missed
 #
-{2022}{}{}
-{2023}{}{I've seen smarter Brahmin than you}
-{2024}{}{Whew!}
+{2022}{}{It must be my lucky day}
+{2023}{}{I've seen smarter brahmin than you}
+{2024}{}{Whew! Close one}
 {2025}{}{I ain't no pushover}
 {2026}{}{Thank the gods}
 {2027}{}{You missed!}
@@ -1023,41 +1069,41 @@
 #
 {2028}{}{Damn that smarts!}
 {2029}{}{Aggghhh!}
-{2030}{}{Ooo!}
+{2030}{}{Ooooo, shit!}
 #
 # target hit in left arm
 #
-{2031}{}{Aggghhh! My arm}
-{2032}{}{My arm!}
-{2033}{}{Ow!}
+{2031}{}{Aggghhh! My arm!}
+{2032}{}{Ow, ow, ow!}
+{2033}{}{Oh come on, I needed that!}
 #
 # target hit in right arm
 #
-{2034}{}{Aggghhh! My arm}
-{2035}{}{My arm!}
-{2036}{}{Ow!}
+{2034}{}{Aggghhh! My arm!}
+{2035}{}{Noooo.....}
+{2036}{}{I think you broke it!}
 #
 # target hit in torso
 #
-{2037}{}{Ow!}
+{2037}{}{Damn!}
 {2038}{}{That was pretty painful...}
 {2039}{}{Argh!}
 {2040}{}{Ouch!}
-{2041}{}{}
+{2041}{}{Guh!}
 {2042}{}{Oof!}
 {2043}{}{Ow!}
 #
 # target hit in right leg
 #
-{2044}{}{Aggghhh! My leg}
-{2045}{}{My leg!}
+{2044}{}{Aggghhh! My leg!}
+{2045}{}{I need a chair}
 {2046}{}{My leg!}
 #
 # target hit in left leg
 #
-{2047}{}{Aggghhh! My leg}
-{2048}{}{My leg!}
-{2049}{}{Ow!}
+{2047}{}{Aggghhh! My leg!}
+{2048}{}{Great, there goes my job}
+{2049}{}{Ow! No!}
 #
 # target hit in eyes
 #
@@ -1070,12 +1116,15 @@
 {2053}{}{ouch}
 {2054}{}{Oooooooooo!}
 {2055}{}{I...can't...breathe...}
-{2056}{}{}
+{2056}{}{Oh no...}
 {2057}{}{The pain, the pain...}
 {2058}{}{Damn!}
 
-# 12. Careful
-# I don't want to fight. Just let me walk away.
+#
+# 12. Careful  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I don't want to fight. Just let me walk away. Please?
+#
 #
 #  running away
 #
@@ -1083,30 +1132,30 @@
 {2101}{}{Mercy! Mercy!}
 {2102}{}{Please stop!}
 {2103}{}{Help!}
-{2104}{}{}
+{2104}{}{Go away!}
 {2105}{}{I gotta stop mixing it up}
 #
 # moving in to attack
 #
-{2106}{}{}
-{2107}{}{}
+{2106}{}{Can't we settle this?}
+{2107}{}{Do we really have to do this?}
 {2108}{}{I really don't want to do this}
 {2109}{}{I'm gonna have to paste you}
-{2110}{}{I really don't want to do this}
+{2110}{}{Are you sure this is a good idea?}
 {2111}{}{Hope I don't get hurt}
 #
 # attacking
 #
-{2112}{}{}
+{2112}{}{I'm really not in the mood for this}
 {2113}{}{You asked for this!}
 {2114}{}{I ain't in the mood for a fight, but...}
-{2115}{}{}
+{2115}{}{I didn't ask for this!}
 {2116}{}{Why did you start this?}
 {2117}{}{I don't want to do this!}
-{2118}{}{Don't take this personal...}
+{2118}{}{Don't take this personally...}
 {2119}{}{Hope I don't hurt you too bad}
-{2120}{}{You realize that you started this}
-{2121}{}{}
+{2120}{}{You realize that you started this?}
+{2121}{}{Self defense!}
 #
 # target being missed
 #
@@ -1120,18 +1169,18 @@
 # target hit in head
 #
 {2128}{}{Not in the face!}
-{2129}{}{Ah, my head!}
+{2129}{}{Ahhhh, my head!}
 {2130}{}{Ow! My ear!}
 #
 # target hit in left arm
 #
-{2131}{}{Ow, my arm}
+{2131}{}{Please stop!}
 {2132}{}{Ouch!}
 {2133}{}{You broke my arm!}
 #
 # target hit in right arm
 #
-{2134}{}{Ow, my arm}
+{2134}{}{What have you done?}
 {2135}{}{Ugh!}
 {2136}{}{You broke my arm!}
 #
@@ -1141,41 +1190,44 @@
 #
 # target hit in right leg
 #
-{2137}{}{Ow, my leg}
+{2137}{}{I don't wanna be a cripple!}
 {2138}{}{My knee!}
 {2139}{}{Ow! My leg's busted!}
 #
 # target hit in left leg
 #
-{2140}{}{Ow, my leg}
-{2141}{}{My knee!}
+{2140}{}{That's gonna leave a mark}
+{2141}{}{Was that necessary?}
 {2142}{}{Ow! My leg's busted!}
 #
 # target hit in eyes
 #
 {2143}{}{I'm blind!}
 {2144}{}{I have tears of blood!}
-{2145}{}{That hurt...}
+{2145}{}{Oh god, the pain...}
 #
 # target hit in groin
 #
 {2146}{}{Oooooo, my groin!}
-{2147}{}{}
-{2148}{}{}
-{2149}{}{I...can't...breathe...}
+{2147}{}{I need a nap}
+{2148}{}{Are you done yet?}
+{2149}{}{Can't...breathe...}
 {2150}{}{My jewels!}
 {2151}{}{Oooo! I need to lie down...}
 
-# 13.  Super Mutant
+#
+# 13.  Super Mutant  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # We are Chosen! You are dead!
+#
 #
 #  running away
 #
-{2200}{}{Run!}
+{2200}{}{The Master will find you!}
 {2201}{}{You will not kill me!}
 {2202}{}{I will be back!}
 {2203}{}{My friends will get you for me!}
-{2204}{}{You will pay for this -- later!}
+{2204}{}{I get friends to help!}
 {2205}{}{We are Chosen! You die later!}
 #
 # moving in to attack
@@ -1191,9 +1243,9 @@
 #
 {2212}{}{This is the end!}
 {2213}{}{Nobody save you now!}
-{2214}{}{Now you die!}
+{2214}{}{You are impure!}
 {2215}{}{Now you die a Burning Death!}
-{2216}{}{You enter Hell today!}
+{2216}{}{You enter hell today!}
 {2217}{}{I laugh as I kill}
 {2218}{}{Your blood is my wine!}
 {2219}{}{Now you die!}
@@ -1203,7 +1255,7 @@
 # target being missed
 #
 {2222}{}{Why do you struggle?}
-{2223}{}{Is that best humans can do!}
+{2223}{}{Is that best humans can do!?}
 {2224}{}{You have no power!}
 {2225}{}{You make me laugh hard!}
 {2226}{}{Was that an attack?}
@@ -1217,36 +1269,36 @@
 #
 # target hit in left arm
 #
-{2231}{}{Ahhhgh!}
+{2231}{}{Ahhhgh! I will crush you}
 {2232}{}{You call that pain? I laugh!}
 {2233}{}{Ahhhgh! I snap your neck for that!}
 #
 # target hit in right arm
 #
-{2234}{}{Ahhhgh!}
+{2234}{}{You won't do that again!}
 {2235}{}{You call that pain? I laugh!}
 {2236}{}{Ahhhgh! I snap your neck for that!}
 #
 # target hit in torso
 #
-{2237}{}{Argh!}
-{2238}{}{Grrrr!}
+{2237}{}{I still stand!}
+{2238}{}{You will be turned or burn!}
 {2239}{}{That was a mistake - on your part!}
-{2240}{}{Argh!}
-{2241}{}{Grrrr!}
-{2242}{}{Hahahaha! You call that pain!}
-{2243}{}{Arrr!}
+{2240}{}{Argh, try that again!}
+{2241}{}{Grrrr! Bleed now}
+{2242}{}{Hahahaha! You call that pain?}
+{2243}{}{Arrr! You anger me!}
 #
 # target hit in right leg
 #
-{2244}{}{Ahhhgh! My leg}
+{2244}{}{Ahhhgh! My leg. Come here...}
 {2245}{}{You call that pain? I laugh!}
 {2246}{}{Ahhhgh! I snap you like little twig!}
 #
 # target hit in left leg
 #
-{2247}{}{Ahhhgh! My leg}
-{2248}{}{ You call that pain? I laugh!}
+{2247}{}{My leg is not easily broken!}
+{2248}{}{You call that pain? Ha!}
 {2249}{}{Ahhhgh! I shall snap your neck for that!}
 #
 # target hit in eyes
@@ -1264,16 +1316,21 @@
 {2257}{}{Your death will be painful, human!}
 {2258}{}{Death to you for that...}
 
-# 14. Nightkin
-# We are the Chosen of the Master, and all must bow before us. (Damn these bastards are really arrogant); my interpretation is that these boys are smarter and more cunning than garden variety super mutants.
+#
+# 14. Nightkin  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We are the Chosen of the Master, and all must bow before us. 
+# (Damn these bastards are really arrogant); my interpretation is that
+# these boys are smarter and more cunning than garden variety Super Mutants.
+#
 #
 # running away
 #
-{2300}{}{Fall back! Fall back!}
+{2300}{}{Fall back! Fall back! Regroup!}
 {2301}{}{The Master shall destroy you for this!}
-{2302}{}{This isn't over!}
+{2302}{}{This isn't over! We will conquer all.}
 {2303}{}{The vengeance of the Master shall strike you!}
-{2304}{}{You'll pay for this -- later!}
+{2304}{}{I will bring reinforcements!}
 {2305}{}{I shall feast on your heart another day!}
 #
 # moving in to attack
@@ -1291,7 +1348,7 @@
 {2313}{}{Neither man nor god can save you now!}
 {2314}{}{Welcome to your grave!}
 {2315}{}{This is the Master's touch!}
-{2316}{}{You shall enter Hell this day!}
+{2316}{}{You shall enter hell this day!}
 {2317}{}{You will die at my hand}
 {2318}{}{In the name of the Master, die!}
 {2319}{}{Now falls the death blow!}
@@ -1309,42 +1366,42 @@
 #
 # target hit in head
 #
-{2328}{}{You shall suffer for that!}
+{2328}{}{That was nothing, let me show you pain!}
 {2329}{}{You shall suffer for that!}
 {2330}{}{Ahhhgh! I shall rend you into pieces!}
 #
 # target hit in left arm
 #
-{2331}{}{Ahhhgh! My arm}
-{2332}{}{Ahhhgh! I am not so easily beaten!}
+{2331}{}{You will die in pieces!}
+{2332}{}{I am not so easily beaten!}
 {2333}{}{Ahhhgh! I shall break all your bones for that}
 #
 # target hit in right arm
 #
-{2334}{}{Ahhhgh! My arm}
-{2335}{}{Ahhhgh! I am not so easily beaten!}
-{2336}{}{Ahhhgh! You will regret that}
+{2334}{}{You humans are weak!}
+{2335}{}{Ahhhgh! You will pay!}
+{2336}{}{You won't live to regret that}
 #
 # target hit in torso
 #
-{2337}{}{Argh!}
+{2337}{}{Argh! Die!}
 {2338}{}{Duf!}
 {2339}{}{Master!}
 {2340}{}{You've humbled me...}
-{2341}{}{Argh!}
+{2341}{}{Not good enough!}
 {2342}{}{Grrr!}
 #
 # target hit in right leg
 #
-{2343}{}{Ahhhgh! My leg}
-{2344}{}{Ahhhgh! I am not so easily beaten!}
-{2345}{}{Ahhhgh! I shall break you for that!}
+{2343}{}{Ahhhgh! My leg!}
+{2344}{}{I am not so easily beaten!}
+{2345}{}{I shall break you for that!}
 #
 # target hit in left leg
 #
-{2346}{}{Ahhhgh! My leg}
-{2347}{}{Ahhhgh! I am not so easily beaten!}
-{2348}{}{Ahhhgh! I shall crush you for that!}
+{2346}{}{Ahhhgh! My leg!}
+{2347}{}{It takes more than that to bring me down!}
+{2348}{}{I shall crush you for that!}
 #
 # target hit in eyes
 #
@@ -1361,8 +1418,11 @@
 {2356}{}{Your death grows more painful, human!}
 {2357}{}{Oof! Perhaps I should test your weak points}
 
-# 15. Children, Brainwashed (Cathedral)
+#
+# 15. Children, Brainwashed (Cathedral)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # The Master protects us, and none may bring us death or even suffering!
+#
 #
 #  running away
 #
@@ -1386,7 +1446,7 @@
 #
 {2412}{}{Don't run, we're your friends}
 {2413}{}{Die in the name of the Master!}
-{2414}{}{Behold the holy flame!}
+{2414}{}{Behold the Holy Flame!}
 {2415}{}{Kiss the fire, touch the grave!}
 {2416}{}{Unity!}
 {2417}{}{None may stop the cause of Peace!}
@@ -1406,21 +1466,21 @@
 #
 # target hit in head
 #
-{2428}{}{Agghhh! What hit me!}
+{2428}{}{Agghhh! What hit me?!}
 {2429}{}{Master! Protect me!}
 {2430}{}{Oof!}
 #
 # target hit in left arm
 #
-{2431}{}{My arm!}
-{2432}{}{The Master shall heal my wounds...}
+{2431}{}{My arm!!}
+{2432}{}{Unity shall cleanse all wounds}
 {2433}{}{Master! What have they done to me!}
 #
 # target hit in right arm
 #
-{2434}{}{Ow, my arm}
+{2434}{}{Ow, my arm!}
 {2435}{}{The Master shall heal my wounds...}
-{2436}{}{Master! What have they done to me!}
+{2436}{}{I will take from you twice what you took from me}
 #
 # target hit in torso
 #
@@ -1432,15 +1492,15 @@
 #
 # target hit in right leg
 #
-{2442}{}{Ow, my leg}
+{2442}{}{Ow, my leg!}
 {2443}{}{You broke my leg!}
 {2444}{}{Master! What have they done to me!}
 #
 # target hit in left leg
 #
 {2445}{}{My leg!}
-{2446}{}{You broke my leg!}
-{2447}{}{Master! What have they done to me!}
+{2446}{}{You broke it!}
+{2447}{}{Master! Can you regrow limbs?}
 #
 # target hit in eyes
 #
@@ -1455,10 +1515,13 @@
 {2453}{}{Master, shield me from the pain!}
 {2454}{}{I...can't...breathe...}
 {2455}{}{Master, our enemies are cruel!}
-{2456}{}{Master, our enemies are cruel!}
+{2456}{}{Master, you should have warned me}
 
-# 16. Children, Brainwashed (Hub)
+#
+# 16. Children, Brainwashed (Hub)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # The Master protects us, and none may bring us death or even suffering!
+#
 #
 #  running away
 #
@@ -1476,7 +1539,7 @@
 {2508}{}{Unity shall prevail!}
 {2509}{}{The blood of the Children shall be avenged!}
 {2510}{}{Peace must be fed with the blood of enemies!}
-{2511}{}{}
+{2511}{}{Holy Flame and Unity upon you}
 #
 # attacking
 #
@@ -1508,20 +1571,20 @@
 #
 # target hit in left arm
 #
-{2531}{}{Ow, my arm}
+{2531}{}{Ow, my arm!}
 {2532}{}{You broke my arm!}
 {2533}{}{What have you done to me!}
 #
 # target hit in right arm
 #
-{2534}{}{Ow, my arm}
-{2535}{}{You broke my arm!}
+{2534}{}{No! Master!}
+{2535}{}{Revenge shall be mine!}
 {2536}{}{You sinner!}
 #
 # target hit in torso
 #
-{2537}{}{Ouch!  That hurt!}
-{2538}{}{!*&^@#!}
+{2537}{}{Ouch! That hurt!}
+{2538}{}{FUCK!}
 {2539}{}{Oh, oh, that hurt!}
 {2540}{}{Ouch!}
 {2541}{}{Ooph!}
@@ -1529,15 +1592,15 @@
 #
 # target hit in right leg
 #
-{2543}{}{Ow, my leg}
-{2544}{}{You broke my leg!}
+{2543}{}{Master! It burns!}
+{2544}{}{You will pay for that!}
 {2545}{}{What have you done!}
 #
 # target hit in left leg
 #
-{2546}{}{Ow, my leg}
+{2546}{}{Ow, my leg!}
 {2547}{}{You broke my leg!}
-{2548}{}{^%@!!}
+{2548}{}{Dammit!!}
 #
 # target hit in eyes
 #
@@ -1550,30 +1613,33 @@
 {2552}{}{Oooooo, my groin!}
 {2553}{}{Oooooo, you are true evil!!}
 {2554}{}{Holy Flame, protect my seed!}
-{2555}{}{I...can't...breathe...}
+{2555}{}{Master works in mysterious ways!}
 {2556}{}{I...can't...breathe...}
 {2557}{}{Our enemies are cruel!}
 
-# 17. Children, Non-Brainwashed
+#
+# 17. Children, Non-Brainwashed  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Get some zombies in here to take care of this pest!
+#
 #
 #  running away
 #
 {2600}{}{The Church will get you!}
 {2601}{}{The Church can take care of itself!}
 {2602}{}{Help!}
-{2603}{}{}
+{2603}{}{Fuck this noise}
 {2604}{}{Some other patsy can take you on}
 {2605}{}{I'm not gonna die for this!}
 #
 # moving in to attack
 #
-{2606}{}{}
+{2606}{}{Not on my doorstep...}
 {2607}{}{Let's bury this hoodlum!}
 {2608}{}{Time to die!}
 {2609}{}{You are not allowed in here!}
 {2610}{}{Time to take out the trash...}
-{2611}{}{You will pay for your "sins"...}
+{2611}{}{You will pay for your 'sins'...}
 #
 # attacking
 #
@@ -1581,12 +1647,12 @@
 {2613}{}{You screwball!}
 {2614}{}{Now, you die!}
 {2615}{}{C'mon, you skeev, let's rumble!}
-{2616}{}{I'm gonna smack you around}
-{2617}{}{I'm gonna smack you around}
-{2618}{}{}
-{2619}{}{}
-{2620}{}{Kiss my holy flame, pal!}
-{2621}{}{Kiss my holy flame, pal!}
+{2616}{}{You'll wish you were brainwashed}
+{2617}{}{I'm gonna smack you around.}
+{2618}{}{Time to die...}
+{2619}{}{Time to 'Unite' you with my 'Holy Flame'}
+{2620}{}{Kiss my Holy Flame, pal!}
+{2621}{}{Suck it down!}
 #
 # target being missed
 #
@@ -1595,7 +1661,7 @@
 {2624}{}{Ha, you missed me!}
 {2625}{}{You're an even bigger loser than the zombies!}
 {2626}{}{Anyone ever teach you how to aim?}
-{2627}{}{You're an even bigger loser than the zombies!}
+{2627}{}{Haha, don't hurt yourself}
 #
 # target hit in head
 #
@@ -1605,15 +1671,15 @@
 #
 # target hit in left arm
 #
-{2631}{}{Ow, my arm}
+{2631}{}{Ow, my arm!}
 {2632}{}{You're paying for that one!}
 {2633}{}{I'll break both your arms for that!}
 #
 # target hit in right arm
 #
-{2634}{}{Ow, my arm}
-{2635}{}{You're paying for that one!}
-{2636}{}{I'll break both your arms for that!}
+{2634}{}{My arm! What have you done to my arm?!}
+{2635}{}{You're worse than these fucking zombies}
+{2636}{}{Come here and do that again, you bastard}
 #
 # target hit in torso
 #
@@ -1621,14 +1687,14 @@
 #
 # target hit in right leg
 #
-{2637}{}{Ow, my leg}
+{2637}{}{Oooohhh, my leg!}
 {2638}{}{You're paying for that one!}
-{2639}{}{You ^&!$%@! I'm gonna get you!}
+{2639}{}{You fuckwad! I'm gonna get you!}
 #
 # target hit in left leg
 #
-{2640}{}{Ow, my leg}
-{2641}{}{You're paying for that one!}
+{2640}{}{Ow, my leg!}
+{2641}{}{I'll do you for that!}
 {2642}{}{Ow!}
 #
 # target hit in eyes
@@ -1641,77 +1707,83 @@
 #
 {2646}{}{Oh, you got me in the raw!}
 {2647}{}{Damn, that hurts!}
-{2648}{}{!%@$ #^%!@# ^#$%@^#!!!}
+{2648}{}{Motherfucking cocksucker! Shit! FUCK!}
 {2649}{}{Oh, dammit!}
-{2650}{}{}
-{2651}{}{}
+{2650}{}{You bastard!}
+{2651}{}{You didn't show me yours first!}
 
-# 18. The Master
+#
+# 18. The Master  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Unity is its own protection. My enemies will not withstand me. Withstand.
+#
 #
 #  running away
 #
-{2700}{}{This battle is unnecessary}
+{2700}{}{This battle is unnecessary. Battle!}
 {2701}{}{I shall be avenged!}
 {2702}{}{Your triumph shall be short-lived!}
-{2703}{}{You will not defeat Unity}
+{2703}{}{You will not prevent Unity. Unity!}
 {2704}{}{My servants will protect me!}
 {2705}{}{Hope! I must have hope!}
 #
 # moving in to attack
 #
-{2706}{}{Your sins shall now be punished}
-{2707}{}{My enemies must die! Die!}
+{2706}{}{Your sins shall now be punished. Punished!}
+{2707}{}{My enemies must die. Die!}
 {2708}{}{Unity shall prevail! Prevail!}
-{2709}{}{You shall not be permitted to destroy our world}
+{2709}{}{You shall not be permitted to destroy our world. Destroy. World!}
 {2710}{}{The future must be preserved! Preserved!}
-{2711}{}{Give me Unity, or give me Death! Death!}
+{2711}{}{Give me Unity, or give me Death! Unity. Death!}
 #
 # attacking
 #
-{2712}{}{Die!}
-{2713}{}{You shall be utterly destroyed}
-{2714}{}{You have sealed your destruction}
+{2712}{}{Your life will end. End!}
+{2713}{}{You shall be utterly destroyed. Destroyed!}
+{2714}{}{You have sealed your destruction. Destruction!}
 {2715}{}{You shall pay for what you have done! Done!}
-{2716}{}{Unity!}
-{2717}{}{None may stop the cause of Peace! Peace!}
+{2716}{}{You will not prevent Unity. Unity!}
+{2717}{}{None may stop the cause of Peace. Peace!}
 {2718}{}{Nothing awaits you but the fire. Fire!}
-{2719}{}{Let this be your epitaph}
-{2720}{}{You are nothing. Nothing!}
-{2721}{}{This is the end of your existence}
+{2719}{}{Let this be your epitaph. Epitaph!}
+{2720}{}{You are nothing. Nothing! Nothing.}
+{2721}{}{This is the end of your existence. End. End!}
 #
 # target being missed
 #
 {2722}{}{Your efforts are useless! Useless!}
-{2723}{}{You cannot prevail against me!}
-{2724}{}{You have erred again}
-{2725}{}{Your evil defeats itself!}
-{2726}{}{You will not survive}
-{2727}{}{Your performance is inadequate}
+{2723}{}{You cannot prevail against me! Prevail! Me!}
+{2724}{}{You have erred again, human. Human!}
+{2725}{}{Your evil defeats itself! Evil. Evil!}
+{2726}{}{You will not survive. Survive!}
+{2727}{}{Your performance is inadequate. Inadequate!}
 #
 # target hit in head
 #
-{2728}{}{Head wound}
-{2729}{}{That pain was unpleasant}
-{2730}{}{That will not incapacitate me}
+{2728}{}{Head wound. I shall be avenged. Avenged!}
+{2729}{}{That pain was unpleasant. Pain. Pain!}
+{2730}{}{That will not incapacitate me. Incapacitate! Me!}
 #
 #
 # target hit in frame
 #
-{2731}{}{You think you can hurt me there?}
-{2732}{}{Minor wound, human, minor}
-{2733}{}{That pain was slightly unpleasant}
-{2734}{}{No circuitry/organics damage that can't be repaired later}
-{2735}{}{You die! Die!}
+{2731}{}{You think you can hurt me there? Me? THERE?}
+{2732}{}{Minor wound, human. Minor. Minor!}
+{2733}{}{That pain was slightly unpleasant. Pain!}
+{2734}{}{No circuitry/organics damage that can't be repaired later. Damage!}
+{2735}{}{You die! Die! Die.}
 #
 # target hit in CPU
 #
-{2736}{}{Systems hit, compensating}
+{2736}{}{Systems compromised, compensating...}
 {2737}{}{Systems hit, registering minor damage}
 {2738}{}{Systems hit, systems hit, systems hit}
 
-# 19. Ghoul, Nasty
+#
+# 19. Ghoul, Nasty  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Now you'll find out why it's called the Necropolis
+#
 #
 #  running away
 {2800}{}{Gotta get outta here!}
@@ -1719,7 +1791,7 @@
 {2802}{}{You ain't killing me today!}
 {2803}{}{Later, normie!}
 {2804}{}{You ain't heard the last of me!}
-{2805}{}{You'll pay for this -- later!}
+{2805}{}{You'll pay for this - later!}
 #
 # moving in to attack
 #
@@ -1736,18 +1808,18 @@
 {2813}{}{Don't bother screaming for mercy...}
 {2814}{}{I'm gonna enjoy this}
 {2815}{}{Oooo, that's gotta hurt!}
-{2816}{}{}
+{2816}{}{Take this, normie!}
 {2817}{}{I'm gonna eat your liver!}
-{2818}{}{Hope you don't die too quick}
+{2818}{}{Hope you don't die too quickly.}
 {2819}{}{Dinnertime!}
 {2820}{}{Die!}
-{2821}{}{I eat punks like you for breakfast, and lunch}
+{2821}{}{I eat punks like you for breakfast, and lunch. And dinner.}
 #
 # target being missed (6)
 #
 {2822}{}{You cannot hurt me!}
-{2823}{}{}
-{2824}{}{You missed, normie!}
+{2823}{}{Normie. Figures.}
+{2824}{}{Oh look, you nearly hit me}
 {2825}{}{You missed, normie!}
 {2826}{}{You can't kill what you can't hit!}
 {2827}{}{Too slow!}
@@ -1766,31 +1838,31 @@
 #
 # target hit in right arm
 #
-{2834}{}{Ow, my arm}
+{2834}{}{Ow, my arm!}
 {2835}{}{You broke my arm!}
 {2836}{}{You're gonna regret that!}
 #
 # target hit in torso
 #
-{2837}{}{(Grunt!)}
+{2837}{}{[Grunt!]}
 {2839}{}{Oh crap!}
 {2840}{}{Grrr!}
 {2841}{}{You're gonna regret that!}
 {2842}{}{You should stop while you're ahead!}
-{2843}{}{}
-{2844}{}{}
+{2843}{}{I'll use your organs to replace mine!}
+{2844}{}{Garrr!}
 #
 # target hit in right leg
 #
-{2845}{}{Ow, my leg}
+{2845}{}{Ow, my leg!}
 {2846}{}{You're gonna pay for that!}
 {2847}{}{Argh! You break my leg, I break your neck!}
 #
 # target hit in left leg
 #
 {2848}{}{My leg!}
-{2849}{}{}
-{2850}{}{}
+{2849}{}{Try that again, normie!}
+{2850}{}{Losing my balance...}
 #
 # target hit in eyes
 #
@@ -1807,35 +1879,38 @@
 {2858}{}{Urp!}
 {2859}{}{Oof! I'm gonna kill you for that!}
 
-# 20. Super Mutant, Necropolis
+#
+# 20. Super Mutant, Necropolis  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # The lesser species need to know when to stand aside. (Damn, these bastards are arrogant)
+#
 #
 #  running away
 #
-{2900}{}{Fall back! Fall back!}
+{2900}{}{Fall back! Fall back! Sector six!}
 {2901}{}{You're not killing me today!}
 {2902}{}{This isn't over!}
 {2903}{}{My friends will get you for me!}
-{2904}{}{You'll pay for this -- later!}
+{2904}{}{You'll pay for this - later!}
 {2905}{}{I shall feast on your heart another day!}
 #
 # moving in to attack
 #
 {2906}{}{I will kill you, human!}
-{2907}{}{Nobody challenges us and lives!}
+{2907}{}{None challenge us and live!}
 {2908}{}{Your pitiful weapons will not harm me!}
 {2909}{}{Another victim comes to play with us!}
 {2910}{}{I shall put you out of your misery}
-{2911}{}{}
+{2911}{}{Master is on my side!}
 #
 # attacking
 #
-{2912}{}{}
-{2913}{}{}
+{2912}{}{Human scum!}
+{2913}{}{I will tear your arms off}
 {2914}{}{Now you die!}
 {2915}{}{This is how we handle fools!}
 {2916}{}{I shall enjoy this...}
-{2917}{}{}
+{2917}{}{Gah! You will suffer!}
 {2918}{}{Your gods have forsaken you!}
 {2919}{}{I want to hear your screams!}
 {2920}{}{And this is how you die!}
@@ -1854,50 +1929,50 @@
 #
 {2928}{}{Ahhhgh! My face!}
 {2929}{}{My face! You shall suffer for that!}
-{2930}{}{Ahhhgh! I shall rend you into pieces!}
+{2930}{}{Arrghhggh! I shall rend you into pieces!}
 #
 # target hit in left arm
 #
-{2931}{}{Ahhhgh! My arm}
+{2931}{}{Ahhhgh! My arm!}
 {2932}{}{Ahhhgh! I am not so easily beaten!}
 {2933}{}{Ahhhgh! I shall snap your neck for that!}
 #
 # target hit in right arm
 #
-{2934}{}{Ahhhgh! My arm}
+{2934}{}{Ahhhgh! My arm!}
 {2935}{}{Ahhhgh! I am not so easily beaten!}
 {2936}{}{Ahhhgh! I shall snap your neck for that!}
 #
 # target hit in torso
 #
-{2937}{}{Necropolis will suffer because of you}
+{2937}{}{I will make trophies from your bones!}
 {2938}{}{Oof!}
-{2939}{}{Arg!}
-{2940}{}{(Smiles)}
+{2939}{}{Arrrggg!}
+{2940}{}{[Smiles]}
 {2941}{}{That didn't hurt!}
 {2942}{}{You can do better than that}
-{2943}{}{Even these ghouls are tougher than you!}
-{2944}{}{}
-{2945}{}{}
-{2946}{}{Haha! What a feeble attempt... (groan)}
+{2943}{}{Even ghouls are tougher than you!}
+{2944}{}{Hahaha, I still stand}
+{2945}{}{Many will suffer because of you}
+{2946}{}{Haha! What a feeble attempt... [groan]}
 #
 # target hit in right leg
 #
-{2947}{}{Ahhhgh! My leg}
+{2947}{}{Ahhhgh! My leg!}
 {2948}{}{Ahhhgh! I am not so easily beaten!}
 {2949}{}{Ahhhgh! I shall snap your neck for that!}
 #
 # target hit in left leg
 #
-{2950}{}{Ahhhgh! My leg}
+{2950}{}{Ahhhgh! My leg!}
 {2951}{}{Ahhhgh! I am not so easily beaten!}
 {2952}{}{Ahhhgh! I shall snap your neck for that!}
 #
 # target hit in eyes
 #
-{2953}{}{Ahhhgh! Miserable human! You have blinded me!}
+{2953}{}{Ahhhhh! Miserable human! You have blinded me!}
 {2954}{}{Ahhhgh! The pain! What have you done!}
-{2955}{}{Ahhhgh! You have earned days of agony for this!}
+{2955}{}{Oof! You have earned days of agony for this!}
 #
 # target hit in groin
 #
@@ -1908,10 +1983,14 @@
 {2960}{}{Your death grows more painful, human!}
 {2961}{}{Perhaps I should test your weak points}
 
-# 21. Guard, Raider
+#
+# 21. Guard, Raider  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # You're dead! I do hope you have cool stuff...
 #
+#
 #  running away
+#
 {3000}{}{Flee! Flee!}
 {3001}{}{Retreat!}
 {3002}{}{Regroup!}
@@ -1926,7 +2005,7 @@
 {3008}{}{Plunder!}
 {3009}{}{This one's mine!}
 {3010}{}{Take him!}
-{3011}{}{}
+{3011}{}{You're dead! I hope you have cool stuff...}
 #
 # attacking (10)
 #
@@ -1939,7 +2018,7 @@
 {3018}{}{You are mine to kill!}
 {3019}{}{Your bones shall bleach in the wastes!}
 {3020}{}{Blood and darkness!}
-{3021}{}{}
+{3021}{}{I will make weapons from your bones!}
 {3022}{}{Drill the scraggin' bastard!}
 #
 # target being missed (6)
@@ -1953,43 +2032,43 @@
 # target hit in head (3)
 #
 {3028}{}{Aaaagghh! My face!}
-{3029}{}{#@$^!! %%$^&!!?!}
+{3029}{}{WHAT THE FUCK!!?!}
 {3030}{}{You broke my nose!}
 #
 # target hit in left arm
 #
-{3031}{}{Ow, my arm}
+{3031}{}{My arm!}
 {3032}{}{You broke my arm!}
 {3033}{}{You will die for that!}
 #
 # target hit in right arm
 #
-{3034}{}{Ow, my arm}
-{3035}{}{You broke my arm!}
-{3036}{}{You will die for that!}
+{3034}{}{I'll take both of yours!}
+{3035}{}{You broke it!}
+{3036}{}{You'll pay for that!}
 #
 # target hit in torso
 #
-{3037}{}{}
+{3037}{}{Fuck!}
 {3038}{}{You call that pain!?}
 {3039}{}{Ouch!}
 {3040}{}{Oof!}
-{3041}{}{Damnit! That hurt!}
+{3041}{}{Dammit! That hurt!}
 {3042}{}{Come here, and let me do that to you!}
 {3043}{}{You're gonna pay! I swear it!}
-{3044}{}{Gasp!}
-{3045}{}{}
+{3044}{}{[Gasp!]}
+{3045}{}{Dammit! Bitch!}
 {3046}{}{Eegah! That bit the root!}
 #
 # target hit in right leg
 #
-{3047}{}{Ow, my leg}
+{3047}{}{My leg!}
 {3048}{}{You will die for that!}
 {3049}{}{Argh! You break my leg, I break your neck!}
 #
 # target hit in left leg
 #
-{3050}{}{Ow, my leg}
+{3050}{}{My leg!}
 {3051}{}{You will die for that!}
 {3052}{}{Argh!!}
 #
@@ -2008,16 +2087,20 @@
 {3060}{}{Urp!}
 {3061}{}{I will kill you for that!}
 
-# 22. Leader, Raider
+#
+# 22. Leader, Raider  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I feast on the hearts of my enemies!
 #
+#
 #  running away
+#
 {3100}{}{Khans! Cover me!}
 {3101}{}{Retreat!}
 {3102}{}{Regroup!}
 {3103}{}{Fall back!}
 {3104}{}{Withdraw!}
-{3105}{}{Aaaaghhh!}
+{3105}{}{I'll be back}
 #
 # moving in to attack
 #
@@ -2025,12 +2108,12 @@
 {3107}{}{Fresh meat...}
 {3108}{}{Plunder!}
 {3109}{}{This one's mine!}
-{3110}{}{Khans attack!}
-{3111}{}{}
+{3110}{}{Khans, attack!}
+{3111}{}{Anything you can do, I Khan do better}
 #
 # attacking (10)
 #
-{3112}{}{Khans kill!}
+{3112}{}{Khans, kill!}
 {3113}{}{Blood! Blood! Blood!}
 {3114}{}{I am supreme!}
 {3115}{}{RAAAAAAARRRR!!}
@@ -2043,74 +2126,76 @@
 #
 # target being missed (6)
 #
-{3122}{}{}
+{3122}{}{Ahahaha, try again!}
 {3123}{}{I cannot be touched!}
 {3124}{}{I am indestructible!}
 {3125}{}{My blood is stronger than yours!}
-{3126}{}{RAAAAAAAAARRRR!!}
+{3126}{}{My slaves fight better than that!}
 {3127}{}{You are not worthy of combat with me!}
 #
 # target hit in head (3)
 #
 {3128}{}{A worthy blow!}
 {3129}{}{That was your last attack!}
-{3130}{}{My nose!}
+{3130}{}{A pitiful attempt!}
 #
 # target hit in left arm
 #
-{3131}{}{I can beat you with one arm!}
+{3131}{}{I can still beat you with one arm!}
 {3132}{}{You broke my arm! Now the fight is fair!}
 {3133}{}{That was your final blow!}
 #
 # target hit in right arm
 #
-{3134}{}{I can beat you with one arm!}
+{3134}{}{I can still beat you with one arm!}
 {3135}{}{You broke my arm! Now the fight is fair!}
-{3136}{}{That was your final blow!}
+{3136}{}{I will end you!}
 #
 # target hit in torso
 #
 {3137}{}{Your death will be legendary for that!}
 {3138}{}{I will feast on your eyes for that!}
-{3139}{}{Crap!}
-{3140}{}{Oof!}
-{3141}{}{Ouch!}
-{3142}{}{}
-{3143}{}{Gasp!}
+{3139}{}{I am indestructible!}
+{3140}{}{My blood is stronger than yours!}
+{3141}{}{I am indestructible!}
+{3142}{}{I will feast on your eyes for that!}
+{3143}{}{RAAAAAAARRRR!!}
 {3144}{}{My ribs hurt. Soon I will remove yours! It's only fair}
-{3145}{}{}
-{3146}{}{Groan}
-
+{3145}{}{My ribs hurt. Soon I will remove yours! It's only fair}
+{3146}{}{Blood and darkness!}
 #
 # target hit in right leg
 #
 {3147}{}{I do not need to stand to kill you!}
 {3148}{}{You will die for that!}
-{3149}{}{}
+{3149}{}{My leg! I will remove yours with my fists!}
 #
 # target hit in left leg
 #
 {3150}{}{I do not need to stand to kill you!}
 {3151}{}{You will die for that!}
-{3152}{}{}
+{3152}{}{My leg! I will remove yours with my fists!}
 #
 # target hit in eyes
 #
 {3153}{}{Argh! I shall tear you into pieces!}
-{3154}{}{My eye! I will trade my vision for your death!}
+{3154}{}{My eyes! I will trade my vision for your death!}
 {3155}{}{My eye! You will die slowly for that!}
 #
 # target hit in groin
 #
-{3156}{}{Oooooo, my groin!}
+{3156}{}{You will not steal my manhood!}
 {3157}{}{Ooo! You... will... suffer...}
 {3158}{}{Ooo! I... will... kill...}
 {3159}{}{Ooo! I will mutilate you...}
 {3160}{}{Urp!}
 {3161}{}{You will not steal my manhood!}
 
-# 23. Peasant, Shady Sands
+#
+# 23. Peasant, Shady Sands  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Get out of Shady Sands, you troublemaking scum!
+#
 #
 #  running away
 #
@@ -2119,7 +2204,7 @@
 {3202}{}{Somebody help me!}
 {3203}{}{We'll bring you to justice yet!}
 {3204}{}{Someday, you'll get what's coming to you!}
-{3205}{}{ I ain't dyin' for this!}
+{3205}{}{I ain't dyin' for this!}
 #
 # moving in to attack
 #
@@ -2147,7 +2232,7 @@
 #
 {3222}{}{You're not as good as you think}
 {3223}{}{}
-{3224}{}{You're dumber than a mole-rat}
+{3224}{}{You're dumber than a mole rat}
 {3225}{}{Shady Sands don't roll over and die for no one}
 {3226}{}{}
 {3227}{}{That was your last mistake}
@@ -2160,13 +2245,13 @@
 #
 # target hit in left arm
 #
-{3231}{}{Aggghhh! My arm}
+{3231}{}{Aggghhh! My arm!}
 {3232}{}{My arm!}
 {3233}{}{Damn arm's useless now...}
 #
 # target hit in right arm
 #
-{3234}{}{Aggghhh! My arm}
+{3234}{}{Aggghhh! My arm!}
 {3235}{}{My arm!}
 {3236}{}{Damn arm's useless now...}
 #
@@ -2176,7 +2261,7 @@
 {3238}{}{Doh!}
 {3239}{}{}
 {3240}{}{May you die of thirst, alone and cold...}
-{3241}{}{Gasp!}
+{3241}{}{[Gasp!]}
 {3242}{}{}
 {3243}{}{Please don't...}
 {3244}{}{}
@@ -2185,13 +2270,13 @@
 #
 # target hit in right leg
 #
-{3247}{}{Aggghhh! My leg}
+{3247}{}{Aggghhh! My leg!}
 {3248}{}{My leg!}
 {3249}{}{Dammit, my leg's useless...}
 #
 # target hit in left leg
 #
-{3250}{}{Aggghhh! My leg}
+{3250}{}{Aggghhh! My leg!}
 {3251}{}{My leg!}
 {3252}{}{Dammit, my leg's useless...}
 #
@@ -2210,8 +2295,11 @@
 {3260}{}{The pain, the pain...}
 {3261}{}{Damn, that hurts!}
 
-# 24. Guard, Shady Sands
+#
+# 24. Guard, Shady Sands  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I'm staying alert. Never know what's gonna walk out of the wastes
+#
 #
 #  running away (6)
 #
@@ -2228,7 +2316,7 @@
 {3307}{}{What is it this time?}
 {3308}{}{I'll deal with this...}
 {3309}{}{Not another interruption!}
-{3310}{}{If it ain't rad scorpions, it's them damn raiders...}
+{3310}{}{If it ain't radscorpions, it's them damn raiders...}
 {3311}{}{}
 #
 # attacking
@@ -2279,7 +2367,7 @@
 {3340}{}{}
 {3341}{}{(Holding ribs) Ouch!}
 {3342}{}{C'mon! No fighting in the town!}
-{3343}{}{Gasp!}
+{3343}{}{[Gasp!]}
 {3344}{}{Ow! I'm disappointed in you outsiders...}
 {3345}{}{Oof!}
 {3346}{}{That hurt!}
@@ -2312,8 +2400,11 @@
 {3360}{}{Urp!}
 {3361}{}{I...can't...breathe...}
 
-# 25. Leader, Shady Sands
+#
+# 25. Leader, Shady Sands  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I don't want trouble, but it comes around often enough that I know how to deal with it.
+#
 #
 #  running away (6)
 #
@@ -2330,7 +2421,7 @@
 {3407}{}{What is it this time?}
 {3408}{}{I'll deal with this...}
 {3409}{}{Not another interruption!}
-{3410}{}{If it ain't rad scorpions, it's troublemakers...}
+{3410}{}{If it ain't radscorpions, it's troublemakers...}
 {3411}{}{}
 #
 # attacking
@@ -2409,13 +2500,16 @@
 #
 {3456}{}{Oooooo, my groin!}
 {3457}{}{Aieee!}
-{3458}{}{}                                       
+{3458}{}{[whimper]}
 {3459}{}{Ooof!}
 {3460}{}{Oooooo! I didn't feel that! Ow!}
 {3461}{}{Oooooo! That hurt. Must be getting old.}
 
-# 26. Ripper
+#
+# 26. Ripper  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Rape him or kill him. I can never make up my mind.
+#
 #
 #  running away
 #
@@ -2483,7 +2577,7 @@
 {3540}{}{Oof!}
 {3541}{}{Doh!}
 {3542}{}{Argh! Does this mean it's over?}
-{3543}{}{Gasp!}
+{3543}{}{[Gasp!]}
 {3544}{}{Hit me again, please...}
 {3545}{}{I get to pitch next time}
 {3546}{}{Oh, the pain, the pain...}
@@ -2515,8 +2609,11 @@
 {3560}{}{So that's the way you want to play it}
 {3561}{}{Ooooo, nice move pal}
 
-# 27. Blade
+#
+# 27. Blade  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I'm gonna tear you a new...
+#
 #
 #  running away (6)
 #
@@ -2582,7 +2679,7 @@
 {3638}{}{Ah, shit!}
 {3639}{}{Ouch! That was a bad mistake...}
 {3640}{}{Ow! I'll show you...}
-{3641}{}{Gasp!}
+{3641}{}{[Gasp!]}
 {3642}{}{Can't breathe...}
 {3643}{}{}
 {3644}{}{Oof!}
@@ -2617,8 +2714,11 @@
 {3660}{}{I'll kill you for that one, punk}
 {3661}{}{I...can't...breathe...}
 
-# 28.  Gunrunners
+#
+# 28.  Gun Runners  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Are you trying to muscle in on our business?  serious in tone.
+#
 #
 #  running away
 #
@@ -2633,14 +2733,14 @@
 #
 {3706}{}{Trying to muscle in on our business, huh?}
 {3707}{}{Somebody just made a big mistake!}
-{3708}{}{}
+{3708}{}{Time to rip a clip...}
 {3709}{}{Who do you think you are?}
 {3710}{}{Time to demonstrate some merchandise}
-{3711}{}{Wait til I get you...}
+{3711}{}{Wait 'til I get you...}
 #
 # attacking
 #
-{3712}{}{}
+{3712}{}{Ride my bullet back to hell!}
 {3713}{}{}
 {3714}{}{}
 {3715}{}{How do you like this?}
@@ -2658,7 +2758,7 @@
 {3724}{}{You didn't expect that , did you?}
 {3725}{}{That was your last mistake}
 {3726}{}{Amateur}
-{3727}{}{This ain't like shooting mole-rats, pal.}
+{3727}{}{This ain't like shooting mole rats, pal.}
 #
 # target hit in head
 #
@@ -2668,13 +2768,13 @@
 #
 # target hit in left arm
 #
-{3731}{}{Ow, my arm}
+{3731}{}{Ow, my arm!}
 {3732}{}{Damn. My arm's busted!}
 {3733}{}{My arm!}
 #
 # target hit in right arm
 #
-{3734}{}{Ow, my arm}
+{3734}{}{Ow, my arm!}
 {3735}{}{Damn. My arm's busted!}
 {3736}{}{My arm!}
 #
@@ -2688,18 +2788,18 @@
 {3742}{}{Damn!}
 {3743}{}{Skaggin' jerk!}
 {3744}{}{}
-{3745}{}{Gasp!}
+{3745}{}{[Gasp!]}
 {3746}{}{Ouch!}
 #
 # target hit in right leg
 #
-{3747}{}{Ow, my leg}
+{3747}{}{Ow, my leg!}
 {3748}{}{}
 {3749}{}{My knee!}
 #
 # target hit in left leg
 #
-{3750}{}{Ow, my leg}
+{3750}{}{Ow, my leg!}
 {3751}{}{You're gonna pay for that, in spades!}
 {3752}{}{My knee!}
 #
@@ -2718,8 +2818,11 @@
 {3760}{}{}
 {3761}{}{The pain, the pain...}
 
-# 29. Regulator
+#
+# 29. Regulator  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # This one's better armed than usual. We need back-up, now!
+#
 #
 #  running away
 #
@@ -2748,9 +2851,9 @@
 {3816}{}{You'll never bother anyone again}
 {3817}{}{No mercy to punks!}
 {3818}{}{You better pray to the gods!}
-{3819}{}{}
+{3819}{}{Ride my bullet back to hell!}
 {3820}{}{I'm dropping the hammer on you}
-{3821}{}{See you in Hell}
+{3821}{}{See you in hell}
 #
 # target being missed
 #
@@ -2810,8 +2913,11 @@
 {3850}{}{Oooooo. You sadistic son of a...}
 {3851}{}{You punk...}
 
-# 30. Adytowner
+#
+# 30. Adytowner  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # They've broken through our defenses! Fall back!
+#
 #
 #  running away
 #
@@ -2824,7 +2930,7 @@
 #
 # moving in to attack
 #
-{3906}{}{For Adytown!}
+{3906}{}{For Adytum!}
 {3907}{}{We are under attack!}
 {3908}{}{I need backup!}
 {3909}{}{Attack!}
@@ -2833,16 +2939,16 @@
 #
 # attacking
 #
-{3912}{}{This is for Adytown!}
+{3912}{}{This is for Adytum!}
 {3913}{}{This is what we do to animals!}
-{3914}{}{Welcome to Hell, punk}
+{3914}{}{Welcome to hell, punk}
 {3915}{}{You'd better stay down this time}
 {3916}{}{You'll never bother anyone again}
 {3917}{}{No mercy to punks!}
 {3918}{}{You better pray to the gods!}
 {3919}{}{}
 {3920}{}{You just bought a house six feet under}
-{3921}{}{Hope you enjoyed your life, it's about to flash before your eyes}
+{3921}{}{Hope you enjoyed your life; it's about to flash before your eyes}
 #
 # target being missed
 #
@@ -2861,13 +2967,13 @@
 #
 # target hit in left arm
 #
-{3931}{}{Aggghh! My arm}
+{3931}{}{Aggghh! My arm!}
 {3932}{}{Ow! That hurt!}
 {3933}{}{Damn. I may be hurt bad}
 #
 # target hit in right arm
 #
-{3934}{}{Aggghh! My arm}
+{3934}{}{Aggghh! My arm!}
 {3935}{}{Ow! That hurt!}
 {3936}{}{Damn. I may be hurt bad}
 #
@@ -2911,8 +3017,11 @@
 {3960}{}{Oooooo. You sadistic son of a...}
 {3961}{}{You punk...}
 
-# 31. Generic Follower
+#
+# 31. Generic Follower  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # No retreat, no surrender, no slogans.
+#
 #
 #  running away
 #
@@ -2962,13 +3071,13 @@
 #
 # target hit in left arm
 #
-{4031}{}{Aggghh! My arm}
+{4031}{}{Aggghh! My arm!}
 {4032}{}{Ow! That hurt!}
 {4033}{}{Damn. I may be hurt bad}
 #
 # target hit in right arm
 #
-{4034}{}{Aggghh! My arm}
+{4034}{}{Aggghh! My arm!}
 {4035}{}{Ow! That hurt!}
 {4036}{}{Damn. I may be hurt bad}
 #
@@ -2981,7 +3090,7 @@
 {4041}{}{Ouch!}
 {4042}{}{Argh!}
 {4043}{}{Oof!}
-{4044}{}{Gasp!}
+{4044}{}{[Gasp!]}
 {4045}{}{}
 #
 # target hit in right leg
@@ -3011,8 +3120,11 @@
 {4060}{}{}
 {4061}{}{You punk!}
 
-# 32. Follower, Scout
+#
+# 32. Follower, Scout  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I don't see anything... wait! Look at the firepower on that mother!
+#
 #
 #  running away
 #
@@ -3041,7 +3153,7 @@
 {4116}{}{}
 {4117}{}{}
 {4118}{}{}
-{4119}{}{One less vermin in the Boneyard}
+{4119}{}{One less vermin in L.A. Boneyard}
 {4120}{}{}
 {4121}{}{you're not walking away from this}
 #
@@ -3062,13 +3174,13 @@
 #
 # target hit in left arm
 #
-{4131}{}{Aggghh! My arm}
+{4131}{}{Aggghh! My arm!}
 {4132}{}{Well, that limb's bloody useless...}
 {4133}{}{Damn. I may be hurt bad}
 #
 # target hit in right arm
 #
-{4134}{}{Aggghh! My arm}
+{4134}{}{Aggghh! My arm!}
 {4135}{}{Well, that limb's bloody useless...}
 {4136}{}{Damn. I may be hurt bad}
 #
@@ -3112,8 +3224,11 @@
 {4160}{}{}
 {4161}{}{}
 
-# 33. Follower, Guard
+#
+# 33. Follower, Guard  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I will hold my position. You get out of here. Go!
+#
 #
 #  running away
 #
@@ -3142,7 +3257,7 @@
 {4216}{}{This is going to hurt}
 {4217}{}{I'm putting you away...}
 {4218}{}{}
-{4219}{}{One less vermin in the Boneyard}
+{4219}{}{One less vermin in L.A. Boneyard}
 {4220}{}{}
 {4221}{}{You ain't walking away from this}
 #
@@ -3208,20 +3323,23 @@
 #
 {4256}{}{Urgh! My jewels!}
 {4257}{}{}
-{4258}{}{That hurts like Hell!}
+{4258}{}{That hurts like hell!}
 {4259}{}{I...can't...breathe...}
 {4260}{}{}
 {4261}{}{}
 
-# 34. Follower, Leader (aka Nicole)
+#
+# 34. Follower, Leader (aka Nicole)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Time to do my duty.
+#
 #
 #  running away
 #
 {4300}{}{Gotta find a better position...}
 {4301}{}{Not enough cover, and I'm hurt bad...}
 {4302}{}{This isn't over!}
-{4303}{}{Better regroup....}
+{4303}{}{Better regroup...}
 {4304}{}{Fall back!}
 {4305}{}{Brute force won't win this fight}
 #
@@ -3280,7 +3398,7 @@
 {4338}{}{Oof!}
 {4339}{}{}
 {4340}{}{}
-{4341}{}{Gasp!}
+{4341}{}{[Gasp!]}
 {4342}{}{Ack!}
 {4343}{}{Ow!}
 {4344}{}{Oof! You may defeat me, but the cause will live on}
@@ -3314,8 +3432,11 @@
 {4360}{}{Eegah!}
 {4361}{}{}
 
-# 35. Ripper Leader
+#
+# 35. Ripper Leader  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I am the most evil man alive!
+#
 #
 #  running away
 #
@@ -3340,7 +3461,7 @@
 {4412}{}{I'm gonna carve you like an iguana-on-a-stick!}
 {4413}{}{}
 {4414}{}{Don't die yet - I want you to suffer.}
-{4415}{}{You have offended the King of the Boneyard!}
+{4415}{}{You have offended the King of L.A. Boneyard!}
 {4416}{}{}
 {4417}{}{You'll be so pretty when you're dead}
 {4418}{}{Die! Die! Die! Die! Die!}
@@ -3380,7 +3501,7 @@
 {4437}{}{My chest!}
 {4438}{}{Argh! That was your last mistake}
 {4439}{}{}
-{4440}{}{Gasp!}
+{4440}{}{[Gasp!]}
 {4441}{}{Bah!}
 {4442}{}{Ack! That's gonna leave a bruise}
 {4443}{}{Ow!}
@@ -3415,8 +3536,11 @@
 {4460}{}{So that's the way you want to play it}
 {4461}{}{}
 
-# 36. Blade, Scout
+#
+# 36. Blade, Scout  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Someone's approaching our turf!
+#
 #
 #  running away (6)
 #
@@ -3483,7 +3607,7 @@
 {4539}{}{Oof! My ribs!}
 {4540}{}{Grunt}
 {4541}{}{I laugh at my pain!}
-{4542}{}{Gasp!}
+{4542}{}{[Gasp!]}
 {4543}{}{Is that as hard as you hit?}
 {4544}{}{}
 {4545}{}{Oof!}
@@ -3517,8 +3641,11 @@
 {4560}{}{I'm gonna tear you to pieces}
 {4561}{}{I...can't...breathe...}
 
-# 37. Blade, Leader
+#
+# 37. Blade, Leader  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Rippers, Followers, Children, I don't care
+#
 #
 #  running away (6)
 #
@@ -3585,7 +3712,7 @@
 {4639}{}{Oof! My ribs!}
 {4640}{}{Grunt}
 {4641}{}{Ha! I laugh at the pain!}
-{4642}{}{Gasp!}
+{4642}{}{[Gasp!]}
 {4643}{}{}
 {4644}{}{}
 {4645}{}{Oof!}
@@ -3619,8 +3746,11 @@
 {4660}{}{I'm gonna tear you to pieces}
 {4661}{}{I...can't...breathe...}
 
-# 38. Gunrunners, Leader
+#
+# 38. Gun Runners, Leader  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Are you trying to muscle in on our business?  serious in tone.
+#
 #
 #  running away
 #
@@ -3633,7 +3763,7 @@
 #
 # moving in to attack
 #
-{4706}{}{}
+{4706}{}{Time to rip a clip...}
 {4707}{}{Somebody just made a big mistake!}
 {4708}{}{}
 {4709}{}{Who do you think you are?}
@@ -3651,7 +3781,7 @@
 {4718}{}{Let's see how you handle this...}
 {4719}{}{}
 {4720}{}{}
-{4721}{}{}
+{4721}{}{Ride my bullet back to hell!}
 #
 # target being missed
 #
@@ -3670,13 +3800,13 @@
 #
 # target hit in left arm
 #
-{4731}{}{Ow, my arm}
+{4731}{}{Ow, my arm!}
 {4732}{}{Damn. My arm's busted!}
 {4733}{}{My arm!}
 #
 # target hit in right arm
 #
-{4734}{}{Ow, my arm}
+{4734}{}{Ow, my arm!}
 {4735}{}{Damn. My arm's busted!}
 {4736}{}{My arm!}
 #
@@ -3689,19 +3819,19 @@
 {4741}{}{}
 {4742}{}{}
 {4743}{}{}
-{4744}{}{That might require medical attention... }
+{4744}{}{That might require medical attention...}
 {4745}{}{}
 {4746}{}{Oof!}
 #
 # target hit in right leg
 #
-{4747}{}{Ow, my leg}
+{4747}{}{Ow, my leg!}
 {4748}{}{You shall pay for that!}
 {4749}{}{My knee!}
 #
 # target hit in left leg
 #
-{4750}{}{Ow, my leg}
+{4750}{}{Ow, my leg!}
 {4751}{}{You will pay for that!}
 {4752}{}{My knee!}
 #
@@ -3720,8 +3850,11 @@
 {4760}{}{}
 {4761}{}{Swine!}
 
-# 39. Adytum, Leader,
+#
+# 39. Adytum, Leader,  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # We have a situation, and it's a bad one.
+#
 #
 #  running away
 #
@@ -3743,9 +3876,9 @@
 #
 # attacking
 #
-{4812}{}{This is for Adytown!}
+{4812}{}{This is for Adytum!}
 {4813}{}{This is what we do to animals!}
-{4814}{}{Welcome to Hell, punk}
+{4814}{}{Welcome to hell, punk}
 {4815}{}{Enjoy the last few seconds of your life...}
 {4816}{}{You'll never bother anyone again}
 {4817}{}{}
@@ -3771,13 +3904,13 @@
 #
 # target hit in left arm
 #
-{4831}{}{Damn! My arm}
+{4831}{}{Damn! My arm!}
 {4832}{}{Ow! That hurt!}
 {4833}{}{Damn. I may be hurt bad}
 #
 # target hit in right arm
 #
-{4834}{}{Damn! My arm}
+{4834}{}{Damn! My arm!}
 {4835}{}{Ow! That hurt!}
 {4836}{}{Damn. I may be hurt bad}
 #
@@ -3821,8 +3954,11 @@
 {4860}{}{You sadistic son of a...}
 {4861}{}{You punk...}
 
-# 40. Ghoul, Coward
+#
+# 40. Ghoul, Coward  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Maybe someone else should handle this
+#
 #
 #  running away
 {4900}{}{Gotta get outta here!}
@@ -3871,13 +4007,13 @@
 #
 # target hit in left arm
 #
-{4931}{}{Ow, my arm}
+{4931}{}{Ow, my arm!}
 {4932}{}{You broke my arm!}
 {4933}{}{Was that really necessary?}
 #
 # target hit in right arm
 #
-{4934}{}{Ow, my arm}
+{4934}{}{Ow, my arm!}
 {4935}{}{You broke my arm!}
 {4936}{}{Was that really necessary?}
 #
@@ -3886,23 +4022,23 @@
 {4937}{}{Oof!}
 {4938}{}{Ow! That hurt me! A lot!}
 {4939}{}{}
-{4940}{}{Gasp! Don't hit me!}
+{4940}{}{[Gasp!] Don't hit me!}
 {4941}{}{Ack! That hurt!}
 {4942}{}{Argh! Please stop!}
 {4943}{}{Ouch!}
 {4944}{}{Oof!}
 {4945}{}{Oof!}
-{4946}{}{Oof! Gasp! Argh! Ow! Owie!}
+{4946}{}{Oof! [Gasp!] Argh! Ow! Owie!}
 #
 # target hit in right leg
 #
-{4947}{}{Ow, my leg}
+{4947}{}{Ow, my leg!}
 {4948}{}{Hey, that hurt!}
 {4949}{}{}
 #
 # target hit in left leg
 #
-{4950}{}{Ow, my leg}
+{4950}{}{Ow, my leg!}
 {4951}{}{Hey, that hurt!}
 {4952}{}{Was that really necessary?}
 #
@@ -3921,7 +4057,9 @@
 {4960}{}{Urp!}
 {4961}{}{}
 
-# 41. Ghoul, Normal
+#
+# 41. Ghoul, Normal  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 #
 #  running away (6)
 #
@@ -4022,8 +4160,11 @@
 {5060}{}{Urp!}
 {5061}{}{}
 
-# 42.  Ghoul, Brave
+#
+# 42.  Ghoul, Brave  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # We'll seal your tomb for this.
+#
 #
 #  running away (6)
 #
@@ -4124,8 +4265,11 @@
 {5160}{}{Urp!}
 {5161}{}{}
 
-# 43. Super Mutant, Guard
+#
+# 43. Super Mutant, Guard  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Humans try to hurt superhumans? Stupid humans!
+#
 #
 #  running away
 #
@@ -4133,7 +4277,7 @@
 {5201}{}{You will not kill me!}
 {5202}{}{I will be back!}
 {5203}{}{My friends get you for me!}
-{5204}{}{You pay for this -- later!}
+{5204}{}{You pay for this - later!}
 {5205}{}{We are Chosen! You die later!}
 #
 # moving in to attack
@@ -4200,13 +4344,13 @@
 #
 # target hit in right leg
 #
-{5247}{}{Ahhhgh! My leg}
+{5247}{}{Ahhhgh! My leg!}
 {5248}{}{}
 {5249}{}{Ahhhgh! I snap your neck for that!}
 #
 # target hit in left leg
 #
-{5250}{}{Ahhhgh! My leg}
+{5250}{}{Ahhhgh! My leg!}
 {5251}{}{}
 {5252}{}{Ahhhgh! I shall snap your neck for that!}
 #
@@ -4225,8 +4369,11 @@
 {5260}{}{I will hurt you for many hours}
 {5261}{}{}
 
-# 44. Super Mutant, Normal
+#
+# 44. Super Mutant, Normal  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Even weakest runt of Chosen better than most powerful human!
+#
 #
 #  running away
 #
@@ -4234,7 +4381,7 @@
 {5301}{}{You will not kill me!}
 {5302}{}{Must escape}
 {5303}{}{}
-{5304}{}{You pay for this -- later!}
+{5304}{}{You pay for this - later!}
 {5305}{}{You die later!}
 #
 # moving in to attack
@@ -4301,13 +4448,13 @@
 #
 # target hit in right leg
 #
-{5347}{}{Ahhhgh! My leg}
+{5347}{}{Ahhhgh! My leg!}
 {5348}{}{}
 {5349}{}{Ahhhgh! I snap your neck for that!}
 #
 # target hit in left leg
 #
-{5350}{}{Ahhhgh! My leg}
+{5350}{}{Ahhhgh! My leg!}
 {5351}{}{You almost hurt Chosen!}
 {5352}{}{Ahhhgh! I shall snap your neck for that!}
 #
@@ -4326,8 +4473,11 @@
 {5360}{}{Your death will be painful, human!}
 {5361}{}{}
 
-# 45.  Super Mutant, Hostile
+#
+# 45.  Super Mutant, Hostile  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Don't get in my way when I rip the human apart!
+#
 #
 #  running away
 #
@@ -4335,7 +4485,7 @@
 {5401}{}{You will not kill me!}
 {5402}{}{I will be back!}
 {5403}{}{}
-{5404}{}{You pay for this -- later!}
+{5404}{}{You pay for this - later!}
 {5405}{}{You die later!}
 #
 # moving in to attack
@@ -4402,13 +4552,13 @@
 #
 # target hit in right leg
 #
-{5447}{}{Ahhhgh! My leg}
+{5447}{}{Ahhhgh! My leg!}
 {5448}{}{You call that pain? I laugh!}
 {5449}{}{Ahhhgh! I snap your neck for that!}
 #
 # target hit in left leg
 #
-{5450}{}{Ahhhgh! My leg}
+{5450}{}{Ahhhgh! My leg!}
 {5451}{}{You call that pain? I laugh!}
 {5452}{}{Ahhhgh! I shall snap your neck for that!}
 #
@@ -4427,8 +4577,11 @@
 {5460}{}{I will hurt you for many hours}
 {5461}{}{}
 
-# 46. Super Mutant, Sergeant
+#
+# 46. Super Mutant, Sergeant  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I lead the apocalypse. Corpses to the left, corpses to the right, and death in front of me.
+#
 #
 #  running away
 #
@@ -4503,13 +4656,13 @@
 #
 # target hit in right leg
 #
-{5547}{}{Ahhhgh! My leg}
+{5547}{}{Ahhhgh! My leg!}
 {5548}{}{}
 {5549}{}{Ahhhgh! I snap your neck for that!}
 #
 # target hit in left leg
 #
-{5550}{}{Ahhhgh! My leg}
+{5550}{}{Ahhhgh! My leg!}
 {5551}{}{}
 {5552}{}{Ahhhgh! I shall snap your neck for that!}
 #
@@ -4528,8 +4681,11 @@
 {5560}{}{I will hurt you for many hours}
 {5561}{}{That was the final affront!}
 
-# 47.  Merchants
+#
+# 47.  Merchants  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Are you sure that we can't make other arrangements?
+#
 #
 #  running away
 #
@@ -4565,7 +4721,7 @@
 # target being missed
 #
 {5622}{}{Whew!}
-{5623}{}{You're not worth twenty bucks}
+{5623}{}{You're not worth twenty caps}
 {5624}{}{You're not very good at this}
 {5625}{}{You're just a cut rate punk}
 {5626}{}{You should just walk away!}
@@ -4579,13 +4735,13 @@
 #
 # target hit in left arm
 #
-{5631}{}{Ow, my arm}
+{5631}{}{Ow, my arm!}
 {5632}{}{Damn you!}
 {5633}{}{You broke my arm!}
 #
 # target hit in right arm
 #
-{5634}{}{Ow, my arm}
+{5634}{}{Ow, my arm!}
 {5635}{}{Damn you!}
 {5636}{}{You broke my arm!}
 #
@@ -4604,13 +4760,13 @@
 #
 # target hit in right leg
 #
-{5647}{}{Ow, my leg}
+{5647}{}{Ow, my leg!}
 {5648}{}{My knee!}
 {5649}{}{Ow! My leg's busted!}
 #
 # target hit in left leg
 #
-{5650}{}{Ow, my leg}
+{5650}{}{Ow, my leg!}
 {5651}{}{My knee!}
 {5652}{}{Ow! My leg's busted!}
 #
@@ -4618,7 +4774,7 @@
 #
 {5653}{}{I'm blind!}
 {5654}{}{Ugggh. My face! My eyes!}
-{5655}{}{My eyes! Damn you to Hell...}
+{5655}{}{My eyes! Damn you to hell...}
 #
 # target hit in groin
 #
@@ -4629,8 +4785,11 @@
 {5660}{}{}
 {5661}{}{The pain, the pain...}
 
-# 48. Peasant, Hub
+#
+# 48. Peasant, Hub  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Hey, aren't the taxes bad enough? I don't need you messing up my life too!
+#
 #
 #  running away
 #
@@ -4639,7 +4798,7 @@
 {5702}{}{Somebody help me!}
 {5703}{}{We're all gonna die!}
 {5704}{}{Someday, you'll get what's coming to you!}
-{5705}{}{ I ain't dyin' for this!}
+{5705}{}{I ain't dyin' for this!}
 #
 # moving in to attack
 #
@@ -4656,7 +4815,7 @@
 {5713}{}{How do you like this?}
 {5714}{}{This is what we do to vermin!}
 {5715}{}{This is for you!}
-{5716}{}{Good-bye!}
+{5716}{}{Goodbye!}
 {5717}{}{}
 {5718}{}{Troublemaking scum!}
 {5719}{}{}
@@ -4680,13 +4839,13 @@
 #
 # target hit in left arm
 #
-{5731}{}{Aggghhh! My arm}
+{5731}{}{Aggghhh! My arm!}
 {5732}{}{My arm!}
 {5733}{}{Damn arm's useless now...}
 #
 # target hit in right arm
 #
-{5734}{}{Aggghhh! My arm}
+{5734}{}{Aggghhh! My arm!}
 {5735}{}{My arm!}
 {5736}{}{Damn arm's useless now...}
 #
@@ -4705,13 +4864,13 @@
 #
 # target hit in right leg
 #
-{5747}{}{Aggghhh! My leg}
+{5747}{}{Aggghhh! My leg!}
 {5748}{}{My leg!}
 {5749}{}{Dammit, my leg's useless...}
 #
 # target hit in left leg
 #
-{5750}{}{Aggghhh! My leg}
+{5750}{}{Aggghhh! My leg!}
 {5751}{}{My leg!}
 {5752}{}{Dammit, my leg's useless...}
 #
@@ -4730,8 +4889,11 @@
 {5760}{}{The pain, the pain...}
 {5761}{}{Damn, that hurts!}
 
-# 49. Thief, Hub
+#
+# 49. Thief, Hub  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # You are taking this rather personally, sir.
+#
 #
 #  running away
 #
@@ -4781,13 +4943,13 @@
 #
 # target hit in left arm
 #
-{5831}{}{Aggghhh! My arm}
+{5831}{}{Aggghhh! My arm!}
 {5832}{}{My arm!}
 {5833}{}{Damn arm's useless now...}
 #
 # target hit in right arm
 #
-{5834}{}{Aggghhh! My arm}
+{5834}{}{Aggghhh! My arm!}
 {5835}{}{My arm!}
 {5836}{}{Damn arm's useless now...}
 #
@@ -4806,13 +4968,13 @@
 #
 # target hit in right leg
 #
-{5847}{}{Aggghhh! My leg}
+{5847}{}{Aggghhh! My leg!}
 {5848}{}{My leg!}
 {5849}{}{Dammit, my leg's useless...}
 #
 # target hit in left leg
 #
-{5850}{}{Aggghhh! My leg}
+{5850}{}{Aggghhh! My leg!}
 {5851}{}{My leg!}
 {5852}{}{Dammit, my leg's useless...}
 #
@@ -4831,8 +4993,11 @@
 {5860}{}{}
 {5861}{}{Damn, that hurts!}
 
-# 50.  Mutant, Hub
+#
+# 50.  Mutant, Hub  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # We've made a home for ourselves here, and we'll be damned if we just let you walk in and take it away from us.
+#
 #
 #  running away (6)
 #
@@ -4862,7 +5027,7 @@
 {5917}{}{Hope this hurts}
 {5918}{}{Never shoulda messed with us}
 {5919}{}{To the Glow w' you!}
-{5920}{}{Go to Hell!}
+{5920}{}{Go to hell!}
 {5921}{}{You're dead}
 #
 # target being missed
@@ -4934,8 +5099,11 @@
 {5960}{}{Urp!}
 {5961}{}{}
 
-# 51. Peasant, Junktown
+#
+# 51. Peasant, Junktown  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Wait a minute. I already pay to three different protection rackets. Be reasonable!
+#
 #
 #  running away
 #
@@ -4948,7 +5116,7 @@
 #
 # moving in to attack
 #
-{6006}{}{Wait til I get you...}
+{6006}{}{Wait 'til I get you...}
 {6007}{}{}
 {6008}{}{Hey you!}
 {6009}{}{We don't like your kind around here!}
@@ -4985,13 +5153,13 @@
 #
 # target hit in left arm
 #
-{6031}{}{Aggghhh! My arm}
+{6031}{}{Aggghhh! My arm!}
 {6032}{}{My arm!}
 {6033}{}{Oh man, that hurts!}
 #
 # target hit in right arm
 #
-{6034}{}{Aggghhh! My arm}
+{6034}{}{Aggghhh! My arm!}
 {6035}{}{My arm!}
 {6036}{}{}
 
@@ -5011,13 +5179,13 @@
 #
 # target hit in right leg
 #
-{6047}{}{Aggghhh! My leg}
+{6047}{}{Aggghhh! My leg!}
 {6048}{}{My leg!}
 {6049}{}{There goes my knee}
 #
 # target hit in left leg
 #
-{6050}{}{Aggghhh! My leg}
+{6050}{}{Aggghhh! My leg!}
 {6051}{}{My leg!}
 {6052}{}{There goes my knee}
 #
@@ -5036,8 +5204,11 @@
 {6060}{}{The pain, the pain...}
 {6061}{}{Damn, that hurts!}
 
-# 52. Guard, Junktown
+#
+# 52. Guard, Junktown  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # We don't need people making things worse than they already are.
+#
 #
 #  running away
 #
@@ -5055,7 +5226,7 @@
 {6108}{}{We don't like your kind around here!}
 {6109}{}{You need to learn some respect!}
 {6110}{}{Time to earn my pay...}
-{6111}{}{Wait til I get you...}
+{6111}{}{Wait 'til I get you...}
 #
 # attacking
 #
@@ -5067,7 +5238,7 @@
 {6117}{}{}
 {6118}{}{Let's see how tough you are...}
 {6119}{}{Punk}
-{6120}{}{}
+{6120}{}{Ride my bullet back to hell!}
 {6121}{}{I'm putting you away for good}
 #
 # target being missed
@@ -5087,13 +5258,13 @@
 #
 # target hit in left arm
 #
-{6131}{}{Ow, my arm}
+{6131}{}{Ow, my arm!}
 {6132}{}{You just made the biggest mistake of your life}
 {6133}{}{My arm!}
 #
 # target hit in right arm
 #
-{6134}{}{Ow, my arm}
+{6134}{}{Ow, my arm!}
 {6135}{}{You just made the biggest mistake of your life}
 {6136}{}{My arm!}
 #
@@ -5112,13 +5283,13 @@
 #
 # target hit in right leg
 #
-{6147}{}{Ow, my leg}
+{6147}{}{Ow, my leg!}
 {6148}{}{I don't need to stand to kill you!}
 {6149}{}{My knee!}
 #
 # target hit in left leg
 #
-{6150}{}{Ow, my leg}
+{6150}{}{Ow, my leg!}
 {6151}{}{I don't need to stand to kill you!}
 {6152}{}{My knee!}
 #
@@ -5137,8 +5308,11 @@
 {6160}{}{}
 {6161}{}{}
 
-# 53. Killian
+#
+# 53. Killian  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I ain't happy about killing you, but if you're set on causing trouble, push has gotta come to shove
+#
 #
 #  running away
 #
@@ -5188,13 +5362,13 @@
 #
 # target hit in left arm
 #
-{6231}{}{Ow, my arm}
+{6231}{}{Ow, my arm!}
 {6232}{}{You're beginning to piss me off}
 {6233}{}{My arm!}
 #
 # target hit in right arm
 #
-{6234}{}{Ow, my arm}
+{6234}{}{Ow, my arm!}
 {6235}{}{You're beginning to piss me off}
 {6236}{}{My arm!}
 #
@@ -5213,13 +5387,13 @@
 #
 # target hit in right leg
 #
-{6247}{}{Ow, my leg}
+{6247}{}{Ow, my leg!}
 {6248}{}{Nice shot. Wait 'til it's my turn}
 {6249}{}{My knee!}
 #
 # target hit in left leg
 #
-{6250}{}{Ow, my leg}
+{6250}{}{Ow, my leg!}
 {6251}{}{Nice shot. Wait 'til it's my turn}
 {6252}{}{My knee!}
 #
@@ -5238,22 +5412,25 @@
 {6260}{}{}
 {6261}{}{}
 
-# 54. Thug, Junktown
+#
+# 54. Thug, Junktown  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 #
 #  running away
+#
 {6300}{}{Gotta get outta here!}
 {6301}{}{I'll be back...}
 {6302}{}{You're gonna pay for what you've done!}
 {6303}{}{Later punk!}
 {6304}{}{You ain't heard the last of me!}
-{6305}{}{You'll pay for this -- later!}
+{6305}{}{You'll pay for this - later!}
 #
 # moving in to attack
 #
 {6306}{}{}
 {6307}{}{Fresh meat...}
 {6308}{}{I'm gonna dance on your grave}
-{6309}{}{}
+{6309}{}{Time to rip a clip...}
 {6310}{}{It's killing time!}
 {6311}{}{}
 #
@@ -5287,13 +5464,13 @@
 #
 # target hit in left arm
 #
-{6331}{}{Ow, my arm}
+{6331}{}{Ow, my arm!}
 {6332}{}{You broke my arm!}
 {6333}{}{}
 #
 # target hit in right arm
 #
-{6334}{}{Ow, my arm}
+{6334}{}{Ow, my arm!}
 {6335}{}{You broke my arm!}
 {6336}{}{}
 #
@@ -5312,20 +5489,20 @@
 #
 # target hit in right leg
 #
-{6347}{}{Ow, my leg}
+{6347}{}{Ow, my leg!}
 {6348}{}{You're gonna pay for that!}
 {6349}{}{Oh, my knee!}
 #
 # target hit in left leg
 #
-{6350}{}{Ow, my leg}
+{6350}{}{Ow, my leg!}
 {6351}{}{}
 {6352}{}{Oh, my knee}
 #
 # target hit in eyes
 #
 {6353}{}{Argh!}
-{6354}{}{My eyes.... Not my eyes...}
+{6354}{}{My eyes... Not my eyes...}
 {6355}{}{That was a real cheap shot!}
 #
 # target hit in groin
@@ -5337,9 +5514,12 @@
 {6360}{}{Urp!}
 {6361}{}{Ow! I'm gonna kill you for that!}
 
-# 55. Skulz_Gang
+#
+# 55. Skulz_Gang  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 #
 #  running away
+#
 {6400}{}{Gotta get outta here!}
 {6401}{}{I'll be back...}
 {6402}{}{Help!}
@@ -5354,7 +5534,7 @@
 {6408}{}{Welcome to Junktown. Nice place for your grave!}
 {6409}{}{Skulz! Attack!}
 {6410}{}{It's killing time!}
-{6411}{}{}
+{6411}{}{Time to rip a clip...}
 #
 # attacking (10)
 #
@@ -5364,7 +5544,7 @@
 {6415}{}{}
 {6416}{}{Gonna feed you to the dogs}
 {6417}{}{Nobody's taking Junktown away from us}
-{6418}{}{Hope you don't die too quick}
+{6418}{}{Hope you don't die too quickly.}
 {6419}{}{}
 {6420}{}{Die!}
 {6421}{}{}
@@ -5386,13 +5566,13 @@
 #
 # target hit in left arm
 #
-{6431}{}{Ow, my arm}
+{6431}{}{Ow, my arm!}
 {6432}{}{You broke my arm!}
 {6433}{}{My arm! My arm!}
 #
 # target hit in right arm
 #
-{6434}{}{Ow, my arm}
+{6434}{}{Ow, my arm!}
 {6435}{}{You broke my arm!}
 {6436}{}{My arm! My arm!}
 #
@@ -5400,8 +5580,8 @@
 #
 {6437}{}{Man! That really hurt!}
 {6438}{}{Oof! You gonna regret that}
-{6439}{}{Gasp}
-{6440}{}{Gasp! Need... air...}
+{6439}{}{[Gasp]}
+{6440}{}{[Gasp!] Need... air...}
 {6441}{}{I'm gonna spit on your corpse, you skag!}
 {6442}{}{Damn!}
 {6443}{}{Oof!}
@@ -5411,20 +5591,20 @@
 #
 # target hit in right leg
 #
-{6447}{}{Ow, my leg}
+{6447}{}{Ow, my leg!}
 {6448}{}{Nobody's making me into a gimp!}
 {6449}{}{Oh, my knee!}
 #
 # target hit in left leg
 #
-{6450}{}{Ow, my leg}
+{6450}{}{Ow, my leg!}
 {6451}{}{Nobody's making me into a gimp!}
 {6452}{}{Oh, my knee}
 #
 # target hit in eyes
 #
 {6453}{}{Argh! My eyes!}
-{6454}{}{My eyes.... Not my eyes...}
+{6454}{}{My eyes... Not my eyes...}
 {6455}{}{}
 #
 # target hit in groin
@@ -5436,9 +5616,12 @@
 {6460}{}{Urp!}
 {6461}{}{Ow! I'm gonna kill you for that!}
 
-# 56. Gizmo
+#
+# 56. Gizmo  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 #
 #  running away
+#
 #{6500}{}{Gotta get outta here!}
 #{6501}{}{I'll be back...}
 #{6502}{}{Help!}
@@ -5463,7 +5646,7 @@
 {6515}{}{Oooo, that's gotta hurt!}
 {6516}{}{You messed with the wrong man}
 {6517}{}{Nobody's taking Junktown away from me}
-{6518}{}{Hope you don't die too quick}
+{6518}{}{Hope you don't die too quickly.}
 {6519}{}{I'm gonna tear you limb from limb!}
 {6520}{}{You is dead!}
 {6521}{}{Try this on for size!}
@@ -5471,7 +5654,7 @@
 # target being missed (6)
 #
 {6522}{}{That's real pathetic}
-{6523}{}{You need better combat chems}
+{6523}{}{You could really use some Buffout}
 {6524}{}{You're an even bigger loser than Killian}
 {6525}{}{}
 {6526}{}{That was your last shot!}
@@ -5485,13 +5668,13 @@
 #
 # target hit in left arm
 #
-{6531}{}{You dirty rad-scorpion kissing...}
+{6531}{}{You dirty radscorpion kissing...}
 {6532}{}{You broke my arm!}
 {6533}{}{My arm! My arm!}
 #
 # target hit in right arm
 #
-{6534}{}{You dirty rad-scorpion kissing...}
+{6534}{}{You dirty radscorpion kissing...}
 {6535}{}{You broke my arm!}
 {6536}{}{My arm! My arm!}
 #
@@ -5510,20 +5693,20 @@
 #
 # target hit in right leg
 #
-{6547}{}{Ow, my leg}
+{6547}{}{Ow, my leg!}
 {6548}{}{I can... barely... stand...}
 {6549}{}{Oh, my knee!}
 #
 # target hit in left leg
 #
-{6550}{}{Ow, my leg}
+{6550}{}{Ow, my leg!}
 {6551}{}{I can... barely... stand...}
 {6552}{}{Oh, my knee}
 #
 # target hit in eyes
 #
 {6553}{}{Uggh! Noooo!}
-{6554}{}{My eyes.... Not my eyes...}
+{6554}{}{My eyes... Not my eyes...}
 {6555}{}{}
 #
 # target hit in groin
@@ -5535,8 +5718,11 @@
 {6560}{}{Urp!}
 {6561}{}{Ow! I'm gonna kill you for that!}
 
-# 57. Sellbabies
+#
+# 57. Sellbabies  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Attacking a defenseless woman? Eat my Uzi, you son of a bitch!
+#
 #
 #  running away
 #
@@ -5586,13 +5772,13 @@
 #
 # target hit in left arm
 #
-{6631}{}{Ow, my arm}
+{6631}{}{Ow, my arm!}
 {6632}{}{You're trying to cripple me!}
 {6633}{}{My arm!}
 #
 # target hit in right arm
 #
-{6634}{}{Ow, my arm}
+{6634}{}{Ow, my arm!}
 {6635}{}{You're trying to cripple me!}
 {6636}{}{You broke my arm!}
 #
@@ -5606,8 +5792,8 @@
 {6642}{}{Ow!!}
 {6643}{}{Ouch!}
 {6644}{}{Ow! You little piece of ...}
-{6645}{}{&*$#@!}
-{6646}{}{#$#@! You little worm!}
+{6645}{}{AH! Fuck!}
+{6646}{}{Dammit! You little worm!}
 #
 # target hit in right leg
 #
@@ -5617,7 +5803,7 @@
 #
 # target hit in left leg
 #
-{6650}{}{Ow, my leg}
+{6650}{}{Ow, my leg!}
 {6651}{}{My knee!}
 {6652}{}{}
 #
@@ -5636,8 +5822,11 @@
 {6660}{}{You slime!}
 {6661}{}{You animal!}
 
-# 58. Brotherhood_Initiate
+#
+# 58. Brotherhood_Initiate  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # This is a chance to prove myself!
+#
 #
 #  running away
 #
@@ -5668,7 +5857,7 @@
 {6718}{}{}
 {6719}{}{Let's see how you like this!}
 {6720}{}{}
-{6721}{}{See you in Hell}
+{6721}{}{See you in hell}
 #
 # target being missed
 #
@@ -5712,13 +5901,13 @@
 #
 # target hit in right leg
 #
-{6747}{}{Ow, my leg}
+{6747}{}{Ow, my leg!}
 {6748}{}{You're gonna pay big time for that!}
 {6749}{}{You are not crippling me. Ow...}
 #
 # target hit in left leg
 #
-{6750}{}{Ow, my leg}
+{6750}{}{Ow, my leg!}
 {6751}{}{You're gonna pay big time for that!}
 {6752}{}{You are not crippling me.}
 #
@@ -5726,7 +5915,7 @@
 #
 {6753}{}{I am blind!}
 {6754}{}{My eyes are burning!}
-{6755}{}{I can not see!}
+{6755}{}{I can't see!}
 #
 # target hit in groin
 #
@@ -5737,8 +5926,11 @@
 {6760}{}{I'll get you for that!}
 {6761}{}{You punk...}
 
-# 59. Brotherhood_Scribe
+#
+# 59. Brotherhood_Scribe  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I'm no Knight, but I can defend myself
+#
 #
 #  running away
 #
@@ -5747,7 +5939,7 @@
 {6802}{}{Pull back}
 {6803}{}{Retreat!}
 {6804}{}{Fall back!}
-{6805}{}{I can not stay in this one any longer}
+{6805}{}{I can't stay in this one any longer}
 #
 # moving in to attack
 #
@@ -5778,7 +5970,7 @@
 {6824}{}{You stupid little fool}
 {6825}{}{That was pathetic}
 {6826}{}{You insult me with your incompetence}
-{6827}{}{You can not touch the Brotherhood}
+{6827}{}{You cannot touch the Brotherhood}
 #
 # target hit in head (3)
 #
@@ -5789,13 +5981,13 @@
 # target hit in left arm
 #
 {6831}{}{That sounds like a compound fracture}
-{6832}{}{Ooo, my arm}
+{6832}{}{Ooo, my arm!}
 {6833}{}{My arm just went numb}
 #
 # target hit in right arm
 #
 {6834}{}{That sounds like a compound fracture}
-{6835}{}{Ooo, my arm}
+{6835}{}{Ooo, my arm!}
 {6836}{}{My arm just went numb}
 #
 # target hit in torso
@@ -5813,13 +6005,13 @@
 #
 # target hit in right leg
 #
-{6847}{}{Ow, my leg}
+{6847}{}{Ow, my leg!}
 {6848}{}{Ooo, my knee!}
 {6849}{}{Ow}
 #
 # target hit in left leg
 #
-{6850}{}{Ow, my leg}
+{6850}{}{Ow, my leg!}
 {6851}{}{Ooo, my knee}
 {6852}{}{Ow...}
 #
@@ -5838,8 +6030,11 @@
 {6860}{}{I am hurt here! I need help!}
 {6861}{}{That hurt...}
 
-# 60. Brotherhood_Knight
-# I don't need to be a paladin to take care of you
+#
+# 60. Brotherhood_Knight  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I don't need to be a Paladin to take care of you
+#
 #
 #  running away
 #
@@ -5914,13 +6109,13 @@
 #
 # target hit in right leg
 #
-{6947}{}{Ow, my leg}
+{6947}{}{Ow, my leg!}
 {6948}{}{}
 {6949}{}{Ow}
 #
 # target hit in left leg
 #
-{6950}{}{Ow, my leg}
+{6950}{}{Ow, my leg!}
 {6951}{}{}
 {6952}{}{Ow...}
 #
@@ -5939,8 +6134,11 @@
 {6960}{}{Let's keep this fair}
 {6961}{}{That hurt...}
 
-# 61. Brotherhood_Paladin
+#
+# 61. Brotherhood_Paladin  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # We are the Elite.
+#
 #
 #  running away
 #
@@ -6040,8 +6238,11 @@
 {7060}{}{Time to take this punk apart}
 {7061}{}{Not another cheap shot artist}
 
-# 62. Brotherhood_Elders
+#
+# 62. Brotherhood_Elders  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Insolent pup. Why do you bother us with idle chatter when there are enemies to fight
+#
 #
 #  running away
 #
@@ -6110,7 +6311,7 @@
 {7141}{}{Oof! The Brotherhood will prevail!}
 {7142}{}{Oof! The Brotherhood will revenge me if I die!}
 {7143}{}{Oof!}
-{7144}{}{Gasp!}
+{7144}{}{[Gasp!]}
 {7145}{}{That hurt!}
 {7146}{}{You will feel that wrath of the Brotherhood for that!}
 #
@@ -6141,7 +6342,9 @@
 {7160}{}{Time to take this fool apart}
 {7161}{}{Not another cheap shot artist}
 
-# 63. Brotherhood_Rhombus
+#
+# 63. Brotherhood_Rhombus  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 #
 #  running away
 #
@@ -6241,17 +6444,20 @@
 {7260}{}{Time to take this fool apart}
 {7261}{}{I would expect from some one like you}
 
-# 64. Children, Morpheus
+#
+# 64. Children, Morpheus  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # You actually expect to kill me?
+#
 #
 #  running away (6)
 #
 {7300}{}{This has been droll, but I must go.}
 {7301}{}{This battle is meaningless. Farewell, fool!}
 {7302}{}{I will waste no more time with you}
-{7303}{}{I have better things to do then to soil my hands with you!}
+{7303}{}{I have better things to do than to soil my hands with you!}
 {7304}{}{I'll let the Nightkin deal with you}
-{7305}{}{Good-bye fool. You will not survive to meet me again}
+{7305}{}{Goodbye, fool. You will not survive to meet me again}
 #
 # moving in to attack
 #
@@ -6265,14 +6471,14 @@
 # attacking
 #
 {7312}{}{Take this!}
-{7313}{}{I anoint you with holy flame!}
+{7313}{}{I anoint you with Holy Flame!}
 {7314}{}{This is how I deal with animals}
 {7315}{}{You unspeakable little savage!}
 {7316}{}{I will hear you scream!}
 {7317}{}{This is only the beginning of your agony!}
 {7318}{}{I am Morpheus, and I wield a black staff!}
 {7319}{}{You shall burn!}
-{7320}{}{I am Morpheus, master of Death!}
+{7320}{}{I am Morpheus, Master of Death!}
 {7321}{}{I cast you out and end your life}
 #
 # target being missed
@@ -6311,7 +6517,7 @@
 {7341}{}{Ow!}
 {7342}{}{Ouch!}
 {7343}{}{Oof!}
-{7344}{}{Gasp!}
+{7344}{}{[Gasp!]}
 {7345}{}{Oh, that hurt!}
 {7346}{}{My minions will cause you serious pain for that!}
 #
@@ -6343,15 +6549,18 @@
 {7360}{}{Your death will be especially painful now!}
 {7361}{}{How dare you attack the loins of Morpheus!}
 
-# 65. Children, Lasher
+#
+# 65. Children, Lasher  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Child, you must be disciplined
+#
 #
 #  running away (6)
 #
 {7400}{}{Child, you have been punished enough. Away with you}
 {7401}{}{You should not resist me child. We will work on that.}
 {7402}{}{I will waste no more time with you}
-{7403}{}{I have better things to do then to soil my hands with you!}
+{7403}{}{I have better things to do than to soil my hands with you!}
 {7404}{}{I'll let the Nightkin deal with you}
 {7405}{}{I shall punish you again later}
 #
@@ -6367,7 +6576,7 @@
 # attacking
 #
 {7412}{}{Feel my lash, and be cleansed!}
-{7413}{}{I anoint you with holy flame!}
+{7413}{}{I anoint you with Holy Flame!}
 {7414}{}{You are a wicked creature! Admit it!}
 {7415}{}{You deserve punishment! Admit it!}
 {7416}{}{Scream child! In pain there is redemption!}
@@ -6407,11 +6616,11 @@
 # target hit in torso
 #
 {7437}{}{After pain, there is forgiveness, child.}
-{7438}{}{I understand pain.  Do you?}
+{7438}{}{I understand pain. Do you?}
 {7439}{}{I may feel your blows, but the pain does not matter}
 {7440}{}{Do that again, I like your touch}
 {7441}{}{The Master gives me the will to survive}
-{7442}{}{Gasp! You are but a child}
+{7442}{}{[Gasp!] You are but a child}
 {7443}{}{My body is but a shell}
 {7444}{}{You cannot stop the Unity}
 {7445}{}{I feel your pain, child}
@@ -6445,8 +6654,11 @@
 {7460}{}{Even in battle, you betray a decadent nature}
 {7461}{}{Your sins shall be multiplied on you tenfold, child!}
 
-# 66. Hub, Jain
+#
+# 66. Hub, Jain  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Blasphemers must die!
+#
 #
 #  running away (6)
 #
@@ -6548,10 +6760,14 @@
 {7560}{}{Even in battle, you betray a decadent nature}
 {7561}{}{Your sins shall be multiplied on you tenfold, child!}
 
-# 67. Hub, Underground
+#
+# 67. Hub, Underground  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # You don't understand what you're messing with
 #
+#
 #  running away
+#
 {7600}{}{This isn't worth my time}
 {7601}{}{I ain't got time to die!}
 {7602}{}{You're gonna pay for what you've done!}
@@ -6566,7 +6782,7 @@
 {7608}{}{I'm gonna dance on your grave}
 {7609}{}{You just bought yourself a home six feet under!}
 {7610}{}{When I'm done with you, the rats will clean you up!}
-{7611}{}{Your life means nothn' to me}
+{7611}{}{Your life means nothin' to me}
 #
 # attacking (10)
 #
@@ -6598,13 +6814,13 @@
 #
 # target hit in left arm
 #
-{7631}{}{Ow, my arm}
+{7631}{}{Ow, my arm!}
 {7632}{}{You broke my arm!}
 {7633}{}{I didn't need that}
 #
 # target hit in right arm
 #
-{7634}{}{Ow, my arm}
+{7634}{}{Ow, my arm!}
 {7635}{}{You broke my arm!}
 {7636}{}{My good arm!}
 #
@@ -6614,7 +6830,7 @@
 {7638}{}{That hurt!}
 {7639}{}{Go on, try that again!}
 {7640}{}{Oof!}
-{7641}{}{Gasp!}
+{7641}{}{[Gasp!]}
 {7642}{}{Ow, bugger all!}
 {7643}{}{Ah, oof!}
 {7644}{}{Ouch!}
@@ -6623,20 +6839,20 @@
 #
 # target hit in right leg
 #
-{7647}{}{Ow, my leg}
+{7647}{}{Ow, my leg!}
 {7648}{}{You're gonna pay big time for that!}
 {7649}{}{Oh, my knee!}
 #
 # target hit in left leg
 #
-{7650}{}{Ow, my leg}
+{7650}{}{Ow, my leg!}
 {7651}{}{You're gonna pay big time for that!}
 {7652}{}{Oh, my knee}
 #
 # target hit in eyes
 #
 {7653}{}{Argh! My retina!}
-{7654}{}{My eyes.... Not my eyes...}
+{7654}{}{My eyes... Not my eyes...}
 {7655}{}{That was a real cheap shot!}
 #
 # target hit in groin
@@ -6648,8 +6864,11 @@
 {7660}{}{Urp!}
 {7661}{}{Ow! I'm gonna kill you for that!}
 
-# 68. Hub, Police
+#
+# 68. Hub, Police  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # You're under arrest! I love saying that!
+#
 #
 #  running away
 #
@@ -6666,7 +6885,7 @@
 {7707}{}{Somebody's got big problems}
 {7708}{}{We don't like your kind around here!}
 {7709}{}{Who do you think you are?}
-{7710}{}{}
+{7710}{}{Time to rip a clip...}
 {7711}{}{Hub Police!}
 #
 # attacking
@@ -6699,13 +6918,13 @@
 #
 # target hit in left arm
 #
-{7731}{}{Ow, my arm}
+{7731}{}{Ow, my arm!}
 {7732}{}{Damn. My arm's busted!}
 {7733}{}{My arm!}
 #
 # target hit in right arm
 #
-{7734}{}{Ow, my arm}
+{7734}{}{Ow, my arm!}
 {7735}{}{Damn. My arm's busted!}
 {7736}{}{My arm!}
 #
@@ -6724,13 +6943,13 @@
 #
 # target hit in right leg
 #
-{7747}{}{Ow, my leg}
+{7747}{}{Ow, my leg!}
 {7748}{}{You're gonna pay big time for that!}
 {7749}{}{My knee!}
 #
 # target hit in left leg
 #
-{7750}{}{Ow, my leg}
+{7750}{}{Ow, my leg!}
 {7751}{}{You're gonna pay big time for that!}
 {7752}{}{My knee!}
 #
@@ -6749,9 +6968,12 @@
 {7760}{}{Now you're getting personal!}
 {7761}{}{Dammit, that hurt}
 
-# 69. Decker
+#
+# 69. Decker  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 #
 #  running away
+#
 {7800}{}{This isn't over. Not by a long shot!}
 {7801}{}{I'll be back...}
 {7802}{}{You're dead. Do you hear me, dead!}
@@ -6765,7 +6987,7 @@
 {7807}{}{You should never have crossed me, punk}
 {7808}{}{You need a new attitude, punk}
 {7809}{}{You're a mistake that I mean to correct}
-{7810}{}{You're on the express train to Hell, punk}
+{7810}{}{You're on the express train to hell, punk}
 {7811}{}{That's it, someone's dying}
 #
 # attacking (10)
@@ -6776,7 +6998,7 @@
 {7815}{}{This is gonna hurt!}
 {7816}{}{You messed with the wrong man}
 {7817}{}{Nobody's taking the Hub away from me}
-{7818}{}{Hope you don't die too quick}
+{7818}{}{Hope you don't die too quickly.}
 {7819}{}{Nobody messes with Decker!}
 {7820}{}{Die!}
 {7821}{}{Try this on for size!}
@@ -6798,13 +7020,13 @@
 #
 # target hit in left arm
 #
-{7831}{}{You dirty rad-scorpion kissing...}
+{7831}{}{You dirty radscorpion-kissing...}
 {7832}{}{You broke my arm!}
 {7833}{}{My arm! My arm!}
 #
 # target hit in right arm
 #
-{7834}{}{You dirty rad-scorpion kissing...}
+{7834}{}{You dirty radscorpion kissing...}
 {7835}{}{You broke my arm!}
 {7836}{}{My arm! My arm!}
 #
@@ -6812,31 +7034,31 @@
 #
 {7837}{}{You're an underhanded SOB, you know that?}
 {7838}{}{Oof! My ribs are going to ache for days!}
-{7839}{}{Ow! Whadda think I am, a punching bag?}
+{7839}{}{Ow! Whaddaya think I am, a punching bag?}
 {7840}{}{Oof!}
 {7841}{}{Ow!}
 {7842}{}{Don't be messing with me like that, I won't take it}
 {7843}{}{Oof! You had your chance to deal, and you blew it!}
 {7844}{}{Ow! That was most unpleasant}
 {7845}{}{Oof! I'm going remember that...}
-{7846}{}{Gasp! I... outta... air...}
+{7846}{}{[gasp!] I... outta... air...}
 #
 # target hit in right leg
 #
-{7847}{}{Ow, my leg}
-{7848}{}{Ooo.... You punk!}
+{7847}{}{Ow, my leg!}
+{7848}{}{Ooo... You punk!}
 {7849}{}{Oh, my knee!}
 #
 # target hit in left leg
 #
-{7850}{}{Ow, my leg}
-{7851}{}{Ooo.... You punk!}
+{7850}{}{Ow, my leg!}
+{7851}{}{Ooo... You punk!}
 {7852}{}{Oh, my knee}
 #
 # target hit in eyes
 #
 {7853}{}{Blood. All this blood...}
-{7854}{}{My eyes.... Not my eyes...}
+{7854}{}{My eyes... Not my eyes...}
 {7855}{}{That was a real cheap shot!}
 #
 # target hit in groin
@@ -6848,10 +7070,14 @@
 {7860}{}{Urp!}
 {7861}{}{Ow! I'm gonna kill you for that!}
 
-# 70. Cain
+#
+# 70. Kane ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Mr. Decker says you're a problem.
 #
+#
 #  running away
+#
 {7900}{}{This isn't over. Not by a long shot!}
 {7901}{}{I'll be back...}
 {7902}{}{You're dead. Do you hear me, dead!}
@@ -6865,7 +7091,7 @@
 {7907}{}{You should never have crossed Mr. Decker}
 {7908}{}{I'm going to change your attitude}
 {7909}{}{Mr. Decker doesn't like you}
-{7910}{}{You're on the express train to Hell}
+{7910}{}{You're on the express train to hell}
 {7911}{}{That's it, someone's dying}
 #
 # attacking (10)
@@ -6912,7 +7138,7 @@
 #
 {7937}{}{Oof! No punk like you is going to take me down...}
 {7938}{}{Oof! My ribs!}
-{7939}{}{Ow! Whatta some kinda smuzzle or something?}
+{7939}{}{Ow! I'm gonna fuck you up}
 {7940}{}{Ha! I've got bigger bruises from working out!}
 {7941}{}{Oof! You punks are all alike...}
 {7942}{}{Gulp! Gotta... breathe...}
@@ -6923,20 +7149,20 @@
 #
 # target hit in right leg
 #
-{7947}{}{Ow, my leg}
-{7948}{}{Oooo....}
+{7947}{}{Ow, my leg!}
+{7948}{}{Oooo...}
 {7949}{}{Oh, my knee!}
 #
 # target hit in left leg
 #
-{7950}{}{Ow, my leg}
-{7951}{}{Oooo....}
+{7950}{}{Ow, my leg!}
+{7951}{}{Oooo...}
 {7952}{}{Oh, my knee}
 #
 # target hit in eyes
 #
 {7953}{}{Blood. All this blood...}
-{7954}{}{My eyes....}
+{7954}{}{My eyes...}
 {7955}{}{That was a real cheap shot!}
 #
 # target hit in groin
@@ -6948,8 +7174,11 @@
 {7960}{}{Urp!}
 {7961}{}{Ow! I don't think I like you}
 
-# 71. Little Kids
+#
+# 71. Little Kids  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Mommy!
+#
 #
 #  running away
 #
@@ -6971,21 +7200,21 @@
 #
 # attacking
 #
-{8012}{}{Rad scorpion head!}
+{8012}{}{Radscorpion head!}
 {8013}{}{I'm gonna kill you!}
 {8014}{}{Mutant loser!}
 {8015}{}{Glow Baby Loser! Glow Baby Loser!}
 {8016}{}{Die, ugly!}
-{8017}{}{Your Momma was a mole-rat!}
+{8017}{}{Your momma was a mole rat!}
 {8018}{}{Worm ridden Glow Baby!}
 {8019}{}{I'm gonna make you ugly!}
 {8020}{}{I hate you!}
-{8021}{}{Rad scorpion lover! You sleep with rad scorpions!}
+{8021}{}{Radscorpion lover! You sleep with radscorpions!}
 #
 # target being missed
 #
 {8022}{}{Your Mamma was a Glow Baby!}
-{8023}{}{You can't touch me, rad scorpion brain!}
+{8023}{}{You can't touch me, radscorpion brain!}
 {8024}{}{You can't even beat up a kid}
 {8025}{}{Loser!}
 {8026}{}{Missed me, radiation brain!}
@@ -6999,13 +7228,13 @@
 #
 # target hit in left arm
 #
-{8031}{}{Ow, my arm}
+{8031}{}{Ow, my arm!}
 {8032}{}{Oooo, that hurts...}
 {8033}{}{You broke my arm! Daddy!}
 #
 # target hit in right arm
 #
-{8034}{}{Ow, my arm}
+{8034}{}{Ow, my arm!}
 {8035}{}{Oooo, that hurts}
 {8036}{}{You broke my arm! Daddy!}
 #
@@ -7024,13 +7253,13 @@
 #
 # target hit in right leg
 #
-{8047}{}{Ow, my leg}
+{8047}{}{Ow, my leg!}
 {8048}{}{My knee!}
 {8049}{}{You broke my leg! Daddy!}
 #
 # target hit in left leg
 #
-{8050}{}{Ow, my leg}
+{8050}{}{Ow, my leg!}
 {8051}{}{My knee!}
 {8052}{}{You broke my leg! Daddy!}
 #
@@ -7049,8 +7278,11 @@
 {8060}{}{Ooooo...}
 {8061}{}{The pain, the pain...}
 
-# 72. Robots
+#
+# 72. Robots  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Target acquired
+#
 #
 #  running away
 #
@@ -7147,8 +7379,11 @@
 {8157}{}{Regulator damage! Regulation impaired!}
 {8158}{}{Regulator damaged! Rerouting critical system!}
 
-# 73. Marcelles
+#
+# 73. Marcelles  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Nobody trashes my place and gets away with it!
+#
 #
 #  running away
 #
@@ -7198,13 +7433,13 @@
 #
 # target hit in left arm
 #
-{8231}{}{Ow, my arm}
+{8231}{}{Ow, my arm!}
 {8232}{}{You can cripple me, but I'll still kick your butt}
 {8233}{}{That was a mistake}
 #
 # target hit in right arm
 #
-{8234}{}{Ow, my arm}
+{8234}{}{Ow, my arm!}
 {8235}{}{You can cripple me, but I'll still kick your butt}
 {8236}{}{That was a mistake}
 #
@@ -7248,16 +7483,19 @@
 {8260}{}{You're messing with the wrong lady}
 {8261}{}{Urp!}
 
-# 74. Rats
+#
+# 74. Rats  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # Squeak!
+#
 #
 #  running away
 #
-{8300}{}{Squeak!}
+{8300}{}{Squeak!!}
 #
 # target being missed
 #
-{8301}{}{Squeak!!}
+{8301}{}{Squeak!}
 #
 # target hit in torso
 #
@@ -7267,8 +7505,11 @@
 #
 {8303}{}{squeak}
 
-# 75. Ian
+#
+# 75. Ian  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # former caravan guard
+#
 #
 #  running away
 #
@@ -7312,7 +7553,7 @@
 #
 {8417}{}{Oof!}
 {8418}{}{Argh!}
-{8419}{}{You'll pay for that . . .}
+{8419}{}{You'll pay for that...}
 {8420}{}{C'mon, try that again!}
 #
 # target hit in right leg
@@ -7332,10 +7573,13 @@
 #
 # target hit in groin
 #
-{8427}{}{Oooohhh . . .}
+{8427}{}{Oooohhh...}
 
-# 76. Tycho
-# Desert ranger
+#
+# 76. Tycho  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Desert Ranger
+#
 #
 #  running away
 #
@@ -7361,13 +7605,13 @@
 #
 {8508}{}{Ow. Good shot.}
 {8509}{}{Ugh.}
-{8510}{}{Lost another piece of my ear . . .}
-{8511}{}{Dammit, there goes another tooth . . .}
+{8510}{}{Lost another piece of my ear...}
+{8511}{}{Dammit, there goes another tooth...}
 #
 # target hit in left arm
 #
 {8512}{}{Ugh.}
-{8513}{}{Didn't need that arm anyways.}
+{8513}{}{Didn't need that arm anyway.}
 #
 # target hit in right arm
 #
@@ -7398,16 +7642,19 @@
 # target hit in groin
 #
 {8525}{}{Ugh! Lay off!}
-{8526}{}{Oh, my balls . . .}
+{8526}{}{Oh, my balls...}
 {8527}{}{Now THAT hurt.}
 
-# 77. Vault Dwellers
+#
+# 77. Vault-Dwellers  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # We just want to live in peace - and, oh, why did you come back?
+#
 #
 #  running away
 #
-{8600}{}{Gotta get away}
-{8601}{}{I'm out of this fight}
+{8600}{}{Why are you doing this?!}
+{8601}{}{Please don't, I'm unarmed!}
 {8602}{}{What happened to you?}
 {8603}{}{Somebody help me!}
 {8604}{}{This is way out of my league}
@@ -7427,7 +7674,7 @@
 {8612}{}{You should never have come back}
 {8613}{}{And to think that we used to be friends!}
 {8614}{}{I wish you had never gone to the surface}
-{8615}{}{Hello, old friend}
+{8615}{}{Hello, old friend. Time to die.}
 {8616}{}{I'm putting you out of your misery}
 {8617}{}{I'm putting you out of my misery}
 {8618}{}{This gives me no pleasure}
@@ -7440,7 +7687,7 @@
 {8622}{}{I could that one coming}
 {8623}{}{You fought better when we were kids}
 {8624}{}{Your aim hasn't improved}
-{8625}{}{You still take a step back everytime you try that move}
+{8625}{}{You still take a step back every time you try that move}
 {8626}{}{You never could beat me}
 {8627}{}{How'd they ever chose you to go out into the surface?}
 #
@@ -7502,8 +7749,11 @@
 {8660}{}{You always were the dirtiest fighter in the Vault}
 {8661}{}{You dirty little cave rat!}
 
-# 78. Garl during Honor Fight
+#
+# 78. Garl during Honor Fight  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
 # I'm fighting you over Tandi.  I shall triumph, unless you win!
+#
 #
 #  running away
 #
@@ -7517,90 +7767,168 @@
 # moving in to attack
 #
 {8706}{}{Let the fight of honor begin!}
-{8707}{}{}
-{8708}{}{}
-{8709}{}{This one's mine!}
-{8710}{}{Khans attack!}
-{8711}{}{}
+{8707}{}{Let the fight of honor begin!}
+{8708}{}{Let the fight of honor begin!}
+{8709}{}{Let the fight of honor begin!}
+{8710}{}{Let the fight of honor begin!}
+{8711}{}{Let the fight of honor begin!}
 #
 # attacking (10)
 #
-{8712}{}{}
-{8713}{}{}
+{8712}{}{You are mine to kill!}
+{8713}{}{Blood! Blood! Blood!}
 {8714}{}{I am supreme!}
 {8715}{}{RAAAAAAARRRR!!}
-{8716}{}{}
-{8717}{}{}
+{8716}{}{Khans are invincible!}
+{8717}{}{No retreat! No surrender!}
 {8718}{}{You are mine to kill!}
-{8719}{}{}
-{8720}{}{}
-{8721}{}{}
+{8719}{}{I am supreme!}
+{8720}{}{Blood and darkness!}
+{8721}{}{Khans are the strong!}
 #
 # target being missed (6)
 #
-{8722}{}{}
-{8723}{}{}
-{8724}{}{}
+{8722}{}{Ahahaha, try again!}
+{8723}{}{I cannot be touched!}
+{8724}{}{I am indestructible!}
 {8725}{}{My honor is stronger than yours!}
-{8726}{}{}
+{8726}{}{My honor is stronger than yours!}
 {8727}{}{You are not worthy of combat with me!}
 #
 # target hit in head (3)
 #
 {8728}{}{A worthy blow!}
-{8729}{}{}
-{8730}{}{}
+{8729}{}{That was your last attack!}
+{8730}{}{A pitiful attempt!}
 #
 # target hit in left arm
 #
-{8731}{}{}
+{8731}{}{I can still beat you with one arm!}
 {8732}{}{You broke my arm! Now the fight is fair!}
-{8733}{}{}
+{8733}{}{You broke my arm! Now the fight is fair!}
 #
 # target hit in right arm
 #
-{8734}{}{}
+{8734}{}{I can still beat you with one arm!}
 {8735}{}{You broke my arm! Now the fight is fair!}
-{8736}{}{}
+{8736}{}{You broke my arm! Now the fight is fair!}
 #
 # target hit in torso
 #
-{8737}{}{}
-{8738}{}{}
-{8739}{}{}
+{8737}{}{Your death will be legendary for that!}
+{8738}{}{I will feast on your eyes for that!}
+{8739}{}{I am indestructible!}
 {8740}{}{Oof!}
-{8741}{}{Ouch!}
-{8742}{}{}
-{8743}{}{}
-{8744}{}{}
-{8745}{}{}
+{8741}{}{My honor is stronger than yours!}
+{8742}{}{RAAAAAAARRRR!!}
+{8743}{}{My ribs hurt. Soon I will remove yours! It's only fair}
+{8744}{}{My ribs hurt. Soon I will remove yours! It's only fair}
+{8745}{}{I am indestructible!}
 {8746}{}{Argh! That hurt!}
 
 #
 # target hit in right leg
 #
-{8747}{}{}
+{8747}{}{I do not need to stand to kill you!}
 {8748}{}{That was a cheap blow!}
-{8749}{}{}
+{8749}{}{My leg! I will remove yours with my fists!}
 #
 # target hit in left leg
 #
-{8750}{}{}
+{8750}{}{I do not need to stand to kill you!}
 {8751}{}{That was a cheap blow!}
-{8752}{}{}
+{8752}{}{My leg! I will remove yours with my fists!}
 #
 # target hit in eyes
 #
-{8753}{}{}
-{8754}{}{}
+{8753}{}{My eye! You will die slowly for that!}
+{8754}{}{My eyes! I will trade my vision for your death!}
 {8755}{}{That was not honorable!}
 #
 # target hit in groin
 #
-{8756}{}{Oooooo, my groin!}
-{8757}{}{}
-{8758}{}{}
-{8759}{}{}
-{8760}{}{Urp!}
+{8756}{}{Ooo! I will mutilate you...}
+{8757}{}{Ooo! I will mutilate you...}
+{8758}{}{Ooo! You... will... suffer...}
+{8759}{}{Ooo! You... will... suffer...}
+{8760}{}{You will not steal my manhood!}
 {8761}{}{You will not steal my manhood!}
+
+#
+# 79. Cow  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Bovine Brahmas! Moo, I say!
+#
+#
+#  running away
+#
+{8762}{}{}
+{8763}{}{}
+{8764}{}{}
+#
+# moving in to attack
+#
+{8765}{}{}
+{8766}{}{}
+{8767}{}{}
+#
+# attacking
+#
+{8768}{}{}
+{8769}{}{}
+{8770}{}{}
+#
+# target being missed
+#
+{8771}{}{}
+{8772}{}{}
+{8773}{}{}
+#
+# target hit in head
+#
+{8774}{}{[snort]}
+{8775}{}{}
+{8776}{}{[grunt]}
+#
+# target hit in left arm
+#
+{8777}{}{[snort]}
+{8778}{}{}
+{8779}{}{[grunt]}
+#
+# target hit in right arm
+#
+{8780}{}{[snort]}
+{8781}{}{}
+{8782}{}{[grunt]}
+#
+# target hit in torso
+#
+{8783}{}{[snort]}
+{8784}{}{}
+{8785}{}{[grunt]}
+#
+# target hit in right leg
+#
+{8786}{}{[snort]}
+{8787}{}{}
+{8788}{}{[grunt]}
+#
+# target hit in left leg
+#
+{8789}{}{[snort]}
+{8790}{}{}
+{8791}{}{[grunt]}
+#
+# target hit in eyes
+#
+{8792}{}{[snort]}
+{8793}{}{}
+{8794}{}{[grunt]}
+#
+# target hit in groin
+#
+{8795}{}{[snort]}
+{8796}{}{}
+{8797}{}{[grunt]}
 

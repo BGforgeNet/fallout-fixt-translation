@@ -1,3 +1,7 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
 {100}{}{Burning Metal Barrel}
 {101}{}{The barrel contains burning paper and other flaming refuse.}
 {200}{}{Wooden Door}
@@ -10,7 +14,7 @@
 {501}{}{An old barrel, made from steel.}
 {600}{}{Metal Barrel}
 {601}{}{An old barrel, made from steel.}
-{700}{}{Stack of Tires}
+{700}{}{Stack of tires}
 {701}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
 {800}{}{Security Door}
 {801}{}{This door looks very secure. It provides protection from the outside world elements and dangerous creatures.}
@@ -33,19 +37,19 @@
 {1700}{}{Screens}
 {1701}{}{A set of three display monitors, showing various bits of data from around the Vault.}
 {1800}{}{Door}
-{1801}{}{It's still a door after closer examination.}
+{1801}{}{After closer examination, it's still a door.}
 {1900}{}{Door}
-{1901}{}{It's still a door after closer examination.}
+{1901}{}{After closer examination, it's still a door.}
 {2000}{}{Vent}
-{2001}{}{An air vent, supplying processed and cleaned air to the entire vault complex.}
+{2001}{}{An air vent, supplying processed and cleaned air to the entire Vault complex.}
 {2100}{}{Vent}
-{2101}{}{An air vent, supplying processed and cleaned air to the entire vault complex.}
-{2200}{}{Vault13 Door}
+{2101}{}{An air vent, supplying processed and cleaned air to the entire Vault complex.}
+{2200}{}{Vault 13 Door}
 {2201}{}{A heavy door, constructed to survive all sorts of damage and trauma.}
-{2300}{}{Vault13 Door}
+{2300}{}{Vault 13 Door}
 {2301}{}{A heavy door, constructed to survive all sorts of damage and trauma.}
 {2400}{}{Pedestal}
-{2401}{}{An hydraulic life, designed to help provide support, power and communication lines to the Overseer's platform.}
+{2401}{}{A hydraulic pillar, designed to help provide support, power and communication lines to the Overseer's platform.}
 {2500}{}{Monitor}
 {2501}{}{If you've seen one monitor, you've seen them all.}
 {2600}{}{Monitor}
@@ -73,7 +77,7 @@
 {3700}{}{Bed}
 {3701}{}{A standard bed. Looks comfy.}
 {3800}{}{Vault Elevator}
-{3801}{}{This is an elevator. It goes up and down levels in the vault complex.}
+{3801}{}{This is an elevator. It goes up and down levels in the Vault complex.}
 {3900}{}{Chair}
 {3901}{}{It's a chair. Too bad you don't have time to sit down and relax.}
 {4000}{}{Chair}
@@ -185,11 +189,11 @@
 {9300}{}{Rocks}
 {9301}{}{A small pile of rocks.}
 {9400}{}{Bar}
-{9401}{}{This modern version of an alcohol still could generously be called a micro-brewery.}
+{9401}{}{This modern version of an alcohol still could generously be called a microbrewery.}
 {9500}{}{Chair}
 {9501}{}{A rotting old chair made out of an ancient car seat.}
 {9600}{}{Chair}
-{9601}{}{A smelly old chair that used be to a car seat. The springs have lost their spring.}
+{9601}{}{A smelly old chair that used to be a car seat. The springs have lost their spring.}
 {9700}{}{Chair}
 {9701}{}{A rotting, smelly old chair sitting on bricks for support. Looks pretty uncomfortable.}
 {9800}{}{Couch}
@@ -254,11 +258,17 @@
 {12701}{}{A generic desert weed.}
 {12800}{}{}
 {12900}{}{Wall}
+{12901}{}{The stench of mildew emanates from these wet sewer walls.}
 {13000}{}{Wall}
+{13001}{}{The stench of mildew emanates from these wet sewer walls.}
 {13100}{}{Wall}
+{13101}{}{The stench of mildew emanates from these wet sewer walls.}
 {13200}{}{Wall}
+{13201}{}{The stench of mildew emanates from these wet sewer walls.}
 {13300}{}{Wall}
+{13301}{}{The stench of mildew emanates from these wet sewer walls.}
 {13400}{}{Wall}
+{13401}{}{The stench of mildew emanates from these wet sewer walls.}
 {13500}{}{Drain}
 {13501}{}{There is some sort of rank, disgusting smell coming from this sewer drain. After a few moments, it doesn't smell as bad.}
 {13600}{}{Drain}
@@ -276,8 +286,8 @@
 {14201}{}{This looks like a standard Vault door that has been damaged, perhaps burned. It is still functional, however.}
 {14300}{}{Door}
 {14301}{}{This looks like a standard Vault door that has been damaged, perhaps burned. It is still functional, however.}
-{14400}{}{Cover}
-{14401}{}{A heavy man-hole cover. It looks like it is in good shape, and that it was recently moved.}
+{14400}{}{Manhole Cover}
+{14401}{}{A heavy manhole cover. It looks like it is in good shape, and that it was moved recently.}
 {14500}{}{Hole}
 {14501}{}{A large hole has been blasted through this door.}
 {14600}{}{Hole}
@@ -331,20 +341,28 @@
 {17000}{}{Column}
 {17001}{}{A support column.}
 {17100}{}{Door Entry Computer}
-{17101}{}{This computer controls the large vault door. You have to enter a specific access code for the computer to work.}
+{17101}{}{This computer controls the large Vault door. You have to enter a specific access code for the computer to work.}
 {17200}{}{Casino Sign}
 {17201}{}{It looks like an advertisement for Gizmo's Casino.}
 {17300}{}{Vault 13 Outer Door}
-{17301}{}{This large door is the link between the vault and the outside world.}
+{17301}{}{This large door is the link between the Vault and the outside world. It is too large to open manually. Use the entry terminal.}
 {17400}{}{Vault 13 Outer Door}
-{17401}{}{This large door is the link between the vault and the outside world.}
+#
+# 17401 is different than 17301 on purpose, due to physical context. They are different parts of the door.
+#
+{17401}{}{This large door is the link between the Vault and the outside world.}
 {17500}{}{Casino Sign}
 {17501}{}{This part of the sign contains an electric motor that is slowly spinning the attached neon sign.}
 {17600}{}{Down Arrow}
+{17601}{}{Your keen skills of deduction and perception conclude that this elevator goes down.}
 {17700}{}{Up Arrow}
+{17701}{}{Your keen skills of deduction and perception conclude that this elevator goes up.}
 {17800}{}{Crate}
+{17801}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {17900}{}{Crate}
+{17901}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {18000}{}{Crate}
+{18001}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {18100}{}{Elevator Top}
 {18101}{}{You are looking at a portion of an elevator.}
 {18200}{}{Computer Console}
@@ -364,17 +382,21 @@
 {18900}{}{Level 'Four' Sign}
 {18901}{}{You must be on level four of the Brotherhood.}
 {19000}{}{Bunk Bed}
-{19001}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
+{19001}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off these sheets.}
 {19100}{}{Bunk Bed}
-{19101}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
+{19101}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off these sheets.}
 {19200}{}{Bunk Bed}
-{19201}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
+{19201}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off these sheets.}
 {19300}{}{Crate}
+{19301}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {19400}{}{Nuka-Cola Machine}
-{19401}{}{The advertising on the side of this machine promotes their popular soda.}
+{19401}{}{It's broken. What a bummer.}
+#
+# 19401 was "The advertising on the side of this machine promotes their popular soda."
+#
 {19500}{}{Wall}
-{19600}{}{Trapdoor}
-{19601}{}{It looks like a perfectly good trapdoor.}
+{19600}{}{Trap Door}
+{19601}{}{It looks like a perfectly good trap door.}
 {19700}{}{Manhole}
 {19701}{}{The ladder in this manhole leads down into the darkness below. Ohhh, scary.}
 {19800}{}{Altar}
@@ -398,9 +420,9 @@
 {20700}{}{Old Mattress}
 {20701}{}{Even if you were to sleep by yourself on this thing, you would not be sleeping alone.}
 {20800}{}{Bed}
-{20801}{}{A make-shift bed. The material was scavenged from some other source.}
+{20801}{}{A makeshift bed. The material was scavenged from some other source.}
 {20900}{}{Bed}
-{20901}{}{A make-shift bed. The material was scavenged from some other source.}
+{20901}{}{A makeshift bed. The material was scavenged from some other source.}
 {21000}{}{Bed}
 {21001}{}{This bed has seen better days (and probably nights, too.)}
 {21100}{}{Bed}
@@ -426,7 +448,7 @@
 {22400}{}{Car}
 {22401}{}{This automobile is in terrible shape. You cannot think of a way to restore it.}
 {22500}{}{Car}
-{22501}{}{This rusted piece of scrap-metal cannot be restored.}
+{22501}{}{This rusted piece of scrap metal cannot be restored.}
 {22600}{}{Car}
 {22601}{}{You determine that this vehicle will never drive again. Really.}
 {22700}{}{Car}
@@ -513,9 +535,9 @@
 {27000}{}{Newspaper Machine}
 {27001}{}{The newspaper machine is empty. It looks like it once held adult magazines.}
 {27100}{}{Junk}
-{27101}{}{A bed matters in terrible condition. Even the rats won't sleep in or on it.}
+{27101}{}{A bed mattress in terrible condition. Even the rats won't sleep in or on it.}
 {27200}{}{Junk}
-{27201}{}{A twin bed matters that has seen many better days than this one.}
+{27201}{}{A twin bed mattress that has seen many better days than this one.}
 {27300}{}{Junk}
 {27301}{}{A pile of rotted and weathered wood. Not worth it's weight in, well, anything.}
 {27400}{}{Junk}
@@ -525,10 +547,13 @@
 {27600}{}{Boxes}
 {27601}{}{A pile of old, cardboard boxes.}
 {27700}{}{Junk}
-{27701}{}{Some junk that you think might have been a bed matters before it was destroyed by the environment.}
+{27701}{}{Some junk that you think might have been a bed mattress before it was destroyed by the environment.}
 {27800}{}{Rocks}
+{27801}{}{On closer examination, these are still rocks.}
 {27900}{}{Rocks}
+{27901}{}{Yep, these are rocks.}
 {28000}{}{Rocks}
+{28001}{}{You conclude that these are rocks.}
 {28100}{}{Rubble}
 {28101}{}{A small pile of rubbled stones and rocks. Watch your step!}
 {28200}{}{Sink}
@@ -586,7 +611,7 @@
 {30800}{}{Toilet}
 {30801}{}{This toilet is broken.}
 {30900}{}{Toilet}
-{30901}{}{Yuck! Whoever used this last did not flush!}
+{30901}{}{Yuck! Whomever used this last did not flush!}
 {31000}{}{Toilet}
 {31001}{}{This toilet is broken and definitely not useable if you're a woman.}
 {31100}{}{Trash}
@@ -596,7 +621,7 @@
 {31300}{}{Trash}
 {31301}{}{Some broken pieces of glass and other ruined pieces of junk.}
 {31400}{}{Trash}
-{31401}{}{A pipe that has been snapped in half. It looks like it rusted until it collapsed under it's own weight.}
+{31401}{}{A pipe that has been snapped in half. It looks like it rusted until it collapsed under its own weight.}
 {31500}{}{Trash Can}
 {31501}{}{A trash can. You can barely read the label: Keep your city streets clean!}
 {31600}{}{Tree}
@@ -606,9 +631,13 @@
 {31800}{}{Tree}
 {31801}{}{It's a dead tree.}
 {31900}{}{Tree}
+{31901}{}{It's a dead tree.}
 {32000}{}{Tree}
+{32001}{}{It's a dead tree.}
 {32100}{}{Tree}
+{32101}{}{It's a dead tree.}
 {32200}{}{Truck}
+{32201}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
 {32300}{}{Truck}
 {32301}{}{The ruined remains of a diesel truck. This hunk of metal will never move again.}
 {32400}{}{Truck}
@@ -632,19 +661,19 @@
 {33300}{}{Door}
 {33301}{}{A wooden door. It provides an entrance and egress from this building.}
 {33400}{}{Wall Lamp}
-{33401}{}{This lamp looks it is in good working condition.}
+{33401}{}{This lamp looks like it is in good working condition.}
 {33500}{}{Wall Lamp}
 {33501}{}{A broken lamp. It is not surprising that it does not work.}
 {33600}{}{Wall Lamp}
-{33601}{}{This lamp looks it is in good working condition.}
+{33601}{}{This lamp looks like it is in good working condition.}
 {33700}{}{Wall Lamp}
 {33701}{}{A broken lamp. It is not surprising that it does not work.}
 {33800}{}{Wall Lamp}
-{33801}{}{This lamp looks it is in good working condition.}
+{33801}{}{This lamp looks like it is in good working condition.}
 {33900}{}{Wall Lamp}
 {33901}{}{A broken lamp. It is not surprising that it does not work.}
 {34000}{}{Wall Lamp}
-{34001}{}{This lamp looks it is in good working condition.}
+{34001}{}{This lamp looks like it is in good working condition.}
 {34100}{}{Wall Lamp}
 {34101}{}{A broken lamp. It is not surprising that it does not work.}
 {34200}{}{Yield Sign}
@@ -709,27 +738,27 @@
 {37200}{}{Pot}
 {37201}{}{A finely crafted clay pot.}
 {37300}{}{Rake}
-{37301}{}{This rake is the property of it's owners. You can't even conceive of a use for it.}
+{37301}{}{This rake is the property of its owners. You can't even conceive of a use for it.}
 {37400}{}{Rake}
-{37401}{}{This rake is the property of it's owners. You can't even conceive of a use for it.}
+{37401}{}{This rake is the property of its owners. You can't even conceive of a use for it.}
 {37500}{}{Rake}
-{37501}{}{This rake is the property of it's owners. You can't even conceive of a use for it.}
+{37501}{}{This rake is the property of its owners. You can't even conceive of a use for it.}
 {37600}{}{Rug}
-{37601}{}{A simple rug. The weaver was obviously very talented.}
+{37601}{}{A simple rug. The weaver was obviously talented.}
 {37700}{}{Rug}
-{37701}{}{A simple rug. The weaver was obviously very talented.}
+{37701}{}{A simple rug. The weaver was obviously talented.}
 {37800}{}{Rug}
-{37801}{}{A simple rug. The weaver was obviously very talented.}
+{37801}{}{A simple rug. The weaver was obviously talented.}
 {37900}{}{Shovel}
-{37901}{}{This shovel is the property of it's owners. You can't even conceive of a use for it.}
+{37901}{}{This shovel is the property of its owners. You can't even conceive of a use for it.}
 {38000}{}{Shovel}
-{38001}{}{This shovel is the property of it's owners. You can't even conceive of a use for it.}
+{38001}{}{This shovel is the property of its owners. You can't even conceive of a use for it.}
 {38100}{}{Shovel}
-{38101}{}{This shovel is the property of it's owners. You can't even conceive of a use for it.}
+{38101}{}{This shovel is the property of its owners. You can't even conceive of a use for it.}
 {38200}{}{Vase}
 {38201}{}{A very pretty clay vase.}
 {38300}{}{Well}
-{38301}{}{As much as you try, you cannot think of a way of moving this well to the vault.}
+{38301}{}{As much as you try, you cannot think of a way of moving this well to your Vault.}
 {38400}{}{Pole}
 {38401}{}{This pole helps to support the yurt.}
 {38500}{}{Pole}
@@ -743,9 +772,9 @@
 {38900}{}{Pole}
 {38901}{}{This pole helps to support the yurt.}
 {39000}{}{Vault Door}
-{39001}{}{This vault door is now just a heavy piece of scrap-metal.}
+{39001}{}{This Vault door is now just a heavy piece of scrap metal.}
 {39100}{}{Wall}
-{39101}{}{The mechanism to open and close the heavy vault door has been damaged beyond repair.}
+{39101}{}{The mechanism to open and close the heavy Vault door has been damaged beyond repair.}
 {39200}{}{Brace}
 {39201}{}{This brace helps to support the defensive wall.}
 {39300}{}{Brace}
@@ -769,15 +798,15 @@
 {40200}{}{Crate}
 {40201}{}{A simple wooden crate. In fairly good condition.}
 {40300}{}{Crate}
-{40301}{}{This simple wooden crate has collapsed under it's own weight.}
-{40400}{}{Desk}
-{40401}{}{A simple desk with a computer.}
-{40500}{}{Desk}
-{40501}{}{A simple desk with a computer.}
+{40301}{}{This simple wooden crate has collapsed under its own weight.}
+{40400}{}{Computer Desk}
+{40401}{}{This is a badly worn-out reception desk with a dusty, cracked computer seated precariously atop it.}
+{40500}{}{Computer Desk}
+{40501}{}{This is a badly worn-out reception desk with a dusty, cracked computer seated precariously atop it.}
 {40600}{}{Door}
 {40601}{}{A wooden door, in fair shape.}
-{40700}{}{Cave In}
-{40701}{}{A large amount of rock, far more than could ever be moved easily.}
+{40700}{}{Cave-In}
+{40701}{}{A large amount of rock; far more than could ever be moved easily.}
 {40800}{}{Car}
 {40801}{}{This submerged car cannot be repaired.}
 {40900}{}{Car}
@@ -810,9 +839,13 @@
 {42201}{}{A metal pipe. Further details are not important.}
 {42300}{}{Dirt}
 {42400}{}{Box}
+{42401}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {42500}{}{Box}
+{42501}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {42600}{}{Box}
+{42601}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {42700}{}{Box}
+{42701}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {42800}{}{Rocks}
 {42801}{}{A pile of rocks. Not very interesting.}
 {42900}{}{Rocks}
@@ -830,7 +863,7 @@
 {43500}{}{Rocks}
 {43501}{}{A very small pile of rocks.}
 {43600}{}{Vault Door}
-{43601}{}{This vault door is very similar to the one at Vault-13. The door mechanism has been disabled.}
+{43601}{}{This Vault door is very similar to the one at Vault 13. The door mechanism has been disabled.}
 {43700}{}{Door}
 {43701}{}{A finely constructed wooden door, reinforced with ornate metal braces of an almost hypnotic design.}
 {43800}{}{Door}
@@ -852,11 +885,12 @@
 {44600}{}{Vats}
 {44601}{}{A complex of some sort. You are not sure, but you can see large vats of a greenish goo that looks vaguely important.}
 {44700}{}{Wall}
+{44701}{}{Brick wall with some pretty patterns of grime on it.}
 {44800}{}{Door}
 {44801}{}{A security door. Looks heavily armored.}
 {44900}{}{Nuclear Warhead}
 {45000}{}{Well}
-{45001}{}{As much as you try, you cannot think of a way of moving this well to the vault.}
+{45001}{}{As much as you try, you cannot think of a way of moving this well to your Vault.}
 {45100}{}{Craps Table}
 {45101}{}{This is a gambling table.}
 {45200}{}{Craps Table}
@@ -880,8 +914,11 @@
 {46100}{}{Rock}
 {46101}{}{A small rock, completely uninteresting in the context of this story.}
 {46200}{}{Rock}
+{46201}{}{A small rock, completely uninteresting in the context of this story.}
 {46300}{}{Rock}
+{46301}{}{A small rock, completely uninteresting in the context of this story.}
 {46400}{}{Rock}
+{46401}{}{A small rock, completely uninteresting in the context of this story.}
 {46500}{}{Slot Machine}
 {46501}{}{This is a gambling machine.}
 {46600}{}{Slot Machine}
@@ -911,9 +948,9 @@
 {48000}{}{Door}
 {48001}{}{This large metal roll-door has been jammed shut from the inside. It reads LOADING ONLY.}
 {48100}{}{Door}
-{48101}{}{This door looks suspiciously like the door you would find in a warehouse.}
+{48101}{}{This door looks suspiciously like the kind of door you would find in a warehouse.}
 {48200}{}{Door}
-{48201}{}{This door looks suspiciously like the door you would find in a warehouse.}
+{48201}{}{This door looks suspiciously like the kind of door you would find in a warehouse.}
 {48300}{}{Weather Vane}
 {48301}{}{This simple weather vane helps the people of Shady Sands study the weather.}
 {48400}{}{Altar}
@@ -925,14 +962,14 @@
 {48701}{}{A large monitor, black and white only. The reception is pretty good for being indoors without an antenna.}
 {48800}{}{Monitor}
 {48801}{}{A large monitor, black and white only. The robed figure is reciting religious dogma at a feverish pace.}
-{48900}{}{Forcefield}
-{48901}{}{This is a powerful field of energy.}
-{49000}{}{Forcefield}
-{49001}{}{This is a powerful field of energy.}
-{49100}{}{Forcefield}
-{49101}{}{This is a powerful field of energy.}
-{49200}{}{Forcefield}
-{49201}{}{This is a powerful field of energy.}
+{48900}{}{Force Field}
+{48901}{}{This is a powerful field of energy, preventing any living or non-living matter from passing through.}
+{49000}{}{Force Field}
+{49001}{}{This is a powerful field of energy, preventing any living or non-living matter from passing through.}
+{49100}{}{Force Field}
+{49101}{}{This is a powerful field of energy, crackling menacingly.}
+{49200}{}{Force Field}
+{49201}{}{This is a powerful field of energy, crackling menacingly.}
 {49300}{}{Table}
 {49301}{}{A fairly ordinary wooden table.}
 {49400}{}{Table}
@@ -986,9 +1023,9 @@
 {52400}{}{Altar}
 {52401}{}{An altar designed and used by the Brotherhood of Steel. Their symbol is brazenly shown.}
 {52500}{}{Pew}
-{52501}{}{A nicely fashioned, and mighty uncomfortable looking, pew.}
+{52501}{}{A nicely fashioned, and mighty uncomfortable-looking, pew.}
 {52600}{}{Podium}
-{52601}{}{A nice wooden podium. There is a tele-prompter screen built into it, facing the speaker.}
+{52601}{}{A nice wooden podium. There is a teleprompter screen built into it, facing the speaker.}
 {52700}{}{Wagon}
 {52701}{}{A caravan wagon converted from the wrecked remains of an ancient automobile.}
 {52800}{}{Wagon}
@@ -1014,14 +1051,15 @@
 {53800}{}{Stair Stepper}
 {53801}{}{An exercise machine.}
 {53900}{}{Stair Stepper}
+{53901}{}{An exercise machine.}
 {54000}{}{Treadmill}
 {54001}{}{An exercise machine.}
 {54100}{}{Treadmill}
 {54101}{}{An exercise machine.}
 {54200}{}{Bench Press}
-{54201}{}{An exercise machine.}
+{54201}{}{You decide that now is not the time to bulk up with weight training.}
 {54300}{}{Bench Press}
-{54301}{}{An exercise machine.}
+{54301}{}{You decide that now is not the time to bulk up with weight training.}
 {54400}{}{Bridge}
 {54401}{}{A hastily constructed wooden bridge permits access over the moat of green glowing goo.}
 {54500}{}{Bridge}
@@ -1052,14 +1090,14 @@
 {55701}{}{A large super computer. Probably the fastest looking computer you've ever seen.}
 {55800}{}{Support Platform}
 {55801}{}{This platform supports the large super computer over the cooling tanks.}
-{55900}{}{Dont use}
-{56000}{}{Dont use}
+{55900}{}{DON'T USE THIS}
+{56000}{}{DON'T USE THIS}
 {56100}{}{Bed}
-{56101}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
+{56101}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off these sheets.}
 {56200}{}{Bed}
-{56201}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
+{56201}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off these sheets.}
 {56300}{}{Bed}
-{56301}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
+{56301}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off these sheets.}
 {56400}{}{Wire}
 {56401}{}{It looks like a serial cable of some sort.}
 {56500}{}{Wire}
@@ -1085,9 +1123,9 @@
 {57500}{}{Bush}
 {57501}{}{A desert weed of some kind.}
 {57600}{}{Ground}
-{57601}{}{A nice view of the Boneyards from this tower level. You get a good feeling of just how high up in the sky you are.}
+{57601}{}{A nice view of Adytum and L.A. Boneyard from this tower level. You get a good feeling of just how high up in the sky you are.}
 {57700}{}{Ground}
-{57701}{}{A nice view of the Boneyards from this tower level.}
+{57701}{}{A nice view of Adytum and L.A. Boneyard from this tower level.}
 {57800}{}{Wall}
 {57801}{}{A good view of the outside of the Cathedral.}
 {57900}{}{Wall}
@@ -1103,17 +1141,17 @@
 {58400}{}{Ladder}
 {58401}{}{This ladder leads into the darkness below.}
 {58500}{}{Machinery}
-{58501}{}{It looks like an old printing press or manufacturing doohikey.}
+{58501}{}{It looks like an old printing press or manufacturing doohickey.}
 {58600}{}{Machinery}
-{58601}{}{It looks like an old printing press or manufacturing doohikey.}
+{58601}{}{It looks like an old printing press or manufacturing doohickey.}
 {58700}{}{Machinery}
-{58701}{}{It looks like an old printing press or manufacturing doohikey.}
+{58701}{}{It looks like an old printing press or manufacturing doohickey.}
 {58800}{}{Machinery}
-{58801}{}{It looks like an old printing press or manufacturing doohikey.}
+{58801}{}{It looks like an old printing press or manufacturing doohickey.}
 {58900}{}{Machinery}
-{58901}{}{It looks like an old printing press or manufacturing doohikey.}
+{58901}{}{It looks like an old printing press or manufacturing doohickey.}
 {59000}{}{Machinery}
-{59001}{}{It looks like an old printing press or manufacturing doohikey.}
+{59001}{}{It looks like an old printing press or manufacturing doohickey.}
 {59100}{}{Table}
 {59101}{}{This metal table looks in good condition. There is a drain in the center of it.}
 {59200}{}{Table}
@@ -1141,21 +1179,21 @@
 {60300}{}{Slime Pool}
 {60301}{}{It looks very unhealthy. You might want to wear armored swim trunks before taking a dip.}
 {60400}{}{Table}
-{60401}{}{A nice looking metal table.}
+{60401}{}{A nice-looking metal table.}
 {60500}{}{Table}
-{60501}{}{A nice looking metal table.}
+{60501}{}{A nice-looking metal table.}
 {60600}{}{Table}
-{60601}{}{A nice looking metal table.}
+{60601}{}{A nice-looking metal table.}
 {60700}{}{Table}
-{60701}{}{A nice looking metal table.}
+{60701}{}{A nice-looking metal table.}
 {60800}{}{Table}
 {60801}{}{This metal table has not been treated well. The rust is very pervasive.}
 {60900}{}{Table}
-{60901}{}{A good looking metal table, except for the rust.}
+{60901}{}{A good-looking metal table, except for the rust.}
 {61000}{}{Table}
-{61001}{}{A good looking metal table, except for the rust.}
+{61001}{}{A good-looking metal table, except for the rust.}
 {61100}{}{Table}
-{61101}{}{A good looking metal table, except for the rust.}
+{61101}{}{A good-looking metal table, except for the rust.}
 {61200}{}{Fire Pit}
 {61201}{}{The fire is burning.}
 {61300}{}{Mirror}
@@ -1169,7 +1207,7 @@
 {61700}{}{Urinal}
 {61701}{}{This urinal is functional.}
 {61800}{}{Toilet}
-{61801}{}{If you had a toilet fetish, then this would be a nice toilet.}
+{61801}{}{If you had a toilet fetish, then this would be a nice one to use. Or to "use".}
 {61900}{}{Sink}
 {61901}{}{This sink is in perfect condition.}
 {62000}{}{Urinal}
@@ -1197,7 +1235,9 @@
 {63100}{}{Bed}
 {63101}{}{A structurally-enhanced bunk bed.}
 {63200}{}{Terminal}
+{63201}{}{A very nice-looking computer station.}
 {63300}{}{Terminal}
+{63301}{}{A very nice-looking computer station.}
 {63400}{}{Flag}
 {63401}{}{This flag is the symbol of the Children of the Cathedral.}
 {63500}{}{Flag}
@@ -1222,13 +1262,16 @@
 {64401}{}{It looks as if this person died very painfully.}
 {64500}{}{Door}
 {64501}{}{This barred door works well as the door to a jail cell.}
-{64600}{}{Terminal}
-{64700}{}{Terminal}
+{64600}{}{Access Terminal}
+{64601}{}{A device for operating high-tech hardware, like force field emitters.}
+{64700}{}{Access Terminal}
+{64701}{}{A device for operating high-tech hardware, like force field emitters.}
 {64800}{}{Forklift}
 {64801}{}{The forklift is inoperable.}
 {64900}{}{Forklift}
 {64901}{}{The forklift is inoperable.}
 {65000}{}{Equipment}
+{65001}{}{Some kind of high-tech stuff.}
 {65100}{}{Medical Table}
 {65101}{}{This table is very rusty. The drain in the center of the table is clogged.}
 {65200}{}{Medical Table}
@@ -1236,11 +1279,13 @@
 {65300}{}{Gate}
 {65301}{}{This gate has a bar that raises and lowers.}
 {65400}{}{Pipe}
+{65401}{}{These large rusty pipes are used for moving large amounts of water or other liquids.}
 {65500}{}{Pipe}
+{65501}{}{These large rusty pipes are used for moving large amounts of water or other liquids.}
 {65600}{}{Power Generator}
 {65601}{}{A Wattz ElectroBox power generator. Fairly standard as back-up generators before the war.}
 {65700}{}{Tank}
-{65701}{}{A large water-tank. Looks well-maintained, which is probably a good thing.}
+{65701}{}{A large water tank. Looks well-maintained, which is probably a good thing.}
 {65800}{}{Police Box}
 {65801}{}{A police box from the UK, circa 1960.}
 {65900}{}{Table}
@@ -1250,45 +1295,45 @@
 {66100}{}{Table}
 {66101}{}{A nicely made table. Hand-made, but it looks much nicer than any table you've seen before.}
 {66200}{}{Chair}
-{66201}{}{A very nice looking chair.}
+{66201}{}{A very nice-looking chair.}
 {66300}{}{Chair}
-{66301}{}{A very nice looking chair.}
+{66301}{}{A very nice-looking chair.}
 {66400}{}{Chair}
-{66401}{}{A very nice looking chair.}
+{66401}{}{A very nice-looking chair.}
 {66500}{}{Chair}
-{66501}{}{A very nice looking chair.}
+{66501}{}{A very nice-looking chair.}
 {66600}{}{Chair}
-{66601}{}{A very nice looking chair.}
+{66601}{}{A very nice-looking chair.}
 {66700}{}{Chair}
-{66701}{}{A very nice looking chair.}
+{66701}{}{A very nice-looking chair.}
 {66800}{}{Chair}
-{66801}{}{A very nice looking chair.}
+{66801}{}{A very nice-looking chair.}
 {66900}{}{Chair}
-{66901}{}{A very nice looking chair.}
+{66901}{}{A very nice-looking chair.}
 {67000}{}{Chair}
-{67001}{}{A very nice looking chair.}
+{67001}{}{A very nice-looking chair.}
 {67100}{}{Chair}
-{67101}{}{A very nice looking chair.}
+{67101}{}{A very nice-looking chair.}
 {67200}{}{Chair}
-{67201}{}{A very nice looking chair.}
+{67201}{}{A very nice-looking chair.}
 {67300}{}{Chair}
-{67301}{}{A very nice looking chair.}
+{67301}{}{A very nice-looking chair.}
 {67400}{}{Chair}
-{67401}{}{A very nice looking chair.}
+{67401}{}{A very nice-looking chair.}
 {67500}{}{Chair}
-{67501}{}{A very nice looking chair.}
+{67501}{}{A very nice-looking chair.}
 {67600}{}{Chair}
-{67601}{}{A very nice looking chair.}
+{67601}{}{A very nice-looking chair.}
 {67700}{}{Chair}
-{67701}{}{A very nice looking chair.}
+{67701}{}{A very nice-looking chair.}
 {67800}{}{Bed}
-{67801}{}{A very nice looking bed.}
+{67801}{}{A very nice-looking bed.}
 {67900}{}{Bed}
-{67901}{}{A very nice looking bed.}
+{67901}{}{A very nice-looking bed.}
 {68000}{}{Bed}
-{68001}{}{A very nice looking bed.}
+{68001}{}{A very nice-looking bed.}
 {68100}{}{Bed}
-{68101}{}{A very nice looking bed.}
+{68101}{}{A very nice-looking bed.}
 {68200}{}{Stove}
 {68201}{}{A functional wood-burning stove.}
 {68300}{}{Stove}
@@ -1298,7 +1343,9 @@
 {68500}{}{Stove}
 {68501}{}{A functional wood-burning stove.}
 {68600}{}{Broken Post}
+{68601}{}{The Brotherhood of Steel has fallen.}
 {68700}{}{Destroyed Entrance}
+{68701}{}{This was the entrance to the mighty Brotherhood Of Steel - now just another ruined building of the wastes.}
 {68800}{}{Rocks}
 {68801}{}{A large formation of rocks. This was not a natural occurrence.}
 {68900}{}{Rocks}
@@ -1574,13 +1621,13 @@
 {82401}{}{The monitors are in good condition.}
 {82500}{}{Wall}
 {82600}{}{Bank Door}
-{82601}{}{A very sturdy bank vault door. The door looks very secure.}
+{82601}{}{A very sturdy bank Vault door. The door looks very secure.}
 {82700}{}{Light}
 {82701}{}{A security light.}
 {82800}{}{Light}
 {82801}{}{A security light.}
 {82900}{}{Pillar}
-{82901}{}{This pillar is the show piece of the Shady Sands square. It tells stories to remind the people of hope and peace.}
+{82901}{}{This pillar is the showpiece of the Shady Sands square. It tells stories to remind the people of hope and peace.}
 {83000}{}{Robot Receptacle}
 {83001}{}{This is a robot recharging bay. When not in service, robots will dock here to shut down and recharge.}
 {83100}{}{Robot Receptacle}
@@ -1619,7 +1666,6 @@
 {85300}{}{Medical Table}
 {85301}{}{This looks like a medical examination table.}
 {85400}{}{Sign}
-{85401}{}{Maltese Falcon}
 {85401}{}{This is a neon sign for the Maltese Falcon.}
 {85500}{}{Graffiti}
 {85600}{}{Graffiti}
@@ -1642,7 +1688,7 @@
 {87100}{}{Sign}
 {87101}{}{This is the sign of the Far Go Traders.}
 {87200}{}{Sign}
-{87201}{}{This sign is labeled: Gunrunners.}
+{87201}{}{This sign is labeled: Gun Runners.}
 {87300}{}{Sign}
 {87301}{}{This is the sign of the Crimson Caravan trading company.}
 {87400}{}{Sign}
@@ -1653,22 +1699,22 @@
 {87601}{}{This very unlikely sign reads: Bob's Pre-Owned Car Mart.}
 {87700}{}{Sign}
 {87701}{}{This is the sign of the Water Merchants, a Hub trading company.}
-{87800}{}{Egg Shell}
-{87801}{}{Pieces of a broken egg shell.}
-{87900}{}{Egg Shell}
-{87901}{}{Pieces of a broken egg shell.}
-{88000}{}{Egg Shell}
-{88001}{}{Pieces of a broken egg shell.}
-{88100}{}{Egg Shell}
-{88101}{}{Pieces of a broken egg shell.}
-{88200}{}{Egg Shell}
-{88201}{}{Pieces of a broken egg shell.}
-{88300}{}{Egg Shell}
-{88301}{}{Pieces of a broken egg shell.}
-{88400}{}{Egg Shell}
-{88401}{}{Pieces of a broken egg shell.}
-{88500}{}{Egg Shell}
-{88501}{}{Pieces of a broken egg shell.}
+{87800}{}{Eggshell}
+{87801}{}{Pieces of a broken Deathclaw egg.}
+{87900}{}{Eggshell}
+{87901}{}{Pieces of a broken Deathclaw egg.}
+{88000}{}{Eggshell}
+{88001}{}{Pieces of a broken Deathclaw egg.}
+{88100}{}{Eggshell}
+{88101}{}{Pieces of a broken Deathclaw egg.}
+{88200}{}{Eggshell}
+{88201}{}{Pieces of a broken Deathclaw egg.}
+{88300}{}{Eggshell}
+{88301}{}{Pieces of a broken Deathclaw egg.}
+{88400}{}{Eggshell}
+{88401}{}{Pieces of a broken Deathclaw egg.}
+{88500}{}{Eggshell}
+{88501}{}{Pieces of a broken Deathclaw egg.}
 {88600}{}{Lamp Post}
 {88601}{}{A lamp post. It looks like it is in good working order.}
 {88700}{}{Sign}
@@ -1703,11 +1749,11 @@
 {90200}{}{Elevator Shaft}
 {90201}{}{The shaft has a rope hanging down from the edge.}
 {90300}{}{Medical Bed}
-{90301}{}{This bed has a built-in display for monitoring the patients progress.}
+{90301}{}{This bed has a built-in display for monitoring the patient's progress.}
 {90400}{}{Water Pump}
 {90401}{}{This is a piece of machinery that pumps water up from below.}
 {90500}{}{Medical Bed}
-{90501}{}{This bed has a built-in display for monitoring the patients progress.}
+{90501}{}{This bed has a built-in display for monitoring the patient's progress.}
 {90600}{}{Power Armor Parts}
 {90601}{}{These are parts to a suit of Power Armor.}
 {90700}{}{Light}

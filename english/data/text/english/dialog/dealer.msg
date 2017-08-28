@@ -1,4 +1,3 @@
-
 {100}{}{Hi! Welcome to my previously owned car lot. Which one of these beauties interests you today?}
 {101}{}{You must be joking. These cars are all wrecks.}
 {102}{}{Uh, nothing, thanks.}
@@ -12,8 +11,8 @@
 {110}{}{And where is your service department?}
 {111}{}{You are a loon.}
 {112}{}{Goodbye.}
-{113}{}{Right over there, sir. [The dealer points to nothing.]}
-{114}{}{Right over there, ma'am. [The dealer points to nothing.]}
+{113}{}{Right over there, sir. (The dealer points to nothing.)}
+{114}{}{Right over there, ma'am. (The dealer points to nothing.)}
 {115}{}{Where? There's nothing over there.}
 {116}{}{You're crazy.}
 {117}{}{What do you mean? They're working on a newly purchased '56 Corvega. An excellent buy, I might add.}
@@ -26,8 +25,8 @@
 {124}{}{I'm leaving now.}
 {125}{}{I'm sorry, we don't have any petrol. Maybe next time. Goodbye.}
 {126}{}{I'm insulted. I don't have to take that from a customer. Have a good day.}
-{127}{}{I'm on my coffee break, come back later.}
-{128}{}{Go ahead, and take one for a test drive.}
+{127}{}{I'm on my coffee break; come back later.}
+{128}{}{Go ahead and take one for a test drive.}
 {129}{}{You should get the rust preventive paint with that.}
 {130}{}{Can I interest you in an auto alarm?}
 {131}{}{Hi! I'm Bob.}

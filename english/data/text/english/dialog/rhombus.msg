@@ -1,4 +1,4 @@
-{100}{}{You see Rhombus.}
+{100}{}{You see: Rhombus.}
 {101}{}{Tell me about yourself.}
 {102}{}{Can you give me some history behind the Brotherhood?}
 {103}{}{Heard any good rumors?}
@@ -20,13 +20,13 @@
 {119}{}{Okay, can you teach me some stuff?}
 {120}{}{Is that it? That's your life?}
 {121}{}{What do the Paladins do?}
-{122}{Rhom8}{Stuff? I could teach you how to fight...if you had any ability. But the High Elder decreed no training of new recruits until the threat of invasion passes.}
+{122}{Rhom8}{Stuff? I could teach you how to fight... if you had any ability. But the High Elder decreed no training of new recruits until the threat of invasion passes.}
 {123}{}{What threat?}
 {124}{}{Why has he stopped the training?}
 {125}{}{I could easily defeat you in battle.}
 {126}{Rhom9}{It is not my place to answer. See the High Elder if you wish.}
 {127}{}{Oh come on, please?}
-{128}{}{All right, fine. Can I ask you a few more questions?}
+{128}{}{Alright, fine. Can I ask you a few more questions?}
 {129}{Rhom10}{There are rumors of a strange army gathering. I will not say more.}
 {130}{}{Oh, come on, pretty please?}
 {131}{}{Can I ask you a few more questions though?}
@@ -37,9 +37,9 @@
 {136}{}{Your life sounds really empty.}
 {137}{}{Really?}
 {138}{Rhom13}{You do not understand what it is to be a Paladin. Too bad.}
-{139}{}{You think I could become a paladin?}
-{140}{}{Being a knight sounds stupid.}
-{141}{}{Nope, I guess not. Can you some more questions?}
+{139}{}{You think I could become a Paladin?}
+{140}{}{Being a Knight sounds stupid.}
+{141}{}{Nope, I guess not. Can you answer some more questions?}
 {142}{Rhom14}{Possibly. When the invading army is vanquished, come back to be trained.}
 {143}{}{I think I'll do that, thanks.}
 {144}{}{By you? I could wipe the floor with you!}
@@ -47,7 +47,7 @@
 {146}{}{Yes. Can I ask you a few more questions?}
 {147}{}{No, thanks.}
 {148}{Rhom16}{Goodbye then.}
-{149}{Rhom17}{It takes too long. I spend my time improving those  already trained.}
+{149}{Rhom17}{It takes too long. I spend my time improving those already trained.}
 {150}{}{Sounds very boring.}
 {151}{}{That's it? That's your life?}
 {152}{}{Darn. Can I ask you a few more questions?}
@@ -68,7 +68,7 @@
 {167}{Rhom27}{So you are a thief? I will show you what we do with thieves...}
 {168}{}{No wait! I can explain!}
 {169}{}{Go ahead. Take your best shot.}
-{170}{Rhom28}{All right, explain yourself, Initiate.}
+{170}{Rhom28}{Alright, explain yourself, Initiate.}
 {171}{}{I was just looking around!}
 {172}{}{I'm sorry. I didn't know this was your room.}
 {173}{Rhom29}{Then leave, and I will forget this little incident.}
@@ -95,12 +95,11 @@
 {194}{Rhom48}{I have never heard of that.}
 {195}{Rhom49}{I have no knowledge of such a thing.}
 {200}{}{I'm new here and I don't know my way around.}
-{201}{}{I need not explain anything to you freak.}
+{201}{}{I need not explain anything to you, freak.}
 {202}{}{Thank you. Bye.}
-{203}{}{Go to Hell.}
+{203}{}{Go to hell.}
 {204}{}{The door creaks when you try to open it.}
-{205}{}{Your skill allows you to steal silently. You make no sound
- while opening the locker.}
+{205}{}{Your skill allows you to steal silently. You make no sound while opening the locker.}
 {206}{}{Who is there?}
 {207}{}{You were startled and dropped your loot.}
 {208}{}{This locker is not locked.}

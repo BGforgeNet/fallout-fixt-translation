@@ -1,5 +1,5 @@
-{100}{}{You see a Skag.}
-{101}{}{This place is neat!  It's much better than my old place.}
+{100}{}{You see a skag.}
+{101}{}{This place is neat! It's much better than my old place.}
 {102}{}{I like it here!}
 {103}{}{There's so much space. If I had any stuff, I would have plenty of room.}
 {104}{}{Where's my dog?}
@@ -9,8 +9,8 @@
 {108}{}{Is it my bed time yet?}
 {109}{}{You can have my old place.}
 {110}{}{I'm tired, why are you here?}
-{111}{}{This my home!  You leave!}
-{112}{}{This my home!  You leave!}
+{111}{}{This my home! You leave!}
+{112}{}{This my home! You leave!}
 {113}{}{Where's my pillow?}
 {114}{}{I'm sleepy.}
 {115}{}{Don't hurt me.}

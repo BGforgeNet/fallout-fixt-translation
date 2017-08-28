@@ -1,6 +1,6 @@
 {100}{}{You see a very beautiful young woman.}
-{101}{}{You see Christine, Michael's wife.}
-{102}{}{Hello?  Can I help you?}
+{101}{}{You see: Christine, Michael's wife.}
+{102}{}{Hello? Can I help you?}
 {103}{}{Who are you?}
 {104}{}{Who's in charge around here?}
 {105}{}{Can you tell me a little bit about the area?}
@@ -8,12 +8,18 @@
 {107}{}{You my Mommie?}
 {108}{}{My name is Christine, I live here with my husband Michael.}
 {109}{}{Razor keeps track of most things with the Blades, and helps us organize ourselves.}
-{110}{}{Michael and I just moved here, so I haven't seem much of the area.  I've heard about a large church to the South, but it sounds mostly like rumors.}
-{111}{}{Is there somthing else I should know?}
+{110}{}{Michael and I just moved here, so I haven't seem much of the area. I've heard about a large church to the south, but it sounds mostly like rumors.}
+{111}{}{Is there something else I should know?}
 
 #
-# TRANSLATION NOTE: Do NOT translate the next 4 lines.  They will NOT make any
-#					sense in any other language.
+# TRANSLATION NOTE: Do NOT translate the next 4 lines.  They will NOT make any sense in any other language.
+#
+# The letters are crude phonetic spellings of words. To "decode" this message, simply read the lines out loud, and the message becomes:
+#
+#  Christine: See the itty-bitty ducks?
+#    Player: Them are not ducks. 
+#  Christine: Oh yes them are! / See the itty-bitty wings?
+#    Player: Why I'll be! Them are ducks! 
 #
 {112}{}{C D E D B D Ducks}
 {113}{}{M R Not Ducks}
@@ -21,4 +27,4 @@
 {115}{}{Y I B M R Ducks}
 
 {116}{}{What else can I help you with?}
-{117}{}{No I'm not your Mommie.  Now run along and play.}
+{117}{}{No, I'm not your mommy. Now run along and play.}

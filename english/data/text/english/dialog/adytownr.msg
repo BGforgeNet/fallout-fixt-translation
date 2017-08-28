@@ -1,11 +1,11 @@
-{100}{}{You see an inhabitant of Adytown.}
-{101}{}{Looks like rain . . . as always.}
+{100}{}{You see an inhabitant of Adytum.}
+{101}{}{Looks like rain... as always.}
 {102}{}{Sorry, have to go. Got work to do.}
 {103}{}{We don't get many outsiders here.}
 {104}{}{Gotta get back to work.}
 {105}{}{I'd get back to the Hub, if I were you.}
-{106}{}{Good day . . . if that is what you can call it.}
-{107}{}{Yeah . . . whatever.}
+{106}{}{Good day... if that is what you can call it.}
+{107}{}{Yeah... whatever.}
 {108}{}{No time to talk.}
 {109}{}{Can't talk right now.}
 {110}{}{Hope the rain ain't glowin' like yesterday.}
@@ -17,4 +17,4 @@
 {116}{}{Thank you for getting rid of the Regulators.}
 {117}{}{Thank you for our freedom.}
 {118}{}{It is good that the Regulators are gone.}
-{119}{}{Welcome to the New Adytum.}
+{119}{}{Welcome to the new Adytum.}

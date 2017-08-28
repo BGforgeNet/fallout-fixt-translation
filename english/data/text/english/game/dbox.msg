@@ -1,4 +1,3 @@
-#
 # ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 #
 # Text labels and messages used in DIALOG.C, dialog box routines.

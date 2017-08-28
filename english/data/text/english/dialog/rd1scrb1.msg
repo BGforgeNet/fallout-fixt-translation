@@ -12,17 +12,17 @@
 {111}{}{I'd appreciate some privacy.}
 {112}{}{Hi there, nice to see you.}
 {113}{}{Hello.}
-{200}{}{Hi}
-{201}{}{Hello}
-{202}{}{Good day}
+{200}{}{Hi.}
+{201}{}{Hello.}
+{202}{}{Good day.}
 {203}{}{Yes?}
 {204}{}{What?}
 {205}{}{Whats up?}
 {206}{}{What do you want?}
 {207}{}{You want something?}
-{209}{}{Go away}
-{210}{}{Stop bothering me}
-{211}{}{Leave me alone}
-{212}{}{You are annoying me}
-{213}{}{He ignores you}
-{214}{}{She ignores you}
+{209}{}{Go away.}
+{210}{}{Stop bothering me.}
+{211}{}{Leave me alone.}
+{212}{}{You are annoying me.}
+{213}{}{He ignores you.}
+{214}{}{She ignores you.}

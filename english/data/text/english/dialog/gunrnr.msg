@@ -1,5 +1,5 @@
 {100}{}{Hey! Whaddya think you're doing?!}
-{101}{}{Hey, you got any Nuka Cola?}
+{101}{}{Hey, you got any Nuka-Cola?}
 {102}{}{Business is good.}
 {103}{}{Gabriel is a great boss.}
 {104}{}{Nice day, isn't it?}

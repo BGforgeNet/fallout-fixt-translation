@@ -1,9 +1,9 @@
-{100}{}{You see Sid, Beth's assistant.}
+{100}{}{You see: Sid, Beth's assistant.}
 {101}{}{Good morning.}
 {102}{}{Afternoon, sir!}
 {103}{}{Afternoon, ma'am!}
 {104}{}{Good Evening.}
-{105}{}{I know, I know . . . [whisper] she talks an awful lot doesn't she.}
+{105}{}{I know, I know... [whisper] she talks an awful lot doesn't she.}
 {106}{}{Welcome to Beth's Weapon Shop & Rumor Mill.}
 {107}{}{Beth, someone's here to see you.}
 {108}{}{Welcome to Beth's Palace of Pleasure.}
@@ -14,7 +14,7 @@
 {113}{}{Blue light special on aisle three.}
 {114}{}{She's mine, don't even think of it!}
 {115}{}{She likes playing hard to get.}
-{116}{}{Breakfast Break.}
+{116}{}{Breakfast break.}
 {117}{}{Lunch break!}
 {118}{}{Good Evening.}
 {119}{}{Nice blue suit, heh. 13 your lucky number?}

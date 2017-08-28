@@ -1,8 +1,6 @@
-{100}{}{You see Terry.}
-{101}{}{The water ration is passed out at night . . . Hey, you're not
- a ghoul!}
-{102}{}{That's not important right now. What is important
- is the location of the boss.}
+{100}{}{You see: Terry.}
+{101}{}{The water ration is passed out at night... Hey, you're not a ghoul!}
+{102}{}{That's not important right now. What is important is the location of the boss.}
 {103}{}{No, I'm not.}
 {104}{}{Ngh.}
 {105}{}{I'll take you to him. Here, let me give you a hand.}

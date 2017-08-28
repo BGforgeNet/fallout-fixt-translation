@@ -6,10 +6,8 @@
 {105}{}{We are a true community. We all work and share together.}
 {106}{}{How do you survive out here?}
 {107}{}{Who's your leader?}
-{108}{}{We have farms and irrigation, and we herd Brahmin. Everybody
- contributes their skills to making something useful.}
-{109}{}{Aradesh is our current elder. With his experience he helps to
- lead the community.}
+{108}{}{We have farms and irrigation, and we herd brahmin. Everybody contributes their skills to making something useful.}
+{109}{}{Aradesh is our current elder. With his experience, he helps to lead the community.}
 {110}{}{Hi.}
 {111}{}{Hello.}
 {112}{}{How are you?}

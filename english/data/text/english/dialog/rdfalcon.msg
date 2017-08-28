@@ -1,7 +1,7 @@
 {100}{}{You see a drunk.}
 {101}{}{You see a customer.}
 {102}{}{You see a very pretty lady.}
-{103}{}{You see a strange looking man.}
+{103}{}{You see a strange-looking man.}
 {104}{}{You see a gambler.}
 {105}{}{You see a woman, see seems to be busy.}
 {106}{}{You see a woman.}
@@ -10,7 +10,7 @@
 {109}{}{You see a mercenary.}
 {110}{}{Leave me to my sorrows.}
 {111}{}{Yer my bestest friend.}
-{112}{}{Why you're . . . (hic) where am I?}
+{112}{}{Why you're... (hic) where am I?}
 {113}{}{Who are you?}
 {114}{}{Do I know you?}
 {115}{}{I feel a little queasy.}
@@ -38,7 +38,7 @@
 {137}{}{Do you mind?}
 {138}{}{No peep shows!}
 {139}{}{I don't do groups.}
-{140}{}{I'm to tired for another one.}
+{140}{}{I'm too tired for another one.}
 {141}{}{You're dreaming pal, beat it!}
 {142}{}{Get the hell out!}
 {143}{}{What the hell do you think you're doing?}
@@ -61,7 +61,7 @@
 {160}{}{Are you cheating?}
 {161}{}{That should have been mine.}
 {162}{}{Almost!}
-{163}{}{Just missled it.}
+{163}{}{Just missed it.}
 {164}{}{What're the rules again?}
 {165}{}{I used to be good at this.}
 {166}{}{Thanks for nothing.}
@@ -73,7 +73,7 @@
 {172}{}{Sorry folks, maybe next time.}
 {173}{}{Another winner!}
 {174}{}{Hands off!}
-{175}{}{You're turn sir.}
+{175}{}{Your turn sir.}
 {176}{}{Sorry, that's an invalid bet.}
 {177}{}{That's it.}
 {178}{}{Anyone else?}

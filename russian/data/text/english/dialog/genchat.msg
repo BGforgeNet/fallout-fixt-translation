@@ -1,7 +1,7 @@
 {100}{}{Спасибо.}
 {101}{}{До свидания.}
 {102}{}{Привет.}
-{103}{}{Вы }
+{103}{}{Вы получаете }
 {104}{}{Опыт}
 {105}{}{Ох!}
 {106}{}{Клик!}
@@ -165,7 +165,7 @@
 {500}{}{The door mocks you defiantly by withstanding the blast, receiving only dents and scorch marks.}
 {501}{}{The door is concerned with its ability to take more punishment, as it creaks and buckles from the blast.}
 {502}{}{The door groans in agony as it is blown from its hinges, falling to the floor with a mighty crash.}
-{503}{}{Вы }
+{503}{}{Вы получаете }
 {504}{}{ очков опыта за спасение Синтии.}
 {505}{}{The blast doesn't quite destroy the door. You'll need one more.}
 {601}{}{Тебе не следует находиться здесь, Посвященный.}

@@ -1,4 +1,4 @@
-{100}{}{Вы }
+{100}{}{Вы получаете }
 {101}{}{ experience for protecting Shady Sands by killing all the radscorpions.}
 {102}{}{It looks to have originated from the North American Emperor scorpion.}
 {188}{}{Теперь радскорпионы заперты в своем логове.}

@@ -1,53 +1,53 @@
-{100}{}{Вы видите бродягу.}
+{100}{}{Вы видите Баку.}
 {101}{}{Вы видите женщину.}
 {102}{}{Crypts should not be here, should they boys? (The other Fools shake their heads) I think you should leave.}
 {103}{}{I made a mistake joining the Crypts. I want to be on your side.}
-{104}{}{У меня сообщение от Ромеро.}
-{105}{}{Что ж, спасибо.}
+{104}{}{У меня сообщение от Фракса.}
+{105}{}{Конечно, спасибо.}
 {106}{}{Then we should wear the coat of a betrayer? One who would deliver their own? No dog is as low as you.}
 {107}{}{I feel as if your coat may turn again, but your words sway me.}
 {108}{}{Phrax is not brave enough to speak this message with his own voice? He is no man, of that I know. And he sends this boy to say his words. Well, then, say them and be done.}
 {109}{}{Die.}
 {110}{}{He said to leave town and you won't be killed.}
-{111}{}{Хорошего дня.}
+{111}{}{Он пожелал хорошего дня.}
 {112}{}{Hahaha! I like a man with a sense of humor. You can live. Sorry, just joking.}
 {113}{}{I don't think you fully understand the ramifications of what you just said. I hope you learn them before your bones dry in the desert sun. Unfortunately, I don't think you have very long.}
 {114}{}{What have we here? We heard that someone new was in town. This must be you; everyone else looks oh so familiar. Please allow me to introduce myself. I am Baka, Queen of the Fools.}
-{115}{}{Почему вы здесь поселились?}
+{115}{}{Почему вы называете себя Глупцами?}
 {116}{}{I hear there are disagreements between you and the Crypts.}
 {117}{}{Ну, как по мне, вы больше похожи именно на банду.}
 {118}{}{After the War, only the Foolish remain. If I was brave enough, I would have taken my own life years ago. Instead, I pander to whatever gods of chance are left.}
 {119}{}{Understandable. I sort of agree with it. Can I join?}
 {120}{}{We could use another hand. Let me think about this. [She puts her hand to her chin, and parades around the room dramatically.]}
 {121}{}{Be careful with the words you choose. Not all are as forgiving as I am. I play the part, or the part plays me, but there is always room for another corpse to liven the drama.}
-{122}{}{Это угроза?}
-{123}{}{Я быстро.}
+{122}{}{Не понял, это угроза?}
+{123}{}{Я попробую держать себя в руках.}
 {124}{}{It was, now it is among the last words you will ever hear.}
-{125}{}{Хорошо, так держать!}
+{125}{}{Хорошо... "попробуй".}
 {126}{}{Чего тебе надо?}
-{127}{}{Я хочу быть караванщиком.}
-{128}{}{А зачем тебе это знать?}
-{129}{}{Не знаю, могу ли я доверять тебе.}
+{127}{}{Я хочу вступить в вашу банду.}
+{128}{}{Зачем вам генератор?}
+{129}{}{Не знаю, могу ли я доверять тебе. Докажи, что ты достоин.}
 {130}{}{This chicken walks into a bar...}
-{131}{}{Я просто смотрю по сторонам.}
-{132}{}{Просто интересно, что тут творится.}
+{131}{}{Я лучший боец в округе.}
+{132}{}{Вам бы тут пригодился хороший человек.}
 {133}{}{(Minutes pass as you finish your joke. With a nervous smile, you meet her eyes. She laughs.) I like you. You have proven you understand the Joke. You are now a Fool. Betray us and die.}
 {134}{}{Ну, это мы еще посмотрим.}
-{135}{}{Ваш ход, сэр.}
+{135}{}{Скиппи? Твой ход.}
 {136}{}{There is only one thing that separates Scrapheap from the wasteland: the stench of brahmin dung. But without that dung, there would be no power generator.}
-{137}{}{Почему бы тебе этим не заняться?}
+{137}{}{Почему вы им не управляете?}
 {138}{}{Спасибо!}
 {139}{}{Because the Crypts do! They outnumber us for the moment, but if you were to join with us, we could take them.}
-{140}{}{Конечно. Работа есть работа.}
+{140}{}{Конечно. Я присоединюсь.}
 {141}{}{Нет, спасибо.}
 {142}{}{You are a Fool... just kidding. Did you think I would let you join that easily?}
 {143}{}{Да.}
-{144}{}{Ой, ой.}
+{144}{}{Ох, нет!}
 {145}{}{Oh, okay. You're in. You are now a Fool. Betray us and die. Yadda-yadda-yadda.}
-{146}{}{Мразь!}
+{146}{}{Ты врешь!}
 {147}{}{Ну, как ты сейчас себя чувствуешь?}
-{148}{}{Мне так нравится!}
-{149}{}{Отлично! Как мне присоединиться к вам?}
+{148}{}{Мне нравится.}
+{149}{}{Отлично! И что мне делать?}
 {150}{}{Где можно достать силовую броню?}
 {151}{}{You'd better. Not many can delve the humorous depths of full Fooldom.}
 {152}{}{Ну, э-э, и что?}

@@ -124,7 +124,7 @@
 {223}{}{Bullet -  3 minutes per player.}
 {224}{}{ѕревосходна€ форма. ќднако, тебе потребуетс€ еще практика, чтобы нанести поражение мне.}
 {225}{}{And we end in a draw. Outstanding effort. With more practice perhaps you will yet defeat me.}
-{226}{}{¬ы }
+{226}{}{¬ы получаете }
 {227}{}{ очков опыта за то, что достали вод€ной чип.}
 {228}{}{крыль€}
 {229}{}{ draws, }

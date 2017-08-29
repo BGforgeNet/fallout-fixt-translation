@@ -15,7 +15,7 @@
 {114}{}{What have we here? We heard that someone new was in town. This must be you; everyone else looks oh so familiar. Please allow me to introduce myself. I am Baka, Queen of the Fools.}
 {115}{}{Почему вы называете себя Глупцами?}
 {116}{}{I hear there are disagreements between you and the Crypts.}
-{117}{}{Ну, как по мне, вы больше похожи именно на банду.}
+{117}{}{Да ты похожа на шута.}
 {118}{}{After the War, only the Foolish remain. If I was brave enough, I would have taken my own life years ago. Instead, I pander to whatever gods of chance are left.}
 {119}{}{Understandable. I sort of agree with it. Can I join?}
 {120}{}{We could use another hand. Let me think about this. [She puts her hand to her chin, and parades around the room dramatically.]}
@@ -45,17 +45,17 @@
 {144}{}{Ох, нет!}
 {145}{}{Oh, okay. You're in. You are now a Fool. Betray us and die. Yadda-yadda-yadda.}
 {146}{}{Ты врешь!}
-{147}{}{Ну, как ты сейчас себя чувствуешь?}
+{147}{}{Ну, и как тебе нравится быть Шутом?}
 {148}{}{Мне нравится.}
 {149}{}{Отлично! И что мне делать?}
-{150}{}{Где можно достать силовую броню?}
+{150}{}{Где можно достать такую крутую броню?}
 {151}{}{You'd better. Not many can delve the humorous depths of full Fooldom.}
-{152}{}{Ну, э-э, и что?}
+{152}{}{Ээ, да. Спасибо. Эм, и что дальше?}
 {153}{}{Hmm, yes. Good question. Well, I suppose we should plan our attack on the Crypts. We have to gain control of that power generator, or all is lost.}
 {154}{}{И что мне делать?}
 {155}{}{Well, since you are the newest member of the Fools, and therefore the most expendable, I want you to scout the enemy and report.}
 {156}{}{Ладно.}
-{157}{}{Что будем делать?}
+{157}{}{Что, нападаем?}
 {158}{}{Да!}
 {159}{}{Нет!}
 {160}{}{Then why do you bother me? Do your job and report back as soon as possible!}
@@ -64,11 +64,11 @@
 {163}{}{[Готово]}
 {164}{}{[Дальше]}
 {165}{}{The Crypts shall be buried once more!}
-{166}{}{Умри, мразь!}
+{166}{}{Подохни, мразь!}
 {167}{}{Who said you could come out of your graves? Return!}
 {168}{}{Да ничего.}
 {169}{}{You lie! Get to work before I open a can of whup-ass on you!}
-{170}{}{Нет.}
+{170}{}{Я не думаю, что я готов.}
 {171}{}{Все понятно. Счастливо!}
 {172}{}{Gods of fortune, gods of fate. I care not as long as I get the last laugh. We can't join death so we laugh at it.}
 {173}{}{You shall be as if a Fool, but listen well and mark these words of mine: if you betray us as you would your former mates, then you shall die - with a grimace, not a laugh.}

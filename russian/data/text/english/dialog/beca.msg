@@ -17,6 +17,6 @@
 {116}{}{Нет. Здесь отдыхают Клинки, а не черт-те кто.}
 {117}{}{Эй, как жизнь? Падай сюда, если хочешь передохнуть.}
 {118}{}{So, you've volunteered to help. Better than nothing, I reckon. Thanks. Gonna spread the word.}
-{119}{}{Посмотрим, что я могу сделать.}
+{119}{}{Ага, я посмотрю, что смогу сделать.}
 {120}{}{Hey again. I heard you've actually helped us. You are more than worthy of our respect, indeed. We are free now. (You are now a member of the Blades gang.)}
-{121}{}{С этим я вам ничем не могу помочь.}
+{121}{}{С этим я вам ничем не могу помочь. Поговори с Бритвой.}

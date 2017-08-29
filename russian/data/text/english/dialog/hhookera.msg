@@ -143,7 +143,7 @@
 {263}{}{You again? Fuck off, I don't work with retards that can't pay.}
 {264}{}{Э-э...}
 {265}{}{Buh?}
-{300}{}{.}
+{300}{}{ крышек.}
 {301}{}{Upon further inspection, it's obvious that this is a prostitute with a customer. She motions for you to leave, immediately.}
 {302}{}{Upon further inspection, it's obvious that this is a prostitute. She flashes you a fake smile.}
 {400}{}{Надеюсь, я могу задать еще один вопрос.}

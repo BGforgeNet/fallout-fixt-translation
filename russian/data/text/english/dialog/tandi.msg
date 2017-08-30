@@ -122,7 +122,7 @@
 {404}{}{Something I wouldn't want to be announcing to others. Let's go somewhere private and I'll tell you...}
 {405}{}{You look rather... inexperienced. I want to teach you as much as I can. We should get started, there's a lot to go over. *wink*}
 {406}{}{*sigh* More than you can provide, but I'll make do.}
-{407}{}{Сосуд}
+{407}{}{[Дальше]}
 {410}{TAND_14}{Наконец! Кто-то еще это понимает! Конечно, тебя, наверное, уже где только не носило, так что тебе тут просто не продохнуть.}
 {412}{}{(She smiles and leads you to her room.)}
 {415}{}{Эй, детка, давай покувыркаемся. У меня есть деньги, у тебя есть время.}

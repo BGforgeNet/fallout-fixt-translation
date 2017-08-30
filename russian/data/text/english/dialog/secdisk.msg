@@ -6,5 +6,5 @@
 {105}{}{Отключение системы безопасности Гамма Омикрон Дельта}
 {106}{}{**END-DISK**}
 {107}{}{**END-DISK**}
-{108}{}{Сосуд}
+{108}{}{[Дальше]}
 {109}{}{Pip-Boy 2000 displays: 'Username: "admin". Password: "muerte". Security override: Gamma Omicron Delta.'}

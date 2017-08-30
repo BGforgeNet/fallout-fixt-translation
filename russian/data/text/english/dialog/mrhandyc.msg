@@ -34,7 +34,7 @@
 {133}{}{[Click] Unit #462 is authorized to commit deadly force in preservation of itself, as permitted by prior programming.}
 {134}{}{Deadly force?}
 {135}{}{(A speaker crackles to life, and a recorded message of a male voice begins playing. It sounds like an advertisement.) "RobCo is committed to your safety and well-being. All RobCo Mister Handy units are equipped with state-of-the-art safety overrides, to prevent any unfortunate incidents. Rest assured, Mr. Handy is the best and safety investment your family will ever make." (The speaker shuts off.)}
-{136}{}{Сосуд}
+{136}{}{[Дальше]}
 {137}{}{[Click] Processing... [Click] Memory file data indicates that as of Unit #462's manufacture date, out of 4,628 recorded self-defense events initiated by similar Units, only 930 have resulted in deaths of unarmed civilians.}
 {138}{}{Не нравится мне все это.}
 {139}{}{Hmm. I could use some help cleaning up this place, if you get my drift. Could you help me out?}

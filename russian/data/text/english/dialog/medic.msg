@@ -62,7 +62,7 @@
 {161}{}{Меня отравили!}
 {162}{}{I'm wildly irradiated, help me! My skin is melting off!}
 {163}{}{Пожалуйста! Пока!}
-{164}{}{Сосуд}
+{164}{}{[Дальше]}
 {165}{}{Это займет }
 {166}{}{ ч.}
 {167}{}{ I will be able to completely heal you of your radiation sickness, which is }

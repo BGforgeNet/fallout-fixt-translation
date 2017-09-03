@@ -383,7 +383,7 @@
 {19300}{}{Ящик}
 {19301}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
 {19400}{}{Автомат с Ядер-Колой}
-{19401}{}{Он неисправен.}
+{19401}{}{Он неисправен. Какой облом.}
 {19500}{}{Стена}
 {19600}{}{Люк}
 {19601}{}{Похоже на отличный люк.}

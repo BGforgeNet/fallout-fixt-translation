@@ -9,6 +9,6 @@
 {401}{}{Without the generator, the peasants will lead a poorer life.}
 {402}{}{The generator is the most important thing in Scrapheap. Whomever controls it controls Scrapheap.}
 {403}{}{There are exposed wires which lead away from the generator.}
-{500}{}{У тебя проблемы?}
+{500}{}{Проблема Фила с собакой.}
 {501}{}{Phil has some problem with a dog.}
 {502}{}{The dog looks hungry enough to eat Phil.}

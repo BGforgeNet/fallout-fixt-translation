@@ -9,7 +9,7 @@
 {108}{}{You can determine nothing further about the generator.}
 {109}{}{The wires could be repaired, but it may take a while, and there is no guarantee of success.}
 {110}{}{You cannot see anything special about the damaged generator.}
-{111}{}{У вас не получается отпереть дверь.}
+{111}{}{У вас больше ничего не получается починить.}
 {112}{}{There is no need to repair the power generator. It is functioning perfectly.}
 {113}{}{You are unable to repair the functioning generator.}
 {114}{}{It takes several hours, but you fix the power generator. With the power restored, and the gangs gone, the townspeople are grateful. They give you some valuable information. Your task in Scrapheap is done. The mission to find the Water Chip still awaits.}

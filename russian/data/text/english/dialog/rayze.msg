@@ -3,8 +3,8 @@
 {102}{}{Что ты здесь делаешь?}
 {103}{}{Я здесь по своей воле.}
 {104}{}{Ничего, просто мимо прохожу.}
-{105}{}{Расскажи мне про банды.}
-{106}{}{Расскажи про другие банды.}
+{105}{}{Расскажи мне про Шутов.}
+{106}{}{Расскажи про генератор.}
 {107}{}{Хм. И сколько же?}
 {108}{}{He said I could get a cold glass of water.}
 {109}{}{Rock said the Crypts were looking for members.}
@@ -32,7 +32,7 @@
 {131}{}{They are my enemies. They will die. Now why do you bother me?}
 {132}{}{Я здесь по своей воле.}
 {133}{}{Ничего, просто мимо прохожу.}
-{134}{}{Расскажи про другие банды.}
+{134}{}{Расскажи про генератор.}
 {135}{}{You should not ask questions about things you don't know about. The generator is ours, and it will remain ours. As long as we have it, we are in control. You ask too many questions.}
 {136}{}{[Готово]}
 {137}{}{[дальше]}

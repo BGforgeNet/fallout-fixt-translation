@@ -9,9 +9,9 @@
 {108}{}{Все, можем отправляться?}
 {109}{}{Я знаю только одну очень быструю вещь - смерть.}
 {110}{}{I guess afterbirth can live a little while.}
-{111}{}{The Crypts shall be buried once more!}
+{111}{}{Склепы будут похоронены снова!}
 {112}{}{Умри, мразь!}
-{113}{}{Who said you could come out of your graves? Return!}
+{113}{}{Кто сказал, что тебе можно вылезать из могилы? Возвращайся!}
 {114}{}{Thy lowly ways shall be eradicated from the earth!}
 {115}{}{Only Fools have true knowledge to rule Scrapheap.}
 {116}{}{Begone gut slime of a three legged chicken!}

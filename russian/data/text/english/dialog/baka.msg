@@ -71,9 +71,9 @@
 {170}{}{Я не думаю, что я готов.}
 {171}{}{Все понятно. Счастливо!}
 {172}{}{Боги удачи, боги судьбы. Мне все равно, пока я смеюсь последней. Мы не можем присоединиться к смерти, поэтому мы смеемся над ней.}
-{173}{}{You shall be as if a Fool, but listen well and mark these words of mine: if you betray us as you would your former mates, then you shall die - with a grimace, not a laugh.}
-{174}{}{And no, you shall not wear the mantle of a Fool. You will wear the mantle of a traitor, and my garrot will be it's mate.}
-{175}{}{Yes, you can be the next jester in the Fool's court. Welcome to the Fools. Betray us and die.}
-{176}{}{And without that power generator, there is no reason to be in this dunghole. The generator provides light, warmth and even some hair-raising experiences.}
-{177}{}{Go gather some intelligence or something, and bring back news of the enemy. (She waves her hand in a dismissive gesture)}
-{178}{}{Only the Foolish remain! Now I, Queen Baka, rule the Scrapheap.}
+{173}{}{Ты станешь как будто Шутом. Но слушай меня внимательно, и запомни мои слова: если ты предашь нас так, как предал своих бывших товарищей, ты умрешь - с гримасой, а не улыбкой.}
+{174}{}{И нет, ты будешь носить мантию Шута. Ты будешь носить мантию предателя, и к ней в компанию прилагается мой жгут.}
+{175}{}{Да, ты можешь стать новым балагуром в суде Шутов. Добро пожаловать. Предай нас - и умрешь.}
+{176}{}{И без этого генератора нет никакой причины оставаться в этой дыре. Генератор дает свет, тепло, и даже некоторые жутковатые впечатления.}
+{177}{}{Иди собери какую-нибудь информацию, и вернись с новостями о враге. (Она пренебрежительно взмахивает рукой).}
+{178}{}{Остались только Шутовские! Теперь я, королева Бака, правлю Свалкой.}

@@ -38,7 +38,7 @@
 {137}{}{Если поливаешь кого-нибудь дерьмом, не надейся, что тебя самого не забрызгает. Проваливай!}
 {138}{}{??? Разумеется. Проваливай!}
 {139}{}{Увы, мясо закончилось.}
-{140}{}{Sure. All I got is the whole iguanas at the moment. Thirty bucks each. You won't find a better roasted iguana in the wastes, I guarantee it!}
+{140}{}{Конечно. Сейчас у меня только целые игуаны. По 30 крышек. В пустоши не найти жареную игуану вкусней, я гарантирую это!}
 {141}{}{Есть только филе. Отличное блюдо! Восемь баксов за порцию.}
 {142}{}{Конечно. У нас есть игуана на палочке за двадцать баксов и филе за восемь.}
 {143}{}{Я возьму целую игуану.}
@@ -142,18 +142,18 @@
 {241}{}{Пойду я.}
 {242}{}{У меня таких денег нет. Я и так еле-еле концы с концами свожу.}
 {243}{}{Тридцать крышек?! Ты шутишь?}
-{244}{}{Look asshole, you're the one who ruined my profit margins. So if you don't like my prices, fuck off. There's plenty of other iguana stands around here. Oh wait, there isn't. Asshole.}
-{245}{}{Terrible, thanks to you. Nobody likes snitches. Now, if you ain't here to buy anything, get out of my face.}
+{244}{}{Слушай, засранец, это ты мою прибыль уполовинил. Так что если тебе не нравятся мои цены, иди нахрен. Тут полно других стоек с игуанами. А нет, не полно. Говнюк.}
+{245}{}{Ужасно, благодаря тебе. Никто не любит стукачей. Ну, если ты здесь не для того, чтобы что-то купить, проваливай.}
 {246}{}{Как скажешь. Пока.}
-{247}{}{Actually, come to think of it, I am pretty hungry.}
+{247}{}{Вообще-то, если подумать, я довольно голоден.}
 {250}{}{ единиц опыта за успешный шантаж Боба, чтобы он платил вам за молчание.}
-{251}{}{How's business, Bob? *wink*}
-{252}{}{What the hell are you doing here? You shut down my business and got a big fat reward, I'm sure. So you're just here to gloat or what?}
-{253}{}{Pretty much, yeah. How's business, Bob? *wink*}
+{251}{}{Как дела, Боб? *подмигнуть*}
+{252}{}{Какого черта ты тут делаешь? Испортил мне бизнес и наверняка получил жирный кусок с этого. Ты здесь просто поглумиться?}
+{253}{}{В общем, да. Как дела, Боб? *подмигнуть*}
 {254}{}{Не, просто хочу узнать, как ты поживаешь.}
-{255}{}{Terrible, thanks to you. Nobody likes snitches. They might let me die in here for all I know.}
+{255}{}{Ужасно, благодаря тебе. Никто не любит стукачей. Они только рады будут, если я подохну.}
 {256}{}{Так тебе и надо.}
-{257}{}{I could have them kill you right now, if you prefer that over waiting.}
-{258}{}{I'll ask them if we can turn you into Iguana Bits after your execution!}
+{257}{}{Я бы мог помочь им убить тебя прямо сейчас, если тебе не хочется ждать.}
+{258}{}{Я их спрошу, можем ли мы тебя разделать на игуанятину после казни!}
 {259}{}{Ну и ладно. Пошел на хрен.}
 {260}{}{Уходи.}

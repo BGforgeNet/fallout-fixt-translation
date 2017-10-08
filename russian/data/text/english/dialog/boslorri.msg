@@ -86,7 +86,7 @@
 {285}{}{Не волнуйтесь, она любит пошутить.}
 {286}{}{Она обожает розыгрыши.}
 {300}{}{Мило, но меня это не интересует. Возвращайся, когда потребуется лечение.}
-{301}{}{No offense honey, but you're a little below my standards. I'm flattered though.}
+{301}{}{Без обид, милый, но ты немного ниже моих стандартов. Но я правда польщена.}
 {302}{}{Oh, thank you so much. (She blushes) I don't really get any compliments. Being a Brotherhood Doctor is mostly just a stressful, thankless job. I like to joke around, to keep myself entertained and upbeat.}
 {303}{}{I understand. Wouldn't it help to blow off some steam once in a while?}
 {304}{}{Пожалуйста! Пока!}

@@ -30,7 +30,7 @@
 {129}{}{Well, you sure do ask a lot of questions. I think you should just move along now.}
 {130}{}{Ладно.}
 {131}{}{[Готово]}
-{132}{}{Церковь до тебя доберется!}
-{133}{}{Вам не отвечают.}
+{132}{}{Склепы тебя похоронят!}
+{133}{}{Шутам незачем жить.}
 {134}{}{The Foolish shall perish.}
 {135}{}{Look who got hit with the ugly stick.}

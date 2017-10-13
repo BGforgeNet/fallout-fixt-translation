@@ -16,5 +16,5 @@
 {115}{}{[≈ў≈]}
 {116}{}{Phil has more courage than any Fool!}
 {117}{}{PUPLE BABBOONS!}
-{118}{}{. Ѕрамин дрожит от €рости}
+{118}{}{Ѕрамины умней Ўутов.}
 {119}{}{The Fools are so weak, even Lex can beat them all up.}

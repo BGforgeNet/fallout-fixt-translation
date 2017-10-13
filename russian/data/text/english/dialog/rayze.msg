@@ -39,7 +39,7 @@
 {138}{}{Haha! More fools to kill!!}
 {139}{}{The only thing you Fools will rule is a tombstone.}
 {140}{}{The droppings of Brahmin smell better than you.}
-{141}{}{Даже если я умру, я буду выглядеть лучше чем ты.}
+{141}{}{Даже Ленни стреляет лучше.}
 {142}{}{You should not have lied to me. I know better. Go, scout the Fools and return. Do not tempt me.}
 {143}{}{You cannot be trusted. That is a shame. You will die. This is a pleasure.}
 {144}{}{Мы управляем этим городом.}

@@ -1,4 +1,4 @@
-{100}{}{Вы видите Локсли, лидера Гильдии воров.}
+{100}{}{Вы видите Лекса, главаря банды Гадюк.}
 {101}{}{A huge chap with a bad attitude, glaring at you.}
 {102}{}{[...You steadily wake up and take a look around. You see an unfamiliar place, three tents and several people near them. Looks like you managed to regain consciousness before they could clean your pockets. Your eyes focus on the man standing next to you] Oh, our unfortunate buyer has awaken.}
 {103}{}{[Дальше]}
@@ -6,9 +6,9 @@
 {105}{}{And what guarantees I leave this place alive if you get the money?}
 {106}{}{I've always loved westerns.}
 {107}{}{Cowboys.}
-{108}{}{Мы выполняем работу для Создателя.}
+{108}{}{Слово налетчика!}
 {109}{}{I think I can trust you. Here, take it. [You give him your savings]}
-{110}{}{Эти неудачники мертвы.}
+{110}{}{Эти слова ничего для меня не значат.}
 {111}{}{So, a stubborn one? I rather like it. I think the guys will have some fun with you then.}
 {112}{}{If you don't trust the words, you should trust our guns! A wimp like you is not a match for the whole gang!}
 {113}{}{Then again, I'd rather kill you. To be sure that nobody'll chatter too much around. Farewell.}

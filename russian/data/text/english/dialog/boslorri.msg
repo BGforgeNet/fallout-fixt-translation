@@ -90,7 +90,7 @@
 {302}{}{Oh, thank you so much. (She blushes) I don't really get any compliments. Being a Brotherhood Doctor is mostly just a stressful, thankless job. I like to joke around, to keep myself entertained and upbeat.}
 {303}{}{I understand. Wouldn't it help to blow off some steam once in a while?}
 {304}{}{Пожалуйста! Пока!}
-{305}{}{Well... I do get lonely sometimes, and you don't get any 'vacation time' when you're the only doctor in the Brotherhood. Oh, what am I saying though? This is so silly.}
+{305}{}{Ну ... Мне иногда бывает одиноко, и вы не получаете никакого «отпуска», когда вы единственный врач в Братстве. О, что я говорю? Это так глупо.}
 {306}{}{You should suck it up. Take pride in your work and the rest will follow.}
 {307}{}{Life's short and then you die. Don't you want to enjoy it while it lasts?}
 {308}{}{It's not silly at all. (Lightly touch her face, then lean in and kiss her)}

@@ -87,7 +87,7 @@
 {286}{}{Она обожает розыгрыши.}
 {300}{}{Мило, но меня это не интересует. Возвращайся, когда потребуется лечение.}
 {301}{}{Без обид, милый, но ты немного ниже моих стандартов. Но я правда польщена.}
-{302}{}{Oh, thank you so much. (She blushes) I don't really get any compliments. Being a Brotherhood Doctor is mostly just a stressful, thankless job. I like to joke around, to keep myself entertained and upbeat.}
+{302}{}{Ох, спасибо большое. (Она краснеет) I don't really get any compliments. Быть доктором Братства это в основном напряженная, неблагодарная работа. Мне нравится шутить, to keep myself entertained and upbeat.}
 {303}{}{I understand. Wouldn't it help to blow off some steam once in a while?}
 {304}{}{Пожалуйста! Пока!}
 {305}{}{Ну... Мне иногда бывает одиноко, и вы не получаете никакого "отпуска", когда вы единственный врач в Братстве. О, что я говорю? Это так глупо.}

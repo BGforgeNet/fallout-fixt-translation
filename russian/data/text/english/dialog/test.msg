@@ -5,8 +5,8 @@
 {104}{}{That's a good question. Seems I should turn to you later.}
 {105}{}{Hmmm... Well, I'm not sure. A wealthier buyer could be of more use. Listen, why don't you come back a little bit later, when you have some more caps?}
 {106}{}{Believe me, a friend of mine has a REAL business. It seems, he is the only person in the wasteland who could sell you a car. The place is not so far away from here. It should take about one day to get there. Dude uses his own house as a parking garage... 400 caps would be enough for me to show you the way.}
-{107}{}{Скажи только, где это, об остальном я позабочусь.}
-{108}{}{Извини, Ирвин, но у меня есть более важные дела.}
+{107}{}{Заметано. Покажи мне своего друга, а об остальном я позабочусь.}
+{108}{}{Извини, Кайл. У меня есть более важные дела.}
 {109}{}{Okay, I'll take your there. Anything for a hunky costumer, anything! Follow me. [accepts 400 caps]}
 {110}{}{I knew you'd chicken out. Everyone is afraid of travel having so much money. However my raider friends will help you with that! [You come to understand that something went wrong, but suddenly a strong kick in the head knocks you down unconscious. Last thing you feel is that you are being dragged somewhere...]}
 {111}{}{Listen, scumbag. Get lost. Your threats are empty.}

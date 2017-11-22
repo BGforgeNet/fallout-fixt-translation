@@ -103,7 +103,7 @@
 {315}{}{Обязательно. До встречи.}
 {316}{}{What are you do- ... (She is startled at first, but quickly melts to your embrace and kisses you back tenderly, moaning softly. As your kissing becomes more passionate, she stops and pulls away) Come with me. (She stands and leads you to her quarters...)}
 {317}{}{Да! Ты заставляешь меня чувствовать себя такой красивой и желанной.}
-{318}{}{(She smiles and takes your hand...)}
+{318}{}{(Она улыбается и берет вас за руку...)}
 {319}{}{Well, I do need some brushing up on my anatomy lessons... (She winks)}
 {400}{}{Мда, вам действительно нужно повысить интеллект. Знаете, я сделаю вам эту операцию за три тысячи вместо шести. Результат не гарантирую, но попробовать стоит. Вы пробудете у нас три недели. Хотя вы, наверное, даже не понимаете, о чем я говорю?}
 {401}{}{Хочет быть умный.}

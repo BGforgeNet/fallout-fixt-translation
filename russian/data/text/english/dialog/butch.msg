@@ -123,7 +123,7 @@
 {222}{}{Благодаря мне он мертв.}
 {223}{}{Говорю тебе, это не Коготь смерти.}
 {224}{BUTCH41}{Ты... Тебе удалось его убить? Ого... А откуда взялись эти мутанты?}
-{225}{}{From the northwest. I think they have some kind of outpost there.}
+{225}{}{С северо-запада. Я думаю, у них там что-то вроде базы.}
 {226}{}{С укрепленной базы на северо-западе. Это не простые мутанты. Они работают на какого-то урода, который зовет себя Создатель. И они не обычные мутанты.}
 {227}{BUTCH42}{База? Э-э... Я должен рассказать об этом Комитету... Да-да, там с этим разберутся. Так и сделаю. Все, иди, у меня куча дел.}
 {228}{BUTCH43}{Создатель? Да он же... Это же легенда еще почище Когтя смерти... Ты... Ты ведь не думаешь, что он существует, а?}
@@ -229,18 +229,18 @@
 {329}{}{Пока ничего.}
 {330}{}{Тьфу!}
 {331}{}{Убирайся отсюда, тупица.}
-{332}{}{Far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{333}{}{Far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed.}
-{334}{}{Far to the northwest. It's some kind of outpost or operations center. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{335}{}{Far to the northwest. It's some kind of outpost or operations center.}
-{336}{}{From the northwest. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{337}{}{From the northwest. I think they have some kind of outpost there.}
-{338}{}{I don't know yet, but they work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{339}{}{I don't know yet, but there was a big green mutant in a cave near town, babbling about some mission from this guy called "Master".}
-{340}{}{I don't know yet, but I found this weird disk on a big green mutant who said something about his "Master".}
-{341}{}{No, no, no, you pinhead. These mutants are green, and they come from far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{342}{}{No, no, no, you pinhead. These mutants are green, and they come from far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed.}
-{343}{}{No, no, no, you pinhead. These mutants are big and green, and they come from far to the northwest. It's some kind of outpost or operations center. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{332}{}{С укрепленной военной базы далеко на северо-западе. Это не обычные мутанты - они огромны и хорошо вооружены. Они работают на какого-то безумца, который называет себя Создателем. Они организованы и похищают людей с караванов.}
+{333}{}{С укрепленной военной базы далеко на северо-западе. Это не обычные мутанты - они огромны и хорошо вооружены. }
+{334}{}{С северо-запада. Там что-то вроде базы или командного центра. Работают на какого-то безумца, который называет себя Создателем. Они организованы и похищают людей с караванов.}
+{335}{}{С укрепленной военной базы далеко на северо-западе. Там что-то вроде базы или командного центра.}
+{336}{}{С северо-запада. Они работают на какого-то безумца, который называет себя Создателем. Они организованы и похищают людей с караванов.}
+{337}{}{С северо-запада. Я думаю, у них там что-то вроде базы.}
+{338}{}{Пока не знаю, но они работают на какого-то безумца, который называет себя Создателем. Они организованы и похищают людей с караванов.}
+{339}{}{Пока не знаю, но в пещере недалеко от города был огромный зеленый мутант, он бормотал про какое-то задание "Создателя".}
+{340}{}{Пока не знаю, но я нашел этот странный голодиск у огромного зеленого мутанта, он говорил про "Создателя".}
+{341}{}{Да нет, ты не понимаешь. Это совсем другие мутанты - огромные, зеленокожие, они лезут с северо-запада. Там у них какой-то пост или оперативный центр. И это не обычные мутанты, они огромного размера и хорошо вооружены. Работают на какого-то безумца, называющего себя "Создателем". Они организованы и похищают людей с караванов.}
+{342}{}{Да нет, ты не понимаешь. Это совсем другие мутанты - огромные, зеленокожие, они лезут с северо-запада, с укрепленной военной базы. И это не обычные мутанты, они огромного размера и хорошо вооружены.}
+{343}{}{Да нет, ты не понимаешь. Это совсем другие мутанты - огромные, зеленокожие, они лезут с северо-запада. Там у них какой-то пост или оперативный центр. Они работают на какого-то безумца, называющего себя "Создателем". Они организованы и похищают людей с караванов.}
 {344}{}{Да нет, ты не понимаешь. Это совсем другие мутанты - огромные, зеленокожие, они лезут с северо-запада. Там у них какой-то пост или оперативный центр.}
 {345}{}{Да нет, ты не понимаешь. Это совсем другие мутанты - огромные, зеленокожие, они лезут с северо-запада. Они работают на какого-то урода, который называет себя Создатель. Они организованны и похищают людей из караванов.}
 {346}{}{Да нет, ты не понимаешь. Это совсем другие мутанты - огромные, зеленокожие, они лезут с северо-запада. Я думаю у них там какой-то пост.}

@@ -88,20 +88,20 @@
 {300}{}{Мило, но меня это не интересует. Возвращайся, когда потребуется лечение.}
 {301}{}{Без обид, милый, но ты немного ниже моих стандартов. Но я правда польщена.}
 {302}{}{Ох, спасибо большое. (Она краснеет) Я получаю не так много комплиментов. Быть доктором Братства это в основном напряженная, неблагодарная работа. Мне нравится шутить, хоть как-то себя развлекать, чтобы не унывать совсем.}
-{303}{}{I understand. Wouldn't it help to blow off some steam once in a while?}
+{303}{}{Я понимаю. Разве было бы не плохо время от времени выпустить пар?}
 {304}{}{Пожалуйста! Пока!}
 {305}{}{Ну... Мне иногда бывает одиноко, и вы не получаете никакого "отпуска", когда вы единственный врач в Братстве. О, что я говорю? Это так глупо.}
-{306}{}{You should suck it up. Take pride in your work and the rest will follow.}
-{307}{}{Life's short and then you die. Don't you want to enjoy it while it lasts?}
-{308}{}{It's not silly at all. (Lightly touch her face, then lean in and kiss her)}
-{309}{}{Yes, I suppose you're right. (She shakes her head and sighs, then recomposes and smiles) Well, back to work! Thank you for the compliment.}
-{310}{}{(She thinks for a moment) You're right. And I do. Give me about ten minutes - I need to prep the exam table. (She smiles devilishly and bites her lower lip)}
+{306}{}{Хватит ныть. Гордись своей работой, а остальное само придет.}
+{307}{}{Жизнь коротка и в конце ты умрешь. Разве ты не хочешь наслаждаться ею пока есть шанс ?}
+{308}{}{Это не глупо. (Слегка коснитесь ее лица, затем наклонитесь и поцелуйте ее)}
+{309}{}{Да, я полагаю, ты прав. (Она качает головой и вздыхает, затем пересчитывает и улыбается) Ну, возвращаемся к работе!Спасибо за комплимент.}
+{310}{}{(Она задумалась на мгновение) Ты прав. И я сделаю. Да мне около 10-ти минут - Мне нужно подготовить таблицу экзаменов. (Она дьявольски улыбается и кусает нижнюю губу)}
 {311}{}{(Она берет вас за руку и ведет в свою комнату...)}
-{312}{}{That was beautiful. I... I think I'm in love with you. (She giggles) Just kidding! Alright, time to go. I have work to do.}
-{313}{}{Oh wow. I haven't been fucked like that in years. I think I'm going to be sore for a week, but it was worth it. (She looks at you longingly) Let's do this again soon!}
-{314}{}{Привет, красотка, как дела? Хочешь опять повеселиться?}
+{312}{}{Это было прекрасно. Я... Я думаю, Я влюбилась в тебя. (Она хихикает) Просто шучу! Хорошо, пора идти. У меня есть работа, которую надо сделать.}
+{313}{}{Ух ты. Я не трахалась так много лет. Я думаю, у меня будет все болеть неделю, но это того стоило. (Она смотрит на тебя с тоской) Давай повторим это как нибудь!}
+{314}{}{Привет, красотка, как дела? Хочешь немного повеселиться?}
 {315}{}{Обязательно. До встречи.}
-{316}{}{What are you do- ... (She is startled at first, but quickly melts to your embrace and kisses you back tenderly, moaning softly. As your kissing becomes more passionate, she stops and pulls away) Come with me. (She stands and leads you to her quarters...)}
+{316}{}{Что ты-... (Сначала она пугается, но быстро тает в ваших объятиях и нежно целует вас, тихонько постанывая. Когда ваши поцелуи становятся более страстными, она останавливается и отстраняется). Идем со мной. (Она встает и ведет вас в свою комнату...)}
 {317}{}{Да! Ты заставляешь меня чувствовать себя такой красивой и желанной.}
 {318}{}{(Она улыбается и берет вас за руку...)}
 {319}{}{Well, I do need some brushing up on my anatomy lessons... (She winks)}

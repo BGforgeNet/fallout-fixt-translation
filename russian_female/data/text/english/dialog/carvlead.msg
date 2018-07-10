@@ -73,5 +73,5 @@
 {601}{}{, как договаривались. [Он достает старый кошелек и отдает вам деньги.] Получишь еще }
 {602}{}{Понадобится еще работа - поговори с боссом. Надеюсь, нам еще удастся вместе поработать. Удачи.}
 {603}{}{, как договаривались. (Он достает старый кошелек и отдает вам деньги) }
-{604}{}{Okay, you made it. I can't pay you anything since we lost the whole caravan. Gotta cover our losses y'know. I wish it could be different but that's the rules.}
+{604}{}{Отлично, у тебя получилось. К сожалению, мы потеряли караван и я не смогу тебе заплатить. Необходимо покрыть наши потери. Хотелось, чтобы все было по другому, но увы, жизнь диктует свои правила.}
 {605}{}{Okay, you made it. I can't pay you anything since all of the brahmin died. You cost us a lot of money, bub. No brahmin, no caravan, no money. I hope they don't let you work with us again.}

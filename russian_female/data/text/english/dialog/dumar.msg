@@ -1,5 +1,5 @@
 {100}{}{Вы видите Думара, чемпиона Чад Собора.}
-{101}{}{Greetings traveler. We have heard tales of one who traverses the Wasteland. How might we be of service to you today?}
+{101}{}{Приветствую, путешественница. Мы слышали рассказы о той, которая пересекает Пустошь. Как мы можем помочь тебе сегодня?}
 {102}{}{Ы? Ар-ро?}
 {103}{}{The Wasteland is a rough place. I have been injured pretty bad. Can you you help me out with that?}
 {104}{}{Я хочу убить тебя и всех ваших приспешников!}

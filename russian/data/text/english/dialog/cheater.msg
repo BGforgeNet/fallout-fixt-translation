@@ -44,7 +44,7 @@
 {215}{}{[Hands you a Burrito Supreme] Enjoy your Grade D Beef.}
 {216}{}{Now you glow like a 50-rad light bulb.}
 {217}{}{Договорились.}
-{221}{}{[Grinning Visciously] I was happy to 'help' you.}
+{221}{}{[Злобно скалит зубы] Был рад 'помочь'.}
 {222}{}{Что я могу вам сломать сегодня?}
 {223}{}{1 Сломать левую ногу}
 {224}{}{2 Сломать правую ногу}

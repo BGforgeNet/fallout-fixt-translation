@@ -1,45 +1,45 @@
-{100}{}{Do you wish to enter the debug dialog? [If unsure, click No]}
+{100}{}{Желаете войти в диалог отладки? [Если не уверены, нажмите Нет]}
 {101}{}{1 Открутить часы назад.}
-{102}{}{Okay. How much? [Numbers at beginning are number you can hit to choose that selection]}
-{103}{}{1    One second  [10 ticks]}
-{104}{}{2    One minute}
-{105}{}{3    One hour}
-{106}{}{4    One day}
-{107}{}{5    One week}
-{108}{}{6    One month [30 days]}
-{109}{}{7    Six months}
+{102}{}{Хорошо. На сколько? [Числа вначале означают цифровые клавиши, которые вы можете нажать для выбора]}
+{103}{}{1 Одна секунда [10 тиков]}
+{104}{}{2 Одна минута}
+{105}{}{3 Один час}
+{106}{}{4 Один день}
+{107}{}{5 Одна неделя}
+{108}{}{6 Один месяц [30 дней]}
+{109}{}{7 Шесть месяцев}
 {110}{}{9 Ничего.}
 {111}{}{2 Прокрутить часы вперед.}
-{112}{}{Okay. How much? [Numbers at beginning are number you can hit to choose that selection]}
-{113}{}{1    One second  [10 ticks]}
-{114}{}{2    One minute}
-{115}{}{3    One hour}
-{116}{}{4    One day}
-{117}{}{5    One week}
-{118}{}{6    One month [30 days]}
-{119}{}{7    Six months}
+{112}{}{Хорошо. На сколько? [Числа вначале означают цифровые клавиши, которые вы можете нажать для выбора]}
+{113}{}{1 Одна секунда [10 тиков]}
+{114}{}{2 Одна минута}
+{115}{}{3 Один час}
+{116}{}{4 Один день}
+{117}{}{5 Одна неделя}
+{118}{}{6 Один месяц [30 дней]}
+{119}{}{7 Шесть месяцев}
 {120}{}{9 Ничего.}
-{121}{}{7  Give me all the keys in the game.}
-{122}{}{In a backpack or directly in your inventory?}
-{123}{}{1    In a backpack.}
-{124}{}{2    In my inventory.}
+{121}{}{7 Дай мне все ключи в игре.}
+{122}{}{В рюкзак или напрямую вам в инвентарь? }
+{123}{}{1 В рюкзак.}
+{124}{}{2 В инвентарь.}
 {125}{}{3 Ничего.}
-{126}{}{8    13 years}
-{127}{}{8    13 years}
+{126}{}{8 13 лет}
+{127}{}{8 13 лет}
 {200}{}{Что я могу начитерить для вас сегодня?}
 {201}{}{1 Опыт.}
-{202}{}{2  Damage, Poison, Radiation.}
+{202}{}{2 Урон, Яд, Радиация.}
 {203}{}{7 Яд}
 {204}{}{7 Радиация}
-{205}{}{3  Delete ALL items from my inventory - Includes equipped!}
-{206}{}{4  Toggle "BUG FIXES ONLY" global variable [gvar 0]}
-{207}{}{8  Nothing. [close dialog]}
+{205}{}{3 Удалить ВСЕ предметы из инвентаря, включая экипированные!}
+{206}{}{4 Включить глобальную переменную "BUG FIXES ONLY" [gvar 0]}
+{207}{}{8 Ничего. [закрыть диалог]}
 {208}{}{"Fixes Only" mode currently ENABLED. Disable?}
 {209}{}{1    Yes, Disable it.}
 {210}{}{2    No. [back]}
 {211}{}{"Fixes Only" mode currently DISABLED. Enable?}
 {212}{}{1    Yes, Enable.}
-{213}{}{before: }
+{213}{}{до:}
 {214}{}{after: }
 {215}{}{[Hands you a Burrito Supreme] Enjoy your Grade D Beef.}
 {216}{}{Now you glow like a 50-rad light bulb.}

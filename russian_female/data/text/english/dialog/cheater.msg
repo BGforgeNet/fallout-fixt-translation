@@ -39,8 +39,8 @@
 {210}{}{2    No. [back]}
 {211}{}{"Fixes Only" mode currently DISABLED. Enable?}
 {212}{}{1    Yes, Enable.}
-{213}{}{до:}
-{214}{}{after: }
+{213}{}{до: }
+{214}{}{после: }
 {215}{}{[Hands you a Burrito Supreme] Enjoy your Grade D Beef.}
 {216}{}{Now you glow like a 50-rad light bulb.}
 {217}{}{Договорились.}

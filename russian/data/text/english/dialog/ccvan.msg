@@ -7,7 +7,7 @@
 {106}{}{Отлично. У нас есть место для еще одного охранника. Интересует?}
 {107}{}{Хорошо. Если тебе нужна работа, то подходи, обеспечим.}
 {108}{}{Печально слышать. Пока.}
-{109}{}{Excellent. We have caravans leaving for L.A. Boneyard, Junktown, Necropolis and the Brotherhood of Steel. Which would you like to work on?}
+{109}{}{Отлично. Наши караваны ходят в Могильник, Джанктаун, Некрополь и Братство Стали. На каком из них ты желал бы работать?}
 {110}{}{Excellent. We have caravans leaving for L.A. Boneyard, Junktown and the Brotherhood of Steel. Which would you like to work on?}
 {111}{}{Excellent. We have caravans leaving for L.A. Boneyard and Junktown. Which would you like to work on?}
 {112}{}{Могильник Лос-Анджелеса}

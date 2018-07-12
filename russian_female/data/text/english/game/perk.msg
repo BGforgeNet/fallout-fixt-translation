@@ -119,7 +119,7 @@
 {255}{}{You've got the shakes and feel weak. Life's rough without steroids.}
 {256}{}{You feel groggy and slow. Your brain itself seems to ache...}
 {257}{}{You feel light-headed and irritable. Where's that spare syringe?}
-{258}{}{Вас подташнивает, а воздух, кажется, дрожит от жары.}
+{258}{}{Вас подташнивает, и вы чувствуете ломку. Всего лишь еще одну порцию, и все!}
 {259}{}{Снайперский выстрел}
 {260}{}{Точный прицел}
 {261}{}{Увеличенная бронебойность}

@@ -11,7 +11,8 @@ U:\ > }
 0 байт в 0 файлов, 0 байт выделено, 4 379 255 байт свободно}
 {109}{}{ФАЛЛАУТ CD}
 {110}{}{Вау! Это отличная игра!}
-{111}{}{ U:\ > }
+{111}{}{
+ U:\ >}
 {112}{}{After several minutes of searching, you find a Debug Mode jumper setting and change it to 01.}
 {113}{}{FALLOUTW.EXE}
 {114}{}{U:\Fallout\ > }

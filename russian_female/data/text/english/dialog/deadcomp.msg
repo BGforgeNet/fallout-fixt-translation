@@ -23,7 +23,7 @@ FALLDEMO.EXE     995328    04-22-97   2:13p
 {118}{}{[√отово]}
 {119}{}{¬ы получаете 100 очков опыта за игру в Fallout.}
 {120}{}{ U:\Fallout\ >}
-{121}{}{I can't get enough of this Fallout game. They just don't make 'em like they used to in the pre-War days.}
+{121}{}{Ќе могу оторватьс€ от этой игры Fallout. —ейчас уже не делают подобного тому, что выпускалось в предвоенные годы. }
 {122}{}{Hmmm... I wonder what that setting changes?}
 {123}{}{> «апустить последовательность отладки}
 {124}{}{*click* ............. Please stand by ... ... ... ... ... ... 

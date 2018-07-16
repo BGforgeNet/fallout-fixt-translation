@@ -22,7 +22,9 @@ FALLDEMO.EXE     995328    04-22-97   2:13p
 {117}{}{> ЗАГРУЗКА...}
 {118}{}{[Готово]}
 {119}{}{Вы получаете 100 очков опыта за игру в Fallout.}
-{120}{}{    U:\Fallout\ > }
+{120}{}{
+ U:\Fallout\ > 
+}
 {121}{}{I can't get enough of this Fallout game. They just don't make 'em like they used to in the pre-War days.}
 {122}{}{Hmmm... I wonder what that setting changes?}
 {123}{}{> Запустить последовательность отладки}

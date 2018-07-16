@@ -159,7 +159,7 @@
 {352}{}{TARDIS.MAP}
 {353}{}{TALKCOW.MAP}
 {354}{}{USEDCAR.MAP}
-{355}{}{BRODEAD.MAP (not used in-game)}
+{355}{}{BRODEAD.MAP (не используется в игре)}
 {356}{}{DESCRVN1.MAP}
 {357}{}{DESCRVN2.MAP}
 {358}{}{MNTCRVN1.MAP}

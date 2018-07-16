@@ -164,7 +164,7 @@
 {357}{}{DESCRVN2.MAP}
 {358}{}{MNTCRVN1.MAP}
 {359}{}{MNTCRVN2.MAP}
-{360}{}{VIPERS.MAP (не используется при игре)}
+{360}{}{VIPERS.MAP (не используется в игре)}
 {361}{}{DESCRVN3.MAP}
 {362}{}{MNTCRVN3.MAP}
 {363}{}{DESCRVN4.MAP}

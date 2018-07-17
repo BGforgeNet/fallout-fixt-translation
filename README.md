@@ -3,6 +3,11 @@
 <img src="https://tra.bgforge.net/widgets/fallout/-/fixt/svg-badge.svg" alt="Translation status" />
 </a>
 
+[__Help translating__](https://tra.bgforge.net/projects/fallout/fixt/)
+| [__Download__](https://github.com/BGforgeNet/fallout-fixt-translation/releases)
+| [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=9&t=23)
+| [__Report issues__](https://github.com/BGforgeNet/fallout2-fix-translation/issues)
+
 This is a localization effort for Fallout 1 [Fixt](http://nma-fallout.com/threads/fallout-fixt-0-81alpha-july-5th-2015.194562).
 
 Help translating at [BGforge](https://tra.bgforge.net/projects/fallout/fixt/).

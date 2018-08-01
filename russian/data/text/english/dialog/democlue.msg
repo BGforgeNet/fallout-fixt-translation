@@ -1,8 +1,8 @@
 {100}{}{Уничтожьте банды, живущие на Свалке.}
-{101}{}{If you do not kill off all the gangs they will seek vengeance.}
-{102}{}{The Crypts and Fools fight over who controls the power generator.}
-{200}{}{Scout for the Fools}
-{201}{}{You need to go scout out the Crypts for the Fools.}
+{101}{}{Если вы не уничтожите всех бандитов, они будут искать расплаты. }
+{102}{}{Склепы и Шуты сражаются за контроль над электрогенератором. }
+{200}{}{Провести разведку для Шутов}
+{201}{}{Вам нужно разведать для Шутов, что там у Склепов. }
 {300}{}{Scout for the Crypts}
 {301}{}{You need to go scout out the Fools for the Crypts.}
 {400}{}{The Power Generator}

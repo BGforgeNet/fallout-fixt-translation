@@ -3,10 +3,10 @@
 {102}{}{Склепы и Шуты сражаются за контроль над электрогенератором. }
 {200}{}{Провести разведку для Шутов}
 {201}{}{Вам нужно разведать для Шутов, что там у Склепов.}
-{300}{}{Scout for the Crypts}
-{301}{}{You need to go scout out the Fools for the Crypts.}
-{400}{}{The Power Generator}
-{401}{}{Without the generator, the peasants will lead a poorer life.}
+{300}{}{Провести разведку для Склепов}
+{301}{}{Вам нужно разведать для Склепов, что там у Шутов. }
+{400}{}{Электрогенератор}
+{401}{}{Без генератора жители будут жить беднее. }
 {402}{}{The generator is the most important thing in Scrapheap. Whomever controls it controls Scrapheap.}
 {403}{}{There are exposed wires which lead away from the generator.}
 {500}{}{Проблема Фила с собакой.}

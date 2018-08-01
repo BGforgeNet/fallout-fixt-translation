@@ -54,7 +54,7 @@ FALLDEMO.EXE     995328    04-22-97   2:13p
 {140}{}{rrrggg... In-doh?}
 {141}{}{
 
-¬ы дуете на кассету и убедившись, что лента выровнена внутри катушки, полностью вставл€ете голодиск в слот ленточного дисковода. ”далив пыль с 5" гибкого диска вы вставл€ете его в слот дисковода и поворачиваете блокировочный переключатель.}
+¬ы дуете на кассету и убедившись, что лента выровнена внутри катушки, полностью вставл€ете голодиск в слот ленточного дисковода. ”далив пыль с п€тидюймового гибкого диска, вы вставл€ете его в слот дисковода и поворачиваете блокировочный переключатель.}
 {142}{}{> 12:50 [Press Return]}
 {143}{}{[For a few moments the lights blink on the floppy port and the tapedrive makes a high-pitched whirring. This stops, followed by a steady grinding sound from the floppy drive.]}
 {144}{}{>>> DO NOT POWER OFF OR RESET THIS TERMINAL >>> :: DATA CORRUPTION WILL OCCUR ::

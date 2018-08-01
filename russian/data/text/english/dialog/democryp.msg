@@ -1,6 +1,6 @@
 {100}{}{Вы видите Могильщика.}
 {101}{}{Вы видите члена банды.}
-{102}{}{Добро пожаловать в банду, мужик.}
+{102}{}{Добро пожаловать в банду, чувак.}
 {103}{}{We Crypts will bury those Fools.}
 {104}{}{I'm glad you're on on our side.}
 {105}{}{With your help, we can kill them Fools.}

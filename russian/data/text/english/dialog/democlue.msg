@@ -6,7 +6,7 @@
 {300}{}{Провести разведку для Склепов}
 {301}{}{Вам нужно разведать для Склепов, что там у Шутов. }
 {400}{}{Электрогенератор}
-{401}{}{Без генератора жители будут жить беднее. }
+{401}{}{Без генератора жители будут жить беднее.}
 {402}{}{The generator is the most important thing in Scrapheap. Whomever controls it controls Scrapheap.}
 {403}{}{There are exposed wires which lead away from the generator.}
 {500}{}{Проблема Фила с собакой.}

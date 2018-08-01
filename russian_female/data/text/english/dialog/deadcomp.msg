@@ -46,15 +46,15 @@ FALLDEMO.EXE     995328    04-22-97   2:13p
 {136}{}{
 
 ¬ы не находите ничего, напоминащего диск или картридж...}
-{137}{}{[Continue to search]}
+{137}{}{[ѕродолжить искать]}
 {138}{}{
 
-There's an old holodisk in the tape catridge drive that looks like it would work in your Pip-Boy 2000!}
-{139}{}{[Install the disks]}
+¬ проигрывателе кассет лежит старый голодиск. ѕохоже, он сможет работать и в вашем Pip-Boy 2000!}
+{139}{}{[”становить диски]}
 {140}{}{rrrggg... In-doh?}
 {141}{}{
 
-You push the holodisk all the way into the tapedrive slot after blowing on it and checking that the tape is properly aligned inside the spools. After dusting off the 5" floppy disk, you insert it into the floppy drive slot and turn the locking lever.}
+¬ы дуете на кассету и убедившись, что лента выровнена внутри катушки, полностью вставл€ете голодиск в слот ленточного дисковода. ”далив пыль с 5" гибкого диска вы вставл€ете его в слот дисковода и поворачиваете блокировочный переключатель.}
 {142}{}{> 12:50 [Press Return]}
 {143}{}{[For a few moments the lights blink on the floppy port and the tapedrive makes a high-pitched whirring. This stops, followed by a steady grinding sound from the floppy drive.]}
 {144}{}{>>> DO NOT POWER OFF OR RESET THIS TERMINAL >>> :: DATA CORRUPTION WILL OCCUR ::

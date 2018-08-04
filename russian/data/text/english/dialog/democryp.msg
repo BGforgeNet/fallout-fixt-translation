@@ -3,7 +3,7 @@
 {102}{}{Добро пожаловать в банду, чувак.}
 {103}{}{Мы, Склепы, похороним этих Шутов.}
 {104}{}{I'm glad you're on on our side.}
-{105}{}{С твоей помощью мы можем перебить этих Шутов. }
+{105}{}{С твоей помощью мы можем перебить этих Шутов.}
 {106}{}{This town is all ours now.}
 {107}{}{I like your style.}
 {108}{}{You gotta get yourself some leather. You a Crypt now.}

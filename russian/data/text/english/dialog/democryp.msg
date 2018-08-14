@@ -7,7 +7,7 @@
 {106}{}{Этот город теперь весь наш. }
 {107}{}{Мне нравится твой стиль.}
 {108}{}{Придется тебе найти что-нибудь кожаное, ты теперь один из Склепов.}
-{109}{}{We don't want your kind around here, Fool.}
+{109}{}{Нам нам не нужно, чтобы такие, как ты, здесь ошивались, Шут. }
 {110}{}{Get out, before we throw you out.}
 {111}{}{If you start any trouble, the whole Crypt will come down on you.}
 {112}{}{You made the wrong choice. Now you gonna be buried.}

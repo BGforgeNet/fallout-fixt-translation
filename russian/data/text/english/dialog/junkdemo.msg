@@ -19,9 +19,9 @@
 {118}{}{}
 {119}{}{}
 {120}{}{}
-{200}{}{Run, Fools, while you still have a chance to live.}
+{200}{}{Беги, Шут, пока у тебя ещё есть шанс выжить.}
 {201}{}{Hey, Rayze, hunting season just openned, and Fools are on the list of dumb animals.}
-{202}{}{Hey guys, leave a Fool for me to kill.}
+{202}{}{Эй, ребята, оставьте Шута для меня, чтобы прикончить.}
 {203}{}{Склепы тебя похоронят!}
 {204}{}{Шутам незачем жить.}
 {205}{}{The Foolish shall perish.}

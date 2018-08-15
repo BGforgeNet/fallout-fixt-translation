@@ -4,7 +4,7 @@
 {103}{}{[Готово]}
 {104}{}{You hurt one of my friends! We'll make you pay for that! Get 'em, girls!}
 {105}{}{Хмм, привет.}
-{106}{}{Ты что здесь делаешь?}
+{106}{}{Что ты здесь делаешь?}
 {107}{}{Что это за звери?}
 {108}{}{How come these animals stink so much?}
 {109}{}{They do? I hadn't noticed. I guess I've been hanging around them for so long, it doesn't bother me. They're my friends.}

@@ -8,15 +8,15 @@
 {107}{}{Мне нравится твой стиль.}
 {108}{}{Придется тебе найти что-нибудь кожаное, ты теперь одна из Склепов.}
 {109}{}{Нам не нужно, чтобы такие как ты здесь ошивались, Шут.}
-{110}{}{Get out, before we throw you out.}
-{111}{}{If you start any trouble, the whole Crypt will come down on you.}
-{112}{}{You made the wrong choice. Now you gonna be buried.}
-{113}{}{Ты что здесь делаешь?}
-{114}{}{Scrapheap belongs to us.}
-{115}{}{In Scrapheap, if you ain't with us, you're either a loser or a Fool. What are you?}
-{116}{}{You talking to me? Are you talking to me?}
-{117}{}{This ain't no game, man. You either a Crypt or you gonna be buried.}
-{118}{}{Only Crypts got the right to wear leathers.}
-{119}{}{Run, Fools, while you still have a chance to live.}
-{120}{}{Hey, Rayze, hunting season just opened, and Fools are on the list of dumb animals.}
-{121}{}{Hey guys, leave a Fool for me to kill.}
+{110}{}{Выбирайся, пока мы не выбросили тебя отсюда.}
+{111}{}{Если ты начнёшь делать проблемы, весь Склеп обрушится на тебя.}
+{112}{}{Ты сделала неправильный выбор. И сейчас тебя похоронят.}
+{113}{}{Что ты здесь делаешь?}
+{114}{}{Свалка принадлежит нам.}
+{115}{}{В Свалке, если вы не с нами, вы либо неудачник, либо Шут. А что насчет тебя?}
+{116}{}{Ты говоришь мне? Ты разговариваешь со мной?}
+{117}{}{Это не игра, чувиха. Ты либо со Склепом, либо тебя похоронят.}
+{118}{}{Только Склепы имеют право носить кожаную броню.}
+{119}{}{Беги, Шут, пока у тебя ещё есть шанс выжить.}
+{120}{}{Эй, Рэйз, сезон охоты только что открылся, и Шуты входят в список тупых животных.}
+{121}{}{Эй, ребята, оставьте Шута для меня, чтобы прикончить.}

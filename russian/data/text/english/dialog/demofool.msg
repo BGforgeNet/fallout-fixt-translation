@@ -1,8 +1,8 @@
 {100}{}{Вы видите Шута.}
 {101}{}{Вы видите члена банды.}
-{102}{}{They call us Fools, but you's just stupid for showing up here.}
-{103}{}{You gonna start something with us?}
-{104}{}{This ain't your place.}
+{102}{}{Они называют нас Шутами, но вы просто глупы, чтобы появляться здесь.}
+{103}{}{Ты собираешься что-то начать вместе с нами?}
+{104}{}{Это не твое место.}
 {105}{}{Don't think you can come walking in here and start something.}
 {106}{}{Watch out, or you can end up in a crypt, Crypt.}
 {107}{}{Yeah, we gonna work those Crypts.}

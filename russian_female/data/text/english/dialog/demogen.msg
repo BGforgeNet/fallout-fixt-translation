@@ -1,8 +1,8 @@
-{100}{}{Генератор поврежден. Он не работает.}
+{100}{}{Силовой генератор был саботирован. Он больше не функционирует.}
 {101}{}{You see a power generator. It is the only source of power in Scrapheap.}
 {102}{}{You clip some wires on the transformer. The power generator no longer functions.}
-{103}{}{The cutters are of no further use.}
-{104}{}{That item is useless on the generator.}
+{103}{}{Резаки больше не используются.}
+{104}{}{Этот элемент бесполезен для генератора.}
 {105}{}{You notice nothing in particular about the generator.}
 {106}{}{The generator itself looks fairly tamper-proof; however, you notice a set of wires between the transformer and the generator.}
 {107}{}{You cannot see anything special about this large generator.}

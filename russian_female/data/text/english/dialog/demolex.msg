@@ -2,44 +2,44 @@
 {101}{}{Вы видите неудачника.}
 {102}{}{[Дальше]}
 {103}{}{[Готово]}
-{104}{}{[Lex whispers.] Best be careful. Rock doesn't always tell the truth.}
+{104}{}{[Лекс шепчет] Остерегайся, Рок не всегда говорит правду.}
 {105}{}{С чего вдруг?}
 {106}{}{Почему я должен тебе верить?}
-{107}{}{Rock is a member of the Crypts, a gang. He tries to get strangers, like yourself, into trouble. If you listen to him, you could find yourself dead and buried.}
+{107}{}{Рок является членом Склепов, это банда. Он провоцирует чужаков, как ты, встревать в проблемы. Если будешь его слушать, однажды обнаружишь себя на кладбище.}
 {108}{}{Кто ты?}
 {109}{}{Спасибо за информацию. Всего хорошего.}
-{110}{}{I'm Lex. Scrapheap is my home, and I guess I speak for her people.}
+{110}{}{Я Лекс. Свалка - это мой дом, и, полагаю, я говорю от лица ее жителей.}
 {111}{}{О ком еще мне надо знать?}
-{112}{}{Well, there are also the Fools. They would control Scrapheap, if the Crypts were gone. The two gangs fight over who controls this place. Currently, the Crypts are on top. Now that you are here, things could change.}
+{112}{}{Ну, есть еще Шуты. Если бы не Склепы, Свалку бы контролировали они. Эти две банды сражаются за контроль над этим местом. Сейчас у Склепов преимущество, но с твоим появлением здесь все может измениться.}
 {113}{}{С чего вдруг?}
-{114}{}{If you could get rid of the gangs, we would be grateful. We don't have the numbers or the strength to drive them off, and few people care about this place. If you care, then we might be able to help you.}
+{114}{}{Мы будем благодарны, если ты сможешь избавиться от банд. Нам самим недостает ни сил, ни числа, чтобы выпроводить их, да и мало тех, кому на это место не наплевать. Если же тебе не все равно, мы могли бы тебе посодействовать.}
 {115}{}{Ты о чем?}
-{116}{}{I've heard of you. You want to find the lost city of Necropolis. A grateful people could provide information on where to go.}
+{116}{}{Я слыхал о тебе. Ты хочешь найти потерянный город Некрополь. Благодарные люди могли бы поделиться информацией о том, куда идти.}
 {117}{}{Я учту это.}
 {118}{}{Мы не могли бы просить большего.}
 {119}{}{Пока!}
 {120}{}{У меня есть несколько вопросов.}
-{121}{}{Why should you not? I have the best interests of my people at heart, and I would like to see you come to no harm.}
+{121}{}{Почему нет? Я искренне отстаиваю интересы своих людей, и мне бы не хотелось, чтобы тебе причинили вред.}
 {122}{}{Ты о чем?}
-{123}{}{There are forces at work here in Scrapheap that would like to use you, and if that is not possible, to see you dead and buried. Choose your friends wisely, and your enemies with even more care. Good day.}
+{123}{}{На Свалке есть силы, желающие воспользоваться тобой. А если не получится, то просто похоронить тебя от греха. Выбирай союзников с умом, а врагов с большой осторожностью. Всего доброго.}
 {124}{}{Ага, приятного дня.}
-{125}{}{We thank you for getting rid of the Crypts and the Fools. Without the power generator, my people will have a poor life. Do you think you could fix it?}
+{125}{}{Мы благодарим тебя за то, что избавила нас от Склепов и Шутов. Хотя без электрогенератора моим людям придется несладко. Как ты думаешь, сможешь его починить?}
 {126}{}{Разумеется.}
 {127}{}{Сам разбирайся с этим. Я жду оплату.}
 {128}{}{Спасибо.}
-{129}{}{Very well, you shall have it. You have cast my people into a cold night and then abandoned us to the wolves - but I understand that your quest is more important.}
-{130}{}{The violence you have started may lead straight back to my people. Please finish it.}
-{131}{}{Just like you cowards to lay the task of death on the shoulders of others.}
+{129}{}{Что ж, ладно, ты ее получишь. Пусть ты и бросаешь моих людей в холодной ночи, оставляя на растерзание волкам, но я понимаю - у тебя есть более важные дела.}
+{130}{}{Разборки, устроенные тобой, могут аукнуться моим людям. Пожалуйста, закончи начатое.}
+{131}{}{Весьма в вашем трусливом духе - перекладывать мокрую работу на других.}
 {132}{}{Я работаю над этим.}
-{133}{}{If you need help, I will provide it, but don't ask my people. They are too tired of death and pain. I will join you, if that is what you wish.}
-{134}{}{Yes, follow me, and attack when I do.}
+{133}{}{Если тебе нужна помощь, я ее предоставлю. Только не проси об этом моих людей: они слишком устали от боли и смерти. Я присоединюсь к тебе, если хочешь.}
+{134}{}{Да, следуй за мной. Нападай тогда же, когда и я.}
 {135}{}{Нет, просто болтаю.}
-{136}{}{Just as I suspected, you don't care about anything except your own needs. Join our enemies, bring fear to my people, and betray your own background.}
+{136}{}{Как я и подозревал, тебя, кроме собственных нужд, ничего больше не интересует. Валяй, присоединяйся к врагам, неси ужас моим людям, предай свое прошлое.}
 {137}{}{За эти слова я тебя убью.}
-{138}{}{It's a plan. I'm infiltrating this gang.}
+{138}{}{Это такой план. Я внедрюсь в эту банду.}
 {139}{}{Заткнись.}
 {140}{}{Я так и думал, червяк.}
-{141}{}{Perhaps, but actions speak louder than words.}
+{141}{}{Возможно, но поступки убедительнее слов.}
 {142}{}{Увидишь.}
 {143}{}{Чем я могу тебе помочь?}
 {144}{}{Расскажи про генератор.}
@@ -47,7 +47,7 @@
 {146}{}{Расскажи мне про Шутов.}
 {147}{}{Расскажи мне о Свалке.}
 {148}{}{У меня все, спасибо.}
-{149}{}{Scrapheap is our town. It was our home. And it will be again, hopefully.}
-{150}{}{The power generator supplies all the electicity in town. Without it, we would surely die. It is the most important thing in town. Whoever controls it, controls Scrapheap.}
-{151}{}{The Crypts are a gang run by Rayze. He's an animal and has one of the largest guns I've ever seen. He lets Lenny live, cuz he takes care of the brahmin, which provide fuel for the generator. The Crypts are in the big house.}
-{152}{}{Baka leads the Fools. If she had any more men, she'd surely attack the Crypts and try to take back the power generator. You can tell the Crypts from the Fools by their armor. Fools wear metal, Crypts leather.}
+{149}{}{Свалка - это наш город. Она была нашим домом, и будет снова, я надеюсь.}
+{150}{}{Электрогенератор снабжает электричеством весь город. Без него мы непременно умрем. Это наиболее важный объект в городе: кто его контролирует, контролирует Свалку.}
+{151}{}{Склепы - это банда Райзе. Он настоящее животное с одной из самых больших пушок, что я видывал. Райзе позволяет Ленни жить, потому что тот заботится о браминах, дающих топливо для генератора. Склепы обитают в большом доме.}
+{152}{}{Бака руководит Шутами. Если бы у нее было больше людей, она непременно напала бы на Склепов, попытавшись отбить генератор. Отличить Склепов от Шутов можно по броне: Шуты носят металлическую, Склепы - кожаную. }

@@ -50,7 +50,7 @@
 {211}{}{Дополнительный урон, который ваш персонаж наносит при атаке холодным оружием или голыми руками.}
 {212}{}{Максимальный вес снаряжения, который может переносить ваш персонаж, в фунтах.}
 {213}{}{Determines how soon in combat your character can take their turn. Higher is better. With a high enough Sequence, you can effectively "ambush" your opponents, getting two turns in a row.}
-{214}{}{When you rest, you heal this amount of hit points every four hours.}
+{214}{}{Когда вы отдыхаете вы исцеляетесь на это количество ед. здоровья каждые четыре часа.}
 {215}{}{The chance to cause a critical hit in combat is equal to this amount. Critical hits always cause more damage, and can also blind, cripple, knock out or instantly kill an opponent. Ouch.}
 {216}{}{Улучшенный критический}
 {217}{}{Предел урона}

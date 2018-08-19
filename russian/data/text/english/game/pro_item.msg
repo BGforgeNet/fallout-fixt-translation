@@ -485,7 +485,7 @@
 {24300}{}{MacRae's Training}
 {24301}{}{Use to increase Melee Damage by 1, and Damage Resistance % (Normal) by 5, permanently.}
 {24400}{}{Золотой самородок}
-{24401}{}{A nugget of gold.}
+{24401}{}{Золотой самородок.}
 {24500}{}{Бластер пришельцев ЧИТ}
 {24501}{}{Вы поганый читер.}
 {24600}{}{Пистолет-пулемет Узи 9 мм}

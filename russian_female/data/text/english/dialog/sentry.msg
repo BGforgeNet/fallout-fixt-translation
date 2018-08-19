@@ -5,7 +5,7 @@
 {104}{}{Я }
 {105}{}{. Что здесь произошло?}
 {106}{}{Мое имя не имеет значения.}
-{107}{}{Be careful, }
+{107}{}{Береги себя, }
 {108}{}{, you may hurt yourself. An army of bad mutants came to this place and made a big boom. See?}
 {109}{}{Ух-ха.}
 {110}{}{See. So, you better find anoter place to go. It isn't safe here.}
@@ -22,7 +22,7 @@
 {121}{}{I understand. Keep up a good work, Paladin, I need to go.}
 {122}{}{Прощай, }
 {123}{}{. If you'll run into some Brotherhood survivors in your travels, tell them what's happened here.}
-{124}{}{Stop right there... Oh, that's you, }
+{124}{}{Стой где стоишь... Ох, это ты, }
 {125}{}{.}
 {126}{}{Ух-ха.}
 {127}{}{Да, это я. Что здесь произошло?}

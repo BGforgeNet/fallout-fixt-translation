@@ -19,7 +19,7 @@
 {118}{}{It's a total mess and completely beyond repair.}
 {119}{}{ Эта дверь больше никогда не закроется.}
 {120}{}{ Эта дверь больше никогда не откроется.}
-{121}{}{Прямое попадание!}
-{122}{}{Uh-oh! }
+{121}{}{Прямое попадание! }
+{122}{}{Ух-ох! }
 {123}{}{Компьютер в нерабочем состоянии.}
 {124}{}{With the door forever sealed shut and no replacement Water Chip, the inhabitants of Vault 13 will soon discover that their Vault has become a tomb.}

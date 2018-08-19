@@ -1,20 +1,20 @@
 {100}{}{Силовой генератор был саботирован. Он больше не функционирует.}
-{101}{}{You see a power generator. It is the only source of power in Scrapheap.}
-{102}{}{You clip some wires on the transformer. The power generator no longer functions.}
-{103}{}{Резаки больше не используются.}
-{104}{}{Этот элемент бесполезен для генератора.}
-{105}{}{You notice nothing in particular about the generator.}
-{106}{}{The generator itself looks fairly tamper-proof; however, you notice a set of wires between the transformer and the generator.}
-{107}{}{You cannot see anything special about this large generator.}
-{108}{}{You can determine nothing further about the generator.}
-{109}{}{The wires could be repaired, but it may take a while, and there is no guarantee of success.}
-{110}{}{You cannot see anything special about the damaged generator.}
+{101}{}{Вы видите электрогенератор. Это единственный источник энергии на Свалке.}
+{102}{}{Вы перекусываете несколько проводов в трансформаторе. Электрогенератор больше не работает.}
+{103}{}{Кусачки здесь больше не пригодятся.}
+{104}{}{Этот предмет бесполезно использовать на генераторе.}
+{105}{}{Вы не замечаете ничего особенного в генераторе.}
+{106}{}{Сам генератор выглядит довольно защищенным от постороннего доступа, однако вы замечаете провода, соединяющие генератор с трансформатором.}
+{107}{}{Вы не видите ничего особенного в этом большом генераторе. }
+{108}{}{Вам больше ничего не удается узнать об этом генераторе.}
+{109}{}{Провода можно восстановить, но это займет какое-то время. И нет никаких гарантий, что все получится.}
+{110}{}{Вы не видите ничего особенного в этом поврежденном генераторе.}
 {111}{}{У вас больше ничего не получается починить.}
-{112}{}{There is no need to repair the power generator. It is functioning perfectly.}
-{113}{}{You are unable to repair the functioning generator.}
-{114}{}{It takes several hours, but you fix the power generator. With the power restored, and the gangs gone, the townspeople are grateful. They give you some valuable information. Your task in Scrapheap is done. The mission to find the Water Chip still awaits.}
-{115}{}{You cannot fix the generator. The people of Scrapheap will lead a poorer life without their power; but with the gangs gone, at least they will have a life. Your task in Scrapheap is done. The mission to find the Water Chip still awaits.}
-{116}{}{Further tampering with the generator yields nothing.}
-{117}{}{That skill has no effect on the generator.}
-{118}{}{The generator is already running.}
-{119}{}{You are unable to start the generator, because it is broken.}
+{112}{}{Нет никакой необходимости чинить генератор. Он работает без нареканий.}
+{113}{}{Вы не можете починить работающий генератор.}
+{114}{}{Это заняло у вас несколько часов, но вы починили электрогенератор. После исчезновения банд и с восстановлением подачи энергии благодарные жители дают вам ценную информацию. Ваши дела на Свалке закончены, но задача найти водяной чип все еще ждет решения.}
+{115}{}{Вы не можете починить генератор. Без электричества население Свалки хоть и будет жить беднее, но без банд по соседству они хотя бы будут жить. Ваши дела на Свалке закончены, но задача найти водяной чип все еще ждет решения. }
+{116}{}{Дальнейшие мытарства с генератором не приносят результата.}
+{117}{}{Этот навык не влияет на генератор.}
+{118}{}{Генератор уже работает.}
+{119}{}{Вы не можете запустить генератор, потому что он сломан.}

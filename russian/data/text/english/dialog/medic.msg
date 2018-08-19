@@ -69,7 +69,7 @@
 {168}{}{ hours. I will be able to completely heal you of your radiation sickness, which is }
 {169}{}{ и половины}
 {170}{}{ RadAway would work a little faster, but we don't have any to spare. Shall we get started?}
-{171}{}{Hmph.}
+{171}{}{Хммм.}
 {172}{}{Looking for more of a kick? What kind of trouble have you been getting into? I shouldn't do this, but here, take these. No more for you, though, and be careful.}
 {1000}{}{Медик}
 {1001}{}{Лечение}

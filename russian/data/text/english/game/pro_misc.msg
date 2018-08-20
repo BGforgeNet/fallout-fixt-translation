@@ -14,14 +14,14 @@
 {1300}{}{Электрический заряд}
 {1400}{}{Взрыв}
 {1500}{}{Взрыв}
-{1600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{1700}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{1800}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{1900}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2000}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{1600}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{1700}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{1800}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{1900}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{2000}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{2100}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{2200}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{2300}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
 {2400}{}{Фонарик}
 {2500}{}{Граната}
 {2600}{}{Камень}
@@ -29,19 +29,19 @@
 {2800}{}{Взрыв}
 {2900}{}{Взрыв}
 {3000}{}{Коктейль Молотова}
-{3100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3400}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3500}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3700}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3800}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3900}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4000}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4400}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4500}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3100}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{3200}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{3300}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{3400}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{3500}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{3600}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{3700}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{3800}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{3900}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{4000}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{4100}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{4200}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{4300}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{4400}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{4500}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}
+{4600}{}{«Решетка на Выход». Вы не знали о выходных решетках в вашем Убежище. Звучит пугающе.}

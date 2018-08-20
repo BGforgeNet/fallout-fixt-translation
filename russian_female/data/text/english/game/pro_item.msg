@@ -429,9 +429,9 @@
 {21500}{}{История Братства}
 {21501}{}{Голодиск с информацией о Братстве Стали. Можно скопировать ее в ваш Pip-Boy 2000.}
 {21600}{}{История Максона}
-{21601}{}{RESERVED}
+{21601}{}{РЕЗЕРВНЫЙ}
 {21700}{}{Дневник Максона}
-{21701}{}{RESERVED}
+{21701}{}{РЕЗЕРВНЫЙ}
 {21800}{}{Малое исцеление}
 {21801}{}{Выберите этот вариант, если вам требуется малое исцеление.}
 {21900}{}{Среднее исцеление}
@@ -472,7 +472,7 @@
 {23601}{}{Высококачественный боевой нож модели "Сталлона" производства корпорации Остряк. Его лезвие гарантированно останется таким же острым даже через десять лет использования! Мин. сила: 2.}
 {23700}{}{Химические журналы}
 {23701}{}{Беспорядочный набор литературы по химии. Статьи по молекулярной химии особенно интересны.}
-{23800}{}{F.E.V. (Ghoul)}
+{23800}{}{ВРЭ (Гуль)}
 {23801}{}{ura ghul brah}
 {23900}{}{Броня Братства}
 {23901}{}{Усовершенствованный вариант боевой брони. Такая выдается всем послушникам Братства Стали. Братство произвело множество улучшений стандартной версии, как функциональных, так и косметических.}
@@ -482,10 +482,10 @@
 {24101}{}{Модифицированная винтовка калибра 0,223, обрезанная до размера пистолета. Это единственное в своем роде оружие, явно изготовленное с большим мастерством и любовью. Мин. сила: 5.}
 {24200}{}{Боевой дробовик}
 {24201}{}{Боевой дробовик Винчестер Ситикиллер 12 калибра. Конструкция "буллпап". В отличном состоянии. Поставляется с герметиком "Война в пустыне", повышающим надежность оружия. Мин. сила: 5.}
-{24300}{}{MacRae's Training}
+{24300}{}{Тренировка МакРея}
 {24301}{}{Use to increase Melee Damage by 1, and Damage Resistance % (Normal) by 5, permanently.}
 {24400}{}{Золотой самородок}
-{24401}{}{Золотой самородок.}
+{24401}{}{Самородок из золота.}
 {24500}{}{Бластер пришельцев ЧИТ}
 {24501}{}{Вы поганый читер.}
 {24600}{}{Пистолет-пулемет Узи 9 мм}
@@ -497,14 +497,14 @@
 {24900}{}{Мясо собаки}
 {24901}{}{Tough and chewy, but what did you expect? It's rumored that in the 20th and 21st centuries before the Great War, dog meat was a delicacy in China.}
 {25000}{}{Мясо гуля}
-{25001}{}{You're not even sure if this is edible. It smells like death and probably doesn't taste any better.}
+{25001}{}{Вы даже не уверены, что это съедобно. Оно пахнет смертью и, вероятно, вкус не лучше.}
 {25100}{}{Мясо когтя смерти}
 {25101}{}{Very tough and dry, but almost 100% protein; the most filling and "healthy" meat you'll find in the wastes.}
 {25200}{}{Куски богомола}
 {25201}{}{If you pretend it's iguana bits, it's not so bad, except for the crunch. Actually, it's still pretty bad.}
 {25300}{}{Фляга (пустая)}
 {25301}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field. This one is empty. Remember kids, avoiding dehydration is an important part of any disaster plan!}
-{25400}{}{ВРЭ (супермутант)}
+{25400}{}{ВРЭ (Супермутант)}
 {25401}{}{Well, you're a Super Mutant now. But hey, look on the bright side: At least they let you keep your stuff. In any case, your Endurance, Strength, and Radiation Resistance are increased, but your Intelligence is lowered and you can't wear any armor.}
 {25500}{}{Мутировавшее мясо}
-{25501}{}{You watch the meat intently to make sure it's not moving.}
+{25501}{}{Вы внимательно наблюдаете за мясом, дабы убедиться, что оно не двигается.}

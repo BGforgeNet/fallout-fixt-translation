@@ -982,27 +982,27 @@
 {97500}{}{Забор}
 {97600}{}{Забор}
 {97700}{}{Грузовик Ядер-Колы}
-{97701}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{97701}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {97800}{}{Грузовик Ядер-Колы}
-{97801}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{97801}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {97900}{}{Грузовик Ядер-Колы}
-{97901}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{97901}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98000}{}{Грузовик Ядер-Колы}
-{98001}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98001}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98100}{}{Грузовик Ядер-Колы}
-{98101}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98101}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98200}{}{Грузовик Ядер-Колы}
-{98201}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98201}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98300}{}{Грузовик Ядер-Колы}
-{98301}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98301}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98400}{}{Грузовик Ядер-Колы}
-{98401}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98401}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98500}{}{Грузовик Ядер-Колы}
-{98501}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98501}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98600}{}{Грузовик Ядер-Колы}
-{98601}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98601}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98700}{}{Грузовик Ядер-Колы}
-{98701}{}{This truck has seen better days. It looks like it hasn't been looted by raiders, however...}
+{98701}{}{Этот грузовик видал дни и получше. Похоже, он не был разграблен налётчиками, впрочем...}
 {98800}{}{Стена пещеры}
 {98900}{}{Стена}
 {99000}{}{Стена}
@@ -1178,9 +1178,9 @@
 {115300}{}{Бак для воды}
 {115400}{}{Стена}
 {115500}{}{Разрушенный вход}
-{115501}{}{This was the entrance to the mighty Brotherhood Of Steel - now just another ruined building of the wastes.}
+{115501}{}{Это был вход в могучее Братство Стали - теперь это просто очередное разрушенное здание на пустошах.}
 {115600}{}{Разрушенный вход}
-{115601}{}{This was the entrance to the mighty Brotherhood Of Steel - now just another ruined building of the wastes.}
+{115601}{}{Это был вход в могучее Братство Стали - теперь это просто очередное разрушенное здание на пустошах.}
 {115700}{}{Стена}
 {115800}{}{Стена}
 {115900}{}{Стена}

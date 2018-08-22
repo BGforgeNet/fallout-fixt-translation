@@ -36,7 +36,7 @@
 {135}{}{You should not ask questions about things you don't know about. The generator is ours, and it will remain ours. As long as we have it, we are in control. You ask too many questions.}
 {136}{}{[Готово]}
 {137}{}{[дальше]}
-{138}{}{Haha! More fools to kill!!}
+{138}{}{Ха-ха! Убивайте побольше этих глупцов!!}
 {139}{}{The only thing you Fools will rule is a tombstone.}
 {140}{}{The droppings of Brahmin smell better than you.}
 {141}{}{Даже Ленни стреляет лучше.}

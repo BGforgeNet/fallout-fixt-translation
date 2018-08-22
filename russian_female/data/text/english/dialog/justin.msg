@@ -75,13 +75,13 @@
 {174}{}{Мы можем отправиться, как только ты подготовишься.}
 {175}{}{Дай знать, когда подготовишься. Мы тебя подождем, но ты долго не тяни.}
 {180}{}{Iguana Bob is using meat from human corpses for his Prime Choice Select cuts.}
-{181}{}{You're kidding! Are you sure? Hmmm... Let me look into this and i'll get back to you.}
+{181}{}{Ты шутишь! Это точно? Хмм... Позволь мне изучить это, и я вернусь обратно.}
 {182}{}{Ладно.}
 {183}{}{Well, your story checks out. Damn. Bob always seemed a little "off" but I'd never have suspected he was selling human flesh to us. I was having one or two of those for lunch every day!}
-{184}{}{I know. It's a shame, considering how delicious they are.}
+{184}{}{Я знаю. Это позор, учитывая, насколько они восхитительны.}
 {185}{}{Твои блюда сделаны из человечины! Из мяса людей!!!}
 {186}{}{Хорошо. Ладно, мы разберемся с этим. Спасибо за сообщение.}
-{187}{}{Great, i'm just happy to know he'll receive due justice. Bye!}
+{187}{}{Отлично, мне просто приятно узнать, что он получит должное правосудие. Пока!}
 {188}{}{Что, никакой награды?}
 {189}{}{Конечно, без проблем.}
 {190}{}{Damn fool, I knew you were gonna say that! Here, take your reward and get out. [Greene hands you 250 caps]}

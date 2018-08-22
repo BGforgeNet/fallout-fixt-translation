@@ -8,12 +8,12 @@
 {107}{}{Время расплаты.}
 {108}{}{Готов к боли?}
 {109}{}{Глупее тебя только Райзе.}
-{110}{}{I guess afterbirth can live a little while.}
+{110}{}{Я думаю, что после родов можно жить какое-то время.}
 {111}{}{Склепы будут похоронены снова!}
 {112}{}{Сдохни, мразь!}
 {113}{}{Кто сказал, что тебе можно вылезать из могилы? Возвращайся!}
-{114}{}{Thy lowly ways shall be eradicated from the earth!}
-{115}{}{Only Fools have true knowledge to rule Scrapheap.}
+{114}{}{Твои смиренные пути будут искоренены с земли!}
+{115}{}{Только Шуты имеют истинное понимание того, как управлять Свалкой.}
 {116}{}{Begone gut slime of a three legged chicken!}
 {117}{}{Что с тобой случилось? Мама головой уронила?}
 {118}{}{}
@@ -24,22 +24,22 @@
 {202}{}{Эй, пацаны, дайте и мне Шута убить.}
 {203}{}{Склепы тебя похоронят!}
 {204}{}{Шутам незачем жить.}
-{205}{}{The Foolish shall perish.}
-{206}{}{Look who got hit with the ugly stick.}
+{205}{}{Шуты канут в лету.}
+{206}{}{Посмотрите, кого побили этой уродской палкой.}
 {207}{}{Тебя похоронят, Шут!}
 {208}{}{I am going to kick some serious ass! I am ready to ruuummmblllle!}
-{209}{}{Crypts rule! And Fools drool!}
+{209}{}{Склепы рулят! И Шуты пускают слюни!}
 {210}{}{Мы несем смерть!}
 {211}{}{Не беспокойся, это будет быстро и больно!}
 {212}{}{PURPLE BABOONS!}
 {213}{}{Брамины умней Шутов.}
 {214}{}{The Fools are so weak, even Lex can beat them all up.}
-{215}{}{Haha! More fools to kill!!}
+{215}{}{Ха-ха! Убивайте побольше этих глупцов!!}
 {216}{}{The only thing you Fools will rule is a tombstone.}
 {217}{}{Наконец-то. Я заждался.}
 {218}{}{Даже Ленни стреляет лучше.}
 {219}{}{Жрите свинец, Шуты.}
 {220}{}{Я твою голову на пику насажу.}
-{300}{}{Hey! The generator is broken. Let's leave this dump.}
+{300}{}{Эй! Генератор сломан. Оставьте эту груду хлама.}
 {400}{}{With the generator broken, there is little reason for the gangs to fight over Scrapheap. Your job here is done, but your mission to find the water purification chip continues.}
-{402}{}{With the gangs defeated, Scrapheap is a safe haven once again.}
+{402}{}{С поражением банд, Свалка снова станет безопасной гаванью.}

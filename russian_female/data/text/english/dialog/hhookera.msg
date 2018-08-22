@@ -145,7 +145,7 @@
 {265}{}{Бфф?}
 {300}{}{ крышек.}
 {301}{}{Upon further inspection, it's obvious that this is a prostitute with a customer. She motions for you to leave, immediately.}
-{302}{}{Upon further inspection, it's obvious that this is a prostitute. She flashes you a fake smile.}
+{302}{}{При дальнейшем осмотре очевидно, что это проститутка. Она сверкает вам фальшивой улыбкой.}
 {400}{}{Ну, было интересно.}
 {401}{}{Гав!}
 {402}{}{Нам пора браться за работу.}

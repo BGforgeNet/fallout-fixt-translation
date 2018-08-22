@@ -28,4 +28,4 @@
 {127}{}{Is that your face, or did your neck throw up?}
 {128}{}{You mother had to tie a steak around you to the dog would play with you}
 {129}{}{Глупее тебя только Райзе.}
-{130}{}{I guess afterbirth can live a little while.}
+{130}{}{Я думаю, что после родов можно жить какое-то время.}

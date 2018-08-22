@@ -36,9 +36,9 @@
 {135}{}{Ну-ка, врежь мне!}
 {136}{}{Не нравится мне твоя физиономия. Иди-ка ты отсюда.}
 {137}{}{Что? Иди вон!}
-{200}{}{He looks to be seasoned by combat and accustomed to the harsh life of the wastes.}
+{200}{}{Он выглядит закалённым в боях и привыкшим к суровой жизни на пустошах.}
 {201}{}{His body language says more than his expression. Both aren't very nice.}
-{202}{}{He sneers at you and tightens the grip on his weapon.}
-{203}{}{She looks to be seasoned by combat and accustomed to the harsh life of the wastes.}
-{204}{}{You get the feeling that "lady" would not be an appropriate word for this woman.}
-{205}{}{She makes a lewd gesture with her hips and winks at you.}
+{202}{}{Он насмехается над вами и сжимает рукоятку своего оружия.}
+{203}{}{Она выглядит закалённой в боях и привыкшей к суровой жизни на пустошах.}
+{204}{}{Вы понимаете, что «дама» не будет подходящим словом для этой женщины.}
+{205}{}{Она похотливо виляет бедрами и подмигивает вам.}

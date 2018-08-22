@@ -10,5 +10,5 @@
 {109}{}{Он не хочет с вами разговаривать.}
 {110}{}{Тебя похоронят, Шут!}
 {111}{}{I am going to kick some serious ass! I am ready to ruuummmblllle!}
-{112}{}{Crypts rule! And Fools drool!}
+{112}{}{Склепы рулят! И Шуты пускают слюни!}
 {113}{}{Мы несем смерть!}

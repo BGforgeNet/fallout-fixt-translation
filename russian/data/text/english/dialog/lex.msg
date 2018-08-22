@@ -4,8 +4,8 @@
 {103}{}{[Дальше]}
 {104}{}{What will it be? You can give us all your caps and we'll let you go. Or we could play fearless cowboys.}
 {105}{}{And what guarantees I leave this place alive if you get the money?}
-{106}{}{I've always loved westerns.}
-{107}{}{Cowboys.}
+{106}{}{Я всегда любил вестерны.}
+{107}{}{Ковбой.}
 {108}{}{Слово налетчика!}
 {109}{}{I think I can trust you. Here, take it. [You give him your savings]}
 {110}{}{Эти слова ничего для меня не значат.}

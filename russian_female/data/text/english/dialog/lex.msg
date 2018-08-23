@@ -1,5 +1,5 @@
 {100}{}{Вы видите Лекса, главаря банды Гадюк.}
-{101}{}{A huge chap with a bad attitude, glaring at you.}
+{101}{}{Огромный парень с плохими манерами, взирает на вас.}
 {102}{}{[...You steadily wake up and take a look around. You see an unfamiliar place, three tents and several people near them. Looks like you managed to regain consciousness before they could clean your pockets. Your eyes focus on the man standing next to you] Oh, our unfortunate buyer has awaken.}
 {103}{}{[Дальше]}
 {104}{}{What will it be? You can give us all your caps and we'll let you go. Or we could play fearless cowboys.}

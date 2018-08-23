@@ -41,7 +41,7 @@
 {140}{}{Что у тебя за друзья?}
 {141}{}{Кто такой Лекс?}
 {142}{}{О, я слежу за брамином и смотрю чтобы с ним ничего не случилось.}
-{143}{}{Now, that wasn't so difficult, was it? What are your friends?}
+{143}{}{Итак, это было не сложно, так ведь? Кто твои друзья?}
 {144}{}{Lex is nice. Lex treats my friends like family. About once a month, he even takes one of my friends home for dinner. [Lenny smiles.] Then he lets them play with a bunch of sky Brahmin. Isn't that nice?}
 {145}{}{Да, Ленни, это очень приятно. Теперь расскажи мне о своих друзьях.}
 {146}{}{Ленни, я думаю, тебе надо кое-то знать. Лекс ест твоих друзей.}

@@ -37,7 +37,7 @@
 {136}{}{[Готово]}
 {137}{}{[дальше]}
 {138}{}{Ха-ха! Убивайте побольше этих глупцов!!}
-{139}{}{The only thing you Fools will rule is a tombstone.}
+{139}{}{Одно наверняка точно, вы Шуты, будете править надгробной плитой.}
 {140}{}{The droppings of Brahmin smell better than you.}
 {141}{}{Даже Ленни стреляет лучше.}
 {142}{}{You should not have lied to me. I know better. Go, scout the Fools and return. Do not tempt me.}

@@ -37,17 +37,17 @@
 {136}{}{Эй. Вот мы снова увиделись. Что случилось?}
 {137}{}{Еще раз, чем ты занимаешься?}
 {138}{}{Ничем, спасибо.}
-{139}{}{О, понятно. Ну ладно. Бывай.}
+{139}{}{О, понятно. Ну ладно. Бывай!}
 {140}{}{Miles said I should talk to you about parts for his hydroponic farms. Do you know anything about that?}
-{141}{}{А, ну да, вообще-то. На прошлой неделе я послал одного парня на север, поискать некоторые запчасти для Майлза, и с тех пор о нем ни слуху, ни духу.  Последнее сообщение от него гласило, что он нашел детали и уже возвращается домой. У меня самого пока до этого руки не дошли, и я не хочу потерять еще одного человека тем же способом.}
+{141}{}{А, ну да, вообще-то. На прошлой неделе я послал одного парня на север, поискать некоторые запчасти для Майлза, и с тех пор о нем ни слуху, ни духу. Последнее сообщение от него гласило, что он нашел детали и уже возвращается домой. У меня самого пока до этого руки не дошли, и я не хочу потерять еще одного человека тем же способом.}
 {142}{}{Не повезло, жаль. Спасибо за информацию. Пока.}
-{143}{}{If I can get any info on your guy, is there some kind of finder's fee?}
-{144}{}{Great, thank you. I'll search in that area for the parts. I'll let you know if I find your missing friend.}
+{143}{}{Если я смогу получить информацию о твоем парне, будет ли награда за поиски?}
+{144}{}{Отлично, спасибо. Я буду искать детали в этой области. Я дам тебе знать, если найду твоего пропавшего друга.}
 {145}{}{В любое время. Увидимся.}
 {146}{}{Would you? That'd be great. Like I said, things have been busy here and we can't afford to be losing more people.}
 {147}{}{(He laughs.) No, not really. If I had the caps for that I'd already have hired someone to track him down. (He thinks for a moment.) I like your spirit, though. Tell you what, if you can find him, I'll see what I can do for you.}
-{148}{}{Good news, I found your guy. Bad news, he's very dead.}
+{148}{}{Хорошие новости, я нашла твоего парня. Плохие новости, он слишком мертв.}
 {149}{}{I'm sorry to tell you this, but it appears your friend was killed by the Deathclaws at the warehouse.}
-{150}{}{Damn! *sigh* I figured as much. Thanks.}
+{150}{}{Черт! *вздох* Я тоже так понял. Благодарю.}
 {151}{}{Oh, that's right. Here's your reward. (He hands you what looks like a hand-held miniature chainsaw.) There used to be a gang here that used these. Feel free to kill some of those bastard Deathclaws with it. See'ya 'round.}
-{152}{}{Here, take this for the trouble, it's the least I can do. (He hands you 200 caps.)}
+{152}{}{Вот, возьми это за хлопоты, это наименьшее, что я могу сделать. (Он дает вам 200 крышек).}

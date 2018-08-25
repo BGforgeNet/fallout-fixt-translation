@@ -117,27 +117,27 @@
 {5900}{}{Сенсор движения}
 {5901}{}{Сенсор движения Ватт Электроникс, модель "ВиДок". Фиксирует движение биологических существ на расстоянии до трехсот метров при помощи радарного устройства.}
 {6000}{}{Книжный шкаф}
-{6001}{}{A wooden bookcase in good condition. It's made of wood and might hold books.}
+{6001}{}{Деревянный книжный шкаф в хорошем состоянии. Он сделан из дерева и может содержать книги.}
 {6100}{}{Книжный шкаф}
 {6101}{}{Этот деревянный книжный шкаф в ужасном состоянии, и может развалиться в любой момент.}
 {6200}{}{Книжный шкаф}
-{6201}{}{You don't like the way this particular wooden bookcase is leaning.}
+{6201}{}{Вам не нравится под каким углом стоит этот деревянный книжный шкаф.}
 {6300}{}{Книжный шкаф}
-{6301}{}{A wooden bookcase in good condition. It's made of wood and might hold books.}
+{6301}{}{Деревянный книжный шкаф в хорошем состоянии. Он сделан из дерева и может содержать книги.}
 {6400}{}{Книжный шкаф}
 {6401}{}{Этот деревянный книжный шкаф в ужасном состоянии, и может развалиться в любой момент.}
 {6500}{}{Книжный шкаф}
-{6501}{}{You don't like the way this particular wooden bookcase is leaning.}
+{6501}{}{Вам не нравится под каким углом стоит этот деревянный книжный шкаф.}
 {6600}{}{Стол}
-{6601}{}{A wooden desk. Made of wood, has drawers, holds stuff.}
+{6601}{}{Деревянный стол. Сделан из дерева, имеет ящики, хранит вещи.}
 {6700}{}{Стол}
-{6701}{}{This desk has seen better days. You wouldn't even trust it to hold a paperweight.}
+{6701}{}{Это письменный стол видал лучшие времена. Вы даже не верите, что держите пресс-папье.}
 {6800}{}{Платяной шкаф}
-{6801}{}{A wooden dresser. Made of wood, has drawers, holds stuff.}
+{6801}{}{Деревянный комод. Сделан из дерева, имеет ящики, хранит вещи.}
 {6900}{}{Платяной шкаф}
-{6901}{}{This wooden dresser seems to be tired of being mistreated.}
+{6901}{}{Кажется, что этот деревянный комод устал от жестокого обращения.}
 {7000}{}{Платяной шкаф}
-{7001}{}{A wooden dresser with one working drawer. Not very exciting.}
+{7001}{}{Деревянный комод с одним рабочим ящиком. Не очень интересно.}
 {7100}{}{Облученный фрукт}
 {7101}{}{Странно выглядящий фрукт. На вид не особо вкусный. Без консервантов и красителей. И без жира!}
 {7200}{}{Чемоданчик}
@@ -147,7 +147,7 @@
 {7400}{}{Кожаная куртка}
 {7401}{}{A black, heavy leather jacket. You can't help thinking how badass you'd look wearing this, even in the scorching heat of the wastes.}
 {7500}{}{Мультитул}
-{7501}{}{A super tool set, containing various useful tools and gadgets. The aspiring engineer or repairman should never leave home without it!}
+{7501}{}{Супер набор инструментов, содержащий различные полезные инструменты и приспособления. Заботливый инженер или ремонтник никогда не должен уходить из дома без него!}
 {7600}{}{Электроника Дина}
 {7601}{}{Учебник по электронике. Надпись на обложке гласит, что он сможет "в каждом выявить юного электрика"!}
 {7700}{}{Электронная отмычка}
@@ -157,7 +157,7 @@
 {7900}{}{Фонарик}
 {7901}{}{Освещает объекты вокруг, на короткое время. Бумага несколько истрепалась, но в остальном все в порядке. Для включения поверните верхнюю часть.}
 {8000}{}{Учебник первой помощи}
-{8001}{}{A study book on the concepts and practical use of First Aid skills. Much of the information is pre-War, however it is still applicable to most in-the-field practices and skills.}
+{8001}{}{Учебная книга по общему представлению и практическому использованию навыков первой помощи. Большая часть информации является довоенной, однако она по-прежнему применима к большинству практик и навыков в полевых условиях.}
 {8100}{}{Шашлык из игуаны}
 {8101}{}{Игуана, зажаренная прямо с кожей.}
 {8200}{}{Ключ}
@@ -249,7 +249,7 @@
 {12500}{}{Самогон}
 {12501}{}{Древний алкогольный напиток довоенной эпохи.}
 {12600}{}{Фляга}
-{12601}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field.}
+{12601}{}{Контейнер, также называемый «фляга», предназначен для хранения и хранения воды или других жидкостей. До Великой войны они обычно использовались туристами, туристами, солдатами и рабочими на поле.}
 {12700}{}{Веревка}
 {12701}{}{Прочная, толстая веревка из витого волокна. Примерно 20 футов в длину.}
 {12800}{}{Сундучок}
@@ -287,29 +287,29 @@
 {14400}{}{Суперстимулятор}
 {14401}{}{Also referred to as simply a "superstim", this is a very advanced and powerful piece of healing technology. While it is capable of healing even severe wounds and major tissue damage, it also causes some internal hemorrhaging to the recipient after a short period of time, due to the powerful nature of the chemicals used.}
 {14500}{}{Книжные полки}
-{14501}{}{A wooden bookshelf, quietly keeping to itself.}
+{14501}{}{Деревянная книжная полка, тихо хранит саму себя.}
 {14600}{}{Книжные полки}
-{14601}{}{A wooden bookshelf, quietly keeping to itself.}
+{14601}{}{Деревянная книжная полка, тихо хранит саму себя.}
 {14700}{}{Книжные полки}
-{14701}{}{A wooden bookshelf, quietly keeping to itself.}
+{14701}{}{Деревянная книжная полка, тихо хранит саму себя.}
 {14800}{}{Книжные полки}
-{14801}{}{A wooden bookshelf, quietly keeping to itself.}
+{14801}{}{Деревянная книжная полка, тихо хранит саму себя.}
 {14900}{}{Книжные полки}
-{14901}{}{A wooden bookshelf, quietly keeping to itself.}
+{14901}{}{Деревянная книжная полка, тихо хранит саму себя.}
 {15000}{}{Книжные полки}
-{15001}{}{A wooden bookshelf, quietly keeping to itself.}
+{15001}{}{Деревянная книжная полка, тихо хранит саму себя.}
 {15100}{}{Полки}
-{15101}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15101}{}{Набор деревянных полок. Это выглядит слишком тяжелым, чтобы нести с собой.}
 {15200}{}{Полки}
-{15201}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15201}{}{Набор деревянных полок. Это выглядит слишком тяжелым, чтобы нести с собой.}
 {15300}{}{Полки}
-{15301}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15301}{}{Набор деревянных полок. Это выглядит слишком тяжелым, чтобы нести с собой.}
 {15400}{}{Полки}
-{15401}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15401}{}{Набор деревянных полок. Это выглядит слишком тяжелым, чтобы нести с собой.}
 {15500}{}{Полки}
-{15501}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15501}{}{Набор деревянных полок. Это выглядит слишком тяжелым, чтобы нести с собой.}
 {15600}{}{Полки}
-{15601}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15601}{}{Набор деревянных полок. Это выглядит слишком тяжелым, чтобы нести с собой.}
 {15700}{}{Верстак}
 {15701}{}{Верстак. Да, ваш стандартный, старый, совершенно обычный верстак. Очень мило выглядит.}
 {15800}{}{Полка для инструментов}
@@ -391,21 +391,21 @@
 {19600}{}{Радиосообщения мутантов}
 {19601}{}{Похоже, на этот голодиск записаны аудиоданные с рации. Вы можете скопировать данные с него на ваш Pip-Boy 2000.}
 {19700}{}{Коробка}
-{19701}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19701}{}{Высокотехнологичный ящик из прочного легкого композитного материала. Вероятно, используется для хранения оружия или медицинского оборудования.}
 {19800}{}{Коробка}
-{19801}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19801}{}{Высокотехнологичный ящик из прочного легкого композитного материала. Вероятно, используется для хранения оружия или медицинского оборудования.}
 {19900}{}{Коробка}
-{19901}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19901}{}{Высокотехнологичный ящик из прочного легкого композитного материала. Вероятно, используется для хранения оружия или медицинского оборудования.}
 {20000}{}{Коробка}
-{20001}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20001}{}{Высокотехнологичный ящик из прочного легкого композитного материала. Вероятно, используется для хранения оружия или медицинского оборудования.}
 {20100}{}{Коробка}
-{20101}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20101}{}{Высокотехнологичный ящик из прочного легкого композитного материала. Вероятно, используется для хранения оружия или медицинского оборудования.}
 {20200}{}{Коробка}
-{20201}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20201}{}{Высокотехнологичный ящик из прочного легкого композитного материала. Вероятно, используется для хранения оружия или медицинского оборудования.}
 {20300}{}{Коробка}
-{20301}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20301}{}{Высокотехнологичный ящик из прочного легкого композитного материала. Вероятно, используется для хранения оружия или медицинского оборудования.}
 {20400}{}{Коробка}
-{20401}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20401}{}{Высокотехнологичный ящик из прочного легкого композитного материала. Вероятно, используется для хранения оружия или медицинского оборудования.}
 {20500}{}{Фальшфейер (зажженый)}
 {20501}{}{Дает освещение на короткое время. Бумага несколько истрепалась, но в остальном все в порядке. Горит.}
 {20600}{}{Динамит (тикающий)}
@@ -455,11 +455,11 @@
 {22800}{}{Техническое руководство}
 {22801}{}{A technical repair manual and desk reference for the T-51b Powered Armor. It seems to explain, in lengthy and boring detail, everything you'd ever want to know about Power Armor repair, use and maintenance.}
 {22900}{}{Деталь аппаратуры}
-{22901}{}{This is a Systolic Motivator. This unusual piece of machinery is very small, but surprisingly heavy for its size. It looks very high-tech but you have no idea what it would be used for.}
+{22901}{}{Это Систолический Мотиватор. Эта необычная машина очень маленькая, но удивительно тяжелая по своим размерам. Выглядит очень высокотехнологичным, но вы не представляете, для чего это можно использовать.}
 {23000}{}{Архивы Убежища}
 {23001}{}{Сборник информации о событиях и важных записей из компьютерной системы Убежища. Возможно, поврежден.}
 {23100}{}{Пароль военной базы}
-{23101}{}{So much for security. Remember kids, never write down your password.}
+{23101}{}{Слишком много для безопасности. Помните дети, никогда не записывайте свой пароль.}
 {23200}{}{Закаленная силовая броня}
 {23201}{}{Модифицированная силовая броня T-51b. Процесс химической закалки улучшил защитные способности этой высокотехнологичной брони - без ущерба для подвижности и защиты от излучения.}
 {23300}{}{Турбоплазменная винтовка}
@@ -493,18 +493,18 @@
 {24700}{}{Мясо крысы}
 {24701}{}{Some chopped-up rat parts. Too bad you didn't read Vault Document VTR-003 "How to Eat Rat", otherwise you'd be able to make it more palatable.}
 {24800}{}{Мясо брамина}
-{24801}{}{Brahma meat is high in vitamins, minerals, fat, protein, and rads. Too bad you don't have time to cook up some tasty brahma burgers!}
+{24801}{}{Мясо брамина содержит много витаминов, минералов, жиров, белков и радиации. Жаль, что у вас нет времени, чтобы приготовить вкусные бутерброды из брамина!}
 {24900}{}{Мясо собаки}
-{24901}{}{Tough and chewy, but what did you expect? It's rumored that in the 20th and 21st centuries before the Great War, dog meat was a delicacy in China.}
+{24901}{}{Жесткое и требует жевания, но чего вы ожидали? По слухам, в 20-м и 21-м веках до Великой войны, собачье мясо было деликатесом в Китае.}
 {25000}{}{Мясо гуля}
 {25001}{}{Вы даже не уверены, что это съедобно. Оно пахнет смертью и, вероятно, вкус не лучше.}
 {25100}{}{Мясо когтя смерти}
 {25101}{}{Very tough and dry, but almost 100% protein; the most filling and "healthy" meat you'll find in the wastes.}
 {25200}{}{Куски богомола}
-{25201}{}{If you pretend it's iguana bits, it's not so bad, except for the crunch. Actually, it's still pretty bad.}
+{25201}{}{Вы можете притвориться что этот кусочек игуаны не так и плох, за исключением хруста. Но говоря по-правде это всё ещё довольно плохо.}
 {25300}{}{Фляга (пустая)}
 {25301}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field. This one is empty. Remember kids, avoiding dehydration is an important part of any disaster plan!}
 {25400}{}{ВРЭ (Супермутант)}
-{25401}{}{Well, you're a Super Mutant now. But hey, look on the bright side: At least they let you keep your stuff. In any case, your Endurance, Strength, and Radiation Resistance are increased, but your Intelligence is lowered and you can't wear any armor.}
+{25401}{}{Итак, теперь вы Супермутант. Но эй, посмотрите на светлую сторону: по крайней мере, они позволяют вам хранить свои вещи. В любом случае ваша Выносливость, Сила и Сопротивляемость Радиации увеличиваются, но ваш Интеллект снижается, и вы не можете носить броню.}
 {25500}{}{Мутировавшее мясо}
 {25501}{}{Вы внимательно наблюдаете за мясом, дабы убедиться, что оно не двигается.}

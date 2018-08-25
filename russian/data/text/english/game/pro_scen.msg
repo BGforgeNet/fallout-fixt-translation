@@ -351,11 +351,11 @@
 {17700}{}{Стрелка вверх}
 {17701}{}{Ваши обострённые навыки дедукции и восприятия заключают, что этот лифт поднимается.}
 {17800}{}{Ящик}
-{17801}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
+{17801}{}{Дорожный контейнер для хранения и транспортировки, возможно, изготовленный из высокотехнологичного композита, украшает его эмблема Братства Стали.}
 {17900}{}{Ящик}
-{17901}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
+{17901}{}{Дорожный контейнер для хранения и транспортировки, возможно, изготовленный из высокотехнологичного композита, украшает его эмблема Братства Стали.}
 {18000}{}{Ящик}
-{18001}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
+{18001}{}{Дорожный контейнер для хранения и транспортировки, возможно, изготовленный из высокотехнологичного композита, украшает его эмблема Братства Стали.}
 {18100}{}{Крыша лифта}
 {18101}{}{Вы смотрите на часть лифта.}
 {18200}{}{Компьютерная консоль}
@@ -381,7 +381,7 @@
 {19200}{}{Двухъярусная кровать}
 {19201}{}{Двухъярусная кровать казарменного типа. Судя по виду, очень неудобная. А судя по виду простыней, их можно поставить на пол.}
 {19300}{}{Ящик}
-{19301}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
+{19301}{}{Дорожный контейнер для хранения и транспортировки, возможно, изготовленный из высокотехнологичного композита, украшает его эмблема Братства Стали.}
 {19400}{}{Автомат с Ядер-Колой}
 {19401}{}{Он неисправен. Какой облом.}
 {19500}{}{Стена}
@@ -829,13 +829,13 @@
 {42201}{}{Металлическая труба. Дальнейшие детали не очень важны.}
 {42300}{}{Земля}
 {42400}{}{Коробка}
-{42401}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
+{42401}{}{Дорожный контейнер для хранения и транспортировки, возможно, изготовленный из высокотехнологичного композита, украшает его эмблема Братства Стали.}
 {42500}{}{Коробка}
-{42501}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
+{42501}{}{Дорожный контейнер для хранения и транспортировки, возможно, изготовленный из высокотехнологичного композита, украшает его эмблема Братства Стали.}
 {42600}{}{Коробка}
-{42601}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
+{42601}{}{Дорожный контейнер для хранения и транспортировки, возможно, изготовленный из высокотехнологичного композита, украшает его эмблема Братства Стали.}
 {42700}{}{Коробка}
-{42701}{}{An expensive-looking storage and shipping container, probably made from a high tech composite, with the Brotherhood of Steel emblem emblazoned on it.}
+{42701}{}{Дорожный контейнер для хранения и транспортировки, возможно, изготовленный из высокотехнологичного композита, украшает его эмблема Братства Стали.}
 {42800}{}{Камни}
 {42801}{}{Груда камней. Ничего интересного.}
 {42900}{}{Камни}

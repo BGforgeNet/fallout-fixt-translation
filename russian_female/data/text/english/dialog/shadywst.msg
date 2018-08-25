@@ -19,8 +19,8 @@
 {118}{}{Ёта территори€ выгл€дит так, будто сюда попала зажигательна€ бомба высокого давлени€.}
 {119}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}
 {150}{}{Before you lies a silent town, filled with corpses and carnage. Something horrible has happened here.}
-{151}{}{This town is silent and ominous, littered with dead bodies. Something terrible has happened here...}
-{152}{}{The stench of death here is almost overwhelming. Super Mutants patrol the area.}
+{151}{}{Ётот город тихий и зловещий, завален мертвыми телами. «десь произошло что-то ужасное...}
+{152}{}{«ловоние смерти здесь почти подавл€ющее. —упермутанты патрулируют район.}
 {153}{}{You arrive at your destination only to find death and the desert wind.}
 {154}{}{You see the scene of a slaughter. There appears to be no survivors, although you can hear the faint sound of movement.}
 {155}{}{A structure surrounded by a chainlink fence is to the north. Looks like it's been damaged by an explosion. The stench of death here is almost unbearable.}

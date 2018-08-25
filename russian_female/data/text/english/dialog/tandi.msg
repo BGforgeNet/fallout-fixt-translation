@@ -119,9 +119,9 @@
 {401}{TAND_29}{(Tandi speaks over her shoulder, so Aradesh can hear.) Uh, listen. I have to go take care of the brahmin. It was, uh, nice talking to ya. (She turns back to you and motions for you to follow her...)}
 {402}{TAND_28}{Ну, спасибо за "разговор". (Она подмигивает и улыбается вам.) У нас тут не много путешественников, так что всегда интересно поговорить с новыми людьми. Ладно, до встречи!}
 {403}{TAND_35}{Мм... ээээ, спасибо. Увидимся! (Она выглядит утомленной.)}
-{404}{}{Something I wouldn't want to be announcing to others. Let's go somewhere private and I'll tell you...}
+{404}{}{Что-то мне не хочется разглашать это другим. Пойдем куда-нибудь и я скажу тебе лично...}
 {405}{}{You look rather... inexperienced. I want to teach you as much as I can. We should get started, there's a lot to go over. *wink*}
-{406}{}{*sigh* More than you can provide, but I'll make do.}
+{406}{}{*вздох* Больше, чем ты можешь себе представить, но я сделаю это.}
 {407}{}{[Дальше]}
 {410}{TAND_14}{Наконец! Кто-то еще это понимает! Конечно, тебя, наверное, уже где только не носило, так что тебе тут просто не продохнуть. (Она пожимает плечами и ведет вас в свою комнату.)}
 {412}{}{(Она улыбается и ведет тебя в свою комнату.)}

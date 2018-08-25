@@ -6,28 +6,28 @@
 {105}{}{. Что здесь произошло?}
 {106}{}{Мое имя не имеет значения.}
 {107}{}{Береги себя, }
-{108}{}{, you may hurt yourself. An army of bad mutants came to this place and made a big boom. See?}
+{108}{}{, ты можешь навредить себе. Сюда пришла армия плохих мутантов и сделала большой бум. Видел?}
 {109}{}{Ух-ха.}
-{110}{}{See. So, you better find anoter place to go. It isn't safe here.}
+{110}{}{Смотри. Итак, тебе лучше отправиться в другое место. Здесь небезопасно.}
 {111}{}{И-ду.}
-{112}{}{Mutants. It was a really big army. They came, killed everyone, took everything they could and blew this place up.}
+{112}{}{Мутанты. Это была действительно большая армия. Они пришли, убили всех, забрали что могли и опустошили это место.}
 {113}{}{Как же ты выжил?}
 {114}{}{I was returning from a long range patrol. When I came the battle was already over. I couldn't do anything. So I hid and watched them.}
 {115}{}{Хочешь сказать, ты был слишком напуган, чтобы что-то сделать?}
-{116}{}{No one else survived this invasion?}
+{116}{}{Больше никто не пережил это вторжение?}
 {117}{}{Look, I may not be the bravest man in Brotherhood, but I'm also not an idiot. There was really nothing, I could possibly do.}
 {118}{}{Coward. Now stay and guard a bunch of ruins. I better go and kill some of those mutants of yours.}
-{119}{}{Sorry. Did anyone else survived this massacre?}
+{119}{}{Сожалею. Кто-нибудь еще пережил эту бойню?}
 {120}{}{Several scouting parties, some paladins on patrol... too little to do anything. Brotherhood of Steel is practically dead. I'll stay here for the time being, try to gather as many survivors as I can and tell them what happened here. Then... I actually don't know what's then. Never had a chance to even think about it.}
-{121}{}{I understand. Keep up a good work, Paladin, I need to go.}
+{121}{}{Я понимаю. Продолжайте в том же духе, Паладин, мне нужно идти.}
 {122}{}{Прощай, }
-{123}{}{. If you'll run into some Brotherhood survivors in your travels, tell them what's happened here.}
+{123}{}{, Если ты столкнешься с выжившими из Братства в своих путешествиях, расскажи им, что здесь произошло.}
 {124}{}{Стой где стоишь... Ох, это ты, }
 {125}{}{.}
 {126}{}{Ух-ха.}
 {127}{}{Да, это я. Что здесь произошло?}
 {130}{}{Прощай, }
-{131}{}{. If you'll run into some of our fellow Brothers, tell them what's happened here.}
+{131}{}{, Если ты столкнешься с другими из Братства в своих путешествиях, расскажи им, что здесь произошло.}
 {132}{}{Конечно. Мне правда надо идти.}
 {133}{}{Тогда иди. Мне нечего тебе сказать.}
-{150}{}{The Paladin ignores you. It seems he's deep in his thoughts.}
+{150}{}{Паладин игнорирует вас. Кажется, он глубоко в своих мыслях.}

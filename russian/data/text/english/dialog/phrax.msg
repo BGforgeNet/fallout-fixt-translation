@@ -17,4 +17,4 @@
 {116}{}{Phil has more courage than any Fool!}
 {117}{}{PUPLE BABBOONS!}
 {118}{}{Брамины умней Шутов.}
-{119}{}{The Fools are so weak, even Lex can beat them all up.}
+{119}{}{Шуты настолько слабы, что даже Лекс может победить их всех.}

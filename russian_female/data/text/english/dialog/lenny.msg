@@ -19,9 +19,9 @@
 {118}{}{Угу, пока.}
 {119}{}{Ты подлый. Я ненавижу тебя.}
 {120}{}{Как скажешь.}
-{121}{}{Oh. Oh, I get it. Hey, you're kinda nice. I like you. I should warn you about those Fool guys. They don't like me. They don't like anyone.}
+{121}{}{Ох. А, я понял. Эй, ты типа добрый. Ты мне нравишься. Я должен предупредить тебя об этих ребятах, Шутах. Я им не нравлюсь. Им никому не нравятся.}
 {122}{}{Спасибо за рассказ.}
-{123}{}{The bad people. They fight over things. Things I don't understand. The worst are the Fools. They pick on me. They don't like me. [sniff] I don't like them.}
+{123}{}{Плохие люди. Они борются с вещами. Вещами, которых я не понимаю. Хуже всего Шуты. Они ко мне пристают. Я им им не нравлюсь. [фыркает] Мне они не нравятся.}
 {124}{}{Привет! Опять ты.}
 {125}{}{Расскажи, что ты знаешь о Шутах.}
 {126}{}{Расскажи, что ты знаешь о Склепах.}
@@ -34,10 +34,10 @@
 {133}{}{Генратор? Не знаю такого.}
 {134}{}{It feeds the lights. It makes all the stuff go. I don't know, but if we don't have it, it's not good.}
 {135}{}{Я не буду с тобой говорить.}
-{136}{}{I'm spending some time with my friends. I spend a lot of time with them. They're nice. They don't treat me bad. Not like some people. [Lenny squints his eyes.] I hate some people. I hate the Fools.}
+{136}{}{Я провожу время с друзьями. Я провожу с ними много времени. Они классные. Они неплохо относятся ко мне. Не как некоторые люди. [Ленни прищуривает глаза.] Я ненавижу некоторых людей. Я ненавижу Шутов.}
 {137}{}{Ты меня пугаешь.}
 {138}{}{Хорошо, но ты мне не ответил.}
-{139}{}{Oh, sorry. Lex says I scare him, too. I don't mean it. And I never scare my friend.}
+{139}{}{Ой, извини. Лекс говорит, что я его тоже пугаю. Я не хочу этого. И я никогда не пугаю моего друга.}
 {140}{}{Что у тебя за друзья?}
 {141}{}{Кто такой Лекс?}
 {142}{}{О, я слежу за брамином и смотрю чтобы с ним ничего не случилось.}

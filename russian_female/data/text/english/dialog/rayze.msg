@@ -38,9 +38,9 @@
 {137}{}{[дальше]}
 {138}{}{Ха-ха! Убивайте побольше этих глупцов!!}
 {139}{}{Одно наверняка точно, вы Шуты, будете править надгробной плитой.}
-{140}{}{The droppings of Brahmin smell better than you.}
+{140}{}{Помет Брамина пахнет лучше чем ты.}
 {141}{}{Даже Ленни стреляет лучше.}
 {142}{}{You should not have lied to me. I know better. Go, scout the Fools and return. Do not tempt me.}
 {143}{}{You cannot be trusted. That is a shame. You will die. This is a pleasure.}
 {144}{}{Теперь мы управляем этим городом!}
-{145}{}{Now is not the time for questions. Now is the time to fight!}
+{145}{}{Сейчас не время для вопросов. Сейчас время сражаться!}

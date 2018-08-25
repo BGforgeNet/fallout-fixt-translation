@@ -115,13 +115,13 @@
 {214}{}{Эта система слишком сложна для вас.}
 {215}{}{Черные.}
 {216}{}{Белые.}
-{217}{}{Very well. And the length of the game?}
-{218}{}{Tournament  -  180 minutes per player.}
-{219}{}{Tournament  -  120 minutes per player.}
-{220}{}{Tournament  -  60 minutes per player.}
-{221}{}{Quick  -  30 minutes per player.}
-{222}{}{Blitz  -  15 minutes per player.}
-{223}{}{Bullet -  3 minutes per player.}
+{217}{}{Очень хорошо. И продолжительность игры?}
+{218}{}{Турнир  -  180 минут на игрока.}
+{219}{}{Турнир  -  120 минут на игрока.}
+{220}{}{Турнир  -  60 минут на игрока.}
+{221}{}{Быстро  -  30 минут на игрока.}
+{222}{}{Блиц  -  15 минут на игрока.}
+{223}{}{Пуля -  3 минуты на игрока.}
 {224}{}{Неплохая игра, но тебе определенно потребуется еще практика, чтобы нанести мне поражение.}
 {225}{}{And we end in a draw. Outstanding effort. With more practice perhaps you will yet defeat me.}
 {226}{}{Вы получаете }

@@ -9,7 +9,7 @@
 {108}{}{Слово налетчика!}
 {109}{}{Думаю, я могу тебе доверять. Вот, бери. [Вы даете ему свои сбережения]}
 {110}{}{Эти слова ничего для меня не значат.}
-{111}{}{So, a stubborn one? I rather like it. I think the guys will have some fun with you then.}
+{111}{}{Итак, один из упрямых? Мне это нравится. Я думаю ребята вдоволь повеселятся с тобой.}
 {112}{}{If you don't trust the words, you should trust our guns! A wimp like you is not a match for the whole gang!}
-{113}{}{Then again, I'd rather kill you. To be sure that nobody'll chatter too much around. Farewell.}
+{113}{}{Опять же, я бы предпочел убить тебя. Чтобы быть уверенным, что никто не будет слишком много болтать. Прощай.}
 {114}{}{Хороший парень. Это мудрое решение. Ты можешь свободно идти прямо сейчас.}

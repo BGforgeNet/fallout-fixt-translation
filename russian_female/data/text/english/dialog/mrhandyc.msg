@@ -37,14 +37,14 @@
 {136}{}{[Дальше]}
 {137}{}{[Click] Processing... [Click] Memory file data indicates that as of Unit #462's manufacture date, out of 4,628 recorded self-defense events initiated by similar Units, only 930 have resulted in deaths of unarmed civilians.}
 {138}{}{Э... Не нравится мне это.}
-{139}{}{Hmm. I could use some help cleaning up this place, if you get my drift. Could you help me out?}
+{139}{}{Хм. Мне бы пригодилась какое-какая помощь в очистке этого места, если ты понимаешь, куда я клоню. Сможешь мне в этом помочь?}
 {140}{}{Можно ли перепрограммировать систему самообороны в боевую систему?}
 {141}{}{I think Vault-Dwellers would be considered civilians, so I'll do my best to not piss you off.}
 {142}{}{[Click] Checking... [Click] Unit #462's programming is not currently configured to allow such assistance. Ownership transfers and weapons system reallocations not permitted under current protocols.}
 {143}{}{[Попробуйте взломать устройство и обойти протоколы программирования]}
 {144}{}{(Вам потребовалось некоторое время, но теперь вы можете взломать коды и получить корневой доступ к системе.)}
 {145}{}{[Бип!] Робот #462 готов. Проверка... Успешно. Определение данных о местонахождении. Исправлено. Восстановление файла памяти. Исправлено. Очистка списка задач... Готово. [Щелчок] Команда?}
-{146}{}{Follow me and keep self-defense mechanisms active at all times. Oh, and don't shoot me, I'm not a threat. So you should probably add that to the self-defense protocols as well.}
+{146}{}{Следуй за мной и все время держи наготове устройства самообороны. О, и в меня не стреляй, я не представляю угрозы. Тебе, наверное, стоит это добавить в протоколы самообороны.}
 {147}{}{[Щелчок] Отлично! Повторяющая задача создана. Конец ввода.}
 {148}{}{(Вы пытаетесь получить корневой доступ к системе, но не удается. На устройстве начинают мигать лампочки. Ой-ой...}
 {149}{}{Предупреждение! Предупреждение! Обнаружена угроза! [Щелчок] Инициирование протоколов самообороны.}

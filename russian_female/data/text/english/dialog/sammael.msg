@@ -47,7 +47,7 @@
 {146}{}{Would you? That'd be great. Like I said, things have been busy here and we can't afford to be losing more people.}
 {147}{}{(He laughs.) No, not really. If I had the caps for that I'd already have hired someone to track him down. (He thinks for a moment.) I like your spirit, though. Tell you what, if you can find him, I'll see what I can do for you.}
 {148}{}{Хорошие новости, я нашла твоего парня. Плохие новости, он слишком мертв.}
-{149}{}{I'm sorry to tell you this, but it appears your friend was killed by the Deathclaws at the warehouse.}
+{149}{}{Мне жаль тебе это говорить, но кажется твоего друга убили Когти смерти на складе.}
 {150}{}{Черт! *вздох* Я тоже так понял. Благодарю.}
 {151}{}{Oh, that's right. Here's your reward. (He hands you what looks like a hand-held miniature chainsaw.) There used to be a gang here that used these. Feel free to kill some of those bastard Deathclaws with it. See'ya 'round.}
 {152}{}{Вот, возьми это за хлопоты, это наименьшее, что я могу сделать. (Он дает вам 200 крышек).}

@@ -16,7 +16,7 @@
 {115}{}{Хочешь сказать, ты был слишком напуган, чтобы что-то сделать?}
 {116}{}{Больше никто не пережил это вторжение?}
 {117}{}{Look, I may not be the bravest man in Brotherhood, but I'm also not an idiot. There was really nothing, I could possibly do.}
-{118}{}{Coward. Now stay and guard a bunch of ruins. I better go and kill some of those mutants of yours.}
+{118}{}{Трусиха. Теперь стой здесь и охраняй кучу развалин. А я лучше пойду и прикончу часть этих твоих мутантов.}
 {119}{}{Сожалею. Кто-нибудь еще пережил эту бойню?}
 {120}{}{Several scouting parties, some paladins on patrol... too little to do anything. Brotherhood of Steel is practically dead. I'll stay here for the time being, try to gather as many survivors as I can and tell them what happened here. Then... I actually don't know what's then. Never had a chance to even think about it.}
 {121}{}{Я понимаю. Продолжайте в том же духе, Паладин, мне нужно идти.}

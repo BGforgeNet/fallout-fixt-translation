@@ -6,8 +6,8 @@
 {105}{}{Расскажи мне про Шутов.}
 {106}{}{Расскажи про генератор.}
 {107}{}{А, ну да. Почему это?}
-{108}{}{He said I could get a cold glass of water.}
-{109}{}{Rock said the Crypts were looking for members.}
+{108}{}{Он сказал, что я могу получить стакан холодной воды.}
+{109}{}{Рок сказал, что Склепы ищут новых членов банды.}
 {110}{}{Хаха! Отличная попытка. Оставь меня в покое.}
 {111}{}{Could be. It looks like you got some talent. You think you could be a Crypt?}
 {112}{}{Да.}
@@ -27,9 +27,9 @@
 {126}{}{Нет.}
 {127}{}{Мне нужно еще поисследовать.}
 {128}{}{It doesn't matter. Nothing will stop them from feeling the cold of death! They die now!}
-{129}{}{Excellent. We will catch them unprepared. They die now!}
+{129}{}{Отлично. Мы застанем их врасплох. Они сейчас сдохнут!}
 {130}{}{Hurry. I wish for the blood of Fools.}
-{131}{}{They are my enemies. They will die. Now why do you bother me?}
+{131}{}{Они мои враги. Они умрут. Так почему ты меня беспокоишь?}
 {132}{}{Меня послал Рок.}
 {133}{}{Ничего, просто мимо прохожу.}
 {134}{}{Расскажи про генератор.}
@@ -41,6 +41,6 @@
 {140}{}{Помет Брамина пахнет лучше чем ты.}
 {141}{}{Даже Ленни стреляет лучше.}
 {142}{}{You should not have lied to me. I know better. Go, scout the Fools and return. Do not tempt me.}
-{143}{}{You cannot be trusted. That is a shame. You will die. This is a pleasure.}
+{143}{}{Тебе нельзя доверять, это досадно. Ты умрешь, это наслаждение.}
 {144}{}{Теперь мы управляем этим городом!}
 {145}{}{Сейчас не время для вопросов. Сейчас время сражаться!}

@@ -26,21 +26,21 @@
 {125}{}{Блок #462 помогает выполнять обязанности, указанные в файлах памяти и программировании.}
 {126}{}{Да, да, перейдём к интересной части.}
 {127}{}{Можешь быть точнее?}
-{128}{}{[Click] Unit #462 can perform nuclear reactor fuel core replacements, hazardous materials cleanup, radiation cleansing, and basic mechanical repair procedures.}
+{128}{}{[Щелк] Устройство #462 может осуществлять перезагрузку топлива ядерного реактора, уборку опасных материалов, удаление радиации, а также базовый механический ремонт.}
 {129}{}{Что еще интересного?}
-{130}{}{[Beep!] Unit #462 is also equipped with self-maintenance routines, self-defense mechanisms, and a fully customizable operating system.}
+{130}{}{[Бип!] Устройство #462 также оснащено механизмами самообеспечения и самообороны, а также полностью адаптируемой операционной системой.}
 {131}{}{Механизмы самозащиты?}
 {132}{}{О'кей, спасибо.}
-{133}{}{[Click] Unit #462 is authorized to commit deadly force in preservation of itself, as permitted by prior programming.}
+{133}{}{[Щелк] Устройство #462 уполномочен применять оружие на поражение в случае самообороны, как предписывает существующий программный код.}
 {134}{}{Смертельная сила?}
-{135}{}{(A speaker crackles to life, and a recorded message of a male voice begins playing. It sounds like an advertisement.) "RobCo is committed to your safety and well-being. All RobCo Mister Handy units are equipped with state-of-the-art safety overrides, to prevent any unfortunate incidents. Rest assured, Mr. Handy is the best and safety investment your family will ever make." (The speaker shuts off.)}
+{135}{}{(Динамик, потрескивая, возвращается к жизни и начинает проигрывать записанное мужским голосом сообщение. Оно звучит как реклама.) "РобКо стремится к вашей безопасности и благополучию. Для предотвращения любых несчастных случаев все блоки Мистера Помощника от РобКо оборудованы не имеющими аналогов контроллерами безопасности. Будьте уверены, Мистер Помощник является лучшей и самой безопасной инвестицией из тех, что когда-либо делала ваша семья." (Динамик выключается.)}
 {136}{}{[Дальше]}
-{137}{}{[Click] Processing... [Click] Memory file data indicates that as of Unit #462's manufacture date, out of 4,628 recorded self-defense events initiated by similar Units, only 930 have resulted in deaths of unarmed civilians.}
+{137}{}{[Щелк] Идет обработка... [Щелк] Данные файла памяти показывают, что по состоянию на дату изготовления Устройства #462 из 4628 зарегистрированных случаев самообороны, инициированных аналогичными Устройствами, только 930, которые привели к гибели невооруженных гражданских лиц.}
 {138}{}{Э... Не нравится мне это.}
 {139}{}{Хм. Мне бы пригодилась какое-какая помощь в очистке этого места, если ты понимаешь, куда я клоню. Сможешь мне в этом помочь?}
 {140}{}{Можно ли перепрограммировать систему самообороны в боевую систему?}
-{141}{}{I think Vault-Dwellers would be considered civilians, so I'll do my best to not piss you off.}
-{142}{}{[Click] Checking... [Click] Unit #462's programming is not currently configured to allow such assistance. Ownership transfers and weapons system reallocations not permitted under current protocols.}
+{141}{}{Думаю, выходцы из Убежища могут считаться гражданскими, поэтому я постараюсь не докучать тебе.}
+{142}{}{[Щелк] Идет проверка... [Щелк] Программа Устройства #462 не настроена на то, чтобы допускать подобные действия. Переназначение прав владения и перемещение систем вооружения, согласно текущим протоколам, невозможны.}
 {143}{}{[Попробуйте взломать устройство и обойти протоколы программирования]}
 {144}{}{(Вам потребовалось некоторое время, но теперь вы можете взломать коды и получить корневой доступ к системе.)}
 {145}{}{[Бип!] Робот #462 готов. Проверка... Успешно. Определение данных о местонахождении. Исправлено. Восстановление файла памяти. Исправлено. Очистка списка задач... Готово. [Щелчок] Команда?}

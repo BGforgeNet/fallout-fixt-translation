@@ -22,7 +22,7 @@
 {121}{}{You are a lucky fellow, my friend. This day is the day I will let you live. Unless, of course, you annoy me too much. Then I will have to use my best corpse jokes.}
 {122}{}{Никогда не кради у Шутов, глупец.}
 {123}{}{Ты уже получил резаки от Скиппи. Прекрати, пока еще не поздно.}
-{124}{}{You manage to steal the cutters while he isn't watching.}
+{124}{}{Вам удалось украсть кусачки, пока он не смотрит.}
 {125}{}{Вы оскорбляете нас и честь нашей Королевы. Некоторые оскорбления могут быть смыты только кровью.}
 {126}{}{Ты умрешь, скотина!}
 {127}{}{Is that your face, or did your neck throw up?}

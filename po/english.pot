@@ -4658,6 +4658,113 @@ msgid " "
 msgstr ""
 
 #. indexed_txt
+#: data/text/english/cuts/nar_2.txt:1
+msgid "You are taken away, and slowly returned to normal Vault life."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_2.txt:2
+msgid "But a month later, disaster strikes."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_3.txt:1
+msgid "Your bones are scraped clean by the desolate wind."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_3.txt:2
+msgid "Your Vault will now surely die, as you have."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_4.txt:1
+msgid "The darkness of the afterlife is all that awaits you now."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_4.txt:2
+msgid "May you find more peace in that world then you found in this one..."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_5.txt:1
+msgid "Not even the carrion eaters are interested in your radiated corpse."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_6.txt:1
+msgid "Your life ends in the wasteland."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_7.txt:1
+msgid "The radiation has taken its toll."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_7.txt:2
+msgid "Your death was lingering and extremely painful."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_7.txt:3
+msgid "Your adventure is done."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_8.txt:1
+msgid "You fought valiantly, but to no avail.  "
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_8.txt:2
+msgid ""
+"Your twisted and ruined body goes down in a hail of bullets, and thus ends "
+"your life in the wasteland."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_9.txt:1
+msgid "It is done."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_9.txt:2
+msgid "Vault Thirteen belongs to the Unity and the Master."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_9.txt:3
+msgid ""
+"Your knowledge of the Vault defenses saved many mutant lives during the "
+"attack."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_9.txt:4
+msgid ""
+"You personally made the final kill when you took the life of the Overseer."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_9.txt:5
+msgid ""
+"You will certainly become one of the finest soldiers for the Unity, and your"
+" skills will see you rewarded often in the future."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_9.txt:6
+msgid "You are happy."
+msgstr ""
+
+#. indexed_txt
+#: data/text/english/cuts/nar_9.txt:7
+msgid "But there remains the tiniest doubt of what could have been..."
+msgstr ""
+
+#. indexed_txt
 #: data/text/english/cuts/nar_10.txt:1
 msgid ""
 "The  death of the Master was the first major step towards ending his mad "
@@ -4758,16 +4865,6 @@ msgstr ""
 msgid ""
 "They are responsible for the New California Republic, whose ideals spread "
 "across the land."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_2.txt:1
-msgid "You are taken away, and slowly returned to normal Vault life."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_2.txt:2
-msgid "But a month later, disaster strikes."
 msgstr ""
 
 #. indexed_txt
@@ -4894,16 +4991,6 @@ msgid ""
 msgstr ""
 
 #. indexed_txt
-#: data/text/english/cuts/nar_3.txt:1
-msgid "Your bones are scraped clean by the desolate wind."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_3.txt:2
-msgid "Your Vault will now surely die, as you have."
-msgstr ""
-
-#. indexed_txt
 #: data/text/english/cuts/nar_31.txt:1
 msgid ""
 "The Brotherhood of Steel repels the first wave of a mutant invasion, but a "
@@ -4989,16 +5076,6 @@ msgid "Your mission beneath the Cathedral is successful."
 msgstr ""
 
 #. indexed_txt
-#: data/text/english/cuts/nar_4.txt:1
-msgid "The darkness of the afterlife is all that awaits you now."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_4.txt:2
-msgid "May you find more peace in that world then you found in this one..."
-msgstr ""
-
-#. indexed_txt
 #: data/text/english/cuts/nar_40.txt:1
 msgid ""
 "Your involvement with the various places and people of the Wasteland is well"
@@ -5035,83 +5112,6 @@ msgstr ""
 #. indexed_txt
 #: data/text/english/cuts/nar_46.txt:1
 msgid "Fallout, a post nuclear adventure."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_5.txt:1
-msgid "Not even the carrion eaters are interested in your radiated corpse."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_6.txt:1
-msgid "Your life ends in the wasteland."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_7.txt:1
-msgid "The radiation has taken its toll."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_7.txt:2
-msgid "Your death was lingering and extremely painful."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_7.txt:3
-msgid "Your adventure is done."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_8.txt:1
-msgid "You fought valiantly, but to no avail.  "
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_8.txt:2
-msgid ""
-"Your twisted and ruined body goes down in a hail of bullets, and thus ends "
-"your life in the wasteland."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_9.txt:1
-msgid "It is done."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_9.txt:2
-msgid "Vault Thirteen belongs to the Unity and the Master."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_9.txt:3
-msgid ""
-"Your knowledge of the Vault defenses saved many mutant lives during the "
-"attack."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_9.txt:4
-msgid ""
-"You personally made the final kill when you took the life of the Overseer."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_9.txt:5
-msgid ""
-"You will certainly become one of the finest soldiers for the Unity, and your"
-" skills will see you rewarded often in the future."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_9.txt:6
-msgid "You are happy."
-msgstr ""
-
-#. indexed_txt
-#: data/text/english/cuts/nar_9.txt:7
-msgid "But there remains the tiniest doubt of what could have been..."
 msgstr ""
 
 #. indexed_txt

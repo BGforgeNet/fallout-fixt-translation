@@ -23,7 +23,7 @@
 {122}{}{Добро пожаловать в Свалку, сынок. Не будь дураком, и все будет хорошо.}
 {123}{}{Спасибо, что это за место?}
 {124}{}{Кто тут главный?}
-{125}{}{Scrapheap is the armpit of the desert. No better place to raise children, in my opinion. [Chuckles] This place makes Junktown look like a living city of the ancients.}
+{125}{}{Свалка - это подмышка пустыни. Не лучшее место для воспитания детей, на мой взгляд. [Посмеивается] По сравнению с этим местом Джанктаун выглядит как живой город древних.}
 {126}{}{Спасибо.}
 {127}{}{Well, there is a commune, run by Lex. But the real power is always behind the throne. In this case, the people not to mess around with are the Crypts.}
 {128}{}{Спасибо.}

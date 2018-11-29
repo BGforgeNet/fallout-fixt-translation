@@ -9,7 +9,7 @@
 {108}{}{Он сказал, что я могу получить стакан холодной воды.}
 {109}{}{Рок сказал, что Склепы ищут новых членов банды.}
 {110}{}{Хаха! Отличная попытка. Оставь меня в покое.}
-{111}{}{Could be. It looks like you got some talent. You think you could be a Crypt?}
+{111}{}{Возможно. Похоже, у тебя есть талант. Ты думаешь, что сможешь стать Склепом?}
 {112}{}{Да.}
 {113}{}{Нет.}
 {114}{}{Well, then. Let's try you out. We're gonna send you on a little mission. Go scout out the Fools to the north, and report back to me.}
@@ -28,7 +28,7 @@
 {127}{}{Мне нужно еще поисследовать.}
 {128}{}{It doesn't matter. Nothing will stop them from feeling the cold of death! They die now!}
 {129}{}{Отлично. Мы застанем их врасплох. Они сейчас сдохнут!}
-{130}{}{Hurry. I wish for the blood of Fools.}
+{130}{}{Быстрее. Я хочу крови Шутов.}
 {131}{}{Они мои враги. Они умрут. Так почему ты меня беспокоишь?}
 {132}{}{Меня послал Рок.}
 {133}{}{Ничего, просто мимо прохожу.}

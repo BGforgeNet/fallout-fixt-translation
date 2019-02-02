@@ -45,5 +45,5 @@
 {144}{}{ пунктов урона и искалеченную левую руку.}
 {145}{}{ пунктов урона и искалеченную правую руку.}
 {146}{}{ очков урона и две искалеченные конечности.}
-{147}{}{Your pitiful attempt to escape the rocks is a colossal failure. All of your limbs are crushed and battered in a spectacular spray of blood. Amazingly, you survive.}
-{148}{}{You fail to find any handholds during the fall, and land with a mighty crash, crushing both your legs like radroaches.}
+{147}{}{Ваша жалкая попытка увернуться от камней обернулась ужасающими последствиями: все ваши конечности раздроблены и размозжены во впечатляющую лужу крови. Удивительно, но вы выжили. }
+{148}{}{Во время падения вы не можете найти, за что зацепиться, и приземляетесь с сильным ударом, с треском, как радтараканов, ломая себе обе ноги.}

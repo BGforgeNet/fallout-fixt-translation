@@ -1,2 +1,2 @@
 {100}{}{Вы замечаете стол, заваленный бумагами.}
-{101}{}{The papers detail reports on raider and radscorpion attacks, a list of Shady Sands' citizens, and farming information.}
+{101}{}{В документах написано об атаках рейдеров и радскорпионов,  а также представлены список жителей Шейди Сэндс и фермерская информация.}

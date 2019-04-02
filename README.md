@@ -5,7 +5,7 @@
 
 [__Help translating__](https://tra.bgforge.net/projects/fallout/fixt/)
 | [__Download__](https://github.com/BGforgeNet/fallout-fixt-translation/releases)
-| [__Forum__](https://forum.bgforge.net/viewtopic.php?f=9&t=23)
+| [__Forum__](https://forums.bgforge.net/viewtopic.php?f=9&t=23)
 | [__Discord__](https://discord.gg/4Yqfggm)
 | [__Report issues__](https://github.com/BGforgeNet/fallout-fixt-translation/issues)
 

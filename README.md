@@ -11,8 +11,12 @@
 
 This is a localization effort for Fallout 1 [Fixt](http://nma-fallout.com/threads/fallout-fixt-0-81alpha-july-5th-2015.194562).
 
-Help translating at [BGforge](https://tra.bgforge.net/projects/fallout/fixt/).
+Help translating on [BGforge](https://tra.bgforge.net/projects/fallout/fixt/).
 
 Current languages:
-* Russian (based on [1C/FUP version](http://www.nuclear-city.com/index.php/topic/420-fallout-1-update-pack/))
-
+* [Russian](https://tra.bgforge.net/projects/fallout/fixt/ru/)
+  <a href="https://tra.bgforge.net/projects/fallout/fixt/ru/"> <img src="https://tra.bgforge.net/widgets/fallout/ru/fixt/svg-badge.svg" alt="Russian translation status" /></a>
+  (based on [1C/FUP version](http://www.nuclear-city.com/index.php/topic/420-fallout-1-update-pack/))
+* [Spanish](https://tra.bgforge.net/projects/fallout/fixt/es/)
+  <a href="https://tra.bgforge.net/projects/fallout/fixt/es/"> <img src="https://tra.bgforge.net/widgets/fallout/es/fixt/svg-badge.svg" alt="Spanish translation status" /></a>
+  (based on [translation v.1.2.3 by ClanDLAN/Luffier](https://github.com/Sduibek/fixtlang/releases/tag/v0.81-es))

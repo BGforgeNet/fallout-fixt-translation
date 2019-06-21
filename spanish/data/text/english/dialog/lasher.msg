@@ -8,7 +8,7 @@
 {107}{}{No me importaría gozar de la protección del Maestro.}
 {108}{}{Nadie me ha acusado jamás de ser inteligente.}
 {109}{}{Quiero hablar con el encargado.}
-{110}{}{¡Esa vara es muy bonita! ¿Por eso es por lo que te llaman Fustigador?}
+{110}{}{¡Esa vara es muy bonita! ¿Por eso es por lo que te llaman "Fustigador"?}
 {111}{}{¿Es verdad que te gusta abusar de los niños?}
 {112}{}{¿Quieres ser poco inteligente? Es poco inteligente molestarme, ¡zorra!}
 {113}{}{¿Por qué hablas de ese modo tan raro?}
@@ -26,7 +26,7 @@
 {125}{}{Busco el camino a la Catedral.}
 {126}{}{Estoy aquí para hablar sobre tu tratamiento de los Niños.}
 {127}{}{Solo quería hablar.}
-{128}{}{Este lugar no parece consagrado. Aún no he matado a nadie.}
+{128}{}{¡Esa vara es muy bonita! ¿Por eso es por lo que te llaman Fustigador?}
 {129}{}{No te gustan las armas. ¡Pues vas a odiar lo que hago ahora con ésta!}
 {130}{}{¿A fuera? ¿A dónde de fuera?}
 {131}{}{Mis residencias no están abiertas a aquellos que no han sido consagrados. Debo pedirte que te vayas de una vez.}

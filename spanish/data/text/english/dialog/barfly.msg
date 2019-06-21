@@ -5,4 +5,3 @@
 {104}{}{¿Me pasas los cacahuetes?}
 {105}{}{No estoy lo suficientemente borracho...}
 {106}{}{Tararí... Tarará...}
-

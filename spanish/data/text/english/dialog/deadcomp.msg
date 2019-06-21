@@ -23,9 +23,8 @@
 {122}{}{Ummm... me pregunto que cambiará esta opción}
 {123}{}{> Iniciar secuencia debug}
 {124}{}{*clic* ............. Por favor espere ... ... ... ... ... ...                %s Hecho.}
-{125}{}{> Iniciando protocolo de volcado de memoria}
+{125}{}{Consigues 50 puntos de experiencia.}
 {126}{}{FALLDEMO.EXE}
-{127}{}{Ganas 25 puntos de experiencia.}
 {128}{}{[Hecho]}
 {129}{}{VOLCADO DE MEMORIA INICIADO >>> NO APAGUES O RESETEES ESTA TERMINAL
 ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  
@@ -68,36 +67,22 @@ Transfiriendo 6.759.015 bytes al dispositivo de respaldo........................
 {146}{}{TRANSFERENCIA COMPLETADA. POR FAVOR QUITA EL DISPOSITIVO EXTERNO. QUE TENGAS UN BUEN DÍA.
 [El sistema se apaga, se cortocircuita y queda en completo silencio]}
 {147}{}{¡Gracias!}
-{148}{}{El ordenador parece estar muy dañado e irreparable.}
-{149}{}{Muchos de los circuitos están fritos por un PEM.}
+{148}{}{Según parece el ordenador está tan estropeado que no se puede reparar.}
+{149}{}{Muchos circuitos se han quemado por un incendio del EMP.}
 {150}{}{No funciona.}
 {151}{}{01100110011000010110110001101100011011110111010101110100011101110010111001100101011110000110010100100000001000000010000000100000001000000011000100110011001110000011010000110100001100110011001000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000110011001100001011011000110110001100100011001010110110101101111001011100110010101111000011001010010000000100000001000000010000000100000001110010011100100110101001100110011001000111000}
 {152}{}{Ganas 25 puntos de experiencia por jugar a Fallout.}
 {153}{}{Interesante. ¡Estoy seguro de que la versión completa será un gran juego!}
 {154}{}{Hmm. La versión completa de Fallout es mejor, sim embargo la demo tiene su encanto.}
 {155}{}{Ganas 25 puntos de experiencia por jugar a la Demo Interactiva de Fallout.}
-{156}{}{}
-{157}{}{}
-{158}{}{}
-{159}{}{}
-
-
-# 400 and 401 are picked randomly when playing falldemo.exe, and represent the different playtype paths
-
+{156}{}{Ganas 25 puntos de experiencia por jugar a Fallout.}
+{157}{}{Ganas 25 puntos de experiencia por jugar a la Demo Interactiva de Fallout.}
+{158}{}{Congratulations, you have achieved all possible endings of Fallout: A Post-Nuclear Role-Playing Game!}
+{159}{}{Wow, this is amazing! Even better than the original game.}
+{160}{}{You play Fallout Fixt. Whoever created this must have been very talented.}
 {400}{}{Con el generador roto, hay pocas razones por las que las bandas luchen por el Desguace. La gente del Desguace llevará una vida más pobre; pero sin las bandas, al menos tendrán una vida. Tu trabajo aquí ha terminado, pero tu misión para encontrar el chip de purificación de agua continúa.}
 {401}{}{Tras una larga y sangrienta batalla, prevaleces. Con las bandas derrotadas, el Desguace es ahora un lugar seguro. La gente del pueblo está agradecida; te dan algo de información valiosa, y tu misión en el Desguace ha terminado. Sin embargo, la misión para encontrar el chip de purificación de agua continúa.}
-
-
-# 500 onward are picked randomly when playing falloutw.exe, and represent the different playtype paths
-
-#standard
 {500}{}{500 Después de destruir al Maestro y su laboratorio con el que creaba su ejército de Supermutantes, regresas a casa, solo para descubrir que te han echado por ser demasiado destructivo. Gracias por jugar a Fallout.}
-
-#dialog/'good'
 {501}{}{501 Después de convencer al Maestro de que abandonase sus enfermizos planes de dominación y destruir los Tanques, regresas a casa, solo para descubrir que has sido exiliado, aparentemente para prevenir a otros de dejar el Refugio. Gracias por jugar a Fallout.}
-
-#combat/'evil'
 {502}{}{502 Después de destruir los Tanques, al Maestro, y a su ejército de Supermutantes, regresas a casa, pero se te prohíbe la entrada. Tomas represalias, dejando el cuerpo destrozado del Supervisor tras de ti. Gracias por jugar a Fallout.}
-
-#traitor/dipped
 {503}{}{503 Eres sumergido en el FEV y te unes a la Unidad del Maestro, revelando la localización del Refugio 13. Eres recompensado con el liderazgo del asalto que acaba con tu Refugio, matas al Supervisor con tus propias manos. Gracias por jugar a Fallout.}

@@ -7,16 +7,16 @@
 {106}{}{¿Eruh?}
 {107}{}{El placer es mío. Me llamo Sammael.}
 {108}{}{¿Qué haces aquí?}
-{109}{}{Me ha gustado hablar contigo.}
+{109}{}{Me alegro de hablar contigo.}
 {110}{}{Nadie especial. No te preocupes.}
 {111}{}{Soy un carroñero. Mi trabajo es rebuscar por todo el Cementerio de LA artículos útiles e información. Un trabajo peligroso.}
 {112}{}{¿Por qué es peligroso?}
-{113}{}{¿Cómo evitas a las Garras Mortales?}
+{113}{}{¿Cómo evitáis a las Garras Mortales?}
 {114}{}{¿Has explorado otras áreas?}
 {115}{}{Gracias, adiós.}
 {116}{}{Ya nos veremos. Si es que me ves. Ja.}
 {117}{}{Bueno, ahí fuera están las Garras Mortales, y luego de vuelta en Adytum están los Reguladores. Ni las unas, ni los otros, son angelitos.}
-{118}{}{¿Cómo evitas a las Garras Mortales?}
+{118}{}{¿Cómo evitáis a las Garras Mortales?}
 {119}{}{¿Has explorado otras áreas?}
 {120}{}{Gracias, adiós.}
 {121}{}{Solo trabajamos de noche, y somos buenos en lo nuestro. Pero reconozco que no volvemos todos. La semana pasada mandé a un tipo a buscar unas piezas para Miles, y todavía no hemos tenido noticias suyas. En la última transmisión me decía que había encontrado las piezas, y que regresaba.}
@@ -38,9 +38,6 @@
 {137}{}{¿En qué me dijiste que consistía tu trabajo?}
 {138}{}{Nada, gracias.}
 {139}{}{Oh, ya veo. Bien. ¡Adiós!}
-
-# Added by Sduibek for Fallout Fixt:
-
 {140}{}{Miles dijo que debería hablar contigo acerca de las granjas hidropónicas. ¿Sabes algo?}
 {141}{}{Ah, sí. Se da que se algunas cosas. La semana pasada mandé a un tipo al norte a buscar unas piezas para Miles, y todavía no hemos tenido noticias suyas. En la última transmisión me decía que había encontrado las piezas, y que regresaba. Todavía no he tenido tiempo de comprobarlo personalmente,  y no quiero perder a otra persona por lo que fuera que ha causado su desaparición.}
 {142}{}{Qué mala suerte, siento oírlo. Gracias por la información. Adiós.}
@@ -54,4 +51,3 @@
 {150}{}{¡Demonios! *suspira* Ya me lo suponía. Gracias.}
 {151}{}{Oh, es verdad. Aquí tienes tu recompensa. [Te entrega lo que parece una motosierra de una mano] Solía haber una pandilla por aquí que las utilizaba. No dudes en matar algunas de esas malditas Garras Mortales con ella. Hasta luego.}
 {152}{}{Aquí tienes, toma esto por las molestias, es lo menos que puedo hacer. [Te entrega 200 chapas]}
-

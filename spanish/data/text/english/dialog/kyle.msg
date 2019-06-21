@@ -1,5 +1,5 @@
 {100}{}{Ves: a Kyle.}
-{101}{}{Estás viendo a un Caballero.}
+{101}{}{Ves a un Caballero.}
 {102}{}{Ahh... Así que eres tú, ¿eh?}
 {103}{}{¿Qué?}
 {104}{}{Bueno, ¿quién eres tú?}

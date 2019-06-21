@@ -1,9 +1,9 @@
 {100}{}{Estás viendo al jefe de las caravanas.}
 {101}{}{Bien, aquí está. Aquí está tu paga de }
-{102}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) Te daré }
+{102}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) Aquí tienes, otras }
 {103}{}{ chapas más si vuelves con nosotros al Eje. Descansaremos un poco aquí, pero no te vayas muy lejos o la caravana partirá sin ti.}
 {104}{}{Aaa... vale.}
-{105}{}{¿Cuánto tiempo falta para que salga la caravana?}
+{105}{}{¿Cuánto tiempo falta para que la caravana salga?}
 {106}{}{¿Qué puedes contarme de Ciudad Vertedero?}
 {107}{}{¿Qué puedes contarme del Cementerio de LA?}
 {108}{}{¿Qué puedes contarme de la Hermandad del Acero?}
@@ -19,14 +19,14 @@
 {118}{}{¿Qué puedes contarme del Cementerio de LA?}
 {119}{}{¿Qué puedes contarme de la Hermandad del Acero?}
 {120}{}{Bien, en realidad se parece un poco al Eje. También tiene sus problemas: Bandas ladrones, ya sabes... lo típico. Total, es mi ciudad ideal. [Risas]}
-{121}{}{¿Cuánto tiempo falta para que salga la caravana?}
+{121}{}{¿Cuánto tiempo falta para que la caravana salga?}
 {122}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
 {123}{}{Esta parte del Cementerio de LA se llama Adytum. El Cementerio de LA está prácticamente gobernado por bandas. Una zona dura. Cuidado con lo que haces aquí. Adytum está gobernado por los Reguladores. Intentan mantener este lugar al margen de las batallas callejeras. No son demasiado amigos de los extraños, por lo que si no has hablado aún con ellos, te aconsejo que lo hagas antes de que empieces a merodear por ahí.}
-{124}{}{Vacío}
-{125}{}{¿Cuánto tiempo falta para que salga la caravana?}
+{124}{}{Vacío }
+{125}{}{¿Cuánto tiempo falta para que la caravana salga?}
 {126}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
 {127}{}{No puedo contarte mucho de ellos. La Hermandad es muy prudente con sus cosas. Hay mucha gente que los critica, pero según tengo entendido son buena gente. Un poco fanáticos, quizás, pero tíos majos.}
-{128}{}{¿Cuánto tiempo falta para que salga la caravana?}
+{128}{}{¿Cuánto tiempo falta para que la caravana salga?}
 {129}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
 {130}{}{¿Estás listo para partir?}
 {131}{}{¡Vamos!}
@@ -55,26 +55,23 @@
 {300}{}{¿Por qué no te encargas de tus asuntos?}
 {400}{}{No me pagan para hablar.}
 {501}{}{Te importaría decirme, ¿¿por qué abandonaste la jodida caravana?? ¡No me lo puedo creer! ¡Vaya suerte, lo han hecho sin tu lamentable trasero! ¡Vete! ¡No voy a pagarte nada!}
-{502}{}{¡No me lo puedo creer! ¡Hemos perdido toda la caravana! ¡Vete! ¡No voy a pagarte nada!}
+{502}{}{¡No me lo puedo creer! ¡Hemos perdido toda la caravana! No voy a pagarte nada. ¡Quítate de mi vista!}
 {504}{}{Ve a hablar con el jefe e invéntate una historia sobre porqué abandonaste esa jodida caravana. Quizás entonces consigas tu dinero, pero lo dudo.}
 {505}{}{¡No me lo puedo creer! ¡Hemos perdido toda la caravana! No voy a pagarte nada. ¡Quítate de mi vista!}
+{506}{}{¿Hay algún trabajo que pueda hacer?}
+{507}{}{¡Yo querer trabajo!}
+{508}{}{Necesitamos músculo para descargar las caravanas. Te pagaré }
+{509}{}{ chapas.}
+{510}{}{¡Uh!}
+{511}{}{Nop.}
+{512}{}{Estoy en ello.}
+{513}{}{No me gusta.}
+{520}{}{Pasas una hora descargando la caravana.}
+{521}{}{Ayudas a terminar de descargar la caravana y te dan }
+{522}{}{ chapas.}
 {600}{}{Bueno, lo hemos logrado. No puedo pagarte la tarifa normal, ya que se perdió parte de la caravana. Tenemos que cubrir las pérdidas, ya sabes. Aquí está tu paga de}
 {601}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) Aquí tienes, otras }
 {602}{}{Si quieres más trabajo, ve a hablar con el jefe. Estaría bien volver a trabajar contigo. Cuídate.}
 {603}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) }
 {604}{}{Vale, lo has hecho. No puedo pagarte nada porque hemos perdido toda la caravana. Tenemos que cubrir las pérdidas, ya sabes. Me gustaría que fuese de otra forma pero esas son las reglas.}
 {605}{}{Vale, lo has hecho. No puedo pagarte nada porque todos los brahmines han muerto. Nos has costado mucho dinero, colega. Sin brahmines no hay caravana, y sin esta no hay dinero. Espero que no te vuelvan a dejar trabajar con nosotros.}
-#
-# Unload caravan quest - WG@RestorationProject
-#
-{506}{}{¿Hay algún trabajo que pueda hacer?}
-{507}{}{¡Yo querer trabajo!}
-{508}{}{Necesitamos músculo para descargar las caravanas. Te pagaré }
-{509}{}{ chapas.}
-{510}{}{¡Ug!}
-{511}{}{Nop.}
-{512}{}{Me pongo a ello.}
-{513}{}{No me gusta.}
-{520}{}{Pasas una hora descargando la caravana.}
-{521}{}{Ayudas a terminar de descargar la caravana y te dan }
-{522}{}{ chapas.}

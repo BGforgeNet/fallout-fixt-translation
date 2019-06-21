@@ -18,11 +18,11 @@
 {117}{}{Me importa una mierda el tiempo. Estoy aquí para matar al Maestro. ¿Dónde está ese bastardo? }
 {118}{}{Sí. Soleado. Muy soleado. }
 {119}{}{Hola, amigo. Me alegro de verte. ¡Baja el arma, aquí estás entre amigos! }
-{120}{}{Lo siento, ha sido una semana muy dura. ¿Y qué puedes decirme de este lugar? }
+{120}{}{Lo siento, ha sido una semana dura. ¿Qué puedes contarme de este lugar? }
 {121}{}{Lo siento, pero he aprendido a ser prudente. ¿Quién está al mando aquí? }
 {122}{}{Amigos, ¿eh? Me extraña, he oído muchas cosas malas sobre ti. }
 {123}{}{Es bueno saber que aquí estoy entre amigos. ¿Qué pasa? }
-{124}{}{¿Amigos? Quieres hacerte el simpático... }
+{124}{}{¿Amigos? ¿Hasta qué punto quieres que seamos amigos...?}
 {125}{}{¿Tenéis algo de vino sagrado en este meollo? }
 {126}{}{¿El arma? }
 {127}{}{Hola, extraño. Perdona, pero no deberías desenfundar tu arma en la Catedral. }
@@ -50,8 +50,8 @@
 {149}{}{Claro. ¡He oído vuestro mensaje y quiero saber más sobre vosotros! }
 {150}{}{Estaba buscando a la persona encargada de este lugar. }
 {151}{}{Este rollo de la paz y la unidad no puede ser de verdad. }
-{152}{}{¿Quién es ese Maestro? }
-{153}{}{Me apetecería un masaje en todo el cuerpo y quizá algo más. ¿Te interesa? }
+{152}{}{¿Y quién es ese Maestro? }
+{153}{}{Me apetece bastante un masaje por todo el cuerpo y puede que algo más. ¿Te interesa? }
 {154}{}{¿Tenéis algo de vino sagrado en este meollo? }
 {155}{}{¿Ayuda? Eh... no. }
 {156}{}{Lo siento, extraño, pero tengo mucho que hacer. Por favor, discúlpame. }
@@ -68,7 +68,7 @@
 {168}{}{Yo no soy uno de los guardias de la Catedral. Pertenezco a las patrullas. }
 {169}{}{¿No? ¡Oh mierda! }
 {170}{}{Yo... ah... Oh bueno, nada que no pueda resolverse con una bala. ¡MUERE! }
-{171}{}{Discúlpame. Alabado sea el Maestro, y que tengas un buen día. }
+{171}{}{Discúlpame. Alabado sea el Maestro, y que pases un buen día. }
 {172}{}{Quizás luego. }
 {173}{}{No creo vayamos a serlo. Alabado sea el Maestro, estoy seguro de que es lo mejor. }
 {174}{}{Seguro que sí. [gruñes] }
@@ -76,7 +76,7 @@
 {176}{}{Bien, entonces tendré que matarte estando sobrio, como ahora. ¡Muere, hijo de puta! }
 {177}{}{Muchos han intentado matar al Maestro, y ninguno lo ha logrado. Pero aunque intentes ese vil acto, el Maestro te perdonará y encontrará un buen uso para ti. Rezaré por ti. }
 {178}{}{Solo estaba bromeando. La gente que ha pasado mucho tiempo en los Yermos tiene un extraño sentido del humor. ¿Cómo va todo por aquí? }
-{179}{}{Bueno ya veremos... }
+{179}{}{Ya veremos... }
 {180}{}{Nadie reza por mi alma. Pero será mejor que alguien empiece a rezar por la tuya, ¡porque voy a matarte ahora mismo! }
 {181}{}{Te has equivocado de sitio, amigo. Aquí no importa el poder. Lo que importa es la paz. }
 {182}{}{He oído que nuestra Cruzada va bien. Pronto traeremos la Paz y la Unidad al Cementerio de LA y a todas las comunidades de los alrededores. ¿No es maravilloso? }
@@ -85,13 +85,13 @@
 {185}{}{Bien. Ya era hora de que alguien limpiara esta basura. }
 {186}{}{Sí. ¿No es grande la muerte? }
 {187}{}{La persona que buscas es el Padre Morfeo. Lo encontrarás en la torre. ¿Eso es todo? }
-{188}{}{¿Hay algo que deba saber antes de conocerlo? }
+{188}{}{¿Hay algo que debería saber antes de conocerlo? }
 {189}{}{Ya veremos... }
 {190}{}{¡Gracias! ¡Por fin carne fresca! }
 {191}{}{¿Tienes algo más en mente, hijo mío? }
 {192}{}{Lo siento, ha sido una semana dura. ¿Qué puedes contarme de este lugar? }
 {193}{}{Estoy buscando que alguien me enseñe las costumbres de la Catedral. ¿A quién debo dirigirme? }
-{194}{}{Me preguntaba quién estaba al mando. }
+{194}{}{Me preguntaba quién está al cargo. }
 {195}{}{Me apetece bastante un masaje por todo el cuerpo y puede que algo más. ¿Te interesa? }
 {196}{}{¿Tenéis algo de vino sagrado en este meollo? }
 {197}{}{Me preguntaba cómo quedarías si algún maníaco desparramara tus sesos por este precioso suelo de la Catedral. ¡Averigüémoslo! }
@@ -110,7 +110,7 @@
 {210}{}{Me gustaría ver al Maestro y oír lo que tiene que decir }
 {211}{}{¿Cómo puedes estar seguro de que esto no es una forma de control mental? }
 {212}{}{¿Tenéis algo de vino sagrado en este meollo? }
-{213}{}{Vale. Prefiero causar mis propios horrores a la gente. }
+{213}{}{Estoy de acuerdo. Prefiero causar mis propios horrores a la gente. }
 {214}{}{¡Nuestros enemigos nos difaman! La gente se asusta tan fácilmente, ¡sobre todo cuando alguien les dice lo que tienen que hacer! Pero desde que sigo al Maestro y a la Llama Sagrada no tengo nada que temer. ¡El Maestro me dijo que no tuviera miedo! }
 {215}{}{¿Y cómo vamos a lograr esa perfecta Utopía? }
 {216}{}{¡Bien por el Maestro! ¿Tienes idea de dónde puedo encontrarlo? }
@@ -128,9 +128,9 @@
 {228}{}{Em, ¿está cargada? }
 {229}{}{No sé. La mente del Maestro es tan grandiosa... Sé que los Niños marchan hacia el norte. ¡Nos haremos con todos los asentamientos y los bautizaremos a todos! El bautismo nos cambia y nos acerca a dios, así alcanzamos la paz y la unidad. ¡Nunca más habrá guerra o destrucción! }
 {230}{}{¿Y dónde está la pila bautismal? }
-{231}{}{¡Suena como si fuera a sumergirnos a todos en el virus VEF-2! }
+{231}{}{¡Parece como si fuera a sumergirnos a todos en el virus VEF-2! }
 {232}{}{¡Va a ser un día maravilloso! }
-{233}{}{Bueno, ya he oído todo lo que necesitaba. }
+{233}{}{Bueno, ya he oído todo lo que necesitaba saber. }
 {234}{}{Entonces será mejor que me dedique a destruir mientras pueda. ¡Muere, cabrón! }
 {235}{}{¡Alabado sea el Maestro! ¡Que la Paz esté contigo! Disfruta de tu estancia en la Catedral. }
 {236}{}{Este es el santuario al que deben venir los que desean construir un futuro de paz, para hacer realidad su visión. }
@@ -161,7 +161,7 @@
 {261}{}{He oído que nuestra Cruzada va bien. Avanzamos hacia el norte, y como el Maestro prometió, las fuerzas de la Edad Oscura no pueden competir con el ejército de los Iluminados. ¡Son tiempos de Gloria! ¡Levanta la cabeza, amigo, y canta alabanzas! }
 {262}{}{¿Y qué pasa con aquellos a los que derrotemos? ¿Podemos disipar la Edad Oscura con sangre? ¿Con tiranía? }
 {263}{}{Tío, ¡tengo ganas de ir de marcha! }
-{264}{}{Bien, ya he oído todo lo que necesito saber. }
+{264}{}{Bueno, ya he oído todo lo que necesitaba saber. }
 {265}{}{No, gracias. Me duele la garganta. Prefiero celebrarlo a mi manera: ¡Matándote! }
 {266}{}{No era mi intención insultarte ni interferir en tus obligaciones. Por favor, acepta mis disculpas. Que el Maestro te bendiga por tu servicio. }
 {267}{}{Discúlpame. Alabado sea el Maestro, y que pases un buen día. }

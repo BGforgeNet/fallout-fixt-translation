@@ -3,7 +3,7 @@
 {102}{}{¿No tendrá algo que ver con los rumores sobre un ejército de Supermutantes que va por ahí arrasando?}
 {103}{}{¿Dónde vamos?}
 {104}{}{¿A qué estás esperando? ¡Vámonos!}
-{105}{}{Creo que no.}
+{105}{}{No lo creo.}
 {106}{}{¿Qué es esa peste a cadáver pútrido? ¡Oh, eres tú!}
 {107}{}{¿Ruh?}
 {108}{}{Sígueme y lo descubrirás. O hablando en claro: ¡Sígueme y vivirás, idiota!}
@@ -22,7 +22,7 @@
 {121}{}{Uh... ¡voy!}
 {122}{}{Uh... ¡yo quedar!}
 {123}{}{¡Basta ya de indecisiones! ¿Cuál es tu respuesta, humano?}
-{124}{}{Te acompaño. Vamos.}
+{124}{}{Voy contigo. Vamos.}
 {125}{}{Olvídalo.}
 {126}{}{¡Cómo te atreves a empujarme! ¡Nadie me dice lo que tengo que hacer!}
 {127}{}{¡Perro insolente! ¡Vas a morir!}

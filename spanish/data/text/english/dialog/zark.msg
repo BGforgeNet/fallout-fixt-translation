@@ -18,10 +18,10 @@
 {117}{}{Paz, unidad, ese tipo de cosas.}
 {118}{}{¿Dónde está el Maestro?}
 {119}{}{Estaba buscando a un amigo. Alguien con quien hablar.}
-{120}{}{He oído que hay mucha marcha por aquí.}
+{120}{}{He oído que las bebidas son muy buenas por aquí.}
 {121}{}{Mis pies.}
 {122}{}{Quieres hablar, ¡mejor será que apartes el arma de mi cara! ¡Bájala ahora!}
-{123}{}{La fuerza de la costumbre. Tú depones tu actitud y yo bajo el arma.}
+{123}{}{La fuerza de la costumbre. Si depones tu actitud, yo bajo el arma.}
 {124}{}{Todavía no he muerto, así que no la bajo.}
 {125}{}{¿Cuál es el problema? Solo quiero hablar.}
 {126}{}{Estoy de guardia.}
@@ -36,14 +36,14 @@
 {135}{}{¿Qué pasa con Morfeo?}
 {136}{}{¿Quién es ese Fustigador?}
 {137}{}{Bien. ¿Qué quieres?}
-{138}{}{¿Has visto si ha sucedido algo fuera de lo normal por aquí?}
-{139}{}{¿Qué está pasando por aquí?}
+{138}{}{¿Has notado algo fuera de lo normal por aquí?}
+{139}{}{¿Qué está pasando aquí?}
 {140}{}{¿Dónde está el Maestro?}
-{141}{}{Estoy buscando a un amigo.}
+{141}{}{Solo estoy buscando a un amigo.}
 {142}{}{Para terminar lo que empezó el ataque nuclear.}
 {143}{}{Tío, ¡aléjate de él! Está completamente... No sé si podré describirlo. Imagínate a la persona del mundo que no querrías conocer. ¡Fustigador es peor!}
-{144}{}{¿Se llevan bien Morfeo y él?}
-{145}{}{¿Y qué es lo que ha hecho? ¿Qué lo hace ser tan malo?}
+{144}{}{¿Se llevan bien él y Morfeo?}
+{145}{}{¿Y qué es lo que ha hecho? ¿Qué lo hace tan malo?}
 {146}{}{Todavía no me conoces, amigo.}
 {147}{}{Habla con Morfeo y reza para que no te mate por preguntar.}
 {148}{}{No creo que quiera hacerlo. Tengo información importante.}
@@ -71,9 +71,9 @@
 {170}{}{¿Qué dices?}
 {171}{}{Bien. ¿Qué quieres?}
 {172}{}{¿Has notado algo fuera de lo normal por aquí?}
-{173}{}{¿Qué pasa por aquí?}
+{173}{}{¿Qué está pasando aquí?}
 {174}{}{¿Dónde está el Maestro?}
-{175}{}{Estoy buscando a un amigo.}
+{175}{}{Solo estoy buscando a un amigo.}
 {176}{}{¡Para ver cómo se te despega la cabeza de los hombros y poder darle una patada como si fuera un balón de fútbol, hasta que el cráneo se te haya hecho pedazos!}
 {177}{}{Si no llevaras esa ropa te mataría. Tal y como están las cosas, quiero matarte. Aléjate de mi vista. Ahora.}
 {178}{}{Tú no eres un Nocturno. ¡Guardias! Tenemos un espía...}
@@ -87,7 +87,7 @@
 {186}{}{¡No sé! La única persona que lo ha visto es Morfeo, y él está en su torre. ¡Tío, me estás poniendo los pelos de punta!}
 {187}{}{A veces pasa. Sigue cooperando y no tienes nada que temer.}
 {188}{}{¡Háblame más de Morfeo!}
-{189}{}{¿Quién más es alguien importante por aquí?}
+{189}{}{¿Qué otro pez gordo hay en este sitio?}
 {190}{}{Has sido de gran ayuda. Gracias, amigo.}
 {191}{}{Tienes que ser más sociable. ¿Sabes dónde guardan las bebidas?}
 {192}{}{Muy mal. Esperaba que hubiera más pelotas por aquí.}
@@ -134,7 +134,7 @@
 {233}{}{¿Has notado algo fuera de lo normal por aquí?}
 {234}{}{¿Qué está pasando aquí?}
 {235}{}{¿Dónde está el Maestro?}
-{236}{}{Solo busco a un amigo.}
+{236}{}{Solo estoy buscando a un amigo.}
 {237}{}{Todo lo que quiero es algo de bebida. ¿Qué tal un poco de zumo de escorpión rad?}
 {238}{}{Quiero un chico malo que me joda lo bastante como para que le arranque la lengua, la diseque y me la ponga de colgante como recuerdo de lo estúpida que puede ser la gente.}
 {239}{}{El Maestro puede besarme el culo. Mientras termine en el lado de los ganadores, me importa un rábano. ¡Ahí lo tienes, zombi!}

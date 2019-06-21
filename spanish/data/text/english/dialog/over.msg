@@ -12,8 +12,8 @@
 {111}{Over_7}{¡Has vuelto! ¡Y de una pieza! ¿Cómo va la búsqueda?}
 {112}{}{No va bien, pero el nivel de radiaciones es bajo. ¿Por qué no sacamos a la gente del Refugio y ya está?}
 {113}{}{Todavía no he encontrado el chip. ¿No podríamos simplemente fabricar uno de reemplazo?}
-{114}{}{Todavía nada.}
-{115}{}{Nah.}
+{114}{}{Nada todavía.}
+{115}{}{No.}
 {116}{Over_8}{Mira, sé que va a ser duro. Pero contamos contigo. Y se nos está agotando el tiempo. ¡Por favor! ¡Sigue intentándolo!}
 {117}{Over_9}{Ah, nunca me escuchas. Ya no tenemos las piezas necesarias. Hemos agotado todos los suministros necesarios.}
 {118}{}{Oh, vale. Gracias.}
@@ -23,7 +23,7 @@
 {122}{}{Todavía no. Lo siento.}
 {123}{}{Sigo diciendo que lo mejor sería hacer las maletas y sacar a todo el mundo de aquí.}
 {124}{}{No, ¡pero tengo un montón de cosas que contarte!}
-{125}{}{Nah.}
+{125}{}{No.}
 {126}{Over_13}{[El Supervisor suspira.] No lo sientas. Sé que lo estás haciendo todo lo que puedes y con eso basta. Pero no puedes abandonar ahora.}
 {127}{Over_14}{Este no es el mejor momento para discutir eso. Consigue el chip, danos esa oportunidad. La mayoría de esta gente, incluido yo, no sobreviviría ahí fuera.}
 {128}{}{Vale, veré si puedo encontrarlo.}
@@ -31,7 +31,7 @@
 {130}{Over_19a}{Por favor, dime que has encontrado el chip.}
 {131}{}{No, ¡pero he visto cosas increíbles!}
 {132}{}{Lo siento, aún no he podido averiguar dónde encontrarlo.}
-{133}{}{No.}
+{133}{}{¡No!}
 {134}{}{Nah-ah.}
 {135}{Over_20}{Bueno, sigue buscándolo. El tiempo se está agotando.}
 {136}{Over_21}{¡No tenemos tiempo para esto! Necesitamos el chip. Se nos acaba el tiempo. [Suspiro]}
@@ -45,8 +45,8 @@
 {144}{}{Es tu elección. Haré todo lo que pueda, pero no sé si será suficiente.}
 {145}{}{Lo comprendo.}
 {146}{Over_26}{Tiene que serlo. Si fracasas, también fracasará el Refugio.}
-{147}{}{Lo he pillado.}
-{148}{}{Como digas.}
+{147}{}{Lo pillo.}
+{148}{}{Lo que sea.}
 {149}{Over_27}{Bien, ¡entonces continúa con ello!}
 {150}{Over_28}{¿Encontraste el chip?}
 {151}{}{Sí.}
@@ -75,9 +75,9 @@
 {174}{Over_41a}{Oh, sí. Lo hiciste bien y estoy seguro de que tienes muchas cosas que contar.}
 {175}{Over_42}{Yo, eh, solo te quería decir que el suministro de agua se ha estabilizado. En realidad estamos rehaciendo nuestras reservas. Hiciste un gran trabajo... aunque, bueno, estoy un poco preocupado.}
 {176}{}{¿Preocupado por qué?}
-{177}{}{¿Ehh?}
+{177}{}{¿Eh?}
 {178}{Over_43}{No... no me gustaron tus informes. Es decir, lo que había escrito en tus informes. Je. De hecho me asustaron. Es sobre esos mutantes. He hecho algunos cálculos y, bueno, he llegado a una conclusión desagradable.}
-{179}{}{¿Cuál?}
+{179}{}{¿Qué es eso?}
 {180}{Over_44}{La población mutante es mucho mayor de lo que podría esperarse por el crecimiento natural o las mutaciones. Esto me lleva a pensar que... no lo entiendo del todo. Pero parece como si alguien estuviese generando nuevos mutantes. Y a un ritmo vertiginoso.}
 {181}{}{¿Lo repites de nuevo, sin toda esa confusión?}
 {182}{}{Entonces debe haber un laboratorio en alguna parte.}
@@ -125,13 +125,13 @@
 {224}{Over_68}{¿Te has encargado... del líder de los mutantes?}
 {225}{}{No.}
 {226}{}{Pronto... estará hecho.}
-{227}{}{Nah.}
+{227}{}{No.}
 {228}{Over_69}{Sé que ha sido difícil para ti. Pero el Maestro es capaz de reconstruir su ejército mutante. Entonces, vendría a por nosotros. Por favor, vuelve afuera y termina el trabajo.}
 {229}{Over_70}{Bueno, eso... eso... eso es genial. Eso está muy bien. Parece que tienes el control ahí fuera. Por favor, termina con esto rápido, para que tú y yo podamos... cuando estés ahí fuera, recuerda que la gente del Refugio sabe que les has salvado.}
 {230}{Over_71}{No nos podemos permitir esto. Ahora no. No con todo lo que está pasando. Las reglas del Refugio están ahí para protegernos y asegurar la supervivencia de nuestra especie.}
 {231}{Over_72}{¡¿Qué pasa contigo?! ¡¿Te has vuelto contra nosotros?! Eso no puedo permitirlo.}
 {232}{Over_73}{Las caravanas de agua del Eje ese han empezado a llegar. He hecho las cuentas y tengo algunas noticias preocupantes.}
-{233}{}{¿Cuáles son?}
+{233}{}{¿Qué es eso?}
 {234}{}{¿Eh?}
 {235}{Over_74}{Oh, no importa. Tu solo intenta encontrar el Chip de Agua. Consigue el chip. Todavía lo necesitamos.}
 {236}{Over_75}{El agua de la caravana mantendrá nuestro suministro actual, pero no lo aumentará sustancialmente. Y la verdad, esos mercaderes del Eje nos cuestan un ojo de la cara. Esto ayuda y lo agradecemos, pero no es la solución.}
@@ -145,11 +145,11 @@
 {244}{Over_79}{Seguro que sí. Debes entender nuestra necesidad de ese chip de repuesto. Por favor, sigue buscando.}
 {245}{Over_80}{Por favor sigue buscando ese Chip de Agua. Estas caravanas de agua nos van a traer problemas a la larga.}
 {246}{Over_81}{¡Lo has conseguido! Es... maravilloso. ¡Increíble! Estoy tan orgulloso de lo que has logrado, de lo que has resistido. No hay forma de que la gente del Refugio te pueda agradecer bastante todo lo que has hecho por ellos. Has salvado todas nuestras vidas. Quién sabe, puede que hayas salvado a toda la raza humana. [El Supervisor suspira.] Eso hace, que lo que te voy a decir, sea aún más duro. Todo el mundo querrá hablar contigo. Cada jovencito te adorará y querrá ser aún mejor que tú. ¿Y entonces qué? Querrán marcharse. ¿Qué será del Refugio si perdemos lo mejor de una generación? ¿Qué pasará, si no hay otro sitio más seguro en el mundo? Acabas de devolvernos todas estas vidas... y no puedo arriesgarme a perderlas. He tomado muchas decisiones difíciles desde que ocupé este cargo. Pero ninguna tan dura como ésta. Nos has salvado, pero acabarías matándonos. Perdóname. Eres un héroe... y tienes que marcharte.}
-{247}{Over_100}{Yo no sé nada de eso.}
+{247}{Over_100}{No sé nada sobre eso.}
 {248}{Over_200}{Es una pieza fundamental que nos permite purificar el agua. Sin ella, se nos acabaría el agua potable.}
 {249}{Over_201}{Este es nuestro hogar. Sin él estaríamos todos muertos. Si cuidamos bien de él, debería durarnos mucho tiempo.}
 {250}{Over_202}{Fue terrible. Espero que hayamos aprendido la lección y que no se repita.}
-{251}{Over_203}{¿Cómo voy a saberlo? ¡Ni siquiera me entero de lo que ocurre aquí dentro! Seguro que tú lo descubres.}
+{251}{Over_203}{¿Cómo voy a saberlo? ¡Ni siquiera me entero de lo que ocurre aquí dentro! Seguro que tú lo descubrirás.}
 {252}{}{Ganas 7.500 puntos de experiencia por recuperar el Chip de Agua y salvar el Refugio. ¡Enhorabuena!}
 {253}{Over_0ab}{Aquí tienes un dibujo que te ayudará a identificarlo.}
 {254}{Over_1a}{Tienes un mes para recuperar el chip antes de que el Refugio se quede sin agua.}
@@ -164,15 +164,7 @@
 {263}{Over_81c}{Todo el mundo querrá hablar contigo. Los jovencitos te adorarán y querrán ser aún mejores que tú. ¿Y entonces qué?}
 {264}{Over_81d}{Querrán marcharse. ¿Qué será del Refugio si perdemos lo mejor de una generación? ¿Y qué pasa si éste es el único sitio seguro en el mundo? Acabas de devolvernos todas estas vidas... No puedo arriesgarme a perderlas.}
 {265}{Over_81e}{He tomado muchas decisiones difíciles desde que ocupo este cargo. Pero ninguna tan dura como ésta. Nos has salvado, pero acabarías matándonos. Perdóname. Eres un héroe... y tienes que marcharte.}
-
-# Overseer Tell-Me-Abouts generic responses
 {980}{Over_100}{No sé nada sobre eso.}
-
-#
-# Overseer Tell-Me-Abouts
-#
-
-
 {1000}{}{Agua}
 {1001}{}{Refugio}
 {1002}{}{Guerra}
@@ -181,12 +173,10 @@
 {1005}{}{Biblioteca}
 {1006}{}{Curación}
 {1007}{}{Médico}
-{1008}{}{Refugio13}
+{1008}{}{Refugio 13}
 {1009}{}{Refugio 13}
 {1010}{}{Supervisor}
 {1011}{}{Chip de Agua}
-
-
 {1100}{Over_200}{Es una pieza fundamental que nos permite purificar el agua. Sin ella, se nos acabaría el agua potable.}
 {1101}{Over_201}{Este es nuestro hogar. Sin él estaríamos todos muertos. Si cuidamos bien de él, debería durarnos mucho tiempo.}
 {1102}{Over_202}{Fue terrible. Espero que hayamos aprendido la lección y que no se repita.}

@@ -1,2 +1,1 @@
-{100}{}{¡Es una especie de enorme criatura Supermutante! ¡Tiene una pistola gigantesca!}
-
+{100}{}{¡Es una especie de enorme criatura Supermutante! ¡Y tiene un arma gigantesca!}

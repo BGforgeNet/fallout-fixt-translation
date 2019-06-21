@@ -41,8 +41,6 @@
 {141}{}{Gracias. Adiós.}
 {142}{}{No tenemos tiempo para hablar. Nos vamos. Este lugar es peligroso para nosotros.}
 {143}{}{¿Por qué haces eso? ¡No te haremos daño!}
-
-
 {1000}{}{Catedral}
 {1001}{}{Mutantes}
 {1002}{}{Maestro}
@@ -54,17 +52,18 @@
 {1008}{}{Set}
 {1009}{}{Almacén de Agua}
 {1010}{}{Sala}
-
-{1100}{}{Somos nosotros.}
-{1101}{}{Ellos mutaron a consecuencia de la radioactividad. Pero siguen siendo buena gente.}
-{1102}{}{Todos tenemos maestros, ¿verdad?}
-{1103}{}{l Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}
+{1011}{}{El Cementerio}
+{1012}{}{Cementerio de LA}
+{1100}{}{Esos somos nosotros.}
+{1101}{}{Sufrieron una mutación durante el holocausto nuclear Pero aún son buena gente.}
+{1102}{}{Todos tenemos maestros, ¿no?}
+{1103}{}{El Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}
 {1104}{}{Ellos pretenden destruir la paz que el Maestro está intentando establecer.}
-{1105}{}{No tengo la menor idea de lo que me estás diciendo.}
+{1105}{}{No tengo ni idea de lo que me dices.}
 {1106}{}{Ellos pretenden destruir la paz que el Maestro está intentando establecer.}
 {1107}{}{Aquí tienes. Solo quedan tristes recuerdos de un mundo antiguo.}
 {1108}{}{Creo que es uno de los necrófagos.}
 {1109}{}{Está justo ahí, hacia el noreste.}
-{1110}{}{No sé absolutamente nada de eso.}
+{1110}{}{No sé nada sobre eso.}
 {1111}{}{El Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}
 {1112}{}{El Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}

@@ -16,14 +16,14 @@
 {115}{}{¿Por qué no mandas a uno de tus propios matones?}
 {116}{}{No trabajaría para ti aunque me ofrecieses todas las chapas de este asqueroso lugar.}
 {117}{}{Claro. Puedo necesitar las chapas.}
-{118}{}{No lo creo. Gracias de todas formas.}
-{119}{}{¿Cuánto deseas pagar?}
+{118}{}{No estoy de acuerdo. Gracias de todas formas.}
+{119}{}{¿Cuánto piensas pagar?}
 {120}{gizmo_6}{Lo haría, pero no debe haber nada que me relacione con la desafortunada muerte de Killian.}
 {121}{}{Tiene sentido. Claro que lo haré.}
 {122}{}{Está bien, lo haré.}
 {123}{}{Vaya cobarde. ¿Tienes miedo no gustar a la gente? Demasiado tarde.}
 {124}{}{¿Cuánto piensas pagar?}
-{125}{}{De ninguna manera.}
+{125}{}{No hay elección.}
 {126}{}{No estoy de acuerdo. Gracias de todas formas.}
 {127}{gizmo_7}{*respira profundamente* Sabía que comprenderías mi punto de vista. Como prueba quiero las placas de identificación que Killian lleva en el cuello. Si las coges, recibirás tus chapas. Anda, vete y no me cabrees. Todavía conservo las rótulas del último que lo intentó.}
 {128}{gizmo_8}{Mil chapas. Ni más, ni menos.}
@@ -35,7 +35,7 @@
 {134}{}{Ahora nos entendemos.}
 {135}{}{¿Eso cuánto es, una chapa la libra para ti? Olvídalo.}
 {136}{}{Gracias, pero no.}
-{137}{}{Ni de coña.}
+{137}{}{No hay elección.}
 {138}{gizmo_10}{Siento que pienses así. Aunque no tanto como lo vas a sentir tú. Que no salga ni una palabra de aquí. Izo, muéstrale a nuestro nuevo amigo lo que hacemos con la gente que me dice que no.}
 {139}{gizmo_11}{Una vez, vale. Dos son demasiado. Y han sido dos. Izo, consígueme un par de rótulas.}
 {140}{gizmo_13}{¿Has terminado ya el trabajo?}
@@ -106,13 +106,13 @@
 {205}{gizmo_35}{Has vuelto. Sabes, tuve que contratar a otro para que hiciese tu trabajo. No me hizo nada de gracia. De hecho, Izo te mostrará la poco gracia que me hizo. Espero que hayas tenido un buen día, porque es el último.}
 {206}{gizmo36a}{*gruñe* Killian es el alcalde de esta ciudad. Cree que lo sabe todo... bueno, vamos a ver cuánto sabe, ¿qué te parece?}
 {207}{gizmo_37}{*tose* Ese soy yo, idiota. Yo llevo esta... casa de juegos.}
-{208}{gizmo_38}{Esa es la tienducha de Killian en el extremo norte de la ciudad. Vende porquerías.}
-{209}{gizmo_39}{Bueno, la mayoría de la gente juega aquí. Haces preguntas estúpidas.}
+{208}{gizmo_38}{Esa es la tienducha de Killian, en el extremo norte de la ciudad. Vende porquerías.}
+{209}{gizmo_39}{Bueno, la mayoría juega aquí. Haces preguntas estúpidas.}
 {210}{gizmo_42}{¿No te gustaría saberlo?}
 {211}{gizmo_43}{No te preocupes por eso.}
 {212}{gizmo_44}{*snif* Yo eh... No me apetece hablar de ello ahora.}
-{213}{gizmo_45m}{Eh, ¿qué diablos crees que estás haciendo? ¡Izo, arráncale los brazos!}
-{214}{gizmo_45f}{Eh, ¿qué diablos crees que estás haciendo? ¡Izo, arráncale los brazos!}
+{213}{gizmo45m}{Eh, ¿qué diablos crees que estás haciendo? ¡Izo, arráncale los brazos!}
+{214}{gizmo45f}{Eh, ¿qué diablos crees que estás haciendo? ¡Izo, arráncale los brazos!}
 {215}{gizmo_47}{¿Qué, estás sordo?, he dicho...}
 {216}{gizmo_48}{¡Oye, no pienso repetirlo!}
 {217}{}{Ganas 600 puntos de experiencia por derrotar a Gizmo. Que en piezas descanse el bastardo.}
@@ -125,21 +125,10 @@
 {224}{}{Estaba pensando en un cuchillo en la espalda o una bala entre los ojos.}
 {225}{}{Lo pillo. ¿Por qué le quieres muerto?}
 {226}{gizmo_24}{¿De verdad? *ríe* ¿Ella va a ayudarme? ¿De qué tipo de ayuda estamos hablando?}
-
-# for Fallout Fixt:
-
 {227}{}{¿Quién ere? ¿Qué es lo que quieres?}
 {228}{}{Ves a una detestable excusa de hombre. Debe de ser Gizmo.}
-
-
-# Gizmo's Tell-Me-Abouts generic responses
 {980}{gizmo_42}{¿No te gustaría saberlo?}
 {981}{gizmo_43}{No te preocupes por eso.}
-
-#
-# Gizmo's Tell-Me-Abouts
-#
-
 {1000}{}{Killian}
 {1001}{}{Gizmo}
 {1002}{}{Darkwaters}
@@ -149,7 +138,6 @@
 {1006}{}{Casino}
 {1007}{}{Ciudad Vertedero}
 {1008}{}{Darkwater's}
-
 {1100}{gizmo36a}{*gruñe* Killian es el alcalde de esta ciudad. Cree que lo sabe todo... bueno, *ríe* ya veremos cuánto sabe, ¿no es así?}
 {1101}{gizmo_37}{*tose* Ese soy yo, idiota. Yo llevo esta... casa de juegos.}
 {1102}{gizmo_38}{Esa es la tienducha de Killian, en el extremo norte de la ciudad. Vende porquerías.}

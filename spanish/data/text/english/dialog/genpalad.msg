@@ -15,4 +15,3 @@
 {114}{}{Tengo que mantener mi cuerpo y mi mente en las mejores condiciones, Iniciado.}
 {115}{}{Hijo mío, ser un Paladín no es solo luchar.}
 {116}{}{Hija mía, ser un Paladín no es solo luchar.}
-

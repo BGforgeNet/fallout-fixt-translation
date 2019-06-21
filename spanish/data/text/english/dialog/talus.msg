@@ -15,7 +15,7 @@
 {115}{}{¿En serio? Vale, gracias.}
 {116}{}{¿Tenemos prisa, verdad? Como Iniciado tienes asignadas ciertas cosas. Te daré un vale para una armadura de combate y tres órdenes para tantas municiones y balas que desees. Vete a ver a Michael, en la sala de al lado para recoger los suministros.}
 {117}{}{Mucha gracias, pero... ¿no tendrás por casualidad un arma de sobra que pueda servirme para sobrevivir ahí fuera?}
-{118}{}{Gracias, ¿y qué tal unas armas de alta tecnología?}
+{118}{}{Gracias, ¿qué tal unas armas de alta tecnología?}
 {119}{}{¿Eso es todo? ¡Estarás bromeando!}
 {120}{}{Lo comprendo, pero no tengo mucho tiempo y necesito mejores armas de fuego.}
 {121}{}{¡Genial! ¿Qué tengo que hacer ahora? ¿Escalar la cima más alta?}
@@ -23,7 +23,7 @@
 {123}{}{Bueno, puedo hacer una excepción. Al parecer te has entrenado bien. De lo contrario no habrías tenido éxito en esa misión alocada que te encomendó el Anciano Mayor.}
 {124}{}{A veces no sé si está intentando obtener ayuda del exterior, o librarse de los estúpidos. Sin ánimos de ofender... Te diré una cosa. Estoy en una situación difícil porque los exploradores que envié hace tiempo nunca volvieron.}
 {125}{}{Fue idea mía, y me lo he tomado como algo personal. Si descubres qué les ocurrió, te recompensaré por ello.}
-{126}{}{Me lo pensaré.}
+{126}{}{Lo pensaré.}
 {127}{}{Discúlpame, Iniciado. Por favor, no empuñes tu arma. Guárdala a menos que pienses usarla.}
 {128}{}{Enfunda tu arma, Iniciado. No estás en un ejercicio de entrenamiento, apártala.}
 {129}{}{¿Puedes dejar de menear el arma? Deberías... oh, da igual.}
@@ -37,7 +37,7 @@
 {137}{}{Yo te puedo ayudar. Como Iniciado tienes asignadas ciertas tareas. Te daré un vale para una armadura de combate y tres órdenes para tantas municiones y balas como desees.}
 {138}{}{Vete a ver a Michael, en la sala de al lado, para recoger los suministros.}
 {139}{}{¿Qué hay del traje metálico que llevas puesto?}
-{140}{}{Gracias. ¿Qué tal unas armas de alta tecnología?}
+{140}{}{Gracias, ¿qué tal unas armas de alta tecnología?}
 {141}{}{Todos somos importantes, pero ya sé a lo que te refieres.}
 {142}{}{Eso no es un problema. Deberías aprender a conocer a tus Hermanos. Ya sé que somos muchos, y que puede resultar difícil acordarse de todos nosotros.}
 {143}{}{Pues está Rhombus. Es nuestro Paladín Jefe, también conocido como el Maestro Caballero. Luego también está Vree; ella es la Escriba Jefa. Y no debemos olvidar a nuestro distinguido Anciano Mayor, Maxson.}
@@ -57,12 +57,12 @@
 {157}{}{Maxson es un viejo duro. Es el tataranieto... ¿o era el tataratataranieto? Bueno, lo mismo da. Es el descendiente de uno de los padres fundadores. Él es, por supuesto, el Anciano Mayor.}
 {158}{}{Te has ganado toda una reputación. He comprobado que mucha gente te tiene en alta estima. Creo que no necesitas ayuda, te las puedes arreglar tú sólo. Pero, si me ayudas a resolver un problema, puede que te recompense.}
 {159}{}{Muchas gracias, adiós.}
-{160}{}{Eso es, gracias.}
+{160}{}{Eso es todo, gracias.}
 {161}{}{Me estás poniendo nervioso, so plasta. ¿Qué quieres ahora?}
 {162}{}{Nada, solo quería oír tu voz tan agradable.}
 {163}{}{Perdona, no te veía.}
 {164}{}{¡Cha Toh Weh Lo!}
-{165}{}{Ug.}
+{165}{}{Ag.}
 {166}{}{¡Deja de hacerme perder el tiempo!}
 {167}{}{¿Cómo has entrado? Fuera de mi vista.}
 {168}{}{Puedo darte algo más de munición si de verdad la necesitas. Cuando hables con Michael ya habré dado la autorización.}
@@ -81,7 +81,7 @@
 {181}{}{Hace poco envié a uno de nuestros Iniciados al Eje y no hemos tenido noticias suyas. Si descubres lo que le ocurrió, te estaré muy agradecido.}
 {182}{}{Lo comprobaré.}
 {183}{}{Lo intentaré, pero no puedo prometer nada.}
-{184}{}{Te dije que te marcharas.}
+{184}{}{Te he dicho que te fueras.}
 {185}{}{¿Sólo? No creo que nuestra orden pueda ayudarte. Buenos días.}
 {186}{}{No necesito saber toda la historia. Buenos días.}
 {187}{}{Gracias. Me acordaré de esto cuando vea que tienes la experiencia suficiente, y puede que nuestra orden tenga algo especial para ti.}

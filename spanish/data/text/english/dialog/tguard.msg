@@ -9,7 +9,7 @@
 {108}{}{¡Hnnng!}
 {109}{}{¡Tranquilo! Esta es una comunidad pequeña. No vemos muchos extranjeros, y la verdad, tampoco los necesitamos. Si no tienes un buen motivo para estar aquí, más vale que te largues.}
 {110}{}{Eh, no quiero hacerle daño a nadie.}
-{111}{}{Uh.}
+{111}{}{Eh.}
 {112}{}{Yo no dije que lo fueses a hacer. Será mejor que nos dejes en paz.}
 {113}{}{Intentaré no crear problemas.}
 {114}{}{Estoy hasta las narices de los tíos como tú. Prepárate para encontrarte con tu creador.}
@@ -17,8 +17,8 @@
 {116}{}{El último comerciante del Eje nos vendió una bomba de irrigación que no funcionaba. Estamos hartos del tipo de tratos que hacéis.}
 {117}{}{Te equívocas de cabo a rabo. Yo no soy así.}
 {118}{}{Sí, claro. Porque tú lo digas. Solo te digo que no te metas en líos, ¿vale?}
-{119}{}{No hay problema.}
-{120}{}{Sí, lo que tú digas.}
+{119}{}{Vale.}
+{120}{}{Sí, lo que sea.}
 {121}{}{Bueno, quizá no lo seas. Sí que pareces algo distinto. ¿Sabes qué? Deberías ir a hablar con Aradesh. Está en el centro del pueblo.}
 {122}{}{Aquí no queremos a la gente como tú. Regresa al sitio de dónde vienes.}
 {123}{}{Eh, las armas no son necesarias. No nos gustan mucho por aquí.}

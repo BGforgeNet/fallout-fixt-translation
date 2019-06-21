@@ -29,7 +29,7 @@
 {128}{}{¿Si soy uno de los Niños de la Catedral? No.}
 {129}{}{Soy un devoto creyente.}
 {130}{JAIN12}{Entonces deberías tener un sitio mejor donde estar. Y cuida tus modales. Vete.}
-{131}{}{VALE.}
+{131}{}{Vale.}
 {132}{}{Chúpate esa.}
 {133}{JAIN13}{¿Quieres convertirte a nuestra religión? Te ofreceremos lo que nadie.}
 {134}{}{¿El qué?}
@@ -45,7 +45,7 @@
 {144}{JAIN18}{Cuando los Niños caminen sobre la tierra renacida, tu especie desaparecerá, hereje. Vete inmediatamente.}
 {145}{JAIN19}{No carezco completamente de sentido del humor, pero me tomo muy en serio la tutela de los Niños. No lo olvides, por favor.}
 {146}{}{Perdóname pero no estoy demasiado familiarizado con los Niños.}
-{147}{}{Vale. Adiós.}
+{147}{}{Vale, adiós.}
 {148}{JAIN20}{Estás en el lugar adecuado para la satisfacción espiritual. Los Niños de la Catedral buscan una solución pacífica para los problemas de nuestro mundo y tu ayuda les podría ser útil.}
 {149}{}{¿Qué planes tienen los Niños para los mutantes?}
 {150}{}{¿Cómo pueden encontrar la paz los Niños en este yermo?}
@@ -54,14 +54,14 @@
 {153}{}{Es hora de que sufras un poquito.}
 {154}{}{Así sea. ¡Espero que triunfes en tu cruzada!}
 {155}{}{Eh, tengo que irme.}
-{156}{JAIN22}{Con perseverancia, los Niños pueden conseguir lo que deseen. Triunfaremos.}
+{156}{JAIN22}{Con perseverancia, los Niños pueden conseguir lo que deseen. No fracasaremos.}
 {157}{}{Bien, espero que no.}
 {158}{}{Sí, claro. Lo que sea.}
 {159}{}{Vale, adiós.}
 {160}{JAIN26}{¡Blasfemador! ¡Estás en una casa sagrada! ¡¿Cómo pudiste pensar tal cosa?!}
 {161}{}{¡Relájate, no lo decía en serio!}
 {162}{}{Fácil. Deja que te lo enseñe.}
-{163}{JAIN27}{Bendito seas por la Llama Sagrada, Niño mío.}
+{163}{JAIN27}{Que la Llama Sagrada te bendiga, Niño mío.}
 {164}{}{¿Quién es la Llama Sagrada?}
 {165}{}{Este sitio es un fraude.}
 {166}{}{Y a ti, sacerdotisa Jain. Adiós.}
@@ -87,9 +87,6 @@
 {186}{JAIN27}{Que la Llama Sagrada te bendiga, Niño mío.}
 {187}{JAIN22}{Con perseverancia, los Niños pueden conseguir lo que deseen. No fracasaremos.}
 {188}{JAIN201}{Esa no es una pregunta apropiada.}
-
-#Tell Me Abouts
-
 {1000}{}{Guerra}
 {1001}{}{Maestro}
 {1002}{}{Catedral}
@@ -102,8 +99,6 @@
 {1009}{}{Hermandad}
 {1010}{}{Llama}
 {1011}{}{Niños}
-
-
 {1100}{JAIN300}{Fue la purga del planeta. La falta de atención de los que nos precedieron provocó los fuegos sagrados. Fue justo.}
 {1101}{JAIN301}{El único Maestro es la Llama Sagrada. Es nuestro Maestro. El Maestro de todo.}
 {1102}{JAIN302}{Por gracia de Su Santidad el planeta renacerá. Nosotros somos Sus Niños y llevaremos a cabo Su plan.}

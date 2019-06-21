@@ -1,8 +1,8 @@
-{100}{}{Estás viendo a un guardia de la Hermandad.}
+{100}{}{Estás viendo a un Guardia de la Hermandad.}
 {101}{}{¡No te muevas, Iniciado!}
 {102}{}{Parece que va bien. Continúas haciendo un buen trabajo.}
 {103}{}{Hola, Iniciado. Todo está asegurado.}
-{104}{}{Lo siento, no debería hablar con nadie. Ya sabes cómo es esto.}
+{104}{}{Lo siento, no puedo hablar con nadie. Ya sabes como es.}
 {105}{}{Si tienes preguntas, deberías hablar con Talus o con Maxson.}
 {106}{}{Vree está en la biblioteca durante el día si tienes alguna cuestión técnica.}
 {107}{}{Rhombus es mi ídolo.}

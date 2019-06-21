@@ -1,5 +1,5 @@
 {100}{}{Pareces agitado. ¿Necesitas ayuda?}
-{101}{}{Necesito que alguien me cure.}
+{101}{}{Necesito curarme.}
 {102}{}{Urrr.}
 {103}{}{Mi esposo, Razlo, puede ayudarte... díselo.}
 {104}{}{Lo siento pero no te entiendo.}

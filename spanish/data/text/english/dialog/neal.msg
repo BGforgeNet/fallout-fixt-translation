@@ -7,7 +7,7 @@
 {106}{}{Bienvenido a la Fosa Común. ¿Qué puedo hacer por ti?}
 {107}{}{Eh, tomaré algo.}
 {108}{}{Busco información.}
-{109}{}{Me llamo }
+{109}{}{Mi nombre es }
 {110}{}{ . ¿Qué es este lugar?}
 {111}{}{¡Iahhhhh!}
 {112}{}{Bien. ¿Qué quieres?}

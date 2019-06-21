@@ -37,7 +37,7 @@
 {136}{}{Pareces un tío legal. Nadie ha querido ayudarme nunca antes. Creo que podemos hablar un poco más.}
 {137}{}{Pareces un tío legal. Nadie ha querido ayudarme nunca antes. Creo que podemos hablar un poco más.}
 {138}{}{Déjame solo. ¡Te odio! Eres el demonio. No te escucharé.}
-{139}{}{Hazlo a tu manera.}
+{139}{}{Hazlo a tu modo.}
 {140}{}{Tienes que escucharme. Tu vida y la de la chica dependen de eso.}
 {141}{}{Relájate. No te haré daño. Solo quiero escuchar lo que tienes que decirme.}
 {142}{}{Otra vez estás amenazándome. ¡¡Muere!!}

@@ -45,9 +45,9 @@
 {144}{}{Pareces un buen chico, pero no soy tu tipo.}
 {145}{}{¡Vale entonces! Se pagan 400 pavos del Eje. ¿Qué trayecto prefieres?}
 {146}{}{Me alegro. Vuelve en }
-{147}{}{8}
-{148}{}{18}
-{149}{}{28}
+{147}{}{día 8}
+{148}{}{día 18}
+{149}{}{día 28}
 {150}{}{}
 {151}{}{}
 {152}{}{Hermandad del Acero.}
@@ -55,8 +55,8 @@
 {154}{}{Vale.}
 {155}{}{Lo siento, no puedo esperar.}
 {156}{}{No estoy seguro de lo que ocurrió, se perdió toda la caravana. Qué raro que tal cosa pasara y que tú fueras el único en sobrevivir. Las cosas no ocurren así por lo general. No creo que pueda contratarte más por eso. Seguro que entiendes mis razones.}
-{157}{}{Ciudad Vertedero.}
-{158}{}{Cementerio de LA.}
+{157}{}{Ciudad Vertedero}
+{158}{}{Cementerio de LA}
 {159}{}{Um, ahora no. Puede que en otra ocasión.}
 {160}{}{Me alegro, reuniré al resto del equipo.}
 {161}{}{Bien.}
@@ -92,7 +92,7 @@
 {191}{}{¿Ya estás equipado? Partimos hoy.}
 {192}{}{Sí.}
 {193}{}{¡No!}
-{194}{}{¡Ajj!}
+{194}{}{¡Ack!}
 {195}{}{Si no, se lo daré a otro, no te preocupes por eso. No estás obligado a nada... hasta que salgas con la caravana, ¿vale?}
 {196}{}{La próxima caravana no sale hasta }
 {197}{}{día 8}
@@ -118,5 +118,4 @@
 {217}{}{Vale, sal de mi vista inmediatamente. Esos fanáticos de la Hermandad te esperan.}
 {218}{}{¡Espero que te gusten las montañas! Te diriges hacia ellas. Encontrarás mucho movimiento allí.}
 {219}{}{Listo para partir; ¡te encaminarás hacia las montañas! ¡Te divertirás de lo lindo!}
-# invasion- WastelandGhost@RestorationMOD
 {300}{}{Así que te has apuntado; son buenas noticias. Ya lo sabes, salimos cada diez días. Esos son el 8, 18 y 28 de cada mes. Ahora mismo hacemos recorridos por La Hermandad y Ciudad Vertedero. Hay rumores de una invasión mutante en el Cementerio de LA, así que ya no vamos por allí.}

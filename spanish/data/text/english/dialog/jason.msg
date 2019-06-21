@@ -41,7 +41,7 @@
 {140}{}{Sip.}
 {141}{}{No te preocupes, te sacaré de aquí.}
 {142}{}{Lo siento chico, ¡estás solo en esto!}
-{143}{}{¿Qué estás haciendo aquí?}
+{143}{}{¿Qué haces aquí?}
 {144}{}{¡Gracias!}
 {145}{}{¡Por favor, no me dejes!}
 {146}{}{Creía que sería divertido irse de Adytum y explorar el mundo. Pero los Destripadores me cogieron y he estado aquí desde entonces. Por favor, ¡ayúdame!}

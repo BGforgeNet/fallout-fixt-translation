@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un miembro de la banda de los Kalaveras.}
-{101}{}{¡Eh! ¡¿Dónde crees que vas?!}
+{101}{}{¡Eh! ¿Qué crees que estás haciendo?}
 {102}{}{Estás en territorio de los Kalaveras, forastero. Será mejor que te largues.}
 {103}{}{¿Tienes chapas de sobra?}
 {104}{}{¿Qué estás mirando?}
@@ -11,4 +11,3 @@
 {110}{}{¿Por qué no le damos una paliza a alguien?}
 {111}{}{Quiero divertirme un poco.}
 {112}{}{Bostezo...}
-

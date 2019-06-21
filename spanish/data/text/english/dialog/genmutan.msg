@@ -15,7 +15,7 @@
 {114}{}{Date prisa con tus tareas pero recuerda que te estoy vigilando.}
 {115}{}{Sí, hermanito. ¿Qué puedo hacer por ti?}
 {116}{}{Sí, hermanita. ¿Qué puedo hacer por ti?}
-{117}{}{¡Hng!}
+{117}{}{¡Unm!}
 {118}{}{Hmm, ¿dónde está el Maestro?}
 {119}{}{Alabada sea la Unidad, hermano.}
 {120}{}{Lo siento, pero tendrás que encontrar el camino a la Unidad por tu cuenta.}
@@ -33,7 +33,7 @@
 {132}{}{¿Qué quieres esta vez? Tengo poco tiempo para hablar contigo.}
 {133}{}{¡Labbo!}
 {134}{}{Te queda muy poco tiempo... ¡Muere!}
-{135}{}{Nada, lo siento.}
+{135}{}{Nada, perdona.}
 {136}{}{Alabada sea la Unidad, hermano.}
 {137}{}{¿Pero quién eres tú? Déjame ver... ¡Argh! Un intruso...}
 {138}{}{Muévete. ¡Haz tu deber para la Unidad y deja de molestarme!}

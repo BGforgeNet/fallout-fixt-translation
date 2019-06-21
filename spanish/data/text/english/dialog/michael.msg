@@ -26,7 +26,7 @@
 {125}{}{¡Lo estás haciendo otra vez! ¡Deja de atormentarme! ¡Son tan crueles! ¡No puedo creer que te hayas puesto a su nivel! Se supone que los tíos nos ayudamos unos a otros.}
 {126}{}{¡Estás mintiendo! Estás tramando algo con ellas. ¿Cómo puedes ser tan cruel?}
 {127}{}{¿De veras? No me estarás tomando el pelo otra vez, ¿verdad? No, pareces un buen chico. Te habrán obligado a hacerlo. Ya sabes, he pillado a Lara mirándome durante el Entrenamiento. Apuesto a que fue ella, ¿no?}
-{128}{}{Sí, lo adivinaste. Fue ella. Pero no le digas que te lo he contado. Me mataría.}
+{128}{}{Sí, lo adivinaste. Fue ella pero no le digas que te lo he contado. Me mataría.}
 {129}{}{No, lo siento. Solo te estoy liando. Nadie me envió aquí.}
 {130}{}{¡Lo estás haciendo otra vez! ¡Deja de atormentarme! ¡Vosotras las mujeres sois tan crueles!}
 {131}{}{¿De veras? No me estarás tomando el pelo otra vez, ¿verdad? No, pareces una buena chica. Te habrán obligado a hacerlo. Ya sabes, he pillado a Lara mirándome durante el Entrenamiento. Apuesto a que fue ella, ¿no?}
@@ -66,7 +66,7 @@
 {165}{}{No, eso es todo. Gracias.}
 {166}{}{Sí, tengo que recoger algo más.}
 {167}{}{Vale, algo de eso tengo. Tú nunca tienes suficientes municiones, ¿no? Bueno, aquí tienes. ¿Algo más?}
-{168}{}{No, está bien. Gracias.}
+{168}{}{No, eso es todo. Gracias.}
 {169}{}{Sí, tengo que recoger algo más.}
 {170}{}{Oh, eso puede ser muy peligroso. Asegúrate de que están lo suficientemente lejos cuando exploten. Aquí tienes. ¿Algo más?}
 {171}{}{No, eso es todo. Gracias.}
@@ -74,12 +74,12 @@
 {173}{}{Ah, no hay nada como disponer de una buena arma. ¿Algo más?}
 {174}{}{No, eso es todo. Gracias.}
 {175}{}{Sí, tengo que recoger algo más.}
-{176}{}{La mejor defensa es el ataque. ¿O es al revés? Bueno, no importa. Aquí está tu armadura. Asegúrate de cuidarla. No puedo dar más de un equipo. ¿Necesitas algún objeto más?}
+{176}{}{La mejor defensa es el ataque. ¿O es al revés? Bueno, no importa. Aquí tienes tu armadura. Asegúrate de cuidarla bien. Solo puedo dar un equipo. ¿Necesitas algún objeto más?}
 {177}{}{No, eso es todo. Gracias.}
 {178}{}{Sí, tengo que recoger algo más.}
-{179}{}{Bueno, eso puede ser útil en las manos adecuadas. Aquí tienes. ¿Algo más?}
+{179}{}{Bueno, eso puede revelarse muy útil en las manos adecuadas. Aquí tienes. ¿Algo más?}
 {180}{}{No, eso es todo. Gracias.}
-{181}{}{Sí, tengo algo más que recoger.}
+{181}{}{Sí, tengo que recoger algo más.}
 {182}{}{Oh, ¿algo más? Lo siento, debo haberlo perdido. Déjame ver.}
 {183}{}{Hola otra vez. ¿Cómo estás hoy? ¿En qué puedo ayudarte?}
 {184}{}{¿Puedo ayudarte en algo? Pareces estar terriblemente ocupado.}
@@ -120,14 +120,13 @@
 {219}{}{Munición de 5mm, balas huecas con camisa.}
 {220}{}{Munición de 5mm, de perforación blindada.}
 {221}{}{Cartuchos de escopeta.}
-# 222 "give me a holler" means "shout to get my attention", or simply "let me know"
 {222}{}{Bueno, tienes que saber qué tipo de munición necesitas antes de que te la dé. Examina el arma para la que me pediste la munición. Cuando lo sepas, házmelo saber.}
 {223}{}{Ah, un lanzacohetes... no hay nada como llevar una buena arma. Bueno, ¿ésa lo será?}
 {224}{}{No, eso es todo. Gracias.}
 {225}{}{Sí, tengo que recoger algo más.}
 {226}{}{Ah sí, aquí está la pistola que buscabas. Buena, ¿ésa lo será?}
 {227}{}{No, eso es todo. Gracias.}
-{228}{}{Sí, tengo que coger algo más.}
+{228}{}{Sí, tengo que recoger algo más.}
 {229}{}{La mejor defensa es el ataque. ¿O es al revés? Bueno, no importa. Aquí tienes tu armadura. Asegúrate de cuidarla bien. Solo puedo dar un equipo. ¿Necesitas algún objeto más?}
 {230}{}{No, eso es todo. Gracias.}
 {231}{}{Sí, tengo que recoger algo más.}
@@ -145,7 +144,7 @@
 {245}{}{No. ¿Cómo consigo una autorización?}
 {246}{}{Déjame mirar aquí. (Comprueba su terminal) Bueno, no veo una Solicitud para un motivador sistólico. Necesitas una autorización adecuada.}
 {247}{}{¡Mira! No quiero ningún problema. Dame esa maldita pieza y ya está.}
-{248}{}{¿Vamos? Por favor. Necesito esa pieza.}
+{248}{}{¡Vamos! Por favor. Necesito esa pieza.}
 {249}{}{Vale. Siento molestarte.}
 {250}{}{¿No? Se supone que los ordenanzas enviaron uno ayer. Mira, ¿puedes ayudarme? Si no consigo esa pieza me las voy a cargar. Estoy seguro que el formulario llegará hoy pero algo más tarde.}
 {251}{}{Vale. Aquí tienes pero no le digas a nadie que te he lo he dado. Rhombus me cortará el cuello si se entera de que he estado dando piezas sin la autorización adecuada.}
@@ -167,7 +166,5 @@
 {267}{}{Pero Rhombus me envió.}
 {268}{}{No vas a conseguir la pieza, y eso es definitivo. Te dije lo que tenías que hacer y no voy a repetirlo.}
 {300}{}{Parece que le gustas de verdad a Sophia. Me pidió que te diese estas baterías casi agotadas. De todas formas necesitábamos hacer espacio en el depósito para su investigación.}
-
-
 {500}{}{[Más]}
 {501}{}{[Volver]}

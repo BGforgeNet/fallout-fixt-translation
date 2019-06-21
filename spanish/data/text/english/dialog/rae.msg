@@ -2,7 +2,7 @@
 {101}{}{Ves a un Supermutante.}
 {102}{}{No eres de aquí.}
 {103}{}{(Con aspecto confuso y triste) Creo que sí, pero... ¿por qué estás aquí?}
-{104}{}{Tú tampoco.}
+{104}{}{Y tú tampoco.}
 {105}{}{Oh... yo sí. El Maestro me tiene así disfrazado explorando por ahí para comprobar nuestra seguridad.}
 {106}{}{Sí, y estoy aquí para matarte.}
 {107}{}{Vale, me voy.}
@@ -31,7 +31,7 @@
 {130}{}{¿Por qué iba a decírtelo? Solo eres un lacayo del "Hombre".}
 {131}{}{¿Por qué me dices eso? Debería llevarte ante el Maestro...}
 {132}{}{Pero no lo harás.}
-{133}{}{Tu intento será bienvenido.}
+{133}{}{Inténtalo.}
 {134}{}{¡Pues debería apuntar mi arma a tu garganta y apretar el gatillo!}
 {135}{}{No lo hagas por favor.}
 {136}{}{Sé por qué sufres tanto.}

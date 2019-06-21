@@ -5,7 +5,7 @@
 {104}{}{¿Qué es la Hermandad del Acero?}
 {105}{}{¿Sabes dónde puedo encontrar un Chip de Agua?}
 {106}{}{¿Sabes algo de las caravanas desaparecidas?}
-{107}{}{Da igual.}
+{107}{}{No importa.}
 {108}{}{(Se ríe de ti.) Amigo, no creo que puedas entrar aquí. Los Ancianos establecen un coeficiente intelectual mínimo para los nuevos Iniciados.}
 {109}{}{Sí... un... bueno... un... No. Lo que pasa es que la gente ni siquiera intenta comprender de qué vamos.}
 {110}{}{La Hermandad es un colectivo de hombres y mujeres que han dedicado sus vidas a preservar la tecnología.}
@@ -30,7 +30,7 @@
 {131}{}{Tecnología. Eso es todo lo que hay que comprender. Únete a nosotros y lo entenderás.}
 {132}{}{¿Cómo se puede unir uno a la Hermandad?}
 {133}{}{Sois demasiado raros para mi gusto.}
-{134}{}{Siento que pienses así.}
+{134}{}{Lamento que te sientas así.}
 {135}{}{Es una Armadura Reforzada de Combate de Infantería modelo T-51b, más conocida como Armadura de Energía.}
 {136}{}{Llevo semanas en el yermo y nunca he visto semejante armadura.}
 {137}{}{Parece incómoda de llevar.}
@@ -62,8 +62,8 @@
 {166}{}{Voy a la Orden Antigua. ¿Dónde se encuentra?}
 {167}{}{Tienes razón, no es asunto mío.}
 {168}{}{¿Bien? Para empezar es un viaje de 18 días hacia el sudeste desde aquí. Luego empiezan las radiaciones. Por eso ninguno de nosotros ha ido a la "Orden Antigua". Si no tienes Rad-X estarás frito antes de saber lo que te pasó.}
-{170}{}{Aclárame esto...}
-{171}{}{La mayoría de los de arriba creen que es tan solo un gran agujero radioactivo. Por eso lo llaman el Ardor e incluso la Zona Caliente. En la Hermandad conocemos la verdadera historia. Según las antiguas escrituras ese lugar era la fuente de toda nuestra tecnología. Y quién sabe lo que puede haber allí todavía.}
+{170}{}{Aclárame esto.}
+{171}{}{La mayoría de los de arriba creen que es tan solo un gran agujero radioactivo. Por eso lo llaman el Ardor e incluso la Zona Caliente. En la Hermandad sabemos la verdadera historia. Según las antiguas escrituras ese lugar era la fuente de toda nuestra tecnología. Y quién sabe lo que puede haber allí todavía.}
 {173}{}{Aclárame esto.}
 {174}{}{Otros lo intentaron. Pero no supimos más de ellos.}
 {175}{}{Caray, casi me quitas las ganas de unirme a la Hermandad.}
@@ -78,7 +78,7 @@
 {185}{}{¿Qué...?}
 {186}{}{¿Por qué tiene dos nombres la Orden Antigua?}
 {187}{}{¿Dónde está la Orden Antigua? ¿Y cuáles son sus peligros...?}
-{188}{}{¿Puedo hacerte unas preguntitas?}
+{188}{}{¿Te puedo hacer unas preguntas?}
 {189}{}{La mayoría de los de arriba creen que es tan solo un gran agujero radioactivo. Por eso lo llaman el Ardor e incluso la Zona Caliente. En la Hermandad sabemos la verdadera historia. Según las antiguas escrituras ese lugar era la fuente de toda nuestra tecnología. Y quién sabe lo que puede haber allí todavía.}
 {190}{}{Tengo otra pregunta.}
 {191}{}{¿Puedo ayudarte?}
@@ -87,12 +87,10 @@
 {194}{}{Hola.}
 {195}{}{Sí, Rutger vino personalmente hace poco, y eso no le pega. Intentaba averiguar lo que les sucedió a sus caravanas. No tengo ni idea. Algunos dicen que vieron algo por el Eje, pero que desapareció antes de que pudieran acercarse. Es todo muy desconcertante, espero que se solucione pronto.}
 {196}{}{¡He oído que hacéis sacrificios animales! ¡Quizás hayáis cogido las caravanas para uno de vuestros oscuros rituales!}
-{197}{}{¿Algún sospechoso?}
+{197}{}{¿Alguna sospecha?}
 {198}{}{Bueno si ves algo, házmelo saber. Me gustaría llegar al fondo de este asunto cuanto antes.}
 {199}{}{La verdad es que no, pero sospecho que hay trampa... aunque, claro, en el yermo hay muchas criaturas extrañas y peligrosas. Solo se puede tratar de una de esas criaturas, o, lo más seguro, de una manada de ellas. Espero que esto te ayude. Buenos días.}
-
-
-{201}{}{Gracias por tu tiempo. Adiós.}
+{201}{}{Gracias por dedicarme tu tiempo. Adiós.}
 {202}{}{Vale, gracias. Adiós.}
 {203}{}{Gracias por la información. Adiós.}
 {204}{}{Gracias, adiós.}
@@ -100,9 +98,6 @@
 {206}{}{Te agradezco la advertencia. Adiós.}
 {207}{}{Gracias. Adiós.}
 {208}{}{Gracias por tu tiempo.}
-
-
-
 {209}{}{Si lo que buscas son mejores armas, deberías dirigirte al sur del Ardor. [Darrel señala hacia el sur.]}
 {210}{}{Toma, aquí tienes unas Rad-X. [Darrel te da unas píldoras.]}
 {211}{}{Trágatelas así. [Darrel hace como que se traga las píldoras y se frota la barriga.] Mmm, ñam, ñam.}

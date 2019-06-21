@@ -3,12 +3,12 @@
 {102}{Ara_1n}{Saludos. ¿Estás de negocios en Arenas Sombrías?}
 {103}{Ara_1b}{No hablamos mucho con extraños. ¿Has venido por negocios a Arenas Sombrías?}
 {104}{}{Soy de un pueblo que está al oeste de aquí. Solo estoy explorando y no voy a haceros ningún daño.}
-{105}{}{¿A ti que te importa?}
+{105}{}{¿A ti qué te importa?}
 {106}{}{Tengo mis razones.}
 {107}{}{Soy de un Refugio del oeste. Mi gente se está muriendo de sed y tengo que encontrar un chip purificador del agua para que puedan sobrevivir.}
 {108}{}{¡Voy a salvar de la destrucción a un pueblo entero!}
 {109}{}{¿Arenas Sombrías? ¡Oh, me he perdido! Me marcharé ahora.}
-{110}{}{¿Hunh?}
+{110}{}{¿Eh?}
 {111}{Ara_2}{No he oído hablar de ningún pueblo al oeste.}
 {112}{}{¿Has estado al otro lado de las montañas al oeste de aquí?}
 {113}{}{¿Y?}
@@ -16,14 +16,14 @@
 {115}{}{Seguro que has estado en muchos lugares, pero no creo que hayas visto mi pequeño pueblo.}
 {116}{Ara_3}{Lo siento pero no lo conozco. Lo que me lleva a esta pregunta, ¿cómo conseguiste pasar?}
 {117}{}{Fue muy difícil, pero lo logré.}
-{118}{}{¿Por qué te interesa?}
+{118}{}{¿A ti qué te importa?}
 {119}{}{Mira, todo lo que quería eran algunas provisiones, pero puedo irme amablemente a otra parte.}
 {120}{}{No tengo por qué contestarte.}
 {121}{Ara_4}{Sí, mmm, sí, sí, sí. Te creeré... por ahora. No solemos confiar fácilmente en la gente, especialmente en los que pueden ser peligrosos. Ten por seguro que Seth y yo te estaremos vigilando.}
 {122}{Ara_5}{Esta es mi ciudad, morador. Debes contestar mis preguntas o marcharte. No es una cuestión de elección.}
-{123}{}{No tengo que decirte nada.}
+{123}{}{No tengo nada que decirte.}
 {124}{}{De verdad, no quiero haceros daño.}
-{125}{}{No te preocupes, ya me voy.}
+{125}{}{No te preocupes, me voy.}
 {126}{Ara_6}{Serás insolente. Creo que deberías irte. No vuelvas. No serás bienvenido.}
 {127}{Ara_7}{Pues hazlo, morador. Seth te enseñará el camino.}
 {128}{Ara_8}{Debes creer que soy un crédulo, morador. ¿Conquistaste las montañas en solitario?}
@@ -43,18 +43,18 @@
 {142}{}{¿Por qué quieres saberlo?}
 {143}{Ara_13}{Morador, voy a creerte... por ahora. Puedes entrar en Arenas Sombrías, pero has de saber que vigilaremos cada uno de tus pasos.}
 {144}{Ara_14}{No me mentirás, morador.}
-{145}{}{No tengo que decirte nada.}
+{145}{}{No tengo nada que decirte.}
 {146}{}{De verdad, no quiero haceros daño.}
 {147}{}{No te preocupes, me voy.}
 {148}{Ara_15}{Mmm. Puedes entrar, pero no te metas en líos.}
 {149}{}{¿Qué puedes decirme de las otras ciudades de por aquí?}
-{150}{}{¿Qué es lo que pasa aquí?}
+{150}{}{¿Qué está pasando aquí?}
 {151}{}{Gracias. Adiós.}
 {152}{Ara_17}{Saludos de nuevo, joven morador. Espero que tu estancia aquí haya sido de tu agrado.}
 {153}{}{Ha sido estupenda. ¿Puedo hacerte unas preguntas?}
 {154}{}{Lo ha sido. Pero tengo que irme.}
 {155}{}{Si te gustan las cloacas.}
-{156}{}{Nah, ah.}
+{156}{}{Nah-ah.}
 {157}{Ara_18n}{Saludos. ¿En qué puedo ayudarte tal día como hoy?}
 {158}{Ara_18b}{¿Quieres algo?}
 {159}{}{¿Puedes hablarme de Arenas Sombrías?}
@@ -64,7 +64,7 @@
 {163}{Ara_19}{Claro. ¿Qué quieres saber?}
 {164}{Ara_19b}{Puedes preguntar, pero, por favor, date prisa. Tengo cosas más importantes en las que usar mi tiempo.}
 {165}{}{¿Qué puedes decirme de las otras ciudades de por aquí?}
-{166}{}{¿Qué sucede por aquí?}
+{166}{}{¿Qué está pasando aquí?}
 {167}{}{Gracias. Adiós.}
 {168}{Ara_20g}{Ah. Feliz viaje, morador.}
 {169}{Ara_20n}{Adiós.}
@@ -80,7 +80,7 @@
 {179}{}{¿Algo más?}
 {180}{Ara_24a}{Somos pequeños pero autosuficientes, hay poco más que contar.}
 {181}{}{Gracias. ¿Puedo hacerte algunas preguntas más?}
-{182}{}{Gracias, adiós.}
+{182}{}{Gracias. Adiós.}
 {183}{Ara_24b}{Es un sitio pequeño. Y tú tienes pies.}
 {184}{}{Gracias. ¿Puedo hacerte algunas preguntas más?}
 {185}{Ara_25b}{Dharma dijo: "No hagas caso del aullido del lobo cuando el zorro ataca el corral".}
@@ -92,10 +92,10 @@
 {191}{}{Bien. Con suerte permanecerá así durante algún tiempo.}
 {192}{Ara_27}{Sí. Nos gusta así.}
 {193}{}{¿Qué puedes decirme de las otras ciudades de por aquí?}
-{194}{}{¿Qué ocurre aquí?}
+{194}{}{¿Qué está pasando aquí?}
 {195}{}{Gracias. Adiós.}
 {196}{Ara_28}{Oh sí. Manadas y manadas de escorpiones rad están matando a nuestros rebaños. No sabemos de dónde vienen y no importa cuántos matemos, ¡siempre hay más!}
-{197}{}{Adelante.}
+{197}{}{Continúa.}
 {198}{Ara_28a}{¡Y ahora los monstruos están atacando a mi gente! Razlo está intentando encontrar un antídoto para su veneno, pero no estoy seguro de cómo le va.}
 {199}{}{Bien, ¡te ayudaré a acabar con esos bichos!}
 {200}{}{Te ayudaré por un precio.}
@@ -114,7 +114,7 @@
 {213}{Ara_33}{Si puedes entenderme, por favor, intenta encontrar a mi hija.}
 {214}{Ara_35}{Desde que me has traído a Tandi de vuelta a casa, las cosas han ido bien. Te estaré eternamente agradecido, morador.}
 {215}{}{¿Qué puedes decirme de las otras ciudades de por aquí?}
-{216}{}{¿Qué está pasando por aquí?}
+{216}{}{¿Qué está pasando aquí?}
 {217}{}{Gracias. Adiós.}
 {218}{Ara_36}{Sí, sí. Mmm. Feliz estancia.}
 {219}{Ara_37}{Ahh, morador. ¿Cómo va la búsqueda de mi hija?}
@@ -128,7 +128,7 @@
 {227}{Ara_38}{Que mis pensamientos sean alas para tus pies. Por favor, date prisa.}
 {228}{Ara_39}{¡Gracias a Dios que has venido! Tengo una necesidad imperiosa de ayuda. Mi hija Tandi ha desaparecido. ¡No sé qué hacer!}
 {229}{}{¿Has intentado salvarla?}
-{230}{}{¿Ehh?}
+{230}{}{¿Eh?}
 {231}{Ara_39a}{Mi pueblo no está muy preparado para esto. Ya han salido tres patrullas a buscar, pero ninguna ha vuelto. ¿Me ayudarás?}
 {232}{}{Vale. ¿Quién puede habérsela llevado?}
 {233}{}{Lo haré... por una recompensa.}
@@ -148,7 +148,7 @@
 {247}{Ara_46}{Eso no es tuyo. Por favor, no lo cojas.}
 {248}{Ara_47}{¡Para ahora mismo!}
 {249}{Ara_48}{¿Qué haces aquí? Estoy descansando, ¡vuelve por la mañana!}
-{250}{Ara_49}{Yo soy él. Yo dirijo esta humilde aldea de Arenas Sombrías.}
+{250}{Ara_49}{Yo soy él. Yo dirijo esta humilde ciudad de Arenas Sombrías.}
 {251}{Ara_49A}{Dharma era un hombre muy religioso. Harías bien en escuchar atentamente sus enseñanzas.}
 {252}{Ara_50}{Ella es mi hija. Es ella la que hace que merezca la pena vivir.}
 {253}{Ara_51}{Mmm, sí, sí. Razlo es nuestro médico. Si te duele, él puede curarte. Apostaría a que en estos momentos está algo al norte de este lugar.}
@@ -165,25 +165,21 @@
 {264}{Ara_62}{Lo encontrarás delante de la ciudad. Es probable que Seth esté allí.}
 {265}{Ara_63}{Nadie lo sabe con seguridad, pero las manadas parecen venir del noreste.}
 {266}{Ara_64}{No lo sé.}
-{267}{Ara_65}{No puedo decir que lo haya oído.}
-{268}{Ara_66}{Mm, no. No, no lo he oído.}
+{267}{Ara_65}{No puedo decir realmente que lo haya oído.}
+{268}{Ara_66}{Mmm, no. No, no lo he oído.}
 {269}{Ara_67}{Como te dije...}
 {270}{Ara_68}{Como ya he dicho antes...}
 {271}{Ara_69}{Como ya dije...}
 {272}{Ara_70}{Como te dije antes...}
 {273}{Ara_71}{No voy a repetirme tanto como para parecer estúpido. Por favor, la próxima vez escucha.}
 {274}{Ara_72}{No voy a quedarme aquí como una vela chisporroteante solo porque no puedes escuchar.}
-{275}{Ara_73}{Ve a hablar con Seth sobre eso. Él sabrá más que yo.}
+{275}{Ara_73}{Ve a hablar con Set. Él sabe más que yo sobre eso.}
 {276}{}{}
 {277}{}{No malgastaré mi tiempo con forasteros traidores.}
-{278}{}{Aradesh está furioso y se niega a hablar de nuevo contigo.}	# Line 278 was previously in GENCHAT, Line 170
-
-
-# Tell Me About generic responses
+{278}{}{Aradesh está furioso y se niega a hablar de nuevo contigo.}
 {980}{Ara_64}{No lo sé.}
 {981}{Ara_65}{No puedo decir realmente que lo haya oído.}
 {982}{Ara_66}{Mmm, no. No, no lo he oído.}
-
 {1000}{}{Aradesh}
 {1001}{}{Dharma}
 {1002}{}{Tandi}
@@ -192,7 +188,7 @@
 {1005}{}{Víboras}
 {1006}{}{Khans}
 {1007}{}{Escorpiones}
-{1008}{}{Garras}
+{1008}{}{Garra}
 {1009}{}{Ciudad Vertedero}
 {1010}{}{Lanza}
 {1011}{}{Casa de los Guardias}
@@ -206,7 +202,6 @@
 {1019}{}{Arenas}
 {1020}{}{Sombrías}
 {1021}{}{Eje}
-
 {1100}{Ara_49}{Yo soy él. Yo dirijo esta humilde ciudad de Arenas Sombrías.}
 {1101}{Ara_49A}{Dharma era un hombre muy religioso. Harías bien en escuchar atentamente sus enseñanzas.}
 {1102}{Ara_50}{Ella es mi hija. Es ella la que hace que merezca la pena vivir.}

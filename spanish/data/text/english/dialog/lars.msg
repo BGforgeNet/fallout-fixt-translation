@@ -21,7 +21,7 @@
 {120}{}{¿Y por qué no liquidáis vosotros a Gizmo y a los Kalaveras?}
 {121}{}{Es nuestro trabajo. Pero es bueno saber que alguien lo aprecia. Gracias.}
 {122}{}{Hay que hacer las cosas en condiciones. Sabemos que Gizmo lleva un negocio clandestino, pero necesitamos pruebas para acabar con él. Lo mismo ocurre con los Kalaveras. Si se meten con alguien, metemos a unos cuantos en el calabozo, pero nada cambia. No tenemos pruebas formales que los vinculen a los asesinatos y vilezas.}
-{123}{}{Quizás pueda ayudarte.}
+{123}{}{Quizá pueda ayudarte a este respecto.}
 {124}{}{Bueno, qué tengas suerte.}
 {125}{}{Demonios, si piensas que puedes obtener algo de alguno de ellos, agradeceríamos la ayuda. Killian es el más indicado si quieres hablar de Gizmo. Pero si puedes obtener información de los Kalaveras, vuelve, y mis hombres y yo nos encargaremos de ellos.}
 {126}{}{Gracias. Cuídate.}
@@ -30,13 +30,13 @@
 {129}{}{.}
 {130}{}{Lárgate. No tengo nada que decirte.}
 {131}{}{Bienvenido a Ciudad Vertedero, }
-{132}{}{. ¿En qué te puedo ayudar?}
+{132}{}{. ¿En qué puedo ayudarte?}
 {133}{}{¿Puedes decirme algo de Ciudad Vertedero?}
 {134}{}{Estoy buscando algo que hacer. ¿Tienes alguna sugerencia?}
 {135}{}{Buenos días, viajero. ¿Necesitas algo?}
 {136}{}{¿Qué?}
 {137}{}{Busco un trabajillo.}
-{138}{}{Solo quería saludarte.}
+{138}{}{Solo venía a saludarte.}
 {139}{}{Tengo pruebas sobre las actividades ilegales en las que están implicados los Kalaveras.}
 {140}{}{Sí, me encargo de los guardias aquí. ¿Qué quieres de mí?}
 {141}{}{Nada, solo observaba.}
@@ -45,7 +45,7 @@
 {144}{}{Están implicados en algunos asesinatos y asaltos.}
 {145}{}{He convencido a una de ellos, a Sherry, para que testifique en su contra y los acuse por actos delictivos.}
 {146}{}{Eso es fantástico, pero no puedo encarcelarlos solo porque una persona lo diga. Necesito pruebas formales o testimonios internos.}
-{147}{}{Veré lo que puedo hacer.}
+{147}{}{Sé lo que podemos hacer.}
 {148}{}{Tengo el testimonio de Sherry, una antigua componente de la banda.}
 {149}{}{Excelente. Iré a verla para hacerle unas cuantas preguntas, y estoy seguro de que conseguiré toda la información que necesito para quitármelos de encima.}
 {150}{}{Mira, no se trata de un juego. Hay gente que sufre por ello. Si encuentras una prueba de verdad, vuelve, pero si no, ¡no me hagas perder el tiempo!}
@@ -69,10 +69,9 @@
 {168}{}{Al parecer Lars sigue vivo, pero ha abandonado la lucha por completo.}
 {169}{}{Viajero, has cometido un grave error. Necesitábamos pruebas para poder acabar con Gizmo legalmente y de buena manera. Mira, de modo extraoficial te diré que me alegro de que ese gordinflón esté fuera de combate. Pero, no podemos admitir asesinatos. Mejor será que te vayas de Ciudad Vertedero y no vuelvas nunca.}
 {170}{}{No nos gustan los tipos como tú. Tienes quince segundos antes de que te vuele la tapa de los sesos.}
-{171}{}{¡Hola de nuevo! ¿En qué puedo ayudarte?}
-{172}{}{Uy, uy.}
-{173}{}{Nah, ah.}
+{171}{}{¡Hola otra vez! ¿Qué puedo hacer por ti?}
+{172}{}{Ajá.}
+{173}{}{Nah-ah.}
 {174}{}{Ganas 500 puntos de experiencia por participar en la destrucción de la banda de los Kalaveras.}
-
 {1000}{}{Gizmo}
 {1100}{}{Lleva el Casino. Es un ladrón.}

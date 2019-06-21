@@ -4,7 +4,7 @@
 {103}{}{¿Qué diablos quieres?}
 {104}{}{¿Dónde puedo encontrar al Maestro?}
 {105}{}{Descubrir lo que ocurre por aquí.}
-{106}{}{¿Quién manda aquí?}
+{106}{}{¿Quién está al mando aquí?}
 {107}{}{Eh, ¡anciana! ¡Bebamos algo!}
 {108}{}{Añadir tus orejas a mi colección.}
 {109}{}{¡No querer diablos! ¡Idiota!}

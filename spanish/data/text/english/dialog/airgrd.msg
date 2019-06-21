@@ -1,7 +1,7 @@
 {100}{}{Estás viendo a un Supermutante. Está vigilando la cámara.}
 {101}{}{Estás viendo a un guardia Supermutante.}
 {102}{}{Jeremiah, deberías pasar.}
-{103}{}{Circula.}
+{103}{}{Muévete.}
 {104}{}{Muévete más rápido, mensajero.}
 {105}{}{¡Los Normales no pueden llevar armas aquí! ¡Detente e identifícate!}
 {106}{}{¡Grrr!}
@@ -10,7 +10,7 @@
 {109}{}{¡Muere! ¡Muere! ¡Muere! Siempre he querido decir eso.}
 {110}{}{No te dirigirás a mí de ese modo. Te castigaré.}
 {111}{}{¡Para! ¿Qué haces aquí, "niño"?}
-{112}{}{¡Ung!}
+{112}{}{¡Unm!}
 {113}{}{Estoy, uh, arreglando algunas cosillas.}
 {114}{}{Tengo un asunto importante entre manos. Y tú no tienes derecho a pararme e interrogarme.}
 {115}{}{No me hables, grandullón.}
@@ -20,11 +20,11 @@
 {119}{}{Noto la mentira oculta en tus palabras. No te permitirán entrar. Y ahora lo que te prometí...}
 {120}{}{Puedes pasar, pero la próxima vez, sigue el procedimiento adecuado...}
 {121}{}{Vale, gracias. Nos vemos por ahí.}
-{122}{}{¿Y qué es eso?}
+{122}{}{¿El qué?}
 {123}{}{Te bendigo, hermano.}
 {124}{}{Un verdadero seguidor del Maestro habría tenido esos conocimientos. ¡Eres un intruso!}
 {125}{}{Circula. No tengo tiempo para preguntas.}
-{126}{}{Me estás mosqueando.}
+{126}{}{Estás empezando a enfadarme.}
 {127}{}{Tengo trabajo que hacer. ¿Y tú?}
 {128}{}{Cometes un error viviendo aquí. Explícate o muere...}
 {129}{}{¡Hostión!}

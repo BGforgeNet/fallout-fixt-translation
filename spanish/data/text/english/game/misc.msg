@@ -1,13 +1,4 @@
-##
-## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
-# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
-##
-#
-# Miscellaneous game engine messages.
-#
-# Defined in game.h
-#
-{0}{}{¿Seguro que quieres salir?}
+{0}{}{[volver al menú principal]}
 {1}{}{Versión Demo}
 {2}{}{Se usará el personaje por defecto.}
 {3}{}{Pantalla guardada.}
@@ -20,20 +11,14 @@
 {10}{}{NUEVA PARTIDA}
 {11}{}{CARGAR PARTIDA}
 {12}{}{CREDITOS}
-{13}{}{SALIR}
-{14}{}{FALLOUT v1.2 Copyright(c) 1997 Interplay Productions. TeamX v1.3.5, Fallout Fixt 0.81alpha}
+{13}{}{EXIT}
+{14}{}{Fallout Fixt v0.TESTING by Sduibek. DOWNLOAD: Testing. INSTALL: Testing.}
 {15}{}{Puntos de Acción}
 {16}{}{Puntos de Salud}
 {17}{}{¡Sensor de Movimiento no encontrado!}
 {18}{}{Al Sensor de Movimiento no le queda carga.}
-#
-# Game config text. Defined in gconfig.c
-#
 {100}{}{¡Error al guardar el archivo de configuración del juego!}
 {101}{}{Configuraciones del juego no guardadas.}
-#
-# Some radiation messages used in critter.c
-#
 {1000}{}{Sientes algo de náuseas y tu piel está sensible.}
 {1001}{}{Sientes muchas náuseas, después de vomitar un poco te sientes cansado.}
 {1002}{}{Sientes gran cansancio, no paras de vomitar y tu recuperación es difícil.}
@@ -41,30 +26,15 @@
 {1004}{}{Tienes una violenta hemorragia. Tus vómitos están manchados de sangre. La piel se despega de tus huesos.}
 {1005}{}{Te sangran los intestinos y tienes una fuerte diarrea. Te sientes hinchado y sufres gran agonía.}
 {1006}{}{La radiación te han matado.}
-{1007}{}{Has recibido una fuerte dosis de radiación.}
+{1007}{}{Has recibido una gran cantidad de radiación.}
 {1008}{}{El contador Geiger hace "Clic".}
 {1009}{}{El contador Geiger hace "Clic" repetidas veces.}
-#
-# Message used in actions.c
-#
 {2000}{}{Acción abortada.}
 {2001}{}{La cerradura está atascado.}
-#
-# poison messages from critter.c
-#
 {3000}{}{¡Te han envenenado!}
 {3001}{}{Sufres de envenenamiento.}
-#
-# from queue.c
-#
 {4000}{}{Por culpa de tu torpeza, el explosivo se acciona antes de tiempo.}
-#
-# from combatai.c
-#
 {5000}{}{usa}
 {5001}{}{se ha quedado sin munición para}
 {5002}{}{recarga su}
-#
-# from gdialog.c - new tell me about stuff
-#
 {6000}{}{¿Preguntar sobre qué?}

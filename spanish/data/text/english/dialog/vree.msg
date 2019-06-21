@@ -3,9 +3,9 @@
 {102}{}{Lo siento. Volveré en otro momento.}
 {103}{}{Volveré.}
 {104}{}{¿Cómo iba a saber tu agenda?}
-{105}{}{¿Ehhh?}
+{105}{}{¿Eh?}
 {106}{Vree01}{No me levantes la voz. ¿Tendré que llamar a un Hermano para que te enseñe modales?}
-{107}{}{Perdona.}
+{107}{}{Lo siento.}
 {108}{}{Sí, vale. Lo que sea.}
 {109}{}{Oh, ¡qué miedo!}
 {110}{Vree02}{Saludos. Es un buen día para aprender. ¿Puedo ayudarte?}
@@ -47,7 +47,7 @@
 {146}{}{Tengo otra pregunta...}
 {147}{Vree29}{Toma, ten este holodisco, contiene copias de mis autopsias de cadáveres mutantes. Muestra claramente que ningún mutante podría reproducirse con éxito.}
 {148}{}{Gracias.}
-{149}{}{¿Puedo preguntar otra cosa?}
+{149}{}{¿Puedo preguntarte otra cosa?}
 {150}{Vree30}{No creo que deba contarte nada. Quizás más adelante, cuando te hayas entregado a la causa de la Hermandad. }
 {151}{Vree31}{Estoy segura de que te encuentras en el lugar equivocado. Vete, por favor. Estoy ocupada.}
 {152}{Vree32}{¡Destruirás la sabiduría que puede salvar al mundo!}
@@ -80,14 +80,14 @@
 {179}{Vree45}{Las buenas acciones deben ser recompensadas. Toma esto por haber ayudado al Iniciado, por favor.}
 {180}{Vree46}{Oh, eres tú. ¿Qué quieres?}
 {181}{}{He venido para disculparme.}
-{182}{}{Lo siento, habitación equivocada.}
+{182}{}{Lo siento, te equivocas de habitación.}
 {183}{Vree47}{Gracias por tus disculpas. }
 {184}{Vree47a}{Buen día.}
 {185}{Vree48}{Eso parece un problema de fabricación. Nosotros solo manejamos la teoría y el diseño. Pídele ayuda a uno de los Caballeros.}
-{186}{}{Gracias de todas maneras.}
+{186}{}{Gracias de todos modos.}
 {187}{}{¿Puedo preguntarte otra cosa?}
 {188}{Vree200}{Por favor, habla con otro de los Escribas. Estoy intentando terminar unos informes para los otros Ancianos.}
-{189}{Vree201}{No sé nada de eso. Pero parece que debería investigarlo.}
+{189}{Vree201}{No sé nada de eso. Pero suena como algo que quizás debería investigar.}
 {190}{Vree202}{Lo siento, no es una de mis especialidades. Quizás lo sepa algún otro Hermano.}
 {191}{Vree203}{¡Guardias! ¡Guardias!}
 {192}{Vree204}{¡Has destruido mi habitación!}
@@ -97,7 +97,7 @@
 {196}{Vree302}{Son dispositivos de almacenaje fabricados en cristal, de alta densidad y que se leen con láser. Cada uno contiene 4.000 gigabytes de información.}
 {197}{Vree303}{La única salvación para este torturado planeta y sus gentes. Sin nosotros, la humanidad desaparecerá.}
 {198}{Vree304}{No lo sé. Pregunta en Fabricación sobre ello.}
-{199}{Vree305}{Se asegura que la Hermandad permanece en el buen camino.}
+{199}{Vree305}{Asegura que la Hermandad permanezca en el buen camino.}
 {200}{Vree306}{Él hace que se cumplan los deseos del Anciano Mayor. Usando la fuerza, si es necesario.}
 {300}{}{Interesante.}
 {301}{}{Bien, con esto bastará.}
@@ -110,17 +110,7 @@
 {308}{}{Sí hacemos así... sí, creo que funcionará.}
 {400}{}{Puedes usar este terminal para mejorar tu habilidad con ordenadores.}
 {401}{}{La clase termina seis horas después. Ha sido agotadora.}
-
-
-
 {980}{Vree200}{Por favor, habla con otro de los Escribas. Estoy intentando terminar unos informes para los otros Ancianos.}
-
-
-#
-# Vree Tell-Me-Abouts
-#
-
-
 {1000}{}{Maestro}
 {1001}{}{Guerra}
 {1002}{}{discos}
@@ -129,7 +119,7 @@
 {1005}{}{Anciano}
 {1006}{}{Rhombus}
 {1007}{}{Éxodo}
-{1008}{}{Extraño Ejército}
+{1008}{}{Extraño ejército}
 {1009}{}{Mercaderes}
 {1010}{}{Caravanas desaparecidas}
 {1011}{}{Eje}
@@ -143,8 +133,6 @@
 {1019}{}{Holo-disco}
 {1020}{}{Holodisco}
 {1021}{}{Holo}
-
-
 {1100}{Vree300}{¿Quién? Espera, ese nombre me parece familiar. Quizás sea el líder de un grupo de mutantes.}
 {1101}{Vree301}{Supongo que te refieres a la última guerra nuclear. La Hermandad hace todo lo que puede para restaurar lo que se perdió.}
 {1102}{Vree302}{Son dispositivos de almacenaje fabricados en cristal, de alta densidad y que se leen con láser. Cada uno contiene 4.000 gigabytes de información.}
@@ -153,7 +141,7 @@
 {1105}{Vree305}{Asegura que la Hermandad permanezca en el buen camino.}
 {1106}{Vree306}{Él hace que se cumplan los deseos del Anciano Mayor. Usando la fuerza, si es necesario.}
 {1107}{Vree200}{Por favor, habla con otro de los Escribas. Estoy intentando terminar unos informes para los otros Ancianos.}
-{1108}{Vree201}{No sé nada sobre eso. Pero suena como algo que quizás debería investigar.}
+{1108}{Vree201}{No sé nada de eso. Pero suena como algo que quizás debería investigar.}
 {1109}{Vree200}{Por favor, habla con otro de los Escribas. Estoy intentando terminar unos informes para los otros Ancianos.}
 {1110}{Vree201}{No sé nada de eso. Pero suena como algo que quizás debería investigar.}
 {1111}{Vree200}{Por favor, habla con otro de los Escribas. Estoy intentando terminar unos informes para los otros Ancianos.}

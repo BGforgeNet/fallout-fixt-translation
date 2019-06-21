@@ -1,6 +1,6 @@
 {100}{}{Ves: a Peter, el líder de los Exploradores de los Seguidores.}
 {101}{}{¿Qué estás haciendo por aquí? ¿No ves que estamos ocupados?}
-{102}{}{¿Uh?}
+{102}{}{¿Eh?}
 {103}{}{Lo siento. Ahora me marcho.}
 {104}{}{¿Puedo ayudarte en algo?}
 {105}{}{Con quién puedo hablar para ofrecerle mi asistencia.}

@@ -15,10 +15,10 @@
 {114}{}{Vale.}
 {115}{}{No, gracias.}
 {116}{}{Serán cinco chapas.}
-{117}{}{Vale.}
+{117}{}{Claro.}
 {118}{}{Serán diez chapas.}
 {119}{}{Ummm, para uno de tu tamaño...}
-{120}{}{ }
+{120}{}{}
 {121}{}{ diez}
 {122}{}{ veinte}
 {123}{}{ treinta}
@@ -65,9 +65,6 @@
 {164}{}{ ¿Algo más?}
 {165}{}{Tienes muy mal sabor de boca.}
 {166}{}{Piensas que te va a estallar la cabeza.}
-##
-##
-##
 {167}{}{Ves a un crupier de dados.}
 {168}{}{Ves a un crupier de ruleta.}
 {169}{}{Ves una máquina tragaperras.}
@@ -79,11 +76,8 @@
 {175}{}{15 chapas.}
 {176}{}{25 chapas.}
 {177}{}{50 chapas.}
-{178}{}{No gracias.}
+{178}{}{No, gracias.}
 {179}{}{Rurh.}
-##
-## SLOT MACHINES
-##
 {180}{}{Lo siento, pero no estás en condiciones de apostar (Miras al}
 {181}{}{ juego y te sientes muy confuso.)}
 {182}{}{Lo siento, ojalá tengas más suerte la próxima vez.}
@@ -109,9 +103,6 @@
 {202}{}{Actualmente tienes }
 {203}{}{ chapas. ¿Cuántas quieres apostar?}
 {204}{}{ ¿Quieres jugar de nuevo?}
-##
-## Sduibek, Fallout Fixt
-##
 {205}{}{¡Pierdes todo tu dinero en la primera vuelta, pero ganas }
 {206}{}{ chapas en la Ronda Radiactiva!}
 {207}{}{¡Ganador! ¡No pierdes tu apuesta, y además ganas }

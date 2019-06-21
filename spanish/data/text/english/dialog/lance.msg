@@ -21,9 +21,6 @@
 {120}{}{Vengo de un Refugio. ¡El Afortunado Refugio 13!}
 {121}{}{¿Ehhh?}
 {122}{}{Hola, forastero. Te aconsejo que no te quedes quieto, si sabes lo que te conviene.}
-# TRANSLATION NOTE
-# After line 123, the player-character's name is inserted by the code, and
-# then line 124 or line 131 is added.
 {123}{}{Hola, }
 {124}{}{. Pensé que eras nuestro amigo cuando rescataste a Tandi. Pero acabo de oír rumores desagradables sobre ti. ¿Son ciertos?}
 {125}{}{La gente dice muchas cosas. ¿A quién le importa?}
@@ -84,7 +81,7 @@
 {180}{}{Me voy a arrepentir de esto.}
 {181}{}{Sal de mi vista antes de que salga de mis casillas.}
 {182}{}{Aún quedan unos pocos, estarán emigrando del alto desierto o del Ardor. Pero está mucho mejor ahora que hace un par de años, gracias a ti.}
-{183}{}{Me parece bien. Adiós.}
+{183}{}{Suena bien. Adiós.}
 {184}{}{Claro. Vamos.}
 {185}{}{Tío, debo de haber perdido la cabeza. Pero te llevaré. Vamos.}
 {186}{}{Suicídate tú solo, amigo. Y, si te sirve de algo, buena suerte.}
@@ -104,7 +101,7 @@
 {200}{}{No te muevas. No sé si estás a favor de esos mutantes, pero si lo estás, te mataré sin dudarlo.}
 {201}{}{¿Qué mutantes?}
 {202}{}{¿Quién eres?}
-{203}{}{¿Qué te ha ocurrido?}
+{203}{}{¿Qué te sucedió?}
 {204}{}{Vale, es fantástico.}
 {205}{}{¿Ehhhh?}
 {206}{}{Los mutantes invadieron Arenas Sombrías. Muchos de los nuestros murieron. Creo que nos irán atrapando a todos poco a poco.}

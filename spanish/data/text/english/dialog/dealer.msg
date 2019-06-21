@@ -30,4 +30,3 @@
 {129}{}{Deberías coger pintura antioxidante.}
 {130}{}{¿Te interesaría una alarma de coche?}
 {131}{}{¡Hola! Soy Bob.}
-

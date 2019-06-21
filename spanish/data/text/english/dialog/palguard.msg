@@ -1,20 +1,20 @@
 {100}{}{Estás viendo a un guardia Paladín.}
-{101}{}{Pssst, ¿hacemos negocios?}
-{102}{}{Lo siento, estoy de servicio. Ahora no puedo hablar.}
-{103}{}{¡Qué día tan bonito! Espero que hoy no tengamos ningún ataque.}
+{101}{}{Pssst, ¿hay algo bueno por aquí?}
+{102}{}{Lo siento, estoy de guardia. No puedo hablar ahora.}
+{103}{}{Hace un día precioso. Espero que hoy no nos ataquen.}
 {104}{}{Algunos de los comerciantes de las caravanas son un poco raros.}
 {105}{}{Buenos días.}
 {106}{}{Hola, tienes buen aspecto.}
 {107}{}{Saludos, Iniciado.}
 {108}{}{Si tienes alguna pregunta sobre nuestra orden, debes hablar con Cabbot, ahí junto a la puerta.}
 {109}{}{Cabbot es la persona con la que quieres hablar; es ese joven que está junto a la puerta.}
-{110}{}{Pssst, ¿hacemos negocios?}
-{111}{}{Si lo que quieres es comerciar, hablas con la persona equivocada.}
+{110}{}{Pssst, ¿hay algo bueno por aquí?}
+{111}{}{Si estás aquí para negociar, estás hablando con la persona menos indicada.}
 {112}{}{¿Qué?}
 {113}{}{No me molestes, gusano.}
-{114}{}{¿Te parezco interesado en algo que pudieras ofrecerme?}
-{115}{}{Uff. El nervio.}
-{116}{}{Iniciado, ¿no tienes nada mejor que hacer que molestarnos cuando estamos de guardia?}
+{114}{}{¿Acaso parece que me interesa lo que puedas ofrecerme?}
+{115}{}{Uuf. Vaya carácter.}
+{116}{}{Iniciado, deberías saber que no se nos puede molestar cuando estamos de guardia.}
 {117}{}{Si tienes alguna pregunta acerca de la Orden, debes hablar con Cabbot, junto a la puerta.}
-{118}{}{Iniciado, ¿no deberías estar haciendo algo útil?}
+{118}{}{Iniciado, ¿no deberías hacer algo útil?}
 {119}{}{Creo que no deberías estar aquí, forastero.}

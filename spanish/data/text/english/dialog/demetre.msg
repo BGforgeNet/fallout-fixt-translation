@@ -6,12 +6,12 @@
 {105}{}{¡Demonios, pareces fuerte!}
 {106}{}{¡Demonios, según parece eres capaz de levantar una montaña!}
 {107}{}{Sí, ¿y qué?}
-{108}{}{¿Y a ti que te importa?}
-{109}{}{¿Huh?}
+{108}{}{¿A ti qué te importa?}
+{109}{}{¿Eh?}
 {110}{}{¡Es precisamente lo que estaba buscando! ¡Seguro que te gusta la emoción de la batalla! ¡Balas por todas partes silbando en tus oídos, partiendo a tu enemigo en dos y viendo el miedo en sus ojos! Ahhhh, ¡eso sí que es vida! Pareces el tipo de persona que se ajusta a nuestras necesidades, ¡y pagamos bien! ¡Claro que pagamos bien! Tenemos algunas nuevas ofertas si te interesa; aunque por supuesto que te interesa, ¿no?}
 {111}{}{¿Cuál es el sueldo?}
-{112}{}{¡Mataré cualquier cosa que se cruce en nuestro camino!}
-{113}{}{No gracias.}
+{112}{}{¡Mataré cualquier cosa que se ponga en mi camino!}
+{113}{}{No, gracias.}
 {114}{}{Necesito un Chip de Agua.}
 {115}{}{¿Qué sabes de las caravanas desaparecidas?}
 {116}{}{Tengo que irme.}
@@ -32,7 +32,7 @@
 {131}{}{Te crees muy listo, ¿verdad? Bueno, ¡eso no me importa! Mientras defiendas las caravanas, yo estaré satisfecho. Si quieres un trabajo, vete a hablar con Keri que está ahí al lado.}
 {132}{}{¡Ja! ¡Qué gracia! Bueno, si piensas que puedes soportar la oscuridad, ven a verme.}
 {133}{}{Por supuesto que es peligroso... ¿por qué otra razón iba a soltar 600 chapas?}
-{134}{}{Oh, vale. Adiós.}
+{134}{}{Oh, Vale. Adiós.}
 {135}{}{Aun así, cogeré el trabajo.}
 {136}{}{¡Lárgate de aquí antes de que te vuele la cabeza!}
 {137}{}{¡Te volaré la cabeza!}
@@ -101,7 +101,7 @@
 {200}{}{No estamos contratando, entonces, ¿qué es lo que quieres?}
 {201}{}{¡Piérdete! No estamos contratando.}
 {202}{}{Necesito un Chip de Agua.}
-{203}{}{Dime qué sabes de las caravanas perdidas.}
+{203}{}{Dime qué sabes de las caravanas desaparecidas.}
 {204}{}{¡Quiero que te quites de mi vista!}
 {205}{}{¡Quiero ver tu cabeza rodando!}
 {206}{}{No importa.}
@@ -126,7 +126,7 @@
 {225}{}{Bueno, lo tengo que admitir, las he oído mejores.}
 {226}{}{Sí, claro. Nos vemos.}
 {227}{}{Bueno, ¡todavía vas a morir!}
-{228}{}{Uh, vale.}
+{228}{}{Eh, vale.}
 {229}{}{Bueno, ¿a qué estás esperando? ¡Hay que llevar las caravanas!}
 {230}{}{Todavía no están listas para salir.}
 {231}{}{Todavía tengo que hacer algo antes.}

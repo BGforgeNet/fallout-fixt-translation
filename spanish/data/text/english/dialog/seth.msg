@@ -12,14 +12,14 @@
 {111}{}{Necesito información.}
 {112}{}{¡Uab-Uab!}
 {113}{}{¿Información? ¿Qué quieres saber?}
-{114}{}{¿En qué te puedo ayudar?}
+{114}{}{¿Qué puedo hacer por ti?}
 {115}{}{Quiero información sobre los escorpiones rad.}
 {116}{}{Quiero información sobre los saqueadores.}
 {117}{}{Quiero información sobre este lugar.}
 {118}{}{Llévame a la cueva de los escorpiones rad.}
 {119}{}{¡Cueva!}
-{120}{}{Es todo, gracias.}
-{121}{}{¿Qué deseas ahora?}
+{120}{}{Nada más, gracias.}
+{121}{}{¿Qué quieres ahora?}
 {122}{}{Esos malditos escorpiones rad han tratado de coger a nuestros brahmines desde que llegamos a vivir aquí. No pasa una semana sin que alguien sea envenenado tratando de espantarlos del corral. Mi hermano Jarvis fue envenenado la semana pasada. El Dr. Razlo está tratando de crear un antídoto. Oye, si tienes los medios para ayudarnos, habla con nuestro líder. Su nombre es Aradesh.}
 {123}{}{Hay varios grupos de saqueadores. Yo organizo a los guardias, como Ian, para defender al pueblo. Hay una banda al sudeste, ten cuidado con ellos.}
 {124}{}{Arenas Sombrías es una comunidad pacífica. Tenemos un sistema de irrigación que provee agua a nuestra huerta. Si no estuviera esto plagado de escorpiones rad y saqueadores tendríamos una existencia ideal.}
@@ -28,9 +28,8 @@
 {127}{}{No.}
 {128}{}{Bueno, ya me harás saber cuándo quieras ir a la cueva.}
 {129}{}{[Hecho]}
-{130}{}{Eeh... se.}
+{130}{}{Ajá.}
 {131}{}{Eeh... noo.}
-
 {200}{}{Todo el pueblo te está agradecido por destruir a los escorpiones rad. Gracias.}
 {201}{}{Gracias a ti ya no son un peligro.}
 {202}{}{¿Quieres volver a la cueva? Es un viaje largo y ya has eliminado a los escorpiones rad.}
@@ -46,7 +45,7 @@
 {305}{}{¿Dónde está Tandi? ¿Por qué no la han rescatado?}
 {306}{}{Necesito más equipo antes de poder enfrentarme a esos tipos.}
 {307}{}{He decidido que la muchacha no vale la pena.}
-{308}{}{Estoy planeando el rescate.}
+{308}{}{Estoy en ello.}
 {309}{}{Primero he pensado en solucionar el problema con los escorpiones rad.}
 {310}{}{Creía que eras una buena persona, veo que me he equivocado.}
 {311}{}{Están al sudeste. Date prisa, por favor. No me imagino lo que le deben estar haciendo.}
@@ -57,42 +56,39 @@
 {316}{}{Sabía que eras un mercenario sin compasión. Te aseguro que serás bien recompensado por rescatarla.}
 {317}{}{Si no me dices cuanto me vas a pagar no voy a rescatarla.}
 {318}{}{Muy bien, me encargaré de ello.}
-{319}{}{Lo siento, debo de marcharme.}
+{319}{}{Lo siento, tengo que irme.}
 {320}{}{¡Hijo de...!}
 {321}{}{Apresúrate, por favor. Dios sabrá lo que le deben estar haciendo.}
 {322}{}{Primero desearía que rescataras a Tandi, pero, si estás dispuesto a ayudarnos con los escorpiones rad, te mostraré el camino.}
 {323}{}{Llevadme a la cueva de los escorpiones rad.}
 {324}{}{He cambiado de opinión. Adiós.}
 {325}{}{Hecho. Me puedes llevar en cuanto regrese.}
-
 {1000}{}{Khans}
 {1001}{}{Garl}
 {1002}{}{Ciudad Vertedero}
-{1003}{}{Sombrías}
+{1003}{}{Arenas}
 {1004}{}{Eje}
 {1005}{}{Agua}
 {1006}{}{Tandi}
 {1007}{}{Aradesh}
 {1008}{}{Seth}
 {1009}{}{Razlo}
-{1010}{}{Arenas}
+{1010}{}{Sombrías}
 {1011}{}{Escorpión}
 {1012}{}{Escorpión Rad}
 {1013}{}{Escorpiones}
 {1014}{}{Escorpiones Rad}
-
-
-{1100}{}{Son un grupo caótico que se hacen pasar por personajes del pasado.}
-{1101}{}{Es el jefe de los Khans. Es uno de los hombres más peligrosos que se ha aproximado a nuestro pueblo. Guía a los clanes de saqueadores con una mano de hierro.}
-{1102}{}{Es un viaje de cuatro a seis días al sudoeste. A veces se hacen buenos trueques, pero la mayoría del tiempo tratan de engañarnos.}
-{1103}{}{Es donde te encuentras.}
-{1104}{}{Está mucho más al sur que Ciudad Vertedero. El Eje es la ciudad más grande que he conocido. Tiene una población de mil personas, mínimo.}
-{1105}{}{Lo siento, no puedo ayudar.}
-{1106}{}{Es la hija de Aradesh. Algún día será nuestra líder, pero primero debe de adquirir más sabiduría.}
-{1107}{}{Es el jefe de nuestra comunidad y un verdadero héroe. Lo puedes encontrar trabajando en nuestro Ayuntamiento.}
+{1100}{}{Son un grupo sin ley que finge ser gente del pasado lejano.}
+{1101}{}{Es el líder de los Khans. Es uno de los hombres más peligrosos que nunca se ha visto en Arenas Sombrías. Lidera los clanes de saqueadores con dureza.}
+{1102}{}{Está a cuatro o seis días hacia el sudoeste. A veces hay buenas mercancías pero lo más normal es que intenten dejarnos tiesos.}
+{1103}{}{Estás aquí mismo.}
+{1104}{}{Está más al sur que Ciudad Vertedero. El Eje es la ciudad más grande de la que he oído hablar. Debe haber por lo menos mil personas allí.}
+{1105}{}{Lo siento, no puedo ayudarte.}
+{1106}{}{Es la hija de Aradesh. Algún día podría ser nuestra líder, pero debe aprender a mejorar sus modales.}
+{1107}{}{Es el líder de nuestra comunidad y un verdadero héroe. Lo encontrarás en el Ayuntamiento. Siempre está trabajando.}
 {1108}{}{Soy yo. Trabajo con Aradesh para proteger a la población.}
-{1109}{}{Nuestro doctor. Ve a visitarlo si necesitas ayuda médica.}
-{1110}{}{Es donde te encuentras.}
+{1109}{}{Nuestro doctor. Si estás herido, ve a verlo.}
+{1110}{}{Estás aquí mismo.}
 {1111}{}{Criaturas muy desagradables con veneno mortal.}
 {1112}{}{Criaturas muy desagradables con veneno mortal.}
 {1113}{}{Criaturas muy desagradables con veneno mortal.}

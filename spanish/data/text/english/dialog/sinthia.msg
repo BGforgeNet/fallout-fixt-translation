@@ -1,7 +1,7 @@
 {100}{}{Ves: a Sinthia, la atractiva chica de la calle.}
 {101}{}{Ves una mujer bien proporcionada con mala cara.}
 {102}{}{Eh, cariño, ¿cómo te va?}
-{103}{}{Vale. Adiós.}
+{103}{}{Vale, adiós.}
 {104}{}{Bien, pero podría irme mejor.}
 {105}{}{Uhh.}
 {106}{}{Oh, cariño, te comprendo. Tienes que volver a los brazos de mamá. Bueno, ¡vuelve aquí cuando necesites un poquito de amor!}
@@ -18,7 +18,7 @@
 {117}{}{Oh, querido, soy demasiado joven para morir.}
 {118}{}{Gracias por lo que hiciste. Nadie se había ocupado antes así de mí.}
 {119}{}{Luego me ocuparé de ti de verdad.}
-{120}{}{Está bien.}
+{120}{}{De nada.}
 {121}{}{Unh.}
 {122}{}{Gracias otra vez.}
 {123}{}{¿Eso es todo en lo que sabes pensar? ¡Vaya con la gente!}
@@ -39,9 +39,6 @@
 {138}{}{¿Qué más controla Gizmo?}
 {139}{}{Tienes ganas de hacerle otra visita a Sinthia.}
 {140}{}{Quizás Sinthia quiera algo de compañía...}
-
-## ¡Mierda! ¡Lo mataste! ¿Por qué tuviste que matarlo?
-
 {141}{}{¡Bastardo! No puedo creer que lo hayas matado. Todo lo que quería era hablar. No te importa la vida humana, ¿verdad?}
 {142}{}{¡Perra! No puedo creer que lo hayas matado. Todo lo que quería era hablar. No te importa la vida humana, ¿verdad?}
 {143}{}{¡Sal ahora mismo de mi habitación!}
@@ -50,7 +47,7 @@
 {146}{}{Hnnn.}
 {147}{}{Sí, lo que sea. ¡Sal ahora mismo de mi habitación!}
 {148}{}{Oh, lo siento. Creía que estaba muerto. Creí que lo habías matado. No es tan mal tipo después de todo. Solo un poco solitario.}
-{149}{}{No hay problema.}
+{149}{}{Vale.}
 {150}{}{Otra vez tú. ¿En qué puedo ayudarte esta vez?}
 {151}{}{Solo he venido a ver cómo te va.}
 {152}{}{Tengo 40 chapas, si tienes diez minutos.}

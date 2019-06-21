@@ -16,12 +16,12 @@
 {115}{}{Disfruta de tu estancia. No me des problemas.}
 {116}{}{Deberías haber salvado a Sinthia. Ha muerto por tu culpa. Espero que estés satisfecho.}
 {117}{}{Sí, lo que sea.}
-{118}{}{Unnn.}
+{118}{}{Hnnn.}
 {119}{}{Bienvenido a la Posada. ¿En qué puedo ayudarte, forastero?}
 {120}{}{Busco algo de agua.}
 {121}{}{Necesito dormir bien.}
 {122}{}{Necesito información.}
-{123}{}{Unnn.}
+{123}{}{Hnnn.}
 {124}{}{Sí, atendemos a tipos como tú. Serán 25 chapas por una noche. Una semana te costará 150 chapas.}
 {125}{}{No.}
 {126}{}{Vale.}
@@ -41,7 +41,7 @@
 {140}{}{¿Quién te crees que soy? ¿Una Imbécil? Si piensas sobornarme, necesitarás más chapas.}
 {141}{}{Hola de nuevo. ¿En qué puedo ayudarte?}
 {142}{}{Quiero alquilar una habitación.}
-{143}{}{Umm.}
+{143}{}{Hnnn.}
 {144}{}{Ya me estás alquilando la habitación número 1. ¿Quieres que te enseñe dónde está?}
 {145}{}{Claro.}
 {146}{}{No.}
@@ -72,7 +72,7 @@
 {171}{}{Vale.}
 {172}{}{Bien. Aquí tienes. Habitación número 1. Que pases una buena noche. La hora de la partida es a las 11 en punto.}
 {173}{}{Mataste a Killian, ¿verdad?}
-{174}{}{Sí, fui yo.}
+{174}{}{Sí, claro que sí.}
 {175}{}{No, no fui yo, de verdad.}
 {176}{}{Umm.}
 {177}{}{¡Vete! Eres demasiado imbécil para darte cuenta de lo que has hecho. ¡Ahora mi vida es un infierno!}

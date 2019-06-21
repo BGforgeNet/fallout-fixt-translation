@@ -1,6 +1,5 @@
 {100}{}{Ves: a Dan.}
 {101}{}{¡Auxilio!}
-# Appends line 103 or 104 or 105 depending on character's age and gender.
 {102}{}{Hola, colega, y bienvenido al Eje. Deja que me presente, me llaman "¡Dan, el Hombre Brahmin!" Voy de acá para allá y trato con los mercaderes de por aquí ofreciendo mis humildes servicios por un precio muy muy bajo. Bueno, ¿qué puedo hacer por ti, }
 {103}{}{joven?}
 {104}{}{hombre?}
@@ -81,8 +80,8 @@
 {185}{}{No lo sé.}
 {186}{}{Me decepcionas. Parecía que tenías la cabeza en su sitio. Puede que matar gente solucione el problema temporalmente, pero tienes que llegar a la raíz del asunto si quieres marcar la diferencia.}
 {187}{}{Sí, lo que sea.}
-{188}{}{Oh, vale. Adiós.}
-{189}{}{Eres idiota.}
+{188}{}{Eh, vale, adiós.}
+{189}{}{Eres un idiota.}
 {190}{}{Bueno... (Hace una pausa mirando al vacío.) Quizás tengas razón colega. Lo tendré en cuenta, pero no puedo prometerte nada.}
 {191}{}{¿Estás bromeando? ¡Eso los convertiría en más desafiantes! Puede que mis métodos no sean perfectos, pero al menos estoy seguro de que les haré más fuertes y responsables.}
 {192}{}{Demonios. Matar a la persona que tiene la enfermedad no es el mejor camino. Tienes que encontrar una cura porque puede que brote otra vez.}

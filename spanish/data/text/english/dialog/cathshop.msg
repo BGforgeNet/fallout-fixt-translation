@@ -1,6 +1,6 @@
 {100}{}{Estás viendo a un dependiente.}
 {101}{}{La Llama Sagrada no admite a ladrones ni canallas en su casa de oración. ¡Recibirás tu castigo!}
-{102}{}{¡Ug!}
+{102}{}{¡Unm!}
 {103}{}{¡No te estaba robando!}
 {104}{}{Cuéntale eso a la Llama Sagrada cuando la veas tras tu "castigo".}
 {105}{}{No me importan tus mentiras. Ni al Maestro.}
@@ -18,7 +18,7 @@
 {117}{}{Bien. Me gustaría. Me encantaría hacer negocios contigo.}
 {118}{}{Saludos a ti hermano. ¿En qué puedo ayudarte?}
 {119}{}{¿Ehh?}
-{120}{}{¿Qué tienes para intercambiar?}
+{120}{}{¿Qué tienes para comerciar?}
 {121}{}{Gracias. Te veré después.}
 {122}{}{Lo siento. Quizás podamos hacer un trato.}
 {123}{}{¡Adiós!}

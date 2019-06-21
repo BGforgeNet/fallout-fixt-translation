@@ -1,5 +1,5 @@
 {100}{}{Ves: a Sherry.}
-{101}{}{Estás viendo a un miembro de una banda.}
+{101}{}{Estás viendo al miembro de una banda.}
 {102}{}{}
 {103}{}{¿Quién eres y qué estás haciendo aquí?}
 {104}{}{Soy }

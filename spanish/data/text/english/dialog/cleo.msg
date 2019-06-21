@@ -8,7 +8,7 @@
 {107}{}{Háblame del Círculo.}
 {108}{}{Háblame de Decker.}
 {109}{}{Háblame de las caravanas desaparecidas.}
-{110}{}{Hola.}
+{110}{}{Ey.}
 {111}{}{Um, ¡eh!}
 {112}{}{¡Oye! ¿Qué ocurre?}
 {113}{}{Háblame de Loxley.}
@@ -17,14 +17,14 @@
 {116}{}{Háblame de Decker.}
 {117}{}{Háblame de las caravanas desaparecidas.}
 {118}{}{Háblame de las caravanas desaparecidas.}
-{119}{}{Hola.}
+{119}{}{Ey.}
 {120}{}{Um, ¡eh!}
 {121}{}{Es el jefe. ¿Qué más quieres saber?}
 {122}{}{Háblame de Jasmine.}
 {123}{}{Háblame del Círculo.}
 {124}{}{Háblame de Decker.}
 {125}{}{Háblame de las caravanas desaparecidas.}
-{126}{}{Hola.}
+{126}{}{Ey.}
 {127}{}{Um, ¡eh!}
 {128}{}{Es la ayudante del jefe. No es mala chica.}
 {129}{}{Háblame de Loxley.}
@@ -32,28 +32,28 @@
 {131}{}{Háblame del Círculo.}
 {132}{}{Háblame de Decker.}
 {133}{}{Háblame de las caravanas desaparecidas.}
-{134}{}{Hola.}
+{134}{}{Ey.}
 {135}{}{Um, ¡eh!}
 {136}{}{Si tienes suerte, te considerarás uno de nosotros al cabo del día. En casa, parte del decorado, ¿entiendes?}
 {137}{}{Háblame de Loxley.}
 {138}{}{Háblame de Jasmine.}
 {139}{}{Háblame de Decker.}
 {140}{}{Háblame de las caravanas desaparecidas.}
-{141}{}{Hola.}
+{141}{}{Ey.}
 {142}{}{Um, ¡eh!}
 {143}{}{No discutimos con el Sr. Decker en compañía agradable.}
 {144}{}{Háblame de Loxley.}
 {145}{}{Háblame de Jasmine.}
 {146}{}{Háblame del Círculo.}
 {147}{}{Háblame de las caravanas desaparecidas.}
-{148}{}{Hola.}
+{148}{}{Ey.}
 {149}{}{Um, ¡eh!}
 {150}{}{¡No tengo nada que ver con eso!}
 {151}{}{Háblame de Loxley.}
 {152}{}{Háblame de Jasmine.}
 {153}{}{Háblame del Círculo.}
 {154}{}{Háblame de Decker.}
-{155}{}{Hola.}
+{155}{}{Ey.}
 {156}{}{Um, ¡eh!}
 {157}{}{Hola a ti.}
 {158}{}{¿Cómo te atreves a molestar a la gente, idiota?}
@@ -63,7 +63,7 @@
 {162}{}{Háblame de Decker.}
 {163}{}{Háblame de las caravanas desaparecidas.}
 {164}{}{Háblame de las caravanas desaparecidas.}
-{165}{}{Hola.}
+{165}{}{Ey.}
 {166}{}{Um, ¡eh!}
 {167}{}{Es trabajo y aventura a la vez; ayudando a los pobres, arriesgando tu vida, experimentando cosas interesantes. ¡Esos somos nosotros, los buenos!}
 {168}{}{Háblame de Loxley.}
@@ -71,7 +71,7 @@
 {170}{}{Háblame de Decker.}
 {171}{}{Háblame de las caravanas desaparecidas.}
 {172}{}{Háblame de las caravanas desaparecidas.}
-{173}{}{Hola.}
+{173}{}{Ey.}
 {174}{}{Um, ¡eh!}
 {175}{}{Un amigo mío trabajó para él una vez. Cuando las cosas empezaron a ir mal le pidió ayuda a Decker pero discutió con él y se le practicó una lobotomía para servir de ejemplo a los demás. Por eso no nos cae muy bien.}
 {176}{}{¿Qué rumores quieres oír? Que los Mercaderes de Agua son unos despistados, o que Decker les saca las chapas a los mercaderes a cambio de protección, o que los Niños de la Catedral las sacrifican en nombre de su Dios y la Garra Mortal se las come. Los rumores no valen nada. El mundo está lleno de rumores y sospechas pero nada es verdad. Busca hechos y no cuentos. Pero, ¿por qué lo preguntas? ¿Tenías amigos en las caravanas?}

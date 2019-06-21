@@ -18,4 +18,3 @@
 {117}{}{Gracias por nuestra libertad.}
 {118}{}{Es fantástico que los Reguladores se hayan marchado.}
 {119}{}{Bienvenido al nuevo Adytum.}
-

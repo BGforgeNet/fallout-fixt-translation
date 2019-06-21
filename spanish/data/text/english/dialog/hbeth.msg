@@ -1,31 +1,23 @@
-# Beth is female. She speaks with a normal accent. She is a friendly person
-# who is mostly interested in selling equipment and information.
 {100}{}{Ves: a Beth, la dueña de la Armería.}
 {101}{}{Hola. ¿Puedo ayudarte?}
-{102}{}{¿Te puedo hacer algunas preguntas?}
-{103}{}{¿Te podría hacer algunas preguntas más?}
-{104}{}{Me gustaría comprar algo.}
+{102}{}{¿Puedo hacerte algunas preguntas?}
+{103}{}{¿Puedo hacerte unas preguntas más?}
+{104}{}{Quiero comprar algo.}
 {105}{}{Tengo algo para vender.}
 {106}{}{¿Cómo se pueden conseguir chapas aquí?}
 {107}{}{Nada. Adiós.}
 {108}{}{¿Ruk?}
 {109}{}{¿Qué es eso que se comenta de unas caravanas desaparecidas? }
-# the Deathclaw is male
 {110}{}{¿Qué sabes de la Garra Mortal?}
 {111}{}{¿Podrías hablarme otra vez de la Garra Mortal?}
-# Decker is male
-{112}{}{¿Qué puedes decirme de Decker? }
+{112}{}{¿Me puedes contar algo acerca de Decker?}
 {113}{}{¿Qué puedes decirme de los diferentes mercaderes?}
 {114}{}{¿Has oído algún rumor interesante?}
 {115}{}{Gracias, eso es todo. Adiós.}
 {116}{}{Umm, de nada.}
-# Jain is a female religious figure
 {117}{}{Bueno, yo no suelo cotillear, pero he oído que la muerte de Decker estaba relacionada de alguna forma con el asesinato de Jain.}
-# The Maltese Falcon is a bar
 {118}{}{Bueno, no suelo hablar a espaldas de la gente, pero conozco a alguien que conoce a una persona que vio a tres figuras vestidas de largo entrar en el Halcón Maltés justo antes de los asesinatos.}
-# the Children of the Cathedral is an organization - religious
 {119}{}{Bueno, no suelo hablar a espaldas de la gente, pero alguien mató a Jain, la Sacerdotisa Mayor de los Niños de la Catedral. Ellos no me importan, pero no entiendo lo que habría hecho ella para merecer eso.}
-# The Brotherhood of Steel is an organization - religious
 {121}{}{Bueno, no suelo hablar a espaldas de la gente, pero un mercader amigo mío vio a un grupo de mutantes rondando por ahí en el desierto justo pasando la Hermandad del Acero, hacia el noroeste.}
 {122}{}{Bueno, no suelo hablar a espaldas de la gente, pero los Niños de la Catedral han estado preguntando a la gente dónde estabas. Yo tendría cuidado. Son un grupo raro.}
 {123}{}{Bueno, yo no suelo cotillear, pero he oído que la muerte de Decker estaba relacionada de alguna forma con el asesinato de Jain.}
@@ -37,11 +29,9 @@
 {129}{}{Gracias, ¿te puedo hacer otra pregunta?}
 {130}{}{Vale, gracias.}
 {131}{}{Lo siento, ¿de qué se trata?}
-# Klug and Ruk are a stupid person saying something incomprehensible
 {132}{}{¿Klug?}
 {133}{}{¡Ruk!}
 {134}{}{Lo siento, no te entiendo. Por favor, vuelve cuando estés mejor.}
-# The Merchant Market is a location
 {135}{}{No pretendo contratarte, pero hay un cartel donde ofrecen trabajos en el centro del Mercado de los Mercaderes. Quizás quieras echarle una ojeada.}
 {136}{}{Vale, gracias.}
 {137}{}{No, al menos nada bueno. Dame una oportunidad para hacer algunas averiguaciones. (Te hace un guiño) ¿Algo más?}
@@ -86,13 +76,13 @@
 {177}{}{Se encargan de toda el agua. Son gente avara, no me gustaría trabajar para ellos. Su paga es la peor y el trabajo es por el estilo.}
 {178}{}{¿Siempre han controlado el agua? }
 {179}{}{¿Son ellos los que están detrás de las caravanas desaparecidas?}
-{180}{}{Gracias, otra pregunta acerca de los mercaderes...}
+{180}{}{Gracias, otra pregunta sobre los mercaderes...}
 {181}{}{Gracias, adiós.}
 {182}{}{¿Sobre quién más te gustaría saber?}
 {183}{}{No. Por lo que he oído, hace tiempo un grupo de mercaderes se apoderaron de la Torre de Agua y proclamaron que eran los mercaderes de agua y que la gente tenía que pedirles agua a ellos. La guerra del agua duró años hasta que llego un hombre llamado Roy Greene, sí, el abuelo de Justin. Ayudó en la negociación del acuerdo que acabó con la guerra.}
 {184}{}{¿Qué clase de acuerdo?}
 {185}{}{¡Maldita sea! Siento haberlo preguntado.}
-{186}{}{Gracias, otra pregunta acerca de los mercaderes...}
+{186}{}{Gracias, otra pregunta sobre los mercaderes...}
 {187}{}{Gracias, adiós.}
 {188}{}{Instauró el gobierno de la ciudad y puso un límite en el precio del agua. Personalmente creo que deberían haberles quitado del medio... ¡oh, perdón! Quiero decir que deberían haberles enseñado quién manda.}
 {189}{}{Está bien. No necesitaba toda esta información, pero gracias de todas formas.}
@@ -100,7 +90,7 @@
 {191}{}{Gracias, adiós.}
 {192}{}{Lo siento, me dejo llevar muy fácilmente. ¿Querías saber algo más?}
 {193}{}{La Caravana Carmesí es una banda de gente loca. Hacen cualquier trabajo, sin tener en cuenta el riesgo. Me sorprende que no pierdan más caravanas de las que ya han perdido.}
-{194}{}{¿También pierden caravanas?}
+{194}{}{¿También les faltan caravanas?}
 {195}{}{¿Cómo es de arriesgado?}
 {196}{}{Gracias, otra pregunta sobre los mercaderes...}
 {197}{}{Gracias, adiós.}
@@ -130,7 +120,7 @@
 {221}{}{¿Por qué debería de sucederles más a los Comerciantes de Ultramar que a los otros?}
 {222}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {223}{}{Gracias, volvamos a los mercaderes...}
-{224}{}{¡Todo eso es basura!}
+{224}{}{¡Eres idiota!}
 {225}{}{Gracias, pero tengo que irme.}
 {226}{}{¡Discúlpate! Juzgas demasiado deprisa, ¿tienes miedo de la verdad?}
 {227}{}{Hay seis representantes, dos por cada grupo principal de mercaderes. Se necesitan por lo menos cuatro votos para un acuerdo. Nunca se ponen de acuerdo en nada.}
@@ -175,7 +165,7 @@
 {266}{}{Bueno, no me acuerdo, pero quien fuera, no mentiría... Quiero decir que puede ser verdad. De todas formas debes tener cuidado.}
 {267}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {268}{}{Bueno, volvamos a los mercaderes...}
-{269}{}{¡Eres una idiota!}
+{269}{}{¡Eres idiota!}
 {270}{}{Mira qué hora es, ¡tengo que irme! Hasta otra.}
 {271}{}{Pero, ¿no lo sabes? (Bajando la voz) ¡He oído que hacen sacrificios humanos y todo tipo de otras cosas horribles!}
 {272}{}{Sí, lo hacemos. ¿Qué hay de malo en ello?}
@@ -191,16 +181,15 @@
 {282}{}{Lo siento pero no te ayudaré hasta que no bajes tu arma. Esto es una tienda, no un campo de tiro.}
 {283}{}{Ehh... bueno... si... mmm, tú... yo... ¿Necesitabas algo más?}
 {284}{}{Nunca sabes cómo es una persona sin antes conocerla. Tienes que ir con cuidado con quien te asocias. ¿Necesitabas algo más?}
-#	Not believing the player for a moment, then getting nervous
 {285}{}{¿Eres...? Quiero decir. No quería decir... Mmm... Hace un buen día, ¿no crees? Entonces, ¿necesitabas algo más?}
 {286}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {287}{}{Gracias, volvamos a los mercaderes...}
-{288}{}{No, eso es todo. Adiós.}
+{288}{}{No, eso es. Adiós}
 {289}{}{Claro, lo que tú digas. ¿Puedo hacer algo más por ti?}
 {290}{}{¡Genial! Déjame enseñarte lo que tengo.}
 {291}{}{Tengo las mejores mercancías, ¿qué estás buscando?}
 {292}{}{¡Eso es lo que quería oír! ¿Qué necesitas?}
-{293}{}{Vayamos directos al grano.}
+{293}{}{Volvamos a los negocios.}
 {294}{}{Si tienes chapas, tienes mi atención.}
 {295}{}{¡Mi clase de cliente favorito!}
 {296}{}{¿Quieres comprar algo? Quizá me equivoque contigo.}
@@ -210,7 +199,7 @@
 {300}{}{Enséñame lo que tienes.}
 {301}{}{¿Tienes algo bueno?}
 {302}{}{Bueno, veamos.}
-{303}{}{Por supuesto.}
+{303}{}{Claro.}
 {304}{}{¿Qué tienes para mí hoy?}
 {305}{}{Muy bien. Siempre puedo usar más mercancía.}
 {306}{}{Me encantaría echar un vistazo a lo que tienes.}
@@ -241,7 +230,6 @@
 {331}{}{Ya te lo dije. ¡Está muerto! Olvidémosle, su nombre trae malos recuerdos.}
 {332}{}{Oh, sí.}
 {333}{}{Sí, se lo merecía y no me siento mal por haberlo hecho.}
-#Sid works for Beth. Sid is male.
 {334}{}{¿Lo hiciste? ¿De verdad? ¡Te quiero! (Mira a Sid) Ni lo pienses listillo... aquí tienes, para mostrarte mi gratitud. (Te da seis estimulantes.) ¡No es mucho, pero te lo agradezco de verdad!}
 {335}{}{¿Lo hiciste? ¿De verdad? ¡Eres genial! No sabes lo feliz que me puse cuando oí que había muerto. Toma, coge esto... (Te da seis estimulantes.) ¡No es mucho, pero te lo agradezco de verdad!}
 {336}{}{Lo siento, pero no tengo nada que te guste.}
@@ -256,7 +244,7 @@
 {345}{}{Si no vas a comprar nada me gustaría que me dejaras en paz.}
 {346}{}{Si no vas a vender nada, vete, por favor.}
 {347}{}{No me molestes si no quieres vender nada.}
-{348}{}{Por favor, márchate.}
+{348}{}{Vete por favor.}
 {349}{}{Sabía que me harías perder el tiempo otra vez.}
 {350}{}{Ya ves, sabía que no tenías ni una chapa.}
 {351}{}{Gracias por todo, quizás hoy me vaya pronto a casa.}
@@ -277,8 +265,8 @@
 {367}{}{Bueno, realmente no pensaba que fueras a comprar algo.}
 {368}{}{Gracias por todo, no ha ido tan mal.}
 {369}{}{Gracias por las mercancías.}
-{370}{}{¡Que tengas un buen día!}
-{371}{}{¡Adiós!}
+{370}{}{Que tengas un buen día.}
+{371}{}{Adiós.}
 {372}{}{Gracias.}
 {373}{}{Gracias por la compra, qué tengas un buen día.}
 {374}{}{¡Te he oído!}
@@ -304,6 +292,6 @@
 {394}{}{¿Conoces a alguien más que tenga información sobre la Garra Mortal?}
 {395}{}{Adiós.}
 {396}{}{Gracias.}
-{397}{}{Vaaale.}
+{397}{}{Vale.}
 {398}{}{¿Hay algún lugar de la ciudad que deba evitar?}
 {399}{}{Oh, sí. Deberías mantenerte lo más lejos posible del Halcón Maltés. Decker y su perrito faldero Kane no son buenos. Te comerán vivo si no andas con cuidado. Y lo mismo te digo de Lorenzo y de la Compañía de Crédito Amistoso.}

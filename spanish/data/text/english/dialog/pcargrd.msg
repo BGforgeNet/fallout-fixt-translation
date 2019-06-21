@@ -6,7 +6,7 @@
 {105}{}{Algunos de estos comerciantes de caravanas son un poco raros.}
 {106}{}{Hola, ¿guapo?}
 {107}{}{Saludos, Iniciado.}
-{108}{}{Si tienes dudas respecto a nuestra orden, deberías hablar con Cabbot, tras la puerta.}
+{108}{}{Si tienes alguna duda sobre nuestra orden, deberías hablar con Cabbot, tras la puerta.}
 {109}{}{Cabbot es el más indicado para hablar contigo, es el tipo joven que está tras la puerta.}
 {110}{}{Si estás aquí para negociar, estás hablando con la persona menos indicada.}
 {111}{}{¿Qué?}

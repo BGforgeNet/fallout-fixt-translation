@@ -6,7 +6,7 @@
 {105}{}{¡Ayyyy! ¡Un fantasma!}
 {106}{}{¡La muerte camina otra vez! ¡La Mano Letal ha vuelto!}
 {107}{}{Bien hecho.}
-{108}{}{Hola.}
+{108}{}{Ey.}
 {109}{}{Estoy esperando a Garl para aplastar a los de Arenas Sombrías. Me apetece saquear.}
 {110}{}{Bienvenido, colega.}
 {111}{}{Me alegra que vuelvas de visita.}
@@ -36,9 +36,6 @@
 {135}{}{¡Vete a la mierda!}
 {136}{}{No me gustan los tipos como tú. Mejor será que te alejes de mi vista.}
 {137}{}{¿Qué? ¡Vete!}
-#
-# Fallout Fixt:
-#
 {200}{}{Parece curtido por el combate y acostumbrado a la dura vida del yermo.}
 {201}{}{Su lenguaje corporal dice más que sus expresiones. Ninguno es muy agradable.}
 {202}{}{Te mira con desprecio y aprieta la empuñadura de su arma.}

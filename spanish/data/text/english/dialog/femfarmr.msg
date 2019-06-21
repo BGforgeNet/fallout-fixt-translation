@@ -3,7 +3,7 @@
 {102}{}{¡Buenos días!}
 {103}{}{¡Buenas tardes!}
 {104}{}{¡Buenas noches, amigo!}
-{105}{}{¿No hace un buen día?}
+{105}{}{Bonito día, ¿verdad?}
 {106}{}{El suelo es mucho más fértil de lo que parece.}
 {107}{}{Estoy intentando salvar estos árboles. Creo que funciona.}
 {108}{}{Tendría que haber una caravana fertilizadora. Ahora hay chapas.}

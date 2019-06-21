@@ -10,8 +10,8 @@
 {109}{}{Solo vendo armas de alta tecnología. El mejor material que encontrarás a este lado de la Hermandad y, ya que la Hermandad no trata con extranjeros, tengo que decir que soy el mejor. Tengo un Rifle de Francotirador y debes saber que es difícil encontrar combustible para lanzallamas en el yermo. Oh sí... También tengo un contador Geiger. Son poco comunes.}
 {110}{}{Enséñame lo que tienes.}
 {111}{}{Háblame del rifle de francotirador.}
-{112}{}{¿Para qué necesito un contador Geiger?}
-{113}{}{Quizás vuelva más tarde. Adiós.}
+{112}{}{¿Para qué quiero yo un contador Geiger?}
+{113}{}{Quizás te vea luego. Adiós.}
 {114}{}{Tío, ¡te encanta el material rarito! ¿Dónde estabas tú cuando hace algunos años me dedicaba a la venta de casquillos de uranio vacíos? Además, no fabrico chips. No hay mercado para eso. ¿Algo más?}
 {115}{}{Enséñame lo que tienes.}
 {116}{}{Entonces dime lo que realmente tienes.}
@@ -42,13 +42,13 @@
 {141}{}{No quiero tener que ver nada con esa mierda tan difícil de vender. Te veo luego.}
 {142}{}{No importa.}
 {143}{}{}
-{144}{}{Bueno.}
-{145}{}{Me voy.}
+{144}{}{Déjame.}
+{145}{}{Yo ir.}
 {146}{}{Sí.}
 {147}{}{No. Solo echaba una ojeada por ahí.}
 {148}{}{No quiero problemas. Si quieres hacer negocios, entonces hagámoslos. Si no, vete.}
 {149}{}{Déjame.}
-{150}{}{Ir.}
+{150}{}{Yo ir.}
 {151}{}{Veamos lo qué tienes.}
 {152}{}{Vete al infierno. Voy a donde quiero, ¡y cuando quiero!}
 {153}{}{Me voy.}
@@ -61,15 +61,7 @@
 {160}{}{Gracias.}
 {161}{}{Vale.}
 {162}{}{Los mutantes les dieron una paliza hace diez años, por lo que me imagino que tomé la decisión adecuada. Por ahora me he instalado aquí. A la poli no le gusta mi tipo de negocio y por eso me ha dado más de un toque, pero soy mucho más honrado que la mayoría de los mercaderes de aquí.}
-
-#
-# TRANSLATION NOTE: The following three sets of lines are identical in English,
-# but they differ in foreign translations. The first line is for the case of the
-# player-character masculine ("my friend" will be masculine); the second line is
-# for the case of the player-character feminine ("my friend" will be feminine).
-#
-
-{163}{}{Eh, ¿qué tal te va amigo mío? ¿Buscando algo que comprar?}
+{163}{}{Eh, ¿qué tal te va amiga mía? ¿Buscando algo que comprar?}
 {164}{}{Eh, ¿qué tal te va amiga mía? ¿Buscando algo que comprar?}
 {165}{}{Tu mercancía es buena, pero estoy buscando algo un poco más potente. ¿Tienes idea de a dónde puedo ir?}
 {166}{}{Bueno, puedes probar con los Pistoleros en el Cementerio de LA. Seguramente tienen algo que se ajuste a tus necesidades. Me he enterado de que los tipos de la Hermandad del Acero también tienen material bastante potente, así que puedes probar allí.}

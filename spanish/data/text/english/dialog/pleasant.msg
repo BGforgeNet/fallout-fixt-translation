@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un campesino.}
+{100}{}{Ves a un campesino.}
 {101}{}{No tengo nada que decirte, extraño.}
 {102}{}{Seguro que los brahmines apestan en esta época del año.}
 {103}{}{Todavía necesitamos expandir la irrigación.}

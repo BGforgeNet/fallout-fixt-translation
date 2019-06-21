@@ -4,9 +4,8 @@
 {103}{}{¿Qué estás haciendo aquí?}
 {104}{}{¿Dónde está la ciudad más cercana?}
 {105}{}{Nada, gracias.}
-{106}{}{Uhh...}
+{106}{}{Eh...}
 {107}{}{Soy un explorador.}
 {108}{}{Estoy al acecho de saqueadores y monstruos.}
 {109}{}{Eso debe ser Ciudad Vertedero. No está lejos de aquí.}
 {110}{}{Estás viendo a un guardia de Ciudad Vertedero.}
-

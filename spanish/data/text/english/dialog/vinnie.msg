@@ -1,15 +1,10 @@
-#  TRANSLATION NOTES
-# Vinnie is a gang leader, who is young and ruthless. He tries to sound tough
-# and is quite mean. He only respects people who are as ruthless and violent as
-# himself.
-
 {100}{}{Ves: a Vinnie, de la banda de los Kalaveras.}
 {101}{}{Ves a un hombre joven con un tatuaje y aspecto de malo.}
 {102}{}{Me gustaría unirme a vosotros, muchachos.}
 {103}{}{Estás en territorio de los Kalaveras, forastero. Será mejor que hables rápido.}
 {104}{}{Lo siento, te equivocas de habitación.}
 {105}{}{¿Los Kalaveras? ¿Quiénes sois, muchachos?}
-{106}{}{¿Urgh?}
+{106}{}{¿Ergh?}
 {107}{}{¡No sabes hasta qué punto te has equivocado de sitio!}
 {108}{}{Somos la única banda de Ciudad Vertedero. Tenemos el control de las calles, y gobernamos en la ciudad por la noche.}
 {109}{}{Oh. Lo siento. Adiós.}
@@ -29,7 +24,7 @@
 {123}{}{¿Quieres dar una paliza a Killian? Tío, estás loco. Macho, no sé... vale, lo haré.}
 {124}{}{Eres un perdedor, dijiste que íbamos a darle una paliza a Killian. Largo de aquí.}
 {125}{}{Venga, destrocemos a Killian.}
-{126}{}{¿Y ahora qué quieres?}
+{126}{}{¿Qué quieres ahora?}
 {127}{}{Nada, lo siento.}
 {128}{}{Busco a alguien que me ayude a deshacerme de Killian. Los Kalaveras me parecieron una buena elección.}
 {129}{}{¡Mierda, no creí que fueras a hacerlo! ¡Los Kalaveras dirigen ahora esta ciudad! ¡Guau!}
@@ -44,8 +39,8 @@
 {138}{}{Tienes razón, ya me iba.}
 {139}{}{¿Qué hace tan duros a los Kalaveras?}
 {140}{}{[Vinnie piensa un momento.] Si quieres demostrarnos que eres bastante bueno para ser de los Kalaveras, tienes que robar las cenizas de la mujer de ese viejo bastardo. Je. [Vinnie habla entre dientes.] Hagamos que Neal sufra en sus dos últimas horas de vida...}
-{141}{}{Vale, lo haré.}
-{142}{}{Ni hablar.}
+{141}{}{Está bien, lo haré.}
+{142}{}{No me interesa.}
 {143}{}{Oh, creo que no podría hacer eso.}
 {144}{}{Ya las he robado.}
 {145}{}{Eso no sería tan duro como crees. Ya he matado a ese bastardo.}

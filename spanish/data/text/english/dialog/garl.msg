@@ -1,6 +1,6 @@
 {100}{}{Dominando la vista, ves a Garl, el líder de los Khans.}
 {101}{}{¿Piensas que puedes entrar aquí sin permiso? ¿Aquí, en la casa de tus mayores enemigos? Te veremos morir. ¡Me encargaré personalmente de sacarte el corazón y me lo comeré ante mis mejores guerreros!}
-{102}{}{¡Te he matado!}
+{102}{}{¡Yo te maté!}
 {103}{}{No lo cojo.}
 {104}{}{Sí, lo has hecho. Pero he vuelto para liquidarte.}
 {105}{}{No deberías haber hecho eso.}
@@ -11,7 +11,7 @@
 {110}{}{Deberías... si fueses mi padre, pero no lo eres. Te pareces a él, pero te comportas de otro modo. Ya no queda ninguna imagen de él. Tienes que ser eliminado.}
 {111}{}{¡No me lo puedo creer!}
 {112}{}{Créete esto tío, ¡estás apunto de unírteme en el infierno!}
-{113}{}{No me digas lo que tengo que hacer, padre. Ahora yo dirijo a los Khans, y tú ya estás medio muerto.}
+{113}{}{No me digas lo que he de hacer, padre. Ahora yo dirijo a los Khans, y tú ya estás medio muerto.}
 {114}{}{Aún estoy vivo.}
 {115}{}{Debería haberte matado cuando aún eras un niño.}
 {116}{}{No me digas lo que he de hacer, padre. Ahora yo dirijo a los Khans, y tú ya estás medio muerto.}
@@ -69,7 +69,7 @@
 {168}{}{Bien. Deberíamos aclarar esto sin armas, pero puedes quedarte con cualquier armadura que lleves puesta. Si me derribas, te dejaré llevarte a la mujer e irte. Si te derribo yo, te irás sin ella.}
 {169}{}{Suena bien, vamos.}
 {170}{}{Será interesante, pero no muy deportivo. Vale. Hagámoslo.}
-{171}{}{Bien.}
+{171}{}{Vale.}
 {172}{}{Umm, peleas mejor de lo que esperaba. No había tenido un buen combate desde que mi padre me apaleó. Te mereces a la mujer de Arenas Sombrías. Cógela y vete. No vuelvas.}
 {173}{}{Coge tu miserable pellejo y vete. Como vuelvas, no seré tan bueno.}
 {174}{}{¿Qué quieres?}
@@ -106,18 +106,20 @@
 {207}{}{¡Ahhh!}
 {208}{}{Vale, tú ganas. Llévate a la chica y vete.}
 {209}{}{¡Que la lucha del honor comience!}
-
 {1000}{}{Khans}
 {1001}{}{Garl}
 {1002}{}{Ciudad Vertedero}
-{1003}{}{Sombrías}
+{1003}{}{Arenas}
 {1004}{}{Eje}
 {1005}{}{Agua}
 {1006}{}{Tandi}
-{1007}{}{Arenas}
+{1007}{}{Sombrías}
 {1008}{}{Chip}
-
-{1100}{}{Somos nosotros, idiota.}
+{1009}{}{Saqueadores}
+{1010}{}{Khans}
+{1011}{}{Saqueador}
+{1012}{}{Saqueador}
+{1100}{}{Somos nosotros, siervo.}
 {1101}{}{Soy el líder de los Khans. Soy el hombre más temido del yermo.}
 {1102}{}{Están al sudoeste. A veces vamos allí para relajarnos tras un duro día de saqueo.}
 {1103}{}{Una comunidad pequeña, miserable y asquerosa. Podría eliminarlos.}
@@ -126,3 +128,7 @@
 {1106}{}{No conozco a nadie con ese nombre.}
 {1107}{}{Una comunidad pequeña, miserable y asquerosa. Podría eliminarlos.}
 {1108}{}{¿Un qué?}
+{1109}{}{Somos nosotros, siervo.}
+{1110}{}{Somos nosotros, siervo.}
+{1111}{}{Somos nosotros, siervo.}
+{1112}{}{Somos nosotros, siervo.}

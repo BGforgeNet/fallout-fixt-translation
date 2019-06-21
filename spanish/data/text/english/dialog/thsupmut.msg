@@ -9,7 +9,7 @@
 {108}{}{Ves: a Renfield, de los Pensadores Nocturnos.}
 {109}{}{Ves: a Timothy, de los Pensadores Nocturnos.}
 {110}{}{Bienvenido, Oh Despejador. Has llegado a tiempo para ayudarnos.}
-{111}{}{¿Uh?}
+{111}{}{¿Eh?}
 {112}{}{Claro. No hay problema.}
 {113}{}{Lo siento. Estoy muy ocupado.}
 {114}{}{¿Por qué querría ayudaros?}

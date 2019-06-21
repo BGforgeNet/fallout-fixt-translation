@@ -1,15 +1,15 @@
 {100}{}{Ves: a Killian.}
-{101}{}{¿Quién eres tú?}
+{101}{}{¿Quién eres?}
 {102}{}{¿Qué tal si me cuentas algo sobre esta ciudad?}
-{103}{}{¿Es tuya esta tienda?}
+{103}{}{¿Es tuyo este establecimiento?}
 {104}{}{Quiero comprar algo.}
 {105}{}{¿Qué se puede hacer por aquí?}
 {106}{}{¿Qué tengo que hacer para ayudarte a deshacerte de Gizmo?}
 {107}{}{Mejor me voy.}
-{108}{}{No, ¿eh?}
+{108}{}{¿Na-ah?}
 {109}{Kill0a}{¿Quieres comprar algo, amigo?}
 {110}{}{Ajá.}
-{111}{}{Na-ah.}
+{111}{}{Nah-ah.}
 {112}{Kill1m}{Bienvenido a Ciudad Vertedero, forastero. ¿En qué puedo ayudarte?}
 {113}{Kill1f}{Hola, cariño. ¿Qué puedo ofrecerte?}
 {114}{Kill1b}{¿Qué quieres?}
@@ -134,7 +134,7 @@
 {233}{}{¿Otra vez? Creo que no. Ya he tenido bastante de todo esto.}
 {234}{Kill60}{Vete a ver a Lars en el puesto de guardia. Él te apuntará. Y recuerda, esta ciudad te debe... mucho.}
 {235}{Kill61b}{Bueno, te puedo pagar el sueldo estándar de mercenario, o sea 500 chapas.}
-{236}{}{Trato hecho.}
+{236}{}{Hecho.}
 {237}{}{Lo siento, no es bastante.}
 {238}{Kill62}{Estupendo. Vete a ver a Lars, él te dará los detalles.}
 {239}{Kill63}{Mira, no te voy a ofrecer más. Gracias por conseguir las pruebas, pero no pienso rogar por tus servicios.}
@@ -146,25 +146,25 @@
 {245}{Kill67}{Oh, Lars es el jefe de los guardias aquí. Es un buen tipo. Un hombre de confianza.}
 {246}{Kill68}{Bueno, Vinnie es uno de los niños problemáticos. El líder de un grupo de macarras llamados los Kalaveras. Pero pagan sus rentas y no molestan demasiado a nadie.}
 {247}{Kill69}{Bueno, Doc es propietario de un pequeño lugar en el centro. Te hará un buen apaño, si lo necesitas. Hace precios bastante razonables.}
-{248}{Kill70}{Los Kalaveras son una panda de macarras que trabajan para Gizmo. No causan demasiados problemas, pero Lars y yo los vigilamos.}
-{249}{Kill71}{Bueno, los Khans son una panda de matones que viven en el lejano este. Desde que yo recuerdo, intentan tomar Ciudad Vertedero, pero nunca han conseguido pasar de la puerta.}
+{248}{Kill70}{Los Kalaveras son una panda de macarras que trabajan para Gizmo. No causan demasiados problemas, pero Lars y yo los tenemos vigilados.}
+{249}{Kill71}{Bueno, los Khans son una panda de matones que viven en el lejano este. Desde que yo recuerdo, intentan tomar Ciudad Vertedero, pero nunca han conseguido pasar de las puertas.}
 {250}{Kill72}{Los Víboras son una cuadrilla de chiflados del norte. Veneran serpientes, o algo por el estilo.}
-{251}{Kill73}{Este es mi establecimiento. Lo que necesites, yo lo tengo.}
+{251}{Kill73}{Esa es mi tienda. Lo que necesites, yo lo tengo.}
 {252}{Kill74}{Un buen sitio para alquilar una habitación a buen precio. Y no demasiado sucia. Pero no cabrees a la dueña, Marcelles, te arrancará las tripas si la chuleas.}
-{253}{Kill75}{Ah, lo de Gizmo es el Casino de la entrada. Me sorprende que no te fijases cuando llegaste. Se suele oler desde kilómetros. Pero oye, atrae a los turistas.}
+{253}{Kill75}{Ah, lo de Gizmo es el Casino de la entrada. Me sorprende que no te fijases cuando llegaste. Se suele oler a kilómetros de distancia. Pero bueno, atrae a los turistas...}
 {254}{Kill76}{Es nuestro bar de residentes. La comida está bien, pero la cerveza está genial. El dueño, Neil, no aguanta insolencias, ni siquiera a los saqueadores que entran.}
 {255}{Kill76a}{No hay mucho que contar. Doc Mórbid está cabreado porque los precios de sus consultas médicas son más bajos. Están en el lado este.}
 {256}{Kill77}{¿La Garra Mortal? Oh, no es más que un cuento. Dicen que bebe sangre y aúlla a la luna llena... ¡Menuda broma!}
-{257}{Kill78}{Bueno el Eje es el centro del comercio. Todo lo que no encuentres aquí, podrás encontrarlo en el Eje. Pero no sé si es un sitio seguro actualmente, con todas las cosas raras que están pasando.}
+{257}{Kill78}{Bueno, en el Eje está el meollo del comercio. Todo lo que no encuentres aquí, podrás encontrarlo en el Eje. Pero no sé si es un sitio seguro actualmente, con todas las cosas raras que están pasando.}
 {258}{Kill79}{¿Arenas Sombrías? Es un lugar pequeño al norte. Me gustaría comerciar más con ellos.}
-{259}{Kill80}{Esa ciudad está muerta. Mandé dos patrullas allí abajo, y ninguna regresó.}
+{259}{Kill80}{Esa ciudad está muerta. Mandé dos patrullas allí abajo y ninguna regresó.}
 {260}{Kill81}{Bueno, los hay de dos clases, los Khans y los Víboras. Los Víboras no suelen dar problemas, algunos incluso se pasan por la ciudad. Sin embargo los Khans son una panda de indeseables. Se creen que pueden conquistar el mundo, o una chorrada de esas.}
 {261}{Kill82}{¿Dónde has estado los últimos 100 años? ¿En un armario? Mi padre me solía contar historias de la Guerra. Su padre era un soldado antes de empezar Ciudad Vertedero.}
 {262}{Kill83}{Bueno, del Eje llegan algunos rumores. Caravanas que desaparecen, gente asesinada, incluso se habla de grandes monstruos verdes que comen carne humana. Cosas muy raras...}
-{263}{Kill84}{No, nunca he oído nada semejante.}
+{263}{Kill84}{No, nunca he oído nada parecido.}
 {264}{Kill85}{Ni idea.}
 {265}{Kill86}{Ohhh... no sabría decirte.}
-{266}{Kill87}{Habla con Lars. Él te contará más.}
+{266}{Kill87}{Vete a hablar con Lars. Él te contará más.}
 {267}{}{[Hecho]}
 {268}{}{[Más]}
 {269}{}{Ganas 600 puntos de experiencia por participar en el asesinato de Killian. Ciudad Vertedero nunca será la misma.}
@@ -183,19 +183,10 @@
 {282}{}{Lo miraré yo solo, gracias.}
 {283}{}{No importa. Gracias.}
 {284}{}{Se la jugaste a Gizmo sin pruebas. Sabes, él no era un angelito, pero tampoco lo eres tú. Ve a ver a Lars.}
-
-
-# Killian Tell-Me-Abouts generic responses
 {980}{Kill84}{No, nunca he oído nada parecido.}
 {981}{Kill85}{Ni idea.}
 {982}{Kill86}{Ohhh... no sabría decirte.}
 {983}{Kill87}{Vete a hablar con Lars. Él te contará más.}
-
-#
-# Killian Tell-Me-Abouts
-#
-
-
 {1000}{}{Gizmo}
 {1001}{}{Killian}
 {1002}{}{Lars}
@@ -204,12 +195,12 @@
 {1005}{}{Kalaveras}
 {1006}{}{Khans}
 {1007}{}{Víboras}
-{1008}{}{Darkwater}
+{1008}{}{Darkwater's}
 {1009}{}{Posada}
 {1010}{}{Gizmo}
 {1011}{}{Común}
 {1012}{}{Catedral}
-{1013}{}{Garras}
+{1013}{}{Garra}
 {1014}{}{Eje}
 {1015}{}{Arenas}
 {1016}{}{Necrópolis}
@@ -219,11 +210,10 @@
 {1020}{}{Darkwater}
 {1021}{}{Mórbid}
 {1022}{}{Darkwaters}
-{1023}{}{Gizmos}
+{1023}{}{Gizmo}
 {1024}{}{Fosa}
 {1025}{}{Sombrías}
 {1026}{}{fosa}
-
 {1100}{Kill65}{Gizmo es propietario del Casino del lado este. Le puso su nombre. Ten cuidado con él.}
 {1101}{Kill66}{Bueno, ese soy yo. ¿En qué piensas?}
 {1102}{Kill67}{Oh, Lars es el jefe de los guardias aquí. Es un buen tipo. Un hombre de confianza.}
@@ -234,7 +224,7 @@
 {1107}{Kill72}{Los Víboras son una cuadrilla de chiflados del norte. Veneran serpientes, o algo por el estilo.}
 {1108}{Kill73}{Esa es mi tienda. Lo que necesites, yo lo tengo.}
 {1109}{Kill74}{Un buen sitio para alquilar una habitación a buen precio. Y no demasiado sucia. Pero no cabrees a la dueña, Marcelles, te arrancará las tripas si la chuleas.}
-{1110}{Kill75}{Ah, lo de Gizmo es el Casino de la entrada. Me sorprende que no te fijases cuando llegaste. Se suele oler a kilómetros de distancia. Pero oye, atrae a los turistas...}
+{1110}{Kill75}{Ah, lo de Gizmo es el Casino de la entrada. Me sorprende que no te fijases cuando llegaste. Se suele oler a kilómetros de distancia. Pero bueno, atrae a los turistas...}
 {1111}{Kill76}{Es nuestro bar de residentes. La comida no está mal, pero la cerveza está genial. El dueño, Neal, no aguanta insolencias, ni siquiera a los saqueadores que entran.}
 {1112}{Kill76a}{No hay mucho que contar. Doc Mórbid está cabreado porque los precios de sus consultas médicas son más bajos. Están en el lado este.}
 {1113}{Kill77}{¿La Garra Mortal? Oh, no es más que un cuento. Dicen que bebe sangre y aúlla a la luna llena... ¡Menuda broma!}

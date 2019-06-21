@@ -23,7 +23,7 @@
 {122}{}{He oído que el Padre Morfeo ha recibido una visita del Maestro. Ahora está muy contento.}
 {123}{}{¿Algo más?}
 {124}{}{Supongo.}
-{125}{}{Ahora no.}
+{125}{}{Ahora mismo no.}
 {126}{}{¿Es bonita la flor?}
 {127}{}{¡Aparta esa mierda de mi vista, pequeña rata!}
 {128}{}{El Padre Fustigador dice que he de tener mi bocaza cerrada. ¡Habla en serio!}
@@ -96,7 +96,7 @@
 {196}{}{¿Qué tipo de descerebrado eres? ¡Cuando crezcas te convertirás en uno de esos zombis! ¡Debería matarte ahora!}
 {197}{}{Regalo flores. Cada pétalo simboliza la paz, y el tallo es la unidad. ¿O es al revés? Oh no, ¡no me acuerdo! ¿Quieres una?}
 {198}{}{Cogeré una si me cuentas lo que sucede aquí.}
-{199}{}{Por supuesto.}
+{199}{}{Claro.}
 {200}{}{No, gracias.}
 {201}{}{Maldita paz. Maldita unidad. ¡Aparta de mí esta flor!}
 {202}{}{El Padre Fustigador dice que no debo hablar con extraños... hasta que alcancemos la unidad, por supuesto; entonces no habrá extraños. ¡Adiós!}
@@ -107,4 +107,3 @@
 {207}{}{¡Deja de lamentarte, pequeña rata, y agradece que alguien se moleste en enseñarte!}
 {208}{}{¡Nunca lo hago lo suficientemente bien!}
 {209}{}{[Hecho]}
-#

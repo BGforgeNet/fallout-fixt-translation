@@ -1,7 +1,7 @@
 {100}{}{Ves: un explorador Nocturno.}
 {101}{}{¿Qué tenemos aquí? ¡Un normal! Creo que te vienes conmigo.}
 {102}{}{Eh.}
-{103}{}{Vales.}
+{103}{}{Vale.}
 {104}{}{¿Y por qué debería hacerlo?}
 {105}{}{¡Lo dudo mucho! (Atacas)}
 {106}{}{Es muy sencillo: si vienes conmigo, te ayudaré.}

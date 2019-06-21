@@ -3,12 +3,12 @@
 {102}{}{¡Tú! ¡He oído hablar de ti! ¡Matas a la gente y te la comes! ¡Madre Jain! ¡Madre Jain! ¡Ayúdame!}
 {103}{}{¿Quiere una flor, señor?}
 {104}{}{¿Quiere una flor, señora?}
-{105}{}{Vacío}
+{105}{}{Vacío }
 {106}{}{¿Qué tiene de especial este lugar?}
-{107}{}{¿Qué tiene de especial esa flor?}
+{107}{}{¿Qué tiene esta flor de especial?}
 {108}{}{¿Qué quieres decir, chico?}
 {109}{}{¡Claro, chico!}
-{110}{}{No gracias.}
+{110}{}{No, gracias.}
 {111}{}{Claro. ¡Quizás me guste pisotearla!}
 {112}{}{*snif snif* ¡Huele bien!}
 {113}{}{*snif snif* ¡Huele fatal!}
@@ -43,15 +43,15 @@
 {142}{}{Háblame de la Catedral...}
 {143}{}{Háblame de la Llama Sagrada...}
 {144}{}{¡Claro, chico!}
-{145}{}{No gracias.}
+{145}{}{No, gracias.}
 {146}{}{Te lo demostraré, pequeño tonto...}
 {147}{}{Éste es el fuego que limpió el mundo y, si le obedecemos, ¡no lo hará otra vez! ¡Quiere que seamos listos y pacíficos y que estemos unidos y todo el rollo de siempre! Bueno, ¿quieres una flor?}
 {148}{}{Háblame de esta Unidad...}
 {149}{}{¡Claro, chico!}
-{150}{}{No gracias.}
-{151}{}{¡Ya vale con esa maldita flor!}
+{150}{}{No, gracias.}
+{151}{}{¡Basta ya con la maldita flor!}
 {152}{}{Es un lugar maravilloso cerca del mar donde la gente pasa el tiempo rezándole a la Llama Sagrada y siendo buena. ¿Y todos son buenos excepto el Padre Fustigador? Oh... ¿quieres una flor?}
 {153}{}{Háblame del Padre Fustigador...}
 {154}{}{¡Claro, chico!}
-{155}{}{No gracias.}
+{155}{}{No, gracias.}
 {156}{}{¡Basta ya con la maldita flor!}

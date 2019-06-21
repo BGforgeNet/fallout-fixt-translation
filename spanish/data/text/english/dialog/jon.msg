@@ -4,9 +4,9 @@
 {103}{}{Nada.}
 {104}{}{Fluup.}
 {105}{}{Debería... ¿Has tratado alguna vez con una banda de asesinos viciosos?}
-{106}{}{No hace falta que me lo cuentes. Me imagino que tienes un problema con las bandas.}
+{106}{}{No hace falta que me lo cuentes. Ya sé que tienes un problema con las bandas.}
 {107}{}{¿Qué pasa aquí? ¿Hay algún lugar en el yermo que no tenga problemas con las bandas?}
-{108}{}{He hecho tratos con algunas.}
+{108}{}{He tratado con algunos.}
 {109}{}{Uh... ¿Alguna vez has tratado con bandas?}
 {110}{}{He tratado con algunas.}
 {111}{}{¿Qué te pasa, anciano? Ya te dije que sí, ¿no?}
@@ -75,11 +75,11 @@
 {174}{}{¡Bastardo! ¡Has traído la mala suerte a nuestra casa!}
 {175}{}{Estás viendo a un hombre de mediana edad con ropa de calle.}
 {176}{}{Ves: a Jon Zimmerman, alcalde de Adytum.}
-{177}{}{Sí, ¿qué quieres?}
+{177}{}{Sí. ¿Qué quieres?}
 {178}{}{Sé algo de tu hijo que te podría interesar.}
 {179}{}{No importa.}
 {180}{}{Blorb.}
-{181}{}{¿Quién eres tú?}
+{181}{}{¿Quién eres?}
 {182}{}{Soy Jon Zimmerman, alcalde de Adytum. ¿Qué te pasa?}
 {183}{}{Hola.}
 {184}{}{Me alegra verte.}

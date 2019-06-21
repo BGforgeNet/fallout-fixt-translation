@@ -3,7 +3,7 @@
 {102}{}{¡Fuera de mi vista!}
 {103}{}{¿Qué quieres?}
 {104}{}{Háblame de tu trabajo.}
-{105}{}{¿Qué ocurre aquí?}
+{105}{}{¿De qué va este sitio?}
 {106}{}{¿Sabes dónde puedo encontrar un Chip de Agua?}
 {107}{}{¿Qué me puedes contar de un tipo llamado Decker?}
 {108}{}{Vaya arma que tienes ahí...}
@@ -23,7 +23,7 @@
 {122}{}{¿Un Chip de Agua? ¿Te refieres a los chips de hielo? Supongo que arriba en las montañas.}
 {123}{}{No, me refiero a un chip informático para controlar el sistema de purificación del agua.}
 {124}{}{No me refiero a ese tipo de chips, ¡idiota!}
-{125}{}{Oh, muchas gracias.}
+{125}{}{Eh, gracias. Creo.}
 {126}{}{¿Has estado alguna vez en las montañas?}
 {127}{}{Sí, he oído hablar de él. Es un cabrón pero paga sus deudas. Phillips estuvo trabajando un tiempo para él.}
 {128}{}{¿Piensas que es un capullo?}
@@ -49,7 +49,7 @@
 {148}{}{No lo sé. Te diré una cosa, digas lo que digas respecto a la religión, son profesionales. Vinieron y organizaron este lugar que va sobre ruedas. No se trata de otra banda más de zombis descerebrados.}
 {149}{}{¡Vaya! ¡Pensaba que solo los Refugios utilizaban esa basura!}
 {150}{}{Cuidado con lo que dices, gilipollas. Puede que esta gente quiera vivir en armonía y amor, ¡pero yo no!}
-{151}{}{No hay problema.}
+{151}{}{Vale.}
 {152}{}{No. Cuanto más alto escalas, mayor es la radiación.}
 {153}{}{Ah, si te gustan los bastardos psicóticos e inhumanos, él es tu hombre ideal.}
 {154}{}{Mi compañero. El hombre que vigila a Jain.}

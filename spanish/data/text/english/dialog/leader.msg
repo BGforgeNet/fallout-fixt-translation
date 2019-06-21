@@ -94,21 +94,14 @@
 {194}{}{¡No tienes nada que temer de nosotros!}
 {195}{}{Hablaré contigo antes de que te marches.}
 {196}{}{No me dejas alternativa. He de detenerte yo mismo.}
-{200}{}{Suerte entonces.}
+{200}{}{Mala suerte.}
 {201}{}{¿No se puede reparar la bomba de agua?}
 {202}{}{Lo siento, pero mi gente necesita el chip para sobrevivir.}
 {203}{}{Por favor, no te lleves nuestro chip. Sin él, moriremos.}
 {204}{}{Puede, pero las piezas se han perdido en las alcantarillas que hay bajo el Almacén de Agua. Con todos esos monstruos rondando por ahí, no podemos recuperarlas.}
 {205}{}{Lo siento, ojalá pudiera ayudarte.}
 {206}{}{Encontraré las piezas.}
-#
-#  by Sduibek for Fallout Fixt:
-#
 {300}{}{Ves: al Líder Subterráneo.}
-
-
-############ Tell Me Abouts
-
 {1000}{}{Set}
 {1001}{}{Maestro}
 {1002}{}{Agua}
@@ -116,7 +109,6 @@
 {1004}{}{Sala}
 {1005}{}{Necrópolis}
 {1006}{}{Chip}
-
 {1100}{}{Intenta controlar Necrópolis y nos ha obligado a vivir bajo tierra.}
 {1101}{}{Tiene algo que ver con los Mutantes. No sé mucho más.}
 {1102}{}{Sacamos el agua del lugar situado debajo del Almacén de Agua. Puede que tenga algo que ver con eso.}
@@ -124,4 +116,3 @@
 {1104}{}{La casa de Set, también recibe el nombre de palacio.}
 {1105}{}{La Ciudad de los Muertos, donde querríamos vivir en paz, si Set o los Mutantes nos dejaran.}
 {1106}{}{Sacamos el agua del lugar situado debajo del Almacén de Agua. Puede que tenga algo que ver con eso.}
-

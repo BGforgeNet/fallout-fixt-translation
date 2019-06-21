@@ -1,5 +1,5 @@
 {100}{}{Comando, aquí la Casa de Guardia. Todo claro. Corto.}
-{101}{}{¡Muérete!}
+{101}{}{¡Muerte para ti!}
 {102}{}{¡Intrusos!}
 {103}{}{¡Hu-ma-no!}
 {104}{}{Alto. Ésta es una zona prohibida. No deberías estar aquí.}
@@ -17,13 +17,12 @@
 {116}{}{Vale. Vámonos.}
 {117}{}{¿Graciosillo? ¡No te va a parecer tan gracioso cuando te empapele!}
 {118}{}{No te creo.}
-{119}{}{Yo no lo creo.}
+{119}{}{No lo creo.}
 {120}{}{No. Tú, humano. Muere.}
 {121}{}{Si mientes, te mato.}
 {122}{}{Oh, vale. Lárgate de aquí.}
 {123}{}{Uh, bueno. Imagino que sí. Quizás sea mejor que veas al Teniente.}
 {124}{}{Mataste a mi hermano. ¡Me vengaré!}
-{125}{}{¡Muerte a ellos!}
+{125}{}{¡Muerte para ti!}
 {126}{}{¡Asesino!}
 {127}{}{¡Asesina!}
-

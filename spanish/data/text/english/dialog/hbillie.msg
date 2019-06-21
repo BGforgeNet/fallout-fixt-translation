@@ -2,9 +2,9 @@
 {101}{}{¡Oye! ¡Deja eso en paz!}
 {102}{}{Hola}
 {103}{}{Hola, ¿qué haces?}
-{104}{}{¿Puedo llevarme un brahmin?}
+{104}{}{¿Puedo coger un brahmin?}
 {105}{}{Hola. Eh, adiós.}
-{106}{}{¡Ah!}
+{106}{}{¡Arg!}
 {107}{}{Ta.}
 {108}{}{¿Para qué quieres un brahmin? ¿Tienes una caravana? Bueno, no importa. Solo me encargo de cuidarlos. Dan es el dueño pero no los venderá.}
 {109}{}{¿Por qué?}
@@ -48,9 +48,7 @@
 {147}{}{Vale.}
 {148}{}{Sí, puede que tengas razón. Ahora parece excelente, pero me gustaría que no me gritara tanto.}
 {149}{}{Sí, claro.}
-# said to male player
 {150}{}{¡Viejo cretino!}
-# said to female player
 {151}{}{¡Vieja arpía!}
 {152}{}{¡Guau! Puedo vivir de esto toda mi vida. ¡Muchísimas gracias, señor!}
 {153}{}{¡Guau! Puedo vivir de esto toda mi vida. ¡Muchísimas gracias, señora!}
@@ -61,7 +59,7 @@
 {158}{}{Bah.}
 {159}{}{¡Hola!}
 {160}{}{Esas niñas de ahí parecen tontas.}
-{161}{}{Hola de nuevo.}
+{161}{}{Hola otra vez.}
 {162}{}{Los brahmines son geniales.}
 {163}{}{Dan me llevará al Halcón si hago un buen trabajo.}
 {164}{}{Dan me llevará en una caravana algún día.}
@@ -75,7 +73,7 @@
 {172}{}{Ta.}
 {173}{}{Será mejor que vuelva a trabajar.}
 {174}{}{Esas niñas de ahí parecen tontas.}
-{175}{}{Hola de nuevo.}
+{175}{}{Hola otra vez.}
 {176}{}{Cuando sea mayor seré aventurero.}
 {177}{}{Claro que los brahmines cag... uh, hacen mucha cacota.}
 {178}{}{Ahora no puedo hablar.}

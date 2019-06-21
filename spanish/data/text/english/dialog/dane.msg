@@ -28,7 +28,6 @@
 {127}{}{También lo son los pingüinos. Y el giro búfalo. Los disparan con armas de caza mayor. Tienes que vigilar a las mujeres de los búfalos. Te soltarán un bisonte cuando menos te lo esperes, ¡y no sabrás qué te golpeó! ¡Ja!}
 {128}{}{¿No te conozco de algún sitio? ¿También te duele el cerebro?}
 {129}{}{Por supuesto que lo conoces, Dane, ¡idiota! ¡Es nuestro enemigo! ¡Debe ser destruido!}
-{529}{}{Por supuesto que la conoces, Dane, ¡idiota! ¡Es nuestra enemiga! ¡Debe ser destruida!}
 {130}{}{No le hagas caso, es un necio. Te quiero. ¿Tú me quieres?}
 {131}{}{Solía vivir en Penticton, en la Columbia Británica. O quizás lo haya visto en un mapa antiguo. Esos sí que fueron buenos tiempos. Ojalá hubiese vivido entonces...}
 {132}{}{¿No estás cansado de hablar conmigo? ¿No ha sido increíblemente aburrido?}
@@ -64,7 +63,7 @@
 {162}{}{Creo que ya puedo contestar algunas preguntas. Siento haber tardado tanto.}
 {163}{}{¿Para qué se utiliza este lugar?}
 {164}{}{Háblame de los Nocturnos.}
-{165}{}{¿Qué es lo que pasa aquí?}
+{165}{}{¿Qué está pasando aquí?}
 {166}{}{¿Qué te hicieron?}
 {167}{}{¿Quién es el Maestro?}
 {168}{}{¿Quieres morir? Puedo sacarte de la miseria.}
@@ -74,7 +73,7 @@
 {172}{}{El cuerpo de John Brown se está descomponiendo en la Tumba. El cuerpo de John Brown se está descomponiendo en la Tumba, el cuerpo de John Brown se está descomponiendo en la Tumba y el Maestro se está mosqueando con nosotrosssss...}
 {173}{}{Para eso. Es bastante difícil mantenerse entero, no puedo controlarme.}
 {174}{}{Háblame de los Nocturnos.}
-{175}{}{¿Qué está pasando por aquí?}
+{175}{}{¿Qué está pasando aquí?}
 {176}{}{¿Qué te hicieron?}
 {177}{}{¿Quién es el Maestro?}
 {178}{}{¿Quieres morir? Puedo sacarte de la miseria.}
@@ -85,7 +84,7 @@
 {183}{}{¿Conoces toda esa basura de la paz y la unidad? Para el Maestro no es tal basura. ¡Él piensa realmente que está salvando al mundo!}
 {184}{}{¡Estéril! ¡Todos seremos seres asquerosos y estériles! ¡Estériles! ¡Estériles! ¡Estériles! ¡No me llamo Errol! ¡Estériles!}
 {185}{}{Háblame de los Nocturnos.}
-{186}{}{¿Qué pasa aquí?}
+{186}{}{¿Qué está pasando aquí?}
 {187}{}{¿Qué te hicieron?}
 {188}{}{¿Quién es el Maestro?}
 {189}{}{¿Quieres morir? Puedo sacarte de la miseria.}
@@ -101,7 +100,7 @@
 {199}{}{Me hice mucho daño.}
 {200}{}{¿Para qué se utiliza este lugar?}
 {201}{}{Háblame de los Nocturnos.}
-{202}{}{¿Qué pasa aquí?}
+{202}{}{¿Qué está pasando aquí?}
 {203}{}{¿Quién es el Maestro?}
 {204}{}{¿Quieres morir? Puedo sacarte de la miseria.}
 {205}{}{¡Pareces estúpido!}
@@ -110,7 +109,7 @@
 {208}{}{¡Él es el Hombre! ¡El Hombre que tiene el Plan! ¡Él hace los planes porque nos ama! Y si el mundo se cruza en su camino, ¡se lo carga! ¡Porque eso es el amor!}
 {209}{}{¿Para qué se utiliza este lugar?}
 {210}{}{Háblame de los Nocturnos.}
-{211}{}{¿Qué pasa aquí?}
+{211}{}{¿Qué está pasando aquí?}
 {212}{}{¿Qué te hicieron?}
 {213}{}{¿Quieres morir? Puedo sacarte de la miseria.}
 {214}{}{¡Pareces estúpido!}
@@ -122,3 +121,4 @@
 {220}{}{¡Ajá! ¡Ja! ¡Ja! ¡Ja! ¡Ja! ¡Tienes toda la razón! ¡Todos somos estúpidos! ¿No lo has cogido? ¡Ja! ¡Ja! ¡Ja!}
 {221}{}{Ahora estoy un poco amargado. Como un té de naranja amarga bajo la lluvia. ¡Ja! ¡Me encanta decir eso! ¡Creo que lo repetiré! Ahora estoy un poco amargado. Como un té de naranja amarga bajo la lluvia...}
 {222}{}{[Más]}
+{529}{}{Por supuesto que la conoces, Dane, ¡idiota! ¡Es nuestra enemiga! ¡Debe ser destruida!}

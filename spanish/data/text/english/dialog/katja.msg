@@ -1,10 +1,6 @@
 {100}{}{Estás viendo a una muchacha joven y delgada con la cara manchada y ropa oscura.}
 {101}{}{Ves: a Katja, la ladrona.}
 {102}{}{No eres de por aquí, ¿verdad? ¿Cómo te llamas?}
-
-# TRANSLATION NOTE
-# The player-character's name is inserted between lines 103 and 104 by the code.
-
 {103}{}{Mi nombre es }
 {104}{}{.}
 {105}{}{Soy un viajero.}
@@ -33,10 +29,10 @@
 {128}{}{Estoy buscando un chip de purificación de agua.}
 {129}{}{Necesito más información sobre el Cementerio de LA.}
 {130}{}{Necesito información sobre las zonas alrededor de la ciudad.}
-{131}{}{¿Qué puedes contarme sobre los Navajas?}
+{131}{}{¿Qué puedes decirme de los Navajas?}
 {132}{}{¿Qué puedes contarme sobre los Destripadores?}
 {133}{}{¿Qué puedes contarme sobre los Pistoleros?}
-{134}{}{¿Qué puedes contarme sobre los Seguidores?}
+{134}{}{¿Qué puedes contarme de los Seguidores?}
 {135}{}{¿Qué puedes contarme sobre Adytum?}
 {136}{}{Bueno, ha sido una charla agradable pero tengo que irme.}
 {137}{}{Miles vive en Adytum. Es científico y se dedica sobre todo a la química. Si alguien puede conseguir un Chip de Agua o un repuesto, ése es él.}
@@ -94,15 +90,9 @@
 {189}{}{¡Hubba hubba!}
 {190}{}{¡Vete!}
 {191}{}{Los siento pero no te comprendo. Adiós.}
-
-#
-# Katja Tell-Me-Abouts
-#
-
-{980}{}{No sé nada de eso.}
+{980}{}{No sé nada sobre eso.}
 {981}{}{No puedo decir que me haya enterado de eso.}
 {982}{}{No, no he escuchado nada de eso.}
-
 {1000}{}{Agua}
 {1001}{}{Cementerio}
 {1002}{}{Guerra}
@@ -116,23 +106,23 @@
 {1010}{}{Set}
 {1011}{}{Almacén de Agua}
 {1012}{}{Necrópolis}
-{1013}{}{Entrada}
+{1013}{}{Sala}
 {1014}{}{Biblioteca}
 {1015}{}{Supervisor}
 {1016}{}{Médico}
 {1017}{}{Curación}
 {1018}{}{Refugio}
-{1019}{}{Refugio13}
+{1019}{}{Refugio 13}
 {1020}{}{Refugio 13}
 {1021}{}{Killian}
 {1022}{}{Gizmo}
 {1023}{}{Ciudad Vertedero}
-{1024}{}{Sombrías}
-{1025}{}{Arenas}
+{1024}{}{Arenas}
+{1025}{}{Sombrías}
 {1026}{}{Eje}
 {1027}{}{Casino}
 {1028}{}{Almacén}
-{1029}{}{Garras Mortales}
+{1029}{}{Garra Mortal}
 {1030}{}{Éxodo}
 {1031}{}{Iniciados}
 {1032}{}{Paladines}
@@ -140,7 +130,7 @@
 {1034}{}{Niños}
 {1036}{}{Hermandad}
 {1037}{}{Tanques}
-{1038}{}{Militar}
+{1038}{}{Ejército}
 {1039}{}{Base}
 {1041}{}{Apocalipsis}
 {1042}{}{Mutantes}
@@ -152,7 +142,7 @@
 {1048}{}{Gwen}
 {1049}{}{Petrox}
 {1050}{}{Tolya}
-{1051}{}{Bebida}
+{1051}{}{Bebidas}
 {1052}{}{Drogas}
 {1053}{}{Seth}
 {1054}{}{Aradesh}
@@ -163,11 +153,10 @@
 {1059}{}{Navajas}
 {1060}{}{Nicole}
 {1061}{}{Teniente}
-{1062}{}{Médiums}
+{1062}{}{Psíquicos}
 {1063}{}{Experimentos}
 {1064}{}{Policía}
 {1065}{}{Mercaderes}
-
 {1100}{}{No sé dónde podrás encontrar esa reliquia de la vieja tecnología.}
 {1101}{}{El Cementerio de los Ángeles es lo que queda de la antigua ciudad de Los Ángeles. Actualmente está dividida en facciones guerreras.}
 {1102}{}{La guerra provocó la miseria y la muerte en todo el mundo. Espero que nada parecido vuelva a suceder. Aunque, por lo visto, no hay mucha esperanza para la humanidad.}
@@ -217,11 +206,11 @@
 {1148}{}{No sé más que tú sobre eso.}
 {1149}{}{No sé más que tú sobre eso.}
 {1150}{}{No sé más que tú sobre eso.}
-{1151}{}{No gracias.}
+{1151}{}{No, gracias.}
 {1152}{}{Ugh. Preferiría que no. Una vez vi a un amigo morir de una sobredosis de Psycho. No fue muy agradable.}
 {1153}{}{No sé más que tú sobre eso.}
 {1154}{}{No sé más que tú sobre eso.}
-{1155}{}{No sé nada más que tú sobre eso.}
+{1155}{}{No sé más que tú sobre eso.}
 {1156}{}{Es el alcalde de Adytum. Es un hombre justo, aunque algo vacilante.}
 {1157}{}{Vigilan Adytum y lo mantienen bajo control.}
 {1158}{}{Era un carroñero. Salía por las noches e intentaba encontrar cosas interesantes en las ruinas del Cementerio de LA. Un trabajo muy peligroso. Me harté de Adytum.}
@@ -232,9 +221,6 @@
 {1163}{}{No sé más que tú sobre eso.}
 {1164}{}{No sé más que tú sobre eso.}
 {1165}{}{A veces los mercaderes comercian con Adytum y también venden a los Pistoleros.}
-
-# for TeamX's NPC Mod:
-
 {1999}{}{¡Me estoy volviendo muy buena en esto!}
 {2000}{}{Vamos a hablar de nuestras tácticas de combate.}
 {2001}{}{Te escucho.}
@@ -245,9 +231,5 @@
 {2014}{}{Elige la distancia de combate por tu cuenta.}
 {2015}{}{Eso es todo por ahora.}
 {2100}{}{Lo que tú digas.}
-
-# by Sduibek, for more realistic display of her name upon look/examine,
-#  otherwise player magically knows she's named Katja even if she never told you her name.
-
 {2200}{}{De acuerdo, ¡parece que vamos a patear unos cuantos culos! Por cierto, me llamo Katja.}
 {2201}{}{Ves: a Katja.}

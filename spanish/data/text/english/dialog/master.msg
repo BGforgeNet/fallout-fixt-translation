@@ -4,7 +4,7 @@
 {103}{}{Si me demuestras que vuestra Unidad es el mejor curso que puede tomar la humanidad, os ayudaré.}
 {104}{}{¿Qué tal si tú mueres y yo me largo?}
 {105}{}{Oh, alguien va a morir hoy, pero no seré yo. Tengo un plan.}
-{106}{}{Umgh... qué?}## "Ugh. Lee."
+{106}{}{Umgh... qué?}
 {107}{Mast01}{Magnífico. Tu talento nos será útil. Pero, antes, debes contármelo todo sobre tu Refugio.}
 {108}{}{¿Por qué?}
 {109}{}{Vale. Te contaré todo lo que quieras saber.}
@@ -67,7 +67,7 @@
 {166}{}{Mejor estar muerto que ser como tú.}
 {167}{}{Supone abandonar todo lo que conozco, pero me uniré.}
 {168}{Mast27}{Tú humor no te salvará ahora. ¿Aceptas o no mi oferta? ¡Aceptas! ¡No aceptas!}
-{169}{}{No acepto.}
+{169}{}{No.}
 {170}{}{Vale, es mejor que morir...}
 {171}{Mast28}{La radiación no nos afecta. El Virus de Evolución Forzada nos hace inmunes. Tu argumento es débil, tú también.}
 {172}{Mast29}{Oh, creo que te equivocas. Pero, solo para asegurarme ordenaré que se investigue este asunto. Después de ocuparme de ti. Ocuparme. ¡Ocuparme!}
@@ -81,7 +81,7 @@
 {180}{}{Eres un cachorro enfermo. Es hora de acabar contigo.}
 {181}{}{Emm, no me gusta la idea de ser ejecutado. Me uno.}
 {182}{Mast33}{Somos todos unos interesados, ¿verdad? Nos preocupamos más de nuestras propias comunidades que de las otras personas. No hemos cambiado. Y te diré algo más...}
-{183}{}{¿El qué?}
+{183}{}{¿Qué es eso?}
 {184}{Mast34}{No cambiaremos. No hasta que no seamos un solo pueblo. Uno. Uno. Una raza. Una. Una. Una. La Unidad nos permitirá elevarnos sobre estas pequeñas preocupaciones y ocuparnos de los problemas mayores. Tú quieres formar parte de ello, ¿no? Parte. No.}
 {185}{}{Me has convencido. Entraré en la Unidad.}
 {186}{}{Quiero una parte de... ¡tu cabeza!}
@@ -115,18 +115,8 @@
 {214}{Mast202}{¡Una vez sepa la ubicación de tu Refugio, completaré mi destino! ¡Destino! ¡Destino! ¡Destino!}
 {215}{Mast203}{¿¡Piensas que puedes destruirme!? ¡Destruirme! ¿A mí?}
 {300}{}{¡Bah!}
-
-
-# Master Tell-Me-Abouts generic response
 {980}{Mast200}{Soy el Maestro. No tengo por qué responderte.}
-
-#
-# Master Tell-Me-Abouts
-#
-
-
 {1000}{}{Unidad}
 {1001}{}{Maestro}
-
 {1100}{Mast200}{Soy el Maestro. No tengo por qué responderte.}
 {1101}{Mast201}{No estoy aquí para responder a tus preguntas. Tú estás aquí para responder a las mías.}

@@ -80,7 +80,7 @@
 {179}{}{Pero quiero a alguien que sepa lo que está ocurriendo.}
 {180}{}{No, gracias. Pero no me importaría que fuésemos amigos.}
 {181}{}{Piérdete, basura humana.}
-{182}{}{Seguro.}
+{182}{}{Claro.}
 {183}{}{La vida ES más corta de lo que crees. ¡Muere, gilipollas!}
 {184}{}{No soy PEQUEÑO, ¡zorra!}
 {185}{}{¿Quién se cree ese cuento chino? Tienen que programar a esos borregos para que se crean toda esa historia.}

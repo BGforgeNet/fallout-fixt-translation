@@ -1,4 +1,4 @@
-{100}{}{Ves: a Hermano Thomas.}
+{100}{}{Ves: al Hermano Thomas.}
 {101}{}{Hola. Debes ser el nuevo Iniciado del que me habló Talus. Es demasiado tarde para una visita de compromiso, ¿qué puedo hacer por ti?}
 {102}{}{Necesito algunas cosas.}
 {103}{}{Necesito entrenarme.}

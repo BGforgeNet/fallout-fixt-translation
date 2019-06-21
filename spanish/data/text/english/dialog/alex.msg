@@ -1,6 +1,4 @@
 {100}{}{Ves: a Alex, el guardia nocturno Regulador.}
-# TRANSLATION NOTE
-# The player-character's name is inserted after line 101.
 {101}{}{Vamos entra, }
 {102}{}{Lo siento, no puedo dejarte entrar. Vuelve por la mañana.}
 {103}{}{¡Alto! ¿Quién está ahí?}

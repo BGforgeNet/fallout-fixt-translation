@@ -19,17 +19,17 @@
 {118}{}{Suplico su perdón, señora. ¿Cómo puedo ayudar?}
 {119}{}{O me hablas respetuosamente la próxima vez, ¡o no volverás a hablar con nadie!}
 {120}{}{La verdad del Maestro se ha impuesto, resultando en una mayor capacidad psíquica. [Sacude la cabeza] Pero las almas pobres acaban enloqueciendo y deben ser separadas y nulificadas para que no se dañen a sí mismas o a otras.}
-{121}{}{Oh, qué considerado por tu parte.}
+{121}{}{Oh, qué considerado por tu parte...}
 {122}{}{¿Dónde se conservan?}
 {123}{}{¡Carnicero despiadado! ¡Creo que nulificaré tu cerebro y lo separaré del resto de tu cuerpo! ¡Muere, bastardo!}
 {124}{}{En una habitación al noroeste de aquí. ¿Puedo ayudarte en algo más?}
 {125}{}{Gracias por tu ayuda. Adiós.}
 {126}{}{Sí, eh, ¿qué es el VEF?}
-{127}{}{¡Muere!}
+{127}{}{¡Puedes morir!}
 {128}{}{¡No tengo tiempo para tus payasadas!}
 {129}{}{¡Vaya una idea más intrigante! ¡Debo probarlo inmediatamente!}
 {130}{}{Eh, ¿dónde guardáis los experimentos fracasados?}
-{131}{}{Ni lo menciones.}
+{131}{}{No lo menciones.}
 {132}{}{¡Sí! ¡Probemos contigo!}
 {133}{}{¡Vincent! ¡Prepara a nuestro próximo voluntario!}
 {134}{}{¿Qué? ¡Es la cosa más absurda que he oído en mi vida! [Te mira con desconfianza] ¿Quién eres de verdad?}

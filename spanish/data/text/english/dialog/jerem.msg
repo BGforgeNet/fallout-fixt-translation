@@ -17,7 +17,7 @@
 {116}{}{Discúlpame. ¿Cómo puedo servir de ayuda?}
 {117}{}{¿Qué haces?}
 {118}{}{Puedes empezar contestando a mi pregunta.}
-{119}{}{¡Muere!}
+{119}{}{¡Puedes morir!}
 {120}{}{¡¡¡Guardias!!!}
 {121}{}{Es obvio que no eres de aquí. ¿Quién eres?}
 {122}{}{La verdad es que soy un Morador del Refugio y me gustaría hablar con el Maestro.}
@@ -25,7 +25,7 @@
 {124}{}{Soy Loki. Un Iniciado del sur.}
 {125}{}{No, no pertenezco a este lugar. Pero sé dónde encaja esta bala... en tu cabeza.}
 {126}{}{Me encargo de llevar los informes sobre la pureza humana por estos alrededores. Pero eso ya deberías saberlo [Mirando con cara de sospecha.] ¿Quién eres?}
-{127}{}{Morfeo me envió aquí con un mensaje para el Maestro.}
+{127}{}{Morfeo me envió con un mensaje para el Maestro.}
 {128}{}{No es asunto tuyo quién soy... ¡sólo contesta a mis preguntas!}
 {129}{}{No debes saber quién soy. Ése es el deseo del Maestro.}
 {130}{}{¿Dudas de mi identidad? Idiota, debería liquidarte ahí mismo.}
@@ -47,7 +47,7 @@
 {146}{}{¡Tú idiota! No puedes estar aquí. ¡Vuelve a la Catedral ahora mismo!}
 {147}{}{Vale.}
 {148}{}{Hunh.}
-{149}{}{Nah.}
+{149}{}{No.}
 {150}{}{Me encargo de transmitir informes para el Maestro. Eso es todo lo que necesitas saber, hijo mío. Ahora debes irte.}
 {151}{}{Me iré ahora.}
 {152}{}{Solo me gustaría hacerte algunas preguntas más.}

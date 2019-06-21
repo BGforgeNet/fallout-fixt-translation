@@ -23,7 +23,7 @@
 {122}{}{¿De qué va este sitio?}
 {123}{}{¿Cuánto?}
 {124}{}{Adelante.}
-{125}{}{No gracias.}
+{125}{}{No, gracias.}
 {126}{}{¡Odio a los médicos!}
 {127}{}{¡Oooo! ¡Auuuuu!}
 {128}{}{¡¡¡Rarrrr!!!}
@@ -32,7 +32,7 @@
 {131}{}{Háblame de tu trabajo.}
 {132}{}{¿De qué va este sitio?}
 {133}{}{¿Cuánto?}
-{134}{}{No gracias.}
+{134}{}{No, gracias.}
 {135}{}{¡Odio a los médicos!}
 {136}{}{¡Oooo! ¡Auuuuu!}
 {137}{}{¡¡¡Rarrrr!!!}
@@ -55,7 +55,7 @@
 {154}{}{Es muy importante para mí saberlo.}
 {155}{}{¿Cuánto cobras?}
 {156}{}{Adelante.}
-{157}{}{No gracias.}
+{157}{}{No, gracias.}
 {158}{}{¡Odio a los médicos!}
 {159}{}{Soy un curandero, no un prestamista. La Catedral vela por mí, y yo velo por los demás. Ahora veamos esa herida, ¿eh?}
 {160}{}{Adelante.}
@@ -85,7 +85,7 @@
 {184}{}{¿Qué te está mosqueando tanto?}
 {185}{}{¡Me parece que no te has sabido concentrar en tu vida!}
 {186}{}{Adelante.}
-{187}{}{No gracias.}
+{187}{}{No, gracias.}
 {188}{}{¡Odio a los médicos!}
 {189}{}{La guerra y los tiempos difíciles han forjado siempre la paz y la unidad. Pero desafortunadamente, mis dones serán necesitados en los próximos días.}
 {190}{}{Háblame de la guerra.}

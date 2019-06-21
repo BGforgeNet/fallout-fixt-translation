@@ -1,7 +1,7 @@
 {100}{}{Ves: a Doc Mórbid.}
 {101}{}{Soy Doc Mórbid, ¿puedo ayudarte?}
 {102}{}{Sí, necesito ayuda.}
-{103}{}{Necesito asistencia médica.}
+{103}{}{Sí, necesito ayuda.}
 {104}{}{Hoy no.}
 {105}{}{No.}
 {106}{}{Sí.}
@@ -35,7 +35,7 @@
 {134}{}{Oh, has vuelto pronto. ¿En qué puedo ayudarte?}
 {135}{}{Necesito curarme.}
 {136}{}{Nada, solo quería charlar un rato.}
-{137}{}{¡Ahh!}
+{137}{}{¡Ayy!}
 {138}{}{Hazlo en otro sitio. Estoy muy ocupado.}
 {139}{}{Ummm. No me gusta tu aspecto, forastero. Pero, ¿en qué puedo ayudarte? No trato mal a los pacientes que pagan.}
 {140}{}{Necesito ayuda.}
@@ -44,11 +44,11 @@
 {143}{}{Ayuda.}
 {144}{}{Oh, Eres tú otra vez. Me gusta tu estilo, aunque no me gustas tú. ¿En qué puedo ayudarte?}
 {145}{}{Necesito curarme.}
-{146}{}{Nada, solo quería hablar un rato.}
+{146}{}{Nada, solo quería charlar un rato.}
 {147}{}{¡Ayy!}
 {148}{}{Oh, ¡es un paciente! ¿En qué puedo ayudarte?}
 {149}{}{Necesito curarme.}
-{150}{}{Nada, solo quería hablar un rato.}
+{150}{}{Nada, solo quería charlar un rato.}
 {151}{}{Pareces emocionado por verme. ¿Por qué?}
 {152}{}{¡Ayy!}
 {153}{}{Mi consulta ha ido a peor últimamente. Me alegra ver a un paciente en estos días tan duros. Además, aprecio tu compañía, por supuesto.}
@@ -65,17 +65,17 @@
 {164}{}{Necesito curarme.}
 {165}{}{Nada, solo quería charlar un rato.}
 {166}{}{¡Ayy!}
-{167}{}{Tú de nuevo. Espero que tengas un buen motivo para molestarme...}
+{167}{}{Espero que tengas una razón de peso para molestarme. Mi tiempo es muy valioso.}
 {168}{}{¡Me estoy muriendo! ¡Ayúdame!}
 {169}{}{Lamento molestarte, pero necesito ayuda.}
-{170}{}{¡Ay!}
-{171}{}{No me hace gracia tu tipo de humor. Vete y déjame volver a mi trabajo.}
-{172}{}{Umm. Bueno, a mí me pareces sano. Puede que necesites descansar. Prueba en la Posada, ahí en la esquina. Buenas noches.}
+{170}{}{¡Agh!}
+{171}{}{No me gusta tu tipo de humor. Vete y déjame volver a mi trabajo.}
+{172}{}{Umm. Bien, creo que estás sano. Puede que necesites descansar. Prueba en la Posada, ahí en la esquina. Buenas noches.}
 {173}{}{Lo siento, no atiendo a idiotas a estas horas de la noche. Supongo que será por la luna llena y la locura. Que duermas bien.}
 {174}{}{Tú de nuevo. Espero que tengas una razón de peso para molestarme...}
 {175}{}{¡Me estoy muriendo! ¡Ayúdame!}
 {176}{}{Lamento molestarte, pero necesito ayuda.}
-{177}{}{¡Ay!}
+{177}{}{¡Agh!}
 {178}{}{muy sano,}
 {179}{}{ligeramente herido,}
 {180}{}{moderadamente herido,}
@@ -107,9 +107,9 @@
 {206}{}{la!}
 {207}{}{¡Vete, carnicero!}
 {208}{}{¡Espera!}
-{209}{}{¡Ah!}
+{209}{}{¡Ack!}
 {210}{}{¡No intentes cambiar de tema!}
-{211}{}{¿Por qué?}
+{211}{}{¿Por qué debería?}
 {212}{}{¡No soy un peligro para ti!}
 {213}{}{¡Voy a acabar con tu operación ahora mismo!}
 {214}{}{¡No! ¡No te dejaré interrumpir mi operación! Gretch, atrápa}
@@ -124,7 +124,7 @@
 {223}{}{Vale. Tú ganas.}
 {224}{}{Me quedaré con algo tuyo. Y entonces puede que negociemos.}
 {225}{}{Vale.}
-{226}{}{De ninguna manera.}
+{226}{}{No me interesa.}
 {227}{}{¡Excelente!}
 {228}{}{Doc Mórbid coge un instrumento quirúrgico y antes de que te des cuenta te saca un ojo. Te duele horrorosamente.}
 {229}{}{Ahora la mitad de lo que has visto me pertenece.}

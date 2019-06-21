@@ -13,7 +13,7 @@
 {112}{}{Se preocupa mucho por ti.}
 {113}{}{Creo que deberías dejarle.}
 {114}{}{Eso dice él. Si lo hiciese, no haría lo que está haciendo.}
-{115}{}{¿Qué es?}
+{115}{}{¿Qué es eso?}
 {116}{}{¿Es porque boxea, verdad?}
 {117}{}{Eso lo dices tú. Quieres ocupar su lugar, ¿no?}
 {118}{}{Nah. Estás demasiado delgada.}
@@ -49,7 +49,7 @@
 {148}{}{Gracias, adiós.}
 {149}{}{El bar es de Neal. Es un tío legal, siempre me ha tratado bien. Antes salíamos juntos, pero se puso demasiado serio para mi gusto. No quiero ser una viuda.}
 {150}{}{¡Oh! ¿¡¿Saúl, dónde estás?!?}
-{151}{}{Zzzzzz...}
+{151}{}{Zzzzz...}
 {152}{}{Lo siento, está cerrado. Vuelve más tarde.}
 {153}{}{Nada, gracias.}
 {154}{}{Gizmo lleva el Casino. Le gustaría ocuparse del bar de Neal, pero Neal no quiere venderlo.}
@@ -64,7 +64,7 @@
 {163}{}{Algún día, algún macarra matará a Neal por un vaso de agua helada o una estupidez por el estilo. Por si no te has dado cuenta, llevar un bar en los tiempos que corren es muy duro.}
 {164}{}{Nuka-Cola, 3 chapas.}
 {165}{}{Cerveza, 5 chapas.}
-{166}{}{Algo más fuerte, 20 chapas.}
+{166}{}{El especial de la casa, 20 chapas.}
 {167}{}{Estás viendo a una camarera.}
 {168}{}{De todas formas, trabajar para Gizmo le matará.}
 {169}{}{No, pero no puedes cambiarle, ni él a ti. Si no te gusta lo que hace, deberías buscar en otro sitio.}

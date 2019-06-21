@@ -1,7 +1,7 @@
 {100}{}{Ves: a Mitch, el gerente de Almacenes Todo en Uno.}
 {101}{}{¿Buscas algo?}
 {102}{}{¿Qué buscas hoy?}
-{103}{}{¿Cómo podría ayudarte?}
+{103}{}{¿En qué te puedo ayudar?}
 {104}{}{Tengo de todo, ¿qué necesitas?}
 {105}{}{¿Necesitas provisiones?}
 {106}{}{¿Quieres comprar algo?}
@@ -10,7 +10,7 @@
 {109}{}{¿Qué tienes?}
 {110}{}{Hazme una oferta.}
 {111}{}{Haremos un trato.}
-{112}{}{Vuelve otra vez.}
+{112}{}{Vuelve por aquí.}
 {113}{}{Gracias, hasta pronto.}
 {114}{}{Adiós.}
 {115}{}{Cuidado con la cartera.}
@@ -23,7 +23,7 @@
 {122}{}{Mitch lleva este negocio, no yo.}
 {123}{}{¡Voy al Halcón cuando estoy libre!}
 {124}{}{Aléjate de los problemas.}
-{125}{}{Vigílalo.}
+{125}{}{Cuidado.}
 {126}{}{¿Me miras a mí?}
 {127}{}{Mejor será que no te pille robando.}
 {128}{}{Bienvenido a Almacenes Todo en Uno.}

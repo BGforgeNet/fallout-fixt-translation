@@ -1,6 +1,6 @@
 {100}{}{No puedo creer lo que has hecho.}
 {101}{}{No me importa. Estoy herido. Cúrame.}
-{102}{}{¡Hngh!}
+{102}{}{¡Unnn!}
 {103}{}{No. He prometido no atentar contra la vida de nadie, pero no te ayudaré.}
 {104}{}{La falta de inteligencia no excusa lo que has hecho. Vete. Nunca más hablaré contigo.}
 {105}{}{Oh, estás gravemente herido. Ven aquí, déjame ayudarte.}
@@ -59,9 +59,6 @@
 {158}{}{[Más]}
 {159}{}{El médico no quiere hablar contigo.}
 {160}{}{Por favor, no hagas eso.}
-#
-# Fallout Fixt:
-#
 {161}{}{¡He sido envenenado!}
 {162}{}{¡Ayuda, estoy altamente irradiado! ¡Mi piel se está derritiendo!}
 {163}{}{De nada. ¡Adiós!}
@@ -74,9 +71,6 @@
 {170}{}{ El RadAway funcionaría con más rapidez, pero no tenemos ninguno de sobra. ¿Empezamos?}
 {171}{}{Hmph.}
 {172}{}{¿Buscando algo más fuerte? ¿En qué clase de problemas te has estado metiendo? No debería estar haciendo esto, pero toma, aquí tienes. Pero no habrá más, y ten cuidado.}
-
-# Medic Tell-Me-Abouts
-
 {1000}{}{Médico}
 {1001}{}{Curación}
 {1100}{}{Estoy aquí a todas horas para ofrecer curación y ayuda.}

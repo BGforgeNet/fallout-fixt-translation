@@ -9,7 +9,7 @@
 {108}{}{Ves: a Henry, de los Guardias de los Seguidores.}
 {109}{}{Ves: a Herion, de los Guardias de los Seguidores.}
 {110}{}{¿Quién anda por las salas de los Seguidores?}
-{111}{}{¿Uh?}
+{111}{}{¿Eh?}
 {112}{}{Soy }
 {113}{}{. Vengo en son de paz.}
 {114}{}{Soy }
@@ -57,7 +57,7 @@
 {156}{}{Tienes razón al decir que nosotros, los humanos, hemos cerrado nuestras mentes. Sin embargo, siempre queda la esperanza.}
 {157}{}{Entonces, que tengáis mucha suerte.}
 {158}{}{Creo que tienes razón. Toma, deja que te abra más tu mente con esto.}
-{159}{}{Puede que sea así, no fue pedida tu opinión. Adiós.}
+{159}{}{Puede que sea así, no te han pedido tu opinión. Adiós.}
 {160}{}{Un cínico en nuestras filas. Seguro que tienes tus razones. A parte de eso, seguro que podremos sacar a relucir algún tipo de entendimiento.}
 {161}{}{Entonces, que tengáis buena suerte. Adiós.}
 {162}{}{He oído que los Niños han podido obtener algunos de nuestros secretos. Me pregunto cómo habrá podido suceder.}
@@ -68,7 +68,7 @@
 {167}{}{¿Tenéis pistas de quién podría ser?}
 {168}{}{Me alegro de saber eso. Gracias por tu tiempo.}
 {169}{}{¡¡¡Tú eres el agente doble!!!}
-{170}{}{En realidad no. Lo único que se me ocurre pensar es que esa persona debería tener acceso a algo de información y tener acceso al exterior. Quizás quieras echar una ojeada a los iniciados y a los exploradores.}
+{170}{}{En realidad no. Lo único que se me ocurre pensar es que esa persona debería tener acceso a algo de información y tener acceso al exterior. Quizás quieras echar una ojeada a los Iniciados y a los Exploradores.}
 {171}{}{Gracias. Adiós.}
 {172}{}{Entonces Nicole estará encantada de que haya matado al agente.}
 {173}{}{Debes tener razón. Gracias por dejarme las ideas más claras.}

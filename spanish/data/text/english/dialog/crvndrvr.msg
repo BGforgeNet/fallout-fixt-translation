@@ -10,7 +10,7 @@
 {109}{}{¡Piedra!}
 {110}{}{¿Estás listo? Nos vamos hoy.}
 {111}{}{¡Sí!}
-{112}{}{No.}
+{112}{}{¡No!}
 {113}{}{¡Hurra!}
 {114}{}{Lo siento, no tratamos con nadie más. Prueba suerte con otra caravana, puede que cuenten contigo.}
 {115}{}{Lo siento, no contratamos a nadie.}
@@ -30,11 +30,11 @@
 {129}{}{Quiero otro empleo.}
 {130}{}{Nada.}
 {131}{}{Zug.}
-{132}{}{Ug.}
+{132}{}{Ag.}
 {133}{}{¿Qué? ¿Después de haber dejado tu último empleo? Tienes suerte de que hayan sobrevivido.}
 {134}{}{¿Suerte, yo? ¡Tú sí que tienes suerte que no te parte la cara!}
 {135}{}{¡Eh! Tenía sitios a los que ir y gente a la que visitar.}
-{136}{}{No sabía que no me podía ir. Todo parecía estar bien.}
+{136}{}{No sabía que no podía irme. Todo parecía ir bien.}
 {137}{}{Habla claro o lárgate.}
 {138}{}{Yonqui.}
 {139}{}{No contratamos a borrachos.}
@@ -80,9 +80,9 @@
 {179}{}{hoy}
 {180}{}{mañana}
 {181}{}{el día }
-{182}{}{8}
-{183}{}{18}
-{184}{}{28}
+{182}{}{día 8}
+{183}{}{día 18}
+{184}{}{día 28}
 {185}{}{. Cuando estés listo para irte házmelo saber. La paga estándar es de 400 chapas.}
 {186}{}{Lo siento, pero ya cometí un error al darte una oportunidad la última vez que metiste la pata.}
 {187}{}{Bien, ¿qué camino quieres coger?}
@@ -92,26 +92,26 @@
 {191}{}{Bien, te veré entonces.}
 {192}{}{Sí.}
 {193}{}{Eh, oye. Has llegado pronto. Demasiado pronto. La próxima caravana no sale hasta el día }
-{194}{}{8}
-{195}{}{18}
-{196}{}{28}
+{194}{}{día 8}
+{195}{}{día 18}
+{196}{}{día 28}
 {197}{}{. Vuelve entonces si aún te interesa.}
 {198}{}{No quiero el trabajo.}
 {199}{}{Intentaré hacerlo.}
-{200}{}{Vale. Adiós.}
+{200}{}{Vale, adiós.}
 {201}{}{Sí.}
 {202}{}{Vale. No me importa.}
 {203}{}{Mira, no me importa si apareces o no. Tenemos a gente buscando empleo todos los días. Si no apareces, no pasa nada.}
 {204}{}{Ya te lo he dicho. No te preocupes. Si no puedes hacerlo, yo sí que puedo.}
 {205}{}{La Hermandad del Acero.}
 {206}{}{Cementerio de LA.}
-{207}{}{Ciudad Vertedero.}
+{207}{}{Ciudad Vertedero}
 {208}{}{No importa. Ya no quiero el empleo.}
 {209}{}{Gran puntualidad. Nuestras caravanas salen hoy. Pagan las 400 chapas estándar. ¿Qué ruta de caravanas querías tomar?}
 {210}{}{Bien. Nuestra próxima caravana sale el día }
-{211}{}{8}
-{212}{}{18}
-{213}{}{28}
+{211}{}{día 8}
+{212}{}{día 18}
+{213}{}{día 28}
 {214}{}{. Vuelve entonces y te asignaré una caravana. La paga estándar es de 400 chapas.}
 {215}{}{Vale.}
 {216}{}{Lo siento, no puedo esperar tanto.}
@@ -140,23 +140,23 @@
 {239}{}{ días.}
 {240}{}{Supongo que quieres un trabajo. Podría darte uno. ¿Te interesa?}
 {241}{}{Claro.}
-{242}{}{No.}
+{242}{}{¡No!}
 {243}{}{Sabes dónde te puedes colocar la caravana.}
 {244}{}{No lo sé. Tendré que volver a preguntártelo.}
-{245}{}{Ug.}
+{245}{}{Ag.}
 {246}{}{¿Qué camino quieres coger?}
 {247}{}{La Hermandad del Acero.}
 {248}{}{Cementerio de LA.}
 {249}{}{Ciudad Vertedero.}
 {250}{}{Lo siento, he cambiado de opinión.}
 {251}{}{Bien, vuelve el día }
-{252}{}{8}
-{253}{}{18}
-{254}{}{28}
+{252}{}{día 8}
+{253}{}{día 18}
+{254}{}{día 28}
 {255}{}{ y elegiremos juntos el equipo.}
 {256}{}{¿Cuál es tu problema?}
 {257}{}{Tú eres el problema y mi puño es la solución.}
 {258}{}{Deberías verlo.}
 {260}{}{Tú.}
-{261}{}{No hay problema.}
+{261}{}{Vale.}
 {262}{}{Bien, vale. Vuelve si cambias de opinión.}

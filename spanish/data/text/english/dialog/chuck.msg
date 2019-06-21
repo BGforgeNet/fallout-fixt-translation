@@ -19,17 +19,8 @@
 {118}{}{Oh, no necesito nada, gracias.}
 {119}{}{Ahora que lo dices, quizás puedas darme algún consejo.}
 {120}{}{(Chuck saca una baraja de cartas de Tarot.) Déjame consultar las cartas. (Baraja las cartas.)}
-#
-# This is referring to The Glow
-#
 {121}{}{(Chuck saca dos cartas: una de un hombre con bata sentado ante un ordenador y otra de un hombre con una Armadura de Energía.) El Hierofante y el Príncipe de Bastos en el sureste... una gran sabiduría y nobleza esperan en algún lugar al sureste.}
-#
-# This is referring to the Military Base
-#
 {122}{}{(Chuck saca una carta con el dibujo de un hombre con un vibrocuchillo y una bandera.) El Príncipe de las Espadas en el noroeste... tienes que enfrentarte a un enemigo poderoso, muy lejos, al noroeste.}
-#
-# This is referring to The Master
-#
 {123}{}{(Chuck saca una carta con el dibujo de una torre de radio y otra con el dibujo de un hombre en traje con un cetro.) La Torre y el Emperador... grandes cambios debidos a un jefe poderoso. Si se trata de la muerte o no, no te lo puedo decir.}
 {124}{}{(Chuck saca una carta con un dibujo de un hombre bailando encima de una cabeza nuclear.) El Loco. No puedo ayudarte; tienes que seguir tu propio camino en este mundo.}
 {125}{}{[Más]}

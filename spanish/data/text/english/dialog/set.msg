@@ -3,7 +3,7 @@
 {102}{}{Oh, sin duda pesa. Es evidente que he encontrado la cabeza, eh, tío.}
 {103}{}{Caray, ¿qué le ha pasado a tu cara?}
 {104}{}{Vaya, eres muy listo por ser un necrófago.}
-{105}{}{¿Nah-ah?}
+{105}{}{No, ¿eh?}
 {106}{Set01}{Ahorra saliva. Soy Set. Estoy al mando. ¿Lo pillas?}
 {107}{}{Según mi información no eres más que un segundón.}
 {108}{}{Lo pillo. }
@@ -18,7 +18,7 @@
 {117}{Set04}{¿La hora de la verdad, puta? Voy a disfrutar estrujándote.}
 {118}{}{Más te vale que lo que llevas en el cinto sea más grande que tu boca... Aunque parezca improbable.}
 {119}{}{Estruja esto...}
-{120}{}{¿Nah-ah?}
+{120}{}{No, ¿eh?}
 {121}{Set05}{Bueno. Parece que tenemos un diamante en bruto... je... tengo unos amiguitos para ti, mi deslumbrante normalucho. Castiga a los mutantes que están en el Almacén de Agua por mí. Claro, claro, puedes hacerlo... ¿no?}
 {122}{}{Eh, vale.}
 {123}{}{Nah-ah.}
@@ -64,7 +64,7 @@
 {163}{}{Soy un enrollado. Trato hecho.}
 {164}{}{Eres raro y hablas raro.}
 {165}{Set18}{Bien hecho. Mereces verme, caminante. Sigue a Garret para tu recompensa. Ahora. Estoy ocupado.}
-{166}{}{Vale, gracias.}
+{166}{}{Vale. Gracias.}
 {167}{}{¿Eso es todo? Gracias, y ahora, ¿te largas?}
 {168}{}{¿Mamá?}
 {169}{Set19}{Ojo antes de chillar. Lo preferirás. Sería una pena cabrearme ahora... que estoy tan contento.}
@@ -81,7 +81,7 @@
 {180}{Set22}{Los Niños de la Catedral, los del Eje, incluso nosotros, los necrófagos. Nadie puede empujar su sombra ahora. Pero nuestra luz brillará más la próxima vez. Oh, sí.}
 {181}{}{Buena suerte.}
 {182}{Set23}{Sigue a Garret y lárgate.}
-{183}{}{Correcto.}
+{183}{}{De acuerdo.}
 {184}{}{Que te den.}
 {185}{Set24}{Podrías dejar las sobras. Ahora largo, sin tu recompensa, o estarás sobre mi mesa esta noche.}
 {186}{}{Si así lo quieres.}
@@ -127,7 +127,7 @@
 {226}{}{Merezco alguna información.}
 {227}{}{¿Qué tal si te piso la cara?}
 {228}{}{Lo pillo.}
-{229}{}{¿Nah-ah?}
+{229}{}{No, ¿eh?}
 {230}{Set43}{Vale. Rápido. ¿Qué?}
 {231}{}{Tú no harías lo de los mutantes por ti mismo. Y yo me pregunto, ¿por qué? La respuesta, alguien te tiene asustado. ¿Por qué?}
 {232}{}{¿Por qué me necesitabas a mí para matar a los mutantes? ¿Por qué no usar a tus necrófagos?}
@@ -139,7 +139,7 @@
 {238}{Set45}{Ni siquiera lees las líneas. A no ser que Necrópolis vaya a ser tu hogar permanente, camina. No tengo tiempo para un tonto saco de carne.}
 {239}{}{¿Qué tal tu propio cadáver en un saco?}
 {240}{}{Lo pillo.}
-{241}{}{Muérdeme.}
+{241}{}{Chúpate esa.}
 {242}{Set45a}{Con mucho gusto...}
 {243}{Set46}{Sin farol, sin truco. El Maestro no me hace temblar. Camina. Tu bienvenida aquí ya lo ha hecho.}
 {244}{}{Gracias por tu tiempo.}
@@ -156,7 +156,7 @@
 {255}{}{Se me han acabado los culos que patear y he pensado en tu cara.}
 {256}{}{Eh. Maestro hacer ¡pum!}
 {257}{Set52a}{¿Quieres decir muerto?}
-{258}{}{A-já.}
+{258}{}{Ajá.}
 {259}{Set53}{Gustito. Reconforta. Tus necesidades son mis deseos. Nómbralas.}
 {260}{}{Necesito información acerca de los Tanques.}
 {261}{}{Podría necesitar más armas y equipo.}
@@ -197,7 +197,7 @@
 {296}{Set201}{Antes he declarado...}
 {297}{Set202}{No hago tratos con normaluchos.}
 {298}{Set203}{Parlotea con Garret. Mi tiempo vuela.}
-{299}{Set204}{¿Está hueca tu cabeza?}
+{299}{Set204}{¿Tienes la cabeza hueca?}
 {300}{Set205}{Tuyo es el único beneficio. Este intercambio está falto.}
 {301}{Set206}{Pensamientos que no poseo.}
 {302}{Set207}{No es el momento. La tarde es más apropiada para tu sombra.}
@@ -206,7 +206,7 @@
 {305}{Set300}{Su significado no tiene lugar aquí. Ninguno.}
 {306}{Set301}{El futuro. Supervivencia en cualquier sitio. Superamos a los normaluchos.}
 {307}{Set302}{Un error del mundo. Un borrón en mi vista. Odio cada careto.}
-{308}{Set303}{Donde yace tu sombra. Mi hogar. Mi reino. Un lugar donde la fuerza aumenta.}
+{308}{Set303}{Donde descansa tu sombra. Mi hogar. Mi reino. Un lugar donde la fuerza aumenta.}
 {309}{Set304}{El principio. El mundo en cenizas, las cenizas se expanden. Nuestra vida.}
 {310}{Set305}{Ideales malogrados. Nada que me importe, nada en absoluto.}
 {311}{Set306}{Muchos de los tuyos. Algunos útiles, pero demasiados chiflados.}
@@ -215,18 +215,10 @@
 {314}{Set309}{Proporciona lo que se necesita.}
 {315}{Set310}{Por debajo de mis pensamientos.}
 {316}{Set311}{No en mis pensamientos.}
-
-
-
-#
-# Set Tell-Me-Abouts
-#
 {970}{Set01}{Ahorra saliva. Soy Set. Estoy al mando. ¿Lo pillas?}
-
 {980}{Set206}{Pensamientos que no poseo.}
 {981}{Set310}{Por debajo de mis pensamientos.}
 {982}{Set311}{No en mis pensamientos.}
-
 {1000}{}{Maestro}
 {1001}{}{Necrófagos}
 {1002}{}{Mutantes}
@@ -249,8 +241,6 @@
 {1019}{}{Niños}
 {1020}{}{Almacén de Agua}
 {1021}{}{Agua}
-
-
 {1100}{Set300}{Su significado no tiene lugar aquí. Ninguno.}
 {1101}{Set301}{El futuro. Supervivencia en cualquier sitio. Superamos a los normaluchos.}
 {1102}{Set302}{Un error del mundo. Un borrón en mi vista. Odio cada careto.}

@@ -1,151 +1,74 @@
-#
-# TEXT ENTRIES, MESSAGES AND HOLODISK TEXT CONTENTS FROM Pip-BOY
-#
-#-------------------------------------------------------------------
-#
-#
-# TRANSLATION NOTE:
-#
-#  If you need to add lines to holodisk texts due to changed word and line lengths, that is fine.
-#   as long as you follow the line numbers sequentially (1094, 1095, 1096 ... etc)
-#    and end it with one last sequentially-numbered line that only contains **END-DISK**
-#
-# Also make sure to test them in-game, as you need to use **END-PAR** entries
-#  to go to the next page, otherwise the text will overflow at the bottom.
-#
-#
-# --[Sduibek, thanks to Luffier for info]
-#
-
-#
-#
-# Special holiday dates
-#
-{100}{}{¡Feliz Año Nuevo!}                    # New years
-{101}{}{¡Feliz Día de San Valentín!}          #
-{102}{}{Alt+F4 y luego Y activa el Modo Dios} # April fools!
-{103}{}{¡Feliz Día de Estreno!}               # Shipping day!
-{104}{}{¡Feliz Día de la Independencia!}      # Independence day
-{105}{}{¡Feliz Halloween!}                    # Halloween
-{106}{}{¡Feliz Día de Acción de Gracias!}     # Thanksgiving
-{107}{}{¡Feliz Navidad!}                      # X-mas  # Merry changed to Happy, most people outside of USA say Happy.  -Sduibek
-#
-# System messages - in Pip-Boy 2000 interface. Text for buttons on left side, and green text on bottom when viewing Status entries.
-#
-{200}{}{MÁS}
-{201}{}{ATRÁS}
-{202}{}{ESTATUS}
+{100}{}{¡Feliz Año Nuevo!}
+{101}{}{¡Feliz Día de San Valentín!}
+{102}{}{Alt+F4 y luego Y activa el Modo Dios}
+{103}{}{¡Feliz Día de Estreno!}
+{104}{}{¡Feliz Día de la Independencia!}
+{105}{}{¡Feliz Halloween!}
+{106}{}{¡Feliz Día de Acción de Gracias!}
+{107}{}{¡Feliz Navidad!}
+{200}{}{[MÁS]}
+{201}{}{[ATRÁS]}
+{202}{}{Quests}
 {203}{}{No hay tareas actuales.}
-# TRANSLATORS: Don't do anything with line 204. Leave it blank or put equivalent of "NOT USED".  -Sduibek
-{204}{}{}	# Clues gone
+{204}{}{CLUES}
 {205}{}{AUTOMAPAS}
 {206}{}{ARCHIVOS VÍDEO}
 {207}{}{DATOS}
-# 208 and 209 assumed to be not used in game. They were blank in original game files. Contact me if yours aren't blank.  -Sduibek
 {208}{}{}
 {209}{}{}
-{210}{}{ESTATUS}
-{211}{}{DATOS}
+{210}{}{Quests}
+{211}{}{Data}
 {212}{}{de}
 {213}{}{Página}
-{214}{}{VALE}
-# changed "at this location" to "at this time", because it doesn't depend on location, it depends on if anything on map is aggro/hostile. This is important distinction.  -Sduibek
+{214}{}{[DONE]}
 {215}{}{No se puede descansar en este momento.}
-#
-# Alarm clock
-#
 {300}{}{DESPERTADOR}
 {301}{}{Puntos de Salud Actuales: }
 {302}{}{Descansar diez minutos}
-{303}{}{Descansar media hora}
+{303}{}{Descansar diez minutos}
 {304}{}{Descansar una hora}
 {305}{}{Descansar dos horas}
-{306}{}{Descansar tres horas}
-{307}{}{Descansar cuatro horas}
-{308}{}{Descansar cinco horas}
-{309}{}{Descansar seis horas}
+{306}{}{Descansar dos horas}
+{307}{}{Descansar dos horas}
+{308}{}{Descansar dos horas}
+{309}{}{Descansar dos horas}
 {310}{}{Descansar hasta la mañana (06:00)}
 {311}{}{Descansar hasta mediodía (12:00)}
-{312}{}{Descansar hasta la tarde (18:00)}
+{312}{}{Descansar hasta mediodía (12:00)}
 {313}{}{Descansar hasta medianoche (00:00)}
 {314}{}{Descansar hasta que te cures (todos los PS)}
-#
-#
-#  "DISKS & LOGS" entry titles. They display IN THIS ORDER!
-#
-#
-# Numerical order of GVARs does not match with order of entries.
-#
-# For example the first entry slot in Pip-Boy (FEV Experiment) is hard-coded to correspond
-#  with the second GVAR. (162, FEVDisk)  They are all hard-coded like this.
-#
-#
-# TRANSLATORS: Ignore this "GVARs:" list.  -Sduibek
-#
-# GVARs:
-#  161 artifact
-#  162 fevdisk
-#  163 secdisk
-#  164 diskA
-#  165 diskD
-#  166 vreedisk
-#  167 codedisk (honor code, unused)
-#  209 mutdisk
-#  210 brohist - must update in ScrName.msg
-#  211 sopdisk - must update in ScrName.msg
-#  212 maxdisk - must update in ScrName.msg
-#  234 grey _MBnodisk
-#  235 maxson _MBnodisk
-#  237 valtdisk
-#  258 fev (zax)
-#  259 pwrarm (zax)
-#  260 personnel (zax)
-#  271 doorcode (are these swapped/bothusing?)
-#  298 ltcodes (are these swapped/bothusing?)
-#  311 regdisk
-#
-# Some entries have been moved or removed from the following list, as a fix for the more-than-13-entries bug.  -Sduibek
-# For entries that are blank now, please make yours blank as well.
-#
-{400}{}{Disco de Experimentos VEF}    # DONE!
-{401}{}{Ubicación Refugios v34.129}   # Moved from 416. Security Disk was here, but is now a dialog sequence.  -Sduibek
-{402}{}{Disco Antiguo Hermandad}      #
+{400}{}{Disco de Experimentos VEF}
+{401}{}{Ubicación Refugios v34.129}
+{402}{}{Disco Antiguo Hermandad}
 {403}{}{Diario Experimentos Alfa}
 {404}{}{Diario Experimentos Delta}
 {405}{}{Informes de Autopsia Vree}
-{406}{}{Transmisiones Reguladoras}    # Brotherhood Honor Code was not used and never will be; it's against canon.  -Sduibek
-{407}{}{Transmisiones Mutantes}       #done. -Sduibek  # will become dialog
+{406}{}{Transmisión reguladora}
+{407}{}{Transmisiones Mutantes}
 {408}{}{Disco de la Hermandad}
 {409}{}{Disco de Sophia}
 {410}{}{Diario de Maxson}
 {411}{}{Audiodiario Richard Grey}
 {412}{}{Diario del Capitán Maxson}
-{413}{}{Investigación VEF}           # from ZAX, no disk
-{414}{}{}                            # Power Armor Specs was here, is now a dialog sequence.  -Sduibek
-{415}{}{Registros de West Tek}       # from ZAX, no disk
-{416}{}{}
-{417}{}{Transmisión reguladora}      # Regulator Transmission was here, is now a dialog sequence.  -Sduibek
-#
-# Movie archive titles
-# Order must match the list (see gmovie.h)
-#
-{500}{}{Logo de InterPlay}              # Not show in Pip-Boy 2000
-{501}{}{Logo de MacPlay}                # MacPlay version ,Not show in Pip-Boy 2000
-{502}{}{Intro}                          # Not show in Pip-Boy 2000
+{413}{}{Investigación VEF}
+{414}{}{Armadura de Energía}
+{415}{}{Registros de West Tek}
+{416}{}{Ubicación Refugios v34.129}
+{417}{}{Transmisión reguladora}
+{500}{}{Logo de InterPlay}
+{501}{}{Logo de MacPlay}
+{502}{}{Intro}
 {503}{}{Destrucción de Tanques}
 {504}{}{Destrucción de la Catedral}
 {505}{}{Instrucciones del Supervisor}
-{506}{}{Carencia de Agua en el Refugio 13}    # Death
-{507}{}{Invasión del Refugio 13}              # Death
-{508}{}{Dejando el Refugio}                   # Man end
-{509}{}{Dejando el Refugio}                   # Woman end
-{510}{}{Bañado en los Tanques}                # Death
-{511}{}{Agua del Refugio 13}
-{512}{}{Agua del Refugio 13 acabándose}
-{513}{}{Rae mata al Maestro}                  # VIDEO DOES NOT EXIST. DO NOT USE.  -Sduibek
-#
-# Things for the Mac version to speak
-#
+{506}{}{Carencia de Agua en el Refugio 13}
+{507}{}{Invasión del Refugio 13}
+{508}{}{Dejando el Refugio}
+{509}{}{Dejando el Refugio}
+{510}{}{Bañado en los Tanques}
+{511}{}{Agua del Refugio 13 acabándose}
+{512}{}{Carencia de Agua en el Refugio 13}
+{513}{}{Rae mata al Maestro}
 {600}{}{Estado}
 {601}{}{SIN USAR}
 {602}{}{Automapas}
@@ -155,30 +78,17 @@
 {606}{}{Bienvenido al RobCo Pip-Boy 2000.}
 {607}{}{Cuanto tiempo...}
 {608}{}{Despierta...}
-#
-#
-# Status thread text - QUESTS data
-#
-#
-# Format:
-# 0 City name
-# 1 ... 9 thread/quest name
-#
-# You can fill-in the blank entries here, but there's no point as they'll never show up in Pip-Boy.
-#
 {700}{}{Refugio 13}
-#
-{701}{}{Calmar o disolver la facción rebelde.}             # GVAR 238
-{702}{}{Eliminar al líder de los Supermutante.}            # GVAR 309
-{703}{}{Destruir el origen de los Supermutantes.}          # GVAR 308
-{704}{}{Encontrar un nuevo Chip de Agua para el Refugio.}  # GVAR 101
-{705}{}{Encontrar y atrapar al Ladrón de Agua.}            # GVAR 188
+{701}{}{Calmar o disolver la facción rebelde.}
+{702}{}{Eliminar al líder de los Supermutante.}
+{703}{}{Destruir el origen de los Supermutantes.}
+{704}{}{Encontrar un nuevo Chip de Agua para el Refugio.}
+{705}{}{Encontrar y atrapar al Ladrón de Agua.}
 {706}{}{}
 {707}{}{}
 {708}{}{}
 {709}{}{}
-#
-{710}{}{Refugio 15}  # Cannot display in Pip-Boy at all.
+{710}{}{Refugio 15}
 {711}{}{}
 {712}{}{}
 {713}{}{}
@@ -188,32 +98,27 @@
 {717}{}{}
 {718}{}{}
 {719}{}{}
-#
 {720}{}{Arenas Sombrías}
-#
-{721}{}{Diagnosticar y curar a Jarvis de su afección.}                    # GVAR
-{722}{}{Ayudar a Razlo a encontrar una cura al veneno de Escorpión Rad.}  # GVAR
-{723}{}{Rescatar a Tandi de los Saqueadores.}                             # GVAR
-{724}{}{Detener la amenaza de los Escorpiones Rad locales.}               # GVAR
+{721}{}{Diagnosticar y curar a Jarvis de su afección.}
+{722}{}{Ayudar a Razlo a encontrar una cura al veneno de Escorpión Rad.}
+{723}{}{Rescatar a Tandi de los Saqueadores.}
+{724}{}{Detener la amenaza de los Escorpiones Rad locales.}
 {725}{}{}
 {726}{}{}
 {727}{}{}
 {728}{}{}
 {729}{}{}
-#
 {730}{}{Ciudad Vertedero}
-#
-{731}{}{Ayudar a Saúl.}                                                   # GVAR
-{732}{}{Matar a Killian.}                                                 # GVAR
-{733}{}{Rescatar a Sinthia.}                                              # GVAR
-{734}{}{Salvar a Trish.}                                                  # GVAR
-{735}{}{Detener a Gizmo.}                                                 # GVAR
-{736}{}{Hacer una redada a la banda Kalavera.}                            # GVAR
+{731}{}{Ayudar a Saúl.}
+{732}{}{Matar a Killian.}
+{733}{}{Rescatar a Sinthia.}
+{734}{}{Salvar a Trish.}
+{735}{}{Detener a Gizmo.}
+{736}{}{Hacer una redada a la banda Kalavera.}
 {737}{}{}
 {738}{}{}
 {739}{}{}
-#
-{740}{}{Los Khans}  # Cannot display in Pip-Boy at all.
+{740}{}{Los Khans}
 {741}{}{}
 {742}{}{}
 {743}{}{}
@@ -223,11 +128,9 @@
 {747}{}{}
 {748}{}{}
 {749}{}{}
-#
 {750}{}{Necrópolis}
-#
-{751}{}{Hacerse cargo de los Supermutantes del Almacén de Agua.}          # GVAR
-{752}{}{Arreglar la bomba de agua de Necrópolis.}                         # GVAR
+{751}{}{Hacerse cargo de los Supermutantes del Almacén de Agua.}
+{752}{}{Arreglar la bomba de agua de Necrópolis.}
 {753}{}{}
 {754}{}{}
 {755}{}{}
@@ -235,22 +138,19 @@
 {757}{}{}
 {758}{}{}
 {759}{}{}
-#
-{760}{}{El Eje}
-#
-{761}{}{Encuentrar y matar a la Garra Mortal.}                            # GVAR
-{762}{}{Deshacerse de Jain.}                                              # GVAR
-{763}{}{Deshacerse del mercader.}                                         # GVAR
-{764}{}{Encontrar las caravanas desaparecidas.}                           # GVAR
-{765}{}{Robar el collar al mercader.}                                     # GVAR
+{760}{}{Eje}
+{761}{}{Encuentrar y matar a la Garra Mortal.}
+{762}{}{Deshacerse de Jain.}
+{763}{}{Deshacerse del mercader.}
+{764}{}{Encontrar las caravanas desaparecidas.}
+{765}{}{Robar el collar al mercader.}
 {766}{}{}
 {767}{}{}
 {768}{}{}
 {769}{}{}
-#
 {770}{}{Hermandad del Acero}
-{771}{}{Convertirse en un Iniciado.}                                      # GVAR
-{772}{}{Rescatar al Iniciado de El Eje.}                                  # GVAR
+{771}{}{Convertirse en un Iniciado.}
+{772}{}{Rescatar al Iniciado de El Eje.}
 {773}{}{}
 {774}{}{}
 {775}{}{}
@@ -258,8 +158,7 @@
 {777}{}{}
 {778}{}{}
 {779}{}{}
-#
-{780}{}{Base Militar}  # Cannot display in Pip-Boy at all.
+{780}{}{Base Militar Mariposa}
 {781}{}{}
 {782}{}{}
 {783}{}{}
@@ -269,10 +168,9 @@
 {787}{}{}
 {788}{}{}
 {789}{}{}
-#
-{790}{}{El Ardor}
-{791}{}{Desactivar las trampas de la instalación.}                       # GVAR
-{792}{}{Activar la energía.}                                             # GVAR
+{790}{}{Ardor}
+{791}{}{Desactivar las trampas de la instalación.}
+{792}{}{Activar la energía.}
 {793}{}{}
 {794}{}{}
 {795}{}{}
@@ -280,19 +178,17 @@
 {797}{}{}
 {798}{}{}
 {799}{}{}
-#
 {800}{}{Cementerio de LA}
-{801}{}{Convertirse en un Navaja.}                                      # GVAR 135
-{802}{}{Entregar el Medallón por Romero.}                               # GVAR 127
-{803}{}{Entregar el paquete de los Pistoleros.}                         # GVAR 129
-{804}{}{Encontrar al Niño espía en los Seguidores.}                     # GVAR 133
-{805}{}{Arreglar las granjas hidropónicas de Adytum.}                   # GVAR 138
-{806}{}{Rescatar a Jason Zimmerman.}                                    # GVAR 130
-{807}{}{Evitar que las Bandas ataquen Adytum.}                          # GVAR 128
+{801}{}{Convertirse en un Navaja.}
+{802}{}{Entregar el Medallón por Romero.}
+{803}{}{Entregar el paquete de los Pistoleros.}
+{804}{}{Encontrar al Niño espía en los Seguidores.}
+{805}{}{Arreglar las granjas hidropónicas de Adytum.}
+{806}{}{Rescatar a Jason Zimmerman.}
+{807}{}{Evitar que las Bandas ataquen Adytum.}
 {808}{}{}
 {809}{}{}
-#
-{810}{}{Niños de la Catedral}  # Cannot display in Pip-Boy at all.
+{810}{}{Niños de la Catedral}
 {811}{}{}
 {812}{}{}
 {813}{}{}
@@ -302,14 +198,6 @@
 {817}{}{}
 {818}{}{}
 {819}{}{}
-#
-#
-#  ---HOLODISK TEXT FOR "DISKS & LOGS" SECTION---
-#
-#
-#   1.  *** FEV Experiments Disk *** - FEVDisk.ssl - "FEV Experiments Log" - (found in The Glow, GLOW2.MAP)
-#
-#
 {1000}{}{• Fecha Diario 21 de Marzo, 2075:}
 {1001}{}{El Mayor Barnett ha ordenado experimentos con el lote}
 {1002}{}{10-011 del virus paninmunológico, renombrado}
@@ -325,10 +213,9 @@
 {1012}{}{toda expectativa.}
 {1013}{}{Apéndice: cloroplastos parecen no haber sido afectados}
 {1014}{}{por el virus. Posteriores experimentos en células}
-{1015}{}{vegetales han sido cancelados por orden del Mayor}
+{1015}{}{**END-PAR**}
 {1016}{}{Barnett.}
 {1017}{}{**END-PAR**}
-# -
 {1018}{}{• Fecha Diario 9 de Mayo, 2075}
 {1019}{}{Infectamos varias especies de gusanos con VEF. }
 {1020}{}{En unas horas los gusanos han aumentado su tamaño en}
@@ -338,10 +225,9 @@
 {1024}{}{transmitida con éxito a la progenie de los gusanos, a}
 {1025}{}{pesar de que las muestras solo se reprodujeron}
 {1026}{}{asexualmente. Los experimentos realizados con insectos}
-{1027}{}{han tenido menos éxito. El Mayor Barnett ha pospuesto}
+{1027}{}{**END-PAR**}
 {1028}{}{estos experimentos hasta próximo aviso.}
 {1029}{}{**END-PAR**}
-# -
 {1030}{}{• Fecha Diario  30 Junio, 2075}
 {1031}{}{Algunos ratones de laboratorio han sido infectados con}
 {1032}{}{éxito con el VEF. De nuevo, se observó un incremento}
@@ -352,11 +238,10 @@
 {1037}{}{muscular y ciertos órganos internos, como hígado,}
 {1038}{}{corazón y riñones. Con sorpresa se descubrió que}
 {1039}{}{los ratones infectados atravesaban los laberintos en}
-{1040}{}{menos de la mitad del tiempo que necesitaban los del}
+{1040}{}{**END-PAR**}
 {1041}{}{grupo de control. Será necesario seguir investigando}
 {1042}{}{para confirmar la importancia de este descubrimiento.}
 {1043}{}{**END-PAR**}
-# -
 {1044}{}{• Fecha Diario 9 Noviembre, 2075}
 {1045}{}{Hemos infectado con VEF a 218 conejos. Se les implantaron}
 {1046}{}{electrodos a la mitad de los sujetos para observar}
@@ -366,11 +251,10 @@
 {1050}{}{De nuevo se observó el típico aumento de tamaño.}
 {1051}{}{También se detectó un incremento de la agresividad}
 {1052}{}{(especialmente entre los machos). El tejido cerebral}
-{1053}{}{producido en los ejemplares sacrificados mostró un}
+{1053}{}{**END-PAR**}
 {1054}{}{incremento en la conexión dendrítica, especialmente}
 {1055}{}{en el sistema motriz y el córtex frontal.}
 {1056}{}{**END-PAR**}
-# -
 {1057}{}{• Fecha Diario 12 Enero, 2076}
 {1058}{}{Con el lote 11-011, hemos mejorado la eficiencia del}
 {1059}{}{ciclo mitótico en un 43%. Hemos infectado 53 }
@@ -379,11 +263,10 @@
 {1062}{}{confirmaron un aumento de la inteligencia y la destreza}
 {1063}{}{manual de 19 puntos en el índice Schuler-Kapp. }
 {1064}{}{Por desgracia, varios sujetos se escaparon y debieron}
-{1065}{}{ser cazados y despachados. El Mayor Barnett }
+{1065}{}{**END-PAR**}
 {1066}{}{ordenó la terminación de los restantes sujetos.}
 {1067}{}{Dos parejas no pudieron ser encontradas.}
 {1068}{}{**END-PAR**}
-# -
 {1069}{}{• Fecha Diario 13 Mayo, 2076}
 {1070}{}{Hemos empalmado algunas de las nuevas secuencia}
 {1071}{}{genéticas suministradas por el equipo del Mayor Barnett,}
@@ -391,51 +274,34 @@
 {1073}{}{tanto de raza como mixtos. Todos experimentaron, casi}
 {1074}{}{inmediatamente, un extraordinario crecimiento. El aumento}
 {1075}{}{de tamaño fue acompañado con un incremento de la}
-{1076}{}{agresividad, no detectándose un aumento significativo de}
+{1076}{}{**END-PAR**}
 {1077}{}{la inteligencia. Estamos planeando intentar el paso de}
 {1078}{}{92 parejas de genes con el lote 11-011. Todos los}
 {1079}{}{sujetos fueron terminados tras 14 semanas de estudio.}
 {1080}{}{**END-PAR**}
-# -
 {1081}{}{• Fecha Diario 4 Octubre, 2076}
 {1082}{}{El paso fue completado y 15 chimpancés}
 {1083}{}{fueron infectados con el lote 11-111. Los niveles de}
 {1084}{}{crecimiento e inmunidad no tienen precedentes. Los}
 {1085}{}{intentos de transmitir el cáncer a los sujetos a través}
-{1086}{}{de agentes químicos y radiológicos no surtieron efecto.}
+{1086}{}{**END-PAR**}
 {1087}{}{La creciente agresividad ha hecho necesario el}
 {1088}{}{aislamiento de los sujetos. Dos de ellos sufrieron}
 {1089}{}{violentos ataques epilépticos y murieron. Todos los}
 {1090}{}{demás sujetos han sido terminados.}
 {1091}{}{**END-PAR**}
-# -
 {1092}{}{• Fecha Diario 7 Enero, 2077}
 {1093}{}{El Mayor Barnett ha ordenado la transferencia de todo el}
-{1094}{}{material VEF a la Base Militar Mariposa. Su plan es}
-{1095}{}{continuar con los experimentos del proyecto sobre}
-{1096}{}{sujetos voluntarios. Yo me opongo a ello, y quiero que}
-{1097}{}{quede constancia aquí de que ni mi equipo ni yo mismo}
-{1098}{}{recomendamos la experimentación con sujetos humanos.}
-{1099}{}{**END-DISK**}
-#
-#
-#   2.  *** Vault Locations v34.129 *** - ValtDisk.ssl - (from Mrs Stapleton HUBDWNTN.MAP)
-#
-#   (was Security Disk, but that wasn't used in vanilla Fallout and is moved to dialog sequence anyway.)  -Sduibek
-#
-#
+{1094}{}{**END-DISK**}
 {2000}{}{Ubicación Refugios v34.129 Revisión C (EE.UU. Occidental)}
 {2001}{}{**END-PAR**}
-#
 {2002}{}{Hola, y bienvenido a la última edición del Panfleto sobre}
 {2003}{}{Ubicación de Refugios de los Estados Unidos Occidentales.}
 {2004}{}{Esperamos que disfrutes de este panfleto, y recuerda que}
 {2005}{}{los Refugios no son solo para la élite, sino para todos.}
 {2006}{}{**END-PAR**}
-#
 {2007}{}{Refugio 12}
 {2008}{}{**END-PAR**}
-#
 {2009}{}{Bajo la próspera metrópolis de Bakersfield, yace la}
 {2010}{}{tecnología del Refugio 12. Construido teniendo en}
 {2011}{}{cuenta la mayor comodidad de sus residentes, se dotó al}
@@ -449,10 +315,8 @@
 {2019}{}{Bakersfield, este sistema puede suministrar más de 15.000}
 {2020}{}{galones al día de pura y refrescante agua potable.}
 {2021}{}{**END-PAR**}
-#
 {2022}{}{Refugio 13}
 {2023}{}{**END-PAR**}
-#
 {2024}{}{Ubicado en la fabulosa región montañosa al noroeste del}
 {2025}{}{Refugio 12, este Refugio ofrece un inacabable suministro}
 {2026}{}{de agua pura a sus habitantes. Los rumores sobre una}
@@ -466,10 +330,8 @@
 {2034}{}{considerable de suministro, durante más de 250.000}
 {2035}{}{horas, los futuros Residentes no tienen nada que temer.}
 {2036}{}{**END-PAR**}
-#
 {2037}{}{Refugio 15}
 {2038}{}{**END-PAR**}
-#
 {2039}{}{Situado al este del Refugio 13, la construcción de este}
 {2040}{}{Refugio ha ido sin problemas. Mucha atención fue}
 {2041}{}{prestada a los muros del tercer nivel, estos han sido}
@@ -481,19 +343,11 @@
 {2047}{}{impresionados por los mejoramientos en diseño de este}
 {2048}{}{ya impresionante Refugio.}
 {2049}{}{**END-DISK**}
-#
-#
-#   3.  *** Ancient Brotherhood Disk *** - Artifact.ssl - "strange disk" - (found in The Glow, GLOW1.MAP)
-#
-#   (disk player needs to find to become an Initiate of the Brotherhood.)
-#
-#
 {3000}{}{El Capt. Maxson tenía razón. Este lugar es la muerte.}
 {3001}{}{Escribo esto por si no logramos regresar, para que}
 {3002}{}{alguien, algún día, pueda descubrir qué fue de}
 {3003}{}{nosotros.}
 {3004}{}{**END-PAR**}
-# -
 {3005}{}{Llegamos a las Instalaciones de Investigación West Tech}
 {3006}{}{tras 20 días de infierno. Pero eso fue lo fácil. Los niveles}
 {3007}{}{de radiaciones se dispararon tan pronto como divisamos el}
@@ -502,19 +356,16 @@
 {3010}{}{estaríamos bien, al menos durante un día de exploración.}
 {3011}{}{Sabíamos que entrañaba un riesgo calculado, pero la}
 {3012}{}{tecnología que teníamos la oportunidad de recuperar valía}
-{3013}{}{la pena.}
+{3013}{}{**END-PAR**}
 {3014}{}{**END-PAR**}
-# -
 {3015}{}{Descendimos por el cráter hasta el primer nivel y}
 {3016}{}{todo parecía ajustarse al plan. La energía estaba}
 {3017}{}{desactivada, por lo que no necesitaríamos rodear el}
 {3018}{}{sistema de seguridad. O eso creíamos. No había nada}
-{3019}{}{de valor en este nivel y seguimos adelante.}
+{3019}{}{**END-PAR**}
 {3020}{}{**END-PAR**}
-# -
-{3021}{}{El segundo nivel era más o menos igual.}
+{3021}{}{**END-PAR**}
 {3022}{}{**END-PAR**}
-# -
 {3023}{}{Cuando Jensen bajó al tercer nivel, el infierno}
 {3024}{}{se desató. Los sensores de seguridad se habían quemado}
 {3025}{}{en los dos primeros pisos, pero no en el tercero.}
@@ -523,38 +374,27 @@
 {3028}{}{armaduras así. Los hombres empezaron a caer a izquierda}
 {3029}{}{y derecha, morían como moscas. Intenté reagrupar a los}
 {3030}{}{hombres pero solo Soto y Camarillo lograron llegar}
-{3031}{}{hasta el primer nivel conmigo.}
+{3031}{}{**END-PAR**}
 {3032}{}{**END-PAR**}
-# -
 {3033}{}{El hecho de que pueda oler la carne quemada de Soto allí}
 {3034}{}{donde antes estaba su brazo, prueba que mi armadura de}
 {3035}{}{energía ya no está sellada, o sea que me expongo a mucha}
 {3036}{}{más radiación de la que tenía planeada.}
 {3037}{}{Pierdo los hidráulicos a un ritmo alarmante. Debemos}
-{3038}{}{alejarnos de este lugar antes de que mi armadura muera.}
+{3038}{}{**END-PAR**}
 {3039}{}{**END-PAR**}
-# -
 {3040}{}{Camarillo parecía estar bien físicamente, pero hace}
 {3041}{}{una hora que se largó, barruntando algo sobre un tal}
-{3042}{}{Gehenna. El cabrón tiene todos los antirads.}
+{3042}{}{**END-PAR**}
 {3043}{}{**END-PAR**}
-# -
 {3044}{}{Solo quedamos Soto y yo. No llegaremos muy}
 {3045}{}{lejos sin los antirads, }
 {3046}{}{debo encontrar a Camarillo}
-{3047}{}{antes de que sea demasiado tarde.}
+{3047}{}{**END-PAR**}
 {3048}{}{**END-PAR**}
-# -
-{3049}{}{Sgt. D. Allen, Fuerzas Armadas de los Estados Unidos.}
-{3050}{}{**END-DISK**}
-#
-#
-#   4.  *** Alpha Experiment Disk *** - DiskA.ssl - "Alpha Experiments Log" - (found in The Glow, GLOW2.MAP)
-#
-#
+{3049}{}{**END-DISK**}
 {4000}{}{Prototipo del Proyecto de Paninmunidad Vírica}
 {4001}{}{**END-PAR**}
-# -
 {4002}{}{Con el fin de contabilizar los actuales agentes}
 {4003}{}{bacteriológicos y víricos empleados por el gobierno}
 {4004}{}{Chino, hemos fabricado un fragmento de virus}
@@ -567,7 +407,6 @@
 {4011}{}{La resultante célula anfitriona queda con una}
 {4012}{}{estructura de ADN de cuádruple-hélice.}
 {4013}{}{**END-PAR**}
-# -
 {4014}{}{Los test son prometedores. El virus penetra fácilmente}
 {4015}{}{la membrana celular y se adhiere directamente al núcleo}
 {4016}{}{del ADN anfitrión. La mitosis de la estructura comienza}
@@ -578,7 +417,6 @@
 {4021}{}{expresión fenotípica de la nueva estructura puede}
 {4022}{}{tardar unos días o semanas en hacerse evidente.}
 {4023}{}{**END-PAR**}
-# -
 {4024}{}{Además de una efectiva inmunidad a los agentes víricos}
 {4025}{}{y bacteriológicos, la estructura de cuádruple hélice}
 {4026}{}{es prácticamente inmune a los errores introducidos en el}
@@ -586,9 +424,8 @@
 {4028}{}{multiplicidad de la secuencia base. El tejido expuesto}
 {4029}{}{a la radiación no mostró mutación alguna en la }
 {4030}{}{secuencia base y los mecanismos de síntesis}
-{4031}{}{proteínica de los ribosomas no fueron impares.}
+{4031}{}{**END-PAR**}
 {4032}{}{**END-PAR**}
-# -
 {4033}{}{Más del 80% de las muestras de tejido contenían ADN de}
 {4034}{}{cuádruple hélice. El más afectado fue el tejido muscular}
 {4035}{}{y óseo, así como las células secretoras, ya que estas}
@@ -596,63 +433,46 @@
 {4037}{}{células sensitivas son las menos afectadas.}
 {4038}{}{Sorprendentemente, incluso las células nerviosas}
 {4039}{}{normalmente no replicadoras y no somáticas fueron}
-{4040}{}{inducidas a comenzar la mitosis. Serán necesarios}
-{4041}{}{posteriores experimentos para determinar los resultados}
-{4042}{}{sobre estas células.}
-{4043}{}{**END-DISK**}
-#
-#
-#   5.  *** Delta Experiment Disk *** - DiskD.ssl - "Delta Experiments Log" - (found in The Glow, GLOW2.MAP) - THIS WILL BE MOVED TO A DIALOG SEQUENCE.  -Sduibek
-#
-#
-{5000}{}{}
-{5001}{}{}
-{5002}{}{}
-{5003}{}{}
-{5004}{}{}
-{5005}{}{}
-{5006}{}{}
-{5007}{}{}
-{5008}{}{}
-{5009}{}{}
-#
-#
-#   6.  *** Vree's Experiment Disk *** - VreeDisk.ssl - "Vree's Autopsy Reports" - (received from Vree.ssl)
-#
-#
+{4040}{}{**END-DISK**}
+{5000}{}{The Military has deemed it necessary for us to research}
+{5001}{}{further in depth the effects of wave technology upon}
+{5002}{}{living organisms.  We have taken light and sound as the}
+{5003}{}{basis of our studies.  By manipulating the amplitude of}
+{5004}{}{the light waves and magnifying the frequency, we have}
+{5005}{}{been able to get lasers which will cut through a few}
+{5006}{}{Eso es cierto. Por desgracia, has visto demasiado. Umm.}
+{5007}{}{task has not been fully developed.  We have other}
+{5008}{}{Viendo las estrellas.}
+{5009}{}{**END-DISK**}
 {6000}{}{• Observaciones Iniciales}
 {6001}{}{**END-PAR**}
-# -
 {6002}{}{Esto es realmente increíble. Unos Caballeros en una}
 {6003}{}{expedición de patrulla se toparon con una extraña criatura.}
 {6004}{}{Parece ser humanoide, y probablemente tuviese forma}
 {6005}{}{humana una vez. Aun así, hay muchas diferencias entre}
 {6006}{}{la estructura de esta criatura y la de un humano normal.}
 {6007}{}{**END-PAR**}
-# -
 {6008}{}{Durante la investigación inicial de esta criatura, se ha}
 {6009}{}{descubierto que tiene una estructura celular semejante a}
 {6010}{}{la de los humanos. Antes de que la descomposición pueda}
 {6011}{}{tener lugar, voy a anotar las características de este}
-{6012}{}{sujeto.}
+{6012}{}{**END-PAR**}
 {6013}{}{**END-PAR**}
-# -
-{6014}{}{• Características del Sujeto A:}
+{6014}{}{**END-PAR**}
 {6015}{}{**END-PAR**}
-# -
 {6016}{}{Altura: 3,2 metros}
 {6017}{}{Masa: 363,21 kg}
 {6018}{}{Género: Indeterminado}
 {6019}{}{Color de Piel: Predominantemente gris con tintes de verde}
 {6020}{}{bajo la iluminación actual. No queda claro si esto se debe}
 {6021}{}{a la decadencia o a la exposición al yermo.}
-{6022}{}{Nota: La piel es extremadamente fuerte con respecto a los}
+{6022}{}{**END-PAR**}
 {6023}{}{escalpelos.}
 {6024}{}{**END-PAR**}
 {6025}{}{Desglose de Masa:}
 {6026}{}{    Masa Muscular:  77,41%}
 {6027}{}{    Masa Ósea:      10,23%}
-{6028}{}{    Masa Grasa:      3,02%}
+{6028}{}{**END-PAR**}
 {6029}{}{    Masa Tejidos:    9,34%}
 {6030}{}{**END-PAR**}
 {6031}{}{Estructura Celular:}
@@ -668,63 +488,55 @@
 {6041}{}{    Las cadenas de ADN parecen estar muy completas.}
 {6042}{}{    Todos los genes recesivos de indisposición parecen}
 {6043}{}{    haber sido eliminados del sistema.}
-{6044}{}{    Las cadenas de ARN también parecen haber sido}
+{6044}{}{**END-PAR**}
 {6045}{}{    manipuladas para permitir una mayor transmisión de}
-{6046}{}{    señales.}
+{6046}{}{**END-PAR**}
 {6047}{}{**END-PAR**}
-# -
 {6048}{}{• Hipótesis Inicial}
 {6049}{}{**END-PAR**}
-# -
 {6050}{}{Basándome en el aumento de tamaño de los receptores}
 {6051}{}{sinápticos y de los transmisores neuronales, mi}
 {6052}{}{hipótesis sería que el sujeto tenía unos perfectos}
 {6053}{}{reflejos y unos asombrosos sentidos. Basándome en los}
 {6054}{}{informes de los caballeros sobre la zona en la que se}
-{6055}{}{descubrió al sujeto, árida, altamente radiactiva y}
+{6055}{}{**END-PAR**}
 {6056}{}{con una enorme concentración de agentes químicos, es}
-{6057}{}{un milagro que el sujeto sobreviviese durante tanto}
+{6057}{}{**END-PAR**}
 {6058}{}{tiempo. Se están haciendo pruebas para determinar la}
 {6059}{}{posible causa de la muerte.}
 {6060}{}{**END-PAR**}
-# -
 {6061}{}{• Resultados de las pruebas sobre el Sujeto A:}
 {6062}{}{**END-PAR**}
-# -
 {6063}{}{Inspección Visual:}
 {6064}{}{    Restos de pólvora cerca de la zona sugieren una}
-{6065}{}{    bala como causa de muerte.}
+{6065}{}{**END-PAR**}
 {6066}{}{    Laceraciones de 1,2 cm en la pantorrilla de la}
 {6067}{}{    pierna derecha parecen haber sido provocadas por}
 {6068}{}{    una dentadura. Se harán pruebas para determinar}
 {6069}{}{    posible rabia. Piel seca y despellejada. Posible}
 {6070}{}{    exposición.}
 {6071}{}{**END-PAR**}
-# -
 {6072}{}{Resultados de Pruebas:}
 {6073}{}{    Nivel de Radiación:            12 rads.}
 {6074}{}{    Prueba de Rabia:               Limpio.}
-{6075}{}{    Gas Hidroclórico:              Limpio.}
+{6075}{}{**END-PAR**}
 {6076}{}{    Nivel de Cloro:                .07%}
-{6077}{}{    Contenido Sulfúrico:           .02%}
+{6077}{}{**END-PAR**}
 {6078}{}{    Incubación de Virus:           Limpio.}
 {6079}{}{    Virus Gamma Ciclotrónicos:     Limpio.}
 {6080}{}{    Virus de Evolución Forzada II: Grave Sobredosis}
 {6081}{}{**END-PAR**}
-# -
 {6082}{}{• Hipótesis}
 {6083}{}{**END-PAR**}
-# -
 {6084}{}{Basándome en mis observaciones, mi hipótesis establece}
 {6085}{}{que el sujeto ha muerto a causa de una dura lucha con al}
-{6086}{}{menos dos personas y tres animales del tamaño de perros.}
+{6086}{}{**END-PAR**}
 {6087}{}{Lo realmente sorprendente es la cantidad de infección}
 {6088}{}{vírica del sujeto. Una vez leí que antes de la guerra}
 {6089}{}{algunos científicos llevaron a cabo experimentos con un}
 {6090}{}{virus parecido, pero las notas sobre la investigación}
 {6091}{}{fueron destruidas.}
 {6092}{}{**END-PAR**}
-# -
 {6093}{}{La investigación de este virus ha llevado a interesantes}
 {6094}{}{descubrimientos. El sujeto a examen debe muchas de}
 {6095}{}{sus mutaciones a la sobredosis del virus. Esto se nota}
@@ -733,51 +545,22 @@
 {6098}{}{en los humanos han sido manipulados de tal forma}
 {6099}{}{que presentasen la mejor combinación posible. Aunque}
 {6100}{}{todavía no conocemos el proceso a través del cual esto}
-{6101}{}{ocurre, sabemos que tiene algunos efectos secundarios,}
+{6101}{}{**END-PAR**}
 {6102}{}{siendo la esterilidad el más importante de ellos. El}
-{6103}{}{sujeto a examen habría sido incapaz de reproducirse con}
+{6103}{}{**END-PAR**}
 {6104}{}{otra criatura, tanto limpia como mutada. Otro efecto}
 {6105}{}{secundario es la alteración del pigmento epidérmico.}
 {6106}{}{La esperanza de vida aumenta en un 10%. El intelecto}
 {6107}{}{queda reducido en un 30% por esta cepa.}
 {6108}{}{**END-PAR**}
-# -
 {6109}{}{• Conclusiones}
-{6110}{}{**END-PAR**}
-# -
-{6111}{}{Basándome en esta información, diría que podemos}
-{6112}{}{simplemente dejar que estos mutantes se extingan.}
-{6113}{}{Pero, teniendo en cuenta que los mutantes tienen una}
-{6114}{}{elevadísima concentración de virus, parece evidente que}
-{6115}{}{debe de haber un lugar donde los están creando. Dónde}
-{6116}{}{puede estar ese lugar, es algo que no puedo ni}
-{6117}{}{remotamente adivinar.}
-{6118}{}{**END-DISK**}
-#
-#
-#   7.
-#
-#
-# (was previously Brotherhood of Steel Honor Code - CodeDisk.ssl - NOT USED IN GAME, GOES AGAINST FALLOUT CANON.  -Sduibek)
-#
-#
-start
-
-
-end
-#
-#
-#   8.  *** SUPER MUTANT TRANSMISSIONS *** - MutDisk.ssl - "Mutant Transmissions Disk" - (received from DCMutant.ssl)
-#
-#
+{6110}{}{**END-DISK**}
 {8000}{}{Mensaje enviado: Base, aquí el Equipo Carroñero Dos.}
 {8001}{}{Cambio.}
 {8002}{}{**END-PAR**}
-# -
 {8003}{}{Mensaje recibido: Os recibimos alto y claro, adelante.}
 {8004}{}{Cambio.}
 {8005}{}{**END-PAR**}
-# -
 {8006}{}{Mensaje enviado: Hemos recogido dos machos, dos hembras}
 {8007}{}{y sus provisiones de la caravana. No están demasiado}
 {8008}{}{contaminados. Decidle al Teniente que se los mandamos,}
@@ -785,11 +568,9 @@ end
 {8010}{}{Nosotros esperaremos aquí un par de días más, e}
 {8011}{}{intentaremos interceptar otra caravana. Cambio.}
 {8012}{}{**END-PAR**}
-# -
 {8013}{}{Mensaje recibido: Bien, Oído. ¿Algún incidente}
 {8014}{}{durante la adquisición? Cambio.}
 {8015}{}{**END-PAR**}
-# -
 {8016}{}{Mensaje enviado: Negativo. Otra jugada limpia. Base,}
 {8017}{}{también comuniquen al Equipo Carroñero Uno que hemos}
 {8018}{}{tenido el mismo problema que ellos. Uno de nuestros}
@@ -797,25 +578,17 @@ end
 {8020}{}{Otros de nuestros exploradores informaron de algo grande}
 {8021}{}{y rápido visto cerca de nuestro campamento anoche.}
 {8022}{}{Lo comprobaré personalmente mañana por la mañana a las}
-{8023}{}{0600 horas. Cambio.}
+{8023}{}{**END-PAR**}
 {8024}{}{**END-PAR**}
-# -
 {8025}{}{Mensaje recibido: Recibido. Esperaremos tu informe.}
 {8026}{}{Si es posible, intenta capturarlo. El Maestro estará}
-{8027}{}{muy satisfecho. Cambio.}
-{8028}{}{**END-DISK**}
-#
-#
-#   9.  *** Military Base Disk*** - IS THIS EVEN FOUND/USED IN-GAME?
-#
-#
+{8027}{}{**END-DISK**}
 {9000}{}{• 10 Oct, 2077}
-{9001}{}{Yo, Roger Maxson, Capitán, número de serie 072389, he}
+{9001}{}{Yo, Roger Maxson, Capitán, número de serie 072389 he}
 {9002}{}{comenzado este diario porque no parece que ninguno de}
 {9003}{}{nosotros vaya a sobrevivir, y quiero que la gente sepa}
 {9004}{}{lo que realmente ocurrió aquí.}
 {9005}{}{**END-PAR**}
-# -
 {9006}{}{El infierno se desató cuando finalmente descubrimos lo}
 {9007}{}{que esos malditos científicos tenían entre manos. El}
 {9008}{}{Coronel se ha encerrado en su oficina y parece que sufre}
@@ -824,16 +597,14 @@ end
 {9011}{}{Aunque, alguien tiene que hacer algo, antes de que esté}
 {9012}{}{lugar se convierta en un caótico baño de sangre.}
 {9013}{}{**END-PAR**}
-# -
 {9014}{}{• 12 Oct. 2077}
 {9015}{}{Cada vez que nos llega un informe de los de arriba las}
 {9016}{}{cosas se ponen peor aquí. La guerra se está poniendo muy}
 {9017}{}{fea y aquí se va a desencadenar un motín, por todo el}
 {9018}{}{caos que ocasiona. Evité que uno de los hombres ejecutase}
-{9019}{}{hoy a un científico y pedí que se les interrogase para}
-{9020}{}{descubrir que órdenes tenían.}
+{9019}{}{hoy a un científico, y pedí que se les interrogase para}
+{9020}{}{descubrir qué órdenes tenían.}
 {9021}{}{**END-PAR**}
-# -
 {9022}{}{• 13 Oct. 2077 }
 {9023}{}{Hoy he matado a un hombre. Estaba interrogando al Jefe}
 {9024}{}{Científico Anderson, me estaba dando todos los detalles de}
@@ -844,19 +615,17 @@ end
 {9029}{}{para evitar que los hombres se amotinasen, pero no lo}
 {9030}{}{tengo tan claro.}
 {9031}{}{**END-PAR**}
-# -
 {9032}{}{• 15 Oct. 2077}
 {9033}{}{He vuelto a intentar hablar con el coronel a través de la}
-{9034}{}{puerta, pero parece que ha perdido todo sentido de la}
+{9034}{}{puerta, pero parece que ha perdido todo sentido de la.}
 {9035}{}{realidad. Junto con varios hombres tiré la puerta abajo}
 {9036}{}{justo a tiempo para ver como se volaba los sesos. Antes}
 {9037}{}{de apretar el gatillo dijo que lo sentía.}
 {9038}{}{**END-PAR**}
-# -
 {9039}{}{• 18 Oct. 2077}
 {9040}{}{Muerto el cabeza hueca, parece que se confirma mi}
 {9041}{}{posición como líder. Los hombres me siguen sin}
-{9042}{}{cuestionar. Los interrogatorios terminan invariablemente}
+{9042}{}{Los interrogatorios terminan invariablemente en}
 {9043}{}{en ejecuciones. Shellman fue la que más aguantó, pero al}
 {9044}{}{final el resultado fue el mismo. Sus argumentos sobre las}
 {9045}{}{órdenes que obedecía eran demasiado específicos para ser}
@@ -864,25 +633,22 @@ end
 {9047}{}{sobre cómo va a acabar todo esto. Ya ni siquiera me}
 {9048}{}{miento a mí mismo sobre por qué ejecuto a los científicos.}
 {9049}{}{**END-PAR**}
-# -
 {9050}{}{• 20 Oct. 2077}
-{9051}{}{Finalmente contesté al mundo exterior a través de nuestra}
-{9052}{}{radio. No sé por qué nunca enviaron a nadie aquí para ver}
+{9051}{}{Finalmente contesté al mundo exterior a través de}
+{9052}{}{nuestra radio. No sé por qué nunca enviaron a nadie}
 {9053}{}{que pasaba, cuando dejamos de contestar sus transmisiones}
 {9054}{}{No tiene sentido. Bueno, de seguro ahora sí que vendrán.}
 {9055}{}{Nos hemos declarado escindidos de la unión.}
 {9056}{}{Jefferson Davis, chúpate esa.}
 {9057}{}{**END-PAR**}
-# -
 {9058}{}{• 22 Oct. 2077}
 {9059}{}{¿Qué demonios ocurre? Nos declaramos absolutos}
 {9060}{}{desertores del ejército y renegamos del mando del}
 {9061}{}{Gobierno, ¿y qué ocurre? Nada.}
 {9062}{}{Algo malo se avecina.}
 {9063}{}{**END-PAR**}
-# -
 {9064}{}{• 23 Oct. 2077}
-{9065}{}{No puedo creer que esos cabrones lo hiciesen al final.}
+{9065}{}{No puedo creer que esos cabrones lo hiciesen al final. Que}
 {9066}{}{Que se pudran todos en el infierno. Lanzaron las}
 {9067}{}{bombas-A. Justo cuando estábamos sacándole toda la}
 {9068}{}{verdad a Von Felden, perdimos completamente el contacto.}
@@ -894,7 +660,6 @@ end
 {9074}{}{en las instalaciones. Todavía no sabemos si el derrame}
 {9075}{}{nuclear ha alcanzado esta área.}
 {9076}{}{**END-PAR**}
-# -
 {9077}{}{• 25 Oct. 2077}
 {9078}{}{El Sgt. Platner se presentó voluntario hoy para recoger}
 {9079}{}{lecturas específicas de la atmósfera. Parece que las}
@@ -904,29 +669,21 @@ end
 {9083}{}{Aquí no tenemos los medios de descontaminación}
 {9084}{}{adecuados.}
 {9085}{}{**END-PAR**}
-# -
 {9086}{}{• 26 Oct. 2077}
 {9087}{}{He convencido a los hombres de que deberíamos enterrar a}
-{9088}{}{los científicos. No sé por qué... quizás para tener la}
+{9088}{}{a los científicos. No sé por qué... quizás para tener la}
 {9089}{}{conciencia tranquila, comencé a creerme lo que contaban}
 {9090}{}{cuando el último se estaba muriendo.}
 {9091}{}{**END-PAR**}
-# -
 {9092}{}{¿Dios mío, en qué me he convertido?}
 {9093}{}{**END-PAR**}
-# -
-{9094}{}{• 27 Oct. 2077}
+{9094}{}{**END-PAR**}
 {9095}{}{Hoy abandonamos este lugar dejado de la mano de dios.}
 {9096}{}{Guiaré el éxodo hasta el viejo búnker del gobierno de las}
-{9097}{}{Colinas Perdidas. Voy a dejar este diario aquí para que}
-{9098}{}{sea enterrado con este lugar. Quien sabe, quizás alguien}
-{9099}{}{lo encuentre algún día...}
+{9097}{}{Guiaré el éxodo hasta el viejo búnker del gobierno de las}
+{9098}{}{Colinas Perdidas. Voy a dejar este diario aquí para que}
+{9099}{}{sea enterrado con este lugar. Quien sabe, quizás alguien}
 {9100}{}{**END-DISK**}
-#
-#
-#   10.  *** Sophia Disk *** - SopDisk.ssl - "Sophia's Disk"
-#
-#
 {10000}{}{El Éxodo de la base condenada era una oportunidad para}
 {10001}{}{los hombres y sus familias. Aunque no había contaminación}
 {10002}{}{radioactiva contra la que luchar, fueron frecuentemente}
@@ -934,37 +691,31 @@ end
 {10004}{}{bandas de psicópatas intentaron atacar varias veces}
 {10005}{}{al noble grupo.}
 {10006}{}{**END-PAR**}
-# -
 {10007}{}{La compañía en sí no estaba en peligro, ya que llevaban}
 {10008}{}{puestas sus Armaduras de Energía. Sus familias tuvieron}
 {10009}{}{menos suerte. Cuando los malhechores se dieron cuenta de}
 {10010}{}{su vulnerabilidad, comenzaron a disparar a los civiles}
 {10011}{}{a larga distancia.}
 {10012}{}{**END-PAR**}
-# -
 {10013}{}{Sufrieron muchas bajas, pero por cada miembro del}
 {10014}{}{Éxodo caído de esta forma, nuestra noble especie se }
 {10015}{}{cobró dos vidas del yermo.}
 {10016}{}{**END-PAR**}
-# -
 {10017}{}{Finalmente, los padres fundadores llegaron a la seguridad}
 {10018}{}{del búnker. El Capt. Maxson, el gran suministrador,}
 {10019}{}{decretó que este sería nuestro hogar, y todo se arregló.}
 {10020}{}{**END-PAR**}
-# -
 {10021}{}{Con el tiempo, el búnker se convirtió en nuestro hogar,}
 {10022}{}{nuestro templo y nuestra salvación de los terrores del}
 {10023}{}{mundo exterior. Comenzamos a construir y a modelar}
 {10024}{}{nuestra fortaleza como algo glorioso, de una belleza}
 {10025}{}{nunca vista en este mundo tecnológicamente desnudo.}
 {10026}{}{**END-PAR**}
-# -
 {10027}{}{Pero algunos querían todavía más. Estas ambiciosas}
 {10028}{}{almas pidieron que fuésemos al sudeste en busca de}
 {10029}{}{la tecnología avanzada que supuestamente se albergaba}
 {10030}{}{allí.}
 {10031}{}{**END-PAR**}
-# -
 {10032}{}{El Capt. Maxson advirtió a estos impetuosos jóvenes que}
 {10033}{}{las instalaciones de investigación habían sido destruidas}
 {10034}{}{cuando nos fuimos, pero no le hicieron caso. Cogieron sus}
@@ -972,72 +723,50 @@ end
 {10036}{}{Grial, no sin antes mencionar el nombre del Suministrador}
 {10037}{}{en vano, ¡cuestionando su valentía!}
 {10038}{}{**END-PAR**}
-# -
 {10039}{}{Nunca se volvió a tener noticia de estos hombres.}
 {10040}{}{**END-DISK**}
-#
-#
-#   11.  *** Maxson Disk *** - MaxDisk.ssl - "Maxson's Log"
-#
-#
 {11000}{}{Por orden mía, como oficial activo al mando tras la}
 {11001}{}{muerte del Coronel Robert Spindel durante estos}
 {11002}{}{tiempos de crisis, la totalidad del grupo de seguridad ha}
 {11003}{}{sido desplegado al búnker de seguridad de las Colinas}
-{11004}{}{Perdida.}
+{11004}{}{**END-PAR**}
 {11005}{}{**END-PAR**}
-# -
 {11006}{}{Esta ordenanza también incluye a las familias de los}
-{11007}{}{oficiales y a los hombres alistados.}
+{11007}{}{**END-PAR**}
 {11008}{}{**END-PAR**}
-# -
 {11009}{}{A no ser que se disponga lo contrario, por parte}
 {11010}{}{de un representante cualificado del Departamento de}
-{11011}{}{Guerra, esta orden se acatará como sigue.}
+{11011}{}{**END-PAR**}
 {11012}{}{**END-PAR**}
-# -
 {11013}{}{Resolución 1: Todo el personal militar, y sus familias,}
 {11014}{}{evacuarán la base a las 0800, 25 Oct 2077.}
 {11015}{}{Todo el personal, viajando bajo supervisión, se dirigirá}
-{11016}{}{a la base de Colinas Perdida.}
+{11016}{}{**END-PAR**}
 {11017}{}{**END-PAR**}
-# -
 {11018}{}{Resolución 2: Todo el personal civil deberá permanecer}
 {11019}{}{en la base, a la espera de órdenes de su estructura de}
-{11020}{}{mando legal.}
+{11020}{}{**END-PAR**}
 {11021}{}{**END-PAR**}
-# -
 {11022}{}{Resolución 3: El equipo considerado necesario para la}
 {11023}{}{supervivencia del personal militar de la base debe}
 {11024}{}{cogerse inmediatamente del almacén. La autorización}
-{11025}{}{necesaria llegará más tarde, cuando el tiempo lo}
+{11025}{}{**END-PAR**}
 {11026}{}{permita.}
 {11027}{}{**END-PAR**}
-# -
 {11028}{}{Resolución 4: todos los códigos de justicia militar serán}
-{11029}{}{severamente aplicados, sobre el personal militar y sobre}
+{11029}{}{**END-PAR**}
 {11030}{}{el personal civil cuando actúe en operaciones conjuntas.}
 {11031}{}{**END-PAR**}
-# -
 {11032}{}{Resolución 5: Hasta el momento en que sea posible}
 {11033}{}{establecer comunicación constante y autorizada con}
-{11034}{}{el Departamento de Guerra, estas órdenes gozarán de}
+{11034}{}{**END-PAR**}
 {11035}{}{preeminencia sobre toda orden establecida anteriormente.}
 {11036}{}{**END-PAR**}
-# -
-{11037}{}{Capitán Maxson}
-{11038}{}{24 Oct 2077}
-{11039}{}{**END-DISK**}
-#
-#
-#   12.  *** Richard Grey audio diary *** - Downloaded from Vats Control Computer (MBVATS12.MAP)
-#
-#
+{11037}{}{**END-DISK**}
 {12000}{}{                                                    0000 - 0004}
 {12001}{}{Me muero. Necesito grabar esto antes de que el dolor}
 {12002}{}{me sobrepase.}
 {12003}{}{**END-PAR**}
-# -
 {12004}{}{                                                    0005 - 0020}
 {12005}{}{Todavía no me creo que fuese capaz de arrastrarme fuera}
 {12006}{}{de ese tanque. La mezcla no me afectó, pero casi me}
@@ -1047,14 +776,12 @@ end
 {12010}{}{habría intentado ayudarme. Francine murió,}
 {12011}{}{asesinada por uno de esos robots.}
 {12012}{}{**END-PAR**}
-# -
 {12013}{}{                                                    0021 - 0027}
 {12014}{}{No tengo ni idea de cuánto tiempo ha pasado. Fui capaz}
 {12015}{}{de introducirme en el ordenador, apagar los robots y}
 {12016}{}{grabar esto, pero ahora mi mente se aleja.}
 {12017}{}{El dolor es tremendo.}
 {12018}{}{**END-PAR**}
-# -
 {12019}{}{                                                    0028 - 0043}
 {12020}{}{El mejunje verde en el que me metieron es la fuente de}
 {12021}{}{todas las mutaciones que nos trajeron hasta aquí. Mi}
@@ -1062,7 +789,6 @@ end
 {12023}{}{salido unas ampollas que supuran una especie de}
 {12024}{}{mucosidad. Hay días en los que el dolor es tolerable.}
 {12025}{}{**END-PAR**}
-# -
 {12026}{}{                                                    0044 - 0057}
 {12027}{}{Puedo andar un poco de nuevo... parece increíble}
 {12028}{}{que me arrastrase hasta aquí arriba desde la sala}
@@ -1070,7 +796,6 @@ end
 {12030}{}{siento más fuerte, aunque todavía tengo muchos dolores.}
 {12031}{}{Es como si todo lo que me rodea estuviese encogiendo.}
 {12032}{}{**END-PAR**}
-# -
 {12033}{}{                                                    0058 - 0096}
 {12034}{}{Creo que hoy he consumido una de esas cosas mutantes}
 {12035}{}{que corretean por aquí. Antes de darme cuenta de lo que}
@@ -1083,7 +808,6 @@ end
 {12042}{}{Quizá todavía estoy en el tanque, muriéndome,}
 {12043}{}{y me he imaginado todo esto.}
 {12044}{}{**END-PAR**}
-# -
 {12045}{}{                                                    0097 - 0111}
 {12046}{}{Las cosas parecen más claras cada día que pasa. Lo cierto}
 {12047}{}{es que esta toxina ha mejorado mi mente. Lo siento. Puedo}
@@ -1093,7 +817,6 @@ end
 {12051}{}{sumergiese un animal en los tanques por un prolongado}
 {12052}{}{periodo de tiempo? ¿Aumentaría su consciencia?}
 {12053}{}{**END-PAR**}
-# -
 {12054}{}{                                                    0112 - 0134}
 {12055}{}{Algo rarísimo les está pasando a los animales.}
 {12056}{}{Se vuelven más listos y más conscientes de su entorno.}
@@ -1107,19 +830,16 @@ end
 {12064}{}{a través del cual se conseguirá la unidad. Ahora}
 {12065}{}{soy mucho más que un humano.}
 {12066}{}{**END-PAR**}
-# -
 {12067}{}{                                                    0135 - 0139}
 {12068}{}{Es hora de traer a los demás a la gloria que será}
 {12069}{}{la Unidad.}
 {12070}{}{**END-PAR**}
-# -
 {12071}{}{                                                    0140 - 0153}
 {12072}{}{Por fin un alma perdida ha llegado a mi hogar. Fue tan}
 {12073}{}{sorprendente. Le consumí antes del baño, un error que no}
 {12074}{}{volveré a cometer. Su mente era tan primitiva que resultaba}
 {12075}{}{repulsiva para mis refinadas habilidades cognitivas.}
 {12076}{}{**END-PAR**}
-# -
 {12077}{}{                                                    0154 - 0172}
 {12078}{}{He comenzado a modificarme, para servir mejor a la Unidad,}
 {12079}{}{inyectándome pequeñas dosis del virus. La mezcla de los}
@@ -1127,7 +847,6 @@ end
 {12081}{}{de Evolución Forzada. He adquirido esta información}
 {12082}{}{gracias a mi nuevo neuroenlace con el ordenador base.}
 {12083}{}{**END-PAR**}
-# -
 {12084}{}{                                                    0173 - 0198}
 {12085}{}{Los pocos viajeros que han logrado llegar hasta aquí}
 {12086}{}{me han decepcionado. No parecen mutar correctamente. Lo}
@@ -1137,7 +856,6 @@ end
 {12090}{}{Ahora solo los alimento con gasolina. Sus mentes no}
 {12091}{}{significan nada para mí.}
 {12092}{}{**END-PAR**}
-# -
 {12093}{}{                                                    0199 - 0236}
 {12094}{}{¡Oh glorioso creador! ¡He conseguido extender el sublime}
 {12095}{}{goce de la unificación a otra alma! Al contrario que los}
@@ -1147,7 +865,6 @@ end
 {12099}{}{sujetos con un daño radiactivo menor. Nunca antes conocí}
 {12100}{}{tanta gloria como la que experimenté al tomar su mente.}
 {12101}{}{**END-PAR**}
-# -
 {12102}{}{                                                    0237 - 0281}
 {12103}{}{Estamos empezando a crear un ejército para llevar a cabo}
 {12104}{}{la unificación de la maravillosa diversidad natural. Les}
@@ -1157,18 +874,12 @@ end
 {12108}{}{Buscaremos un hogar permanente, con un gran almacén}
 {12109}{}{de conocimiento y un suministro constante de biomasa.}
 {12110}{}{**END-PAR**}
-# -
 {12111}{}{                                                    0282 - 0303}
 {12112}{}{Hemos dejado de crecer hasta que encontremos un nuevo}
 {12113}{}{centro de unificación. Cuando lleguemos, continuaremos}
 {12114}{}{creciendo y alimentándonos hasta que hagamos llegar la}
 {12115}{}{paz y la unidad al mundo entero.}
 {12116}{}{**END-DISK**}
-#
-#
-#   13.  *** Captain Maxson's Diary *** - Downloaded from Vats Control Computer (MBVATS12.MAP)
-#
-#
 {13000}{}{• 10 Oct, 2077}
 {13001}{}{Yo, Roger Maxson, Capitán, número de serie 072389 he}
 {13002}{}{comenzado este diario porque no parece que ninguno de}
@@ -1182,7 +893,6 @@ end
 {13010}{}{que esté lugar se convierta en un caótico baño de}
 {13011}{}{sangre.}
 {13012}{}{**END-PAR**}
-# -
 {13013}{}{• 12 Oct. 2077}
 {13014}{}{Cada vez que nos llega un informe de los de arriba las}
 {13015}{}{cosas se ponen peor aquí. La guerra se está poniendo}
@@ -1191,7 +901,6 @@ end
 {13018}{}{hoy a un científico, y pedí que se les interrogase para}
 {13019}{}{descubrir qué órdenes tenían.}
 {13020}{}{**END-PAR**}
-# -
 {13021}{}{• 13 Oct. 2077}
 {13022}{}{Hoy he matado a un hombre. Estaba interrogando al Jefe}
 {13023}{}{Científico Anderson, me estaba dando todos los detalles}
@@ -1201,7 +910,6 @@ end
 {13027}{}{militar... solo le pegué un tiro. Me digo a mí mismo}
 {13028}{}{que lo hice para evitar un motín, pero no estoy seguro.}
 {13029}{}{**END-PAR**}
-# -
 {13030}{}{• 15 Oct. 2077}
 {13031}{}{He vuelto a intentar hablar con el coronel a través de la,}
 {13032}{}{puerta, pero parece que ha perdido todo sentido de la.}
@@ -1209,7 +917,6 @@ end
 {13034}{}{justo a tiempo para ver como se volaba los sesos. Antes}
 {13035}{}{de apretar el gatillo dijo que lo sentía.}
 {13036}{}{**END-PAR**}
-# -
 {13037}{}{• 18 Oct. 2077}
 {13038}{}{Muerto el cabeza hueca, parece que se confirma mi}
 {13039}{}{posición como líder. Los hombres me siguen sin cuestión.}
@@ -1221,7 +928,6 @@ end
 {13045}{}{sobre cómo va a acabar todo esto. Ya ni siquiera me}
 {13046}{}{miento a mí mismo sobre por qué ejecuto a los científicos.}
 {13047}{}{**END-PAR**}
-# -
 {13048}{}{• 20 Oct. 2077}
 {13049}{}{Finalmente contesté al mundo exterior a través de}
 {13050}{}{nuestra radio. No sé por qué nunca enviaron a nadie}
@@ -1231,14 +937,12 @@ end
 {13054}{}{de la unión. Recuerdan a Jefferson Davis. ¿Qué}
 {13055}{}{dirá la historia de mí?}
 {13056}{}{**END-PAR**}
-# -
 {13057}{}{• 22 Oct. 2077}
 {13058}{}{¿Qué demonios ocurre? Nos declaramos absolutos}
 {13059}{}{desertores del ejército y renegamos del mando del}
 {13060}{}{Gobierno, ¿y qué ocurre? Nada.}
 {13061}{}{Algo malo se avecina.}
 {13062}{}{**END-PAR**}
-# -
 {13063}{}{• 23 Oct. 2077}
 {13064}{}{No puedo creer que esos cabrones lo hiciesen al final. Que}
 {13065}{}{se pudran todos en el infierno. Lanzaron las bombas-A.}
@@ -1252,7 +956,6 @@ end
 {13073}{}{instalaciones. Todavía no sabemos si el derrame}
 {13074}{}{nuclear ha alcanzado esta área.}
 {13075}{}{**END-PAR**}
-# -
 {13076}{}{• 25 Oct. 2077}
 {13077}{}{El Sgt. Platner se presentó voluntario hoy para recoger}
 {13078}{}{lecturas específicas de la atmósfera. Parece que las}
@@ -1262,27 +965,19 @@ end
 {13082}{}{Aquí no tenemos los medios de descontaminación}
 {13083}{}{adecuados.}
 {13084}{}{**END-PAR**}
-# -
 {13085}{}{• 26 Oct. 2077}
 {13086}{}{He convencido a los hombres de que deberíamos enterrar}
 {13087}{}{a los científicos. No sé por qué... quizás para tener la}
 {13088}{}{conciencia tranquila, comencé a creerme lo que contaban}
 {13089}{}{cuando el último se estaba muriendo.}
-{13090}{}{Dios mío, ¿en qué me he convertido?}
+{13090}{}{**END-PAR**}
 {13091}{}{**END-PAR**}
-# -
 {13092}{}{• 27 Oct. 2077}
 {13093}{}{Hoy abandonamos este lugar dejado de la mano de dios.}
 {13094}{}{Guiaré el éxodo hasta el viejo búnker del gobierno de las}
 {13095}{}{Colinas Perdidas. Voy a dejar este diario aquí para que}
 {13096}{}{sea enterrado con este lugar. Quien sabe, quizás alguien}
-{13097}{}{lo encuentre algún día...}
-{13098}{}{**END-DISK**}
-#
-#
-#   14.  *** FEV Research *** - (Downloaded from ZAX on GLOW2.MAP) - "FEV project"
-#
-#
+{13097}{}{**END-DISK**}
 {14000}{}{Informe Resumido VEF:}
 {14001}{}{**END-PAR**}
 {14002}{}{2073. A medida que China incrementó la agresividad de}
@@ -1291,13 +986,11 @@ end
 {14005}{}{El Proyecto de Pan-Inmunidad Vírica (PPV) se formó}
 {14006}{}{oficialmente el 15 de Septiembre, 2073.}
 {14007}{}{**END-PAR**}
-#
 {14008}{}{2075. Resultaba evidente que el mejor modo de combatir}
 {14009}{}{las nuevas armas biológicas era alterar el ADN}
 {14010}{}{no infectado para que ya no fuese vulnerable a las}
 {14011}{}{infecciones víricas estándar.}
 {14012}{}{**END-PAR**}
-#
 {14013}{}{2076. A principios del 2076 empezaron a surgir efectos}
 {14014}{}{secundarios no previsto con el PPV. Los sujetos animales}
 {14015}{}{comenzaron a mostrar un ritmo de crecimiento anormal}
@@ -1306,9 +999,8 @@ end
 {14018}{}{descubrimientos y en interés de la seguridad nacional,}
 {14019}{}{desplazó a un equipo de campo para supervisar el}
 {14020}{}{proyecto, que desde entonces se denominó proyecto VEF}
-{14021}{}{(Virus de Evolución Forzada).}
+{14021}{}{**END-PAR**}
 {14022}{}{**END-PAR**}
-#
 {14023}{}{2077. VEF casi completo. Las pruebas en animales de}
 {14024}{}{laboratorio casi llegan al 100% de éxitos. El tamaño y la}
 {14025}{}{densidad muscular aumentan aproximadamente en un 60%,}
@@ -1318,15 +1010,7 @@ end
 {14029}{}{Los militares, deseando que se continúe con la}
 {14030}{}{investigación, construyen un gran centro en las}
 {14031}{}{instalaciones militares Mariposa en California}
-{14032}{}{central. Aquí continuamos con las pruebas del}
-{14033}{}{Virus de Evolución Forzada sobre sujetos}
-{14034}{}{voluntarios del ejército.}
-{14035}{}{**END-DISK**}
-#
-#
-#   15.  *** Power Armor Specs *** - (Downloaded from ZAX on GLOW2.MAP)
-#
-#
+{14032}{}{**END-DISK**}
 {15000}{}{La Armadura Reforzada de Infantería T-51b ha sido creada}
 {15001}{}{con los últimos descubrimientos en defensa pasiva tanto}
 {15002}{}{de ataques civiles como militares. El Paquete trasero de}
@@ -1338,63 +1022,46 @@ end
 {15008}{}{gramos micro plata puede reflejar las emisiones de láser}
 {15009}{}{y radiación sin dañar el compuesto bajo la superficie.}
 {15010}{}{**END-DISK**}
-#
-#
-#   16.  *** Personnel Records *** - (Downloaded from ZAX on GLOW2.MAP) - "West Tek Records"
-#
-#
 {16000}{}{Robert Anderson}
 {16001}{}{Ayudante de Investigación}
 {16002}{}{Código de Seguridad: Azul}
 {16003}{}{Destino: Base Militar Mariposa}
 {16004}{}{**END-PAR**}
-#
 {16005}{}{Nick Davis}
 {16006}{}{Director de la División NBC de Investigación West Tech}
 {16007}{}{Código de Seguridad: Azul}
-{16008}{}{Destino: Instalaciones de Investigación West Tech}
+{16008}{}{Destino: Instalaciones Investigación West Tech}
 {16009}{}{**END-PAR**}
-#
 {16010}{}{John Isaac}
 {16011}{}{Ayudante de Investigación}
 {16012}{}{Código de Seguridad: Rojo}
-{16013}{}{Destino: Instalaciones de Investigación West Tech}
+{16013}{}{Destino: Instalaciones Investigación West Tech}
 {16014}{}{**END-PAR**}
-#
 {16015}{}{Steve Remco}
 {16016}{}{Ayudante de Investigación}
 {16017}{}{Código de Seguridad: Azul}
 {16018}{}{Destino: Base Militar Mariposa}
 {16019}{}{**END-PAR**}
-#
 {16020}{}{Charles Rignhold}
 {16021}{}{Jefe Investigación Desarrollo del Láser}
 {16022}{}{Código de Seguridad: Azul}
 {16023}{}{Destino: Instalaciones Investigación West Tech}
 {16024}{}{**END-PAR**}
-#
 {16025}{}{Michele Santose}
 {16026}{}{Técnico de Laboratorio}
 {16027}{}{Código de Seguridad: Rojo}
 {16028}{}{Destino: Instalaciones Investigación West Tech}
 {16029}{}{**END-PAR**}
-#
 {16030}{}{Erin Shellman}
 {16031}{}{Técnico de Laboratorio}
 {16032}{}{Código de Seguridad: Azul}
 {16033}{}{Destino: Base Militar Mariposa}
 {16034}{}{**END-PAR**}
-#
 {16035}{}{Leon VonFelden}
 {16036}{}{Jefe Investigación VEF}
 {16037}{}{Código de Seguridad: Azul}
 {16038}{}{Destino: Base Militar Mariposa}
 {16039}{}{**END-DISK**}
-#
-#
-#   17. was Vault Locations, is now blank. --Vault Locations was moved to 2.--
-#
-#
 {17000}{}{}
 {17001}{}{}
 {17002}{}{}
@@ -1445,45 +1112,33 @@ end
 {17047}{}{}
 {17048}{}{}
 {17049}{}{}
-#
-#
-#   18.  *** Regulators Radio Transmission *** - RegDisk.ssl - (for Blades/Jon quest) - "Regulator Transmission"
-#
-#
 {18000}{}{Diario de transmisión de radio de los Reguladores:}
 {18001}{}{**END-PAR**}
-#
 {18002}{}{Mensaje enviado: Patrulla Reguladora a Base Reguladora,}
 {18003}{}{corto. ¿Me recibe? Cambio.}
 {18004}{}{**END-PAR**}
-#
 {18005}{}{Mensaje recibido: Aquí base Reguladora, Regulador}
 {18006}{}{Principal Caleb al aparato. ¿Informa? Cambio.}
 {18007}{}{**END-PAR**}
-#
 {18008}{}{Mensaje enviado: ¡Señor, sí señor! Regulador de Segunda}
 {18009}{}{Clase Cravotta informando. Hemos atrapado al chico de}
 {18010}{}{Zimmerman intentando infiltrarse en nuestro perímetro de}
 {18011}{}{nuevo, señor. ¿Órdenes? Cambio.}
 {18012}{}{**END-PAR**}
-#
 {18013}{}{Mensaje recibido: ¡Mierda! ¡¿Otra vez?! Pues será la}
 {18014}{}{última vez que ocurra. Eliminadle y haced que parezca}
 {18015}{}{que fue cosa de los Navajas.}
 {18016}{}{¿Entendido? Cambio.}
 {18017}{}{**END-PAR**}
-#
 {18018}{}{Mensaje enviado: ¿Señor? ¿... he oído correctamente,}
 {18019}{}{señor? ¿Matarle? Cambio.}
 {18020}{}{**END-PAR**}
-#
 {18021}{}{Mensaje recibido: Afirmativo, Regulador.}
 {18022}{}{Y que sea aparente. Empaladle en los postes de guardia}
 {18023}{}{de la entrada... oh, y cortadle la lengua para que no}
 {18024}{}{pueda hablar mientras "intentamos" salvar a ese}
 {18025}{}{desgraciado. ¿Cambio?}
 {18026}{}{**END-PAR**}
-#
 {18027}{}{Mensaje enviado: Así se hará, señor. Cambio y corto.}
 {18028}{}{**END-PAR**}
 {18029}{}{Fin transmisión.}

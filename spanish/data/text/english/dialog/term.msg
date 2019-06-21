@@ -2,13 +2,16 @@
 {101}{}{No tienes acceso a este terminal.}
 {102}{}{La clase dura seis horas. Estás agotado.}
 {103}{}{Ya has asimilado todo lo que puedes.}
-#
 {200}{}{Estás viendo un ordenador. Ves que tiene algunas trozos de algo que podría ser carne humana.}
-#
 {201}{}{Toqueteas el ordenador un rato pero no puedes hackear su sistema de seguridad.}
-{202}{}{Este ordenador funciona perfectamente.}
-{203}{}{Encuentras un archivo de datos interesante sobre una base secreta al noroeste.}
-#
-# A number is inserted between 204 and 205
-{204}{}{Ganas }
-{205}{}{ puntos de experiencia por colarte en este ordenador.}
+{202}{}{Encuentras un archivo de datos interesante sobre una base secreta al noroeste.}
+{203}{}{Ganas }
+{204}{}{ puntos de experiencia por colarte en este ordenador.}
+{205}{}{You discover some new information about Mariposa Military Base which you didn't known yet.}
+{206}{}{Ganas }
+{207}{}{ puntos de experiencia por colarte en este ordenador.}
+{208}{}{Ganas }
+{209}{}{ puntos de experiencia por liberar a Tandi.}
+{210}{}{, but ultimately you don't find any new intel while searching this terminal.}
+{211}{}{    Las cadenas de ADN parecen estar muy completas.}
+{300}{}{Este ordenador funciona perfectamente.}

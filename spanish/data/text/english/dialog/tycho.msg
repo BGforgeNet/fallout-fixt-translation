@@ -31,7 +31,7 @@
 {130}{}{No es asunto tuyo, caraculo.}
 {131}{}{Qué bien encontrarte. Pisa con cuidado, colega.}
 {132}{}{Vaya, vaya, no hace falta ser maleducado. Con esa actitud será mejor que te vayas.}
-{133}{}{Vete al cuerno.}
+{133}{}{Chúpate esa.}
 {134}{}{Lo que sea. Nos vemos.}
 {135}{}{¿Qué quieres?}
 {136}{}{Siento molestarte en tu tiempo de descanso. Vete por ahí.}
@@ -65,11 +65,6 @@
 {164}{}{¿Qué tipo de técnicas con armas tienes?}
 {165}{}{Tengo una buena formación de Ranger. Soy hábil con las pistolas pequeñas y los rifles. También se usar una lanza, en un apuro, claro está}
 {166}{}{Uh, no importa.}
-#
-# TRANSLATION NOTE: The following line is not spoken to the player, but instead
-# is spoken to Katja, a female thief who may be a member of the player's group.
-# (See Katja.msg for particulars about Katja).
-#
 {167}{}{Sí, si te gusta el lagarto muy hecho.}
 {168}{}{Bueno, ya es hora. Continuemos señor, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
 {169}{}{Bueno, ya es hora. Continuemos señora, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
@@ -77,24 +72,14 @@
 {171}{}{Después de todo, quizás deberíamos seguir juntos.}
 {172}{}{Nada. No importa.}
 {173}{}{Ganas 300 puntos de experiencia por reclutar a Tycho, el Ranger del Desierto.}
-
-# for Fallout Fixt:
-
-{174}{}{ser amigoos?}
-
+{174}{}{¿ser amigos?}
 {175}{}{Vas a caer}
 {176}{}{Hora de vengarse.}
 {177}{}{¡Los ciudadanos de Ciudad Vertedero serán vengados!}
 {178}{}{¿Te crees por encima de la ley?}
 {179}{}{No apruebo a la escoria como tú}
 {180}{}{Todas las acciones tienen consecuencias.}
-
 {181}{}{Ves: a Tycho.}
-
-#
-# Tycho Tell-Me-Abouts
-#
-
 {1000}{}{Ciudad Vertedero}
 {1001}{}{Rangers}
 {1002}{}{Chip}
@@ -115,7 +100,7 @@
 {1017}{}{Curación}
 {1018}{}{Refugio}
 {1019}{}{Refugio 13}
-{1020}{}{Refugio13}
+{1020}{}{Refugio 13}
 {1021}{}{Killian}
 {1022}{}{Gizmo}
 {1023}{}{Cementerio}
@@ -123,7 +108,7 @@
 {1025}{}{Sombrías}
 {1026}{}{Eje}
 {1027}{}{Casino}
-{1028}{}{Establecimiento}
+{1028}{}{Almacén}
 {1029}{}{Garra Mortal}
 {1030}{}{Éxodo}
 {1031}{}{Iniciados}
@@ -132,7 +117,7 @@
 {1034}{}{Niños}
 {1036}{}{Hermandad}
 {1037}{}{Tanques}
-{1038}{}{Militar}
+{1038}{}{Ejército}
 {1039}{}{Base}
 {1041}{}{Apocalipsis}
 {1042}{}{Mutantes}
@@ -144,7 +129,7 @@
 {1048}{}{Gwen}
 {1049}{}{Petrox}
 {1050}{}{Tolya}
-{1051}{}{Bebida}
+{1051}{}{Bebidas}
 {1052}{}{Drogas}
 {1053}{}{Seth}
 {1054}{}{Aradesh}
@@ -159,7 +144,6 @@
 {1063}{}{Experimentos}
 {1064}{}{Policía}
 {1065}{}{Mercaderes}
-
 {1100}{}{Ciudad Vertedero no es un verdadero hogar, pero es una ciudad interesante. Tiene potencial, aunque no estoy seguro de que construir con las sobras del pasado sea la mejor manera de edificar el futuro.}
 {1101}{}{Nosotros los Rangers venimos del este, lo que solía ser Nevada. Nuestra tradición se remonta a los gloriosos días de los Rangers de Texas. Aprendimos técnicas de supervivencia y de combate para tener la oportunidad de salir al mundo y mejorarlo.}
 {1102}{}{Hace mucho tiempo que no veo una reliquia tecnológica como un Chip de Agua. Yo que tú me fiaría más de tus propias manos que de una estúpida pieza de tecnología que ni siquiera puedes arreglar.}
@@ -224,10 +208,9 @@
 {1163}{}{Lo siento, no puedo ayudarte.}
 {1164}{}{Lo siento, no puedo ayudarte.}
 {1165}{}{Algunos mercaderes del Eje visitan Ciudad Vertedero y otras ciudades regularmente.}
-
 {1999}{}{¡Ahora me siento más poderoso!}
 {2000}{}{Vamos a hablar de nuestras tácticas de combate.}
-{2001}{}{¿Sii?}
+{2001}{}{¿Sí?}
 {2010}{}{Desenfunda tu mejor arma.}
 {2011}{}{Cambia tu armadura.}
 {2012}{}{Mejor que uses el combate a distancia que el de cuerpo a cuerpo.}

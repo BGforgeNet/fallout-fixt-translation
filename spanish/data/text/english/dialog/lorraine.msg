@@ -3,7 +3,7 @@
 {102}{}{Hola. ¿Eres nuevo aquí?}
 {103}{}{Sí. ¿Puedes ayudarme?}
 {104}{}{Sí. Me llamo }
-{105}{}{. }
+{105}{}{.}
 {106}{}{¿Ehhh?}
 {107}{}{Eso supongo. ¿Qué quieres saber?}
 {108}{}{¿Quién eres?}
@@ -12,17 +12,17 @@
 {111}{}{¿Qué haces en la vida?}
 {112}{}{No importa, gracias.}
 {113}{}{Soy Lorraine.}
-{114}{}{¿Puedo hacerte unas pocas preguntas?}
+{114}{}{¿Te puedo hacer unas preguntas?}
 {115}{}{ Soy una carroñera. Trabajo con Sammael recogiendo objetos en las ruinas que podemos usar para construir o intercambiar.}
 {116}{}{¿Por qué no hacen todos lo mismo aquí?}
 {117}{}{¿Cuántos carroñeros sois?}
 {118}{}{¿Puedo preguntarte otra cosa?}
 {119}{}{Me alegro de hablar contigo.}
 {120}{}{Bueno tienes a las Garras Mortales ahí fuera. Luego los Reguladores se llevan un porcentaje de lo mejor, más algo por la protección aquí en Adytum. Supongo que la gente no tiene las chapas necesarias o las agallas para mirarle a la cara a una Garra Mortal.}
-{121}{}{¿Cuál es el trato con los Reguladores?}
+{121}{}{Cuál es el trato con los Reguladores.}
 {122}{}{¿Cómo evitáis a las Garras Mortales?}
-{123}{}{¿Puedo preguntarte otra cosa?}
-{124}{}{Gracias Adiós.}
+{123}{}{¿Puedo hacerte otra pregunta?}
+{124}{}{Gracias. Adiós.}
 {125}{}{Oh, somos seis. Sammael fue el primero y sigue siendo el mejor.}
 {126}{}{¿Puedo hacerte otra pregunta?}
 {127}{}{Interesante. Gracias.}

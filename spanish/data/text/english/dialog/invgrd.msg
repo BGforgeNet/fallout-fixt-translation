@@ -25,7 +25,7 @@
 {202}{}{No creo que vuelvan.}
 {203}{}{No cuentes con eso.}
 {204}{}{¿Has vuelto a escuchar a los exploradores?}
-{205}{}{Todavía no.}
+{205}{}{Aún no.}
 {206}{}{Los exploradores informan de que todo está en orden.}
 {207}{}{Bien.}
 {208}{}{Bueno, ¿en qué estabas trabajando esta mañana Ray?}

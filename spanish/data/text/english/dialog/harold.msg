@@ -1,13 +1,13 @@
 {100}{}{Ves: a Harold.}
-{101}{HROLD0}{Dame algo, colega, viejo amigo. Ayuda a un pobre mutante que ha caído en desgracia. *tose*}
+{101}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caído en desgracia. *tose*}
 {102}{}{Claro, aquí tienes 25 chapas. Que tengas buena suerte.}
 {103}{}{¿Qué tal 5 chapas?}
 {104}{}{Lo siento, no llevo encima chapas.}
 {105}{}{¡Apártate de mí!}
-{106}{}{¿Ehhh?}
+{106}{}{¿Eh?}
 {107}{HROLD1}{Vaya. Amigo, estás todavía peor que yo. Tú sí que necesitas suerte.}
-{108}{HROLD2}{Oh, muy amable de tu parte colega. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
-{109}{}{¿Y eso?}
+{108}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
+{109}{}{¿Por qué?}
 {110}{}{De nada.}
 {111}{HROLD3}{*tose* El resto de los Ejeros han estado metiéndose conmigo desde que volví a la ciudad. Pero no me puedo marchar. Cuando los tratos estén hechos *resuella*. Sigue siendo mi hogar.}
 {112}{}{¿Qué te sucedió?}
@@ -73,9 +73,9 @@
 {172}{HROLD23}{No tengo ni idea. No consiguió regresar aquí, y... bueno, yo... no podía volver al yermo, así que... nunca le busqué.}
 {173}{}{¿Qué fue de ti y de Grey?}
 {174}{HROLD24}{Llegamos a una especie de núcleo central, como una planta de energía o algo así. Entonces es cuando ocurrió.}
-{175}{}{¿El qué?}
+{175}{}{¿Qué?}
 {176}{HROLD25}{Un robot grúa se estrelló contra nosotros. La última vez que vi a Grey volaba por los aires hacia un baño ácido o algo por el estilo. Yo estaba muy mal, y bueno... salí del paso.}
-{177}{}{¿Cómo pudiste sobrevivir?}
+{177}{}{¿Cómo sobreviviste?}
 {178}{}{¿Y nunca más volviste a ver a Grey?}
 {179}{hrold25a}{No lo hice ¡Me mataron! ¡Ja, ja! *tose* Dios, me encanta esa broma.}
 {180}{}{Sí, ya veo.}
@@ -98,17 +98,17 @@
 {197}{HROLD31}{No hagas caso, eso era de mi época. Estoy viejo y chiflado y he estado así desde que cambié.}
 {198}{}{¿Qué hacías antes de que te pasase esto?}
 {199}{HROLD32}{Bueno, sufrí una mutación. No pude haber nacido tan feo. Ocurrió cuando intentábamos descubrir de dónde salían todos los mutantes.}
-{200}{}{¿Qué sucedió?}
+{200}{}{¿Qué ocurrió?}
 {201}{HROLD33}{Eso pertenece al pasado. Y ahí es donde debe quedarse.}
 {202}{}{Por favor cuéntame lo que ocurrió, puede que me ayude ahora.}
-{203}{}{Como quieras.}
+{203}{}{Hazlo a tu modo.}
 {204}{HROLD34}{Bueno, si lo pones así. Supongo que no puede hacer daño.}
 {205}{}{Gracias.}
-{206}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amigo. Te deseo buena suerte.}
+{206}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amiga. Te deseo buena suerte.}
 {207}{HROLD36}{Estás en el Eje, ¿no? ¿La gente que vive en el Eje? Ejeros. ¿Lo coges? *tose* ¡Jesús! Gracias por la ayuda y buena suerte... la vas a necesitar.}
 {208}{HROLD37}{Eres tan malo como los demás. *respira pesadamente*}
 {209}{HROLD38}{Oh, vaya, gracias de todas formas. *tose*}
-{210}{HROLD39}{Oye, ¿puedes ayudarme, amigo?}
+{210}{HROLD39}{Oye, ¿puedes ayudarme, amiga?}
 {211}{}{Sí, aquí tienes 25 chapas.}
 {212}{}{Toma 5 chapas.}
 {213}{}{No me des el coñazo.}
@@ -118,14 +118,14 @@
 {217}{}{¡Nah, yo no! Soy uno de los buenos.}
 {218}{HROLD41}{Oh, vaya, eres tú otra vez.}
 {219}{}{Aquí hay 20 chapas, por si las necesitas.}
-{220}{}{Hola.}
-{221}{}{¿Ehh?}
+{220}{}{Ey.}
+{221}{}{¿Eh?}
 {222}{hrold42}{Quedándote conmigo, ¿eh?}
 {223}{HROLD43}{¿Puedo hacer algo por ti?}
 {224}{}{¿Tienes alguna novedad que contarme?}
 {225}{}{Necesito información sobre la Garra Mortal. Me han dicho que tú eres mi hombre.}
 {226}{}{¿Cuál es tu historia?}
-{227}{}{No.}
+{227}{}{¡No!}
 {228}{hrold43a}{¿Toda entera? Bueno...}
 {229}{HROLD44}{Oooh, vaya, gracias. Espero que no haya sido un esfuerzo demasiado grande. *tose*}
 {230}{HROLD45}{Oooh, sobre eso. Es una pesadilla. ¿Por qué diablos preguntas por ella?}
@@ -154,38 +154,24 @@
 {253}{hrold202}{Quizás deberías tener más cuidado. *tose* He oído que hace poco perdiste varios hombres.}
 {254}{hrold203}{Emm... Decker te anda buscando. Quiere hablar contigo. *tose*}
 {255}{hrold204}{Todo lo que tengo es mi ropa y mi libertad y la segunda es discutible.}
-{256}{hrold300}{Un tipo muy listo. Médico y filósofo. Hace mucho lideró la expedición durante la cual me convertí en un mutante.}
+{256}{hrold300}{Un tipo genial. Médico y filósofo. Hace mucho lideró la expedición durante la cual me convertí en un mutante.}
 {257}{hrold301}{¿Quién? ¿Es una especie de terapeuta sexual? Puede que necesite uno.}
 {258}{hrold302}{Mutantes. Por muchos nombres que se pongan.}
-{259}{hrold303}{Oh, él. Es el jefe del Gremio de Ladrones. Se cree Robin Hood. *tose* No es mal tipo, supongo.}
-{260}{hrold304}{He visto religiones nacer y desaparecer y espero que ésta desaparezca. Pronto.}
+{259}{hrold303}{Oh, él. Es el jefe del Gremio de Ladrones. Se cree Robin Hood. *tose* Supongo que no es un mal tipo.}
+{260}{hrold304}{He visto religiones nacer y desaparecer y espero que esta desaparezca. Pronto.}
 {261}{hrold305}{Sí, vengo de un Refugio. Demasiada gente, poca comida y poca agua. Pero tú no sabrás nada de eso, ¿verdad?}
 {262}{hrold306}{Terrible. El mundo se volvió loco. Fue hace mucho, pero nunca lo olvidaré. Jamás.}
 {263}{hrold307}{*tose* Problemas. Solo problemas.}
 {264}{hrold400}{Bueno, como ya he dicho...}
 {265}{}{Nada, gracias.}
-
-#
-# TRANSLATION NOTE: The following groups of  lines are identical in English,
-# but they differ in foreign translations. The first line is for the case of the
-# player-character masculine ('my friend' will be masculine); the second line is
-# for the case of the player-character feminine ('my friend' will be feminine).
-#
-
-{266}{HROLD0}{Dame algo, colega, viejo amigo. Ayuda a un pobre mutante que ha caído en desgracia. *tose*}
+{266}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caído en desgracia. *tose*}
 {267}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caído en desgracia. *tose*}
-{268}{HROLD2}{Oh, muy amable de tu parte amigo. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
+{268}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
 {269}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
-{270}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amigo. Te deseo buena suerte.}
+{270}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amiga. Te deseo buena suerte.}
 {271}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amiga. Te deseo buena suerte.}
-{272}{HROLD39}{Oye, ¿puedes ayudarme, amigo?}
+{272}{HROLD39}{Oye, ¿puedes ayudarme, amiga?}
 {273}{HROLD39}{Oye, ¿puedes ayudarme, amiga?}
-
-#
-# Harold's Tell-Me-Abouts
-#
-
-
 {1000}{}{Richard}
 {1001}{}{Maestro}
 {1002}{}{Necrófagos}
@@ -195,7 +181,6 @@
 {1006}{}{Guerra}
 {1007}{}{Decker}
 {1008}{}{Grey}
-
 {1100}{hrold300}{Un tipo genial. Médico y filósofo. Hace mucho lideró la expedición durante la cual me convertí en un mutante.}
 {1101}{hrold301}{¿Quién? ¿Es una especie de terapeuta sexual? Puede que necesite uno.}
 {1102}{hrold302}{Mutantes. Por muchos nombres que se pongan.}

@@ -7,7 +7,7 @@
 {106}{}{Tengo heridas. ¿Me puedes curar?}
 {107}{}{¿Puedes enseñarme algo de medicina?}
 {108}{}{Sí, ya veo que tienes algunos rasguños. Esto puede llevar algo de tiempo. ¿Quieres que intente curar tus heridas?}
-{109}{}{Uh uh.}
+{109}{}{Uh huh.}
 {110}{}{Noh oh.}
 {111}{}{Sí, por favor.}
 {112}{}{No, gracias.}

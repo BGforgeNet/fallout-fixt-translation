@@ -1,6 +1,3 @@
-# Captor is Male. He is angry and tired. He wants nothing to do with the player and
-# will kill the player given half a chance.
-
 {100}{}{Estás viendo a una persona aparentemente muy cansada.}
 {101}{}{¿Qué quieres?}
 {102}{}{¡Sal de aquí!}

@@ -2,7 +2,7 @@
 {101}{}{Ves a un pistolero de aspecto desastrado.}
 {102}{}{¿Qué quieres?}
 {103}{}{¿Quién eres?}
-{104}{}{Hnn.}
+{104}{}{Umm.}
 {105}{}{No trabajo para idiotas. Así que vete ahora.}
 {106}{}{¿Nunca has oído hablar de mí? ¡Me duele! Me llamo Vásquez Villanueva Hernández Ortega. Soy un famoso forajido, amigo. Y, si lo necesitas, soy un pistolero a sueldo.}
 {107}{}{¿De verdad? ¿Cuánto cobras?}
@@ -20,8 +20,8 @@
 {119}{}{Ah, querido amigo. Me alegra volver a verte.}
 {120}{}{Quiero tener tus servicios durante una semana.}
 {121}{}{Me alegra volver a verte.}
-{122}{}{Hnn.}
+{122}{}{Umm.}
 {123}{}{Bueno, quizá no sea buena idea volver a verte. Que pases un buen día.}
 {124}{}{Claro que sí. Soy barato y mi valía merece la pena. 500 chapas, por favor.}
-{125}{}{Aquí va.}
+{125}{}{Aquí tienes.}
 {126}{}{No debiste hacer eso, acabas de firmar tu sentencia de muerte.}

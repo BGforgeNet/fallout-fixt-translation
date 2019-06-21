@@ -11,10 +11,10 @@
 {110}{}{¡Runk!}
 {111}{}{Espera un momento. ¿No eres el tipo que recorre el yermo y sacude a los monstruos? ¿Puedo ayudarte?}
 {112}{}{Espera un momento. ¿No eres la mujer que recorre el yermo y sacude a los monstruos? ¿Puedo ayudarte?}
-{113}{}{Voy un poco escasa de suministros...}
+{113}{}{Estoy un poco escaso de suministros...}
 {114}{}{Ningún hombre me ha llamado poco amistoso. En cuanto a las mujeres, no te diré lo que me llaman, pero estoy intentando pescar y necesito absoluta tranquilidad para atrapar la maldita mercancía. Así que, por favor, déjame en paz.}
 {115}{}{¿Te ha dicho alguien alguna vez que deliras?}
-{116}{}{Claro.}
+{116}{}{Vale.}
 {117}{}{Busco información.}
 {118}{}{¿Te parezco un carroñero? Bien, puede que así sea, pero es porque paso mucho tiempo en el yermo enseñando a mi hijo a pescar y a ser un hombre.}
 {119}{}{Llevo 6 años sin carroñar... seis años. Demasiados escorpiones rad. Cualquiera puede morir asesinado con todos esos buitres merodeando por aquí.}
@@ -47,7 +47,7 @@
 {146}{}{Estoy buscando un Chip de Agua.}
 {147}{}{Estoy intentando averiguar algo sobre los soldados mutantes.}
 {148}{}{¿Qué puedes decirme de la Hermandad?}
-{149}{}{¿Qué puedes decirme del Cementerio de LA?}
+{149}{}{¿Qué puedes contarme del Cementerio de LA?}
 {150}{}{Lo siento, amigo, no creo que pueda ayudarte.}
 {151}{}{"Runk" no es lo mismo que estarse callado. Ahora cierra la boca y vete de una vez.}
 {152}{}{Vale. Coge lo que quieras y lárgate.}

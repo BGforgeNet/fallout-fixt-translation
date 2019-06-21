@@ -5,38 +5,38 @@
 {104}{}{¡Acabaré contigo!}
 {105}{}{¡Unidad para siempre!}
 {106}{}{¡Por el Maestro!}
-{107}{}{Se supone que no puedes ir armado en esta zona, hermano. Explícate.}
-{108}{}{Se supone que no puedes ir armada en esta zona, hermana. Explícate.}
+{107}{}{Se supone que no puedes ir armado en esta zona, hermanito. Explícate.}
+{108}{}{Se supone que no puedes ir armada en esta zona, hermanita. Explícate.}
 {109}{}{Hngg.}
-{110}{}{De acuerdo, trabajo aquí.}
-{111}{}{De acuerdo, tengo un pase.}
-{112}{}{Llevo armas porque tengo permiso del Teniente.}
-{113}{}{¡¿Qué clase de traición es esa?!}
-{114}{}{Entonces enséñame tu pase.}
-{115}{}{Yo, oh, me lo dejé en la otra chaqueta.}
-{116}{}{Está justo aquí, enganchado al cañón de mi pistola.}
-{117}{}{Date prisa y date por avisado: te estaré vigilando.}
-{118}{}{Sí, hermano. ¿Qué puedo hacer por ti?}
-{119}{}{Sí, hermana. ¿Qué puedo hacer por ti?}
-{120}{}{¡Ung!}
-{121}{}{Mmm, ¿dónde está el Maestro ese?}
+{110}{}{Está bien, trabajo aquí.}
+{111}{}{Está bien, tengo un pase.}
+{112}{}{Tengo permiso del Teniente para llevar armas.}
+{113}{}{¡¿Qué clase de traición es ésta?!}
+{114}{}{Entonces muéstrame tu pase.}
+{115}{}{Me lo dejé en el otro traje.}
+{116}{}{Está justo aquí, enganchado al cañón de la pistola.}
+{117}{}{Date prisa con tus tareas pero recuerda que te estoy vigilando.}
+{118}{}{Sí, hermanito. ¿Qué puedo hacer por ti?}
+{119}{}{Sí, hermanita. ¿Qué puedo hacer por ti?}
+{120}{}{¡Unm!}
+{121}{}{Hmm, ¿dónde está el Maestro?}
 {122}{}{Alabada sea la Unidad, hermano.}
 {123}{}{No voy a ser yo quien te conduzca a la Unidad. ¡Vete!}
-{124}{}{¡Obviamente has pecado! ¡Paga por tus pecados!}
+{124}{}{¡Obviamente eres un hereje! ¡Paga por tus pecados!}
 {125}{}{Aquí significa aquí. ¿Por qué lo preguntas?}
-{126}{}{Oh, uh, por nada.}
-{127}{}{¡Le voy a dar una patada en el culo y mandarle lejos de aquí!}
-{128}{}{¿Qué pregunta? He dicho "Viva el Maestro. Adiós".}
-{129}{}{¡Me estás insultando! ¡Muere!}
+{126}{}{Oh, oh, por nada.}
+{127}{}{¡De la patada que le voy a dar, lo voy a mandar bien lejos!}
+{128}{}{¿Qué pregunta? Dije "Viva el Maestro, adiós".}
+{129}{}{¡Me estás ofendiendo! ¡Muere!}
 {130}{}{Alabada sea la Unidad.}
 {131}{}{Parece como si no te creyeras lo que estás diciendo. ¿Es eso cierto? ¿O es que te has alejado del camino de la rectitud?}
-{132}{}{Te confundes si piensas que me tiembla la voz por el miedo cuando solo estoy resfriado.}
-{133}{}{Tu raza está condenada a la muerte. Y te lo demostraré con la ayuda de algunos amigos...}
-{134}{}{Cuando seas uno de nosotros, ya no temerás a esas tonterías. Vete.}
-{135}{}{¿Qué quieres ahora? No tengo tiempo de hablar.}
+{132}{}{Te crees que el temblor de mi voz se debe al miedo, cuando solo tengo un catarro.}
+{133}{}{De hecho, creo que tu raza está maldita. Déjame que te lo demuestre con la ayuda de algunos amigos...}
+{134}{}{Cuando te conviertas en uno de los nuestros, no temerás esos detalles. Fuera de aquí.}
+{135}{}{¿Qué quieres esta vez? Tengo poco tiempo para hablar contigo.}
 {136}{}{¡Labbo!}
-{137}{}{Te queda poco tiempo de vivir... ¡Muere!}
-{138}{}{Nada, lo siento.}
+{137}{}{Te queda muy poco tiempo... ¡Muere!}
+{138}{}{Nada, perdona.}
 {139}{}{Alabada sea la Unidad, hermano.}
 {140}{}{¡Obviamente eres un intruso!}
 {141}{}{Sal de mi vista.}

@@ -2,7 +2,7 @@
 {101}{}{¡Ni hablar, no dejaré que me robes!}
 {102}{}{Eh, ¡no quiero líos!}
 {103}{}{Dame un pincho moruno de iguana.}
-{104}{}{¿Sabes algo acerca de un Chip de Agua?}
+{104}{}{¿Sabes algo de un Chip de Agua?}
 {105}{}{¿Me puedes contar algo acerca de Decker?}
 {106}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
 {107}{}{¿Sabes algo de las caravanas desaparecidas?}
@@ -10,20 +10,20 @@
 {109}{}{¡Tener hambre! ¡Grrrrr!}
 {110}{}{¡Hola! Bienvenido al Delicias de Iguana propiedad de Bob, un lugar de reunión para toda la familia. ¿Qué deseas?}
 {111}{}{Dame un pincho moruno de iguana.}
-{112}{}{¿Sabes algo acerca de un Chip de Agua?}
+{112}{}{¿Sabes algo de un Chip de Agua?}
 {113}{}{¿Me puedes contar algo acerca de Decker?}
 {114}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
 {115}{}{¿Sabes algo de las caravanas desaparecidas?}
 {116}{}{¿Ocurre algo interesante en el Eje?}
 {117}{}{¡Tener hambre! ¡Grrrrr!}
-{118}{}{Lo siento. Nos hemos quedado sin iguana.}
+{118}{}{Lo siento, nos hemos quedado sin iguana.}
 {119}{}{Solo tenemos pinchos morunos de iguana. Veinte pavos cada uno.}
 {120}{}{Solo tenemos platos del día. Pero están muy buenos. Ocho pavos cada uno.}
 {121}{}{Claro. Tenemos pinchos de iguana por veinte pavos cada uno y nuestro plato del día por ocho pavos.}
 {122}{}{Tomaré iguana.}
 {123}{}{Tomaré el plato del día.}
 {124}{}{¿Sabéis que vuestro plato del día sabe a pollo?}
-{125}{}{¡No poco! ¡Yo querer toda iguana! ¡Ugh!}
+{125}{}{¡No poco! ¡Yo querer iguana! ¡Ugh!}
 {126}{}{Mmm, ¡oler bien! ¡Yo querer el plato del día!}
 {127}{}{No servimos eso aquí. ¿Algo más?}
 {128}{}{Dame un pincho moruno de iguana.}
@@ -50,13 +50,13 @@
 {149}{}{Deja de venderlos. Ahora.}
 {150}{}{Un negocio terrible. Esa pobre gente. Oh, esa pobre gente. ¡Malgastando sus vidas de esa manera tan estúpida! ¿Puedo hacer algo más por ti? ¿Alimentarte quizás?}
 {151}{}{Dame un pincho moruno de iguana.}
-{152}{}{¿Sabes algo acerca de un Chip de Agua?}
+{152}{}{¿Sabes algo de un Chip de Agua?}
 {153}{}{¿Me puedes contar algo acerca de Decker?}
 {154}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
 {155}{}{¿Ocurre algo interesante en el Eje?}
 {156}{}{Nada. Siento haber sacado el tema. Solo he oído rumores ¿Puedo hacer algo más por ti?}
 {157}{}{Dame un pincho moruno de iguana.}
-{158}{}{¿Sabes algo acerca de un Chip de Agua?}
+{158}{}{¿Sabes algo de un Chip de Agua?}
 {159}{}{¿Me puedes contar algo acerca de Decker?}
 {160}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
 {161}{}{¿Sabes algo de las caravanas desaparecidas?}
@@ -70,14 +70,14 @@
 {169}{}{Bueno, la única novedad es que los Niños de la Catedral se han hecho cargo del hospital. Este sitio es bastante aburrido últimamente. Ten cuidado, son unos tíos raros.}
 {170}{}{¿Algo más?}
 {171}{}{Dame un pincho moruno de iguana.}
-{172}{}{¿Sabes algo acerca de un Chip de Agua?}
+{172}{}{¿Sabes algo de un Chip de Agua?}
 {173}{}{¿Me puedes contar algo acerca de Decker?}
 {174}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
 {175}{}{¿Sabes algo de las caravanas desaparecidas?}
 {176}{}{Lo siento, no puedes permitírtelo.}
 {177}{}{¡Aquí tienes tu iguana! ¿Algo más?}
 {178}{}{Dame otro pincho moruno de iguana.}
-{179}{}{¿Sabes algo acerca de un Chip de Agua?}
+{179}{}{¿Sabes algo de un Chip de Agua?}
 {180}{}{¿Me puedes contar algo acerca de Decker?}
 {181}{}{¿Sabes algo de las caravanas desaparecidas?}
 {182}{}{¿Ocurre algo interesante en el Eje?}
@@ -86,7 +86,7 @@
 {185}{}{Lo siento, no puedes permitírtelo.}
 {186}{}{¡Aquí tienes tu plato del día! ¿Algo más?}
 {187}{}{Dame otro pincho moruno de iguana.}
-{188}{}{¿Sabes algo acerca de un Chip de Agua?}
+{188}{}{¿Sabes algo de un Chip de Agua?}
 {189}{}{¿Me puedes contar algo acerca de Decker?}
 {190}{}{¿Sabes algo de las caravanas desaparecidas?}
 {191}{}{¿Ocurre algo interesante en el Eje?}

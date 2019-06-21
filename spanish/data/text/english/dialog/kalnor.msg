@@ -1,15 +1,15 @@
 {100}{}{Ves: a Kalnor, un guardia de Ciudad Vertedero.}
-{101}{}{Sería mejor que tuvieses cuidado.}
-{102}{}{No es una buena ciudad para meterse en problemas.}
+{101}{}{Será mejor que tengas cuidado con lo que haces aquí.}
+{102}{}{No es una buena ciudad para meterse en líos.}
 {103}{}{Compórtate y no tendremos que enfadarnos.}
 {104}{}{Tienes razón.}
 {105}{}{Sigue trabajando así de bien.}
-{106}{}{Un día precioso, ¿verdad?}
-{107}{}{Esto es Ciudad Vertedero. Un lugar agradable donde vivir si estás de nuestro lado.}
+{106}{}{Bonito día, ¿verdad?}
+{107}{}{Esto es Ciudad Vertedero. Es un lugar agradable en el que vivir mientras estés en el bando correcto.}
 {108}{}{Vigila a Gizmo y a sus seguidores.}
-{109}{}{Aprecio a mi jefe.}
-{110}{}{Será mejor que te deshagas de eso. Ciudad Vertedero es un lugar agradable, colega, y queremos que siga siéndolo.}
-{111}{}{¿Deshacerme de qué?}
+{109}{}{Me cae bien mi jefe.}
+{110}{}{Será mejor que apartes eso. Ciudad Vertedero es una ciudad amistosa, y queremos que siga siendo así.}
+{111}{}{¿Apartar eso?}
 {112}{}{No me digas lo que tengo que hacer, perdedor.}
 {113}{}{Me parece bien. Por cierto, ¿cuál es la ley local sobre armas?}
 {114}{}{Uh, oh.}
@@ -17,21 +17,21 @@
 {116}{}{Oh, lo siento.}
 {117}{}{¡De ninguna manera! ¡No voy a dejar las armas por nadie!}
 {118}{}{Será mejor que te comportes porque ésta es la ley y soy yo quien la impone. Aparta tu arma. No la desenfundes a no ser que sea en defensa propia y no tendrás problemas con nosotros, los guardias. Desobedece la ley y te devolveremos al yermo, donde no hay ley... muerto o vivo.}
-{119}{}{Bueno, si te pones así...}
+{119}{}{Claro, si te pones así.}
 {120}{}{¡Trágate tus leyes!}
-{121}{}{Bueno, por mí perfecto. Pero yo que tú, tendría cuidado.}
-{122}{}{Has hecho bien en preguntar. No está permitido usar las armas si no es en defensa personal. Si empiezas una pelea será culpa tuya. Por lo demás, estás en tu derecho llevando armas. Lo único, es que no puedes desenfundar un cuchillo o una pistola sin motivo. Que tengas un buen día.}
-{123}{}{Eh tú, ¡nada de armas! Y me importa un comino si tu madre te golpeó en la cabeza cuando eras niño. Nada de armas.}
-{124}{}{¡Eh! ¡Tú! ¿Qué haces merodeando por ahí?}
+{121}{}{Bueno, uh, yo estoy de acuerdo. Pero será mejor que tengas cuidado.}
+{122}{}{Está bien que hayas preguntado. No se pueden desenfundar las armas si no es en defensa propia. Si empiezas una pelea, será culpa tuya. Otra cosa distinta es que vayas por ahí armado. No saques ni un cuchillo ni una pistola sin un motivo real. Que tengas un buen día.}
+{123}{}{Eh tú, ¡nada de armas! Y no me importa si tu madre te golpeó cuando eras pequeño.}
+{124}{}{¡Eh! ¡Tú! ¿Qué haces curioseando?}
 {125}{}{Nada.}
-{126}{}{No estoy merodeando. Solamente me gusta andar con precaución.}
+{126}{}{No estoy curioseando. Solo me gusta caminar con precaución.}
 {127}{}{Uhhh.}
-{128}{}{Sea lo que sea lo que estés haciendo, no lo hagas en la ciudad.}
+{128}{}{Hagas lo que hagas, no lo hagas en esta ciudad.}
 {129}{}{¡Eh! ¡En esta ciudad no queremos tíos misteriosos! ¡Lárgate de aquí antes de que te echemos!}
-{130}{}{Bueno, vale. Lo que sea. Pero no hagas nada anormal.}
+{130}{}{Bueno, uh, vale. Lo que sea. Pero no hagas nada ilegal.}
 {131}{}{Gracias, adiós.}
-{132}{}{Desde luego. Tendré mucho cuidado, señor.}
-{133}{}{Desde luego. Tendré mucho cuidado, señora.}
+{132}{}{Naturalmente. Tendré mucho cuidado, señor.}
+{133}{}{Naturalmente. Tendré mucho cuidado, señora.}
 {134}{}{Será mejor que tengas cuidado porque te estaremos vigilando.}
 {135}{}{Bienvenido a Ciudad Vertedero. ¿Qué puedo hacer por ti?}
 {136}{}{Nada, gracias.}

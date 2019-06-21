@@ -5,7 +5,7 @@
 {104}{}{¿Estarás bien?}
 {105}{}{Soy de la Hermandad. He estado buscándote.}
 {106}{}{De nada. Adiós.}
-{107}{}{Uh.}
+{107}{}{Eh.}
 {108}{}{¿No has oído hablar de nosotros? Estoy realmente sorprendido. No saldrás del Eje muy a menudo. Deberías hacerlo. Estamos al noroeste de aquí, en la ladera oeste de la montaña.}
 {109}{}{Agradezco tu ayuda pero, ¿por qué intentas mentirme? ¿No sabes que conozco a todos los miembros de nuestro orden?}
 {110}{}{Talus me envió.}
@@ -20,7 +20,7 @@
 {119}{}{Bueno, de nada. Estoy contento de haberte encontrado.}
 {120}{}{Oh... Bueno, todavía te estoy muy agradecido.}
 {121}{}{Eso creo yo también. Lo que hiciste fue un trabajo de artesanía.}
-{122}{}{Bueno, estoy contento de haberte servido de ayuda.}
+{122}{}{Bueno, estoy contento de haber servido de ayuda.}
 {123}{}{¿Estarás bien?}
 {124}{}{Bueno, gracias otra vez. Voy a quedarme con un amigo hasta que recupere las fuerzas. Por cierto, echaré un vistazo por aquí. He oído a mis huéspedes hablar del Gremio de Ladrones. Supongo que estamos cerca de su territorio o algo así. Me parece que pensaban mudarse a otro sitio por ese motivo. Adiós.}
 {125}{}{Bien, estoy contento de que la suerte te haya durado. No he oído nada bueno sobre la Ciudad Antigua. Los yonquis son terribles; y creo que hay algo peor aún.}
@@ -32,16 +32,12 @@
 {131}{}{No. De verdad. Me envió Talus.}
 {132}{}{Bueno, estoy contento de haber servido de ayuda.}
 {133}{}{¿Estarás bien?}
-{134}{}{Hola otra vez.}
+{134}{}{Hola de nuevo.}
 {135}{}{Me marcharé pronto. Solo estoy recuperando las fuerzas.}
 {136}{}{Gracias otra vez.}
-
-## Tell Me Abouts
 {1000}{}{Hermandad}
 {1001}{}{Acero}
 {1002}{}{Talus}
-
-## Answers
-{1100}{}{La única salvación para este planeta torturado y sus habitantes. Sin ellos, la humanidad perecerá.}
+{1100}{}{La única salvación que este torturado planeta y sus pueblos tienen. Sin ellos, la humanidad seguramente perecerá.}
 {1101}{}{La única salvación que este torturado planeta y sus pueblos tienen. Sin ellos, la humanidad seguramente perecerá.}
 {1102}{}{Él es mi mentor y un hombre fantástico. Estoy deseando verlo de nuevo.}

@@ -10,7 +10,7 @@
 {111}{}{¡Quédate quieto!}
 {112}{}{¿Qué? ¿Qué quieres decir exactamente?}
 {113}{}{¡Nunca!}
-{114}{}{Estoy aquí para hablar de paz.}
+{114}{}{Estoy aquí para hablar sobre la paz.}
 {115}{}{Vale...}
 {116}{}{Yo soy quien hace aquí las preguntas. ¿Qué estás haciendo aquí?}
 {117}{}{Estoy aquí buscando a un amigo.}

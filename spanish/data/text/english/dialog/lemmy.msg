@@ -31,7 +31,7 @@
 {130}{}{Así que te piensas que sé más cosas acerca de ese Chip de Agua, ¿verdad? Bueno, puede que tengas razón. Pero te costará algo. Creo que con 500 chapas tendré bastante.}
 {131}{}{Vale. ¿Qué tienes que decirme?}
 {132}{}{Solo te daré 400.}
-{133}{}{Creo que vas a hablar ahora, ¡y sin las malditas chapas!}
+{133}{}{Creo que necesitas hablar ahora, ¡y sin las malditas chapas!}
 {134}{}{Es demasiado. No me lo puedo permitir.}
 {135}{}{Mira, mira. No sería el hombre que soy si diera información por un precio inferior a su valor real. Vuelve cuando tengas las chapas.}
 {136}{}{Así que quieres intimidar al viejo Lemmy, ¿eh? Pues resulta que no tengo miedo a la gente como tú. Ya nos veremos.}

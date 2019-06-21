@@ -1,12 +1,12 @@
 {100}{}{Ves: a Katrina. Tiene una bonita sonrisa.}
 {101}{}{No llevo armas. Por favor, aparta la tuya.}
-{102}{}{¡Hng!}
+{102}{}{¡Unm!}
 {103}{}{¿Por qué habría de hacerlo? Este mundo parece muy peligroso.}
 {104}{}{¿Para qué sirve eso?}
 {105}{}{Quizá sí, quizá no.}
 {106}{}{Tomaré eso como un sí.}
 {107}{}{Debería estar de acuerdo contigo. Es muy peligroso viajar sin armas. Pero esto es Arenas Sombrías y somos gente pacífica. No hay necesidad de ir armado.}
-{108}{}{De acuerdo. Gracias.}
+{108}{}{Vale. Gracias.}
 {109}{}{Si no apartas tu arma, no hablaré contigo. Hay mucha gente como yo. Solo debes usar la fuerza si la situación lo requiere.}
 {110}{}{Mmm, vale.}
 {111}{}{Bienvenido a Arenas Sombrías, viajero. Me llamo Katrina. Mi trabajo consiste en dar la bienvenida a los forasteros y ayudarlos a entender nuestro pueblo. Sabemos que tendrás menos problemas si escuchas lo que tengo que decir.}

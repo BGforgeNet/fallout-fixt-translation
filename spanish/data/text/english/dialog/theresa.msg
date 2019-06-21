@@ -74,15 +74,8 @@
 {173}{}{Ganas 750 puntos de experiencia por calmar pacíficamente la facción revolucionaria del Refugio.}
 {174}{}{¡Traidor! ¿Por qué tuviste que regresar? ¡Ahora todo el mundo morirá!}
 {175}{}{Ya hemos pasado por esto. Déjanos en paz.}
-#
-# Fallout Fixt:
-#
 {176}{}{Si estas interesado, nos reunimos a las 5:00 p.m.}
 {177}{}{Ganas 250 puntos de experiencia por disolver violentamente la facción revolucionaria del Refugio.}
-
-
-# Theresa's Tell-Me-Abouts
-
 {1000}{}{Chip}
 {1001}{}{Refugio}
 {1002}{}{Guerra}
@@ -90,8 +83,6 @@
 {1004}{}{Supervisor}
 {1005}{}{Agua}
 {1006}{}{Chip de Agua}
-
-
 {1100}{}{Sin él no tendremos suficiente agua potable. Deberíamos dejar de depender de ese tipo de equipos y autoabastecernos.}
 {1101}{}{El Refugio ha sido nuestro hogar durante mucho tiempo, pero es hora de que nos abramos camino en el exterior.}
 {1102}{}{Creo que hemos aprendido la lección. Es hora de construir un nuevo mundo, sin preocuparnos del antiguo.}

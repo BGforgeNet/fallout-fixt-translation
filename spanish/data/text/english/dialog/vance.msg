@@ -21,7 +21,7 @@
 {120}{}{Ey, hola. Siempre es bueno ver a clientes habituales. ¿Qué puedo hacer por ti?}
 {121}{}{Quiero más.}
 {122}{}{Quisiera comprar algunas cosas más.}
-{123}{}{No me gusta la gente como tú.}
+{123}{}{No me gustan los de tu raza.}
 {124}{}{¿Quiénes son esos amigos tuyos de allí?}
 {125}{}{¿Quiénes son tus amigos de la habitación de atrás?}
 {126}{}{Solo pasaba por aquí.}
@@ -51,9 +51,6 @@
 {150}{}{No lo uses todo en un solo sitio.}
 {151}{}{Gracias, cuídate.}
 {152}{}{¿Uum?}
-#
-# Fallout Fixt:
-#
 {153}{}{¿Quién coño eres y que cojones haces aquí?}
 {154}{}{Yo }
 {155}{}{. [sonríe] ...quién tú?}

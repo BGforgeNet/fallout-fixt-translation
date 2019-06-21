@@ -3,9 +3,9 @@
 {102}{}{Estoy buscando al jefe.}
 {103}{}{Este edificio está condenado; he venido a dar la noticia final.}
 {104}{}{Lo siento, solo echaba un vistazo.}
-{105}{}{Ehh.}
+{105}{}{Duh.}
 {106}{}{Set no está aquí, así que vete.}
-{107}{}{Oh, bien. Adiós.}
+{107}{}{Oh, Vale. Adiós.}
 {108}{}{Bien, cuando encuentre a ese hijo de perra, haré que nadie pueda reconocerlo.}
 {109}{}{Bien, entonces te convertirás en mi saco de boxeo.}
 {110}{}{Tienes algunos problemas mentales para trabajar. Set no permitirá que un perdedor como tú se encargue de ello. Él tiene guardias y armas.}
@@ -26,7 +26,7 @@
 {125}{}{Vale. Ya me voy.}
 {126}{}{No creo. Vete antes de que llame a los chicos y te partan la cara.}
 {127}{}{¿Es una amenaza?}
-{128}{}{Sí.}
+{128}{}{Vale.}
 {129}{}{Lo era. Ahora es un hecho. ¡ZOMBIS!}
 {130}{}{No aparezcas por aquí si amas la vida.}
 {131}{}{Eh, Zombis, ¡TENEMOS UN SACO DE BOXEO!}

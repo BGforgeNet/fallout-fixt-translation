@@ -1,4 +1,4 @@
-{100}{}{Ves a una mujer.}
+{100}{}{Estás viendo a una mujer.}
 {101}{}{No quiero morir, señor. No soy un soldado.}
 {102}{}{No quiero morir, señora. No soy un soldado.}
 {103}{}{Empieza a hablar, y te dejaré vivir.}
@@ -23,21 +23,21 @@
 {122}{}{¡Me aburre este lugar! ¿Dónde está la sangre? ¿Dónde está la muerte?}
 {123}{}{Saludos, Iniciado. ¿En qué puedo ayudarte?}
 {124}{}{Estaba un poco nervioso por nuestros planes a largo plazo.}
-{125}{}{¿Qué pasa por aquí?}
+{125}{}{¿Qué está pasando aquí?}
 {126}{}{¿Dónde está el Maestro?}
-{127}{}{¿Quién es el encargado aquí?}
-{128}{}{Dame un respiro, hermana. ¡Nadie atiende a otra persona a no ser que tenga un arma apuntándole a la cabeza!}
+{127}{}{¿Quién está al mando aquí?}
+{128}{}{Dame un respiro, hermana. ¡Nadie está al servicio de otra persona a no ser que tenga un arma apuntándole a la cabeza!}
 {129}{}{Hola, señor. ¡Su reputación le precede! ¿Puedo ayudarle en algo?}
 {130}{}{Hola, señorita. ¡Su reputación la precede! ¿Puedo ayudarla en algo?}
 {131}{}{Me preguntaba de qué va todo eso de la Catedral.}
-{132}{}{¿Cómo se convierte uno en Iniciado?}
+{132}{}{¿Qué hace falta para ser un Iniciado?}
 {133}{}{¿Dónde está el Maestro?}
 {134}{}{¿Quién está al mando aquí?}
-{135}{}{Dame un respiro, hermana. ¡Nadie atiende a otra persona a no ser que tenga un arma apuntándole a la cabeza!}
+{135}{}{Dame un respiro, hermana. ¡Nadie está al servicio de otra persona a no ser que tenga un arma apuntándole a la cabeza!}
 {136}{}{Hola, señor. ¡Su reputación le precede! ¿Puedo ayudarle en algo?}
 {137}{}{Hola, señorita. ¡Su reputación la precede! ¿Puedo ayudarla en algo?}
 {138}{}{Me preguntaba de qué va todo eso de la Catedral.}
-{139}{}{¿Cómo se convierte uno en Iniciado?}
+{139}{}{¿Qué hace falta para ser un Iniciado?}
 {140}{}{¿Dónde está el Maestro?}
 {141}{}{¿Quién está al mando aquí?}
 {142}{}{Dame un respiro, hermana. ¡Nadie está al servicio de otra persona a no ser que tenga un arma apuntándole a la cabeza!}
@@ -51,12 +51,12 @@
 {150}{}{Hay un sitio tranquilo alejado de la Catedral. Aquí están prohibidos las drogas y el alcohol.}
 {151}{}{Intenta coger la llave de la entrada secreta de Morfeo y mata al Maestro.}
 {152}{}{¿Por qué no iba a querer hacerlo?}
-{153}{}{No sé de qué me estás hablando.}
+{153}{}{No sé de qué estás hablando.}
 {154}{}{¿Por qué iba a querer hacerlo?}
 {155}{}{¿Has oído alguna vez lo que les pasa a los que saben demasiado?}
 {156}{}{El espía de los Seguidores del Apocalipsis que está ahora en una de las Salas de Meditación.}
 {157}{}{¿Hay un espía aquí? ¡Tenemos que decírselo a los Sumos Sacerdotes ahora mismo!}
-{158}{}{No sé de qué me hablas.}
+{158}{}{No sé de qué estás hablando.}
 {159}{}{¿Por qué iba yo a espiarte?}
 {160}{}{¿Has oído alguna vez lo que les pasa a los que saben demasiado?}
 {161}{}{Aquí no viene uno a entretenerse. Aquí viene uno a iluminar su espíritu. Y más importante aún, a tomar las decisiones oportunas para el destino del mundo. Hasta la vista.}
@@ -78,13 +78,13 @@
 {177}{}{¿Parezco yo la clase de persona a la que le importa un buen asesinato?}
 {178}{}{¿Te suena lo de estar por encima de uno mismo? Nadie, por bien armado o entrenado que sea, puede derrotar a un par de Nocturnos. Soy una mujer de paz. Solo estoy intentando salvarte.}
 {179}{}{¡Mira a los que causaron el Apocalipsis! No creían en la paz y la unidad, ¡y mira lo que nos hicieron! La Unidad es el único modo de evitar que eso vuelva a suceder y la Unidad debe ocurrir AHORA, antes de que los demás Refugios del mundo tengan la oportunidad de reunir sus fuerzas.}
-{180}{}{Tú pareces demasiado inteligente para esta manada de zombis.}
-{181}{}{¿Quieres que todo el mundo actúe como los que están en esta habitación? ¡Eso es peor que estar muerto!}
+{180}{}{Tú pareces demasiado inteligente para esos zombis.}
+{181}{}{¿Quieres que todos actúen como la gente de esta sala? ¡Eso es peor que estar muerto!}
 {182}{}{¡Estás loca! Eso solo llevará a otro Apocalipsis.}
-{183}{}{¿Y por qué sería el Maestro el más indicado para liderarnos?}
+{183}{}{¿Y por qué sería el Maestro el más indicado para dirigirnos?}
 {184}{}{¿Nunca te has cargado a nadie? ¿No estás reuniendo bastante potencia de fuego como para darle envidia a la Hermandad del Acero? ¡Deja de ser un hipócrita! Solo piensas en defenderte a ti mismo. El Maestro defiende a la humanidad de otro ataque de autodestrucción. ¡Es lo mismo!}
 {185}{}{¿Cómo sabes que no hay nadie mejor ahí fuera?}
-{186}{}{Quizás deba tener eso en cuenta.}
+{186}{}{Quizás deba tenerlo en cuenta.}
 {187}{}{¿Así que el sacrificio de las masas está justificado si intentas salvar el mundo?}
 {188}{}{¡Eso son tonterías, señorita!}
 {189}{}{¿Qué infierno crees que es éste? ¡Vivir allí fuera sí que es una pesadilla!}
@@ -111,7 +111,7 @@
 {210}{}{Bien. Pero si sigues así, morirás. Creo que debo avisarte.}
 {211}{}{Puedes matarme. Demostrarás que tengo razón, claro, pero aun así moriré. Tú verás.}
 {212}{}{¡Debido al Apocalipsis! ¡Mira lo que nos hizo! La Unidad es la única manera de evitar que eso vuelva a ocurrir, y la Unidad debe empezar AHORA, antes de que los demás Refugios del mundo tengan la oportunidad de reunir sus fuerzas.}
-{213}{}{Tú pareces demasiado inteligente para estos zombis.}
+{213}{}{Tú pareces demasiado inteligente para esos zombis.}
 {214}{}{¿Quieres que todos actúen como la gente de esta sala? ¡Eso es peor que estar muerto!}
 {215}{}{Lo tendré en cuenta.}
 {216}{}{¡Estás loca! Eso solo llevará a otro Apocalipsis.}
@@ -141,8 +141,8 @@
 {240}{}{El Sumo Sacerdote de la Catedral es Morfeo. Puedes encontrarlo en el Santuario Superior, pero no ofrece audiencias privadas. Podrías persuadir al Padre Fustigador para que responda por ti. Puedes encontrarlo aquí en la Rectoría.}
 {241}{}{¿Morfeo? ¿Es un buen hombre?}
 {242}{}{¿Por qué lo llaman Fustigador?}
-{243}{}{¿Y qué me dices del Maestro?}
-{244}{}{¿Hay algo más que deba saber?}
+{243}{}{¿Y qué hay del Maestro?}
+{244}{}{¿Hay algo más que debería saber?}
 {245}{}{Gracias, hermana.}
 {246}{}{Puedes cambiar de opinión o perder la vida. Todo esto depende de tus acciones y de tu punto de vista. Adiós.}
 {247}{}{Tenemos intereses muy parecidos. Has matado a monstruos y bandidos y has hecho del mundo un lugar más seguro. Nosotros planeamos hacer lo mismo, pero a mayor escala.}
@@ -180,7 +180,7 @@
 {279}{}{¿Morfeo? ¿Es un buen hombre?}
 {280}{}{¿Por qué se le permite a Fustigador hacer daño a los niños?}
 {281}{}{¿Y qué hay del Maestro?}
-{282}{}{¿Hay algo más que deba saber?}
+{282}{}{¿Hay algo más que debería saber?}
 {283}{}{Gracias, hermana.}
 {284}{}{No puedo contarte nada que no sepas ya. Mis disculpas.}
 {285}{}{Muchas cosas, estoy segura. Pero estas respuestas es mejor que las descubramos nosotros mismos, no mediante rumores e insinuaciones. Adiós.}
@@ -197,13 +197,12 @@
 {296}{}{La muerte nunca es un servicio, ni siquiera cuando es una necesidad. Adiós, señorita.}
 {297}{}{Hay algo que me he estado preguntando. Pero tal crítica no está garantizada, estoy segura. Quizá deberías hablar con los niños.}
 {298}{}{[Hecho]}
-{299}{}{Yo irme.}
-
-{300}{}{Ya hemos contratado a iniciados en el pasado, pero la Iglesia está llevando a cabo importantes Cruzadas y creo que somos más selectivos que nunca con los reclutamientos. La fe perseverará y la paciencia es una virtud. Buena suerte, amigo.}
+{299}{}{Yo ir.}
+{300}{}{Ya hemos contratado iniciados, pero la Iglesia está llevando a cabo importantes Cruzadas y creo que somos más selectivos que nunca con los reclutamientos. La fe perseverará y la paciencia es una virtud. Buena suerte, amiga.}
 {301}{}{Ya hemos contratado iniciados, pero la Iglesia está llevando a cabo importantes Cruzadas y creo que somos más selectivos que nunca con los reclutamientos. La fe perseverará y la paciencia es una virtud. Buena suerte, amiga.}
-{302}{}{No sé de ningún plan para volver a invocar la Llama Sagrada. El Fuego Sagrado lo es solo porque nos da la oportunidad de purgar nuestro mundo de la imperfección. Son nuestras acciones la que harán la llama Sagrada. Debemos quitar los males del mundo y usarlos a favor del Bien. Igual que las armas defienden tu vida, nuestras acciones defienden al mundo. Adiós, amigo.}
+{302}{}{No sé de ningún plan para volver a invocar la Llama Sagrada. El Fuego Sagrado lo es solo porque nos da la oportunidad de purgar nuestro mundo de la imperfección. Son nuestras acciones la que harán la llama Sagrada. Debemos quitar los males del mundo y hacerlos herramientas del Bien. Igual que las armas defienden tu vida, nuestras acciones defienden al mundo. Adiós, amiga.}
 {303}{}{No sé de ningún plan para volver a invocar la Llama Sagrada. El Fuego Sagrado lo es solo porque nos da la oportunidad de purgar nuestro mundo de la imperfección. Son nuestras acciones la que harán la llama Sagrada. Debemos quitar los males del mundo y hacerlos herramientas del Bien. Igual que las armas defienden tu vida, nuestras acciones defienden al mundo. Adiós, amiga.}
-{304}{}{Realizamos muchos servicios para la gente. Sanamos a los enfermos, damos de comer a los hambrientos y enseñamos a los jóvenes. Estoy muy orgullosa de ellos. Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amigo.}
+{304}{}{Realizamos muchos servicios para la gente. Sanamos a los enfermos, damos de comer a los hambrientos y enseñamos a los jóvenes. Estoy muy orgullosa de ellos. Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amiga.}
 {305}{}{Realizamos muchos servicios para la gente. Sanamos a los enfermos, damos de comer a los hambrientos y enseñamos a los jóvenes. Estoy muy orgullosa de ellos. Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amiga.}
-{306}{}{Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amigo.}
+{306}{}{Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amiga.}
 {307}{}{Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amiga.}

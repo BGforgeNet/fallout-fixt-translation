@@ -5,10 +5,10 @@
 {104}{}{Sí, ¡desaparece!}
 {105}{}{Decker me contrató para matar a un mercader y a su mujer.}
 {106}{}{Decker intentó contratarme para matar a una tal Jain.}
-{107}{}{Nada, gracias.}
+{107}{}{Nada, perdona.}
 {108}{}{Lo siento, no puedo decirte nada. Me matarían.}
 {109}{}{Gracias. Intentamos hacerlo bien. Es muy difícil en una ciudad de este tamaño, pero hacemos lo que podemos con los recursos disponibles. Es difícil cuando esos tipos tienen mejores armas de fuego que nosotros.}
-{110}{}{Gracias de nuevo.}
+{110}{}{Gracias otra vez.}
 {111}{}{Es hora de irse, asesino de niños.}
 {112}{}{No podemos aceptar. Pero si cambias de opinión, házmelo saber. Este lugar es muy peligroso y alguien tiene que velar por que las cosas funcionen bien.}
 {113}{}{¡Excelente! Ya había oído rumores sobre su plan. Tú eres la confirmación final que necesitaba para hacer algo contra él. Va a ser difícil y puedo utilizar toda la ayuda disponible. Te pagaré 1.000 chapas, 200 ahora y el resto cuando hayas terminado el trabajo. ¿Qué dices?}
@@ -23,7 +23,7 @@
 {122}{}{Hazlo tú solo, Sheriff.}
 {123}{}{¡Vale! Podemos irnos cuando quieras.}
 {124}{}{Ya mismo.}
-{125}{}{Bien. Adiós.}
+{125}{}{Vale, adiós.}
 {126}{}{Lamento oír eso. Si cambias de opinión, por favor, házmelo saber, pero no puedo esperar mucho.}
 {127}{}{Vale, lo haré. Espera a que coja algunos suministros.}
 {128}{}{Estás mal de la cabeza.}
@@ -32,7 +32,7 @@
 {131}{}{¿Qué? ¿Pretendes que me dedique a matar a gente inocente? Tengo una deuda contraída con esta ciudad, que no espero que entiendas.}
 {132}{}{Tienes razón. Ahora te toca a ti.}
 {133}{}{¿Cómo te atreves a acusarme?}
-{134}{}{No me importa lo que pienses.}
+{134}{}{Me da igual lo que pienses.}
 {135}{}{Bien. Él no ha intentado nada.}
 {136}{}{Estábamos en el Halcón y había mucha gente alrededor.}
 {137}{}{Lo siento. Decker ha estado enfrentándonos los unos a los otros durante años. Ya no sé en quién confiar. Pero podrías serme de gran ayuda. Será duro, pero te pagaré 1.000 chapas, 200 ahora y el resto cuando hayamos terminado el trabajo.}
@@ -51,15 +51,15 @@
 {150}{}{¡Fugitiva! ¡Cogedla!}
 {151}{}{¿Todo listo?}
 {152}{}{Sí.}
-{153}{}{No}
-{154}{}{Ug.}
+{153}{}{No.}
+{154}{}{Ag.}
 {155}{}{No me puedo creer que Decker haya muerto por fin. Creía que nunca llegaría este día.}
 {156}{}{¿Has cambiado de opinión? ¿Aún podemos utilizarte para deshacernos de esa enfermedad de la que hablamos?}
 {157}{}{Iré.}
 {158}{}{No, lo siento.}
 {159}{}{¿Eh?}
 {160}{}{Te estaremos vigilando.}
-{161}{}{¡Tengo que denunciar un crimen!}
+{161}{}{¡He de denunciar un delito!}
 {162}{}{Tienes un buen trabajo.}
 {163}{}{Venga, ya nos volveremos a ver.}
 {164}{}{Vale.}

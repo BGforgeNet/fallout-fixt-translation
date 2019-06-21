@@ -1,6 +1,6 @@
 {100}{}{Estás viendo al Teniente del ejército del Maestro.}
 {101}{LIEUT1}{Veamos, ¿qué tenemos aquí? Me han dicho que quieres divulgar información de lo más importante. Espero que sea así.}
-{102}{}{Eh, sí.}
+{102}{}{Ah, sí.}
 {103}{}{No a alguien tan feo como tú.}
 {104}{}{Con una condición.}
 {105}{}{¡Bah!}
@@ -23,7 +23,7 @@
 {122}{}{No te lo voy a decir y no puedes obligarme.}
 {123}{}{Está... está...}
 {124}{LIEUT5}{Oh, por supuesto, querido ser humano. Siento curiosidad sobre lo que me puedes querer preguntar.}
-{125}{}{¿Qué es lo que haces aquí?}
+{125}{}{¿Qué haces por aquí?}
 {126}{}{¿Para quién trabajas?}
 {127}{}{¿Para qué me quieres?}
 {128}{}{¿Qué tal si me marcho ahora mismo?}
@@ -136,7 +136,7 @@
 {235}{LIEUT41}{Oh, esto es fantástico. Sabes, de hecho, dudé de mis oficiales cuando me dijeron que habían capturado un normal puro. Me alegra tanto verte.}
 {236}{}{Vete al infierno.}
 {237}{}{¿Qué quieres de mí?}
-{238}{}{¡Anda!}
+{238}{}{¡Bah!}
 {239}{LIEUT42}{Sí, tienes tacto con las palabras. Y son palabras lo que queremos antes de...}
 {240}{}{¿Qué quieres decir con "antes de"?}
 {241}{}{¡No vas a conseguir nada de mí!}
@@ -158,31 +158,23 @@
 {257}{LIEUT54}{Sabes, me recuerdas a una cucaracha que tenía. La aplasté porque me ponían nervioso los ruiditos que emitía. Recuerda eso.}
 {258}{LIEUT55}{Eres un pequeño humano muy pesado, ¿no es así? No lo voy a repetir otra vez.}
 {259}{LIEUT56}{La Unidad es el objetivo de todos los Supermutantes. Con el virus VEF conduciremos a toda la humanidad hacia la paz.}
-{260}{LIEUT57}{El Virus de Evolución Forzada fue descubierto por el Maestro hace muchos años. Es lo que hizo de nosotros los Elegidos. Pero enseguida comprenderás lo que te digo, te lo aseguro.}
+{260}{LIEUT57}{El Virus de Evolución Forzada fue descubierto por el Maestro hace muchos años. Es lo que nos hace ser los Elegidos. Pero enseguida comprenderás lo que te digo, te lo aseguro.}
 {261}{LIEUT58}{El Maestro es el padre de todos nosotros.}
 {262}{LIEUT59}{Nada más que un dispositivo para extender nuestros planes. No importa, todos los humanos serán Elegidos o... muertos.}
-{263}{LIEUT60}{En los Tanques es donde se almacena el VEF y donde vosotros los normales os transformáis en uno de los nuestros. Por supuesto, algunos mueren de una muerte extremadamente dolorosa, pero son los riesgos del oficio.}
-{264}{LIEUT61}{Son los humanos que no han estado expuestos a las radiaciones. Les suele ir mejor que a los demás en los Tanques. Tú eres un ejemplo perfecto.}
-{265}{LIEUT62}{Fueron construidos antes de la guerra. Además son nuestra principal fuente de normales puros.}
+{263}{LIEUT60}{En los Tanques es donde se almacena el VEF y donde vosotros los normales os transformáis en nosotros. Por supuesto, algunos mueren con una muerte extremadamente dolorosa, pero son los riesgos del oficio.}
+{264}{LIEUT61}{Son los humanos que no han estado expuestos a la radiación. Les suele ir mejor que a los demás en los Tanques. Tú eres un ejemplo perfecto.}
+{265}{LIEUT62}{Fueron construidos antes de la guerra. Además son nuestra principal fuente de Normales Puros.}
 {266}{LIEUT63}{Morfeo. Es muy gracioso. Se cree que es mucho más que simplemente una babosa que el Maestro reclutó para encabezar su idea absurda de los Niños de la Catedral. Ah, en fin. Él también se bañará en los Tanques y probablemente tendrá una muerte horrible... al menos eso espero.}
-{267}{LIEUT64}{Ahora mismo eso no tiene importancia.}
+{267}{LIEUT64}{Ahora mismo eso no es importante.}
 {268}{LIEUT65}{Esa es una pregunta irrelevante para la Unidad.}
-{269}{LIEUT66}{No dignificaré eso con una respuesta.}
-{270}{lieut45m}{Vaya, estoy bastante impresionado. Mis espías me dijeron que tenías muchos recursos, pero parece que subestimaron tu talento. ¡Guardias, capturadlo!}
-{271}{lieut39f}{Admiro tu fuerza de voluntad. Guardias, llevadla a su celda y preparadla para el baño. Nos dirá donde se encuentra su Refugio cuando sea una de los nuestros.}
-{272}{lieut39m}{Admiro tu fuerza de voluntad. Guardias, llevadlo a su celda y preparadlo para el baño. Nos dirá donde se encuentra su Refugio cuando sea uno de los nuestros.}
-
-
-# Lieutenant Tell-Me-Abouts generic responses
+{269}{LIEUT66}{Ni siquiera me dignaré a dar una respuesta.}
+{270}{LIEUT45m}{Vaya, estoy impresionado. Mis espías me dijeron que tenías muchos recursos, pero parece que subestimaron tu talento. ¡Guardias, capturadlo!}
+{271}{LIEUT39f}{Oh, admiro tu fuerza de voluntad. Guardias, llevadla a su celda y preparadla para el baño. Nos dirá donde se encuentra su Refugio cuando sea una de los nuestros.}
+{272}{LIEUT39m}{Oh, admiro tu fuerza de voluntad. Guardias, llevadlo a su celda y preparadlo para el baño. Nos dirá donde se encuentra su Refugio cuando sea uno de los nuestros.}
+{273}{}{I do hope you enjoyed the dipping process as much as I did administering it. Run along now; I have work to do.}
 {980}{LIEUT64}{Ahora mismo eso no es importante.}
 {981}{LIEUT65}{Esa es una pregunta irrelevante para la Unidad.}
-{982}{LIEUT66}{No dignificaré eso con una respuesta.}
-
-#
-# Lieutenant Tell-Me-Abouts
-#
-
-
+{982}{LIEUT66}{Ni siquiera me dignaré a dar una respuesta.}
 {1000}{}{Unidad}
 {1001}{}{VEF}
 {1002}{}{Maestro}
@@ -192,7 +184,6 @@
 {1006}{}{Refugios}
 {1007}{}{Morfeo}
 {1008}{}{Virus}
-
 {1100}{LIEUT56}{La Unidad es el objetivo de todos los Supermutantes. Con el Virus de Evolución Forzada conduciremos a toda la humanidad hacia la paz.}
 {1101}{LIEUT57}{El Virus de Evolución Forzada fue descubierto por el Maestro hace muchos años. Es lo que nos hace ser los Elegidos. Pero enseguida comprenderás lo que te digo, te lo aseguro.}
 {1102}{LIEUT58}{El Maestro es el padre de todos nosotros.}
@@ -202,9 +193,8 @@
 {1106}{LIEUT62}{Fueron construidos antes de la guerra. Además son nuestra principal fuente de Normales Puros.}
 {1107}{LIEUT63}{Morfeo. Es muy gracioso. Se cree que es mucho más que simplemente una babosa que el Maestro reclutó para encabezar su idea absurda de los Niños de la Catedral. Ah, en fin. Él también se bañará en los Tanques y probablemente tendrá una muerte horrible... al menos eso espero.}
 {1108}{LIEUT57}{El Virus de Evolución Forzada fue descubierto por el Maestro hace muchos años. Es lo que nos hace ser los Elegidos. Pero enseguida comprenderás lo que te digo, te lo aseguro.}
-
 {1109}{LIEUT65}{Esa es una pregunta irrelevante para la Unidad.}
 {1110}{LIEUT66}{Ni siquiera me dignaré a dar una respuesta.}
-{1111}{LIEUT45m}{Vaya, estoy impresionado. Mis espías me dijeron que tenías muchos recursos, pero parece que subestimaron tu talento. ¡Guardias, capturadlo!}
-{1112}{LIEUT39f}{Oh, admiro tu fuerza de voluntad. Guardias, llevadla a su celda y preparadla para el baño. Nos dirá donde se encuentra su Refugio cuando sea una de los nuestros.}
-{1113}{LIEUT39m}{Oh, admiro tu fuerza de voluntad. Guardias, llevadlo a su celda y preparadlo para el baño. Nos dirá donde se encuentra su Refugio cuando sea uno de los nuestros.}
+{1111}{lieut45m}{Vaya, estoy bastante impresionado. Mis espías me dijeron que tenías muchos recursos, pero parece que subestimaron tu talento. ¡Guardias, capturadlo!}
+{1112}{lieut39f}{Admiro tu fuerza de voluntad. Guardias, llevadla a su celda y preparadla para el baño. Nos dirá donde se encuentra su Refugio cuando sea una de los nuestros.}
+{1113}{lieut39m}{Admiro tu fuerza de voluntad. Guardias, llevadlo a su celda y preparadlo para el baño. Nos dirá donde se encuentra su Refugio cuando sea uno de los nuestros.}

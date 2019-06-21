@@ -5,7 +5,7 @@
 {104}{}{Vree me dijo que podría ver un arma nueva.}
 {105}{}{¿Tienes un Chip de Agua?}
 {106}{}{¿Tienes alguna pieza para una Armadura de Energía?}
-{107}{}{¿Ehhhhh?}
+{107}{}{¿Queeé?}
 {108}{}{Nada, gracias.}
 {109}{}{Soy Paul, el jefe de Desarrollo de Armas de Energía.}
 {110}{}{¿Qué tipo de Armas de Energía?}
@@ -31,7 +31,7 @@
 {130}{}{Ésta en concreto no es muy buena. Le falta el amplificador y la lupa. [Te quita la pistola y la coloca sobre la mesa.] Si de verdad quieres una, habla con Talus o con Michael.}
 {131}{}{Gracias. ¿Dónde están?}
 {132}{}{Gracias. Tengo que irme ahora.}
-{133}{}{¿Puedo hacerte más preguntas?}
+{133}{}{¿Puedo preguntarte algo más?}
 {134}{}{¿Un Chip de Agua? ¿De los que había en esos escondrijos, los Refugios?}
 {135}{}{¡Sí! ¿Tienes uno?}
 {136}{}{No. No eran más que chatarra condenada a la desaparición. Aquí no purificamos nuestra agua nosotros mismos. Nos la traen las caravanas del Eje.}

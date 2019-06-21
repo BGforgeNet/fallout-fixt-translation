@@ -8,7 +8,7 @@
 {107}{}{Me imagino que los informes deben ser incorrectos, lárgate. No contratamos yonquis.}
 {108}{}{No es un trabajo de mierda. Tendrás que hacer "eso" de una forma rápida y limpia. El jefe te dará los detalles, pero son más chapas de las que conseguirás trabajando durante un mes en las caravanas, aunque solo si eres lo bastante bueno. No nos gustan los errores, si sabes a lo que me refiero.}
 {109}{}{Suena bien.}
-{110}{}{Ahora mismo no puedo. Ya vendré después.}
+{110}{}{No puedo ahora mismo. Ya vendré luego.}
 {111}{}{¿A quién tengo que matar?}
 {112}{}{No, gracias. No necesito las chapas.}
 {113}{}{Estoy seguro de que nuestros negocios te son familiares, así que déjame decirte que, por tu bien, será mejor que no comentes nada de esto, ¿vale?}
@@ -74,7 +74,7 @@
 {174}{}{¡Eso es! Si crees saber lo que es el dolor y el sufrimiento, espera a que acabe contigo.}
 {175}{}{Controla a ese idiota, o es hombre muerto. }
 {176}{}{Mantén a tu amigo fuera de esto. }
-{177}{}{Mantén a tus colegas fuera de esto, o morirán. }
+{177}{}{Mantén a tus colegas fuera de esto o son hombres muertos. }
 {178}{}{Dejadlo chicos, es mío.}
 {179}{}{Dejadlo chicos, es mía.}
 {180}{}{Me has decepcionado; pensé que eras más duro.}
@@ -166,7 +166,7 @@
 {266}{}{No ha estado mal, nada mal. Me has sorprendido. No pensaba que pudieses golpear tan fuerte. Normalmente juzgo bien el carácter y quizás seas lo que estoy buscando. ¿Te interesa un trabajo?}
 {267}{}{¡Demonios! ¡Ha sido una buena pelea! Hace tiempo que no disfrutaba tanto con una pelea y no recuerdo cuando fue la última vez que me ganaron. ¡Buen trabajo! ¿Qué clase de trabajo te gustaría?}
 {268}{}{Claro, ¿de qué va el trabajo?}
-{269}{}{No gracias.}
+{269}{}{No, gracias.}
 {270}{}{No puedo ahora mismo. Ya vendré luego.}
 {271}{}{No es un trabajo de mierda. Tendrás que hacerlo de una forma rápida y limpia. El jefe te dará los detalles, pero son más chapas de las que conseguirás trabajando durante un mes para las caravanas. Creo que lo harás bien.}
 {272}{}{Suena bien, continúa.}
@@ -226,7 +226,7 @@
 {326}{}{¿Qué eres, un fenómeno sobrenatural? ¡Lárgate de aquí!}
 {327}{}{Oh, me encargaré de decírselo. Estoy seguro que estará interesado en escuchar eso... ¿dijiste rezando? Tienes mi "palabra" de que recibirá el mensaje.}
 {328}{}{¡Pensaba que te dije que te perdieras! ¡Mi paciencia se está agotando! ¿Me vas a decir por qué querías ver a Decker o no?}
-{330}{}{No tengo que decirte nada.}
+{330}{}{No tengo nada que decirte.}
 {331}{}{Lo siento, solo quería un trabajo.}
 {332}{}{Ya te lo dije, ¡es un secreto!}
 {333}{}{¡No!}
@@ -242,12 +242,12 @@
 {343}{}{Quiero un trabajo.}
 {344}{}{Nada, adiós.}
 {345}{}{Kru.}
-{346}{}{Hola.}
+{346}{}{Ey.}
 {347}{}{¿Cómo estás?}
 {348}{}{Adiós.}
 {349}{}{Bien.}
 {350}{}{¿Cómo están los niños?}
-{351}{}{Un día precioso, ¿verdad?}
+{351}{}{Bonito día, ¿no?}
 {352}{}{Estás muy guapa hoy.}
 {353}{}{Adiós... [Kane te mira de reojo como si intentara imaginar lo que estás pensando.]}
 {354}{}{Supongo. [Kane empieza a mirarte de una manera extraña.]}
@@ -309,7 +309,7 @@
 {410}{}{¡Hola!}
 {411}{}{Nada, adiós.}
 {412}{}{¡Acru!}
-{413}{}{Hola otra vez.}
+{413}{}{Hola de nuevo.}
 {414}{}{¿Qué? No tuviste el valor suficiente, ¿verdad? [Te susurra] No te preocupes, te acostumbrarás. Si hay guardias, espera a que se vayan antes de intentarlo. Tendrán que comer en algún momento, ¿no? Si puedes, intenta distraerlos. Haz lo que tengas que hacer, pero no falles. Hazlo y conseguirás tus chapas. Entonces podrás irte bien lejos de aquí. Y ahora... ¿necesitas algo de verdad?}
 {415}{}{¿Por qué no lo has hecho todavía? Será mejor que lo hagas. No quiero verte por aquí hasta que tengas buenas noticias o tendremos problemas. Será mejor que no nos decepciones.}
 {416}{}{Eso es. Has cometido tu último error. Será mejor que te marches de la ciudad ahora si no quieres quedarte aquí... seis metros bajo tierra.}
@@ -356,10 +356,9 @@
 {457}{}{[Kane te mira fijamente unos segundos] Has perdido tu oportunidad. Vete.}
 {458}{}{¡¿¡¿Qué demonios haces volviendo aquí?!?! Debes ser mucho más tonto de lo que pensaba. Sabía que Decker no tenía que haber contratado a un desconocido.}
 {459}{}{¿De qué estás hablando?}
-{460}{}{¿Huh?}
+{460}{}{¿Eh?}
 {461}{}{[Kane baja la voz] Te cargaste la misión, ¡imbécil! Se suponía que tenías que matar a los dos Hightowers y no herirlos, ¡por el amor de Dios! En el momento que abandonaste las Alturas, ellos escaparon con sus guardias. Créeme, tampoco tuvieron tiempo de hacer las maletas. ¡Dios sabe dónde están ahora!}
 {462}{}{Bueno, ¿qué puedo decir? Lo siento.}
 {463}{}{Ug. Lo SIentO.}
 {464}{}{No vale decir lo siento. Has puesto a Decker en un riesgo inaceptable. Puedes considerarte un enemigo de los Clandestinos a partir de ahora. Tampoco quiero volver a ver tu cara por aquí.}
-
 {465}{}{No puedes entrar por esta puerta si Kane está ahí.}

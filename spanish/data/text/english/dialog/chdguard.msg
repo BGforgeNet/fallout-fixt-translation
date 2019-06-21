@@ -21,7 +21,7 @@
 {120}{}{Me haces perder el tiempo. ¡Fuera!}
 {121}{}{Rejuio. ¿Rejuio? ¿Qué es un rejuio?}
 {122}{}{Yumyum.}
-{123}{}{Nyenye.}
+{123}{}{Nadnaa.}
 {124}{}{¡Refujo! ¡Refujo!}
 {125}{}{Oh, quieres unas chufas. Lo siento, no llevo ninguna. Adiós.}
 {126}{}{Oh, un Refugio. Seguro que es muy bonito. Quizás quieras hablar con unos de mis superiores sobre ello. Ahora mismo estoy muy ocupado.}
@@ -37,7 +37,7 @@
 {136}{}{Oh. Vale. A-diós.}
 {137}{}{Solo dime quién eres antes que te arranque la cabeza.}
 {138}{}{Soy un Seguidor. ¿Dónde ha ido todo el mundo?}
-{139}{}{Soy uno de los tuyos. Déjame pasar.}
+{139}{}{Soy uno de los tuyos. Ahora déjame pasar.}
 {140}{}{Soy }
 {141}{}{. ¡Recuérdalo!}
 {142}{}{No tengo porqué.}
@@ -46,13 +46,13 @@
 {145}{}{Así que, ¿eres un Seguidor?}
 {146}{}{¡Pues claro! ¿Quién sería, si no?}
 {147}{}{No, soy un miembro de los Niños.}
-{148}{}{Que tonto soy. Te he confundido con otra persona. Ven conmigo Te mostraré el camino.}
+{148}{}{Que tonto soy, te he confundido con otra persona. Ven conmigo Te mostraré el camino.}
 {149}{}{No te recuerdo. ¿Cómo te llamas?}
 {150}{}{Soy }
 {151}{}{. ¿Cómo es que no te acuerdas de mí?}
 {152}{}{No es asunto tuyo.}
 {153}{}{Soy tu peor pesadilla.}
-{154}{}{Lo siento. Todavía no te recuerdo. Quizás otro pueda recordar quien eres.}
+{154}{}{Lo siento, todavía no te recuerdo. Quizás otro pueda recordar quien eres.}
 {155}{}{Sí, te recuerdo. Nos dijeron que te buscáramos. ¡La venganza será mía!}
 {156}{}{Estás en mi zona de patrulla. Es mi problema. ¡Habla o morirás!}
 {157}{}{Vale. Soy }
@@ -64,7 +64,7 @@
 {163}{}{Sí, idiota.}
 {164}{}{Sí.}
 {165}{}{No, imbécil. ¡Es Asesino!}
-{166}{}{Bien. Solo quería asegurarme para cuando ponga tu lápida.}
+{166}{}{Bien. Solo quería asegurarme, para cuando ponga tu lápida.}
 {167}{}{Entonces no debo dejarte con vida. Buenas noches.}
 {168}{}{¿Y tú quién eres?}
 {169}{}{Soy un Seguidor. ¿Dónde ha ido todo el mundo?}
@@ -92,6 +92,6 @@
 {191}{}{¡Muere, escoria!}
 {192}{}{Aquellos perdedores son agua pasada.}
 {193}{}{Eso está bien. Bueno, adiós.}
-{194}{}{Y ahora, tú también.}
+{194}{}{Y ahora tú también.}
 {195}{}{De ahí es de donde te conozco. ¡Es el momento de la venganza!}
 {196}{}{Eres tú otra vez. Creía que ya habrías aprendido la lección. Creo que ya es demasiado tarde.}

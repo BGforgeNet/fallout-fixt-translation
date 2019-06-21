@@ -15,9 +15,6 @@
 {114}{}{¿Biz?}
 {115}{}{¡Quieto! Te reconozco y no confío en ti. Te daré un aviso: Si nos metes en líos, acabarás bajo tierra. ¡Ahora muévete!}
 {116}{}{¡No te muevas! ¡Quién va ahí! ¡Di tu nombre y a qué vienes!}
-# TRANSLATION NOTES
-# The player-character's name is inserted after line 117, and then has
-# line 118, 119, 120, or 121 appended.
 {117}{}{Soy }
 {118}{}{ y busco un Chip de Agua para mi Refugio. ¿Puedes ayudarme?}
 {119}{}{ y estoy buscando el origen de los ataques de los mutantes.}
@@ -52,4 +49,4 @@
 {148}{}{No malgastes mi tiempo, ¡idiota!}
 {149}{}{¿Qué quieres?}
 {150}{}{Nada.}
-{151}{}{Entonces te sugiero que te marches.}
+{151}{}{Entonces te sugiero que te vayas.}

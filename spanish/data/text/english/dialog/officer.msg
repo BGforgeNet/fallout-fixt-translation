@@ -1,7 +1,7 @@
 {100}{}{¡Tú! ¡Detente y enfréntate a la ley!}
 {101}{}{Gracias por traer el Chip de Agua. Esto subirá la moral de la gente y evitará que infrinjan la ley del Refugio.}
 {102}{}{Me alegro de volver a verte. ¿Hay algo que pueda hacer por ti?}
-{103}{}{¿Qué haces?}
+{103}{}{¿Qué tal estás?}
 {104}{}{Sí, necesito algunas armas.}
 {105}{}{¿Por qué iba a haber una puerta cerrada en el Refugio?}
 {106}{}{¡Glop!}
@@ -17,7 +17,7 @@
 {116}{}{¿Lo ves? Sabía que ocurriría. La obediencia a la ley es lo único que ha salvado al Refugio de la miseria y la destrucción. Adelante con el buen trabajo.}
 {117}{}{El Supervisor no me ha dejado abrir la armería y conseguir más armas para ti. Lo siento, pero no puedo ayudarte.}
 {118}{}{¡Por favor! ¡Las necesito!}
-{119}{}{De acuerdo. Gracias de todos modos.}
+{119}{}{Vale. Gracias de todos modos.}
 {120}{}{No. No puedo hacerlo.}
 {121}{}{Que tengas un buen día.}
 {122}{}{Para mantener las armas alejadas de aquellos que no tienen acceso a ellas.}
@@ -58,6 +58,5 @@
 {157}{}{Será mejor que no practiques aquí. Tú y yo tendremos serios problemas si vuelves a hacerlo.}
 {158}{}{Sabía que la vida del exterior te traería problemas.}
 {159}{}{¡Alto! ¡No puedes entrar ahí!}
-
 {1000}{}{Supervisor}
 {1100}{}{Es la autoridad suprema del Refugio. El Refugio obedece a sus decisiones.}

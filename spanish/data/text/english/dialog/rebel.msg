@@ -19,7 +19,7 @@
 {118}{}{No muy bien.}
 {119}{}{Uff.}
 {120}{}{Bien, me alegra oír eso. Sigue con el buen trabajo.}
-{121}{}{Sin problema.}
+{121}{}{Vale.}
 {122}{}{Sabíamos que no había esperanza. No creo que consigamos un nuevo chip a tiempo. Creo que algunos de nosotros deberían ir al exterior antes de que sea demasiado tarde.}
 {123}{}{No creo que sea una buena idea.}
 {124}{}{Mmm. Puede que sea mejor.}
@@ -38,7 +38,6 @@
 {137}{}{¡Bien! ¡Gente!}
 {138}{}{¡Puff!}
 {139}{}{Has sellado el destino de los que viven en este Refugio, traidor. Espero que estés satisfecho de ti mismo.}
-
 {1000}{}{Supervisor}
 {1001}{}{Refugio 13}
 {1002}{}{Refugio 13}

@@ -1,79 +1,79 @@
-{100}{}{Ves a un borracho.}
-{101}{}{Ves a un cliente.}
+{100}{}{Estás viendo a un borracho.}
+{101}{}{Estás viendo a un cliente.}
 {102}{}{Ves a una chica muy guapa.}
-{103}{}{Ves a un hombre de aspecto extraño.}
-{104}{}{Ves a un jugador.}
+{103}{}{Estás viendo a un hombre de aspecto extraño.}
+{104}{}{Estás viendo a un jugador.}
 {105}{}{Ves a una mujer que parece muy ocupada.}
-{106}{}{Ves a una mujer.}
-{107}{}{Ves a un hombre.}
-{108}{}{Ves a un jugador de aspecto triste.}
-{109}{}{Ves a un mercenario.}
-{110}{}{Déjame con mi dolor.}
-{111}{}{Mi mejó amigo.}
+{106}{}{Estás viendo a una mujer.}
+{107}{}{Estás viendo a un hombre.}
+{108}{}{Estás viendo a un jugador muy triste.}
+{109}{}{Estás viendo a un mercenario.}
+{110}{}{Déjame ahogar lash penas.}
+{111}{}{Sí, querishísimo amigo.}
 {112}{}{¿Po'qué estásh... hip... 'onde eshtoy?}
 {113}{}{¿Quién eres?}
 {114}{}{¿Te conozco?}
-{115}{}{Me shiento un poshquito ma´eado.}
+{115}{}{No me siento muy bien.}
 {116}{}{La bebida me pone, digo te pone.}
-{117}{}{¿Po´qué hash venido con tu doble?}
+{117}{}{¿Quiénes sois vosotros dos?}
 {118}{}{¡Señorita, quédese quieta!}
 {119}{}{¡Chica, quédate quieta!}
 {120}{}{¡A por el caballo!}
-{121}{}{Contigo, este sitio pierde categoría.}
-{122}{}{¡Fuera, me traes mala suerte!}
-{123}{}{No perturbes mi concentración.}
-{124}{}{¡Ganaré en este maldito juego!}
-{125}{}{¿Se te da bien esto?}
+{121}{}{Estás acabando con la elegancia de este lugar.}
+{122}{}{Vete, ¡gafe!}
+{123}{}{No me desconcentres.}
+{124}{}{¡Voy a ganar esta partida!}
+{125}{}{¿No sabes hacer esto?}
 {126}{}{¿Has visto eso? ¡Es imposible!}
-{127}{}{Creo que están haciendo trampas.}
-{128}{}{Esa es una buena apuesta.}
-{129}{}{Es algo seguro.}
-{130}{}{¿Qué? ¿Cómo puedo haber perdido?}
-{131}{}{¡Esta mesa está gafada!}
+{127}{}{Creo que están bromeando.}
+{128}{}{Ahora hay posibilidades.}
+{129}{}{Gano seguro.}
+{130}{}{¿Qué? ¿Cómo he podido perder?}
+{131}{}{Esta mesa está gafada.}
 {132}{}{Estoy ocupado.}
-{133}{}{¿No ves que estoy jugando?}
-{134}{}{Apuesta o afuera.}
-{135}{}{Déjanos en paz o llamo a los guardias.}
-{136}{}{Cuidado, soy amigo íntimo del Ayudante Fry.}
+{133}{}{¿No ves que estoy intentando jugar?}
+{134}{}{Apuesta o calla.}
+{135}{}{Déjanos solos o llamaré a los guardias.}
+{136}{}{Cuidado, soy amiga íntima del Ayudante Fry.}
 {137}{}{¿Te importa?}
-{138}{}{¡Nada de espectáculos!}
-{139}{}{No hago grupos.}
-{140}{}{Estoy demasiado cansado para otra.}
+{138}{}{¡Odio a los mirones!}
+{139}{}{No me gustan los grupos.}
+{140}{}{Estoy demasiado cansada para otro.}
 {141}{}{Estás soñando, colega, ¡lárgate!}
-{142}{}{¡Fuera de aquí!}
+{142}{}{¡Vete de aquí! }
 {143}{}{¿Qué diablos crees que estás haciendo?}
-{144}{}{¡Cuida tu modales!}
-{145}{}{¡Voy a llamar a la poli!}
-{146}{}{¡Ni lo pienses!}
-{147}{}{¡Lárgate de aquí!}
-{148}{}{¡Fuera!}
-{149}{}{¿Qué estás mirando?}
+{144}{}{¡Cuidado con tus modales!}
+{145}{}{¡Llamaré a la policía!}
+{146}{}{¡Ni lo sueñes!}
+{147}{}{¡Vete!}
+{148}{}{¡Lárgate!}
+{149}{}{¿Qué es lo que miras?}
 {150}{}{¿Te importa?}
-{151}{}{¡Lárgate de aquí!}
-{152}{}{¡Fuera!}
-{153}{}{¿Formas parte de ese grupo?}
+{151}{}{¡Vete de nuestra habitación!}
+{152}{}{¡Vete!}
+{153}{}{¿Formas parte de la orgía?}
 {154}{}{¡Fuera de aquí, pervertido!}
-{155}{}{¿Qué problema tienes?}
-{156}{}{Fuera de aquí antes de que me entre hambre.}
-{157}{}{Arréglatelas tú sólo.}
-{158}{}{Ella es mía.}
-{159}{}{¡Maldita sea!}
-{160}{}{¿Estás haciendo trampa?}
-{161}{}{Esa tenía que haber sido mía.}
-{162}{}{¡Casi!}
-{163}{}{¡Qué poco ha faltado!}
-{164}{}{¿Puedes repetirme las reglas?}
-{165}{}{Solía ser bueno en esto.}
+{155}{}{¿Cuál es tu problema?}
+{156}{}{Vete antes de que me enfade.}
+{157}{}{Búscate a otra.}
+{158}{}{Ésta es mía.}
+{159}{}{¡Mierda!}
+{160}{}{¿Estás de broma?}
+{161}{}{Tendría que haber ganado yo.}
+{162}{}{¡Por los pelos!}
+{163}{}{He perdido por los pelos.}
+{164}{}{¿Cuáles son las reglas?}
+{165}{}{Antes era bueno en esto.}
 {166}{}{Gracias por nada.}
-{167}{}{¡No lo creo!}
+{167}{}{¡No me lo creo!}
 {168}{}{Lo he hecho a propósito.}
 {169}{}{Hagan sus apuestas.}
 {170}{}{Quite sus manos de ahí, señor.}
-{171}{}{¡Ganaste!}
-{172}{}{Lo siento, amigos, quizá la próxima vez.}
+{171}{}{¡Ganador!}
+{172}{}{Lo siento, amigos, puede que la próxima.}
 {173}{}{¡Otro ganador!}
-{174}{}{¡Esas manos!}
+{174}{}{¡Manos fuera!}
 {175}{}{Le toca, señor.}
-{176}{}{Lo siento, esa apuesta no es válida.}
+{176}{}{Lo siento, es una apuesta inválida.}
 {177}{}{Eso es.}
 {178}{}{¿Alguien más?}

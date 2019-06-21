@@ -30,7 +30,7 @@
 {129}{}{¿Estás mal de la cabeza? ¡Le disparé tres veces con mi Desert Eagle y ni siquiera pestañeó!}
 {130}{}{No me importa si era un mutante, un marciano, o un demonio del infierno. ¡No quiero volver a ver una cosa de esas en mi vida!}
 {131}{}{¡Solo soy un guardia, corcho! ¡No me culpes a mí! ¡Y pagan bien! ¡No tengo ningún problema con ellos!}
-{132}{}{¿Cómo puedo ayudarte?}
+{132}{}{¿En qué puedo ayudarte?}
 {133}{}{Las Garras Mortales las tienen. Creía que eran cuentos, pero... no te imaginas lo grandes que son, y lo rápidas. Primero las olimos, luego aparecieron y nos atacaron. Todos echamos a correr. No sé cómo conseguí escapar.}
 {134}{}{Trent, Trent Barrister. Vivo en el Eje. Últimamente no hay mucho trabajo y soy bastante bueno disparando, así que me puse a trabajar como guardia para los Mercaderes de Agua. Buen sueldo, bajo riesgo... o por lo menos eso creía.}
 {135}{}{No tengo ni idea. ¿Eso es vieja tecnología, no? Supongo que los carroñeros pueden encontrar uno, pero yo no sabría por dónde empezar a buscar. Nadie los usa ya... ¿o sí?}
@@ -40,12 +40,5 @@
 {139}{}{Gracias. Quizás lo que ocurrió fue un malentendido. No tengo muchas chapas, pero... ¡qué diablos! Se me debieron caer. Ahora son tuyas.}
 {140}{}{Gracias. Oh Dios, eso está bien... No tengo muchas chapas, pero... ¡qué diablos! Se me debieron caer. Ahora son tuyas.}
 {141}{}{¡Ayúdame!}
-
-#
-# TRANSLATION NOTE: The following two lines are identical in English, but they
-# differ in foreign translations. The first line is for the case of the
-# player-character masculine ("my friend" will be masculine); the second line is
-# for the case of the player-character feminine ("my friend" will be feminine).
-#
-{142}{}{El olor de la muerte, amigo mío. El olor de la muerte...}
+{142}{}{El olor de la muerte, amiga mía. El olor de la muerte...}
 {143}{}{El olor de la muerte, amiga mía. El olor de la muerte...}

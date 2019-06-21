@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un Enterrador.}
-{101}{}{Estás viendo a un miembro de una banda.}
+{101}{}{Estás viendo al miembro de una banda.}
 {102}{}{Bienvenido a la banda, colega.}
 {103}{}{Nosotros los Enterradores acabaremos con esos Locos.}
 {104}{}{Me alegro que estés en nuestro bando.}
@@ -20,7 +20,3 @@
 {119}{}{Locos, corred mientras podáis.}
 {120}{}{Eh, Rayze, la temporada de caza ha comenzado y los Locos están entre las presas.}
 {121}{}{Eh, colegas. Dejadme que me cargue al Loco.}
-
-
-
-

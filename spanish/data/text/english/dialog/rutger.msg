@@ -1,8 +1,8 @@
 {100}{}{Ves: a Rutger.}
 {101}{}{Hola y bienvenido a los Comerciantes de Ultramar. ¿En qué podemos ayudarte?}
 {102}{}{¿Podéis transportar agua?}
-{103}{}{Estoy aquí por el anuncio de trabajo.}
-{104}{}{Ando buscando trabajo.}
+{103}{}{Estoy aquí por el trabajo del anuncio.}
+{104}{}{Estoy buscando trabajo.}
 {105}{}{¿Qué es lo que hacéis aquí?}
 {106}{}{No puedes. Adiós.}
 {107}{}{¡Gak!}
@@ -16,7 +16,7 @@
 {115}{}{¿No quieres hacerlo? ¿Hay alguien más que pueda hacerlo?}
 {116}{}{Bueno, ¿qué hay del trabajo anunciado?}
 {117}{}{Bueno, ¿tenéis trabajo?}
-{118}{}{Bueno, gracias por nada.}
+{118}{}{Bien, gracias por nada.}
 {119}{}{Oh lo siento, no eres de por aquí. Los Mercaderes de Agua manejan toda la maldita agua de la ciudad. Pero yo no perdería el tiempo intentando negociar con ellos. Son un atajo de buitres.}
 {120}{}{¿Dónde puedo encontrarlos?}
 {121}{}{Vale, gracias.}
@@ -97,7 +97,7 @@
 {196}{}{¡Sí, esos mismos! Van a por vosotros. Quieren... vuestros... brahmines.}
 {197}{}{En realidad fue un grupo de esos ENORMES mutantes.}
 {198}{}{Fue la Garra Mortal. Vi cómo se comía una caravana entera.}
-{199}{}{Lo he olvidado.}
+{199}{}{Lo olvidé.}
 {200}{}{¿Lo has olvidado? Qué risa, tío. Piérdete.}
 {201}{}{¿Lo has olvidado? Qué risa, tía. Piérdete.}
 {202}{}{Sabía que eran ellos. ¿Traes una prueba? Voy a hacer que esos bastardos paguen lo que han hecho.}
@@ -121,12 +121,12 @@
 {220}{}{¡Sí, esos mismos! Van a por vosotros. Quieren... vuestros... brahmines.}
 {221}{}{En realidad fue un grupo de esos ENORMES mutantes.}
 {222}{}{No, en realidad fue la Garra Mortal. Vi cómo se comía una caravana entera.}
-{223}{}{No me acuerdo.}
+{223}{}{Lo olvidé.}
 {224}{}{¿Ratas, eh? ¿Así has encontrado algo o qué? Son esos condenados Mercaderes de Agua, ¡lo sé!}
 {225}{}{¡Sí, esos mismos! Van a por vosotros. Quieren... vuestros... brahmines.}
 {226}{}{En realidad fue un grupo de esos ENORMES mutantes.}
 {227}{}{Fue la Garra Mortal. Vi cómo se comía una caravana entera.}
-{228}{}{NO me acuerdo.}
+{228}{}{Lo olvidé.}
 {229}{}{¿Que unos mutantes enormes destruyeron mis caravanas? Eso es casi tan bueno como la historia de la Garra Mortal.}
 {230}{}{No bromeo. Encontré a la Garra Mortal y la maté, aunque hallé este holodisco en el cuerpo de una de esas... criaturas Supermutantes.}
 {231}{}{En fin, comprueba este holodisco. Se lo quité a uno de los mutantes invasores.}
@@ -167,7 +167,7 @@
 {267}{}{La verdad es que las cosas no van tan bien. Esos mutantes todavía les causan problemas a nuestras caravanas. Tuvimos que suspender todas las salidas de las caravanas. Pero gracias por preguntar.}
 {268}{}{Claro, podríamos usarte en una de nuestras caravanas. ¿Harías el trabajo de guardia? El sueldo es fijo, 400 chapas del Eje. ¿Te interesa?}
 {269}{}{Claro.}
-{270}{}{Nah.}
+{270}{}{¡No!}
 {271}{}{¿Qué? ¿Qué hay de las caravanas desaparecidas?}
 {272}{}{¿Qué mejor manera de encontrar a los ladrones que unirse a una caravana?}
 {273}{}{Echaré un ojo, pero necesito algunas chapas.}

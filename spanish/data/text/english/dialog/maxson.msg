@@ -1,7 +1,7 @@
 {100}{}{Ves: al General Maxson.}
 {101}{}{¿De qué va realmente la Hermandad?}
 {102}{}{Apuesto a que sabes mucho sobre la historia que hay detrás de la Hermandad.}
-{103}{}{¿Has oído rumores interesantes?}
+{103}{}{¿Has oído algún rumor interesante?}
 {104}{}{Tengo información que darte.}
 {105}{}{Eso es todo. Gracias.}
 {106}{Gen_1}{Hola, adolescente. Cabbot dijo que querías hablar. Mira, estoy... bastante liado ahora mismo, así es que, eh... te ayudaré con tal de que no empieces a darle mucho al pico. Ya sabes, los forasteros siempre son así, parlotean todo el rato... Ja, ja, ja. Un poco como yo, ¿eh?}
@@ -11,7 +11,7 @@
 {110}{}{Oh, vaya.}
 {111}{}{¡Qué mal! ¿Por qué no haces nada?}
 {112}{Gen_2a}{Es la tradición. Es difícil cambiar nuestras costumbres. Ahora bien, si los Ancianos tuvieran información real, saldrían de su error y harían algo.}
-{113}{Gen_3}{Un Iniciado no nacido aquí. Eres el primer Forastero al que hemos dejado unirse desde hace mucho, mucho tiempo. Casi veinte años. }
+{113}{Gen_3}{Una Iniciada no nacida aquí. Eres la primera Forastera a la que hemos dejado unirse desde hace mucho, mucho tiempo. Casi veinte años.}
 {114}{}{¿Por qué yo?}
 {115}{}{Me honra. ¿Qué tal algunas preguntas ahora?}
 {116}{Gen_4}{Porque tenemos que hacer algo. Se está reuniendo un ejército, las caravanas del Eje desaparecen, y nuestros exploradores no están haciendo su puñetero trabajo. Los Ancianos por fin hicieron algo cuando se les ocurrió que quizás el Forastero adecuado tuviese algo que ofrecer. Ese forastero eres tú... bueno, eso esperamos.}
@@ -19,14 +19,14 @@
 {118}{}{¿Qué pasa con las caravanas desaparecidas?}
 {119}{}{Mmm. Entonces supongo que tengo que hacer algunas preguntas más.}
 {120}{}{¿Qué problema hay con los exploradores?}
-{121}{}{Tengo información que quizás te interese.}
+{121}{}{Tengo información que te puede interesar.}
 {122}{Gen_5}{Cuando nos enteramos de lo de las caravanas desaparecidas mandamos a algunos exploradores al este y al norte. Los que fueron hacia el norte nunca regresaron. Sin embargo uno regresó del este. Nos habló de una veintena de seres extraños, todo musculosos y con los ojos inyectados. Los Ancianos no están moviendo un dedo, pero yo me estoy preparando de todas formas.}
 {123}{}{Veinte no hacen un ejército. ¿Por qué te preocupas?}
 {124}{}{Parece que el tipo se coció demasiado bajo el sol.}
 {125}{}{Haré lo que pueda.}
 {126}{}{¿Dijo en qué lugar del este?}
 {127}{}{Tengo información que te puede interesar.}
-{128}{Gen_6}{Puede que sean, o no, buenos exploradores, pero no dudes de la sinceridad de mis hombres. Podemos revocar tu estado de Iniciado en cualquier momento.}
+{128}{Gen_6}{Puede que sean, o no, buenos exploradores, pero no dudes de la sinceridad de mis hombres. Podemos revocar tu estado de Iniciada en cualquier momento.}
 {129}{}{Parece que tú me necesitas más de lo que yo te necesito a ti.}
 {130}{}{Lo siento.}
 {131}{Gen_7}{Eso es. Advertí a los Ancianos que introducir a un Forastero podría traer problemas. [Gritando a un lado] ¡Guardias! Aquí hay un Iniciado que necesita un poco de tranquilidad para refinar sus modales. }
@@ -54,7 +54,7 @@
 {153}{}{Gracias, hablaré contigo más tarde.}
 {154}{}{Tengo información sobre eso.}
 {155}{Gen_15g}{Ya nos veremos, Iniciado. No eres tan malo... para ser un forastero.}
-{156}{Gen_15n}{Adiós, Iniciado.}
+{156}{Gen_15n}{Adiós, Iniciada.}
 {157}{Gen_15b}{¡Adiós!}
 {158}{Gen_16}{Crecí muy aislado aquí. ¿Te puedes imaginar lo que es pasarse la vida en un lugar pequeño, y luego tener que salir al mundo? }
 {159}{}{Bueno, de hecho...}
@@ -91,7 +91,7 @@
 {190}{}{¿Qué pasa con las caravanas desaparecidas?}
 {191}{}{Tengo información sobre eso.}
 {192}{Gen_29b}{No creo en los rumores. }
-{193}{Gen_30}{Ahh... Hola otra vez, Iniciado. ¿Va todo bien? }
+{193}{Gen_30}{Ahh... Hola otra vez, Iniciada. ¿Todo va bien? }
 {194}{}{Bastante bien. ¿Puedo hacerte más preguntas?}
 {195}{}{La verdad es que no me apetece nada.}
 {196}{}{Sí, gracias, pero tengo que irme.}
@@ -135,10 +135,10 @@
 {234}{Gen_50}{He dicho...}
 {235}{Gen_51}{No estoy acostumbrado a repetir. Así que abre esas orejas.}
 {236}{Gen_52}{Mira, ya te lo he dicho. No es culpa mía si no lo cogiste.}
-{237}{Gen_52a}{Es donde estás. Si quieres la versión larga, ve a hablar con Vree.}
+{237}{Gen_52a}{Aquí estás. Si quieres la versión larga, vete a hablar con Vree.}
 {238}{Gen_52b}{Mathia es mi ayudante.}
 {239}{Gen_53}{Oh, es un buen chico, aunque quiera ser Escriba.}
-{240}{Gen_54}{Vree es la Escriba Jefa. Suele estar en la biblioteca, le... gusta mucho hablar.}
+{240}{Gen_54}{Vree es la Escriba Jefa. Suele estar en la biblioteca, le... gusta mucho hablar. }
 {241}{Gen_55}{Ahí guardamos las características y la historia de las armas.}
 {242}{Gen_56}{Rhombus ha estado aquí mucho tiempo. Un poco seco, pero un pedazo de soldado.}
 {243}{Gen_58}{Je, je, je. Un buen mozo gallardo. El trabajo del Anciano Mayor es mediar entre los Ancianos en las asambleas. Sabes, hace dos años me convencieron. Si lo hubiese sabido entonces...}
@@ -147,22 +147,22 @@
 {246}{Gen_61}{Los Escribas copian las características de las armas. Tenemos información desde la época de mi abuelo. A veces a un Escriba se le ocurre una nueva idea para un arma. Je, je, je. No pasa muy a menudo. Todos responden a Vree.}
 {247}{Gen_62}{Los Caballeros hacen las armas. Cuando un Caballero es lo suficientemente bueno, puede convertirse en un Paladín y luego en Anciano y así. En este momento, Rhombus es el jefe de los Caballeros.}
 {248}{Gen_63}{Los Paladines se encargan de toda la seguridad y de las actividades exteriores. Recuerdo cuando comerciaba con el Eje, cuando iba en misión de exploración. Aquellos sí que eran buenos tiempos.}
-{249}{Gen_64}{El Eje está al sudeste. Comercian con comida y otras cosas a cambio de las armas que hacemos aquí. Si alguna vez te pasas por allí ve a hablar con Butch Harris.}
-{250}{Gen_65}{Butch es el jefe de los Comerciantes de Ultramar. Es un poco asqueroso pero no es malo del todo. No como esos Mercaderes de Agua. Todos ellos son un maldito atajo de buitres.}
-{251}{Gen_66}{Son nuestros colaboradores principales. No son de confianza, pero no son tan malos como el resto.}
+{249}{Gen_64}{El Eje está al sudeste. Comercian con comida y otras cosas a cambio de las armas que hacemos aquí. Si alguna vez pasas por allí ve a hablar con Butch Harris.}
+{250}{Gen_65}{Butch es el jefe de los Comerciantes de Ultramar. Es un poco zalamero, pero no es malo del todo. No como esos Mercaderes de Agua. Todos ellos son un maldito atajo de buitres.}
+{251}{Gen_66}{Son con los que comerciamos principalmente. No de toda confianza, pero no tan malos como el resto. }
 {252}{Gen_67}{No puedes fiarte de ellos. Hace unos años, nos ofrecieron Agua a cambio de un montón de armas. Les dijimos que no, ¿y sabes lo que hicieron? ¡Mandaron ladrones para que robasen las armas! Los atrapamos pero los Ancianos votaron ir al Eje para dar una lección a los Mercaderes.}
-{253}{Gen_68}{¿Holodiscos? Umm... Hace mucho que no veo uno de esos. }
+{253}{Gen_68}{¿Holodiscos? Umm... hace tiempo que no veo uno de eso.}
 {254}{Gen_69}{Vree lo tiene en algún sitio de la Biblioteca.}
 {255}{Gen_70}{Roger Maxson, ¿eh? Él condujo a nuestra gente hasta aquí durante el Gran Éxodo y fundó la Hermandad a partir de la nada. Todo un líder.}
 {256}{Gen_71}{Eso fue cuando mi abuelo, Roger Maxson, condujo a sus soldados hasta aquí y formó la Hermandad. Nunca mencionó de dónde vinieron, pero eso no importa, porque... bueno, este es nuestro hogar ahora.}
-{257}{Gen_72}{Creo que se está reuniendo un ejército al norte y en las montañas del este, pero no tengo ninguna prueba de ello. Los Ancianos ni siquiera quieren escucharme.}
-{258}{Gen_73}{Si me preguntas te diré que son un atajo de religiosos fanáticos. Creo que su iglesia principal está en el Cementerio.}
+{257}{Gen_72}{Creo que se está reuniendo un ejército al norte y en las montañas del este, pero no tengo pruebas que lo demuestren. Los Ancianos ni siquiera quieren escucharme. }
+{258}{Gen_73}{Un atajo de fanáticos religiosos, ya que me lo preguntas. Creo que su iglesia principal está en el Cementerio.}
 {259}{Gen_75}{No sé mucho. Hay unas cuantas bandas por ahí, además de Adytum y los Niños de la Catedral. No mucho más. Está bastante desolado.}
 {260}{Gen_76}{No hay mucho que contar. Nunca me he topado con ninguna de ellas. Aunque he oído que son un problema para la gente de Adytum.}
-{261}{Gen_77}{Es un campamento en el Cementerio. Fui... eh... hace mucho tiempo. Era una misión de exploración para los Ancianos.}
+{261}{Gen_77}{Es un campamento en el Cementerio. Fui... oh... hace mucho tiempo. Era una misión de exploración para los Ancianos.}
 {262}{Gen_78}{Oh. Otro rumor estúpido. Unos dicen que es un monstruo enorme con colmillos y otros que es un vampiro.}
 {263}{Gen_79}{No tengo ni la más remota idea.}
-{264}{Gen_80}{¿Qué has dicho? No. Creo que nunca lo he oído.}
+{264}{Gen_80}{¿Qué has dicho? No. Creo que nunca lo había oído.}
 {265}{Gen_81a}{Que me muera si lo sé.}
 {266}{}{¿Te sorprende verme? ¿Y dejarte a ti todo lo divertido?}
 {267}{}{¿Cómo convenciste a los Ancianos?}
@@ -175,8 +175,6 @@
 {274}{Gen_85}{¡Ja! Olvidas que yo solía enseñar esto.}
 {275}{Gen_86}{A pesar de los rumores, queremos soldados con cerebro.}
 {276}{Gen_87}{Te sugiero que hables de eso con mi ayudante, Mathia.}
-
-# Alchemist: I'm not sure about exact naming of the Weapon Store. Check this place.
 {278}{}{¡Excelente! Debido a las misiones completadas con éxito te concedo acceso al arsenal del primer nivel. ¿Alguna pregunta más?}
 {300}{}{¿Quizás tú me lo puedas decir? Parece que todo el mundo tiene los nervios de punta. Es como si os prepararais para la guerra, pero que nadie supiera contra quien.}
 {301}{}{¿Tienes alguna pista sobre el origen de la desaparición de las caravanas?}
@@ -213,7 +211,7 @@
 {332}{}{Necesito hacerte unas preguntas.}
 {333}{}{¿Duh?}
 {334}{}{Tengo información sobre la zona situada al norte de aquí.}
-{335}{}{¿Puedo hacerte unas preguntas?}
+{335}{}{¿Puedo hacerte algunas preguntas?}
 {336}{}{No importa.}
 {337}{}{Perdona, la verdad es que no tenía nada.}
 {338}{}{Vi su base. Está llena de mutantes.}
@@ -222,7 +220,7 @@
 {341}{}{Es evidente que hay que hacer algo. Lo mejor sería atacar a los mutantes antes de que ellos nos ataquen a nosotros. Esta vez necesitamos que los Ancianos se pongan de nuestra parte.}
 {342}{}{No estoy seguro de lo que debemos hacer ahora mismo. Déjame recoger más información y luego volveré.}
 {343}{}{Planea hacerse con todos los asentamientos humanos que pueda.}
-{344}{}{¿Qué puedes contarme de la historia de la Hermandad?}
+{344}{}{¿Qué puedes decirme de la historia de la Hermandad?}
 {345}{}{¿Cuál es el principal objetivo de la Hermandad?}
 {346}{}{¿Quiénes son los Ancianos?}
 {347}{}{¿Sabes algo de la Garra Mortal?}
@@ -231,36 +229,18 @@
 {350}{}{Gracias.}
 {351}{}{Ganas }
 {352}{}{ puntos de experiencia por explorar el área norte.}
-
-#
-# TRANSLATION NOTE: The following groups of  lines are identical in English,
-# but they differ in foreign translations. The first line is for the case of the
-# player-character masculine ('my friend' will be masculine); the second line is
-# for the case of the player-character feminine ('my friend' will be feminine).
-#
-
-{353}{Gen_3}{Un Iniciado no nacido aquí. Eres el primer Forastero al que hemos dejado unirse desde hace mucho, mucho tiempo. Casi veinte años.}
+{353}{Gen_3}{Una Iniciada no nacida aquí. Eres la primera Forastera a la que hemos dejado unirse desde hace mucho, mucho tiempo. Casi veinte años.}
 {354}{Gen_3}{Una Iniciada no nacida aquí. Eres la primera Forastera a la que hemos dejado unirse desde hace mucho, mucho tiempo. Casi veinte años.}
-{355}{Gen_6}{Puede que sean, o no, buenos exploradores, pero no dudes de la sinceridad de mis hombres. Podemos revocar tu estado de Iniciado en cualquier momento.}
+{355}{Gen_6}{Puede que sean, o no, buenos exploradores, pero no dudes de la sinceridad de mis hombres. Podemos revocar tu estado de Iniciada en cualquier momento.}
 {356}{Gen_6}{Puede que sean, o no, buenos exploradores, pero no dudes de la sinceridad de mis hombres. Podemos revocar tu estado de Iniciada en cualquier momento.}
-{357}{Gen_15n}{Adiós, Iniciado.}
+{357}{Gen_15n}{Adiós, Iniciada.}
 {358}{Gen_15n}{Adiós, Iniciada.}
-{359}{Gen_30}{Ahh... Hola otra vez, Iniciado. ¿Todo va bien? }
+{359}{Gen_30}{Ahh... Hola otra vez, Iniciada. ¿Todo va bien? }
 {360}{Gen_30}{Ahh... Hola otra vez, Iniciada. ¿Todo va bien? }
-
 {400}{}{He estado en la base mutante del norte. Digamos que ya no son una amenaza.}
-
-
-# General Maxson Tell-Me-Abouts generic responses
 {980}{Gen_79}{No tengo ni la más remota idea.}
 {981}{Gen_80}{¿Qué has dicho? No. Creo que nunca lo había oído.}
 {982}{Gen_81a}{Que me muera si lo sé.}
-
-
-#
-# General Maxson Tell-Me-Abouts
-#
-
 {1000}{}{Hermandad}
 {1001}{}{Mathia}
 {1002}{}{Cabbot}
@@ -283,13 +263,13 @@
 {1019}{}{Éxodo}
 {1020}{}{Ejército}
 {1021}{}{Catedral}
-{1022}{}{Ángeles}
+{1022}{}{Ángel}
 {1023}{}{Bandas}
 {1024}{}{Adytum}
 {1025}{}{Garra}
 {1026}{}{Harris}
 {1027}{}{Maxson}
-{1028}{}{Ángel}
+{1028}{}{Ángeles}
 {1029}{}{Cementerio}
 {1030}{}{Maestro}
 {1031}{}{Guerra}
@@ -300,7 +280,6 @@
 {1036}{}{Holodisc}
 {1037}{}{Holo-disco}
 {1038}{}{Holo-disc}
-
 {1100}{Gen_52a}{Aquí estás. Si quieres la versión larga, vete a hablar con Vree.}
 {1101}{Gen_52b}{Mathia es mi ayudante.}
 {1102}{Gen_53}{Oh, es un buen chico, aunque quiera ser Escriba.}
@@ -314,10 +293,10 @@
 {1110}{Gen_62}{Los Caballeros hacen las armas. Cuando un Caballero es lo suficientemente bueno, puede convertirse en un Paladín y luego en Anciano y así. En este momento, Rhombus es el jefe de los Caballeros.}
 {1111}{Gen_63}{Los Paladines se encargan de toda la seguridad y de las actividades exteriores. Recuerdo cuando comerciaba con el Eje, cuando iba en misión de exploración. Aquellos sí eran buenos tiempos.}
 {1112}{Gen_64}{El Eje está al sudeste. Comercian con comida y otras cosas a cambio de las armas que hacemos aquí. Si alguna vez pasas por allí ve a hablar con Butch Harris.}
-{1113}{Gen_65}{Butch es el jefe de los Comerciantes de Ultramar. Es un poco zalamero, pero no es malo del todo. No como esos Mercaderes de Agua. Maldito atajo de buitres, todos ellos.}
+{1113}{Gen_65}{Butch es el jefe de los Comerciantes de Ultramar. Es un poco zalamero, pero no es malo del todo. No como esos Mercaderes de Agua. Todos ellos son un maldito atajo de buitres.}
 {1114}{Gen_66}{Son con los que comerciamos principalmente. No de toda confianza, pero no tan malos como el resto. }
 {1115}{Gen_67}{Quieres saber sobre los Mercaderes de Agua. Je, je, je. Bueno, no puedes fiarte de ellos. Hace unos años, nos ofrecieron agua a cambio de un montón de armas. Pues les dijimos que no, ¿y sabes lo que hicieron? ¡Mandaron ladrones para que robasen las armas! Los atrapamos pero los Ancianos votaron ir al Eje para dar una lección a los Mercaderes.}
-{1116}{Gen_68}{¿Holodiscos? ¿Mmm? Hace mucho que no veo uno de esos. }
+{1116}{Gen_68}{¿Holodiscos? Umm... hace tiempo que no veo uno de eso.}
 {1117}{Gen_69}{Vree lo tiene en algún sitio de la Biblioteca.}
 {1118}{Gen_70}{Roger Maxson, ¿eh? Él condujo a nuestra gente hasta aquí durante el Gran Éxodo y fundó la Hermandad a partir de la nada. Todo un líder.}
 {1119}{Gen_71}{Eso fue cuando mi abuelo, Roger Maxson, condujo a sus soldados hasta aquí y formó la Hermandad. Nunca mencionó de dónde vinieron, pero eso no importa, porque... bueno, este es nuestro hogar ahora.}
@@ -335,7 +314,7 @@
 {1131}{Gen_71}{Eso fue cuando mi abuelo, Roger Maxson, condujo a sus soldados hasta aquí y formó la Hermandad. Nunca mencionó de dónde vinieron, pero eso no importa, porque... bueno, este es nuestro hogar ahora.}
 {1132}{Gen_65}{Butch es el jefe de los Comerciantes de Ultramar. Es un poco zalamero, pero no es malo del todo. No como esos Mercaderes de Agua. Todos ellos son un maldito atajo de buitres.}
 {1133}{Gen_81a}{Que me muera si lo sé.}
-{1134}{Gen_68}{¿Holodiscos? Umm... hace tiempo que no veo uno de esos.}
+{1134}{Gen_68}{¿Holodiscos? Umm... hace tiempo que no veo uno de eso.}
 {1135}{Gen_68}{¿Holodiscos? Umm... hace tiempo que no veo uno de eso.}
 {1136}{Gen_68}{¿Holodiscos? Umm... hace tiempo que no veo uno de eso.}
 {1137}{Gen_68}{¿Holodiscos? Umm... hace tiempo que no veo uno de eso.}

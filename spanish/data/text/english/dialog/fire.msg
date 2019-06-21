@@ -43,9 +43,9 @@
 {142}{}{¡Luchar está mal! ¡No lo haré!}
 {143}{}{Los Reguladores. Gobiernan Adytum. No son nada estúpidos y son muy peligrosos.}
 {144}{}{Vale, acabaré con los Reguladores.}
-{145}{}{Olvídalo.}
+{145}{}{No importa.}
 {146}{}{Si planeas hacer eso, querrás decírselo a Cuchilla ahora. Sino hará que te maten antes de salgas de este lugar.}
-{147}{}{Como quieras. Adiós.}
+{147}{}{Tú mismo. Adiós.}
 {148}{}{No hago tratos. Solo hago sugerencias. Habla con Cuchilla si quieres hacer un trato.}
 {149}{}{Entonces matarte ahora te ahorrará muchos años de sufrimiento.}
 {150}{}{¡Entonces inspecciona esto!}

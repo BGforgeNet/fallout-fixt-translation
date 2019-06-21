@@ -8,7 +8,7 @@
 {107}{}{¡Me rindo!}
 {108}{}{No tienes derecho a estar aquí. ¿Qué quieres?}
 {109}{}{Hne.}
-{110}{}{¿Quién eres tú?}
+{110}{}{¿Quién eres?}
 {111}{}{¡Estúpidos! ¡Estoy cansado de vosotros!}
 {112}{}{¿Qué lugar es éste?}
 {113}{}{Ahora eres casi un Nocturno. Espero que tu inteligencia no haya sido dañada aún más.}

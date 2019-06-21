@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a Jasmine.}
-{101}{}{Discúlpeme, señor, esta persona es miembro de uno de los gremios de mercaderes.}
+{101}{}{Discúlpeme, señor, este señor es un miembro del gremio de los mercaderes.}
 {102}{}{Deja que me aclare; le disparas a mi jefe y a mis amigos y, ¿todavía quieres hablar? ¡Vete a la mierda!}
 {103}{}{La puerta está por allí. No dejes que te golpee a la salida.}
 {104}{}{Hola. Bienvenido al Gremio de Ladrones. Juega limpio y podrás entrar.}
@@ -17,7 +17,7 @@
 {118}{}{Bien hecho, chaval. Aquí está tu recompensa. [Jasmine te da 3.000 chapas.]}
 {119}{}{Bien hecho, tía. Aquí está tu recompensa. [Jasmine te da 3.000 chapas.]}
 {121}{}{Por cierto, ahí va algo extra para ayudarte en tus futuras incursiones criminales.}
-{122}{}{Hola otra vez.}
+{122}{}{Hola de nuevo.}
 {123}{}{Bueno, ha sido nuestro benefactor en algunas ocasiones. Si lo matas, alguien más listo ocupará su lugar. Y eso no nos gustaría nada.}
 {124}{}{¡Pfah! Un verdadero ladrón vive de su ingenio. Estamos siendo generosos contigo. ¡Ahora, lárgate!}
 {125}{}{Es la empresa que nos patrocina. A Loxley le entró sed y ellos nos "donaron" varias docenas de botellas. Fue muy amable de su parte ayudarnos.}

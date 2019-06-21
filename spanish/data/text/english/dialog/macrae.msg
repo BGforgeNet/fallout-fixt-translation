@@ -40,7 +40,4 @@
 {139}{}{Aprendes rápido. Espero que te ayude en tus viajes.}
 {140}{}{Bien, solía ayudar a los Navajas enseñándoles unas cuantas técnicas de defensa personal contra las Garras Mortales y los Reguladores. Ahora que te encargas de todo eso, la vida es bastante aburrida, la verdad.}
 {141}{}{Me alegro de verte.}
-#
-##Sduibek, Fallout Fixt:
-#
 {200}{}{Ganas 250 puntos de experiencia por aprender a pelear como un escocés.}

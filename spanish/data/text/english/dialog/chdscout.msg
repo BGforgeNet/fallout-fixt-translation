@@ -37,7 +37,7 @@
 {136}{}{Oh. Vale. A-diós.}
 {137}{}{Solo dime quién eres antes que te arranque la cabeza.}
 {138}{}{Soy un Seguidor. ¿Dónde ha ido todo el mundo?}
-{139}{}{Soy uno de los tuyos. Déjame pasar.}
+{139}{}{Soy uno de los tuyos. Ahora déjame pasar.}
 {140}{}{Soy }
 {141}{}{. ¡Recuérdalo!}
 {142}{}{No tengo porqué.}

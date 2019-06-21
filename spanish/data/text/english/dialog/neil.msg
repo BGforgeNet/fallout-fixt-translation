@@ -9,7 +9,7 @@
 {108}{}{. Me enviaron a que te buscara.}
 {109}{}{Soy }
 {110}{}{. Y tú estás muerto.}
-{111}{}{¿Qué puedes decirme de los Seguidores?}
+{111}{}{¿Qué puedes contarme de los Seguidores?}
 {112}{}{He venido a ofrecerte mi ayuda.}
 {113}{}{Busco formas de instaurar la paz en este yermo tan desolado.}
 {114}{}{Lo siento, pero no puedo entenderte. Y ahora, ¿qué estás haciendo aquí?}
@@ -27,7 +27,7 @@
 {126}{}{Conozco a algunos. Jake casi no me dijo nada.}
 {127}{}{¿De qué va todo esto del espía? Quizás pueda ayudar.}
 {128}{}{Mis guardias no son tontos. Te enviaron a la persona adecuada. Aquí hay una filtración, y necesitamos averiguar dónde está y cerrarla.}
-{129}{}{¿Tienes alguna pista?}
+{129}{}{¿Tienes pistas?}
 {130}{}{Soy un guerrero, no un fontanero. Si tenéis filtraciones, hablad con otra persona.}
 {131}{}{Creo que tú eres la filtración. ¡¡Muere!!}
 {132}{}{Olvídalo. No soy el lacayo de nadie.}
@@ -45,7 +45,7 @@
 {144}{}{Gracias. Eso significa mucho para nosotros.}
 {145}{}{Entonces debo detenerte para que no adviertas a nadie.}
 {146}{}{Cómo llegó él a ser el segundo no lo sé. Como resulta que está tan escueto de palabras, te dejaré entrar. Tenemos una filtración que hace disponer a los Niños con algunas de nuestras rutas de patrulla.}
-{147}{}{¿Tienes alguna pista?}
+{147}{}{¿Tienes pistas?}
 {148}{}{Soy un guerrero, no un fontanero. Si tenéis filtraciones, hablad con otra persona.}
 {149}{}{Creo que tú eres la filtración. ¡¡Muere!!}
 {150}{}{Olvídalo. No soy el lacayo de nadie.}
@@ -69,7 +69,7 @@
 {168}{}{Nuestra líder es Nicole. Una persona encantadora, pero un poco caprichosa. ¿Quieres saber algo más?}
 {169}{}{¿Por qué estáis atacando a los Niños?}
 {170}{}{¿Dónde puedo conseguir algo de curación?}
-{171}{}{Nada. Solo estaba comprobando algo. [le abofeteas]}
+{171}{}{Nada. Solo comprobaba algo. [le abofeteas]}
 {172}{}{Nada. Gracias.}
 {173}{}{Los Niños no son lo que parecen. Están escondiendo algo. Algo relacionado con esos Nocturnos. ¿Algo más?}
 {174}{}{¿Quién es el líder?}
@@ -82,7 +82,7 @@
 {181}{}{Nada. Solo comprobaba algo. [le abofeteas]}
 {182}{}{Nada. Gracias.}
 {183}{}{Lamento mucho oír eso. ¡Que las piezas estén contigo!}
-{184}{}{¿Quién te ha enviado?}
+{184}{}{¿Quién te envía?}
 {185}{}{Me ha enviado uno de tus guardias.}
 {186}{}{Me ha enviado Jake.}
 {187}{}{Me he enviado yo.}
@@ -92,7 +92,7 @@
 {191}{}{Ve a buscar al espía. Todavía necesitamos mantener nuestros planes en secreto.}
 {192}{}{Buen trabajo al encontrar y eliminar a Heather. Su intromisión casi hace que mueran todos. Ojalá pudiéramos haber hecho algo más.}
 {193}{}{Quizás pueda ayudarte una vez más.}
-{194}{}{Que tengas buena suerte.}
+{194}{}{Que tangas buena suerte.}
 {195}{}{¿Y eso?}
 {196}{}{Puedo entrenar a los Seguidores en algunas técnicas para la guerra. Quizás mejoren tus posibilidades.}
 {197}{}{Debo irme. Adiós.}

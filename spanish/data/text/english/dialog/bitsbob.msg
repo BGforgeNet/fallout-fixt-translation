@@ -20,7 +20,7 @@
 {119}{}{Que te jodan.}
 {120}{}{¿Eres? Bueno, vale...}
 {121}{}{Es un maldito hijo de perra. No te metas con él. ¿Algo más?}
-{122}{}{Bien. ¿Cuánto quieres que pague?}
+{122}{}{Bien. ¿Cuánto quieres que te pague?}
 {123}{}{Quiero }
 {124}{}{ chapas cada cinco días.}
 {125}{}{¿De Doc Mórbid? Todo lo que sé es que anda por ahí en Ciudad Vertedero y que es la fuente de comida más barata que he podido encontrar. ¡Eso es todo!}
@@ -43,8 +43,8 @@
 {142}{}{Claro. Tenemos pinchos de iguana por veinte pavos cada uno y nuestro plato del día por ocho pavos.}
 {143}{}{Tomaré iguana.}
 {144}{}{Tomaré el plato del día.}
-{145}{}{¿Sabéis que vuestro plato del día sabe a pollo? ¿Os gusta comer a tíos cobardes?}
-{146}{}{¡No poco! ¡Yo querer toda iguana! ¡Ugh!}
+{145}{}{Me he enterado que vuestro plato del día sabe a pollo. ¿Es que os gusta comer tíos cobardes?}
+{146}{}{¡No poco! ¡Yo querer iguana! ¡Ugh!}
 {147}{}{Mmm, ¡oler bien! ¡Yo querer el plato del día!}
 {148}{}{Nunca he visto ninguno por aquí. Los Mercaderes de Agua no los necesitan.}
 {149}{}{¿Mercaderes de Agua?}
@@ -67,7 +67,7 @@
 {166}{}{¿Algo más?}
 {167}{}{Tío, estaré fuera del negocio una semana. Algo más, ¿alto y fuerte?}
 {168}{}{No me gusta tu actitud.}
-{169}{}{Lo siento, no puedes permitírtela.}
+{169}{}{Lo siento, no puedes permitírtelo.}
 {170}{}{¡Aquí tienes tu iguana! ¿Algo más?}
 {171}{}{¿Sabes de qué está hecho y todavía quieres uno? ¡A tu lado Decker parece un santo! ¿Algo más?}
 {172}{}{No me gusta tu actitud.}
@@ -90,7 +90,7 @@
 {189}{}{Creo que no fui amable. Que tengas un buen día...}
 {190}{}{Ya sabes, la comisaría de policía está al otro lado de la calle. Tendré que darme un paseíto.}
 {191}{}{Puedo hablar más alto. Pero también puedo callarme. Los gritos son baratos, el silencio es caro.}
-{192}{}{¿Cómo demonios te voy a pagar si te comes todas mis existencias? ¡Vale! ¡Tómate otra iguana! ¡Espero que te atragantes!}
+{192}{}{¿Cómo demonios voy a pagarte si te comes todas mis existencias? ¡Bueno! ¡Tómate otra iguana! ¡A ver si te atragantas!}
 {193}{}{No me gusta tu actitud.}
 {194}{}{Eres tozudo. Si quieres dinero, te lo doy. Si quieres comida, te la doy. Si quieres morir, yo lo arreglo. Pero "que te guste" no forma parte de la ecuación.}
 {195}{}{Nada que pueda imaginar. Ahora, si me disculpas, tengo un negocio que dirigir.}
@@ -121,7 +121,6 @@
 {220}{}{No creo que te haga chantaje. Continúa.}
 {221}{}{Amigo, yo cambiaría de opinión si fuera tú. La gente muere por mucho menos en el Eje.}
 {222}{}{Bien. Es un trato. }
-# TRANSLATION NOTE: A number of caps is inserted between lines 222 and 223. The space at the end of line 222 is intentional!
 {223}{}{ chapas, cada cinco días. Creo que te veré en cinco...}
 {224}{}{No voy a hacerlo de ninguna manera. No puedo permitirme pagarte más de lo que estoy pagando.}
 {225}{}{Qué pena, Bob. No me gustaría tener que cantar.}
@@ -131,7 +130,7 @@
 {229}{}{Tú podrás ser un pájaro cantor pero yo soy la gallina de los huevos de oro. Y tú no vas a cantar, más que nada porque soy la única gallina que tienes. ¡Ahora sal de aquí!}
 {230}{}{La primera cosa sensata que dices. ¡Ahora sal de aquí!}
 {231}{}{Dame un pincho moruno de iguana.}
-{232}{}{¿Sabes algo acerca de un Chip de Agua?}
+{232}{}{¿Sabes algo de un Chip de Agua?}
 {233}{}{¿Me puedes contar algo acerca de Decker?}
 {234}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
 {235}{}{¿Sabes algo de las caravanas desaparecidas?}
@@ -142,19 +141,13 @@
 {240}{}{Nada, adiós.}
 {241}{}{Yo ir ahora.}
 {242}{}{No tengo tanto dinero. Apenas llego a fin de mes tal y como estoy ahora.}
-##
-##Sduibek -- Fallout Fixt
-##
 {243}{}{¡¿Treinta chapas?! ¿Estás bromeando?}
 {244}{}{Mira imbécil, tú eres el que me ha destrozado mi margen de beneficios. Así que si no te gustan mis precios, vete a la mierda. Hay muchos establecimientos de iguana por aquí. Oh, espera, no los hay. Imbécil.}
 {245}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Ahora, si no estás aquí para comprar, lárgate de mi vista.}
 {246}{}{Lo que tú digas. Adiós.}
 {247}{}{De hecho, ahora que lo pienso, estoy bastante hambriento.}
-#
 {250}{}{ puntos de experiencia por extorsionar a Bob para que pague por tu silencio.}
 {251}{}{¿Cómo va el negocio, Bob? *guiño*}
-#
-# 252 to 260 take place while Bob is in jail
 {252}{}{¿Qué demonios haces aquí? Cierras mi negocio y seguro que recibes una gran recompensa. ¿Estás aquí para regodearte o qué?}
 {253}{}{Mas o menos, sí ¿Cómo va el negocio, Bob? *guiño*}
 {254}{}{Nah, comprobando como te iba.}
@@ -163,4 +156,4 @@
 {257}{}{Podría hacer que te matasen ahora mismo, si es que lo prefieres a esperar.}
 {258}{}{¡Preguntaré si podemos convertirte en Delicias de Iguana después de tu ejecución!}
 {259}{}{Lo que sea. Vete a la mierda.}
-{260}{}{Lárgate.}
+{260}{}{Vete.}

@@ -8,16 +8,16 @@
 {107}{}{}
 {108}{}{}
 {109}{}{Gracias por salvarnos.}
-{110}{}{No estaba seguro de que pudieras hacerlo, pero ahora confío en ti.}
-{111}{}{¡Gracias! ¡Gracias!}
+{110}{}{No estaba muy seguro de que pudieras hacerlo, pero ahora confío en ti.}
+{111}{}{¡Gracias, gracias!}
 {112}{}{Eres un héroe. Mi hijo pequeño quiere ser como tú cuando sea mayor. No sé si la idea me gusta demasiado.}
 {113}{}{Eres una heroína. Mi hija pequeña quiere ser como tú cuando sea mayor. No sé si la idea me gusta demasiado.}
-{114}{}{¡Eres un tío fantástico!}
-{115}{}{¡Eres una tía fantástica!}
-{116}{}{¿Seguro que necesitas eso aquí?}
+{114}{}{¡Eres un tipo estupendo!}
+{115}{}{¡Eres una chica estupenda!}
+{116}{}{¿Estás seguro de que necesitas esto aquí?}
 {117}{}{¡Eso es un arma!}
-{118}{}{¿La has usado contra alguien?}
-{119}{}{¿Por qué crees que es necesario llevar un arma aquí?}
+{118}{}{¿Pero ya lo has usado contra alguien?}
+{119}{}{¿Por qué crees que se tiene que llevar un arma aquí?}
 {120}{}{Qué bueno verte de nuevo.}
 {121}{}{Estoy contento de estés bien.}
 {122}{}{Me resultas simpático. Todos esos rumores debían ser falsos.}
@@ -36,7 +36,7 @@
 {135}{}{Hola }
 {136}{}{.}
 {137}{}{Espero que te salga bien tu búsqueda.}
-{138}{}{Nos vemos por ahí.}
+{138}{}{Ya nos veremos.}
 {139}{}{¿Has hablado últimamente con el Supervisor?}
 {140}{}{El Supervisor está muy preocupado por el estado de la misión.}
 {141}{}{Tenemos que darnos prisa. No podemos permitirnos ningún error.}
@@ -52,7 +52,7 @@
 {151}{}{. Sería lo mejor.}
 {152}{}{Debería darte vergüenza.}
 {153}{}{Y pensar que me gustabas.}
-{154}{}{El habitante del Refugio se niega a hablar contigo.}
+{154}{}{El morador del Refugio se niega a hablar contigo.}
 {155}{}{Te lanza una mirada vacía cuando intentas hablar.}
 {156}{}{Me arrepiento de haberte traído aquí fuera.}
 {157}{}{El agua es mala, pero tu compañía es aún peor.}

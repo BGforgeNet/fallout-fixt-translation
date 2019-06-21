@@ -1,9 +1,9 @@
-{100}{}{Estás viendo a un corista de los Niños.}
+{100}{}{Ves a un Miembro de los Niños de la Catedral.}
 {101}{}{¡El Maestro perdonará tus pecados! ¡Únete a nosotros y sé libre! ¡Reza al Maestro y a su misericordia!}
 {102}{}{¡Hola amigo! ¿Cantarás una alabanza conmigo?... Yo antes deambulaba sin rumbo por una tierra cruel y vil...}
 {103}{}{Odio interrumpir tus plegarias, pero, ¿dónde puedo encontrar al Maestro?}
 {104}{}{No desperdicies un día tan lindo.}
-{105}{}{¿Quién manda aquí?}
+{105}{}{¿Quién está al mando aquí?}
 {106}{}{... pero ahora beso los pies del Maestro...}
 {107}{}{¡Sé feliz! ¡Canta tus alegrías!}
 {108}{}{Él te encontrará cuando menos lo esperes. ¡Reza al Maestro! ¡Reza a la Llama Sagrada! ¡Reza al mundo!}

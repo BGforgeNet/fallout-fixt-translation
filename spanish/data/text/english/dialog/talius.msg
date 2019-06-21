@@ -37,7 +37,7 @@
 {136}{}{Eso es horrible. Pero, mala suerte. Hasta la vista.}
 {137}{}{¿Por qué estabas en Necrópolis?}
 {138}{}{¿De dónde eras originalmente?}
-{139}{}{Y ahora te transformaré una vez más. Descansa en trozos.}
+{139}{}{Y ahora te transformaré una vez más. Descansa en pedacitos.}
 {140}{}{Hace algún tiempo, yo vivía en un lugar al norte de aquí. Teníamos problemas con las reservas de agua y enviaron gente al exterior para encontrar un modo de solucionarlo.}
 {141}{}{Y tú te ofreciste voluntario.}
 {142}{}{¿Dónde era ese lugar?}
@@ -47,7 +47,7 @@
 {146}{}{Eso es realmente terrible. Ojalá hubiera algo que pudiera hacer.}
 {147}{}{Qué mal. Debo irme.}
 {148}{}{¿Dónde era ese lugar?}
-{149}{}{¿Encontraste alguna manera de solucionar el problemas del agua?}
+{149}{}{¿Pudiste encontrar un modo de solucionar el problema del agua?}
 {150}{}{¿Por qué fuiste a Necrópolis?}
 {151}{}{Hay un modo de que puedas ayudar. Hay que detener al que me hizo esto.}
 {152}{}{¿Quién es?}
@@ -60,7 +60,7 @@
 {159}{}{¿Pudiste encontrar un modo de solucionar el problema del agua?}
 {160}{}{¿Por qué fuiste a Necrópolis?}
 {161}{}{¿Cuál era el nombre de ese Refugio?}
-{162}{}{Suena bien. Tengo que darme prisa.}
+{162}{}{Suena bien. Debo darme prisa.}
 {163}{}{Por desgracia, no. He oído que otros fueron enviados desde el Refugio para buscar un modo de arreglar el surtidor de agua.}
 {164}{}{No he vuelto a saber nada de ellos.}
 {165}{}{¿Por qué fuiste a Necrópolis?}
@@ -117,7 +117,7 @@
 {216}{}{Pensaré sobre ello en rato. Gracias.}
 {217}{}{¿Puedes aventurar una hipótesis de por qué puede eso ser así?}
 {218}{}{Por ahora, no estoy seguro. Quizá otro grupo que busque desbaratar sus planes lo sepa.}
-{219}{}{Gracias. Que pases un buen día.}
+{219}{}{Gracias. Adiós.}
 {220}{}{Lamento no tolerar la insolencia. Fuera.}
 {221}{}{Mi entrada en los Seguidores fue muy sencilla. Fueron los Seguidores los que me rescataron de los completos efectos de la transformación que me habría convertido en una bestia atroz.}
 {222}{}{No logro entenderlo. Por favor, sigue.}

@@ -1,13 +1,10 @@
-#
-# He's fairly short, stocky and self-assured, and looks to be well-traveled.
-#
 {100}{}{Estás viendo a un hombre bajito y rechoncho.}
 {101}{}{Los de tu clase no nos gustan por aquí.}
 {102}{}{Hola, forastero. Parece que eres nuevo aquí. ¿Cómo te llamas?}
 {103}{}{Mi nombre no es importante.}
 {104}{}{Soy }
 {105}{}{.}
-{106}{}{¿Urgh?}
+{106}{}{¿Ergh?}
 {107}{}{Bueno, entonces tú tampoco lo eres.}
 {108}{}{Encantado de conocerte. Soy Ian.}
 {109}{}{¿Qué haces aquí?}
@@ -32,9 +29,6 @@
 {128}{}{Hay tres grupos: los Khans, los Víboras y los Chacales. Se odian los unos a los otros pero todos hacen de las suyas en Arenas Sombrías.}
 {129}{}{Háblame más sobre Arenas Sombrías.}
 {130}{}{Tiene la confianza y el carácter tranquilo de un luchador experimentado.}
-
-# TRANSLATION NOTE
-# The player-character's name is inserted by the code in between lines 131 and 132.
 {131}{}{Bueno, }
 {132}{}{, ¿qué puedo hacer por ti?}
 {133}{}{Háblame de los saqueadores.}
@@ -46,12 +40,8 @@
 {139}{}{El Eje es un gran centro de negocios bastante al sur de Arenas Sombrías. Está dirigido por varios grupos de caravanas de mercaderes distintas: Los Mercaderes de Agua, la Caravana Carmesí y los Comerciantes de Ultramar. Ciudad Vertedero está un poco al sur y luego un tanto al este. Es más pequeña, pero un buen sitio para parar a tomar algo. Está supervisada por un tipo llamado Killian Darkwater, el tendero local, el Sheriff y el alcalde.}
 {140}{}{Gracias.}
 {141}{}{Puede que ya no sea nunca más un buen luchador, ¡pero soy lo suficientemente bueno como para ganarte!}
-
-# TRANSLATION NOTE
-# The player-character's name is inserted by the code in between lines 142 and 143.
 {142}{}{¿Qué puedo hacer por ti, }
 {143}{}{?}
-
 {144}{}{Mmm. Nada. No importa, Ian.}
 {145}{}{Ahora puedes irte.}
 {146}{}{¿Me puedes decir por dónde se va al Eje y a Ciudad Vertedero?}
@@ -66,7 +56,7 @@
 {155}{}{Este lugar me saca de quicio.}
 {156}{}{Mmm. Es una oferta tentadora porque este lugar empieza a ser aburrido. Te diré qué haremos. Tarifas estándar. 100 chapas y trato hecho.}
 {157}{}{Trato hecho.}
-{158}{}{No gracias.}
+{158}{}{No, gracias.}
 {159}{}{Y en vez de eso, ¿qué tal un poco de acción?}
 {160}{}{De acuerdo, te ayudaré a cambio de mi parte del botín.}
 {161}{}{No, no lo creo. Vuelve cuando tengas algunas chapas.}
@@ -83,36 +73,21 @@
 {172}{}{Ya sabes, esa mujer no podría ni bailar un tango y mucho menos preparar una revolución.}
 {173}{}{¿Con qué armas te manejas mejor?}
 {174}{}{Soy buen tirador con casi todas las pistolas y también puedo usar un subfusil ametrallador. Además, también me las apaño con un cuchillo.}
-
-#
-# Translation note
-# The following line is directed at Katja, a female scavenger, not at the player.
-# Ian is noting that he thinks that the Boneyard was a worse place than the
-# mutants' military base.
-#
-
 {175}{}{Pensé que el Cementerio de LA era peor.}
-
-
 {200}{}{Desenfunda tu mejor arma la próxima vez que peleemos.}
-{201}{}{Claro.}
+{201}{}{Tenlo por seguro.}
 {202}{}{¿Puedo hacer algo por ti antes de irme?}
 {203}{}{Um, sí. Creo que, después de todo, podemos soportarnos.}
 {204}{}{Uh, no. Gracias.}
-
-#
-# Ian Tell-Me-Abouts
-#
-
 {1000}{}{Agua}
 {1001}{}{Guerra}
-{1002}{}{Sombrías}
+{1002}{}{Arenas}
 {1003}{}{Ciudad Vertedero}
 {1004}{}{Eje}
 {1005}{}{Saqueadores}
 {1006}{}{Caravanas}
 {1007}{}{Chip}
-{1008}{}{Arenas}
+{1008}{}{Sombrías}
 {1009}{}{Seguidores}
 {1010}{}{Catedral}
 {1011}{}{Garl}
@@ -127,7 +102,7 @@
 {1020}{}{Médico}
 {1021}{}{Curación}
 {1022}{}{Refugio}
-{1023}{}{Refugio13}
+{1023}{}{Refugio 13}
 {1024}{}{Refugio 13}
 {1025}{}{Killian}
 {1026}{}{Gizmo}
@@ -154,7 +129,7 @@
 {1048}{}{Gwen}
 {1049}{}{Petrox}
 {1050}{}{Tolya}
-{1051}{}{Bebida}
+{1051}{}{Bebidas}
 {1052}{}{Drogas}
 {1053}{}{Seth}
 {1054}{}{Aradesh}
@@ -164,15 +139,14 @@
 {1058}{}{Carroñeros}
 {1059}{}{Navajas}
 {1060}{}{Nicole}
-{1061}{}{Lugarteniente}
+{1061}{}{Teniente}
 {1062}{}{Psíquicos}
 {1063}{}{Experimentos}
 {1064}{}{Policía}
 {1065}{}{Mercaderes}
-
-{1100}{}{No tengo ni idea de lo que es un Chip de Agua. Lo siento, amigo.}
+{1100}{}{No tengo ni idea de qué es un Chip de Agua. Lo siento.}
 {1101}{}{Sucedió hace como un siglo atrás. Básicamente, un grupo de países se volvió inquieto y todo hizo ¡PUM!}
-{1102}{}{Una aldea pequeña y pacífica. Probablemente la comunidad más prometedora del yermo.}
+{1102}{}{Una aldea pequeña y tranquila. Probablemente la comunidad más prometedora del yermo.}
 {1103}{}{Una ciudad mediana hecha de chatarra, supervisada por un Sheriff llamado Killian. Está a unos días al sudoeste de las Arenas Sombrías.}
 {1104}{}{El Eje es el mayor centro de negocios en el Nuevo Oeste. Lo dirige principalmente un grupo llamado los Mercaderes de Agua, pero también hay otros comerciantes allí. Es una ciudad en auge, pero hay muchos conflictos políticos entre los comerciantes.}
 {1105}{}{Hay varios grupos distintos de saqueadores ahí fuera. El grupo más organizado se llama los Khans; creen que pueden conquistar el mundo o algo así.}
@@ -235,7 +209,6 @@
 {1163}{}{Lo siento, colega. No sé mucho sobre eso.}
 {1164}{}{Lo siento, colega. No sé mucho sobre eso.}
 {1165}{}{Algunos mercaderes vienen del Eje para comerciar con Ciudad Vertedero. Es todo lo que sé.}
-
 {1999}{}{¡He aprendido algún truco nuevo!}
 {2000}{}{Vamos a hablar de nuestras tácticas de combate.}
 {2001}{}{¿Si?}

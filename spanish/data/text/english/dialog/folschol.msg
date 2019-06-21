@@ -18,4 +18,3 @@
 {117}{}{Ahora estamos a salvo y podemos descubrir el conocimiento necesario reconstruir la civilización.}
 {118}{}{¿No es glorioso que los Niños ya no representen una amenaza?}
 {119}{}{Que tengas un glorioso día.}
-

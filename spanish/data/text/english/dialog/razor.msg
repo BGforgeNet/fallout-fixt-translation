@@ -1,12 +1,11 @@
 {100}{}{Hola, ¿qué puedo hacer por ti?}
 {101}{}{¿Quién eres?}
-{102}{}{¿Eres el líder de esta banda?}
+{102}{}{¿Eres la jefa de esta banda?}
 {103}{}{No importa.}
-{104}{}{¿Que... qué?}
+{104}{}{¿Un... qué?}
 {105}{}{Me llamo Cuchilla. Soy lo más parecido a un líder.}
 {106}{}{¿Así que eres la jefa de la banda?}
 {107}{}{¿Cuál es la historia de la zona vallada del sur?}
-# Player's name follows 108
 {108}{}{Me alegro de conocerte. Soy }
 {109}{}{Me alegro de conocerte, pero debo irme. Adiós.}
 {110}{}{¿Banda? Apenas somos una banda. Pero yo soy la jefa.}
@@ -68,7 +67,7 @@
 {166}{}{¿Banda? Apenas somos una banda. Pero acuden a mí cuando necesitan a un jefe.}
 {167}{}{Zimmerman me envió.}
 {168}{}{Bueno, a mí me parecéis una banda.}
-{169}{}{Adiós}
+{169}{}{Adiós.}
 {170}{}{(Con aspecto nervioso) ¿Qué? ¿Él...?}
 {171}{}{Para meterte una bala en la cabeza.}
 {172}{}{Por matar a su hijo.}
@@ -102,9 +101,8 @@
 {200}{}{¿Eh... qué?}
 {201}{}{Primero me gustaría hablar con Zimmerman.}
 {202}{}{Bueno, gracias de nuevo por tu ayuda. Adiós.}
-{203}{}{Fantástico. Vamos.}
+{203}{}{Vale. Vamos.}
 {204}{}{No creo que sea una buena idea, pero puedes intentarlo si quieres.}
-# 205 fixed with patch 1.3 from TeamX. 240 or 241 will be substituted BEFORE this line.
 {205}{}{Sin los Pistoleros no tendremos la oportunidad de conseguir armas. Fuera de aquí, no eres bienvenido.}
 {206}{}{Lo siento.}
 {207}{}{Vete de paseo.}
@@ -112,14 +110,14 @@
 {209}{}{¿Sabes? Te voy a matar.}
 {210}{}{¿Ehh... qué?}
 {211}{}{Adelante. Es tu funeral. Sin armas no tenemos nada que nos sirva de apoyo.}
-{212}{}{¡Fuera!}
+{212}{}{¡Vete!}
 {213}{}{No eres bienvenido aquí.}
 {214}{}{Piérdete.}
 {215}{}{Gracias.}
 {216}{}{Mi gente está libre.}
 {217}{}{Hola.}
 {218}{}{¿Qué te ha pasado? ¿Te han disparado en la cabeza?}
-{219}{}{¿Ehh?}
+{219}{}{¿Eh?}
 {220}{}{Ves: a Cuchilla, líder de los Navajas.}
 {221}{}{Ves a una mujer muy guapa con mirada triste.}
 {222}{}{Por favor, vete. Estoy muy ocupada.}
@@ -132,7 +130,7 @@
 {229}{}{¿Los has matado a todos? No, en absoluto, no es problema. Mi pueblo puede ahora vivir libremente con la gente de Adytum.}
 {230}{}{No puedo creerlo. Has podido matarlos a todos. Los Navajas y yo te lo agradecemos.}
 {231}{}{He oído que los Reguladores todavía controlan Adytum. ¿No has podido matarlos a todos como esperabas?}
-{232}{}{No te preocupes, me ocuparé de ello.}
+{232}{}{No te preocupes, me encargo de eso.}
 {233}{}{No creo que pueda, de hecho.}
 {234}{}{Iríamos contigo, pero sin armas, los Reguladores nos matarían a todos. Puede que haya otra posibilidad. [Cuchilla reflexiona un momento]. Si consigues que los Pistoleros nos proporcionen armas, algunos de nosotros irán contigo.}
 {235}{}{Me parece bien. Iré a hablar con ellos.}
@@ -140,8 +138,5 @@
 {237}{}{Hola otra vez. He oído que has estado jugando con los Reguladores. Quería darte las gracias por deshacerte de ellos. Mi pueblo puede ahora vivir en libertad con la gente de Adytum.}
 {238}{}{Me ocuparé yo mismo de los Reguladores.}
 {239}{}{¿Lo harás? Bien, si necesitas ayuda o si por casualidad los consigues, regresa y dímelo.}
-
-# to male player - space at end of line is intentional
 {240}{}{¡Bastardo! }
-# to female player - space at end of line is intentional
 {241}{}{¡Puta! }

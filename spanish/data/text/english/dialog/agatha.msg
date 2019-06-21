@@ -6,7 +6,7 @@
 {105}{}{Hnng.}
 {106}{}{Vale.}
 {107}{}{¿Por qué?}
-{108}{}{¿A qué te refieres?}
+{108}{}{¿Qué quieres decir?}
 {109}{}{Sé que lo harás lo mejor que puedas, querido. Encuentra a Tandi, ayúdala a escapar de esas bestias y devuélvesela a Aradesh. Le harías un favor a esta comunidad y también te formarías un buen karma.}
 {110}{}{Aradesh quiere mucho a su hija. Es ese amor el que le hace el hombre que es y un pilar para esta comunidad. Sin ese amor estaría perdido, y Arenas Sombrías seguramente la seguiría...}
 {111}{}{Lo haré lo mejor que pueda. Adiós.}

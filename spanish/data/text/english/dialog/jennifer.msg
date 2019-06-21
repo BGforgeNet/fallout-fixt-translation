@@ -1,5 +1,5 @@
 {100}{}{Ves: a Jennifer.}
-{101}{}{Estás viendo a una Paladín.}
+{101}{}{Estás viendo a un Paladín.}
 {102}{}{Discúlpame, Hermano. Deberías apartar tu arma cuando estés en la Hermandad. Somos una orden amistosa pero, ya sabes, estos son tiempos difíciles.}
 {103}{}{Algunos miembros de la Hermandad pueden sentirse ofendidos si un extraño... quiero decir, un recién Iniciado... se les acerca con un arma.}
 {104}{}{Buenos días, Iniciado. ¿Puedo ayudarte?}
@@ -34,7 +34,7 @@
 {133}{}{¿Entonces por qué se llama la Hermandad?}
 {134}{}{Bueno, es bastante extraño.}
 {135}{}{No lo sé. Ése ha sido siempre nuestro nombre. Estoy segura de que existe una razón.}
-{136}{}{Creo que tienes razón.}
+{136}{}{Supongo que tienes razón.}
 {137}{}{Bueno, me sigue pareciendo algo extraño.}
 {138}{}{Es algo raro. En realidad nunca he pensado mucho en ello. Hemos estado en la Hermandad del Acero toda nuestra vida. Nuestros antepasados tuvieron que tener una razón para llamarla así.}
 {139}{}{Pero eso no significa que las cosas no puedan cambiar.}
@@ -51,7 +51,7 @@
 {150}{}{¡Una porquería! ¿Cómo te atreves a hablar así de la Hermandad? Ahora eres un miembro de nuestra orden, y como tal, debes estar orgulloso de ser un miembro de la Hermandad del Acero.}
 {151}{}{¿Orgulloso? ¿Por qué? Sois una panda de tíos robotizados que se esconde del mundo real. Yo no veo nada de que sentirme orgulloso.}
 {152}{}{Lo siento. Algunas veces se me va la olla.}
-{153}{}{Sí, vale.}
+{153}{}{Sí, claro.}
 {154}{}{Bueno, creo que nos pasa a todos de vez en cuando.}
 {155}{}{Bueno, ¿quién se encarga de este lugar?}
 {156}{}{Sí. Bueno, tengo que irme.}
@@ -70,7 +70,7 @@
 {169}{}{Eso es... bastante gracioso. Estarás bromeando, ¿verdad? De hecho... prefiero que no contestes. No creo que quiera saberlo.}
 {170}{}{Sí, MUY divertido. ¡Casi tanto como tu cara!}
 {171}{}{Muchas gracias. Es exactamente lo que necesitaba oír ahora mismo.}
-{172}{}{No soy de aquí.}
+{172}{}{Me voy de aquí.}
 {173}{}{Lo siento. Es que tienes una forma muy extraña de hablar, extranjero. ¿Te puedo ayudar en algo?}
 {174}{}{Bueno, creo que tendré que hablar con el tal Anciano Mayor. ¿Dónde está?}
 {175}{}{Me gustaría conseguir mejores armas. ¿Con quién tengo que hablar?}
@@ -113,7 +113,7 @@
 {212}{}{Hola, Hermano }
 {213}{}{.}
 {214}{}{Ten cuidado si vas al norte. Nuestros exploradores nunca han vuelto.}
-{215}{}{Hermano }
+{215}{}{¡Hermano }
 {216}{}{, qué bueno verte de nuevo.}
 {217}{}{¿Has hablado con Rhombus? Es el Caballero Jefe. Está justo ahí en esa sala.}
 {218}{}{No tengo tiempo para hablar. Estoy ocupada.}
@@ -135,7 +135,7 @@
 {234}{}{Ven aquí, cielito.}
 {235}{}{¿Me estás tomando el pelo?}
 {236}{}{Estás luchando con uñas y dientes, ¿verdad?}
-{237}{}{¡Por aquí, corazón!}  ## Is this supposed to say sweaty or sweety? Either way, I chuckled when it was "sweaty".
+{237}{}{¡Por aquí, corazón!}
 {238}{}{¡Eh, cariño!}
 {239}{}{Eso es. Estaba empezando a preocuparme.}
 {240}{}{Acércate y dame un beso, guapetón.}

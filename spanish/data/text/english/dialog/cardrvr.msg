@@ -24,7 +24,7 @@
 {123}{}{¿Has cambiando de opinión? ¿Quieres el trabajo?}
 {124}{}{Sí.}
 {125}{}{No.}
-{126}{}{¿Eh?}
+{126}{}{¿Ru?}
 {127}{}{Chapas fáciles. ¿Quieres volver con nosotros al Eje? El pago es el mismo en ambas direcciones, pero, de nuevo, existe también el mismo peligro.}
 {128}{}{¿Te interesan las 600 chapas? Tengo que volver al Eje. Esperemos que sea un viaje fácil.}
 {129}{}{Sabía que vendrías conmigo. Se pagan 600 chapas de nuevo. ¿Te interesa?}

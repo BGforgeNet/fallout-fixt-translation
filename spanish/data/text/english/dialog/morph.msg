@@ -18,7 +18,7 @@
 {117}{MORP05A}{Eres un mentiroso patético. Dime la verdadera razón de tu presencia ahora mismo... si no quieres que te arranque el pellejo. }
 {118}{}{¡No, de verdad! ¡Me he perdido!}
 {119}{}{Está bien, me has pillado. Estoy aquí para ofrecerte un trato.}
-{120}{}{Solo echaba una ojeada.}
+{120}{}{Solo estoy mirando.}
 {121}{MORP06}{Sospecho que eres un espía enviado por los Seguidores. Puede que me equivoque, pero no pienso arriesgarme. Debes ser eliminado. }
 {122}{MORP07}{ ¿Qué me puedes ofrecer? }
 {123}{}{Vengo de un Refugio. Sabes lo que es, ¿verdad?}
@@ -40,12 +40,12 @@
 {139}{MORP11}{No tolero los insultos. ¡Guardias! }
 {140}{MORP12}{ De acuerdo. Te llevaré ante el Maestro. Pero si estás mintiendo, él lo sabrá. }
 {141}{}{De acuerdo.}
-{142}{}{¡No me llevarás a ningún sitio!}
+{142}{}{¡No me vas a llevar a ningún sitio!}
 {143}{MORP13}{No te metas en esto. Pero si de verdad vienes de un Refugio, el Maestro lo descubrirá. ¡Guardias! Vamos.}
 {144}{MORP14}{Puedes conservar la vida. Ahora, dime lo que sabes. }
-{145}{}{Soy de un Refugio y estoy deseando revelarle al Maestro su ubicación.}
+{145}{}{Soy de un Refugio y estoy dispuesto a comunicar su ubicación al Maestro.}
 {146}{}{¿O qué?}
-{147}{}{No te diré nada.}
+{147}{}{No te contaré nada.}
 {148}{MORP15}{ ¿No? Entonces te sacaré la información. ¡Guardias! }
 {149}{MORP16}{ ¿Y quiénes pueden ser mis enemigos? }
 {150}{}{Bueno, para empezar, los Seguidores.}
@@ -62,7 +62,7 @@
 {161}{MORP20}{ ¿Un espía? Es muy tonto por tu parte. Será difícil contárselo a él cuando estés muerto, ¿o no? }
 {162}{MORP21}{ No sabes mentir. Ahora, dime lo que quieres. }
 {163}{}{Vengo de un Refugio. Sabes lo que es, ¿verdad?}
-{164}{}{Quisiera ofrecerte información sobre tus enemigos.}
+{164}{}{Me gustaría ofrecerte información sobre tus enemigos.}
 {165}{MORP23}{¡Vaya sorpresa! Ahora dime porqué estás aquí. }
 {166}{}{Soy de un Refugio y estoy dispuesto a comunicar su ubicación al Maestro.}
 {167}{}{Me gustaría ofrecerte información sobre tus enemigos.}
@@ -85,7 +85,7 @@
 {184}{}{No importa.}
 {185}{}{¿Nah?}
 {186}{morp29}{Por supuesto, hijo.}
-{187}{}{Gracias...}
+{187}{}{Gracias.}
 {188}{}{No importa.}
 {189}{}{¿Qué planes tienen los Niños?}
 {190}{}{He cambiado de idea. No tengo más preguntas.}
@@ -94,7 +94,7 @@
 {193}{}{¿En serio? ¿Qué tipo de evolución enseñáis?}
 {194}{}{¿Qué tipo de cura?}
 {195}{MORP32}{ Sabemos que hay un nivel superior, un lugar glorioso que la humanidad debe esforzarse por alcanzar. Nuestra misión es conseguir una vida mejor y más satisfactoria que la presente, marcada por la privación y el desengaño. }
-{196}{}{¿Estás bromeando, no?}
+{196}{}{Estás bromeando, ¿verdad?}
 {197}{}{¿Y encontraste ese nivel superior?}
 {198}{MORP33}{[Enfadado] ¡Te voy a...! [Una vez calmado] Te perdono. Muy poca gente es capaz de ver la luz. Pero dime, hijo, ¿por qué te uniste a nosotros? }
 {199}{}{Tenía que ver si era tan ridículo como lo había oído. Ahora lo sé.}
@@ -114,7 +114,7 @@
 {213}{MORP40}{ Nuestro glorioso esfuerzo acaba de alcanzar Adytum y, por supuesto, el Eje resplandece con nuestros esfuerzos. Pero, me da la sensación de que quieres preguntar algo más. }
 {214}{MORP41}{ Estos son días maravillosos. Ciudad Vertedero se une ahora a Adytum y al Eje en nuestra campaña para salvar el cuerpo y el alma. ¿Hay algo más que desees saber, hijo mío? }
 {215}{}{Ahora que lo dices...}
-{216}{}{Nada. Tengo que irme.}
+{216}{}{Por nada. Tengo que irme.}
 {217}{MORP42}{ La visión de los Niños se extiende desde Adytum, por el Eje, hasta Ciudad Vertedero y ahora acaricia suavemente Arenas Sombrías. ¿Por qué lo preguntas? }
 {218}{}{Simple curiosidad. ¿Puedo seguir preguntando?}
 {219}{}{Por nada. Tengo que irme.}
@@ -129,13 +129,13 @@
 {228}{MORP49}{ ¡No lo diré otra vez! }
 {229}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los Niños. Como todos nosotros.}
 {230}{MORP51}{Él fue quien me reveló la visión de la Unidad y será él quien traiga la paz a esta tierra maltratada.}
-{231}{MORP52}{Hijo mío, deberías conocer el Auditorio. Allí doy mis sermones. }
-{232}{MORP53}{No te preocupes por eso. Solo los Sumos Sacerdotes pueden entrar. }
+{231}{MORP52}{Hijo mío, deberías conocer el Auditorio. Yo doy mis sermones allí. }
+{232}{MORP53}{No te preocupes por eso. Solo pueden entrar los Sumos Sacerdotes. }
 {233}{MORP54}{Soy un humilde siervo de la Unidad. }
-{234}{MORP55}{Somos sumos sacerdotes del gran Dios Oscuro. Trece de nosotros tienen la suerte de transmitir sus poderosas palabras al resto de los Niños. }
+{234}{MORP55}{Somos sumos sacerdotes del gran Dios Oscuro. Trece de nosotros tenemos la bendición de transmitir sus poderosas palabras al resto de los Niños. }
 {235}{MORP56}{No tengo ni idea de lo que estás diciendo. }
-{236}{MORP57}{Los hospitales de los Niños de la Catedral proporcionan los mejores tratamientos de esta tierra dividida y maltratada. Estos tratamientos son vitales para la Unidad.}
-{237}{MORP58}{La Unidad refleja nuestra búsqueda de un nivel de vida superior y de la solidaridad con nuestros semejantes. }
+{236}{MORP57}{Los hospitales de los Niños de la Catedral proporcionan los mejores tratamientos de esta pobre tierra dividida. Estos tratamientos son vitales para la Unidad.}
+{237}{MORP58}{La Unidad es nuestra búsqueda de un nivel de vida superior y de la solidaridad con nuestros semejantes. }
 {238}{MORP59}{Él es otro Sumo Sacerdote. Se pasa la mayor parte del tiempo estudiando. }
 {239}{MORP60}{Mi corazón sangra por ellos. No han tomado el buen camino. No saben que sus esfuerzos no traerán más que dolor y sufrimiento a sus semejantes.}
 {240}{MORP61}{Nicole es la líder desafortunada y confundida de los Seguidores del Apocalipsis. }
@@ -145,30 +145,20 @@
 {244}{morp65}{Nada de lo que debas preocuparte.}
 {245}{}{Maestro, creo que disfrutarás de este...}
 {500}{}{Ganas 1.000 puntos de experiencia por destruir al líder de los Niños de la Catedral.}
-
-
-# Morpheus Tell-Me-Abouts generic responses
 {980}{MORP63}{Eso no es importante. }
 {981}{MORP64}{No pasa nada. Puedes preguntar otra cosa. }
-{982}{morp65}{Nada de lo que preocuparse.}
-
-
-#
-# Morpheus Tell-Me-Abouts
-#
-
-
+{982}{morp65}{Nada de lo que debas preocuparte.}
 {1000}{}{Nocturnos}
 {1001}{}{Maestro}
 {1002}{}{Auditorio}
-{1003}{}{Sanctórum}
+{1003}{}{Sánctum}
 {1004}{}{Morfeo}
 {1005}{}{Orden}
 {1006}{}{Caravanas}
 {1007}{}{Hospitales}
 {1008}{}{Unidad}
 {1009}{}{Fustigador}
-{1010}{}{Seguidores del Apocalipsis}
+{1010}{}{Seguidores}
 {1011}{}{Nicole}
 {1012}{}{Adytum}
 {1013}{}{Apocalipsis}
@@ -177,7 +167,6 @@
 {1016}{}{Niños}
 {1017}{}{Base}
 {1018}{}{Chip}
-
 {1100}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los Niños. Como todos nosotros.}
 {1101}{MORP51}{Él fue quien me reveló la visión de la Unidad y será él quien traiga la paz a esta tierra maltratada.}
 {1102}{MORP52}{Hijo mío, deberías conocer el Auditorio. Yo doy mis sermones allí. }
@@ -193,7 +182,6 @@
 {1112}{MORP62}{Adytum es la ciudad al noroeste de nosotros. }
 {1113}{MORP60}{Mi corazón sangra por ellos. No han tomado el buen camino. No saben que sus esfuerzos no traerán más que dolor y sufrimiento a sus semejantes.}
 {1114}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los Niños. Como todos nosotros.}
-
 {1115}{morp65}{Nada de lo que debas preocuparte.}
 {1116}{morp65}{Nada de lo que debas preocuparte.}
 {1117}{morp65}{Nada de lo que debas preocuparte.}

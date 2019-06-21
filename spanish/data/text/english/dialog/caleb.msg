@@ -1,5 +1,5 @@
 {100}{}{Ves: a Caleb, el líder de los Reguladores.}
-{101}{}{Estás viendo a un hombre austero de unos treinta años.}
+{101}{}{Ves a un hombre duro de unos treinta años.}
 {102}{}{Deberías saber que no nos gustan los extraños. ¿Qué quieres?}
 {103}{}{Buenos días. ¿En qué puedo ayudarte?}
 {104}{}{Soy}
@@ -13,12 +13,12 @@
 {112}{}{Una ciudad bastante bonita. Los Reguladores y yo trabajamos para que lo siga siendo. ¿Hay alguien en particular que te interese?}
 {113}{}{¿Quién gobierna en Adytum?}
 {114}{}{¿Quién se encarga del comercio?}
-{115}{}{Nada más. Gracias.}
+{115}{}{Nada más, gracias.}
 {116}{}{No te metas en líos, ¿vale? Soy Caleb; recuerda de mi nombre, porque seré el que vaya a buscarte si te metes en líos.}
 {117}{}{Soy Caleb. Entreno y organizo a los Reguladores.}
 {118}{}{Sí, supongo. Tienes a los Navajas al norte, un grupo de gente realmente patética; los Pistoleros están un poco más al norte y hacia el este, atravesando la zona de la Garra Mortal.}
 {119}{}{Además, hacia el sur se encuentran los Niños de la Catedral, que tienen un hospital y una gran iglesia. Un poco hacia el norte y hacia el este están los llamados Seguidores del Apocalipsis, que son tipos pacíficos.}
-{120}{}{No te metas en líos.}
+{120}{}{Aléjate de los problemas.}
 {121}{}{Que tú también pases un buen día.}
 {122}{}{¿Has vuelto?}
 {123}{}{¿En qué puedo ayudarte, hijo?}

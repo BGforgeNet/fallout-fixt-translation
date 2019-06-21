@@ -1,48 +1,47 @@
-{100}{}{Curamos el cuerpo para purificar el espíritu. ¿Puedo ayudarte en algo?}
-{101}{}{Sí. Ayúdeme.}
-{102}{}{¿Quiénes son ustedes?}
+{100}{}{Ofrecemos la curación del cuerpo para sanar el espíritu. ¿Puedo ayudarte?}
+{101}{}{Sí, ayúdame.}
+{102}{}{¿Quién eres?}
 {103}{}{¿Qué le pasó a la gente que estaba aquí antes?}
 {104}{}{Ehh...}
-{105}{}{Está bien, chico. Te examinaremos ahora.}
+{105}{}{Está bien, niño mío. Te examinaremos ahora.}
 {106}{}{Benditos sean los bondadosos. No te pasa nada hijo mío. Corre, vete a jugar.}
-{107}{}{Estás curado. Ten más cuidado en el futuro.}
-{108}{}{Estás herido.}
+{107}{}{Te has curado. Ten más cuidado en el futuro.}
+{108}{}{Tienes lesiones.}
 {109}{}{Parece que te han envenenado.}
-{110}{}{Mmm, te has contaminado de radiación. Pero, desgraciadamente no podemos curarlo.}
-{111}{}{Necesitamos una donación de }
-{112}{}{ chapas antes de curarte. ¿Qué te parece?}
+{110}{}{Mmm, lesiones por exposición a la radiación. No podemos curarlas.}
+{111}{}{Necesitamos una donación de 5 chapas }
+{112}{}{ antes de poder curarte. ¿Te parece razonable?}
 {113}{}{Sí.}
 {114}{}{No.}
 {115}{}{¡Pero no tengo esas chapas!}
-{116}{}{¿Aceptarás, }
+{116}{}{¿Aceptarás }
 {117}{}{ chapas?}
-{118}{}{Los Niños no regatean. Bueno, ¿aceptarás nuestra oferta?}
+{118}{}{Los Niños no regatean. Entonces, ¿aceptarás nuestro precio ahora?}
 {119}{}{Sí. Por supuesto que lo haré.}
 {120}{}{¡Eso es así!}
-{121}{}{Gracias, hijo mío. Déjanos rezar por tu curación.}
-{122}{}{Gracias, hija mía. Déjanos rezar por tu curación.}
+{121}{}{Gracias, hijo mío. Rezaremos por tu curación.}
+{122}{}{Gracias, hija mía. Rezaremos por tu curación.}
 {123}{}{Eso es. Que la paz y la bendición de los Niños estén contigo.}
-{124}{}{No tienes suficientes chapas, pero si nos entregas todo lo que tienes, te curaremos. ¿Te parece bien?}
+{124}{}{No tienes suficientes chapas. Si das todo lo que puedas te sanaremos. ¿Te parece bien?}
 {125}{}{Sí.}
 {126}{}{No.}
-{127}{}{Si nos entregas todo lo que tienes, te curaremos. ¿Te parece bien?}
+{127}{}{Si das todo lo que puedas, te sanaremos. ¿Te parece bien?}
 {128}{}{Sí.}
 {129}{}{No.}
-{130}{}{Tienes chapas de sobra para donar. Tienes que aprender más matemáticas, chico.}
-{131}{}{Somos los Niños de la Catedral. Vivimos y trabajamos entre esos desgraciados que viven en el yermo. Si alguna vez vas al Cementerio de LA, pásate por la Catedral.}
+{130}{}{Tienes más que suficiente para hacer la donación. Necesitas estudiar matemáticas, niño mío.}
+{131}{}{Somos los Niños de la Catedral. Vivimos y trabajamos entre aquellos desgraciados que viven en el yermo. Si alguna vez vas al Cementerio de LA, párate en la Catedral.}
 {132}{}{Gracias.}
-{133}{}{¿Qué haces?}
-{134}{}{Somos los curanderos y maestros de la paz. Curamos el cuerpo para purificar el espíritu. Todo lo que pedimos es una pequeña donación para conseguir medicinas.}
-{135}{}{Me parece bien.}
+{133}{}{¿Qué tal estás?}
+{134}{}{Somos mensajeros de paz. Sanamos el cuerpo para purificar el espíritu. Solo pedimos una pequeña donación para nuestros materiales de curación.}
+{135}{}{Me parece una buena idea.}
 {136}{}{No me parece bien.}
-{137}{}{No te haremos preguntas. Creo que te has cansado de escuchar nuestras ideas. Si necesitas algo más, estaremos aquí.}
-{138}{}{Es la más sagrada de las ideas. Estamos trabajando para lograr la paz suprema en el yermo. Todas las criaturas vivirán como si fuesen un solo ente.}
-{139}{}{Gracias, buenos días.}
+{137}{}{No te hemos preguntado. Seguro que te has cansado de escuchar nuestras creencias. Si necesitas algo más, estaremos aquí.}
+{138}{}{Es nuestra idea más sagrada. Nos esforzamos en establecer una paz absoluta en el yermo. Todas las criaturas serán una.}
+{139}{}{Gracias. Adiós.}
 {140}{}{Ellos nos donaron esta casa para que extendiésemos nuestras creencias y llevásemos a cabo nuestro deber como curanderos.}
 {141}{}{¿Y Doc Mórbid no está preocupado por eso?}
 {142}{}{Aquello fue un gran detalle por su parte. Gracias.}
 {143}{}{Sienta lo que sienta ese corazón pagano, eso no es asunto de los Niños. Estamos aquí para cumplir nuestro deber, y así se hará.}
 {144}{}{Uh, sí, gracias. Adiós.}
-{145}{}{¿Por qué estás haciendo esto? ¡No te haremos daño!}
+{145}{}{¿Por qué haces eso? ¡No te haremos daño!}
 {146}{}{No necesitas nuestra ayuda.}
-

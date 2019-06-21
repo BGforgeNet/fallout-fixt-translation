@@ -10,7 +10,7 @@
 {109}{}{Hola. ¿Qué estás haciendo ahora aquí?}
 {110}{}{¡Aaah!}
 {111}{}{Estaba preocupado por el Refugio y tuve una pesadilla. No pude volver a dormir, así que pensé en dar un paseo para relajarme.}
-{112}{}{De acuerdo.}
+{112}{}{Vale.}
 {113}{}{¿Has visto a alguien más por aquí?}
 {114}{}{Lo siento, pero estoy buscando al ladrón de agua y necesito ver lo que llevas.}
 {115}{}{Sí, un tipo actuaba de forma sospechosa ahí detrás cerca de la sala de suministro del agua. Me asustó. Espero que no me viera.}

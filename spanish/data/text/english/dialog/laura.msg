@@ -24,7 +24,7 @@
 {136}{laura16b}{¿Hay algo en lo que pueda ayudarte?}
 {137}{}{¿Eres Laura?}
 {138}{}{¿Puedo hacerte unas preguntas sobre los Niños?}
-{139}{}{No, gracias.}
+{139}{}{Nada, gracias.}
 {140}{}{¿Mamá?}
 {142}{laura16a}{No. Ya hemos hablado de esto. Tendrás que buscar en otro sitio, amigo.}
 {144}{laura21}{Oh... Me alegro de que me hayas encontrado. Nicole me envió una lista con la información que tenía que recoger.}
@@ -36,7 +36,7 @@
 {151}{}{¿Qué hace una chica como tú en un sitio como este?}
 {152}{}{Nada más, gracias.}
 {154}{laura24}{No es en el Santa Sanctórum donde has de entrar.}
-{155}{}{¿Entonces en dónde?}
+{155}{}{¿Y después qué?}
 {157}{laura25}{Seguí a Morfeo por una escalera secreta trasera. Le vi activar una puerta secreta en la parte de abajo.}
 {158}{}{¿Y después qué?}
 {159}{}{¿Me puedes mostrar esta puerta?}
@@ -46,7 +46,7 @@
 {165}{laura27}{Diría que la lleva encima.}
 {166}{}{¿Me enseñarías la puerta ahora?}
 {168}{laura28a}{Por supuesto.}
-{169}{}{Genial. Vamos.}
+{169}{}{Vale. Vamos.}
 {170}{}{¿Puedo hacerte algunas preguntas antes?}
 {172}{laura29}{Sígueme.}
 {174}{laura30a}{Vale, pero nos tenemos que dar prisa.}
@@ -68,7 +68,7 @@
 {196}{}{Probablemente una especie de proyector holográfico.}
 {197}{}{¿Y?}
 {199}{laura36}{Y estoy segura de que este Maestro es de carne y hueso. Y también creo saber dónde se encuentra.}
-{200}{}{¿Dónde?}
+{200}{}{¿De dónde?}
 {202}{laura37}{De vez en cuando, Morfeo baja por una escalera secreta que conduce a la cripta de la Iglesia. Y entra por una puerta secreta con una especie de llave. Creo que el Maestro está allí abajo.}
 {203}{}{¿Puedes enseñarme esa escalera ahora mismo?}
 {204}{}{¿Sabes dónde está esa llave?}
@@ -187,21 +187,10 @@
 {348}{}{¡No tenemos tiempo para hablar de eso! Cíñete al tema.}
 {349}{}{No tengo claro por qué quieres hablar de eso.}
 {350}{}{No te vayas por las ramas, amigo.}
-
-# added by WG from genchat
-{477}{}{Por favor, debemos darnos prisa. No tenemos tiempo para charlas.}
-{478}{}{Solo Morfeo tiene la llave para esta puerta. Debo irme para hacer saber a Nicole lo que está pasando aquí.}
-{479}{}{Por favor, debo marcharme de aquí antes de que descubran quien soy.}
-# added by WG
+{477}{}{Por favor, debemos darnos prisa. No hay tiempo para hablar.}
+{478}{}{Solo Morfeo tiene la llave de esta puerta. Debo irme ahora para hacerle saber a Nicole lo que ocurre aquí.}
+{479}{}{Por favor, tengo que irme de aquí antes de que descubran quién soy.}
 {480}{}{Solo Morfeo tiene la llave para esta puerta. Debo marcharme ahora.}
-
-
-
-#
-# Laura Tell-Me-Abouts
-#
-
-
 {1000}{}{Seguidores}
 {1001}{}{Nicole}
 {1002}{}{Catedral}
@@ -216,14 +205,13 @@
 {1011}{}{Apocalipsis}
 {1012}{}{Oscuro}
 {1013}{}{Mutantes}
-
 {1100}{laura74}{Oh, esa horrible gente. ¡No pienso hablar de ellos!}
 {1101}{laura75}{No sé de quién estás hablando.}
 {1102}{laura76a}{¡Los otros son todos tan buenos! Aquí todo es maravilloso. Esta es nuestra tierra, trabajamos por ella...}
 {1103}{laura78}{Oh, es maravilloso. Él es nuestro líder. ¡Deberías hablar con él!}
 {1104}{laura79}{Oh, no sé siquiera como empezar a describirle. Morfeo es nuestro líder. No hay palabras para ello.}
 {1105}{laura80}{¿Nocturnos? No sé de qué hablas.}
-{1106}{laura81}{¿Qué?}
+{1106}{laura81}{¿El qué?}
 {1107}{laura82}{Es el sitio grande al final de la Iglesia, donde Morfeo celebra sus ceremonias. He estado allí, ¡es maravilloso!}
 {1108}{laura83}{Oh, no puedes ir allí. ¡Es donde Morfeo medita!}
 {1109}{laura84}{Se han entregado a la Iglesia. El resto de nosotros aspira a hacer lo mismo.}

@@ -15,13 +15,10 @@
 {114}{}{Orfeo es un compañero de trabajo difícil.}
 {115}{}{Aún temo a los Nocturnos.}
 {116}{}{Los Ancianos dicen que los Nocturnos son nuestros aliados.}
-
 {117}{}{Vete.}
 {118}{}{No me gustan los de tu raza.}
 {119}{}{Si tienes un problema con Set, tienes un problema conmigo.}
-
 {120}{}{Que la paz sea contigo. Por favor habla con Laura.}
 {121}{}{Laura me enseñó que todos somos uno y que deberíamos ver el bien que hay en nosotros. Es muy sabia.}
 {122}{}{Laura es una maravillosa y sabia persona.}
-
 {123}{}{Estás viendo a un Acólito de los Niños de la Catedral.}

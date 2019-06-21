@@ -34,13 +34,5 @@
 {133}{}{¿Fantástico?}
 {134}{}{Creo que eres un mentiroso y un tramposo. ¿Dónde están mis chapas?}
 {135}{}{Así que piensas que me has ganado, ¿eh? Bueno, ¡no obtendrás nada de mí!}
-
-#
-# TRANSLATION NOTE: The following two lines are identical in English, but they
-# differ in foreign translations. The first line is for the case of the
-# player-character masculine ("my friend" will be masculine); the second line is
-# for the case of the player-character feminine ("my friend" will be feminine).
-#
-
-{136}{}{¡Buenos días, manito! ¿Qué puedo hacer por ti hoy?}
+{136}{}{¡Buenos días, manita! ¿Qué puedo hacer por ti hoy?}
 {137}{}{¡Buenos días, manita! ¿Qué puedo hacer por ti hoy?}

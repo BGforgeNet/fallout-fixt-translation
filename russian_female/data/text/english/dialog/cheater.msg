@@ -26,6 +26,29 @@
 {125}{}{3    Ничего.}
 {126}{}{8    13 лет}
 {127}{}{8    13 лет}
+{128}{}{7  Give items (by type)}
+{129}{}{1  Testing Weapons & All Ammo}
+{130}{}{Препараты}
+{131}{}{3  Food (including new Fixt ones)}
+{132}{}{4  Keys (in inventory or in backpack)}
+{133}{}{5  900000 Bottle Caps (& Small Bag, Bag, Backpack)}
+{134}{}{6  Explosives & Throwing Weapons}
+{135}{}{Книжный шкаф}
+{136}{}{8  Holodisks (& Radio)}
+{137}{}{Броня}
+{138}{}{Each of these selections, including Ammo, except "Testing Weapons", gives ALL items from that category.}
+{139}{}{1  Yes, and delete current inventory first.}
+{140}{}{Да.}
+{141}{}{Нет. [назад]}
+{142}{}{Give Testing Weapons & All Ammo?}
+{143}{}{Give All Drugs?}
+{144}{}{Give All Food (including new Fixt ones)?}
+{145}{}{Give All Keys (in inventory or in backpack)?}
+{146}{}{Give 900000 Bottle Caps (& Small Bag, Bag, Backpack)?}
+{147}{}{Give All Explosives & All Throwing Weapons?}
+{148}{}{Give All Books?}
+{149}{}{Give All Holodisks (& Radio)?}
+{150}{}{Металлическая броня}
 {200}{}{Что я могу начитерить для вас сегодня?}
 {201}{}{1  Опыт.}
 {202}{}{2  Урон, Яд, Радиация.}
@@ -51,7 +74,7 @@
 {225}{}{3    Сломать левую руку}
 {226}{}{4    Сломать правую руку}
 {227}{}{5    Ослепи меня }
-{228}{}{8    Не трогай меня. [скулеж]}
+{228}{}{8    Fully heal, remove all poison, remove ALL rads.}
 {229}{}{ПОПРОБОВАТЬ РОЛЛЫ ммм, роллы}
 {230}{}{Договорились.}
 {231}{}{сообщение тут}
@@ -88,7 +111,7 @@
 {262}{}{Ладно, какая карта?}
 {263}{}{5  Изменить игровое время (откатить назад или вперед)}
 {264}{}{6  Дайте мне читерских отладочных предметов (много)}
-{265}{}{Да.}
+{265}{}{Yes. (Also deletes all existing inventory & equipped)}
 {266}{}{Ладно, откатить назад или вперед?}
 {267}{}{Точно?}
 {268}{}{Нет. [назад]}
@@ -171,3 +194,5 @@
 {364}{}{MNTCRVN4.MAP}
 {365}{}{HUBMIS0.MAP - Ирвин}
 {366}{}{HUBMIS1.MAP - Ирвин}
+{400}{}{У вас сейчас $ }
+{401}{}{. }

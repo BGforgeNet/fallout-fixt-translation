@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un Comerciante de Ultramar.}
-{101}{}{¡Lárgate de aquí!}
+{101}{}{Por todos los diablos, vete.}
 {102}{}{Vete o no vivirás para contarlo.}
 {103}{}{¡Yonqui!}
 {104}{}{¿Quieres un poco, imbécil?}

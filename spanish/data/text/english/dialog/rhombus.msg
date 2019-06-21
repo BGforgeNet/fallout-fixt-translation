@@ -1,7 +1,7 @@
 {100}{}{Ves: a Rhombus.}
 {101}{}{Háblame de ti.}
 {102}{}{¿Puedes contarme la historia de la Hermandad?}
-{103}{}{¿Sabes de algún rumor interesante?}
+{103}{}{¿Has oído algún rumor interesante?}
 {104}{}{¿Qué me puedes contar de los alrededores?}
 {105}{Rhom1}{¿Te puedo ayudar en algo?}
 {106}{}{¿Te puedo hacer unas preguntas?}
@@ -25,7 +25,7 @@
 {124}{}{¿Por qué ha interrumpido los entrenamientos?}
 {125}{}{Te podría derrotar fácilmente en combate.}
 {126}{Rhom9}{No soy yo quien debo contestar a eso. Habla con el Anciano Mayor si lo deseas.}
-{127}{}{Oh vamos, por favor.}
+{127}{}{¡Oh, venga, por favor!}
 {128}{}{Está bien. ¿Te puedo hacer más preguntas?}
 {129}{Rhom10}{Corre el rumor de que se está reuniendo un extraño ejército. No diré más.}
 {130}{}{Oh, vamos, por fa.}
@@ -35,8 +35,8 @@
 {134}{}{Vale. Aun así, ¿te puedo hacer unas preguntas?}
 {135}{Rhom12}{Sí. Eso es todo lo que necesito.}
 {136}{}{Tú vida parece muy vacía.}
-{137}{}{¿En serio?}
-{138}{Rhom13}{No entiendes lo que supone ser un Paladín. Qué lástima.}
+{137}{}{¿De verdad?}
+{138}{Rhom13}{No entiendes lo que significa ser un Paladín. Qué pena.}
 {139}{}{¿Crees que yo podría llegar a ser un Paladín?}
 {140}{}{Ser un Caballero me parece una estupidez.}
 {141}{}{No, supongo que no. ¿Puedes responderme a un par de preguntas más?}
@@ -60,8 +60,8 @@
 {159}{Rhom21}{Habla con Vree, en la biblioteca principal.}
 {160}{Rhom22}{No creo en los rumores.}
 {161}{}{Oh vamos, ¿sólo uno? ¿Por favor?}
-{162}{}{Vale.}
-{163}{Rhom23}{El Eje y el Cementerio están al sur, las montañas al este y el yermo desolado del norte. El que va allí nunca regresa.}
+{162}{}{¿Puedo preguntarte algo más?}
+{163}{Rhom23}{El Eje está al sur. Nosotros comerciamos con ellos.}
 {164}{Rhom24}{¡Devuélvemelo, ahora!}
 {165}{Rhom25}{Esto es lo que les hacemos a los criminales...}
 {166}{Rhom26}{¡Para!}
@@ -72,7 +72,7 @@
 {171}{}{¡Solo echaba un vistazo!}
 {172}{}{Lo siento. No sabía que ésta era tu habitación.}
 {173}{Rhom29}{Entonces vete, olvidaremos este incidente.}
-{174}{}{Está bien, gracias.}
+{174}{}{Vale, gracias.}
 {175}{}{Está claro que sí.}
 {176}{Rhom30}{¡Mientes, Iniciado! Así nos ocupamos de los ladrones...}
 {177}{Rhom32}{O eres idiota o te estás burlando de mí. En ambos casos, no voy a perder el tiempo contigo.}
@@ -81,19 +81,19 @@
 {180}{Rhom35}{Como te acabo de decir...}
 {181}{Rhom36}{No pienso repetirlo más veces.}
 {182}{Rhom37}{¿No oyes o qué? ¡No lo repetiré!}
-{183}{Rhom38}{Ella es la Escriba Jefe. La encontrarás en la biblioteca.}
+{183}{Rhom38}{Ella es la Escriba Jefe. La puedes encontrar en la biblioteca.}
 {184}{Rhom39b}{Ese soy yo.}
 {185}{}{Talus es mi segundo al mando.}
 {186}{Rhom40}{Ah, el General Maxson fue el mejor Paladín Jefe que jamás tuvimos. Cuando tomó el cargo de Anciano Mayor, yo ocupé su puesto.}
-{187}{Rhom41}{Copian los documentos de las armas y se les ocurren nuevas ideas. Lo que ellos investigan, los Caballeros lo fabrican.}
+{187}{Rhom41}{Copian los documentos relativos a las armas y se les ocurren nuevas ideas. Lo que ellos investigan, los Caballeros lo fabrican.}
 {188}{Rhom42}{Son los fabricantes de las armas.}
 {189}{Rhom43}{El Eje está al sur. Nosotros comerciamos con ellos.}
-{190}{Rhom44}{Pregúntale a Vree. Ella lo sabrá.}
-{191}{Rhom45}{No estoy autorizado para discutir eso. Habla con el Anciano Mayor.}
+{190}{Rhom44}{Nunca he oído hablar de eso.}
+{191}{Rhom45}{No estoy autorizado para discutir de ello. Habla con el Anciano Mayor.}
 {192}{Rhom46}{El Cementerio está muy al sur. Allí solo encontrarás violencia.}
 {193}{Rhom47}{No sé nada de eso.}
 {194}{Rhom48}{Nunca he oído hablar de eso.}
-{195}{Rhom49}{No tengo conocimiento de tal cosa.}
+{195}{Rhom49}{No sé nada de eso.}
 {200}{}{Soy nuevo aquí y no sé nada de este lugar.}
 {201}{}{No necesito explicarte nada, cretino.}
 {202}{}{Gracias. Adiós.}
@@ -105,18 +105,9 @@
 {208}{}{Esta cerradura no está cerrado.}
 {209}{}{¡Fuera de mis aposentos!}
 {210}{}{¡Soy inocente!}
-
-
-
 {980}{Rhom47}{No sé nada de eso.}
 {981}{Rhom48}{Nunca he oído hablar de eso.}
-{982}{Rhom49}{No tengo conocimiento de eso.}
-
-#
-# Rhombus Tell-Me-Abouts
-#
-
-
+{982}{Rhom49}{No sé nada de eso.}
 {1000}{}{Vree}
 {1001}{}{Rhombus}
 {1002}{}{Talus}
@@ -137,7 +128,6 @@
 {1017}{}{Niños de la Catedral}
 {1018}{}{Iniciados}
 {1019}{}{Chip}
-
 {1100}{Rhom38}{Ella es la Escriba Jefe. La puedes encontrar en la biblioteca.}
 {1101}{Rhom39b}{Ese soy yo.}
 {1102}{Rhom39a}{Talus es mi segundo al mando.}
@@ -145,7 +135,7 @@
 {1104}{Rhom41}{Copian los documentos relativos a las armas y se les ocurren nuevas ideas. Lo que ellos investigan, los Caballeros lo fabrican.}
 {1105}{Rhom42}{Son los fabricantes de las armas.}
 {1106}{Rhom23}{El Eje está al sur. Nosotros comerciamos con ellos.}
-{1107}{Rhom44}{Pregúntale a Vree. Ella lo sabrá.}
+{1107}{Rhom44}{Nunca he oído hablar de eso.}
 {1108}{Rhom45}{No estoy autorizado para discutir de ello. Habla con el Anciano Mayor.}
 {1109}{Rhom46}{El Cementerio está muy al sur. Allí solo encontrarás violencia.}
 {1110}{Rhom13}{No entiendes lo que significa ser un Paladín. Qué pena.}
@@ -155,6 +145,6 @@
 {1114}{Rhom10}{Corre el rumor de que se está reuniendo un extraño ejército. No diré más.}
 {1115}{Rhom21}{Habla con Vree, en la biblioteca principal.}
 {1116}{Rhom47}{No sé nada de eso.}
-{1117}{Rhom49}{No tengo conocimiento de eso.}
+{1117}{Rhom49}{No sé nada de eso.}
 {1118}{Rhom21}{Habla con Vree, en la biblioteca principal.}
 {1119}{Rhom49}{No sé nada de eso.}

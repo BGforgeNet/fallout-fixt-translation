@@ -2,15 +2,15 @@
 {101}{}{Ey.}
 {102}{}{Hola.}
 {103}{}{Que tengas un buen día.}
-{104}{}{Hace buen día.}
+{104}{}{Tenemos un tiempo estupendo hoy.}
 {105}{}{Me pregunto si lloverá.}
-{106}{}{¿Alguna vez has visto resplandecer a la lluvia?}
+{106}{}{¿Has visto alguna vez como brilla la lluvia?}
 {107}{}{Tengo que volver al trabajo.}
-{108}{}{No nos suelen visitar forasteros.}
-{109}{}{Me tengo que ir.}
+{108}{}{No vienen muchos forasteros por aquí.}
+{109}{}{Me tengo que largar.}
 {110}{}{Nos vemos.}
-{111}{}{Bueno días.}
-{112}{}{Gracias por la ayuda.}
-{113}{}{No te hemos olvidado.}
-{114}{}{Es bueno tenerte de nuestro lado.}
-{115}{}{Ahora las cosas irán a mejor.}
+{111}{}{Buenos días.}
+{112}{}{Gracias por tu ayuda.}
+{113}{}{No te olvidaremos.}
+{114}{}{Es agradable tenerte de nuestro lado.}
+{115}{}{Las cosas irán mejor ahora.}

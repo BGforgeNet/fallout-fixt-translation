@@ -1,6 +1,6 @@
 {100}{}{Ves: a Uthern, el líder de los Supermutantes.}
 {101}{}{¡Normi! ¿Cómo te atreves a entrar en los confines de tus mejores?}
-{102}{}{¿Uh?}
+{102}{}{¿Eh?}
 {103}{}{¡Escoria como vosotros nunca podría ser mejor que los humanos!}
 {104}{}{¡¡Muere Muti!!}
 {105}{}{¿De veras? Dices ser mejor, pero, ¿qué pruebas tienes?}
@@ -23,7 +23,7 @@
 {122}{}{Claro. Vamos a ver que puedes hacer.}
 {123}{}{Bien. ¿Te gustaría tener una oportunidad de obtener grandes poderes?}
 {124}{}{¡Apuesta algo!}
-{125}{}{¡Ni de lejos!}
+{125}{}{¡Ni hablar!}
 {126}{}{Eso no lo tengo claro.}
 {127}{}{¡Muere!}
 {128}{}{Entonces te llevaré con mi maestro.}

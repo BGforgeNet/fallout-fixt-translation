@@ -1,19 +1,19 @@
 {100}{}{Estás viendo a una Maestra de Mercaderes.}
 {101}{}{¡Detened a este ladrón!}
 {102}{}{...no me importa lo que digan. Necesitamos piezas nuevas. Lo siento. ¿En qué puedo ayudarte?}
-{103}{}{Quiero un empleo.}
+{103}{}{Quiero un trabajo.}
 {104}{}{¿Tienes un Chip de Agua?}
 {105}{}{Nada, adiós.}
 {106}{}{Aj.}
 {107}{}{Claro, fantástico. Estás contratado. ¿Qué tipo de trabajo? ¿Qué tal guardia de caravanas? Vale. Puedes trabajar para nosotros. Me gustas. ¿Algo más?}
-{108}{}{No.}
+{108}{}{¡No!}
 {109}{}{Sí, ¿tienes un Chip de Agua?}
 {110}{}{¿Eh?}
 {111}{}{Lo siento, no hay tiempo para tonterías.}
 {112}{}{Chip de Agua. Umm. Oh, esos viejos chips de control de purificación de agua. Creo que hablo por toda la ciudad cuando te digo que no encontrarás ninguno aquí. Sin el equipo adecuado no sirven para nada. Quizás tengas más suerte en un Refugio o en Necrópolis. ¿Por qué lo preguntas?}
 {113}{}{¿En Necrópolis? ¿Para qué necesitan uno allí?}
 {114}{}{El chip de mi Refugio se ha roto y estoy buscando otro.}
-{115}{}{Solo por curiosidad.}
+{115}{}{Solo tenía curiosidad.}
 {116}{}{No puedo decírtelo.}
 {117}{}{¿En serio? Como ya sabrás, abastecemos de agua esta zona. Estoy seguro de que podremos llegar a un acuerdo y mandar una caravana a tu Refugio por un precio razonable.}
 {118}{}{¿De cuántas chapas hablamos?}
@@ -28,13 +28,13 @@
 {127}{}{Hola de nuevo.}
 {128}{}{Necesito un Chip de Agua.}
 {129}{}{Sigo buscando un Chip de Agua.}
-{130}{}{Quiero un empleo.}
+{130}{}{Quiero un trabajo.}
 {131}{}{Adiós.}
 {132}{}{Claro, fantástico. Te contrato. ¿Qué quieres hacer? ¿Qué tal guardia de caravanas? Vale. Puedes trabajar para nosotros. Me gustas.}
 {133}{}{Ya hemos hablado de esto. ¿Quieres pagar el precio para que partan las caravanas?}
 {134}{}{Antes me dijiste que Necrópolis podía tener un Chip de Agua. ¿Para qué lo necesitan ellos?}
 {135}{}{¿De cuántas chapas hablamos?}
-{136}{}{No, aún no.}
+{136}{}{No, todavía no.}
 {137}{}{Bien, solo es una suposición. Intentamos establecer una ruta de caravanas a Necrópolis pero no quisieron comerciar con nosotros. Nadie en su sano juicio rechaza agua hoy en día a menos que tengan su propio abastecimiento. Me imagino que tienen su propio purificador o que murieron todos hace tiempo. ¿Así que quieres que lleguemos hasta tu Refugio?}
 {138}{}{Sí. ¿Cuánto va a costarme?}
 {139}{}{No, gracias.}
@@ -57,7 +57,5 @@
 {156}{}{Lo siento, pero los Mercaderes de agua ya no harán más tratos contigo.}
 {157}{}{¿Tienes las }
 {158}{}{ chapas que has de darnos para que las caravanas vayan a tu Refugio?}
-
-# 200-201 added with patch 1.3 from TeamX
 {200}{}{¡¿Qué demonios?! ¿Eres TÚ? ¿Después de haber perdido todas las caravanas? ¡Por todos los diablos, sal de aquí! Ya no trabajas para nosotros.}
 {201}{}{¿TÚ? No digas nada. ¡Maldición, las abandonaste! No sé si es lo correcto, pero puede que te dé una oportunidad más. Ve a hablar con el conductor de caravanas.}

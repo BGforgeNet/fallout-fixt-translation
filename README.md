@@ -1,4 +1,7 @@
 # Fallout 1 Fixt - translation
+<a href="https://tra.bgforge.net/projects/fallout/fixt/">
+<img src="https://tra.bgforge.net/widgets/fallout/-/fixt/svg-badge.svg" alt="Translation status" />
+</a>
 
 [__Help translating__](https://tra.bgforge.net/projects/fallout/fixt/)
 | [__Download__](https://github.com/BGforgeNet/fallout-fixt-translation/releases)

@@ -10,7 +10,7 @@ U:\ > }
 {108}{}{FALLOUT <DIR> 10-20-99 1:04p
 0 байт в 0 файлов, 0 байт выделено, 4 379 255 байт свободно}
 {109}{}{ФАЛЛАУТ CD}
-{110}{}{Вау! Это отличная игра!}
+{110}{}{Wow, this is a great game!}
 {111}{}{ U:\ > }
 {112}{}{После нескольких минут поиска вы находите перемычку режима отладки и замыкаете ее в положении 01.}
 {113}{}{FALLOUTW.EXE}
@@ -76,18 +76,18 @@ FALLDEMO.EXE     995328    04-22-97   2:13p
 {149}{}{Часть схем выгорела под воздействием мощного электромагнитного импульса.}
 {150}{}{Не работает.}
 {151}{}{01100110011000010110110001101100011011110111010101110100011101110010111001100101011110000110010100100000001000000010000000100000001000000011000100110011001110000011010000110100001100110011001000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000110011001100001011011000110110001100100011001010110110101101111001011100110010101111000011001010010000000100000001000000010000000100000001110010011100100110101001100110011001000111000}
-{152}{}{Вы получаете 25 очков опыта за игру в Fallout.}
+{152}{}{You earn 25 experience for playing Fallout (again).}
 {153}{}{Было интересно. Готов поспорить, полная версия будет отличной игрой!}
 {154}{}{Хм. Полная версия Fallout все же лучше, но и у этой демо-версии есть свой неповторимый шарм.}
 {155}{}{Вы получаете 25 очков опыта за игру в интерактивное демо Fallout.}
-{156}{}{Вы получаете 25 очков опыта за игру в Fallout.}
-{157}{}{Вы получаете 25 очков опыта за игру в интерактивное демо Fallout.}
+{156}{}{You earn 42 experience for playing Fallout Fixt.}
+{157}{}{Congratulations, you have achieved all possible endings of the Fallout Interactive Demo!}
 {158}{}{Congratulations, you have achieved all possible endings of Fallout: A Post-Nuclear Role-Playing Game!}
 {159}{}{Wow, this is amazing! Even better than the original game.}
 {160}{}{You play Fallout Fixt. Whoever created this must have been very talented.}
 {400}{}{Учитывая, что генератор сломан, у банд осталось мало причин бороться за Свалку. Без электричества жители Свалки будут вести более бедную жизнь, но без банд они, по крайней мере, будут жить. Здесь ваша работа окончена, но миссия найти чип очистки воды продолжается.}
 {401}{}{После долгой битвы и большого кровопролития вы одерживаете победу. После того, как банды побеждены, Свалка вновь становится тихой гаванью. Горожане вам благодарны - они дают вам ценную информацию и ваши дела в Свалке теперь завершены. Однако миссия по поиску чипа очистки воды продолжается.}
-{500}{}{500 После уничтожения Создателя и его Лаборатории, где он создавал армию супермутантов, вы возвращаетесь домой и узнаете, что вас вышвырнули из Убежища за то, что вы причинили слишком много разрушений. Спасибо, что играли в Fallout.}
-{501}{}{501 После того, как вы убедили Создателя отказаться от плохо продуманного плана по захвату мира, и уничтожения Чанов, вы возвращаетесь домой и узнаете, что вас вышвырнули из Убежища, вроде как чтобы другие жители его не покинули. Спасибо, что играли в Fallout.}
-{502}{}{502 После уничтожения Чанов, Создателя и его армии супермутантов, вы возвращаетесь домой, но вас не принимают. Вы уходите, оставив за собой искалеченный труп Смотрителя. Спасибо, что играли в Fallout.}
-{503}{}{503 Вы погрузились во ВРЭ и присоединились к Единству Создателя. Раскрыв местоположение убежища 13, вы были вознаграждены тем, что возглавили нападение на ваше убежище. Вы убиваете смотрителя голыми руками. Спасибо, что играли в Fallout.}
+{500}{}{After stopping the Master and his lab with which he was creating his army of Super Mutants, you return home, only to discover that you are thrown out of your Vault for being too destructive. Thank you for playing Fallout.}
+{501}{}{After convincing the Master to abandon his ill-conceived domination and destroying the Vats, you return home, only to find you are exiled, allegedly to prevent others from leaving the Vault. Thank you for playing Fallout.}
+{502}{}{After destroying the Vats, the Master, and his army of Super Mutants, you return home, but are forbidden from entering. You retaliate, leaving the shattered corpse of the Overseer behind you. Thank you for playing Fallout.}
+{503}{}{You are dipped in FEV and join the Master's Unity, revealing the location of Vault 13. You are rewarded with leading the assault against your Vault, killing the Overseer with your bare fists. Thank you for playing Fallout.}

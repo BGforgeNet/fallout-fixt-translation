@@ -1,6 +1,6 @@
 {0}{}{PREFERENCIAS}
-{1}{}{OPCIONES}
-{3}{}{OPCIONES DE VIDEO}
+{1}{}{DISPLAY OPTIONS}
+{3}{}{SETTINGS}
 {50}{}{DISPLAY OPTIONS (F1-RES)}
 {51}{}{Personalizado}
 {52}{}{Ancho}
@@ -22,7 +22,7 @@
 {107}{}{Invertir lista}
 {108}{}{Modo Ventana}
 {109}{}{Establecer Tecla de Desplazamiento}
-{110}{}{Escalado X2}
+{110}{}{Scaling 2X}
 {111}{}{FRECUENCIA}
 {130}{}{Tecla de Ventana}
 {131}{}{Seleccionar}
@@ -30,7 +30,7 @@
 {140}{}{Modo Gráfico:}
 {141}{}{Básico}
 {142}{}{Modo Sfall DirectX 9:}
-{143}{}{+1}
+{143}{}{1}
 {144}{}{DirectDraw 7}
 {145}{}{2}
 {146}{}{3}
@@ -55,8 +55,8 @@
 {205}{}{una ventana}
 {206}{}{GPU Blitting}
 {207}{}{Esta opción no tiene efecto en Modo Gráfico Básico.}
-{250}{}{Ignorar Límite de Desplazamiento}
-{253}{}{Rango de Búsqueda de Ruta}
+{250}{}{Ignore Scroll Limit}
+{253}{}{Path-Finding Range}
 {254}{}{Normal}
 {255}{}{Máximo}
 {256}{}{Activar Niebla de Guerra}

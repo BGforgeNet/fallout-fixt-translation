@@ -21,7 +21,7 @@
 {120}{}{Has estado con los Nocturnos demasiado tiempo. Adiós.}
 {121}{}{¿Y por qué me estás contando eso?}
 {122}{}{¿Dónde conseguiste el VEF?}
-{123}{}{¡O formas parte de la Unidad o haremos que tu alma se pierda en el infierno! (El técnico se detiene por un momento) Además, estoy aquí con un puñado de conversos. Hicimos bien en deshacernos de ello.}
+{123}{}{You will only leave here as part of the Unity, or a lost soul in hell! (The tech pauses for a moment)  Besides, I sit down here with a bunch of converts. It felt good to get this off my chest.}
 {124}{}{¿Dónde conseguiste el VEF?}
 {125}{}{Has matado a la Mano Derecha de Dios. El Maestro estará muy enfadado. ¡Ahora ha llegado el momento de unirnos a la Llama Sagrada!}
 {126}{}{Mataste al Maestro. La muerte de la Unidad es culpa tuya. Has provocado la muerte de la raza humana. Espero que estés satisfecho.}

@@ -1,66 +1,66 @@
 {100}{}{Armadura de Cuero}
-{101}{}{Tu indumentaria básica de cuero, una opción popular en el Yermo. Curtida a mano con pelo de brahmin. Ligera y de construcción simple, posiblemente basada en las protecciones utilizadas en motociclismo y otros peligrosos deportes de la preguerra.}
+{101}{}{Your basic all-leather apparel, a popular choice in the Wasteland. Finely crafted from tanned brahma hide. This has a lightweight and relatively simply construction, likely based on pre-War armor designed for Motorcycle Football and other dangerous contact sports.}
 {200}{}{Armadura de Metal}
-{201}{}{Láminas de metal ensambladas que conforman una coraza. Provee de mejor protección que las armaduras de cuero pero disminuye algo la movilidad del que la lleve. Este modelo presenta pinchos en los hombros, ¡una elección de moda este año!}
+{201}{}{Polished metal plates, crudely forming a suit of armor. Provides better protection than all leather armors. This particular model features attractive spikes added to the shoulder, a popular fashion statement this year!}
 {300}{}{Armadura de Energía}
-{301}{}{La armadura avanzada T-51b de West Tek. Dotada de un reactor de microfusión TX-28 de 60000 W que alimenta al sistema hidráulico HiFlo, con combustible suficiente para durar cien años. Está hecho de un avanzado compuesto polilaminado, con 10 micras de revestimiento ablativo plateado, cuenta además con un visor a prueba de balas en el casco.}
+{301}{}{A suit of T-51b West Tek self-contained Powered Armor, with a 60000-watt TX-28 MicroFusion reactor powering HiFlo hydraulics and a bullet-proof eyeslit on the helmet. Has enough fuel to last 100 years. It is made of an advanced poly-laminate composite with 10 microns silver ablative coating.}
 {400}{}{Cuchillo}
-{401}{}{Un arma cortante de hoja afilada. FU Mín.: 2.}
+{401}{}{A sharp-bladed cutting and stabbing weapon.    - Min STR: 2.}
 {500}{}{Porra}
-{501}{}{Una barra de uso militar o policial. De madera maciza. FU Mín.: 3.}
+{501}{}{A military or police baton. Heavy wood.      - Min STR: 3.}
 {600}{}{Almádena}
-{601}{}{Un gran martillo con un mango enorme. Muy popular entre los musculosos. FU Mín.: 6.}
+{601}{}{A large hammer with a big handle. Very popular with the muscular crowd. - Min STR: 6.                - Weapon Knockback feature: knocks target away by 1 hex for every 5 points of damage.}
 {700}{}{Lanza}
-{701}{}{Un arma de hoja afilada. El mango es de madera y la hoja de acero forjado. FU Mín.: 4.}
+{701}{}{A razor-tipped polearm. The shaft is wooden, and the tip is worked steel.                       - Min STR: 4.}
 {800}{}{Pistola de 10mm}
-{801}{}{Una pistola de 10mm modelo Colt 6520 de carga automática. Cada vez que aprietes el gatillo, el arma se recargará automáticamente hasta que el cargador esté vacío. Cuando quieras efectuar un único disparo, utiliza esta potente arma. FU Mín.: 3.}
+{801}{}{A Colt 6520 10mm auto-loading pistol. Each pull of the trigger will automatically reload the firearm until the magazine is empty. Single-shot only, using the powerful 10mm round.                      - Min STR: 3}
 {900}{}{SFL de 10mm}
-{901}{}{Subfusil H&K MP9 (variante de 10mm). Un SFL de tamaño medio, compatible con los modos de disparo simple y de ráfaga. FU Mín.: 4.}
+{901}{}{H&K MP9 submachine gun (10mm variant). A medium-sized SMG, capable of single-shot and burst modes.         - Min STR: 4}
 {1000}{}{Rifle de Caza}
-{1001}{}{Un rifle semiautomático Colt Rangemaster, de calibre .223. Solo de un único disparo. FU Mín.: 5.}
+{1001}{}{A Colt Rangemaster semi-automatic rifle, in .223 caliber. Single-shot only.                         - Min STR: 5.}
 {1100}{}{Lanzallamas}
-{1101}{}{Un lanzallamas modelo Flambe 450(tm), variante varmiter. Dispara y enciende una ráfaga corta de líquido inflamable. Para funcionar correctamente necesita un combustible específico. Tiende a causar una muerte cómica y dolorosa a cualquier objetivo biológico. FU Mín.: 6.}
+{1101}{}{A Flambe 450 Flamer(tm) model flamethrower, varmiter variation. Sprays and ignites a short blast of flammable liquid. Requires specialized fuel to work properly. Tends to cause biological targets to die painfully and hilariously.  - Min STR: 6}
 {1200}{}{Ametralladora}
-{1201}{}{Un fusil tipo Rockwell CZ53. Un fusil de cañón múltiple que dispara balas de 5mm a más de 60.000 RPM. FU Mín.: 7.}
+{1201}{}{A Rockwell CZ53 Personal Minigun. A multi-barreled chain gun firing 5mm ammunition at over 60,000 RPM.         - Min STR: 7.}
 {1300}{}{Lanzamisiles}
-{1301}{}{Un lanzamisiles Rockwell BigBazooka. Dotado de un gatillo exclusivo de 3 lb. Dispara Misiles normales o PB. FU Mín.: 6.}
-{1400}{}{Explosivo Plástico}
+{1301}{}{A Rockwell BigBazooka rocket launcher. With the deluxe 3 lb. trigger. Fires AP or Explosive Rockets.                   - Min STR: 6.}
+{1400}{}{Rocket (Explosive)}
 {1401}{}{Un misil con gran cabeza explosiva.}
 {1500}{}{Rifle de Plasma}
-{1501}{}{Un rifle de plasma Winchester modelo P94. Un arma de energía de rango industrial que dispara plasma candente a través de un cañón superconductor. Reforzado con células de microfusión. FU Mín.: 6.}
+{1501}{}{A Winchester Model P94 Plasma Rifle. An industrial-grade energy weapon, firing superheated bolts of plasma down a superconducting barrel. Powered by Micro Fusion Cells.                         - Min STR: 6.}
 {1600}{}{Pistola Láser}
-{1601}{}{Una Pistola Láser Wattz 1000. Modelo civil, por lo que su potencia en vatios es menor que la de las versiones militar y policial. Utiliza pequeñas células de energía. FU Mín.: 3.}
+{1601}{}{A Wattz 1000 Laser Pistol. Civilian model, so the wattage is lower than military or police versions. Uses small energy cells.              - Min STR: 3.}
 {1700}{}{Armadura de Combate}
-{1701}{}{Creada en el 2051, esta armadura militar, ligera y de alta tecnología protege al portador gracias a las placas de gran resistencia, hechas con sofisticados polímeros y cerámicas. Su cuerpo, de gran movilidad, está conformado por membranas de disipación térmica y materiales a prueba de balas.}
+{1701}{}{First created in 2051, this lightweight, high- tech, military-grade armor protects the wearer from ballistic trauma with hard plates made from advanced defensive polymers and ceramics, and features  a flexible body suit interwoven with thermal-dissipative membranes and bulletproof material.}
 {1800}{}{Águila del Desierto .44}
-{1801}{}{Una antigua pistola Águila del Desierto, Mágnum .44. Su presencia en las películas de finales del siglo XX hizo de esta pistola una de las más populares de todos los tiempos. FU Mín.: 4.}
+{1801}{}{An ancient Desert Eagle pistol, in .44 Magnum. Interest in late 20th century films made this one of the most popular handguns of all times.   - Min STR: 4.}
 {1900}{}{una piedra}
-{1901}{}{Es una piedra. Un modelo de Granite-Inc. Es una versión actualizada. FU Mín.: 1.}
+{1901}{}{It's a rock. The Granite-Inc. model is an upgraded version.        - Min STR: 1.}
 {2000}{}{Palanca}
-{2001}{}{Una pieza de acero muy sólida y pesada con una cuña en forma de gancho, diseñada especialmente para hacer fuerza. O machacar cabezas. FU Mín.: 5.}
+{2001}{}{A very solid and heavy piece of steel with a hooked wedge, specially designed to exert leverage. Or pound heads.                      - Min STR: 5.}
 {2100}{}{Puño Americano}
-{2101}{}{Puño reforzado hecho de acero. Protegen tu mano y provocan mucho daño en un combate desarmado. FU Mín.: 1.}
+{2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat.           - Min STR: 1.}
 {2200}{}{Pistola de 14mm}
-{2201}{}{Una pistola automática Sig-Sauer de 14mm. Grande, de disparo simple. Un excelente trabajo artesanal. FU Mín.: 4.}
+{2201}{}{A Sig-Sauer 14mm Auto Pistol. Large, single shot handgun. Excellent craftsmanship.            - Min STR: 4.}
 {2300}{}{Rifle de Asalto}
-{2301}{}{Un Rifle de Asalto de 5mm AK-112. Un antiguo modelo militar, en desuso desde la guerra. Puede efectuar disparos únicos o disparar ráfagas, utilizando las municiones de alta velocidad de 5mm. FU Mín.: 5.}
+{2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high-velocity 5mm rounds.                     - Min STR: 5.}
 {2400}{}{Pistola de Plasma}
-{2401}{}{Pistola de Plasma Glock 86. Diseñada por Gaston Glock AI. Dispara piezas de plasma incandescentes. Reforzada con una pequeña célula de energía. FU Mín.: 4.}
+{2401}{}{Glock 86 Plasma Pistol. Designed by the Gaston Glock AI. Shoots a small bolt of superheated plasma. Powered by a small energy cell.         - Min STR: 4.}
 {2500}{}{Granada (Frag.)}
-{2501}{}{Una granada de fragmentación estándar. Contiene una pequeña cantidad de explosivos y el depósito compone la mayor parte de los fragmentos letales. Explota por contacto. FU Mín.: 3.}
+{2501}{}{A generic fragmentation grenade. Contains a small amount of high explosives, the container itself forming most of the damaging fragments. Explodes on contact.                   - Min STR: 3.}
 {2600}{}{Granada (Plasma)}
-{2601}{}{Una unidad de lanzamiento sellada magnéticamente con explosivos de detonación. Provoca una explosión de plasma candente por contacto. FU Mín.: 4.}
+{2601}{}{A magnetically sealed plasma delivery unit, with detonating explosives. Creates a blast of superheated plasma on contact.       - Min STR: 4.}
 {2700}{}{Granada (PEM)}
-{2701}{}{Una granada de mano electromagnética que genera un intenso campo magnético al explotar. No afecta a las criaturas biológicas. Explosión por contacto. FU Mín.: 4.}
+{2701}{}{An electromagnetic pulse grenade, generating an intense magnetic field on detonation. Doesn't affect biological creatures. Contact fuse. - Min STR: 4.}
 {2800}{}{Gatling Láser}
-{2801}{}{Una Gatling Láser H&K L30. Diseñado específicamente para uso militar, estaba en período de prueba al inicio de la guerra. Sus cañones múltiples permiten los disparos de largo alcance antes de que se caliente en exceso. Reforzado con células de microfusión. FU Mín.: 6.}
+{2801}{}{An H&K L30 Gatling Laser. Designed specifically for military use, these were in the prototype stage at the beginning of the War. Multiple barrels allow longer firing before overheating. Powered by Micro Fusion Cells.        - Min STR: 6.}
 {2900}{}{BHC de 10mm}
 {2901}{}{Munición. Calibre: 10mm, balas huecas con camisa.}
 {3000}{}{PB de 10mm}
 {3001}{}{Munición. Calibre: 10mm, perforación blindada.}
 {3100}{}{BHC de Magnum .44}
 {3101}{}{Munición. Calibre: Magnum .44, balas huecas con camisa.}
-{3200}{}{Combustible de Lanzallamas}
+{3200}{}{Flamer Fuel}
 {3201}{}{Cilindro que contiene un combustible líquido altamente inflamable para lanzallamas.}
 {3300}{}{PB de 14mm}
 {3301}{}{Munición de gran calibre: 14mm, perforación blindada.}
@@ -70,12 +70,12 @@
 {3501}{}{Munición ligera, pequeña. Calibre: 5mm, balas huecas con camisa.}
 {3600}{}{PB de 5mm}
 {3601}{}{Munición ligera, pequeña. Calibre: 5mm, perforación blindada.}
-{3700}{}{Misil PB}
+{3700}{}{Rocket (AP)}
 {3701}{}{Un cohete con un explosivo menor pero diseñado para perforar superficies blindadas.}
-{3800}{}{Célula de Energía.}
+{3800}{}{Energy Cell}
 {3801}{}{Una pequeña unidad de almacenamiento de energía de autocontención.}
-{3900}{}{Célula MF}
-{3901}{}{Una unidad de producción de energía de tamaño medio. Es una planta de microfusión de autocontención.}
+{3900}{}{Fusion Cell}
+{3901}{}{A medium-sized energy production unit. Self-contained fusion plant.}
 {4000}{}{Estimulante}
 {4001}{}{Un estimulante es una unidad curativa de mano que consiste en una jeringuilla que contiene y suministra el medicamento, y un indicador para medir el estado del estimulante. Al inyectarse proporciona una curación inmediata a heridas medias y a daños menores en tejidos. No tiene efectos adversos.}
 {4100}{}{Chapas de Botella}
@@ -87,7 +87,7 @@
 {4400}{}{Neverita}
 {4401}{}{Un cajón de hielo anticuado. Las bisagras aún están bien.}
 {4500}{}{Cuchillo Arrojadizo}
-{4501}{}{Un cuchillo diseñado para ser lanzado. Hecho de titanio y forjado con láser. FU Mín.: 3.}
+{4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened.          - Min STR: 3.}
 {4600}{}{Bolsa}
 {4601}{}{Una bolsa de tamaño medio, util para guardar cosas. Tejida con pelo de brahmin.}
 {4700}{}{Botiquín de 1º Auxilios}
@@ -185,8 +185,8 @@
 {9300}{}{Bolsa}
 {9301}{}{Una bolsa de tamaño medio. Tejida con piel de brahmin.}
 {9400}{}{Escopeta}
-{9401}{}{Una escopeta de doble cañón del calibre 12 Winchester Widowmaker. De cañón corto, con empuñadura de caoba. FU Mín.: 4.}
-{9500}{}{Calibre 12}
+{9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip.                          - Min STR: 4.}
+{9500}{}{Shells, 12-gauge}
 {9501}{}{Munición de escopeta. Esta munición está marcada: "Cartuchos del Calibre 12, no recomendados a menores de 3 años".}
 {9600}{}{Llave de Acceso Roja}
 {9601}{}{Una llave de seguridad electrónica, con código de color rojo.}
@@ -227,21 +227,21 @@
 {11400}{}{Mano de Tangler}
 {11401}{}{Un manipulador cibernético con la forma de una mano. Deteriorada debido a la naturaleza húmeda del proceso de eliminación.}
 {11500}{}{Superalmádena}
-{11501}{}{Un enorme martillo fabricado por los Niños de la Catedral, utilizando la tecnología láser más puntera. Incluye un dispositivo de almacenamiento de energía cinética que aumenta el impacto del golpe. FU Mín.: 5.}
+{11501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback.                  - Min STR: 5.                - Weapon Knockback feature: knocks target away by 1 hex for every 5 points of damage.}
 {11600}{}{Destripador}
-{11601}{}{Un vibrocuchillo Destripador(tm). Reforzada con una pequeña célula de energía, su hoja destripa y desgarra el objetivo. FU Mín.: 4.}
+{11601}{}{A Ripper(tm) vibro- knife. Powered by a small energy cell, the chainblade rips and tears into its target.   - Min STR: 4.               - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
 {11700}{}{Flor}
 {11701}{}{Una bonita flor.}
 {11800}{}{Rifle Láser}
-{11801}{}{Un rifle Láser Wattz 2000. Utiliza células de microfusión para la emisión de láser y un cañón aumentando para la obtención de mayor alcance. FU Mín.: 6.}
+{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range.                       - Min STR: 6.}
 {11900}{}{Collar}
 {11901}{}{Un collar de aspecto caro, hecho de plata, oro y diamantes engarzados.}
 {12000}{}{Blaster Alienígena}
-{12001}{}{Un arma extraña de clara procedencia alienígena. Parece contener pequeñas células de energía. FU Mín.: 2.}
+{12001}{}{A strange gun of obviously alien origin. Looks like it can support small energy cells, however.            - Min STR: 2.}
 {12100}{}{Balas 9mm}
 {12101}{}{Una colección de antiguas balas de 9x19mm. Muy engrasadas para impedir su deterioro ambiental. Antes de la Gran Guerra, la 9mm era el tipo de munición preferida para armas pequeñas en la mancomunidad suroeste, mientras que el ejército y los litorales oriental y occidental solían favorecer la munición de 10mm.}
 {12200}{}{Mauser de 9mm}
-{12201}{}{Una pistola Mauser M/96, Parabellum 9x19mm. En excelente estado. Extremadamente preciso y nada común. FU Mín.: 3.}
+{12201}{}{A Mauser M/96, in 9x19mm Parabellum. In excellent condition. Extremely accurate, and very rare.                 - Min STR: 3.}
 {12300}{}{Nulificador Psíquico}
 {12301}{}{Un dispositivo extraño construido utilizando vieja tecnología.}
 {12400}{}{Cerveza}
@@ -278,12 +278,12 @@
 {13901}{}{Un contenedor de almacenamiento. De metal, contiene cosas y puede cerrarse con llave.}
 {14000}{}{Tarjeta de Acceso}
 {14001}{}{Una tarjeta de acceso de seguridad. Aún funciona.}
-{14100}{}{Insignia de los NDC}
+{14100}{}{COC Badge (Black)}
 {14101}{}{Una insignia con el símbolo de los Niños de la Catedral. En un lateral puedes observar protuberancias que te recuerdan a las muescas de una llave.}
-{14200}{}{Insignia de los NDC}
+{14200}{}{COC Badge (Red)}
 {14201}{}{Una insignia con el símbolo de los Niños de la Catedral. En un lateral puedes observar protuberancias que te recuerdan a las muescas de una llave.}
 {14300}{}{Rifle de Francotirador}
-{14301}{}{Un rifle de francotirador DKS-501. Excelente arma con gran alcance de tiro. Originariamente del calibre .308, éste arma usa el calibre .223, mucho más frecuente. FU Mín.: 5.}
+{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Originally .308, this one is chambered in the more common .223 caliber.      - Min STR: 5.}
 {14400}{}{Superestimulante}
 {14401}{}{Se trata de una pieza muy avanzada y potente de tecnología curativa. Mientras que es capaz de curar heridas graves y daños severos a tejidos, también causa algunas hemorragias internas después de un corto periodo de tiempo, debido a la potente naturaleza de los fármacos utilizados.}
 {14500}{}{una estantería}
@@ -315,13 +315,13 @@
 {15800}{}{Tablón de Herramientas}
 {15801}{}{Este tablón sostiene una variedad de herramientas sobre el tan popular banco de trabajo.}
 {15900}{}{Cóctel Molotov}
-{15901}{}{Una granada inflamable de fabricación casera. FU Mín.: 3.}
+{15901}{}{A home-made flammable grenade.                     - Min STR: 3.}
 {16000}{}{Picana Eléctrica}
-{16001}{}{Una picana eléctrica para granjeros modelo Mejor Amigo de la firma Wattz Electronics. Utiliza como alimentación pequeñas células de energía. FU Mín.: 4.}
+{16001}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. Uses small energy cells for power.                       - Min STR: 4.}
 {16100}{}{Rifle BB Red Ryder}
-{16101}{}{Un rifle oficial de BB Red Ryder. Al examinar este rifle de aire comprimido, una planta rodadora pasa rebotando delante de ti. Oyes las risas distantes de los niños... FU Mín.: 3.}
+{16101}{}{An official Red Ryder BB gun. As you examine this air rifle, a tumbleweed bounces past you. You hear the distant laughter of children...    - Min STR: 3.}
 {16200}{}{Rifle BB Red Ryder EL}
-{16201}{}{Esta es la Edición Limitada, de acción tipo carabina, de la versión de cien-disparos de la Red Ryder, ¡además tiene una brújula en la culata! Un verdadero clásico. ¡No te dispares en el ojo hijo! FU Mín.: 4.}
+{16201}{}{This is the Limited Edition, carbine-action, hundred-shot version of the Red Ryder BB gun, also featuring a compass in the stock. A true classic. Don't shoot your eye out, kid!        - Min STR: 4.}
 {16300}{}{BB}
 {16301}{}{Un caja con BB de antes de la guerra. En excelente estado. De acero inoxidable.}
 {16400}{}{Disco de la Hermandad}
@@ -410,13 +410,13 @@
 {20501}{}{Una Bengala. Proporciona luz durante un corto espacio de tiempo. El papel está algo desgastado, pero por lo demás está en perfecto estado. Está encendida.}
 {20600}{}{Dinamita (Activada)}
 {20601}{}{Un potente explosivo compuesto de nitroglicerina y una absorbente sustancia llamada kieselgur. Incorpora un temporizador, que está en funcionamiento.}
-{20700}{}{Contador Geiger (Encendido)}
+{20700}{}{Geiger Counter (Active)}
 {20701}{}{Un contador Geiger modelo C-Radz de Wattz Electronics. Detecta la presencia y la intensidad de los campos radiactivos. Está activado.}
-{20800}{}{Sensor de Movilidad (Encendido)}
+{20800}{}{Motion Sensor (Active)}
 {20801}{}{Un sensor de movilidad modelo C-U de Wattz Electronics. Detecta el movimiento de cualquier material biológico en una distancia en metros usando un dispositivo graduado de radar. Está activado.}
 {20900}{}{Explosivos Plásticos (Activados)}
 {20901}{}{Un trozo de Cordex, un tipo de explosivo plástico de uso militar. Muy estable y altamente destructivo. Incorpora un reloj, que está en funcionamiento.}
-{21000}{}{Stealth Boy (Activado}
+{21000}{}{Stealth Boy (Active)}
 {21001}{}{Un dispositivo de transmisión personal de la firma RobCo, modelo Stealth Boy 3001. Genera un campo de modulación que transmite la luz reflejada de un lado del objeto al otro.}
 {21100}{}{unos huesos}
 {21101}{}{Ves: a Ed. Ed está muerto.}
@@ -458,18 +458,18 @@
 {22901}{}{Es un Motivador Sistólico. Esta extraña pieza de maquinaria es muy pequeña pero sorprendentemente pesada para su tamaño. Parece ser de tecnología muy avanzada y no tienes ni idea para que pudiera servir.}
 {23000}{}{Grabaciones del Refugio}
 {23001}{}{Un compendio de acontecimientos y otras grabaciones importantes de un sistema informático del Refugio. Puede estar dañado.}
-{23100}{}{Mostrar códigos de seguridad.}
+{23100}{}{Military Base Security Code}
 {23101}{}{Tanto por la seguridad. Recordad niños, nunca anotéis vuestra contraseña.}
 {23200}{}{Armadura de Energía (R)}
 {23201}{}{Una Armadura de Energía T-51b modificada. El proceso químico de refuerzo ha aumentado la capacidad defensiva de esta sofisticada armadura sin limitar la movilidad del portador o la resistencia a la radiación}
 {23300}{}{Rifle Turbo de Plasma}
-{23301}{}{Un rifle de plasma Winchester P94 modificado. La cámara de almacenamiento de plasma ha sido fundida a fuego vivo para acelerar el proceso de formación de las piezas de plasma. FU Mín.: 6.}
+{23301}{}{A modified Winchester P94 plasma rifle. The plasma bolt chamber has been hot-wired to accelerate the bolt formation process.       - Min STR: 6}
 {23400}{}{Puño con Pinchos}
-{23401}{}{Una versión mejorada del clásico puño americano. El puño con pinchos hace más daño al desgarrar la carne de tu oponente en un combate sin armas. FU Mín.: 1.}
+{23401}{}{An improved version of the classic Brass Knuckles. The Spiked Knuckles do more damage, tearing into the flesh of your opponent in unarmed combat.       - Min STR: 1.}
 {23500}{}{Puño de Energía}
-{23501}{}{Un Puño de Energía "Enorme Amenaza" de la firma BeatCo. Muchos lo consideran el arma más sofisticada del combate sin armas. Otros se limitan a temblar. Está reforzado con pequeñas células de energía. FU Mín.: 1.}
+{23501}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. Others are just scared.                      - Min STR: 1.               - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
 {23600}{}{Cuchillo de Combate}
-{23601}{}{Un cuchillo de combate de alta calidad, la empuñadura es de SharpWit, Inc. ¡La hoja de este cuchillo tiene una garantía de más de diez años! FU Mín.: 2.}
+{23601}{}{A high-quality combat knife, the Stallona is from SharpWit, Inc. The edge of this blade is guaranteed sharp for over a decade of use!   - Min STR: 2.}
 {23700}{}{Anales de Química}
 {23701}{}{Una variada selección de literatura del campo de la Química. Los artículos sobre Química Molecular son especialmente interesantes.}
 {23800}{}{Necrófago}
@@ -477,25 +477,25 @@
 {23900}{}{Armad. de la Hermandad}
 {23901}{}{Una versión superior de la Armadura de Combate. Se les es entregada a todos Los Iniciados de la Hermandad del Acero. La Hermandad del Acero ha efectuado mejoras sobre la versión estándar, tanto visual como funcionalmente. Se encuentra en buen estado.}
 {24000}{}{Armadura Tesla}
-{24001}{}{Esta armadura proporciona una protección inigualable frente a los ataques de energía. Los tres vástagos de bobina de tracción repelen muchos de los ataques de energía recibidos. A diferencia de las armaduras de metal básicas a las que se asemeja en aspecto, esta armadura es de hecho un diseño militar de la preguerra.}
+{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of plasma, laser, and electrical energy. Unlike the basic metal armor it strongly resembles, this armor is actually a pre-War military design, and is in good condition.}
 {24100}{}{Pistola .223}
-{24101}{}{Una pistola .223 modificada y recortada. Se trata de un arma única en su especie, hecha con amor y destreza. FU Mín.: 5.}
+{24101}{}{A .223 rifle modified and cut down to be a pistol. This is a one-of-a-kind firearm, obviously made with love and skill.       - Min STR: 5.              - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
 {24200}{}{Escopeta de Combate}
-{24201}{}{Una escopeta de combate Winchester City-Killer del calibre 12, de la variante bullpup. En excelente estado, está dotada del modificador ambiental de Batalla en el Desierto para una mayor precisión. FU Mín.: 5.}
+{24201}{}{A Winchester City-Killer 12-gauge combat shotgun, bullpup variant. In excellent condition, it has the optional Desert Warfare environmental sealant modification for extra reliability.          - Min STR: 5.}
 {24300}{}{Entrenamiento de MacRae}
 {24301}{}{Úsalo para incrementar el Daño Melé en 1, y el % de Resistencia al Daño (Normal) en 5, permanentemente.}
 {24400}{}{Pepita de Oro}
 {24401}{}{Una pepita de oro.}
-{24500}{}{Superalmádena}
-{24501}{}{Un enorme martillo fabricado por los Niños de la Catedral, utilizando la tecnología láser más puntera. Incluye un dispositivo de almacenamiento de energía cinética que aumenta el impacto del golpe. FU Mín.: 5.}
-{24600}{}{Almádena}
-{24601}{}{Un gran martillo con un mango enorme. Muy popular entre los musculosos. FU Mín.: 6.}
+{24500}{}{Super Sledge (No KB)}
+{24501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. The kinetic energy storage device has been disabled.       - Min STR: 5.}
+{24600}{}{Sledgehammer (No KB)}
+{24601}{}{A large hammer with a big handle. Very popular with the muscular crowd. This one's balance has been modified using some crafty tricks.             - Min STR: 6.}
 {24700}{}{Carne de Rata}
 {24701}{}{Algunas trozos de Rata troceados. Qué pena que no leyeses el Documento del Refugio VTR-003 "Como comer rata", si no podrías hacerla más agradable al paladar.}
 {24800}{}{Carne de Brahmin}
 {24801}{}{La carne de brahmin es alta en vitaminas, minerales, grasas, proteínas y rads. ¡Qué pena que no tengas tiempo para cocinar unas sabrosas hamburguesas de brahmin!}
 {24900}{}{Carne de Perro}
-{24901}{}{¿Qué esperabas?}
+{24901}{}{Tough and chewy, but what did you expect?}
 {25000}{}{Carne de Necrófago}
 {25001}{}{Ni siquiera sabes si es comestible. Huele a muerte y posiblemente no sepa mejor.}
 {25100}{}{Carne de Garra Mortal}

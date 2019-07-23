@@ -17,11 +17,11 @@
 {116}{}{¡¿Qué?! ¡Me las pagarás por ese comentario!}
 {117}{}{Nosotros no molestamos a Killian y él no nos molesta a nosotros mientras lo tengamos pillado. ¿Lo coges?}
 {118}{}{Sí. Adiós.}
-{119}{}{Sí, lo cojo. Tenéis que esconderos de él.}
+{119}{}{I get it, all right. You have to hide out from him.}
 {120}{}{¡A nadie y menos a Killian! ¡Solo porque piense que es un Sheriff glorioso no significa que controle a los Kalaveras!}
 {121}{}{Lo siento, no quería ofenderos.}
 {122}{}{Así que te corta las alas, ¿eh? A mí también. De hecho estoy pensando darle una paliza. ¿Estás conmigo?}
-{123}{}{¿Quieres dar una paliza a Killian? Tío, estás loco. Macho, no sé... vale, lo haré.}
+{123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know... all right, I'm in.}
 {124}{}{Eres una perdedora, dijiste que íbamos a darle una paliza a Killian. Largo de aquí.}
 {125}{}{Venga, destrocemos a Killian.}
 {126}{}{¿Qué quieres ahora?}
@@ -39,7 +39,7 @@
 {138}{}{Tienes razón, ya me iba.}
 {139}{}{¿Qué hace tan duros a los Kalaveras?}
 {140}{}{[Vinnie piensa un momento.] Si quieres demostrarnos que eres bastante buena para ser de los Kalaveras, tienes que robar las cenizas de la mujer de ese viejo bastardo. Je. [Vinnie habla entre dientes.] Hagamos que Neal sufra en sus dos últimas horas de vida...}
-{141}{}{Está bien, lo haré.}
+{141}{}{All right, I'll do it.}
 {142}{}{No me interesa.}
 {143}{}{Oh, creo que no podría hacer eso.}
 {144}{}{Ya las he robado.}
@@ -56,7 +56,7 @@
 {155}{}{Tengo que hacer algo antes. Te veré allí.}
 {156}{}{¿Por qué me haces perder el tiempo?}
 {157}{}{Eso enseñará a este jodido viejo. Gracias por ocuparte de él. [A Vinnie se le saltan las lágrimas.] Ahora eres de los Kalaveras.}
-{158}{}{Eh, de acuerdo... reúnete con nosotros más tarde, pero no tardes mucho.}
+{158}{}{Uh, all right... meet us later, but don't take too long.}
 {159}{}{Pronto, Neal tendrá lo que se merece, ¿verdad?}
 {160}{}{¡Dijimos que volveríamos, viejo mamón!}
 {161}{}{Ha llegado un montón de gente al bar...}

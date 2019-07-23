@@ -117,8 +117,8 @@
 {216}{}{Lo siento, no puedo esperar tanto.}
 {217}{}{Vale. Te buscaré a un conductor y al resto del equipo. Ten cuidado ahí fuera. Últimamente las cosas han estado un poco complicadas.}
 {218}{}{El equipo está listo. Salimos ahora mismo.}
-{219}{}{Vale, solo tardaré unos minutos en reunir el equipo.}
-{220}{}{Vale. Saldremos hacia la Hermandad tan pronto como reúna el equipo.}
+{219}{}{All right, it'll just take a few minutes to get the crew together.}
+{220}{}{All right. We'll leave for the Brotherhood as soon as I get the rest of the crew together.}
 {221}{}{Bien, partiréis hacia la Hermandad en cuanto reúna el equipo.}
 {222}{}{¡Todo listo para partir! Asegúrate de mantenerte lejos de las montañas.}
 {223}{}{El Cementerio de LA es un lugar peligroso. Ten cuidado. Asegúrate de que cada uno se queda en su puesto.}
@@ -126,7 +126,7 @@
 {225}{}{Vale, el equipo de la caravana para el Cementerio de LA está listo y espera.}
 {226}{}{Ciudad Vertedero es normalmente un viaje corto y fácil; no deberías tener problemas.}
 {227}{}{Bien, el equipo para la caravana de Ciudad Vertedero está listo.}
-{228}{}{Bien. Ciudad Vertedero nos espera, allá vamos.}
+{228}{}{All right. Junktown's waiting, let's get going.}
 {229}{}{Bien, hola. Me han dicho que buscabas un trabajo. Me sorprende que Rutger te contratara, pero estoy seguro de que tiene sus razones. Nuestras caravanas salen de aquí tres veces al mes: los días 8, 18 y 28. Hay tres sitios a los que vamos regularmente: la Hermandad del Acero, Ciudad Vertedero y el Cementerio de LA. Son 400 chapas solo para la ida. Puedes volver con la caravana para otras 400 chapas.}
 {230}{}{Eres muy puntual porque todas salen hoy.}
 {231}{}{Todas salen mañana.}

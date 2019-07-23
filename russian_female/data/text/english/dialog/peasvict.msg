@@ -1,23 +1,23 @@
-{111}{}{На нас напали!}
-{112}{}{Да, если можно.}
+{111}{}{We're under attack!}
+{112}{}{Help, please!}
 {113}{}{Помогите!}
 {114}{}{О нет...}
-{115}{}{Я не хочу с тобой разговаривать.}
-{116}{}{Пожалуйста, помоги мне...}
-{117}{}{Пожалуйста, уходи.}
-{118}{}{И это все?}
-{119}{}{Я хочу посмотреть, как ты будешь корчиться от боли!}
-{120}{}{Вы проводите }
-{121}{}{Спасибо большое.}
-{122}{}{Добро пожаловать.}
-{123}{}{Ты можешь уйти с миром.}
-{124}{}{Спасибо за историю.}
-{125}{}{Да, вести ты себя совершенно не умеешь.}
-{126}{}{Что ж, извините.}
-{127}{}{Спасибо за помощь.}
+{115}{}{I don't want to die today...}
+{116}{}{Please help us...}
+{117}{}{Please save us!}
+{118}{}{Is this how it ends?}
+{119}{}{We need your aid!}
+{120}{}{You saved us!}
+{121}{}{Thank you so much.}
+{122}{}{We owe you, friend.}
+{123}{}{You're a lifesaver - literally.}
+{124}{}{We appreciate the help.}
+{125}{}{You have our gratitude, stranger.}
+{126}{}{Thanks again for helping.}
+{127}{}{Thanks for your help!}
 {128}{}{We're in your debt, friend. Please accept these }
 {129}{}{ caps as a token of our appreciate for taking care of those raiders.}
-{130}{}{Благодарю тебя за помощь в защите от этих пьяных грабителей. За это мы вознаграждаем тебя. }
+{130}{}{Thank you for helping us against those damned drunken raiders. For you assistance, we award you these }
 {131}{}{ крышек.}
-{132}{}{Кто ведет их?}
-{133}{}{ крышек в знак нашей благодарности за защиту.}
+{132}{}{We pooled these }
+{133}{}{ caps together and award them to you for your help in defending us against that scum. Farewall, and safe travels!}

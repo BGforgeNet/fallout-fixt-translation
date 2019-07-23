@@ -656,9 +656,9 @@
 {756}{}{una máquina de periódicos}
 {757}{}{Vendedor de Coches Usados}
 {758}{}{Desguace}
-{759}{}{Hermandad del Acero.}
-{760}{}{Destrucción de la Catedral}
-{761}{}{Contraseña de Base Militar}
+{759}{}{Brotherhood of Steel - Destroyed}
+{760}{}{Cathedral - Destroyed}
+{761}{}{Military Base - Destroyed}
 {762}{}{Sarah}
 {763}{}{Agatha}
 {764}{}{Chuck}
@@ -758,7 +758,7 @@
 {858}{}{Paladín de la Hermandad}
 {859}{}{Paladín de la Hermandad}
 {860}{}{Paladín de la Hermandad}
-{861}{}{Guardia de la Caravana Carmesí}
+{861}{}{Caravan Guard}
 {862}{}{}
 {863}{}{Marauder}
 {864}{}{Mercancías en venta}
@@ -944,7 +944,7 @@
 {1044}{}{Anciano de la Hermandad}
 {1045}{}{Necrófago}
 {1046}{}{Neverita}
-{1047}{}{Disco Decodificador de Cifrados}
+{1047}{}{Decoder Disk}
 {1048}{}{un campo de fuerza}
 {1049}{}{un campo de fuerza}
 {1050}{}{Kenny}
@@ -952,7 +952,7 @@
 {1052}{}{Granja de Irwin}
 {1053}{}{}
 {1054}{}{Taquilla}
-{1055}{}{Transmisión reguladora}
+{1055}{}{Regulator Transmissions}
 {1056}{}{Prisionero}
 {1057}{}{Seguidores}
 {1058}{}{un puerta}

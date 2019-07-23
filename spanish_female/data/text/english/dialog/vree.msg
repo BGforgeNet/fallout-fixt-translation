@@ -105,7 +105,7 @@
 {303}{}{Bien.}
 {304}{}{Sabía que funcionaría.}
 {305}{}{¿Me puedes repetir la fórmula?}
-{306}{}{El algoritmo está mal, no puede ser. El ordenador debe tener un problema.}
+{306}{}{"Your algorithm is incorrect"?! That can't be. Something must be wrong with the computer.}
 {307}{}{Aquí estamos.}
 {308}{}{Sí hacemos así... sí, creo que funcionará.}
 {400}{}{Puedes usar este terminal para mejorar tu habilidad con ordenadores.}

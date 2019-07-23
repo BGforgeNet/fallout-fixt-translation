@@ -3062,7 +3062,7 @@
 {6119}{}{Punk}
 {6120}{}{¡Llévate contigo mis balas al infierno!}
 {6121}{}{Te voy a dar una buena}
-{6122}{}{¿Te ha enseñado tu mamaíta ese movimiento?}
+{6122}{}{Your mama teach you that move?}
 {6123}{}{}
 {6124}{}{No eres lo bastante buena}
 {6125}{}{Ese fue tu último error}
@@ -4235,12 +4235,12 @@
 {8014}{}{¡Perdedor mutante!}
 {8015}{}{¡Arde, pequeña perdedora! ¡Arde, pequeña perdedora!}
 {8016}{}{¡Muérete, fea!}
-{8017}{}{¡Tu mamá era una rata apestosa!}
+{8017}{}{Your mama was a mole rat!}
 {8018}{}{¡Bebé del Ardor, gusana acorralada!}
 {8019}{}{¡Voy a ponerte muy fea!}
 {8020}{}{¡Te odio!}
 {8021}{}{¡Amante de escorpión rad! ¡Te acuestas con escorpiones rad!}
-{8022}{}{¡Tu mami era una calienta braguetas!}
+{8022}{}{Your mama was a Glow Baby!}
 {8023}{}{¡No puedes tocarme, cerebro de escorpión rad!}
 {8024}{}{¡Ni siquiera puedes vencer a una niña!}
 {8025}{}{¡Perdedora!}
@@ -4483,7 +4483,7 @@
 {8619}{}{¡La superficie debe volver loca a la gente!}
 {8620}{}{¡La superficie debe volver loca a la gente!}
 {8621}{}{Hola, vieja amiga. Hora de morir}
-{8622}{}{Ese venía directo a mí}
+{8622}{}{I saw that one coming}
 {8623}{}{Peleabas mejor cuando éramos pequeños}
 {8624}{}{Tu puntería no ha mejorado}
 {8625}{}{Todavía das un paso atrás cada vez que intentas ese movimiento}
@@ -4627,29 +4627,29 @@
 {8903}{}{¡Reagrupamiento!}
 {8904}{}{¡No voy a morir por esto!}
 {8905}{}{Ya tengo suficiente}
-{8906}{}{Voy a darte una lección}
+{8906}{}{I'm gonna teach you a lesson}
 {8907}{}{¡Acabas de cometer un grave error!}
-{8908}{}{Veamos las placas.}
+{8908}{}{Let's settle this like scavs}
 {8909}{}{Veamos de qué estás hecha}
 {8910}{}{Gonna get creative with this one}
 {8911}{}{La sangre resuelve lo que las palabras no pueden}
 {8912}{}{¡Trágate esa!}
-{8913}{}{¡Cógelo!}
-{8914}{}{Pensándolo mejor, déjalo.}
-{8915}{}{¡A practicar la puntería!}
+{8913}{}{Take it!}
+{8914}{}{Having second thoughts?}
+{8915}{}{Hey look, target practice}
 {8916}{}{Siempre disfruto de un buen entrenamiento}
-{8917}{}{¿Un último deseo?}
+{8917}{}{Any last words?}
 {8918}{}{Veamos lo dura que eres...}
 {8919}{}{Veamos lo dura que eres...}
-{8920}{}{Pensándolo mejor, déjalo.}
+{8920}{}{Having second thoughts?}
 {8921}{}{Veamos si te gusta esto}
-{8922}{}{Demasiado lento}
+{8922}{}{Haha, too slow}
 {8923}{}{Hace años que hago esto, mocosa}
 {8924}{}{No eres lo bastante buena}
-{8925}{}{No te alejes demasiado.}
-{8926}{}{¿Estás sordo?}
-{8927}{}{No te alejes demasiado.}
-{8928}{}{¡Oh! ¡Sinvergüenza!}
+{8925}{}{Don't forget, I was a scav}
+{8926}{}{Are you for real?}
+{8927}{}{Don't forget, I was a scav}
+{8928}{}{Ow! You fucker}
 {8929}{}{Te mataré por esto}
 {8930}{}{Creo que podría tener una conmoción cerebral}
 {8931}{}{Eso no ha estado bien}
@@ -4659,21 +4659,21 @@
 {8935}{}{Puto listillo}
 {8936}{}{¡Mi brazo!}
 {8937}{}{¡Oh!}
-{8938}{}{¡Auh, me gustaba ese brazo!}
-{8939}{}{Lo lamentarás.}
+{8938}{}{I liked that organ}
+{8939}{}{You'll regret that}
 {8940}{}{¡Mis costillas!}
 {8941}{}{¡Mi rodilla!}
 {8942}{}{¡Me las pagarás por esto!}
-{8943}{}{No siento mi pierna}
-{8944}{}{Lo lamentarás.}
+{8943}{}{Shit, my leg's going numb}
+{8944}{}{You'll regret that}
 {8945}{}{Espero no quedarme cojo}
 {8946}{}{¡Mi rodilla!}
 {8947}{}{¡No veo!}
 {8948}{}{¡Mi ojo!}
 {8949}{}{¡Mierda! al menos tengo otro}
-{8950}{}{De todas formas no necesitaba esa oreja}
+{8950}{}{I didn't want to have kids anyway}
 {8951}{}{Joder, buen tiro}
-{8952}{}{Peleas sucio}
+{8952}{}{You fight dirty!}
 {8953}{}{¡Uf!}
-{8954}{}{¡Ese ha sido un golpe bajo!}
-{8955}{}{De todas formas no necesitaba esa oreja}
+{8954}{}{What a cheap shot}
+{8955}{}{I didn't want to have kids anyway}

@@ -3,7 +3,7 @@
 {102}{}{En el combate cuerpo a cuerpo, la técnica empleada depende del tamaño, alcance y rapidez del adversario.}
 {103}{}{Si tenéis oportunidad observad a vuestro adversario.}
 {104}{}{No precipitéis el ataque.}
-{105}{}{Está bien pequeñín, intenta hacerle daño al abuelete.}
+{105}{}{All right my little one, try to hurt poor old gramps.}
 {106}{}{¡Ah!}
 {107}{}{Uhh.}
 {108}{}{Eso es todo por ahora, recapitulemos.}

@@ -11,7 +11,7 @@
 {110}{}{Vacío }
 {111}{}{Vacío }
 {112}{}{. ¿Te interesa?}
-{113}{}{ Nos vamos hoy. ¿Te interesa?}
+{113}{}{We're all heading out today. Are you still interested?}
 {114}{}{Vamos a partir en }
 {115}{}{}
 {116}{}{}

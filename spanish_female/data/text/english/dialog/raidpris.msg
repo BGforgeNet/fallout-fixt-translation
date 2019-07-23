@@ -2,7 +2,7 @@
 {101}{}{¡Eh, tú! ¡Sácame de aquí!}
 {102}{}{¡Cállate, vas a alertar a los guardias!}
 {103}{}{¡Shh! ¿Quién eres?}
-{104}{}{Qué mala educación.}
+{104}{}{Goop.}
 {105}{}{No me importa. ¡Sácame de aquí, por favor!}
 {106}{}{Me llamo Jack. Soy de Ciudad Vertedero. Estos monstruos mataron al resto de los miembros de mi caravana y me metieron aquí.}
 {107}{}{De acuerdo. Veré lo que puedo hacer.}

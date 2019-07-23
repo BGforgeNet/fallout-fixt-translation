@@ -4,14 +4,14 @@
 {103}{}{Ya has asimilado todo lo que puedes.}
 {200}{}{Estás viendo un ordenador. Ves que tiene algunas trozos de algo que podría ser carne humana.}
 {201}{}{Toqueteas el ordenador un rato pero no puedes hackear su sistema de seguridad.}
-{202}{}{Encuentras un archivo de datos interesante sobre una base secreta al noroeste.}
+{202}{}{You find an interesting data file on a secret base to the northwest, and download the coordinates into your Pip-Boy.}
 {203}{}{Ganas }
-{204}{}{ puntos de experiencia por colarte en este ordenador.}
+{204}{}{ experience for hacking into the computer!}
 {205}{}{You discover some new information about Mariposa Military Base which you didn't known yet.}
 {206}{}{Ganas }
-{207}{}{ puntos de experiencia por colarte en este ordenador.}
+{207}{}{ experience for hacking into the computer!}
 {208}{}{Ganas }
-{209}{}{ puntos de experiencia por liberar a Tandi.}
+{209}{}{ experience for your detective work}
 {210}{}{, but ultimately you don't find any new intel while searching this terminal.}
-{211}{}{    Las cadenas de ADN parecen estar muy completas.}
+{211}{}{You've learned all you can from the system.}
 {300}{}{Este ordenador funciona perfectamente.}

@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a Loxley, el líder del Gremio de Ladrones.}
+{100}{}{You see Loxley, leader of the Thieves' Circle.}
 {101}{LOX_0}{Es un pequeño regalo de Papi y Mami. De hecho, procede de generaciones algo anteriores a ellos. ¿Te gusta?}
 {102}{}{Te queda bien.}
 {103}{}{No, me duele oír eso.}

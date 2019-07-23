@@ -58,7 +58,8 @@
 {208}{}{Información de Seguridad}
 {209}{}{Información de Investigación}
 {210}{}{Estación de Energía}
-{211}{}{Centro de Investigación West Tech:                                             Fundado en 2002 como empresa privada para el gobierno de los Estados Unidos, la compañía consistía al principio en dos divisiones: la Investigación Armamentística Avanzada y las Ciencias Biomédicas.}
+{211}{}{West Tech Research Facility:                                             Founded in 2002 as a private contractor for the United States government, the company initially consisted of two divisions - 
+the Advanced Weapons Research and the Biomedical Sciences divisions.}
 {212}{}{Seguridad:                                                     Robots de Seguridad: Activados}
 {213}{}{Seguridad:                                                     Robots de Seguridad: Desactivados}
 {214}{}{Desactivar Robots de Seguridad}

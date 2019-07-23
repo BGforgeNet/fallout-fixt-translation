@@ -10,7 +10,7 @@
 {109}{}{El nombre es }
 {110}{}{. Recuérdalo.}
 {111}{}{¿Eh?}
-{112}{TAND_2}{¿Te gusta nuestra pequeña ciudad? ¿Ya te ha aburrido?}
+{112}{TAND_2}{Well... how do you like our little town? Bored yet?}
 {113}{}{Está bien. ¿Puedo hacerte unas preguntas?}
 {114}{}{Sí, desde luego. No hay nada que hacer aquí, salvo mirar como copulan los brahmines.}
 {115}{}{Supongo que está bien.}
@@ -33,26 +33,26 @@
 {132}{}{Seguro que estás exagerando.}
 {133}{}{Este sitio me parece bonito y seguro.}
 {134}{TAND_15}{Ciudad Vertedero está al sudoeste, pero no sé a qué distancia. Debajo hay un extraño lugar llamado la Ciudad de la Muerte. Oh, oh sí, también está ese otro sitio... Oh, caray, ¿cómo se llamaba? Ah sí, el Eje.}
-{135}{TAND_15a}{Hay un par de ciudades al sur. Pero como viajas tanto, seguro que ya lo sabes.}
+{135}{TAND_15a}{There's a bunch of cities down south. But since you're such a great traveler, I'm sure you know that already.}
 {136}{}{Gracias.}
 {137}{TAND_16}{No hay problema. ¿Algo más?}
 {138}{TAND_20}{¡Tenemos escorpiones rad! A ver si me entiendes, sé que no es nada bueno, pero nadie se ha muerto por sus picaduras. ¡Y es lo más excitante que tenemos aquí!}
 {139}{TAND_21}{No mucho desde que acabaste con esos escorpiones rad. Caray, me hubiera encantado verlo.}
 {140}{TAND_22}{Como siempre. A-bu-rri-do.}
-{141}{TAND_23g}{La historia más rara que he oído es sobre una Garra Mortal.}
-{142}{TAND_23b}{Cosas.}
+{141}{TAND_23g}{The weirdest story I've heard is about the Deathclaw.}
+{142}{TAND_23b}{Just stuff.}
 {143}{}{Gracias.}
 {144}{}{¿Una Garra Mortal?}
 {145}{TAND_24}{Supongo que no está mal. Es mi hogar y todo eso, ¡pero es tan aburrido! ¿Sabes? Quiero conocer el mundo.}
 {146}{}{¿Si te aburres tanto, por qué no te marchas?}
 {147}{}{Bueno, seguro que no es para tanto.}
 {148}{}{Este sitio me parece bonito y seguro.}
-{149}{TAND_27m}{No soy ese tipo de chica, señor, vete a buscar un brahmin o algo.}
-{150}{TAND_27f}{Pero... esto... o sea... eh... a mí me gustan los tíos, ¿vale? ¡Vaya! Eh, discúlpame, tengo cosas que hacer.}
+{149}{TAND_27m}{I'm not that kind of girl, mister. Go find a brahma or something.}
+{150}{TAND_27f}{Listen... uh... but I... uh... I-I like guys, okay? Whew! Uh, excuse me, I got stuff to do.}
 {151}{TAND_28}{En fin, gracias por hablar conmigo. No pasan muchas forasteras por aquí, así que siempre se agradece hablar con gente nueva. ¡Nos vemos! }
 {152}{}{Adiós.}
 {153}{TAND_29}{Oye, mira. Tengo que cuidar de los brahmines. Me ha, eh, encantado hablar contigo. }
-{154}{TAND_30a}{¡Hola otra vez! ¿En qué puedo ayudarte ahora?}
+{154}{TAND_30a}{Hello again! What can I help you with now?}
 {155}{}{¿Puedo hacerte unas preguntas?}
 {156}{}{Nada. Adiós.}
 {157}{TAND_35}{Eh... oye, gracias. Más tarde.}
@@ -61,28 +61,28 @@
 {160}{}{Qué te parece si tú y yo... bueno, ya sabes... nos juntamos.}
 {161}{}{No, eso es todo, gracias.}
 {162}{}{¡¡Caray!!}
-{163}{TAND_37}{¿Quién eres? ¿Qué quieres?}
+{163}{TAND_37}{Who're you? What do you want?}
 {164}{}{Me llamo }
 {165}{}{, y me ha enviado tu padre.}
 {166}{}{Soy tu hada madrina. ¿Qué te parece?}
-{167}{}{Duhh...}
+{167}{}{Buhh...}
 {168}{TAND_38}{¿¡Mi padre te ha enviado!? ¿Estás aquí para sacarme?}
 {169}{}{Sí, tú estate quietecita. Yo te sacaré.}
 {170}{}{No, me envió para que te buscase.}
 {171}{TAND_39}{Bueno, ¿qué plan tienes?}
 {172}{}{Solo esperar a que se abran las puertas. Luego, ¡corre!}
 {173}{}{Lucharé contra el líder de los Khans a cambio de tu libertad.}
-{174}{TAND_40}{¿Eso es todo? Ese es tu plan. ¡Ah! Está bien. Pero date prisa. Les he oído hablar y no me gustaron sus planes. }
-{175}{TAND_41}{¿Tú? ¿Luchar contra él? ¡Me tomas el pelo! [Suspira] Mira, si se te ocurre otro plan, házmelo saber, ¿vale? }
-{176}{TAND_42}{Oh, ¿me vienes con sarcasmos? ¿¡Me vas a sacar de aquí o qué!?}
+{174}{TAND_40}{That's it? That's your plan. Ugh! All right, but hurry. I heard them talking and I didn't like their plans.}
+{175}{TAND_41}{You? Fight him? You've got to be kidding me! [She sighs] Listen, if you come up with another plan, let me know, okay?}
+{176}{TAND_42}{Oh, aren't we the sarcastic one? Are you gonna get me out, or what!?}
 {177}{}{Sí. Espera un poco y cuando veas que se abre la puerta, corre hacia ella.}
 {178}{}{Lucharé contra el líder de los Khans a cambio de tu libertad.}
 {179}{TAND_43}{¡Oh, eres tú otra vez! ¿Me vas a sacar de aquí?}
 {180}{}{Sí, tú estate quietecita. Yo te sacaré.}
 {181}{}{No, solo venía a saludarte.}
 {182}{}{Geh-ow?}
-{183}{TAND_43a}{Hola, ¿hay alguien en casa? ¿Me puedes sacar de aquí? ¡¿Me puedes SACAR DE AQUÍ?!}
-{184}{TAND_43b}{No hay tiempo para hablar, tenemos que salir de aquí.}
+{183}{TAND_43a}{Hello, anybody home? Could you get me out of here? Could you get. Me. Out. Of HERE?!}
+{184}{TAND_43b}{This is no time to talk; we have to get out of here!}
 {185}{TAND_44}{Aradesh es mi padre. Como padre no está mal.}
 {186}{TAND_45}{Esa soy yo. ¿Quién creías que era?}
 {187}{TAND_46}{Razlo es el tipo viejo del lado este de la ciudad. Es un médico bastante bueno, a pesar de ser un fósil.}
@@ -108,34 +108,34 @@
 {207}{TAND_72}{Oh sí, he oído hablar de eso, pero deberías ir a ver a Agatha. Ella sabrá más que yo.}
 {208}{}{Salgamos de aquí.}
 {209}{}{¡Bah!}
-{300}{}{¡Guau! ¡Este juego es increíble!}
+{300}{}{Wow! This is a really interesting place.}
 {301}{}{¿Oye, qué es eso de ahí?}
-{302}{}{No voy a gastar más tiempo contigo}
-{303}{}{¿Has visto más escorpiones rad?}
-{304}{}{¿Dónde vamos ahora?}
-{305}{}{Gracias por dejarme salir.}
+{302}{}{I can't wait to do more exploring with you!}
+{303}{}{Will we see any more radscorpions?!}
+{304}{}{Where are we going next?}
+{305}{}{Thanks for letting me tag along!}
 {350}{TAND_16a}{Sí, lo que sea.}
 {399}{}{[Continuar]}
 {400}{TAND_3}{Sí, supongo. Nunca he estado fuera, así que no sé cómo podría ayudarte. Así que, ¿qué necesitas?}
-{402}{TAND_28}{Bien, gracias por... "hablar conmigo". (Te guiña un ojo y sonríe) No nos visitan muchos extraños, así que siempre es bueno "hablar" con alguien nuevo. ¡Bueno, nos vemos!}
+{402}{TAND_28}{Well, thanks for... "talking". (She winks at you.) We don't get many strangers here, so it's always good to "talk" to new people. Well, see ya! (She looks exhausted, but blows you a kiss.)}
 {404}{}{Every inch of you, but not here. Let's go somewhere private.}
-{405}{}{Pareces más bien... inexperto. Quiero enseñarte todo lo que pueda. Deberíamos empezar, hay mucho que abarcar. *guiño*}
-{406}{}{[suspira] Más de lo que puedas darme, pero me las apañaré.}
+{405}{}{You look rather... inexperienced. I'd like to fill you with as much "knowledge" as you can handle. [wink]}
+{406}{}{[Sigh] More than you can provide, but I'll make do.}
 {407}{}{[Continuar]}
-{410}{TAND_14}{¡Por fin! ¡Alguien que también lo entiende! Claro que probablemente tú hayas estado en todas partes y esto te debe parecer el infierno. (Se encoge de hombros y te lleva a su habitación])}
-{412}{}{(Sonríe y te lleva a su habitación)}
+{410}{TAND_14}{Finally! Someone else who sees! Of course, you've probably been everywhere, so this must be hell for you. (She shrugs and leads you around the corner...)}
+{412}{}{(She smiles and leads you around the corner...)}
 {415}{}{Me gustaría tener un poco más de diversión, si te sobra tiempo.}
-{500}{}{¿Primero puedo hacerte unas preguntas más?}
-{501}{}{No. Eso es todo, gracias.}
-{502}{}{Pensándolo mejor, déjalo.}
-{503}{}{Solo quería verte otra vez.}
-{504}{}{¡Me gusta la historia!}
+{500}{}{Can you answer a few questions first?}
+{501}{}{Nope! That was it. Thanks, Tandi.}
+{502}{}{On second thought, never mind. Let's go!}
+{503}{}{Just wanted to say hi. You're great.}
+{504}{}{Me like prity gurl.}
 {505}{}{Elp?}
-{506}{}{Te lo diré.}
+{506}{}{Me tell.}
 {507}{}{Oof.}
 {508}{}{Make boom-boom?}
 {509}{}{}
-{510}{}{Vamos a hablar de nuestras tácticas de combate.}
+{510}{}{Let's discuss our tactics and formation.}
 {511}{}{Desenfunda tu mejor arma.}
 {512}{}{Cambia tu armadura.}
 {980}{TAND_62}{No lo sé. Pero se lo puedes preguntar a Seth o a mi padre.}
@@ -164,17 +164,17 @@
 {1020}{}{Petrox}
 {1021}{}{Tolya}
 {1022}{}{Saqueador}
-{1023}{}{Khans}
-{1024}{}{Garras Mortales:}
+{1023}{}{Khan}
+{1024}{}{Deathclaws}
 {1025}{}{Garl}
 {1026}{}{Arenas}
 {1027}{}{Sombrías}
 {1028}{}{Escorpión Rad}
 {1029}{}{Escorpiones Rad}
-{1030}{}{Radio}
+{1030}{}{Rad}
 {1031}{}{Bebidas}
 {1032}{}{Drogas}
-{1033}{}{Tanques}
+{1033}{}{The Vault}
 {1034}{}{Agua}
 {1035}{}{Chip}
 {1037}{}{no tener pulso}
@@ -182,7 +182,7 @@
 {1039}{}{Vertedero}
 {1040}{}{Garra Mortal}
 {1041}{}{Mortal}
-{1042}{}{Campo base}
+{1042}{}{Camp}
 {1100}{TAND_44}{Aradesh es mi padre. Como padre no está mal.}
 {1101}{TAND_45}{Esa soy yo. ¿Quién creías que era?}
 {1102}{TAND_47}{Seth es el Capitán de los guardias. Mi padre intentó juntarnos una vez, pero no es mi tipo de hombre.}
@@ -214,8 +214,8 @@
 {1128}{TAND_51}{De hecho he visto uno, aunque fuese de lejos. Son criaturas desagradables con garras y un gran aguijón. Y su veneno puede ser mortal si no se trata rápido. Deberías hablar con mi padre, Aradesh, él sabe más sobre ellos. }
 {1129}{TAND_51}{De hecho he visto uno, aunque fuese de lejos. Son criaturas desagradables con garras y un gran aguijón. Y su veneno puede ser mortal si no se trata rápido. Deberías hablar con mi padre, Aradesh, él sabe más sobre ellos. }
 {1130}{TAND_51}{De hecho he visto uno, aunque fuese de lejos. Son criaturas desagradables con garras y un gran aguijón. Y su veneno puede ser mortal si no se trata rápido. Deberías hablar con mi padre, Aradesh, él sabe más sobre ellos. }
-{1131}{TAND_23b}{Cosas.}
-{1132}{TAND_23b}{Cosas.}
+{1131}{TAND_23b}{Just stuff.}
+{1132}{TAND_23b}{Just stuff.}
 {1133}{TAND_62}{No lo sé. Pero se lo puedes preguntar a Seth o a mi padre.}
 {1134}{TAND_62}{No lo sé. Pero se lo puedes preguntar a Seth o a mi padre.}
 {1135}{TAND_62}{No lo sé. Pero se lo puedes preguntar a Seth o a mi padre.}

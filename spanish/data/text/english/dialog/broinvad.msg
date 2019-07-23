@@ -14,4 +14,4 @@
 {113}{}{Hay algo raro en esta sala.}
 {114}{}{Este lugar está empezando a darme repelús.}
 {115}{}{Es hora de volverse a la Hermandad.}
-{116}{}{Estás viendo a un Anciano de la Hermandad.}
+{116}{}{Assault Paladin returns to The Brotherhood.}

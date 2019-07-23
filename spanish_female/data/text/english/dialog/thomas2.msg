@@ -37,5 +37,5 @@
 {139}{}{No sé por qué pierdo el tiempo contigo.}
 {140}{}{¿Sí? Oh, supongo que quieres entrenarte un poco más. Bueno, de todas formas ya no duermo mucho, por qué no. ¿Qué quieres hacer hoy?}
 {141}{}{¿Ahora qué? ¿Más preguntas tontas?}
-{142}{}{Oh, está bien. Como te dije, ya no duermo casi. Vuelve cuando quieras.}
+{142}{}{Oh, that's all right. As I said, I hardly ever sleep. Come back any time.}
 {143}{}{Entonces deja de darme la vara. Ya soy viejo, y necesito dormir para estar guapo.}

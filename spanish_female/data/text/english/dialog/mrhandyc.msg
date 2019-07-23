@@ -33,7 +33,7 @@
 {132}{}{Vale, gracias.}
 {133}{}{[Clic] La unidad #462 está autorizada a utilizar la fuerza letal para preservarse, según lo permita la programación anterior.}
 {134}{}{¿Fuerza letal?}
-{135}{}{(Un altavoz crepita, y empieza a sonar un mensaje grabado con la voz de un hombre. Parece que se tratara de publicidad.) "RobCo está comprometida con su seguridad y bienestar. Todas las unidades de Señor Mañoso de RobCo están equipadas con un sistema de anulación de seguridad de vanguardia, para prevenir cualquier accidente desafortunado. Tenga la seguridad de que el Sr. Mañoso es la mejor y más segura inversión que su familia hará jamás." (El altavoz se apaga.)}
+{135}{}{(A speaker crackles to life, and a recorded message of a male voice begins playing. It sounds like an advertisement.) "RobCo is committed to your safety and well-being. All RobCo Mister Handy units are equipped with state-of-the-art safety overrides, to prevent any unfortunate incidents. Rest assured, Mr. Handy is the best and safest investment your family will ever make." (The speaker shuts off.)}
 {136}{}{[Continuar]}
 {137}{}{[Clic] Procesando... [Clic] Los archivos en memoria indican que desde la fecha de fabricación de la unidad #462, de los 4.628 eventos de autodefensa registrados iniciados por unidades similares, solo 930 han resultado en la muerte de civil desarmado.}
 {138}{}{Eh... Eso no suena muy bien.}
@@ -46,7 +46,7 @@
 {145}{}{[¡Bip!] Unidad #462 en línea. Autocomprobación... OK. Ajustando ubicación de datos de la unidad. Arreglado. Reconstruyendo archivo de memoria. Arreglado. Limpiando lista de tareas... Hecho. [Clic] ¿Comando?}
 {146}{}{Sígueme y mantén los mecanismos de autodefensa activos en todo momento. Ah, y no me dispares, no soy una amenaza. Así que también deberías añadir eso a los protocolos de autodefensa.}
 {147}{}{[Clic] ¡Okey-Makey! Tarea recursiva creada. Terminando entrada de datos.}
-{148}{}{(Intentas ganar acceso a la raíz del sistema pero fallas. Unas luces en la unidad empiezan a parpadear. Uh-oh...}
+{148}{}{(You try to get root access to the system but fail. Lights begin flashing on the unit.) Uh-oh...}
 {149}{}{¡Alerta! ¡¡Alerta! ¡Amenaza detectada! [Clic] Iniciando protocolos de autodefensa.}
 {150}{}{El robot te ignora y continúa con sus tareas.}
 {151}{}{Unidad #462, a tu servicio.}

@@ -1,1 +1,1 @@
-{100}{}{Под витриной на стене написано "Узи 9мм - для чрезвычайных ситуаций". Стекло разбито, а витрина пуста.}
+{100}{}{A case on the wall says: "10mm SMG - for emergencies only!". The glass is broken and the case is empty.}

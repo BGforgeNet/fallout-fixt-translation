@@ -27,6 +27,6 @@
 {126}{}{Me siento insultado. No tengo por qué aguantar esto de una clienta. Que tengas un buen día.}
 {127}{}{Estoy en mi descanso; vuelve más tarde.}
 {128}{}{Vaya y prueba uno de ellos.}
-{129}{}{Deberías coger pintura antioxidante.}
+{129}{}{You should get the rust-preventive paint with that.}
 {130}{}{¿Te interesaría una alarma de coche?}
 {131}{}{¡Hola! Soy Bob.}

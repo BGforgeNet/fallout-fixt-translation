@@ -62,7 +62,7 @@
 {161}{Nic_21}{La verdad es que no. Proclamamos la paz, pero nos defenderemos si es necesario. Eso incluye nuestras creencias.}
 {162}{Nic_21b}{No lo entenderías.}
 {163}{}{Emm, vale. ¿Puedo hacerte más preguntas?}
-{164}{}{Está bien. Creo que es hora de irme.}
+{164}{}{All right. I think it's time for me to go.}
 {165}{Nic_22}{Aparecieron más o menos cuando nosotros, pero nadie sabe de dónde salieron. Según unos rumores, su líder Morfeo, pertenecía a los Destripadores, antes de ser "iluminado" por su Dios Oscuro.}
 {166}{}{Oye, un tío puede cambiar.}
 {167}{}{No parece un buen tipo.}
@@ -134,7 +134,7 @@
 {233}{}{Morfeo no es el líder de los Niños. En realidad los dirige el Maestro.}
 {234}{}{¿Conoces a los Nocturnos?}
 {235}{Nic_45}{Espera un seg... ¿el Dios Oscuro? ¿No me estarás diciendo que es real?}
-{236}{}{Oh, por supuesto que es real, lo que no es, es un dios. Es un mutante que quiere convertir a todo el mundo en Nocturno para su propio provecho.}
+{236}{}{Oh, he's real all right, just not a god. He's a mutant who wants to make everyone a Nightkin, for their own good.}
 {237}{}{¡Sí, lo es! ¡Debes temer al todopoderoso Dios Oscuro!}
 {238}{Nic_46}{¿Qué tienen que ver con esto los Nocturnos?}
 {239}{}{En realidad ellos son una raza de Supermutantes. El Maestro es su líder.}

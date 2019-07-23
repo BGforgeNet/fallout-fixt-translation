@@ -287,7 +287,7 @@
 {388}{}{Uh, sí. Claro, colega. Lo que tú digas.}
 {389}{}{Uh, sí. Claro, señorita. Lo que tú digas.}
 {390}{}{¿Entonces tienes algo que vender?}
-{391}{}{Entonces de acuerdo. ¡Adiós!}
+{391}{}{All right then. Bye!}
 {392}{}{[Kane mira a uno de sus matones y se encoge de hombros.]}
 {393}{}{¡NO LO HARÉ! Ahora, vete.}
 {394}{}{¿Mary? No conozco a ninguna Mary... ¡No tengo TIEMPO para esto! Además no tengo ni idea de quien estás hablando. ¡Si quiere chapas, dile que venga a hablar conmigo ella misma!}
@@ -302,7 +302,7 @@
 {403}{}{Por aquí.}
 {404}{}{Conoces el camino, vámonos.}
 {405}{}{Abrid eso, chicos.}
-{406}{}{De acuerdo.}
+{406}{}{All right.}
 {407}{}{Vale.}
 {408}{}{Puedes desear lo que te apetezca, pero vete.}
 {409}{}{¿Tienes algún trabajo más?}
@@ -341,7 +341,7 @@
 {442}{}{[Kane te mira fijamente.]}
 {443}{}{Sobreviviste a mi fiesta de despedida... No sé cómo lo hiciste; debo haberte subestimado. Márchate, y puede que vivas.}
 {444}{}{[Kane te ignora, pero tiene su arma dispuesta para disparar.]}
-{445}{}{¡De acuerdo! ¡Vete!}
+{445}{}{All right! Out you go!}
 {446}{}{No te lo repetiré. Sal de una maldita vez.}
 {447}{}{Te avisé. Vale tíos, ¡que reciba!}
 {448}{}{Te avisé. Vale tíos, ¡que reciba!}
@@ -352,7 +352,7 @@
 {453}{}{[Kane te mira con mala cara.] Bueno entonces... Intentaré colarte en algún momento para que lo veas cuanto antes. Me aseguraré de que te vea... trocito a trocito...}
 {454}{}{Lamento que te lo tomes así. Espero que "disfrutes" del resto de tu estancia en nuestra maravillosa ciudad. }
 {455}{}{[Kane te ignora.]}
-{456}{}{[Kane te mira fijamente unos segundos] De acuerdo. Te daré una última oportunidad para que le veas. Sígueme.}
+{456}{}{[Kane stares at you for a few seconds] All right. I'll give you one last chance to see him. Follow me.}
 {457}{}{[Kane te mira fijamente unos segundos] Has perdido tu oportunidad. Vete.}
 {458}{}{¡¿¡¿Qué demonios haces volviendo aquí?!?! Debes ser mucho más tonta de lo que pensaba. Sabía que Decker no tenía que haber contratado a una desconocida.}
 {459}{}{¿De qué estás hablando?}

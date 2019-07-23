@@ -35,7 +35,7 @@
 {202}{}{¿Quieres volver a la cueva? Es un viaje largo y ya has eliminado a los escorpiones rad.}
 {203}{}{Bueno, disfruta tu estancia.}
 {204}{}{Bienvenido a Arenas Sombrías, forastero. Por favor, guarda tu arma mientras que estés aquí.}
-{205}{}{Hola extranjero. Bienvenido a Arenas Sombrías.}
+{205}{}{Hello, stranger. Welcome to Shady Sands!}
 {206}{}{Deberías de hablar con Aradesh, nuestro líder. Es su costumbre presentarse a todos nuestros visitantes. Lo puedes encontrar en nuestro Ayuntamiento, es el edificio al sur de aquí.}
 {300}{}{¡Gracias a Dharma que regresaste! Mi novia... Tandi, hija de Aradesh, ha sido raptada. Creemos que los saqueadores la tienen presa.}
 {301}{}{¿Dónde están estos saqueadores?}

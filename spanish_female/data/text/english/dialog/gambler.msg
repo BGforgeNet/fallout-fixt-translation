@@ -18,7 +18,7 @@
 {117}{}{Muchas gracias, ¡manita! (Acepta las 100 chapas que le das.) Dentro de unos días podré devolverte tus chapas con intereses. Mi sistema es lento, ya ves; exige mucha paciencia, ¡pero seguro que trae muchas chapas!}
 {118}{}{Muy bien, ¡pero te garantizo el éxito! Si quieres formar parte de los ricos, vuelve pronto; o ¡me buscaré a otro compañera!}
 {119}{}{Amiga, veo que también eres una mujer de gustos selectos. ¿Qué tal una simple partida de dados?}
-{120}{}{¡Vale!}
+{120}{}{All right!}
 {121}{}{No, gracias, preferiría probar otra cosa.}
 {122}{}{Gizmo soñaba en crear un lugar donde la gente pudiera encontrarse y divertirse. Tenía la ambición de llevarlo a la práctica. El resultado es el casino que ves aquí.}
 {123}{}{Le da a la gente la oportunidad de olvidar sus preocupaciones de este mundo exterior asqueroso. ¡Y encima trae chapas a Ciudad Vertedero!}

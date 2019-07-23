@@ -20,7 +20,7 @@
 {119}{}{¿No sabes que las mujeres son el sexo débil?}
 {120}{}{¿Piensas que estoy débil? Entonces mira...}
 {121}{}{Ya me voy.}
-{122}{}{Guárdate tus absurdas amenazas y vuelve con mamá. Estás hablando con un machote.}
+{122}{}{Take your puny threats and run home to mama. You're talking to a real man here.}
 {123}{}{¿Piensas que estoy débil? Entonces mira...}
 {124}{}{Ya me voy.}
 {125}{}{¡Ehh! Si de verdad quieres verlo, pasa ahora.}

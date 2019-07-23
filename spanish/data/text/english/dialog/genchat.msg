@@ -58,7 +58,7 @@
 {157}{}{Tu Inteligencia ha incrementado en }
 {158}{}{Tu Agilidad ha incrementado en }
 {159}{}{Tu Suerte ha incrementado en }
-{160}{}{ puntos.}
+{160}{}{ points.}
 {161}{}{Tu Fuerza ha aumentado 1 punto.}
 {162}{}{Tu Percepción ha aumentado 1 punto.}
 {163}{}{Tu Resistencia ha aumentado 1 punto.}
@@ -80,7 +80,7 @@
 {179}{}{Por favor, tengo que irme de aquí antes de que descubran quién soy.}
 {180}{}{No puedes robar nada y piensas que quizás te han pillado.}
 {181}{}{Los miembros de la Hermandad te han pillado robando.}
-{182}{}{Estás viendo a un Supermutante invasor.}
+{182}{}{You see: Marauding Super Mutant.}
 {183}{}{}
 {184}{}{}
 {185}{}{}
@@ -93,11 +93,11 @@
 {192}{}{Ian es ahora de nivel }
 {193}{}{Katja es ahora de nivel }
 {194}{}{Fren move! [You scowl and stamp your feet]}
-{195}{}{ir, ir, no hacer falta amigo.}
-{196}{}{¿ser amigos?}
+{195}{}{Go, go, no need fren.}
+{196}{}{We be fren?}
 {197}{}{}
-{198}{}{ Lleva puesto }
-{199}{}{ Lleva puesto }
+{198}{}{ He is wearing: }
+{199}{}{ She is wearing: }
 {200}{}{Estás viendo un emisor de campo muy dañado.}
 {201}{}{El emisor está demasiado dañado para utilizarse.}
 {202}{}{El emisor está demasiado dañado para repararse.}
@@ -112,7 +112,7 @@
 {211}{}{No puedes robarle a esta criatura.}
 {212}{}{Te miras durante un rato. ¿Te gusta lo que ves?}
 {214}{}{El veneno ha abandonado tu sistema.}
-{215}{}{¡Gracias, le daré buen uso en combate!}
+{215}{}{Thanks, I'll make good use of that in combat!}
 {216}{}{ Camina al estar cerca.}
 {217}{}{ Corre siempre.}
 {218}{}{Debes de tener mucho tiempo para estar viéndote de esta forma.}
@@ -123,9 +123,9 @@
 {223}{}{Máximo.}
 {224}{}{ Nivel máximo recomendado para personajes con Masacre.}
 {225}{}{Buen intento, pero eso no funcionará.}
-{291}{}{¡Has subido un nivel!}
-{292}{}{¡Has subido un nivel!}
-{293}{}{¡Has subido un nivel!}
+{291}{}{Tycho has gained a level!}
+{292}{}{Ian has gained a level!}
+{293}{}{Katja has gained a level!}
 {294}{}{Ahora eres de nivel }
 {295}{}{.}
 {296}{}{ (max).}
@@ -148,7 +148,7 @@
 {413}{}{Viajero.}
 {414}{}{Viajero del Desierto.}
 {415}{}{Viajero del Yermo.}
-{416}{}{Viajero.}
+{416}{}{Elite Strider.}
 {417}{}{Héroe del Refugio.}
 {418}{}{Héroe Errante.}
 {419}{}{Héroe Viajero.}
@@ -157,20 +157,20 @@
 {422}{}{Héroe de las Tierras Resplandecientes.}
 {423}{}{Parangón.}
 {424}{}{Leyenda Viva.}
-{425}{}{Héroe del Yermo.}
-{426}{}{Parangón.}
-{427}{}{Héroe Viajero.}
-{428}{}{Héroe del Yermo.}
-{429}{}{Parangón.}
-{430}{}{Parangón.}
-{431}{}{Parangón.}
-{432}{}{Héroe Viajero.}
+{425}{}{Myth of the Wastes.}
+{426}{}{Revenant Paragon.}
+{427}{}{Striding Paragon.}
+{428}{}{Paragon of the Wastes.}
+{429}{}{Elite Paragon.}
+{430}{}{Legendary Paragon.}
+{431}{}{Supreme Paragon.}
+{432}{}{Striding Commander.}
 {433}{}{Pip-Boy displays: "FixtOS v}
 {434}{}{0.9.0 }
 {435}{}{active}
 {436}{}{. Simulation began on FixtOS v}
 {437}{}{. Upgraded from FixtOS v}
-{438}{}{.}
+{438}{}{0.}
 {439}{}{.}
 {440}{}{alpha}
 {441}{}{beta}
@@ -189,27 +189,27 @@
 {503}{}{Ganas }
 {504}{}{ puntos de experiencia por utilizar explosivos con éxito.}
 {505}{}{La explosión no termina de destruir la puerta. Necesitaras una más.}
-{506}{}{No funciona al parecer.}
-{533}{}{Nómada del Yermo.}
-{534}{}{Élite Nómada.}
-{535}{}{Nivel 3 - Biblioteca, Centro de mando}
-{536}{}{Entrada de Comando.}
-{537}{}{Héroe Viajero.}
-{538}{}{Héroe del Yermo.}
-{539}{}{Élite Nómada.}
+{506}{}{Hmm, that doesn't seem to work.}
+{533}{}{Commander of the Wastes.}
+{534}{}{Elite Commander.}
+{535}{}{Legendary Commander.}
+{536}{}{Supreme Commander.}
+{537}{}{Striding Exemplar.}
+{538}{}{Exemplar of The Wastes.}
+{539}{}{Elite Exemplar.}
 {540}{}{Legendary Exemplar.}
 {541}{}{Supreme Exemplar.}
-{542}{}{Élite Nómada.}
-{543}{}{Viajero.}
-{544}{}{Élite del Refugio.}
-{545}{}{Parangón.}
-{546}{}{Entrada de Comando.}
+{542}{}{Mythical Wanderer.}
+{543}{}{Mythical Strider.}
+{544}{}{Mythical Elite.}
+{545}{}{Mythical Paragon.}
+{546}{}{Mythical Commander.}
 {547}{}{Mythical Exemplar.}
-{548}{}{Héroe del Refugio.}
+{548}{}{Mythical Hero.}
 {549}{}{Supreme Jerk.}
-{550}{}{Ves: %s.}
-{551}{}{el día }
-{552}{}{el día }
+{550}{}{You see: }
+{551}{}{, the }
+{552}{}{, the }
 {553}{}{, a }
 {554}{}{, a }
 {601}{}{No deberías estar aquí, Iniciado.}
@@ -220,35 +220,35 @@
 {606}{}{Esta no es la biblioteca, chico. Si quieres investigar, por favor, ve a la biblioteca.}
 {607}{}{Esta no es la biblioteca, chica. Si quieres investigar, por favor, ve a la biblioteca.}
 {700}{}{¡Ganas 10000 puntos de experiencia!}
-{701}{}{Ganas 10000 puntos de experiencia por destruir los Tanques.}
-{702}{}{Ganas 10000 puntos de experiencia por destruir al Maestro.}
+{701}{}{You earn 10000 experience for destroying the Vats!}
+{702}{}{You earn 10000 experience for eliminating The Master!}
 {800}{}{¿Por qué les hablas a las ratas?}
-{900}{}{En el PIP-Boy 2000 se lee "AGUA DEL REFUGIO 13: QUEDAN}
+{900}{}{Pip-Boy displays: "VAULT WATER - }
 {901}{}{}
 {902}{}{ DÍAS."}
-{903}{}{ DÍAS."}
-{1000}{}{Te das cuenta de que hay una pequeña placa a tus pies.}
+{903}{}{ DAY LEFT."}
+{1000}{}{You place the ticking explosives at your feet.}
 {1001}{}{Recibes una pequeña cantidad de radiación.}
 {1002}{}{Recibes una moderada cantidad de radiación.}
 {1003}{}{Recibes una gran cantidad de radiación.}
 {1004}{}{Has sido levemente irradiado.}
 {1005}{}{Has sido moderadamente irradiado.}
 {1006}{}{Has sido fuertemente irradiado.}
-{1007}{}{Has sido irradiado.}
+{1007}{}{You've been irradiated!}
 {1008}{}{Has recibido una leve cantidad de radiación.}
 {1009}{}{Has recibido una pequeña cantidad de radiación.}
 {1010}{}{Has recibido una moderada cantidad de radiación.}
 {1011}{}{Has recibido una gran cantidad de radiación.}
-{1153}{}{Tu Fuerza ha incrementado en }
-{1154}{}{Tu Percepción ha incrementado en }
-{1155}{}{Tu Resistencia ha incrementado en }
-{1156}{}{Tu Carisma ha incrementado en}
-{1157}{}{Tu Inteligencia ha incrementado en }
-{1158}{}{Tu Agilidad ha incrementado en }
-{1159}{}{Tu Suerte ha incrementado en }
-{1160}{}{ puntos.}
-{1161}{}{ puntos.}
-{1170}{}{Fallas al intentar ponerte una armadura humana; la armadura queda destruida.}
+{1153}{}{Your Strength was decreased by }
+{1154}{}{Your Perception was decreased by }
+{1155}{}{Your Endurance was decreased by }
+{1156}{}{Your Charisma was decreased by }
+{1157}{}{Your Intelligence was decreased by }
+{1158}{}{Your Agility was decreased by }
+{1159}{}{Your Luck was decreased by }
+{1160}{}{ points.}
+{1161}{}{ point.}
+{1170}{}{Your attempt to wield a human weapon has failed; the weapon is destroyed.}
 {1171}{}{Your large hands are too clumsy to wield the human weapon, and it falls to your feet.}
-{1180}{}{Has matado a mucha gente inocente. Por lo general no es algo muy bueno por lo que ser conocido. Sin embargo, agradarás más a los que van por el mal camino.}
-{1181}{}{¡No tienes permiso para estar aquí!}
+{1180}{}{You have killed a large number of innocent people. You're now a Berserker! This generally isn't a good thing to be known for, and you are clearly a very bad person.}
+{1181}{}{You are no longer a Berserker.}

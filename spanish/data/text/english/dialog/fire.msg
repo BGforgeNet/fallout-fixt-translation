@@ -32,7 +32,7 @@
 {131}{}{¡Entonces no quiero entrar!}
 {132}{}{¿A qué te refieres con, "meterme"?}
 {133}{}{¿No puedes simplemente hacerme un Navaja?}
-{134}{}{Tu madre nunca te quiso, y nosotros tampoco.}
+{134}{}{Your mama never wanted you, and we don't either.}
 {135}{}{Simple. Tendrás que matar a alguien para entrar. Te dirá a quién tienes que matar.}
 {136}{}{Vale, gracias.}
 {137}{}{Olvídalo. No quiero ser parte de tu estúpida banda.}

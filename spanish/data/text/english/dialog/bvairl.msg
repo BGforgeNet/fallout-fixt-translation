@@ -1,1 +1,1 @@
-{100}{}{Te das cuenta de que hay una taquilla en el muro del este, igual que en tu Refugio.}
+{100}{}{You notice there is a wall locker on the east wall, just like in your own Vault.}

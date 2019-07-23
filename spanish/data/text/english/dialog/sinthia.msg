@@ -4,7 +4,7 @@
 {103}{}{Vale, adiós.}
 {104}{}{Bien, pero podría irme mejor.}
 {105}{}{Uhh.}
-{106}{}{Oh, cariño, te comprendo. Tienes que volver a los brazos de mamá. Bueno, ¡vuelve aquí cuando necesites un poquito de amor!}
+{106}{}{Oh, baby, I understand. You gotta run home to mama. Well, come back here when you need some luvin'!}
 {107}{}{Sí, encanto, tú también.}
 {108}{}{Encontrarás lo que buscas o a quien buscas, cariño, y verás cómo te sentirás mejor.}
 {109}{}{Quizá pueda ayudarte a este respecto.}

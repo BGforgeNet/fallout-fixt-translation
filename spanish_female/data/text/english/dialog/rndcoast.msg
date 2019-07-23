@@ -13,7 +13,7 @@
 {205}{}{¡Puaj!}
 {1000}{}{Ganas }
 {1001}{}{ puntos de experiencia por utilizar tu habilidad de Supervivencia con éxito.}
-{1002}{}{Te encuntras con }
+{1002}{}{Encounter: "}
 {1003}{}{"}
 {1004}{}{. ¿Quieres parar al encuentro?}
 {1005}{}{Sí.}

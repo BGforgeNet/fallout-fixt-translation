@@ -28,18 +28,18 @@
 {127}{}{8    13 años}
 {128}{}{7  Give items (by type)}
 {129}{}{1  Testing Weapons & All Ammo}
-{130}{}{Drogas}
+{130}{}{2  Drugs}
 {131}{}{3  Food (including new Fixt ones)}
 {132}{}{4  Keys (in inventory or in backpack)}
 {133}{}{5  900000 Bottle Caps (& Small Bag, Bag, Backpack)}
 {134}{}{6  Explosives & Throwing Weapons}
-{135}{}{una estantería}
+{135}{}{7  Books}
 {136}{}{8  Holodisks (& Radio)}
-{137}{}{Armadura}
+{137}{}{9  Armor}
 {138}{}{Each of these selections, including Ammo, except "Testing Weapons", gives ALL items from that category.}
 {139}{}{1  Yes, and delete current inventory first.}
-{140}{}{Sí.}
-{141}{}{No. [volver]}
+{140}{}{2  Yes.}
+{141}{}{3  No. [back]}
 {142}{}{Give Testing Weapons & All Ammo?}
 {143}{}{Give All Drugs?}
 {144}{}{Give All Food (including new Fixt ones)?}
@@ -48,7 +48,7 @@
 {147}{}{Give All Explosives & All Throwing Weapons?}
 {148}{}{Give All Books?}
 {149}{}{Give All Holodisks (& Radio)?}
-{150}{}{Armadura de Metal}
+{150}{}{Give All Armor?}
 {200}{}{¿Qué Trucos puedo hacer por ti hoy?}
 {201}{}{1  Puntos de Experiencia.}
 {202}{}{2  Daño, Veneno, Radiación.}
@@ -75,7 +75,7 @@
 {226}{}{4    Romper brazo derecho}
 {227}{}{5    Dame ceguera }
 {228}{}{8    Fully heal, remove all poison, remove ALL rads.}
-{229}{}{TEST ROLLS mmm, rolls}
+{229}{}{TEST ROLLS (mmm, rolls)}
 {230}{}{Hecho.}
 {231}{}{mensaje aquí}
 {232}{}{1    500}
@@ -119,14 +119,14 @@
 {270}{}{2  Ciudad Vertedero,  Hermandad del Acero,  Ciudad}
 {271}{}{3  Niños de la Catedral, Refugio del Maestro, Costa, Montaña}
 {272}{}{4  El Eje}
-{273}{}{5  Adytum del Cementerio,  Saqueadores}
-{274}{}{6  Arenas Sombrías,  Base Militar}
+{273}{}{5  Boneyard, Adytum,  Raiders}
+{274}{}{6  Shady Sands,  Military Base, CHILDEAD}
 {275}{}{7  El Ardor,  Desierto}
 {276}{}{8  Caravanas}
 {277}{}{9  Especiales}
 {278}{}{9    Olvídalo.}
 {279}{}{7    Olvídalo.}
-{280}{}{8    Diapositivas de Fin de Juego.}
+{280}{}{8    Play the Endgame Slideshow.}
 {300}{}{DESERT1.MAP}
 {301}{}{DESERT2.MAP}
 {302}{}{DESERT3.MAP}
@@ -194,5 +194,5 @@
 {364}{}{MNTCRVN4.MAP}
 {365}{}{HUBMIS0.MAP - Irwin}
 {366}{}{HUBMIS1.MAP - Irwin}
-{400}{}{Actualmente tienes }
+{400}{}{You are currently level: }
 {401}{}{.}

@@ -8,7 +8,7 @@
 {107}{gizmo_2}{¿Besas a tu madre con esa boca? Un poco de respeto.}
 {108}{}{¿Haces algo aparte de zampar?}
 {109}{}{Tienes razón, lo siento. Pues hablemos de negocios.}
-{110}{gizmo_4}{Está bien, *resopla* este es el trato. Ciudad Vertedero, ya no es lo que era. No seguiría en pie de no ser por mi casa de juegos. Aun así, Killian me está tocando las narices y estoy empezando a hartarme. *resopla* Y ahí es donde entras tú, bolinche.}
+{110}{gizmo_4}{All right, *snort* here's the deal. Junktown, it ain't what it used to be. The only reason it's still here is because of my gambling establishment. Even so, Killian's been breathing down my neck, and I'm starting to take it personal. *snort* And that's where you come in, slick.}
 {111}{}{¿Qué quieres que haga?}
 {112}{}{Si crees que te voy a ayudar, además de gordo eres estúpido.}
 {113}{gizmo_4a}{Qué gracia.}
@@ -20,7 +20,7 @@
 {119}{}{¿Cuánto piensas pagar?}
 {120}{gizmo_6}{Lo haría, pero no debe haber nada que me relacione con la desafortunada muerte de Killian.}
 {121}{}{Tiene sentido. Claro que lo haré.}
-{122}{}{Está bien, lo haré.}
+{122}{}{All right, I'll do it.}
 {123}{}{Vaya cobarde. ¿Tienes miedo no gustar a la gente? Demasiado tarde.}
 {124}{}{¿Cuánto piensas pagar?}
 {125}{}{No hay elección.}
@@ -50,7 +50,7 @@
 {149}{gizmo_16}{Si no te largas de la ciudad acabarás bajo ella. ¿Te enteras?}
 {150}{}{Vale, vale, me largo.}
 {151}{}{¿Quién va a hacerlo? ¿Tú? Si ni siquiera puedes levantar tu fofo trasero para ir a por un bocadillo, como para matarme.}
-{152}{}{Está bien, vale. Pero recuerda que me la debes.}
+{152}{}{All right, fine. Just remember you owe me.}
 {153}{gizmo_17}{Entonces dame las placas de identificación.}
 {154}{}{Emm... bueno... yo... eh, las he perdido.}
 {155}{}{¿Qué pasa si no te las quiero dar?}
@@ -88,7 +88,7 @@
 {187}{}{Estoy aquí. Y tú necesitas a alguien de fuera para que haga el trabajo sucio, ¿verdad?}
 {188}{}{No puedes... O sea puedes... Quiero decir...}
 {189}{}{Porque he estado por ahí. Ya he matado.}
-{190}{gizmo_27}{Emm... está bien. Podemos hacerlo. Pero ahora que trabajas para mí, debes saber que nadie traiciona a Gizmo y vive para contarlo. ¿Me has entendido?}
+{190}{gizmo_27}{Hmm... all right. We can do this. But you work for me, you better know that nobody ever double-crosses Gizmo and lives to talk about it. You got me?}
 {191}{}{Oh, engañarte es fácil... lo difícil es abarcarte.}
 {192}{}{Claro, pero primero necesito saber por qué quieres que se muera.}
 {193}{gizmo_28}{Eh. Eso es fácil. Quiero verle muerto porque me fastidia el negocio. Entonces, ¿te encargarás de él por mí?}
@@ -111,8 +111,8 @@
 {210}{gizmo_42}{¿No te gustaría saberlo?}
 {211}{gizmo_43}{No te preocupes por eso.}
 {212}{gizmo_44}{*snif* Yo eh... No me apetece hablar de ello ahora.}
-{213}{gizmo45m}{Eh, ¿qué diablos crees que estás haciendo? ¡Izo, arráncale los brazos!}
-{214}{gizmo45f}{Eh, ¿qué diablos crees que estás haciendo? ¡Izo, arráncale los brazos!}
+{213}{gizmo45m}{Hey, what the hell do you think you're doing? Izo, tear his arms off!}
+{214}{gizmo45f}{Hey, what the hell do you think you're doing? Izo, tear off her arms!}
 {215}{gizmo_47}{¿Qué, estás sordo?, he dicho...}
 {216}{gizmo_48}{¡Oye, no pienso repetirlo!}
 {217}{}{Ganas 600 puntos de experiencia por derrotar a Gizmo. Que en piezas descanse el bastardo.}

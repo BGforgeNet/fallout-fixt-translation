@@ -45,7 +45,7 @@
 {144}{}{Mmm. Nada. No importa, Ian.}
 {145}{}{Ahora puedes irte.}
 {146}{}{¿Me puedes decir por dónde se va al Eje y a Ciudad Vertedero?}
-{147}{}{Bien, ya que preguntas, de acuerdo. Nos vemos por aquí.}
+{147}{}{Well, since you ask, all right. See you around.}
 {148}{}{No gracias. Aquí me necesitan.}
 {149}{}{¿Puedes ayudarme un poco? Tu experiencia sería útil.}
 {150}{}{Vámonos. ¡Será bueno volver a la acción!}
@@ -58,7 +58,7 @@
 {157}{}{Trato hecho.}
 {158}{}{No, gracias.}
 {159}{}{Y en vez de eso, ¿qué tal un poco de acción?}
-{160}{}{De acuerdo, te ayudaré a cambio de mi parte del botín.}
+{160}{}{All right, I'll help you out in exchange for my share of loot.}
 {161}{}{No, no lo creo. Vuelve cuando tengas algunas chapas.}
 {162}{}{Esta es la Armería. La dirige Beth. Tiene buenas armas pero lo mejor son sus cotilleos.}
 {163}{}{Las Armas de Jake. Los precios son altos, pero es buen material.}

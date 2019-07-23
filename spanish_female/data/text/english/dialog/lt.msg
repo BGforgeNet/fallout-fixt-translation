@@ -7,7 +7,7 @@
 {106}{LIEUT1A}{Un insulto. Qué graciosa. Te explicaría lo que significa, pero sería una pérdida de tiempo, ¿no crees? Veamos tus dos opciones: Puedes contarme lo que quiero saber. O, puedo hacerlo... a mi manera.}
 {107}{}{Me quedo con "ninguna de las dos".}
 {108}{}{Vale, pero con una condición.}
-{109}{}{Está bien, te lo diré. Está al otro lado de las montañas, lejos al norte. Lo encontrarás cerca de un raro tipo de roca semiabovedada... Y ahora, ¿qué voy a obtener?}
+{109}{}{All right, I'll tell you. It's on the other side of the mountains, far to the north. You'll find it near a strange, half-dome type rock... Now, what do I get?}
 {110}{LIEUT1B}{No te he ofrecido nada. Pero te daré las gracias por contarme dónde está tu Refugio. Estoy seguro de que el Maestro te estará... eternamente agradecido.}
 {111}{LIEUT2}{Que bien para los dos. Ahora, por favor, la ubicación de tu Refugio.}
 {112}{}{Está... está...}
@@ -19,7 +19,7 @@
 {118}{}{Deberás ponerte una bolsa en la cabeza para que pueda soportar tu presencia.}
 {119}{}{Primero querría poder hacerte unas preguntas.}
 {120}{LIEUT4}{¡Qué maravilloso sentido del humor! Es una lástima que yo no tenga. La ubicación de tu Refugio, por favor.}
-{121}{}{Está bien, ¿pero primero puedo hacerte unas preguntas?}
+{121}{}{All right, but can I ask you some questions first?}
 {122}{}{No te lo voy a decir y no puedes obligarme.}
 {123}{}{Está... está...}
 {124}{LIEUT5}{Oh, por supuesto, querido ser humano. Siento curiosidad sobre lo que me puedes querer preguntar.}
@@ -116,7 +116,7 @@
 {215}{}{Tú ganas. Está a unos ocho o nueve días viajando hacia al este, en la ladera de una montaña. Te dibujaré un mapa.}
 {216}{LIEUT38}{Ah, me siento mucho mejor. ¿Y tú? Ahora pórtate bien y dime dónde está tu Refugio. Esto comienza a resultar tedioso.}
 {217}{}{Vete al infierno.}
-{218}{}{¡Lo diré! ¡Pero no me hagas más daño!}
+{218}{}{I'll tell! Just don't hurt me any more!}
 {219}{}{Admiro tu fortaleza. Guardias, llevadlo a su celda y preparadlo para el baño. Nos dirá dónde se encuentra su Refugio cuando sea uno de los nuestros.}
 {220}{}{Si estás tan seguro de que hablaré después del baño, ¿a qué viene todo esto?}
 {221}{LIEUT39a}{Bueno, verás, hay un pequeño inconveniente. A veces, el baño, no siempre, mmm... cómo lo diría, estropea un poco la memoria de la persona. Así que hay una pequeña posibilidad de que olvides la ubicación.}

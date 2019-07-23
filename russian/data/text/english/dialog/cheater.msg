@@ -28,18 +28,18 @@
 {127}{}{8    13 лет}
 {128}{}{7  Give items (by type)}
 {129}{}{1  Testing Weapons & All Ammo}
-{130}{}{Препараты}
+{130}{}{2  Drugs}
 {131}{}{3  Food (including new Fixt ones)}
 {132}{}{4  Keys (in inventory or in backpack)}
 {133}{}{5  900000 Bottle Caps (& Small Bag, Bag, Backpack)}
 {134}{}{6  Explosives & Throwing Weapons}
-{135}{}{Книжный шкаф}
+{135}{}{7  Books}
 {136}{}{8  Holodisks (& Radio)}
-{137}{}{Броня}
+{137}{}{9  Armor}
 {138}{}{Each of these selections, including Ammo, except "Testing Weapons", gives ALL items from that category.}
 {139}{}{1  Yes, and delete current inventory first.}
-{140}{}{Да.}
-{141}{}{Нет. [назад]}
+{140}{}{2  Yes.}
+{141}{}{3  No. [back]}
 {142}{}{Give Testing Weapons & All Ammo?}
 {143}{}{Give All Drugs?}
 {144}{}{Give All Food (including new Fixt ones)?}
@@ -48,7 +48,7 @@
 {147}{}{Give All Explosives & All Throwing Weapons?}
 {148}{}{Give All Books?}
 {149}{}{Give All Holodisks (& Radio)?}
-{150}{}{Металлическая броня}
+{150}{}{Give All Armor?}
 {200}{}{Что я могу начитерить для вас сегодня?}
 {201}{}{1  Опыт.}
 {202}{}{2  Урон, Яд, Радиация.}
@@ -75,7 +75,7 @@
 {226}{}{4    Сломать правую руку}
 {227}{}{5    Ослепи меня }
 {228}{}{8    Fully heal, remove all poison, remove ALL rads.}
-{229}{}{ПОПРОБОВАТЬ РОЛЛЫ ммм, роллы}
+{229}{}{TEST ROLLS (mmm, rolls)}
 {230}{}{Договорились.}
 {231}{}{сообщение тут}
 {232}{}{1    500}
@@ -119,14 +119,14 @@
 {270}{}{2  Джанктаун,  Братство Стали,  Город}
 {271}{}{3  Чада Собора, Убежище Мастера, Побережье, Гора}
 {272}{}{4  Хаб}
-{273}{}{5  Могильник Святилище,  Налетчики}
-{274}{}{6  Шейди Сэндс,  Военная База}
+{273}{}{5  Boneyard, Adytum,  Raiders}
+{274}{}{6  Shady Sands,  Military Base, CHILDEAD}
 {275}{}{7  Свечение,  Пустыня}
 {276}{}{8  Караваны}
 {277}{}{9  Специальные}
 {278}{}{9    Ничего.}
 {279}{}{7    Ничего.}
-{280}{}{8    Концовки.}
+{280}{}{8    Play the Endgame Slideshow.}
 {300}{}{DESERT1.MAP}
 {301}{}{DESERT2.MAP}
 {302}{}{DESERT3.MAP}
@@ -194,5 +194,5 @@
 {364}{}{MNTCRVN4.MAP}
 {365}{}{HUBMIS0.MAP - Ирвин}
 {366}{}{HUBMIS1.MAP - Ирвин}
-{400}{}{У вас сейчас $ }
+{400}{}{You are currently level: }
 {401}{}{. }

@@ -157,6 +157,6 @@
 {256}{}{ chapas]}
 {257}{}{¡Eres un mierda! ¡Te has reído de mí! ¡Te voy a sacar esas chapas a mamporros!}
 {258}{}{Es una pena. Me imagino que tendremos que hacerte tragar unas chapas. ¡Guido! ¡Leone!}
-{259}{}{Vale. Supongo que tendrá que ser así. ¿Te das cuenta de que no puedo volver a tratar contigo? Si te vuelvo a ver aquí me veré obligado a imponerte una pena mucho más estricta.}
+{259}{}{All right. I suppose this will have to do. You do realize I can never deal with you again? If I see you in here again I will be forced to exact a much more severe penalty upon you.}
 {260}{}{Me pones enfermo. ¡Dame las chapas y vete! ¡No quiero volver a verte nunca!}
 {261}{}{¡No has tenido suficiente!}

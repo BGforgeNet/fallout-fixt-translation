@@ -12,12 +12,12 @@
 {11}{}{Fuego}
 {12}{}{Plasma}
 {13}{}{Explosión}
-{14}{}{[Ningún objeto]}
+{14}{}{[no item]}
 {15}{}{Dñ:}
 {16}{}{Alc:}
 {17}{}{}
-{18}{}{(No lleva)}
-{19}{}{Necesitas más puntos de acción.}
+{18}{}{(not worn)}
+{19}{}{Need more Action Points to access your inventory.}
 {20}{}{Peso:}
 {21}{}{MOVER OBJETOS}
 {22}{}{TODO}
@@ -27,5 +27,5 @@
 {26}{}{No hay espacio para ese objeto.}
 {27}{}{Vale, es un buen trato.}
 {28}{}{No, tu oferta no es suficiente.}
-{29}{}{Ganas %d puntos de experiencia por usar con éxito tu habilidad (Robar).}
+{29}{}{You earn %d experience for successful use of your Steal skill!}
 {30}{}{Peso:}

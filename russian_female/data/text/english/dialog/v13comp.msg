@@ -14,18 +14,18 @@
 {113}{}{После того, что ты сделала со Смотрителем, ты думаешь мы тебя отпустим?}
 {114}{}{Как можно было совершить такое предательство?!}
 {115}{}{Уходи, маньяк.}
-{116}{}{Компьютер взрывается впечатляющим градом из искр и проводов, вызывая короткое замыкание во всей системе.}
+{116}{}{The computer explodes in a spectacular shower of sparks and wiring, short-circuiting the entire system.}
 {117}{}{Вы видите обломки входного компьютера Убежища 13.}
 {118}{}{Здесь полный беспорядок и полностью отсутствует ремонт.}
 {119}{}{ Эта дверь больше никогда не закроется.}
 {120}{}{ Эта дверь больше никогда не откроется.}
-{121}{}{Мое лицо! Что ты сделал?!}
-{122}{}{Мое лицо! Что ты сделал?!}
-{123}{}{Компьютер в нерабочем состоянии.}
-{124}{}{Когда дверь будет навсегда заперта и не будет замены водяного чипа, жители Убежища 13 быстро обнаружат, что их Убежище стало их гробницей.}
-{125}{}{> Команда?}
-{126}{}{Вы видите медика Убежища 13.}
-{127}{}{Вы видите медика Убежища 13.}
+{121}{}{You bastard! What have you done?!}
+{122}{}{You bitch! What have you done?!}
+{123}{}{The damaged computer is unusable.}
+{124}{}{With the door sealed and no replacement Water Chip, the inhabitants of Vault 13 will soon discover their Vault has become a tomb.}
+{125}{}{> Command? }
+{126}{}{Open the Vault 13 blast door.}
+{127}{}{Close the Vault 13 blast door.}
 {128}{}{Modify configuration parameters.}
 {129}{}{Ничего страшного.}
 {130}{}{Welcome to your SimTek 5000 interactive customization! Vault-Tec is committed to providing a pleasant integration into the outside world. Remember, incorrect settings may cause unstable anomalies! (Warranty void after 2077)}
@@ -33,21 +33,21 @@
 {132}{}{I understand.  [Execute "SPOILERS.EXE"]}
 {133}{}{Opens!}
 {134}{}{Do shut.}
-{135}{}{Певец}
+{135}{}{Changey?}
 {136}{}{Пока.}
 {137}{}{Boosh.  [Execute "SPOILERS.EXE"]}
 {138}{}{Recalibrate Vault 13 water-level monitoring systems.}
 {139}{}{View or modify simulation-terminating parameters.}
-{140}{}{Супермутанты}
+{140}{}{[Super Mutant Invasions]}
 {141}{}{Classify situational combat options.}
 {142}{}{Recalculate cross-wasteland encounter statistics.}
 {143}{}{[Items, Inventory, Bartering]}
-{144}{}{Нада шмотки.}
+{144}{}{[Levelup stuff]}
 {145}{}{[Social sexy times]}
 {146}{}{Hmm... Actually, let's go back.}
-{147}{}{МНЕ ХОЧЕТСЯ!}
+{147}{}{DO NOT WANT!}
 {148}{}{Thanks, I'm all set.  [Exit system]}
-{149}{}{[выйти из системы]}
+{149}{}{This boring!  [Exit system]}
 {150}{}{Okay, I'm done here.  [Go to main menu]}
 {151}{}{Replay historical data feed.}
 {152}{}{Calculating... System monitors indicate that Vault 13 water reserves are currently dropping at a steady rate. Estimated days left until total depletion: }
@@ -68,7 +68,7 @@
 {167}{}{[330]}
 {168}{}{[365]}
 {169}{}{[730]}
-{170}{}{[вернуться к главному меню]}
+{170}{}{Me like.  [Go to main menu]}
 {171}{}{[125]}
 {172}{}{[135]}
 {173}{}{[140]}
@@ -89,20 +89,20 @@
 {188}{}{DISABLED}
 {189}{}{ENABLED}
 {190}{}{Looks good; let's back up.  [Go to previous menu]}
-{191}{}{Создатель}
-{192}{}{Цистерны}
-{193}{}{Вы видите Создателя супермутантов.}
-{194}{}{Вы видите Создателя супермутантов.}
+{191}{}{The Master.}
+{192}{}{The Vats.}
+{193}{}{Either the Master or the Vats.}
+{194}{}{Both the Master and the Vats.}
 {195}{}{To stop invasions of towns, you currently need to eliminate: }
 {196}{}{ Change requirement for cessation?  (Default requirement: The Master)}
 {197}{}{Checking... By default, this simulation will terminate if sensors indicate Vault 13 Survivability has dropped to zero. Current setting: }
-{198}{}{Объявить тревогу по базе.}
+{198}{}{ State the desired status.}
 {199}{}{Нет.}
 {200}{}{Me done! Where other?  [Go to previous menu]}
 {201}{}{Да.}
-{202}{}{!}
-{203}{}{Пайки}
-{204}{}{Навыки}
+{202}{}{k!}
+{203}{}{[Restorations]}
+{204}{}{[Skills]}
 {205}{}{Party members}
 {206}{}{[Custom playstyles]}
 {207}{}{[Misc]}
@@ -114,28 +114,28 @@
 {213}{}{Can the player keep playing after/if they've become a Super Mutant? Current seting: }
 {214}{}{ (Default: No.)}
 {215}{}{[SPECIAL]}
-{216}{}{Святилище}
+{216}{}{Adytum.}
 {217}{}{Некрополь.}
-{218}{}{Хаб}
-{219}{}{Не-а.}
+{218}{}{The Hub.}
+{219}{}{Nah-nah.}
 {220}{}{Братство Стали.}
 {221}{}{Джанктаун.}
 {222}{}{Из Шэйди Сэндс.}
 {223}{}{Из Убежища 13.}
-{224}{}{Итак, назовите характеристику, и я расскажу вам об операции.}
+{224}{}{For which location would you like to change the invasion time?}
 {225}{}{You are viewing number of days until invasion of }
-{226}{}{У вас сейчас $ }
+{226}{}{ Current value: }
 {227}{}{. Select new value below to modify.  (Default value: }
 {228}{}{)}
 {229}{}{Instant (0 days)}
 {230}{}{1/4 of default.}
 {231}{}{1/2 of default.}
-{232}{}{Элитный воин Убежища.}
-{233}{}{Виноват!}
-{234}{}{Виноват!}
-{235}{}{Виноват!}
+{232}{}{Default value.}
+{233}{}{2x default.}
+{234}{}{3x default.}
+{235}{}{4x default.}
 {236}{}{Disabled. (this location will not be invaded)}
-{237}{}{Вы упали на землю.}
+{237}{}{Do weapons fall to the ground upon death?}
 {238}{}{Does player receive dadiation-on-hit from critters?}
 {239}{}{Specifics of Childkiller status}
 {240}{}{Ambient light and Flares}
@@ -158,9 +158,9 @@
 {257}{}{. Toggle status?}
 {258}{}{Weapon Drop Mod is currently: }
 {259}{}{hexes from corpse. Your command?}
-{260}{}{уронил оружие}
-{261}{}{Приступай!}
-{262}{}{1    Да, отключить его.}
+{260}{}{, with weapons dropping }
+{261}{}{ to }
+{262}{}{Disable it.}
 {263}{}{Enable it, with a drop distance of 0 hexes from corpse.}
 {264}{}{Enable it, with a drop distance of 0-1 hexes from corpse.}
 {265}{}{Enable it, with a drop distance of 0-2 hexes from corpse.}
@@ -168,32 +168,32 @@
 {267}{}{Enable it, with a drop distance of 1-2 hexes from corpse.}
 {268}{}{Enable it, with a drop distance of 2 hexes from corpse.}
 {269}{}{No creatures will irradiate the player upon landing an attack. Which type do you wish to toggle?}
-{270}{}{Интеллект}
+{270}{}{Intel indicates: }
 {271}{}{, }
 {272}{}{will have a chance to irradiate the player when landing hits, based on Combat Difficulty and player's stats. Which type do you wish to toggle?}
-{273}{}{Облученная крыса}
+{273}{}{Irradiated Rats}
 {274}{}{Летуны}
-{275}{}{Кентавры:}
-{276}{}{Вы видите светящегося гуля.}
-{277}{}{Вы видите светящегося гуля.}
+{275}{}{Centaurs}
+{276}{}{Glowing Ghouls}
+{277}{}{Non-glowing Ghouls}
 {278}{}{Glowing Ghouls and Irradiated Rats only, with a max of 1 rad per hit (2077 field manual defaults)}
 {279}{}{Only glowing ghouls and irradiated rats will have a chance to irradiate the player when landing hits, with 1/6 chance of 1 rad per hit. Which type do you wish to toggle?}
 {280}{}{Number of times can upgrade Plasma Rifle and Power Armor?}
 {281}{}{Items received at start of game}
-{282}{}{Миссис Стэплтон}
+{282}{}{Mrs Stapleton}
 {283}{}{Киллиан}
-{284}{}{Разрывная ракета}
+{284}{}{Explosives ruin lockers}
 {285}{}{Броня}
-{286}{}{Голодиск}
+{286}{}{Holodisks}
 {287}{}{Swap knockback/no-knockback on Sledgehammers}
 {288}{}{Settings for specific traders/merchants}
 {289}{}{Military Base red forcefields - who do they damage?}
-{290}{}{6  Шейди Сэндс,  Военная База}
+{290}{}{Mr Handy in Military Base}
 {291}{}{Can hired NPCs level up at all?}
 {292}{}{How many player levels per NPC levelup?}
 {293}{}{Is levelup tracking relative or absolute?}
 {294}{}{After joining the player's team, can Ian/Tycho/Katja gain levels? (Currently they }
-{295}{}{Я могу.}
+{295}{}{can.)}
 {296}{}{cannot.)}
 {297}{}{ Vanilla default: hired NPCs did not gain levels.}
 {298}{}{[1]}
@@ -226,7 +226,7 @@
 {325}{}{Remove knockback from all regular Sledgehammers in player's inventory.}
 {326}{}{Add knockback to all Super Sledges in player's inventory.}
 {327}{}{Add knockback to all regular Sledgehammers in player's inventory.}
-{328}{}{Система очистки воздуха}
+{328}{}{Processing... Done!  }
 {329}{}{}
 {330}{}{}
 {331}{}{}
@@ -304,5 +304,5 @@
 {403}{}{}
 {404}{}{}
 {405}{}{}
-{1000}{}{Вы взломали компьютер.}
-{1001}{}{Хмм... интересно, что изменяет эта настройка?}
+{1000}{}{You notice blinking lights on the door computer.}
+{1001}{}{Hmm... I wonder why those are blinking?}

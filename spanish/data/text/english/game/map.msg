@@ -132,45 +132,45 @@
 {164}{}{Montañas}
 {165}{}{Eje}
 {166}{}{Eje}
-{200}{}{Yermo}
-{201}{}{Yermo}
-{202}{}{Yermo}
-{203}{}{Yermo}
-{204}{}{Yermo}
-{205}{}{Yermo}
-{206}{}{Yermo}
-{207}{}{Yermo}
-{208}{}{Yermo}
+{200}{}{Wasteland}
+{201}{}{Wasteland}
+{202}{}{Wasteland}
+{203}{}{Wasteland}
+{204}{}{Wasteland}
+{205}{}{Wasteland}
+{206}{}{Wasteland}
+{207}{}{Wasteland}
+{208}{}{Wasteland}
 {209}{}{Sewers under Hall}
 {210}{}{Sala de los Difuntos}
 {211}{}{Sewers under Hall}
-{212}{}{un agujero de alcantarilla}
+{212}{}{Sewers under Hotel}
 {213}{}{Hotel de la perdición}
-{214}{}{un agujero de alcantarilla}
-{215}{}{El almacén de agua}
+{214}{}{Sewers under Hotel}
+{215}{}{Sewers under Watershed}
 {216}{}{El almacén de agua}
-{217}{}{El almacén de agua}
-{218}{}{Entrada de la Caverna, Zona médica}
+{217}{}{Sewers under Watershed}
+{218}{}{Entrance, Medical}
 {219}{}{Aposentos}
 {220}{}{Library, Supplies, Command}
-{221}{}{Choza}
-{222}{}{Entrada a Cueva}
-{223}{}{Entrada a Cueva}
+{221}{}{Old Shack}
+{222}{}{Cavern Entrance}
+{223}{}{Cavern Entrance}
 {224}{}{Aposentos}
 {225}{}{Library, Supplies, Command}
 {226}{}{Library, Supplies, Command}
-{227}{}{Nivel 1 - Entrada, Zona médica}
-{228}{}{Nivel 2 - Aposentos}
-{229}{}{Nivel 2 - Centro de mando}
-{230}{}{Entrada al Mapa}
-{231}{}{Doc Mórbid}
-{232}{}{Doc Mórbid}
-{233}{}{Casino}
-{234}{}{Casino}
-{235}{}{Casino}
-{236}{}{Generador}
-{237}{}{Generador}
-{238}{}{Generador}
+{227}{}{Level 1 (Sewer Entrance)}
+{228}{}{Level 2 (Living Quarters)}
+{229}{}{Level 3 (Command Center)}
+{230}{}{Entrance, Hospital}
+{231}{}{Doc Morbid's Lab}
+{232}{}{Doc Morbid's Lab}
+{233}{}{Casino, Bar}
+{234}{}{Casino, Bar}
+{235}{}{Casino, Bar}
+{236}{}{General Store, Hotel}
+{237}{}{General Store, Hotel}
+{238}{}{General Store, Hotel}
 {239}{}{Entrada}
 {240}{}{Entrada}
 {241}{}{Entrada}
@@ -180,9 +180,9 @@
 {245}{}{Nivel 3}
 {246}{}{Nivel 4}
 {247}{}{Nivel 4}
-{248}{}{Cuevas de los Escorpiones Rad}
-{249}{}{Cuevas de los Escorpiones Rad}
-{250}{}{Cuevas de los Escorpiones Rad}
+{248}{}{Radscorpion Cave}
+{249}{}{Radscorpion Cave}
+{250}{}{Radscorpion Cave}
 {251}{}{Entrada}
 {252}{}{Torre Nivel 1}
 {253}{}{}
@@ -192,12 +192,12 @@
 {257}{}{Ruinas}
 {258}{}{Ruinas}
 {259}{}{Ruinas}
-{260}{}{pata I}
-{261}{}{pata I}
-{262}{}{pata I}
-{263}{}{pata I}
-{264}{}{pata I}
-{265}{}{pata I}
+{260}{}{Shoreline}
+{261}{}{Shoreline}
+{262}{}{Shoreline}
+{263}{}{Shoreline}
+{264}{}{Shoreline}
+{265}{}{Shoreline}
 {266}{}{Camión volcado}
 {267}{}{Camión volcado}
 {268}{}{Camión volcado}
@@ -207,12 +207,12 @@
 {272}{}{Campo base}
 {273}{}{Campo base}
 {274}{}{Campo base}
-{275}{}{Corral de Brahmines}
-{276}{}{Corral de Brahmines}
-{277}{}{Corral de Brahmines}
-{278}{}{Entrada al Mapa}
-{279}{}{Entrada al Mapa}
-{280}{}{Entrada al Mapa}
+{275}{}{Garden, Brahma Pen}
+{276}{}{Garden, Brahma Pen}
+{277}{}{Garden, Brahma Pen}
+{278}{}{Entrance, Town Hall}
+{279}{}{Entrance, Town Hall}
+{280}{}{Entrance, Town Hall}
 {281}{}{Entrada}
 {282}{}{Entrada}
 {283}{}{Entrada}
@@ -240,24 +240,24 @@
 {305}{}{Caverna, Puerta del Refugio}
 {306}{}{Caverna, Puerta del Refugio}
 {307}{}{Caverna, Puerta del Refugio}
-{308}{}{Integrante de Caravana}
-{309}{}{Integrante de Caravana}
-{310}{}{Integrante de Caravana}
-{311}{}{Carne de Garra Mortal}
-{312}{}{Carne de Garra Mortal}
-{313}{}{Carne de Garra Mortal}
-{314}{}{Casino de Ciudad Vertedero}
+{308}{}{Entrance, Caravaners}
+{309}{}{Entrance, Caravaners}
+{310}{}{Entrance, Caravaners}
+{311}{}{Deathclaw Lair}
+{312}{}{Deathclaw Lair}
+{313}{}{Deathclaw Lair}
+{314}{}{Downtown, Market, Casino}
 {315}{}{Escondrijo de Decker}
 {316}{}{Escondrijo de Decker}
-{317}{}{¿Dónde está Hightower?}
-{318}{}{¿Dónde está Hightower?}
-{319}{}{¿Dónde está Hightower?}
+{317}{}{Heights, Hightower}
+{318}{}{Heights, Hightower}
+{319}{}{Heights, Hightower}
 {320}{}{Ciudad Antigua}
 {321}{}{Gremio de Ladrones}
 {322}{}{Gremio de Ladrones}
-{323}{}{Guardia de los Mercaderes de Agua}
-{324}{}{Guardia de los Mercaderes de Agua}
-{325}{}{Guardia de los Mercaderes de Agua}
+{323}{}{Water Merchants, Church}
+{324}{}{Water Merchants, Church}
+{325}{}{Water Merchants, Church}
 {326}{}{Nivel 1}
 {327}{}{Nivel 2}
 {328}{}{Nivel 3}
@@ -279,12 +279,12 @@
 {344}{}{Ruinas}
 {345}{}{Ruinas}
 {346}{}{Ruinas}
-{347}{}{Paso.}
-{348}{}{Paso.}
-{349}{}{Paso.}
-{350}{}{Paso.}
-{351}{}{Paso.}
-{352}{}{Paso.}
+{347}{}{Pass}
+{348}{}{Pass}
+{349}{}{Pass}
+{350}{}{Pass}
+{351}{}{Pass}
+{352}{}{Pass}
 {353}{}{Huella}
 {354}{}{Huella}
 {355}{}{Huella}
@@ -300,33 +300,33 @@
 {365}{}{Ruinas}
 {366}{}{Ruinas}
 {367}{}{Ruinas}
-{368}{}{Cliente de la Caravana}
-{369}{}{Cliente de la Caravana}
-{370}{}{Cliente de la Caravana}
-{371}{}{Cliente de la Caravana}
-{372}{}{Cliente de la Caravana}
-{373}{}{Cliente de la Caravana}
-{374}{}{Cliente de la Caravana}
-{375}{}{Cliente de la Caravana}
-{376}{}{Cliente de la Caravana}
-{377}{}{Cliente de la Caravana}
-{378}{}{Cliente de la Caravana}
-{379}{}{Cliente de la Caravana}
+{368}{}{Caravan Encounter}
+{369}{}{Caravan Encounter}
+{370}{}{Caravan Encounter}
+{371}{}{Caravan Encounter}
+{372}{}{Caravan Encounter}
+{373}{}{Caravan Encounter}
+{374}{}{Caravan Encounter}
+{375}{}{Caravan Encounter}
+{376}{}{Caravan Encounter}
+{377}{}{Caravan Encounter}
+{378}{}{Caravan Encounter}
+{379}{}{Caravan Encounter}
 {380}{}{Campamento de los Víboras}
 {381}{}{Campamento de los Víboras}
 {382}{}{Campamento de los Víboras}
-{383}{}{Cliente de la Caravana}
-{384}{}{Cliente de la Caravana}
-{385}{}{Cliente de la Caravana}
-{386}{}{Cliente de la Caravana}
-{387}{}{Cliente de la Caravana}
-{388}{}{Cliente de la Caravana}
-{389}{}{Cliente de la Caravana}
-{390}{}{Cliente de la Caravana}
-{391}{}{Cliente de la Caravana}
-{392}{}{Cliente de la Caravana}
-{393}{}{Cliente de la Caravana}
-{394}{}{Cliente de la Caravana}
+{383}{}{Caravan Encounter}
+{384}{}{Caravan Encounter}
+{385}{}{Caravan Encounter}
+{386}{}{Caravan Encounter}
+{387}{}{Caravan Encounter}
+{388}{}{Caravan Encounter}
+{389}{}{Caravan Encounter}
+{390}{}{Caravan Encounter}
+{391}{}{Caravan Encounter}
+{392}{}{Caravan Encounter}
+{393}{}{Caravan Encounter}
+{394}{}{Caravan Encounter}
 {395}{}{Granja de Irwin}
 {396}{}{Granja de Irwin}
 {397}{}{Granja de Irwin}

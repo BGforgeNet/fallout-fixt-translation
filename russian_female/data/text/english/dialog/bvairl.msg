@@ -1,1 +1,1 @@
-{100}{}{Вы замечаете шкафчик на восточной стене. Он такой же, как в вашем Убежище.}
+{100}{}{You notice there is a wall locker on the east wall, just like in your own Vault.}

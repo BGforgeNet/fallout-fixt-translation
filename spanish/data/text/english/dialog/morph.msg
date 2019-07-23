@@ -17,7 +17,7 @@
 {116}{MORP04A}{Te lo advertí. ¡Guardias! }
 {117}{MORP05A}{Eres un mentiroso patético. Dime la verdadera razón de tu presencia ahora mismo... si no quieres que te arranque el pellejo. }
 {118}{}{¡No, de verdad! ¡Me he perdido!}
-{119}{}{Está bien, me has pillado. Estoy aquí para ofrecerte un trato.}
+{119}{}{All right, you got me. I'm here to offer you a deal.}
 {120}{}{Solo estoy mirando.}
 {121}{MORP06}{Sospecho que eres un espía enviado por los Seguidores. Puede que me equivoque, pero no pienso arriesgarme. Debes ser eliminado. }
 {122}{MORP07}{ ¿Qué me puedes ofrecer? }

@@ -1,2 +1,2 @@
-{100}{}{Ёто библиотека. “акое же оборудование вы видели в библиотеке своего ”бежища.}
-{101}{}{ ажетс€, ничего ценного в этой комнате не осталось.}
+{100}{}{This is the Vault 15 library. You've seen this all before in your Vault's library.}
+{101}{}{There looks to be little of value left in the room.}

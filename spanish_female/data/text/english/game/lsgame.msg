@@ -12,7 +12,7 @@
 {111}{}{- VACIO -}
 {112}{}{- ARCHIVO CORRUPTO -}
 {113}{}{- VERSION ANTIGUA -}
-{114}{}{El pupitre está vacío.}
+{114}{}{This save slot is empty.}
 {115}{}{Error!}
 {116}{}{Version antigua.}
 {117}{}{ENE}

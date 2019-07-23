@@ -1,28 +1,28 @@
 {200}{}{Caverna, Puerta del Refugio}
-{201}{}{Entrada de la Caverna, Zona médica}
+{201}{}{Entrance, Medical}
 {202}{}{Aposentos}
 {203}{}{Library, Supplies, Command}
-{210}{}{Choza}
-{211}{}{Entrada a Cueva}
+{210}{}{Old Shack}
+{211}{}{Cavern Entrance}
 {212}{}{Aposentos}
 {213}{}{Library, Supplies, Command}
-{220}{}{Entrada al Mapa}
+{220}{}{Entrance, Town Hall}
 {221}{}{Campo de Cultivo}
 {222}{}{Corral de Brahmines}
 {223}{}{Cuevas de los Escorpiones Rad}
-{230}{}{Entrada al Mapa}
-{231}{}{Generador}
-{232}{}{Casino}
+{230}{}{Entrance, Hospital}
+{231}{}{General Store, Hotel}
+{232}{}{Casino, Bar}
 {240}{}{Campo base}
 {250}{}{Hotel de la perdición}
 {251}{}{Sala de los Difuntos}
 {252}{}{El almacén de agua}
-{260}{}{Integrante de Caravana}
-{261}{}{Casino de Ciudad Vertedero}
-{262}{}{¿Dónde está Hightower?}
+{260}{}{Entrance, Caravaners}
+{261}{}{Downtown, Market, Casino}
+{262}{}{Heights, Hightower}
 {263}{}{Ciudad Antigua}
-{264}{}{Guardia de los Mercaderes de Agua}
-{265}{}{Carne de Garra Mortal}
+{264}{}{Water Merchants, Church}
+{265}{}{Deathclaw Lair}
 {270}{}{Entrada}
 {271}{}{Nivel 1}
 {272}{}{Nivel 2}
@@ -47,7 +47,7 @@
 {304}{}{Almacén}
 {310}{}{Entrada}
 {311}{}{Interior}
-{500}{}{Estás viendo a un Sargento Supermutante.}
+{500}{}{You have stopped the Super Mutant threat.}
 {501}{}{Ruinas}
 {1000}{}{Desierto}
 {1001}{}{Montañas}

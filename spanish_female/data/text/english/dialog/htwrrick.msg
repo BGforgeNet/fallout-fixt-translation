@@ -24,7 +24,7 @@
 {123}{}{Gracias por dedicarme tu tiempo. Adiós.}
 {124}{}{No.}
 {125}{}{No me gusta tu comportamiento. Deberías irte.}
-{126}{}{Vale. Ya me voy.}
+{126}{}{All right. I'm going.}
 {127}{}{¡Déjame en paz, despiadado mastodonte!}
 {128}{}{Después de anochecer nadie puede entrar aquí. Los otros guardias ni siquiera te avisarán. Si te cogen, acabarán contigo. Deberías volver al centro de la ciudad ahora que tienes todavía la cabeza sobre los hombros.}
 {129}{}{VAle. Me vOy.}

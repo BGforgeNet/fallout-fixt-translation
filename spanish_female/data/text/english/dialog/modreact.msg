@@ -7,4 +7,4 @@
 {106}{}{[Más]}
 {107}{}{Zzzzz...}
 {108}{}{[Hecho]}
-{109}{}{No puedo usar eso.}
+{109}{}{I can't use that. Sorry.}

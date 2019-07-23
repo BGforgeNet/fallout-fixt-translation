@@ -16,15 +16,15 @@
 {115}{}{Parece que el perro cree que eres su dueña.}
 {116}{}{Ganas 100 puntos de experiencia por ayudar a Phil a solucionar su enigma canino.}
 {117}{}{¡Guau! ¡Guau! ¡Guau!}
-{118}{}{No, nada. Adiós.}
+{118}{}{Come on, Dogmeat. Good boy.}
 {119}{}{Dogmeat, sit! Good boy. I'll be back soon.}
-{120}{}{¡Vámonos!}
+{120}{}{Let's go, Dogmeat!}
 {121}{}{¡¡¡Cachorrito!!!}
 {122}{}{¿Guau?}
 {123}{}{¿Arf?}
 {124}{}{¡Guau! ¡Guau! ¡Guau!}
 {300}{}{¡¡Perrito!! ¿perrito ser amigo?}
-{301}{}{¡perrito! ¡Quedar! ¡no mover!}
-{302}{}{Muévete, amigito. Buen chico.}
+{301}{}{Doggie stay! no move.}
+{302}{}{Move aside, Dogmeat. Good boy.}
 {303}{}{}
-{304}{}{¡Buen perrito!}
+{304}{}{Good doggie.}

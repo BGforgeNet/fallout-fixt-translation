@@ -24,7 +24,7 @@
 {123}{}{}
 {124}{}{ [Saúl ríe afable.]}
 {125}{}{ [Saúl ríe amenazador.]}
-{126}{}{Está bien. Esto será fácil.}
+{126}{}{All right. This should be quick.}
 {127}{}{Atrévete o cállate.}
 {128}{}{Estás en el lugar adecuado si lo que quieres es que te arregle alguien tu jeta de mona.}
 {129}{}{Soy Saúl.}

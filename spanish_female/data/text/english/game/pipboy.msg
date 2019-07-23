@@ -11,7 +11,7 @@
 {202}{}{Quests}
 {203}{}{No hay tareas actuales.}
 {204}{}{CLUES}
-{205}{}{AUTOMAPAS}
+{205}{}{LOCATION MAPS}
 {206}{}{ARCHIVOS VÍDEO}
 {207}{}{DATOS}
 {208}{}{}
@@ -21,29 +21,29 @@
 {212}{}{de}
 {213}{}{Página}
 {214}{}{[DONE]}
-{215}{}{No se puede descansar en este momento.}
+{215}{}{Cannot rest with hostiles present.}
 {300}{}{DESPERTADOR}
 {301}{}{Puntos de Salud Actuales: }
-{302}{}{Descansar diez minutos}
-{303}{}{Descansar diez minutos}
-{304}{}{Descansar una hora}
-{305}{}{Descansar dos horas}
-{306}{}{Descansar dos horas}
-{307}{}{Descansar dos horas}
-{308}{}{Descansar dos horas}
-{309}{}{Descansar dos horas}
-{310}{}{Descansar hasta la mañana (06:00)}
-{311}{}{Descansar hasta mediodía (12:00)}
-{312}{}{Descansar hasta mediodía (12:00)}
-{313}{}{Descansar hasta medianoche (00:00)}
-{314}{}{Descansar hasta que te cures (todos los PS)}
+{302}{}{Rest for 10 minutes}
+{303}{}{Rest for 30 minutes}
+{304}{}{Rest for 1 hour}
+{305}{}{Rest for 2 hours}
+{306}{}{Rest for 3 hours}
+{307}{}{Rest for 4 hours}
+{308}{}{Rest for 5 hours}
+{309}{}{Rest for 6 hours}
+{310}{}{Rest until 06:00}
+{311}{}{Rest until 12:00}
+{312}{}{Rest until 18:00}
+{313}{}{Rest until 00:00}
+{314}{}{Rest until healed}
 {400}{}{Disco de Experimentos VEF}
 {401}{}{Ubicación Refugios v34.129}
 {402}{}{Disco Antiguo Hermandad}
 {403}{}{Diario Experimentos Alfa}
 {404}{}{Diario Experimentos Delta}
 {405}{}{Informes de Autopsia Vree}
-{406}{}{Transmisión reguladora}
+{406}{}{Regulator Transmissions}
 {407}{}{Transmisiones Mutantes}
 {408}{}{Disco de la Hermandad}
 {409}{}{Disco de Sophia}
@@ -51,23 +51,23 @@
 {411}{}{Audiodiario Richard Grey}
 {412}{}{Diario del Capitán Maxson}
 {413}{}{Investigación VEF}
-{414}{}{Armadura de Energía}
+{414}{}{Power Armor Specs}
 {415}{}{Registros de West Tek}
 {416}{}{Ubicación Refugios v34.129}
-{417}{}{Transmisión reguladora}
+{417}{}{Regulator Transmissions}
 {500}{}{Logo de InterPlay}
 {501}{}{Logo de MacPlay}
 {502}{}{Intro}
 {503}{}{Destrucción de Tanques}
 {504}{}{Destrucción de la Catedral}
 {505}{}{Instrucciones del Supervisor}
-{506}{}{Carencia de Agua en el Refugio 13}
-{507}{}{Invasión del Refugio 13}
-{508}{}{Dejando el Refugio}
-{509}{}{Dejando el Refugio}
-{510}{}{Bañado en los Tanques}
+{506}{}{Vault 13 Water Depleted}
+{507}{}{Vault 13 Super Mutant Invasion}
+{508}{}{Leaving the Vault}
+{509}{}{Leaving the Vault}
+{510}{}{Dipped in The Vats}
 {511}{}{Agua del Refugio 13 acabándose}
-{512}{}{Carencia de Agua en el Refugio 13}
+{512}{}{Vault 13 Water Levels Critical}
 {513}{}{Rae mata al Maestro}
 {600}{}{Estado}
 {601}{}{SIN USAR}
@@ -440,9 +440,9 @@
 {5003}{}{basis of our studies.  By manipulating the amplitude of}
 {5004}{}{the light waves and magnifying the frequency, we have}
 {5005}{}{been able to get lasers which will cut through a few}
-{5006}{}{Eso es cierto. Por desgracia, has visto demasiado. Umm.}
+{5006}{}{feet a steel.  Unfortunately, the power to do such a}
 {5007}{}{task has not been fully developed.  We have other}
-{5008}{}{Viendo las estrellas.}
+{5008}{}{scientists looking into this.}
 {5009}{}{**END-DISK**}
 {6000}{}{• Observaciones Iniciales}
 {6001}{}{**END-PAR**}

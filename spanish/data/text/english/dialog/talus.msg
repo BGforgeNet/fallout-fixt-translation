@@ -115,7 +115,7 @@
 {215}{}{Deja que me lo piense.}
 {216}{}{Enviaré tu autorización ahora mismo. Ve con Michael para que te haga la entrega.}
 {217}{}{, ya era hora de que lucieras tu propia Armadura de Energía. Es un privilegio muy especial para alguien tan nuevo en la orden. Luce nuestra Armadura como símbolo de esperanza mientras atraviesas el yermo, ya que algún día, cuando el mundo esté preparado, surgiremos y restauraremos nuestro maltrecho planeta. Enhorabuena, estamos muy orgullosos de ti. Le daré a Michael la autorización.}
-{218}{}{Veo que otra persona ya te ha entregado la Armadura de Energía. Esperaba poder dártelo yo mismo, pero no importa. Espero que te resulte útil en tu búsqueda.}
+{218}{}{I see someone else already gave you your suit of Power Armor. I was hoping to give it to you myself, but that's all right. I hope it helps you in your quest.}
 {219}{}{¡Vigilad vuestra forma!}
 {220}{}{Prestad atención.}
 {221}{}{¡Nada de aflojar!}

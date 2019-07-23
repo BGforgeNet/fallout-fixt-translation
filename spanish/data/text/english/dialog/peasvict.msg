@@ -1,23 +1,23 @@
-{111}{}{¡Nos atacan!}
-{112}{}{Sí, por favor.}
+{111}{}{We're under attack!}
+{112}{}{Help, please!}
 {113}{}{¡Ayúdanos!}
 {114}{}{Oh no...}
-{115}{}{No quiero hablar contigo.}
-{116}{}{Ayúdame, por favor...}
-{117}{}{Vete por favor.}
-{118}{}{¿Eso es todo?}
-{119}{}{¡Deja que vea tu dolor!}
-{120}{}{Pasas }
-{121}{}{Muchas gracias.}
-{122}{}{Bienvenido, colega.}
-{123}{}{Te puedes marchar sin problemas.}
-{124}{}{Gracias por la charla.}
-{125}{}{Tienes un verdadero problema de comportamiento.}
-{126}{}{Gracias por nada.}
-{127}{}{Gracias por tu ayuda.}
+{115}{}{I don't want to die today...}
+{116}{}{Please help us...}
+{117}{}{Please save us!}
+{118}{}{Is this how it ends?}
+{119}{}{We need your aid!}
+{120}{}{You saved us!}
+{121}{}{Thank you so much.}
+{122}{}{We owe you, friend.}
+{123}{}{You're a lifesaver - literally.}
+{124}{}{We appreciate the help.}
+{125}{}{You have our gratitude, stranger.}
+{126}{}{Thanks again for helping.}
+{127}{}{Thanks for your help!}
 {128}{}{We're in your debt, friend. Please accept these }
 {129}{}{ caps as a token of our appreciate for taking care of those raiders.}
-{130}{}{Gracias por ayudarnos a defendernos de esos saqueadores borrachos. Por ayudarnos a ganar toma estas }
+{130}{}{Thank you for helping us against those damned drunken raiders. For you assistance, we award you these }
 {131}{}{ chapas.}
-{132}{}{¿Quién es su líder?}
-{133}{}{ chapas que te entregamos por ayudarnos a defendernos de esa escoria.}
+{132}{}{We pooled these }
+{133}{}{ caps together and award them to you for your help in defending us against that scum. Farewall, and safe travels!}

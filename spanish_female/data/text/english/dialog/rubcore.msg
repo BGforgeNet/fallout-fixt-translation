@@ -1,1 +1,1 @@
-{100}{}{El resto del Refugio en esta dirección contenía equipo muy delicado que probablemente habrá sido destruido. La posibilidad de que quede algo de valor es remota.}
+{100}{}{The delicate equipment in this direction has been ruined and destroyed. There is a very low chance that anything of value remains.}

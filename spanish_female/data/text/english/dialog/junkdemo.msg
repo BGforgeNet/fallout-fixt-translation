@@ -15,7 +15,7 @@
 {114}{}{Thy lowly ways shall be eradicated from the earth!}
 {115}{}{Only Fools have true knowledge to rule Scrapheap.}
 {116}{}{Begone gut slime of a three legged chicken!}
-{117}{}{¿Qué te pasó? ¿Tu madre te daba en la cabeza cuando eras niño?}
+{117}{}{What happened to you? Your mama drop you on your head at birth?}
 {118}{}{}
 {119}{}{}
 {120}{}{}

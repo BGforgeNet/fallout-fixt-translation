@@ -1,1 +1,1 @@
-{100}{}{На восточной стене есть аптечка. Возможно, в ней лежит что-то полезное.}
+{100}{}{There's an emergency medical cache on the east wall. It may prove useful.}

@@ -85,7 +85,7 @@
 {184}{}{¿Nunca te has cargado a nadie? ¿No estás reuniendo bastante potencia de fuego como para darle envidia a la Hermandad del Acero? ¡Deja de ser un hipócrita! Solo piensas en defenderte a ti mismo. El Maestro defiende a la humanidad de otro ataque de autodestrucción. ¡Es lo mismo!}
 {185}{}{¿Cómo sabes que no hay nadie mejor ahí fuera?}
 {186}{}{Quizás deba tenerlo en cuenta.}
-{187}{}{¿Así que el sacrificio de las masas está justificado si intentas salvar el mundo?}
+{187}{}{So mass slaughter is all right if you intend to save the world?}
 {188}{}{¡Eso son tonterías, señorita!}
 {189}{}{¿Qué infierno crees que es éste? ¡Vivir allí fuera sí que es una pesadilla!}
 {190}{}{¿Cómo sabes que hay algo mejor ahí fuera?}
@@ -102,7 +102,7 @@
 {201}{}{O quizás podamos destrozar sus defensas antes de que tengan tiempo de volver a construirlas. Tal vez podamos unir los demás Refugios y ciudades con un único golpe limpio y rápido. Un mundo unido no será perfecto, pero tendrá más oportunidades de mantenerse unido. ¡Piénsatelo!}
 {202}{}{He observado a la gente de aquí. La Hermandad del Acero y los Niños del Apocalipsis solo quieren que se les deje en paz. Los del Eje creen que pueden construir el mundo: ¡Vaya montón de idiotas! Solo el Maestro tiene la fuerza suficiente para hacer lo que hay que hacer. ¡Piensa en ello!}
 {203}{}{Me alegra oír eso. Espero que tomes la decisión adecuada.}
-{204}{}{No. No está bien en absoluto. Pero es la única solución que podría salvarnos a largo plazo, y por eso estoy con esta gente. ¡No hay otra forma! ¡Piénsalo!}
+{204}{}{No. It isn't all right. But it's the only option that has a chance of saving us over the long term, which is why I'm with these people. There's no better way! Think about it!}
 {205}{}{¿No es cierto? Piénsalo. Piénsalo bien. Si sigues en contra de nosotros, morirás. Has visto nuestras fuerzas, sabes que hay más de lo que se ve. ¡Mucho más! ¡No puedes detenernos! Pero si te unes a nosotros puedes salvar vidas. ¡Piénsalo!}
 {206}{}{No. Pero si veo a alguien más que me caiga bien, podré ayudarle. Ninguno de los de por aquí tendrá una oportunidad de hacerlo. Están todos muertos o convertidos si tienen suerte. Puedes ser uno de esos afortunados. Únete a nosotros. ¡Piénsalo!}
 {207}{}{El mundo no se quedará así. Nunca lo hizo. Y si todo lo que hacemos es construir grupos de enclaves poderosos, puede que alguno de ellos se haga lo suficientemente fuerte como para provocar otra vez el Apocalipsis. Únete a nosotros y reunifiquemos el mundo antes de que esto ocurra. ¡Piénsalo!}

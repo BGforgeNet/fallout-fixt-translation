@@ -28,8 +28,8 @@
 {127}{}{Поймай меня, если сможешь!}
 {128}{}{Нет.}
 {129}{}{Арг!}
-{130}{}{Привет еще раз. Тебе у нас нравится? Мы всегда рады крепким ребятам вроде тебя. Если поселишься у нас, ты не пожалеешь.}
-{131}{}{Привет еще раз. Тебе у нас нравится? Мы всегда рады симпатичным девушкам вроде тебя. Если поселишься у нас, ты не пожалеешь.}
+{130}{}{Hello again. I hope you like our town. A nice guy such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
+{131}{}{Hello again. I hope you like our town. A lovely lady such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
 {132}{}{Привет еще раз. Чем могу помочь?}
 {133}{}{Я не могу болтать с тобой целый день. Мне нужно следить за порядком.}
 {134}{}{Мне нужно сообщить о преступлении!}

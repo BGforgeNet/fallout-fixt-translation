@@ -11,8 +11,8 @@
 {110}{}{¡Fantástico! ¡Vámonos de aquí!}
 {111}{}{Vale, entiendo.}
 {112}{}{Lo haré.}
-{113}{}{De acuerdo.}
-{114}{}{¿Estás bien?}
+{113}{}{All right.}
+{114}{}{Are you all right?}
 {115}{}{Creo que necesitas descansar.}
 {116}{}{Oh, creo que deberías visitar al doctor de la Hermandad.}
 {117}{}{Hemos perdido al Jefe. ¿Te vienes con nosotros? Aún podemos pagarte las 400 chapas.}

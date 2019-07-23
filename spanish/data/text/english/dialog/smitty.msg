@@ -29,4 +29,4 @@
 {128}{}{Dámelo y le echaré un vistazo. [Herreriano coge el Rifle de Plasma, saca las herramientas y empieza a arreglarlo.]}
 {129}{}{Toma, creo que ya está. [Herreriano te devuelve el Rifle de Plasma.] Pruébalo ahí fuera.}
 {130}{}{Como he dicho antes, si encuentras un Rifle de Plasma y me lo traes, puedo hacerle un arreglito para ti.}
-{131}{}{Me alegro de verte de nuevo. Espero que te vaya bien.}
+{131}{}{Good seein' you again. Hope you're doing all right.}

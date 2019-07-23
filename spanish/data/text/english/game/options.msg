@@ -16,16 +16,16 @@
 {110}{}{SUBTITULOS}
 {111}{}{RESALTAR OBJETOS}
 {112}{}{VELOCIDAD COMBATE}
-{113}{}{MENSAJES EN COMBATE}
+{113}{}{FLOAT MESSAGES LIFESPAN}
 {114}{}{VOL. MAESTRO}
-{115}{}{VOL. MUSICA/PELICULA}
+{115}{}{MUSIC AND MOVIE VOLUME}
 {116}{}{VOL. EFECTOS DE SONIDO}
 {117}{}{VOL. DIALOGOS}
-{118}{}{BRILLO/CONTRASTE}
+{118}{}{BRIGHTNESS / CONTRAST}
 {119}{}{SENSIBILIDAD DEL RATON}
 {120}{}{POR DEFECTO}
 {121}{}{CANCELAR}
-{122}{}{Afecta la velocidad del jugador}
+{122}{}{Affect player speed?}
 {123}{}{SIN USAR}
 {201}{}{On}
 {202}{}{Off}
@@ -43,15 +43,15 @@
 {214}{}{Ninguno}
 {215}{}{Minimo}
 {216}{}{Minima sangre}
-{217}{}{ segundos.}
-{218}{}{Mas rapido}
+{217}{}{8 seconds}
+{218}{}{Fast}
 {219}{}{Siempre}
 {220}{}{Mucho}
 {221}{}{Bajo}
 {222}{}{Alto}
 {223}{}{Minimo}
 {224}{}{Ancho}
-{300}{}{PAUSA}
+{300}{}{UNPAUSE}
 {301}{}{PAUSA}
 {1000}{}{SIN USAR}
 {1001}{}{SIN USAR}

@@ -1,1 +1,1 @@
-{100}{}{¬ расположенных в этом направлении отсеках ”бежища, очевидно, было много хрупкого оборудовани€, которое сейчас уже уничтожено. ¬р€д ли там найдетс€ хоть что-то ценное.}
+{100}{}{The delicate equipment in this direction has been ruined and destroyed. There is a very low chance that anything of value remains.}

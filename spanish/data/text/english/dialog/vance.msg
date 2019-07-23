@@ -31,11 +31,11 @@
 {130}{}{Son Justin y Chad. Están aquí para asegurarse de que nadie causa ningún problema.}
 {131}{}{Parecen una pareja de mariquitas.}
 {132}{}{Me alegro de conoceros, chicos.}
-{133}{}{Solo echaba una ojeada por aquí, si os parece bien, chicos.}
+{133}{}{I'm just going to hang out for a while, if it's all right with you guys.}
 {134}{}{Son solo unos amigos míos. Eso es todo lo que necesitas saber. No hagas demasiadas preguntas.}
 {135}{}{Muy bien. ¿Qué es lo que vendes?}
 {136}{}{Sé lo que estás haciendo aquí y no me gusta.}
-{137}{}{Solo echaba una ojeada por aquí, si os parece bien, chicos.}
+{137}{}{I'm just going to hang out for a while, if it's all right with you guys.}
 {138}{}{Volvamos a los negocios.}
 {139}{}{Vale, ¿qué tienes?}
 {140}{}{Creo que voy a esperar un poco.}

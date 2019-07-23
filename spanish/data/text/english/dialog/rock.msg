@@ -2,7 +2,7 @@
 {101}{}{Estás viendo a un hombre.}
 {102}{}{You might want to think about putting that gun away, son. The Crypts don't like it when people flash hardware that way.}
 {103}{}{Oh, really. I'll just go have a talk to them about it. Where are they?}
-{104}{}{Gracias. ¿Puedo tomar algo?}
+{104}{}{Oh, ok. Where can I get a drink?}
 {105}{}{Who are the Crypts?}
 {106}{}{You look like you could use a cool drink.}
 {107}{}{[Hecho]}
@@ -20,7 +20,7 @@
 {119}{}{Glad to hear that you are on the good side in Scrapheap. Welcome to the gang.}
 {120}{}{Gracias.}
 {121}{}{You made a mistake. A terrible, terrible mistake.}
-{122}{}{Bienvenido a Desguace. No te metas en asuntos ajenos.}
+{122}{}{Welcome to Scrapheap, son. Don't be a fool, and you will do ok.}
 {123}{}{Thanks, what is this place?}
 {124}{}{¿Quién está al mando aquí?}
 {125}{}{Scrapheap is the armpit of the desert. No better place to raise children, in my opinion. [Chuckles] This place makes Junktown look like a living city of the ancients.}

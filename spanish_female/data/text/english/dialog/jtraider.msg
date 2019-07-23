@@ -34,8 +34,8 @@
 {133}{}{Quizás. No lo sé.}
 {134}{}{tío}
 {135}{}{tía}
-{136}{}{Pareces un tío legal. Nadie ha querido ayudarme nunca antes. Creo que podemos hablar un poco más.}
-{137}{}{Pareces un tío legal. Nadie ha querido ayudarme nunca antes. Creo que podemos hablar un poco más.}
+{136}{}{You sound like an all right kind of guy. No one ever wanted to help me before. I think we can talk some more.}
+{137}{}{You sound like an all right kind of gal. No one ever wanted to help me before. I think we can talk some more.}
 {138}{}{Déjame solo. ¡Te odio! Eres el demonio. No te escucharé.}
 {139}{}{Hazlo a tu modo.}
 {140}{}{Tienes que escucharme. Tu vida y la de la chica dependen de eso.}
@@ -60,7 +60,7 @@
 {159}{}{No te dispararé. Confía en mí.}
 {160}{}{Nada, tendrás que confiar en lo que te digo.}
 {161}{}{¡De ninguna manera! ¡No confío en ti!}
-{162}{}{De acuerdo. Veremos lo que ocurre, ¿verdad?}
+{162}{}{All right. We'll see what happens, won't we.}
 {163}{}{Aquí tienes 100 chapas. Que tengas un buen día.}
 {164}{}{Te puedes marchar sin problemas.}
 {165}{}{Quiero mis chapas. Quiero 200 chapas.}

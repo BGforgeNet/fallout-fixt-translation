@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un devoto miembro de los Niños de la Catedral.}
+{100}{}{You see a devout Child of the Cathedral.}
 {101}{}{Ofrecemos la curación del cuerpo para sanar el espíritu. ¿Puedo ayudarte?}
 {102}{}{Sí, ayúdame.}
 {103}{}{¿Quién eres?}

@@ -34,7 +34,7 @@
 {133}{}{Necesito hablar con el Sr. Hightower.}
 {134}{}{Vale, colega. Vamos. [León te agarra del brazo.]}
 {135}{}{¡Quita tus asquerosas manos de mí!}
-{136}{}{¡Vale, vale! Me voy.}
+{136}{}{All right, all right! I'm going.}
 {137}{}{¡Espera! ¡No he terminado!}
 {138}{}{¡Uh!}
 {139}{}{¡Ay!}

@@ -19,6 +19,6 @@
 {118}{}{Fine, then. Heh.}
 {119}{}{Está bien que hayas preguntado. No se pueden desenfundar las armas si no es en defensa propia. Si empiezas una pelea, será culpa tuya. Otra cosa distinta es que vayas por ahí armada. No saques ni un cuchillo ni una pistola sin un motivo real. Que tengas un buen día.}
 {120}{}{Thanks - you, too.}
-{121}{}{Eh tú, ¡nada de armas! Y no me importa si tu madre te golpeó cuando eras pequeño.}
+{121}{}{Hey you, no weapons! And I don't care if your mama dropped you on your head as a kid. No weapons.}
 {122}{}{Dorf!}
 {123}{}{You earn 150 experience for killing the guard.}

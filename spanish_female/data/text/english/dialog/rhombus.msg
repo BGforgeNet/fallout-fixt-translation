@@ -26,7 +26,7 @@
 {125}{}{Te podría derrotar fácilmente en combate.}
 {126}{Rhom9}{No soy yo quien debo contestar a eso. Habla con el Anciano Mayor si lo deseas.}
 {127}{}{¡Oh, venga, por favor!}
-{128}{}{Está bien. ¿Te puedo hacer más preguntas?}
+{128}{}{All right, fine. Can I ask you a few more questions?}
 {129}{Rhom10}{Corre el rumor de que se está reuniendo un extraño ejército. No diré más.}
 {130}{}{Oh, vamos, por fa.}
 {131}{}{Aun así, ¿te puedo hacer unas preguntas más?}
@@ -60,7 +60,7 @@
 {159}{Rhom21}{Habla con Vree, en la biblioteca principal.}
 {160}{Rhom22}{No creo en los rumores.}
 {161}{}{Oh vamos, ¿sólo uno? ¿Por favor?}
-{162}{}{¿Puedo preguntarte algo más?}
+{162}{}{Fine. Can I ask you something else though?}
 {163}{Rhom23}{El Eje está al sur. Nosotros comerciamos con ellos.}
 {164}{Rhom24}{¡Devuélvemelo, ahora!}
 {165}{Rhom25}{Esto es lo que les hacemos a los criminales...}
@@ -68,7 +68,7 @@
 {167}{Rhom27}{¿Así que eres una ladrona? Te mostraré lo que hacemos con las ladronas...}
 {168}{}{¡Espera! ¡Puedo explicarme!}
 {169}{}{Adelante. Y apunta bien.}
-{170}{Rhom28}{Está bien, explícate, Iniciado.}
+{170}{Rhom28}{All right, explain yourself, Initiate.}
 {171}{}{¡Solo echaba un vistazo!}
 {172}{}{Lo siento. No sabía que ésta era tu habitación.}
 {173}{Rhom29}{Entonces vete, olvidaremos este incidente.}

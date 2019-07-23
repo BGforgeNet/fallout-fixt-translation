@@ -14,18 +14,18 @@
 {113}{}{Después de lo que le hiciste al Supervisor, ¿pensabas que te dejaríamos volver?}
 {114}{}{¡¿Cómo has podido traicionarnos de esta manera?!}
 {115}{}{Lárgate, lunática.}
-{116}{}{El ordenador explota en una espectacular lluvia de chispas y cables, cortocircuitando todo los mecanismos.}
+{116}{}{The computer explodes in a spectacular shower of sparks and wiring, short-circuiting the entire system.}
 {117}{}{Estás viendo el ordenador destruido de la puerta de entrada al Refugio 13.}
 {118}{}{Es un desastre absoluto y es imposible de reparar.}
 {119}{}{ La puerta no se volverá a cerrar nunca más.}
 {120}{}{ La puerta no se volverá a abrir nunca más.}
-{121}{}{¡Mi cara! ¡Qué has hecho!}
-{122}{}{¡Mi cara! ¡Qué has hecho!}
-{123}{}{El ordenador está inutilizado.}
-{124}{}{Con la puerta sellada para siempre y sin un Chip de Agua de repuesto, los habitantes del Refugio 13 pronto descubrirán que su Refugio se ha convertido en una tumba.}
-{125}{}{> ¿Comando?}
-{126}{}{Estás viendo al médico del Refugio 13.}
-{127}{}{Estás viendo al médico del Refugio 13.}
+{121}{}{You bastard! What have you done?!}
+{122}{}{You bitch! What have you done?!}
+{123}{}{The damaged computer is unusable.}
+{124}{}{With the door sealed and no replacement Water Chip, the inhabitants of Vault 13 will soon discover their Vault has become a tomb.}
+{125}{}{> Command? }
+{126}{}{Open the Vault 13 blast door.}
+{127}{}{Close the Vault 13 blast door.}
 {128}{}{Modify configuration parameters.}
 {129}{}{Nada, no importa.}
 {130}{}{Welcome to your SimTek 5000 interactive customization! Vault-Tec is committed to providing a pleasant integration into the outside world. Remember, incorrect settings may cause unstable anomalies! (Warranty void after 2077)}
@@ -33,21 +33,21 @@
 {132}{}{I understand.  [Execute "SPOILERS.EXE"]}
 {133}{}{Opens!}
 {134}{}{Do shut.}
-{135}{}{Miembro del Coro}
+{135}{}{Changey?}
 {136}{}{A-diós.}
 {137}{}{Boosh.  [Execute "SPOILERS.EXE"]}
 {138}{}{Recalibrate Vault 13 water-level monitoring systems.}
 {139}{}{View or modify simulation-terminating parameters.}
-{140}{}{Supermutantes}
+{140}{}{[Super Mutant Invasions]}
 {141}{}{Classify situational combat options.}
 {142}{}{Recalculate cross-wasteland encounter statistics.}
 {143}{}{[Items, Inventory, Bartering]}
-{144}{}{Necesito algunas cosas.}
+{144}{}{[Levelup stuff]}
 {145}{}{[Social sexy times]}
 {146}{}{Hmm... Actually, let's go back.}
-{147}{}{¡YO QUERER!}
+{147}{}{DO NOT WANT!}
 {148}{}{Thanks, I'm all set.  [Exit system]}
-{149}{}{[salir del sistema]}
+{149}{}{This boring!  [Exit system]}
 {150}{}{Okay, I'm done here.  [Go to main menu]}
 {151}{}{Replay historical data feed.}
 {152}{}{Calculating... System monitors indicate that Vault 13 water reserves are currently dropping at a steady rate. Estimated days left until total depletion: }
@@ -68,7 +68,7 @@
 {167}{}{[330]}
 {168}{}{[365]}
 {169}{}{[730]}
-{170}{}{[volver al menú principal]}
+{170}{}{Me like.  [Go to main menu]}
 {171}{}{[125]}
 {172}{}{[135]}
 {173}{}{[140]}
@@ -89,20 +89,20 @@
 {188}{}{DISABLED}
 {189}{}{ENABLED}
 {190}{}{Looks good; let's back up.  [Go to previous menu]}
-{191}{}{Maestro}
-{192}{}{Tanques}
-{193}{}{Estás viendo al Maestro de los Supermutantes.}
-{194}{}{Estás viendo al Maestro de los Supermutantes.}
+{191}{}{The Master.}
+{192}{}{The Vats.}
+{193}{}{Either the Master or the Vats.}
+{194}{}{Both the Master and the Vats.}
 {195}{}{To stop invasions of towns, you currently need to eliminate: }
 {196}{}{ Change requirement for cessation?  (Default requirement: The Master)}
 {197}{}{Checking... By default, this simulation will terminate if sensors indicate Vault 13 Survivability has dropped to zero. Current setting: }
-{198}{}{Fijar la base en estado de alerta.}
+{198}{}{ State the desired status.}
 {199}{}{No.}
 {200}{}{Me done! Where other?  [Go to previous menu]}
 {201}{}{Sí.}
-{202}{}{!}
-{203}{}{Raciones}
-{204}{}{Habilidades}
+{202}{}{k!}
+{203}{}{[Restorations]}
+{204}{}{[Skills]}
 {205}{}{Party members}
 {206}{}{[Custom playstyles]}
 {207}{}{[Misc]}
@@ -114,28 +114,28 @@
 {213}{}{Can the player keep playing after/if they've become a Super Mutant? Current seting: }
 {214}{}{ (Default: No.)}
 {215}{}{[SPECIAL]}
-{216}{}{Adytum}
+{216}{}{Adytum.}
 {217}{}{Necrópolis.}
-{218}{}{Eje}
-{219}{}{Nopnop.}
+{218}{}{The Hub.}
+{219}{}{Nah-nah.}
 {220}{}{La Hermandad del Acero.}
 {221}{}{Ciudad Vertedero.}
 {222}{}{De Arenas Sombrías.}
 {223}{}{Del Refugio 13.}
-{224}{}{Vale, ¿de qué operación quieres hablar?}
+{224}{}{For which location would you like to change the invasion time?}
 {225}{}{You are viewing number of days until invasion of }
-{226}{}{Actualmente tienes }
+{226}{}{ Current value: }
 {227}{}{. Select new value below to modify.  (Default value: }
 {228}{}{)}
 {229}{}{Instant (0 days)}
 {230}{}{1/4 of default.}
 {231}{}{1/2 of default.}
-{232}{}{Élite del Refugio.}
-{233}{}{¡Es culpa mía!}
-{234}{}{¡Es culpa mía!}
-{235}{}{¡Es culpa mía!}
+{232}{}{Default value.}
+{233}{}{2x default.}
+{234}{}{3x default.}
+{235}{}{4x default.}
 {236}{}{Disabled. (this location will not be invaded)}
-{237}{}{Caes al suelo.}
+{237}{}{Do weapons fall to the ground upon death?}
 {238}{}{Does player receive dadiation-on-hit from critters?}
 {239}{}{Specifics of Childkiller status}
 {240}{}{Ambient light and Flares}
@@ -159,8 +159,8 @@
 {258}{}{Weapon Drop Mod is currently: }
 {259}{}{hexes from corpse. Your command?}
 {260}{}{, with weapons dropping }
-{261}{}{¡Ve hacia él!}
-{262}{}{1    Sí, desactívalo.}
+{261}{}{ to }
+{262}{}{Disable it.}
 {263}{}{Enable it, with a drop distance of 0 hexes from corpse.}
 {264}{}{Enable it, with a drop distance of 0-1 hexes from corpse.}
 {265}{}{Enable it, with a drop distance of 0-2 hexes from corpse.}
@@ -168,32 +168,32 @@
 {267}{}{Enable it, with a drop distance of 1-2 hexes from corpse.}
 {268}{}{Enable it, with a drop distance of 2 hexes from corpse.}
 {269}{}{No creatures will irradiate the player upon landing an attack. Which type do you wish to toggle?}
-{270}{}{Inteligencia}
+{270}{}{Intel indicates: }
 {271}{}{, }
 {272}{}{will have a chance to irradiate the player when landing hits, based on Combat Difficulty and player's stats. Which type do you wish to toggle?}
-{273}{}{Rata Contaminada}
+{273}{}{Irradiated Rats}
 {274}{}{unos flotantes}
-{275}{}{Centauros:}
-{276}{}{Ves: a un necrófago resplandeciente.}
-{277}{}{Ves: a un necrófago resplandeciente.}
+{275}{}{Centaurs}
+{276}{}{Glowing Ghouls}
+{277}{}{Non-glowing Ghouls}
 {278}{}{Glowing Ghouls and Irradiated Rats only, with a max of 1 rad per hit (2077 field manual defaults)}
 {279}{}{Only glowing ghouls and irradiated rats will have a chance to irradiate the player when landing hits, with 1/6 chance of 1 rad per hit. Which type do you wish to toggle?}
 {280}{}{Number of times can upgrade Plasma Rifle and Power Armor?}
 {281}{}{Items received at start of game}
-{282}{}{Srta. Stapleton}
+{282}{}{Mrs Stapleton}
 {283}{}{Killian}
-{284}{}{Misil Explosivo}
+{284}{}{Explosives ruin lockers}
 {285}{}{Armadura}
-{286}{}{Holodisk}
+{286}{}{Holodisks}
 {287}{}{Swap knockback/no-knockback on Sledgehammers}
 {288}{}{Settings for specific traders/merchants}
 {289}{}{Military Base red forcefields - who do they damage?}
-{290}{}{6  Arenas Sombrías,  Base Militar}
+{290}{}{Mr Handy in Military Base}
 {291}{}{Can hired NPCs level up at all?}
 {292}{}{How many player levels per NPC levelup?}
 {293}{}{Is levelup tracking relative or absolute?}
 {294}{}{After joining the player's team, can Ian/Tycho/Katja gain levels? (Currently they }
-{295}{}{Puedo.}
+{295}{}{can.)}
 {296}{}{cannot.)}
 {297}{}{ Vanilla default: hired NPCs did not gain levels.}
 {298}{}{[1]}
@@ -226,7 +226,7 @@
 {325}{}{Remove knockback from all regular Sledgehammers in player's inventory.}
 {326}{}{Add knockback to all Super Sledges in player's inventory.}
 {327}{}{Add knockback to all regular Sledgehammers in player's inventory.}
-{328}{}{una Unidad de Procesamiento de Aire}
+{328}{}{Processing... Done!  }
 {329}{}{}
 {330}{}{}
 {331}{}{}
@@ -304,5 +304,5 @@
 {403}{}{}
 {404}{}{}
 {405}{}{}
-{1000}{}{Has hackeado al ordenador.}
-{1001}{}{Ummm... me pregunto que cambiará esta opción}
+{1000}{}{You notice blinking lights on the door computer.}
+{1001}{}{Hmm... I wonder why those are blinking?}

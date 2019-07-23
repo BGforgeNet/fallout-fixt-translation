@@ -21,7 +21,7 @@
 {120}{}{Bien, vuelve si decides trabajar para nosotros. Recuerda, los días 1, 5, etc. Adiós.}
 {121}{}{Lo siento, pero no puedo contratarte a menos que puedas comunicarte de forma clara con el resto de los empleados.}
 {122}{}{Por favor, vuelve cuando te sientas mejor.}
-{123}{}{Eh, ¿estás bien? Creo que necesitas algo de comer, pero no vayas al establecimiento de Bob.}
+{123}{}{Uh, are you all right? I think you need to get something to eat, but don't go to Bob's.}
 {124}{}{¡He dicho que te vayas!}
 {125}{}{Estoy muy decepcionado... ¡Tú robando! ¿Me vas a decir por qué lo hiciste?}
 {126}{}{Porque soy una cosa verde del espacio exterior, ¡y soy... mala!}

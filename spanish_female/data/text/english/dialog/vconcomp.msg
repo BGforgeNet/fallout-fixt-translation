@@ -18,14 +18,14 @@
 {117}{}{\> Ejecutando 31914-1041-1251514 ...}
 {118}{}{\> Ejecutando 53478-2565-7763929 ...}
 {119}{}{\> Ejecutando 44309-3674-1254730 ...}
-{120}{}{(¡Has logrado entrar en la tabla de codificación!)       > ¿Comando?}
+{120}{}{(You have successfully hacked into the encryption table!)       > Clearance authorized. Command?}
 {121}{}{[17652-1028-1285362]   Autodestrucción silenciosa en 1 minuto.}
 {122}{}{[67209-5574-7805564]  Autodestrucción en 1 minuto.}
 {123}{}{[55658-8678-1251533]   Poner la base en alerta.}
-{124}{}{[31914-1041-1251514]     Autodestrucción silenciosa en 3 minuto.}
+{124}{}{[31914-1041-1251514]      Silent self-destruct in 3 minutes.}
 {125}{}{[53478-2565-7763929]   Autodestrucción en 3 minuto.}
-{126}{}{[44309-3674-1254730]   Secuencia de autodestrucción inmediata.}
-{127}{}{Comando no válido. Finaliza la sesión de entrada.}
+{126}{}{[44309-3674-1254730]    Immediate self-destruct sequence.}
+{127}{}{Invalid command. Ending input session.}
 {128}{}{Especifique el registro que quiere revisar.}
 {129}{}{Grey}
 {130}{}{Boyarsky}
@@ -33,10 +33,10 @@
 {132}{}{Anderson}
 {133}{}{¿Transferir registro de Richard Grey?}
 {134}{}{Sí.}
-{135}{}{[volver al menú principal]  No.}
+{135}{}{No. [Return to previous menu]}
 {136}{}{¿Transferir registro del Capitán Maxson?}
 {137}{}{Sí.}
-{138}{}{[volver al menú principal]}
+{138}{}{[Return to main menu]}
 {139}{}{ERROR: Final de línea inesperado. Encontrados datos erróneos.}
 {140}{}{> ¿Comando?}
 {141}{}{Conexión realizada. ¿Cuál es su comando?}
@@ -79,10 +79,10 @@
 {178}{}{Intentas usar el ordenador, pero el sistema es demasiado complejo. Tendrás que seguir intentándolo.}
 {179}{}{La explosión destruye el sistema de Control de los Tanques. Sin ninguna regulación, estará fuera de control dentro de unos minutos.}
 {180}{}{Deslizas la tarjeta de seguridad por el lector de la terminal. El terminal hace ruidos y de repente aparece una pantalla no codificada.}
-{181}{}{[salir del sistema]}
+{181}{}{[Exit system]}
 {182}{}{Poner la base en alerta y deshabilitar el terminal.}
-{183}{}{[10710-8971-2014510]     Activar alarma y deshabilitar el terminal.}
-{184}{}{[31914-1041-1251514]      Autodestrucción silenciosa en 5 minuto.}
+{183}{}{[10710-8971-2014510]     Activate alarms, disable console.}
+{184}{}{[41515-2114-0141913]      Silent self-destruct in 5 minutes.}
 {185}{}{10710-8971-2014510.}
 {186}{}{76223-4533-2540092.}
 {187}{}{[76223-4533-2540092]   Autodestrucción en 1 minuto.}
@@ -92,22 +92,22 @@
 {201}{}{Desactivar las alarmas de la base.}
 {202}{}{Comando completado satisfactoriamente.}
 {203}{}{[Continuar]}
-{204}{}{[volver al menú principal]}
+{204}{}{Never mind. [Return to main menu]}
 {205}{}{\> Ejecutando 536475-69-62656B ... ... ... Comando completado satisfactoriamente.}
 {206}{}{\> Ejecutando 10710-8971-2014510 ...}
 {207}{}{ERROR: Registros ya presentes en el Pip-Boy 2000. Abortando.}
-{208}{}{[volver al menú principal]}
+{208}{}{Never mind. [Return to main menu]}
 {300}{}{10810-1103-9799121.}
-{301}{}{[10810-1103-9799121]     Autodestrucción en 5 minuto.}
+{301}{}{[10810-1103-9799121]      Self-destruct in 5 minutes.}
 {302}{}{\> Ejecutando 10810-1103-9799121 ...}
 {303}{}{83100-1171-0539115.}
 {304}{}{[83100-1171-0539115]     Autodestrucción silenciosa en 10 minuto.}
 {305}{}{\> Ejecutando 83100-1171-0539115 ...}
-{400}{}{\> Ejecutando 31914-1041-1251514 ...}
+{400}{}{\> Executing 41515-2114-0141913 ...}
 {401}{}{31415-9265-3589793.}
-{402}{}{[53478-2565-7763929]   Autodestrucción en 3 minuto.}
-{403}{}{\> Ejecutando 53478-2565-7763929 ...}
+{402}{}{[31415-9265-3589793]     Self-destruct in 10 minutes.}
+{403}{}{\> Executing 31415-9265-3589793 ...}
 {404}{}{41515-2114-0141913.}
 {405}{}{Display security code encryption table. [Insert the Lieutenant's decoder disk]}
-{406}{}{Mostrar códigos de seguridad.}
-{407}{}{Código de autorización no válido. ¿Comando?}
+{406}{}{Display unencrypted security codes.}
+{407}{}{> Clearance authorized. Command?}

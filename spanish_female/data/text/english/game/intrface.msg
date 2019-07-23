@@ -1,3 +1,3 @@
 {100}{}{SIGILO}
 {101}{}{LEVEL UP}
-{102}{}{ADICTO}
+{102}{}{ADDICTED}

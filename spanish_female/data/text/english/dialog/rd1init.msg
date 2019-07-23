@@ -13,7 +13,7 @@
 {112}{}{Sí, los Escribas tienen un papel tan creativo. Sería estupendo diseñar nuevas armas, modificar las antiguas y guardar informes con los detalles de cada objeto de la Hermandad. ¿Te estoy aburriendo? Algunos dicen que hablo mucho, pero creo que no me entienden. Tengo mucho que decir.}
 {113}{}{Sí, todavía intento tomar una decisión. Es difícil, ya que ambas son emocionantes. Por cierto, si quieres la litera de arriba dímelo, me da igual.}
 {114}{}{Gracias, adiós.}
-{115}{}{¿Estás bien? Quizá necesitarías ver al doctor o puede que solo te haga falta dormir. Será mejor que siga estudiando. Adiós.}
+{115}{}{Are you all right? Maybe you need to see the doctor or maybe you just need some sleep. Well I better get back to studying. Bye.}
 {116}{}{Oh, por cierto, me alegro de que seas mi nueva compañera de habitación. El anterior siempre llevaba tapones en los oídos, no sé por qué. De cualquier manera, puedes dejar aquí lo que quieras, yo no necesito mucho sitio. ¿Quieres la litera de arriba? Me cambiaré si quieres... No roncas, ¿verdad? Oh, no importa. Hasta luego.}
 {117}{}{Sí, justo lo que pensaba. Bueno, me alegro de que seas mi nueva compañera de habitación. El anterior siempre llevaba tapones en los oídos, no sé por qué. Puedes dejar aquí lo que quieras, yo no necesito mucho sitio. ¿Quieres la litera de arriba? Me cambiaré si quieres... No roncas, ¿verdad? Oh, da igual. Hasta luego.}
 {118}{}{Despiértame si ronco.}

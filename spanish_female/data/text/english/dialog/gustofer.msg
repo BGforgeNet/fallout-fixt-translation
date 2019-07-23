@@ -21,7 +21,7 @@
 {120}{}{¿Quieres apostar por Saúl o por el desafiador? Dicen que va a ganar Saúl. La apuesta está en 25 chapas, son 50 si ganas apostando por Saúl, ¡100 si ganas apostando por el desafiador!}
 {121}{}{Apostaré por Saul.}
 {122}{}{Apostaré por el desafiador.}
-{123}{}{Supongo que no.}
+{123}{}{All right, I guess.}
 {124}{}{¿Quién es el boxeador?}
 {125}{}{¿Quién lleva esos combates?}
 {126}{}{Uh, no importa.}

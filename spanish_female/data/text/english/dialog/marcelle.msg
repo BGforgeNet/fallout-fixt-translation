@@ -7,7 +7,7 @@
 {106}{}{Oh, sí, espero que puedas hacerlo. Está en su habitación. ¡Ayúdala!}
 {107}{}{Eres una persona increíblemente fría. Ella podría morir sin tu ayuda.}
 {108}{}{La vida es dura.}
-{109}{}{Vale, no me agobies. Lo intentaré.}
+{109}{}{All right, don't harp on me. I'll look into it.}
 {110}{}{Ayuda a Sinthia. Tiene problemas.}
 {111}{}{Gracias por ayudar a Sinthia. Normalmente no da problemas. Te mereces una noche de descanso. A mi cuenta. Pero no me pidas otro favor.}
 {112}{}{Unn. Ahh.}

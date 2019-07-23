@@ -29,7 +29,7 @@
 {256}{}{explosion}
 {300}{}{Ninguno}
 {301}{}{Cohete}
-{302}{}{Combustible de Lanzallamas}
+{302}{}{Flamer Fuel}
 {303}{}{Célula de Energía C}
 {304}{}{Célula de Energía D}
 {305}{}{.223}
@@ -65,22 +65,22 @@
 {461}{}{Perros:}
 {462}{}{Mantis:}
 {463}{}{Garras Mortales:}
-{464}{}{Maestro}
-{465}{}{Esta línea muestra el número de humanos adultos de sexo masculino que has eliminado forzada y permanentemente del acervo genético.}
+{464}{}{The Master:}
+{465}{}{This is the number of adult human males that you have permanently and forcefully removed from the gene pool.}
 {466}{}{Esta línea muestra el número de humanos adultos de sexo femenino que has liquidado brutalmente en el transcurso de tus aventuras.}
 {467}{}{La cantidad de inocentes e indefensos niños humanos que has matado en el transcurso de tus aventuras. Canalla.}
 {468}{}{Este es el número total de espantosos Supermutantes que has masacrado a través del yermo.}
 {469}{}{Número de criaturas irradiadas con aspecto de zombi has puesto a descansar. Incluye miembros de ambos sexos. (Tampoco hay mucha diferencia en lo que a ti te concierne)}
-{470}{}{Tu lista de cuantos Brahmines (vacas bicéfalas mutantes) has picado y descuartizado en tus viajes.}
-{471}{}{Esta línea muestra el número de Escorpiones mutantes gigantes que has matado durante tus viajes por el yermo.}
+{470}{}{This is the tally of how many brahmin (mutant two-headed cows) you have chopped up and butchered during your travels.}
+{471}{}{This is the number of huge mutated scorpions that you have exterminated as you strode the land.}
 {472}{}{Este es el número de adorables y peludas ratas que has eliminado de la cadena alimenticia. Incluye a todos los miembros de la familia de las ratas.}
 {473}{}{Este es el número total de esas criaturas mutantes extrañas y flotantes a las que has dado muerte con gusto.}
 {474}{}{Tu lista de cuantos monstruosos multicéfalos y multípedos Centauros has tenido el placer de ejecutar.}
 {475}{}{Este es el número de robots que has destruido sin ninguna piedad, convertido en piezas de repuesto, o simplemente desactivado.}
-{476}{}{Esta línea muestra el número total de amables y cariñosos perritos que has mandado a la gran perrera del cielo. Desalmado.}
-{477}{}{El número total del Mantis muertas, o de grandes insectos mutantes parecidas a las mantis, que has aniquilado.}
-{478}{}{Esta línea indica que has liquidado a la legendaria Garra Mortal y/o a cualquiera de su feroz descendencia.}
-{479}{}{Has matado al Maestro. ¡Maestro! Maestro.}
+{476}{}{This line shows how many nice friendly doggies you have sent to the great kennel in the sky, you heartless jerk.}
+{477}{}{This is the total number of manti (oversized mutated preying mantis-like insects) that you have squashed so far.}
+{478}{}{This line indicates that you have slain the legendary Deathclaw, and/or any of her many ferocious spawn. Well done.}
+{479}{}{This indicates you have killed the Master. Master! Master.}
 {480}{}{Ves: %s.}
 {485}{}{Examinas: %s.}
 {486}{}{Cierras: %s.}
@@ -157,7 +157,7 @@
 {676}{}{No creo que pueda hacerlo.}
 {677}{}{¡Arf!}
 {678}{}{¡Guau!}
-{700}{}{No tienes suficientes dinero para jugar.}
+{700}{}{You do not have enough Action Points to do that.}
 {800}{}{Lees el libro.}
 {801}{}{No aprendes nada nuevo.}
 {802}{}{Aprendes sobre la aplicación práctica de las ciencias y la tecnología.}

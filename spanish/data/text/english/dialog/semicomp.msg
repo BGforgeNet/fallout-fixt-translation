@@ -1,4 +1,4 @@
-{100}{}{Estás viendo un ordenador que reluce débilmente.}
+{100}{}{You see a dimly-glowing computer.}
 {101}{}{Llega muy poca energía. Parece que la mayor parte de la energía está destinada a mantener los pocos sistemas que se encuentran semiactivos.}
 {102}{}{No notas nada raro.}
 {103}{}{Este ordenador emite un zumbido extraño.}

@@ -1,14 +1,14 @@
-{100}{}{Necesitas más puntos de acción.}
-{101}{}{El pupitre está vacío.}
-{102}{}{Objetivo fuera de alcance.}
-{103}{}{El combate no puede terminar en este momento. Si no hay enemigos, intente terminar el turno.}
+{100}{}{You need %d Action Points to do that.}
+{101}{}{This weapon's clip is empty.}
+{102}{}{Target is out of range for this weapon.}
+{103}{}{Cannot end combat now. If no hostiles are present, try End Turn.}
 {104}{}{Tu objetivo está bloqueado.}
-{105}{}{No puedes usar armas con ambos brazos heridos.}
-{106}{}{No puedes usar armas de dos manos con un brazo herido.}
-{107}{}{No eres lo suficientemente fuerte para usar bien esta arma.}
+{105}{}{You cannot use weapons with both arms crippled.}
+{106}{}{You cannot use two-handed weapons with a crippled arm.}
+{107}{}{You are not strong enough to use this weapon properly.}
 {108}{}{ y }
-{200}{}{la dejan fuera de combate}
-{201}{}{es derribada}
+{200}{}{were knocked out}
+{201}{}{were knocked down}
 {202}{}{te lisias la pierna izquierda}
 {203}{}{te lisias la pierna derecha }
 {204}{}{te lisias el brazo izquierdo}
@@ -30,8 +30,8 @@
 {220}{}{es golpeada al azar}
 {221}{}{se lisia un miembro al azar}
 {222}{}{acribillada con fragmentos}
-{250}{}{la dejan fuera de combate}
-{251}{}{es derribada}
+{250}{}{were knocked out}
+{251}{}{were knocked down}
 {252}{}{te lisias la pierna izquierda}
 {253}{}{te lisias la pierna derecha }
 {254}{}{te lisias el brazo izquierdo}
@@ -53,8 +53,8 @@
 {270}{}{es golpeada al azar}
 {271}{}{se lisia un miembro al azar}
 {272}{}{acribillada con fragmentos}
-{300}{}{la dejan fuera de combate}
-{301}{}{es derribada}
+{300}{}{was knocked out}
+{301}{}{was knocked down}
 {302}{}{se lisia la pierna izquierda}
 {303}{}{se lisia la pierna derecha}
 {304}{}{se lisia el brazo izquierdo}
@@ -76,8 +76,8 @@
 {320}{}{es golpeada al azar}
 {321}{}{se lisia un miembro al azar}
 {322}{}{acribillada con fragmentos}
-{400}{}{la dejan fuera de combate}
-{401}{}{es derribada}
+{400}{}{was knocked out}
+{401}{}{was knocked down}
 {402}{}{se lisia la pierna izquierda}
 {403}{}{se lisia la pierna derecha}
 {404}{}{se lisia el brazo izquierdo}
@@ -111,10 +111,10 @@
 {522}{}{%sTe han dado (%s), pierdes 1 punto de salud}
 {523}{}{%sTe han dado, pierdes 1 punto de salud}
 {524}{}{%sFallas críticamente, pierdes 1 punto de salud}
-{525}{}{%sRecibes un golpe crítico (%s) sin sufrir daño}
-{526}{}{%sRecibes un golpe (%s) sin sufrir daño}
-{527}{}{%sRecibes un golpe sin sufrir daño}
-{528}{}{%sRecibes un golpe crítico sin sufrir daño}
+{525}{}{%s were critically hit in %s but take no damage}
+{526}{}{%s were hit in %s but take no damage}
+{527}{}{%s were hit but take no damage}
+{528}{}{%s were critically hit but take no damage}
 {533}{}{%s falla críticamente, pierde 1 punto de salud}
 {534}{}{%s falla críticamente, pierde %d puntos de salud}
 {556}{}{You}
@@ -129,10 +129,10 @@
 {572}{}{%sTe han dado (%s), pierdes 1 punto de salud}
 {573}{}{%sTe han dado, pierdes 1 punto de salud}
 {574}{}{%sFallas críticamente, pierdes 1 punto de salud}
-{575}{}{%sRecibes un golpe crítico (%s) sin sufrir daño}
-{576}{}{%sRecibes un golpe (%s) sin sufrir daño}
-{577}{}{%sRecibes un golpe sin sufrir daño}
-{578}{}{%sRecibes un golpe crítico sin sufrir daño}
+{575}{}{%s were critically hit in %s but take no damage}
+{576}{}{%s were hit in %s but take no damage}
+{577}{}{%s were hit but take no damage}
+{578}{}{%s were critically hit but take no damage}
 {583}{}{%s falla críticamente, pierde 1 punto de salud}
 {584}{}{%s falla críticamente, pierde %d puntos de salud}
 {608}{}{¡Ups! ¡Le dieron a %s en vez de a ti!}
@@ -147,10 +147,10 @@
 {622}{}{%s fue golpeada (%s), pierde 1 punto de salud}
 {623}{}{%s fue golpeada, pierde 1 punto de salud}
 {624}{}{%s fue golpeada críticamente, pierde 1 punto de salud}
-{625}{}{%s fue golpeada críticamente (%s) sin sufrir daño}
-{626}{}{%s fue golpeada (%s) sin sufrir daño}
-{627}{}{%s fue golpeada sin sufrir daño}
-{628}{}{%s fue golpeada críticamente sin sufrir daño}
+{625}{}{%s was critically hit in %s but takes no damage}
+{626}{}{%s was hit in %s but takes no damage}
+{627}{}{%s was hit but takes no damage}
+{628}{}{%s was critically hit but takes no damage}
 {633}{}{%s falla críticamente, pierde 1 punto de salud}
 {634}{}{%s falla críticamente, pierde %d puntos de salud}
 {708}{}{¡Ups! ¡Le dieron a %s en vez de a ti!}
@@ -165,10 +165,10 @@
 {722}{}{%s fue golpeada (%s), pierde 1 punto de salud}
 {723}{}{%s fue golpeada, pierde 1 punto de salud}
 {724}{}{%s fue golpeada críticamente, pierde 1 punto de salud}
-{725}{}{%s fue golpeada críticamente (%s) sin sufrir daño}
-{726}{}{%s fue golpeada (%s) sin sufrir daño}
-{727}{}{%s fue golpeada sin sufrir daño}
-{728}{}{%s fue golpeada críticamente sin sufrir daño}
+{725}{}{%s was critically hit in %s but takes no damage}
+{726}{}{%s was hit in %s but takes no damage}
+{727}{}{%s was hit but takes no damage}
+{728}{}{%s was critically hit but takes no damage}
 {733}{}{%s falla críticamente, pierde 1 punto de salud}
 {734}{}{%s falla críticamente, pierde %d puntos de salud}
 {1010}{}{cabeza}
@@ -390,10 +390,10 @@
 {5018}{}{, infligiendo una ayuda extra de daños}
 {5019}{}{ a través de su armadura, haciendo caer al suelo al combatiente}
 {5020}{}{ dejándolo sin aire, se desploma al suelo}
-{5021}{}{. Desgraciadamente su espina dorsal asoma por su pecho}
+{5021}{}{. Unfortunately for him, his spine is now clearly visible from the front}
 {5022}{}{ haciéndole una grave herida en la pierna}
 {5023}{}{, derribándolo como si fuese un muñeco de trapo}
-{5024}{}{, derribándolo y arrancando esa pierna como si fuera picadillo}
+{5024}{}{, bowling him over and chopping off that leg like a scarlet side of meat}
 {5025}{}{, machacándole la rodilla. Cae al suelo}
 {5026}{}{. El intenso dolor de la pierna arrancada hace que se retire}
 {5027}{}{ infligiendo algo de dolor extra}
@@ -428,7 +428,7 @@
 {5118}{}{, infligiendo una ayuda extra de daños}
 {5119}{}{ traspasa su armadura, tirándola al suelo}
 {5120}{}{ sacándole el aire. Se desploma en el suelo}
-{5121}{}{. Desgraciadamente, sus órganos vitales han quedado expuestos a la luz}
+{5121}{}{. Unfortunately for her, most organs have now been exposed to the light}
 {5122}{}{ hiriéndola de gravedad en la pierna}
 {5123}{}{, tirándola como a una mala cita a ciegas}
 {5124}{}{, dejándola fuera de combate y esparciendo esa pierna por todo el suelo}
@@ -564,7 +564,7 @@
 {5905}{}{ golpeando un punto crítico, y destrozando el brazo}
 {5906}{}{, derribando a la criatura y destrozando la pata}
 {5907}{}{, aturdiendo al centauro al tiempo que es derribado con una pata destrozada}
-{5908}{}{, cegando una cabeza y licuando la otra}
+{5908}{}{, blinding one head and liquefying the other}
 {5909}{}{, sorprendiendo al centauro. Por un momento se tambalea ciego}
 {5910}{}{, sorprendiendo al centauro. Se derrumba en un montón}
 {5911}{}{, sorprendiendo al centauro. Se desmaya en una pila de sustancia pegajosa}
@@ -605,13 +605,13 @@
 {6300}{}{. Incluso esta bestia parece desconcertada por el ataque}
 {6301}{}{, pasando las enormes garras para golpear al monstruo. La Garra Mortal se agita y gruñe}
 {6302}{}{. Has causado graves daños en los ojos de la Garra Mortal}
-{6400}{}{, atravesando las defensas orgánicas}
-{6401}{}{, causando al Maestro serio dolor}
-{6402}{}{, traspasando las defensas orgánicas y presionando al Maestro}
-{6403}{}{, aturdiendo al Maestro con tu sólido plan de ofensiva}
-{6404}{}{, provocando un sobrepeso de dimensiones cataclísmicas sobre el sistema del Maestro}
-{6405}{}{. Tu ataque al Maestro parece haber causado menos daño del que te hubiera gustado}
-{6406}{}{. El golpe atraviesa las defensas orgánicas, dejando ciego al Maestro}
+{6400}{}{, breaking past his bio-organic defenses}
+{6401}{}{, causing him some serious grief}
+{6402}{}{, breaking past his bio-organic defenses and putting the pressure on him}
+{6403}{}{, stunning him with a solid offensive plan}
+{6404}{}{, causing an overload of cataclysmic proportions in his systems}
+{6405}{}{. Still, the attack against him seems to do less damage than it should have}
+{6406}{}{. The blow gets by his bio-organic defenses, actually blinding him}
 {6500}{}{. Mañana tendrás dolor de cabeza, si es que estás vivo.}
 {6501}{}{. Tu armadura no te protege de este golpe}
 {6502}{}{. Sientes dolor por un momento antes de perder el conocimiento.}
@@ -626,7 +626,7 @@
 {6511}{}{, atravesando tu armadura. El brazo ahora te cuelga del costado}
 {6512}{}{. El moretón será precioso y posiblemente la cicatriz te dará mucho de qué hablar}
 {6513}{}{, aplastando tus órganos internos. Todo lo que puedes hacer es escupir sangre}
-{6514}{}{, poniéndote patas arriba}
+{6514}{}{, sending you head over heels}
 {6515}{}{, haciéndote saltar por los aires y rompiéndote una pierna}
 {6516}{}{, derritiendo tu armadura. El golpe te derriba y daña seriamente tu rodilla}
 {6517}{}{. El dolor de la pierna rota te hace desmayar}

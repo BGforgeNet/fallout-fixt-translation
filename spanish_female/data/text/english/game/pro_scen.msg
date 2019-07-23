@@ -337,12 +337,12 @@
 {17000}{}{una columna}
 {17001}{}{Una columna de apoyo.}
 {17100}{}{el ordenador de la puerta de entrada}
-{17101}{}{Este ordenador controla la gran puerta de entrada al Refugio. Tienes que introducir un código específico de acceso para que el ordenador funcione.}
+{17101}{}{This computer controls the large Vault blast door. You have to enter a specific access code for the computer to work.}
 {17200}{}{el cartel del Casino}
 {17201}{}{Parece un anuncio del Casino de Gizmo.}
-{17300}{}{una puerta del Refugio 13}
+{17300}{}{Vault 13 Blast Door}
 {17301}{}{Esta gran puerta es la conexión entre el Refugio y el mundo exterior. Es demasiado grande para abrirse manualmente. Utiliza el terminal de entrada.}
-{17400}{}{una puerta del Refugio 13}
+{17400}{}{Vault 13 Blast Door}
 {17401}{}{Esta gran puerta es la conexión entre el Refugio y el mundo exterior.}
 {17500}{}{el cartel del Casino}
 {17501}{}{Esta parte del cartel contiene un motor eléctrico que hace girar lentamente el rótulo de neón.}
@@ -669,7 +669,7 @@
 {34200}{}{una señal de atención}
 {34201}{}{Era una señal para controlar el flujo de tráfico.}
 {34300}{}{una señal de atención}
-{34301}{}{La señal está borrosa, pero puedes descifrar la palabra ATENCIÓN.}
+{34301}{}{The sign is faded, but you can make out the word "YIELD".}
 {34400}{}{Inviso Automático de Bloqueo de Hexágonos}
 {34401}{}{Si puedes ver esto, maldice al diseñador técnico.}
 {34500}{}{el suelo}
@@ -761,10 +761,10 @@
 {38801}{}{Este palo ayuda a sostener la tienda.}
 {38900}{}{un palo}
 {38901}{}{Este palo ayuda a sostener la tienda.}
-{39000}{}{una puerta de Refugio}
-{39001}{}{Esta puerta del Refugio ahora es tan solo un trozo de metal inservible.}
-{39100}{}{Entrada al Refugio 15}
-{39101}{}{El mecanismo para abrir y cerrar la pesada puerta del Refugio ha sido dañado y necesita reparación.}
+{39000}{}{Vault Blast Door}
+{39001}{}{This Vault blast door is now just a large piece of heavy scrap metal.}
+{39100}{}{Vault Entrance}
+{39101}{}{The mechanisms and computer used to open or close the heavy Vault blast door have been damaged beyond repair.}
 {39200}{}{el refuerzo}
 {39201}{}{Este refuerzo ayuda a sostener el muro defensivo.}
 {39300}{}{el refuerzo}
@@ -852,8 +852,8 @@
 {43401}{}{Un montoncito de piedras.}
 {43500}{}{unas piedras}
 {43501}{}{Un montoncito de piedras.}
-{43600}{}{una puerta de Refugio}
-{43601}{}{Esta puerta de Refugio es muy parecida a la del Refugio 13. El mecanismo de la puerta ha sido desactivado.}
+{43600}{}{Vault Blast Door}
+{43601}{}{This Vault blast door is very similar to the one at Vault 13. The door mechanism has been disabled.}
 {43700}{}{un puerta}
 {43701}{}{Una puerta de madera, reforzada con laterales metálicos con un diseño casi hipnótico.}
 {43800}{}{un puerta}
@@ -1611,7 +1611,7 @@
 {82401}{}{Los monitores están en buen estado.}
 {82500}{}{el muro}
 {82600}{}{una puerta de banco}
-{82601}{}{Una puerta de banco del Refugio muy sólida. La puerta parece muy segura.}
+{82601}{}{A very sturdy bank vault door. The door looks very secure.}
 {82700}{}{una luz}
 {82701}{}{Una luz de seguridad.}
 {82800}{}{una luz}

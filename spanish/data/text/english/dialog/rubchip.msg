@@ -1,4 +1,4 @@
-{100}{}{Parece que el Centro de Control y Comando está enterrado bajo más rocas. Tendrás que buscar el Chip de Agua en otro lugar.}
-{101}{}{Es impresionante la cantidad de escombros que bloquea este pasillo. No crees que sea posible retirarlos, ni siquiera con explosivos potentes.}
+{100}{}{You determine that the Command and Control Center is definitely buried under a great deal of rock. You'll have to search for a Water Chip elsewhere.}
+{101}{}{The amount of rubble blocking this corridor is impressive. You don't think it could be moved, even with explosives.}
 {102}{}{Ganas }
 {103}{}{ puntos de experiencia.}

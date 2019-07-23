@@ -54,10 +54,10 @@
 {201}{}{Mmm... me encantaría saber leer.}
 {300}{}{¿Por qué no te encargas de tus asuntos?}
 {400}{}{No me pagan para hablar.}
-{501}{}{Te importaría decirme, ¿¿por qué abandonaste la jodida caravana?? ¡No me lo puedo creer! ¡Vaya suerte, lo han hecho sin tu lamentable trasero! ¡Vete! ¡No voy a pagarte nada!}
-{502}{}{¡No me lo puedo creer! ¡Hemos perdido toda la caravana! No voy a pagarte nada. ¡Quítate de mi vista!}
-{504}{}{Ve a hablar con el jefe e invéntate una historia sobre porqué abandonaste esa jodida caravana. Quizás entonces consigas tu dinero, pero lo dudo.}
-{505}{}{¡No me lo puedo creer! ¡Hemos perdido toda la caravana! No voy a pagarte nada. ¡Quítate de mi vista!}
+{501}{}{Care to tell me why you abandoned the fucking caravan?! I can't believe it! Lucky for you, they finished without yer sorry ass. Get out! I ain't paying you anything!}
+{502}{}{I can't believe it! We've lost the whole fucking caravan! I ain't paying you a single god-damn cap. Get the hell out of my face.}
+{504}{}{You've got some nerve. Get out of here, and try to think up a credible story for the boss about why you abandoned the fucking caravan! Maybe then you'll get yer money, but I doubt it.}
+{505}{}{I can't believe it! We've lost the whole fucking caravan! I ain't paying you a single god-damn cap. Get the hell out of my face.}
 {506}{}{¿Hay algún trabajo que pueda hacer?}
 {507}{}{¡Yo querer trabajo!}
 {508}{}{Necesitamos músculo para descargar las caravanas. Te pagaré }
@@ -69,9 +69,9 @@
 {520}{}{Pasas una hora descargando la caravana.}
 {521}{}{Ayudas a terminar de descargar la caravana y te dan }
 {522}{}{ chapas.}
-{600}{}{Bueno, lo hemos logrado. No puedo pagarte la tarifa normal, ya que se perdió parte de la caravana. Tenemos que cubrir las pérdidas, ya sabes. Aquí está tu paga de}
+{600}{}{Well, here we are. I can't pay you the normal rate, since we lost some of the caravan. Gotta cover our losses, y'know. Here's your payment of }
 {601}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) Aquí tienes, otras }
-{602}{}{Si quieres más trabajo, ve a hablar con el jefe. Estaría bien volver a trabajar contigo. Cuídate.}
+{602}{}{If you want more work, just go talk to the boss. I'd be okay working with you again. Take it easy!}
 {603}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) }
 {604}{}{Vale, lo has hecho. No puedo pagarte nada porque hemos perdido toda la caravana. Tenemos que cubrir las pérdidas, ya sabes. Me gustaría que fuese de otra forma pero esas son las reglas.}
 {605}{}{Vale, lo has hecho. No puedo pagarte nada porque todos los brahmines han muerto. Nos has costado mucho dinero, colega. Sin brahmines no hay caravana, y sin esta no hay dinero. Espero que no te vuelvan a dejar trabajar con nosotros.}

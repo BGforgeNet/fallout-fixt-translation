@@ -49,7 +49,7 @@
 {148}{}{¡Oye, qué te den! Hablas como solían hacerlo los padres de Vinnie. Nos apoyamos unos a otros, ¿vale? O sea que lárgate.}
 {149}{}{Supongo. Nunca lo he pensado demasiado.}
 {150}{}{¡Hola! ¿Qué tal te va? Ha pasado mucho tiempo.}
-{151}{}{Estoy bien, gracias.}
+{151}{}{I'm all right, thanks.}
 {152}{}{He estado mejor.}
 {153}{}{Bien. ¿Y tú?}
 {154}{}{¡Siento oír eso! Deberías pillar una habitación y descansar un poco. Habla con Marcelles. Oh, yo puedo prepararte algo de comer, si quieres.}
@@ -62,6 +62,6 @@
 {161}{}{Sí, necesito conocer la información que tienes.}
 {162}{}{Perdona. Olvida la pregunta.}
 {163}{}{Le han hecho daño a mucha gente, y seguirán haciéndolo si no les detienen. Tú has cambiado tu vida para mejor. Ahora tienes la oportunidad de ayudar a otros para que mejoren las suyas.}
-{164}{}{Mmm. Bueno, quiero decir, son mis amigos. Pero supongo que no deberían hacer daño a la gente como lo hacen. Y creo que confío en ti desde que me ayudaste. Está bien.}
+{164}{}{Hmm. Well, I mean, they are my friends. But I guess that they shouldn't be allowed to hurt people the way they do. And I guess I trust you since you helped me. All right.}
 {165}{}{¡No, no puedo hacer eso! ¡Son mis amigos! Puede que ya no sea de los Kalaveras, pero no voy a traicionar a mis viejos amigos.}
 {166}{}{Necesito tu ayuda. Necesito tu testimonio para acabar de una vez por todas con los Kalaveras.}

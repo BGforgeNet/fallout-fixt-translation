@@ -28,7 +28,7 @@
 {127}{}{Cuernos enormes, piel roja asquerosa, como sacada de un cuento de demonios, y se comió a Joe en tres bocados...}
 {128}{}{¡Nadie está a salvo! Nadie está a salvo, ya no estamos a salvo, y que voy a hacer...}
 {129}{}{¿Estás mal de la cabeza? ¡Le disparé tres veces con mi Desert Eagle y ni siquiera pestañeó!}
-{130}{}{No me importa si era un mutante, un marciano, o un demonio del infierno. ¡No quiero volver a ver una cosa de esas en mi vida!}
+{130}{}{I don't care if it's a mutant, an alien, or a demon from hell, I never want to see another one of those things as long as I live!}
 {131}{}{¡Solo soy un guardia, corcho! ¡No me culpes a mí! ¡Y pagan bien! ¡No tengo ningún problema con ellos!}
 {132}{}{¿En qué puedo ayudarte?}
 {133}{}{Las Garras Mortales las tienen. Creía que eran cuentos, pero... no te imaginas lo grandes que son, y lo rápidas. Primero las olimos, luego aparecieron y nos atacaron. Todos echamos a correr. No sé cómo conseguí escapar.}

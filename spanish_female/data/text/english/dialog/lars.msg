@@ -56,7 +56,7 @@
 {155}{}{¿Estás listo para acabar con Gizmo?}
 {156}{}{Claro. Vamos a por él.}
 {157}{}{No, he cambiado de opinión.}
-{158}{}{Venga, vamos.}
+{158}{}{All right, let's do it.}
 {159}{}{Bien, será mejor que esperes aquí si no quieres que te cojan en el fuego cruzado.}
 {160}{}{Killian me mandó para ayudarte a acabar con Gizmo.}
 {161}{}{Killian me mandó. Vamos a acabar con Gizmo.}

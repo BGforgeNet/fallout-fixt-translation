@@ -17,7 +17,7 @@
 {116}{}{¿Machacar y agarrar? ¡Cuenta conmigo!}
 {117}{}{Esta noche no, tengo jaqueca.}
 {118}{}{Nah, preferiría comer algo... ¡quizás tiburón a la parrilla!}
-{119}{}{Ah, so perdedor. Corre con tu mamá.}
+{119}{}{Ah, you loser. Go run back to your mama.}
 {120}{}{¿Tú otra vez? ¡Caramba, algunos no aprenden nunca!}
 {121}{}{Solo quería echar un trago rápido.}
 {122}{}{No importa, ya me iba.}

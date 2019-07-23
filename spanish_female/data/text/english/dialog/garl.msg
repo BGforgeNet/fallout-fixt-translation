@@ -21,7 +21,7 @@
 {120}{}{Puedo verte ante mí, pero no me lo puedo creer. ¿Qué quieres ahora?}
 {121}{}{Quiero que liberes a la chica. Ahora.}
 {122}{}{Quiero liquidarte.}
-{123}{}{Quiero que los ricos compren mi lugar en el Cielo.}
+{123}{}{I want riches to buy my way into heaven.}
 {124}{}{Si deseas volver a la tumba, tus deseos se harán realidad.}
 {125}{}{Te juro que me iré.}
 {126}{}{Así será. Libera a la mujer de Arenas Sombrías y acompáñala fuera de aquí...}
@@ -116,8 +116,8 @@
 {1007}{}{Sombrías}
 {1008}{}{Chip}
 {1009}{}{Saqueadores}
-{1010}{}{Khans}
-{1011}{}{Saqueador}
+{1010}{}{Khan}
+{1011}{}{Raid}
 {1012}{}{Saqueador}
 {1100}{}{Somos nosotros, siervo.}
 {1101}{}{Soy el líder de los Khans. Soy el hombre más temido del yermo.}

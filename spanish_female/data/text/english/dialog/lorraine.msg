@@ -3,7 +3,7 @@
 {102}{}{Hola. ¿Eres nueva aquí?}
 {103}{}{Sí. ¿Puedes ayudarme?}
 {104}{}{Sí. Me llamo }
-{105}{}{.}
+{105}{}{. }
 {106}{}{¿Ehhh?}
 {107}{}{Eso supongo. ¿Qué quieres saber?}
 {108}{}{¿Quién eres?}

@@ -1,6 +1,6 @@
 {100}{}{Estás viendo al guardián del agua.}
 {101}{}{Hola, }
-{102}{}{.}
+{102}{}{. }
 {103}{}{Hola. ¿Cómo te va?}
 {104}{}{¡Gahh!}
 {105}{}{¡Bien Gahh! Sigo contigo... siento que nunca aprendieras a hablar. Podríamos haber sido buenos amigos.}

@@ -10,7 +10,7 @@
 {200}{}{were knocked out}
 {201}{}{were knocked down}
 {202}{}{te lisias la pierna izquierda}
-{203}{}{te lisias la pierna derecha }
+{203}{}{te deja lisiada la pierna derecha}
 {204}{}{te lisias el brazo izquierdo}
 {205}{}{te lisias el brazo derecho}
 {206}{}{se queda ciega}
@@ -33,7 +33,7 @@
 {250}{}{were knocked out}
 {251}{}{were knocked down}
 {252}{}{te lisias la pierna izquierda}
-{253}{}{te lisias la pierna derecha }
+{253}{}{te deja lisiada la pierna derecha}
 {254}{}{te lisias el brazo izquierdo}
 {255}{}{te lisias el brazo derecho}
 {256}{}{se queda ciega}

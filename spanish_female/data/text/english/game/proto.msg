@@ -101,9 +101,9 @@
 {519}{}{%s %s }
 {520}{}{Pareces %s.}
 {521}{}{%s %s.}
-{522}{}{Parece %s}
-{523}{}{Parece %s}
-{524}{}{Parece %s}
+{522}{}{Parece: %s }
+{523}{}{Parece: %s }
+{524}{}{Parece: %s }
 {525}{}{%s tiene %d/%d puntos de salud.}
 {526}{}{Tiene %d/%d disparos de %s.}
 {530}{}{y tiene las extremidades rotas.}
@@ -134,11 +134,11 @@
 {590}{}{¡El reloj ya está en funcionamiento!}
 {620}{}{Ganas %d puntos de experiencia por matar: %s.}
 {621}{}{%s ganas %d puntos de experiencia.}
-{622}{}{Por vencer a tus enemigos, }
-{623}{}{Por acabar con tus oponentes, }
+{622}{}{Por derrotar a tus enemigos,}
+{623}{}{Por asesinar a tus enemigos,}
 {624}{}{Vences en el combate;}
-{625}{}{Por acabar con tus enemigos, }
-{626}{}{Por destruir a tus enemigos sin recibir ni un rasguño, }
+{625}{}{Por aplastar a tus enemigos,}
+{626}{}{Por destruir a tus enemigos sin sufrir un rasguño,}
 {650}{}{[Hecho]}
 {651}{}{[Más]}
 {652}{}{[Más]}

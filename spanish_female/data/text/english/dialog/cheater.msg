@@ -195,4 +195,4 @@
 {365}{}{HUBMIS0.MAP - Irwin}
 {366}{}{HUBMIS1.MAP - Irwin}
 {400}{}{You are currently level: }
-{401}{}{.}
+{401}{}{. }

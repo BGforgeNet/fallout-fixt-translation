@@ -1,5 +1,5 @@
 {100}{}{Ves: a Cougar, el ayudante de Doc Mórbid.}
-{101}{}{¿Cómo te va todo? }
+{101}{}{¿Qué tal te va?}
 {102}{}{Bien, ¿y a ti?}
 {103}{}{Necesito ver al doctor.}
 {104}{}{Ung.}

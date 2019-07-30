@@ -127,7 +127,7 @@
 {292}{}{Ian has gained a level!}
 {293}{}{Katja has gained a level!}
 {294}{}{Ahora eres de nivel }
-{295}{}{.}
+{295}{}{. }
 {296}{}{ (max).}
 {300}{}{Vale.}
 {301}{}{Ups, lo siento.}

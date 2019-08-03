@@ -16,9 +16,9 @@
 {115}{}{Parece que el perro cree que eres su dueña.}
 {116}{}{Ganas 100 puntos de experiencia por ayudar a Phil a solucionar su enigma canino.}
 {117}{}{¡Guau! ¡Guau! ¡Guau!}
-{118}{}{Come on, Dogmeat. Good boy.}
+{118}{}{Venga, Dogmeat. Buen chico.}
 {119}{}{Dogmeat, sit! Good boy. I'll be back soon.}
-{120}{}{Let's go, Dogmeat!}
+{120}{}{¡Vámonos, Dogmeat!}
 {121}{}{¡¡¡Cachorrito!!!}
 {122}{}{¿Guau?}
 {123}{}{¿Arf?}

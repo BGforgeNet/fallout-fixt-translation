@@ -24,7 +24,7 @@
 {123}{}{¿Arf?}
 {124}{}{¡Guau! ¡Guau! ¡Guau!}
 {300}{}{¡¡Perrito!! ¿perrito ser amigo?}
-{301}{}{Doggie stay! no move.}
-{302}{}{Move aside, Dogmeat. Good boy.}
+{301}{}{¡Perrito quedar! no mover.}
+{302}{}{Muévete, Dogmeat. Buen chico.}
 {303}{}{}
-{304}{}{Good doggie.}
+{304}{}{Buen perrito.}

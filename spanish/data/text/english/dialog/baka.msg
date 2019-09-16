@@ -1,19 +1,19 @@
-{100}{}{You see Baka.}
+{100}{}{Tù ves Baka.}
 {101}{}{Estás viendo a una mujer.}
-{102}{}{Crypts should not be here, should they boys? (The other Fools shake their heads) I think you should leave.}
-{103}{}{I made a mistake joining the Crypts. I want to be on your side.}
-{104}{}{I came with a message from Phrax.}
-{105}{}{I will, thanks.}
-{106}{}{Then we should wear the coat of a betrayer? One who would deliver their own? No dog is as low as you.}
-{107}{}{I feel as if your coat may turn again, but your words sway me.}
-{108}{}{Phrax is not brave enough to speak this message with his own voice? He is no man, of that I know. And he sends this boy to say his words. Well, then, say them and be done.}
-{109}{}{Die.}
-{110}{}{He said to leave town and you won't be killed.}
-{111}{}{He said have a nice day.}
-{112}{}{Hahaha! I like a man with a sense of humor. You can live. Sorry, just joking.}
-{113}{}{I don't think you fully understand the ramifications of what you just said. I hope you learn them before your bones dry in the desert sun. Unfortunately, I don't think you have very long.}
-{114}{}{What have we here? We heard that someone new was in town. This must be you; everyone else looks oh so familiar. Please allow me to introduce myself. I am Baka, Queen of the Fools.}
-{115}{}{Why do you call yourselves the Fools?}
+{102}{}{Criptas no deberìan estar aquì, ¿deberìan los chicos? (los otros tontos sacuden sus cabezas) Creo que deberìas irte. }
+{103}{}{Cometí un error al unirme a las criptas. Quiero estar de tu lado. }
+{104}{}{Vine con un mensaje de Phrax. }
+{105}{}{Eso haré, gracias.}
+{106}{}{¿Entonces deberíamos usar el abrigo de un traidor? ¿Uno que entregaría el suyo? Ningún perro es tan bajo como tú.}
+{107}{}{Siento como si tu abrigo se volviera a poner, pero tus palabras me influyen.}
+{108}{}{¿Phrax no es lo suficientemente valiente como para pronunciar este mensaje con su propia voz? Él no es hombre, de eso lo sé. Y envía a este chico a decir sus palabras. Bueno, entonces, diles y listo.}
+{109}{}{Muere.}
+{110}{}{Dijo que abandones la ciudad y que no te matarán.}
+{111}{}{Dijo que tengas un buen dìa. }
+{112}{}{Jajaja! Me gusta un hombre con sentido del humor. Puedes vivir. Perdòn, solo bromeaba. }
+{113}{}{No creo que entiendas completamente las ramificaciones de lo que acabas de decir. Espero que los aprendas antes de que tus huesos se sequen en el sol del desierto. Lamentablemente, no creo que tengas mucho tiempo.}
+{114}{}{¿Qué tenemos aquí? Escuchamos que alguien nuevo estaba en la ciudad. Este debes ser tú; todos los demás se ven tan familiares. Por favor permítame presentarme. Soy Baka, Reina de los locos. }
+{115}{}{¿Por què se llaman los Tontos?}
 {116}{}{I hear there are disagreements between you and the Crypts.}
 {117}{}{You look like a fool to me.}
 {118}{}{After the War, only the Foolish remain. If I was brave enough, I would have taken my own life years ago. Instead, I pander to whatever gods of chance are left.}

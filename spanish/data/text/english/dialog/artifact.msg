@@ -4,5 +4,5 @@
 {103}{}{Este objeto es muy antiguo y parece tener una extraña insignia. Imaginas que debe ser lo que la Hermandad del Acero te envió a recuperar.}
 {104}{}{Ves: Disco Antiguo de la Hermandad.}
 {125}{}{Estás viendo un disco extraño procedente de la Base Militar.}
-{126}{}{You see: Vault Locations Holodisk.}
+{126}{}{Ves: un holodisco.}
 {127}{}{Este holodisco en particular parece estar en excelentes condiciones. En la brillante etiqueta se lee: "Ubicación de Refugios v34.129".}

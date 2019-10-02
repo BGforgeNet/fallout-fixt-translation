@@ -216,7 +216,7 @@
 {10801}{}{Una colección de huesos extraños.}
 {10900}{}{Rad-X}
 {10901}{}{Fármacos antiradiación para ingerir antes de la exposición, que en el yermo significa más o menos siempre. No se conocen efectos secundarios. Afortunadamente se ha demostrado que no son adictivos.}
-{11000}{}{Psycho}
+{11000}{}{Psico}
 {11001}{}{Un sistema exclusivo lleno de sustancias químicas extrañas y desconocidas de probable origen militar. Se supone que aumenta el potencial de combate de un soldado.}
 {11100}{}{CM de Magnum .44}
 {11101}{}{Munición. Calibre: Magnum .44, camisa de metal.}

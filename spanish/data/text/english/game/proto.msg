@@ -150,7 +150,7 @@
 {661}{}{Demasiado lejos.}
 {670}{}{Vale.}
 {671}{}{Claro.}
-{672}{}{Como desees.}
+{672}{}{Como quieras.}
 {673}{}{Lo que tú digas.}
 {674}{}{Lo intentaré.}
 {675}{}{No puedo hacer eso.}

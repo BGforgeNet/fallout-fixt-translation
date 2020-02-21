@@ -3,7 +3,7 @@
 {102}{}{Oh, lo siento. Creo que me he perdido.}
 {103}{}{Porque tengo un gran negocio para ti...}
 {104}{}{Soy }
-{105}{}{. ¿Y tú?}
+{105}{}{¿Cuál es el tuyo?}
 {106}{}{Uno de los Hermanos me mandó aquí arriba.}
 {107}{}{¿Mamá?}
 {108}{MORP02A}{No. Soy el Padre Muerte...}

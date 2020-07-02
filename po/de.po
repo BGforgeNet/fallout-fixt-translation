@@ -4,14 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-07-03 14:12+0000\n"
+"Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
+"Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: data/text/english/cuts/boil1.sve:1
 msgid ""
@@ -29803,7 +29804,7 @@ msgstr ""
 #: data/text/english/dialog/flip.msg:109
 #: data/text/english/dialog/gensupr.msg:116
 msgid "Okay. Let's go."
-msgstr ""
+msgstr "OK, gehen wir."
 
 #: data/text/english/dialog/flip.msg:110
 msgid "After you."
@@ -37712,7 +37713,7 @@ msgstr ""
 
 #: data/text/english/dialog/ghrndgrd.msg:103
 msgid "Leave now!"
-msgstr ""
+msgstr "Geh jetzt!"
 
 #: data/text/english/dialog/gideon.msg:100
 #: data/text/english/dialog/psychic.msg:100
@@ -90865,7 +90866,7 @@ msgstr ""
 
 #: data/text/english/dialog/tandi.msg:1024
 msgid "Deathclaws"
-msgstr ""
+msgstr "Deathclaws"
 
 #: data/text/english/dialog/tandi.msg:1009 data/text/english/game/map.msg:119
 #: data/text/english/game/scrname.msg:344
@@ -112460,7 +112461,7 @@ msgstr ""
 
 #: data/text/english/game/item.msg:4
 msgid "You suffer a fatal heart attack from drug overdose."
-msgstr ""
+msgstr "Du erleidest einen tödlichen Herzanfall aufgrund einer Drogenüberdosis."
 
 #: data/text/english/game/item.msg:5
 msgid "%s has no charges left."
@@ -113734,7 +113735,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:606
 msgid "Welcome to the RobCo Pip-Boy 2000."
-msgstr ""
+msgstr "Dein RobCo Pip-Boy 2000 grüßt dich."
 
 #: data/text/english/game/pipboy.msg:607
 msgid "So long..."
@@ -118302,6 +118303,8 @@ msgid ""
 "A high explosive, consisting of nitroglycerin mixed with the absorbent "
 "substance kieselguhr. Includes a timer."
 msgstr ""
+"Hochempfindlicher Sprengstoff aus Nitroglyzerin, vermischt mit Kieselguhr "
+"als Absorptionsmittel. Mit Timer."
 
 #: data/text/english/game/pro_item.msg:5200
 msgid "Geiger Counter"
@@ -118576,7 +118579,7 @@ msgstr ""
 
 #: data/text/english/game/pro_item.msg:8101
 msgid "A cooked iguana, roasted in its own skin."
-msgstr ""
+msgstr "Gebratener Leguan, in der Haut geröstet."
 
 #: data/text/english/game/pro_item.msg:8200
 #: data/text/english/game/pro_item.msg:10500
@@ -118852,7 +118855,7 @@ msgstr ""
 
 #: data/text/english/game/pro_item.msg:11301
 msgid "Robes from the Children of the Cathedral."
-msgstr ""
+msgstr "Roben von den Children of the Cathedral."
 
 #: data/text/english/game/pro_item.msg:11400
 msgid "Tangler's Hand"
@@ -119439,6 +119442,8 @@ msgid ""
 "A high explosive, consisting of nitroglycerin mixed with the absorbent "
 "substance kieselguhr. Includes a timer, which is ticking."
 msgstr ""
+"Hochempfindlicher Sprengstoff aus Nitroglyzerin, vermischt mit Kieselguhr "
+"als Absorptionsmittel. Mit tickendem Timer."
 
 #: data/text/english/game/pro_item.msg:20700
 msgid "Geiger Counter (Active)"
@@ -120377,6 +120382,8 @@ msgid ""
 "An APU cleans the old air to provide new air for the complex. This one is "
 "broken."
 msgstr ""
+"Eine LAA reinigt die verbrauchte Luft, um dem Komplex frische Luft "
+"zuzuführen. Diese ist kaputt."
 
 #: data/text/english/game/pro_scen.msg:5500
 #: data/text/english/game/pro_scen.msg:5600
@@ -120530,7 +120537,7 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:7600
 msgid "Car Wall Floor"
-msgstr ""
+msgstr "Auto Wand Boden"
 
 #: data/text/english/game/pro_scen.msg:7601
 #: data/text/english/game/pro_scen.msg:7701
@@ -121917,7 +121924,7 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:18901
 msgid "You must be on level four of the Brotherhood."
-msgstr ""
+msgstr "Du musst auf Ebene Vier der Brotherhood sein."
 
 #: data/text/english/game/pro_scen.msg:19000
 #: data/text/english/game/pro_scen.msg:19100
@@ -122055,6 +122062,8 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:20901
 msgid "A makeshift bed. The material was scavenged from some other source."
 msgstr ""
+"Ein provisorisches Bett. Das Material wurde aus anderen Quellen "
+"zusammengesammelt."
 
 #: data/text/english/game/pro_scen.msg:21001
 msgid "This bed has seen better days (and probably nights, too.)"
@@ -123782,13 +123791,15 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:59700
 msgid "Guard Shack"
-msgstr ""
+msgstr "Wachhäuschen"
 
 #: data/text/english/game/pro_scen.msg:59701
 msgid ""
 "This guard shack is over a hundred years old, but still in excellent "
 "condition."
 msgstr ""
+"Das Wachhäuschen ist über hundert Jahre alt, ist aber immer noch in "
+"ausgezeichnetem Zustand."
 
 #: data/text/english/game/pro_scen.msg:59801
 #: data/text/english/game/pro_scen.msg:59901
@@ -125960,7 +125971,7 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:511
 msgid "DR Mod: %d"
-msgstr ""
+msgstr "RV-Mod: %d"
 
 #: data/text/english/game/proto.msg:512
 msgid "Dmg Mod: %d/%d"
@@ -126100,11 +126111,11 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:622
 msgid "For defeating your enemies,"
-msgstr ""
+msgstr "Für den Sieg über deine Feinde"
 
 #: data/text/english/game/proto.msg:623
 msgid "For slaying your opponents,"
-msgstr ""
+msgstr "Für das Erledigen deiner Gegner"
 
 #: data/text/english/game/proto.msg:624
 msgid "You are victorious in combat;"
@@ -126112,11 +126123,11 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:625
 msgid "For crushing your enemies,"
-msgstr ""
+msgstr "Für die Vernichtung deiner Gegner"
 
 #: data/text/english/game/proto.msg:626
 msgid "For destroying your enemies without taking a scratch,"
-msgstr ""
+msgstr "Für die Vernichtung deiner Gegner, ohne einen Kratzer abzubekommen,"
 
 #: data/text/english/game/proto.msg:656
 msgid "Err..."

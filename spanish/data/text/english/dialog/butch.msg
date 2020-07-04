@@ -40,15 +40,15 @@
 {139}{}{No me convence... Mejor paso.}
 {140}{BUTCH10}{No es nada fuera de lo corriente.}
 {141}{}{Oh, vamos. Debe haber algo que pueda usar.}
-{142}{butch11}{Listen, I don't have time to swap stories with you.}
-{143}{butch12}{Well there's uh... something, but I never listen to those rumors.}
+{142}{butch11}{Escucha, no tengo tiempo de intercambiar historias contigo.}
+{143}{butch12}{Bueno, hay... algo, pero nunca hago caso a los rumores.}
 {144}{}{Yo sí. ¿De qué se trata?}
 {145}{}{Vale, gracias.}
 {146}{BUTCH13}{Pero... ¿de verdad quieres oírlo? De acuerdo, algunos dicen que es la Garra Mortal, pero... pero yo no sé nada sobre eso.}
 {147}{}{Lo dices asustado.}
 {148}{}{Gracias. ¿Puedo hacerte algunas preguntas?}
 {149}{}{¿Cómo puedo averiguar algo sobre la Garra Mortal?}
-{150}{butch13a}{How do ya... Go talk to Beth, she knows more about that crap.}
+{150}{butch13a}{¿Que cómo puedes...? Ve a hablar con Beth, ella sabe más sobre esa basura.}
 {151}{}{Estás más asustado que una oveja delante de un lobo.}
 {152}{}{Iré a investigarlo.}
 {153}{}{Necesito algo más de información.}
@@ -60,13 +60,13 @@
 {159}{BUTCH16}{Andando. Ahora largo de aquí y vuelve a hablar conmigo cuando descubras algo.}
 {160}{BUTCH17}{Hazlo rápido.}
 {161}{BUTCH18}{Entonces, ¡qué demonios hago aquí mirándote aún! ¡Largo!}
-{162}{butch19}{Uh... what did you say?}
+{162}{butch19}{Eh... ¿qué has dicho?}
 {163}{}{Estaba diciendo que tú estás demasiado asustado para ir a por ella.}
 {164}{}{Nada. Entonces, ¿qué quieres que haga?}
 {165}{BUTCH20}{¿Sabes?, no me gustas. Pero eso no importa. ¿Quieres el trabajo o no?}
 {166}{}{Claro.}
 {167}{}{No, gracias.}
-{168}{BUTCH19}{Uh... what did you say?}
+{168}{BUTCH19}{Eh... ¿qué has dicho?}
 {169}{}{Ya me has oído.}
 {170}{}{Nada. Entonces, ¿qué quieres que haga?}
 {171}{BUTCH22}{Sí, ¡ayer! ¡Ponte en marcha!}
@@ -91,7 +91,7 @@
 {190}{BUTCH30}{Pues de cosas. Si te interesa la ciudad, ¡ve a verlo por tu cuenta!}
 {191}{}{Eh, gracias por nada.}
 {192}{}{Gracias.}
-{193}{BUTCH19}{Uh... what did you say?}
+{193}{BUTCH19}{Eh... ¿qué has dicho?}
 {194}{}{¿Estás sordo?}
 {195}{}{Nada. Aunque necesito hacerte algunas preguntas más.}
 {196}{BUTCH32}{Bueno, está el Halcón Maltés, un buen lugar para comer, créeme. Y luego... veamos, el Almacén Todo en Uno, la Armería... y por supuesto, las Delicias de Iguana de Bob.}
@@ -169,7 +169,7 @@
 {268}{BUTCH62}{Eso es todo. ¡Rutger te lo va a sacar de tu piel!}
 {269}{BUTCH63}{¡Detén eso, ahora mismo!}
 {270}{BUTCH64}{Pero bueno, ¿qué estás haciendo aquí? ¡Largo!}
-{272}{butch65}{Oh... well, it's not, so get out!}
+{272}{butch65}{Oh... bueno, ¡no es así, largo!}
 {273}{BUTCH66}{Rutger te va a convertir en galleta humana. Que te diviertas. ¡RUTGER!}
 {274}{BUTCH67}{Bien, eres muy brillante, ¿verdad? Este es el trabajo: Averigua quién está robando mis caravanas. Muchas chapas. Si fallas, mucho daño. ¿Entendido? ¡Y ahora largo de aquí!}
 {275}{BUTCH67a}{Guau, eres tontorrón. No tengo tiempo para esto. Ve a hablar con Rutger.}
@@ -198,7 +198,7 @@
 {298}{BUTCH90}{Oh, no yo-yo no... ve a hablar con Beth, ella sabe mucho sobre esa basura.}
 {299}{BUTCH91}{El Ardor es un foso radiactivo que está en dirección sur. Demasiada radiación para que alguien pueda vivir allí.}
 {300}{BUTCH92}{La Ciudad Antigua está en el lado este. Los yonquis andan por allí.}
-{301}{butch93}{It's over on the west side.}
+{301}{butch93}{Está por el lado oeste.}
 {302}{BUTCH94}{¿Ciudad Vertedero? Sí, he estado al norte de ese lugar un par de veces. Conseguí buenas bebidas.}
 {303}{BUTCH95}{¿Ciudad Vertedero? Está al norte. He oído que tienen algunos problemas, con todo eso de que han matado al alcalde Killian.}
 {304}{BUTCH96}{Es el alcalde de Ciudad Vertedero, es todo lo que sé.}
@@ -248,7 +248,7 @@
 {348}{}{No, no, no, idiota. Estos mutantes son grandes y verdes. Había uno en una cueva cerca de la ciudad, farfullaba acerca de una misión que le mandó un tío llamado "Maestro".}
 {349}{}{No, no, no, idiota. Estos mutantes son grandes y verdes. Conseguí este disco extraño de un mutante grande y verde que decía algo acerca de su "Maestro".}
 {500}{BUTCH55a}{Ehh, hazlo. Y vuelve a contármelo. ¿De acuerdo?}
-{501}{butch63a}{Hey! Knock that off!}
+{501}{butch63a}{¡Ey! ¡Deja de hacer eso!}
 {502}{BUTCH69a}{Como te dije...}
 {503}{BUTCH70b}{Como dije...}
 {504}{BUTCH105b}{No tengo ni idea de qué estás hablando.}
@@ -343,7 +343,7 @@
 {1117}{BUTCH90}{Oh, no yo-yo no... ve a hablar con Beth, ella sabe mucho sobre esa basura.}
 {1118}{BUTCH91}{El Ardor es un foso radiactivo que está en dirección sur. Demasiada radiación para que alguien pueda vivir allí.}
 {1119}{BUTCH92}{La Ciudad Antigua está en el lado este. Los yonquis andan por allí.}
-{1120}{BUTCH93}{It's over on the west side.}
+{1120}{BUTCH93}{Está por el lado oeste.}
 {1121}{BUTCH94}{¿Ciudad Vertedero? Sí, he estado al norte de ese lugar un par de veces. Conseguí buenas bebidas.}
 {1122}{BUTCH96}{Es el alcalde de Ciudad Vertedero, es todo lo que sé.}
 {1123}{BUTCH98}{Oh, son un montón de tipos extraños que están al noroeste. Extraños de verdad. Aunque fabrican unas armas magníficas.}

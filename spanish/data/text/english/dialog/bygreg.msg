@@ -11,7 +11,7 @@
 {110}{}{¿Nervioso?, no estoy nervioso. Solo soy prudente. Todos dicen que soy un paranoico, pero soy el único que estará aquí cuando vengan a cogernos.}
 {111}{}{¿Cuándo vengan a cogeros? ¿Quién va a venir a cogeros?}
 {112}{}{Realmente estás paranoico. Hablaré contigo luego.}
-{113}{}{Well, they are... You know, don't you? The disease was just the start. Now they're going to come and take us all. But you are just like all the rest. You won't believe me, and you'll be doomed. You mark my words: I'LL STILL BE HERE, and ALL OF THIS, INCLUDING YOU, WILL BE TAKEN. TAKEN! (He grasps his head and curls up, into a ball, squealing and thrashing about)}
+{113}{}{Bien, ellos son... Sabes, ¿no?... la enfermedad fue solo el comienzo. Ahora vendrán y acabarán con todos nosotros. Pero tú eres como los demás. No me creerás y serás aniquilado. Escucha lo que te digo. YO ESTARÉ AÚN AQUÍ, Y TODO ESTO, INCLUIDO TÚ, SERÁ DESTRUIDO. DESTRUIDO. (Asiente y se hace un ovillo, chillando y revolviéndose)}
 {114}{}{Medication... Oh, so you're one of them, trying to get me to take my medication again... Well, you won't get me to. I WON'T TAKE IT! NO, I WON'T. THE VOICES. NO, I WON'T! YOU CAN'T MAKE ME. (He closes his eyes shut and clutches his head frantically, talking with the voices that only he can hear)}
 {115}{}{¡NO PUEDES OBLIGARME!}
 {116}{}{¡NADA DE LO QUE HAGAS ME AYUDARÁ!}

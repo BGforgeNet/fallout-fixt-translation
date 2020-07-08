@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2020-07-03 14:12+0000\n"
+"PO-Revision-Date: 2020-07-09 14:12+0000\n"
 "Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -11176,7 +11176,7 @@ msgstr ""
 #: data/text/english/dialog/blade.msg:109
 #: data/text/english/dialog/inblade.msg:109
 msgid "Gotta go."
-msgstr ""
+msgstr "Muss gehen."
 
 #: data/text/english/dialog/blade.msg:110
 #: data/text/english/dialog/carvlead.msg:140
@@ -31804,7 +31804,7 @@ msgstr ""
 
 #: data/text/english/dialog/garl.msg:138
 msgid "I know."
-msgstr ""
+msgstr "Ich weiß."
 
 #: data/text/english/dialog/garl.msg:139
 msgid ""
@@ -46715,7 +46715,7 @@ msgstr ""
 #: data/text/english/dialog/htwrleon.msg:101
 #: data/text/english/dialog/moatgrd.msg:101
 msgid "What is your business here?"
-msgstr ""
+msgstr "Was willst du?"
 
 #: data/text/english/dialog/htwrleon.msg:102
 msgid "I must speak with Mr. Hightower."
@@ -86023,7 +86023,7 @@ msgstr ""
 
 #: data/text/english/dialog/sid.msg:101
 msgid "Good morning."
-msgstr ""
+msgstr "Good Morgen."
 
 #: data/text/english/dialog/sid.msg:102
 msgid "Afternoon, sir!"
@@ -128966,4 +128966,4 @@ msgstr ""
 
 #: data/text/english/game/worldmap.msg:1004
 msgid "Unknown"
-msgstr ""
+msgstr "Unbekannt"

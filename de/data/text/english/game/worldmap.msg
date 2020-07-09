@@ -53,4 +53,4 @@
 {1001}{}{Mountains}
 {1002}{}{City}
 {1003}{}{Coast}
-{1004}{}{Unknown}
+{1004}{}{Unbekannt}

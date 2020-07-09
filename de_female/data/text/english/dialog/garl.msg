@@ -36,7 +36,7 @@
 {135}{}{What makes you think I have her?}
 {136}{}{I know you do. I followed you here.}
 {137}{}{One of your followers told me.}
-{138}{}{I know.}
+{138}{}{Ich weiﬂ.}
 {139}{}{I hate it when they do that. I will have to make that loudmouth pay for his crimes. After I finish up with you.}
 {140}{}{Hmmm. Well then. What do you offer for her release?}
 {141}{}{I represent a threat you don't even understand. Do you really want to risk our wrath?}

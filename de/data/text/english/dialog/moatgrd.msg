@@ -1,5 +1,5 @@
 {100}{}{You see a guard.}
-{101}{}{What is your business here?}
+{101}{}{Was willst du?}
 {102}{}{Urr?}
 {103}{}{I'm just looking around.}
 {104}{}{I want to buy some weapons.}

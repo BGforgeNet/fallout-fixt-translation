@@ -1,5 +1,5 @@
 {100}{}{You see: Sid, Beth's assistant.}
-{101}{}{Good morning.}
+{101}{}{Good Morgen.}
 {102}{}{Afternoon, sir!}
 {103}{}{Afternoon, ma'am!}
 {104}{}{Good Evening.}

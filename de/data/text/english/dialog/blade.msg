@@ -7,7 +7,7 @@
 {106}{}{Have you ever seen the rain glow?}
 {107}{}{Gotta get back to work.}
 {108}{}{We don't get many outsiders here.}
-{109}{}{Gotta go.}
+{109}{}{Muss gehen.}
 {110}{}{See ya.}
 {111}{}{Good day.}
 {112}{}{Thanks for your help.}

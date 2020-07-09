@@ -1,5 +1,5 @@
 {100}{}{You see: Leon, a guard.}
-{101}{}{What is your business here?}
+{101}{}{Was willst du?}
 {102}{}{I must speak with Mr. Hightower.}
 {103}{}{I've come to kill Mr. Hightower.}
 {104}{}{What business is it of yours?}

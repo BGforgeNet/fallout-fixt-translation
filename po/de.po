@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2020-07-09 14:12+0000\n"
+"PO-Revision-Date: 2020-07-10 14:12+0000\n"
 "Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -5774,7 +5774,7 @@ msgstr ""
 #: data/text/english/dialog/vance.msg:103
 #: data/text/english/dialog/vasquez.msg:103
 msgid "Who are you?"
-msgstr ""
+msgstr "Wer bist du?"
 
 #: data/text/english/dialog/agatha.msg:122
 msgid "You look very tired. Is there anything wrong?"
@@ -34700,7 +34700,7 @@ msgstr ""
 #: data/text/english/dialog/generic.msg:3428
 #: data/text/english/game/stat.msg:111
 msgid "Melee Damage"
-msgstr ""
+msgstr "Nahkampf-Sch."
 
 #: data/text/english/dialog/generic.msg:3429
 msgid "Carry Amount"

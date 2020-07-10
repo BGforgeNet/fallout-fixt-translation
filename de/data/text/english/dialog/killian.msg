@@ -1,5 +1,5 @@
 {100}{}{You see: Killian.}
-{101}{}{Who are you?}
+{101}{}{Wer bist du?}
 {102}{}{How about telling me a bit about this town?}
 {103}{}{Do you own this store?}
 {104}{}{I want to buy something.}

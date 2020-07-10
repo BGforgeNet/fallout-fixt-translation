@@ -6,7 +6,7 @@
 {105}{}{Why do you say that?}
 {106}{}{Why should I trust you?}
 {107}{}{Rock is a member of the Crypts, a gang. He tries to get strangers, like yourself, into trouble. If you listen to him, you could find yourself dead and buried.}
-{108}{}{Who are you?}
+{108}{}{Wer bist du?}
 {109}{}{Thanks for the info. Have a good day.}
 {110}{}{I'm Lex. Scrapheap is my home, and I guess I speak for her people.}
 {111}{}{Anyone else I should know about?}

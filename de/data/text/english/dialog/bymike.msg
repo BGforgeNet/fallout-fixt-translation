@@ -3,7 +3,7 @@
 {102}{}{Hello, I don't think I've seen you around here before. Can I help you with anything?}
 {103}{}{Hi again, what can I do for you?}
 {104}{}{Can you tell me a little bit about L.A. Boneyard?}
-{105}{}{Who are you?}
+{105}{}{Wer bist du?}
 {106}{}{Why do you all live here?}
 {107}{}{Nothing, thanks.}
 {108}{}{Sure. To the south is Adytum, over to the northeast you'll find the Gun Runners, but you'll have to get through the Deathclaws to get to them. To the west is the Followers of the Apocalypse, and to the far south I've heard there is some kind of church.}

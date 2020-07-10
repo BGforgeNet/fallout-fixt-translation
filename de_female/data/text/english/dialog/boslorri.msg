@@ -22,7 +22,7 @@
 {121}{}{Okay, never mind.}
 {122}{}{Well, I can help make you stronger, more perceptive, increase your endurance, help improve your learning process, and increase your dexterity. I have also studied plastic surgery procedures. Which would you like more information on?}
 {123}{}{Charisma.}
-{124}{}{Who are you?}
+{124}{}{Wer bist du?}
 {125}{}{My name is Lorri. I lead the medical staff and administer all major surgeries and medical procedures. I am effectively the only Doctor here, thus I prefer to keep things on a first-name basis. And you are?}
 {126}{}{Okay, which operation would you like to talk about?}
 {127}{}{Strength.}

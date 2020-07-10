@@ -3,7 +3,7 @@
 {102}{}{Hello lad, what might you be looking for today?}
 {103}{}{Hello lass, what might you be looking for today?}
 {104}{}{Ai, What else would you be looking to know?}
-{105}{}{Who are you?}
+{105}{}{Wer bist du?}
 {106}{}{What can you tell me about the Blades?}
 {107}{}{Nothing, thanks.}
 {108}{}{Well, I'm MacRae. I help the Blades some against the Deathclaws and that Regulator bunch. Teach'em a bit about protectin 'emselves against those nasties.}

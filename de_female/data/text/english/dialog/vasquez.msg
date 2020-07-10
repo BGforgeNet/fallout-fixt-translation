@@ -1,7 +1,7 @@
 {100}{}{You see: Vasquez, the mercenary desperado.}
 {101}{}{You see a seedy-looking gunman.}
 {102}{}{What do you want?}
-{103}{}{Who are you?}
+{103}{}{Wer bist du?}
 {104}{}{Hnn.}
 {105}{}{I do not work for the weak of mind. You leave now.}
 {106}{}{You have not heard of me? I am hurt! My name is Vasquez Villanova Hernandez Ortega. I am a famous desperado, my friend. And, if you have need, I am a gun for hire.}

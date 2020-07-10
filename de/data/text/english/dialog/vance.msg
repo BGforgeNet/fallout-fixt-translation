@@ -1,7 +1,7 @@
 {100}{}{You see a businessman. You are unsure the nature of his business.}
 {101}{}{What can I do for you?}
 {102}{}{Hunh?}
-{103}{}{Who are you?}
+{103}{}{Wer bist du?}
 {104}{}{What goes on in this building?}
 {105}{}{Vance, right? I heard you've got what I need. Can I score some?}
 {106}{}{Nothing. Bye.}

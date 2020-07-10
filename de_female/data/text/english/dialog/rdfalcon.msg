@@ -11,7 +11,7 @@
 {110}{}{Leave me to my sorrows.}
 {111}{}{Yer my bestest friend.}
 {112}{}{Why you're... (hic) where am I?}
-{113}{}{Who are you?}
+{113}{}{Wer bist du?}
 {114}{}{Do I know you?}
 {115}{}{I feel a little queasy.}
 {116}{}{Drinks are on me, I mean you.}

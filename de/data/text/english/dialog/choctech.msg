@@ -8,7 +8,7 @@
 {107}{}{I surrender!}
 {108}{}{You have no right to be here. What do you want?}
 {109}{}{Hne.}
-{110}{}{Who are you?}
+{110}{}{Wer bist du?}
 {111}{}{You sick dogs! I tire of your life!}
 {112}{}{What is this place?}
 {113}{}{You are nearly a Nightkin now. I hope the dipping will not damage your intelligence further.}

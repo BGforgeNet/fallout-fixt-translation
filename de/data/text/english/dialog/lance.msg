@@ -100,7 +100,7 @@
 {199}{}{It is. Well, I'm heading out. You take care of yourself.}
 {200}{}{Just you stay where you are. I don't know if you're in league with those mutants, but if you are, I'll kill you.}
 {201}{}{What mutants?}
-{202}{}{Who are you?}
+{202}{}{Wer bist du?}
 {203}{}{What happened to you?}
 {204}{}{Okay, that's cool.}
 {205}{}{Ru-huh?}

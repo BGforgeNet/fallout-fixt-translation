@@ -3,7 +3,7 @@
 {102}{}{What? Why are you talking to me? They'll hear you know.}
 {103}{}{Hi, you're back. Don't talk so loud, they're out there.}
 {104}{}{Okay, but keep it down, they'll come for both of us if you don't stop shouting.}
-{105}{}{Who are you?}
+{105}{}{Wer bist du?}
 {106}{}{Why are you so jumpy?}
 {107}{}{I think they need to up your medication.}
 {108}{}{Never mind.}

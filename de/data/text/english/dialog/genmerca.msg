@@ -1,5 +1,5 @@
 {100}{}{Hello! What can I do for you?}
-{101}{}{Who are you?}
+{101}{}{Wer bist du?}
 {102}{}{What are you doing?}
 {103}{}{Yeah, gimme everything you've got.}
 {104}{}{Lub!}

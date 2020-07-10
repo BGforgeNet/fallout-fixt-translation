@@ -6,7 +6,7 @@
 {105}{}{. }
 {106}{}{Whuuu?}
 {107}{}{I suppose. What do you need to know about?}
-{108}{}{Who are you?}
+{108}{}{Wer bist du?}
 {109}{}{Can you give me some information about L.A. Boneyard?}
 {110}{}{Tell me a bit about the other residents of Adytum.}
 {111}{}{What do you do for a living?}

@@ -3,7 +3,7 @@
 {102}{}{You see the body of a mutant.}
 {103}{}{The mutant is dead.}
 {104}{}{It was so fast... My brothers were gone... Could not help...}
-{105}{}{Who are you?}
+{105}{}{Wer bist du?}
 {106}{}{I, I'm... I can't remember... Was the leader of... It... Maybe my holodisk... (The mutant weakly hands you a bloody holodisk.)}
 {107}{}{Where did you come from?}
 {108}{}{We... We were scouting for primes... Came from... from the northwest.}

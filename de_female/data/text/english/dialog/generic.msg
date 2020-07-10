@@ -226,7 +226,7 @@
 {3425}{}{Luck}
 {3426}{}{Hit Points}
 {3427}{}{Action Points}
-{3428}{}{Melee Damage}
+{3428}{}{Nahkampf-Sch.}
 {3429}{}{Carry Amount}
 {3430}{}{Sequence}
 {3431}{}{Healing Rate}

@@ -1,7 +1,7 @@
 {100}{}{Stay away from me! Leave me alone!}
 {101}{}{Hello stranger. You shouldn't be out here. There's only death out here!}
 {102}{}{You wouldn't happen to know anything about missing caravans?}
-{103}{}{Who are you?}
+{103}{}{Wer bist du?}
 {104}{}{What kind of death?}
 {105}{}{I need some supplies. Hand them over!}
 {106}{}{I'm looking for a Water Chip. Can you help me?}

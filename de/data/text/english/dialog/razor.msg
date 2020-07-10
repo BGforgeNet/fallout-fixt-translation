@@ -1,5 +1,5 @@
 {100}{}{Hello, what can I do for you?}
-{101}{}{Who are you?}
+{101}{}{Wer bist du?}
 {102}{}{Are you the leader of this gang?}
 {103}{}{Never mind.}
 {104}{}{A... Wha?}
@@ -123,7 +123,7 @@
 {222}{}{Please go away. I'm very busy.}
 {223}{}{Thank you for helping us with the Regulators. Please feel free to stay as long as you want. You might want to check in with Miles and Smitty, they may be able to help you with your further travels.}
 {224}{}{Hi, can I help you?}
-{225}{}{Who are you?}
+{225}{}{Wer bist du?}
 {226}{}{Hootzpah!}
 {227}{}{The name is Razor, I am the leader of the people you see here. We live here at the whim of the Regulators of Adytum.}
 {228}{}{Regulators? I've taken care of all of them. Is that a problem?}

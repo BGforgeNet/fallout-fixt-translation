@@ -1,7 +1,7 @@
 {100}{}{You see a very beautiful young woman.}
 {101}{}{You see: Christine, Michael's wife.}
 {102}{}{Hello? Can I help you?}
-{103}{}{Who are you?}
+{103}{}{Wer bist du?}
 {104}{}{Who's in charge around here?}
 {105}{}{Can you tell me a little bit about the area?}
 {106}{}{No Thanks.}

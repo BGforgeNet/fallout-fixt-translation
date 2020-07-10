@@ -9,7 +9,7 @@
 {108}{}{Maximum Action Points}
 {109}{}{Armor Class}
 {110}{}{Unarmed Damage}
-{111}{}{Melee Damage}
+{111}{}{Nahkampf-Sch.}
 {112}{}{Carry Weight}
 {113}{}{Sequence}
 {114}{}{Healing Rate}

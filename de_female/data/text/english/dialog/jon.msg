@@ -79,7 +79,7 @@
 {178}{}{I have something you should listen to about your son.}
 {179}{}{Never mind.}
 {180}{}{Blorb.}
-{181}{}{Who are you?}
+{181}{}{Wer bist du?}
 {182}{}{I'm Jon Zimmerman, mayor of Adytum. What's it to you?}
 {183}{}{Hello.}
 {184}{}{Good to see you.}

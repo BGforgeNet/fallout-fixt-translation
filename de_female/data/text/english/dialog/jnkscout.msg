@@ -1,6 +1,6 @@
 {100}{}{You see a traveler.}
 {101}{}{What do you want, stranger?}
-{102}{}{Who are you?}
+{102}{}{Wer bist du?}
 {103}{}{What are you doing out here?}
 {104}{}{Where's the nearest town?}
 {105}{}{Nothing, thanks.}

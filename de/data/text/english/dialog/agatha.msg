@@ -19,7 +19,7 @@
 {118}{}{I'm very sorry to hear about Tandi. She was such a bright young woman. She would have done good with her life.}
 {119}{}{Hello. You must be the stranger everyone is talking about. *sigh* How can I help you?}
 {120}{}{Hngh.}
-{121}{}{Who are you?}
+{121}{}{Wer bist du?}
 {122}{}{You look very tired. Is there anything wrong?}
 {123}{}{Why do you look so tired?}
 {124}{}{Don't talk to me, old woman.}

@@ -2,7 +2,7 @@
 {101}{}{Okay, you can go now.}
 {102}{}{Hey! You! Stop!}
 {103}{}{Can I help you?}
-{104}{}{Who are you?}
+{104}{}{Wer bist du?}
 {105}{}{What are you doing?}
 {106}{}{No thanks.}
 {107}{}{I'm Andrew. My job is to guard the jail.}

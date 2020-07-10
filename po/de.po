@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2020-07-10 14:12+0000\n"
+"PO-Revision-Date: 2020-07-11 14:12+0000\n"
 "Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -4864,7 +4864,7 @@ msgstr ""
 #: data/text/english/cuts/nar_15.txt:2
 msgid ""
 "After the mutant armies advance, they leave a truly dead city behind them."
-msgstr ""
+msgstr "Die Armee der Mutanten lässt eine wahrhaft tote Stadt zurück."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_16.txt:1
@@ -4938,6 +4938,8 @@ msgid ""
 "After several elections, they find they cannot be governed by a single "
 "person and create a guiding council."
 msgstr ""
+"Mehrere Wahlen zeigen, dass keine Einzelperson regieren kann. Es wird ein "
+"Führungsrat gebildet."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_22.txt:3
@@ -5005,6 +5007,8 @@ msgid ""
 "The advanced technology of the Brotherhood is slowly reintroduced into New "
 "California, with little disruption or chaos."
 msgstr ""
+"Die neue Technik der Brotherhood wird nach und nach in New California "
+"eingeführt, ohne dass ernsthafte Schwierigkeiten auftreten."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_28.txt:3
@@ -5130,11 +5134,13 @@ msgid ""
 "You march into the desert sands, leaving the shattered corpse of the "
 "Overseer behind you, never to return to the Vault."
 msgstr ""
+"Du läufst in die Wüste hinaus und lässt die zerschmetterte Leiche des "
+"Aufsehers zurück. Niemals wirst du zur Vault zurückkehren."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_42.txt:1
 msgid "You march into the desert sands, leaving the Vault behind you."
-msgstr ""
+msgstr "Du läufst in die Wüste hinaus und lässt die Vault hinter dir."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_44.txt:1
@@ -5234,7 +5240,7 @@ msgstr ""
 
 #: data/text/english/cuts/ovrintro.sve:250
 msgid "for a work around system."
-msgstr ""
+msgstr "lässt sich nicht durch Notsysteme steuern."
 
 #: data/text/english/cuts/ovrintro.sve:290
 msgid "Simply put, we're running out of drinking water."
@@ -5278,7 +5284,7 @@ msgstr ""
 
 #: data/text/english/cuts/ovrintro.sve:855
 msgid "Look, just be safe, OK?"
-msgstr ""
+msgstr "Hey, pass gut auf, OK?"
 
 #: data/text/english/dialog/abel.msg:100
 msgid "You see: Abel."
@@ -7247,7 +7253,7 @@ msgstr ""
 #: data/text/english/dialog/lorraine.msg:124
 #: data/text/english/dialog/paul.msg:143
 msgid "Thanks. Bye."
-msgstr ""
+msgstr "Danke. Tschüss."
 
 #: data/text/english/dialog/aradesh.msg:152
 msgctxt "Ara_17"
@@ -7531,7 +7537,7 @@ msgstr ""
 
 #: data/text/english/dialog/aradesh.msg:212
 msgid "Thanks. Bye!"
-msgstr ""
+msgstr "Danke. Tschüss dann!"
 
 #: data/text/english/dialog/aradesh.msg:213
 msgctxt "Ara_33"
@@ -10159,7 +10165,7 @@ msgstr ""
 #: data/text/english/dialog/hbillie.msg:129
 #: data/text/english/dialog/pez.msg:113 data/text/english/dialog/pez.msg:117
 msgid "Please leave me alone."
-msgstr ""
+msgstr "Lass mich bitte in Ruhe."
 
 #: data/text/english/dialog/billy.msg:129
 #: data/text/english/dialog/hbillie.msg:130
@@ -10896,7 +10902,7 @@ msgstr ""
 #: data/text/english/dialog/bitsbob.msg:207
 #: data/text/english/dialog/lenny.msg:118
 msgid "Uh, bye."
-msgstr ""
+msgstr "Äh, Tschüss."
 
 #: data/text/english/dialog/bitsbob.msg:208
 msgid ""
@@ -13002,7 +13008,7 @@ msgstr ""
 
 #: data/text/english/dialog/butch.msg:205
 msgid "Sounds like fun."
-msgstr ""
+msgstr "Hört sich nach Spaß an."
 
 #: data/text/english/dialog/butch.msg:206
 msgctxt "BUTCH35a"
@@ -13717,7 +13723,7 @@ msgstr ""
 
 #: data/text/english/dialog/butch.msg:328
 msgid "Get the hell out of here!"
-msgstr ""
+msgstr "Mach, dass du schleunigst hier wegkommst!"
 
 #: data/text/english/dialog/butch.msg:329
 #: data/text/english/dialog/dragon.msg:129
@@ -15032,7 +15038,7 @@ msgstr ""
 #: data/text/english/dialog/cabbot.msg:186
 #: data/text/english/dialog/neil.msg:188
 msgid "Never mind. Goodbye."
-msgstr ""
+msgstr "Vergiss es. Mach's gut."
 
 #: data/text/english/dialog/cabbot.msg:148
 #: data/text/english/dialog/cabbot.msg:1115
@@ -17749,7 +17755,7 @@ msgstr ""
 
 #: data/text/english/dialog/ccvan.msg:108
 msgid "Sorry to hear that. Bye."
-msgstr ""
+msgstr "Tut mir leid für dich. Tschüss."
 
 #: data/text/english/dialog/ccvan.msg:109
 msgid ""
@@ -21526,7 +21532,7 @@ msgstr ""
 #: data/text/english/dialog/hbeth.msg:107
 #: data/text/english/dialog/vance.msg:106
 msgid "Nothing. Bye."
-msgstr ""
+msgstr "Nichts. Tschüss."
 
 #: data/text/english/dialog/crvndrvr.msg:122
 msgid "Kah."
@@ -21715,7 +21721,7 @@ msgstr ""
 #: data/text/english/dialog/demetre.msg:116
 #: data/text/english/dialog/demetre.msg:190
 msgid "I've got to go."
-msgstr ""
+msgstr "Ich muss gehn."
 
 #: data/text/english/dialog/crvndrvr.msg:168
 msgid "What? What'd I say?"
@@ -22331,7 +22337,7 @@ msgstr ""
 #: data/text/english/dialog/darrel.msg:202
 #: data/text/english/dialog/kyle.msg:170
 msgid "Okay, thanks. Bye."
-msgstr ""
+msgstr "OK, danke, Tschüss."
 
 #: data/text/english/dialog/dan.msg:123
 msgid ""
@@ -23457,7 +23463,7 @@ msgstr ""
 #: data/text/english/dialog/rd1rmory.msg:113
 #: data/text/english/dialog/tandi.msg:152
 msgid "Bye."
-msgstr ""
+msgstr "Tschüss."
 
 #: data/text/english/dialog/darrel.msg:146
 msgid "Do I have to sacrifice a puppy to join?"
@@ -23639,7 +23645,7 @@ msgstr ""
 #: data/text/english/dialog/hubjake.msg:106
 #: data/text/english/dialog/mike.msg:113
 msgid "Never mind. Bye."
-msgstr ""
+msgstr "Macht nichts. Tschüss."
 
 #: data/text/english/dialog/darrel.msg:193
 msgid "Sure, ask away."
@@ -25288,7 +25294,7 @@ msgstr ""
 #: data/text/english/dialog/ganger.msg:107
 #: data/text/english/dialog/jtbob.msg:139
 msgid "Oh, okay. Bye."
-msgstr ""
+msgstr "Ach so, OK. Tschüss."
 
 #: data/text/english/dialog/demetre.msg:135
 msgid "I'll still take the job."
@@ -25657,7 +25663,7 @@ msgstr ""
 #: data/text/english/dialog/maxson.msg:309
 #: data/text/english/dialog/talus.msg:193
 msgid "Okay, bye."
-msgstr ""
+msgstr "Okay, Tschüss."
 
 #: data/text/english/dialog/demetre.msg:235
 msgid "Rik rok?"
@@ -27642,7 +27648,7 @@ msgstr ""
 #: data/text/english/dialog/gengrdb.msg:103
 #: data/text/english/dialog/jason.msg:138
 msgid "Leave me alone!"
-msgstr ""
+msgstr "Lass mich in Ruh!"
 
 #: data/text/english/dialog/enemy.msg:103
 msgid "Someone should do something about you."
@@ -33789,7 +33795,7 @@ msgstr ""
 #: data/text/english/dialog/madsci.msg:204
 #: data/text/english/dialog/rd1scrb1.msg:211
 msgid "Leave me alone."
-msgstr ""
+msgstr "Lass mich in Ruhe."
 
 #: data/text/english/dialog/generic.msg:102
 #: data/text/english/dialog/gizguard.msg:107
@@ -33902,7 +33908,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:351
 msgid "[BYE]"
-msgstr ""
+msgstr "[Tschüss]"
 
 #: data/text/english/dialog/generic.msg:352
 #: data/text/english/dialog/phrax.msg:115
@@ -34478,7 +34484,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:3050
 msgid "If you try that again, I'll have to kill you."
-msgstr ""
+msgstr "Wenn du das noch mal versuchst, muss ich dich töten."
 
 #: data/text/english/dialog/generic.msg:3051
 msgid "I don't have anything to steal, you idiot."
@@ -34490,7 +34496,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:3053
 msgid "Touch that again and you'll have to pay for it."
-msgstr ""
+msgstr "Fass das noch einmal an und du wirst es bereuen."
 
 #: data/text/english/dialog/generic.msg:3054
 msgid "Get your hands off me!"
@@ -34512,7 +34518,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:3058
 msgid "Touch me again and die."
-msgstr ""
+msgstr "Wenn du mich noch einmal anfasst, bist du tot."
 
 #: data/text/english/dialog/generic.msg:3059
 msgid "Only trouble is for free."
@@ -34525,7 +34531,7 @@ msgstr ""
 #: data/text/english/dialog/generic.msg:3061
 #: data/text/english/dialog/gizguard.msg:102
 msgid "Watch it!"
-msgstr ""
+msgstr "Pass auf!"
 
 #: data/text/english/dialog/generic.msg:3062
 msgid "You look'n ta die?"
@@ -34533,7 +34539,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:3063
 msgid "You try that again, and I'll bust your head."
-msgstr ""
+msgstr "Versuch das noch mal und ich verpass dir eine."
 
 #: data/text/english/dialog/generic.msg:3064
 msgid "That's mine; hands off!"
@@ -34564,6 +34570,8 @@ msgid ""
 "Now don't go telling me you're \"just looking for your keys.\" Get outta "
 "here!"
 msgstr ""
+"Jetzt erzähl mir nicht, du \"suchst nur deine Schlüssel\". Mach dass du hier "
+"raus kommst!"
 
 #: data/text/english/dialog/generic.msg:3329
 msgid "Whatever you're looking for, it ain't there. Understand?"
@@ -35212,6 +35220,8 @@ msgstr ""
 #: data/text/english/dialog/generic.msg:3927
 msgid "If you think you're just walking by me, you can forget that!"
 msgstr ""
+"Wenn du meinst, dass du hier einfach so vorbei kommst, hast du dich "
+"getäuscht!"
 
 #: data/text/english/dialog/generic.msg:3928
 msgid "You better not be planning what I think you're planning, stranger."
@@ -35219,7 +35229,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:3929
 msgid "What? Like you think I don't notice you? Get outta here!"
-msgstr ""
+msgstr "Was? Meinst du, ich sehe dich nicht? Mach, dass du hier raus kommst!"
 
 #: data/text/english/dialog/generic.msg:4000
 msgid "Check damage resistances and thresholds."
@@ -35423,7 +35433,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:10002
 msgid "I need you to wait here until I come back."
-msgstr ""
+msgstr "Du musst hier warten, bis ich wieder da bin."
 
 #: data/text/english/dialog/generic.msg:10003
 msgid "Put your weapon away."
@@ -35439,7 +35449,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:10006
 msgid "We should spread out a bit."
-msgstr ""
+msgstr "Wir sollten uns ein bisschen verteilen."
 
 #: data/text/english/dialog/generic.msg:10007
 msgid "That's it for now."
@@ -35451,7 +35461,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:10009
 msgid "I need to talk to you about your gear."
-msgstr ""
+msgstr "Ich muss mit dir über deine Ausrüstung reden."
 
 #: data/text/english/dialog/generic.msg:10010
 msgid "On second thought, I think this distance is okay for now."
@@ -35464,7 +35474,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:10012
 msgid "I need you to remove the armor that you're wearing."
-msgstr ""
+msgstr "Ich möchte, dass du deine Rüstung ablegst."
 
 #: data/text/english/dialog/generic.msg:10013
 msgid "I need to know what kind of weapons you can use."
@@ -36579,7 +36589,7 @@ msgstr ""
 #: data/text/english/dialog/genraid2.msg:135
 #: data/text/english/dialog/genraidr.msg:135
 msgid "Bite me!"
-msgstr ""
+msgstr "Lass mich in Ruh'!"
 
 #: data/text/english/dialog/genraid2.msg:136
 #: data/text/english/dialog/genraidr.msg:136
@@ -37304,7 +37314,7 @@ msgstr ""
 #: data/text/english/dialog/genvault.msg:149
 #: data/text/english/dialog/trish.msg:120
 msgid "Just leave me alone."
-msgstr ""
+msgstr "Lass mich einfach in Ruhe."
 
 #: data/text/english/dialog/genvault.msg:150
 msgid "I think you should leave me and my family alone, "
@@ -43021,7 +43031,7 @@ msgstr ""
 #: data/text/english/dialog/talus.msg:150
 #: data/text/english/dialog/trish.msg:148
 msgid "Thanks, bye."
-msgstr ""
+msgstr "Danke, Tschüss."
 
 #: data/text/english/dialog/hbeth.msg:182
 msgid "What else would you like to know about?"
@@ -43651,7 +43661,7 @@ msgstr ""
 
 #: data/text/english/dialog/hbeth.msg:341
 msgid "Maybe next time. Bye."
-msgstr ""
+msgstr "Vielleicht nächstes Mal. Tschüss."
 
 #: data/text/english/dialog/hbeth.msg:342
 msgid "Hope I can help you better next time."
@@ -45021,7 +45031,7 @@ msgstr ""
 #: data/text/english/dialog/hhookera.msg:115
 #: data/text/english/dialog/rdfalcon.msg:115
 msgid "I feel a little queasy."
-msgstr ""
+msgstr "Mir ist ein bisschen übel."
 
 #: data/text/english/dialog/hhookera.msg:116
 msgid "Drinks are on me... I mean, you."
@@ -46823,7 +46833,7 @@ msgstr ""
 
 #: data/text/english/dialog/htwrleon.msg:129
 msgid "You're welcome. Goodbye."
-msgstr ""
+msgstr "Gern geschehn. Tschüss."
 
 #: data/text/english/dialog/htwrleon.msg:130
 msgid "Mr. Hightower is not taking any visitors. Now leave!"
@@ -47659,7 +47669,7 @@ msgstr ""
 #: data/text/english/dialog/hunter.msg:104
 #: data/text/english/dialog/jain.msg:104
 msgid "Just looking around."
-msgstr ""
+msgstr "Schau mich nur 'n bisschen um."
 
 #: data/text/english/dialog/hunter.msg:106
 msgid "We don't appreciate wise guys here. Buzz off."
@@ -48726,7 +48736,7 @@ msgstr ""
 
 #: data/text/english/dialog/invgrd.msg:203
 msgid "Don't count on it."
-msgstr ""
+msgstr "Verlass dich nicht darauf."
 
 #: data/text/english/dialog/invgrd.msg:204
 msgid "Have we heard back from the scouts?"
@@ -52818,7 +52828,7 @@ msgstr ""
 
 #: data/text/english/dialog/justin.msg:191
 msgid "Whatever, bye."
-msgstr ""
+msgstr "Wie du meinst, tschüss."
 
 #: data/text/english/dialog/justin.msg:192
 msgid "Thank you. Have a nice day!"
@@ -54950,7 +54960,7 @@ msgstr ""
 #: data/text/english/dialog/regulatr.msg:114
 #: data/text/english/dialog/tycho.msg:172
 msgid "Nothing. Never mind."
-msgstr ""
+msgstr "Nichts. Vergiss es."
 
 #: data/text/english/dialog/katja.msg:184
 msgid "I'm really starting to hate this place."
@@ -60054,7 +60064,7 @@ msgstr ""
 
 #: data/text/english/dialog/leader.msg:169
 msgid "Thanks for the directions. Goodbye."
-msgstr ""
+msgstr "Danke für die Beschreibung. Tschüss."
 
 #: data/text/english/dialog/leader.msg:170
 msgid ""
@@ -60992,7 +61002,7 @@ msgstr ""
 
 #: data/text/english/dialog/locker.msg:103
 msgid "You fail to pick the lock."
-msgstr ""
+msgstr "Du schaffst es nicht, das Schloss zu öffnen."
 
 #: data/text/english/dialog/locker.msg:105
 msgid "You break your picks in the lock!"
@@ -72791,7 +72801,7 @@ msgstr ""
 
 #: data/text/english/dialog/nicole.msg:277
 msgid "Sorry, I gotta go."
-msgstr ""
+msgstr "Tut mir leid, ich muss gehn."
 
 #: data/text/english/dialog/nicole.msg:278
 msgid "Nuh, nuh, uh?"
@@ -77885,7 +77895,7 @@ msgstr ""
 
 #: data/text/english/dialog/rae.msg:148
 msgid "Sorry, got to go."
-msgstr ""
+msgstr "Tut mir leid, ich muss los."
 
 #: data/text/english/dialog/rae.msg:149
 msgid "I should kill you for taunting me!"
@@ -79888,7 +79898,7 @@ msgstr ""
 
 #: data/text/english/dialog/regulatr.msg:134
 msgid "Watch yourself."
-msgstr ""
+msgstr "Pass bloß auf."
 
 #: data/text/english/dialog/regulatr.msg:136
 msgid "Stay in line."
@@ -86246,7 +86256,7 @@ msgstr ""
 
 #: data/text/english/dialog/sinthia.msg:125
 msgid "Who's your boss?"
-msgstr ""
+msgstr "Wer ist dein Boss?"
 
 #: data/text/english/dialog/sinthia.msg:126
 msgid "What bargain?"
@@ -93009,7 +93019,7 @@ msgstr ""
 
 #: data/text/english/dialog/trish.msg:104
 msgid "Sorry. Bye."
-msgstr ""
+msgstr "Tut mir leid. Tschüss."
 
 #: data/text/english/dialog/trish.msg:105
 msgid ""
@@ -95283,7 +95293,7 @@ msgstr ""
 
 #: data/text/english/dialog/vance.msg:111
 msgid "No. Bye."
-msgstr ""
+msgstr "Nein. Tschüss."
 
 #: data/text/english/dialog/vance.msg:112
 msgid "If you don't already know, you shouldn't be here. Now leave."
@@ -99639,7 +99649,7 @@ msgstr ""
 
 #: data/text/english/dialog/zax.msg:131
 msgid "I see. Let's change the subject."
-msgstr ""
+msgstr "Verstehe. Lass' uns über was anderes reden."
 
 #: data/text/english/dialog/zax.msg:132
 msgid "But if you are fallible, how can you be used as a research tool?"
@@ -99669,7 +99679,7 @@ msgstr ""
 
 #: data/text/english/dialog/zax.msg:137 data/text/english/dialog/zax.msg:141
 msgid "Let's talk about something else."
-msgstr ""
+msgstr "Lass uns lieber über was anderes reden."
 
 #: data/text/english/dialog/zax.msg:139
 msgid ""
@@ -100799,7 +100809,7 @@ msgstr ""
 #: data/text/english/game/combat.msg:5010
 #: data/text/english/game/combat.msg:5110
 msgid ", leaving a big bruise"
-msgstr ""
+msgstr " und hinterlässt einen großen blauen Fleck"
 
 #: data/text/english/game/combat.msg:5011
 msgid ", crippling the left arm"
@@ -100807,7 +100817,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5012
 msgid ", leaving the left arm dangling by the skin"
-msgstr ""
+msgstr " und lässt den Arm nur noch an Hautfetzen baumeln"
 
 #: data/text/english/game/combat.msg:5013
 #: data/text/english/game/combat.msg:5113
@@ -100816,7 +100826,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5014
 msgid ", leaving a crippled right arm"
-msgstr ""
+msgstr " und hinterlässt einen verstümmelten rechten Arm"
 
 #: data/text/english/game/combat.msg:5015
 msgid ". His right arm is pulverized by this powerful blow"
@@ -100868,7 +100878,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5026
 msgid ". The intense pain of having a leg removed causes him to quit"
-msgstr ""
+msgstr ". Der intensive Schmerz des Beinverlusts lässt ihn einhalten"
 
 #: data/text/english/game/combat.msg:5027
 #: data/text/english/game/combat.msg:5127
@@ -101040,7 +101050,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5203
 msgid ". The blow is true, and the child is knocked unconscious"
-msgstr ""
+msgstr ". Der Schlag sitzt, und das Kind wird bewusstlos"
 
 #: data/text/english/game/combat.msg:5204
 msgid ", smashing the small child around like a limp rag"
@@ -101104,7 +101114,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5219
 msgid ", which blinds the youth"
-msgstr ""
+msgstr ", was den kleinen Menschen erblinden lässt"
 
 #: data/text/english/game/combat.msg:5220
 msgid ", bashing in the youthful looking nose"
@@ -101162,7 +101172,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5306
 msgid ", causing the giant to spend a moment cursing the universe"
-msgstr ""
+msgstr " und lässt den Mutanten einen Augenblick lang das Universum verfluchen"
 
 #: data/text/english/game/combat.msg:5307
 msgid ", striking a nerve and forcing the giant to grab his arm in pain"
@@ -101181,6 +101191,8 @@ msgid ""
 ", causing the giant to stumble for a moment and then collapse like a felled "
 "tree"
 msgstr ""
+", lässt den Riesen einen Moment lang stolpern und dann wie einen gefällten "
+"Baum umkippen"
 
 #: data/text/english/game/combat.msg:5311
 msgid ", and gallons of viscera splurt to the ground"
@@ -101204,11 +101216,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5316
 msgid ", nearly blinding the mutant"
-msgstr ""
+msgstr " und lässt den Mutanten fast erblinden"
 
 #: data/text/english/game/combat.msg:5317
 msgid ", blinding the now-furious mutant"
-msgstr ""
+msgstr " und lässt den wütenden Mutanten erblinden"
 
 #: data/text/english/game/combat.msg:5318
 msgid ", not quite blinding the mutant but throwing him off balance"
@@ -101220,7 +101232,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5320
 msgid ", blinding the now-unconscious mutant"
-msgstr ""
+msgstr " und lässt den bewusstlosen Mutanten erblinden"
 
 #: data/text/english/game/combat.msg:5321
 msgid ""
@@ -101298,7 +101310,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5508
 msgid ", blinding both heads and stunning the mutant cow"
-msgstr ""
+msgstr ", lässt beide Köpfe erblinden und betäubt die Mutantenkuh"
 
 #: data/text/english/game/combat.msg:5509
 msgid ", completely blinding the brahma and knocking it out"
@@ -101373,7 +101385,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5612
 msgid ", almost penetrating to the brain, but blinding the creature instead"
-msgstr ""
+msgstr " und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden"
 
 #: data/text/english/game/combat.msg:5613
 msgid ""
@@ -101434,11 +101446,13 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5710
 msgid ", putting a big hole in the left leg"
-msgstr ""
+msgstr " und hinterlässt ein großes Loch im linken Bein"
 
 #: data/text/english/game/combat.msg:5711
 msgid ", doing some extra damage due to the sensitive location"
 msgstr ""
+" und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle "
+"handelt"
 
 #: data/text/english/game/combat.msg:5712
 msgid ", summoning this creature to the great ratcatcher in the sky"
@@ -101467,7 +101481,7 @@ msgstr ""
 #: data/text/english/game/combat.msg:5805
 msgid ""
 ". The blow causes the floater to shudder violently in a spray of crimson"
-msgstr ""
+msgstr ". Der Schlag lässt den Floater in einer blutroten Wolke erschauern"
 
 #: data/text/english/game/combat.msg:5806
 msgid ", the blow causing some sort of violent reaction in the creature"
@@ -101552,6 +101566,7 @@ msgstr ""
 #: data/text/english/game/combat.msg:6002
 msgid ", hitting a critical component and forcing the robot out of control"
 msgstr ""
+", trifft ein kritisches Bauteil und lässt den Roboter die Kontrolle verlieren"
 
 #: data/text/english/game/combat.msg:6003
 msgid ", hitting a critical component and causing a massive malfunction"
@@ -101671,7 +101686,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6210
 msgid ", blinding the insect with an accurate blow"
-msgstr ""
+msgstr " und lässt das Insekt mit einem präzisen Schlag erblinden"
 
 #: data/text/english/game/combat.msg:6300
 msgid ". Even this beast seems fazed by that stunning attack"
@@ -101798,7 +101813,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6518
 msgid ". The painful blow makes you flinch, but does little else"
-msgstr ""
+msgstr ". Der schmerzhafte Schlag lässt dich zucken, sonst nichts"
 
 #: data/text/english/game/combat.msg:6519
 msgid ". Unlucky for you, it also causes immediate vision loss"
@@ -101813,16 +101828,20 @@ msgid ""
 ", slipping past your armor. You stand stunned as your realize you cannot see"
 " anymore"
 msgstr ""
+" und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr "
+"sehen kannst"
 
 #: data/text/english/game/combat.msg:6522
 msgid ""
 ". You feel a strange sensation in your head. You realize it's imminent "
 "brain-death"
 msgstr ""
+". Ein seltsames Gefühl steigt in deinen Kopf. Dir wird klar, dass dein "
+"Gehirntod kurz bevor steht"
 
 #: data/text/english/game/combat.msg:6523
 msgid ", making you cringe"
-msgstr ""
+msgstr " und lässt dich zusammenzucken"
 
 #: data/text/english/game/combat.msg:6524
 msgid ". You cup your groin and fall to the floor in pain"
@@ -101830,7 +101849,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6525
 msgid ". The pain is sufficient to knock you out. Ouch"
-msgstr ""
+msgstr ". Der Schmerz lässt dich ohnmächtig werden. Autsch"
 
 #: data/text/english/game/combat.msg:6526
 msgid ""
@@ -102457,7 +102476,7 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:1111
 msgid "Let's bury this loser!"
-msgstr ""
+msgstr "Lasst uns diesen Versager begraben!"
 
 #: data/text/english/game/combatai.msg:1112
 #: data/text/english/game/combatai.msg:1312
@@ -102819,7 +102838,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:6400
 #: data/text/english/game/combatai.msg:6500
 msgid "Gotta get outta here!"
-msgstr ""
+msgstr "Muss machen, dass ich hier wegkomme!"
 
 #: data/text/english/game/combatai.msg:1201
 #: data/text/english/game/combatai.msg:2801
@@ -102874,7 +102893,7 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:1209
 msgid "Everybody! It's target practice!"
-msgstr ""
+msgstr "Los, Leute! Lasst uns ein paar Zielübungen machen!"
 
 #: data/text/english/game/combatai.msg:1210
 msgid "Bleed, bleed, bleed!"
@@ -104308,7 +104327,7 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:1810
 msgid "I guess I have to defend myself"
-msgstr ""
+msgstr "Ich schätze, ich muss mich verteidigen."
 
 #: data/text/english/game/combatai.msg:1811
 msgid "Here goes nothing"
@@ -104420,7 +104439,7 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:1842
 msgid "Just leave me alone!"
-msgstr ""
+msgstr "Lass mich in Ruhe!"
 
 #: data/text/english/game/combatai.msg:1843
 msgid "Ohhh, pain!"
@@ -104486,12 +104505,12 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:1903
 msgid "This was fun, but I'm gone!"
-msgstr ""
+msgstr "War schön dich zu sehn, doch jetzt muss ich gehn!"
 
 #: data/text/english/game/combatai.msg:1905
 #: data/text/english/game/combatai.msg:3505
 msgid "Let's do this again soon!"
-msgstr ""
+msgstr "Lass uns das bald mal wieder tun!"
 
 #: data/text/english/game/combatai.msg:1906
 msgid "I'm gonna pin your ears back!"
@@ -104550,7 +104569,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:1920
 #: data/text/english/game/combatai.msg:3520
 msgid "Let's open you up a little..."
-msgstr ""
+msgstr "Du solltest ein bisschen offener auf die Leute zugehen..."
 
 #: data/text/english/game/combatai.msg:1921
 msgid "You're dogfood, friend."
@@ -105227,7 +105246,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:5451
 #: data/text/english/game/combatai.msg:5532
 msgid "You call that pain? I laugh!"
-msgstr ""
+msgstr "Das nennst du Schmerz? Dass ich nicht lache!"
 
 #: data/text/english/game/combatai.msg:2233
 #: data/text/english/game/combatai.msg:2236
@@ -109058,7 +109077,7 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:5716
 msgid "Goodbye!"
-msgstr ""
+msgstr "Tschüss!"
 
 #: data/text/english/game/combatai.msg:5718
 msgid "Troublemaking scum!"
@@ -109260,7 +109279,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:6109
 #: data/text/english/game/combatai.msg:6209
 msgid "You need to learn some respect!"
-msgstr ""
+msgstr "Du musst ein bisschen Respekt lernen!"
 
 #: data/text/english/game/combatai.msg:6110
 msgid "Time to earn my pay..."
@@ -111584,7 +111603,7 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:8115
 msgid "The intruder must be destroyed!"
-msgstr ""
+msgstr "Der Eindringling muss zerstört werden!"
 
 #: data/text/english/game/combatai.msg:8116
 msgid "Tactical options selection completed"
@@ -113192,6 +113211,8 @@ msgid ""
 "You are very fatigued, the vomiting does not stop, and your recovery time is"
 " impaired."
 msgstr ""
+"Du bist sehr erschöpft, der Brechreiz lässt nicht nach, und deine "
+"Erholungszeit ist gestört."
 
 #: data/text/english/game/misc.msg:1003
 msgid ""
@@ -113229,7 +113250,7 @@ msgstr ""
 
 #: data/text/english/game/misc.msg:2001
 msgid "The lock is jammed."
-msgstr ""
+msgstr "Das Schloss klemmt."
 
 #: data/text/english/game/misc.msg:3000
 msgid "You have been poisoned!"
@@ -118489,6 +118510,8 @@ msgid ""
 "A briefcase, with a Made-in-the-USA label. Leather. Good condition, but the "
 "combination lock is broken."
 msgstr ""
+"Eine Aktentasche aus Leder mit einem Etikett \"Made in USA\". Guter Zustand, "
+"aber das Zahlenschloss ist kaputt."
 
 #: data/text/english/game/pro_item.msg:7300
 msgid "Big Book of Science"
@@ -118590,6 +118613,7 @@ msgstr ""
 #: data/text/english/game/pro_item.msg:8201
 msgid "A key. A key will open a particular lock."
 msgstr ""
+"Ein Schlüssel. Mit einem Schlüssel wird ein bestimmtes Schloss geöffnet."
 
 #: data/text/english/game/pro_item.msg:8300
 msgid "Key Ring"
@@ -118725,7 +118749,7 @@ msgstr ""
 
 #: data/text/english/game/pro_item.msg:9801
 msgid "A pile of junk parts. A little bit of everything."
-msgstr ""
+msgstr "Ein Haufen Schrott. Ein bisschen was von allem."
 
 #: data/text/english/game/pro_item.msg:9900
 msgid "Gold Locket"
@@ -118745,6 +118769,8 @@ msgid ""
 "A model 2043B Radio Communicator, from the fine people at Wattz Electronics."
 " Dependable, rugged, and camouflaged. With the optional RS-121 interface."
 msgstr ""
+"Funkgerät vom Modell 2043B von Wattz Electronics. Verlässlich, robust und "
+"unauffällig. Mit optionaler RS 121-Schnittstelle."
 
 #: data/text/english/game/pro_item.msg:10100
 msgid "Lighter"
@@ -119499,6 +119525,8 @@ msgstr ""
 #: data/text/english/game/pro_item.msg:21401
 msgid "A desk. After further observation, you decide that it is still a desk."
 msgstr ""
+"Ein Schreibtisch. Nach näherer Untersuchung entscheidest du, dass es immer "
+"noch ein Schreibtisch ist."
 
 #: data/text/english/game/pro_item.msg:21500
 msgid "Brotherhood History"
@@ -119912,7 +119940,7 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:100
 msgid "Burning Metal Barrel"
-msgstr ""
+msgstr "Brennendes Metallfass"
 
 #: data/text/english/game/pro_scen.msg:101
 msgid "The barrel contains burning paper and other flaming refuse."
@@ -119941,12 +119969,12 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:39600
 #: data/text/english/game/pro_scen.msg:39700
 msgid "Metal Barrel"
-msgstr ""
+msgstr "Metallfass"
 
 #: data/text/english/game/pro_scen.msg:501
 #: data/text/english/game/pro_scen.msg:601
 msgid "An old barrel, made from steel."
-msgstr ""
+msgstr "ein altes Fass aus Stahl."
 
 #: data/text/english/game/pro_scen.msg:700
 msgid "Stack of tires"
@@ -120367,6 +120395,7 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:5401
 msgid "It's a chair. Too bad you don't have time to sit down and relax."
 msgstr ""
+"Ein Stuhl. Nur schade, dass du keine Zeit zum Hinsetzen und Entspannen hast."
 
 #: data/text/english/game/pro_scen.msg:4900
 #: data/text/english/game/pro_scen.msg:4901
@@ -120407,7 +120436,7 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:6101
 msgid ""
 "It's a table. Before tables, people had to keep their stuff on the floor."
-msgstr ""
+msgstr "Ein Tisch. Bevor es Tische gab, musste man seinen Kram am Boden lagern."
 
 #: data/text/english/game/pro_scen.msg:6201
 msgid "It's definitely a table."
@@ -120486,6 +120515,8 @@ msgid ""
 "There is nothing out of the ordinary with this bloody stain. Except, of "
 "course, that someone or something died here."
 msgstr ""
+"An diesem Blutfleck ist nichts ungewöhnliches. Außer, dass hier jemand oder "
+"etwas gestorben ist, natürlich."
 
 #: data/text/english/game/pro_scen.msg:7200
 #: data/text/english/game/pro_scen.msg:7300
@@ -120533,7 +120564,7 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:7501
 msgid "You keep a close eye on these rocks, in case they move to attack you."
-msgstr ""
+msgstr "Du lässt die Felsen nicht aus dem Auge, damit sie dich nicht angreifen."
 
 #: data/text/english/game/pro_scen.msg:7600
 msgid "Car Wall Floor"
@@ -120570,6 +120601,8 @@ msgid ""
 "A large pile of bleached animal bones. At least, you think all the bones are"
 " animal..."
 msgstr ""
+"Ein großer Haufen ausgebleichter Tierknochen. Zumindest glaubst, dass sie "
+"von Tieren stammen..."
 
 #: data/text/english/game/pro_scen.msg:8401
 msgid ""
@@ -120703,6 +120736,8 @@ msgid ""
 "It's a rusted car door leaning on a rusted metal barrel. A whole lot of rust"
 " is going on."
 msgstr ""
+"Eine verrostete alte Autotür lehnt an einem verrosteten Metallfass. Ganz "
+"schön viel Rost."
 
 #: data/text/english/game/pro_scen.msg:10701
 msgid ""
@@ -121745,6 +121780,8 @@ msgid ""
 "This is the symbol of the Brotherhood of Steel. This marker tells the "
 "wasteland that this is their area, and to leave immediately."
 msgstr ""
+"Dies ist das Symbol der Brotherhood of Steel. Die Markierung zeigt dem "
+"Ödland, dass dies ihr Gebiet ist, das sofort zu verlassen ist."
 
 #: data/text/english/game/pro_scen.msg:15801
 #: data/text/english/game/pro_scen.msg:15901
@@ -121901,6 +121938,8 @@ msgstr ""
 msgid ""
 "You think this could mean that you are on level one of the Brotherhood."
 msgstr ""
+"Das könnte wohl bedeuten, dass du dich auf Ebene Eins der Brotherhood "
+"befindest."
 
 #: data/text/english/game/pro_scen.msg:18700
 msgid "Level 'Two' Sign"
@@ -121916,7 +121955,7 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:18801
 msgid "This must mean that you are on level three of the Brotherhood."
-msgstr ""
+msgstr "Das heißt wohl, dass du auf Ebene Drei der Brotherhood bist."
 
 #: data/text/english/game/pro_scen.msg:18900
 msgid "Level 'Four' Sign"
@@ -122074,6 +122113,8 @@ msgid ""
 "On closer examination, you determine that the sheets have not been changed "
 "in a very, very long time."
 msgstr ""
+"Nach näherer Betrachtung stellst du fest, dass die Laken schon seit sehr, "
+"sehr langer Zeit nicht mehr gewechselt wurden."
 
 #: data/text/english/game/pro_scen.msg:21201
 msgid ""
@@ -122086,6 +122127,8 @@ msgid ""
 "This bed has seen a lot of use and wear. Something must have crawled between"
 " the mattresses and died, too."
 msgstr ""
+"Dieses Bett wurde oft und intensiv genutzt. Es muss auch etwas zwischen die "
+"Matratzen gekrochen sein, um dort zu sterben."
 
 #: data/text/english/game/pro_scen.msg:22000
 #: data/text/english/game/pro_scen.msg:22100
@@ -122099,7 +122142,7 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:22001
 #: data/text/english/game/pro_scen.msg:22301
 msgid "These wooden boxes are falling apart from the weather."
-msgstr ""
+msgstr "Diese Holzkisten sind so verwittert, dass sie auseinanderfallen."
 
 #: data/text/english/game/pro_scen.msg:22101
 msgid "You find no details worth mentioning about these wooden boxes."
@@ -122110,6 +122153,8 @@ msgid ""
 "You have a lot of time on your hands to be looking closely at this rotten "
 "junk."
 msgstr ""
+"Du musst viel Zeit haben, dass du dir diesen verrotteten Müll so genau "
+"ansehen kannst."
 
 #: data/text/english/game/pro_scen.msg:22400
 #: data/text/english/game/pro_scen.msg:22500
@@ -122134,11 +122179,13 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:22601
 msgid "You determine that this vehicle will never drive again. Really."
-msgstr ""
+msgstr "Du beschließt, dass dieses Fahrzeug nie mehr fahren wird. Ehrlich."
 
 #: data/text/english/game/pro_scen.msg:22701
 msgid "There is no way that this junkyard wannabe will ever drive again."
 msgstr ""
+"Es besteht nicht die geringste Chance, dass diese Schrottkiste je wieder "
+"fahren wird."
 
 #: data/text/english/game/pro_scen.msg:22801
 msgid ""
@@ -122244,6 +122291,8 @@ msgstr ""
 msgid ""
 "The lock on this gate has been jammed shut and the bars look very sturdy."
 msgstr ""
+"Das Schloss dieses Tors wurde verriegelt, und die Riegel sehen sehr stabil "
+"aus."
 
 #: data/text/english/game/pro_scen.msg:25201
 #: data/text/english/game/pro_scen.msg:25301
@@ -122261,6 +122310,7 @@ msgstr ""
 msgid ""
 "The mailbox is empty. You get the feeling it's been that way for a while."
 msgstr ""
+"Der Briefkasten ist leer. Du hast das Gefühl, dass er das schon lange ist."
 
 #: data/text/english/game/pro_scen.msg:25801
 #: data/text/english/game/pro_scen.msg:25901
@@ -122279,7 +122329,7 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:26401
 msgid "A wooden pew that has succumbed to the effects of age and abuse."
-msgstr ""
+msgstr "Eine hölzerne Kirchenbank, die vor Alter und Missbrauch zusammenbricht."
 
 #: data/text/english/game/pro_scen.msg:26500
 #: data/text/english/game/pro_scen.msg:26600
@@ -122328,6 +122378,8 @@ msgid ""
 "A pile of old, cardboard boxes. You cannot believe that they have survived "
 "for this long."
 msgstr ""
+"Ein Haufen alter Kartons. Du kannst nicht glauben, dass sie so lange "
+"überstanden haben."
 
 #: data/text/english/game/pro_scen.msg:27601
 msgid "A pile of old, cardboard boxes."
@@ -122359,6 +122411,7 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:28101
 msgid "A small pile of rubbled stones and rocks. Watch your step!"
 msgstr ""
+"Ein kleiner Haufen Gesteins- und Felsschutt. Pass auf, wo du hintrittst!"
 
 #: data/text/english/game/pro_scen.msg:28200
 #: data/text/english/game/pro_scen.msg:28300
@@ -122447,6 +122500,8 @@ msgid ""
 "This sign should mark what street it is on, but the letters have faded into "
 "obscurity."
 msgstr ""
+"Dieses Schild sollte angeben, wie die Straße heißt, doch die Buchstaben sind "
+"völlig verblasst."
 
 #: data/text/english/game/pro_scen.msg:30001
 #: data/text/english/game/pro_scen.msg:30101
@@ -122666,7 +122721,7 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:33901
 #: data/text/english/game/pro_scen.msg:34101
 msgid "A broken lamp. It is not surprising that it does not work."
-msgstr ""
+msgstr "Eine kaputte Lampe. Kein Wunder, dass sie nicht funktioniert."
 
 #: data/text/english/game/pro_scen.msg:34200
 #: data/text/english/game/pro_scen.msg:34300
@@ -122744,6 +122799,8 @@ msgid ""
 "This seat is supported by large concrete bricks. That's not important, but "
 "you're the one who looked."
 msgstr ""
+"Dieser Sitz wird von großen Betonziegeln gestützt. Das ist zwar unwichtig, "
+"aber du musstest ja unbedingt nachsehen."
 
 #: data/text/english/game/pro_scen.msg:34800
 #: data/text/english/game/pro_scen.msg:34900
@@ -122965,11 +123022,11 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:39601
 msgid "A rusty metal barrel. It is empty."
-msgstr ""
+msgstr "Ein rostiges Metallfass. Es ist leer."
 
 #: data/text/english/game/pro_scen.msg:39701
 msgid "This barrel is probably empty from the hollow sound."
-msgstr ""
+msgstr "Dem hohlen Klang nach zu schließen ist das Fass wahrscheinlich leer."
 
 #: data/text/english/game/pro_scen.msg:39800
 #: data/text/english/game/pro_scen.msg:39900
@@ -123109,6 +123166,8 @@ msgid ""
 "This door leads to the elevator car. If you want to use the elevator, you "
 "must first open this door."
 msgstr ""
+"Diese Tür führt zur Aufzugskabine. Wenn du den Aufzug benutzen willst, musst "
+"du erst diese Tür öffnen."
 
 #: data/text/english/game/pro_scen.msg:42201
 msgid "A metal pipe. Further details are not important."
@@ -123389,6 +123448,8 @@ msgid ""
 "A large monitor, black and white only. The reception is pretty good for "
 "being indoors without an antenna."
 msgstr ""
+"Ein großer Schwarz-Weiß-Fernseher. Der Empfang ist recht gut, wenn man "
+"bedenkt, dass er ohne Antenne in einem Innenraum steht."
 
 #: data/text/english/game/pro_scen.msg:48801
 msgid ""
@@ -123581,7 +123642,7 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:55100
 #: data/text/english/game/pro_scen.msg:55200
 msgid "Barrel"
-msgstr ""
+msgstr "Fass"
 
 #: data/text/english/game/pro_scen.msg:55101
 msgid ""
@@ -123594,6 +123655,8 @@ msgid ""
 "This barrel contains some green glowing goo. The nuclear trefoil symbol "
 "gives a clue to what the goo might be."
 msgstr ""
+"Dieses Fass enthält grün leuchtenden Glibber. Das Atomsymbol gibt einen "
+"Hinweis darauf, was der Glibber sein könnte."
 
 #: data/text/english/game/pro_scen.msg:55301
 #: data/text/english/game/pro_scen.msg:55401
@@ -123742,7 +123805,7 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:58201
 msgid "This sign says this store is called Darkwater's."
-msgstr ""
+msgstr "Das Schild besagt, dass es sich um Darkwaters Laden handelt."
 
 #: data/text/english/game/pro_scen.msg:58301
 #: data/text/english/game/pro_scen.msg:58401
@@ -124409,6 +124472,8 @@ msgid ""
 "There is nothing unusual about this table, except that it is almost "
 "destroyed."
 msgstr ""
+"An diesem Tisch gibt es nichts Ungewöhnliches, außer, dass er fast völlig "
+"zerstört ist."
 
 #: data/text/english/game/pro_scen.msg:79701
 msgid "This table was badly damaged."
@@ -124730,6 +124795,8 @@ msgid ""
 "There is an urn sitting on this bar. The urn looks a little beat up, but "
 "might be valuable."
 msgstr ""
+"Eine Urne steht auf der Bar. Die Urne sieht ein bisschen mitgenommen aus, "
+"doch sie könnte wertvoll sein."
 
 #: data/text/english/game/pro_scen.msg:90101
 msgid "The shaft has a rope hanging from above."
@@ -126075,11 +126142,11 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:583
 msgid "To your dismay, you realize that it is already dead."
-msgstr ""
+msgstr "Entsetzt merkst du, dass es schon tot ist."
 
 #: data/text/english/game/proto.msg:584
 msgid "As you reach down, you realize that it is already dead."
-msgstr ""
+msgstr "Als du es berührst, merkst du, dass es schon tot ist."
 
 #: data/text/english/game/proto.msg:585
 msgid "Alas, you are too late."
@@ -126155,7 +126222,7 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:676
 msgid "I don't think I can do that."
-msgstr ""
+msgstr "Ich glaube nicht, dass ich das tun kann."
 
 #: data/text/english/game/proto.msg:677
 msgid "Arf!"
@@ -128544,7 +128611,7 @@ msgstr ""
 
 #: data/text/english/game/skill.msg:513
 msgid "Let the dead rest in peace."
-msgstr ""
+msgstr "Lass die Toten in Frieden ruhen."
 
 #: data/text/english/game/skill.msg:514
 msgid "It's dead, get over it."

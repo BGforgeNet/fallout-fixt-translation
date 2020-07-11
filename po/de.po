@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2020-07-11 14:12+0000\n"
+"PO-Revision-Date: 2020-07-12 14:12+0000\n"
 "Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -4924,6 +4924,8 @@ msgid ""
 "Her brilliant if headstrong style of leadership makes Shady Sands a powerful"
 " force in the years to come."
 msgstr ""
+"Durch ihren brillanten, wenn auch eigenwilligen Führungsstil wird Shady "
+"Sands in den folgenden Jahren zu einer einflussreichen Macht."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_22.txt:1
@@ -23716,7 +23718,7 @@ msgstr ""
 #: data/text/english/dialog/michael.msg:252
 #: data/text/english/dialog/rhombus.msg:202
 msgid "Thank you. Bye."
-msgstr ""
+msgstr "Danke. Tschüss."
 
 #: data/text/english/dialog/darrel.msg:208
 msgid "Thank you for your time."
@@ -76170,7 +76172,7 @@ msgstr ""
 
 #: data/text/english/dialog/patrick.msg:114
 msgid "Uh, right. Bye."
-msgstr ""
+msgstr "Äh, richtig. Tschüss."
 
 #: data/text/english/dialog/patrick.msg:115
 msgid "Uh huh. So what's your story?"
@@ -121615,24 +121617,30 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:13700
 #: data/text/english/game/pro_scen.msg:13800
 msgid "Drain"
-msgstr ""
+msgstr "Abfluss"
 
 #: data/text/english/game/pro_scen.msg:13501
 msgid ""
 "There is some sort of rank, disgusting smell coming from this sewer drain. "
 "After a few moments, it doesn't smell as bad."
 msgstr ""
+"Ein ranziger, widerlicher Geruch steigt aus dem Abfluss empor. Nach einigen "
+"Augenblicken riecht es nicht mehr so übel."
 
 #: data/text/english/game/pro_scen.msg:13601
 msgid ""
 "You can barely make out some movement behind the grate covering this drain. "
 "You can see small red eyes peering back at you. Rat eyes."
 msgstr ""
+"Du kannst gerade so Bewegung hinter dem Abflussgitter erkennen. Du siehst "
+"rote Augen, die dich anstarren. Rattenaugen."
 
 #: data/text/english/game/pro_scen.msg:13701
 msgid ""
 "Gurgling water sounds come from this drain. So does a really vile stench."
 msgstr ""
+"Gurgelnde Wassergeräusche kommen aus dem Abfluss. Und ein abscheulicher "
+"Geruch."
 
 #: data/text/english/game/pro_scen.msg:13801
 msgid ""
@@ -122439,6 +122447,8 @@ msgid ""
 "This sink is not functional. You can tell this from the large crack down the"
 " middle."
 msgstr ""
+"Dieses Waschbecken ist hinüber. Deutlich zu sehen am großen Riss in der "
+"Mitte."
 
 #: data/text/english/game/pro_scen.msg:28600
 #: data/text/english/game/pro_scen.msg:28700
@@ -122454,6 +122464,8 @@ msgid ""
 "A red sign with the word STOP written in large block letters. The large "
 "bullet hole was added after manufacturing."
 msgstr ""
+"Ein rotes Schild, auf dem in großen Druckbuchstaben STOP steht. Das große "
+"Einschussloch wurde erst nachträglich hinzugefügt."
 
 #: data/text/english/game/pro_scen.msg:28800
 #: data/text/english/game/pro_scen.msg:28900
@@ -123836,6 +123848,8 @@ msgid ""
 "This metal table looks in good condition. There is a drain in the center of "
 "it."
 msgstr ""
+"Der Metalltisch scheint in gutem Zustand zu sein. In seiner Mitte ist ein "
+"Abfluss."
 
 #: data/text/english/game/pro_scen.msg:59301
 #: data/text/english/game/pro_scen.msg:59401
@@ -124074,7 +124088,7 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:65101
 msgid ""
 "This table is very rusty. The drain in the center of the table is clogged."
-msgstr ""
+msgstr "Der Tisch ist sehr rostig. Der Abfluss in seiner Mitte ist verstopft."
 
 #: data/text/english/game/pro_scen.msg:65201
 msgid "This table is very rusty."
@@ -126078,7 +126092,7 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:526
 msgid "It has %d/%d shots of %s."
-msgstr ""
+msgstr "Es hat %d/%d Schuss %s."
 
 #: data/text/english/game/proto.msg:530
 msgid "and has crippled limbs."
@@ -126122,7 +126136,7 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:547
 msgid " and is wielding a %s with %d/%d shots of %s."
-msgstr ""
+msgstr " und trägt: %s mit %d/%d Schuss %s."
 
 #: data/text/english/game/proto.msg:550
 msgid "\\nError: lookup_val out of range!"
@@ -128656,6 +128670,8 @@ msgstr ""
 #: data/text/english/game/skill.msg:590
 msgid "You've taxed your ability with that skill. Wait a while."
 msgstr ""
+"Du hast deine Fähigkeit mit dieser Fertigkeit überstrapaziert. Warte ein "
+"bisschen."
 
 #: data/text/english/game/skill.msg:591
 msgid "You're too tired to do that right now."
@@ -128839,6 +128855,9 @@ msgid ""
 " is important for a sharpshooter. Modifies: Sequence and ranged combat "
 "distance modifiers."
 msgstr ""
+"Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu schmecken und "
+"wahrzunehmen. Eine gute Wahrnehmung ist z.B. für Scharfschützen wichtig. "
+"Beeinflusst: Reaktions- und Distanzkampffaktoren."
 
 #: data/text/english/game/stat.msg:202
 msgid ""
@@ -128846,6 +128865,9 @@ msgid ""
 "survive where others may not. Modifies: Hit Points, Poison & Radiation "
 "Resistance, Healing Rate, and the additional hit points per level."
 msgstr ""
+"Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer überlebt, wo "
+"andere längst sterben. Beeinflusst: Trefferpunkte, Resistenz gegen Gift u. "
+"Strahlung, Heilung, Zusatztrefferpunkte pro Level."
 
 #: data/text/english/game/stat.msg:203
 msgid ""
@@ -128853,6 +128875,9 @@ msgid ""
 "characters that want to influence people with words. Modifies: NPC "
 "reactions, and barter prices."
 msgstr ""
+"Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma "
+"ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. "
+"Beeinflusst: Reaktionen von inaktiven Figuren und Preise beim Handeln."
 
 #: data/text/english/game/stat.msg:204
 msgid ""
@@ -128860,6 +128885,9 @@ msgid ""
 "important for any character. Modifies: the number of new skill points per "
 "level, dialogue options, and many skills."
 msgstr ""
+"Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für "
+"jede Figur wichtig. Beeinflusst: Anzahl der neuen Fähigkeitspunkte pro "
+"Level, Dialogoptionen und viele Fähigkeiten."
 
 #: data/text/english/game/stat.msg:205
 msgid ""
@@ -129008,6 +129036,8 @@ msgid ""
 "What the world knows of your actions and deeds. This will modify NPC "
 "reactions."
 msgstr ""
+"Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die "
+"Reaktionen von inaktiven Figuren."
 
 #: data/text/english/game/stat.msg:504
 msgid ""

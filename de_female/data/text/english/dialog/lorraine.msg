@@ -22,7 +22,7 @@
 {121}{}{What's the deal with the Regulators?}
 {122}{}{How do you avoid the Deathclaws?}
 {123}{}{Can I ask you about some other stuff?}
-{124}{}{Thanks. Bye.}
+{124}{}{Danke. Tschüss.}
 {125}{}{Oh, there's half a dozen of us. Sammael was the first one, and he's still the best.}
 {126}{}{Can I ask you about some other stuff?}
 {127}{}{Interesting. Thanks.}

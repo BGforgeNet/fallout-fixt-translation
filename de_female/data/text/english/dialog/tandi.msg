@@ -50,7 +50,7 @@
 {149}{TAND_27m}{I'm not that kind of girl, mister. Go find a brahma or something.}
 {150}{TAND_27f}{Listen... uh... but I... uh... I-I like guys, okay? Whew! Uh, excuse me, I got stuff to do.}
 {151}{TAND_28}{Well, thanks for talking. We don't get many strangers here, so it's always good to talk to new people. Well, see ya!}
-{152}{}{Bye.}
+{152}{}{Tschüss.}
 {153}{TAND_29}{Uh, listen. I have to go take care of the brahmin. It was, uh, nice talking to ya.}
 {154}{TAND_30a}{Hello again! What can I help you with now?}
 {155}{}{Can I ask you a few more questions?}

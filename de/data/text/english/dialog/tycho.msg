@@ -70,7 +70,7 @@
 {169}{}{Well it's about time. Lead on, ma'am, and let's do some street sweeping. I'd recommend knocking over Gizmo, if I may.}
 {170}{}{Yes?}
 {171}{}{I think maybe we should stick together, after all.}
-{172}{}{Nothing. Never mind.}
+{172}{}{Nichts. Vergiss es.}
 {173}{}{You earn 300 experience for recruiting Tycho, the Desert Ranger.}
 {174}{}{we be frend?}
 {175}{}{You're going down.}

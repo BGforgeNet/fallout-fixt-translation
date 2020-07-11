@@ -29,7 +29,7 @@
 {128}{}{I need a Water Chip.}
 {129}{}{I'm still looking for a Water Chip.}
 {130}{}{I want a job.}
-{131}{}{Bye.}
+{131}{}{Tschüss.}
 {132}{}{Sure, great. You're hired. Wait. What position? Oh, caravan guard, right? Yeah, sure. You can work for us. You look okay.}
 {133}{}{We already went through this. Are you willing to pay the price to have the water caravans start?}
 {134}{}{Earlier you mentioned that Necropolis might have a Water Chip. Why would they need one?}

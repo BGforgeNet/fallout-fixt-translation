@@ -244,7 +244,7 @@
 {345}{}{Kru.}
 {346}{}{Hi.}
 {347}{}{How are you?}
-{348}{}{Bye.}
+{348}{}{Tschüss.}
 {349}{}{Fine.}
 {350}{}{How are the kids?}
 {351}{}{Nice day isn't it?}

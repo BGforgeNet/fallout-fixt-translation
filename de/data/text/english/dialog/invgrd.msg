@@ -23,7 +23,7 @@
 {200}{}{Bob, what's your status?}
 {201}{}{All clear.}
 {202}{}{I don't think they're coming back.}
-{203}{}{Don't count on it.}
+{203}{}{Verlass dich nicht darauf.}
 {204}{}{Have we heard back from the scouts?}
 {205}{}{Not yet.}
 {206}{}{Scouts report that everything is clear.}

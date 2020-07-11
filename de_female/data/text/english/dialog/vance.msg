@@ -4,12 +4,12 @@
 {103}{}{Wer bist du?}
 {104}{}{What goes on in this building?}
 {105}{}{Vance, right? I heard you've got what I need. Can I score some?}
-{106}{}{Nothing. Bye.}
+{106}{}{Nichts. Tschüss.}
 {107}{}{The name's Vance, and that's all you need to know. Can I get you anything?}
 {108}{}{How should I know, if you don't tell me what you're selling?}
 {109}{}{Good to meet you Vance. What do you have to sell?}
 {110}{}{Me wan' stuff.}
-{111}{}{No. Bye.}
+{111}{}{Nein. Tschüss.}
 {112}{}{If you don't already know, you shouldn't be here. Now leave.}
 {113}{}{I GO WHEREVER I DAMN WELL PLEASE! GO TO HELL!}
 {114}{}{Okay. I'll leave.}

@@ -17,7 +17,7 @@
 {116}{}{I've heard of you. You want to find the lost city of Necropolis. A grateful people could provide information on where to go.}
 {117}{}{I'll consider it.}
 {118}{}{We could ask for nothing more.}
-{119}{}{Bye.}
+{119}{}{Tschüss.}
 {120}{}{I have some questions.}
 {121}{}{Why should you not? I have the best interests of my people at heart, and I would like to see you come to no harm.}
 {122}{}{What do you mean?}

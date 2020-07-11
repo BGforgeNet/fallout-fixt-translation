@@ -59,7 +59,7 @@
 {158}{}{The Gun Runners are over to the east and then north of here. But be careful - Deathclaws are not to be taken lightly. I've seen a Deathclaw tear a man in half with one swipe.}
 {159}{}{I'm going to go see what I can find out.}
 {160}{}{I'm sorry you feel that way. I think it would be best if you leave.}
-{161}{}{Bye.}
+{161}{}{Tschüss.}
 {162}{}{Can I help you?}
 {163}{}{Are you the leader of this gang?}
 {164}{}{Never mind.}

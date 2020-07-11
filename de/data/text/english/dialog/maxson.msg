@@ -185,7 +185,7 @@
 {306}{}{Would it be possible for me to get a hold of some better weapons?}
 {307}{}{Just a few questions first.}
 {308}{}{No, I'll see you after I find out what's going on up there.}
-{309}{}{Okay, bye.}
+{309}{}{Okay, Tschüss.}
 {310}{}{How do you know that your scouts didn't desert?}
 {311}{}{I believe I've already run into the creatures you're describing. They are not to be taken lightly.}
 {312}{}{Please forgive me. What do you think is the cause of the disappearance?}

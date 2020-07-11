@@ -2,7 +2,7 @@
 {101}{JAIN00}{Why do you disturb an elder of the Cathedral?}
 {102}{}{I have come seeking a blessing.}
 {103}{}{I'm interested in your church, and I want some information. Do you have any pamphlets?}
-{104}{}{Just looking around.}
+{104}{}{Schau mich nur 'n bisschen um.}
 {105}{}{Mom?}
 {106}{JAIN01}{I am hardly your mother.}
 {107}{}{Nuh-uh?}

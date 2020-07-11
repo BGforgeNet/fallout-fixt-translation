@@ -103,7 +103,7 @@
 {202}{}{Anything else?}
 {203}{}{Thanks.}
 {204}{BUTCH35}{Well, Necropolis is east. But uh... I wouldn't spit there if it came out gold, if ya' get my drift. Those ghouls'll eat a man's face faster than an old lady shopping at bargain day.}
-{205}{}{Sounds like fun.}
+{205}{}{Hört sich nach Spaß an.}
 {206}{BUTCH35a}{Puhh. Maybe for you! If you like that, then the Glow's down south. It's a radioactive pit.}
 {207}{}{Maybe I'll work on my tan.}
 {208}{BUTCH36}{Just a bunch of different places. Go find out for yourself!}
@@ -225,7 +225,7 @@
 {325}{}{I've got nothing to say to you.}
 {326}{}{Where do I get my reward?}
 {327}{}{What was I supposed to do again?}
-{328}{}{Get the hell out of here!}
+{328}{}{Mach, dass du schleunigst hier wegkommst!}
 {329}{}{Nothing yet.}
 {330}{}{Snargle!!!}
 {331}{}{Get out of here, you moron.}

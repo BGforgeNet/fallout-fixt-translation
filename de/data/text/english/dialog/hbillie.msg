@@ -27,7 +27,7 @@
 {126}{}{Please don't hurt me or my brahmin.}
 {127}{}{Don't hurt me!}
 {128}{}{Stop it!}
-{129}{}{Please leave me alone.}
+{129}{}{Lass mich bitte in Ruhe.}
 {130}{}{You're scaring me.}
 {131}{}{Hey, what are you trying to do? I don't have anything you'd want.}
 {132}{}{Stop that!}

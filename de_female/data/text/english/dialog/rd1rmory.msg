@@ -11,7 +11,7 @@
 {110}{}{Nice to see you.}
 {111}{}{Come again.}
 {112}{}{See you again soon.}
-{113}{}{Bye.}
+{113}{}{Tschüss.}
 {114}{}{Sorry, I'll try to get more inventory soon.}
 {115}{}{I think I might need to diversify.}
 {116}{}{Thanks.}

@@ -55,7 +55,7 @@
 {201}{}{You see a Super Mutant, obviously guarding the scientists. He looks bored}
 {202}{}{Intruders!}
 {203}{}{I'm just watching the mads. Don't talk to me.}
-{204}{}{Leave me alone.}
+{204}{}{Lass mich in Ruhe.}
 {300}{}{You see a sleeping mad scientist.}
 {301}{}{Zzzzzz}
 {302}{}{Huh! What? [rubs eyes] Vincent, remove this heathen from our chambers!}

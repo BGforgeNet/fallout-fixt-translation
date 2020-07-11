@@ -13,7 +13,7 @@
 {112}{}{Why you're... (hic) where am I?}
 {113}{}{Wer bist du?}
 {114}{}{Do I know you?}
-{115}{}{I feel a little queasy.}
+{115}{}{Mir ist ein bisschen übel.}
 {116}{}{Drinks are on me, I mean you.}
 {117}{}{Why are there two of you?}
 {118}{}{Stand still laddy!}

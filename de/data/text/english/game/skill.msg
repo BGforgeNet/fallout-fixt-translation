@@ -59,7 +59,7 @@
 {505}{}{You earn %d experience for honing your skills.}
 {510}{}{\nskill_use: invalid skill used.}
 {512}{}{You can't heal the dead.}
-{513}{}{Let the dead rest in peace.}
+{513}{}{Lass die Toten in Frieden ruhen.}
 {514}{}{It's dead, get over it.}
 {520}{}{You mend your %s.}
 {521}{}{You mend the %s.}

@@ -1,5 +1,5 @@
 {100}{}{What do you want?}
-{101}{}{Leave me alone.}
+{101}{}{Lass mich in Ruhe.}
 {102}{}{What?}
 {103}{}{Don't mess with my stuff.}
 {104}{}{Hi.}

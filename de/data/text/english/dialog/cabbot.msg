@@ -45,7 +45,7 @@
 {144}{Cab_19n}{Hello. What do you need now?}
 {145}{}{I've changed my mind. I want to join the Brotherhood.}
 {146}{}{Can I ask you a few questions?}
-{147}{}{Never mind. Goodbye.}
+{147}{}{Vergiss es. Mach's gut.}
 {148}{Cab_20}{You're making fun of me, aren't you? Goodbye!}
 {149}{Cab_21}{Go away!}
 {150}{}{Please, I'm sorry I made you angry. Can we try again?}
@@ -54,7 +54,7 @@
 {153}{Cab_23}{Hmmm. Alright, I'll believe you for now. So what do you want?}
 {154}{}{I've changed my mind. I want to join the Brotherhood.}
 {155}{}{Can I ask you a few questions?}
-{156}{}{Never mind. Goodbye.}
+{156}{}{Vergiss es. Mach's gut.}
 {157}{Cab_24}{Hey! You're back! Did you get something?}
 {158}{}{Yep, sure did.}
 {159}{}{No, I didn't yet.}
@@ -84,7 +84,7 @@
 {183}{Cab_36b}{What do you need?}
 {184}{Cab_36n}{Can I help you with something?}
 {185}{}{Can I ask you a few questions?}
-{186}{}{Never mind. Goodbye.}
+{186}{}{Vergiss es. Mach's gut.}
 {187}{Cab_37}{Goodbye.}
 {188}{Cab_38}{I greet people at the gates and decide whether to let them in. You and the merchants are about the only ones that get in now, because the Elders seem like they're preparing for something.}
 {189}{}{Do you know what it could be all about?}

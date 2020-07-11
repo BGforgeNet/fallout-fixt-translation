@@ -13,12 +13,12 @@
 {112}{}{Why is it dangerous?}
 {113}{}{How do you avoid the Deathclaws?}
 {114}{}{Have you scouted out any of the other areas?}
-{115}{}{Thanks, bye.}
+{115}{}{Danke, Tschüss.}
 {116}{}{See you around. If you see me. Heh.}
 {117}{}{Well, you got the Deathclaws out there, and then you got the Regulators back here in Adytum. Both ain't the most forgiving types.}
 {118}{}{How do you avoid the Deathclaws?}
 {119}{}{Have you scouted out any of the other areas?}
-{120}{}{Thanks, bye.}
+{120}{}{Danke, Tschüss.}
 {121}{}{We only work at night, and we're good at what we do. But I'll admit not everyone always comes back. Last week I sent a guy up north to look for some parts for Miles, and we haven't heard from him since. The last transmission I got from him was that he'd found the parts, and was on his way back.}
 {122}{}{I've done a little scouting. Who do you want to know about?}
 {123}{}{The Blades.}

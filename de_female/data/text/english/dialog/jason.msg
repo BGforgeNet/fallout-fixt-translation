@@ -36,7 +36,7 @@
 {135}{}{What do you want to know about?}
 {136}{}{Not really.}
 {137}{}{Well, if you do anything interesting, tell me all about it!}
-{138}{}{Leave me alone!}
+{138}{}{Lass mich in Ruh!}
 {139}{}{Thank goodness you're here! Please help me get out of here!}
 {140}{}{Ayuh.}
 {141}{}{Don't worry, I'll get us out of here.}

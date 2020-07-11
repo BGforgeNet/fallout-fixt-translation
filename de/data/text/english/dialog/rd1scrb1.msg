@@ -22,7 +22,7 @@
 {207}{}{You want something?}
 {209}{}{Go away.}
 {210}{}{Stop bothering me.}
-{211}{}{Leave me alone.}
+{211}{}{Lass mich in Ruhe.}
 {212}{}{You are annoying me.}
 {213}{}{He ignores you.}
 {214}{}{She ignores you.}

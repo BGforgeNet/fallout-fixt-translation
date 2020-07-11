@@ -379,11 +379,11 @@
 {5007}{}{, reducing him into an undertaker's nightmare. Death is instantaneous}
 {5008}{}{, causing severe tennis elbow}
 {5009}{}{, pushing the arm out of the way}
-{5010}{}{, leaving a big bruise}
+{5010}{}{ und hinterlässt einen großen blauen Fleck}
 {5011}{}{, crippling the left arm}
-{5012}{}{, leaving the left arm dangling by the skin}
+{5012}{}{ und lässt den Arm nur noch an Hautfetzen baumeln}
 {5013}{}{. That arm now looks like a bloody stump}
-{5014}{}{, leaving a crippled right arm}
+{5014}{}{ und hinterlässt einen verstümmelten rechten Arm}
 {5015}{}{. His right arm is pulverized by this powerful blow}
 {5016}{}{ in a forceful blow}
 {5017}{}{, blowing through the armor}
@@ -395,7 +395,7 @@
 {5023}{}{, knocking him to the ground like a bowling pin in a league game}
 {5024}{}{, bowling him over and chopping off that leg like a scarlet side of meat}
 {5025}{}{, smashing the knee into the next town. He falls}
-{5026}{}{. The intense pain of having a leg removed causes him to quit}
+{5026}{}{. Der intensive Schmerz des Beinverlusts lässt ihn einhalten}
 {5027}{}{ inflicting some extra pain}
 {5028}{}{ causing blindness, unluckily for him}
 {5029}{}{, and with no protection there, causing serious pain}
@@ -417,7 +417,7 @@
 {5107}{}{, spinning her into a dance of death. Death is instantaneous}
 {5108}{}{, causing severe tennis elbow}
 {5109}{}{, pushing the arm out of the way}
-{5110}{}{, leaving a big bruise}
+{5110}{}{ und hinterlässt einen großen blauen Fleck}
 {5111}{}{, puncturing through her left elbow with ease}
 {5112}{}{. The left arm is barely attached to her shoulder}
 {5113}{}{. That arm now looks like a bloody stump}
@@ -446,7 +446,7 @@
 {5200}{}{. The little kid starts to cry}
 {5201}{}{. Unconscious, the small child falls over}
 {5202}{}{. Ouchie!}
-{5203}{}{. The blow is true, and the child is knocked unconscious}
+{5203}{}{. Der Schlag sitzt, und das Kind wird bewusstlos}
 {5204}{}{, smashing the small child around like a limp rag}
 {5205}{}{. The left arm of this kid now has an owie}
 {5206}{}{, throwing the small child off balance}
@@ -462,7 +462,7 @@
 {5216}{}{. The attack bowls the child over, and breaks the leg}
 {5217}{}{, inflicting great harm to the small child}
 {5218}{}{. The young child looks up and starts to cry}
-{5219}{}{, which blinds the youth}
+{5219}{}{, was den kleinen Menschen erblinden lässt}
 {5220}{}{, bashing in the youthful looking nose}
 {5221}{}{. A cut appears above the eyes and the blood starts to flow freely}
 {5222}{}{, which opens an eye like an exploding grape. The child looks bewildered}
@@ -476,21 +476,21 @@
 {5303}{}{. The giant mutant looks around for a moment, and then slumps to the ground}
 {5304}{}{. The head explodes like a giant, bloody watermelon}
 {5305}{}{, severely hurting the mighty mutant}
-{5306}{}{, causing the giant to spend a moment cursing the universe}
+{5306}{}{ und lässt den Mutanten einen Augenblick lang das Universum verfluchen}
 {5307}{}{, striking a nerve and forcing the giant to grab his arm in pain}
 {5308}{}{. The blow breaks the elbow and probably didn't feel too good}
 {5309}{}{, breaking the thick arm and spewing mutant blood over the ground}
-{5310}{}{, causing the giant to stumble for a moment and then collapse like a felled tree}
+{5310}{}{, lässt den Riesen einen Moment lang stolpern und dann wie einen gefällten Baum umkippen}
 {5311}{}{, and gallons of viscera splurt to the ground}
 {5312}{}{, sending the giant flying to the floor}
 {5313}{}{. The mutant stumbles and falls, his leg barely able to support him}
 {5314}{}{, striking a vital location. The mutant crumples under a broken leg}
 {5315}{}{. The pain of a broken leg overwhelms the mighty giant}
-{5316}{}{, nearly blinding the mutant}
-{5317}{}{, blinding the now-furious mutant}
+{5316}{}{ und lässt den Mutanten fast erblinden}
+{5317}{}{ und lässt den wütenden Mutanten erblinden}
 {5318}{}{, not quite blinding the mutant but throwing him off balance}
 {5319}{}{. The blinded mutant stumbles back, unprepared for the next attack}
-{5320}{}{, blinding the now-unconscious mutant}
+{5320}{}{ und lässt den bewusstlosen Mutanten erblinden}
 {5321}{}{. The eyes of the mutant glow for a moment, and then the light fades - permanently}
 {5400}{}{. The ghoul is surprised, and fails to defend against this attack}
 {5401}{}{. The blow buries this ghoul}
@@ -509,7 +509,7 @@
 {5505}{}{, easily penetrating the thick hide of the giant beast}
 {5506}{}{, penetrating straight through both hearts of the mutant cow}
 {5507}{}{, blinding both sets of eyes with a single blow}
-{5508}{}{, blinding both heads and stunning the mutant cow}
+{5508}{}{, lässt beide Köpfe erblinden und betäubt die Mutantenkuh}
 {5509}{}{, completely blinding the brahma and knocking it out}
 {5510}{}{, the large mutant bovine stumbles for a moment}
 {5511}{}{. The brahma shakes with rage}
@@ -527,7 +527,7 @@
 {5609}{}{. The attack cuts through an unprotected joint on the leg, severing it}
 {5610}{}{, seriously wounding and blinding the mutant creature}
 {5611}{}{, penetrating almost to the brain. Talk about squashing a bug}
-{5612}{}{, almost penetrating to the brain, but blinding the creature instead}
+{5612}{}{ und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
 {5613}{}{. The attack is fiendish, and far too sophisticated for this simple creature}
 {5614}{}{. If it were human, you would swear it's pretty pissed off}
 {5615}{}{, knocking the poor creature senseless}
@@ -542,15 +542,15 @@
 {5707}{}{, seriously wounding the rat and knocking it around}
 {5708}{}{, splattering the rat across the floor}
 {5709}{}{, easily removing the right leg}
-{5710}{}{, putting a big hole in the left leg}
-{5711}{}{, doing some extra damage due to the sensitive location}
+{5710}{}{ und hinterlässt ein großes Loch im linken Bein}
+{5711}{}{ und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle handelt}
 {5712}{}{, summoning this creature to the great ratcatcher in the sky}
 {5800}{}{, the floater drops to the ground}
 {5801}{}{, the floater falls to the ground, seemingly lifeless}
 {5802}{}{, with serious consequences to the creature's continued existence}
 {5803}{}{, stunning the foul creature}
 {5804}{}{, hitting a sensitive spot there and stunning the floater}
-{5805}{}{. The blow causes the floater to shudder violently in a spray of crimson}
+{5805}{}{. Der Schlag lässt den Floater in einer blutroten Wolke erschauern}
 {5806}{}{, the blow causing some sort of violent reaction in the creature}
 {5807}{}{. The floater suddenly bursts into flames}
 {5808}{}{ then it jerks wildly and quivers like a pudding surprise}
@@ -571,7 +571,7 @@
 {5912}{}{. The attack was not as effective as it could have been}
 {6000}{}{, inflicting some structural damage}
 {6001}{}{, sparks fly and the robot goes momentarily out of control}
-{6002}{}{, hitting a critical component and forcing the robot out of control}
+{6002}{}{, trifft ein kritisches Bauteil und lässt den Roboter die Kontrolle verlieren}
 {6003}{}{, hitting a critical component and causing a massive malfunction}
 {6004}{}{. The robot attempts to compensate}
 {6005}{}{. The robot strains to compensate}
@@ -601,7 +601,7 @@
 {6207}{}{, which causes the mantis to fall over. A limb is bent at an odd shape}
 {6208}{}{, shredding the wings}
 {6209}{}{, bypassing the chitinous armor and throwing the mantis around}
-{6210}{}{, blinding the insect with an accurate blow}
+{6210}{}{ und lässt das Insekt mit einem präzisen Schlag erblinden}
 {6300}{}{. Even this beast seems fazed by that stunning attack}
 {6301}{}{, slipping past the huge claws to strike the monster. The Deathclaw shakes and growls}
 {6302}{}{. The result is massive damage to the Deathclaw's eyes}
@@ -630,12 +630,12 @@
 {6515}{}{, sending you flying and breaking your leg}
 {6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee}
 {6517}{}{. The pain from your broken leg causes you to pass out}
-{6518}{}{. The painful blow makes you flinch, but does little else}
+{6518}{}{. Der schmerzhafte Schlag lässt dich zucken, sonst nichts}
 {6519}{}{. Unlucky for you, it also causes immediate vision loss}
 {6520}{}{. It takes you a moment to wipe the blood from your eyes}
-{6521}{}{, slipping past your armor. You stand stunned as your realize you cannot see anymore}
-{6522}{}{. You feel a strange sensation in your head. You realize it's imminent brain-death}
-{6523}{}{, making you cringe}
+{6521}{}{ und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr sehen kannst}
+{6522}{}{. Ein seltsames Gefühl steigt in deinen Kopf. Dir wird klar, dass dein Gehirntod kurz bevor steht}
+{6523}{}{ und lässt dich zusammenzucken}
 {6524}{}{. You cup your groin and fall to the floor in pain}
-{6525}{}{. The pain is sufficient to knock you out. Ouch}
+{6525}{}{. Der Schmerz lässt dich ohnmächtig werden. Autsch}
 {6526}{}{. There are not enough words in the universe to describe the pain your are feeling at this moment}

@@ -19,7 +19,7 @@
 {118}{}{What do you want? Hiring you was a disaster.}
 {119}{}{Please give me another chance! I had no choice!}
 {120}{}{Oh, yeah? I couldn't care less.}
-{121}{}{Nothing. Bye.}
+{121}{}{Nichts. Tschüss.}
 {122}{}{Kah.}
 {123}{}{Moo.}
 {124}{}{Look, I don't know what happened out there, but we lost the entire caravan! You shouldn't have come back if you couldn't protect it.}
@@ -65,7 +65,7 @@
 {164}{}{What? I don't know what you're talking about! Oh, you mean the skags? They don't count. They choose to live that way.}
 {165}{}{I guess you're right.}
 {166}{}{You make me sick.}
-{167}{}{I've got to go.}
+{167}{}{Ich muss gehn.}
 {168}{}{What? What'd I say?}
 {169}{}{Of course I am. I'm a good person at heart... most of the time.}
 {170}{}{Of course you are. Can I have another job or what?}

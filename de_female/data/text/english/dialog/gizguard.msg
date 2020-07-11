@@ -1,6 +1,6 @@
 {100}{}{Hey!}
 {101}{}{No weapons in here!}
-{102}{}{Watch it!}
+{102}{}{Pass auf!}
 {103}{}{Get 'em!}
 {104}{}{Quit sneaking around!}
 {105}{}{No sneaking around in here!}

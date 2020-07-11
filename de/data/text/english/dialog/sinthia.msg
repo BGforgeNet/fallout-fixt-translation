@@ -23,7 +23,7 @@
 {122}{}{Thanks again.}
 {123}{}{Is that all you can think about? Geez. Some people.}
 {124}{}{I mean, my boss didn't even send some of his goons to help. You'd think that for all the cash I make for that loser, he would at least live up to his part of the bargain.}
-{125}{}{Who's your boss?}
+{125}{}{Wer ist dein Boss?}
 {126}{}{What bargain?}
 {127}{}{Gizmo, of course. He runs all the sin in this town. Killian sure as hell wouldn't put up with me or my kind. If it weren't for the fact that I make Giz a whole hell of a lot of money, I'd have to do other things to him.}
 {128}{}{And, honey, those thoughts just don't do my stomach a whole lot of good.}

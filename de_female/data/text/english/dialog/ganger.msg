@@ -5,7 +5,7 @@
 {104}{}{Sorry, just looking around.}
 {105}{}{Duh.}
 {106}{}{Set ain't here, so git.}
-{107}{}{Oh, okay. Bye.}
+{107}{}{Ach so, OK. Tschüss.}
 {108}{}{Well, when I find that son of a bitch, I'm gonna make it so no one can find him.}
 {109}{}{Well, you'll just have to be my punching bag then.}
 {110}{}{You gots some mental problems to work out. Set's not gonna let some loser like you take 'im down. He's got the guards and he's got the guns.}
@@ -19,7 +19,7 @@
 {118}{}{Well, you have a nice day.}
 {119}{}{Not a what... A WHO. We are the Zombies. If we do good, Set'll make us one of his guards. Now that's all I'm gonna tell you.}
 {120}{}{Why do you want to be one of his guards?}
-{121}{}{Bye.}
+{121}{}{Tschüss.}
 {122}{}{I said dat's all I'm gonna tell ya'. Now git.}
 {123}{}{You crazy. What do you think dis is? You better leave.}
 {124}{}{Nah, I want to go in.}

@@ -76,7 +76,7 @@
 {407}{}{I'm a security guard hired by the merchants who own the goods in these carts. Dangerous job, but it pays well. Just the other night, one of my coworkers was killed while watching over the caravans.}
 {408}{}{What are the caravans?}
 {409}{}{Ahhhh. (He assumes a sarcastic tone of voice.) What a sad story. How would you like to join your friend?}
-{410}{}{Bye.}
+{410}{}{Tschüss.}
 {501}{}{You see a caravan guard.}
 {502}{}{You see a caravan driver.}
 {503}{}{You see a caravan driver.}

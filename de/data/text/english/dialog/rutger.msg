@@ -34,7 +34,7 @@
 {133}{}{Uh... that's fascinating, but I gotta go.}
 {134}{}{You'd be surprised at what's in demand out there. Something that's taken for granted in one place may be a highly sought after commodity in a settlement 10 miles away.}
 {135}{}{Okay, enough with the boring merchant chatter. Where's the door?}
-{136}{}{Thanks, bye.}
+{136}{}{Danke, Tschüss.}
 {137}{}{Can you tell me about the job that was posted?}
 {138}{}{Do you have any work?}
 {139}{}{I hear that you're a little crazy, but that might be what we need right now. You'll need to talk to Butch. He likes to meet all the new recruits. He's in the room right behind me. Go on in.}
@@ -75,7 +75,7 @@
 {174}{}{I can guarantee you it wasn't the Brotherhood.}
 {175}{}{What do you know about the Deathclaw?}
 {176}{}{Where's Beth?}
-{177}{}{Thanks, bye.}
+{177}{}{Danke, Tschüss.}
 {178}{}{Well, whatever. I'm sure you've met them before. They're a strange bunch that worship technology or something like that. They're to the northwest of here.}
 {179}{}{They are really strange. They worship technology or something like that. They have a hell of a lot of firepower. They could easily take out a caravan. They're to the northwest.}
 {180}{}{I knew you had to be one of them. You had to be with that steel suit. I hope you're right, and I hope it's not a mistake hiring you, but you're not the only one we've hired, so it's okay.}

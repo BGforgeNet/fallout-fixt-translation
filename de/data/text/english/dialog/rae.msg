@@ -46,7 +46,7 @@
 {145}{}{Sorry, I can't.}
 {146}{}{Only the Master can tell you everything.}
 {147}{}{Only the Master can tell you everything. But you'd better talk to him quick, 'cause I'm on my way to kill him.}
-{148}{}{Sorry, got to go.}
+{148}{}{Tut mir leid, ich muss los.}
 {149}{}{I should kill you for taunting me!}
 {150}{}{I have a better idea - help me destroy the Master for doing this to you.}
 {151}{}{No, you should kill the Master for doing this to you. I'm on my way to do just that... would you like to join me?}

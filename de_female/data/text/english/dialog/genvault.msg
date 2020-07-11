@@ -47,7 +47,7 @@
 {146}{}{Don't just stand here, get back out there! Now!}
 {147}{}{If we die, it will be your fault.}
 {148}{}{The outside has corrupted you, hasn't it?}
-{149}{}{Just leave me alone.}
+{149}{}{Lass mich einfach in Ruhe.}
 {150}{}{I think you should leave me and my family alone, }
 {151}{}{. It would be for the best.}
 {152}{}{You should be ashamed of yourself.}

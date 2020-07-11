@@ -18,7 +18,7 @@
 {119}{}{Damn, honey. Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion; 'bout as far as yer eye can see.}
 {120}{}{Damn yourself, you brahma freak.}
 {121}{}{Oh, them. I thought you were talking about something else. So how do I join a caravan?}
-{122}{}{Okay, thanks. Bye.}
+{122}{}{OK, danke, Tschüss.}
 {123}{}{Brahma freak? Is that an attempt at insult'n me? I would be a little more polite to the people ya' meet, stranger. I couldn't care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to slit yer throat if ya' look at'm wrong.}
 {124}{}{Damn, you're one ugly son of a bitch!}
 {125}{}{I'm scared. See ya.}

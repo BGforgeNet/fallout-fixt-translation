@@ -124,8 +124,8 @@
 {580}{}{You use the %s.}
 {581}{}{You use the %s on %s.}
 {582}{}{That does nothing of interest.}
-{583}{}{To your dismay, you realize that it is already dead.}
-{584}{}{As you reach down, you realize that it is already dead.}
+{583}{}{Entsetzt merkst du, dass es schon tot ist.}
+{584}{}{Als du es berührst, merkst du, dass es schon tot ist.}
 {585}{}{Alas, you are too late.}
 {586}{}{That won't work on the dead.}
 {587}{}{You light the flare.}
@@ -154,7 +154,7 @@
 {673}{}{Whatever you say.}
 {674}{}{I'll try.}
 {675}{}{I can't do that.}
-{676}{}{I don't think I can do that.}
+{676}{}{Ich glaube nicht, dass ich das tun kann.}
 {677}{}{Arf!}
 {678}{}{Woof!}
 {700}{}{You do not have enough Action Points to do that.}

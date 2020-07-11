@@ -1,5 +1,5 @@
 {100}{}{What do you want?}
-{101}{}{Leave me alone.}
+{101}{}{Lass mich in Ruhe.}
 {102}{}{What?}
 {103}{}{Don't mess with my stuff.}
 {104}{}{Hi.}
@@ -28,12 +28,12 @@
 {302}{}{Ooga.}
 {303}{}{Urg.}
 {350}{}{[END]}
-{351}{}{[BYE]}
+{351}{}{[Tschüss]}
 {352}{}{[MORE]}
 {353}{}{[CONTINUE]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
-{375}{}{Bye.}
+{375}{}{Tschüss.}
 {376}{}{Goodbye.}
 {450}{}{The coast is clear. Let's move out!}
 {900}{}{The old, worn door looks like it could be destroyed with a well-placed explosive.}
@@ -172,20 +172,20 @@
 {2100}{}{one hundred}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{If you try that again, I'll have to kill you.}
+{3050}{}{Wenn du das noch mal versuchst, muss ich dich töten.}
 {3051}{}{I don't have anything to steal, you idiot.}
 {3052}{}{I don't think we know each other *that* well.}
-{3053}{}{Touch that again and you'll have to pay for it.}
+{3053}{}{Fass das noch einmal an und du wirst es bereuen.}
 {3054}{}{Get your hands off me!}
 {3055}{}{Do that again and I'll rip you head off.}
 {3056}{}{Hands off!}
 {3057}{}{You looking for trouble?}
-{3058}{}{Touch me again and die.}
+{3058}{}{Wenn du mich noch einmal anfasst, bist du tot.}
 {3059}{}{Only trouble is for free.}
 {3060}{}{Hey! Back off.}
-{3061}{}{Watch it!}
+{3061}{}{Pass auf!}
 {3062}{}{You look'n ta die?}
-{3063}{}{You try that again, and I'll bust your head.}
+{3063}{}{Versuch das noch mal und ich verpass dir eine.}
 {3064}{}{That's mine; hands off!}
 {3075}{}{}
 {3100}{}{ has joined party}
@@ -194,7 +194,7 @@
 {3325}{}{Why don't you put everything right back where you found it?}
 {3326}{}{You know, it ain't nice to take what's not yours.}
 {3327}{}{Get away from there, punk!}
-{3328}{}{Now don't go telling me you're "just looking for your keys." Get outta here!}
+{3328}{}{Jetzt erzähl mir nicht, du "suchst nur deine Schlüssel". Mach dass du hier raus kommst!}
 {3329}{}{Whatever you're looking for, it ain't there. Understand?}
 {3350}{}{}
 {3375}{}{}
@@ -348,9 +348,9 @@
 {3900}{}{}
 {3925}{}{Hey you! What're you doing there?}
 {3926}{}{You're not supposed to be here!}
-{3927}{}{If you think you're just walking by me, you can forget that!}
+{3927}{}{Wenn du meinst, dass du hier einfach so vorbei kommst, hast du dich getäuscht!}
 {3928}{}{You better not be planning what I think you're planning, stranger.}
-{3929}{}{What? Like you think I don't notice you? Get outta here!}
+{3929}{}{Was? Meinst du, ich sehe dich nicht? Mach, dass du hier raus kommst!}
 {3950}{}{}
 {3975}{}{}
 {4000}{}{Check damage resistances and thresholds.}
@@ -421,17 +421,17 @@
 {9019}{}{Mr. Handy is programmed to use energy weapons and miniguns.}
 {10000}{}{Tell me something.}
 {10001}{}{You should heal yourself now.}
-{10002}{}{I need you to wait here until I come back.}
+{10002}{}{Du musst hier warten, bis ich wieder da bin.}
 {10003}{}{Put your weapon away.}
 {10004}{}{Stay close to me.}
 {10005}{}{Don't get too far away.}
-{10006}{}{We should spread out a bit.}
+{10006}{}{Wir sollten uns ein bisschen verteilen.}
 {10007}{}{That's it for now.}
 {10008}{}{We need to change our distance from one another.}
-{10009}{}{I need to talk to you about your gear.}
+{10009}{}{Ich muss mit dir über deine Ausrüstung reden.}
 {10010}{}{On second thought, I think this distance is okay for now.}
 {10011}{}{Actually, I guess there's nothing I need to really know about your gear.}
-{10012}{}{I need you to remove the armor that you're wearing.}
+{10012}{}{Ich möchte, dass du deine Rüstung ablegst.}
 {10013}{}{I need to know what kind of weapons you can use.}
 {10100}{}{Let's go.}
 {21020}{}{twenty}

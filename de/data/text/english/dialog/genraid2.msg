@@ -33,7 +33,7 @@
 {132}{}{Yeah, she's here. She's in the big house. You know, if we tell Garl, then he would want a piece of the bounty. You might want to think about that.}
 {133}{}{You don't sound like you mean it. I think that you are up to something. And if you are telling the truth, then I'll bag the reward for myself.}
 {134}{}{I... I can't say any more, or Garl will kill me.}
-{135}{}{Bite me!}
+{135}{}{Lass mich in Ruh'!}
 {136}{}{I don't like your look. You'd better get away from me.}
 {137}{}{What? Go away!}
 {200}{}{He looks to be seasoned by combat and accustomed to the harsh life of the wastes.}

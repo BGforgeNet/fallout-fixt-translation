@@ -141,7 +141,7 @@
 {7100}{}{Irradiated Fruit}
 {7101}{}{A strange-looking piece of fruit. It does not look particularly tasty. No preservatives and no additional food coloring added. A low-fat food!}
 {7200}{}{Briefcase}
-{7201}{}{A briefcase, with a Made-in-the-USA label. Leather. Good condition, but the combination lock is broken.}
+{7201}{}{Eine Aktentasche aus Leder mit einem Etikett "Made in USA". Guter Zustand, aber das Zahlenschloss ist kaputt.}
 {7300}{}{Big Book of Science}
 {7301}{}{A set of books, containing information about different scientific fields.}
 {7400}{}{Leather Jacket}
@@ -161,7 +161,7 @@
 {8100}{}{Iguana-on-a-stick}
 {8101}{}{Gebratener Leguan, in der Haut geröstet.}
 {8200}{}{Key}
-{8201}{}{A key. A key will open a particular lock.}
+{8201}{}{Ein Schlüssel. Mit einem Schlüssel wird ein bestimmtes Schloss geöffnet.}
 {8300}{}{Key Ring}
 {8301}{}{Multiple keys.}
 {8400}{}{Lock Picks}
@@ -193,11 +193,11 @@
 {9700}{}{Blue Pass Key}
 {9701}{}{A electronic security key, color coded blue.}
 {9800}{}{Junk}
-{9801}{}{A pile of junk parts. A little bit of everything.}
+{9801}{}{Ein Haufen Schrott. Ein bisschen was von allem.}
 {9900}{}{Gold Locket}
 {9901}{}{A valuable gold locket.}
 {10000}{}{Radio}
-{10001}{}{A model 2043B Radio Communicator, from the fine people at Wattz Electronics. Dependable, rugged, and camouflaged. With the optional RS-121 interface.}
+{10001}{}{Funkgerät vom Modell 2043B von Wattz Electronics. Verlässlich, robust und unauffällig. Mit optionaler RS 121-Schnittstelle.}
 {10100}{}{Lighter}
 {10101}{}{A silver butane lighter, in good condition.}
 {10200}{}{Guns and Bullets}
@@ -425,7 +425,7 @@
 {21300}{}{Remains of Gizmo}
 {21301}{}{Gizmo, former crime boss of Junktown, is dead. And pretty stinky, too.}
 {21400}{}{Desk}
-{21401}{}{A desk. After further observation, you decide that it is still a desk.}
+{21401}{}{Ein Schreibtisch. Nach näherer Untersuchung entscheidest du, dass es immer noch ein Schreibtisch ist.}
 {21500}{}{Brotherhood History}
 {21501}{}{A holodisk containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
 {21600}{}{Maxson's History}

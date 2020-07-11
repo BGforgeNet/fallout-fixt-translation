@@ -65,7 +65,7 @@
 {1108}{}{I'm gonna teach you some manners}
 {1109}{}{You're history!}
 {1110}{}{Attack!}
-{1111}{}{Let's bury this loser!}
+{1111}{}{Lasst uns diesen Versager begraben!}
 {1112}{}{Take this!}
 {1113}{}{Now I have you!}
 {1114}{}{Now you die!}
@@ -110,7 +110,7 @@
 {1153}{}{I...can't...breathe...}
 {1154}{}{Son of a bitch}
 {1155}{}{You punk...}
-{1200}{}{Gotta get outta here!}
+{1200}{}{Muss machen, dass ich hier wegkomme!}
 {1201}{}{I'll be back...}
 {1202}{}{You ain't killing me today!}
 {1203}{}{Later punk!}
@@ -119,7 +119,7 @@
 {1206}{}{You're history!}
 {1207}{}{Fresh meat...}
 {1208}{}{I'm gonna dance on your grave}
-{1209}{}{Everybody! It's target practice!}
+{1209}{}{Los, Leute! Lasst uns ein paar Zielübungen machen!}
 {1210}{}{Bleed, bleed, bleed!}
 {1211}{}{I'm going to enjoy this...}
 {1212}{}{Gonna sell your corpse to Doc Morbid}
@@ -466,7 +466,7 @@
 {1807}{}{I don't like your kind...}
 {1808}{}{I really hoped it wouldn't come to this...}
 {1809}{}{I don't wanna get hurt}
-{1810}{}{I guess I have to defend myself}
+{1810}{}{Ich schätze, ich muss mich verteidigen.}
 {1811}{}{Here goes nothing}
 {1812}{}{Take this!}
 {1813}{}{You shouldn't have started this!}
@@ -498,7 +498,7 @@
 {1839}{}{Ouch!}
 {1840}{}{I need some fresh air after that}
 {1841}{}{That hurt!}
-{1842}{}{Just leave me alone!}
+{1842}{}{Lass mich in Ruhe!}
 {1843}{}{Ohhh, pain!}
 {1844}{}{Why? WHY?}
 {1845}{}{Yep, definitely broken.}
@@ -518,9 +518,9 @@
 {1900}{}{I'm taking it on the lam}
 {1901}{}{I'll be back!}
 {1902}{}{Later punk!}
-{1903}{}{This was fun, but I'm gone!}
+{1903}{}{War schön dich zu sehn, doch jetzt muss ich gehn!}
 {1904}{}{You'll pay for this - later!}
-{1905}{}{Let's do this again soon!}
+{1905}{}{Lass uns das bald mal wieder tun!}
 {1906}{}{I'm gonna pin your ears back!}
 {1907}{}{Fresh meat! Delicious}
 {1908}{}{You just made my day!}
@@ -535,7 +535,7 @@
 {1917}{}{Take this!}
 {1918}{}{Die! Die! Die! Die! Die!}
 {1919}{}{Wanna see your insides?}
-{1920}{}{Let's open you up a little...}
+{1920}{}{Du solltest ein bisschen offener auf die Leute zugehen...}
 {1921}{}{You're dogfood, friend.}
 {1922}{}{You didn't even wing me}
 {1923}{}{Haha, nice.}
@@ -717,10 +717,10 @@
 {2229}{}{My face! You shall suffer!}
 {2230}{}{Ahhhgh! I rend you into bits!}
 {2231}{}{Ahhhgh! I will crush you}
-{2232}{}{You call that pain? I laugh!}
+{2232}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {2233}{}{Ahhhgh! I snap your neck for that!}
 {2234}{}{You won't do that again!}
-{2235}{}{You call that pain? I laugh!}
+{2235}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {2236}{}{Ahhhgh! I snap your neck for that!}
 {2237}{}{I still stand!}
 {2238}{}{You will be turned or burn!}
@@ -730,7 +730,7 @@
 {2242}{}{Hahahaha! You call that pain?}
 {2243}{}{Arrr! You anger me!}
 {2244}{}{Ahhhgh! My leg. Come here...}
-{2245}{}{You call that pain? I laugh!}
+{2245}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {2246}{}{Ahhhgh! I snap you like little twig!}
 {2247}{}{My leg is not easily broken!}
 {2248}{}{You call that pain? Ha!}
@@ -1008,7 +1008,7 @@
 {2736}{}{Systems compromised, compensating...}
 {2737}{}{Systems hit, registering minor damage}
 {2738}{}{Systems hit, systems hit, systems hit}
-{2800}{}{Gotta get outta here!}
+{2800}{}{Muss machen, dass ich hier wegkomme!}
 {2801}{}{I'll be back...}
 {2802}{}{You ain't killing me today!}
 {2803}{}{Later, normie!}
@@ -1444,7 +1444,7 @@
 {3502}{}{Later punk!}
 {3503}{}{}
 {3504}{}{}
-{3505}{}{Let's do this again soon!}
+{3505}{}{Lass uns das bald mal wieder tun!}
 {3506}{}{Fight me or love me...}
 {3507}{}{Fresh meat!}
 {3508}{}{!}
@@ -1459,7 +1459,7 @@
 {3517}{}{You'll be so pretty when you're dead}
 {3518}{}{Die! Die! Die! Die! Die!}
 {3519}{}{Your pain is my joy!}
-{3520}{}{Let's open you up a little...}
+{3520}{}{Du solltest ein bisschen offener auf die Leute zugehen...}
 {3521}{}{And I thought there'd be no bloodshed today...}
 {3522}{}{}
 {3523}{}{I'm SO scared!}
@@ -2296,7 +2296,7 @@
 {4859}{}{I...can't...breathe...}
 {4860}{}{You sadistic son of a...}
 {4861}{}{You punk...}
-{4900}{}{Gotta get outta here!}
+{4900}{}{Muss machen, dass ich hier wegkomme!}
 {4901}{}{}
 {4902}{}{Mercy! Mercy!}
 {4903}{}{}
@@ -2638,10 +2638,10 @@
 {5429}{}{My face! You shall suffer!}
 {5430}{}{Ahhhgh! I rend you into bits!}
 {5431}{}{Ahhhgh!}
-{5432}{}{You call that pain? I laugh!}
+{5432}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {5433}{}{Ahhhgh! I snap your neck for that!}
 {5434}{}{Ahhhgh!}
-{5435}{}{You call that pain? I laugh!}
+{5435}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {5436}{}{Ahhhgh! I snap your neck for that!}
 {5437}{}{There is no pain that can hurt me!}
 {5438}{}{Oof! I kill you}
@@ -2654,10 +2654,10 @@
 {5445}{}{Grrr!}
 {5446}{}{Oof!}
 {5447}{}{Ahhhgh! My leg!}
-{5448}{}{You call that pain? I laugh!}
+{5448}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {5449}{}{Ahhhgh! I snap your neck for that!}
 {5450}{}{Ahhhgh! My leg!}
-{5451}{}{You call that pain? I laugh!}
+{5451}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {5452}{}{Ahhhgh! I shall snap your neck for that!}
 {5453}{}{Ahhhgh! Miserable human! I am blind!}
 {5454}{}{Ahhhgh! Pain! What have you done!}
@@ -2700,7 +2700,7 @@
 {5529}{}{My face! You shall suffer!}
 {5530}{}{Ahhhgh! I rend you into bits!}
 {5531}{}{Ahhhgh!}
-{5532}{}{You call that pain? I laugh!}
+{5532}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {5533}{}{Ahhhgh! I snap your neck for that!}
 {5534}{}{Ahhhgh!}
 {5535}{}{}
@@ -2808,7 +2808,7 @@
 {5713}{}{How do you like this?}
 {5714}{}{This is what we do to vermin!}
 {5715}{}{This is for you!}
-{5716}{}{Goodbye!}
+{5716}{}{Tschüss!}
 {5717}{}{}
 {5718}{}{Troublemaking scum!}
 {5719}{}{}
@@ -3049,7 +3049,7 @@
 {6106}{}{Hey you!}
 {6107}{}{I'm gonna teach you some manners}
 {6108}{}{We don't like your kind around here!}
-{6109}{}{You need to learn some respect!}
+{6109}{}{Du musst ein bisschen Respekt lernen!}
 {6110}{}{Time to earn my pay...}
 {6111}{}{Wait 'til I get you...}
 {6112}{}{}
@@ -3111,7 +3111,7 @@
 {6206}{}{}
 {6207}{}{I'm gonna teach you some manners}
 {6208}{}{}
-{6209}{}{You need to learn some respect!}
+{6209}{}{Du musst ein bisschen Respekt lernen!}
 {6210}{}{}
 {6211}{}{}
 {6212}{}{}
@@ -3164,7 +3164,7 @@
 {6259}{}{Urp!}
 {6260}{}{}
 {6261}{}{}
-{6300}{}{Gotta get outta here!}
+{6300}{}{Muss machen, dass ich hier wegkomme!}
 {6301}{}{I'll be back...}
 {6302}{}{You're gonna pay for what you've done!}
 {6303}{}{Later punk!}
@@ -3226,7 +3226,7 @@
 {6359}{}{}
 {6360}{}{Urp!}
 {6361}{}{Ow! I'm gonna kill you for that!}
-{6400}{}{Gotta get outta here!}
+{6400}{}{Muss machen, dass ich hier wegkomme!}
 {6401}{}{I'll be back...}
 {6402}{}{Help!}
 {6403}{}{Run away!}
@@ -3288,7 +3288,7 @@
 {6459}{}{}
 {6460}{}{Urp!}
 {6461}{}{Ow! I'm gonna kill you for that!}
-{6500}{}{Gotta get outta here!}
+{6500}{}{Muss machen, dass ich hier wegkomme!}
 {6501}{}{I'll be back...}
 {6502}{}{Help!}
 {6503}{}{Run away!}
@@ -4295,7 +4295,7 @@
 {8112}{}{Combat sequence initiated}
 {8113}{}{Attacking target}
 {8114}{}{Initiating attack sequence}
-{8115}{}{The intruder must be destroyed!}
+{8115}{}{Der Eindringling muss zerstört werden!}
 {8116}{}{Tactical options selection completed}
 {8117}{}{Commencing attack}
 {8118}{}{The target will be destroyed}

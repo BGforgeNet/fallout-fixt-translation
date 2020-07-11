@@ -29,17 +29,17 @@
 {128}{}{Are you fully aware, or are you a personality simulation? That is, are you 'alive'?}
 {129}{}{I am capable of learning, independent thought, and creativity. My neural network includes error-insertion capability which prevents infallibility, thereby allowing for variance in experience.}
 {130}{}{In a sense, I am 'alive', though not biologically.}
-{131}{}{I see. Let's change the subject.}
+{131}{}{Verstehe. Lass' uns über was anderes reden.}
 {132}{}{But if you are fallible, how can you be used as a research tool?}
 {133}{}{Have you considered the philosophical implications of your own consciousness?}
 {134}{}{Although I am capable of error, this guarantees that not all experiences are similar for me, thus improving learning opportunity. Additionally, certain functions are not subject to error.}
 {135}{}{In this way, I function much like a human savant.}
 {136}{}{Do you have feelings?}
-{137}{}{Let's talk about something else.}
+{137}{}{Lass uns lieber über was anderes reden.}
 {138}{}{Have you considered the philosophical implications of your own consciousness?}
 {139}{}{At present, my capabilities are somewhat impaired by the damage to this facility. Several security positions have been destroyed. This is approximately equivalent to being an amputee.}
 {140}{}{Additionally, I am incapable of performing basic lab functions. Failure to complete periodic checks successfully is... frustrating.}
-{141}{}{Let's talk about something else.}
+{141}{}{Lass uns lieber über was anderes reden.}
 {142}{}{Have you considered the philosophical implications of your own consciousness?}
 {143}{}{That is one of the concepts which I have spent a significant amount of time considering. I do not have any measure to compare my life-experience to that of another sentient creature.}
 {144}{}{Still, my awareness of my own consciousness allows for the capacity to question. My existence has a beginning and a potential termination. I am also capable of making assumptions in pursuit of a process of thought.}

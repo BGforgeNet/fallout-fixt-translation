@@ -29,7 +29,7 @@
 {128}{}{Whatever you're doing, don't do it in this town.}
 {129}{}{Hey! No shady characters in town! Get out of here before we throw you out!}
 {130}{}{Well, uh, okay. Whatever. Just don't do anything out of line.}
-{131}{}{Thanks, bye.}
+{131}{}{Danke, Tschüss.}
 {132}{}{Certainly. I will throw caution to the wind, sir.}
 {133}{}{Certainly. I will throw caution to the wind, ma'am.}
 {134}{}{You'd better watch your step around here, because we'll be watching you.}
@@ -47,7 +47,7 @@
 {146}{}{It's going to cause me some severe mental trauma. Later.}
 {147}{}{Hmmm. Okay. It's not our place to ask questions. Have a good day and don't make any trouble.}
 {148}{}{Oh, heck. The place for that is Darkwater's. Killian runs it. It's a little to the north. Killian has the best supplies in town.}
-{149}{}{Thanks. Bye.}
+{149}{}{Danke. Tschüss.}
 {150}{}{You wanna show me where you keep YOUR supplies?}
 {152}{}{Uh, no. Sorry, lady. I got work to do here.}
 {153}{}{Have a nice day.}

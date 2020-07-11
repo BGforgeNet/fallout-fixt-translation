@@ -21,7 +21,7 @@
 {101}{}{Game settings not saved.}
 {1000}{}{You feel somewhat nauseous. Your skin is red and tender.}
 {1001}{}{You feel very nauseous, and after some mild vomiting, slightly fatigued.}
-{1002}{}{You are very fatigued, the vomiting does not stop, and your recovery time is impaired.}
+{1002}{}{Du bist sehr erschöpft, der Brechreiz lässt nicht nach, und deine Erholungszeit ist gestört.}
 {1003}{}{You are hemorrhaging violently. You are very sick, and your hair is falling out.}
 {1004}{}{You are hemorrhaging violently and continuously. The vomitus is stained red from your blood. Your skin is falling off your bones.}
 {1005}{}{There is bleeding from your intestines and you have severe diarrhea. You feel bloated and are in intense agony.}
@@ -30,7 +30,7 @@
 {1008}{}{The geiger counter is clicking.}
 {1009}{}{The geiger counter is clicking wildly.}
 {2000}{}{Action aborted.}
-{2001}{}{The lock is jammed.}
+{2001}{}{Das Schloss klemmt.}
 {3000}{}{You have been poisoned!}
 {3001}{}{You sustain 1 hit point of damage from the poison.}
 {4000}{}{Due to your inept handling, the explosives detonate prematurely.}

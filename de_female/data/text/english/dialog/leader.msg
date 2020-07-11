@@ -67,7 +67,7 @@
 {166}{}{Is there anything else I should know?}
 {167}{}{Well that's as close as they are going to get to the water pump.}
 {168}{}{As I already told you, they can be found in the sewers underneath the Watershed. Go east from here, and then north. You will find the Watershed in that direction.}
-{169}{}{Thanks for the directions. Goodbye.}
+{169}{}{Danke für die Beschreibung. Tschüss.}
 {170}{}{Well thank you for that service. Was there something else you wanted to know?}
 {171}{}{How do you survive down here without water?}
 {172}{}{It is where all the water is stored and handed out to us.}

@@ -37,7 +37,7 @@
 {136}{}{No, I'm just looking around.}
 {137}{}{What's wrong with the Casino?}
 {138}{}{Oh gosh. I thought you were from the Casino. You scared me.}
-{139}{}{Oh, okay. Bye.}
+{139}{}{Ach so, OK. Tschüss.}
 {140}{}{Why?}
 {141}{}{Well, I got into some trouble there. I owe them a lot of money.}
 {142}{}{Why do you owe them so much money?}

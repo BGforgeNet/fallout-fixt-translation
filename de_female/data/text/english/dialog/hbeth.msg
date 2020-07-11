@@ -5,7 +5,7 @@
 {104}{}{I want to buy something.}
 {105}{}{I have something to sell.}
 {106}{}{How does someone make money around here?}
-{107}{}{Nothing. Bye.}
+{107}{}{Nichts. Tschüss.}
 {108}{}{Ruk?}
 {109}{}{What's the word out on the street about the missing caravans? }
 {110}{}{What do you know about the Deathclaw?}
@@ -77,31 +77,31 @@
 {178}{}{Did they always control all the water? }
 {179}{}{Are they the ones behind the missing caravans?}
 {180}{}{Thanks, another question about the merchants...}
-{181}{}{Thanks, bye.}
+{181}{}{Danke, Tschüss.}
 {182}{}{What else would you like to know about?}
 {183}{}{No. From what I've heard, a while back a group of merchants seized control of the Water Tower and proclaimed that they were the Water Merchants and people had to get water from them. The merchant war raged on for years until a man named Roy Greene - yeah, Justin's Grandfather, that's it - helped to negotiate an agreement that ended the war.}
 {184}{}{What kind of agreement?}
 {185}{}{Damn! Sorry I asked.}
 {186}{}{Thanks, another question about the merchants...}
-{187}{}{Thanks, bye.}
+{187}{}{Danke, Tschüss.}
 {188}{}{Well, he set up the city council and set a limit on the price of water. Personally, I think they should have beat the tar out of them. Oh, sorry, I mean they should have showed them who's boss.}
 {189}{}{Great. I didn't need quite that much information, but thanks just the same.}
 {190}{}{Thanks, another question about the merchants...}
-{191}{}{Thanks, bye.}
+{191}{}{Danke, Tschüss.}
 {192}{}{Sorry I tend to get carried away with myself. Was there anything else you wanted to know about?}
 {193}{}{The Crimson Caravan are a bunch of crazy people. They will do any job, no matter what the risk. I'm surprised they aren't missing more caravans than they are.}
 {194}{}{They're missing caravans too?}
 {195}{}{How risky?}
 {196}{}{Thanks, another question about the merchants...}
-{197}{}{Thanks, bye.}
+{197}{}{Danke, Tschüss.}
 {198}{}{They will pass right through an area known to be attacked by raiders. They charge a lot so they can hire extra hands. The pay's great, but you have to be alive to spend it, right?}
 {199}{}{They're missing caravans too?}
 {200}{}{Thanks, another question about the merchants.}
-{201}{}{Thanks, bye.}
+{201}{}{Danke, Tschüss.}
 {202}{}{Actually, all the merchants have had a few caravans disappear. The Far Go Traders are just unlucky, I suppose.}
 {203}{}{How risky?}
 {204}{}{Thanks, another question about the merchants...}
-{205}{}{Thanks, bye.}
+{205}{}{Danke, Tschüss.}
 {206}{}{The Far Go Traders pay well and their jobs aren't too deadly. Butch owns this shop; a good man. They're fair and let me do as I please with the place; I like working with them. Plus you get a discount on anything you buy here if you work for Butch.}
 {207}{}{Personally, I don't think so. I think it was the Deathclaw or maybe the Brotherhood of Steel.}
 {208}{}{Why don't you think it's the Water Merchants?}
@@ -237,7 +237,7 @@
 {338}{}{Sorry if you didn't like my offer, but I've got to be able to sell it for a profit.}
 {339}{}{Don't want to sell after all? That's okay.}
 {340}{}{Sorry I couldn't help you. Have a nice day.}
-{341}{}{Maybe next time. Bye.}
+{341}{}{Vielleicht nächstes Mal. Tschüss.}
 {342}{}{Hope I can help you better next time.}
 {343}{}{Stop wasting my time.}
 {344}{}{If you're not going to buy anything, please leave.}
@@ -266,7 +266,7 @@
 {368}{}{Thanks for the business. You're not so bad.}
 {369}{}{Thanks for the goods.}
 {370}{}{Have a nice day.}
-{371}{}{Bye.}
+{371}{}{Tschüss.}
 {372}{}{Thank you.}
 {373}{}{Thanks for the purchases. Have a nice day.}
 {374}{}{I heard that!}

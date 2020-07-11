@@ -2,7 +2,7 @@
 {101}{}{What do you want?}
 {102}{}{A doughnut.}
 {103}{}{What are you doing here?}
-{104}{}{Just looking around.}
+{104}{}{Schau mich nur 'n bisschen um.}
 {105}{}{Nothing.}
 {106}{}{We don't appreciate wise guys here. Buzz off.}
 {107}{}{That joke wasn't even funny the first time. You're about to discover why I'm one of the most fearsome bounty hunters in the wasteland. And I won't even get paid for it.}

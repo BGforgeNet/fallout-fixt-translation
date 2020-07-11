@@ -12,7 +12,7 @@
 {111}{}{What do you want now?}
 {112}{}{I'd like to enter.}
 {113}{}{}
-{114}{}{Nothing. Never mind.}
+{114}{}{Nichts. Vergiss es.}
 {115}{}{}
 {116}{}{No.}
 {117}{}{What do you want to know about?}
@@ -32,7 +32,7 @@
 {131}{}{You'd better put your weapons away while you're here.}
 {132}{}{A thief, eh? Let me show you what we do to your kind here!}
 {133}{}{[Done]}
-{134}{}{Watch yourself.}
+{134}{}{Pass bloﬂ auf.}
 {135}{}{We're watching you.}
 {136}{}{Stay in line.}
 {137}{}{What 'da looking at.}

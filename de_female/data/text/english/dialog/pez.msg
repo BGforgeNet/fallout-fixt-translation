@@ -11,11 +11,11 @@
 {110}{}{I thought you were a good guy.}
 {111}{}{Just another Crypt. I suppose you are going to hurt me now.}
 {112}{}{I won't cause trouble.}
-{113}{}{Please leave me alone.}
+{113}{}{Lass mich bitte in Ruhe.}
 {114}{}{I heard you joined the Fools.}
 {115}{}{It's a Fool! Oops, I didn't mean it that way.}
 {116}{}{I won't cause any trouble.}
-{117}{}{Please leave me alone.}
+{117}{}{Lass mich bitte in Ruhe.}
 {118}{}{I promise to laugh at your jokes.}
 {119}{}{I'm hungry.}
 {120}{}{Where have all the good people gone?}

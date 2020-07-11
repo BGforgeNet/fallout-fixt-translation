@@ -175,7 +175,7 @@
 {274}{Nic_68}{How noble, how impressive. And we thought you were different. Now take your money and leave.}
 {275}{Nic_69}{Well, hi. What can I help you with now?}
 {276}{}{I need to ask a few questions.}
-{277}{}{Sorry, I gotta go.}
+{277}{}{Tut mir leid, ich muss gehn.}
 {278}{}{Nuh, nuh, uh?}
 {279}{Nic_70}{What do you want now?}
 {280}{}{I wanted to say I'm sorry.}

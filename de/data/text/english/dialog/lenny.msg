@@ -16,7 +16,7 @@
 {115}{}{I wouldn't do that, I was just testing you.}
 {116}{}{Easy, I make more money that way.}
 {117}{}{Oh, I understand. You don't realize how important Brahmin are to me. That's okay. I don't think people understand me.}
-{118}{}{Uh, bye.}
+{118}{}{Äh, Tschüss.}
 {119}{}{You're mean. I hate you.}
 {120}{}{Whatever.}
 {121}{}{Oh. Oh, I get it. Hey, you're kinda nice. I like you. I should warn you about those Fool guys. They don't like me. They don't like anyone.}

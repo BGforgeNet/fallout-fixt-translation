@@ -36,7 +36,7 @@
 {135}{}{Do you have a hospital, I'm injured.}
 {136}{}{Where are the shops?}
 {137}{}{Where do I find work around here?}
-{138}{}{Bye.}
+{138}{}{Tschüss.}
 {139}{}{Garro?}
 {140}{}{Ooga.}
 {141}{}{Really? I, uh, you should talk to the Sheriff. I can't leave my post right now. I've got to... uh, fend off any raiders that might come. Plus, I'm not very good with reports.}

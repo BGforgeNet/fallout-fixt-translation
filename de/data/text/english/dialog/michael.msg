@@ -148,7 +148,7 @@
 {249}{}{Okay. Sorry to bother you.}
 {250}{}{You don't? Ordinance was supposed to send one down yesterday. Look, can you help me out? If I don't get this part it's gonna be my ass. I'm sure the form will be here later today.}
 {251}{}{Okay. Here you go. Just don't tell anyone that I gave this to you. Rhombus would have my head if he knew I had given the parts out without proper authorization.}
-{252}{}{Thank you. Bye.}
+{252}{}{Danke. Tschüss.}
 {253}{}{I would give it to you if I could. But I can't. Not without proper authorization.}
 {254}{}{You know, Michael, you're probably one of the brightest guys I've talked to here. But I don't understand why you're giving me such a hard time. I really need that part.}
 {255}{}{Oh... Well, I guess I understand. I don't know what I'm going to do, though.}

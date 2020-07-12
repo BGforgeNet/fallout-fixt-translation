@@ -105,7 +105,7 @@
 {523}{}{She looks: %s }
 {524}{}{It looks: %s }
 {525}{}{%s has %d/%d hit points.}
-{526}{}{It has %d/%d shots of %s.}
+{526}{}{Es hat %d/%d Schuss %s.}
 {530}{}{and has crippled limbs.}
 {531}{}{but has crippled limbs.}
 {532}{}{and have crippled limbs.}
@@ -118,7 +118,7 @@
 {544}{}{, }
 {545}{}{.}
 {546}{}{ and is wielding a %s.}
-{547}{}{ and is wielding a %s with %d/%d shots of %s.}
+{547}{}{ und trägt: %s mit %d/%d Schuss %s.}
 {550}{}{\nError: lookup_val out of range!}
 {551}{}{\nError: obj_examine: proto_ptr failed!}
 {580}{}{You use the %s.}

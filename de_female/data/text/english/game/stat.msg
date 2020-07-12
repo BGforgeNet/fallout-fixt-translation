@@ -37,10 +37,10 @@
 {136}{}{Current Poison Level}
 {137}{}{Current Radiation Level}
 {200}{}{Raw physical strength. A high Strength is good for combat-based characters and packrats. Modifies: Hit Points, Melee Damage, and Carry Weight.}
-{201}{}{The ability to see, hear, taste and notice unusual things. A high Perception is important for a sharpshooter. Modifies: Sequence and ranged combat distance modifiers.}
-{202}{}{Stamina and physical toughness. A character with a high Endurance will survive where others may not. Modifies: Hit Points, Poison & Radiation Resistance, Healing Rate, and the additional hit points per level.}
-{203}{}{A combination of appearance and charm. A high Charisma is important for characters that want to influence people with words. Modifies: NPC reactions, and barter prices.}
-{204}{}{Knowledge, wisdom and the ability to think quickly. A high Intelligence is important for any character. Modifies: the number of new skill points per level, dialogue options, and many skills.}
+{201}{}{Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu schmecken und wahrzunehmen. Eine gute Wahrnehmung ist z.B. für Scharfschützen wichtig. Beeinflusst: Reaktions- und Distanzkampffaktoren.}
+{202}{}{Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer überlebt, wo andere längst sterben. Beeinflusst: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
+{203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflusst: Reaktionen von inaktiven Figuren und Preise beim Handeln.}
+{204}{}{Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für jede Figur wichtig. Beeinflusst: Anzahl der neuen Fähigkeitspunkte pro Level, Dialogoptionen und viele Fähigkeiten.}
 {205}{}{Coordination and the ability to move well. A high Agility is important for any active character. Modifies: Action Points, Armor Class, Sequence, and many skills.}
 {206}{}{Fate. Karma. An extremely high or low Luck will affect the character - somehow. Events and situations will be changed by how lucky (or unlucky) your character is.}
 {207}{}{How much damage your character can take before dying. If you reach 0 hit points or less, you are dead.}
@@ -92,6 +92,6 @@
 {500}{}{Points earned by going up a Level. Can be used to increase a skill by 1%, or a tag skill by 2%, per point spent.}
 {501}{}{The general competency of the player character. A measure of your experience and abilities.}
 {502}{}{A reward for completing specific tasks, or defeating enemies in combat. More experience is required to attain higher Levels.}
-{503}{}{What the world knows of your actions and deeds. This will modify NPC reactions.}
+{503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die Reaktionen von inaktiven Figuren.}
 {504}{}{The effects of actions that you have taken. Important information will be displayed.}
 {600}{}{You have gained a level!}

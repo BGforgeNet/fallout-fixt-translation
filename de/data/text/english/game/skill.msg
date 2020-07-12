@@ -78,6 +78,6 @@
 {571}{}{You steal the %s.}
 {572}{}{You're caught planting the %s.}
 {573}{}{You plant the %s.}
-{590}{}{You've taxed your ability with that skill. Wait a while.}
+{590}{}{Du hast deine Fähigkeit mit dieser Fertigkeit überstrapaziert. Warte ein bisschen.}
 {591}{}{You're too tired to do that right now.}
 {592}{}{The strain might kill you. Get some rest first.}

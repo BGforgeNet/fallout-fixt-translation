@@ -265,13 +265,13 @@
 {13301}{}{The stench of mildew emanates from these wet sewer walls.}
 {13400}{}{Wall}
 {13401}{}{The stench of mildew emanates from these wet sewer walls.}
-{13500}{}{Drain}
-{13501}{}{There is some sort of rank, disgusting smell coming from this sewer drain. After a few moments, it doesn't smell as bad.}
-{13600}{}{Drain}
-{13601}{}{You can barely make out some movement behind the grate covering this drain. You can see small red eyes peering back at you. Rat eyes.}
-{13700}{}{Drain}
-{13701}{}{Gurgling water sounds come from this drain. So does a really vile stench.}
-{13800}{}{Drain}
+{13500}{}{Abfluss}
+{13501}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluss empor. Nach einigen Augenblicken riecht es nicht mehr so übel.}
+{13600}{}{Abfluss}
+{13601}{}{Du kannst gerade so Bewegung hinter dem Abflussgitter erkennen. Du siehst rote Augen, die dich anstarren. Rattenaugen.}
+{13700}{}{Abfluss}
+{13701}{}{Gurgelnde Wassergeräusche kommen aus dem Abfluss. Und ein abscheulicher Geruch.}
+{13800}{}{Abfluss}
 {13801}{}{Gurgling water sounds come from beyond this drain. So does a really vile smell.}
 {13900}{}{Ladder}
 {13901}{}{It's an old, fairly rickety ladder. It looks like it will barely support your weight.}
@@ -551,13 +551,13 @@
 {28300}{}{Sink}
 {28301}{}{A broken porcelain sink. There is small puddle of brown water in the basin, with a floating dead rat.}
 {28400}{}{Sink}
-{28401}{}{This sink is not functional. You can tell this from the large crack down the middle.}
+{28401}{}{Dieses Waschbecken ist hinüber. Deutlich zu sehen am großen Riss in der Mitte.}
 {28500}{}{Sink}
 {28501}{}{A broken porcelain sink. There is small puddle of brown water in the basin, with a floating dead rat.}
 {28600}{}{Stop Sign}
 {28601}{}{A red sign with the word STOP written in large block letters.}
 {28700}{}{Stop Sign}
-{28701}{}{A red sign with the word STOP written in large block letters. The large bullet hole was added after manufacturing.}
+{28701}{}{Ein rotes Schild, auf dem in großen Druckbuchstaben STOP steht. Das große Einschussloch wurde erst nachträglich hinzugefügt.}
 {28800}{}{Stop Light}
 {28801}{}{This is an ancient automobile traffic control device.}
 {28900}{}{Stop Light}
@@ -1143,9 +1143,9 @@
 {59000}{}{Machinery}
 {59001}{}{It looks like an old printing press or manufacturing doohickey.}
 {59100}{}{Table}
-{59101}{}{This metal table looks in good condition. There is a drain in the center of it.}
+{59101}{}{Der Metalltisch scheint in gutem Zustand zu sein. In seiner Mitte ist ein Abfluss.}
 {59200}{}{Table}
-{59201}{}{This metal table looks in good condition. There is a drain in the center of it.}
+{59201}{}{Der Metalltisch scheint in gutem Zustand zu sein. In seiner Mitte ist ein Abfluss.}
 {59300}{}{Table}
 {59301}{}{The metal table is covered by some kind of biomass.}
 {59400}{}{Table}
@@ -1263,7 +1263,7 @@
 {65000}{}{Equipment}
 {65001}{}{Some kind of high-tech stuff.}
 {65100}{}{Medical Table}
-{65101}{}{This table is very rusty. The drain in the center of the table is clogged.}
+{65101}{}{Der Tisch ist sehr rostig. Der Abfluss in seiner Mitte ist verstopft.}
 {65200}{}{Medical Table}
 {65201}{}{This table is very rusty.}
 {65300}{}{Gate}

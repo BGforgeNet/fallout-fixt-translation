@@ -12,7 +12,7 @@
 {111}{}{So what's your story?}
 {112}{}{Well, see ya.}
 {113}{}{It's not junk! It's trade goods!}
-{114}{}{Uh, right. Bye.}
+{114}{}{Äh, richtig. Tschüss.}
 {115}{}{Uh huh. So what's your story?}
 {116}{}{Hmm. Haven't seen one of those before. What seems to be the trouble?}
 {117}{}{This chip controls water purification for my Vault. It's blown out, though.}

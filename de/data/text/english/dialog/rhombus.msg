@@ -96,7 +96,7 @@
 {195}{Rhom49}{I have no knowledge of such a thing.}
 {200}{}{I'm new here and I don't know my way around.}
 {201}{}{I need not explain anything to you, freak.}
-{202}{}{Thank you. Bye.}
+{202}{}{Danke. Tschüss.}
 {203}{}{Go to hell.}
 {204}{}{The door creaks when you try to open it.}
 {205}{}{Your skill allows you to steal silently. You make no sound while opening the locker.}

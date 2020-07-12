@@ -96,7 +96,7 @@
 {204}{}{Thanks, Bye.}
 {205}{}{Okay... Thanks for the info.}
 {206}{}{Thank you for the warning. Bye.}
-{207}{}{Thank you. Bye.}
+{207}{}{Danke. Tschüss.}
 {208}{}{Thank you for your time.}
 {209}{}{If you were lookin' to get a hold of some better arms, maybe you should try the Glow down south. [Darrel points south]}
 {210}{}{Here, take some Rad-X. [Darrel gives you some pills]}

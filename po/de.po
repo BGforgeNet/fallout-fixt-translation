@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2020-07-12 14:12+0000\n"
+"PO-Revision-Date: 2020-07-17 14:12+0000\n"
 "Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -98051,7 +98051,7 @@ msgstr ""
 #: data/text/english/game/scrname.msg:845
 #: data/text/english/game/scrname.msg:846
 msgid "Holodisk"
-msgstr ""
+msgstr "Holo-Disk"
 
 #: data/text/english/dialog/vree.msg:1018
 msgid "Holo-disk"
@@ -113758,7 +113758,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:606
 msgid "Welcome to the RobCo Pip-Boy 2000."
-msgstr "Dein RobCo Pip-Boy 2000 grüßt dich."
+msgstr "Dein RobCo PIPBoy 2000 grüßt dich."
 
 #: data/text/english/game/pipboy.msg:607
 msgid "So long..."

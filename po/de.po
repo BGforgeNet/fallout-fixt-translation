@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2020-07-17 14:12+0000\n"
+"PO-Revision-Date: 2020-07-18 14:12+0000\n"
 "Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -33943,7 +33943,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:905
 msgid "Woof! Woof!"
-msgstr ""
+msgstr "Wuff! Wuff!"
 
 #: data/text/english/dialog/generic.msg:910
 msgid "You are shocked by the electrified floor."
@@ -71287,7 +71287,7 @@ msgstr ""
 #: data/text/english/dialog/neal.msg:109 data/text/english/dialog/saul.msg:109
 #: data/text/english/dialog/taylor.msg:104
 msgid "My name's "
-msgstr ""
+msgstr "Ich heiße "
 
 #: data/text/english/dialog/neal.msg:110
 msgid ". What is this place?"

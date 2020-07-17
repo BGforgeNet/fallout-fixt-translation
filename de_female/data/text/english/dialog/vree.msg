@@ -128,7 +128,7 @@
 {1014}{}{Scribes}
 {1015}{}{Knights}
 {1016}{}{Paladins}
-{1017}{}{Holodisk}
+{1017}{}{Holo-Disk}
 {1018}{}{Holo-disk}
 {1019}{}{Holo-disc}
 {1020}{}{Holodisc}

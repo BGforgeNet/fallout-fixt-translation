@@ -112,7 +112,7 @@
 {5601}{}{A set of military dog tags. The name Darkwater is readable, but not much else is.}
 {5700}{}{Bug}
 {5701}{}{A miniature microphone and transmitting device.}
-{5800}{}{Holodisk}
+{5800}{}{Holo-Disk}
 {5801}{}{This is a Wattz Electronics Holodisk, designed for THT players. Also called a "holotape" or simply "tape", holodisks are durable laser-readable storage devices based on tape holography technology. Suitable for long-term storage of text, audio, or video, they typically hold 64 to 256 kilobytes of data.}
 {5900}{}{Motion Sensor}
 {5901}{}{A Wattz Electronics I-C-U model motion sensor. Detects the movement of biological material over a distance of three hundred meters using a tuned radar device.}

@@ -531,7 +531,7 @@
 {631}{}{Super Mutant Sentry}
 {632}{}{Nightkin Sergeant}
 {633}{}{Super Mutant Sentry}
-{634}{}{Holodisk}
+{634}{}{Holo-Disk}
 {635}{}{Garret}
 {636}{}{Nightkin Guard}
 {637}{}{Force Field}
@@ -741,9 +741,9 @@
 {841}{}{Generator}
 {842}{}{Computer}
 {843}{}{Briefcase}
-{844}{}{Holodisk}
-{845}{}{Holodisk}
-{846}{}{Holodisk}
+{844}{}{Holo-Disk}
+{845}{}{Holo-Disk}
+{846}{}{Holo-Disk}
 {847}{}{Refrigerator}
 {848}{}{Bookcase}
 {849}{}{Raider}

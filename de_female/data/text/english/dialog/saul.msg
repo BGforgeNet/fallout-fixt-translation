@@ -7,7 +7,7 @@
 {106}{}{Yes?}
 {107}{}{What do you do here?}
 {108}{}{A tough guy, eh? I bet I could take you.}
-{109}{}{My name's }
+{109}{}{Ich heiﬂe }
 {110}{}{. Just taking a look around.}
 {111}{}{[Saul laughs heartily.] Why, I am a boxer!}
 {112}{}{Ah, I could kick your ass.}

@@ -5,7 +5,7 @@
 {104}{}{Claro.}
 {105}{}{¿Quá-ah?}
 {106}{}{Maravilloso. Espero que no te importe que la bebida esté aguada... aquí riegan los barriles de cerveza como si fueran maceteros.}
-{107}{}{¿Cuál es tu historia?}
+{107}{}{Así que, ¿cuál es tu historia?}
 {108}{}{Sí, un vaso de agua. Da igual.}
 {109}{}{Yo te podría preguntar lo mismo. Por la amistad, yo hablaré primero. Me llamo Tycho. Vengo del este, de lo que solía ser Nevada.}
 {110}{}{Es un viaje largo.}

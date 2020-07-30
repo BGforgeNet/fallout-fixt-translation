@@ -1,6 +1,6 @@
 {100}{}{Ves: una caja fuerte.}
 {101}{}{La caja fuerte está abierta.}
-{103}{}{¡Lo tienes!}
+{103}{}{Got it!}
 {104}{}{¡Uy! Casi lo logras.}
 {105}{}{La caja fuerte está cerrada.}
 {106}{}{Ganas 500 puntos de experiencia por acabar con el personal de seguridad de Killian.}

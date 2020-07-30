@@ -3,6 +3,6 @@
 {102}{}{La puerta está cerrada con llave.}
 {103}{}{Abres la puerta.}
 {104}{}{Cierras la puerta.}
-{105}{}{No consigues abrir la puerta.}
+{105}{}{You fail to unlock the door.}
 {106}{}{No consigues abrir la puerta.}
 {107}{}{¡Consigues 250 puntos de experiencia por salir de la cárcel!}

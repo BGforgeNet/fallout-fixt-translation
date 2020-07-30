@@ -39,7 +39,7 @@
 {138}{}{Eh, entonces, ¿por qué preguntaste sobre eso?}
 {139}{}{¡Eso es! ¡Bastante insolente!}
 {140}{}{Solo quería saber. Eso es todo.}
-{141}{}{¿Tú otra vez? ¿Qué quieres ahora?}
+{141}{}{You again? What do you want now?}
 {142}{}{¿Más noticias?}
 {143}{}{Solo charlaba.}
 {144}{}{No. Bueno, me he enterado de que llegan más Supermutantes. No sé cuándo.}

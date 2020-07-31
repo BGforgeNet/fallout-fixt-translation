@@ -34,7 +34,7 @@
 {133}{}{Ya hemos hablado de esto. ¿Quieres pagar el precio para que partan las caravanas?}
 {134}{}{Antes me dijiste que Necrópolis podía tener un Chip de Agua. ¿Para qué lo necesitan ellos?}
 {135}{}{¿De cuántas chapas hablamos?}
-{136}{}{No, todavía no.}
+{136}{}{No, aún no.}
 {137}{}{Bien, solo es una suposición. Intentamos establecer una ruta de caravanas a Necrópolis pero no quisieron comerciar con nosotros. Nadie en su sano juicio rechaza agua hoy en día a menos que tengan su propio abastecimiento. Me imagino que tienen su propio purificador o que murieron todos hace tiempo. ¿Así que quieres que lleguemos hasta tu Refugio?}
 {138}{}{Sí. ¿Cuánto va a costarme?}
 {139}{}{No, gracias.}

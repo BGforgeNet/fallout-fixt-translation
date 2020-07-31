@@ -410,9 +410,9 @@
 {20700}{}{un viejo colchón}
 {20701}{}{Si tuvieras que dormir ahí, no estarías durmiendo solo.}
 {20800}{}{una cama}
-{20801}{}{Una cama improvisada. Los materiales proceden de alguna otra fuente.}
+{20801}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {20900}{}{una cama}
-{20901}{}{Una cama improvisada. Los materiales proceden de alguna otra fuente.}
+{20901}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {21000}{}{una cama}
 {21001}{}{Esta cama ha visto mejores días (y probablemente noches también).}
 {21100}{}{una cama}

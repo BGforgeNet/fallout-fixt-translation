@@ -118,8 +118,8 @@
 {217}{}{¡Nah, yo no! Soy una de los buenas.}
 {218}{HROLD41}{Oh, vaya, eres tú otra vez.}
 {219}{}{Aquí hay 20 chapas, por si las necesitas.}
-{220}{}{Ey.}
-{221}{}{¿Eh?}
+{220}{}{Hola.}
+{221}{}{¿Ehh?}
 {222}{hrold42}{Quedándote conmigo, ¿eh?}
 {223}{HROLD43}{¿Puedo hacer algo por ti?}
 {224}{}{¿Tienes alguna novedad que contarme?}

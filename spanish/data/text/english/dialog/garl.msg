@@ -115,7 +115,7 @@
 {1006}{}{Tandi}
 {1007}{}{Sombrías}
 {1008}{}{Chip}
-{1009}{}{Saqueadores}
+{1009}{}{Raiders}
 {1010}{}{Khan}
 {1011}{}{Raid}
 {1012}{}{Saqueador}

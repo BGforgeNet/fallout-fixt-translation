@@ -1,36 +1,36 @@
-{100}{}{You see Rock.}
+{100}{}{Ver el Rock.}
 {101}{}{Estás viendo a un hombre.}
-{102}{}{You might want to think about putting that gun away, son. The Crypts don't like it when people flash hardware that way.}
-{103}{}{Oh, really. I'll just go have a talk to them about it. Where are they?}
+{102}{}{Usted puede ser que desee pensar acerca de poner la pistola de distancia, hijo. Las Criptas no me gusta cuando la gente de flash de hardware de esa manera.}
+{103}{}{Ay, de verdad. Voy a ir a hablar con ellos sobre esto. ¿Dónde están?}
 {104}{}{Oh, ok. Where can I get a drink?}
-{105}{}{Who are the Crypts?}
-{106}{}{You look like you could use a cool drink.}
+{105}{}{Que son las Criptas?}
+{106}{}{Ver como se podría utilizar una bebida fría.}
 {107}{}{[Hecho]}
-{108}{}{Yeah, go to the big building just inside town, and tell 'em Rock sent you.}
+{108}{}{Sí, ir al gran edificio, en el interior de la ciudad, y dile a em 'Rock ha enviado a vosotros.}
 {109}{}{Vale.}
-{110}{}{The Crypts? They are the biggest, baddest crew around. Don't mess with them, if you want to leave Scrapheap in one piece.}
-{111}{}{Where are they?}
-{112}{}{They are in the big building just inside the gate. You looking for some steady work? Someplace to use that gun of yours?}
+{110}{}{Las Criptas? Ellos son el más grande, más malo de la tripulación de alrededor. No se metan con ellos, si quieres dejar sin perspectivas de futuro en una sola pieza.}
+{111}{}{¿Dónde están?}
+{112}{}{Están en el edificio grande justo dentro de la puerta. Estás buscando algún trabajo estable? En algún lugar de usar esa arma de la suya?}
 {113}{}{No.}
-{114}{}{Yeah, sure am.}
-{115}{}{Then I suggest you turn right back around and leave. Scrapheap is no place for those who ain't with the Crypts. If you want to go in, you can - but it's your life.}
+{114}{}{Sí, estoy seguro.}
+{115}{}{Entonces le sugiero que girar a la derecha alrededor de la espalda y salir. Cementerio no es un lugar para aquellos que no con las Criptas. Si usted quiere ir, puede - pero es su vida.}
 {116}{}{Vale.}
-{117}{}{Great. Tell them Rock sent you, up at the big house.}
+{117}{}{Gran. Dígales Rock enviado, en la gran casa.}
 {118}{}{Vale.}
-{119}{}{Glad to hear that you are on the good side in Scrapheap. Welcome to the gang.}
+{119}{}{Me alegra saber que usted está en el lado bueno de Chatarra. Bienvenido a la pandilla.}
 {120}{}{Gracias.}
-{121}{}{You made a mistake. A terrible, terrible mistake.}
+{121}{}{Has cometido un error. Un terrible, terrible error.}
 {122}{}{Welcome to Scrapheap, son. Don't be a fool, and you will do ok.}
-{123}{}{Thanks, what is this place?}
+{123}{}{Gracias, ¿qué es este lugar?}
 {124}{}{¿Quién está al mando aquí?}
-{125}{}{Scrapheap is the armpit of the desert. No better place to raise children, in my opinion. [Chuckles] This place makes Junktown look like a living city of the ancients.}
+{125}{}{Chatarra es la axila del desierto. No hay mejor lugar para criar a los hijos, en mi opinión. [Risas] Este lugar hace Junktown mira como la vida de la ciudad de los antiguos.}
 {126}{}{Gracias.}
-{127}{}{Well, there is a commune, run by Lex. But the real power is always behind the throne. In this case, the people not to mess around with are the Crypts.}
+{127}{}{Bueno, hay una comuna, dirigido por Lex. Pero el poder real está siempre detrás del trono. En este caso, la gente no meterse con el son de las Criptas.}
 {128}{}{Gracias.}
-{129}{}{Well, you sure do ask a lot of questions. I think you should just move along now.}
+{129}{}{Bueno, seguro que no pedir un montón de preguntas. Creo que sólo debería mover a lo largo de ahora.}
 {130}{}{Vale.}
 {131}{}{[Hecho]}
-{132}{}{The Crypts will bury you!}
-{133}{}{Fools got no reason to live.}
-{134}{}{The Foolish shall perish.}
-{135}{}{Look who got hit with the ugly stick.}
+{132}{}{Las Criptas va a enterrar a usted!}
+{133}{}{Los tontos no tienes una razón para vivir.}
+{134}{}{El Tonto perecerá.}
+{135}{}{Mira quien fue golpeado con el feo palo.}

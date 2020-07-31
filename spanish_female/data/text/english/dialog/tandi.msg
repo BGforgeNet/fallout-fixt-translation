@@ -118,7 +118,7 @@
 {399}{}{[Continuar]}
 {400}{TAND_3}{Sí, supongo. Nunca he estado fuera, así que no sé cómo podría ayudarte. Así que, ¿qué necesitas?}
 {402}{TAND_28}{Well, thanks for... "talking". (She winks at you.) We don't get many strangers here, so it's always good to "talk" to new people. Well, see ya! (She looks exhausted, but blows you a kiss.)}
-{404}{}{Every inch of you, but not here. Let's go somewhere private.}
+{404}{}{Cada pulgada de usted, pero no aquí. Vamos a ir a algún lugar privado.}
 {405}{}{You look rather... inexperienced. I'd like to fill you with as much "knowledge" as you can handle. [wink]}
 {406}{}{[Sigh] More than you can provide, but I'll make do.}
 {407}{}{[Continuar]}
@@ -130,10 +130,10 @@
 {502}{}{On second thought, never mind. Let's go!}
 {503}{}{Just wanted to say hi. You're great.}
 {504}{}{Me like prity gurl.}
-{505}{}{Elp?}
+{505}{}{Pda?}
 {506}{}{Me tell.}
 {507}{}{Oof.}
-{508}{}{Make boom-boom?}
+{508}{}{Hacer boom-boom?}
 {509}{}{}
 {510}{}{Let's discuss our tactics and formation.}
 {511}{}{Desenfunda tu mejor arma.}
@@ -144,7 +144,7 @@
 {1000}{}{Aradesh}
 {1001}{}{Tandi}
 {1002}{}{Seth}
-{1003}{}{Saqueadores}
+{1003}{}{Raiders}
 {1004}{}{Pozo}
 {1005}{}{Escorpiones}
 {1006}{}{Garra}

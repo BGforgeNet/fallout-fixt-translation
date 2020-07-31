@@ -2,7 +2,7 @@
 {101}{}{Ves a un hombre joven con un tatuaje y aspecto de malo.}
 {102}{}{Me gustaría unirme a vosotros, muchachos.}
 {103}{}{Estás en territorio de los Kalaveras, forastera. Será mejor que hables rápido.}
-{104}{}{Lo siento, te equivocas de habitación.}
+{104}{}{Lo siento, sala equivocada.}
 {105}{}{¿Los Kalaveras? ¿Quiénes sois, muchachos?}
 {106}{}{¿Ergh?}
 {107}{}{¡No sabes hasta qué punto te has equivocado de sitio!}

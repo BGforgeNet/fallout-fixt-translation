@@ -5,7 +5,7 @@
 {104}{}{Hola.}
 {105}{}{Ey, saludos y buenos días para ti, señorita. ¿Qué cuenta?}
 {106}{}{¡Owuuwngh!}
-{107}{}{Ey.}
+{107}{}{Hola.}
 {108}{}{He conocido a algunos de los Seguidores. ¿Qué es lo que haces exactamente?}
 {109}{}{Intento encontrar a un espía entre los vuestros, pero no estoy teniendo mucha suerte. ¿Te puedo hacer algunas preguntas?}
 {110}{}{Oh, bueno, sobre todo estudio filosofía y cosas así. Quiero decir, si vamos a predicar paz, entonces necesitaremos un buen soporte, ¿no?}

@@ -578,7 +578,7 @@
 {2001}{}{¡Ten compasión!}
 {2002}{}{¡Que alguien me ayude!}
 {2003}{}{¡Para, por favor!}
-{2004}{}{Go away, I didn't do anything!}
+{2004}{}{Vaya, yo no hice nada!}
 {2005}{}{¡No voy a morir por esto!}
 {2006}{}{Espera a que te coja...}
 {2007}{}{¿Por qué haces esto?}
@@ -1450,7 +1450,7 @@
 {3508}{}{!}
 {3509}{}{}
 {3510}{}{¡Los Destripadores te van a hacer pedazos!}
-{3511}{}{¡Bailemos!}
+{3511}{}{Vamos a bailar!}
 {3512}{}{¡Voy a trincharte como si fueras carne de iguana en un pincho!}
 {3513}{}{}
 {3514}{}{Por favor, no te mueras todavía. ¡Quiero que sufras!}
@@ -4631,7 +4631,7 @@
 {8907}{}{¡Acabas de cometer un grave error!}
 {8908}{}{Let's settle this like scavs}
 {8909}{}{Veamos de qué estás hecha}
-{8910}{}{Gonna get creative with this one}
+{8910}{}{Va a conseguir creativo con este}
 {8911}{}{La sangre resuelve lo que las palabras no pueden}
 {8912}{}{¡Trágate esa!}
 {8913}{}{Take it!}

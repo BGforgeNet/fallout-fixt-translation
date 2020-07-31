@@ -26,7 +26,7 @@
 {207}{}{Curación de heridas mayores y extremidades dañadas. Sin esta habilidad se tardará mucho más en curar las extremidades dañadas.}
 {208}{}{Movimiento cauteloso y habilidad para pasar desapercibido. Si funciona, será más difícil descubrirte. No puedes correr y andar con sigilo al mismo tiempo.}
 {209}{}{Habilidad para abrir cerraduras sin la llave adecuada. El uso de ganzúas o de ganzúas electrónicas mejorará enormemente esta habilidad.}
-{210}{}{Habilidad para apropiarte cosas ajenas. Puede utilizarse para robar a personas o en lugares.}
+{210}{}{La capacidad para hacer las cosas de otras personas de su propio. Puede ser utilizada para robar de personas o lugares.}
 {211}{}{Localización y eliminación de trampas. También incluye la colocación de explosivos con fines destructores.}
 {212}{}{Abarca una gran variedad de habilidades de alta tecnología, como la informática, la biología, la física y la geología.}
 {213}{}{Aplicación práctica de la Ciencia. Reparación de equipos, maquinaria y material electrónico roto.}

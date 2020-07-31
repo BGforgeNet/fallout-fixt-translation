@@ -1,7 +1,7 @@
 {100}{}{Estás viendo a un oficial de policía del Eje.}
 {101}{}{Me gustaría haber aparcado más cerca de casa.}
 {102}{}{Me pregunto lo que habrá ocurrido con esas caravanas.}
-{103}{}{Muévete.}
+{103}{}{Sigue avanzando.}
 {104}{}{Deberías mantener guardadas tus armas, forastero.}
 {105}{}{No te metas en líos.}
 {106}{}{¿Tienes algún artículo que declarar?}

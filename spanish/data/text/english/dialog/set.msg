@@ -21,7 +21,7 @@
 {120}{}{No, ¿eh?}
 {121}{Set05}{Bueno. Parece que tenemos un diamante en bruto... je... tengo unos amiguitos para ti, mi deslumbrante normalucho. Castiga a los mutantes que están en el Almacén de Agua por mí. Claro, claro, puedes hacerlo... ¿no?}
 {122}{}{Eh, vale.}
-{123}{}{Nah-ah.}
+{123}{}{Nuh-uh.}
 {124}{Set06}{Excelente. Dales una última lección a esos mutantes, luego vuelve aquí... Mmm. Si les digo a mis necrófagos que te dejen en paz, los mutantes podrían oírlo y sospechar. Así que, es hora de que me eches una mano. Yo me callo. ¿Lo pillas?}
 {125}{}{Lo pillo.}
 {126}{}{¿Qué pasa con los necrófagos?}
@@ -89,7 +89,7 @@
 {188}{Set25}{No he tenido noticia de que los mutantes del Almacén de Agua hayan dejado de respirar. Fundamental para mis planes. Dime que es un problema enterrado.}
 {189}{}{Oh, sí. No te preocupes, me estoy ocupando de todo. Confía en mí.}
 {190}{}{No, todavía estoy en ello.}
-{191}{}{Nah-ah.}
+{191}{}{Nuh-uh.}
 {192}{Set26}{Ahhh, reconforta. Sigue a Garret para tu recompensa. }
 {193}{Set27}{Me haces perder el tiempo con tus mentiras. Deja mi sombra antes de... morir. ¡Muere! ¡Solo muere! }
 {194}{Set28}{Ahora anda. Ocúpate de los mutantes y luego vuelve. No antes.}
@@ -173,7 +173,7 @@
 {272}{}{Necesitaba el chip para salvar mi propio Refugio. Lo siento.}
 {273}{}{¿Bastará con un... lo siento?}
 {274}{}{¿Lo quieres de vuelta?}
-{275}{}{¿Eh?}
+{275}{}{¿Ehh?}
 {276}{Set58}{Un camino, quizás. Existe una bomba alternativa, pero no acciona. Ninguno de los míos puede traerla a la vida.}
 {277}{}{Quizás podría echar una ojeada a esa bomba.}
 {278}{}{Qué pena. Supongo que estaréis sedientos.}

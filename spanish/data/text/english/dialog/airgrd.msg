@@ -1,7 +1,7 @@
 {100}{}{Estás viendo a un Supermutante. Está vigilando la cámara.}
 {101}{}{Estás viendo a un guardia Supermutante.}
 {102}{}{Jeremiah, deberías pasar.}
-{103}{}{Muévete.}
+{103}{}{Sigue avanzando.}
 {104}{}{Muévete más rápido, mensajero.}
 {105}{}{¡Los Normales no pueden llevar armas aquí! ¡Detente e identifícate!}
 {106}{}{¡Grrr!}

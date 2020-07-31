@@ -15,8 +15,8 @@
 {125}{}{You have our gratitude, stranger.}
 {126}{}{Thanks again for helping.}
 {127}{}{Thanks for your help!}
-{128}{}{We're in your debt, friend. Please accept these }
-{129}{}{ caps as a token of our appreciate for taking care of those raiders.}
+{128}{}{Estamos en deuda con ustedes, amigo. Por favor, acepte estos }
+{129}{}{ las tapas como una muestra de nuestro aprecio por cuidar de los raiders.}
 {130}{}{Thank you for helping us against those damned drunken raiders. For you assistance, we award you these }
 {131}{}{ chapas.}
 {132}{}{We pooled these }

@@ -1,6 +1,6 @@
 {100}{}{Ves a hombre de negocios. No estás seguro de la naturaleza de sus negocios.}
 {101}{}{¿Qué puedo hacer por ti?}
-{102}{}{¿Eh?}
+{102}{}{¿Hunh?}
 {103}{}{¿Quién eres?}
 {104}{}{¿Qué pasa en este edificio?}
 {105}{}{¿Vance, verdad? He oído que tú tienes lo que necesito. ¿Puedo conseguir algo?}

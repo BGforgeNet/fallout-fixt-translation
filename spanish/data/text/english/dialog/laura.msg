@@ -138,7 +138,7 @@
 {294}{laura62}{¿Qué haces? ¡Baja eso!}
 {296}{laura63}{¡Oye! ¡Fuera de aquí!}
 {297}{}{¿Y si no, qué?}
-{298}{}{Lo siento, me voy.}
+{298}{}{Lo siento, me voy a ir ahora.}
 {300}{laura64}{¡Para!}
 {302}{laura65}{¿Qué... qué estás haciendo aquí? ¡Tienes que irte!}
 {303}{}{¡No, tú te vas!}

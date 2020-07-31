@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un miembro de los Navajas.}
-{101}{}{Ey.}
+{101}{}{Hola.}
 {102}{}{Hola.}
 {103}{}{Que tengas un buen día.}
 {104}{}{Tenemos un tiempo estupendo hoy.}

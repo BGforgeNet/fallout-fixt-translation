@@ -88,7 +88,7 @@
 {361}{}{Sí, al parecer la Hermandad está llena de idiotas.}
 {362}{}{Yo tampoco. Adiós.}
 {363}{}{No hablaré contigo.}
-{364}{}{¿En qué puedo ayudarte?}
+{364}{}{¿Cómo puedo ayudarte?}
 {365}{}{¿Qué haces aquí?}
 {366}{}{¿Podrías hablarme de la historia de la Hermandad?}
 {367}{}{Lo siento, te he confundido con otra persona. Adiós.}

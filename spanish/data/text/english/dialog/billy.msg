@@ -1,5 +1,5 @@
 {100}{}{Ves: a Billy.}
-{101}{}{Hola}
+{101}{}{Hola.}
 {102}{}{Hola, ¿qué haces?}
 {103}{}{¿Puedo coger un brahmin?}
 {104}{}{Hola. Eh, adiós.}
@@ -29,7 +29,7 @@
 {128}{}{Por favor, déjame tranquilo.}
 {129}{}{Me estás dando miedo.}
 {130}{}{Oye, ¿qué intentas hacer? No tengo nada que te interese.}
-{131}{}{¡Déjalo!}
+{131}{}{¡Para eso!}
 {132}{}{¿Peligrosos? No mucho. Aunque no lo parezca, son alucinantes. Se tiran pedos y eructan mucho. No sé por qué.}
 {133}{}{¿Para qué sirve la lanza entonces?}
 {134}{}{Vale, gracias.}

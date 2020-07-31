@@ -17,7 +17,7 @@
 {116}{}{Ganas 100 puntos de experiencia por ayudar a Phil a solucionar su enigma canino.}
 {117}{}{¡Guau! ¡Guau! ¡Guau!}
 {118}{}{Venga, Dogmeat. Buen chico.}
-{119}{}{Albòndiga, !sièntate¡ buen chico. Volverè pronto. }
+{119}{}{Dogmeat, siéntese! Buen chico. Estaré de vuelta pronto.}
 {120}{}{¡Vámonos, Dogmeat!}
 {121}{}{¡¡¡Cachorrito!!!}
 {122}{}{¿Guau?}

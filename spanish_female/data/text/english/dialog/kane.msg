@@ -242,7 +242,7 @@
 {343}{}{Quiero un trabajo.}
 {344}{}{Nada, adiós.}
 {345}{}{Kru.}
-{346}{}{Ey.}
+{346}{}{Hola.}
 {347}{}{¿Cómo estás?}
 {348}{}{Adiós.}
 {349}{}{Bien.}

@@ -22,7 +22,7 @@
 {121}{}{Oh. ¡Qué pena!}
 {122}{}{¿De verdad? ¡Sería maravilloso! Solo nos faltan un par de piezas pero seguro que si consigues las piezas adecuadas podremos ser autosuficientes. Quizás te pueda ayudar Sammael.}
 {123}{}{¿Aún no has encontrado las piezas?}
-{124}{}{Sí, aquí las tienes.}
+{124}{}{Si, aquí están.}
 {125}{}{Todavía no, ¿a quién dijiste que debía preguntarle sobre ellas?}
 {126}{}{Tienes que hablar con Sammael. Durante el día, lo encontrarás en una tienda ahí abajo en las granjas.}
 {127}{}{[Miles inspecciona las piezas] Son ésas, pero parece que Herreriano tendrá que hacerles algunos cambios. ¿Puedes llevárselas?}

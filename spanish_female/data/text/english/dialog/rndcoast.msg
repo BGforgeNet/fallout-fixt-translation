@@ -21,4 +21,4 @@
 {1007}{}{}
 {1008}{}{}
 {1009}{}{}
-{1010}{}{You are ambushed by a blood-thirsty bounty hunter and his goon squad!}
+{1010}{}{Ustedes son emboscados por una sed de sangre cazador y su goon squad!}

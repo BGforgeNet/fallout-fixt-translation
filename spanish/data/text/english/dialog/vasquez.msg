@@ -23,5 +23,5 @@
 {122}{}{Umm.}
 {123}{}{Bueno, quizá no sea buena idea volver a verte. Que pases un buen día.}
 {124}{}{Claro que sí. Soy barato y mi valía merece la pena. 500 chapas, por favor.}
-{125}{}{Aquí tienes.}
+{125}{}{Aquí están.}
 {126}{}{No debiste hacer eso, acabas de firmar tu sentencia de muerte.}

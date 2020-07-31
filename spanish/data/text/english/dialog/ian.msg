@@ -84,7 +84,7 @@
 {1002}{}{Arenas}
 {1003}{}{Ciudad Vertedero}
 {1004}{}{Eje}
-{1005}{}{Saqueadores}
+{1005}{}{Raiders}
 {1006}{}{Caravanas}
 {1007}{}{Chip}
 {1008}{}{Sombrías}

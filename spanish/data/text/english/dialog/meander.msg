@@ -2,7 +2,7 @@
 {101}{}{Oye, ¿vas a comerte esta rata muerta?}
 {102}{}{¿Qué?}
 {103}{}{¿Has visto a mi perro Elvis? Está por aquí en alguna parte.}
-{104}{}{Ey.}
+{104}{}{Hola.}
 {105}{}{¡Arrrr!}
 {106}{}{¡Grrrrr!}
 {107}{}{¡Voy a comerme tus huesos!}

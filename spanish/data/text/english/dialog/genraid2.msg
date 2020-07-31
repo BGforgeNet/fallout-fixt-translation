@@ -6,7 +6,7 @@
 {105}{}{¡Ayyyy! ¡Un fantasma!}
 {106}{}{¡La muerte camina otra vez! ¡La Mano Letal ha vuelto!}
 {107}{}{Bien hecho.}
-{108}{}{Ey.}
+{108}{}{Hola.}
 {109}{}{Estoy esperando a Garl para aplastar a los de Arenas Sombrías. Me apetece saquear.}
 {110}{}{Bienvenido, colega.}
 {111}{}{Me alegra que vuelvas de visita.}

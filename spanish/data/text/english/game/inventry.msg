@@ -7,11 +7,11 @@
 {6}{}{SU}
 {7}{}{Puntos de Salud}
 {8}{}{Clase de Armadura}
-{9}{}{Normal}
-{10}{}{Láser}
-{11}{}{Fuego}
-{12}{}{Plasma}
-{13}{}{Explosión}
+{9}{}{  Normal}
+{10}{}{  Láser}
+{11}{}{  Fuego}
+{12}{}{  Plasma}
+{13}{}{  Explosión}
 {14}{}{[no item]}
 {15}{}{Dñ:}
 {16}{}{Alc:}

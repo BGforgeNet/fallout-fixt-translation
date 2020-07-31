@@ -12,7 +12,7 @@
 {11}{}{CARGAR PARTIDA}
 {12}{}{CREDITOS}
 {13}{}{EXIT}
-{14}{}{Fallout Fixt v0.TESTING by Sduibek. DOWNLOAD: Testing. INSTALL: Testing.}
+{14}{}{Fallout Fixt v0.PRUEBAS por Sduibek. DESCARGAR: de la Prueba. INSTALAR: Pruebas.}
 {15}{}{Puntos de Acción}
 {16}{}{Puntos de Salud}
 {17}{}{Error: motion sensor not available!}

@@ -12,7 +12,7 @@
 {111}{}{¿Cuál es tu historia?}
 {112}{}{Vale, nos vemos.}
 {113}{}{¡No es chatarra! ¡Son productos comerciales!}
-{114}{}{Ah, bien. Adiós.}
+{114}{}{Uh, a la derecha. Bye.}
 {115}{}{Ah. ¿Cuál es tu historia?}
 {116}{}{Um. Jamás he visto uno de esos. ¿Cuál es el problema?}
 {117}{}{Este chip controla la purificación de agua en mi Refugio. Pero ha desaparecido.}

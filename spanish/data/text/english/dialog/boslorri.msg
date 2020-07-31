@@ -111,9 +111,9 @@
 {403}{}{Bien, entonces, ¿te ha afectado la radiación o estás herido? Te ayudaré si puedo.}
 {404}{}{Doler.}
 {405}{}{¡Pelo caEr!}
-{406}{}{Nah-ah.}
+{406}{}{Nuh-uh.}
 {407}{}{Vale. Ya has despertado. Veamos. ¿Te sientes más inteligente?}
-{408}{}{¿Eh?}
+{408}{}{¿Hunh?}
 {409}{}{¡Sí!}
 {410}{}{¡Demonios! Fue un fallo. Bueno, no tenía mucho con lo que trabajar. Lo siento, eres demasiado idiota y preferiría que siguieses siéndolo. Siento decirte que solo hacemos una operación cada vez.}
 {411}{}{¡Fantástico, ha sido un éxito! He conseguido aumentar tu coeficiente intelectual hasta un nivel aceptable. ¿Cómo te sientes con medio cerebro?}

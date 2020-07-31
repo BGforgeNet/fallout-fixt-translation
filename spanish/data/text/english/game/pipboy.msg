@@ -8,19 +8,19 @@
 {107}{}{¡Feliz Navidad!}
 {200}{}{[MÁS]}
 {201}{}{[ATRÁS]}
-{202}{}{Quests}
+{202}{}{Misiones}
 {203}{}{No hay tareas actuales.}
-{204}{}{CLUES}
+{204}{}{PISTAS}
 {205}{}{LOCATION MAPS}
 {206}{}{ARCHIVOS VÍDEO}
 {207}{}{DATOS}
 {208}{}{}
 {209}{}{}
-{210}{}{Quests}
-{211}{}{Data}
+{210}{}{Misiones}
+{211}{}{Datos}
 {212}{}{de}
 {213}{}{Página}
-{214}{}{[DONE]}
+{214}{}{[HECHO]}
 {215}{}{Cannot rest with hostiles present.}
 {300}{}{DESPERTADOR}
 {301}{}{Puntos de Salud Actuales: }
@@ -434,14 +434,14 @@
 {4038}{}{Sorprendentemente, incluso las células nerviosas}
 {4039}{}{normalmente no replicadoras y no somáticas fueron}
 {4040}{}{**END-DISK**}
-{5000}{}{The Military has deemed it necessary for us to research}
-{5001}{}{further in depth the effects of wave technology upon}
-{5002}{}{living organisms.  We have taken light and sound as the}
-{5003}{}{basis of our studies.  By manipulating the amplitude of}
-{5004}{}{the light waves and magnifying the frequency, we have}
-{5005}{}{been able to get lasers which will cut through a few}
+{5000}{}{El Militar ha considerado necesario para la investigación}
+{5001}{}{más en profundidad los efectos de la onda de la tecnología en la}
+{5002}{}{los organismos vivos. Hemos tomado la luz y el sonido como el}
+{5003}{}{la base de nuestros estudios. Mediante la manipulación de la amplitud de}
+{5004}{}{las ondas de luz y aumento de la frecuencia, tenemos}
+{5005}{}{sido capaz de obtener los láseres que cortan a través de un par de}
 {5006}{}{feet a steel.  Unfortunately, the power to do such a}
-{5007}{}{task has not been fully developed.  We have other}
+{5007}{}{la tarea no se ha desarrollado completamente. Tenemos otros}
 {5008}{}{scientists looking into this.}
 {5009}{}{**END-DISK**}
 {6000}{}{• Observaciones Iniciales}

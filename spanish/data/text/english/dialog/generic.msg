@@ -1,8 +1,8 @@
 {100}{}{¿Qué quieres?}
-{101}{}{Déjame en paz.}
+{101}{}{Déjame tranquilo.}
 {102}{}{¿Qué?}
 {103}{}{No te metas en mis asuntos.}
-{104}{}{Ey.}
+{104}{}{Hola.}
 {105}{}{¡Arrrr!}
 {106}{}{¡Grrrrr!}
 {107}{}{Uungh.}
@@ -37,7 +37,7 @@
 {376}{}{Adiós.}
 {450}{}{No hay moros en la costa. ¡Movámonos!}
 {900}{}{La puerta, vieja y gastada, parece que podría ser destruida con un explosivo bien colocado.}
-{905}{}{¡Guau! ¡Guau!}
+{905}{}{¡Guau Guau!}
 {910}{}{El suelo electrificado te electrocuta.}
 {911}{}{ se electrocuta por el suelo electrificado.}
 {912}{}{El nivel de energía cae a cero y luego sube al 50% cuando el generador entra en acción.}

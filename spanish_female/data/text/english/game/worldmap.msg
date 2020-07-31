@@ -1,11 +1,11 @@
 {200}{}{Caverna, Puerta del Refugio}
 {201}{}{Entrance, Medical}
 {202}{}{Aposentos}
-{203}{}{Library, Supplies, Command}
+{203}{}{Biblioteca, Suministros, Comando}
 {210}{}{Old Shack}
 {211}{}{Cavern Entrance}
 {212}{}{Aposentos}
-{213}{}{Library, Supplies, Command}
+{213}{}{Biblioteca, Suministros, Comando}
 {220}{}{Entrance, Town Hall}
 {221}{}{Campo de Cultivo}
 {222}{}{Corral de Brahmines}

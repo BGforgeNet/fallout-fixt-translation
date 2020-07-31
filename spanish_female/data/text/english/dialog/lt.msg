@@ -171,7 +171,7 @@
 {270}{LIEUT45m}{Vaya, estoy impresionado. Mis espías me dijeron que tenías muchos recursos, pero parece que subestimaron tu talento. ¡Guardias, capturadlo!}
 {271}{LIEUT39f}{Oh, admiro tu fuerza de voluntad. Guardias, llevadla a su celda y preparadla para el baño. Nos dirá donde se encuentra su Refugio cuando sea una de los nuestros.}
 {272}{LIEUT39m}{Oh, admiro tu fuerza de voluntad. Guardias, llevadlo a su celda y preparadlo para el baño. Nos dirá donde se encuentra su Refugio cuando sea uno de los nuestros.}
-{273}{}{I do hope you enjoyed the dipping process as much as I did administering it. Run along now; I have work to do.}
+{273}{}{Espero que hayas disfrutado el proceso de inmersión tanto como yo de su administración. Ejecutan a lo largo de ahora; tengo trabajo que hacer.}
 {980}{LIEUT64}{Ahora mismo eso no es importante.}
 {981}{LIEUT65}{Esa es una pregunta irrelevante para la Unidad.}
 {982}{LIEUT66}{Ni siquiera me dignaré a dar una respuesta.}

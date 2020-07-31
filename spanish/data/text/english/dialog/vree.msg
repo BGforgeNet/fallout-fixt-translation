@@ -80,7 +80,7 @@
 {179}{Vree45}{Las buenas acciones deben ser recompensadas. Toma esto por haber ayudado al Iniciado, por favor.}
 {180}{Vree46}{Oh, eres tú. ¿Qué quieres?}
 {181}{}{He venido para disculparme.}
-{182}{}{Lo siento, te equivocas de habitación.}
+{182}{}{Lo siento, sala equivocada.}
 {183}{Vree47}{Gracias por tus disculpas. }
 {184}{Vree47a}{Buen día.}
 {185}{Vree48}{Eso parece un problema de fabricación. Nosotros solo manejamos la teoría y el diseño. Pídele ayuda a uno de los Caballeros.}

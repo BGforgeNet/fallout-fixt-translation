@@ -8,7 +8,7 @@
 {107}{}{Soy de un Refugio del oeste. Mi gente se está muriendo de sed y tengo que encontrar un chip purificador del agua para que puedan sobrevivir.}
 {108}{}{¡Voy a salvar de la destrucción a un pueblo entero!}
 {109}{}{¿Arenas Sombrías? ¡Oh, me he perdido! Me marcharé ahora.}
-{110}{}{¿Eh?}
+{110}{}{¿Hunh?}
 {111}{Ara_2}{No he oído hablar de ningún pueblo al oeste.}
 {112}{}{¿Has estado al otro lado de las montañas al oeste de aquí?}
 {113}{}{¿Y?}
@@ -40,7 +40,7 @@
 {139}{Ara_12}{Mmm, sí, sí, sí. Entonces háblame de ese Refugio.}
 {140}{}{Bueno... el Refugio es de hecho el nombre de mi aldea. La llamamos así porque está entre dos grandes acantilados.}
 {141}{}{Es un sitio enorme construido dentro de una montaña muy lejos, dirección oeste. Mi pueblo ha estado allí durante los últimos 80 años.}
-{142}{}{¿Por qué quieres saberlo?}
+{142}{}{¿Por qué lo quieres saber?}
 {143}{Ara_13}{Morador, voy a creerte... por ahora. Puedes entrar en Arenas Sombrías, pero has de saber que vigilaremos cada uno de tus pasos.}
 {144}{Ara_14}{No me mentirás, morador.}
 {145}{}{No tengo nada que decirte.}
@@ -58,9 +58,9 @@
 {157}{Ara_18n}{Saludos. ¿En qué puedo ayudarte tal día como hoy?}
 {158}{Ara_18b}{¿Quieres algo?}
 {159}{}{¿Puedes hablarme de Arenas Sombrías?}
-{160}{}{Me preguntaba si podría hacerte algunas cuestiones.}
+{160}{}{Me preguntaba si podría hacer un par de preguntas?}
 {161}{}{En realidad nada, ya me marchaba.}
-{162}{}{Nah-ah.}
+{162}{}{Nuh-uh.}
 {163}{Ara_19}{Claro. ¿Qué quieres saber?}
 {164}{Ara_19b}{Puedes preguntar, pero, por favor, date prisa. Tengo cosas más importantes en las que usar mi tiempo.}
 {165}{}{¿Qué puedes decirme de las otras ciudades de por aquí?}
@@ -101,7 +101,7 @@
 {200}{}{Te ayudaré por un precio.}
 {201}{}{Eso es horrible. ¿Puedo hacerte algunas preguntas más?}
 {202}{Ara_29}{Mmm, ¡sí, sí, sí, sí, sí! Por favor, habla con Razlo. Él posee mucha más información que yo sobre estos bichos.}
-{203}{Ara_30}{Como dijo Dharma: "Aquellos que cuidan su propio rebaño, conocen al pastor." }
+{203}{Ara_30}{Como Dharma dijo, "Aquellos que tienden a su propio rebaño, conocemos el pastor".}
 {204}{}{Sé que es difícil para ti confiar en mí, pero me gustaría ayudar.}
 {205}{}{Tú eliges. ¿Puedo hacerte algunas preguntas más?}
 {206}{Ara_30a}{Por favor, ¡date prisa y deshazte de esos escorpiones rad!}
@@ -128,7 +128,7 @@
 {227}{Ara_38}{Que mis pensamientos sean alas para tus pies. Por favor, date prisa.}
 {228}{Ara_39}{¡Gracias a Dios que has venido! Tengo una necesidad imperiosa de ayuda. Mi hija Tandi ha desaparecido. ¡No sé qué hacer!}
 {229}{}{¿Has intentado salvarla?}
-{230}{}{¿Eh?}
+{230}{}{¿Ehh?}
 {231}{Ara_39a}{Mi pueblo no está muy preparado para esto. Ya han salido tres patrullas a buscar, pero ninguna ha vuelto. ¿Me ayudarás?}
 {232}{}{Vale. ¿Quién puede habérsela llevado?}
 {233}{}{Lo haré... por una recompensa.}
@@ -184,7 +184,7 @@
 {1001}{}{Dharma}
 {1002}{}{Tandi}
 {1003}{}{Razlo}
-{1004}{}{Saqueadores}
+{1004}{}{Raiders}
 {1005}{}{Víboras}
 {1006}{}{Khans}
 {1007}{}{Escorpiones}

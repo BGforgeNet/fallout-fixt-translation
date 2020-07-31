@@ -26,32 +26,32 @@
 {125}{}{> Command? }
 {126}{}{Open the Vault 13 blast door.}
 {127}{}{Close the Vault 13 blast door.}
-{128}{}{Modify configuration parameters.}
+{128}{}{Modificar los parámetros de configuración.}
 {129}{}{Nada, no importa.}
-{130}{}{Welcome to your SimTek 5000 interactive customization! Vault-Tec is committed to providing a pleasant integration into the outside world. Remember, incorrect settings may cause unstable anomalies! (Warranty void after 2077)}
-{131}{}{Vault 13 door entry computer can't be accessed during combat.}
-{132}{}{I understand.  [Execute "SPOILERS.EXE"]}
-{133}{}{Opens!}
-{134}{}{Do shut.}
+{130}{}{Bienvenido a su SimTek 5000 interactivo de personalización! Vault-Tec está comprometido a proporcionar un agradable integración en el mundo exterior. Recuerde, una configuración incorrecta puede causar inestable anomalías! (Nulidad de la garantía después de 2077)}
+{131}{}{El refugio 13 de la puerta de entrada de la computadora, no se puede acceder durante el combate.}
+{132}{}{Yo entiendo. [Execute "SPOILERS.EXE"]}
+{133}{}{Se abre!}
+{134}{}{¿Se cierran.}
 {135}{}{Changey?}
 {136}{}{A-diós.}
-{137}{}{Boosh.  [Execute "SPOILERS.EXE"]}
-{138}{}{Recalibrate Vault 13 water-level monitoring systems.}
-{139}{}{View or modify simulation-terminating parameters.}
+{137}{}{Boosh. [Execute "SPOILERS.EXE"]}
+{138}{}{Recalibrar el refugio 13 de niveles de agua los sistemas de monitoreo.}
+{139}{}{Ver o modificar la simulación de la terminación de los parámetros.}
 {140}{}{[Super Mutant Invasions]}
-{141}{}{Classify situational combat options.}
-{142}{}{Recalculate cross-wasteland encounter statistics.}
-{143}{}{[Items, Inventory, Bartering]}
+{141}{}{Clasificar situacional opciones de combate.}
+{142}{}{Recalcular cruz-páramo encuentro de estadísticas.}
+{143}{}{[Los Artículos, El Inventario, El Trueque]}
 {144}{}{[Levelup stuff]}
-{145}{}{[Social sexy times]}
-{146}{}{Hmm... Actually, let's go back.}
+{145}{}{[Social sexy veces]}
+{146}{}{Hmm... en Realidad, vamos a volver.}
 {147}{}{DO NOT WANT!}
-{148}{}{Thanks, I'm all set.  [Exit system]}
+{148}{}{Gracias, yo estoy listo. [Sistema de salida]}
 {149}{}{This boring!  [Exit system]}
-{150}{}{Okay, I'm done here.  [Go to main menu]}
-{151}{}{Replay historical data feed.}
-{152}{}{Calculating... System monitors indicate that Vault 13 water reserves are currently dropping at a steady rate. Estimated days left until total depletion: }
-{153}{}{.  Enter new value to recalibrate system.  (Default database value: 150)}
+{150}{}{Bueno, estoy haciendo aquí. [Ir al menú principal]}
+{151}{}{Reproducción de alimentación de los datos históricos.}
+{152}{}{El cálculo de... Sistema de monitores indican que la Bóveda de 13 de reservas de agua actualmente están cayendo a un ritmo constante. Estimado de días que quedan hasta el total agotamiento: }
+{153}{}{. Introduzca un nuevo valor para volver a calibrar el sistema. (El valor predeterminado de la base de datos de valor: 150)}
 {154}{}{> ¿Comando?}
 {155}{}{[30]}
 {156}{}{[60]}
@@ -73,47 +73,47 @@
 {172}{}{[135]}
 {173}{}{[140]}
 {174}{}{[145]}
-{175}{}{Align calibration with Overseer's estimates. [120 - 150]}
-{176}{}{Or-seer nums! [120 - 150]}
+{175}{}{Alinear la calibración con el Supervisor de las estimaciones. [120 - 150]}
+{176}{}{O-vidente nums! [120 - 150]}
 {177}{}{[999]}
 {178}{}{[64000]}
 {179}{}{[130]}
-{180}{}{Priority of Vault 13 waterchip-replacement subroutines.}
-{181}{}{How to stop mutant invasions}
-{182}{}{Reevaluate relative priority of Vault 13 survival vectors.}
-{183}{}{[Endgame Condition: Can play after being dipped?]}
-{184}{}{If the Wasteland will be as rough as it sounds, maybe I should take a moment to reflect on any personal neuroses that may affect my survival out there.}
-{185}{}{Me strong is many smart. Maybe has crazies. Want big challenge! [Optional gameplay restrictions]}
-{186}{}{If all other threats to the Vault are eliminated, our emergency wastewater redistribution protocol can negate the need for a Water Chip.  Protocol is currently: }
-{187}{}{. Toggle protocol status?  (Default status: Enabled)}
-{188}{}{DISABLED}
-{189}{}{ENABLED}
-{190}{}{Looks good; let's back up.  [Go to previous menu]}
+{180}{}{La prioridad de la Bóveda de 13 waterchip de sustitución de las subrutinas.}
+{181}{}{Cómo detener el mutante de las invasiones}
+{182}{}{Reevaluar la prioridad relativa de la Bóveda de 13 de supervivencia de los vectores.}
+{183}{}{[Endgame Condición: ¿se Puede jugar después de ser sumergido?]}
+{184}{}{Si el Yermo ser tan bruto como parece, tal vez debería tomar un momento para reflexionar sobre cualquier personal de las neurosis que puede afectar mi supervivencia por ahí.}
+{185}{}{Me es fuerte, muchos inteligente. Tal vez tiene locos. Quiero un gran desafío! [Opcional jugabilidad restricciones]}
+{186}{}{Si todas las demás amenazas a la Bóveda son eliminados, en caso de emergencia de aguas residuales de la redistribución de protocolo puede negar la necesidad de un Chip de Agua. El protocolo es en la actualidad: }
+{187}{}{. Alternar el estado del protocolo? (Estado predeterminado: enabled (Habilitado)}
+{188}{}{MOVILIDAD}
+{189}{}{HABILITADO}
+{190}{}{Se ve bien; vamos a retroceder. [Ir al menú anterior]}
 {191}{}{The Master.}
 {192}{}{The Vats.}
 {193}{}{Either the Master or the Vats.}
 {194}{}{Both the Master and the Vats.}
-{195}{}{To stop invasions of towns, you currently need to eliminate: }
-{196}{}{ Change requirement for cessation?  (Default requirement: The Master)}
-{197}{}{Checking... By default, this simulation will terminate if sensors indicate Vault 13 Survivability has dropped to zero. Current setting: }
+{195}{}{Para detener las invasiones de los pueblos, en la actualidad usted necesita para eliminar: }
+{196}{}{ Requisito de cambio para dejar de fumar? (Predeterminado requisito: El Maestro)}
+{197}{}{La comprobación de... de forma predeterminada, esta simulación se terminará si los sensores indican Bóveda de 13 de Supervivencia se ha reducido a cero. Configuración actual: }
 {198}{}{ State the desired status.}
 {199}{}{No.}
-{200}{}{Me done! Where other?  [Go to previous menu]}
+{200}{}{Me hace! Donde otros? [Ir al menú anterior]}
 {201}{}{Sí.}
 {202}{}{k!}
 {203}{}{[Restorations]}
 {204}{}{[Skills]}
-{205}{}{Party members}
-{206}{}{[Custom playstyles]}
+{205}{}{Los miembros del partido}
+{206}{}{[Personalizado estilos de juego]}
 {207}{}{[Misc]}
-{208}{}{Thank you for trusting Vault-Tec and SimTek 5000 with your customization needs! Please state a command.}
-{209}{}{Simulation terminates when Survivability reaches zero.}
-{210}{}{Simulation can continue if the source was foreign.}
-{211}{}{Simulation can continue if the source was organic.}
-{212}{}{Simulation continues regardless of Survivability rating.}
-{213}{}{Can the player keep playing after/if they've become a Super Mutant? Current seting: }
-{214}{}{ (Default: No.)}
-{215}{}{[SPECIAL]}
+{208}{}{Gracias por confiar en Vault-Tec y SimTek 5000 con su personalización necesita! Por favor, el estado de un comando.}
+{209}{}{La simulación termina cuando la Supervivencia llega a cero.}
+{210}{}{La simulación puede continuar si la fuente era extranjero.}
+{211}{}{La simulación puede continuar si la fuente era orgánico.}
+{212}{}{Simulación continúa independientemente de la capacidad de Supervivencia de calificación.}
+{213}{}{El jugador puede seguir jugando después de que/si se han convertido en un Super Mutante? Actual reseteando: }
+{214}{}{ (Por Defecto: No.)}
+{215}{}{[ESPECIAL]}
 {216}{}{Adytum.}
 {217}{}{Necrópolis.}
 {218}{}{The Hub.}
@@ -123,79 +123,79 @@
 {222}{}{De Arenas Sombrías.}
 {223}{}{Del Refugio 13.}
 {224}{}{For which location would you like to change the invasion time?}
-{225}{}{You are viewing number of days until invasion of }
+{225}{}{Usted está viendo el número de días hasta la invasión de }
 {226}{}{ Current value: }
-{227}{}{. Select new value below to modify.  (Default value: }
+{227}{}{. Seleccionar el nuevo valor por debajo de modificar. (Valor predeterminado: }
 {228}{}{)}
-{229}{}{Instant (0 days)}
-{230}{}{1/4 of default.}
-{231}{}{1/2 of default.}
+{229}{}{Instantánea (0 días)}
+{230}{}{1/4 de forma predeterminada.}
+{231}{}{1/2 de forma predeterminada.}
 {232}{}{Default value.}
 {233}{}{2x default.}
 {234}{}{3x default.}
 {235}{}{4x default.}
-{236}{}{Disabled. (this location will not be invaded)}
+{236}{}{Movilidad. (esta ubicación no será invadido)}
 {237}{}{Do weapons fall to the ground upon death?}
-{238}{}{Does player receive dadiation-on-hit from critters?}
-{239}{}{Specifics of Childkiller status}
-{240}{}{Ambient light and Flares}
+{238}{}{Qué jugador recibe dadiation por golpe de bichos?}
+{239}{}{Detalles de Childkiller estado}
+{240}{}{De luz ambiental y Bengalas}
 {241}{}{}
 {242}{}{}
 {243}{}{}
 {244}{}{}
 {245}{}{}
 {246}{}{}
-{247}{}{Hardcore: No loading saves. Must complete in 1 session.}
-{248}{}{Codependent Loser: If a hireling leaves or dies, game over.}
-{249}{}{Lone Wolf: If you get party members, game over}
-{250}{}{Pacifist: If player lands any hit in combat, game over.}
-{251}{}{Killswitch: If combat mode is ever activated, game over.}
-{252}{}{I Like It Hard: difficulty_level of Hard only.}
-{253}{}{I Like It Rough: combat_difficulty of Rough only.}
-{254}{}{Specify if any of the following characteristics apply to you, and sensors will adapt accordingly.}
-{255}{}{I'm Special: If your stats are ever raised, game over.}
-{256}{}{ This playstyle is currently: }
-{257}{}{. Toggle status?}
-{258}{}{Weapon Drop Mod is currently: }
-{259}{}{hexes from corpse. Your command?}
-{260}{}{, with weapons dropping }
+{247}{}{Hardcore: No carga salva. Debe completar en 1 sesión.}
+{248}{}{La codependencia Perdedor: Si un asalariado, hojas o muere, más de juego.}
+{249}{}{Lone Wolf: Si los miembros del partido, más de juego}
+{250}{}{Pacifista: Si reproductor de tierras de cualquier golpe en el combate, más de juego.}
+{251}{}{Killswitch: Si el modo de combate es siempre activa, más de juego.}
+{252}{}{Me Gusta Duro: difficulty_level de Duro solamente.}
+{253}{}{Me Gusta a la intemperie: combat_difficulty de diamantes en Bruto sólo.}
+{254}{}{Especificar si alguna de las siguientes características se aplican a usted, y los sensores se adaptará en consecuencia.}
+{255}{}{Yo soy Especial: Si las estadísticas se ha criado, más de juego.}
+{256}{}{ Este estilo de juego es en la actualidad: }
+{257}{}{. Cambiar estado?}
+{258}{}{Arma Caída Mod es en la actualidad: }
+{259}{}{de los maleficios de cadáver. Su comando?}
+{260}{}{, con armas de caer  }
 {261}{}{ to }
 {262}{}{Disable it.}
-{263}{}{Enable it, with a drop distance of 0 hexes from corpse.}
-{264}{}{Enable it, with a drop distance of 0-1 hexes from corpse.}
-{265}{}{Enable it, with a drop distance of 0-2 hexes from corpse.}
-{266}{}{Enable it, with a drop distance of 1 hex from corpse.}
-{267}{}{Enable it, with a drop distance of 1-2 hexes from corpse.}
-{268}{}{Enable it, with a drop distance of 2 hexes from corpse.}
-{269}{}{No creatures will irradiate the player upon landing an attack. Which type do you wish to toggle?}
+{263}{}{Permiten, con una distancia de caída de 0 hexes de cadáver.}
+{264}{}{Permiten, con una distancia de caída de 0-1 hexes de cadáver.}
+{265}{}{Permiten, con una distancia de caída de 0-2 de los maleficios de cadáver.}
+{266}{}{Permiten, con una distancia de caída de 1 hex de cadáver.}
+{267}{}{Permiten, con una distancia de caída de 1 a 2 hexágonos de cadáver.}
+{268}{}{Permiten, con una distancia de caída de 2 hexes de cadáver.}
+{269}{}{No hay criaturas iluminará el jugador, tras el aterrizaje de un ataque. Qué tipo usted desea alternar?}
 {270}{}{Intel indicates: }
 {271}{}{, }
-{272}{}{will have a chance to irradiate the player when landing hits, based on Combat Difficulty and player's stats. Which type do you wish to toggle?}
+{272}{}{tendrá una oportunidad para irradiar el jugador cuando aterrizaje hits, basado en el Combate de la Dificultad y del jugador de estadísticas. Qué tipo usted desea alternar?}
 {273}{}{Irradiated Rats}
 {274}{}{unos flotantes}
 {275}{}{Centaurs}
 {276}{}{Glowing Ghouls}
 {277}{}{Non-glowing Ghouls}
-{278}{}{Glowing Ghouls and Irradiated Rats only, with a max of 1 rad per hit (2077 field manual defaults)}
-{279}{}{Only glowing ghouls and irradiated rats will have a chance to irradiate the player when landing hits, with 1/6 chance of 1 rad per hit. Which type do you wish to toggle?}
-{280}{}{Number of times can upgrade Plasma Rifle and Power Armor?}
-{281}{}{Items received at start of game}
+{278}{}{Brillante, los Demonios y las Ratas Irradiadas, con un máximo de 1 rad por golpe (2077 manual de campo predeterminados)}
+{279}{}{Sólo brillante, los demonios y las ratas irradiadas tendrá una oportunidad para irradiar el jugador cuando aterrizaje de visitas, con 1/6 de probabilidad de 1 rad por golpe. Qué tipo usted desea alternar?}
+{280}{}{Número de veces que se puede actualizar Rifle de Plasma y el Poder de la Armadura?}
+{281}{}{Artículos recibidos al inicio del juego}
 {282}{}{Mrs Stapleton}
 {283}{}{Killian}
 {284}{}{Explosives ruin lockers}
 {285}{}{Armadura}
 {286}{}{Holodisks}
-{287}{}{Swap knockback/no-knockback on Sledgehammers}
-{288}{}{Settings for specific traders/merchants}
-{289}{}{Military Base red forcefields - who do they damage?}
+{287}{}{Intercambio de derribo/no-derribo en Mandarrias}
+{288}{}{Específicas de la configuración de los comerciantes/comerciantes}
+{289}{}{La Base militar de rojas campos de fuerza - que hacen daño?}
 {290}{}{Mr Handy in Military Base}
-{291}{}{Can hired NPCs level up at all?}
-{292}{}{How many player levels per NPC levelup?}
-{293}{}{Is levelup tracking relative or absolute?}
-{294}{}{After joining the player's team, can Ian/Tycho/Katja gain levels? (Currently they }
+{291}{}{Puede contratado Pnj de nivel a todos?}
+{292}{}{¿Cuántos niveles de jugadores por NPC levelup?}
+{293}{}{Es el aumento de nivel de seguimiento relativa o absoluta?}
+{294}{}{Después de unirse a los jugadores de su equipo, puede Ian/Tycho/Katja los niveles de ganancia? (Actualmente se }
 {295}{}{can.)}
-{296}{}{cannot.)}
-{297}{}{ Vanilla default: hired NPCs did not gain levels.}
+{296}{}{no puede.)}
+{297}{}{ Vainilla predeterminado: contrató a los NPCs no los niveles de ganancia.}
 {298}{}{[1]}
 {299}{}{[2]}
 {300}{}{[3]}
@@ -204,28 +204,28 @@
 {303}{}{[6]}
 {304}{}{[7]}
 {305}{}{[8]}
-{306}{}{How many player levels does it take to trigger a hireling levelup?. (Currently it takes }
-{307}{}{ player level for an NPC to gain one level.)  NPC Mod default: 4.}
-{308}{}{ player levels for an NPC to gain one level.)  NPC Mod default: 4.}
-{309}{}{When hirelings join your team, should they immediately levelup to be what they would if you'd gotten them at level 1?  (Currently they }
-{310}{}{do.)  NPC Mod default: Do not.}
-{311}{}{do not.)  NPC Mod default: Do not.}
+{306}{}{¿Cuántos niveles de jugadores se tarda para desencadenar un mercenario levelup?. (En la actualidad se lleva a }
+{307}{}{ el nivel de los jugadores para un NPC para ganar un nivel.) NPC Mod por defecto: 4.}
+{308}{}{ los niveles de jugadores para un NPC para ganar un nivel.) NPC Mod por defecto: 4.}
+{309}{}{Cuando los asalariados unirse a su equipo, en caso de que inmediatamente levelup a ser lo que haría si había conseguido en el nivel 1? (Actualmente se }
+{310}{}{hacer). NPC Mod por defecto: no.}
+{311}{}{no.) NPC Mod por defecto: no.}
 {312}{}{}
 {313}{}{}
 {314}{}{}
 {315}{}{}
 {316}{}{}
 {317}{}{}
-{318}{}{Number of Turbo Plasma Rifle upgrades allowed?}
-{319}{}{Number of Power Armor upgrades allowed?}
-{320}{}{Player will be able to upgrade this many Plasma Rifles: }
-{321}{}{Player will be able to upgrade this many Power Armors: }
-{322}{}{. Select a new value if desired.  (Vanilla default: 1)}
-{323}{}{To switch between standard and no-knockback version of sledgehammer items, choose an option below.}
-{324}{}{Remove knockback from all Super Sledges in player's inventory.}
-{325}{}{Remove knockback from all regular Sledgehammers in player's inventory.}
-{326}{}{Add knockback to all Super Sledges in player's inventory.}
-{327}{}{Add knockback to all regular Sledgehammers in player's inventory.}
+{318}{}{Número de Turbo Rifle de Plasma actualizaciones permitido?}
+{319}{}{Número de Armadura de Poder actualizaciones permitido?}
+{320}{}{El jugador será capaz de actualizar este muchos Rifles de Plasma: }
+{321}{}{El jugador será capaz de actualizar esto, muchos de Alimentación de Armaduras: }
+{322}{}{. Seleccione un nuevo valor si lo deseas. (Vainilla por defecto: 1)}
+{323}{}{Para cambiar entre el estándar y no-knockback versión de maza de elementos, seleccione una opción a continuación.}
+{324}{}{Quitar el derribo de todos los Super Trineos en el inventario del jugador.}
+{325}{}{Quitar el derribo de todas las Mandarrias en el inventario del jugador.}
+{326}{}{Agregar derribo a todos los Super Trineos en el inventario del jugador.}
+{327}{}{Añadir escudo para todos los Mandarrias en el inventario del jugador.}
 {328}{}{Processing... Done!  }
 {329}{}{}
 {330}{}{}

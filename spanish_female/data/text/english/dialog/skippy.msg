@@ -1,31 +1,31 @@
-{100}{}{You see Skippy.}
-{101}{}{You see a ganger.}
-{102}{}{He is tossing what looks like an exotic knife up in the air.}
-{103}{}{[more]}
+{100}{}{Ver Skippy.}
+{101}{}{Usted ve un ganger.}
+{102}{}{Él es tirar lo que parece una exótica cuchillo en el aire.}
+{103}{}{[más]}
 {104}{}{[Hecho]}
-{105}{}{[Tossing a set of blades near your face] Watch out, you clod. You might get hurt, and then I would have to laugh.}
-{106}{}{You watch it, those things look sharp.}
-{107}{}{Give those things to me before you hurt someone!}
+{105}{}{[Lanzando un juego de cuchillas cerca de su cara] cuidado, no se quien. Puedes hacerte daño, y entonces tendría que reír.}
+{106}{}{Usted lo mira, esas cosas se ven bien.}
+{107}{}{Dar estas cosas a mí antes de lastimar a alguien!}
 {108}{}{What are you tossing around, anyway?}
-{109}{}{They are sharp, indeed they are sharper than your wit.}
-{110}{}{Are you challenging me?}
-{111}{}{Ouch, but I suppose I deserved that.}
-{112}{}{Me? Challenge you? Oh, the very thought makes me chuckle. No, we Fools do not partake in the code duello. It is not our style. Let us show you how we treat outsiders.}
-{113}{}{Indeed, you did. What can I do for you?}
-{114}{}{What are those things?}
-{115}{}{What they are is mine, what they will not be is yours. Beyond that, these cutters are a heirloom from my poor departed father. You might say he got a little caught up in them before he died! [Skippy laughs.]}
-{116}{}{You're silly. Can I borrow them?}
-{117}{}{Well, since you asked nicely - okay. [He hands you the cutters.] Now, begone, for I must seek a new toy to pass the time.}
-{118}{}{I think not, at least not handle-first. You shall weep blood, or at least cry with laughter and pain when I am done with you.}
-{119}{}{We don't like your kind here. Leave or you'll get it in the end.}
-{120}{}{Well, if it isn't the latest Fool. A good sense of humor, at the very least. Perhaps some fine motor skills. We'll see. Play nice.}
-{121}{}{You are a lucky fellow, my friend. This day is the day I will let you live. Unless, of course, you annoy me too much. Then I will have to use my best corpse jokes.}
-{122}{}{Never steal from a Fool, fool.}
-{123}{}{You've already gotten the cutters from Skippy. Quit while you're ahead.}
-{124}{}{You manage to steal the cutters while he isn't watching.}
-{125}{}{You insult us, and our Queen's honor. Some insults can only be paid in blood.}
-{126}{}{You shall die scum!}
-{127}{}{Is that your face, or did your neck throw up?}
-{128}{}{You mother had to tie a steak around you to the dog would play with you}
-{129}{}{The only thing stupider than you is Rayze.}
-{130}{}{I guess afterbirth can live a little while.}
+{109}{}{Ellos son agudos, de hecho son más nítida que la de su ingenio.}
+{110}{}{Se que me reto?}
+{111}{}{Ouch, pero supongo que me lo merecía.}
+{112}{}{Me? Desafío? Oh, el mismo pensamiento me hace reír. No, nosotros los Tontos de no participar en el código de duello. No es nuestro estilo. Permítanos mostrarle cómo tratamos a los forasteros.}
+{113}{}{De hecho, lo hizo. ¿Qué puedo hacer por usted?}
+{114}{}{¿Qué son esas cosas?}
+{115}{}{Lo que son es mío, lo que no se es tuyo. Más allá de eso, estas fresas son una reliquia de mi pobre difunto padre. Usted puede decir que él tiene un poco atrapados en ellos antes de morir! [Skippy ríe].}
+{116}{}{Eres tonto. Puedo tomar prestado de ellos?}
+{117}{}{Bueno, ya que le preguntó muy bien - bien. [Él de manos a los cortadores.] Ahora, vete, porque tengo que buscar un nuevo juguete para pasar el tiempo.}
+{118}{}{Yo creo que no, al menos no de la manija-en primer lugar. Llorarás de la sangre, o, al menos, lloro de la risa y el dolor cuando he terminado con usted.}
+{119}{}{No nos gusta su clase aquí. Dejar o vas a estar en la final.}
+{120}{}{Bueno, si no es la última Tonto. Un buen sentido del humor, al menos. Tal vez algunas habilidades de motricidad fina. Vamos a ver. Jugar bonito.}
+{121}{}{Eres un afortunado, mi amigo. Este día es el día que le permitirá vivir. A menos que, por supuesto, usted me molestan demasiado. A continuación, voy a tener que usar mi mejor cadáver chistes.}
+{122}{}{Nunca robar a un Tonto, tonto.}
+{123}{}{Ya has conseguido el cortadores de Skippy. Dejar de fumar mientras está por delante.}
+{124}{}{Te las arreglas para robar las fresas, mientras que él no está mirando.}
+{125}{}{Usted nos insultan, y nuestra Reina de honor. Algunos insultos sólo puede ser pagado en sangre.}
+{126}{}{Usted morirá escoria!}
+{127}{}{Es que su cara, o que su cuello vomitar?}
+{128}{}{Que la madre tenía que atar un filete de carne a su alrededor para que el perro juegue con usted}
+{129}{}{La única cosa más estúpido de lo que es Rayze.}
+{130}{}{Supongo que la placenta puede vivir un poco de tiempo.}

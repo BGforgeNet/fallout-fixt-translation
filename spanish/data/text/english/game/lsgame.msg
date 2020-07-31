@@ -2,7 +2,7 @@
 {101}{}{ESCOGE UNA RANURA DE CARGA RAPIDA}
 {102}{}{GUARDAR PARTIDA}
 {103}{}{ESCOGE UNA RANURA DE GUARDADO RAPIDA}
-{104}{}{SELECT}
+{104}{}{SELECCIONE}
 {105}{}{CANCELAR}
 {106}{}{Error al cargar lista de partidas guardadas!}
 {107}{}{Directorio de partidas guardadas:}

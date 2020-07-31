@@ -32,7 +32,7 @@
 {131}{}{No, ¡pero he visto cosas increíbles!}
 {132}{}{Lo siento, aún no he podido averiguar dónde encontrarlo.}
 {133}{}{¡No!}
-{134}{}{Nah-ah.}
+{134}{}{Nuh-uh.}
 {135}{Over_20}{Bueno, sigue buscándolo. El tiempo se está agotando.}
 {136}{Over_21}{¡No tenemos tiempo para esto! Necesitamos el chip. Se nos acaba el tiempo. [Suspiro]}
 {137}{Over_22}{¿Hay algún problema, necesitas más equipo? ¿Hay algo que podamos hacer para ayudar?}
@@ -75,7 +75,7 @@
 {174}{Over_41a}{Oh, sí. Lo hiciste bien y estoy seguro de que tienes muchas cosas que contar.}
 {175}{Over_42}{Yo, eh, solo te quería decir que el suministro de agua se ha estabilizado. En realidad estamos rehaciendo nuestras reservas. Hiciste un gran trabajo... aunque, bueno, estoy un poco preocupado.}
 {176}{}{¿Preocupado por qué?}
-{177}{}{¿Eh?}
+{177}{}{¿Ehh?}
 {178}{Over_43}{No... no me gustaron tus informes. Es decir, lo que había escrito en tus informes. Je. De hecho me asustaron. Es sobre esos mutantes. He hecho algunos cálculos y, bueno, he llegado a una conclusión desagradable.}
 {179}{}{¿Qué es eso?}
 {180}{Over_44}{La población mutante es mucho mayor de lo que podría esperarse por el crecimiento natural o las mutaciones. Esto me lleva a pensar que... no lo entiendo del todo. Pero parece como si alguien estuviese generando nuevos mutantes. Y a un ritmo vertiginoso.}

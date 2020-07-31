@@ -1,8 +1,8 @@
 {100}{}{¿Qué quieres?}
-{101}{}{Déjame en paz.}
+{101}{}{Déjame tranquilo.}
 {102}{}{¿Qué?}
 {103}{}{No te metas en mis asuntos.}
-{104}{}{Ey.}
+{104}{}{Hola.}
 {105}{}{¡Arrrr!}
 {106}{}{¡Grrrrr!}
 {107}{}{Uungh.}

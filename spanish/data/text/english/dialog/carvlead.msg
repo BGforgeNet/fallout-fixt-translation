@@ -9,7 +9,7 @@
 {108}{}{¿Qué puedes contarme de la Hermandad del Acero?}
 {109}{}{No sé si entenderás esto, pero salimos en dos horas o en cuanto estés listo.}
 {110}{}{Um...}
-{111}{}{¿Eh?}
+{111}{}{¿Hunh?}
 {112}{}{Vale.}
 {113}{}{Tío, actualmente solo contratamos a imbéciles.}
 {114}{}{Normalmente salimos dos horas después de la llegada. No hay nada aquí que no hayamos visto antes, así que si quieres que salgamos más pronto, avísame cuando quieras.}

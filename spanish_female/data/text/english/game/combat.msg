@@ -99,7 +99,7 @@
 {420}{}{es golpeada al azar}
 {421}{}{se lisia un miembro al azar}
 {422}{}{acribillada con fragmentos}
-{506}{}{You}
+{506}{}{Usted}
 {509}{}{¡Ups! %Te han dado, ¡en vez de %s!}
 {511}{}{%sTe han dado críticamente (%s), pierdes %d puntos de salud}
 {512}{}{%sTe han dado (%s), pierdes %d puntos de salud}
@@ -117,7 +117,7 @@
 {528}{}{%s were critically hit but take no damage}
 {533}{}{%s falla críticamente, pierde 1 punto de salud}
 {534}{}{%s falla críticamente, pierde %d puntos de salud}
-{556}{}{You}
+{556}{}{Usted}
 {559}{}{¡Ups! %Te han dado, ¡en vez de %s!}
 {561}{}{%sTe han dado críticamente (%s), pierdes %d puntos de salud}
 {562}{}{%sTe han dado (%s), pierdes %d puntos de salud}
@@ -370,7 +370,7 @@
 {1587}{}{caparazón}
 {1588}{}{}
 {5000}{}{. El ataque la ha dejado fuera de combate}
-{5001}{}{. The strike causes immense pain}
+{5001}{}{. La huelga provoca un dolor inmenso}
 {5002}{}{ sin pararse siquiera ante la armadura}
 {5003}{}{. El ataque lo ha dejado sin conocimiento}
 {5004}{}{. El golpe le ha hecho caer al suelo}
@@ -408,7 +408,7 @@
 {5036}{}{. Es demasiado doloroso y cae al suelo hecho polvo}
 {5037}{}{. Murmura "Mamá", mientras se le quedan los ojos en blanco}
 {5100}{}{. El ataque la ha dejado fuera de combate}
-{5101}{}{. The strike causes immense pain}
+{5101}{}{. La huelga provoca un dolor inmenso}
 {5102}{}{ atravesando su armadura}
 {5103}{}{. El potente ataque la deja inconsciente}
 {5104}{}{. El sopapo hace que se caiga al suelo}

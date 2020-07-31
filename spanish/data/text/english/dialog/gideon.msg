@@ -74,7 +74,7 @@
 {301}{}{Pareces una humana hembra. Te está mirando los zapatos.}
 {302}{}{No hay mejor sitio que el hogar de uno, el hogar de uno, el hogar de uno... [Andando hacia adelante y hacia atrás]}
 {303}{}{¡Unm!}
-{304}{}{¡Déjalo!}
+{304}{}{¡Para eso!}
 {305}{}{¿Y este sitio? ¿No es ésta tu casa?}
 {306}{}{Estoy de acuerdo. Absolutamente. Tienes razón... [Hace una pequeña pausa.] ¿Qué has dicho? Oh, no importa.}
 {307}{}{(Ella te mira intensamente) ¡Pagarás por eso! Haré que te desangres. Espera un momento. Claro que haré que te desangres, aunque todavía no sé cómo. Mmm. Tengo que pensar en eso. ¡Vete!}

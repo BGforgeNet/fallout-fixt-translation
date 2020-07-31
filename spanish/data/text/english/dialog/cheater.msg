@@ -26,28 +26,28 @@
 {125}{}{3    No importa.}
 {126}{}{8    13 años}
 {127}{}{8    13 años}
-{128}{}{7  Give items (by type)}
-{129}{}{1  Testing Weapons & All Ammo}
+{128}{}{7 Dar elementos (por tipo)}
+{129}{}{1 Pruebas De Armas Y Munición}
 {130}{}{2  Drugs}
-{131}{}{3  Food (including new Fixt ones)}
-{132}{}{4  Keys (in inventory or in backpack)}
-{133}{}{5  900000 Bottle Caps (& Small Bag, Bag, Backpack)}
-{134}{}{6  Explosives & Throwing Weapons}
+{131}{}{3 Alimentos (incluidos los nuevos Fixt queridos)}
+{132}{}{4 Teclas (en el inventario o en la mochila)}
+{133}{}{5 900000 Tapas De Botella (Y Un Pequeño Bolso, Bolsa, Mochila)}
+{134}{}{6 Explosivos & Armas Arrojadizas}
 {135}{}{7  Books}
-{136}{}{8  Holodisks (& Radio)}
+{136}{}{8 Holodisks (& Radio)}
 {137}{}{9  Armor}
-{138}{}{Each of these selections, including Ammo, except "Testing Weapons", gives ALL items from that category.}
-{139}{}{1  Yes, and delete current inventory first.}
+{138}{}{Cada una de estas selecciones, incluyendo Munición, excepto "las Pruebas de Armas", le da TODOS los elementos de esa categoría.}
+{139}{}{1 Sí, y eliminar el inventario actual en primer lugar.}
 {140}{}{2  Yes.}
 {141}{}{3  No. [back]}
-{142}{}{Give Testing Weapons & All Ammo?}
-{143}{}{Give All Drugs?}
-{144}{}{Give All Food (including new Fixt ones)?}
-{145}{}{Give All Keys (in inventory or in backpack)?}
-{146}{}{Give 900000 Bottle Caps (& Small Bag, Bag, Backpack)?}
-{147}{}{Give All Explosives & All Throwing Weapons?}
-{148}{}{Give All Books?}
-{149}{}{Give All Holodisks (& Radio)?}
+{142}{}{Dar Pruebas De Armas Y Toda La Munición?}
+{143}{}{Dar A Todos Los Medicamentos?}
+{144}{}{Dar a Todos los Alimentos (incluidos los nuevos Fixt queridos)?}
+{145}{}{Dar Todas las Claves (en el inventario o en la mochila)?}
+{146}{}{Dar 900000 Tapas De Botella (Y Un Pequeño Bolso, Bolsa, Mochila)?}
+{147}{}{Dar A Todos Los Explosivos Y Armas Arrojadizas?}
+{148}{}{Dar A Todos Los Libros?}
+{149}{}{Dar A Todos Los Holodisks (Y Radio)?}
 {150}{}{Give All Armor?}
 {200}{}{¿Qué Trucos puedo hacer por ti hoy?}
 {201}{}{1  Puntos de Experiencia.}
@@ -74,7 +74,7 @@
 {225}{}{3    Romper brazo izquierda}
 {226}{}{4    Romper brazo derecho}
 {227}{}{5    Dame ceguera }
-{228}{}{8    Fully heal, remove all poison, remove ALL rads.}
+{228}{}{8 sanar por completo, retire todo el veneno, quitar TODOS los rads.}
 {229}{}{TEST ROLLS (mmm, rolls)}
 {230}{}{Hecho.}
 {231}{}{mensaje aquí}
@@ -111,7 +111,7 @@
 {262}{}{¿Vale, que mapa?}
 {263}{}{5  Modificar tiempo del juego (adelantar o atrasar)}
 {264}{}{6  Dame los objetos de trucos debug (muchos)}
-{265}{}{Yes. (Also deletes all existing inventory & equipped)}
+{265}{}{Sí. (También se elimina todo el inventario existente y están equipadas)}
 {266}{}{¿Vale, adelantar o atrasar?}
 {267}{}{¿Estás seguro?}
 {268}{}{No. [volver]}

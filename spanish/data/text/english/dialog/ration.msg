@@ -12,7 +12,7 @@
 {111}{}{Ves: a Susan.}
 {112}{}{Hola, }
 {113}{}{. ¿Ya has encontrado el Chip de Agua?}
-{114}{}{No, todavía no.}
+{114}{}{No, aún no.}
 {115}{}{Lo encontraré. ¿Cómo te va?}
 {116}{}{¡Ahh!}
 {117}{}{Oh... no me entiendes. Supongo que después de todo no nos quedan muchas esperanzas. Perdóname si lloro.}

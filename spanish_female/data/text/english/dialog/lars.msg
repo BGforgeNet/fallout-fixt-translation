@@ -71,7 +71,7 @@
 {170}{}{No nos gustan las tipas como tú. Tienes quince segundos antes de que te vuele la tapa de los sesos.}
 {171}{}{¡Hola otra vez! ¿Qué puedo hacer por ti?}
 {172}{}{Ajá.}
-{173}{}{Nah-ah.}
+{173}{}{Nuh-uh.}
 {174}{}{Ganas 500 puntos de experiencia por participar en la destrucción de la banda de los Kalaveras.}
 {1000}{}{Gizmo}
 {1100}{}{Lleva el Casino. Es un ladrón.}

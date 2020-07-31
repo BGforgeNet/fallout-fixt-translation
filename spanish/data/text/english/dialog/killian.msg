@@ -9,7 +9,7 @@
 {108}{}{¿Na-ah?}
 {109}{Kill0a}{¿Quieres comprar algo, amigo?}
 {110}{}{Ajá.}
-{111}{}{Nah-ah.}
+{111}{}{Nuh-uh.}
 {112}{Kill1m}{Bienvenido a Ciudad Vertedero, forastero. ¿En qué puedo ayudarte?}
 {113}{Kill1f}{Hola, cariño. ¿Qué puedo ofrecerte?}
 {114}{Kill1b}{¿Qué quieres?}
@@ -204,7 +204,7 @@
 {1014}{}{Eje}
 {1015}{}{Arenas}
 {1016}{}{Necrópolis}
-{1017}{}{Saqueadores}
+{1017}{}{Raiders}
 {1018}{}{Guerra}
 {1019}{}{Raras}
 {1020}{}{Darkwater}

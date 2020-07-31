@@ -77,9 +77,9 @@ Transfiriendo 6.759.015 bytes al dispositivo de respaldo........................
 {155}{}{Ganas 25 puntos de experiencia por jugar a la Demo Interactiva de Fallout.}
 {156}{}{You earn 42 experience for playing Fallout Fixt.}
 {157}{}{Congratulations, you have achieved all possible endings of the Fallout Interactive Demo!}
-{158}{}{Congratulations, you have achieved all possible endings of Fallout: A Post-Nuclear Role-Playing Game!}
-{159}{}{Wow, this is amazing! Even better than the original game.}
-{160}{}{You play Fallout Fixt. Whoever created this must have been very talented.}
+{158}{}{Felicidades, has conseguido todas las posibles terminaciones de la Precipitación: Un Post-Nuclear, Juego de Rol!}
+{159}{}{Wow, esto es increíble! Incluso mejor que el juego original.}
+{160}{}{Usted jugar a Fallout Fixt. Quien crea esto debe haber sido muy talentosos.}
 {400}{}{Con el generador roto, hay pocas razones por las que las bandas luchen por el Desguace. La gente del Desguace llevará una vida más pobre; pero sin las bandas, al menos tendrán una vida. Tu trabajo aquí ha terminado, pero tu misión para encontrar el chip de purificación de agua continúa.}
 {401}{}{Tras una larga y sangrienta batalla, prevaleces. Con las bandas derrotadas, el Desguace es ahora un lugar seguro. La gente del pueblo está agradecida; te dan algo de información valiosa, y tu misión en el Desguace ha terminado. Sin embargo, la misión para encontrar el chip de purificación de agua continúa.}
 {500}{}{After stopping the Master and his lab with which he was creating his army of Super Mutants, you return home, only to discover that you are thrown out of your Vault for being too destructive. Thank you for playing Fallout.}

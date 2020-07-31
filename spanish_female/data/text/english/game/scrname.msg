@@ -705,7 +705,7 @@
 {805}{}{una máquina tragaperras}
 {806}{}{Borracho}
 {807}{}{Jugador}
-{808}{}{Prostitute}
+{808}{}{Prostituta}
 {809}{}{John}
 {810}{}{Croupier}
 {811}{}{Supermutante rezando}
@@ -760,7 +760,7 @@
 {860}{}{Paladín de la Hermandad}
 {861}{}{Caravan Guard}
 {862}{}{}
-{863}{}{Marauder}
+{863}{}{Merodeador}
 {864}{}{Mercancías en venta}
 {865}{}{Caravana viajando}
 {866}{}{Cosas dichas normalmente}
@@ -967,7 +967,7 @@
 {1067}{}{}
 {1068}{}{}
 {1069}{}{}
-{1070}{}{Prostitute}
+{1070}{}{Prostituta}
 {1071}{}{}
 {1072}{}{Campo de Fuerza Estropeado}
 {1073}{}{Saqueador}

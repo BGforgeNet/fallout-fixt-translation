@@ -95,7 +95,7 @@
 {503}{}{tener heridas}
 {504}{}{gozar de buena salud}
 {510}{}{Mod. de CA: %d}
-{511}{}{Mod. de RD: %d}
+{511}{}{RD Mod: %d}
 {512}{}{Mod. de daño: %d/%d}
 {518}{}{Pareces %s }
 {519}{}{%s %s }

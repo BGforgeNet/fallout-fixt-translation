@@ -26,4 +26,4 @@
 {125}{}{Appreciate the info!}
 {126}{}{I really hate this stupid dog.}
 {127}{}{Thanks for your help, stranger.}
-{128}{}{Wow, okay. See you around I guess. Asshole.}
+{128}{}{Wow, está bien. Ver todo supongo. Culo.}

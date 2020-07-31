@@ -141,9 +141,9 @@
 {206}{}{Wasteland}
 {207}{}{Wasteland}
 {208}{}{Wasteland}
-{209}{}{Sewers under Hall}
+{209}{}{Alcantarillas bajo Hall}
 {210}{}{Sala de los Difuntos}
-{211}{}{Sewers under Hall}
+{211}{}{Alcantarillas bajo Hall}
 {212}{}{Sewers under Hotel}
 {213}{}{Hotel de la perdición}
 {214}{}{Sewers under Hotel}
@@ -152,13 +152,13 @@
 {217}{}{Sewers under Watershed}
 {218}{}{Entrance, Medical}
 {219}{}{Aposentos}
-{220}{}{Library, Supplies, Command}
+{220}{}{Biblioteca, Suministros, Comando}
 {221}{}{Old Shack}
 {222}{}{Cavern Entrance}
 {223}{}{Cavern Entrance}
 {224}{}{Aposentos}
-{225}{}{Library, Supplies, Command}
-{226}{}{Library, Supplies, Command}
+{225}{}{Biblioteca, Suministros, Comando}
+{226}{}{Biblioteca, Suministros, Comando}
 {227}{}{Level 1 (Sewer Entrance)}
 {228}{}{Level 2 (Living Quarters)}
 {229}{}{Level 3 (Command Center)}

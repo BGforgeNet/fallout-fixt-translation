@@ -11,7 +11,7 @@
 {110}{}{31914-1041-1251514.}
 {111}{}{53478-2565-7763929.}
 {112}{}{44309-3674-1254730.}
-{113}{}{Display security code encryption table. [Attempt to hack through the firewall to get more data]}
+{113}{}{Pantalla de seguridad de cifrado del código de la tabla. [Intento de hack a través del firewall para obtener más información]}
 {114}{}{\> Ejecutando 17652-1028-1285362 ...}
 {115}{}{\> Ejecutando 67209-5574-7805564 ...}
 {116}{}{\> Ejecutando 55658-8678-1251533 ...}
@@ -108,6 +108,6 @@
 {402}{}{[31415-9265-3589793]     Self-destruct in 10 minutes.}
 {403}{}{\> Executing 31415-9265-3589793 ...}
 {404}{}{41515-2114-0141913.}
-{405}{}{Display security code encryption table. [Insert the Lieutenant's decoder disk]}
+{405}{}{Pantalla de seguridad de cifrado del código de la tabla. [Inserte el Teniente del decodificador de disco]}
 {406}{}{Display unencrypted security codes.}
 {407}{}{> Clearance authorized. Command?}

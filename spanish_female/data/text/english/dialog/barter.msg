@@ -10,5 +10,5 @@
 {109}{}{Por favor ayúdanos tan pronto como sea posible. El tiempo apremia.}
 {110}{}{No hablo con los de tu clase, forastero.}
 {111}{}{Gracias por destruir a los escorpiones rad, forastero.}
-{112}{}{Ves a un mercader.}
+{112}{}{Ves a una comerciante.}
 {113}{}{No hablaré contigo a no ser que enfundes tus armas, forastero.}

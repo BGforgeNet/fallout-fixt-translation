@@ -74,16 +74,16 @@
 {173}{}{Aquí está el resto de tu recompensa. Gracias otra vez por tu ayuda. Esta ciudad te debe gratitud. [El Sheriff te da 1.000 chapas]}
 {174}{}{Puedes irte en cuanto estés preparado.}
 {175}{}{Dime cuando estés listo. Te esperaremos, pero no tardes mucho.}
-{180}{}{Iguana Bob is using meat from human corpses for his Prime Choice Select cuts.}
-{181}{}{You're kidding! Are you sure? Hmmm... Let me look into this and i'll get back to you.}
+{180}{}{Iguana Bob es el uso de la carne de cadáveres humanos para su primera Opción Seleccionar los cortes.}
+{181}{}{Estás bromeando! Estás seguro? Hmmm... déjame mirar en esto y voy a volver a usted.}
 {182}{}{Vale.}
-{183}{}{Well, your story checks out. Damn. Bob always seemed a little "off" but I'd never have suspected he was selling human flesh to us. I was having one or two of those for lunch every day!}
-{184}{}{I know. It's a shame, considering how delicious they are.}
-{185}{}{Prime Choice Select is made of people!!!! It's made of people!!!}
-{186}{}{Right. Okay, we'll take care of this. Thanks for your report.}
-{187}{}{Great, i'm just happy to know he'll receive due justice. Bye!}
-{188}{}{What, no finder's fee?}
-{189}{}{Sure, any time.}
-{190}{}{Damn fool, I knew you were gonna say that! Here, take your reward and get out. [Greene hands you 250 caps]}
-{191}{}{Whatever, bye.}
-{192}{}{Thank you. Have a nice day!}
+{183}{}{Así, su historia comprueba. Maldita sea. Bob siempre me pareció un poco "off", pero nunca iba a tener la sospecha de que él era la venta de carne humana para nosotros. Yo estaba teniendo uno o dos de esos para el almuerzo todos los días!}
+{184}{}{Yo sé. Es una lástima, teniendo en cuenta lo deliciosos que son.}
+{185}{}{¡¡¡¡El plato del día está hecho con personas!!!! ¡¡¡¡Está hecho con personas!!!}
+{186}{}{A la derecha. Bueno, nosotros nos encargaremos de esto. Gracias por su informe.}
+{187}{}{Genial, yo estoy feliz de saber que voy a recibir la debida justicia. Bye!}
+{188}{}{Lo que, sin comisión de intermediario?}
+{189}{}{Seguro, en cualquier momento.}
+{190}{}{Maldito tonto, yo sabía que ibas a decir eso! Aquí, tome su recompensa y salir. [Greene manos a 250 caps]}
+{191}{}{Da igual, adiós.}
+{192}{}{Gracias. Tenga un buen día!}

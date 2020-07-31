@@ -10,7 +10,7 @@
 {109}{}{Nos vemos.}
 {110}{}{Tómatelo con calma.}
 {111}{}{Ha sido divertido.}
-{112}{}{Aquí tienes.}
+{112}{}{Aquí están.}
 {113}{}{¿Algo más?}
 {114}{}{Sí.}
 {115}{}{No.}
@@ -92,7 +92,7 @@
 {191}{}{Tycho es ahora de nivel }
 {192}{}{Ian es ahora de nivel }
 {193}{}{Katja es ahora de nivel }
-{194}{}{Fren move! [You scowl and stamp your feet]}
+{194}{}{Fren mover! [Usted ceño fruncido y el sello de sus pies]}
 {195}{}{Go, go, no need fren.}
 {196}{}{We be fren?}
 {197}{}{}
@@ -165,17 +165,17 @@
 {430}{}{Legendary Paragon.}
 {431}{}{Supreme Paragon.}
 {432}{}{Striding Commander.}
-{433}{}{Pip-Boy displays: "FixtOS v}
+{433}{}{Pip-Boy muestra: "FixtOS v}
 {434}{}{0.9.0 }
-{435}{}{active}
-{436}{}{. Simulation began on FixtOS v}
-{437}{}{. Upgraded from FixtOS v}
+{435}{}{activo}
+{436}{}{. La simulación comenzó en FixtOS v}
+{437}{}{. Actualizado desde FixtOS v}
 {438}{}{0.}
 {439}{}{.}
-{440}{}{alpha}
+{440}{}{alfa}
 {441}{}{beta}
 {442}{}{"}
-{443}{}{. Simulation began on FixtOS v0.5.3 or older.}
+{443}{}{. La simulación comenzó en FixtOS v0.5.3 o más.}
 {444}{}{}
 {445}{}{}
 {446}{}{}
@@ -197,21 +197,21 @@
 {537}{}{Striding Exemplar.}
 {538}{}{Exemplar of The Wastes.}
 {539}{}{Elite Exemplar.}
-{540}{}{Legendary Exemplar.}
-{541}{}{Supreme Exemplar.}
+{540}{}{El Legendario Modelo.}
+{541}{}{Supremo Ejemplar.}
 {542}{}{Mythical Wanderer.}
 {543}{}{Mythical Strider.}
 {544}{}{Mythical Elite.}
 {545}{}{Mythical Paragon.}
 {546}{}{Mythical Commander.}
-{547}{}{Mythical Exemplar.}
+{547}{}{Mítico Ejemplar.}
 {548}{}{Mythical Hero.}
-{549}{}{Supreme Jerk.}
+{549}{}{Supremo Tirón.}
 {550}{}{You see: }
 {551}{}{, the }
 {552}{}{, the }
-{553}{}{, a }
-{554}{}{, a }
+{553}{}{, un }
+{554}{}{, un }
 {601}{}{No deberías estar aquí, Iniciada.}
 {602}{}{¿Qué estás haciendo aquí?}
 {603}{}{Por favor, vete. No deberías estar aquí.}
@@ -249,6 +249,6 @@
 {1160}{}{ points.}
 {1161}{}{ point.}
 {1170}{}{Your attempt to wield a human weapon has failed; the weapon is destroyed.}
-{1171}{}{Your large hands are too clumsy to wield the human weapon, and it falls to your feet.}
+{1171}{}{Sus grandes manos son demasiado torpes para empuñar el arma humana, y cae a sus pies.}
 {1180}{}{You have killed a large number of innocent people. You're now a Berserker! This generally isn't a good thing to be known for, and you are clearly a very bad person.}
 {1181}{}{You are no longer a Berserker.}

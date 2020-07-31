@@ -1,11 +1,11 @@
 {0}{}{PREFERENCIAS}
 {1}{}{DISPLAY OPTIONS}
 {3}{}{SETTINGS}
-{50}{}{DISPLAY OPTIONS (F1-RES)}
+{50}{}{OPCIONES de VISUALIZACIÓN (F1-RES)}
 {51}{}{Personalizado}
 {52}{}{Ancho}
 {53}{}{Alto}
-{54}{}{APPLY}
+{54}{}{APLICAR}
 {55}{}{Cancelar}
 {56}{}{Fallout debe reiniciarse para poder aplicar la configuración.}
 {57}{}{¿Te gustaría reiniciar Fallout ahora?}

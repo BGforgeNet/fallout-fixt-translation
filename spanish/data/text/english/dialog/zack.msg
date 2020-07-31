@@ -5,7 +5,7 @@
 {104}{}{Vale.}
 {105}{}{¿Puedes hacerme un descuento?}
 {106}{}{¿Quieres comprar armas? Déjame ver lo que llevas.}
-{107}{}{Siento molestarte.}
+{107}{}{Perdona que te moleste.}
 {108}{}{Me gusta hacer negocios contigo.}
 {109}{}{}
 {110}{}{Vale. Vuelve si necesitas algo.}

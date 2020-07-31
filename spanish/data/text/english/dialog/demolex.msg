@@ -1,53 +1,53 @@
-{100}{}{You see Lex.}
-{101}{}{You see a loser.}
+{100}{}{Ver Lex.}
+{101}{}{Usted ve un perdedor.}
 {102}{}{[Más]}
 {103}{}{[Hecho]}
-{104}{}{[Lex whispers.] Best be careful. Rock doesn't always tell the truth.}
+{104}{}{[Lex susurros.] Mejor tener cuidado. El Rock no siempre dice la verdad.}
 {105}{}{¿Por qué dices eso?}
-{106}{}{Why should I trust you?}
-{107}{}{Rock is a member of the Crypts, a gang. He tries to get strangers, like yourself, into trouble. If you listen to him, you could find yourself dead and buried.}
+{106}{}{¿Por qué debería confiar en ti?}
+{107}{}{El Rock es un miembro de las Criptas, una pandilla. Él trata de llegar a los extraños, como tú, en problemas. Si usted escucha a él, usted podría encontrarse muerto y enterrado.}
 {108}{}{¿Quién eres?}
-{109}{}{Thanks for the info. Have a good day.}
-{110}{}{I'm Lex. Scrapheap is my home, and I guess I speak for her people.}
-{111}{}{Anyone else I should know about?}
-{112}{}{Well, there are also the Fools. They would control Scrapheap, if the Crypts were gone. The two gangs fight over who controls this place. Currently, the Crypts are on top. Now that you are here, things could change.}
-{113}{}{What makes you say that?}
-{114}{}{If you could get rid of the gangs, we would be grateful. We don't have the numbers or the strength to drive them off, and few people care about this place. If you care, then we might be able to help you.}
+{109}{}{Gracias por la info. Que tengan un buen día.}
+{110}{}{Estoy Lex. Chatarra es mi casa, y supongo que hablo en nombre de su pueblo.}
+{111}{}{Nadie más que yo debería saber?}
+{112}{}{Bueno, también están los Tontos. Se controla sin perspectivas de futuro, si las Criptas se habían ido. Las dos bandas se pelean por quién controla este lugar. En la actualidad, las Criptas están en la parte superior. Ahora que usted está aquí, las cosas podrían cambiar.}
+{113}{}{¿Qué te lleva a decir eso?}
+{114}{}{Si usted podría deshacerse de las pandillas, le estaría agradecido. No tenemos los números o la fuerza para ahuyentarlos, y pocas personas se preocupan por este lugar. Si lo que te interesa, entonces podríamos ser capaces de ayudarle.}
 {115}{}{¿Qué quieres decir?}
-{116}{}{I've heard of you. You want to find the lost city of Necropolis. A grateful people could provide information on where to go.}
+{116}{}{He oído hablar de usted. Usted quiere encontrar la ciudad perdida de la Necrópolis. Un agradecido a la gente que puede proporcionar información sobre a dónde ir.}
 {117}{}{Lo tendré en cuenta.}
-{118}{}{We could ask for nothing more.}
+{118}{}{Podemos pedir nada más.}
 {119}{}{Adiós.}
-{120}{}{I have some questions.}
-{121}{}{Why should you not? I have the best interests of my people at heart, and I would like to see you come to no harm.}
+{120}{}{Tengo algunas preguntas.}
+{121}{}{¿Por qué no? Tengo los mejores intereses de mi pueblo en el corazón, y me gustaría ver que venir ningún daño.}
 {122}{}{¿Qué quieres decir?}
-{123}{}{There are forces at work here in Scrapheap that would like to use you, and if that is not possible, to see you dead and buried. Choose your friends wisely, and your enemies with even more care. Good day.}
-{124}{}{Yeah, good day.}
-{125}{}{We thank you for getting rid of the Crypts and the Fools. Without the power generator, my people will have a poor life. Do you think you could fix it?}
-{126}{}{Of course.}
-{127}{}{Fix it yourself. I want my reward.}
+{123}{}{Hay fuerzas en el trabajo aquí en el Cementerio que le gustaría usar, y si eso no es posible, a ver muertos y enterrados. Elige a tus amigos sabiamente, y a tus enemigos aún más la atención. Buen día.}
+{124}{}{Sí, buen día.}
+{125}{}{Agradecemos a usted para deshacerse de las Criptas y los Tontos. Sin el generador de corriente, mi gente tiene una mala vida. ¿Crees que podría solucionarlo?}
+{126}{}{Por supuesto.}
+{127}{}{Solucionar el problema usted mismo. Quiero mi recompensa.}
 {128}{}{Gracias.}
-{129}{}{Very well, you shall have it. You have cast my people into a cold night and then abandoned us to the wolves - but I understand that your quest is more important.}
-{130}{}{The violence you have started may lead straight back to my people. Please finish it.}
-{131}{}{Just like you cowards to lay the task of death on the shoulders of others.}
-{132}{}{Working on it.}
-{133}{}{If you need help, I will provide it, but don't ask my people. They are too tired of death and pain. I will join you, if that is what you wish.}
-{134}{}{Yes, follow me, and attack when I do.}
-{135}{}{No. I'm just making a social comment.}
-{136}{}{Just as I suspected, you don't care about anything except your own needs. Join our enemies, bring fear to my people, and betray your own background.}
-{137}{}{I'm going to kill you for saying that.}
-{138}{}{It's a plan. I'm infiltrating this gang.}
+{129}{}{Muy bien, usted se tiene. Te han echado de mi pueblo en una noche fría y, a continuación, nos abandonó a los lobos -, pero entiendo que tu búsqueda es más importante.}
+{130}{}{La violencia ha iniciado puede conducir de vuelta a mi pueblo. Por favor, termine.}
+{131}{}{Como cobardes, para sentar las tareas de muerte en los hombros de otros.}
+{132}{}{Trabajando en ello.}
+{133}{}{Si usted necesita ayuda, voy a ofrecer, pero no lo pido a mi gente. Que están demasiado cansados de la muerte y el dolor. Me uniré a usted, si eso es lo que deseas.}
+{134}{}{Sí, que me siga, y atacar cuando lo hago.}
+{135}{}{No. Sólo estoy haciendo un comentario social.}
+{136}{}{Así como yo sospechaba, no le importa nada excepto sus propias necesidades. Únete a nuestros enemigos, llevar el miedo a mi pueblo, y traicionar a su propio fondo.}
+{137}{}{Me voy a matar por decir eso.}
+{138}{}{Es un plan. Yo soy de la infiltración de esta pandilla.}
 {139}{}{¡Cállate!}
-{140}{}{I thought you would, you worm.}
-{141}{}{Perhaps, but actions speak louder than words.}
-{142}{}{You'll see.}
+{140}{}{Pensé que haría, usted gusano.}
+{141}{}{Tal vez, pero las acciones hablan más fuerte que las palabras.}
+{142}{}{Usted va a ver.}
 {143}{}{¿En qué te puedo ayudar?}
-{144}{}{Tell me about the power generator.}
-{145}{}{Tell me about the Crypts.}
-{146}{}{Tell me about the Fools.}
-{147}{}{Tell me about Scrapheap.}
+{144}{}{Cuéntame sobre el generador de energía.}
+{145}{}{Háblame de las Criptas.}
+{146}{}{Me dicen acerca de los Necios.}
+{147}{}{Háblame de Chatarra.}
 {148}{}{Nada más, gracias.}
-{149}{}{Scrapheap is our town. It was our home. And it will be again, hopefully.}
-{150}{}{The power generator supplies all the electicity in town. Without it, we would surely die. It is the most important thing in town. Whoever controls it, controls Scrapheap.}
-{151}{}{The Crypts are a gang run by Rayze. He's an animal and has one of the largest guns I've ever seen. He lets Lenny live, cuz he takes care of the brahmin, which provide fuel for the generator. The Crypts are in the big house.}
-{152}{}{Baka leads the Fools. If she had any more men, she'd surely attack the Crypts and try to take back the power generator. You can tell the Crypts from the Fools by their armor. Fools wear metal, Crypts leather.}
+{149}{}{Sin perspectivas de futuro es nuestro pueblo. Era nuestro hogar. Y será de nuevo, espero que.}
+{150}{}{El poder generador suministra todos los electicity en la ciudad. Sin él, seguramente moriría. Es la cosa más importante en la ciudad. Quien controla los controles de Chatarra.}
+{151}{}{Las Criptas son una pandilla de ejecución por Rayze. Él es un animal y tiene una de las armas más grandes que he visto nunca. Él permite a Lenny en vivo, porque él tiene cuidado de que el brahmán, que proporcionan el combustible para el generador. Las Criptas son en la gran casa.}
+{152}{}{Baka conduce a los Tontos. Si tenía más hombres, ella seguramente ataque de las Criptas y tratar de tomar de nuevo el poder generador. Usted puede decirle a las Criptas de los Tontos por su armadura. Los tontos de desgaste de metal, Criptas de cuero.}

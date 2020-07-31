@@ -56,7 +56,7 @@
 {155}{}{¿Me puedes repetir dónde se supone que puedo encontrarlas?}
 {156}{}{Bien, entonces buena suerte.}
 {157}{}{Has vuelto. ¿Tienes las piezas necesarias para reparar la bomba de agua?}
-{158}{}{Sí, aquí las tienes.}
+{158}{}{Si, aquí están.}
 {159}{}{Sí, pero he decidido olvidar lo de arreglar la bomba de agua.}
 {160}{}{Bien, parece que necesitarás ayuda con las piezas. Aquí hay algunos libros que hemos encontrado por ahí tirados. Puede que te ayuden. Ahora, por favor, llévate las piezas al Almacén de Agua y repara la Bomba.}
 {161}{}{Desgraciadamente no podré ayudarte más. Buena suerte con la bomba de agua. Por favor, lleva las piezas al Almacén de Agua y repara la Bomba.}

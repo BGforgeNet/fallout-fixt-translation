@@ -12,7 +12,7 @@
 {111}{}{Me gustaría tener un poco de intimidad.}
 {112}{}{Hola, me alegro de verte.}
 {113}{}{Hola.}
-{200}{}{Ey.}
+{200}{}{Hola.}
 {201}{}{Hola.}
 {202}{}{Buenos días.}
 {203}{}{¿Sí?}
@@ -22,7 +22,7 @@
 {207}{}{¿Quieres algo?}
 {209}{}{Vete.}
 {210}{}{Deja de molestarme.}
-{211}{}{Déjame en paz.}
+{211}{}{Déjame tranquilo.}
 {212}{}{Estás empezando a enfadarme.}
 {213}{}{Él te ignora.}
 {214}{}{Ella te ignora.}

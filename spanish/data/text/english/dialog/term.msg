@@ -7,11 +7,11 @@
 {202}{}{You find an interesting data file on a secret base to the northwest, and download the coordinates into your Pip-Boy.}
 {203}{}{Ganas }
 {204}{}{ experience for hacking into the computer!}
-{205}{}{You discover some new information about Mariposa Military Base which you didn't known yet.}
+{205}{}{Descubre nueva información acerca de Mariposa Base Militar de la que no se conocen todavía.}
 {206}{}{Ganas }
 {207}{}{ experience for hacking into the computer!}
 {208}{}{Ganas }
 {209}{}{ experience for your detective work}
-{210}{}{, but ultimately you don't find any new intel while searching this terminal.}
+{210}{}{, pero en última instancia no hay ninguna nueva de intel, mientras que la búsqueda de este terminal.}
 {211}{}{You've learned all you can from the system.}
 {300}{}{Este ordenador funciona perfectamente.}

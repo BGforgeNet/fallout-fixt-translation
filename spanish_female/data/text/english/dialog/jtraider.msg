@@ -65,7 +65,7 @@
 {164}{}{Te puedes marchar sin problemas.}
 {165}{}{Quiero mis chapas. Quiero 200 chapas.}
 {166}{}{No tengo bastantes chapas.}
-{167}{}{Aquí tienes.}
+{167}{}{Aquí están.}
 {168}{}{Creo que eres una mentirosa y una tramposa.}
 {169}{}{El sentimiento es mutuo. Deja que la chica se vaya.}
 {170}{}{hombre}

@@ -19,7 +19,7 @@
 {981}{}{No zé. Pregúntale a mi mamá.}
 {982}{}{Pregúntale a mi papá.}
 {1000}{}{Garra Mortal}
-{1001}{}{Saqueadores}
+{1001}{}{Raiders}
 {1002}{}{Ciudad Vertedero}
 {1003}{}{Brahmines}
 {1004}{}{Chip}

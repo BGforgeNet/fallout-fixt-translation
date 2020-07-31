@@ -30,7 +30,7 @@
 {129}{}{¿Estás mal de la cabeza? ¡Le disparé tres veces con mi Desert Eagle y ni siquiera pestañeó!}
 {130}{}{I don't care if it's a mutant, an alien, or a demon from hell, I never want to see another one of those things as long as I live!}
 {131}{}{¡Solo soy un guardia, corcho! ¡No me culpes a mí! ¡Y pagan bien! ¡No tengo ningún problema con ellos!}
-{132}{}{¿En qué puedo ayudarte?}
+{132}{}{¿Cómo puedo ayudarte?}
 {133}{}{Las Garras Mortales las tienen. Creía que eran cuentos, pero... no te imaginas lo grandes que son, y lo rápidas. Primero las olimos, luego aparecieron y nos atacaron. Todos echamos a correr. No sé cómo conseguí escapar.}
 {134}{}{Trent, Trent Barrister. Vivo en el Eje. Últimamente no hay mucho trabajo y soy bastante bueno disparando, así que me puse a trabajar como guardia para los Mercaderes de Agua. Buen sueldo, bajo riesgo... o por lo menos eso creía.}
 {135}{}{No tengo ni idea. ¿Eso es vieja tecnología, no? Supongo que los carroñeros pueden encontrar uno, pero yo no sabría por dónde empezar a buscar. Nadie los usa ya... ¿o sí?}

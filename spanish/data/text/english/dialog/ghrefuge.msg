@@ -2,7 +2,7 @@
 {101}{}{Por favor, no me mates.}
 {102}{}{Cállate y puede que te deje vivir.}
 {103}{}{No te preocupes, no mereces la pena.}
-{104}{}{¿Qué ha pasado aquí?}
+{104}{}{¿Qué pasó aquí?}
 {105}{}{Gah.}
 {106}{}{Tú... ¡me vas a matar de todas maneras!}
 {107}{}{Ah, oh. Vale.}
@@ -39,7 +39,7 @@
 {138}{}{Eh, entonces, ¿por qué preguntaste sobre eso?}
 {139}{}{¡Eso es! ¡Bastante insolente!}
 {140}{}{Solo quería saber. Eso es todo.}
-{141}{}{You again? What do you want now?}
+{141}{}{Usted de nuevo? Qué quieres ahora?}
 {142}{}{¿Más noticias?}
 {143}{}{Solo charlaba.}
 {144}{}{No. Bueno, me he enterado de que llegan más Supermutantes. No sé cuándo.}

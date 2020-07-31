@@ -74,7 +74,7 @@
 {301}{}{Pareces una humana hembra. Te está mirando los zapatos.}
 {302}{}{No hay mejor sitio que el hogar de uno, el hogar de uno, el hogar de uno... [Andando hacia adelante y hacia atrás]}
 {303}{}{¡Unm!}
-{304}{}{¡Déjalo!}
+{304}{}{¡Para eso!}
 {305}{}{¿Y este sitio? ¿No es ésta tu casa?}
 {306}{}{De acuerdo. Completa y absolutamente. Tienes razón... [Se para un rato] ¿Qué has dicho? Oh, no importa.}
 {307}{}{[Mirándote intensamente] ¡Te aniquilaré por eso! Haré que mane roja tu sangre. Espérate un momento. La sangre es roja, ¿cómo haré que mane roja? No puedo hacerlo muy bien. Mmm. Tengo que reflexionar. ¡Fuera de aquí!}

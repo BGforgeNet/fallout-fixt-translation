@@ -1,2 +1,2 @@
-1:Los necrófagos de Necrópolis comprenden el sentido último de la deshidratación, al sucumbir la ciudad ante las arenas del desierto y el agua se agota.
-2:Sin el chip que controla la purificación del agua, les es imposible sobrevivir.
+1:Los necrófagos de Necrópolis experimentan en su propia piel el significado de la deshidratación, a medida que su ciudad sucumbe a las arenas del desierto y el agua se agota.
+2:Sin su chip de control de purificación de agua, no sobreviven.

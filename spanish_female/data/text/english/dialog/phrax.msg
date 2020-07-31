@@ -1,20 +1,20 @@
-{100}{}{You see Phrax of the Crypts.}
-{101}{}{That fridge ain't your property. I would highly suggest not touching it.}
+{100}{}{Ver Phrax de las Criptas.}
+{101}{}{Que la nevera no es de su propiedad. Yo recomiendo no tocarlo.}
 {102}{}{¿Por qué no?}
-{103}{}{You gonna make me?}
-{104}{}{No, I'm gonna get my fellow Crypts and we're gonna make you feel pain.}
+{103}{}{Usted va a hacer?}
+{104}{}{No, yo voy a hacer que mis compañeros de Criptas y vamos a hacer que usted se sienta dolor.}
 {105}{}{Oh.}
-{106}{}{It belongs to the Crypts. It ain't yours.}
-{107}{}{I just want a drink.}
+{106}{}{Pertenece a las Criptas. No es la suya.}
+{107}{}{Yo sólo quiero una bebida.}
 {108}{}{Oh, ok.}
-{109}{}{There ain't no drinks in that fridge. Keep away from it.}
-{110}{}{You should not be messing with things that ain't yours. And that definately ain't yours. Dumb move.}
-{111}{}{You may be a Crypt, but this room is not for you. Don't mess with anything.}
-{112}{}{You came to the wrong place at the wrong time.}
-{113}{}{This room is not for you. Don't touch anything, or you'll answer to me.}
-{114}{}{[DONE]}
+{109}{}{No hay ninguna bebidas en la nevera. Mantener lejos de ella.}
+{110}{}{Usted no debería estar jugando con cosas que no es la suya. Y que sin duda no es la suya. Tonto mover.}
+{111}{}{Puede ser una Cripta, pero esta sala no es para usted. No me meto con nada.}
+{112}{}{Viniste al lugar equivocado en el momento equivocado.}
+{113}{}{Esta sala no es para usted. No toque nada, o te la voy a contestar a mí.}
+{114}{}{[HECHO]}
 {115}{}{[MÁS]}
-{116}{}{Phil has more courage than any Fool!}
+{116}{}{Phil tiene más valor que cualquier Tonto!}
 {117}{}{PUPLE BABBOONS!}
-{118}{}{The Brahmin have more sense than a Fool.}
-{119}{}{The Fools are so weak, even Lex can beat them all up.}
+{118}{}{El Brahmán tiene más sentido que un Tonto.}
+{119}{}{Los Tontos son tan débiles, incluso Lex puede vencer a todos ellos.}

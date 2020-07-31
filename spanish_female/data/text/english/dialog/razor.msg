@@ -117,7 +117,7 @@
 {216}{}{Mi gente está libre.}
 {217}{}{Hola.}
 {218}{}{¿Qué te ha pasado? ¿Te han disparado en la cabeza?}
-{219}{}{¿Eh?}
+{219}{}{¿Hunh?}
 {220}{}{Ves: a Cuchilla, líder de los Navajas.}
 {221}{}{Ves a una mujer muy guapa con mirada triste.}
 {222}{}{Por favor, vete. Estoy muy ocupada.}

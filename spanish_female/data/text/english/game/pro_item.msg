@@ -145,7 +145,7 @@
 {7300}{}{El Gran Libro de la Ciencia}
 {7301}{}{Una pila de libros que contienen información sobres la rama científica.}
 {7400}{}{Chupa de Cuero}
-{7401}{}{A black, heavy, stylish leather jacket. One of the sleeves is missing. Provides minimal damage reduction, but some protection is certainly better than none.}
+{7401}{}{Un negro, fuerte, elegante chaqueta de cuero. Uno de los mangas que falta. Proporciona un mínimo de reducción de daño, pero algunas protección duda es mejor que nada.}
 {7500}{}{Multiherramienta}
 {7501}{}{Una fantástica herramienta que sirve para numerosas utilidades. ¡El aspirante a ingeniero o manitas nunca debería salir de casa sin uno!}
 {7600}{}{Biblia de la Electrónica}
@@ -505,6 +505,6 @@
 {25300}{}{Petaca de Agua (Vacía)}
 {25301}{}{Un contenedor, también llamado cantimplora, diseñado para el almacenamiento de agua u otros líquidos. Antes de la Gran Guerra, normalmente las usaban excursionistas, campistas, soldados o trabajadores en el campo. Está vacía. ¡Recordad niños, evitar la deshidratación es una parte importante de cualquier plan de contingencia!}
 {25400}{}{V.E.F. (Supermutante)}
-{25401}{}{You're a Super Mutant now. At least they let you keep your stuff! In any case, the dipping process has modified your: Strength, Endurance, Charisma, Intelligence, physical resistances, and Radiation Resistance. Human armor won't fit on this huge frame, and your hands are too large for some types of weapons now.}
+{25401}{}{Eres un Super Mutante ahora. Al menos ellos te permiten mantener tus cosas! En cualquier caso, el proceso de inmersión ha modificado su: Fuerza, Resistencia, Carisma, Inteligencia, físico resistencias, y Resistencia a la Radiación. Humano de la armadura no se ajuste a este gran marco, y sus manos son demasiado grandes para algunos tipos de armas ahora.}
 {25500}{}{Carne Mutada}
 {25501}{}{Observas la carne atentamente para asegurarse de que no se mueve.}

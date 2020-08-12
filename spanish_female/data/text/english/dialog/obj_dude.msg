@@ -1,5 +1,5 @@
-{970}{}{Así me llamo.}
-{971}{}{Me hablas a mí.}
+{970}{}{Ese es mi nombre.}
+{971}{}{Estás hablando conmigo.}
 {972}{}{¿Por qué haces preguntas estúpidas? Yo soy esa persona.}
 {973}{}{Sí, así me llamo.}
 {974}{}{Soy yo. ¿Algo más?}
@@ -8,9 +8,9 @@
 {977}{}{Ese es si nombre. No me lo gastes.}
 {978}{}{No me gusta hablar de mí. Cambiemos de tema.}
 {979}{}{No soy un libro abierto; hablemos de otra cosa.}
-{980}{}{No sé nada sobre eso.}
+{980}{}{No sé nada de eso.}
 {981}{}{Lo siento. Ni idea.}
-{982}{}{Nunca he oído hablar de ese sitio.}
+{982}{}{Nunca he oido hablar de ello.}
 {983}{}{¿Qué es eso?}
 {984}{}{¿De qué estás hablando?}
 {985}{}{¿Es un chiste? No tengo ni idea de que estás hablando.}
@@ -670,7 +670,7 @@
 {7702}{}{Esto es Ciudad Vertedero.}
 {7703}{}{Pues es una pequeña comunidad que está al norte. La mayor parte de los que viven allí son granjeros. A veces comerciamos con ellos, pero generalmente lo que quieren es que los dejemos en paz.}
 {7704}{}{El Eje es el centro de todo el comercio de por aquí. Casi todos los comerciantes vienen del Eje. En algunas compañías todavía se fabrican cosas. Si quieres, puedes volver al Eje con alguno de sus grupos de comercio.}
-{7705}{}{No sé nada sobre eso.}
+{7705}{}{No sé nada de eso.}
 {7706}{}{Gizmo lo lleva. Cuidado con las máquinas tragaperras, puedes perder muchas chapas si juegas.}
 {7707}{}{¿La de Darkwater? Está en el centro de la ciudad. Puedes pagar con chapas o intercambiar cosas.}
 {7708}{}{He oído a la gente hablar de ella pero nunca la he visto. Dicen que vaga por el desierto y ataca principalmente por la noche.}
@@ -779,7 +779,7 @@
 {8302}{}{Esto es Ciudad Vertedero.}
 {8303}{}{Pues es una pequeña comunidad que está al norte. La mayor parte de los que viven allí son granjeros. A veces comerciamos con ellos, pero generalmente lo que quieren es que los dejemos en paz.}
 {8304}{}{El Eje es el centro de todo el comercio de por aquí. Casi todos los comerciantes vienen del Eje. En algunas compañías todavía se fabrican cosas. Si quieres, puedes volver al Eje con alguno de sus grupos de comercio.}
-{8305}{}{No sé nada sobre eso.}
+{8305}{}{No sé nada de eso.}
 {8306}{}{Gizmo lo lleva. Cuidado con las máquinas tragaperras, puedes perder muchas chapas si juegas.}
 {8307}{}{¿La de Darkwater? Está en el centro de la ciudad. Puedes pagar con chapas o intercambiar cosas.}
 {8308}{}{He oído a la gente hablar de ella pero nunca la he visto. Dicen que vaga por el desierto y ataca principalmente por la noche.}
@@ -889,7 +889,7 @@
 {8903}{}{No sé mucho sobre eso. Por lo que he oído se están reuniendo en algún lugar al norte de aquí.}
 {8904}{}{Es donde estamos.}
 {8905}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los demás grupos no tengo formada una opinión.}
-{8906}{}{No sé nada sobre eso.}
+{8906}{}{No sé nada de eso.}
 {8907}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compañías más civilizadas intercambien productos con nosotros.}
 {8908}{}{Son un culto.}
 {8909}{}{Son el futuro de la Hermandad.}
@@ -1003,7 +1003,7 @@
 {9503}{}{No sé mucho sobre eso. Por lo que he oído se están reuniendo en algún lugar al norte de aquí.}
 {9504}{}{Es donde estamos.}
 {9505}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los demás grupos no tengo formada una opinión.}
-{9506}{}{No sé nada sobre eso.}
+{9506}{}{No sé nada de eso.}
 {9507}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compañías más civilizadas intercambien productos con nosotros.}
 {9508}{}{Son un culto.}
 {9509}{}{Son el futuro de la Hermandad.}
@@ -1117,7 +1117,7 @@
 {10103}{}{No sé mucho sobre eso. Por lo que he oído se están reuniendo en algún lugar al norte de aquí.}
 {10104}{}{Es donde estamos.}
 {10105}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los demás grupos no tengo formada una opinión.}
-{10106}{}{No sé nada sobre eso.}
+{10106}{}{No sé nada de eso.}
 {10107}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compañías más civilizadas intercambien productos con nosotros.}
 {10108}{}{Son un culto.}
 {10109}{}{Son el futuro de la Hermandad.}
@@ -1911,7 +1911,7 @@
 {18105}{}{Están al norte, pasados los Seguidores. Venden armas a las bandas.}
 {18106}{}{Comerciamos con ellos. Es la ciudad más grande que conozco.}
 {18107}{}{Es una pequeña ciudad que está al noroeste de aquí.}
-{18108}{}{Nunca he oído hablar de ese sitio.}
+{18108}{}{Nunca he oido hablar de ello.}
 {18109}{}{La tienda de Tine está subterránea, cerca de la verja. Puede venderte muchas provisiones.}
 {18110}{}{Es el alcalde. Hace un buen trabajo.}
 {18111}{}{Es la ciudad de los muertos, está a varios días de camino al este de aquí.}
@@ -3033,7 +3033,7 @@
 {22713}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armería, la Compañía de Crédito Amistoso y el Halcón Maltés están en esa zona.}
 {22714}{}{Es el lugar de residencia de los mercaderes ricos. El líder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allí.}
 {22715}{}{Es un mito para asustar a los niños y hacer que se porten bien.}
-{22716}{}{No sé nada sobre eso.}
+{22716}{}{No sé nada de eso.}
 {23800}{}{Policía}
 {23801}{}{Mercaderes de Agua}
 {23802}{}{Caravana Carmesí}
@@ -3150,7 +3150,7 @@
 {23913}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armería, la Compañía de Crédito Amistoso y el Halcón Maltés están en esa zona.}
 {23914}{}{Es el lugar de residencia de los mercaderes ricos. El líder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allí.}
 {23915}{}{Es un mito para asustar a los niños y hacer que se porten bien.}
-{23916}{}{No sé nada sobre eso.}
+{23916}{}{No sé nada de eso.}
 {24400}{}{Policía}
 {24401}{}{Mercaderes de Agua}
 {24402}{}{Caravana Carmesí}
@@ -3267,7 +3267,7 @@
 {24513}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armería, la Compañía de Crédito Amistoso y el Halcón Maltés están en esa zona.}
 {24514}{}{Es el lugar de residencia de los mercaderes ricos. El líder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allí.}
 {24515}{}{Es un mito para asustar a los niños y hacer que se porten bien.}
-{24516}{}{No sé nada sobre eso.}
+{24516}{}{No sé nada de eso.}
 {25000}{}{Policía}
 {25001}{}{Mercaderes de Agua}
 {25002}{}{Caravana Carmesí}
@@ -3384,7 +3384,7 @@
 {25113}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armería, la Compañía de Crédito Amistoso y el Halcón Maltés están en esa zona.}
 {25114}{}{Es el lugar de residencia de los mercaderes ricos. El líder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allí.}
 {25115}{}{Es un mito para asustar a los niños y hacer que se porten bien.}
-{25116}{}{No sé nada sobre eso.}
+{25116}{}{No sé nada de eso.}
 {25600}{}{Policía}
 {25601}{}{Mercaderes de Agua}
 {25602}{}{Caravana Carmesí}
@@ -3501,7 +3501,7 @@
 {25713}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armería, la Compañía de Crédito Amistoso y el Halcón Maltés están en esa zona.}
 {25714}{}{Es el lugar de residencia de los mercaderes ricos. El líder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allí.}
 {25715}{}{Es un mito para asustar a los niños y hacer que se porten bien.}
-{25716}{}{No sé nada sobre eso.}
+{25716}{}{No sé nada de eso.}
 {27400}{}{Adytum}
 {27401}{}{Seguidores}
 {27402}{}{Catedral}
@@ -3609,7 +3609,7 @@
 {27504}{}{¡Esos somos nosotros!}
 {27505}{}{A veces nos venden armas.}
 {27506}{}{Creo que es un lugar para hacer negocios.}
-{27507}{}{Nunca he oído hablar de ese sitio.}
+{27507}{}{Nunca he oido hablar de ello.}
 {27508}{}{¿Un qué?}
 {27509}{}{Es nuestra jefa, ¡la perra con más malas pulgas de toda la ciudad!}
 {27510}{}{¿Necro qué? Eso es enfermizo.}

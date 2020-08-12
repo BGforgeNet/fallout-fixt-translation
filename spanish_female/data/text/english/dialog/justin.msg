@@ -22,7 +22,7 @@
 {121}{}{Vale.}
 {122}{}{Hazlo tú solo, Sheriff.}
 {123}{}{¡Fantástico! Aquí está la primera parte de tu paga. [El Sheriff te da 300 chapas]}
-{124}{}{Ya mismo.}
+{124}{}{Estoy preparado.}
 {125}{}{Vale, adiós.}
 {126}{}{Lamento oír eso. Si cambias de opinión, por favor, házmelo saber, pero no puedo esperar mucho.}
 {127}{}{Vale, lo haré. Espera a que coja algunos suministros.}

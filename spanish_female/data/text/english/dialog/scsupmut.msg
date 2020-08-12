@@ -1,6 +1,6 @@
 {100}{}{Ves un explorador nocturno.}
 {101}{}{¿Qué tenemos aquí? ¡Un normal! Creo que te vienes conmigo.}
-{102}{}{Eh.}
+{102}{}{Uh.}
 {103}{}{Vale.}
 {104}{}{¿Y por qué debería hacerlo?}
 {105}{}{¡Lo dudo mucho! [Atacas]}

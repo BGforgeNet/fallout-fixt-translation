@@ -43,7 +43,7 @@
 {142}{Over_24}{Toma, llévate nuestras últimas municiones y estos suministros médicos portátiles. Estamos en un aprieto. ¡Date prisa!}
 {143}{Over_25}{¿Hacer qué? ¿Con quién? Cualquier otro estaría menos cualificado y tendría menos suministros. Sería un suicidio.}
 {144}{}{Es tu elección. Haré todo lo que pueda, pero no sé si será suficiente.}
-{145}{}{Lo comprendo.}
+{145}{}{Entendido.}
 {146}{Over_26}{Tiene que serlo. Si fracasas, también fracasará el Refugio.}
 {147}{}{Lo pillo.}
 {148}{}{Lo que sea.}
@@ -140,7 +140,7 @@
 {239}{Over_76}{Sigue buscando un chip de repuesto. Es para nosotros la única forma de mantener la independencia y la seguridad que conlleva nuestra reclusión.}
 {240}{Over_77}{Mostrar el camino de nuestro Refugio a esta gente es muy arriesgado. Comprendo tu decisión, y puede ser lo que nos salve. Pero estoy preocupado. ¿Podemos fiarnos de esta gente?}
 {241}{}{Yo me fío.}
-{242}{}{Lo comprendo.}
+{242}{}{Entendido.}
 {243}{Over_78}{Seguro que sí, pero necesitamos ese chip de repuesto para nuestra supervivencia a largo plazo y para nuestra estabilidad económica. No producimos los suficientes bienes para pagar esta agua y pronto seremos incapaces de cubrir el gasto. Encuentra el chip.}
 {244}{Over_79}{Seguro que sí. Debes entender nuestra necesidad de ese chip de repuesto. Por favor, sigue buscando.}
 {245}{Over_80}{Por favor sigue buscando ese Chip de Agua. Estas caravanas de agua nos van a traer problemas a la larga.}

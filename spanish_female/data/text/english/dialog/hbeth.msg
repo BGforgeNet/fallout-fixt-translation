@@ -277,7 +277,7 @@
 {379}{}{Ignórale, siempre lo hago.}
 {380}{}{Oh, eres tan divertido Sid.}
 {381}{}{Ya te gustaría.}
-{382}{}{¡Cállate!}
+{382}{}{Cierra el pico.}
 {383}{}{Ey. No te muevas Sid.}
 {384}{}{No soy tan lista.}
 {385}{}{Te pondré morada la cara si no dejas a mis clientes en paz.}

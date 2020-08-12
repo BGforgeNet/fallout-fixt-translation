@@ -64,6 +64,6 @@
 {1107}{}{Aquí tienes. Solo quedan tristes recuerdos de un mundo antiguo.}
 {1108}{}{Creo que es uno de los necrófagos.}
 {1109}{}{Está justo ahí, hacia el noreste.}
-{1110}{}{No sé nada sobre eso.}
+{1110}{}{No sé nada de eso.}
 {1111}{}{El Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}
 {1112}{}{El Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}

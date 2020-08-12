@@ -37,7 +37,7 @@
 {136}{}{Así como yo sospechaba, no le importa nada excepto sus propias necesidades. Únete a nuestros enemigos, llevar el miedo a mi pueblo, y traicionar a su propio fondo.}
 {137}{}{Me voy a matar por decir eso.}
 {138}{}{Es un plan. Yo soy de la infiltración de esta pandilla.}
-{139}{}{¡Cállate!}
+{139}{}{Cierra el pico.}
 {140}{}{Pensé que haría, usted gusano.}
 {141}{}{Tal vez, pero las acciones hablan más fuerte que las palabras.}
 {142}{}{Usted va a ver.}

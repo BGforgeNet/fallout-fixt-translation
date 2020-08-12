@@ -9,7 +9,7 @@
 {108}{}{¡Hnnng!}
 {109}{}{¡Tranquila! Esta es una comunidad pequeña. No vemos muchos extranjeros, y la verdad, tampoco los necesitamos. Si no tienes un buen motivo para estar aquí, más vale que te largues.}
 {110}{}{Eh, no quiero hacerle daño a nadie.}
-{111}{}{Eh.}
+{111}{}{Uh.}
 {112}{}{Yo no dije que lo fueses a hacer. Será mejor que nos dejes en paz.}
 {113}{}{Intentaré no crear problemas.}
 {114}{}{Estoy hasta las narices de la gente como tú. Prepárate para encontrarte con tu creador.}

@@ -4,7 +4,7 @@
 {103}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero, Necrópolis y el Cementerio de LA.}
 {104}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero, Necrópolis y el Cementerio de LA.}
 {105}{}{¿Y el sueldo?}
-{106}{}{Eh.}
+{106}{}{Uh.}
 {107}{}{Nuestro sueldo es el mejor, 600 chapas... y sí, eso es solo por la ida y la vuelta... pero no hay obligación de hacer los dos. La ruta de esta caravana es bastante dura y seguramente tendremos que enfrentarnos a saqueadores... o cosas peores. No pasamos ni un error y será mejor que tengas bastante munición.}
 {108}{}{ Nos vamos hoy. ¿Te interesa?}
 {109}{}{ Nos vamos en }

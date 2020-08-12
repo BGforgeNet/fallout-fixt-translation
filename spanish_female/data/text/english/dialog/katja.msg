@@ -90,7 +90,7 @@
 {189}{}{¡Hubba hubba!}
 {190}{}{¡Vete!}
 {191}{}{Los siento pero no te comprendo. Adiós.}
-{980}{}{No sé nada sobre eso.}
+{980}{}{No sé nada de eso.}
 {981}{}{No puedo decir que me haya enterado de eso.}
 {982}{}{No, no he escuchado nada de eso.}
 {1000}{}{Agua}

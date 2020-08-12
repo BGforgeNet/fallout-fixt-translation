@@ -6,7 +6,7 @@
 {105}{}{No importa.}
 {106}{}{¡Vuelve a la parte Este, descerebrado!}
 {107}{}{¿Qué?}
-{108}{}{Me voy.}
+{108}{}{Yo marcho.}
 {109}{}{Hazlo rápido. No puedo hablar mientras trabajo.}
 {110}{}{¿Dónde estoy?}
 {111}{}{¿En qué trabajas?}

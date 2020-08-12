@@ -5,7 +5,7 @@
 {104}{}{¿Estarás bien?}
 {105}{}{Soy de la Hermandad. He estado buscándote.}
 {106}{}{De nada. Adiós.}
-{107}{}{Eh.}
+{107}{}{Uh.}
 {108}{}{¿No has oído hablar de nosotros? Estoy realmente sorprendido. No saldrás del Eje muy a menudo. Deberías hacerlo. Estamos al noroeste de aquí, en la ladera oeste de la montaña.}
 {109}{}{Agradezco tu ayuda pero, ¿por qué intentas mentirme? ¿No sabes que conozco a todos los miembros de nuestro orden?}
 {110}{}{Talus me envió.}

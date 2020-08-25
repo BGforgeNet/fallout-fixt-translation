@@ -1,7 +1,7 @@
 {100}{}{Ves: al mercader de Arenas Sombrías.}
 {101}{}{¡Hola viajero! Comercio y vendo bienes a la buena gente de Arenas Sombrías. ¿Te gustaría ver mis mercancías?}
 {102}{}{Sí.}
-{103}{}{¡No!}
+{103}{}{No.}
 {104}{}{Hemos sido plagados de escorpiones rad desde hace ya algún tiempo. Todos los que han sido enviados a por esos monstruos no han vuelto. Te daré armas y armaduras si vas a su guarida y los matas a todos.}
 {105}{}{Suena bien.}
 {106}{}{No, gracias.}

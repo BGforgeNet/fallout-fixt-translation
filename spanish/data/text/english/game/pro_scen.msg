@@ -1050,9 +1050,9 @@
 {54201}{}{Decides que no es el momento de hacer pesas.}
 {54300}{}{un banco de pressing}
 {54301}{}{Decides que no es el momento de hacer pesas.}
-{54400}{}{un puente}
+{54400}{}{Puente}
 {54401}{}{Un puente de madera precario permite el acceso a través de la sustancia viscosa.}
-{54500}{}{un puente}
+{54500}{}{Puente}
 {54501}{}{Un puente de madera precario permite el acceso a través de la sustancia viscosa.}
 {54600}{}{una mesa de ruleta}
 {54601}{}{Una mesa de juego.}

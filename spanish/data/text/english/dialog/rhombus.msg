@@ -6,7 +6,7 @@
 {105}{Rhom1}{¿Te puedo ayudar en algo?}
 {106}{}{¿Te puedo hacer unas preguntas?}
 {107}{}{No tienes pinta de luchador.}
-{108}{}{¿Eh?}
+{108}{}{¿Ehhh?}
 {109}{Rhom2}{Sí.}
 {110}{Rhom3}{Chico insolente. Discúlpate y no sufrirás daño.}
 {111}{}{Intentaba bromear. Lo siento.}
@@ -111,7 +111,7 @@
 {1000}{}{Vree}
 {1001}{}{Rhombus}
 {1002}{}{Talus}
-{1003}{}{Anciano}
+{1003}{}{Elder}
 {1004}{}{Escribas}
 {1005}{}{Caballeros}
 {1006}{}{Eje}

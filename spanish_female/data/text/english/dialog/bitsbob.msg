@@ -139,7 +139,7 @@
 {238}{}{¡Tener hambre! ¡Grrrrr!}
 {239}{}{Un negocio terrible. Esa pobre gente. Oh, esa pobre gente. ¡Malgastando sus vidas de esa manera tan estúpida! ¿Puedo hacer algo más por ti? ¿Alimentarte quizás?}
 {240}{}{Nada, adiós.}
-{241}{}{Yo ir ahora.}
+{241}{}{Yo irme ahora.}
 {242}{}{No tengo tanto dinero. Apenas llego a fin de mes tal y como estoy ahora.}
 {243}{}{¡¿Treinta chapas?! ¿Estás bromeando?}
 {244}{}{Mira imbécil, tú eres el que me ha destrozado mi margen de beneficios. Así que si no te gustan mis precios, vete a la mierda. Hay muchos establecimientos de iguana por aquí. Oh, espera, no los hay. Imbécil.}

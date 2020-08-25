@@ -3,7 +3,7 @@
 {102}{}{Lo siento. Volveré en otro momento.}
 {103}{}{Volveré.}
 {104}{}{¿Cómo iba a saber tu agenda?}
-{105}{}{¿Eh?}
+{105}{}{¿Ehhh?}
 {106}{Vree01}{No me levantes la voz. ¿Tendré que llamar a un Hermano para que te enseñe modales?}
 {107}{}{Lo siento.}
 {108}{}{Sí, vale. Lo que sea.}
@@ -116,7 +116,7 @@
 {1002}{}{discos}
 {1003}{}{Hermandad}
 {1004}{}{Chip}
-{1005}{}{Anciano}
+{1005}{}{Elder}
 {1006}{}{Rhombus}
 {1007}{}{Éxodo}
 {1008}{}{Extraño ejército}

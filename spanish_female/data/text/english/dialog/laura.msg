@@ -36,9 +36,9 @@
 {151}{}{¿Qué hace una chica como tú en un sitio como este?}
 {152}{}{Nada más, gracias.}
 {154}{laura24}{No es en el Santa Sanctórum donde has de entrar.}
-{155}{}{¿Y después qué?}
+{155}{}{¿Y entonces qué?}
 {157}{laura25}{Seguí a Morfeo por una escalera secreta trasera. Le vi activar una puerta secreta en la parte de abajo.}
-{158}{}{¿Y después qué?}
+{158}{}{¿Y entonces qué?}
 {159}{}{¿Me puedes mostrar esta puerta?}
 {161}{laura26}{Usa una extraña llave para abrirla y desaparece. Nunca he intentado seguirle.}
 {162}{}{¿Sabes dónde está esa llave?}
@@ -94,7 +94,7 @@
 {232}{laura45}{Sí, puedes ayudarles llegando al Maestro. Como decía mi abuela, "muerto el perro se acabó la rabia". Era muy práctica.}
 {233}{}{¿Cómo llego hasta él?}
 {234}{}{Lo parece. Necesito más respuesta antes de que te vayas.}
-{235}{}{Estoy de camino.}
+{235}{}{Estoy en camino.}
 {237}{laura46}{¡Planean apoderarse de todas las ciudades!}
 {238}{}{¿De cuáles?}
 {240}{laura47}{Adytum ya ha caído. El Eje es la próxima.}

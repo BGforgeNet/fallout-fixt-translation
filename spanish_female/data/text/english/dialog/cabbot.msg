@@ -2,7 +2,7 @@
 {101}{Cab_1}{Hola y bienvenida a la Hermandad del Acero. ¿Puedo preguntarte qué haces aquí?}
 {102}{}{¿Quién eres?}
 {103}{}{¿Te puedo hacer unas preguntas?}
-{104}{}{¿Eh?}
+{104}{}{¿Ehhh?}
 {105}{}{Me gustaría unirme.}
 {106}{}{¿Qué tal estás?}
 {107}{}{No importa, gracias.}
@@ -156,7 +156,7 @@
 {1000}{}{Iniciada}
 {1001}{}{Vree}
 {1002}{}{Rhombus}
-{1003}{}{Anciano}
+{1003}{}{Elder}
 {1004}{}{Ancianos}
 {1005}{}{Escribas}
 {1006}{}{Caballeros}

@@ -23,7 +23,7 @@
 {122}{}{Eh, vale.}
 {123}{}{Nuh-uh.}
 {124}{Set06}{Excelente. Dales una última lección a esos mutantes, luego vuelve aquí... Mmm. Si les digo a mis necrófagos que te dejen en paz, los mutantes podrían oírlo y sospechar. Así que, es hora de que me eches una mano. Yo me callo. ¿Lo pillas?}
-{125}{}{Lo pillo.}
+{125}{}{Entendido.}
 {126}{}{¿Qué pasa con los necrófagos?}
 {127}{}{¡Ehn, vale!}
 {128}{}{¿Eh?}
@@ -51,7 +51,7 @@
 {150}{}{Ahhh, supongo que no. ¿Qué puedo hacer por ti?}
 {151}{}{Sí. ¿Te cuesta limpiarte los dientes?}
 {152}{Set15}{Tienes tanta gracia, que me duele la mandíbula. Inténtalo otra vez y mis Élites te exprimirán. ¿Lo pillas?}
-{153}{}{Lo pillo.}
+{153}{}{Entendido.}
 {154}{}{Pues aún no lo tengo muy claro...}
 {155}{}{Está claro que tu cara te debe doler.}
 {156}{Set16}{Mi nombre es Set. El tuyo es Todo-me-duele. Hagamos un trato, yo te cambio el mote. ¿Me estás escuchando?}
@@ -126,7 +126,7 @@
 {225}{Set42a}{Ahora es malo. Camina. }
 {226}{}{Merezco alguna información.}
 {227}{}{¿Qué tal si te piso la cara?}
-{228}{}{Lo pillo.}
+{228}{}{Entendido.}
 {229}{}{No, ¿eh?}
 {230}{Set43}{Vale. Rápido. ¿Qué?}
 {231}{}{Tú no harías lo de los mutantes por ti mismo. Y yo me pregunto, ¿por qué? La respuesta, alguien te tiene asustado. ¿Por qué?}
@@ -138,7 +138,7 @@
 {237}{}{¡Creo que eso es una amenaza!}
 {238}{Set45}{Ni siquiera lees las líneas. A no ser que Necrópolis vaya a ser tu hogar permanente, camina. No tengo tiempo para un tonto saco de carne.}
 {239}{}{¿Qué tal tu propio cadáver en un saco?}
-{240}{}{Lo pillo.}
+{240}{}{Entendido.}
 {241}{}{Chúpate esa.}
 {242}{Set45a}{Con mucho gusto...}
 {243}{Set46}{Sin farol, sin truco. El Maestro no me hace temblar. Camina. Tu bienvenida aquí ya lo ha hecho.}

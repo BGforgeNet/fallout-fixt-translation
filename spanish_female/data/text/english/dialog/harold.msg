@@ -4,7 +4,7 @@
 {103}{}{¿Qué tal 5 chapas?}
 {104}{}{Lo siento, no llevo encima chapas.}
 {105}{}{¡Apártate de mí!}
-{106}{}{¿Eh?}
+{106}{}{¿Ehhh?}
 {107}{HROLD1}{Vaya. Amiga, estás todavía peor que yo. Tú sí que necesitas suerte.}
 {108}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
 {109}{}{¿Por qué?}
@@ -98,7 +98,7 @@
 {197}{HROLD31}{No hagas caso, eso era de mi época. Estoy viejo y chiflado y he estado así desde que cambié.}
 {198}{}{¿Qué hacías antes de que te pasase esto?}
 {199}{HROLD32}{Bueno, sufrí una mutación. No pude haber nacido tan feo. Ocurrió cuando intentábamos descubrir de dónde salían todos los mutantes.}
-{200}{}{¿Qué ocurrió?}
+{200}{}{¿Qué pasó?}
 {201}{HROLD33}{Eso pertenece al pasado. Y ahí es donde debe quedarse.}
 {202}{}{Por favor cuéntame lo que ocurrió, puede que me ayude ahora.}
 {203}{}{Hazlo a tu modo.}
@@ -112,7 +112,7 @@
 {211}{}{Sí, aquí tienes 25 chapas.}
 {212}{}{Toma 5 chapas.}
 {213}{}{No me des el coñazo.}
-{214}{}{¿Eh?}
+{214}{}{¿Ehhh?}
 {215}{HROLD40}{¡Oye, aprécialo! Tengo que admitir que cuando te vi por primera vez, *tose* me imaginé que igual intentabas abusar de mí.}
 {216}{}{¿Por qué dices eso?}
 {217}{}{¡Nah, yo no! Soy una de los buenas.}
@@ -125,7 +125,7 @@
 {224}{}{¿Tienes alguna novedad que contarme?}
 {225}{}{Necesito información sobre la Garra Mortal. Me han dicho que tú eres mi hombre.}
 {226}{}{¿Cuál es tu historia?}
-{227}{}{¡No!}
+{227}{}{No.}
 {228}{hrold43a}{¿Toda entera? Bueno...}
 {229}{HROLD44}{Oooh, vaya, gracias. Espero que no haya sido un esfuerzo demasiado grande. *tose*}
 {230}{HROLD45}{Oooh, sobre eso. Es una pesadilla. ¿Por qué diablos preguntas por ella?}

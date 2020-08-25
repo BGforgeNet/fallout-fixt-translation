@@ -104,7 +104,7 @@
 {203}{}{Arrastra.}
 {204}{}{¿Lista? Nos vamos hoy.}
 {205}{}{¡Sí!}
-{206}{}{¡No!}
+{206}{}{No.}
 {207}{}{¡Hurra!}
 {208}{}{Llegas un día antes. Vuelve mañana si todavía quieres el trabajo. Si no, no vengas. No te daré nada.}
 {209}{}{Eh, llegas demasiado pronto. No los voy a enviar hasta en }

@@ -9,7 +9,7 @@
 {108}{}{.}
 {109}{}{El nombre es }
 {110}{}{. Recuérdalo.}
-{111}{}{¿Eh?}
+{111}{}{¿Ehhh?}
 {112}{TAND_2}{Well... how do you like our little town? Bored yet?}
 {113}{}{Está bien. ¿Puedo hacerte unas preguntas?}
 {114}{}{Sí, desde luego. No hay nada que hacer aquí, salvo mirar como copulan los brahmines.}

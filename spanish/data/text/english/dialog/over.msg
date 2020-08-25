@@ -31,7 +31,7 @@
 {130}{Over_19a}{Por favor, dime que has encontrado el chip.}
 {131}{}{No, ¡pero he visto cosas increíbles!}
 {132}{}{Lo siento, aún no he podido averiguar dónde encontrarlo.}
-{133}{}{¡No!}
+{133}{}{No.}
 {134}{}{Nuh-uh.}
 {135}{Over_20}{Bueno, sigue buscándolo. El tiempo se está agotando.}
 {136}{Over_21}{¡No tenemos tiempo para esto! Necesitamos el chip. Se nos acaba el tiempo. [Suspiro]}
@@ -45,7 +45,7 @@
 {144}{}{Es tu elección. Haré todo lo que pueda, pero no sé si será suficiente.}
 {145}{}{Entendido.}
 {146}{Over_26}{Tiene que serlo. Si fracasas, también fracasará el Refugio.}
-{147}{}{Lo pillo.}
+{147}{}{Entendido.}
 {148}{}{Lo que sea.}
 {149}{Over_27}{Bien, ¡entonces continúa con ello!}
 {150}{Over_28}{¿Encontraste el chip?}

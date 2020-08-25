@@ -25,7 +25,7 @@
 {124}{}{[Hecho]}
 {125}{}{Lamento lo que está ocurriendo. Alguien ha estado robando agua y ahora todos estamos al límite.}
 {126}{}{¿Quién haría una cosa así?}
-{127}{}{¿Qué ocurrió?}
+{127}{}{¿Qué pasó?}
 {128}{}{Algunos han sido acusados y empieza a haber peleas, pero nadie sabe lo que pasa realmente.}
 {129}{}{Vale. Gracias.}
 {130}{}{Algunos dijeron que les habían robado el agua. No se les dio más agua, pero algunos amigos la compartieron con ellos. Después de eso la gente se volvió paranoica y empezó a guardar el agua. Unos días después alguien dejó inconsciente al guardia en la zona de racionamiento del suministro y robó agua.}

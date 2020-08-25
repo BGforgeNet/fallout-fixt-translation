@@ -224,7 +224,7 @@
 {324}{}{Ahora mismo estoy ocupado. Habla con Rutger. Ya me hará saber si merece la pena hablar contigo.}
 {325}{}{No tengo nada que decirte.}
 {326}{}{¿Dónde recojo mi recompensa?}
-{327}{}{¿Puedes repetirme qué se supone que debía hacer?}
+{327}{}{¿Qué se supone que tenía que volver a hacer?}
 {328}{}{Por todos los infiernos, ¡lárgate de aquí!}
 {329}{}{Nada todavía.}
 {330}{}{¡¡¡Gruñe!!!}
@@ -279,7 +279,7 @@
 {1021}{}{Ciudad Vertedero}
 {1022}{}{Killian}
 {1023}{}{Hermandad}
-{1024}{}{Anciano}
+{1024}{}{Elder}
 {1025}{}{Ángel}
 {1026}{}{Adytum}
 {1027}{}{Jon}

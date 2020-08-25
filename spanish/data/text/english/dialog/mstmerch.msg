@@ -6,7 +6,7 @@
 {105}{}{Nada, adiós.}
 {106}{}{Aj.}
 {107}{}{Claro, fantástico. Estás contratado. ¿Qué tipo de trabajo? ¿Qué tal guardia de caravanas? Vale. Puedes trabajar para nosotros. Me gustas. ¿Algo más?}
-{108}{}{¡No!}
+{108}{}{No.}
 {109}{}{Sí, ¿tienes un Chip de Agua?}
 {110}{}{¿Eh?}
 {111}{}{Lo siento, no hay tiempo para tonterías.}

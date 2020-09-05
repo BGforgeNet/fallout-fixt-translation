@@ -26,29 +26,29 @@
 {125}{}{3    Ничего.}
 {126}{}{8    13 лет}
 {127}{}{8    13 лет}
-{128}{}{7  Give items (by type)}
-{129}{}{1  Testing Weapons & All Ammo}
-{130}{}{2  Drugs}
-{131}{}{3  Food (including new Fixt ones)}
-{132}{}{4  Keys (in inventory or in backpack)}
-{133}{}{5  900000 Bottle Caps (& Small Bag, Bag, Backpack)}
-{134}{}{6  Explosives & Throwing Weapons}
+{128}{}{7  Дать предметы (по типу)}
+{129}{}{1  Тестовое Оружие & Все Патроны}
+{130}{}{2  Препараты}
+{131}{}{3  Еда (в том числе новая Fixt)}
+{132}{}{4  Ключи (в инвентарь или в рюкзак)}
+{133}{}{5  900000 Крышек (& Маленький Мешок, Мешок, Рюкзак)}
+{134}{}{6  Взрывающееся & Метательное Оружие}
 {135}{}{7  Books}
-{136}{}{8  Holodisks (& Radio)}
+{136}{}{8  Голодиски (& Радио)}
 {137}{}{9  Armor}
 {138}{}{Each of these selections, including Ammo, except "Testing Weapons", gives ALL items from that category.}
-{139}{}{1  Yes, and delete current inventory first.}
+{139}{}{1  Да, и удаление текущего инвентаря.}
 {140}{}{2  Yes.}
 {141}{}{3  No. [back]}
-{142}{}{Give Testing Weapons & All Ammo?}
-{143}{}{Give All Drugs?}
-{144}{}{Give All Food (including new Fixt ones)?}
-{145}{}{Give All Keys (in inventory or in backpack)?}
-{146}{}{Give 900000 Bottle Caps (& Small Bag, Bag, Backpack)?}
-{147}{}{Give All Explosives & All Throwing Weapons?}
-{148}{}{Give All Books?}
-{149}{}{Give All Holodisks (& Radio)?}
-{150}{}{Give All Armor?}
+{142}{}{Дать Тестовое Оружие & Все Патроны?}
+{143}{}{Дать все Препараты?}
+{144}{}{Дать всю Еду (в том числе новую Fixt)?}
+{145}{}{Дать все Ключи (в инвентарь или в рюкзак)?}
+{146}{}{Дать 900000 Крышек (& Маленький Мешок, Мешок, Рюкзак)?}
+{147}{}{Дать Все Взрывающееся & Все Метательное Оружие?}
+{148}{}{Дать все Книги?}
+{149}{}{Дать все Голодиски (& Радио)?}
+{150}{}{Дать всю Броню?}
 {200}{}{Что я могу начитерить для вас сегодня?}
 {201}{}{1  Опыт.}
 {202}{}{2  Урон, Яд, Радиация.}

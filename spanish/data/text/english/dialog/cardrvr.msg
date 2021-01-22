@@ -18,7 +18,7 @@
 {117}{}{Está bien. Estoy seguro de que podremos volver sin problema. Gracias por ayudarnos a volver sanos y salvos.}
 {118}{}{Está bien. Te entiendo. Será muy difícil con un solo guardia, pero lo haremos.}
 {119}{}{Oh, vale, estoy seguro de que puedo hacerlo solo.}
-{120}{}{You all right? The trip must have been harder on you than I thought.}
+{120}{}{¿Estás bien? El viaje debe haber sido más duro para ti de lo que creía.}
 {121}{}{¿Te drogas?}
 {122}{}{Puede que no te quiera en mi caravana.}
 {123}{}{¿Has cambiando de opinión? ¿Quieres el trabajo?}

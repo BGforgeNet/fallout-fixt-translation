@@ -28,18 +28,18 @@
 {127}{}{8    13 años}
 {128}{}{7 Dar elementos (por tipo)}
 {129}{}{1 Pruebas De Armas Y Munición}
-{130}{}{2  Drugs}
+{130}{}{2  Drogas}
 {131}{}{3 Alimentos (incluidos los nuevos Fixt queridos)}
 {132}{}{4 Teclas (en el inventario o en la mochila)}
 {133}{}{5 900000 Tapas De Botella (Y Un Pequeño Bolso, Bolsa, Mochila)}
 {134}{}{6 Explosivos & Armas Arrojadizas}
-{135}{}{7  Books}
+{135}{}{7  Libros}
 {136}{}{8 Holodisks (& Radio)}
-{137}{}{9  Armor}
+{137}{}{9  Armadura}
 {138}{}{Cada una de estas selecciones, incluyendo Munición, excepto "las Pruebas de Armas", le da TODOS los elementos de esa categoría.}
 {139}{}{1 Sí, y eliminar el inventario actual en primer lugar.}
-{140}{}{2  Yes.}
-{141}{}{3  No. [back]}
+{140}{}{2  Sí.}
+{141}{}{3  No. [volver]}
 {142}{}{Dar Pruebas De Armas Y Toda La Munición?}
 {143}{}{Dar A Todos Los Medicamentos?}
 {144}{}{Dar a Todos los Alimentos (incluidos los nuevos Fixt queridos)?}
@@ -48,7 +48,7 @@
 {147}{}{Dar A Todos Los Explosivos Y Armas Arrojadizas?}
 {148}{}{Dar A Todos Los Libros?}
 {149}{}{Dar A Todos Los Holodisks (Y Radio)?}
-{150}{}{Give All Armor?}
+{150}{}{¿Dar toda la armadura?}
 {200}{}{¿Qué Trucos puedo hacer por ti hoy?}
 {201}{}{1  Puntos de Experiencia.}
 {202}{}{2  Daño, Veneno, Radiación.}
@@ -75,7 +75,7 @@
 {226}{}{4    Romper brazo derecho}
 {227}{}{5    Dame ceguera }
 {228}{}{8 sanar por completo, retire todo el veneno, quitar TODOS los rads.}
-{229}{}{TEST ROLLS (mmm, rolls)}
+{229}{}{PROBAR PANECILLOS (mmm, panecillos)}
 {230}{}{Hecho.}
 {231}{}{mensaje aquí}
 {232}{}{1    500}
@@ -119,14 +119,14 @@
 {270}{}{2  Ciudad Vertedero,  Hermandad del Acero,  Ciudad}
 {271}{}{3  Niños de la Catedral, Refugio del Maestro, Costa, Montaña}
 {272}{}{4  El Eje}
-{273}{}{5  Boneyard, Adytum,  Raiders}
-{274}{}{6  Shady Sands,  Military Base, CHILDEAD}
+{273}{}{5  Adytum, Cementerio,  Saqueadores}
+{274}{}{6  Arenas Sombrías,  Base Militar, CHILDEAD}
 {275}{}{7  El Ardor,  Desierto}
 {276}{}{8  Caravanas}
 {277}{}{9  Especiales}
 {278}{}{9    Olvídalo.}
 {279}{}{7    Olvídalo.}
-{280}{}{8    Play the Endgame Slideshow.}
+{280}{}{8    Reproducir las diapositivas de fin de juego.}
 {300}{}{DESERT1.MAP}
 {301}{}{DESERT2.MAP}
 {302}{}{DESERT3.MAP}
@@ -194,5 +194,5 @@
 {364}{}{MNTCRVN4.MAP}
 {365}{}{HUBMIS0.MAP - Irwin}
 {366}{}{HUBMIS1.MAP - Irwin}
-{400}{}{You are currently level: }
+{400}{}{Eres actualmente nivel: }
 {401}{}{. }

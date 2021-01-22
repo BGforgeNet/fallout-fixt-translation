@@ -302,7 +302,7 @@
 {403}{}{Por aquí.}
 {404}{}{Conoces el camino, vámonos.}
 {405}{}{Abrid eso, chicos.}
-{406}{}{All right.}
+{406}{}{De acuerdo.}
 {407}{}{Vale.}
 {408}{}{Puedes desear lo que te apetezca, pero vete.}
 {409}{}{¿Tienes algún trabajo más?}

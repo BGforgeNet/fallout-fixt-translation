@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un adolescente.}
-{101}{}{You! You did it! When I grow up, I'm gonna get you! I'm gonna hunt you down and kill you! You killed them all! Aaaaaalllll! (He sobs uncontrollably.)}
+{101}{}{¡Tú! ¡Tú lo hiciste! ¡Cuando crezca iré a por ti! ¡Voy a buscarte y a matarte! ¡Tú los mataste a todos! ¡Tooodooos! (Él llora descontroladamente.)}
 {102}{}{Era la única manera. La única manera de pararlos.}
 {103}{}{¿Cómo diablos sobreviviste al desastre nuclear?}
 {104}{}{Es mentira, chico. ¡Yo no lo hice!}
@@ -31,7 +31,7 @@
 {130}{}{¿El Padre Fustigador?}
 {131}{}{¡Qué divertido!}
 {132}{}{Parece que él y yo tenemos mucho en común.}
-{133}{}{That's great! May the Master bless you. (He hands you a flower.)}
+{133}{}{¡Fantástico! Bendito seas por el Maestro. (Te ofrece una flor.)}
 {134}{}{¡Ay! No me resultas simpática. ¡Puede que tenga que informar a los Nocturnos sobre tu existencia!}
 {135}{}{Los Nocturnos son mis amigos.}
 {136}{}{No. Eres demasiado joven para entender lo simpática que puedo llegar a ser.}

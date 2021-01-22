@@ -149,7 +149,7 @@
 {250}{}{ puntos de experiencia por extorsionar a Bob para que pague por tu silencio.}
 {251}{}{¿Cómo va el negocio, Bob? *guiño*}
 {252}{}{¿Qué demonios haces aquí? Cierras mi negocio y seguro que recibes una gran recompensa. ¿Estás aquí para regodearte o qué?}
-{253}{}{Pretty much, yeah. How's business, Bob? [you wink at him]}
+{253}{}{Bastante, sí. ¿Cómo va el negocio, Bob? [le guiñas el ojo]}
 {254}{}{Nah, comprobando como te iba.}
 {255}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Hasta donde yo sé podrían dejarme morir aquí.}
 {256}{}{Te lo mereces.}

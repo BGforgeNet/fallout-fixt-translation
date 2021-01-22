@@ -1,4 +1,4 @@
-{100}{}{You see a chanter from the Children of the Cathedral.}
+{100}{}{Ves a un cantor de los Niños de la Catedral.}
 {101}{}{¡El Maestro perdonará tus pecados! ¡Únete a nosotros y sé libre! ¡Reza al Maestro y a su misericordia!}
 {102}{}{¡Hola amigo! ¿Cantarás una alabanza conmigo?... Yo antes deambulaba sin rumbo por una tierra cruel y vil...}
 {103}{}{Odio interrumpir tus plegarias, pero, ¿dónde puedo encontrar al Maestro?}

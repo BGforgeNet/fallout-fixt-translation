@@ -217,4 +217,4 @@
 {2013}{}{Mejor que uses el combate cuerpo a cuerpo que el de a distancia.}
 {2014}{}{Elige la distancia de combate por tu cuenta.}
 {2015}{}{Eso es todo por ahora.}
-{2100}{}{All right.}
+{2100}{}{De acuerdo.}

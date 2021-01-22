@@ -11,10 +11,10 @@
 {110}{}{Erf.}
 {111}{}{¡Se lo diré a mi mamá!}
 {112}{}{Entonces no deberías llevar un arma como esa.}
-{200}{}{Sorry, mister.}
-{201}{}{Sorry, ma'am.}
-{300}{}{You see: Boy.}
-{301}{}{You see: Girl.}
+{200}{}{Lo siento, señor.}
+{201}{}{Lo siento, señora.}
+{300}{}{Ves: Niño.}
+{301}{}{Ves: Niña.}
 {980}{}{¿Eh?}
 {981}{}{No zé. Pregúntale a mi mamá.}
 {982}{}{Pregúntale a mi papá.}

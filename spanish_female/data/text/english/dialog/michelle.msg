@@ -12,7 +12,7 @@
 {111}{}{¿Qué haces aquí?}
 {112}{}{Hhrrrnnn.}
 {113}{}{Nada. De verdad.}
-{114}{}{Solo estoy mirando.}
+{114}{}{Tan sólo estoy echando un vistazo.}
 {115}{}{¡Esto! [la abofeteas]}
 {116}{}{Otra tarada. Creo que será mejor que te largues de aquí. Si no, te convertirás en objetivo de prácticas.}
 {117}{}{¡Arree!}

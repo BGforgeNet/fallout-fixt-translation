@@ -35,7 +35,7 @@
 {134}{}{¡Pues debería apuntar mi arma a tu garganta y apretar el gatillo!}
 {135}{}{No lo hagas por favor.}
 {136}{}{Sé por qué sufres tanto.}
-{137}{}{Ahora me voy.}
+{137}{}{Voy a irme ahora.}
 {138}{}{Tienes razón... si pudiera aclarar mis pensamientos. Hay algo...}
 {139}{}{Sé por qué no puedes aclarar tus pensamientos.}
 {140}{}{El Maestro impide que pienses con claridad. El pensamiento perturba a la unidad.}

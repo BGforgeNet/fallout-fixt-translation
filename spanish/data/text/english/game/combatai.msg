@@ -4442,14 +4442,14 @@
 {8506}{}{Casi}
 {8507}{}{Cerca, pero no}
 {8508}{}{Oh. Buen tiro}
-{8509}{}{Uff.}
+{8509}{}{Ugh.}
 {8510}{}{He perdido otro trozo de mi oreja...}
 {8511}{}{Maldita sea, ahí va otro diente...}
-{8512}{}{Uff.}
+{8512}{}{Ugh.}
 {8513}{}{No necesitaba ese brazo de todas formas}
-{8514}{}{Oh...}
+{8514}{}{Ay.}
 {8515}{}{¡Toma, disparaba con esa mano!}
-{8516}{}{Oh...}
+{8516}{}{Ay.}
 {8517}{}{¡Toma, otra costilla destrozada!}
 {8518}{}{Si quieres matarme, apunta a la cabeza}
 {8519}{}{Puedes lisiarme poco a poco, pero te cogeré}

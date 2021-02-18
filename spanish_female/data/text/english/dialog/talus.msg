@@ -90,7 +90,7 @@
 {190}{}{Suena bien. Adiós.}
 {191}{}{No debería decírtelo, pero no es un arma. Es algo que solo la élite de nuestra orden puede poseer, pero dado que tú vienes de fuera y lo necesitas más que nosotros, puede que haga una excepción.}
 {192}{}{¿No me lo puedes decir?}
-{193}{}{Vale, adiós.}
+{193}{}{De acuerdo, adiós.}
 {194}{}{Creo que ya te debes hacer una idea. Dejémoslo así.}
 {195}{}{No, no voy a hacerlo y creo que deberías irte, "Iniciada".}
 {196}{}{Solo los Paladines llevan Armaduras de Energía, quizás algún día te ganes el privilegio de llevarla.}
@@ -102,7 +102,7 @@
 {202}{}{! El Hermano Jonathan ya me lo ha contado. Gracias por rescatarlo.}
 {203}{}{Así que Decker está muerto... Parece que tienes más talento del que creía, y eso es mucho decir.}
 {204}{}{Haremos que Decker pague por lo que ha hecho, te doy mi palabra.}
-{205}{}{De nada.}
+{205}{}{No hay de qué.}
 {206}{}{¿Lup?}
 {207}{}{¡Hola forastera! Por lo visto el Iniciado desaparecido ha regresado sano y salvo gracias a ti.}
 {208}{}{También he oído decir que Decker había muerto. Al parecer eres un buen complemento para nuestra Hermandad.}

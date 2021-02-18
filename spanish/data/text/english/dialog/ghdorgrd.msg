@@ -7,7 +7,7 @@
 {106}{}{Gracias.}
 {107}{}{¿Eh?}
 {108}{}{Te he dicho que te fueras. Los de tu raza no son bienvenidos aquí.}
-{109}{}{De acuerdo.}
+{109}{}{Eso es.}
 {110}{}{¡Miau!}
 {111}{}{Las puertas no se abren hasta que oscurece.}
 {112}{}{Necesito entrar ahí. ¿Me puedes ayudar de alguna manera?}

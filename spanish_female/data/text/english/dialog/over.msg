@@ -56,7 +56,7 @@
 {155}{Over_30}{¡El chip, por favor!}
 {156}{Over_31}{Vamos a ver. Un momento, el chip se está inicializando. Vamos... vamos... vamos... Allá va... La comprobación automática está en verde... el reinicio va bien... ¡Ja! ¡Está funcionando! ¡Y parece que tenemos un ganador! ¡Ja, ja! [El Supervisor suspira aliviado] Tú... tú nos has salvado. ¡Lo has conseguido!}
 {157}{}{Bah, no fue nada.}
-{158}{}{De nada.}
+{158}{}{No hay de qué.}
 {159}{Over_32}{Nothing? No, oh no! It was something. Don't downplay what you've done. You've saved a lot of lives. All right, now we need a report on what's out there. Please go to the library.}
 {160}{}{Vale.}
 {161}{Over_33}{Has salvado el Refugio. Deberías estar orgullosa. Pero ahora necesitamos tu informe. Debes entregarlo en la biblioteca. Ve ahora, por favor.}

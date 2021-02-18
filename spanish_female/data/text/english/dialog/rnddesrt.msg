@@ -73,7 +73,7 @@
 {172}{}{Te encuentras objetos tirados por el suelo.}
 {173}{}{Divisas los restos de una caravana atacada por saqueadores.}
 {174}{}{Te cruzas con los restos de un mercader y sus guardias.}
-{175}{}{Te encuentras un viajero.}
+{175}{}{Te encuentras con un viajero.}
 {176}{}{Has tropezado con un pequeño grupo de construcciones derruidas y abandonadas.}
 {187}{}{}
 {188}{}{}

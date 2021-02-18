@@ -6,7 +6,7 @@
 {105}{}{¿Por qué estamos charlando así?}
 {106}{}{No me gustan esas cabezas oscuras sin seso, gracias.}
 {107}{}{Esto podría ser peligroso.}
-{108}{}{Tiempo de irse.}
+{108}{}{Hora de irse.}
 {109}{}{Este lugar parece una mierda colgada de la pared.}
 {110}{}{Creo que voy a vomitar.}
 {111}{}{Nicole nos dijo que volviéramos en cuanto abandonaras la Catedral.}

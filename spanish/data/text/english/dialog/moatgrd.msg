@@ -1,7 +1,7 @@
 {100}{}{Ves a un guardia.}
 {101}{}{¿Qué haces aquí?}
 {102}{}{¿Eh?}
-{103}{}{Solo estoy mirando.}
+{103}{}{Tan sólo estoy echando un vistazo.}
 {104}{}{Quiero comprar algunas armas.}
 {105}{}{}
 {106}{}{}

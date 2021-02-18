@@ -74,7 +74,7 @@
 {173}{}{Coge tu miserable pellejo y vete. Como vuelvas, no seré tan bueno.}
 {174}{}{¿Qué quieres?}
 {175}{}{Soy un explorador.}
-{176}{}{Quiero unirme.}
+{176}{}{Quiero alistarme.}
 {177}{}{No nos gusta ese tipo de gente. No podemos tenerlo aquí. Matadle.}
 {178}{}{¿Tú? ¿Quieres unirte a nosotros? ¿Para qué?}
 {179}{}{Para cargarme a algún capullo importante.}

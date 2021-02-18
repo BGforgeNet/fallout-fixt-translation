@@ -72,7 +72,7 @@
 {171}{BUTCH22}{Sí, ¡ayer! ¡Ponte en marcha!}
 {172}{BUTCH23}{Mmm. ¿Pero qué quieres ahora?}
 {173}{}{Solo tenía curiosidad.}
-{174}{}{Nada en concreto.}
+{174}{}{Por nada.}
 {175}{}{Da igual. Tengo algunas preguntas más.}
 {176}{BUTCH24}{Bueno, dirijo a los Comerciantes de Ultramar desde hace cinco años. Antes de eso estaba en Adytum. Y antes cerca de el Ardor.}
 {177}{}{¿Algo más?}

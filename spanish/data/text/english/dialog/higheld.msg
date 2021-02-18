@@ -19,7 +19,7 @@
 {118}{}{No creía que fueses así. No te has ido mucho tiempo. Ahora vuelve allí y no vuelvas hasta que tengas un informe COMPLETO.}
 {119}{}{Sí, señor.}
 {120}{}{Informaré a los Ancianos. Esperaremos órdenes de Maxson para saber lo que hacer. Ve y cuéntale lo que has visto. Gracias por tu ayuda, Iniciado.}
-{121}{}{De nada.}
+{121}{}{No hay de qué.}
 {122}{}{Entonces tendré tiempo para escucharte.}
 {123}{}{Soy todo oídos.}
 {124}{}{Puedes irte al infierno, viejo.}

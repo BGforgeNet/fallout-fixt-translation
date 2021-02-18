@@ -20,7 +20,7 @@
 {119}{}{Mi pesar no tiene fin. Tandi, la única hija de mi mejor amigo ha desaparecido. No puedo ni trabajar.}
 {120}{}{Soy Razlo. ¿En qué puedo ayudarte?}
 {121}{}{Ahora en nada, pero me alegro de conocerte.}
-{122}{}{Necesito curarme.}
+{122}{}{Necesito que me curen.}
 {123}{}{¡Mnngh!}
 {124}{}{Mmm. Creo que he visto brahmines con más cerebro que tú. Bueno, veamos si estás herido.}
 {125}{}{Me parece que estás bien. Quizás más tarde, ¿vale?}
@@ -31,17 +31,17 @@
 {130}{}{¡Ayudadme!, necesito que me curen.}
 {131}{}{Hola otra vez. ¿En qué puedo servirte?}
 {132}{}{Hola otra vez. Solo pasaba por aquí.}
-{133}{}{Necesito curarme.}
+{133}{}{Necesito que me curen.}
 {134}{}{¡Uh!}
 {135}{}{Me alegro de verte otra vez. Que pases un buen día.}
 {136}{}{Claro. Tú otra vez. ¿Y ahora qué?}
 {137}{}{Nada.}
-{138}{}{Necesito curarme.}
+{138}{}{Necesito que me curen.}
 {139}{}{¡Tienes suerte!}
 {140}{}{Por supuesto.}
 {141}{}{¿Puedo ayudarte?}
 {142}{}{No.}
-{143}{}{Necesito curarme.}
+{143}{}{Necesito que me curen.}
 {144}{}{¡He sido envenenado!}
 {145}{}{¿Qué sabes de los escorpiones rad?}
 {146}{}{Tengo una muestra de veneno de escorpión rad, ¿puedes hacer algo con ella?}

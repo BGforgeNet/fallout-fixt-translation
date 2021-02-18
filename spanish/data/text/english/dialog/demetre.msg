@@ -126,13 +126,13 @@
 {225}{}{Bueno, lo tengo que admitir, las he oído mejores.}
 {226}{}{Sí, claro. Nos vemos.}
 {227}{}{Bueno, ¡todavía vas a morir!}
-{228}{}{Eh, vale.}
+{228}{}{Eh, está bien.}
 {229}{}{Bueno, ¿a qué estás esperando? ¡Hay que llevar las caravanas!}
 {230}{}{Todavía no están listas para salir.}
 {231}{}{Todavía tengo que hacer algo antes.}
 {232}{}{Necesito un Chip de Agua.}
 {233}{}{Dime qué sabes de las caravanas desaparecidas.}
-{234}{}{Vale, adiós.}
+{234}{}{De acuerdo, adiós.}
 {235}{}{¿Rik rok?}
 {236}{}{¿Roerow?}
 {237}{}{¡Demonios! ¡Te estás perdiendo un montón de emociones! ¡Estoy seguro de que hay un montón de gente, criaturas y cosas listas para atacar a las caravanas! ¡Nada como un buen tiroteo! Bueno... te daré algo para que te entretengas antes de que las caravanas se marchen. [Te lanza una granada de mano.]}

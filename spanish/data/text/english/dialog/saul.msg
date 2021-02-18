@@ -59,7 +59,7 @@
 {158}{}{Oh. Eso está bien. ¿Te importa que cambiemos de tema?}
 {159}{}{Sí, he conocido a Trish.}
 {160}{}{Bueno, ¿qué?}
-{161}{}{¿En qué te puedo ayudar?}
+{161}{}{¿Puedo ayudarte en algo?}
 {162}{}{¿Qué se puede hacer aquí?}
 {163}{}{¿Me puedes contar algo sobre tu jefe?}
 {164}{}{[Acaricias tu arma] Me gustaría presentarte a mi amiguita.}

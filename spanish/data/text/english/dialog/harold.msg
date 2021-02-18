@@ -8,7 +8,7 @@
 {107}{HROLD1}{Vaya. Amigo, estás todavía peor que yo. Tú sí que necesitas suerte.}
 {108}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
 {109}{}{¿Por qué?}
-{110}{}{De nada.}
+{110}{}{No hay de qué.}
 {111}{HROLD3}{*tose* El resto de los Ejeros han estado metiéndose conmigo desde que volví a la ciudad. Pero no me puedo marchar. Cuando los tratos estén hechos *resuella*. Sigue siendo mi hogar.}
 {112}{}{¿Qué te sucedió?}
 {113}{}{¿Quiénes son los Ejeros?}
@@ -69,7 +69,7 @@
 {168}{}{¿Y entonces?}
 {169}{HROLD22}{Uno de los robots cogió a Francine. Hirieron a Mark y le mandamos a la superficie. Solo quedábamos Grey y yo.}
 {170}{}{¿Qué le sucedió a Mark?}
-{171}{}{¿Entonces qué ocurrió?}
+{171}{}{¿Entonces qué pasó?}
 {172}{HROLD23}{No tengo ni idea. No consiguió regresar aquí, y... bueno, yo... no podía volver al yermo, así que... nunca le busqué.}
 {173}{}{¿Qué fue de ti y de Grey?}
 {174}{HROLD24}{Llegamos a una especie de núcleo central, como una planta de energía o algo así. Entonces es cuando ocurrió.}
@@ -92,7 +92,7 @@
 {191}{}{¿Piensas que pudo ser la radiación?}
 {192}{}{Lo siento, mal rollo. Gracias por la historia.}
 {193}{HROLD29}{¿Cómo demonios podía saberlo? Grey es el único que podía saberlo. *suspira* De todas formas ese fue el final del trato.}
-{194}{}{Gracias.}
+{194}{}{Gracias por la historia.}
 {195}{HROLD30}{Sí, como un siglo o dos, en años de perro.}
 {196}{}{¿Qué?}
 {197}{HROLD31}{No hagas caso, eso era de mi época. Estoy viejo y chiflado y he estado así desde que cambié.}

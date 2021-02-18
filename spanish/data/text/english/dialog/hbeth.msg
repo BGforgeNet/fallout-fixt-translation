@@ -55,7 +55,7 @@
 {155}{}{Mi amigo era un buen tío. No se acercaría ni a un kilómetro de la Ciudad Antigua. Le dispararon con una pistola mágnum, no hay nadie en la Ciudad Antigua que pueda permitirse tener una de esas. Además, le dispararon una vez en la cabeza y dos en la espalda. ¿A ti te parece que lo hicieron para robarle? Mi amigo solo quería volver a ser dueño de su vida.}
 {156}{}{Oye, me gusta su estilo. Después de matarle, colocas su cuerpo en el lugar que más despreciaba.}
 {157}{}{¿Volver a ser dueño de su vida?}
-{158}{}{Lamento oír eso.}
+{158}{}{Siento oír eso.}
 {159}{}{Oh, vale.}
 {160}{}{Es posible que tu no lo entiendas, pero muchos de nosotros esperamos el día en el que nuestras vidas nos pertenezcan. El día en el que nuestras vidas no pertenezcan a los prestamistas o a los mercaderes.}
 {161}{}{Oh, gracias.}

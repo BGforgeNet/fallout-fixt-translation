@@ -17,7 +17,7 @@
 {116}{}{¡Hola! ¿Cómo va tu búsqueda?}
 {117}{}{Bastante bien.}
 {118}{}{No muy bien.}
-{119}{}{Uff.}
+{119}{}{Ugh.}
 {120}{}{Bien, me alegra oír eso. Sigue con el buen trabajo.}
 {121}{}{Vale.}
 {122}{}{Sabíamos que no había esperanza. No creo que consigamos un nuevo chip a tiempo. Creo que algunos de nosotros deberían ir al exterior antes de que sea demasiado tarde.}

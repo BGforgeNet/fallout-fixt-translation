@@ -15,7 +15,7 @@
 {114}{}{¿Quién haría una cosa así?}
 {115}{}{¿Qué pasó?}
 {116}{}{Algunos han sido acusados y ha habido luchas internas, pero nadie sabe lo que ha ocurrido realmente.}
-{117}{}{Vale. Gracias.}
+{117}{}{De acuerdo. Gracias.}
 {118}{}{Algunos han comentado que les han robado el agua. No les dieron más agua pero algunos amigos compartieron la suya. Tras eso, todo el mundo se puso paranoico y comenzó a vigilar su agua. Unos días más tarde, alguien dejo inconsciente al guardia de la zona de suministros y raciones, y robó raciones de agua de los armarios de suministros.}
 {119}{}{¡Eso es terrible! ¿Qué puedo hacer?}
 {120}{}{Quizás puedas frenar a quien está haciendo eso.}

@@ -53,7 +53,7 @@
 {152}{}{Gracias. ¿Podemos cambiar de tema?}
 {153}{}{Me encanta haberte sido de ayuda.}
 {154}{}{Estoy por encima del coeficiente normal en términos humanos. No obstante, sería mejor decir que solo uno entre diez billones de toda la historia de la población humana pudo alcanzar mis niveles de razonamiento.}
-{155}{}{Ah... sí.}
+{155}{}{Eh... ya.}
 {156}{}{Claro... ¿Podemos hablar de alguna otra cosa?}
 {157}{}{Las investigaciones que he realizado del Virus de Evolución Forzada o VEF, indica que es un virus de absorción rápida. Copia las muestras de ADN como ARN, almacenando estas muestras en exones.}
 {158}{}{Estos exones, combinados con el VEF, son reinyectados en las células huésped a la manera de una típica infección viral. Esto hace que las células huésped "regeneren" su ADN.}

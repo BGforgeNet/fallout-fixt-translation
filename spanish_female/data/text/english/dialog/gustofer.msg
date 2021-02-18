@@ -29,7 +29,7 @@
 {128}{}{Saúl, el puño más rápido de Ciudad Vertedero. Es puro músculo. Un luchador implacable.}
 {129}{}{Él también es un buen tipo.}
 {130}{}{Um, sí. ¿Quién lleva esos combates?}
-{131}{}{Gracias. Nos veremos.}
+{131}{}{Gracias. Hasta otra.}
 {132}{}{Gizmo, el dueño del Casino, utiliza a Saúl. De vez en cuando le gusta ver un combate o dos, pero casi siempre se trata de chapas. La gente apuesta muchas chapas en los combates. Y nadie muere, excepto en esos combates a muerte que teóricamente se mantienen en el Eje.}
 {133}{}{¿Combates a muerte?}
 {134}{}{Gracias.}

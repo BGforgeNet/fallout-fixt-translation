@@ -185,7 +185,7 @@
 {306}{}{¿Sería posible para mí hacerme con mejores armas?}
 {307}{}{Primero unas preguntitas.}
 {308}{}{No, te veré cuando averigüe que está pasando allí arriba.}
-{309}{}{Vale, adiós.}
+{309}{}{De acuerdo, adiós.}
 {310}{}{¿Cómo sabes que tus exploradores no desertaron?}
 {311}{}{Creo que he tropezado con esas criaturas que describes. No se las debe tomar a la ligera.}
 {312}{}{Perdóname, por favor. ¿Según tú, cuál es la causa de la desaparición?}

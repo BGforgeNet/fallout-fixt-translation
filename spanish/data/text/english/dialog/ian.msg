@@ -25,7 +25,7 @@
 {124}{}{Gracias. Se está curado bien, gracias a Razlo.}
 {125}{}{Seth es un luchador muy valeroso. A veces, va a las cuevas de los escorpiones rad y mata unos pocos, pero siempre acaban arreglándoselas para volver. Hay demasiados para que él solo acabe con ellos.}
 {126}{}{¿Son los escorpiones rad verdaderamente peligrosos?}
-{127}{}{¿En qué te puedo ayudar?}
+{127}{}{¿Puedo ayudarte en algo?}
 {128}{}{Hay tres grupos: los Khans, los Víboras y los Chacales. Se odian los unos a los otros pero todos hacen de las suyas en Arenas Sombrías.}
 {129}{}{Háblame más sobre Arenas Sombrías.}
 {130}{}{Tiene la confianza y el carácter tranquilo de un luchador experimentado.}

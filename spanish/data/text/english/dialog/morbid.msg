@@ -33,7 +33,7 @@
 {132}{}{Excelente. Empecemos. Esto te dolerá un poco...}
 {133}{}{Ya está. ¡Vuelve otro día!}
 {134}{}{Oh, has vuelto pronto. ¿En qué puedo ayudarte?}
-{135}{}{Necesito curarme.}
+{135}{}{Necesito que me curen.}
 {136}{}{Nada, solo quería charlar un rato.}
 {137}{}{¡Ayy!}
 {138}{}{Hazlo en otro sitio. Estoy muy ocupado.}
@@ -43,11 +43,11 @@
 {142}{}{Necesito asistencia médica.}
 {143}{}{Ayuda.}
 {144}{}{Oh, Eres tú otra vez. Me gusta tu estilo, aunque no me gustas tú. ¿En qué puedo ayudarte?}
-{145}{}{Necesito curarme.}
+{145}{}{Necesito que me curen.}
 {146}{}{Nada, solo quería charlar un rato.}
 {147}{}{¡Ayy!}
 {148}{}{Oh, ¡es un paciente! ¿En qué puedo ayudarte?}
-{149}{}{Necesito curarme.}
+{149}{}{Necesito que me curen.}
 {150}{}{Nada, solo quería charlar un rato.}
 {151}{}{Pareces emocionado por verme. ¿Por qué?}
 {152}{}{¡Ayy!}
@@ -62,7 +62,7 @@
 {161}{}{Ahh, necesito curarme.}
 {162}{}{Mmm, precios más bajos, interesante. Gracias.}
 {163}{}{Ahh, un antiguo paciente. ¡Cómo se agradece! ¿En qué puedo ayudarte?}
-{164}{}{Necesito curarme.}
+{164}{}{Necesito que me curen.}
 {165}{}{Nada, solo quería charlar un rato.}
 {166}{}{¡Ayy!}
 {167}{}{Espero que tengas una razón de peso para molestarme. Mi tiempo es muy valioso.}

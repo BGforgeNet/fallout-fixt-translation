@@ -27,7 +27,7 @@
 {126}{}{¿Quién haría una cosa así?}
 {127}{}{¿Qué pasó?}
 {128}{}{Algunos han sido acusados y empieza a haber peleas, pero nadie sabe lo que pasa realmente.}
-{129}{}{Vale. Gracias.}
+{129}{}{De acuerdo. Gracias.}
 {130}{}{Algunos dijeron que les habían robado el agua. No se les dio más agua, pero algunos amigos la compartieron con ellos. Después de eso la gente se volvió paranoica y empezó a guardar el agua. Unos días después alguien dejó inconsciente al guardia en la zona de racionamiento del suministro y robó agua.}
 {131}{}{¡Eso es terrible! ¿Qué puedo hacer?}
 {132}{}{Quizás puedas frenar a quien está haciendo eso.}

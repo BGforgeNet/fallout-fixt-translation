@@ -1,7 +1,7 @@
 {100}{}{Ves: a Mitch, el gerente de Almacenes Todo en Uno.}
 {101}{}{¿Buscas algo?}
 {102}{}{¿Qué buscas hoy?}
-{103}{}{¿En qué te puedo ayudar?}
+{103}{}{¿Puedo ayudarte en algo?}
 {104}{}{Tengo de todo, ¿qué necesitas?}
 {105}{}{¿Necesitas provisiones?}
 {106}{}{¿Quieres comprar algo?}

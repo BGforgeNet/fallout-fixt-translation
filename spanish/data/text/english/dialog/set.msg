@@ -20,7 +20,7 @@
 {119}{}{Estruja esto...}
 {120}{}{No, ¿eh?}
 {121}{Set05}{Bueno. Parece que tenemos un diamante en bruto... je... tengo unos amiguitos para ti, mi deslumbrante normalucho. Castiga a los mutantes que están en el Almacén de Agua por mí. Claro, claro, puedes hacerlo... ¿no?}
-{122}{}{Eh, vale.}
+{122}{}{Eh, está bien.}
 {123}{}{Nuh-uh.}
 {124}{Set06}{Excelente. Dales una última lección a esos mutantes, luego vuelve aquí... Mmm. Si les digo a mis necrófagos que te dejen en paz, los mutantes podrían oírlo y sospechar. Así que, es hora de que me eches una mano. Yo me callo. ¿Lo pillas?}
 {125}{}{Entendido.}
@@ -57,14 +57,14 @@
 {156}{Set16}{Mi nombre es Set. El tuyo es Todo-me-duele. Hagamos un trato, yo te cambio el mote. ¿Me estás escuchando?}
 {157}{}{Claro. Es mejor que desangrarse en el suelo.}
 {158}{}{Naaa. Trae a tus fantasmones.}
-{159}{}{Ajá.}
+{159}{}{Uh-huh.}
 {160}{}{¡Nah-ah!}
 {161}{Set17}{Date un rulo por el Almacén de Agua, haz que los mutantes duerman la siesta. Hazlo, sigues siendo un caminante. No lo haces, te irás a descansar.}
 {162}{}{Parece que estos tíos te asustan un poco, ¿quieres que hablemos de ello?}
 {163}{}{Soy un enrollado. Trato hecho.}
 {164}{}{Eres raro y hablas raro.}
 {165}{Set18}{Bien hecho. Mereces verme, caminante. Sigue a Garret para tu recompensa. Ahora. Estoy ocupado.}
-{166}{}{Vale. Gracias.}
+{166}{}{De acuerdo. Gracias.}
 {167}{}{¿Eso es todo? Gracias, y ahora, ¿te largas?}
 {168}{}{¿Mamá?}
 {169}{Set19}{Ojo antes de chillar. Lo preferirás. Sería una pena cabrearme ahora... que estoy tan contento.}
@@ -81,7 +81,7 @@
 {180}{Set22}{Los Niños de la Catedral, los del Eje, incluso nosotros, los necrófagos. Nadie puede empujar su sombra ahora. Pero nuestra luz brillará más la próxima vez. Oh, sí.}
 {181}{}{Buena suerte.}
 {182}{Set23}{Sigue a Garret y lárgate.}
-{183}{}{De acuerdo.}
+{183}{}{Eso es.}
 {184}{}{Que te den.}
 {185}{Set24}{Podrías dejar las sobras. Ahora largo, sin tu recompensa, o estarás sobre mi mesa esta noche.}
 {186}{}{Si así lo quieres.}
@@ -156,7 +156,7 @@
 {255}{}{Se me han acabado los culos que patear y he pensado en tu cara.}
 {256}{}{Eh. Maestro hacer ¡pum!}
 {257}{Set52a}{¿Quieres decir muerto?}
-{258}{}{Ajá.}
+{258}{}{Uh-huh.}
 {259}{Set53}{Gustito. Reconforta. Tus necesidades son mis deseos. Nómbralas.}
 {260}{}{Necesito información acerca de los Tanques.}
 {261}{}{Podría necesitar más armas y equipo.}

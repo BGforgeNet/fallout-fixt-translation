@@ -61,7 +61,7 @@
 {160}{Harry_26}{Eh, Harry oír sobre ti. ¡Tú romper los Tanques!}
 {161}{}{Ajá. Y ahora te toca a ti.}
 {162}{}{Sí, ese soy yo. ¿Qué vas a hacer al respecto?}
-{163}{}{Ajá.}
+{163}{}{Uh-huh.}
 {164}{Harry_27}{Ehh, yo dejar ir. ¿De acuerdo? ¿Tú cara no más aquí? ¿Por favor?}
 {165}{}{No es suficiente.}
 {166}{}{Adiós. Espero no volver a verte.}

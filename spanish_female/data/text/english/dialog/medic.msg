@@ -12,7 +12,7 @@
 {111}{}{Hmm... Ah. Sí. Mira lo que he encontrado. Úsalas cuando necesites un empujón.}
 {112}{}{Bueno, sigue trabajando así de bien. Y házmelo saber si necesitas algo.}
 {113}{}{¿Qué puedo hacer por ti?}
-{114}{}{Necesito curarme.}
+{114}{}{Necesito que me curen.}
 {115}{}{Necesito algunas drogas.}
 {116}{}{Necesito algunos estimulantes más.}
 {117}{}{¡D'oh!}

@@ -8,7 +8,7 @@
 {107}{}{Mejor me voy.}
 {108}{}{¿Na-ah?}
 {109}{Kill0a}{¿Quieres comprar algo, amigo?}
-{110}{}{Ajá.}
+{110}{}{Uh-huh.}
 {111}{}{Nuh-uh.}
 {112}{Kill1m}{Bienvenido a Ciudad Vertedero, forastero. ¿En qué puedo ayudarte?}
 {113}{Kill1f}{Hola, cariño. ¿Qué puedo ofrecerte?}

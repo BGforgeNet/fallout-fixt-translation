@@ -7,7 +7,7 @@
 {106}{}{Mi nombre no es importante.}
 {107}{}{Cuidado, }
 {108}{}{, puede que te hagas daño. Un ejército de mutantes malos han venido a este lugar y han hecho un gran bum. ¿Ves?}
-{109}{}{Ajá.}
+{109}{}{Uh-huh.}
 {110}{}{Ves. Así que lo mejor será que busques otro lugar. Este no es seguro.}
 {111}{}{Yo ir.}
 {112}{}{Mutantes. Era un ejército realmente grande. Vinieron y mataron a todo el mundo, cogieron todo lo que pudieron e hicieron pedazos este sitio.}
@@ -24,7 +24,7 @@
 {123}{}{. Si te encuentras con algún superviviente es tus viajes, diles lo que ha pasado aquí.}
 {124}{}{Alto ahí... Oh, eres tú, }
 {125}{}{.}
-{126}{}{Ajá.}
+{126}{}{Uh-huh.}
 {127}{}{Sí, soy yo. ¿Qué ha pasado aquí?}
 {130}{}{Adiós, }
 {131}{}{. Si te encuentras con algunos de nuestros compañeros de la Hermandad, diles lo que ha pasado aquí.}

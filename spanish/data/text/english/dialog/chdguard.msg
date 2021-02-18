@@ -89,7 +89,7 @@
 {188}{}{Qué gracioso. Pensé que había visto algunos de ellos en la calle intentando terminar con las bandas.}
 {189}{}{¿Atacaron a los Navajas?}
 {190}{}{¿Qué le sucedió a Adytum?}
-{191}{}{¡Muere, escoria!}
+{191}{}{¡Muere, basura!}
 {192}{}{Aquellos perdedores son agua pasada.}
 {193}{}{Eso está bien. Bueno, adiós.}
 {194}{}{Y ahora tú también.}

@@ -60,7 +60,7 @@
 {159}{}{Me parece bien.}
 {160}{}{¡Ahora acabaré con esta filtración de los Seguidores!}
 {161}{}{Entonces mala suerte.}
-{162}{}{¿Qué te gustaría saber?}
+{162}{}{¿Qué es lo que quieres saber?}
 {163}{}{¿Quién es el líder?}
 {164}{}{¿Por qué estáis atacando a los Niños?}
 {165}{}{¿Dónde puedo conseguir primeros auxilios?}

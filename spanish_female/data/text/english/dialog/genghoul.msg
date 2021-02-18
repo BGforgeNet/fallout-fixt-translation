@@ -1,6 +1,6 @@
 {100}{}{Estás viendo un necrófago zombi.}
 {101}{}{Ves: Zombi.}
-{102}{}{Uff.}
+{102}{}{Ugh.}
 {103}{}{Ceeereebrooos}
 {104}{}{Buuuu...}
 {105}{}{Uuhnnng...}

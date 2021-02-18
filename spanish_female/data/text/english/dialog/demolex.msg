@@ -41,7 +41,7 @@
 {140}{}{Pensé que haría, usted gusano.}
 {141}{}{Tal vez, pero las acciones hablan más fuerte que las palabras.}
 {142}{}{Usted va a ver.}
-{143}{}{¿En qué te puedo ayudar?}
+{143}{}{¿Puedo ayudarte en algo?}
 {144}{}{Cuéntame sobre el generador de energía.}
 {145}{}{Háblame de las Criptas.}
 {146}{}{Me dicen acerca de los Necios.}

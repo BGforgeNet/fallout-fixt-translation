@@ -2,7 +2,7 @@
 {101}{}{¿Qué haces aquí?}
 {102}{}{¡Chungo!}
 {103}{}{Aa-dióós.}
-{104}{}{Solo estoy mirando.}
+{104}{}{Tan sólo estoy echando un vistazo.}
 {105}{}{¡Vengo a matarte!}
 {106}{}{Solo tengo curiosidad de lo que pasa por aquí.}
 {107}{}{¿De verdad? ¿Y qué es lo que estás buscando?}

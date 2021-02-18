@@ -70,7 +70,7 @@
 {169}{}{Viajera, has cometido un grave error. Necesitábamos pruebas para poder acabar con Gizmo legalmente y de buena manera. Mira, de modo extraoficial te diré que me alegro de que ese gordinflón esté fuera de combate. Pero, no podemos admitir asesinatos. Mejor será que te vayas de Ciudad Vertedero y no vuelvas nunca.}
 {170}{}{No nos gustan las tipas como tú. Tienes quince segundos antes de que te vuele la tapa de los sesos.}
 {171}{}{¡Hola otra vez! ¿Qué puedo hacer por ti?}
-{172}{}{Ajá.}
+{172}{}{Uh-huh.}
 {173}{}{Nuh-uh.}
 {174}{}{Ganas 500 puntos de experiencia por participar en la destrucción de la banda de los Kalaveras.}
 {1000}{}{Gizmo}

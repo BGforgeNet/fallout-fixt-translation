@@ -18,7 +18,7 @@
 {117}{}{Oh, querido, soy demasiado joven para morir.}
 {118}{}{Gracias por lo que hiciste. Nadie se había ocupado antes así de mí.}
 {119}{}{Luego me ocuparé de ti de verdad.}
-{120}{}{De nada.}
+{120}{}{No hay de qué.}
 {121}{}{Unh.}
 {122}{}{Gracias otra vez.}
 {123}{}{¿Eso es todo en lo que sabes pensar? ¡Vaya con la gente!}

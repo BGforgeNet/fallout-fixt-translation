@@ -18,7 +18,7 @@
 {117}{MORP05A}{Eres una mentirosa patética. Dime la verdadera razón de tu presencia ahora mismo... si no quieres que te arranque el pellejo. }
 {118}{}{¡No, de verdad! ¡Me he perdido!}
 {119}{}{All right, you got me. I'm here to offer you a deal.}
-{120}{}{Solo estoy mirando.}
+{120}{}{Tan sólo estoy echando un vistazo.}
 {121}{MORP06}{Sospecho que eres una espía enviada por los Seguidores. Puede que me equivoque, pero no pienso arriesgarme. Debes ser eliminada. }
 {122}{MORP07}{ ¿Qué me puedes ofrecer? }
 {123}{}{Vengo de un Refugio. Sabes lo que es, ¿verdad?}

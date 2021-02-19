@@ -51,7 +51,7 @@
 {150}{}{Yo ir.}
 {151}{}{Veamos lo qué tienes.}
 {152}{}{Vete al infierno. Voy a donde quiero, ¡y cuando quiero!}
-{153}{}{Me voy.}
+{153}{}{Me marcho.}
 {154}{}{¡¿Qué demonios estás haciendo aquí?!}
 {155}{}{No llevo ninguno. Y los que me encuentro, me los quedo para mí. Si subes esta calle, encontrarás a un tipo que quizás pueda ayudarte. Se llama Vance. No le hagas muchas preguntas sobre él. Digamos que es su área de competencia. Dile que Jacob te envió, él ya sabe lo que tiene que hacer.}
 {156}{}{¿Cómo funciona un contador Geiger?}

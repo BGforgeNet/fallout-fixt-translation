@@ -16,7 +16,7 @@
 {205}{}{Esto va a llevar un tiempo.}
 {206}{}{¡Ese es el problema!}
 {207}{}{John, creo que he aislado el problema.}
-{208}{}{¡Mierda!}
+{208}{}{¡Maldición!}
 {209}{}{¡Mecachis!}
 {210}{}{¡Es culpa mía!}
 {211}{}{Estoy bien.}

@@ -611,7 +611,7 @@
 {2034}{}{¡Ahhh! ¡Mi brazo!}
 {2035}{}{¡Nooooo...!}
 {2036}{}{¡Creo que me lo has roto!}
-{2037}{}{¡Mierda!}
+{2037}{}{¡Maldición!}
 {2038}{}{Eso me ha dolido mucho...}
 {2039}{}{¡Agh!}
 {2040}{}{¡Ay!}
@@ -632,7 +632,7 @@
 {2055}{}{No... puedo... respirar...}
 {2056}{}{Oh no...}
 {2057}{}{Me duele, me duele...}
-{2058}{}{¡Mierda!}
+{2058}{}{¡Maldición!}
 {2100}{}{¡Me voy!}
 {2101}{}{¡Piedad! ¡Misericordia!}
 {2102}{}{¡Para, por favor!}
@@ -1281,7 +1281,7 @@
 {3225}{}{Arenas Sombrías no se rinde ni muere por nadie}
 {3226}{}{}
 {3227}{}{Ese fue tu último error}
-{3228}{}{¡Mierda!}
+{3228}{}{¡Maldición!}
 {3229}{}{¡Aggghhh!}
 {3230}{}{¡Mi cara, mi cara!}
 {3231}{}{¡Ahhh! ¡Mi brazo!}
@@ -1605,7 +1605,7 @@
 {3739}{}{Tengo que acordarme de devolverte este dolor algún día}
 {3740}{}{¡Uf!}
 {3741}{}{}
-{3742}{}{¡Mierda!}
+{3742}{}{¡Maldición!}
 {3743}{}{¡Maldito idiota!}
 {3744}{}{}
 {3745}{}{[Jadea fuertemente]}
@@ -1796,7 +1796,7 @@
 {4055}{}{¡No veo!}
 {4056}{}{¡Ohhhhh, la ingle!}
 {4057}{}{}
-{4058}{}{¡Mierda!}
+{4058}{}{¡Maldición!}
 {4059}{}{No... puedo... respirar...}
 {4060}{}{}
 {4061}{}{¡Novato!}
@@ -1890,7 +1890,7 @@
 {4225}{}{Ahora me toca a mí}
 {4226}{}{Acabas de cometer un grave error}
 {4227}{}{}
-{4228}{}{¡Mierda!}
+{4228}{}{¡Maldición!}
 {4229}{}{}
 {4230}{}{Creo que tengo la nariz destrozada}
 {4231}{}{¡Mi brazo!}
@@ -3006,7 +3006,7 @@
 {6025}{}{}
 {6026}{}{}
 {6027}{}{Lamentable}
-{6028}{}{¡Mierda!}
+{6028}{}{¡Maldición!}
 {6029}{}{¡Mi pobre cráneo dolorido!}
 {6030}{}{¡Mi cara, mi cara!}
 {6031}{}{¡Ahhh! ¡Mi brazo!}
@@ -3268,7 +3268,7 @@
 {6439}{}{[Jadea fuertemente]}
 {6440}{}{[Jadea fuertemente] Necesito... aire...}
 {6441}{}{Voy a escupir en tu cadáver, ¡mamón!}
-{6442}{}{¡Mierda!}
+{6442}{}{¡Maldición!}
 {6443}{}{¡Uf!}
 {6444}{}{¡Ese ha sido un golpe bajo!}
 {6445}{}{¡Uf!}

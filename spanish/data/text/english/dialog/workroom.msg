@@ -6,7 +6,7 @@
 {105}{}{Esto va a llevar un tiempo.}
 {106}{}{¡Ese es el problema!}
 {107}{}{John, creo que he aislado el problema.}
-{108}{}{¡Mierda!}
+{108}{}{¡Maldición!}
 {109}{}{¡Mecachis!}
 {110}{}{¡Es culpa mía!}
 {111}{}{Estoy bien.}

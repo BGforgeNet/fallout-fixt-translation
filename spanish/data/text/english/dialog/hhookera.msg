@@ -57,7 +57,7 @@
 {156}{}{Vete antes de que me enfade.}
 {157}{}{Búscate a otra.}
 {158}{}{Ésta es mía.}
-{159}{}{¡Mierda!}
+{159}{}{¡Maldición!}
 {160}{}{¿Estás de broma?}
 {161}{}{Tendría que haber ganado yo.}
 {162}{}{¡Por los pelos!}

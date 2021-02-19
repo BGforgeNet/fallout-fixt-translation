@@ -17,7 +17,7 @@
 {116}{}{Demuestras mucho valor asomando el pescuezo por aquí. ¡Piérdete!}
 {117}{}{Eh, ¡no quiero líos!}
 {118}{}{¡Hola! Bienvenido al Delicias de Iguana propiedad de Bob, un lugar de reunión para toda la familia. ¿Qué deseas?}
-{119}{}{Que te jodan.}
+{119}{}{Vete a la mierda.}
 {120}{}{¿Eres? Bueno, vale...}
 {121}{}{Es un maldito hijo de perra. No te metas con él. ¿Algo más?}
 {122}{}{Bien. ¿Cuánto quieres que te pague?}

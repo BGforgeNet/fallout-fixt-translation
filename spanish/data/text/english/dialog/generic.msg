@@ -421,12 +421,12 @@
 {9019}{}{Sr. Mañoso está programado para usar armas de energía y ametralladoras.}
 {10000}{}{Dime algo.}
 {10001}{}{Deberías curarte ahora.}
-{10002}{}{Necesito que me esperes aquí hasta que vuelva.}
-{10003}{}{Quítate tus armas.}
-{10004}{}{Quédate cerca de mí.}
+{10002}{}{Necesito que esperes aquí hasta que vuelva.}
+{10003}{}{Guarda tu arma.}
+{10004}{}{Quedarse cerca de mí.}
 {10005}{}{No te alejes demasiado.}
 {10006}{}{Deberíamos separarnos un poco.}
-{10007}{}{Eso es todo por ahora.}
+{10007}{}{Esto es todo por ahora.}
 {10008}{}{Tenemos que cambiar la distancia que hay entre nosotros.}
 {10009}{}{Tengo que hablar contigo acerca de tu equipo.}
 {10010}{}{Pensándolo mejor, creo que esta distancia está bien por ahora.}

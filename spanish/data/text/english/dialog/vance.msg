@@ -27,7 +27,7 @@
 {126}{}{Solo pasaba por aquí.}
 {127}{}{Siento oír eso. Ahora vete.}
 {128}{}{¡NO!}
-{129}{}{Me voy.}
+{129}{}{Me marcho.}
 {130}{}{Son Justin y Chad. Están aquí para asegurarse de que nadie causa ningún problema.}
 {131}{}{Parecen una pareja de mariquitas.}
 {132}{}{Me alegro de conoceros, chicos.}

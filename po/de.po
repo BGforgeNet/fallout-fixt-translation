@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-02-21 17:19+0000\n"
+"PO-Revision-Date: 2021-02-22 14:12+0000\n"
 "Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -68,7 +68,7 @@ msgstr "Auch im 21. Jahrhundert führte man noch immer Krieg wegen Ressourcen"
 
 #: data/text/english/cuts/intro.sve:1860
 msgid "that could be acquired."
-msgstr ""
+msgstr ", die noch verfügbar waren."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:1900 data/text/english/cuts/narrate.txt:8
@@ -132,19 +132,19 @@ msgstr "Deine Familie war teil der Gruppe, die Vault 13 betrat."
 
 #: data/text/english/cuts/intro.sve:2630
 msgid "Imprisioned safely behind the large Vault door,"
-msgstr ""
+msgstr "Sicher eingeschlossen hinter den großen Türen des Vaults,"
 
 #: data/text/english/cuts/intro.sve:2675
 msgid "under a mountain of stone,"
-msgstr ""
+msgstr "unter einen Berg aus Stein,"
 
 #: data/text/english/cuts/intro.sve:2710
 msgid "a generation has lived without knowledge of the outside world."
-msgstr ""
+msgstr "eine ganze Generation lebte ohne das Wissen um die Welt außerhalb."
 
 #: data/text/english/cuts/intro.sve:2790
 msgid "Life in the Vault is about to change."
-msgstr ""
+msgstr "Aber das Leben im Vault ist dabei sich zu verändern."
 
 #. LEAVE empty space in translation
 #: data/text/english/cuts/intro.sve:2860
@@ -4701,67 +4701,70 @@ msgstr ""
 #: data/text/english/game/scrname.msg:1071
 #: data/text/english/game/scrnset.msg:60
 msgid " "
-msgstr ""
+msgstr "."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_2.txt:1
 msgid "You are taken away, and slowly returned to normal Vault life."
 msgstr ""
+"Du wurdest wegschafft und kehrst langsam wieder zum normalen Leben im Vault "
+"zurück."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_2.txt:2
 msgid "But a month later, disaster strikes."
-msgstr ""
+msgstr "Aber einen Monat später beginnt die Katastrophe."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_3.txt:1
 msgid "Your bones are scraped clean by the desolate wind."
-msgstr ""
+msgstr "Deine Knochen sind sauber geschabt vom kargen Wind."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_3.txt:2
 msgid "Your Vault will now surely die, as you have."
-msgstr ""
+msgstr "Nun wird dein Vault sicher sterben, genau wie du."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_4.txt:1
 msgid "The darkness of the afterlife is all that awaits you now."
-msgstr ""
+msgstr "Die Dunkelheit nach dem Tod ist alles, was dich jetzt erwartet."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_4.txt:2
 msgid "May you find more peace in that world then you found in this one..."
-msgstr ""
+msgstr "Mögest du in der Welt mehr Frieden finden als in dieser..."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_5.txt:1
 msgid "Not even the carrion eaters are interested in your radiated corpse."
 msgstr ""
+"Nicht mal die Aasfresser sind an deinen verstrahlten Leichnam interessiert."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_6.txt:1
 msgid "Your life ends in the wasteland."
-msgstr ""
+msgstr "Dein Leben endet im Ödland."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:1
 msgid "The radiation has taken its toll."
-msgstr ""
+msgstr "Die Strahlung hat ihren Tribut gefordert."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:2
 msgid "Your death was lingering and extremely painful."
-msgstr ""
+msgstr "Dein Tod war schleichend und extrem schmerzhaft."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:3
 msgid "Your adventure is done."
-msgstr ""
+msgstr "Dein Abenteuer ist geschafft."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_8.txt:1
 msgid "You fought valiantly, but to no avail.  "
-msgstr ""
+msgstr "Du hast heldenhaft gekämpft, aber ohne Nutzen."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_8.txt:2
@@ -4769,16 +4772,18 @@ msgid ""
 "Your twisted and ruined body goes down in a hail of bullets, and thus ends "
 "your life in the wasteland."
 msgstr ""
+"Dein verrenkter und zerstörter Körper geht in einem Kugelhagel zu Boden, und "
+"so endet dein Leben im Ödland."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:1
 msgid "It is done."
-msgstr ""
+msgstr "Es ist geschafft."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:2
 msgid "Vault Thirteen belongs to the Unity and the Master."
-msgstr ""
+msgstr "Vault 13 gehört zur Einheit und dem Master."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:3
@@ -4786,12 +4791,16 @@ msgid ""
 "Your knowledge of the Vault defenses saved many mutant lives during the "
 "attack."
 msgstr ""
+"Deine Kenntnisse über die Verteidigungsanlagen des Vaults retteten vielen "
+"Mutanten während des Angriffs das Leben."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:4
 msgid ""
 "You personally made the final kill when you took the life of the Overseer."
 msgstr ""
+"Du selbst hast die letzte Tötung durchgeführt, als du dem Aufseher das Leben "
+"nahmst."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:5
@@ -4799,16 +4808,18 @@ msgid ""
 "You will certainly become one of the finest soldiers for the Unity, and your"
 " skills will see you rewarded often in the future."
 msgstr ""
+"Du wirst sicherlich einer der besten Soldaten der Einheit werden und deine "
+"Fähigkeiten werden dir auch in der Zukunft noch hilfreich sein."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:6
 msgid "You are happy."
-msgstr ""
+msgstr "Du freust dich."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:7
 msgid "But there remains the tiniest doubt of what could have been..."
-msgstr ""
+msgstr "Aber übrig bleibt der winzige Zweifel, was hätte sein können..."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_10.txt:1
@@ -4816,6 +4827,8 @@ msgid ""
 "You managed to destroy the Vats, then you killed the Master before he could "
 "realize his twisted plans."
 msgstr ""
+"Du hast es geschafft, die Bottiche zu zerstören, dann hast du den Meister "
+"getötet, bevor er seine verdrehten Pläne durchführen konnte."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_10.txt:2
@@ -4823,6 +4836,8 @@ msgid ""
 "With the Master gone, his armies flee to the east in fear of retribution "
 "from the remaining normals."
 msgstr ""
+"Ihres Anführers beraubt, fliehen die Armeen nach Osten, um der Vergeltung "
+"durch die überlebenden Normalen zu entkommen."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_11.txt:1
@@ -4831,6 +4846,9 @@ msgid ""
 "dream of conquest and enforced peace, but it is the destruction of the Vats "
 "that neutralizes the mutant threat."
 msgstr ""
+"Der Tod des Meisters war der erste Schritt, seine Pläne von Eroberung und "
+"erzwungenem Frieden zu stoppen, aber erst die Zerstörung der Container bannt "
+"die Gefahr durch die Mutanten."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_11.txt:2
@@ -4838,6 +4856,9 @@ msgid ""
 "Without the ability to create more mutants and enforce their harsh brand of "
 "justice, the mutant armies flee to the east, beyond the no-man's land."
 msgstr ""
+"Der Möglichkeit beraubt, neue Mutanten zu erschaffen und so ihre brutale "
+"Gerechtigkeit durchzusetzen, fliehen die Mutantenarmeen nach Osten, hinter "
+"das Niemandsland."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_12.txt:1
@@ -4845,11 +4866,13 @@ msgid ""
 "The ghouls of Necropolis learn firsthand the final meaning of dehydration, "
 "as their city succumbs to the desert sands and the water runs out."
 msgstr ""
+"Die Ghuls von Necropolis erfahren am eigenen Leib, was Austrocknen bedeutet, "
+"da ihre Stadt der Wüste zum Opfer fällt und das Wasser ausgeht."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_12.txt:2
 msgid "Without their water purifying control chip, they do not survive."
-msgstr ""
+msgstr "Ohne den Steuerchip zur Wasserreinigung können sie nicht überleben."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_13.txt:1
@@ -4857,17 +4880,22 @@ msgid ""
 "The ghouls of Necropolis learn how to maintain the repaired water pump,  and"
 " eventually rediscover many lost secrets of engineering."
 msgstr ""
+"Die Ghuls von Necropolis lernen den Umgang mit der reparierten Wasserpumpe "
+"und entdecken nach und nach weitere, verloren geglaubte technische "
+"Geheimnisse."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_13.txt:2
 msgid "They form a business selling this technology to other towns."
 msgstr ""
+"Sie machen es zu ihrem Gewerbe, diese Technik an andere Städte zu verkaufen."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_15.txt:1
 msgid ""
 "The mutant attack on Necropolis spares none of the ghoulish inhabitants."
 msgstr ""
+"Beim Angriff der Mutanten auf Necropolis bleibt keiner der Ghuls am Leben."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_15.txt:2
@@ -4881,11 +4909,14 @@ msgid ""
 "The Followers of the Apocalypse rise to become a major influence in New "
 "California."
 msgstr ""
+"Die Followers of the Apocalypse werden zu einer wichtigen Macht in New "
+"California."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_16.txt:2
 msgid "With your help, they gain control of the L.A. Boneyard."
 msgstr ""
+"Mit deiner Hilfe konnten sie die Kontrolle über die L.A. Boneyard erlagen."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_18.txt:1
@@ -4893,11 +4924,15 @@ msgid ""
 "The mutant armies, led into battle by the fierce Super Mutants, destroy the "
 "Followers of the Apocalypse."
 msgstr ""
+"Unter der Führung der wilden Supermutanten vernichten die Mutantenarmeen die "
+"Followers of the Apocalypse."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_18.txt:2
 msgid "Barely human carrion feeders pick over the Followers' remains."
 msgstr ""
+"Aasfresser, die kaum noch menschlich sind, stürzen sich auf die Überreste "
+"der Followers."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_19.txt:1
@@ -4905,6 +4940,8 @@ msgid ""
 "In Shady Sands, Tandi helps her father Aradesh bring a new community and new"
 " life out of the broken remains of the world."
 msgstr ""
+"In Shady Sands hilft Tandi ihrem Vater Aradesh dabei, aus den zerstörten "
+"Resten der Welt eine neue Gemeinschaft und ein neues Leben aufzubauen."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_19.txt:2
@@ -4912,6 +4949,8 @@ msgid ""
 "They are responsible for the New California Republic, whose ideals spread "
 "across the land."
 msgstr ""
+"Sie sind verantwortlich für die New California Republic, deren Ideale sich "
+"im ganzen Land ausbreiten."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_20.txt:1
@@ -4920,12 +4959,17 @@ msgid ""
 "Sands into a respected community which is prosperous for many years, before "
 "his untimely death at the hands of a Desert Raider."
 msgstr ""
+"Aradesh trauert um seine ermordete Tochter Tandi, doch schließlich macht er "
+"aus Shady Sands eine angesehene Gemeinschaft, die jahrelang erfolgreich ist, "
+"bis er vorzeitig durch die Hand eines Desert Raiders den Tod findet."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_21.txt:1
 msgid ""
 "Tandi takes control of Shady Sands after the death of her father, Aradesh."
 msgstr ""
+"Nach dem Tod ihres Vaters Aradesh übernimmt Tandi die Führung von Shady "
+"Sands."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_21.txt:2
@@ -4942,6 +4986,8 @@ msgid ""
 "With Aradesh dead, and Tandi missing or killed, Shady Sands needs a new "
 "leader."
 msgstr ""
+"Nach dem Tod von Aradesh, und Tandi tot oder verschollen, braucht Shady "
+"Sands einen neuen Anfrührer."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_22.txt:2
@@ -4958,6 +5004,8 @@ msgid ""
 "Shortly afterwards, the Raiders regroup and attack Shady Sands, burning the "
 "small community to the ground."
 msgstr ""
+"Wenig später formieren sich die Raiders wieder und greifen Shady Sands an. "
+"Sie legen die kleine Gemeinde in Schutt und Asche."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_23.txt:1
@@ -4965,6 +5013,8 @@ msgid ""
 "The mutant army marches as far north as Shady Sands, razing the small town "
 "to the ground."
 msgstr ""
+"Die Armee der Mutanten marschiert nach Norden bis Shady Sands und macht die "
+"Stadt dem Erdboden gleich."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_24.txt:1
@@ -4972,11 +5022,13 @@ msgid ""
 "Killian Darkwater takes firm control of Junktown, drives out the last of "
 "Gizmo's kind, and then enforces his own brand of frontier justice."
 msgstr ""
+"Killian Darkwater hat Junktown fest im Griff. Er vertreibt die letzten "
+"Anhänger Gizmos und setzt seine eigene Grenzlandgerechtigkeit durch."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_24.txt:2
 msgid "Life is fair and safe under his law."
-msgstr ""
+msgstr "Das Leben ist fair und sicher unter seinem Gesetz."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_25.txt:1
@@ -6365,7 +6417,7 @@ msgstr ""
 
 #: data/text/english/dialog/alex.msg:103
 msgid "Halt! Who goes there?"
-msgstr ""
+msgstr "Halt! Wer ist da?"
 
 #: data/text/english/dialog/alex.msg:104
 msgid "I'm just a traveler. I'd like to come inside."
@@ -6437,7 +6489,7 @@ msgstr ""
 #: data/text/english/dialog/hhookera.msg:401
 #: data/text/english/game/proto.msg:678
 msgid "Woof!"
-msgstr ""
+msgstr "Wuff!"
 
 #: data/text/english/dialog/alldogs.msg:104
 msgid "It seems that you have made a friend of this dog."
@@ -18683,7 +18735,7 @@ msgstr ""
 #: data/text/english/dialog/killian.msg:236
 #: data/text/english/dialog/set.msg:144
 msgid "Done."
-msgstr ""
+msgstr "Fertig."
 
 #: data/text/english/dialog/cheater.msg:221
 msgid "[Grinning Visciously] I was happy to 'help' you."
@@ -21338,7 +21390,7 @@ msgstr ""
 
 #: data/text/english/dialog/cougar.msg:101
 msgid "How's it going?"
-msgstr ""
+msgstr "Wie läuft es?"
 
 #: data/text/english/dialog/cougar.msg:102
 msgid "Good, and you?"
@@ -30044,7 +30096,7 @@ msgstr ""
 #: data/text/english/dialog/folguard.msg:122
 #: data/text/english/dialog/folscout.msg:122
 msgid "Me kill!"
-msgstr ""
+msgstr "Ich töten!"
 
 #: data/text/english/dialog/folguard.msg:124
 #: data/text/english/dialog/folscout.msg:124
@@ -31681,7 +31733,7 @@ msgstr ""
 #: data/text/english/dialog/gar2.msg:102
 #: data/text/english/dialog/guard2.msg:102
 msgid "Good job!"
-msgstr ""
+msgstr "Gute Arbeit!"
 
 #: data/text/english/dialog/gar2.msg:103
 #: data/text/english/dialog/guard2.msg:103
@@ -35352,7 +35404,7 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:5400
 msgid "Stay away from there."
-msgstr ""
+msgstr "Bleib weg da."
 
 #: data/text/english/dialog/generic.msg:9000
 msgid "Repairs Complete."
@@ -37212,7 +37264,7 @@ msgstr ""
 
 #: data/text/english/dialog/genvault.msg:120
 msgid "It's good to see you again."
-msgstr ""
+msgstr "Es ist schön, dich wiederzusehen."
 
 #: data/text/english/dialog/genvault.msg:121
 msgid "I'm glad you are doing well."
@@ -44555,7 +44607,7 @@ msgstr ""
 #: data/text/english/dialog/romero.msg:134
 #: data/text/english/dialog/vinnie.msg:142
 msgid "No way."
-msgstr ""
+msgstr "Niemals."
 
 #: data/text/english/dialog/heather.msg:170
 msgid ""
@@ -48042,7 +48094,7 @@ msgstr ""
 
 #: data/text/english/dialog/ian.msg:157
 msgid "Deal."
-msgstr ""
+msgstr "Deal."
 
 #: data/text/english/dialog/ian.msg:159
 msgid "How about a piece of the action, instead?"
@@ -60189,7 +60241,7 @@ msgstr ""
 #: data/text/english/dialog/romero.msg:145
 #: data/text/english/dialog/sarah.msg:102
 msgid "Tough luck."
-msgstr ""
+msgstr "Pech gehabt."
 
 #: data/text/english/dialog/leader.msg:201
 msgid "Can't the water pump be repaired?"
@@ -77418,7 +77470,7 @@ msgstr ""
 
 #: data/text/english/dialog/prisonr.msg:116
 msgid "No prob."
-msgstr ""
+msgstr "Kein Ding."
 
 #: data/text/english/dialog/prisonr.msg:117
 msgid "Where does the water come from?"
@@ -85168,7 +85220,7 @@ msgstr ""
 
 #: data/text/english/dialog/seth.msg:105
 msgid "Bye-bye."
-msgstr ""
+msgstr "Bye-bye."
 
 #: data/text/english/dialog/seth.msg:106
 msgid ""
@@ -100820,7 +100872,7 @@ msgstr ""
 #: data/text/english/game/combat.msg:5010
 #: data/text/english/game/combat.msg:5110
 msgid ", leaving a big bruise"
-msgstr " und hinterlässt einen großen blauen Fleck"
+msgstr "und hinterlässt einen großen blauen Fleck"
 
 #: data/text/english/game/combat.msg:5011
 msgid ", crippling the left arm"
@@ -100828,7 +100880,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5012
 msgid ", leaving the left arm dangling by the skin"
-msgstr " und lässt den Arm nur noch an Hautfetzen baumeln"
+msgstr "und lässt den Arm nur noch an Hautfetzen baumeln"
 
 #: data/text/english/game/combat.msg:5013
 #: data/text/english/game/combat.msg:5113
@@ -100837,7 +100889,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5014
 msgid ", leaving a crippled right arm"
-msgstr " und hinterlässt einen verstümmelten rechten Arm"
+msgstr "und hinterlässt einen verstümmelten rechten Arm"
 
 #: data/text/english/game/combat.msg:5015
 msgid ". His right arm is pulverized by this powerful blow"
@@ -101183,7 +101235,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5306
 msgid ", causing the giant to spend a moment cursing the universe"
-msgstr " und lässt den Mutanten einen Augenblick lang das Universum verfluchen"
+msgstr "und lässt den Mutanten einen Augenblick lang das Universum verfluchen"
 
 #: data/text/english/game/combat.msg:5307
 msgid ", striking a nerve and forcing the giant to grab his arm in pain"
@@ -101227,11 +101279,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5316
 msgid ", nearly blinding the mutant"
-msgstr " und lässt den Mutanten fast erblinden"
+msgstr "und lässt den Mutanten fast erblinden"
 
 #: data/text/english/game/combat.msg:5317
 msgid ", blinding the now-furious mutant"
-msgstr " und lässt den wütenden Mutanten erblinden"
+msgstr "und lässt den wütenden Mutanten erblinden"
 
 #: data/text/english/game/combat.msg:5318
 msgid ", not quite blinding the mutant but throwing him off balance"
@@ -101243,7 +101295,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5320
 msgid ", blinding the now-unconscious mutant"
-msgstr " und lässt den bewusstlosen Mutanten erblinden"
+msgstr "und lässt den bewusstlosen Mutanten erblinden"
 
 #: data/text/english/game/combat.msg:5321
 msgid ""
@@ -101396,7 +101448,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5612
 msgid ", almost penetrating to the brain, but blinding the creature instead"
-msgstr " und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden"
+msgstr "und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden"
 
 #: data/text/english/game/combat.msg:5613
 msgid ""
@@ -101457,12 +101509,12 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5710
 msgid ", putting a big hole in the left leg"
-msgstr " und hinterlässt ein großes Loch im linken Bein"
+msgstr "und hinterlässt ein großes Loch im linken Bein"
 
 #: data/text/english/game/combat.msg:5711
 msgid ", doing some extra damage due to the sensitive location"
 msgstr ""
-" und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle "
+"und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle "
 "handelt"
 
 #: data/text/english/game/combat.msg:5712
@@ -101697,7 +101749,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6210
 msgid ", blinding the insect with an accurate blow"
-msgstr " und lässt das Insekt mit einem präzisen Schlag erblinden"
+msgstr "und lässt das Insekt mit einem präzisen Schlag erblinden"
 
 #: data/text/english/game/combat.msg:6300
 msgid ". Even this beast seems fazed by that stunning attack"
@@ -101839,7 +101891,7 @@ msgid ""
 ", slipping past your armor. You stand stunned as your realize you cannot see"
 " anymore"
 msgstr ""
-" und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr "
+"und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr "
 "sehen kannst"
 
 #: data/text/english/game/combat.msg:6522
@@ -101852,7 +101904,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6523
 msgid ", making you cringe"
-msgstr " und lässt dich zusammenzucken"
+msgstr "und lässt dich zusammenzucken"
 
 #: data/text/english/game/combat.msg:6524
 msgid ". You cup your groin and fall to the floor in pain"
@@ -102764,7 +102816,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:8047
 #: data/text/english/game/combatai.msg:8050
 msgid "Ow, my leg!"
-msgstr ""
+msgstr "Au, mein Bein!"
 
 #: data/text/english/game/combatai.msg:1145
 msgid "Take my leg, I'll take your life"
@@ -103120,7 +103172,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:8231
 #: data/text/english/game/combatai.msg:8234
 msgid "Ow, my arm!"
-msgstr ""
+msgstr "Au, mein Arm!"
 
 #: data/text/english/game/combatai.msg:1236
 msgid "I can get it reattached"
@@ -104851,7 +104903,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:6031
 #: data/text/english/game/combatai.msg:6034
 msgid "Aggghhh! My arm!"
-msgstr ""
+msgstr "Aggghhh! Mein Arm!"
 
 #: data/text/english/game/combatai.msg:2032
 msgid "Ow, ow, ow!"
@@ -104888,7 +104940,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:6047
 #: data/text/english/game/combatai.msg:6050
 msgid "Aggghhh! My leg!"
-msgstr ""
+msgstr "Aggghhh! Mein Bein!"
 
 #: data/text/english/game/combatai.msg:2045
 msgid "I need a chair"
@@ -105347,7 +105399,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:5254
 #: data/text/english/game/combatai.msg:5454
 msgid "Ahhhgh! Pain! What have you done!"
-msgstr ""
+msgstr "Ahhhgh! Schmerzen! Was hast du getan!"
 
 #: data/text/english/game/combatai.msg:2252
 #: data/text/english/game/combatai.msg:5255
@@ -106879,7 +106931,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:8735
 #: data/text/english/game/combatai.msg:8736
 msgid "You broke my arm! Now the fight is fair!"
-msgstr ""
+msgstr "Du hast meinen Arm gebrochen! Jetzt ist der Kampf fair!"
 
 #: data/text/english/game/combatai.msg:3133
 msgid "That was your final blow!"
@@ -108717,7 +108769,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:5416
 #: data/text/english/game/combatai.msg:5516
 msgid "Die Human Fool!"
-msgstr ""
+msgstr "Stirb, menschlicher Dummkopf!"
 
 #: data/text/english/game/combatai.msg:5217
 #: data/text/english/game/combatai.msg:5417
@@ -108738,7 +108790,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:5223
 #: data/text/english/game/combatai.msg:5423
 msgid "Is that best humans can do!"
-msgstr ""
+msgstr "Besser können es die Menschen nicht!"
 
 #: data/text/english/game/combatai.msg:5227
 #: data/text/english/game/combatai.msg:5427
@@ -109275,7 +109327,7 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:6102
 msgid "Attack someone else, okay!"
-msgstr ""
+msgstr "Greif jemand anderes an, okay!"
 
 #: data/text/english/game/combatai.msg:6103
 #: data/text/english/game/combatai.msg:8204
@@ -111243,7 +111295,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:7828
 #: data/text/english/game/combatai.msg:7928
 msgid "My aching skull!"
-msgstr ""
+msgstr "Mein Schädel schmerzt!"
 
 #: data/text/english/game/combatai.msg:7831
 msgid "You dirty radscorpion-kissing..."
@@ -111482,7 +111534,7 @@ msgstr ""
 
 #: data/text/english/game/combatai.msg:8025
 msgid "Loser!"
-msgstr ""
+msgstr "Verlierer!"
 
 #: data/text/english/game/combatai.msg:8026
 msgid "Missed me, radiation brain!"
@@ -126233,7 +126285,7 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:672
 msgid "As you wish."
-msgstr ""
+msgstr "Wie du wünscht."
 
 #: data/text/english/game/proto.msg:674
 msgid "I'll try."
@@ -126249,7 +126301,7 @@ msgstr "Ich glaube nicht, dass ich das tun kann."
 
 #: data/text/english/game/proto.msg:677
 msgid "Arf!"
-msgstr ""
+msgstr "Arf!"
 
 #: data/text/english/game/proto.msg:700
 msgid "You do not have enough Action Points to do that."

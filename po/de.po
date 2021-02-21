@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-02-21 17:17+0000\n"
+"PO-Revision-Date: 2021-02-21 17:19+0000\n"
 "Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -128,7 +128,7 @@ msgstr "großer unterirdischer Bunker zu erreichen."
 
 #: data/text/english/cuts/intro.sve:2550
 msgid "Your family was part of that group that entered Vault Thirteen."
-msgstr ""
+msgstr "Deine Familie war teil der Gruppe, die Vault 13 betrat."
 
 #: data/text/english/cuts/intro.sve:2630
 msgid "Imprisioned safely behind the large Vault door,"

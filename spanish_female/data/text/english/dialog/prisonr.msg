@@ -24,4 +24,4 @@
 {123}{}{Suerte. Adiós.}
 {124}{}{Ganas }
 {125}{}{ puntos de experiencia por liberar al necrófago prisionero.}
-{126}{}{Gracias otra vez.}
+{126}{}{Gracias de nuevo.}

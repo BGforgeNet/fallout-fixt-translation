@@ -7,7 +7,7 @@
 {106}{}{Vela por nosotros, Iniciado.}
 {107}{}{Yo que tú no merodearía por aquí, extraño, ¿quieres que se derrame más sangre?}
 {108}{}{Mantente alerta, forastero, soplan vientos de guerra.}
-{109}{}{Vete.}
+{109}{}{Te marchas.}
 {110}{}{No me distraigas, estamos en alerta.}
 {111}{}{Tranquilízate.}
 {112}{}{No me hagas perder el tiempo, Iniciado.}
@@ -23,7 +23,7 @@
 {200}{}{Bob, ¿cuál es tu posición?}
 {201}{}{Todo claro.}
 {202}{}{No creo que vuelvan.}
-{203}{}{No cuentes con eso.}
+{203}{}{No cuentes con ello.}
 {204}{}{¿Has vuelto a escuchar a los exploradores?}
 {205}{}{Aún no.}
 {206}{}{Los exploradores informan de que todo está en orden.}

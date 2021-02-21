@@ -88,7 +88,7 @@
 {490}{}{Ves: %s.}
 {491}{}{Ves un cadáver: %s.}
 {492}{}{Ves los restos de: %s.}
-{493}{}{No ves nada fuera de lo común.}
+{493}{}{No ves nada fuera de lo normal.}
 {500}{}{no tener pulso}
 {501}{}{estar a punto de morir}
 {502}{}{tener heridas graves}

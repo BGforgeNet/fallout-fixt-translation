@@ -10,7 +10,7 @@
 {109}{}{Uhhh...}
 {110}{}{Yo que tú iba al establecimiento de Tine, justo a un lado de las puertas. En realidad no vendo nada aquí, solo lo cambio con Tine o con los comerciantes del Eje.}
 {111}{}{¿Por qué?, todo el mundo aquí me llama "Herreriano". Probablemente porque soy el herrero del pueblo.}
-{112}{}{Pregunta.}
+{112}{}{Pregunta lo que quieras.}
 {113}{}{¿Dónde conseguiste todo el equipo para montar todo esto?}
 {114}{}{¿Qué puedes hacer aquí?}
 {115}{}{¿Puedes hacer armas y balas?}

@@ -27,7 +27,7 @@
 {126}{}{Lo siento pero no te entiendo. En alguna parte tengo un holodisco para aprender el idioma, por si te interesa.}
 {127}{}{Adiós.}
 {128}{}{Gracias.}
-{129}{}{Ag.}
+{129}{}{Uhg.}
 {130}{}{¿Tienes revistas de Química? Miles en Adytum me dijo que tendrías.}
 {131}{}{Sí, conozco a Miles y tengo lo que buscas. Te costarán 750 chapas.}
 {132}{}{Aquí tiene, señor. Saluda a Miles de mi parte.}

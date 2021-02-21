@@ -52,7 +52,7 @@
 {151}{}{Vale, pero tenemos que dejar que la chica vaya primero. Demuéstrame que podemos confiar en ti y lo haremos.}
 {152}{}{¡Me has mentido!}
 {153}{}{Vale. Quiero 100 chapas. Entonces nos vamos de aquí. Que nadie me siga y dejaremos que se vaya cuando lleguemos al límite de la ciudad.}
-{154}{}{Aquí están tus chapas.}
+{154}{}{Aquí está tu dinero.}
 {155}{}{No tengo aquí esa cantidad de chapas.}
 {156}{}{Entonces creo que ella se la ha ganado.}
 {157}{}{Creo que eso está bien.}
@@ -64,7 +64,7 @@
 {163}{}{Aquí tienes 100 chapas. Que tengas un buen día.}
 {164}{}{Te puedes marchar sin problemas.}
 {165}{}{Quiero mis chapas. Quiero 200 chapas.}
-{166}{}{No tengo bastantes chapas.}
+{166}{}{No tengo suficiente dinero.}
 {167}{}{Aquí están.}
 {168}{}{Creo que eres una mentirosa y una tramposa.}
 {169}{}{El sentimiento es mutuo. Deja que la chica se vaya.}

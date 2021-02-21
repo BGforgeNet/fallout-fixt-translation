@@ -6,7 +6,7 @@
 {105}{}{¿Puedes hacerme un descuento?}
 {106}{}{¿Quieres comprar armas? Déjame ver lo que llevas.}
 {107}{}{Perdona que te moleste.}
-{108}{}{Me gusta hacer negocios contigo.}
+{108}{}{Me alegra hacer negocios contigo.}
 {109}{}{}
 {110}{}{Vale. Vuelve si necesitas algo.}
 {111}{}{Será mejor que te decidas rápido. ¿Estás aquí para comprar equipo o solo has venido para que te mate?}

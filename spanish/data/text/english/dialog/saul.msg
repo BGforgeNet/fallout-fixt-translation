@@ -73,11 +73,11 @@
 {172}{}{Le preocupa tu bienestar. Lo más probable es que no soporte ver cómo te sacuden y cómo te juegas la vida por Gizmo. Si no haces concesiones acabarás perdiéndola.}
 {173}{}{Creo que se preocupa por ti.}
 {174}{}{¿Podemos hablar de otra cosa?}
-{175}{}{Te veré más tarde.}
+{175}{}{Bien, nos veremos más tarde.}
 {176}{}{Nunca se me había ocurrido. Pensaba que simplemente no le gustaba el boxeo. Supongo que tendré que hablar de esto con ella. Gracias.}
 {177}{}{Ah, no le gusta el boxeo, eso es todo.}
 {178}{}{¿Podemos hablar de otra cosa?}
-{179}{}{Ya nos veremos.}
+{179}{}{Nos vemos.}
 {180}{}{Tú de nuevo. ¿Qué pasa ahora?}
 {181}{}{Hola de nuevo.}
 {182}{}{Estoy aquí para enseñarte modales.}

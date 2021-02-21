@@ -18,7 +18,7 @@
 {117}{}{Lo siento, he olvidado tu nombre.}
 {118}{}{Lo siento. Pensé que eras otra persona. Adiós.}
 {119}{}{Bien, vamos. [Te agarra de un brazo.]}
-{120}{}{Uh huh.}
+{120}{}{Oh oh.}
 {121}{}{Uh uh.}
 {122}{}{Vale, vale, ya me muevo.}
 {123}{}{Suéltame de una vez. No pienso ir a ninguna parte.}

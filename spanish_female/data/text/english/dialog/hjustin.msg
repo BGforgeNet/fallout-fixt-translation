@@ -8,7 +8,7 @@
 {107}{}{Nada, perdona.}
 {108}{}{Lo siento, no puedo decirte nada. Me matarían.}
 {109}{}{Gracias. Intentamos hacerlo bien. Es muy difícil en una ciudad de este tamaño, pero hacemos lo que podemos con los recursos disponibles. Es difícil cuando esos tipos tienen mejores armas de fuego que nosotros.}
-{110}{}{Gracias otra vez.}
+{110}{}{Gracias de nuevo.}
 {111}{}{Es hora de irse, asesina de niños.}
 {112}{}{No podemos aceptar. Pero si cambias de opinión, házmelo saber. Este lugar es muy peligroso y alguien tiene que velar por que las cosas funcionen bien.}
 {113}{}{¡Excelente! Ya había oído rumores sobre su plan. Tú eres la confirmación final que necesitaba para hacer algo contra él. Va a ser difícil y puedo utilizar toda la ayuda disponible. Te pagaré 1.000 chapas, 200 ahora y el resto cuando hayas terminado el trabajo. ¿Qué dices?}
@@ -19,11 +19,11 @@
 {118}{}{Lo siento, lo quiero todo por adelantado.}
 {119}{}{¡Ni hablar! Es tu problema y no el mío.}
 {120}{}{No. Aunque parezcas digno de confianza no puedo estar seguro de que te quedarás con nosotros cuando las cosas empeoren. Por lo menos uno de nosotros tiene que sobrevivir para asegurarse de que cobras. De este modo se contará con un "poco" de seguridad.}
-{121}{}{Vale.}
+{121}{}{Hagámoslo.}
 {122}{}{Hazlo tú solo, Sheriff.}
 {123}{}{¡Vale! Podemos irnos cuando quieras.}
 {124}{}{Estoy preparado.}
-{125}{}{Vale, adiós.}
+{125}{}{Vale. Adiós.}
 {126}{}{Lamento oír eso. Si cambias de opinión, por favor, házmelo saber, pero no puedo esperar mucho.}
 {127}{}{Vale, lo haré. Espera a que coja algunos suministros.}
 {128}{}{Estás mal de la cabeza.}
@@ -52,7 +52,7 @@
 {151}{}{¿Todo listo?}
 {152}{}{Sí.}
 {153}{}{No.}
-{154}{}{Ag.}
+{154}{}{Uhg.}
 {155}{}{No me puedo creer que Decker haya muerto por fin. Creía que nunca llegaría este día.}
 {156}{}{¿Has cambiado de opinión? ¿Aún podemos utilizarte para deshacernos de esa enfermedad de la que hablamos?}
 {157}{}{Iré.}

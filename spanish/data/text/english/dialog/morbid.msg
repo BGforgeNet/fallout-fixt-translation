@@ -124,7 +124,7 @@
 {223}{}{Vale. Tú ganas.}
 {224}{}{Me quedaré con algo tuyo. Y entonces puede que negociemos.}
 {225}{}{Vale.}
-{226}{}{No me interesa.}
+{226}{}{Ni hablar.}
 {227}{}{¡Excelente!}
 {228}{}{Doc Mórbid coge un instrumento quirúrgico y antes de que te des cuenta te saca un ojo. Te duele horrorosamente.}
 {229}{}{Ahora la mitad de lo que has visto me pertenece.}

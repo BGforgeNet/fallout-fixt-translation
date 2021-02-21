@@ -30,7 +30,7 @@
 {129}{}{Quiero otro empleo.}
 {130}{}{Nada.}
 {131}{}{Zug.}
-{132}{}{Ag.}
+{132}{}{Uhg.}
 {133}{}{¿Qué? ¿Después de haber dejado tu último empleo? Tienes suerte de que hayan sobrevivido.}
 {134}{}{¿Suerte, yo? ¡Tú sí que tienes suerte que no te parte la cara!}
 {135}{}{¡Eh! Tenía sitios a los que ir y gente a la que visitar.}
@@ -64,7 +64,7 @@
 {163}{}{Tienes razón. ¿Me das otro empleo o qué?}
 {164}{}{¿Qué? ¡No sé de lo que me estás hablando! Oh, ¿te refieres a los yonquis? Esos no cuentan. Ellos decidieron vivir de esa manera.}
 {165}{}{Supongo que tienes razón.}
-{166}{}{Me das asco.}
+{166}{}{Me pones enfermo.}
 {167}{}{Tengo que irme.}
 {168}{}{¿Qué? ¿Qué he dicho?}
 {169}{}{Por supuesto que sí. Tengo un buen corazón... casi siempre.}
@@ -98,7 +98,7 @@
 {197}{}{. Vuelve entonces si aún te interesa.}
 {198}{}{No quiero el trabajo.}
 {199}{}{Intentaré hacerlo.}
-{200}{}{Vale, adiós.}
+{200}{}{Vale. Adiós.}
 {201}{}{Sí.}
 {202}{}{Vale. No me importa.}
 {203}{}{Mira, no me importa si apareces o no. Tenemos a gente buscando empleo todos los días. Si no apareces, no pasa nada.}
@@ -143,7 +143,7 @@
 {242}{}{No.}
 {243}{}{Sabes dónde te puedes colocar la caravana.}
 {244}{}{No lo sé. Tendré que volver a preguntártelo.}
-{245}{}{Ag.}
+{245}{}{Uhg.}
 {246}{}{¿Qué camino quieres coger?}
 {247}{}{La Hermandad del Acero.}
 {248}{}{El Cementerio.}
@@ -158,5 +158,5 @@
 {257}{}{Tú eres el problema y mi puño es la solución.}
 {258}{}{Deberías verlo.}
 {260}{}{Tú.}
-{261}{}{Vale.}
+{261}{}{No hay problema.}
 {262}{}{Bien, vale. Vuelve si cambias de opinión.}

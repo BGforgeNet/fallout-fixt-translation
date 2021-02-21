@@ -55,14 +55,14 @@
 {154}{}{Cuidado a quién insultas.}
 {155}{}{Solo intentaba disuadir a Michael.}
 {156}{}{¿Qué puedo hacer si Michael no me lo quiere dar?}
-{157}{}{Voy.}
+{157}{}{Me voy.}
 {158}{}{Bueno... reconozco que no lo hiciste mal. Pero creo que te perdiste la oportunidad de sacarla de la sala de suministros. Ahora tendrás que encontrar otro modo de conseguirla. O encontrar tú misma una Armadura de Energía en otro lugar.}
 {159}{}{Vale, te veré después.}
 {160}{}{¿En qué otro sitio puedo encontrar una?}
 {161}{}{Buena suerte.}
 {162}{}{Piérdete. Estoy ocupado.}
 {163}{}{Hola, ¿Pudiste coger esa pieza?}
-{164}{}{Sí. Aquí tienes.}
+{164}{}{Sí. Aquí está.}
 {165}{}{Sí, pero creo que me quedaré con ella un tiempo.}
 {166}{}{¡Fantástico! Déjame instalarla en la unidad.}
 {167}{}{Vale. Ya puedes irte. Aquí está el Manual. Si tienes talento para reparar las cosas, no tendrás ningún problema. Buena suerte.}

@@ -2,7 +2,7 @@
 {101}{JAIN00}{¿Por qué molestas a una anciana de la Catedral?}
 {102}{}{He venido a buscar una bendición.}
 {103}{}{Estoy pensando en unirme a vuestra iglesia y quería informarme. ¿Tenéis panfletos?}
-{104}{}{Solo echaba una ojeada.}
+{104}{}{Sólo estaba mirando.}
 {105}{}{¿Mamá?}
 {106}{JAIN01}{Sería extraño que fuese tu madre.}
 {107}{}{No, ¿eh?}
@@ -45,7 +45,7 @@
 {144}{JAIN18}{Cuando los Niños caminen sobre la tierra renacida, tu especie desaparecerá, hereje. Vete inmediatamente.}
 {145}{JAIN19}{No carezco completamente de sentido del humor, pero me tomo muy en serio la tutela de los Niños. No lo olvides, por favor.}
 {146}{}{Perdóname pero no estoy demasiado familiarizado con los Niños.}
-{147}{}{Vale, adiós.}
+{147}{}{Vale. Adiós.}
 {148}{JAIN20}{Estás en el lugar adecuado para la satisfacción espiritual. Los Niños de la Catedral buscan una solución pacífica para los problemas de nuestro mundo y tu ayuda les podría ser útil.}
 {149}{}{¿Qué planes tienen los Niños para los mutantes?}
 {150}{}{¿Cómo pueden encontrar la paz los Niños en este yermo?}
@@ -57,7 +57,7 @@
 {156}{JAIN22}{Con perseverancia, los Niños pueden conseguir lo que deseen. No fracasaremos.}
 {157}{}{Bien, espero que no.}
 {158}{}{Sí, claro. Lo que sea.}
-{159}{}{Vale, adiós.}
+{159}{}{Vale. Adiós.}
 {160}{JAIN26}{¡Blasfemador! ¡Estás en una casa sagrada! ¡¿Cómo pudiste pensar tal cosa?!}
 {161}{}{¡Relájate, no lo decía en serio!}
 {162}{}{Fácil. Deja que te lo enseñe.}

@@ -81,7 +81,7 @@
 {180}{}{Consigues 200 puntos de experiencia por conseguir a Katja, la carroñera del Cementerio de LA.}
 {181}{}{¿Qué quieres ahora?}
 {182}{}{He cambiado de opinión. Todavía quiero tu ayuda.}
-{183}{}{Nada. No importa.}
+{183}{}{Nada. Da igual.}
 {184}{}{Estoy empezando a odiar este lugar.}
 {185}{}{Guau. Ojalá tuviera un perrito caliente y un palo muy largo.}
 {186}{}{Oh, ugh. Creo que voy a enfermar.}

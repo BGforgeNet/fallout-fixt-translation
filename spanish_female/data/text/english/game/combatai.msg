@@ -170,7 +170,7 @@
 {1257}{}{¡Oh! ¡Te mataré por esto!}
 {1300}{}{¿No has oído a alguien llamándome?}
 {1301}{}{}
-{1302}{}{¡Auxilio!}
+{1302}{}{¡Ayuda!}
 {1303}{}{¡Aaaaahhhh!}
 {1304}{}{¡Hay que huir!}
 {1305}{}{}
@@ -459,7 +459,7 @@
 {1800}{}{¡Piedad!}
 {1801}{}{¡Que alguien me ayude!}
 {1802}{}{¡Para, por favor!}
-{1803}{}{¡Auxilio!}
+{1803}{}{¡Ayuda!}
 {1804}{}{¡Aaaaahhhh!}
 {1805}{}{[llora]}
 {1806}{}{Mmm, eh, ¡para!}
@@ -636,7 +636,7 @@
 {2100}{}{¡Me voy!}
 {2101}{}{¡Piedad! ¡Misericordia!}
 {2102}{}{¡Para, por favor!}
-{2103}{}{¡Auxilio!}
+{2103}{}{¡Ayuda!}
 {2104}{}{¡Vete!}
 {2105}{}{Dejémoslo en tablas}
 {2106}{}{¿No podemos hablarlo?}
@@ -919,7 +919,7 @@
 {2557}{}{¡Nuestros enemigos son crueles!}
 {2600}{}{¡La Iglesia te cogerá!}
 {2601}{}{¡La Iglesia puede cuidar de sí misma!}
-{2602}{}{¡Auxilio!}
+{2602}{}{¡Ayuda!}
 {2603}{}{Que le den, hay demasiado ruido}
 {2604}{}{Algún otro mariquita se encargará de ti}
 {2605}{}{¡No voy a morir por esto!}
@@ -1291,7 +1291,7 @@
 {3235}{}{¡Mi brazo!}
 {3236}{}{El maldito brazo ya no me sirve...}
 {3237}{}{¡Ay!}
-{3238}{}{¡Bah!}
+{3238}{}{¡Oh!}
 {3239}{}{}
 {3240}{}{Espero que mueras de sed, frío y soledad...}
 {3241}{}{[Jadea fuertemente]}
@@ -1480,7 +1480,7 @@
 {3538}{}{Dame otro golpecito de amor...}
 {3539}{}{¡Ohh! ¡Oh, duele, cariño!}
 {3540}{}{¡Uf!}
-{3541}{}{¡Bah!}
+{3541}{}{¡Oh!}
 {3542}{}{¡Ah! ¿Significa esto que ya has acabado?}
 {3543}{}{[Jadea fuertemente]}
 {3544}{}{Dame otra vez, por favor...}
@@ -1682,7 +1682,7 @@
 {3902}{}{}
 {3903}{}{¡Retirada! ¡Retirada!}
 {3904}{}{¡Retrocede! ¡Retrocede!}
-{3905}{}{¡Auxilio!}
+{3905}{}{¡Ayuda!}
 {3906}{}{¡Por Adytum!}
 {3907}{}{¡Nos atacan!}
 {3908}{}{¡Necesito refuerzos!}
@@ -1744,7 +1744,7 @@
 {4002}{}{¡Un médico!}
 {4003}{}{¡Retirada! ¡Retirada!}
 {4004}{}{¡Retrocede! ¡Retrocede!}
-{4005}{}{¡Auxilio!}
+{4005}{}{¡Ayuda!}
 {4006}{}{Creo que va a haber problemas.}
 {4007}{}{¡Nos atacan!}
 {4008}{}{¡Tenemos problemas!}
@@ -1805,7 +1805,7 @@
 {4102}{}{}
 {4103}{}{¡Retirada! ¡Retirada!}
 {4104}{}{¡Retrocede! ¡Retrocede!}
-{4105}{}{¡Auxilio!}
+{4105}{}{¡Ayuda!}
 {4106}{}{}
 {4107}{}{Creo que tenemos un problema}
 {4108}{}{Veamos si puedo acabar con esto rápido}
@@ -2482,7 +2482,7 @@
 {5159}{}{}
 {5160}{}{¡Urp!}
 {5161}{}{}
-{5200}{}{¡A correr!}
+{5200}{}{¡Corred!}
 {5201}{}{¡No me matarás!}
 {5202}{}{¡Volveré!}
 {5203}{}{¡Mis amigos te cogerán por mí!}
@@ -2544,7 +2544,7 @@
 {5259}{}{¿Por qué me atacas ahí?}
 {5260}{}{Te haré daño durante horas}
 {5261}{}{}
-{5300}{}{¡A correr!}
+{5300}{}{¡Corred!}
 {5301}{}{¡No me matarás!}
 {5302}{}{Tengo que escapar}
 {5303}{}{}
@@ -2606,7 +2606,7 @@
 {5359}{}{¿Por qué me atacas ahí?}
 {5360}{}{¡Tu muerte será dolorosa, humana!}
 {5361}{}{}
-{5400}{}{¡A correr!}
+{5400}{}{¡Corred!}
 {5401}{}{¡No me matarás!}
 {5402}{}{¡Volveré!}
 {5403}{}{}
@@ -2668,7 +2668,7 @@
 {5459}{}{¿Por qué me atacas ahí?}
 {5460}{}{Te haré daño durante horas}
 {5461}{}{}
-{5500}{}{¡A correr!}
+{5500}{}{¡Corred!}
 {5501}{}{¡No me matarás!}
 {5502}{}{¡Volveré!}
 {5503}{}{¡Esto no se ha terminado!}
@@ -2733,7 +2733,7 @@
 {5600}{}{¡Me largo de aquí!}
 {5601}{}{¡Ten compasión!}
 {5602}{}{¡Para, por favor!}
-{5603}{}{¡Auxilio!}
+{5603}{}{¡Ayuda!}
 {5604}{}{¡Aaaaahhhh!}
 {5605}{}{¡Hay que huir!}
 {5606}{}{}
@@ -3228,7 +3228,7 @@
 {6361}{}{¡Oh! ¡Te mataré por esto!}
 {6400}{}{¡Hay que largarse de aquí!}
 {6401}{}{Volveré...}
-{6402}{}{¡Auxilio!}
+{6402}{}{¡Ayuda!}
 {6403}{}{¡Hay que huir!}
 {6404}{}{¡Todavía no has oído la última palabra!}
 {6405}{}{}
@@ -3290,7 +3290,7 @@
 {6461}{}{¡Oh! ¡Te mataré por esto!}
 {6500}{}{¡Hay que largarse de aquí!}
 {6501}{}{Volveré...}
-{6502}{}{¡Auxilio!}
+{6502}{}{¡Ayuda!}
 {6503}{}{¡Hay que huir!}
 {6504}{}{¡Todavía no has oído la última palabra!}
 {6505}{}{¡Tendrás lo que te mereces, te lo prometo!}
@@ -3353,7 +3353,7 @@
 {6600}{}{¡Me largo de aquí!}
 {6601}{}{¡Ten compasión!}
 {6602}{}{¡Para, por favor!}
-{6603}{}{¡Auxilio!}
+{6603}{}{¡Ayuda!}
 {6604}{}{¡Aaaaahhhh!}
 {6605}{}{}
 {6606}{}{¡Eh!}
@@ -4221,7 +4221,7 @@
 {8000}{}{¡Mi papá va a matarte! ¡Espera a que llegue!}
 {8001}{}{¡¡¡Mami!!!}
 {8002}{}{¡Que alguien me ayude!}
-{8003}{}{¡Auxilio!}
+{8003}{}{¡Ayuda!}
 {8004}{}{¡Aaaaahhhh!}
 {8005}{}{¡Buaahhhh!!}
 {8006}{}{¡Eh, tú!}

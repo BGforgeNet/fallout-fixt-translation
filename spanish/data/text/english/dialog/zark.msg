@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un matón.}
+{100}{}{Ves a un matón.}
 {101}{}{Eh, ¿no eres tú el bastardo que nos ha estado jodiendo? Tío, ¡estás en el lugar equivocado!}
 {102}{}{Eh, ¿no eres tú la puta que nos ha estado jodiendo? ¡Estás en el lugar equivocado, pequeña, y te va a costar caro!}
 {103}{}{Ahora estoy de tu parte, ¡así que fuera de mi vista!}

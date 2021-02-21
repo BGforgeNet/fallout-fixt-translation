@@ -23,7 +23,7 @@
 {123}{}{Bueno, puedo hacer una excepción. Al parecer te has entrenado bien. De lo contrario no habrías tenido éxito en esa misión alocada que te encomendó el Anciano Mayor.}
 {124}{}{A veces no sé si está intentando obtener ayuda del exterior, o librarse de los estúpidos. Sin ánimos de ofender... Te diré una cosa. Estoy en una situación difícil porque los exploradores que envié hace tiempo nunca volvieron.}
 {125}{}{Fue idea mía, y me lo he tomado como algo personal. Si descubres qué les ocurrió, te recompensaré por ello.}
-{126}{}{Lo pensaré.}
+{126}{}{Pensaré en ello.}
 {127}{}{Discúlpame, Iniciada. Por favor, no empuñes tu arma. Guárdala a menos que pienses usarla.}
 {128}{}{Enfunda tu arma, Iniciada. No estás en un ejercicio de entrenamiento, apártala.}
 {129}{}{¿Puedes dejar de menear el arma? Deberías... oh, da igual.}
@@ -62,7 +62,7 @@
 {162}{}{Nada, solo quería oír tu voz tan agradable.}
 {163}{}{Perdona, no te veía.}
 {164}{}{¡Cha Toh Weh Lo!}
-{165}{}{Ag.}
+{165}{}{Uhg.}
 {166}{}{¡Deja de hacerme perder el tiempo!}
 {167}{}{¿Cómo has entrado? Fuera de mi vista.}
 {168}{}{Puedo darte algo más de munición si de verdad la necesitas. Cuando hables con Michael ya habré dado la autorización.}

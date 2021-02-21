@@ -1,5 +1,5 @@
 {100}{}{Ves: a Dan.}
-{101}{}{¡Auxilio!}
+{101}{}{¡Ayuda!}
 {102}{}{Hola, colega, y bienvenido al Eje. Deja que me presente, me llaman "¡Dan, el Hombre Brahmin!" Voy de acá para allá y trato con los mercaderes de por aquí ofreciendo mis humildes servicios por un precio muy muy bajo. Bueno, ¿qué puedo hacer por ti, }
 {103}{}{joven?}
 {104}{}{hombre?}
@@ -54,7 +54,7 @@
 {156}{}{Quiero unirme a una caravana.}
 {157}{}{Oh, ¿qué servicios ofreces exactamente?}
 {158}{}{¡¿Por qué demonios le gritas a ese pobre chico?!}
-{159}{}{Bueno. Adiós.}
+{159}{}{Bien. Adiós.}
 {160}{}{Uf.}
 {161}{}{¿Qué pasa ahora?}
 {162}{}{¡¿Por qué demonios le gritas a ese pobre chico?!}

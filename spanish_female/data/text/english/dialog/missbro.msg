@@ -34,7 +34,7 @@
 {133}{}{¿Estarás bien?}
 {134}{}{Hola de nuevo.}
 {135}{}{Me marcharé pronto. Solo estoy recuperando las fuerzas.}
-{136}{}{Gracias otra vez.}
+{136}{}{Gracias de nuevo.}
 {1000}{}{Hermandad}
 {1001}{}{Acero}
 {1002}{}{Talus}

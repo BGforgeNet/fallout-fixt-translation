@@ -266,7 +266,7 @@
 {367}{}{[Kane rechina los dientes y te ignora.]}
 {368}{}{¿Lo olvidaste? [Suspiro] ¿Por qué eso no me sorprende? [Moviendo la cabeza con incredulidad.] Ahora... ¡LARGO!}
 {369}{}{[Kane mira a uno de los guardias y se pone la mano en una oreja.]}
-{370}{}{¿De qué diablos estás hablando?}
+{370}{}{¿De qué demonios estás hablando?}
 {371}{}{¡Esa NO es la respuesta adecuada!}
 {372}{}{Ya veo... Tú no eres uno de ellos.}
 {373}{}{Respuesta... ¿a QUÉ? [Kane parece confundido y algo mosqueado.]}

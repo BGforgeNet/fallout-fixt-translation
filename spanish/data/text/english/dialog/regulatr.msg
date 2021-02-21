@@ -12,7 +12,7 @@
 {111}{}{¿Qué quieres ahora?}
 {112}{}{Me gustaría entrar.}
 {113}{}{}
-{114}{}{Nada. No importa.}
+{114}{}{Nada. Da igual.}
 {115}{}{}
 {116}{}{No.}
 {117}{}{¿Sobre qué quieres saber cosas?}

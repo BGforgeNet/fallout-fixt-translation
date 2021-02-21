@@ -17,7 +17,7 @@
 {116}{}{El último comerciante del Eje nos vendió una bomba de irrigación que no funcionaba. Estamos hartos del tipo de tratos que hacéis.}
 {117}{}{Te equívocas de cabo a rabo. Yo no soy así.}
 {118}{}{Sí, claro. Porque tú lo digas. Solo te digo que no te metas en líos, ¿vale?}
-{119}{}{Vale.}
+{119}{}{No hay problema.}
 {120}{}{Sí, lo que sea.}
 {121}{}{Bueno, quizá no lo seas. Sí que pareces algo distinto. ¿Sabes qué? Deberías ir a hablar con Aradesh. Está en el centro del pueblo.}
 {122}{}{Aquí no queremos a la gente como tú. Regresa al sitio de dónde vienes.}

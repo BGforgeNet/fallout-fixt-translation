@@ -29,6 +29,6 @@
 {128}{}{Después de anochecer nadie puede entrar aquí. Los otros guardias ni siquiera te avisarán. Si te cogen, acabarán contigo. Deberías volver al centro de la ciudad ahora que tienes todavía la cabeza sobre los hombros.}
 {129}{}{VAle. Me vOy.}
 {130}{}{no. Me QUEdo.}
-{131}{}{No voy a ninguna parte.}
+{131}{}{No me voy a ningún lado.}
 {132}{}{Lo siento, seguiré mi camino.}
 {133}{}{Colega, eres imbécil, ¿verdad? ¡Piérdete!}

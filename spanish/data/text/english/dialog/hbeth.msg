@@ -244,7 +244,7 @@
 {345}{}{Si no vas a comprar nada me gustaría que me dejaras en paz.}
 {346}{}{Si no vas a vender nada, vete, por favor.}
 {347}{}{No me molestes si no quieres vender nada.}
-{348}{}{Vete por favor.}
+{348}{}{Por favor, vete.}
 {349}{}{Sabía que me harías perder el tiempo otra vez.}
 {350}{}{Ya ves, sabía que no tenías ni una chapa.}
 {351}{}{Gracias por todo, quizás hoy me vaya pronto a casa.}

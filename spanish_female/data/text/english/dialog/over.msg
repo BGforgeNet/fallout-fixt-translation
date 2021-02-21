@@ -16,7 +16,7 @@
 {115}{}{No.}
 {116}{Over_8}{Mira, sé que va a ser duro. Pero contamos contigo. Y se nos está agotando el tiempo. ¡Por favor! ¡Sigue intentándolo!}
 {117}{Over_9}{Ah, nunca me escuchas. Ya no tenemos las piezas necesarias. Hemos agotado todos los suministros necesarios.}
-{118}{}{Oh, vale. Gracias.}
+{118}{}{Oh, de acuerdo. Gracias.}
 {119}{Over_10}{Ya hemos discutido sobre este tema. ¡Deberías saberlo, después de haber estado ahí fuera! ¿Crees que el resto de nosotros podría sobrevivir? Además, ¡yo me quedaría sin trabajo! ¡Solo soy un encargado! ¡No es como si supiera hacer algo útil!}
 {120}{}{En eso estamos de acuerdo.}
 {121}{Over_12}{Bueno, ¿tienes el chip?}

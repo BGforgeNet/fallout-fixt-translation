@@ -13,7 +13,7 @@
 {112}{}{Aún te ofrezco trabajo, aunque... no importa. ¿Te interesa?}
 {113}{}{Claro.}
 {114}{}{No.}
-{115}{}{Puede.}
+{115}{}{Puede ser.}
 {116}{}{Sí, sí.}
 {117}{}{¿Eh?}
 {118}{}{Oh, vale. No hay problema. Házmelo saber si cambias de opinión.}
@@ -41,7 +41,7 @@
 {140}{}{Creo que deberías irte.}
 {141}{}{Lo siento, pero no puedo contratarte.}
 {142}{}{Por favor, me lo estás poniendo muy difícil.}
-{143}{}{Vete por favor.}
+{143}{}{Por favor, vete.}
 {144}{}{Intrigante, pero no eres mi tipo.}
 {145}{}{¡Excepcional! La paga será de 200 chapas. ¿Qué ruta prefieres?}
 {146}{}{Maravilloso. Por favor, pásate por aquí... [Mira su calendario] en }
@@ -86,7 +86,7 @@
 {185}{}{¡Hiciste un buen trabajo! ¿Quieres otra caravana?}
 {186}{}{Claro.}
 {187}{}{No.}
-{188}{}{Puede.}
+{188}{}{Puede ser.}
 {189}{}{¡Eeeh!}
 {190}{}{Lub.}
 {191}{}{¿Listo? Nos vamos hoy.}

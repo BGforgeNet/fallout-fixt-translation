@@ -1,7 +1,7 @@
 {100}{}{Ves: a Sinthia, la atractiva chica de la calle.}
 {101}{}{Ves una mujer bien proporcionada con mala cara.}
 {102}{}{Eh, cariño, ¿cómo te va?}
-{103}{}{Vale, adiós.}
+{103}{}{Vale. Adiós.}
 {104}{}{Bien, pero podría irme mejor.}
 {105}{}{Uhh.}
 {106}{}{Oh, baby, I understand. You gotta run home to mama. Well, come back here when you need some luvin'!}
@@ -20,7 +20,7 @@
 {119}{}{Luego me ocuparé de ti de verdad.}
 {120}{}{No hay de qué.}
 {121}{}{Unh.}
-{122}{}{Gracias otra vez.}
+{122}{}{Gracias de nuevo.}
 {123}{}{¿Eso es todo en lo que sabes pensar? ¡Vaya con la gente!}
 {124}{}{Quiero decir que mi jefe ni siquiera envió a algunos de sus mercenarios para ayudarme. Con todas las chapas que gano para ese perdedor, al menos podía haber cumplido su parte del trato.}
 {125}{}{¿Quién es tu jefe?}
@@ -47,7 +47,7 @@
 {146}{}{Hnnn.}
 {147}{}{Sí, lo que sea. ¡Sal ahora mismo de mi habitación!}
 {148}{}{Oh, lo siento. Creía que estaba muerto. Creí que lo habías matado. No es tan mal tipo después de todo. Solo un poco solitario.}
-{149}{}{Vale.}
+{149}{}{No hay problema.}
 {150}{}{Otra vez tú. ¿En qué puedo ayudarte esta vez?}
 {151}{}{Solo he venido a ver cómo te va.}
 {152}{}{Tengo 40 chapas, si tienes diez minutos.}

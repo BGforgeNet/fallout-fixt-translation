@@ -7,7 +7,7 @@
 {106}{}{¿Ehhh?}
 {107}{HROLD1}{Vaya. Amigo, estás todavía peor que yo. Tú sí que necesitas suerte.}
 {108}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
-{109}{}{¿Por qué?}
+{109}{}{¿Y eso por qué?}
 {110}{}{No hay de qué.}
 {111}{HROLD3}{*tose* El resto de los Ejeros han estado metiéndose conmigo desde que volví a la ciudad. Pero no me puedo marchar. Cuando los tratos estén hechos *resuella*. Sigue siendo mi hogar.}
 {112}{}{¿Qué te sucedió?}
@@ -30,7 +30,7 @@
 {129}{HROLD9}{¡Claro que ayudaba, cabeza hueca! ¡Pero los otros eran demasiados!}
 {130}{}{¿Cómo sobreviviste a los ataques mutantes?}
 {131}{HROLD9A}{No lo hice. ¡Me mataron! *tose mientras se ríe* Me encanta esa broma.}
-{132}{}{Ah, sí.}
+{132}{}{Eh, sí.}
 {133}{HROLD10}{¡De todas partes! Demonios, no te podías tirar un pedo sin darle a uno. Pero sobre todo por el noroeste.}
 {134}{}{¿Exploraste el área?}
 {135}{}{¿Por qué no evitaste el área?}

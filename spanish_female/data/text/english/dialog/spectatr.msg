@@ -1,7 +1,7 @@
 {100}{}{Yo podría hacerlo.}
 {101}{}{Es fácil.}
 {102}{}{Déjame enseñarte cómo se hace.}
-{103}{}{Bien.}
+{103}{}{Qué bueno.}
 {104}{}{Ah, ya veo.}
 {105}{}{Oh, no está mal ese movimiento.}
 {106}{}{Con que se hace así...}

@@ -62,7 +62,7 @@
 {507}{}{¡Yo querer trabajo!}
 {508}{}{Necesitamos músculo para descargar las caravanas. Te pagaré }
 {509}{}{ chapas.}
-{510}{}{¡Uh!}
+{510}{}{Ug!}
 {511}{}{Nop.}
 {512}{}{Estoy en ello.}
 {513}{}{No me gusta.}

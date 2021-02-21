@@ -36,7 +36,7 @@
 {135}{}{Hola }
 {136}{}{.}
 {137}{}{Espero que te salga bien tu búsqueda.}
-{138}{}{Ya nos veremos.}
+{138}{}{Nos vemos.}
 {139}{}{¿Has hablado últimamente con el Supervisor?}
 {140}{}{El Supervisor está muy preocupado por el estado de la misión.}
 {141}{}{Tenemos que darnos prisa. No podemos permitirnos ningún error.}

@@ -11,5 +11,5 @@
 {110}{}{Hola.}
 {111}{}{Hola.}
 {112}{}{¿Cómo estás?}
-{113}{}{Me alegro de conocerte.}
+{113}{}{Me alegro de verte.}
 {114}{}{Buenos días.}

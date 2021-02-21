@@ -2,7 +2,7 @@
 {101}{}{Hola, Iniciado. Soy Larry, ¿en qué puedo ayudarte?}
 {102}{}{Vree me dijo que podrías enseñarme una pistola láser.}
 {103}{}{Vree me dijo que me podrías darme una pistola láser.}
-{104}{}{Ag.}
+{104}{}{Uhg.}
 {105}{}{Eh, vale...}
 {106}{}{Eh, sí. Esas cosas son fantásticas. Su alcance es... como tu vista. [Larry habla durante lo que te parecen horas pero de vez en cuando oyes cosas sobre el uso de armas de energía.]}
 {107}{}{¿Eh? Pero ella sabe que aún no están listas... Oh, seguro que quería decir que te las mostrara. Sí, puedo enseñártelas. Observa que funciona gracias a células de energía que proceden de... [Larry habla durante lo que te parecen horas, pero de vez en cuando oyes cosas sobre el uso de armas de energía.]}

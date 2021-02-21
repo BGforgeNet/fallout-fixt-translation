@@ -10,7 +10,7 @@
 {109}{}{Hola. Así que has venido a saldar tu deuda, ¿eh?}
 {110}{}{En realidad esperaba que me pudieras proporcionar información...}
 {111}{}{Vengo a por otro préstamo.}
-{112}{}{Quizás después.}
+{112}{}{Quizá más tarde.}
 {113}{}{¿Runk?}
 {114}{}{Te avisé que nunca volvieras. Vale, chicos, ¡ya sabéis lo que tenéis que hacer!}
 {115}{}{¡Que me aspen si no es una clienta potencial! Soy Lorenzo el Magnífico, a tu servicio. Doy créditos. Solo un interés diario de un diez por ciento y un máximo de diez días para la devolución. ¡No encontrarás una mejor casa de préstamos en todo el Eje!}
@@ -30,7 +30,7 @@
 {129}{}{¡Idiota! No tienes bastantes chapas para saldar tu deuda. Quizás pensabas en otra cosa...}
 {130}{}{En realidad esperaba que me pudieras proporcionar información...}
 {131}{}{Vengo a por otro préstamo.}
-{132}{}{Quizás después.}
+{132}{}{Quizá más tarde.}
 {133}{}{¡Claro! Eres libre de hacerlo. Siempre estamos encantados de ayudar.}
 {134}{}{Piérdete y molesta al personal en otro lado. ¡Lárgate de una vez! Y no vuelvas.}
 {135}{}{Oye, ¡sin amenazas! Somos personas civilizadas. Guido, Leone, ¿por qué no le enseñáis a este señor lo civilizados que somos?}
@@ -39,7 +39,7 @@
 {138}{}{Tienes suerte, amigo.}
 {139}{}{En realidad esperaba que me pudieras proporcionar información...}
 {140}{}{Vengo a por otro préstamo.}
-{141}{}{Quizás después.}
+{141}{}{Quizá más tarde.}
 {142}{}{¿No has tenido suficiente? ¿Cómo te atreves a molestarme? Guido, Leone, cargaros a esta perdedora.}
 {143}{}{Vale. No tienes deudas pendientes con nosotros. Dejamos unidades de doscientas chapas, con un máximo de mil chapas. Pero recuerda, no te haré un préstamo importante hasta que me demuestres que puedes reembolsar uno menor.}
 {144}{}{Quisiera }

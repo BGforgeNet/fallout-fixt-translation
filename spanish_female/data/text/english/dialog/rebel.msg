@@ -19,14 +19,14 @@
 {118}{}{No muy bien.}
 {119}{}{Ugh.}
 {120}{}{Bien, me alegra oír eso. Sigue con el buen trabajo.}
-{121}{}{Vale.}
+{121}{}{No hay problema.}
 {122}{}{Sabíamos que no había esperanza. No creo que consigamos un nuevo chip a tiempo. Creo que algunos de nosotros deberían ir al exterior antes de que sea demasiado tarde.}
 {123}{}{No creo que sea una buena idea.}
 {124}{}{Mmm. Puede que sea mejor.}
 {125}{}{Por favor, date prisa.}
 {126}{}{No te preocupes, encontraré el chip.}
 {127}{}{Quizá deberías venir a una de nuestras reuniones. Theresa tiene algunas buenas ideas. Nos reunimos en su habitación, en el segundo nivel a las cinco de la tarde.}
-{128}{}{Lo pensaré.}
+{128}{}{Pensaré en ello.}
 {129}{}{No gracias. Tengo trabajo que hacer.}
 {130}{}{Eso es lo que se piensa Theresa. Lo tiene todo arreglado. Pensamos abandonar pronto el Refugio.}
 {131}{}{Buena suerte.}

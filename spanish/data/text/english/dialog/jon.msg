@@ -82,7 +82,7 @@
 {181}{}{¿Quién eres?}
 {182}{}{Soy Jon Zimmerman, alcalde de Adytum. ¿Qué te pasa?}
 {183}{}{Hola.}
-{184}{}{Me alegra verte.}
+{184}{}{Me alegro de verte.}
 {185}{}{Gracias por tu ayuda.}
 {186}{}{Ahora mi hijo puede descansar en paz.}
 {187}{}{La muerte de mi hijo ha sido vengada.}

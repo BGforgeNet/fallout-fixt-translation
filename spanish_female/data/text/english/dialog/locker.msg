@@ -1,4 +1,4 @@
-{100}{}{El recipiente parece estar cerrado.}
+{100}{}{El cajón parece estar cerrado.}
 {101}{}{Consigues forzar la cerradura con éxito.}
 {102}{}{Esta cerradura sobrepasa tus habilidades con la ganzúa.}
 {103}{}{No consigues forzar la cerradura.}

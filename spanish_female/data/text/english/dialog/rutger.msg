@@ -36,7 +36,7 @@
 {135}{}{Bueno, ya vale de rollo comercial por hoy. ¿Dónde está la puerta?}
 {136}{}{Gracias, adiós.}
 {137}{}{¿Me puedes hablar del trabajo anunciado?}
-{138}{}{¿Tienes algún trabajo para mí?}
+{138}{}{¿Tienes algún trabajo disponible?}
 {139}{}{He oído que no estás bien de la cabeza, pero puede que sea precisamente lo que necesitamos en estos momentos. Tendrás que hablar con Butch. Le gusta conocer a los nuevos reclutas. Está en la habitación que hay detrás de mí. Entra.}
 {140}{}{No creo que me haga gracia tener a una asesina de niños en una de mis caravanas.}
 {141}{}{¿Una asesina de niños? Pero si solo fue un accidente.}

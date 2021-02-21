@@ -8,7 +8,7 @@
 {107}{}{Buenos días.}
 {108}{}{¿Ves algo que te guste?}
 {109}{}{Gracias por pararte aquí.}
-{110}{}{Me alegro de conocerte.}
+{110}{}{Me alegro de verte.}
 {111}{}{Vuelve por aquí.}
 {112}{}{Hasta pronto.}
 {113}{}{Adiós.}

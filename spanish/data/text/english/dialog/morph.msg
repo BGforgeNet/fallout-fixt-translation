@@ -39,7 +39,7 @@
 {138}{}{Él da órdenes, ¿no? Y tú las sigues, no hay más preguntas.}
 {139}{MORP11}{No tolero los insultos. ¡Guardias! }
 {140}{MORP12}{ De acuerdo. Te llevaré ante el Maestro. Pero si estás mintiendo, él lo sabrá. }
-{141}{}{De acuerdo.}
+{141}{}{Vale, de acuerdo.}
 {142}{}{¡No me vas a llevar a ningún sitio!}
 {143}{MORP13}{No te metas en esto. Pero si de verdad vienes de un Refugio, el Maestro lo descubrirá. ¡Guardias! Vamos.}
 {144}{MORP14}{Puedes conservar la vida. Ahora, dime lo que sabes. }
@@ -102,7 +102,7 @@
 {201}{morp34}{No sabes nada.}
 {202}{MORP35}{ Sí, lo estabas, pero estás perdonado. Si no tienes más preguntas, tengo trabajo que hacer. }
 {203}{}{Lo cierto es que tengo algunas más.}
-{204}{}{No. Gracias.}
+{204}{}{No, gracias.}
 {205}{MORP36}{ Desde luego. Continúa. Por favor.}
 {206}{MORP37}{ Sí, pero tú estás... perdonado. Ve en paz, hijo mío. }
 {207}{MORP38}{ No, pero con fe y esperanza, estoy seguro de que lo encontrarás. Pero esto ya se te hará saber, hijo mío.}

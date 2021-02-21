@@ -26,7 +26,7 @@
 {125}{}{Dime lo que sabes acerca de los Necios.}
 {126}{}{Dime qué sabes acerca de las Criptas.}
 {127}{}{Quiero saber sobre el generador de energía.}
-{128}{}{Ya nos veremos.}
+{128}{}{Nos vemos.}
 {129}{}{No me gustan los Tontos, siempre están recogiendo en mí. Ellos viven en el garaje del norte. Luchan contra las Criptas, pero todos perdemos.}
 {130}{}{Gracias.}
 {131}{}{Las Criptas son realmente significa. Ellos sostienen que el 'lectricity y si estamos mal, ellos lo toman lejos de nosotros. Odian a los Tontos, peor que cualquier otra. Peor que odian a mis amigos.}

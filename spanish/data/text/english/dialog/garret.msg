@@ -8,7 +8,7 @@
 {107}{}{Has obtenido una escopeta, 10 cartuchos de escopeta y 100 chapas.}
 {108}{}{Has obtenido 4 bengalas, 4 botellas de Nuka-Cola y 50 chapas.}
 {109}{}{Deberías irte ahora.}
-{110}{}{Ya nos veremos.}
+{110}{}{Nos vemos.}
 {111}{}{¿Esto es todo? Me merezco más, y ¡será mejor que me lo des!}
 {112}{}{Simp.}
 {113}{}{Debes irte de aquí... inmediatamente.}

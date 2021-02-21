@@ -45,7 +45,7 @@
 {144}{}{Ya me estás alquilando la habitación número 1. ¿Quieres que te enseñe dónde está?}
 {145}{}{Claro.}
 {146}{}{No.}
-{147}{}{Sí.}
+{147}{}{Yah.}
 {148}{}{No.}
 {149}{}{Todavía es tu habitación. Que te lo pases bien.}
 {150}{}{Conoces las tarifas. Un día, 25 chapas. Una semana, 150.}

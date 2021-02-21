@@ -8,7 +8,7 @@
 {107}{}{Hemos salido y acabado con unas cuantas, pero siempre vuelven. Además, somos maquinistas, no luchadores.}
 {108}{}{¿Qué me daríais si saliera ahí y me ocupara de ellas por vosotros?}
 {109}{}{Fabricamos armas y municiones. Nos hemos dedicado a esto los últimos 30 años. Pero los últimos 10 han sido un infierno.}
-{110}{}{¿Por qué?}
+{110}{}{¿Y eso por qué?}
 {111}{}{Acabamos con toda la chatarra abandonada tras la guerra que se encontraban alrededor de la fábrica. Ahora dependemos de Adytum para el abastecimiento de materias primas.}
 {112}{}{¿Cuál es el problema si Adytum os abastece de materiales?}
 {113}{}{Al principio no había ningún problema. Ellos nos suministraban materias primas, nosotros fabricábamos y vendíamos las armas. Pero, hace tres años, Zimmerman contrató a unos mercenarios para que protegiesen Adytum de las Garras Mortales y del habitual ataque de los saqueadores. Estos Reguladores son unos cabrones de sangre fría que nos arrebatan todo lo que tenemos. Nosotros hacemos las armas y ellos se enriquecen.}
@@ -54,7 +54,7 @@
 {153}{}{}
 {154}{}{Gracias.}
 {155}{}{}
-{156}{}{Vale.}
+{156}{}{No hay problema.}
 {157}{}{}
 {158}{}{}
 {159}{}{¿No os ibais, chicos?}

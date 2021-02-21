@@ -1,8 +1,8 @@
 {100}{}{Estás viendo a un borracho.}
-{101}{}{Estás viendo a un cliente.}
+{101}{}{Ves a un cliente.}
 {102}{}{Estás viendo a una sórdida mujer.}
-{103}{}{Estás viendo a un hombre de aspecto extraño.}
-{104}{}{Estás viendo a un jugador.}
+{103}{}{Ves a un hombre de aspecto extraño.}
+{104}{}{Ves a un jugador.}
 {105}{}{Ves a una chica muy guapa. Parece ocupada.}
 {106}{}{Estás viendo a una mujer.}
 {107}{}{Estás viendo a un hombre.}
@@ -47,7 +47,7 @@
 {146}{}{¡Ni lo sueñes!}
 {147}{}{¡Vete!}
 {148}{}{¡Lárgate!}
-{149}{}{¿Qué es lo que miras?}
+{149}{}{¿Qué estás mirando?}
 {150}{}{¿Formas parte de la orgía?}
 {151}{}{¡Vete de nuestra habitación!}
 {152}{}{¡Vete!}

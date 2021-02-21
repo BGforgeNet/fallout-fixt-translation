@@ -29,7 +29,7 @@
 {128}{Vree21}{Usa tu Pip-Boy 2000 para leer los discos. Introduce el disco en el lector. Si tienes los conocimientos informáticos adecuados, deberías ser capaz de descargar los datos.}
 {129}{}{¿Dónde puedo aprender los conocimientos informáticos?}
 {130}{}{Gracias.}
-{131}{}{¿Puedo hacerte otra pregunta?}
+{131}{}{¿Puedo preguntarte otra cosa?}
 {132}{Vree22}{La Hermandad tiene unos cursos automatizados que podrías seguir. Ven, te lo enseñaré.}
 {133}{Vree23}{Usa este terminal para aprender lo básico sobre las operaciones del ordenador.}
 {134}{Vree24}{¿No eres muy lista, verdad? Llevas un reproductor de holodiscos en el brazo.}

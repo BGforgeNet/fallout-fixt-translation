@@ -8,7 +8,7 @@
 {107}{}{Nada, no importa.}
 {108}{}{Lo siento, no puedo decirte nada. Me matarían.}
 {109}{}{Gracias. Intentamos hacerlo bien. Es muy difícil en una ciudad de este tamaño, pero hacemos lo que podemos con los recursos disponibles. Es difícil cuando esos tipos tienen mejores armas de fuego que nosotros.}
-{110}{}{Gracias otra vez.}
+{110}{}{Gracias de nuevo.}
 {111}{}{Es hora de irse, asesina de niños.}
 {112}{}{No podemos aceptar. Pero si cambias de opinión, házmelo saber. Este lugar es muy peligroso y alguien tiene que velar por que las cosas funcionen bien.}
 {113}{}{¡Excelente! Ya me había enterado de este plan por otras fuentes. Eres la confirmación final que necesitaba para tomar medidas contra él. Va a resultar difícil aunque utilizaré toda la ayuda que pueda conseguir. Puedo pagarte 1.300 chapas. 300 ahora y el resto cuando el trabajo esté acabado. ¿Qué opinas?}
@@ -19,7 +19,7 @@
 {118}{}{Lo siento, lo quiero todo por adelantado.}
 {119}{}{¡Ni hablar! Es tu problema y no el mío.}
 {120}{}{De ninguna manera. Parece que se puede confiar en ti, pero, ¿cómo puedo estar seguro de que no nos vas a dejar tirados cuando la cosa se ponga chunga? Por eso, por lo menos uno de nosotros tiene que sobrevivir para poder pagarte. De este modo, se le añadirá "algo" de seguridad a la cosa.}
-{121}{}{Vale.}
+{121}{}{Hagámoslo.}
 {122}{}{Hazlo tú solo, Sheriff.}
 {123}{}{¡Fantástico! Aquí está la primera parte de tu paga. [El Sheriff te da 300 chapas]}
 {124}{}{Estoy preparado.}
@@ -52,7 +52,7 @@
 {151}{}{¿Preparado para sacar a Decker?}
 {152}{}{Sí.}
 {153}{}{No.}
-{154}{}{Ag.}
+{154}{}{Uhg.}
 {155}{}{No me puedo creer que Decker haya muerto por fin. Creía que nunca llegaría este día.}
 {156}{}{¿Has cambiado de opinión? ¿Aún podemos utilizarte para deshacernos de esa enfermedad de la que hablamos?}
 {157}{}{Iré.}

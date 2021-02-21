@@ -1,5 +1,5 @@
 {100}{}{Ves: a León, un guardia.}
-{101}{}{¿Qué haces aquí?}
+{101}{}{¿Que te trae aquí?}
 {102}{}{Debo hablar con el Sr. Hightower.}
 {103}{}{He venido a matar al Sr. Hightower.}
 {104}{}{¿A qué te dedicas?}
@@ -36,7 +36,7 @@
 {135}{}{¡Quita tus asquerosas manos de mí!}
 {136}{}{All right, all right! I'm going.}
 {137}{}{¡Espera! ¡No he terminado!}
-{138}{}{¡Uh!}
+{138}{}{Ug!}
 {139}{}{¡Ay!}
 {140}{}{Tengo noticias urgentes para el Sr Hightower.}
 {141}{}{¿Qué haces aquí? Ya no estoy de servicio. Vete a incordiar a otro.}

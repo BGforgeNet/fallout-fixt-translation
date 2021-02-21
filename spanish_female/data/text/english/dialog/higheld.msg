@@ -27,7 +27,7 @@
 {126}{}{Lo entiendo. Si viajas a esa zona y encuentras algo interesante, avísame, por favor.}
 {127}{}{Si encuentro algo parecido a un ejército en la zona del norte, te avisaré.}
 {128}{}{Buen trabajo con los mutantes. Sabemos que destruiste fácilmente sus instalaciones. Gracias por resolvernos ese problema.}
-{129}{}{Vale.}
+{129}{}{No hay problema.}
 {130}{}{¿"Eh"? ¿Qué tipo de respuesta es "eh"? ¡Vete! ¡Ahora!}
 {131}{}{Si dependiera de mí, ya no estaría de aquí.}
 {132}{}{No tengo nada que decirte.}

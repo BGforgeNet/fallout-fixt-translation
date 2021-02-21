@@ -7,7 +7,7 @@
 {106}{}{Lo siento, la tienda está cerrada.}
 {107}{}{Noor.}
 {108}{}{Gracias por nada.}
-{109}{}{¿Por qué?}
+{109}{}{¿Y eso por qué?}
 {110}{}{No lo menciones.}
 {111}{}{Los Niños no tratan con gente de tu clase. Y nos has estado causando serios problemas. Me gustaría que te fueras antes de que me vea obligado a pedir refuerzos.}
 {112}{}{No tienes por qué hacerlo; soy tu amiga.}

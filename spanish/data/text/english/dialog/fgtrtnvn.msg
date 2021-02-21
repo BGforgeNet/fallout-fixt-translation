@@ -6,4 +6,4 @@
 {105}{}{¿Querías volver al Eje? Te pagaré otras 200 chapas.}
 {106}{}{Sí.}
 {107}{}{No.}
-{108}{}{Ag.}
+{108}{}{Uhg.}

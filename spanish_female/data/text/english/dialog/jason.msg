@@ -36,7 +36,7 @@
 {135}{}{¿Sobre qué quieres saber cosas?}
 {136}{}{En realidad no.}
 {137}{}{Bueno, si haces algo interesante, ¡ya me lo contarás!}
-{138}{}{¡Déjame en paz!}
+{138}{}{¡Déjame!}
 {139}{}{¡Gracias a dios que estás a aquí! ¡Por favor, ayúdame a salir de aquí!}
 {140}{}{Sip.}
 {141}{}{No te preocupes, te sacaré de aquí.}

@@ -67,12 +67,12 @@
 {166}{}{Olvídalo. No tengo nada de dinero.}
 {167}{}{300 chapas y la información es tuya.}
 {168}{}{Claro.}
-{169}{}{No me interesa.}
+{169}{}{Ni hablar.}
 {170}{}{Habrá una incursión al sur del fuerte de los Niños. Ahora ve.}
 {171}{}{¿Intentas tenderme una trampa? ¡Te lo mostraré!}
 {172}{}{Siento que lo veas así. Pero, que tengas un buen día.}
 {173}{}{Tengo que sobrevivir de alguna forma. Ahora dime, ¿la quieres o no?}
 {174}{}{Claro.}
-{175}{}{No me interesa.}
+{175}{}{Ni hablar.}
 {176}{}{Nada. Ahora vete.}
 {177}{}{Déjame. Estoy intentando descansar.}

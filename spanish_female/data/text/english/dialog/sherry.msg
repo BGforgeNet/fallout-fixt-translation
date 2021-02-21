@@ -7,7 +7,7 @@
 {106}{}{¡No es asunto tuyo, fulana!}
 {107}{}{¿Patatín-patatán?}
 {108}{}{Aparentemente, dado que todo el mundo sabe que este es el territorio de los Kalaveras. Será mejor que te largues antes de que te hagan daño.}
-{109}{}{¡Vamos a verlo!}
+{109}{}{¡Que vengan!}
 {110}{}{Perdona, creía que era el baño. Adiós.}
 {111}{}{¿Los Kalaveras? ¿Quiénes son esos?}
 {112}{}{Sí, ya lo sabía. Solo estoy dando una vuelta.}

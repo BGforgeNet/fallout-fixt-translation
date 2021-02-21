@@ -70,7 +70,7 @@
 {169}{}{Bueno, ya es hora. Continuemos señora, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
 {170}{}{¿Sí?}
 {171}{}{Después de todo, quizás deberíamos seguir juntos.}
-{172}{}{Nada. No importa.}
+{172}{}{Nada. Da igual.}
 {173}{}{Ganas 300 puntos de experiencia por reclutar a Tycho, el Ranger del Desierto.}
 {174}{}{¿ser amigos?}
 {175}{}{Vas a caer}

@@ -32,7 +32,7 @@
 {131}{}{Hola otra vez. ¿En qué puedo servirte?}
 {132}{}{Hola otra vez. Solo pasaba por aquí.}
 {133}{}{Necesito que me curen.}
-{134}{}{¡Uh!}
+{134}{}{Ug!}
 {135}{}{Me alegro de verte otra vez. Que pases un buen día.}
 {136}{}{Claro. Tú otra vez. ¿Y ahora qué?}
 {137}{}{Nada.}
@@ -77,13 +77,13 @@
 {176}{}{Es una herida de nada, imbécil. Vuelve por la mañana.}
 {177}{}{Auch, eso sí que parece doloroso. Son 25 chapas.}
 {178}{}{De acuerdo, ahí vas.}
-{179}{}{No tengo bastantes chapas.}
+{179}{}{No tengo suficiente dinero.}
 {180}{}{¡Oh, Gran Brahmin! Eso es muy, muy serio. Te costará 50 chapas.}
 {181}{}{De acuerdo, ahí vas.}
-{182}{}{No tengo bastantes chapas.}
+{182}{}{No tengo suficiente dinero.}
 {183}{}{¡¿Cómo puedes seguir en pie?! Eso parece muy serio. Tendremos que rezar mucho y aun así necesitaremos tener suerte. Por no mencionar las 100 chapas.}
 {184}{}{De acuerdo, ahí vas.}
-{185}{}{No tengo bastantes chapas.}
+{185}{}{No tengo suficiente dinero.}
 {186}{}{¡No tienes suficientes chapas! Lo siento, pero mi ética profesional no me permite curar gratis, ¿sabes? Vuelve cuando tengas las chapas.}
 {187}{}{¿Aceptas algo a cambio?}
 {188}{}{Gracias por nada.}

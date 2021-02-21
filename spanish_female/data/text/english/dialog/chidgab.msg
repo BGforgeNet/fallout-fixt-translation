@@ -1,6 +1,6 @@
 {100}{}{Estás viendo a un Niño de muy mal humor.}
 {101}{}{¡Fuera de mi vista, hija de puta!}
-{102}{}{¡Vete de aquí!}
+{102}{}{¡Aléjate de mi!}
 {103}{}{¿Qué diablos quieres?}
 {104}{}{¿Dónde puedo encontrar al Maestro?}
 {105}{}{Descubrir lo que ocurre por aquí.}

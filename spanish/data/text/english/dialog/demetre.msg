@@ -36,7 +36,7 @@
 {135}{}{Aun así, cogeré el trabajo.}
 {136}{}{¡Lárgate de aquí antes de que te vuele la cabeza!}
 {137}{}{¡Te volaré la cabeza!}
-{138}{}{¡Eso es!}
+{138}{}{¡Te pillé!}
 {139}{}{¡Por supuesto que lo harás! Ve a hablar con Keri que está en la sala contigua, ella lleva la organización.}
 {140}{}{Demonios, qué decepción, pero bueno.}
 {141}{}{¡Sí! ¡Me gustas! ¡Te contrato! Ve a hablar con Keri, está ahí al lado; ella te asignará una caravana.}
@@ -67,7 +67,7 @@
 {166}{}{Lo siento, ¡ya he hecho suficiente arriesgándome contigo!}
 {167}{}{¡Estás perdiendo el tiempo aquí!}
 {168}{}{¡Por favor deja de molestarme!}
-{169}{}{Destrózalo.}
+{169}{}{Lárgate.}
 {170}{}{Demetre te ignora.}
 {171}{}{Demonios, ¡no contrato a drogadictos asquerosos! ¡Si quieres un trabajo será mejor que se te pase el colocón!}
 {172}{}{No soy ningún drogadicto... quiero decir... ¡Arg!}

@@ -13,7 +13,7 @@
 {112}{}{Aún te ofrezco trabajo, aunque... no importa. ¿Te interesa?}
 {113}{}{Claro.}
 {114}{}{No.}
-{115}{}{Puede.}
+{115}{}{Puede ser.}
 {116}{}{Sí, sí.}
 {117}{}{¿Eh?}
 {118}{}{Vale. No hay problema. Házmelo saber si cambias de idea.}
@@ -41,7 +41,7 @@
 {140}{}{Creo que deberías irte.}
 {141}{}{Lo siento, pero no voy a darte un empleo.}
 {142}{}{Me encantaría darte un empleo, pero no va a ser posible.}
-{143}{}{Vete.}
+{143}{}{Te marchas.}
 {144}{}{Pareces un buen chico, pero no soy tu tipo.}
 {145}{}{¡Vale entonces! Se pagan 400 pavos del Eje. ¿Qué trayecto prefieres?}
 {146}{}{Me alegro. Vuelve en }
@@ -86,7 +86,7 @@
 {185}{}{Has hecho un buen trabajo. ¿Quieres hacer otro?}
 {186}{}{Claro.}
 {187}{}{No.}
-{188}{}{Puede.}
+{188}{}{Puede ser.}
 {189}{}{¡Eeeh!}
 {190}{}{Lub.}
 {191}{}{¿Ya estás equipado? Partimos hoy.}

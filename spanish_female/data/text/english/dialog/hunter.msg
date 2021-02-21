@@ -2,7 +2,7 @@
 {101}{}{¿Qué quieres?}
 {102}{}{Un buñuelo.}
 {103}{}{¿Qué haces aquí?}
-{104}{}{Solo echaba una ojeada.}
+{104}{}{Sólo estaba mirando.}
 {105}{}{Nada.}
 {106}{}{Aquí no nos gustan los listillos. Largo.}
 {107}{}{Ese chiste no fue gracioso ni la primera vez que lo contaste. Estás a punto de descubrir porqué soy uno de los cazarecompensas más temidos del yermo. Y ni siquiera cobro por serlo.}

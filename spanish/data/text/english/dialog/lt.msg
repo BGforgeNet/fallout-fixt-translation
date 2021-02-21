@@ -1,9 +1,9 @@
 {100}{}{Estás viendo al Teniente del ejército del Maestro.}
 {101}{LIEUT1}{Veamos, ¿qué tenemos aquí? Me han dicho que quieres divulgar información de lo más importante. Espero que sea así.}
-{102}{}{Ah, sí.}
+{102}{}{Eh, sí.}
 {103}{}{No a alguien tan feo como tú.}
 {104}{}{Con una condición.}
-{105}{}{¡Bah!}
+{105}{}{¡Oh!}
 {106}{LIEUT1A}{Un insulto. Qué gracioso. Te explicaría lo que significa, pero sería una pérdida de tiempo, ¿no crees? Veamos tus dos opciones: Puedes contarme lo que quiero saber. O, puedo hacerlo... a mi manera.}
 {107}{}{Me quedo con "ninguna de las dos".}
 {108}{}{Vale, pero con una condición.}

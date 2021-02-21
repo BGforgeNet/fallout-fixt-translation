@@ -12,7 +12,7 @@
 {111}{}{¿Apartar eso?}
 {112}{}{No me digas lo que tengo que hacer, perdedor.}
 {113}{}{Me parece bien. Por cierto, ¿cuál es la ley local sobre armas?}
-{114}{}{Uh, oh.}
+{114}{}{Oh, oh.}
 {115}{}{Tu arma, idiota. Killian no te quitará tus armas pero será mejor que las mantengas enfundadas.}
 {116}{}{Oh, lo siento.}
 {117}{}{¡De ninguna manera! ¡No voy a dejar las armas por nadie!}
@@ -64,4 +64,4 @@
 {164}{}{¡Eh! ¡Eres tú! Vamos entra.}
 {165}{}{¡Qué bien verte de nuevo!}
 {166}{}{Eh, será mejor que gires a la derecha y te largues de aquí.}
-{167}{}{Continúa.}
+{167}{}{Vamos, entra.}

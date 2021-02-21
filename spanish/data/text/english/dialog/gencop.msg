@@ -25,7 +25,7 @@
 {124}{}{Saludos, forastero.}
 {125}{}{Visita el Halcón Maltés si quieres bebidas refrescantes.}
 {126}{}{Sigue la carretera principal si buscas el mercado.}
-{127}{}{No te pares.}
+{127}{}{Sigue moviéndote.}
 {128}{}{Muévete. Muévete.}
 {129}{}{Estamos aquí para la Prevención y el Reconocimiento.}
 {130}{}{Mantén el arma bajo control mientras estés en nuestra ciudad.}

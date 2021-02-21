@@ -40,7 +40,7 @@
 {139}{}{Vale, hazlo.}
 {140}{}{¿Cuánto tarda?}
 {141}{}{¿Cuánto tarda y cuántas radiaciones puedes eliminar?}
-{142}{}{No.}
+{142}{}{Na.}
 {143}{}{Sí.}
 {144}{}{Vale, de acuerdo, es tu cuerpo.}
 {145}{}{Tardará alrededor de }

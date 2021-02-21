@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un jugador.}
+{100}{}{Ves a un jugador.}
 {101}{}{¡Ah! ¡Es un atraco!}
 {102}{}{No quiero líos contigo.}
 {103}{}{¡Va armado!}

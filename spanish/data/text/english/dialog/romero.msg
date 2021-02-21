@@ -29,8 +29,8 @@
 {130}{}{¡Piérdete!}
 {131}{}{Ey, ahora que eres un Navaja, necesito pedirte un favor.}
 {132}{}{Claro.}
-{133}{}{¿Cuál es?}
-{134}{}{No me interesa.}
+{133}{}{¿Qué es eso?}
+{134}{}{Ni hablar.}
 {135}{}{Genial. Lleva este medallón a Julianna. Dile que espero verla pronto.}
 {136}{}{Resulta que me he enamorado de una chica de Adytum. A causa de los Reguladores y que nos disparan nada más vernos, no puedo acercarme a ella.}
 {137}{}{¿Cómo puedo ayudarte?}

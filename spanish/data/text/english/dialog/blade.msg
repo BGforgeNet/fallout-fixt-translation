@@ -7,7 +7,7 @@
 {106}{}{¿Has visto alguna vez como brilla la lluvia?}
 {107}{}{Tengo que volver al trabajo.}
 {108}{}{No vienen muchos forasteros por aquí.}
-{109}{}{Me tengo que largar.}
+{109}{}{Tengo que irme.}
 {110}{}{Nos vemos.}
 {111}{}{Buenos días.}
 {112}{}{Gracias por tu ayuda.}

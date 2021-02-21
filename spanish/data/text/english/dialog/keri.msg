@@ -20,8 +20,8 @@
 {119}{}{Claro.}
 {120}{}{No.}
 {121}{}{Creo que me interesas.}
-{122}{}{Puede.}
-{123}{}{Ag.}
+{122}{}{Puede ser.}
+{123}{}{Uhg.}
 {124}{}{¡Ja, sabía que eras un cobarde! Bueno... si eres lo suficientemente valiente, pásate por aquí y puede que tenga un trabajo para ti. Partimos los días 3 y 17. Puedes presentarte ese mismo día. Siempre es bueno tener ayuda.}
 {125}{}{Te encanta hacerme perder el tiempo, ¿verdad?}
 {126}{}{Lo que sea. Si tienes ganas de movida, vuelve y te incorporo a la próxima caravana.}
@@ -88,7 +88,7 @@
 {187}{}{Quiero otro empleo.}
 {188}{}{Nada.}
 {189}{}{Zug.}
-{190}{}{Ag.}
+{190}{}{Uhg.}
 {191}{}{¡Claro! ¿Para que puedas abandonar otra caravana? Has tenido suerte de que llegaran a salvo.}
 {192}{}{¿Suerte, yo? ¡Tú sí que tienes suerte que no te parte la cara!}
 {193}{}{¡Eh! Tenía sitios donde ir y... ¡material!}
@@ -99,8 +99,8 @@
 {198}{}{Lo hiciste muy bien en tu último trabajo. ¿Estás buscando otro?}
 {199}{}{Claro.}
 {200}{}{No.}
-{201}{}{Puede.}
-{202}{}{Ag.}
+{201}{}{Puede ser.}
+{202}{}{Uhg.}
 {203}{}{Arrastra.}
 {204}{}{¿Listo? Nos vamos hoy.}
 {205}{}{¡Sí!}

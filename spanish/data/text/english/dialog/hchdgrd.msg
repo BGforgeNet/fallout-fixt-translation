@@ -49,7 +49,7 @@
 {148}{}{No lo sé. Te diré una cosa, digas lo que digas respecto a la religión, son profesionales. Vinieron y organizaron este lugar que va sobre ruedas. No se trata de otra banda más de zombis descerebrados.}
 {149}{}{¡Vaya! ¡Pensaba que solo los Refugios utilizaban esa basura!}
 {150}{}{Cuidado con lo que dices, gilipollas. Puede que esta gente quiera vivir en armonía y amor, ¡pero yo no!}
-{151}{}{Vale.}
+{151}{}{No hay problema.}
 {152}{}{No. Cuanto más alto escalas, mayor es la radiación.}
 {153}{}{Ah, si te gustan los bastardos psicóticos e inhumanos, él es tu hombre ideal.}
 {154}{}{Mi compañero. El hombre que vigila a Jain.}

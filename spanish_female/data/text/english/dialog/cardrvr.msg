@@ -11,7 +11,7 @@
 {110}{}{No puedo creer que hayamos perdido a ambos guardias. Rutger y Butch me van a romper el culo.}
 {111}{}{Sí.}
 {112}{}{No.}
-{113}{}{Ag.}
+{113}{}{Uhg.}
 {114}{}{Vale. Vamos.}
 {115}{}{¿De qué tienes miedo?}
 {116}{}{Ah, estás perdiéndote algo de diversión.}

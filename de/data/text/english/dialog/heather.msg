@@ -67,12 +67,12 @@
 {166}{}{Forget it. I have no money.}
 {167}{}{Three hundred caps and the information is yours.}
 {168}{}{Sure.}
-{169}{}{No way.}
+{169}{}{Niemals.}
 {170}{}{There will be a raid on the south end of the Children's stronghold. Now go.}
 {171}{}{Trying to cheat me? I'll show you!}
 {172}{}{I'm sorry you feel that way. But, good day to you.}
 {173}{}{I need to get by somehow. Now, do you want in or not?}
 {174}{}{Sure.}
-{175}{}{No way.}
+{175}{}{Niemals.}
 {176}{}{Nothing. Now leave.}
 {177}{}{Leave me. I am trying to get some rest.}

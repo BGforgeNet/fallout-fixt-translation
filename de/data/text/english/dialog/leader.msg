@@ -94,7 +94,7 @@
 {194}{}{You have nothing to fear from us!}
 {195}{}{I will speak with you before you leave.}
 {196}{}{You have left me no choice, but to stop you myself.}
-{200}{}{Tough luck.}
+{200}{}{Pech gehabt.}
 {201}{}{Can't the water pump be repaired?}
 {202}{}{I'm sorry but my people need the chip to survive.}
 {203}{}{Please don't take our chip. Without it we will die.}

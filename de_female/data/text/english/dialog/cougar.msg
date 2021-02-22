@@ -1,5 +1,5 @@
 {100}{}{You see: Cougar, Doc Morbid's assistant.}
-{101}{}{How's it going?}
+{101}{}{Wie läuft es?}
 {102}{}{Good, and you?}
 {103}{}{I need to see the Doc.}
 {104}{}{Ung.}

@@ -1,2 +1,2 @@
-1:You managed to destroy the Vats, then you killed the Master before he could realize his twisted plans.
-2:With the Master gone, his armies flee to the east in fear of retribution from the remaining normals.
+1:Du hast es geschafft, die Bottiche zu zerstören, dann hast du den Meister getötet, bevor er seine verdrehten Pläne durchführen konnte.
+2:Ihres Anführers beraubt, fliehen die Armeen nach Osten, um der Vergeltung durch die überlebenden Normalen zu entkommen.

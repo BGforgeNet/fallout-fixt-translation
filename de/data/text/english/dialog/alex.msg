@@ -1,7 +1,7 @@
 {100}{}{You see: Alex, the night watch Regulator.}
 {101}{}{Come on in, }
 {102}{}{Sorry, I can't let you in. Come back in the morning.}
-{103}{}{Halt! Who goes there?}
+{103}{}{Halt! Wer ist da?}
 {104}{}{I'm just a traveler. I'd like to come inside.}
 {105}{}{None of your business.}
 {106}{}{Um, sorry. I'll leave.}

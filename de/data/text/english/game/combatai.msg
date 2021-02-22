@@ -98,7 +98,7 @@
 {1141}{}{That was a lucky shot}
 {1142}{}{You will pay for that!}
 {1143}{}{That kind of wound will not stop me!}
-{1144}{}{Ow, my leg!}
+{1144}{}{Au, mein Bein!}
 {1145}{}{Take my leg, I'll take your life}
 {1146}{}{You will pay!}
 {1147}{}{I'm blind!}
@@ -144,7 +144,7 @@
 {1231}{}{Not in the face!}
 {1232}{}{Ow!}
 {1233}{}{You broke my nose!}
-{1234}{}{Ow, my arm!}
+{1234}{}{Au, mein Arm!}
 {1235}{}{You broke my arm!}
 {1236}{}{I can get it reattached}
 {1237}{}{A busted arm ain't stopping me!}
@@ -199,10 +199,10 @@
 {1328}{}{Watch the hair!}
 {1329}{}{My teef! I loft a toof!}
 {1330}{}{My teef! My teef!}
-{1331}{}{Ow, my arm!}
+{1331}{}{Au, mein Arm!}
 {1332}{}{Ow!}
 {1333}{}{Ow, quit it!}
-{1334}{}{Ow, my arm!}
+{1334}{}{Au, mein Arm!}
 {1335}{}{Ow!}
 {1336}{}{Ow, quit it!}
 {1337}{}{I don't want to be a lefty!}
@@ -212,10 +212,10 @@
 {1341}{}{I think I'm gonna faint}
 {1342}{}{Watta think I am, a punching bag?}
 {1343}{}{You're not very nice}
-{1344}{}{Ow, my leg!}
+{1344}{}{Au, mein Bein!}
 {1345}{}{Ow! Don't do that!}
 {1346}{}{!}
-{1347}{}{Ow, my leg!}
+{1347}{}{Au, mein Bein!}
 {1348}{}{Ow! You're mean!}
 {1349}{}{}
 {1350}{}{Why is it so dark?}
@@ -392,7 +392,7 @@
 {1645}{}{Come on, I need that!}
 {1646}{}{My leg! What have you done?}
 {1647}{}{Aggghhh!}
-{1648}{}{Ow, my leg!}
+{1648}{}{Au, mein Bein!}
 {1649}{}{My leg! No...}
 {1650}{}{I needed that for running away...}
 {1651}{}{I can't see!}
@@ -435,7 +435,7 @@
 {1728}{}{You broke my nose!}
 {1729}{}{Ow! Damn you!}
 {1730}{}{Damn! That hurt!}
-{1731}{}{Ow, my arm!}
+{1731}{}{Au, mein Arm!}
 {1732}{}{I'm gonna ice you for that!}
 {1733}{}{That was a mistake}
 {1734}{}{You sunnovabitch}
@@ -605,10 +605,10 @@
 {2028}{}{Damn that smarts!}
 {2029}{}{Aggghhh!}
 {2030}{}{Ooooo, shit!}
-{2031}{}{Aggghhh! My arm!}
+{2031}{}{Aggghhh! Mein Arm!}
 {2032}{}{Ow, ow, ow!}
 {2033}{}{Oh come on, I needed that!}
-{2034}{}{Aggghhh! My arm!}
+{2034}{}{Aggghhh! Mein Arm!}
 {2035}{}{Noooo.....}
 {2036}{}{I think you broke it!}
 {2037}{}{Damn!}
@@ -618,10 +618,10 @@
 {2041}{}{Guh!}
 {2042}{}{Oof!}
 {2043}{}{Ow!}
-{2044}{}{Aggghhh! My leg!}
+{2044}{}{Aggghhh! Mein Bein!}
 {2045}{}{I need a chair}
 {2046}{}{My leg!}
-{2047}{}{Aggghhh! My leg!}
+{2047}{}{Aggghhh! Mein Bein!}
 {2048}{}{Great, there goes my job}
 {2049}{}{Ow! No!}
 {2050}{}{Aggghhh! I'm blind!}
@@ -736,7 +736,7 @@
 {2248}{}{You call that pain? Ha!}
 {2249}{}{Ahhhgh! I shall snap your neck for that!}
 {2250}{}{Ahhhgh! Miserable human! I am blind!}
-{2251}{}{Ahhhgh! Pain! What have you done!}
+{2251}{}{Ahhhgh! Schmerzen! Was hast du getan!}
 {2252}{}{Ahhhgh! I will torture you many days!}
 {2253}{}{That is human weakness!}
 {2254}{}{You cannot hurt me there!}
@@ -836,7 +836,7 @@
 {2431}{}{My arm!!}
 {2432}{}{Unity shall cleanse all wounds}
 {2433}{}{Master! What have they done to me!}
-{2434}{}{Ow, my arm!}
+{2434}{}{Au, mein Arm!}
 {2435}{}{The Master shall heal my wounds...}
 {2436}{}{I will take from you twice what you took from me}
 {2437}{}{Oof!}
@@ -844,7 +844,7 @@
 {2439}{}{Master, protect me!}
 {2440}{}{Master, avenge me!}
 {2441}{}{Gulp!}
-{2442}{}{Ow, my leg!}
+{2442}{}{Au, mein Bein!}
 {2443}{}{You broke my leg!}
 {2444}{}{Master! What have they done to me!}
 {2445}{}{My leg!}
@@ -890,7 +890,7 @@
 {2528}{}{Agghhh! What hit me!}
 {2529}{}{Master! Protect me!}
 {2530}{}{Ow!}
-{2531}{}{Ow, my arm!}
+{2531}{}{Au, mein Arm!}
 {2532}{}{You broke my arm!}
 {2533}{}{What have you done to me!}
 {2534}{}{No! Master!}
@@ -905,7 +905,7 @@
 {2543}{}{Master! It burns!}
 {2544}{}{You will pay for that!}
 {2545}{}{What have you done!}
-{2546}{}{Ow, my leg!}
+{2546}{}{Au, mein Bein!}
 {2547}{}{You broke my leg!}
 {2548}{}{Dammit!!}
 {2549}{}{I cannot see!}
@@ -948,7 +948,7 @@
 {2628}{}{Ugh!}
 {2629}{}{Oof!}
 {2630}{}{Damn! That hurt!}
-{2631}{}{Ow, my arm!}
+{2631}{}{Au, mein Arm!}
 {2632}{}{You're paying for that one!}
 {2633}{}{I'll break both your arms for that!}
 {2634}{}{My arm! What have you done to my arm?!}
@@ -957,7 +957,7 @@
 {2637}{}{Oooohhh, my leg!}
 {2638}{}{You're paying for that one!}
 {2639}{}{You fuckwad! I'm gonna get you!}
-{2640}{}{Ow, my leg!}
+{2640}{}{Au, mein Bein!}
 {2641}{}{I'll do you for that!}
 {2642}{}{Ow!}
 {2643}{}{I'm gonna put you on the spot for that!}
@@ -1042,7 +1042,7 @@
 {2831}{}{My hand!}
 {2832}{}{Ow!}
 {2833}{}{Ow!!}
-{2834}{}{Ow, my arm!}
+{2834}{}{Au, mein Arm!}
 {2835}{}{You broke my arm!}
 {2836}{}{You're gonna regret that!}
 {2837}{}{[Grunt!]}
@@ -1052,7 +1052,7 @@
 {2842}{}{You should stop while you're ahead!}
 {2843}{}{I'll use your organs to replace mine!}
 {2844}{}{Garrr!}
-{2845}{}{Ow, my leg!}
+{2845}{}{Au, mein Bein!}
 {2846}{}{You're gonna pay for that!}
 {2847}{}{Argh! You break my leg, I break your neck!}
 {2848}{}{My leg!}
@@ -1223,10 +1223,10 @@
 {3129}{}{That was your last attack!}
 {3130}{}{A pitiful attempt!}
 {3131}{}{I can still beat you with one arm!}
-{3132}{}{You broke my arm! Now the fight is fair!}
+{3132}{}{Du hast meinen Arm gebrochen! Jetzt ist der Kampf fair!}
 {3133}{}{That was your final blow!}
 {3134}{}{I can still beat you with one arm!}
-{3135}{}{You broke my arm! Now the fight is fair!}
+{3135}{}{Du hast meinen Arm gebrochen! Jetzt ist der Kampf fair!}
 {3136}{}{I will end you!}
 {3137}{}{Your death will be legendary for that!}
 {3138}{}{I will feast on your eyes for that!}
@@ -1284,10 +1284,10 @@
 {3228}{}{Damn!}
 {3229}{}{Aggghhh!}
 {3230}{}{My face! My face!}
-{3231}{}{Aggghhh! My arm!}
+{3231}{}{Aggghhh! Mein Arm!}
 {3232}{}{My arm!}
 {3233}{}{Damn arm's useless now...}
-{3234}{}{Aggghhh! My arm!}
+{3234}{}{Aggghhh! Mein Arm!}
 {3235}{}{My arm!}
 {3236}{}{Damn arm's useless now...}
 {3237}{}{Ouch!}
@@ -1300,10 +1300,10 @@
 {3244}{}{}
 {3245}{}{Bad karma to hit me like that}
 {3246}{}{Gack!}
-{3247}{}{Aggghhh! My leg!}
+{3247}{}{Aggghhh! Mein Bein!}
 {3248}{}{My leg!}
 {3249}{}{Dammit, my leg's useless...}
-{3250}{}{Aggghhh! My leg!}
+{3250}{}{Aggghhh! Mein Bein!}
 {3251}{}{My leg!}
 {3252}{}{Dammit, my leg's useless...}
 {3253}{}{Aggghhh! I'm blind!}
@@ -1594,10 +1594,10 @@
 {3728}{}{Ow! You son of a...}
 {3729}{}{I'm gonna kill you for that}
 {3730}{}{I'll take your head off!}
-{3731}{}{Ow, my arm!}
+{3731}{}{Au, mein Arm!}
 {3732}{}{Damn. My arm's busted!}
 {3733}{}{My arm!}
-{3734}{}{Ow, my arm!}
+{3734}{}{Au, mein Arm!}
 {3735}{}{Damn. My arm's busted!}
 {3736}{}{My arm!}
 {3737}{}{I've seen junior employees do better than that...}
@@ -1610,10 +1610,10 @@
 {3744}{}{}
 {3745}{}{[Gasp!]}
 {3746}{}{Ouch!}
-{3747}{}{Ow, my leg!}
+{3747}{}{Au, mein Bein!}
 {3748}{}{}
 {3749}{}{My knee!}
-{3750}{}{Ow, my leg!}
+{3750}{}{Au, mein Bein!}
 {3751}{}{You're gonna pay for that, in spades!}
 {3752}{}{My knee!}
 {3753}{}{I can't see!}
@@ -2203,10 +2203,10 @@
 {4728}{}{Ow! You son of a...}
 {4729}{}{I'm gonna kill you for that}
 {4730}{}{I'll take your head off!}
-{4731}{}{Ow, my arm!}
+{4731}{}{Au, mein Arm!}
 {4732}{}{Damn. My arm's busted!}
 {4733}{}{My arm!}
-{4734}{}{Ow, my arm!}
+{4734}{}{Au, mein Arm!}
 {4735}{}{Damn. My arm's busted!}
 {4736}{}{My arm!}
 {4737}{}{Ow!}
@@ -2219,10 +2219,10 @@
 {4744}{}{That might require medical attention...}
 {4745}{}{}
 {4746}{}{Oof!}
-{4747}{}{Ow, my leg!}
+{4747}{}{Au, mein Bein!}
 {4748}{}{You shall pay for that!}
 {4749}{}{My knee!}
-{4750}{}{Ow, my leg!}
+{4750}{}{Au, mein Bein!}
 {4751}{}{You will pay for that!}
 {4752}{}{My knee!}
 {4753}{}{I can't see!}
@@ -2327,10 +2327,10 @@
 {4928}{}{Not in the face!}
 {4929}{}{Ow! My head!}
 {4930}{}{You broke my nose!}
-{4931}{}{Ow, my arm!}
+{4931}{}{Au, mein Arm!}
 {4932}{}{You broke my arm!}
 {4933}{}{Was that really necessary?}
-{4934}{}{Ow, my arm!}
+{4934}{}{Au, mein Arm!}
 {4935}{}{You broke my arm!}
 {4936}{}{Was that really necessary?}
 {4937}{}{Oof!}
@@ -2343,10 +2343,10 @@
 {4944}{}{Oof!}
 {4945}{}{Oof!}
 {4946}{}{Oof! [Gasp!] Argh! Ow! Owie!}
-{4947}{}{Ow, my leg!}
+{4947}{}{Au, mein Bein!}
 {4948}{}{Hey, that hurt!}
 {4949}{}{}
-{4950}{}{Ow, my leg!}
+{4950}{}{Au, mein Bein!}
 {4951}{}{Hey, that hurt!}
 {4952}{}{Was that really necessary?}
 {4953}{}{Argh! My retina!}
@@ -2498,14 +2498,14 @@
 {5213}{}{Nobody save you now!}
 {5214}{}{}
 {5215}{}{Now you die burning death!}
-{5216}{}{Die Human Fool!}
+{5216}{}{Stirb, menschlicher Dummkopf!}
 {5217}{}{Now you die a screaming death}
 {5218}{}{}
 {5219}{}{Now I crush you}
 {5220}{}{You cannot fight the Chosen!}
 {5221}{}{Suffer, human!}
 {5222}{}{Why do you struggle?}
-{5223}{}{Is that best humans can do!}
+{5223}{}{Besser können es die Menschen nicht!}
 {5224}{}{You have no power!}
 {5225}{}{You make me laugh hard!}
 {5226}{}{Was that an attack?}
@@ -2536,7 +2536,7 @@
 {5251}{}{}
 {5252}{}{Ahhhgh! I shall snap your neck for that!}
 {5253}{}{Ahhhgh! Miserable human! I am blind!}
-{5254}{}{Ahhhgh! Pain! What have you done!}
+{5254}{}{Ahhhgh! Schmerzen! Was hast du getan!}
 {5255}{}{Ahhhgh! I will torture you many days!}
 {5256}{}{That is human weakness!}
 {5257}{}{}
@@ -2622,14 +2622,14 @@
 {5413}{}{Nobody save you now!}
 {5414}{}{We are your Masters!}
 {5415}{}{Now you die a burning death!}
-{5416}{}{Die Human Fool!}
+{5416}{}{Stirb, menschlicher Dummkopf!}
 {5417}{}{Now you die a screaming death}
 {5418}{}{}
 {5419}{}{Now I crush you}
 {5420}{}{}
 {5421}{}{Suffer, human!}
 {5422}{}{Why do you struggle?}
-{5423}{}{Is that best humans can do!}
+{5423}{}{Besser können es die Menschen nicht!}
 {5424}{}{You have no power!}
 {5425}{}{}
 {5426}{}{}
@@ -2660,7 +2660,7 @@
 {5451}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {5452}{}{Ahhhgh! I shall snap your neck for that!}
 {5453}{}{Ahhhgh! Miserable human! I am blind!}
-{5454}{}{Ahhhgh! Pain! What have you done!}
+{5454}{}{Ahhhgh! Schmerzen! Was hast du getan!}
 {5455}{}{Ahhhgh! I will torture you many days!}
 {5456}{}{}
 {5457}{}{}
@@ -2684,7 +2684,7 @@
 {5513}{}{No one can save you}
 {5514}{}{We are your Masters!}
 {5515}{}{Now you die a Burning Death!}
-{5516}{}{Die Human Fool!}
+{5516}{}{Stirb, menschlicher Dummkopf!}
 {5517}{}{Now you die a Screaming Death}
 {5518}{}{Your blood is my wine!}
 {5519}{}{Now I crush you}
@@ -2761,10 +2761,10 @@
 {5628}{}{Not in the face!}
 {5629}{}{}
 {5630}{}{Ow! My ear!}
-{5631}{}{Ow, my arm!}
+{5631}{}{Au, mein Arm!}
 {5632}{}{Damn you!}
 {5633}{}{You broke my arm!}
-{5634}{}{Ow, my arm!}
+{5634}{}{Au, mein Arm!}
 {5635}{}{Damn you!}
 {5636}{}{You broke my arm!}
 {5637}{}{Ow!}
@@ -2777,10 +2777,10 @@
 {5644}{}{Oof! I wonder how much I will get for your corpse?}
 {5645}{}{Ow!}
 {5646}{}{Oof!}
-{5647}{}{Ow, my leg!}
+{5647}{}{Au, mein Bein!}
 {5648}{}{My knee!}
 {5649}{}{Ow! My leg's busted!}
-{5650}{}{Ow, my leg!}
+{5650}{}{Au, mein Bein!}
 {5651}{}{My knee!}
 {5652}{}{Ow! My leg's busted!}
 {5653}{}{I'm blind!}
@@ -2823,10 +2823,10 @@
 {5728}{}{}
 {5729}{}{Aggghhh!}
 {5730}{}{My face! My face!}
-{5731}{}{Aggghhh! My arm!}
+{5731}{}{Aggghhh! Mein Arm!}
 {5732}{}{My arm!}
 {5733}{}{Damn arm's useless now...}
-{5734}{}{Aggghhh! My arm!}
+{5734}{}{Aggghhh! Mein Arm!}
 {5735}{}{My arm!}
 {5736}{}{Damn arm's useless now...}
 {5737}{}{Ow!}
@@ -2839,10 +2839,10 @@
 {5744}{}{}
 {5745}{}{Ouch!}
 {5746}{}{Oof!}
-{5747}{}{Aggghhh! My leg!}
+{5747}{}{Aggghhh! Mein Bein!}
 {5748}{}{My leg!}
 {5749}{}{Dammit, my leg's useless...}
-{5750}{}{Aggghhh! My leg!}
+{5750}{}{Aggghhh! Mein Bein!}
 {5751}{}{My leg!}
 {5752}{}{Dammit, my leg's useless...}
 {5753}{}{Aggghhh! I'm blind!}
@@ -2885,10 +2885,10 @@
 {5828}{}{Damn that smarts!}
 {5829}{}{Aggghhh!}
 {5830}{}{My face! My beautiful face!}
-{5831}{}{Aggghhh! My arm!}
+{5831}{}{Aggghhh! Mein Arm!}
 {5832}{}{My arm!}
 {5833}{}{Damn arm's useless now...}
-{5834}{}{Aggghhh! My arm!}
+{5834}{}{Aggghhh! Mein Arm!}
 {5835}{}{My arm!}
 {5836}{}{Damn arm's useless now...}
 {5837}{}{}
@@ -2901,10 +2901,10 @@
 {5844}{}{}
 {5845}{}{}
 {5846}{}{Oof!}
-{5847}{}{Aggghhh! My leg!}
+{5847}{}{Aggghhh! Mein Bein!}
 {5848}{}{My leg!}
 {5849}{}{Dammit, my leg's useless...}
-{5850}{}{Aggghhh! My leg!}
+{5850}{}{Aggghhh! Mein Bein!}
 {5851}{}{My leg!}
 {5852}{}{Dammit, my leg's useless...}
 {5853}{}{Aggghhh! I'm blind!}
@@ -3009,10 +3009,10 @@
 {6028}{}{Damn!}
 {6029}{}{My aching skull}
 {6030}{}{My face! My face!}
-{6031}{}{Aggghhh! My arm!}
+{6031}{}{Aggghhh! Mein Arm!}
 {6032}{}{My arm!}
 {6033}{}{Oh man, that hurts!}
-{6034}{}{Aggghhh! My arm!}
+{6034}{}{Aggghhh! Mein Arm!}
 {6035}{}{My arm!}
 {6036}{}{}
 {6037}{}{}
@@ -3025,10 +3025,10 @@
 {6044}{}{Oh, my ribs!}
 {6045}{}{Ow!!!}
 {6046}{}{Oof!}
-{6047}{}{Aggghhh! My leg!}
+{6047}{}{Aggghhh! Mein Bein!}
 {6048}{}{My leg!}
 {6049}{}{There goes my knee}
-{6050}{}{Aggghhh! My leg!}
+{6050}{}{Aggghhh! Mein Bein!}
 {6051}{}{My leg!}
 {6052}{}{There goes my knee}
 {6053}{}{Aggghhh! I'm blind!}
@@ -3042,7 +3042,7 @@
 {6061}{}{Damn, that hurts!}
 {6100}{}{I'm outta here!}
 {6101}{}{Maybe this wasn't a good idea}
-{6102}{}{Attack someone else, okay!}
+{6102}{}{Greif jemand anderes an, okay!}
 {6103}{}{Yikes!}
 {6104}{}{I ain't dyin' for this!}
 {6105}{}{That's too much for me}
@@ -3071,10 +3071,10 @@
 {6128}{}{Ow! You son of a...}
 {6129}{}{You broke my nose!}
 {6130}{}{I'll take your head off!}
-{6131}{}{Ow, my arm!}
+{6131}{}{Au, mein Arm!}
 {6132}{}{You just made the biggest mistake of your life}
 {6133}{}{My arm!}
-{6134}{}{Ow, my arm!}
+{6134}{}{Au, mein Arm!}
 {6135}{}{You just made the biggest mistake of your life}
 {6136}{}{My arm!}
 {6137}{}{Urp!}
@@ -3087,10 +3087,10 @@
 {6144}{}{Oh, I think you broke a rib!}
 {6145}{}{Ow!!! My spleen!}
 {6146}{}{Oof!}
-{6147}{}{Ow, my leg!}
+{6147}{}{Au, mein Bein!}
 {6148}{}{I don't need to stand to kill you!}
 {6149}{}{My knee!}
-{6150}{}{Ow, my leg!}
+{6150}{}{Au, mein Bein!}
 {6151}{}{I don't need to stand to kill you!}
 {6152}{}{My knee!}
 {6153}{}{I can't see!}
@@ -3133,10 +3133,10 @@
 {6228}{}{Ow! You son of a...}
 {6229}{}{}
 {6230}{}{I'll take your head off!}
-{6231}{}{Ow, my arm!}
+{6231}{}{Au, mein Arm!}
 {6232}{}{You're beginning to piss me off}
 {6233}{}{My arm!}
-{6234}{}{Ow, my arm!}
+{6234}{}{Au, mein Arm!}
 {6235}{}{You're beginning to piss me off}
 {6236}{}{My arm!}
 {6237}{}{Ahh!}
@@ -3149,10 +3149,10 @@
 {6244}{}{Oh, my ribs!}
 {6245}{}{}
 {6246}{}{}
-{6247}{}{Ow, my leg!}
+{6247}{}{Au, mein Bein!}
 {6248}{}{Nice shot. Wait 'til it's my turn}
 {6249}{}{My knee!}
-{6250}{}{Ow, my leg!}
+{6250}{}{Au, mein Bein!}
 {6251}{}{Nice shot. Wait 'til it's my turn}
 {6252}{}{My knee!}
 {6253}{}{I can't see!}
@@ -3195,10 +3195,10 @@
 {6328}{}{Not in the face!}
 {6329}{}{Ah, my head hurts}
 {6330}{}{You broke my nose!}
-{6331}{}{Ow, my arm!}
+{6331}{}{Au, mein Arm!}
 {6332}{}{You broke my arm!}
 {6333}{}{}
-{6334}{}{Ow, my arm!}
+{6334}{}{Au, mein Arm!}
 {6335}{}{You broke my arm!}
 {6336}{}{}
 {6337}{}{Ouch! That hurt}
@@ -3211,10 +3211,10 @@
 {6344}{}{I'm gonna kick you in the ribs for that}
 {6345}{}{Ah!}
 {6346}{}{Oof!}
-{6347}{}{Ow, my leg!}
+{6347}{}{Au, mein Bein!}
 {6348}{}{You're gonna pay for that!}
 {6349}{}{Oh, my knee!}
-{6350}{}{Ow, my leg!}
+{6350}{}{Au, mein Bein!}
 {6351}{}{}
 {6352}{}{Oh, my knee}
 {6353}{}{Argh!}
@@ -3257,10 +3257,10 @@
 {6428}{}{Not in the face!}
 {6429}{}{Man, this is worse than a hangover}
 {6430}{}{You broke my nose!}
-{6431}{}{Ow, my arm!}
+{6431}{}{Au, mein Arm!}
 {6432}{}{You broke my arm!}
 {6433}{}{My arm! My arm!}
-{6434}{}{Ow, my arm!}
+{6434}{}{Au, mein Arm!}
 {6435}{}{You broke my arm!}
 {6436}{}{My arm! My arm!}
 {6437}{}{Man! That really hurt!}
@@ -3273,10 +3273,10 @@
 {6444}{}{That was a cheap shot!}
 {6445}{}{Oof!}
 {6446}{}{Ouch!}
-{6447}{}{Ow, my leg!}
+{6447}{}{Au, mein Bein!}
 {6448}{}{Nobody's making me into a gimp!}
 {6449}{}{Oh, my knee!}
-{6450}{}{Ow, my leg!}
+{6450}{}{Au, mein Bein!}
 {6451}{}{Nobody's making me into a gimp!}
 {6452}{}{Oh, my knee}
 {6453}{}{Argh! My eyes!}
@@ -3335,10 +3335,10 @@
 {6544}{}{No one does that to me, no one!}
 {6545}{}{Ow!!!}
 {6546}{}{Oof!}
-{6547}{}{Ow, my leg!}
+{6547}{}{Au, mein Bein!}
 {6548}{}{I can... barely... stand...}
 {6549}{}{Oh, my knee!}
-{6550}{}{Ow, my leg!}
+{6550}{}{Au, mein Bein!}
 {6551}{}{I can... barely... stand...}
 {6552}{}{Oh, my knee}
 {6553}{}{Uggh! Noooo!}
@@ -3381,10 +3381,10 @@
 {6628}{}{My face!}
 {6629}{}{Ah, my head hurts}
 {6630}{}{You're messing up my face!}
-{6631}{}{Ow, my arm!}
+{6631}{}{Au, mein Arm!}
 {6632}{}{You're trying to cripple me!}
 {6633}{}{My arm!}
-{6634}{}{Ow, my arm!}
+{6634}{}{Au, mein Arm!}
 {6635}{}{You're trying to cripple me!}
 {6636}{}{You broke my arm!}
 {6637}{}{Ow!}
@@ -3400,7 +3400,7 @@
 {6647}{}{My leg!!!}
 {6648}{}{My knee!}
 {6649}{}{Ow! My leg's busted!}
-{6650}{}{Ow, my leg!}
+{6650}{}{Au, mein Bein!}
 {6651}{}{My knee!}
 {6652}{}{}
 {6653}{}{My face! My face!}
@@ -3459,10 +3459,10 @@
 {6744}{}{}
 {6745}{}{Oh! My aching ribs! I will get you for that}
 {6746}{}{Oof!}
-{6747}{}{Ow, my leg!}
+{6747}{}{Au, mein Bein!}
 {6748}{}{You're gonna pay big time for that!}
 {6749}{}{You are not crippling me. Ow...}
-{6750}{}{Ow, my leg!}
+{6750}{}{Au, mein Bein!}
 {6751}{}{You're gonna pay big time for that!}
 {6752}{}{You are not crippling me.}
 {6753}{}{I am blind!}
@@ -3521,10 +3521,10 @@
 {6844}{}{}
 {6845}{}{Oh! My aching ribs! I'll get you for that}
 {6846}{}{Oof!}
-{6847}{}{Ow, my leg!}
+{6847}{}{Au, mein Bein!}
 {6848}{}{Ooo, my knee!}
 {6849}{}{Ow}
-{6850}{}{Ow, my leg!}
+{6850}{}{Au, mein Bein!}
 {6851}{}{Ooo, my knee}
 {6852}{}{Ow...}
 {6853}{}{I'm blind!}
@@ -3583,10 +3583,10 @@
 {6944}{}{Argh!}
 {6945}{}{}
 {6946}{}{Oof!}
-{6947}{}{Ow, my leg!}
+{6947}{}{Au, mein Bein!}
 {6948}{}{}
 {6949}{}{Ow}
-{6950}{}{Ow, my leg!}
+{6950}{}{Au, mein Bein!}
 {6951}{}{}
 {6952}{}{Ow...}
 {6953}{}{Aggghh!}
@@ -4001,10 +4001,10 @@
 {7628}{}{}
 {7629}{}{Ah, my head hurts}
 {7630}{}{You broke my nose!}
-{7631}{}{Ow, my arm!}
+{7631}{}{Au, mein Arm!}
 {7632}{}{You broke my arm!}
 {7633}{}{I didn't need that}
-{7634}{}{Ow, my arm!}
+{7634}{}{Au, mein Arm!}
 {7635}{}{You broke my arm!}
 {7636}{}{My good arm!}
 {7637}{}{Oof!}
@@ -4017,10 +4017,10 @@
 {7644}{}{Ouch!}
 {7645}{}{Ouch! That hurt!}
 {7646}{}{Hey! I wasn't ready for that!}
-{7647}{}{Ow, my leg!}
+{7647}{}{Au, mein Bein!}
 {7648}{}{You're gonna pay big time for that!}
 {7649}{}{Oh, my knee!}
-{7650}{}{Ow, my leg!}
+{7650}{}{Au, mein Bein!}
 {7651}{}{You're gonna pay big time for that!}
 {7652}{}{Oh, my knee}
 {7653}{}{Argh! My retina!}
@@ -4063,10 +4063,10 @@
 {7728}{}{Ow! You son of a...}
 {7729}{}{I'm gonna kill you for that}
 {7730}{}{I'll take your head off!}
-{7731}{}{Ow, my arm!}
+{7731}{}{Au, mein Arm!}
 {7732}{}{Damn. My arm's busted!}
 {7733}{}{My arm!}
-{7734}{}{Ow, my arm!}
+{7734}{}{Au, mein Arm!}
 {7735}{}{Damn. My arm's busted!}
 {7736}{}{My arm!}
 {7737}{}{You're gonna do some time for that!}
@@ -4079,10 +4079,10 @@
 {7744}{}{Do that again at your own peril}
 {7745}{}{Oof! Give it up!}
 {7746}{}{}
-{7747}{}{Ow, my leg!}
+{7747}{}{Au, mein Bein!}
 {7748}{}{You're gonna pay big time for that!}
 {7749}{}{My knee!}
-{7750}{}{Ow, my leg!}
+{7750}{}{Au, mein Bein!}
 {7751}{}{You're gonna pay big time for that!}
 {7752}{}{My knee!}
 {7753}{}{I can't see!}
@@ -4122,7 +4122,7 @@
 {7825}{}{You can't get the job done}
 {7826}{}{That was your last shot!}
 {7827}{}{Loser}
-{7828}{}{My aching skull!}
+{7828}{}{Mein Schädel schmerzt!}
 {7829}{}{How dare you do this to me!}
 {7830}{}{You broke my nose!}
 {7831}{}{You dirty radscorpion-kissing...}
@@ -4141,10 +4141,10 @@
 {7844}{}{Ow! That was most unpleasant}
 {7845}{}{Oof! I'm going remember that...}
 {7846}{}{[gasp!] I... outta... air...}
-{7847}{}{Ow, my leg!}
+{7847}{}{Au, mein Bein!}
 {7848}{}{Ooo... You punk!}
 {7849}{}{Oh, my knee!}
-{7850}{}{Ow, my leg!}
+{7850}{}{Au, mein Bein!}
 {7851}{}{Ooo... You punk!}
 {7852}{}{Oh, my knee}
 {7853}{}{Blood. All this blood...}
@@ -4184,7 +4184,7 @@
 {7925}{}{You can't get the job done}
 {7926}{}{That was your last mistake}
 {7927}{}{You're having a bad day. Stick around. It gets worse.}
-{7928}{}{My aching skull!}
+{7928}{}{Mein Schädel schmerzt!}
 {7929}{}{Oooo...}
 {7930}{}{You broke my nose!}
 {7931}{}{Oooo...}
@@ -4203,10 +4203,10 @@
 {7944}{}{Ow! Piss off you brat!}
 {7945}{}{Ah, crap...}
 {7946}{}{Argh! I think you cracked a rib!}
-{7947}{}{Ow, my leg!}
+{7947}{}{Au, mein Bein!}
 {7948}{}{Oooo...}
 {7949}{}{Oh, my knee!}
-{7950}{}{Ow, my leg!}
+{7950}{}{Au, mein Bein!}
 {7951}{}{Oooo...}
 {7952}{}{Oh, my knee}
 {7953}{}{Blood. All this blood...}
@@ -4243,16 +4243,16 @@
 {8022}{}{Your mama was a Glow Baby!}
 {8023}{}{You can't touch me, radscorpion brain!}
 {8024}{}{You can't even beat up a kid}
-{8025}{}{Loser!}
+{8025}{}{Verlierer!}
 {8026}{}{Missed me, radiation brain!}
 {8027}{}{What's the matter, Glow Baby?}
 {8028}{}{My face!}
 {8029}{}{Oooo, that hurts...}
 {8030}{}{Ow! My ear!}
-{8031}{}{Ow, my arm!}
+{8031}{}{Au, mein Arm!}
 {8032}{}{Oooo, that hurts...}
 {8033}{}{You broke my arm! Daddy!}
-{8034}{}{Ow, my arm!}
+{8034}{}{Au, mein Arm!}
 {8035}{}{Oooo, that hurts}
 {8036}{}{You broke my arm! Daddy!}
 {8037}{}{Ow!}
@@ -4265,10 +4265,10 @@
 {8044}{}{Ouch!}
 {8045}{}{Ow!}
 {8046}{}{Ow! Ow! You're mean!}
-{8047}{}{Ow, my leg!}
+{8047}{}{Au, mein Bein!}
 {8048}{}{My knee!}
 {8049}{}{You broke my leg! Daddy!}
-{8050}{}{Ow, my leg!}
+{8050}{}{Au, mein Bein!}
 {8051}{}{My knee!}
 {8052}{}{You broke my leg! Daddy!}
 {8053}{}{Aaaaaahhhh!!!}
@@ -4370,10 +4370,10 @@
 {8228}{}{You broke my nose!}
 {8229}{}{I didn't need that ear anyway}
 {8230}{}{Damn! That hurt!}
-{8231}{}{Ow, my arm!}
+{8231}{}{Au, mein Arm!}
 {8232}{}{You can cripple me, but I'll still kick your butt}
 {8233}{}{That was a mistake}
-{8234}{}{Ow, my arm!}
+{8234}{}{Au, mein Arm!}
 {8235}{}{You can cripple me, but I'll still kick your butt}
 {8236}{}{That was a mistake}
 {8237}{}{Ow!}
@@ -4555,11 +4555,11 @@
 {8729}{}{That was your last attack!}
 {8730}{}{A pitiful attempt!}
 {8731}{}{I can still beat you with one arm!}
-{8732}{}{You broke my arm! Now the fight is fair!}
-{8733}{}{You broke my arm! Now the fight is fair!}
+{8732}{}{Du hast meinen Arm gebrochen! Jetzt ist der Kampf fair!}
+{8733}{}{Du hast meinen Arm gebrochen! Jetzt ist der Kampf fair!}
 {8734}{}{I can still beat you with one arm!}
-{8735}{}{You broke my arm! Now the fight is fair!}
-{8736}{}{You broke my arm! Now the fight is fair!}
+{8735}{}{Du hast meinen Arm gebrochen! Jetzt ist der Kampf fair!}
+{8736}{}{Du hast meinen Arm gebrochen! Jetzt ist der Kampf fair!}
 {8737}{}{Your death will be legendary for that!}
 {8738}{}{I will feast on your eyes for that!}
 {8739}{}{I am indestructible!}

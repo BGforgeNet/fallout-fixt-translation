@@ -18,7 +18,7 @@
 {117}{}{That's a weapon!}
 {118}{}{Have you actually used that against someone?}
 {119}{}{Why do you think it is necessary to carry a weapon in here?}
-{120}{}{It's good to see you again.}
+{120}{}{Es ist schön, dich wiederzusehen.}
 {121}{}{I'm glad you are doing well.}
 {122}{}{You look okay to me. All those rumors must be untrue.}
 {123}{}{Hi }

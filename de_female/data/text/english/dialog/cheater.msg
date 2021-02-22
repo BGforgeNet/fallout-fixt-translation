@@ -66,7 +66,7 @@
 {214}{}{after: }
 {215}{}{[Hands you a Burrito Supreme] Enjoy your Grade D Beef.}
 {216}{}{Now you glow like a 50-rad light bulb.}
-{217}{}{Done.}
+{217}{}{Fertig.}
 {221}{}{[Grinning Visciously] I was happy to 'help' you.}
 {222}{}{How might I abuse you today?}
 {223}{}{1    Cripple Left Leg}
@@ -76,7 +76,7 @@
 {227}{}{5    Blind Me }
 {228}{}{8    Fully heal, remove all poison, remove ALL rads.}
 {229}{}{TEST ROLLS (mmm, rolls)}
-{230}{}{Done.}
+{230}{}{Fertig.}
 {231}{}{message here}
 {232}{}{1    500}
 {233}{}{2    1 thousand}

@@ -1,6 +1,6 @@
 {100}{}{Oh, my god! You killed him!}
 {101}{}{Hng!}
-{102}{}{Tough luck.}
+{102}{}{Pech gehabt.}
 {103}{}{He was my enemy. I had to kill him.}
 {104}{}{I'm sorry. I didn't know that he was so close to you.}
 {105}{}{You didn't have to kill him! [Sarah sobs.] Leave me alone.}

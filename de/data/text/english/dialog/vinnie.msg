@@ -40,7 +40,7 @@
 {139}{}{What makes the Skulz so tough?}
 {140}{}{[Vinnie thinks for a second.] If you want to prove you belong in the Skulz, I want you to steal that old bastard's wife's ashes. Heh. [Vinnie mumbles] Let's make Neal suffer for his last couple of hours... }
 {141}{}{All right, I'll do it.}
-{142}{}{No way.}
+{142}{}{Niemals.}
 {143}{}{Uh, I don't think I could do that.}
 {144}{}{I already stole it.}
 {145}{}{That won't be as tough as you might think. I already killed the bastard.}

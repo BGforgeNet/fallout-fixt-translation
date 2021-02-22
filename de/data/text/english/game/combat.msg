@@ -379,11 +379,11 @@
 {5007}{}{, reducing him into an undertaker's nightmare. Death is instantaneous}
 {5008}{}{, causing severe tennis elbow}
 {5009}{}{, pushing the arm out of the way}
-{5010}{}{ und hinterlässt einen großen blauen Fleck}
+{5010}{}{und hinterlässt einen großen blauen Fleck}
 {5011}{}{, crippling the left arm}
-{5012}{}{ und lässt den Arm nur noch an Hautfetzen baumeln}
+{5012}{}{und lässt den Arm nur noch an Hautfetzen baumeln}
 {5013}{}{. That arm now looks like a bloody stump}
-{5014}{}{ und hinterlässt einen verstümmelten rechten Arm}
+{5014}{}{und hinterlässt einen verstümmelten rechten Arm}
 {5015}{}{. His right arm is pulverized by this powerful blow}
 {5016}{}{ in a forceful blow}
 {5017}{}{, blowing through the armor}
@@ -417,7 +417,7 @@
 {5107}{}{, spinning her into a dance of death. Death is instantaneous}
 {5108}{}{, causing severe tennis elbow}
 {5109}{}{, pushing the arm out of the way}
-{5110}{}{ und hinterlässt einen großen blauen Fleck}
+{5110}{}{und hinterlässt einen großen blauen Fleck}
 {5111}{}{, puncturing through her left elbow with ease}
 {5112}{}{. The left arm is barely attached to her shoulder}
 {5113}{}{. That arm now looks like a bloody stump}
@@ -476,7 +476,7 @@
 {5303}{}{. The giant mutant looks around for a moment, and then slumps to the ground}
 {5304}{}{. The head explodes like a giant, bloody watermelon}
 {5305}{}{, severely hurting the mighty mutant}
-{5306}{}{ und lässt den Mutanten einen Augenblick lang das Universum verfluchen}
+{5306}{}{und lässt den Mutanten einen Augenblick lang das Universum verfluchen}
 {5307}{}{, striking a nerve and forcing the giant to grab his arm in pain}
 {5308}{}{. The blow breaks the elbow and probably didn't feel too good}
 {5309}{}{, breaking the thick arm and spewing mutant blood over the ground}
@@ -486,11 +486,11 @@
 {5313}{}{. The mutant stumbles and falls, his leg barely able to support him}
 {5314}{}{, striking a vital location. The mutant crumples under a broken leg}
 {5315}{}{. The pain of a broken leg overwhelms the mighty giant}
-{5316}{}{ und lässt den Mutanten fast erblinden}
-{5317}{}{ und lässt den wütenden Mutanten erblinden}
+{5316}{}{und lässt den Mutanten fast erblinden}
+{5317}{}{und lässt den wütenden Mutanten erblinden}
 {5318}{}{, not quite blinding the mutant but throwing him off balance}
 {5319}{}{. The blinded mutant stumbles back, unprepared for the next attack}
-{5320}{}{ und lässt den bewusstlosen Mutanten erblinden}
+{5320}{}{und lässt den bewusstlosen Mutanten erblinden}
 {5321}{}{. The eyes of the mutant glow for a moment, and then the light fades - permanently}
 {5400}{}{. The ghoul is surprised, and fails to defend against this attack}
 {5401}{}{. The blow buries this ghoul}
@@ -527,7 +527,7 @@
 {5609}{}{. The attack cuts through an unprotected joint on the leg, severing it}
 {5610}{}{, seriously wounding and blinding the mutant creature}
 {5611}{}{, penetrating almost to the brain. Talk about squashing a bug}
-{5612}{}{ und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
+{5612}{}{und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
 {5613}{}{. The attack is fiendish, and far too sophisticated for this simple creature}
 {5614}{}{. If it were human, you would swear it's pretty pissed off}
 {5615}{}{, knocking the poor creature senseless}
@@ -542,8 +542,8 @@
 {5707}{}{, seriously wounding the rat and knocking it around}
 {5708}{}{, splattering the rat across the floor}
 {5709}{}{, easily removing the right leg}
-{5710}{}{ und hinterlässt ein großes Loch im linken Bein}
-{5711}{}{ und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle handelt}
+{5710}{}{und hinterlässt ein großes Loch im linken Bein}
+{5711}{}{und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle handelt}
 {5712}{}{, summoning this creature to the great ratcatcher in the sky}
 {5800}{}{, the floater drops to the ground}
 {5801}{}{, the floater falls to the ground, seemingly lifeless}
@@ -601,7 +601,7 @@
 {6207}{}{, which causes the mantis to fall over. A limb is bent at an odd shape}
 {6208}{}{, shredding the wings}
 {6209}{}{, bypassing the chitinous armor and throwing the mantis around}
-{6210}{}{ und lässt das Insekt mit einem präzisen Schlag erblinden}
+{6210}{}{und lässt das Insekt mit einem präzisen Schlag erblinden}
 {6300}{}{. Even this beast seems fazed by that stunning attack}
 {6301}{}{, slipping past the huge claws to strike the monster. The Deathclaw shakes and growls}
 {6302}{}{. The result is massive damage to the Deathclaw's eyes}
@@ -633,9 +633,9 @@
 {6518}{}{. Der schmerzhafte Schlag lässt dich zucken, sonst nichts}
 {6519}{}{. Unlucky for you, it also causes immediate vision loss}
 {6520}{}{. It takes you a moment to wipe the blood from your eyes}
-{6521}{}{ und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr sehen kannst}
+{6521}{}{und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr sehen kannst}
 {6522}{}{. Ein seltsames Gefühl steigt in deinen Kopf. Dir wird klar, dass dein Gehirntod kurz bevor steht}
-{6523}{}{ und lässt dich zusammenzucken}
+{6523}{}{und lässt dich zusammenzucken}
 {6524}{}{. You cup your groin and fall to the floor in pain}
 {6525}{}{. Der Schmerz lässt dich ohnmächtig werden. Autsch}
 {6526}{}{. There are not enough words in the universe to describe the pain your are feeling at this moment}

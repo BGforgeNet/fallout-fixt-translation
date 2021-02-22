@@ -398,7 +398,7 @@
 {5201}{}{Do you wish to continue playing Fallout Fixt with this character?}
 {5202}{}{No.  (END GAME: Play final movie sequence & credits, then exit to main menu.)}
 {5203}{}{Yes.  (CONTINUE PLAYING: This dialog window will close and you'll stay on this map. Play continues normally.)}
-{5400}{}{Stay away from there.}
+{5400}{}{Bleib weg da.}
 {9000}{}{Repairs Complete.}
 {9001}{}{Rearming Complete.}
 {9002}{}{Repairing Structural Damage.}

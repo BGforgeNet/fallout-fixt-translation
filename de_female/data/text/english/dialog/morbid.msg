@@ -124,7 +124,7 @@
 {223}{}{Fine. Have it your way!}
 {224}{}{I will take something from you. And then we will be even.}
 {225}{}{Okay. }
-{226}{}{No way.}
+{226}{}{Niemals.}
 {227}{}{Excellent!}
 {228}{}{Doc Morbid reaches up with a surgical tool, and, before you can react, removes one of your eyes. It is extremely painful.}
 {229}{}{Now, half of what you have just seen is mine again.}

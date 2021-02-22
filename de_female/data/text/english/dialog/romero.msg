@@ -30,18 +30,18 @@
 {131}{}{Hey, now that you're a Blade, I need to ask you a favor.}
 {132}{}{Sure.}
 {133}{}{What is it?}
-{134}{}{No way.}
+{134}{}{Niemals.}
 {135}{}{Great. Take this locket to Julianna. Tell her that I hope to see her soon.}
 {136}{}{It seems that I have fallen for a girl in Adytum. Because of the Regulators shooting us on sight, I can't get close to her.}
 {137}{}{How can I help?}
 {138}{}{Go on.}
-{139}{}{Tough luck.}
+{139}{}{Pech gehabt.}
 {140}{}{If you take this locket to Julianna, I would be in your debt.}
 {141}{}{Sure thing.}
 {142}{}{Find someone else.}
 {143}{}{With allies like you, who needs enemies? Goodbye!}
 {144}{}{I think she loves me too, but I don't know. The Blades won't risk letting me try to break into Adytum.}
-{145}{}{Tough luck.}
+{145}{}{Pech gehabt.}
 {146}{}{Okay, I'll help.}
 {147}{}{Thank you! She sent me a note. We are going to meet at the Follower's place and get married.}
 {148}{}{Welcome back.}

@@ -14,7 +14,7 @@
 {113}{}{I think I'll let the authorities deal with you.}
 {114}{}{Please let me go.}
 {115}{}{Thanks for letting me out.}
-{116}{}{No prob.}
+{116}{}{Kein Ding.}
 {117}{}{Where does the water come from?}
 {118}{}{Ya.}
 {119}{}{They pump it up from the wells below. There is a manhole in the cell next door that leads to the old Vault. This is the source of the water. If it wasn't for those ones below, we would be a lot better off.}

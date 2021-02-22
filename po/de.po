@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-02-22 14:12+0000\n"
+"PO-Revision-Date: 2021-02-23 14:12+0000\n"
 "Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -4764,7 +4764,7 @@ msgstr "Dein Abenteuer ist geschafft."
 #. indexed_txt
 #: data/text/english/cuts/nar_8.txt:1
 msgid "You fought valiantly, but to no avail.  "
-msgstr "Du hast heldenhaft gekämpft, aber ohne Nutzen."
+msgstr "Du hast heldenhaft gekämpft, aber ohne Nutzen.  "
 
 #. indexed_txt
 #: data/text/english/cuts/nar_8.txt:2
@@ -26668,7 +26668,7 @@ msgstr ""
 #: data/text/english/game/pipboy.msg:16039
 #: data/text/english/game/pipboy.msg:18030
 msgid "**END-DISK**"
-msgstr ""
+msgstr "**ENDE-DISK**"
 
 #: data/text/english/dialog/doclockr.msg:100
 #: data/text/english/dialog/locker.msg:107
@@ -100862,12 +100862,12 @@ msgstr ""
 #: data/text/english/game/combat.msg:5008
 #: data/text/english/game/combat.msg:5108
 msgid ", causing severe tennis elbow"
-msgstr ""
+msgstr "und führt zu einem heftigen Tennisarm"
 
 #: data/text/english/game/combat.msg:5009
 #: data/text/english/game/combat.msg:5109
 msgid ", pushing the arm out of the way"
-msgstr ""
+msgstr "und stößt den Arm zur Seite"
 
 #: data/text/english/game/combat.msg:5010
 #: data/text/english/game/combat.msg:5110
@@ -100876,7 +100876,7 @@ msgstr "und hinterlässt einen großen blauen Fleck"
 
 #: data/text/english/game/combat.msg:5011
 msgid ", crippling the left arm"
-msgstr ""
+msgstr "und verstümmelt den linken Arm"
 
 #: data/text/english/game/combat.msg:5012
 msgid ", leaving the left arm dangling by the skin"
@@ -100902,12 +100902,12 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5017
 msgid ", blowing through the armor"
-msgstr ""
+msgstr ", durchdringt die Rüstung"
 
 #: data/text/english/game/combat.msg:5018
 #: data/text/english/game/combat.msg:5118
 msgid ", inflicting an extra helping of damage"
-msgstr ""
+msgstr "und richtet zusätzlichen Schaden an"
 
 #: data/text/english/game/combat.msg:5019
 msgid " right through his armor, knocking the combatant to the ground"
@@ -100928,7 +100928,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5023
 msgid ", knocking him to the ground like a bowling pin in a league game"
-msgstr ""
+msgstr "und wirft ihn zu Boden, wie Kegel bei einem Punktespiel."
 
 #: data/text/english/game/combat.msg:5024
 msgid ""
@@ -100937,7 +100937,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5025
 msgid ", smashing the knee into the next town. He falls"
-msgstr ""
+msgstr "und bläst das Knie bis in die nächste Stadt. Er fällt"
 
 #: data/text/english/game/combat.msg:5026
 msgid ". The intense pain of having a leg removed causes him to quit"
@@ -100959,7 +100959,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5030
 msgid ", and blinding him with a stunning blow"
-msgstr ""
+msgstr "und blendet ihn mit einem atemberaubenden Schlag"
 
 #: data/text/english/game/combat.msg:5031
 msgid ". The loss of an eye is too much for him, and he falls to the ground"
@@ -101093,7 +101093,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5134
 msgid ", knocking her to the ground"
-msgstr ""
+msgstr "und wirft sie zu Boden"
 
 #: data/text/english/game/combat.msg:5135
 msgid ". Her childbearing days are numbered as she collapses in a limp heap"
@@ -101117,7 +101117,7 @@ msgstr ". Der Schlag sitzt, und das Kind wird bewusstlos"
 
 #: data/text/english/game/combat.msg:5204
 msgid ", smashing the small child around like a limp rag"
-msgstr ""
+msgstr "und schleudert das kleine Kind wie einen nassen Lappen herum"
 
 #: data/text/english/game/combat.msg:5205
 msgid ". The left arm of this kid now has an owie"
@@ -101125,15 +101125,15 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5206
 msgid ", throwing the small child off balance"
-msgstr ""
+msgstr "und bringt das kleine Kind aus dem Gleichgewicht"
 
 #: data/text/english/game/combat.msg:5207
 msgid ", breaking that arm with a loud snap. Some serious tears start to flow"
-msgstr ""
+msgstr "und bricht den Arm mit einem lauten Knacken. Tränen fließen in Strömen"
 
 #: data/text/english/game/combat.msg:5208
 msgid ", easily snapping that arm like a small piece of candy"
-msgstr ""
+msgstr "und zerbricht den Arm wie eine Zuckerstange"
 
 #: data/text/english/game/combat.msg:5209
 msgid ". The right arm starts to swell, like a balloon"
@@ -101141,7 +101141,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5210
 msgid ", and starts to cry"
-msgstr ""
+msgstr "und beginnt zu weinen"
 
 #: data/text/english/game/combat.msg:5211
 msgid " in a sensitive spot"
@@ -101153,7 +101153,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5213
 msgid ", knocking the little kid over like a toy"
-msgstr ""
+msgstr "und wirft das kleine Kind um wie ein Spielzeug"
 
 #: data/text/english/game/combat.msg:5214
 msgid ". Now this young child will never really experience life"
@@ -101161,7 +101161,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5215
 msgid ", inflicting a deep cut"
-msgstr ""
+msgstr "und fügt eine tiefe Wunde zu"
 
 #: data/text/english/game/combat.msg:5216
 msgid ". The attack bowls the child over, and breaks the leg"
@@ -101169,7 +101169,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5217
 msgid ", inflicting great harm to the small child"
-msgstr ""
+msgstr "und fügt dem kleinen Kind großen Schaden zu"
 
 #: data/text/english/game/combat.msg:5218
 msgid ". The young child looks up and starts to cry"
@@ -101206,11 +101206,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5226
 msgid ", knocking this young target to the ground"
-msgstr ""
+msgstr "und wirft das junge Opfer zu Boden"
 
 #: data/text/english/game/combat.msg:5300
 msgid ", hurting the mighty mutant"
-msgstr ""
+msgstr "und verletzt den mächtigen Mutanten"
 
 #: data/text/english/game/combat.msg:5301
 msgid ", striking a vital spot"
@@ -101231,7 +101231,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5305
 msgid ", severely hurting the mighty mutant"
-msgstr ""
+msgstr "und verletzt den mächtigen Mutanten ernsthaft"
 
 #: data/text/english/game/combat.msg:5306
 msgid ", causing the giant to spend a moment cursing the universe"
@@ -101240,6 +101240,8 @@ msgstr "und lässt den Mutanten einen Augenblick lang das Universum verfluchen"
 #: data/text/english/game/combat.msg:5307
 msgid ", striking a nerve and forcing the giant to grab his arm in pain"
 msgstr ""
+"und trifft einen Nerv, weswegen der Riese schmerzerfüllt nach seinem Arm "
+"greift"
 
 #: data/text/english/game/combat.msg:5308
 msgid ". The blow breaks the elbow and probably didn't feel too good"
@@ -101263,7 +101265,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5312
 msgid ", sending the giant flying to the floor"
-msgstr ""
+msgstr "und schickt den Riesen fliegend zu Boden"
 
 #: data/text/english/game/combat.msg:5313
 msgid ". The mutant stumbles and falls, his leg barely able to support him"
@@ -101272,6 +101274,8 @@ msgstr ""
 #: data/text/english/game/combat.msg:5314
 msgid ", striking a vital location. The mutant crumples under a broken leg"
 msgstr ""
+"und trifft eine wichtige Stelle. Der Mutant bricht mit einem gebrochenen "
+"Bein zusammen"
 
 #: data/text/english/game/combat.msg:5315
 msgid ". The pain of a broken leg overwhelms the mighty giant"
@@ -101341,7 +101345,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5500
 msgid ", knocking the big beast to the ground"
-msgstr ""
+msgstr "und wirft das große Ungetüm um"
 
 #: data/text/english/game/combat.msg:5501
 msgid ", stunning both brains and felling the giant animal"
@@ -101357,19 +101361,19 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5504
 msgid ", seriously hurting the mutant cow"
-msgstr ""
+msgstr "und verletzt die Mutantenkuh ernsthaft"
 
 #: data/text/english/game/combat.msg:5505
 msgid ", easily penetrating the thick hide of the giant beast"
-msgstr ""
+msgstr "und durchdringt ganz einfach die dicke Haut des Riesenviehs"
 
 #: data/text/english/game/combat.msg:5506
 msgid ", penetrating straight through both hearts of the mutant cow"
-msgstr ""
+msgstr "und durchdringt beide Herzen der Mutantenkuh direkt"
 
 #: data/text/english/game/combat.msg:5507
 msgid ", blinding both sets of eyes with a single blow"
-msgstr ""
+msgstr "und blendet beide Augenpaare mit einem einzigen Schlag"
 
 #: data/text/english/game/combat.msg:5508
 msgid ", blinding both heads and stunning the mutant cow"
@@ -101401,15 +101405,15 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5601
 msgid ", separating the head from the carapace"
-msgstr ""
+msgstr "und trennt den Kopf vom Rückenpanzer"
 
 #: data/text/english/game/combat.msg:5602
 msgid ", seriously damaging the tail"
-msgstr ""
+msgstr "und schädigt den Schwanz ernsthaft"
 
 #: data/text/english/game/combat.msg:5603
 msgid ", putting a major hurt on its claws"
-msgstr ""
+msgstr "und verletzt seine Klauen schmerzhaft"
 
 #: data/text/english/game/combat.msg:5604
 msgid ""
@@ -101418,7 +101422,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5605
 msgid ", striking through the tough carapace without pausing"
-msgstr ""
+msgstr "und durchdringt den harten Rückenschild ohne Schwierigkeiten"
 
 #: data/text/english/game/combat.msg:5606
 msgid ", passing through the natural armor and knocking the radscorpion over"
@@ -101440,11 +101444,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5610
 msgid ", seriously wounding and blinding the mutant creature"
-msgstr ""
+msgstr "und verwundet und blendet das mutierte Wesen"
 
 #: data/text/english/game/combat.msg:5611
 msgid ", penetrating almost to the brain. Talk about squashing a bug"
-msgstr ""
+msgstr "und dringt fast bis ins Hirn vor. Als würde man Ungeziefer zerquetschen"
 
 #: data/text/english/game/combat.msg:5612
 msgid ", almost penetrating to the brain, but blinding the creature instead"
@@ -101461,11 +101465,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5615
 msgid ", knocking the poor creature senseless"
-msgstr ""
+msgstr "und schlägt das arme Wesen besinnungslos"
 
 #: data/text/english/game/combat.msg:5616
 msgid ", spiking the brain to the floor"
-msgstr ""
+msgstr "und nagelt das Hirn an den Boden"
 
 #: data/text/english/game/combat.msg:5700
 msgid ". The rodent's skull makes several unhealthy sounds"
@@ -101473,7 +101477,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5701
 msgid ", squashing the rodent's skull like a wet paper bag"
-msgstr ""
+msgstr "und zerquetscht den Schädel des Nagetiers wie eine nasse Papiertüte"
 
 #: data/text/english/game/combat.msg:5702
 msgid ", and the left paw now looks a little flat"
@@ -101501,7 +101505,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5708
 msgid ", splattering the rat across the floor"
-msgstr ""
+msgstr "und verspritzt die Ratte über den Boden"
 
 #: data/text/english/game/combat.msg:5709
 msgid ", easily removing the right leg"
@@ -101531,11 +101535,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5802
 msgid ", with serious consequences to the creature's continued existence"
-msgstr ""
+msgstr "mit ernsthaften Folgen für das Weiterleben des Wesens"
 
 #: data/text/english/game/combat.msg:5803
 msgid ", stunning the foul creature"
-msgstr ""
+msgstr "und betäubt das eklige Wesen"
 
 #: data/text/english/game/combat.msg:5804
 msgid ", hitting a sensitive spot there and stunning the floater"
@@ -101572,7 +101576,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5901
 msgid " as the blow strikes a critical spot"
-msgstr ""
+msgstr " , als der Schlag eine kritische Stelle trifft"
 
 #: data/text/english/game/combat.msg:5902
 msgid ", causing a massive neurological failure"
@@ -101580,11 +101584,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5903
 msgid ", stunning it with your violent attack"
-msgstr ""
+msgstr "und betäubst das Wesen mit deinem heftigen Angriff"
 
 #: data/text/english/game/combat.msg:5904
 msgid ", crippling the arm"
-msgstr ""
+msgstr "und verstümmelt den Arm"
 
 #: data/text/english/game/combat.msg:5905
 msgid " striking a critical spot, and crippling the arm"
@@ -101596,7 +101600,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5907
 msgid ", stunning the centaur as it is knocked over with a crippled leg"
-msgstr ""
+msgstr "und betäubt den Zentaur, der mit einem verstümmelten Bein umfällt"
 
 #: data/text/english/game/combat.msg:5908
 msgid ", blinding one head and liquefying the other"
@@ -101604,15 +101608,15 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:5909
 msgid ", surprising the centaur. It blindly stumbles for a moment"
-msgstr ""
+msgstr "und überrascht den Zentaur. Blind strauchelt er einen Augenblick lang"
 
 #: data/text/english/game/combat.msg:5910
 msgid ", surprising the centaur. It collapses in a heap"
-msgstr ""
+msgstr "und überrascht den Zentaur. Er bricht in einem Haufen zusammen"
 
 #: data/text/english/game/combat.msg:5911
 msgid ", surprising the centaur. It collapses in a pile of goo"
-msgstr ""
+msgstr "und überrascht den Zentaur. Er fällt in einem Haufen Glibber zusammen"
 
 #: data/text/english/game/combat.msg:5912
 msgid ". The attack was not as effective as it could have been"
@@ -101649,7 +101653,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6007
 msgid ", inflicting heavy structural damage"
-msgstr ""
+msgstr "und verursacht schwere strukturelle Schäden"
 
 #: data/text/english/game/combat.msg:6008
 msgid ", hitting a critical component and causing severe damage"
@@ -101661,7 +101665,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6010
 msgid ", dismantling the robot"
-msgstr ""
+msgstr "und zerlegt den Roboter"
 
 #: data/text/english/game/combat.msg:6011
 msgid ". The robot attempts to compensate, but fails, falling to the ground"
@@ -101673,15 +101677,15 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6013
 msgid ", breaking the sensor lenses"
-msgstr ""
+msgstr "und zerbricht die Sensorobjektive"
 
 #: data/text/english/game/combat.msg:6100
 msgid ", knocking the pooch to the ground"
-msgstr ""
+msgstr "und wirft den Köter zu Boden"
 
 #: data/text/english/game/combat.msg:6101
 msgid ", right across the snout"
-msgstr ""
+msgstr "genau auf die Schnauze"
 
 #: data/text/english/game/combat.msg:6102
 msgid ". The dog falls over, but it is still breathing"
@@ -101693,11 +101697,13 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6104
 msgid ", crippling the leg"
-msgstr ""
+msgstr "und verstümmelt das Bein"
 
 #: data/text/english/game/combat.msg:6105
 msgid ", crippling the leg. The animal tries to remain standing, but fails"
 msgstr ""
+"und verstümmelt das Bein. Das Tier versucht stehenzubleiben, es gelingt ihm "
+"aber nicht"
 
 #: data/text/english/game/combat.msg:6106
 msgid ". The blinded animal howls in pain"
@@ -101705,11 +101711,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6107
 msgid ", neutering the poor animal"
-msgstr ""
+msgstr "und kastriert das arme Tier"
 
 #: data/text/english/game/combat.msg:6200
 msgid ", knocking down this mutated insect"
-msgstr ""
+msgstr "und wirft das mutierte Insekt nieder"
 
 #: data/text/english/game/combat.msg:6201
 msgid ", which collapses"
@@ -101721,7 +101727,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6203
 msgid ", crippling the limb"
-msgstr ""
+msgstr "und verstümmelt das Glied"
 
 #: data/text/english/game/combat.msg:6204
 msgid ", causing the mantis to lick its wounds. It holds the limb oddly"
@@ -101729,7 +101735,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6205
 msgid ", bypassing the chitinous armor"
-msgstr ""
+msgstr "und durchdringt den Chitinpanzer"
 
 #: data/text/english/game/combat.msg:6206
 msgid ". The mantis shrieks and shivers must inhumanly"
@@ -101741,7 +101747,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6208
 msgid ", shredding the wings"
-msgstr ""
+msgstr "und zerfetzt die Flügel"
 
 #: data/text/english/game/combat.msg:6209
 msgid ", bypassing the chitinous armor and throwing the mantis around"
@@ -101827,7 +101833,7 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6507
 msgid ", stunning you for a moment"
-msgstr ""
+msgstr "und betäubt dich für einen Augenblick"
 
 #: data/text/english/game/combat.msg:6508
 msgid ". Feel the pain"
@@ -101842,10 +101848,13 @@ msgid ""
 ", slipping past your armor. The blow cracks the bones in your arm like "
 "deadwood"
 msgstr ""
+"und umgeht deine Rüstung. Der Schlag bricht die Knochen deines Arms wie "
+"totes Holz"
 
 #: data/text/english/game/combat.msg:6511
 msgid ", bypassing your armor. Your arm now hangs limply at your side"
 msgstr ""
+"und durchdringt deine Rüstung. Dein Arm hängt nun schlaff an deiner Seite"
 
 #: data/text/english/game/combat.msg:6512
 msgid ""
@@ -101854,11 +101863,11 @@ msgstr ""
 
 #: data/text/english/game/combat.msg:6513
 msgid ", crushing your internal organs. All you can do is gurgle blood"
-msgstr ""
+msgstr "und zerkleinert deine Eingeweide. Du kannst nur noch Blut spucken"
 
 #: data/text/english/game/combat.msg:6514
 msgid ", sending you head over heels"
-msgstr ""
+msgstr "und schleudert dich kopfüber herum"
 
 #: data/text/english/game/combat.msg:6515
 msgid ", sending you flying and breaking your leg"
@@ -101869,6 +101878,8 @@ msgid ""
 ", melting through your armor. The blow knocks you over and seriously hurts "
 "your knee"
 msgstr ""
+"und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein "
+"Knie schwer"
 
 #: data/text/english/game/combat.msg:6517
 msgid ". The pain from your broken leg causes you to pass out"
@@ -112450,23 +112461,23 @@ msgstr ""
 
 #: data/text/english/game/inventry.msg:9
 msgid "  Normal"
-msgstr ""
+msgstr "  Normal"
 
 #: data/text/english/game/inventry.msg:10
 msgid "  Laser"
-msgstr ""
+msgstr "  Laser"
 
 #: data/text/english/game/inventry.msg:11
 msgid "  Fire"
-msgstr ""
+msgstr "  Feuer"
 
 #: data/text/english/game/inventry.msg:12
 msgid "  Plasma"
-msgstr ""
+msgstr "  Plasma"
 
 #: data/text/english/game/inventry.msg:13
 msgid "  Explode"
-msgstr ""
+msgstr "  Explosion"
 
 #: data/text/english/game/inventry.msg:14
 msgid "[no item]"
@@ -113250,7 +113261,7 @@ msgstr ""
 
 #: data/text/english/game/misc.msg:18
 msgid "The motion sensor has no charges remaining."
-msgstr ""
+msgstr "Der Bewegungssensor hat keine Ladung mehr übrig."
 
 #: data/text/english/game/misc.msg:100
 msgid "Error saving game config file!"
@@ -114139,7 +114150,7 @@ msgstr ""
 #: data/text/english/game/pipboy.msg:18026
 #: data/text/english/game/pipboy.msg:18028
 msgid "**END-PAR**"
-msgstr ""
+msgstr "**END-PAR**"
 
 #: data/text/english/game/pipboy.msg:1016
 msgid "• Log Date May 9, 2075"
@@ -126157,7 +126168,7 @@ msgstr "Es hat %d/%d Schuss %s."
 
 #: data/text/english/game/proto.msg:530
 msgid "and has crippled limbs."
-msgstr ""
+msgstr "und hat schwer verletzte Gliedmaßen."
 
 #: data/text/english/game/proto.msg:531
 msgid "but has crippled limbs."
@@ -126165,7 +126176,7 @@ msgstr ""
 
 #: data/text/english/game/proto.msg:532
 msgid "and have crippled limbs."
-msgstr ""
+msgstr "und hast schwer verletzte Gliedmaßen."
 
 #: data/text/english/game/proto.msg:533
 msgid "but have crippled limbs."
@@ -128778,7 +128789,7 @@ msgstr ""
 
 #: data/text/english/game/skilldex.msg:100
 msgid "SKILLDEX"
-msgstr ""
+msgstr "KÖNNEN"
 
 #: data/text/english/game/skilldex.msg:102
 msgid "SNEAK"

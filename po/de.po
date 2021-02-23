@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-02-23 14:12+0000\n"
+"PO-Revision-Date: 2021-02-24 14:12+0000\n"
 "Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -5036,6 +5036,8 @@ msgid ""
 "Junktown becomes the new boomtown under the careful, and profitable, "
 "guidance of Don Gizmo."
 msgstr ""
+"Unter der behutsamen und gewinnbringenden Führung von Don Gizmo, erlebt "
+"Junktown einen großen Aufschwung."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_25.txt:2
@@ -5044,18 +5046,23 @@ msgid ""
 "the scope of his power, until he chokes to death while eating some Iguana-"
 "on-a-stick."
 msgstr ""
+"Er selbst verdient am meisten, weiterhin vergrößert er sein Casino und baut "
+"seine Macht aus, bis er an einem Leguan am Spieß erstickt."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_27.txt:1
 msgid ""
 "The mutants are slowed, but not stopped, by the brave defenders of Junktown."
 msgstr ""
+"Die tapferen Männer von Junktown halten die Mutanten kurzfristig auf, können "
+"sie aber nicht stoppen."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_27.txt:2
 msgid ""
 "When the army finishes their brutal siege, nothing of Junktown remains."
 msgstr ""
+"Am Ende der brutalen Belagerung der Arme bleibt von Junktown nichts übrig."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_28.txt:1
@@ -5063,6 +5070,9 @@ msgid ""
 "The Brotherhood of Steel helps the other human outposts drive the mutant "
 "armies away with minimal loss of life, on both sides of the conflict."
 msgstr ""
+"Die Brotherhood of Steel hilft anderen Außenposten der Menschen, die "
+"Mutantenarmeen in die Flucht zu schlagen. Beide Seiten erleiden dabei nur "
+"minimale Truppenverluste."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_28.txt:2
@@ -5079,6 +5089,8 @@ msgid ""
 "The Brotherhood wisely remains out of the power structure, and becomes a "
 "major research and development house."
 msgstr ""
+"In weiser Voraussicht verhält sich die Brotherhood neutral und wird ein "
+"wichtiger Faktor für Forschung und Fortschritt."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_29.txt:1
@@ -5086,6 +5098,8 @@ msgid ""
 "The Brotherhood of Steel, under new leadership after the death of Rhombus, "
 "becomes an overzealous, techno-religious dictatorship."
 msgstr ""
+"Die Brotherhood of Steel, die nach dem Tod von Rhombus einen neuen Führer "
+"hat, wird zu einer übereifrigen, technologiebesessenen Diktatur."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_29.txt:2
@@ -5093,6 +5107,9 @@ msgid ""
 "In 20 years, the Steel Plague devastates the newly formed New California "
 "Republic, and starts a Dark Age that could last a thousand years."
 msgstr ""
+"20 Jahre später verwüstet die Stahlpest die neugegründete Republik New "
+"California und läutet ein finsteres Zeitalter ein, das vielleicht tausend "
+"Jahre andauern kann."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_31.txt:1
@@ -5100,6 +5117,9 @@ msgid ""
 "The Brotherhood of Steel repels the first wave of a mutant invasion, but a "
 "traitor in their midst causes the Citadel to fall."
 msgstr ""
+"Die Brotherhood of Steel schlägt die erste Invasionswelle der Mutanten "
+"zurück, doch ein Verräter aus den eigenen Reihen bringt die Zitadelle zu "
+"Fall."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_31.txt:2
@@ -5107,6 +5127,8 @@ msgid ""
 "Fortunately, the advanced technology is mastered slowly by the mutants, and "
 "they were unable to use it against you."
 msgstr ""
+"Zum Glück lernen die Mutanten den Umgang mit der neuen Technik nur langsam "
+"und können sie daher nicht gegen dich einsetzen."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_32.txt:1
@@ -5114,16 +5136,18 @@ msgid ""
 "With your assistance, Old Harold brings the ghoul population of the Hub into"
 " equality with the humans."
 msgstr ""
+"Mit deiner Hilfe führt Old Harold die Gleichberechtigung der Ghuls im Hub "
+"mit den Menschen herbei."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_32.txt:2
 msgid "The two sides work together, and the Hub prospers."
-msgstr ""
+msgstr "Beide Seiten arbeiten zusammen, und der Hub floriert."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_32.txt:3
 msgid "Old Harold is still alive, as far as anyone knows."
-msgstr ""
+msgstr "Soweit man weiß, ist Old Harold noch am Leben."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_34.txt:1
@@ -5131,18 +5155,20 @@ msgid ""
 "The Hub disperses before the might of the mutant army and will never "
 "recover."
 msgstr ""
+"Der Hub löst sich angesichts der übermächtigen Mutantenarmee auf und "
+"verschwindet für immer."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_35.txt:1
 msgid ""
 "Thanks to your persistence, the Raiders are destroyed as an effective "
 "fighting force, and disband."
-msgstr ""
+msgstr "Dank deiner Ausdauer werden die Raider zerschlagen und lösen sich auf."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_35.txt:2
 msgid "None of the Raider survivors are ever heard from again."
-msgstr ""
+msgstr "Keiner der überlebenden Raiders ist jemals wieder aufgetaucht."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_36.txt:1
@@ -5150,12 +5176,14 @@ msgid ""
 "The Desert Raiders eventually regroup and manage to terrorize small "
 "communities in the years following your adventures."
 msgstr ""
+"Die Desert Raiders formieren sich schließlich erneut und terrorisieren in "
+"den folgenden Jahren kleine Gemeinden."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_37.txt:1
 msgid ""
 "The Desert Raiders pillage most of the northern parts of New California."
-msgstr ""
+msgstr "Die Desert Raider plündern große Teile des Nordens von New California."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_37.txt:2
@@ -5163,21 +5191,23 @@ msgid ""
 "They are a scourge that lasts for years, until a rebel army of mutants "
 "brings them down."
 msgstr ""
+"Sie bleiben jahrelang eine Plage, bis sie von einer Armee rebellischer "
+"Mutanten zu Fall gebracht werden."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_38.txt:1
 msgid "Your mission beneath the Mutant Stronghold is successful."
-msgstr ""
+msgstr "Deine Mission innerhalb der Mutantenfestung ist erfolgreich."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_38.txt:2 data/text/english/cuts/nar_39.txt:2
 msgid "Your actions today will influence the outside world for years to come."
-msgstr ""
+msgstr "Deine heutigen Taten werden die Außenwelt über Jahre hin verändern."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_39.txt:1
 msgid "Your mission beneath the Cathedral is successful."
-msgstr ""
+msgstr "Deine Mission innerhalb der Kathedrale ist erfolgreich."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_40.txt:1
@@ -5185,11 +5215,13 @@ msgid ""
 "Your involvement with the various places and people of the Wasteland is well"
 " documented by future historians."
 msgstr ""
+"Dein Engagement für die verschiedenen Orte und Menschen im Ödland wird von "
+"zukünftigen Historikern gut dokumentiert."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_40.txt:2
 msgid "Only a single question remained unanswered: What happened to you?"
-msgstr ""
+msgstr "Nur eine Frage bleibt unbeantwortet: Was geschah mit dir?"
 
 #. indexed_txt
 #: data/text/english/cuts/nar_41.txt:1
@@ -5208,27 +5240,27 @@ msgstr "Du läufst in die Wüste hinaus und lässt die Vault hinter dir."
 #. indexed_txt
 #: data/text/english/cuts/nar_44.txt:1
 msgid "Interplay Productions presents..."
-msgstr ""
+msgstr "Interplay Productions präsentiert..."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_45.txt:1
 msgid "Fallout, a post nuclear role-playing game."
-msgstr ""
+msgstr "Fallout, ein postnukleares Rollenspiel."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_46.txt:1
 msgid "Fallout, a post nuclear adventure."
-msgstr ""
+msgstr "Fallout, ein postnukleares Abenteuer."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:1
 msgid "War."
-msgstr ""
+msgstr "Krieg."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:2
 msgid "War never changes."
-msgstr ""
+msgstr "Krieg bleibt immer gleich."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:7
@@ -5283,23 +5315,23 @@ msgstr ""
 
 #: data/text/english/cuts/ovrintro.sve:30
 msgid "Ahh, you're here.  Good."
-msgstr ""
+msgstr "Ahh, du bist da.  Gut."
 
 #: data/text/english/cuts/ovrintro.sve:80
 msgid "We've got a problem.  A big one."
-msgstr ""
+msgstr "Wir haben ein Problem.  Ein großes."
 
 #: data/text/english/cuts/ovrintro.sve:117
 msgid "The controller chip for our water purification system"
-msgstr ""
+msgstr "Der Steuerchip unserer Trinkwasseranlage"
 
 #: data/text/english/cuts/ovrintro.sve:165
 msgid "has given up the ghost."
-msgstr ""
+msgstr "hat den Geist aufgegeben."
 
 #: data/text/english/cuts/ovrintro.sve:205
 msgid "Can't make another one and the process is too complicated"
-msgstr ""
+msgstr "Wir können ihn nicht reparieren, und die Anlage"
 
 #: data/text/english/cuts/ovrintro.sve:250
 msgid "for a work around system."
@@ -5307,43 +5339,43 @@ msgstr "lässt sich nicht durch Notsysteme steuern."
 
 #: data/text/english/cuts/ovrintro.sve:290
 msgid "Simply put, we're running out of drinking water."
-msgstr ""
+msgstr "Kurz gesagt, wir haben bald kein Trinkwasser mehr."
 
 #: data/text/english/cuts/ovrintro.sve:355
 msgid "No water, no Vault."
-msgstr ""
+msgstr "Kein Wasser, keine Vault."
 
 #: data/text/english/cuts/ovrintro.sve:410
 msgid "This is crucial to our survival."
-msgstr ""
+msgstr "Er ist lebenswichtig für unser Überleben."
 
 #: data/text/english/cuts/ovrintro.sve:470
 msgid "And frankly, I... I think you're the only hope we have."
-msgstr ""
+msgstr "Offen gesagt, ich ... ich glaube, du bist unsere letzte Chance."
 
 #: data/text/english/cuts/ovrintro.sve:560
 msgid "You need to go find us another controller chip."
-msgstr ""
+msgstr "Du musst gehen und uns einen neuen Steuerchip besorgen."
 
 #: data/text/english/cuts/ovrintro.sve:615
 msgid "We estimate we have four to five months"
-msgstr ""
+msgstr "Wir schätzen, wir haben für vier bis fünf Monate"
 
 #: data/text/english/cuts/ovrintro.sve:650
 msgid "before the Vault runs out of water."
-msgstr ""
+msgstr "bis der Bunker kein Wasser mehr hat."
 
 #: data/text/english/cuts/ovrintro.sve:695
 msgid "We need that chip."
-msgstr ""
+msgstr "Wir brauchen den Chip."
 
 #: data/text/english/cuts/ovrintro.sve:735
 msgid "We marked your map with the location of another Vault."
-msgstr ""
+msgstr "Wir haben auf deiner Karte einen Ort eines anderen Vaults markiert."
 
 #: data/text/english/cuts/ovrintro.sve:785
 msgid "Not a bad place to start I think."
-msgstr ""
+msgstr "Geh am besten erst mal dorthin."
 
 #: data/text/english/cuts/ovrintro.sve:855
 msgid "Look, just be safe, OK?"
@@ -5506,7 +5538,7 @@ msgstr ""
 #: data/text/english/dialog/wmcarvn.msg:187
 #: data/text/english/dialog/zack.msg:103
 msgid "No."
-msgstr ""
+msgstr "Nein."
 
 #: data/text/english/dialog/abel.msg:118
 msgid "You again. Abel kick yer ass!"
@@ -5710,7 +5742,7 @@ msgstr ""
 #: data/text/english/dialog/wtrthief.msg:112
 #: data/text/english/dialog/zack.msg:104 data/text/english/game/proto.msg:670
 msgid "Okay."
-msgstr ""
+msgstr "OK."
 
 #: data/text/english/dialog/agatha.msg:107
 #: data/text/english/dialog/billy.msg:108
@@ -5725,7 +5757,7 @@ msgstr ""
 #: data/text/english/dialog/phil.msg:108
 #: data/text/english/dialog/viola.msg:168
 msgid "Why?"
-msgstr ""
+msgstr "Warum?"
 
 #: data/text/english/dialog/agatha.msg:108
 #: data/text/english/dialog/demolex.msg:115
@@ -5939,7 +5971,7 @@ msgstr ""
 #: data/text/english/dialog/hgencvan.msg:229
 #: data/text/english/dialog/hgencvan.msg:234
 msgid "Thank you. Goodbye."
-msgstr ""
+msgstr "Vielen Dank. Auf Wiedersehen."
 
 #: data/text/english/dialog/agatha.msg:143
 msgid ""
@@ -8566,7 +8598,7 @@ msgstr ""
 #: data/text/english/dialog/psychic.msg:134
 #: data/text/english/dialog/rhombus.msg:147
 msgid "No, thanks."
-msgstr ""
+msgstr "Nein, danke."
 
 #: data/text/english/dialog/baka.msg:142
 msgid ""
@@ -8630,7 +8662,7 @@ msgstr ""
 #: data/text/english/dialog/vconcomp.msg:172
 #: data/text/english/dialog/wmcarvn.msg:192
 msgid "Yes."
-msgstr ""
+msgstr "Ja."
 
 #: data/text/english/dialog/baka.msg:144
 msgid "Uh, no!"
@@ -9294,7 +9326,7 @@ msgstr ""
 #: data/text/english/dialog/wmcarvn.msg:186
 #: data/text/english/dialog/zack.msg:116 data/text/english/game/proto.msg:671
 msgid "Sure."
-msgstr ""
+msgstr "Sicher."
 
 #: data/text/english/dialog/barracus.msg:183
 msgid "Life IS shorter than you think. Die, asshole!"
@@ -10133,7 +10165,7 @@ msgstr ""
 #: data/text/english/dialog/hbeth.msg:159
 #: data/text/english/dialog/hbillie.msg:112
 msgid "Oh, okay."
-msgstr ""
+msgstr "Oh, okay."
 
 #: data/text/english/dialog/billy.msg:112
 #: data/text/english/dialog/hbillie.msg:113
@@ -11270,7 +11302,7 @@ msgstr ""
 #: data/text/english/dialog/inblade.msg:112
 #: data/text/english/dialog/lorraine.msg:162
 msgid "Thanks for your help."
-msgstr ""
+msgstr "Danke für die Hilfe."
 
 #: data/text/english/dialog/blade.msg:113
 #: data/text/english/dialog/inblade.msg:113
@@ -14676,7 +14708,7 @@ msgstr ""
 
 #: data/text/english/dialog/bychris.msg:106
 msgid "No Thanks."
-msgstr ""
+msgstr "Nein, Danke."
 
 #: data/text/english/dialog/bychris.msg:107
 msgid "You my Mommie?"
@@ -23381,7 +23413,7 @@ msgstr ""
 #: data/text/english/dialog/tylier.msg:123
 #: data/text/english/dialog/tylier.msg:127
 msgid "Goodbye."
-msgstr ""
+msgstr "Wiedersehn."
 
 #: data/text/english/dialog/darrel.msg:115
 msgid ""
@@ -24333,7 +24365,7 @@ msgstr ""
 
 #: data/text/english/dialog/deadguy.msg:129
 msgid "Yes, ma'am!"
-msgstr ""
+msgstr "Ja, gnädige Frau!"
 
 #: data/text/english/dialog/dealer.msg:100
 msgid ""
@@ -27080,7 +27112,7 @@ msgstr ""
 #: data/text/english/dialog/sentry.msg:111
 #: data/text/english/dialog/viola.msg:299
 msgid "Me go."
-msgstr ""
+msgstr "Ich gehen."
 
 #: data/text/english/dialog/dolgan.msg:100
 msgid "You see: Snake, a member of the Blades."
@@ -52725,7 +52757,7 @@ msgstr ""
 #: data/text/english/dialog/nicole.msg:230
 #: data/text/english/dialog/v13comp.msg:129
 msgid "Nothing, never mind."
-msgstr ""
+msgstr "Nichts, schon gut."
 
 #: data/text/english/dialog/justin.msg:113
 msgid ""
@@ -60071,7 +60103,7 @@ msgstr ""
 #: data/text/english/dialog/leader.msg:158
 #: data/text/english/dialog/miles.msg:124
 msgid "Yes, here they are."
-msgstr ""
+msgstr "Ja, hier sind sie."
 
 #: data/text/english/dialog/leader.msg:159
 msgid "Yeah, but I've decided to forget about fixing the water pump."
@@ -70973,7 +71005,7 @@ msgstr ""
 #: data/text/english/dialog/mstmerch.msg:136
 #: data/text/english/dialog/ration.msg:114
 msgid "No, not yet."
-msgstr ""
+msgstr "Nein, noch nicht."
 
 #: data/text/english/dialog/mstmerch.msg:137
 msgid ""
@@ -79740,11 +79772,11 @@ msgstr ""
 
 #: data/text/english/dialog/rebel.msg:117
 msgid "Pretty well."
-msgstr ""
+msgstr "Recht gut."
 
 #: data/text/english/dialog/rebel.msg:118
 msgid "Not so good."
-msgstr ""
+msgstr "Nicht besonders gut."
 
 #: data/text/english/dialog/rebel.msg:120
 msgid "Well, that's good to hear. Keep up the good work, I guess."
@@ -88218,7 +88250,7 @@ msgstr ""
 #: data/text/english/dialog/sophia.msg:302
 #: data/text/english/dialog/sophia.msg:355
 msgid "Uh..."
-msgstr ""
+msgstr "Äh..."
 
 #: data/text/english/dialog/sophia.msg:303
 #: data/text/english/dialog/sophia.msg:356

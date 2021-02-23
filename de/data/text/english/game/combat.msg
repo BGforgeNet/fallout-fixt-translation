@@ -377,29 +377,29 @@
 {5005}{}{. The strong blow to the head knocks him out}
 {5006}{}{. The attack crushes the temple. Good night, Gracie}
 {5007}{}{, reducing him into an undertaker's nightmare. Death is instantaneous}
-{5008}{}{, causing severe tennis elbow}
-{5009}{}{, pushing the arm out of the way}
+{5008}{}{und führt zu einem heftigen Tennisarm}
+{5009}{}{und stößt den Arm zur Seite}
 {5010}{}{und hinterlässt einen großen blauen Fleck}
-{5011}{}{, crippling the left arm}
+{5011}{}{und verstümmelt den linken Arm}
 {5012}{}{und lässt den Arm nur noch an Hautfetzen baumeln}
 {5013}{}{. That arm now looks like a bloody stump}
 {5014}{}{und hinterlässt einen verstümmelten rechten Arm}
 {5015}{}{. His right arm is pulverized by this powerful blow}
 {5016}{}{ in a forceful blow}
-{5017}{}{, blowing through the armor}
-{5018}{}{, inflicting an extra helping of damage}
+{5017}{}{, durchdringt die Rüstung}
+{5018}{}{und richtet zusätzlichen Schaden an}
 {5019}{}{ right through his armor, knocking the combatant to the ground}
 {5020}{}{ knocking the air out. He slumps to the ground out of the fight}
 {5021}{}{. Unfortunately for him, his spine is now clearly visible from the front}
 {5022}{}{ putting a major hurt on his leg}
-{5023}{}{, knocking him to the ground like a bowling pin in a league game}
+{5023}{}{und wirft ihn zu Boden, wie Kegel bei einem Punktespiel.}
 {5024}{}{, bowling him over and chopping off that leg like a scarlet side of meat}
-{5025}{}{, smashing the knee into the next town. He falls}
+{5025}{}{und bläst das Knie bis in die nächste Stadt. Er fällt}
 {5026}{}{. Der intensive Schmerz des Beinverlusts lässt ihn einhalten}
 {5027}{}{ inflicting some extra pain}
 {5028}{}{ causing blindness, unluckily for him}
 {5029}{}{, and with no protection there, causing serious pain}
-{5030}{}{, and blinding him with a stunning blow}
+{5030}{}{und blendet ihn mit einem atemberaubenden Schlag}
 {5031}{}{. The loss of an eye is too much for him, and he falls to the ground}
 {5032}{}{, sadly, he is too busy feeling the rush of air on the brain to notice death approaching}
 {5033}{}{. Ouch! That had to hurt}
@@ -415,8 +415,8 @@
 {5105}{}{. The strong blow to the head knocks her out}
 {5106}{}{. The attack crushes her temple in a fountain of blood. Good night, Gracie}
 {5107}{}{, spinning her into a dance of death. Death is instantaneous}
-{5108}{}{, causing severe tennis elbow}
-{5109}{}{, pushing the arm out of the way}
+{5108}{}{und führt zu einem heftigen Tennisarm}
+{5109}{}{und stößt den Arm zur Seite}
 {5110}{}{und hinterlässt einen großen blauen Fleck}
 {5111}{}{, puncturing through her left elbow with ease}
 {5112}{}{. The left arm is barely attached to her shoulder}
@@ -425,7 +425,7 @@
 {5115}{}{. Her right arm is turned into hamburger by the blow}
 {5116}{}{ in a forceful blow}
 {5117}{}{ piercing through her defenses}
-{5118}{}{, inflicting an extra helping of damage}
+{5118}{}{und richtet zusätzlichen Schaden an}
 {5119}{}{ bypassing the armor, knocking the female fighter to the ground}
 {5120}{}{ knocking the air out. She slumps to the ground}
 {5121}{}{. Unfortunately for her, most organs have now been exposed to the light}
@@ -441,26 +441,26 @@
 {5131}{}{. She faints from the blinding attack}
 {5132}{}{, sadly, she doesn't get to pray to her gods before she meets them}
 {5133}{}{. She takes it like a man. That is to say, it hurts}
-{5134}{}{, knocking her to the ground}
+{5134}{}{und wirft sie zu Boden}
 {5135}{}{. Her childbearing days are numbered as she collapses in a limp heap}
 {5200}{}{. The little kid starts to cry}
 {5201}{}{. Unconscious, the small child falls over}
 {5202}{}{. Ouchie!}
 {5203}{}{. Der Schlag sitzt, und das Kind wird bewusstlos}
-{5204}{}{, smashing the small child around like a limp rag}
+{5204}{}{und schleudert das kleine Kind wie einen nassen Lappen herum}
 {5205}{}{. The left arm of this kid now has an owie}
-{5206}{}{, throwing the small child off balance}
-{5207}{}{, breaking that arm with a loud snap. Some serious tears start to flow}
-{5208}{}{, easily snapping that arm like a small piece of candy}
+{5206}{}{und bringt das kleine Kind aus dem Gleichgewicht}
+{5207}{}{und bricht den Arm mit einem lauten Knacken. Tränen fließen in Strömen}
+{5208}{}{und zerbricht den Arm wie eine Zuckerstange}
 {5209}{}{. The right arm starts to swell, like a balloon}
-{5210}{}{, and starts to cry}
+{5210}{}{und beginnt zu weinen}
 {5211}{}{ in a sensitive spot}
 {5212}{}{. The attack to a vital organ knocks the kid over}
-{5213}{}{, knocking the little kid over like a toy}
+{5213}{}{und wirft das kleine Kind um wie ein Spielzeug}
 {5214}{}{. Now this young child will never really experience life}
-{5215}{}{, inflicting a deep cut}
+{5215}{}{und fügt eine tiefe Wunde zu}
 {5216}{}{. The attack bowls the child over, and breaks the leg}
-{5217}{}{, inflicting great harm to the small child}
+{5217}{}{und fügt dem kleinen Kind großen Schaden zu}
 {5218}{}{. The young child looks up and starts to cry}
 {5219}{}{, was den kleinen Menschen erblinden lässt}
 {5220}{}{, bashing in the youthful looking nose}
@@ -469,22 +469,22 @@
 {5223}{}{ causing blindness. The young child drops to the ground}
 {5224}{}{, the blow continues into the small brain and turns it into slag}
 {5225}{}{. The child looks confused and shaken}
-{5226}{}{, knocking this young target to the ground}
-{5300}{}{, hurting the mighty mutant}
+{5226}{}{und wirft das junge Opfer zu Boden}
+{5300}{}{und verletzt den mächtigen Mutanten}
 {5301}{}{, striking a vital spot}
 {5302}{}{, striking a vital spot and knocking the giant to the ground}
 {5303}{}{. The giant mutant looks around for a moment, and then slumps to the ground}
 {5304}{}{. The head explodes like a giant, bloody watermelon}
-{5305}{}{, severely hurting the mighty mutant}
+{5305}{}{und verletzt den mächtigen Mutanten ernsthaft}
 {5306}{}{und lässt den Mutanten einen Augenblick lang das Universum verfluchen}
-{5307}{}{, striking a nerve and forcing the giant to grab his arm in pain}
+{5307}{}{und trifft einen Nerv, weswegen der Riese schmerzerfüllt nach seinem Arm greift}
 {5308}{}{. The blow breaks the elbow and probably didn't feel too good}
 {5309}{}{, breaking the thick arm and spewing mutant blood over the ground}
 {5310}{}{, lässt den Riesen einen Moment lang stolpern und dann wie einen gefällten Baum umkippen}
 {5311}{}{, and gallons of viscera splurt to the ground}
-{5312}{}{, sending the giant flying to the floor}
+{5312}{}{und schickt den Riesen fliegend zu Boden}
 {5313}{}{. The mutant stumbles and falls, his leg barely able to support him}
-{5314}{}{, striking a vital location. The mutant crumples under a broken leg}
+{5314}{}{und trifft eine wichtige Stelle. Der Mutant bricht mit einem gebrochenen Bein zusammen}
 {5315}{}{. The pain of a broken leg overwhelms the mighty giant}
 {5316}{}{und lässt den Mutanten fast erblinden}
 {5317}{}{und lässt den wütenden Mutanten erblinden}
@@ -501,14 +501,14 @@
 {5406}{}{. The ghoul is wearing no armor there}
 {5407}{}{, and the eye explodes like a blood sausage}
 {5408}{}{, causing the ghoul to look bewildered in his final moments}
-{5500}{}{, knocking the big beast to the ground}
+{5500}{}{und wirft das große Ungetüm um}
 {5501}{}{, stunning both brains and felling the giant animal}
 {5502}{}{. The mutant cow gives a loud, startled cry}
 {5503}{}{, breaking one of the brahma's legs}
-{5504}{}{, seriously hurting the mutant cow}
-{5505}{}{, easily penetrating the thick hide of the giant beast}
-{5506}{}{, penetrating straight through both hearts of the mutant cow}
-{5507}{}{, blinding both sets of eyes with a single blow}
+{5504}{}{und verletzt die Mutantenkuh ernsthaft}
+{5505}{}{und durchdringt ganz einfach die dicke Haut des Riesenviehs}
+{5506}{}{und durchdringt beide Herzen der Mutantenkuh direkt}
+{5507}{}{und blendet beide Augenpaare mit einem einzigen Schlag}
 {5508}{}{, lässt beide Köpfe erblinden und betäubt die Mutantenkuh}
 {5509}{}{, completely blinding the brahma and knocking it out}
 {5510}{}{, the large mutant bovine stumbles for a moment}
@@ -516,39 +516,39 @@
 {5512}{}{. The brahma snorts with pain}
 {5513}{}{. The brahma is most upset with this udderly devastating attack}
 {5600}{}{, sending the radscorpion flying on its back}
-{5601}{}{, separating the head from the carapace}
-{5602}{}{, seriously damaging the tail}
-{5603}{}{, putting a major hurt on its claws}
+{5601}{}{und trennt den Kopf vom Rückenpanzer}
+{5602}{}{und schädigt den Schwanz ernsthaft}
+{5603}{}{und verletzt seine Klauen schmerzhaft}
 {5604}{}{. The blow slips between the cracks of the radscorpion's tough carapace}
-{5605}{}{, striking through the tough carapace without pausing}
+{5605}{}{und durchdringt den harten Rückenschild ohne Schwierigkeiten}
 {5606}{}{, passing through the natural armor and knocking the radscorpion over}
 {5607}{}{. The radscorpion cannot cope with a new sensation, like missing internal organs}
 {5608}{}{, sending the 'scorpion flying and crippling some of its legs}
 {5609}{}{. The attack cuts through an unprotected joint on the leg, severing it}
-{5610}{}{, seriously wounding and blinding the mutant creature}
-{5611}{}{, penetrating almost to the brain. Talk about squashing a bug}
+{5610}{}{und verwundet und blendet das mutierte Wesen}
+{5611}{}{und dringt fast bis ins Hirn vor. Als würde man Ungeziefer zerquetschen}
 {5612}{}{und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
 {5613}{}{. The attack is fiendish, and far too sophisticated for this simple creature}
 {5614}{}{. If it were human, you would swear it's pretty pissed off}
-{5615}{}{, knocking the poor creature senseless}
-{5616}{}{, spiking the brain to the floor}
+{5615}{}{und schlägt das arme Wesen besinnungslos}
+{5616}{}{und nagelt das Hirn an den Boden}
 {5700}{}{. The rodent's skull makes several unhealthy sounds}
-{5701}{}{, squashing the rodent's skull like a wet paper bag}
+{5701}{}{und zerquetscht den Schädel des Nagetiers wie eine nasse Papiertüte}
 {5702}{}{, and the left paw now looks a little flat}
 {5703}{}{. The left paw of the rat is blown off}
 {5704}{}{. The right paw is heavily damaged}
 {5705}{}{, reducing the right paw to a thin red paste}
 {5706}{}{. The rat is seriously wounded by this attack and screeches in pain}
 {5707}{}{, seriously wounding the rat and knocking it around}
-{5708}{}{, splattering the rat across the floor}
+{5708}{}{und verspritzt die Ratte über den Boden}
 {5709}{}{, easily removing the right leg}
 {5710}{}{und hinterlässt ein großes Loch im linken Bein}
 {5711}{}{und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle handelt}
 {5712}{}{, summoning this creature to the great ratcatcher in the sky}
 {5800}{}{, the floater drops to the ground}
 {5801}{}{, the floater falls to the ground, seemingly lifeless}
-{5802}{}{, with serious consequences to the creature's continued existence}
-{5803}{}{, stunning the foul creature}
+{5802}{}{mit ernsthaften Folgen für das Weiterleben des Wesens}
+{5803}{}{und betäubt das eklige Wesen}
 {5804}{}{, hitting a sensitive spot there and stunning the floater}
 {5805}{}{. Der Schlag lässt den Floater in einer blutroten Wolke erschauern}
 {5806}{}{, the blow causing some sort of violent reaction in the creature}
@@ -557,17 +557,17 @@
 {5809}{}{, with the blow hitting a sensitive spot}
 {5810}{}{. The creature is obviously agitated}
 {5900}{}{, pushed like a bad habit, the centaur falls over and is stunned}
-{5901}{}{ as the blow strikes a critical spot}
+{5901}{}{ , als der Schlag eine kritische Stelle trifft}
 {5902}{}{, causing a massive neurological failure}
-{5903}{}{, stunning it with your violent attack}
-{5904}{}{, crippling the arm}
+{5903}{}{und betäubst das Wesen mit deinem heftigen Angriff}
+{5904}{}{und verstümmelt den Arm}
 {5905}{}{ striking a critical spot, and crippling the arm}
 {5906}{}{, knocking the creature over and crippling the leg}
-{5907}{}{, stunning the centaur as it is knocked over with a crippled leg}
+{5907}{}{und betäubt den Zentaur, der mit einem verstümmelten Bein umfällt}
 {5908}{}{, blinding one head and liquefying the other}
-{5909}{}{, surprising the centaur. It blindly stumbles for a moment}
-{5910}{}{, surprising the centaur. It collapses in a heap}
-{5911}{}{, surprising the centaur. It collapses in a pile of goo}
+{5909}{}{und überrascht den Zentaur. Blind strauchelt er einen Augenblick lang}
+{5910}{}{und überrascht den Zentaur. Er bricht in einem Haufen zusammen}
+{5911}{}{und überrascht den Zentaur. Er fällt in einem Haufen Glibber zusammen}
 {5912}{}{. The attack was not as effective as it could have been}
 {6000}{}{, inflicting some structural damage}
 {6001}{}{, sparks fly and the robot goes momentarily out of control}
@@ -576,30 +576,30 @@
 {6004}{}{. The robot attempts to compensate}
 {6005}{}{. The robot strains to compensate}
 {6006}{}{, hitting some key part and causing heavy damage}
-{6007}{}{, inflicting heavy structural damage}
+{6007}{}{und verursacht schwere strukturelle Schäden}
 {6008}{}{, hitting a critical component and causing severe damage}
 {6009}{}{. The robot shudders under this intense attack}
-{6010}{}{, dismantling the robot}
+{6010}{}{und zerlegt den Roboter}
 {6011}{}{. The robot attempts to compensate, but fails, falling to the ground}
 {6012}{}{. The robot strains under the pressure, falling to the ground}
-{6013}{}{, breaking the sensor lenses}
-{6100}{}{, knocking the pooch to the ground}
-{6101}{}{, right across the snout}
+{6013}{}{und zerbricht die Sensorobjektive}
+{6100}{}{und wirft den Köter zu Boden}
+{6101}{}{genau auf die Schnauze}
 {6102}{}{. The dog falls over, but it is still breathing}
 {6103}{}{, the animal coughs up a spurt of blood}
-{6104}{}{, crippling the leg}
-{6105}{}{, crippling the leg. The animal tries to remain standing, but fails}
+{6104}{}{und verstümmelt das Bein}
+{6105}{}{und verstümmelt das Bein. Das Tier versucht stehenzubleiben, es gelingt ihm aber nicht}
 {6106}{}{. The blinded animal howls in pain}
-{6107}{}{, neutering the poor animal}
-{6200}{}{, knocking down this mutated insect}
+{6107}{}{und kastriert das arme Tier}
+{6200}{}{und wirft das mutierte Insekt nieder}
 {6201}{}{, which collapses}
 {6202}{}{. The mantis ponders whether to continue living}
-{6203}{}{, crippling the limb}
+{6203}{}{und verstümmelt das Glied}
 {6204}{}{, causing the mantis to lick its wounds. It holds the limb oddly}
-{6205}{}{, bypassing the chitinous armor}
+{6205}{}{und durchdringt den Chitinpanzer}
 {6206}{}{. The mantis shrieks and shivers must inhumanly}
 {6207}{}{, which causes the mantis to fall over. A limb is bent at an odd shape}
-{6208}{}{, shredding the wings}
+{6208}{}{und zerfetzt die Flügel}
 {6209}{}{, bypassing the chitinous armor and throwing the mantis around}
 {6210}{}{und lässt das Insekt mit einem präzisen Schlag erblinden}
 {6300}{}{. Even this beast seems fazed by that stunning attack}
@@ -619,16 +619,16 @@
 {6504}{}{, the shock makes your vision go dark. After a moment, you notice that your vision has not returned}
 {6505}{}{. You get a nice view of your body as your head sails through the air}
 {6506}{}{. Surprisingly, the damage feels no worse than normal}
-{6507}{}{, stunning you for a moment}
+{6507}{}{und betäubt dich für einen Augenblick}
 {6508}{}{. Feel the pain}
 {6509}{}{. The attack leaves your arm useless}
-{6510}{}{, slipping past your armor. The blow cracks the bones in your arm like deadwood}
-{6511}{}{, bypassing your armor. Your arm now hangs limply at your side}
+{6510}{}{und umgeht deine Rüstung. Der Schlag bricht die Knochen deines Arms wie totes Holz}
+{6511}{}{und durchdringt deine Rüstung. Dein Arm hängt nun schlaff an deiner Seite}
 {6512}{}{. The bruise will look nice, and maybe the scars will make good party talk}
-{6513}{}{, crushing your internal organs. All you can do is gurgle blood}
-{6514}{}{, sending you head over heels}
+{6513}{}{und zerkleinert deine Eingeweide. Du kannst nur noch Blut spucken}
+{6514}{}{und schleudert dich kopfüber herum}
 {6515}{}{, sending you flying and breaking your leg}
-{6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee}
+{6516}{}{und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein Knie schwer}
 {6517}{}{. The pain from your broken leg causes you to pass out}
 {6518}{}{. Der schmerzhafte Schlag lässt dich zucken, sonst nichts}
 {6519}{}{. Unlucky for you, it also causes immediate vision loss}

@@ -106,9 +106,9 @@
 {524}{}{It looks: %s }
 {525}{}{%s has %d/%d hit points.}
 {526}{}{Es hat %d/%d Schuss %s.}
-{530}{}{and has crippled limbs.}
+{530}{}{und hat schwer verletzte Gliedmaßen.}
 {531}{}{but has crippled limbs.}
-{532}{}{and have crippled limbs.}
+{532}{}{und hast schwer verletzte Gliedmaßen.}
 {533}{}{but have crippled limbs.}
 {535}{}{He has %d/%d hit points}
 {536}{}{She has %d/%d hit points}

@@ -1,4 +1,4 @@
-{100}{}{SKILLDEX}
+{100}{}{KÖNNEN}
 {101}{}{CANCEL}
 {102}{}{SNEAK}
 {103}{}{LOCKPICK}

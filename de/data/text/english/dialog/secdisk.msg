@@ -5,6 +5,6 @@
 {104}{}{You see: Security Override Disk.}
 {105}{}{Username: "admin". Password: "muerte". Security override protocol: Gamma Omicron Delta.}
 {106}{}{**BEGIN-DISK**}
-{107}{}{**END-DISK**}
+{107}{}{**ENDE-DISK**}
 {108}{}{[Continue]}
 {109}{}{Pip-Boy 2000 displays: 'Username: "admin". Password: "muerte". Security override: Gamma Omicron Delta.'}

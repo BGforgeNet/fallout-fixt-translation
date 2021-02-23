@@ -292,7 +292,7 @@
 {1091}{}{volunteer subjects. I am against this, and would }
 {1092}{}{like it noted here that research on human subjects}
 {1093}{}{is not recommended by myself or my staff.}
-{1094}{}{**END-DISK**}
+{1094}{}{**ENDE-DISK**}
 {2000}{}{Vault Locations v34.129 Revision C (Western USA)}
 {2001}{}{**END-PAR**}
 {2002}{}{Hello, and welcome to the latest edition of the Western}
@@ -342,7 +342,7 @@
 {2046}{}{Vault, have had many a potential vault-dweller walking}
 {2047}{}{away with a newfound awe of the improvements done to}
 {2048}{}{this already impressive Vault.}
-{2049}{}{**END-DISK**}
+{2049}{}{**ENDE-DISK**}
 {3000}{}{Capt. Maxson was right. This place is death.}
 {3001}{}{I'm writing this so that if we don't make it}
 {3002}{}{back, someone, some day, might find out what}
@@ -392,7 +392,7 @@
 {3046}{}{before it's too late.}
 {3047}{}{**END-PAR**}
 {3048}{}{Sgt. D. Allen , United States Armed Forces.}
-{3049}{}{**END-DISK**}
+{3049}{}{**ENDE-DISK**}
 {4000}{}{Prototype Panimmunity Virion Project}
 {4001}{}{**END-PAR**}
 {4002}{}{In the hopes of countering the current }
@@ -433,7 +433,7 @@
 {4037}{}{nerve cells and nonsomatic cell were induced to }
 {4038}{}{begin mitosis. Further experiments will be necessary}
 {4039}{}{to determine the results on these cells.}
-{4040}{}{**END-DISK**}
+{4040}{}{**ENDE-DISK**}
 {5000}{}{The Military has deemed it necessary for us to research}
 {5001}{}{further in depth the effects of wave technology upon}
 {5002}{}{living organisms.  We have taken light and sound as the}
@@ -443,7 +443,7 @@
 {5006}{}{feet a steel.  Unfortunately, the power to do such a}
 {5007}{}{task has not been fully developed.  We have other}
 {5008}{}{scientists looking into this.}
-{5009}{}{**END-DISK**}
+{5009}{}{**ENDE-DISK**}
 {6000}{}{• Initial Observations}
 {6001}{}{**END-PAR**}
 {6002}{}{This is truly amazing. Some of the Knights on a patrolling}
@@ -554,7 +554,7 @@
 {6107}{}{concentration of the virus, it stands to reason that}
 {6108}{}{there could be some place which is creating them.}
 {6109}{}{As to where they could be, I cannot hazard a guess.}
-{6110}{}{**END-DISK**}
+{6110}{}{**ENDE-DISK**}
 {8000}{}{Message sent: Base, this is Scavenger Team Two,}
 {8001}{}{come in. Over.}
 {8002}{}{**END-PAR**}
@@ -582,7 +582,7 @@
 {8024}{}{Message received: Copy. We'll be awaiting your report.}
 {8025}{}{If possible, try to capture it. The Master would be}
 {8026}{}{very pleased. Over.}
-{8027}{}{**END-DISK**}
+{8027}{}{**ENDE-DISK**}
 {9000}{}{• Oct 10, 2077}
 {9001}{}{I, Roger Maxson, Captain, serial number 072389 have}
 {9002}{}{started this log because it doesn't look good for any of}
@@ -683,7 +683,7 @@
 {9097}{}{I'm leaving this log behind to be buried when this place}
 {9098}{}{goes in the next exchange. Who knows, maybe someone}
 {9099}{}{will find it someday...}
-{9100}{}{**END-DISK**}
+{9100}{}{**ENDE-DISK**}
 {10000}{}{The Exodus from the accursed base was a trying time for}
 {10001}{}{the men and their families. While there was no }
 {10002}{}{radioactive fallout to contend with, they were }
@@ -724,7 +724,7 @@
 {10037}{}{name in vain, questioning his very bravery!}
 {10038}{}{**END-PAR**}
 {10039}{}{These men were never heard from again.}
-{10040}{}{**END-DISK**}
+{10040}{}{**ENDE-DISK**}
 {11000}{}{By my orders, as active commanding officer following}
 {11001}{}{the untimely death of Colonel Robert Spindel during}
 {11002}{}{this time of crisis, the full base security team has}
@@ -762,7 +762,7 @@
 {11034}{}{**END-PAR**}
 {11035}{}{Captain Maxson}
 {11036}{}{24 Oct 2077}
-{11037}{}{**END-DISK**}
+{11037}{}{**ENDE-DISK**}
 {12000}{}{                                                    0000 - 0004}
 {12001}{}{I'm dying. I need to get this down before the pain}
 {12002}{}{overwhelms me.}
@@ -879,7 +879,7 @@
 {12113}{}{new unification center. When we have arrived we will}
 {12114}{}{continue to grow and feed until we have brought peace}
 {12115}{}{and unity to the entire world.}
-{12116}{}{**END-DISK**}
+{12116}{}{**ENDE-DISK**}
 {13000}{}{• Oct 10, 2077}
 {13001}{}{I, Roger Maxson, Captain, serial number 072389 have}
 {13002}{}{started this log because it doesn't look good for any}
@@ -977,7 +977,7 @@
 {13094}{}{I'm leaving this log behind to be buried when this place}
 {13095}{}{goes in the next exchange. Who knows, maybe someone}
 {13096}{}{will find it someday...}
-{13097}{}{**END-DISK**}
+{13097}{}{**ENDE-DISK**}
 {14000}{}{FEV Summary Digest:}
 {14001}{}{**END-PAR**}
 {14002}{}{2073. As China became increasingly aggressive with}
@@ -1010,7 +1010,7 @@
 {14029}{}{military installation in central California. At this }
 {14030}{}{new facility, testing of the Forced Evolutionary Virus }
 {14031}{}{continues on volunteer subjects from the military.}
-{14032}{}{**END-DISK**}
+{14032}{}{**ENDE-DISK**}
 {15000}{}{The T-51b Powered Infantry Armor is designed with the}
 {15001}{}{latest passive defense features for both civilian and}
 {15002}{}{military disturbances. The back-mounted TX-28}
@@ -1021,7 +1021,7 @@
 {15007}{}{Joules of kinetic impact. The 10 micron silver ablative}
 {15008}{}{coating can reflect laser and radiation emissions without}
 {15009}{}{damage to the composite subsurface.}
-{15010}{}{**END-DISK**}
+{15010}{}{**ENDE-DISK**}
 {16000}{}{Robert Anderson}
 {16001}{}{Research Assistant}
 {16002}{}{Security Clearance: Blue}
@@ -1061,7 +1061,7 @@
 {16036}{}{Research Head of FEV}
 {16037}{}{Security Clearance: Blue}
 {16038}{}{Stationed: Mariposa Military Base}
-{16039}{}{**END-DISK**}
+{16039}{}{**ENDE-DISK**}
 {17000}{}{}
 {17001}{}{}
 {17002}{}{}
@@ -1142,4 +1142,4 @@
 {18027}{}{Message sent: It shall be done, sir, Over.}
 {18028}{}{**END-PAR**}
 {18029}{}{End transmission.}
-{18030}{}{**END-DISK**}
+{18030}{}{**ENDE-DISK**}

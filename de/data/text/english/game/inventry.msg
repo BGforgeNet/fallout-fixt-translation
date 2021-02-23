@@ -9,9 +9,9 @@
 {8}{}{Armor Class}
 {9}{}{  Normal}
 {10}{}{  Laser}
-{11}{}{  Fire}
+{11}{}{  Feuer}
 {12}{}{  Plasma}
-{13}{}{  Explode}
+{13}{}{  Explosion}
 {14}{}{[no item]}
 {15}{}{Dmg:}
 {16}{}{Rng:}

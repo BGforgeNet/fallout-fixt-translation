@@ -16,7 +16,7 @@
 {15}{}{Action Points}
 {16}{}{Hit Points}
 {17}{}{Error: motion sensor not available!}
-{18}{}{The motion sensor has no charges remaining.}
+{18}{}{Der Bewegungssensor hat keine Ladung mehr übrig.}
 {100}{}{Error saving game config file!}
 {101}{}{Game settings not saved.}
 {1000}{}{You feel somewhat nauseous. Your skin is red and tender.}

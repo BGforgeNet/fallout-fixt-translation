@@ -18,8 +18,8 @@
 {117}{}{How can I get through to the Gun Runners?}
 {118}{}{Nothing, thanks.}
 {119}{}{Sure thing. But it'll take most of the day for a little improvement. You still want to?}
-{120}{}{Yes.}
-{121}{}{No.}
+{120}{}{Ja.}
+{121}{}{Nein.}
 {122}{}{There you go. You've shown a little improvement. Good luck to you.}
 {123}{}{Sure thing. Come back when you want more training.}
 {124}{}{Seems like we let in a fool. Well, if you want to get into their place, there is a slight break in their moat. Look for it and run like mad. You may even make it across.}

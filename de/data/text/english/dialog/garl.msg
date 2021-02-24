@@ -69,7 +69,7 @@
 {168}{}{Fine. We shall settle this with no weapons, but you can keep any armor you're wearing. Knock me out, and I'll let you take the woman and leave. I knock you out, you leave without her.}
 {169}{}{Sounds good, let's go.}
 {170}{}{This will be interesting, but not very sporting. Very well, let's do it.}
-{171}{}{Okay.}
+{171}{}{OK.}
 {172}{}{Hmm, you fight better than I expected. I haven't had a good beating since my father slapped me around the room. You deserve the Shady Sands woman. Take her and leave. Don't come back.}
 {173}{}{Take your miserable hide and leave. If you ever return, I will not be so gentle.}
 {174}{}{What do you want?}
@@ -80,12 +80,12 @@
 {179}{}{To kick some serious ass.}
 {180}{}{I like you guys. I want to bond with you.}
 {181}{}{The Khans only accept the meanest and toughest SOBs around. You have to be bloodthirsty, violent, extreme. I don't think you can handle that. Can you?}
-{182}{}{Yes.}
-{183}{}{No.}
+{182}{}{Ja.}
+{183}{}{Nein.}
 {184}{}{Then you had better leave. Do not return.}
 {185}{}{I grow tired of these women. Kill them.}
 {186}{}{No!}
-{187}{}{Okay.}
+{187}{}{OK.}
 {188}{}{You have proved my point. Only the Khans possess the will to survive! You do not. Kill him.}
 {189}{}{You have proved my point. Only the Khans possess the will to survive! You do not. Kill her.}
 {190}{}{Scum! You will pay for that!}

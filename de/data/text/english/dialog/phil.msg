@@ -6,7 +6,7 @@
 {105}{}{Mister,}
 {106}{}{Ma'am,}
 {107}{}{ I would be really happy if you were to get rid of that damn dog.}
-{108}{}{Why?}
+{108}{}{Warum?}
 {109}{}{Nah, I only deal with important stuff.}
 {110}{}{Where did it come from?}
 {111}{}{Hnnng.}

@@ -33,7 +33,7 @@
 {132}{}{You aren't thinking of taking the Water Chip from us are you?}
 {133}{}{Umm... Me, no, I would never do such a thing. I am just going to see how it all works.}
 {134}{}{Of course. My people need the Water Chip to survive.}
-{135}{}{Why?}
+{135}{}{Warum?}
 {136}{}{If you take the Water Chip from us, then we will all die. With our water pump broken we need it to survive.}
 {137}{}{Well, I really don't care about you and your people. We need the Water Chip for our own survival. Goodbye.}
 {138}{}{Is it possible that your pump could be fixed?}
@@ -46,7 +46,7 @@
 {145}{}{Do you mean these parts? [You show the parts you found to the ghoul leader]}
 {146}{}{The sewers there are filled with monsters, and none of my people that I have sent to retrieve them have come back. Are you willing to retrieve the parts, so that the water pump can be fixed?}
 {147}{}{Sounds like too much trouble; I think I'll just take the Water Chip.}
-{148}{}{Yes.}
+{148}{}{Ja.}
 {149}{}{Since you guys are too incompetent to do this yourself, I guess I'll have to lend a hand.}
 {150}{}{Thank you. When you get the parts, return here. It is possible that I can help you further.}
 {151}{}{Okay, I'll be on my way then.}
@@ -56,7 +56,7 @@
 {155}{}{Where was I supposed to find them again?}
 {156}{}{Well I wish you luck then.}
 {157}{}{You have returned. Do you have the parts needed to repair the water pump?}
-{158}{}{Yes, here they are.}
+{158}{}{Ja, hier sind sie.}
 {159}{}{Yeah, but I've decided to forget about fixing the water pump.}
 {160}{}{Well it looks like you may need some help with the parts. Here are some books that we have found littered around. They may help you. Now please take the parts to the Watershed and repair the pump.}
 {161}{}{Unfortunately I will be able to help you no further. Good luck with the water pump. Please take the parts to the Watershed and repair the pump.}

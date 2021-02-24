@@ -17,7 +17,7 @@
 {116}{}{You should talk to Talus. He might be able to help you, or at least tell you who to talk to.}
 {117}{}{During the day, Talus is normally supervising in the training hall. Do you know where that is?}
 {118}{}{Yes, I do. Thank you.}
-{119}{}{No.}
+{119}{}{Nein.}
 {120}{}{Of course I do!}
 {121}{}{The training hall is right around the corner. Just go down this corridor, make a left, go through the door at the end of the corridor and it will be through the door on your right.}
 {122}{}{You have been extremely helpful. Thank you very much. I hope we can talk again soon. Good day.}
@@ -66,7 +66,7 @@
 {165}{}{Yeah, uh, I guess. Uh, who's in charge around here?}
 {166}{}{Uh, okay... um. How about some weapons then? Where can I get my hands on some of those?}
 {167}{}{Hmmph!}
-{168}{}{No.}
+{168}{}{Nein.}
 {169}{}{That's... pretty funny. You are joking, I hope? Actually... don't answer that. I don't think I want to know.}
 {170}{}{Yeah, REAL funny. Almost as much as your face!}
 {171}{}{Thanks a lot. That's exactly what I needed to hear right now.}
@@ -74,13 +74,13 @@
 {173}{}{I'm sorry. It's just that you outsiders have such a strange way of talking to people sometimes. Is there anything I can help you with?}
 {174}{}{Well, I guess I should talk to this High Elder person. Where is he at?}
 {175}{}{I would like to get some better weapons. Who do I talk to about that?}
-{176}{}{No.}
+{176}{}{Nein.}
 {177}{}{Are you for real? I haven't heard such a pitiful line in all my life!}
 {178}{}{Yeah? Well, I don't get out much. Okay?}
 {179}{}{Get out of my face, you walking garbage can!}
 {180}{}{Pfft!}
 {181}{}{Well, yes, you are a member of the Brotherhood, but the Elders have put a hold on all training of new Initiates.}
-{182}{}{Why?}
+{182}{}{Warum?}
 {183}{}{Oh, that's just GREAT! Why the hell did I join this stupid group? Where's the door?!}
 {184}{}{There are rumors about some kind of army. I think the Elders want to concentrate their resources on the ones that are already far enough along in their training to make a difference if we do have a big battle on our hands.}
 {185}{}{We strongly believe that training a few fighters extremely well is better than giving mediocre training to a bunch of fighters. Saving lives is one of our primary objectives.}

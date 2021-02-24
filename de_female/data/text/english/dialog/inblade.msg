@@ -10,7 +10,7 @@
 {109}{}{Muss gehen.}
 {110}{}{See ya.}
 {111}{}{Good day.}
-{112}{}{Thanks for your help.}
+{112}{}{Danke für die Hilfe.}
 {113}{}{We won't forget you.}
 {114}{}{Nice to have you on our side.}
 {115}{}{Things are going to be better now.}

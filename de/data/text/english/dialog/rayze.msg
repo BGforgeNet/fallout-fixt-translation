@@ -10,8 +10,8 @@
 {109}{}{Rock said the Crypts were looking for members.}
 {110}{}{Ha-ha! Nice try. Leave me alone.}
 {111}{}{Could be. It looks like you got some talent. You think you could be a Crypt?}
-{112}{}{Yes.}
-{113}{}{No.}
+{112}{}{Ja.}
+{113}{}{Nein.}
 {114}{}{Well, then. Let's try you out. We're gonna send you on a little mission. Go scout out the Fools to the north, and report back to me.}
 {115}{}{Ok.}
 {116}{}{I don't think so.}
@@ -23,8 +23,8 @@
 {122}{}{I don't think I want to play.}
 {123}{}{You are not welcome here. Leave before you get buried.}
 {124}{}{Are the Fools ready for our attack?}
-{125}{}{Yes.}
-{126}{}{No.}
+{125}{}{Ja.}
+{126}{}{Nein.}
 {127}{}{I need to scout some more.}
 {128}{}{It doesn't matter. Nothing will stop them from feeling the cold of death! They die now!}
 {129}{}{Excellent. We will catch them unprepared. They die now!}

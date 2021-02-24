@@ -23,7 +23,7 @@
 {122}{}{Never mind then, I'll come back another time.}
 {123}{Cab_6}{You have to go to the ruins of the Ancient Order. That's south of here. Uh, you've gotta go inside and bring back something that proves that you were there.}
 {124}{}{How will you know if it is from inside this place?}
-{125}{}{Okay.}
+{125}{}{OK.}
 {126}{}{No way in hell.}
 {127}{Cab_7}{This place is high tech. There's things inside like you've never seen before. Oh, uh, it's also radioactive. Aheh.}
 {128}{}{Okay, I'll do it.}
@@ -49,7 +49,7 @@
 {148}{Cab_20}{You're making fun of me, aren't you? Goodbye!}
 {149}{Cab_21}{Go away!}
 {150}{}{Please, I'm sorry I made you angry. Can we try again?}
-{151}{}{Okay.}
+{151}{}{OK.}
 {152}{Cab_22}{No! I think you're just lying to me. Goodbye!}
 {153}{Cab_23}{Hmmm. Alright, I'll believe you for now. So what do you want?}
 {154}{}{I've changed my mind. I want to join the Brotherhood.}
@@ -59,10 +59,10 @@
 {158}{}{Yep, sure did.}
 {159}{}{No, I didn't yet.}
 {160}{Cab_25}{Great! But... um... the High Elder said you have to give it to me first before you can be let in. Sorry.}
-{161}{}{Okay.}
+{161}{}{OK.}
 {162}{}{No, I don't want to.}
 {163}{Cab_27}{This is great! Hang on while I open the door.}
-{164}{}{Okay.}
+{164}{}{OK.}
 {165}{Cab_28}{Hmmm... Sorry, but, uh, this could have come from anywhere.}
 {166}{}{But...}
 {167}{Cab_30}{Alright, so I'm gonna let you in. But I'm gonna tell ya' what's going on after I do that. Alright? I'll be in the guard room. You can let yourself out, but I have to let you back in. Oh, and the High Elder wants to speak with you in the war room. It's on the third floor.}
@@ -100,7 +100,7 @@
 {199}{}{Oh. Can I ask you a few more questions?}
 {200}{}{Thanks. I'll see you around.}
 {201}{Cab_42}{Well, some of the Initiates think we're preparing for war. That's why hardly anyone gets in now. I was surprised when the High Elder told me to let you in.}
-{202}{}{Why?}
+{202}{}{Warum?}
 {203}{}{Thanks. Can I ask you a few more questions?}
 {204}{}{Thanks for the info. I'll see you around.}
 {205}{Cab_43}{I don't think that belongs to you.}

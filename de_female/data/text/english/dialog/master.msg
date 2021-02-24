@@ -6,7 +6,7 @@
 {105}{}{Oh, there will be death today, but not mine. I've got a plan.}
 {106}{}{Ungh.. wuh?}
 {107}{Mast01}{Excellent. Your talents will be useful. But first, you must tell me everything about your Vault.}
-{108}{}{Why?}
+{108}{}{Warum?}
 {109}{}{Okay. I'll tell you everything you want to know.}
 {110}{Mast02}{I will conquer it and turn all those pure strain humans into mutants. They will give me the army I need to bring peace to the entire wasteland.}
 {111}{}{Sorry, I don't like that plan much.}
@@ -73,7 +73,7 @@
 {172}{Mast29}{Oh, I think you are wrong. But just to be sure, I will order this matter researched. After I have taken care of you. Care. Care!}
 {173}{Mast30}{My only problem is you. Now, will you work for the Unity, or not?}
 {174}{}{Not.}
-{175}{}{Sure.}
+{175}{}{Sicher.}
 {176}{Mast31}{They will be punished for their insolence.}
 {177}{}{You mean to kill them all?}
 {178}{}{Then I must stop you now!}
@@ -103,7 +103,7 @@
 {202}{Mast42}{I doubt even the FEV will help you. Why am I talking? It's unlikely you even understand... }
 {203}{Mast43}{You must be joking. }
 {204}{Mast44}{My patience is almost at an end with you. Now, will you join the Unity or not? Join. Not!}
-{205}{}{Yes.}
+{205}{}{Ja.}
 {206}{}{Not.}
 {207}{Mast45}{Fine. Then you can die here and now!}
 {208}{Mast46}{You have disarmed the device. Excellent. Tell me, is there anything you wanted to say before I kill you?}

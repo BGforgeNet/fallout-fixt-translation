@@ -8,7 +8,7 @@
 {107}{}{I need to ask you a few questions.}
 {108}{}{Nothing, thanks.}
 {109}{BUTCH02}{Time is money. Chit-chat is not money. You here about the job or what?}
-{110}{}{Yes.}
+{110}{}{Ja.}
 {111}{}{What job?}
 {112}{}{Here for the what or the money?}
 {113}{BUTCH03}{Hot damn, someone with guts! Done and done. Go talk with my second, Rutger, and get the details.}
@@ -64,7 +64,7 @@
 {163}{}{I was implying that you were too frightened to go look for them.}
 {164}{}{Nothing. So what do you want me to do?}
 {165}{BUTCH20}{You know, I don't like you. But that doesn't matter. You want the job or not?}
-{166}{}{Sure.}
+{166}{}{Sicher.}
 {167}{}{No thanks.}
 {168}{BUTCH19}{Uh... what did you say?}
 {169}{}{You heard me.}

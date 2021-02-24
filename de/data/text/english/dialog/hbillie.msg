@@ -7,7 +7,7 @@
 {106}{}{Arg!}
 {107}{}{Ta.}
 {108}{}{Why would you want a brahma? Do you have a caravan? Well, it doesn't matter. I only take care of them. Dan is the one who owns them. He won't sell them though.}
-{109}{}{Why?}
+{109}{}{Warum?}
 {110}{}{I was just kidding.}
 {111}{}{Cuz of all the missing caravans. He doesn't have any to spare, the caravans use most of them. The others are sold for food. Well, I'd better stop talking; Dan will get mad if he sees me talking to a stranger.}
 {112}{}{Oh, okay.}
@@ -38,14 +38,14 @@
 {137}{}{Please don't talk to me, Dan is going to yell at me again. He really gets piss- I mean... mad, when I'm not paying attention to what I'm doing.}
 {138}{}{He's just trying to help. Work hard and I'm sure he'll be nicer.}
 {139}{}{Here kid, take 50 caps and get away from this jerk.}
-{140}{}{Okay.}
+{140}{}{OK.}
 {141}{}{Aaaaaarg!}
 {142}{}{Rhu?}
 {143}{}{Please don't, I'm already in enough trouble.}
 {144}{}{I AM working hard!}
 {145}{}{I'm sorry, I didn't mean that. He's just trying to help you.}
 {146}{}{No you aren't, you lazy little brat!}
-{147}{}{Okay.}
+{147}{}{OK.}
 {148}{}{Yeah, maybe you're right... actually, he seems pretty cool, but I wish he wouldn't yell at me so much.}
 {149}{}{Yeah, right.}
 {150}{}{Up yours, you old fart!}

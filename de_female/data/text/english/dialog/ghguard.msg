@@ -6,7 +6,7 @@
 {105}{}{Huh?}
 {106}{}{That doesn't sound right. You'd better come along with me.}
 {107}{}{I don't think so.}
-{108}{}{Okay.}
+{108}{}{OK.}
 {109}{}{I don't think you want to go to that room.}
 {110}{}{Why not?}
 {111}{}{Okay, I don't want to go into that room. Now what?}

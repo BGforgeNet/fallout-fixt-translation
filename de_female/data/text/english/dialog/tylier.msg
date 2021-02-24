@@ -13,7 +13,7 @@
 {112}{}{Thank you.}
 {113}{}{I have been programmed to keep the systems armed until authorized personnel have entered the correct voice code.}
 {114}{}{Will you disarm the systems for me?}
-{115}{}{Goodbye.}
+{115}{}{Wiedersehn.}
 {116}{}{Voice override: Gamma Delta Delta. Disarm all systems.}
 {117}{}{You are not authorized. Access denied.}
 {118}{}{Invalid code. Access denied.}
@@ -21,9 +21,9 @@
 {120}{}{Voice override: Omicron Delta Delta. Disarm systems.}
 {121}{}{Voice override: Alpha Delta Delta. Disarm systems.}
 {122}{}{Voice override: Delta Omicron Gamma. Disarm systems.}
-{123}{}{Goodbye.}
+{123}{}{Wiedersehn.}
 {124}{}{Voice override confirmed. Disarming security systems.}
 {125}{}{I have not received orders to do otherwise. Network access is unavailable; central processor ZAX has apparently been destroyed.}
 {126}{}{Fine. Voice override: Sigma Alpha Delta. Disarm systems.}
-{127}{}{Goodbye.}
+{127}{}{Wiedersehn.}
 {128}{}{Security systems are currently disarmed.}

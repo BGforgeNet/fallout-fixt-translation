@@ -27,7 +27,7 @@
 {127}{}{No thanks.}
 {128}{}{I'll get back to you.}
 {129}{}{It's... Would you like to accompany me down stairs? There are too many ears around.}
-{130}{}{Sure.}
+{130}{}{Sicher.}
 {131}{}{Not interested.}
 {132}{}{Not right now, I'll get back to you.}
 {133}{}{Leave, I don't have the patience.}
@@ -70,7 +70,7 @@
 {170}{}{I'm sorry. I really didn't mean it. Please don't shoot me.}
 {171}{}{You can only take me with a gun? Are you afraid I'll kick your ass without it?}
 {172}{}{What? Are ya afraid of a little girl like me, ya have to use a gun? }
-{173}{}{Sure.}
+{173}{}{Sicher.}
 {174}{}{That's it! If you think you know what pain and suffering is, wait until I get through with you. }
 {175}{}{Keep that mutt under control or it's dead. }
 {176}{}{Keep you friend out of this. }
@@ -103,7 +103,7 @@
 {203}{}{Whatever. I was just joking.}
 {204}{}{I certainly hope so. We have enough problems in the world without having a blind fanatic running around killing everyone.}
 {205}{}{A pity. A blind fanatic is a dangerous person indeed. I hope your stay here in the Hub is not long. We don't take kindly to murders that aren't auth... to murders of any sort. Good day.}
-{206}{}{No.}
+{206}{}{Nein.}
 {207}{}{Nice answer moron. Who's in charge?}
 {208}{}{Who does?}
 {209}{}{Moron? Do you have any idea who you are talking to? For your sake I hope not. I don't 'run' the Maltese Falcon but I AM the one in charge. What do you want before I lose my temper.}
@@ -143,8 +143,8 @@
 {243}{}{Are you? Well you came to the wrong place then, the Hub is anything but honest. Go back to whatever hole you crawled out of. You'll be happier there.}
 {244}{}{I agree. Well then, follow me and we'll see how useful you are to us. Just keep in mind that it would be in your best interest to keep anything that is said to you to yourself.}
 {245}{}{That might be. Are you a member of their "Thieves' Circle"?}
-{246}{}{Yes.}
-{247}{}{No.}
+{246}{}{Ja.}
+{247}{}{Nein.}
 {248}{}{Well, I'm sorry, but we don't work with your little friends. We barely tolerate their existence and we would never work with them.}
 {249}{}{Well then. You might be useful after all. Just keep in mind that it would be in your best interest to keep anything that is said to you, to yourself}
 {250}{}{He might. What kind of work were you looking for?}
@@ -254,8 +254,8 @@
 {355}{}{Do you have the time?}
 {356}{}{Brahma Shoes Are Very Tasty.}
 {357}{}{No... Did you want something? [Kane seems to be getting annoyed with you]}
-{358}{}{Yes.}
-{359}{}{No.}
+{358}{}{Ja.}
+{359}{}{Nein.}
 {360}{}{I think you need another drink there, buddy.}
 {361}{}{I think you need another drink there, lady.}
 {362}{}{[Kane waits for a few seconds] Well... what is it? [Kane looks very annoyed]}
@@ -303,7 +303,7 @@
 {404}{}{You know the way, let's go.}
 {405}{}{Open it up boys.}
 {406}{}{All right.}
-{407}{}{Okay.}
+{407}{}{OK.}
 {408}{}{You can want all you like, now take a hike.}
 {409}{}{Do you have any more jobs?}
 {410}{}{Hi!}

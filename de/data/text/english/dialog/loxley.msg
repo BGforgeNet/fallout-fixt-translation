@@ -50,7 +50,7 @@
 {149}{lox_12b}{Okay!}
 {150}{LOX_13}{Oh, bosh and bother. Well, quite sorry to hear that, actually. You would've made a fine thief. But the Circle's not for the terminally stupid. So, Jasmine, show our guest the door, please.}
 {151}{LOX_14}{Oh, what do you take me for? If you want cold-blooded murder, talk to Decker and his lot. If you fail, which seems much more likely at this point, we will simply disappear. Now then, care to try or not?}
-{152}{}{Sure.}
+{152}{}{Sicher.}
 {153}{}{Not.}
 {154}{LOX_16}{Oh, no. I'm so afraid. Life is so hard. Loxley, I'd rather be a coward for all of my life than to have a single moment of triumph. Ah, just another wanker, aren't you. Out!}
 {155}{LOX_17}{Haven't figured it out yet, have we? The First Test was just getting here! That's the only reason I'm considering you.}

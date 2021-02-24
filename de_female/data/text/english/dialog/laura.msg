@@ -115,7 +115,7 @@
 {260}{}{You sure it is?}
 {261}{}{How can I stop them?}
 {263}{laura53}{For one thing, people seem to disappear a lot around here, while the number of Nightkin are slowly growing.}
-{264}{}{Why?}
+{264}{}{Warum?}
 {265}{}{Doesn't look good. But I need more answers before I act.}
 {267}{laura54}{I don't know. That's what you're here to find out, right?}
 {269}{laura55}{Find the Master and stop him!}

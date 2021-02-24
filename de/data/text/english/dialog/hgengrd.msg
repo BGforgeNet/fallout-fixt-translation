@@ -10,7 +10,7 @@
 {109}{}{Anyone for a game of cards?}
 {110}{}{Who wants my night shift?}
 {111}{}{Let's go to the Falcon tomorrow.}
-{112}{}{Sure.}
+{112}{}{Sicher.}
 {113}{}{Who wants to go scorpion hunting this week?}
 {114}{}{My feet hurt.}
 {115}{}{I should probably get some sleep.}

@@ -6,8 +6,8 @@
 {105}{}{Wug.}
 {106}{}{Ack!}
 {107}{}{Oh, a newcomer! Welcome to the Hub! You've reached the biggest city on the coast. Heck, maybe the biggest city in the world for all we know. I thought you were part of the caravan, did you come in with them?}
-{108}{}{Yes.}
-{109}{}{No.}
+{108}{}{Ja.}
+{109}{}{Nein.}
 {110}{}{I'm not surprised. Most of the new members of our city come in with the caravans, even with the missing caravans we've had. It's a fine city, but be careful who you associate with. People like Decker and his thugs can get you into a lot of trouble.}
 {111}{}{That's surprising. It's been pretty rough out there, especially with the missing caravans. But you're safe now, just stay away from the Maltese Falcon. They're a bunch of troublemakers, Decker and his crew.}
 {112}{}{Who's Decker?}
@@ -24,9 +24,9 @@
 {123}{}{Murdering animal!}
 {124}{}{I can't believe the Sheriff's dead...}
 {125}{}{There you are, you thieving little snake! I almost didn't recognize you. Guards!}
-{126}{}{Sure.}
+{126}{}{Sicher.}
 {127}{}{Catch me if you can.}
-{128}{}{No.}
+{128}{}{Nein.}
 {129}{}{ARG!}
 {130}{}{Hello again. I hope you like our town. A nice guy such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
 {131}{}{Hello again. I hope you like our town. A lovely lady such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}

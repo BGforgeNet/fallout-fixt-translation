@@ -17,8 +17,8 @@
 {116}{}{}
 {117}{}{. Are you interested?}
 {118}{}{I'll still give your sorry ass a job, if you're interested?}
-{119}{}{Sure.}
-{120}{}{No.}
+{119}{}{Sicher.}
+{120}{}{Nein.}
 {121}{}{I think I'm interested in you.}
 {122}{}{Maybe.}
 {123}{}{Ug.}
@@ -97,8 +97,8 @@
 {196}{}{Yeah? Well why don't you go there now! You're off our list for good.}
 {197}{}{What? You've never worked a caravan before? I can't believe my dad hired you in the first place! Get lost! We only hire experienced personnel! That's why we pay the big bucks!}
 {198}{}{You did good on that last job. Are you looking for another one?}
-{199}{}{Sure.}
-{200}{}{No.}
+{199}{}{Sicher.}
+{200}{}{Nein.}
 {201}{}{Maybe.}
 {202}{}{Ug.}
 {203}{}{Lug.}

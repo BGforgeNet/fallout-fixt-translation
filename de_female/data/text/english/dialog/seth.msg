@@ -24,8 +24,8 @@
 {123}{}{There are several groups of raiders. I organize guards like Ian to help fight them off. There is one band to the southeast of here. Watch out for them.}
 {124}{}{Shady Sands is a peaceful community. We have our own irrigation system, so we can grow our own food. If we were not plagued with raiders and radscorpions, we would have no problems.}
 {125}{}{Are you sure you want me to give you directions to the radscorpion caves? I can't go, but I can show you the way.}
-{126}{}{Yes.}
-{127}{}{No.}
+{126}{}{Ja.}
+{127}{}{Nein.}
 {128}{}{Okay, just let me know when you are ready to go to the caves.}
 {129}{}{[Done]}
 {130}{}{Uh-huh.}

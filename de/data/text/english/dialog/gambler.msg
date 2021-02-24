@@ -2,7 +2,7 @@
 {101}{}{You see: Hernandez, the rascally gambler.}
 {102}{}{Oye, muchacho, allow me to introduce myself: I am Hernandez, a man of mucho gusto! You look like you are new here. Please, allow me to be your informant about the casino.}
 {103}{}{Can you tell me about the casino?}
-{104}{}{No, thanks.}
+{104}{}{Nein, danke.}
 {105}{}{Bloo?}
 {106}{}{But of course! This fine establishment is run by the famous Gizmo. A true visionary and a very wealthy man.}
 {107}{}{Thanks.}
@@ -12,7 +12,7 @@
 {111}{}{ (You get the feeling that he's trying to scam you.)}
 {112}{}{Perhaps you can spare a few caps? I guarantee success.}
 {113}{}{Sure, sounds good.}
-{114}{}{No, thanks.}
+{114}{}{Nein, danke.}
 {115}{}{I think you're lying. You're trying to scam me.}
 {116}{}{Sorry, mi amigo. Hey, let me show you a neat game... }
 {117}{}{Thank you very much, mi amigo! (He accepts 100 caps from you.) In a few days, I shall be able to pay you back, with interest. My system is slow, you see, it requires much patience, but it will most certainly reap great profits!}

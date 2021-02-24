@@ -4,7 +4,7 @@
 {103}{}{What, did you spend all your money on drugs? If you keep that up you'll find your new home in Old Town, surrounded by skags.}
 {104}{}{You'd better sober up. Come back when you're ready and able to work.}
 {105}{}{Looking for another job?}
-{106}{}{Sure.}
+{106}{}{Sicher.}
 {107}{}{No, maybe later.}
 {108}{}{Lug.}
 {109}{}{Rok!}
@@ -113,7 +113,7 @@
 {212}{}{18th}
 {213}{}{28th}
 {214}{}{. Come back then and we'll assign you to a caravan. It pays the standard 400 caps.}
-{215}{}{Okay.}
+{215}{}{OK.}
 {216}{}{Sorry, I can't wait that long.}
 {217}{}{Great. I'll get your driver and the rest of the crew. Be careful out there, it's been a little rough lately.}
 {218}{}{The crew's ready. We'll leave right away.}
@@ -139,7 +139,7 @@
 {238}{}{They aren't leaving for }
 {239}{}{ days.}
 {240}{}{I suppose you want a job. I might give you one. Are you interested?}
-{241}{}{Sure.}
+{241}{}{Sicher.}
 {242}{}{Nope.}
 {243}{}{You know where you can stick your caravan.}
 {244}{}{I don't know. I'll have to get back to you.}

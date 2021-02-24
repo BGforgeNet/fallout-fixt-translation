@@ -30,7 +30,7 @@
 {129}{}{Doesn't matter how I think. It's true, I came from the mountains.}
 {130}{}{No, just stupid.}
 {131}{Ara_9}{As Dharma said, 'Caution is life in troubled times.' Your origin is not the issue. Your intent is.}
-{132}{}{Okay.}
+{132}{}{OK.}
 {133}{Ara_9A}{I will let you pass, but know this: Seth and I will watch you very, very closely. Do not even consider bringing trouble here.}
 {134}{Ara_10}{And keep them you may. But this is not a city of open hospitality. If you desire that, go to Junktown. You may enter, but know we have our eyes on you.}
 {135}{Ara_11}{A Vault. How shall I trust you, wanderer, when you are not honest with me?}

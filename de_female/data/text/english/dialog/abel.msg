@@ -15,7 +15,7 @@
 {114}{}{Children are not allowed here. This mutant place. Go away.}
 {115}{}{Hng!}
 {116}{}{I have to get through this force field. Please lower it.}
-{117}{}{No.}
+{117}{}{Nein.}
 {118}{}{You again. Abel kick yer ass!}
 {970}{}{Me Abel.}
 {971}{}{Me Abel.}

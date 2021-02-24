@@ -12,7 +12,7 @@
 {111}{}{. Are you interested?}
 {112}{}{I'll still give you a job, even though... never mind. Are you interested?}
 {113}{}{Sure. }
-{114}{}{No.}
+{114}{}{Nein.}
 {115}{}{Maybe.}
 {116}{}{Yaya.}
 {117}{}{Tae?}
@@ -52,7 +52,7 @@
 {151}{}{20th}
 {152}{}{25th}
 {153}{}{. You'll leave then. As always it will pay 200 caps.}
-{154}{}{Okay.}
+{154}{}{OK.}
 {155}{}{Sorry, can't wait.}
 {156}{}{It's a tragedy. We lost the whole caravan, but you survived? That shouldn't have happened. I don't know what happened out there, but we can't hire you anymore. I'm sorry.}
 {157}{}{Junktown}
@@ -84,13 +84,13 @@
 {183}{}{I'm sorry you feel that way.}
 {184}{}{I'm surprised you've never done a caravan before, but I guess no harm came of it... so, sure. I'll give you one more chance.}
 {185}{}{You did a fine job! Would you like another caravan?}
-{186}{}{Sure.}
-{187}{}{No.}
+{186}{}{Sicher.}
+{187}{}{Nein.}
 {188}{}{Maybe.}
 {189}{}{Eeek!}
 {190}{}{Lub.}
 {191}{}{Ready to go? We're leaving today.}
-{192}{}{Yes.}
+{192}{}{Ja.}
 {193}{}{No!}
 {194}{}{Ack!}
 {195}{}{Otherwise I'll just give it to someone else, don't worry about it. You're not obligated... until you leave with the caravan, right?}

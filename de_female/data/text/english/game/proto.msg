@@ -148,8 +148,8 @@
 {656}{}{Err...}
 {660}{}{You can't see there.}
 {661}{}{Too far away.}
-{670}{}{Okay.}
-{671}{}{Sure.}
+{670}{}{OK.}
+{671}{}{Sicher.}
 {672}{}{Wie du wünscht.}
 {673}{}{Whatever you say.}
 {674}{}{I'll try.}

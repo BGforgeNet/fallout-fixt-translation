@@ -43,12 +43,12 @@
 {142}{}{Never mind.}
 {143}{}{}
 {144}{}{gEt.}
-{145}{}{Me go.}
-{146}{}{Yes.}
+{145}{}{Ich gehen.}
+{146}{}{Ja.}
 {147}{}{No, just looking around.}
 {148}{}{I don't want any trouble. If you want to do business then let's do it. If not, get out.}
 {149}{}{gEt.}
-{150}{}{Me go.}
+{150}{}{Ich gehen.}
 {151}{}{Let's see what you've got.}
 {152}{}{You can go to hell. I go where I want, when I want!}
 {153}{}{I'm leaving.}

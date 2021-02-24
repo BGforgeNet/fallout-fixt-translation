@@ -81,4 +81,4 @@
 {181}{}{You have some wounds. I can fix that, dickhead, if you stay very still!}
 {182}{}{Five broken bones at least, and you've lost a lot of blood. Being an idiot is hazardous to your health! You want to get fixed?}
 {183}{}{Depends on the definition of 'fix'. You can treat me, doc.}
-{184}{}{Me go.}
+{184}{}{Ich gehen.}

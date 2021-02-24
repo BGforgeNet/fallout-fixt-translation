@@ -6,7 +6,7 @@
 {105}{}{I dunno. Around here somewhere.}
 {106}{}{You're funny!}
 {107}{}{Hey, are you gonna kill someone?}
-{108}{}{Yes.}
+{108}{}{Ja.}
 {109}{}{No!}
 {110}{}{Erf.}
 {111}{}{I'm gonna tell my mommy!}

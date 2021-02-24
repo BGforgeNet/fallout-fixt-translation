@@ -27,7 +27,7 @@
 {126}{}{Open the Vault 13 blast door.}
 {127}{}{Close the Vault 13 blast door.}
 {128}{}{Modify configuration parameters.}
-{129}{}{Nothing, never mind.}
+{129}{}{Nichts, schon gut.}
 {130}{}{Welcome to your SimTek 5000 interactive customization! Vault-Tec is committed to providing a pleasant integration into the outside world. Remember, incorrect settings may cause unstable anomalies! (Warranty void after 2077)}
 {131}{}{Vault 13 door entry computer can't be accessed during combat.}
 {132}{}{I understand.  [Execute "SPOILERS.EXE"]}
@@ -97,9 +97,9 @@
 {196}{}{ Change requirement for cessation?  (Default requirement: The Master)}
 {197}{}{Checking... By default, this simulation will terminate if sensors indicate Vault 13 Survivability has dropped to zero. Current setting: }
 {198}{}{ State the desired status.}
-{199}{}{No.}
+{199}{}{Nein.}
 {200}{}{Me done! Where other?  [Go to previous menu]}
-{201}{}{Yes.}
+{201}{}{Ja.}
 {202}{}{k!}
 {203}{}{[Restorations]}
 {204}{}{[Skills]}

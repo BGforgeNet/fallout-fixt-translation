@@ -23,7 +23,7 @@
 {122}{}{What do you know about mutants?}
 {123}{}{Yeah, I'm a mutant!}
 {124}{}{Do I look like a mutant to you?}
-{125}{}{No.}
+{125}{}{Nein.}
 {126}{}{Perhaps. If you wish to fight, I'll fight. If you wish to go in peace, you have my word as a Khan that I will not attack.}
 {127}{}{Let's fight.}
 {128}{}{Let's not fight.}

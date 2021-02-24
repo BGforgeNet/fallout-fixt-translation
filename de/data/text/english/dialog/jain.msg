@@ -10,8 +10,8 @@
 {109}{JAIN02}{How dare you speak to me in that manner? You will be punished for your insolence! Guards!}
 {110}{JAIN03}{Perhaps one of our priests will discuss your needed education. Leave now.}
 {111}{JAIN04}{Have you studied the sacraments, child?}
-{112}{}{Yes.}
-{113}{}{No.}
+{112}{}{Ja.}
+{113}{}{Nein.}
 {114}{JAIN05}{Then you would have known High Elders of the Cathedral do not just 'hand out' blessings. You will leave now.}
 {115}{JAIN07}{Continue to mock me and I will have you thrown out.}
 {116}{}{But I'm not mocking you, honest.}
@@ -29,7 +29,7 @@
 {128}{}{Am I one of the Children of the Cathedral? No.}
 {129}{}{I am a devout believer.}
 {130}{JAIN12}{Then you should know better than to be here. I would caution you about your manners. Leave.}
-{131}{}{Okay.}
+{131}{}{OK.}
 {132}{}{Bite me.}
 {133}{JAIN13}{Are you interested in converting to our faith? We can offer you what no one else can...}
 {134}{}{And what's that?}

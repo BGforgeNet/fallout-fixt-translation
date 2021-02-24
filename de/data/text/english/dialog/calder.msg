@@ -96,8 +96,8 @@
 {196}{}{What kind of a brainwashed little fool are you? You're going to grow up to be one of these zombies! I should kill you now!}
 {197}{}{I give out flowers. Every petal is peace, and the stem is unity. Or, are the petals unity and the stem peace? Oh no, I don't remember! Do you want one?}
 {198}{}{I'll take one if you tell me what's going on around here.}
-{199}{}{Sure.}
-{200}{}{No, thanks.}
+{199}{}{Sicher.}
+{200}{}{Nein, danke.}
 {201}{}{Screw peace. Screw unity. And get that flower out of my face!}
 {202}{}{Father Lasher says I shouldn't talk to strangers... until we have Unity, of course; then nobody'll be a stranger. Bye!}
 {203}{}{I'm okay. At least until Father Lasher's next lesson.}

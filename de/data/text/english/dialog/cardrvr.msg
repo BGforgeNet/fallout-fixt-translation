@@ -9,8 +9,8 @@
 {108}{}{I really could use your help getting back. Rutger's going to kill me and I don't know if I can make it alone. If you're interested, pay is still 400 caps. So, what do you say?}
 {109}{}{It's going to be a tough trip back going alone. Would you come back to the Hub with me for another 400 caps?}
 {110}{}{I can't believe we lost both of the other guards. Rutger and Butch are going to have my ass.}
-{111}{}{Yes.}
-{112}{}{No.}
+{111}{}{Ja.}
+{112}{}{Nein.}
 {113}{}{Ug.}
 {114}{}{Great. Let's go.}
 {115}{}{What, are you afraid?}
@@ -22,8 +22,8 @@
 {121}{}{You on drugs?}
 {122}{}{Maybe I don't want you on my caravan.}
 {123}{}{So, did you change your mind? Do you want the job?}
-{124}{}{Yes.}
-{125}{}{No.}
+{124}{}{Ja.}
+{125}{}{Nein.}
 {126}{}{Ru?}
 {127}{}{Easy money. So, do you want to come back with us to the Hub? The pay's the same either way; but then again, so is the danger.}
 {128}{}{So, you up for 600 more caps? I've got to head back to the Hub. Hopefully this'll be another easy one.}
@@ -41,11 +41,11 @@
 {140}{}{Ah, you're back! You want the job then, right?}
 {141}{}{Arg.}
 {142}{}{Why, hello there. Looking for a job? We could use someone to help guard our caravans on the way back to the Hub. The pay is 400 caps.}
-{143}{}{Okay.}
+{143}{}{OK.}
 {144}{}{No thanks.}
 {145}{}{Zuk.}
 {146}{}{Why, hello there. Looking for a job? We could use someone to help guard our caravans on the way back to the Hub. The pay is 600 caps, but mind you, it's normally quite a dangerous trip.}
-{147}{}{Sure.}
+{147}{}{Sicher.}
 {148}{}{Yek.}
 {149}{}{Let me know if you change your mind. We leave at 1400 hours.}
 {150}{}{Sorry, you don't look like you're in any shape for caravan duty.}

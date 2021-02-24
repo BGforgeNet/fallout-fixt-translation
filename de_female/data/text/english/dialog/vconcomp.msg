@@ -32,10 +32,10 @@
 {131}{}{Maxson}
 {132}{}{Anderson}
 {133}{}{Download log of Richard Grey?}
-{134}{}{Yes.}
+{134}{}{Ja.}
 {135}{}{No. [Return to previous menu]}
 {136}{}{Download log of Capt. Maxson?}
-{137}{}{Yes.}
+{137}{}{Ja.}
 {138}{}{[Return to main menu]}
 {139}{}{ERROR: Unexpected end of line. Bad data encountered.}
 {140}{}{> Command?}
@@ -70,8 +70,8 @@
 {169}{}{Patient file #23782. Subject: Male. Age 26. Radiation count: 35. FEV exposure: 60%. Original DNA strands remaining: 40%. Vital signs are above normal but within acceptable parameters.}
 {170}{}{Are you sure you wish to terminate the life support systems on FEV batch #23872-A?}
 {171}{}{FEV batch #23872-A terminated. Command?}
-{172}{}{Yes.}
-{173}{}{No.}
+{172}{}{Ja.}
+{173}{}{Nein.}
 {174}{}{Are you sure you wish to increase the dosage? Auto-correction will be disabled if you do this.}
 {175}{}{Increasing dosage of original DNA to 100%. WARNING: Auto-correction has been disabled.}
 {176}{}{You manage to get an interface screen out of the Vats Control computer.}

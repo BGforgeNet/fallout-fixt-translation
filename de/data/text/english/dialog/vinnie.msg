@@ -48,7 +48,7 @@
 {147}{}{I knew you weren't Skulz material. Get the hell out of here.}
 {148}{}{You got it?}
 {149}{}{Yep.}
-{150}{}{No.}
+{150}{}{Nein.}
 {151}{}{I had to kill Neal to get it. He cried like a little girl.}
 {152}{}{Ha ha! Let that old cock suffer until we off him tonight - are you in?}
 {153}{}{I decided I'd rather not have anything to do with scabs like you.}

@@ -49,7 +49,7 @@
 {148}{}{Whatever.}
 {149}{Over_27}{Good, then get going!}
 {150}{Over_28}{Have you found the chip?}
-{151}{}{Yes.}
+{151}{}{Ja.}
 {152}{}{Yes, but I think we should talk more about letting people leave the Vault.}
 {153}{}{Nuh-huh!}
 {154}{Over_29}{Great! Let me have it. We'll see if it works.}
@@ -58,9 +58,9 @@
 {157}{}{Ahh, it was nothing.}
 {158}{}{You're welcome.}
 {159}{Over_32}{Nothing? No, oh no! It was something. Don't downplay what you've done. You've saved a lot of lives. All right, now we need a report on what's out there. Please go to the library.}
-{160}{}{Okay.}
+{160}{}{OK.}
 {161}{Over_33}{You saved the Vault. You should be proud. But now, we need your report. We'll get it from you in the library. Please go there now.}
-{162}{}{Okay.}
+{162}{}{OK.}
 {163}{Over_34}{Well, you've certainly earned that right. But let's take care of survival first. Give me the chip and we'll discuss this when you give your report.}
 {164}{}{Fair enough.}
 {165}{}{I don't know.}
@@ -86,12 +86,12 @@
 {185}{Over_46}{Exactly! And as you've probably guessed, none of these mutations could have occurred naturally, even with the radiation from the war.}
 {186}{}{What do you want me to do about it?}
 {187}{Over_47}{As long as someone is creating hostile mutants at this rate, the Vault's safety is at stake! Find and destroy this lab as soon as you can.}
-{188}{}{Okay.}
+{188}{}{OK.}
 {189}{}{Once more into the breach, my friend.}
 {190}{Over_48}{You have no idea how sorry I am to send you back out.}
 {191}{Over_49}{Oh, yeah. Hmm... I - I - I - It's like this. There is a bad place where the bad mutants come from. It is bad. Vault is good. Please, go destroy bad place.}
 {192}{Over_50}{Has the mutant laboratory been discovered yet? Even better, tell me it's been destroyed.}
-{193}{}{No.}
+{193}{}{Nein.}
 {194}{}{Not yet, but I've got some good leads.}
 {195}{}{Nope, I'm a little lost.}
 {196}{}{Nungh.}
@@ -103,7 +103,7 @@
 {202}{}{I've killed the Master, the mutant leader.}
 {203}{}{Nuh, ungh. Uh-nuh, nuh.}
 {204}{Over_55}{Excellent! What about the laboratory? Did you destroy that, too?}
-{205}{}{No.}
+{205}{}{Nein.}
 {206}{}{Yep, sure did. Killed all the mutants and blew up their production vats. The Vault has nothing to fear now.}
 {207}{Over_58}{You should be proud of yourself for all you've accomplished. We depended on you and you came through. Now let's talk about your future... }
 {208}{Over_59}{Are you sure? Missing something would be deadly to the Vault. I think you should go back and check it out. Try to the west, there seems to be a large concentration of mutants there.}
@@ -123,7 +123,7 @@
 {222}{}{Uh-nuh-nuh.}
 {223}{Over_66}{He must be stopped. If not, he could rebuild his empire of mutants and would certainly strike back at us. The Vault will not be safe until the Master is dead.}
 {224}{Over_68}{Is the mutant leader... taken care of?}
-{225}{}{No.}
+{225}{}{Nein.}
 {226}{}{He will be... soon.}
 {227}{}{Nuh.}
 {228}{Over_69}{I know this has been hard on you. But this Master's the type who'll rebuild his mutant army. Then he'll come for us. Please, go out and finish the job.}
@@ -135,7 +135,7 @@
 {234}{}{Huh?}
 {235}{Over_74}{Oh, never mind. Just try and find the Water Chip. Get the chip. We still need it.}
 {236}{Over_75}{The caravan water will maintain our current supply, but not increase it substantially. And these Hub merchants are charging us an arm and a leg. This helps and we're thankful for that, but it's not a solution.}
-{237}{}{Okay.}
+{237}{}{OK.}
 {238}{}{There's something else, isn't there?}
 {239}{Over_76}{Keep looking for a replacement chip. It's the only way we can maintain our independence and the security that comes with our seclusion.}
 {240}{Over_77}{We're taking a terrible risk by showing these people the way to our Vault. I understand your choice, and it may be what saves us. But I'm worried. Can we trust these people?}

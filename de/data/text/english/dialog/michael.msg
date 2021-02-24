@@ -157,11 +157,11 @@
 {258}{}{Come on, please? I really need this part.}
 {259}{}{Okay. Sorry to bother you. Bye.}
 {260}{}{Kyle? Is this about that old junked Power Armor?}
-{261}{}{Yes.}
-{262}{}{No.}
+{261}{}{Ja.}
+{262}{}{Nein.}
 {263}{}{You can tell him that when he gets that unit back to its original glory, then and only then will he get the authorization he needs. Goodbye.}
 {264}{}{You don't. First Kyle needs to see the unit in need of repair. If he feels the repair is warranted, he then puts in a parts request. Rhombus reviews the requests and determines which ones are viable. Go talk to Kyle. Bye.}
-{265}{}{Goodbye.}
+{265}{}{Wiedersehn.}
 {266}{}{Oh... yeah, well Kyle sent me. Could you check your terminal one more time?}
 {267}{}{But Rhombus sent me.}
 {268}{}{You're not getting the part and that's final. I told you what you need to do and I'm not going to repeat myself.}

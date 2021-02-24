@@ -1,5 +1,5 @@
 {100}{}{Thank you.}
-{101}{}{Goodbye.}
+{101}{}{Wiedersehn.}
 {102}{}{Hello.}
 {103}{}{You earn }
 {104}{}{ experience.}
@@ -12,8 +12,8 @@
 {111}{}{It's been fun.}
 {112}{}{Here you go.}
 {113}{}{Anything else?}
-{114}{}{Yes.}
-{115}{}{No.}
+{114}{}{Ja.}
+{115}{}{Nein.}
 {116}{}{You gain }
 {117}{}{ skill points in Small Guns.}
 {118}{}{ skill points in Big Guns.}
@@ -66,7 +66,7 @@
 {165}{}{Your Intelligence has increased by 1 point.}
 {166}{}{Your Agility has increased by 1 point.}
 {167}{}{Your Luck has increased by 1 point.}
-{168}{}{Thanks for your help.}
+{168}{}{Danke für die Hilfe.}
 {169}{}{Thanks for nothing.}
 {170}{}{Your attempt to equip human armor has failed; the armor is destroyed.}
 {171}{}{I believe the Master wishes to speak with you.}
@@ -129,7 +129,7 @@
 {294}{}{You are now level }
 {295}{}{. }
 {296}{}{ (max).}
-{300}{}{Okay.}
+{300}{}{OK.}
 {301}{}{Oops, sorry about that.}
 {302}{}{Oh, excuse me.}
 {400}{}{The blast greatly weakens this energy field. It should now be harmless to pass through.}

@@ -22,7 +22,7 @@
 {121}{}{What about the dogs of war?}
 {122}{}{I need to protect the Master. How do I get to him?}
 {123}{}{I can kill anyone or anything. Open this force field and I'll demonstrate.}
-{124}{}{Goodbye.}
+{124}{}{Wiedersehn.}
 {125}{}{There is only peace and joining... the price... the pain... one must be blind... nulled.}
 {126}{}{Well, I need to join. Where can I pick up one of those snazzy nullifiers?}
 {127}{}{Great! How do I join?}
@@ -32,7 +32,7 @@
 {131}{}{Thanks.}
 {132}{}{No one's anointing me, you insane bastard!}
 {133}{}{Anoint? Anoint me with what?}
-{134}{}{No, thanks.}
+{134}{}{Nein, danke.}
 {135}{}{You cannot kill the genius of... the all... you... hehf!}
 {136}{}{Yeah, but I can cause it one hell of a lot of pain.}
 {137}{}{I don't want to kill. I want to worship.}

@@ -10,7 +10,7 @@
 {109}{}{These cars have been given a full 100-point service by our dedicated service department.}
 {110}{}{And where is your service department?}
 {111}{}{You are a loon.}
-{112}{}{Goodbye.}
+{112}{}{Wiedersehn.}
 {113}{}{Right over there, sir. (The dealer points to nothing.)}
 {114}{}{Right over there, ma'am. (The dealer points to nothing.)}
 {115}{}{Where? There's nothing over there.}

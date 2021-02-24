@@ -2,7 +2,7 @@
 {101}{}{Pssst! Come 'ere.}
 {102}{}{So'a, whatcha doin' in the Hub?}
 {103}{}{I don't really see where that is any of your business.}
-{104}{}{Why?}
+{104}{}{Warum?}
 {105}{}{Looking for something that I need.}
 {106}{}{Where my Mommie?!?}
 {107}{}{Not really sure big fella. I'll see ya around.}

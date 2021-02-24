@@ -7,8 +7,8 @@
 {106}{}{Wug.}
 {107}{}{Ack!}
 {108}{}{Oh, a newcomer! Welcome to the Hub! I thought you were part of the caravans. Did you come in with them?}
-{109}{}{Yes.}
-{110}{}{No.}
+{109}{}{Ja.}
+{110}{}{Nein.}
 {111}{}{I'm not surprised. Most of the new members of our city come in with the caravans, even with the missing caravans we've had. It's a fine city, but be careful who you associate with. People like Decker and his thugs can get you into a lot of trouble.}
 {112}{}{Who's Decker?}
 {113}{}{Missing caravans?}

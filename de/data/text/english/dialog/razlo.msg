@@ -40,7 +40,7 @@
 {139}{}{Luki!}
 {140}{}{Of course you do.}
 {141}{}{Can I help you?}
-{142}{}{No.}
+{142}{}{Nein.}
 {143}{}{I need healing.}
 {144}{}{I've been poisoned!}
 {145}{}{What do you know about radscorpions?}
@@ -68,8 +68,8 @@
 {167}{}{Hnn.}
 {168}{}{Hnn?! What is that? Great, I get awakened by the great mumbling beast of the north. Come back in the morning.}
 {169}{}{Are you hurt?}
-{170}{}{Yes.}
-{171}{}{No.}
+{170}{}{Ja.}
+{171}{}{Nein.}
 {172}{}{You will be, if you keep me from my sleep. Now come back in the morning.}
 {173}{}{Great Brahmin! Why didn't you say so?}
 {174}{}{Uhhh. I did... }

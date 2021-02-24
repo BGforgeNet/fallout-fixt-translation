@@ -50,8 +50,8 @@
 {149}{}{Fugitive! Get him!}
 {150}{}{Fugitive! Get her!}
 {151}{}{Ready to go?}
-{152}{}{Yes.}
-{153}{}{No.}
+{152}{}{Ja.}
+{153}{}{Nein.}
 {154}{}{Ug.}
 {155}{}{I can't believe Decker's finally dead. I never thought I'd see the day.}
 {156}{}{Have you changed your mind? We could still use you to get rid of that disease we talked about.}

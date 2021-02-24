@@ -11,7 +11,7 @@
 {110}{}{The Crypts? They are the biggest, baddest crew around. Don't mess with them, if you want to leave Scrapheap in one piece.}
 {111}{}{Where are they?}
 {112}{}{They are in the big building just inside the gate. You looking for some steady work? Someplace to use that gun of yours?}
-{113}{}{No.}
+{113}{}{Nein.}
 {114}{}{Yeah, sure am.}
 {115}{}{Then I suggest you turn right back around and leave. Scrapheap is no place for those who ain't with the Crypts. If you want to go in, you can - but it's your life.}
 {116}{}{Ok.}

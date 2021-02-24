@@ -11,7 +11,7 @@
 {110}{}{Gang? We're hardly a gang. But I am the leader here.}
 {111}{}{If you're not a gang, then what are you?}
 {112}{}{Well, you look like a gang to me.}
-{113}{}{Goodbye.}
+{113}{}{Wiedersehn.}
 {114}{}{That's Adytum. It's a slave labor camp run by a group called the Regulators, but they tell everyone it's a 'town'. They come here and take our people to work them until they die. Then they come and take more of us.}
 {115}{}{Can't you go in there and free your people?}
 {116}{}{Then what am I talking to you for? Those are the guys I need to hook up with.}
@@ -55,7 +55,7 @@
 {154}{}{Thank you. This really could help us. Good luck. (She hands you the holodisk.)}
 {155}{}{See you later.}
 {156}{}{Very well. I hope you make the right decision.}
-{157}{}{Goodbye.}
+{157}{}{Wiedersehn.}
 {158}{}{The Gun Runners are over to the east and then north of here. But be careful - Deathclaws are not to be taken lightly. I've seen a Deathclaw tear a man in half with one swipe.}
 {159}{}{I'm going to go see what I can find out.}
 {160}{}{I'm sorry you feel that way. I think it would be best if you leave.}
@@ -67,7 +67,7 @@
 {166}{}{Gang? We're hardly a gang. But I am the one they all come to for direction.}
 {167}{}{Zimmerman sent me.}
 {168}{}{Well, you look like a gang to me.}
-{169}{}{Goodbye.}
+{169}{}{Wiedersehn.}
 {170}{}{(She begins to look nervous.) What? Did he...}
 {171}{}{To put a bullet in your head.}
 {172}{}{To pay you back for killing his son.}
@@ -92,8 +92,8 @@
 {191}{}{They killed Zimmerman!}
 {192}{}{Uh... What?}
 {193}{}{...Now we have no choice but to get those weapons from the Gun Runners. Will you help us?}
-{194}{}{Yes.}
-{195}{}{No.}
+{194}{}{Ja.}
+{195}{}{Nein.}
 {196}{}{Thank you. May the Gods be with you on your journey.}
 {197}{}{Thank you for all your help. We're going to invade Adytum; we could really use someone like you on our side.}
 {198}{}{No thanks, I've seen enough action this week.}

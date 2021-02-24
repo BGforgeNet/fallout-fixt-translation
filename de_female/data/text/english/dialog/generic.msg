@@ -19,10 +19,10 @@
 {203}{}{The body of the humanoid looks to be highly irradiated, and much of the muscle and brain matter seem to have deteriorated. However, genetic indicators lead you to believe that it descended, like you, from those that entered the Vaults.}
 {204}{}{No thank you.}
 {205}{}{No thanks.}
-{206}{}{Sure.}
-{207}{}{Yes.}
-{208}{}{No.}
-{209}{}{Okay.}
+{206}{}{Sicher.}
+{207}{}{Ja.}
+{208}{}{Nein.}
+{209}{}{OK.}
 {300}{}{Ug.}
 {301}{}{Og.}
 {302}{}{Ooga.}
@@ -34,7 +34,7 @@
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
 {375}{}{Tschüss.}
-{376}{}{Goodbye.}
+{376}{}{Wiedersehn.}
 {450}{}{The coast is clear. Let's move out!}
 {900}{}{The old, worn door looks like it could be destroyed with a well-placed explosive.}
 {905}{}{Wuff! Wuff!}

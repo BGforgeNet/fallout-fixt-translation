@@ -7,8 +7,8 @@
 {106}{}{To see how you're doing.}
 {107}{}{Nothing. Goodbye.}
 {108}{}{I know you... right?}
-{109}{}{No.}
-{110}{}{Yes.}
+{109}{}{Nein.}
+{110}{}{Ja.}
 {111}{}{Never mind.}
 {112}{}{Um... okay.}
 {113}{}{What are you doing?}

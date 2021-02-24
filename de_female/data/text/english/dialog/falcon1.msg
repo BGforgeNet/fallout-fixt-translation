@@ -12,10 +12,10 @@
 {111}{}{I think you've had enough, lady.}
 {112}{}{Yeah... well beat it.}
 {113}{}{That'll be two caps.}
-{114}{}{Okay.}
-{115}{}{No, thanks.}
+{114}{}{OK.}
+{115}{}{Nein, danke.}
 {116}{}{That'll be five caps.}
-{117}{}{Sure.}
+{117}{}{Sicher.}
 {118}{}{That'll be ten caps.}
 {119}{}{Hmmm, for one of your size...}
 {120}{}{}

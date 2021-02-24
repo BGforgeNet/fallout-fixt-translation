@@ -75,7 +75,7 @@
 {174}{}{Okay, I'll do it. But if you keep acting like a raider, you'll die like a raider.}
 {175}{}{I'll give you the benefit of the doubt, for now. But a man's only as good as his reputation, and yours could use some work. I hope you'll do something about it before we meet again.}
 {176}{}{Just heading back to town. You wanna come along? I could use the company.}
-{177}{}{Sure.}
+{177}{}{Sicher.}
 {178}{}{Not today.}
 {179}{}{A little bit of scavenging. We've found a few abandoned raider bases that haven't been picked clean; I suspect they've been attacking each other. We can always use more ammo and drugs.}
 {180}{}{I'm going to regret this.}

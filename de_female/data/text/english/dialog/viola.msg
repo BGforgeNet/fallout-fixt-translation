@@ -66,7 +66,7 @@
 {165}{}{Upstairs. Ask the Nightkin to shed your blood, they'll be more than happy to oblige.}
 {166}{}{Because the Master is a necessary evil. Because somebody has to unite the world, and he's the only one in the area who has a chance to unify it.}
 {167}{}{Anyone ever tell you that Unity is overrated?}
-{168}{}{Why?}
+{168}{}{Warum?}
 {169}{}{I don't believe in necessary evils.}
 {170}{}{I like this world just fine.}
 {171}{}{I don't think I like this conversation.}
@@ -197,7 +197,7 @@
 {296}{}{Death is never a service, even when it's a necessity. Goodbye miss.}
 {297}{}{That is something I've wondered myself. But such criticism is not warranted, I'm certain. Perhaps you should speak to the children.}
 {298}{}{[Done]}
-{299}{}{Me go.}
+{299}{}{Ich gehen.}
 {300}{}{We have taken initiates in sooner, but the Church is performing some major Crusades, and I think we're being more selective than usual about recruits. But faith will persevere, and patience is a virtue. Good luck, my friend.}
 {301}{}{We have taken initiates in sooner, but the Church is performing some major Crusades, and I think we're being more selective than usual about recruits. But faith will persevere, and patience is a virtue. Good luck, my friend.}
 {302}{}{I know of no plans to invoke the Holy Flame again. The Sacred Fire was sacred only because it gives us a chance to purge the world of imperfection. It is our actions that will make the flame Holy. We must take the evils of the world and make them tools for Good. Just as your weapons defend your life, our actions defend the world. Farewell, friend.}

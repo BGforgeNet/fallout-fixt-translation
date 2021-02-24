@@ -24,7 +24,7 @@
 {123}{}{Damn straight it is! Just go talk to Keri in the next room, she'll let you know when the next caravan is leavin'.}
 {124}{}{Bub? What the hell are you talkin' about? Well, no skin off my back.}
 {125}{}{What, are you afraid of loud noises or somethin'?}
-{126}{}{Yes.}
+{126}{}{Ja.}
 {127}{}{Only at night.}
 {128}{}{No, I was just wondering you were deaf or dumb.}
 {129}{}{No, but my ears were getting a little sore.}
@@ -85,7 +85,7 @@
 {184}{}{So? Do you want a job or what? I'm offerin' you a great chance at some excitement and lots of cash! You can never have too much of either!}
 {185}{}{Oh, yeah. How much was that?}
 {186}{}{I'll kill anything that gets in our way!}
-{187}{}{No, thanks.}
+{187}{}{Nein, danke.}
 {188}{}{I need a Water Chip.}
 {189}{}{What do you know about the missing caravans?}
 {190}{}{Ich muss gehn.}
@@ -111,7 +111,7 @@
 {210}{}{I already told you. Just talk to Keri in the next room.}
 {211}{}{Your daughter?}
 {212}{}{That ugly thing is your daughter? That explains a lot!}
-{213}{}{Okay.}
+{213}{}{OK.}
 {214}{}{Yes, she's my pride and joy! Isn't she beautiful? Just talk to her when you want another job. Some day, hopefully soon, I'll be able to retire and she'll take over for me.}
 {215}{}{You can't if you're both dead!}
 {216}{}{Okay, thanks.}

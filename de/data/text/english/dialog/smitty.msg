@@ -16,7 +16,7 @@
 {115}{}{Can you make guns and bullets?}
 {116}{}{Nothing else, thanks.}
 {117}{}{I'm sorry, I don't think I can help you. Try Zimmerman.}
-{118}{}{Sure.}
+{118}{}{Sicher.}
 {119}{}{Why, any competent blacksmith can make his own anvil! 'Course, I really just sort of learned the craft by practice, but I made most of my own tools.}
 {120}{}{Mostly I make and repair tools and implements here. I also fix things for the Hub merchants. With the help of Miles, the chemist, I reload bullets from time to time.}
 {121}{}{Well, building guns and making shells takes machining, and I just don't have the tools for that. But with the help of Miles, the chemist, I can reload old brass, since I can cast bullets.}

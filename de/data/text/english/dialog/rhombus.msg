@@ -45,7 +45,7 @@
 {144}{}{By you? I could wipe the floor with you!}
 {145}{Rhom15}{Was there anything else?}
 {146}{}{Yes. Can I ask you a few more questions?}
-{147}{}{No, thanks.}
+{147}{}{Nein, danke.}
 {148}{Rhom16}{Goodbye then.}
 {149}{Rhom17}{It takes too long. I spend my time improving those already trained.}
 {150}{}{Sounds very boring.}

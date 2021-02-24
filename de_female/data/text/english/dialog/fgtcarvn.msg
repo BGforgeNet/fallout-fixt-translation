@@ -11,8 +11,8 @@
 {110}{}{}
 {111}{}{. You interested?}
 {112}{}{I'll still give you a job, even though... never mind. Are you interested?}
-{113}{}{Sure.}
-{114}{}{No.}
+{113}{}{Sicher.}
+{114}{}{Nein.}
 {115}{}{Maybe.}
 {116}{}{Yaya.}
 {117}{}{Tae?}
@@ -52,7 +52,7 @@
 {151}{}{}
 {152}{}{Brotherhood of Steel }
 {153}{}{. You'll be headin' out then. Like always it'll pay 400 hub bucks.}
-{154}{}{Okay.}
+{154}{}{OK.}
 {155}{}{Sorry, can't wait.}
 {156}{}{Not sure what happened, but the whole caravan was lost. Funny thing for something like that to happen, and for you to be the only one left standing? Things don't generally fall that way. I just don't think I can hire you anymore because of it. I'm sure you understand why.}
 {157}{}{Junktown}
@@ -84,13 +84,13 @@
 {183}{}{I'm sorry you feel that way.}
 {184}{}{Surprisin' that you ain't done this before. Since that's the case, it ain't gonna harm anyone if I give you another chance.}
 {185}{}{You did a good piece of work. You want to sign up for another?}
-{186}{}{Sure.}
-{187}{}{No.}
+{186}{}{Sicher.}
+{187}{}{Nein.}
 {188}{}{Maybe.}
 {189}{}{Eeek!}
 {190}{}{Lub.}
 {191}{}{Got all your gear? We're going out today.}
-{192}{}{Yes.}
+{192}{}{Ja.}
 {193}{}{No!}
 {194}{}{Ack!}
 {195}{}{Otherwise I'll just give it to someone else, don't worry about it. You're not obligated... until you leave with the caravan, right?}

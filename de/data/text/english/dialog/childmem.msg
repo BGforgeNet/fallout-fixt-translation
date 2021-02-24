@@ -12,8 +12,8 @@
 {111}{}{Hmm, some radiation poisoning. Unfortunately, we cannot cure that.}
 {113}{}{We require a donation of }
 {114}{}{ caps before we can heal you. Is this acceptable?}
-{115}{}{Yes.}
-{116}{}{No.}
+{115}{}{Ja.}
+{116}{}{Nein.}
 {117}{}{But I don't have that kind of money!}
 {118}{}{Will you take }
 {119}{}{ caps?}
@@ -24,11 +24,11 @@
 {124}{}{Thank you, my daughter. Let us pray for your healing.}
 {125}{}{There you go. Peace and blessings of the Children go with you.}
 {126}{}{You do not have enough money. If you donate all you can, we will heal you. Is this acceptable?}
-{127}{}{Yes.}
-{128}{}{No.}
+{127}{}{Ja.}
+{128}{}{Nein.}
 {129}{}{If you donate all you can, we will heal you. Is this acceptable?}
-{130}{}{Yes.}
-{131}{}{No.}
+{130}{}{Ja.}
+{131}{}{Nein.}
 {132}{}{You have more than enough to make the donation. You need schooling in math, my child.}
 {133}{}{We are the Children of the Cathedral. We live and work amongst those unfortunates living in the wasteland. If you ever get to L.A. Boneyard, stop by the Cathedral.}
 {134}{}{Thank you.}

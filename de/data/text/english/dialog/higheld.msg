@@ -12,8 +12,8 @@
 {111}{}{Good. First go talk to Maxson, if you haven't already. Report back to me when you've checked the northern territory. After that, we'll decide what to do with Maxson.}
 {112}{}{Wish me luck.}
 {113}{}{Have you explored the entire northern territory?}
-{114}{}{Yes.}
-{115}{}{No.}
+{114}{}{Ja.}
+{115}{}{Nein.}
 {116}{}{And what do you have to report?}
 {117}{}{I've found a base guarded by heavily armed mutants. It looks pretty bad.}
 {118}{}{I didn't think so. You weren't gone for very long. Now, get back out there and don't come back until you have a FULL report.}

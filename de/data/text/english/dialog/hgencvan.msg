@@ -41,29 +41,29 @@
 {213}{}{What are all of these carts doing here?}
 {214}{}{Trade? What is it you trade?}
 {215}{}{Where would I go to get a job?}
-{216}{}{Goodbye.}
+{216}{}{Wiedersehn.}
 {217}{}{A Water Chip? Wow. You got me on that one. I've never heard of one of those. Maybe you should check the general store downtown, they may be able to help you.}
 {218}{}{What are all of these carts doing here?}
-{219}{}{Thank you. Goodbye.}
+{219}{}{Vielen Dank. Auf Wiedersehen.}
 {220}{}{These are the caravans. We cart goods to just about all corners of the wastes: Junktown, The Brotherhood, Shady Sands, and numerous other places. Necropolis and the Glow are the only areas we steer clear of. I'm headin' this group and we will be leavin' shortly. The group across the street just arrived.}
 {221}{}{This looks like the same caravan I saw earlier...}
 {222}{}{What is it you trade?}
 {223}{}{What is this place?}
 {224}{}{Where would I go to get a job?}
-{225}{}{Thank you. Goodbye.}
+{225}{}{Vielen Dank. Auf Wiedersehen.}
 {226}{}{Hum... Lots of stuff. General stuff people need to live: food, water, lots of water. Water is probably the scarcest commodity in the wastes.}
 {227}{}{Could you tell me where I could find a Water Chip?}
 {228}{}{Where would I go to get a job?}
-{229}{}{Thank you. Goodbye.}
+{229}{}{Vielen Dank. Auf Wiedersehen.}
 {230}{}{You could ask just about anyone here in the Hub. Or you can check one of the job bulletin boards. There are a few of them around the Hub. Definitely more jobs than people here.}
 {231}{}{What is this place?}
 {232}{}{Could you tell me where I could find a Water Chip?}
 {233}{}{What are all of these carts doing here?}
-{234}{}{Thank you. Goodbye.}
+{234}{}{Vielen Dank. Auf Wiedersehen.}
 {235}{}{Haha! Yes. I guess you could say that. After a while they all start to look the same, but believe me, they're not.}
 {236}{}{You shall die for mocking me!!!}
 {237}{}{Where would I go to get a job?}
-{238}{}{Goodbye.}
+{238}{}{Wiedersehn.}
 {300}{}{You see: Luke.}
 {301}{}{These are the caravans. We cart goods to just about all corners of the wastes: Junktown, The Brotherhood, Shady Sands, and numerous other places. We just got in and it's been a long trip. The group across the street is getting ready to depart.}
 {400}{}{You see: John.}

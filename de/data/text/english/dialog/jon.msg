@@ -63,7 +63,7 @@
 {162}{}{Have you done it?! Is she dead? Is she dead?}
 {163}{}{You need some help, old man. Yeah, she's dead.}
 {164}{}{Of course. I made her suffer as a personal favor to you.}
-{165}{}{Yes.}
+{165}{}{Ja.}
 {166}{}{Thank the gods!!! Here's your money. You'll always be welcome in Adytum, my son.}
 {167}{}{Finally she knows the taste of hell fire! Bless you, my son. [He wipes away a tear]. Here's an extra 500 caps for putting in the extra effort. You'll always be welcome here.}
 {168}{}{Have you done it?!? Is she dead? Is she dead?}

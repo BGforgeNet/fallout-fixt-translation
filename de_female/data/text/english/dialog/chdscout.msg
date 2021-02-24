@@ -62,7 +62,7 @@
 {161}{}{Now let me see. It's }
 {162}{}{. Right?}
 {163}{}{Yes, you moron.}
-{164}{}{Yes.}
+{164}{}{Ja.}
 {165}{}{No, stupid. It's Deathstalker!}
 {166}{}{Good. Just making sure, for your headstone.}
 {167}{}{Then I don't have to let you live. Good night.}

@@ -2,7 +2,7 @@
 {101}{}{You see: Tycho, the Desert Ranger.}
 {102}{}{Another new face. Travelers here are a dime a dozen. But you have the look of someone different. Care to join me for a drink?}
 {103}{}{Sorry, I'm rather pressed for time.}
-{104}{}{Sure.}
+{104}{}{Sicher.}
 {105}{}{Duh-wah?}
 {106}{}{Delightful. I hope you don't mind your drink well-watered; they treat beer here like it's a potted plant.}
 {107}{}{So, what's your story?}

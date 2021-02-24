@@ -80,7 +80,7 @@
 {179}{}{But I want someone who knows what's going on.}
 {180}{}{No thank you. But I wouldn't mind being friends.}
 {181}{}{Get lost, you piece of trash.}
-{182}{}{Sure.}
+{182}{}{Sicher.}
 {183}{}{Life IS shorter than you think. Die, asshole!}
 {184}{}{I'm not LITTLE, bitch!}
 {185}{}{Who believes in that bullshit? They have to program these morons to believe in that stuff anyway.}

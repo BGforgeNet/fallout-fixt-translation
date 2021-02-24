@@ -43,7 +43,7 @@
 {142}{}{Do you suppose that Vault might have parts that I could salvage?}
 {143}{}{Possibly, but I for one wouldn't risk the ghouls. Latest word is they've some sort of powerful new leader.}
 {144}{}{Why, certainly. Would you like to hear it?}
-{145}{}{Sure.}
+{145}{}{Sicher.}
 {146}{}{Nah.}
 {147}{}{[Patrick sings songs and the two of you reminisce for several hours. You feel invigorated.]}
 {148}{}{Hello again. Can I help you?}

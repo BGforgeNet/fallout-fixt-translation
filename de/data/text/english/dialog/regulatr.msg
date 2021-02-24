@@ -14,7 +14,7 @@
 {113}{}{}
 {114}{}{Nichts. Vergiss es.}
 {115}{}{}
-{116}{}{No.}
+{116}{}{Nein.}
 {117}{}{What do you want to know about?}
 {118}{}{What do you do here?}
 {119}{}{Can you tell me more about L.A. Boneyard?}

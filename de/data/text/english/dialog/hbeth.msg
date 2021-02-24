@@ -35,15 +35,15 @@
 {135}{}{Well, I'm not hiring, but there's a job post in the center of the Merchant Market. You might want to check there.}
 {136}{}{Okay, thanks.}
 {137}{}{No, nothing good at least. Give me a chance to do some digging. (She winks at you.) Anything else?}
-{138}{}{Yes.}
-{139}{}{No.}
+{138}{}{Ja.}
+{139}{}{Nein.}
 {140}{}{What else can I do for you?}
 {141}{}{Of course you can, don't be silly.}
 {142}{}{Why sure, I'd be happy to help. What did you need to know?}
 {143}{}{Alright. Well, it's been nice talking to you. Have a nice day.}
 {144}{}{No, that's all. Was there something else you wanted to talk about?}
-{145}{}{Yes.}
-{146}{}{No.}
+{145}{}{Ja.}
+{146}{}{Nein.}
 {147}{}{Well, come back soon. Don't be a stranger.}
 {148}{}{Now there's someone you don't ever want to mess with; he scares me. He 'owns' the Maltese Falcon.}
 {149}{}{Why did you say it like that? He 'owns' the Maltese Falcon.}
@@ -114,7 +114,7 @@
 {215}{}{Some people think the Water Merchants are responsible, but I don't think so. I think it was that darn Deathclaw, or maybe the people over at the Brotherhood of Steel.}
 {216}{}{Well, I thought that it was destroying the caravans, but I guess not. It's still out there though. There are too many rumors floating around for it not to exist.}
 {217}{}{I think that's what's taking the caravans. It could also be the Brotherhood of Steel; they're a strange bunch. Some people think it's the Water Merchants, but they're wrong.}
-{218}{}{Sure.}
+{218}{}{Sicher.}
 {219}{}{Because, like I've been telling everyone, they've had a few caravans disappear too. Nothing like what's happening to the Far Go Traders, but they are being affected.}
 {220}{}{They could be lying or it could be part of their plan to make you believe them.}
 {221}{}{Why would it happen to the Far Go Traders more than the others? }
@@ -199,7 +199,7 @@
 {300}{}{Show me what you've got.}
 {301}{}{Do you have anything good?}
 {302}{}{Well, let's see.}
-{303}{}{Sure.}
+{303}{}{Sicher.}
 {304}{}{What do you have for me today?}
 {305}{}{That's great. I can always use more merchandise.}
 {306}{}{I'd be happy to take a look at what you've got.}
@@ -290,7 +290,7 @@
 {392}{}{I think he's jealous!}
 {393}{}{Sid! Don't be rude to the customers!}
 {394}{}{Anyone else you know who might have some information about the Deathclaw?}
-{395}{}{Goodbye.}
+{395}{}{Wiedersehn.}
 {396}{}{Thanks.}
 {397}{}{Ook.}
 {398}{}{Is there any place in town I should avoid?}

@@ -12,7 +12,7 @@
 {111}{}{I've heard that you people sacrifice puppies.}
 {112}{}{What type of armor is that you're wearing?}
 {113}{}{How do I find out more about your technology?}
-{114}{}{Goodbye.}
+{114}{}{Wiedersehn.}
 {115}{}{No... I never even heard of one of those. One of our Head Scribes may know. Maybe you can ask one of them. That is if you join us.}
 {116}{}{Join? How do I join?}
 {118}{}{You guys don't know jack.}

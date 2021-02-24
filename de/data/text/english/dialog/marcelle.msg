@@ -34,7 +34,7 @@
 {133}{}{I don't know about that, but I will rent you a room. It's a good place to rest and heal up. 25 caps for a day, or a week is 150. Most people go for the weekly rate. You should, if you ask me.}
 {134}{}{Okay. A week.}
 {135}{}{Just one night.}
-{136}{}{No, thanks.}
+{136}{}{Nein, danke.}
 {137}{}{I'm just a hotel manager, bub. Don't ask too much of me.}
 {138}{}{Here's 50 caps; tell me what you know.}
 {139}{}{I know you're 50 caps poorer. I don't do the gossip thing, okay? Come back if you want a room.}
@@ -43,7 +43,7 @@
 {142}{}{I want to rent a room.}
 {143}{}{Hnnn.}
 {144}{}{You're already renting room #1 from me. Do you want me to show you where it is?}
-{145}{}{Sure.}
+{145}{}{Sicher.}
 {146}{}{Nah.}
 {147}{}{Yah.}
 {148}{}{Nah.}
@@ -55,7 +55,7 @@
 {154}{}{Sure. It's 25 caps a day, or 150 for the entire week.}
 {155}{}{Okay. A week.}
 {156}{}{Just one night.}
-{157}{}{No, thanks.}
+{157}{}{Nein, danke.}
 {158}{}{Okay. Room #1 is yours. Have a nice stay.}
 {159}{}{Yeah, what do you want?}
 {160}{}{I want to rent a room.}
@@ -66,10 +66,10 @@
 {165}{}{No. Have a good night.}
 {166}{}{Okay. One night. 100 caps.}
 {167}{}{What! That's outrageous!}
-{168}{}{Okay.}
+{168}{}{OK.}
 {169}{}{Deal with it. Yes or no.}
-{170}{}{No.}
-{171}{}{Okay.}
+{170}{}{Nein.}
+{171}{}{OK.}
 {172}{}{Good. Here you go. Room #1. Have a nice night, check out time is 11 o' clock.}
 {173}{}{You killed Killian, didn't you?}
 {174}{}{Yep, sure did.}

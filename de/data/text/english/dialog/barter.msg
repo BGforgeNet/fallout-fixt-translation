@@ -1,6 +1,6 @@
 {100}{}{You see: Shady Sands' resident trader.}
 {101}{}{Hello wanderer! I trade and sell goods to the fine people of Shady Sands. Would you like to see my wares?}
-{102}{}{Yes.}
+{102}{}{Ja.}
 {103}{}{Nope.}
 {104}{}{We have been plagued by radscorpions for some time now. All who have been sent to destroy these monsters have not returned. I will give you weapons and armor if you will follow a guide to their lair and kill them all.}
 {105}{}{Sounds good.}

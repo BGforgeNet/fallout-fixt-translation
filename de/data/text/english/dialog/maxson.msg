@@ -86,7 +86,7 @@
 {185}{}{The more I know, the more sure I'll be.}
 {186}{Gen_28}{Look I don't have time for a story that long right now. Here. All of us grew up on this. }
 {187}{Gen_29n}{There's rumors concerning the missing caravans in the Hub, as well as the strange army brewing in the eastern mountains. }
-{188}{}{Okay.}
+{188}{}{OK.}
 {189}{}{What army?}
 {190}{}{What about these missing caravans?}
 {191}{}{I have some info on that.}
@@ -113,7 +113,7 @@
 {212}{}{How much are you paying for this information?}
 {213}{Gen_39}{Finally! Well this'll get the Elders off their butts. We'll fortify the fortress and surprise those damn mutants.}
 {214}{}{No! You don't understand. They are turning people into mutants and adding them to their army.}
-{215}{}{Okay.}
+{215}{}{OK.}
 {216}{Gen_40}{So?}
 {217}{}{So, by the time they get here, they'll be unstoppable. And they have advanced weapons, like yours. You don't stand a chance.}
 {218}{}{Well, okay. Maybe digging in is the right thing.}

@@ -40,8 +40,8 @@
 {139}{}{I'll look into the scouts then.}
 {140}{}{I think there is a cover-up here. You die!}
 {141}{}{That is why I am asking you to look around and see if you can find someone. Will you help?}
-{142}{}{Yes.}
-{143}{}{No.}
+{142}{}{Ja.}
+{143}{}{Nein.}
 {144}{}{Thank you. This means a lot to us.}
 {145}{}{Then I must detain you from warning anyone.}
 {146}{}{How he ever became second in command is beyond me. Since he was so scarce in words, I will fill you in. We have a leak who is feeding the Children some of our movement patterns.}

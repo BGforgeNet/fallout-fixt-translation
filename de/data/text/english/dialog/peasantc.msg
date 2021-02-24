@@ -4,7 +4,7 @@
 {103}{}{This is my place, wanna hang out for a while?}
 {104}{}{Hmm, you look juicy... }
 {105}{}{I hope you're not going to kick me out of here.}
-{106}{}{No.}
+{106}{}{Nein.}
 {107}{}{That's a strange way to start a conversation.}
 {108}{}{Hnnn.}
 {109}{}{Oh, well, if you want to stay a while, go right ahead. I think we are safe here.}

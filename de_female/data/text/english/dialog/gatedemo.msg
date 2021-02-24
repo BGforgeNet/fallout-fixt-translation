@@ -14,7 +14,7 @@
 {113}{}{There are a lot of things to do here. Let's see. You can practice your aim on the brahmin, or you can just wander around Junktown and see the sights, as long as you don't start any trouble.}
 {114}{}{Is there anything else around here?}
 {115}{}{Fine! Give me everything you have!}
-{116}{}{Thank you. Goodbye.}
+{116}{}{Vielen Dank. Auf Wiedersehen.}
 {117}{}{Well, supposedly one of the old residents had a nasty gun hidden in his house, on the northwest side. But nobody has every found it.}
 {118}{}{Okay. Thank you for you time.}
 {119}{}{Is there anything else?}

@@ -10,7 +10,7 @@
 {109}{}{Hello. What are you doing here at this time?}
 {110}{}{Eaah!}
 {111}{}{I was worried about the Vault and had a nightmare. I couldn't get back to sleep so I thought I'd take a walk to relax.}
-{112}{}{Okay.}
+{112}{}{OK.}
 {113}{}{Have you seen anyone else around here?}
 {114}{}{I'm sorry, but I'm looking for the water thief and I need to see what you're carrying.}
 {115}{}{Yeah, some guy was acting suspicious back near the water ration room. He scared me. I hope he didn't see me.}

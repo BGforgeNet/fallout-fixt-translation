@@ -34,7 +34,7 @@
 {133}{}{We already went through this. Are you willing to pay the price to have the water caravans start?}
 {134}{}{Earlier you mentioned that Necropolis might have a Water Chip. Why would they need one?}
 {135}{}{How much are we talking about?}
-{136}{}{No, not yet.}
+{136}{}{Nein, noch nicht.}
 {137}{}{Well, it's just a guess really. We tried to start a caravan route to Necropolis once, but they refused to trade with us. Nobody in their right mind refuses water these days unless they have a reliable supply. I figure they must have their own purifier or they would have died out a long time ago. So are you looking to have us go up to your Vault?}
 {138}{}{Yes, how much is it going to cost me?}
 {139}{}{No thanks.}

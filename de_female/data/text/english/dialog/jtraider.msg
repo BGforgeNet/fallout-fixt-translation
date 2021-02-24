@@ -47,7 +47,7 @@
 {146}{}{You tell me. You're in charge.}
 {147}{}{I want some money, and I want to get out of here peacefully. No one follows me.}
 {148}{}{Sorry, we can't do that.}
-{149}{}{Sure.}
+{149}{}{Sicher.}
 {150}{}{No money, but you can just walk away. No one will do anything. I promise.}
 {151}{}{Okay, but you have to let the girl go first. Show me some trust, and I'll trust you.}
 {152}{}{You lied to me!}

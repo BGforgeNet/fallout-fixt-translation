@@ -39,9 +39,9 @@
 {138}{}{Thanks!}
 {139}{}{Because the Crypts do! They outnumber us for the moment, but if you were to join with us, we could take them.}
 {140}{}{Sure. I'll join.}
-{141}{}{No, thanks.}
+{141}{}{Nein, danke.}
 {142}{}{You are a Fool... just kidding. Did you think I would let you join that easily?}
-{143}{}{Yes.}
+{143}{}{Ja.}
 {144}{}{Uh, no!}
 {145}{}{Oh, okay. You're in. You are now a Fool. Betray us and die. Yadda-yadda-yadda.}
 {146}{}{You lie!}
@@ -54,7 +54,7 @@
 {153}{}{Hmm, yes. Good question. Well, I suppose we should plan our attack on the Crypts. We have to gain control of that power generator, or all is lost.}
 {154}{}{What do you want me to do?}
 {155}{}{Well, since you are the newest member of the Fools, and therefore the most expendable, I want you to scout the enemy and report.}
-{156}{}{Okay.}
+{156}{}{OK.}
 {157}{}{Well, should we attack?}
 {158}{}{Yes!}
 {159}{}{No!}

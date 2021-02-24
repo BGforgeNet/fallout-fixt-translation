@@ -31,7 +31,7 @@
 {130}{}{Uh, no thanks. Can I ask you some questions?}
 {131}{}{So, you been living in Junktown long?}
 {132}{}{Well, nice to meet ya. Later.}
-{133}{}{Yes.}
+{133}{}{Ja.}
 {134}{}{I've been here all my life. Grew up here.}
 {135}{}{What can you tell me about Junktown?}
 {136}{}{How did you become a boxer?}

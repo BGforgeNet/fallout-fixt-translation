@@ -36,7 +36,7 @@
 {135}{}{The medical scanners picked up some mild radiation poisoning. Would you like us to attempt a healing? It will take a while.}
 {136}{}{You see the Vault 13 medic.}
 {137}{}{Okay, well let's have a look then. Hold still for a moment.}
-{138}{}{No.}
+{138}{}{Nein.}
 {139}{}{Okay, do it.}
 {140}{}{How long?}
 {141}{}{How long will it take, and how much radiation can you remove?}
@@ -45,13 +45,13 @@
 {144}{}{Okay, fine; it's your body.}
 {145}{}{It will take about }
 {146}{}{ hours. RadAway would work a little faster, but we don't have any to spare. Shall we get started?}
-{147}{}{No.}
-{148}{}{Yes.}
+{147}{}{Nein.}
+{148}{}{Ja.}
 {149}{}{It will take about }
 {150}{}{ hours. I will be able to remove about }
 {151}{}{ rads. RadAway would work a little faster, but we don't have any to spare. Shall we get started?}
-{152}{}{No.}
-{153}{}{Yes.}
+{152}{}{Nein.}
+{153}{}{Ja.}
 {154}{}{This is going to be really, really painful.}
 {155}{}{Don't worry, this shouldn't hurt at all.}
 {156}{}{Okay, you should be feeling much better now. Be careful out there.}

@@ -41,7 +41,7 @@
 {140}{}{No. I don't think I will help.}
 {141}{}{Suit yourself. If they take over the wastelands, don't say we didn't warn you.}
 {142}{}{If you talk to Nicole, she will be able to tell you more of what can be done to stop them.}
-{143}{}{Thank you. Goodbye.}
+{143}{}{Vielen Dank. Auf Wiedersehen.}
 {144}{}{Not children. We wouldn't think of harming them. No. These are the Children of the Cathedral. A nasty group of people.}
 {145}{}{In that case, sure - I'll waste them.}
 {146}{}{Oh. I thought you were talking about kids. Never mind. I don't think I'll help.}

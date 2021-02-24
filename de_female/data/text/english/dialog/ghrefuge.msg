@@ -23,7 +23,7 @@
 {122}{}{I heard they was pissed that some human killed their men here.}
 {123}{}{Oh, uh, anything else?}
 {124}{}{Hmmm. Okay. Get out of here.}
-{125}{}{No.}
+{125}{}{Nein.}
 {126}{}{Thanks.}
 {127}{}{You're useless.}
 {128}{}{I heard some of the sewer ghouls might have survived, but I don't like it down there.}

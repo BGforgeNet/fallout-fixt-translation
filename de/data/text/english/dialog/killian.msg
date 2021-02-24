@@ -171,7 +171,7 @@
 {270}{}{You earn 500 experience for securing Gizmo's confession.}
 {271}{}{I'm here to take you in, Gizmo. This time, I've got the proof I need.}
 {272}{}{What do you know about this Gizmo character?}
-{273}{}{Okay.}
+{273}{}{OK.}
 {274}{}{Yeah, he's dangerous. I'm here to kill you for him.}
 {275}{}{I'll say... that fat slob just tried to hire me to kill you. Why don't you do something about him?}
 {276}{}{I'll take a shotgun and shells.}

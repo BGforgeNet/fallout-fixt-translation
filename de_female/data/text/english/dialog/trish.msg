@@ -17,7 +17,7 @@
 {116}{}{His boxing, right?}
 {117}{}{You would say that. You want to take his place right?}
 {118}{}{Nah. You're too skanky.}
-{119}{}{Sure.}
+{119}{}{Sicher.}
 {120}{}{Lass mich einfach in Ruhe.}
 {121}{}{Maybe you're right. Maybe I need to understand what he does and leave it at that.}
 {122}{}{His fighting, of course. I don't get it.}

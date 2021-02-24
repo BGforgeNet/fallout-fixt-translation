@@ -23,7 +23,7 @@
 {122}{}{You'll get another 400 caps if you can get me and the caravan back safely to the Hub, but only if I make it. You've got to cover me if we get in a fight.}
 {123}{}{So, did you change your mind?}
 {124}{}{Yes, I'll take the job.}
-{125}{}{No.}
+{125}{}{Nein.}
 {126}{}{Hra?}
 {127}{}{Sorry, we're not going back to the Hub today.}
 {128}{}{Um, sorry. I don't think we need you for the return trip.}

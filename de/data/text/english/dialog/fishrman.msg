@@ -14,7 +14,7 @@
 {113}{}{I'm running a little low on supplies...}
 {114}{}{No man's ever called me inhospitable, and I don't want to repeat what women call me, but I am trying to fish and I need absolute quiet to catch the damn things. So please try to keep quiet.}
 {115}{}{Has anyone ever told you that you ramble on?}
-{116}{}{Okay.}
+{116}{}{OK.}
 {117}{}{I'm looking for information.}
 {118}{}{Do I look like a scavenger to you? Well, maybe I do, but that's because I spend a lot of time in the Wastes trying to teach my boy to fish and be a man.}
 {119}{}{I haven't done any scavenging in six years. Too many radscorpions. A fella could get killed out there with all them varmints running around.}

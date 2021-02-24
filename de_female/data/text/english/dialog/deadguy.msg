@@ -7,8 +7,8 @@
 {106}{}{Uh, but? You? *sigh* Okay, do it quickly please. I hate pain.}
 {107}{}{Don't hurt me!}
 {108}{}{Okay. (He gives you 20 caps.) Can I go now?}
-{109}{}{Yes.}
-{110}{}{No.}
+{109}{}{Ja.}
+{110}{}{Nein.}
 {111}{}{Uh, why?}
 {112}{}{Because I said so! Do you have a problem with that?}
 {113}{}{Okay, you can leave.}
@@ -21,4 +21,4 @@
 {126}{}{Just get out of here!}
 {127}{}{You're a liar!}
 {128}{}{Yes, sir!}
-{129}{}{Yes, ma'am!}
+{129}{}{Ja, gnädige Frau!}

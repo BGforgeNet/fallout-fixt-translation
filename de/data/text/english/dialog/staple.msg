@@ -25,7 +25,7 @@
 {124}{}{You will have to excuse me, but I have research to do.}
 {125}{}{Ruk?}
 {126}{}{I'm sorry, I don't understand you. Somewhere I have a holodisk on learning the English language, if you're interested.}
-{127}{}{Goodbye.}
+{127}{}{Wiedersehn.}
 {128}{}{Thanks.}
 {129}{}{Ug.}
 {130}{}{Do you have a set of chemistry journals? Miles in Adytum said you might.}

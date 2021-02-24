@@ -1,7 +1,7 @@
 {100}{}{You see: Nightkin scout.}
 {101}{}{What have we here? A normal! I think you'll be coming with me.}
 {102}{}{Uh.}
-{103}{}{Okay.}
+{103}{}{OK.}
 {104}{}{And why should I?}
 {105}{}{Fat chance! (Attack.)}
 {106}{}{It's all quite simple: if you come with me, I'll help you.}

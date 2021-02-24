@@ -2,8 +2,8 @@
 {101}{}{You see a clerk from the Water Merchants.}
 {102}{}{You see a clerk from the Far Go Traders.}
 {103}{}{Hello. Are you looking for a job?}
-{104}{}{Yes.}
-{105}{}{No.}
+{104}{}{Ja.}
+{105}{}{Nein.}
 {106}{}{Great. We have space for another guard. Are you interested?}
 {107}{}{Okay. If you need work, just stop by and we'll set you up.}
 {108}{}{Tut mir leid für dich. Tschüss.}

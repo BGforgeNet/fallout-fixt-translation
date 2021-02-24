@@ -25,7 +25,7 @@
 {124}{}{ caps. Payment is due before treatment. No exceptions. Will you pay?}
 {125}{}{Yes, I will pay.}
 {126}{}{No, I don't have the money. Will you float me?}
-{127}{}{No.}
+{127}{}{Nein.}
 {128}{}{Ya.}
 {129}{}{Nuh.}
 {130}{}{No. I don't loan anyone, and I mean anyone, any amount of money. Go away, you pauper.}

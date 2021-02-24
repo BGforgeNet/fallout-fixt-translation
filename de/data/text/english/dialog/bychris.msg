@@ -4,7 +4,7 @@
 {103}{}{Wer bist du?}
 {104}{}{Who's in charge around here?}
 {105}{}{Can you tell me a little bit about the area?}
-{106}{}{No Thanks.}
+{106}{}{Nein, Danke.}
 {107}{}{You my Mommie?}
 {108}{}{My name is Christine, I live here with my husband Michael.}
 {109}{}{Razor keeps track of most things with the Blades, and helps us organize ourselves.}

@@ -9,7 +9,7 @@
 {108}{}{, you may hurt yourself. An army of bad mutants came to this place and made a big boom. See?}
 {109}{}{Uh-huh.}
 {110}{}{See. So, you better find anoter place to go. It isn't safe here.}
-{111}{}{Me go.}
+{111}{}{Ich gehen.}
 {112}{}{Mutants. It was a really big army. They came, killed everyone, took everything they could and blew this place up.}
 {113}{}{And how did you manage to survive all this?}
 {114}{}{I was returning from a long range patrol. When I came the battle was already over. I couldn't do anything. So I hid and watched them.}

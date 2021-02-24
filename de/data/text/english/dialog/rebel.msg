@@ -15,8 +15,8 @@
 {114}{}{Have you actually used that against someone?}
 {115}{}{Why do you think it is necessary to carry a weapon in here?}
 {116}{}{Hello! How goes the search?}
-{117}{}{Pretty well.}
-{118}{}{Not so good.}
+{117}{}{Recht gut.}
+{118}{}{Nicht besonders gut.}
 {119}{}{Ugh.}
 {120}{}{Well, that's good to hear. Keep up the good work, I guess.}
 {121}{}{No problem.}

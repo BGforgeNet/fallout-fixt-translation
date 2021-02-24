@@ -38,7 +38,7 @@
 {137}{}{What's wrong with the Casino?}
 {138}{}{Oh gosh. I thought you were from the Casino. You scared me.}
 {139}{}{Ach so, OK. Tschüss.}
-{140}{}{Why?}
+{140}{}{Warum?}
 {141}{}{Well, I got into some trouble there. I owe them a lot of money.}
 {142}{}{Why do you owe them so much money?}
 {143}{}{Who at the casino do you owe this money to?}
@@ -46,7 +46,7 @@
 {145}{}{Hmmm. Thanks for the info.}
 {146}{}{Oh, it's you again. You scared me for a moment. You haven't seen anyone from the Casino around here, have you?}
 {147}{}{Hnnn!}
-{148}{}{No.}
+{148}{}{Nein.}
 {149}{}{Yep, sure did.}
 {150}{}{Hey, I got some questions for you.}
 {151}{}{Good, good. I just need a couple more days, and I'll make their money back and much more. I'm a better gambler than they think.}

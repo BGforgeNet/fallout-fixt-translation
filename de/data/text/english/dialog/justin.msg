@@ -5,7 +5,7 @@
 {104}{}{Well, spit it out!}
 {105}{}{Decker tried to hire me to kill some merchant and his wife.}
 {106}{}{Decker tried to hire me to kill someone named Jain.}
-{107}{}{Nothing, never mind.}
+{107}{}{Nichts, schon gut.}
 {108}{}{Sorry, I can't tell you. I'd be dead.}
 {109}{}{Well, thank you. We try our best. It's really tough in a city this size, but we do the best we can with what we've got. It's hard when the thugs have better firepower than you do.}
 {110}{}{Thanks again.}
@@ -50,8 +50,8 @@
 {149}{}{Fugitive! Get him!}
 {150}{}{Fugitive! Get her!}
 {151}{}{Ready to go take out Decker?}
-{152}{}{Yes.}
-{153}{}{No.}
+{152}{}{Ja.}
+{153}{}{Nein.}
 {154}{}{Ug.}
 {155}{}{I can't believe Decker's finally dead. I never thought I'd see the day.}
 {156}{}{Have you changed your mind? We could still use you to get rid of that disease we talked about.}
@@ -76,7 +76,7 @@
 {175}{}{Let me know when you're ready. We'll wait for you, but don't take too long.}
 {180}{}{Iguana Bob is using meat from human corpses for his Prime Choice Select cuts.}
 {181}{}{You're kidding! Are you sure? Hmmm... Let me look into this and i'll get back to you.}
-{182}{}{Okay.}
+{182}{}{OK.}
 {183}{}{Well, your story checks out. Damn. Bob always seemed a little "off" but I'd never have suspected he was selling human flesh to us. I was having one or two of those for lunch every day!}
 {184}{}{I know. It's a shame, considering how delicious they are.}
 {185}{}{Prime Choice Select is made of people!!!! It's made of people!!!}

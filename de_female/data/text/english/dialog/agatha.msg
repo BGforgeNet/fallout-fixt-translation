@@ -4,8 +4,8 @@
 {103}{}{You are a bad person. I will have nothing to do with you.}
 {104}{}{It is a terrible thing when our youth are threatened. The loss of Tandi would be a terrible thing.}
 {105}{}{Hnng.}
-{106}{}{Okay.}
-{107}{}{Why?}
+{106}{}{OK.}
+{107}{}{Warum?}
 {108}{}{What do you mean?}
 {109}{}{I know you will do your best, dearie. Find Tandi, help her escape those beasts and return her to Aradesh. You will do this community a favor and build good karma as well.}
 {110}{}{Aradesh loves his daughter very much. It is that love that makes him the man that he is and a pillar of this community. Without that love he would be lost, and Shady Sands would surely follow...}
@@ -33,14 +33,14 @@
 {132}{}{Thank you for asking. I'm just old, that's all. I cannot sleep at night. I close my eyes... (She pauses), but I get no rest. Please, it is just my old tired bones...}
 {133}{}{I'm sorry, I'm very tired. Could you please come back later?}
 {134}{}{Baba.}
-{135}{}{Okay.}
+{135}{}{OK.}
 {136}{}{Why are you so tired?}
 {137}{}{I don't sleep well at night, my child. It must be my age.}
 {138}{}{Good day, my child. You look well. You remind me of my own baby.}
 {139}{}{Hng.}
 {140}{}{I want a story, then.}
 {141}{}{I'm glad you are feeling better.}
-{142}{}{Thank you. Goodbye.}
+{142}{}{Vielen Dank. Auf Wiedersehen.}
 {143}{}{You definitely remind me of my baby. When she was just a few months old, as a matter of fact.}
 {144}{}{Thank you. Dharma always said that the farmer who plants politeness will walk easy when the season is over.}
 {145}{}{Please tell me a story.}

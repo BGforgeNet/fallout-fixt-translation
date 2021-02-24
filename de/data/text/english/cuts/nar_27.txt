@@ -1,2 +1,2 @@
-1:The mutants are slowed, but not stopped, by the brave defenders of Junktown.
-2:When the army finishes their brutal siege, nothing of Junktown remains.
+1:Die tapferen Männer von Junktown halten die Mutanten kurzfristig auf, können sie aber nicht stoppen.
+2:Am Ende der brutalen Belagerung der Arme bleibt von Junktown nichts übrig.

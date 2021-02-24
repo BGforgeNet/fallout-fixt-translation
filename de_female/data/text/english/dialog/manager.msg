@@ -18,8 +18,8 @@
 {117}{}{I don' wanna talk to you.}
 {118}{}{What are you?}
 {119}{}{I'm a ghoul. You never seen a ghoul before?}
-{120}{}{Yes.}
-{121}{}{No.}
+{120}{}{Ja.}
+{121}{}{Nein.}
 {122}{}{Musta been a pansie undergrounder. They letta you live so's you could pester me. Now getta outta my house.}
 {123}{}{Well now you have. Getta outta here!}
 {200}{}{He appears to be the owner of this establishment. The phrase "under new management" comes to mind.}

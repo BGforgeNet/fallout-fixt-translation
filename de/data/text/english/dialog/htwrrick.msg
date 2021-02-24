@@ -22,7 +22,7 @@
 {121}{}{Well, I'm actually interested in killing Mr. Hightower. It's time to earn your pay!}
 {122}{}{Where am I?}
 {123}{}{Thanks for your time. Bye.}
-{124}{}{No.}
+{124}{}{Nein.}
 {125}{}{I don't like your attitude. You'd better leave.}
 {126}{}{All right. I'm going.}
 {127}{}{Make me, you damn long-haired freak!}

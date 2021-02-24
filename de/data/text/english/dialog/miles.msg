@@ -22,7 +22,7 @@
 {121}{}{Oh. Well, that's too bad.}
 {122}{}{Really? That would be wonderful! We're just missing a few parts, but I'm sure that if you could scrounge up the right pieces, we could be self-sufficient! Sammael might be able to give you some help.}
 {123}{}{Have you found the parts yet?}
-{124}{}{Yes, here they are.}
+{124}{}{Ja, hier sind sie.}
 {125}{}{Not yet, who did you say I should ask about them?}
 {126}{}{You'll need to talk to Sammael. You'll usually find him in a tent down by the farms during the day.}
 {127}{}{[Miles looks over the parts] Those are them, but it looks like Smitty is going to have to do a little work on them. Can you take them over to him?}

@@ -63,7 +63,7 @@
 {162}{}{Thanks for all your help. Here's 500 caps. You're always welcome in Junktown, friend.}
 {163}{}{What? Hmm. We'll see about that. I'll send some men over to ambush them when they try it. You gonna be there?}
 {164}{}{No thanks, I've done my good deed for the day.}
-{165}{}{Yes.}
+{165}{}{Ja.}
 {166}{}{The Skulz are planning on killing Neal!}
 {167}{}{Lars's men quickly eliminate the Skulz.}
 {168}{}{Looks like Lars might still be alive, but he's definitely out of the fight.}

@@ -28,7 +28,7 @@
 {129}{}{Ask Razor. She'll explain about those bloodthirsty inbreeds.}
 {130}{}{Get lost!}
 {131}{}{Hey, now that you're a Blade, I need to ask you a favor.}
-{132}{}{Sure.}
+{132}{}{Sicher.}
 {133}{}{What is it?}
 {134}{}{Niemals.}
 {135}{}{Great. Take this locket to Julianna. Tell her that I hope to see her soon.}

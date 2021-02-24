@@ -60,7 +60,7 @@
 {159}{}{What's the deal with the Regulators?}
 {160}{}{Where are the Gun Runners from?}
 {161}{}{}
-{162}{}{Thanks for your help.}
+{162}{}{Danke für die Hilfe.}
 {163}{}{Well, supposedly it was somewhere south of here, but I don't know really. I think everyone left because it was broken.}
 {164}{}{Can I ask you some more questions?}
 {165}{}{Hmm. Thanks.}

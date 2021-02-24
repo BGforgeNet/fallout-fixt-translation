@@ -26,7 +26,7 @@
 {125}{}{Okay, I'm out of here.}
 {126}{}{I don't think so. Get out before I call the boyz over and we dance on your face.}
 {127}{}{Is that a threat?}
-{128}{}{Okay.}
+{128}{}{OK.}
 {129}{}{It was. Now it's a fact. ZOMBIES!}
 {130}{}{Stay away from dis place if you value yer life.}
 {131}{}{HEY, ZOMBIES, WE GOT US A PUNCHIN' BAG!}

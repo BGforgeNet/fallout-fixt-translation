@@ -1,8 +1,8 @@
 {100}{}{You see: Zack.}
 {101}{}{You see a Gun Runner.}
 {102}{}{Hi, I'm Zack. You want to buy weapons? Let me see what you have to trade.}
-{103}{}{No.}
-{104}{}{Okay.}
+{103}{}{Nein.}
+{104}{}{OK.}
 {105}{}{Can you give me a discount?}
 {106}{}{You want to buy weapons? Let me see what you have to trade.}
 {107}{}{Sorry to bother you.}
@@ -14,7 +14,7 @@
 {113}{}{Sorry, maybe I could use some equipment after all.}
 {114}{}{What the hell are you doing here then?}
 {115}{}{Nothing.}
-{116}{}{Sure.}
+{116}{}{Sicher.}
 {117}{}{Yeah, well until Gabriel says so, you've gotta pay full price like everybody else.}
 {118}{}{I don't know about that.}
 {119}{}{Show me what you have anyway.}

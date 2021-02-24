@@ -22,7 +22,7 @@
 {121}{}{Again? What a fool Decker is. Well... I guess he's not as big a fool as the guys he hires for these jobs. See here, check out my gun.}
 {122}{}{(He shows you the side of his gun where 5 deep scratch marks are visible.)}
 {123}{}{Each one of these marks is for a past attempt on Hightower's life. I bagged each and every one of them. Tell me about this fool Decker hired... do you know what they look like?}
-{124}{}{No.}
+{124}{}{Nein.}
 {125}{}{It's me, you idiot!}
 {126}{}{Hey! Wow! You've got scratch marks on your gun! You're coooooool!}
 {127}{}{Thank you for the advance warning, but Mr. Hightower doesn't like strangers hangin' around. I'm going to have to ask you to leave.}

@@ -9,7 +9,7 @@
 {108}{}{Good to meet you. Bye.}
 {109}{}{No, no, not at all. He's a good guy. [jokingly] Besides, I wouldn't bad mouth him while he is standing next to me.}
 {110}{}{So, what is it that you do for Maxson as his assistant.}
-{111}{}{Goodbye.}
+{111}{}{Wiedersehn.}
 {112}{}{I take care of all the paper work. He could not do paper work to save his life. Also, if he clears a weapons upgrade for one of the Brothers, I process the order.}
 {113}{}{Okay, thanks for the information.}
 {114}{}{I can't believe an idiot like you is the one who made the Ancient Order run. Go figure.}

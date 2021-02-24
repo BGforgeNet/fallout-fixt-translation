@@ -4,6 +4,6 @@
 {103}{}{Did you want to return to the Hub? I'll pay you another 400 caps.}
 {104}{}{Did you want to return to the Hub? I'll pay you another 600 caps.}
 {105}{}{Did you want to return to the Hub? I'll pay you another 200 caps.}
-{106}{}{Yes.}
-{107}{}{No.}
+{106}{}{Ja.}
+{107}{}{Nein.}
 {108}{}{Ug.}

@@ -12,7 +12,7 @@
 {111}{}{You see: Susan.}
 {112}{}{Hello, }
 {113}{}{. Have you found the Water Chip yet?}
-{114}{}{No, not yet.}
+{114}{}{Nein, noch nicht.}
 {115}{}{I will. How are you doing?}
 {116}{}{Urug!}
 {117}{}{Oh... you don't understand me. I guess we really don't have much hope after all. Excuse me while I cry.}

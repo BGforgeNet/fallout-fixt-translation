@@ -30,7 +30,7 @@
 {129}{}{Pass.}
 {130}{DECK_10}{I must confess feeling a bit... disappointed in you. But these things happen. You will remember this is confidential. Good day.}
 {131}{DECK_11}{It's standard pay. 500 caps to start, another 2500 when the job is done. Will you do it?}
-{132}{}{No, thanks.}
+{132}{}{Nein, danke.}
 {133}{}{Yeah, I'll do it.}
 {134}{DECK_12}{Very nice. The merchant lives in the Heights, on Barter Street and Thunder Avenue. Your initial pay will be handed to you on your way out.}
 {135}{DECK_13}{Everything is my business in the Hub. Either tell me, or you may leave.}
@@ -67,7 +67,7 @@
 {166}{}{You're a cranky guy.}
 {167}{DECK_25}{Someone appears to be stealing whole caravans from the Far Go Traders. And the Thieves' Circle is causing their normal minor difficulties.}
 {168}{}{}
-{169}{}{Sure.}
+{169}{}{Sicher.}
 {170}{}{No way in hell!}
 {171}{DECK_27}{Excellent. You see, the last job I gave you was a test and you did exceedingly well. Now comes a job of importance.}
 {172}{}{Which is?}
@@ -78,13 +78,13 @@
 {177}{}{Absolutely.}
 {178}{}{But that would be immoral!}
 {179}{DECK_30}{I believe I'm beginning to like you. The pay is 1000 up front and 4000 upon completion. And trust me, I'll know when it's done.}
-{180}{}{Okay.}
+{180}{}{OK.}
 {181}{DECK_31}{Talk to Kane on your way out. He'll provide you with details.}
 {182}{DECK_32}{And killing the merchant wasn't?}
 {183}{}{Well, all right, I'll do it.}
 {184}{}{I don't care. I won't do it.}
 {185}{DECK_33}{The pay is 1000 in advance and 4000 upon... execution. And trust me, I'll know when it's over.}
-{186}{}{Okay.}
+{186}{}{OK.}
 {187}{}{}
 {188}{DECK_35}{What a pity. Are you certain you won't even hear what the job is?}
 {189}{}{Yep, I'm not gonna do it.}

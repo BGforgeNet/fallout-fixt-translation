@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-02-24 14:12+0000\n"
+"PO-Revision-Date: 2021-02-25 14:12+0000\n"
 "Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -25931,7 +25931,7 @@ msgstr ""
 #: data/text/english/dialog/michelle.msg:111
 #: data/text/english/dialog/rd1scrb1.msg:102
 msgid "What are you doing here?"
-msgstr ""
+msgstr "Was machst du hier?"
 
 #: data/text/english/dialog/democryp.msg:114
 msgid "Scrapheap belongs to us."
@@ -27743,7 +27743,7 @@ msgstr ""
 #: data/text/english/dialog/gengrdb.msg:103
 #: data/text/english/dialog/jason.msg:138
 msgid "Leave me alone!"
-msgstr "Lass mich in Ruh!"
+msgstr "Lass mich in Ruhe!"
 
 #: data/text/english/dialog/enemy.msg:103
 msgid "Someone should do something about you."

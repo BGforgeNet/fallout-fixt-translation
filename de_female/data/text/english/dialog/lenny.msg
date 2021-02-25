@@ -4,7 +4,7 @@
 {103}{}{[done]}
 {104}{}{You hurt one of my friends! We'll make you pay for that! Get 'em, girls!}
 {105}{}{Uh, hi.}
-{106}{}{What are you doing here?}
+{106}{}{Was machst du hier?}
 {107}{}{What are these animals?}
 {108}{}{How come these animals stink so much?}
 {109}{}{They do? I hadn't noticed. I guess I've been hanging around them for so long, it doesn't bother me. They're my friends.}

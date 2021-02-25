@@ -1,5 +1,5 @@
 {100}{}{You see: Heather, of the Followers' scouts.}
-{101}{}{What are you doing here?}
+{101}{}{Was machst du hier?}
 {102}{}{Dis!}
 {103}{}{Go bye.}
 {104}{}{I'm just looking around.}

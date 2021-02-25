@@ -36,12 +36,12 @@
 {135}{}{What do you want to know about?}
 {136}{}{Not really.}
 {137}{}{Well, if you do anything interesting, tell me all about it!}
-{138}{}{Lass mich in Ruh!}
+{138}{}{Lass mich in Ruhe!}
 {139}{}{Thank goodness you're here! Please help me get out of here!}
 {140}{}{Ayuh.}
 {141}{}{Don't worry, I'll get us out of here.}
 {142}{}{Sorry kid, you're on your own!}
-{143}{}{What are you doing here?}
+{143}{}{Was machst du hier?}
 {144}{}{Thank you!}
 {145}{}{Please don't leave me!}
 {146}{}{I thought that it would be fun to leave Adytum and explore the world. But the Rippers caught me and have been holding me here. Please, help me!}

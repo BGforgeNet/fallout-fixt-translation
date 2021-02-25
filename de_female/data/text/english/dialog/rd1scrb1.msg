@@ -1,6 +1,6 @@
 {100}{}{You see a Knight.}
 {101}{}{You see a Scribe.}
-{102}{}{What are you doing here?}
+{102}{}{Was machst du hier?}
 {103}{}{Wer bist du?}
 {104}{}{Haven't I seen you before?}
 {105}{}{This is my room, please leave.}

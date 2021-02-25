@@ -11,7 +11,7 @@
 {110}{}{Get out, before we throw you out.}
 {111}{}{If you start any trouble, the whole Crypt will come down on you.}
 {112}{}{You made the wrong choice. Now you gonna be buried.}
-{113}{}{What are you doing here?}
+{113}{}{Was machst du hier?}
 {114}{}{Scrapheap belongs to us.}
 {115}{}{In Scrapheap, if you ain't with us, you're either a loser or a Fool. What are you?}
 {116}{}{You talking to me? Are you talking to me?}

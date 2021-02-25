@@ -1,7 +1,7 @@
 {100}{}{You see a burly bounty hunter with a button that reads, "I'm Christopher and you're meat."}
 {101}{}{What do you want?}
 {102}{}{A doughnut.}
-{103}{}{What are you doing here?}
+{103}{}{Was machst du hier?}
 {104}{}{Schau mich nur 'n bisschen um.}
 {105}{}{Nothing.}
 {106}{}{We don't appreciate wise guys here. Buzz off.}

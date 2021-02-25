@@ -10,7 +10,7 @@
 {109}{}{Well, you'll just have to be my punching bag then.}
 {110}{}{You gots some mental problems to work out. Set's not gonna let some loser like you take 'im down. He's got the guards and he's got the guns.}
 {111}{}{How many guards?}
-{112}{}{What are you doing here?}
+{112}{}{Was machst du hier?}
 {113}{}{Set keeps at least two guards around him at all times, but he can call on more then ten if he needs it. And when he's in his throne room, those ten guards are seconds away.}
 {114}{}{So what are you doing here?}
 {115}{}{I ain't telling ya' that. Whadda ya' think I am, stupid? Now git...}

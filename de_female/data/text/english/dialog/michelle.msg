@@ -9,7 +9,7 @@
 {108}{}{You think that might be Twitch.}
 {109}{}{You think that might be Hammer.}
 {110}{}{You think that might be Razor.}
-{111}{}{What are you doing here?}
+{111}{}{Was machst du hier?}
 {112}{}{Hhrrrnnn.}
 {113}{}{Nothing. Honest.}
 {114}{}{I'm just looking around.}

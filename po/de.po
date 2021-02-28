@@ -108,7 +108,8 @@ msgstr "Im Jahr 2077 kam erneut der Sturm des Krieges auf."
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:2300 data/text/english/cuts/narrate.txt:12
 msgid "In two brief hours, most of the planet was reduced to cinders."
-msgstr "In zwei kurzen Stunden wurde fast der gesamte Planet zu Asche gemacht."
+msgstr ""
+"In zwei kurzen Stunden wurde fast der gesamte Planet zu Asche gemacht."
 
 #: data/text/english/cuts/intro.sve:2370
 msgid "And from the ashes of nuclear devastation,"
@@ -4772,8 +4773,8 @@ msgid ""
 "Your twisted and ruined body goes down in a hail of bullets, and thus ends "
 "your life in the wasteland."
 msgstr ""
-"Dein verrenkter und zerstörter Körper geht in einem Kugelhagel zu Boden, und "
-"so endet dein Leben im Ödland."
+"Dein verrenkter und zerstörter Körper geht in einem Kugelhagel zu Boden, und"
+" so endet dein Leben im Ödland."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:1
@@ -4799,8 +4800,8 @@ msgstr ""
 msgid ""
 "You personally made the final kill when you took the life of the Overseer."
 msgstr ""
-"Du selbst hast die letzte Tötung durchgeführt, als du dem Aufseher das Leben "
-"nahmst."
+"Du selbst hast die letzte Tötung durchgeführt, als du dem Aufseher das Leben"
+" nahmst."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:5
@@ -4847,8 +4848,8 @@ msgid ""
 "that neutralizes the mutant threat."
 msgstr ""
 "Der Tod des Meisters war der erste Schritt, seine Pläne von Eroberung und "
-"erzwungenem Frieden zu stoppen, aber erst die Zerstörung der Container bannt "
-"die Gefahr durch die Mutanten."
+"erzwungenem Frieden zu stoppen, aber erst die Zerstörung der Container bannt"
+" die Gefahr durch die Mutanten."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_11.txt:2
@@ -4866,8 +4867,8 @@ msgid ""
 "The ghouls of Necropolis learn firsthand the final meaning of dehydration, "
 "as their city succumbs to the desert sands and the water runs out."
 msgstr ""
-"Die Ghuls von Necropolis erfahren am eigenen Leib, was Austrocknen bedeutet, "
-"da ihre Stadt der Wüste zum Opfer fällt und das Wasser ausgeht."
+"Die Ghuls von Necropolis erfahren am eigenen Leib, was Austrocknen bedeutet,"
+" da ihre Stadt der Wüste zum Opfer fällt und das Wasser ausgeht."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_12.txt:2
@@ -4924,8 +4925,8 @@ msgid ""
 "The mutant armies, led into battle by the fierce Super Mutants, destroy the "
 "Followers of the Apocalypse."
 msgstr ""
-"Unter der Führung der wilden Supermutanten vernichten die Mutantenarmeen die "
-"Followers of the Apocalypse."
+"Unter der Führung der wilden Supermutanten vernichten die Mutantenarmeen die"
+" Followers of the Apocalypse."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_18.txt:2
@@ -4960,8 +4961,8 @@ msgid ""
 "his untimely death at the hands of a Desert Raider."
 msgstr ""
 "Aradesh trauert um seine ermordete Tochter Tandi, doch schließlich macht er "
-"aus Shady Sands eine angesehene Gemeinschaft, die jahrelang erfolgreich ist, "
-"bis er vorzeitig durch die Hand eines Desert Raiders den Tod findet."
+"aus Shady Sands eine angesehene Gemeinschaft, die jahrelang erfolgreich ist,"
+" bis er vorzeitig durch die Hand eines Desert Raiders den Tod findet."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_21.txt:1
@@ -5054,8 +5055,8 @@ msgstr ""
 msgid ""
 "The mutants are slowed, but not stopped, by the brave defenders of Junktown."
 msgstr ""
-"Die tapferen Männer von Junktown halten die Mutanten kurzfristig auf, können "
-"sie aber nicht stoppen."
+"Die tapferen Männer von Junktown halten die Mutanten kurzfristig auf, können"
+" sie aber nicht stoppen."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_27.txt:2
@@ -5163,7 +5164,8 @@ msgstr ""
 msgid ""
 "Thanks to your persistence, the Raiders are destroyed as an effective "
 "fighting force, and disband."
-msgstr "Dank deiner Ausdauer werden die Raider zerschlagen und lösen sich auf."
+msgstr ""
+"Dank deiner Ausdauer werden die Raider zerschlagen und lösen sich auf."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_35.txt:2
@@ -5183,7 +5185,8 @@ msgstr ""
 #: data/text/english/cuts/nar_37.txt:1
 msgid ""
 "The Desert Raiders pillage most of the northern parts of New California."
-msgstr "Die Desert Raider plündern große Teile des Nordens von New California."
+msgstr ""
+"Die Desert Raider plündern große Teile des Nordens von New California."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_37.txt:2
@@ -34665,8 +34668,8 @@ msgid ""
 "Now don't go telling me you're \"just looking for your keys.\" Get outta "
 "here!"
 msgstr ""
-"Jetzt erzähl mir nicht, du \"suchst nur deine Schlüssel\". Mach dass du hier "
-"raus kommst!"
+"Jetzt erzähl mir nicht, du \"suchst nur deine Schlüssel\". Mach dass du hier"
+" raus kommst!"
 
 #: data/text/english/dialog/generic.msg:3329
 msgid "Whatever you're looking for, it ain't there. Understand?"
@@ -101161,7 +101164,8 @@ msgstr "und bringt das kleine Kind aus dem Gleichgewicht"
 
 #: data/text/english/game/combat.msg:5207
 msgid ", breaking that arm with a loud snap. Some serious tears start to flow"
-msgstr "und bricht den Arm mit einem lauten Knacken. Tränen fließen in Strömen"
+msgstr ""
+"und bricht den Arm mit einem lauten Knacken. Tränen fließen in Strömen"
 
 #: data/text/english/game/combat.msg:5208
 msgid ", easily snapping that arm like a small piece of candy"
@@ -101480,11 +101484,13 @@ msgstr "und verwundet und blendet das mutierte Wesen"
 
 #: data/text/english/game/combat.msg:5611
 msgid ", penetrating almost to the brain. Talk about squashing a bug"
-msgstr "und dringt fast bis ins Hirn vor. Als würde man Ungeziefer zerquetschen"
+msgstr ""
+"und dringt fast bis ins Hirn vor. Als würde man Ungeziefer zerquetschen"
 
 #: data/text/english/game/combat.msg:5612
 msgid ", almost penetrating to the brain, but blinding the creature instead"
-msgstr "und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden"
+msgstr ""
+"und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden"
 
 #: data/text/english/game/combat.msg:5613
 msgid ""
@@ -101665,7 +101671,8 @@ msgstr ""
 #: data/text/english/game/combat.msg:6002
 msgid ", hitting a critical component and forcing the robot out of control"
 msgstr ""
-", trifft ein kritisches Bauteil und lässt den Roboter die Kontrolle verlieren"
+", trifft ein kritisches Bauteil und lässt den Roboter die Kontrolle "
+"verlieren"
 
 #: data/text/english/game/combat.msg:6003
 msgid ", hitting a critical component and causing a massive malfunction"
@@ -101910,8 +101917,8 @@ msgid ""
 ", melting through your armor. The blow knocks you over and seriously hurts "
 "your knee"
 msgstr ""
-"und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein "
-"Knie schwer"
+"und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein"
+" Knie schwer"
 
 #: data/text/english/game/combat.msg:6517
 msgid ". The pain from your broken leg causes you to pass out"
@@ -112586,7 +112593,8 @@ msgstr ""
 
 #: data/text/english/game/item.msg:4
 msgid "You suffer a fatal heart attack from drug overdose."
-msgstr "Du erleidest einen tödlichen Herzanfall aufgrund einer Drogenüberdosis."
+msgstr ""
+"Du erleidest einen tödlichen Herzanfall aufgrund einer Drogenüberdosis."
 
 #: data/text/english/game/item.msg:5
 msgid "%s has no charges left."
@@ -118616,8 +118624,8 @@ msgid ""
 "A briefcase, with a Made-in-the-USA label. Leather. Good condition, but the "
 "combination lock is broken."
 msgstr ""
-"Eine Aktentasche aus Leder mit einem Etikett \"Made in USA\". Guter Zustand, "
-"aber das Zahlenschloss ist kaputt."
+"Eine Aktentasche aus Leder mit einem Etikett \"Made in USA\". Guter Zustand,"
+" aber das Zahlenschloss ist kaputt."
 
 #: data/text/english/game/pro_item.msg:7300
 msgid "Big Book of Science"
@@ -120542,7 +120550,8 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:6101
 msgid ""
 "It's a table. Before tables, people had to keep their stuff on the floor."
-msgstr "Ein Tisch. Bevor es Tische gab, musste man seinen Kram am Boden lagern."
+msgstr ""
+"Ein Tisch. Bevor es Tische gab, musste man seinen Kram am Boden lagern."
 
 #: data/text/english/game/pro_scen.msg:6201
 msgid "It's definitely a table."
@@ -120670,7 +120679,8 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:7501
 msgid "You keep a close eye on these rocks, in case they move to attack you."
-msgstr "Du lässt die Felsen nicht aus dem Auge, damit sie dich nicht angreifen."
+msgstr ""
+"Du lässt die Felsen nicht aus dem Auge, damit sie dich nicht angreifen."
 
 #: data/text/english/game/pro_scen.msg:7600
 msgid "Car Wall Floor"
@@ -122441,7 +122451,8 @@ msgstr ""
 
 #: data/text/english/game/pro_scen.msg:26401
 msgid "A wooden pew that has succumbed to the effects of age and abuse."
-msgstr "Eine hölzerne Kirchenbank, die vor Alter und Missbrauch zusammenbricht."
+msgstr ""
+"Eine hölzerne Kirchenbank, die vor Alter und Missbrauch zusammenbricht."
 
 #: data/text/english/game/pro_scen.msg:26500
 #: data/text/english/game/pro_scen.msg:26600
@@ -122616,8 +122627,8 @@ msgid ""
 "This sign should mark what street it is on, but the letters have faded into "
 "obscurity."
 msgstr ""
-"Dieses Schild sollte angeben, wie die Straße heißt, doch die Buchstaben sind "
-"völlig verblasst."
+"Dieses Schild sollte angeben, wie die Straße heißt, doch die Buchstaben sind"
+" völlig verblasst."
 
 #: data/text/english/game/pro_scen.msg:30001
 #: data/text/english/game/pro_scen.msg:30101
@@ -123282,8 +123293,8 @@ msgid ""
 "This door leads to the elevator car. If you want to use the elevator, you "
 "must first open this door."
 msgstr ""
-"Diese Tür führt zur Aufzugskabine. Wenn du den Aufzug benutzen willst, musst "
-"du erst diese Tür öffnen."
+"Diese Tür führt zur Aufzugskabine. Wenn du den Aufzug benutzen willst, musst"
+" du erst diese Tür öffnen."
 
 #: data/text/english/game/pro_scen.msg:42201
 msgid "A metal pipe. Further details are not important."

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-02-25 14:12+0000\n"
+"PO-Revision-Date: 2021-03-02 14:12+0000\n"
 "Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -5586,7 +5586,7 @@ msgstr ""
 
 #: data/text/english/dialog/abel.msg:989
 msgid "What that?"
-msgstr ""
+msgstr "Was ist das?"
 
 #: data/text/english/dialog/adytownr.msg:100
 msgid "You see an inhabitant of Adytum."
@@ -5655,7 +5655,7 @@ msgstr ""
 #: data/text/english/dialog/adytownr.msg:115
 #: data/text/english/dialog/heather.msg:143
 msgid "Thank you for your help."
-msgstr ""
+msgstr "Danke für die Hilfe."
 
 #: data/text/english/dialog/adytownr.msg:116
 msgid "Thank you for getting rid of the Regulators."
@@ -5823,7 +5823,7 @@ msgstr ""
 #: data/text/english/dialog/spectatr.msg:115
 #: data/text/english/dialog/tylier.msg:112
 msgid "Thank you."
-msgstr ""
+msgstr "Danke."
 
 #: data/text/english/dialog/agatha.msg:116
 msgid ""
@@ -6291,7 +6291,7 @@ msgstr ""
 #: data/text/english/dialog/rd1scrb1.msg:113
 #: data/text/english/dialog/rd1scrb1.msg:201
 msgid "Hello."
-msgstr ""
+msgstr "Hallo."
 
 #: data/text/english/dialog/alan.msg:105
 msgid "Hey, greetings and good day to you, miss. What's up?"
@@ -6322,7 +6322,7 @@ msgstr ""
 #: data/text/english/dialog/pez.msg:126
 #: data/text/english/dialog/rd1scrb1.msg:200
 msgid "Hi."
-msgstr ""
+msgstr "Hey."
 
 #: data/text/english/dialog/alan.msg:108
 msgid "I've met a few of the Followers. What exactly do you do?"
@@ -6377,7 +6377,7 @@ msgstr ""
 #: data/text/english/dialog/alan.msg:119
 #: data/text/english/dialog/hunter.msg:122
 msgid "What else do you want to know?"
-msgstr ""
+msgstr "Was willst du sonst noch wissen?"
 
 #: data/text/english/dialog/alan.msg:120
 msgid "Have you had any contact with the Children of the Cathedral?"
@@ -6518,7 +6518,7 @@ msgstr ""
 
 #: data/text/english/dialog/alldogs.msg:101
 msgid "You see a dog."
-msgstr ""
+msgstr "Du siehst einen Hund."
 
 #: data/text/english/dialog/alldogs.msg:102
 #: data/text/english/dialog/hhookera.msg:401
@@ -6996,7 +6996,7 @@ msgstr ""
 #: data/text/english/dialog/gretch.msg:113
 #: data/text/english/dialog/jerem.msg:104
 msgid "What are you doing?"
-msgstr ""
+msgstr "Was machst du?"
 
 #: data/text/english/dialog/andrew.msg:106
 #: data/text/english/dialog/barter.msg:106
@@ -7340,7 +7340,7 @@ msgstr ""
 #: data/text/english/dialog/zark.msg:173 data/text/english/dialog/zark.msg:195
 #: data/text/english/dialog/zark.msg:234 data/text/english/dialog/zark.msg:262
 msgid "What's going on around here?"
-msgstr ""
+msgstr "Was ist hier los?"
 
 #: data/text/english/dialog/aradesh.msg:151
 #: data/text/english/dialog/aradesh.msg:167
@@ -7493,7 +7493,7 @@ msgstr ""
 #: data/text/english/dialog/neal.msg:135
 #: data/text/english/dialog/razlo.msg:157
 msgid "Anything else?"
-msgstr ""
+msgstr "Noch irgendwas?"
 
 #: data/text/english/dialog/aradesh.msg:180
 msgctxt "Ara_24a"
@@ -7561,7 +7561,7 @@ msgstr ""
 #: data/text/english/dialog/aradesh.msg:197
 #: data/text/english/dialog/romero.msg:138
 msgid "Go on."
-msgstr ""
+msgstr "Mach weiter."
 
 #: data/text/english/dialog/aradesh.msg:198
 msgctxt "Ara_28a"
@@ -7706,7 +7706,7 @@ msgstr ""
 #: data/text/english/dialog/harold.msg:221
 #: data/text/english/dialog/over.msg:177 data/text/english/dialog/set.msg:275
 msgid "Uhh?"
-msgstr ""
+msgstr "Häh?"
 
 #: data/text/english/dialog/aradesh.msg:231
 msgctxt "Ara_39a"
@@ -7827,7 +7827,7 @@ msgstr ""
 #: data/text/english/dialog/zax.msg:197 data/text/english/dialog/zax.msg:202
 #: data/text/english/dialog/zax.msg:207
 msgid "Thanks."
-msgstr ""
+msgstr "Danke."
 
 #: data/text/english/dialog/aradesh.msg:245
 msgctxt "Ara_44"
@@ -8387,7 +8387,7 @@ msgstr ""
 #: data/text/english/dialog/rdfalcon.msg:106
 #: data/text/english/dialog/viola.msg:100
 msgid "You see a woman."
-msgstr ""
+msgstr "Du siehst eine Frau."
 
 #: data/text/english/dialog/baka.msg:102
 msgid ""
@@ -8576,7 +8576,7 @@ msgstr ""
 #: data/text/english/dialog/medic.msg:124
 #: data/text/english/dialog/vree.msg:125 data/text/english/dialog/vree.msg:136
 msgid "Thanks!"
-msgstr ""
+msgstr "Danke auch!"
 
 #: data/text/english/dialog/baka.msg:139
 msgid ""
@@ -8778,7 +8778,7 @@ msgstr ""
 #: data/text/english/dialog/viola.msg:298
 #: data/text/english/dialog/zark.msg:276 data/text/english/game/proto.msg:650
 msgid "[Done]"
-msgstr ""
+msgstr "[Fertig]"
 
 #: data/text/english/dialog/baka.msg:165
 #: data/text/english/dialog/junkdemo.msg:111
@@ -8965,7 +8965,7 @@ msgstr ""
 #: data/text/english/dialog/tycho.msg:135
 #: data/text/english/dialog/vasquez.msg:102
 msgid "What do you want?"
-msgstr ""
+msgstr "Was willst du?"
 
 #: data/text/english/dialog/barracus.msg:114
 msgid "You talk too much."
@@ -9902,7 +9902,7 @@ msgstr ""
 #: data/text/english/dialog/rutger.msg:270
 #: data/text/english/dialog/zark.msg:249
 msgid "Nope."
-msgstr ""
+msgstr "Nö."
 
 #: data/text/english/dialog/barter.msg:104
 msgid ""
@@ -9941,7 +9941,7 @@ msgstr ""
 
 #: data/text/english/dialog/barter.msg:112
 msgid "You see a merchant."
-msgstr ""
+msgstr "Du siehst einen Händler."
 
 #: data/text/english/dialog/barter.msg:113
 msgid "I'm not going to talk to you unless you holster that weapon, stranger."
@@ -10075,7 +10075,7 @@ msgstr ""
 #: data/text/english/dialog/hgengrd.msg:100
 #: data/text/english/dialog/moatgrd.msg:100
 msgid "You see a guard."
-msgstr ""
+msgstr "Du siehst eine Wache."
 
 #: data/text/english/dialog/bguard.msg:101
 #: data/text/english/dialog/bguard.msg:107
@@ -10280,7 +10280,7 @@ msgstr ""
 #: data/text/english/dialog/hbillie.msg:132
 #: data/text/english/dialog/psychic.msg:304
 msgid "Stop that!"
-msgstr ""
+msgstr "Hör auf damit!"
 
 #: data/text/english/dialog/billy.msg:132
 #: data/text/english/dialog/hbillie.msg:133
@@ -10383,7 +10383,7 @@ msgstr ""
 #: data/text/english/dialog/hbillie.msg:149
 #: data/text/english/dialog/jennifer.msg:153
 msgid "Yeah, right."
-msgstr ""
+msgstr "Ja, genau."
 
 #: data/text/english/dialog/billy.msg:149
 #: data/text/english/dialog/hbillie.msg:150
@@ -10434,7 +10434,7 @@ msgstr ""
 #: data/text/english/dialog/hbillie.msg:159
 #: data/text/english/dialog/kane.msg:342 data/text/english/dialog/kane.msg:410
 msgid "Hi!"
-msgstr ""
+msgstr "Hi!"
 
 #: data/text/english/dialog/billy.msg:159
 #: data/text/english/dialog/billy.msg:173
@@ -10491,7 +10491,7 @@ msgstr ""
 #: data/text/english/dialog/mstmerch.msg:127
 #: data/text/english/dialog/saul.msg:181
 msgid "Hello again."
-msgstr ""
+msgstr "Hallo nochmal."
 
 #: data/text/english/dialog/billy.msg:167
 #: data/text/english/dialog/hbillie.msg:168
@@ -10514,7 +10514,7 @@ msgstr ""
 #: data/text/english/dialog/billy.msg:177
 #: data/text/english/dialog/hbillie.msg:178
 msgid "I can't talk right now."
-msgstr ""
+msgstr "Ich kann gerade nicht sprechen."
 
 #: data/text/english/dialog/billy.msg:178
 #: data/text/english/dialog/hbillie.msg:179
@@ -11167,7 +11167,7 @@ msgstr ""
 
 #: data/text/english/dialog/bitsbob.msg:241
 msgid "Me go now."
-msgstr ""
+msgstr "Ich gehen jetzt."
 
 #: data/text/english/dialog/bitsbob.msg:242
 msgid "I don't have that kind of money. I'm barely making ends meet as it is."
@@ -11251,7 +11251,7 @@ msgstr ""
 #: data/text/english/dialog/jennifer.msg:222
 #: data/text/english/dialog/rd1scrb1.msg:209
 msgid "Go away."
-msgstr ""
+msgstr "Hau ab."
 
 #: data/text/english/dialog/blade.msg:103
 #: data/text/english/dialog/hbeth.msg:370
@@ -11260,7 +11260,7 @@ msgstr ""
 #: data/text/english/dialog/officer.msg:121
 #: data/text/english/game/combatai.msg:8504
 msgid "Have a nice day."
-msgstr ""
+msgstr "Hab einen schönen Tag."
 
 #: data/text/english/dialog/blade.msg:104
 #: data/text/english/dialog/inblade.msg:104
@@ -11286,7 +11286,7 @@ msgstr "Muss gehen."
 #: data/text/english/dialog/carvlead.msg:140
 #: data/text/english/dialog/inblade.msg:110
 msgid "See ya."
-msgstr ""
+msgstr "Man sieht sich."
 
 #: data/text/english/dialog/blade.msg:111
 #: data/text/english/dialog/citizen.msg:114
@@ -11413,7 +11413,7 @@ msgstr ""
 #: data/text/english/dialog/wmcarvn.msg:172
 #: data/text/english/dialog/zack.msg:115
 msgid "Nothing."
-msgstr ""
+msgstr "Nichts."
 
 #: data/text/english/dialog/bob.msg:138
 msgid ""
@@ -11856,7 +11856,7 @@ msgstr ""
 #: data/text/english/dialog/rutger.msg:274
 #: data/text/english/dialog/zax.msg:192
 msgid "Never mind."
-msgstr ""
+msgstr "Macht nichts."
 
 #: data/text/english/dialog/boslorri.msg:133
 msgid "That's easy to do, but there's a long recovery time. It only costs "
@@ -11882,7 +11882,7 @@ msgstr ""
 #: data/text/english/dialog/tolya.msg:102
 #: data/text/english/dialog/tycho.msg:128
 msgid "I'm "
-msgstr ""
+msgstr "Ich bin "
 
 #: data/text/english/dialog/boslorri.msg:135
 msgid "I'll do it!"
@@ -11999,7 +11999,7 @@ msgstr ""
 #: data/text/english/dialog/wtrthief.msg:108
 #: data/text/english/game/proto.msg:545
 msgid "."
-msgstr ""
+msgstr "."
 
 #: data/text/english/dialog/boslorri.msg:153
 msgid "Did you want to ask about another one?"
@@ -12989,7 +12989,7 @@ msgstr ""
 
 #: data/text/english/dialog/butch.msg:174
 msgid "No reason."
-msgstr ""
+msgstr "Keine Ursache."
 
 #: data/text/english/dialog/butch.msg:175
 msgid "Never mind. I have some more questions."
@@ -13817,7 +13817,7 @@ msgstr ""
 
 #: data/text/english/dialog/butch.msg:327
 msgid "What was I supposed to do again?"
-msgstr ""
+msgstr "Was sollte ich nochmal machen?"
 
 #: data/text/english/dialog/butch.msg:328
 msgid "Get the hell out of here!"
@@ -14161,7 +14161,7 @@ msgstr ""
 #: data/text/english/dialog/vree.msg:1005
 #: data/text/english/game/scrname.msg:143
 msgid "Elder"
-msgstr ""
+msgstr "Älteste"
 
 #: data/text/english/dialog/butch.msg:1025
 #: data/text/english/dialog/loxley.msg:1018
@@ -14703,7 +14703,7 @@ msgstr ""
 
 #: data/text/english/dialog/bychris.msg:104
 msgid "Who's in charge around here?"
-msgstr ""
+msgstr "Wer hat hier das Sagen?"
 
 #: data/text/english/dialog/bychris.msg:105
 msgid "Can you tell me a little bit about the area?"
@@ -14964,7 +14964,7 @@ msgstr ""
 #: data/text/english/dialog/tandi.msg:111
 #: data/text/english/dialog/vree.msg:105
 msgid "Uhhh?"
-msgstr ""
+msgstr "Hääh?"
 
 #: data/text/english/dialog/cabbot.msg:105
 #: data/text/english/dialog/cabbot.msg:111
@@ -17226,7 +17226,7 @@ msgstr ""
 #: data/text/english/dialog/kane.msg:406
 #: data/text/english/dialog/tycho.msg:2100
 msgid "All right."
-msgstr ""
+msgstr "Also gut."
 
 #: data/text/english/dialog/cargrd.msg:114
 msgid "Are you all right?"
@@ -18485,7 +18485,7 @@ msgstr ""
 #: data/text/english/dialog/chdguard.msg:191
 #: data/text/english/dialog/chdscout.msg:191
 msgid "Die, scum!"
-msgstr ""
+msgstr "Stirb, Abschaum!"
 
 #: data/text/english/dialog/chdguard.msg:192
 #: data/text/english/dialog/chdscout.msg:192
@@ -19503,7 +19503,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:7820
 #: data/text/english/game/combatai.msg:7920
 msgid "Die!"
-msgstr ""
+msgstr "Stirb!"
 
 #: data/text/english/dialog/chidnite.msg:102
 msgid "Leave me or die!"
@@ -19689,7 +19689,7 @@ msgstr ""
 
 #: data/text/english/dialog/child.msg:100
 msgid "You see a small child."
-msgstr ""
+msgstr "Du siehst ein kleines Kind."
 
 #: data/text/english/dialog/child.msg:103
 msgid "Where are your parents?"
@@ -20209,7 +20209,7 @@ msgstr ""
 #: data/text/english/dialog/obj_dude.msg:25116
 #: data/text/english/dialog/obj_dude.msg:25716
 msgid "I don't know anything about that."
-msgstr ""
+msgstr "Darüber weiß ich nichts."
 
 #: data/text/english/dialog/childrn1.msg:100
 #: data/text/english/dialog/childrn1.msg:104
@@ -20324,7 +20324,7 @@ msgstr ""
 #: data/text/english/dialog/loxley.msg:174
 #: data/text/english/dialog/sophia.msg:305
 msgid "What is this place?"
-msgstr ""
+msgstr "Was ist das für ein Ort?"
 
 #: data/text/english/dialog/choctech.msg:113
 msgid ""
@@ -20748,7 +20748,7 @@ msgstr ""
 
 #: data/text/english/dialog/chuck.msg:167
 msgid "Hello. What can I do for you?"
-msgstr ""
+msgstr "Hallo. Was kann ich für dich tun?"
 
 #: data/text/english/dialog/chuck.msg:169
 #: data/text/english/dialog/dugan.msg:102
@@ -20761,7 +20761,7 @@ msgstr ""
 #: data/text/english/dialog/tycho.msg:170
 #: data/text/english/dialog/tycho.msg:2001
 msgid "Yes?"
-msgstr ""
+msgstr "Ja?"
 
 #: data/text/english/dialog/chuck.msg:170
 #: data/text/english/dialog/lars.msg:138
@@ -20865,7 +20865,7 @@ msgstr ""
 #: data/text/english/dialog/harold.msg:200
 #: data/text/english/dialog/ration.msg:127
 msgid "What happened?"
-msgstr ""
+msgstr "Was ist passiert?"
 
 #: data/text/english/dialog/cindy.msg:116
 msgid ""
@@ -20878,7 +20878,7 @@ msgstr ""
 #: data/text/english/dialog/set.msg:166
 #: data/text/english/dialog/ssguide.msg:108
 msgid "Okay. Thanks."
-msgstr ""
+msgstr "OK. Danke."
 
 #: data/text/english/dialog/cindy.msg:118
 msgid ""
@@ -22670,7 +22670,7 @@ msgstr ""
 #: data/text/english/dialog/michael.msg:212
 #: data/text/english/dialog/over.msg:165
 msgid "I don't know."
-msgstr ""
+msgstr "Ich weiß es nicht."
 
 #: data/text/english/dialog/dan.msg:186
 msgid ""
@@ -24674,7 +24674,7 @@ msgstr ""
 #: data/text/english/dialog/tandi.msg:107
 #: data/text/english/dialog/tandi.msg:164
 msgid "My name is "
-msgstr ""
+msgstr "Ich heiße "
 
 #: data/text/english/dialog/decker.msg:138
 msgid "I'm not telling you anything."
@@ -25743,7 +25743,7 @@ msgstr ""
 #: data/text/english/dialog/demetre.msg:228
 #: data/text/english/dialog/set.msg:122
 msgid "Uh, okay."
-msgstr ""
+msgstr "Oh, ok."
 
 #: data/text/english/dialog/demetre.msg:229
 msgid "Well, what are you waiting for? There are caravans to run!"
@@ -26273,7 +26273,7 @@ msgstr ""
 
 #: data/text/english/dialog/demolex.msg:120
 msgid "I have some questions."
-msgstr ""
+msgstr "Ich habe ein paar Fragen."
 
 #: data/text/english/dialog/demolex.msg:121
 msgid ""
@@ -26300,7 +26300,7 @@ msgstr ""
 
 #: data/text/english/dialog/demolex.msg:126
 msgid "Of course."
-msgstr ""
+msgstr "Natürlich."
 
 #: data/text/english/dialog/demolex.msg:127
 msgid "Fix it yourself. I want my reward."
@@ -26359,7 +26359,7 @@ msgstr ""
 #: data/text/english/dialog/demolex.msg:139
 #: data/text/english/dialog/hbeth.msg:382
 msgid "Shut up."
-msgstr ""
+msgstr "Halt's Maul."
 
 #: data/text/english/dialog/demolex.msg:140
 msgid "I thought you would, you worm."
@@ -26378,7 +26378,7 @@ msgstr ""
 #: data/text/english/dialog/rd1alln1.msg:103
 #: data/text/english/dialog/saul.msg:161
 msgid "What can I help you with?"
-msgstr ""
+msgstr "Wie kann ich dir helfen?"
 
 #: data/text/english/dialog/demolex.msg:144
 #: data/text/english/dialog/rayze.msg:106
@@ -26552,7 +26552,7 @@ msgstr ""
 #: data/text/english/dialog/sophia.msg:381
 #: data/text/english/dialog/tylier.msg:107
 msgid "What do you do here?"
-msgstr ""
+msgstr "Was machst du hier?"
 
 #: data/text/english/dialog/diana.msg:106
 #: data/text/english/dialog/diana.msg:115
@@ -26731,7 +26731,7 @@ msgstr ""
 
 #: data/text/english/dialog/doclockr.msg:105
 msgid "You fail to disarm the trap."
-msgstr ""
+msgstr "Du schaffst es nicht, die Falle zu entschärfen."
 
 #: data/text/english/dialog/doclockr.msg:106
 msgid "You accidentally set off the trap!"
@@ -27179,7 +27179,7 @@ msgstr ""
 #: data/text/english/dialog/junkjail.msg:103
 #: data/text/english/dialog/vcondoor.msg:102
 msgid "You unlock the door."
-msgstr ""
+msgstr "Du sperrst die Tür auf."
 
 #: data/text/english/dialog/door.msg:101
 msgid "You broke your lockpicks!"
@@ -27401,7 +27401,7 @@ msgstr ""
 #: data/text/english/dialog/talius.msg:105
 #: data/text/english/dialog/vance.msg:154
 msgid "Me "
-msgstr ""
+msgstr "Ich "
 
 #: data/text/english/dialog/duc.msg:132
 #: data/text/english/game/combatai.msg:1346
@@ -27431,7 +27431,7 @@ msgstr ""
 
 #: data/text/english/dialog/duc.msg:125 data/text/english/dialog/harry.msg:105
 msgid "Uh?"
-msgstr ""
+msgstr "Uh?"
 
 #: data/text/english/dialog/duc.msg:126
 msgid ""
@@ -28180,7 +28180,7 @@ msgstr ""
 #: data/text/english/dialog/farli.msg:101
 #: data/text/english/dialog/rd1rmory.msg:106
 msgid "Greetings."
-msgstr ""
+msgstr "Grüße."
 
 #: data/text/english/dialog/farli.msg:102
 msgid "Chad'ra chu ka?"
@@ -30395,7 +30395,7 @@ msgstr ""
 #: data/text/english/dialog/folguard.msg:171
 #: data/text/english/dialog/folscout.msg:171
 msgid "Thanks. Goodbye."
-msgstr ""
+msgstr "Danke. Auf Wiedersehn."
 
 #: data/text/english/dialog/folguard.msg:172
 #: data/text/english/dialog/folscout.msg:172
@@ -30584,7 +30584,7 @@ msgstr ""
 
 #: data/text/english/dialog/folinvad.msg:108
 msgid "Time to leave."
-msgstr ""
+msgstr "Zeit zu gehen."
 
 #: data/text/english/dialog/folinvad.msg:109
 msgid "This place looks like shit on a wall."
@@ -32071,7 +32071,7 @@ msgstr ""
 
 #: data/text/english/dialog/garl.msg:176
 msgid "I want to join."
-msgstr ""
+msgstr "Ich möchte beitreten."
 
 #: data/text/english/dialog/garl.msg:177
 msgid ""
@@ -32447,7 +32447,7 @@ msgstr ""
 #: data/text/english/dialog/lazrtrap.msg:103
 #: data/text/english/dialog/rndmtn.msg:141
 msgid " points of damage."
-msgstr ""
+msgstr " Trefferpunkte."
 
 #: data/text/english/dialog/gastrap.msg:104
 msgid "You set off a gas trap!"
@@ -32708,7 +32708,7 @@ msgstr ""
 #: data/text/english/dialog/jtraider.msg:167
 #: data/text/english/dialog/vasquez.msg:125
 msgid "Here you go."
-msgstr ""
+msgstr "Bitte schön."
 
 #: data/text/english/dialog/genchat.msg:116
 msgid "You gain "
@@ -34002,7 +34002,7 @@ msgstr ""
 #: data/text/english/dialog/generic.msg:350
 #: data/text/english/dialog/generic.msg:3798
 msgid "[END]"
-msgstr ""
+msgstr "[Ende]"
 
 #: data/text/english/dialog/generic.msg:351
 msgid "[BYE]"
@@ -34013,11 +34013,11 @@ msgstr "[Tschüss]"
 #: data/text/english/dialog/v13comp.msg:160
 #: data/text/english/game/pipboy.msg:200
 msgid "[MORE]"
-msgstr ""
+msgstr "[Mehr]"
 
 #: data/text/english/dialog/generic.msg:353
 msgid "[CONTINUE]"
-msgstr ""
+msgstr "[FORTSETZEN]"
 
 #: data/text/english/dialog/generic.msg:354
 msgid "[COMBAT]"
@@ -35715,7 +35715,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:8509
 #: data/text/english/game/combatai.msg:8512
 msgid "Ugh."
-msgstr ""
+msgstr "Ugh."
 
 #: data/text/english/dialog/genghoul.msg:103
 msgid "Brrrrraaiinsss"
@@ -37511,7 +37511,7 @@ msgstr ""
 #: data/text/english/dialog/ghdorgrd.msg:109
 #: data/text/english/dialog/set.msg:183
 msgid "Right."
-msgstr ""
+msgstr "Okay."
 
 #: data/text/english/dialog/ghdorgrd.msg:110
 msgid "Myuh!"
@@ -41173,7 +41173,7 @@ msgstr ""
 
 #: data/text/english/dialog/gustofer.msg:131
 msgid "Thanks. See you around."
-msgstr ""
+msgstr "Danke, wir sehn uns."
 
 #: data/text/english/dialog/gustofer.msg:132
 msgid ""
@@ -41457,7 +41457,7 @@ msgstr ""
 #: data/text/english/dialog/sinthia.msg:120
 #: data/text/english/dialog/talus.msg:205
 msgid "You're welcome."
-msgstr ""
+msgstr "Gern geschehen."
 
 #: data/text/english/dialog/harold.msg:111
 msgctxt "HROLD3"
@@ -41743,7 +41743,7 @@ msgstr ""
 
 #: data/text/english/dialog/harold.msg:168
 msgid "And then?"
-msgstr ""
+msgstr "Und dann?"
 
 #: data/text/english/dialog/harold.msg:169
 msgctxt "HROLD22"
@@ -41758,7 +41758,7 @@ msgstr ""
 
 #: data/text/english/dialog/harold.msg:171
 msgid "What happened then?"
-msgstr ""
+msgstr "Was ist dann passiert?"
 
 #: data/text/english/dialog/harold.msg:172
 msgctxt "HROLD23"
@@ -41857,7 +41857,7 @@ msgstr ""
 
 #: data/text/english/dialog/harold.msg:194
 msgid "Thanks for the story."
-msgstr ""
+msgstr "Danke für die Geschichte."
 
 #: data/text/english/dialog/harold.msg:195
 msgctxt "HROLD30"
@@ -42080,7 +42080,7 @@ msgstr ""
 
 #: data/text/english/dialog/harold.msg:247
 msgid "I want to talk to you."
-msgstr ""
+msgstr "Ich möchte mit dir reden."
 
 #: data/text/english/dialog/harold.msg:248
 msgid "Here's some cash."
@@ -42206,7 +42206,7 @@ msgstr ""
 #: data/text/english/dialog/theresa.msg:1001
 #: data/text/english/dialog/tycho.msg:1018
 msgid "Vault"
-msgstr ""
+msgstr "Vault"
 
 #: data/text/english/dialog/harold.msg:1008
 #: data/text/english/dialog/vconcomp.msg:129
@@ -42504,7 +42504,7 @@ msgstr ""
 #: data/text/english/dialog/set.msg:159 data/text/english/dialog/set.msg:258
 #: data/text/english/dialog/seth.msg:130
 msgid "Uh-huh."
-msgstr ""
+msgstr "A-ha."
 
 #: data/text/english/dialog/harry.msg:164
 msgctxt "Harry_27"
@@ -43017,7 +43017,7 @@ msgstr ""
 
 #: data/text/english/dialog/hbeth.msg:158
 msgid "I'm sorry to hear that."
-msgstr ""
+msgstr "Tut mir leid, das zu hören."
 
 #: data/text/english/dialog/hbeth.msg:160
 msgid ""
@@ -44381,7 +44381,7 @@ msgstr ""
 #: data/text/english/dialog/moatgrd.msg:103
 #: data/text/english/dialog/morph.msg:120
 msgid "I'm just looking around."
-msgstr ""
+msgstr "Ich schau mich nur um."
 
 #: data/text/english/dialog/heather.msg:105
 msgid "I am here to kill you!"
@@ -45100,7 +45100,7 @@ msgstr ""
 #: data/text/english/dialog/rock.msg:101
 #: data/text/english/dialog/skizzer.msg:101
 msgid "You see a man."
-msgstr ""
+msgstr "Du siehst einen Mann."
 
 #: data/text/english/dialog/hhookera.msg:100
 #: data/text/english/dialog/rdfalcon.msg:100
@@ -46348,7 +46348,7 @@ msgstr ""
 #: data/text/english/dialog/hjustin.msg:124
 #: data/text/english/dialog/justin.msg:124
 msgid "I'm ready."
-msgstr ""
+msgstr "Ich bin bereit."
 
 #: data/text/english/dialog/hjustin.msg:126
 #: data/text/english/dialog/justin.msg:126
@@ -47008,7 +47008,7 @@ msgstr ""
 
 #: data/text/english/dialog/htwrrick.msg:108
 msgid "I go."
-msgstr ""
+msgstr "Ich geh."
 
 #: data/text/english/dialog/htwrrick.msg:109
 msgid "Make it quick; I'm not supposed to be talking on the job."
@@ -47652,7 +47652,7 @@ msgstr ""
 #: data/text/english/dialog/hubjake.msg:153
 #: data/text/english/dialog/vance.msg:129
 msgid "I'm leaving."
-msgstr ""
+msgstr "Ich verschwinde."
 
 #: data/text/english/dialog/hubjake.msg:154
 msgid "What the hell are you doing in here?!"
@@ -48071,7 +48071,7 @@ msgstr ""
 #: data/text/english/dialog/ian.msg:143
 #: data/text/english/dialog/officer.msg:135
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: data/text/english/dialog/ian.msg:144
 msgid "Hmm. Nothing. Never mind, Ian."
@@ -48845,7 +48845,7 @@ msgstr ""
 #: data/text/english/dialog/leader.msg:153
 #: data/text/english/dialog/miles.msg:144
 msgid "Not yet."
-msgstr ""
+msgstr "Noch nicht."
 
 #: data/text/english/dialog/invgrd.msg:206
 msgid "Scouts report that everything is clear."
@@ -52719,7 +52719,7 @@ msgstr ""
 
 #: data/text/english/dialog/junkjail.msg:104
 msgid "You lock the door."
-msgstr ""
+msgstr "Du verriegelst die Tür."
 
 #: data/text/english/dialog/junkjail.msg:105
 msgid "You fail to unlock the door."
@@ -52727,7 +52727,7 @@ msgstr ""
 
 #: data/text/english/dialog/junkjail.msg:106
 msgid "You fail to lock the door."
-msgstr ""
+msgstr "Du konntest die Tür nicht abschließen."
 
 #: data/text/english/dialog/junkjail.msg:107
 msgid "You earn 250 experience for busting out of jail!"
@@ -54193,7 +54193,7 @@ msgstr ""
 
 #: data/text/english/dialog/kane.msg:349
 msgid "Fine."
-msgstr ""
+msgstr "Fein."
 
 #: data/text/english/dialog/kane.msg:350 data/text/english/dialog/kane.msg:401
 msgid "How are the kids?"
@@ -55397,7 +55397,7 @@ msgstr ""
 #: data/text/english/dialog/scsupmut.msg:102
 #: data/text/english/dialog/tguard.msg:111
 msgid "Uh."
-msgstr ""
+msgstr "Oh."
 
 #: data/text/english/dialog/keri.msg:107
 msgid ""
@@ -57029,7 +57029,7 @@ msgstr ""
 
 #: data/text/english/dialog/kyle.msg:121
 msgid "Well, thanks anyway."
-msgstr ""
+msgstr "Naja, trotzdem vielen Dank."
 
 #: data/text/english/dialog/kyle.msg:122
 msgid ""
@@ -57999,7 +57999,7 @@ msgstr ""
 #: data/text/english/dialog/lars.msg:147
 #: data/text/english/dialog/wtrgrd.msg:111
 msgid "I'll see what I can do."
-msgstr ""
+msgstr "Ich werde sehen, was ich tun kann."
 
 #: data/text/english/dialog/lars.msg:148
 msgid "I've got testimony from Sherry, a former gang member."
@@ -59046,7 +59046,7 @@ msgstr ""
 #: data/text/english/dialog/laura.msg:155
 #: data/text/english/dialog/laura.msg:158
 msgid "Then what?"
-msgstr ""
+msgstr "Was dann?"
 
 #: data/text/english/dialog/laura.msg:157
 msgctxt "laura25"
@@ -59306,7 +59306,7 @@ msgstr ""
 
 #: data/text/english/dialog/laura.msg:235
 msgid "I'm on my way."
-msgstr ""
+msgstr "Bin schon unterwegs."
 
 #: data/text/english/dialog/laura.msg:237
 msgctxt "laura46"
@@ -60891,7 +60891,7 @@ msgstr ""
 #: data/text/english/dialog/pez.msg:100
 #: data/text/english/dialog/pleasant.msg:100
 msgid "You see a peasant."
-msgstr ""
+msgstr "Du siehst einen Bauer."
 
 #: data/text/english/dialog/lenore.msg:108
 msgid "You see: Lenore."
@@ -65910,7 +65910,7 @@ msgstr ""
 
 #: data/text/english/dialog/maxson.msg:125
 msgid "I'll do what I can."
-msgstr ""
+msgstr "Ich werde tun, was ich kann."
 
 #: data/text/english/dialog/maxson.msg:126
 msgid "Did he say where to the east?"
@@ -67129,7 +67129,7 @@ msgstr ""
 #: data/text/english/dialog/razlo.msg:143
 #: data/text/english/dialog/wife.msg:101
 msgid "I need healing."
-msgstr ""
+msgstr "Ich brauche Heilung."
 
 #: data/text/english/dialog/medic.msg:115
 msgid "I need some drugs."
@@ -69523,7 +69523,7 @@ msgstr ""
 #: data/text/english/dialog/over.msg:115 data/text/english/dialog/over.msg:125
 #: data/text/english/dialog/over.msg:227
 msgid "Nuh."
-msgstr ""
+msgstr "Nö."
 
 #: data/text/english/dialog/morbid.msg:130
 msgid ""
@@ -71775,7 +71775,7 @@ msgstr ""
 
 #: data/text/english/dialog/neil.msg:162
 msgid "What would you like to know?"
-msgstr ""
+msgstr "Was möchtest du denn wissen?"
 
 #: data/text/english/dialog/neil.msg:163 data/text/english/dialog/neil.msg:174
 #: data/text/english/dialog/neil.msg:179
@@ -73192,11 +73192,11 @@ msgstr ""
 
 #: data/text/english/dialog/obj_dude.msg:970
 msgid "That is my name."
-msgstr ""
+msgstr "Das ist mein Name."
 
 #: data/text/english/dialog/obj_dude.msg:971
 msgid "You are talking to me."
-msgstr ""
+msgstr "Du sprichst mit mir."
 
 #: data/text/english/dialog/obj_dude.msg:972
 msgid "Why do you ask silly questions? I am that person."
@@ -73232,13 +73232,13 @@ msgstr ""
 
 #: data/text/english/dialog/obj_dude.msg:981
 msgid "Sorry. No clue."
-msgstr ""
+msgstr "Tut mir leid. Keine Ahnung."
 
 #: data/text/english/dialog/obj_dude.msg:982
 #: data/text/english/dialog/obj_dude.msg:18108
 #: data/text/english/dialog/obj_dude.msg:27507
 msgid "Never heard of it."
-msgstr ""
+msgstr "Noch nie davon gehört."
 
 #: data/text/english/dialog/obj_dude.msg:984
 msgid "What are you babbling about?"
@@ -75462,7 +75462,7 @@ msgstr ""
 
 #: data/text/english/dialog/over.msg:145 data/text/english/dialog/over.msg:242
 msgid "I understand."
-msgstr ""
+msgstr "Ich verstehe."
 
 #: data/text/english/dialog/over.msg:146
 msgctxt "Over_26"
@@ -75473,7 +75473,7 @@ msgstr ""
 #: data/text/english/dialog/set.msg:153 data/text/english/dialog/set.msg:228
 #: data/text/english/dialog/set.msg:240
 msgid "Got it."
-msgstr ""
+msgstr "Kapiert."
 
 #: data/text/english/dialog/over.msg:149
 msgctxt "Over_27"
@@ -77358,7 +77358,7 @@ msgstr ""
 #: data/text/english/dialog/phrax.msg:114
 #: data/text/english/game/pipboy.msg:214
 msgid "[DONE]"
-msgstr ""
+msgstr "[Fertig]"
 
 #: data/text/english/dialog/phrax.msg:116
 msgid "Phil has more courage than any Fool!"
@@ -77943,7 +77943,7 @@ msgstr ""
 
 #: data/text/english/dialog/rae.msg:137
 msgid "I'll be going now."
-msgstr ""
+msgstr "Ich mach mich dann mal auf den Weg."
 
 #: data/text/english/dialog/rae.msg:138
 msgid "You're right... if only I could clear my head. There's something..."
@@ -78291,7 +78291,7 @@ msgstr ""
 #: data/text/english/dialog/skizzer.msg:105
 #: data/text/english/dialog/skizzer.msg:107
 msgid "Ok."
-msgstr ""
+msgstr "OK."
 
 #: data/text/english/dialog/rayze.msg:117
 msgid "Then little boys should leave before they get a spanking."
@@ -79840,7 +79840,7 @@ msgstr ""
 
 #: data/text/english/dialog/rebel.msg:134
 msgid "Urgh."
-msgstr ""
+msgstr "Aha."
 
 #: data/text/english/dialog/rebel.msg:135
 msgid "Don't you have a job to do? Hurry and find the chip!"
@@ -81019,7 +81019,7 @@ msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:175
 msgid "You encounter a traveler."
-msgstr ""
+msgstr "Du begegnest einem Reisenden."
 
 #: data/text/english/dialog/rnddesrt.msg:171
 msgid "You encounter a dead traveler."
@@ -88507,7 +88507,7 @@ msgstr ""
 #: data/text/english/dialog/sophia.msg:364
 #: data/text/english/dialog/trent.msg:132
 msgid "How can I help you?"
-msgstr ""
+msgstr "Wie kann ich dir helfen?"
 
 #: data/text/english/dialog/sophia.msg:366
 #: data/text/english/dialog/sophia.msg:382
@@ -88571,7 +88571,7 @@ msgstr ""
 
 #: data/text/english/dialog/spectatr.msg:104
 msgid "Ah, I see."
-msgstr ""
+msgstr "Ah, verstehe."
 
 #: data/text/english/dialog/spectatr.msg:105
 msgid "Oh, not a bad move."
@@ -95530,7 +95530,7 @@ msgstr ""
 
 #: data/text/english/dialog/vance.msg:149
 msgid "Alright, alright, I'm leaving."
-msgstr ""
+msgstr "In Ordnung, in Ordnung, ich gehe."
 
 #: data/text/english/dialog/vance.msg:150
 msgid "Don't use it all in one place."
@@ -96467,7 +96467,7 @@ msgstr ""
 
 #: data/text/english/dialog/vinnie.msg:114
 msgid "I see."
-msgstr ""
+msgstr "Ich verstehe."
 
 #: data/text/english/dialog/vinnie.msg:115
 msgid "You have some sort of deal with Killian?"
@@ -99855,7 +99855,7 @@ msgstr ""
 
 #: data/text/english/dialog/zax.msg:155
 msgid "Uh... yeah."
-msgstr ""
+msgstr "Äh...ja."
 
 #: data/text/english/dialog/zax.msg:156
 msgid "Right... can we talk about something else?"
@@ -103518,7 +103518,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:1401
 #: data/text/english/game/combatai.msg:5901
 msgid "Bye!"
-msgstr ""
+msgstr "Wiedersehn!"
 
 #: data/text/english/game/combatai.msg:1403
 msgid "Fuck this"
@@ -110271,7 +110271,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:7129
 #: data/text/english/game/combatai.msg:7229
 msgid "Uh!"
-msgstr ""
+msgstr "Jup!"
 
 #: data/text/english/game/combatai.msg:7032
 #: data/text/english/game/combatai.msg:7035
@@ -112121,7 +112121,7 @@ msgstr ""
 #: data/text/english/game/combatai.msg:8514
 #: data/text/english/game/combatai.msg:8516
 msgid "Ow."
-msgstr ""
+msgstr "Oh."
 
 #: data/text/english/game/combatai.msg:8515
 msgid "Dang it, that's my shootin' hand."
@@ -123749,7 +123749,7 @@ msgstr ""
 #: data/text/english/game/pro_scen.msg:54400
 #: data/text/english/game/pro_scen.msg:54500
 msgid "Bridge"
-msgstr ""
+msgstr "Brücke"
 
 #: data/text/english/game/pro_scen.msg:54401
 #: data/text/english/game/pro_scen.msg:54501

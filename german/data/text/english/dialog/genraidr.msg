@@ -6,7 +6,7 @@
 {105}{}{Aiyeee! A ghost!}
 {106}{}{The dead walk again! The Death-Hand has returned!}
 {107}{}{Well met.}
-{108}{}{Hi.}
+{108}{}{Hey.}
 {109}{}{I'm waiting for Garl to crush Shady Sands. I want some loot.}
 {110}{}{Welcome, friend.}
 {111}{}{I'm glad that you could return for a visit.}
@@ -17,7 +17,7 @@
 {116}{}{So, you think you're tough, huh? Mess with me and we'll both find out.}
 {117}{}{I don't like your look.}
 {118}{}{Go away!}
-{119}{}{What do you want?}
+{119}{}{Was willst du?}
 {120}{}{I'm looking for a woman named Tandi. Seen her?}
 {121}{}{Nothing. Just looking around.}
 {122}{}{Huh?}

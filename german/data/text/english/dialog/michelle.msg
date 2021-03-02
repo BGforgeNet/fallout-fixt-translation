@@ -12,7 +12,7 @@
 {111}{}{Was machst du hier?}
 {112}{}{Hhrrrnnn.}
 {113}{}{Nothing. Honest.}
-{114}{}{I'm just looking around.}
+{114}{}{Ich schau mich nur um.}
 {115}{}{This! [you slap her]}
 {116}{}{A moron. I think that you'd best get out of here. Otherwise, you may become target practice.}
 {117}{}{Arroo!}

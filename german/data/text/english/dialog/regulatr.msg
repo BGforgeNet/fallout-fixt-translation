@@ -16,7 +16,7 @@
 {115}{}{}
 {116}{}{Nein.}
 {117}{}{What do you want to know about?}
-{118}{}{What do you do here?}
+{118}{}{Was machst du hier?}
 {119}{}{Can you tell me more about L.A. Boneyard?}
 {120}{}{How can I get inside?}
 {121}{}{What do you know about the Children of the Cathedral and the Followers of the Apocalypse?}
@@ -31,7 +31,7 @@
 {130}{}{You were warned to keep your weapons under control!}
 {131}{}{You'd better put your weapons away while you're here.}
 {132}{}{A thief, eh? Let me show you what we do to your kind here!}
-{133}{}{[Done]}
+{133}{}{[Fertig]}
 {134}{}{Pass bloﬂ auf.}
 {135}{}{We're watching you.}
 {136}{}{Stay in line.}

@@ -32,7 +32,7 @@
 {131}{}{Good luck.}
 {132}{}{I don't think you should leave just yet.}
 {133}{}{Why did the Overseer pick you? It's obvious you couldn't find your shoelaces, much less a new Water Chip. Oh well.}
-{134}{}{Urgh.}
+{134}{}{Aha.}
 {135}{}{Don't you have a job to do? Hurry and find the chip!}
 {136}{}{Don't tell me what to do, loser boy!}
 {137}{}{Fine! Some people.}

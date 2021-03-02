@@ -11,7 +11,7 @@
 {110}{}{Help Sinthia. She's in trouble.}
 {111}{}{Thank you for helping Sinthia. She's usually not a problem. You deserve a good night's sleep. On me. But don't ask for another freebie.}
 {112}{}{Hnn. Thug.}
-{113}{}{Thanks.}
+{113}{}{Danke.}
 {114}{}{No problem. Room #1. Follow me.}
 {115}{}{Enjoy your stay. Don't be a pain.}
 {116}{}{You should have saved Sinthia. It's your fault she died. I hope you are happy with yourself.}

@@ -19,7 +19,7 @@
 {118}{}{I didn't think so. You weren't gone for very long. Now, get back out there and don't come back until you have a FULL report.}
 {119}{}{Yes, sir.}
 {120}{}{I will inform the Elders. We will wait for Maxson's word on what to do. Go inform him on what you've found. Thanks for your help, Initiate.}
-{121}{}{You're welcome.}
+{121}{}{Gern geschehen.}
 {122}{}{Then you will make time to hear me out.}
 {123}{}{You've got my attention.}
 {124}{}{You can go to hell old man.}

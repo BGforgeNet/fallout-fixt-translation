@@ -70,7 +70,7 @@
 {169}{}{Hear some odd doctor is out that way. Deals in the dead, so they say.}
 {170}{}{What in the hell were you thinkin' leaving that caravan? It came back safe, but that was pure damn luck.}
 {171}{}{Can I have another chance?}
-{172}{}{Nothing.}
+{172}{}{Nichts.}
 {173}{}{I don't give a crap!}
 {174}{}{Ig wa neeka rooola?}
 {175}{}{Lig.}

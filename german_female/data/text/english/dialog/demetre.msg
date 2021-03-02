@@ -104,7 +104,7 @@
 {203}{}{Tell me what you know about the missing caravans.}
 {204}{}{I want your ugly face out of my way!}
 {205}{}{I want your head on a stick!}
-{206}{}{Never mind.}
+{206}{}{Macht nichts.}
 {207}{}{Ruk luk?}
 {208}{}{You think you're tough? Don't make me laugh!}
 {209}{}{Well, you should be talking to my daughter, Keri; she takes care of all that! She's in the next room.}
@@ -126,7 +126,7 @@
 {225}{}{Well, I've got to admit, I've heard better.}
 {226}{}{Yeah, I know. See ya.}
 {227}{}{Well, you're still going to die!}
-{228}{}{Uh, okay.}
+{228}{}{Oh, ok.}
 {229}{}{Well, what are you waiting for? There are caravans to run!}
 {230}{}{They're not ready to leave yet.}
 {231}{}{I've still got some things to do first.}

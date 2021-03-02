@@ -58,7 +58,7 @@
 {160}{}{Yuk.}
 {161}{}{What now?}
 {162}{}{Why the hell where you yelling at that poor kid?!}
-{163}{}{Nothing.}
+{163}{}{Nichts.}
 {164}{}{Yuk.}
 {168}{}{Look, that kid was caught stealin'. The police put'm in my care ta straighten'm out.}
 {169}{}{That's no reason to be so mean to him.}
@@ -77,7 +77,7 @@
 {182}{}{Yep!}
 {183}{}{It's been working for me so far!}
 {184}{}{Hmmm, maybe not.}
-{185}{}{I don't know.}
+{185}{}{Ich weiﬂ es nicht.}
 {186}{}{Ya' disappoint me. Ya' seemed to have a good head on your shoulders. Killin'm might get rid of the problem temporarily, but you've gotta get at the root of the problem to really make a difference.}
 {187}{}{Yeah, whatever.}
 {188}{}{Uh, okay. Bye.}

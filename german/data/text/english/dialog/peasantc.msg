@@ -1,6 +1,6 @@
 {100}{}{Get out of here!}
 {101}{}{I've heard bad things about you, are they true?}
-{102}{}{Hi.}
+{102}{}{Hey.}
 {103}{}{This is my place, wanna hang out for a while?}
 {104}{}{Hmm, you look juicy... }
 {105}{}{I hope you're not going to kick me out of here.}

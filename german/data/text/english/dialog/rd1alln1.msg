@@ -1,7 +1,7 @@
 {100}{}{You see: Mitch, the manager of the All-In-One Store.}
 {101}{}{Looking for something?}
 {102}{}{What're you looking for today?}
-{103}{}{What can I help you with?}
+{103}{}{Wie kann ich dir helfen?}
 {104}{}{I've got it all, what's it you need?}
 {105}{}{Need supplies?}
 {106}{}{Looking to buy?}

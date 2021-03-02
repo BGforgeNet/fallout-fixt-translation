@@ -1,5 +1,5 @@
 {100}{}{[More]}
-{101}{}{[Done]}
+{101}{}{[Fertig]}
 {102}{}{Shithead! You get hurt again, you stupid bastard?!}
 {103}{}{Shithead! You get hurt again, you stupid bitch?!}
 {105}{}{Asshole! Don't you listen to the messages of peace?!}

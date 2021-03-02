@@ -6,7 +6,7 @@
 {105}{}{What are we doing chatting?}
 {106}{}{I don't like these brown-robed shitheads, thank you very much.}
 {107}{}{This could be dangerous.}
-{108}{}{Time to leave.}
+{108}{}{Zeit zu gehen.}
 {109}{}{This place looks like shit on a wall.}
 {110}{}{I think I'm going to be sick.}
 {111}{}{Nicole told us to return as soon as you left the Cathedral.}

@@ -5,7 +5,7 @@
 {104}{}{Are you going to be okay?}
 {105}{}{I'm from the Brotherhood. I've been looking for you.}
 {106}{}{You're welcome. Bye.}
-{107}{}{Uh.}
+{107}{}{Oh.}
 {108}{}{You haven't heard of us? I'm really surprised. You must not leave the Hub very often. You should get out more. We're northwest of here, on the west side of the mountain range.}
 {109}{}{I really appreciate you helping me, but why are you trying to lie to me? Do you not think I know every member of our order?}
 {110}{}{Talus sent me.}
@@ -32,7 +32,7 @@
 {131}{}{No, really, Talus sent me.}
 {132}{}{Well, I'm glad I could help.}
 {133}{}{Are you going to be okay?}
-{134}{}{Hello again.}
+{134}{}{Hallo nochmal.}
 {135}{}{I'm leaving soon. Just gathering my strength.}
 {136}{}{Thanks again.}
 {1000}{}{Brotherhood}

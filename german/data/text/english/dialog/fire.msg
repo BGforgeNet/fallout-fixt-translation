@@ -43,7 +43,7 @@
 {142}{}{Fighting is wrong! I won't do it!}
 {143}{}{The Regulators. They rule Adytum. They ain't stupid and are very dangerous.}
 {144}{}{Okay, I'll kill the Regulators.}
-{145}{}{Never mind.}
+{145}{}{Macht nichts.}
 {146}{}{If you plan on doing that, you may want to let Razor know. Otherwise, she will have your head before you get out of here.}
 {147}{}{Suit yourself. Goodbye.}
 {148}{}{I don't make deals. I only make suggestions. Talk to Razor if you want to deal.}

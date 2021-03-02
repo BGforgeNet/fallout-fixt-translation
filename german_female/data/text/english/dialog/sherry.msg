@@ -2,7 +2,7 @@
 {101}{}{You see a gang member.}
 {102}{}{}
 {103}{}{Who are you and what are you doing here?}
-{104}{}{I'm }
+{104}{}{Ich bin }
 {105}{}{. I'm new to this town.}
 {106}{}{None of your business, wench!}
 {107}{}{Puwah?}

@@ -1,7 +1,7 @@
 {100}{}{The frame of this security door has remnants of blue paint.}
 {101}{}{You get a mild shock from the electric field on the door and take a point of damage.}
 {102}{}{You get a strong shock from the electric field on the door. You sustain }
-{103}{}{ points of damage.}
+{103}{}{ Trefferpunkte.}
 {104}{}{You force the door open.}
 {105}{}{The door is locked.}
 {106}{}{Authorization granted. Now disarming electric field.}

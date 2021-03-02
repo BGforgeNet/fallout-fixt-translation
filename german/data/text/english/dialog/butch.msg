@@ -72,10 +72,10 @@
 {171}{BUTCH22}{Yeah, yesterday! Get going!}
 {172}{BUTCH23}{Hmmm. Whatta ya want'a know?}
 {173}{}{Just curious.}
-{174}{}{No reason.}
+{174}{}{Keine Ursache.}
 {175}{}{Never mind. I have some more questions.}
 {176}{BUTCH24}{Well, I've run the Far Go Traders for about five years. Before that I was in Adytum. Before that, near the Glow.}
-{177}{}{Anything else?}
+{177}{}{Noch irgendwas?}
 {178}{}{Well, thanks.}
 {179}{BUTCH25}{Not really.}
 {180}{BUTCH26}{Yeah, well I don't like going around talking about my personal life and such.}
@@ -87,28 +87,28 @@
 {186}{BUTCH28}{Thanks. Now, is there anything else?}
 {187}{BUTCH29}{Well, you got Old Town and the Heights, but that's just houses. Downtown's got all the stores and stuff.}
 {188}{}{What stores?}
-{189}{}{Thanks.}
+{189}{}{Danke.}
 {190}{BUTCH30}{Just stuff. you wanta' see the town, go look around yourself!}
 {191}{}{Uh, thanks for nothing.}
-{192}{}{Thanks.}
+{192}{}{Danke.}
 {193}{BUTCH19}{Uh... what did you say?}
 {194}{}{Are you deaf?}
 {195}{}{Nothing. I need to ask you a few more questions, though.}
 {196}{BUTCH32}{Well, you got the Maltese Falcon, a nice place to eat, believe you me. And then... let's see, the All-N-One Store, the Weapons Shop... and, of course, Bob's Iguana Bits.}
-{197}{}{Thanks.}
-{198}{}{Anything else?}
+{197}{}{Danke.}
+{198}{}{Noch irgendwas?}
 {199}{BUTCH33}{Got the Children of the Cathedral's hospital over on the west side of Downtown. And then, of course, you got the Water Merchants south, and the Crimson Caravan west.}
-{200}{}{Thanks.}
+{200}{}{Danke.}
 {201}{BUTCH34}{Well, you got the Junktown to the north, and the Brotherhood of Steel to the northwest. And, of course, the Boneyard to the south.}
-{202}{}{Anything else?}
-{203}{}{Thanks.}
+{202}{}{Noch irgendwas?}
+{203}{}{Danke.}
 {204}{BUTCH35}{Well, Necropolis is east. But uh... I wouldn't spit there if it came out gold, if ya' get my drift. Those ghouls'll eat a man's face faster than an old lady shopping at bargain day.}
 {205}{}{Hört sich nach Spaß an.}
 {206}{BUTCH35a}{Puhh. Maybe for you! If you like that, then the Glow's down south. It's a radioactive pit.}
 {207}{}{Maybe I'll work on my tan.}
 {208}{BUTCH36}{Just a bunch of different places. Go find out for yourself!}
 {209}{}{Well, thanks for nothing.}
-{210}{}{Thanks.}
+{210}{}{Danke.}
 {211}{BUTCH37}{Well, what do you have?}
 {212}{}{Well, I found out who's taking the caravans.}
 {213}{}{Well, I know it wasn't the Deathclaw who took the caravans.}
@@ -224,7 +224,7 @@
 {324}{}{I'm busy right now. Talk to Rutger. He'll let me know if you're worth seeing.}
 {325}{}{I've got nothing to say to you.}
 {326}{}{Where do I get my reward?}
-{327}{}{What was I supposed to do again?}
+{327}{}{Was sollte ich nochmal machen?}
 {328}{}{Mach, dass du schleunigst hier wegkommst!}
 {329}{}{Nothing yet.}
 {330}{}{Snargle!!!}
@@ -279,7 +279,7 @@
 {1021}{}{Junktown}
 {1022}{}{Killian}
 {1023}{}{Brotherhood}
-{1024}{}{Elder}
+{1024}{}{Älteste}
 {1025}{}{Angel's}
 {1026}{}{Adytum}
 {1027}{}{Jon}

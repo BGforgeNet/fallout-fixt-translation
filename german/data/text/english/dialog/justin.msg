@@ -22,7 +22,7 @@
 {121}{}{Let's do it.}
 {122}{}{You're on your own, Sheriff.}
 {123}{}{Great! Here's the first part of your payment. [The Sheriff hands you 300 caps]}
-{124}{}{I'm ready.}
+{124}{}{Ich bin bereit.}
 {125}{}{Okay, Bye.}
 {126}{}{I'm really sorry to hear that. If you change your mind, let me know, but I can't wait very long.}
 {127}{}{Okay, I'll do it. Just wait for me to get some supplies.}
@@ -66,7 +66,7 @@
 {165}{}{Hello again, sir. What can I do for you today?}
 {166}{}{Hello again, ma'am. What can I do for you today?}
 {167}{}{Hello. How can I help you?}
-{168}{}{Yes?}
+{168}{}{Ja?}
 {169}{}{Just sleep if off, okay?}
 {170}{}{You're kidding! Well... uh... did... did he ask you personally?}
 {171}{}{Yes, he did.}

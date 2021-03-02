@@ -2,10 +2,10 @@
 {101}{}{You see: Brother Alan, of the Followers.}
 {102}{}{Hey, greetings and good day to you, man. What's up?}
 {103}{}{Hiya. What can I do for you?}
-{104}{}{Hello.}
+{104}{}{Hallo.}
 {105}{}{Hey, greetings and good day to you, miss. What's up?}
 {106}{}{Owoowngh!}
-{107}{}{Hi.}
+{107}{}{Hey.}
 {108}{}{I've met a few of the Followers. What exactly do you do?}
 {109}{}{I'm trying to find a spy within your ranks, but I'm not having much luck. Can I ask you some questions?}
 {110}{}{Oh, well, I mostly study philosophy and stuff. I mean, if we're going to bring about peace, then we need a good grounding for it, right?}
@@ -17,7 +17,7 @@
 {116}{}{Heh. I was just kidding.}
 {117}{}{Lemme give you a little peace... eternal peace.}
 {118}{}{Uh, sure, go ahead.}
-{119}{}{What else do you want to know?}
+{119}{}{Was willst du sonst noch wissen?}
 {120}{}{Have you had any contact with the Children of the Cathedral?}
 {121}{}{Do you ever leave the library?}
 {122}{}{Do you know of anyone who regularly goes outside?}

@@ -1,12 +1,12 @@
 {100}{}{You see: Sammael, one of the scavs from Adytum.}
 {101}{}{You see a grungy man in dark blue clothes.}
 {102}{}{Hey, I don't believe we've met. You are?}
-{103}{}{I'm }
+{103}{}{Ich bin }
 {104}{}{.}
 {105}{}{Who's asking?}
 {106}{}{Eruh?}
 {107}{}{The pleasure's mine. I'm called Sammael.}
-{108}{}{What do you do here?}
+{108}{}{Was machst du hier?}
 {109}{}{Nice talking to you.}
 {110}{}{Nobody special. Never mind.}
 {111}{}{I'm a Scav - a scavenger. My job is to search out all of L.A. Boneyard for useful items and information. Dangerous work.}

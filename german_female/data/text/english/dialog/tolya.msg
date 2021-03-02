@@ -1,6 +1,6 @@
 {100}{}{You see a desert bandit with a butcher's knife. Based on how the others look at him, he must have some position of importance or authority.}
 {101}{}{Hello, I am Tolya. Looks like you just wandered in from the desert. Who are you?}
-{102}{}{I'm }
+{102}{}{Ich bin }
 {103}{}{. What do you do?}
 {104}{}{Can you tell me about your camp?}
 {105}{}{Urgh?}

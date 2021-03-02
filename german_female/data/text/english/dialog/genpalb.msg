@@ -47,6 +47,6 @@
 {146}{}{I'm going to have to teach you some manners, girl. This should make for some light entertainment.}
 {147}{}{Your mind is completely gone. Poor creature.}
 {148}{}{Stop wasting my time, fool!}
-{149}{}{What do you want?}
-{150}{}{Nothing.}
+{149}{}{Was willst du?}
+{150}{}{Nichts.}
 {151}{}{Then I suggest you leave.}

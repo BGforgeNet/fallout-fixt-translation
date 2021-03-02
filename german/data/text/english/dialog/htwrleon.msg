@@ -4,7 +4,7 @@
 {103}{}{I've come to kill Mr. Hightower.}
 {104}{}{What business is it of yours?}
 {105}{}{Okay, but I'm watching you. He's in his office.}
-{106}{}{Thank you.}
+{106}{}{Danke.}
 {107}{}{Yeah... I bet you're watching me.}
 {108}{}{I don't like your attitude. I'm going to have to ask you to leave.}
 {109}{}{I'll leave when I'm good and ready, pal!}

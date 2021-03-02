@@ -48,7 +48,7 @@
 {147}{}{No, I am a Children member.}
 {148}{}{Silly me, I mistook you for someone else. Come with me; I'll show you the way.}
 {149}{}{I don't remember you. What's the name?}
-{150}{}{I'm }
+{150}{}{Ich bin }
 {151}{}{. How could you forget about me?}
 {152}{}{None of your business.}
 {153}{}{I'm your worst nightmare.}
@@ -89,7 +89,7 @@
 {188}{}{Funny. I thought I saw some of them out in the street trying to clean up the gangs.}
 {189}{}{They attacked the Blades?}
 {190}{}{What happened to Adytum?}
-{191}{}{Die, scum!}
+{191}{}{Stirb, Abschaum!}
 {192}{}{Those losers are now no more.}
 {193}{}{That's a good thing. Well, goodbye.}
 {194}{}{And now you won't be either.}

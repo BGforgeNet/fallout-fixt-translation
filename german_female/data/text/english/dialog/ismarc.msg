@@ -4,7 +4,7 @@
 {103}{}{Yeah, what do you want?}
 {104}{}{Hey, good singing.}
 {105}{}{Your singing makes my ears bleed.}
-{106}{}{Never mind.}
+{106}{}{Macht nichts.}
 {107}{}{Hoo!}
 {108}{}{Oh, great. You don't know how gratified that makes me. Go away.}
 {109}{}{Thanks. What can I do for ya?}

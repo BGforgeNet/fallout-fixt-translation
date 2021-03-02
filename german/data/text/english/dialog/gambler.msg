@@ -5,7 +5,7 @@
 {104}{}{Nein, danke.}
 {105}{}{Bloo?}
 {106}{}{But of course! This fine establishment is run by the famous Gizmo. A true visionary and a very wealthy man.}
-{107}{}{Thanks.}
+{107}{}{Danke.}
 {108}{}{You say Gizmo is a visionary. What's his vision?}
 {109}{}{What are the odds like on the games here?}
 {110}{}{My friend, I hate to impose, but perhaps you could assist me. I have developed a sure-fire system because I have discovered how Gizmo runs his tables, but I do not have the caps to play.}
@@ -26,7 +26,7 @@
 {125}{}{Life's hard enough. I don't trust the motives of someone who would encourage people to lose their money.}
 {126}{}{You obviously don't share Gizmo's brilliance. This place is a respite from the harshness of everyday life.}
 {127}{}{Well, Gizmo runs a pretty good house, although the games are, how shall we say, rather weighted toward the house. It's not like his dealers cheat, though. Unless you have a system, like me, you will need to be very clever.}
-{128}{}{Thanks.}
+{128}{}{Danke.}
 {129}{}{}
 {130}{}{How is your system coming?}
 {131}{}{Nothing, thanks.}

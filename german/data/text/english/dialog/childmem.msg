@@ -31,7 +31,7 @@
 {131}{}{Nein.}
 {132}{}{You have more than enough to make the donation. You need schooling in math, my child.}
 {133}{}{We are the Children of the Cathedral. We live and work amongst those unfortunates living in the wasteland. If you ever get to L.A. Boneyard, stop by the Cathedral.}
-{134}{}{Thank you.}
+{134}{}{Danke.}
 {135}{}{What do you do?}
 {136}{}{We are the healers and teachers of peace. We heal the body to heal the spirit. All we ask is a small donation to pay for our healing supplies.}
 {137}{}{Sounds like a good idea to me.}
@@ -64,6 +64,6 @@
 {1107}{}{That is here. The sad remnants of an ancient world.}
 {1108}{}{I believe he is one of the ghouls.}
 {1109}{}{That is right over there to the northeast.}
-{1110}{}{I don't know anything about that.}
+{1110}{}{Darüber weiß ich nichts.}
 {1111}{}{L.A. Boneyard is a breeding ground of hatred. There are the Followers of the Apocalypse, the gangs: The Rippers, The Blades, and The Gun Runners, and a small settlement called Adytum. }
 {1112}{}{L.A. Boneyard is a breeding ground of hatred. There are the Followers of the Apocalypse, the gangs: The Rippers, The Blades, and The Gun Runners, and a small settlement called Adytum. }

@@ -9,7 +9,7 @@
 {108}{}{Why did they do that?}
 {109}{}{Guck.}
 {110}{}{Well, they attacked me while I was here pretty late one night. Usually I go home by eight or so, but I was staying late since someone had some water stolen and I was checking our supplies. Next thing I know, I wake up in the med-lab with a big bump on my head. Things are getting crazy around here. Someone is going to get killed for water soon and I don't know what we can do about it.}
-{111}{}{I'll see what I can do.}
+{111}{}{Ich werde sehen, was ich tun kann.}
 {112}{}{Sorry. I hope you feel better soon.}
 {113}{}{Here's your water.}
 {114}{}{Here's your ration for today.}

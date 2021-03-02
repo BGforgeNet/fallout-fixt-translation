@@ -1,4 +1,4 @@
-{100}{}{You see a peasant.}
+{100}{}{Du siehst einen Bauer.}
 {101}{}{I got nothing to say to you, stranger.}
 {102}{}{The brahmin sure do stink this time of year.}
 {103}{}{We still need to expand the irrigation.}

@@ -1,13 +1,13 @@
 {100}{}{You see a lone Paladin. He seems to be both afraid and angry.}
 {101}{}{Stop right there, stranger! Identify yourself!}
-{102}{}{Me }
+{102}{}{Ich }
 {103}{}{.}
-{104}{}{I'm }
+{104}{}{Ich bin }
 {105}{}{. What's happened to this place?}
 {106}{}{My name is not important.}
 {107}{}{Be careful, }
 {108}{}{, you may hurt yourself. An army of bad mutants came to this place and made a big boom. See?}
-{109}{}{Uh-huh.}
+{109}{}{A-ha.}
 {110}{}{See. So, you better find anoter place to go. It isn't safe here.}
 {111}{}{Ich gehen.}
 {112}{}{Mutants. It was a really big army. They came, killed everyone, took everything they could and blew this place up.}
@@ -24,7 +24,7 @@
 {123}{}{. If you'll run into some Brotherhood survivors in your travels, tell them what's happened here.}
 {124}{}{Stop right there... Oh, that's you, }
 {125}{}{.}
-{126}{}{Uh-huh.}
+{126}{}{A-ha.}
 {127}{}{Yes, that's me. What's happened here?}
 {130}{}{Good bye, }
 {131}{}{. If you'll run into some of our fellow Brothers, tell them what's happened here.}

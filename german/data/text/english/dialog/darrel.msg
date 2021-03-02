@@ -5,7 +5,7 @@
 {104}{}{What is the Brotherhood of Steel?}
 {105}{}{Do you know where I can find a Water Chip?}
 {106}{}{Do you know anything about the missing caravans?}
-{107}{}{Never mind.}
+{107}{}{Macht nichts.}
 {108}{}{(He laughs at you.) Friend, I don't think you have a chance of getting in here. The Elders have a minimum IQ requirement for new Initiates.}
 {109}{}{Yes... a... well... a... No. It's just people don't even try to understand what we're all about.}
 {110}{}{The Brotherhood is a collective of men and women who have dedicated their lives to the preservation of technology.}
@@ -84,7 +84,7 @@
 {191}{}{Can I help you?}
 {192}{}{Macht nichts. Tschüss.}
 {193}{}{Sure, ask away.}
-{194}{}{Hello.}
+{194}{}{Hallo.}
 {195}{}{Yes, Rutger came here personally not too long ago, and that's not like him. He was trying to find out what had been happening to his caravans. I've no idea what it could have been. A few others say they saw something over near the Hub, but it disappeared before they could get close enough. It's all very unnerving. I hope it's resolved soon.}
 {196}{}{I heard you make animal sacrifices! Maybe you take these caravans for your dark rituals!}
 {197}{}{Any suspicions?}

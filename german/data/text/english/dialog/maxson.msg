@@ -23,7 +23,7 @@
 {122}{Gen_5}{When we heard about the missing caravans, we sent out a few scouts east and the north. The ones who went north never returned. One came back from the east. He talked about a score of strange beings, all muscle with burnin' eyes. The Elders aren't doin' squat, but I'm getting ready just the same.}
 {123}{}{Twenty isn't an army. Why are you worried?}
 {124}{}{Sounds like your guy baked in the sun too long.}
-{125}{}{I'll do what I can.}
+{125}{}{Ich werde tun, was ich kann.}
 {126}{}{Did he say where to the east?}
 {127}{}{I have some info you might want.}
 {128}{Gen_6}{They may or may not be good scouts, but don't question the truthfulness of my men. We can revoke your Initiate status at any time.}
@@ -194,7 +194,7 @@
 {315}{}{Alright, I'll go, but can I get some better weapons first?}
 {316}{}{Okay, I'll do it for 1000 caps.}
 {317}{}{Take it or leave it.}
-{318}{}{Never mind.}
+{318}{}{Macht nichts.}
 {319}{}{Okay, okay, I'll do it for free.}
 {320}{}{Very well, I'll see you when I get back.}
 {321}{}{I have found proof that it is this army that is causing the disappearance of the caravans. It is an army of mutants. You have good reason to be worried. They look very formidable.}
@@ -207,12 +207,12 @@
 {328}{}{Duh?}
 {329}{}{Why does everyone here seem so edgy? It's like you're getting ready to go to war, but no one knows who the enemy is.}
 {330}{}{I need to talk to you about the disappearance of the caravans. Do you have any insight on the matter?}
-{331}{}{Never mind.}
+{331}{}{Macht nichts.}
 {332}{}{I need to ask you some questions.}
 {333}{}{Duh?}
 {334}{}{I have some information on the area north of here.}
 {335}{}{Can I ask you some questions?}
-{336}{}{Never mind.}
+{336}{}{Macht nichts.}
 {337}{}{Sorry, I didn't really have anything.}
 {338}{}{I saw their base. It's crawling with mutants.}
 {339}{}{I saw the mutant base to the north. They follow a leader they call the Master.}
@@ -224,9 +224,9 @@
 {345}{}{What is the Brotherhood's main purpose?}
 {346}{}{Who are the Elders?}
 {347}{}{Do you know anything about the Deathclaw?}
-{348}{}{Never mind.}
+{348}{}{Macht nichts.}
 {349}{}{Can I ask you another question?}
-{350}{}{Thank you.}
+{350}{}{Danke.}
 {351}{}{You earn }
 {352}{}{ experience for scouting the desert to the north.}
 {353}{Gen_3}{An Initiate not born here. You're the first Outsider we've let join in a long, long time. Well, near on twenty years now. }
@@ -247,7 +247,7 @@
 {1003}{}{Vree}
 {1004}{}{Library}
 {1005}{}{Rhombus}
-{1006}{}{Elder}
+{1006}{}{Älteste}
 {1007}{}{Elders}
 {1008}{}{Initiates}
 {1009}{}{Scribes}

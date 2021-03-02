@@ -12,7 +12,7 @@
 {111}{}{Hmm... Ah. Yes. Here, I found these. Use them when you need a boost.}
 {112}{}{Good, keep up the good work. And let me know if you need anything.}
 {113}{}{What can I do for you?}
-{114}{}{I need healing.}
+{114}{}{Ich brauche Heilung.}
 {115}{}{I need some drugs.}
 {116}{}{I need some more stimpaks.}
 {117}{}{D'oh!}
@@ -22,7 +22,7 @@
 {121}{}{I have an urgent need for them. Without the drugs, the safety of the Vault is in jeopardy!}
 {122}{}{Sorry, I can't give them to you.}
 {123}{}{Well, since you put it that way. But don't tell anyone that I let you have these. They are extremely addictive and dangerous to use.}
-{124}{}{Thanks!}
+{124}{}{Danke auch!}
 {125}{}{Stimpaks are being rationed. You are welcome to what we have in the medical container on the wall outside this room. Take as many as you need, but use them sparingly. It will be a while before we'll be able to get you some more.}
 {126}{}{Hmm. Let's see if you are hurt.}
 {127}{}{You seem okay to me. Minor wounds will heal with time. Come back if you're in worse shape and we'll get you fixed up.}

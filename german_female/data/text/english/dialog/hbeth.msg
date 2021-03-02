@@ -25,7 +25,7 @@
 {125}{}{There is something else: Someone killed Jain, the High Priestess of the Children of the Cathedral. I don't care for them myself, but I don't know what she could have done to deserve that.}
 {126}{}{There is something else: A merchant friend of mine saw a group of mutants wandering around in the desert, up past the Brotherhood of Steel, far to the Northwest.}
 {127}{}{There is something else: The Children of the Cathedral have been asking people where you are. I'd be careful. They're a strange bunch.}
-{128}{}{Anything else?}
+{128}{}{Noch irgendwas?}
 {129}{}{Thanks, can I as you another question?}
 {130}{}{Okay, thanks.}
 {131}{}{I'm sorry, what was that?}
@@ -55,7 +55,7 @@
 {155}{}{My friend was a clean freak. He wouldn't come within a hundred yards of Old Town. He was shot with a magnum pistol; no one in Old Town could afford one of those. Plus, he was shot once in the head and twice in the back. Does that sound like a robbery? My friend was just trying to get his life back.}
 {156}{}{Hey, I like his style. After you kill him, put his body in the place he despises the most.}
 {157}{}{Get his life back?}
-{158}{}{I'm sorry to hear that.}
+{158}{}{Tut mir leid, das zu hören.}
 {159}{}{Oh, okay.}
 {160}{}{You probably don't understand, but most of us look forward to the day when we own our own lives. When our lives don't belong to the merchants or the moneylenders.}
 {161}{}{Oh, thanks.}
@@ -218,7 +218,7 @@
 {319}{}{It's been a while. I hope you've been well.}
 {320}{}{Still alive I see. I was starting to worry. What can I get you today?}
 {321}{}{There you are. It's been more than a week since you last stopped in. You must stay in touch; you ARE my favorite customer!}
-{322}{}{Yes?}
+{322}{}{Ja?}
 {323}{}{What?}
 {324}{}{Are you here to buy something or what?}
 {325}{}{This is MY shop; you better behave.}
@@ -265,9 +265,9 @@
 {367}{}{Well, I didn't think you were actually going to buy anything.}
 {368}{}{Thanks for the business. You're not so bad.}
 {369}{}{Thanks for the goods.}
-{370}{}{Have a nice day.}
+{370}{}{Hab einen schönen Tag.}
 {371}{}{Tschüss.}
-{372}{}{Thank you.}
+{372}{}{Danke.}
 {373}{}{Thanks for the purchases. Have a nice day.}
 {374}{}{I heard that!}
 {375}{}{No kidding.}
@@ -277,7 +277,7 @@
 {379}{}{Ignore him, I always do.}
 {380}{}{Oh, you're just hilarious, Sid.}
 {381}{}{You wish.}
-{382}{}{Shut up.}
+{382}{}{Halt's Maul.}
 {383}{}{Hey. Stay put, Sid.}
 {384}{}{I don't think so, slick.}
 {385}{}{I'll make you blue if you don't leave my customers alone.}
@@ -291,7 +291,7 @@
 {393}{}{Sid! Don't be rude to the customers!}
 {394}{}{Anyone else you know who might have some information about the Deathclaw?}
 {395}{}{Wiedersehn.}
-{396}{}{Thanks.}
+{396}{}{Danke.}
 {397}{}{Ook.}
 {398}{}{Is there any place in town I should avoid?}
 {399}{}{Oh yes. You ought to stay as far away from the Maltese Falcon as you possibly can. Decker and his greasy lapdog Kane are bad news. They'll eat you alive if you're not careful. I'd also give Lorenzo, at the Friendly Lending Company, a wide berth.}

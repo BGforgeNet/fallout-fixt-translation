@@ -13,7 +13,7 @@
 {112}{}{I hope the caravans pass by again soon.}
 {113}{}{We have a chance to make it now.}
 {114}{}{Adytum will be the town we want it to be.}
-{115}{}{Thank you for your help.}
+{115}{}{Danke für die Hilfe.}
 {116}{}{Thank you for getting rid of the Regulators.}
 {117}{}{Thank you for our freedom.}
 {118}{}{It is good that the Regulators are gone.}

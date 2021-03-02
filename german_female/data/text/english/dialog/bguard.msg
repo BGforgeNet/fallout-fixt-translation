@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du siehst eine Wache.}
 {101}{}{I work for the trader here. I make sure nobody messes with him.}
 {102}{}{Got any donuts?}
 {103}{}{If you break it, you buy it!}

@@ -1,6 +1,6 @@
-{100}{}{You see a small child.}
+{100}{}{Du siehst ein kleines Kind.}
 {101}{}{Hi!}
-{102}{}{Hello.}
+{102}{}{Hallo.}
 {103}{}{Where are your parents?}
 {104}{}{Erf.}
 {105}{}{I dunno. Around here somewhere.}

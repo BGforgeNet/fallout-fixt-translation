@@ -9,7 +9,7 @@
 {108}{}{Hnnng!}
 {109}{}{Not so fast! This is a small community. We don't see strangers often, and we don't really need them if you get my meaning. If you don't have a good reason to be here, you'd better just keep moving.}
 {110}{}{Hey, I ain't gonna hurt anybody.}
-{111}{}{Uh.}
+{111}{}{Oh.}
 {112}{}{I wasn't saying that you was gonna. You'd just better leave us alone.}
 {113}{}{I'll try not to make trouble.}
 {114}{}{I'm sick and tired of your trash. Prepare to meet your maker.}

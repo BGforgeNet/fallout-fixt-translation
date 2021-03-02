@@ -7,6 +7,6 @@
 {106}{}{Huh.}
 {107}{}{Why, nothing. I live here.}
 {108}{}{You won't find anything here. Go away.}
-{109}{}{[Done]}
+{109}{}{[Fertig]}
 {200}{}{We wont be able to survive without water.}
 {201}{}{Please talk to our leader before you leave.}

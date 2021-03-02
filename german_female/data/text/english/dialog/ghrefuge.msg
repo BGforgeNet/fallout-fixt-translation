@@ -17,14 +17,14 @@
 {116}{}{What's a steam truck?}
 {117}{}{How did you survive?}
 {118}{}{Do you know why?}
-{119}{}{I don't know.}
-{120}{}{Thanks.}
+{119}{}{Ich weiﬂ es nicht.}
+{120}{}{Danke.}
 {121}{}{You're useless.}
 {122}{}{I heard they was pissed that some human killed their men here.}
 {123}{}{Oh, uh, anything else?}
 {124}{}{Hmmm. Okay. Get out of here.}
 {125}{}{Nein.}
-{126}{}{Thanks.}
+{126}{}{Danke.}
 {127}{}{You're useless.}
 {128}{}{I heard some of the sewer ghouls might have survived, but I don't like it down there.}
 {129}{}{Okay, thanks.}
@@ -32,7 +32,7 @@
 {131}{}{Yeah, that's it.}
 {132}{}{Okay, thanks.}
 {133}{}{I hid until most of the mutants left.}
-{134}{}{Anything else?}
+{134}{}{Noch irgendwas?}
 {135}{}{Some big thing that moved on wheels, but without any brahmin.}
 {136}{}{Hmm, okay. Anything else?}
 {137}{}{That's dumb.}

@@ -27,8 +27,8 @@
 {126}{}{Ja.}
 {127}{}{Nein.}
 {128}{}{Okay, just let me know when you are ready to go to the caves.}
-{129}{}{[Done]}
-{130}{}{Uh-huh.}
+{129}{}{[Fertig]}
+{130}{}{A-ha.}
 {131}{}{Uh-uh.}
 {200}{}{Our entire town is grateful to you for destroying the radscorpions. Thank you.}
 {201}{}{Thanks to you, we are now safe from them.}

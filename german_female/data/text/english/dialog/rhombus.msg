@@ -6,7 +6,7 @@
 {105}{Rhom1}{May I help you?}
 {106}{}{Can I ask you a few questions?}
 {107}{}{You don't look like much of a fighter.}
-{108}{}{Uhhh?}
+{108}{}{Hääh?}
 {109}{Rhom2}{Yes.}
 {110}{Rhom3}{Insolent pup. Apologize now and you'll not be hurt.}
 {111}{}{I was trying to make a joke. I'm very sorry.}
@@ -111,7 +111,7 @@
 {1000}{}{Vree}
 {1001}{}{Rhombus}
 {1002}{}{Talus}
-{1003}{}{Elder}
+{1003}{}{Älteste}
 {1004}{}{Scribes}
 {1005}{}{Knights}
 {1006}{}{Hub}

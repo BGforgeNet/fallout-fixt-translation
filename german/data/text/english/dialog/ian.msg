@@ -2,12 +2,12 @@
 {101}{}{We don't like your kind in these parts.}
 {102}{}{Hello, stranger. You look like you're new here. What's your name?}
 {103}{}{My name's not important.}
-{104}{}{I'm }
+{104}{}{Ich bin }
 {105}{}{.}
 {106}{}{Urgh?}
 {107}{}{Well, then, neither are you.}
 {108}{}{Good to meet you. I'm Ian.}
-{109}{}{What do you do here?}
+{109}{}{Was machst du hier?}
 {110}{}{I'd like to know more about this place. Can you help?}
 {111}{}{Sorry, but I don't have time to waste on morons.}
 {112}{}{I was a guard for the merchants of the Hub. However, I was shot during a raid by bandits. I've been staying here, since the people have helped me recover. Still, my knowledge of the outside world and my experience make me useful here. Shady Sands is my home now. Occasionally, I even get to visit Junktown or the Hub to do some trading, since I'm the only person here who has ever really left town.}
@@ -25,7 +25,7 @@
 {124}{}{Thanks. It's been healing up well, thanks to Razlo.}
 {125}{}{Seth is a very brave fighter. He occasionally goes to the radscorpion caves to kill a few radscorpions, but they always wind up coming back. There are just too many for him to fight.}
 {126}{}{Are the radscorpions really that dangerous?}
-{127}{}{What can I help you with?}
+{127}{}{Wie kann ich dir helfen?}
 {128}{}{There are three groups: the Khans, the Vipers, and the Jackals. They pretty much hate each other, but they all raid Shady Sands.}
 {129}{}{Tell me more about Shady Sands.}
 {130}{}{He has the confident, relaxed stance of an experienced fighter.}
@@ -38,7 +38,7 @@
 {137}{}{Can you give me directions to the Hub and Junktown?}
 {138}{}{Nothing, thanks.}
 {139}{}{The Hub is a big trading center far south of Shady Sands. It's run by several different caravan groups of merchants: the Water Merchants, the Crimson Caravan, and the Far Go Traders. Junktown is a little south and a ways west. It's smaller, but still a good place to drop in for a drink. It's overseen by a fellow by the name of Killian Darkwater; the local shopkeeper, sheriff, and mayor.}
-{140}{}{Thanks.}
+{140}{}{Danke.}
 {141}{}{I may not be a very good fighter any more, but I'm good enough to best the likes of you!}
 {142}{}{What can I do for you, }
 {143}{}{?}

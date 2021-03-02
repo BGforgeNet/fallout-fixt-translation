@@ -1,9 +1,9 @@
 {100}{}{You see a burly bounty hunter with a button that reads, "I'm Christopher and you're meat."}
-{101}{}{What do you want?}
+{101}{}{Was willst du?}
 {102}{}{A doughnut.}
 {103}{}{Was machst du hier?}
 {104}{}{Schau mich nur 'n bisschen um.}
-{105}{}{Nothing.}
+{105}{}{Nichts.}
 {106}{}{We don't appreciate wise guys here. Buzz off.}
 {107}{}{That joke wasn't even funny the first time. You're about to discover why I'm one of the most fearsome bounty hunters in the wasteland. And I won't even get paid for it.}
 {108}{}{None of your business.}
@@ -20,7 +20,7 @@
 {119}{}{Here is your lighter. Time to give me some information.}
 {120}{}{No more questions, thanks.}
 {121}{}{[More]}
-{122}{}{What else do you want to know?}
+{122}{}{Was willst du sonst noch wissen?}
 {123}{}{I need some information.}
 {124}{}{Buuhhh.. Wuh?}
 {125}{}{Are you serious? Get out of my sight.}

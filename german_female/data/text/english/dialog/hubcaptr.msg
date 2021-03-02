@@ -1,5 +1,5 @@
 {100}{}{You see a seedy looking person.}
-{101}{}{What do you want?}
+{101}{}{Was willst du?}
 {102}{}{Get out of here!}
 {103}{}{You want a bullet through that thick skull of yours?}
 {104}{}{That's it!}

@@ -6,7 +6,7 @@
 {105}{}{Maybe I will, maybe I won't.}
 {106}{}{I'll assume that means yes.}
 {107}{}{Normally, I would agree with you. It is very dangerous to travel unarmed. But this is Shady Sands, and we are a peaceful people. There is no need for weapons here.}
-{108}{}{Okay. Thanks.}
+{108}{}{OK. Danke.}
 {109}{}{If you don't put your weapon away, I will not talk with you. There are many people like me. You should only use force if the situation calls for it.}
 {110}{}{Hmm, okay.}
 {111}{}{Welcome to Shady Sands, traveler. My name is Katrina. My job is to greet strangers and help them understand our village. We find that there are fewer problems if you listen to what I have to say.}

@@ -12,8 +12,8 @@
 {111}{}{You may be a Crypt, but this room is not for you. Don't mess with anything.}
 {112}{}{You came to the wrong place at the wrong time.}
 {113}{}{This room is not for you. Don't touch anything, or you'll answer to me.}
-{114}{}{[DONE]}
-{115}{}{[MORE]}
+{114}{}{[Fertig]}
+{115}{}{[Mehr]}
 {116}{}{Phil has more courage than any Fool!}
 {117}{}{PUPLE BABBOONS!}
 {118}{}{The Brahmin have more sense than a Fool.}

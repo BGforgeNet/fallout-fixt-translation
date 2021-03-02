@@ -33,7 +33,7 @@
 {132}{}{Here ya go. Enjoy.}
 {133}{}{Hey! You stole my urn!}
 {134}{}{That's not a trophy, it's an urn. It contains my wife's ashes - besides this bar, it is the most important thing in my life.}
-{135}{}{Anything else?}
+{135}{}{Noch irgendwas?}
 {136}{}{Looking for some more information.}
 {137}{}{No thanks.}
 {138}{}{Oh.}

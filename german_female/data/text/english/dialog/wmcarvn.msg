@@ -70,7 +70,7 @@
 {169}{}{Interesting place. I hear they have some evil doctor that animates the dead, or something.}
 {170}{}{Why on earth did you leave that last caravan? Nothing terrible happened to it, but something could have.}
 {171}{}{Can I have another chance?}
-{172}{}{Nothing.}
+{172}{}{Nichts.}
 {173}{}{I don't give a crap!}
 {174}{}{Ig wa neeka rooola?}
 {175}{}{Lig.}

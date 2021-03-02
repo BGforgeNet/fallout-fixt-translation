@@ -4,11 +4,11 @@
 {103}{}{How about 5 caps?}
 {104}{}{Sorry, don't have any money on me.}
 {105}{}{Keep away from me!}
-{106}{}{Uhhh?}
+{106}{}{Hääh?}
 {107}{HROLD1}{Geez. You're worse off than I am, friend. Luck to you.}
 {108}{HROLD2}{Oh, kind of ya, friend. Very kind. You know, if I could clear the gunk out of there, you just might find a tear in Old Harold's eye.}
 {109}{}{Why is that?}
-{110}{}{You're welcome.}
+{110}{}{Gern geschehen.}
 {111}{HROLD3}{*cough* Rest of the Hubbers' been picking on me like a bad booger since I came back to town. I can't leave, though. When the deals are done *wheeze* it's still my home.}
 {112}{}{What happened to you?}
 {113}{}{Who are the Hubbers?}
@@ -52,7 +52,7 @@
 {151}{}{Short, but I don't have the cash.}
 {152}{}{How about neither, you old fart?}
 {153}{HROLD16}{Well, you seem like an okay sort. I'll speed it up a bit.}
-{154}{}{Thanks.}
+{154}{}{Danke.}
 {155}{hrold16a}{Lying to a poor old mutant. What's the world coming to? *cough*}
 {156}{hrold17}{Little light on funds, huh?}
 {157}{hrold17a}{My way or walk away. Your choice, friend.}
@@ -66,10 +66,10 @@
 {165}{HROLD20}{Because it was like someone went bargain shopping at MutantLand! Geez! Cheaper by the dozens! Can't figure any other reason except that being the factory.}
 {166}{}{Did you examine the base closely?}
 {167}{HROLD21}{We got pretty far inside. Wasn't a lot of us left by then. Grey, me and couple of others.}
-{168}{}{And then?}
+{168}{}{Und dann?}
 {169}{HROLD22}{One of them robots got Francine. Mark was wounded, sent him back to the surface. Then it was just me and Grey.}
 {170}{}{What ever happened to Mark?}
-{171}{}{What happened then?}
+{171}{}{Was ist dann passiert?}
 {172}{HROLD23}{To this day, I don't know. He never made it back here, and... well I... couldn't face the wasteland again, so I... I never looked.}
 {173}{}{What about you and Grey?}
 {174}{HROLD24}{We made it to some sort of central core, like a plant of some sort. That's when it happened.}
@@ -92,18 +92,18 @@
 {191}{}{Do you think it could have been radiation?}
 {192}{}{Sorry, tough break. Thanks for the story.}
 {193}{HROLD29}{How the hell should I know? Grey would've known if anybody could. *sigh* Anyway, that's how the deal went down.}
-{194}{}{Thanks for the story.}
+{194}{}{Danke für die Geschichte.}
 {195}{HROLD30}{Yeah, about a century or two in dog years.}
 {196}{}{What?}
 {197}{HROLD31}{Never mind, that was from my time. I'm cranky, old and I've been that way ever since I changed.}
 {198}{}{What did you do before this happened to you?}
 {199}{HROLD32}{Well, I got mutated. Sure wasn't born this ugly. Happened when we tried to find out where all the mutants were coming from.}
-{200}{}{What happened?}
+{200}{}{Was ist passiert?}
 {201}{HROLD33}{It's in the past. Probably should stay that way.}
 {202}{}{Please tell me what happened, it may help me now.}
 {203}{}{Have it your way.}
 {204}{HROLD34}{Well, if you put it that way. I guess it couldn't hurt.}
-{205}{}{Thanks.}
+{205}{}{Danke.}
 {206}{HROLD35}{No, no. It's too painful, even now. Thanks for the help, friend. Good luck to you.}
 {207}{HROLD36}{You're in the Hub, right? People who live in the Hub? Hubbers. Get it? *cough* Sheesh! Thanks for the help and good luck... think you're gonna need it.}
 {208}{HROLD37}{You're as bad as the rest of them. *wheezing cough*}
@@ -112,20 +112,20 @@
 {211}{}{Yeah, here's 25 caps.}
 {212}{}{Take 5 caps.}
 {213}{}{Don't bug me.}
-{214}{}{Uhhh?}
+{214}{}{Hääh?}
 {215}{HROLD40}{Hey, 'preciate it! Gotta admit, when I first saw you, *cough* I figured you might hassle me.}
 {216}{}{Why do you say that?}
 {217}{}{Nah, not me! Have a good one.}
 {218}{HROLD41}{Oh, hey, it's you again.}
 {219}{}{Here's 20 caps, if you need it.}
-{220}{}{Hi.}
-{221}{}{Uhh?}
+{220}{}{Hey.}
+{221}{}{Häh?}
 {222}{hrold42}{Just putting me on, huh?}
 {223}{HROLD43}{Anything I can do for you?}
 {224}{}{Heard any good rumors recently?}
 {225}{}{I need info on the Deathclaw, and I hear you're the man.}
 {226}{}{What's your story?}
-{227}{}{Nope.}
+{227}{}{Nö.}
 {228}{hrold43a}{The whole thing? Well...}
 {229}{HROLD44}{Oooh, well thanks. Hope it wasn't too much of a strain. *cough*}
 {230}{HROLD45}{Oooh, that thing. Friend, that is nightmare city. Why the hell you asking about that?}
@@ -141,11 +141,11 @@
 {240}{}{Could be.}
 {241}{HROLD52}{You don't want to know about the Deathclaw, and I ain't gonna be the one to tell ya.}
 {242}{HROLD53}{Well, heard one of Decker's men has somebody from the Brotherhood of Steel trapped in Old Town.}
-{243}{}{Thanks.}
+{243}{}{Danke.}
 {244}{HROLD54}{I don't believe this one, but some say an army of mutants is on the way. *cough*}
-{245}{}{Thanks.}
+{245}{}{Danke.}
 {246}{HROLD55}{Leave me alone. *cough*}
-{247}{}{I want to talk to you.}
+{247}{}{Ich möchte mit dir reden.}
 {248}{}{Here's some cash.}
 {249}{HROLD56}{Well, I don't wanta talk to you. Go away!}
 {250}{HROLD57}{Don't want your money. Go away. *cough*}

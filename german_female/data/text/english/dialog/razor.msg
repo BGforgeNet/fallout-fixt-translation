@@ -1,7 +1,7 @@
 {100}{}{Hello, what can I do for you?}
 {101}{}{Wer bist du?}
 {102}{}{Are you the leader of this gang?}
-{103}{}{Never mind.}
+{103}{}{Macht nichts.}
 {104}{}{A... Wha?}
 {105}{}{Razor's the name. I'm the closest thing we have to a leader.}
 {106}{}{So you are the leader of this gang?}
@@ -62,7 +62,7 @@
 {161}{}{Tschüss.}
 {162}{}{Can I help you?}
 {163}{}{Are you the leader of this gang?}
-{164}{}{Never mind.}
+{164}{}{Macht nichts.}
 {165}{}{A... Wha?}
 {166}{}{Gang? We're hardly a gang. But I am the one they all come to for direction.}
 {167}{}{Zimmerman sent me.}
@@ -113,9 +113,9 @@
 {212}{}{Go away!}
 {213}{}{You're not welcome here.}
 {214}{}{Get lost.}
-{215}{}{Thank you.}
+{215}{}{Danke.}
 {216}{}{My people are free.}
-{217}{}{Hello.}
+{217}{}{Hallo.}
 {218}{}{What happened to you? Did someone shoot you in the head?}
 {219}{}{Hunh?}
 {220}{}{You see: Razor, leader of the Blades.}

@@ -26,7 +26,7 @@
 {125}{}{Ruk?}
 {126}{}{I'm sorry, I don't understand you. Somewhere I have a holodisk on learning the English language, if you're interested.}
 {127}{}{Wiedersehn.}
-{128}{}{Thanks.}
+{128}{}{Danke.}
 {129}{}{Ug.}
 {130}{}{Do you have a set of chemistry journals? Miles in Adytum said you might.}
 {131}{}{Yes, I've heard from Miles and I have the ones he's looking for. They will cost you 750 caps.}

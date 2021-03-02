@@ -20,10 +20,10 @@
 {119}{}{Squeeze this...}
 {120}{}{Nuh-uh?}
 {121}{Set05}{Well. I see some potential here... heh... I have playmates for you, my sparkling normie. Punish the mutants at the Watershed for me. Yeah, yeah, can do... yes?}
-{122}{}{Uh, okay.}
+{122}{}{Oh, ok.}
 {123}{}{Nuh-uh.}
 {124}{Set06}{Excellent. Teach those mutants the last lesson, then amble back... Hmm. If I say to my ghouls to hold off you, the muties might hear and know. So I tell you what, it's favor-time. I keep shut. Got it?}
-{125}{}{Got it.}
+{125}{}{Kapiert.}
 {126}{}{What about the ghouls?}
 {127}{}{Duh, okay!}
 {128}{}{Huh?}
@@ -51,20 +51,20 @@
 {150}{}{Ahhh, guess not. What can I do for you?}
 {151}{}{Yeah. Do find it difficult to floss?}
 {152}{Set15}{So funny my face hurts. Try again, and my Elites will juice you. Got it?}
-{153}{}{Got it.}
+{153}{}{Kapiert.}
 {154}{}{I'm still a little unclear... }
 {155}{}{Your face hurts alright.}
 {156}{Set16}{My name's Set. Yours is World-A-Hurt. Take a deal, I change your handle. Listening?}
 {157}{}{Sure. Beats bleeding all over your floor.}
 {158}{}{Naww. Bring on the goons.}
-{159}{}{Uh-huh.}
+{159}{}{A-ha.}
 {160}{}{Nuh-uh!}
 {161}{Set17}{Stride to the Watershed, dirt-nap the mutants there. Do it, you continue a walker. Don't, you rest.}
 {162}{}{You sound a little scared by these guys, want to talk about it?}
 {163}{}{I'm easy. Deal.}
 {164}{}{You look funny, and you talk funny.}
 {165}{Set18}{Well done. You've earned my sight, walker. Follow Garret for your reward. Now. I'm busy.}
-{166}{}{Okay. Thanks.}
+{166}{}{OK. Danke.}
 {167}{}{That's it? Thanks, now get out?}
 {168}{}{Mom?}
 {169}{Set19}{Look before you squeak. You'll enjoy. Be a shame to anger me, now... that I'm happy.}
@@ -81,7 +81,7 @@
 {180}{Set22}{Children of the Cathedral, cids of the Hub, even us ghouls. No one can push his shadow now. But our light will be brighter next time. Ho-ho, yes.}
 {181}{}{Good luck.}
 {182}{Set23}{Follow Garret and get out.}
-{183}{}{Right.}
+{183}{}{Okay.}
 {184}{}{Frag off.}
 {185}{Set24}{You can be left-overs. Leave now, without your reward, or you're on the table tonight.}
 {186}{}{If that's the way you want it.}
@@ -126,7 +126,7 @@
 {225}{Set42a}{Now is bad. Walk. }
 {226}{}{I deserve some information.}
 {227}{}{How about I walk on your face?}
-{228}{}{Got it.}
+{228}{}{Kapiert.}
 {229}{}{Nuh-uh?}
 {230}{Set43}{Fine. Fast. What?}
 {231}{}{You wouldn't do the mutants yourself. I ask myself why? Answer, someone has you scared. Why?}
@@ -138,7 +138,7 @@
 {237}{}{I think that's a threat!}
 {238}{Set45}{You don't even read the lines. Unless Necropolis is forever your home to be, walk. I have no time for a foolish blood-bag.}
 {239}{}{How 'bout your own body-bag?}
-{240}{}{Got it.}
+{240}{}{Kapiert.}
 {241}{}{Bite me.}
 {242}{Set45a}{With pleasure... }
 {243}{Set46}{No bluff, no twist. The Master does not tremble me. Walk. Your welcome has.}
@@ -156,7 +156,7 @@
 {255}{}{Ran out of butt to kick and thought of your face.}
 {256}{}{Huh. Master go boom.}
 {257}{Set52a}{You mean dead?}
-{258}{}{Uh-huh.}
+{258}{}{A-ha.}
 {259}{Set53}{Warm. Filling. Your needs are my desires. Name them.}
 {260}{}{Need some info on the Vats.}
 {261}{}{I could use some more weapons and equipment.}
@@ -173,12 +173,12 @@
 {272}{}{I needed the chip to save my own Vault. Sorry.}
 {273}{}{Will sorry do?}
 {274}{}{Want it back?}
-{275}{}{Uhh?}
+{275}{}{Häh?}
 {276}{Set58}{A path, perhaps. An alternate pump exists, but not its actions. None of mine can breathe that life.}
 {277}{}{Perhaps I should take a look at the pump.}
 {278}{}{Too bad. Guess you're going thirsty.}
 {279}{Set59}{Garret will walk you. Revive the pump, keep the chip.}
-{280}{}{Thanks.}
+{280}{}{Danke.}
 {281}{Set60}{I'll drink from you warm, then take from you cold.}
 {282}{}{I don't have it on me.}
 {283}{}{How 'bout eating dirt instead.}

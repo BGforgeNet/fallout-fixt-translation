@@ -5,7 +5,7 @@
 {104}{}{You might try signing up with Gizmo. I hear he's always looking for new meat to toss in the ring.}
 {105}{}{Try again tomorrow. Saul will be boxing then.}
 {106}{}{You just missed it. Try again in a couple of days. Saul boxes every three days.}
-{107}{}{Thanks.}
+{107}{}{Danke.}
 {108}{}{Who's Saul?}
 {109}{}{Saul is the local champion. Saul is the current favorite of Gizmo.}
 {110}{}{Hey, there. No boxing today.}
@@ -29,10 +29,10 @@
 {128}{}{Saul, the fastest fist in Junktown! He's a marvel of manly musculature! A pulsating power puncher!}
 {129}{}{He's a nice guy, too.}
 {130}{}{Um, yeah. So, who runs these matches?}
-{131}{}{Thanks. See you around.}
+{131}{}{Danke, wir sehn uns.}
 {132}{}{Gizmo, the casino owner, employs Saul. He occasionally likes to watch a match or two, but mostly it's good money - people will bet a lot on a fight. And nobody has to get killed, unlike those death matches they supposedly have in the Hub.}
 {133}{}{Death matches?}
-{134}{}{Thanks.}
+{134}{}{Danke.}
 {135}{}{Well, it's just a rumor, but they say there's an underground fighting ring there where you can pay to watch people fight to the death. Not my kind of fight.}
 {136}{}{Hmm. Thanks.}
 {137}{}{Hey, what are you doing?}

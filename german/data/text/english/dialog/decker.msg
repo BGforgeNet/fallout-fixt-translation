@@ -34,17 +34,17 @@
 {133}{}{Yeah, I'll do it.}
 {134}{DECK_12}{Very nice. The merchant lives in the Heights, on Barter Street and Thunder Avenue. Your initial pay will be handed to you on your way out.}
 {135}{DECK_13}{Everything is my business in the Hub. Either tell me, or you may leave.}
-{136}{}{My name is }
+{136}{}{Ich heiﬂe }
 {137}{}{.}
 {138}{}{I'm not telling you anything.}
 {139}{DECK_14}{I see... My assistant will show you to the door.}
 {140}{DECK_15}{I'm very proud of you. You're ruthless, an attribute I admire. Kane will give you your payment. I hope you're available in the future.}
 {141}{}{Can I ask you a few questions?}
-{142}{}{Thanks.}
+{142}{}{Danke.}
 {143}{DECK_16}{Under the circumstances, yes.}
 {144}{}{What's in the Hub?}
 {145}{}{Heard any rumors?}
-{146}{}{Never mind.}
+{146}{}{Macht nichts.}
 {147}{Deck_16b}{Keep it brief, please.}
 {148}{DECK_17}{The Merchant Market is in the center of town, surrounded by a number of establishments. You have the Heights to the west, and Old Town to the east.}
 {149}{}{What kind of establishments?}

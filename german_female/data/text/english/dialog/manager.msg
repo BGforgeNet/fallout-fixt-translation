@@ -5,7 +5,7 @@
 {104}{}{What's it to you, wormface?}
 {105}{}{Dug-duh.}
 {106}{}{Wha'd you say?}
-{107}{}{Nothing.}
+{107}{}{Nichts.}
 {108}{}{I'm looking for lost technology.}
 {109}{}{That's what I thought you say. Getta outta my house.}
 {110}{}{Oh, nonna dat around here. Maybe uppa da temple or atta water place. Getta going.}

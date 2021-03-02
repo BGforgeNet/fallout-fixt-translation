@@ -10,7 +10,7 @@
 {109}{}{I've come to talk to your Master.}
 {110}{}{I'm a special mutant on a mission for your Master. Let me pass or face the consequences.}
 {111}{}{I'm with the Cathedral. Let me by.}
-{112}{}{Die!}
+{112}{}{Stirb!}
 {113}{}{Have it your way.}
 {114}{}{Fine. To the death it is.}
 {115}{}{Good. Come with me, no laugh-type stuff.}

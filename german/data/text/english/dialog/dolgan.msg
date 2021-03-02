@@ -23,4 +23,4 @@
 {122}{}{There you go. You've shown a little improvement. Good luck to you.}
 {123}{}{Sure thing. Come back when you want more training.}
 {124}{}{Seems like we let in a fool. Well, if you want to get into their place, there is a slight break in their moat. Look for it and run like mad. You may even make it across.}
-{125}{}{Thanks.}
+{125}{}{Danke.}

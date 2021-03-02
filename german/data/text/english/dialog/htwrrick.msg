@@ -3,10 +3,10 @@
 {102}{}{Da... um...}
 {103}{}{Excuse me. Could I ask you a few questions?}
 {104}{}{Your head on a stick!}
-{105}{}{Never mind.}
+{105}{}{Macht nichts.}
 {106}{}{Get back over to the Eastside, you hop head!}
 {107}{}{Wha?}
-{108}{}{I go.}
+{108}{}{Ich geh.}
 {109}{}{Make it quick; I'm not supposed to be talking on the job.}
 {110}{}{Where am I?}
 {111}{}{What's your job?}

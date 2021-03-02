@@ -2,7 +2,7 @@
 {101}{MORP02}{I don't remember inviting anyone to my room? And yet I have a visitor. Why?}
 {102}{}{Oh, I'm sorry. I seem to be lost.}
 {103}{}{Because I have such a deal for you...}
-{104}{}{I'm }
+{104}{}{Ich bin }
 {105}{}{. What's yours?}
 {106}{}{One of the Brothers sent me up here.}
 {107}{}{Mom?}
@@ -18,7 +18,7 @@
 {117}{MORP05A}{ You are a pathetic liar. Tell me the real reason you are here now... before I have you skinned alive. }
 {118}{}{No really! I'm lost!}
 {119}{}{All right, you got me. I'm here to offer you a deal.}
-{120}{}{I'm just looking around.}
+{120}{}{Ich schau mich nur um.}
 {121}{MORP06}{ I suspect you are a spy, sent by the Followers. I may be wrong, but I do not take chances. You must be eliminated. }
 {122}{MORP07}{ What could you possibly offer me? }
 {123}{}{I'm from a Vault. You know what that is, right?}
@@ -82,11 +82,11 @@
 {181}{}{I'm here to make you a deal.}
 {182}{morp28}{Yes?}
 {183}{}{Hi. I'm new to the Children and was wondering if I could ask you a few questions.}
-{184}{}{Never mind.}
+{184}{}{Macht nichts.}
 {185}{}{Nuhhh?}
 {186}{morp29}{Of course, my child.}
 {187}{}{Thanks...}
-{188}{}{Never mind.}
+{188}{}{Macht nichts.}
 {189}{}{What are the Children's plans?}
 {190}{}{Changed my mind. No more questions.}
 {191}{}{What you say if I told you I'm from a Vault?}

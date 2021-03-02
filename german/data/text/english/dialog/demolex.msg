@@ -1,7 +1,7 @@
 {100}{}{You see Lex.}
 {101}{}{You see a loser.}
 {102}{}{[More]}
-{103}{}{[Done]}
+{103}{}{[Fertig]}
 {104}{}{[Lex whispers.] Best be careful. Rock doesn't always tell the truth.}
 {105}{}{Why do you say that?}
 {106}{}{Why should I trust you?}
@@ -18,15 +18,15 @@
 {117}{}{I'll consider it.}
 {118}{}{We could ask for nothing more.}
 {119}{}{Tschüss.}
-{120}{}{I have some questions.}
+{120}{}{Ich habe ein paar Fragen.}
 {121}{}{Why should you not? I have the best interests of my people at heart, and I would like to see you come to no harm.}
 {122}{}{What do you mean?}
 {123}{}{There are forces at work here in Scrapheap that would like to use you, and if that is not possible, to see you dead and buried. Choose your friends wisely, and your enemies with even more care. Good day.}
 {124}{}{Yeah, good day.}
 {125}{}{We thank you for getting rid of the Crypts and the Fools. Without the power generator, my people will have a poor life. Do you think you could fix it?}
-{126}{}{Of course.}
+{126}{}{Natürlich.}
 {127}{}{Fix it yourself. I want my reward.}
-{128}{}{Thank you.}
+{128}{}{Danke.}
 {129}{}{Very well, you shall have it. You have cast my people into a cold night and then abandoned us to the wolves - but I understand that your quest is more important.}
 {130}{}{The violence you have started may lead straight back to my people. Please finish it.}
 {131}{}{Just like you cowards to lay the task of death on the shoulders of others.}
@@ -37,11 +37,11 @@
 {136}{}{Just as I suspected, you don't care about anything except your own needs. Join our enemies, bring fear to my people, and betray your own background.}
 {137}{}{I'm going to kill you for saying that.}
 {138}{}{It's a plan. I'm infiltrating this gang.}
-{139}{}{Shut up.}
+{139}{}{Halt's Maul.}
 {140}{}{I thought you would, you worm.}
 {141}{}{Perhaps, but actions speak louder than words.}
 {142}{}{You'll see.}
-{143}{}{What can I help you with?}
+{143}{}{Wie kann ich dir helfen?}
 {144}{}{Tell me about the power generator.}
 {145}{}{Tell me about the Crypts.}
 {146}{}{Tell me about the Fools.}

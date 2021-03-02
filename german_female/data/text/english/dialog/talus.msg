@@ -102,7 +102,7 @@
 {202}{}{! I've received word from Brother Jonathan. Thank you for rescuing him.}
 {203}{}{I understand Decker's dead, you're more talented than I thought, and that's saying a lot.}
 {204}{}{We'll make Decker pay for what he's done, you have my word on that.}
-{205}{}{You're welcome.}
+{205}{}{Gern geschehen.}
 {206}{}{Lup?}
 {207}{}{Hello stranger! I heard you're the one to thank for the safe return of my missing Initiate.}
 {208}{}{I also understand that Decker's dead, you're quite an asset to our Brotherhood.}

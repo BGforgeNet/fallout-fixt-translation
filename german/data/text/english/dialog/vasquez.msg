@@ -1,6 +1,6 @@
 {100}{}{You see: Vasquez, the mercenary desperado.}
 {101}{}{You see a seedy-looking gunman.}
-{102}{}{What do you want?}
+{102}{}{Was willst du?}
 {103}{}{Wer bist du?}
 {104}{}{Hnn.}
 {105}{}{I do not work for the weak of mind. You leave now.}
@@ -23,5 +23,5 @@
 {122}{}{Hnn.}
 {123}{}{Well, maybe it is not so good to see you again. Have a good day.}
 {124}{}{Of course you do. My bill is small, and my worth is so large. 500 caps, please.}
-{125}{}{Here you go.}
+{125}{}{Bitte schön.}
 {126}{}{You should not have done that, my soon-to-be-dead friend.}

@@ -1,5 +1,5 @@
 {100}{}{I don't want to talk to you.}
-{101}{}{Go away.}
+{101}{}{Hau ab.}
 {102}{}{Lass mich in Ruhe!}
 {103}{}{Someone should do something about you.}
 {104}{}{Get out of here, you asshole.}

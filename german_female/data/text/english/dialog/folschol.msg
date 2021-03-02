@@ -2,7 +2,7 @@
 {101}{}{Please be quiet, I am trying to study.}
 {102}{}{We seek knowledge to protect us from the Children.}
 {103}{}{Nicole says that knowledge of our enemies will help us prevail.}
-{104}{}{Hello.}
+{104}{}{Hallo.}
 {105}{}{Welcome to the Followers of the Apocalypse. Please respect the sanctity of our Library.}
 {106}{}{Glorious Day to you.}
 {107}{}{All knowledge is holy.}

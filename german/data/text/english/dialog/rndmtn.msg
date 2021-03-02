@@ -39,7 +39,7 @@
 {138}{}{You sustain }
 {139}{}{ points of damage and a crippled left leg.}
 {140}{}{ points of damage and a crippled right leg.}
-{141}{}{ points of damage.}
+{141}{}{ Trefferpunkte.}
 {142}{}{You refill your empty flask in the spring.}
 {143}{}{You refill your empty flasks in the spring.}
 {144}{}{ points of damage and a crippled left arm.}

@@ -13,14 +13,14 @@
 {112}{}{SHADYW.MAP}
 {113}{}{Not many people brave the wastes alone. Who are you?}
 {114}{}{None of your business.}
-{115}{}{I'm }
+{115}{}{Ich bin }
 {116}{}{.}
-{117}{}{Me }
+{117}{}{Ich }
 {118}{}{Hello again! What can I do for you?}
 {119}{}{May I join your group to Shady Sands?}
 {120}{}{What do you have for sale?}
 {121}{}{Nothing, thanks.}
-{122}{}{What do you want?}
+{122}{}{Was willst du?}
 {123}{}{Nothing, sorry.}
 {124}{}{What do you have for sale?}
 {125}{}{Uh?}

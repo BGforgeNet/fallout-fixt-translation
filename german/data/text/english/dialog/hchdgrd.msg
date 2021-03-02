@@ -1,7 +1,7 @@
 {100}{}{You see a guard for the Children.}
 {101}{}{Phillips! Let's take this guy out!}
 {102}{}{Get outta my face!}
-{103}{}{What do you want?}
+{103}{}{Was willst du?}
 {104}{}{Tell me about your work.}
 {105}{}{What's this place about?}
 {106}{}{Do you know where I can find a Water Chip?}
@@ -29,7 +29,7 @@
 {128}{}{So you think he's a creep?}
 {129}{}{Phillips?}
 {130}{}{Would you take a job from him?}
-{131}{}{Thanks!}
+{131}{}{Danke auch!}
 {132}{}{Yeah, this is the only one I'd want in a fire fight. What can I do for you?}
 {133}{}{Where can a guy go around here to get some quality weapons?}
 {134}{}{What's up with these Cathedral guys?}

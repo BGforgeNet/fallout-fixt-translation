@@ -7,7 +7,7 @@
 {106}{}{Huh?}
 {107}{}{The walls also have minds... I saw you... tomorrow?}
 {108}{}{Others like you are in the wall?}
-{109}{}{Never mind.}
+{109}{}{Macht nichts.}
 {110}{}{I'd like to kill you now. Could you open this force field?}
 {111}{}{Open the force field and I'll let you out.}
 {112}{}{Uh, yeah. Are you the 'experiments' I'm looking for?}
@@ -29,7 +29,7 @@
 {128}{}{I'd like to join my gun with your head!}
 {129}{}{I don't have time for this. Goodbye.}
 {130}{}{I will anoint you... I must give what I must not.}
-{131}{}{Thanks.}
+{131}{}{Danke.}
 {132}{}{No one's anointing me, you insane bastard!}
 {133}{}{Anoint? Anoint me with what?}
 {134}{}{Nein, danke.}
@@ -74,7 +74,7 @@
 {301}{}{You see a human female. She is staring at your shoes.}
 {302}{}{There is no place like home, no place like home, no place like home... [pacing back and forth]}
 {303}{}{Hng!}
-{304}{}{Stop that!}
+{304}{}{Hör auf damit!}
 {305}{}{What about this place? Isn't this your home?}
 {306}{}{I agree. Completely and utterly. You're right... [she pauses for a moment] What did you say? Oh, never you mind.}
 {307}{}{[looking at you intensely] I will slay you for that! I will make your blood run red. Wait a minute. Blood is red, how can I make it run red? I can't very well do that. Hmmm. I need to think about this. Go away!}

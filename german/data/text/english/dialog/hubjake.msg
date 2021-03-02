@@ -40,7 +40,7 @@
 {139}{}{Let's see if we can make a deal.}
 {140}{}{What can you tell me about radiation?}
 {141}{}{I don't go for this hard sell crap. See you later.}
-{142}{}{Never mind.}
+{142}{}{Macht nichts.}
 {143}{}{}
 {144}{}{gEt.}
 {145}{}{Ich gehen.}
@@ -51,14 +51,14 @@
 {150}{}{Ich gehen.}
 {151}{}{Let's see what you've got.}
 {152}{}{You can go to hell. I go where I want, when I want!}
-{153}{}{I'm leaving.}
+{153}{}{Ich verschwinde.}
 {154}{}{What the hell are you doing in here?!}
 {155}{}{I don't carry it. Any I find I keep for myself. Right up the street here, there's a guy that may be able to help you. His name is Vance. Don't ask too many questions of him. Let's just say this is his area of expertise. Just tell him Jacob sent you and he should do you up just fine.}
 {156}{}{How does a Geiger counter work?}
 {157}{}{Thanks for the info. Bye.}
 {158}{}{Here's what I've got.}
 {159}{}{Tschüss.}
-{160}{}{Thanks.}
+{160}{}{Danke.}
 {161}{}{Ook.}
 {162}{}{The mutants wiped 'em out about ten years ago, so I guess I made the right decision. I eventually settled down here. The cops don't like my trade and I've been rousted more than once, but I'm a helluva lot more honest than most of the merchants here.}
 {163}{}{Hey, how's it going, my friend? Lookin' to buy somethin'?}

@@ -11,4 +11,4 @@
 {110}{}{The one who sits above. The one who sits below. The one who rests within. Praise the Master for such clarity of vision!}
 {111}{}{Oh, if only I were so fortunate! Perhaps one day the Master will let me kiss his body parts. Praise the Master! Praise the Holy Flame!}
 {112}{}{Hmm, that's not what I had in mind. You had better practice, my friend. Praise to the Master! Praise the Holy Flame!}
-{113}{}{[Done]}
+{113}{}{[Fertig]}

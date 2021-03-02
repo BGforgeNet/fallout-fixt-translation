@@ -12,7 +12,7 @@
 {111}{}{Gruk!}
 {112}{}{Maxson, the High Elder, can be found on the Fourth Floor. If you take the other elevator down to level four, he should be either in the Council Room or the Elders' rooms.}
 {113}{}{You can ask one of the guards on that level; they should know where he is at the moment.}
-{114}{}{Thank you.}
+{114}{}{Danke.}
 {115}{}{Where can I get some better weapons?}
 {116}{}{You should talk to Talus. He might be able to help you, or at least tell you who to talk to.}
 {117}{}{During the day, Talus is normally supervising in the training hall. Do you know where that is?}
@@ -51,7 +51,7 @@
 {150}{}{Hole? How dare you talk like that about the Brotherhood. You are a member of our order now, and should be proud to be a member of the Brotherhood of Steel.}
 {151}{}{Proud? Why? You're all just a bunch of robotic hop-heads, hiding from the real world. There's nothing to be proud of there.}
 {152}{}{I'm sorry. I get a little carried away with myself sometimes.}
-{153}{}{Yeah, right.}
+{153}{}{Ja, genau.}
 {154}{}{Well, I guess we all do sometimes.}
 {155}{}{So who is in charge of this place?}
 {156}{}{Yeah. Well, I've got to go.}
@@ -120,7 +120,7 @@
 {219}{}{Sorry, I'm not in the mood to talk to rude people.}
 {220}{}{Don't bother me.}
 {221}{}{What? Can't you go bother someone else?}
-{222}{}{Go away.}
+{222}{}{Hau ab.}
 {223}{}{I don't want to talk to you.}
 {224}{}{Initiate, get back to your studies.}
 {225}{}{No time to talk, Initiate.}

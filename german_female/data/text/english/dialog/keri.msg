@@ -4,7 +4,7 @@
 {103}{}{So, that old bastard gave you the okay to work for us, eh? Well you must be one tough bitch. I'm impressed, but we'll see how you do. We leave only twice a month, on the 3rd and 17th. Can you handle that? We go to all the local hot spots: the Brotherhood of Steel, Junktown, Necropolis, and L.A. Boneyard.}
 {104}{}{So, that old bastard gave you the okay to work for us, eh? Well you must have balls of steel. I'm impressed, but we'll see how you do. We leave only twice a month, on the 3rd and 17th. Can you handle that? We go to all the local hot spots: the Brotherhood of Steel, Junktown, Necropolis, and L.A. Boneyard.}
 {105}{}{And the pay?}
-{106}{}{Uh.}
+{106}{}{Oh.}
 {107}{}{Our pay's the best; 600 scripts - and yes, that is for each way... but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders... or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
 {108}{}{ We're leaving today. Are you interested?}
 {109}{}{ We leave on }
@@ -86,7 +86,7 @@
 {185}{}{What the hell do you want?}
 {186}{}{Shut up and get out of my way, I'm not in the mood!}
 {187}{}{I want another job.}
-{188}{}{Nothing.}
+{188}{}{Nichts.}
 {189}{}{Zug.}
 {190}{}{Ug.}
 {191}{}{Yeah right! So you can abandon another caravan? You're lucky they made it in one piece.}
@@ -104,14 +104,14 @@
 {203}{}{Lug.}
 {204}{}{Ready to go? We're leaving today.}
 {205}{}{Yep!}
-{206}{}{Nope.}
+{206}{}{Nö.}
 {207}{}{Hrurra?}
 {208}{}{You're a day early. Come back tomorrow if you still want the job. If not, don't show. I don't give a crap.}
 {209}{}{Hey, you're early. I'm not sending them out until }
 {210}{}{3rd}
 {211}{}{17th}
 {212}{}{. Come back then if you still want the damn job. I really don't care if you show or not. But if you do still want it come back then.}
-{213}{}{Not yet.}
+{213}{}{Noch nicht.}
 {214}{}{Dad, shut the hell up!}
 {215}{}{Hey old man, I'm hungry! I'm going to take a break!}
 {216}{}{I hate working the books.}

@@ -1,6 +1,6 @@
-{100}{}{Thank you.}
+{100}{}{Danke.}
 {101}{}{Wiedersehn.}
-{102}{}{Hello.}
+{102}{}{Hallo.}
 {103}{}{You earn }
 {104}{}{ experience.}
 {105}{}{Uh oh!}
@@ -10,8 +10,8 @@
 {109}{}{See ya 'round.}
 {110}{}{Take it easy.}
 {111}{}{It's been fun.}
-{112}{}{Here you go.}
-{113}{}{Anything else?}
+{112}{}{Bitte schön.}
+{113}{}{Noch irgendwas?}
 {114}{}{Ja.}
 {115}{}{Nein.}
 {116}{}{You gain }

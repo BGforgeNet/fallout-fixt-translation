@@ -30,7 +30,7 @@
 {129}{}{Lass mich bitte in Ruhe.}
 {130}{}{You're scaring me.}
 {131}{}{Hey, what are you trying to do? I don't have anything you'd want.}
-{132}{}{Stop that!}
+{132}{}{Hör auf damit!}
 {133}{}{Dangerous? No, not really. They can give you a really nasty bite, but they're pretty cool. They fart and burp a lot. I don't know why.}
 {134}{}{So what's the spear for?}
 {135}{}{Okay thanks.}
@@ -47,7 +47,7 @@
 {146}{}{No you aren't, you lazy little brat!}
 {147}{}{OK.}
 {148}{}{Yeah, maybe you're right... actually, he seems pretty cool, but I wish he wouldn't yell at me so much.}
-{149}{}{Yeah, right.}
+{149}{}{Ja, genau.}
 {150}{}{Up yours, you old fart!}
 {151}{}{Up yours, you old hag!}
 {152}{}{WOW! I can live on this for the rest of my life! Thanks a lot, mister!}
@@ -65,7 +65,7 @@
 {164}{}{Dan's going to take me on a caravan some day!}
 {165}{}{I'm going to be an adventurer when I grow up.}
 {166}{}{Really? Oh, okay. I hope you didn't hurt him. He's really not so bad. He just yells a lot.}
-{167}{}{Hello again.}
+{167}{}{Hallo nochmal.}
 {168}{}{What is it you do again?}
 {169}{}{Can I have a brahma?}
 {170}{}{Just stopping by to say how things where going. Bye.}
@@ -76,5 +76,5 @@
 {175}{}{Hi again.}
 {176}{}{I'm going to be an adventurer when I grow up.}
 {177}{}{Brahmin sure do shi... uh, poop a lot.}
-{178}{}{I can't talk right now.}
+{178}{}{Ich kann gerade nicht sprechen.}
 {179}{}{I don't want to get in trouble.}

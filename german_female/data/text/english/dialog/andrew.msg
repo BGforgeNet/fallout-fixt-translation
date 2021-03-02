@@ -3,7 +3,7 @@
 {102}{}{Hey! You! Stop!}
 {103}{}{Can I help you?}
 {104}{}{Wer bist du?}
-{105}{}{What are you doing?}
+{105}{}{Was machst du?}
 {106}{}{No thanks.}
 {107}{}{I'm Andrew. My job is to guard the jail.}
 {108}{}{I'm guarding the jail. I make sure that miscreants don't get in or out.}

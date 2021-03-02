@@ -13,7 +13,7 @@
 {112}{}{Not good, but I noticed the radiation count is low. Why don't we just move the people out of the Vault?}
 {113}{}{I haven't found the chip yet. Can't we just make a replacement?}
 {114}{}{Nothing yet.}
-{115}{}{Nuh.}
+{115}{}{Nö.}
 {116}{Over_8}{Look, I know it's got to be tough. But we're counting on you. And we're running out of time. Please! Keep trying!}
 {117}{Over_9}{Ahh, you never did listen to me. We don't have the necessary parts anymore. We've used up all the supplies required.}
 {118}{}{Oh, okay. Thanks.}
@@ -23,7 +23,7 @@
 {122}{}{Not yet. Sorry.}
 {123}{}{I still say we just pack everybody up and move out of here.}
 {124}{}{No, but I have a lot of other things to tell you!}
-{125}{}{Nuh.}
+{125}{}{Nö.}
 {126}{Over_13}{[The Overseer sighs.] Don't be sorry. I know you're trying your best and that means a lot. But you can't give up now.}
 {127}{Over_14}{This isn't the best time to debate that. Get the chip, give us the option. Most of these people, including me, won't survive out there.}
 {128}{}{Okay, I'll go see if I can find it.}
@@ -31,7 +31,7 @@
 {130}{Over_19a}{Please tell me you've found the chip.}
 {131}{}{No, but I've seen some amazing things!}
 {132}{}{Sorry, haven't been able to track it down yet.}
-{133}{}{Nope.}
+{133}{}{Nö.}
 {134}{}{Nuh-uh.}
 {135}{Over_20}{Well, keep looking. Time's growing short.}
 {136}{Over_21}{We don't have time for this! We need the chip. Time's running out. [Sigh]}
@@ -43,9 +43,9 @@
 {142}{Over_24}{Here, take the last of our ammo and portable healing supplies. We're in trouble. Hurry!}
 {143}{Over_25}{Do what? With whom? Anyone else would be less qualified and have less supplies. It'd be suicide.}
 {144}{}{Your choice. I'll do my best, but I don't know if it'll be enough.}
-{145}{}{I understand.}
+{145}{}{Ich verstehe.}
 {146}{Over_26}{It has to be. If you fail, so does the Vault.}
-{147}{}{Got it.}
+{147}{}{Kapiert.}
 {148}{}{Whatever.}
 {149}{Over_27}{Good, then get going!}
 {150}{Over_28}{Have you found the chip?}
@@ -56,14 +56,14 @@
 {155}{Over_30}{Please, the chip!}
 {156}{Over_31}{Okey-dokey. One moment, the chip is initializing. Here - here - here - There it goes... Self-test is green... re-boot is good...  Hah! It's working! And it looks like we have a winner! Haha! [The Overseer sighs with relief] You - you've saved us. You've done it!}
 {157}{}{Ahh, it was nothing.}
-{158}{}{You're welcome.}
+{158}{}{Gern geschehen.}
 {159}{Over_32}{Nothing? No, oh no! It was something. Don't downplay what you've done. You've saved a lot of lives. All right, now we need a report on what's out there. Please go to the library.}
 {160}{}{OK.}
 {161}{Over_33}{You saved the Vault. You should be proud. But now, we need your report. We'll get it from you in the library. Please go there now.}
 {162}{}{OK.}
 {163}{Over_34}{Well, you've certainly earned that right. But let's take care of survival first. Give me the chip and we'll discuss this when you give your report.}
 {164}{}{Fair enough.}
-{165}{}{I don't know.}
+{165}{}{Ich weiß es nicht.}
 {166}{Over_37}{Oh, that's great! Can I have the chip, please?}
 {167}{Over_38}{No, not that. I want the com-pu-ter chip.}
 {168}{Over_38a}{No. The chip.}
@@ -75,7 +75,7 @@
 {174}{Over_41a}{Oh, yes. You did good and I'm sure you have a lot to tell.}
 {175}{Over_42}{I uh, I just wanted to let you know that the water supply has stabilized. Actually, we're rebuilding our reserves. You did great... I uh, I am a little concerned, however.}
 {176}{}{Concerned about what?}
-{177}{}{Uhh?}
+{177}{}{Häh?}
 {178}{Over_43}{I - I don't like your reports. What was in the reports, that is. Heh. In fact, they scared the heck out of me. It's those mutants. I've done some calculations and, well, I've come to an unpleasant conclusion.}
 {179}{}{What's that?}
 {180}{Over_44}{[Sigh] The mutant population is far greater than could be expected by natural growth or mutations. This leads me to believe in - I don't really understand it. But it looks like someone's generating new mutants. And at a startling rate.}
@@ -125,7 +125,7 @@
 {224}{Over_68}{Is the mutant leader... taken care of?}
 {225}{}{Nein.}
 {226}{}{He will be... soon.}
-{227}{}{Nuh.}
+{227}{}{Nö.}
 {228}{Over_69}{I know this has been hard on you. But this Master's the type who'll rebuild his mutant army. Then he'll come for us. Please, go out and finish the job.}
 {229}{Over_70}{Well, Th - Tha - That's great. That's very good. You sound like you're in control out there. Please, finish this up soon so that you and I can... When you're out there, remember, the people of the Vault know you've saved them.}
 {230}{Over_71}{We can't have this. Not now. Not with everything else going on. The rules of the Vault are there for our protection and the survival of our species.}
@@ -140,7 +140,7 @@
 {239}{Over_76}{Keep looking for a replacement chip. It's the only way we can maintain our independence and the security that comes with our seclusion.}
 {240}{Over_77}{We're taking a terrible risk by showing these people the way to our Vault. I understand your choice, and it may be what saves us. But I'm worried. Can we trust these people?}
 {241}{}{I trust them.}
-{242}{}{I understand.}
+{242}{}{Ich verstehe.}
 {243}{Over_78}{I'm sure you do, but we need that replacement chip for our long-term survival and economic stability. We don't produce as many goods as we need to pay for this water, and soon we won't be able to pay. Find the chip.}
 {244}{Over_79}{I'm sure you do. You must also understand our need for that replacement chip. Please keep looking.}
 {245}{Over_80}{Please keep looking for the Water Chip. These water caravans are going to cause us problems in the long run.}

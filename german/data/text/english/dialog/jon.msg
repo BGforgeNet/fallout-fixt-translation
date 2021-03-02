@@ -1,7 +1,7 @@
-{100}{}{What do you want?}
+{100}{}{Was willst du?}
 {101}{}{Your guards said you had a job for me.}
 {102}{}{I don't like your attitude, old man.}
-{103}{}{Nothing.}
+{103}{}{Nichts.}
 {104}{}{Fluup.}
 {105}{}{I might... Have you ever dealt with a vicious murdering band of thieves before?}
 {106}{}{Don't tell me. You've got a gang problem.}
@@ -53,7 +53,7 @@
 {152}{}{What?! You again? What do you want now?}
 {153}{}{I've reconsidered. I'll take the job, old man.}
 {154}{}{I don't like your attitude, old man.}
-{155}{}{Nothing.}
+{155}{}{Nichts.}
 {156}{}{[He looks at you warily] The Blades' camp is to the north of here. Come back when you've done the job, and I'll pay you 2000 caps.}
 {157}{}{Why haven't you taken care of it yet?}
 {158}{}{I changed my mind.}
@@ -77,11 +77,11 @@
 {176}{}{You see: Jon Zimmerman, mayor of Adytum.}
 {177}{}{Yeah, what do you want?}
 {178}{}{I have something you should listen to about your son.}
-{179}{}{Never mind.}
+{179}{}{Macht nichts.}
 {180}{}{Blorb.}
 {181}{}{Wer bist du?}
 {182}{}{I'm Jon Zimmerman, mayor of Adytum. What's it to you?}
-{183}{}{Hello.}
+{183}{}{Hallo.}
 {184}{}{Good to see you.}
 {185}{}{Thanks for all your help.}
 {186}{}{My son can now rest in peace.}

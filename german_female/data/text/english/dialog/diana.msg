@@ -3,7 +3,7 @@
 {102}{}{I'm looking for a woman named Tandi. Have you seen her?}
 {103}{}{Never mind, thanks.}
 {104}{}{How about a date?}
-{105}{}{What do you do here?}
+{105}{}{Was machst du hier?}
 {106}{}{What can you tell me about this camp?}
 {107}{}{Eurrreh?}
 {108}{}{If she is one of those women from Shady Sands, maybe you should look there. I just work here.}

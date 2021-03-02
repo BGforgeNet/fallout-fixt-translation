@@ -28,7 +28,7 @@
 {127}{}{You don't rule here. You don't belong here. Death to the walking dead!}
 {128}{}{Never!}
 {129}{}{That's what I like: initiative. But you should not have killed them without my orders. I don't like too much initiative.}
-{130}{}{What do you want?}
+{130}{}{Was willst du?}
 {131}{}{I want you to set the girl free.}
 {132}{}{I want you to die.}
 {133}{}{I've come in peace to negotiate the release of Tandi.}
@@ -50,7 +50,7 @@
 {149}{}{Your bribe is not worth my time. Kill him.}
 {150}{}{You think a man, such as I, believes in the afterlife? This world is dying, and I shall take what I want! You will never realize the strength required to make such a decision!}
 {151}{}{What do you want now?}
-{152}{}{Nothing.}
+{152}{}{Nichts.}
 {153}{}{I want the girl.}
 {154}{}{Lorrk.}
 {155}{}{Then you disturb me. Leave.}
@@ -72,9 +72,9 @@
 {171}{}{OK.}
 {172}{}{Hmm, you fight better than I expected. I haven't had a good beating since my father slapped me around the room. You deserve the Shady Sands woman. Take her and leave. Don't come back.}
 {173}{}{Take your miserable hide and leave. If you ever return, I will not be so gentle.}
-{174}{}{What do you want?}
+{174}{}{Was willst du?}
 {175}{}{I'm an explorer.}
-{176}{}{I want to join.}
+{176}{}{Ich möchte beitreten.}
 {177}{}{We don't like those kinds of people. We can't have that here. Kill him.}
 {178}{}{You? Want to join us? Whatever for?}
 {179}{}{To kick some serious ass.}
@@ -91,7 +91,7 @@
 {190}{}{Scum! You will pay for that!}
 {191}{}{Ha! I like your style. A little sloppy, but it works. Consider yourself a friend of the Khans. Leave my sight now.}
 {192}{}{What do you want now?}
-{193}{}{Nothing.}
+{193}{}{Nichts.}
 {194}{}{I want some weapons and armor.}
 {195}{}{Grawp.}
 {196}{}{You must fend for yourself.}

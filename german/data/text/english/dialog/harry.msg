@@ -10,7 +10,7 @@
 {109}{}{Mom?}
 {110}{Harry_01}{Oooo... That was snazzy like, huh?}
 {111}{}{Nah, I was just fooling you. I'm not a ghoul.}
-{112}{}{What do you do here?}
+{112}{}{Was machst du hier?}
 {113}{Harry_02}{You not ghoul! I knew, I knew! Not fool Harry!}
 {114}{}{Yeahhh, that's pretty obvious.}
 {115}{}{You're right. And now that you know, I'll have to kill you.}
@@ -61,7 +61,7 @@
 {160}{Harry_26}{Hey, Harry hear about you. You break the Vats!}
 {161}{}{Yep, I did. And now I'm going to take you out.}
 {162}{}{Yes, I'm the one. What are you going to do about it?}
-{163}{}{Uh-huh.}
+{163}{}{A-ha.}
 {164}{Harry_27}{Uhh, me let you go. Okay? You not show face here again? Please?}
 {165}{}{Not good enough.}
 {166}{}{Goodbye. I don't expect to see you again.}

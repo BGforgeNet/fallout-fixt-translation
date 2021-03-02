@@ -2,7 +2,7 @@
 {101}{}{You see a Child. He looks pensive.}
 {102}{}{Excuse me, brother. You startled me. How may I serve the Master?}
 {103}{}{Quip!}
-{104}{}{What are you doing?}
+{104}{}{Was machst du?}
 {105}{}{Ah, yes, a Super Mutant in training. I will return to my tasks.}
 {106}{}{If you do not know, it is none of your concern. If you are inquiring about something you should not know, then I will have to report you to our supervisors. You should know better.}
 {107}{}{I am a person of high importance.}

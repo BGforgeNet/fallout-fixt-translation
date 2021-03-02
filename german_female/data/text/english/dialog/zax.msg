@@ -53,7 +53,7 @@
 {152}{}{Thanks. Can we change the subject?}
 {153}{}{I am delighted to have been of assistance.}
 {154}{}{I am beyond a typical rating in human terms. However, it would be safe to say that no more than one ten billionth of the history of human population can match my reasoning capabilities.}
-{155}{}{Uh... yeah.}
+{155}{}{Äh...ja.}
 {156}{}{Right... can we talk about something else?}
 {157}{}{My research into the Forced Evolution Virus, or FEV, indicates that it is a shifting-absorptive virus. It copies DNA patterns much like RNA, storing these patterns in exons.}
 {158}{}{These exons, combined with the FEV, are re-injected into the host cells in typical viral infectious fashion. This causes the host cells to 'regenerate' their DNA.}
@@ -90,22 +90,22 @@
 {189}{}{Level four.}
 {190}{}{Level five.}
 {191}{}{Level six.}
-{192}{}{Never mind.}
+{192}{}{Macht nichts.}
 {193}{}{Level Four: Research Facility. This level contains testing areas and laboratories for experiments in biology and physics.}
 {194}{}{Tell me about level five.}
 {195}{}{Tell me about level six.}
 {196}{}{Back up a bit.}
-{197}{}{Thanks.}
+{197}{}{Danke.}
 {198}{}{Level Five: Secure Testing Labs. This level contains a lab for experimental prototype testing and a research lab for classified subjects. These subjects provided some of the necessary impetus for the development of FEV.}
 {199}{}{Tell me about level four.}
 {200}{}{Tell me about level six.}
 {201}{}{Back up a bit.}
-{202}{}{Thanks.}
+{202}{}{Danke.}
 {203}{}{Level Six: Barracks and Central Operations. Contains living facilities for lab personnel and guard contingents, and operations meeting room.}
 {204}{}{Tell me about level four.}
 {205}{}{Tell me about level five.}
 {206}{}{Back up a bit.}
-{207}{}{Thanks.}
+{207}{}{Danke.}
 {208}{}{Several doors require a specific passkey to access. You must physically locate and use the correct passkey.}
 {209}{}{I do, however, have control of the secondary security locks to the weapon locker. I will release those locks. You will still need the Red Passkey to open the locker, however.}
 {210}{}{You do not register as an individual of sufficient clearance to requisition that information.}

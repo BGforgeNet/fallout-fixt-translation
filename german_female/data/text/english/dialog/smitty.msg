@@ -1,7 +1,7 @@
 {100}{}{You see: Smitty.}
 {101}{}{You see a large, muscular man.}
 {102}{}{Good day. What can I do for you?}
-{103}{}{What do you want?}
+{103}{}{Was willst du?}
 {104}{}{May I ask your name?}
 {105}{}{I need you to fix these parts for me, so that I can fix your hydroponic farms.}
 {106}{}{I'd like to buy something.}

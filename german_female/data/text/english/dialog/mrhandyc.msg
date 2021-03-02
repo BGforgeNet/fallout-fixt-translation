@@ -27,7 +27,7 @@
 {126}{}{Yeah, yeah, skip to the interesting parts.}
 {127}{}{Could you be more specific?}
 {128}{}{[Click] Unit #462 can perform nuclear reactor fuel core replacements, hazardous materials cleanup, radiation cleansing, and basic mechanical repair procedures.}
-{129}{}{Anything else?}
+{129}{}{Noch irgendwas?}
 {130}{}{[Beep!] Unit #462 is also equipped with self-maintenance routines, self-defense mechanisms, and a fully customizable operating system.}
 {131}{}{Self-defense mechanisms?}
 {132}{}{Okay, thanks.}

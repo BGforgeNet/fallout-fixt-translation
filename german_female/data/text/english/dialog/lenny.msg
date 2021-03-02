@@ -28,7 +28,7 @@
 {127}{}{I want to know about the power generator.}
 {128}{}{See you around.}
 {129}{}{I don't like the Fools, they're always picking on me. They live in the garage to the north. They fight the Crypts, but we all lose.}
-{130}{}{Thanks.}
+{130}{}{Danke.}
 {131}{}{The Crypts are really mean. They hold the 'lectricity and if we are bad, they take it away from us. They hate the Fools, worse than any. Worse than they hate my friends.}
 {132}{}{What's the 'lectricity?}
 {133}{}{The gen'rator? Oh, I don't know about that.}

@@ -2,7 +2,7 @@
 {101}{}{Was machst du hier?}
 {102}{}{Dis!}
 {103}{}{Go bye.}
-{104}{}{I'm just looking around.}
+{104}{}{Ich schau mich nur um.}
 {105}{}{I am here to kill you!}
 {106}{}{Just curious as to what is going on around here.}
 {107}{}{Really? And what might you be looking for?}
@@ -41,7 +41,7 @@
 {140}{}{True. We scouts do many raids on the Children, and to much loss lately. This spy costs us dearly.}
 {141}{}{You seem really torn up about this. I will look for the spy and kill him.}
 {142}{}{Could the spy be a scout?}
-{143}{}{Thank you for your help.}
+{143}{}{Danke für die Hilfe.}
 {144}{}{Why would one of us do that?}
 {145}{}{If you kill off the scouts, then you stop the raids.}
 {146}{}{I don't know. Why would you do that?}

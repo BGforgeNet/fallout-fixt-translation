@@ -18,7 +18,7 @@
 {117}{}{Oh, gawd, I'm too pretty to die.}
 {118}{}{Thank you for what you did. No one ever took care of me like that before.}
 {119}{}{I can really take care of you later.}
-{120}{}{You're welcome.}
+{120}{}{Gern geschehen.}
 {121}{}{Unh.}
 {122}{}{Thanks again.}
 {123}{}{Is that all you can think about? Geez. Some people.}

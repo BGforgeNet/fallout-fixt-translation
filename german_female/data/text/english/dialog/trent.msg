@@ -30,7 +30,7 @@
 {129}{}{Are you crazy?! I put three rounds from my Desert Eagle into it, and it didn't even flinch!}
 {130}{}{I don't care if it's a mutant, an alien, or a demon from hell, I never want to see another one of those things as long as I live!}
 {131}{}{I'm just a guard, dammit! Don't blame me! And they pay me well! I don't have any problems with them!}
-{132}{}{How can I help you?}
+{132}{}{Wie kann ich dir helfen?}
 {133}{}{Deathclaws got 'em. I just thought they were stories, but... you wouldn't believe how big they are, or how fast. First we smelled them, then they came over the ridge and tore into us. We all ran, and somehow I got away.}
 {134}{}{Trent, Trent Barrister. I live in the Hub. Lately work's been getting scarce, and I'm a pretty good shot, so I hired myself as a guard to the Water Merchants. Pay's good, the risk's low - or so I thought.}
 {135}{}{I haven't a clue. That's old tech, ain't it? I suppose scavengers might find one, now and again, but I wouldn't begin to know where to look. No one uses them any more - do they?}

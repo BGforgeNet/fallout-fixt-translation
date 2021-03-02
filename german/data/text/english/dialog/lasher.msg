@@ -121,5 +121,5 @@
 {220}{}{You were not particularly welcome here in the first place. Good riddance to you.}
 {221}{}{Once I did, but many of methods were abandoned in favor of the loud noises you hear in the Auditorium amphitheater. It is a source of bitterness for me. Fortunately, I can still instruct the children. Now if you will excuse me, I have to prepare for their lessons.}
 {222}{}{Uh... it is of course, a rare event, and the animal is given every chance to evolve. Now leave here! Leave here at once!}
-{223}{}{[Done]}
+{223}{}{[Fertig]}
 {224}{}{This may be of some use to you. Take this symbol. Show it to the Nightkin when you wish to pass. It will allow you to see Father Morpheus.}

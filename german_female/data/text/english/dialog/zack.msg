@@ -13,7 +13,7 @@
 {112}{}{You have a real attitude problem.}
 {113}{}{Sorry, maybe I could use some equipment after all.}
 {114}{}{What the hell are you doing here then?}
-{115}{}{Nothing.}
+{115}{}{Nichts.}
 {116}{}{Sicher.}
 {117}{}{Yeah, well until Gabriel says so, you've gotta pay full price like everybody else.}
 {118}{}{I don't know about that.}

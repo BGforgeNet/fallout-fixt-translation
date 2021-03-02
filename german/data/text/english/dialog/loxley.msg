@@ -3,16 +3,16 @@
 {102}{}{It suits you.}
 {103}{}{No, it hurts my ears.}
 {104}{LOX_0A}{Why, thank you. Have to work a bit to keep it with so little refinement about, don't you know. But enough of that. Loxley's the name. And yours is?}
-{105}{}{I'm }
+{105}{}{Ich bin }
 {106}{}{.}
 {107}{}{What's it to you?}
-{108}{}{What is this place?}
+{108}{}{Was ist das für ein Ort?}
 {109}{LOX_1M}{Bloody fine job making it through the defenses, mate! I'm rather impressed. Toss me your name!}
 {110}{LOX_1F}{Bloody impressive making it through the defenses like that! What's your name, luv?}
-{111}{}{I'm }
+{111}{}{Ich bin }
 {112}{}{.}
 {113}{}{What's it to you?}
-{114}{}{What is this place?}
+{114}{}{Was ist das für ein Ort?}
 {115}{}{You got a real interesting accent, my friend.}
 {116}{}{You talk like an idiot.}
 {117}{}{Nuhhh?}
@@ -69,10 +69,10 @@
 {168}{}{No thanks. I would like to ask you some questions, though.}
 {169}{}{Not a chance.}
 {170}{LOX_23}{Well, you made it through my defenses so you certainly have skills. What's your name?}
-{171}{}{I'm }
+{171}{}{Ich bin }
 {172}{}{.}
 {173}{}{What's it to you?}
-{174}{}{What is this place?}
+{174}{}{Was ist das für ein Ort?}
 {175}{}{You got a real interesting accent, my friend.}
 {176}{}{You talk like an idiot.}
 {177}{LOX_24}{What the hell do you want?}

@@ -1,6 +1,6 @@
 {100}{}{You see a desert bandit. Based on how the others look at her, she must have some position of importance or authority.}
 {101}{}{I am Gwen. I'm one of Garl's advisors. Who are you?}
-{102}{}{I'm }
+{102}{}{Ich bin }
 {103}{}{. What do you do around here?}
 {104}{}{I'm nobody special. Can you tell me about your camp?}
 {105}{}{Hroo?}
@@ -15,7 +15,7 @@
 {114}{}{I have ways to make certain undesirables are no longer here.}
 {115}{}{I can see that I was wrong. You probably could do your job well. Goodbye.}
 {116}{}{Prove it!}
-{117}{}{Die!}
+{117}{}{Stirb!}
 {118}{}{It's been so long since I've had a good fight. Too bad you are going to lose. Here is proof of my skills!}
 {119}{}{You'll regret that remark. It will be your last!}
 {120}{}{If that is the best you can do, then I will be doing the world a favor by killing you.}

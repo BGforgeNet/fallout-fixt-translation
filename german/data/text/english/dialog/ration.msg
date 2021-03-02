@@ -18,16 +18,16 @@
 {117}{}{Oh... you don't understand me. I guess we really don't have much hope after all. Excuse me while I cry.}
 {118}{}{Ugg!}
 {119}{}{Please find it before my baby dies of thirst.}
-{120}{}{[Done]}
+{120}{}{[Fertig]}
 {121}{}{You've got to find it! Don't let us die like this!}
-{122}{}{[Done]}
+{122}{}{[Fertig]}
 {123}{}{Keep trying. I believe in you. I know you will do everything you can to save us.}
-{124}{}{[Done]}
+{124}{}{[Fertig]}
 {125}{}{I am afraid of what is happening. Someone has been stealing water and now everyone is on edge.}
 {126}{}{Who would do such a thing?}
-{127}{}{What happened?}
+{127}{}{Was ist passiert?}
 {128}{}{Some people have been accused and fights have broken out over it but nobody really knows.}
-{129}{}{Okay. Thanks.}
+{129}{}{OK. Danke.}
 {130}{}{Some people reported that their water had been stolen. They weren't given more water but some friends shared with them. After this, everybody got very paranoid and started guarding their water. A few days later, someone knocked the guard out in the ration supply area and stole water.}
 {131}{}{That is terrible! What can I do?}
 {132}{}{Maybe you can stop whomever is doing this.}

@@ -4,7 +4,7 @@
 {103}{}{Yes? Can I help you?}
 {104}{}{Sorry, still no new inventory.}
 {105}{}{Do you have any armor to sell?}
-{106}{}{Greetings.}
+{106}{}{Grüße.}
 {107}{}{Good day.}
 {108}{}{See anything you like?}
 {109}{}{Thanks for stopping by.}
@@ -14,7 +14,7 @@
 {113}{}{Tschüss.}
 {114}{}{Sorry, I'll try to get more inventory soon.}
 {115}{}{I think I might need to diversify.}
-{116}{}{Thanks.}
+{116}{}{Danke.}
 {117}{}{Thank you for stopping by.}
 {118}{}{Sorry if I didn't have what you needed.}
 {119}{}{Have a good day.}

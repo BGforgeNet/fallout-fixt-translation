@@ -10,7 +10,7 @@
 {109}{}{Hne.}
 {110}{}{Wer bist du?}
 {111}{}{You sick dogs! I tire of your life!}
-{112}{}{What is this place?}
+{112}{}{Was ist das für ein Ort?}
 {113}{}{You are nearly a Nightkin now. I hope the dipping will not damage your intelligence further.}
 {114}{}{I am part of the Unity. I am a glorious servant of our Master. I will be the one who sees you become part of the Unity.}
 {115}{}{You will find out soon enough.}

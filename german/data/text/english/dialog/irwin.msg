@@ -28,5 +28,5 @@
 {303}{}{I'll perforate you like swiss cheese!}
 {400}{}{Not quite. Could you tell me again how to get there?}
 {401}{}{I will, but please hurry. I want to go back to my home.}
-{402}{}{Thanks.}
+{402}{}{Danke.}
 {403}{}{Tank-u!}

@@ -73,7 +73,7 @@
 {172}{}{You have stumbled across some items laying on the ground.}
 {173}{}{You spot the remains of a caravan, being looted by raiders.}
 {174}{}{You come across the remnants of a merchant and his guards.}
-{175}{}{You encounter a traveler.}
+{175}{}{Du begegnest einem Reisenden.}
 {176}{}{You have stumbled across a small patch of ruined and deserted buildings.}
 {187}{}{}
 {188}{}{}

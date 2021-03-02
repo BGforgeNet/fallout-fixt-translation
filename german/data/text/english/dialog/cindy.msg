@@ -13,9 +13,9 @@
 {112}{}{Who do you think might be involved?}
 {113}{}{I am afraid of what is happening. Someone has been stealing water and now everyone is on edge.}
 {114}{}{Who would do such a thing?}
-{115}{}{What happened?}
+{115}{}{Was ist passiert?}
 {116}{}{Some people have been accused and fights have broken out over it, but nobody really knows.}
-{117}{}{Okay. Thanks.}
+{117}{}{OK. Danke.}
 {118}{}{Some people reported that their water had been stolen. They weren't given more water, but some friends shared with them. After that, everybody got very paranoid and started guarding their water. A few days later, someone knocked out the guard in the ration supply area and stole water rations from the supply lockers.}
 {119}{}{That's terrible! What can I do?}
 {120}{}{Maybe you can stop whomever is doing this.}

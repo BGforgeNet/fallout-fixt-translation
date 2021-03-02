@@ -35,7 +35,7 @@
 {134}{}{Mr. Decker is a distinguished businessman in a less than distinguished business. Anything else?}
 {135}{}{I want information on Doc Morbid.}
 {136}{}{Gimme an iguana on a stick.}
-{137}{}{Nothing.}
+{137}{}{Nichts.}
 {138}{}{He was a mean son of a bitch and anyone who isn't glad he's dead is a damned liar. Can I take your order?}
 {139}{}{Gimme an iguana on a stick.}
 {140}{}{Tell me a little about the Water Merchants.}
@@ -68,7 +68,7 @@
 {167}{}{Someone stole a necklace from the Hightowers. Man, did they ever make a big mistake. They're dead for sure.}
 {168}{}{Someone killed Jain over at the Cathedral. I hear she was a real bitch!}
 {169}{}{Well, the only new thing is that the Children of the Cathedral have taken over the hospital. It's pretty boring around here lately. Mind you, they're a strange crowd.}
-{170}{}{Anything else?}
+{170}{}{Noch irgendwas?}
 {171}{}{Gimme an iguana on a stick.}
 {172}{}{What can you tell me about a Water Chip?}
 {173}{}{What can you tell me about Decker?}

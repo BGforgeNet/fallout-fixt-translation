@@ -11,16 +11,16 @@
 {110}{}{I believe your quarters are on level two.}
 {111}{}{I'd appreciate some privacy.}
 {112}{}{Hi there, nice to see you.}
-{113}{}{Hello.}
-{200}{}{Hi.}
-{201}{}{Hello.}
+{113}{}{Hallo.}
+{200}{}{Hey.}
+{201}{}{Hallo.}
 {202}{}{Good day.}
-{203}{}{Yes?}
+{203}{}{Ja?}
 {204}{}{What?}
 {205}{}{Whats up?}
-{206}{}{What do you want?}
+{206}{}{Was willst du?}
 {207}{}{You want something?}
-{209}{}{Go away.}
+{209}{}{Hau ab.}
 {210}{}{Stop bothering me.}
 {211}{}{Lass mich in Ruhe.}
 {212}{}{You are annoying me.}

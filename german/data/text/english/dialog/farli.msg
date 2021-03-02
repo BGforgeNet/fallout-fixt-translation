@@ -1,5 +1,5 @@
 {100}{}{You see: Paladin Farli.}
-{101}{}{Greetings.}
+{101}{}{Grüße.}
 {102}{}{Chad'ra chu ka?}
 {103}{}{Katja chu nee ka Chak'ra Farli.}
 {104}{}{Farli, nee ko }

@@ -1,4 +1,4 @@
-{100}{}{You see a woman.}
+{100}{}{Du siehst eine Frau.}
 {101}{}{I do not wish to die, sir. I am not a soldier.}
 {102}{}{I do not wish to die, ma'am. I am not a soldier.}
 {103}{}{Start talking, and I'll let you live.}
@@ -23,7 +23,7 @@
 {122}{}{This place is boring! Where's the blood? Where's the death?}
 {123}{}{Greetings Initiate. How may I be of service to you?}
 {124}{}{I was a little nervous about our long range plans.}
-{125}{}{What's going on around here?}
+{125}{}{Was ist hier los?}
 {126}{}{Where's the Master?}
 {127}{}{Who's in charge here?}
 {128}{}{Gimme a break sister. Nobody serves another person unless a gun's against their head!}
@@ -196,7 +196,7 @@
 {295}{}{Death is never a service, even when it's a necessity. Goodbye sir.}
 {296}{}{Death is never a service, even when it's a necessity. Goodbye miss.}
 {297}{}{That is something I've wondered myself. But such criticism is not warranted, I'm certain. Perhaps you should speak to the children.}
-{298}{}{[Done]}
+{298}{}{[Fertig]}
 {299}{}{Ich gehen.}
 {300}{}{We have taken initiates in sooner, but the Church is performing some major Crusades, and I think we're being more selective than usual about recruits. But faith will persevere, and patience is a virtue. Good luck, my friend.}
 {301}{}{We have taken initiates in sooner, but the Church is performing some major Crusades, and I think we're being more selective than usual about recruits. But faith will persevere, and patience is a virtue. Good luck, my friend.}

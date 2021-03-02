@@ -4,7 +4,7 @@
 {103}{}{What?}
 {104}{}{Well, who are you?}
 {105}{}{Nothing. It's just that no one has ever made it back from the Ancient Order.}
-{106}{}{What do you do here?}
+{106}{}{Was machst du hier?}
 {107}{}{What? Then why did they send me down there?}
 {108}{}{It was difficult, but not impossible.}
 {109}{}{Heh, heh. I guess they just wanted to get rid of ya, huh? Well, the joke's on them.}
@@ -19,7 +19,7 @@
 {118}{}{How can I get my hands on some Power Armor?}
 {119}{}{I'd give ya this Power Armor right here, but it's missing it's Systolic Motivator. It's useless without it.}
 {120}{}{Where could someone get one of those?}
-{121}{}{Well, thanks anyway.}
+{121}{}{Naja, trotzdem vielen Dank.}
 {122}{}{Well, they've got more than enough up in the supply room, but Michael and his damn forms say that this particular suit isn't up to specs. Damn bureaucrats.}
 {123}{}{What do you mean, not up to specs?}
 {124}{}{So if I brought you a Systolic Motivator, would you fix it for me?}
@@ -37,7 +37,7 @@
 {136}{}{How can I get some Power Armor without studying for a hundred years?}
 {137}{}{The moniker's Kyle. I've never met a myth before.}
 {138}{}{What's that supposed to mean?}
-{139}{}{What do you do here?}
+{139}{}{Was machst du hier?}
 {140}{}{Neither have I. I'll see you around.}
 {141}{}{To hear Maxson's stories you'd think it was the ninth level of hell.}
 {142}{}{Maxson? General Maxson?}

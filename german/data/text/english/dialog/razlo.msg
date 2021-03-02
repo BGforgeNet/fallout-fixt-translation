@@ -20,7 +20,7 @@
 {119}{}{My grief knows no end. Tandi, the only child of my good friend, is gone. I cannot work right now.}
 {120}{}{I'm Razlo. Can I help you?}
 {121}{}{Not right now, but it was nice meeting you.}
-{122}{}{I need healing.}
+{122}{}{Ich brauche Heilung.}
 {123}{}{Hnngh!}
 {124}{}{Hmmm. I think I've seen brahmin with more brain cells than you. Well, let's see if you're wounded.}
 {125}{}{Well, you seem fine to me. Perhaps later, then?}
@@ -31,17 +31,17 @@
 {130}{}{Help, I need some healing.}
 {131}{}{Hello, again. How can I be of service?}
 {132}{}{Hello again. Just stopping by.}
-{133}{}{I need healing.}
+{133}{}{Ich brauche Heilung.}
 {134}{}{Ug!}
 {135}{}{It was nice seeing you again. Have a good day.}
 {136}{}{Of course. It's you again. Now what?}
-{137}{}{Nothing.}
-{138}{}{I need healing.}
+{137}{}{Nichts.}
+{138}{}{Ich brauche Heilung.}
 {139}{}{Luki!}
 {140}{}{Of course you do.}
 {141}{}{Can I help you?}
 {142}{}{Nein.}
-{143}{}{I need healing.}
+{143}{}{Ich brauche Heilung.}
 {144}{}{I've been poisoned!}
 {145}{}{What do you know about radscorpions?}
 {146}{}{I have a sample of the radscorpion poison, can you do something with it?}
@@ -53,11 +53,11 @@
 {152}{}{Stop by again, but stay healthy next time.}
 {153}{}{Not too much. They seem to be extremely large versions of the North American Emperor scorpion. Contrary to my medical knowledge, their poison has grown more potent, not diluted, as I would expect. Seth has been hunting them, which helps some of my tests.}
 {154}{}{And how such a large creature can even be possible by natural evolution, or even radiation induced mutation is beyond me.}
-{155}{}{Thanks.}
+{155}{}{Danke.}
 {156}{}{You seem well educated. What are you doing here?}
-{157}{}{Anything else?}
+{157}{}{Noch irgendwas?}
 {158}{}{They seem to be sensitive to light. Nocturnal. If I could get a sample of their poison, especially the venom production sac located in their tail, I could create an anti-venom.}
-{159}{}{Thanks.}
+{159}{}{Danke.}
 {160}{}{Doc Morbid in Junktown taught me some. And just because we live in stone huts, does not mean we are less intelligent or educated. Have a nice day.}
 {161}{}{Let me see the sac! Yes, I can do something with this.}
 {162}{}{Here, take this as a free sample. It seems to work well against radscorpion stings, of course, but it shows much potential as a general anti-venom and poison cure.}

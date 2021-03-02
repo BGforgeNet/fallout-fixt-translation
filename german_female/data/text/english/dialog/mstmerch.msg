@@ -6,7 +6,7 @@
 {105}{}{Nothing, bye.}
 {106}{}{Shek.}
 {107}{}{Sure, great. You're hired. Wait. What position? Oh, caravan guard, right? Yeah, sure. You can work for us. You look okay. Anything else?}
-{108}{}{Nope.}
+{108}{}{Nö.}
 {109}{}{Yes, do you have a Water Chip?}
 {110}{}{Veh?}
 {111}{}{Sorry, no time for nonsense!}
@@ -25,7 +25,7 @@
 {124}{}{Okay fine. How much money do you want to start the caravans?}
 {125}{}{I'm sorry. I didn't mean to imply anything, but I can't take the risk.}
 {126}{}{Well, if you change your mind, let me know. I'm very curious now.}
-{127}{}{Hello again.}
+{127}{}{Hallo nochmal.}
 {128}{}{I need a Water Chip.}
 {129}{}{I'm still looking for a Water Chip.}
 {130}{}{I want a job.}

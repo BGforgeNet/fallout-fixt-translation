@@ -30,9 +30,9 @@
 {129}{}{Endurance.}
 {130}{}{Intelligence.}
 {131}{}{Agility.}
-{132}{}{Never mind.}
+{132}{}{Macht nichts.}
 {133}{}{That's easy to do, but there's a long recovery time. It only costs }
-{134}{}{I'm }
+{134}{}{Ich bin }
 {135}{}{I'll do it!}
 {136}{}{I'll pass.}
 {137}{}{Now that's a difficult operation. It costs }
@@ -49,7 +49,7 @@
 {148}{}{I'm sorry, but you are an outsider. After you're in the Brotherhood for ten years or so I'll be able to do the operation for free, but we have expenses and you're not a regular working member of the Brotherhood yet.}
 {149}{}{Let me know when you have the necessary funds for this operation.}
 {150}{}{I cannot accurately assess your physical strength while you are wearing Power Armor. Please remove it and speak with me again.}
-{151}{}{I'm }
+{151}{}{Ich bin }
 {152}{}{.}
 {153}{}{Did you want to ask about another one?}
 {154}{}{Okay, here goes nothing... Just kidding. We can start right away. (You breathe in the anesthetic and slowly slip away)}
@@ -67,7 +67,7 @@
 {176}{}{Okay, you're ready for duty. (You move your limbs and can feel the increased speed and control) All I ask of you is to please not damage my masterpiece.}
 {180}{}{I hope you don't end up with a lazy eye like the last one... (You struggle to fight the drugs but they are too powerful)}
 {181}{}{My, my, you are striking. I really outdid myself. (She looks you up and down a few times and then seems to snap out of it) Oh, sorry, you're free to go now.}
-{182}{}{Thanks!}
+{182}{}{Danke auch!}
 {185}{}{Not as striking as you.}
 {200}{}{You see the Doctor's assistant.}
 {222}{}{Well, I can help make you stronger, more perceptive, increase your endurance, help improve your learning process, and increase your dexterity. Which would you like more information on?}

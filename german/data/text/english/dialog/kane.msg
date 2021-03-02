@@ -182,7 +182,7 @@
 {282}{}{That is not what you should be concerned about. No one makes a hit one anyone without our okay. I think it would be best if you left our city, while you still can.}
 {283}{}{I'm afraid you do and if you know what's best for you, you should leave this city while you still can.}
 {284}{}{I didn't think you wanted the job. I hope it was just a misunderstanding. I'll pay you half, and be grateful that I'm giving you anything. [Kane gives you 1500 caps]}
-{285}{}{Thanks.}
+{285}{}{Danke.}
 {286}{}{Oh sorry, I thought I had the job. Is there chance I can still work for you?}
 {287}{}{Give me the rest of the money now or you'll regret it!}
 {288}{}{Ghu?}
@@ -236,16 +236,16 @@
 {337}{}{No you don't. Goodbye.}
 {338}{}{That's a secret you'll be taking to the grave. Decker will never talk to a skag like you.}
 {339}{}{Then I suggest you leave.}
-{340}{}{Yes?}
+{340}{}{Ja?}
 {341}{}{Lorenzo sent me for a job.}
 {342}{}{Hi!}
 {343}{}{I want a job.}
 {344}{}{Nothing, bye.}
 {345}{}{Kru.}
-{346}{}{Hi.}
+{346}{}{Hey.}
 {347}{}{How are you?}
 {348}{}{Tschüss.}
-{349}{}{Fine.}
+{349}{}{Fein.}
 {350}{}{How are the kids?}
 {351}{}{Nice day isn't it?}
 {352}{}{You're looking very handsome today.}
@@ -302,14 +302,14 @@
 {403}{}{This way.}
 {404}{}{You know the way, let's go.}
 {405}{}{Open it up boys.}
-{406}{}{All right.}
+{406}{}{Also gut.}
 {407}{}{OK.}
 {408}{}{You can want all you like, now take a hike.}
 {409}{}{Do you have any more jobs?}
 {410}{}{Hi!}
 {411}{}{Nothing, bye.}
 {412}{}{Acru!}
-{413}{}{Hello again.}
+{413}{}{Hallo nochmal.}
 {414}{}{What? You didn't have the nerve, right? [He whispers to you] Don't worry, you get used to it. If he has guards, try waiting until they leave. They have to eat some time right? If you can, distract them. Do what ever it takes, we don't accept failures. Just do it and you'll get your money and then you can high tail it out of here. Now... did you really need anything?}
 {415}{}{Why isn't 'it' done yet. You better get it done. I don't want to see you again until you have some good news, otherwise we'll have a problem. You better not disappoint us.}
 {416}{}{That's it. You've made your last mistake. You better leave town now, if you don't want to stay here... six feet under.}
@@ -324,7 +324,7 @@
 {425}{}{Huh.}
 {426}{}{You won't? Now that's a shame. We can't have people giving their word and then breaking it. I'm sorry we couldn't work together. Have a 'nice' day.}
 {427}{}{Okay! I'll do the damn job. But you better have the money when I'm done with it.}
-{428}{}{Thanks.}
+{428}{}{Danke.}
 {429}{}{Oh, I'll have it. Don't worry.}
 {430}{}{Still alive I see! Well, you must not have made any new friends recently. I hope you keep an eye out for them.}
 {431}{}{[Kane looks quite smug. He just stands there with and evil grin.]}

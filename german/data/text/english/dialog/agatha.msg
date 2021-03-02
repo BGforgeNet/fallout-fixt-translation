@@ -13,7 +13,7 @@
 {112}{}{I could use some help.}
 {113}{}{Hmmm. We'll see.}
 {114}{}{I feel that she is imprisoned. She was the target of hatred. That hate is very strong to the southeast. I'm sure you will find her there. Good luck.}
-{115}{}{Thank you.}
+{115}{}{Danke.}
 {116}{}{You have not heard? Tandi is missing. I feel she was kidnapped. Aradesh is most distraught. This is a terrible thing...}
 {117}{}{I hear that you have saved Tandi. That was the right thing to do. Your karma is strong. I have high hopes for your future.}
 {118}{}{I'm very sorry to hear about Tandi. She was such a bright young woman. She would have done good with her life.}

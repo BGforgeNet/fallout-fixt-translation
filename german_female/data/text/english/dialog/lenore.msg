@@ -1,4 +1,4 @@
-{100}{}{You see a peasant.}
+{100}{}{Du siehst einen Bauer.}
 {101}{}{Oh, yeah, big man running from a scary dog. Phil, you sure showed it. Yep, you sure did.}
 {102}{}{What are you doing, Phil? You're checking the tread on those shoes, aren't you?}
 {103}{}{Man, that dog looks hungry. It sure wants to eat you alive, Phil.}

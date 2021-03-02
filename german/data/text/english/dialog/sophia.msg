@@ -30,7 +30,7 @@
 {302}{}{Äh...}
 {303}{}{Could you direct me to the library?}
 {304}{}{I am looking for Vree.}
-{305}{}{What is this place?}
+{305}{}{Was ist das für ein Ort?}
 {306}{}{If I was lost I wouldn't be asking an idiot like you for help!}
 {307}{}{I can't believe the kind of people we accept as Initiates these days. God help us.}
 {308}{}{This is the library. Here we keep records of all technical data on weaponry and technology, and, of course, the history of the Brotherhood.}
@@ -40,7 +40,7 @@
 {312}{}{Never mind, thank you for your time.}
 {313}{}{I'm looking for a big gun to improve my people-killing skills.}
 {314}{}{I am Vree's assistant. Vree is over there.}
-{315}{}{Thank you.}
+{315}{}{Danke.}
 {316}{}{What is it you do as Vree's assistant?}
 {317}{}{My area of expertise is the history of the Brotherhood. It sounds like a manufacturing problem, perhaps you should ask Vree?}
 {318}{}{I thought the Scribes knew this kind of stuff.}
@@ -73,7 +73,7 @@
 {346}{}{Is there any holodisks that I can have access to?}
 {347}{}{You're obviously not the right person to be talking to. Goodbye.}
 {348}{}{Well, it's good to see someone interested in our great history. Unlike others around here. Here you go. This is a disk of some of our earliest writings.}
-{349}{}{Thank you.}
+{349}{}{Danke.}
 {350}{}{I don't care about this crap. Thanks for nothing.}
 {351}{}{Our history is available to everyone. So that they may learn of our great history... Not that anyone ever looks at them.}
 {352}{}{I would like to see anything you have on the Brotherhood's history.}
@@ -88,24 +88,24 @@
 {361}{}{Yeah, the Brotherhood seems to be filled with idiots.}
 {362}{}{Neither do I. Goodbye.}
 {363}{}{I will not talk with you.}
-{364}{}{How can I help you?}
-{365}{}{What do you do here?}
+{364}{}{Wie kann ich dir helfen?}
+{365}{}{Was machst du hier?}
 {366}{}{Could you tell me about the Brotherhood's history.}
 {367}{}{Sorry, I thought you were someone else. Goodbye.}
 {368}{}{I am Vree's assistant.}
-{369}{}{Thank you.}
+{369}{}{Danke.}
 {370}{}{What is it you do as Vree's assistant?}
 {371}{}{Well, it's good to see someone interested in our great history. Unlike others around here. Here you go. This is a disk of some of our earliest writings.}
-{372}{}{Thank you.}
+{372}{}{Danke.}
 {373}{}{I don't care about this crap. Thanks for nothing.}
 {374}{}{I gave you the disk with some of our early writings on it. Just load it up into your Pip-Boy 2000 and you will be able to read it.}
-{375}{}{Thank you.}
+{375}{}{Danke.}
 {376}{}{I don't care about this crap. Thanks for nothing.}
 {377}{}{I don't like your attitude, and I choose not to talk to you.}
 {378}{}{So be it. Goodbye!}
 {379}{}{I'm sorry, I was very rude and I apologize.}
 {380}{}{I accept your apology. Now how can I help you? }
-{381}{}{What do you do here?}
+{381}{}{Was machst du hier?}
 {382}{}{Could you tell me about the Brotherhood's history.}
 {383}{}{Sorry, I thought you were someone else. Goodbye.}
 {384}{}{I am Vree's assistant. Vree is in the Learning Center.}

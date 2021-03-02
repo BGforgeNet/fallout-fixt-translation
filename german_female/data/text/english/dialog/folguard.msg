@@ -16,12 +16,12 @@
 {115}{}{. Your destroyer.}
 {116}{}{Who are the Followers?}
 {117}{}{Okay. I can see that you are a little slow. Who you?}
-{118}{}{Me }
+{118}{}{Ich }
 {119}{}{. You dead.}
-{120}{}{Me }
+{120}{}{Ich }
 {121}{}{. Me hep.}
 {122}{}{Ich töten!}
-{123}{}{Me }
+{123}{}{Ich }
 {124}{}{. Me go.}
 {125}{}{You want to help? I think you will need to talk to Nicole or Jake if you want to help us. They have more time to deal with slower people.}
 {126}{}{Okay. Just stay out of trouble around here.}
@@ -69,7 +69,7 @@
 {168}{}{I'm glad to know that. Thanks for your time.}
 {169}{}{You are the double agent!!!}
 {170}{}{Not really. The only thing I can think of is that the person would have to have access to some information and have access to the outside. You might want to look to the initiates or scouts.}
-{171}{}{Thanks. Goodbye.}
+{171}{}{Danke. Auf Wiedersehn.}
 {172}{}{Nicole will be pleased then, to know that I killed the agent.}
 {173}{}{You must be right. Thank you for setting me straight.}
 {174}{}{I think you are the double agent. Trying to trick me, I see. Well now you DIE!}

@@ -26,7 +26,7 @@
 {125}{}{You clear out the Deathclaws, all of them, and you got yourself a deal.}
 {126}{}{Okay. I'll do it.}
 {127}{}{I'll have to think about it.}
-{128}{}{Hello again.}
+{128}{}{Hallo nochmal.}
 {129}{}{What is it you do here?}
 {130}{}{Tschüss.}
 {131}{}{}
@@ -52,7 +52,7 @@
 {151}{}{You got it - just take whatever you want. We're pulling out of here in a day or two, but we'll leave more weapons and ammo than you could carry right now. Just come back here whenever you need them.}
 {152}{}{}
 {153}{}{}
-{154}{}{Thank you.}
+{154}{}{Danke.}
 {155}{}{}
 {156}{}{No problem.}
 {157}{}{}

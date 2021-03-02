@@ -3,7 +3,7 @@
 {102}{}{Greetings sister. My name is Talius. How might I assist you today?}
 {103}{}{Greetings brother. My name is Talius. How might I assist you today?}
 {104}{}{Huh?}
-{105}{}{Me }
+{105}{}{Ich }
 {106}{}{. Me }
 {107}{}{.}
 {108}{}{I am }

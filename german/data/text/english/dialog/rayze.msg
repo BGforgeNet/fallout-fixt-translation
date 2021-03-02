@@ -13,7 +13,7 @@
 {112}{}{Ja.}
 {113}{}{Nein.}
 {114}{}{Well, then. Let's try you out. We're gonna send you on a little mission. Go scout out the Fools to the north, and report back to me.}
-{115}{}{Ok.}
+{115}{}{OK.}
 {116}{}{I don't think so.}
 {117}{}{Then little boys should leave before they get a spanking.}
 {118}{}{We don't like strangers in our town. If you want to stay, you join us. If you don't, you might regret staying in Scrapheap.}

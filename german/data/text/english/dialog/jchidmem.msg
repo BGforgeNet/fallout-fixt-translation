@@ -30,7 +30,7 @@
 {129}{}{Nein.}
 {130}{}{You have more than enough to make the donation. You need schooling in math, my child.}
 {131}{}{We are the Children of the Cathedral. We live and work amongst those unfortunates living in the wasteland. If you ever get to L.A. Boneyard, stop by the Cathedral.}
-{132}{}{Thank you.}
+{132}{}{Danke.}
 {133}{}{What do you do?}
 {134}{}{We are the healers and teachers of peace. We heal the body to heal the spirit. All we ask is a small donation to pay for our healing supplies.}
 {135}{}{Sounds like a good idea to me.}

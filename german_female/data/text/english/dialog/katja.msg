@@ -90,7 +90,7 @@
 {189}{}{Hubba hubba!}
 {190}{}{Leave!}
 {191}{}{I'm sorry but I just don't understand you. Goodbye.}
-{980}{}{I don't know anything about that.}
+{980}{}{Darüber weiß ich nichts.}
 {981}{}{I can't really say that I've heard of that.}
 {982}{}{No, I have not heard of that.}
 {1000}{}{Water}

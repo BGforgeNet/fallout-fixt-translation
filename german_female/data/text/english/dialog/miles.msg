@@ -42,7 +42,7 @@
 {141}{}{Well, if you ever change your mind, just go see Mrs. Stapleton and then head on back here.}
 {142}{}{Had a chance to get to the Hub yet and visit Mrs. Stapleton?}
 {143}{}{Yeah, here are the books.}
-{144}{}{Not yet.}
+{144}{}{Noch nicht.}
 {145}{}{[Miles takes the books from you, and starts flipping through them.] Hmmmm. Yes, hmmmm. [He mumbles to himself for a few more minutes.] Well, I think I can figure it out, but it will take a full day for the bonding to occur. Is that acceptable?}
 {146}{}{Not a problem.}
 {147}{}{Sorry, don't have the time.}

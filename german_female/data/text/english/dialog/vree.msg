@@ -3,7 +3,7 @@
 {102}{}{I'm sorry. I'll come back another time.}
 {103}{}{I'll be back.}
 {104}{}{How could I know your schedule?}
-{105}{}{Uhhh?}
+{105}{}{Hääh?}
 {106}{Vree01}{Don't raise your voice to me. Do I have to have one of the Brothers teach you some manners.}
 {107}{}{Sorry.}
 {108}{}{Yeah, okay. Whatever.}
@@ -23,18 +23,18 @@
 {122}{}{How can I prevent radiation poisoning?}
 {123}{}{What's causing all the mutations?}
 {124}{Vree18}{Speak to the Knights. Ask them to show you one of the latest laser pistols I designed.}
-{125}{}{Thanks!}
+{125}{}{Danke auch!}
 {126}{}{I've got another question...}
 {127}{Vree19}{You are not yet capable of properly using the sacred knowledge.}
 {128}{Vree21}{Use your Pip-Boy 2000 to read the disks. Insert the disk into the reader. If you have the proper computer skills, you should be able to scan the data.}
 {129}{}{Where can I learn the computer skills?}
-{130}{}{Thanks.}
+{130}{}{Danke.}
 {131}{}{Can I ask another question?}
 {132}{Vree22}{The Brotherhood has some automated courses that you can take. Here, I'll show you.}
 {133}{Vree23}{Use this terminal to learn the basics of computer operations.}
 {134}{Vree24}{You're not very bright, are you? You're wearing a holodisk reader on your arm.}
 {135}{Vree25}{You would need some anti-radiation drugs. I have some. Take these immediately if you think you are near radiation.}
-{136}{}{Thanks!}
+{136}{}{Danke auch!}
 {137}{}{Can I ask you something else?}
 {138}{Vree26}{Don't drink the glowing water.}
 {139}{Vree27}{Between the nuclear and biogenetic weapons used in the War, it's surprising we don't have more mutations. However, if we can hold out, everything will be okay.}
@@ -46,7 +46,7 @@
 {145}{}{Interesting theory. Any proof?}
 {146}{}{I've got another question...}
 {147}{Vree29}{Here, take this holodisk, it's got copies of my autopsies on mutant corpses. It clearly shows that no mutant could possibly reproduce successfully.}
-{148}{}{Thanks.}
+{148}{}{Danke.}
 {149}{}{Can I ask something else?}
 {150}{Vree30}{I don't think I should tell you anything. Perhaps later, if you prove yourself to the Brotherhood's cause. }
 {151}{Vree31}{I'm quite certain you're in the wrong place. Please leave, I'm rather busy.}
@@ -116,7 +116,7 @@
 {1002}{}{disks}
 {1003}{}{Brotherhood}
 {1004}{}{Chip}
-{1005}{}{Elder}
+{1005}{}{Älteste}
 {1006}{}{Rhombus}
 {1007}{}{Exodus}
 {1008}{}{Strange Army}

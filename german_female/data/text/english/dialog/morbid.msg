@@ -27,13 +27,13 @@
 {126}{}{No, I don't have the money. Will you float me?}
 {127}{}{Nein.}
 {128}{}{Ya.}
-{129}{}{Nuh.}
+{129}{}{Nö.}
 {130}{}{No. I don't loan anyone, and I mean anyone, any amount of money. Go away, you pauper.}
 {131}{}{It's your life. Goodbye.}
 {132}{}{Excellent. Let's begin. This might hurt a little... }
 {133}{}{There you go. Come back again!}
 {134}{}{Oh, back so soon. What can I help you with?}
-{135}{}{I need healing.}
+{135}{}{Ich brauche Heilung.}
 {136}{}{Nothing, just making small talk.}
 {137}{}{Wock!}
 {138}{}{Please make it somewhere else, I'm busy.}
@@ -43,11 +43,11 @@
 {142}{}{Nothing today, thanks.}
 {143}{}{Hep.}
 {144}{}{Oh, It's you again. I like your style, even if I don't like you. What can I help you with?}
-{145}{}{I need healing.}
+{145}{}{Ich brauche Heilung.}
 {146}{}{Nothing, just making small talk.}
 {147}{}{Wock!}
 {148}{}{Oh, It's a customer! What can I help you with?}
-{149}{}{I need healing.}
+{149}{}{Ich brauche Heilung.}
 {150}{}{Nothing, just making small talk.}
 {151}{}{You seem excited to see me. Why?}
 {152}{}{Wock!}
@@ -62,7 +62,7 @@
 {161}{}{Ahh, I do need some healing.}
 {162}{}{Hmm, better prices, interesting. Thank you.}
 {163}{}{Ahh, a repeat customer. Excellent these days! How can I help you?}
-{164}{}{I need healing.}
+{164}{}{Ich brauche Heilung.}
 {165}{}{Nothing, just making small talk.}
 {166}{}{Wock!}
 {167}{}{I hope you have a good reason for disturbing me. My time is extremely valuable.}

@@ -1,15 +1,15 @@
 {100}{}{You see: Tandi.}
 {101}{}{What else is around these parts?}
-{102}{}{What's going on around here?}
+{102}{}{Was ist hier los?}
 {103}{}{Have you heard any stories from down south?}
 {104}{}{How do you like it here?}
 {105}{}{Well, that's about it. Thanks for your time.}
 {106}{TAND_1}{Hi! I heard there was a traveler in town, but I was kinda skeptical until I saw you. My name's Tandi, what's yours?}
-{107}{}{My name is }
+{107}{}{Ich heiﬂe }
 {108}{}{.}
 {109}{}{The name is }
 {110}{}{. Remember it.}
-{111}{}{Uhhh?}
+{111}{}{H‰‰h?}
 {112}{TAND_2}{Well... how do you like our little town? Bored yet?}
 {113}{}{It's okay. Can I ask you a few questions, though?}
 {114}{}{Hell, yes. There's nothing to do here but watch the brahmin mate.}
@@ -34,14 +34,14 @@
 {133}{}{It seems nice and safe here.}
 {134}{TAND_15}{Junktown's to the southwest, but I don't know how far. Then there's some weird place below that called the City of Death. Oh, oh yeah, there's this other place... Oh, shoot, what was that? Oh yeah, the Hub.}
 {135}{TAND_15a}{There's a bunch of cities down south. But since you're such a great traveler, I'm sure you know that already.}
-{136}{}{Thanks.}
+{136}{}{Danke.}
 {137}{TAND_16}{No problem. Anything else?}
 {138}{TAND_20}{We've got radscorpions! I mean, I know it's not a good thing, but no one's died from the stings. And it's the closest thing to excitement we've got here!}
 {139}{TAND_21}{Nothing much, since you whomped those radscorpions. Gee, I wish I could have seen that.}
 {140}{TAND_22}{Same as always. Bo-ring.}
 {141}{TAND_23g}{The weirdest story I've heard is about the Deathclaw.}
 {142}{TAND_23b}{Just stuff.}
-{143}{}{Thanks.}
+{143}{}{Danke.}
 {144}{}{Deathclaw?}
 {145}{TAND_24}{It's okay, I guess. I mean, it is home and all, but it's so boring! You know, I want to see the world.}
 {146}{}{If you're so bored, why don't you leave?}
@@ -62,7 +62,7 @@
 {161}{}{Nope, that's it, thanks.}
 {162}{}{Dungh!!}
 {163}{TAND_37}{Who're you? What do you want?}
-{164}{}{My name is }
+{164}{}{Ich heiﬂe }
 {165}{}{, and your father sent me.}
 {166}{}{I'm your fairy godmother. What's it look like?}
 {167}{}{Buhh...}

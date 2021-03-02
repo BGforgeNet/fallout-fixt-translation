@@ -17,7 +17,7 @@
 {118}{}{Well done, lad. Here's your reward. [Jasmine gives you 3000 caps]}
 {119}{}{Well done, miss. Here's your reward. [Jasmine gives you 3000 caps]}
 {121}{}{By the way, here's a little something extra to help you out in your future felonious forays.}
-{122}{}{Hello again.}
+{122}{}{Hallo nochmal.}
 {123}{}{Well, he's been our benefactor on many occasions. If you kill him, someone smarter may take his place. We wouldn't like that.}
 {124}{}{Pfah! A real thief lives on her wits. We're being generous with you. Now scat!}
 {125}{}{They're our corporate sponsor. Loxley got thirsty, and they 'donated' several dozen bottles to us. Real nice of them to help us out.}

@@ -1,7 +1,7 @@
 {100}{}{You see: Deputy Fry.}
 {101}{}{I've been hoping to run into you, child killer. I hope your stay isn't long. I'll be paying close attention to you while you're here. Keep your nose clean in my city; I'm just dying for an excuse to get rid of scum like you.}
 {102}{}{Hello friend, Deputy Tony Fry at your service.}
-{103}{}{What is this place?}
+{103}{}{Was ist das für ein Ort?}
 {104}{}{Nice to meet you. Bye.}
 {105}{}{Wug.}
 {106}{}{Ack!}

@@ -27,7 +27,7 @@
 {126}{}{Just hangin' out.}
 {127}{}{Sorry to hear that. Now leave.}
 {128}{}{NO!}
-{129}{}{I'm leaving.}
+{129}{}{Ich verschwinde.}
 {130}{}{That's Justin and Chad. They're here to make sure nobody causes any trouble.}
 {131}{}{They look like a couple of pansies.}
 {132}{}{Nice to meet you guys.}
@@ -47,12 +47,12 @@
 {146}{}{No, me stay.}
 {147}{}{OhhKaay. I go.}
 {148}{}{I don't care what you think.}
-{149}{}{Alright, alright, I'm leaving.}
+{149}{}{In Ordnung, in Ordnung, ich gehe.}
 {150}{}{Don't use it all in one place.}
 {151}{}{Thanks, take it easy.}
 {152}{}{Ug?}
 {153}{}{Who the hell are you and what the fuck are you doing in my place?}
-{154}{}{Me }
+{154}{}{Ich }
 {155}{}{. [smile] ...who u?}
 {156}{}{! [glare] wHo *you*?}
 {157}{}{Too many binges of Psycho, eh? Can't say I haven't seen that before. [laughs] }

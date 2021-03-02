@@ -19,7 +19,7 @@
 {118}{}{Ya.}
 {119}{}{They pump it up from the wells below. There is a manhole in the cell next door that leads to the old Vault. This is the source of the water. If it wasn't for those ones below, we would be a lot better off.}
 {120}{}{What do you mean?}
-{121}{}{Thanks.}
+{121}{}{Danke.}
 {122}{}{It's difficult to make the old tech work properly, sometimes. The glowing ones lash out whenever we go down there. Us ghouls just leave them alone. And the big mutants don't seem to care one bit.}
 {123}{}{Good luck. Bye.}
 {124}{}{You earn }

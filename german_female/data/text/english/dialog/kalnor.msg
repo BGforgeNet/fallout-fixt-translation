@@ -23,7 +23,7 @@
 {122}{}{Good you asked. No weapons can be drawn except in self-defense. If you start a fight, it's your fault. Other than that, it's your right to go around armed. Just don't pull a knife or gun without just cause. Have a good day.}
 {123}{}{Hey you, no weapons! And I don't care if your mama dropped you on your head as a kid. No weapons.}
 {124}{}{Hey! You! What are you doing sneaking around?}
-{125}{}{Nothing.}
+{125}{}{Nichts.}
 {126}{}{I'm not sneaking around. I just like to walk cautiously.}
 {127}{}{Uhhh.}
 {128}{}{Whatever you're doing, don't do it in this town.}
@@ -50,7 +50,7 @@
 {149}{}{Danke. Tschüss.}
 {150}{}{You wanna show me where you keep YOUR supplies?}
 {152}{}{Uh, no. Sorry, lady. I got work to do here.}
-{153}{}{Have a nice day.}
+{153}{}{Hab einen schönen Tag.}
 {154}{}{Keep out of trouble.}
 {155}{}{Boy, I sure hope my replacement gets here soon. It feels like I've been standing guard duty forever.}
 {156}{}{I'm sorry, the gates are closed for the night. Come back in the morning.}

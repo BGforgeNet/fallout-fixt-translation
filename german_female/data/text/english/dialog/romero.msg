@@ -34,7 +34,7 @@
 {135}{}{Great. Take this locket to Julianna. Tell her that I hope to see her soon.}
 {136}{}{It seems that I have fallen for a girl in Adytum. Because of the Regulators shooting us on sight, I can't get close to her.}
 {137}{}{How can I help?}
-{138}{}{Go on.}
+{138}{}{Mach weiter.}
 {139}{}{Pech gehabt.}
 {140}{}{If you take this locket to Julianna, I would be in your debt.}
 {141}{}{Sure thing.}

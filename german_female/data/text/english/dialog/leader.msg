@@ -27,7 +27,7 @@
 {126}{}{How do I get to the Watershed?}
 {127}{}{What is the Watershed?}
 {128}{}{Since our pump stopped working, we have been getting our water from a place under the ground. I have heard that a water computer is being used to purify the water.}
-{129}{}{Thanks.}
+{129}{}{Danke.}
 {130}{}{Where is that?}
 {131}{}{The Watershed is to the north. You'll need to take the sewers to get there.}
 {132}{}{You aren't thinking of taking the Water Chip from us are you?}
@@ -51,7 +51,7 @@
 {150}{}{Thank you. When you get the parts, return here. It is possible that I can help you further.}
 {151}{}{Okay, I'll be on my way then.}
 {152}{}{Have you found the parts for the water pump yet?}
-{153}{}{Not yet.}
+{153}{}{Noch nicht.}
 {154}{}{Nope. And I've decided to forget the whole thing.}
 {155}{}{Where was I supposed to find them again?}
 {156}{}{Well I wish you luck then.}

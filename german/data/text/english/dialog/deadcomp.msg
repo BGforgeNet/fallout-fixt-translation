@@ -20,7 +20,7 @@
                    2,379,760 bytes in 2 files,  2,436,874 bytes allocated}
 {116}{}{[Continue]}
 {117}{}{> LOADING...  }
-{118}{}{[Done]}
+{118}{}{[Fertig]}
 {119}{}{You earn 100 experience for playing Fallout.}
 {120}{}{    U:\Fallout\ > }
 {121}{}{I can't get enough of this Fallout game. They just don't make 'em like they used to in the pre-War days.}
@@ -30,7 +30,7 @@
                %s  Done.}
 {125}{}{You earn 50 experience.}
 {126}{}{FALLDEMO.EXE}
-{128}{}{[Done]}
+{128}{}{[Fertig]}
 {129}{}{MEMORY DUMP INITIATED >>> DO NOT POWER OFF OR RESET THIS TERMINAL
 ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  
 ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  }
@@ -71,7 +71,7 @@ Transferring 6,759,015 bytes to tape backup drive...............................
 ...........}
 {146}{}{MEDIA TRANSFER COMPLETE. PLEASE REMOVE EXTERNAL MEDIA. HAVE A NICE DAY.
 [The system powers down, short-circuits and goes completely silent]}
-{147}{}{Thanks!}
+{147}{}{Danke auch!}
 {148}{}{The computer looks badly damaged and unrepairable.}
 {149}{}{Many circuits are fried from an EMP burst.}
 {150}{}{It doesn't work.}

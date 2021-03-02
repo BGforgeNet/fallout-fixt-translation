@@ -4,7 +4,7 @@
 {103}{}{Beer.}
 {104}{}{Liquor.}
 {105}{}{Whatever will get me smashed the quickest.}
-{106}{}{Nothing.}
+{106}{}{Nichts.}
 {107}{}{Tuh?}
 {108}{}{If ya' don't have the caps, get the hell out!}
 {109}{}{Suit yerself.}
@@ -33,7 +33,7 @@
 {132}{}{Great! That'll be }
 {133}{}{ caps again.}
 {134}{}{Keep them comin'.}
-{135}{}{Never mind.}
+{135}{}{Macht nichts.}
 {136}{}{Here. (The bartender slides you a dirty tin cup full of some}
 {137}{}{ murky water. After drinking the water, you have a strange}
 {138}{}{ taste in your mouth.)}
@@ -93,7 +93,7 @@
 {192}{}{3 caps.}
 {193}{}{4 caps.}
 {194}{}{5 caps.}
-{195}{}{Nothing.}
+{195}{}{Nichts.}
 {196}{}{You don't know what to do with it, but it sure looks pretty.}
 {197}{}{You lost.}
 {198}{}{You win back your bet.}

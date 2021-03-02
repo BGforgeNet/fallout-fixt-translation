@@ -50,7 +50,7 @@
 {149}{}{I thought you didn't want the job. What do you want?}
 {150}{}{I don't. I just had to have one more look at that ugly mug of yours.}
 {151}{}{I'm sorry. I really wanted this job. Can I have it please?}
-{152}{}{Nothing.}
+{152}{}{Nichts.}
 {153}{}{Grudda!}
 {154}{}{Get out of here you damn skag!}
 {155}{}{Fine. I wish you would make up your mind; I'm a busy man. Let me give you the details.}
@@ -90,7 +90,7 @@
 {189}{}{Oh, yeah, Deathclaw, whatever. They're all crazy. It's just people's imagination getting carried away. There's no ghost or monster or whatever it's supposed to be. Just stick with reality, and you'll be fine.}
 {190}{}{Yes? How can I help you?}
 {191}{}{I know what's been happening to your caravans.}
-{192}{}{Nothing.}
+{192}{}{Nichts.}
 {193}{}{Wha.}
 {194}{}{Grrr.}
 {195}{}{Really? So, who are the bastards? The Water Merchants?}
@@ -167,11 +167,11 @@
 {267}{}{Actually, things are not going so well. Those mutants are still causing problems with our caravans. We've had to put almost all of our caravans on hold. Thanks for asking though.}
 {268}{}{Sure, we could use you in one of our caravans. Do you do guard work? The pay's standard, 400 caps. Interested?}
 {269}{}{Sure}
-{270}{}{Nope.}
+{270}{}{Nö.}
 {271}{}{What? What about the missing caravans?}
 {272}{}{What better way to find the thieves than to join a caravan?}
 {273}{}{I'll keep an eye out, but I need some caps.}
-{274}{}{Never mind.}
+{274}{}{Macht nichts.}
 {275}{}{Okay, but let me know if you change your mind. Most of the time it's easy money.}
 {276}{}{Great, just talk to our caravan driver by the front door to see when the next caravan's scheduled to leave. Just as long as you do a good job our drivers will hire you.}
 {277}{}{I'll give you one more chance. The pay's 400 caps. Go talk to the Caravan Driver by the front door to see when the next one goes out.}

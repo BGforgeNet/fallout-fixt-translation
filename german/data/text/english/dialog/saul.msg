@@ -3,9 +3,9 @@
 {102}{}{He has muscles toughened by years of fighting, and a light-footed stance characteristic of a skilled boxer.}
 {103}{}{Oh. Well, good luck.}
 {104}{}{This isn't the time or place for weapons, friend. But if you care to try me sometime in the ring, feel free.}
-{105}{}{What do you want?}
-{106}{}{Yes?}
-{107}{}{What do you do here?}
+{105}{}{Was willst du?}
+{106}{}{Ja?}
+{107}{}{Was machst du hier?}
 {108}{}{A tough guy, eh? I bet I could take you.}
 {109}{}{Ich heiﬂe }
 {110}{}{. Just taking a look around.}
@@ -59,7 +59,7 @@
 {158}{}{Oh. Well, that's good. Mind if we change the subject?}
 {159}{}{Yes, I've met Trish.}
 {160}{}{Well, what?}
-{161}{}{What can I help you with?}
+{161}{}{Wie kann ich dir helfen?}
 {162}{}{What is there to do here?}
 {163}{}{Can you tell me a little about your boss?}
 {164}{}{[You pat your weapon] I'd like you to meet my little friend.}
@@ -79,7 +79,7 @@
 {178}{}{Well, can we talk about something else?}
 {179}{}{See you around.}
 {180}{}{You again. What now?}
-{181}{}{Hello again.}
+{181}{}{Hallo nochmal.}
 {182}{}{I'm here to teach you some manners.}
 {183}{}{I need to talk to you about Trish.}
 {184}{}{Can you tell me about Junktown?}

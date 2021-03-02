@@ -36,9 +36,9 @@
 {151}{}{What's a nice girl like you doing in a place like this?}
 {152}{}{Nothing more, thanks.}
 {154}{laura24}{It's not the Inner Sanctum you want to enter.}
-{155}{}{Then what?}
+{155}{}{Was dann?}
 {157}{laura25}{I followed Morpheus down a back secret staircase. The guy activates a secret door at the bottom.}
-{158}{}{Then what?}
+{158}{}{Was dann?}
 {159}{}{Can you show me this door?}
 {161}{laura26}{He uses this strange key to open it and disappears. I've never tried to follow him.}
 {162}{}{Do you know where this key is?}
@@ -94,7 +94,7 @@
 {232}{laura45}{Yeah, you can help 'em by getting to the Master. 'Bite the head off the snake and it won't coil around you,' as my grandmother used to say. She was kind of a handful.}
 {233}{}{How do I get to him?}
 {234}{}{Sound it. I need some more answers before you go.}
-{235}{}{I'm on my way.}
+{235}{}{Bin schon unterwegs.}
 {237}{laura46}{They plan to take over all the towns!}
 {238}{}{Which ones?}
 {240}{laura47}{Adytum's already fallen. The Hub is next.}
@@ -128,7 +128,7 @@
 {278}{}{How can I stop this?}
 {280}{laura58}{Excuse me?}
 {281}{}{You heard me.}
-{282}{}{Never mind.}
+{282}{}{Macht nichts.}
 {284}{laura59}{Okay then. Good luck!}
 {286}{laura60}{Uh heh... Waiting desperately for someone to use that pathetic line on me.}
 {288}{laura61a}{So, what can I do for you now?}

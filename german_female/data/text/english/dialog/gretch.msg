@@ -9,9 +9,9 @@
 {108}{}{I know you... right?}
 {109}{}{Nein.}
 {110}{}{Ja.}
-{111}{}{Never mind.}
+{111}{}{Macht nichts.}
 {112}{}{Um... okay.}
-{113}{}{What are you doing?}
+{113}{}{Was machst du?}
 {114}{}{Okay? Does that mean that you're almost done?}
 {115}{}{You're a little slow, aren't you?}
 {116}{}{Yes, yes, almost done.}

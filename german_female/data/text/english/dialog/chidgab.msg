@@ -13,4 +13,4 @@
 {112}{}{It sure as hell ain't you, punk.}
 {113}{}{What makes you think I want to drink with you, you puke!}
 {114}{}{Get out of here before I kill you!}
-{115}{}{[Done]}
+{115}{}{[Fertig]}

@@ -6,7 +6,7 @@
 {105}{}{Happy Halloween!}
 {106}{}{Happy Thanksgiving Day!}
 {107}{}{Happy Christmas!}
-{200}{}{[MORE]}
+{200}{}{[Mehr]}
 {201}{}{[BACK]}
 {202}{}{Quests}
 {203}{}{No current tasks.}
@@ -20,7 +20,7 @@
 {211}{}{Data}
 {212}{}{of}
 {213}{}{Page}
-{214}{}{[DONE]}
+{214}{}{[Fertig]}
 {215}{}{Cannot rest with hostiles present.}
 {300}{}{ALARM CLOCK}
 {301}{}{Current Hit Points: }

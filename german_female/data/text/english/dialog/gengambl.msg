@@ -11,7 +11,7 @@
 {110}{}{Don't talk to me.}
 {111}{}{Geez, you offed the Mayor, didn't you?}
 {112}{}{Oh, when Killian was alive, I didn't like this place. Now it's okay to come here.}
-{113}{}{Go away.}
+{113}{}{Hau ab.}
 {114}{}{Hey, how are you doing today? I'm doing okay.}
 {115}{}{Hey, how are you doing tonight? I'm doing okay.}
 {116}{}{Leave me alone. I'm on a hot streak.}

@@ -4,8 +4,8 @@
 {103}{}{You see a strange-looking man.}
 {104}{}{You see a gambler.}
 {105}{}{You see a woman, see seems to be busy.}
-{106}{}{You see a woman.}
-{107}{}{You see a man.}
+{106}{}{Du siehst eine Frau.}
+{107}{}{Du siehst einen Mann.}
 {108}{}{You see a very upset gambler.}
 {109}{}{You see a mercenary.}
 {110}{}{Leave me to my sorrows.}

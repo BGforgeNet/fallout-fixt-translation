@@ -2,7 +2,7 @@
 {101}{}{Who are you?! And who let you in?}
 {102}{}{I have a message from a friend.}
 {103}{}{Your life is in danger, and I need to speak with you.}
-{104}{}{My name is }
+{104}{}{Ich heiﬂe }
 {105}{}{. Leon let me in.}
 {106}{}{My name? ...Death!}
 {107}{}{I'm your worst nightmare.}

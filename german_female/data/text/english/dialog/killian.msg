@@ -8,7 +8,7 @@
 {107}{}{I'd better go.}
 {108}{}{Nu-uhh?}
 {109}{Kill0a}{You want to buy something, friend?}
-{110}{}{Uh-huh.}
+{110}{}{A-ha.}
 {111}{}{Nuh-uh.}
 {112}{Kill1m}{Welcome to Junktown, stranger. What can I help you with?}
 {113}{Kill1f}{Hello, darlin'. What can I get ya?}
@@ -22,9 +22,9 @@
 {121}{}{I'd better go.}
 {122}{}{Nu-uhh?}
 {123}{Kill02}{The name's Killian. Killian Darkwater. I'm the mayor of this fine town. And who might you be?}
-{124}{}{I'm }
+{124}{}{Ich bin }
 {125}{}{.}
-{126}{}{My name is }
+{126}{}{Ich heiﬂe }
 {127}{}{. I come from up north.}
 {128}{}{What's it to you?}
 {129}{Kill03}{Not much up that way 'cept desert and Shady Sands. You from there?}
@@ -40,7 +40,7 @@
 {139}{Kill06}{Don't feel bad, ain't the worst story I've been told. So... what can I do for ya?}
 {140}{Kill08}{Well, travelers tell me there's a bunch of crazies up north called the Vipers. Another group of yahoos out east called the Khans. Neither one of them likely to invite you to supper as anything but the main course, if you know what I mean.}
 {141}{}{What else is outside Junktown?}
-{142}{}{Thanks.}
+{142}{}{Danke.}
 {143}{Kill09}{Well, ya got the Hub southwest. Don't go south, though. That'd be Necropolis; the, uh... climate's bad there, rain or shine. If you understand what I'm saying.}
 {144}{}{Well, thanks for the information. Can I ask you a few more questions?}
 {145}{}{You just know everything, don't you?}
@@ -51,10 +51,10 @@
 {150}{}{Problems?}
 {151}{}{What's there to do in this town?}
 {152}{}{What other cities are around here?}
-{153}{}{Thanks.}
+{153}{}{Danke.}
 {154}{Kill12}{From outside, we've had the occasional to-do with the Khans. But they've been pretty quiet lately. Inside, trouble's been from the Skulz. And I hear of some strange things happening down by the Hub, but they haven't affected us yet, knock on my mother-in-law's head.}
 {155}{Kill13b}{Oh, we got tons to do. The Skum Pitt's on the east side, by the entrance. Great drinkin' place. Gizmo's is near there. And if you're hurtin', Doc Morbid's your man.}
-{156}{}{Thanks.}
+{156}{}{Danke.}
 {157}{}{That's all there is to do around here?}
 {158}{Kill14}{Well, if we're too fast for ya, just pass on by, pal. It is pal, ain't it?}
 {159}{}{Better than nothing, I guess.}
@@ -165,7 +165,7 @@
 {264}{Kill85}{No clue.}
 {265}{Kill86}{Ohhh... I really couldn't tell ya.}
 {266}{Kill87}{Go talk to Lars. He'll tell you more.}
-{267}{}{[Done]}
+{267}{}{[Fertig]}
 {268}{}{[More]}
 {269}{}{You earn 600 experience for your part in the murder of Killian. Junktown will never be the same.}
 {270}{}{You earn 500 experience for securing Gizmo's confession.}

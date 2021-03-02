@@ -105,12 +105,12 @@
 {204}{}{Likely story. I knew I shouldn't have trusted someone like you.}
 {205}{}{I can't believe you'd show your face around here again. I hope the grenades were useful; you're never getting anything from me again. I don't care who supposedly gives you authorization.}
 {206}{}{Why hello again. Sophia says you delivered the grenades. That was very kind of you. She is working on a better version and needed to see if the circuitry was compatible.}
-{207}{}{What do you want?}
+{207}{}{Was willst du?}
 {208}{}{Just give me what I have to pick up and I'll be out of your way.}
-{209}{}{Nothing.}
+{209}{}{Nichts.}
 {210}{}{Well fine. Let me just check and see if I have an order.}
 {211}{}{Okay, you need some ammunition, right? Well, what kind do you need?}
-{212}{}{I don't know.}
+{212}{}{Ich weiﬂ es nicht.}
 {213}{}{10mm Jacketed Hollow Point.}
 {214}{}{10mm Armor Piercing.}
 {215}{}{44 Magnum Jacketed Hollow Point.}

@@ -30,7 +30,7 @@
 {202}{}{Now that was a weird dream.}
 {203}{}{Yes? How can I be of service?}
 {204}{}{Duh?}
-{205}{}{What is this place?}
+{205}{}{Was ist das für ein Ort?}
 {206}{}{Could you tell me where I could find a Water Chip?}
 {207}{}{What are all these carts doing here?}
 {208}{}{Oh. Excuse me, I thought you were someone else. Bye.}
@@ -48,7 +48,7 @@
 {220}{}{These are the caravans. We cart goods to just about all corners of the wastes: Junktown, The Brotherhood, Shady Sands, and numerous other places. Necropolis and the Glow are the only areas we steer clear of. I'm headin' this group and we will be leavin' shortly. The group across the street just arrived.}
 {221}{}{This looks like the same caravan I saw earlier...}
 {222}{}{What is it you trade?}
-{223}{}{What is this place?}
+{223}{}{Was ist das für ein Ort?}
 {224}{}{Where would I go to get a job?}
 {225}{}{Vielen Dank. Auf Wiedersehen.}
 {226}{}{Hum... Lots of stuff. General stuff people need to live: food, water, lots of water. Water is probably the scarcest commodity in the wastes.}
@@ -56,7 +56,7 @@
 {228}{}{Where would I go to get a job?}
 {229}{}{Vielen Dank. Auf Wiedersehen.}
 {230}{}{You could ask just about anyone here in the Hub. Or you can check one of the job bulletin boards. There are a few of them around the Hub. Definitely more jobs than people here.}
-{231}{}{What is this place?}
+{231}{}{Was ist das für ein Ort?}
 {232}{}{Could you tell me where I could find a Water Chip?}
 {233}{}{What are all of these carts doing here?}
 {234}{}{Vielen Dank. Auf Wiedersehen.}

@@ -13,13 +13,13 @@
 {112}{}{Now that I've been outside, are there any laws that apply specifically to me?}
 {113}{}{I've seen some places on the outside world that suffer because they have no laws.}
 {114}{}{Well, even if weapons are required on the outside world, don't display them in a threatening manner in here. Other than that, I can't think of anything in particular.}
-{115}{}{Thanks.}
+{115}{}{Danke.}
 {116}{}{You see, I knew that would happen. People obeying law is the only thing that has saved the Vault from misery and destruction. Keep up the good work.}
 {117}{}{The Overseer has not authorized me to open the armory and get you more weapons. I'm sorry, but I can't help you. }
 {118}{}{Please! I really need them!}
 {119}{}{Okay. Thanks anyway.}
 {120}{}{No. I can't do it.}
-{121}{}{Have a nice day.}
+{121}{}{Hab einen schönen Tag.}
 {122}{}{To keep the weapons away from those who don't have access to them.}
 {123}{}{Who has access?}
 {124}{}{That doesn't seem very fair.}

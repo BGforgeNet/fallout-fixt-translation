@@ -2,7 +2,7 @@
 {101}{}{You see: Christine, Michael's wife.}
 {102}{}{Hello? Can I help you?}
 {103}{}{Wer bist du?}
-{104}{}{Who's in charge around here?}
+{104}{}{Wer hat hier das Sagen?}
 {105}{}{Can you tell me a little bit about the area?}
 {106}{}{Nein, Danke.}
 {107}{}{You my Mommie?}

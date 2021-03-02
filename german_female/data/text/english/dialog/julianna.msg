@@ -1,8 +1,8 @@
 {100}{}{You see: Julianna.}
 {101}{}{You see a simple inhabitant of Adytum.}
-{102}{}{Hello.}
+{102}{}{Hallo.}
 {103}{}{Erf.}
-{104}{}{Hello.}
+{104}{}{Hallo.}
 {105}{}{I have a message from Romero.}
 {106}{}{May I ask your name, miss?}
 {107}{}{I'm Julianna.}

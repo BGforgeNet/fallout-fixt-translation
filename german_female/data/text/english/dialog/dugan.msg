@@ -1,6 +1,6 @@
 {100}{}{You see: Dugan, the Nuka-Cola addict of the Blades.}
 {101}{}{You see a very tall, thin man with glasses. He has a bottle of Nuka-Cola clutched in his hand.}
-{102}{}{Yes?}
+{102}{}{Ja?}
 {103}{}{I'm just looking around, thanks.}
 {104}{}{What do you do around here?}
 {105}{}{What's with the Nuka-Cola?}

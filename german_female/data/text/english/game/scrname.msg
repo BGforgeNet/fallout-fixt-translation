@@ -40,7 +40,7 @@
 {140}{}{Cabbot}
 {141}{}{Child of the Cathedral}
 {142}{}{Decker}
-{143}{}{Elder}
+{143}{}{Älteste}
 {144}{}{Gizmo}
 {145}{}{Harold}
 {146}{}{Jain}

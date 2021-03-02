@@ -1,4 +1,4 @@
-{100}{}{You see a peasant.}
+{100}{}{Du siehst einen Bauer.}
 {101}{}{Thanks for getting rid of the gangs, but without the generator, we are going to have a worse life.}
 {102}{}{I'm cold.}
 {103}{}{I want some lights.}
@@ -24,5 +24,5 @@
 {123}{}{It's cold at night without the heaters.}
 {124}{}{Those Brahmin sure do stink during the summer.}
 {125}{}{Electricity, electricity.}
-{126}{}{Hi.}
+{126}{}{Hey.}
 {127}{}{[done]}

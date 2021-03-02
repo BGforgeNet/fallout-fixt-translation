@@ -40,7 +40,7 @@
 {139}{}{Okay, okay, okay, see I was just kidding about paying for the info. Good joke, huh?}
 {140}{}{Well, so here's what I know about the Water Chips. The thing I've heard is that they all used to come from the Vaults. So if I was lookin' for one, I'd find out where the rest of these Vaults were. I'm not sure where all the Vaults are exactly, but I've heard that there are about 4 around here somewhere's.}
 {141}{}{I want to ask you a few more questions.}
-{142}{}{Thanks.}
+{142}{}{Danke.}
 {143}{}{Sure, what else do you want to know about?}
 {144}{}{Anything you know about Water Chips that you can tell me?}
 {145}{}{What do you know about Decker?}
@@ -49,7 +49,7 @@
 {148}{}{Nothing right now.}
 {149}{}{Now, normally I don't mind selling information, but you're not gonna' get anything outta' Lemmy about Mr. Decker.}
 {150}{}{Okay, but can I ask you about some other things?}
-{151}{}{Thanks.}
+{151}{}{Danke.}
 {152}{}{Missing caravans, huh? Well, I might be knowin' a bit about those. It's gonna cost you 300 caps, though.}
 {153}{}{Alright, what do you know?}
 {154}{}{I'll give you 240.}
@@ -58,7 +58,7 @@
 {157}{}{Well, I'm not really that sure, but what I's heard is that it ain't what everybody thinks. Some new guy is getting into the action with some kind of mutants or something. But don't quote me on that.}
 {158}{}{Figures. Is there anything I can quote you on, Lemmy?}
 {159}{}{Can I ask you another question?}
-{160}{}{Thanks.}
+{160}{}{Danke.}
 {161}{}{Now, you might be insinuating that Lemmy ain't a stand-up guy. Well, you's right. But Lemmy is an ALIVE type of guy.}
 {162}{}{Okay, forget about it. Can I ask you another question?}
 {163}{}{Well, I'm going to make you a lying down and not breathing type of guy!}
@@ -73,7 +73,7 @@
 {172}{}{Can't afford that.}
 {173}{}{Well, what you gotta' do is find your way over to Old Town. Over there is a guy named Vance. Just talk to him. Like I said, I'll let him know you're coming.}
 {174}{}{You're all heart. Can I ask you a few more things?}
-{175}{}{Thanks.}
+{175}{}{Danke.}
 {176}{}{Sorry man, got things to do. Nice chattin' with you, though.}
 {177}{}{Well, you've come back to talk to your old friend Lemmy, huh? What's it I can help you with?}
 {178}{}{Well, you look like a businesswoman. And I'm in business, so I thought we could, ah, discuss, ah, business.}

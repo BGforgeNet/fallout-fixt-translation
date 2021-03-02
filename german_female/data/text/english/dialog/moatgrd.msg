@@ -1,7 +1,7 @@
-{100}{}{You see a guard.}
+{100}{}{Du siehst eine Wache.}
 {101}{}{Was willst du?}
 {102}{}{Urr?}
-{103}{}{I'm just looking around.}
+{103}{}{Ich schau mich nur um.}
 {104}{}{I want to buy some weapons.}
 {105}{}{}
 {106}{}{}

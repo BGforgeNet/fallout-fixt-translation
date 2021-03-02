@@ -38,7 +38,7 @@
 {137}{}{Okay. You made it. Here's your }
 {138}{}{ caps. If you want more work, just go talk to the boss. I'd be more than happy to work with you again. I'll put in a good word for you with the boss. Take it easy.}
 {139}{}{bY bY.}
-{140}{}{See ya.}
+{140}{}{Man sieht sich.}
 {141}{}{Hey, how's it goin'?}
 {142}{}{If you want more work, go check with the boss.}
 {143}{}{You got somethin's wrong with you?}

@@ -2,7 +2,7 @@
 {101}{}{You see a huge member of the Children.}
 {102}{}{man}
 {103}{}{woman}
-{104}{}{[Done]}
+{104}{}{[Fertig]}
 {105}{}{[More]}
 {106}{}{Sorry man, but you passed the point of no return with us. Time to slam off!}
 {107}{}{Sorry woman, but you passed the point of no return with us. Time to slam off!}
@@ -11,7 +11,7 @@
 {110}{}{Peace, brother! I'm just checking the place out.}
 {111}{}{I'm not interested in impressing you. If you got something intelligent to say, say it!}
 {112}{}{Get it on? Mister, I don't go for scrawny little boys.}
-{113}{}{What do you want?}
+{113}{}{Was willst du?}
 {114}{}{You talk too much.}
 {115}{}{You wanna die, and I wanna kill someone. Works for me.}
 {116}{}{Waa!}

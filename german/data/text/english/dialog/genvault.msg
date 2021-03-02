@@ -63,6 +63,6 @@
 {162}{}{I hate you. I really, really hate you.}
 {163}{}{The vault-dweller just sobs great big tears.}
 {164}{}{Your request to talk is met by a cold stare.}
-{165}{}{Thank you.}
+{165}{}{Danke.}
 {166}{}{It's late. Come back some other time.}
 {167}{}{The vault-dweller is resting.}

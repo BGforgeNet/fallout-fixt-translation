@@ -26,14 +26,14 @@
 {125}{}{Sure, that would be great.}
 {126}{}{Sorry, I'm kind of pressed for time.}
 {127}{}{Whoa, not so fast. We never finished introductions, remember? What's your name, stranger?}
-{128}{}{I'm }
+{128}{}{Ich bin }
 {129}{}{.}
 {130}{}{None of your business, you nut.}
 {131}{}{Good to meet you. Step carefully, friend.}
 {132}{}{Now, now, no need to get impolite. But with that attitude you'd best be on your way.}
 {133}{}{Bite me.}
 {134}{}{Whatever. See ya.}
-{135}{}{What do you want?}
+{135}{}{Was willst du?}
 {136}{}{Sorry to disturb your private time. Go wank somewhere else.}
 {137}{}{I need information about the gangers here.}
 {138}{}{I need information about the town.}
@@ -68,7 +68,7 @@
 {167}{}{Yeah, if you like your lizard well-done.}
 {168}{}{Well it's about time. Lead on, sir, and let's do some street sweeping. I'd recommend knocking over Gizmo, if I may.}
 {169}{}{Well it's about time. Lead on, ma'am, and let's do some street sweeping. I'd recommend knocking over Gizmo, if I may.}
-{170}{}{Yes?}
+{170}{}{Ja?}
 {171}{}{I think maybe we should stick together, after all.}
 {172}{}{Nichts. Vergiss es.}
 {173}{}{You earn 300 experience for recruiting Tycho, the Desert Ranger.}
@@ -210,11 +210,11 @@
 {1165}{}{Some merchants from the Hub visit Junktown and other cities on a regular basis.}
 {1999}{}{I feel more powerful now!}
 {2000}{}{Let's discuss our combat tactics.}
-{2001}{}{Yes?}
+{2001}{}{Ja?}
 {2010}{}{Draw your best weapon.}
 {2011}{}{Change your armor.}
 {2012}{}{Prefer ranged combat against close.}
 {2013}{}{Prefer close combat against ranged.}
 {2014}{}{Choose distance on your own.}
 {2015}{}{That's all for now.}
-{2100}{}{All right.}
+{2100}{}{Also gut.}

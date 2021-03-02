@@ -1050,9 +1050,9 @@
 {54201}{}{You decide that now is not the time to bulk up with weight training.}
 {54300}{}{Bench Press}
 {54301}{}{You decide that now is not the time to bulk up with weight training.}
-{54400}{}{Bridge}
+{54400}{}{Brücke}
 {54401}{}{A hastily constructed wooden bridge permits access over the moat of green glowing goo.}
-{54500}{}{Bridge}
+{54500}{}{Brücke}
 {54501}{}{A hastily constructed wooden bridge permits access over the moat of green glowing goo.}
 {54600}{}{Roulette Table}
 {54601}{}{This is a gambling table.}

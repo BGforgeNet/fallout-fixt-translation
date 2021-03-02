@@ -35,7 +35,7 @@
 {134}{}{Well, I should shove my gun down your throat and pull the trigger!}
 {135}{}{Please don't.}
 {136}{}{I know why you're in so much pain.}
-{137}{}{I'll be going now.}
+{137}{}{Ich mach mich dann mal auf den Weg.}
 {138}{}{You're right... if only I could clear my head. There's something...}
 {139}{}{I know why you can't clear your head.}
 {140}{}{The Master keeps you from thinking clearly. Thinking disturbs the unity.}

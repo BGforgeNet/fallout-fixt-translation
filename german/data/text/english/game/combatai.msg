@@ -130,7 +130,7 @@
 {1217}{}{Shouldn't start what you can't finish}
 {1218}{}{Hope you don't die too quickly.}
 {1219}{}{Only one of us is walking away}
-{1220}{}{Die!}
+{1220}{}{Stirb!}
 {1221}{}{I eat punks like you for breakfast}
 {1222}{}{I'm gonna feed you to my pet iguana}
 {1223}{}{The last thing you'll see is my grinnin' face}
@@ -228,7 +228,7 @@
 {1357}{}{}
 {1358}{}{The pain, the pain...}
 {1400}{}{Outta here!}
-{1401}{}{Bye!}
+{1401}{}{Wiedersehn!}
 {1402}{}{Aaaaahhhh!}
 {1403}{}{Fuck this}
 {1404}{}{I'm out}
@@ -240,7 +240,7 @@
 {1410}{}{Deal me in}
 {1411}{}{Let's go!}
 {1412}{}{Take this!}
-{1413}{}{Die!}
+{1413}{}{Stirb!}
 {1414}{}{Loser}
 {1415}{}{Punk}
 {1416}{}{Eat it, whore}
@@ -871,7 +871,7 @@
 {2509}{}{The blood of the Children shall be avenged!}
 {2510}{}{Peace must be fed with the blood of enemies!}
 {2511}{}{Holy Flame and Unity upon you}
-{2512}{}{Die!}
+{2512}{}{Stirb!}
 {2513}{}{Die in the name of the Flame!}
 {2514}{}{Behold the Holy Flame!}
 {2515}{}{In the name of Peace, die!}
@@ -1028,7 +1028,7 @@
 {2817}{}{I'm gonna eat your liver!}
 {2818}{}{Hope you don't die too quickly.}
 {2819}{}{Dinnertime!}
-{2820}{}{Die!}
+{2820}{}{Stirb!}
 {2821}{}{I eat punks like you for breakfast, and lunch. And dinner.}
 {2822}{}{You cannot hurt me!}
 {2823}{}{Normie. Figures.}
@@ -1328,7 +1328,7 @@
 {3310}{}{If it ain't radscorpions, it's them damn raiders...}
 {3311}{}{}
 {3312}{}{}
-{3313}{}{Die!}
+{3313}{}{Stirb!}
 {3314}{}{Loser}
 {3315}{}{Punk}
 {3316}{}{}
@@ -1514,7 +1514,7 @@
 {3610}{}{Kill the intruder!}
 {3611}{}{}
 {3612}{}{}
-{3613}{}{Die!}
+{3613}{}{Stirb!}
 {3614}{}{Skank!}
 {3615}{}{This is why they call us Blades}
 {3616}{}{}
@@ -2061,7 +2061,7 @@
 {4510}{}{}
 {4511}{}{}
 {4512}{}{I am your Master!}
-{4513}{}{Die!}
+{4513}{}{Stirb!}
 {4514}{}{Scab}
 {4515}{}{This is why they call us Blades}
 {4516}{}{I'm gonna write your epitaph}
@@ -2121,9 +2121,9 @@
 {4608}{}{You messin' with the wrong gang!}
 {4609}{}{}
 {4610}{}{}
-{4611}{}{Die!}
+{4611}{}{Stirb!}
 {4612}{}{}
-{4613}{}{Die!}
+{4613}{}{Stirb!}
 {4614}{}{}
 {4615}{}{How big you want the scar?}
 {4616}{}{}
@@ -2371,7 +2371,7 @@
 {5010}{}{}
 {5011}{}{}
 {5012}{}{}
-{5013}{}{Die!}
+{5013}{}{Stirb!}
 {5014}{}{Death and fire!}
 {5015}{}{Punk}
 {5016}{}{Atom fire!}
@@ -2917,7 +2917,7 @@
 {5860}{}{}
 {5861}{}{Damn, that hurts!}
 {5900}{}{I'm outta here!}
-{5901}{}{Bye!}
+{5901}{}{Wiedersehn!}
 {5902}{}{Aaaaahhhh!}
 {5903}{}{Later. Maybe.}
 {5904}{}{}
@@ -2992,7 +2992,7 @@
 {6011}{}{I'm gonna take you apart like a cheap watch}
 {6012}{}{Take this!}
 {6013}{}{How do you like this?}
-{6014}{}{Die!}
+{6014}{}{Stirb!}
 {6015}{}{You mutant freak!}
 {6016}{}{I eat punks like you for breakfast}
 {6017}{}{Gonna feed you to the dogs}
@@ -3184,7 +3184,7 @@
 {6317}{}{Nobody's taking Junktown away from us}
 {6318}{}{}
 {6319}{}{I'm gonna get a bonus for this}
-{6320}{}{Die!}
+{6320}{}{Stirb!}
 {6321}{}{I eat punks like you for breakfast}
 {6322}{}{}
 {6323}{}{Is that the best you can do?}
@@ -3246,7 +3246,7 @@
 {6417}{}{Nobody's taking Junktown away from us}
 {6418}{}{Hope you don't die too quickly.}
 {6419}{}{}
-{6420}{}{Die!}
+{6420}{}{Stirb!}
 {6421}{}{}
 {6422}{}{}
 {6423}{}{I'm too good to die!}
@@ -3627,7 +3627,7 @@
 {7026}{}{That will be your last mistake}
 {7027}{}{You should have stayed home}
 {7028}{}{Hmm, that hurt!}
-{7029}{}{Uh!}
+{7029}{}{Jup!}
 {7030}{}{Ooo}
 {7031}{}{That sounds like a compound fracture}
 {7032}{}{Hmm, got me in the forearm}
@@ -3689,7 +3689,7 @@
 {7126}{}{Now... it is my turn}
 {7127}{}{You should have stayed home}
 {7128}{}{Hmm, that hurt!}
-{7129}{}{Uh!}
+{7129}{}{Jup!}
 {7130}{}{Ooo, not a bad hit}
 {7131}{}{}
 {7132}{}{Hmm, got me in the forearm}
@@ -3751,7 +3751,7 @@
 {7226}{}{Weak Fool}
 {7227}{}{You should have stayed home}
 {7228}{}{Hmm, that hurt!}
-{7229}{}{Uh!}
+{7229}{}{Jup!}
 {7230}{}{Ooo}
 {7231}{}{}
 {7232}{}{Hmm, got me in the forearm}
@@ -3990,7 +3990,7 @@
 {7617}{}{I'm gonna drop you like a bad habit!}
 {7618}{}{}
 {7619}{}{I'm gonna get a bonus for this}
-{7620}{}{Die!}
+{7620}{}{Stirb!}
 {7621}{}{I'm gonna kick your ass to the grave}
 {7622}{}{Was that a warning shot, or do you just suck?}
 {7623}{}{Let me guess, you were intending to miss}
@@ -4114,7 +4114,7 @@
 {7817}{}{Nobody's taking the Hub away from me}
 {7818}{}{Hope you don't die too quickly.}
 {7819}{}{Nobody messes with Decker!}
-{7820}{}{Die!}
+{7820}{}{Stirb!}
 {7821}{}{Try this on for size!}
 {7822}{}{That's real pathetic}
 {7823}{}{You're in way over your head!}
@@ -4176,7 +4176,7 @@
 {7917}{}{Decker says hello.}
 {7918}{}{It's too late for apologies}
 {7919}{}{Nobody messes with Decker!}
-{7920}{}{Die!}
+{7920}{}{Stirb!}
 {7921}{}{Try this on for size!}
 {7922}{}{That's real pathetic}
 {7923}{}{You're in way over your head!}
@@ -4437,7 +4437,7 @@
 {8501}{}{I'll keep this short.}
 {8502}{}{Moving in.}
 {8503}{}{Eat this.}
-{8504}{}{Have a nice day.}
+{8504}{}{Hab einen schönen Tag.}
 {8505}{}{Got somethin' for ya.}
 {8506}{}{Not quite.}
 {8507}{}{Close, but that wasn't a nuke.}
@@ -4447,9 +4447,9 @@
 {8511}{}{Dammit, there goes another tooth...}
 {8512}{}{Ugh.}
 {8513}{}{Didn't need that arm anyway.}
-{8514}{}{Ow.}
+{8514}{}{Oh.}
 {8515}{}{Dang it, that's my shootin' hand.}
-{8516}{}{Ow.}
+{8516}{}{Oh.}
 {8517}{}{Dang it, another busted rib.}
 {8518}{}{If you wanna kill me, try the head.}
 {8519}{}{You can slow me down, but I'll still get ya.}

@@ -21,7 +21,7 @@
 {120}{}{Flower pretty?}
 {121}{}{Get that weed out of my face, you little brat!}
 {122}{}{I heard Father Morpheus had a visit from the Master himself. He's real happy right now.}
-{123}{}{Anything else?}
+{123}{}{Noch irgendwas?}
 {124}{}{I'll bet.}
 {125}{}{Not right now.}
 {126}{}{Flower pretty?}
@@ -73,7 +73,7 @@
 {173}{}{He won't be. He'll get worse. But if you're smart, make yourself his favorite and he'll let you torture the new kids that come in.}
 {174}{}{Ugh! Me like kindness.}
 {175}{}{Soon, or so they tell me. We're going to have peace, and unity and the Holy Flame will be lit. And maybe Father Morpheus won't be quite so loud, either.}
-{176}{}{Anything else?}
+{176}{}{Noch irgendwas?}
 {177}{}{Father Morpheus?}
 {178}{}{Loud sucks!}
 {179}{}{Uh, I really don't know very much. Honest. Bless the Master! Bye!}
@@ -106,4 +106,4 @@
 {206}{}{What kind of lesson?}
 {207}{}{Stop whining, you little brat, and be grateful that somebody's bothering to teach you!}
 {208}{}{I never do good enough! Never!}
-{209}{}{[Done]}
+{209}{}{[Fertig]}

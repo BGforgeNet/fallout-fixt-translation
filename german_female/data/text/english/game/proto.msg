@@ -139,7 +139,7 @@
 {624}{}{You are victorious in combat;}
 {625}{}{Für die Vernichtung deiner Gegner}
 {626}{}{Für die Vernichtung deiner Gegner, ohne einen Kratzer abzubekommen,}
-{650}{}{[Done]}
+{650}{}{[Fertig]}
 {651}{}{[More]}
 {652}{}{[More]}
 {653}{}{[Back]}

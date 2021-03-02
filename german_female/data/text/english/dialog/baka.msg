@@ -1,5 +1,5 @@
 {100}{}{You see Baka.}
-{101}{}{You see a woman.}
+{101}{}{Du siehst eine Frau.}
 {102}{}{Crypts should not be here, should they boys? (The other Fools shake their heads) I think you should leave.}
 {103}{}{I made a mistake joining the Crypts. I want to be on your side.}
 {104}{}{I came with a message from Phrax.}
@@ -36,7 +36,7 @@
 {135}{}{Skippy? Your turn.}
 {136}{}{There is only one thing that separates Scrapheap from the wasteland: the stench of brahmin dung. But without that dung, there would be no power generator.}
 {137}{}{Why don't you control it?}
-{138}{}{Thanks!}
+{138}{}{Danke auch!}
 {139}{}{Because the Crypts do! They outnumber us for the moment, but if you were to join with us, we could take them.}
 {140}{}{Sure. I'll join.}
 {141}{}{Nein, danke.}
@@ -61,7 +61,7 @@
 {160}{}{Then why do you bother me? Do your job and report back as soon as possible!}
 {161}{}{Excellent! Fools! We go to battle!}
 {162}{}{You are a Fool on double-secret probation. You don't get Fool armor until you pass probation.}
-{163}{}{[Done]}
+{163}{}{[Fertig]}
 {164}{}{[More]}
 {165}{}{The Crypts shall be buried once more!}
 {166}{}{Perish, scum!}

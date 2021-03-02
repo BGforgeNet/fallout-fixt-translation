@@ -1,6 +1,6 @@
 {100}{}{This looks like the door to the Vats Control Room.}
 {101}{}{The door is electronically locked.}
-{102}{}{You unlock the door.}
+{102}{}{Du sperrst die Tür auf.}
 {103}{}{You short out the electronic lock, fusing it shut. So much for that.}
 {104}{}{The door is already unlocked.}
 {105}{}{No luck. You'll need to use electronic lockpicks here.}

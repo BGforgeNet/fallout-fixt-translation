@@ -1,6 +1,6 @@
 {100}{}{You see a tough-looking desert bandit. Based on how the others look at him, he must have some position of importance or authority.}
 {101}{}{Greetings! I am Petrox. I am one of Garl's lead raiders. Who are you?}
-{102}{}{I'm }
+{102}{}{Ich bin }
 {103}{}{. What do you do as a raider?}
 {104}{}{My name is unimportant at the moment. Can you tell me something about your camp?}
 {105}{}{Hroo?}

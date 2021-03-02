@@ -5,12 +5,12 @@
 {104}{}{Let me in.}
 {105}{}{I am }
 {106}{}{. Let me pass.}
-{107}{}{What do you do here?}
+{107}{}{Was machst du hier?}
 {108}{}{Voice not recognized. Security systems status: armed.}
 {109}{}{I am the security system for Blue Level. All systems armed.}
 {110}{}{Can you disarm the systems?}
 {111}{}{Why are the systems armed when the war has ended?}
-{112}{}{Thank you.}
+{112}{}{Danke.}
 {113}{}{I have been programmed to keep the systems armed until authorized personnel have entered the correct voice code.}
 {114}{}{Will you disarm the systems for me?}
 {115}{}{Wiedersehn.}

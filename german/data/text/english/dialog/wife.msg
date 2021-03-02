@@ -1,5 +1,5 @@
 {100}{}{You look distraught. Are you in need of assistance?}
-{101}{}{I need healing.}
+{101}{}{Ich brauche Heilung.}
 {102}{}{Urrr.}
 {103}{}{My husband Razlo can help you... ask him.}
 {104}{}{I'm sorry but I don't understand you.}

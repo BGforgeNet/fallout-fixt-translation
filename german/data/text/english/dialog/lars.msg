@@ -26,7 +26,7 @@
 {125}{}{Hell, if you think you can get some dirt on either of them, we'd appreciate the help. Killian's the one to talk to if you want to talk about Gizmo. But if you can get some info on the Skulz, just come back to me and me and the boys will take care of them.}
 {126}{}{Thanks. Watch your back.}
 {127}{}{I'm the head of the guards here in Junktown. Name's Lars. For that matter, who are you, stranger?}
-{128}{}{I'm }
+{128}{}{Ich bin }
 {129}{}{.}
 {130}{}{Buzz off, I don't have to tell you anything.}
 {131}{}{Welcome to Junktown, }
@@ -45,7 +45,7 @@
 {144}{}{They're involved in some muggings and killings here.}
 {145}{}{I've convinced one of them, Sherry, to testify that they were involved in criminal activity.}
 {146}{}{That's great and all, but I can't just jail them all on one person's say-so. I need hard evidence or inside testimony.}
-{147}{}{I'll see what I can do.}
+{147}{}{Ich werde sehen, was ich tun kann.}
 {148}{}{I've got testimony from Sherry, a former gang member.}
 {149}{}{Excellent. I'll pick her up for a few questions, and I'm sure that I'll get all the information that I need to put them away.}
 {150}{}{Look, this isn't a game. People are getting hurt here. If you find some real evidence, come back, but otherwise, don't waste my time!}
@@ -70,7 +70,7 @@
 {169}{}{Wanderer, you just screwed up. We needed evidence so that we could take down Gizmo all nice and legal-like. Look, off the record, I'm happy to have that fat fuck out of the picture, but we can't condone murder. You better leave Junktown and never come back.}
 {170}{}{We don't like your kind here. You've got about fifteen seconds before I blow your head off.}
 {171}{}{Hello again! What can I do for you?}
-{172}{}{Uh-huh.}
+{172}{}{A-ha.}
 {173}{}{Nuh-uh.}
 {174}{}{You earn 500 experience for assisting in the elimination of the Skulz gang.}
 {1000}{}{Gizmo}

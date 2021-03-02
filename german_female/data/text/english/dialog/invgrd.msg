@@ -25,7 +25,7 @@
 {202}{}{I don't think they're coming back.}
 {203}{}{Verlass dich nicht darauf.}
 {204}{}{Have we heard back from the scouts?}
-{205}{}{Not yet.}
+{205}{}{Noch nicht.}
 {206}{}{Scouts report that everything is clear.}
 {207}{}{Good.}
 {208}{}{So, what were you working on this morning, Ray?}

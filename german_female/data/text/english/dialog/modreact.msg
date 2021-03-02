@@ -6,5 +6,5 @@
 {105}{}{Wiedersehn.}
 {106}{}{[More]}
 {107}{}{Zzzzz}
-{108}{}{[Done]}
+{108}{}{[Fertig]}
 {109}{}{I can't use that. Sorry.}

@@ -1,5 +1,5 @@
 {100}{}{You see a Nightkin.}
-{101}{}{Die!}
+{101}{}{Stirb!}
 {102}{}{Leave me or die!}
 {103}{}{I don't like your tone. If my message does not get to the Master, I will see to it that your death is slow and painful.}
 {104}{}{I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though...}
@@ -23,4 +23,4 @@
 {122}{}{I REALLY need to speak with the guy in charge!}
 {123}{}{Okay! Okay! I'm sorry! Have a good day.}
 {124}{}{You know what your mistake is? You give warnings. I don't. Die!}
-{125}{}{[Done]}
+{125}{}{[Fertig]}

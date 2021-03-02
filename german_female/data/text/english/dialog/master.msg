@@ -87,7 +87,7 @@
 {186}{}{I want a part of you... your head!}
 {187}{Mast35}{Of course! The mutants will survive! The mutants will rebuild this world! And only as a mutant, will you be allowed to live! Live. Die!}
 {188}{}{Live!}
-{189}{}{Die!}
+{189}{}{Stirb!}
 {190}{}{All you care about is your mutants and their Unity.}
 {191}{Mast36}{I am no villain. You have no idea what I, or the Unity is about.}
 {192}{}{Then tell me what you are about.}

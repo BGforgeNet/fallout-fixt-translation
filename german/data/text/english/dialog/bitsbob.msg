@@ -64,7 +64,7 @@
 {163}{}{Someone stole a necklace from the Hightowers. Man, did they ever make a big mistake. They're dead for sure!}
 {164}{}{Someone killed Jain over at the Cathedral. I hear she was a real pain in the butt!}
 {165}{}{Well, the only new thing is that the Children of the Cathedral has taken over the hospital. It's pretty boring around here lately.}
-{166}{}{Anything else?}
+{166}{}{Noch irgendwas?}
 {167}{}{Man, I'm gonna be out of business in a week. Anything else, oh high and mighty?}
 {168}{}{I don't like your attitude.}
 {169}{}{Sorry, you can't afford one.}
@@ -139,7 +139,7 @@
 {238}{}{Me hungry! Grrrrr!}
 {239}{}{Terrible business. Those poor people. Oh, those poor people. Losing their lives in such a ghastly way! Is there anything else I can do for you? Like feed you, perhaps?}
 {240}{}{Nothing, bye.}
-{241}{}{Me go now.}
+{241}{}{Ich gehen jetzt.}
 {242}{}{I don't have that kind of money. I'm barely making ends meet as it is.}
 {243}{}{Thirty caps?! Are you kidding me?}
 {244}{}{Look asshole, you're the one who ruined my profit margins. So if you don't like my prices, fuck off. There's plenty of other iguana stands around here. Oh wait, there isn't. Asshole.}
@@ -156,4 +156,4 @@
 {257}{}{I could have them kill you right now, if you prefer that over waiting.}
 {258}{}{I'll ask them if we can turn you into Iguana Bits after your execution!}
 {259}{}{Whatever. Fuck off.}
-{260}{}{Go away.}
+{260}{}{Hau ab.}

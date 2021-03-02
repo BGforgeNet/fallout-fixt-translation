@@ -15,7 +15,7 @@
 {114}{}{Orfeo is a difficult person to work with.}
 {115}{}{I'm still frightened by the Nightkin.}
 {116}{}{The Elders said that the Nightkin are our allies.}
-{117}{}{Go away.}
+{117}{}{Hau ab.}
 {118}{}{I don't like your kind.}
 {119}{}{If you have a problem with Set, you have a problem with me.}
 {120}{}{Peace be with you. Please talk to Laura.}

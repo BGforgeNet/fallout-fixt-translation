@@ -25,7 +25,7 @@
 {124}{}{You bet!}
 {125}{}{No way!}
 {126}{}{I'm not sure about this.}
-{127}{}{Die!}
+{127}{}{Stirb!}
 {128}{}{Then I will take you to my Master.}
 {129}{}{It almost seems a pity. No matter, this won't take long.}
 {130}{}{Offered all the power in the world and still frightened. I will help you with your decision.}

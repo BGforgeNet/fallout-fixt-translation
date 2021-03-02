@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du siehst eine Wache.}
 {101}{}{Hey! You don't work here.}
 {102}{}{Can't you see I'm trying to rest?}
 {103}{}{Time for some rest and relaxation.}

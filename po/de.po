@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-03-02 14:12+0000\n"
+"PO-Revision-Date: 2021-03-04 14:12+0000\n"
 "Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -5224,7 +5224,7 @@ msgstr ""
 #. indexed_txt
 #: data/text/english/cuts/nar_40.txt:2
 msgid "Only a single question remained unanswered: What happened to you?"
-msgstr "Nur eine Frage bleibt unbeantwortet: Was geschah mit dir?"
+msgstr "Nur eine Frage blieb unbeantwortet: Was geschah mit dir?"
 
 #. indexed_txt
 #: data/text/english/cuts/nar_41.txt:1
@@ -5232,13 +5232,13 @@ msgid ""
 "You march into the desert sands, leaving the shattered corpse of the "
 "Overseer behind you, never to return to the Vault."
 msgstr ""
-"Du läufst in die Wüste hinaus und lässt die zerschmetterte Leiche des "
-"Aufsehers zurück. Niemals wirst du zur Vault zurückkehren."
+"Du läufst in die Wüste hinaus und lässt die zerschmetterten Knochen des "
+"Aufsehers zurück. Niemals wirst du zu mVault zurückkehren."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_42.txt:1
 msgid "You march into the desert sands, leaving the Vault behind you."
-msgstr "Du läufst in die Wüste hinaus und lässt die Vault hinter dir."
+msgstr "Du läufst in die Wüstensand hinaus und lässt den Vault hinter dir."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_44.txt:1

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-03-04 14:12+0000\n"
+"PO-Revision-Date: 2021-03-05 14:12+0000\n"
 "Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
@@ -5271,11 +5271,13 @@ msgid ""
 "In the 21st century, war was still waged over the resources that could be "
 "acquired."
 msgstr ""
+"Im 21. Jahrhundert wurde immer noch Krieg um die Ressourcen geführt, die "
+"noch verfügbar waren."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:9
 msgid "Petroleum and uranium."
-msgstr ""
+msgstr "Erdöl und Uran."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:10
@@ -5284,6 +5286,10 @@ msgid ""
 "and the European Commonwealth would dissolve into quarreling, bickering "
 "nation-states, bent on controlling the last remaining resources on Earth."
 msgstr ""
+"Für diese Ressourcen würde China in Alaska einmarschieren, die USA würden "
+"Kanada annektieren, und das Europäische Staatenverband würde sich in "
+"streitsüchtige, zänkische Nationalstaaten auflösen, die darauf aus sind, die "
+"letzten verbleibenden Ressourcen auf der Erde zu kontrollieren."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:13
@@ -5291,6 +5297,8 @@ msgid ""
 "And from the ashes of  nuclear devastation, a new civilization would "
 "struggle to arise."
 msgstr ""
+"Und aus der Asche der nuklearen Zerstörung würde eine neue Zivilisation nur "
+"schwer entstehen können."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:14
@@ -5298,11 +5306,13 @@ msgid ""
 "A few were able to reach the relative safety of the large underground "
 "Vaults."
 msgstr ""
+"Einige konnten die relative Sicherheit der großen unterirdischen Vaults "
+"erreichen."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:15
 msgid "Your family was part of the group that entered Vault Thirteen."
-msgstr ""
+msgstr "Deine Familie war Teil der Gruppe, die Vault 13 betrat."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:16
@@ -5310,11 +5320,13 @@ msgid ""
 "Imprisoned safely behind the large Vault door, under a mountain of stone, a "
 "generation has lived without knowledge of the outside world."
 msgstr ""
+"Sicher eingesperrt hinter der großen Tür des Vaults, unter einem Berg aus "
+"Stein, lebte eine Generation ohne Kenntnis über die Außenwelt."
 
 #. indexed_txt
 #: data/text/english/cuts/narrate.txt:17
 msgid "Life in the Vault is about to change"
-msgstr ""
+msgstr "Das Leben im Vault ist dabei sich zu verändern"
 
 #: data/text/english/cuts/ovrintro.sve:30
 msgid "Ahh, you're here.  Good."
@@ -5386,15 +5398,15 @@ msgstr "Hey, pass gut auf, OK?"
 
 #: data/text/english/dialog/abel.msg:100
 msgid "You see: Abel."
-msgstr ""
+msgstr "Du siehst: Abel."
 
 #: data/text/english/dialog/abel.msg:101
 msgid "You see a large mutant."
-msgstr ""
+msgstr "Du siehst einen riesigen Mutanten."
 
 #: data/text/english/dialog/abel.msg:102
 msgid "You are not supposed to be here."
-msgstr ""
+msgstr "Du darfst nicht hier sein."
 
 #: data/text/english/dialog/abel.msg:103 data/text/english/dialog/abel.msg:980
 #: data/text/english/dialog/agatha.msg:139
@@ -5405,11 +5417,11 @@ msgstr ""
 #: data/text/english/dialog/ssguide.msg:122
 #: data/text/english/dialog/valtcupl.msg:105
 msgid "Hng."
-msgstr ""
+msgstr "Hng."
 
 #: data/text/english/dialog/abel.msg:104
 msgid "Of course not. I'm here to kill you!"
-msgstr ""
+msgstr "Natürlich nicht. Ich bin hier, um dich zu töten!"
 
 #: data/text/english/dialog/abel.msg:105
 #: data/text/english/dialog/darrel.msg:160
@@ -5421,11 +5433,11 @@ msgstr ""
 #: data/text/english/dialog/talius.msg:197
 #: data/text/english/dialog/vree.msg:140
 msgid "Why do you say that?"
-msgstr ""
+msgstr "Warum sagst du das?"
 
 #: data/text/english/dialog/abel.msg:106
 msgid "Oh, yeah? Your mama!"
-msgstr ""
+msgstr "Oh, ja? Deine Mutter!"
 
 #: data/text/english/dialog/abel.msg:107 data/text/english/dialog/abel.msg:982
 msgid "Pik!"
@@ -5433,7 +5445,7 @@ msgstr ""
 
 #: data/text/english/dialog/abel.msg:108
 msgid "I'm gonna kick yer ass if you say that again!"
-msgstr ""
+msgstr "Ich werde dir innen Arsch treten, wenn du das nochmal sagst!"
 
 #: data/text/english/dialog/abel.msg:109
 msgid "Pik! Pik!"
@@ -5441,23 +5453,23 @@ msgstr ""
 
 #: data/text/english/dialog/abel.msg:110
 msgid "Oh, you gonna get it now!"
-msgstr ""
+msgstr "Oh, jetzt kriegst du ein paar!"
 
 #: data/text/english/dialog/abel.msg:111
 msgid "You human. Me mutant. Mutant kill human."
-msgstr ""
+msgstr "Du Mensch. Ich Mutant. Mutant töten Mensch."
 
 #: data/text/english/dialog/abel.msg:112
 msgid "How can you do that? What about the force field?"
-msgstr ""
+msgstr "Wie machst du das? Was ist mit dem Kraftfeld?"
 
 #: data/text/english/dialog/abel.msg:113
 msgid "Abel take care of that. Then Abel kick yer ass!"
-msgstr ""
+msgstr "Abel kümmert sich darum. Dann Abel dir in den Arsch treten!"
 
 #: data/text/english/dialog/abel.msg:114
 msgid "Children are not allowed here. This mutant place. Go away."
-msgstr ""
+msgstr "Kinder nicht erlaubt sein hier. Das Ort von Mutanten. Geh weg."
 
 #: data/text/english/dialog/abel.msg:115
 #: data/text/english/dialog/airgrd.msg:112
@@ -5471,11 +5483,11 @@ msgstr ""
 #: data/text/english/dialog/sarah.msg:101
 #: data/text/english/dialog/ssguide.msg:102
 msgid "Hng!"
-msgstr ""
+msgstr "Hng!"
 
 #: data/text/english/dialog/abel.msg:116
 msgid "I have to get through this force field. Please lower it."
-msgstr ""
+msgstr "Ich muss durch dieses Kraftfeld kommen. Bitte deaktiviere es."
 
 #: data/text/english/dialog/abel.msg:117
 #: data/text/english/dialog/cardrvr.msg:112
@@ -5545,7 +5557,7 @@ msgstr "Nein."
 
 #: data/text/english/dialog/abel.msg:118
 msgid "You again. Abel kick yer ass!"
-msgstr ""
+msgstr "Du wieder. Abel dir Arsch treten!"
 
 #: data/text/english/dialog/abel.msg:970 data/text/english/dialog/abel.msg:971
 #: data/text/english/dialog/abel.msg:972 data/text/english/dialog/abel.msg:973
@@ -5553,104 +5565,104 @@ msgstr ""
 #: data/text/english/dialog/abel.msg:976 data/text/english/dialog/abel.msg:977
 #: data/text/english/dialog/abel.msg:978 data/text/english/dialog/abel.msg:979
 msgid "Me Abel."
-msgstr ""
+msgstr "Ich Abel."
 
 #: data/text/english/dialog/abel.msg:981
 msgid "Why you say that?"
-msgstr ""
+msgstr "Warum sagst du das?"
 
 #: data/text/english/dialog/abel.msg:983
 msgid "Ung... wuh?"
-msgstr ""
+msgstr "Uh... hä?"
 
 #: data/text/english/dialog/abel.msg:984
 msgid "Hmm?"
-msgstr ""
+msgstr "Hmm?"
 
 #: data/text/english/dialog/abel.msg:985 data/text/english/dialog/zark.msg:127
 #: data/text/english/dialog/zark.msg:170
 msgid "What you say?"
-msgstr ""
+msgstr "Was sagst du?"
 
 #: data/text/english/dialog/abel.msg:986
 msgid "What, hmm?"
-msgstr ""
+msgstr "Was, hmm?"
 
 #: data/text/english/dialog/abel.msg:987
 msgid "Uh... me not know."
-msgstr ""
+msgstr "Uh... nicht ich wissen."
 
 #: data/text/english/dialog/abel.msg:988
 msgid "Me not know."
-msgstr ""
+msgstr "Nicht ich wissen."
 
 #: data/text/english/dialog/abel.msg:989
 msgid "What that?"
-msgstr "Was ist das?"
+msgstr "Was das sein?"
 
 #: data/text/english/dialog/adytownr.msg:100
 msgid "You see an inhabitant of Adytum."
-msgstr ""
+msgstr "Du siehst einen Bewohner Adytums."
 
 #: data/text/english/dialog/adytownr.msg:101
 msgid "Looks like rain... as always."
-msgstr ""
+msgstr "Sieht nach Regen aus... wie immer."
 
 #: data/text/english/dialog/adytownr.msg:102
 msgid "Sorry, have to go. Got work to do."
-msgstr ""
+msgstr "Sorry, muss los. Hab Arbeit zu erledigen."
 
 #: data/text/english/dialog/adytownr.msg:103
 #: data/text/english/dialog/blade.msg:108
 #: data/text/english/dialog/inblade.msg:108
 msgid "We don't get many outsiders here."
-msgstr ""
+msgstr "Es kommen nicht viele Außenseiter her."
 
 #: data/text/english/dialog/adytownr.msg:104
 #: data/text/english/dialog/blade.msg:107
 #: data/text/english/dialog/inblade.msg:107
 msgid "Gotta get back to work."
-msgstr ""
+msgstr "Muss zurück an die Arbeit."
 
 #: data/text/english/dialog/adytownr.msg:105
 msgid "I'd get back to the Hub, if I were you."
-msgstr ""
+msgstr "Ich würde zurück zum Hub gehen, wenn ich du wäre."
 
 #: data/text/english/dialog/adytownr.msg:106
 msgid "Good day... if that is what you can call it."
-msgstr ""
+msgstr "Guten Tag... wenn man es so nennen kann."
 
 #: data/text/english/dialog/adytownr.msg:107
 msgid "Yeah... whatever."
-msgstr ""
+msgstr "Jup... was auch immer."
 
 #: data/text/english/dialog/adytownr.msg:108
 msgid "No time to talk."
-msgstr ""
+msgstr "Keine Zeit zum Reden."
 
 #: data/text/english/dialog/adytownr.msg:109
 msgid "Can't talk right now."
-msgstr ""
+msgstr "Kann gerade nicht reden."
 
 #: data/text/english/dialog/adytownr.msg:110
 msgid "Hope the rain ain't glowin' like yesterday."
-msgstr ""
+msgstr "Ich hoffe, der ist nicht wieder verstrahlt so wie gestern."
 
 #: data/text/english/dialog/adytownr.msg:111
 msgid "Looks like we're going to be short food again."
-msgstr ""
+msgstr "Sieht aus als würde unsere Nahrung wieder knapp werden."
 
 #: data/text/english/dialog/adytownr.msg:112
 msgid "I hope the caravans pass by again soon."
-msgstr ""
+msgstr "Ich hoffe, dass die Karawanen bald wieder vorbeikommen."
 
 #: data/text/english/dialog/adytownr.msg:113
 msgid "We have a chance to make it now."
-msgstr ""
+msgstr "Jetzt haben wieder eine Chance, es zu schaffen."
 
 #: data/text/english/dialog/adytownr.msg:114
 msgid "Adytum will be the town we want it to be."
-msgstr ""
+msgstr "Adytum wird die Stadt werden, wie wir sie gern hätten."
 
 #: data/text/english/dialog/adytownr.msg:115
 #: data/text/english/dialog/heather.msg:143
@@ -5659,43 +5671,47 @@ msgstr "Danke für die Hilfe."
 
 #: data/text/english/dialog/adytownr.msg:116
 msgid "Thank you for getting rid of the Regulators."
-msgstr ""
+msgstr "Danke, dass du Regulatoren los geworden bist."
 
 #: data/text/english/dialog/adytownr.msg:117
 msgid "Thank you for our freedom."
-msgstr ""
+msgstr "Danke für unseren Frieden."
 
 #: data/text/english/dialog/adytownr.msg:118
 msgid "It is good that the Regulators are gone."
-msgstr ""
+msgstr "Es ist gut, dass die Regulatoren weg sind."
 
 #: data/text/english/dialog/adytownr.msg:119
 msgid "Welcome to the new Adytum."
-msgstr ""
+msgstr "Willkommen im neuen Adytum."
 
 #: data/text/english/dialog/agatha.msg:100
 msgid "You see an aged woman."
-msgstr ""
+msgstr "Du siehst eine betagte Frau."
 
 #: data/text/english/dialog/agatha.msg:101
 msgid "You see: Agatha."
-msgstr ""
+msgstr "Du siehst: Agatha."
 
 #: data/text/english/dialog/agatha.msg:102
 msgid ""
 "This woman is wrinkled and gray, yet has a spry step and a bright "
 "personality."
 msgstr ""
+"Diese Frau ist faltig und grau, hat aber einen spritzigen Schritt und eine "
+"strahlende Persönlichkeit."
 
 #: data/text/english/dialog/agatha.msg:103
 msgid "You are a bad person. I will have nothing to do with you."
-msgstr ""
+msgstr "Du bist ein schlechter Mensch. Ich möchte nichts mit dir zu tun haben."
 
 #: data/text/english/dialog/agatha.msg:104
 msgid ""
 "It is a terrible thing when our youth are threatened. The loss of Tandi "
 "would be a terrible thing."
 msgstr ""
+"Es ist eine schreckliche Sache, wenn unsere Jugend bedroht ist. Der Verlust "
+"von Tandi wäre eine schreckliche Sache."
 
 #: data/text/english/dialog/agatha.msg:105
 #: data/text/english/dialog/robctrl.msg:162

@@ -53,7 +53,7 @@
 {157}{}{It's none of your business what I am doing.}
 {158}{}{Yeah, I did. Bye.}
 {159}{}{Glow, Ancient Order - it's the same thing. It's still not a good place to visit.}
-{160}{}{Why do you say that?}
+{160}{}{Warum sagst du das?}
 {161}{}{How hard could it be? All I have to do is go get something and bring it back. It's the old send the new guy on a quest thing.}
 {162}{}{Why the two names?}
 {163}{}{What's so special about this place?}

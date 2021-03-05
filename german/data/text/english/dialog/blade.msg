@@ -5,8 +5,8 @@
 {104}{}{Nice weather we are having today.}
 {105}{}{I wonder if it will rain.}
 {106}{}{Have you ever seen the rain glow?}
-{107}{}{Gotta get back to work.}
-{108}{}{We don't get many outsiders here.}
+{107}{}{Muss zurück an die Arbeit.}
+{108}{}{Es kommen nicht viele Außenseiter her.}
 {109}{}{Muss gehen.}
 {110}{}{Man sieht sich.}
 {111}{}{Good day.}

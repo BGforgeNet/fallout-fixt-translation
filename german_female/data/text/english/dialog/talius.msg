@@ -95,7 +95,7 @@
 {194}{}{I doubt you would have, coming from the outside world. Now, I must retire. Please be careful out there with those creatures who seek to destroy.}
 {195}{}{Nay, I doubt you would be able to do as such.}
 {196}{}{Try and stop me.}
-{197}{}{Why do you say that?}
+{197}{}{Warum sagst du das?}
 {198}{}{Because I will stop you.}
 {199}{}{I know very little. The only things I know are that our scouts are the only ones who ever go over to the Children to spy on them. No one else is allowed because of the danger.}
 {200}{}{Then it might be a scout. I will look into that.}

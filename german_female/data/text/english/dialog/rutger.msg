@@ -79,7 +79,7 @@
 {178}{}{Well, whatever. I'm sure you've met them before. They're a strange bunch that worship technology or something like that. They're to the northwest of here.}
 {179}{}{They are really strange. They worship technology or something like that. They have a hell of a lot of firepower. They could easily take out a caravan. They're to the northwest.}
 {180}{}{I knew you had to be one of them. You had to be with that steel suit. I hope you're right, and I hope it's not a mistake hiring you, but you're not the only one we've hired, so it's okay.}
-{181}{}{Why do you say that?}
+{181}{}{Warum sagst du das?}
 {182}{}{Because I just joined their order, and I checked them out thoroughly. They're just real quiet and keep to themselves, but there is nothing to fear there.}
 {183}{}{I've been inside that bunker of theirs. They aren't the ones you're looking for.}
 {184}{}{Just a hunch.}
@@ -179,7 +179,7 @@
 {279}{}{You've got to be joking? I may be very grateful for what you've done, but I'm afraid that doesn't change the past. I think you should leave.}
 {280}{}{Didn't you hear me? We won't hire you. Please leave.}
 {281}{}{I don't think that will be very effective, but you can work on one if you like.}
-{282}{}{Why do you say that?}
+{282}{}{Warum sagst du das?}
 {283}{}{You're right, let me snoop around some more.}
 {284}{}{That's okay, I'll take the job.}
 {285}{}{Great. Be sure to ask around.}

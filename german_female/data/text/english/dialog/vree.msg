@@ -38,7 +38,7 @@
 {137}{}{Can I ask you something else?}
 {138}{Vree26}{Don't drink the glowing water.}
 {139}{Vree27}{Between the nuclear and biogenetic weapons used in the War, it's surprising we don't have more mutations. However, if we can hold out, everything will be okay.}
-{140}{}{Why do you say that?}
+{140}{}{Warum sagst du das?}
 {141}{}{You're right. We'll be fine.}
 {142}{}{I've got another question...}
 {143}{Vree28}{All the mutants I've studied have been sterile - they can't breed with another creature. If we could clean up the mutation sources, we should be able to simply outlive the mutants.}

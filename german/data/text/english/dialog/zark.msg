@@ -25,7 +25,7 @@
 {124}{}{I'm not dead yet, so I'm not lowering it.}
 {125}{}{What's the problem? I just want to talk.}
 {126}{}{I'm on guard duty.}
-{127}{}{What you say?}
+{127}{}{Was sagst du?}
 {128}{}{You got something to say, say it fast.}
 {129}{}{Was ist hier los?}
 {130}{}{I want to speak with the Master.}
@@ -68,7 +68,7 @@
 {167}{}{What's the problem? I just want to talk.}
 {168}{}{I'm on guard duty.}
 {169}{}{Thanks for the complement. Dork.}
-{170}{}{What you say?}
+{170}{}{Was sagst du?}
 {171}{}{Fine. What do you want?}
 {172}{}{Have you noticed any unusual happenings around here?}
 {173}{}{Was ist hier los?}

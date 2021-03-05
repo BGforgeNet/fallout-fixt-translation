@@ -114,7 +114,7 @@
 {213}{}{Don't bug me.}
 {214}{}{H‰‰h?}
 {215}{HROLD40}{Hey, 'preciate it! Gotta admit, when I first saw you, *cough* I figured you might hassle me.}
-{216}{}{Why do you say that?}
+{216}{}{Warum sagst du das?}
 {217}{}{Nah, not me! Have a good one.}
 {218}{HROLD41}{Oh, hey, it's you again.}
 {219}{}{Here's 20 caps, if you need it.}

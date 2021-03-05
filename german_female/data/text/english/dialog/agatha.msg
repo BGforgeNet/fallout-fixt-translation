@@ -1,8 +1,8 @@
-{100}{}{You see an aged woman.}
-{101}{}{You see: Agatha.}
-{102}{}{This woman is wrinkled and gray, yet has a spry step and a bright personality.}
-{103}{}{You are a bad person. I will have nothing to do with you.}
-{104}{}{It is a terrible thing when our youth are threatened. The loss of Tandi would be a terrible thing.}
+{100}{}{Du siehst eine betagte Frau.}
+{101}{}{Du siehst: Agatha.}
+{102}{}{Diese Frau ist faltig und grau, hat aber einen spritzigen Schritt und eine strahlende Persönlichkeit.}
+{103}{}{Du bist ein schlechter Mensch. Ich möchte nichts mit dir zu tun haben.}
+{104}{}{Es ist eine schreckliche Sache, wenn unsere Jugend bedroht ist. Der Verlust von Tandi wäre eine schreckliche Sache.}
 {105}{}{Hnng.}
 {106}{}{OK.}
 {107}{}{Warum?}

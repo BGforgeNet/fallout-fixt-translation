@@ -1,42 +1,42 @@
-{100}{}{You see: Abel.}
-{101}{}{You see a large mutant.}
-{102}{}{You are not supposed to be here.}
+{100}{}{Du siehst: Abel.}
+{101}{}{Du siehst einen riesigen Mutanten.}
+{102}{}{Du darfst nicht hier sein.}
 {103}{}{Hng.}
-{104}{}{Of course not. I'm here to kill you!}
-{105}{}{Why do you say that?}
-{106}{}{Oh, yeah? Your mama!}
+{104}{}{Natürlich nicht. Ich bin hier, um dich zu töten!}
+{105}{}{Warum sagst du das?}
+{106}{}{Oh, ja? Deine Mutter!}
 {107}{}{Pik!}
-{108}{}{I'm gonna kick yer ass if you say that again!}
+{108}{}{Ich werde dir innen Arsch treten, wenn du das nochmal sagst!}
 {109}{}{Pik! Pik!}
-{110}{}{Oh, you gonna get it now!}
-{111}{}{You human. Me mutant. Mutant kill human.}
-{112}{}{How can you do that? What about the force field?}
-{113}{}{Abel take care of that. Then Abel kick yer ass!}
-{114}{}{Children are not allowed here. This mutant place. Go away.}
+{110}{}{Oh, jetzt kriegst du ein paar!}
+{111}{}{Du Mensch. Ich Mutant. Mutant töten Mensch.}
+{112}{}{Wie machst du das? Was ist mit dem Kraftfeld?}
+{113}{}{Abel kümmert sich darum. Dann Abel dir in den Arsch treten!}
+{114}{}{Kinder nicht erlaubt sein hier. Das Ort von Mutanten. Geh weg.}
 {115}{}{Hng!}
-{116}{}{I have to get through this force field. Please lower it.}
+{116}{}{Ich muss durch dieses Kraftfeld kommen. Bitte deaktiviere es.}
 {117}{}{Nein.}
-{118}{}{You again. Abel kick yer ass!}
-{970}{}{Me Abel.}
-{971}{}{Me Abel.}
-{972}{}{Me Abel.}
-{973}{}{Me Abel.}
-{974}{}{Me Abel.}
-{975}{}{Me Abel.}
-{976}{}{Me Abel.}
-{977}{}{Me Abel.}
-{978}{}{Me Abel.}
-{979}{}{Me Abel.}
+{118}{}{Du wieder. Abel dir Arsch treten!}
+{970}{}{Ich Abel.}
+{971}{}{Ich Abel.}
+{972}{}{Ich Abel.}
+{973}{}{Ich Abel.}
+{974}{}{Ich Abel.}
+{975}{}{Ich Abel.}
+{976}{}{Ich Abel.}
+{977}{}{Ich Abel.}
+{978}{}{Ich Abel.}
+{979}{}{Ich Abel.}
 {980}{}{Hng.}
-{981}{}{Why you say that?}
+{981}{}{Warum sagst du das?}
 {982}{}{Pik!}
-{983}{}{Ung... wuh?}
+{983}{}{Uh... hä?}
 {984}{}{Hmm?}
-{985}{}{What you say?}
-{986}{}{What, hmm?}
-{987}{}{Uh... me not know.}
-{988}{}{Me not know.}
-{989}{}{Was ist das?}
+{985}{}{Was sagst du?}
+{986}{}{Was, hmm?}
+{987}{}{Uh... nicht ich wissen.}
+{988}{}{Nicht ich wissen.}
+{989}{}{Was das sein?}
 {990}{}{}
 {991}{}{}
 {992}{}{}

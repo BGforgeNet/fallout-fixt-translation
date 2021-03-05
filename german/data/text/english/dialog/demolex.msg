@@ -3,7 +3,7 @@
 {102}{}{[More]}
 {103}{}{[Fertig]}
 {104}{}{[Lex whispers.] Best be careful. Rock doesn't always tell the truth.}
-{105}{}{Why do you say that?}
+{105}{}{Warum sagst du das?}
 {106}{}{Why should I trust you?}
 {107}{}{Rock is a member of the Crypts, a gang. He tries to get strangers, like yourself, into trouble. If you listen to him, you could find yourself dead and buried.}
 {108}{}{Wer bist du?}

@@ -29,7 +29,7 @@
 {128}{}{[MacRae te da una palmadita en la espalda.] Gracias a ti, los Navajas van a vivir mejor. Bien, ¿qué puede hacer un viejo escocés por ti?}
 {129}{}{Antes has dicho que si tuvieras tiempo libre, me enseñarías un par de cosas.}
 {130}{}{¿Qué has estado haciendo últimamente?}
-{131}{}{¿Qué haces por aquí?}
+{131}{}{¿Qué estás haciendo por aquí?}
 {132}{}{No es problema.}
 {133}{}{Bien, ya ha pasado tiempo desde que los Navajas sacaron a flote Adytum con los Reguladores. Y últimamente mis talentos de profesor no tienen mucho éxito.}
 {134}{}{¿Qué enseñas?}

@@ -26,7 +26,7 @@
 {125}{}{Me encantaría ayudarte. Antes era como tú. Por suerte, mi conocimiento será útil.}
 {126}{}{¿Qué debo hacer si me hieren?}
 {127}{}{¿Dónde puedo conseguir un equipo mejor?}
-{128}{}{Háblame de este lugar.}
+{128}{}{Háblame sobre este lugar.}
 {129}{}{Háblame del resto del mundo.}
 {130}{}{Háblame de ti.}
 {131}{}{Eso es todo por ahora, gracias.}

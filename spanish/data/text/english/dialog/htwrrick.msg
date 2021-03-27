@@ -9,13 +9,13 @@
 {108}{}{Yo marcho.}
 {109}{}{Hazlo rápido. No puedo hablar mientras trabajo.}
 {110}{}{¿Dónde estoy?}
-{111}{}{¿En qué trabajas?}
+{111}{}{¿Cuál es tu trabajo?}
 {112}{}{Lamento molestarte. Adiós.}
 {113}{}{Deberías irte y callarte, ¡cerebro de mosquito!}
 {114}{}{¡NO! ¡Deberías tener cuidado! ¡Voy a meterte una bala en la cabeza!}
 {115}{}{No voy a perder el tiempo contigo.}
 {116}{}{Si no lo sabes, no deberías estar aquí. Estás en las Alturas. El Señor Hightower vive aquí y solo recibe con cita previa.}
-{117}{}{¿En qué trabajas?}
+{117}{}{¿Cuál es tu trabajo?}
 {118}{}{¿Puedo concertar una cita con el Sr. Hightower?}
 {119}{}{Gracias por tu tiempo.}
 {120}{}{Estoy aquí para asegurarme que nadie se mete con el Sr. Hightower.}

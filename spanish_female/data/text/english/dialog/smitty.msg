@@ -5,7 +5,7 @@
 {104}{}{¿Puedo preguntarte tu nombre?}
 {105}{}{Necesito que me arregles esto para que yo pueda arreglar las granjas hidropónicas.}
 {106}{}{Me gustaría comprar algo.}
-{107}{}{¿Te puedo hacer unas preguntas?}
+{107}{}{¿Puedo hacerte algunas preguntas?}
 {108}{}{Nada, gracias. Hasta la vista.}
 {109}{}{Uhhh...}
 {110}{}{Yo que tú iba al establecimiento de Tine, justo a un lado de las puertas. En realidad no vendo nada aquí, solo lo cambio con Tine o con los comerciantes del Eje.}

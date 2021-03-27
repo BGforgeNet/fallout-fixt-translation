@@ -1,16 +1,16 @@
 {100}{}{Ves: a Cabbot, un Iniciado de la Hermandad del Acero.}
 {101}{Cab_1}{Hola y bienvenida a la Hermandad del Acero. ¿Puedo preguntarte qué haces aquí?}
 {102}{}{¿Quién eres?}
-{103}{}{¿Te puedo hacer unas preguntas?}
+{103}{}{¿Puedo hacerte algunas preguntas?}
 {104}{}{¿Ehhh?}
 {105}{}{Me gustaría unirme.}
-{106}{}{¿Qué tal estás?}
+{106}{}{¿Qué haces?}
 {107}{}{No importa, gracias.}
 {108}{Cab_2}{Eh, yo soy Cabbot, pero tú no me has contestado. ¿En qué puedo ayudarte?}
-{109}{}{¿Te puedo hacer unas preguntas?}
+{109}{}{¿Puedo hacerte algunas preguntas?}
 {110}{}{Oh sí, qué quieres saber.}
 {111}{}{Me gustaría unirme.}
-{112}{}{¿Qué tal estás?}
+{112}{}{¿Qué haces?}
 {113}{}{No importa, gracias.}
 {114}{Cab_4}{¡Estupendo! Eh, ¡e-espera un momento para ver lo que tienes que hacer!}
 {115}{Cab_5}{Eh, bueno, he hablado con el Anciano Mayor y me ha dicho que no puede unirse cualquiera. Dice que primero debes hacer una misión.}
@@ -26,16 +26,16 @@
 {125}{}{Vale.}
 {126}{}{No hay elección.}
 {127}{Cab_7}{Tecnología punta. Allí dentro hay cosas que nunca habrás visto. Ah, también hay radioactividad.}
-{128}{}{Vale, lo haré.}
+{128}{}{Está bien, lo haré.}
 {129}{}{Da miedo. No cuentes conmigo.}
 {130}{Cab_9}{¿Lo harás? ¿Sí? ¡Fantástico! ¡Solo tienes que volver con un objeto! Buena suerte.}
 {131}{Cab_10}{Oh... vale. Adiós.}
 {132}{Cab_12}{Bueno, soy un Iniciado. Por ahora mi deber es recibir a la gente en la puerta.}
 {133}{}{No parece muy divertido, pero todavía quiero unirme a la Hermandad.}
 {134}{}{Vale, gracias. Nos vemos por ahí.}
-{135}{}{¿Te puedo hacer unas preguntas?}
+{135}{}{¿Puedo hacerte algunas preguntas?}
 {136}{Cab_16}{Bueno, tengo que preguntarlo. Es mi trabajo.}
-{137}{}{¿Te puedo hacer unas preguntas?}
+{137}{}{¿Puedo hacerte algunas preguntas?}
 {138}{}{¿Puedo unirme a la Hermandad?}
 {139}{}{No tengo nada que decirte. Ve a por ello.}
 {140}{}{Bueno, me voy.}
@@ -44,7 +44,7 @@
 {143}{Cab_19g}{Vaya, hola otra vez. ¿Ya has decidido qué es lo que quieres?}
 {144}{Cab_19n}{Hola, ¿y ahora qué necesitas?}
 {145}{}{He cambiado de idea. Quiero unirme a la Hermandad.}
-{146}{}{¿Te puedo hacer unas preguntas?}
+{146}{}{¿Puedo hacerte algunas preguntas?}
 {147}{}{No importa. Adiós.}
 {148}{Cab_20}{Te estás burlando de mí, ¿verdad? Adiós.}
 {149}{Cab_21}{¡Fuera!}
@@ -53,7 +53,7 @@
 {152}{Cab_22}{¡No! Creo que me estás mintiendo. ¡Adiós!}
 {153}{Cab_23}{Mmm. Está bien. Te creeré por esta vez. Dime, ¿qué quieres?}
 {154}{}{He cambiado de idea. Quiero unirme a la Hermandad.}
-{155}{}{¿Te puedo hacer unas preguntas?}
+{155}{}{¿Puedo hacerte algunas preguntas?}
 {156}{}{No importa. Adiós.}
 {157}{Cab_24}{¡Eh, has vuelto! ¿Encontraste algo?}
 {158}{}{Sí, claro que sí.}
@@ -83,22 +83,22 @@
 {182}{Cab_36g}{¡Hola! ¿En qué puedo ayudarte?}
 {183}{Cab_36b}{¿Qué necesitas?}
 {184}{Cab_36n}{¿Puedo ayudarte de alguna manera?}
-{185}{}{¿Te puedo hacer unas preguntas?}
+{185}{}{¿Puedo hacerte algunas preguntas?}
 {186}{}{No importa. Adiós.}
 {187}{Cab_37}{Adiós.}
 {188}{Cab_38}{Recibo a la gente en la puerta y decido si los dejo entrar o no. Tú y los mercaderes sois los únicos que entráis ahora porque parece que los Ancianos preparan algo.}
 {189}{}{¿Sabes qué puede ser?}
 {190}{}{¿Por qué has dejado entrar a los mercaderes?}
 {191}{Cab_39}{Eh... no sé, pero, eh, he oído al Anciano Mayor discutiendo con los demás Ancianos.}
-{192}{}{¿Puedo hacerte unas preguntas?}
-{193}{}{Gracias. Te veré por aquí.}
+{192}{}{¿Puedo hacerte más preguntas?}
+{193}{}{Gracias. Hasta otra.}
 {194}{Cab_40}{¿Que por qué les dejo entrar? Bien... necesitamos comida y otras cosas. Cambiamos nuestras armas por todo eso.}
 {195}{}{¿Por qué no producís comida vosotros mismos?}
-{196}{}{¿Puedo hacerte unas preguntas?}
-{197}{}{Gracias. Te veré por aquí.}
+{196}{}{¿Puedo hacerte más preguntas?}
+{197}{}{Gracias. Hasta otra.}
 {198}{Cab_41}{Eh, bueno, en este lugar se forman Escribas y Caballeros. Que se vayan los que quieran ser otra cosa.}
 {199}{}{Oh. ¿Te puedo hacer unas preguntas?}
-{200}{}{Gracias. Te veré por aquí.}
+{200}{}{Gracias. Hasta otra.}
 {201}{Cab_42}{Algunos de los Iniciados piensan que nos preparamos para la guerra. Por eso ya no quiere entrar casi nadie ahora. Me sorprendió que el Anciano Mayor me dijera que tú querías.}
 {202}{}{¿Por qué?}
 {203}{}{Gracias. ¿Puedo hacerte algunas preguntas más?}

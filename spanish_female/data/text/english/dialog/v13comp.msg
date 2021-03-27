@@ -59,7 +59,7 @@
 {158}{}{[120]}
 {159}{}{[150]}
 {160}{}{[MÁS]}
-{161}{}{[ATRÁS]}
+{161}{}{[VOLVER]}
 {162}{}{[180]}
 {163}{}{[210]}
 {164}{}{[240]}
@@ -159,7 +159,7 @@
 {258}{}{Arma Caída Mod es en la actualidad: }
 {259}{}{de los maleficios de cadáver. Su comando?}
 {260}{}{, con armas de caer  }
-{261}{}{ to }
+{261}{}{ sobre }
 {262}{}{Disable it.}
 {263}{}{Permiten, con una distancia de caída de 0 hexes de cadáver.}
 {264}{}{Permiten, con una distancia de caída de 0-1 hexes de cadáver.}

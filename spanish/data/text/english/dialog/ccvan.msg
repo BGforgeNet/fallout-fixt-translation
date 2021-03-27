@@ -6,7 +6,7 @@
 {105}{}{No.}
 {106}{}{Fantástico. Tengo sitio para otro guardia. ¿Te interesa?}
 {107}{}{Vale. Si necesitas trabajo, podemos ayudarte.}
-{108}{}{Lo lamento. Adiós.}
+{108}{}{Siento oír eso. Adiós.}
 {109}{}{Excelente. Tenemos caravanas que van al Cementerio de LA, a Ciudad Vertedero, a Necrópolis, a la Hermandad del Acero. ¿En cuál te gustaría trabajar?}
 {110}{}{Excelente. Tenemos caravanas que van al Cementerio de LA, a Ciudad Vertedero y a la Hermandad del Acero. ¿En cuál te gustaría trabajar?}
 {111}{}{Excelente. Tenemos caravanas que van al Cementerio de LA y a Ciudad Vertedero. ¿En cuál te gustaría trabajar?}

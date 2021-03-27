@@ -61,7 +61,7 @@
 {160}{}{Doc Mórbid de Ciudad Vertedero me enseñó un par de cosas. Y el que vivamos en casuchas de piedra no significa que seamos menos inteligentes o educados. Que pases un buen día.}
 {161}{}{¡Enséñame la bolsita! Sí, puedo hacer algo con esto.}
 {162}{}{Toma, aquí tienes una muestra gratis. Al parecer funciona bien con las picaduras de escorpiones rad pero es más efectivo como antídoto en general y tratamiento para el veneno.}
-{163}{}{Es tarde. Volveré por la mañana.}
+{163}{}{Es tarde. Vuelve por la mañana.}
 {164}{}{Pero necesito tu ayuda.}
 {165}{}{Estoy intentando matar algunos escorpiones rad. ¿Tienes algo que me sirva de ayuda?}
 {166}{}{Estoy buscando a Tandi. ¿Puedes ayudarme?}
@@ -76,13 +76,13 @@
 {175}{}{Apenas estás herido. Te sugiero que descanses un poco y duermas toda la noche. Sanarás con el tiempo.}
 {176}{}{Es una herida de nada, imbécil. Vuelve por la mañana.}
 {177}{}{Auch, eso sí que parece doloroso. Son 25 chapas.}
-{178}{}{De acuerdo, ahí vas.}
+{178}{}{De acuerdo, aquí tienes.}
 {179}{}{No tengo suficiente dinero.}
 {180}{}{¡Oh, Gran Brahmin! Eso es muy, muy serio. Te costará 50 chapas.}
-{181}{}{De acuerdo, ahí vas.}
+{181}{}{De acuerdo, aquí tienes.}
 {182}{}{No tengo suficiente dinero.}
 {183}{}{¡¿Cómo puedes seguir en pie?! Eso parece muy serio. Tendremos que rezar mucho y aun así necesitaremos tener suerte. Por no mencionar las 100 chapas.}
-{184}{}{De acuerdo, ahí vas.}
+{184}{}{De acuerdo, aquí tienes.}
 {185}{}{No tengo suficiente dinero.}
 {186}{}{¡No tienes suficientes chapas! Lo siento, pero mi ética profesional no me permite curar gratis, ¿sabes? Vuelve cuando tengas las chapas.}
 {187}{}{¿Aceptas algo a cambio?}

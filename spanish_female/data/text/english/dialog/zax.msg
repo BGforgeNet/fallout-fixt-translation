@@ -1,6 +1,6 @@
 {100}{}{Ves: Zax, la máquina inteligente que controla el Ardor.}
 {101}{}{Ves un ordenador de tecnología muy avanzada.}
-{102}{}{¿En qué puedo ayudarte?}
+{102}{}{¿Cómo puedo ayudarte?}
 {103}{}{¿Quién... o qué... eres tú?}
 {104}{}{Puedes traerme un donut.}
 {105}{}{Háblame de esta instalación.}

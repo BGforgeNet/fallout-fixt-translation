@@ -1,6 +1,6 @@
 {100}{}{Ves a un guardia.}
 {101}{}{¿Que te trae aquí?}
-{102}{}{¿Eh?}
+{102}{}{¿Urr?}
 {103}{}{Tan sólo estoy echando un vistazo.}
 {104}{}{Quiero comprar algunas armas.}
 {105}{}{}

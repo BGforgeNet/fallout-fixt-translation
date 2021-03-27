@@ -11,7 +11,7 @@
 {110}{}{Sal antes de que acabemos contigo.}
 {111}{}{Si empiezas una pelea, todos los Enterradores se te echarán encima.}
 {112}{}{Te equivocaste. Ahora te enterraremos.}
-{113}{}{¿Qué haces aquí?}
+{113}{}{¿Qué estás haciendo aquí?}
 {114}{}{Desguace nos pertenece.}
 {115}{}{En Desguace, el que no está de nuestro lado es un perdedor o un Loco. ¿Qué eres tú?}
 {116}{}{¿Me estás hablando? ¿Estás hablando conmigo?}

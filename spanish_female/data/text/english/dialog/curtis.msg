@@ -17,5 +17,5 @@
 {116}{}{No importa.}
 {117}{}{Solo siembras algunos de tus campos, permitiendo a los demás recuperar los nutrientes que las plantas han agotado. Dejas que los campos se fertilicen mientras descansan.}
 {118}{}{Oh, nunca había pensado en eso. Tiene sentido; es una buena idea.}
-{119}{}{¿Puedo hacerte otra pregunta?}
+{119}{}{¿Puedo preguntarte otra cosa?}
 {200}{}{Ganas 500 puntos de experiencia por ayudar a mejorar la agricultura de Arenas Sombrías.}

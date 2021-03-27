@@ -1,8 +1,8 @@
 {100}{}{Ves: a Beth, la dueña de la Armería.}
 {101}{}{Hola. ¿Puedo ayudarte?}
-{102}{}{¿Puedo hacerte algunas preguntas?}
+{102}{}{¿Puedo hacerte unas preguntas?}
 {103}{}{¿Puedo hacerte unas preguntas más?}
-{104}{}{Quiero comprar algo.}
+{104}{}{Tengo que comprar algo.}
 {105}{}{Tengo algo para vender.}
 {106}{}{¿Cómo se pueden conseguir chapas aquí?}
 {107}{}{Nada. Adiós.}
@@ -78,7 +78,7 @@
 {179}{}{¿Son ellos los que están detrás de las caravanas desaparecidas?}
 {180}{}{Gracias, otra pregunta sobre los mercaderes...}
 {181}{}{Gracias, adiós.}
-{182}{}{¿Sobre quién más te gustaría saber?}
+{182}{}{¿Qué más quieres saber?}
 {183}{}{No. Por lo que he oído, hace tiempo un grupo de mercaderes se apoderaron de la Torre de Agua y proclamaron que eran los mercaderes de agua y que la gente tenía que pedirles agua a ellos. La guerra del agua duró años hasta que llego un hombre llamado Roy Greene, sí, el abuelo de Justin. Ayudó en la negociación del acuerdo que acabó con la guerra.}
 {184}{}{¿Qué clase de acuerdo?}
 {185}{}{¡Maldita sea! Siento haberlo preguntado.}
@@ -196,7 +196,7 @@
 {297}{}{Oh, muy bien. Trabajas para Butch, te hago el 15% de descuento.}
 {298}{}{Aun así te hago el 15% de descuento, porque me gustas.}
 {299}{}{Lo siento, ya no te hago ningún descuento.}
-{300}{}{Enséñame lo que tienes.}
+{300}{}{Muéstrame lo que tienes a la venta.}
 {301}{}{¿Tienes algo bueno?}
 {302}{}{Bueno, veamos.}
 {303}{}{Claro.}
@@ -223,7 +223,7 @@
 {324}{}{¿Has venido a comprar algo o qué?}
 {325}{}{Esta es mi tienda, será mejor que te comportes.}
 {326}{}{¡Qué pasa!}
-{327}{}{¿Tú otra vez?}
+{327}{}{¿Otra vez tú?}
 {328}{}{El tiempo vale chapas, ¿qué quieres?}
 {329}{}{¿Necesitabas algo?}
 {330}{}{¿Has oído? ¡Está muerto! ¡Me siento llena de alegría! Es lo mejor que jamás haya ocurrido en esta ciudad.}
@@ -237,7 +237,7 @@
 {338}{}{Lamento que mi oferta no te parezca bien, pero tengo que sacar algún beneficio de ella.}
 {339}{}{¿Después de todo no quieres vender? Está bien.}
 {340}{}{Siento no poder ayudarte. Que tengas un buen día.}
-{341}{}{Quizá la próxima vez. Adiós.}
+{341}{}{Quizás la próxima vez. Adiós.}
 {342}{}{Espero poder ayudarte la próxima vez.}
 {343}{}{Deja de hacerme perder el tiempo.}
 {344}{}{Si no vas a comprar nada, vete, por favor.}

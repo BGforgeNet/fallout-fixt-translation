@@ -25,10 +25,10 @@
 {125}{}{¿No necesitas las chapas? Seguro que estás bromeando, pero por lo que me han contado, puede que te guste el trabajo que tengo en mente para ti.}
 {126}{}{¿En serio? Puede que me interese, continúa.}
 {127}{}{No, gracias.}
-{128}{}{Ya volveré.}
+{128}{}{Volveré.}
 {129}{}{Es... ¿te importaría acompañarme abajo? Las paredes tienen oídos.}
 {130}{}{Claro.}
-{131}{}{No me interesa.}
+{131}{}{No estoy interesado.}
 {132}{}{Ahora mismo no, ya volveré.}
 {133}{}{Márchate, no tengo paciencia.}
 {134}{}{¿Valoras tu vida?}

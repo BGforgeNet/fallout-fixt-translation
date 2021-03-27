@@ -3,7 +3,7 @@
 {102}{}{Estás en territorio de los Kalaveras, forastera. Será mejor que te largues.}
 {103}{}{¿Tienes chapas de sobra?}
 {104}{}{¿Qué estás mirando?}
-{105}{}{Sal de aquí.}
+{105}{}{Lárgate de aquí.}
 {106}{}{Zzzzz...}
 {107}{}{Caramba, qué calor hace hoy.}
 {108}{}{Tengo hambre.}

@@ -1,5 +1,5 @@
 {100}{}{Ves: a Neal, el camarero.}
-{101}{}{Estás viendo a un camarero.}
+{101}{}{Ves a un camarero.}
 {102}{}{Parece agotado por el trabajo.}
 {103}{}{¡Eh! No pensarás irte con eso, ¡ladrona!}
 {104}{}{Está cerrado. Vuelve a las cuatro o así.}

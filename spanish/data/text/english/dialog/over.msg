@@ -84,7 +84,7 @@
 {183}{Over_45}{¡Alguien está haciendo mutantes!}
 {184}{}{¿Qué tengo que hacer?}
 {185}{Over_46}{¡Exacto! Como ya habrás adivinado, ninguna de estas mutaciones podrían haber ocurrido de forma natural, incluso con las radiaciones de la guerra.}
-{186}{}{Qué quieres que haga yo al respecto.}
+{186}{}{¿Qué quieres que haga?}
 {187}{Over_47}{¡Mientras alguien siga creando mutantes hostiles a este ritmo, la seguridad del Refugio está en peligro! Encuentra y destruye ese laboratorio en cuanto puedas.}
 {188}{}{Vale.}
 {189}{}{Otra vez en la brecha, amigo mío.}

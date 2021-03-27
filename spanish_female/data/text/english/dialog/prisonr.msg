@@ -14,7 +14,7 @@
 {113}{}{Creo que dejaré que las autoridades se ocupen de ti.}
 {114}{}{Por favor, deja que me vaya.}
 {115}{}{Gracias por dejarme salir.}
-{116}{}{De nada.}
+{116}{}{No hay problema.}
 {117}{}{¿De dónde procede el agua?}
 {118}{}{Sí.}
 {119}{}{La sacaron de los pozos subterráneos. Hay una alcantarilla en la celda de al lado que lleva al antiguo Refugio. Ésta es la fuente del agua. Si no fuera por esos de ahí abajo, estaríamos bastante mejor.}

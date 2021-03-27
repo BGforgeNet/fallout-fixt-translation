@@ -9,7 +9,7 @@
 {108}{}{Piensas que puede ser Tembleque.}
 {109}{}{Piensas que puede ser Martillo.}
 {110}{}{Piensas que puede ser Cuchilla.}
-{111}{}{¿Qué haces aquí?}
+{111}{}{¿Qué estás haciendo aquí?}
 {112}{}{Hhrrrnnn.}
 {113}{}{Nada. De verdad.}
 {114}{}{Tan sólo estoy echando un vistazo.}
@@ -29,7 +29,7 @@
 {128}{}{Si tu inteligencia fuera más alta, intentaría explicarte los beneficios de la paz.}
 {129}{}{Si estás aquí para hacer eso, entonces necesitas mirar de encontrar a Cuchilla. Ella te hará saber lo que pensamos de eso.}
 {130}{}{Eh, gracias. Creo.}
-{131}{}{De acuerdo. Adiós.}
+{131}{}{Está bien. Adiós.}
 {132}{}{Me tomas el pelo, ¿verdad? Creo que debería esperar lo mismo de un crío. En fin, ¡toma!}
 {133}{}{Una charla tranquila no te llevará lejos. Toma, eso te meterá diez metros bajo tierra.}
 {134}{}{Si no vas a sacar nada, entonces nosotros te meteremos en algo. Creo que el "objetivo" hace que ese algo valga la pena.}

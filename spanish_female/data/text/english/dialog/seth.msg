@@ -29,7 +29,7 @@
 {128}{}{Bueno, ya me harás saber cuándo quieras ir a la cueva.}
 {129}{}{[Hecho]}
 {130}{}{Uh-huh.}
-{131}{}{Eeh... noo.}
+{131}{}{Uh-uh.}
 {200}{}{Todo el pueblo te está agradecido por destruir a los escorpiones rad. Gracias.}
 {201}{}{Gracias a ti ya no son un peligro.}
 {202}{}{¿Quieres volver a la cueva? Es un viaje largo y ya has eliminado a los escorpiones rad.}

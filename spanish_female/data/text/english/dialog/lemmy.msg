@@ -21,7 +21,7 @@
 {120}{}{Bien, necesito algunas cosas.}
 {121}{}{¿Algo específicamente?}
 {122}{}{Estoy buscando un Chip de Agua. ¿No tendrás uno por casualidad?}
-{123}{}{Te veré luego.}
+{123}{}{Te veré más tarde.}
 {124}{}{Un Chip de Agua, mmm. No creo que haya oído hablar de tal cosa. Si fuera tú, lo intentaría con los Mercaderes de Agua. Controlan toda el agua de la zona.}
 {125}{}{¿Qué estás haciendo aquí?}
 {126}{}{¿Qué más quieres saber?}
@@ -57,7 +57,7 @@
 {156}{}{Es demasiado. No me lo puedo permitir.}
 {157}{}{Bien, no estoy tan seguro, pero lo que he oído es que no es lo que todo el mundo piensa. Un tipo nuevo está entrando en escena con una especie de mutantes o algo así. Pero no menciones por ahí que te lo he contado yo.}
 {158}{}{Me lo imagino. ¿Acaso hay algo donde pueda mencionarte, Lemmy?}
-{159}{}{¿Puedo hacerte otra pregunta?}
+{159}{}{¿Puedo preguntarte otra cosa?}
 {160}{}{Gracias.}
 {161}{}{Si estás insinuando que Lemmy no es un tipo honesto tienes razón. Pero Lemmy es un tipo VIVO.}
 {162}{}{Vale, olvídalo. ¿Puedo hacerte otra pregunta?}

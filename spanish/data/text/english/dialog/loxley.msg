@@ -45,7 +45,7 @@
 {144}{}{Tienes razón. Lo siento.}
 {145}{LOX_11}{Oh, me partes el corazón. Ya no podemos ser colegas. [Suspiro] Jasmine, muéstrale la salida a esta cucaracha.}
 {146}{LOX_12}{Ooh, un tira y afloja. Me gustan los que juegan al límite. Creo que serás una buena adquisición para nuestra feliz y pequeña banda... ¿Qué me dices?}
-{147}{}{¡Vale!}
+{147}{}{¡De acuerdo!}
 {148}{}{Digo que eres un completo lunático.}
 {149}{lox_12b}{¡Vale!}
 {150}{LOX_13}{Oh, me ha salido rana. En fin, lamento oír eso, de verdad. Habrías sido un buen ladrón. Pero el Círculo no es para imbéciles terminales. Así pues, Jasmine, muéstrale la salida a nuestro invitado.}
@@ -67,7 +67,7 @@
 {166}{LOX_22}{¡Esto es el famoso Gremio de Ladrones! Suponía que lo sabrías, viendo cómo conseguiste pasar por las defensas y todo lo demás. Pero no importa. Eres bastante prometedor y el Círculo te podrá usar para algo.}
 {167}{}{Vale, ¿qué tengo que hacer?}
 {168}{}{No gracias. Pero quisiera hacerte unas preguntas.}
-{169}{}{Ni de coña.}
+{169}{}{Ni por asomo.}
 {170}{LOX_23}{Bueno, si has pasado por mi sistema de defensas tendrás cualidades. ¿Cómo te llamas?}
 {171}{}{Soy }
 {172}{}{.}
@@ -192,7 +192,7 @@
 {1019}{}{Navajas}
 {1020}{}{Cuchilla}
 {1021}{}{Mercaderes}
-{1022}{}{Zona}
+{1022}{}{Mancha}
 {1023}{}{Iguana}
 {1024}{}{Delicias}
 {1025}{}{Bobs}

@@ -11,7 +11,7 @@
 {112}{}{¿Qué? ¿Qué quieres decir exactamente?}
 {113}{}{¡Nunca!}
 {114}{}{Estoy aquí para hablar sobre la paz.}
-{115}{}{Vale...}
+{115}{}{De acuerdo...}
 {116}{}{Yo soy quien hace aquí las preguntas. ¿Qué estás haciendo aquí?}
 {117}{}{Estoy aquí buscando a un amigo.}
 {118}{}{Estoy aquí para hablar sobre la paz.}
@@ -33,11 +33,11 @@
 {134}{}{Ni hablar.}
 {135}{}{Genial. Lleva este medallón a Julianna. Dile que espero verla pronto.}
 {136}{}{Resulta que me he enamorado de una chica de Adytum. A causa de los Reguladores y que nos disparan nada más vernos, no puedo acercarme a ella.}
-{137}{}{¿Cómo puedo ayudarte?}
+{137}{}{¿Cómo puedo ayudar?}
 {138}{}{Continúa.}
 {139}{}{Mala suerte.}
 {140}{}{Si llevas este medallón a Julianna, estaría en deuda contigo.}
-{141}{}{Tenlo por seguro.}
+{141}{}{Por supuesto.}
 {142}{}{Búscate a otra.}
 {143}{}{Con aliados como tú, ¿quién necesita enemigos? ¡Adiós!}
 {144}{}{Creo que ella también me quiere, pero no lo sé. Los Navajas no se arriesgarán a dejarme entrar en Adytum.}

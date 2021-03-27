@@ -34,7 +34,7 @@
 {133}{}{Los Niños son un grupo ocultista que trabajan para una deidad oscura. Personalmente, creo que hay algo en ellos que huele a chamusquina.}
 {134}{}{Los mataré.}
 {135}{}{No lo sé. Parecen demasiado duros para mí.}
-{136}{}{¿Qué puedo hacer para ayudar?}
+{136}{}{¿Qué puedo hacer para ayudarte?}
 {137}{}{¡Olvídalo! No hay forma de que pueda ayudarte.}
 {138}{}{Son muy fuertes, pero creo que alguien con tus habilidades, podrá entrar y ayudarnos a destruirlos.}
 {139}{}{Entonces lo haré.}

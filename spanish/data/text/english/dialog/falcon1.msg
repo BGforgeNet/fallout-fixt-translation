@@ -80,7 +80,7 @@
 {179}{}{Rurh.}
 {180}{}{Lo siento, pero no estás en condiciones de apostar (Miras al}
 {181}{}{ juego y te sientes muy confuso.)}
-{182}{}{Lo siento, ojalá tengas más suerte la próxima vez.}
+{182}{}{Lo siento, más suerte la próxima vez.}
 {183}{}{¡Ganador! No pierdes nada.}
 {184}{}{¡Ding Ding Ding! Duplicas tus chapas.}
 {185}{}{¡EL PREMIO GORDO! Triplicas tus chapas.}

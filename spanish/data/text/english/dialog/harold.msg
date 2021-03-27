@@ -48,7 +48,7 @@
 {147}{}{¿Y qué era?}
 {148}{HROLD15}{Me gusta contarlo a mi manera. La versión corta te costará 25 más, colega. ¿Cuál prefieres?}
 {149}{}{Vale, que sea larga.}
-{150}{}{La corta.}
+{150}{}{Corta.}
 {151}{}{La corta, pero no tengo las chapas.}
 {152}{}{¿Qué tal si no es ninguna, pedorro?}
 {153}{HROLD16}{Bueno, pareces buena gente. Intentaré no enrollarme demasiado.}
@@ -101,7 +101,7 @@
 {200}{}{¿Qué pasó?}
 {201}{HROLD33}{Eso pertenece al pasado. Y ahí es donde debe quedarse.}
 {202}{}{Por favor cuéntame lo que ocurrió, puede que me ayude ahora.}
-{203}{}{Hazlo a tu modo.}
+{203}{}{Hazlo a tu manera.}
 {204}{HROLD34}{Bueno, si lo pones así. Supongo que no puede hacer daño.}
 {205}{}{Gracias.}
 {206}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amiga. Te deseo buena suerte.}

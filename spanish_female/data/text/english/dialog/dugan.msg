@@ -2,7 +2,7 @@
 {101}{}{Estás viendo a un hombre muy alto y delgado con gafas. Tiene una botella de Nuka-Cola entre las manos.}
 {102}{}{¿Sí?}
 {103}{}{Solamente estaba echando un vistazo, gracias.}
-{104}{}{¿Qué haces por aquí?}
+{104}{}{¿Qué estás haciendo por aquí?}
 {105}{}{¿Qué pasa con la Nuka-Cola?}
 {106}{}{¿Quién manda aquí?}
 {107}{}{Ah, no importa.}

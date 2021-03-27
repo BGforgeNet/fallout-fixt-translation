@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un conductor de caravanas.}
+{100}{}{Ves a un conductor de caravanas.}
 {101}{}{Lo siento, no te conozco. Si quieres trabajar has de hablar con Rutger.}
 {102}{}{No hables conmigo de trabajo, hazlo con Rutger.}
 {103}{}{¿Qué? ¿Te has gastado todas tus chapas en drogas? Si sigues así, encontrarás tu nuevo hogar en la Ciudad Antigua, rodeado de yonquis.}
@@ -65,7 +65,7 @@
 {164}{}{¿Qué? ¡No sé de lo que me estás hablando! Oh, ¿te refieres a los yonquis? Esos no cuentan. Ellos decidieron vivir de esa manera.}
 {165}{}{Supongo que tienes razón.}
 {166}{}{Me pones enfermo.}
-{167}{}{Tengo que irme.}
+{167}{}{Me tengo que ir.}
 {168}{}{¿Qué? ¿Qué he dicho?}
 {169}{}{Por supuesto que sí. Tengo un buen corazón... casi siempre.}
 {170}{}{Por supuesto que sí. ¿Puedo conseguir otro empleo o qué?}

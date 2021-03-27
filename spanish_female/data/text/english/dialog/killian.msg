@@ -2,7 +2,7 @@
 {101}{}{¿Quién eres?}
 {102}{}{¿Qué tal si me cuentas algo sobre esta ciudad?}
 {103}{}{¿Es tuyo este establecimiento?}
-{104}{}{Quiero comprar algo.}
+{104}{}{Tengo que comprar algo.}
 {105}{}{¿Qué se puede hacer por aquí?}
 {106}{}{¿Qué tengo que hacer para ayudarte a deshacerte de Gizmo?}
 {107}{}{Mejor me voy.}
@@ -16,7 +16,7 @@
 {115}{Kill1g}{¿Puedo ayudarte?}
 {116}{}{¿Qué tal si me cuentas algo sobre esta ciudad?}
 {117}{}{¿Es tuyo este establecimiento?}
-{118}{}{Quiero comprar algo.}
+{118}{}{Tengo que comprar algo.}
 {119}{}{¿Qué se puede hacer por aquí?}
 {120}{}{¿Qué tengo que hacer para ayudarte a deshacerte de Gizmo?}
 {121}{}{Mejor me voy.}
@@ -48,8 +48,8 @@
 {147}{Kill10a}{¡Qué diablos, por qué no! Pregunta, amiga.}
 {148}{Kill10b}{Sí, vale. Pero rápido. Tengo mucho que hacer.}
 {149}{Kill11}{Bueno, Ciudad Vertedero no vale mucho, pero es mi casa. Principalmente comerciamos con la gente o hacemos que se olviden de sus problemas un rato. Desde luego, también tenemos nuestros propios problemas.}
-{150}{}{¿Tenéis problemas?}
-{151}{}{¿Qué se puede hacer en esta ciudad?}
+{150}{}{¿Problemas?}
+{151}{}{¿Qué hay para hacer en este pueblo?}
 {152}{}{¿Qué otras ciudades hay por aquí?}
 {153}{}{Gracias.}
 {154}{Kill12}{Del exterior tenemos los líos ocasionales con los Khans. Pero últimamente están muy tranquilos. Los problemas internos son con los Kalaveras. Y he oído que están pasando cosas raras en el Eje, pero aquí no nos han afectado todavía, toquemos madera.}
@@ -75,7 +75,7 @@
 {174}{}{¿Oh, este lugar es tuyo?}
 {175}{}{Bueno... me he colado.}
 {176}{Kill32}{¡Desde luego que es mío, desgraciada! ¡Sal a toda leche de aquí si no quieres que tu cabeza decore mi pared!}
-{177}{}{Vale, vale, ya me voy.}
+{177}{}{Vale, vale, me marcho.}
 {178}{}{¿Tú? Despierta tío. Tú sueñas.}
 {179}{Kill34}{Eh, no. Te has vuelto idiota. ¡Largo de aquí!}
 {180}{}{Está bien. Disculpa las molestias.}
@@ -111,7 +111,7 @@
 {210}{Kill50}{Funcionará mejor si eres tú. Gizmo no te conoce y quizás por ello confíe en ti. O, al menos le será más difícil acusarme a mí. Salga bien o mal, eres la más indicado para el trabajo.}
 {211}{}{Me parece justo, lo haré.}
 {212}{}{Paso. Morir no me parece que sea un juego divertido.}
-{213}{}{¿Qué saco yo de todo esto?}
+{213}{}{¿Y qué saco yo de todo esto?}
 {214}{Kill51}{Te lo voy a decir. Cualquier cosa en esta tienda, incluso la más cara, es tuya. Gratis. Si es una pistola, te daré toda la munición que puedas llevar encima. ¿Te parece justo?}
 {215}{}{Sí, lo haré.}
 {216}{}{Ni de lejos. No me jugaré el cuello por eso.}
@@ -119,7 +119,7 @@
 {218}{Kill53}{All right, I owe you. Here's the bug and the wiretap. You let me know when it's done. And good luck.}
 {219}{Kill54}{¿Has conseguido las pruebas?}
 {220}{}{Aún no. Pero créeme, ¡lo haré!}
-{221}{}{Por supuesto.}
+{221}{}{Claro que lo hice.}
 {222}{Kill55}{¡Crees que va a venir aquí a confesar! No nos tienen que ver juntos hasta que todo haya terminado. Ahora, vete.}
 {223}{Kill56}{¿Cuál, la del micrófono o la de la cinta?}
 {224}{}{La del micrófono.}

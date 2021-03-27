@@ -19,7 +19,7 @@
 {118}{}{¡Vete!}
 {119}{}{¿Qué quieres?}
 {120}{}{Busco a una mujer llamada Tandi. ¿La has visto?}
-{121}{}{Nada. Solo miraba.}
+{121}{}{Nada. Sólo pasaba por aquí.}
 {122}{}{¿Eh?}
 {123}{}{Oh. Debes estar buscando trabajo. Ve a ver a Garl en la sala grande y déjanos en paz.}
 {124}{}{Entonces hazlo en otro sitio.}
@@ -33,7 +33,7 @@
 {132}{}{Sí, está aquí. En la casa grande. Ya sabes, si se lo decimos a Garl, querrá una parte del botín. Puede que te interese saberlo.}
 {133}{}{No pareces sincero. Creo que tramas algo. Y si estás diciendo la verdad, me quedaré con la recompensa.}
 {134}{}{Yo... yo no puedo decir nada más o Garl me matará.}
-{135}{}{¡Vete a la mierda!}
+{135}{}{¡Chúpamela!}
 {136}{}{No me gusta la gente como tú. Mejor será que te alejes de mi vista.}
 {137}{}{¿Qué? ¡Vete!}
 {200}{}{Parece curtido por el combate y acostumbrado a la dura vida del yermo.}

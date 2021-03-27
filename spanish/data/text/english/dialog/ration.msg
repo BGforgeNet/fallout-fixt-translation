@@ -24,7 +24,7 @@
 {123}{}{Sigue intentándolo. Confío en ti. Sé que harás todo lo posible para salvarnos.}
 {124}{}{[Hecho]}
 {125}{}{Lamento lo que está ocurriendo. Alguien ha estado robando agua y ahora todos estamos al límite.}
-{126}{}{¿Quién haría una cosa así?}
+{126}{}{¿Quién podría hacer algo así?}
 {127}{}{¿Qué pasó?}
 {128}{}{Algunos han sido acusados y empieza a haber peleas, pero nadie sabe lo que pasa realmente.}
 {129}{}{De acuerdo. Gracias.}

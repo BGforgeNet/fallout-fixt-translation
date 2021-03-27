@@ -7,7 +7,7 @@
 {106}{}{Vale, me rindo. Vamos.}
 {107}{}{¡Cae!}
 {108}{}{Excelente. Ven conmigo si quieres vivir.}
-{109}{}{Vale. Vámonos.}
+{109}{}{Bien. Vámonos.}
 {110}{}{Tú primero.}
 {111}{}{Piensas que soy idiota como muchos de mi especie. Estás muy equivocada. Creo que es un problema mental.}
 {112}{}{Ya volveremos a encontrarnos. No te escaparás esta vez.}

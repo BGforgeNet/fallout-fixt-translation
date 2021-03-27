@@ -19,7 +19,7 @@
 {119}{}{ chapas?}
 {120}{}{Los Niños no regatean. Entonces, ¿aceptarás nuestro precio ahora?}
 {121}{}{Por supuesto que sí.}
-{122}{}{No, gracias.}
+{122}{}{No te lo agradezco.}
 {123}{}{Gracias, hijo mío. Rezaremos por tu curación.}
 {124}{}{Gracias, hija mía. Rezaremos por tu curación.}
 {125}{}{Aquí tienes. Paz y armonía para los Niños que te acompañan.}
@@ -32,9 +32,9 @@
 {132}{}{Tienes más que suficiente para hacer la donación. Necesitas estudiar matemáticas, niño mío.}
 {133}{}{Somos los Niños de la Catedral. Vivimos y trabajamos entre aquellos desgraciados que viven en el yermo. Si alguna vez vas al Cementerio de LA, párate en la Catedral.}
 {134}{}{Gracias.}
-{135}{}{¿Qué tal estás?}
+{135}{}{¿Qué haces?}
 {136}{}{Somos mensajeros de paz. Sanamos el cuerpo para purificar el espíritu. Solo pedimos una pequeña donación para nuestros materiales de curación.}
-{137}{}{Me parece una buena idea.}
+{137}{}{A mí me parece una buena idea.}
 {138}{}{Si me lo preguntas, me parece un montón de mierda.}
 {139}{}{No te hemos preguntado. Seguro que te has cansado de escuchar nuestras creencias. Si necesitas algo más, estaremos aquí.}
 {140}{}{Es nuestra idea más sagrada. Nos esforzamos en establecer una paz absoluta en el yermo. Todas las criaturas serán una.}

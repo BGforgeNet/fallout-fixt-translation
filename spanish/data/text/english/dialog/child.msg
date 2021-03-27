@@ -37,7 +37,7 @@
 {1016}{}{Comerciantes}
 {1017}{}{Niños}
 {1018}{}{Necrópolis}
-{1019}{}{Zona}
+{1019}{}{Mancha}
 {1020}{}{Hermandad}
 {1021}{}{Cementerio}
 {1022}{}{Torres}

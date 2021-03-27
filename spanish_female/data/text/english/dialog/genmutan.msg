@@ -33,7 +33,7 @@
 {132}{}{¿Qué quieres esta vez? Tengo poco tiempo para hablar contigo.}
 {133}{}{¡Labbo!}
 {134}{}{Te queda muy poco tiempo... ¡Muere!}
-{135}{}{Nada, perdona.}
+{135}{}{Nada, lo siento.}
 {136}{}{Alabada sea la Unidad, hermano.}
 {137}{}{¿Pero quién eres tú? Déjame ver... ¡Argh! Una intrusa...}
 {138}{}{Muévete. ¡Haz tu deber para la Unidad y deja de molestarme!}

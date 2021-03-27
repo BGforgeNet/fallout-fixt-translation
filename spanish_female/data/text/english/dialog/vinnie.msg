@@ -25,7 +25,7 @@
 {124}{}{Eres una perdedora, dijiste que íbamos a darle una paliza a Killian. Largo de aquí.}
 {125}{}{Venga, destrocemos a Killian.}
 {126}{}{¿Qué quieres ahora?}
-{127}{}{Nada, lo siento.}
+{127}{}{Nada. Lo siento.}
 {128}{}{Busco a alguien que me ayude a deshacerme de Killian. Los Kalaveras me parecieron una buena elección.}
 {129}{}{¡Mierda, no creí que fueras a hacerlo! ¡Los Kalaveras dirigen ahora esta ciudad! ¡Guau!}
 {130}{}{Ya hemos pasado por esto. Tú no tienes cojones, así que ¡largo de aquí!}

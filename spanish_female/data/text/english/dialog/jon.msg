@@ -48,7 +48,7 @@
 {147}{}{¡Otra ciudad de mierda con problemas de bandas no! ¡Eso es ridículo!}
 {148}{}{¡Lo conveniente sería acabar con su locura de una vez!}
 {149}{}{Déjame pensar... quieres verlos muertos.}
-{150}{}{¿Cómo puedo ayudarte?}
+{150}{}{¿Cómo puedo ayudar?}
 {151}{}{Aquí se está cociendo algo de lo que no me quiero enterar. Me voy ahora mismo.}
 {152}{}{¡¿Qué?! ¿Tú otra vez? ¿Qué quieres ahora?}
 {153}{}{Me lo he pensado mejor. Haré el trabajo, viejo.}

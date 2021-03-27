@@ -36,10 +36,10 @@
 {135}{}{¿Qué quieres esta vez? Tengo poco tiempo para hablar contigo.}
 {136}{}{¡Labbo!}
 {137}{}{Te queda muy poco tiempo... ¡Muere!}
-{138}{}{Nada, perdona.}
+{138}{}{Nada, lo siento.}
 {139}{}{Alabada sea la Unidad, hermano.}
 {140}{}{¡Obviamente eres un intruso!}
-{141}{}{Sal de mi vista.}
+{141}{}{Fuera de mi vista.}
 {142}{}{No tengo tiempo para ti. Deja de molestarme.}
 {200}{}{Estás viendo a un Sargento Supermutante.}
 {201}{}{Eh, esto parece una bomba nuclear. ¿Qué hace aquí?}

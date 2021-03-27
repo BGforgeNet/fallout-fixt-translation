@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un prisionero.}
+{100}{}{Ves a un prisionero.}
 {101}{}{¡No maté a nadie!}
 {102}{}{¡Soy inocente!}
 {103}{}{¿Qué estás mirando?}

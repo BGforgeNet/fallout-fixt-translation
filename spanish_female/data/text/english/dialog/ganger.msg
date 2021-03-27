@@ -10,7 +10,7 @@
 {109}{}{Bien, entonces te convertirás en mi saco de boxeo.}
 {110}{}{Tienes algunos problemas mentales para trabajar. Set no permitirá que un perdedor como tú se encargue de ello. Él tiene guardias y armas.}
 {111}{}{¿Cuántos guardias?}
-{112}{}{¿Qué haces aquí?}
+{112}{}{¿Qué estás haciendo aquí?}
 {113}{}{Set siempre está acompañado por dos guardias por lo menos, pero pueden venir diez más si los necesita. Y cuando se encuentra en su sala del trono, esos diez guardias se mantienen alejados de él.}
 {114}{}{Entonces, ¿Qué haces aquí?}
 {115}{}{No te estoy diciendo eso. ¿Qué te crees, que soy idiota? Ahora vete.}

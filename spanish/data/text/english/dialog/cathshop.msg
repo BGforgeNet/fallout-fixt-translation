@@ -18,14 +18,14 @@
 {117}{}{Bien. Me gustaría. Me encantaría hacer negocios contigo.}
 {118}{}{Saludos a ti hermano. ¿En qué puedo ayudarte?}
 {119}{}{¿Ehh?}
-{120}{}{¿Qué tienes para comerciar?}
+{120}{}{¿Qué tienes para comprar?}
 {121}{}{Gracias. Te veré después.}
 {122}{}{Lo siento. Quizás podamos hacer un trato.}
 {123}{}{¡Adiós!}
 {124}{}{Dentro de un momento, cara de cemento. No puedo creer que haya dicho eso.}
 {125}{}{¡Saludos! ¿En qué puedo ayudarte? Espero que te tomes un momento para comprender la importancia de cualquier decisión futura que tomes en relación a tu alma.}
 {126}{}{¡Ehhh!}
-{127}{}{¿Qué tienes para comerciar?}
+{127}{}{¿Qué tienes para comprar?}
 {128}{}{¿Dónde puedo conseguir una de esos trajes alucinantes?}
 {129}{}{Solo los miembros más reconocidos de la Catedral pueden llevar la púrpura sagrada.}
 {130}{}{Supongo que eso aclara todas mis dudas. ¡Gracias!}

@@ -93,7 +93,7 @@
 {192}{}{Buen trabajo al encontrar y eliminar a Heather. Su intromisión casi hace que mueran todos. Ojalá pudiéramos haber hecho algo más.}
 {193}{}{Quizás pueda ayudarte una vez más.}
 {194}{}{Que tangas buena suerte.}
-{195}{}{¿Y eso?}
+{195}{}{¿Cómo es eso?}
 {196}{}{Puedo entrenar a los Seguidores en algunas técnicas para la guerra. Quizás mejoren tus posibilidades.}
 {197}{}{Debo irme. Adiós.}
 {198}{}{Eso sería maravilloso. Gracias.}

@@ -1,4 +1,4 @@
-{100}{}{La puerta ya está abierta.}
+{100}{}{La puerta ya está desbloqueada.}
 {101}{}{Consigues forzar la cerradura.}
 {102}{}{Parece imposible forzar la cerradura.}
 {103}{}{¡Recibes una descarga del sistema de seguridad electrónico!}

@@ -1274,7 +1274,7 @@
 {65501}{}{Estas grandes y oxidadas tuberías se usan para mover grandes cantidades de agua u otros líquidos.}
 {65600}{}{un generador de energía}
 {65601}{}{Un generador de energía eléctrica. Un modelo estándar de los de antes de la guerra.}
-{65700}{}{un depósito}
+{65700}{}{Tanque}
 {65701}{}{Un gran depósito de agua. Parece bien conservado, lo que es una ventaja.}
 {65800}{}{Cabina de policía}
 {65801}{}{Una cabina de policía del Reino Unido, de los años 60.}

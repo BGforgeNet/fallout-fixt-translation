@@ -1,5 +1,5 @@
 {100}{}{No tengo miedo.}
-{101}{}{Tengo miedo.}
+{101}{}{Estoy asustado.}
 {102}{}{Estoy de servicio. Vete.}
 {103}{}{Pórtate bien o habrás de responder ante mí.}
 {104}{}{¿Tienes dónuts?}

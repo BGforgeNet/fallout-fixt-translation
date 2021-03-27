@@ -11,7 +11,7 @@
 {110}{}{Según lo que he oído, los Mutantes cogieron las caravanas. Qué desastre.}
 {111}{}{Has mencionado que los hicieron unos Supermutantes. Espero que se lo hayas hecho pagar.}
 {112}{}{Pensaba que la Garra Mortal tenía la culpa. ¡Malditos mutantes!}
-{113}{}{Está cerrado. Vuelve por la mañana.}
+{113}{}{Hemos cerrado. Vuelve por la mañana.}
 {114}{}{Oye, esto no es el Halcón. Lárgate de una vez.}
 {115}{}{¿Qué eres? ¿Una especie de yonqui? Lárgate ya.}
 {116}{}{¡Lárgate!}

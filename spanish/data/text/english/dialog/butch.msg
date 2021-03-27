@@ -76,7 +76,7 @@
 {175}{}{Da igual. Tengo algunas preguntas más.}
 {176}{BUTCH24}{Bueno, dirijo a los Comerciantes de Ultramar desde hace cinco años. Antes de eso estaba en Adytum. Y antes cerca de el Ardor.}
 {177}{}{¿Algo más?}
-{178}{}{Bueno, gracias.}
+{178}{}{Bien, gracias.}
 {179}{BUTCH25}{En realidad, no.}
 {180}{BUTCH26}{Sí, bueno, no me gusta ir por ahí hablando de mi vida personal y cosas así.}
 {181}{}{¡Oh, venga, por favor!}
@@ -103,7 +103,7 @@
 {202}{}{¿Algo más?}
 {203}{}{Gracias.}
 {204}{BUTCH35}{Sí, Necrópolis está al este. Pero, eh... yo no me dejaría caer por allí, no sé si me entiendes. Esos necrófagos tardan menos en comerse la cara de un hombre que una vieja comprando en las rebajas.}
-{205}{}{Parece divertido.}
+{205}{}{Suena divertido.}
 {206}{BUTCH35a}{Puff. Quizás para ti. Si eso te gusta, ve al Ardor, hacia el sur. Es una fosa radiactiva.}
 {207}{}{Quizá me dedique a tomar el sol.}
 {208}{BUTCH36}{Tienes muchos lugares donde elegir. ¡Ve a mirarlos por tu cuenta!}
@@ -225,7 +225,7 @@
 {325}{}{No tengo nada que decirte.}
 {326}{}{¿Dónde recojo mi recompensa?}
 {327}{}{¿Qué se supone que tenía que volver a hacer?}
-{328}{}{Por todos los infiernos, ¡lárgate de aquí!}
+{328}{}{¡Lárgate al carajo de aquí!}
 {329}{}{Nada todavía.}
 {330}{}{¡¡¡Gruñe!!!}
 {331}{}{Sal de aquí, subnormal.}

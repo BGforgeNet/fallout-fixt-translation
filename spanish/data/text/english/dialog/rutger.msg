@@ -190,7 +190,7 @@
 {290}{}{Oh, vale. Creo que seguiré preguntando por ahí.}
 {291}{}{Bueno, necesito las chapas.}
 {292}{}{Hola otra vez. ¿Qué puedo hacerte a ti... digo... hacer por ti?}
-{293}{}{Me alegra verte de nuevo.}
+{293}{}{Me alegro de volver a verte.}
 {294}{}{Me estaba preguntando, ¿transportáis agua?}
 {295}{}{Estoy aquí por el trabajo del anuncio.}
 {296}{}{Estoy buscando trabajo.}

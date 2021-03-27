@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un granjero.}
+{100}{}{Ves a un granjero.}
 {101}{}{Hola, forastero. ¿Te gustan mis cultivos?}
 {102}{}{¡Buenos días!}
 {103}{}{¡Buenas tardes!}

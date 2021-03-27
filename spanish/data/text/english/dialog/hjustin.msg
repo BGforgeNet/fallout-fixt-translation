@@ -5,7 +5,7 @@
 {104}{}{Sí, ¡desaparece!}
 {105}{}{Decker me contrató para matar a un mercader y a su mujer.}
 {106}{}{Decker intentó contratarme para matar a una tal Jain.}
-{107}{}{Nada, perdona.}
+{107}{}{Nada, lo siento.}
 {108}{}{Lo siento, no puedo decirte nada. Me matarían.}
 {109}{}{Gracias. Intentamos hacerlo bien. Es muy difícil en una ciudad de este tamaño, pero hacemos lo que podemos con los recursos disponibles. Es difícil cuando esos tipos tienen mejores armas de fuego que nosotros.}
 {110}{}{Gracias de nuevo.}
@@ -49,7 +49,7 @@
 {148}{}{No muevas ni un dedo. No te vas a mover en una temporada.}
 {149}{}{¡Fugitivo! ¡Cogedle!}
 {150}{}{¡Fugitiva! ¡Cogedla!}
-{151}{}{¿Todo listo?}
+{151}{}{¿Listo para continuar?}
 {152}{}{Sí.}
 {153}{}{No.}
 {154}{}{Uhg.}
@@ -58,7 +58,7 @@
 {157}{}{Iré.}
 {158}{}{No, lo siento.}
 {159}{}{¿Eh?}
-{160}{}{Te estaremos vigilando.}
+{160}{}{Te estamos vigilando.}
 {161}{}{¡He de denunciar un delito!}
 {162}{}{Tienes un buen trabajo.}
 {163}{}{Venga, ya nos volveremos a ver.}

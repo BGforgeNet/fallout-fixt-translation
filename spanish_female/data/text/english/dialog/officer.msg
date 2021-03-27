@@ -1,7 +1,7 @@
 {100}{}{¡Tú! ¡Detente y enfréntate a la ley!}
 {101}{}{Gracias por traer el Chip de Agua. Esto subirá la moral de la gente y evitará que infrinjan la ley del Refugio.}
 {102}{}{Me alegro de volver a verte. ¿Hay algo que pueda hacer por ti?}
-{103}{}{¿Qué tal estás?}
+{103}{}{¿Qué haces?}
 {104}{}{Sí, necesito algunas armas.}
 {105}{}{¿Por qué iba a haber una puerta cerrada en el Refugio?}
 {106}{}{¡Glop!}

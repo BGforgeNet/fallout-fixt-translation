@@ -6,7 +6,7 @@
 {105}{}{ detecta una trampa en esta puerta.}
 {106}{}{Detectas una trampa en esta puerta.}
 {107}{}{Eso no hace nada.}
-{108}{}{La puerta ya está abierta.}
+{108}{}{La puerta ya está desbloqueada.}
 {109}{}{Rompes tus ganzúas con esta cerradura que se te resiste.}
 {110}{}{No consigues forzar esta cerradura.}
 {111}{}{Fuerzas la cerradura de la puerta.}

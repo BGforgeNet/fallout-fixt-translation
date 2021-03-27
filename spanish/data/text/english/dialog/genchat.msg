@@ -3,7 +3,7 @@
 {102}{}{Hola.}
 {103}{}{Ganas }
 {104}{}{ puntos de experiencia.}
-{105}{}{¡Uh, oh!}
+{105}{}{¡Oh oh!}
 {106}{}{¡Clic!}
 {107}{}{¡Uy!}
 {108}{}{¡Ay!}
@@ -117,7 +117,7 @@
 {217}{}{ Corre siempre.}
 {218}{}{Debes de tener mucho tiempo para estar viéndote de esta forma.}
 {219}{}{El nivel de violencia es }
-{220}{}{Ninguno.}
+{220}{}{Ninguna.}
 {221}{}{Mínimo.}
 {222}{}{Normal.}
 {223}{}{Máximo.}

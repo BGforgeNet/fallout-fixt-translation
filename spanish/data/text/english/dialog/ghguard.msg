@@ -5,7 +5,7 @@
 {104}{}{Vale. Debería marcharme.}
 {105}{}{¿Eh?}
 {106}{}{No suena demasiado bien. Será mejor que vengas conmigo.}
-{107}{}{No lo creo.}
+{107}{}{Creo que no.}
 {108}{}{Vale.}
 {109}{}{No creo que quieras entrar en esa habitación.}
 {110}{}{¿Por qué no?}

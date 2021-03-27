@@ -39,7 +39,7 @@
 {138}{}{Evidentemente. Adiós.}
 {139}{}{¡Flema! Desarrollo insustancial... comunicación, nula... fin de la muerte.}
 {140}{}{Los muros viven... te vi... ¿fue mañana, no?}
-{141}{}{Lo tomaré como un sí.}
+{141}{}{Tomaré eso como un sí.}
 {142}{}{¡Fantástico! ¿Cómo puedo unirme?}
 {143}{}{Los blasfemos... analizan... La muerte será... la salvación... ¡fuerte!}
 {144}{}{Las mentes... los muros... ante el poderoso.}

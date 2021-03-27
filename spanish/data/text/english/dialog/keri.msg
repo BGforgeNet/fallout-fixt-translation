@@ -52,7 +52,7 @@
 {151}{}{Lo siento pero nunca más volveremos a tratar contigo.}
 {152}{}{No hay trabajo aquí, vete.}
 {153}{}{No me cabrees.}
-{154}{}{Imbécil.}
+{154}{}{Idiota.}
 {155}{}{Intrigante, pero no eres mi tipo.}
 {156}{}{Bien. Como dije antes, pagamos 600 chapas. ¿Qué ruta querías tomar?}
 {157}{}{Fantástico. La siguiente partirá en }
@@ -83,7 +83,7 @@
 {182}{}{LA está bastante bien. Te gustará pero asegúrate de no dejar la caravana hasta que llegue. No es muy seguro para ti, aunque lo sea para las caravanas.}
 {183}{}{Espero que tengas la oportunidad de verlo. También hay una iglesia que mola a unas pocas millas al sur. Eso sí, la gente está destrozada.}
 {184}{}{Me contaron que antes el Cementerio de LA se llamaba LA. No sé de qué o de quién son las iniciales, pero el sitio está bien.}
-{185}{}{¿Qué demonios quieres?}
+{185}{}{¿Qué carajo quieres?}
 {186}{}{Cállate y vete de mi vista; ¡no estoy de humor!}
 {187}{}{Quiero otro empleo.}
 {188}{}{Nada.}

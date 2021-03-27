@@ -1,4 +1,4 @@
-{100}{}{¡Sal de aquí!}
+{100}{}{¡Fuera de aquí!}
 {101}{}{He oído cosas malas de ti, ¿son verdad?}
 {102}{}{Hola.}
 {103}{}{Aquí mando yo. ¿Quieres estar colgado un ratito?}

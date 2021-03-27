@@ -31,9 +31,9 @@
 {130}{}{Tienes más que suficiente para hacer la donación. Necesitas estudiar matemáticas, niño mío.}
 {131}{}{Somos los Niños de la Catedral. Vivimos y trabajamos entre aquellos desgraciados que viven en el yermo. Si alguna vez vas al Cementerio de LA, párate en la Catedral.}
 {132}{}{Gracias.}
-{133}{}{¿Qué tal estás?}
+{133}{}{¿Qué haces?}
 {134}{}{Somos mensajeros de paz. Sanamos el cuerpo para purificar el espíritu. Solo pedimos una pequeña donación para nuestros materiales de curación.}
-{135}{}{Me parece una buena idea.}
+{135}{}{A mí me parece una buena idea.}
 {136}{}{No me parece bien.}
 {137}{}{No te hemos preguntado. Seguro que te has cansado de escuchar nuestras creencias. Si necesitas algo más, estaremos aquí.}
 {138}{}{Es nuestra idea más sagrada. Nos esforzamos en establecer una paz absoluta en el yermo. Todas las criaturas serán una.}

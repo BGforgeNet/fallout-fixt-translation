@@ -5,7 +5,7 @@
 {104}{}{Tengo de todo, ¿qué necesitas?}
 {105}{}{¿Necesitas provisiones?}
 {106}{}{¿Quieres comprar algo?}
-{107}{}{¿Qué deseas?}
+{107}{}{¿Qué va a ser?}
 {108}{}{¿Tienes algo bueno que ofrecer?}
 {109}{}{¿Qué tienes?}
 {110}{}{Hazme una oferta.}
@@ -15,7 +15,7 @@
 {114}{}{Adiós.}
 {115}{}{Cuidado con la cartera.}
 {116}{}{Si necesitas algo, házmelo saber.}
-{117}{}{Sé prudente.}
+{117}{}{Cuidado donde pisas.}
 {118}{}{Si encuentras algo bueno, tráelo.}
 {119}{}{No seas extraño.}
 {120}{}{Tengo toda la buena mercancía.}

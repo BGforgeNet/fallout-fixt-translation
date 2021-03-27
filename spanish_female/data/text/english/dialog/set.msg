@@ -139,7 +139,7 @@
 {238}{Set45}{Ni siquiera lees las líneas. A no ser que Necrópolis vaya a ser tu hogar permanente, camina. No tengo tiempo para una tonta bolsa de carne.}
 {239}{}{¿Qué tal tu propio cadáver en un saco?}
 {240}{}{Entendido.}
-{241}{}{Chúpate esa.}
+{241}{}{Cómemela.}
 {242}{Set45a}{Con mucho gusto...}
 {243}{Set46}{Sin farol, sin truco. El Maestro no me hace temblar. Camina. Tu bienvenida aquí ya lo ha hecho.}
 {244}{}{Gracias por tu tiempo.}

@@ -11,7 +11,7 @@
 {110}{Vree02}{Saludos. Es un buen día para aprender. ¿Puedo ayudarte?}
 {111}{}{Sé que eres la Escriba Jefa, ¿pero qué significa?}
 {112}{}{Necesito información técnica.}
-{113}{}{Eh...}
+{113}{}{Uhh...}
 {114}{Vree03}{Registro los conocimientos de nuestros ancestros para las generaciones futuras.}
 {115}{}{Interesante. Eso significa que sabes muchas cosas.}
 {116}{Vree03a}{Sí, supongo que se puede decir que sé "cosas".}
@@ -47,7 +47,7 @@
 {146}{}{Tengo otra pregunta...}
 {147}{Vree29}{Toma, ten este holodisco, contiene copias de mis autopsias de cadáveres mutantes. Muestra claramente que ningún mutante podría reproducirse con éxito.}
 {148}{}{Gracias.}
-{149}{}{¿Puedo preguntarte otra cosa?}
+{149}{}{¿Puedo preguntar algo más?}
 {150}{Vree30}{No creo que deba contarte nada. Quizás más adelante, cuando te hayas entregado a la causa de la Hermandad. }
 {151}{Vree31}{Estoy segura de que te encuentras en el lugar equivocado. Vete, por favor. Estoy ocupada.}
 {152}{Vree32}{¡Destruirás la sabiduría que puede salvar al mundo!}
@@ -85,7 +85,7 @@
 {184}{Vree47a}{Buen día.}
 {185}{Vree48}{Eso parece un problema de fabricación. Nosotros solo manejamos la teoría y el diseño. Pídele ayuda a uno de los Caballeros.}
 {186}{}{Gracias de todos modos.}
-{187}{}{¿Puedo preguntarte otra cosa?}
+{187}{}{¿Puedo preguntar algo más?}
 {188}{Vree200}{Por favor, habla con otro de los Escribas. Estoy intentando terminar unos informes para los otros Ancianos.}
 {189}{Vree201}{No sé nada de eso. Pero suena como algo que quizás debería investigar.}
 {190}{Vree202}{Lo siento, no es una de mis especialidades. Quizás lo sepa algún otro Hermano.}

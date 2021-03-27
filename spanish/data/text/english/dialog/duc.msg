@@ -21,7 +21,7 @@
 {120}{}{¿Qué vendes?}
 {121}{}{Nada, gracias.}
 {122}{}{¿Qué quieres?}
-{123}{}{Nada, perdona.}
+{123}{}{Nada, lo siento.}
 {124}{}{¿Qué vendes?}
 {125}{}{¿Eh?}
 {126}{}{Debes tener cuidado si viajas en solitario. Últimamente ha desaparecido gente en las Arenas Sombrías.}

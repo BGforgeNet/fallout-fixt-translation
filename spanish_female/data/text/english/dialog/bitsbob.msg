@@ -144,7 +144,7 @@
 {243}{}{¡¿Treinta chapas?! ¿Estás bromeando?}
 {244}{}{Mira imbécil, tú eres el que me ha destrozado mi margen de beneficios. Así que si no te gustan mis precios, vete a la mierda. Hay muchos establecimientos de iguana por aquí. Oh, espera, no los hay. Imbécil.}
 {245}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Ahora, si no estás aquí para comprar, lárgate de mi vista.}
-{246}{}{Lo que tú digas. Adiós.}
+{246}{}{Lo que sea. Adiós.}
 {247}{}{De hecho, ahora que lo pienso, estoy bastante hambriento.}
 {250}{}{ puntos de experiencia por extorsionar a Bob para que pague por tu silencio.}
 {251}{}{¿Cómo va el negocio, Bob? *guiño*}

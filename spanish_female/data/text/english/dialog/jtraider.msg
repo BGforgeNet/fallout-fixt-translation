@@ -37,7 +37,7 @@
 {136}{}{You sound like an all right kind of guy. No one ever wanted to help me before. I think we can talk some more.}
 {137}{}{You sound like an all right kind of gal. No one ever wanted to help me before. I think we can talk some more.}
 {138}{}{Déjame solo. ¡Te odio! Eres el demonio. No te escucharé.}
-{139}{}{Hazlo a tu modo.}
+{139}{}{Hazlo a tu manera.}
 {140}{}{Tienes que escucharme. Tu vida y la de la chica dependen de eso.}
 {141}{}{Relájate. No te haré daño. Solo quiero escuchar lo que tienes que decirme.}
 {142}{}{Otra vez estás amenazándome. ¡¡Muere!!}

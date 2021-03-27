@@ -61,7 +61,7 @@
 {160}{}{Entonces, supongo que estoy destinado a ser tu explorador.}
 {161}{}{O sea, que como no salieron de esa, yo tengo que hacer el trabajo sucio. Olvídalo.}
 {162}{Gen_17}{Entonces comprendes el problema. Para sobrevivir, necesitamos a alguien que conozca el exterior. Como tú. }
-{163}{}{Vale, lo haré.}
+{163}{}{Está bien, lo haré.}
 {164}{}{Tengo mis propios problemas. Paso.}
 {165}{Gen_18}{Pues... con lo que me temo que se avecina, no podemos perder el tiempo en nadie que no... contribuya. Así es que, o trabajas para nosotros o te vas de paseo.}
 {166}{}{Bueno, si lo pones así, estoy con vosotros.}
@@ -204,14 +204,14 @@
 {325}{}{Creo que no soy capaz de asumir esta tarea.}
 {326}{}{Solo soy leal a una persona.}
 {327}{}{Puedo.}
-{328}{}{¿Duh?}
+{328}{}{¿Uh?}
 {329}{}{¿Por qué todos parecen estar tan tensos? Es como si os preparaseis para la guerra, pero que nadie supiese contra quien.}
 {330}{}{Necesito hablar contigo de la desaparición de las caravanas. ¿Tienes alguna opinión sobre el asunto?}
 {331}{}{No importa.}
 {332}{}{Necesito hacerte unas preguntas.}
-{333}{}{¿Duh?}
+{333}{}{¿Uh?}
 {334}{}{Tengo información sobre la zona situada al norte de aquí.}
-{335}{}{¿Puedo hacerte algunas preguntas?}
+{335}{}{¿Puedo hacerte unas preguntas?}
 {336}{}{No importa.}
 {337}{}{Perdona, la verdad es que no tenía nada.}
 {338}{}{Vi su base. Está llena de mutantes.}
@@ -225,7 +225,7 @@
 {346}{}{¿Quiénes son los Ancianos?}
 {347}{}{¿Sabes algo de la Garra Mortal?}
 {348}{}{No importa.}
-{349}{}{¿Puedo hacerte otra pregunta?}
+{349}{}{¿Puedo preguntarte otra cosa?}
 {350}{}{Gracias.}
 {351}{}{Ganas }
 {352}{}{ puntos de experiencia por explorar el área norte.}

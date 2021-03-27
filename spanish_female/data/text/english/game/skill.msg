@@ -78,6 +78,6 @@
 {571}{}{Robas: %s.}
 {572}{}{Te han cogido colocando: %s.}
 {573}{}{Colocas: %s.}
-{590}{}{Has sobrepasado tu capacidad con esta habilidad. Espera un momento.}
+{590}{}{Has forzado tu capacidad con esa habilidad. Espera un rato.}
 {591}{}{Estás demasiado cansado para hacer eso.}
 {592}{}{El esfuerzo podría matarte. Descansa un poco.}

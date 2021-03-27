@@ -1,5 +1,5 @@
 {100}{}{Ves: a Heather, de los Exploradores de los Seguidores.}
-{101}{}{¿Qué haces aquí?}
+{101}{}{¿Qué estás haciendo aquí?}
 {102}{}{¡Chungo!}
 {103}{}{Aa-dióós.}
 {104}{}{Tan sólo estoy echando un vistazo.}

@@ -56,7 +56,7 @@
 {155}{}{Solo quiero hacer algunas preguntas.}
 {156}{}{No, no puedes hacerme preguntas. Ahora vete.}
 {157}{}{¡Para! ¡No tienes por qué estar aquí! }
-{158}{}{¿Duh?}
+{158}{}{¿Uh?}
 {159}{}{Lo siento. Estoy perdida. Me iré ahora.}
 {160}{}{Pero sí tengo porqué estar aquí. Morfeo me envió en misión para el Maestro.}
 {161}{}{Seguí a un tipo con aspecto sospechoso hasta aquí. ¿Lo habéis visto?}

@@ -50,7 +50,7 @@
 {149}{}{Déjame en paz.}
 {150}{}{Creo que deberías dejarnos solos a mi familia y a mí, }
 {151}{}{. Sería lo mejor.}
-{152}{}{Debería darte vergüenza.}
+{152}{}{Deberías avergonzarte de ti mismo.}
 {153}{}{Y pensar que me gustabas.}
 {154}{}{El morador del Refugio se niega a hablar contigo.}
 {155}{}{Te lanza una mirada vacía cuando intentas hablar.}

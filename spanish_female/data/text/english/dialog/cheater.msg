@@ -113,7 +113,7 @@
 {264}{}{6  Dame los objetos de trucos debug (muchos)}
 {265}{}{Sí. (También se elimina todo el inventario existente y están equipadas)}
 {266}{}{¿Vale, adelantar o atrasar?}
-{267}{}{¿Estás seguro?}
+{267}{}{¿Estás segura?}
 {268}{}{No. [volver]}
 {269}{}{1  Necrópolis,  Refugio 13,  Refugio 15}
 {270}{}{2  Ciudad Vertedero,  Hermandad del Acero,  Ciudad}

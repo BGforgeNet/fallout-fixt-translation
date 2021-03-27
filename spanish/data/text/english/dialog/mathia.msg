@@ -16,7 +16,7 @@
 {115}{}{Hola de nuevo, Iniciado. ¿Puedo ayudarte?}
 {116}{}{¿Qué?}
 {117}{}{Lo siento, he olvidado tu nombre.}
-{118}{}{Lo siento. Pensé que eras otra persona. Adiós.}
+{118}{}{Perdona, pensaba que eras otra persona. Buenos días.}
 {119}{}{Bien, vamos. [Te agarra de un brazo.]}
 {120}{}{Oh oh.}
 {121}{}{Uh uh.}

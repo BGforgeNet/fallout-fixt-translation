@@ -247,7 +247,7 @@
 {347}{}{Hernández}
 {348}{}{Cuevas}
 {349}{}{Miles}
-{350}{}{Herreriano}
+{350}{}{Smitty}
 {351}{}{Residencia de Adytum}
 {352}{}{Regulador}
 {353}{}{Lorraine}
@@ -384,7 +384,7 @@
 {484}{}{Fustigador}
 {485}{}{Vinnie}
 {486}{}{Víctor}
-{487}{}{Shark}
+{487}{}{Tiburón}
 {488}{}{Sherry}
 {489}{}{Tycho}
 {490}{}{Bandido de los Kalaveras}
@@ -588,7 +588,7 @@
 {688}{}{Niño de las Flores}
 {689}{}{Jake}
 {690}{}{Paciente de los Niños de la Catedral}
-{691}{}{Herreriano}
+{691}{}{Smitty}
 {692}{}{Jasmine}
 {693}{}{Puesto de Trabajo}
 {694}{}{Kane}

@@ -3,7 +3,7 @@
 {102}{}{Necesito algunas cosas.}
 {103}{}{Necesito entrenarme.}
 {104}{}{Necesito un médico.}
-{105}{}{Nada, siento haberte molestado.}
+{105}{}{Nada, lamento molestarte.}
 {106}{}{¿Yuk Yuk?}
 {107}{}{Ruh.}
 {108}{}{¿Qué demonios quieres a estas horas?}
@@ -20,7 +20,7 @@
 {121}{}{Combate desarmado.}
 {122}{}{Armas de melé.}
 {123}{}{Armas arrojadizas.}
-{124}{}{Nada, perdona.}
+{124}{}{Nada, lo siento.}
 {125}{}{Debería echarte de mi habitación, pero soy un viejo simpático. Los Ancianos dicen que nada de entrenar a nuevos iniciados, pero... quizás pueda ayudarte. No creo que pensasen en ti al decir eso. ¿En qué quieres entrenarte?}
 {126}{}{Hombre, hola. Me alegro de verte. No te cortes, ya no duermo mucho. ¿Quieres entrenarte un poco? Qué será hoy... quiero decir... esta noche.}
 {127}{}{¡Sabía que volverías! ¿Qué te apetece hacer esta noche?}

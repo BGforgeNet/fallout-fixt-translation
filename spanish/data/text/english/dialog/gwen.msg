@@ -1,7 +1,7 @@
 {100}{}{Estás viendo a una bandida del desierto. Basado en cómo la miran los demás, debe de tener una posición de importancia o autoridad.}
 {101}{}{Soy Gwen. Formo parte de los consejeros de Garl. ¿Quién eres tú?}
 {102}{}{Soy }
-{103}{}{. ¿Qué haces por aquí?}
+{103}{}{. ¿Qué estás haciendo por aquí?}
 {104}{}{No soy nadie especial. ¿Qué me puedes contar sobre tu campo?}
 {105}{}{¿Mmm?}
 {106}{}{Soy quien te va a volar los sesos, muñeca.}

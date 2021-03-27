@@ -4,7 +4,7 @@
 {103}{}{¿Has oído algún rumor interesante?}
 {104}{}{¿Qué me puedes contar de los alrededores?}
 {105}{Rhom1}{¿Te puedo ayudar en algo?}
-{106}{}{¿Te puedo hacer unas preguntas?}
+{106}{}{¿Puedo hacerte algunas preguntas?}
 {107}{}{No tienes pinta de luchador.}
 {108}{}{¿Ehhh?}
 {109}{Rhom2}{Sí.}

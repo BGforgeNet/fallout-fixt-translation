@@ -12,7 +12,7 @@
 {111}{}{¿Apartar eso?}
 {112}{}{No me digas lo que tengo que hacer, perdedor.}
 {113}{}{Me parece bien. Por cierto, ¿cuál es la ley local sobre armas?}
-{114}{}{Uh, oh.}
+{114}{}{Uh-oh.}
 {115}{}{Tu arma, idiota. Killian no te quitará las armas, pero será mejor que las mantengas enfundadas.}
 {116}{}{Oh, lo siento.}
 {117}{}{¡De ninguna manera! ¡NO voy a dejar mis armas por nadie!}

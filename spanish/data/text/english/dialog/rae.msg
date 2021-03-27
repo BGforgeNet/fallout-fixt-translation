@@ -5,7 +5,7 @@
 {104}{}{Y tú tampoco.}
 {105}{}{Oh... yo sí. El Maestro me tiene así disfrazado explorando por ahí para comprobar nuestra seguridad.}
 {106}{}{Sí, y estoy aquí para matarte.}
-{107}{}{Vale, me voy.}
+{107}{}{Está bien, me marcho.}
 {108}{}{Eh.}
 {109}{}{(Suspira) ¿Y ahora qué quieres?}
 {110}{}{Estoy perdido... ¿Puedes decirme cómo llegar al Maestro? Tengo que matarlo.}

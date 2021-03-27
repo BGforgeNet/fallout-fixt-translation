@@ -3,13 +3,13 @@
 {102}{}{¿No tendrá algo que ver con los rumores sobre un ejército de Supermutantes que va por ahí arrasando?}
 {103}{}{¿Dónde vamos?}
 {104}{}{¿A qué estás esperando? ¡Vámonos!}
-{105}{}{No lo creo.}
+{105}{}{Creo que no.}
 {106}{}{¿Qué es esa peste a cadáver pútrido? ¡Oh, eres tú!}
 {107}{}{¿Ruh?}
 {108}{}{Sígueme y lo descubrirás. O hablando en claro: ¡Sígueme y vivirás, idiota!}
 {109}{}{¿O sea que si no voy, muero? No me parece muy piadoso.}
 {110}{}{Me has convencido. ¡Andando!}
-{111}{}{No lo creo.}
+{111}{}{Creo que no.}
 {112}{}{¡No empieces algo que no puedes terminar, fierecilla!}
 {113}{}{¡Excelente!}
 {114}{}{No deberías jugar con Lady Jain o con los Niños.}

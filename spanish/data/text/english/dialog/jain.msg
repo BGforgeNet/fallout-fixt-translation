@@ -6,7 +6,7 @@
 {105}{}{¿Mamá?}
 {106}{JAIN01}{Sería extraño que fuese tu madre.}
 {107}{}{No, ¿eh?}
-{108}{}{¡Cacota!}
+{108}{}{¡Mecachis!}
 {109}{JAIN02}{¿Cómo te atreves a hablarme de esa manera? ¡Tu insolencia será castigada! ¡Guardias!}
 {110}{JAIN03}{Quizás uno de nuestros sacerdotes se preocupará de tu educación deficiente. Ahora vete.}
 {111}{JAIN04}{¿Has estudiado los sacramentos, hijo?}
@@ -30,7 +30,7 @@
 {129}{}{Soy un devoto creyente.}
 {130}{JAIN12}{Entonces deberías tener un sitio mejor donde estar. Y cuida tus modales. Vete.}
 {131}{}{Vale.}
-{132}{}{Chúpate esa.}
+{132}{}{Cómemela.}
 {133}{JAIN13}{¿Quieres convertirte a nuestra religión? Te ofreceremos lo que nadie.}
 {134}{}{¿El qué?}
 {135}{}{No, no me interesa. Creo que estáis todos chiflados.}
@@ -50,7 +50,7 @@
 {149}{}{¿Qué planes tienen los Niños para los mutantes?}
 {150}{}{¿Cómo pueden encontrar la paz los Niños en este yermo?}
 {151}{JAIN21}{Aquellos que acepten entrar en el redil, la encontrarán. Los que se resistan, sufrirán.}
-{152}{}{Parece difícil.}
+{152}{}{Parece un trabajo duro.}
 {153}{}{Es hora de que sufras un poquito.}
 {154}{}{Así sea. ¡Espero que triunfes en tu cruzada!}
 {155}{}{Eh, tengo que irme.}

@@ -31,7 +31,7 @@
 {130}{}{No es asunto tuyo, caraculo.}
 {131}{}{Qué bien encontrarte. Pisa con cuidado, colega.}
 {132}{}{Vaya, vaya, no hace falta ser maleducado. Con esa actitud será mejor que te vayas.}
-{133}{}{Chúpate esa.}
+{133}{}{Cómemela.}
 {134}{}{Lo que sea. Nos vemos.}
 {135}{}{¿Qué quieres?}
 {136}{}{Siento molestarte en tu tiempo de descanso. Vete por ahí.}

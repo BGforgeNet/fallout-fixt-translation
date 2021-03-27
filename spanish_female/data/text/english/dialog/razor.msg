@@ -40,7 +40,7 @@
 {139}{}{¿Quieres decir que nunca habéis hecho nada contra Adytum?}
 {140}{}{Hay un nido de Garras Mortales entre nosotros y ellos. Ni siquiera hemos hablado nunca con ninguno de ellos. Los Reguladores tienen el poder para acabar con las Garras Mortales pero por algún motivo no lo hacen.}
 {141}{}{¿Dónde puedo encontrar a los Pistoleros?}
-{142}{}{De acuerdo. Adiós.}
+{142}{}{Está bien. Adiós.}
 {143}{}{Josh vivía aquí conmigo... eh... yo... digo, nosotros. Él sabía la verdad sobre lo que estaba pasando. Los Reguladores le dijeron que si alguna vez intentaba ponerse en contacto con su padre o volver a Adytum lo matarían.}
 {144}{}{¿Que lo matarían? ¿Qué hizo?}
 {145}{}{Voy a Adytum a aclarar esto.}
@@ -53,7 +53,7 @@
 {152}{}{Claro. Cualquier cosa por ayudar.}
 {153}{}{Podría. Necesito ir a comprobar algunas cosas antes de hacer nada.}
 {154}{}{Gracias. Eso sería de gran ayuda. Buena suerte. (Te da el holodisco)}
-{155}{}{Hasta luego.}
+{155}{}{Te veré más tarde.}
 {156}{}{Muy bien. Espero que hayas tomado la decisión adecuada.}
 {157}{}{Adiós.}
 {158}{}{Los Pistoleros están al este y luego al norte de aquí. Pero ten cuidado: A las Garras Mortales hay que tomarlas en serio. He visto cómo una Garra Mortal partía a un hombre en dos de un solo golpe.}
@@ -88,7 +88,7 @@
 {187}{}{Están un poco al este de aquí, pero hay un nido de Garras Mortales entre ellos y nosotros. Ni siquiera hemos hablado con algún Pistolero.}
 {188}{}{Vale, dame el holodisco e iré a hablar con los Pistoleros antes de acercarme a Zimmerman.}
 {189}{}{Espero que encuentres un modo de ayudarnos. Adiós.}
-{190}{}{¿Qué ocurre?}
+{190}{}{¿Qué sucede?}
 {191}{}{¡Mataron a Zimmerman!}
 {192}{}{¿Eh... qué?}
 {193}{}{... Ahora la única opción que nos queda es obtener esas armas de los Pistoleros. ¿Nos ayudarás?}

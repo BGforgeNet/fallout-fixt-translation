@@ -22,7 +22,7 @@
 {121}{}{Eso fue horrible. Si quieres, puedo conseguirte otras 400 chapas si vuelves al Eje conmigo. Es demasiado peligroso para una sola persona.}
 {122}{}{Obtendrás otras 400 chapas si puedes llevarme a mí y a la caravana al Eje sanos y salvos, pero solo si lo consigues. Has de cubrirme si nos metemos en líos.}
 {123}{}{¿Así que has cambiado de opinión?}
-{124}{}{Sí, cogeré el trabajo.}
+{124}{}{Sí, haré el trabajo.}
 {125}{}{No.}
 {126}{}{¿Eh?}
 {127}{}{Lo siento, no vamos a volver al Eje hoy.}

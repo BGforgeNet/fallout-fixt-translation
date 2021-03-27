@@ -1,7 +1,7 @@
 {100}{}{Sistema:                                                         Energía Principal:              INACTIVA                           Energía de Emergencia:         ACTIVA}
 {101}{}{Gestión de Energía}
 {102}{}{*est*ón*de En*rgí*}
-{103}{}{Salir}
+{103}{}{Salir.}
 {104}{}{Gestión del Sistema de Energía}
 {105}{}{Energía Principal}
 {106}{}{Energía de Emergencia}
@@ -19,14 +19,14 @@
 {118}{}{ATRÁS}
 {119}{}{Sistema:                                                         Energía Principal:              ACTIVA                           Energía de Emergencia:         EN ESPERA}
 {120}{}{Gestión de Energía}
-{121}{}{Salir}
+{121}{}{Salir.}
 {122}{}{Gestión de Energía Principal:   ACTIVO}
 {123}{}{Desactivar Energía Principal}
 {124}{}{ATRÁS}
 {125}{}{Sistema:                                                         Energía Principal:              ACTIVA}
 {126}{}{D*s*ct*v*r E**rgí* Pr*nc*p*l}
 {127}{}{Desactivar Energía Principal}
-{128}{}{Salir}
+{128}{}{Salir.}
 {129}{}{*est*ón d*l S*st*m* d* E**rgí*}
 {130}{}{E**rg*a Pr*nc*p*l}
 {131}{}{E**rg*a d* *m*rg*nc**}
@@ -43,9 +43,9 @@
 {142}{}{Ev*l*a* E**rgí* Pr*nc*p*l}
 {143}{}{*ct*v*r E**rgí* d* *m*rg*nc**}
 {144}{}{B*sc* *est*ón E**rgí*}
-{145}{}{Salir}
+{145}{}{Salir.}
 {146}{}{¡*rr*r *n S*st*m*!                                                         *sua**o *nv*l*d*. N*t*f*c*r a* *dm*n*str*d**.                          S*st*m* d*te*i*o.}
-{147}{}{Salir}
+{147}{}{Salir.}
 {148}{}{D*s*ct*v*r E**rgí* d* *m*rg*nc**}
 {200}{}{Dame acceso al Sistema Principal.}
 {201}{}{Acceso denegado. Fin de entrada de datos.}

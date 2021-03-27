@@ -6,7 +6,7 @@
 {105}{}{¿No me has escuchado? Te he dicho que las Salas son zona prohibida.}
 {106}{}{Hola, Hermano. ¿Cómo puedo ayudarte?}
 {107}{}{Perdona que pregunte, pero, ¿qué haces para nuestra Hermandad?}
-{108}{}{¿Qué haces por aquí?}
+{108}{}{¿Qué estás haciendo por aquí?}
 {109}{}{Me han herido. ¿Puedes curarme?}
 {110}{}{¡Urak Chufar!}
 {111}{}{Lo siento, pero no entiendo lo que quieres. Si necesitas suministros, necesitas tener una autorización.}

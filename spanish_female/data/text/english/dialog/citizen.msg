@@ -1,6 +1,6 @@
 {100}{}{Estás viendo a un ciudadano de Arenas Sombrías.}
 {101}{}{Bienvenida a Arenas Sombrías, forastera.}
-{102}{}{Oh, gracias.}
+{102}{}{Eh, gracias.}
 {103}{}{¿Qué ocurre en este lugar?}
 {104}{}{¡Unnh!}
 {105}{}{Somos una auténtica comunidad. Trabajamos juntos y lo compartimos todo.}

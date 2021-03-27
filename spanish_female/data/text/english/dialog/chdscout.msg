@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un explorador en alerta.}
-{101}{}{¿Quién va?}
+{101}{}{¿Quién anda ahí?}
 {102}{}{Yo. Yo.}
 {103}{}{¿Quién va?}
 {104}{}{¡Yo!}
@@ -27,7 +27,7 @@
 {126}{}{Oh, un Refugio. Seguro que es muy bonito. Quizás quieras hablar con unos de mis superiores sobre ello. Ahora mismo estoy muy ocupado.}
 {127}{}{Estar por aquí es muy peligroso. Este lugar lo rondan monstruos grandes y malvados. Estamos intentando salvar lo que podamos antes de que regresen.}
 {128}{}{¡No ir! ¡No ir!}
-{129}{}{Uh, oh.}
+{129}{}{Uh-oh.}
 {130}{}{A-diós.}
 {131}{}{Vale. Sírvete tú misma. Cuando vuelvan aquí, serás su almuerzo.}
 {132}{}{¡Yo matar! ¡Yo matar!}

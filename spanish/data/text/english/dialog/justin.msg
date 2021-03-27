@@ -58,7 +58,7 @@
 {157}{}{Iré.}
 {158}{}{No, lo siento.}
 {159}{}{¿Eh?}
-{160}{}{Te estaremos vigilando.}
+{160}{}{Te estamos vigilando.}
 {161}{}{¡He de denunciar un delito!}
 {162}{}{Tienes un buen trabajo.}
 {163}{}{Venga, ya nos volveremos a ver.}

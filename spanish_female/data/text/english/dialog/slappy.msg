@@ -9,7 +9,7 @@
 {108}{}{Oooh, bonito, bonito. ¿Por qué está la luna?}
 {109}{}{Uh, hablé con Harold. Eso de la Garra Mortal suena a algo bastante malo. ¿Qué puedes decirme de ello?}
 {110}{}{Beth me dijo que hablara contigo sobre la Garra Mortal.}
-{111}{}{¿Qué haces por aquí?}
+{111}{}{¿Qué estás haciendo por aquí?}
 {112}{}{¿Cuál es tu problema?}
 {113}{}{¡Luna Grande, mi gustar Luna!}
 {114}{}{Todo brillante, todo está brillante, el brillo viene a nosotros y luego nos condenamos.}

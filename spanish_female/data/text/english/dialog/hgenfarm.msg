@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un granjero.}
+{100}{}{Ves a un granjero.}
 {101}{}{Necesito una tierra mejor.}
 {102}{}{No necesito a nadie.}
 {103}{}{No necesito más agua; vete, por favor.}

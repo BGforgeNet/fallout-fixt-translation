@@ -226,7 +226,7 @@
 {11301}{}{Una túnica de los Niños de la Catedral.}
 {11400}{}{Mano de Tangler}
 {11401}{}{Un manipulador cibernético con la forma de una mano. Deteriorada debido a la naturaleza húmeda del proceso de eliminación.}
-{11500}{}{Superalmádena}
+{11500}{}{Súper almádena}
 {11501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback.                  - Min STR: 5.                - Weapon Knockback feature: knocks target away by 1 hex for every 5 points of damage.}
 {11600}{}{Destripador}
 {11601}{}{A Ripper(tm) vibro- knife. Powered by a small energy cell, the chainblade rips and tears into its target.   - Min STR: 4.               - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}

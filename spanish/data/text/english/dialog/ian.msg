@@ -55,7 +55,7 @@
 {154}{}{¿Qué demonios ha pasado aquí?}
 {155}{}{Este lugar me saca de quicio.}
 {156}{}{Mmm. Es una oferta tentadora porque este lugar empieza a ser aburrido. Te diré qué haremos. Tarifas estándar. 100 chapas y trato hecho.}
-{157}{}{Trato hecho.}
+{157}{}{Es un trato.}
 {158}{}{No, gracias.}
 {159}{}{Y en vez de eso, ¿qué tal un poco de acción?}
 {160}{}{All right, I'll help you out in exchange for my share of loot.}
@@ -71,11 +71,11 @@
 {170}{}{He oído hablar de esos sitios pero nunca he estado en ninguno antes. Parece agradable y limpio... demasiado limpio para mi gusto.}
 {171}{}{No es lo que me pediste, pero el hombre quería darte tiempo para pensar.}
 {172}{}{Ya sabes, esa mujer no podría ni bailar un tango y mucho menos preparar una revolución.}
-{173}{}{¿Con qué armas te manejas mejor?}
+{173}{}{¿Qué armas sabes manejar?}
 {174}{}{Soy buen tirador con casi todas las pistolas y también puedo usar un subfusil ametrallador. Además, también me las apaño con un cuchillo.}
 {175}{}{Pensé que el Cementerio de LA era peor.}
 {200}{}{Desenfunda tu mejor arma la próxima vez que peleemos.}
-{201}{}{Tenlo por seguro.}
+{201}{}{Por supuesto.}
 {202}{}{¿Puedo hacer algo por ti antes de irme?}
 {203}{}{Um, sí. Creo que, después de todo, podemos soportarnos.}
 {204}{}{Uh, no. Gracias.}

@@ -23,7 +23,7 @@
 {122}{}{No te lo voy a decir y no puedes obligarme.}
 {123}{}{Está... está...}
 {124}{LIEUT5}{Oh, por supuesto, querido ser humano. Siento curiosidad sobre lo que me puedes querer preguntar.}
-{125}{}{¿Qué haces por aquí?}
+{125}{}{¿Qué es lo que haces aquí?}
 {126}{}{¿Para quién trabajas?}
 {127}{}{¿Para qué me quieres?}
 {128}{}{¿Qué tal si me marcho ahora mismo?}
@@ -135,7 +135,7 @@
 {234}{}{Primero, ¿puedo hacerte unas preguntas más?}
 {235}{LIEUT41}{Oh, esto es fantástico. Sabes, de hecho, dudé de mis oficiales cuando me dijeron que habían capturado un normal puro. Me alegra tanto verte.}
 {236}{}{Vete al infierno.}
-{237}{}{¿Qué quieres de mí?}
+{237}{}{¿Qué es lo que quieres de mí?}
 {238}{}{¡Bah!}
 {239}{LIEUT42}{Sí, tienes tacto con las palabras. Y son palabras lo que queremos antes de...}
 {240}{}{¿Qué quieres decir con "antes de"?}
@@ -149,7 +149,7 @@
 {248}{LIEUT45f}{Vaya, estoy impresionado. Mis espías me dijeron que tenías muchos recursos, pero parece que subestimaron tu talento. ¡Guardias, capturadla!}
 {249}{LIEUT46}{Ah, ¿una buena siesta? Espero que sí. Pero ahora tenemos que volver a nuestro asunto.}
 {250}{}{Vete al infierno.}
-{251}{}{¿Qué quieres de mí?}
+{251}{}{¿Qué es lo que quieres de mí?}
 {252}{LIEUT48}{Tu intelecto es sorprendente. Por qué no tienes legiones de seguidores en este momento es algo que nunca comprenderé. ¡Guardias, sacad de aquí a este idiota!}
 {253}{LIEUT50}{Como te he dicho...}
 {254}{lieut51}{Como ya te he dicho antes...}

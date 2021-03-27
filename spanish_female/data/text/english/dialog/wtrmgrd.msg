@@ -7,7 +7,7 @@
 {106}{}{Será mejor que te vayas mientras puedas.}
 {107}{}{Tienes unos segundos para irte o morirás.}
 {108}{}{¿Estás sorda? ¡Vete ahora!}
-{109}{}{Eso es.}
+{109}{}{Eso es todo.}
 {110}{}{Tendrás que aprender de mala manera.}
 {111}{}{¿Es que no oyes?}
 {112}{}{Hay que darle una lección.}

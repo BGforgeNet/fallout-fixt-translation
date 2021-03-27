@@ -2,7 +2,7 @@
 {101}{}{Ves: a Gabriel, el líder de los Pistoleros.}
 {102}{}{No recibimos visitas muy a menudo. ¿En qué puedo ayudarte?}
 {103}{}{¿Por qué no recibís muchas visitas?}
-{104}{}{¿Qué haces por aquí?}
+{104}{}{¿Qué es lo que haces aquí?}
 {105}{}{Este lugar no es muy accesible con esa manada de malditas Garras Mortales fuera de nuestra fábrica.}
 {106}{}{Tenéis muchas armas. ¿Por qué no vais y las extermináis?}
 {107}{}{Hemos salido y acabado con unas cuantas, pero siempre vuelven. Además, somos maquinistas, no luchadores.}
@@ -27,7 +27,7 @@
 {126}{}{Vale, lo haré.}
 {127}{}{Tendré que pensarlo.}
 {128}{}{Hola de nuevo.}
-{129}{}{¿Qué haces por aquí?}
+{129}{}{¿Qué es lo que haces aquí?}
 {130}{}{Adiós.}
 {131}{}{}
 {132}{}{Todo va bien.}
@@ -40,7 +40,7 @@
 {139}{}{Sí. Puede que nos veamos por aquí.}
 {140}{}{No recibimos visitas con frecuencia. ¿En qué puedo ayudarte?}
 {141}{}{¿Por qué no recibís muchas visitas?}
-{142}{}{¿Qué haces por aquí?}
+{142}{}{¿Qué es lo que haces aquí?}
 {143}{}{Este lugar no es muy accesible con ese nido de malditas Garras Mortales fuera de nuestra fábrica.}
 {144}{}{He matado a todas las Garras Mortales, incluso todos esos malditos huevos.}
 {145}{}{Lo haríamos si pudiéramos. Pero la mudanza es imposible con todos los tornos y molinos. No son cosas que puedan desmontarse y moverse fácilmente. Podríamos irnos pero las Garras Mortales nos lo impiden.}

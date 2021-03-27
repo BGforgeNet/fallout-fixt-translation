@@ -7,7 +7,7 @@
 {106}{}{¡Feliz Día de Acción de Gracias!}
 {107}{}{¡Feliz Navidad!}
 {200}{}{[MÁS]}
-{201}{}{[ATRÁS]}
+{201}{}{[VOLVER]}
 {202}{}{Misiones}
 {203}{}{No hay tareas actuales.}
 {204}{}{PISTAS}

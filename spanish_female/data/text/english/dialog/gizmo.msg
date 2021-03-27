@@ -120,7 +120,7 @@
 {219}{}{¿Sabes? Encontré algo muy interesante cuando te marchaste la última vez. Si hay algo que me dé más asco que una hamburguesa recalentada es un chivata. ¡Chicos!}
 {220}{}{Hasta aquí hemos llegado, Killian. Bueno, nunca soporté tu olor y ahora, ¡lo voy a arreglar!}
 {221}{}{Me he ocupado de Killian. Dicen que sabrás apreciarlo.}
-{222}{}{¿Oh, en serio?}
+{222}{}{Oh, ¿en serio?}
 {223}{}{Oye, está bien, si no lo quieres muerto, estupendo. Solo intentaba ayudar.}
 {224}{}{Estaba pensando en un cuchillo en la espalda o una bala entre los ojos.}
 {225}{}{Lo pillo. ¿Por qué le quieres muerto?}

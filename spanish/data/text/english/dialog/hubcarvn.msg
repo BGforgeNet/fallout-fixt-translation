@@ -8,7 +8,7 @@
 {107}{}{Espero que vendamos todo.}
 {108}{}{No puedo esperar a que acabemos.}
 {109}{}{Estoy listo para liquidar al que sea.}
-{110}{}{¡Ya estamos fuera!}
+{110}{}{¡Nos vamos de aquí!}
 {111}{}{Hoy sí que fue un día caluroso.}
 {112}{}{Oye, tengo sed.}
 {113}{}{¿Qué día es hoy?}

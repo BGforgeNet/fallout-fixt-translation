@@ -39,6 +39,6 @@
 {138}{}{Gracias. Oh Dios, eso está bien... No tengo muchas chapas, pero ahora son tuyas.}
 {139}{}{Gracias. Quizás lo que ocurrió fue un malentendido. No tengo muchas chapas, pero... ¡qué diablos! Se me debieron caer. Ahora son tuyas.}
 {140}{}{Gracias. Oh Dios, eso está bien... No tengo muchas chapas, pero... ¡qué diablos! Se me debieron caer. Ahora son tuyas.}
-{141}{}{¡Ayúdame!}
+{141}{}{¡Socorro!}
 {142}{}{El olor de la muerte, amiga mía. El olor de la muerte...}
 {143}{}{El olor de la muerte, amiga mía. El olor de la muerte...}

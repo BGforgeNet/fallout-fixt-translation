@@ -40,7 +40,7 @@
 {139}{}{Ummm. No me gusta tu aspecto, forastera. Pero, ¿en qué puedo ayudarte? No trato mal a los pacientes que pagan.}
 {140}{}{Necesito ayuda.}
 {141}{}{Sí, necesito ayuda.}
-{142}{}{Necesito asistencia médica.}
+{142}{}{Hoy nada, gracias.}
 {143}{}{Ayuda.}
 {144}{}{Oh, Eres tú otra vez. Me gusta tu estilo, aunque no me gustas tú. ¿En qué puedo ayudarte?}
 {145}{}{Necesito que me curen.}

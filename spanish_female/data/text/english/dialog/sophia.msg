@@ -22,7 +22,7 @@
 {202}{}{Sí, aquí tienes.}
 {203}{}{Sí, pero no lo llevo conmigo ahora.}
 {204}{}{¿Yo? No, lo siento. Debes confundirme con otra persona.}
-{205}{}{Uk.}
+{205}{}{Va-le.}
 {206}{}{Muchas gracias. Ha sido muy amable de tu parte el desprenderte de eso.}
 {207}{}{Emm, gracias. ¿Estás bien? Bueno, de todas formas gracias por desprenderte de eso.}
 {208}{}{Mi investigación se habría retrasado sin ellas. Es bueno ver que tenemos a un Iniciado en el que se puede confiar. Sabía que meter a un extraño no sería una mala decisión. Ve a ver a Michael, tiene algo para ti.}

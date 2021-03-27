@@ -1,7 +1,7 @@
 {100}{}{Ves: a Darrel.}
 {101}{}{Estás viendo a un Paladín.}
 {102}{}{Saludos, bienvenida a la Hermandad del Acero.}
-{103}{}{¿Eh?}
+{103}{}{Duh...}
 {104}{}{¿Qué es la Hermandad del Acero?}
 {105}{}{¿Sabes dónde puedo encontrar un Chip de Agua?}
 {106}{}{¿Sabes algo de las caravanas desaparecidas?}
@@ -78,7 +78,7 @@
 {185}{}{¿Qué...?}
 {186}{}{¿Por qué tiene dos nombres la Orden Antigua?}
 {187}{}{¿Dónde está la Orden Antigua? ¿Y cuáles son sus peligros...?}
-{188}{}{¿Te puedo hacer unas preguntas?}
+{188}{}{¿Puedo hacerte algunas preguntas?}
 {189}{}{La mayoría de los de arriba creen que es tan solo un gran agujero radioactivo. Por eso lo llaman el Ardor e incluso la Zona Caliente. En la Hermandad sabemos la verdadera historia. Según las antiguas escrituras ese lugar era la fuente de toda nuestra tecnología. Y quién sabe lo que puede haber allí todavía.}
 {190}{}{Tengo otra pregunta.}
 {191}{}{¿Puedo ayudarte?}

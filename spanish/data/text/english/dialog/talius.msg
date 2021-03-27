@@ -68,7 +68,7 @@
 {167}{}{Suena bien. Debo darme prisa.}
 {168}{}{Otros viajeros me dijeron que Necrópolis tenía un sistema para producir agua sin mucha dificultad.}
 {169}{}{Así que fui allí para ver qué es lo que hacían.}
-{170}{}{¿Qué encontraste?}
+{170}{}{¿Qué averiguaste?}
 {171}{}{¿Los liquidaste a todos?}
 {172}{}{¿Te sentías allí como en casa?}
 {173}{}{Me encontré a un gran número de cosas mutantes de esas allí. Fueron ellos los que me atraparon y me transformaron en lo que soy ahora.}

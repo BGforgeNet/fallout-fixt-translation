@@ -6,7 +6,7 @@
 {105}{}{Todavía no lo he decidido.}
 {106}{}{Caballero.}
 {107}{}{Escriba.}
-{108}{}{Uk.}
+{108}{}{Va-le.}
 {109}{}{Sí, ser Caballero sería estupendo, ven mucha acción y construyen un montón de cosas. Todavía no he tomado mi decisión, pero me inclino por ser Caballero. ¿Te estoy aburriendo? Algunos dicen que hablo mucho pero no creo que me entiendan. Lo que pasa es que tengo mucho que decir.}
 {110}{}{No, en absoluto.}
 {111}{}{Tengo que irme. Encantado de conocerte.}

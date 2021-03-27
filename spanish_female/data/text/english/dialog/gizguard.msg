@@ -1,6 +1,6 @@
-{100}{}{¡Eh!}
+{100}{}{¡Oye!}
 {101}{}{¡Aquí no se permiten armas!}
-{102}{}{¡Cuidadito!}
+{102}{}{¡Cuidado!}
 {103}{}{¡Cogedlos!}
 {104}{}{¡Deja de curiosear!}
 {105}{}{¡Deja de curiosear por aquí!}

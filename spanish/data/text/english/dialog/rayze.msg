@@ -14,7 +14,7 @@
 {113}{}{No.}
 {114}{}{Bien, entonces. Vamos a tratar de usted. Vamos a enviar a usted un poco de la misión. Ir a explorar los Tontos con el norte, y me informe.}
 {115}{}{Vale.}
-{116}{}{No lo creo.}
+{116}{}{Creo que no.}
 {117}{}{A continuación, los niños pequeños deben ir antes de que se obtenga una nalgada.}
 {118}{}{Nosotros no como extraños en nuestra ciudad. Si usted desea permanecer, por unirse a nosotros. Si no, usted podría lamentar que se alojen en Chatarra.}
 {119}{}{¿Cómo puedo unirme a ustedes?}

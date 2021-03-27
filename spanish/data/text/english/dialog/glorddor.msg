@@ -42,8 +42,8 @@
 {141}{}{Estás viendo una puerta abierta.}
 {142}{}{Estás viendo una puerta abierta con un campo móvil delante.}
 {143}{}{Estás viendo una puerta abierta con un sistema de seguridad de alto voltaje instalado en ella.}
-{144}{}{Estás viendo una puerta.}
-{145}{}{Estás viendo una puerta.}
+{144}{}{Ves una puerta.}
+{145}{}{Ves una puerta.}
 {146}{}{Estás viendo una puerta con un campo móvil delante de ésta.}
 {147}{}{Estás viendo una puerta con un sistema de seguridad de alto voltaje instalado en ella.}
 {148}{}{Estás viendo una puerta cerrada.}
@@ -90,7 +90,7 @@
 {189}{}{Estás viendo una puerta con un campo móvil amarillo delante.}
 {190}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta amarilla.}
 {191}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta amarilla. Te preguntas si habrá una llave maestra para abrirla.}
-{192}{}{Estás viendo una puerta.}
+{192}{}{Ves una puerta.}
 {193}{}{Estás viendo una puerta con un campo móvil delante de ésta.}
 {194}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta.}
 {195}{}{Estás viendo un sistema de seguridad de alto voltaje de esta puerta. Te preguntas si hay una llave maestra especial para abrirla.}

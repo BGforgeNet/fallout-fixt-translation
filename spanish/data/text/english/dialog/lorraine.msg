@@ -12,7 +12,7 @@
 {111}{}{¿Qué haces en la vida?}
 {112}{}{No importa, gracias.}
 {113}{}{Soy Lorraine.}
-{114}{}{¿Te puedo hacer unas preguntas?}
+{114}{}{¿Puedo hacerte algunas preguntas?}
 {115}{}{ Soy una carroñera. Trabajo con Sammael recogiendo objetos en las ruinas que podemos usar para construir o intercambiar.}
 {116}{}{¿Por qué no hacen todos lo mismo aquí?}
 {117}{}{¿Cuántos carroñeros sois?}
@@ -62,7 +62,7 @@
 {161}{}{}
 {162}{}{Gracias por tu ayuda.}
 {163}{}{Bueno. Se supone que estaba al sur, pero realmente no lo sé. Pienso que todos se fueron porque funcionaba mal...}
-{164}{}{¿Puedo preguntarte algo más?}
+{164}{}{¿Puedo hacerte más preguntas?}
 {165}{}{Umm. Gracias.}
 {166}{}{No estoy segura del todo. Creo que procedían de algún lugar al norte de aquí.}
 {167}{}{¿Qué sabes de los Reguladores?}

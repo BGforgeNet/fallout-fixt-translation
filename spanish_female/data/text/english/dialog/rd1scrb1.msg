@@ -1,6 +1,6 @@
 {100}{}{Ves a un Caballero.}
 {101}{}{Ves a un Escriba.}
-{102}{}{¿Qué haces aquí?}
+{102}{}{¿Qué estás haciendo aquí?}
 {103}{}{¿Quién eres?}
 {104}{}{¿No te he visto antes?}
 {105}{}{Esta es mi habitación, vete por favor.}

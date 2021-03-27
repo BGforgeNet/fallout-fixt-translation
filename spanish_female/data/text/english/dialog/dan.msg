@@ -56,7 +56,7 @@
 {158}{}{¡¿Por qué demonios le gritas a ese pobre chico?!}
 {159}{}{Bien. Adiós.}
 {160}{}{Uf.}
-{161}{}{¿Qué pasa ahora?}
+{161}{}{¿Y ahora qué?}
 {162}{}{¡¿Por qué demonios le gritas a ese pobre chico?!}
 {163}{}{Nada.}
 {164}{}{Uf.}

@@ -15,7 +15,7 @@
 {114}{}{En realidad es muy aburrida.}
 {115}{}{Es muy excitante. ¡Tenemos todo tipo de tecnología que no te creerías!}
 {116}{}{Oh. Bueno, debes haber tenido algunas aventuras después de irte, ¿no?}
-{117}{}{En realidad no.}
+{117}{}{En realidad, no.}
 {118}{}{Sí, hay algo de peligro por ahí fuera.}
 {119}{}{Tal y como escribió una vez alguien, "la Aventura es alguien lejos con un momento muy poco agradable".}
 {120}{}{Uh. Los mercaderes del Eje hablan de escorpiones rad y esas cosas.}
@@ -34,14 +34,14 @@
 {133}{}{Sííí, ya he visto que no llevas un saco de dormir ni nada así. Debes ponerte muy sucio y debe ser incómodo ir por ahí fuera.}
 {134}{}{Hola otra vez. ¿Tienes alguna historia interesante que contar?}
 {135}{}{¿Sobre qué quieres saber cosas?}
-{136}{}{En realidad no.}
+{136}{}{En realidad, no.}
 {137}{}{Bueno, si haces algo interesante, ¡ya me lo contarás!}
 {138}{}{¡Déjame!}
 {139}{}{¡Gracias a dios que estás a aquí! ¡Por favor, ayúdame a salir de aquí!}
 {140}{}{Sip.}
 {141}{}{No te preocupes, te sacaré de aquí.}
 {142}{}{Lo siento chico, ¡estás solo en esto!}
-{143}{}{¿Qué haces aquí?}
+{143}{}{¿Qué estás haciendo aquí?}
 {144}{}{¡Gracias!}
 {145}{}{¡Por favor, no me dejes!}
 {146}{}{Creía que sería divertido irse de Adytum y explorar el mundo. Pero los Destripadores me cogieron y he estado aquí desde entonces. Por favor, ¡ayúdame!}

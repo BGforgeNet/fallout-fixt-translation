@@ -8,7 +8,7 @@
 {107}{}{Bien, quiere verme.}
 {108}{}{¿Cómo puedo concertar una cita con él?}
 {109}{}{Yo no soy nadie, ¡idiota!}
-{110}{}{Oh, bien. Adiós.}
+{110}{}{Oh, bueno. Adiós.}
 {111}{}{Vale. Pasa.}
 {112}{}{Conozco a todos los socios del Sr. Hightower y no te había visto antes, por lo que será mejor que te vayas. Ahora.}
 {113}{}{¡Te has metido en un buen lío! El Sr. H. odia la falta de puntualidad. Permitiré que te lo diga él mismo. Pasa.}

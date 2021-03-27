@@ -17,7 +17,7 @@
 {201}{}{Parece haber sido humano o por lo menos haber descendido de ellos. Imaginas que el deterioro del cuerpo se debe al ácido o a las radiaciones.}
 {202}{}{El cuerpo del humanoide parece estar altamente irradiado, pero aún funciona. Aun habiendo sido humano en el pasado, ha degenerado a un estilo de vida más animal.}
 {203}{}{Al parecer el cuerpo del humanoide está muy dañado, y gran parte de los músculos y de la masa cerebral parece estar deteriorada. Sin embargo, los indicadores genéticos te hacen pensar que procede, como tú, de aquellos que se instalaron en los Refugios.}
-{204}{}{No, gracias.}
+{204}{}{No te lo agradezco.}
 {205}{}{No, gracias.}
 {206}{}{Claro.}
 {207}{}{Sí.}
@@ -31,21 +31,21 @@
 {351}{}{[ADIÓS]}
 {352}{}{[MÁS]}
 {353}{}{[CONTINUAR]}
-{354}{}{[COMBATIR]}
+{354}{}{[COMBATE]}
 {355}{}{[DAR DINERO]}
 {375}{}{Adiós.}
 {376}{}{Adiós.}
-{450}{}{No hay moros en la costa. ¡Movámonos!}
+{450}{}{La costa está despejada. ¡Movámonos!}
 {900}{}{La puerta, vieja y gastada, parece que podría ser destruida con un explosivo bien colocado.}
 {905}{}{¡Guau Guau!}
-{910}{}{El suelo electrificado te electrocuta.}
-{911}{}{ se electrocuta por el suelo electrificado.}
+{910}{}{Recibes una descarga desde el suelo electrificado.}
+{911}{}{ recibe una descarga desde el suelo electrificado.}
 {912}{}{El nivel de energía cae a cero y luego sube al 50% cuando el generador entra en acción.}
-{913}{}{Un leve zumbido se oye mientras una vez más la energía vuelve a fluir por la base.}
+{913}{}{Se escucha un leve zumbido mientras la energía vuelve a fluir por toda la base.}
 {930}{}{¡Aúuuuuuu!}
 {950}{}{Te tomas algo de tiempo para practicar unos movimientos. Tu habilidad de combate desarmado se incrementa en un 5%.}
 {951}{}{La rata topo luchadora va a por el golpe mortal.}
-{952}{}{El combate ha acabado.}
+{952}{}{El juego ha acabado.}
 {953}{}{Te tomas algo de tiempo para practicar unos movimientos.}
 {954}{}{Te pones tus gafas de visión nocturna.}
 {955}{}{Te quitas tus gafas de visión nocturna.}
@@ -65,9 +65,9 @@
 {969}{}{Tu elocuencia mejora.}
 {970}{}{Aprendes mucho acerca de la supervivencia en el exterior.}
 {971}{}{Aprendes mucho acerca de electrónica avanzada.}
-{1003}{}{Has desactivado el campo de fuerza.}
-{1004}{}{Has hackeado al ordenador.}
-{1012}{}{¡ATENCIÓN! FUSIÓN Completa del Reactor!}
+{1003}{}{Has desactivado los campos de fuerza.}
+{1004}{}{Has pirateado la computadora.}
+{1012}{}{¡PELIGRO! ¡FUSIÓN descontrolada del reactor!}
 {1013}{}{¡ATENCIÓN! TOXINAS liberadas en los conductos de ventilación.}
 {1050}{}{Transformas la toxina del escorpión en un antídoto.}
 {2000}{}{cero}
@@ -172,30 +172,30 @@
 {2100}{}{cien}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{Si vuelves a intentar eso, tendré que matarte.}
-{3051}{}{No tengo nada que puedas robar, idiota}
-{3052}{}{No creo que nos conozcamos TAN bien.}
-{3053}{}{Vuelve a tocar eso y tendrás que pagarlo.}
+{3050}{}{Si lo intentas de nuevo, tendré que matarte.}
+{3051}{}{No tengo nada que robar, idiota.}
+{3052}{}{No creo que nos conozcamos *tan* bien.}
+{3053}{}{Vuelve a tocar eso y pagarás por ello.}
 {3054}{}{¡Quítame las manos de encima!}
 {3055}{}{Vuelve a hacer eso y te arranco la cabeza.}
-{3056}{}{¡Manos fuera!}
-{3057}{}{¿Buscas problemas?}
-{3058}{}{Tócame de nuevo y muere.}
-{3059}{}{Lo único gratis aquí son los problemas.}
-{3060}{}{¡Ey! Apártate.}
-{3061}{}{¡Cuidadito!}
-{3062}{}{¿Buscas morir?}
-{3063}{}{Vuelve a intentar eso y te destrozo la cabeza.}
-{3064}{}{Eso es mío, ¡quita las manos!}
+{3056}{}{¡Aleja esas manos!}
+{3057}{}{¿Estás buscando problemas?}
+{3058}{}{Vuelve a tocarme y morirás.}
+{3059}{}{Sólo los problemas son gratis.}
+{3060}{}{¡Oye! Retrocede.}
+{3061}{}{¡Cuidado!}
+{3062}{}{¿Quieres morir?}
+{3063}{}{Vuelve a intentarlo, y te parto la cabeza.}
+{3064}{}{Eso es mío; ¡Aleja esas manos!}
 {3075}{}{}
 {3100}{}{ se ha unido al grupo}
 {3101}{}{ se ha ido del grupo}
 {3300}{}{}
-{3325}{}{¿Por qué no vuelves a poner todo donde estaba?}
-{3326}{}{Sabes, no es nada agradable coger lo que no te pertenece.}
-{3327}{}{¡Lárgate de aquí, mierdecilla!}
-{3328}{}{Ahora no me digas que estabas "solo buscando tus llaves." ¡Lárgate de aquí!}
-{3329}{}{Sea lo que sea que estés buscando, no está ahí ¿Entendido?}
+{3325}{}{¿Por qué no dejas todo esto justo donde lo encontraste?}
+{3326}{}{Ya sabes que no está bien quedarte con lo que no es tuyo.}
+{3327}{}{¡Aléjate de ahí, gamberro!}
+{3328}{}{Ahora no me vengas con que sólo estás "buscando las llaves". ¡Lárgate de aquí!}
+{3329}{}{Lo que quiera que estés buscando, no está ahí. ¿Comprendido?}
 {3350}{}{}
 {3375}{}{}
 {3400}{}{Cpt. Corpse's Cheating Tool.}
@@ -262,10 +262,10 @@
 {3520}{}{Cofre}
 {3521}{}{Dar Objeto}
 {3600}{}{}
-{3625}{}{¡Ey, tú! ¿Para qué estás cogiendo eso?}
+{3625}{}{¡Oye, tú! ¿Por qué estás hurgando ahí?}
 {3626}{}{Si no tienes una llave en la mano, mejor que te hagas a un lado.}
-{3627}{}{Está cerrado por algo, mierdecilla.}
-{3628}{}{¡Déjalo antes de que haya problemas!}
+{3627}{}{Está cerrado por una razón, gamberro.}
+{3628}{}{¡Para ya antes de que haya problemas!}
 {3650}{}{}
 {3675}{}{}
 {3700}{}{Cambiar FRM objetivo}
@@ -334,7 +334,7 @@
 {3784}{}{Técnico}
 {3798}{}{[FIN]}
 {3799}{}{}
-{3800}{}{[ATRÁS]}
+{3800}{}{[VOLVER]}
 {3801}{}{[VOLVER]}
 {3802}{}{[SALIR]}
 {3803}{}{Pon el PID del objeto (formato de 4 dígitos:0000) }
@@ -346,11 +346,11 @@
 {3809}{}{Nombre de Objeto: }
 {3810}{}{Objetivo Inválido}
 {3900}{}{}
-{3925}{}{¡Ey, tú! ¿Qué estás haciendo?}
-{3926}{}{¡Se supone que no deberías estar ahí!}
-{3927}{}{¡Si crees que lo voy a dejar pasar, vete olvidándote!}
-{3928}{}{Mejor que no intentes lo que estoy pensando, extraño.}
-{3929}{}{¿Qué? ¿Crees qué no me he dado cuenta? ¡Lárgate de aquí!}
+{3925}{}{¡Oye, tú! ¿Qué estás haciendo ahí?}
+{3926}{}{¡Se supone que no puedes estar aquí!}
+{3927}{}{¡Si crees que simplemente vas a pasar a mi lado, puedes olvidarlo!}
+{3928}{}{Será mejor que no estés planeando lo que creo que estás planeando, forastero.}
+{3929}{}{¿Qué? ¿Crees que no te había notado? ¡Fuera de aquí!}
 {3950}{}{}
 {3975}{}{}
 {4000}{}{Comprobar umbrales y resistencia de daños.}
@@ -399,9 +399,9 @@
 {5202}{}{No.  (END GAME: Play final movie sequence & credits, then exit to main menu.)}
 {5203}{}{Yes.  (CONTINUE PLAYING: This dialog window will close and you'll stay on this map. Play continues normally.)}
 {5400}{}{Aléjate de ahí.}
-{9000}{}{Reparación Completada.}
-{9001}{}{Rearmado Completado.}
-{9002}{}{Reparando Daños Estructurales.}
+{9000}{}{Reparación completa.}
+{9001}{}{Rearmado completo.}
+{9002}{}{Reparación de daño estructural.}
 {9003}{}{Daños Estructurales No Detectados.}
 {9004}{}{Función de reparado.}
 {9005}{}{Entrada de Comando.}
@@ -427,11 +427,11 @@
 {10005}{}{No te alejes demasiado.}
 {10006}{}{Deberíamos separarnos un poco.}
 {10007}{}{Esto es todo por ahora.}
-{10008}{}{Tenemos que cambiar la distancia que hay entre nosotros.}
-{10009}{}{Tengo que hablar contigo acerca de tu equipo.}
+{10008}{}{Necesito que cambiemos la distancia entre ambos.}
+{10009}{}{Tengo que hablar contigo sobre tu armamento.}
 {10010}{}{Pensándolo mejor, creo que esta distancia está bien por ahora.}
 {10011}{}{De hecho, creo que no hay nada que necesite saber a cerca de tu equipo.}
-{10012}{}{Necesito que te quitas la armadura que llevas ahora.}
-{10013}{}{Necesito saber qué tipo de armas sabes usar.}
+{10012}{}{Necesito que te quites la armadura que llevas.}
+{10013}{}{Necesito saber qué clase de armas puedes usar.}
 {10100}{}{Vamos.}
 {21020}{}{veinte}

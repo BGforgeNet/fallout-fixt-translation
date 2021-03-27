@@ -4,7 +4,7 @@
 {103}{DECK_1}{Así que buscas trabajo. ¡Tienes suerte! Yo tengo uno. Eh, ¿pero dónde están mis modales? ¿Cómo te llamas?}
 {104}{}{Soy }
 {105}{}{.}
-{106}{}{¿A qué te dedicas?}
+{106}{}{¿Qué te importa eso a ti?}
 {107}{DECK_2}{Dejémonos de formalidades. ¿Quieres que te hable del trabajo?}
 {108}{}{Por eso estoy aquí.}
 {109}{}{No particularmente.}
@@ -23,10 +23,10 @@
 {122}{DECK_7}{Viven en las Alturas, entre la Calle del Trueque y la Avenida del Trueno. Termina el trabajo y vuelve.}
 {123}{}{De acuerdo, lo haré.}
 {124}{}{¿Cómo sabrás que los he matado?}
-{125}{}{No lo creo.}
+{125}{}{Creo que no.}
 {126}{DECK_8}{Perfecto. Mi ayudante te pagará a la salida. Por favor, cierra la puerta al salir.}
 {127}{deck_9}{Confía en mí. Lo sabré.}
-{128}{}{Vale, lo haré.}
+{128}{}{Está bien, lo haré.}
 {129}{}{Paso.}
 {130}{DECK_10}{Debo confesar que me siento algo... decepcionado contigo. Pero estas cosas pasan. Recuerda que esto es confidencial. Que tengas un buen día.}
 {131}{DECK_11}{El pago es el habitual, pagaré 500 chapas por adelantado y 2.500 cuando hayas hecho el trabajo. ¿Lo harás?}
@@ -39,7 +39,7 @@
 {138}{}{No voy a decirte nada.}
 {139}{DECK_14}{Ya veo... mi ayudante te acompañará hasta la puerta.}
 {140}{DECK_15}{Estoy muy orgulloso de ti. Eres cruel, cualidad que admiro. Kane te dará tus chapas. Espero que estés disponible en el futuro.}
-{141}{}{¿Te puedo hacer unas preguntas?}
+{141}{}{¿Puedo hacerte algunas preguntas?}
 {142}{}{Gracias.}
 {143}{DECK_16}{En estas circunstancias, sí.}
 {144}{}{¿Qué hay en el Eje?}
@@ -70,7 +70,7 @@
 {169}{}{Claro.}
 {170}{}{¡De ningún modo!}
 {171}{DECK_27}{Excelente. ¿Sabes?, el último trabajo que te di era una prueba y la superaste con éxito. Lo de ahora es un trabajo serio.}
-{172}{}{¿Qué hay que hacer?}
+{172}{}{¿Cuál es?}
 {173}{}{Suena horrible. Creo que no me interesa.}
 {174}{DECK_28}{Como sabrás, los Niños de la Catedral son cada vez más influyentes en la ciudad y francamente, no lo voy a permitir.}
 {175}{}{¿Y qué quieres que haga yo?}

@@ -16,7 +16,7 @@
 {115}{}{Ah. ¿Cuál es tu historia?}
 {116}{}{Um. Jamás he visto uno de esos. ¿Cuál es el problema?}
 {117}{}{Este chip controla la purificación de agua en mi Refugio. Pero ha desaparecido.}
-{118}{}{Está roto.}
+{118}{}{Está estropeado.}
 {119}{}{Voy por el mundo ganándome la vida con mi música y alguna que otra chapucilla.}
 {120}{}{¿Qué tipo de chapucillas?}
 {121}{}{¿Qué tipo de música cantas?}

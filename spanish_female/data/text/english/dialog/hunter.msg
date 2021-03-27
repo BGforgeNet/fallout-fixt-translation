@@ -1,7 +1,7 @@
 {100}{}{Estás viendo a un fuerte cazador de recompensas con un cartelito que dice "Soy Christopher y estás muerto".}
 {101}{}{¿Qué quieres?}
 {102}{}{Un buñuelo.}
-{103}{}{¿Qué haces aquí?}
+{103}{}{¿Qué estás haciendo aquí?}
 {104}{}{Sólo estaba mirando.}
 {105}{}{Nada.}
 {106}{}{Aquí no nos gustan los listillos. Largo.}
@@ -21,7 +21,7 @@
 {120}{}{No más preguntas, gracias.}
 {121}{}{[Más]}
 {122}{}{¿Qué más quieres saber?}
-{123}{}{Necesito algo de información.}
+{123}{}{Necesito información.}
 {124}{}{Eeehhh... ¿queé?}
 {125}{}{¿Vas en serio? Quítate de mi vista.}
 {126}{}{Le voy a hacer un favor al mundo poniéndote una bala en el cráneo.}

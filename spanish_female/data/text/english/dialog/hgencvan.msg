@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un conductor de caravanas.}
+{100}{}{Ves a un conductor de caravanas.}
 {101}{}{¡Hoy va a ser un día largo!}
 {102}{}{En realidad no quiero trabajar hoy.}
 {103}{}{Espero que no nos asalten... o algo peor.}
@@ -9,7 +9,7 @@
 {108}{}{No puedo esperar a que acabemos.}
 {109}{}{Tomemos la carretera.}
 {110}{}{Estoy listo para liquidar al que sea.}
-{111}{}{¡Ya estamos fuera!}
+{111}{}{¡Nos vamos de aquí!}
 {112}{}{Hoy sí que fue un día caluroso.}
 {113}{}{Oye, tengo sed.}
 {114}{}{¿Qué día es hoy?}
@@ -29,7 +29,7 @@
 {201}{}{Os veré mañana, chicos. No dejéis que el perro os muerda...}
 {202}{}{Ha sido un sueño extraño.}
 {203}{}{¿Sí? ¿En qué puedo ayudarte?}
-{204}{}{¿Duh?}
+{204}{}{¿Uh?}
 {205}{}{¿Qué lugar es éste?}
 {206}{}{¿Podrías decirme dónde puedo encontrar un Chip de Agua?}
 {207}{}{¿Qué hacen esos carros ahí?}
@@ -78,6 +78,6 @@
 {409}{}{Ahhhh. (Con un tono sarcástico) Vaya historia más triste. ¿Te gustaría acompañar a tu amigo?}
 {410}{}{Adiós.}
 {501}{}{Estás viendo a un guardia de las caravanas.}
-{502}{}{Estás viendo a un conductor de caravanas.}
-{503}{}{Estás viendo a un conductor de caravanas.}
+{502}{}{Ves a un conductor de caravanas.}
+{503}{}{Ves a un conductor de caravanas.}
 {504}{}{Estás viendo a un mercader de caravanas.}

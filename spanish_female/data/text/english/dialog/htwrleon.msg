@@ -2,7 +2,7 @@
 {101}{}{¿Que te trae aquí?}
 {102}{}{Debo hablar con el Sr. Hightower.}
 {103}{}{He venido a matar al Sr. Hightower.}
-{104}{}{¿A qué te dedicas?}
+{104}{}{¿Qué te importa eso a ti?}
 {105}{}{Vale. Pero te estaré vigilando. Está en su despacho.}
 {106}{}{Gracias.}
 {107}{}{Sí... Apuesto a que me estarás vigilando.}

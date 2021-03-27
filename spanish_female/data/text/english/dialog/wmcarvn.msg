@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un conductor de caravanas.}
+{100}{}{Ves a un conductor de caravanas.}
 {101}{}{Hola, si buscas trabajo en una de nuestras caravanas, debes hablar con la Maestra Mercader. Está en aquel edificio del este.}
 {102}{}{Lo siento, pero tienes que hablar con la Maestra Mercader.}
 {103}{}{Bien, tienes el visto bueno. Sabía que no iba a ser un problema. Últimamente está muy agobiada, sobre todo desde que Daren Hightower empezó a ocultarse en su oficina. Un tipo extraño. Nos vamos cada cinco días, es decir los días 1, 5, 10, 15, 20, y 25. Ahora solo vamos al Cementerio de LA y a Ciudad Vertedero.}

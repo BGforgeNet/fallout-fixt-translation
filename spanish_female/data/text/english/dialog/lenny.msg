@@ -4,7 +4,7 @@
 {103}{}{[Hecho]}
 {104}{}{Herido a uno de mis amigos! Vamos a hacer que usted paga por eso! Get 'em, chicas!}
 {105}{}{Oh, hola.}
-{106}{}{¿Qué haces aquí?}
+{106}{}{¿Qué estás haciendo aquí?}
 {107}{}{¿Cuáles son estos animales?}
 {108}{}{¿Cómo es que estos animales apestar tanto?}
 {109}{}{Que hacer? Yo no había notado. Supongo que me he estado dando vueltas por mucho tiempo, no me molesta. Ellos son mis amigos.}

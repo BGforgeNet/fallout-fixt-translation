@@ -12,7 +12,7 @@
 {111}{}{Sigue intentándolo. Confío en ti. Sé que harás todo lo posible para salvarnos.}
 {112}{}{¿Quién crees que puede estar implicado?}
 {113}{}{Lamento lo que está ocurriendo. Alguien ha estado robando agua y ahora todos estamos al límite.}
-{114}{}{¿Quién haría una cosa así?}
+{114}{}{¿Quién podría hacer algo así?}
 {115}{}{¿Qué pasó?}
 {116}{}{Algunos han sido acusados y ha habido luchas internas, pero nadie sabe lo que ha ocurrido realmente.}
 {117}{}{De acuerdo. Gracias.}

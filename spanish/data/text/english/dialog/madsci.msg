@@ -57,7 +57,7 @@
 {203}{}{Solo observo a los chiflados. No me hables.}
 {204}{}{Déjame tranquilo.}
 {300}{}{Estás viendo a un científico chiflado que duerme.}
-{301}{}{Zzzzzz...}
+{301}{}{Zzzzzz}
 {302}{}{¡Eh! ¿Qué? [Abre los ojos] ¡Vincent, saca a este pagano de nuestras habitaciones!}
 {303}{}{¿Eh? [Bufido]... Zzzzzz...}
 {400}{}{Ves: a Vincent. Custodia a los locos durmientes.}

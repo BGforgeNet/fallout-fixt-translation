@@ -58,7 +58,7 @@
 {250}{}{Ignore Scroll Limit}
 {253}{}{Path-Finding Range}
 {254}{}{Normal}
-{255}{}{Máximo}
+{255}{}{Max}
 {256}{}{Activar Niebla de Guerra}
 {257}{}{Visibilidad de Niebla}
 {258}{}{Dios}

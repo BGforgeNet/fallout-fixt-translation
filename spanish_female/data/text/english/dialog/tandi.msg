@@ -26,7 +26,7 @@
 {125}{TAND_6}{Eh... ahora tengo que estar por aquí. }
 {126}{TAND_12}{¡Pásate aquí toda la vida y veremos si te gusta! ¿Quieres saber algo más?}
 {127}{TAND_13}{Sí, muy seguro... y tan aburrido que me puede chorrear el cerebro por las orejas en cualquier momento.}
-{128}{}{¿Por qué no te marchas entonces?}
+{128}{}{¿Por qué no te marchas?}
 {129}{}{Siento oír eso, pero no tengo mucho tiempo. ¿Puedo hacerte unas preguntas?}
 {130}{TAND_14}{¡Por fin! ¡Alguien que también lo entiende! Claro que probablemente tú hayas estado en todas partes y esto te debe parecer el infierno.}
 {131}{}{¿Si te aburres tanto, por qué no te marchas?}
@@ -53,7 +53,7 @@
 {152}{}{Adiós.}
 {153}{TAND_29}{Oye, mira. Tengo que cuidar de los brahmines. Me ha, eh, encantado hablar contigo. }
 {154}{TAND_30a}{Hello again! What can I help you with now?}
-{155}{}{¿Puedo hacerte unas preguntas?}
+{155}{}{¿Puedo hacerte más preguntas?}
 {156}{}{Nada. Adiós.}
 {157}{TAND_35}{Eh... oye, gracias. Más tarde.}
 {158}{TAND_36}{¡Hola! Temía que te hubieses ido y no tener la oportunidad de agradecerte por haberme rescatado. ¡Caray! ¡Fue genial! Acción, aventura... Si hay algo que pueda hacer por ti, dímelo.}

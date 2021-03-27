@@ -7,13 +7,13 @@
 {106}{}{Estás viendo a una mujer.}
 {107}{}{Estás viendo a un hombre.}
 {108}{}{Estás viendo a un jugador muy triste.}
-{109}{}{Estás viendo a un mercenario.}
+{109}{}{Ves a un mercenario.}
 {110}{}{Déjame ahogar lash penas.}
 {111}{}{Sí, querishísimo amiga.}
 {112}{}{Anda eresh... *hip*... ¿Dónde eshtoy?}
 {113}{}{¿Quién eres?}
 {114}{}{¿Te conozco?}
-{115}{}{No me siento muy bien.}
+{115}{}{Me siento algo mareado.}
 {116}{}{Tengo la bebida en la sangre.}
 {117}{}{¿Quiénes sois vosotros dos?}
 {118}{}{¡Quédate donde estás, tío!}
@@ -72,10 +72,10 @@
 {171}{}{¡Ganador!}
 {172}{}{Lo siento, amigos, puede que la próxima.}
 {173}{}{¡Otro ganador!}
-{174}{}{¡Manos fuera!}
+{174}{}{¡Aleja esas manos!}
 {175}{}{Su turno, por favor.}
 {176}{}{Lo siento, es una apuesta inválida.}
-{177}{}{Eso es.}
+{177}{}{Eso es todo.}
 {178}{}{¿Alguien más?}
 {200}{}{Ey, cariño, ¿buscas un buen rato?}
 {201}{}{¿Qué's lo que buscas, cariño?}

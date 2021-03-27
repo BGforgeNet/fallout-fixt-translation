@@ -31,7 +31,7 @@
 {130}{}{Ésta en concreto no es muy buena. Le falta el amplificador y la lupa. [Te quita la pistola y la coloca sobre la mesa.] Si de verdad quieres una, habla con Talus o con Michael.}
 {131}{}{Gracias. ¿Dónde están?}
 {132}{}{Gracias. Tengo que irme ahora.}
-{133}{}{¿Puedo preguntarte algo más?}
+{133}{}{¿Puedo hacerte más preguntas?}
 {134}{}{¿Un Chip de Agua? ¿De los que había en esos escondrijos, los Refugios?}
 {135}{}{¡Sí! ¿Tienes uno?}
 {136}{}{No. No eran más que chatarra condenada a la desaparición. Aquí no purificamos nuestra agua nosotros mismos. Nos la traen las caravanas del Eje.}
@@ -44,7 +44,7 @@
 {143}{}{Gracias. Adiós.}
 {144}{}{Oh, no puedo ayudarte en eso. Lo siento.}
 {145}{}{Gracias. Tengo que irme. Adiós.}
-{146}{}{¿Puedo preguntarte algo más?}
+{146}{}{¿Puedo hacerte más preguntas?}
 {147}{}{Hola de nuevo, Iniciada }
 {148}{}{. ¿En qué puedo ayudarte?}
 {149}{}{¿Quién eres y qué haces aquí?}

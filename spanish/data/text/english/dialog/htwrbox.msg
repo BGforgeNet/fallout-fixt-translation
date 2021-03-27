@@ -14,5 +14,5 @@
 {113}{}{Mientras buscabas trampas en la caja fuerte activas una sin querer.}
 {114}{}{No encuentras ninguna trampa en la caja fuerte.}
 {115}{}{Has desactivado la trampa.}
-{116}{}{Has activado la trampa sin querer.}
+{116}{}{Haces saltar accidentalmente la trampa.}
 {117}{}{No has podido desactivar la trampa.}

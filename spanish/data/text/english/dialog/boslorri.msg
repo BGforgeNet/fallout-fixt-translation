@@ -34,7 +34,7 @@
 {133}{}{Es fácil de realizar, pero la recuperación es larga. Solo cuesta }
 {134}{}{Soy }
 {135}{}{¡Lo haré!}
-{136}{}{No me interesa.}
+{136}{}{Creo que pasaré.}
 {137}{}{Ésa es una operación difícil. Cuesta }
 {138}{}{Es un placer conocerte Hermano }
 {139}{}{Ésta no es tan difícil. La recuperación es de una semana y cuesta }

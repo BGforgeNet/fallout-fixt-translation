@@ -5,7 +5,7 @@
 {104}{}{Pareces bastante fuerte.}
 {105}{}{¡Demonios, pareces fuerte!}
 {106}{}{¡Demonios, según parece eres capaz de levantar una montaña!}
-{107}{}{Sí, ¿y qué?}
+{107}{}{Ajá, ¿y?}
 {108}{}{¿A ti qué te importa?}
 {109}{}{¿Eh?}
 {110}{}{¡Es precisamente lo que estaba buscando! ¡Seguro que te gusta la emoción de la batalla! ¡Balas por todas partes silbando en tus oídos, partiendo a tu enemigo en dos y viendo el miedo en sus ojos! Ahhhh, ¡eso sí que es vida! Pareces el tipo de persona que se ajusta a nuestras necesidades, ¡y pagamos bien! ¡Claro que pagamos bien! Tenemos algunas nuevas ofertas si te interesa; aunque por supuesto que te interesa, ¿no?}
@@ -14,7 +14,7 @@
 {113}{}{No, gracias.}
 {114}{}{Necesito un Chip de Agua.}
 {115}{}{¿Qué sabes de las caravanas desaparecidas?}
-{116}{}{Tengo que irme.}
+{116}{}{Me tengo que ir.}
 {117}{}{¡Ugggg, uggg!}
 {118}{}{¡Pagamos 600 pavos por trabajo! ¡Eso es! Demonios, la gente dice que seguimos las rutas más peligrosas, pero yo digo que son las más emocionantes. Hay que poner algo de emoción en la vida, ¿no tengo razón? ¡Claro que la tengo!}
 {119}{}{Demonios, ¡creo que es lo que andaba buscando!}
@@ -42,7 +42,7 @@
 {141}{}{¡Sí! ¡Me gustas! ¡Te contrato! Ve a hablar con Keri, está ahí al lado; ella te asignará una caravana.}
 {142}{}{¿Un Chip de Agua? Mmm, nunca lo he oído nombrar antes. Quizás quieras mirar una de esas tiendas de ahí fuera; tienen de todo. Bueno, ¿querías un trabajo?}
 {143}{}{Bueno. ¿Cuál es el sueldo?}
-{144}{}{La verdad es que no.}
+{144}{}{No, en realidad no.}
 {145}{}{No mucho, yo he perdido solo dos. No sé por qué están molestando sobre todo a los Comerciantes de Ultramar.}
 {146}{}{¿Alguna sospecha?}
 {147}{}{¿Qué hay de las rutas y el cargamento?}
@@ -88,7 +88,7 @@
 {187}{}{No, gracias.}
 {188}{}{Necesito un Chip de Agua.}
 {189}{}{¿Qué sabes de las caravanas desaparecidas?}
-{190}{}{Tengo que irme.}
+{190}{}{Me tengo que ir.}
 {191}{}{¿Ruk luk?}
 {192}{}{Eh, hiciste un buen trabajo en la última caravana... ¡buen viaje! ¿Querías algo?}
 {193}{}{Sí, quería otro trabajo.}

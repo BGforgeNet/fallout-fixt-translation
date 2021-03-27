@@ -11,7 +11,7 @@
 {110}{}{Un tipo resbaló en el barro una vez. Vaya forma más horrible de morir.}
 {111}{}{Maldito barro, el humo me daña los ojos.}
 {112}{}{Odio este trabajo.}
-{113}{}{¡Fuera de mi vista!}
+{113}{}{¡Fuera de mi camino!}
 {114}{}{No me molestes.}
 {115}{}{¿No ves que estoy ocupado?}
 {116}{}{Estás viendo al típico Pistolero.}

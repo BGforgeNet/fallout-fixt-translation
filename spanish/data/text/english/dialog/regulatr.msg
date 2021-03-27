@@ -3,7 +3,7 @@
 {102}{}{Ten tus armas bajo control mientras estés aquí.}
 {103}{}{Bienvenido a Adytum, extranjero. Contrólate porque te vigilaremos.}
 {104}{}{Me gustaría entrar.}
-{105}{}{¿Te puedo hacer unas preguntas?}
+{105}{}{¿Puedo hacerte algunas preguntas?}
 {106}{}{Uhhh...}
 {107}{}{Puede que Zimmerman te necesite. Entra, pero recuerda, estamos vigilándote.}
 {108}{}{¡Bienvenido de nuevo! Eres bienvenido siempre que quieras.}
@@ -32,8 +32,8 @@
 {131}{}{Será mejor que mantengas tus armas apartadas mientras estés aquí.}
 {132}{}{Un ladrón, ¿eh? ¡Deja que te enseñe lo que hacemos aquí a los de tu calaña!}
 {133}{}{[Hecho]}
-{134}{}{Contrólate.}
-{135}{}{Te estaremos vigilando.}
+{134}{}{Cuídate.}
+{135}{}{Te estamos vigilando.}
 {136}{}{Mantente a raya.}
 {137}{}{¿Qué miras?}
 {138}{}{¿Qué quieres?}

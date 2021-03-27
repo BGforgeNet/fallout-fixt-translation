@@ -58,10 +58,10 @@
 {157}{}{Yo no soy de aquí, pero eso no creo que cuente.}
 {158}{}{Vale, pero date prisa.}
 {159}{}{Huh. Imagino que no puedo discutir con esa lógica. ¿Qué quieres?}
-{160}{}{¿Puedo hacerte algunas preguntas?}
+{160}{}{¿Puedo hacerte unas preguntas?}
 {161}{}{Estoy buscando un chip de purificación de agua. ¿Puedes ayudarme?}
 {162}{}{Gracias de todas maneras, pero me voy ya.}
-{163}{}{¿Qué pasa?}
+{163}{}{¿Cómo te va?}
 {164}{}{¿Puedes intentar abrir esto?}
 {165}{}{¿Puedes echarle un vistazo a esta cerradura?}
 {166}{}{¿Algún consejo?}
@@ -223,7 +223,7 @@
 {1165}{}{A veces los mercaderes comercian con Adytum y también venden a los Pistoleros.}
 {1999}{}{¡Me estoy volviendo muy buena en esto!}
 {2000}{}{Vamos a hablar de nuestras tácticas de combate.}
-{2001}{}{Te escucho.}
+{2001}{}{Estoy escuchando.}
 {2010}{}{Desenfunda tu mejor arma.}
 {2011}{}{Cambia tu armadura.}
 {2012}{}{Mejor que uses el combate a distancia que el de cuerpo a cuerpo.}

@@ -14,8 +14,8 @@
 {113}{}{No me pagan para hablar.}
 {114}{}{Metete en tus asuntos, ¿quieres?}
 {115}{}{Metete en tus asuntos, ¿quieres?}
-{200}{}{Let's do this!}
-{201}{}{Hope I have enough bullets...}
-{202}{}{Aim for the eyes!}
+{200}{}{¡Hagámoslo!}
+{201}{}{Espero que me queden suficientes balas...}
+{202}{}{¡Apunta a los ojos!}
 {203}{}{¡Protege la caravana!}
-{204}{}{Stay sharp, everyone.}
+{204}{}{Manténganse firmes, chicos.}

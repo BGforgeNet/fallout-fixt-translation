@@ -1,6 +1,6 @@
 {1000}{}{¡No me enrolé para esto!}
 {1001}{}{¡No me pagan lo suficiente para esto!}
-{1002}{}{¡Retrocede!}
+{1002}{}{¡Atrás!}
 {1003}{}{¡Reagrupamiento!}
 {1004}{}{¡No pienso morir por esto!}
 {1005}{}{Ya tengo suficiente}
@@ -40,7 +40,7 @@
 {1039}{}{[Jadea fuertemente]}
 {1040}{}{¡Mis costillas!}
 {1041}{}{¡Mi rodilla!}
-{1042}{}{¡Me las pagarás por esto!}
+{1042}{}{¡Pagarás por eso!}
 {1043}{}{No siento mi pierna}
 {1044}{}{¡Joder, me la has roto!}
 {1045}{}{Espero no quedarme cojo}
@@ -48,7 +48,7 @@
 {1047}{}{¡No veo!}
 {1048}{}{¡Mi ojo!}
 {1049}{}{¡Mierda! al menos tengo otro}
-{1050}{}{¡Ohhhhh, la ingle!}
+{1050}{}{Oooooo, ¡mi ingle!}
 {1051}{}{Joder, buen tiro}
 {1052}{}{Peleas sucio}
 {1053}{}{¡Urp!}
@@ -58,8 +58,8 @@
 {1101}{}{La discreción es la mejor parte del valor}
 {1102}{}{¡Un médico!}
 {1103}{}{¡Retirada! ¡Retirada!}
-{1104}{}{¡Retrocede! ¡Retrocede!}
-{1105}{}{Puedes haber ganado la batalla...}
+{1104}{}{¡Atrás todos! ¡Atrás!}
+{1105}{}{Puede que hayas ganado esta batalla...}
 {1106}{}{¡Hora de poner mi entrenamiento a prueba!}
 {1107}{}{Voy a acabar contigo}
 {1108}{}{Voy a enseñarte un poco de educación}
@@ -67,17 +67,17 @@
 {1110}{}{¡Al ataque!}
 {1111}{}{¡Enterremos a esta perdedora!}
 {1112}{}{¡Toma esto!}
-{1113}{}{¡Ya te tengo!}
+{1113}{}{¡Te tengo!}
 {1114}{}{¡Ahora es cuando mueres!}
 {1115}{}{¿Qué te parece esto?}
 {1116}{}{¿Ya pagaste tu ataúd?}
-{1117}{}{No deberías empezar lo que no puedes terminar}
+{1117}{}{No deberías empezar lo que no puedas terminar.}
 {1118}{}{¡Será mejor que reces a los dioses!}
 {1119}{}{¡Es la hora de morir!}
 {1120}{}{Esto va a ser fácil}
 {1121}{}{Te veré en el infierno}
 {1122}{}{¡Ja! ¿En serio?}
-{1123}{}{¿Eso es todo lo que sabes hacer?}
+{1123}{}{¿Eso es lo mejor que puedes hacer?}
 {1124}{}{¡Vamos perdedora! ¡Lucha!}
 {1125}{}{La próxima vez intenta apuntar}
 {1126}{}{Civil}
@@ -93,7 +93,7 @@
 {1136}{}{Menos mal que soy un zurdo}
 {1137}{}{¡Bah! No me ha dolido nada}
 {1138}{}{¡Uck!}
-{1139}{}{¡Vas a arrepentirte!}
+{1139}{}{¡Lamentarás eso!}
 {1140}{}{¡Uff! Me las vas a pagar}
 {1141}{}{Has tenido suerte}
 {1142}{}{¡Me las pagarás por esto!}
@@ -112,22 +112,22 @@
 {1155}{}{Mamona}
 {1200}{}{¡Hay que largarse de aquí!}
 {1201}{}{Volveré...}
-{1202}{}{¡No podrás matarme hoy!}
+{1202}{}{¡Hoy no me matarás!}
 {1203}{}{¡Hasta luego, mocosa!}
-{1204}{}{¡Todavía no he dicho la última palabra!}
-{1205}{}{¡Pagarás por esto... luego!}
+{1204}{}{¡No has visto lo último de mi!}
+{1205}{}{¡Me las pagarás... luego!}
 {1206}{}{¡Eres historia!}
 {1207}{}{Carne fresca...}
 {1208}{}{Bailaré sobre tu tumba}
-{1209}{}{¡Eh, todo el mundo! ¡A practicar la puntería!}
+{1209}{}{¡Eh, todos! ¡Es la diana de practicas!}
 {1210}{}{¡Sangra, sangra, sangra!}
-{1211}{}{Voy a divertirme con esto...}
+{1211}{}{Voy a disfrutar esto...}
 {1212}{}{Voy a vender tu cuerpo a Doc Mórbid}
-{1213}{}{No te preocupe gritar suplicando clemencia...}
+{1213}{}{No te molestes en pedir piedad...}
 {1214}{}{Esta es la mejor parte...}
 {1215}{}{Tienes los zapatos desatados}
-{1216}{}{Vas a ser la comida de los perros}
-{1217}{}{No deberías empezar lo que no puedes terminar}
+{1216}{}{Serás comida para los perros}
+{1217}{}{No deberías empezar lo que no puedas terminar.}
 {1218}{}{Espero que mueras lentamente}
 {1219}{}{Solo quedará uno de nosotros}
 {1220}{}{¡Muere!}
@@ -136,7 +136,7 @@
 {1223}{}{Mi sonrisa será lo último que veras}
 {1224}{}{Este es mi trabajo favorito}
 {1225}{}{Eres una payasa}
-{1226}{}{¿Eso es todo lo que sabes hacer?}
+{1226}{}{¿Eso es lo mejor que puedes hacer?}
 {1227}{}{Lo que sea}
 {1228}{}{Guau, esa estuvo cerca}
 {1229}{}{¡Demasiada lenta!}
@@ -144,7 +144,7 @@
 {1231}{}{¡En la cara no!}
 {1232}{}{¡Ow!}
 {1233}{}{¡Me has roto la nariz!}
-{1234}{}{¡Oh, mi brazo!}
+{1234}{}{¡Ow, mi brazo!}
 {1235}{}{¡Me has roto el brazo!}
 {1236}{}{Puedo conseguir recolocarlo}
 {1237}{}{¡No voy a pararme por un brazo destrozado!}
@@ -154,15 +154,15 @@
 {1241}{}{Ese fue tu tiro de regalo. Hora de morir}
 {1242}{}{Haré que me las pagues por esto}
 {1243}{}{¡Mi pierna!}
-{1244}{}{¡Me las pagarás por esto!}
+{1244}{}{¡Pagarás por eso!}
 {1245}{}{Puedo matarte aun estando cojo}
 {1246}{}{¡Mi pierna!}
-{1247}{}{¡Agh!}
+{1247}{}{¡Argh!}
 {1248}{}{Eso no me parará, colega}
 {1249}{}{¡Agh! ¡Mis ojos!}
 {1250}{}{¡Mi ojo! ¡Me las vas a pagar!}
 {1251}{}{¡Joder! Eres historia}
-{1252}{}{¡Ohhhhh, la ingle!}
+{1252}{}{Oooooo, ¡mi ingle!}
 {1253}{}{¡Ohh! Tengo que aprender ese movimiento...}
 {1254}{}{Directo en los huevos...}
 {1255}{}{¡Urp!}
@@ -199,10 +199,10 @@
 {1328}{}{¡Cuidado con el pelo!}
 {1329}{}{¡Miz dientez! ¡He pezdido un diente!}
 {1330}{}{¡Miz dientez, miz dientez!}
-{1331}{}{¡Oh, mi brazo!}
+{1331}{}{¡Ow, mi brazo!}
 {1332}{}{¡Ow!}
 {1333}{}{¡Ay, quita!}
-{1334}{}{¡Oh, mi brazo!}
+{1334}{}{¡Ow, mi brazo!}
 {1335}{}{¡Ow!}
 {1336}{}{¡Ay, quita!}
 {1337}{}{¡No quiero ser zurdo!}
@@ -221,12 +221,12 @@
 {1350}{}{¿Por qué está tan oscuro?}
 {1351}{}{¿A dónde ha ido todo el mundo?}
 {1352}{}{¡Ahh, mi retina!}
-{1353}{}{¡Ohhhhh, la ingle!}
+{1353}{}{Oooooo, ¡mi ingle!}
 {1354}{}{¡Mi ingle es la ingle de fuego!}
 {1355}{}{¡Mi ingle es la ingle de fuego!}
 {1356}{}{No... puedo... respirar...}
 {1357}{}{}
-{1358}{}{Me duele, me duele...}
+{1358}{}{Duele, duele...}
 {1400}{}{¡Fuera!}
 {1401}{}{¡Adiós!}
 {1402}{}{¡Aaaaahhhh!}
@@ -265,7 +265,7 @@
 {1435}{}{¡Mi brazo!}
 {1436}{}{Hora de vengarse}
 {1437}{}{¡Ow!}
-{1438}{}{¡Ay!}
+{1438}{}{¡Ouch!}
 {1439}{}{¡Oh!}
 {1440}{}{[Jadea fuertemente]}
 {1441}{}{¡Uf!}
@@ -357,7 +357,7 @@
 {1610}{}{Esta vez quitaré el seguro}
 {1611}{}{¡Esto podría ser divertido!}
 {1612}{}{¡Toma esto!}
-{1613}{}{¡Ya te tengo!}
+{1613}{}{¡Te tengo!}
 {1614}{}{¡Esto es increíble!}
 {1615}{}{¿Qué te parece esto?}
 {1616}{}{¡Muere, saqueador imbécil!}
@@ -369,8 +369,8 @@
 {1622}{}{¡Ja, no me has dado!}
 {1623}{}{¡Has fallado!}
 {1624}{}{Hábil movimiento, ¿eh?}
-{1625}{}{¿Eso es todo lo que sabes hacer?}
-{1626}{}{¡Eh! ¡Eso podía haber dolido!}
+{1625}{}{¿Eso es lo mejor que puedes hacer?}
+{1626}{}{¡Eh! ¡Eso pudo haber dolido!}
 {1627}{}{¡Ten cuidado, esa estuvo cerca!}
 {1628}{}{¿Podemos tomarnos un descanso?}
 {1629}{}{¡Mi cara! ¡Qué has hecho!}
@@ -403,7 +403,7 @@
 {1656}{}{¡Urp!}
 {1657}{}{¿Son éstas mis entrañas?}
 {1658}{}{No... puedo... respirar...}
-{1659}{}{¡Maldita sea, cómo me duele!}
+{1659}{}{¡Maldición, eso duele!}
 {1700}{}{¡No voy a morir por esto!}
 {1701}{}{¡El trabajo no merece la pena!}
 {1702}{}{¡Me largo!}
@@ -423,19 +423,19 @@
 {1716}{}{Haré que te duela}
 {1717}{}{Veamos lo dura que eres...}
 {1718}{}{Crees que eres una tipa peligrosa, ¿eh?}
-{1719}{}{No deberías empezar lo que no puedes terminar}
+{1719}{}{No deberías empezar lo que no puedas terminar.}
 {1720}{}{¿Esperas salir con eso?}
 {1721}{}{Me desayuno a las nenitas como tú}
 {1722}{}{Haces que mi trabajo sea fácil}
 {1723}{}{No tienes astucia, tía}
 {1724}{}{Tía, ¡no tienes músculos!}
-{1725}{}{¿Eso es todo lo que sabes hacer?}
+{1725}{}{¿Eso es lo mejor que puedes hacer?}
 {1726}{}{No esperabas darme, ¿verdad?}
 {1727}{}{Vamos, mariquita. ¡Venga, lucha!}
 {1728}{}{¡Me has roto la nariz!}
 {1729}{}{¡Ah! ¡Maldita seas!}
 {1730}{}{¡Maldita sea! ¡Cómo me duele!}
-{1731}{}{¡Oh, mi brazo!}
+{1731}{}{¡Ow, mi brazo!}
 {1732}{}{¡Voy a congelarte por eso!}
 {1733}{}{Eso ha sido un error}
 {1734}{}{Tú, hijaputa}
@@ -462,44 +462,44 @@
 {1803}{}{¡Ayuda!}
 {1804}{}{¡Aaaaahhhh!}
 {1805}{}{[llora]}
-{1806}{}{Mmm, eh, ¡para!}
+{1806}{}{Hmm, eh, ¡para!}
 {1807}{}{No me gustan las tipas como tú...}
 {1808}{}{Realmente esperaba que no tuviéramos que llegar a esto...}
 {1809}{}{No quiero hacerme daño}
-{1810}{}{Supongo que tengo que defenderme}
+{1810}{}{Supongo que tendré que defenderme}
 {1811}{}{Aquí viene un don nadie}
 {1812}{}{¡Toma esto!}
 {1813}{}{¡No deberías haber empezado esto!}
 {1814}{}{¡Te lo has buscado!}
 {1815}{}{¿Qué te parece esto?}
 {1816}{}{Es tu culpa}
-{1817}{}{¡Eres una bestia!}
-{1818}{}{¡No quiero hacerlo!}
+{1817}{}{¡Bestia!}
+{1818}{}{¡No quiero hacer esto!}
 {1819}{}{Quédate quieta un segundo}
-{1820}{}{No quería pelear, pero...}
+{1820}{}{No quería luchar, pero...}
 {1821}{}{¡Eres una sinvergüenza!}
 {1822}{}{¡Mierda, eso estuvo cerca!}
-{1823}{}{¡No me has dado!}
-{1824}{}{¡Esa podía haber dolido!}
-{1825}{}{¡Guau! ¡Sigo vivo!}
-{1826}{}{¡Eh! ¡Eso podía haber dolido!}
+{1823}{}{¡Has fallado!}
+{1824}{}{¡Wow! ¡Eso pudo haber dolido!}
+{1825}{}{¡Fiuu! ¡Sigo vivo!}
+{1826}{}{¡Eh! ¡Eso pudo haber dolido!}
 {1827}{}{Bien, bien, nada está sangrando}
-{1828}{}{¡Mi cara, mi cara!}
+{1828}{}{¡Mi cara! ¡Mi cara!}
 {1829}{}{¡Joder! ¡Me duele!}
 {1830}{}{¡Oh Dios!}
 {1831}{}{¡Oh, no!}
 {1832}{}{¡Ow!}
 {1833}{}{¡Me has roto el brazo!}
 {1834}{}{Mi brazo...}
-{1835}{}{¡Aaaayyy!}
+{1835}{}{¡Wahhhh!}
 {1836}{}{¡Dios mío, mi brazo!}
-{1837}{}{¡Ay, eso ha dolido!}
+{1837}{}{¡Ow! ¡Eso ha dolido!}
 {1838}{}{Creo que me voy a desmayar}
-{1839}{}{¡Ay!}
+{1839}{}{¡Ouch!}
 {1840}{}{Voy a necesitar tomar el aire}
-{1841}{}{¡Me duele!}
+{1841}{}{¡Eso ha dolido!}
 {1842}{}{¡Déjame en paz!}
-{1843}{}{¡Ooo, me duele!}
+{1843}{}{¡Ohhh, duele!}
 {1844}{}{¿Por qué? ¿POR QUÉ?}
 {1845}{}{Sip, definitivamente rota.}
 {1846}{}{¿Ahora cómo se supone que voy a caminar?}
@@ -507,56 +507,56 @@
 {1848}{}{¡Mi rodilla!}
 {1849}{}{¡Aaaarrrrggghhh!}
 {1850}{}{¡Estoy ciego! ¡Dios mío, estoy ciego!}
-{1851}{}{¡La cara! ¡Mis ojos! ¡Aaaah!}
+{1851}{}{¡Mi cara! ¡Mis ojos! ¡Aaaaaarrgghh!}
 {1852}{}{¡Mis ojos! ¿¡Qué le has hecho a mis ojos!?}
 {1853}{}{¡Oooooh, la ingle! Oooooh...}
 {1854}{}{¡Ay... quema!}
 {1855}{}{Todo... se está... oscureciendo...}
-{1856}{}{¡Oooh, aaah...!}
+{1856}{}{¡Ooorp! aoooww...}
 {1857}{}{No... puedo... respirar...}
-{1858}{}{Me duele, me duele...}
+{1858}{}{Duele, duele...}
 {1900}{}{Me largo por donde he venido}
 {1901}{}{¡Volveré!}
 {1902}{}{¡Hasta luego, mocosa!}
-{1903}{}{Esto es divertido, pero me voy}
-{1904}{}{¡Pagarás por esto... luego!}
-{1905}{}{¡Hagámoslo otra vez!}
-{1906}{}{¡Voy a tirarte de las orejas!}
+{1903}{}{¡Esto ha sido divertido, pero ahora me largo!}
+{1904}{}{¡Me las pagarás... luego!}
+{1905}{}{¡Pronto lo repetiremos!}
+{1906}{}{¡Te voy a machacar la cabeza!}
 {1907}{}{¡Carne fresca! Delicioso.}
-{1908}{}{¡Me has dado el día!}
+{1908}{}{¡Me has alegrado el día!}
 {1909}{}{¡Vas a ser mi zorra!}
 {1910}{}{Eres jodida historia, colega}
 {1911}{}{¡Voy a ajustarte las cuentas!}
 {1912}{}{Deja de gritar, es molesto}
 {1913}{}{Espero que no le tengas miedo a la sangre}
-{1914}{}{Por favor, no me supliques. Has de tener una muerte digna}
+{1914}{}{Por favor, no supliques. La muerte debe ser digna.}
 {1915}{}{Espero que no mueras demasiado rápido}
-{1916}{}{¿Un último deseo?}
+{1916}{}{¿Tus últimas palabras?}
 {1917}{}{¡Toma esto!}
-{1918}{}{¡Muere, muere, muere, muere!}
+{1918}{}{¡Muere! ¡Muere! ¡Muere! ¡Muere!}
 {1919}{}{¿Quieres ver tus entrañas?}
 {1920}{}{Vamos a abrirte un poquito...}
 {1921}{}{Eres comida para perros, amiga}
 {1922}{}{Ni siquiera me has rozado}
 {1923}{}{Ja, ja, muy buena}
 {1924}{}{Vamos, mocosa. ¡Pelea un poquito!}
-{1925}{}{¿Eso es todo lo que sabes hacer?}
-{1926}{}{Esto va a ser más fácil de lo que creía}
+{1925}{}{¿Eso es lo mejor que puedes hacer?}
+{1926}{}{Esto va a ser más sencillo de lo que pensaba.}
 {1927}{}{¡Guau! ¿Cómo es que sigues viva?}
-{1928}{}{¡Ésta va a ser una bonita cicatriz!}
+{1928}{}{¡Eso me dejará una bonita cicatriz!}
 {1929}{}{Estoy empezando a enfadarme}
 {1930}{}{Hazlo otra vez, cerda}
 {1931}{}{¡Me has herido!}
 {1932}{}{Buen tiro. El mío será mejor}
 {1933}{}{Me has roto el brazo, pero yo te romperé el cuello}
 {1934}{}{¿Así que así es como quieres jugar?}
-{1935}{}{Es solo un arañazo...}
+{1935}{}{Es sólo un rasguño...}
 {1936}{}{Me rompes el brazo, pues yo te rompo el cuello...}
 {1937}{}{De acuerdo perra, vas a morir}
 {1938}{}{¡Uff! Voy a retorcerte el pescuezo por esto...}
 {1939}{}{Una herida superficial, a diferencia de la tuya}
 {1940}{}{¡Uff! ¿Es eso lo mejor que sabes hacer?}
-{1941}{}{¡Me encanta el sonido de las costillas al romperse!}
+{1941}{}{¡Me encanta el sonido de las costillas rompiéndose!}
 {1942}{}{Duele, pero aún estoy cabreado}
 {1943}{}{¡Ahh! Ven y vuelve a intentarlo}
 {1944}{}{Me encanta el sonido de huesos crujientes}
@@ -575,7 +575,7 @@
 {1957}{}{Conque así es como quieres que juguemos}
 {1958}{}{¡Ack!}
 {2000}{}{¡Ataca a otro, por favor!}
-{2001}{}{¡Ten compasión!}
+{2001}{}{¡Ten piedad!}
 {2002}{}{¡Que alguien me ayude!}
 {2003}{}{¡Por favor, para!}
 {2004}{}{Vaya, yo no hice nada!}
@@ -584,17 +584,17 @@
 {2007}{}{¿Por qué estás haciendo esto?}
 {2008}{}{¡Eh, tú!}
 {2009}{}{No eres bienvenida aquí}
-{2010}{}{Nadie va a tomar este lugar...}
+{2010}{}{Nadie se va a quedar con este sitio...}
 {2011}{}{¿Quién te crees que eres?}
 {2012}{}{Necesitaba algo de entrenamiento}
 {2013}{}{¿Dónde está esa maldita pala?}
-{2014}{}{¡Esto es lo que le hacemos a la gentuza!}
+{2014}{}{¡Esto es lo que les hacemos a las alimañas!}
 {2015}{}{¡Monstruo mutante!}
 {2016}{}{No me mataras sin pelear antes}
-{2017}{}{Vas a ser la comida de los perros}
-{2018}{}{¡Así aprenderás!}
+{2017}{}{Serás comida para los perros}
+{2018}{}{¡Esto te enseñará!}
 {2019}{}{Bien. Te lo has buscado.}
-{2020}{}{¡Serás animal!}
+{2020}{}{¡Animal!}
 {2021}{}{Allá donde fueres...}
 {2022}{}{Debe ser mi día de suerte}
 {2023}{}{Un brahmin es más rápido que tú}
@@ -605,33 +605,33 @@
 {2028}{}{¡Maldita sea, cómo pica!}
 {2029}{}{¡Aggghhh!}
 {2030}{}{¡Ooohhh, mierda!}
-{2031}{}{¡Ahhh! ¡Mi brazo!}
+{2031}{}{¡Aggghhh! ¡Mi brazo!}
 {2032}{}{¡Auh, auh ,auh!}
 {2033}{}{¡Venga ya, lo necesitaba!}
-{2034}{}{¡Ahhh! ¡Mi brazo!}
+{2034}{}{¡Aggghhh! ¡Mi brazo!}
 {2035}{}{¡Nooooo...!}
 {2036}{}{¡Creo que me lo has roto!}
 {2037}{}{¡Maldición!}
 {2038}{}{Eso me ha dolido mucho...}
-{2039}{}{¡Agh!}
-{2040}{}{¡Ay!}
+{2039}{}{¡Argh!}
+{2040}{}{¡Ouch!}
 {2041}{}{¡Ugh!}
 {2042}{}{¡Uf!}
 {2043}{}{¡Ow!}
-{2044}{}{¡Ahhh! ¡Mi pierna!}
+{2044}{}{¡Aggghhh! ¡Mi pierna!}
 {2045}{}{Necesito una silla}
 {2046}{}{¡Mi pierna!}
-{2047}{}{¡Ahhh! ¡Mi pierna!}
+{2047}{}{¡Aggghhh! ¡Mi pierna!}
 {2048}{}{Fantástico, ahí va mi trabajo}
 {2049}{}{¡Au! ¡No!}
-{2050}{}{¡Ahhh! ¡Estoy ciego!}
+{2050}{}{¡Aggghhh! ¡Estoy ciego!}
 {2051}{}{¡El infierno te maldiga!}
 {2052}{}{¡Mi ojo!}
 {2053}{}{Auuu}
-{2054}{}{¡Ohhhhhhhhh!}
+{2054}{}{¡Ooooooooooh!}
 {2055}{}{No... puedo... respirar...}
 {2056}{}{Oh no...}
-{2057}{}{Me duele, me duele...}
+{2057}{}{Duele, duele...}
 {2058}{}{¡Maldición!}
 {2100}{}{¡Me voy!}
 {2101}{}{¡Piedad! ¡Misericordia!}
@@ -650,14 +650,14 @@
 {2114}{}{No estoy de humor para peleas, pero...}
 {2115}{}{¡Yo no quería que pasara esto!}
 {2116}{}{¿Por qué empezaste esto?}
-{2117}{}{¡No quiero hacerlo!}
+{2117}{}{¡No quiero hacer esto!}
 {2118}{}{No creas que es algo personal...}
 {2119}{}{Espero no herirte de gravedad}
 {2120}{}{¿Te das cuenta de que tú empezaste esto?}
 {2121}{}{¡Es en defensa propia!}
-{2122}{}{¡Guau!}
+{2122}{}{¡Fiuu!}
 {2123}{}{Realmente no tienes por qué hacer esto}
-{2124}{}{¡Eh! ¡Eso podía haber dolido!}
+{2124}{}{¡Eh! ¡Eso pudo haber dolido!}
 {2125}{}{No deberíamos estar luchando}
 {2126}{}{La violencia no resuelve los problemas}
 {2127}{}{Tu corazón no está en esto}
@@ -665,7 +665,7 @@
 {2129}{}{¡Aaaah, mi cara!}
 {2130}{}{¡Oh! ¡Mi oído!}
 {2131}{}{¡Por favor, para!}
-{2132}{}{¡Ay!}
+{2132}{}{¡Ouch!}
 {2133}{}{¡Me has roto el brazo!}
 {2134}{}{¿Qué has hecho?}
 {2135}{}{¡Ugh!}
@@ -679,7 +679,7 @@
 {2143}{}{¡Estoy ciego!}
 {2144}{}{¡Lloro lágrimas de sangre!}
 {2145}{}{Oh dios, el dolor...}
-{2146}{}{¡Ohhhhh, la ingle!}
+{2146}{}{Oooooo, ¡mi ingle!}
 {2147}{}{Necesito una siesta}
 {2148}{}{¿Ya acabaste?}
 {2149}{}{No... puedo... respirar...}
@@ -836,7 +836,7 @@
 {2431}{}{¡¡Mi brazo!!}
 {2432}{}{La Unidad curará mis heridas...}
 {2433}{}{¡Maestro! ¡Qué me han hecho!}
-{2434}{}{¡Oh, mi brazo!}
+{2434}{}{¡Ow, mi brazo!}
 {2435}{}{El Maestro curará mis heridas...}
 {2436}{}{Te quitaré el doble de lo que tú me has quitado}
 {2437}{}{¡Uf!}
@@ -853,7 +853,7 @@
 {2448}{}{¡Maestro, estoy ciego!}
 {2449}{}{¡Maestro, los ojos, me queman!}
 {2450}{}{¡Maestro, no veo!}
-{2451}{}{¡Ohhhhh, la ingle!}
+{2451}{}{Oooooo, ¡mi ingle!}
 {2452}{}{¡Maestro!}
 {2453}{}{¡Maestro, protégeme del dolor!}
 {2454}{}{No... puedo... respirar...}
@@ -890,7 +890,7 @@
 {2528}{}{¡Aaah! ¿Qué me ha dado?}
 {2529}{}{¡Maestro, protégeme!}
 {2530}{}{¡Ow!}
-{2531}{}{¡Oh, mi brazo!}
+{2531}{}{¡Ow, mi brazo!}
 {2532}{}{¡Me has roto el brazo!}
 {2533}{}{¡¿Qué me has hecho?!}
 {2534}{}{¡No! ¡Maestro!}
@@ -899,7 +899,7 @@
 {2537}{}{¡Auch! ¡Eso duele!}
 {2538}{}{¡JODER!}
 {2539}{}{¡Oh, oh, me duele!}
-{2540}{}{¡Ay!}
+{2540}{}{¡Ouch!}
 {2541}{}{¡Oh!}
 {2542}{}{¡Uf!}
 {2543}{}{¡Maestro! ¡Quema!}
@@ -911,7 +911,7 @@
 {2549}{}{¡No veo!}
 {2550}{}{¡Mis ojos!}
 {2551}{}{¡Me he quedado ciego por mis pecados!}
-{2552}{}{¡Ohhhhh, la ingle!}
+{2552}{}{Oooooo, ¡mi ingle!}
 {2553}{}{¡Ohhh, eres una verdadera demonio!}
 {2554}{}{Llama Sagrada, ¡protege mi semilla!}
 {2555}{}{¡El Maestro obra de maneras misteriosas!}
@@ -948,7 +948,7 @@
 {2628}{}{¡Ugh!}
 {2629}{}{¡Uf!}
 {2630}{}{¡Maldita sea! ¡Cómo me duele!}
-{2631}{}{¡Oh, mi brazo!}
+{2631}{}{¡Ow, mi brazo!}
 {2632}{}{¡Me las vas a pagar por esa!}
 {2633}{}{¡Te romperé los dos brazos por esto!}
 {2634}{}{¡Mi brazo! ¿¡Qué le has hecho a mi brazo!?}
@@ -962,9 +962,9 @@
 {2642}{}{¡Ow!}
 {2643}{}{¡Voy a ponerte en tu sitio por esto!}
 {2644}{}{¡Mi ojo! ¡Me las vas a pagar!}
-{2645}{}{¡Ese ha sido un golpe bajo!}
+{2645}{}{¡Ese ha sido un disparo traicionero!}
 {2646}{}{¡Oh, me has dado en los mismísimos!}
-{2647}{}{¡Maldita sea, cómo me duele!}
+{2647}{}{¡Maldición, eso duele!}
 {2648}{}{¡Maldita chupapollas! ¡Mierda! ¡JODER!}
 {2649}{}{¡Oh, maldita sea!}
 {2650}{}{¡Hija de...!}
@@ -1010,10 +1010,10 @@
 {2738}{}{Sistemas alcanzados, sistemas alcanzados, sistemas alcanzados}
 {2800}{}{¡Hay que largarse de aquí!}
 {2801}{}{Volveré...}
-{2802}{}{¡No podrás matarme hoy!}
+{2802}{}{¡Hoy no me matarás!}
 {2803}{}{¡Hasta luego, amiga!}
 {2804}{}{¡Todavía no has oído la última palabra!}
-{2805}{}{¡Pagarás por esto... luego!}
+{2805}{}{¡Me las pagarás... luego!}
 {2806}{}{¡Eres historia!}
 {2807}{}{Carne fresca...}
 {2808}{}{Ah, ya está aquí la cena}
@@ -1021,7 +1021,7 @@
 {2810}{}{Voy a cavar tu tumba...}
 {2811}{}{Espero dejar intacta tu cabeza...}
 {2812}{}{¡Ese es tu número!}
-{2813}{}{No te preocupe gritar suplicando clemencia...}
+{2813}{}{No te molestes en pedir piedad...}
 {2814}{}{Voy a divertirme}
 {2815}{}{¡Ohhh, eso va a doler!}
 {2816}{}{¡Toma normalito!}
@@ -1036,32 +1036,32 @@
 {2825}{}{¡Has fallado, tía!}
 {2826}{}{¡No puedes matar a quien eres incapaz de alcanzar!}
 {2827}{}{¡Demasiada lenta!}
-{2828}{}{Oh, mi cara bonita}
+{2828}{}{Oh, mi hermosa cara}
 {2829}{}{¡Ay, mi cabeza!}
 {2830}{}{¡Uf!}
 {2831}{}{¡Mi mano!}
 {2832}{}{¡Ow!}
 {2833}{}{¡Oh!!}
-{2834}{}{¡Oh, mi brazo!}
+{2834}{}{¡Ow, mi brazo!}
 {2835}{}{¡Me has roto el brazo!}
-{2836}{}{¡Vas a arrepentirte!}
+{2836}{}{¡Lamentarás eso!}
 {2837}{}{([Gruñe])}
 {2839}{}{¡Oh, vaya!}
 {2840}{}{¡Grrr!}
-{2841}{}{¡Vas a arrepentirte!}
+{2841}{}{¡Lamentarás eso!}
 {2842}{}{¡Deberías parar mientras vayas por delante!}
 {2843}{}{¡Usaré tus órganos para remplazar los míos!}
 {2844}{}{¡Garrr!}
 {2845}{}{¡Oh, mi pierna!}
-{2846}{}{¡Me las pagarás por esto!}
-{2847}{}{¡Ah! ¡Me has roto la pierna, yo te romperé el cuello!}
+{2846}{}{¡Pagarás por eso!}
+{2847}{}{¡Argh! ¡Me has roto la pierna! ¡Yo te romperé el cuello!}
 {2848}{}{¡Mi pierna!}
 {2849}{}{¡Intenta eso de nuevo, normalito!}
 {2850}{}{Pierdo el equilibrio...}
 {2851}{}{¡Tengo sangre en los ojos!}
 {2852}{}{¡Mi ojo! ¡Me las vas a pagar!}
 {2853}{}{¡Bastarda!}
-{2854}{}{¡Ohhhhh, la ingle!}
+{2854}{}{Oooooo, ¡mi ingle!}
 {2855}{}{¡Ohh! Tengo que aprender ese movimiento...}
 {2856}{}{¡Cerda humana!}
 {2857}{}{¡AAAAAAAAAAAAHHHHHHHHH!}
@@ -1071,7 +1071,7 @@
 {2901}{}{¡Hoy no vas a matarme!}
 {2902}{}{¡Esto no ha terminado!}
 {2903}{}{¡Mis amigos te cogerán por mí!}
-{2904}{}{¡Pagarás por esto... luego!}
+{2904}{}{¡Me las pagarás... luego!}
 {2905}{}{Otro día me divertiré con tu corazón}
 {2906}{}{¡Te mataré, humana!}
 {2907}{}{¡Nada nos desafía y sigue con vida!}
@@ -1129,15 +1129,15 @@
 {2959}{}{¡Ese no es mi punto vulnerable, humana!}
 {2960}{}{¡Tu muerte será cada vez más dolorosa!}
 {2961}{}{Quizá debería comprobar tus puntos débiles}
-{3000}{}{¡Huye, huye!}
+{3000}{}{¡Huida! ¡Huida!}
 {3001}{}{¡Retirada!}
 {3002}{}{¡Reagrupamiento!}
-{3003}{}{¡Retrocede!}
+{3003}{}{¡Atrás!}
 {3004}{}{¡Retirada!}
-{3005}{}{¡Aaaahhh!}
+{3005}{}{¡Aaaaghhh!}
 {3006}{}{¡Mata a este idiota!}
 {3007}{}{Carne fresca...}
-{3008}{}{¡A saquear!}
+{3008}{}{¡Saqueo!}
 {3009}{}{¡Este es mía!}
 {3010}{}{¡Cógela!}
 {3011}{}{¡Estás muerta! Espero que hayas disfrutado...}
@@ -1147,8 +1147,8 @@
 {3015}{}{¡¡RAAAAAAARRRR!!}
 {3016}{}{¡Tus armas serán mis trofeos!}
 {3017}{}{¡Muerte!}
-{3018}{}{¡Seré yo el que te mate!}
-{3019}{}{Tus huesos irán a parar a los desperdicios!}
+{3018}{}{¡Seré yo quien te mate!}
+{3019}{}{¡Tus huesos yacerán en el Yermo!}
 {3020}{}{¡Sangre y oscuridad!}
 {3021}{}{¡Fabricaré armas con tus huesos!}
 {3022}{}{¡Aprende, bastarda retorcida!}
@@ -1168,7 +1168,7 @@
 {3036}{}{¡Pagarás por esto!}
 {3037}{}{¡Joder!}
 {3038}{}{¡¿A eso lo llamas dolor!?}
-{3039}{}{¡Ay!}
+{3039}{}{¡Ouch!}
 {3040}{}{¡Uf!}
 {3041}{}{¡Maldita sea, eso duele!}
 {3042}{}{¡Ven aquí y deja que te haga yo lo mismo!}
@@ -1178,14 +1178,14 @@
 {3046}{}{¡Ese llegó a la raíz!}
 {3047}{}{¡Mi pierna!}
 {3048}{}{¡Morirás por eso!}
-{3049}{}{¡Ah! ¡Me has roto la pierna, yo te romperé el cuello!}
+{3049}{}{¡Argh! ¡Me has roto la pierna! ¡Yo te romperé el cuello!}
 {3050}{}{¡Mi pierna!}
 {3051}{}{¡Morirás por eso!}
 {3052}{}{¡¡Ah!!}
 {3053}{}{¡Ah! ¡Te despedazaré viva!}
 {3054}{}{¡Mi ojo!}
 {3055}{}{¡Mi ojo! ¡Morirás lentamente por eso!}
-{3056}{}{¡Ohhhhh, la ingle!}
+{3056}{}{Oooooo, ¡mi ingle!}
 {3057}{}{¡Auu! Tú... vas... ha sufrir...}
 {3058}{}{¡Ohh! Te... voy... a matar...}
 {3059}{}{¡Auu! Mutilaré tu...}
@@ -1194,12 +1194,12 @@
 {3100}{}{¡Khans! ¡Cubridme!}
 {3101}{}{¡Retirada!}
 {3102}{}{¡Reagrupamiento!}
-{3103}{}{¡Retrocede!}
+{3103}{}{¡Atrás!}
 {3104}{}{¡Retirada!}
 {3105}{}{Volveré}
 {3106}{}{¡Qué empiece el desafío!}
 {3107}{}{Carne fresca...}
-{3108}{}{¡A saquear!}
+{3108}{}{¡Saqueo!}
 {3109}{}{¡Este es mía!}
 {3110}{}{¡Khans, al ataque!}
 {3111}{}{¡Te voy a KHANbiar la cara a golpes!}
@@ -1209,8 +1209,8 @@
 {3115}{}{¡¡RAAAAAAARRRR!!}
 {3116}{}{¡Los Khans son invencibles!}
 {3117}{}{¡Nunca nos retiramos! ¡Nunca nos rendimos!}
-{3118}{}{¡Seré yo el que te mate!}
-{3119}{}{Tus huesos irán a parar a los desperdicios!}
+{3118}{}{¡Seré yo quien te mate!}
+{3119}{}{¡Tus huesos yacerán en el Yermo!}
 {3120}{}{¡Sangre y oscuridad!}
 {3121}{}{¡Los Khans son los que mandan!}
 {3122}{}{¡Ja, ja, ja, ja, inténtalo de nuevo!}
@@ -1223,10 +1223,10 @@
 {3129}{}{¡Ese ha sido tu último ataque!}
 {3130}{}{¡Un intento patético!}
 {3131}{}{¡Aún te puedo ganar con un solo brazo!}
-{3132}{}{¡Me has roto un brazo! Ahora estamos igualados}
+{3132}{}{¡Me has roto el brazo! ¡Ahora la pelea será justa!}
 {3133}{}{¡Ha sido tu último golpe!}
 {3134}{}{¡Aún te puedo ganar con un solo brazo!}
-{3135}{}{¡Me has roto un brazo! Ahora estamos igualados}
+{3135}{}{¡Me has roto el brazo! ¡Ahora la pelea será justa!}
 {3136}{}{¡Acabaré contigo!}
 {3137}{}{¡Por eso, tu muerte será legendaria!}
 {3138}{}{¡Por eso que has hecho, lo festejaré con tus ojos!}
@@ -1263,17 +1263,17 @@
 {3207}{}{}
 {3208}{}{}
 {3209}{}{¡Por aquí no nos gustan las tipas como tú!}
-{3210}{}{Nadie va a tomar este lugar...}
+{3210}{}{Nadie se va a quedar con este sitio...}
 {3211}{}{¡Arenas Sombrías no necesita a los que son como tú!}
 {3212}{}{}
 {3213}{}{Voy a hacerte una herida bien grande}
-{3214}{}{¡Esto es lo que le hacemos a la gentuza!}
+{3214}{}{¡Esto es lo que les hacemos a las alimañas!}
 {3215}{}{}
 {3216}{}{Así hacemos frente a los problemas en Arenas Sombrías}
 {3217}{}{¡Así aprenderás!}
 {3218}{}{Utilizaré tu cuerpo como fertilizante}
 {3219}{}{Bien. Te lo has buscado.}
-{3220}{}{¡Serás animal!}
+{3220}{}{¡Animal!}
 {3221}{}{¡Te arrepentirás de haber venido!}
 {3222}{}{No eres tan buena como te piensas}
 {3223}{}{}
@@ -1283,14 +1283,14 @@
 {3227}{}{Ese fue tu último error}
 {3228}{}{¡Maldición!}
 {3229}{}{¡Aggghhh!}
-{3230}{}{¡Mi cara, mi cara!}
-{3231}{}{¡Ahhh! ¡Mi brazo!}
+{3230}{}{¡Mi cara! ¡Mi cara!}
+{3231}{}{¡Aggghhh! ¡Mi brazo!}
 {3232}{}{¡Mi brazo!}
 {3233}{}{El maldito brazo ya no me sirve...}
-{3234}{}{¡Ahhh! ¡Mi brazo!}
+{3234}{}{¡Aggghhh! ¡Mi brazo!}
 {3235}{}{¡Mi brazo!}
 {3236}{}{El maldito brazo ya no me sirve...}
-{3237}{}{¡Ay!}
+{3237}{}{¡Ouch!}
 {3238}{}{¡Oh!}
 {3239}{}{}
 {3240}{}{Espero que mueras de sed, frío y soledad...}
@@ -1300,21 +1300,21 @@
 {3244}{}{}
 {3245}{}{Mal karma golpearme así}
 {3246}{}{¡Gack!}
-{3247}{}{¡Ahhh! ¡Mi pierna!}
+{3247}{}{¡Aggghhh! ¡Mi pierna!}
 {3248}{}{¡Mi pierna!}
 {3249}{}{Maldición, la pierna ya no me sirve...}
-{3250}{}{¡Ahhh! ¡Mi pierna!}
+{3250}{}{¡Aggghhh! ¡Mi pierna!}
 {3251}{}{¡Mi pierna!}
 {3252}{}{Maldición, la pierna ya no me sirve...}
-{3253}{}{¡Ahhh! ¡Estoy ciego!}
+{3253}{}{¡Aggghhh! ¡Estoy ciego!}
 {3254}{}{¡Maldita sea! ¡Todo está oscuro!}
 {3255}{}{¡Mi ojo! ¡Me las vas a pagar!}
-{3256}{}{¡Ohhhhh, la ingle!}
+{3256}{}{Oooooo, ¡mi ingle!}
 {3257}{}{¡Ooooooooooffffff!}
 {3258}{}{No... puedo... respirar...}
 {3259}{}{!}
-{3260}{}{Me duele, me duele...}
-{3261}{}{¡Maldita sea, cómo me duele!}
+{3260}{}{Duele, duele...}
+{3261}{}{¡Maldición, eso duele!}
 {3300}{}{Me largo}
 {3301}{}{}
 {3302}{}{¡Aaaaahhhh!}
@@ -1353,7 +1353,7 @@
 {3335}{}{¡Ow! ¡Mi brazo!}
 {3336}{}{¡Ay! ¡Me lo has roto!}
 {3337}{}{¡Demonios! ¡Eso me ha dolido!}
-{3338}{}{¡Ay!}
+{3338}{}{¡Ouch!}
 {3339}{}{¡Ow!}
 {3340}{}{}
 {3341}{}{(Sujetándose las costillas) ¡Auch!}
@@ -1361,7 +1361,7 @@
 {3343}{}{[Jadea fuertemente]}
 {3344}{}{¡Ay! Me has decepcionado...}
 {3345}{}{¡Uf!}
-{3346}{}{¡Me duele!}
+{3346}{}{¡Eso ha dolido!}
 {3347}{}{¡Ow!}
 {3348}{}{¡Oh! ¡Mi rodilla!}
 {3349}{}{¡Oh! ¡Mi pierna!}
@@ -1371,7 +1371,7 @@
 {3353}{}{¡Estoy ciego!}
 {3354}{}{¡No veo!}
 {3355}{}{Está oscuro}
-{3356}{}{¡Ohhhhh, la ingle!}
+{3356}{}{Oooooo, ¡mi ingle!}
 {3357}{}{¡Ayyy!}
 {3358}{}{Joder, cómo duele}
 {3359}{}{¡Uf!}
@@ -1419,7 +1419,7 @@
 {3439}{}{El que busca jaleo... lo encuentra...}
 {3440}{}{¡Uf!}
 {3441}{}{¡Uff! Te castigaré por esto...}
-{3442}{}{¡Oh! ¡Me duele!}
+{3442}{}{¡Ow! ¡Eso duele!}
 {3443}{}{¡Ay! Eso ha sido muy desagradable}
 {3444}{}{¡Ay! ¿Por qué haces esto?}
 {3445}{}{¡Ahh! Tengo que controlar mis emociones...}
@@ -1433,7 +1433,7 @@
 {3453}{}{¡Mis ojos!}
 {3454}{}{¡Ahh! Conque así es como quieres jugar...}
 {3455}{}{¡Agghh! Pequeña sucia hija de...}
-{3456}{}{¡Ohhhhh, la ingle!}
+{3456}{}{Oooooo, ¡mi ingle!}
 {3457}{}{¡Ayyy!}
 {3458}{}{[lloriquea]}
 {3459}{}{¡Uf!}
@@ -1444,7 +1444,7 @@
 {3502}{}{¡Hasta luego, mocosa!}
 {3503}{}{}
 {3504}{}{}
-{3505}{}{¡Hagámoslo otra vez!}
+{3505}{}{¡Pronto lo repetiremos!}
 {3506}{}{Lucha conmigo o quiéreme...}
 {3507}{}{¡Carne fresca!}
 {3508}{}{!}
@@ -1457,16 +1457,16 @@
 {3515}{}{}
 {3516}{}{¡Servidor de la muerte, presente!}
 {3517}{}{Estarás tan guapa cuando mueras...}
-{3518}{}{¡Muere, muere, muere, muere!}
+{3518}{}{¡Muere! ¡Muere! ¡Muere! ¡Muere!}
 {3519}{}{¡Tu dolor es mi alegría!}
 {3520}{}{Vamos a abrirte un poquito...}
 {3521}{}{Y yo que creía que hoy no habría derramamiento de sangre...}
 {3522}{}{}
 {3523}{}{¡Estoy MUY asustado!}
 {3524}{}{Éste es mi chica, ¡lucha un poquito!}
-{3525}{}{¿Eso es todo lo que sabes hacer?}
+{3525}{}{¿Eso es lo mejor que puedes hacer?}
 {3526}{}{¡No eres nada comparado conmigo!}
-{3527}{}{Esto va a ser más fácil de lo que creía}
+{3527}{}{Esto va a ser más sencillo de lo que pensaba.}
 {3528}{}{¡Esa será una bonita cicatriz!}
 {3529}{}{¿Intentas impresionarme?}
 {3530}{}{Hazlo otra vez, cariño.}
@@ -1495,7 +1495,7 @@
 {3553}{}{Eh, estoy ciego. ¡Qué confusión!}
 {3554}{}{No veo. ¡Supongo que tendré que oler tu miedo!}
 {3555}{}{¡Mis ojos! Tía, me gusta tu forma de luchar}
-{3556}{}{¡Ohhhhh, la ingle!}
+{3556}{}{Oooooo, ¡mi ingle!}
 {3557}{}{Eso ha sido un golpe bajo}
 {3558}{}{¡Ohhh! ¿Eso es una proposición, encanto?}
 {3559}{}{}
@@ -1505,7 +1505,7 @@
 {3601}{}{}
 {3602}{}{}
 {3603}{}{¡No ganarás!}
-{3604}{}{¡Retrocede!}
+{3604}{}{¡Atrás!}
 {3605}{}{No necesito esto...}
 {3606}{}{¡Al ataque!}
 {3607}{}{¡Voy a disfrutar mucho enterrándote en una tumba poco profunda!}
@@ -1557,7 +1557,7 @@
 {3653}{}{¡Estoy ciego!}
 {3654}{}{¡No veo!}
 {3655}{}{¡Mis ojos! Hija de Destripador...}
-{3656}{}{¡Ohhhhh, la ingle!}
+{3656}{}{Oooooo, ¡mi ingle!}
 {3657}{}{¡Ayyy!}
 {3658}{}{Joder, cómo duele}
 {3659}{}{¡Uf!}
@@ -1594,14 +1594,14 @@
 {3728}{}{¡Oh! Hija de...}
 {3729}{}{Te mataré por esto}
 {3730}{}{¡Te arrancaré la cabeza!}
-{3731}{}{¡Oh, mi brazo!}
+{3731}{}{¡Ow, mi brazo!}
 {3732}{}{Maldita sea. ¡Tengo el brazo destrozado!}
 {3733}{}{¡Mi brazo!}
-{3734}{}{¡Oh, mi brazo!}
+{3734}{}{¡Ow, mi brazo!}
 {3735}{}{Maldita sea. ¡Tengo el brazo destrozado!}
 {3736}{}{¡Mi brazo!}
 {3737}{}{He visto a muchas novatas hacerlo mejor que tú...}
-{3738}{}{¡Ay!}
+{3738}{}{¡Ouch!}
 {3739}{}{Tengo que acordarme de devolverte este dolor algún día}
 {3740}{}{¡Uf!}
 {3741}{}{}
@@ -1609,7 +1609,7 @@
 {3743}{}{¡Maldita idiota!}
 {3744}{}{}
 {3745}{}{[Jadea fuertemente]}
-{3746}{}{¡Ay!}
+{3746}{}{¡Ouch!}
 {3747}{}{¡Oh, mi pierna!}
 {3748}{}{}
 {3749}{}{¡Mi rodilla!}
@@ -1619,17 +1619,17 @@
 {3753}{}{¡No veo!}
 {3754}{}{¡Mi ojo! ¡Me las vas a pagar!}
 {3755}{}{¡Ayyyyyy! ¡Estoy ciego!}
-{3756}{}{¡Ohhhhh, la ingle!}
+{3756}{}{Oooooo, ¡mi ingle!}
 {3757}{}{Conque así es como quieres jugar}
 {3758}{}{}
 {3759}{}{¡Urp!}
 {3760}{}{}
-{3761}{}{Me duele, me duele...}
+{3761}{}{Duele, duele...}
 {3800}{}{¡Necesito refuerzos!}
 {3801}{}{¡Que alguien me ayude!}
 {3802}{}{¡Reagrupamiento!}
 {3803}{}{¡Retirada! ¡Retirada!}
-{3804}{}{¡Retrocede! ¡Retrocede!}
+{3804}{}{¡Atrás todos! ¡Atrás!}
 {3805}{}{¡Tenemos que encontrar una posición mejor!}
 {3806}{}{¡Tenemos un objetivo!}
 {3807}{}{¡Nos atacan!}
@@ -1671,7 +1671,7 @@
 {3843}{}{¡Estoy ciego!}
 {3844}{}{¡Me arden los ojos!}
 {3845}{}{¡No veo!}
-{3846}{}{¡Ohhhhh, la ingle!}
+{3846}{}{Oooooo, ¡mi ingle!}
 {3847}{}{Sí, las mocosas siempre apuntáis a la entrepierna}
 {3848}{}{¡Cómo me duele, maldición!}
 {3849}{}{No... puedo... respirar...}
@@ -1681,7 +1681,7 @@
 {3901}{}{¡Que alguien me ayude!}
 {3902}{}{}
 {3903}{}{¡Retirada! ¡Retirada!}
-{3904}{}{¡Retrocede! ¡Retrocede!}
+{3904}{}{¡Atrás todos! ¡Atrás!}
 {3905}{}{¡Ayuda!}
 {3906}{}{¡Por Adytum!}
 {3907}{}{¡Nos atacan!}
@@ -1709,17 +1709,17 @@
 {3929}{}{¡Mi cara!}
 {3930}{}{¡Me has roto la nariz!}
 {3931}{}{¡Ahh! ¡Mi brazo!}
-{3932}{}{¡Oh! ¡Me duele!}
+{3932}{}{¡Ow! ¡Eso duele!}
 {3933}{}{Maldita sea, deben haberme malherido}
 {3934}{}{¡Ahh! ¡Mi brazo!}
-{3935}{}{¡Oh! ¡Me duele!}
+{3935}{}{¡Ow! ¡Eso duele!}
 {3936}{}{Maldita sea, deben haberme malherido}
-{3937}{}{¡Ay!}
+{3937}{}{¡Ouch!}
 {3938}{}{¡Uff! ¡Eso duele!}
 {3939}{}{¡Uff! Me... cuesta... res... pirar...}
 {3940}{}{¡Me han dado! ¡Un médico!}
 {3941}{}{Estaré bien, es una herida sin importancia}
-{3942}{}{¡Agh!}
+{3942}{}{¡Argh!}
 {3943}{}{¡Auch! ¡Maldita sea!}
 {3944}{}{¡Ah! Te atraparé}
 {3945}{}{}
@@ -1733,7 +1733,7 @@
 {3953}{}{¡Estoy ciego, que alguien me ayude!}
 {3954}{}{¡Maldita sea, justo en los ojos!}
 {3955}{}{¡No veo!}
-{3956}{}{¡Ohhhhh, la ingle!}
+{3956}{}{Oooooo, ¡mi ingle!}
 {3957}{}{Sí, las mocosas siempre apuntáis a la entrepierna}
 {3958}{}{¡Cómo me duele, maldición!}
 {3959}{}{No... puedo... respirar...}
@@ -1743,7 +1743,7 @@
 {4001}{}{¡Que alguien me ayude!}
 {4002}{}{¡Un médico!}
 {4003}{}{¡Retirada! ¡Retirada!}
-{4004}{}{¡Retrocede! ¡Retrocede!}
+{4004}{}{¡Atrás todos! ¡Atrás!}
 {4005}{}{¡Ayuda!}
 {4006}{}{Creo que va a haber problemas.}
 {4007}{}{¡Nos atacan!}
@@ -1771,17 +1771,17 @@
 {4029}{}{¡Mi cara!}
 {4030}{}{¡Me has roto la nariz!}
 {4031}{}{¡Ahh! ¡Mi brazo!}
-{4032}{}{¡Oh! ¡Me duele!}
+{4032}{}{¡Ow! ¡Eso duele!}
 {4033}{}{Maldita sea, deben haberme malherido}
 {4034}{}{¡Ahh! ¡Mi brazo!}
-{4035}{}{¡Oh! ¡Me duele!}
+{4035}{}{¡Ow! ¡Eso duele!}
 {4036}{}{Maldita sea, deben haberme malherido}
 {4037}{}{¡Oh! Eso me ha dolido mucho}
 {4038}{}{}
 {4039}{}{¡Uff! Tienes que hacerlo mejor que eso}
 {4040}{}{¡Auch! ¿¡Crees que puedes hacer que cambie de idea tan fácilmente!?}
-{4041}{}{¡Ay!}
-{4042}{}{¡Agh!}
+{4041}{}{¡Ouch!}
+{4042}{}{¡Argh!}
 {4043}{}{¡Uf!}
 {4044}{}{[Jadea fuertemente]}
 {4045}{}{}
@@ -1794,7 +1794,7 @@
 {4053}{}{¡Estoy ciego, que alguien me ayude!}
 {4054}{}{}
 {4055}{}{¡No veo!}
-{4056}{}{¡Ohhhhh, la ingle!}
+{4056}{}{Oooooo, ¡mi ingle!}
 {4057}{}{}
 {4058}{}{¡Maldición!}
 {4059}{}{No... puedo... respirar...}
@@ -1804,7 +1804,7 @@
 {4101}{}{¡Qué alguien me ayude!}
 {4102}{}{}
 {4103}{}{¡Retirada! ¡Retirada!}
-{4104}{}{¡Retrocede! ¡Retrocede!}
+{4104}{}{¡Atrás todos! ¡Atrás!}
 {4105}{}{¡Ayuda!}
 {4106}{}{}
 {4107}{}{Creo que tenemos un problema}
@@ -1866,7 +1866,7 @@
 {4201}{}{¡No hay refuerzos suficientes y estoy muy grave!}
 {4202}{}{}
 {4203}{}{}
-{4204}{}{¡Retrocede! ¡Retrocede!}
+{4204}{}{¡Atrás todos! ¡Atrás!}
 {4205}{}{¡Que alguien me cubra!}
 {4206}{}{}
 {4207}{}{}
@@ -1928,7 +1928,7 @@
 {4301}{}{No tengo suficiente apoyo y estoy malherida...}
 {4302}{}{¡Esto no ha terminado!}
 {4303}{}{Será mejor que nos reagrupemos...}
-{4304}{}{¡Retrocede!}
+{4304}{}{¡Atrás!}
 {4305}{}{La fuerza bruta no ganará en esta pelea}
 {4306}{}{Podré con esto}
 {4307}{}{¡Esto no va a ser bonito!}
@@ -1969,7 +1969,7 @@
 {4342}{}{¡Ack!}
 {4343}{}{¡Ow!}
 {4344}{}{¡Uff! Puedes derrotarme, pero la causa seguirá viva}
-{4345}{}{¡Agh!}
+{4345}{}{¡Argh!}
 {4346}{}{}
 {4347}{}{¡Mi pierna!}
 {4348}{}{Maldita sea, justo en la rodilla...}
@@ -2004,14 +2004,14 @@
 {4415}{}{¡Has ofendido al Rey del Cementerio de LA!}
 {4416}{}{}
 {4417}{}{Estarás tan guapa cuando mueras...}
-{4418}{}{¡Muere, muere, muere, muere!}
+{4418}{}{¡Muere! ¡Muere! ¡Muere! ¡Muere!}
 {4419}{}{}
 {4420}{}{Esta noche servirás de alimento a los gusanos.}
 {4421}{}{¡Te despellejaré viva!}
 {4422}{}{}
 {4423}{}{¡Venga! ¡Inténtalo de nuevo, mamona!}
 {4424}{}{Venga, mocosa. ¡Pelea conmigo!}
-{4425}{}{¿Eso es todo lo que sabes hacer?}
+{4425}{}{¿Eso es lo mejor que puedes hacer?}
 {4426}{}{¡No eres nadie!}
 {4427}{}{¡No puedo ser asesinado!}
 {4428}{}{}
@@ -2104,7 +2104,7 @@
 {4553}{}{¡Estoy ciego!}
 {4554}{}{¡No veo!}
 {4555}{}{¡Mis ojos! Hija de Destripador...}
-{4556}{}{¡Ohhhhh, la ingle!}
+{4556}{}{Oooooo, ¡mi ingle!}
 {4557}{}{¡Ayyy!}
 {4558}{}{Joder, cómo duele}
 {4559}{}{¡Uf!}
@@ -2166,7 +2166,7 @@
 {4653}{}{¡Estoy ciego!}
 {4654}{}{¡No veo!}
 {4655}{}{¡Mis ojos! Hija de Destripador...}
-{4656}{}{¡Ohhhhh, la ingle!}
+{4656}{}{Oooooo, ¡mi ingle!}
 {4657}{}{¡Ayyy!}
 {4658}{}{Joder, cómo duele}
 {4659}{}{¡Uf!}
@@ -2203,10 +2203,10 @@
 {4728}{}{¡Oh! Hija de...}
 {4729}{}{Te mataré por esto}
 {4730}{}{¡Te arrancaré la cabeza!}
-{4731}{}{¡Oh, mi brazo!}
+{4731}{}{¡Ow, mi brazo!}
 {4732}{}{Maldita sea. ¡Tengo el brazo destrozado!}
 {4733}{}{¡Mi brazo!}
-{4734}{}{¡Oh, mi brazo!}
+{4734}{}{¡Ow, mi brazo!}
 {4735}{}{Maldita sea. ¡Tengo el brazo destrozado!}
 {4736}{}{¡Mi brazo!}
 {4737}{}{¡Ow!}
@@ -2228,7 +2228,7 @@
 {4753}{}{¡No veo!}
 {4754}{}{¡Mi ojo! ¡Me las vas a pagar!}
 {4755}{}{}
-{4756}{}{¡Ohhhhh, la ingle!}
+{4756}{}{Oooooo, ¡mi ingle!}
 {4757}{}{Conque así es como quieres jugar}
 {4758}{}{}
 {4759}{}{¡Urp!}
@@ -2238,7 +2238,7 @@
 {4801}{}{¡Que alguien me ayude!}
 {4802}{}{¡Un médico!}
 {4803}{}{¡Retirada! ¡Retirada!}
-{4804}{}{¡Retrocede! ¡Retrocede!}
+{4804}{}{¡Atrás todos! ¡Atrás!}
 {4805}{}{¡Reagrupamiento!}
 {4806}{}{Me encargaré de esto}
 {4807}{}{¡Nos atacan!}
@@ -2266,10 +2266,10 @@
 {4829}{}{¡Mi cara!}
 {4830}{}{¡Mi nariz!}
 {4831}{}{¡Maldita sea! ¡Mi brazo!}
-{4832}{}{¡Oh! ¡Me duele!}
+{4832}{}{¡Ow! ¡Eso duele!}
 {4833}{}{Maldita sea, deben haberme malherido}
 {4834}{}{¡Maldita sea! ¡Mi brazo!}
-{4835}{}{¡Oh! ¡Me duele!}
+{4835}{}{¡Ow! ¡Eso duele!}
 {4836}{}{Maldita sea, deben haberme malherido}
 {4837}{}{¡Ow!}
 {4838}{}{¡Ay! ¡Justo en el pecho!}
@@ -2277,8 +2277,8 @@
 {4840}{}{¡Uf!}
 {4841}{}{}
 {4842}{}{¡Uff! ¡Justo en la tripa!}
-{4843}{}{¡Agh!}
-{4844}{}{¡Ay!}
+{4843}{}{¡Argh!}
+{4844}{}{¡Ouch!}
 {4845}{}{¡Uf!}
 {4846}{}{Necesito... aire...}
 {4847}{}{¡Buen tiro!}
@@ -2290,7 +2290,7 @@
 {4853}{}{Maldita sea, algo va mal...}
 {4854}{}{¡Maldita sea, justo en los ojos!}
 {4855}{}{¡No veo!}
-{4856}{}{¡Ohhhhh, la ingle!}
+{4856}{}{Oooooo, ¡mi ingle!}
 {4857}{}{}
 {4858}{}{¡Cómo me duele, maldición!}
 {4859}{}{No... puedo... respirar...}
@@ -2327,10 +2327,10 @@
 {4928}{}{¡En la cara no!}
 {4929}{}{¡Ay, mi cabeza!}
 {4930}{}{¡Me has roto la nariz!}
-{4931}{}{¡Oh, mi brazo!}
+{4931}{}{¡Ow, mi brazo!}
 {4932}{}{¡Me has roto el brazo!}
 {4933}{}{¿Ha sido eso realmente necesario?}
-{4934}{}{¡Oh, mi brazo!}
+{4934}{}{¡Ow, mi brazo!}
 {4935}{}{¡Me has roto el brazo!}
 {4936}{}{¿Ha sido eso realmente necesario?}
 {4937}{}{¡Uf!}
@@ -2339,7 +2339,7 @@
 {4940}{}{[Jadea fuertemente] ¡No me des!}
 {4941}{}{¡Ahh! ¡Cómo duele!}
 {4942}{}{¡Ah! ¡Para, por favor!}
-{4943}{}{¡Ay!}
+{4943}{}{¡Ouch!}
 {4944}{}{¡Uf!}
 {4945}{}{¡Uf!}
 {4946}{}{¡Uff! [Jadea fuertemente] ¡Ohh! ¡Ay! ¡Ayayai!}
@@ -2352,7 +2352,7 @@
 {4953}{}{¡Agh! ¡La retina!}
 {4954}{}{¡Mi ojo! ¡Oh, dios mío, estoy ciego!}
 {4955}{}{¡Por qué es tan cruel la vida!}
-{4956}{}{¡Ohhhhh, la ingle!}
+{4956}{}{Oooooo, ¡mi ingle!}
 {4957}{}{¡Ohh! ¡Me duele!}
 {4958}{}{Eso no ha sido muy amistoso.}
 {4959}{}{}
@@ -2397,9 +2397,9 @@
 {5036}{}{}
 {5037}{}{¡Ow!}
 {5038}{}{¡Uf!}
-{5039}{}{¡Ay!}
+{5039}{}{¡Ouch!}
 {5040}{}{¡Gack!}
-{5041}{}{¡Agh!}
+{5041}{}{¡Argh!}
 {5042}{}{¡Grrr!}
 {5043}{}{}
 {5044}{}{¡Me comeré tu hígado por eso!}
@@ -2414,7 +2414,7 @@
 {5053}{}{¡Estoy ciego!}
 {5054}{}{¡No veo!}
 {5055}{}{¡Mi ojo!}
-{5056}{}{¡Ohhhhh, la ingle!}
+{5056}{}{Oooooo, ¡mi ingle!}
 {5057}{}{¡Ohh! ¡Me duele!}
 {5058}{}{Eso no ha sido muy amistoso.}
 {5059}{}{}
@@ -2459,9 +2459,9 @@
 {5136}{}{¡Ay! ¡Me lo has roto!}
 {5137}{}{¡Ow!}
 {5138}{}{¡Uf!}
-{5139}{}{¡Ay!}
+{5139}{}{¡Ouch!}
 {5140}{}{¡Gack!}
-{5141}{}{¡Agh!}
+{5141}{}{¡Argh!}
 {5142}{}{¡Grrr!}
 {5143}{}{¡Uf! Todos los esqueléticos sois iguales}
 {5144}{}{¡Me comeré tu hígado por eso!}
@@ -2476,7 +2476,7 @@
 {5153}{}{¡Te maldigo con fuego!}
 {5154}{}{¡No veo!}
 {5155}{}{¡Mi ojo!}
-{5156}{}{¡Ohhhhh, la ingle!}
+{5156}{}{Oooooo, ¡mi ingle!}
 {5157}{}{¡Uf!}
 {5158}{}{¡Destrozaré tu tumba!}
 {5159}{}{}
@@ -2583,7 +2583,7 @@
 {5336}{}{¡Ahhhh! ¡Te retorceré el cuello!}
 {5337}{}{¡Te devolveré todo este dolor!}
 {5338}{}{¡Uf!}
-{5339}{}{¡Ay!}
+{5339}{}{¡Ouch!}
 {5340}{}{¡Mmm, puedes tener problemas!}
 {5341}{}{¡Grrr! Estoy deseando que mueras}
 {5342}{}{¡Grrr!}
@@ -2647,7 +2647,7 @@
 {5438}{}{¡Uff! Te mataré}
 {5439}{}{¡Odio a las que son como tú!}
 {5440}{}{}
-{5441}{}{¡Agh!}
+{5441}{}{¡Argh!}
 {5442}{}{¡Grrr!}
 {5443}{}{¡Ay! ¡Yo mismo me encargaré de ti!}
 {5444}{}{}
@@ -2731,7 +2731,7 @@
 {5560}{}{Te haré daño durante horas}
 {5561}{}{¡Esa fue la afrenta final!}
 {5600}{}{¡Me largo de aquí!}
-{5601}{}{¡Ten compasión!}
+{5601}{}{¡Ten piedad!}
 {5602}{}{¡Por favor, para!}
 {5603}{}{¡Ayuda!}
 {5604}{}{¡Aaaaahhhh!}
@@ -2739,10 +2739,10 @@
 {5606}{}{}
 {5607}{}{¡No nos dejas muchas opciones!}
 {5608}{}{¿Quién te crees que eres?}
-{5609}{}{Nadie va a tomar este lugar...}
+{5609}{}{Nadie se va a quedar con este sitio...}
 {5610}{}{Podíamos haber hecho un trato}
 {5611}{}{Ese ha sido un mal movimiento, amiga}
-{5612}{}{No deberías empezar lo que no puedes terminar}
+{5612}{}{No deberías empezar lo que no puedas terminar.}
 {5613}{}{¡Te lo has buscado!}
 {5614}{}{}
 {5615}{}{¡Sé cómo tratar a los cerdos!}
@@ -2752,7 +2752,7 @@
 {5619}{}{}
 {5620}{}{Hora de contar tus derrotas}
 {5621}{}{}
-{5622}{}{¡Guau!}
+{5622}{}{¡Fiuu!}
 {5623}{}{No vales ni veinte chapas}
 {5624}{}{No eres muy buena en esto}
 {5625}{}{Eres un artículo en rebajas, mocosa}
@@ -2761,17 +2761,17 @@
 {5628}{}{¡En la cara no!}
 {5629}{}{}
 {5630}{}{¡Oh! ¡Mi oído!}
-{5631}{}{¡Oh, mi brazo!}
+{5631}{}{¡Ow, mi brazo!}
 {5632}{}{¡Maldita seas!}
 {5633}{}{¡Me has roto el brazo!}
-{5634}{}{¡Oh, mi brazo!}
+{5634}{}{¡Ow, mi brazo!}
 {5635}{}{¡Maldita seas!}
 {5636}{}{¡Me has roto el brazo!}
 {5637}{}{¡Ow!}
 {5638}{}{¡Uf!}
-{5639}{}{¡Ay!}
+{5639}{}{¡Ouch!}
 {5640}{}{¡Gack!}
-{5641}{}{¡Agh!}
+{5641}{}{¡Argh!}
 {5642}{}{}
 {5643}{}{¡Debería haber hecho un trato!}
 {5644}{}{¡Uf! Me pregunto cuánto podré sacar por tu cadáver}
@@ -2786,12 +2786,12 @@
 {5653}{}{¡Estoy ciego!}
 {5654}{}{¡Ugggh. ¡Mi cara! ¡Mis ojos!}
 {5655}{}{¡Mis ojos! Ojalá te pudras en el infierno...}
-{5656}{}{¡Ohhhhh, la ingle!}
+{5656}{}{Oooooo, ¡mi ingle!}
 {5657}{}{Ohhhhh, eso ha sido un golpe bajo, mocosa}
 {5658}{}{¡Urp!}
 {5659}{}{No... puedo... respirar...}
 {5660}{}{}
-{5661}{}{Me duele, me duele...}
+{5661}{}{Duele, duele...}
 {5700}{}{¡Tengo que largarme de aquí!}
 {5701}{}{¡A correr, a correr!}
 {5702}{}{¡Que alguien me ayude!}
@@ -2802,17 +2802,17 @@
 {5707}{}{¿Quién te ha dejado entrar en el Eje?}
 {5708}{}{¡Eh, tú!}
 {5709}{}{¡Por aquí no nos gustan las tipas como tú!}
-{5710}{}{Nadie va a tomar este lugar...}
+{5710}{}{Nadie se va a quedar con este sitio...}
 {5711}{}{¿Quién te crees que eres?}
 {5712}{}{¡Toma esto!}
 {5713}{}{¿Qué te parece esto?}
-{5714}{}{¡Esto es lo que le hacemos a la gentuza!}
-{5715}{}{¡Esta va por ti!}
+{5714}{}{¡Esto es lo que les hacemos a las alimañas!}
+{5715}{}{¡Esto es para ti!}
 {5716}{}{¡Adiós!}
 {5717}{}{}
-{5718}{}{¡Escoria alborotadora!}
+{5718}{}{¡Basura problemática!}
 {5719}{}{}
-{5720}{}{¡Serás animal!}
+{5720}{}{¡Animal!}
 {5721}{}{¡Te arrepentirás de haber pisado el suelo del Eje!}
 {5722}{}{No eres tan buena como te piensas}
 {5723}{}{}
@@ -2822,38 +2822,38 @@
 {5727}{}{Ese fue tu último error}
 {5728}{}{}
 {5729}{}{¡Aggghhh!}
-{5730}{}{¡Mi cara, mi cara!}
-{5731}{}{¡Ahhh! ¡Mi brazo!}
+{5730}{}{¡Mi cara! ¡Mi cara!}
+{5731}{}{¡Aggghhh! ¡Mi brazo!}
 {5732}{}{¡Mi brazo!}
 {5733}{}{El maldito brazo ya no me sirve...}
-{5734}{}{¡Ahhh! ¡Mi brazo!}
+{5734}{}{¡Aggghhh! ¡Mi brazo!}
 {5735}{}{¡Mi brazo!}
 {5736}{}{El maldito brazo ya no me sirve...}
 {5737}{}{¡Ow!}
 {5738}{}{¡Uf!}
-{5739}{}{¡Ay!}
+{5739}{}{¡Ouch!}
 {5740}{}{¡Gack!}
-{5741}{}{¡Agh!}
+{5741}{}{¡Argh!}
 {5742}{}{¡Grrr!}
 {5743}{}{!}
 {5744}{}{}
-{5745}{}{¡Ay!}
+{5745}{}{¡Ouch!}
 {5746}{}{¡Uf!}
-{5747}{}{¡Ahhh! ¡Mi pierna!}
+{5747}{}{¡Aggghhh! ¡Mi pierna!}
 {5748}{}{¡Mi pierna!}
 {5749}{}{Maldición, la pierna ya no me sirve...}
-{5750}{}{¡Ahhh! ¡Mi pierna!}
+{5750}{}{¡Aggghhh! ¡Mi pierna!}
 {5751}{}{¡Mi pierna!}
 {5752}{}{Maldición, la pierna ya no me sirve...}
-{5753}{}{¡Ahhh! ¡Estoy ciego!}
+{5753}{}{¡Aggghhh! ¡Estoy ciego!}
 {5754}{}{¡Maldita sea! Todo arde...}
 {5755}{}{¡Mi ojo! ¡Me las vas a pagar!}
-{5756}{}{¡Ohhhhh, la ingle!}
-{5757}{}{¡Ohhhhhhhhh!}
+{5756}{}{Oooooo, ¡mi ingle!}
+{5757}{}{¡Ooooooooooh!}
 {5758}{}{No... puedo... respirar...}
 {5759}{}{}
-{5760}{}{Me duele, me duele...}
-{5761}{}{¡Maldita sea, cómo me duele!}
+{5760}{}{Duele, duele...}
+{5761}{}{¡Maldición, eso duele!}
 {5800}{}{}
 {5801}{}{¡A correr, a correr!}
 {5802}{}{¡Voy a largarme de aquí!}
@@ -2864,11 +2864,11 @@
 {5807}{}{Llora como una mujer lo que no...}
 {5808}{}{¡Eh, tú!}
 {5809}{}{No me gusta tu actitud...}
-{5810}{}{Nadie va a tomar este lugar...}
+{5810}{}{Nadie se va a quedar con este sitio...}
 {5811}{}{¿Quién te crees que eres?}
 {5812}{}{}
 {5813}{}{¿Qué te parece esto?}
-{5814}{}{¡Esto es lo que le hacemos a la gentuza!}
+{5814}{}{¡Esto es lo que les hacemos a las alimañas!}
 {5815}{}{Te arroparé para una siesta macabra!}
 {5816}{}{¡Eres una insolente perra sarnosa!}
 {5817}{}{Eres un verdadero fastidio}
@@ -2885,37 +2885,37 @@
 {5828}{}{¡Maldita sea, cómo pica!}
 {5829}{}{¡Aggghhh!}
 {5830}{}{¡La cara! ¡Mi cara bonita!}
-{5831}{}{¡Ahhh! ¡Mi brazo!}
+{5831}{}{¡Aggghhh! ¡Mi brazo!}
 {5832}{}{¡Mi brazo!}
 {5833}{}{El maldito brazo ya no me sirve...}
-{5834}{}{¡Ahhh! ¡Mi brazo!}
+{5834}{}{¡Aggghhh! ¡Mi brazo!}
 {5835}{}{¡Mi brazo!}
 {5836}{}{El maldito brazo ya no me sirve...}
 {5837}{}{}
 {5838}{}{¡Uf!}
-{5839}{}{¡Ay!}
+{5839}{}{¡Ouch!}
 {5840}{}{¡Uf! Me duelen las costillas}
 {5841}{}{¡Maldita sea! ¡Me duele!}
 {5842}{}{¡Auch! ¡Maldita seas!}
-{5843}{}{¡Agh!}
+{5843}{}{¡Argh!}
 {5844}{}{}
 {5845}{}{}
 {5846}{}{¡Uf!}
-{5847}{}{¡Ahhh! ¡Mi pierna!}
+{5847}{}{¡Aggghhh! ¡Mi pierna!}
 {5848}{}{¡Mi pierna!}
 {5849}{}{Maldición, la pierna ya no me sirve...}
-{5850}{}{¡Ahhh! ¡Mi pierna!}
+{5850}{}{¡Aggghhh! ¡Mi pierna!}
 {5851}{}{¡Mi pierna!}
 {5852}{}{Maldición, la pierna ya no me sirve...}
-{5853}{}{¡Ahhh! ¡Estoy ciego!}
+{5853}{}{¡Aggghhh! ¡Estoy ciego!}
 {5854}{}{¡Maldita sea! Todo arde...}
 {5855}{}{¡¿Qué me has hecho?!}
-{5856}{}{¡Ohhhhh, la ingle!}
+{5856}{}{Oooooo, ¡mi ingle!}
 {5857}{}{¡No eres sino una delincuente común!}
 {5858}{}{}
 {5859}{}{}
 {5860}{}{}
-{5861}{}{¡Maldita sea, cómo me duele!}
+{5861}{}{¡Maldición, eso duele!}
 {5900}{}{¡Me largo de aquí!}
 {5901}{}{¡Adiós!}
 {5902}{}{¡Aaaaahhhh!}
@@ -2955,11 +2955,11 @@
 {5936}{}{¡Ay! ¡Mi codo!}
 {5937}{}{¡Ay! ¡Mi pecho!}
 {5938}{}{¡Uf!}
-{5939}{}{¡Ay!}
+{5939}{}{¡Ouch!}
 {5940}{}{}
 {5941}{}{}
 {5942}{}{¡Auch! ¡Maldita seas!}
-{5943}{}{¡Agh!}
+{5943}{}{¡Argh!}
 {5944}{}{¡Ow!}
 {5945}{}{}
 {5946}{}{¡Uf!}
@@ -2972,14 +2972,14 @@
 {5953}{}{¡Estoy ciego!}
 {5954}{}{¡No veo!}
 {5955}{}{¡Mi ojo!}
-{5956}{}{¡Ohhhhh, la ingle!}
+{5956}{}{Oooooo, ¡mi ingle!}
 {5957}{}{¡Ohh! ¡Me duele!}
 {5958}{}{}
 {5959}{}{}
 {5960}{}{¡Urp!}
 {5961}{}{}
 {6000}{}{¡Ataca a otro, por favor!}
-{6001}{}{¡Ten compasión!}
+{6001}{}{¡Ten piedad!}
 {6002}{}{¡Que alguien me ayude!}
 {6003}{}{¡Por favor, para!}
 {6004}{}{Puede que no fuera una buena idea}
@@ -2995,51 +2995,51 @@
 {6014}{}{¡Muere!}
 {6015}{}{¡Monstruo mutante!}
 {6016}{}{Me como a las novatas para desayunar}
-{6017}{}{Vas a ser la comida de los perros}
+{6017}{}{Serás comida para los perros}
 {6018}{}{}
 {6019}{}{Bien. Te lo has buscado.}
 {6020}{}{}
 {6021}{}{}
 {6022}{}{No eres tan buena como te piensas}
-{6023}{}{¿Eso es todo lo que sabes hacer?}
+{6023}{}{¿Eso es lo mejor que puedes hacer?}
 {6024}{}{}
 {6025}{}{}
 {6026}{}{}
 {6027}{}{Lamentable}
 {6028}{}{¡Maldición!}
 {6029}{}{¡Mi pobre cráneo dolorido!}
-{6030}{}{¡Mi cara, mi cara!}
-{6031}{}{¡Ahhh! ¡Mi brazo!}
+{6030}{}{¡Mi cara! ¡Mi cara!}
+{6031}{}{¡Aggghhh! ¡Mi brazo!}
 {6032}{}{¡Mi brazo!}
 {6033}{}{¡Oh, tía, cómo duele!}
-{6034}{}{¡Ahhh! ¡Mi brazo!}
+{6034}{}{¡Aggghhh! ¡Mi brazo!}
 {6035}{}{¡Mi brazo!}
 {6036}{}{}
 {6037}{}{}
 {6038}{}{¡Uf!}
-{6039}{}{¡Ay!}
+{6039}{}{¡Ouch!}
 {6040}{}{¡Uf! Me duelen las costillas}
-{6041}{}{¡Ugh! ¡Me duele!}
+{6041}{}{¡Ugh! ¡Eso duele!}
 {6042}{}{¡Maldición! ¡Te desprecio!}
-{6043}{}{¡Agh!}
+{6043}{}{¡Argh!}
 {6044}{}{Oh, ¡mis costillas!}
-{6045}{}{¡Oh!!!}
+{6045}{}{¡Argh!}
 {6046}{}{¡Uf!}
-{6047}{}{¡Ahhh! ¡Mi pierna!}
+{6047}{}{¡Aggghhh! ¡Mi pierna!}
 {6048}{}{¡Mi pierna!}
-{6049}{}{Ahí va mi rodilla}
-{6050}{}{¡Ahhh! ¡Mi pierna!}
+{6049}{}{Adiós a mi rodilla}
+{6050}{}{¡Aggghhh! ¡Mi pierna!}
 {6051}{}{¡Mi pierna!}
-{6052}{}{Ahí va mi rodilla}
-{6053}{}{¡Ahhh! ¡Estoy ciego!}
-{6054}{}{¡Mis ojos, mis ojos!}
+{6052}{}{Adiós a mi rodilla}
+{6053}{}{¡Aggghhh! ¡Estoy ciego!}
+{6054}{}{¡Mis ojos! ¡Mis ojos!}
 {6055}{}{¡Mi ojo! ¡Me las vas a pagar!}
-{6056}{}{¡Ohhhhh, la ingle!}
-{6057}{}{¡Ohhhhhhhhh!}
+{6056}{}{Oooooo, ¡mi ingle!}
+{6057}{}{¡Ooooooooooh!}
 {6058}{}{No... puedo... respirar...}
 {6059}{}{}
-{6060}{}{Me duele, me duele...}
-{6061}{}{¡Maldita sea, cómo me duele!}
+{6060}{}{Duele, duele...}
+{6061}{}{¡Maldición, eso duele!}
 {6100}{}{¡Me largo de aquí!}
 {6101}{}{Puede que no fuera una buena idea}
 {6102}{}{Ataca a otro, ¿vale?}
@@ -3049,8 +3049,8 @@
 {6106}{}{¡Eh, tú!}
 {6107}{}{Voy a enseñarte un poco de educación}
 {6108}{}{¡Por aquí no nos gustan las tipas como tú!}
-{6109}{}{¡Tienes que aprender a tener algo de respeto!}
-{6110}{}{Hora de ganarme mi paga...}
+{6109}{}{¡Tienes que aprender algo de respeto!}
+{6110}{}{Hora de ganarme la paga...}
 {6111}{}{Espera a que te coja...}
 {6112}{}{}
 {6113}{}{}
@@ -3071,21 +3071,21 @@
 {6128}{}{¡Oh! Hija de...}
 {6129}{}{¡Me has roto la nariz!}
 {6130}{}{¡Te arrancaré la cabeza!}
-{6131}{}{¡Oh, mi brazo!}
+{6131}{}{¡Ow, mi brazo!}
 {6132}{}{Acabas de cometer el error más grave de toda tu vida}
 {6133}{}{¡Mi brazo!}
-{6134}{}{¡Oh, mi brazo!}
+{6134}{}{¡Ow, mi brazo!}
 {6135}{}{Acabas de cometer el error más grave de toda tu vida}
 {6136}{}{¡Mi brazo!}
 {6137}{}{¡Urp!}
 {6138}{}{¡Uf!}
-{6139}{}{¡Ay!}
+{6139}{}{¡Ouch!}
 {6140}{}{}
-{6141}{}{¡Ugh! ¡Me duele!}
-{6142}{}{¡Ay!}
-{6143}{}{¡Agh!}
+{6141}{}{¡Ugh! ¡Eso duele!}
+{6142}{}{¡Ouch!}
+{6143}{}{¡Argh!}
 {6144}{}{¡Oh, creo que me has roto una costilla!}
-{6145}{}{¡¡Ah!!! ¡Mi bazo!}
+{6145}{}{¡¡¡Ow!!! ¡Mi bazo!}
 {6146}{}{¡Uf!}
 {6147}{}{¡Oh, mi pierna!}
 {6148}{}{¡No necesito estar de pie para matarte!}
@@ -3095,8 +3095,8 @@
 {6152}{}{¡Mi rodilla!}
 {6153}{}{¡No veo!}
 {6154}{}{Esta lucha está empeorando por momentos}
-{6155}{}{¡Ese ha sido un golpe bajo!}
-{6156}{}{¡Ohhhhh, la ingle!}
+{6155}{}{¡Ese ha sido un disparo traicionero!}
+{6156}{}{Oooooo, ¡mi ingle!}
 {6157}{}{Por la mañana recordaré este golpe}
 {6158}{}{}
 {6159}{}{¡Urp!}
@@ -3111,7 +3111,7 @@
 {6206}{}{}
 {6207}{}{Voy a enseñarte un poco de educación}
 {6208}{}{}
-{6209}{}{¡Tienes que aprender a tener algo de respeto!}
+{6209}{}{¡Tienes que aprender algo de respeto!}
 {6210}{}{}
 {6211}{}{}
 {6212}{}{}
@@ -3133,15 +3133,15 @@
 {6228}{}{¡Oh! Hija de...}
 {6229}{}{}
 {6230}{}{¡Te arrancaré la cabeza!}
-{6231}{}{¡Oh, mi brazo!}
+{6231}{}{¡Ow, mi brazo!}
 {6232}{}{Estás empezando a fastidiarme}
 {6233}{}{¡Mi brazo!}
-{6234}{}{¡Oh, mi brazo!}
+{6234}{}{¡Ow, mi brazo!}
 {6235}{}{Estás empezando a fastidiarme}
 {6236}{}{¡Mi brazo!}
 {6237}{}{¡Ahh!}
 {6238}{}{¡Uf!}
-{6239}{}{¡Ay!}
+{6239}{}{¡Ouch!}
 {6240}{}{¡Uff! Vas a por mis riñones, ¿eh?}
 {6241}{}{}
 {6242}{}{}
@@ -3169,7 +3169,7 @@
 {6302}{}{¡Vas a pagar por lo que has hecho!}
 {6303}{}{¡Hasta luego, mocosa!}
 {6304}{}{¡Todavía no has oído la última palabra!}
-{6305}{}{¡Pagarás por esto... luego!}
+{6305}{}{¡Me las pagarás... luego!}
 {6306}{}{}
 {6307}{}{Carne fresca...}
 {6308}{}{Bailaré sobre tu tumba}
@@ -3180,14 +3180,14 @@
 {6313}{}{Siéntete libre para gritar}
 {6314}{}{Voy a divertirme con esto.}
 {6315}{}{}
-{6316}{}{Vas a ser la comida de los perros}
+{6316}{}{Serás comida para los perros}
 {6317}{}{Nadie nos va a arrebatar Ciudad Vertedero}
 {6318}{}{}
 {6319}{}{Voy a conseguir un bono por esto}
 {6320}{}{¡Muere!}
 {6321}{}{Me como a las novatas para desayunar}
 {6322}{}{}
-{6323}{}{¿Eso es todo lo que sabes hacer?}
+{6323}{}{¿Eso es lo mejor que puedes hacer?}
 {6324}{}{}
 {6325}{}{La próxima vez intenta apuntar...}
 {6326}{}{}
@@ -3195,32 +3195,32 @@
 {6328}{}{¡En la cara no!}
 {6329}{}{Ah, me duele la cabeza}
 {6330}{}{¡Me has roto la nariz!}
-{6331}{}{¡Oh, mi brazo!}
+{6331}{}{¡Ow, mi brazo!}
 {6332}{}{¡Me has roto el brazo!}
 {6333}{}{}
-{6334}{}{¡Oh, mi brazo!}
+{6334}{}{¡Ow, mi brazo!}
 {6335}{}{¡Me has roto el brazo!}
 {6336}{}{}
 {6337}{}{¡Auch! Me duele}
 {6338}{}{¡Uf!}
-{6339}{}{¡Ay!}
+{6339}{}{¡Ouch!}
 {6340}{}{}
-{6341}{}{¡Ugh! ¡Me duele!}
+{6341}{}{¡Ugh! ¡Eso duele!}
 {6342}{}{}
 {6343}{}{¡Uf!}
 {6344}{}{Voy a darte patadas en las costillas por esto}
 {6345}{}{¡Ah!}
 {6346}{}{¡Uf!}
 {6347}{}{¡Oh, mi pierna!}
-{6348}{}{¡Me las pagarás por esto!}
+{6348}{}{¡Pagarás por eso!}
 {6349}{}{¡Oh, mi rodilla!}
 {6350}{}{¡Oh, mi pierna!}
 {6351}{}{}
 {6352}{}{Oh, mi rodilla}
-{6353}{}{¡Agh!}
+{6353}{}{¡Argh!}
 {6354}{}{Mis ojos... mis ojos no...}
-{6355}{}{¡Ese ha sido un golpe bajo!}
-{6356}{}{¡Ohhhhh, la ingle!}
+{6355}{}{¡Ese ha sido un disparo traicionero!}
+{6356}{}{Oooooo, ¡mi ingle!}
 {6357}{}{}
 {6358}{}{}
 {6359}{}{}
@@ -3242,7 +3242,7 @@
 {6413}{}{Siéntete libre para gritar}
 {6414}{}{Voy a divertirme con esto.}
 {6415}{}{}
-{6416}{}{Vas a ser la comida de los perros}
+{6416}{}{Serás comida para los perros}
 {6417}{}{Nadie nos va a arrebatar Ciudad Vertedero}
 {6418}{}{Espero que mueras lentamente}
 {6419}{}{}
@@ -3257,10 +3257,10 @@
 {6428}{}{¡En la cara no!}
 {6429}{}{Tía, esto es peor que una resaca}
 {6430}{}{¡Me has roto la nariz!}
-{6431}{}{¡Oh, mi brazo!}
+{6431}{}{¡Ow, mi brazo!}
 {6432}{}{¡Me has roto el brazo!}
 {6433}{}{¡Mi brazo, mi brazo!}
-{6434}{}{¡Oh, mi brazo!}
+{6434}{}{¡Ow, mi brazo!}
 {6435}{}{¡Me has roto el brazo!}
 {6436}{}{¡Mi brazo, mi brazo!}
 {6437}{}{¡Tía, eso me ha dolido!}
@@ -3272,7 +3272,7 @@
 {6443}{}{¡Uf!}
 {6444}{}{¡Ese ha sido un golpe bajo!}
 {6445}{}{¡Uf!}
-{6446}{}{¡Ay!}
+{6446}{}{¡Ouch!}
 {6447}{}{¡Oh, mi pierna!}
 {6448}{}{¡Nadie va a convertirme en un lisiado!}
 {6449}{}{¡Oh, mi rodilla!}
@@ -3282,7 +3282,7 @@
 {6453}{}{¡Agh! ¡Mis ojos!}
 {6454}{}{Mis ojos... mis ojos no...}
 {6455}{}{}
-{6456}{}{¡Ohhhhh, la ingle!}
+{6456}{}{Oooooo, ¡mi ingle!}
 {6457}{}{}
 {6458}{}{}
 {6459}{}{}
@@ -3331,9 +3331,9 @@
 {6540}{}{¡Uff! Mis costillas...}
 {6541}{}{!}
 {6542}{}{¡Ow!}
-{6543}{}{¡Agh!}
+{6543}{}{¡Argh!}
 {6544}{}{Nadie me hace eso, ¡nadie!}
-{6545}{}{¡Oh!!!}
+{6545}{}{¡Argh!}
 {6546}{}{¡Uf!}
 {6547}{}{¡Oh, mi pierna!}
 {6548}{}{Apenas... puedo... respirar...}
@@ -3344,14 +3344,14 @@
 {6553}{}{¡Uggh! ¡Noooo!}
 {6554}{}{Mis ojos... mis ojos no...}
 {6555}{}{}
-{6556}{}{¡Ohhhhh, la ingle!}
+{6556}{}{Oooooo, ¡mi ingle!}
 {6557}{}{¡Ooo! No está mal}
 {6558}{}{¡Ohh! Estás cavando tu tumba, tía}
 {6559}{}{¡Ohh! Estás más muerta que una albina en el Ardor}
 {6560}{}{¡Urp!}
 {6561}{}{¡Oh! ¡Te mataré por esto!}
 {6600}{}{¡Me largo de aquí!}
-{6601}{}{¡Ten compasión!}
+{6601}{}{¡Ten piedad!}
 {6602}{}{¡Por favor, para!}
 {6603}{}{¡Ayuda!}
 {6604}{}{¡Aaaaahhhh!}
@@ -3359,7 +3359,7 @@
 {6606}{}{¡Oye!}
 {6607}{}{}
 {6608}{}{¿Quién te crees que eres?}
-{6609}{}{Nadie va a tomar este lugar...}
+{6609}{}{Nadie se va a quedar con este sitio...}
 {6610}{}{Estás haciendo que sea muy desagradable}
 {6611}{}{Eres una hija de...}
 {6612}{}{}
@@ -3372,7 +3372,7 @@
 {6619}{}{¡Te mereces todo esto y más!}
 {6620}{}{¿Te das cuenta de que tú empezaste esto?}
 {6621}{}{}
-{6622}{}{¡Guau!}
+{6622}{}{¡Fiuu!}
 {6623}{}{Realmente no tienes por qué hacer esto}
 {6624}{}{Eres la disculpa de los luchadores}
 {6625}{}{Me recuerdas a alguien con quien solía salir}
@@ -3381,19 +3381,19 @@
 {6628}{}{¡Mi cara!}
 {6629}{}{Ah, me duele la cabeza}
 {6630}{}{Me estás haciendo la cara un cuadro!}
-{6631}{}{¡Oh, mi brazo!}
+{6631}{}{¡Ow, mi brazo!}
 {6632}{}{¡Intentas lisiarme!}
 {6633}{}{¡Mi brazo!}
-{6634}{}{¡Oh, mi brazo!}
+{6634}{}{¡Ow, mi brazo!}
 {6635}{}{¡Intentas lisiarme!}
 {6636}{}{¡Me has roto el brazo!}
 {6637}{}{¡Ow!}
 {6638}{}{!}
-{6639}{}{¡Oh! ¡Me duele!}
+{6639}{}{¡Ow! ¡Eso duele!}
 {6640}{}{}
 {6641}{}{¡No golpees ahí a una señorita!}
 {6642}{}{¡Oh!!}
-{6643}{}{¡Ay!}
+{6643}{}{¡Ouch!}
 {6644}{}{¡Oh! Eres un trozo de...}
 {6645}{}{¡AH! ¡Joder!}
 {6646}{}{¡Maldita! ¡Asquerosa!}
@@ -3403,7 +3403,7 @@
 {6650}{}{¡Oh, mi pierna!}
 {6651}{}{¡Mi rodilla!}
 {6652}{}{}
-{6653}{}{¡Mi cara, mi cara!}
+{6653}{}{¡Mi cara! ¡Mi cara!}
 {6654}{}{Mis... ojos... ¡MIS OJOS!}
 {6655}{}{¡Bastarda! ¡Te mataré!}
 {6656}{}{Deberías luchar con hombres}
@@ -3411,12 +3411,12 @@
 {6658}{}{¡Desperdicio del desierto!}
 {6659}{}{¡Este es mi espacio personal!}
 {6660}{}{¡Babosa!}
-{6661}{}{¡Serás animal!}
+{6661}{}{¡Animal!}
 {6700}{}{¡Necesito refuerzos!}
 {6701}{}{¡Que alguien me ayude!}
 {6702}{}{}
 {6703}{}{¡Retirada!}
-{6704}{}{¡Retrocede!}
+{6704}{}{¡Atrás!}
 {6705}{}{¡La próxima vez!}
 {6706}{}{¡Voy!}
 {6707}{}{}
@@ -3429,13 +3429,13 @@
 {6714}{}{¡Ahora es cuando mueres!}
 {6715}{}{¿Qué te parece esto?}
 {6716}{}{Métete con los mejores y te reunirás con los peores}
-{6717}{}{No deberías empezar lo que no puedes terminar}
+{6717}{}{No deberías empezar lo que no puedas terminar.}
 {6718}{}{}
 {6719}{}{¡Veamos si te gusta!}
 {6720}{}{}
 {6721}{}{Te veré en el infierno}
 {6722}{}{Acéptalo. No das la talla.}
-{6723}{}{¿Eso es todo lo que sabes hacer?}
+{6723}{}{¿Eso es lo mejor que puedes hacer?}
 {6724}{}{¡Perdedora! ¡Lucha conmigo!}
 {6725}{}{}
 {6726}{}{Somos los Maestros del Combate!}
@@ -3451,11 +3451,11 @@
 {6736}{}{}
 {6737}{}{¡Me has destrozado una costilla!}
 {6738}{}{¡Uf!}
-{6739}{}{¡Ay!}
+{6739}{}{¡Ouch!}
 {6740}{}{¡Uff! Conque esto es el dolor...}
 {6741}{}{¡Oh! ¡Mi entrenador no me preparó para esto!}
 {6742}{}{¡Uff! ¡La Hermandad me vengará si muero!}
-{6743}{}{¡Ay!}
+{6743}{}{¡Ouch!}
 {6744}{}{}
 {6745}{}{¡Oh! ¡Me duelen las costillas! ¡Iré a por ti!}
 {6746}{}{¡Uf!}
@@ -3468,7 +3468,7 @@
 {6753}{}{¡Estoy ciego!}
 {6754}{}{¡Me arden los ojos!}
 {6755}{}{¡No veo!}
-{6756}{}{¡Ohhhhh, la ingle!}
+{6756}{}{Oooooo, ¡mi ingle!}
 {6757}{}{}
 {6758}{}{El dolor...}
 {6759}{}{No... puedo... respirar...}
@@ -3478,7 +3478,7 @@
 {6801}{}{Estoy fuera de esta pelea}
 {6802}{}{Retrocede}
 {6803}{}{¡Retirada!}
-{6804}{}{¡Retrocede!}
+{6804}{}{¡Atrás!}
 {6805}{}{No puedo seguir aquí por más tiempo}
 {6806}{}{}
 {6807}{}{}
@@ -3487,7 +3487,7 @@
 {6810}{}{}
 {6811}{}{¡Allá voy!}
 {6812}{}{¡Toma esto!}
-{6813}{}{¡Ya te tengo!}
+{6813}{}{¡Te tengo!}
 {6814}{}{¡Ahora es cuando mueres!}
 {6815}{}{¿Qué te parece esto?}
 {6816}{}{Sé cómo tratar a las tipas como tú}
@@ -3517,7 +3517,7 @@
 {6840}{}{¡Uf! Dolor... mi viejo amigo}
 {6841}{}{}
 {6842}{}{¡Uff! ¡La Hermandad vengará mi muerte!}
-{6843}{}{¡Ay!}
+{6843}{}{¡Ouch!}
 {6844}{}{}
 {6845}{}{¡Oh! ¡Mis pobres costillas doloridas! Iré a por ti}
 {6846}{}{¡Uf!}
@@ -3530,7 +3530,7 @@
 {6853}{}{¡Estoy ciego!}
 {6854}{}{¡Estoy ciego! ¡Necesito ayuda!}
 {6855}{}{¡Mis ojos!}
-{6856}{}{¡Ohhhhh, la ingle!}
+{6856}{}{Oooooo, ¡mi ingle!}
 {6857}{}{Ohhhhh, me has dejado sin aire}
 {6858}{}{Ohhhhh, me duele}
 {6859}{}{No... puedo... respirar...}
@@ -3540,7 +3540,7 @@
 {6901}{}{Estoy fuera de esta pelea}
 {6902}{}{Retrocede}
 {6903}{}{¡Retirada!}
-{6904}{}{¡Retrocede!}
+{6904}{}{¡Atrás!}
 {6905}{}{No puedo seguir aquí por más tiempo}
 {6906}{}{¡Allá voy!}
 {6907}{}{¡Este es mía!}
@@ -3549,7 +3549,7 @@
 {6910}{}{}
 {6911}{}{¡Allá voy!}
 {6912}{}{Es hora de acabar con esto}
-{6913}{}{¡Ya te tengo!}
+{6913}{}{¡Te tengo!}
 {6914}{}{¡Ahora es cuando mueres!}
 {6915}{}{¡Se acabó!}
 {6916}{}{¡Al suelo!}
@@ -3559,7 +3559,7 @@
 {6920}{}{Estoy calentando}
 {6921}{}{Aquí viene el trueno}
 {6922}{}{No eres lo bastante diestra}
-{6923}{}{¿Eso es todo lo que sabes hacer?}
+{6923}{}{¿Eso es lo mejor que puedes hacer?}
 {6924}{}{Pequeña tonta estúpida}
 {6925}{}{Eso ha sido patético}
 {6926}{}{Me insultas con tu incompetencia}
@@ -3575,12 +3575,12 @@
 {6936}{}{Mi brazo se torció por completo}
 {6937}{}{¡Oh! ¡Estoy preparado para las tipas como tú!}
 {6938}{}{¡Uf!}
-{6939}{}{¡Ay!}
+{6939}{}{¡Ouch!}
 {6940}{}{¡Uff! He estado peor}
 {6941}{}{¡Oh! ¡Haz lo que quieras, yo estoy preparado!}
 {6942}{}{¡La Hermandad me vengará si muero!}
-{6943}{}{¡Ay!}
-{6944}{}{¡Agh!}
+{6943}{}{¡Ouch!}
+{6944}{}{¡Argh!}
 {6945}{}{}
 {6946}{}{¡Uf!}
 {6947}{}{¡Oh, mi pierna!}
@@ -3592,7 +3592,7 @@
 {6953}{}{¡Aggghh!}
 {6954}{}{¡Estoy ciego! ¡Necesito ayuda!}
 {6955}{}{¡Mis ojos!}
-{6956}{}{¡Ohhhhh, la ingle!}
+{6956}{}{Oooooo, ¡mi ingle!}
 {6957}{}{Ohhhhh, me has dejado sin aire}
 {6958}{}{Ohhhhh, me duele}
 {6959}{}{No... puedo... respirar...}
@@ -3637,7 +3637,7 @@
 {7036}{}{Mi brazo se torció por completo}
 {7037}{}{¡Oh! ¡Perra!}
 {7038}{}{¡Uf!}
-{7039}{}{¡Ay!}
+{7039}{}{¡Ouch!}
 {7040}{}{¡Uf! Mi madre me ha hecho más daño}
 {7041}{}{¡Oh! ¡Sinvergüenza!}
 {7042}{}{¡Uff! ¡La Hermandad me vengará si muero!}
@@ -3654,7 +3654,7 @@
 {7053}{}{¡Aggghh!}
 {7054}{}{¡Se me ha nublado la vista!}
 {7055}{}{¡Mis ojos!}
-{7056}{}{¡Ohhhhh, la ingle!}
+{7056}{}{Oooooo, ¡mi ingle!}
 {7057}{}{Está empezando a dejar de gustarme esta mocosa}
 {7058}{}{Me he sentido mejor}
 {7059}{}{Así que a esta tipa le gusta ir a las partes bajas}
@@ -3705,7 +3705,7 @@
 {7142}{}{¡Uff! ¡La Hermandad me vengará si muero!}
 {7143}{}{¡Uf!}
 {7144}{}{[Jadea fuertemente]}
-{7145}{}{¡Me duele!}
+{7145}{}{¡Eso ha dolido!}
 {7146}{}{Sentirás la furia de la Hermandad por esto!}
 {7147}{}{Mmm, una pierna herida}
 {7148}{}{¡Mi pierna está temblando!}
@@ -3716,7 +3716,7 @@
 {7153}{}{Debo mantener la calma. Sé dónde apuntar}
 {7154}{}{Me ha dado en los ojos. Eso no es bueno}
 {7155}{}{¡Mis ojos!}
-{7156}{}{¡Ohhhhh, la ingle!}
+{7156}{}{Oooooo, ¡mi ingle!}
 {7157}{}{}
 {7158}{}{Este chica está intentando sacarme de quicio}
 {7159}{}{}
@@ -3763,11 +3763,11 @@
 {7238}{}{¡Uf! ¡Perra insolente!}
 {7239}{}{¡Uf! ¡Chucha insolente! ¡Siente mi furia!}
 {7240}{}{¡Oh! Has cometido un grave error táctico}
-{7241}{}{¡Ay!}
+{7241}{}{¡Ouch!}
 {7242}{}{¡Ufff! La Hermandad vengará mi muerte}
 {7243}{}{¡Uf!}
 {7244}{}{El dolor me hace saber que sigo vivo}
-{7245}{}{¡Me duele!}
+{7245}{}{¡Eso ha dolido!}
 {7246}{}{}
 {7247}{}{Una pierna herida no impedirá que te mate}
 {7248}{}{¡Mi pierna está temblando!}
@@ -3826,7 +3826,7 @@
 {7339}{}{¡Eres como un grano en el culo!}
 {7340}{}{Te estás condenando a ti misma ante los ojos del Maestro}
 {7341}{}{¡Ow!}
-{7342}{}{¡Ay!}
+{7342}{}{¡Ouch!}
 {7343}{}{¡Uf!}
 {7344}{}{[Jadea fuertemente]}
 {7345}{}{¡Oh, eso duele!}
@@ -3840,7 +3840,7 @@
 {7353}{}{¡Mis ojos! ¡Cerda asquerosa!}
 {7354}{}{¡He de verte despedazada miembro a miembro!}
 {7355}{}{¡Agghh! Pequeña sucia hija de...}
-{7356}{}{¡Ohhhhh, la ingle!}
+{7356}{}{Oooooo, ¡mi ingle!}
 {7357}{}{¡Ayyy!}
 {7358}{}{¡Te veré sufrir!}
 {7359}{}{¡Uf!}
@@ -3974,7 +3974,7 @@
 {7601}{}{¡No tengo tiempo para morir!}
 {7602}{}{¡Vas a pagar por lo que has hecho!}
 {7603}{}{}
-{7604}{}{¡Todavía no he dicho la última palabra!}
+{7604}{}{¡No has visto lo último de mi!}
 {7605}{}{¡Vivo para luchar otro día!}
 {7606}{}{¡Eres historia!}
 {7607}{}{¡Te has equivocado de gente!}
@@ -4001,20 +4001,20 @@
 {7628}{}{}
 {7629}{}{Ah, me duele la cabeza}
 {7630}{}{¡Me has roto la nariz!}
-{7631}{}{¡Oh, mi brazo!}
+{7631}{}{¡Ow, mi brazo!}
 {7632}{}{¡Me has roto el brazo!}
 {7633}{}{No necesitaba eso}
-{7634}{}{¡Oh, mi brazo!}
+{7634}{}{¡Ow, mi brazo!}
 {7635}{}{¡Me has roto el brazo!}
 {7636}{}{¡Mi buen brazo!}
 {7637}{}{¡Uf!}
-{7638}{}{¡Me duele!}
+{7638}{}{¡Eso ha dolido!}
 {7639}{}{¡Venga, inténtalo otra vez!}
 {7640}{}{¡Uf!}
 {7641}{}{[Jadea fuertemente]}
 {7642}{}{¡Oh, maldita sea!}
 {7643}{}{¡Ah, uff!}
-{7644}{}{¡Ay!}
+{7644}{}{¡Ouch!}
 {7645}{}{¡Auch! ¡Eso duele!}
 {7646}{}{¡Ey! ¡No estaba preparado para eso!}
 {7647}{}{¡Oh, mi pierna!}
@@ -4025,8 +4025,8 @@
 {7652}{}{Oh, mi rodilla}
 {7653}{}{¡Agh! ¡La retina!}
 {7654}{}{Mis ojos... mis ojos no...}
-{7655}{}{¡Ese ha sido un golpe bajo!}
-{7656}{}{¡Ohhhhh, la ingle!}
+{7655}{}{¡Ese ha sido un disparo traicionero!}
+{7656}{}{Oooooo, ¡mi ingle!}
 {7657}{}{¡Ohh! Tengo que aprender ese movimiento...}
 {7658}{}{Por la mañana recordaré este golpe}
 {7659}{}{Odio los golpes en la entrepierna}
@@ -4045,7 +4045,7 @@
 {7710}{}{Hora de vaciar el cargador...}
 {7711}{}{¡Policía del Eje!}
 {7712}{}{¡Toma esto!}
-{7713}{}{¡Ya te tengo!}
+{7713}{}{¡Te tengo!}
 {7714}{}{Baja y quédate ahí}
 {7715}{}{¿Qué te parece esto?}
 {7716}{}{}
@@ -4063,15 +4063,15 @@
 {7728}{}{¡Oh! Hija de...}
 {7729}{}{Te mataré por esto}
 {7730}{}{¡Te arrancaré la cabeza!}
-{7731}{}{¡Oh, mi brazo!}
+{7731}{}{¡Ow, mi brazo!}
 {7732}{}{Maldita sea. ¡Tengo el brazo destrozado!}
 {7733}{}{¡Mi brazo!}
-{7734}{}{¡Oh, mi brazo!}
+{7734}{}{¡Ow, mi brazo!}
 {7735}{}{Maldita sea. ¡Tengo el brazo destrozado!}
 {7736}{}{¡Mi brazo!}
 {7737}{}{¡Vas a pagar por esto!}
 {7738}{}{¡Va contra la ley golpear a un oficial!}
-{7739}{}{¡Ay!}
+{7739}{}{¡Ouch!}
 {7740}{}{¡Uf!}
 {7741}{}{¡Eso es todo! ¡Ya he tenido suficiente!}
 {7742}{}{Voy a deshacerme de ti por esto}
@@ -4088,7 +4088,7 @@
 {7753}{}{¡No veo!}
 {7754}{}{¡Mi ojo! ¡Me las vas a pagar!}
 {7755}{}{¡¡Estoy ciego!! Necesito ayuda}
-{7756}{}{¡Ohhhhh, la ingle!}
+{7756}{}{Oooooo, ¡mi ingle!}
 {7757}{}{Por la mañana recordaré este golpe}
 {7758}{}{¡Novato!}
 {7759}{}{¡Urp!}
@@ -4122,7 +4122,7 @@
 {7825}{}{No puedes terminar el trabajo}
 {7826}{}{¡Ese ha sido tu último tiro!}
 {7827}{}{Desgraciado}
-{7828}{}{¡Mi pobre cráneo dolorido!}
+{7828}{}{¡Mi cráneo dolorido!}
 {7829}{}{¡Cómo me haces esto!}
 {7830}{}{¡Me has roto la nariz!}
 {7831}{}{Eres una asquerosa escorpión rad de...}
@@ -4149,8 +4149,8 @@
 {7852}{}{Oh, mi rodilla}
 {7853}{}{Sangre. Toda esta sangre...}
 {7854}{}{Mis ojos... mis ojos no...}
-{7855}{}{¡Ese ha sido un golpe bajo!}
-{7856}{}{¡Ohhhhh, la ingle!}
+{7855}{}{¡Ese ha sido un disparo traicionero!}
+{7856}{}{Oooooo, ¡mi ingle!}
 {7857}{}{¡Ooo! No está mal}
 {7858}{}{¡Ooo! Estás cavando tu tumba, amiga}
 {7859}{}{¡Ooo! ¡Voy a enterrarte viva en el Ardor!}
@@ -4184,7 +4184,7 @@
 {7925}{}{No puedes terminar el trabajo}
 {7926}{}{Ese fue tu último error}
 {7927}{}{Tienes un mal día. Quédate. Irá a peor}
-{7928}{}{¡Mi pobre cráneo dolorido!}
+{7928}{}{¡Mi cráneo dolorido!}
 {7929}{}{Oooo...}
 {7930}{}{¡Me has roto la nariz!}
 {7931}{}{Oooo...}
@@ -4199,7 +4199,7 @@
 {7940}{}{¡Ja! ¡Tengo magulladuras más grandes de otros trabajos!}
 {7941}{}{¡Uff! Todos las mocosas sois iguales...}
 {7942}{}{¡Gulp! Tengo... que respirar...}
-{7943}{}{¡Ay!}
+{7943}{}{¡Ouch!}
 {7944}{}{¡Oh! Vete al infierno, mocosa!}
 {7945}{}{Ah, maldita sea...}
 {7946}{}{¡Agh! Creo que me has roto una costilla!}
@@ -4211,8 +4211,8 @@
 {7952}{}{Oh, mi rodilla}
 {7953}{}{Sangre. Toda esta sangre...}
 {7954}{}{Mis ojos...}
-{7955}{}{¡Ese ha sido un golpe bajo!}
-{7956}{}{¡Ohhhhh, la ingle!}
+{7955}{}{¡Ese ha sido un disparo traicionero!}
+{7956}{}{Oooooo, ¡mi ingle!}
 {7957}{}{¡Ooo! Voy a devolverte el favor}
 {7958}{}{¡Ooo! Estás cavando tu propia tumba}
 {7959}{}{¡Ooo! Supongo que te hace gracia}
@@ -4249,10 +4249,10 @@
 {8028}{}{¡Mi cara!}
 {8029}{}{Ohhh, me duele...}
 {8030}{}{¡Oh! ¡Mi oído!}
-{8031}{}{¡Oh, mi brazo!}
+{8031}{}{¡Ow, mi brazo!}
 {8032}{}{Ohhh, me duele...}
 {8033}{}{¡Me has roto el brazo! ¡Papi!}
-{8034}{}{¡Oh, mi brazo!}
+{8034}{}{¡Ow, mi brazo!}
 {8035}{}{Ohhh, me duele}
 {8036}{}{¡Me has roto el brazo! ¡Papi!}
 {8037}{}{¡Ow!}
@@ -4262,7 +4262,7 @@
 {8041}{}{¡Ay, ay, ay! ¡Mamá!}
 {8042}{}{¡Oh! ¡Mi papá es más grande que el tuyo!}
 {8043}{}{¡Oooo, voy... a... llorar! ¡Buaaaahhhhh!}
-{8044}{}{¡Ay!}
+{8044}{}{¡Ouch!}
 {8045}{}{¡Ow!}
 {8046}{}{¡Oh! ¡Oh! ¡Eres mala!}
 {8047}{}{¡Oh, mi pierna!}
@@ -4274,12 +4274,12 @@
 {8053}{}{¡Aaaaaahhhh!!!}
 {8054}{}{¿A dónde ha ido todo el mundo?}
 {8055}{}{Todo está oscuro...}
-{8056}{}{¡Ohhhhh, la ingle!}
+{8056}{}{Oooooo, ¡mi ingle!}
 {8057}{}{¡Oh! ¡Apestosa Bebé del Ardor!}
 {8058}{}{¡Urp!}
 {8059}{}{No... puedo... respirar...}
 {8060}{}{Ooooo...}
-{8061}{}{Me duele, me duele...}
+{8061}{}{Duele, duele...}
 {8100}{}{Iniciada opción de retirada}
 {8101}{}{Plan táctico: retirada}
 {8102}{}{Efectividad del combate mínima. Aconsejable retirada}
@@ -4308,9 +4308,9 @@
 {8125}{}{Unidad no dañada en el ataque}
 {8126}{}{Recalculando capacidad de ataque del objetivo}
 {8127}{}{Análisis. El objetivo erró en selección táctica. Unidad sin daños}
-{8128}{}{¡Precaución! Registrado funcionamiento defectuoso de la CPU}
-{8129}{}{¡Precaución! ¡CPU dañada! ¡Procesamiento dañado!}
-{8130}{}{¡Precaución! ¡CPU dañada! ¡Cambio del sistema crítico!}
+{8128}{}{¡Atención, registrado mal funcionamiento de la CPU!}
+{8129}{}{¡Advertencia! ¡CPU dañada! ¡Procesamiento dañado!}
+{8130}{}{¡Advertencia! ¡CPU dañada! ¡Desviando sistemas críticos!}
 {8131}{}{Registrado daño en el manipulador}
 {8132}{}{Unidad alcanzó manipulador izquierdo. Evaluación de daños}
 {8133}{}{Registrado golpe en el manipulador. Intentando compensar}
@@ -4336,9 +4336,9 @@
 {8153}{}{¡Sensor alcanzado! ¡Sensor alcanzado!}
 {8154}{}{¡Sensores dañados! ¡Sensores dañados!}
 {8155}{}{Funcionamiento defectuoso del sistema de sensores, intentando bypass}
-{8156}{}{Registrado funcionamiento defectuoso del regulador}
+{8156}{}{¡Registrado mal funcionamiento del regulador!}
 {8157}{}{¡Daños en el regulador! ¡Regulación dañada!}
-{8158}{}{¡Daños en el regulador! ¡Cambio del sistema crítico!}
+{8158}{}{¡Regulador dañado! ¡Desviando sistemas críticos!}
 {8200}{}{¡No voy a morir por esto!}
 {8201}{}{¡El trabajo no merece la pena!}
 {8202}{}{¡Que otro vaya a por ellos!}
@@ -4364,16 +4364,16 @@
 {8222}{}{¿Eso son tiros de aviso o estás jugando?}
 {8223}{}{No eres solo una mocosa, ¡eres una mocosa incompetente!}
 {8224}{}{Tía, ¡tú esnifas!}
-{8225}{}{¿Eso es todo lo que sabes hacer?}
+{8225}{}{¿Eso es lo mejor que puedes hacer?}
 {8226}{}{No esperabas darme, ¿verdad?}
 {8227}{}{¿Siempre has sido una fracasada o es algo reciente?}
 {8228}{}{¡Me has roto la nariz!}
 {8229}{}{De todas formas no necesitaba esa oreja}
 {8230}{}{¡Maldita sea! ¡Cómo me duele!}
-{8231}{}{¡Oh, mi brazo!}
+{8231}{}{¡Ow, mi brazo!}
 {8232}{}{Puedes lisiarme, pero seguiré dándote patadas en el culo}
 {8233}{}{Eso ha sido un error}
-{8234}{}{¡Oh, mi brazo!}
+{8234}{}{¡Ow, mi brazo!}
 {8235}{}{Puedes lisiarme, pero seguiré dándote patadas en el culo}
 {8236}{}{Eso ha sido un error}
 {8237}{}{¡Ow!}
@@ -4382,8 +4382,8 @@
 {8240}{}{¡Oh! Vale, ¡eso es!}
 {8241}{}{¡Oh! Estoy loco}
 {8242}{}{¡Uf!}
-{8243}{}{¡Agh!}
-{8244}{}{¡Ay!}
+{8243}{}{¡Argh!}
+{8244}{}{¡Ouch!}
 {8245}{}{¡Uff! Voy a coger la escopeta para metértela por el...}
 {8246}{}{¡Gulp!}
 {8247}{}{¡Otra pierna destrozada no! Oh bueno...}
@@ -4395,7 +4395,7 @@
 {8253}{}{¡No veo! ¡Estás empezando a fastidiarme!}
 {8254}{}{¡No tengo que verte para matarte!}
 {8255}{}{¡Oh! Buen tiro...}
-{8256}{}{¡Ohhhhh, la ingle!}
+{8256}{}{Oooooo, ¡mi ingle!}
 {8257}{}{Te lo estás tomando como algo personal!}
 {8258}{}{La entrepierna. El último refugio del canalla}
 {8259}{}{Soy una mujer, imbécil}
@@ -4423,7 +4423,7 @@
 {8415}{}{¡Agh! ¡Me has roto el brazo!}
 {8416}{}{¡Tengo el brazo destrozado!}
 {8417}{}{¡Uf!}
-{8418}{}{¡Agh!}
+{8418}{}{¡Argh!}
 {8419}{}{Me las pagarás...}
 {8420}{}{Vamos, ¡inténtalo otra vez!}
 {8421}{}{¡Oh! ¡Me has roto la pierna!}
@@ -4504,8 +4504,8 @@
 {8640}{}{¡Oh! Vale, ¡eso es!}
 {8641}{}{¡Oh! Estoy loco}
 {8642}{}{¡Uf!}
-{8643}{}{¡Agh!}
-{8644}{}{¡Ay!}
+{8643}{}{¡Argh!}
+{8644}{}{¡Ouch!}
 {8645}{}{Todavía golpeas como una niña}
 {8646}{}{¡Gulp!}
 {8647}{}{¡Ow!}
@@ -4535,13 +4535,13 @@
 {8709}{}{¡Que la lucha del honor comience!}
 {8710}{}{¡Que la lucha del honor comience!}
 {8711}{}{¡Que la lucha del honor comience!}
-{8712}{}{¡Seré yo el que te mate!}
+{8712}{}{¡Seré yo quien te mate!}
 {8713}{}{¡Sangre! ¡Sangre! ¡Sangre!}
 {8714}{}{¡Soy una máquina!}
 {8715}{}{¡¡RAAAAAAARRRR!!}
 {8716}{}{¡Los Khans son invencibles!}
 {8717}{}{¡Nunca nos retiramos! ¡Nunca nos rendimos!}
-{8718}{}{¡Seré yo el que te mate!}
+{8718}{}{¡Seré yo quien te mate!}
 {8719}{}{¡Soy una máquina!}
 {8720}{}{¡Sangre y oscuridad!}
 {8721}{}{¡Los Khans son los que mandan!}
@@ -4555,11 +4555,11 @@
 {8729}{}{¡Ese ha sido tu último ataque!}
 {8730}{}{¡Un intento patético!}
 {8731}{}{¡Aún te puedo ganar con un solo brazo!}
-{8732}{}{¡Me has roto un brazo! Ahora estamos igualados}
-{8733}{}{¡Me has roto un brazo! Ahora estamos igualados}
+{8732}{}{¡Me has roto el brazo! ¡Ahora la pelea será justa!}
+{8733}{}{¡Me has roto el brazo! ¡Ahora la pelea será justa!}
 {8734}{}{¡Aún te puedo ganar con un solo brazo!}
-{8735}{}{¡Me has roto un brazo! Ahora estamos igualados}
-{8736}{}{¡Me has roto un brazo! Ahora estamos igualados}
+{8735}{}{¡Me has roto el brazo! ¡Ahora la pelea será justa!}
+{8736}{}{¡Me has roto el brazo! ¡Ahora la pelea será justa!}
 {8737}{}{¡Por eso, tu muerte será legendaria!}
 {8738}{}{¡Por eso que has hecho, lo festejaré con tus ojos!}
 {8739}{}{¡Soy indestructible!}
@@ -4623,7 +4623,7 @@
 {8897}{}{[gruñe]}
 {8900}{}{¡No me enrolé para esto!}
 {8901}{}{¡No me pagan lo suficiente para esto!}
-{8902}{}{¡Retrocede!}
+{8902}{}{¡Atrás!}
 {8903}{}{¡Reagrupamiento!}
 {8904}{}{¡No pienso morir por esto!}
 {8905}{}{Ya tengo suficiente}
@@ -4663,7 +4663,7 @@
 {8939}{}{You'll regret that}
 {8940}{}{¡Mis costillas!}
 {8941}{}{¡Mi rodilla!}
-{8942}{}{¡Me las pagarás por esto!}
+{8942}{}{¡Pagarás por eso!}
 {8943}{}{Shit, my leg's going numb}
 {8944}{}{You'll regret that}
 {8945}{}{Espero no quedarme cojo}

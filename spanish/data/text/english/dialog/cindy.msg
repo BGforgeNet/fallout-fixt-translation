@@ -25,5 +25,5 @@
 {124}{}{Has hecho un buen trabajo cazando al ladrón. Por favor, date prisa y encuentra el Chip de Agua.}
 {125}{}{¿Cómo has podido traicionarnos? Ahora morirán todos aquí. Pero no te importa, ¿verdad?}
 {126}{}{Tengo miedo. No sé lo que va a ser de nosotros. Por favor, no nos dejes.}
-{127}{}{Don't worry, I'll do my best. You'll be all right.}
+{127}{}{No te preocupes. Lo haré lo mejor que pueda. Estarás bien.}
 {128}{}{Sí, lo que sea.}

@@ -113,7 +113,7 @@
 {212}{}{¿Qué te hicieron?}
 {213}{}{¿Quieres morir? Puedo sacarte de la miseria.}
 {214}{}{¡Pareces estúpido!}
-{215}{}{Love is what makes the cactus grow! Love is what makes the brahmin moo! Love is screwing, it's screwing your life! I hate love! I love hate! If the Master hated us, we'd be all right!}
+{215}{}{¡El amor es lo que hace crecer al cactus! ¡El amor es lo que hace mugir a los brahmines! ¡El amor te está fastidiando, está destrozando tu vida! ¡Odio el amor! ¡Amo el odio! ¡Si el Maestro nos odiase, estaríamos mejor!}
 {216}{}{¿Dónde está tu consciencia, tía? ¿Crees que en la vida no hay sufrimientos y que siempre es maravillosa? ¡La vida ES sufrimiento! ¡Miseria y lo que quiera que decidamos hacer con ella!}
 {217}{}{¡Apañando! ¡Amando! ¡Fastidiando! ¡Odiando! ¡Aprovechando las oportunidades! ¡Aburriendo a la peña! ¡Apaleando imbéciles! ¡Haciendo amigos con otros imbéciles! ¡Huyendo de tus errores! ¡Enfrentado a tus errores! ¡Radiaciones!}
 {218}{}{Tener niños y hacer siempre las mismas cosas, ¡algunas veces mejor, algunas veces peor!}

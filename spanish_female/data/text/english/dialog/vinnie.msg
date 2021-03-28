@@ -39,7 +39,7 @@
 {138}{}{Tienes razón, ya me iba.}
 {139}{}{¿Qué hace tan duros a los Kalaveras?}
 {140}{}{[Vinnie piensa un momento.] Si quieres demostrarnos que eres bastante buena para ser de los Kalaveras, tienes que robar las cenizas de la mujer de ese viejo bastardo. Je. [Vinnie habla entre dientes.] Hagamos que Neal sufra en sus dos últimas horas de vida...}
-{141}{}{All right, I'll do it.}
+{141}{}{Está bien, lo haré.}
 {142}{}{Ni hablar.}
 {143}{}{Oh, creo que no podría hacer eso.}
 {144}{}{Ya las he robado.}

@@ -28,8 +28,8 @@
 {127}{}{Cógeme si puedes.}
 {128}{}{No.}
 {129}{}{¡ARJ!}
-{130}{}{Hello again. I hope you like our town. A nice guy such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
-{131}{}{Hello again. I hope you like our town. A lovely lady such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
+{130}{}{Hola de nuevo. Espero que te guste nuestra ciudad. Un tío como tú siempre es bien recibido. Si decides quedarte, estoy seguro de que serás una ayuda valiosa para el Eje.}
+{131}{}{Hola de nuevo. Espero que te guste nuestra ciudad. Una tía como tú siempre es bien recibida. Si decides quedarte, estoy seguro de que serás una ayuda valiosa para el Eje.}
 {132}{}{Hola de nuevo. ¿Qué puedo hacer por ti?}
 {133}{}{¿Sí? No tengo todo el día. Intento vigilar la puerta principal.}
 {134}{}{¡He de denunciar un delito!}

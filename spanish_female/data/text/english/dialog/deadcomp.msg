@@ -8,7 +8,7 @@
 {107}{}{EXIT}
 {108}{}{FALLOUT    <DIR>          10-20-99   1:04p                          0 bytes en 1 archivo, 0 bytes asignados, 4.379.255 bytes libres}
 {109}{}{CD FALLOUT}
-{110}{}{Wow, this is a great game!}
+{110}{}{¡Guau! ¡Este juego es increíble!}
 {111}{}{ U:\ > }
 {112}{}{Después de varios minutos buscando, encuentras un activador del Modo Debug y lo cambias a 01.}
 {113}{}{FALLOUTW.EXE}
@@ -71,18 +71,18 @@ Transfiriendo 6.759.015 bytes al dispositivo de respaldo........................
 {149}{}{Muchos circuitos se han quemado por un incendio del EMP.}
 {150}{}{No funciona.}
 {151}{}{01100110011000010110110001101100011011110111010101110100011101110010111001100101011110000110010100100000001000000010000000100000001000000011000100110011001110000011010000110100001100110011001000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000110011001100001011011000110110001100100011001010110110101101111001011100110010101111000011001010010000000100000001000000010000000100000001110010011100100110101001100110011001000111000}
-{152}{}{You earn 25 experience for playing Fallout (again).}
+{152}{}{Ganas 25 puntos de experiencia por jugar a Fallout (otra vez).}
 {153}{}{Interesante. ¡Estoy segura de que la versión completa será un gran juego!}
 {154}{}{Hmm. La versión completa de Fallout es mejor, sim embargo la demo tiene su encanto.}
 {155}{}{Ganas 25 puntos de experiencia por jugar a la Demo Interactiva de Fallout.}
-{156}{}{You earn 42 experience for playing Fallout Fixt.}
-{157}{}{Congratulations, you have achieved all possible endings of the Fallout Interactive Demo!}
+{156}{}{Ganas 42 puntos de experiencia por jugar a Fallout Fixt.}
+{157}{}{¡Enhorabuena, has conseguido todos los finales posibles de la demo interactiva de Fallout!}
 {158}{}{Felicidades, has conseguido todas las posibles terminaciones de la Precipitación: Un Post-Nuclear, Juego de Rol!}
 {159}{}{Wow, esto es increíble! Incluso mejor que el juego original.}
 {160}{}{Usted jugar a Fallout Fixt. Quien crea esto debe haber sido muy talentosos.}
 {400}{}{Con el generador roto, hay pocas razones por las que las bandas luchen por el Desguace. La gente del Desguace llevará una vida más pobre; pero sin las bandas, al menos tendrán una vida. Tu trabajo aquí ha terminado, pero tu misión para encontrar el chip de purificación de agua continúa.}
 {401}{}{Tras una larga y sangrienta batalla, prevaleces. Con las bandas derrotadas, el Desguace es ahora un lugar seguro. La gente del pueblo está agradecida; te dan algo de información valiosa, y tu misión en el Desguace ha terminado. Sin embargo, la misión para encontrar el chip de purificación de agua continúa.}
-{500}{}{After stopping the Master and his lab with which he was creating his army of Super Mutants, you return home, only to discover that you are thrown out of your Vault for being too destructive. Thank you for playing Fallout.}
-{501}{}{After convincing the Master to abandon his ill-conceived domination and destroying the Vats, you return home, only to find you are exiled, allegedly to prevent others from leaving the Vault. Thank you for playing Fallout.}
-{502}{}{After destroying the Vats, the Master, and his army of Super Mutants, you return home, but are forbidden from entering. You retaliate, leaving the shattered corpse of the Overseer behind you. Thank you for playing Fallout.}
-{503}{}{You are dipped in FEV and join the Master's Unity, revealing the location of Vault 13. You are rewarded with leading the assault against your Vault, killing the Overseer with your bare fists. Thank you for playing Fallout.}
+{500}{}{Después de detener al Maestro y su laboratorio con el que estaba creando su ejército de Súper Mutantes, regresas a casa, solo para descubrir que te echan de tu Refugio por ser demasiado destructivo. Gracias por jugar Fallout.}
+{501}{}{Después de convencer al Maestro de que abandonase sus enfermizos planes de dominación y destruir los Tanques, regresas a casa, solo para descubrir que has sido exiliado, aparentemente para prevenir a otros de dejar el Refugio. Gracias por jugar a Fallout.}
+{502}{}{Después de destruir los Tanques, al Maestro, y a su ejército de Supermutantes, regresas a casa, pero se te prohíbe la entrada. Tomas represalias, dejando el cuerpo destrozado del Supervisor tras de ti. Gracias por jugar a Fallout.}
+{503}{}{Eres sumergido en el FEV y te unes a la Unidad del Maestro, revelando la localización del Refugio 13. Eres recompensado con el liderazgo del asalto que acaba con tu Refugio, matando al Supervisor con tus propias manos. Gracias por jugar a Fallout.}

@@ -57,7 +57,7 @@
 {317}{}{Si no me dices cuanto me vas a pagar no voy a rescatarla.}
 {318}{}{Muy bien, me encargaré de ello.}
 {319}{}{Lo siento, tengo que irme.}
-{320}{}{¡Hijo de...!}
+{320}{}{¡Bastardo!}
 {321}{}{Apresúrate, por favor. Dios sabrá lo que le deben estar haciendo.}
 {322}{}{Primero desearía que rescataras a Tandi, pero, si estás dispuesto a ayudarnos con los escorpiones rad, te mostraré el camino.}
 {323}{}{Llevadme a la cueva de los escorpiones rad.}

@@ -81,7 +81,7 @@
 {180}{}{Vale.}
 {181}{DECK_31}{Habla con Kane en la puerta. Él te dará más detalles.}
 {182}{DECK_32}{¿Matar al mercader no lo fue?}
-{183}{}{Well, all right, I'll do it.}
+{183}{}{Bien, de acuerdo, lo haré.}
 {184}{}{No me importa, no lo haré.}
 {185}{DECK_33}{Son 1.000 por adelantado y 4.000 tras... la ejecución. Y créeme, sabré cuando habrás acabado.}
 {186}{}{Vale.}

@@ -396,8 +396,8 @@
 {5150}{}{}
 {5175}{}{}
 {5201}{}{¿Quieres seguir jugando Fallout Fixt con este personaje?}
-{5202}{}{No.  (END GAME: Play final movie sequence & credits, then exit to main menu.)}
-{5203}{}{Yes.  (CONTINUE PLAYING: This dialog window will close and you'll stay on this map. Play continues normally.)}
+{5202}{}{No. (FINALIZAR JUEGO: Reproduce las secuencias de vídeo y créditos, luego sales al menú principal.)}
+{5203}{}{Sí. (CONTINUAR JUGANDO: Esta ventana se cerrará y te quedas en este mapa. La partida continúa con normalidad.)}
 {5400}{}{Aléjate de ahí.}
 {9000}{}{Reparación completa.}
 {9001}{}{Rearmado completo.}

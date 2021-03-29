@@ -690,11 +690,11 @@
 {2202}{}{¡Volveré!}
 {2203}{}{¡Mis amigos te cogerán por mí!}
 {2204}{}{¡Tengo amigos que me ayudarán!}
-{2205}{}{¡Somos los Elegidos! ¡Morirás pronto!}
-{2206}{}{¡Se acerca el momento de tu muerte!}
+{2205}{}{¡Somos los Elegidos! ¡Pronto morirás!}
+{2206}{}{¡Tu muerte se acerca!}
 {2207}{}{¡Te ha llegado la hora!}
-{2208}{}{¡Las armas humanas no me hacen daño!}
-{2209}{}{¡Vas a sufrir, mucho!}
+{2208}{}{¡Las armas humanas no pueden herirme!}
+{2209}{}{¡Sufrirás, sufrirás mucho!}
 {2210}{}{¡Machaco cuerpos con mis dedos!}
 {2211}{}{¡Somos el futuro y nos reímos de la humanidad!}
 {2212}{}{¡Este es el fin!}
@@ -707,21 +707,21 @@
 {2219}{}{¡Ahora es cuando mueres!}
 {2220}{}{¡Así es como vas a morir!}
 {2221}{}{¡Sufre, humana!}
-{2222}{}{¿Por qué luchas?}
+{2222}{}{¿Por qué te resistes?}
 {2223}{}{¿¡Eso es lo mejor que ofrecen los humanos!?}
 {2224}{}{¡No tienes poder!}
-{2225}{}{¡Me desternillas!}
+{2225}{}{¡Me haces reír mucho!}
 {2226}{}{¿Ha sido eso un ataque?}
 {2227}{}{¡No eres nadie!}
-{2228}{}{¡Ahhhh! ¡Mi cara!}
+{2228}{}{¡Ahhhgh! ¡Mi cara!}
 {2229}{}{¡Mi cara! ¡Sufrirás!}
-{2230}{}{¡Ahhh! ¡Voy a despedazarte!}
+{2230}{}{¡Ahhhgh! ¡Voy a despedazarte!}
 {2231}{}{¡Aaaagh! Te aplastaré}
-{2232}{}{¿A eso lo llamas dolor? ¡Me das risa!}
-{2233}{}{¡Ahhhh! ¡Te retorceré el cuello!}
+{2232}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{2233}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {2234}{}{¡No volverás a hacerlo!}
-{2235}{}{¿A eso lo llamas dolor? ¡Me das risa!}
-{2236}{}{¡Ahhhh! ¡Te retorceré el cuello!}
+{2235}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{2236}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {2237}{}{¡Sigo en pie!}
 {2238}{}{¡Serás convertido o quemado!}
 {2239}{}{¡Eso ha sido un error por tu parte!}
@@ -730,14 +730,14 @@
 {2242}{}{¡Ja, ja, ja! ¡Ha eso lo llamas dolor!}
 {2243}{}{¡Aah! ¡Me haces enfadar!}
 {2244}{}{¡Aaah! Mi pierna. Ven aquí...}
-{2245}{}{¿A eso lo llamas dolor? ¡Me das risa!}
+{2245}{}{¿Llamas a eso dolor? ¡Me das risa!}
 {2246}{}{¡Aaah! ¡Voy a quebrarte como si fueras una ramita!}
 {2247}{}{¡Mi pierna no se rompe con facilidad!}
 {2248}{}{¿A eso lo llamas dolor? ¡Ja!}
-{2249}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
+{2249}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {2250}{}{¡Ahhhgh! ¡Humana miserable! ¡Estoy ciego!}
-{2251}{}{¡Ahhh! ¡Qué dolor! ¡Qué has hecho!}
-{2252}{}{¡Ahhh! ¡Te torturaré durante días!}
+{2251}{}{¡Ahhhgh! ¡Duele! ¡Qué has hecho!}
+{2252}{}{¡Ahhhgh! ¡Te torturaré durante días!}
 {2253}{}{¡Eso es debilidad humana!}
 {2254}{}{¡No puedes herirme ahí!}
 {2255}{}{¡Eres una humana estúpida!}
@@ -787,10 +787,10 @@
 {2340}{}{Me has humillado...}
 {2341}{}{¡No es suficiente!}
 {2342}{}{¡Grrr!}
-{2343}{}{¡Ahhh! ¡Mi pierna!}
+{2343}{}{¡Ahhhgh! ¡Mi pierna!}
 {2344}{}{¡No soy tan fácil de vencer!}
 {2345}{}{¡Voy a despedazarte por eso!}
-{2346}{}{¡Ahhh! ¡Mi pierna!}
+{2346}{}{¡Ahhhgh! ¡Mi pierna!}
 {2347}{}{¡Hará falta más que eso para derribarme!}
 {2348}{}{¡Voy a aplastarte por eso!}
 {2349}{}{¡Aaah! ¡Humana miserable! ¡Me has dejado ciego!}
@@ -927,7 +927,7 @@
 {2607}{}{¡Enterremos a este matona!}
 {2608}{}{¡Es la hora de morir!}
 {2609}{}{¡No tienes permiso para estar aquí!}
-{2610}{}{Es hora de deshacernos de la basura...}
+{2610}{}{Hora de sacar la basura...}
 {2611}{}{Pagarás por tus "pecados"...}
 {2612}{}{¡Toma esto!}
 {2613}{}{¡Chiflada!}
@@ -1012,17 +1012,17 @@
 {2801}{}{Volveré...}
 {2802}{}{¡Hoy no me matarás!}
 {2803}{}{¡Hasta luego, amiga!}
-{2804}{}{¡Todavía no has oído la última palabra!}
+{2804}{}{¡No será lo último que oigas de mí!}
 {2805}{}{¡Me las pagarás... luego!}
 {2806}{}{¡Eres historia!}
 {2807}{}{Carne fresca...}
-{2808}{}{Ah, ya está aquí la cena}
-{2809}{}{Sesos...}
-{2810}{}{Voy a cavar tu tumba...}
-{2811}{}{Espero dejar intacta tu cabeza...}
-{2812}{}{¡Ese es tu número!}
+{2808}{}{Ah, la cena ha llegado.}
+{2809}{}{Cerebros...}
+{2810}{}{Cavaré tu tumba...}
+{2811}{}{Espero poder mantener tu cabeza intacta...}
+{2812}{}{¡Acaba de salir tu número!}
 {2813}{}{No te molestes en pedir piedad...}
-{2814}{}{Voy a divertirme}
+{2814}{}{Voy a disfrutar esto}
 {2815}{}{¡Ohhh, eso va a doler!}
 {2816}{}{¡Toma normalito!}
 {2817}{}{¡Voy a comerme tu hígado!}
@@ -1034,14 +1034,14 @@
 {2823}{}{Normales. Qué típico.}
 {2824}{}{Oh, mira, casi me das}
 {2825}{}{¡Has fallado, tía!}
-{2826}{}{¡No puedes matar a quien eres incapaz de alcanzar!}
+{2826}{}{¡No puedes matar a quien no puedes tocar!}
 {2827}{}{¡Demasiada lenta!}
 {2828}{}{Oh, mi hermosa cara}
-{2829}{}{¡Ay, mi cabeza!}
+{2829}{}{¡Ow! ¡Mi cabeza!}
 {2830}{}{¡Uf!}
 {2831}{}{¡Mi mano!}
 {2832}{}{¡Ow!}
-{2833}{}{¡Oh!!}
+{2833}{}{¡¡Ow!!}
 {2834}{}{¡Ow, mi brazo!}
 {2835}{}{¡Me has roto el brazo!}
 {2836}{}{¡Lamentarás eso!}
@@ -1049,7 +1049,7 @@
 {2839}{}{¡Oh, vaya!}
 {2840}{}{¡Grrr!}
 {2841}{}{¡Lamentarás eso!}
-{2842}{}{¡Deberías parar mientras vayas por delante!}
+{2842}{}{¡Deberías detenerte mientras estás ganando!}
 {2843}{}{¡Usaré tus órganos para remplazar los míos!}
 {2844}{}{¡Garrr!}
 {2845}{}{¡Oh, mi pierna!}
@@ -1095,15 +1095,15 @@
 {2925}{}{Ese fue tu último error}
 {2926}{}{¡Idiota! ¿Y tú quieres derrotarme?}
 {2927}{}{¡Patético!}
-{2928}{}{¡Ahhhh! ¡Mi cara!}
+{2928}{}{¡Ahhhgh! ¡Mi cara!}
 {2929}{}{¡La cara! ¡Sufrirás por esto!}
 {2930}{}{¡Arrghhggh! ¡Voy a hacerte pedazos!}
 {2931}{}{¡Ahhh! ¡Mi brazo!}
 {2932}{}{¡Ahhh! ¡No es tan fácil derrotarme!}
-{2933}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
+{2933}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {2934}{}{¡Ahhh! ¡Mi brazo!}
 {2935}{}{¡Ahhh! ¡No es tan fácil derrotarme!}
-{2936}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
+{2936}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {2937}{}{Me haré unos trofeos con tus huesos}
 {2938}{}{¡Uf!}
 {2939}{}{¡Arrrggg!}
@@ -1114,12 +1114,12 @@
 {2944}{}{Ja, ja, ja, sigo en pie}
 {2945}{}{Muchos sufrirán por tu culpa}
 {2946}{}{¡Ja, ja! Vaya intento más poco convincente... (gruñe)}
-{2947}{}{¡Ahhh! ¡Mi pierna!}
+{2947}{}{¡Ahhhgh! ¡Mi pierna!}
 {2948}{}{¡Ahhh! ¡No es tan fácil derrotarme!}
-{2949}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
-{2950}{}{¡Ahhh! ¡Mi pierna!}
+{2949}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{2950}{}{¡Ahhhgh! ¡Mi pierna!}
 {2951}{}{¡Ahhh! ¡No es tan fácil derrotarme!}
-{2952}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
+{2952}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {2953}{}{¡Ahhh! ¡Humana miserable! ¡Me has dejado ciego!}
 {2954}{}{¡Ahhh! ¡Qué dolor! ¡Qué has hecho!}
 {2955}{}{¡Uf! ¡Te has ganado días de agonía por esto!}
@@ -1152,7 +1152,7 @@
 {3020}{}{¡Sangre y oscuridad!}
 {3021}{}{¡Fabricaré armas con tus huesos!}
 {3022}{}{¡Aprende, bastarda retorcida!}
-{3023}{}{¡Malgastas tus esfuerzos!}
+{3023}{}{¡Un esfuerzo inútil!}
 {3024}{}{¡Has fallado!}
 {3025}{}{¡Mi sangre es más fuerte que la tuya!}
 {3026}{}{¡¡Estoy vivo!!}
@@ -1205,20 +1205,20 @@
 {3111}{}{¡Te voy a KHANbiar la cara a golpes!}
 {3112}{}{¡Khans, matad!}
 {3113}{}{¡Sangre! ¡Sangre! ¡Sangre!}
-{3114}{}{¡Soy una máquina!}
+{3114}{}{¡Soy supremo!}
 {3115}{}{¡¡RAAAAAAARRRR!!}
 {3116}{}{¡Los Khans son invencibles!}
-{3117}{}{¡Nunca nos retiramos! ¡Nunca nos rendimos!}
+{3117}{}{¡Retirarse nunca! ¡Rendirse jamás!}
 {3118}{}{¡Seré yo quien te mate!}
 {3119}{}{¡Tus huesos yacerán en el Yermo!}
 {3120}{}{¡Sangre y oscuridad!}
-{3121}{}{¡Los Khans son los que mandan!}
+{3121}{}{¡Los Khans son los más fuertes!}
 {3122}{}{¡Ja, ja, ja, ja, inténtalo de nuevo!}
 {3123}{}{¡No me puedes tocar!}
 {3124}{}{¡Soy indestructible!}
 {3125}{}{¡Mi sangre es más fuerte que la tuya!}
 {3126}{}{¡Mis esclavos luchan mejor que tú!}
-{3127}{}{¡No mereces luchar conmigo!}
+{3127}{}{¡No eres digno de combatir conmigo!}
 {3128}{}{¡Un golpe de suerte!}
 {3129}{}{¡Ese ha sido tu último ataque!}
 {3130}{}{¡Un intento patético!}
@@ -1332,7 +1332,7 @@
 {3314}{}{Desgraciado}
 {3315}{}{Punk}
 {3316}{}{}
-{3317}{}{¡Ese es tu número!}
+{3317}{}{¡Acaba de salir tu número!}
 {3318}{}{Lo estás echando a perder}
 {3319}{}{Esto es un regalo de Arenas Sombrías}
 {3320}{}{No volverás a molestar a nadie otra vez}
@@ -2325,7 +2325,7 @@
 {4926}{}{Hoy no es tu día}
 {4927}{}{}
 {4928}{}{¡En la cara no!}
-{4929}{}{¡Ay, mi cabeza!}
+{4929}{}{¡Ow! ¡Mi cabeza!}
 {4930}{}{¡Me has roto la nariz!}
 {4931}{}{¡Ow, mi brazo!}
 {4932}{}{¡Me has roto el brazo!}
@@ -2485,40 +2485,40 @@
 {5200}{}{¡Corred!}
 {5201}{}{¡No me matarás!}
 {5202}{}{¡Volveré!}
-{5203}{}{¡Mis amigos te cogerán por mí!}
+{5203}{}{¡Mis amigos te atraparán por mí!}
 {5204}{}{Pagarás por eso... ¡luego!}
-{5205}{}{¡Somos los Elegidos! ¡Morirás pronto!}
-{5206}{}{¡Se acerca el momento de tu muerte!}
-{5207}{}{¡Los que molestan a los Elegidos, no vuelven a molestar nunca a nadie!}
-{5208}{}{¡Las armas humanas no me hacen daño!}
-{5209}{}{¡Vas a sufrir, mucho!}
+{5205}{}{¡Somos los Elegidos! ¡Pronto morirás!}
+{5206}{}{¡Tu muerte se acerca!}
+{5207}{}{¡Los que molestan a los Elegidos ya no molestan a nadie más!}
+{5208}{}{¡Las armas humanas no pueden herirme!}
+{5209}{}{¡Sufrirás, sufrirás mucho!}
 {5210}{}{}
-{5211}{}{¿Quién es lo bastante estúpido para enfadarnos?}
+{5211}{}{¿Quién es tan estúpido como para enojarnos?}
 {5212}{}{}
 {5213}{}{¡Nadie te salvará ahora!}
 {5214}{}{}
-{5215}{}{¡Tendrás una muerte a fuego!}
+{5215}{}{¡Sufrirás una muerte ardiente!}
 {5216}{}{¡Muere, humana idiota!}
-{5217}{}{Ahora grita hasta la muerte}
+{5217}{}{Morirás gritando}
 {5218}{}{}
 {5219}{}{Ahora te aplastaré}
-{5220}{}{¡No puedes luchar contra los Elegidos!}
+{5220}{}{¡No puedes combatir a los Elegidos!}
 {5221}{}{¡Sufre, humana!}
-{5222}{}{¿Por qué luchas?}
-{5223}{}{¡Eso es todo lo que los humanos pueden hacer!}
+{5222}{}{¿Por qué te resistes?}
+{5223}{}{¡Es lo mejor que los humanos pueden hacer!}
 {5224}{}{¡No tienes poder!}
-{5225}{}{¡Me desternillas!}
+{5225}{}{¡Me haces reír mucho!}
 {5226}{}{¿Ha sido eso un ataque?}
 {5227}{}{¡Somos los Elegidos!}
-{5228}{}{¡Ahhhh! ¡Mi cara!}
+{5228}{}{¡Ahhhgh! ¡Mi cara!}
 {5229}{}{¡Mi cara! ¡Sufrirás!}
-{5230}{}{¡Ahhh! ¡Voy a despedazarte!}
-{5231}{}{¡Ahhhh!}
+{5230}{}{¡Ahhhgh! ¡Voy a despedazarte!}
+{5231}{}{¡Ahhhgh!}
 {5232}{}{}
-{5233}{}{¡Ahhhh! ¡Te retorceré el cuello!}
-{5234}{}{¡Ahhhh!}
+{5233}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{5234}{}{¡Ahhhgh!}
 {5235}{}{}
-{5236}{}{¡Ahhhh! ¡Te retorceré el cuello!}
+{5236}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {5237}{}{¡Uf!}
 {5238}{}{¡Grrr!}
 {5239}{}{¡Te mataré por eso!}
@@ -2526,18 +2526,18 @@
 {5241}{}{¡Tu debilucha ataque me da risa!}
 {5242}{}{¡Grrr!}
 {5243}{}{¡Oh!}
-{5244}{}{¡Voy a darte un bañito!}
+{5244}{}{¡Te destriparé!}
 {5245}{}{¡Grrr! Haces que me enfade}
-{5246}{}{Agh!}
-{5247}{}{¡Ahhh! ¡Mi pierna!}
+{5246}{}{¡Agh!}
+{5247}{}{¡Ahhhgh! ¡Mi pierna!}
 {5248}{}{}
-{5249}{}{¡Ahhhh! ¡Te retorceré el cuello!}
-{5250}{}{¡Ahhh! ¡Mi pierna!}
+{5249}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{5250}{}{¡Ahhhgh! ¡Mi pierna!}
 {5251}{}{}
-{5252}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
+{5252}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {5253}{}{¡Ahhhgh! ¡Humana miserable! ¡Estoy ciego!}
-{5254}{}{¡Ahhh! ¡Qué dolor! ¡Qué has hecho!}
-{5255}{}{¡Ahhh! ¡Te torturaré durante días!}
+{5254}{}{¡Ahhhgh! ¡Duele! ¡Qué has hecho!}
+{5255}{}{¡Ahhhgh! ¡Te torturaré durante días!}
 {5256}{}{¡Eso es debilidad humana!}
 {5257}{}{}
 {5258}{}{¡Eres estúpida, humana!}
@@ -2552,18 +2552,18 @@
 {5305}{}{¡Morirás más tarde!}
 {5306}{}{¿Quién osa molestar a los Elegidos?}
 {5307}{}{¡Me haces enfadar!}
-{5308}{}{¡Las armas humanas no me hacen daño!}
+{5308}{}{¡Las armas humanas no pueden herirme!}
 {5309}{}{}
 {5310}{}{¡No hay piedad para los enemigos!}
-{5311}{}{¡Cuando lucho, mato!}
+{5311}{}{¡Cuando peleo, mato!}
 {5312}{}{}
 {5313}{}{¡Nadie te salvará ahora!}
 {5314}{}{¡Ahora es cuando mueres!}
-{5315}{}{¡Deja que vea tu dolor!}
+{5315}{}{¡Déjame ver tu dolor!}
 {5316}{}{¡Romperé tu cuerpo!}
 {5317}{}{}
 {5318}{}{}
-{5319}{}{Ahora muere}
+{5319}{}{Ahora vas a morir}
 {5320}{}{¡Te haré mucho daño!}
 {5321}{}{¡Sufre!}
 {5322}{}{¡Eres débil!}
@@ -2572,31 +2572,31 @@
 {5325}{}{}
 {5326}{}{¿Ha sido eso un ataque?}
 {5327}{}{No sirves para nada}
-{5328}{}{¡Ahhhh! ¡Mi cara!}
+{5328}{}{¡Ahhhgh! ¡Mi cara!}
 {5329}{}{¡Mi cara! ¡Sufrirás!}
-{5330}{}{¡Ahhh! ¡Voy a despedazarte!}
-{5331}{}{¡Ahhhh!}
-{5332}{}{¡Ay! ¡Casi hieres al Elegido!}
-{5333}{}{¡Ahhhh! ¡Te retorceré el cuello!}
-{5334}{}{¡Ahhhh!}
+{5330}{}{¡Ahhhgh! ¡Voy a despedazarte!}
+{5331}{}{¡Ahhhgh!}
+{5332}{}{¡Ow! ¡Casi lastimas al Elegido!}
+{5333}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{5334}{}{¡Ahhhgh!}
 {5335}{}{}
-{5336}{}{¡Ahhhh! ¡Te retorceré el cuello!}
+{5336}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {5337}{}{¡Te devolveré todo este dolor!}
 {5338}{}{¡Uf!}
 {5339}{}{¡Ouch!}
 {5340}{}{¡Mmm, puedes tener problemas!}
 {5341}{}{¡Grrr! Estoy deseando que mueras}
 {5342}{}{¡Grrr!}
-{5343}{}{¡Puedes herirme pero no vas a ganar!}
+{5343}{}{¡Podrás herirme, pero no puedes ganar!}
 {5344}{}{¡Grrr!}
 {5345}{}{¡Auh! No ha sido buena idea herirme}
 {5346}{}{}
-{5347}{}{¡Ahhh! ¡Mi pierna!}
+{5347}{}{¡Ahhhgh! ¡Mi pierna!}
 {5348}{}{}
-{5349}{}{¡Ahhhh! ¡Te retorceré el cuello!}
-{5350}{}{¡Ahhh! ¡Mi pierna!}
+{5349}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{5350}{}{¡Ahhhgh! ¡Mi pierna!}
 {5351}{}{¡Casi haces daño a un Elegido!}
-{5352}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
+{5352}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {5353}{}{¡Ahhhgh! ¡Estoy ciego!}
 {5354}{}{¡Ahhhh! ¡Qué dolor! ¡Qué me haces!}
 {5355}{}{¡Ahhhh! ¡Los ojos me queman como fuego del Ardor!}
@@ -2612,37 +2612,37 @@
 {5403}{}{}
 {5404}{}{Pagarás por eso... ¡luego!}
 {5405}{}{¡Morirás más tarde!}
-{5406}{}{¡Se acerca el momento de tu muerte!}
+{5406}{}{¡Tu muerte se acerca!}
 {5407}{}{}
-{5408}{}{¡Las armas humanas no me hacen daño!}
-{5409}{}{¡Vas a sufrir, mucho!}
+{5408}{}{¡Las armas humanas no pueden herirme!}
+{5409}{}{¡Sufrirás, sufrirás mucho!}
 {5410}{}{¡Veo enemigos que destruir!}
-{5411}{}{¿Quién es lo bastante estúpido para enfadarnos?}
+{5411}{}{¿Quién es tan estúpido como para enojarnos?}
 {5412}{}{}
 {5413}{}{¡Nadie te salvará ahora!}
 {5414}{}{¡Somos tus Maestros!}
 {5415}{}{¡Ahora tendrás una muerte de fuego!}
 {5416}{}{¡Muere, humana idiota!}
-{5417}{}{Ahora grita hasta la muerte}
+{5417}{}{Morirás gritando}
 {5418}{}{}
 {5419}{}{Ahora te aplastaré}
 {5420}{}{}
 {5421}{}{¡Sufre, humana!}
-{5422}{}{¿Por qué luchas?}
-{5423}{}{¡Eso es todo lo que los humanos pueden hacer!}
+{5422}{}{¿Por qué te resistes?}
+{5423}{}{¡Es lo mejor que los humanos pueden hacer!}
 {5424}{}{¡No tienes poder!}
 {5425}{}{}
 {5426}{}{}
 {5427}{}{¡Somos los Elegidos!}
-{5428}{}{¡Ahhhh! ¡Mi cara!}
+{5428}{}{¡Ahhhgh! ¡Mi cara!}
 {5429}{}{¡Mi cara! ¡Sufrirás!}
-{5430}{}{¡Ahhh! ¡Voy a despedazarte!}
-{5431}{}{¡Ahhhh!}
-{5432}{}{¿A eso lo llamas dolor? ¡Me das risa!}
-{5433}{}{¡Ahhhh! ¡Te retorceré el cuello!}
-{5434}{}{¡Ahhhh!}
-{5435}{}{¿A eso lo llamas dolor? ¡Me das risa!}
-{5436}{}{¡Ahhhh! ¡Te retorceré el cuello!}
+{5430}{}{¡Ahhhgh! ¡Voy a despedazarte!}
+{5431}{}{¡Ahhhgh!}
+{5432}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{5433}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{5434}{}{¡Ahhhgh!}
+{5435}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{5436}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {5437}{}{¡No hay dolor!}
 {5438}{}{¡Uff! Te mataré}
 {5439}{}{¡Odio a las que son como tú!}
@@ -2653,15 +2653,15 @@
 {5444}{}{}
 {5445}{}{¡Grrr!}
 {5446}{}{¡Uf!}
-{5447}{}{¡Ahhh! ¡Mi pierna!}
-{5448}{}{¿A eso lo llamas dolor? ¡Me das risa!}
-{5449}{}{¡Ahhhh! ¡Te retorceré el cuello!}
-{5450}{}{¡Ahhh! ¡Mi pierna!}
-{5451}{}{¿A eso lo llamas dolor? ¡Me das risa!}
-{5452}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
+{5447}{}{¡Ahhhgh! ¡Mi pierna!}
+{5448}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{5449}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{5450}{}{¡Ahhhgh! ¡Mi pierna!}
+{5451}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{5452}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {5453}{}{¡Ahhhgh! ¡Humana miserable! ¡Estoy ciego!}
-{5454}{}{¡Ahhh! ¡Qué dolor! ¡Qué has hecho!}
-{5455}{}{¡Ahhh! ¡Te torturaré durante días!}
+{5454}{}{¡Ahhhgh! ¡Duele! ¡Qué has hecho!}
+{5455}{}{¡Ahhhgh! ¡Te torturaré durante días!}
 {5456}{}{}
 {5457}{}{}
 {5458}{}{¡Eres una humana estúpida!}
@@ -2688,7 +2688,7 @@
 {5517}{}{Ahora puedes gritar hasta la muerte}
 {5518}{}{¡Tu sangre es mi vino!}
 {5519}{}{Ahora te aplastaré}
-{5520}{}{¡No puedes luchar contra los Elegidos!}
+{5520}{}{¡No puedes combatir a los Elegidos!}
 {5521}{}{¡Sufre, humana!}
 {5522}{}{¿Por qué luchas de forma tan lamentable?}
 {5523}{}{}
@@ -2696,15 +2696,15 @@
 {5525}{}{Tu forma de atacar solo me hace reír.}
 {5526}{}{}
 {5527}{}{}
-{5528}{}{¡Ahhhh! ¡Mi cara!}
+{5528}{}{¡Ahhhgh! ¡Mi cara!}
 {5529}{}{¡Mi cara! ¡Sufrirás!}
-{5530}{}{¡Ahhh! ¡Voy a despedazarte!}
-{5531}{}{¡Ahhhh!}
-{5532}{}{¿A eso lo llamas dolor? ¡Me das risa!}
-{5533}{}{¡Ahhhh! ¡Te retorceré el cuello!}
-{5534}{}{¡Ahhhh!}
+{5530}{}{¡Ahhhgh! ¡Voy a despedazarte!}
+{5531}{}{¡Ahhhgh!}
+{5532}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{5533}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{5534}{}{¡Ahhhgh!}
 {5535}{}{}
-{5536}{}{¡Ahhhh! ¡Te retorceré el cuello!}
+{5536}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {5537}{}{¡No puedes derrotarme!}
 {5538}{}{¡Te mataré por esto!}
 {5539}{}{¡Tu muerte será leyenda!}
@@ -2715,15 +2715,15 @@
 {5544}{}{}
 {5545}{}{No tienes ni idea de a lo que te enfrentas, humana}
 {5546}{}{¡Lavaré mi cara con tu sangre!}
-{5547}{}{¡Ahhh! ¡Mi pierna!}
+{5547}{}{¡Ahhhgh! ¡Mi pierna!}
 {5548}{}{}
-{5549}{}{¡Ahhhh! ¡Te retorceré el cuello!}
-{5550}{}{¡Ahhh! ¡Mi pierna!}
+{5549}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
+{5550}{}{¡Ahhhgh! ¡Mi pierna!}
 {5551}{}{}
-{5552}{}{¡Ahhh! ¡Te retorceré el cuello por esto!}
+{5552}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {5553}{}{¡Ahhhgh! ¡Humana miserable! ¡Estoy ciego!}
 {5554}{}{¡Ahhh! Pero no necesito los ojos para matarte}
-{5555}{}{¡Ahhh! ¡Te torturaré durante días!}
+{5555}{}{¡Ahhhgh! ¡Te torturaré durante días!}
 {5556}{}{¡Eso es debilidad humana!}
 {5557}{}{}
 {5558}{}{¡Eres una humana estúpida!}
@@ -2747,7 +2747,7 @@
 {5614}{}{}
 {5615}{}{¡Sé cómo tratar a los cerdos!}
 {5616}{}{¡Pagarás por lo que has hecho!}
-{5617}{}{¡Ese es tu número!}
+{5617}{}{¡Acaba de salir tu número!}
 {5618}{}{}
 {5619}{}{}
 {5620}{}{Hora de contar tus derrotas}
@@ -3168,7 +3168,7 @@
 {6301}{}{Volveré...}
 {6302}{}{¡Vas a pagar por lo que has hecho!}
 {6303}{}{¡Hasta luego, mocosa!}
-{6304}{}{¡Todavía no has oído la última palabra!}
+{6304}{}{¡No será lo último que oigas de mí!}
 {6305}{}{¡Me las pagarás... luego!}
 {6306}{}{}
 {6307}{}{Carne fresca...}
@@ -3230,7 +3230,7 @@
 {6401}{}{Volveré...}
 {6402}{}{¡Ayuda!}
 {6403}{}{¡Hay que huir!}
-{6404}{}{¡Todavía no has oído la última palabra!}
+{6404}{}{¡No será lo último que oigas de mí!}
 {6405}{}{}
 {6406}{}{}
 {6407}{}{Carne fresca...}
@@ -3292,7 +3292,7 @@
 {6501}{}{Volveré...}
 {6502}{}{¡Ayuda!}
 {6503}{}{¡Hay que huir!}
-{6504}{}{¡Todavía no has oído la última palabra!}
+{6504}{}{¡No será lo último que oigas de mí!}
 {6505}{}{¡Tendrás lo que te mereces, te lo prometo!}
 {6506}{}{¡Ha terminado, mocosa! ¡Eres historia!}
 {6507}{}{Nunca debiste cruzarte conmigo}
@@ -3392,7 +3392,7 @@
 {6639}{}{¡Ow! ¡Eso duele!}
 {6640}{}{}
 {6641}{}{¡No golpees ahí a una señorita!}
-{6642}{}{¡Oh!!}
+{6642}{}{¡¡Ow!!}
 {6643}{}{¡Ouch!}
 {6644}{}{¡Oh! Eres un trozo de...}
 {6645}{}{¡AH! ¡Joder!}
@@ -3644,7 +3644,7 @@
 {7043}{}{¡Dominaré mi dolor como te dominaré a ti!}
 {7044}{}{Sí... dolor, mi viejo amigo}
 {7045}{}{}
-{7046}{}{¡Solo es un poco de carne herida!}
+{7046}{}{¡Es sólo una herida superficial!}
 {7047}{}{Mmm, una pierna herida}
 {7048}{}{¡Mi pierna está temblando!}
 {7049}{}{Oh...}
@@ -3985,7 +3985,7 @@
 {7612}{}{¡Hora de dar de comer a los gusanos!}
 {7613}{}{Estás a punto de ponerte muy fea}
 {7614}{}{}
-{7615}{}{¡Ese es tu número!}
+{7615}{}{¡Acaba de salir tu número!}
 {7616}{}{Dentro de dos segundos conocerás al que te ha creado}
 {7617}{}{¡Voy a dejarte, como si fueras un mal vicio!}
 {7618}{}{}
@@ -4098,7 +4098,7 @@
 {7801}{}{Volveré...}
 {7802}{}{Estás muerta. ¿Me oyes? ¡Muerta!}
 {7803}{}{¡Pronto te veré muerta!}
-{7804}{}{¡Todavía no has oído la última palabra!}
+{7804}{}{¡No será lo último que oigas de mí!}
 {7805}{}{¡Tendrás lo que te mereces, te lo prometo!}
 {7806}{}{¡Has terminado! ¡Eres historia!}
 {7807}{}{Nunca debiste cruzarte conmigo}
@@ -4108,7 +4108,7 @@
 {7811}{}{Se acabó, alguien va a morir}
 {7812}{}{¡Toma esto!}
 {7813}{}{Esto es lo que hago con las mocosas y los perdedoras}
-{7814}{}{Voy a divertirme}
+{7814}{}{Voy a disfrutar esto}
 {7815}{}{¡Esto te va a doler!}
 {7816}{}{Te has metido con el hombre equivocado}
 {7817}{}{Nadie me va a apartar del Eje}
@@ -4160,7 +4160,7 @@
 {7901}{}{Volveré...}
 {7902}{}{Estás muerta. ¿Me oyes? ¡Muerta!}
 {7903}{}{¡Pronto te veré muerta!}
-{7904}{}{¡Todavía no has oído la última palabra!}
+{7904}{}{¡No será lo último que oigas de mí!}
 {7905}{}{¡Tendrás lo que te mereces, te lo prometo!}
 {7906}{}{Soy muy bueno solucionando problemas}
 {7907}{}{Nunca debiste meterte con el Sr. Decker}
@@ -4287,7 +4287,7 @@
 {8104}{}{Cargando programa de huida}
 {8105}{}{Iniciada secuencia de retirada}
 {8106}{}{¡Objetivo localizado!}
-{8107}{}{¡Finalizar! ¡Finalizar!}
+{8107}{}{¡Exterminar! ¡Exterminar!}
 {8108}{}{El humanoide no debe escapar}
 {8109}{}{Exterminar a la intrusa}
 {8110}{}{Iniciada secuencia de combate}
@@ -4303,7 +4303,7 @@
 {8120}{}{El objetivo ha de ser eliminado}
 {8121}{}{Selección de ofensiva completada}
 {8122}{}{Análisis. Éxito del programa de defensa}
-{8123}{}{Análisis. Ataque insignificante al objetivo.}
+{8123}{}{Análisis. Habilidades ofensivas del objetivo insignificantes.}
 {8124}{}{Fracasado ataque al objetivo. Calculando respuesta}
 {8125}{}{Unidad no dañada en el ataque}
 {8126}{}{Recalculando capacidad de ataque del objetivo}
@@ -4354,7 +4354,7 @@
 {8212}{}{¡Esto es lo que les hago a las alborotadoras!}
 {8213}{}{Apaga las luces...}
 {8214}{}{Así aprenderás a no causar problemas}
-{8215}{}{¡Ese es tu número!}
+{8215}{}{¡Acaba de salir tu número!}
 {8216}{}{Vas en declive}
 {8217}{}{Veamos lo dura que eres...}
 {8218}{}{Punk}
@@ -4537,20 +4537,20 @@
 {8711}{}{¡Que la lucha del honor comience!}
 {8712}{}{¡Seré yo quien te mate!}
 {8713}{}{¡Sangre! ¡Sangre! ¡Sangre!}
-{8714}{}{¡Soy una máquina!}
+{8714}{}{¡Soy supremo!}
 {8715}{}{¡¡RAAAAAAARRRR!!}
 {8716}{}{¡Los Khans son invencibles!}
-{8717}{}{¡Nunca nos retiramos! ¡Nunca nos rendimos!}
+{8717}{}{¡Retirarse nunca! ¡Rendirse jamás!}
 {8718}{}{¡Seré yo quien te mate!}
-{8719}{}{¡Soy una máquina!}
+{8719}{}{¡Soy supremo!}
 {8720}{}{¡Sangre y oscuridad!}
-{8721}{}{¡Los Khans son los que mandan!}
+{8721}{}{¡Los Khans son los más fuertes!}
 {8722}{}{¡Ja, ja, ja, ja, inténtalo de nuevo!}
 {8723}{}{¡No me puedes tocar!}
 {8724}{}{¡Soy indestructible!}
 {8725}{}{¡Mi honor es mayor que el tuyo!}
 {8726}{}{¡Mi honor es mayor que el tuyo!}
-{8727}{}{¡No mereces luchar conmigo!}
+{8727}{}{¡No eres digno de combatir conmigo!}
 {8728}{}{¡Un golpe de suerte!}
 {8729}{}{¡Ese ha sido tu último ataque!}
 {8730}{}{¡Un intento patético!}

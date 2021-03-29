@@ -87,7 +87,7 @@
 {186}{}{Claro.}
 {187}{}{No.}
 {188}{}{Puede ser.}
-{189}{}{¡Eeeh!}
+{189}{}{¡Eeek!}
 {190}{}{Lub.}
 {191}{}{¿Ya estás equipado? Partimos hoy.}
 {192}{}{Sí.}

@@ -36,7 +36,7 @@
 {136}{}{Doctor, ¡cúrame o muere!}
 {137}{}{Con esto bastará...}
 {138}{}{¡¡Ayyy!!}
-{139}{}{¡Ja! ¡Ja! ¡Ja!}
+{139}{}{¡Ja ja ja!}
 {140}{}{¡Gritaste como una mujer! ¡Ja! ¡Ja! ¡Ja!}
 {141}{}{¡Las zorras no deberían estar en un mundo de hombres! ¡Ja! ¡Ja! ¡Ja!}
 {142}{}{¡Vete al infierno! ¿Quieres curarte o quieres seguir siendo gilipollas?}

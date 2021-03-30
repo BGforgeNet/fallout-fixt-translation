@@ -556,7 +556,7 @@
 {5807}{}{. El nómada de repente estalla en llamas}
 {5808}{}{ luego se sacude salvajemente y tiembla como si fuese a reventar}
 {5809}{}{, golpeando en un punto sensible}
-{5810}{}{. La criatura está claramente agitada}
+{5810}{}{. La criatura está obviamente agitada}
 {5900}{}{, abandonado, el centauro se derrumba aturdido}
 {5901}{}{ mientras golpeas un punto crítico}
 {5902}{}{, causando un masivo fallo neurálgico}

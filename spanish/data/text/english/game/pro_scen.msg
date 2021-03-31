@@ -387,63 +387,63 @@
 {19500}{}{el muro}
 {19600}{}{un escotillón}
 {19601}{}{Parece un buen escotillón.}
-{19700}{}{una alcantarilla}
-{19701}{}{La escalera de esta alcantarilla conduce a las oscuridades subterráneas. Oh, da miedo.}
-{19800}{}{el altar}
-{19801}{}{Es un altar.}
-{19900}{}{un púlpito}
-{19901}{}{La gente se pone de pie y habla. Parece que tiene un pequeño lugar destinado a sostener un discurso preparado.}
-{20000}{}{un banco}
-{20001}{}{Tiene la apariencia que esperabas. Nada digno de mención.}
-{20100}{}{una señal}
-{20101}{}{La señal de este poste está algo deteriorada.}
-{20200}{}{una señal}
-{20201}{}{La señal de este poste está algo deteriorada.}
-{20300}{}{una señal}
-{20301}{}{La señal de este poste está algo deteriorada.}
-{20400}{}{una señal}
-{20401}{}{La señal de este poste está algo deteriorada.}
-{20500}{}{una señal}
-{20501}{}{La señal de este poste está algo deteriorada.}
-{20600}{}{un viejo colchón}
-{20601}{}{Un viejo y desvencijado colchón. Crees ver algunos bichos extraños infectándolo.}
-{20700}{}{un viejo colchón}
-{20701}{}{Si tuvieras que dormir ahí, no estarías durmiendo solo.}
+{19700}{}{Alcantarilla}
+{19701}{}{La escalera de esta alcantarilla conduce a la oscuridad de abajo. Ohhh, espeluznante.}
+{19800}{}{Altar}
+{19801}{}{Esto es un altar.}
+{19900}{}{Plataforma del predicador}
+{19901}{}{Uno se coloca detrás de esto para hablar. Parece un lugar pequeño como para dar un discurso preparado.}
+{20000}{}{Banco de iglesia}
+{20001}{}{Se ve exactamente como lo esperarías. No hay nada especial en este banco.}
+{20100}{}{Letrero}
+{20101}{}{El letrero de este poste parece un poco oxidado.}
+{20200}{}{Letrero}
+{20201}{}{El letrero de este poste parece un poco oxidado.}
+{20300}{}{Letrero}
+{20301}{}{El letrero de este poste parece un poco oxidado.}
+{20400}{}{Letrero}
+{20401}{}{El letrero de este poste parece un poco oxidado.}
+{20500}{}{Letrero}
+{20501}{}{El letrero de este poste parece un poco oxidado.}
+{20600}{}{Colchón viejo}
+{20601}{}{Un viejo colchón maltratado. Te parece ver algún tipo de insecto que lo infesta.}
+{20700}{}{Colchón viejo}
+{20701}{}{Incluso si durmieras solo en esta cosa, no estarías durmiendo solo.}
 {20800}{}{una cama}
 {20801}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {20900}{}{una cama}
 {20901}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {21000}{}{una cama}
-{21001}{}{Esta cama ha visto mejores días (y probablemente noches también).}
+{21001}{}{Esta cama ha visto mejores días (y probablemente noches, también).}
 {21100}{}{una cama}
-{21101}{}{Tras un riguroso análisis, concluyes que las sábanas no han sido cambiadas en mucho tiempo.}
+{21101}{}{Inspeccionándola más de cerca, te das cuenta que las sábanas no han sido cambiadas desde hace mucho, mucho tiempo.}
 {21200}{}{una cama}
 {21201}{}{Hay un par de manchas de extraña procedencia en esta cama destartalada.}
 {21300}{}{una cama}
-{21301}{}{Esta cama ha sido muy utilizada. Algo debe de haberse instalado entre los colchones y ha muerto ahí.}
+{21301}{}{Esta cama ha tenido mucho uso y desgaste. Algo debió de meterse entre los colchones y murió, también.}
 {21400}{}{una estantería}
 {21500}{}{una estantería}
 {21600}{}{una estantería}
 {21700}{}{una estantería}
 {21800}{}{una estantería}
 {21900}{}{una estantería}
-{22000}{}{unas cajas}
-{22001}{}{Estas cajas de madera están viniéndose abajo.}
-{22100}{}{unas cajas}
-{22101}{}{No ves nada digno de mención en estas cajas.}
-{22200}{}{unas cajas}
-{22201}{}{Tienes mucho tiempo para observar con detenimiento este montón de desperdicios.}
-{22300}{}{unas cajas}
-{22301}{}{Estas cajas de madera están viniéndose abajo.}
-{22400}{}{un coche}
-{22401}{}{Este automóvil está en muy malas condiciones. No se te ocurre cómo repararlo.}
-{22500}{}{un coche}
+{22000}{}{Cajas}
+{22001}{}{Estas cajas de madera se están deteriorando por las condiciones ambientales.}
+{22100}{}{Cajas}
+{22101}{}{No ves ningún detalle especial en estas cajas de madera.}
+{22200}{}{Cajas}
+{22201}{}{Te sobra el tiempo para observar de cerca esta basura podrida.}
+{22300}{}{Cajas}
+{22301}{}{Estas cajas de madera se están deteriorando por las condiciones ambientales.}
+{22400}{}{Coche}
+{22401}{}{Este automóvil tiene una pinta terrible. No crees que haya forma de repararlo.}
+{22500}{}{Coche}
 {22501}{}{Esta pieza oxidada de metal no puede repararse.}
-{22600}{}{un coche}
+{22600}{}{Coche}
 {22601}{}{Opinas que este vehículo no volverá a caminar.}
-{22700}{}{un coche}
+{22700}{}{Coche}
 {22701}{}{Este coche no podrá volver a conducirse.}
-{22800}{}{un coche}
+{22800}{}{Coche}
 {22801}{}{No podrías arreglar este montón de chatarra aunque el mecánico del año apareciera de repente.}
 {22900}{}{una silla}
 {22901}{}{Una silla cómoda.}
@@ -506,11 +506,11 @@
 {26001}{}{Una puerta de madera elegantemente tallada y en buen estado.}
 {26100}{}{un puerta}
 {26101}{}{Una puerta de madera elegantemente tallada y en buen estado.}
-{26200}{}{un banco}
+{26200}{}{Banco de iglesia}
 {26201}{}{Este banco de madera se está viniendo abajo.}
-{26300}{}{un banco}
+{26300}{}{Banco de iglesia}
 {26301}{}{Este banco ha sido tratado con negligencia y presenta señales de arañazos y golpes.}
-{26400}{}{un banco}
+{26400}{}{Banco de iglesia}
 {26401}{}{Un banco de madera que ha sufrido las inclemencias del tiempo.}
 {26500}{}{una máquina de periódicos}
 {26501}{}{La máquina de periódicos está vacía.}
@@ -532,9 +532,9 @@
 {27301}{}{Un montón de madera descompuesta. No merece la pena pararse por esto.}
 {27400}{}{Vertedero}
 {27401}{}{Un montón de madera con marcas de arañazos.}
-{27500}{}{unas cajas}
+{27500}{}{Cajas}
 {27501}{}{Un montón de cajas viejas. No te explicas cómo han podido durar tanto tiempo.}
-{27600}{}{unas cajas}
+{27600}{}{Cajas}
 {27601}{}{Un montón de cajas viejas.}
 {27700}{}{Vertedero}
 {27701}{}{Algunos desperdicios que crees que han podido ser un colchón antes de ser destruidos por el ambiente.}
@@ -578,9 +578,9 @@
 {29601}{}{Esta farola podría iluminar las zonas oscuras si no estuviera rota.}
 {29700}{}{una farola}
 {29701}{}{Esta farola podría iluminar las zonas oscuras si no estuviera rota.}
-{29800}{}{una señal}
+{29800}{}{Letrero}
 {29801}{}{Esta señal podría indicar el nombre de la calle, pero las letras no se ven.}
-{29900}{}{una señal}
+{29900}{}{Letrero}
 {29901}{}{Esta señal podría indicar el nombre de la calle, pero las letras no se ven.}
 {30000}{}{una mesa}
 {30001}{}{Una mesa de madera que no está en muy buenas condiciones.}
@@ -675,7 +675,7 @@
 {34500}{}{el suelo}
 {34600}{}{un puerta}
 {34601}{}{Una puerta de madera decorada. Obviamente fue diseñada por un diestro artesano.}
-{34700}{}{un banco}
+{34700}{}{Banco de iglesia}
 {34701}{}{Este asiento se apoya en grandes ladrillos. Nada del otro mundo, pero tú quisiste mirarlo.}
 {34800}{}{una escalera}
 {34801}{}{Esta escalera conduce hacia arriba.}
@@ -797,11 +797,11 @@
 {40601}{}{Una puerta de madera en buen estado.}
 {40700}{}{la entrada a la cueva}
 {40701}{}{Una gran cantidad de piedras, muchas más de las que se pueden mover con facilidad.}
-{40800}{}{un coche}
+{40800}{}{Coche}
 {40801}{}{Este coche sumergido no puede repararse.}
-{40900}{}{un coche}
+{40900}{}{Coche}
 {40901}{}{Este coche está algo húmedo y no puede repararse.}
-{41000}{}{un coche}
+{41000}{}{Coche}
 {41001}{}{Este coche ha sido mal aparcado. Por desgracia, necesita una reparación.}
 {41100}{}{Vertedero}
 {41101}{}{Esta chatarra ha sido destrozada por agua de mar contaminada.}
@@ -943,11 +943,11 @@
 {48201}{}{Esta puerta podría ser la de un almacén.}
 {48300}{}{una sonda meteorológica}
 {48301}{}{Esta simple sonda meteorológica le permite a la gente de Arenas Sombrías estudiar el tiempo.}
-{48400}{}{el altar}
+{48400}{}{Altar}
 {48401}{}{Un simple altar hecho con madera pintada.}
 {48500}{}{un podio}
 {48501}{}{Este podio es normal, excepto por el símbolo de los Niños de la Catedral grabado en él.}
-{48600}{}{el altar}
+{48600}{}{Altar}
 {48700}{}{un monitor}
 {48701}{}{Un gran monitor en blanco y negro. La recepción es bastante buena para estar en un lugar cerrado sin antena.}
 {48800}{}{un monitor}
@@ -978,13 +978,13 @@
 {50200}{}{una repisa}
 {50300}{}{una repisa}
 {50400}{}{una repisa}
-{50500}{}{el altar}
+{50500}{}{Altar}
 {50501}{}{Un simple altar hecho con madera pintada.}
-{50600}{}{el altar}
+{50600}{}{Altar}
 {50601}{}{Un simple altar hecho con madera pintada.}
-{50700}{}{el altar}
+{50700}{}{Altar}
 {50701}{}{Un simple altar hecho con madera pintada.}
-{50800}{}{el altar}
+{50800}{}{Altar}
 {50801}{}{Un simple altar hecho con madera pintada.}
 {50900}{}{unos escombros}
 {50901}{}{Una parte destruida del tejado ha formado este montón de escombros. La cuerda te conduce de nuevo a la superficie.}
@@ -1006,13 +1006,13 @@
 {52001}{}{Esta mesa grande parece importante. Puede que tengan reuniones aquí.}
 {52100}{}{una mesa}
 {52101}{}{Esta mesa grande parece importante. Puede que tengan reuniones aquí.}
-{52200}{}{el altar}
+{52200}{}{Altar}
 {52201}{}{Un altar diseñado y utilizado por la Hermandad del Acero. Su símbolo es muy aparente.}
-{52300}{}{el altar}
+{52300}{}{Altar}
 {52301}{}{Un altar diseñado y utilizado por la Hermandad del Acero. Su símbolo es muy aparente.}
-{52400}{}{el altar}
+{52400}{}{Altar}
 {52401}{}{Un altar diseñado y utilizado por la Hermandad del Acero. Su símbolo es muy aparente.}
-{52500}{}{un banco}
+{52500}{}{Banco de iglesia}
 {52501}{}{Un banco bonito pero incómodo.}
 {52600}{}{un podio}
 {52601}{}{Un podio de madera bonito. Hay una pantalla delante que muestra al orador.}
@@ -1612,9 +1612,9 @@
 {82500}{}{el muro}
 {82600}{}{una puerta de banco}
 {82601}{}{A very sturdy bank vault door. The door looks very secure.}
-{82700}{}{una luz}
+{82700}{}{Luz}
 {82701}{}{Una luz de seguridad.}
-{82800}{}{una luz}
+{82800}{}{Luz}
 {82801}{}{Una luz de seguridad.}
 {82900}{}{el pilar}
 {82901}{}{Este pilar es la pieza clave de la historia de Arenas Sombrías. Cuenta historias que inspiran en la gente esperanza y paz.}
@@ -1746,7 +1746,7 @@
 {90501}{}{Esta cama tiene un mecanismo que muestra el progreso de los pacientes.}
 {90600}{}{unas piezas de la Armadura de Energía}
 {90601}{}{Son piezas de un traje de Armadura de Energía.}
-{90700}{}{una luz}
+{90700}{}{Luz}
 {90701}{}{Esta luz de seguridad muestra un color rojo brillante.}
-{90800}{}{una luz}
+{90800}{}{Luz}
 {90801}{}{Esta luz de seguridad muestra un color rojo brillante.}

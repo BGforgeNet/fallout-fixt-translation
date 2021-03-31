@@ -226,7 +226,7 @@
 {3425}{}{Suerte}
 {3426}{}{Puntos de Salud}
 {3427}{}{Puntos de Acción}
-{3428}{}{Daño de Melé}
+{3428}{}{Daño a Melé}
 {3429}{}{Peso Máximo}
 {3430}{}{Secuencia}
 {3431}{}{Ritmo de Curación}

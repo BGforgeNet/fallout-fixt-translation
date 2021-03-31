@@ -27,7 +27,7 @@
 {254}{}{electrical}
 {255}{}{emp}
 {256}{}{explosion}
-{300}{}{Ninguno}
+{300}{}{Nada}
 {301}{}{Cohete}
 {302}{}{Flamer Fuel}
 {303}{}{Célula de Energía C}
@@ -170,5 +170,5 @@
 {902}{}{No puedes hacer eso en combate.}
 {903}{}{Esa persona no hará trueques contigo.}
 {904}{}{Esa persona no tiene nada que decirte.}
-{905}{}{No puedes recoger esto. Llevas ya todo el peso que puedes.}
+{905}{}{No puedes recoger eso. Llevas el máximo peso soportado.}
 {913}{}{Esta criatura es incapaz de llevar nada.}

@@ -73,7 +73,7 @@
 {1116}{}{¿Ya pagaste tu ataúd?}
 {1117}{}{No deberías empezar lo que no puedas terminar.}
 {1118}{}{¡Será mejor que reces a los dioses!}
-{1119}{}{¡Es la hora de morir!}
+{1119}{}{¡Hora de morir!}
 {1120}{}{Esto va a ser fácil}
 {1121}{}{Te veré en el infierno}
 {1122}{}{¡Ja! ¿En serio?}
@@ -128,7 +128,7 @@
 {1215}{}{Tienes los zapatos desatados}
 {1216}{}{Serás comida para los perros}
 {1217}{}{No deberías empezar lo que no puedas terminar.}
-{1218}{}{Espero que mueras lentamente}
+{1218}{}{Espero que no mueras muy rápido.}
 {1219}{}{Solo quedará uno de nosotros}
 {1220}{}{¡Muere!}
 {1221}{}{Me como a los novatos para desayunar}
@@ -176,7 +176,7 @@
 {1305}{}{}
 {1306}{}{Haré que parezcas una galleta machacada}
 {1307}{}{¡Mira! ¡Tienes los cordones desatados!}
-{1308}{}{Espera a que te coja...}
+{1308}{}{Espera a que te atrape...}
 {1309}{}{}
 {1310}{}{Voy a darte una paliza descomunal}
 {1311}{}{}
@@ -249,7 +249,7 @@
 {1419}{}{No dudes ahora}
 {1420}{}{Te enterraré}
 {1421}{}{¡Estás muerto!}
-{1422}{}{¡No me has dado!}
+{1422}{}{¡Has fallado!}
 {1423}{}{No me causa buena impresión}
 {1424}{}{Patético}
 {1425}{}{Eres un lento}
@@ -328,7 +328,7 @@
 {1540}{}{¿Quieres venir aquí y volver a intentarlo?}
 {1541}{}{Supongo que cuando crezcas querrás ser tan bueno como yo}
 {1542}{}{¡Al menos no fue tan feo como tu cara!}
-{1543}{}{¡Auch! ¡Maldita sea!}
+{1543}{}{¡Ouch! ¡Maldición!}
 {1544}{}{¿Dónde está mi pie?}
 {1545}{}{Es solo un rasguño... y algunos huesos rotos}
 {1546}{}{De todas formas, no me hacía falta esa rodilla}
@@ -580,7 +580,7 @@
 {2003}{}{¡Por favor, para!}
 {2004}{}{Vaya, yo no hice nada!}
 {2005}{}{¡No voy a morir por esto!}
-{2006}{}{Espera a que te coja...}
+{2006}{}{Espera a que te atrape...}
 {2007}{}{¿Por qué estás haciendo esto?}
 {2008}{}{¡Eh, tú!}
 {2009}{}{No eres bienvenido aquí.}
@@ -925,7 +925,7 @@
 {2605}{}{¡No voy a morir por esto!}
 {2606}{}{No delante de mis narices...}
 {2607}{}{¡Enterremos a este matón!}
-{2608}{}{¡Es la hora de morir!}
+{2608}{}{¡Hora de morir!}
 {2609}{}{¡No tienes permiso para estar aquí!}
 {2610}{}{Hora de sacar la basura...}
 {2611}{}{Pagarás por tus "pecados"...}
@@ -1026,7 +1026,7 @@
 {2815}{}{¡Ohhh, eso va a doler!}
 {2816}{}{¡Toma normalito!}
 {2817}{}{¡Voy a comerme tu hígado!}
-{2818}{}{Espero que mueras lentamente}
+{2818}{}{Espero que no mueras muy rápido.}
 {2819}{}{¡Hora de comer!}
 {2820}{}{¡Muere!}
 {2821}{}{Me como a los mocosos como tú para desayunar y almorzar. Y cenar.}
@@ -1574,7 +1574,7 @@
 {3708}{}{Hora de vaciar el cargador...}
 {3709}{}{¿Quién te crees que eres?}
 {3710}{}{Hora de enseñar la mercancía}
-{3711}{}{Espera a que te coja...}
+{3711}{}{Espera a que te atrape...}
 {3712}{}{¡Llévate contigo mis balas al infierno!}
 {3713}{}{}
 {3714}{}{}
@@ -1720,7 +1720,7 @@
 {3940}{}{¡Me han dado! ¡Un médico!}
 {3941}{}{Estaré bien, es una herida sin importancia}
 {3942}{}{¡Argh!}
-{3943}{}{¡Auch! ¡Maldita sea!}
+{3943}{}{¡Ouch! ¡Maldición!}
 {3944}{}{¡Ah! Te atraparé}
 {3945}{}{}
 {3946}{}{}
@@ -2984,7 +2984,7 @@
 {6003}{}{¡Por favor, para!}
 {6004}{}{Puede que no fuera una buena idea}
 {6005}{}{¡No voy a morir por esto!}
-{6006}{}{Espera a que te coja...}
+{6006}{}{Espera a que te atrape...}
 {6007}{}{}
 {6008}{}{¡Eh, tú!}
 {6009}{}{¡No queremos gente como tú por aquí!}
@@ -3051,7 +3051,7 @@
 {6108}{}{¡No queremos gente como tú por aquí!}
 {6109}{}{¡Tienes que aprender algo de respeto!}
 {6110}{}{Hora de ganarme la paga...}
-{6111}{}{Espera a que te coja...}
+{6111}{}{Espera a que te atrape...}
 {6112}{}{}
 {6113}{}{}
 {6114}{}{}
@@ -3062,7 +3062,7 @@
 {6119}{}{Punk}
 {6120}{}{¡Llévate contigo mis balas al infierno!}
 {6121}{}{Te voy a dar una buena}
-{6122}{}{Your mama teach you that move?}
+{6122}{}{¿Tú mamá te enseñó a hacer eso?}
 {6123}{}{}
 {6124}{}{No eres lo bastante bueno}
 {6125}{}{Ese fue tu último error}
@@ -3244,7 +3244,7 @@
 {6415}{}{}
 {6416}{}{Serás comida para los perros}
 {6417}{}{Nadie nos va a arrebatar Ciudad Vertedero}
-{6418}{}{Espero que mueras lentamente}
+{6418}{}{Espero que no mueras muy rápido.}
 {6419}{}{}
 {6420}{}{¡Muere!}
 {6421}{}{}
@@ -3302,11 +3302,11 @@
 {6511}{}{Me estás haciendo muy infeliz}
 {6512}{}{Voy a añadir tus rótulas a mi colección}
 {6513}{}{Esto es lo que hago con los mocosos y los perdedores}
-{6514}{}{Voy a divertirme mucho}
+{6514}{}{Voy a disfrutar esto.}
 {6515}{}{¡Ohhh, eso va a doler!}
 {6516}{}{Te has metido con el hombre equivocado}
 {6517}{}{Nadie me va a apartar de Ciudad Vertedero}
-{6518}{}{Espero que mueras lentamente}
+{6518}{}{Espero que no mueras muy rápido.}
 {6519}{}{¡Voy a despedazarte miembro a miembro!}
 {6520}{}{¡Estás muerto!}
 {6521}{}{¡Prueba esto!}
@@ -4112,7 +4112,7 @@
 {7815}{}{¡Esto te va a doler!}
 {7816}{}{Te has metido con el hombre equivocado}
 {7817}{}{Nadie me va a apartar del Eje}
-{7818}{}{Espero que mueras lentamente}
+{7818}{}{Espero que no mueras muy rápido.}
 {7819}{}{¡Nadie se mete con Decker!}
 {7820}{}{¡Muere!}
 {7821}{}{¡Prueba esto!}
@@ -4307,7 +4307,7 @@
 {8124}{}{Fracasado ataque al objetivo. Calculando respuesta}
 {8125}{}{Unidad no dañada en el ataque}
 {8126}{}{Recalculando capacidad de ataque del objetivo}
-{8127}{}{Análisis. El objetivo erró en selección táctica. Unidad sin daños}
+{8127}{}{Análisis. Objetivo errado en selección táctica. Unidad no dañada.}
 {8128}{}{¡Atención, registrado mal funcionamiento de la CPU!}
 {8129}{}{¡Advertencia! ¡CPU dañada! ¡Procesamiento dañado!}
 {8130}{}{¡Advertencia! ¡CPU dañada! ¡Desviando sistemas críticos!}

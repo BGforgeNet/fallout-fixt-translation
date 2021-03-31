@@ -38,7 +38,7 @@
 {148}{}{Vertex Hardware Processing:}
 {149}{}{Shader Version 2.0:}
 {150}{}{Escalado}
-{151}{}{Ninguno}
+{151}{}{Nada}
 {152}{}{Fit}
 {153}{}{Fill}
 {154}{}{Vídeos}

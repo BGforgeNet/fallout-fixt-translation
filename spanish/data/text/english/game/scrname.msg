@@ -16,7 +16,7 @@
 {116}{}{Harry}
 {117}{}{Estimulante}
 {118}{}{una tapa}
-{119}{}{una alcantarilla}
+{119}{}{Alcantarilla}
 {120}{}{unas escalera}
 {121}{}{una silla}
 {122}{}{una máquina de Nuka-Cola}
@@ -25,7 +25,7 @@
 {125}{}{una mesa}
 {126}{}{Cadáver de Necrófago}
 {127}{}{}
-{128}{}{una alcantarilla}
+{128}{}{Alcantarilla}
 {129}{}{unas escalera}
 {130}{}{Gerente Necrófago}
 {131}{}{Mapa Manuscrito}
@@ -155,16 +155,16 @@
 {255}{}{Sala de los Difuntos}
 {256}{}{Gabriel}
 {257}{}{una mesa de dados}
-{258}{}{una alcantarilla}
-{259}{}{una alcantarilla}
+{258}{}{Alcantarilla}
+{259}{}{Alcantarilla}
 {260}{}{unas escalera}
 {261}{}{unas escalera}
 {262}{}{Guardia de la Puerta}
 {263}{}{Guardia de la Ración de Agua}
 {264}{}{Almacén de Agua}
-{265}{}{una alcantarilla}
-{266}{}{una alcantarilla}
-{267}{}{una alcantarilla}
+{265}{}{Alcantarilla}
+{266}{}{Alcantarilla}
+{267}{}{Alcantarilla}
 {268}{}{Ciudadano del Refugio 13}
 {269}{}{unas escalera}
 {270}{}{unas escalera}
@@ -172,9 +172,9 @@
 {272}{}{Andrew}
 {273}{}{Hotel de los Difuntos}
 {274}{}{Lorraine}
-{275}{}{una alcantarilla}
-{276}{}{una alcantarilla}
-{277}{}{una alcantarilla}
+{275}{}{Alcantarilla}
+{276}{}{Alcantarilla}
+{277}{}{Alcantarilla}
 {278}{}{Oficial del Refugio 13}
 {279}{}{unas escalera}
 {280}{}{unas escalera}
@@ -420,8 +420,8 @@
 {520}{}{Refrigerador}
 {521}{}{unas escalera}
 {522}{}{unas escalera}
-{523}{}{una alcantarilla}
-{524}{}{una alcantarilla}
+{523}{}{Alcantarilla}
+{524}{}{Alcantarilla}
 {525}{}{Refugio de Necrópolis}
 {526}{}{Mapa de la Ciudad}
 {527}{}{Puerta de Cámara de Aire}
@@ -491,7 +491,7 @@
 {591}{}{Gran Huella}
 {592}{}{Desguace}
 {593}{}{Rebaño de Brahmines}
-{594}{}{una alcantarilla}
+{594}{}{Alcantarilla}
 {595}{}{unas escalera}
 {596}{}{Viola}
 {597}{}{Surf}
@@ -621,10 +621,10 @@
 {721}{}{QA Tramposo}
 {722}{}{Izo}
 {723}{}{Katja}
-{724}{}{una alcantarilla}
+{724}{}{Alcantarilla}
 {725}{}{unas escalera}
 {726}{}{unas escalera}
-{727}{}{una alcantarilla}
+{727}{}{Alcantarilla}
 {728}{}{una escalera}
 {729}{}{Hueco de Escalera}
 {730}{}{Puerta muy Segura}
@@ -632,9 +632,9 @@
 {732}{}{Estudiante de la Hermandad}
 {733}{}{Thomas}
 {734}{}{Modificar reacción}
-{735}{}{una alcantarilla}
+{735}{}{Alcantarilla}
 {736}{}{unas escalera}
-{737}{}{una alcantarilla}
+{737}{}{Alcantarilla}
 {738}{}{unas escalera}
 {739}{}{Guardia de Gizmo}
 {740}{}{Bandido de los Destripadores}

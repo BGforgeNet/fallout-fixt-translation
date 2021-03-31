@@ -558,52 +558,52 @@
 {5809}{}{, golpeando en un punto sensible}
 {5810}{}{. La criatura está obviamente agitada}
 {5900}{}{, abandonado, el centauro se derrumba aturdido}
-{5901}{}{ mientras golpeas un punto crítico}
+{5901}{}{ el golpe alcanzó un punto crítico}
 {5902}{}{, causando un masivo fallo neurálgico}
 {5903}{}{, aturdiéndolo con tu violento ataque}
-{5904}{}{, destrozando el brazo}
+{5904}{}{, rompiéndole el brazo}
 {5905}{}{ golpeando un punto crítico, y destrozando el brazo}
-{5906}{}{, derribando a la criatura y destrozando la pata}
+{5906}{}{, derribando a la criatura y rompiéndole la pata}
 {5907}{}{, aturdiendo al centauro al tiempo que es derribado con una pata destrozada}
 {5908}{}{, blinding one head and liquefying the other}
-{5909}{}{, sorprendiendo al centauro. Por un momento se tambalea ciego}
-{5910}{}{, sorprendiendo al centauro. Se derrumba en un montón}
-{5911}{}{, sorprendiendo al centauro. Se desmaya en una pila de sustancia pegajosa}
-{5912}{}{. El ataque no ha sido tan eficaz como hubieras querido}
-{6000}{}{, infligiendo algún daño estructural}
+{5909}{}{, sorprendiendo al centauro. Cegado, se tropieza}
+{5910}{}{, sorprendiendo al centauro. Se desploma}
+{5911}{}{, sorprendiendo al centauro. Se desploma en una pila de sustancia pegajosa}
+{5912}{}{. El ataque no fue tan eficaz como podría haber sido}
+{6000}{}{, infligiendo cierto daño estructural}
 {6001}{}{, vuelan chispas y el robot pierde por un momento el control}
-{6002}{}{, golpeando un punto crítico y haciendo que el robot pierda el control}
+{6002}{}{, golpeando un componente crítico y forzando al robot a perder el control}
 {6003}{}{, golpeando un componente crítico y causando un mal funcionamiento masivo}
 {6004}{}{. El robot intenta compensar}
-{6005}{}{. El robot se estira para compensar}
-{6006}{}{, golpeando algún punto clave y causando graves daños}
-{6007}{}{, causando profundos daños estructurales}
+{6005}{}{. El robot se esfuerza en compensar}
+{6006}{}{, golpeando alguna pieza clave y causando graves daños}
+{6007}{}{, provocando graves daños estructurales}
 {6008}{}{, golpeando un componente crítico y causando daños severos}
-{6009}{}{. El robot se estremece con este intenso ataque}
-{6010}{}{, desmantelando el robot}
-{6011}{}{. El robot intenta compensar, pero falla y cae al suelo}
+{6009}{}{. El robot se estremece bajo este intenso ataque}
+{6010}{}{, desmantelando al robot}
+{6011}{}{. El robot intenta compensar el golpe, pero falla, cayendo al suelo}
 {6012}{}{. El robot cede ante la presión, cayendo al suelo}
-{6013}{}{, rompiendo las lentes del sensor}
-{6100}{}{, haciendo caer al chucho al suelo}
+{6013}{}{, rompiendo las lentes de los sensores}
+{6100}{}{, tirando al perro al suelo}
 {6101}{}{, justo en el hocico}
-{6102}{}{. El perro cae al suelo pero todavía respira}
+{6102}{}{. El perro cae, pero todavía sigue respirando}
 {6103}{}{, haciendo toser al animal una chorro de sangre}
-{6104}{}{, destrozando la pata}
-{6105}{}{, destrozando la pata. El animal intenta seguir en pie pero no lo consigue}
-{6106}{}{. El animal ciego aúlla de dolor}
-{6107}{}{, asesinando al pobre animal}
-{6200}{}{, derribando al insecto mutante}
+{6104}{}{, rompiendo su pata}
+{6105}{}{, rompiendo su pata. El animal intenta seguir en pie, pero no lo logra}
+{6106}{}{. El animal cegado aúlla de dolor}
+{6107}{}{, castrando al pobre animal}
+{6200}{}{, derribando al insecto mutado}
 {6201}{}{, que se desploma}
 {6202}{}{. La mantis está pensando si merece la pena vivir}
-{6203}{}{, destrozando el miembro}
+{6203}{}{, rompiéndole la extremidad}
 {6204}{}{, haciendo que la mantis lama sus heridas. Sujeta el miembro de forma extraña}
-{6205}{}{, atravesando el armazón de quitina}
+{6205}{}{, traspasando su caparazón}
 {6206}{}{. La mantis chilla y tiembla horriblemente}
 {6207}{}{, lo que hace que la mantis caiga. Un miembro queda extrañamente retorcido}
-{6208}{}{, haciendo trizas las alas}
+{6208}{}{, triturando sus alas}
 {6209}{}{, atravesando el armazón de quitina y lanzando a la mantis por los aires}
-{6210}{}{, dejando ciego al insecto de un solo golpe}
-{6300}{}{. Incluso esta bestia parece desconcertada por el ataque}
+{6210}{}{, cegando al insecto con un golpe certero}
+{6300}{}{. Incluso esta bestia parece desconcertada por ese impresionante ataque}
 {6301}{}{, pasando las enormes garras para golpear al monstruo. La Garra Mortal se agita y gruñe}
 {6302}{}{. Has causado graves daños en los ojos de la Garra Mortal}
 {6400}{}{, breaking past his bio-organic defenses}
@@ -613,30 +613,31 @@
 {6404}{}{, causing an overload of cataclysmic proportions in his systems}
 {6405}{}{. Still, the attack against him seems to do less damage than it should have}
 {6406}{}{. The blow gets by his bio-organic defenses, actually blinding him}
-{6500}{}{. Mañana tendrás dolor de cabeza, si es que estás vivo.}
-{6501}{}{. Tu armadura no te protege de este golpe}
-{6502}{}{. Sientes dolor por un momento antes de perder el conocimiento.}
-{6503}{}{, atravesando tu armadura. El golpe te hace caer al suelo}
+{6500}{}{. Mañana tendrás dolor de cabeza, si es que aún vives}
+{6501}{}{. Tu armadura no te brinda protección contra este golpe bien dirigido}
+{6502}{}{. Sientes dolor durante un momento, y entonces todo se vuelve oscuro...}
+{6503}{}{, traspasando tu armadura. El golpe te derriba}
 {6504}{}{, el golpe hace que se te oscurezca la visión. Después de un momento, te das cuenta de que no volverás a ver}
-{6505}{}{. Obtienes una bonita vista de tu cuerpo mientras tu cabeza vuela por los aires}
-{6506}{}{. Sorprendentemente, el daño no se siente más de lo normal}
+{6505}{}{. Consigues una bonita vista de tu cuerpo cuando tu cabeza vuela por los aires}
+{6506}{}{. Sorprendentemente, el daño no se siente peor de lo normal.}
 {6507}{}{, aturdiéndote por un momento}
 {6508}{}{. Sientes dolor}
-{6509}{}{. El ataque te deja un brazo inservible}
-{6510}{}{, atravesando tu armadura. El golpe rompe los huesos de tu brazo como si fuera un trozo de madera}
-{6511}{}{, atravesando tu armadura. El brazo ahora te cuelga del costado}
-{6512}{}{. El moretón será precioso y posiblemente la cicatriz te dará mucho de qué hablar}
+{6509}{}{. El ataque te deja el brazo inútil}
+{6510}{}{, traspasando tu armadura. El golpe rompe los huesos de tu brazo como madera seca}
+{6511}{}{, traspasando tu armadura. Tu brazo ahora cuelga inerte}
+{6512}{}{. La contusión se verá bien, y tus cicatrices servirán de tema de conversación}
 {6513}{}{, aplastando tus órganos internos. Todo lo que puedes hacer es escupir sangre}
-{6514}{}{, sending you head over heels}
-{6515}{}{, haciéndote saltar por los aires y rompiéndote una pierna}
-{6516}{}{, derritiendo tu armadura. El golpe te derriba y daña seriamente tu rodilla}
+{6514}{}{, haciéndote caer redondo al suelo}
+{6515}{}{, haciéndote volar y rompiéndote la pierna}
+{6516}{}{, derritiendo tu armadura. El golpe te tira al suelo y daña gravemente tu rodilla}
 {6517}{}{. El dolor de la pierna rota te hace desmayar}
-{6518}{}{. El doloroso golpe te hace retroceder pero nada más}
+{6518}{}{. El doloroso golpe te hace estremecer, pero poco más}
 {6519}{}{. Por desgracia para ti, también produce una inmediata pérdida de visión}
-{6520}{}{. Te lleva un tiempo limpiarte la sangre de los ojos}
-{6521}{}{, traspasa tu armadura. Sigues aturdido y te das cuenta de que no puedes ver}
-{6522}{}{. Sientes una sensación extraña en la cabeza. Te das cuenta de qué se trata de una inminente muerte cerebral}
-{6523}{}{, haciendo que te acobardes}
-{6524}{}{. Te echas mano a la ingle y caes al suelo de dolor}
-{6525}{}{. El dolor es lo bastante fuerte como para hacerte caer.}
+{6520}{}{. Te toma un momento limpiar la sangre de tus ojos}
+{6521}{}{, traspasando tu armadura. Te quedas atónito cuando te das cuenta de que ya no puedes ver
+}
+{6522}{}{. Sientes una extraña sensación en tu cabeza. Te das cuenta de que es una muerte cerebral inminente}
+{6523}{}{, haciéndote temblar}
+{6524}{}{. Te echas las manos a la ingle y caes al suelo retorciéndote de dolor}
+{6525}{}{. El dolor es suficiente para hacer que te derrumbes en el suelo. Ouch}
 {6526}{}{. No hay bastantes palabras en el universo para describir el dolor que sientes en estos momentos}

@@ -9,7 +9,7 @@
 {108}{}{Máximos Puntos de Acción}
 {109}{}{Clase de Armadura}
 {110}{}{Daño Desarmado}
-{111}{}{Daño de Melé}
+{111}{}{Daño a Melé}
 {112}{}{Peso Máximo}
 {113}{}{Secuencia}
 {114}{}{Ritmo de Curación}
@@ -75,15 +75,15 @@
 {236}{}{Nivel de Envenenamiento Actual}
 {237}{}{Nivel de Radiación Actual}
 {301}{}{M.Mal}
-{302}{}{Mal}
+{302}{}{Malo}
 {303}{}{Pobre}
 {304}{}{Justo}
 {305}{}{Medio}
-{306}{}{Bien}
+{306}{}{Bueno}
 {307}{}{M.Bien}
 {308}{}{Genial}
 {309}{}{Exclte}
-{310}{}{Héroe}
+{310}{}{Heroico}
 {400}{}{Puntos de Habilidad No Utilizados}
 {401}{}{Nivel}
 {402}{}{Experiencia}

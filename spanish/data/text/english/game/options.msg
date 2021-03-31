@@ -40,7 +40,7 @@
 {211}{}{Prolijo}
 {212}{}{Breve}
 {213}{}{Solo apuntar}
-{214}{}{Ninguno}
+{214}{}{Nada}
 {215}{}{Minimo}
 {216}{}{Minima sangre}
 {217}{}{8 seconds}

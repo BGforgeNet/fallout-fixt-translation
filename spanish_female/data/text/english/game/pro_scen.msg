@@ -440,19 +440,19 @@
 {22500}{}{Coche}
 {22501}{}{Esta pieza oxidada de metal no puede repararse.}
 {22600}{}{Coche}
-{22601}{}{Opinas que este vehículo no volverá a caminar.}
+{22601}{}{Concluyes que este vehículo no volverá a poder conducirse. Ni de broma.}
 {22700}{}{Coche}
-{22701}{}{Este coche no podrá volver a conducirse.}
+{22701}{}{No hay forma de que esta chatarra pueda volver a poder conducirse de nuevo.}
 {22800}{}{Coche}
-{22801}{}{No podrías arreglar este montón de chatarra aunque el mecánico del año apareciera de repente.}
+{22801}{}{Si el Mecánico del Año apareciera a tu lado, ninguno de los dos podría reparar esta chatarra oxidada.}
 {22900}{}{una silla}
 {22901}{}{Una silla cómoda.}
 {23000}{}{una silla}
 {23001}{}{Parece que esta silla ha vivido mejores momentos.}
 {23100}{}{una silla}
-{23101}{}{Esta silla está mohosa y desvencijada. Seguro que apesta.}
+{23101}{}{Esta silla está mohosa y asquerosa. Como puedes adivinar, también apesta.}
 {23200}{}{una silla}
-{23201}{}{Esta silla se está viniendo abajo.}
+{23201}{}{Esta silla se está cayendo a pedazos. Rápidamente.}
 {23300}{}{una silla}
 {23301}{}{Si alguien te pagara un montón de chapas y pudieras usar refuerzos de acero, te plantearías sentarte en esta silla.}
 {23400}{}{una silla}
@@ -460,15 +460,15 @@
 {23500}{}{una silla}
 {23501}{}{Es una silla de oficina. Podría soportar el peso de una persona.}
 {23600}{}{una silla}
-{23601}{}{Esta silla de oficina ha visto tiempos mejores. Ahora no sirve para nada.}
+{23601}{}{Esta silla de oficina parece que tuvo días mejores. Ahora es básicamente basura.}
 {23700}{}{una silla}
-{23701}{}{Parece la silla de una funeraria - o sea moribunda.}
+{23701}{}{Parece una silla que verías en la oficina de una funeraria: muerta.}
 {23800}{}{una mesa}
 {23900}{}{una mesa}
 {24000}{}{una cómoda}
 {24100}{}{una cómoda}
 {24200}{}{una cómoda}
-{24300}{}{una boca de incendios}
+{24300}{}{Boca de incendios}
 {24301}{}{Es una boca de incendios. Sin extintores en el Refugio puedes necesitar esto.}
 {24400}{}{una farola}
 {24401}{}{Esta farola parece estar en buen estado. Supones que alguien se encarga de su mantenimiento.}
@@ -573,11 +573,11 @@
 {29400}{}{una farola}
 {29401}{}{Esta farola ilumina las calles cuando anochece o cuando no hay demasiada luz.}
 {29500}{}{una farola}
-{29501}{}{Esta farola podría iluminar las zonas oscuras si no estuviera rota.}
+{29501}{}{Esta farola ofrece iluminación al caer la noche, si no estuviera rota.}
 {29600}{}{una farola}
-{29601}{}{Esta farola podría iluminar las zonas oscuras si no estuviera rota.}
+{29601}{}{Esta farola ofrece iluminación al caer la noche, si no estuviera rota.}
 {29700}{}{una farola}
-{29701}{}{Esta farola podría iluminar las zonas oscuras si no estuviera rota.}
+{29701}{}{Esta farola ofrece iluminación al caer la noche, si no estuviera rota.}
 {29800}{}{Letrero}
 {29801}{}{Esta señal podría indicar el nombre de la calle, pero las letras no se ven.}
 {29900}{}{Letrero}
@@ -1747,6 +1747,6 @@
 {90600}{}{unas piezas de la Armadura de Energía}
 {90601}{}{Son piezas de un traje de Armadura de Energía.}
 {90700}{}{Luz}
-{90701}{}{Esta luz de seguridad muestra un color rojo brillante.}
+{90701}{}{Esta luz de seguridad está parpadeando en un rojo brillante.}
 {90800}{}{Luz}
-{90801}{}{Esta luz de seguridad muestra un color rojo brillante.}
+{90801}{}{Esta luz de seguridad está parpadeando en un rojo brillante.}

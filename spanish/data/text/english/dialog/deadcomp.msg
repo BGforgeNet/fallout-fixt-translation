@@ -5,7 +5,7 @@
 {104}{}{Te tropiezas y te cortas las manos con la carcasa. ¡Aaay!}
 {105}{}{Macro$oft (tm) Wyndoze 99 (c) iniciando...   Hecho.            U:\ > }
 {106}{}{DIR}
-{107}{}{EXIT}
+{107}{}{SALIR}
 {108}{}{FALLOUT    <DIR>          10-20-99   1:04p                          0 bytes en 1 archivo, 0 bytes asignados, 4.379.255 bytes libres}
 {109}{}{CD FALLOUT}
 {110}{}{¡Guau! ¡Este juego es increíble!}

@@ -137,7 +137,7 @@
 {980}{DECK_73}{Eso no es importante.}
 {981}{DECK_74}{¿Qué? Eso ahora no importa.}
 {1000}{}{Decker}
-{1001}{}{Clandestinos}
+{1001}{}{Subterráneo}
 {1002}{}{Maltés}
 {1003}{}{Ladrones}
 {1004}{}{Justin}

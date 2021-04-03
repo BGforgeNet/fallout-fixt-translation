@@ -225,13 +225,13 @@
 {3424}{}{Agilidad}
 {3425}{}{Suerte}
 {3426}{}{Puntos de Salud}
-{3427}{}{Puntos de Acción}
+{3427}{}{Ptos. Acción}
 {3428}{}{Daño a Melé}
 {3429}{}{Peso Máximo}
 {3430}{}{Secuencia}
 {3431}{}{Ritmo de Curación}
 {3432}{}{Daño Crítico}
-{3433}{}{Mejores Daños Críticos}
+{3433}{}{Mejores Críticos}
 {3434}{}{Edad}
 {3435}{}{Género}
 {3436}{}{Estadísticas del PC}
@@ -258,7 +258,7 @@
 {3516}{}{Ordenar }
 {3517}{}{Vagón(Rojo)}
 {3518}{}{Vagón(Blanco)}
-{3519}{}{Caja fuerte empotrada}
+{3519}{}{Caja fuerte de suelo}
 {3520}{}{Cofre}
 {3521}{}{Dar Objeto}
 {3600}{}{}

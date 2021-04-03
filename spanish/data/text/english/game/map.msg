@@ -217,10 +217,10 @@
 {282}{}{Entrada}
 {283}{}{Entrada}
 {284}{}{Adytum}
-{285}{}{Clandestinos}
+{285}{}{Subterráneo}
 {286}{}{}
 {287}{}{Biblioteca}
-{288}{}{Clandestinos}
+{288}{}{Subterráneo}
 {289}{}{}
 {290}{}{Entrada}
 {291}{}{Entrada}
@@ -268,7 +268,7 @@
 {333}{}{Centro de la ciudad}
 {334}{}{Centro de la ciudad}
 {335}{}{Almacén}
-{336}{}{Clandestinos}
+{336}{}{Subterráneo}
 {337}{}{}
 {338}{}{Fortaleza}
 {339}{}{Fortaleza}

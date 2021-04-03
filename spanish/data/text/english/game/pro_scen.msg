@@ -1,32 +1,32 @@
-{100}{}{un barril de metal ardiendo}
-{101}{}{El barril contiene papel ardiendo y otro tipo de material en llamas.}
-{200}{}{una puerta de madera}
-{201}{}{Una puerta hecha de madera.}
-{300}{}{una mesa de madera}
-{301}{}{Una mesa hecha de madera.}
-{400}{}{una mesa de madera}
-{401}{}{Una mesa hecha de madera.}
-{500}{}{un barril de metal}
-{501}{}{Un viejo barril hecho de acero.}
-{600}{}{un barril de metal}
-{601}{}{Un viejo barril hecho de acero.}
+{100}{}{Barril metálico con fuego}
+{101}{}{El barril contiene papel y otra basura ardiendo.}
+{200}{}{Puerta de madera}
+{201}{}{Una puerta, hecha de madera.}
+{300}{}{Mesa de madera}
+{301}{}{Una mesa, hecha de madera.}
+{400}{}{Mesa de madera}
+{401}{}{Una mesa, hecha de madera.}
+{500}{}{Barril metálico}
+{501}{}{Un viejo barril, hecho de acero.}
+{600}{}{Barril metálico}
+{601}{}{Un viejo barril, hecho de acero.}
 {700}{}{una pila de neumáticos}
-{701}{}{Una pila de viejos neumáticos de goma. Se han vulcanizado y endurecido, probablemente debido al calor.}
-{800}{}{una puerta de seguridad}
-{801}{}{Esta puerta parece muy segura. Ofrece protección ante los elementos del mundo exterior y ante las criaturas peligrosas.}
-{900}{}{un ordenador}
+{701}{}{Un montón de viejas llantas de caucho. Están vulcanizadas y endurecidas, probablemente por el calor.}
+{800}{}{Puerta de seguridad}
+{801}{}{Esta puerta parece muy segura. Proporciona protección contra elementos del mundo exterior y criaturas peligrosas.}
+{900}{}{Computadora}
 {901}{}{Un terminal de ordenador del Refugio, conectado al ordenador principal del Refugio.}
-{1000}{}{una columna}
-{1001}{}{Una columna de soporte que actúa como sostén de la estructura.}
-{1100}{}{un ordenador}
+{1000}{}{Columna}
+{1001}{}{Una columna de soporte, proporciona alivio estructural a todo el complejo.}
+{1100}{}{Computadora}
 {1101}{}{Un terminal de ordenador del Refugio, conectado al ordenador principal del Refugio.}
-{1200}{}{un ordenador}
+{1200}{}{Computadora}
 {1201}{}{Un terminal de ordenador del Refugio, conectado al ordenador principal del Refugio.}
-{1300}{}{un monitor}
-{1301}{}{Un monitor de pantalla verde que presenta varios bits de datos. De vez en cuando aparecen algunos bytes.}
-{1400}{}{un monitor}
-{1401}{}{Un monitor de pantalla verde que presenta varios bits de datos.}
-{1500}{}{un hologenerador}
+{1300}{}{Monitor}
+{1301}{}{Un monitor de pantalla verde mostrando diversos bits de datos. Algunos bytes aparecen de vez en cuando.}
+{1400}{}{Monitor}
+{1401}{}{Un monitor de pantalla verde mostrando diversos bits de datos.}
+{1500}{}{Holo-generador}
 {1501}{}{Un reproductor de cintas de gran escala de THT Entertainment. No se han creado películas nuevas desde hace 80 años.}
 {1600}{}{una pantalla}
 {1601}{}{Una serie de tres monitores que presentan varios bits de datos.}
@@ -46,9 +46,9 @@
 {2301}{}{Una puerta pesada, construida para soportar todo tipo de golpes.}
 {2400}{}{un pedestal}
 {2401}{}{Estructura hidráulica, diseñada para proporcionar líneas de apoyo, energía y comunicación a la plataforma del Supervisor.}
-{2500}{}{un monitor}
+{2500}{}{Monitor}
 {2501}{}{Cuando has visto un monitor, los has visto todos.}
-{2600}{}{un monitor}
+{2600}{}{Monitor}
 {2601}{}{Un monitor de ordenador que presenta varios bits de datos.}
 {2700}{}{una reja}
 {2701}{}{Una reja de tecnología estándar que actúa como base del pedestal del Supervisor.}
@@ -56,9 +56,9 @@
 {2801}{}{Unas tuberías. Tras un examen riguroso, siguen siendo tuberías.}
 {2900}{}{un respiradero}
 {2901}{}{Un sistema estándar de Ventilación del Refugio de Tecnología.}
-{3000}{}{una columna}
+{3000}{}{Columna}
 {3001}{}{Un sistema estándar de soporte de columnas del Refugio.}
-{3100}{}{una columna}
+{3100}{}{Columna}
 {3101}{}{Un sistema estándar de soporte de columnas del Refugio.}
 {3200}{}{un respiradero}
 {3201}{}{Un sistema estándar de Ventilación del Refugio de Tecnología.}
@@ -82,17 +82,17 @@
 {4101}{}{Es una silla. Lástima que no tengas tiempo para sentarte y relajarte.}
 {4200}{}{una silla}
 {4201}{}{Es una silla. Lástima que no tengas tiempo para sentarte y relajarte.}
-{4300}{}{un monitor}
+{4300}{}{Monitor}
 {4301}{}{Un monitor de ordenador que presenta varios bits de datos.}
-{4400}{}{un monitor}
+{4400}{}{Monitor}
 {4401}{}{Un monitor de ordenador que presenta varios bits de datos.}
-{4500}{}{un monitor}
+{4500}{}{Monitor}
 {4501}{}{Un monitor de ordenador que presenta varios bits de datos.}
-{4600}{}{un monitor}
+{4600}{}{Monitor}
 {4601}{}{Un monitor de ordenador que presenta varios bits de datos.}
-{4700}{}{un monitor}
+{4700}{}{Monitor}
 {4701}{}{Un monitor de ordenador que presenta varios bits de datos.}
-{4800}{}{un monitor}
+{4800}{}{Monitor}
 {4801}{}{Un monitor de ordenador que presenta varios bits de datos.}
 {4900}{}{Marcador de Red de Salida del Mapa}
 {4901}{}{Marcador de Red de Salida del Mapa}
@@ -310,21 +310,21 @@
 {15601}{}{Se trata del interior de un ascensor de la Hermandad. ¡Está muy limpio!}
 {15700}{}{un marcador}
 {15701}{}{Este es el símbolo de la Hermandad del Acero. Esta marca le dice al yermo que ésta es su zona y que hay que marcharse inmediatamente.}
-{15800}{}{un monitor}
+{15800}{}{Monitor}
 {15801}{}{Estás viendo un monitor de ordenador. Está fabricado con tecnología de la Hermandad.}
-{15900}{}{un monitor}
+{15900}{}{Monitor}
 {15901}{}{Estás viendo un monitor de ordenador. Está fabricado con tecnología de la Hermandad.}
-{16000}{}{un ordenador}
+{16000}{}{Computadora}
 {16001}{}{Se trata de un banco de datos de memoria del ordenador. Obviamente tiene tecnología de la Hermandad.}
-{16100}{}{un ordenador}
+{16100}{}{Computadora}
 {16101}{}{Se trata de un banco de datos de memoria del ordenador. Obviamente tiene tecnología de la Hermandad.}
-{16200}{}{un ordenador}
+{16200}{}{Computadora}
 {16201}{}{Un ordenador de alta tecnología que utiliza modernos dispositivos de almacenamiento de bobinas en vez de las anticuadas tarjetas perforadas.}
-{16300}{}{un ordenador}
+{16300}{}{Computadora}
 {16301}{}{Un ordenador de alta tecnología que utiliza modernos dispositivos de almacenamiento de bobinas en vez de las anticuadas tarjetas perforadas.}
-{16400}{}{un monitor}
+{16400}{}{Monitor}
 {16401}{}{Estás viendo un monitor de ordenador. Está fabricado con tecnología de la Hermandad.}
-{16500}{}{un monitor}
+{16500}{}{Monitor}
 {16501}{}{Estás viendo un monitor de ordenador. Está fabricado con tecnología de la Hermandad.}
 {16600}{}{un cable}
 {16601}{}{Una especie de cable de ordenador.}
@@ -332,9 +332,9 @@
 {16701}{}{Una especie de cable de ordenador.}
 {16800}{}{un cable}
 {16801}{}{Una especie de cable de ordenador.}
-{16900}{}{una columna}
+{16900}{}{Columna}
 {16901}{}{Una columna de apoyo.}
-{17000}{}{una columna}
+{17000}{}{Columna}
 {17001}{}{Una columna de apoyo.}
 {17100}{}{el ordenador de la puerta de entrada}
 {17101}{}{This computer controls the large Vault blast door. You have to enter a specific access code for the computer to work.}
@@ -711,7 +711,7 @@
 {36301}{}{Un cuenco de madera elegantemente tallado. Parece servir para triturar y separar granos.}
 {36400}{}{un cuenco}
 {36401}{}{Un cuenco de madera elegantemente tallado.}
-{36500}{}{una vasija}
+{36500}{}{Olla}
 {36501}{}{Una vasija muy bien hecha.}
 {36600}{}{una planta}
 {36601}{}{Crees que se trata de una col mutante. Parece florecer a temperaturas cálidas.}
@@ -725,8 +725,8 @@
 {37001}{}{Una caña de maíz mutante. Parece florecer bajo estas condiciones.}
 {37100}{}{una planta}
 {37101}{}{Una caña de maíz mutante. Parece florecer bajo estas condiciones.}
-{37200}{}{una vasija}
-{37201}{}{Una vasija muy bien hecha.}
+{37200}{}{Olla}
+{37201}{}{Una olla artesanal.}
 {37300}{}{un rastrillo}
 {37301}{}{Este rastrillo es propiedad de sus dueños. No puedes imaginar para qué sirve.}
 {37400}{}{un rastrillo}
@@ -739,11 +739,11 @@
 {37701}{}{Una simple esterilla. Esta claro que el tejedor tenía talento.}
 {37800}{}{una esterilla}
 {37801}{}{Una simple esterilla. Esta claro que el tejedor tenía talento.}
-{37900}{}{una pala}
+{37900}{}{Pala}
 {37901}{}{Esta pala es propiedad de sus dueños. No puedes imaginar para qué sirve.}
-{38000}{}{una pala}
+{38000}{}{Pala}
 {38001}{}{Esta pala es propiedad de sus dueños. No puedes imaginar para qué sirve.}
-{38100}{}{una pala}
+{38100}{}{Pala}
 {38101}{}{Esta pala es propiedad de sus dueños. No puedes imaginar para qué sirve.}
 {38200}{}{un jarrón}
 {38201}{}{Un jarrón de barro muy bonito.}
@@ -773,9 +773,9 @@
 {39401}{}{Este refuerzo ayuda a sostener el muro defensivo.}
 {39500}{}{el refuerzo}
 {39501}{}{Este refuerzo ayuda a sostener el muro defensivo.}
-{39600}{}{un barril de metal}
+{39600}{}{Barril metálico}
 {39601}{}{Un barril de metal oxidado. Está vacío.}
-{39700}{}{un barril de metal}
+{39700}{}{Barril metálico}
 {39701}{}{Por su sonido hueco, parece que este barril está vacío.}
 {39800}{}{un barril de metal}
 {39801}{}{Por su sonido hueco, parece que estos barriles están vacíos.}
@@ -948,9 +948,9 @@
 {48500}{}{un podio}
 {48501}{}{Este podio es normal, excepto por el símbolo de los Niños de la Catedral grabado en él.}
 {48600}{}{Altar}
-{48700}{}{un monitor}
+{48700}{}{Monitor}
 {48701}{}{Un gran monitor en blanco y negro. La recepción es bastante buena para estar en un lugar cerrado sin antena.}
-{48800}{}{un monitor}
+{48800}{}{Monitor}
 {48801}{}{Un gran monitor en blanco y negro. La figura con túnica está recitando un dogma religioso de modo muy fervoroso.}
 {48900}{}{un campo de fuerza}
 {48901}{}{Un potente campo de energía que previene el paso de cualquier cosa, viviente o no.}
@@ -972,12 +972,12 @@
 {49701}{}{Una mesa de madera normal y corriente.}
 {49800}{}{una mesa}
 {49801}{}{Una mesa de madera normal y corriente.}
-{49900}{}{una repisa}
-{50000}{}{una repisa}
-{50100}{}{una repisa}
-{50200}{}{una repisa}
-{50300}{}{una repisa}
-{50400}{}{una repisa}
+{49900}{}{Estante}
+{50000}{}{Estante}
+{50100}{}{Estante}
+{50200}{}{Estante}
+{50300}{}{Estante}
+{50400}{}{Estante}
 {50500}{}{Altar}
 {50501}{}{Un simple altar hecho con madera pintada.}
 {50600}{}{Altar}
@@ -1016,18 +1016,18 @@
 {52501}{}{Un banco bonito pero incómodo.}
 {52600}{}{un podio}
 {52601}{}{Un podio de madera bonito. Hay una pantalla delante que muestra al orador.}
-{52700}{}{un vagón}
-{52701}{}{Un vagón de caravana construido a partir de los restos de un antiguo automóvil.}
-{52800}{}{un vagón}
-{52801}{}{Un vagón de caravana construido a partir de los restos de un antiguo automóvil.}
-{52900}{}{un vagón}
-{52901}{}{Un vagón de caravana construido a partir de los restos de un antiguo automóvil.}
-{53000}{}{un vagón}
-{53001}{}{Un vagón de caravana construido a partir de los restos de un antiguo automóvil.}
-{53100}{}{un vagón}
-{53101}{}{Un vagón de caravana construido a partir de los restos de un antiguo automóvil.}
-{53200}{}{un vagón}
-{53201}{}{Un vagón de caravana construido a partir de los restos de un antiguo automóvil.}
+{52700}{}{Carro}
+{52701}{}{Un carro de mercancías convertido a partir de restos destrozados de un antiguo automóvil.}
+{52800}{}{Carro}
+{52801}{}{Un carro de mercancías convertido a partir de restos destrozados de un antiguo automóvil.}
+{52900}{}{Carro}
+{52901}{}{Un carro de mercancías convertido a partir de restos destrozados de un antiguo automóvil.}
+{53000}{}{Carro}
+{53001}{}{Un carro de mercancías convertido a partir de restos destrozados de un antiguo automóvil.}
+{53100}{}{Carro}
+{53101}{}{Un carro de mercancías convertido a partir de restos destrozados de un antiguo automóvil.}
+{53200}{}{Carro}
+{53201}{}{Un carro de mercancías convertido a partir de restos destrozados de un antiguo automóvil.}
 {53300}{}{una colchoneta}
 {53301}{}{Una colchoneta de ejercicios.}
 {53400}{}{una colchoneta}
@@ -1068,9 +1068,9 @@
 {55101}{}{Este barril de metal vacío tiene el símbolo del trébol nuclear pintado en un lado con pintura amarilla brillante.}
 {55200}{}{un barril}
 {55201}{}{Este barril contiene una especie de sustancia viscosa que reluce. El símbolo del trébol nuclear da una pista sobre lo que puede ser esta sustancia viscosa.}
-{55300}{}{un ordenador}
+{55300}{}{Computadora}
 {55301}{}{Un ordenador de apariencia muy moderna.}
-{55400}{}{un ordenador}
+{55400}{}{Computadora}
 {55401}{}{Un ordenador de apariencia muy moderna.}
 {55500}{}{un tanque de suspensión}
 {55501}{}{Una especie de aparato médico o experimental. Parece tener capacidad para contener un cuerpo humano o el de una criatura grande.}
@@ -1234,11 +1234,11 @@
 {63501}{}{Esta bandera es el símbolo de los Niños de la Catedral.}
 {63600}{}{una bandera}
 {63601}{}{Esta bandera es el símbolo de los Niños de la Catedral.}
-{63700}{}{un ordenador}
+{63700}{}{Computadora}
 {63701}{}{Un gran ordenador.}
-{63800}{}{un ordenador}
+{63800}{}{Computadora}
 {63801}{}{Un gran ordenador.}
-{63900}{}{un ordenador}
+{63900}{}{Computadora}
 {63901}{}{Un gran ordenador.}
 {64000}{}{un terminal}
 {64001}{}{El terminal de un gran ordenador.}
@@ -1342,17 +1342,17 @@
 {68901}{}{Un montón grande de piedras. No se debe a una causa natural.}
 {69000}{}{el váter}
 {69001}{}{Un váter sucio pero muy útil. Se han colocado algunas hojas en el agujero para mitigar el olor.}
-{69100}{}{una montaña}
+{69100}{}{Montaña}
 {69101}{}{Las vertientes de esta montaña parecen bastante inaccesibles.}
-{69200}{}{una montaña}
+{69200}{}{Montaña}
 {69201}{}{Las vertientes de esta montaña parecen bastante inaccesibles.}
-{69300}{}{una montaña}
+{69300}{}{Montaña}
 {69301}{}{Las vertientes de esta montaña parecen bastante inaccesibles.}
-{69400}{}{una montaña}
+{69400}{}{Montaña}
 {69401}{}{Las vertientes de esta montaña parecen bastante inaccesibles.}
-{69500}{}{una montaña}
+{69500}{}{Montaña}
 {69501}{}{Las vertientes de esta montaña parecen bastante inaccesibles.}
-{69600}{}{una montaña}
+{69600}{}{Montaña}
 {69601}{}{Las vertientes de esta montaña parecen bastante inaccesibles.}
 {69700}{}{una mezcla}
 {69701}{}{Ves una sustancia viscosa, extraña y nociva.}
@@ -1458,29 +1458,29 @@
 {74701}{}{Ves una sustancia viscosa, extraña y nociva.}
 {74800}{}{una mezcla}
 {74801}{}{Ves una sustancia viscosa, extraña y nociva.}
-{74900}{}{un ordenador}
+{74900}{}{Computadora}
 {74901}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75000}{}{un ordenador}
+{75000}{}{Computadora}
 {75001}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75100}{}{un ordenador}
+{75100}{}{Computadora}
 {75101}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75200}{}{un ordenador}
+{75200}{}{Computadora}
 {75201}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75300}{}{un ordenador}
+{75300}{}{Computadora}
 {75301}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75400}{}{un ordenador}
+{75400}{}{Computadora}
 {75401}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75500}{}{un ordenador}
+{75500}{}{Computadora}
 {75501}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75600}{}{un ordenador}
+{75600}{}{Computadora}
 {75601}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75700}{}{un ordenador}
+{75700}{}{Computadora}
 {75701}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75800}{}{un ordenador}
+{75800}{}{Computadora}
 {75801}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{75900}{}{un ordenador}
+{75900}{}{Computadora}
 {75901}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
-{76000}{}{un ordenador}
+{76000}{}{Computadora}
 {76001}{}{La cantidad de sustancia viscosa en este ordenador hace muy difícil el acceso.}
 {76100}{}{unos monitores}
 {76101}{}{No puedes leer nada en el monitor debido a la cantidad de sustancia viscosa que hay sobre las pantallas.}
@@ -1563,15 +1563,15 @@
 {80001}{}{Las pantallas en este grupo de monitores han sido destruidas.}
 {80100}{}{unos monitores}
 {80101}{}{Las pantallas en este grupo de monitores han sido dañadas y hay que arreglarlas.}
-{80200}{}{un monitor}
+{80200}{}{Monitor}
 {80201}{}{La pantalla del monitor ha sido golpeada y destruida.}
-{80300}{}{un monitor}
+{80300}{}{Monitor}
 {80301}{}{Este monitor no sirve para nada con la pantalla rota.}
-{80400}{}{un ordenador}
+{80400}{}{Computadora}
 {80401}{}{Este ordenador está roto.}
-{80500}{}{un ordenador}
+{80500}{}{Computadora}
 {80501}{}{Este ordenador está roto.}
-{80600}{}{un ordenador}
+{80600}{}{Computadora}
 {80601}{}{Este ordenador está roto.}
 {80700}{}{una silla}
 {80701}{}{Esta silla está desvencijada.}
@@ -1587,21 +1587,21 @@
 {81201}{}{Este respiradero está muy dañado y no puede ser reparado.}
 {81300}{}{un respiradero}
 {81301}{}{Este respiradero no funciona.}
-{81400}{}{un ordenador}
+{81400}{}{Computadora}
 {81401}{}{Parece que este ordenador funciona mal.}
-{81500}{}{un ordenador}
+{81500}{}{Computadora}
 {81501}{}{Parece que este ordenador funciona mal.}
-{81600}{}{un monitor}
+{81600}{}{Monitor}
 {81601}{}{El monitor apenas funciona.}
-{81700}{}{un monitor}
+{81700}{}{Monitor}
 {81701}{}{El monitor apenas funciona.}
-{81800}{}{un ordenador}
+{81800}{}{Computadora}
 {81801}{}{El ordenador no funciona.}
-{81900}{}{un ordenador}
+{81900}{}{Computadora}
 {81901}{}{El ordenador no funciona.}
-{82000}{}{un monitor}
+{82000}{}{Monitor}
 {82001}{}{El monitor no funciona.}
-{82100}{}{un monitor}
+{82100}{}{Monitor}
 {82101}{}{El monitor no funciona.}
 {82200}{}{el portal}
 {82201}{}{Parece un portal muy bonito. Sostiene muy bien la puerta.}

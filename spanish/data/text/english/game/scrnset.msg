@@ -1,4 +1,4 @@
-{0}{}{PREFERENCIAS}
+{0}{}{PREFERENCIAS DE JUEGO}
 {1}{}{DISPLAY OPTIONS}
 {3}{}{SETTINGS}
 {50}{}{OPCIONES de VISUALIZACIÓN (F1-RES)}
@@ -50,7 +50,7 @@
 {200}{}{Sfall}
 {201}{}{SCALE-TO: RES.}
 {202}{}{MODO DX-9}
-{203}{}{Off}
+{203}{}{No}
 {204}{}{PANTALLA COMPLETA}
 {205}{}{una ventana}
 {206}{}{GPU Blitting}
@@ -62,7 +62,7 @@
 {256}{}{Activar Niebla de Guerra}
 {257}{}{Visibilidad de Niebla}
 {258}{}{Dios}
-{259}{}{Minimo}
+{259}{}{Máximo}
 {300}{}{PRESIONA UNA TECLA o ESC para cancelar.}
 {500}{}{Configuración del Hi-Res Patch.}
 {501}{}{Establece la resolución, modo de color y frecuencia de actualización para el modo de pantalla completa.}

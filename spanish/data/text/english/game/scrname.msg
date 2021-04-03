@@ -59,7 +59,7 @@
 {159}{}{}
 {160}{}{Cámara de Aire de Necrópolis}
 {161}{}{Barry}
-{162}{}{un ordenador}
+{162}{}{Computadora}
 {163}{}{un puerta}
 {164}{}{Bandido Necrófagos}
 {165}{}{Gary}
@@ -107,7 +107,7 @@
 {207}{}{Iniciado de los Niños de la Catedral}
 {208}{}{Curandero de los Niños de la Catedral}
 {209}{}{Centinela Subterráneo}
-{210}{}{un ordenador}
+{210}{}{Computadora}
 {211}{}{Habitación cerrada}
 {212}{}{Desierto}
 {213}{}{Guardia}
@@ -122,7 +122,7 @@
 {222}{}{una estantería}
 {223}{}{Fuente de Fruta}
 {224}{}{una mesa}
-{225}{}{una repisa}
+{225}{}{Estante}
 {226}{}{una mesa}
 {227}{}{Fruta Alterada}
 {228}{}{Olor a corral de Brahmines}
@@ -211,7 +211,7 @@
 {311}{}{Katrina}
 {312}{}{Abertura de Cueva}
 {313}{}{Sistema Central del Refugio 13}
-{314}{}{un ordenador}
+{314}{}{Computadora}
 {315}{}{Sala de Operaciones del Refugio 13}
 {316}{}{Sala de Seguridad del Refugio 13}
 {317}{}{Despensa del Refugio 13}
@@ -243,7 +243,7 @@
 {343}{}{Duc}
 {344}{}{Ciudad}
 {345}{}{Costa}
-{346}{}{una montaña}
+{346}{}{Montaña}
 {347}{}{Hernández}
 {348}{}{Cuevas}
 {349}{}{Miles}
@@ -296,7 +296,7 @@
 {396}{}{Punto caliente de Radiación}
 {397}{}{Persona en una armadura extraña}
 {398}{}{Puerta Segura}
-{399}{}{un ordenador}
+{399}{}{Computadora}
 {400}{}{Puerta Segura}
 {401}{}{Generador}
 {402}{}{la bomba de agua}
@@ -361,16 +361,16 @@
 {461}{}{Radio}
 {462}{}{una señal}
 {463}{}{Puerta muy Segura}
-{464}{}{un ordenador}
+{464}{}{Computadora}
 {465}{}{Cerebrobot}
 {466}{}{Cerebrobot}
 {467}{}{Flip}
-{468}{}{un ordenador}
+{468}{}{Computadora}
 {469}{}{Sargento de los Nocturnos}
 {470}{}{Centinela de los Nocturnos}
-{471}{}{un ordenador}
+{471}{}{Computadora}
 {472}{}{Lenore}
-{473}{}{un ordenador}
+{473}{}{Computadora}
 {474}{}{Perro}
 {475}{}{Lenore}
 {476}{}{Phil}
@@ -415,7 +415,7 @@
 {515}{}{Explorar las Criptas}
 {516}{}{Explorar a los Locos}
 {517}{}{Seguidor del Apocalipsis}
-{518}{}{un ordenador}
+{518}{}{Computadora}
 {519}{}{}
 {520}{}{Refrigerador}
 {521}{}{unas escalera}
@@ -445,7 +445,7 @@
 {545}{}{Niños de la Catedral}
 {546}{}{Refugio del Maestro}
 {547}{}{Refugio del Maestro}
-{548}{}{un ordenador}
+{548}{}{Computadora}
 {549}{}{una cabeza nuclear}
 {550}{}{el ascensor}
 {551}{}{el ascensor}
@@ -542,7 +542,7 @@
 {642}{}{un campo de fuerza}
 {643}{}{un campo de fuerza}
 {644}{}{un campo de fuerza}
-{645}{}{un ordenador}
+{645}{}{Computadora}
 {646}{}{Guardia Supermutante}
 {647}{}{Guardia Supermutante}
 {648}{}{Guardia Supermutante}
@@ -585,7 +585,7 @@
 {685}{}{Habitante del Eje}
 {686}{}{Mercader de Caravanas}
 {687}{}{Oficial de Policía del Eje}
-{688}{}{Niño de las Flores}
+{688}{}{Hippie}
 {689}{}{Jake}
 {690}{}{Paciente de los Niños de la Catedral}
 {691}{}{Smitty}
@@ -604,7 +604,7 @@
 {704}{}{Troy}
 {705}{}{Comerciante de los Mercaderes de Agua}
 {706}{}{Guardia de los Mercaderes de Agua}
-{707}{}{un ordenador}
+{707}{}{Computadora}
 {708}{}{Centinela Supermutante}
 {709}{}{Mercader de Caravanas}
 {710}{}{Atención}
@@ -681,10 +681,10 @@
 {781}{}{Piezas de Granja}
 {782}{}{Prisionero}
 {783}{}{Prisionero}
-{784}{}{un ordenador}
+{784}{}{Computadora}
 {785}{}{Thomas}
 {786}{}{Mascota del Maestro}
-{787}{}{un ordenador}
+{787}{}{Computadora}
 {788}{}{Rae}
 {789}{}{Puerta muy Segura}
 {790}{}{Ayudante del Doctor}
@@ -739,7 +739,7 @@
 {839}{}{un fregadero}
 {840}{}{Pasadizo de la Repugnancia}
 {841}{}{Generador}
-{842}{}{un ordenador}
+{842}{}{Computadora}
 {843}{}{Maletín}
 {844}{}{Holodisk}
 {845}{}{Holodisk}
@@ -790,7 +790,7 @@
 {890}{}{Centinela Necrófago}
 {891}{}{Centinela Necrófago}
 {892}{}{Resplandeciente}
-{893}{}{un ordenador}
+{893}{}{Computadora}
 {894}{}{Granjero}
 {895}{}{Granjero}
 {896}{}{Mercader de Caravanas}
@@ -811,7 +811,7 @@
 {911}{}{Técnico de los Niños de la Catedral}
 {912}{}{Vicioso}
 {913}{}{Caja de Almacenamiento de Raciones de Agua}
-{914}{}{un ordenador}
+{914}{}{Computadora}
 {915}{}{un puerta}
 {916}{}{Julio}
 {917}{}{Líder de la Caravana}
@@ -907,7 +907,7 @@
 {1007}{}{Guardia Regulador}
 {1008}{}{Necrófago}
 {1009}{}{Guardia del Teniente}
-{1010}{}{un ordenador}
+{1010}{}{Computadora}
 {1011}{}{el muro}
 {1012}{}{Mutante Invasor}
 {1013}{}{Guardia Regulador}

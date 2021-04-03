@@ -1,7 +1,7 @@
 {100}{}{CARGAR PARTIDA}
-{101}{}{ESCOGE UNA RANURA DE CARGA RAPIDA}
+{101}{}{ELIGE UNA RANURA DE CARGADO RÁPIDO}
 {102}{}{GUARDAR PARTIDA}
-{103}{}{ESCOGE UNA RANURA DE GUARDADO RAPIDA}
+{103}{}{ELIGE UNA RANURA DE GUARDADO RÁPIDO}
 {104}{}{SELECCIONE}
 {105}{}{CANCELAR}
 {106}{}{Error al cargar lista de partidas guardadas!}
@@ -9,11 +9,11 @@
 {108}{}{No existe o esta corrupto.}
 {109}{}{RANURA DE GUARDADO}
 {110}{}{RANURA DE GUARDADO}
-{111}{}{- VACIO -}
+{111}{}{- VACÍO -}
 {112}{}{- ARCHIVO CORRUPTO -}
-{113}{}{- VERSION ANTIGUA -}
+{113}{}{- VERSIÓN ANTIGUA -}
 {114}{}{This save slot is empty.}
-{115}{}{Error!}
+{115}{}{¡Error!}
 {116}{}{Version antigua.}
 {117}{}{ENE}
 {118}{}{FEB}
@@ -30,11 +30,11 @@
 {129}{}{Nivel}
 {130}{}{DESCRIPCION}
 {131}{}{La partida ya existe! Sobreescribir?}
-{132}{}{Error al guardar partida!}
+{132}{}{¡Error al guardar partida!}
 {133}{}{Imposible guardar partida.}
-{134}{}{Error al cargar partida!}
+{134}{}{¡Error al cargar partida!}
 {135}{}{Imposible cargar partida.}
-{136}{}{El archivo de la partida guardada es una versi¨®n antigua.}
+{136}{}{El archivo de la partida guardada es de una versión antigua.}
 {137}{}{Mapa}
 {140}{}{Partida guardada.}
 {141}{}{Partida cargada.}

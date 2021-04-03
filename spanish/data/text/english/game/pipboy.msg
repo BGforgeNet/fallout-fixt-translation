@@ -1,7 +1,7 @@
 {100}{}{¡Feliz Año Nuevo!}
 {101}{}{¡Feliz Día de San Valentín!}
 {102}{}{Alt+F4 y luego Y activa el Modo Dios}
-{103}{}{¡Feliz Día de Estreno!}
+{103}{}{¡Feliz Día de Envíos Gratis!}
 {104}{}{¡Feliz Día de la Independencia!}
 {105}{}{¡Feliz Halloween!}
 {106}{}{¡Feliz Día de Acción de Gracias!}
@@ -12,7 +12,7 @@
 {203}{}{No hay tareas actuales.}
 {204}{}{PISTAS}
 {205}{}{LOCATION MAPS}
-{206}{}{ARCHIVOS VÍDEO}
+{206}{}{ARCHIVOS DE VÍDEO}
 {207}{}{DATOS}
 {208}{}{}
 {209}{}{}
@@ -36,7 +36,7 @@
 {311}{}{Rest until 12:00}
 {312}{}{Rest until 18:00}
 {313}{}{Rest until 00:00}
-{314}{}{Rest until healed}
+{314}{}{Descansar hasta curarse del todo}
 {400}{}{Disco de Experimentos VEF}
 {401}{}{Ubicación Refugios v34.129}
 {402}{}{Disco Antiguo Hermandad}
@@ -114,7 +114,7 @@
 {733}{}{Rescatar a Sinthia.}
 {734}{}{Salvar a Trish.}
 {735}{}{Detener a Gizmo.}
-{736}{}{Hacer una redada a la banda Kalavera.}
+{736}{}{Acabar con la banda Kalavera.}
 {737}{}{}
 {738}{}{}
 {739}{}{}
@@ -150,7 +150,7 @@
 {769}{}{}
 {770}{}{Hermandad del Acero}
 {771}{}{Convertirse en un Iniciado.}
-{772}{}{Rescatar al Iniciado de El Eje.}
+{772}{}{Rescatar al Iniciado de los Hub.}
 {773}{}{}
 {774}{}{}
 {775}{}{}
@@ -179,10 +179,10 @@
 {798}{}{}
 {799}{}{}
 {800}{}{Cementerio de LA}
-{801}{}{Convertirse en un Navaja.}
-{802}{}{Entregar el Medallón por Romero.}
-{803}{}{Entregar el paquete de los Pistoleros.}
-{804}{}{Encontrar al Niño espía en los Seguidores.}
+{801}{}{Convertirse en un Blade.}
+{802}{}{Entregar el collar para Romero.}
+{803}{}{Entregar el paquete de los Gun Runners.}
+{804}{}{Encontrar al niño espía entre los seguidores.}
 {805}{}{Arreglar las granjas hidropónicas de Adytum.}
 {806}{}{Rescatar a Jason Zimmerman.}
 {807}{}{Evitar que las Bandas ataquen Adytum.}

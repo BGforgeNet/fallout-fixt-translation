@@ -14,7 +14,7 @@
 {113}{}{Secuencia}
 {114}{}{Ritmo de Curación}
 {115}{}{Daño Crítico}
-{116}{}{Mejores Daños Críticos}
+{116}{}{Mejores Críticos}
 {117}{}{Umbral de Daño}
 {118}{}{Umbral de Daño por Láser}
 {119}{}{Umbral de Daño por Fuego}
@@ -52,7 +52,7 @@
 {213}{}{Determina la prioridad que tiene tu personaje para efectuar su turno. Con una Secuencia lo suficientemente alta, se pueden tender emboscadas con efectividad y conseguir dos turnos seguidos.}
 {214}{}{Cuando descansas, te curas esta cantidad de puntos de salud cada cuatro horas.}
 {215}{}{La posibilidad de causar un daño crítico se ve incrementada por esta cantidad. Los Impactos Críticos siempre causan más daño, además de poder, segar, lisiar, dejar sin sentido o matar instantáneamente a tus oponentes.}
-{216}{}{Mejores Daños Críticos}
+{216}{}{Mejores Críticos}
 {217}{}{Umbral de Daño}
 {218}{}{Umbral de Daño por Láser}
 {219}{}{Umbral de Daño por Fuego}

@@ -256,7 +256,7 @@
 {981}{BUTCH112}{Yo... eh... creo que no quiero decírtelo. Sí, eso es.}
 {982}{BUTCH113}{Nunca lo había oído. Debes habértelo inventado o algo así.}
 {1000}{}{Decker}
-{1001}{}{Clandestinos}
+{1001}{}{Subterráneo}
 {1002}{}{Maltés}
 {1003}{}{Ladrones}
 {1004}{}{Justin}

@@ -117,7 +117,7 @@
 {1035}{}{Niños}
 {1036}{}{Hermandad}
 {1037}{}{Tanques}
-{1038}{}{Ejército}
+{1038}{}{Base Militar}
 {1039}{}{Base}
 {1041}{}{Apocalipsis}
 {1042}{}{Mutantes}

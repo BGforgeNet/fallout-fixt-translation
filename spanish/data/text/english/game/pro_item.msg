@@ -436,45 +436,45 @@
 {21801}{}{Negocia esta opción si deseas una curación leve.}
 {21900}{}{Curación Media}
 {21901}{}{Negocia esta opción si deseas una curación media.}
-{22000}{}{Curación Fuerte}
-{22001}{}{Negocia esta opción si deseas una curación fuerte y duradera.}
+{22000}{}{Curación intensa}
+{22001}{}{Comercia con esta opción si quieres muchos cuidados y una curación intensa.}
 {22100}{}{Tarjeta de Seguridad}
 {22101}{}{Una tarjeta maestra con un código de seguridad insertado en su sistema.}
-{22200}{}{Conmutador de Campo}
-{22201}{}{Un dispositivo de transmisión electrónica con una palanca de activación muy sencilla y grande. Parece de fabricación reciente y diseñada para alguien con grandes manos.}
-{22300}{}{Llave de Acceso Amarilla}
+{22200}{}{Interruptor}
+{22201}{}{Un dispositivo electrónico de transmisión, con un simple y gran interruptor. Parece que se creó recientemente y se diseñó para manos muy grandes.}
+{22300}{}{Pase amarillo}
 {22301}{}{Una llave de seguridad electrónica con código de color amarillo.}
 {22400}{}{Pequeña Estatuilla}
 {22401}{}{Crees que se trata de una imagen del "Vault Boy", pero no estás seguro.}
 {22500}{}{No Tienes Ni Idea}
 {22501}{}{Tras un análisis más detallado, sigues sin tener ni idea de lo que se trata.}
-{22600}{}{Paquete de Fideos}
-{22601}{}{No tienes ni idea de lo que significa "Espaguetis Instantáneos".}
-{22700}{}{Caja Oxidada De Alguna Clase}
-{22701}{}{Una comida de televisión. No lo sabes, pero está claro que no es comestible. Y te preguntas si algún día lo fue.}
+{22600}{}{Caja de fideos}
+{22601}{}{No tienes ni idea de lo que significa "Espaguetis instantáneos".}
+{22700}{}{Pequeña caja polvorienta de algo}
+{22701}{}{No estás seguro, pero seguramente no es comestible. No estás totalmente seguro de si alguna vez lo fue.}
 {22800}{}{Manual Técnico}
 {22801}{}{Un manual de referencia y reparación de la Armadura de Energía T-51b. Parece explicar, con largo y aburrido detalle, todo lo que uno pudiera querer saber sobre el reparado, uso y mantenimiento de la Armadura de Energía.}
-{22900}{}{Pieza de Maquinaria}
+{22900}{}{Pequeña pieza de maquinaria}
 {22901}{}{Es un Motivador Sistólico. Esta extraña pieza de maquinaria es muy pequeña pero sorprendentemente pesada para su tamaño. Parece ser de tecnología muy avanzada y no tienes ni idea para que pudiera servir.}
-{23000}{}{Grabaciones del Refugio}
-{23001}{}{Un compendio de acontecimientos y otras grabaciones importantes de un sistema informático del Refugio. Puede estar dañado.}
-{23100}{}{Military Base Security Code}
+{23000}{}{Registros del Refugio}
+{23001}{}{Un compendio de eventos e importantes grabaciones de una computadora de Refugio. Posiblemente dañado.}
+{23100}{}{Código de seguridad de la base militar}
 {23101}{}{Tanto por la seguridad. Recordad niños, nunca anotéis vuestra contraseña.}
-{23200}{}{Armadura de Energía (R)}
+{23200}{}{Servoarmadura mejorada}
 {23201}{}{Una Armadura de Energía T-51b modificada. El proceso químico de refuerzo ha aumentado la capacidad defensiva de esta sofisticada armadura sin limitar la movilidad del portador o la resistencia a la radiación}
-{23300}{}{Rifle Turbo de Plasma}
+{23300}{}{Turbo rifle de plasma}
 {23301}{}{A modified Winchester P94 plasma rifle. The plasma bolt chamber has been hot-wired to accelerate the bolt formation process.       - Min STR: 6}
-{23400}{}{Puño con Pinchos}
+{23400}{}{Nudillera con pinchos}
 {23401}{}{An improved version of the classic Brass Knuckles. The Spiked Knuckles do more damage, tearing into the flesh of your opponent in unarmed combat.       - Min STR: 1.}
-{23500}{}{Puño de Energía}
+{23500}{}{Servopuño}
 {23501}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. Others are just scared.                      - Min STR: 1.               - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
 {23600}{}{Cuchillo de Combate}
 {23601}{}{A high-quality combat knife, the Stallona is from SharpWit, Inc. The edge of this blade is guaranteed sharp for over a decade of use!   - Min STR: 2.}
-{23700}{}{Anales de Química}
-{23701}{}{Una variada selección de literatura del campo de la Química. Los artículos sobre Química Molecular son especialmente interesantes.}
+{23700}{}{Revistas de química}
+{23701}{}{Un montón de literatura relativa al campo de la química. Las revistas de química molecular son particularmente interesantes.}
 {23800}{}{Necrófago}
 {23801}{}{eres un necro hermano}
-{23900}{}{Armad. de la Hermandad}
+{23900}{}{Armadura de la Hermandad}
 {23901}{}{Una versión superior de la Armadura de Combate. Se les es entregada a todos Los Iniciados de la Hermandad del Acero. La Hermandad del Acero ha efectuado mejoras sobre la versión estándar, tanto visual como funcionalmente. Se encuentra en buen estado.}
 {24000}{}{Armadura Tesla}
 {24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of plasma, laser, and electrical energy. Unlike the basic metal armor it strongly resembles, this armor is actually a pre-War military design, and is in good condition.}

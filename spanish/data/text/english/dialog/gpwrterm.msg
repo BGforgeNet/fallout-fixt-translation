@@ -5,24 +5,24 @@
 {104}{}{Gestión del Sistema de Energía}
 {105}{}{Energía Principal}
 {106}{}{Energía de Emergencia}
-{107}{}{ATRÁS}
+{107}{}{VOLVER}
 {108}{}{Gestión de Energía Principal:   INACTIVO}
 {109}{}{Reiniciar Energía Principal}
-{110}{}{ATRÁS}
+{110}{}{VOLVER}
 {111}{}{Gestión de Energía Principal:                                        ¡ERROR! ¡ERROR! ¡ERROR!                                              Fallo al Iniciar el Sistema Principal}
 {112}{}{Diagnosticar}
-{113}{}{ATRÁS}
+{113}{}{VOLVER}
 {114}{}{Fallo:          Generador de Nivel 6                                       0 Retroalimentación: Inoperable                                          Reparación Necesaria}
-{115}{}{ATRÁS}
+{115}{}{VOLVER}
 {116}{}{Gestión Energía de Emergencia:  ACTIVO}
 {117}{}{Desactivar Energía de Emergencia}
-{118}{}{ATRÁS}
+{118}{}{VOLVER}
 {119}{}{Sistema:                                                         Energía Principal:              ACTIVA                           Energía de Emergencia:         EN ESPERA}
 {120}{}{Gestión de Energía}
 {121}{}{Salir.}
 {122}{}{Gestión de Energía Principal:   ACTIVO}
 {123}{}{Desactivar Energía Principal}
-{124}{}{ATRÁS}
+{124}{}{VOLVER}
 {125}{}{Sistema:                                                         Energía Principal:              ACTIVA}
 {126}{}{D*s*ct*v*r E**rgí* Pr*nc*p*l}
 {127}{}{Desactivar Energía Principal}
@@ -30,12 +30,12 @@
 {129}{}{*est*ón d*l S*st*m* d* E**rgí*}
 {130}{}{E**rg*a Pr*nc*p*l}
 {131}{}{E**rg*a d* *m*rg*nc**}
-{132}{}{ATRÁS}
+{132}{}{VOLVER}
 {133}{}{*est*ón E**rgí* Pr*nc*p*l}
 {134}{}{R**n*c**l*z*r E**rgí* Pr*nc*p*l}
-{135}{}{ATRÁS}
+{135}{}{VOLVER}
 {136}{}{*est*ón E**rgí* Pr*nc*p*l                                        ¡*RR*R! ¡*RR*R! ¡*RR*R*!                                              G*n*r*d*r n*c*s*t* r*p*r*c**n}
-{137}{}{ATRÁS}
+{137}{}{VOLVER}
 {138}{}{*est*ón E**rgí* d* *m*r*g*nc**: A*C**V*}
 {139}{}{Sistema:                                                         Energía Principal:              INACTIVA                           Energía de Emergencia:         INACTIVA}
 {140}{}{Activar Energía de Emergencia}
@@ -78,7 +78,7 @@ the Advanced Weapons Research and the Biomedical Sciences divisions.}
 {227}{}{Erin Shellman                                                     Técnico de Laboratorio                                                Autorización seguridad: Azul                                    Ubicado: Base Militar Mariposa}
 {228}{}{Leon VonFelden                                                     Jefe de Investigación del VEF                                                Autorización seguridad: Azul                                    Ubicado: Base Militar Mariposa}
 {229}{}{Descargar Registros a la Pip-Boy 2000}
-{230}{}{ATRÁS}
+{230}{}{VOLVER}
 {231}{}{Armadura de Energía. Especificaciones:                                           La Armadura de Energía de Infantería T-51b se ha diseñado con los elementos de defensa pasiva más innovadores para resolver problemas tanto civiles como militares. }
 {232}{}{VEF Archivo Informativo:                                                     2073. Mientras que China se muestra más agresiva con el uso de sus armas biológicas, el gobierno de Estados Unidos, consideró que era necesaria una contramedida. El 15 de septiembre de 2073 comienza oficialmente el Proyecto de Pan-Inmunidad Vírica (PPV). }
 {233}{}{2075. Se toma conciencia de que la mejor manera de combatir las armas biológicas recientes es alterar el ADN sano para que no pueda ser contagiado por una infección vírica estándar.}

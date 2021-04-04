@@ -487,9 +487,9 @@
 {48700}{}{Suelo de madera}
 {48800}{}{Suelo de madera}
 {48900}{}{Suelo de madera}
-{49000}{}{Porquería}
-{49100}{}{Porquería}
-{49200}{}{Porquería}
+{49000}{}{Basura}
+{49100}{}{Basura}
+{49200}{}{Basura}
 {49300}{}{Tejado}
 {49400}{}{Tejado}
 {49500}{}{Tejado}
@@ -682,7 +682,7 @@
 {68200}{}{Tejado}
 {68300}{}{Tejado}
 {68400}{}{Tejado}
-{68500}{}{el muro}
+{68500}{}{Muro}
 {68600}{}{Tejado}
 {68700}{}{Tejado}
 {68800}{}{Tejado}
@@ -755,16 +755,16 @@
 {75500}{}{Tejado}
 {75600}{}{Tejado}
 {75700}{}{Tejado}
-{75800}{}{Porquería}
-{75900}{}{Porquería}
-{76000}{}{Porquería}
-{76100}{}{Porquería}
-{76200}{}{Porquería}
-{76300}{}{Porquería}
-{76400}{}{Porquería}
-{76500}{}{Porquería}
-{76600}{}{Porquería}
-{76700}{}{Porquería}
+{75800}{}{Basura}
+{75900}{}{Basura}
+{76000}{}{Basura}
+{76100}{}{Basura}
+{76200}{}{Basura}
+{76300}{}{Basura}
+{76400}{}{Basura}
+{76500}{}{Basura}
+{76600}{}{Basura}
+{76700}{}{Basura}
 {76800}{}{}
 {76900}{}{}
 {77000}{}{}

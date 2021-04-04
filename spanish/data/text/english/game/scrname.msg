@@ -17,8 +17,8 @@
 {117}{}{Estimulante}
 {118}{}{una tapa}
 {119}{}{Alcantarilla}
-{120}{}{unas escalera}
-{121}{}{una silla}
+{120}{}{Escalera}
+{121}{}{Silla}
 {122}{}{una máquina de Nuka-Cola}
 {123}{}{Mesa del Encargado}
 {124}{}{Cadáver}
@@ -26,7 +26,7 @@
 {126}{}{Cadáver de Necrófago}
 {127}{}{}
 {128}{}{Alcantarilla}
-{129}{}{unas escalera}
+{129}{}{Escalera}
 {130}{}{Gerente Necrófago}
 {131}{}{Mapa Manuscrito}
 {132}{}{Necrófago}
@@ -60,7 +60,7 @@
 {160}{}{Cámara de Aire de Necrópolis}
 {161}{}{Barry}
 {162}{}{Computadora}
-{163}{}{un puerta}
+{163}{}{Puerta}
 {164}{}{Bandido Necrófagos}
 {165}{}{Gary}
 {166}{}{Necrófago}
@@ -85,15 +85,15 @@
 {185}{}{Supermutante}
 {186}{}{Ordenador de Agua}
 {187}{}{la bomba de agua}
-{188}{}{el muro}
+{188}{}{Muro}
 {189}{}{Prisionero Necrófago}
 {190}{}{Sally}
 {191}{}{Grafiti}
 {192}{}{Nevera de Set}
 {193}{}{Mesa de Set}
-{194}{}{un puerta}
+{194}{}{Puerta}
 {195}{}{Guardaespaldas de Set}
-{196}{}{el muro}
+{196}{}{Muro}
 {197}{}{Olor extraño}
 {198}{}{Estimulante}
 {199}{}{Despensa de Necrópolis}
@@ -113,7 +113,7 @@
 {213}{}{Guardia}
 {214}{}{Cocinero de Arenas Sombrías}
 {215}{}{Ciudadano de Arenas Sombrías}
-{216}{}{una silla}
+{216}{}{Silla}
 {217}{}{Cama de Agatha}
 {218}{}{Cama de Razlo}
 {219}{}{Mujer de Razlo}
@@ -157,8 +157,8 @@
 {257}{}{una mesa de dados}
 {258}{}{Alcantarilla}
 {259}{}{Alcantarilla}
-{260}{}{unas escalera}
-{261}{}{unas escalera}
+{260}{}{Escalera}
+{261}{}{Escalera}
 {262}{}{Guardia de la Puerta}
 {263}{}{Guardia de la Ración de Agua}
 {264}{}{Almacén de Agua}
@@ -166,9 +166,9 @@
 {266}{}{Alcantarilla}
 {267}{}{Alcantarilla}
 {268}{}{Ciudadano del Refugio 13}
-{269}{}{unas escalera}
-{270}{}{unas escalera}
-{271}{}{unas escalera}
+{269}{}{Escalera}
+{270}{}{Escalera}
+{271}{}{Escalera}
 {272}{}{Andrew}
 {273}{}{Hotel de los Difuntos}
 {274}{}{Lorraine}
@@ -176,9 +176,9 @@
 {276}{}{Alcantarilla}
 {277}{}{Alcantarilla}
 {278}{}{Oficial del Refugio 13}
-{279}{}{unas escalera}
-{280}{}{unas escalera}
-{281}{}{unas escalera}
+{279}{}{Escalera}
+{280}{}{Escalera}
+{281}{}{Escalera}
 {282}{}{Cuevas de los Escorpiones Rad}
 {283}{}{Seth}
 {284}{}{Médico del Refugio 13}
@@ -197,10 +197,10 @@
 {297}{}{Seth}
 {298}{}{Escriba de la Hermandad}
 {299}{}{Refugio 13}
-{300}{}{el ascensor}
-{301}{}{el ascensor}
-{302}{}{el ascensor}
-{303}{}{el ascensor}
+{300}{}{Ascensor}
+{301}{}{Ascensor}
+{302}{}{Ascensor}
+{303}{}{Ascensor}
 {304}{}{Ascensor Roto}
 {305}{}{Entrada a la Hermandad del Acero}
 {306}{}{Comedero de ratas}
@@ -221,10 +221,10 @@
 {321}{}{Guardia de Ciudad Vertedero}
 {322}{}{}
 {323}{}{Bengala}
-{324}{}{el ascensor}
-{325}{}{el ascensor}
-{326}{}{el ascensor}
-{327}{}{el ascensor}
+{324}{}{Ascensor}
+{325}{}{Ascensor}
+{326}{}{Ascensor}
+{327}{}{Ascensor}
 {328}{}{Refugio 15}
 {329}{}{Perro}
 {330}{}{Guardia Necrófago}
@@ -288,7 +288,7 @@
 {388}{}{Jon}
 {389}{}{Prisionero}
 {390}{}{Escriba de la Hermandad}
-{391}{}{unas escalera}
+{391}{}{Escalera}
 {392}{}{Cuerpo Carbonizado}
 {393}{}{Huesos Secos}
 {394}{}{Persona en una armadura extraña}
@@ -340,7 +340,7 @@
 {440}{}{Depósito Seguro}
 {441}{}{Bob}
 {442}{}{Trish}
-{443}{}{una puerta del Refugio 13}
+{443}{}{Puerta del Refugio 13}
 {444}{}{Puerta al Ordenador}
 {445}{}{Disco de Experimentos Alfa}
 {446}{}{Disco de Experimentos Delta}
@@ -418,8 +418,8 @@
 {518}{}{Computadora}
 {519}{}{}
 {520}{}{Refrigerador}
-{521}{}{unas escalera}
-{522}{}{unas escalera}
+{521}{}{Escalera}
+{522}{}{Escalera}
 {523}{}{Alcantarilla}
 {524}{}{Alcantarilla}
 {525}{}{Refugio de Necrópolis}
@@ -447,13 +447,13 @@
 {547}{}{Refugio del Maestro}
 {548}{}{Computadora}
 {549}{}{una cabeza nuclear}
-{550}{}{el ascensor}
-{551}{}{el ascensor}
+{550}{}{Ascensor}
+{551}{}{Ascensor}
 {552}{}{Hueco de Escalera}
 {553}{}{una escalera}
 {554}{}{una escalera}
 {555}{}{Hueco de Escalera}
-{556}{}{un puerta}
+{556}{}{Puerta}
 {557}{}{Cuevas}
 {558}{}{Refugio 13}
 {559}{}{Puerta Segura}
@@ -461,15 +461,15 @@
 {561}{}{Ladrón de Agua}
 {562}{}{Jennifer}
 {563}{}{Explosión}
-{564}{}{una silla}
+{564}{}{Silla}
 {565}{}{Muro de la Cueva}
-{566}{}{el ascensor}
-{567}{}{el ascensor}
-{568}{}{el ascensor}
-{569}{}{el ascensor}
-{570}{}{el ascensor}
-{571}{}{el ascensor}
-{572}{}{el ascensor}
+{566}{}{Ascensor}
+{567}{}{Ascensor}
+{568}{}{Ascensor}
+{569}{}{Ascensor}
+{570}{}{Ascensor}
+{571}{}{Ascensor}
+{572}{}{Ascensor}
 {573}{}{Barfly}
 {574}{}{Refugio 15}
 {575}{}{Camión de Nuka-Cola}
@@ -492,10 +492,10 @@
 {592}{}{Desguace}
 {593}{}{Rebaño de Brahmines}
 {594}{}{Alcantarilla}
-{595}{}{unas escalera}
+{595}{}{Escalera}
 {596}{}{Viola}
 {597}{}{Surf}
-{598}{}{un puerta}
+{598}{}{Puerta}
 {599}{}{Dane}
 {600}{}{Jonathan}
 {601}{}{Estudiante de la Hermandad}
@@ -516,11 +516,11 @@
 {616}{}{Base Militar}
 {617}{}{}
 {618}{}{Lars}
-{619}{}{el ascensor}
-{620}{}{el ascensor}
-{621}{}{el ascensor}
-{622}{}{el ascensor}
-{623}{}{el ascensor}
+{619}{}{Ascensor}
+{620}{}{Ascensor}
+{621}{}{Ascensor}
+{622}{}{Ascensor}
+{623}{}{Ascensor}
 {624}{}{Soldado Supermutante}
 {625}{}{Sargento Supermutante}
 {626}{}{Puerta muy Segura}
@@ -622,8 +622,8 @@
 {722}{}{Izo}
 {723}{}{Katja}
 {724}{}{Alcantarilla}
-{725}{}{unas escalera}
-{726}{}{unas escalera}
+{725}{}{Escalera}
+{726}{}{Escalera}
 {727}{}{Alcantarilla}
 {728}{}{una escalera}
 {729}{}{Hueco de Escalera}
@@ -633,9 +633,9 @@
 {733}{}{Thomas}
 {734}{}{Modificar reacción}
 {735}{}{Alcantarilla}
-{736}{}{unas escalera}
+{736}{}{Escalera}
 {737}{}{Alcantarilla}
-{738}{}{unas escalera}
+{738}{}{Escalera}
 {739}{}{Guardia de Gizmo}
 {740}{}{Bandido de los Destripadores}
 {741}{}{Disco de Transmisiones Supermutantes}
@@ -772,7 +772,7 @@
 {872}{}{Guardia Vree}
 {873}{}{Guardia de Maxson}
 {874}{}{Jeremiah}
-{875}{}{un puerta}
+{875}{}{Puerta}
 {876}{}{Puerta Sólida}
 {877}{}{Caravana viajando}
 {878}{}{Mercader de Caravanas}
@@ -797,22 +797,22 @@
 {897}{}{Mercader de Caravanas}
 {898}{}{Mercader de Caravanas}
 {899}{}{Mercader de Caravanas}
-{900}{}{un puerta}
-{901}{}{un puerta}
+{900}{}{Puerta}
+{901}{}{Puerta}
 {902}{}{una colchoneta}
 {903}{}{Luke}
 {904}{}{John}
-{905}{}{un puerta}
+{905}{}{Puerta}
 {906}{}{Biblioteca}
 {907}{}{Habitación Alquilada}
-{908}{}{un puerta}
+{908}{}{Puerta}
 {909}{}{una mesa}
 {910}{}{una estantería}
 {911}{}{Técnico de los Niños de la Catedral}
 {912}{}{Vicioso}
 {913}{}{Caja de Almacenamiento de Raciones de Agua}
 {914}{}{Computadora}
-{915}{}{un puerta}
+{915}{}{Puerta}
 {916}{}{Julio}
 {917}{}{Líder de la Caravana}
 {918}{}{una estantería}
@@ -850,7 +850,7 @@
 {950}{}{Patrullera Supermutante}
 {951}{}{Caja Fuerte}
 {952}{}{Refrigerador}
-{953}{}{un puerta}
+{953}{}{Puerta}
 {954}{}{Patrullera Supermutante}
 {955}{}{Fango tóxico}
 {956}{}{Extraño Misterioso}
@@ -870,12 +870,12 @@
 {970}{}{George}
 {971}{}{Rick}
 {972}{}{Caja Fuerte}
-{973}{}{un puerta}
-{974}{}{un puerta}
+{973}{}{Puerta}
+{974}{}{Puerta}
 {975}{}{Emisor de Campo de Fuerza}
 {976}{}{un campo de fuerza}
 {977}{}{Nevera}
-{978}{}{un puerta}
+{978}{}{Puerta}
 {979}{}{un campo de fuerza}
 {980}{}{Emisor de Campo de Fuerza}
 {981}{}{un campo de fuerza}
@@ -889,7 +889,7 @@
 {989}{}{}
 {990}{}{Lenore}
 {991}{}{Bob}
-{992}{}{un puerta}
+{992}{}{Puerta}
 {993}{}{un campo de fuerza}
 {994}{}{Emisor de Campo de Fuerza}
 {995}{}{un campo de fuerza}
@@ -908,7 +908,7 @@
 {1008}{}{Necrófago}
 {1009}{}{Guardia del Teniente}
 {1010}{}{Computadora}
-{1011}{}{el muro}
+{1011}{}{Muro}
 {1012}{}{Mutante Invasor}
 {1013}{}{Guardia Regulador}
 {1014}{}{Ayudante Fry}
@@ -929,7 +929,7 @@
 {1029}{}{una caja}
 {1030}{}{una caja}
 {1031}{}{Emisor de Campo de Fuerza}
-{1032}{}{un puerta}
+{1032}{}{Puerta}
 {1033}{}{Taquilla}
 {1034}{}{}
 {1035}{}{Irwin}
@@ -955,7 +955,7 @@
 {1055}{}{Regulator Transmissions}
 {1056}{}{Prisionero}
 {1057}{}{Seguidores}
-{1058}{}{un puerta}
+{1058}{}{Puerta}
 {1059}{}{Emisor de Campo de Fuerza Dañado}
 {1060}{}{}
 {1061}{}{Objeto del Tramposo}

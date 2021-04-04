@@ -3,7 +3,7 @@
 {101}{}{Metal}
 {102}{}{Plástico}
 {103}{}{Madera}
-{104}{}{Porquería}
+{104}{}{Basura}
 {105}{}{Piedra}
 {106}{}{Cemento}
 {107}{}{Cuero}
@@ -16,7 +16,7 @@
 {156}{}{Llave}
 {200}{}{Portal}
 {201}{}{Escaleras}
-{202}{}{el ascensor}
+{202}{}{Ascensor}
 {203}{}{Base de Escalera}
 {204}{}{Final de Escalera}
 {205}{}{Escenario Genérico}

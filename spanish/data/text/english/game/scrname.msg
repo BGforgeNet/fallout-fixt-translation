@@ -19,7 +19,7 @@
 {119}{}{Alcantarilla}
 {120}{}{Escalera}
 {121}{}{Silla}
-{122}{}{una máquina de Nuka-Cola}
+{122}{}{Máquina de Nuka-Cola}
 {123}{}{Mesa del Encargado}
 {124}{}{Cadáver}
 {125}{}{una mesa}

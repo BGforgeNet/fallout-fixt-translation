@@ -297,19 +297,19 @@
 {15000}{}{Cristal blindado}
 {15001}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
 {15100}{}{Puerta}
-{15101}{}{Esta puerta está construida con la más alta tecnología. Se abre por dilatación a la vez que se giran las tres piezas que componen la puerta.}
+{15101}{}{Esta puerta es una pieza de construcción de alta tecnología. Se abre por dilatación a medida que rotan las tres piezas que la forman.}
 {15200}{}{Puerta}
-{15201}{}{Esta puerta está construida con la más alta tecnología. Se abre por dilatación a la vez que se giran las tres piezas que componen la puerta.}
+{15201}{}{Esta puerta es una pieza de construcción de alta tecnología. Se abre por dilatación a medida que rotan las tres piezas que la forman.}
 {15300}{}{Puerta}
-{15301}{}{Esta puerta está engalanada con el símbolo de la Hermandad del Acero.}
+{15301}{}{Esta puerta está adornada con el símbolo de la Hermandad del Acero.}
 {15400}{}{Puerta}
-{15401}{}{Esta puerta está engalanada con el símbolo de la Hermandad del Acero.}
+{15401}{}{Esta puerta está adornada con el símbolo de la Hermandad del Acero.}
 {15500}{}{Ascensor}
-{15501}{}{Se trata del interior de un ascensor de la Hermandad. ¡Está muy limpio!}
+{15501}{}{Este es el interior del elevador de la Hermandad. ¡Está absolutamente limpio!}
 {15600}{}{Ascensor}
-{15601}{}{Se trata del interior de un ascensor de la Hermandad. ¡Está muy limpio!}
-{15700}{}{un marcador}
-{15701}{}{Este es el símbolo de la Hermandad del Acero. Esta marca le dice al yermo que ésta es su zona y que hay que marcharse inmediatamente.}
+{15601}{}{Este es el interior del elevador de la Hermandad. ¡Está absolutamente limpio!}
+{15700}{}{Marca}
+{15701}{}{Este es el símbolo de la Hermandad del Acero. Esta marca le dice al Yermo que es su territorio, y que hay que marcharse inmediatamente.}
 {15800}{}{Monitor}
 {15801}{}{Estás viendo un monitor de ordenador. Está fabricado con tecnología de la Hermandad.}
 {15900}{}{Monitor}
@@ -319,36 +319,36 @@
 {16100}{}{Computadora}
 {16101}{}{Se trata de un banco de datos de memoria del ordenador. Obviamente tiene tecnología de la Hermandad.}
 {16200}{}{Computadora}
-{16201}{}{Un ordenador de alta tecnología que utiliza modernos dispositivos de almacenamiento de bobinas en vez de las anticuadas tarjetas perforadas.}
+{16201}{}{Una computadora de alta tecnología. Usa un moderno dispositivo de almacenamiento de bobina magnética en lugar del anticuado sistema de tarjetas perforadas.}
 {16300}{}{Computadora}
-{16301}{}{Un ordenador de alta tecnología que utiliza modernos dispositivos de almacenamiento de bobinas en vez de las anticuadas tarjetas perforadas.}
+{16301}{}{Una computadora de alta tecnología. Usa un moderno dispositivo de almacenamiento de bobina magnética en lugar del anticuado sistema de tarjetas perforadas.}
 {16400}{}{Monitor}
 {16401}{}{Estás viendo un monitor de ordenador. Está fabricado con tecnología de la Hermandad.}
 {16500}{}{Monitor}
 {16501}{}{Estás viendo un monitor de ordenador. Está fabricado con tecnología de la Hermandad.}
-{16600}{}{un cable}
-{16601}{}{Una especie de cable de ordenador.}
-{16700}{}{un cable}
-{16701}{}{Una especie de cable de ordenador.}
-{16800}{}{un cable}
-{16801}{}{Una especie de cable de ordenador.}
+{16600}{}{Cable}
+{16601}{}{Algún tipo de cableado de computadora.}
+{16700}{}{Cable}
+{16701}{}{Algún tipo de cableado de computadora.}
+{16800}{}{Cable}
+{16801}{}{Algún tipo de cableado de computadora.}
 {16900}{}{Columna}
-{16901}{}{Una columna de apoyo.}
+{16901}{}{Una columna de soporte.}
 {17000}{}{Columna}
-{17001}{}{Una columna de apoyo.}
-{17100}{}{el ordenador de la puerta de entrada}
+{17001}{}{Una columna de soporte.}
+{17100}{}{Computadora de acceso}
 {17101}{}{This computer controls the large Vault blast door. You have to enter a specific access code for the computer to work.}
-{17200}{}{el cartel del Casino}
-{17201}{}{Parece un anuncio del Casino de Gizmo.}
+{17200}{}{Cartel de Casino}
+{17201}{}{Parece publicidad del Casino de Gizmo.}
 {17300}{}{Vault 13 Blast Door}
 {17301}{}{Esta gran puerta es la conexión entre el Refugio y el mundo exterior. Es demasiado grande para abrirse manualmente. Utiliza el terminal de entrada.}
 {17400}{}{Vault 13 Blast Door}
 {17401}{}{Esta gran puerta es la conexión entre el Refugio y el mundo exterior.}
-{17500}{}{el cartel del Casino}
-{17501}{}{Esta parte del cartel contiene un motor eléctrico que hace girar lentamente el rótulo de neón.}
-{17600}{}{una flecha hacia abajo}
+{17500}{}{Cartel de Casino}
+{17501}{}{Esta parte del cartel contiene un motor eléctrico que hace girar lentamente la sección del neón.}
+{17600}{}{Flecha abajo}
 {17601}{}{Tus agudas aptitudes para la percepción y la deducción concluyen que este ascensor está bajando.}
-{17700}{}{una flecha hacia arriba}
+{17700}{}{Flecha arriba}
 {17701}{}{Tus agudas aptitudes para la percepción y la deducción concluyen que este ascensor está subiendo.}
 {17800}{}{un cajón}
 {17801}{}{Un contenedor de almacenaje y transporte de aspecto caro, probablemente hecho a partir de un compuesto de alta tecnología, con el emblema de la Hermandad del Acero estampado en él.}
@@ -356,33 +356,33 @@
 {17901}{}{Un contenedor de almacenaje y transporte de aspecto caro, probablemente hecho a partir de un compuesto de alta tecnología, con el emblema de la Hermandad del Acero estampado en él.}
 {18000}{}{un cajón}
 {18001}{}{Un contenedor de almacenaje y transporte de aspecto caro, probablemente hecho a partir de un compuesto de alta tecnología, con el emblema de la Hermandad del Acero estampado en él.}
-{18100}{}{el techo del ascensor}
-{18101}{}{Estás viendo una parte del ascensor.}
-{18200}{}{una consola de ordenador}
+{18100}{}{Parte superior de elevador}
+{18101}{}{Estás viendo una parte de un elevador.}
+{18200}{}{Consola de Computadora}
 {18201}{}{Es un terminal mudo, conectado a un gran ordenador mediante un cable. Es tecnología de la Hermandad.}
-{18300}{}{una consola de ordenador}
+{18300}{}{Consola de Computadora}
 {18301}{}{Es un terminal mudo, conectado a un gran ordenador mediante un cable. Es tecnología de la Hermandad.}
-{18400}{}{el emblema}
-{18401}{}{El símbolo de la Hermandad. Los aparejos representan su conocimiento de ingeniería, la espada es su voluntad de defenderse y las alas son la esperanza.}
-{18500}{}{el emblema}
-{18501}{}{El símbolo de la Hermandad. Los aparejos representan su conocimiento de ingeniería, la espada es su voluntad de defenderse y las alas son la esperanza.}
-{18600}{}{la señal del Nivel Uno}
+{18400}{}{Emblema}
+{18401}{}{El símbolo de la Hermandad. La rueda representa su conocimiento en ingeniería, la espada es su voluntad de defenderse a sí mismos, y las alas son la esperanza de fortalecimiento.}
+{18500}{}{Emblema}
+{18501}{}{El símbolo de la Hermandad. La rueda representa su conocimiento en ingeniería, la espada es su voluntad de defenderse a sí mismos, y las alas son la esperanza de fortalecimiento.}
+{18600}{}{Cartel de nivel 'uno'}
 {18601}{}{Crees que esto puede significar que estás en el primer nivel de la Hermandad.}
-{18700}{}{la señal del Nivel Dos}
+{18700}{}{Cartel de nivel 'dos'}
 {18701}{}{Estás en el segundo nivel de la Hermandad.}
-{18800}{}{la señal del Nivel Tres}
+{18800}{}{Cartel de nivel 'tres'}
 {18801}{}{Esto debe significar que estás en el tercer nivel de la Hermandad.}
-{18900}{}{la señal del Nivel Cuatro}
+{18900}{}{Cartel de nivel 'cuatro'}
 {18901}{}{Debes de estar en el nivel cuatro de la Hermandad.}
-{19000}{}{una litera}
+{19000}{}{Litera}
 {19001}{}{Una litera de estilo militar. Debe de ser muy incómoda. Las sábanas están tan tensas que podrías hacer rebotar una moneda sobre ellas.}
-{19100}{}{una litera}
+{19100}{}{Litera}
 {19101}{}{Una litera de estilo militar. Debe de ser muy incómoda. Las sábanas están tan tensas que podrías hacer rebotar una moneda sobre ellas.}
-{19200}{}{una litera}
+{19200}{}{Litera}
 {19201}{}{Una litera de estilo militar. Debe de ser muy incómoda. Las sábanas están tan tensas que podrías hacer rebotar una moneda sobre ellas.}
 {19300}{}{un cajón}
 {19301}{}{Un contenedor de almacenaje y transporte de aspecto caro, probablemente hecho a partir de un compuesto de alta tecnología, con el emblema de la Hermandad del Acero estampado en él.}
-{19400}{}{una máquina de Nuka-Cola}
+{19400}{}{Máquina de Nuka-Cola}
 {19401}{}{Está rota. Qué decepción.}
 {19500}{}{Muro}
 {19600}{}{un escotillón}
@@ -469,20 +469,20 @@
 {24100}{}{una cómoda}
 {24200}{}{una cómoda}
 {24300}{}{Boca de incendios}
-{24301}{}{Es una boca de incendios. Sin extintores en el Refugio puedes necesitar esto.}
-{24400}{}{una farola}
-{24401}{}{Esta farola parece estar en buen estado. Supones que alguien se encarga de su mantenimiento.}
-{24500}{}{una farola}
-{24501}{}{Esta farola no volverá a funcionar.}
-{24600}{}{una farola}
-{24601}{}{Es una farola que funciona. Por la noche, emite una luz tenue que no te dice nada.}
-{24700}{}{una farola}
-{24701}{}{Es una farola rota. No puede arreglarse.}
-{24800}{}{una farola}
+{24301}{}{Esta es una boca de incendios. Sin rociadores de techo como los del Refugio, podría hacerte falta una para apagar un fuego.}
+{24400}{}{Poste de luz}
+{24401}{}{Esta farola parece que sigue en condiciones de funcionar. Imagina, por aquí hay algo que funciona.}
+{24500}{}{Poste de luz}
+{24501}{}{Esta farola nunca volverá a funcionar.}
+{24600}{}{Poste de luz}
+{24601}{}{Esta es una farola funcional. Por la noche, proyecta una luz pálida y suave que te recuerda absolutamente nada.}
+{24700}{}{Poste de luz}
+{24701}{}{Esta farola está rota. No se puede reparar.}
+{24800}{}{Poste de luz}
 {24801}{}{Este elemento luminoso funciona.}
-{24900}{}{una farola}
+{24900}{}{Poste de luz}
 {24901}{}{La luz de esta farola necesita repararse.}
-{25000}{}{una farola}
+{25000}{}{Poste de luz}
 {25001}{}{Es una farola que funciona.}
 {25100}{}{Puerta}
 {25101}{}{La cerradura de esta valla ha sido forzado y las barras parecen muy fuertes.}
@@ -1088,9 +1088,9 @@
 {56201}{}{Una litera de estilo militar. Debe de ser muy incómoda. Las sábanas están tan tensas que podrías hacer rebotar una moneda sobre ellas.}
 {56300}{}{Cama}
 {56301}{}{Una litera de estilo militar. Debe de ser muy incómoda. Las sábanas están tan tensas que podrías hacer rebotar una moneda sobre ellas.}
-{56400}{}{un cable}
+{56400}{}{Cable}
 {56401}{}{Parece una especie de cable en serie.}
-{56500}{}{un cable}
+{56500}{}{Cable}
 {56501}{}{Parece una especie de cable en serie.}
 {56600}{}{una señal}
 {56601}{}{En la señal pone BAR. Parece muy evidente.}
@@ -1499,7 +1499,7 @@
 {76801}{}{Se trata de una bomba nuclear. Parece bastante peligroso sentarse ahí.}
 {76900}{}{una base de apoyo}
 {76901}{}{Esta base sirve de apoyo a la bomba nuclear situada encima de la misma.}
-{77000}{}{una consola de ordenador}
+{77000}{}{Consola de Computadora}
 {77001}{}{Este es un ordenador de acceso nuclear. El ordenador parece muy seguro. Hay una ranura para una llave de forma rara.}
 {77100}{}{unos cables}
 {77101}{}{Estos cables conectan la bomba al ordenador.}
@@ -1651,7 +1651,7 @@
 {85001}{}{Una puerta de madera muy normal.}
 {85100}{}{una señal}
 {85101}{}{Esta señal pertenece a la Compañía de Crédito Amistoso.}
-{85200}{}{el emblema}
+{85200}{}{Emblema}
 {85201}{}{Este emblema es utilizado por los Seguidores del Apocalipsis.}
 {85300}{}{una mesa de operaciones}
 {85301}{}{Parece una mesa de análisis médicos.}
@@ -1705,7 +1705,7 @@
 {88401}{}{Partes de un huevo roto de Garra Mortal.}
 {88500}{}{una cáscara de huevo}
 {88501}{}{Partes de un huevo roto de Garra Mortal.}
-{88600}{}{una farola}
+{88600}{}{Poste de luz}
 {88601}{}{Una farola. Todo parece estar en orden.}
 {88700}{}{una señal}
 {88701}{}{En la señal pone: Motel.}

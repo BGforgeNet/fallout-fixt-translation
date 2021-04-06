@@ -479,11 +479,11 @@
 {24700}{}{Poste de luz}
 {24701}{}{Esta farola está rota. No se puede reparar.}
 {24800}{}{Poste de luz}
-{24801}{}{Este elemento luminoso funciona.}
+{24801}{}{Esta farola funciona.}
 {24900}{}{Poste de luz}
-{24901}{}{La luz de esta farola necesita repararse.}
+{24901}{}{La bombilla de este poste de luz está destrozada, sin posibilidad de reparación.}
 {25000}{}{Poste de luz}
-{25001}{}{Es una farola que funciona.}
+{25001}{}{Esta es una farola funcional.}
 {25100}{}{Puerta}
 {25101}{}{La cerradura de esta valla ha sido forzado y las barras parecen muy fuertes.}
 {25200}{}{Vertedero}

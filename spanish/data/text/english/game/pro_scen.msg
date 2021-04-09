@@ -485,53 +485,53 @@
 {25000}{}{Poste de luz}
 {25001}{}{Esta es una farola funcional.}
 {25100}{}{Puerta}
-{25101}{}{La cerradura de esta valla ha sido forzado y las barras parecen muy fuertes.}
+{25101}{}{La cerradura de esta puerta se ha atascado y las barras tienen un aspecto muy robusto.}
 {25200}{}{Vertedero}
-{25201}{}{Desperdicios inservibles, sin duda.}
+{25201}{}{Definitivamente, chatarra sin valor, sin duda.}
 {25300}{}{Vertedero}
-{25301}{}{Desperdicios inservibles, sin duda.}
+{25301}{}{Definitivamente, chatarra sin valor, sin duda.}
 {25400}{}{Vertedero}
-{25401}{}{Desperdicios inservibles, sin duda.}
+{25401}{}{Definitivamente, chatarra sin valor, sin duda.}
 {25500}{}{Vertedero}
-{25501}{}{Desperdicios inservibles, sin duda.}
+{25501}{}{Definitivamente, chatarra sin valor, sin duda.}
 {25600}{}{Vertedero}
-{25601}{}{Desperdicios inservibles, sin duda.}
-{25700}{}{un buzón}
-{25701}{}{El buzón está vacío. Crees que lleva tiempo así.}
+{25601}{}{Definitivamente, chatarra sin valor, sin duda.}
+{25700}{}{Buzón de correos}
+{25701}{}{Este buzón de correos está vacío. Tienes la impresión de que lleva así mucho tiempo.}
 {25800}{}{Puerta}
-{25801}{}{Una puerta de madera elegantemente tallada y en buen estado.}
+{25801}{}{Una puerta de madera bien elaborada, en buenas condiciones.}
 {25900}{}{Puerta}
-{25901}{}{Una puerta de madera elegantemente tallada y en buen estado.}
+{25901}{}{Una puerta de madera bien elaborada, en buenas condiciones.}
 {26000}{}{Puerta}
-{26001}{}{Una puerta de madera elegantemente tallada y en buen estado.}
+{26001}{}{Una puerta de madera bien elaborada, en buenas condiciones.}
 {26100}{}{Puerta}
-{26101}{}{Una puerta de madera elegantemente tallada y en buen estado.}
+{26101}{}{Una puerta de madera bien elaborada, en buenas condiciones.}
 {26200}{}{Banco de iglesia}
-{26201}{}{Este banco de madera se está viniendo abajo.}
+{26201}{}{Este banco de madera esta deteriorándose lentamente.}
 {26300}{}{Banco de iglesia}
-{26301}{}{Este banco ha sido tratado con negligencia y presenta señales de arañazos y golpes.}
+{26301}{}{Este banco ha sido abandonado, y muestra signos de desuso.}
 {26400}{}{Banco de iglesia}
-{26401}{}{Un banco de madera que ha sufrido las inclemencias del tiempo.}
-{26500}{}{una máquina de periódicos}
-{26501}{}{La máquina de periódicos está vacía.}
-{26600}{}{una máquina de periódicos}
-{26601}{}{La máquina de periódicos está vacía.}
-{26700}{}{una máquina de periódicos}
-{26701}{}{La máquina de periódicos está vacía.}
-{26800}{}{una máquina de periódicos}
-{26801}{}{La máquina de periódicos está vacía.}
-{26900}{}{una máquina de periódicos}
-{26901}{}{La máquina de periódicos está vacía.}
-{27000}{}{una máquina de periódicos}
-{27001}{}{La máquina de periódicos está vacía. Parece haber contenido revistas para adultos.}
+{26401}{}{Un banco de madera que ha sucumbido a los efectos del tiempo y el maltrato.}
+{26500}{}{Expendedora de periódicos}
+{26501}{}{Esta expendedora de periódicos está vacía.}
+{26600}{}{Expendedora de periódicos}
+{26601}{}{Esta expendedora de periódicos está vacía.}
+{26700}{}{Expendedora de periódicos}
+{26701}{}{Esta expendedora de periódicos está vacía.}
+{26800}{}{Expendedora de periódicos}
+{26801}{}{Esta expendedora de periódicos está vacía.}
+{26900}{}{Expendedora de periódicos}
+{26901}{}{Esta expendedora de periódicos está vacía.}
+{27000}{}{Expendedora de periódicos}
+{27001}{}{Esta expendedora de periódicos está vacía. Parece que en su momento debió contener revistas para adultos.}
 {27100}{}{Vertedero}
-{27101}{}{Un colchón en pésimas condiciones. Ni las ratas dormirían en él.}
+{27101}{}{Un colchón en pésimas condiciones. Ni siquiera las ratas dormirían en él.}
 {27200}{}{Vertedero}
-{27201}{}{Un colchón que no está en su mejor momento.}
+{27201}{}{Una cama de matrimonio que ha tenido días mejores que este.}
 {27300}{}{Vertedero}
-{27301}{}{Un montón de madera descompuesta. No merece la pena pararse por esto.}
+{27301}{}{Una pila de madera podrida y desgastada. No vale su peso en, bueno, en nada.}
 {27400}{}{Vertedero}
-{27401}{}{Un montón de madera con marcas de arañazos.}
+{27401}{}{Un montón de madera, con algunos inútiles clavos oxidados clavados profundamente.}
 {27500}{}{Cajas}
 {27501}{}{Un montón de cajas viejas. No te explicas cómo han podido durar tanto tiempo.}
 {27600}{}{Cajas}

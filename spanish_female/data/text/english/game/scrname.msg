@@ -653,7 +653,7 @@
 {753}{}{Animado Siempre}
 {754}{}{Hueco de Escalera}
 {755}{}{una escalera}
-{756}{}{una máquina de periódicos}
+{756}{}{Expendedora de periódicos}
 {757}{}{Vendedor de Coches Usados}
 {758}{}{Desguace}
 {759}{}{Brotherhood of Steel - Destroyed}

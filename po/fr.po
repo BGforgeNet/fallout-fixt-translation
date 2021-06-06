@@ -4,14 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-06-07 00:00+0000\n"
+"Last-Translator: Quantum Apprentice <quantumapprentice@gmail.com>\n"
+"Language-Team: French <https://tra.bgforge.net/projects/fallout/fixt/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: data/text/english/cuts/boil1.sve:1
 msgid ""
@@ -31,31 +32,37 @@ msgstr ""
 
 #: data/text/english/cuts/intro.sve:1490
 msgid "War. War never changes."
-msgstr ""
+msgstr "La guerre.  La guerre, toujours la guerre."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:1550 data/text/english/cuts/narrate.txt:3
 msgid "The Romans waged war to gather slaves and wealth."
-msgstr ""
+msgstr "Les Romains ont fait la guerre pour amasser esclaves et richesses."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:1607 data/text/english/cuts/narrate.txt:4
 msgid "Spain built an empire from its lust for gold and territory."
 msgstr ""
+"L'Espagne a construit un empire sur son désir acharné d'acquérir or et "
+"territoires."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:1680 data/text/english/cuts/narrate.txt:5
 msgid "Hitler shaped a battered Germany into an economic superpower."
 msgstr ""
+"Hitler a transformé une Allemagne meurtrie en une superpuissance économique."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:1755 data/text/english/cuts/narrate.txt:6
 msgid "But war never changes."
-msgstr ""
+msgstr "Mais la guerre est et restera toujours la guerre."
 
 #: data/text/english/cuts/intro.sve:1800
+#, fuzzy
 msgid "In the 21st century, war was still waged over the resources"
 msgstr ""
+"Au 21ème siècle, d'autres guerres ont eu pour enjeu l'acquisition de "
+"nouvelles ressources."
 
 #: data/text/english/cuts/intro.sve:1860
 msgid "that could be acquired."
@@ -64,53 +71,61 @@ msgstr ""
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:1900 data/text/english/cuts/narrate.txt:8
 msgid "Only this time, the spoils of war were also its weapons."
-msgstr ""
+msgstr "Seulement cette fois-là, le butin de guerre était également des armes."
 
 #: data/text/english/cuts/intro.sve:1990
 msgid "Petroleum and Uranium."
-msgstr ""
+msgstr "Pétrole et uranium."
 
 #: data/text/english/cuts/intro.sve:2020
 msgid "For these resources, China would invade Alaska,"
-msgstr ""
+msgstr "Pour ces ressources, la Chine envahirait l'Alaska,"
 
 #: data/text/english/cuts/intro.sve:2065
 msgid "the US would annex Canada,"
-msgstr ""
+msgstr "les Etats-Unis annexeraient le Canada"
 
 #: data/text/english/cuts/intro.sve:2100
 msgid "and the European Commonwealth would dissolve into quarreling,"
-msgstr ""
+msgstr "et l'Union Européenne se démantèlerait"
 
 #: data/text/english/cuts/intro.sve:2140
 msgid "bickering nation-states,"
-msgstr ""
+msgstr "en Etat-nations toujours en bisbilles."
 
 #: data/text/english/cuts/intro.sve:2160
 msgid "bent on controlling the last remaining resources on Earth."
 msgstr ""
+"Tout le monde n'aurait alors qu'une seule idée en tête : contrôler les "
+"ressources restantes sur la Terre."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:2230 data/text/english/cuts/narrate.txt:11
 msgid "In 2077, the storm of world war had come again."
-msgstr ""
+msgstr "En 2077, une nouvelle guerre mondiale a encore éclaté."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:2300 data/text/english/cuts/narrate.txt:12
 msgid "In two brief hours, most of the planet was reduced to cinders."
 msgstr ""
+"En moins de deux heures, la quasi totalité de la planète a été réduite en "
+"cendres."
 
 #: data/text/english/cuts/intro.sve:2370
 msgid "And from the ashes of nuclear devastation,"
-msgstr ""
+msgstr "Et de ces cendres, "
 
 #: data/text/english/cuts/intro.sve:2410
 msgid "a new civilization would struggle to arise."
 msgstr ""
+"une nouvelle civilisation s'efforcerait de voir le jour après le conflit "
+"nucléaire."
 
 #: data/text/english/cuts/intro.sve:2470
 msgid "A few were able to reach the relative safety"
 msgstr ""
+"Quelques-uns ont réussi à rejoindre les vastes abris souterrains et à "
+"profiter de la relative sécurité qu'ils offraient."
 
 #: data/text/english/cuts/intro.sve:2510
 msgid "of the large underground Vaults."
@@ -119,22 +134,24 @@ msgstr ""
 #: data/text/english/cuts/intro.sve:2550
 msgid "Your family was part of that group that entered Vault Thirteen."
 msgstr ""
+"Ta famille faisait partie de ceux qui se sont réfugiés dans l'Abri Treize."
 
 #: data/text/english/cuts/intro.sve:2630
 msgid "Imprisioned safely behind the large Vault door,"
-msgstr ""
+msgstr "Protégée, mais aussi emprisonnée, par l'épaisse porte de l'Abri,"
 
 #: data/text/english/cuts/intro.sve:2675
 msgid "under a mountain of stone,"
-msgstr ""
+msgstr "sous une tonne de rochers,"
 
 #: data/text/english/cuts/intro.sve:2710
 msgid "a generation has lived without knowledge of the outside world."
 msgstr ""
+"toute une génération a vécu là sans savoir ce qui se passait à l'extérieur."
 
 #: data/text/english/cuts/intro.sve:2790
 msgid "Life in the Vault is about to change."
-msgstr ""
+msgstr "La vie dans l'Abri est sur le point de changer."
 
 #. LEAVE empty space in translation
 #: data/text/english/cuts/intro.sve:2860

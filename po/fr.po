@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-06-07 00:00+0000\n"
-"Last-Translator: Quantum Apprentice <quantumapprentice@gmail.com>\n"
+"PO-Revision-Date: 2021-06-17 19:06+0000\n"
+"Last-Translator: HawK <hawkeye.falloutgen@gmail.com>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/fallout/fixt/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +19,16 @@ msgid ""
 "RemindBoy message: Water supplies running low in Vault 13.  Find the water "
 "chip quickly."
 msgstr ""
+"Message du Mémento : les réserves en eau de l'Abri 13 s'épuisent. Il est "
+"urgent de trouver la puce d'eau."
 
 #: data/text/english/cuts/boil2.sve:1
 msgid ""
 "RemindBoy message: Water supplies nearly gone in Vault 13.  Situation "
 "critical."
 msgstr ""
+"Message du Mémento : réserves en eau de l'Abri 13 bientôt à sec. Situation "
+"critique."
 
 #: data/text/english/cuts/boil3.sve:1
 msgid "RemindBoy message: Water supplies exhausted. Vault 13 is dead."
@@ -4708,67 +4712,67 @@ msgstr "La vie dans l'Abri est sur le point de changer."
 #: data/text/english/game/scrname.msg:1071
 #: data/text/english/game/scrnset.msg:60
 msgid " "
-msgstr ""
+msgstr " "
 
 #. indexed_txt
 #: data/text/english/cuts/nar_2.txt:1
 msgid "You are taken away, and slowly returned to normal Vault life."
-msgstr ""
+msgstr "TU RETROUVES LENTEMENT LA VIE NORMALE DE L'ABRI."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_2.txt:2
 msgid "But a month later, disaster strikes."
-msgstr ""
+msgstr "MAIS UN MOIS PLUS TARD, UN NOUVEAU DESASTRE S'ABAT SUR TOI."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_3.txt:1
 msgid "Your bones are scraped clean by the desolate wind."
-msgstr ""
+msgstr "TES OS SERONT DECAPES PAR LE VENT ARIDE DU DESERT."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_3.txt:2
 msgid "Your Vault will now surely die, as you have."
-msgstr ""
+msgstr "TON ABRI VA SUREMENT DISPARAITRE... COMME TOI."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_4.txt:1
 msgid "The darkness of the afterlife is all that awaits you now."
-msgstr ""
+msgstr "REPOSE EN PAIX, ETRE ELU."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_4.txt:2
 msgid "May you find more peace in that world then you found in this one..."
-msgstr ""
+msgstr "REPOSE EN PAIX, ETRE ELU"
 
 #. indexed_txt
 #: data/text/english/cuts/nar_5.txt:1
 msgid "Not even the carrion eaters are interested in your radiated corpse."
-msgstr ""
+msgstr "REPOSE EN PAIX, ETRE ELU."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_6.txt:1
 msgid "Your life ends in the wasteland."
-msgstr ""
+msgstr "TU AS PERI."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:1
 msgid "The radiation has taken its toll."
-msgstr ""
+msgstr "L'IRRADIATION A FAIT DES VICTIMES."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:2
 msgid "Your death was lingering and extremely painful."
-msgstr ""
+msgstr "TU AS CONNU UNE MORT LENTE ET PARTICULIEREMENT ATROCE."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_7.txt:3
 msgid "Your adventure is done."
-msgstr ""
+msgstr "TES AVENTURES SONT TERMINEES."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_8.txt:1
 msgid "You fought valiantly, but to no avail.  "
-msgstr ""
+msgstr "TU AS COMBATTU AVEC BRAVOURE MAIS EN VAIN."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_8.txt:2
@@ -4776,16 +4780,18 @@ msgid ""
 "Your twisted and ruined body goes down in a hail of bullets, and thus ends "
 "your life in the wasteland."
 msgstr ""
+"LE CORPS BRISE ET MEURTRI, TU T'ECROULES SOUS UNE PLUIE DE BALLES ET TROUVES "
+"LA MORT DANS LE DESERT."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:1
 msgid "It is done."
-msgstr ""
+msgstr "C'EST FINI."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:2
 msgid "Vault Thirteen belongs to the Unity and the Master."
-msgstr ""
+msgstr "L'ABRI TREIZE APPARTIENT A L'UNITE ET AU MAITRE."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:3
@@ -4793,12 +4799,14 @@ msgid ""
 "Your knowledge of the Vault defenses saved many mutant lives during the "
 "attack."
 msgstr ""
+"TA CONNAISSANCE DES DEFENSES DE L'ABRI A PERMIS D'EPARGNER LA VIE D'UN GRAND "
+"NOMBRE DE MUTANTS AU COURS DE L'ATTAQUE."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:4
 msgid ""
 "You personally made the final kill when you took the life of the Overseer."
-msgstr ""
+msgstr "C'EST TOI QUI AS PORTE LE COUP FATAL EN RETIRANT LA VIE AU DIRIGEANT."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:5
@@ -4806,16 +4814,18 @@ msgid ""
 "You will certainly become one of the finest soldiers for the Unity, and your"
 " skills will see you rewarded often in the future."
 msgstr ""
+"TU VAS, SANS AUCUN DOUTE, DEVENIR L'UN DES PLUS BRILLANTS SOLDATS DE L'UNITE "
+"ET TES EFFORTS SERONT SOUVENT RECOMPENSES A L'AVENIR."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:6
 msgid "You are happy."
-msgstr ""
+msgstr "TU T'EN REJOUIS."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_9.txt:7
 msgid "But there remains the tiniest doubt of what could have been..."
-msgstr ""
+msgstr "MAIS IL RESTE UN LEGER DOUTE SUR CE QUI AURAIT BIEN PU ARRIVER SI..."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_10.txt:1
@@ -4823,6 +4833,8 @@ msgid ""
 "You managed to destroy the Vats, then you killed the Master before he could "
 "realize his twisted plans."
 msgstr ""
+"TU AS REUSSI A DETRUIRE LES CUVES; TU AS ENSUITE TUE LE MAITRE AVANT QU'IL "
+"NE PUISSE REALISER SES PLANS VEREUX."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_10.txt:2
@@ -4830,6 +4842,8 @@ msgid ""
 "With the Master gone, his armies flee to the east in fear of retribution "
 "from the remaining normals."
 msgstr ""
+"APRES LA MORT DU MAITRE, SES ARMEES S'ENFUIENT VERS L'EST PAR CRAINTE DES "
+"REPRESAILLES DU RESTE DES NORMAUX."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_11.txt:1
@@ -4838,6 +4852,9 @@ msgid ""
 "dream of conquest and enforced peace, but it is the destruction of the Vats "
 "that neutralizes the mutant threat."
 msgstr ""
+"LA MORT DU MAITRE FUT LE PREMIER EVENEMENT IMPORTANT QUI MENA A LA FIN DE "
+"SON REVE FOU DE CONQUETE ET DE PAIX A TOUT PRIX; MAIS C'EST LA DESTRUCTION "
+"DES CUVES QUI NEUTRALISE LA MENACE DES MUTANTS."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_11.txt:2
@@ -4845,6 +4862,9 @@ msgid ""
 "Without the ability to create more mutants and enforce their harsh brand of "
 "justice, the mutant armies flee to the east, beyond the no-man's land."
 msgstr ""
+"SANS LA POSSIBILITE DE CREER DAVANTAGE DE MUTANTS ET D'IMPOSER LEUR SEVERE "
+"CONCEPTION DE LA JUSTICE, LES ARMEES DE MUTANTS S'ENFUIENT VERS L'EST AU-"
+"DELA DU NO MAN'S LAND."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_12.txt:1
@@ -4852,11 +4872,15 @@ msgid ""
 "The ghouls of Necropolis learn firsthand the final meaning of dehydration, "
 "as their city succumbs to the desert sands and the water runs out."
 msgstr ""
+"LES GOULES DE NECROPOLIS APPRENNENT DE PREMIERE MAIN CE QUE DESHYDRATATION "
+"VEUT DIRE ALORS QUE LES SABLES DU DESERT ENVAHISSENT LEUR VILLE ET QUE LES "
+"RESSOURCES D'EAU S'EPUISENT."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_12.txt:2
 msgid "Without their water purifying control chip, they do not survive."
 msgstr ""
+"SANS LEUR PUCE DE CONTROLE DE PURIFICATION DE L'EAU, ILS NE PEUVENT SURVIVRE."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_13.txt:1
@@ -4864,23 +4888,29 @@ msgid ""
 "The ghouls of Necropolis learn how to maintain the repaired water pump,  and"
 " eventually rediscover many lost secrets of engineering."
 msgstr ""
+"LES GOULES DE NECROPOLIS APPRENNENT A ENTRETENIR LEUR POMPE A EAU RECEMMENT "
+"REPAREE ET REDECOUVRENT FINALEMENT LES SECRETS PERDUS DE LA TECHNIQUE."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_13.txt:2
 msgid "They form a business selling this technology to other towns."
 msgstr ""
+"ILS CREENT UNE ENTREPRISE POUR REVENDRE CETTE TECHNOLOGIE AUX AUTRES VILLES."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_15.txt:1
 msgid ""
 "The mutant attack on Necropolis spares none of the ghoulish inhabitants."
 msgstr ""
+"L'ATTAQUE DES MUTANTS SUR NECROPOLIS N'EPARGNERA AUCUN DES HABITANTS GOULES."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_15.txt:2
 msgid ""
 "After the mutant armies advance, they leave a truly dead city behind them."
 msgstr ""
+"APRES LEUR PASSAGE, LES ARMEES DE MUTANTS NE LAISSERONT QU'UNE VILLE "
+"ANEANTIE."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_16.txt:1
@@ -4888,6 +4918,8 @@ msgid ""
 "The Followers of the Apocalypse rise to become a major influence in New "
 "California."
 msgstr ""
+"LES DISCIPLES DE L'APOCALYPSE COMMENCENT A PRENDRE UNE IMPORTANCE CERTAINE "
+"EN NOUVELLE CALIFORNIE."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_16.txt:2
@@ -4905,6 +4937,7 @@ msgstr ""
 #: data/text/english/cuts/nar_18.txt:2
 msgid "Barely human carrion feeders pick over the Followers' remains."
 msgstr ""
+"SEULS QUELQUES CHAROGNARDS HUMAINS PICORENT ENCORE LES RESTES DES DISCIPLES."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_19.txt:1
@@ -4912,6 +4945,8 @@ msgid ""
 "In Shady Sands, Tandi helps her father Aradesh bring a new community and new"
 " life out of the broken remains of the world."
 msgstr ""
+"AUX SABLES OMBRAGES, TANDI AIDE SON PERE ARADESH A FAIRE NAITRE UNE NOUVELLE "
+"COMMUNAUTE SUR LES RUINES DU MONDE."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_19.txt:2
@@ -4919,6 +4954,8 @@ msgid ""
 "They are responsible for the New California Republic, whose ideals spread "
 "across the land."
 msgstr ""
+"ILS SONT A LA TETE DE LA REPUBLIQUE DE NOUVELLE CALIFORNIE DONT LES IDEAUX "
+"SE PROPAGENT A TRAVERS LE PAYS."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_20.txt:1
@@ -4927,12 +4964,17 @@ msgid ""
 "Sands into a respected community which is prosperous for many years, before "
 "his untimely death at the hands of a Desert Raider."
 msgstr ""
+"ARADESH PLEURA SA FILLE ASSASSINEE, TANDI. IL FINIT POURTANT PAR FAIRE DES "
+"SABLES OMBRAGES UNE COMMUNAUTE RESPECTEE, QUI PROSPERA DURANT PLUSIEURS "
+"ANNEES, AVANT DE TROUVER LA MORT FACE A UN PILLARD DU DESERT."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_21.txt:1
 msgid ""
 "Tandi takes control of Shady Sands after the death of her father, Aradesh."
 msgstr ""
+"TANDI PRIT LE CONTROLE DES SABLES OMBRAGES APRES LA MORT DE SON PERE, "
+"ARADESH."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_21.txt:2
@@ -8090,7 +8132,7 @@ msgstr ""
 #: data/text/english/game/map.msg:112 data/text/english/game/map.msg:111
 #: data/text/english/game/map.msg:503 data/text/english/game/pipboy.msg:730
 msgid "Junktown"
-msgstr ""
+msgstr "Dépôtville"
 
 #: data/text/english/dialog/aradesh.msg:1010
 #: data/text/english/game/pro_item.msg:700
@@ -9594,7 +9636,7 @@ msgstr ""
 #: data/text/english/game/map.msg:103 data/text/english/game/map.msg:105
 #: data/text/english/game/map.msg:505 data/text/english/game/pipboy.msg:750
 msgid "Necropolis"
-msgstr ""
+msgstr "Nécropolis"
 
 #: data/text/english/dialog/barry.msg:1002
 #: data/text/english/dialog/childmem.msg:1008
@@ -19721,7 +19763,7 @@ msgstr ""
 #: data/text/english/game/scrname.msg:293
 #: data/text/english/game/scrname.msg:294
 msgid "Shady Sands"
-msgstr ""
+msgstr "Sables Ombragés"
 
 #: data/text/english/dialog/child.msg:1014
 #: data/text/english/dialog/ian.msg:1064
@@ -26615,7 +26657,7 @@ msgstr ""
 #: data/text/english/game/pipboy.msg:16039
 #: data/text/english/game/pipboy.msg:18030
 msgid "**END-DISK**"
-msgstr ""
+msgstr "**END-DISK**"
 
 #: data/text/english/dialog/doclockr.msg:100
 #: data/text/english/dialog/locker.msg:107
@@ -39983,7 +40025,7 @@ msgstr ""
 #: data/text/english/dialog/gpwrterm.msg:137
 #: data/text/english/dialog/gpwrterm.msg:230
 msgid "BACK"
-msgstr ""
+msgstr "RETOUR"
 
 #: data/text/english/dialog/gpwrterm.msg:108
 msgid "Primary Power Management:       OFF-LINE"
@@ -113479,7 +113521,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:101
 msgid "Happy Valentine's Day!"
-msgstr ""
+msgstr "Joyeuse Saint-Valentin !"
 
 #: data/text/english/game/pipboy.msg:102
 msgid "Alt+F4 and then Y enables God Mode"
@@ -113487,19 +113529,19 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:103
 msgid "Happy Ship Day!"
-msgstr ""
+msgstr "Joyeux jour du lancement !"
 
 #: data/text/english/game/pipboy.msg:104
 msgid "Happy Independence Day!"
-msgstr ""
+msgstr "Joyeux jour de l'indépendance !"
 
 #: data/text/english/game/pipboy.msg:105
 msgid "Happy Halloween!"
-msgstr ""
+msgstr "Joyeuse Halloween !"
 
 #: data/text/english/game/pipboy.msg:106
 msgid "Happy Thanksgiving Day!"
-msgstr ""
+msgstr "Joyeuse Thanksgiving !"
 
 #: data/text/english/game/pipboy.msg:107
 msgid "Happy Christmas!"
@@ -113511,11 +113553,11 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:203
 msgid "No current tasks."
-msgstr ""
+msgstr "Pas de tâche en cours."
 
 #: data/text/english/game/pipboy.msg:204
 msgid "CLUES"
-msgstr ""
+msgstr "INDICES"
 
 #: data/text/english/game/pipboy.msg:205
 msgid "LOCATION MAPS"
@@ -113523,11 +113565,11 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:206
 msgid "VIDEO ARCHIVES"
-msgstr ""
+msgstr "ARCHIVES VIDEO"
 
 #: data/text/english/game/pipboy.msg:207
 msgid "DATA"
-msgstr ""
+msgstr "DONNEES"
 
 #: data/text/english/game/pipboy.msg:211
 msgid "Data"
@@ -113535,11 +113577,11 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:212
 msgid "of"
-msgstr ""
+msgstr "de"
 
 #: data/text/english/game/pipboy.msg:213
 msgid "Page"
-msgstr ""
+msgstr "Page"
 
 #: data/text/english/game/pipboy.msg:215
 msgid "Cannot rest with hostiles present."
@@ -113547,7 +113589,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:300
 msgid "ALARM CLOCK"
-msgstr ""
+msgstr "REVEIL"
 
 #: data/text/english/game/pipboy.msg:301
 msgid "Current Hit Points: "
@@ -113603,7 +113645,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:314
 msgid "Rest until healed"
-msgstr ""
+msgstr "Repos jusqu'à la guérison"
 
 #: data/text/english/game/pipboy.msg:400
 #: data/text/english/game/scrname.msg:447
@@ -113677,7 +113719,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:500
 msgid "InterPlay Logo"
-msgstr ""
+msgstr "Logo InterPlay"
 
 #: data/text/english/game/pipboy.msg:501
 msgid "MacPlay Logo"
@@ -113685,7 +113727,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:502
 msgid "Intro"
-msgstr ""
+msgstr "Intro"
 
 #: data/text/english/game/pipboy.msg:503
 msgid "Vats Destruction"
@@ -113729,11 +113771,11 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:600
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 #: data/text/english/game/pipboy.msg:602
 msgid "Automaps"
-msgstr ""
+msgstr "Cartes auto"
 
 #: data/text/english/game/pipboy.msg:603
 msgid "Videos"
@@ -113741,17 +113783,17 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:604
 msgid "Alarm Clock"
-msgstr ""
+msgstr "Réveil"
 
 #: data/text/english/game/pipboy.msg:605
 msgid ""
 "Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da"
 " doo da doo da doo"
-msgstr ""
+msgstr "Dou da dou da deum dii dii doudly dou deum deum deum"
 
 #: data/text/english/game/pipboy.msg:606
 msgid "Welcome to the RobCo Pip-Boy 2000."
-msgstr ""
+msgstr "Bienvenue dans le Rob Co Pip-Boy 2000."
 
 #: data/text/english/game/pipboy.msg:607
 msgid "So long..."
@@ -113799,27 +113841,27 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:731
 msgid "Help Saul."
-msgstr ""
+msgstr "Aider Saul."
 
 #: data/text/english/game/pipboy.msg:732
 msgid "Kill Killian."
-msgstr ""
+msgstr "Tuer Killian."
 
 #: data/text/english/game/pipboy.msg:733
 msgid "Rescue Sinthia."
-msgstr ""
+msgstr "Sauver Cynthia."
 
 #: data/text/english/game/pipboy.msg:734
 msgid "Save Trish."
-msgstr ""
+msgstr "Sauver Trish."
 
 #: data/text/english/game/pipboy.msg:735
 msgid "Stop Gizmo."
-msgstr ""
+msgstr "Arrêter Gizmo."
 
 #: data/text/english/game/pipboy.msg:736
 msgid "Bust the Skulz gang."
-msgstr ""
+msgstr "Démanteler le gang des Skulz."
 
 #: data/text/english/game/pipboy.msg:751
 msgid "Deal with the Super Mutants at the Watershed."
@@ -113835,7 +113877,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:762
 msgid "Dispose of Jain."
-msgstr ""
+msgstr "Liquider Jain."
 
 #: data/text/english/game/pipboy.msg:763
 msgid "Dispose of the merchant."
@@ -113843,7 +113885,7 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:764
 msgid "Find the missing caravans."
-msgstr ""
+msgstr "Rechercher les caravanes disparues."
 
 #: data/text/english/game/pipboy.msg:765
 msgid "Steal necklace from the merchant."
@@ -113851,11 +113893,11 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:771
 msgid "Become an Initiate."
-msgstr ""
+msgstr "Devenir un Initié."
 
 #: data/text/english/game/pipboy.msg:772
 msgid "Rescue Initiate from the Hub."
-msgstr ""
+msgstr "Sauver l'Initié du Centre."
 
 #: data/text/english/game/pipboy.msg:791
 msgid "Disarm the facility's traps."
@@ -113867,19 +113909,19 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:801
 msgid "Become a Blade."
-msgstr ""
+msgstr "Devenir un Ecorcheur."
 
 #: data/text/english/game/pipboy.msg:802
 msgid "Deliver Locket for Romero."
-msgstr ""
+msgstr "Livrer le médaillon pour Romero."
 
 #: data/text/english/game/pipboy.msg:803
 msgid "Deliver package from the Gun Runners."
-msgstr ""
+msgstr "Livrer le colis des Contrebandiers."
 
 #: data/text/english/game/pipboy.msg:804
 msgid "Find Children spy in the Followers."
-msgstr ""
+msgstr "Rechercher l'Enfant espion parmi les Disciples."
 
 #: data/text/english/game/pipboy.msg:805
 msgid "Fix the hydroponic farms in Adytum."
@@ -113887,11 +113929,11 @@ msgstr ""
 
 #: data/text/english/game/pipboy.msg:806
 msgid "Rescue Jason Zimmerman."
-msgstr ""
+msgstr "Sauver Jason Zimmerman."
 
 #: data/text/english/game/pipboy.msg:807
 msgid "Stop the Gangs from attacking Adytum."
-msgstr ""
+msgstr "Empêcher les gangs d'attaquer le Sanctuaire."
 
 #: data/text/english/game/pipboy.msg:1000
 msgid "• Log Date March 21, 2075:"
@@ -114071,7 +114113,7 @@ msgstr ""
 #: data/text/english/game/pipboy.msg:18026
 #: data/text/english/game/pipboy.msg:18028
 msgid "**END-PAR**"
-msgstr ""
+msgstr "**END-PAR**"
 
 #: data/text/english/game/pipboy.msg:1016
 msgid "• Log Date May 9, 2075"

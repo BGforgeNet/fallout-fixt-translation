@@ -136,7 +136,7 @@
 {1004}{}{Darkwater}
 {1005}{}{Gizmos}
 {1006}{}{Casino}
-{1007}{}{Junktown}
+{1007}{}{Dépôtville}
 {1008}{}{Darkwater's}
 {1100}{gizmo36a}{*grunt* Killian's the mayor of this town. Thinks he knows everything... well, *chuckle* we'll just see how much he knows, won't we?}
 {1101}{gizmo_37}{*cough* That's me, stupid. I run the... gambling establishment here.}

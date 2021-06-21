@@ -82,7 +82,7 @@
 {1000}{}{Water}
 {1001}{}{War}
 {1002}{}{Shady}
-{1003}{}{Junktown}
+{1003}{}{Dépôtville}
 {1004}{}{Hub}
 {1005}{}{Raiders}
 {1006}{}{Caravans}
@@ -95,7 +95,7 @@
 {1013}{}{Unity}
 {1014}{}{Set}
 {1015}{}{Watershed}
-{1016}{}{Necropolis}
+{1016}{}{Nécropolis}
 {1017}{}{Hall}
 {1018}{}{Library}
 {1019}{}{Overseer}

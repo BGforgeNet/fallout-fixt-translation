@@ -276,7 +276,7 @@
 {1018}{}{Glow}
 {1019}{}{Town}
 {1020}{}{Heights}
-{1021}{}{Junktown}
+{1021}{}{Dépôtville}
 {1022}{}{Killian}
 {1023}{}{Brotherhood}
 {1024}{}{Elder}

@@ -203,7 +203,7 @@
 {1013}{}{Claw}
 {1014}{}{Hub}
 {1015}{}{Shady}
-{1016}{}{Necropolis}
+{1016}{}{Nécropolis}
 {1017}{}{Raiders}
 {1018}{}{War}
 {1019}{}{Strange}

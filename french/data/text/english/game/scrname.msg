@@ -190,8 +190,8 @@
 {290}{}{Airlock}
 {291}{}{Medical Cache}
 {292}{}{Vault 15 Entrance}
-{293}{}{Shady Sands}
-{294}{}{Shady Sands}
+{293}{}{Sables Ombragés}
+{294}{}{Sables Ombragés}
 {295}{}{Medical Lab}
 {296}{}{Abandoned Shack}
 {297}{}{Seth}

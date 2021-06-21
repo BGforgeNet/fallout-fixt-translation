@@ -44,11 +44,11 @@
 {1004}{}{Blades}
 {1005}{}{Runners}
 {1006}{}{Hub}
-{1007}{}{Junktown}
+{1007}{}{Dépôtville}
 {1008}{}{Chip}
 {1009}{}{Store}
 {1010}{}{Zimmerman}
-{1011}{}{Necropolis}
+{1011}{}{Nécropolis}
 {1012}{}{Glow}
 {1013}{}{Regulators}
 {1014}{}{Scavs}

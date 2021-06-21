@@ -48,7 +48,7 @@
 {1004}{}{Followers}
 {1005}{}{Chip}
 {1006}{}{Apocalypse}
-{1007}{}{Necropolis}
+{1007}{}{Nécropolis}
 {1008}{}{Set}
 {1009}{}{Watershed}
 {1010}{}{Hall}

@@ -5,24 +5,24 @@
 {104}{}{Power Systems Management}
 {105}{}{Primary Power}
 {106}{}{Emergency Power}
-{107}{}{BACK}
+{107}{}{RETOUR}
 {108}{}{Primary Power Management:       OFF-LINE}
 {109}{}{Reinitialize Primary Power}
-{110}{}{BACK}
+{110}{}{RETOUR}
 {111}{}{Primary Power Management:                                          ERROR! ERROR! ERROR!                                               Primary System Initialization Failed}
 {112}{}{Diagnose}
-{113}{}{BACK}
+{113}{}{RETOUR}
 {114}{}{Failure:        Generator Level 6                                       0 Feed Return:  Inoperable                                          Service Needed}
-{115}{}{BACK}
+{115}{}{RETOUR}
 {116}{}{Emergency Power Management:     ON-LINE}
 {117}{}{Disable Emergency Power}
-{118}{}{BACK}
+{118}{}{RETOUR}
 {119}{}{System:                                                         Primary Power:                  ON-LINE                           Emergency Power:                ON STANDBY}
 {120}{}{Power Management}
 {121}{}{Exit}
 {122}{}{Primary Power Management:       ON-LINE}
 {123}{}{Disable Primary Power}
-{124}{}{BACK}
+{124}{}{RETOUR}
 {125}{}{System:                                                         Primary Power:                  ON-LINE}
 {126}{}{d*s*bl* pr*m*ry p*w*r}
 {127}{}{Disable Primary Power}
@@ -30,12 +30,12 @@
 {129}{}{P*w*r S*st*ms M*n*g*m*nt}
 {130}{}{pr*m*ry p*w*r}
 {131}{}{*m*rg*ncy p**er}
-{132}{}{BACK}
+{132}{}{RETOUR}
 {133}{}{pr*m*r p*w*r m*n*g*m*n*}
 {134}{}{r**n*t**l*z* pr*m*ry p*w*r}
-{135}{}{BACK}
+{135}{}{RETOUR}
 {136}{}{pr*m*r* p*w*r m*n*g*m*nt:                                          *RR*R! *RR*R! *RR*R*!                                              g*n*r*t*r n**ds r*p**r}
-{137}{}{BACK}
+{137}{}{RETOUR}
 {138}{}{*m*rg*nc* p*w*r m*n*g*m*nt:     *N-L*N*}
 {139}{}{System:                                                         Primary Power:                  OFF-LINE                           Emergency Power:               OFF-LINE}
 {140}{}{Enable Emergency Power}
@@ -78,7 +78,7 @@ the Advanced Weapons Research and the Biomedical Sciences divisions.}
 {227}{}{Erin Shellman                                                           Lab Technician                                                     Security Clearance: Blue                                        Stationed: Mariposa Military Base}
 {228}{}{Leon VonFelden                                                     Research Head of FEV                                       Security Clearance: Blue                                       Stationed: Mariposa Military Base}
 {229}{}{Download Records to Pip-Boy 2000}
-{230}{}{BACK}
+{230}{}{RETOUR}
 {231}{}{Power Armor Specs:                                                     The T-51b Powered Infantry Armor is designed with the latest passive defense features for both civilian and military disturbances. }
 {232}{}{FEV Summary Digest:                                                     2073. As China became increasingly aggressive with their use of biological weapons, the United States government felt that a countermeasure was needed. The Pan-Immunity Virion Project (PVP) was officially formed September 15, 2073. }
 {233}{}{2075. It became clear that the best way to combat the newly created biological weapons was to alter uninfected DNA so that it was no longer susceptible to standard viral infection.}

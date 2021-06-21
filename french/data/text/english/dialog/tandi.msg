@@ -148,13 +148,13 @@
 {1004}{}{Well}
 {1005}{}{Scorpions}
 {1006}{}{Claw}
-{1007}{}{Junktown}
+{1007}{}{Dépôtville}
 {1008}{}{Hub}
 {1009}{}{City}
 {1010}{}{Scorpion}
 {1011}{}{Khans}
 {1012}{}{Razlo}
-{1013}{}{Shady Sands}
+{1013}{}{Sables Ombragés}
 {1014}{}{The Hub}
 {1015}{}{Water Chip}
 {1016}{}{Vault}
@@ -178,7 +178,7 @@
 {1034}{}{Water}
 {1035}{}{Chip}
 {1037}{}{Dead}
-{1038}{}{Necropolis}
+{1038}{}{Nécropolis}
 {1039}{}{Junk}
 {1040}{}{Deathclaw}
 {1041}{}{Death}

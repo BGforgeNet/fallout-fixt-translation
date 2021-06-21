@@ -105,7 +105,7 @@
 {204}{}{I already told you: Don't worry about it. If you can't make it, I can make do.}
 {205}{}{The Brotherhood of Steel}
 {206}{}{L.A. Boneyard.}
-{207}{}{Junktown}
+{207}{}{Dépôtville}
 {208}{}{Never mind. I don't want the job after all.}
 {209}{}{Great timing, our caravans are leaving today. It pays the standard 400 caps. Which caravan route did you want to take?}
 {210}{}{Great. Our next caravan is going out on the }

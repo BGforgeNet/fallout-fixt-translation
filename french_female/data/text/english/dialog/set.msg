@@ -222,7 +222,7 @@
 {1000}{}{Master}
 {1001}{}{Ghouls}
 {1002}{}{Mutants}
-{1003}{}{Necropolis}
+{1003}{}{Nécropolis}
 {1004}{}{War}
 {1005}{}{Unity}
 {1006}{}{Hub}

@@ -80,7 +80,7 @@
 {179}{}{I don't approve of scum like you}
 {180}{}{All actions have consequences.}
 {181}{}{You see: Tycho.}
-{1000}{}{Junktown}
+{1000}{}{Dépôtville}
 {1001}{}{Rangers}
 {1002}{}{Chip}
 {1003}{}{War}
@@ -92,7 +92,7 @@
 {1009}{}{Unity}
 {1010}{}{Set}
 {1011}{}{Watershed}
-{1012}{}{Necropolis}
+{1012}{}{Nécropolis}
 {1013}{}{Hall}
 {1014}{}{Library}
 {1015}{}{Overseer}

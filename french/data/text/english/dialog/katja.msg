@@ -105,7 +105,7 @@
 {1009}{}{Unity}
 {1010}{}{Set}
 {1011}{}{Watershed}
-{1012}{}{Necropolis}
+{1012}{}{Nécropolis}
 {1013}{}{Hall}
 {1014}{}{Library}
 {1015}{}{Overseer}
@@ -116,7 +116,7 @@
 {1020}{}{Vault 13}
 {1021}{}{Killian}
 {1022}{}{Gizmo}
-{1023}{}{Junktown}
+{1023}{}{Dépôtville}
 {1024}{}{Shady}
 {1025}{}{Sands}
 {1026}{}{Hub}

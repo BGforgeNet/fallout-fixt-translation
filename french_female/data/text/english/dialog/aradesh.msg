@@ -189,7 +189,7 @@
 {1006}{}{Khans}
 {1007}{}{Scorpions}
 {1008}{}{Claw}
-{1009}{}{Junktown}
+{1009}{}{Dépôtville}
 {1010}{}{Spear}
 {1011}{}{Guard House}
 {1012}{}{Lair}

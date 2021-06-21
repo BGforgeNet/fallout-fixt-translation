@@ -20,13 +20,13 @@
 {982}{}{Ask daddy.}
 {1000}{}{Deathclaw}
 {1001}{}{Raiders}
-{1002}{}{Junktown}
+{1002}{}{Dépôtville}
 {1003}{}{Brahmin}
 {1004}{}{Chip}
 {1005}{}{Merchants}
 {1006}{}{Khans}
 {1007}{}{Garl}
-{1008}{}{Shady Sands}
+{1008}{}{Sables Ombragés}
 {1009}{}{Hub}
 {1010}{}{Tandi}
 {1011}{}{Aradesh}
@@ -36,7 +36,7 @@
 {1015}{}{Caravans}
 {1016}{}{Traders}
 {1017}{}{Children}
-{1018}{}{Necropolis}
+{1018}{}{Nécropolis}
 {1019}{}{Spot}
 {1020}{}{Brotherhood}
 {1021}{}{Boneyard}

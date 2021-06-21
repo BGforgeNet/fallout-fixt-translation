@@ -4,7 +4,7 @@
 {103}{}{Shut up!}
 {104}{}{The mutant ignores you.}
 {1000}{}{Water}
-{1001}{}{Necropolis}
+{1001}{}{Nécropolis}
 {1002}{}{Set}
 {1003}{}{Watershed}
 {1004}{}{Hall}

@@ -104,7 +104,7 @@
 {1003}{}{Shed}
 {1004}{}{Ghouls}
 {1005}{}{Norms}
-{1006}{}{Necropolis}
+{1006}{}{Nécropolis}
 {1007}{}{Unity}
 {1008}{}{Cathedral}
 {1009}{}{Chip}

@@ -106,7 +106,7 @@
 {308}{}{Please do not take my things.}
 {1000}{}{Khans}
 {1001}{}{Garl}
-{1002}{}{Junktown}
+{1002}{}{Dépôtville}
 {1003}{}{Shady}
 {1004}{}{Hub}
 {1005}{}{Water}

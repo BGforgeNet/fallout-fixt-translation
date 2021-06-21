@@ -55,7 +55,7 @@
 {154}{}{Okay.}
 {155}{}{Sorry, can't wait.}
 {156}{}{Not sure what happened, but the whole caravan was lost. Funny thing for something like that to happen, and for you to be the only one left standing? Things don't generally fall that way. I just don't think I can hire you anymore because of it. I'm sure you understand why.}
-{157}{}{Junktown}
+{157}{}{Dépôtville}
 {158}{}{L.A. Boneyard}
 {159}{}{Um, not right now. Maybe another time.}
 {160}{}{Good to hear, I'll round up the rest of the crew.}

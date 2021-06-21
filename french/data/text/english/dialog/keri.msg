@@ -62,8 +62,8 @@
 {161}{}{I should string you up by your eyelids! Because of you we lost a whole damn caravan! Get the hell out of my face! I'm going to catch some serious shit for this one.}
 {162}{}{I should string you up by your balls! Because of you we lost a whole damn caravan! Get the hell out of my face! I'm going to catch some serious shit for this one.}
 {163}{}{Brotherhood of Steel}
-{164}{}{Junktown}
-{165}{}{Necropolis}
+{164}{}{Dépôtville}
+{165}{}{Nécropolis}
 {166}{}{Boneyard}
 {167}{}{Never mind. I have something I forgot to do. }
 {168}{}{Lock and load! We're out of this joint!}

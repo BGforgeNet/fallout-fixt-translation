@@ -30,7 +30,7 @@
 {999}{}{Why do you think I'd know anything about that?}
 {2800}{}{The Master}
 {2801}{}{Water Chip}
-{2802}{}{Necropolis}
+{2802}{}{Nécropolis}
 {2803}{}{Set}
 {2804}{}{Watershed}
 {2805}{}{Hall}
@@ -136,7 +136,7 @@
 {2905}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
 {3400}{}{The Master}
 {3401}{}{Water Chip}
-{3402}{}{Necropolis}
+{3402}{}{Nécropolis}
 {3403}{}{Set}
 {3404}{}{Watershed}
 {3405}{}{Hall}
@@ -242,7 +242,7 @@
 {3505}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
 {4000}{}{The Master}
 {4001}{}{Water Chip}
-{4002}{}{Necropolis}
+{4002}{}{Nécropolis}
 {4003}{}{Set}
 {4004}{}{Watershed}
 {4005}{}{Hall}
@@ -458,8 +458,8 @@
 {4709}{}{The library is on the west wing of the third floor. That's where the research computers are located.}
 {7000}{}{Killian}
 {7001}{}{Gizmo}
-{7002}{}{Junktown}
-{7003}{}{Shady Sands}
+{7002}{}{Dépôtville}
+{7003}{}{Sables Ombragés}
 {7004}{}{The Hub}
 {7005}{}{Water Chip}
 {7006}{}{Casino}
@@ -567,8 +567,8 @@
 {7108}{}{I dunno, but the name scares me.}
 {7600}{}{Killian}
 {7601}{}{Gizmo}
-{7602}{}{Junktown}
-{7603}{}{Shady Sands}
+{7602}{}{Dépôtville}
+{7603}{}{Sables Ombragés}
 {7604}{}{The Hub}
 {7605}{}{Water Chip}
 {7606}{}{Casino}
@@ -676,8 +676,8 @@
 {7708}{}{I hear people talking about it, but I've never seen it. They say it roams the desert, striking mostly at night.}
 {8200}{}{Killian}
 {8201}{}{Gizmo}
-{8202}{}{Junktown}
-{8203}{}{Shady Sands}
+{8202}{}{Dépôtville}
+{8203}{}{Sables Ombragés}
 {8204}{}{The Hub}
 {8205}{}{Water Chip}
 {8206}{}{Casino}
@@ -1347,8 +1347,8 @@
 {11909}{}{I have no clue as to what you are talking about.}
 {15400}{}{Khans}
 {15401}{}{Garl}
-{15402}{}{Junktown}
-{15403}{}{Shady Sands}
+{15402}{}{Dépôtville}
+{15403}{}{Sables Ombragés}
 {15404}{}{The Hub}
 {15405}{}{Water Chip}
 {15406}{}{Tandi}
@@ -1467,8 +1467,8 @@
 {15519}{}{They are to the south and slightly west. We trade with them. Mostly for water and ammo, but sometimes for better weapons, too.}
 {16000}{}{Khans}
 {16001}{}{Garl}
-{16002}{}{Junktown}
-{16003}{}{Shady Sands}
+{16002}{}{Dépôtville}
+{16003}{}{Sables Ombragés}
 {16004}{}{The Hub}
 {16005}{}{Water Chip}
 {16006}{}{Tandi}
@@ -1577,8 +1577,8 @@
 {16109}{}{Our doctor. See him if you are hurt.}
 {16600}{}{Khans}
 {16601}{}{Garl}
-{16602}{}{Junktown}
-{16603}{}{Shady Sands}
+{16602}{}{Dépôtville}
+{16603}{}{Sables Ombragés}
 {16604}{}{The Hub}
 {16605}{}{Water Chip}
 {16606}{}{Tandi}
@@ -1692,11 +1692,11 @@
 {17804}{}{The Blades}
 {17805}{}{The Gun Runners}
 {17806}{}{The Hub}
-{17807}{}{Junktown}
+{17807}{}{Dépôtville}
 {17808}{}{Water Chip}
 {17809}{}{Store}
 {17810}{}{Zimmerman}
-{17811}{}{Necropolis}
+{17811}{}{Nécropolis}
 {17812}{}{The Glow}
 {17813}{}{The Regulators}
 {17814}{}{The Scavs}
@@ -1810,11 +1810,11 @@
 {18004}{}{The Blades}
 {18005}{}{The Gun Runners}
 {18006}{}{The Hub}
-{18007}{}{Junktown}
+{18007}{}{Dépôtville}
 {18008}{}{Water Chip}
 {18009}{}{Store}
 {18010}{}{Zimmerman}
-{18011}{}{Necropolis}
+{18011}{}{Nécropolis}
 {18012}{}{The Glow}
 {18013}{}{The Regulators}
 {18014}{}{The Scavs}
@@ -1928,11 +1928,11 @@
 {18204}{}{The Blades}
 {18205}{}{The Gun Runners}
 {18206}{}{The Hub}
-{18207}{}{Junktown}
+{18207}{}{Dépôtville}
 {18208}{}{Water Chip}
 {18209}{}{Store}
 {18210}{}{Zimmerman}
-{18211}{}{Necropolis}
+{18211}{}{Nécropolis}
 {18212}{}{The Glow}
 {18213}{}{The Regulators}
 {18214}{}{The Scavs}
@@ -2046,7 +2046,7 @@
 {18404}{}{The Blades}
 {18405}{}{The Gun Runners}
 {18406}{}{The Hub}
-{18407}{}{Junktown}
+{18407}{}{Dépôtville}
 {18408}{}{Water Chip}
 {18409}{}{Nicole}
 {18410}{}{The Boneyard}
@@ -2157,7 +2157,7 @@
 {18604}{}{The Blades}
 {18605}{}{The Gun Runners}
 {18606}{}{The Hub}
-{18607}{}{Junktown}
+{18607}{}{Dépôtville}
 {18608}{}{Water Chip}
 {18609}{}{Nicole}
 {18610}{}{The Boneyard}
@@ -2268,7 +2268,7 @@
 {18804}{}{The Blades}
 {18805}{}{The Gun Runners}
 {18806}{}{The Hub}
-{18807}{}{Junktown}
+{18807}{}{Dépôtville}
 {18808}{}{Water Chip}
 {18809}{}{Nicole}
 {18810}{}{The Boneyard}
@@ -2922,11 +2922,11 @@
 {22602}{}{Crimson Caravans}
 {22603}{}{Far Go Traders}
 {22604}{}{Children of the Cathedral}
-{22605}{}{Necropolis}
+{22605}{}{Nécropolis}
 {22606}{}{Hot Spot}
-{22607}{}{Junktown}
+{22607}{}{Dépôtville}
 {22608}{}{Brotherhood of Steel}
-{22609}{}{Shady Sands}
+{22609}{}{Sables Ombragés}
 {22610}{}{Boneyard}
 {22611}{}{Water Tower}
 {22612}{}{Old Town}
@@ -3039,11 +3039,11 @@
 {23802}{}{Crimson Caravans}
 {23803}{}{Far Go Traders}
 {23804}{}{Children of the Cathedral}
-{23805}{}{Necropolis}
+{23805}{}{Nécropolis}
 {23806}{}{Hot Spot}
-{23807}{}{Junktown}
+{23807}{}{Dépôtville}
 {23808}{}{Brotherhood of Steel}
-{23809}{}{Shady Sands}
+{23809}{}{Sables Ombragés}
 {23810}{}{Boneyard}
 {23811}{}{Water Tower}
 {23812}{}{Old Town}
@@ -3156,11 +3156,11 @@
 {24402}{}{Crimson Caravans}
 {24403}{}{Far Go Traders}
 {24404}{}{Children of the Cathedral}
-{24405}{}{Necropolis}
+{24405}{}{Nécropolis}
 {24406}{}{Hot Spot}
-{24407}{}{Junktown}
+{24407}{}{Dépôtville}
 {24408}{}{Brotherhood of Steel}
-{24409}{}{Shady Sands}
+{24409}{}{Sables Ombragés}
 {24410}{}{Boneyard}
 {24411}{}{Water Tower}
 {24412}{}{Old Town}
@@ -3273,11 +3273,11 @@
 {25002}{}{Crimson Caravans}
 {25003}{}{Far Go Traders}
 {25004}{}{Children of the Cathedral}
-{25005}{}{Necropolis}
+{25005}{}{Nécropolis}
 {25006}{}{Hot Spot}
-{25007}{}{Junktown}
+{25007}{}{Dépôtville}
 {25008}{}{Brotherhood of Steel}
-{25009}{}{Shady Sands}
+{25009}{}{Sables Ombragés}
 {25010}{}{Boneyard}
 {25011}{}{Water Tower}
 {25012}{}{Old Town}
@@ -3390,11 +3390,11 @@
 {25602}{}{Crimson Caravans}
 {25603}{}{Far Go Traders}
 {25604}{}{Children of the Cathedral}
-{25605}{}{Necropolis}
+{25605}{}{Nécropolis}
 {25606}{}{Hot Spot}
-{25607}{}{Junktown}
+{25607}{}{Dépôtville}
 {25608}{}{Brotherhood of Steel}
-{25609}{}{Shady Sands}
+{25609}{}{Sables Ombragés}
 {25610}{}{Boneyard}
 {25611}{}{Water Tower}
 {25612}{}{Old Town}
@@ -3509,10 +3509,10 @@
 {27404}{}{The Blades}
 {27405}{}{The Gun Runners}
 {27406}{}{The Hub}
-{27407}{}{Junktown}
+{27407}{}{Dépôtville}
 {27408}{}{Water Chip}
 {27409}{}{Razor}
-{27410}{}{Necropolis}
+{27410}{}{Nécropolis}
 {27411}{}{The Glow}
 {27412}{}{The Boneyard}
 {27413}{}{}
@@ -3622,10 +3622,10 @@
 {27604}{}{The Blades}
 {27605}{}{The Gun Runners}
 {27606}{}{The Hub}
-{27607}{}{Junktown}
+{27607}{}{Dépôtville}
 {27608}{}{Water Chip}
 {27609}{}{Razor}
-{27610}{}{Necropolis}
+{27610}{}{Nécropolis}
 {27611}{}{The Glow}
 {27612}{}{The Boneyard}
 {27613}{}{}
@@ -3735,10 +3735,10 @@
 {27804}{}{The Blades}
 {27805}{}{The Gun Runners}
 {27806}{}{The Hub}
-{27807}{}{Junktown}
+{27807}{}{Dépôtville}
 {27808}{}{Water Chip}
 {27809}{}{Razor}
-{27810}{}{Necropolis}
+{27810}{}{Nécropolis}
 {27811}{}{The Glow}
 {27812}{}{The Boneyard}
 {27813}{}{}
@@ -3848,7 +3848,7 @@
 {28604}{}{The Blades}
 {28605}{}{The Gun Runners}
 {28606}{}{The Hub}
-{28607}{}{Junktown}
+{28607}{}{Dépôtville}
 {28608}{}{Water Chip}
 {28609}{}{The Boneyard}
 {28610}{}{}
@@ -3958,7 +3958,7 @@
 {28804}{}{The Blades}
 {28805}{}{The Gun Runners}
 {28806}{}{The Hub}
-{28807}{}{Junktown}
+{28807}{}{Dépôtville}
 {28808}{}{Water Chip}
 {28809}{}{The Boneyard}
 {28810}{}{}
@@ -4068,7 +4068,7 @@
 {29004}{}{The Blades}
 {29005}{}{The Gun Runners}
 {29006}{}{The Hub}
-{29007}{}{Junktown}
+{29007}{}{Dépôtville}
 {29008}{}{Water Chip}
 {29009}{}{The Boneyard}
 {29010}{}{}

@@ -55,7 +55,7 @@
 {154}{}{Okay.}
 {155}{}{Sorry, can't wait.}
 {156}{}{It's a tragedy. We lost the whole caravan, but you survived? That shouldn't have happened. I don't know what happened out there, but we can't hire you anymore. I'm sorry.}
-{157}{}{Junktown}
+{157}{}{Dépôtville}
 {158}{}{L.A. Boneyard}
 {159}{}{Um, not right now. Maybe another time.}
 {160}{}{Outstanding, I'll get the rest of the crew.}

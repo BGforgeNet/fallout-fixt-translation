@@ -4,7 +4,7 @@
 {103}{}{Desarmado}
 {104}{}{Armas de Melé}
 {105}{}{Armas Arrojadizas}
-{106}{}{Primeros Auxilios}
+{106}{}{First Aid}
 {107}{}{Doctor}
 {108}{}{Sigilo}
 {109}{}{Ganzúa}

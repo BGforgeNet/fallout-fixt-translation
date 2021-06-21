@@ -1,7 +1,7 @@
-1:It is done.
-2:Vault Thirteen belongs to the Unity and the Master.
-3:Your knowledge of the Vault defenses saved many mutant lives during the attack.
-4:You personally made the final kill when you took the life of the Overseer.
-5:You will certainly become one of the finest soldiers for the Unity, and your skills will see you rewarded often in the future.
-6:You are happy.
-7:But there remains the tiniest doubt of what could have been...
+1:C'EST FINI.
+2:L'ABRI TREIZE APPARTIENT A L'UNITE ET AU MAITRE.
+3:TA CONNAISSANCE DES DEFENSES DE L'ABRI A PERMIS D'EPARGNER LA VIE D'UN GRAND NOMBRE DE MUTANTS AU COURS DE L'ATTAQUE.
+4:C'EST TOI QUI AS PORTE LE COUP FATAL EN RETIRANT LA VIE AU DIRIGEANT.
+5:TU VAS, SANS AUCUN DOUTE, DEVENIR L'UN DES PLUS BRILLANTS SOLDATS DE L'UNITE ET TES EFFORTS SERONT SOUVENT RECOMPENSES A L'AVENIR.
+6:TU T'EN REJOUIS.
+7:MAIS IL RESTE UN LEGER DOUTE SUR CE QUI AURAIT BIEN PU ARRIVER SI...

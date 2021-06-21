@@ -1,2 +1,2 @@
-1:You fought valiantly, but to no avail.  
-2:Your twisted and ruined body goes down in a hail of bullets, and thus ends your life in the wasteland.
+1:TU AS COMBATTU AVEC BRAVOURE MAIS EN VAIN.
+2:LE CORPS BRISE ET MEURTRI, TU T'ECROULES SOUS UNE PLUIE DE BALLES ET TROUVES LA MORT DANS LE DESERT.

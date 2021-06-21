@@ -68,20 +68,20 @@
 {100}{}{Desert}
 {101}{}{Desert}
 {102}{}{Desert}
-{103}{}{Necropolis}
-{104}{}{Necropolis}
-{105}{}{Necropolis}
+{103}{}{Nécropolis}
+{104}{}{Nécropolis}
+{105}{}{Nécropolis}
 {106}{}{Vault 13}
 {107}{}{Vault 15}
 {108}{}{Vault 15}
 {109}{}{Vault 12}
-{110}{}{Junktown}
-{111}{}{Junktown}
-{112}{}{Junktown}
+{110}{}{Dépôtville}
+{111}{}{Dépôtville}
+{112}{}{Dépôtville}
 {113}{}{Brotherhood of Steel}
 {114}{}{Brotherhood of Steel}
 {115}{}{Brotherhood of Steel}
-{116}{}{Shady Sands}
+{116}{}{Sables Ombragés}
 {117}{}{Cathedral}
 {118}{}{Cathedral}
 {119}{}{City}
@@ -90,8 +90,8 @@
 {122}{}{Desert}
 {123}{}{Desert}
 {124}{}{The Khans}
-{125}{}{Shady Sands}
-{126}{}{Shady Sands}
+{125}{}{Sables Ombragés}
+{126}{}{Sables Ombragés}
 {127}{}{The Glow}
 {128}{}{L.A. Boneyard}
 {129}{}{L.A. Boneyard}
@@ -335,10 +335,10 @@
 {400}{}{Irwin's Farm}
 {500}{}{Vault 13}
 {501}{}{Vault 15}
-{502}{}{Shady Sands}
-{503}{}{Junktown}
+{502}{}{Sables Ombragés}
+{503}{}{Dépôtville}
 {504}{}{The Khans}
-{505}{}{Necropolis}
+{505}{}{Nécropolis}
 {506}{}{The Hub}
 {507}{}{Brotherhood of Steel}
 {508}{}{Mariposa Military Base}

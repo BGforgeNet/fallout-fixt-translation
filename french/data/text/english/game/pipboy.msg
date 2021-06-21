@@ -1,28 +1,28 @@
 {100}{}{Happy New Year!}
-{101}{}{Happy Valentine's Day!}
+{101}{}{Joyeuse Saint-Valentin !}
 {102}{}{Alt+F4 and then Y enables God Mode}
-{103}{}{Happy Ship Day!}
-{104}{}{Happy Independence Day!}
-{105}{}{Happy Halloween!}
-{106}{}{Happy Thanksgiving Day!}
+{103}{}{Joyeux jour du lancement !}
+{104}{}{Joyeux jour de l'indépendance !}
+{105}{}{Joyeuse Halloween !}
+{106}{}{Joyeuse Thanksgiving !}
 {107}{}{Happy Christmas!}
 {200}{}{[MORE]}
 {201}{}{[BACK]}
 {202}{}{Quests}
-{203}{}{No current tasks.}
-{204}{}{CLUES}
+{203}{}{Pas de tâche en cours.}
+{204}{}{INDICES}
 {205}{}{LOCATION MAPS}
-{206}{}{VIDEO ARCHIVES}
-{207}{}{DATA}
+{206}{}{ARCHIVES VIDEO}
+{207}{}{DONNEES}
 {208}{}{}
 {209}{}{}
 {210}{}{Quests}
 {211}{}{Data}
-{212}{}{of}
+{212}{}{de}
 {213}{}{Page}
 {214}{}{[DONE]}
 {215}{}{Cannot rest with hostiles present.}
-{300}{}{ALARM CLOCK}
+{300}{}{REVEIL}
 {301}{}{Current Hit Points: }
 {302}{}{Rest for 10 minutes}
 {303}{}{Rest for 30 minutes}
@@ -36,7 +36,7 @@
 {311}{}{Rest until 12:00}
 {312}{}{Rest until 18:00}
 {313}{}{Rest until 00:00}
-{314}{}{Rest until healed}
+{314}{}{Repos jusqu'à la guérison}
 {400}{}{FEV Experiments Disk}
 {401}{}{Vault Locations v34.129}
 {402}{}{Ancient Brotherhood Disk}
@@ -55,7 +55,7 @@
 {415}{}{West Tek Records}
 {416}{}{Vault Locations v34.129}
 {417}{}{Regulator Transmissions}
-{500}{}{InterPlay Logo}
+{500}{}{Logo InterPlay}
 {501}{}{MacPlay Logo}
 {502}{}{Intro}
 {503}{}{Vats Destruction}
@@ -69,13 +69,13 @@
 {511}{}{Vault 13 Water Running Low}
 {512}{}{Vault 13 Water Levels Critical}
 {513}{}{Rae Kills the Master}
-{600}{}{Status}
+{600}{}{Statut}
 {601}{}{UNUSED}
-{602}{}{Automaps}
+{602}{}{Cartes auto}
 {603}{}{Videos}
-{604}{}{Alarm Clock}
-{605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the RobCo Pip-Boy 2000.}
+{604}{}{Réveil}
+{605}{}{Dou da dou da deum dii dii doudly dou deum deum deum}
+{606}{}{Bienvenue dans le Rob Co Pip-Boy 2000.}
 {607}{}{So long...}
 {608}{}{Wake up...}
 {700}{}{Vault 13}
@@ -98,7 +98,7 @@
 {717}{}{}
 {718}{}{}
 {719}{}{}
-{720}{}{Shady Sands}
+{720}{}{Sables Ombragés}
 {721}{}{Diagnose and cure Jarvis of his ailment.}
 {722}{}{Help Razlo find a cure for radscorpion venom.}
 {723}{}{Rescue Tandi from the raiders.}
@@ -108,13 +108,13 @@
 {727}{}{}
 {728}{}{}
 {729}{}{}
-{730}{}{Junktown}
-{731}{}{Help Saul.}
-{732}{}{Kill Killian.}
-{733}{}{Rescue Sinthia.}
-{734}{}{Save Trish.}
-{735}{}{Stop Gizmo.}
-{736}{}{Bust the Skulz gang.}
+{730}{}{Dépôtville}
+{731}{}{Aider Saul.}
+{732}{}{Tuer Killian.}
+{733}{}{Sauver Cynthia.}
+{734}{}{Sauver Trish.}
+{735}{}{Arrêter Gizmo.}
+{736}{}{Démanteler le gang des Skulz.}
 {737}{}{}
 {738}{}{}
 {739}{}{}
@@ -128,7 +128,7 @@
 {747}{}{}
 {748}{}{}
 {749}{}{}
-{750}{}{Necropolis}
+{750}{}{Nécropolis}
 {751}{}{Deal with the Super Mutants at the Watershed.}
 {752}{}{Fix the water pump.}
 {753}{}{}
@@ -140,17 +140,17 @@
 {759}{}{}
 {760}{}{The Hub}
 {761}{}{Find and destroy the Deathclaw.}
-{762}{}{Dispose of Jain.}
+{762}{}{Liquider Jain.}
 {763}{}{Dispose of the merchant.}
-{764}{}{Find the missing caravans.}
+{764}{}{Rechercher les caravanes disparues.}
 {765}{}{Steal necklace from the merchant.}
 {766}{}{}
 {767}{}{}
 {768}{}{}
 {769}{}{}
 {770}{}{Brotherhood of Steel}
-{771}{}{Become an Initiate.}
-{772}{}{Rescue Initiate from the Hub.}
+{771}{}{Devenir un Initié.}
+{772}{}{Sauver l'Initié du Centre.}
 {773}{}{}
 {774}{}{}
 {775}{}{}
@@ -179,13 +179,13 @@
 {798}{}{}
 {799}{}{}
 {800}{}{L.A. Boneyard}
-{801}{}{Become a Blade.}
-{802}{}{Deliver Locket for Romero.}
-{803}{}{Deliver package from the Gun Runners.}
-{804}{}{Find Children spy in the Followers.}
+{801}{}{Devenir un Ecorcheur.}
+{802}{}{Livrer le médaillon pour Romero.}
+{803}{}{Livrer le colis des Contrebandiers.}
+{804}{}{Rechercher l'Enfant espion parmi les Disciples.}
 {805}{}{Fix the hydroponic farms in Adytum.}
-{806}{}{Rescue Jason Zimmerman.}
-{807}{}{Stop the Gangs from attacking Adytum.}
+{806}{}{Sauver Jason Zimmerman.}
+{807}{}{Empêcher les gangs d'attaquer le Sanctuaire.}
 {808}{}{}
 {809}{}{}
 {810}{}{Children's Cathedral}

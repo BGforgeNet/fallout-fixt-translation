@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-06-17 19:06+0000\n"
+"PO-Revision-Date: 2021-07-28 12:40+0000\n"
 "Last-Translator: HawK <hawkeye.falloutgen@gmail.com>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/fallout/fixt/fr/>\n"
 "Language: fr\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: data/text/english/cuts/intro.sve:1490
 msgid "War. War never changes."
-msgstr "La guerre.  La guerre, toujours la guerre."
+msgstr "La guerre. La guerre, toujours la guerre."
 
 #. indexed_txt
 #: data/text/english/cuts/intro.sve:1550 data/text/english/cuts/narrate.txt:3
@@ -4742,7 +4742,8 @@ msgstr "REPOSE EN PAIX, ETRE ELU."
 #. indexed_txt
 #: data/text/english/cuts/nar_4.txt:2
 msgid "May you find more peace in that world then you found in this one..."
-msgstr "REPOSE EN PAIX, ETRE ELU"
+msgstr ""
+"Puisses-tu trouver plus de paix dans ce monde que tu en as trouvée ici-bas..."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_5.txt:1

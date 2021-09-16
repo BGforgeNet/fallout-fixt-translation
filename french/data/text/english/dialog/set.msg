@@ -42,7 +42,7 @@
 {141}{}{What can I do, and what will you do for me?}
 {142}{}{Sounds a bit out of my league. I'm outta this.}
 {143}{Set12}{The mutants at the Watershed need dirt-naps. Makes my shadow grow. You slice 'em and rewards run to you. Info, too.}
-{144}{}{Done.}
+{144}{}{C'est terminé !}
 {145}{}{Too much trouble. See ya around.}
 {146}{Set13}{You want employ, walker? Show me you can scuffle. Take down the mutants at the Watershed. Show 'em the bad time and you're good.}
 {147}{}{I'm on it.}

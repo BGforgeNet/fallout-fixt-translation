@@ -147,7 +147,7 @@
 {301}{}{Upon further inspection, it's obvious that this is a prostitute with a customer. She motions for you to leave, immediately.}
 {302}{}{Upon further inspection, it's obvious that this is a prostitute. She flashes you a fake smile.}
 {400}{}{Well that was interesting.}
-{401}{}{Woof!}
+{401}{}{Wouaf !}
 {402}{}{We should get back to work now.}
 {403}{}{Ugh, I feel dirty.}
 {404}{}{Oh wow...}

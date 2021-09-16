@@ -134,7 +134,7 @@
 {233}{}{Again? I don't think so. I've got way too much stuff going on.}
 {234}{Kill60}{Go to Lars at the guard station. He'll fill you in. And listen, this town owes you... a lot.}
 {235}{Kill61b}{Well, I can pay you the standard rate for mercenary work, 500 caps.}
-{236}{}{Done.}
+{236}{}{C'est terminé !}
 {237}{}{Sorry, not enough.}
 {238}{Kill62}{Good enough. Go see Lars, he'll give you the details.}
 {239}{Kill63}{Listen, that's all I'm offering. Thanks for getting the evidence, but I'm not going to beg for your services.}

@@ -150,13 +150,13 @@
 {661}{}{Too far away.}
 {670}{}{Okay.}
 {671}{}{Sure.}
-{672}{}{As you wish.}
+{672}{}{Comme tu veux.}
 {673}{}{Whatever you say.}
 {674}{}{I'll try.}
 {675}{}{I can't do that.}
 {676}{}{I don't think I can do that.}
 {677}{}{Arf!}
-{678}{}{Woof!}
+{678}{}{Wouaf !}
 {700}{}{You do not have enough Action Points to do that.}
 {800}{}{You read the book.}
 {801}{}{You learn nothing new.}

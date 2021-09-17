@@ -24,4 +24,4 @@
 {123}{}{Hey, no need for weapons. We don't look too kindly on those around here.}
 {124}{}{Hey, you didn't turn out to be such a bad person after all. Have a nice day.}
 {125}{}{I really wish you would just leave town.}
-{126}{}{[More]}
+{126}{}{[Plus]}

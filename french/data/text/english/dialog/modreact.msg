@@ -4,7 +4,7 @@
 {103}{}{Goodbye.}
 {104}{}{Goodbye.}
 {105}{}{Goodbye.}
-{106}{}{[More]}
+{106}{}{[Plus]}
 {107}{}{Zzzzz}
 {108}{}{[Done]}
 {109}{}{I can't use that. Sorry.}

@@ -56,7 +56,7 @@
 {155}{}{Don't worry, this shouldn't hurt at all.}
 {156}{}{Okay, you should be feeling much better now. Be careful out there.}
 {157}{}{I heard what you did, saving the Vault. Thank you.}
-{158}{}{[More]}
+{158}{}{[Plus]}
 {159}{}{The medic refuses to speak with you.}
 {160}{}{Please don't do that.}
 {161}{}{I've been poisoned!}

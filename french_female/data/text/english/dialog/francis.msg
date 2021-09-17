@@ -57,6 +57,6 @@
 {156}{}{ Now, if you'll excuse me, I must go back to meditating.}
 {157}{}{I don't know. Perhaps he will reveal himself in time.}
 {158}{}{[Done]}
-{159}{}{[More]}
+{159}{}{[Plus]}
 {160}{}{Hello, sir. Can I help you?}
 {161}{}{Hello, miss. Can I help you?}

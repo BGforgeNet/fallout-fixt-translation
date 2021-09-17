@@ -102,4 +102,4 @@
 {210}{}{Here, take some Rad-X. [Darrel gives you some pills]}
 {211}{}{Swallow these like this. [Darrel motions taking the pills and rubs his tummy] Mmmmm, yummm.}
 {212}{}{Wait, wait, Not yet! [Darrel stops you from taking the pills] Wait until you get to the Glow.}
-{300}{}{[More]}
+{300}{}{[Plus]}

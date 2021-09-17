@@ -25,4 +25,4 @@
 {124}{}{No, why would I? I just like to read. And anyhow, only scouts really get to go anywhere.}
 {125}{}{Well, just the scouts and the guards. The guards go and patrol a little bit once in a while. I wanted to be a guard, but... well, I got my ass kicked in hand-to-hand combat, so I couldn't go. Um, the scouts, they go a lot farther, sometimes all the way to the Cathedral, I think.}
 {126}{}{No more questions, thanks.}
-{127}{}{[More]}
+{127}{}{[Plus]}

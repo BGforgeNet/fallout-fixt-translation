@@ -140,8 +140,8 @@
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
 {650}{}{[Done]}
-{651}{}{[More]}
-{652}{}{[More]}
+{651}{}{[Plus]}
+{652}{}{[Plus]}
 {653}{}{[Back]}
 {654}{}{[Back]}
 {655}{}{[Continue]}

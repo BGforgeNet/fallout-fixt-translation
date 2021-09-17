@@ -82,7 +82,7 @@
 {181}{}{There comes a time when you must find the answers to life's questions yourself, and that time is now. Begone!}
 {182}{}{That is not my duty. Now begone.}
 {183}{}{By the endurance of pain, by the acquisition of wisdom, and the performance of service. Pain is knowledge, wisdom is obedience, and service is courage. }
-{184}{}{[More]}
+{184}{}{[Plus]}
 {185}{}{You must reject the Light that nearly destroyed us all, and pledge yourself to the Darkness in which all are equal. Now that I have told you this thing, go seek it. Seek the Master and his wisdom.}
 {186}{}{I have not consulted him, but I am certain he is pleased with the righteous souls I have brought him. It is difficult work, but I do it well. Unfortunately, it is also quite time consuming, which is why I must order to you to leave right now.}
 {187}{}{A flatterer's tongue is in the mouth of a devil! A devil such as you! Get out of my sight!}

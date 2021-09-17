@@ -70,4 +70,4 @@
 {169}{}{Well, I don't know what to tell you. I guess you need to polish up your repair skills a little. I'll keep the unit here for ya.}
 {170}{}{Okay, thanks. Bye.}
 {171}{}{Hello again. Can I help you?}
-{300}{}{[More]}
+{300}{}{[Plus]}

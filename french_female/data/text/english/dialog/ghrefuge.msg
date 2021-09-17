@@ -28,7 +28,7 @@
 {127}{}{You're useless.}
 {128}{}{I heard some of the sewer ghouls might have survived, but I don't like it down there.}
 {129}{}{Okay, thanks.}
-{130}{}{That's it?}
+{130}{}{C'est tout ?}
 {131}{}{Yeah, that's it.}
 {132}{}{Okay, thanks.}
 {133}{}{I hid until most of the mutants left.}

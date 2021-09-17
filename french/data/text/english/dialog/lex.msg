@@ -1,7 +1,7 @@
 {100}{}{You see: Lex, head of the Vipers raider clan.}
 {101}{}{A huge chap with a bad attitude, glaring at you.}
 {102}{}{[...You steadily wake up and take a look around. You see an unfamiliar place, three tents and several people near them. Looks like you managed to regain consciousness before they could clean your pockets. Your eyes focus on the man standing next to you] Oh, our unfortunate buyer has awaken.}
-{103}{}{[More]}
+{103}{}{[Plus]}
 {104}{}{What will it be? You can give us all your caps and we'll let you go. Or we could play fearless cowboys.}
 {105}{}{And what guarantees I leave this place alive if you get the money?}
 {106}{}{I've always loved westerns.}

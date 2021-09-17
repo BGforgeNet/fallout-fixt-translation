@@ -166,7 +166,7 @@
 {265}{Kill86}{Ohhh... I really couldn't tell ya.}
 {266}{Kill87}{Go talk to Lars. He'll tell you more.}
 {267}{}{[Done]}
-{268}{}{[More]}
+{268}{}{[Plus]}
 {269}{}{You earn 600 experience for your part in the murder of Killian. Junktown will never be the same.}
 {270}{}{You earn 500 experience for securing Gizmo's confession.}
 {271}{}{I'm here to take you in, Gizmo. This time, I've got the proof I need.}

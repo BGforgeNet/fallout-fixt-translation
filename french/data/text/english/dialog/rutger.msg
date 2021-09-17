@@ -185,7 +185,7 @@
 {285}{}{Great. Be sure to ask around.}
 {286}{}{Well, okay. Just talk to our caravan driver by the front door when you're ready to go. Just as long as you do a good job our drivers will hire you.}
 {287}{}{Of course! You don't need to talk to me. Just talk to our caravan driver.}
-{288}{}{[More]}
+{288}{}{[Plus]}
 {289}{}{Well sure, we may be losing a lot of caravans, but it is a very small percentage of our total business. The chances of you being on a caravan that is attacked by whatever is completely capturing or destroying our caravans is very unlikely. Who or what ever is doing this must have a pretty large force, or a very deadly one.}
 {290}{}{Oh, okay. I think I'll ask around some more. }
 {291}{}{Well, I need the money.}

@@ -11,7 +11,7 @@
 {110}{}{Oh, sorry.}
 {111}{}{No way! I'm not putting down my shooters for nobody!}
 {112}{}{You'd better behave, since it's the law, and I enforce the law. Put your weapon away, don't draw it unless in self-defense, and you won't have a problem with us guards.}
-{113}{}{[More]}
+{113}{}{[Plus]}
 {114}{}{Disobey the law, and we will return you to the lawless wasteland - dead or alive.}
 {115}{}{Sure, since you put it that way.}
 {116}{}{Bite your laws!}

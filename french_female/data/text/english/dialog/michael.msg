@@ -166,5 +166,5 @@
 {267}{}{But Rhombus sent me.}
 {268}{}{You're not getting the part and that's final. I told you what you need to do and I'm not going to repeat myself.}
 {300}{}{It seems that Sophia really likes you. She asked me to give you these almost-expired batteries. We need to free some space in the storage unit for her research anyway. }
-{500}{}{[More]}
+{500}{}{[Plus]}
 {501}{}{[Back]}

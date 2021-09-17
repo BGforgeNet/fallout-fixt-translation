@@ -62,7 +62,7 @@
 {161}{}{Excellent! Fools! We go to battle!}
 {162}{}{You are a Fool on double-secret probation. You don't get Fool armor until you pass probation.}
 {163}{}{[Done]}
-{164}{}{[More]}
+{164}{}{[Plus]}
 {165}{}{The Crypts shall be buried once more!}
 {166}{}{Perish, scum!}
 {167}{}{Who said you could come out of your graves? Return!}

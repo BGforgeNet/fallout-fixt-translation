@@ -1,4 +1,4 @@
-{100}{}{[More]}
+{100}{}{[Plus]}
 {101}{}{[Done]}
 {102}{}{Shithead! You get hurt again, you stupid bastard?!}
 {103}{}{Shithead! You get hurt again, you stupid bitch?!}

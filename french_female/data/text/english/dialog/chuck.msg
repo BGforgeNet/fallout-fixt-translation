@@ -23,7 +23,7 @@
 {122}{}{(Chuck pulls out a card with a picture of a man with a vibro-knife and a flag.) The Prince of Swords in the northwest... you must face a powerful foe far to the northwest.}
 {123}{}{(Chuck pulls out a card with a picture of a radio tower, and another card with a picture of a man in a suit with a scepter.) The Tower and the Emperor... great change awaits by the hands of a powerful leader. Whether that change is death, I cannot tell.}
 {124}{}{(Chuck pulls out a card with a picture of a man dancing on a nuclear warhead.) The Fool. I cannot help you; you must make your own way in the world.}
-{125}{}{[More]}
+{125}{}{[Plus]}
 {126}{}{Hmm. Thanks for the advice.}
 {127}{}{Do you actually believe this stuff?!}
 {128}{}{It works for me. If you don't want to believe then it's not for you.}

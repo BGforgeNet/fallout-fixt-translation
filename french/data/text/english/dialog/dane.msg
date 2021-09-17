@@ -120,5 +120,5 @@
 {219}{}{That is life, man! It's like being drunk; look at it one way, and it's a piss poor embarrassment! Look at it a different way, and it feels great! But it's all the same thing! It's all life!}
 {220}{}{Ah ha! Ha! Ha! Ha! Ha! You're right! We're all stupid! Don't you get it? Ha! Ha! Ha!}
 {221}{}{I'm a little bitter right now. Like Orange Pekoe left out in the rain. Ha! I like that saying! I think I'll keep repeating it! I'm a little bitter right now. Like Orange Pekoe left out in the rain...}
-{222}{}{[More]}
+{222}{}{[Plus]}
 {529}{}{Of course you know her, Dane, you idiot! She's our enemy! She must be destroyed!}

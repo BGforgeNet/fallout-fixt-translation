@@ -3,7 +3,7 @@
 {102}{}{man}
 {103}{}{woman}
 {104}{}{[Done]}
-{105}{}{[More]}
+{105}{}{[Plus]}
 {106}{}{Sorry man, but you passed the point of no return with us. Time to slam off!}
 {107}{}{Sorry woman, but you passed the point of no return with us. Time to slam off!}
 {108}{}{Why would I want to talk with someone who goes around killing kids? Get out of my face!}

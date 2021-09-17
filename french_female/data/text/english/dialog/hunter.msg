@@ -19,7 +19,7 @@
 {118}{}{Thank you! (He takes the lighter.) So, what do you want to hear, exactly?}
 {119}{}{Here is your lighter. Time to give me some information.}
 {120}{}{No more questions, thanks.}
-{121}{}{[More]}
+{121}{}{[Plus]}
 {122}{}{What else do you want to know?}
 {123}{}{I need some information.}
 {124}{}{Buuhhh.. Wuh?}

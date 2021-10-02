@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-09-17 12:40+0000\n"
+"PO-Revision-Date: 2021-10-02 12:40+0000\n"
 "Last-Translator: DocteurKain <jeanpeuplus@free.fr>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/fallout/fixt/fr/>\n"
 "Language: fr\n"
@@ -4997,6 +4997,8 @@ msgid ""
 "After several elections, they find they cannot be governed by a single "
 "person and create a guiding council."
 msgstr ""
+"Après plusieurs élections, ils décidèrent de ne pas confier la "
+"responsabilité à une seule personne, mais créèrent un large gouvernement."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_22.txt:3
@@ -5004,6 +5006,8 @@ msgid ""
 "Shortly afterwards, the Raiders regroup and attack Shady Sands, burning the "
 "small community to the ground."
 msgstr ""
+"Peu de temps après, les Pillards se regroupèrent et attaquèrent les Sables "
+"Ombragés, réduisant en cendres la petite communauté."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_23.txt:1
@@ -5011,6 +5015,8 @@ msgid ""
 "The mutant army marches as far north as Shady Sands, razing the small town "
 "to the ground."
 msgstr ""
+"L'armée de mutants avança vers le nord près des Sables Ombragés et anéantit "
+"la petite ville."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_24.txt:1
@@ -5018,11 +5024,14 @@ msgid ""
 "Killian Darkwater takes firm control of Junktown, drives out the last of "
 "Gizmo's kind, and then enforces his own brand of frontier justice."
 msgstr ""
+"Killian Darkwater prit le contrôle de Dépôtville et écarta jusqu'au dernier "
+"les hommes de Gizmo. Il appliqua ensuite sa propre conception de la justice "
+"frontalière."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_24.txt:2
 msgid "Life is fair and safe under his law."
-msgstr ""
+msgstr "Sous son commandement, la vie connut la loyauté et la sécurité."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_25.txt:1
@@ -5030,6 +5039,8 @@ msgid ""
 "Junktown becomes the new boomtown under the careful, and profitable, "
 "guidance of Don Gizmo."
 msgstr ""
+"Dépôtville devint une ville en plein essor grâce aux conseils avisés et "
+"éclairés de Don Gizmo."
 
 #. indexed_txt
 #: data/text/english/cuts/nar_25.txt:2

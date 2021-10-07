@@ -1,74 +1,74 @@
-{100}{}{You see a dark-skinned man adorned with bright scarves and trinkets.}
-{101}{}{You see: Chuck, the gypsy fortune-teller.}
-{102}{}{Hello, stranger. May I be of service?}
-{103}{}{Uugh!}
-{104}{}{I'm just looking around, thanks.}
-{105}{}{I'm getting to know the people of Adytum.}
-{106}{}{Why do you assume that I need something?}
-{107}{}{Hmm. Don't worry, my simple friend, you have great things ahead.}
-{108}{}{And what do you think of our town?}
-{109}{}{It's okay.}
-{110}{}{Don't like it much. Not too friendly.}
-{111}{}{You've done remarkably well, considering the hostile circumstances.}
-{112}{}{I'm called Chuck. Welcome to Adytum. I'm afraid that most of the people here aren't too forthcoming with strangers, though.}
-{113}{}{Yeah, I noticed.}
-{114}{}{So, what's your job, Chuck?}
-{115}{}{See you around, Chuck.}
-{116}{}{Good journeys, wanderer.}
-{117}{}{We all need something, don't we? And you wouldn't have talked to me if you didn't want something, whether it be information, conversation, or perhaps guidance. I can tell that you've been through a lot. What do you need?}
-{118}{}{Uh, I don't need anything, thanks.}
-{119}{}{Now that you mention it, perhaps you can give me some advice.}
-{120}{}{(Chuck pulls out a set of Tarot cards.) Let me consult the cards. (He shuffles the cards.)}
-{121}{}{(Chuck pulls out a card with a picture of a man in a lab coat with a computer in one hand, and another card with a man in Power Armor.) The Hierophant and the Prince of Wands in the southeast... great wisdom and nobility await in a place to the southeast.}
-{122}{}{(Chuck pulls out a card with a picture of a man with a vibro-knife and a flag.) The Prince of Swords in the northwest... you must face a powerful foe far to the northwest.}
-{123}{}{(Chuck pulls out a card with a picture of a radio tower, and another card with a picture of a man in a suit with a scepter.) The Tower and the Emperor... great change awaits by the hands of a powerful leader. Whether that change is death, I cannot tell.}
-{124}{}{(Chuck pulls out a card with a picture of a man dancing on a nuclear warhead.) The Fool. I cannot help you; you must make your own way in the world.}
+{100}{}{Voici un homme à la peau mate portant des foulards clairs et des bijoux.}
+{101}{}{Voici Chuck, le forain diseur de bonne aventure.}
+{102}{}{Salut, toi qui vient d'ailleurs. Puis-je t'aider ?}
+{103}{}{Euh !}
+{104}{}{Je fais juste un tour, merci.}
+{105}{}{Je commence à me faire aux gens du Sanctuaire.}
+{106}{}{Pourquoi penses-tu que j'ai besoin d'aide ?}
+{107}{}{Hmm. Puisque nous sommes entre amis, laisse-moi te dire que de bonnes choses t'attendent.}
+{108}{}{Et que penses-tu de notre ville ?}
+{109}{}{Ca va.}
+{110}{}{Je ne l'aime pas tellement. Elle n'est pas très chaleureuse.}
+{111}{}{Tu as fait un excellent travail compte tenu des circonstances hostiles.}
+{112}{}{Je m'appelle Chuck. Bienvenue au Sanctuaire. Je crains que la plupart des gens d'ici ne soient pas très sociables avec les étrangers.}
+{113}{}{Ouais, je l'ai remarqué.}
+{114}{}{Alors, que fais-tu, Chuck ?}
+{115}{}{A plus tard, Chuck.}
+{116}{}{Promène-toi bien, nomade.}
+{117}{}{Nous cherchons tous quelque chose, pas vrai ? Et tu ne m'aurais pas adressé la parole si tu n'avais pas eu besoin de quelque chose, un renseignement, un conseil. Je sais que tu as vécu beaucoup de choses. De quoi as-tu besoin ?}
+{118}{}{Euh, je n'ai besoin de rien, merci.}
+{119}{}{Eh bien, puisque tu en parles, tu peux peut-être me donner un conseil.}
+{120}{}{[Chuck sort un jeu de tarot.] Laisse-moi consulter les cartes. [Chuck mélange les cartes.]}
+{121}{}{[Chuck tire une carte représentant un homme vêtu de blanc et une carte représentant un homme en SuperArmure.] Le Pape et le Magicien au Sud... immense sagesse et noblesse attendent au Sud.}
+{122}{}{[Chuck tire une carte représentant un homme avec une vibro-lame et un drapeau.] Le Roi des Epées au Nord... tu dois affronter un redoutable ennemi au Nord.}
+{123}{}{[Chuck tire une carte représentant une tour radio et une autre représentant un homme en costume avec un spectre.] La Tour et l'Empereur... un grand changement est à venir, dû à un grand leader. Impossible de dire si ceci annonce la mort.}
+{124}{}{[Chuck tire une carte représentant un homme dansant sur une ogive nucléaire.] Le Fou. Je ne peux pas t'aider, tu dois te frayer un chemin dans le monde.}
 {125}{}{[Plus]}
-{126}{}{Hmm. Thanks for the advice.}
-{127}{}{Do you actually believe this stuff?!}
-{128}{}{It works for me. If you don't want to believe then it's not for you.}
-{129}{}{No offense, but it sounds like a load of superstition.}
-{130}{}{Well, I guess we each have our own beliefs.}
-{131}{}{If that is how you feel, then I suppose we have nothing more to discuss.}
-{132}{}{Indeed, we do. And your universe is shaped by your beliefs, while my universe is shaped by my thoughts. We may not share beliefs, but I wish you well in your universe.}
-{133}{}{It is home.}
-{134}{}{Uh, yeah. See you around.}
-{135}{}{Things do seem a little quiet around here.}
-{136}{}{I know what you mean. I've seen a lot of suffering.}
-{137}{}{The Regulators make sure of that. The people of Adytum sometimes suffer because of their strict rules.}
-{138}{}{I guess so. Well, see you around.}
-{139}{}{And you're okay with this?}
-{140}{}{Since I wish to stay here, I accept the Regulators as part of that which is Adytum. However, I do what I can to lighten their lives.}
-{141}{}{You do not seem to agree with what they do.}
-{142}{}{Is there anything else that you could do?}
-{143}{}{The Regulators protect their own interests, and I must respect that.}
-{144}{}{Yeah, whatever.}
-{145}{}{I don't necessarily agree with that view, but can understand it.}
-{146}{}{It's been good talking. See you around.}
-{147}{}{Well, I'm only one person, but help in what way I can. I advise you to fight for what you believe in, but most of all, choose the fights that are worth fighting, and find the times when compromise and hope will win greater victories.}
-{148}{}{Do you have any other advice?}
-{149}{}{The people of Adytum have much to do in a normal day. They do not want their work to be unfinished at the end of the day.}
-{150}{}{Yeah, well, whatever.}
-{151}{}{Things do seem a little quiet around here.}
-{152}{}{Thank you. It has been difficult. We lose people to the Deathclaws sometimes, and winters can be hard, especially when the Hub traders don't come. But we are surviving.}
-{153}{}{Good luck.}
-{154}{}{What is going on with the Deathclaws?}
-{155}{}{They infest an area northeast from here, and can often take the lives of people given the task of trading with the Gun Runners.}
-{156}{}{Hopefully you will find a solution.}
-{157}{}{Yeah. Whatever.}
-{158}{}{Perhaps. I think Adytum will be here. Instead of going to the world, the world must come to us, like you have.}
-{159}{}{Hmm. I guess so.}
-{160}{}{I'm a farmer. I also like to do a little bit of work on the buildings, restoring them and keeping them intact, and sometimes I give advice.}
-{161}{}{What kind of advice?}
-{162}{}{Yes, unfortunately. I think... it is a kind of crucible, that by surviving these hard times, we come to rely on each other and to learn the skills we need to survive. I think, eventually, mankind will be better for it.}
-{163}{}{I don't agree. I have come across many gangs and raiders in my travels. They've become petty killers and thieves. I think that we all risk that eventually.}
-{164}{}{Perhaps you're right. Certainly those who survive will be stronger.}
-{165}{}{They will eventually destroy themselves. And the people who will be left will be the ones who work together to survive, like us.}
-{166}{}{I'm glad that some of the outsiders, like you, feel that way. We need to find ways to work together to build something new. It won't start here; we are too regulated, but it has to start somewhere.}
-{167}{}{Hello. What can I do for you?}
-{168}{}{Can I help you?}
-{169}{}{Yes?}
-{170}{}{Just stopping by to say hello.}
-{171}{}{I'm looking for a little advice.}
-{172}{}{May I ask what you do around here?}
-{173}{}{Hello, then. I hope you're doing well.}
+{126}{}{Hmm. Merci du conseil.}
+{127}{}{Tu crois vraiment à ces trucs-là ?!}
+{128}{}{Ca marche pour moi. Mais si tu n'y crois pas, ce n'est même pas la peine d'essayer.}
+{129}{}{Sans vouloir t'offenser, je pense que ce n'est que de la superstition.}
+{130}{}{Eh bien, je vois que nous avons chacun nos croyances.}
+{131}{}{Si c'est ce que tu penses, alors il me semble que nous n'avons rien d'autre à nous dire.}
+{132}{}{En effet. Ton univers est forgé par tes croyances et le mien par mes pensées. Nous n'avons pas les mêmes croyances, mais je te souhaite beaucoup de bien dans ton univers.}
+{133}{}{C'est chez moi.}
+{134}{}{Euh, ouais. A plus tard.}
+{135}{}{Les choses semblent tranquilles par ici.}
+{136}{}{Je vois ce que tu veux dire. J'ai vu beaucoup de souffrances.}
+{137}{}{Les Régulateurs s'en assurent. Le peuple du Sanctuaire souffre parfois de la sévérité de ses propres règles.}
+{138}{}{Je suppose. Eh bien, à plus tard.}
+{139}{}{Et ça te va ?}
+{140}{}{Puisque je veux rester ici, j'accepte que les Régulateurs fassent partie du Sanctuaire. Mais je fais ce que je peux pour éclairer leurs vies.}
+{141}{}{Tu n'as pas l'air d'accord avec ce qu'ils font.}
+{142}{}{Y-a-t-il autre chose que tu pourrais faire ?}
+{143}{}{Les Régulateurs protègent leurs propres intérêts et je dois le respecter.}
+{144}{}{Ouais comme tu veux.}
+{145}{}{Je n'adhère pas nécessairement à cette thèse, mais je la comprends.}
+{146}{}{Ce fut une conversation intéressante. A plus tard.}
+{147}{}{Eh bien, je suis seul mais je fais de mon mieux pour rendre service. Je te conseille de te battre pour ce en quoi tu crois mais surtout, choisis les batailles qui en valent la peine et trouve le moment où le compromis et l'espoir te permettront de vaincre.}
+{148}{}{As-tu d'autres conseils ?}
+{149}{}{Le peuple du Sanctuaire a beaucoup à faire un jour ordinaire. Ils ne veulent pas que le travail soit toujours en attente à la fin de la journée.}
+{150}{}{Ouais. Eh bien.}
+{151}{}{Les choses semblent tranquilles par ici.}
+{152}{}{Merci. Cela a été difficile. Nous perdons parfois des gens à cause des Griffemorts, et les hivers peuvent être rudes, notamment lorsque les marchands du Centre ne viennent pas. Mais nous survivons.}
+{153}{}{Bonne chance.}
+{154}{}{Quel est le problème avec les Griffemorts ?}
+{155}{}{Ils infestent la région située au Nord-Est d'ici et peuvent parfois prendre la vie des gens qui doivent traiter avec les Contrebandiers.}
+{156}{}{Heureusement, tu vas trouver une solution.}
+{157}{}{Ouais. Qu'importe.}
+{158}{}{Peut-être. Je pense que le Sanctuaire sera là. Au lieu d'aller au monde, le monde doit venir à nous, comme toi.}
+{159}{}{Hmm. Je suppose.}
+{160}{}{Je suis fermier. J'aime également travailler sur les bâtiments, les restaurer et les entretenir, et parfois donner des conseils.}
+{161}{}{Quel genre de conseil ?}
+{162}{}{Oui, malheureusement. Je pense... c'est une sorte de creuset, et pour survivre en ces temps difficiles, nous devons nous entraider et apprendre de nouvelles choses. Je pense que finalement l'humanité s'en sortira très bien.}
+{163}{}{Je ne suis pas d'accord. J'ai rencontré de nombreuses bandes et de nombreux pillards au cours de mes voyages. Ils sont maintenant des misérables tueurs et voleurs. Je pense que nous courons tous ce risque.}
+{164}{}{Tu as peut-être raison. Ceux qui survivent s'en sortiront certainement mieux.}
+{165}{}{Ils finiront peut-être par s'autodétruire. Et ceux qui resteront travailleront ensemble pour survivre, comme nous.}
+{166}{}{Je suis heureux que des étrangers, comme toi, ressentent ces choses. Nous devons trouver des façons de construire ensemble des choses nouvelles. Ce n'est pas ici que cela se fera, nous sommes trop surveillés, mais ailleurs.}
+{167}{}{Salut. Que puis-je faire pour toi ?}
+{168}{}{Je peux t'aider ?}
+{169}{}{Ah oui ?}
+{170}{}{Je voulais juste dire bonjour.}
+{171}{}{J'ai besoin d'un petit conseil.}
+{172}{}{Puis-je te demander ce que tu fais dans le coin ?}
+{173}{}{Bonjour. J'espère que tu vas bien.}

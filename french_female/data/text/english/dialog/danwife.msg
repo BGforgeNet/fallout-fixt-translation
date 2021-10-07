@@ -1,6 +1,6 @@
-{100}{}{You see: Dan's wife.}
-{101}{}{I'm not supposed to talk to anyone. Please see my husband.}
-{102}{}{I'm sorry, you need to speak with my husband.}
-{103}{}{You horrible man, why did you do this? You killed my Danny!}
-{104}{}{You horrible woman, why did you do this? You killed my Danny!}
-{105}{}{You see: Dan's crying wife.}
+{100}{}{Voici la femme de Dan.}
+{101}{}{Je ne dois parler à personne. Adresse-toi à mon mari.}
+{102}{}{Désolée, tu dois parler à mon mari.}
+{103}{}{Toi, affreux personnage, pourquoi as-tu fait ça ? Tu as tué mon Danny !}
+{104}{}{Toi, horrible femme, pourquoi as-tu fait ça ? Tu as tué mon Danny !}
+{105}{}{La femme de Dan est en pleurs.}

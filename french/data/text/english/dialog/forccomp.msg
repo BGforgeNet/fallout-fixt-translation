@@ -1,2 +1,2 @@
-{100}{}{This computer is labeled: "Force Field Controls".}
-{101}{}{You manipulate the computer and a moment later it sparks once and then shuts down.}
+{100}{}{Cet ordinateur porte l'inscription : Commandes Champ de Force.}
+{101}{}{Tu manipules l'ordinateur et l'instant d'après, une étincelle jaillit et il s'arrête.}

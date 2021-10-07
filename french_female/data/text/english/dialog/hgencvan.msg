@@ -1,83 +1,83 @@
-{100}{}{You see a caravan driver.}
-{101}{}{Today's going to be a long day!}
-{102}{}{I really don't want to work today.}
-{103}{}{I hope we don't get raided... or worse.}
-{104}{}{Sorry, we don't need anymore guards... I think.}
-{105}{}{Sorry, we're full.}
-{106}{}{You should check out the Merchant Market if you want a job.}
-{107}{}{I hope we sell everything.}
-{108}{}{I can't wait until we finish.}
-{109}{}{Let's hit the road.}
-{110}{}{I'm ready to kick some butt.}
-{111}{}{We're out of here!}
-{112}{}{It sure was hot today.}
-{113}{}{Boy am I thirsty.}
-{114}{}{What day is it?}
-{115}{}{I'm off to the Falcon as soon as I'm done!}
-{116}{}{Sorry, we're just getting back from a route.}
-{117}{}{You should check out the Merchant Market if you want a job.}
-{118}{}{Today's payday!}
-{119}{}{I'm heading straight for Bob's!}
-{120}{}{I've got to pay back the loan today!}
-{121}{}{I'm so tired.}
-{122}{}{That was a long trip!}
-{123}{}{Time to call it a night, I guess.}
-{124}{}{See ya tomorrow, folks.}
-{125}{}{Oh man, what a night that was.}
-{126}{}{I'm getting old...}
-{200}{}{You see: Mat.}
-{201}{}{I shall see you guys tomorrow. Don't let the bedbugs bite you...}
-{202}{}{Now that was a weird dream.}
-{203}{}{Yes? How can I be of service?}
-{204}{}{Duh?}
-{205}{}{What is this place?}
-{206}{}{Could you tell me where I could find a Water Chip?}
-{207}{}{What are all these carts doing here?}
-{208}{}{Oh. Excuse me, I thought you were someone else. Bye.}
-{209}{}{Yeah. You could die.}
-{210}{}{Too long in the wastes, unh? That's too bad.}
-{211}{}{This is the Hub. It is a trade center for the wastes. It's the biggest city I know of. You can find just about any thing you could want here. And if you're lookin' for work, this is the place to be. It seems like just about everyone here is lookin' ta hire you for somethin', be it legal or not.}
-{212}{}{Could you tell me where I could find a Water Chip?}
-{213}{}{What are all of these carts doing here?}
-{214}{}{Trade? What is it you trade?}
-{215}{}{Where would I go to get a job?}
-{216}{}{Goodbye.}
-{217}{}{A Water Chip? Wow. You got me on that one. I've never heard of one of those. Maybe you should check the general store downtown, they may be able to help you.}
-{218}{}{What are all of these carts doing here?}
-{219}{}{Thank you. Goodbye.}
-{220}{}{These are the caravans. We cart goods to just about all corners of the wastes: Junktown, The Brotherhood, Shady Sands, and numerous other places. Necropolis and the Glow are the only areas we steer clear of. I'm headin' this group and we will be leavin' shortly. The group across the street just arrived.}
-{221}{}{This looks like the same caravan I saw earlier...}
-{222}{}{What is it you trade?}
-{223}{}{What is this place?}
-{224}{}{Where would I go to get a job?}
-{225}{}{Thank you. Goodbye.}
-{226}{}{Hum... Lots of stuff. General stuff people need to live: food, water, lots of water. Water is probably the scarcest commodity in the wastes.}
-{227}{}{Could you tell me where I could find a Water Chip?}
-{228}{}{Where would I go to get a job?}
-{229}{}{Thank you. Goodbye.}
-{230}{}{You could ask just about anyone here in the Hub. Or you can check one of the job bulletin boards. There are a few of them around the Hub. Definitely more jobs than people here.}
-{231}{}{What is this place?}
-{232}{}{Could you tell me where I could find a Water Chip?}
-{233}{}{What are all of these carts doing here?}
-{234}{}{Thank you. Goodbye.}
-{235}{}{Haha! Yes. I guess you could say that. After a while they all start to look the same, but believe me, they're not.}
-{236}{}{You shall die for mocking me!!!}
-{237}{}{Where would I go to get a job?}
-{238}{}{Goodbye.}
-{300}{}{You see: Luke.}
-{301}{}{These are the caravans. We cart goods to just about all corners of the wastes: Junktown, The Brotherhood, Shady Sands, and numerous other places. We just got in and it's been a long trip. The group across the street is getting ready to depart.}
-{400}{}{You see: John.}
-{401}{}{What are you doing out here at this hour?}
-{402}{}{You're an idiot. Get outta here, you skag.}
-{403}{}{A Water Chip? I never even heard of one of those.}
-{404}{}{These are the caravans that I'm guarding. The merchants cart goods to just about all corners of the wastes: Junktown, The Brotherhood, Shady Sands, and numerous other places.}
-{405}{}{Well... lots of stuff. General stuff people need to live: food, water, lots of water. Water is probably the scarcest commodity in the wastes.}
-{406}{}{You could ask just about anyone here in the Hub. Or you can check one of the job bulletin boards. There are a few of them around the Hub.}
-{407}{}{I'm a security guard hired by the merchants who own the goods in these carts. Dangerous job, but it pays well. Just the other night, one of my coworkers was killed while watching over the caravans.}
-{408}{}{What are the caravans?}
-{409}{}{Ahhhh. (He assumes a sarcastic tone of voice.) What a sad story. How would you like to join your friend?}
-{410}{}{Bye.}
-{501}{}{You see a caravan guard.}
-{502}{}{You see a caravan driver.}
-{503}{}{You see a caravan driver.}
-{504}{}{You see a caravan merchant.}
+{100}{}{Voici un conducteur de caravane.}
+{101}{}{La journée sera longue !}
+{102}{}{Je n'ai vraiment pas envie de travailler aujourd'hui.}
+{103}{}{J'espère qu'on ne va pas être pillés... ou pire.}
+{104}{}{On n'a plus besoin de gardes... Je pense.}
+{105}{}{Impossible, on est au complet.}
+{106}{}{Pour du boulot, tu devrais aller voir au Grand Marché.}
+{107}{}{J'espère qu'on arrivera à tout vendre.}
+{108}{}{Vivement qu'on ait terminé.}
+{109}{}{Allez, faut tracer la route.}
+{110}{}{Prêt pour la baston.}
+{111}{}{On met les voiles !}
+{112}{}{Chaude journée, non ?}
+{113}{}{Bon sang que j'ai soif !}
+{114}{}{On est quel jour ?}
+{115}{}{Dès que j'ai terminé, je vais au Faucon !}
+{116}{}{Désolé mais on revient juste d'une tournée.}
+{117}{}{Pour du boulot, tu devrais aller voir au Grand Marché.}
+{118}{}{C'est le jour de la paie !}
+{119}{}{Je vais directement chez Bob !}
+{120}{}{Il faut que je rembourse le prêt aujourd'hui !}
+{121}{}{J'en peux plus.}
+{122}{}{Quel long voyage !}
+{123}{}{Bon, il est temps d'aller se pieuter.}
+{124}{}{A demain, tout le monde.}
+{125}{}{Eh ben, quelle nuit !}
+{126}{}{C'est plus de mon âge...}
+{200}{}{Voici Mat.}
+{201}{}{A demain, les gars. Faites gaffe aux morpions...}
+{202}{}{Eh ben, quel drôle de rêve.}
+{203}{}{Oui ? Je peux être utile à quelque chose ?}
+{204}{}{Hein ?}
+{205}{}{Où sommes-nous ?}
+{206}{}{Pourrais-tu me dire où trouver une puce d'eau ?}
+{207}{}{Qu'est-ce que font tous ces charriots ici ?}
+{208}{}{Oh ! Pardon. J'ai cru que tu étais quelqu'un d'autre. Salut.}
+{209}{}{Ouais. Tu peux crever.}
+{210}{}{Trop longtemps dans le désert, hein ? C'est dommage.}
+{211}{}{On est au Centre. C'est la ville commerçante du désert. C'est la plus grande ville que je connaisse. On peut y trouver tout ce qu'on cherche. Si tu cherches du travail, c'est là que t'en trouveras. Au Centre, tu trouveras toujours quelqu'un pour te proposer quelque chose, réglo ou non.}
+{212}{}{Pourrais-tu me dire où trouver une puce d'eau ?}
+{213}{}{Qu'est-ce que tous ces chariots font ici ?}
+{214}{}{Du commerce ? Quel genre de commerce ?}
+{215}{}{Où faut-il que j'aille pour trouver du travail ?}
+{216}{}{Au revoir.}
+{217}{}{Une puce d'eau ? Ouah. Alors là, tu me poses une colle. J'en ai jamais entendu parler. Tu devrais certainement passer au grand magasin en ville. Ils pourront peut-être t'aider.}
+{218}{}{Qu'est-ce que tous ces chariots font ici ?}
+{219}{}{Merci. Au revoir.}
+{220}{}{Ce sont les caravanes. On transporte des marchandises à peu près partout dans le désert. Dépôtville, la Confrérie, les Sables Ombragés et plein d'autres endroits encore. Nécropolis et le Rayon sont les seuls endroits où l'on ne met pas les pieds. C'est moi qui conduis ce groupe et on lève le camp dans pas très longtemps. Le groupe de l'autre côté de la rue vient d'arriver.}
+{221}{}{On dirait que c'est la même caravane que j'ai déjà vue, non ?}
+{222}{}{Qu'est-ce que tu vends ?}
+{223}{}{Où sommes-nous ?}
+{224}{}{Où faut-il que j'aille pour trouver du travail ?}
+{225}{}{Merci. Au revoir.}
+{226}{}{Hmm... Pas mal de choses. Des choses dont les gens ont besoin pour vivre, comme la nourriture, l'eau, beaucoup d'eau... L'eau, c'est certainement ce qui manque le plus dans le désert.}
+{227}{}{Pourrais-tu me dire où trouver une puce d'eau ?}
+{228}{}{Où faut-il que j'aille pour trouver du travail ?}
+{229}{}{Merci. Au revoir.}
+{230}{}{Au Centre, il suffit de demander pour trouver. Ou bien, consulte les offres d'emploi. On trouve des tableaux d'affichage un peu partout au Centre. Ce n'est pas le travail qui manque, crois-moi.}
+{231}{}{Où sommes-nous ?}
+{232}{}{Pourrais-tu me dire où trouver une puce d'eau ?}
+{233}{}{Qu'est-ce que tous ces chariots font ici ?}
+{234}{}{Merci. Au revoir.}
+{235}{}{[Rires] Oui. On peut le dire. Au bout d'un moment, ils se ressemblent tous. Mais crois-moi, c'est pas les mêmes.}
+{236}{}{Si tu continues à te payer ma tête, je te bute !!}
+{237}{}{Où faut-il que j'aille pour trouver du travail ?}
+{238}{}{Au revoir.}
+{300}{}{Voici Luke.}
+{301}{}{Ce sont les caravanes. On transporte des marchandises à peu près partout dans le désert. Dépôtville, la Confrérie, les Sables Ombragés et plein d'autres endroits encore. On vient d'arriver. C'était un long voyage. Le Groupe de l'autre côté de la rue est sur le départ.}
+{400}{}{Voici John.}
+{401}{}{Qu'est-ce que tu fais ici à cette heure ?}
+{402}{}{Imbécile. Fous le camp.}
+{403}{}{Une puce d'eau ? Je n'en ai jamais entendu parler.}
+{404}{}{Ce sont les caravanes que je garde. Les marchands transportent des marchandises à peu près partout dans le désert. Dépôtville, la Confrérie, les Sables Ombragés et plein d'autres endroits.}
+{405}{}{Eh ben... Pas mal de choses. Des choses dont les gens ont besoin pour vivre, comme la nourriture, l'eau, beaucoup d'eau... L'eau, c'est certainement ce qui manque le plus dans le désert.}
+{406}{}{Au Centre, il suffit de demander pour trouver. Ou bien, consulte les offres d'emploi. On trouve des tableaux d'affichage un peu partout au Centre.}
+{407}{}{Je travaille comme garde pour les Marchands qui possèdent les marchandises dans ces chariots. Un boulot dangereux, mais c'est bien payé. Pas plus tard que la nuit dernière, un de mes collègues a été tué pendant sa garde.}
+{408}{}{Qu'est-ce que c'est les Caravanes ?}
+{409}{}{Ahhhh.[sarcastique] Quelle triste histoire. Et si tu le rejoignais ton copain ?}
+{410}{}{Ciao.}
+{501}{}{Tu vois un garde de la Caravane.}
+{502}{}{Voici un conducteur de caravane.}
+{503}{}{Voici un conducteur de caravane.}
+{504}{}{Tu vois un marchand de la Caravane.}

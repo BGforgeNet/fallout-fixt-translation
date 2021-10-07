@@ -1,11 +1,11 @@
-{100}{}{You see a traveler.}
-{101}{}{What do you want, stranger?}
-{102}{}{Who are you?}
-{103}{}{What are you doing out here?}
-{104}{}{Where's the nearest town?}
-{105}{}{Nothing, thanks.}
-{106}{}{Uhh...}
-{107}{}{I'm a scout.}
-{108}{}{I'm on the watch for raiders and monsters.}
-{109}{}{That would be Junktown. It's not far from here.}
-{110}{}{You see a guard from Junktown.}
+{100}{}{Voici un voyageur.}
+{101}{}{Qu'est-ce que tu veux, étranger ?}
+{102}{}{Qui es-tu ?}
+{103}{}{Qu'est-ce que tu fais ici ?}
+{104}{}{Où est la ville la plus proche ?}
+{105}{}{Rien, merci.}
+{106}{}{Euh...}
+{107}{}{Je suis éclaireur.}
+{108}{}{Je surveille les pillards et les monstres.}
+{109}{}{Ca doit être Dépôtville. Ce n'est pas très loin d'ici.}
+{110}{}{Voici un garde de Dépôtville.}

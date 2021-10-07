@@ -1,4 +1,4 @@
-{100}{}{You see a Knight.}
-{101}{}{The learning room's right over there if that's what you're looking for.}
-{102}{}{Are you lost? The learning room is right over there.}
-{103}{}{The medical lab is right around the corner.}
+{100}{}{Voici un Chevalier.}
+{101}{}{L'étude se trouve juste là, si c'est ce que tu cherches.}
+{102}{}{As-tu perdu ton chemin ? L'étude est juste là.}
+{103}{}{Le laboratoire médical est juste au coin.}

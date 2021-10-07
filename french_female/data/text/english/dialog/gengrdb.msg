@@ -1,5 +1,5 @@
-{100}{}{Your arrival was timely, friend. Best wishes for a safe journey.}
-{101}{}{We could use your assistance!}
-{102}{}{I am going to kill you!}
-{103}{}{Leave me alone!}
-{104}{}{Protect the caravan!}
+{100}{}{Tu viens de tomber à pic. Je te souhaite un excellent voyage.}
+{101}{}{On pourrait avoir besoin de ton aide !}
+{102}{}{Je vais te tuer !}
+{103}{}{Laisse-moi tranquille !}
+{104}{}{Protège la caravane !}

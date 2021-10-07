@@ -1,9 +1,9 @@
-{100}{}{You see a peasant.}
-{101}{}{Oh, yeah, big man running from a scary dog. Phil, you sure showed it. Yep, you sure did.}
-{102}{}{What are you doing, Phil? You're checking the tread on those shoes, aren't you?}
-{103}{}{Man, that dog looks hungry. It sure wants to eat you alive, Phil.}
-{104}{}{That might be a little overkill for a poor defenseless animal, don'cha think?}
-{105}{}{That sure is a nice pooch you have there.}
-{106}{}{I'm sure Phil would appreciate it if you were to get rid of his dog.}
-{107}{}{Thanks for dealing with that dog.}
-{108}{}{You see: Lenore.}
+{100}{}{Voici un paysan.}
+{101}{}{Oh, ouais, un homme grand poursuivi par un chien effrayant. Phil, tu l'as sûrement vu. Ouais, sûrement.}
+{102}{}{A quoi tu joues, Phil ? Tu vérifies la solidité de tes baskets ?}
+{103}{}{Mec, ce chien a l'air affamé. C'est sûr qu'il veut te dévorer tout cru, Phil.}
+{104}{}{Ce serait peut-être un peu exagéré pour un pauvre animal sans défense, tu crois pas ?}
+{105}{}{C'est un beau toutou que tu as là.}
+{106}{}{Je pense que Phil apprécierait si tu le débarrassais de son chien.}
+{107}{}{Merci d'avoir pris le temps de t'occuper de ce chien.}
+{108}{}{Voici Lenore.}

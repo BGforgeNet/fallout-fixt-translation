@@ -1,1 +1,1 @@
-{100}{}{It's some kind of huge Super Mutant creature! And it has a very large gun!}
+{100}{}{C'est une sorte d'énorme super mutant ! Et il a un énorme fusil !}

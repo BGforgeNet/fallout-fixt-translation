@@ -1,26 +1,26 @@
-{100}{}{You see a door which looks very secure.}
-{101}{}{The door is unaffected by the skill.}
-{102}{}{You get shocked by the security system for }
-{103}{}{ points of damage.}
-{104}{}{You unlock the door with the red passkey.}
-{105}{}{That item has no effect on the door. Perhaps another item will be more useful.}
-{106}{}{You get shocked by the security system for }
-{107}{}{ points of damage.}
-{108}{}{The door seems to be protected by an energy field. Perhaps you can de-activate it somehow.}
-{109}{}{The door seems to have a secondary lock on it.}
-{110}{}{You notice that there are some red markings on the door.}
-{111}{}{You notice that there are some red markings on the door.}
-{112}{}{You wonder what could unlock the door.}
-{113}{}{You successfully bypassed the security system.}
-{114}{}{You activate the security system and get shocked for }
-{115}{}{ points of damage.}
-{116}{}{You do not detect any traps on the door.}
-{117}{}{You successfully bypassed the security system.}
-{118}{}{You activate the security system and get shocked for }
-{119}{}{ points of damage.}
-{120}{}{You do not detect any traps on the door.}
-{121}{}{You get shocked by the security system for }
-{122}{}{ points of damage.}
-{123}{}{The door seems to be protected by an energy field. Perhaps you can de-activate it somehow.}
-{124}{}{You successfully unlock the door.}
-{125}{}{You failed to pick the lock on the door.}
+{100}{}{Tu vois une porte qui semble très protégée.}
+{101}{}{Cette compétence ne te permet pas d'ouvrir la porte.}
+{102}{}{Tu reçois une décharge du système de sécurité, et prends }
+{103}{}{ points de dégât.}
+{104}{}{Tu ouvres la porte avec le passe rouge.}
+{105}{}{Cet objet n'a aucun effet sur la porte. Peut-être en faut-il un autre.}
+{106}{}{Tu reçois une décharge du système de sécurité, et prends }
+{107}{}{ points de dégât.}
+{108}{}{La porte semble protégée par un champ d'énergie. Il est peut-être possible de le désactiver.}
+{109}{}{La porte semble être munie d'un verrou secondaire.}
+{110}{}{Tu remarques des traces rouges sur la porte.}
+{111}{}{Tu remarques des traces rouges sur la porte.}
+{112}{}{Tu te demandes ce qui pourrait bien déverrouiller la porte.}
+{113}{}{Tu as réussi à court-circuiter le système de sécurité.}
+{114}{}{Tu actives le système de sécurité. Tu reçois alors une décharge, et prends }
+{115}{}{ points de dégât.}
+{116}{}{Tu ne détectes aucun piège sur la porte.}
+{117}{}{Tu as réussi à court-circuiter le système de sécurité.}
+{118}{}{Tu actives le système de sécurité. Tu reçois alors une décharge, et prends }
+{119}{}{ points de dégât.}
+{120}{}{Tu ne détectes aucun piège sur la porte.}
+{121}{}{Tu reçois une décharge du système de sécurité, et prends }
+{122}{}{ points de dégât.}
+{123}{}{La porte semble protégée par un champ d'énergie. Il est peut-être possible de le désactiver.}
+{124}{}{Tu réussis à déverrouiller la porte.}
+{125}{}{Tu n'as pas réussi à crocheter la porte.}

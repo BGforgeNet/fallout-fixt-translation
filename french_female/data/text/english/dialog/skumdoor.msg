@@ -1,5 +1,5 @@
-{100}{}{The door to the Skum Pitt is locked.}
-{101}{}{You manage to unlock the door.}
-{102}{}{You fiddle with the door, but fail to unlock it.}
-{103}{}{You hear something snap. Looks like the lock is jammed.}
-{104}{}{The door isn't locked.}
+{100}{}{La porte du Skum Pitt est fermée à clé.}
+{101}{}{Tu réussis à ouvrir la porte.}
+{102}{}{Tu essaies de crocheter la serrure, mais tu ne parviens pas à ouvrir la porte.}
+{103}{}{Tu entends quelque chose craquer. On dirait que la serrure est bloquée.}
+{104}{}{La porte n'est pas fermée à clé.}

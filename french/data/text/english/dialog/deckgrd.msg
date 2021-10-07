@@ -1,11 +1,11 @@
-{100}{}{You see one of Decker's guards.}
-{101}{}{You need to talk to the boss.}
-{102}{}{You'd better stay on our good side.}
-{103}{}{We'll be watching you.}
-{104}{}{Don't even touch your weapons.}
-{105}{}{If you look at him wrong, you're dead.}
-{106}{}{Watch it.}
-{107}{}{I surrender!}
-{108}{}{I never liked working for that guy Decker anyway.}
-{109}{}{Now that Decker and Kane are gone, I'm gonna take over!}
-{110}{}{You'd better be careful around the Hub from now on. I'm watching you.}
+{100}{}{Voici un garde de Decker.}
+{101}{}{Tu dois parler au patron.}
+{102}{}{Tu ferais mieux de rester de notre côté.}
+{103}{}{On va te surveiller.}
+{104}{}{N'essaie pas de toucher à tes armes.}
+{105}{}{Si tu le regardes de travers, c'en est fini de toi.}
+{106}{}{Prudence.}
+{107}{}{Je me rends !}
+{108}{}{Je n'ai jamais aimé travailler pour ce Decker de toute façon.}
+{109}{}{Maintenant que Decker et Kane sont partis, je vais prendre les choses en mains !}
+{110}{}{A partir de maintenant, tu as intérêt à faire attention dans le Centre. Je t'ai à l'oeil.}

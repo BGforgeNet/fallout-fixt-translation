@@ -1,24 +1,24 @@
-{100}{}{You see a Hubber.}
-{101}{}{I can't believe I'm alive and I CAN'T believe you took them all out! Wait, what am I saying? I'm alive, aren't I? I'll believe anything you tell me right now.}
-{102}{}{I'm going to kill you now.}
-{103}{}{Give me all your money!}
-{104}{}{Clean up your life and get out of here or I'll finish you off too!}
-{105}{}{Uk?}
-{106}{}{Uh, but? You? *sigh* Okay, do it quickly please. I hate pain.}
-{107}{}{Don't hurt me!}
-{108}{}{Okay. (He gives you 20 caps.) Can I go now?}
-{109}{}{Yes.}
-{110}{}{No.}
-{111}{}{Uh, why?}
-{112}{}{Because I said so! Do you have a problem with that?}
-{113}{}{Okay, you can leave.}
-{114}{}{No, sorry sir! Please don't hurt me - I don't like pain!}
-{115}{}{No, sorry ma'am! Please don't hurt me - I don't like pain!}
-{118}{}{Are you stupid? I mean, thanks an awful lot for saving my life, kind sir. I've got to be going now. Bye.}
-{119}{}{Are you stupid? I mean, thanks an awful lot for saving my life, kind ma'am. I've got to be going now. Bye.}
-{122}{}{Yes... yes... yes sir. I'll never do anything bad, ever again! I... I won't cheat. I won't lie, blackmail, rob, murder or kidnap.}
-{123}{}{Yes... yes... yes ma'am. I'll never do anything bad, ever again! I... I won't cheat. I won't lie, blackmail, rob, murder or kidnap.}
-{126}{}{Just get out of here!}
-{127}{}{You're a liar!}
-{128}{}{Yes, sir!}
-{129}{}{Yes, ma'am!}
+{100}{}{Voici un habitant du Centre.}
+{101}{}{Je n'arrive pas à croire que je sois en vie et je n'arrive PAS à croire que tu les aies tous éliminés ! Mais qu'est-ce que je dis ? Je suis en vie, n'est-ce pas ? Je croirai tout ce que tu me diras à présent.}
+{102}{}{Je vais te tuer, maintenant.}
+{103}{}{Donne-moi tout ton argent !}
+{104}{}{Fais le ménage dans ta vie et fiche-moi le camp d'ici avant que je ne t'achève toi aussi !}
+{105}{}{Hein ?}
+{106}{}{Euh, mais ? Toi ? [soupir] D'accord, fais vite, s'il te plaît. Je ne supporte pas la douleur.}
+{107}{}{Me fais pas de mal !}
+{108}{}{Ok. [Il te donne 20 caps]. Je peux partir maintenant ?}
+{109}{}{Oui.}
+{110}{}{Non.}
+{111}{}{Euh, pourquoi ?}
+{112}{}{Parce que c'est comme ça ! Ca te pose un problème ?}
+{113}{}{D'accord, tu peux partir.}
+{114}{}{Non, pardon, monsieur ! Ne me fais pas de mal - Je ne supporte pas la douleur !}
+{115}{}{Non, pardon, madame ! Ne me fais pas de mal - Je ne supporte pas la douleur !}
+{118}{}{Tu es stupide ou quoi ? Je veux dire, merci infiniment de m'avoir sauvé la vie, monsieur. Je dois partir maintenant. Au revoir.}
+{119}{}{Tu es stupide ou quoi ? Je veux dire, merci infiniment de m'avoir sauvé la vie, madame. Je dois partir maintenant. Au revoir.}
+{122}{}{Oui... oui... oui, monsieur. Je ne ferai jamais plus rien de mal, jamais plus ! Ni... Ni tricherie. Ni mensonge, ni chantage, ni vol, ni meurtre, ni kidnapping.}
+{123}{}{Oui... oui... oui, madame. Je ne ferai jamais plus rien de mal, jamais plus ! Ni... Ni tricherie. Ni mensonges, ni chantage, ni vol, ni meurtre, ni kidnapping.}
+{126}{}{Fiche-moi le camp d'ici !}
+{127}{}{Tu mens !}
+{128}{}{Oui, monsieur !}
+{129}{}{Oui, madame !}

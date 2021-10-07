@@ -1,5 +1,5 @@
-{100}{}{Oh no.}
-{101}{}{You tripped a laser wire, setting off some type of defense mechanism. You take 1 point of damage.}
-{102}{}{You tripped a laser wire, setting off some type of defense mechanism. You take }
-{103}{}{ points of damage.}
-{104}{}{You tripped a laser wire, setting off some type of defense mechanism.}
+{100}{}{Oh non.}
+{101}{}{Tu t'es pris dans un câble laser qui a déclenché une sorte de mécanisme de défense. Tu prends un point de dégât.}
+{102}{}{Tu t'es pris dans un câble laser qui a déclenché une sorte de mécanisme de défense. Tu prends }
+{103}{}{ points de dégât.}
+{104}{}{Tu t'es pris dans un câble laser qui a déclenché une sorte de mécanisme de défense.}

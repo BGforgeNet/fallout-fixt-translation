@@ -1,69 +1,69 @@
-{100}{}{You see a devout Child of the Cathedral.}
-{101}{}{We offer healing of the body to heal the spirit. Can I help you?}
-{102}{}{Yes. Help me.}
-{103}{}{Who are you people?}
-{104}{}{Uhn.}
-{105}{}{That is fine, my child. We will examine you now.}
-{106}{}{Blessed are the meek of mind. There is nothing wrong with you, my child. Run along and play.}
-{107}{}{You have been healed. Be more careful in the future.}
-{108}{}{You are wounded.}
-{109}{}{You are not wounded. That is good.}
-{110}{}{I see that you are poisoned.}
-{111}{}{Hmm, some radiation poisoning. Unfortunately, we cannot cure that.}
-{113}{}{We require a donation of }
-{114}{}{ caps before we can heal you. Is this acceptable?}
-{115}{}{Yes.}
-{116}{}{No.}
-{117}{}{But I don't have that kind of money!}
-{118}{}{Will you take }
-{119}{}{ caps?}
-{120}{}{The Children do not haggle. Now, will you accept our price?}
-{121}{}{Yes, of course I will.}
-{122}{}{No thank you.}
-{123}{}{Thank you, my son. Let us pray for your healing.}
-{124}{}{Thank you, my daughter. Let us pray for your healing.}
-{125}{}{There you go. Peace and blessings of the Children go with you.}
-{126}{}{You do not have enough money. If you donate all you can, we will heal you. Is this acceptable?}
-{127}{}{Yes.}
-{128}{}{No.}
-{129}{}{If you donate all you can, we will heal you. Is this acceptable?}
-{130}{}{Yes.}
-{131}{}{No.}
-{132}{}{You have more than enough to make the donation. You need schooling in math, my child.}
-{133}{}{We are the Children of the Cathedral. We live and work amongst those unfortunates living in the wasteland. If you ever get to L.A. Boneyard, stop by the Cathedral.}
-{134}{}{Thank you.}
-{135}{}{What do you do?}
-{136}{}{We are the healers and teachers of peace. We heal the body to heal the spirit. All we ask is a small donation to pay for our healing supplies.}
-{137}{}{Sounds like a good idea to me.}
-{138}{}{Sounds like a load of crap, if you ask me.}
-{139}{}{We did not ask you. I can tell you are tired of listening to our beliefs. If you need anything else, we will be here.}
-{140}{}{It is the most holy of ideas. We are working toward ultimate peace in the wasteland. All creatures shall live as one.}
-{141}{}{Thank you. Good day.}
-{142}{}{We have no time to talk. We are leaving. This place is dangerous for us.}
-{143}{}{Why are you doing this? We will do you no harm!}
+{100}{}{Voici un membre dévot des Enfants de la Cathédrale.}
+{101}{}{Viens chez nous recevoir un esprit sain dans un corps sain. Est-ce que je peux t'aider ?}
+{102}{}{Oui. Aide-moi.}
+{103}{}{Qui êtes-vous ?}
+{104}{}{Gnngh.}
+{105}{}{Ca me convient très bien, mon enfant. Nous allons t'examiner maintenant.}
+{106}{}{Que la douceur de l'esprit soit bénie ! Tu n'as rien, mon enfant. Pars et va jouer.}
+{107}{}{Tout va bien désormais. Il faudra faire preuve de plus de prudence à l'avenir.}
+{108}{}{Tu es blessé.}
+{109}{}{Aucune blessure. C'est bien.}
+{110}{}{Tu as subi un empoisonnement.}
+{111}{}{Hmm, une sorte d'empoisonnement par irradiation. Malheureusement, nous ne pouvons rien y faire.}
+{113}{}{Il faut faire un don de }
+{114}{}{ caps avant que nous puissions te soigner. Est-ce que ça te convient ?}
+{115}{}{Oui.}
+{116}{}{Non.}
+{117}{}{Mais je n'ai pas cette somme d'argent !}
+{118}{}{Vous contenterez-vous de }
+{119}{}{ caps ?}
+{120}{}{Les Enfants ne marchandent pas. Bon, est-ce que tu acceptes notre prix ?}
+{121}{}{Bien sûr que j'accepte.}
+{122}{}{Non je te remercie.}
+{123}{}{Merci, mon fils. Nous prierons pour ta guérison.}
+{124}{}{Merci, ma fille. Nous prierons pour ta guérison.}
+{125}{}{Voici. La paix et les bénédictions des Enfants t'accompagnent.}
+{126}{}{Tu n'as pas assez d'argent. Si tu nous donnes tout ce que tu peux, nous te guérirons. Ca te convient ?}
+{127}{}{Oui.}
+{128}{}{Non.}
+{129}{}{Si tu nous donnes tout ce que tu peux, nous te guérirons. Ca te convient ?}
+{130}{}{Oui.}
+{131}{}{Non.}
+{132}{}{Ce que tu as est largement suffisant pour faire un don. Tu as besoin de prendre des leçons de math, mon enfant.}
+{133}{}{Nous sommes les Enfants de la Cathédrale. Nous vivons et travaillons aux côtés des miséreux qui vivent dans le désert. Si un jour tu passes au Cimetière de L.A., arrête-toi à la Cathédrale.}
+{134}{}{Merci.}
+{135}{}{Que fais-tu ?}
+{136}{}{Nous sommes les guérisseurs et les enseignants de la paix. Nous soignons le corps pour guérir l'esprit. Tout ce que nous demandons est un petit geste pour payer le matériel.}
+{137}{}{Ca m'a l'air d'une bonne idée.}
+{138}{}{Ce sont des conneries.}
+{139}{}{On t'a rien demandé. Je vois que tu en as marre d'écouter nos croyances. Si jamais tu avais besoin de quoi que ce soit, sache que nous serons toujours là.}
+{140}{}{C'est notre idée la plus sacrée. Nous travaillons pour qu'enfin la paix ultime règne dans le désert. Toutes les créatures seront enfin unies.}
+{141}{}{Merci. Bonne journée.}
+{142}{}{Nous n'avons pas le temps de discuter. Nous partons. Cet endroit est dangereux pour nous.}
+{143}{}{Pourquoi fais-tu cela ? Nous ne te ferons aucun mal !}
 {1000}{}{Cathedral}
 {1001}{}{Mutants}
-{1002}{}{Master}
-{1003}{}{Boneyard}
+{1002}{}{Maître}
+{1003}{}{Cimetière de L.A.}
 {1004}{}{Followers}
-{1005}{}{Chip}
+{1005}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1006}{}{Apocalypse}
 {1007}{}{Nécropolis}
 {1008}{}{Set}
 {1009}{}{Watershed}
 {1010}{}{Hall}
-{1011}{}{The Boneyard}
+{1011}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1012}{}{L.A. Boneyard}
 {1100}{}{That is us.}
 {1101}{}{They are people who got mutated from the nuclear fallout. But they are still good people.}
 {1102}{}{We all have masters, don't we?}
-{1103}{}{L.A. Boneyard is a breeding ground of hatred. There are the Followers of the Apocalypse, the gangs: The Rippers, The Blades, and The Gun Runners, and a small settlement called Adytum. }
-{1104}{}{They are people who seek to destroy the peace that the Master is trying to set forth.}
+{1103}{}{Peut-être que nous pouvons remplacer quelques fournitures.}
+{1104}{}{C'est ici. Les tristes ruines d'un monde ancien.}
 {1105}{}{I have no clue as to what you are talking about.}
-{1106}{}{They are people who seek to destroy the peace that the Master is trying to set forth.}
-{1107}{}{That is here. The sad remnants of an ancient world.}
-{1108}{}{I believe he is one of the ghouls.}
-{1109}{}{That is right over there to the northeast.}
-{1110}{}{I don't know anything about that.}
-{1111}{}{L.A. Boneyard is a breeding ground of hatred. There are the Followers of the Apocalypse, the gangs: The Rippers, The Blades, and The Gun Runners, and a small settlement called Adytum. }
-{1112}{}{L.A. Boneyard is a breeding ground of hatred. There are the Followers of the Apocalypse, the gangs: The Rippers, The Blades, and The Gun Runners, and a small settlement called Adytum. }
+{1106}{}{C'est ici. Les tristes ruines d'un monde ancien.}
+{1107}{}{J'imagine que c'est un des Goules.}
+{1108}{}{C'est ça, par là en direction du Nord-Est.}
+{1109}{}{Je ne sais rien là-dessus.}
+{1110}{}{Je vois pas de quoi tu parles.}
+{1111}{}{Peut-être que nous pouvons remplacer quelques fournitures.}
+{1112}{}{Peut-être que nous pouvons remplacer quelques fournitures.}

@@ -1,8 +1,8 @@
-{100}{}{You see a prisoner.}
-{101}{}{I didn't kill anyone!}
-{102}{}{I'm innocent!}
-{103}{}{What are you lookin' at?}
-{104}{}{I was just borrowing it. Honest!}
-{105}{}{Where's my bread and water?}
-{106}{}{I've been framed!}
-{107}{}{Nobody knows 'da trouble I seen...}
+{100}{}{Voici un prisonnier.}
+{101}{}{Je n'ai tué personne !}
+{102}{}{Je n'ai rien fait !}
+{103}{}{Qu'est-ce que tu regardes ?}
+{104}{}{Je ne faisais que l'emprunter. Je le jure !}
+{105}{}{Qui a pris mon pain et mon eau ?}
+{106}{}{C'est un coup monté !}
+{107}{}{Personne ne sait ce que moi j'ai vu...}

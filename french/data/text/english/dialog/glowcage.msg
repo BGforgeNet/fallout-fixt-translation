@@ -1,1 +1,1 @@
-{100}{}{It appears as though this cage contained lab animals for testing. The bars have been torn off somehow.}
+{100}{}{It appears as though this cage contained lab animals for for testing. Somehow, the bars have been torn off.}

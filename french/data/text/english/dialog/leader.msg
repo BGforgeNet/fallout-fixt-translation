@@ -1,118 +1,118 @@
-{100}{}{You see a nervous ghoul with an air of authority.}
-{101}{}{Thank you for not shooting first. Can I help you with anything?}
-{102}{}{Yes, I'm looking for water.}
-{103}{}{Sure, who are you?}
-{104}{}{Nah.}
-{105}{}{Ahh, if you like you may rest here, we will not harm you.}
+{100}{}{Voici le chef Goule.}
+{101}{}{Merci de ne pas avoir tiré en premier. Puis-je t'aider ?}
+{102}{}{Oui, je cherche de l'eau.}
+{103}{}{Oui, qui es-tu ?}
+{104}{}{Non non.}
+{105}{}{Ah, si tu veux, tu peux te reposer ici, nous ne te ferons aucun mal.}
 {106}{}{Ahh.}
-{107}{}{I am the leader of a simple people who have left the surface because of the others.}
-{108}{}{Who has forced you down here?}
-{109}{}{Geez, that's pretty dumb.}
-{110}{}{Hmm. Okay. Bye.}
-{111}{}{The surface of Necropolis and the water is controlled by Set and his ghouls. We are a much more peaceful group - which disgusts Set.}
-{112}{}{Who is this Set?}
-{113}{}{Well, I've taken care of Set. He won't bother you further.}
-{114}{}{How then do you survive down here without water?}
-{115}{}{Well I sure wouldn't like a bunch of pansies either, Set sounds like an okay guy.}
-{116}{}{Set is a ghoul like us, but has assumed a certain amount of power in the above ground world. He is an oaf.}
-{117}{}{He sounds a lot more interesting than you freaks.}
-{118}{}{Why does he let you survive down here?}
-{119}{}{He does not speak of it, however Set is afraid of not having enough people to defend Necropolis if it ever needed it. So, he gives us what water we need.}
-{120}{}{Where does all of this water come from?}
-{121}{}{I need water for my people! If you know where he gets it from, tell me now!}
-{122}{}{I am looking for a Water Chip, to give my people the water they need. Do you know where I might find one?}
-{123}{}{I wouldn't keep you guys around to defend a paper bag. So what's this about water?}
-{124}{}{Up until recently we pumped our water from the ground, with a pump in the Watershed.}
-{125}{}{Until recently? What has happened that changed things?}
-{126}{}{How do I get to the Watershed?}
-{127}{}{What is the Watershed?}
-{128}{}{Since our pump stopped working, we have been getting our water from a place under the ground. I have heard that a water computer is being used to purify the water.}
-{129}{}{Thanks.}
-{130}{}{Where is that?}
-{131}{}{The Watershed is to the north. You'll need to take the sewers to get there.}
-{132}{}{You aren't thinking of taking the Water Chip from us are you?}
-{133}{}{Umm... Me, no, I would never do such a thing. I am just going to see how it all works.}
-{134}{}{Of course. My people need the Water Chip to survive.}
-{135}{}{Why?}
-{136}{}{If you take the Water Chip from us, then we will all die. With our water pump broken we need it to survive.}
-{137}{}{Well, I really don't care about you and your people. We need the Water Chip for our own survival. Goodbye.}
-{138}{}{Is it possible that your pump could be fixed?}
-{139}{}{If that is the case then I can't let you leave my presence alive.}
-{140}{}{I do not think that I believe you.}
-{141}{}{I am sorry I did not mean to deceive you. What is wrong with taking the Water Chip?}
-{142}{}{Well I don't really care. If you won't get out of my way, I'll just remove you myself.}
-{143}{}{That may be difficult. The parts needed to fix the pump were lost in the sewers under the Watershed.}
-{144}{}{Why is that so difficult?}
-{145}{}{Do you mean these parts? [You show the parts you found to the ghoul leader]}
-{146}{}{The sewers there are filled with monsters, and none of my people that I have sent to retrieve them have come back. Are you willing to retrieve the parts, so that the water pump can be fixed?}
-{147}{}{Sounds like too much trouble; I think I'll just take the Water Chip.}
-{148}{}{Yes.}
-{149}{}{Since you guys are too incompetent to do this yourself, I guess I'll have to lend a hand.}
-{150}{}{Thank you. When you get the parts, return here. It is possible that I can help you further.}
-{151}{}{Okay, I'll be on my way then.}
-{152}{}{Have you found the parts for the water pump yet?}
-{153}{}{Not yet.}
-{154}{}{Nope. And I've decided to forget the whole thing.}
-{155}{}{Where was I supposed to find them again?}
-{156}{}{Well I wish you luck then.}
-{157}{}{You have returned. Do you have the parts needed to repair the water pump?}
-{158}{}{Yes, here they are.}
-{159}{}{Yeah, but I've decided to forget about fixing the water pump.}
-{160}{}{Well it looks like you may need some help with the parts. Here are some books that we have found littered around. They may help you. Now please take the parts to the Watershed and repair the pump.}
-{161}{}{Unfortunately I will be able to help you no further. Good luck with the water pump. Please take the parts to the Watershed and repair the pump.}
-{162}{}{Have you fixed the water pump yet?}
-{163}{}{No not yet, but I am still working on it.}
-{164}{}{No, and I am not planning on it now.}
-{165}{}{Yes those are the parts I was talking about. Thank the flow that you already have them.}
-{166}{}{Is there anything else I should know?}
-{167}{}{Well that's as close as they are going to get to the water pump.}
-{168}{}{As I already told you, they can be found in the sewers underneath the Watershed. Go east from here, and then north. You will find the Watershed in that direction.}
-{169}{}{Thanks for the directions. Goodbye.}
-{170}{}{Well thank you for that service. Was there something else you wanted to know?}
-{171}{}{How do you survive down here without water?}
-{172}{}{It is where all the water is stored and handed out to us.}
-{173}{}{Where is it located?}
-{174}{}{Lately I have heard rumors that someone has taken over the control of the Watershed. However, our rations are still being delivered for some reason.}
-{175}{}{How do I get to the Watershed?}
-{176}{}{What is the Watershed?}
-{177}{}{Thank you for repairing the water pump, and I hope all is well with your people when you return with what you have found.}
-{178}{}{Thank you for your help. Goodbye.}
-{179}{}{You have fixed the water pump and the flow has returned from the deep. However, I see you have not found what you are looking for.}
-{180}{}{Yes, I cannot seem to find the location of the Water Chip.}
-{181}{}{I have heard that it is located deeply below the Watershed. I wish you luck in searching for it.}
-{182}{}{I see that you have what you came here to find. You realize that we will die if you take the Water Chip from us.}
-{183}{}{Yes, but I am still working to fix the water pump. Where did you say I could find the parts?}
-{184}{}{I need the Water Chip and I don't have time to deal with your problems.}
-{185}{}{What other options do I have?}
-{186}{}{I am tired of putting up with your snide remarks. I do not wish to speak with you any further.}
-{187}{}{We once had a pump located in the Watershed that pumped the flow from the deep. However, it was broken and the parts needed to fix it were lost in the sewers directly below the Watershed.}
-{189}{}{Why have you not retrieved the parts yourself?}
-{190}{}{You have nothing to fear from us!}
-{191}{}{I will speak with you before you leave.}
-{192}{}{You have left me no choice, but to stop you myself.}
-{193}{}{Wait, don't shoot!}
-{194}{}{You have nothing to fear from us!}
-{195}{}{I will speak with you before you leave.}
-{196}{}{You have left me no choice, but to stop you myself.}
-{200}{}{Tough luck.}
-{201}{}{Can't the water pump be repaired?}
-{202}{}{I'm sorry but my people need the chip to survive.}
-{203}{}{Please don't take our chip. Without it we will die.}
-{204}{}{Maybe, but the parts are lost in the sewers beneath the Watershed. With all those monsters there, we can't get them back.}
-{205}{}{Sorry, I wish I could help.}
-{206}{}{I'll find the parts.}
-{300}{}{You see: Undergrounder Leader.}
+{107}{}{Je suis le chef d'un peuple simple qui a quitté la surface à cause des autres.}
+{108}{}{Qui vous a obligés à descendre ?}
+{109}{}{Oh, c'est idiot.}
+{110}{}{Hum... Ok. Au revoir.}
+{111}{}{Nécropolis et son système d'eau sont sous la tutelle de Set et de ses Goules. Nous sommes un groupe pacifique, ce qui déplaît à Set.}
+{112}{}{Qui est Set ?}
+{113}{}{Eh bien, je lui ai réglé son compte. Il ne vous ennuiera plus.}
+{114}{}{Comment survivez-vous ici sans eau ?}
+{115}{}{Eh bien, je ne voudrais pas de cette bande de pédales non plus, Set a l'air d'un type correct.}
+{116}{}{Set est un Goule comme nous, mais il a acquis certains pouvoirs à la surface. C'est un rustre.}
+{117}{}{Il me semble bien plus intéressant que vous, espèces de monstres.}
+{118}{}{Pourquoi vous laisse-t-il survivre ici ?}
+{119}{}{Il n'en parle pas, mais Set a peur de manquer d'hommes pour défendre Nécropolis. Alors, il nous fournit l'eau qu'il nous faut.}
+{120}{}{D'où vient toute cette eau ?}
+{121}{}{J'ai besoin d'eau pour mon peuple ! Si tu sais où il la puise, dis-le-moi tout de suite !}
+{122}{}{Je cherche une puce d'eau pour fournir à mon peuple l'eau dont il a besoin. Sais-tu où je pourrais en trouver une ?}
+{123}{}{Je me risquerais même pas à vous confier la défense d'un château de sable. Alors, et cette eau ?}
+{124}{}{Jusqu'à depuis peu y 'avait une pompe dans le réservoir qui nous permettait de puiser notre eau dans le sous-sol.}
+{125}{}{Depuis peu ? Qu'est-ce qui a changé ?}
+{126}{}{Comment puis-je me rendre au réservoir ?}
+{127}{}{Qu'est-ce que le réservoir ?}
+{128}{}{Depuis que notre pompe est cassée, nous puisons notre eau du sol. J'ai entendu dire qu'on utilisait un ordinateur pour épurer l'eau.}
+{129}{}{Merci.}
+{130}{}{Où c'est ?}
+{131}{}{Le réservoir se trouve au Nord. Tu dois passer par les égouts pour y accéder.}
+{132}{}{Tu n'as pas l'intention de nous prendre la puce d'eau, n'est-ce pas ?}
+{133}{}{Hum... Moi, non, je ne ferais jamais ça. Je vais juste aller regarder comment ça fonctionne.}
+{134}{}{Bien sûr que si. Mon peuple a besoin de la puce d'eau pour survivre.}
+{135}{}{Pourquoi ?}
+{136}{}{Si tu nous prends la puce d'eau, nous mourrons tous. Depuis que notre pompe à eau ne marche plus, nous en avons besoin pour survivre.}
+{137}{}{Eh bien, je me fiche éperdument de toi et de ton peuple. Nous avons besoin de la puce d'eau pour notre propre survie. Au revoir.}
+{138}{}{Serait-il possible de réparer votre pompe ?}
+{139}{}{Si c'est le cas, je ne peux pas te laisser en vie.}
+{140}{}{Il me semble que j'aurais tort de te croire.}
+{141}{}{Je ne voulais pas te duper. Je veux prendre la puce d'eau. Ca te pose un problème ?}
+{142}{}{Eh bien, ça m'est égal. Hors de ma vue ou je te fais la peau !}
+{143}{}{Ca risque d'être difficile. Les pièces nécessaires à la réparation de la pompe ont été perdues dans les égouts sous le réservoir.}
+{144}{}{Pourquoi serait-ce si difficile ?}
+{145}{}{Tu veux parler de ces pièces ? [Tu montres les pièces que tu as trouvées au Chef Goule]}
+{146}{}{Les égouts sont infestés de monstres et tous ceux que j'y ai envoyés pour retrouver les pièces ont disparu. Accepterais-tu de rechercher ces pièces pour nous aider à réparer la pompe à eau ?}
+{147}{}{Ca me semble trop risqué, je crois que je vais juste me contenter de prendre la puce d'eau.}
+{148}{}{Oui.}
+{149}{}{Au vu de votre incompétence, je crois que je n'ai pas le choix.}
+{150}{}{Merci. Une fois que tu auras les pièces, reviens ici. Je pourrai peut-être t'aider.}
+{151}{}{Ok, alors j'y vais.}
+{152}{}{As-tu retrouvé les pièces de la pompe à eau ?}
+{153}{}{Pas encore.}
+{154}{}{Non. Et j'ai décidé d'abandonner les recherches.}
+{155}{}{Peux-tu me redire où elles sont ?}
+{156}{}{Eh bien, je te souhaite bonne chance alors.}
+{157}{}{Tu es de retour. As-tu les pièces nécessaires à la réparation de la pompe à eau ?}
+{158}{}{Oui, les voilà.}
+{159}{}{Ouais, mais j'ai décidé de ne pas mz lancer dans les réparations de la pompe à eau.}
+{160}{}{Eh bien, on dirait que t'as besoin d'un coup de main pour réparer ces pièces. Laisse-moi t'aider. Voilà des livres que nous avons récupérés. Ils te seront peut-être utiles. Maintenant, va au réservoir et répare la pompe, s'il te plaît.}
+{161}{}{Hélas, c'est tout ce que je peux faire pour toi. Bonne chance. Amène ces pièces au réservoir pour réparer la pompe.}
+{162}{}{As-tu réparé la pompe à eau ?}
+{163}{}{Non, pas encore, mais j'y travaille.}
+{164}{}{Non, j'ai d'autres choses à faire pour l'instant.}
+{165}{}{Oui, ce sont les pièces dont je te parlais. Quelle chance que tu les aies déjà trouvées !}
+{166}{}{Y'a-t-il autre chose que je devrais savoir ?}
+{167}{}{Eh bien, elles n'iront pas plus près de la pompe à eau.}
+{168}{}{Comme je te l'ai déjà dit, elles se trouvent dans les égouts sous le réservoir. D'ici, va Vers l'Est, puis vers le Nord et tu trouveras le réservoir.}
+{169}{}{Merci des renseignements. Au revoir.}
+{170}{}{Eh bien, merci. Y'a-t-il autre chose que tu voudrais savoir ?}
+{171}{}{Comment survivez-vous ici sans eau ?}
+{172}{}{C'est là qu'est stockée l'eau avant de nous être distribuée.}
+{173}{}{Où cela se trouve-t-il ?}
+{174}{}{Dernièrement, j'ai entendu des rumeurs : quelqu'un aurait pris le contrôle du réservoir. Mais nos rations continuent à nous être distribuées.}
+{175}{}{Comment puis-je me rendre au réservoir ?}
+{176}{}{Qu'est-ce que le réservoir ?}
+{177}{}{Merci d'avoir réparé la pompe à eau et j'espère que tout ira bien pour ton peuple lorsque tu lui rapporteras ce que tu as trouvé.}
+{178}{}{Merci de ton aide. Au revoir.}
+{179}{}{Tu as réparé la pompe, et l'eau s'est remise à jaillir du sous-sol. Mais je vois que tu n'as pas trouvé ce que tu cherchais.}
+{180}{}{Oui. Je ne trouve pas l'emplacement de la puce d'eau.}
+{181}{}{J'ai entendu dire qu'elle se trouvait sous le réservoir. Je te souhaite bonne chance dans tes recherches.}
+{182}{}{Je vois que tu as trouvé ce que tu cherchais. J'espère que tu te rends compte que nous mourrons si tu nous prends la puce d'eau.}
+{183}{}{Oui, mais je vais réparer la pompe. Peux-tu me redire où se trouvent les pièces ?}
+{184}{}{J'ai besoin de la puce d'eau et je n'ai pas le temps de m'occuper de tes problèmes.}
+{185}{}{Ai-je le choix ?}
+{186}{}{J'en ai assez de tes remarques sarcastiques. Je ne veux plus te parler.}
+{187}{}{La pompe du réservoir qui nous permettait de puiser l'eau ne fonctionne plus et les pièces nécessaires à sa réparation ont été égarées dans les égouts juste en dessous du réservoir.}
+{189}{}{Pourquoi n'as-tu pas essayé de récupérer ces pièces toi-même ?}
+{190}{}{Tu n'as rien à craindre de nous !}
+{191}{}{Nous nous reverrons avant ton départ.}
+{192}{}{Tu ne me laisses pas le choix : je dois te neutraliser.}
+{193}{}{Attends. Ne tire pas !}
+{194}{}{Tu n'as rien à craindre de nous !}
+{195}{}{Nous nous reverrons avant ton départ.}
+{196}{}{Tu ne me laisses pas le choix : je dois te neutraliser.}
+{200}{}{Pas de bol.}
+{201}{}{N'est-il possible de réparer la pompe ?}
+{202}{}{Je regrette mais mon peuple a besoin de la puce pour survivre.}
+{203}{}{S'il te plaît, ne prends pas notre puce. Sans elle, nous mourrons.}
+{204}{}{Peut-être, mais les pièces ont été perdues dans les égouts sous le réservoir. Avec tous les monstres qui s'y trouvent, on ne peut pas les récupérer.}
+{205}{}{J'aurais aimé pouvoir t'aider.}
+{206}{}{Je retrouverai ces pièces.}
+{300}{}{Tu vois : Le Chef des Goules de l'Underground.}
 {1000}{}{Set}
-{1001}{}{Master}
-{1002}{}{Water}
+{1001}{}{Maître}
+{1002}{}{Eau}
 {1003}{}{Watershed}
 {1004}{}{Hall}
 {1005}{}{Nécropolis}
-{1006}{}{Chip}
-{1100}{}{He tries to control Necropolis, and has forced us under ground.}
-{1101}{}{He has something to do with the Mutants. I don't know much more.}
-{1102}{}{We get our water from the place under the Watershed. It might have something to do with that.}
-{1103}{}{The broken water pump is there. Also, that's where the Mutants hand out the water from their new source.}
-{1104}{}{Set's so-called palace.}
-{1105}{}{City of the Dead, where we would like to live peacefully, if Set or the Mutants will let us.}
-{1106}{}{We get our water from the place under the Watershed. It might have something to do with that.}
+{1006}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
+{1100}{}{Il essaie de contrôler Nécropolis et nous a obligés à vivre sous terre.}
+{1101}{}{Il a quelque chose à voir avec les Mutants. Je n'en sais pas plus.}
+{1102}{}{La source est située sous le réservoir. Il doit y avoir un rapport.}
+{1103}{}{C'est là que se trouve la pompe à eau hors service. C'est aussi de là que les Mutants distribuent l'eau, à partir de leur nouvelle source.}
+{1104}{}{Le soi-disant palais de Set.}
+{1105}{}{La Cité des Morts, où nous voudrions vivre en paix, si Set ou les Mutants nous le permettaient.}
+{1106}{}{La source est située sous le réservoir. Il doit y avoir un rapport.}

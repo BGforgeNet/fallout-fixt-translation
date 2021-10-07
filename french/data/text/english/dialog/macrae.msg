@@ -1,43 +1,43 @@
-{100}{}{You see a strong, stout man with a bushy beard.}
-{101}{}{You see: MacRae.}
-{102}{}{Hello lad, what might you be looking for today?}
-{103}{}{Hello lass, what might you be looking for today?}
-{104}{}{Ai, What else would you be looking to know?}
-{105}{}{Who are you?}
-{106}{}{What can you tell me about the Blades?}
-{107}{}{Nothing, thanks.}
-{108}{}{Well, I'm MacRae. I help the Blades some against the Deathclaws and that Regulator bunch. Teach'em a bit about protectin 'emselves against those nasties.}
-{109}{}{What kind of stuff do you teach them?}
-{110}{}{Have you seen the Deathclaws?}
-{111}{}{What's the deal with the Regulators}
-{112}{}{Can I ask you something else?}
-{113}{}{Well m' specialty is fightin' with m' fists, and takin' a punch or two more than the guy throwin 'em at me.}
-{114}{}{Sounds like a dumb idea, I'd rather use a gun.}
-{115}{}{Do you think you could teach me anything?}
-{116}{}{Can I ask you something else?}
-{117}{}{Well if that's how you be feeling, you can just turn yourself around and walk away.}
-{118}{}{You seem to be an alright lad, but me times busy with keeping the Blades schooled. If things were to straighten themselves, I might be havin' the time then.}
-{119}{}{Alright, can I ask you something else?}
-{120}{}{Thanks for the info.}
-{121}{}{Seen em I have. Ran like hell, I did. If yer lookin' for 'em, you'll find 'em over there. [MacRae points over to the east]}
-{122}{}{I was thinkin' the Deathclaws were the spawn of an unnatural act, but 'em Regulators are evil. Come once a month or so and they shows their ugly faces and drag a father away from is wee ones.}
-{123}{}{Anything I could do to help?}
-{124}{}{Sounds bad, could I ask you another question?}
-{125}{}{Thanks for the info.}
-{126}{}{You be wantin' to talk to Razor. A good lass if there ever was one.}
-{127}{}{A good group of people is what the Blades are. Stuck 'ere between the damn Regulators and the Deathclaws ain't meant the happiest life for 'em, but they survive.}
-{128}{}{[MacRae claps you on the back] Thanks to you, the Blades are going to live a better life. So, what can an old Scotsman do for ya?}
-{129}{}{You had said earlier that if you had some free time, you could teach me a few things.}
-{130}{}{What have you been doing lately?}
-{131}{}{What do you do around here?}
-{132}{}{Not a problem.}
-{133}{}{Well it's been a wee bit quiet since the Blades helped out Adytum with the Regulators. Me teaching services haven't been in such demand.}
-{134}{}{What do you teach?}
-{135}{}{Sorry to hear that, hope things get more interesting?}
-{136}{}{Could you teach me?}
-{137}{}{Sounds interesting, but I gotta get going.}
-{138}{}{Well I guess I do have the time. Might as well start right now. [MacRae starts showing you some fighting stances, and ways to take punches like a true Scotsman.]}
-{139}{}{You be a quick learner. Hope that helps you in your travels.}
-{140}{}{Well I used to be helpin' the Blades out by teachin' them a few things about protectin' themselves against the Deathclaws and the Regulators. Now with you takin' care of all that, things have been a wee bit on the boring side lately.}
-{141}{}{Good seein' ya.}
+{100}{}{Tu vois un Ecossais robuste à la barbe fournie.}
+{101}{}{Voici MacRae.}
+{102}{}{Bonjour jeune homme, que cherches-tu aujourd'hui ?}
+{103}{}{Bonjour jeune fille, que cherches-tu aujourd'hui ?}
+{104}{}{Que veux-tu savoir d'autre ?}
+{105}{}{Qui es-tu ?}
+{106}{}{Que peux-tu me dire sur les Ecorcheurs ?}
+{107}{}{Rien, merci.}
+{108}{}{Eh bien, je m'appelle MacRae. J'aide les Ecorcheurs à se défendre des Griffemorts et des Régulateurs. Je leur apprends à se protéger de ces sales bêtes.}
+{109}{}{Qu'est-ce que tu leur enseignes ?}
+{110}{}{As-tu vu les Griffemorts ?}
+{111}{}{Que font les Régulateurs ?}
+{112}{}{Je peux te demander autre chose ?}
+{113}{}{Eh bien, ma spécialité, c'est le combat aux poings.}
+{114}{}{Je trouve ça stupide, je préfère utiliser une arme à feu.}
+{115}{}{Tu pourrais m'enseigner quelque chose ?}
+{116}{}{Je peux te demander autre chose ?}
+{117}{}{Eh bien, si c'est ce que tu penses, tu peux t'en aller.}
+{118}{}{Tu m'as l'air sympa, mais moi je m'occupe déjà des Ecorcheurs. Si la situation vient à se calmer, j'aurais peut-être du temps à t'accorder.}
+{119}{}{Très bien, puis-je te poser une autre question ?}
+{120}{}{Merci pour le renseignement.}
+{121}{}{Je les ai vus, effectivement. Si tu les cherches, tu les trouveras là-bas. [MacRae te montre la direction de l'Est]}
+{122}{}{Je pensais que les Griffemorts étaient des êtres contre nature, mais les Régulateurs, eux, sont le mal personnifié. Ces horribles créatures se montrent environ une fois le mois et arrachent à chaque fois un père à ses enfants.}
+{123}{}{Puis-je t'aider ?}
+{124}{}{Ca a l'air terrible, puis-je te poser une autre question ?}
+{125}{}{Merci pour le renseignement.}
+{126}{}{Tu pourras parler à Razor. C'est quelqu'un de bien.}
+{127}{}{Les Ecorcheurs sont un bon groupe. Ils sont coincés ici entre ces satanés Régulateurs et les Griffemorts. Ils n'ont pas la vie facile, mais ils survivent.}
+{128}{}{[MacRae te donne une tape dans le dos] Grâce à toi les Ecorcheurs vivront mieux désormais. Alors, que peut faire pour toi le vieil Ecossais que je suis ?}
+{129}{}{Tu m'as dit que si tu avais un peu de temps libre, tu m'enseignerais certaines choses.}
+{130}{}{Qu'as-tu fait ces derniers temps ?}
+{131}{}{Que fais-tu ici ?}
+{132}{}{Pas de problème.}
+{133}{}{Eh bien, c'est calme depuis que les Ecorcheurs ont aidé le Sanctuaire à se débarrasser des Régulateurs. Je suis loin d'être débordé.}
+{134}{}{Qu'enseignes-tu ?}
+{135}{}{Tu penses que ça va s'arranger ?}
+{136}{}{Pourrais-tu m'enseigner quelque chose ?}
+{137}{}{Ca a l'air intéressant, mais je dois partir.}
+{138}{}{Eh bien, j'ai du temps, je crois. On peut commencer tout de suite. [MacRae commence à te montrer des positions de combat et des coups à la manière d'un véritable Ecossais.]}
+{139}{}{Tu apprends vite. J'espère que ça t'aidera au cours de tes voyages.}
+{140}{}{Eh bien, autrefois j'aidais les Ecorcheurs en leur apprenant à se protéger des Griffemorts et des Régulateurs. Mais depuis que tu as pris la situation en main, ma vie est devenue plutôt ennuyeuse.}
+{141}{}{Ca m'a fait plaisir de te voir.}
 {200}{}{You earn 250 experience for learning to brawl like a Scotsman.}

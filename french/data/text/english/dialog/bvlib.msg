@@ -1,2 +1,2 @@
-{100}{}{This is the Vault 15 library. You've seen this all before in your Vault's library.}
-{101}{}{There looks to be little of value left in the room.}
+{100}{}{C'est la bibliothèque. Tu connais bien les lieux car ton abri possède une bibliothèque identique.}
+{101}{}{On dirait qu'il n'y a plus rien d'intéressant à prendre dans cette pièce.}

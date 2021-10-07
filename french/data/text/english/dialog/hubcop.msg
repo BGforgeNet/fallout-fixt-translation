@@ -1,27 +1,27 @@
-{100}{}{You see a police officer.}
-{101}{}{Greetings! You should watch your... uh, I mean, watch... (He gives a strange look to the other officers and tilts his head in your direction.)}
-{102}{}{Hi there, stranger... Wait! I know you! You're wanted for theft! Don't move!}
-{103}{}{Okay, I give up.}
-{104}{}{Eat lead!}
-{105}{}{Kor rok!}
-{106}{}{(Put your hands in the air and give up.)}
-{107}{}{Watch your back, this isn't a safe place.}
-{108}{}{Watch your scripts, }
-{109}{}{guy.}
-{110}{}{lady.}
-{111}{}{You shouldn't be here; it's not safe.}
-{112}{}{Old Town's really fallen apart.}
-{113}{}{This place smells.}
-{114}{}{We should tear this whole area down.}
-{115}{}{I know that damn Thieves' Circle is around here, somewhere.}
-{116}{}{Poor Harold, he's had a rough life.}
-{117}{}{Keep your nose clean.}
-{118}{}{Hey, I know you. No more fighting, okay?}
-{119}{}{You better not be thinking of starting another fight!}
-{120}{}{If we catch you fighting again, you're going in!}
-{121}{}{Did you hear? The Far Go Traders got whipped out.}
-{122}{}{The Water Merchants are history. That's a blessing.}
-{123}{}{Someone killed off the Crimson Caravan.}
-{124}{}{Did you hear?! The Underground has finally been wiped out!}
-{125}{}{Decker's dead!}
-{126}{}{This town would be safer with Decker out of the picture.}
+{100}{}{Voici un officier de police.}
+{101}{}{Bonjour ! Tu devrais faire attention... euh, je veux dire... [l'officier regarde d'un drôle d'air les autres officiers et leur fait signe de la tête en te montrant.]}
+{102}{}{Salut étranger... Attends ! Je te reconnais ! Tu fais l'objet d'un avis de recherche pour vol ! Pas un geste !}
+{103}{}{C'est bon, je me rends.}
+{104}{}{Je vais te descendre !}
+{105}{}{Karr Rok !}
+{106}{}{[Rends-toi.]}
+{107}{}{Fais gaffe, le coin n'est pas très sûr.}
+{108}{}{Fais gaffe à tes scripts, }
+{109}{}{mec.}
+{110}{}{poulette.}
+{111}{}{Tu ne devrais pas être ici. L'endroit n'est pas sûr.}
+{112}{}{La Vieille Ville n'est vraiment plus qu'un tas de ruines.}
+{113}{}{Ca pue ici.}
+{114}{}{On devrait tout raser.}
+{115}{}{Je sais que ce foutu Cercle des Voleurs se trouve ici, quelque part.}
+{116}{}{Pauvre Harold, il n'a pas rigolé tous les jours.}
+{117}{}{Pas de conneries, hein ?}
+{118}{}{Hé. Je te connais. Plus de bagarre, d'accord ?}
+{119}{}{Ne t'avise pas de recommencer à te battre !}
+{120}{}{La prochaine fois qu'on te surprend en train de te bagarrer ce sera la taule !}
+{121}{}{T'as entendu ? Les Marchands du Lointain se sont fait balayés.}
+{122}{}{Les Marchants d'Eau, c'est plus que de l'histoire ancienne. Quelle chance !}
+{123}{}{Quelqu'un a décimé la Caravane Ecarlate.}
+{124}{}{T'as entendu ! L'Underground a finalement été anéanti !}
+{125}{}{Decker est Mort !}
+{126}{}{Débarrassée de Decker, cette ville serait plus sûre.}

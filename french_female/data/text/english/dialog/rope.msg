@@ -1,7 +1,7 @@
-{100}{}{This elevator shaft cannot be descended without a rope.}
-{101}{}{You successfully sling the rope onto and down the elevator shaft.}
-{102}{}{You cannot climb down the pit using just the metal beam.}
-{103}{}{You successfully attach the rope to the metal beam.}
-{104}{}{This elevator shaft cannot be descended without a rope.}
-{105}{}{You successfully sling the rope onto and down the elevator shaft.}
-{106}{}{There is no need to secure another rope to the elevator shaft.}
+{100}{}{La cage d'ascenseur n'est pas facile à descendre sans corde.}
+{101}{}{Tu réussis à suspendre une corde dans la cage d'ascenseur.}
+{102}{}{Tu ne peux pas redescendre la cage en n'utilisant que la poutre métallique.}
+{103}{}{Tu réussis à attacher la corde à la poutre métallique.}
+{104}{}{La cage d'ascenseur n'est pas facile à descendre sans corde.}
+{105}{}{Tu réussis à suspendre une corde dans la cage d'ascenseur.}
+{106}{}{Inutile de fixer une autre corde dans la cage d'ascenseur.}

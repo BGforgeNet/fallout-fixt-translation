@@ -1,7 +1,7 @@
-{101}{}{I do not need your services right now. Perhaps later.}
-{102}{}{Help! Save me!}
-{103}{}{You must die for what you've done!}
-{104}{}{Spare me! Please!}
-{105}{}{Are they dead yet? Maybe there's more of them!}
-{106}{}{Your arrival was timely, my friend. Allow me to present you with a small token of my gratitude.}
-{107}{}{Your arrival was timely, my friend. Allow me to present you with a small token of my gratitude.}
+{101}{}{J'ai pas besoin de tes services pour l'instant. Plus tard, peut-être.}
+{102}{}{Au secours !}
+{103}{}{Tu dois mourir pour ce que tu as fait !}
+{104}{}{Pitié !}
+{105}{}{Ils sont morts ? Peut-être qu'il en reste !}
+{106}{}{T'es tombée à pic, mon amie. Reçois cette petite marque de ma gratitude.}
+{107}{}{T'es tombée à pic, mon amie. Reçois cette petite marque de ma gratitude.}

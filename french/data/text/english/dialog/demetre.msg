@@ -1,146 +1,146 @@
-{100}{}{You see: Demetre.}
-{101}{}{Hey there! How're you doin'? The name's Demetre, Demetre Romara, head of the best damn caravan in the wastes. Are you lookin' for a job?}
-{102}{}{Hmmm, you don't look very strong at all, but... you MUST be great with guns then to have survived the outside! Hell, you're probably one mean fighter when the time comes!}
-{103}{}{You look pretty fit.}
-{104}{}{You look pretty strong.}
-{105}{}{Damn, you look strong!}
-{106}{}{Damn! You look like you could lift a mountain!}
-{107}{}{Yeah, so?}
-{108}{}{What's it to you?}
-{109}{}{Huh?}
-{110}{}{That's just what we're lookin' for! You like the thrill and excitement of battle, don't you?! Bullets flying everywhere, whippin' by your head, blowin' your enemy in two, seein' the fear in their eyes! Ahhhh, that's the life! You look like the kind of person that could serve us well, and we pay well! Oh yes, we do! We've just had a few new openin's, if you're interested; but of course you are, right?!}
-{111}{}{What's the pay?}
-{112}{}{I'll kill anything that gets in our way!}
-{113}{}{No thanks.}
-{114}{}{I need a Water Chip.}
-{115}{}{What do you know about the missing caravans?}
-{116}{}{I've got to go.}
-{117}{}{Ugggg uggg!}
-{118}{}{We pay 600 bucks a job! That's each way! Hell, people say we take all the dangerous routes but I say they're the most excitin'! You need a little excitement in your life, am I right? Of course I am!}
-{119}{}{Hell, I think that's just what I'm lookin' for!}
-{120}{}{Do you always talk so loud?}
-{121}{}{Dangerous?}
-{122}{}{No thanks, bub.}
-{123}{}{Damn straight it is! Just go talk to Keri in the next room, she'll let you know when the next caravan is leavin'.}
-{124}{}{Bub? What the hell are you talkin' about? Well, no skin off my back.}
-{125}{}{What, are you afraid of loud noises or somethin'?}
-{126}{}{Yes.}
-{127}{}{Only at night.}
-{128}{}{No, I was just wondering you were deaf or dumb.}
-{129}{}{No, but my ears were getting a little sore.}
-{130}{}{Ha! Maybe both! Well, go talk to Keri in the next room if you do want a job.}
-{131}{}{You're a smart little ass, aren't you? Well, it doesn't matter to me! Just as long as you defend the caravans, I'll be satisfied. Go talk to Keri in the next room if you want a job.}
-{132}{}{Ha! That's a funny one! Well, if you think you can brave the darkness, come see me.}
-{133}{}{Of course it's dangerous - why else would I fork out 600 bucks?}
-{134}{}{Oh, okay. Bye.}
-{135}{}{I'll still take the job.}
-{136}{}{Get out of here before I rip your head off!}
-{137}{}{I'll shove your head up your ass!}
-{138}{}{That's it!}
-{139}{}{Of course you will! Go talk to Keri in the next room, she works the schedules.}
-{140}{}{Hell, that's disappointin', but oh well.}
-{141}{}{Yeah! I like you! You're hired! Go talk to Keri in the next room; she'll assign you to a caravan.}
-{142}{}{A Water Chip? Hmmm, haven't heard of one of those before. You might want to check with one of the shops outside; they have lots of stuff. So, did you want a job?}
-{143}{}{Well, what's it pay?}
-{144}{}{No, not really.}
-{145}{}{Not much, I've only lost two. I really have no idea why they're hittin' the Far Go Traders more than anyone else.}
-{146}{}{Any suspicions?}
-{147}{}{What about your routes and cargo?}
-{148}{}{Okay, thanks.}
-{149}{}{Who ever is doin' this has got to have one hell of a raidin' party. Our caravans are well armed and you would think that someone would have gotten away by now. They don't leave a trace.}
-{150}{}{So, how much does that job pay?}
-{151}{}{What about your routes and cargo?}
-{152}{}{Okay, thanks.}
-{153}{}{Hell, we go to more dangerous places than they do and our cargo is better!}
-{154}{}{How is your cargo better?}
-{155}{}{Just checking, thanks.}
-{156}{}{You're full of crap!}
-{157}{}{Well, okay - maybe it's not better, but we do carry a larger variety than them.}
-{158}{}{Okay, thanks.}
-{159}{}{You know, Beth's been yappin' about some Deathclaw. I would check that out if I where you! I've heard a few rumors from other sources about somethin' creepin' around at night to the northwest.}
-{160}{}{Sorry, but we're paid good money to be sure the job gets done! We'll only hire the best! We've got to have reliable men and women on those caravans!}
-{161}{}{Like I really wanted a job, ya' loud-mouthed moron!}
-{162}{}{Sorry to have bothered you.}
-{163}{}{Please, can I have another job?}
-{164}{}{Huta?}
-{165}{}{I said we won't hire you!}
-{166}{}{Sorry, I'm done takin' risks with you!}
-{167}{}{You're wastin' your time here!}
-{168}{}{Please stop botherin' me!}
-{169}{}{Beat it.}
-{170}{}{Demetre ignores you.}
-{171}{}{Hell, I don't hire drug addicts! If you want a job, you better sober up!}
-{172}{}{I'm no drug add... I mean... Arg!}
-{173}{}{Blah!}
-{174}{}{Doing drugs are we? Hell, it's a good thing we aren't hiring your ass again!}
-{175}{}{Hell no! I don't think you realize just how much is at stake! We can't afford to take the risk! Hell, I don't no how the Far Go Traders are still in business with all those missin' caravans!}
-{176}{}{Sorry, you'll have to see if one of the other caravans will take a risk with you. I can't afford to take another one.}
-{177}{}{Get out of here! You make me sick!}
-{178}{}{Hey! What do you think you're doin'?}
-{179}{}{That leads to our warehouse.}
-{180}{}{It can only be opened from the other side.}
-{181}{}{You're a strange one.}
-{182}{}{You're wastin' your time.}
-{183}{}{He ignores you.}
-{184}{}{So? Do you want a job or what? I'm offerin' you a great chance at some excitement and lots of cash! You can never have too much of either!}
-{185}{}{Oh, yeah. How much was that?}
-{186}{}{I'll kill anything that gets in our way!}
-{187}{}{No, thanks.}
-{188}{}{I need a Water Chip.}
-{189}{}{What do you know about the missing caravans?}
-{190}{}{I've got to go.}
-{191}{}{Ruk luk?}
-{192}{}{Hey, you did a fine job on that last caravan - good goin'! Did you need somethin'?}
-{193}{}{Yeah, I wanted another job.}
-{194}{}{I need a Water Chip.}
-{195}{}{What do you know about the missing caravans?}
-{196}{}{No. Just stopped by to say hi.}
-{197}{}{Nothing, bye.}
-{198}{}{We lost all of our cargo! I'm afraid we can't hire you anymore. Sorry.}
-{199}{}{You're lucky, we almost lost that caravan you bugged out on! I'm afraid we can't hire you for any more jobs. Sorry.}
-{200}{}{We're not hiring, so what do you want?}
-{201}{}{Get lost! We're not hiring.}
-{202}{}{I need a Water Chip.}
-{203}{}{Tell me what you know about the missing caravans.}
-{204}{}{I want your ugly face out of my way!}
-{205}{}{I want your head on a stick!}
-{206}{}{Never mind.}
-{207}{}{Ruk luk?}
-{208}{}{You think you're tough? Don't make me laugh!}
-{209}{}{Well, you should be talking to my daughter, Keri; she takes care of all that! She's in the next room.}
-{210}{}{I already told you. Just talk to Keri in the next room.}
-{211}{}{Your daughter?}
-{212}{}{That ugly thing is your daughter? That explains a lot!}
-{213}{}{Okay.}
-{214}{}{Yes, she's my pride and joy! Isn't she beautiful? Just talk to her when you want another job. Some day, hopefully soon, I'll be able to retire and she'll take over for me.}
-{215}{}{You can't if you're both dead!}
-{216}{}{Okay, thanks.}
-{217}{}{You dare insult someone's family? I should rip your heart out!}
-{218}{}{I'm sorry, I was just kidding!}
-{219}{}{I'll do more than insult you!}
-{220}{}{Too late for apologies! (His face gets very red... then he speaks in a calm, controlled voice.) Get out before I make good on my threat.}
-{221}{}{Is that your poor attempt at a threat?}
-{222}{}{It's not a threat! You're about to die!}
-{223}{}{Yeah, well, I gave it the old college try!}
-{224}{}{No, I'm sorry. I've got to go. Bye!}
-{225}{}{Well, I've got to admit, I've heard better.}
-{226}{}{Yeah, I know. See ya.}
-{227}{}{Well, you're still going to die!}
-{228}{}{Uh, okay.}
-{229}{}{Well, what are you waiting for? There are caravans to run!}
-{230}{}{They're not ready to leave yet.}
-{231}{}{I've still got some things to do first.}
-{232}{}{I need a Water Chip.}
-{233}{}{Tell me what you know about the missing caravans.}
-{234}{}{Okay, bye.}
-{235}{}{Rik rok?}
-{236}{}{Roerow?}
-{237}{}{Damn! You're missing out on some good action! I'm sure there are lots of people, creatures, and things waiting to attack the caravans! Nothing beats a good fire fight! Here - take this, it'll give you something to play with until the next caravan is ready to go. [He hands you a frag grenade.]}
-{238}{}{Damn! Do our caravans ever leave?}
-{239}{}{What about your boat?}
-{240}{}{Don't take too long.}
-{241}{}{Keri, are we booked yet?}
-{242}{}{You've got to kill the enemy before it gets you!}
-{243}{}{Nothin' like squeezin' the life out of your enemies!}
-{244}{}{The hell you are!}
-{245}{}{Damn it, where's my gun?!}
+{100}{}{Voici Demetre.}
+{101}{}{Bonjour ! Comment ça va ? Je m'appelle Demetre, Demetre Romara, et je suis le chef de la meilleure caravane du désert. Tu cherches du travail ?}
+{102}{}{Hmmm, tu n'as pas l'air très costaud, mais... tu DOIS savoir manier les armes pour avoir survécu dehors ! Ouais, tu dois savoir te battre quand il le faut !}
+{103}{}{Tu as l'air en forme.}
+{104}{}{Tu as l'air robuste.}
+{105}{}{La vache, tu as l'air costaud !}
+{106}{}{La vache ! Quelqu'un d'aussi costaud doit être capable de soulever des montagnes !}
+{107}{}{Ouais, alors ?}
+{108}{}{Ca te regarde ?}
+{109}{}{Hein ?}
+{110}{}{C'est exactement ce qu'on cherche ! Tu aimes le danger et tu as la fièvre du combat, non ?! Les balles qui fusent de tous les côtés, qui te frôlent le visage, qui font exploser la tête de tes ennemis ! Tu aimes voir la peur dans leurs yeux ! Ahhhh, c'est ça la vie ! Tu es exactement le genre de personne qu'il nous faut, et nous payons bien ! Ah ça oui ! Nous avons quelques propositions à te faire, si ça t'intéresse ; mais c'est le cas bien sûr, non ?!}
+{111}{}{Quel est le salaire ?}
+{112}{}{Je tuerai tous ceux qui se mettront en travers de notre route !}
+{113}{}{Non, merci.}
+{114}{}{J'ai besoin d'une puce d'eau.}
+{115}{}{Que sais-tu sur les caravanes disparues ?}
+{116}{}{Je dois partir.}
+{117}{}{Beuh euhhh !}
+{118}{}{Nous payons 600 caps par voyage ! 600 à l'aller et 600 au retour ! La vache, les gens disent qu'on ne prend que des routes dangereuses, mais moi je dis que ce sont les plus stimulantes ! Il faut bien savoir mettre un peu de piment dans la vie, tu ne crois pas ? Hein ?}
+{119}{}{La vache, c'est exactement ce que je cherchais !}
+{120}{}{Tu parles toujours aussi fort ?}
+{121}{}{Dangereuses ?}
+{122}{}{Non merci.}
+{123}{}{Bon, c'est clair ! Va voir Keri dans la pièce à côté, elle te dira quand part la prochaine caravane.}
+{124}{}{Quoi ? Ca ne m'atteint pas.}
+{125}{}{Quoi ? Ne me dis pas que tu as peur du bruit tout de même ?}
+{126}{}{Oui.}
+{127}{}{Seulement la nuit.}
+{128}{}{Non, je me demandais juste si tu étais sourd ou débile.}
+{129}{}{Non, mais j'avais un peu mal aux oreilles.}
+{130}{}{Ah ! Peut-être les deux ! Eh bien, va voir Keri dans la pièce à côté si tu veux du travail.}
+{131}{}{T'es du genre malin toi hein ! Enfin, ça m'est égal ! Tant que tu défendras les caravanes, ça me sera égal. Va voir Keri dans la pièce à côté si tu veux du travail.}
+{132}{}{Ah ! C'est pas mal ça ! Eh bien, si tu penses être capable d'affronter l'obscurité, viens me voir.}
+{133}{}{Bien sûr que c'est dangereux - pourquoi crois-tu que j'allongerais 600 caps sinon ?}
+{134}{}{Oh, ok. Salut.}
+{135}{}{J'accepte le poste malgré tout.}
+{136}{}{Fiche le camp d'ici avant que je ne te torde le cou !}
+{137}{}{Tu vas voir ce que tu vas voir !}
+{138}{}{C'est ça !}
+{139}{}{Bien sûr que oui ! Va voir Keri dans la pièce à côté, c'est elle qui fait les programmes.}
+{140}{}{Ah, c'est dommage, mais bon.}
+{141}{}{Ouais ! Je t'adore ! Je t'engage ! Va voir Keri dans la pièce à côté, elle t'affectera à une caravane.}
+{142}{}{Une puce d'eau ? Hmmm, je n'ai jamais entendu parler de ça. Tu devrais aller te renseigner dans les boutiques d'à côté, on y trouve de tout. Alors, tu voulais un boulot, non ?}
+{143}{}{Eh bien, quel est le salaire ?}
+{144}{}{Non, pas vraiment.}
+{145}{}{Pas plus que ça, je n'en ai perdu que deux. Je ne sais vraiment pas pourquoi ils s'attaquent plus aux Marchands du Lointain qu'aux autres.}
+{146}{}{Des soupçons ?}
+{147}{}{Parle-moi de tes itinéraires et de tes chargements.}
+{148}{}{Ok, merci.}
+{149}{}{Ceux qui font le coup sont très forts. Nos caravanes sont bien armées et on devrait en savoir plus sur eux maintenant. Mais ils ne laissent aucune trace.}
+{150}{}{Alors, quel est le salaire pour ce poste ?}
+{151}{}{Parle-moi de tes itinéraires et de tes chargements.}
+{152}{}{Ok, merci.}
+{153}{}{On va dans des endroits plus dangereux qu'eux et nos chargements sont de meilleure qualité !}
+{154}{}{Comment ça de meilleure qualité ?}
+{155}{}{Je me renseigne. Merci.}
+{156}{}{Tu racontes n'importe quoi !}
+{157}{}{Ok, d'accord. Peut-être qu'ils ne sont pas de meilleure qualité mais en tout cas ils sont plus variés que les leurs.}
+{158}{}{Ok, merci.}
+{159}{}{Tu sais, Beth a parlé d'un Griffemort. Je me renseignerais si j'étais toi ! D'après la rumeur, il y a une créature qui erre la nuit au Nord-Ouest.}
+{160}{}{Désolé, mais on paie cher pour que le travail soit fait ! On n'embauche que les meilleurs ! Il nous faut des hommes et des femmes sérieux dans ces caravanes !}
+{161}{}{Comme si je voulais vraiment du travail, espèce de gueulard écervelé !}
+{162}{}{Pardon de t'avoir dérangé.}
+{163}{}{S'il te plaît, tu peux me donner un autre poste ?}
+{164}{}{Hein ?}
+{165}{}{Je t'ai dit qu'on ne te prendrait pas !}
+{166}{}{Pardon, mais je ne prends plus de risques avec toi !}
+{167}{}{Tu perds ton temps ici !}
+{168}{}{S'il te plaît, laisse-moi tranquille !}
+{169}{}{Fiche le camp.}
+{170}{}{Demetre t'ignore.}
+{171}{}{Hé, j'embauche ni les ivrognes, ni les hallucinés ! Si tu veux du travail, reviens à jeun !}
+{172}{}{Je suis à jeun... Je veux dire... Arg !}
+{173}{}{Blah !}
+{174}{}{Tu prends des stimulants, hein ? Heureusement qu'on ne te réengage pas !}
+{175}{}{Oh, non ! Je crois que tu ne te rends pas compte de ce qui est en jeu ! On ne peut pas se permettre de prendre le moindre risque ! La vache, je ne sais pas comment les Marchands du Lointain peuvent encore travailler avec toutes ces caravanes qui ont disparu !}
+{176}{}{Désolé, va voir si les autres sont prêts à prendre le risque de t'embaucher. Moi, je ne peux pas me le permettre.}
+{177}{}{Sors d'ici, tu me rends malade !}
+{178}{}{Hé ! Tu te crois où ?}
+{179}{}{Ca mène à notre entrepôt.}
+{180}{}{Ca s'ouvre par l'autre côté.}
+{181}{}{Quel étrange personnage tu fais !}
+{182}{}{Tu perds ton temps.}
+{183}{}{Il t'ignore.}
+{184}{}{Alors ? Tu veux du travail ou quoi ? Je te donne l'occasion de t'éclater pour un paquet de fric ! Tu ne trouveras nulle part une occasion comme celle-là !}
+{185}{}{Oh, ouais. Combien ?}
+{186}{}{Je tuerai tous ceux qui se mettront en travers de notre route !}
+{187}{}{Non, merci.}
+{188}{}{J'ai besoin d'une puce d'eau.}
+{189}{}{Que sais-tu sur les caravanes disparues ?}
+{190}{}{Je dois partir.}
+{191}{}{Bahh ?}
+{192}{}{Hé, tu as fait du bon travail avec la dernière caravane - pas mal du tout ! Tu as besoin de quelque chose ?}
+{193}{}{Ouais, je voudrais un autre poste.}
+{194}{}{J'ai besoin d'une puce d'eau.}
+{195}{}{Que sais-tu sur les caravanes disparues ?}
+{196}{}{Non. Je m'arrêtais juste dire bonjour.}
+{197}{}{Rien, salut.}
+{198}{}{Nous avons perdu toute notre chargement ! Je crois qu'on n'aura plus besoin de toi, désolé.}
+{199}{}{Tu as de la chance, on a bien failli perdre la caravane ! Je crois que nous n'aurons plus besoin de toi, désolé.}
+{200}{}{Nous n'embauchons pas, alors qu'est-ce que tu veux ?}
+{201}{}{Va-t'en ! Nous n'embauchons pas.}
+{202}{}{J'ai besoin d'une puce d'eau.}
+{203}{}{Dis-moi ce que tu sais sur les caravanes disparues.}
+{204}{}{Je voudrais ne plus voir ta face de rat !}
+{205}{}{Je voudrais voir ta tête sur un pieu !}
+{206}{}{Qu'importe.}
+{207}{}{Bahh ?}
+{208}{}{Tu te crois robuste ? Laisse-moi rire !}
+{209}{}{Eh bien, tu devrais aller voir ma fille, Keri ; c'est elle qui s'occupe de tout ça ! Elle est dans la pièce à côté.}
+{210}{}{Je te l'ai déjà dit. Va voir Keri dans la pièce à côté.}
+{211}{}{Ta fille ?}
+{212}{}{Cet horrible laideron, c'est ta fille ? Ca explique tout !}
+{213}{}{D'accord.}
+{214}{}{Oui, elle est ma fierté et ma joie ! N'est-elle pas jolie ? Va la voir dès que tu voudras un autre poste. Un jour... bientôt j'espère, je partirai en retraite et elle prendra la relève.}
+{215}{}{Impossible si vous êtes tous les deux morts !}
+{216}{}{Ok, merci.}
+{217}{}{Tu oses insulter un membre de ma famille ? Je devrais de tordre le cou !}
+{218}{}{Excuse-moi, je plaisantais !}
+{219}{}{Je ferai bien plus que de t'insulter !}
+{220}{}{Trop tard pour des excuses ! [Il devient très rouge... puis parle d'une voix calme, contenue.] Va-t'en avant que je ne mette mes menaces à exécution !}
+{221}{}{Des menaces, ça ?}
+{222}{}{Ce ne sont pas des menaces ! Tu vas mourir !}
+{223}{}{Ouais, eh bien, tu veux me défier ?}
+{224}{}{Non, excuse-moi. Je dois partir. Au revoir !}
+{225}{}{Eh bien, je dois admettre que j'ai vu mieux.}
+{226}{}{Ouais, je sais. Au revoir.}
+{227}{}{Eh bien, tu vas quand même mourir !}
+{228}{}{Euh, ok.}
+{229}{}{Eh bien, qu'est-ce que tu attends ? Il y a des caravanes à accompagner !}
+{230}{}{Elles ne sont pas encore prêtes à partir.}
+{231}{}{J'ai encore quelques petites choses à faire avant.}
+{232}{}{J'ai besoin d'une puce d'eau.}
+{233}{}{Dis-moi ce que tu sais sur les caravanes disparues.}
+{234}{}{Ok, au revoir.}
+{235}{}{Beuh ?}
+{236}{}{Youhou ?}
+{237}{}{La vache ! Tu vas manquer toute l'action ! Je suis sûr que des tas de gens, de créatures et d'autres choses attendent d'attaquer les caravanes ! Rien de tel qu'un bon échange de coups de feu ! Voilà - prend ça, comme ça tu auras de quoi t'occuper d'ici le départ de la prochaine caravane. [Il te donne une grenade à fragmentation.]}
+{238}{}{Bon sang ! Nos caravanes vont-elles partir un jour ?}
+{239}{}{Et ton bateau ?}
+{240}{}{Ne traîne pas trop.}
+{241}{}{Keri, où en est-on ?}
+{242}{}{Tu dois tuer l'ennemi avant qu'il ne te tue !}
+{243}{}{Dans la vie, il n'y a rien de tel que de se débarrasser de ses ennemis !}
+{244}{}{Tu es le diable !}
+{245}{}{Bon sang, où est mon arme ?!}

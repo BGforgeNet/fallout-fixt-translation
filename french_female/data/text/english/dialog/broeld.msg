@@ -1,6 +1,6 @@
-{100}{}{You see an Elder of the Brotherhood.}
-{101}{}{Greetings, Initiate.}
-{102}{}{Maxson seems a bit stressed lately.}
-{103}{}{Vree has been making some very disturbing discoveries.}
-{104}{}{I wonder if Maxson is right about that army in the north.}
-{105}{}{Good day, Initiate.}
+{100}{}{Voici un Ancien de la Confrérie.}
+{101}{}{Salut à toi, Initié.}
+{102}{}{Maxson semble avoir les nerfs à vif depuis quelque temps.}
+{103}{}{Vree ne cesse de faire des découvertes très désagréables.}
+{104}{}{Je me demande si Maxson a raison au sujet de cette armée au Nord.}
+{105}{}{Salut, Initié.}

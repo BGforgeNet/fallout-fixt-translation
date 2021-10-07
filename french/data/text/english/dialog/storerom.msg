@@ -1,1 +1,1 @@
-{100}{}{This room looks particularly ransacked.}
+{100}{}{Cette pièce semble avoir été entièrement pillée.}

@@ -1,7 +1,7 @@
-{100}{}{You see a cabinet.}
-{101}{}{There seems to be an electronic lock on this cabinet.}
-{102}{}{You easily unlock the cabinet.}
-{103}{}{This lock seems more troublesome than you first believed.}
-{104}{}{You easily bypass the lock on the cabinet.}
-{105}{}{This lock seems more troublesome than you first believed.}
-{106}{}{That skill does not effect the cabinet.}
+{100}{}{Tu vois un coffre.}
+{101}{}{Ce coffre semble équipé d'une fermeture électronique.}
+{102}{}{Tu déverrouilles le coffre sans problème.}
+{103}{}{Ce verrou a l'air plus compliqué que tu ne le pensais.}
+{104}{}{Tu viens facilement à bout du verrou du coffre.}
+{105}{}{Ce verrou a l'air plus compliqué que tu ne le pensais.}
+{106}{}{Cette compétence ne te permet pas d'ouvrir le coffre.}

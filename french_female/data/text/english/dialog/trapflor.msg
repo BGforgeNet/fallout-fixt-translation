@@ -1,15 +1,15 @@
-{100}{}{ detects a trap.}
-{101}{}{You detect a trap here.}
-{102}{}{ sets off a trap, alerting the base to your presence!}
-{103}{}{You set off a trap, alerting the base to your presence!}
-{104}{}{You earn }
-{105}{}{ experience for successful use of your Traps skill.}
-{106}{}{ disarms the trap.}
-{107}{}{You disarm the trap.}
-{108}{}{ sets off a trap!}
-{109}{}{You set off a trap!}
-{110}{}{You detect a trap here, but fail to disarm it.}
-{111}{}{You fail to disarm it.}
-{112}{}{ fails to disarm it.}
-{113}{}{ sets off the trap!}
-{114}{}{You set off the trap!}
+{100}{}{ détectes un piège.}
+{101}{}{Tu détectes un piège ici.}
+{102}{}{ amorce un piège, alertant la base de ta présence !}
+{103}{}{Tu amorces un piège, alertant la base de ta présence !}
+{104}{}{Tu gagnes }
+{105}{}{ points d'expérience pour avoir utilisé ta compétence piège avec succès.}
+{106}{}{ désamorces le piège.}
+{107}{}{Tu désamorces le piège.}
+{108}{}{ a déclenché un piège !}
+{109}{}{Tu as déclenché un piège !}
+{110}{}{Tu as détecté un piège ici, mais tu ne parviens pas à le désarmer.}
+{111}{}{Tu ne parviens pas à le désarmer.}
+{112}{}{ ne parvient pas à le désarmer.}
+{113}{}{ a déclenché le piège !}
+{114}{}{Tu as déclenché le piège !}

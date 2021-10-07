@@ -1,11 +1,11 @@
-{100}{}{You see the Job Post board.}
-{101}{}{"JOBS!  Do you need work? Do you need money?  LOOK HERE!"}
-{102}{}{"Please do not put up duplicate messages. --Sheriff Greene"}
-{103}{}{1       Missing Caravan!  Reward!}
-{104}{}{2       Caravan Guards Wanted.}
+{100}{}{Voici l'Agence pour l'Emploi}
+{101}{}{POSTES A POURVOIR ! Besoin de travailler ? Besoin d'argent ? NOUS AVONS CE QU'IL VOUS FAUT !}
+{102}{}{Prière de ne déposer aucun message en double exemplaire. - Le Shérif Greene.}
+{103}{}{1- Caravane Disparue ! Récompense !}
+{104}{}{2- Besoin de Gardes de Caravane.}
 {105}{}{}
 {106}{}{}
 {107}{}{}
 {108}{}{}
-{109}{}{[Exit]}
-{110}{}{"REWARD: MISSING CARAVAN.  A reward of 500 caps goes to anyone who is able to catch the bastards who have been ransacking our caravans. For details, see Butch Harris, Far Go Traders, northeast of the Merchant Market."}
+{109}{}{Sortie}
+{110}{}{RECOMPENSE : CARAVANE DISPARUE. Une récompense de 500 scripts du Centre sera offerte à toute personne capable d'attraper ces fumiers qui ont mis à sac nos caravanes. Pour plus d'informations, s'adresser à Butch Harris, Marchand du Lointain, Nord-Est du Grand Marché.}

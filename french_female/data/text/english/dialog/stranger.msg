@@ -1,6 +1,6 @@
-{100}{}{Let's rock!}
-{101}{}{Looks like you could use some assistance.}
-{102}{}{Time to kick some ass!}
-{103}{}{Don't worry; I've got your back.}
+{100}{}{C'est parti !}
+{101}{}{Il semblerait que vous puissiez utiliser un peu d'aide.}
+{102}{}{Je vous aiderai.}
+{103}{}{Je ne parle pas beaucoup. Désolé.}
 {104}{}{Seems like you could use a little help.}
 {200}{}{I don't talk much. Sorry.}

@@ -1,1 +1,1 @@
-{100}{}{This is an old shack. It is barely standing, and seems to have been looted long ago.}
+{100}{}{Voici une vieille cabane. Elle tient à peine debout et semble avoir été saccagée il y a longtemps.}

@@ -1,4 +1,4 @@
-{100}{}{It looks like a small gold trophy, with a clasp and a bronze plaque.}
-{101}{}{You successfully steal the urn from the countertop.}
-{102}{}{You swipe the urn, and hope that nobody saw your clumsy attempt.}
-{103}{}{That looks pretty valuable. If you're going to pick up the urn, you should be more surreptitious about it.}
+{100}{}{On dirait un petit trophée en or, avec un fermoir et une plaque en bronze.}
+{101}{}{Tu réussis à voler l'urne du haut du comptoir.}
+{102}{}{Tu voles l'urne et espères que personne n'a été témoin de ta tentative maladroite.}
+{103}{}{Ca a l'air précieux. Si tu veux t'emparer de l'urne, tu vas devoir faire attention.}

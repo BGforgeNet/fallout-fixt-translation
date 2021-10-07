@@ -1,6 +1,6 @@
-{100}{}{You see a Junktown peasant.}
-{101}{}{Get out of here!}
-{102}{}{I've heard bad things about you. Are they true?}
-{103}{}{Hi.}
-{104}{}{This is our place. Wanna hang out for a while?}
-{105}{}{Hmmm, you look juicy...}
+{100}{}{Voici un paysan de Dépôtville.}
+{101}{}{Sors d'ici !}
+{102}{}{J'ai appris des choses pas très belles sur ton compte. C'est vrai ce qu'on raconte ?}
+{103}{}{Salut.}
+{104}{}{C'est ici qu'on vit. T'as un instant ?}
+{105}{}{Hmmm, tu me plais, toi...}

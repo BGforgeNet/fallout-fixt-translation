@@ -1,1 +1,1 @@
-{100}{}{You see a fierce raider. This could possibly be one of the fabled Vipers.}
+{100}{}{Voici un redoutable pillard. Il s'agit peut-être d'un membre des légendaires Vipères.}

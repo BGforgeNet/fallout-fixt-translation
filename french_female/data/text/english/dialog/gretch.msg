@@ -1,42 +1,42 @@
-{100}{}{You see a rotund midget.}
-{101}{}{You see: Gretch, Doc Morbid's assistant.}
-{102}{}{What you down here for?}
-{103}{}{Urgh?}
-{104}{}{Your boss sent me down.}
-{105}{}{Don't talk to me like that, cretin.}
-{106}{}{To see how you're doing.}
-{107}{}{Nothing. Goodbye.}
-{108}{}{I know you... right?}
-{109}{}{No.}
-{110}{}{Yes.}
-{111}{}{Never mind.}
-{112}{}{Um... okay.}
-{113}{}{What are you doing?}
-{114}{}{Okay? Does that mean that you're almost done?}
-{115}{}{You're a little slow, aren't you?}
-{116}{}{Yes, yes, almost done.}
-{117}{}{With what?}
-{118}{}{It's about time.}
-{119}{}{Great. I'll see you later.}
-{120}{}{Body parts almost ready to go to Hub.}
-{121}{}{For what?}
-{122}{}{Of course. That's why I'm here.}
-{123}{}{I don't think I want to hear about this.}
-{124}{}{Iguana man Bob send you... he happy, lots of good meat...}
-{125}{}{He's selling human body parts for people to eat?}
-{126}{}{You sick little scab, I'm gonna cut you up and sell you as meat!}
-{127}{}{Of course... I'll be back in a minute.}
-{128}{}{For Bob to sell... to eat... why you ask what we use for?}
-{129}{}{No reason. Goodbye.}
-{130}{}{I wasn't sure this was where Bob got his human meat from.}
-{131}{}{Sometimes I have a little trouble thinking.}
-{132}{}{Me have trouble thinking, too... what we talk about?}
-{133}{}{I don't remember. Goodbye.}
-{134}{}{You were telling me what you're doing.}
-{135}{}{We were talking about how stupid you are.}
-{136}{}{Dunna.}
-{137}{}{I don't talk to you any more.}
-{138}{}{Yes... Doc Morbid has best human bodies around. None better.}
-{139}{}{Uh... I'll be back to pick up the... bodies... in a little while. Goodbye.}
-{140}{}{I go back to work now.}
-{141}{}{Don't be messing with the Doctor's stuff!}
+{100}{}{Voici un nain replet.}
+{101}{}{Voici Gretch, l'assistant de Doc Morbide.}
+{102}{}{Qu'est-ce tu viens faire ici ?}
+{103}{}{Hein ?}
+{104}{}{Ton patron m'envoie.}
+{105}{}{Me cause pas comme ça, imbécile.}
+{106}{}{Prendre de tes nouvelles.}
+{107}{}{Rien. Salut.}
+{108}{}{Je te connais... non ?}
+{109}{}{Non.}
+{110}{}{Oui.}
+{111}{}{Qu'importe.}
+{112}{}{Hum... ça va pas mal.}
+{113}{}{Qu'est-ce que tu fais ?}
+{114}{}{Pas mal ? Ca veut dire que t'es pratiquement foutu ?}
+{115}{}{T'es un peu long à la détente, non ?}
+{116}{}{Oui, oui, pratiquement foutu.}
+{117}{}{Avec quoi ?}
+{118}{}{Il est temps.}
+{119}{}{Super. A plus tard.}
+{120}{}{Les morceaux d'humain sont presque prêts à être expédiés au Centre.}
+{121}{}{Pour quoi faire ?}
+{122}{}{Bien sûr. C'est pour ça que je suis là.}
+{123}{}{Bon, je préfère pas entendre parler de ça.}
+{124}{}{Pour l'iguane, Bob t'envoie... content, plein de bonne viande...}
+{125}{}{Il sert de la chair humaine à ses clients ?}
+{126}{}{Imbécile, je vais te transformer en andouille !}
+{127}{}{Bien sûr... Je reviens dans une minute.}
+{128}{}{C'est pour Bob, les vendre, les manger, un point c'est tout... Pourquoi tu veux des détails ?}
+{129}{}{Oh, pour rien. Salut.}
+{130}{}{Je savais pas trop où Bob se procurait sa viande humaine.}
+{131}{}{Parfois, j'ai un peu de mal à réfléchir.}
+{132}{}{Moi aussi, j'ai le cerveau lent... de quoi on parle ?}
+{133}{}{Je sais plus. Salut.}
+{134}{}{Tu me parlais de ce que tu fais.}
+{135}{}{On parlait de ta connerie.}
+{136}{}{J'sais pas.}
+{137}{}{Je te parle plus.}
+{138}{}{Oui... Doc Morbide a les meilleurs corps d'humain du coin. Imbattables.}
+{139}{}{Euh... Je reviens pour prendre les... corps... dans un petit moment. Salut.}
+{140}{}{Je retourne au boulot maintenant.}
+{141}{}{Ah, plaisante pas avec les affaires du Docteur !}

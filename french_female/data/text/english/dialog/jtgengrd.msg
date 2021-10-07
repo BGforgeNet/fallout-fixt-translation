@@ -1,40 +1,40 @@
-{100}{}{He looks like an experienced guardsman.}
-{101}{}{You'd better watch yourself here.}
-{102}{}{This isn't a good town to get in trouble in.}
-{103}{}{Behave, and we won't have to get nasty.}
-{104}{}{You're okay.}
-{105}{}{Keep up the good work.}
-{106}{}{Nice day, isn't it?}
-{107}{}{This is Junktown. Nice place to live, as long as you stay on our good side.}
-{108}{}{Watch out for Gizmo and his cronies.}
-{109}{}{I like my boss.}
-{110}{}{You'd better put that away. Junktown is a friendly place, friend, and we want to keep it that way.}
-{111}{}{Put what away?}
-{112}{}{Don't tell me what to do, loser boy.}
-{113}{}{Sounds fair. By the way, what is the local law regarding weapons?}
-{114}{}{Uh-oh.}
-{115}{}{Your weapon, idiot. Killian won't take your arms away, but you'd better damn well keep them in your holster.}
-{116}{}{Oh, sorry.}
-{117}{}{No way! I ain't putting down my shooters for nobody!}
-{118}{}{You'd better behave, since it's the law, and I enforce the law. Put your weapon away, don't draw it unless in self-defense, and you won't have a problem with us guards. Disobey the law, and we will return you to the lawless wasteland - dead or alive.}
-{119}{}{Sure, since you put it that way.}
-{120}{}{Bite your laws!}
-{121}{}{Well, uh, fine with me. But you'd better be careful.}
-{122}{}{Good you asked. No weapons can be drawn except in self-defense. If you start a fight, it's your fault. Other than that, it's your right to go around armed. Just don't pull a knife or gun without just cause. Have a good day.}
-{123}{}{Hey you, no weapons! And I don't care if your mama dropped you on your head as a kid. No weapons.}
-{124}{}{Hey! You! What are you doing sneaking around?}
-{125}{}{Nothing.}
-{126}{}{I'm not sneaking around. I just like to walk cautiously.}
-{127}{}{Uhhh.}
-{128}{}{Whatever you're doing, don't do it in this town.}
-{129}{}{The guard stares at you for a moment. You see a look of recognition on his face, and then he pulls his weapon.}
-{130}{}{Well, uh, okay. Whatever. Just don't do anything out of line.}
-{131}{}{Thanks, bye.}
-{132}{}{Certainly. I will throw caution to the wind, sir.}
-{133}{}{Certainly. I will throw caution to the wind, ma'am.}
-{134}{}{Put that weapon away, or face the consequences!}
-{135}{}{Okay, that's enough warnings. Leave town, now, and never return, or face the consequences!}
-{136}{}{Hey! What do you think you're doing?}
-{137}{}{That's it, you've had it, buddy.}
-{138}{}{You're in trouble now...}
-{139}{}{You Skulz are under arrest!}
+{100}{}{Il a l'air d'être un garde très expérimenté.}
+{101}{}{T'as intérêt à faire gaffe, ici !}
+{102}{}{Mieux vaut ne pas s'attirer d'ennuis ici.}
+{103}{}{Tiens-toi tranquille, qu'on ne nous cherche pas des noises.}
+{104}{}{C'est bon.}
+{105}{}{Le travail, c'est la santé.}
+{106}{}{Belle journée, pas vrai ?}
+{107}{}{C'est Dépôtville. Un endroit où il fait bon vivre tant qu'on sait choisir le bon camp.}
+{108}{}{Méfie-toi de Gizmo et de ses croulants.}
+{109}{}{Mon chef, c'est le meilleur !}
+{110}{}{Range-moi ça. Dépôtville est un endroit où il fait bon vivre et on entend bien qu'il le reste.}
+{111}{}{Ranger quoi ?}
+{112}{}{Me dis pas ce que j'ai à faire, minable.}
+{113}{}{Ca semble correct. Au fait, qu'en est-il de la loi sur les armes par ici ?}
+{114}{}{Euh, oh.}
+{115}{}{Ton arme, crétin. Killian ne te prendra pas tes armes, mais je te conseille de ne pas les sortir.}
+{116}{}{Oh, excuse.}
+{117}{}{Pas question ! Personne ne me fera ranger mes flingues !!}
+{118}{}{T'as intérêt à te tenir à carreau. La loi, c'est la loi et je suis chargé de la faire respecter. Range ton arme. Ne tire qu'en cas de légitime défense et nous autres, les gardes, on te laissera tranquille. Mais si jamais l'idée te prend de ne pas respecter la loi, sois certain qu'on te renverra illico dans ce foutu désert - toi ou ton cadavre.}
+{119}{}{Bon, j'avais pas vu les choses sous cet angle.}
+{120}{}{Va te faire cuire un oeuf !}
+{121}{}{Bon, bon. Ca va. Mais fais gaffe !}
+{122}{}{Bonne question. Interdiction de faire usage des armes, sauf en cas de légitime défense. Si c'est toi qui fais feu le premier, ce sera de ta faute. Sinon, tu as parfaitement le droit de porter une arme.Ne dégaine ton couteau ou ton fusil que si tu as une bonne raison de le faire. Bonne continuation.}
+{123}{}{Hé, toi ! Qu'est-ce que tu fais avec une arme ? T'as des oreilles, non ? Pas d'armes ici.}
+{124}{}{Hé ! Toi ! Qu'est-ce que tu mijotes ?}
+{125}{}{Rien.}
+{126}{}{J'fais rien. J'fais que me promener en faisant gaffe à mes fesses.}
+{127}{}{Euhhh.}
+{128}{}{Alors va voir ailleurs si j'y suis !}
+{129}{}{Le garde t'observe pendant un moment. Tu lis dans ses yeux qu'il te reconnaît. Il sort son arme.}
+{130}{}{Bon, euh, ok. Peu importe. L'important, c'est d'être réglo.}
+{131}{}{Merci, au revoir.}
+{132}{}{Certainement m'sieur !}
+{133}{}{Certainement m'dame !}
+{134}{}{Range-moi cette arme ou bien tu l'auras cherché !}
+{135}{}{On ne te le dira pas deux fois. Quitte la ville et n'y remets plus jamais les pieds, sinon attends-toi au pire !}
+{136}{}{Hé, tu te crois où ?}
+{137}{}{Cette fois, tu ne l'auras pas volée.}
+{138}{}{Cette fois, tu es dans un joli pétrin...}
+{139}{}{Vous autres Skulz, vous êtes en état d'arrestation !}

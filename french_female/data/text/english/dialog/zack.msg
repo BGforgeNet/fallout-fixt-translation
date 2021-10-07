@@ -1,24 +1,24 @@
-{100}{}{You see: Zack.}
-{101}{}{You see a Gun Runner.}
-{102}{}{Hi, I'm Zack. You want to buy weapons? Let me see what you have to trade.}
-{103}{}{No.}
-{104}{}{Okay.}
-{105}{}{Can you give me a discount?}
-{106}{}{You want to buy weapons? Let me see what you have to trade.}
-{107}{}{Sorry to bother you.}
-{108}{}{Nice doing business with you.}
+{100}{}{Voici Zack.}
+{101}{}{Voici un Contrebandier.}
+{102}{}{Bonjour, je m'appelle Zack. Tu veux acheter des armes ? Laisse-moi voir ce que tu as.}
+{103}{}{Non.}
+{104}{}{D'accord.}
+{105}{}{Peux-tu me faire une remise ?}
+{106}{}{Tu veux acheter des armes ? Laisse-moi voir ce que tu as.}
+{107}{}{Excuse-moi de te déranger.}
+{108}{}{C'est agréable de traiter avec toi.}
 {109}{}{}
-{110}{}{Okay. Come back if you need anything.}
-{111}{}{You'd better make up your mind fast. Are you here to buy equipment, or did you just come here to get shot?}
-{112}{}{You have a real attitude problem.}
-{113}{}{Sorry, maybe I could use some equipment after all.}
-{114}{}{What the hell are you doing here then?}
-{115}{}{Nothing.}
-{116}{}{Sure.}
-{117}{}{Yeah, well until Gabriel says so, you've gotta pay full price like everybody else.}
-{118}{}{I don't know about that.}
-{119}{}{Show me what you have anyway.}
-{120}{}{Great! Show me what you got.}
-{121}{}{I'll stop by later for that discount.}
-{122}{}{Can I get a better discount?}
-{123}{}{Sorry. I've given you the best discount I can.}
+{110}{}{D'accord. Reviens si tu as besoin de quelque chose.}
+{111}{}{Tu ferais bien de te décider rapidement. Es-tu ici pour acheter du matériel ou juste pour te faire descendre ?}
+{112}{}{Tu as un sérieux problème.}
+{113}{}{Je pourrais peut-être utiliser du matériel après tout.}
+{114}{}{Bon sang, mais qu'est-ce que tu fais ici ?!}
+{115}{}{Rien.}
+{116}{}{Bien sûr.}
+{117}{}{Ouais, à moins que Gabriel ne soit d'accord, tu vas devoir payer le prix fort comme tout le monde.}
+{118}{}{Je ne sais rien à ce sujet.}
+{119}{}{Montre-moi ce que tu as.}
+{120}{}{Formidable ! Montre-moi ce que tu as.}
+{121}{}{Je reviendrai plus tard pour cette remise.}
+{122}{}{Puis-je avoir une meilleure remise ?}
+{123}{}{Désolé mais je t'ai fait la meilleure remise qui soit.}

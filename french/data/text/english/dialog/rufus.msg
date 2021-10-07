@@ -1,9 +1,9 @@
-{100}{}{You see: Rufus.}
-{101}{}{Please don't kill me...}
-{102}{}{Shhhh! I'm trying to play my game!}
-{103}{}{Quiet! I'm trying to play my game. Cyberhood, Prince of the Matrix, what a classic!}
-{104}{}{Damn! My character got beat up again. Roger is such a wimp...}
-{105}{}{Where is the key to Cyberspace? I've been all over the damn Kruz building...}
-{106}{}{You wouldn't happen to know the password into Malibu Stu's? Oh, never mind...}
-{107}{}{That Kaira, what a fox!}
-{108}{}{Don't bother me. I'm trying to solve this damn duck puzzle...}
+{100}{}{Voici Rufus.}
+{101}{}{S'il te plaît, ne me tue pas...}
+{102}{}{Chut ! J'essaie de jouer !}
+{103}{}{Silence ! J'essaie de jouer. Cyberbois, le Prince de la Matrice, c'est un classique !}
+{104}{}{Oh non ! Mon personnage a encore été battu. Roger est tellement nul...}
+{105}{}{Où est la clé du Cyberespace ? J'ai parcouru tous les recoins de ce fichu bâtiment Kruz...}
+{106}{}{Tu ne connaîtrais pas le mot de passe du Malibu Stu's ? Oh, tant pis...}
+{107}{}{Ce Kaira, quel renard !}
+{108}{}{Laisse-moi tranquille. J'essaie de résoudre cette fichue énigme...}

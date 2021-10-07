@@ -1,4 +1,4 @@
-{100}{}{This terminal seems to have been destroyed by the blast.}
-{101}{}{This computer looks like it could have stored megabytes of data.}
-{102}{}{You wonder what data could have been on this computer.}
-{103}{}{It looks like this computer was once connected to a mainframe.}
+{100}{}{Ce terminal semble avoir été détruit par l'explosion.}
+{101}{}{Cet ordinateur semble avoir pu mémoriser des méga-octets de données.}
+{102}{}{Tu te demandes quel genre de données a pu contenir cet ordinateur.}
+{103}{}{On dirait que cet ordinateur était connecté à un grand système.}

@@ -1,57 +1,57 @@
-{100}{}{You see the caravan driver.}
-{101}{}{Did you want to return to the Hub? I'll pay you another 400 caps.}
-{102}{}{Rutger should be pleased; we made it without any casualties. Did you want to come back with us? We're almost ready to go. The pay will be another 400 caps.}
-{103}{}{That was easier than I expected. Are you coming back with us? I'm sure another 400 caps would come in handy.}
-{104}{}{That wasn't too bad. If you want to come back with us to the Hub, you're welcome to. We'll pay you another 400 caps.}
-{105}{}{It's always a shame to lose someone. Rutger isn't going to take this well, but we could use your help getting back. Are you interested? The pay is still 400 caps.}
-{106}{}{Damn! I hate losing good guards. We've got to be more careful on our way back and we've got to cover each other. We can't let this happen again. I'll pay you another 400 caps. Up for it?}
-{107}{}{Are you able to come back to the Hub with us? I can't risk losing another guard. The pay is 400 caps. What do you say?}
-{108}{}{I really could use your help getting back. Rutger's going to kill me and I don't know if I can make it alone. If you're interested, pay is still 400 caps. So, what do you say?}
-{109}{}{It's going to be a tough trip back going alone. Would you come back to the Hub with me for another 400 caps?}
-{110}{}{I can't believe we lost both of the other guards. Rutger and Butch are going to have my ass.}
-{111}{}{Yes.}
-{112}{}{No.}
-{113}{}{Ug.}
-{114}{}{Great. Let's go.}
-{115}{}{What, are you afraid?}
-{116}{}{Ah, you're missing out on some action.}
-{117}{}{That's okay. I'm sure we can make it back without a problem. Thanks for helping us all get here in one piece.}
-{118}{}{That's okay. I understand. It'll be rough with just one guard, but we'll make it.}
-{119}{}{Uh, okay. I'm sure I can make it alone.}
-{120}{}{You all right? The trip must have been harder on you than I thought.}
-{121}{}{You on drugs?}
-{122}{}{Maybe I don't want you on my caravan.}
-{123}{}{So, did you change your mind? Do you want the job?}
-{124}{}{Yes.}
-{125}{}{No.}
-{126}{}{Ru?}
-{127}{}{Easy money. So, do you want to come back with us to the Hub? The pay's the same either way; but then again, so is the danger.}
-{128}{}{So, you up for 600 more caps? I've got to head back to the Hub. Hopefully this'll be another easy one.}
-{129}{}{I knew you'd come back with us. It'll be 600 caps again. You interested?}
-{130}{}{I hate losing someone like that; that's why we pay the big bucks. This is a dangerous route. Well, Demetre's expecting us back soon. The pay's the same. Do you want to come back with us?}
-{131}{}{You ready for some more action? This time we won't even get a scratch! I'll give you 600 caps for the trip back to the Hub.}
-{132}{}{I know. It's a shame to lose someone, but at least it was in battle. You up for another go at it? We're heading back to the Hub. We'll give you 600 caps again.}
-{133}{}{Damn, I can't believe we lost both of those guards. Demetre's going to be pissed. The pay will be the same, but I'm heading back soon. So what do you say? You and me kick some butt?}
-{134}{}{Now that was a fight! It's a shame about the other two. Demetre won't like these losses, but at least we made it. Are you going to be accompanying me back to the Hub? It will, of course, pay 600 caps.}
-{135}{}{I love the taste of battle, but I hate losing my troops. Do you think you and I can handle them again? I'm heading out soon. Only down side is that the pay is the same. Sorry, no compensation.}
-{136}{}{Mug.}
-{137}{}{Okay. I'm sure we'll make it back just fine.}
-{138}{}{I only really need one guard anyhow.}
-{139}{}{Ah, I can take them all on myself.}
-{140}{}{Ah, you're back! You want the job then, right?}
-{141}{}{Arg.}
-{142}{}{Why, hello there. Looking for a job? We could use someone to help guard our caravans on the way back to the Hub. The pay is 400 caps.}
-{143}{}{Okay.}
-{144}{}{No thanks.}
-{145}{}{Zuk.}
-{146}{}{Why, hello there. Looking for a job? We could use someone to help guard our caravans on the way back to the Hub. The pay is 600 caps, but mind you, it's normally quite a dangerous trip.}
-{147}{}{Sure.}
-{148}{}{Yek.}
-{149}{}{Let me know if you change your mind. We leave at 1400 hours.}
-{150}{}{Sorry, you don't look like you're in any shape for caravan duty.}
-{151}{}{If you can't talk straight, I can't hire you.}
-{152}{}{If you want a job, lay off the drugs.}
-{153}{}{Did you change your mind about the job?}
-{154}{}{Yes, I'll hire on.}
-{155}{}{Lum?}
-{156}{}{Here's your pay. Let me know if you're coming back with us.}
+{100}{}{Voici le conducteur de la caravane.}
+{101}{}{Tu voulais retourner au Centre ? Tu recevras 400 caps de plus.}
+{102}{}{Rutger devrait être content. Nous avons réussi sans qu'il y ait de blessés. Veux-tu rentrer avec nous ? Nous sommes sur le point de partir. Tu recevras 400 caps de plus.}
+{103}{}{C'était plus facile que je ne le pensais. Tu rentres avec nous ? 400 caps de plus te feraient le plus grand bien.}
+{104}{}{Ce n'était pas si mal. Si tu veux rentrer avec nous au Centre, ça ne pose pas de problèmes. Nous te paierons 400 caps de plus.}
+{105}{}{C'est toujours terrible de perdre quelqu'un. Rutger ne va pas le prendre très bien, mais tu peux nous aider à rentrer. Cela t'intéresse ? Comme prévu, nous te paierons 400 caps.}
+{106}{}{Bon sang ! Je déteste perdre de bons gardes. Nous devrons être prudents au retour. Nous devrons nous couvrir mutuellement. Cela ne doit plus se reproduire. Je te paierai 400 caps de plus. Ca te va ?}
+{107}{}{Peux-tu rentrer au Centre avec nous ? Je ne peux pas me permettre de perdre un autre garde. Tu seras payé 400 caps. Qu'en penses-tu ?}
+{108}{}{Ce serait bien que tu rentres avec moi. Rutger va m'en vouloir ; je ne suis pas sûr de pouvoir faire face tout seul. Si ça t'intéresse, je te paierai 400 caps. Qu'en penses-tu ?}
+{109}{}{Cela ne va pas être facile de rentrer seul. Acceptes-tu de rentrer au Centre avec moi pour 400 caps de plus ?}
+{110}{}{Je ne peux pas croire que nous ayons perdu les deux autres gardes. Rutger et Butch vont me tuer.}
+{111}{}{Oui.}
+{112}{}{Non.}
+{113}{}{Euh...}
+{114}{}{Super. Allons-y.}
+{115}{}{Quoi, tu as peur ?}
+{116}{}{Ah, tu vas manquer quelque chose.}
+{117}{}{C'est bon. Je pense que nous pouvons rentrer sans problème. Merci de nous aider à rentrer sains et saufs.}
+{118}{}{Très bien. Je comprends. Ca risque d'être juste avec un seul garde, mais nous nous en sortirons.}
+{119}{}{Euh, ok. Je pense pouvoir me débrouiller seul.}
+{120}{}{Ca va ? Le voyage a dû être plus difficile que je ne le pensais.}
+{121}{}{Tu as pris des stimulants ?}
+{122}{}{Je ne veux peut-être pas de toi dans ma caravane.}
+{123}{}{Alors, tu as changé d'avis ? Est-ce que ce boulot t'intéresse ?}
+{124}{}{Oui.}
+{125}{}{Non.}
+{126}{}{Heu ?}
+{127}{}{De l'argent facile. Alors veux-tu rentrer avec nous au Centre ? Ton salaire sera le même, c'est le salaire du danger.}
+{128}{}{Alors, tu es d'accord pour 600 caps de plus ? Je dois retourner au Centre. J'espère que tout se passera bien.}
+{129}{}{Je savais que tu rentrerais avec nous. Tu recevras 600 caps de plus. Cela t'intéresse ?}
+{130}{}{Je déteste perdre quelqu'un comme ça. C'est pourquoi nous payons bien. C'est un trajet dangereux. Demetre nous attend pour bientôt. Le salaire sera le même. Veux-tu rentrer avec nous ?}
+{131}{}{Te sens-tu d'attaque pour une nouvelle aventure ? Cette fois-ci, tout se passera bien ! Je te paierai 600 caps si tu rentres avec nous au Centre.}
+{132}{}{Je sais. C'est terrible de perdre quelqu'un, mais au moins cela s'est produit au cours d'une bataille. Alors, tu veux réessayer ? Nous rentrons au Centre. Je te donnerai 600 caps de plus.}
+{133}{}{Bon sang. Je ne peux pas croire que nous ayons perdu ces deux gardes. Demetre va être fou de rage. Le salaire sera le même, mais je dois rentrer vite. Qu'en penses-tu ? On y va ensemble ?}
+{134}{}{C'était une sacrée bataille et c'est terrible pour les deux autres. Demetre ne va pas apprécier ces pertes, mais au moins nous avons réussi. Veux-tu rentrer avec nous au Centre ? Bien sûr, on te paiera 600 caps.}
+{135}{}{J'aime les batailles mais je déteste perdre des hommes. Penses-tu qu'on puisse s'en sortir ensemble ? Je pars sans tarder. Le salaire pour le retour est le même. Pas de compensation.}
+{136}{}{Euh...}
+{137}{}{Ok. Je pense que tout se passera bien.}
+{138}{}{En réalité j'ai besoin que d'un garde.}
+{139}{}{Ah, je peux m'en occuper moi-même.}
+{140}{}{Ah, tu es de retour ! Ce travail t'intéresse donc ?}
+{141}{}{Ben...}
+{142}{}{Ah, bonjour. Tu cherches du travail ? Nous avons besoin de quelqu'un pour garder nos caravanes et rentrer au Centre. On te paiera 400 caps.}
+{143}{}{D'accord.}
+{144}{}{Non, merci.}
+{145}{}{Ben...}
+{146}{}{Ah, bonjour. Tu cherches du travail ? Nous avons besoin de quelqu'un pour garder nos caravanes et rentrer au Centre. Tu seras payé 600 caps, mais attention, c'est un trajet assez dangereux.}
+{147}{}{Bien sûr.}
+{148}{}{Ouèp.}
+{149}{}{Fais-le moi savoir si tu changes d'avis. Nous partons à 14h00.}
+{150}{}{Pardon, mais je ne pense pas que tu sois en forme pour garder des caravanes.}
+{151}{}{Si tu es incapable de parler normalement, je ne peux pas t'embaucher.}
+{152}{}{Si tu veux du travail, arrête les stimulants.}
+{153}{}{As-tu changé d'avis pour le boulot ?}
+{154}{}{Oui. J'accepte.}
+{155}{}{Euh ?}
+{156}{}{Voilà ton argent. Dis-moi si tu veux rentrer avec nous.}

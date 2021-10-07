@@ -1,5 +1,5 @@
-{100}{}{You see a busy cook preparing a meal.}
-{101}{}{I'm too busy to talk right now. I've got to get this meal ready!}
-{102}{}{Hmmm! That smells really good. I bet it tastes great!}
-{103}{}{I'm too busy to talk right now. I've got to get this meal ready!}
-{104}{}{Why, thank you. I'm sure you will enjoy it. Thanks for the compliment. I'm going to tell all my friends about you.}
+{100}{}{Voici une cuisinière très occupée à préparer un plat.}
+{101}{}{Je n'ai pas le temps de discuter. J'ai un plat à préparer !}
+{102}{}{Hmmm ! Ca sent très bon. Ca doit être délicieux !}
+{103}{}{Je n'ai pas le temps de discuter. J'ai un plat à préparer !}
+{104}{}{C'est gentil. Je pense que ça va te plaire. Merci du compliment. Je vais parler de toi à tous mes amis.}

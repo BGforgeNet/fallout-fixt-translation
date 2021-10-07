@@ -1,28 +1,28 @@
-{100}{}{You see a Knight.}
-{101}{}{You see a Scribe.}
-{102}{}{What are you doing here?}
-{103}{}{Who are you?}
-{104}{}{Haven't I seen you before?}
-{105}{}{This is my room, please leave.}
-{106}{}{Please leave my room.}
-{107}{}{This isn't your room.}
-{108}{}{Initiate rooming is on the second level.}
-{109}{}{Are you lost?}
-{110}{}{I believe your quarters are on level two.}
-{111}{}{I'd appreciate some privacy.}
-{112}{}{Hi there, nice to see you.}
-{113}{}{Hello.}
-{200}{}{Hi.}
-{201}{}{Hello.}
-{202}{}{Good day.}
-{203}{}{Yes?}
-{204}{}{What?}
-{205}{}{Whats up?}
-{206}{}{What do you want?}
-{207}{}{You want something?}
-{209}{}{Go away.}
-{210}{}{Stop bothering me.}
-{211}{}{Leave me alone.}
-{212}{}{You are annoying me.}
-{213}{}{He ignores you.}
-{214}{}{She ignores you.}
+{100}{}{Voici un Chevalier.}
+{101}{}{Voici un Scribe.}
+{102}{}{Que fais-tu ici ?}
+{103}{}{Qui es-tu ?}
+{104}{}{On ne s'est jamais rencontré ?}
+{105}{}{C'est ma chambre, je te prie de sortir.}
+{106}{}{Sors de ma chambre, s'il te plaît.}
+{107}{}{Ce n'est pas ta chambre.}
+{108}{}{Les chambres des Initiés se trouvent au deuxième étage.}
+{109}{}{Tu cherches ton chemin ?}
+{110}{}{Je crois que tes quartiers se trouvent au deuxième étage.}
+{111}{}{J'aimerais avoir un peu d'intimité.}
+{112}{}{Salut, ça me fait plaisir de te voir.}
+{113}{}{Bonjour.}
+{200}{}{Salut.}
+{201}{}{Bonjour.}
+{202}{}{Bonne journée.}
+{203}{}{Ah oui ?}
+{204}{}{Quoi ?}
+{205}{}{Qu'y a-t-il ?}
+{206}{}{Qu'est-ce que tu veux ?}
+{207}{}{Tu veux quelque chose ?}
+{209}{}{Va t'en !}
+{210}{}{Fiche-moi la paix !}
+{211}{}{Laisse-moi tranquille !}
+{212}{}{Tu me déranges.}
+{213}{}{Il t'ignore.}
+{214}{}{Elle t'ignore.}

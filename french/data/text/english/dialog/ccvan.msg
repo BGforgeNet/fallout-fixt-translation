@@ -1,18 +1,18 @@
-{100}{}{You see a clerk from the Crimson Caravans.}
-{101}{}{You see a clerk from the Water Merchants.}
-{102}{}{You see a clerk from the Far Go Traders.}
-{103}{}{Hello. Are you looking for a job?}
-{104}{}{Yes.}
-{105}{}{No.}
-{106}{}{Great. We have space for another guard. Are you interested?}
-{107}{}{Okay. If you need work, just stop by and we'll set you up.}
-{108}{}{Sorry to hear that. Bye.}
-{109}{}{Excellent. We have caravans leaving for L.A. Boneyard, Junktown, Necropolis and the Brotherhood of Steel. Which would you like to work on?}
-{110}{}{Excellent. We have caravans leaving for L.A. Boneyard, Junktown and the Brotherhood of Steel. Which would you like to work on?}
-{111}{}{Excellent. We have caravans leaving for L.A. Boneyard and Junktown. Which would you like to work on?}
-{112}{}{L.A. Boneyard.}
+{100}{}{Voici un employé des Caravanes Ecarlates.}
+{101}{}{Voici un employé des Marchands d'Eau.}
+{102}{}{Voici un employé des Marchands du Lointain.}
+{103}{}{Bonjour. Tu cherches du travail ?}
+{104}{}{Oui.}
+{105}{}{Non.}
+{106}{}{Formidable. Nous cherchons un nouveau garde. Cela t'intéresse ?}
+{107}{}{Ok. Si t'as besoin de travail, passe et nous verrons ce que nous pouvons faire.}
+{108}{}{Tant pis. Salut.}
+{109}{}{Formidable. Nous avons des caravanes à destination : du Cimetière, de Dépôtville, de Nécropolis et de la Confrérie de l'Acier. Pour laquelle veux-tu travailler ?}
+{110}{}{Formidable. Nous avons des caravanes à destination : du Cimetière, de Dépôtville et de la Confrérie de l'Acier. Pour laquelle veux-tu travailler ?}
+{111}{}{Formidable. Nous avons des caravanes à destination du Cimetière et de Dépôtville. Pour laquelle veux-tu travailler ?}
+{112}{}{Le Cimetière de L.A.}
 {113}{}{Junktown.}
 {114}{}{The Brotherhood of Steel.}
 {115}{}{Necropolis.}
-{116}{}{None; I changed my mind.}
-{117}{}{Great. We leave now.}
+{116}{}{Aucune.}
+{117}{}{Parfait. Allons-y.}

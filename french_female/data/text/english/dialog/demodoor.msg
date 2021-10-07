@@ -1,9 +1,9 @@
-{100}{}{You successfully unlock the refrigerator.}
-{101}{}{You are having trouble with this lock.}
-{102}{}{You see a refrigerator. It is closed and locked.}
-{103}{}{You see a refrigerator. It is open.}
-{104}{}{You see a refrigerator. It is closed.}
-{105}{}{The door is locked.}
-{106}{}{That does nothing.}
-{107}{}{It is already unlocked.}
-{108}{}{You see a refridgerator.}
+{100}{}{Tu déverouilles le refrigirateur avec succès.}
+{101}{}{Tu as des difficultés avec la serrure.}
+{102}{}{Tu vois un refrigirateur. Il est fermé et verouillé.}
+{103}{}{Tu vois un refrigirateur. Il est ouvert.}
+{104}{}{Tu vois un refrigirateur. Il est fermé.}
+{105}{}{La porte est verrouillée.}
+{106}{}{Rien ne se passe.}
+{107}{}{C'est deja déverouillé.}
+{108}{}{Aucun effet.}

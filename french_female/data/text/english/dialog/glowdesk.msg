@@ -1,4 +1,4 @@
-{100}{}{The desk drawer is stuck.}
-{101}{}{You pry the drawer open.}
-{102}{}{The drawer is still jammed tight.}
-{103}{}{The desk is unaffected by the skill.}
+{100}{}{Le tiroir du bureau est coincé.}
+{101}{}{Tu forces le tiroir.}
+{102}{}{Le tiroir résiste.}
+{103}{}{Cette compétence n'a aucun effet sur le bureau.}

@@ -1,67 +1,67 @@
-{100}{}{You see: Kalnor, a Junktown guard.}
-{101}{}{You'd better watch yourself here.}
-{102}{}{This isn't a good town to get in trouble in.}
-{103}{}{Behave, and we won't have to get nasty.}
-{104}{}{You're okay.}
-{105}{}{Keep up the good work.}
-{106}{}{Nice day, isn't it?}
-{107}{}{This is Junktown. Nice place to live, as long as you stay on our good side.}
-{108}{}{Watch out for Gizmo and his cronies.}
-{109}{}{I like my boss.}
-{110}{}{You'd better put that away. Junktown is a friendly place, friend, and we want to keep it that way.}
-{111}{}{Put what away?}
-{112}{}{Don't tell me what to do, loser boy.}
-{113}{}{Sounds fair. By the way, what is the local law regarding weapons?}
-{114}{}{Uh, oh.}
-{115}{}{Your weapon, idiot. Killian won't take your weapons away, but you'd better damn well keep them in your holster.}
-{116}{}{Oh, sorry.}
-{117}{}{No way! I'm not putting down my shooters for nobody!}
-{118}{}{You'd better behave, since it's the law, and I enforce the law. Put your weapon away. Don't draw it unless in self-defense and you won't have a problem with us guards. Disobey the law and we will return you to the lawless wasteland - dead or alive.}
-{119}{}{Sure, since you put it that way.}
-{120}{}{Bite your laws!}
-{121}{}{Well, uh, fine with me. But you'd better be careful.}
-{122}{}{Good you asked. No weapons can be drawn except in self-defense. If you start a fight, it's your fault. Other than that, it's your right to go around armed. Just don't pull a knife or gun without just cause. Have a good day.}
-{123}{}{Hey you, no weapons! And I don't care if your mama dropped you on your head as a kid. No weapons.}
-{124}{}{Hey! You! What are you doing sneaking around?}
-{125}{}{Nothing.}
-{126}{}{I'm not sneaking around. I just like to walk cautiously.}
-{127}{}{Uhhh.}
-{128}{}{Whatever you're doing, don't do it in this town.}
-{129}{}{Hey! No shady characters in town! Get out of here before we throw you out!}
-{130}{}{Well, uh, okay. Whatever. Just don't do anything out of line.}
-{131}{}{Thanks, bye.}
-{132}{}{Certainly. I will throw caution to the wind, sir.}
-{133}{}{Certainly. I will throw caution to the wind, ma'am.}
-{134}{}{You'd better watch your step around here, because we'll be watching you.}
-{135}{}{Welcome to Junktown. What can I do for you?}
-{136}{}{Nothing, thanks.}
-{137}{}{What are you doing here? What is this place?}
-{138}{}{Where can I get some supplies?}
-{139}{}{Wa-wa!}
-{140}{}{I dunno about that. You might want to check with Killian. He's to the north. That's up that way, okay?}
-{141}{}{What does it look like? I'm a guard, and I'm keeping an eye out for strangers like you. And this place is called Junktown. Hey, don't laugh. I happen to like the name myself. We mostly do trading; sometimes we trade with those stuck up bastards from the Hub. Hey, you're not from the Hub are you?}
-{142}{}{What? The Hub? Sure I am!}
-{143}{}{Me? No, I'm not from the Hub.}
-{144}{}{Then you must know most of the rules. Have a good day. And I am sorry about the bastards part, okay?}
-{145}{}{Yeah! Hey, no problem. Bye.}
-{146}{}{It's going to cause me some severe mental trauma. Later.}
-{147}{}{Hmmm. Okay. It's not our place to ask questions. Have a good day and don't make any trouble.}
-{148}{}{Oh, heck. The place for that is Darkwater's. Killian runs it. It's a little to the north. Killian has the best supplies in town.}
-{149}{}{Thanks. Bye.}
-{150}{}{You wanna show me where you keep YOUR supplies?}
-{152}{}{Uh, no. Sorry, lady. I got work to do here.}
+{100}{}{Kalnor, un garde de Dépôtville.}
+{101}{}{T'as intérêt à faire gaffe, ici !}
+{102}{}{Mieux vaut ne pas s'attirer d'ennuis ici.}
+{103}{}{Tiens-toi tranquille, qu'on ne nous cherche pas des noises.}
+{104}{}{C'est bon.}
+{105}{}{Le travail, c'est la santé.}
+{106}{}{Belle journée, pas vrai ?}
+{107}{}{C'est Dépôtville. Un endroit où il fait bon vivre tant qu'on sait choisir le bon camp.}
+{108}{}{Méfie-toi de Gizmo et de ses croulants.}
+{109}{}{Mon chef, c'est le meilleur !}
+{110}{}{Range-moi ça. Dépôtville est un endroit où il fait bon vivre et on entend bien qu'il le reste.}
+{111}{}{Ranger quoi ?}
+{112}{}{Me dis pas ce que j'ai à faire, minable.}
+{113}{}{Ca semble correct. Au fait, qu'en est-il de la loi sur les armes par ici ?}
+{114}{}{Euh, oh.}
+{115}{}{Ton arme, imbécile. Killian ne te prendra pas tes armes, mais je te conseille de ne pas les sortir.}
+{116}{}{Oh, excuse.}
+{117}{}{Pas question ! Personne ne me fera déposer mes flingues !}
+{118}{}{T'as intérêt à te tenir à carreau. La loi, c'est la loi et je suis chargé de la faire respecter. Range ton arme. Ne tire qu'en cas de légitime défense et nous autres, les gardes, on te laissera tranquille. Mais si jamais l'idée te prend de ne pas respecter la loi, on te renverra illico dans ce foutu désert, toi ou ton cadavre.}
+{119}{}{Bon, j'avais pas vu les choses sous cet angle.}
+{120}{}{Va te faire cuire un oeuf !}
+{121}{}{Bon, bon. Ca va. Mais fais gaffe !}
+{122}{}{Bonne question. Interdiction de faire usage des armes, sauf en cas de légitime défense. Si c'est toi qui fais feu le premier, ce sera de ta faute. Sinon, tu as parfaitement le droit de porter une arme.Ne dégaine ton couteau ou ton fusil que si tu as une bonne raison de le faire. Bonne continuation.}
+{123}{}{Hé, toi ! Qu'est-ce que tu fais avec une arme ? T'as des oreilles, non ? Pas d'armes ici.}
+{124}{}{Hé ! Toi ! Qu'est-ce que tu mijotes ?}
+{125}{}{Rien.}
+{126}{}{J'fais rien. J'fais que me promener en faisant gaffe à mes fesses.}
+{127}{}{Euhhh.}
+{128}{}{Alors va voir ailleurs si j'y suis !}
+{129}{}{Hé ! T'es louche, toi ! Dégage avant qu'on te foute dehors nous-mêmes !}
+{130}{}{Bon, euh, ok. Peu importe. L'important, c'est d'être réglo.}
+{131}{}{Merci, au revoir.}
+{132}{}{Certainement m'sieur !}
+{133}{}{Certainement m'dame !}
+{134}{}{T'as intérêt à rester tranquille. On t'a à l'oeil.}
+{135}{}{Bienvenue à Dépôtville. Je peux t'aider ?}
+{136}{}{Rien, merci.}
+{137}{}{Qu'est-ce que tu fais ici ? On est où, ici ?}
+{138}{}{Je voudrais m'approvisionner. C'est par où ?}
+{139}{}{Ouin-ouin !}
+{140}{}{J'en sais rien. T'as qu'à voir avec Killian. Il est un plus au Nord. C'est par là, ok ?}
+{141}{}{A quoi ça ressemble ? Je suis un garde et mon métier c'est de surveiller les étrangers comme toi. Ici, ça s'appelle Dépôtville. Ne rigole pas. Parfois, je me surprends à aimer moi-même ce nom. On fait principalement du troc. On fait parfois des affaires avec ces enfoirés du Centre. Ils s'prennent pas pour n'importe qui. Euh, t'es pas du Centre au moins ?}
+{142}{}{Quoi ? Le Centre ? Evidemment que si !}
+{143}{}{Moi ? Non, je ne suis pas du Centre.}
+{144}{}{Dans ce cas, tu dois connaître les règles. Bonne journée. Et je suis désolé pour les insultes.}
+{145}{}{T'inquiète, c'est bon. Salut.}
+{146}{}{J'suis bon pour une méchante migraine. A plus tard !}
+{147}{}{Hmmmm... Ok. On n'est pas là pour poser des questions. Bonne journée et pas d'embrouilles, s'il te plaît.}
+{148}{}{Oh, zut. Pour ça, il faut aller à Darkwater's. C'est Killian, le patron. C'est un peu plus au Nord . C'est lui qui a le meilleur matériel de toute la ville.}
+{149}{}{Merci. Salut.}
+{150}{}{Tu voudrais pas me le montrer, "ton" matériel ?}
+{152}{}{Euh, non. Excusez-moi, madame. J'ai du travail.}
 {153}{}{Have a nice day.}
-{154}{}{Keep out of trouble.}
-{155}{}{Boy, I sure hope my replacement gets here soon. It feels like I've been standing guard duty forever.}
-{156}{}{I'm sorry, the gates are closed for the night. Come back in the morning.}
-{157}{}{Hey, I need to get in!}
-{158}{}{No problem. See you in the morning.}
-{159}{}{I'm sorry to disturb you, sir, but I would like to enter your town. You can see that I would cause no harm.}
-{160}{}{Hunh-huh!}
-{161}{}{Come... back... day...}
-{162}{}{Sorry, the rules are the rules. No strangers admitted during the night.}
-{163}{}{Well, I shouldn't do this, but you seem like a nice enough person. Come on in, but don't make any trouble.}
-{164}{}{Hey! It's you! Come on in, }
-{165}{}{. Good to see you again!}
-{166}{}{Hey, you'd better turn right around and walk back out of here.}
-{167}{}{Go on in.}
+{154}{}{Prends garde à toi.}
+{155}{}{J'espère que la relève ne va pas tarder à me remplacer. J'ai l'impression d'avoir pris le quart y'a une éternité.}
+{156}{}{Désolé mais les portes sont fermées. Repasse demain matin.}
+{157}{}{Hé, il faut absolument que j'entre !}
+{158}{}{Pas de problème. A demain.}
+{159}{}{Excusez-moi de vous déranger, monsieur, je souhaiterais entrer dans votre ville. Vous voyez bien que je ne ferai de mal à personne.}
+{160}{}{Hunh-huh !}
+{161}{}{Repasse... le jour...}
+{162}{}{Désolé, on ne peut pas faire d'exception. Aucun étranger n'est admis la nuit.}
+{163}{}{Bon. Je devrais pas. Mais, c'est bien parce que t'as une tête sympa. Allez, entre. Pas d'histoires surtout.}
+{164}{}{Ah ! C'est toi ! Entre, }
+{165}{}{. C'est bon de te revoir !}
+{166}{}{Hé, retourne d'où tu viens !}
+{167}{}{Allez, entre !}

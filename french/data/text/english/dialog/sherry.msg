@@ -1,67 +1,67 @@
-{100}{}{You see: Sherry.}
-{101}{}{You see a gang member.}
+{100}{}{Voici Sherry.}
+{101}{}{Voici le membre d'une bande.}
 {102}{}{}
-{103}{}{Who are you and what are you doing here?}
-{104}{}{I'm }
-{105}{}{. I'm new to this town.}
-{106}{}{None of your business, wench!}
-{107}{}{Puwah?}
-{108}{}{Apparently so, since everyone knows that this is the territory of the Skulz. You'd better beat it before someone decides to hurt you.}
-{109}{}{Bring it on!}
-{110}{}{Sorry, I thought this was the bathroom. Bye.}
-{111}{}{The Skulz? Who're they?}
-{112}{}{Yeah, I knew that. I'm just hangin' out.}
-{113}{}{Take off, you hoser, before one of us decides to tear you up.}
-{114}{}{Sheesh, sorry.}
-{115}{}{Yeah? Bring it on!}
-{116}{}{You sorry thing. You should run along. It's not safe here, especially for someone like you who wouldn't understand.}
-{117}{}{That's us! We're the meanest gang in town. Actually, we're the only gang. But nobody messes with us.}
-{118}{}{So you pretty much have the run of the town, eh?}
-{119}{}{How nice. See ya.}
-{120}{}{Oh. Well, you'd better not. I mean, you're not one of the Skulz, and this is our place. So, you should get lost, before Victor gets itchy.}
-{121}{}{Actually, I think I'll stay.}
-{122}{}{Who's Victor?}
-{123}{}{Fine, I'm out of here.}
-{124}{}{Fine. It's your funeral.}
-{125}{}{Victor's right over there. He's the meanest of us all. He likes torturing iguanas that he catches. I don't really like him, to tell the truth, but he's one of us.}
-{126}{}{Well, there's Victor, and Shark, who hangs out at the Skum Pitt. Vinnie, too, and a couple other guys who stop by from time to time.}
-{127}{}{Where's the Skum Pitt?}
-{128}{}{Oh, the Skum Pitt is a sleazy bar north of here, near Gizmo's casino.}
-{129}{}{You bet! Nobody messes with us! Well, except for Killian, but he's cool and all. He's like the sheriff man. We do whatever we want.}
-{130}{}{We just hang out, and sometimes we play games at Gizmo's or have some fun over at the Skum Pitt. Sometimes we do odd jobs for Gizmo or for some traveler. Victor likes stalking people, too. Come to think of it, you might want to stay away from him.}
-{131}{}{You work for Gizmo? What can you tell me about him?}
-{132}{}{So what is it that you guys do?}
-{133}{}{Who all is in the gang?}
-{134}{}{Why do you hang out with these guys?}
-{135}{}{We're like a family! We take care of each other. Well, except for Shark, who's always breaking things. And Victor, who looks at people funny. But Vinnie is cool. And we do stuff together. You know, we're like friends and stuff.}
-{136}{}{Oh, it's you again! You know, it's probably not healthy to hang out here if you're not one of the Skulz. And you're not.}
-{137}{}{Yeah, well, your Skulz probably couldn't knock over a sleeping brahma, much less take on me.}
-{138}{}{What have you been up to lately?}
-{139}{}{Really? We'll see about that! Victor!}
-{140}{}{Not too much, actually. There's not much to do. I mean, Shark has been causing some fights at the Skum Pitt, as usual, but what else is there to do around here?}
-{141}{}{Uh, not much, I guess.}
-{142}{}{You could always try doing something else. You must have some talents or hobbies.}
-{143}{}{Well, I do sort of like to draw. And Vinnie says I'm a pretty good cook. But I mean, hey, we have fun and stuff, you know?}
-{144}{}{I guess that's understandable.}
-{145}{}{But what will you do when you get older? Where will your life go? How will you make money?}
-{146}{}{Um, well, I never gave it much thought. I mean, Vinnie and Victor make some money and Shark occasionally does some bodyguarding for visitors here. I don't know.}
-{147}{}{You should probably get out while you still can.}
-{148}{}{Hey, lay off! You sound like Vinnie's parents used to. We all support each other, okay? So back off.}
-{149}{}{I guess. I never thought about it much.}
-{150}{}{Hi! How are you doing? It's been a while.}
-{151}{}{I'm all right, thanks.}
-{152}{}{I've been better.}
-{153}{}{Okay. How about you?}
-{154}{}{I'm sorry to hear that! Perhaps you should get a room and sleep it off. Talk to Marcelles. Oh, and here, I can fix you something to eat, if you like.}
-{155}{}{That would be swell, thanks.}
-{156}{}{No thanks, but I'll see you around.}
-{157}{}{Oh, I'm doing much better, thanks! I do some cooking now at the Skum Pitt and the Crash House. It gets kind of tiresome on some nights, but I do like to cook, and I get to meet all sorts of interesting people. And I get paid, too. Thanks for your help.}
-{158}{}{There you go. Enjoy. And I'll see you around!}
-{159}{}{He's this huge fat guy who runs the Casino. He wants to run Junktown, but Killian keeps him in line. He pays pretty well, though. Occasionally he hires Vinnie or Victor to deal with people for him, if they've been a problem, like one stranger who showed up here a few weeks ago.}
-{160}{}{You want me to turn in my friends?!?}
-{161}{}{Yes, I need your information.}
-{162}{}{Sorry. Forget I asked.}
-{163}{}{They have been hurting people, and they will go on hurting people unless they're stopped. You changed your life for the better. Now you have a chance to help improve the lives of others, too.}
-{164}{}{Hmm. Well, I mean, they are my friends. But I guess that they shouldn't be allowed to hurt people the way they do. And I guess I trust you since you helped me. All right.}
-{165}{}{No, I can't do that! Those are my friends! I may not be a Skul anymore, but I'm not going to turn my back on my old friends.}
-{166}{}{I need your help. I need your testimony to put away the Skulz for good.}
+{103}{}{Qui es-tu et que fais-tu ici ?}
+{104}{}{Je m'appelle }
+{105}{}{. Je ne suis dans cette ville que depuis très peu de temps.}
+{106}{}{Ca ne te regarde pas, putain !}
+{107}{}{Hein ?}
+{108}{}{C'est ce que je vois, car tout le monde sait qu'ici, c'est le territoire des Skulz. Tu ferais mieux de filer avant que quelqu'un ne te fasse du mal.}
+{109}{}{Allez !}
+{110}{}{Pardon, je croyais que c'était la salle de bain. Au revoir.}
+{111}{}{Les Skulz ? Qui sont-ils ?}
+{112}{}{Ouais, je le savais. Je me défoule, c'est tout.}
+{113}{}{Va t'en avant que l'un de nous ne décide de te faire la peau.}
+{114}{}{Bon sang, pardon.}
+{115}{}{Ouais ? Allez !}
+{116}{}{Oh. Tu devrais t'en aller. Ce secteur est dangereux, en particulier pour quelqu'un qui, comme toi, ne veut rien comprendre.}
+{117}{}{C'est nous ! Nous sommes la bande la plus cruelle de la ville. En fait, nous sommes la seule bande. Mais personne ne nous cherche d'ennuis.}
+{118}{}{Alors, vous avez la mainmise sur la ville, pas vrai ?}
+{119}{}{Comme c'est gentil ! Salut.}
+{120}{}{Oh. Eh bien, tu ne devrais pas. Je veux dire, tu ne fais pas partie des Skulz, et ici, c'est notre territoire. Alors, tu ferais mieux de partir avant que Victor ne s'énerve.}
+{121}{}{En fait, je crois que je vais rester.}
+{122}{}{Qui est Victor ?}
+{123}{}{Bien, je m'en vais.}
+{124}{}{Bien. C'est ton problème.}
+{125}{}{Victor est là-bas. C'est le plus cruel d'entre nous. Il aime torturer les iguanes qu'il attrape. A dire vrai, je ne l'aime pas trop, mais il est des nôtres.}
+{126}{}{Eh bien, il y a Victor et Le Requin, qui se défoule au Skum Pitt. Il y a aussi Vinnie et quelques autres gars qui s'arrêtent de temps en temps.}
+{127}{}{Où se trouve le Skum Pitt ?}
+{128}{}{Oh, le Skum Pitt est un bar louche au Nord d'ici, près du casino de Gizmo.}
+{129}{}{Personne ne nous cherche d'ennuis ! Enfin, sauf Killian, mais il est cool. C'est une sorte de shérif. On fait ce qu'on veut avec lui.}
+{130}{}{On se défoule, et parfois, on va jouer chez Gizmo ou délirer au Skum Pitt. Parfois, on fait aussi des petits boulots pour Gizmo ou pour des voyageurs. Victor aime pourchasser les gens. D'ailleurs, je te conseille de l'éviter.}
+{131}{}{Tu travailles pour Gizmo ? Que peux-tu me dire sur lui ?}
+{132}{}{Alors, qu'est-ce que vous faites ?}
+{133}{}{Qui fait partie de la bande ?}
+{134}{}{Pourquoi traînes-tu avec ces gars-là ?}
+{135}{}{On forme une sorte de famille ! On s'entraide. Enfin, sauf Le Requin, qui passe son temps à cogner. Et Victor, qui prend les gens de haut. Mais Vinnie est cool. Et on fait des trucs ensemble. Tu sais, on est de vrais amis.}
+{136}{}{Oh, c'est encore toi ! Tu sais, ce n'est pas très prudent de traîner par ici quand on ne fait pas partie des Skulz. Et c'est ton cas.}
+{137}{}{Ouais, en tout cas, je parierais que tes Skulz ne sont même pas capables de faire tomber une Brahmine endormie, alors je crois que je n'ai rien à craindre.}
+{138}{}{Qu'as-tu fait ces derniers temps ?}
+{139}{}{Vraiment ? On va voir ça ! Victor !}
+{140}{}{Pas grand chose, en fait. Il n'y a pas grand chose à faire. Je veux dire, Le Requin provoque des bagarres au Skum Pitt, comme d'habitude, mais qu'y a-t-il d'autre à faire par ici ?}
+{141}{}{Euh, pas grand chose, je crois.}
+{142}{}{Tu pourrais toujours essayer de faire autre chose. Tu as bien des talents ou des hobbies.}
+{143}{}{En fait, j'aime bien dessiner. Et Vinnie dit que je cuisine très bien. Mais, je veux dire, euh, on s'amuse bien, tu sais !}
+{144}{}{Je crois que ça se comprend.}
+{145}{}{Mais qu'est-ce que tu vas devenir en vieillissant ? Comment vas-tu vivre ? Comment vas-tu gagner de l'argent ?}
+{146}{}{Hmm, eh bien, je n'y avais jamais pensé. Je veux dire, Vinnie et Victor gagnent un peu d'argent et Le Requin joue parfois les gardes du corps quand il y a des visiteurs. En fait, je ne sais pas.}
+{147}{}{Tu devrais t'en aller avant qu'il ne soit trop tard.}
+{148}{}{Hé, fiche-moi la paix ! Tu parles comme les parents de Vinnie. Nous nous entraidons tous, d'accord ? Alors, va t'en.}
+{149}{}{Je suppose. Je n'y ai jamais vraiment réfléchi.}
+{150}{}{Salut ! Comment ça va ? Ca fait un bout de temps.}
+{151}{}{Je vais bien, merci.}
+{152}{}{Ca pourrait aller mieux.}
+{153}{}{Bien. Et toi ?}
+{154}{}{Oh, quel dommage ! Tu pourrais peut-être prendre une chambre et te reposer. Va voir Marcelles. Oh, attends, je peux te préparer quelque chose à manger, si tu veux.}
+{155}{}{Ce serait sympa, merci.}
+{156}{}{Non, merci. Mais, on se reverra.}
+{157}{}{Oh, ça va nettement mieux pour moi, merci ! Je fais la cuisine au Skum Pitt et à la Crash House. C'est un peu fatigant certains soirs, mais j'aime bien cuisiner et je rencontre toutes sortes de gens intéressants. Et en plus, on me paie pour ça. Merci de ton aide.}
+{158}{}{Voilà. Bon appétit. A plus tard !}
+{159}{}{C'est le gros gars qui tient le Casino. Il veut contrôler Dépôtville, mais Killian l'a à l'oeil. Il paie assez bien, pourtant. Parfois, il embauche Vinnie ou Victor pour qu'ils règlent ses problèmes à sa place. C'est ce qui s'est passé avec un étranger il y a quelques semaines.}
+{160}{}{Tu veux que j'abandonne mes amis ?!?}
+{161}{}{Oui, j'ai besoin de tes informations.}
+{162}{}{Excuse-moi. Oublie ce que je t'ai demandé.}
+{163}{}{Ils font du mal aux gens, et ils continueront tant que personne ne les arrêtera. Tu as changé de vie. Maintenant, tu as une chance d'aider les autres à changer à leur tour.}
+{164}{}{Hmm. Eh bien, je veux dire, ce sont mes amis. Mais, je suppose qu'ils n'ont pas le droit de faire du mal aux gens sans raison. Et je suppose que je dois te faire confiance puisque tu m'a apporté ton aide. Très bien.}
+{165}{}{Non, je ne peux pas faire ça ! Ce sont mes amis ! Je ne fais peut-être plus partie des Skulz, mais je n'ai pas l'intention de trahir mes vieux copains.}
+{166}{}{J'ai besoin de ton aide. Il me faut ton témoignage pour aider les Skulz à se ranger.}

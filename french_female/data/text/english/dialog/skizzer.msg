@@ -1,14 +1,14 @@
-{100}{}{You see Skizzer.}
-{101}{}{You see a man.}
-{102}{}{Fellow Crypter, you doing fine.}
-{103}{}{You some dumb Fool.}
-{104}{}{Welcome to Scrapheap. Keep your hands to yourself.}
+{100}{}{Tu vois Skizzer.}
+{101}{}{Tu vois un homme.}
+{102}{}{Camarade Crypt, tu te débrouille très bien.}
+{103}{}{T'es un idiot de Fool.}
+{104}{}{Bienvenue à Scrapheap. Laisse tes mains où on peut les voir.}
 {105}{}{Ok.}
-{106}{}{You be good, and Rock won't have to come down on you.}
+{106}{}{Reste tranquille, et Rock n'aura pas besoin de venir te corriger.}
 {107}{}{Ok.}
-{108}{}{[done]}
-{109}{}{He refuses to talk to you.}
-{110}{}{You going to get buried, Fool!}
-{111}{}{I am going to kick some serious ass! I am ready to ruuummmblllle!}
-{112}{}{Crypts rule! And Fools drool!}
-{113}{}{We are the bringers of death!}
+{108}{}{[Fait]}
+{109}{}{Il ne veut pas te parler.}
+{110}{}{Tu vas te faire enterrer, Fool !}
+{111}{}{Je vais enfin pouvoir botter des culs ! J'attendais que ca !}
+{112}{}{Les Crypts reignent ! Et les Fools craignent !}
+{113}{}{On est les missionnaires de la faucheuse !}

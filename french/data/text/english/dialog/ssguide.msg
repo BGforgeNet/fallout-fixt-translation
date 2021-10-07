@@ -1,52 +1,52 @@
-{100}{}{You see: Katrina. She has a very pretty smile.}
-{101}{}{I am unarmed; please put your weapon away.}
-{102}{}{Hng!}
-{103}{}{Why should I? This looks like a dangerous world.}
-{104}{}{Why's that?}
-{105}{}{Maybe I will, maybe I won't.}
-{106}{}{I'll assume that means yes.}
-{107}{}{Normally, I would agree with you. It is very dangerous to travel unarmed. But this is Shady Sands, and we are a peaceful people. There is no need for weapons here.}
-{108}{}{Okay. Thanks.}
-{109}{}{If you don't put your weapon away, I will not talk with you. There are many people like me. You should only use force if the situation calls for it.}
-{110}{}{Hmm, okay.}
-{111}{}{Welcome to Shady Sands, traveler. My name is Katrina. My job is to greet strangers and help them understand our village. We find that there are fewer problems if you listen to what I have to say.}
-{112}{}{Wubba!}
-{113}{}{Tell me more about yourself.}
-{114}{}{Please help me...}
-{115}{}{I'm looking for a Water Chip. Seen one?}
-{116}{}{I need help finding Tandi.}
-{117}{}{I'm dealing with your radscorpion problem. Any clues?}
-{118}{}{Thanks, maybe later.}
-{119}{}{It is a pity that you are dimwitted. We will have difficultly understanding each other. I hope the others in your Vault are not like you.}
-{120}{}{Wubba-val?}
-{121}{}{Yes, I can tell that you are from a Vault. You have that look about you. I came from Vault 15, to the east. But I had to leave my home and now I live here. Hopefully you will find what you are looking for, even if it is just another place to live. I hope that your Vault did not kick you out due to your wits. I do hope there is another reason.}
-{122}{}{Hng.}
-{123}{}{You will need to find another way to get your answers, as you cannot communicate well enough. I hope that you do not hurt too many people in your journey. Please be nice to the people here, we mean you no harm.}
+{100}{}{Voici Katrina. Elle a un très beau sourire.}
+{101}{}{Je n'ai pas d'arme, alors dépose la tienne, s'il te plaît.}
+{102}{}{Grr !}
+{103}{}{Pourquoi ça ? Ce monde me semble dangereux.}
+{104}{}{Quoi ?}
+{105}{}{J'hésite...}
+{106}{}{Je suppose que ça veut dire oui.}
+{107}{}{Normalement, je devrais être d'accord avec toi. C'est très dangereux de voyager sans arme. Mais nous sommes aux Sables Ombragés où vit un peuple pacifique. Les armes ne servent à rien, ici.}
+{108}{}{D'accord. Merci.}
+{109}{}{Si tu ne déposes pas ton arme, je ne te parlerai pas. Il y a beaucoup de gens comme moi. On ne doit utiliser la force que lorsque cela devient vraiment nécessaire.}
+{110}{}{Hmm, d'accord.}
+{111}{}{Bienvenue aux Sables Ombragés. Je m'appelle Katrina. Mon travail consiste à accueillir les étrangers et à les aider à comprendre notre village. Si tu m'écoutes, tu n'auras aucun problème.}
+{112}{}{Grrr !}
+{113}{}{Parle-moi de toi.}
+{114}{}{Aide-moi, s'il te plaît...}
+{115}{}{Je cherche une puce d'eau. Tu en as vu une ?}
+{116}{}{J'ai besoin d'aide pour retrouver Tandi.}
+{117}{}{Je m'occupe de votre problème de radscorpions. Des indices ?}
+{118}{}{Merci, peut-être plus tard.}
+{119}{}{Dommage que tu sois si bête. Nous allons avoir du mal à nous comprendre. J'espère que les autres habitants de ton Abri ne sont pas comme toi.}
+{120}{}{Arr-eu ?}
+{121}{}{Oui, je pense que tu viens d'un Abri. Ca se voit à ton allure. Moi, je viens de l'Abri 15, à l'Est. Mais j'ai dû m'en aller et, maintenant, j'habite ici. Heureusement, tu trouveras ce que tu cherches, même s'il s'agit d'un autre endroit pour vivre. J'espère que ton Abri ne t'a pas chassé à cause de ton manque d'intelligence. J'espère sincèrement qu'il y a une autre raison.}
+{122}{}{Grr.}
+{123}{}{Tu vas devoir trouver les réponses à tes questions ailleurs, car tu ne communiques pas assez bien. J'espère que tu ne fais pas trop de mal autour de toi au cours de ton périple. Sois sympa avec les gens d'ici, s'il te plaît, nous ne te voulons aucun mal.}
 {124}{}{Ahhh.}
-{125}{}{I would be happy to help you. I myself was once like you. Hopefully, my knowledge will be useful.}
-{126}{}{What should I do if I get hurt?}
-{127}{}{Where can I get some better equipment?}
-{128}{}{Tell me about this place.}
-{129}{}{Tell me about the rest of the world.}
-{130}{}{Tell me about yourself.}
-{131}{}{That's all for now, thanks.}
-{132}{}{Well, if you can't get to a doctor, you will need to heal yourself. Stimpaks are a common healing item. Use them on yourself to heal minor wounds. First Aid is a slower method, but it is always available. For major wounds, like a broken leg, you will need to use your Doctor skill.}
-{133}{}{You will have to do what we do: Scavenge it, or trade for it. And if you are attacked, your foes might provide equipment - if you live long enough to loot the corpses. We are a peaceful community, so we mostly barter or trade for the items that we cannot produce.}
-{134}{}{Tell me more about bartering.}
-{135}{}{You are standing in Shady Sands. We are but a small town in a large world. We just want to be left alone. Besides some mutated animals and other creatures of the desert, only the raiders give us trouble. Aradesh is our leader. He is in the large central house, if you wish to speak with him.}
-{136}{}{I know very little of the outside world. I escaped from a Vault when it was attacked. Unfortunately, I was very hurt and do not remember much of what happened. But Dharma was watching over me, and I was found by the people of Shady Sands. I live here now. Have you spoken with Ian yet? He is a merchant guard who was hurt. He is recovering in the guardhouse over there. [She points to the east] He is more widely travelled than I.}
-{137}{}{My life was very boring. I was raised in a Vault. I lived there for many years. Unfortunately, we were crowded and life was very bad. There was a schism, and many people left, taking with them the best equipment. Still, some of us tried to stay in the Vault. But then we were attacked. I was hurt, and I ended up here. Now I try to help people...}
-{138}{}{Where was this Vault of yours?}
-{139}{}{Bartering is the exchange of goods. You give me some items, and I give you items in trade. Since you initiated the barter, I will let you pick and choose what you want. But the deal must be one that I think I will like, so you will probably want to give me more valuable goods that you don't need in exchange for less expensive things that you want. And if you don't have enough items to trade, there are always caps. Bottle caps are the only common money found out here. The caps are backed by the merchants of the Hub, so you can trade them anywhere.}
-{140}{}{It was Vault 15. It is due east of here. We tried to make contact with some other Vaults, but we always failed. I think it was the raiders who attacked my fellow dwellers. Be careful!}
-{141}{}{I hope you find her. She is like a little sister to me. I think it was one of the raider groups who took her. Find out as much information about them as you can and equip yourself before you go after them. But don't be so quick to fight, even they will sometimes listen to reason...}
-{142}{}{Seth has been trying to follow the radscorpions. He claims that he even knows the way to their lair, but I think he is a little scared of going out there. His brother was seriously injured by one of the creatures, and Seth doesn't quite know what to do.}
-{143}{}{As a matter of fact, yes. My old home, Vault 15, had one. I haven't been there since I was hurt, but you might find what you are looking for there. Someone said that they tried to go to the Vault to have a look around, but it was dark and the elevator was broken. I hope you're better prepared.}
-{144}{}{Hello again. I hope you are doing well. Is there anything I can help you with?}
-{145}{}{Don't you ever go to sleep?}
-{146}{}{Well, I take catnaps when you are not around. Besides, I find the desert air very invigorating and healthy. And I never tire of looking at the stars. Can you imagine never seeing the night sky for your entire life? [She pauses and looks at you] Oh, I guess you can.}
-{147}{}{Ah, yeah. Thanks.}
-{148}{}{Is there a doctor around here?}
-{149}{}{Small places like Shady Sands would not be able to survive without the help of a healer. Our doctor, Razlo, lives to the south. If you are seriously hurt, see him. Try not to bother him at night, though. He's a pretty cranky person without his sleep.}
-{150}{}{You earn 250 experience for the knowledge you have gained from Katrina.}
-{151}{}{They usually hang thieves around here. Be good.}
+{125}{}{Ca me ferait plaisir de t'aider. J'ai vécu la même chose que toi. Mes connaissances pourront t'être utiles.}
+{126}{}{Que dois-je faire si j'ai des blessures ?}
+{127}{}{Où puis-je trouver du meilleur matériel ?}
+{128}{}{Parle-moi de cet endroit.}
+{129}{}{Parle-moi du reste du monde.}
+{130}{}{Parle-moi de toi.}
+{131}{}{C'est tout pour le moment, merci.}
+{132}{}{Eh bien, si tu ne trouves pas de médecin, tu devras te soigner toi-même. Les Stimpaks sont les remèdes les plus courants. Utilises-en pour soigner les blessures bénignes. La compétence Secourisme est une méthode plus lente, mais elle est toujours disponible. Pour les blessures graves, comme une jambe cassée, tu devras utiliser la compétence Médecin.}
+{133}{}{Tu devras faire comme nous. En récupérer ou en échanger. Et si on t'attaque, tu pourras récupérer du matériel sur les corps de tes ennemis, enfin si tu vis assez longtemps pour pouvoir les voler. Nous sommes une communauté pacifique, c'est pourquoi nous pratiquons surtout le troc ou le commerce pour obtenir les objets que nous ne pouvons pas produire.}
+{134}{}{Parle-moi du troc.}
+{135}{}{Tu es aux Sables Ombragés. Nous ne sommes qu'une petite ville au milieu d'un monde immense. Nous voulons juste avoir la paix. A part quelques animaux mutants et autres créatures du désert, seuls les Pillards nous causent des ennuis. Aradesh est notre chef. Il se trouve dans la grande maison du centre. Va lui parler.}
+{136}{}{Je ne sais presque rien sur le monde extérieur. J'ai dû m'enfuir lorsque l'Abri a été attaqué. Hélas, j'ai été gravement blessée et je ne me souviens pas bien de ce qui s'est passé. Mais Dharma a veillé sur moi, et ce sont les gens des Sables Ombragés qui m'ont retrouvée. Je vis ici, maintenant. As-tu déjà parlé avec Ian ? C'est un garde de marchands qui a été blessé. Il est soigné dans la maison des gardes, là-bas. [Elle indique l'Est] Il a beaucoup plus voyagé que moi.}
+{137}{}{Ma vie était très ennuyeuse. J'ai grandi dans un Abri. J'y ai vécu pendant des années. Hélas, nous étions trop nombreux et la vie y était très pénible. Il y a eu une scission, et beaucoup de gens sont partis en emportant avec eux les meilleurs équipements. Certains d'entre nous ont essayé de rester à l'Abri. Mais nous avons été attaqués. J'ai été blessée et j'ai atterri ici. Maintenant, j'essaie d'aider les autres...}
+{138}{}{Où se trouvait ton Abri ?}
+{139}{}{Le troc consiste à échanger des marchandises. Tu me donnes des objets et je t'en donne d'autres en échange. Quand tu auras bien compris, je te laisserai choisir ce que tu veux. Mais l'échange doit me satisfaire, alors tu devras probablement me donner des marchandises de valeur, dont tu n'as pas besoin, en échange de marchandises moins chères. Et si tu n'as pas assez d'objets à échanger, il y a toujours les caps. Les capsules sont la seule monnaie courante ici. Les caps nous viennent des marchands du Centre, et tu peux les utiliser partout.}
+{140}{}{C'était l'Abri 15. Il se trouve à l'Est d'ici. Nous avons essayé d'entrer en contact avec d'autres Abris, mais ça n'a jamais rien donné. Je crois que ce sont les pillards qui ont attaqué les habitants de mon Abri. Fais attention !}
+{141}{}{J'espère que tu la trouveras. Je la considère comme ma soeur. Je pense que c'est une bande de pillards qui l'a enlevée. Trouve un maximum d'informations sur eux et équipe-toi avant de partir à leur recherche. Mais ne fonce pas dans le combat, car il leur arrive à eux aussi d'écouter leur raison...}
+{142}{}{Seth a essayé de suivre les radscorpions. Il prétend même savoir où se trouve leur repaire, mais je crois qu'il a un peu peur de s'y rendre. Son frère a été grièvement blessé par un mutant, et Seth ne sait pas vraiment ce qu'il doit faire.}
+{143}{}{A vrai dire, oui. Il y en avait là où je vivais autrefois, à l'Abri 15. Je n'y suis jamais retournée depuis que j'ai été blessée, mais tu y trouveras peut-être ce que tu cherches. Quelqu'un m'a dit avoir essayé d'entrer dans l'Abri, mais il faisait sombre et l'ascenseur était en panne. Prépare-toi bien.}
+{144}{}{Rebonjour. J'espère que tu vas bien. Pourrais-je t'aider ?}
+{145}{}{Tu ne dors jamais ?}
+{146}{}{Eh bien, je fais de petites siestes quand tu n'es pas là. En plus, je trouve l'air du désert très vivifiant et sain. Et je ne me lasse jamais de regarder les étoiles. Peux-tu imaginer une vie entière sans jamais voir un ciel étoilé ? [Elle fait une pause et te regarde] Oh, je crois que tu le peux.}
+{147}{}{Ah. Merci.}
+{148}{}{Y'a-t-il un médecin par ici ?}
+{149}{}{Les petites villes comme les Sables Ombragés ne survivraient pas sans l'aide d'un guérisseur. Le nôtre, Razlo, vit dans la maison la plus au Sud. Si ta blessure est grave, va le voir. Essaie de ne pas le déranger la nuit. Il est de mauvaise humeur lorsqu'il manque de sommeil.}
+{150}{}{points d'expérience pour les connaissances que tu as acquises auprès de Katrina.}
+{151}{}{Généralement, ils pendent les voleurs par ici. Ne fais pas de bêtises.}

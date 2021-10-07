@@ -1,9 +1,9 @@
-{100}{}{Time left: }
-{101}{}{ seconds.}
-{102}{}{This is where you make your mark on the world. (A small pile of ash.)}
-{104}{}{Time left: }
-{105}{}{ seconds.}
-{106}{}{This is where you make your mark on the world. (A small pile of ash.)}
-{108}{}{Time left: }
-{109}{}{ seconds.}
-{110}{}{This is where you make your mark on the world. (A small pile of ash.)}
+{100}{}{Temps restant :  }
+{101}{}{ secondes.}
+{102}{}{C'est ici que tu apposes ta marque sur le monde. [un petit tas de cendres].}
+{104}{}{Temps restant :  }
+{105}{}{ secondes.}
+{106}{}{C'est ici que tu apposes ta marque sur le monde. [un petit tas de cendres].}
+{108}{}{Temps restant :  }
+{109}{}{ secondes.}
+{110}{}{C'est ici que tu apposes ta marque sur le monde. [un petit tas de cendres].}

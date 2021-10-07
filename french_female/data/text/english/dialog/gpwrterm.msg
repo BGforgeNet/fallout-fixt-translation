@@ -1,97 +1,96 @@
-{100}{}{System:                                                         Primary Power:                  OFF-LINE                           Secondary Power:               ON-LINE}
-{101}{}{Power Management}
-{102}{}{P*w*r*M*n*g*m*nt}
-{103}{}{Exit}
-{104}{}{Power Systems Management}
-{105}{}{Primary Power}
-{106}{}{Emergency Power}
+{100}{}{Système :     Energie principale :     HORS LIGNE     Energie secondaire :     EN LIGNE}
+{101}{}{Gestion d'énergie}
+{102}{}{G*st**n d'*n*rg**}
+{103}{}{Quitter}
+{104}{}{Gestion des systèmes d'énergie}
+{105}{}{Energie principale}
+{106}{}{Energie de secours}
 {107}{}{RETOUR}
-{108}{}{Primary Power Management:       OFF-LINE}
-{109}{}{Reinitialize Primary Power}
+{108}{}{Gestion d'énergie principale :     HORS LIGNE}
+{109}{}{Réinitialiser énergie principale}
 {110}{}{RETOUR}
-{111}{}{Primary Power Management:                                          ERROR! ERROR! ERROR!                                               Primary System Initialization Failed}
-{112}{}{Diagnose}
+{111}{}{Gestion d'énergie principale :     ERREUR ! ERREUR ! ERREUR !     Echec initialisation système principal}
+{112}{}{Diagnostic}
 {113}{}{RETOUR}
-{114}{}{Failure:        Generator Level 6                                       0 Feed Return:  Inoperable                                          Service Needed}
+{114}{}{Echec :     Générateur niveau 6     Aucun Retour d'alimentation : inopérationnel     Dépannage requis}
 {115}{}{RETOUR}
-{116}{}{Emergency Power Management:     ON-LINE}
-{117}{}{Disable Emergency Power}
+{116}{}{Gestion d'énergie de secours :     EN LIGNE}
+{117}{}{Désactiver énergie de secours}
 {118}{}{RETOUR}
-{119}{}{System:                                                         Primary Power:                  ON-LINE                           Emergency Power:                ON STANDBY}
-{120}{}{Power Management}
-{121}{}{Exit}
-{122}{}{Primary Power Management:       ON-LINE}
-{123}{}{Disable Primary Power}
+{119}{}{Système :     Energie principale :     EN LIGNE Energie de secours :     EN VEILLE}
+{120}{}{Gestion d'énergie}
+{121}{}{Quitter}
+{122}{}{Gestion d'énergie principale :     EN LIGNE}
+{123}{}{Désactiver énergie principale}
 {124}{}{RETOUR}
-{125}{}{System:                                                         Primary Power:                  ON-LINE}
-{126}{}{d*s*bl* pr*m*ry p*w*r}
-{127}{}{Disable Primary Power}
-{128}{}{Exit}
-{129}{}{P*w*r S*st*ms M*n*g*m*nt}
-{130}{}{pr*m*ry p*w*r}
-{131}{}{*m*rg*ncy p**er}
+{125}{}{Système :      Energie principale :     EN LIGNE}
+{126}{}{d*s*ct*v*r *n*rg** pr*nc*p*le}
+{127}{}{Désactiver énergie principale}
+{128}{}{Quitter}
+{129}{}{G*st**n d*s s*st*m*s d'*n*rg**}
+{130}{}{*n*rg** pr*nc*p*le}
+{131}{}{*n*rg** d* s*c**rs}
 {132}{}{RETOUR}
-{133}{}{pr*m*r p*w*r m*n*g*m*n*}
-{134}{}{r**n*t**l*z* pr*m*ry p*w*r}
+{133}{}{g*st**n d'*n*rg** pr*nc*p*le}
+{134}{}{r**n*t**l*s*r *n*rg** pr*nc*p*l*}
 {135}{}{RETOUR}
-{136}{}{pr*m*r* p*w*r m*n*g*m*nt:                                          *RR*R! *RR*R! *RR*R*!                                              g*n*r*t*r n**ds r*p**r}
+{136}{}{g*st**n d'*n*rg** pr*nc*p*le : *RR**R ! *RR**R ! *RR**R* ! d*p*nn*g* g*n*r*t**r r*q**s}
 {137}{}{RETOUR}
-{138}{}{*m*rg*nc* p*w*r m*n*g*m*nt:     *N-L*N*}
-{139}{}{System:                                                         Primary Power:                  OFF-LINE                           Emergency Power:               OFF-LINE}
-{140}{}{Enable Emergency Power}
-{141}{}{d**gn*s* pr*m*r* p*w*r}
-{142}{}{pr*m*r* p*w*r *v*l**t**n}
-{143}{}{*n*bl* *m*rg*nc* p*w*r}
-{144}{}{p*w*r m*n*g*m*nt r*s*rc*}
-{145}{}{Exit}
-{146}{}{S*st*m *rr*r!                                                         *nv*l*d *s*r. n*t*f* *dm*n*str*t**n.                          S*st*m h*lt*d.}
-{147}{}{Exit}
-{148}{}{d*s*bl* *m*rg*nc* p*w*r}
-{200}{}{Grant me access to the Mainframe.}
-{201}{}{Access denied. Terminating input.}
-{202}{}{Access Granted.}
+{138}{}{g*st**n d'*n*rg** d* s*c**rs :     *N L*GN*}
+{139}{}{Système : Energie principale : HORS LIGNE Energie de secours : HORS LIGNE}
+{140}{}{Activer énergie de secours}
+{141}{}{d**gn*s*tc *n*rg** pr*nc*p*le}
+{142}{}{*v*l**t**n *n*rg** pr*nc*p*le}
+{143}{}{*ct*v*r *n*rg** d* s*c**rs}
+{144}{}{r*ss*rc* g*st**n d'*n*rg**}
+{145}{}{Quitter}
+{146}{}{*rr**r s*st*m* ! *t*ls*tr *nc*rr*ct. n*t*f**r *dm*n*str*t**n. A*rr*t s*st*me.}
+{147}{}{Quitter}
+{148}{}{d*s*ct*v*r g*st**n d'*n*rg**}
+{200}{}{Accès au système principal.}
+{201}{}{Accès refusé. Fin de saisie.}
+{202}{}{Accès accordé.}
 {203}{}{Main Menu}
-{204}{}{Exit Mainframe}
-{205}{}{Terminate Program}
-{206}{}{Select Option}
-{207}{}{Base Information}
-{208}{}{Security Information}
-{209}{}{Research Information}
-{210}{}{Power Terminus}
-{211}{}{West Tech Research Facility:                                             Founded in 2002 as a private contractor for the United States government, the company initially consisted of two divisions - 
-the Advanced Weapons Research and the Biomedical Sciences divisions.}
-{212}{}{Security:                                                     Security Robots: Active}
-{213}{}{Security:                                                     Security Robots: Inactive}
-{214}{}{Deactivate Security Robots}
-{215}{}{Activate Security Robots}
-{216}{}{Research:                                                     Records most current at West Tech Research Facility}
-{217}{}{Research Division Employees Records}
-{218}{}{Power Armor. Status: Complete}
-{219}{}{FEV (Force Evolutionary Virus). Status: Pending }
-{220}{}{Research Personnel Records}
-{221}{}{Robert Anderson                                                     Research Assistant                                                 Security Clearance: Blue                                    Stationed: Mariposa Military Base}
-{222}{}{Nick Davis                                                     Director of NBC Division of West Tech Research               Security Clearance: Blue                                            Stationed: West Tech Research Facility}
-{223}{}{John Isaac                                                     Research Assistant                                             Security Clearance: Red                                    Stationed: West Tech Research Facility}
-{224}{}{Steve Remco                                                     Research Assistant                                             Security Clearance: Blue                                    Stationed: Mariposa Military Base}
-{225}{}{Charles Rignhold                                                     Research Head of Laser Development                           Security Clearance: Blue                                       Stationed: West Tech Research Facility}
-{226}{}{Michele Santose                                                     Lab Technician                                                     Security Clearance: Red                                        Stationed: West Tech Research Facility}
-{227}{}{Erin Shellman                                                           Lab Technician                                                     Security Clearance: Blue                                        Stationed: Mariposa Military Base}
-{228}{}{Leon VonFelden                                                     Research Head of FEV                                       Security Clearance: Blue                                       Stationed: Mariposa Military Base}
-{229}{}{Download Records to Pip-Boy 2000}
+{204}{}{Quitter ordinateur central}
+{205}{}{Terminer programme}
+{206}{}{Sélectionner option}
+{207}{}{Informations base}
+{208}{}{Informations sécurité}
+{209}{}{Informations recherche}
+{210}{}{Terminus alimentation}
+{211}{}{Centre de recherches de West Tech : Fondée en 2002 en tant qu'entreprise privée au service du gouvernement des Etats-Unis, la société se compose à l'origine de deux divisions : Recherche en Armes Sophistiquées et Sciences Biomédicales.}
+{212}{}{Sécurité : Robots de sécurité : Actifs}
+{213}{}{Sécurité : Robots de sécurité : Inactifs}
+{214}{}{Désactiver robots de sécurité}
+{215}{}{Activer robots de sécurité}
+{216}{}{Recherche : Dernières informations au Centre de recherches de West Tech}
+{217}{}{Informations sur les employés de la division de Recherche}
+{218}{}{SuperArmure. Statut : Terminé}
+{219}{}{FEV [Virus à Evolution Forcée]. Statut : En attente}
+{220}{}{Informations sur le personnel de la Recherche}
+{221}{}{Robert Anderson Assistant de Recherche Code de sécurité : Bleu Poste : Base militaire de Mariposa}
+{222}{}{Nick Davis Responsable Division NBC du Centre de Recherches de West Tech Code de sécurité : Bleu Poste : Centre de recherches de West Tech}
+{223}{}{John Isaac Assistant de Recherche Code de sécurité : Rouge Poste : Centre de Recherches de West Tech}
+{224}{}{Steve Remco Assistant de recherche Code de sécurité : Bleu Poste : Base militaire de Mariposa}
+{225}{}{Charles Rignhold Responsable de Recherche du Développement Laser Code de sécurité : Bleu Poste : Centre de Recherches de West Tech}
+{226}{}{Michele Santose Technicien de laboratoire Code de sécurité : Rouge Poste : Centre de Recherches de West Tech}
+{227}{}{Erin Shellman Technicien de laboratoire Code de sécurité : Bleu Poste : Base militaire de Mariposa}
+{228}{}{Leon VonFelden Responsable de Recherche sur le FEV Code de sécurité : Bleu Poste : Base militaire de Mariposa}
+{229}{}{Télécharger les informations vers le Pip-Boy}
 {230}{}{RETOUR}
-{231}{}{Power Armor Specs:                                                     The T-51b Powered Infantry Armor is designed with the latest passive defense features for both civilian and military disturbances. }
-{232}{}{FEV Summary Digest:                                                     2073. As China became increasingly aggressive with their use of biological weapons, the United States government felt that a countermeasure was needed. The Pan-Immunity Virion Project (PVP) was officially formed September 15, 2073. }
-{233}{}{2075. It became clear that the best way to combat the newly created biological weapons was to alter uninfected DNA so that it was no longer susceptible to standard viral infection.}
-{234}{}{2076. Unforeseen side effects began surfacing in early 2076 with the PVP. Animal test subjects began showing an abnormal growth rate accompanied by increased brain activity. }
-{235}{}{The U.S. government took notice of these discoveries, and in the interests of national security, moved a team on-site to secure and oversee the project, which was now dubbed the FEV (Forced Evolutionary Virus) project.}
-{236}{}{2077. FEV nears completion. Test on lab animals are at a near 100% success rate. Size and muscle density increase approximately 60%, and the potential intelligence increase by 200%. }
-{237}{}{Effects upon human subjects remain unknown; although they are theoretically promising. }
-{238}{}{The military, wishing to continue further testing, builds a large facility at the Mariposa military installation in central California. At this new facility, testing of the FEV virus continues on volunteer subjects from the military.}
-{239}{}{Command Received:                           Command Executed}
-{240}{}{Access Denied}
-{241}{}{ In 2069, West Tech was the single largest contractor for the United States government; its largest contract being Powered Infantry Armor Model T-51b. }
-{242}{}{In light of significant advances in 2076 by the NBC on the Pan-Immunity Virion Project, the United States Defense Department, in fear of international espionage,}
-{243}{}{ moved a team onto the site to secure and oversee the project, now dubbed the FEV (Forced Evolutionary Virus) project.}
-{250}{}{The back-mounted TX-28 Micro Fusion Pack generates 60,000 Watts to power the HiFlo hydraulic systems built into the frame of the suit. }
-{251}{}{Made of the latest poly-laminate composite, the T-51b shell is lightweight and capable of absorbing over 2500 Joules of kinetic impact. }
-{252}{}{The 10 micron silver ablative coating can reflect laser and radiation emissions without damage to the composite subsurface.}
+{231}{}{Spécifications de la SuperArmure : La SuperArmure d'Infanterie modèle T-51b bénéficie des toutes dernières fonctions de défense passive contre les troubles civils et militaires.}
+{232}{}{Résumé du FEV : 2073. Devant une Chine de plus en plus belliqueuse et munie d'armes biologiques, les Etats-Unis décident de prendre des mesures défensives. Ainsi naît officiellement, le 15 septembre 2073, le Projet Virion d'Immunité [PVI].}
+{233}{}{2075. Il devient clair que le meilleur moyen de combattre les nouvelles armes biologiques consiste à modifier l'ADN non infecté afin qu'il ne soit plus exposé aux infections virales standard.}
+{234}{}{2076. Au début 2076, le PVI commence à produire des effets secondaires imprévus. Sur les animaux soumis aux tests, on remarque un taux de croissance anormal accompagné d'une intensification de l'activité cérébrale.}
+{235}{}{Face à ces découvertes et dans l'intérêt de la sécurité nationale, le gouvernement américain envoie sur place une équipe pour superviser le projet, désormais baptisé 'projet FEV' [Virus à Evolution Forcée].}
+{236}{}{2077. La réalisation du FEV touche à sa fin. Les tests appliqués aux animaux de laboratoire approchent un taux de réussite de 100 %. La taille et la densité des muscles augmentent d'environ 60 %, et l'intelligence potentielle s'accroît de 200 %. }
+{237}{}{On ne connaît pas les effets sur l'être humain mais ils sont théoriquement prometteurs.}
+{238}{}{Désireuse de poursuivre les tests, l'armée construit une importante unité à la base militaire de Mariposa, en Californie centrale. Là, on continue à tester le virus FEV sur des sujets volontaires de l'armée.}
+{239}{}{Commande reçue : Commande exécutée}
+{240}{}{Accès refusé}
+{241}{}{ En 2069, West Tech était la plus grande entreprise à travailler pour le gouvernement américain ; son plus gros contrat : la SuperArmure d'Infanterie modèle T-51b.}
+{242}{}{A la lumière des sérieux progrès réalisés en 2076 par la NBC sur le Projet Virion d'Immunité, le Ministère de la Défense américain, redoutant l'espionnage international,}
+{243}{}{ envoie sur place une équipe pour superviser le projet, désormais baptisé 'Projet FEV' [Virus à Evolution Forcée].}
+{250}{}{L'engin à microfusion TX-28 fixé au dos génère 60 000 watts pour alimenter les systèmes hydrauliques HiFlo intégrés à la combinaison.}
+{251}{}{Fabriqué à partir des plus récents composés multicouches, le modèle T-51b est super-léger et capable d'absorber plus de 2500 joules d'impact cinétique.}
+{252}{}{Le revêtement ablatif en argent de 10 microns peut réfléchir les émissions de rayons laser et de radiations sans détérioration de la sous-couche.}

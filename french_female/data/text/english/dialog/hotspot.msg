@@ -1,7 +1,7 @@
-{100}{}{You sustain }
-{101}{}{ points of radiation damage.}
-{102}{}{You sustain }
-{103}{}{ points of radiation damage.}
-{104}{}{There is a high concentration of radiation nearby.}
-{105}{}{You sustain }
-{106}{}{ points of radiation damage.}
+{100}{}{Tu subis }
+{101}{}{ points de dégât par radiation.}
+{102}{}{Tu subis }
+{103}{}{ points de dégât par radiation.}
+{104}{}{Il y a une forte concentration de radiations près d'ici.}
+{105}{}{Tu subis }
+{106}{}{ points de dégât par radiation.}

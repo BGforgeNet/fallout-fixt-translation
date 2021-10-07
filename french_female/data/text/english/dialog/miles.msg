@@ -1,54 +1,54 @@
-{100}{}{You see: Miles, the chemist of Adytum.}
-{101}{}{You see a thin man in a white smock.}
-{102}{}{I don't believe we've met. I'm Miles. What can I do for you?}
-{103}{}{I'm just looking around, thanks.}
-{104}{}{That smock makes you look like a scientist. What are you studying?}
-{105}{}{Huh?}
-{106}{}{Well, enjoy your stay in our little town.}
-{107}{}{I'm a chemist. Mostly, I make primer and powder so that we can re-use the brass casings from bullets. But I also dabble with some other chemicals.}
-{108}{}{So you make bullets for Adytum.}
-{109}{}{Where do you get the sulfur, potassium nitrate, and other chemicals?}
-{110}{}{What other chemicals do you work with?}
-{111}{}{Thanks for the information.}
-{112}{}{Yes, although Smitty is the one who actually casts the bullets. I just refill the brass casings.}
-{113}{}{But the Hub merchants make a profit off of you and the town.}
-{114}{}{It's unusual to find someone who can appreciate chemistry! But to answer your question, some of the materials we get from Hub merchants; others I manufacture or just find in the area. For instance, the dung heaps from the brahmin are a good source, as well as some of the strains of fungus that I cultivate.}
-{115}{}{Well, I've been trying to get some strong acids so that Smitty can use them for etching. I also have been trying to make some permanent dyes and inks. But without access to natural inks, it's difficult.}
-{116}{}{Any time.}
-{117}{}{Oh dear. I'm afraid I can't help you.}
-{118}{}{Hello again. Can I help you?}
-{119}{}{Yes, well, we have to make a living. Since the hydroponic farms aren't functioning, we have to buy food from the merchants, and bullets are the only thing we have to sell.}
-{120}{}{I could try to get the parts to fix the hydroponic farms.}
-{121}{}{Oh. Well, that's too bad.}
-{122}{}{Really? That would be wonderful! We're just missing a few parts, but I'm sure that if you could scrounge up the right pieces, we could be self-sufficient! Sammael might be able to give you some help.}
-{123}{}{Have you found the parts yet?}
-{124}{}{Yes, here they are.}
-{125}{}{Not yet, who did you say I should ask about them?}
-{126}{}{You'll need to talk to Sammael. You'll usually find him in a tent down by the farms during the day.}
-{127}{}{[Miles looks over the parts] Those are them, but it looks like Smitty is going to have to do a little work on them. Can you take them over to him?}
-{128}{}{I've got other things to deal with. Can you do it yourself?}
-{129}{}{Sure, I'll be back after he's fixed them.}
-{130}{}{Sure, I appreciate you finding them for us.}
-{131}{}{And... }
-{132}{}{Not a problem.}
-{133}{}{Oh. I almost forgot. Here is some stuff, for your trouble. (Miles hands you some caps and some stimpaks.)}
-{134}{}{Were you able to take the parts over to Smitty?}
-{135}{}{[Miles takes the fixed parts from you] Looks like Smitty did a great job on these. Thanks for the help, and here's some stuff for your trouble.}
-{136}{}{[Miles hands you some caps and some stimpaks.]}
-{137}{}{If you ever get back this way, you might want to look me and Smitty up. We might be able to help you out with some adjustments to some of your equipment. Smitty can work wonders with certain weapons, and I can help out with certain sorts of armor.}
-{138}{}{Looks like you found some Power Armor. I've heard of a chemical process that I could use to harden the surface of the armor. However, I'm missing some information which could give me the last few clues to the formula and reagents necessary. I've heard the Librarian in the Hub, Mrs. Stapleton, has some journals and books that might be of use. If you could get those from there, I could probably test the process on your armor.}
-{139}{}{Sounds good. I'll go talk to Mrs. Stapleton.}
-{140}{}{I got better things to do than fetch something else for you.}
-{141}{}{Well, if you ever change your mind, just go see Mrs. Stapleton and then head on back here.}
-{142}{}{Had a chance to get to the Hub yet and visit Mrs. Stapleton?}
-{143}{}{Yeah, here are the books.}
-{144}{}{Not yet.}
-{145}{}{[Miles takes the books from you, and starts flipping through them.] Hmmmm. Yes, hmmmm. [He mumbles to himself for a few more minutes.] Well, I think I can figure it out, but it will take a full day for the bonding to occur. Is that acceptable?}
-{146}{}{Not a problem.}
-{147}{}{Sorry, don't have the time.}
-{148}{}{Well, when you have the time, come back and I'll do the process on your armor.}
-{149}{}{[Miles takes your armor from you.]}
-{150}{}{[Miles hands your armor back to you, it seems to glint a little more than it did before.] Well, I think it worked! Hope it helps you out.}
-{151}{}{What happened to your Power Armor? I can only help you out if you have Power Armor.}
-{152}{}{Nice to see you, but I'm right in the middle of some research.}
-{153}{}{Nothing I can do with that type of armor. Sorry.}
+{100}{}{Voici Miles, le chimiste du Sanctuaire.}
+{101}{}{Voici un homme mince en blouse blanche.}
+{102}{}{Je n'arrive pas à croire qu'on se soit rencontré. Je m'appelle Miles. Que puis-je pour toi ?}
+{103}{}{Je fais juste un tour, merci.}
+{104}{}{Avec cette blouse, tu ressembles à un scientifique. Qu'est-ce que tu étudies ?}
+{105}{}{Hein ?}
+{106}{}{Eh bien, bon séjour dans notre petite ville.}
+{107}{}{Je suis chimiste. Je fabrique surtout des amorces et de la poudre pour réutiliser les cylindres en laiton des balles usagées. Mais je travaille aussi avec d'autres produits chimiques.}
+{108}{}{Alors, tu fabriques des munitions pour le Sanctuaire ?}
+{109}{}{Où trouves-tu le souffre, le nitrate de potassium et les autres produits chimiques ?}
+{110}{}{Avec quels autres produits chimiques travailles-tu ?}
+{111}{}{Merci pour le renseignement.}
+{112}{}{Oui, mais c'est La Forge qui moule les balles. Je me contente de remplir les cylindres en laiton.}
+{113}{}{Mais les marchands du Centre font du profit sur ton compte et sur celui de la ville.}
+{114}{}{C'est rare de rencontrer quelqu'un qui s'intéresse à la chimie ! Mais pour répondre à ta question, nous achetons certains matériaux aux marchands du Centre, j'en fabrique certains ou parfois j'en trouve dans la région. Par exemple, la bouse de Brahmine est un matériau intéressant, tout comme certaines variétés de champignons que je cultive.}
+{115}{}{Eh bien, j'essaie de trouver des acides forts que La Forge peut ensuite utiliser pour les balles. J'essaie aussi de fabriquer des colorants permanents et des encres. Mais sans encres naturelles, c'est difficile.}
+{116}{}{Quand tu voudras.}
+{117}{}{Oh mon dieu. J'ai bien peur de ne rien pouvoir pour toi.}
+{118}{}{Re-bonjour. Je peux t'aider ?}
+{119}{}{Oui, eh bien, nous devons trouver un moyen de survie. Etant donné que les fermes hydroponiques ne fonctionnent pas, nous devons acheter notre nourriture aux marchands, et à part les balles, nous n'avons rien à vendre.}
+{120}{}{Je pourrais essayer de trouver les pièces pour remettre les fermes hydroponiques en état.}
+{121}{}{Oh. Eh bien, c'est dommage.}
+{122}{}{Vraiment ? Ce serait merveilleux ! Il ne nous manque que quelques pièces, mais je suis sûr que si tu trouvais celles qu'il nous faut, nous pourrions être autosuffisants ! Sammael devrait pouvoir t'aider.}
+{123}{}{As-tu trouvé les pièces ?}
+{124}{}{Oui, les voilà.}
+{125}{}{Pas encore, à qui m'as-tu dit de m'adresser ?}
+{126}{}{Tu dois t'adresser à Sammael. Dans la journée, il se trouve généralement dans une tente près des fermes.}
+{127}{}{[Miles examine les pièces] C'est exactement ce qu'il nous fallait. Mais La Forge va devoir les réparer. Peux-tu les lui apporter ?}
+{128}{}{J'ai autre chose à faire. Peux-tu le faire toi-même ?}
+{129}{}{Oui, je reviens dès qu'il les aura réparées.}
+{130}{}{Biensûr, j'apprécie ce que tu as fait pour nous.}
+{131}{}{Et...}
+{132}{}{Pas de problème.}
+{133}{}{Oh. J'allais oublier. Tiens, c'est pour toi, pour le dérangement. [Miles te donne des caps et des Stimpaks.]}
+{134}{}{As-tu apporté les pièces à La Forge ?}
+{135}{}{[Miles te prend les pièces réparées] Je crois que La Forge a fait du bon travail sur ces pièces. Merci de ton aide. Tiens, prends-ça, pour le dérangement.}
+{136}{}{[Miles te donne des caps et des Stimpaks.]}
+{137}{}{Si tu repasses dans le coin, rends-nous visite, à moi et La Forge. On pourra peut-être te rendre service en réglant ton matériel. La Forge peut faire des merveilles sur certaines armes et je peux quant à moi renforcer certaines armures.}
+{138}{}{On dirait que tu as trouvé une SuperArmure. J'ai entendu parler d'un procédé chimique que je pourrais utiliser pour renforcer la surface du blindage. Cependant, il me manque certaines informations sur la formule et les réactifs nécessaires. J'ai entendu dire que la Bibliothécaire du Centre, Madame Stapleton, avait des journaux et des livres qui pourraient m'être utiles. Si tu pouvais me les rapporter, je pourrais peut-être tester le procédé sur ton armure.}
+{139}{}{Intéressant. Je vais parler à Madame Stapleton.}
+{140}{}{J'ai mieux à faire que d'aller chercher ça pour toi.}
+{141}{}{Eh bien, si tu changes d'avis, va voir Madame Stapleton et reviens ici.}
+{142}{}{As-tu rendu visite à Madame Stapleton au Centre ?}
+{143}{}{Ouais, voilà les livres.}
+{144}{}{Pas encore.}
+{145}{}{[Miles te prend les livres et commence à les feuilleter.] Hmmmm. Oui, hmmmm. [Il marmonne encore quelques minutes.] Eh bien, je crois que je peux y arriver, mais il me faudra une journée entière. Ca te convient ?}
+{146}{}{Pas de problème.}
+{147}{}{Malheureusement je n'ai pas le temps.}
+{148}{}{Eh bien, quand tu auras le temps, reviens et j'appliquerai le procédé à ton armure.}
+{149}{}{[Miles te prend ton armure.]}
+{150}{}{[Miles te rend ton armure. Elle semble plus brillante qu'auparavant.] Eh bien, je crois que ça a marché ! J'espère que ça t'aidera.}
+{151}{}{Qu'est-il arrivé à ta SuperArmure ? Je ne peux rien faire pour toi sans ta SuperArmure.}
+{152}{}{Ca me fait plaisir de te voir, mais je suis en plein milieu d'une expérience.}
+{153}{}{Je ne peux rien faire sur ce genre d'armure. Excuse-moi.}

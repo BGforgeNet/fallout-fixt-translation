@@ -1,1 +1,1 @@
-{100}{}{There seems to be a large amount of foot traffic in the area, possibly leading to the manhole cover.}
+{100}{}{On dirait que ce coin est très fréquenté. Ca mène probablement à la plaque d'égout.}

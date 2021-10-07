@@ -1,8 +1,8 @@
-{100}{}{Got any food?}
-{101}{}{Boy, am I hungry. I wish I had some brahma burgers.}
-{102}{}{Please, mister, give me some food.}
-{103}{}{Please, ma'am, give me some food.}
-{104}{}{I really wish I could find some food around here.}
-{105}{}{I am starving!}
-{106}{}{I will work for food.}
-{107}{}{Foooood... give food now!}
+{100}{}{As-tu quelque chose à manger ?}
+{101}{}{Ah, j'ai faim. Je rêve d'un bon steak de brahmine.}
+{102}{}{S'il vous plaît, m'sieur, donnez-moi à manger.}
+{103}{}{S'il vous plaît, m'dame, donnez-moi à manger.}
+{104}{}{J'aimerais tellement trouver de la nourriture.}
+{105}{}{Je meurs de faim !}
+{106}{}{Je travaillerai en échange de nourriture.}
+{107}{}{Manger... qu'on me donne à manger !}

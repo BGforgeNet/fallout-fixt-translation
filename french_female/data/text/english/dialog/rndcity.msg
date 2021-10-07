@@ -1,7 +1,7 @@
-{100}{}{You have stumbled into a Super Mutant ambush!}
-{101}{}{Looks like you've stumbled into a gang war!}
-{102}{}{A group of hostile raiders bursts forth!}
-{103}{}{A large group of rats comes scurrying down the streets!}
-{104}{}{A group of hostile gangers bursts forth!}
-{105}{}{You are suddenly attacked by rats!}
-{106}{}{You encounter a group of tough-looking Super Mutants in leather armor.}
+{100}{}{Des super mutants te tendent une embuscade !}
+{101}{}{On dirait que tu te retrouves au coeur d'une guerre de gangs !}
+{102}{}{Un groupe de pillards hostiles attaque !}
+{103}{}{Un grand groupe de rats envahit les rues !}
+{104}{}{Un groupe de bandits hostiles t'attaque !}
+{105}{}{Soudain, des rats t'attaquent !}
+{106}{}{Vous rencontrez un un groupe de Super Mutants qui ont l'air bien féroces.}

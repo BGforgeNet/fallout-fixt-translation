@@ -1,17 +1,17 @@
-{100}{}{You see: Andrew, the jail guard.}
-{101}{}{Okay, you can go now.}
-{102}{}{Hey! You! Stop!}
-{103}{}{Can I help you?}
-{104}{}{Who are you?}
-{105}{}{What are you doing?}
-{106}{}{No thanks.}
-{107}{}{I'm Andrew. My job is to guard the jail.}
-{108}{}{I'm guarding the jail. I make sure that miscreants don't get in or out.}
-{109}{}{Why would you keep people from getting in the jail?}
+{100}{}{Voici Andrew, le gardien de prison.}
+{101}{}{C'est bon, tu peux y aller maintenant.}
+{102}{}{Hé ! Toi ! Reste où tu es !}
+{103}{}{Je peux t'aider ?}
+{104}{}{Qui es-tu ?}
+{105}{}{Qu'est-ce que tu fais ?}
+{106}{}{Non, merci.}
+{107}{}{Je m'appelle Andrew. Je suis le gardien de la prison.}
+{108}{}{Je garde la prison. J'empêche cette racaille de rentrer et de sortir.}
+{109}{}{A quoi ça sert d'empêcher les gens d'entrer à l'intérieur de la prison ?}
 {110}{}{Oh.}
-{111}{}{You have a good day. And stay out of trouble.}
-{112}{}{Someone might leave something to help a prisoner escape. Or someone might get locked inside, and stuck until we could get the keys.}
-{113}{}{Eergh!}
-{114}{}{Move along, fella.}
-{115}{}{Move along, miss.}
-{116}{}{Hey! Knock it off!}
+{111}{}{Bonne journée. Et ne t'attire pas d'ennuis !}
+{112}{}{Quelqu'un peut vouloir aider un prisonnier à s'évader en déposant quelque chose. Ou bien chercher à se laisser enfermer à l'intérieur et y rester jusqu'à ce qu'on puisse récupérer les clés.}
+{113}{}{Ben !}
+{114}{}{Circule, mec.}
+{115}{}{Circulez, mademoiselle.}
+{116}{}{Hé ! Suffit !}

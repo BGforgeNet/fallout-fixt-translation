@@ -1,20 +1,20 @@
-{100}{}{You see a Paladin guard.}
-{101}{}{Pssst, see any good deals?}
-{102}{}{Sorry, I'm on duty. Can't talk right now.}
-{103}{}{What a nice day. I hope we don't have any attacks today.}
-{104}{}{Some of these Caravan traders are a little strange.}
-{105}{}{Good day.}
-{106}{}{Hi there, good looking.}
-{107}{}{Greetings, Initiate.}
-{108}{}{If you have any questions about our order, you should talk to Cabbot, over by the door.}
-{109}{}{Cabbot is the one you want to talk to; he's the young lad by the door.}
-{110}{}{Pssst, see any good deals?}
-{111}{}{If you're here to trade you're talking to the wrong person.}
-{112}{}{What?}
-{113}{}{Don't bother me, worm.}
-{114}{}{Do I look like I'm interested in anything you might have to offer?}
-{115}{}{Hmph. The nerve.}
-{116}{}{Initiate, you should know better than to bother us while we're on watch.}
-{117}{}{If you have any questions about the Order, you should talk to Cabbot, by the door.}
-{118}{}{Initiate, shouldn't you be doing something useful?}
-{119}{}{I don't think you should be here, stranger.}
+{100}{}{Voici un garde Paladin.}
+{101}{}{Pssst, y'a pas quelques affaires juteuses ?}
+{102}{}{Je regrette, je suis en service. Impossible de parler.}
+{103}{}{Quelle belle journée ! J'espère qu'on n'aura pas d'attaques.}
+{104}{}{Certains des marchands des Caravanes sont un peu bizarres.}
+{105}{}{Bonne journée.}
+{106}{}{Salut beauté.}
+{107}{}{Salut à toi, Initié.}
+{108}{}{Si t'as des questions sur notre ordre, adresse-toi à Cabbot, là-bas près de la porte.}
+{109}{}{C'est à Cabbot que tu dois t'adresser. C'est le p'tit jeune près de la porte.}
+{110}{}{Pssst, y'a pas quelques affaires juteuses ?}
+{111}{}{Si t'es là pour faire du commerce, c'est pas à moi qu'il faut s'adresser.}
+{112}{}{Quoi ?}
+{113}{}{Me dérange pas, tête de piaf.}
+{114}{}{J'ai l'air d'être intéressé par tes offres ?}
+{115}{}{Hum. Quel culot !}
+{116}{}{Initié, tu ferais mieux de pas nous déranger quand on est de garde.}
+{117}{}{Si t'as des questions sur notre ordre, adresse-toi à Cabbot, là-bas près de la porte.}
+{118}{}{Si t'as des questions sur notre ordre, adresse-toi à Cabbot, là-bas près de la porte.}
+{119}{}{Je crois que t'as rien à faire ici.}

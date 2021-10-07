@@ -1,37 +1,37 @@
-{100}{}{You see: Uthern, leader of the Super Mutants.}
-{101}{}{Normie! How dare you enter the confines of your betters?}
-{102}{}{Huh?}
-{103}{}{Scum like you could never be better than humans!}
-{104}{}{Die Mutie!!}
-{105}{}{Really? You claim yourself better, but what proof do you have?}
-{106}{}{If you consider yourself one better than the rest, you run into the fallacy of over generalization.}
-{107}{}{It's a wonder your race survived as long as it has. I will start with you in the cleansing.}
-{108}{}{You only prove my point by using inane comments as such. I personally would not wish you in my sight, but my Master would have words with you.}
-{109}{}{Show me your Master.}
-{110}{}{Try these words - Drop dead!}
-{111}{}{Surely one of your intellect can see that such things will solve nothing.}
-{112}{}{With pleasure.}
-{113}{}{Are you claiming that talk will solve nothing? You are more foolish than I thought.}
-{114}{}{Though you are foolish, I was referring to your manner of delivering words.}
-{115}{}{Ah, the fool finally realizes something.}
-{116}{}{Words will only do so much. This will solve more.}
-{117}{}{I begin to think you may have a bit of superior blood in you yet. Let me find out for certain.}
-{118}{}{He does indeed, for death shall be your saving grace.}
-{119}{}{The simplest of proofs for you. I am smarter, stronger, and quicker than you are. Would you care for a test of my skills?}
-{120}{}{No, thanks. I believe you.}
-{121}{}{You forgot arrogant, stupid and ugly.}
-{122}{}{Sure. Let's see what you can do.}
-{123}{}{Good. Would you like a chance at gaining greater powers?}
-{124}{}{You bet!}
-{125}{}{No way!}
-{126}{}{I'm not sure about this.}
+{100}{}{Tu vois devant toi Uthern, chef des supers mutants.}
+{101}{}{Un normal ! Comment oses-tu venir dans l'ombre de tes supérieurs ?}
+{102}{}{Hein ?}
+{103}{}{Une ordure comme toi ne pourrait jamais être mieux que les humains !}
+{104}{}{Meurs mutant !}
+{105}{}{Vraiment ? Vous vous prétendez mieux, mais quelles preuves avez-vous ?}
+{106}{}{Si vous vous considérez mieux que le reste, vous êtes dans l'erreur d'une généralisation excessive.}
+{107}{}{C'est un miracle que votre race ait survécu aussi longtemps qu'elle l'a fait. Je vais commencer l'éradication complète avec toi.}
+{108}{}{Tu ne fais que prouver mon point de vue en utilisant des commentaires ineptes tels quels. Personnellement, je ne voudrais pas te garder dans mon champ de vision, mais mon maître souhaitera partager quelques mots avec toi.}
+{109}{}{Montre-moi ton maître.}
+{110}{}{Partage ces mots - Brûle en enfer !}
+{111}{}{Un de vos savants pourrait sûrement comprendre que de telles actes ne résoudront rien.}
+{112}{}{Avec plaisir.}
+{113}{}{Avances-tu que parler ne résoudra rien ? Tu es plus fou que je ne le pensais.}
+{114}{}{Bien que tu sois cinglé, je faisais allusion à ta manière d'utiliser les mots.}
+{115}{}{Ah, le fou se rend compte finalement de quelque chose.}
+{116}{}{Les mots réaliserons tant. Ils résoudront plus encore.}
+{117}{}{Je commence même à croire que tu as peu de sang de qualité en toi. Permet-moi de m'en assurer.}
+{118}{}{En effet, ton décès sera la conséquence d'une trop grande bonté.}
+{119}{}{La plus simple des preuves pour toi. Je suis plus intelligent, plus fort et plus rapide que toi. Souhaites-tu un test de mes compétences ?}
+{120}{}{Non, merci. Je te crois.}
+{121}{}{Tu as oublié arrogant, stupide et laid.}
+{122}{}{Bien sûr. Voyons voir ce que tu peux faire.}
+{123}{}{Bien. Souhaites-tu une chance de gagner plus de force ?}
+{124}{}{On parie !}
+{125}{}{Ca ne risque pas !}
+{126}{}{Je ne suis pas sûr de ça.}
 {127}{}{Die!}
-{128}{}{Then I will take you to my Master.}
-{129}{}{It almost seems a pity. No matter, this won't take long.}
-{130}{}{Offered all the power in the world and still frightened. I will help you with your decision.}
-{131}{}{Comments such as those only prove how much more intelligent I am than you. Now, you shall pay for your insolence!}
-{132}{}{Do you accept credit cards, or only caps?}
-{133}{}{Never!!}
-{134}{}{Sorry, I'm a little low on caps right now. Can I get a raincheck?}
-{135}{}{What? I think I can generalize this much - you are coming with me now.}
-{136}{}{How nice to see you again. I was told that you were roaming around here. I have orders to bring you in.}
+{128}{}{Ensuite, je te conduirai à mon maître.}
+{129}{}{J'en aurai presque de la compassion. Peu importe, ce ne sera pas long.}
+{130}{}{Toute la puissance du monde t'es offerte et tu as encore peur. Je vais t'aider à prendre ta décision.}
+{131}{}{Des remarques comme celles là ne font que prouver à quel point je suis plus intelligent que toi. Maintenant, tu vas payer de ton insolence !}
+{132}{}{Acceptes-tu les cartes de crédit, ou des caps seulement ?}
+{133}{}{Jamais !!}
+{134}{}{Désolé, je suis un peu court en caps en ce moment. Puis-je obtenir un délai ?}
+{135}{}{Quoi ? Je crois pouvoir beaucoup généraliser ça - tu viens avec moi maintenant.}
+{136}{}{Quel plaisir de te revoir. On m'a dit que tu étais de passage dans le coin. J'ai ordre de t'amener avec moi.}

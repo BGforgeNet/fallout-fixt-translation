@@ -1,45 +1,45 @@
-{100}{}{You think that puny leather will save you from Baka?}
-{101}{}{You're no match for us!}
-{102}{}{If I were that ugly, I'd kill myself.}
-{103}{}{You Crypts don't have a chance.}
-{104}{}{Do you like pain?}
-{105}{}{I'm going to enjoy this.}
-{106}{}{You shall die scum!}
-{107}{}{It's pay back time.}
-{108}{}{Are you ready for some pain?}
-{109}{}{The only thing stupider than you is Rayze.}
-{110}{}{I guess afterbirth can live a little while.}
-{111}{}{The Crypts shall be buried once more!}
-{112}{}{Perish scum!}
-{113}{}{Who said you could come out of your graves? Return!}
-{114}{}{Thy lowly ways shall be eradicated from the earth!}
-{115}{}{Only Fools have true knowledge to rule Scrapheap.}
-{116}{}{Begone gut slime of a three legged chicken!}
-{117}{}{What happened to you? Your mama drop you on your head at birth?}
+{100}{}{Tu pense que ce cuir va te sauver de Baka ?}
+{101}{}{Tu fais pas le poids contre nous !}
+{102}{}{Si j'étais aussi moche, je me serais tué.}
+{103}{}{Les Crypts, vous n'avez aucune chance.}
+{104}{}{Tu sens la douleur ?}
+{105}{}{Je vais adorer ça.}
+{106}{}{Tu vas mourir minable !}
+{107}{}{L'heure de la revanche a sonnée.}
+{108}{}{Es-tu prêt à avoir mal ?}
+{109}{}{Y a que Rayze qui peut être aussi stupide que toi.}
+{110}{}{J'imagine que la petite pute peut vivre encore un moment...}
+{111}{}{Sales Crypts ! On va vous enterrer !}
+{112}{}{Meurt connard !}
+{113}{}{Qui t'a dit que tu pouvais quitter ton cercueil ? Returne-y !}
+{114}{}{On va eradiquer les gars de ton espèce !}
+{115}{}{Seuls les Fools ont la sagesse nécessaire pour contrôler Scrapheap.}
+{116}{}{Disparait, bave de poulet à trois pattes !}
+{117}{}{Qu'est-ce qui t'est arrivé ? Ta mère t'a bercé contre un mur ?}
 {118}{}{}
 {119}{}{}
 {120}{}{}
-{200}{}{Run, Fools, while you still have a chance to live.}
-{201}{}{Hey, Rayze, hunting season just openned, and Fools are on the list of dumb animals.}
-{202}{}{Hey guys, leave a Fool for me to kill.}
-{203}{}{The Crypts will bury you!}
-{204}{}{Fools got no reason to live.}
-{205}{}{The Foolish shall perish.}
-{206}{}{Look who got hit with the ugly stick.}
-{207}{}{You going to get buried, Fool!}
-{208}{}{I am going to kick some serious ass! I am ready to ruuummmblllle!}
-{209}{}{Crypts rule! And Fools drool!}
-{210}{}{We are the bringers of death!}
-{211}{}{Don't worry, it'll be quick and painful!}
-{212}{}{PURPLE BABOONS!}
-{213}{}{The Brahmin have more sense than a Fool.}
-{214}{}{The Fools are so weak, even Lex can beat them all up.}
-{215}{}{Haha! More fools to kill!!}
-{216}{}{The only thing you Fools will rule is a tombstone.}
-{217}{}{It's about time. I've been waiting for this.}
-{218}{}{Even Lenny has better aim than you.}
-{219}{}{Eat lead fools.}
-{220}{}{I'll mount your head on a spike.}
-{300}{}{Hey! The generator is broken. Let's leave this dump.}
-{400}{}{With the generator broken, there is little reason for the gangs to fight over Scrapheap. Your job here is done, but your mission to find the water purification chip continues.}
-{402}{}{With the gangs defeated, Scrapheap is a safe haven once again.}
+{200}{}{Courrez, Fools, tant que vous avez encore une chance de survivre.}
+{201}{}{Hey, Rayze ! La chasse est ouverte ! Et les Fools sont en tête de liste des animaux stupides.}
+{202}{}{Hey les gars ! Laissez-moi un Fool à tuer.}
+{203}{}{Les Crypts vont t'envoyer dans ta tombe!}
+{204}{}{Les idiots n'ont pas le droit de vivre.}
+{205}{}{L'idiotie va disparaître.}
+{206}{}{Regarde qui vient de se prendre un joli coup de bâton !}
+{207}{}{Tu vas te faire enterrer, Fool !}
+{208}{}{Je vais enfin pouvoir botter des culs ! J'attendais que ca !}
+{209}{}{Les Crypts reignent ! Et les Fools craignent !}
+{210}{}{On est les missionnaires de la faucheuse !}
+{211}{}{T'inquiète ! Ca sera rapide et douloureux !}
+{212}{}{DES BABOUINS VIOLETS !}
+{213}{}{Les Brahmines ont plus de jugement qu'un Fool.}
+{214}{}{Les Fools sont tellement faibles que même Lex peut tous les battre à lui tout seul.}
+{215}{}{Haha! Ca nous fait plus de fools à tuer!!}
+{216}{}{La seule chose que les Fools vont contrôler est un putain de sarcophage.}
+{217}{}{Il était temps. J'attendais que ça.}
+{218}{}{Même Lenny vise mieux que toi.}
+{219}{}{Mangez du métal, Fools.}
+{220}{}{Je planterais ta tête sur un pieux.}
+{300}{}{Hey! Le générateur est brisé. Quittons ce taudis.}
+{400}{}{Maintenant que le generateur est brise, les gangs n'ont plus aucune raison de se battre pour Scrapheap. ton boulot ici est termine, mais ta mission de retrouver la puce d'eau continue.}
+{402}{}{Maintenant que les gangs sont elimines, Scrapheap est de nouveau un havre de paix.}

@@ -1,37 +1,37 @@
-{100}{}{You see: Slappy.}
+{100}{}{Voici Slappy.}
 {101}{}{Boogie, Boogie, Boogie.}
-{102}{}{It's a bitty spider, smashin', smashin'.}
-{103}{}{Let's play Global Thermo-Nuclear War.}
-{104}{}{Where's my blankie!?!}
+{102}{}{C'est une araignée décousue, génial, génial.}
+{103}{}{Jouons à la Guerre Thermo-Nucléaire Mondiale.}
+{104}{}{Où est mon trou de mémoire !?!}
 {105}{}{Da... Da... Da...}
-{106}{}{The Moon is out there.}
-{107}{}{Gimme' the Sugar Baby.}
-{108}{}{Oooh, pretty, pretty stuff. Why is the moon?}
-{109}{}{Uh, I talked with Harold. The Deathclaw sounds pretty nasty. What can you tell me about it?}
-{110}{}{Beth told me to talk to you about the Deathclaw.}
-{111}{}{What do you do around here?}
-{112}{}{What's your problem?}
-{113}{}{Moon Big, me like Moon!}
-{114}{}{All bright, it's all bright, the bright comes down, and then we are doomed.}
+{106}{}{La Lune est dehors.}
+{107}{}{Donne-moi le Bébé Trésor.}
+{108}{}{Oooh, jolie, jolie chose. Pourquoi y a-t-il une lune ?}
+{109}{}{Euh, j'ai parlé à Harold. Le Griffemort a l'air redoutable. Que peux-tu m'en dire ?}
+{110}{}{Beth m'a dit que tu pourrais me parler du Griffemort.}
+{111}{}{Que fais-tu ici ?}
+{112}{}{C'est quoi ton problème ?}
+{113}{}{Lune Grande, moi comme la Lune !}
+{114}{}{Tout brille, tout est brillant, la lumière descend et alors nous sommes perdus.}
 {115}{}{Ahh.}
-{116}{}{Deathclaw, Deathclaw, Dah Dah Deathclaw.}
-{117}{}{Come on, what do you know about the Deathclaw?}
-{118}{}{What's your problem?}
-{119}{}{Don't make me pound it out of you!}
-{120}{}{Do, I, do, then you do, then we all do.}
-{121}{}{No really, what do you do.}
-{122}{}{You're a loony.}
-{123}{}{Problems are like Soup Bowls, wide and shallow.}
-{124}{}{That's more like your mind.}
-{125}{}{Deathclaw scary, really scary. Looks neat though. Wanna' see it?}
-{126}{}{You can take me to the Deathclaw?}
-{127}{}{Hell no!}
-{128}{}{Yeah, Deathclaw, Deathclaw, going to see the Deathclaw.}
-{129}{}{Just shut up and take me there.}
-{130}{}{Ah, never mind. You take care, now.}
-{131}{}{I do this, then I do that. You see Harold? Harold's fun, his hair falls out, falls in the wind. There it goes... wind, wind.}
-{132}{}{Whatever.}
-{133}{}{Pound and Pound, and Pound and Pound.}
-{134}{}{Why is the wind? Why why why why why.}
-{135}{}{Beth, Beth, shoo sha Beth. Like Harold, you talk Harold. Harold tell you story. Slappy help then.}
-{136}{}{Okay, I'll go talk to Harold first.}
+{116}{}{Le Griffemort, le Griffemort, le Gri Gri Griffemort.}
+{117}{}{Allez, que sais-tu sur le Griffemort ?}
+{118}{}{C'est quoi ton problème ?}
+{119}{}{Ne m'oblige pas à m'énerver !}
+{120}{}{Faire, je fais, alors tu fais, et nous faisons tous.}
+{121}{}{Pas vraiment, que fais-tu ?}
+{122}{}{Tu es dingue.}
+{123}{}{Les problèmes sont comme les Bols de Soupe, larges et peu profonds.}
+{124}{}{Comme ton cerveau.}
+{125}{}{Le Griffemort est effrayant, vraiment effrayant. Mais, il a l'air d'avoir du goût. Tu veux le voir ?}
+{126}{}{Tu peux me conduire au Griffemort ?}
+{127}{}{Ca non !}
+{128}{}{Ouais, le Griffemort, le Griffemort, on va aller voir le Griffemort.}
+{129}{}{Tais-toi et conduis-moi là-bas.}
+{130}{}{Ah, tant pis. Prends soin de toi, maintenant.}
+{131}{}{Je fais ci, et puis je fais ça. Tu vois Harold ? Harold est marrant, ses cheveux tombent, ils tombent dans le vent. C'est comme ça... le vent, le vent.}
+{132}{}{Qu'importe.}
+{133}{}{Enerver et énerver et énerver et énerver.}
+{134}{}{Pourquoi y a-t-il du vent ? Pourquoi, pourquoi, pourquoi, pourquoi, pourquoi ?}
+{135}{}{Beth, Beth, sha sha Beth. Comme Harold, tu parles à Harold. Harold te raconte des histoires. Alors, Slappy vient en aide.}
+{136}{}{Ok, je vais d'abord aller voir Harold.}

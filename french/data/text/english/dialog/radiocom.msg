@@ -1,6 +1,6 @@
-{100}{}{The computer says: RADIO CONTROL.}
-{101}{}{ It looks like the radio channels have been shut down.}
-{102}{}{ Radio channel control seems to be on.}
-{103}{}{You switch the radio channels on.}
-{104}{}{You switch the radio channels off.}
-{105}{}{You flip some switches but can't get the radio channel selectors to change.}
+{100}{}{L'ordinateur affiche : CONTROLE RADIO.}
+{101}{}{ On dirait que les canaux radio sont fermés.}
+{102}{}{ Le contrôle de canal radio semble actif.}
+{103}{}{Tu allumes les canaux radio.}
+{104}{}{Tu éteins les canaux radio.}
+{105}{}{Tu appuies sur des boutons mais sans parvenir à changer les canaux.}

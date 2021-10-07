@@ -1,130 +1,130 @@
-{100}{}{You see: Tandi.}
-{101}{}{What else is around these parts?}
-{102}{}{What's going on around here?}
-{103}{}{Have you heard any stories from down south?}
-{104}{}{How do you like it here?}
-{105}{}{Well, that's about it. Thanks for your time.}
-{106}{TAND_1}{Hi! I heard there was a traveler in town, but I was kinda skeptical until I saw you. My name's Tandi, what's yours?}
-{107}{}{My name is }
+{100}{}{Voici Tandi.}
+{101}{}{Qu'est-ce qu'il y a d'autre dans les parages ?}
+{102}{}{Que se passe-t-il ici ?}
+{103}{}{T'as entendu des histoires sur le Sud ?}
+{104}{}{Ca te plaît ici ?}
+{105}{}{Eh bien, c'est à peu près tout. Merci de ta patience.}
+{106}{TAND_1}{Salut ! J'ai entendu dire qu'il y avait un voyageur en ville, mais je voulais pas l'croire sans l'voir. Je m'appelle Tandi, et toi ?}
+{107}{}{Je m'appelle }
 {108}{}{.}
-{109}{}{The name is }
-{110}{}{. Remember it.}
-{111}{}{Uhhh?}
-{112}{TAND_2}{Well... how do you like our little town? Bored yet?}
-{113}{}{It's okay. Can I ask you a few questions, though?}
-{114}{}{Hell, yes. There's nothing to do here but watch the brahmin mate.}
-{115}{}{I guess it's okay.}
-{116}{}{Well, yes. It is a bit boring.}
-{117}{TAND_3}{ Sure, I guess. I've never been out of here, so I don't know what help I can be. So, what'cha need?}
-{118}{TAND_4}{Yeah. Well you don't live here. There's nothing interesting to do, and believe you me, brahma tipping gets old real fast.}
-{119}{}{If you're so bored, why don't you leave?}
-{120}{}{Well, I'm sure you're exaggerating.}
-{121}{}{It seems nice and safe here.}
-{122}{TAND_5}{Me, leave? I wish. I don't know enough to leave alone and no one else wants to go. And worst of all, my father says he would have a heart attack if something happened to me!}
-{123}{}{Tough situation. Can I ask you a few questions, though?}
-{124}{}{Shoot, I have to go. Good luck.}
-{125}{TAND_6}{Uh... I have to stand over here now.}
-{126}{TAND_12}{You live here all your life and see how you like it! Anything else you want to know?}
-{127}{TAND_13}{Yeah, real safe... and so boring I think my brain's going to leak out of my ear at any moment.}
-{128}{}{Why don't you leave?}
-{129}{}{Sorry to hear that, but I don't have much time. Can I ask you a few questions?}
-{130}{TAND_14}{Finally! Someone else who sees! Of course, you've probably been everywhere, so this must be hell for you.}
-{131}{}{If you're so bored, why don't you leave?}
-{132}{}{Well, I'm sure you're exaggerating.}
-{133}{}{It seems nice and safe here.}
-{134}{TAND_15}{Junktown's to the southwest, but I don't know how far. Then there's some weird place below that called the City of Death. Oh, oh yeah, there's this other place... Oh, shoot, what was that? Oh yeah, the Hub.}
-{135}{TAND_15a}{There's a bunch of cities down south. But since you're such a great traveler, I'm sure you know that already.}
-{136}{}{Thanks.}
-{137}{TAND_16}{No problem. Anything else?}
-{138}{TAND_20}{We've got radscorpions! I mean, I know it's not a good thing, but no one's died from the stings. And it's the closest thing to excitement we've got here!}
-{139}{TAND_21}{Nothing much, since you whomped those radscorpions. Gee, I wish I could have seen that.}
+{109}{}{Mon nom c'est }
+{110}{}{. Ne l'oublie pas.}
+{111}{}{Hein ?}
+{112}{TAND_2}{Alors... Elle te plaît not' p'tite ville ? T'as déjà l'bourdon ?}
+{113}{}{Pas mal dans le genre. Mais, est-ce que je peux te poser quelques questions ?}
+{114}{}{Bof. Y'a rien à faire ici à part regarder les brahmimes copuler.}
+{115}{}{Ouais...}
+{116}{}{Euh, oui. Pas très folichon.}
+{117}{TAND_3}{Oui, bien sûr. J'suis jamais sortie d'ici, alors j'sais pas à quoi j'peux t'être utile. Bon, qu'est-ce que tu veux savoir ?}
+{118}{TAND_4}{Ouais. Oh, ça s'voit qu et'habites pas là. Y'a rien d'intéressant, et j'te dis pas, jouer à embêter les brahmines, ça lasse vite.}
+{119}{}{Si tu t'ennuies tellement, pourquoi tu fous pas le camp ?}
+{120}{}{Oh, j'suis sûr que t'exagères.}
+{121}{}{Ca semble mignon et tranquille ici.}
+{122}{TAND_5}{Moi, partir ? Si seulement ! Mais j'saurais pas m'débrouiller toute seule et personne veut s'en aller. En plus, mon père dit qu'il f'rait une crise cardiaque si quelque chose m'arrivait !}
+{123}{}{Dur tout ça. Est-ce que je peux te poser quelques questions ?}
+{124}{}{Heu, faut que j'y aille. Bonne chance.}
+{125}{TAND_6}{Euh... Je dois rester ici.}
+{126}{TAND_12}{Reste habiter ici toute ta vie et tu verras si ça t'plaît ! Autre chose que tu veux savoir ?}
+{127}{TAND_13}{Oh ça, pour être tranquille... et tellement chiant que j'ai l'impression qu'mon cerveau se ramollit tous les jours un peu plus.}
+{128}{}{Pourquoi tu pars pas ?}
+{129}{}{Je compatis mais malheureusement j'ai pas beaucoup de temps... Je peux te poser quelques questions ?}
+{130}{TAND_14}{Enfin quelqu'un d'lucide ! Bien sûr, t'as sans doute voyagé, alors pour toi ici, ça doit être un vrai trou !}
+{131}{}{Si tu t'ennuies tellement, pourquoi tu fous pas le camp ?}
+{132}{}{Oh, j'suis sûr que t'exagères.}
+{133}{}{Ca semble mignon et tranquille ici.}
+{134}{TAND_15}{Dépôtville est au Sud-Ouest, mais je sais pas à quelle distance. Et puis, y'a cet endroit bizarre, la Cité de la Mort. Ah, et puis l'autre... Oh, zut, j'ai son nom sur le bout de langue... Ah ouais, le Centre.}
+{135}{TAND_15a}{Y'a quelques villes vers le Sud. Mais un grand voyageur comme toi, t'as déjà dû les visiter.}
+{136}{}{Merci.}
+{137}{TAND_16}{Pas de problème. Autre chose ?}
+{138}{TAND_20}{On a les radscorpions ! Enfin, c'est pas une bonne chose, mais y'a personne qu'est mort d'leurs piqûres. Et c'est c'qu'on a d'plus passionnant ici !}
+{139}{TAND_21}{Pas grand-chose, surtout depuis qu't'as rossé ces radscorpions. Waouh, j'aurais bien voulu voir ça !}
 {140}{TAND_22}{Same as always. Bo-ring.}
-{141}{TAND_23g}{The weirdest story I've heard is about the Deathclaw.}
+{141}{TAND_23g}{L'histoire la plus bizarre que j'ai entendue, c'est sur le Griffemort.}
 {142}{TAND_23b}{Just stuff.}
-{143}{}{Thanks.}
-{144}{}{Deathclaw?}
-{145}{TAND_24}{It's okay, I guess. I mean, it is home and all, but it's so boring! You know, I want to see the world.}
-{146}{}{If you're so bored, why don't you leave?}
-{147}{}{Well, I'm sure it's not that bad.}
-{148}{}{It seems nice and safe here.}
-{149}{TAND_27m}{I'm not that kind of girl, mister. Go find a brahma or something.}
-{150}{TAND_27f}{Listen... uh... but I... uh... I-I like guys, okay? Whew! Uh, excuse me, I got stuff to do.}
-{151}{TAND_28}{Well, thanks for talking. We don't get many strangers here, so it's always good to talk to new people. Well, see ya!}
-{152}{}{Bye.}
-{153}{TAND_29}{Uh, listen. I have to go take care of the brahmin. It was, uh, nice talking to ya.}
-{154}{TAND_30a}{Hello again! What can I help you with now?}
-{155}{}{Can I ask you a few more questions?}
-{156}{}{Nothing. Goodbye.}
-{157}{TAND_35}{Uh... hey, thanks. Later.}
-{158}{TAND_36}{Hi! I was afraid that you were gone and I wasn't going to get a chance to thank you for rescuing me. Aw, that was great! Action, adventure... Anyway, if there's anything that I can do for you, you just ask.}
-{159}{}{How about a few more questions?}
-{160}{}{How about you and I... well, you know... get together.}
-{161}{}{Nope, that's it, thanks.}
-{162}{}{Dungh!!}
-{163}{TAND_37}{Who're you? What do you want?}
-{164}{}{My name is }
-{165}{}{, and your father sent me.}
-{166}{}{I'm your fairy godmother. What's it look like?}
-{167}{}{Buhh...}
-{168}{TAND_38}{Father sent you!? Are you here to get me out?}
-{169}{}{Yes, so just sit tight. I'll get you out.}
-{170}{}{No, he just sent me to look at you.}
-{171}{TAND_39}{Well, what's your plan?}
-{172}{}{Just wait for the doors to open. Then run for it!}
-{173}{}{I'm going to fight the Khan leader in exchange for your freedom.}
-{174}{TAND_40}{That's it? That's your plan. Ugh! All right, but hurry. I heard them talking and I didn't like their plans.}
-{175}{TAND_41}{You? Fight him? You've got to be kidding me! [She sighs] Listen, if you come up with another plan, let me know, okay?}
-{176}{TAND_42}{Oh, aren't we the sarcastic one? Are you gonna get me out, or what!?}
-{177}{}{Yeah. Just hold on, and when you see the door open, run for it.}
-{178}{}{I'm going to fight the Khan leader in exchange for your freedom.}
-{179}{TAND_43}{Oh, it's you again! Are you going to get me out?}
-{180}{}{Yes, so just sit tight. I'll get you out.}
-{181}{}{No, I'm just stopping by to say hi.}
-{182}{}{Geh-ow?}
-{183}{TAND_43a}{Hello, anybody home? Could you get me out of here? Could you get. Me. Out. Of HERE?!}
-{184}{TAND_43b}{This is no time to talk; we have to get out of here!}
-{185}{TAND_44}{Aradesh is my father. He's okay, as far as dads go.}
-{186}{TAND_45}{That's me. Who else did you think it was?}
-{187}{TAND_46}{Razlo's the old guy on the east side of town. He's a pretty good doctor though, even if he is a fossil.}
-{188}{TAND_47}{Seth's the captain of the guards. My father tried to set us up once, but he is not my type.}
-{189}{TAND_48}{Agatha's the oldest one here. We all love her, especially her stories. Go by and see her if you want a good yarn.}
+{143}{}{Merci.}
+{144}{}{Le Griffemort ?}
+{145}{TAND_24}{Ca peut aller. Enfin, c'est chez nous, tout ça... mais je m'ennuie à mourir ! Tu sais, j'aimerais voir du pays.}
+{146}{}{Si tu t'ennuies tellement, pourquoi tu fous pas le camp ?}
+{147}{}{Oh, j'suis sûr que tu noircis le tableau !}
+{148}{}{Ca semble mignon et tranquille ici.}
+{149}{TAND_27m}{J'suis pas celle que tu crois. Adresse-toi à une brahmime ou à j'sais pas quoi.}
+{150}{TAND_27f}{Ecoute...euh...Je, euh... J'aime les mecs, ok ? Euh, excuse-moi, j'ai du lait sur le feu.}
+{151}{TAND_28}{Eh bien, merci pour la causette. Y'a pas souvent d'étrangers ici, alors ça fait toujours plaisir d'parler à quelqu'un qu'est pas du coin. Allez, a plus !}
+{152}{}{Ciao.}
+{153}{TAND_29}{Euh, écoute. Faut que j'm'occupe des brahmines. C'était, euh, cool... de t'parler.}
+{154}{TAND_30a}{Salut, te revoilà ! Qu'est-ce que j'peux faire pour toi cette fois ?}
+{155}{}{Je peux encore te poser quelques questions ?}
+{156}{}{Rien. Salut.}
+{157}{TAND_35}{Euh... merci. A plus tard.}
+{158}{TAND_36}{Salut ! J'avais peur qu't'aies mis les voiles et d'pas pouvoir te r'mercier de m'avoir sauvée. Ah ! C'était super ! De l'action, de l'aventure... Et si j'peux faire quelque chose pour toi, te gêne pas.}
+{159}{}{Eh bien, quelques questions ?}
+{160}{}{Et si toi et moi... eh bien, tu sais... nous deux... ensemble.}
+{161}{}{Non, c'est bon, merci.}
+{162}{}{Ben, euh !!}
+{163}{TAND_37}{Qui t'es ? Qu'est-ce tu veux ?}
+{164}{}{Je m'appelle }
+{165}{}{, et ton père m'envoie.}
+{166}{}{Je suis ta bonne fée. Alors, qu'est-ce que t'en dis ?}
+{167}{}{Euh, ben...}
+{168}{TAND_38}{Mon père t'envoie !? T'es là pour m'faire sortir ?}
+{169}{}{Oui, alors bouge pas. Je vais te faire sortir.}
+{170}{}{Non, il m'envoie juste te regarder.}
+{171}{TAND_39}{Alors, c'est quoi ton plan ?}
+{172}{}{T'attends juste que les portes s'ouvrent. Et là, tu cours !}
+{173}{}{Je vais combattre le chef des Khans en échange de ta liberté.}
+{174}{TAND_40}{C'est ça, ton plan ? Hmm, ok. Mais fais vite. J'les ai entendus parler et j'aime pas ce qu'ils mijotent.}
+{175}{TAND_41}{Toi ? L'combattre ? Tu t'fous de moi ! [Soupir] Ecoute, si t'as une autre idée, tu m'fais signe, ok ?}
+{176}{TAND_42}{Oh, j'vois qu'on a de l'humour, hein ? Tu m'fais sortir d'ici ou quoi !?}
+{177}{}{Ouais. Tu bouges pas, et dès que tu vois la porte ouverte, tu cours.}
+{178}{}{Je vais combattre le chef des Khans en échange de ta liberté.}
+{179}{TAND_43}{Oh, c'est encore toi ! Alors, tu vas m'faire sortir ?}
+{180}{}{Oui, alors bouge pas. Je vais te faire sortir.}
+{181}{}{Non, je passe juste te dire au revoir.}
+{182}{}{Euh, ben...}
+{183}{TAND_43a}{Bonjour, y'a quelqu'un à l'étage ? Tu peux m'faire sortir d'ici ? Peux-tu ME - FAIRE - SORTIR ?!}
+{184}{TAND_43b}{Pas le temps d'bavarder, il faut qu'on sorte d'ici.}
+{185}{TAND_44}{Aradesh c'est mon père. Il est pas trop pénible pour un paternel.}
+{186}{TAND_45}{C'est moi. Qui d'autre tu croyais ?}
+{187}{TAND_46}{Razlo, c'est l'vieux type à l'Est de la ville. C'est un bon toubib, même si c'est un fossile.}
+{188}{TAND_47}{Seth c'est l'capitaine des gardes. Mon père a essayé de nous brancher, mais c'est pas mon type.}
+{189}{TAND_48}{Agathe est la doyenne. On l'adore, surtout pour ses histoires. Va la voir si tu veux en entendre une.}
 {190}{TAND_49}{Pretty bad bunch or so I've heard. My father knows more about them. He never tells me much about the outside world.}
-{191}{TAND_50}{That's where we get all our water. It's been here since before I was born.}
+{191}{TAND_50}{C'est là qu'on a toute notre eau. Ca existe depuis avant ma naissance.}
 {192}{TAND_51}{I've actually seen one, even if it was from far away. They're nasty creatures, with claws and a big stinger. And their poison can be deadly if it isn't treated. You should talk to my dad, Aradesh, he knows more about them.}
 {193}{TAND_52}{I heard a tale from a traveler up from the south. He said the Deathclaw was a creature that killed people at night. He said no one can catch it, because it can disappear like smoke. Not that I believe it, of course.}
 {194}{TAND_53}{Junktown's a small city to the southwest. It's supposed to have pretty good trading, but my father won't even look into it. He says we need to stay 'protected'. Yeah, right. Caged is more like it.}
-{195}{TAND_54}{The Hub is supposed to be a great city to the south. I've always wanted to see it, but I've never got the chance.}
+{195}{TAND_54}{Agatha est la doyenne. On l'adore, surtout pour ses histoires. Va la voir si tu veux en entendre une.}
 {196}{TAND_55}{I don't know, but the guy who told me about it was really scared of it. He said that the undead walked the streets!}
 {197}{TAND_62}{I don't know. You might want to ask Seth or my father about it, though.}
-{198}{TAND_63}{Hmm... Doesn't ring a bell.}
-{199}{TAND_64}{Hmm... Nope. I never heard of it.}
-{200}{TAND_65}{Hey! What do you think you're doing? Put that back!}
-{201}{TAND_66}{That's it! I'm going to tell my father!}
-{202}{TAND_67}{What the hell do you think you're doing? Stop that!}
-{203}{TAND_68}{What are you doing here? You better leave before my father wakes up.}
+{198}{TAND_63}{Hmm... Ca m'dit rien.}
+{199}{TAND_64}{Hmm... non. Jamais entendu parler.}
+{200}{TAND_65}{Ehh ! Où tu t'crois ? Remets ça en place !}
+{201}{TAND_66}{Bon ! Je vais le dire à mon père !}
+{202}{TAND_67}{J'hallucine, qu'est-ce que tu fous ? Arrête !}
+{203}{TAND_68}{Qu'est-ce que tu fous ici ? Tu ferais mieux de partir avant que mon père s'réveille.}
 {204}{TAND_69}{Like I said...}
-{205}{TAND_70}{Listen, I already told you...}
-{206}{TAND_71}{Again? Hello? How many times do I have to tell you this? You have too much wax in your ears or something?}
-{207}{TAND_72}{Oh yeah, I heard of that, but you should go talk to Agatha. She'd know more than I would.}
-{208}{}{Let's get outta here.}
+{205}{TAND_70}{Ecoute, je t'ai déjà dit...}
+{206}{TAND_71}{Encore ? Eh, oh ? Combien de fois faut j'te dise ? T'as de la cire dans les oreilles ou quoi ?}
+{207}{TAND_72}{Oh ouais, j'en ai entendu parler, mais adresse-toi plutôt à Agathe. Elle en saura plus long qu'moi.}
+{208}{}{Partons d'ici.}
 {209}{}{Duh!}
-{300}{}{Wow! This is a really interesting place.}
-{301}{}{Hey, what's that over there?}
-{302}{}{I can't wait to do more exploring with you!}
-{303}{}{Will we see any more radscorpions?!}
-{304}{}{Where are we going next?}
-{305}{}{Thanks for letting me tag along!}
+{300}{}{Waouh ! Ca n'a rien à voir avec les Sables Ombragés !}
+{301}{}{Dis, c'est quoi, là-bas ?}
+{302}{}{J'ai hâte de raconter de quoi a l'air le monde extérieur aux gens des Sables Ombragés !}
+{303}{}{Il y a d'autres radscorpions ?}
+{304}{}{Où allons-nous maintenant ?}
+{305}{}{Quand est-ce qu'on arrive ?}
 {350}{TAND_16a}{Yeah, whatever.}
 {399}{}{[Continue]}
-{400}{TAND_3}{Sure, I guess. I've never been out of here, so I don't know what help I can be. So, what'cha need?}
-{402}{TAND_28}{Well, thanks for... "talking". (She winks at you.) We don't get many strangers here, so it's always good to "talk" to new people. Well, see ya! (She looks exhausted, but blows you a kiss.)}
-{404}{}{Every inch of you, but not here. Let's go somewhere private.}
-{405}{}{You look rather... inexperienced. I'd like to fill you with as much "knowledge" as you can handle. [wink]}
-{406}{}{[Sigh] More than you can provide, but I'll make do.}
+{400}{TAND_3}{Bien sûr, d'accord. J'suis jamais sortie d'ici, donc je n'sais pas en quoi j'peux t'aider. De quoi t'as besoin ?}
+{402}{TAND_28}{Bien, merci pour ce... "partage". [elle sourit et te fait un clin d'oeil] On n'a pas beaucoup d'étrangers ici, alors c'est toujours agréable de "partager" avec de nouvelles personnes. Bon, à plus !}
+{404}{}{C'est quelque chose que je n'veux pas que les autres entendent. Allons dans un endroit plus discret, et j'te dirais...}
+{405}{}{Tu as l'air plutôt... inexpérimenté. J'aimerais t'enseigner tout c'que j'connais. On devrait s'y mettre tout de suite, il y a beaucoup à faire. [clin d'oeil]}
+{406}{}{*Soupir* Plus que tu peux fournir, mais je m'en contenterai.}
 {407}{}{[Continue]}
-{410}{TAND_14}{Finally! Someone else who sees! Of course, you've probably been everywhere, so this must be hell for you. (She shrugs and leads you around the corner...)}
-{412}{}{(She smiles and leads you around the corner...)}
-{415}{}{I'd like to have some more fun, if you've got the time.}
+{410}{TAND_14}{Enfin quelqu'un d'lucide ! Bien sûr, t'as sans doute voyagé, alors pour toi ici, ça doit être un vrai trou ! [Elle hausse les épaules et te mène dans sa chambre]}
+{412}{}{[Elle sourit et t'emmène dans sa chambre]}
+{415}{}{J'aimerais avoir un peu plus de fun, quand t'as l'temps.}
 {500}{}{Can you answer a few questions first?}
 {501}{}{Nope! That was it. Thanks, Tandi.}
 {502}{}{On second thought, never mind. Let's go!}
@@ -136,28 +136,28 @@
 {508}{}{Make boom-boom?}
 {509}{}{}
 {510}{}{Let's discuss our tactics and formation.}
-{511}{}{Draw your best weapon.}
-{512}{}{Change your armor.}
+{511}{}{Utilise ta meilleure arme.}
+{512}{}{Change ton armure.}
 {980}{TAND_62}{I don't know. You might want to ask Seth or my father about it, though.}
-{981}{TAND_63}{Hmm... Doesn't ring a bell.}
-{982}{TAND_64}{Hmm... Nope. I never heard of it.}
+{981}{TAND_63}{Hmm... Ca m'dit rien.}
+{982}{TAND_64}{Hmm... non. Jamais entendu parler.}
 {1000}{}{Aradesh}
 {1001}{}{Tandi}
 {1002}{}{Seth}
-{1003}{}{Raiders}
+{1003}{}{Pillards|Pillards|Khans|Khan}
 {1004}{}{Well}
-{1005}{}{Scorpions}
-{1006}{}{Claw}
+{1005}{}{Radscorpions}
+{1006}{}{Griffemort|Griffes|Griffe|Griffemorts}
 {1007}{}{Dépôtville}
-{1008}{}{Hub}
+{1008}{}{Centre}
 {1009}{}{City}
-{1010}{}{Scorpion}
+{1010}{}{Razlo|Medic|Doc|Docteur|Médecin|Medecin|Aide|Guérison|Guerison|Blessure|Blessé|Blesse|Fracture}
 {1011}{}{Khans}
 {1012}{}{Razlo}
 {1013}{}{Sables Ombragés}
 {1014}{}{The Hub}
 {1015}{}{Water Chip}
-{1016}{}{Vault}
+{1016}{}{Abri}
 {1017}{}{Alya}
 {1018}{}{Diana}
 {1019}{}{Gwen}
@@ -167,37 +167,37 @@
 {1023}{}{Khan}
 {1024}{}{Deathclaws}
 {1025}{}{Garl}
-{1026}{}{Shady}
-{1027}{}{Sands}
+{1026}{}{Sables}
+{1027}{}{Ombragés}
 {1028}{}{Radscorpion}
 {1029}{}{Radscorpions}
 {1030}{}{Rad}
 {1031}{}{Booze}
-{1032}{}{Drugs}
+{1032}{}{stimulants}
 {1033}{}{The Vault}
-{1034}{}{Water}
-{1035}{}{Chip}
+{1034}{}{Eau}
+{1035}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1037}{}{Dead}
 {1038}{}{Nécropolis}
 {1039}{}{Junk}
 {1040}{}{Deathclaw}
 {1041}{}{Death}
 {1042}{}{Camp}
-{1100}{TAND_44}{Aradesh is my father. He's okay, as far as dads go.}
-{1101}{TAND_45}{That's me. Who else did you think it was?}
-{1102}{TAND_47}{Seth's the captain of the guards. My father tried to set us up once, but he is not my type.}
+{1100}{TAND_44}{Aradesh c'est mon père. Il est pas trop pénible pour un paternel.}
+{1101}{TAND_45}{C'est moi. Qui d'autre tu croyais ?}
+{1102}{TAND_47}{Seth c'est l'capitaine des gardes. Mon père a essayé de nous brancher, mais c'est pas mon type.}
 {1103}{TAND_49}{Pretty bad bunch or so I've heard. My father knows more about them. He never tells me much about the outside world.}
-{1104}{TAND_50}{That's where we get all our water. It's been here since before I was born.}
+{1104}{TAND_50}{C'est là qu'on a toute notre eau. Ca existe depuis avant ma naissance.}
 {1105}{TAND_51}{I've actually seen one, even if it was from far away. They're nasty creatures, with claws and a big stinger. And their poison can be deadly if it isn't treated. You should talk to my dad, Aradesh, he knows more about them.}
 {1106}{TAND_52}{I heard a tale from a traveler up from the south. He said the Deathclaw was a creature that killed people at night. He said no one can catch it, because it can disappear like smoke. Not that I believe it, of course.}
 {1107}{TAND_53}{Junktown's a small city to the southwest. It's supposed to have pretty good trading, but my father won't even look into it. He says we need to stay 'protected'. Yeah, right. Caged is more like it.}
-{1108}{TAND_54}{The Hub is supposed to be a great city to the south. I've always wanted to see it, but I've never got the chance.}
+{1108}{TAND_54}{Agatha est la doyenne. On l'adore, surtout pour ses histoires. Va la voir si tu veux en entendre une.}
 {1109}{TAND_55}{I don't know, but the guy who told me about it was really scared of it. He said that the undead walked the streets!}
 {1110}{TAND_51}{I've actually seen one, even if it was from far away. They're nasty creatures, with claws and a big stinger. And their poison can be deadly if it isn't treated. You should talk to my dad, Aradesh, he knows more about them.}
 {1111}{TAND_49}{Pretty bad bunch or so I've heard. My father knows more about them. He never tells me much about the outside world.}
-{1112}{TAND_46}{Razlo's the old guy on the east side of town. He's a pretty good doctor though, even if he is a fossil.}
+{1112}{TAND_46}{Razlo, c'est l'vieux type à l'Est de la ville. C'est un bon toubib, même si c'est un fossile.}
 {1113}{TAND_22}{Same as always. Bo-ring.}
-{1114}{TAND_54}{The Hub is supposed to be a great city to the south. I've always wanted to see it, but I've never got the chance.}
+{1114}{TAND_54}{Agatha est la doyenne. On l'adore, surtout pour ses histoires. Va la voir si tu veux en entendre une.}
 {1115}{TAND_62}{I don't know. You might want to ask Seth or my father about it, though.}
 {1116}{TAND_62}{I don't know. You might want to ask Seth or my father about it, though.}
 {1117}{TAND_49}{Pretty bad bunch or so I've heard. My father knows more about them. He never tells me much about the outside world.}

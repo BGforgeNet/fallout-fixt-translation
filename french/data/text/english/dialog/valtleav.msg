@@ -1,2 +1,2 @@
-{100}{}{To the west, you can see a natural light. For the first time in your life, you are looking at the outside world.}
-{101}{}{To the west, you can see stars in an open sky. For the first time in your life, you are looking at the outside world.}
+{100}{}{A l'Ouest, tu vois une lumière naturelle. Pour la première fois de ta vie, tu vois le monde extérieur.}
+{101}{}{A l'Ouest, tu vois un ciel étoilé. Pour la première fois de ta vie, tu vois le monde extérieur.}

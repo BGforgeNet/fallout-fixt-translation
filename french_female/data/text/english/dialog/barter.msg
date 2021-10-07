@@ -1,14 +1,14 @@
-{100}{}{You see: Shady Sands' resident trader.}
-{101}{}{Hello wanderer! I trade and sell goods to the fine people of Shady Sands. Would you like to see my wares?}
-{102}{}{Yes.}
-{103}{}{Nope.}
-{104}{}{We have been plagued by radscorpions for some time now. All who have been sent to destroy these monsters have not returned. I will give you weapons and armor if you will follow a guide to their lair and kill them all.}
-{105}{}{Sounds good.}
-{106}{}{No thanks.}
-{107}{}{That is a shame. Please leave.}
-{108}{}{Excellent. Talk to Seth then; he will guide you to the lair. Here are the items I promised. They will be useful in the lair.}
-{109}{}{Please help us as soon as possible. Time is of the essence.}
-{110}{}{I don't talk to your kind, stranger.}
-{111}{}{Thank you for destroying the radscorpions, stranger.}
-{112}{}{You see a merchant.}
-{113}{}{I'm not going to talk to you unless you holster that weapon, stranger.}
+{100}{}{Tu vois : Un marchand des Sables Ombragés.}
+{101}{}{Salut wastelander ! J'échange et je vends des marchandises aux bonnes âmes des Sables Ombragés. Tu veux faire du commerce ?}
+{102}{}{Oui.}
+{103}{}{Non.}
+{104}{}{Nous sommes en proie à des radscorpions depuis quelques temps. Tous ceux envoyés pour détruire ces monstres ne sont jamais revenus. Je te donnerai des armes si tu vas jusqu'à leur repaire et que tu t'en débarrasses.}
+{105}{}{Ca semble correct.}
+{106}{}{Non, merci.}
+{107}{}{C'est une honte. Va-t'en.}
+{108}{}{Excellent. Parles-en à Seth, il te guidera jusqu'à leur repaire. Prends ça, ça pourrait être utile.}
+{109}{}{S'il te plaît, aide-nous dès que tu le pourras. C'est urgent.}
+{110}{}{Je ne parle pas aux gens de ton espèce, étranger.}
+{111}{}{Merci de nous avoir débarrassés des radscorpions, étranger.}
+{112}{}{Tu vois un marchand.}
+{113}{}{Je n'ai pas l'intention de te parler tant que tu ne ranges pas ton arme.}

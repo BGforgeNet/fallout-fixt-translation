@@ -1,125 +1,125 @@
-{100}{}{You see: Lasher, of the Children.}
-{101}{}{I know who you are. You are a wicked, evil man and you must be punished.}
-{102}{}{I know who you are. You are the devil in woman's form, but your shape will not save you.}
-{103}{}{I know who you are. Your wickedness precedes you. You send the souls of children to Hades, before they can be cleansed of their perfidy. It is a black evil that you do, and you must be punished for it.}
-{104}{}{I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!}
-{105}{}{How dare you disturb me! Don't you know how important my position is? Get out!}
-{106}{}{You are unwise to draw your weapon on me. The Master's shield is upon me, and I may not be touched without retribution!}
-{107}{}{I wouldn't mind the Master's shield myself.}
-{108}{}{Nobody's ever accused me of being wise!}
-{109}{}{I just want to speak with the man in charge.}
-{110}{}{Nice rod you've got there! Is that why they call you 'Lasher'?}
-{111}{}{Is it true that you enjoy abusing children?}
-{112}{}{You wanna see unwise? It's unwise to give me lip, bitch!}
-{113}{}{Why you talk so funny?}
-{114}{}{Why have you come, Initiate? You know that I do not like to be disturbed.}
-{115}{}{Forgive me, Father, but I am troubled.}
-{116}{}{I seek the guidance of the Cathedral.}
-{117}{}{I'm here to talk about your treatment of the Children.}
-{118}{}{I just wanted to talk.}
-{119}{}{Nice rod you've got there! Is that why they call you 'Lasher'?}
-{120}{}{How would you like to never be disturbed again. I can arrange that!}
-{121}{}{I dunno. Why I come? You know?}
-{122}{}{How dare you enter my sanctuary with a weapon in your hand! Oaf! Get out!}
-{123}{}{Who do you think you are, entering my sanctum with a drawn weapon. Get out!}
-{124}{}{Forgive me, sir. But the forces of darkness are everywhere, and one never knows when you must defend yourself.}
-{125}{}{I seek the guidance of the Cathedral.}
-{126}{}{I'm here to talk about your treatment of the Children.}
-{127}{}{I just wanted to talk.}
-{128}{}{Nice rod you've got there! Is that why they call you Lasher?}
-{129}{}{You don't like drawn weapons. You're gonna hate what I do with it next!}
-{130}{}{Out? Which way out?}
-{131}{}{My quarters are not open to those who have not been consecrated. I must ask you to leave at once.}
-{132}{}{Forgive my intrusion, but I have important questions.}
-{133}{}{I'm here to talk about your treatment of the Children.}
-{134}{}{I wanted to ask you about consecration.}
-{135}{}{Nice rod you've got there! Is that why they call you Lasher?}
-{136}{}{This place don't look consecrated. I ain't killed anyone here yet.}
-{137}{}{You stupid! I got plenty of conse...cra...tion...}
-{138}{}{That is a privilege reserved for only the most faithful servants. Only baptism is a higher honor.}
-{139}{}{And how does one earn baptism?}
-{140}{}{I suppose you are teaching the children and preparing them for baptism.}
-{141}{}{Can you help me to be baptized?}
-{142}{}{Wow! You must be special!}
-{143}{}{Too bad privileges ain't worth a radscorpion's ass when you're dead.}
-{144}{}{I see no reason to converse with a fool. Away with you.}
-{145}{}{You should speak to Father Morpheus. He is in the tower, but it is unlikely that the Nightkin will allow you to pass.}
-{146}{}{Could you persuade the Nightkin to let me pass?}
-{147}{}{What can you tell me about Morpheus?}
-{148}{}{What can you tell me about the Nightkin.}
-{149}{}{Thank you, sir.}
-{150}{}{I have ways of getting around these sorts of problems.}
-{151}{}{The rod is a holy instrument, through which I instruct my charges. Pain clears the mind of evil thoughts and allows them to better comprehend the glory of the Master.}
-{152}{}{I see. So the Master's a pain?}
-{153}{}{That's a horrible thing to do to children!}
-{154}{}{Sounds kinky. How about trying some on me?}
-{155}{}{I instruct the children. It is my duty. All children are wicked beasts. It is my duty to force them to evolve into human beings. Perhaps you have heard that I do not tolerate frivolity. This is true. I want my charges to suffer as much as possible.}
-{156}{}{And are mutants more evolved than human beings?}
-{157}{}{You heartless bastard!}
-{158}{}{You never got laid, did you?}
-{159}{}{Tell me more about your teaching methods.}
-{160}{}{But what about the pleasure of killing? Ain't that allowed?}
-{161}{}{You filthy brainless abomination! How dare you defile my presence! Get out! Out! Now!}
-{162}{}{You are a woman, and therefore you are always troubled. It is an endemic condition of your breed. Tell me your problem, madam, and I will resolve it for you.}
-{163}{}{If your heart was not so full of wickedness, sir, you would be at ease. A righteous heart knows no cares. Tell me your problem, but be quick!}
-{164}{}{Tell me how to attain righteousness!}
-{165}{}{I want to know more about the Cathedral.}
-{166}{}{I want to know about the Master.}
-{167}{}{You're alive. That's my problem, you son of a bitch!}
-{168}{}{Learn to embrace pain as your closest friend, for pain is the most instructive force in the universe. Break yourself until you can exist no longer as an individual, then remake yourself into the Master's tool. That is the solution to all of your problems.}
-{169}{}{So where can I find the most pain?}
-{170}{}{Yeah, I want to get enough brain damage that I'll join a zombie cult! Dream on, pal!}
-{171}{}{I would never have thought of that!}
-{172}{}{It is? That sucks, pal!}
-{173}{}{I already embrace pain. I just like to share it with my friends.}
-{174}{}{Beasts chatter without meaning. Human beings think first, and then they talk. You must evolve into a human being before I will wish to speak you. Be gone.}
-{175}{}{Your words are true. Very well, I will help you. But be quick.}
-{176}{}{I must see Father Morpheus on an urgent matter.}
-{177}{}{Tell me about the Cathedral.}
-{178}{}{I was wondering where I could find the Master.}
-{179}{}{I was wondering about the Children.}
-{180}{}{The only thing I know that's quick is Death.}
-{181}{}{There comes a time when you must find the answers to life's questions yourself, and that time is now. Begone!}
-{182}{}{That is not my duty. Now begone.}
-{183}{}{By the endurance of pain, by the acquisition of wisdom, and the performance of service. Pain is knowledge, wisdom is obedience, and service is courage. }
+{100}{}{Voici Lasher, des Enfants.}
+{101}{}{Je sais qui tu es. Tu es un homme méchant et diabolique. Tu dois être puni.}
+{102}{}{Je sais qui tu es. Tu es le diable réincarné en femme, mais ton apparence ne te sauvera pas.}
+{103}{}{Je sais qui tu es. Ta méchanceté te précède. Tu envoies des âmes d'enfants en Enfer, avant même qu'ils n'aient eu le temps de se purifier de leurs perfidies. Tu propages le mal et tu vas le payer.}
+{104}{}{Je sais qui tu es. Tu es la mort personnifiée, un fléau ayant revêtu une enveloppe humaine. Tu répands des torrents de sang sur ton passage. Mais une âme vertueuse vengera tes iniquités !}
+{105}{}{Comment oses-tu me déranger ! Ne connais-tu pas mon rang ? Sors !}
+{106}{}{Ce n'est pas très prudent de pointer ton arme sur moi. Je porte le bouclier du Maître et toute personne qui m'atteint est châtiée !}
+{107}{}{Je revêtirais volontiers le bouclier du Maître moi aussi.}
+{108}{}{Personne ne m'a jamais accusé de prudence !}
+{109}{}{Je veux juste parler au responsable.}
+{110}{}{Tu as là une bien jolie baguette, Lasher.}
+{111}{}{Est-il vrai que tu aimes maltraiter les enfants ?}
+{112}{}{Tu veux savoir ce qui est imprudent ? Il est très imprudent de se moquer de moi !}
+{113}{}{Pourquoi tu parles comme ça ?}
+{114}{}{Pourquoi es-tu là, Initié ? Tu sais que je n'aime pas qu'on me dérange.}
+{115}{}{Pardonne-moi, Père, mais quelque chose m'inquiète.}
+{116}{}{Je souhaite que la Cathédrale me guide dans mon action.}
+{117}{}{Je suis là pour te parler des mauvais traitements que tu infliges aux enfants.}
+{118}{}{Je voulais seulement discuter.}
+{119}{}{Tu as là une bien jolie baguette, Lasher.}
+{120}{}{Qu'est-ce que tu dirais de ne plus jamais être dérangé ? Eh bien, je peux arranger ça !}
+{121}{}{Je sais pas. Pourquoi je suis venu ? Tu as une idée ?}
+{122}{}{Comment oses-tu entrer dans mon sanctuaire avec une arme à la main ! Rustre ! Sors !}
+{123}{}{Pour qui te prends-tu pour oser entrer dans mon sanctuaire une arme à la main. Sors !}
+{124}{}{Pardonnez-moi. Mais les forces obscures sont partout et on ne sait jamais à quel moment on devra se défendre.}
+{125}{}{Je souhaite que la Cathédrale me guide dans mon action.}
+{126}{}{Je suis là pour te parler des mauvais traitements que tu infliges aux enfants.}
+{127}{}{Je voulais seulement discuter.}
+{128}{}{Tu as là une bien jolie baguette, Lasher.}
+{129}{}{Si tu n'aimes pas les armes, tu vas détester ce que je vais en faire !}
+{130}{}{Sortir ? Par où ?}
+{131}{}{Mes quartiers ne sont pas ouverts à ceux qui n'ont pas été sacrés. Je dois te demander de sortir immédiatement.}
+{132}{}{Pardonne mon intrusion : j'ai d'importantes questions à te poser.}
+{133}{}{Je suis là pour te parler des mauvais traitements que tu infliges aux enfants.}
+{134}{}{Je voulais te poser des questions sur le sacre.}
+{135}{}{Tu as là une bien jolie baguette, Lasher.}
+{136}{}{Cet endroit est pas sacré. J'ai tué personne pour l'instant.}
+{137}{}{Imbécile ! De nombreuses con... sé... crations ont eu lieu...}
+{138}{}{C'est un privilège réservé aux serviteurs les plus fidèles. Le baptème est le seul honneur qui le dépasse.}
+{139}{}{Et comment accède-t-on au baptême ?}
+{140}{}{Je suppose que tu prépares les Enfants au baptême.}
+{141}{}{Peux-tu m'aider à me faire baptiser ?}
+{142}{}{Ouah ! Tu dois être quelqu'un d'important !}
+{143}{}{Dommage qu'une fois mort ces privilèges ne valent pas mieux que la queue d'un radscorpion.}
+{144}{}{Je n'ai pas de temps à perdre en causeries avec les imbéciles. Va t'en.}
+{145}{}{Tu devrais t'adresser au Père Morpheus. Il est dans la tour, mais il y a peu de chances que les Ténébreux te laissent passer.}
+{146}{}{Pourrais-tu convaincre les Ténébreux de me laisser passer ?}
+{147}{}{Que peux-tu me dire sur Morpheus ?}
+{148}{}{Que peux-tu me dire sur les Ténébreux ?}
+{149}{}{Merci, monsieur.}
+{150}{}{Je sais comment régler ce genre de problèmes.}
+{151}{}{La baguette est le saint instrument qui me permet de dispenser mes enseignements. La souffrance purge les esprits de leurs pensées malveillantes et leur permet de mieux appréhender la gloire du Maître.}
+{152}{}{Je vois. Alors le Maître est une plaie ?}
+{153}{}{C'est monstrueux de faire ça à des enfants !}
+{154}{}{Ca me semble bizarre. Tu veux essayer sur moi ?}
+{155}{}{J'instruis les enfants. C'est mon travail. Tous les enfants sont méchants. Il est de mon devoir de les aider à devenir des êtres humains. Peut-être as-tu entendu dire que je ne tolérais pas la frivolité. C'est vrai. Je veux que mes élèves souffrent le plus possible.}
+{156}{}{Et les mutants ? Sont-ils plus évolués que les êtres humains ?}
+{157}{}{Espèce de monstre !}
+{158}{}{On ne t'a jamais passé dessus, n'est-ce pas ?}
+{159}{}{Parle-moi de tes méthodes d'enseignement.}
+{160}{}{Et le plaisir de tuer alors ? C'est autorisé ?}
+{161}{}{Espèce d'abomination écervelée ! Comment oses-tu salir ma présence ! Sors ! Dehors ! Immédiatement !}
+{162}{}{Tu es une femme, tu es donc toujours troublée. C'est un état endémique chez le sexe faible. Expose-moi ton problème, et je le résoudrai.}
+{163}{}{Si ton coeur n'était pas si rempli de méchanceté, tu aurais l'esprit tranquille. Un coeur vertueux ne connaît point les tourments. Expose-moi ton problème, mais vite !}
+{164}{}{Dis-moi comment accéder à la vertu !}
+{165}{}{Je veux en savoir plus sur la Cathédrale.}
+{166}{}{Je veux en savoir plus sur le Maître.}
+{167}{}{T'es toujours en vie. C'est ça mon problème, espèce d'ordure !}
+{168}{}{Apprends à apprivoiser la souffrance comme s'il s'agissait de ton meilleur ami, car la souffrance est la force la plus édifiante de l'univers. Détruis-toi jusqu'à ne plus exister en tant qu'individu, puis tu renaîtras sous forme d'outil du Maître. Voilà la solution à tous tes problèmes.}
+{169}{}{Et la plaie suprême, où vais-je pouvoir la trouver ?}
+{170}{}{C'est ça, je vais subir un lavage de cerveau pour rejoindre un culte de zombies ! Tu rêves !}
+{171}{}{Je n'y aurais jamais pensé !}
+{172}{}{Vraiment ? C'est de la merde, mec !}
+{173}{}{J'ai déjà apprivoisé la souffrance. Je voudrais maintenant la partager avec mes amis.}
+{174}{}{Les bêtes jacassent sans réfléchir. Les êtres humains, eux, réfléchissent avant de parler. Tu dois devenir un être humain avant que je n'accepte de te parler. Va-t'en.}
+{175}{}{Ce que tu dis est vrai. Très bien, je vais t'aider. Mais vite.}
+{176}{}{Je dois rencontrer le Père Morpheus d'urgence.}
+{177}{}{Parle-moi de la Cathédrale.}
+{178}{}{Je me demandais où je pourrais trouver le Maître.}
+{179}{}{Parle-moi des Enfants.}
+{180}{}{La seule chose rapide que je connaisse, c'est la Mort.}
+{181}{}{Il arrive un moment où tu dois trouver toi-même les réponses aux questions fondamentales et ce moment est arrivé. Va-t'en !}
+{182}{}{Ce n'est pas mon travail. Va t'en maintenant.}
+{183}{}{En endurant la souffrance, en atteignant la sagesse et en accédant à la servilité. La Souffrance c'est la connaissance, la Sagesse : l'obéissance,  et la Servilité : le courage.}
 {184}{}{[Plus]}
-{185}{}{You must reject the Light that nearly destroyed us all, and pledge yourself to the Darkness in which all are equal. Now that I have told you this thing, go seek it. Seek the Master and his wisdom.}
-{186}{}{I have not consulted him, but I am certain he is pleased with the righteous souls I have brought him. It is difficult work, but I do it well. Unfortunately, it is also quite time consuming, which is why I must order to you to leave right now.}
-{187}{}{A flatterer's tongue is in the mouth of a devil! A devil such as you! Get out of my sight!}
-{188}{}{You foul mouthed beast! Begone! Learn some manners before you return.}
-{189}{}{A reasonable request. Take this symbol. Show it to the Nightkin when you wish to pass.}
-{190}{}{I cannot help you with that. Begone.}
-{191}{}{He is our leader. He is close to the Master's counsels and knows many of his purposes. Is that all?}
-{192}{}{Could you persuade the Nightkin to let me pass?}
-{193}{}{Tell me more about Morpheus?}
-{194}{}{What can you tell me about the Nightkin?}
-{195}{}{Thank you, sir.}
-{196}{}{So why do you follow this Morpheus bozo?}
-{197}{}{They serve the Master. They bring the pain of healing to the world. Angels in the Night, who redeem the world by bloodshed. Curiosity is a foolhardy emotion, but doubly so when it comes to the Nightkin. That is your only warning. I have much to do now. Away with you.}
-{198}{}{Your courtesy does you credit. Perhaps you are worthy to talk with Morpheus. If the Nightkin stops you, show them this symbol. Now, away with you!}
-{199}{}{You are a fool if you think petty subterfuge will defeat the Nightkin. Get out of here!}
-{200}{}{Decadence and ease prevents evolution, evolution that is necessary for survival in a harsh world. Fortunately, I am a hard man who cares nothing for seductive pleasures. I see that you disagree with me. I do not care about your opinion. Get out of here!}
-{201}{}{Mutation is nothing to fear. Every birth is a mutation of our parents' DNA. We are all mutants. The only thing that matters is that the mutant is guided on a moral and productive path. This is my job. And this also ends this discussion. Leave me now.}
-{202}{}{I deal out pain. If the animal is worthy and can learn from it, it evolves into a righteous soul. If it does not, it does not deserve to exist. On rare occasions, the animal is removed the genetic pool, although not as often as I would like. This happens more often with failed grown animals.}
-{203}{}{And the Master approves of the teaching methods?}
-{204}{}{You're a monster!}
-{205}{}{I think I'll leave you now.}
-{206}{}{Do you teach adults?}
-{207}{}{Grown animals?}
-{208}{}{Hey, I can remove them for you! No one else needs to know!}
-{209}{}{You are an evil girl. You would do well to tread carefully here. The Nightkin do not enjoy rivals. Now begone!}
-{210}{}{You are an evil man. You would do well to tread carefully here. The Nightkin do not enjoy rivals. Now begone!}
-{211}{}{Righteousness is attained through struggle, trauma, and recovery. We are animals who must be continuously be broken until we accept the Master's truth without hesitation. Now that you have heard the truth, seek it with the body of your experiences. Get out of here.}
-{212}{}{Your tongue is a wicked thing that is beyond redemption. Get out of my sight!}
-{213}{}{The Cathedral teaches many things which an undisciplined mind is incapable of comprehending. Now I have other duties to perform. Away with you!}
-{214}{}{As do I. It appears we have many things in common, but unfortunately, you irritate me beyond my ability to tolerate. Get out of here. Now.}
-{215}{}{It is not my place to judge. You must persuade the Nightkin. Good luck. You will need it.}
-{216}{}{The Cathedral is a sanctuary for the human race. When the apocalypse fell on this foul city, the Cathedral was spared, which allowed for the birth of the Master. Thus a healing darkness emerged from a terrible light.}
-{217}{}{ When I came, I saw this place lacked a moral center, and so I have endeavored to administer teaching pain to a place once consumed with idle pleasure. That is all you need to know.}
-{218}{}{It is said the Master waits below, in the Darkness, for the Light above betrayed mankind and nearly destroyed us. But many bless the Light, for they say it birthed the Master.}
-{219}{}{ I do not know these things with certainty, and I have never had the privilege to see him. Now if you will excuse me, I have work to do.}
-{220}{}{You were not particularly welcome here in the first place. Good riddance to you.}
-{221}{}{Once I did, but many of methods were abandoned in favor of the loud noises you hear in the Auditorium amphitheater. It is a source of bitterness for me. Fortunately, I can still instruct the children. Now if you will excuse me, I have to prepare for their lessons.}
-{222}{}{Uh... it is of course, a rare event, and the animal is given every chance to evolve. Now leave here! Leave here at once!}
-{223}{}{[Done]}
-{224}{}{This may be of some use to you. Take this symbol. Show it to the Nightkin when you wish to pass. It will allow you to see Father Morpheus.}
+{185}{}{Tu dois rejeter la Lumière qui nous a presque tous détruits et te vouer à l'Obscurité dans laquelle nous sommes égaux. A présent, tu peux entamer ta quête, ta quête du Maître et de sa sagesse.}
+{186}{}{Je ne l'ai pas consulté, mais je pense qu'il est satisfait des âmes vertueuses que je lui ai confiées. C'est un travail difficile, mais je le fais bien. Hélas, ça me prend beaucoup de temps, c'est pourquoi je dois te demander de partir.}
+{187}{}{Une langue flatteuse dans la bouche d'un démon ! Le démon qui est en toi ! Hors de ma vue !}
+{188}{}{Espèce de langue de vipère ! Va-t'en ! Et apprends les bonnes manières avant de revenir.}
+{189}{}{C'est une requête raisonnable. Prends ce signe et montre-le aux Ténébreux quand tu voudras passer.}
+{190}{}{Je ne peux rien pour toi. Va t'en.}
+{191}{}{C'est notre chef. Il est proche des conseillers du Maître et il en sait beaucoup à son sujet. C'est tout ?}
+{192}{}{Pourrais-tu convaincre les Ténébreux de me laisser passer ?}
+{193}{}{Peux-tu m'en dire plus sur Morpheus ?}
+{194}{}{Peux-tu me parler des Ténébreux ?}
+{195}{}{Merci, monsieur.}
+{196}{}{Alors, pourquoi tu le suis ce Morpheus ?}
+{197}{}{Ils servent le Maître. Ils cultivent la souffrance pour guérir le monde. Les Anges de la Nuit purgent le monde en versant le sang. La curiosité est une émotion audacieuse, et particulièrement lorsqu'il s'agit des Ténébreux. Je ne te le dirai pas deux fois. Bien, j'ai à faire à présent. Va t'en.}
+{198}{}{Ta courtoisie te fait honneur. Tu es peut-être digne de parler à Morpheus. Si les Ténébreux t'arrêtent, montre-leur ce signe. Maintenant, va-t'en !}
+{199}{}{Tu as tort de croire que ce petit subterfuge trompera les Ténébreux. Sors d'ici !}
+{200}{}{La décadence et la désinvolture font obstacle à l'évolution, l'évolution qui est nécessaire à la survie dans ce monde si rude. Heureusement, je suis un homme endurci qui se moque des plaisirs de la séduction. Je vois que tu n'es pas d'accord avec moi. Je me moque de ton opinion. Sors d'ici !}
+{201}{}{Il ne faut pas avoir peur de la mutation. Chaque naissance est une mutation de l'ADN de nos parents. Nous sommes tous des mutants. La seule chose qui compte, c'est que le mutant soit guidé sur un chemin moral et utile. C'est mon travail. Voilà qui met fin à cette discussion. Laisse-moi maintenant.}
+{202}{}{Je dispense la souffrance. Si l'animal en est digne et s'il peut en tirer des enseignements, il évolue en âme vertueuse. Sinon, il ne mérite pas d'exister. Parfois, l'animal est retiré du bassin génétique, mais pas aussi souvent que je le voudrais. Ceci se produit souvent avec les animaux dont l'évolution a échoué.}
+{203}{}{Et le Maître approuve ces méthodes d'enseignement ?}
+{204}{}{Tu es un monstre !}
+{205}{}{Je crois que je vais m'en aller.}
+{206}{}{Enseignes-tu à des adultes ?}
+{207}{}{L'évolution des animaux ?}
+{208}{}{Eh, je peux les en retirer à ta place ! Personne d'autre n'a besoin de savoir !}
+{209}{}{Tu es une femme diabolique. Tu ferais bien d'être vigilante ici. Les Ténébreux n'aiment pas la rivalité. Va t'en maintenant !}
+{210}{}{Tu es un homme diabolique. Tu ferais bien d'être vigilant ici. Les Ténébreux n'aiment pas la rivalité. Va t'en maintenant !}
+{211}{}{On accède à la vertu par la lutte, le traumatisme et la guérison. Nous sommes des animaux voués à être brisés jusqu'à ce que nous acceptions sans hésiter la vérité du Maître. Maintenant que tu as entendu la vérité, cherche-la à travers tes expériences. Sors d'ici.}
+{212}{}{Tu n'as que la méchanceté à la bouche, sans aucune rédemption possible. Hors de ma vue !}
+{213}{}{La Cathédrale enseigne de nombreux concepts qu'un esprit non-discipliné est incapable d'appréhender. Maintenant, j'ai à faire. Au revoir !}
+{214}{}{Comme moi. Il semble que nous ayons beaucoup de points communs, mais hélas, je ne te supporte plus. Va t'en d'ici tout de suite.}
+{215}{}{Ce n'est pas à moi de juger. Tu dois convaincre les Ténébreux. Bonne chance. Tu en auras besoin.}
+{216}{}{La Cathédrale est le sanctuaire de l'espèce humaine. Lorsque l'apocalypse a frappé cette ville, la Cathédrale a été épargnée, ce qui a permis la naissance du Maître. C'est ainsi qu'une obscurité curative a émergé d'une lumière abominable.}
+{217}{}{A mon arrivée, j'ai vu que cet endroit manquait de repères moraux, c'est pourquoi j'ai pris l'initiative d'enseigner la souffrance aux victimes des plaisirs oisifs. C'est tout ce que tu dois savoir.}
+{218}{}{On dit que le Maître attend en dessous, dans l'Obscurité : la Lumière du dessus a en effet trahi les Hommes et les a presque détruits. Mais beaucoup bénissent la Lumière qui selon eux a donné naissance au Maître.}
+{219}{}{Je n'ai aucune certitude et je n'ai jamais eu le privilège de le voir. Maintenant, si tu veux bien m'excuser, j'ai du travail.}
+{220}{}{Ta présence n'a jamais été particulièrement la bienvenue. Bon débarras.}
+{221}{}{Ca m'est arrivé une fois, mais de nombreuses méthodes ont été abandonnées au profit de ces bruits que tu peux entendre dans l'amphithéâtre de l'Auditorium. C'est une source d'amertume. Heureusement, je peux toujours enseigner aux enfants. Maintenant, excuse-moi, je dois préparer mes cours.}
+{222}{}{Euh... cela se produit rarement, et l'animal a toutes les chances d'évoluer. Maintenant, va t'en ! Va t'en tout de suite !}
+{223}{}{[Terminé]}
+{224}{}{Ceci peut t'être utile. Prends ce signe. Montre-le aux Ténébreux quand tu voudras passer. Ca te permettra de rencontrer le Père Morpheus.}

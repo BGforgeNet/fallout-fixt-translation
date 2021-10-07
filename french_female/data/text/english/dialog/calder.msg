@@ -1,109 +1,109 @@
-{100}{}{You see a teenager.}
-{101}{}{You! You did it! When I grow up, I'm gonna get you! I'm gonna hunt you down and kill you! You killed them all! Aaaaaalllll! (He sobs uncontrollably.)}
-{102}{}{It was the only way. The only way to stop them.}
-{103}{}{How in hell did you survive the nuke?}
-{104}{}{It's a lie, kid. I didn't do it!}
-{105}{}{You'd better go find a doctor, kid. You've got radiation sickness.}
-{106}{}{You know kid, I don't need some tough guy trying to take me out twenty years down the road. Say goodnight, brat.}
-{107}{}{I heard about you. You run around the Wastes killing kids! Help! Nightkin!}
-{108}{}{You're mistaken, child. I'm a good man.}
-{109}{}{Yeah, and if you don't shut up, you won't live long enough to have nightmares.}
-{110}{}{I ain't here to bother you, kid, so just be quiet.}
-{111}{}{I do what? They're not just small guys?}
-{112}{}{Okay. I'll be quiet. But I hope the Nightkin get you!}
-{113}{}{Nightkin! Nightkin!}
-{114}{}{Maybe it was someone else. But if it was you, I'll find you one day when I get older, and I'll make you pay!}
-{115}{}{Hello, sir. Do you need a meditation flower?}
-{116}{}{Hello, ma'am. Do you need a meditation flower?}
-{117}{}{Child, has anything interesting happened here lately?}
-{118}{}{Of course, child.}
-{119}{}{Not right now.}
-{120}{}{Flower pretty?}
-{121}{}{Get that weed out of my face, you little brat!}
-{122}{}{I heard Father Morpheus had a visit from the Master himself. He's real happy right now.}
-{123}{}{Anything else?}
-{124}{}{I'll bet.}
-{125}{}{Not right now.}
-{126}{}{Flower pretty?}
-{127}{}{Get that weed out of my face, you little brat!}
-{128}{}{Father Lasher says I have to keep my big mouth shut. He's no fun!}
-{129}{}{C'mon, kid. Surely, you've seen something!}
-{130}{}{Father Lasher?}
-{131}{}{Fun good.}
-{132}{}{Sounds like he and I have a lot in common.}
-{133}{}{That's great! May the Master bless you. (He hands you a flower.)}
-{134}{}{Aw! You're no fun. Maybe I should tell the Nightkin about you!}
-{135}{}{The Nightkin are my friends.}
-{136}{}{You're a little too young to understand how much fun I can be.}
-{137}{}{Go ahead. And I'll tell them about you.}
-{138}{}{You start telling anyone about me, kid, and you're dead!}
-{139}{}{Sure is. I picked it myself from a grove across town. Well, it was nice meeting you. May the Master bless you.}
-{140}{}{What'd I do? What'd I do?!}
-{141}{}{Are you sure you don't want a flower?}
-{142}{}{I'll take it if you tell me what's going on around here.}
-{143}{}{Fine. I'll take it.}
-{144}{}{Sorry, kid. I'm not a flower kinda guy.}
-{145}{}{Sorry, kid. You're a little too young to be giving me flowers.}
-{146}{}{I dunno. Why you ask?}
-{147}{}{I can't tell you that! The Nightkin would eat me!}
-{148}{}{He's my teacher. He says every lash we receive brings us closer to the Master!}
-{149}{}{What a charming man. We really must talk.}
-{150}{}{Don't believe him, kid.}
-{151}{}{Where is this bastard? I'll kill him.}
-{152}{}{Teacher? What need teacher?}
-{153}{}{And you still haven't learned when to shut up? You must have dung for brains, kid.}
-{154}{}{Uh, bye!}
-{155}{}{Yeah. It is. Well, goodbye! May the Master bless you!}
-{156}{}{But the Nightkin like me! They told me that if anyone bothered me, they'd kill 'em. So there!}
-{157}{}{I heard there's a secret passage around here, but I haven't found it yet. It's supposed to be really dangerous. Only Morpheus and the Nightkin are allowed there. Well, I'd better go. Praise the Master!}
-{158}{}{That's too bad. May the Master bless you anyway.}
-{159}{}{Please don't tell him I said anything to you! Please!}
-{160}{}{Don't worry. When I'm through with him, he won't remember a thing.}
-{161}{}{I won't. I promise.}
-{162}{}{Mind your own business, kid.}
-{163}{}{Rar! What you say?}
-{164}{}{Life is tough. Learn to take it, kid, and quit whining.}
-{165}{}{But I must! I must! Disbelief is pain!}
-{166}{}{Please don't! He loves me! He's the only one who does.}
-{167}{}{That's okay, I guess. May the Master bless you. Bye.}
-{168}{}{Thank you! Oh thank you! May the Master bless you. Bye.}
-{169}{}{Okay I will... *sniff* Maybe Father Lasher will be more kind to me after the Master takes over the world.}
-{171}{}{And when's the Master going to take over the world?}
-{172}{}{Tell me more about this, kid.}
-{173}{}{He won't be. He'll get worse. But if you're smart, make yourself his favorite and he'll let you torture the new kids that come in.}
-{174}{}{Ugh! Me like kindness.}
-{175}{}{Soon, or so they tell me. We're going to have peace, and unity and the Holy Flame will be lit. And maybe Father Morpheus won't be quite so loud, either.}
-{176}{}{Anything else?}
-{177}{}{Father Morpheus?}
-{178}{}{Loud sucks!}
-{179}{}{Uh, I really don't know very much. Honest. Bless the Master! Bye!}
-{180}{}{Hi. How are you?}
-{181}{}{Fine, kid. What's the good news?}
-{182}{}{Okay. So you got any dirt for your old friend?}
-{183}{}{Pretty good. How about you?}
-{184}{}{I dunno. Bored.}
-{185}{}{I feel lousy. Do you know how long it's been since I killed anything?}
-{186}{}{Uh, hello.}
-{187}{}{Hello, kid. Can you tell me what this place is about?}
-{188}{}{Hi, kid. What're you doing in this joint?}
-{189}{}{Hi, kid. How're you doing?}
-{190}{}{Out of my face, brat, or I'll turn you into a belt!}
-{191}{}{Hello? Rhyme with yellow! Funny!}
-{192}{}{This is the cathedral of the Children of the Cathedral. I don't know why they say cathedral twice. We worship the Master, and we yell a lot about Peace and Unity. It sounds kind of dumb, but the Master's real smart, so I guess it must be okay.}
-{193}{}{Tell me more about the Master.}
-{194}{}{Sounds dumb to me, too. What are you doing here?}
-{195}{}{Don't talk about your elders that way, okay?}
-{196}{}{What kind of a brainwashed little fool are you? You're going to grow up to be one of these zombies! I should kill you now!}
-{197}{}{I give out flowers. Every petal is peace, and the stem is unity. Or, are the petals unity and the stem peace? Oh no, I don't remember! Do you want one?}
-{198}{}{I'll take one if you tell me what's going on around here.}
-{199}{}{Sure.}
-{200}{}{No, thanks.}
-{201}{}{Screw peace. Screw unity. And get that flower out of my face!}
-{202}{}{Father Lasher says I shouldn't talk to strangers... until we have Unity, of course; then nobody'll be a stranger. Bye!}
-{203}{}{I'm okay. At least until Father Lasher's next lesson.}
-{204}{}{Maybe if you studied harder, the lessons wouldn't be so bad.}
-{205}{}{Tell me more about Father Lasher.}
-{206}{}{What kind of lesson?}
-{207}{}{Stop whining, you little brat, and be grateful that somebody's bothering to teach you!}
-{208}{}{I never do good enough! Never!}
-{209}{}{[Done]}
+{100}{}{Voici un adolescent.}
+{101}{}{Hé, toi ! Je suis sûr que c'était toi ! Quand je serai grand, je te le ferais payer ! Je ne te lâcherai pas d'une semelle jusqu'à ce que tu crèves ! Assassin ! Ouhouhouhl ! [Eclate en sanglots].}
+{102}{}{Y'avait pas d'autre moyen. Fallait bien les arrêter.}
+{103}{}{Mais t'as fait comment pour survivre à la bombe nucléaire ?}
+{104}{}{Mensonge. C'est pas moi !}
+{105}{}{Tu ferais mieux d'aller chez le docteur. Tu as le mal des rayons.}
+{106}{}{Tu sais, j'ai besoin de personne pour m'aider à m'en sortir après vingt ans sur la route. Dis bonsoir.}
+{107}{}{J'ai déjà entendu parler de toi. Tu traînes dans le Désert et tu tues. A l'aide ! Ténébreux !}
+{108}{}{Tu fais erreur. J'suis quelqu'un de sympa.}
+{109}{}{Ouais, et si tu ne la boucles pas, t'auras pas le temps de comprendre ce qui t'arrive.}
+{110}{}{Je ne te veux aucun mal, calme-toi !}
+{111}{}{Je fais quoi ?!}
+{112}{}{D'accord. Je me calme. Mais j'espère bien que les Ténébreux finiront par t'avoir !}
+{113}{}{Ténébreux ! Ténébreux !}
+{114}{}{C'était peut-être quelqu'un d'autre. Sinon je te le ferai payer !}
+{115}{}{Bonjour, Monsieur. Vous désirez une fleur de méditation ?}
+{116}{}{Bonjour, M'dame. Vous désirez une fleur de méditation ?}
+{117}{}{Quoi d'intéressant ces derniers temps ?}
+{118}{}{Bien sûr.}
+{119}{}{Pas tout de suite.}
+{120}{}{Fleur jolie ?}
+{121}{}{Cache-moi cette graine !}
+{122}{}{J'ai appris que Père Morpheus a eu la visite du Maître en personne. Il est très content maintenant.}
+{123}{}{Et avec ça ?}
+{124}{}{Chiche.}
+{125}{}{Pas tout de suite.}
+{126}{}{Fleur jolie ?}
+{127}{}{Cache-moi cette graine !}
+{128}{}{Le Père Lasher dit que je dois fermer ma grande gueule. Avec lui, ça rigole pas !}
+{129}{}{Rappelle-toi. Tu as sûrement vu quelque chose !}
+{130}{}{Le Père Lasher ?}
+{131}{}{J'aime bien rigoler, moi.}
+{132}{}{On dirait qu'on a plein de choses en commun, lui et moi.}
+{133}{}{Formidable ! Que le Maître te bénisse. [Il te tend une fleur.]}
+{134}{}{Oh ! C'est pas rigolo avec toi . Peut-être que je devrais parler de toi aux Ténébreux !}
+{135}{}{Les Ténébreux sont mes amis.}
+{136}{}{T'as pas encore l'âge de comprendre mon humour.}
+{137}{}{Continue comme ça et j'vais tout leur dire.}
+{138}{}{Tu la boucles, sale emmerdeur, sinon t'es mort !}
+{139}{}{C'est sûr. J'ai trouvé ça dans un bosquet en traversant la ville. Eh ben, à la prochaine ! Que le Maître te bénisse.}
+{140}{}{Qu'est-ce que j'dois faire ? Mais, qu'est-ce que j'dois faire ?!}
+{141}{}{C'est sûr, tu veux pas une fleur ?}
+{142}{}{J'en prendrai une quand tu m'auras dit ce qui se passe ici.}
+{143}{}{Très bien. Je veux bien la prendre.}
+{144}{}{Excuse. Les fleurs, c'est pas mon genre.}
+{145}{}{Excuse. Tu es peut-être un peu jeune pour m'offrir des fleurs.}
+{146}{}{J'sais pas. Pourquoi tu me demandes ça ?}
+{147}{}{Je ne peux pas te le dire ! Sinon, les Ténébreux vont me manger !}
+{148}{}{C'est mon professeur. Il dit qu'à chaque coup de fouet, on se rapproche du Maître !}
+{149}{}{Charmant. Il faut vraiment qu'on parle.}
+{150}{}{Il ne faut pas le croire.}
+{151}{}{Il est où, cet idiot ? Je vais le buter.}
+{152}{}{Un professeur ? A quoi bon ?}
+{153}{}{Et t'as jamais appris à te taire ? T'as un pois chiche à la place du cerveau !}
+{154}{}{Euh, salut !}
+{155}{}{Ouais. C'est ça. Salut_ euh_ Que le Maître te bénisse !}
+{156}{}{Mais les Ténébreux m'aiment bien ! Ils m'ont dit que si jamais quelqu'un m'embêtait, ils le tueraient. Na !}
+{157}{}{On m'a parlé d'un passage secret dans le coin mais je ne l'ai pas encore trouvé. Il paraît qu'il est vraiment dangereux. Seuls Morpheus et les Ténébreux ont le droit de l'emprunter. Bon, je ferais mieux d'y aller. Que le Maître soit loué !}
+{158}{}{C'est vraiment dommage. Tant pis. Que le Maître te bénisse.}
+{159}{}{S'il te plaît, ne lui dis pas que je t'ai parlé. Je t'en prie !}
+{160}{}{Ne t'en fais pas. Quand j'en aurai fini avec lui, il ne se souviendra de rien.}
+{161}{}{C'est promis.}
+{162}{}{Occupe-toi de tes oignons !}
+{163}{}{Ra ! Qu'est-ce que tu dis ?}
+{164}{}{La vie est dure. Il faut faire avec. Et arrête de geindre !}
+{165}{}{Mais il le faut ! Il le faut ! C'est un péché de perdre la foi !}
+{166}{}{S'il te plaît, non ! Il m'aime ! C'est bien le seul.}
+{167}{}{C'est bon. Que le Maître te bénisse. Salut.}
+{168}{}{Merci ! Oh merci ! Que le Maître te bénisse. Salut.}
+{169}{}{D'accord, je veux bien... [sniff] Peut-être que Père Lasher sera encore plus gentil avec moi quand le Maître dominera le monde.}
+{171}{}{Et quand le Maître compte-t-il dominer le monde ?}
+{172}{}{Vas-y, raconte-moi.}
+{173}{}{Je ne crois pas. Il sera pire. Mais si tu t'y prends bien, tu deviendras son chouchou et tu pourras torturer à ta guise tous les nouveaux venus parmi les enfants.}
+{174}{}{Uh ! Moi aimer gentillesse.}
+{175}{}{Bientôt. C'est ce qu'ils m'ont dit. Ce sera la paix et l'unité. Et la Flamme Sacrée sera allumée. Père Morpheus criera peut-être moins.}
+{176}{}{Et avec ça ?}
+{177}{}{Père Morpheus ?}
+{178}{}{Foutre de merde !}
+{179}{}{Euh, j'sais pas grand chose de plus. Vraiment. Que le Maître soit loué ! Salut !}
+{180}{}{Salut. Ca va ?}
+{181}{}{Bien. Quoi de neuf ?}
+{182}{}{D'accord. T'as rien d'autre à raconter ?}
+{183}{}{Super. Et toi ?}
+{184}{}{J'sais pas. Je m'ennuie.}
+{185}{}{Je me sens tout bizarre. Tu sais depuis combien de temps j'ai tué personne ?}
+{186}{}{Euh, salut.}
+{187}{}{Salut. Tu peux me dire où on est ici ?}
+{188}{}{Salut. Qu'est-ce que tu fous dans ce merdier ?}
+{189}{}{Salut. Comment ça va ?}
+{190}{}{Dégage, sinon tu vas te prendre une de ces dégelées !}
+{191}{}{Salut Berlu !}
+{192}{}{C'est la Cathédrale des Enfants de la Cathédrale. Je ne sais pas pourquoi on dit deux fois le mot Cathédrale. On vénère le Maître et on gueule des trucs sur la Paix et l'Unité. Ca paraît débile mais comme le Maître est très intelligent, je pense que c'est bien.}
+{193}{}{Parle-moi encore un peu du Maître.}
+{194}{}{Ca me paraît débile à moi aussi. Qu'est-ce qui se passe ici ?}
+{195}{}{Ne parle pas des anciens sur ce ton, d'accord ?}
+{196}{}{T'as rien dans la tête ! T'as subi un lavage de cerveau, ou quoi ? Quel destin tu te prépares ! Un futur zombie ! Je devrais te tuer !}
+{197}{}{J'offre des fleurs. Chaque pétale représente la paix et la tige l'unité. Ou l'inverse. M'en souviens plus. T'en veux une ?}
+{198}{}{J'en prendrai une si tu me dis ce qui se passe ici.}
+{199}{}{Bien sûr.}
+{200}{}{Non, merci.}
+{201}{}{La paix et l'unité ? Tu sais ou tu peux te les mettre ! Et vire-moi cette fleur !}
+{202}{}{Père Lasher dit qu'il ne faut pas parler aux étrangers... jusqu'à l'avènement de l'unité, bien sûr. Parce qu'après, plus personne ne sera étranger. Salut !}
+{203}{}{Ca ira. Au moins jusqu'au prochain cours de Père Lasher.}
+{204}{}{Peut-être que ça se passerait mieux en cours si t'étais moins flemmard.}
+{205}{}{Parle-moi un peu plus de Père Lasher.}
+{206}{}{Quelle sorte de cours ?}
+{207}{}{Arrête de chialer. Et tu peux t'estimer heureux qu'il y ait quelqu'un à t'enseigner quelque chose !}
+{208}{}{Tout c'que je fais, c'est jamais bien !}
+{209}{}{[Terminé]}

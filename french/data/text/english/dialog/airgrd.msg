@@ -1,46 +1,46 @@
-{100}{}{You see a Super Mutant. He is guarding the airlock door.}
-{101}{}{You see a Super Mutant guard.}
-{102}{}{Jeremiah, you may pass.}
-{103}{}{Move along.}
-{104}{}{Move faster, messenger.}
-{105}{}{Normals cannot carry weapons here! Halt and identify yourself!}
+{100}{}{Voici un super mutant. Il garde la porte du sas.}
+{101}{}{Voici un garde super mutant.}
+{102}{}{Jérémie, tu peux passer.}
+{103}{}{Avance.}
+{104}{}{Plus vite, messager.}
+{105}{}{Les Normaux n'ont pas le droit de porter d'armes ici ! Halte-là ! Décline ton identité !}
 {106}{}{Grrr!}
-{107}{}{Uh, sorry. I'll put it away.}
-{108}{}{I'm just passing through. No need for identities here.}
-{109}{}{Die! Die! Die! I always wanted to say that.}
-{110}{}{I will not be spoken to that way. You will be punished.}
-{111}{}{Halt! What is your business here, "child".}
-{112}{}{Hng!}
-{113}{}{I'm, uh, doing stuff.}
-{114}{}{I'm on important business. You have no right to stop and question me.}
-{115}{}{Don't talk to me, big boy.}
-{116}{}{Your answer does not settle my nerves. Speak quickly and clearly, or I will assume you are here for foul purposes. I assure you that you will not like that...}
-{117}{}{Uh, no, really, honestly. I'm doing stuff.}
-{118}{}{I'm bringing a message to our leader.}
-{119}{}{I sense the untruth behind your words. You will not be allowed in. This I promise you...}
-{120}{}{You may pass, but next time, follow the proper procedure...}
-{121}{}{Okay, thanks. See you around.}
-{122}{}{And what's that?}
-{123}{}{Blessing to you, brother.}
-{124}{}{A true follower of the Master would have that knowledge. You are an intruder!}
-{125}{}{Move along. I don't have time for your questions.}
-{126}{}{You are annoying me.}
-{127}{}{I have work to do. Do you?}
-{128}{}{You are making a mistake by coming here. Explain yourself or perish...}
-{129}{}{Nuggie!}
-{130}{}{I have nothing to say.}
-{131}{}{I'm here to protect humanity from the likes of you.}
-{132}{}{Oh, shut up!}
-{133}{}{You should not try to fool me by playing dumb. I tire of this...}
-{134}{}{What kind of foolish bigotry is that? We are "humanity". We're just as human as you are.}
-{135}{}{What kind of crap is that?}
-{136}{}{There is no possible way that you are human.}
-{137}{}{My name is Kyle. I was born to a mother and a father, like yourself. The Master just oversaw my rebirth. These muscles, this skin, this strength does not make me any less human than you. I do not like all that the Unity stands for, but it is the best chance for peace that we have.}
-{138}{}{Not on my watch, it isn't. I'm here to put an end to you and your kind.}
-{139}{}{You may be human, but that still doesn't make your Unity right. I guess we will be enemies.}
-{140}{}{It is a pity that you act this way, but you will not proceed further...}
-{141}{}{It will be a true shame to see your head on a pike.}
+{107}{}{Euh, je m'excuse. D'accord, je la range.}
+{108}{}{Je ne fais que passer. Pas besoin d'identité.}
+{109}{}{Crève ! Crève ! Crève ! Ca fait longtemps que j'avais ça sur le coeur.}
+{110}{}{On ne me parle pas sur ce ton. Tu vas me le payer.}
+{111}{}{Halte-là ! Qu'est-ce que tu fabriques ici ?}
+{112}{}{Grr !}
+{113}{}{Je, euh... fais des trucs.}
+{114}{}{J'ai un truc important à faire. Tu n'as aucun droit de m'arrêter ni de m'interroger.}
+{115}{}{Tais-toi, mon grand.}
+{116}{}{Ta réponse ne me satisfait pas complètement. Je veux une réponse brève et concise, sinon je vais penser que tu me caches quelque chose. Je te garantis que tu ne vas pas apprécier...}
+{117}{}{Euh, non, vraiment, c'est vrai. Je fais des trucs.}
+{118}{}{J'apporte un message pour notre chef.}
+{119}{}{C'est vrai, ce mensonge ? Ne compte pas sur moi pour te laisser entrer...}
+{120}{}{Tu peux passer. Mais la prochaine fois, respecte la procédure normale...}
+{121}{}{D'accord, merci. A un de ces quatre.}
+{122}{}{Quoi donc ?}
+{123}{}{Sois béni, frère.}
+{124}{}{Aucun vrai disciple du Maître ne peut l'ignorer. A l'intrus !}
+{125}{}{Circule. Je n'ai pas le temps de répondre à tes questions.}
+{126}{}{Tu me déranges.}
+{127}{}{J'ai du boulot. Pas toi ?}
+{128}{}{Tu as fait une erreur en venant ici. Explique-toi ou prépare-toi à mourir...}
+{129}{}{Nooon !}
+{130}{}{Je n'ai rien à dire.}
+{131}{}{Je suis ici pour protéger l'humanité contre les gens de ton espèce.}
+{132}{}{Oh, boucle-la !}
+{133}{}{N'essaie pas de jouer au plus malin avec moi. Y'en a marre...}
+{134}{}{Nous sommes "l'humanité", mais quel sectarisme primaire ! Nous sommes tous des humains, tous autant que toi.}
+{135}{}{Epargne-moi ces salades !}
+{136}{}{C'est impossible que tu sois un humain.}
+{137}{}{Je m'appelle Kyle. Je suis né d'une mère et d'un père, comme toi. Le Maître a simplement supervisé ma renaissance. Avec ces muscles, cette peau et cette force, je suis un humain comme toi. Moi, je n'aime pas ce qu'implique l'Unité mais je pense que c'est le meilleur moyen pour garantir la paix.}
+{138}{}{Tant que je serai en vie, ça ne se passera pas comme ça. Je suis ici pour en finir avec toi et ton espèce.}
+{139}{}{T'as beau être un humain, c'est pas pour ça que ton Unité a raison. Quelque chose me dit qu'on va pas être copains tous les deux.}
+{140}{}{Dommage que tu réagisses comme ça mais tu n'iras pas plus loin...}
+{141}{}{Ca me fera de la peine de voir ta tête au bout d'un pieu.}
 {142}{}{Intruders!}
-{143}{}{I no speak to you.}
-{200}{}{You earn }
-{201}{}{ experience for bluffing your way past the guards.}
+{143}{}{J't'ai causé, à toi ?}
+{200}{}{Tu gagnes }
+{201}{}{ points d'expérience pour avoir déjoué la surveillance des gardes.}

@@ -1,2 +1,2 @@
-{100}{}{Your attempt to re-wire the field emitter fails.}
-{101}{}{You turn off the field emitter.}
+{100}{}{Tu ne parviens pas à re-câbler l'émetteur de champ.}
+{101}{}{Tu éteins l'émetteur de champ.}

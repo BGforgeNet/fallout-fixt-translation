@@ -1,4 +1,4 @@
-{100}{}{You slide the iron cover back over the manhole.}
-{101}{}{You remove the manhole cover and peer down into the darkness. You see a ladder that leads into the sewers.}
-{102}{}{You strain your muscles, but the heavy iron disk is too much for your weak physique. You feel something pop in your back.}
-{103}{}{The manhole cover is heavy and awkward to lift.}
+{100}{}{Tu fermes la plaque d'égout.}
+{101}{}{Tu ouvres la plaque d'égout et tu essaies de percer l'obscurité. Tu vois une échelle qui mène aux égouts.}
+{102}{}{Tu forces, mais la plaque métallique est trop lourde pour ta faible constitution physique. Tu ressens un craquement dans le dos.}
+{103}{}{La plaque d'égout est lourde et difficile à soulever.}

@@ -1,5 +1,5 @@
-{100}{}{You cannot bring yourself to root through the assorted bits.}
-{101}{}{The cooler is filled with chunks of organs and body parts.}
-{102}{}{The pieces in the cooler are cut into small chunks, and cooled for shipping. Nobody's getting any transplants from these bite-size pieces.}
-{103}{}{Body parts fill the cooler.}
-{104}{}{The cooler is full of body parts, cut into small chunks and packed in ice. Odd.}
+{100}{}{Tu ne peux pas te décider à fouiller dans les morceaux bien rangés.}
+{101}{}{La glacière est pleine de morceaux d'organes et de cadavres.}
+{102}{}{Les cadavres contenus dans la chambre froide sont coupés en petits morceaux et congelés pour être expédiés. Ils ne serviront pas de transplants.}
+{103}{}{Des morceaux de cadavres remplissent la chambre froide.}
+{104}{}{La chambre froide est pleine de cadavres coupés en petits morceaux et rangés dans la glace. Bizarre.}

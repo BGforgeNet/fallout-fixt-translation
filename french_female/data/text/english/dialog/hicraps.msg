@@ -1,13 +1,13 @@
-{100}{}{You see the high-stakes Craps table. It costs 40 caps to play.}
-{101}{}{You rolled a 7. You win!!}
-{102}{}{You roll snake eyes. You lose.}
-{103}{}{You rolled }
-{104}{}{! You win!!}
-{105}{}{You rolled }
-{106}{}{. You lose.}
-{107}{}{You rolled }
-{108}{}{ before rolling your point. You lose.}
-{109}{}{You rolled your point. You win.}
-{110}{}{You rolled }
-{111}{}{. This is your point. Rolling again.}
-{112}{}{You earn 70 experience for killing the dealer.}
+{100}{}{Devant toi se trouve une table de jeu de Craps à mises élevées. La partie coûte 40 caps.}
+{101}{}{Tu as fait 7. Gagné !!}
+{102}{}{Tu as fait un double 1. Perdu.}
+{103}{}{Tu as fait }
+{104}{}{! Gagné !!}
+{105}{}{Tu as fait }
+{106}{}{. Perdu !}
+{107}{}{Tu as fait }
+{108}{}{ avant de marquer ton point. Perdu.}
+{109}{}{Tu as fait ton point. Gagné.}
+{110}{}{Tu as fait }
+{111}{}{. Tu as le point. Lance à nouveau les dés.}
+{112}{}{Tu obtiens 70 points d'expérience pour avoir tué le croupier.}

@@ -1,8 +1,8 @@
-{100}{}{You have broken out of the jail. You're now definitely a fugitive in Junktown!}
-{101}{}{The door looks solid, and has a stout lock. Still, locks can be picked, and doors can be destroyed.}
-{102}{}{The door is locked.}
-{103}{}{You unlock the door.}
-{104}{}{You lock the door.}
-{105}{}{You fail to unlock the door.}
-{106}{}{You fail to lock the door.}
-{107}{}{You earn 250 experience for busting out of jail!}
+{100}{}{Tu as fui la prison. Tu t'es maintenant fait une réputation de fugitif à Dépôtville !}
+{101}{}{La porte semble solide et est armée d'une grosse serrure. Mais toutes les serrures peuvent être forcées et toutes les portes défoncées.}
+{102}{}{La porte est verrouillée.}
+{103}{}{Tu déverrouilles la porte.}
+{104}{}{Tu fermes la porte à clé.}
+{105}{}{Tu ne parviens pas à crocheter la serrure de la porte.}
+{106}{}{Tu ne parviens pas à fermer la porte à clé.}
+{107}{}{Tu obtiens}

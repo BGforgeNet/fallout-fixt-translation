@@ -1,19 +1,19 @@
-{100}{}{This looks like the Force Field Control computer.}
-{101}{}{It appears to have a transmitter for field signaling, a receiver for remote commands, and a standard radio data communications port.}
-{102}{}{As you activate the computer, you can hear a low-pitched hum throughout the complex.}
-{103}{}{You do not use the computer properly.}
-{104}{}{You cannot deactivate the computer. All the controls are locked and encrypted.}
-{105}{}{You don't understand the operating system.}
-{106}{}{The force field subsystems are not nearly protected well enough against talent of your caliber. You turn off all the force fields on this level.}
-{107}{}{The force field subsystems are well protected, but you manage to turn off half of them. It's the best you can do.}
-{108}{}{The force field subsystems are protected against electronic intrusion. You spend some time working on it, but haven't broken them yet.}
-{109}{}{You break the bank in a game of 21 and sneak into the main system through the end game screen.}
-{110}{}{You play a game of 21, but aren't good enough to break it.}
-{111}{}{The only folder not protected is the Recreational Games folder, which might be used as a backdoor.}
-{112}{}{The only folder not protected is the Recreational Games folder.}
-{113}{}{You look at the computer in disgust.}
-{114}{}{You think all the folders are protected, but you haven't completed your search.}
-{115}{}{You have broken into the main system and now need to reprogram the force field controls.}
-{116}{}{You earn 800 experience for your unusual hacking procedures. Blackjack!}
-{117}{}{You link the radio into the Force Field Control computer.}
-{118}{}{Your attempt to wire the radio into the computer fails.}
+{100}{}{Ceci ressemble à l'ordinateur de Contrôle de Champ.}
+{101}{}{Il semble être doté d'un émetteur pour la transmission de champs, d'un récepteur pour les commandes à distance et d'un port de communications de données radio standard.}
+{102}{}{Lorsque l'ordinateur de Contrôle de Champ est activé, un ronflement sourd se fait entendre dans tout le complexe.}
+{103}{}{Tu n'utilises pas correctement l'ordinateur.}
+{104}{}{Tu ne peux pas désactiver l'ordinateur de Contrôle de Champ. Toutes les commandes sont verrouillées et codées.}
+{105}{}{Tu ne comprends pas le système d'exploitation de l'ordinateur.}
+{106}{}{Les sous-systèmes du champ de force ne résistent pas à tes talents. Tu désactives tous les champs de forces de ce niveau.}
+{107}{}{Les sous-systèmes du champ de force sont bien protégés, mais tu parviens à en désactiver la moitié. C'est le mieux que tu puisses faire.}
+{108}{}{Les sous-systèmes du champ de force sont protégés contre toute intrusion électronique. Tu passes un certain temps à y travailler, mais tu ne parviens toujours pas à les désactiver.}
+{109}{}{Tu fais sauter la banque au jeu du 21 et tu entres dans le système principal via l'écran de fin du jeu.}
+{110}{}{Tu joues une partie de 21, mais tu ne parviens pas à faire sauter la banque.}
+{111}{}{Le seul dossier non protégé est le dossier Jeux, qui peut être utilisé comme porte de sortie.}
+{112}{}{Le seul dossier non protégé est le dossier Jeux.}
+{113}{}{Tu regardes l'ordinateur d'un air dégoûté.}
+{114}{}{Tu penses que tous les dossiers sont protégés, mais tes recherches ne sont pas encore terminées.}
+{115}{}{Maintenant que tu as atteint le système principal, tu dois reprogrammer les commandes du champ de force.}
+{116}{}{points d'expérience pour tes procédures de piratage informatique insolites. Quine !}
+{117}{}{Tu connectes la radio à l'ordinateur de contrôle de champ de force.}
+{118}{}{Ta tentative de connexion de la radio à l'ordinateur échoue.}

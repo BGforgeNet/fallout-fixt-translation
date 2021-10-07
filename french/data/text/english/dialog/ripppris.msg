@@ -1,7 +1,7 @@
-{100}{}{You see a hapless prisoner.}
-{101}{}{These people are crazy here. Help me get out of here!}
-{102}{}{No way!}
+{100}{}{Tu vois un prisonnier malchanceux.}
+{101}{}{Ces gens sont fous. Aide-moi à sortir d'ici !}
+{102}{}{Ca ne risque pas !}
 {103}{}{Die!}
-{104}{}{Okay.}
-{105}{}{Oh, thank you. Thank you. Goodbye!}
-{106}{}{But... }
+{104}{}{D'accord.}
+{105}{}{Oh, merci. Merci à toi. Au revoir !}
+{106}{}{Mais... }

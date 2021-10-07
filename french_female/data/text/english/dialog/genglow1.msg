@@ -1,4 +1,4 @@
-{100}{}{You see: Glowing Ghoul.}
-{101}{}{Arrrr!}
-{102}{}{Mmmm!}
+{100}{}{Voici un Goule rayonnant.}
+{101}{}{Arrrr !}
+{102}{}{Humm !}
 {103}{}{Uck!}

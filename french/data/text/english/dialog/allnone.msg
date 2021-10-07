@@ -1,11 +1,11 @@
-{100}{}{You see: Mitch, of the All-N-One store.}
-{101}{}{How may I help you today?}
-{102}{}{I'd like to buy something.}
-{103}{}{I'd like to sell something.}
-{104}{}{Nothing. Thanks.}
-{105}{}{Runk.}
-{106}{}{Great. Here's what I have.}
-{107}{}{Great, always looking for new things.}
-{108}{}{Sorry, I can't understand you. Come back when you get more of a brain.}
-{109}{}{Thanks. Come again.}
-{110}{}{You see: Jake, the arms dealer.}
+{100}{}{Voici Mitch du Grand Bazar.}
+{101}{}{Je peux t'aider ?}
+{102}{}{Je voudrais acheter quelque chose.}
+{103}{}{Je voudrais vendre quelque chose.}
+{104}{}{Rien. Merci.}
+{105}{}{Zou.}
+{106}{}{Très bien. Voici ce que j'ai en rayon.}
+{107}{}{Très bien, je suis toujours à l'affût des nouveautés.}
+{108}{}{Désolé, mais je ne comprends rien. Repasse quand tu auras appris le français.}
+{109}{}{Merci. A bientôt.}
+{110}{}{Voici Jake, le Trafiquant d'Armes.}

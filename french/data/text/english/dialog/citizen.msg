@@ -1,15 +1,15 @@
-{100}{}{You see a citizen of Shady Sands.}
-{101}{}{Welcome to Shady Sands, stranger!}
-{102}{}{Uh, thanks.}
-{103}{}{What's the deal with this place?}
-{104}{}{Hnnnh!}
-{105}{}{We are a true community. We all work and share together.}
-{106}{}{How do you survive out here?}
-{107}{}{Who's your leader?}
-{108}{}{We have farms and irrigation, and we herd brahmin. Everybody contributes their skills to making something useful.}
-{109}{}{Aradesh is our current elder. With his experience, he helps to lead the community.}
-{110}{}{Hi.}
-{111}{}{Hello.}
-{112}{}{How are you?}
-{113}{}{Nice to see you.}
-{114}{}{Good day.}
+{100}{}{Voici un citoyen des Sables Ombragés.}
+{101}{}{Bienvenue aux Sables Ombragés !}
+{102}{}{Euh, merci.}
+{103}{}{Que se passe-t-il ici ?}
+{104}{}{Hein !}
+{105}{}{Nous sommes une véritable communauté. Nous travaillons ensemble et nous partageons tout.}
+{106}{}{Comment faites-vous pour survivre ici ?}
+{107}{}{Qui est votre chef ?}
+{108}{}{Nous avons des fermes et un système d'irrigation, et nous élevons des Brahmines. Chacun apporte sa contribution pour être utile à la communauté.}
+{109}{}{Aradesh est notre doyen. Grâce à son expérience, il nous aide à gérer la communauté.}
+{110}{}{Salut.}
+{111}{}{Bonjour.}
+{112}{}{Comment ça va ?}
+{113}{}{Ca fait plaisir de te voir.}
+{114}{}{Bonne journée.}

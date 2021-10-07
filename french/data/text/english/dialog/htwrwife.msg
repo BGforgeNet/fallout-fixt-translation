@@ -1,7 +1,7 @@
-{100}{}{You see: Hightower's wife.}
-{101}{}{Oh, hello. You must be one of my husband's associates.}
-{102}{}{Hello again.}
-{103}{}{My God!!! Someone's in the house!!!}
-{104}{}{Take what you want! Just leave!}
-{105}{}{How did you get in?!}
-{106}{}{Guards!!! Help me!!!}
+{100}{}{Voici la femme de Hightower.}
+{101}{}{Bonjour. Tu dois être un des associés de mon mari.}
+{102}{}{Rebonjour.}
+{103}{}{Mon dieu !! Il y a quelqu'un chez moi !!}
+{104}{}{Prends tout ce que tu veux ! Mais va-t'en !}
+{105}{}{Comment as-tu fait pour entrer ?!?}
+{106}{}{Gardes !! A l'aide !!}

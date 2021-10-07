@@ -1,27 +1,27 @@
-{100}{}{You see one of Shady Sands' guards.}
-{101}{}{Hey, I think you'd better be leaving. We don't want your kind here.}
-{102}{}{I can't believe that Tandi has disappeared. I hope you are going to find her. It would really hurt Aradesh if something bad happened to her.}
-{103}{}{Thanks for returning Tandi. It's a good sign for the future, don't you think?}
-{104}{}{That's a damn shame about Tandi. I hope Aradesh will be okay.}
-{105}{}{Welcome, stranger. We don't see your kind often.}
-{106}{}{Uh, thanks. Bye.}
-{107}{}{Why not?}
-{108}{}{Hnnng!}
-{109}{}{Not so fast! This is a small community. We don't see strangers often, and we don't really need them if you get my meaning. If you don't have a good reason to be here, you'd better just keep moving.}
-{110}{}{Hey, I ain't gonna hurt anybody.}
-{111}{}{Uh.}
-{112}{}{I wasn't saying that you was gonna. You'd just better leave us alone.}
-{113}{}{I'll try not to make trouble.}
-{114}{}{I'm sick and tired of your trash. Prepare to meet your maker.}
-{115}{}{Look, Shady Sands don't need your kind from the Hub, or Junktown, or wherever you come from. We do pretty good by ourselves.}
-{116}{}{The last trader from the Hub sold us a malfunctioning irrigation pump. We've had it with your dirty deals.}
-{117}{}{You got it all wrong. I'm not like that.}
-{118}{}{Yeah, right. So you say. Just don't get into any trouble, okay?}
-{119}{}{No problem.}
-{120}{}{Yeah, whatever.}
-{121}{}{Well, maybe you aren't. You do seem a little different to me. I'll tell you what. You should go talk to Aradesh. He is in the center of town.}
-{122}{}{We don't want your kind here. Go back to wherever you came from.}
-{123}{}{Hey, no need for weapons. We don't look too kindly on those around here.}
-{124}{}{Hey, you didn't turn out to be such a bad person after all. Have a nice day.}
-{125}{}{I really wish you would just leave town.}
+{100}{}{Voici un des gardes des Sables Ombragés.}
+{101}{}{Hé, je crois que tu devrais partir. Nous n'aimons pas les gens comme toi ici.}
+{102}{}{Je ne peux pas croire que Tandi ait disparu. J'espère que tu vas la retrouver. Aradesh serait très peiné si quelque chose lui arrivait.}
+{103}{}{Merci d'avoir ramené Tandi. C'est un bon présage pour le futur, tu ne crois pas ?}
+{104}{}{Quelle tristesse pour Tandi ! J'espère qu'Aradesh va s'en remettre.}
+{105}{}{Bienvenue, nomade. Nous ne voyons pas souvent des gens dans ton genre ici.}
+{106}{}{Euh, merci. Au revoir.}
+{107}{}{Et pourquoi ça ?}
+{108}{}{Grrr !}
+{109}{}{Pas si vite ! Nous sommes une petite communauté. Nous ne voyons pas souvent d'étrangers et nous n'avons pas vraiment besoin d'eux, si tu vois ce que je veux dire. Si tu n'as pas une bonne raison d'être ici, passe ton chemin.}
+{110}{}{Hé, mais je n'ai pas l'intention de vous faire du mal.}
+{111}{}{Euh...}
+{112}{}{Ce n'est pas ce que j'ai dit. Laisse-nous tranquille, c'est tout.}
+{113}{}{Je vais faire attention à ne pas vous déranger.}
+{114}{}{J'en ai assez de tes conneries. Prépare-toi à rencontrer ton créateur.}
+{115}{}{Ecoute, les Sables Ombragés n'ont pas besoin de gens de ton espèce venant du Centre, de Dépôtville ou de je ne sais où. Nous nous débrouillons très bien seuls.}
+{116}{}{Le dernier marchand du Centre à être venu ici nous a vendu une pompe d'irrigation inutilisable. Nous en avons assez de vos coups foireux.}
+{117}{}{Tu te trompes sur toute la ligne. Je ne suis pas comme ça.}
+{118}{}{Ouais, d'accord. Si tu le dis. Mais ne cherche pas d'ennuis, ok ?}
+{119}{}{Aucun problème.}
+{120}{}{Ouais comme tu veux.}
+{121}{}{Eh bien, peut-être. C'est vrai que tu n'es pas comme les autres. Tu veux que je te dise ? Tu devrais parler à Aradesh. Il est au centre-ville.}
+{122}{}{Nous ne voulons pas de gens de ton espèce ici. Retourne d'où tu viens.}
+{123}{}{Hé, pas besoin d'armes. Nous n'aimons pas beaucoup les gens qui traînent dans le coin.}
+{124}{}{Hé, tu n'as pas l'air si terrible après tout. Bonne journée.}
+{125}{}{J'aimerais vraiment que tu quittes la ville.}
 {126}{}{[Plus]}

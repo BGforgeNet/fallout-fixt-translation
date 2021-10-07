@@ -1,16 +1,16 @@
-{100}{}{You see a Hub guard.}
-{101}{}{Can I help you?}
-{102}{}{Yes. Could you tell me where I am?}
-{103}{}{Goodbye.}
-{104}{}{Uhhhhhhh. Huh huh. Uhhhhh. Huh.}
-{105}{}{Man, you're dumber than a bag of hammers, aren't you? Get outta' here}
-{106}{}{You're in the south end of the Hub. If you look around, you'll find the Water Merchants and a small hospital.}
-{107}{}{Who are the Water Merchants?}
-{108}{}{A hospital?}
-{109}{}{Thank you. Bye.}
-{110}{}{Those bastards. They think they own the damn Hub just because they have control of the water tower.}
-{111}{}{A hospital?}
-{112}{}{Thank you. Bye.}
-{113}{}{The Children of the Cathedral run a small hospital here in the Hub. They seem like a decent bunch.}
-{114}{}{Who are the Water Merchants?}
-{115}{}{Thank you. Bye.}
+{100}{}{Voici un garde du Centre.}
+{101}{}{Je peux t'aider ?}
+{102}{}{Oui. Pourrais-tu me dire où je suis ?}
+{103}{}{Au revoir.}
+{104}{}{Euhhhhhhh. Euh euh. Euhhhhh. Euh.}
+{105}{}{Mince, il te manque une case ou quoi ?! Débarrasse le plancher !}
+{106}{}{Tu te trouves à l'extrémité Sud du Centre. Si tu regardes autour de toi, tu verras les Marchands d'Eau et un petit hôpital.}
+{107}{}{Qui sont les Marchands d'Eau ?}
+{108}{}{Un hôpital ?}
+{109}{}{Merci. Au revoir.}
+{110}{}{Les salauds ! Ils pensent que le Centre leur appartient juste parce qu'ils contrôlent le château d'eau.}
+{111}{}{Un hôpital ?}
+{112}{}{Merci. Au revoir.}
+{113}{}{Les Enfants de la Cathédrale dirigent un petit hôpital ici dans le Centre. Ils semblent former une bonne équipe.}
+{114}{}{Qui sont les Marchands d'Eau ?}
+{115}{}{Merci. Au revoir.}

@@ -1,65 +1,65 @@
-{100}{}{You see a small child.}
-{101}{}{Hi!}
-{102}{}{Hello.}
-{103}{}{Where are your parents?}
+{100}{}{Voici un petit enfant.}
+{101}{}{Salut !}
+{102}{}{Bonjour.}
+{103}{}{Où sont tes parents ?}
 {104}{}{Erf.}
-{105}{}{I dunno. Around here somewhere.}
-{106}{}{You're funny!}
-{107}{}{Hey, are you gonna kill someone?}
-{108}{}{Yes.}
-{109}{}{No!}
+{105}{}{Ché pas. Quelque part par là.}
+{106}{}{Tu es drôle !}
+{107}{}{Hé, tu vas tuer quelqu'un ?}
+{108}{}{Oui.}
+{109}{}{Non !}
 {110}{}{Erf.}
-{111}{}{I'm gonna tell my mommy!}
-{112}{}{Then you shouldn't carry around a weapon like that.}
+{111}{}{J'vais l'dire à ma maman !}
+{112}{}{Alors tu devrais pas porter ton arme comme ça}
 {200}{}{Sorry, mister.}
 {201}{}{Sorry, ma'am.}
-{300}{}{You see: Boy.}
-{301}{}{You see: Girl.}
-{980}{}{Huh?}
-{981}{}{I dunno. Ask mommy.}
-{982}{}{Ask daddy.}
+{300}{}{Papa est juste là ! Tu le vois pas ?}
+{301}{}{Maman est juste là ! Tu la vois pas ?}
+{980}{}{Hein ?}
+{981}{}{Ché pas. Demande à ma maman.}
+{982}{}{Demande à mon papa.}
 {1000}{}{Deathclaw}
-{1001}{}{Raiders}
+{1001}{}{Pillards|Pillards|Khans|Khan}
 {1002}{}{Dépôtville}
-{1003}{}{Brahmin}
-{1004}{}{Chip}
-{1005}{}{Merchants}
+{1003}{}{Brahmine}
+{1004}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
+{1005}{}{Marchands|Marchand}
 {1006}{}{Khans}
 {1007}{}{Garl}
 {1008}{}{Sables Ombragés}
-{1009}{}{Hub}
+{1009}{}{Centre}
 {1010}{}{Tandi}
 {1011}{}{Aradesh}
 {1012}{}{Seth}
 {1013}{}{Razlo}
 {1014}{}{Police}
-{1015}{}{Caravans}
-{1016}{}{Traders}
-{1017}{}{Children}
+{1015}{}{Caravanes}
+{1016}{}{Marchands}
+{1017}{}{Enfants}
 {1018}{}{Nécropolis}
-{1019}{}{Spot}
-{1020}{}{Brotherhood}
-{1021}{}{Boneyard}
+{1019}{}{Rouge}
+{1020}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1021}{}{Cimetière de L.A.}
 {1022}{}{Towers}
-{1023}{}{Town}
+{1023}{}{Ville}
 {1024}{}{Downtown}
-{1025}{}{Heights}
-{1026}{}{The Boneyard}
+{1025}{}{Hauteurs}
+{1026}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1027}{}{L.A. Boneyard}
-{1100}{}{Wah! Nightmare monster!}
-{1101}{}{Big meanies!}
-{1102}{}{I dunno.}
-{1103}{}{Big stinkies.}
-{1104}{}{Ask mommy.}
-{1105}{}{Funny sea songs.}
-{1106}{}{Big meanies!}
-{1107}{}{Bad man.}
-{1108}{}{I'm not tellin' ya.}
-{1109}{}{Big city.}
-{1110}{}{I'm not tellin'.}
-{1111}{}{Nope, not gonna tell ya.}
-{1112}{}{Mommy doesn't want me to talk about him.}
-{1113}{}{Daddy thinks he's funny.}
+{1100}{}{Ouah ! Un monstre cauchemardesque !}
+{1101}{}{Méchants !}
+{1102}{}{Je ne sais pas.}
+{1103}{}{Des gros trucs qui puent.}
+{1104}{}{Demande à ma maman.}
+{1105}{}{Drôles de chants de marins.}
+{1106}{}{Méchants !}
+{1107}{}{Sale type.}
+{1108}{}{J'te l'dirai pas.}
+{1109}{}{Grande ville.}
+{1110}{}{J'te l'dirai pas.}
+{1111}{}{Non, j' te dirai rien.}
+{1112}{}{Ma maman veut pas que je parle de lui.}
+{1113}{}{Mon papa trouve qu'il est bizarre.}
 {1114}{}{Big peoples.}
 {1115}{}{They have those stinkies that pull them.}
 {1116}{}{Nice people. They give me candy.}

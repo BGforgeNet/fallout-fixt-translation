@@ -1,29 +1,29 @@
-{100}{}{You see: Therax, a Thinker Nightkin.}
-{101}{}{You see: Justin, a Thinker Nightkin.}
-{102}{}{You see: Sereine, a Thinker Nightkin.}
-{103}{}{You see: Dolkarn, a Thinker Nightkin.}
-{104}{}{You see: Hort, a Thinker Nightkin.}
-{105}{}{You see: Chris, a Thinker Nightkin.}
-{106}{}{You see: Jaunita, a Thinker Nightkin.}
-{107}{}{You see: Lesley, a Thinker Nightkin.}
-{108}{}{You see: Renfield, a Thinker Nightkin.}
-{109}{}{You see: Timothy, a Thinker Nightkin.}
-{110}{}{Welcome Oh Punt One. You are just in time to help us.}
-{111}{}{Huh?}
-{112}{}{Sure. Not a problem}
-{113}{}{Sorry. Much too busy.}
-{114}{}{Why would I wish to assist you?}
-{115}{}{No matter simple one. Come with me, and I shall take you to the job.}
-{116}{}{That was not a request. Your presence will be made.}
-{117}{}{Are you not the one who seeks to bring peace to the wastelands?}
-{118}{}{Yes, however, I don't see how in aiding you how that will happen.}
-{119}{}{No. I prefer mass destruction.}
-{120}{}{We believe that if everyone, mutants and humans, could learn to work together, then a great many problems could be resolved.}
-{121}{}{Sounds promising. Count me in.}
-{122}{}{Forget it.}
-{123}{}{Something doesn't sound right about this.}
-{124}{}{Everything is perfectly fine. Perhaps it is the limited scope of your cranium which deters your advancement in thought.}
-{125}{}{You are probably correct. Count me in.}
-{126}{}{Mayhaps. Let me inspect your skull.}
-{127}{}{If that is your desire, then you shall have your fill.}
-{128}{}{Welcome back. You shall now assist us.}
+{100}{}{Tu vois Therax, un Ténébreux d'élite.}
+{101}{}{Tu vois Justin, un Ténébreux d'élite.}
+{102}{}{Tu vois Sereine, un Ténébreux d'élite.}
+{103}{}{Tu vois Dolkarn, un Ténébreux d'élite.}
+{104}{}{Tu vois Hort, un Ténébreux d'élite.}
+{105}{}{Tu vois Chris, un Ténébreux d'élite.}
+{106}{}{Tu vois Jaunita, un Ténébreux d'élite.}
+{107}{}{Tu vois Lesley, un Ténébreux d'élite.}
+{108}{}{Tu vois Renfield, un Ténébreux d'élite.}
+{109}{}{Tu vois Timothy, un Ténébreux d'élite.}
+{110}{}{Bienvenue ô travailleur. Tu arrives juste à temps pour nous aider.}
+{111}{}{Hein ?}
+{112}{}{Ok. D'accord.}
+{113}{}{Désolé. Je suis bien trop occupé.}
+{114}{}{Pourquoi je vous aiderais ?}
+{115}{}{Aucune importance. Viens avec moi, je vais te mettre au travail.}
+{116}{}{Ce n'était pas une requête. Tu vas nous aider.}
+{117}{}{Tu n'es pas celui qui cherche à ramener la paix dans le désert ?}
+{118}{}{Oui, sauf que je vois pas en quoi vous aider aménera la paix.}
+{119}{}{Non. Je préfère la destruction de masse.}
+{120}{}{Nous pensons qui si tout le monde, Ténébreuxs et humains, pouvaient apprendre à travailler ensemble, nous pourrions résoudre beaucoup de problèmes.}
+{121}{}{Ca à l'air intéressent. J'en suis.}
+{122}{}{Oublie ça.}
+{123}{}{Il y a quelque chose qui sonne faux dans tout ça.}
+{124}{}{Tout va très bien. Peut-être que ton intelligence limitée empêche ta conscience d'évoluer.}
+{125}{}{Tu as probablement raison. J'en suis.}
+{126}{}{Peut-être. Laisse-moi inspecter ton crâne...}
+{127}{}{Si c'est ton désir, alors tu es comblé.}
+{128}{}{Bienvenue à nouveau. Tu pourrais nous aider maintenant.}

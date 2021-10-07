@@ -1,28 +1,28 @@
-{100}{}{You see a peasant.}
-{101}{}{Thanks for getting rid of the gangs, but without the generator, we are going to have a worse life.}
-{102}{}{I'm cold.}
-{103}{}{I want some lights.}
-{104}{}{We should thank you, I think.}
-{105}{}{If you don't kill all the gangs, they are going to take their revenge on us!}
-{106}{}{You started this bloodbath, you finish it.}
-{107}{}{I would help, but I have this bad knee.}
-{108}{}{This is all your fault.}
-{109}{}{Violence doesn't stop anything.}
-{110}{}{I thought you were a good guy.}
-{111}{}{Just another Crypt. I suppose you are going to hurt me now.}
-{112}{}{I won't cause trouble.}
-{113}{}{Please leave me alone.}
-{114}{}{I heard you joined the Fools.}
-{115}{}{It's a Fool! Oops, I didn't mean it that way.}
-{116}{}{I won't cause any trouble.}
-{117}{}{Please leave me alone.}
-{118}{}{I promise to laugh at your jokes.}
-{119}{}{I'm hungry.}
-{120}{}{Where have all the good people gone?}
-{121}{}{Is Phil still having trouble with that dog?}
-{122}{}{Scrapheap is going to blow away into the desert wind, if those gangs have their way.}
-{123}{}{It's cold at night without the heaters.}
-{124}{}{Those Brahmin sure do stink during the summer.}
-{125}{}{Electricity, electricity.}
-{126}{}{Hi.}
-{127}{}{[done]}
+{100}{}{Voici un paysan.}
+{101}{}{Merci de t'être débarassé de ces voyous, mais sans générateur, notre vie risque de devenir encore plus misérable.}
+{102}{}{J'ai froid.}
+{103}{}{J'ai besoin de lumière.}
+{104}{}{Je devrais te remercier... Je crois...}
+{105}{}{Si tu ne tue pas tout les gangs, ils vont se venger sur nous!}
+{106}{}{Tu as commencé ce massacre. Termine-le.}
+{107}{}{Je t'aiderais bien, mais mon genou me fait souffrir.}
+{108}{}{Tout est de ta faute.}
+{109}{}{La violence ne résout rien.}
+{110}{}{Je pensais que tu étais un type bien.}
+{111}{}{Encore un Crypt. J'imagine que tu vas aussi t'en prendre a moi.}
+{112}{}{Je me tiendrais a carreaux.}
+{113}{}{S'il te plait. Laisse-moi tranquille.}
+{114}{}{J'ai apris que tu avais rejoins les Fools.}
+{115}{}{Mais quel idiot ! Oups, ce n'est pas ce que je voulais dire...}
+{116}{}{Je me tiendrais à carreaux.}
+{117}{}{S'il te plait. Laisse-moi tranquille.}
+{118}{}{Je te promet de rire à tes blagues !}
+{119}{}{J'ai faim.}
+{120}{}{Où sont parti les gens bien ?}
+{121}{}{Phil a-t-il toujours des ennuis avec ce chien ?}
+{122}{}{Scrapheap va finir par exploser si ces bandits continuent dans cette direction.}
+{123}{}{Les nuits sont fraîches, sans chauffage.}
+{124}{}{Les Brahmines sentent sacrément mauvais en été...}
+{125}{}{Électricité, électricité.}
+{126}{}{Salut.}
+{127}{}{[Fait]}

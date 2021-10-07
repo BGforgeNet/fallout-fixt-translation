@@ -1,3 +1,3 @@
-{100}{}{You find a hidden latch and unlock it.}
-{101}{}{The bookshelf slides quietly out of the way.}
-{102}{}{It shows signs of being recently greased.}
+{100}{}{Tu découvres un loquet et tu l'ouvres.}
+{101}{}{L'étagère pivote lentement.}
+{102}{}{On voit qu'elle a été graissée récemment.}

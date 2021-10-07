@@ -1,26 +1,26 @@
-{100}{}{You see a Nightkin.}
+{100}{}{Voici un Ténébreux.}
 {101}{}{Die!}
-{102}{}{Leave me or die!}
-{103}{}{I don't like your tone. If my message does not get to the Master, I will see to it that your death is slow and painful.}
-{104}{}{I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though...}
-{105}{}{Could you direct me to the man in charge?}
-{106}{}{Man, you could use a drink worse than me!}
-{107}{}{I'm not leaving!}
-{108}{}{Okay. Me leave.}
-{109}{}{It is unwise to play games with the Nightkin. Get out of here!}
-{110}{}{I do not think so.}
-{111}{}{I shall enjoy watching you die!}
-{112}{}{Do you not listen? It is unwise to ignore the Nightkin.}
-{113}{}{I must talk with you. It's urgent!}
-{114}{}{Nobody's ever accused me of being wise!}
-{115}{}{I just want to speak with the man in charge!}
-{116}{}{You supposed to be tough or something?}
-{117}{}{I'm sorry! Have a good day.}
-{118}{}{You wanna see unwise? It's unwise to give me lip, asshole!}
-{119}{}{Go upstairs. Others of my kind will judge the worth of your message.}
-{120}{}{This is your last warning!}
-{121}{}{Sure it is! Big deal...}
-{122}{}{I REALLY need to speak with the guy in charge!}
-{123}{}{Okay! Okay! I'm sorry! Have a good day.}
-{124}{}{You know what your mistake is? You give warnings. I don't. Die!}
-{125}{}{[Done]}
+{102}{}{Laisse-moi ou meurs !}
+{103}{}{Je n'aime pas le ton que tu emploies. Si mon message ne parvient pas au Maître, je te réserverai une mort lente et atroce.}
+{104}{}{Je voulais juste te complimenter sur la superbe bosse de ton dos. Quant à ta respiration...}
+{105}{}{Peux-tu m'indiquer l'homme qui s'occupe de cet endroit ?}
+{106}{}{Tu sais, il y a pire que moi !}
+{107}{}{Je reste !}
+{108}{}{Ok. Je m'en vais.}
+{109}{}{C'est une erreur d'affronter les Ténébreux. Va-t-en !}
+{110}{}{Je ne pense pas.}
+{111}{}{Je prendrai un réel plaisir à te voir mourir !}
+{112}{}{Tu écoutes ? C'est déconseillé d'ignorer les Ténébreux.}
+{113}{}{Je dois te parler. C'est urgent !}
+{114}{}{Personne ne m'a jamais accusé de prudence !}
+{115}{}{Je veux juste parler à la personne qui s'occupe de cet endroit !}
+{116}{}{Tu es censé être un dur ou quoi ?}
+{117}{}{Excuse-moi. Passe une bonne journée.}
+{118}{}{Tu te moques de moi ? Tu as tort de te moquer de moi, crevure !}
+{119}{}{Monte. Mes amis évalueront l'importance de ton message.}
+{120}{}{Dernier avertissement !}
+{121}{}{Certainement ! Une bonne affaire...}
+{122}{}{Je dois IMPERATIVEMENT parler à la personne qui s'occupe de cet endroit !}
+{123}{}{Ok ! Ok ! Excuse-moi ! Passe une bonne journée.}
+{124}{}{Tu sais quelle est ton erreur ? Tu donnes des avertissements. Moi, pas. Meurs !}
+{125}{}{[Terminé]}

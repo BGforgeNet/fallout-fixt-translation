@@ -1,2 +1,2 @@
-{100}{}{The newspaper headline reads: "Daily Life in the Village".}
-{101}{}{The newspaper machine is inexplicably jammed shut. It is very frustrating.}
+{100}{}{Sur le journal, on lit en gros titre : "La vie quotidienne au village".}
+{101}{}{Le distributeur de journaux est curieusement bloqué. C'est très ennuyeux.}

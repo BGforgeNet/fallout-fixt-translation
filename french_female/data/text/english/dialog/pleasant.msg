@@ -1,8 +1,8 @@
-{100}{}{You see a peasant.}
-{101}{}{I got nothing to say to you, stranger.}
-{102}{}{The brahmin sure do stink this time of year.}
-{103}{}{We still need to expand the irrigation.}
-{104}{}{Don't bother me.}
-{105}{}{I hear the radscorpions killed again last night.}
-{106}{}{Got any brahma burgers?}
-{107}{}{Haven't been attacked by raiders recently. Lucky, I guess.}
+{100}{}{Voici un paysan.}
+{101}{}{J'ai rien à te dire.}
+{102}{}{Les brahmines puent sacrément en cette saison.}
+{103}{}{Il faut qu'on améliore le système d'irrigation.}
+{104}{}{Ne me dérange pas.}
+{105}{}{Il paraît que les radscorpions ont encore tué cette nuit.}
+{106}{}{T'aurais pas des steaks de brahmine ?}
+{107}{}{On n'a pas eu d'attaques de pillards ces temps-ci. Sans doute un coup de pot.}

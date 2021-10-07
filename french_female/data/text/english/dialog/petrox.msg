@@ -1,30 +1,30 @@
-{100}{}{You see a tough-looking desert bandit. Based on how the others look at him, he must have some position of importance or authority.}
-{101}{}{Greetings! I am Petrox. I am one of Garl's lead raiders. Who are you?}
-{102}{}{I'm }
-{103}{}{. What do you do as a raider?}
-{104}{}{My name is unimportant at the moment. Can you tell me something about your camp?}
-{105}{}{Hroo?}
-{106}{}{As a raider, I get to travel to many parts of the wasteland. In my travels, I get supplies for the camp.}
-{107}{}{In other words, you steal from the people you go to.}
-{108}{}{Hey, that's really great of you. I'm sure that Garl is pleased with you.}
-{109}{}{What places have you been to?}
-{110}{}{Well, it's nice that you think that you are so important that you don't need a name to go around here. But, I will at least tell you a little about us. We are the toughest people in the wastelands. No one can stand against us. Not even those wimps from Shady Sands or Junktown.}
-{111}{}{What about Shady Sands?}
-{112}{}{What is Junktown?}
-{113}{}{I am sorry, but I don't have time to waste on those who are slow. Goodbye.}
-{114}{}{We never steal. We just take the extra that others have and redistribute it amongst ourselves.}
-{115}{}{So, basically, you steal it.}
-{116}{}{That sounds like a really great idea.}
-{117}{}{I've been to many places in the wastelands. The closest places that I've been to are Shady Sands and Junktown. Not much happens in those places, but they are always full of information and supplies.}
-{118}{}{Tell me about Shady Sands.}
-{119}{}{Tell me about Junktown.}
-{120}{}{You are starting to become annoying now. I think I will end that slight problem.}
-{121}{}{Shady Sands is a fertile community. They are happy to, um, share their bounty with us.}
-{122}{}{What can you tell me about Junktown?}
-{123}{}{Junktown is a little bit south of here. They have many good women.}
-{124}{}{Junktown is a little bit south of here. They have many good women. Say... I can show you around sometime, maybe we can get to know each other better... whaddya say?}
-{125}{}{No thanks, maybe some other time.}
-{126}{}{Sure, maybe later.}
-{127}{}{Well, maybe later.}
-{128}{}{I have told you all that I am permitted. Please go.}
-{200}{}{You see: Petrox, the Khans' lead scav.}
+{100}{}{Tu vois un homme à l'aspect brutal. Vu la façon qu'on les autres de le regarder, il ne fait aucun doute qu'il est quelqu'un d'important ici.}
+{101}{}{Salut ! Je suis Petrox, un des chefs pillards de Garl. Qui es-tu ?}
+{102}{}{Je m'appelle }
+{103}{}{. Ca consiste en quoi, ton boulot de pillard ?}
+{104}{}{Peu importe mon nom. Parle-moi de ton camp.}
+{105}{}{Qqqui ?}
+{106}{}{Je voyage beaucoup à travers le désert et j'en profite pour ravitailler le camp.}
+{107}{}{Ouais, enfin, tu voles les gens quoi.}
+{108}{}{Hé, c'est sympa de ta part. Il est clair que Garl doit être content de toi.}
+{109}{}{Quels endroits as-tu visité ?}
+{110}{}{Eh, c'est bien de croire que ta célébrité te dispense de te nommer. Bon, je vais quand même te parler de nous. On est les durs de ce désert. Personne ne nous résiste. Pas même ces minus des Sables Ombragés ou de Dépôtville.}
+{111}{}{Et les Sables Ombragés ?}
+{112}{}{Et Dépôtville ?}
+{113}{}{Je regrette, mais j'ai pas de temps à perdre avec des débiles. Salut.}
+{114}{}{On vole jamais. On prend seulement ce que les autres ont en trop pour le redistribuer aux affamés.}
+{115}{}{Mais cela s'appelle du vol !}
+{116}{}{Cela semble être une très bonne idée !}
+{117}{}{J'ai déjà vu beaucoup d'endroits dans le désert. Les plus proches : les Sables Ombragés et Dépôtville. Sans grand intérêt, mais on y trouve toujours plein d'infos et de ravitaillement.}
+{118}{}{Parle-moi des Sables Ombragés.}
+{119}{}{Parle-moi de Dépôtville.}
+{120}{}{Tu commences à m'agacer. Je pense que je vais mettre un terme à ce petit problème.}
+{121}{}{Les Sables Ombragés, une communauté fertile. Ils sont ravis de, euh, partager leurs biens avec nous.}
+{122}{}{Que peux-tu me dire sur Dépôtville ?}
+{123}{}{Dépôtville, juste un peu au Sud. Plein de femmes super !}
+{124}{}{Dépôtville, juste un peu au Sud. Plein de femmes super ! Ah... j'peux t'faire visiter un jour, ça serait une occasion de se connaître... Ca t'dit ?}
+{125}{}{Non merci, une autre fois peut-être.}
+{126}{}{D'accord, un autre jour peut-être.}
+{127}{}{Euh, plus tard peut-être.}
+{128}{}{Je t'ai dit tout ce que j'ai droit de dire. Maintenant, décampe.}
+{200}{}{Voici Petrox, meneur de raids des Khans.}

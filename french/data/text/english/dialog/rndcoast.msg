@@ -1,23 +1,23 @@
-{101}{}{You see several odd-looking floating creatures...}
-{102}{}{You are suddenly attacked by a swarm of mutated manti!}
-{103}{}{You are suddenly attacked by a swarm of mutated manti!}
-{104}{}{You see a group of peasants being attacked by raiders!}
-{105}{}{A swarm of rats is rapidly approaching!}
-{106}{}{You see a few people out fishing.}
-{107}{}{There is a grisly corpse nearby that's been partially eaten. You've just lost your appetite.}
+{101}{}{Une nuée de rats fonce sur toi !}
+{102}{}{Soudain, une nuée de mantes mutantes t'attaque !}
+{103}{}{Soudain, une nuée de mantes mutantes t'attaque !}
+{104}{}{Un horrible cadavre partiellement dévoré se trouve non loin d'ici.}
+{105}{}{Tu trébuches dans un sorte de flaque d'eau.}
+{106}{}{Assoiffé, tu bois de l'eau... Elle a mauvais goût.}
+{107}{}{L'eau semble hautement radioactive et infecte.}
 {200}{}{You stumble upon some water pools.}
 {201}{}{Out of dire thirst, you drink some water... It doesn't taste so good.}
 {202}{}{The water looks highly radioactive and foul.}
 {203}{}{Ahhh...}
 {204}{}{Arrgg...}
 {205}{}{Yuck!}
-{1000}{}{You earn }
-{1001}{}{ experience for successful use of your Outdoorsman skill.}
+{1000}{}{Tu gagnes }
+{1001}{}{ points d'expérience pour avoir utilisé avec succès ta compétence Vie en plein air.}
 {1002}{}{Encounter: "}
 {1003}{}{"}
 {1004}{}{. Do you wish to engage?}
-{1005}{}{Yes.}
-{1006}{}{No.}
+{1005}{}{Oui.}
+{1006}{}{Non.}
 {1007}{}{}
 {1008}{}{}
 {1009}{}{}

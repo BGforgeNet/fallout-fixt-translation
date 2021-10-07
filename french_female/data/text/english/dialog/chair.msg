@@ -1,1 +1,1 @@
-{100}{}{This is no time to sit down! Get moving!}
+{100}{}{Ce n'est pas le moment de t'asseoir ! Avance !}

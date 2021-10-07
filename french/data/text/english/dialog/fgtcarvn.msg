@@ -1,121 +1,121 @@
-{100}{}{You see the Far Go Traders' caravan driver.}
-{101}{}{Hi, if you're wantin' a job on a caravan, you should talk to Rutger. He's just over there.}
-{102}{}{You're gonna need to talk to Rutger.}
-{103}{}{So you signed up. Good to hear it. So ya know, we leave just about every ten days. That's the 8th, 18th, and 28th of each month. Right now we're making runs to The Brotherhood, Junktown and the L.A. Boneyard.}
-{104}{}{So what's the pay?}
-{105}{}{Um.}
-{106}{}{You'll get 400 hub bucks. You might be sayin' that it ain't that much, but we go out often and you ain't gonna lose your life that easily. But you get that pay going each way, not that you have to go each way, but you'll get a total of 800 if you do.}
-{107}{}{ We're headin' out today. You interested?}
-{108}{}{ We take off on }
-{109}{}{Empty}
+{100}{}{Tu vois le conducteur de la Caravane des Marchands du Lointain.}
+{101}{}{Salut, si tu cherches à bosser sur une caravane, adresse-toi à Rutger. Il est là-bas.}
+{102}{}{Faut que tu causes à Rutger.}
+{103}{}{Alors tu t'es engagé, content de l'apprendre ! Comme tu le sais, on part tous les dix jours : le 8, le 18 et le 28 de chaque mois. Là maintenant, on met le cap sur la Confrérie, Dépôtville et le Cimetière de L.A.}
+{104}{}{Alors, quel est le salaire ?}
+{105}{}{Hmm.}
+{106}{}{400 caps. Tu trouves peut-être ça léger, mais on part souvent et y'a pas vraiment de risques. Ca, c'est pour l'aller, et tu ramasses 800 si tu fais aussi le retour.}
+{107}{}{Y'a un départ aujourd'hui. Ca t'intéresse ?}
+{108}{}{On part en }
+{109}{}{Vide}
 {110}{}{}
-{111}{}{. You interested?}
-{112}{}{I'll still give you a job, even though... never mind. Are you interested?}
-{113}{}{Sure.}
-{114}{}{No.}
-{115}{}{Maybe.}
-{116}{}{Yaya.}
-{117}{}{Tae?}
-{118}{}{Alrighty. Not a problem. Just let me know if you change your mind.}
-{119}{}{Would you just make up your mind?}
-{120}{}{Come back by if you end up looking for something to do. That's the 8th, 18th, and 28th. Bye.}
-{121}{}{Uh, it ain't gonna work if you can't tell your right foot from your left. Sorry big guy.}
-{122}{}{Head on back when you're feeling better.}
-{123}{}{Man, you don't seem to be doing well. You should get something in your stomach, just stay clear of Bob's.}
-{124}{}{Get on out of here!}
-{125}{}{Couldn't just leave my stuff alone, could you? Why did you do it?}
-{126}{}{Cuz I'm a mean, green motha from outer space, and I'm... 'bad'!}
-{127}{}{I didn't want to, but I'm starving and I have kids to feed.}
-{128}{}{I'll carve your heart out with a spoon!}
-{129}{}{[Surrender]}
-{130}{}{[Attack]}
-{131}{}{So you just spit in my face, huh? I guess the only way to get this through your thick skull is to remove it from that neck of yours.}
-{132}{}{Fine, but that don't make it right. You're still gonna have to get out of here.}
-{133}{}{You think I'd believe that crap? Guards!}
-{134}{}{Maybe putting you in the tank will give you a better set of manners. Are you gonna come quietly, or are we going to have to do this the hard way?}
-{135}{}{I'll see you in hell!}
-{136}{}{Yes. I'm sorry.}
-{137}{}{So you're a tough guy, huh? Just lookin' for another fight?}
-{138}{}{If you don't get out of here, I'm gonna call the cops!}
-{139}{}{Guards! Police!}
-{140}{}{I think you should leave...}
-{141}{}{Sorry, but I ain't gonna offer you a job.}
-{142}{}{I'd love to give you a job, but it's just not gonna happen.}
-{143}{}{Leave.}
-{144}{}{Pretty cute, but I'm not really into your kind.}
-{145}{}{Well okay then! It'll pay 400 hub bucks. Which route would you prefer?}
-{146}{}{Great to hear. Come back by on }
-{147}{}{8th}
-{148}{}{18th}
-{149}{}{28th}
+{111}{}{. Ca t'intéresse ?}
+{112}{}{Je vais quand même te donner du travail, même si... tant pis. Ca t'intéresse ?}
+{113}{}{Bien sûr.}
+{114}{}{Non.}
+{115}{}{Peut-être.}
+{116}{}{Ouais ouais.}
+{117}{}{Gné ?}
+{118}{}{Pas de problème. Fais-moi savoir si tu changes d'avis.}
+{119}{}{Bon, tu te décides ?}
+{120}{}{Reviens si tu cherches toujours un boulot. C'est le 8, le 18 et le 28. Salut.}
+{121}{}{Nan, ça le fera pas si tu sais même pas distinguer ta droite de ta gauche. Désolé.}
+{122}{}{Reviens quand tu te sentiras mieux.}
+{123}{}{T'as pas l'air dans ton assiette mec. Tu devrais te remplir l'estomac... évite seulement d'aller chez Bob.}
+{124}{}{Fous-moi le camp !}
+{125}{}{Peux-tu laisser mes affaires tranquilles ? Pourquoi tu fais ça ?}
+{126}{}{Parce que je suis un petit homme vert qui vient de l'espace Et je suis méchant !}
+{127}{}{Je n'en avais pas l'intention mais je meurs de faim et j'ai des enfants à nourrir.}
+{128}{}{Je vais te découper le coeur avec une cuillère !}
+{129}{}{[Reddition]}
+{130}{}{[Attaque]}
+{131}{}{Ah, tu m'craches à la figure, hein ? J'crois qu'le seul moyen de d'enfoncer ça dans ton crâne épais, c'est de le séparer de ton cou.}
+{132}{}{Bon, mais ça change rien. Faut quand même que tu te barres.}
+{133}{}{Tu crois que j'vais gober ces salades ? Gardes !}
+{134}{}{Peut-être qu'un petit séjour dans la citerne t'apprendrait les bonnes manières. Alors, tu viens gentiment ou faut qu'on emploie les grands moyens ?}
+{135}{}{On se retrouvera en enfer !}
+{136}{}{Oui. Pardon.}
+{137}{}{Alors comme ça, on joue les gros bras, hein ? On cherche encore la castagne ?}
+{138}{}{Si tu sors pas de là, j'appelle les flics !}
+{139}{}{Gardes ! Police !}
+{140}{}{Je crois que tu devrais partir...}
+{141}{}{Désolé, mais je vais pas t'offrir de boulot.}
+{142}{}{Je pourrais t'offrir un boulot, mais ça arrivera pas.}
+{143}{}{Décampe.}
+{144}{}{C'est mignon, mais je suis pas vraiment ton genre.}
+{145}{}{Bon d'accord ! Ca paiera 400 caps. Quel trajet tu préfères ?}
+{146}{}{Ca fait plaisir à entendre. Reviens en }
+{147}{}{le 8}
+{148}{}{le 18}
+{149}{}{le 28}
 {150}{}{}
 {151}{}{}
-{152}{}{Brotherhood of Steel }
-{153}{}{. You'll be headin' out then. Like always it'll pay 400 hub bucks.}
-{154}{}{Okay.}
-{155}{}{Sorry, can't wait.}
-{156}{}{Not sure what happened, but the whole caravan was lost. Funny thing for something like that to happen, and for you to be the only one left standing? Things don't generally fall that way. I just don't think I can hire you anymore because of it. I'm sure you understand why.}
+{152}{}{Confrérie de l'Acier }
+{153}{}{. Tu prendras la route. Comme d'habitude, ça paiera 400 caps.}
+{154}{}{D'accord.}
+{155}{}{Excuse-moi, je ne peux pas attendre.}
+{156}{}{Je sais pas bien ce qui est arrivé, mais toute la caravane a disparu. C'est pas bizarre qu'une chose pareille se produise, et que tu sois le seul à en réchapper ? C'est pas banal tout ça. Alors c'est simple, j'peux plus t'embaucher, je suis sûr que tu comprends ça.}
 {157}{}{Dépôtville}
 {158}{}{L.A. Boneyard}
-{159}{}{Um, not right now. Maybe another time.}
-{160}{}{Good to hear, I'll round up the rest of the crew.}
-{161}{}{Great.}
-{162}{}{Get on out of here. Good luck!}
-{163}{}{Try to avoid trouble, don't go lookin' for it.}
-{164}{}{You be careful out there, L.A. Boneyard ain't the safest of places...}
-{165}{}{That's good. Those black walkways are really strange, but they're great to travel on.}
-{166}{}{They definitely got a bad element out that way. I'd watch who you deal with while you're there.}
-{167}{}{Great. Junktown ain't a bad place.}
-{168}{}{Oh, and stop by to see Killian; tell him 'Hi' for me. Man, the times we used to have on those caravans...}
-{169}{}{Hear some odd doctor is out that way. Deals in the dead, so they say.}
-{170}{}{What in the hell were you thinkin' leaving that caravan? It came back safe, but that was pure damn luck.}
-{171}{}{Can I have another chance?}
-{172}{}{Nothing.}
-{173}{}{I don't give a crap!}
-{174}{}{Ig wa neeka rooola?}
-{175}{}{Lig.}
-{176}{}{You screwed it up again. You just can't seem to handle this line of work.}
-{177}{}{Why should I?}
-{178}{}{You shouldn't.}
-{179}{}{Because I'm going to put a hole through your head if you don't.}
-{180}{}{I had better things to do than hang around some dumb caravan.}
-{181}{}{I didn't know I wasn't allowed to leave. Everything seemed okay.}
-{182}{}{I see... you were on drugs. Well, live that life if you wish it.}
-{183}{}{I'm sorry you feel that way.}
-{184}{}{Surprisin' that you ain't done this before. Since that's the case, it ain't gonna harm anyone if I give you another chance.}
-{185}{}{You did a good piece of work. You want to sign up for another?}
-{186}{}{Sure.}
-{187}{}{No.}
-{188}{}{Maybe.}
-{189}{}{Eeek!}
-{190}{}{Lub.}
-{191}{}{Got all your gear? We're going out today.}
-{192}{}{Yes.}
-{193}{}{No!}
+{159}{}{Hmm, pas tout de suite. Peut-être une autre fois.}
+{160}{}{Bonne nouvelle, je vais réunir les effectifs.}
+{161}{}{Génial.}
+{162}{}{File d'ici. Bonne chance !}
+{163}{}{Essaie d'éviter les problèmes, ne va pas les chercher.}
+{164}{}{Fais attention là-bas, le Cimetière de L.A. est pas un lieu des plus sûr...}
+{165}{}{C'est bien. Ces routes noires sont étranges, mais elles sont parfaites pour circuler.}
+{166}{}{Pas de doute, il y a quelque chose de mauvais par là. Fais attention à qui tu parles quand t'y seras}
+{167}{}{Bien, Dépôtville est pas une ville désagréable.}
+{168}{}{Oh, et arrête-toi chez Killian et passe lui le bonjour de ma part. On en a vécu de sacrés moments dans les caravanes.}
+{169}{}{Il paraît qu'il y a un médecin bizarre là bas. Il s'occupe des macchabées, à ce qu'on dit.}
+{170}{}{Bon dieu, qu'est-ce qui t'a pris de quitter la caravane. Elle est revenue entière, mais c'est un sacré coup de pot.}
+{171}{}{Puis-je avoir une autre chance ?}
+{172}{}{Rien.}
+{173}{}{Merde !}
+{174}{}{Roo Rrr heu ?}
+{175}{}{Grr...}
+{176}{}{T'as encore merdé. J'crois pas que t'es fait pour ce genre de boulot.}
+{177}{}{Pourquoi ?}
+{178}{}{Tu ne devrais pas.}
+{179}{}{Parce que sinon je vais te trouer la cervelle.}
+{180}{}{J'avais mieux à faire que de traîner avec cette stupide caravane.}
+{181}{}{Je ne savais pas que je n'avais pas le droit de partir. Tout était en ordre.}
+{182}{}{Je vois... tu as pris des stimulants. Eh bien, mène ta vie comme tu l'entends.}
+{183}{}{Ca me fait de la peine que tu le prennes comme ça.}
+{184}{}{Etonnant que tu l'as pas fait avant. En attendant, ça fera de tort à personne si je te donne une seconde chance.}
+{185}{}{T'as fait du bon boulot. Je peux t'en proposer un autre. Ca t'intéresse ?}
+{186}{}{Bien sûr.}
+{187}{}{Non.}
+{188}{}{Peut-être.}
+{189}{}{Eh... !}
+{190}{}{Euh...}
+{191}{}{T'as tout ce qu'il te faut ? On part aujourd'hui.}
+{192}{}{Oui.}
+{193}{}{Non !}
 {194}{}{Ack!}
-{195}{}{Otherwise I'll just give it to someone else, don't worry about it. You're not obligated... until you leave with the caravan, right?}
-{196}{}{Next caravan ain't runnin' until }
-{197}{}{8th}
-{198}{}{18th}
-{199}{}{28th}
+{195}{}{Sinon, je confierai ce travail à quelqu'un d'autre, ne t'inquiète pas. Tu n'as aucune obligation envers moi... tant que tu n'es pas engagé avec une caravane, d'accord ?}
+{196}{}{La prochaine caravane part en }
+{197}{}{le 8}
+{198}{}{le 18}
+{199}{}{le 28}
 {200}{}{}
 {201}{}{}
 {202}{}{}
-{203}{}{. Head on back here if you still want the job. }
-{204}{}{January }
-{205}{}{February }
-{206}{}{March }
-{207}{}{April }
-{208}{}{May }
-{209}{}{June }
-{210}{}{July }
-{211}{}{August }
-{212}{}{September }
-{213}{}{October }
-{214}{}{November }
-{215}{}{December }
-{216}{}{Brotherhood of Steel, here we come! Well... I'm not going with you, but you know what I mean.}
-{217}{}{Okay, get out of my face already. Those Brotherhood fanatics are waiting for you.}
-{218}{}{I hope you like mountains! You're going right into them. You should see lots of action there.}
-{219}{}{Ready to go, and you'll be heading straight though the mountains! It should be a blast!}
-{300}{}{So you signed up; good to hear it. So ya know, we leave just about every ten days. That's the 8th, 18th, and 28th of each month. Right now we're making runs to The Brotherhood and Junktown. There are rumors about a mutant invasion in L.A. Boneyard, so we don't go there anymore.}
+{203}{}{. Reviens par ici si le boulot t'intéresse. }
+{204}{}{janvier }
+{205}{}{février }
+{206}{}{mars }
+{207}{}{avril }
+{208}{}{mai }
+{209}{}{juin }
+{210}{}{juillet }
+{211}{}{août }
+{212}{}{septembre }
+{213}{}{octobre }
+{214}{}{novembre }
+{215}{}{décembre }
+{216}{}{Confrérie de l'Acier, nous voilà ! Enfin... je ne t'accompagne pas, mais tu vois ce que je veux dire.}
+{217}{}{Ok, va-t'en. Ces fanatiques de la Confrérie t'attendent.}
+{218}{}{J'espère que tu aimes les montagnes ! Tu te diriges droit sur elles. Il devrait y avoir beaucoup d'action là-bas.}
+{219}{}{Prépare-toi au départ, tu vas te diriger vers les montagnes ! Ca devrait bouger là-bas !}
+{300}{}{Alors tu t'es engagé, content de l'apprendre ! Comme tu le sais, on part tous les dix jours : le 8, le 18 et le 28 de chaque mois. Là maintenant, on met le cap sur la Confrérie et Dépôtville. On met plus les pieds au Cimetière de L.A depuis ces histoires d'invasion de mutants.}

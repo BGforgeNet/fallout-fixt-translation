@@ -1,21 +1,21 @@
-{100}{}{You see a zombie ghoul.}
-{101}{}{You see: Zombie.}
+{100}{}{Tu vois un Goule zombifié.}
+{101}{}{Tu vois un zombie.}
 {102}{}{Ugh.}
-{103}{}{Brrrrraaiinsss}
-{104}{}{Buuuu...}
-{105}{}{Uuhnnng..}
+{103}{}{Ceeerrrveeellle}
+{104}{}{Beuu...}
+{105}{}{gnnuuu..}
 {106}{}{Grrr!}
 {107}{}{Uungh.}
-{108}{}{Mmmuuh...}
-{109}{}{Arrrr!}
-{110}{}{Grrrrr!}
-{111}{}{*groan*}
-{112}{}{*gurgle*}
-{113}{}{Mmmmmmm.}
-{114}{}{*groan*}
-{200}{}{You examine the pitiful thing, but cannot figure out what might have made it the way it is.}
-{201}{}{It seems to have been human once, or at least descended from humans. You guess that the deterioration in the body is most likely due to acid or radiation.}
-{202}{}{The body of the humanoid looks to be highly irradiated, but still functioning. While it was once human, it seems to have reverted to a more animalistic lifestyle.}
-{203}{}{The body of the humanoid looks to be highly irradiated, and much of the muscle and brain matter have deteriorated. However, genetic indicators lead you to believe that it descended, like you, from those that entered the Vaults.}
-{204}{}{This pitiful thing is highly irradiated. You cannot determine whether it has gone mad from being caged, or has simply lost too much brain matter due to radiation damage.}
-{205}{}{The body of the humanoid looks to be highly irradiated, however it has maintained enough brain matter and motor function to be able to speak clearly.}
+{108}{}{Euuuhh...}
+{109}{}{Arrrr !}
+{110}{}{Grrrrr !}
+{111}{}{*grogne*}
+{112}{}{*gargouillis*}
+{113}{}{Mmmm}
+{114}{}{*grogne*}
+{200}{}{Vous examinez la chose pitoyable, mais ne comprenez pas ce qui pourrait l'avoir rendu comme ça.}
+{201}{}{Il semble avoir été autrefois humain, ou avoir des origines humaines. Vous supposez que la détérioration de l'organisme est probablement dûe à de l'acide ou aux radiations.}
+{202}{}{L'organisme de l'humanoïde paraît fortement irradié, mais toujours en fonctionnement. Jadis il était un homme, il semble avoir maintenant trouvé un style de vie plus animal.}
+{203}{}{Le corps de l'humanoïde a l'air très irradié et les muscles et le cerveau semblent détériorés. Pourtant, d'après les indicateurs génétiques, tu penses qu'il descend, comme toi, des êtres entrés dans les Abris.}
+{204}{}{La misérable créature est grandement irradiée. Tu n'arrives pas à savoir si sa folie est dû à l'enfermement ou aux dégâts irrémédiables causés à son cerveau par les radiations.}
+{205}{}{Le corps de la créature est grandement irradié, cependant elle a conservé assez de matière grise et de fonction motrice pour pouvoir parler.}

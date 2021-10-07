@@ -1,162 +1,162 @@
-{100}{}{You see a caravan driver.}
-{101}{}{Sorry, I don't know you. If you want a job you need to talk to Rutger.}
-{102}{}{Don't talk to me about a job, talk to Rutger.}
-{103}{}{What, did you spend all your money on drugs? If you keep that up you'll find your new home in Old Town, surrounded by skags.}
-{104}{}{You'd better sober up. Come back when you're ready and able to work.}
-{105}{}{Looking for another job?}
-{106}{}{Sure.}
-{107}{}{No, maybe later.}
-{108}{}{Lug.}
-{109}{}{Rok!}
-{110}{}{Ready to go? We leave today.}
-{111}{}{Yep!}
-{112}{}{Nope.}
-{113}{}{Hrurra?}
-{114}{}{Sorry, we won't deal with you anymore. Try your luck with another caravan; maybe they'll put up with you.}
-{115}{}{Sorry, we're not hiring.}
-{116}{}{You've got a lot of nerve showing your face here again. I think you should leave.}
-{117}{}{I said beat it!}
-{118}{}{What do you want? Hiring you was a disaster.}
-{119}{}{Please give me another chance! I had no choice!}
-{120}{}{Oh, yeah? I couldn't care less.}
-{121}{}{Nothing. Bye.}
-{122}{}{Kah.}
-{123}{}{Moo.}
-{124}{}{Look, I don't know what happened out there, but we lost the entire caravan! You shouldn't have come back if you couldn't protect it.}
-{125}{}{No way, get lost!}
-{126}{}{I said get lost!}
-{127}{}{What do you want?}
-{128}{}{Ah, shut up and get out of my way!}
-{129}{}{I want another job.}
-{130}{}{Nothing.}
-{131}{}{Zug.}
-{132}{}{Ug.}
-{133}{}{What? After you abandoned that last job? You're lucky they survived.}
-{134}{}{I'm lucky? You're lucky I don't pound your face in!}
-{135}{}{Hey! I had places to go and people to see.}
-{136}{}{I didn't know I wasn't allowed to leave. Everything seemed okay.}
-{137}{}{Talk straight or get out.}
-{138}{}{Skag.}
-{139}{}{We don't hire drunks.}
-{140}{}{We don't hire druggies.}
-{141}{}{(The caravan driver is ignoring you.)}
-{142}{}{Come back when you've slept it off.}
-{143}{}{You sicko. Go back to the pens.}
-{144}{}{Seemed okay? You never leave a caravan, not even if it's a mile from its rendezvous. You were hired to guard it for the entire trip, otherwise we would have gotten someone else.}
-{145}{}{Well, no one told me I couldn't leave!}
-{146}{}{I'm sorry, it will never happen again.}
-{147}{}{Up yours.}
-{148}{}{What? Is this your first caravan? How did you get hired? This is a very delicate and important job; it's to be taken seriously. Lives are at stake, both the caravan and the towns we supply.}
-{149}{}{And you must be so proud of yourself.}
-{150}{}{What? Do you want a medal or something?}
-{151}{}{Let me save lives, please! I want to help!}
-{152}{}{I hope so! This is a very delicate and important job; it's to be taken seriously. Lives are at stake! The caravans and the towns we supply depend on us!}
-{153}{}{You must be so proud of yourself.}
-{154}{}{What? Do you want a medal or something?}
-{155}{}{Let me save lives, please! I want to help!}
-{156}{}{Of course I am.}
-{157}{}{So, can I have another job?}
-{158}{}{You're an idiot!}
-{159}{}{I've got to go. Bye.}
-{160}{}{Uh, yeah. This is hard and dirty work! We risk our lives for those in less fortunate places.}
-{161}{}{Get a life!}
-{162}{}{Oh? And what about all the less fortunate people right under your nose?}
-{163}{}{You're right. Can I have another job or what?}
-{164}{}{What? I don't know what you're talking about! Oh, you mean the skags? They don't count. They choose to live that way.}
-{165}{}{I guess you're right.}
-{166}{}{You make me sick.}
-{167}{}{I've got to go.}
-{168}{}{What? What'd I say?}
-{169}{}{Of course I am. I'm a good person at heart... most of the time.}
-{170}{}{Of course you are. Can I have another job or what?}
-{171}{}{I'm out of here.}
-{172}{}{That's the attitude! Too bad I can't give you another job.}
-{173}{}{After all that? Oh come on, can I please can I have another job?}
-{174}{}{Well, back to saving the world then.}
-{175}{}{That's just fine. But don't ever expect to work for us again!}
-{176}{}{Oh, please! It will never happen again!}
-{177}{}{Like I'd want to!}
-{178}{}{Well okay, one more chance. Our next caravan is leaving }
-{179}{}{today}
-{180}{}{tomorrow}
-{181}{}{on the}
-{182}{}{8th}
-{183}{}{18th}
-{184}{}{28th}
-{185}{}{. Let me know when you're ready to leave. It pays the standard 400 caps.}
-{186}{}{Sorry, but I already made a bad mistake when I gave you a chance the last time you messed up.}
-{187}{}{Great, which route did you want to take?}
-{188}{}{Hi there. The caravan doesn't leave until tomorrow. You should come back then if you still want the job.}
-{189}{}{I don't want the job.}
-{190}{}{I'll try to make it.}
-{191}{}{Okay, I'll see you then.}
+{100}{}{Voici un conducteur de caravane.}
+{101}{}{Excuse-moi, je te connais pas. Si tu veux du travail, adresse-toi à Rutger.}
+{102}{}{Si tu veux du travail, adresse-toi plutôt à Rutger.}
+{103}{}{Quoi ? As-tu dépensé tout cet argent pour des drogues ? Si tu continues comme ça , les toxicos viendront t'entourer dans ton nouvel habitat, dans la vieille ville.}
+{104}{}{Tu ferais bien de désaouler. Reviens quand tu seras en état de travailler.}
+{105}{}{Tu cherches un autre travail ?}
+{106}{}{Bien sûr.}
+{107}{}{Non, peut-être plus tard.}
+{108}{}{Hmm.}
+{109}{}{Rak !}
+{110}{}{Prêt pour le départ ? On part aujourd'hui.}
+{111}{}{Ouais !}
+{112}{}{Non.}
+{113}{}{Hourrra ?}
+{114}{}{Excuse-moi mais on ne traitera plus avec toi. Tente ta chance avec une autre caravane, peut-être que quelqu'un voudra de toi.}
+{115}{}{Excuse-moi mais on n'embauche pas.}
+{116}{}{Tu as un sacré culot de te repointer ici. Il vaudrait mieux que tu partes.}
+{117}{}{J'ai dit : fiche le camp !}
+{118}{}{Qu'est-ce que tu veux ? On a fait une grosse erreur en t'embauchant.}
+{119}{}{S'il te plaît, donne-moi une autre chance ! Je n'avais pas le choix !}
+{120}{}{Ah ouais ? Je pourrais m'en moquer.}
+{121}{}{Tant pis. Au revoir.}
+{122}{}{Gah.}
+{123}{}{Meuh.}
+{124}{}{Ecoute, je ne sais pas ce qui s'est passé là-bas, mais on a perdu toute la caravane ! Tu n'aurais pas dû revenir si tu étais incapable de la protéger.}
+{125}{}{Pas question, va au diable !}
+{126}{}{Va te faire voir ailleurs !}
+{127}{}{Qu'est-ce que tu veux ?}
+{128}{}{Ah, la ferme et fiche le camp !}
+{129}{}{Je veux un autre travail.}
+{130}{}{Rien.}
+{131}{}{Je euuuuuh.}
+{132}{}{Euh...}
+{133}{}{Quoi ? Après avoir abandonné ton dernier boulot ? Tu as de la chance qu'ils aient survécu.}
+{134}{}{Moi, de la chance ? C'est toi qui a de la chance que je ne te casse pas la figure !}
+{135}{}{Hé ! J'avais des trucs à faire et des gens à voir.}
+{136}{}{Je ne savais pas que je n'avais pas le droit de partir. Tout était en ordre.}
+{137}{}{Dis ce que t'as à dire et fiche le camp.}
+{138}{}{Pauv' type !}
+{139}{}{On n'embauche pas les ivrognes.}
+{140}{}{On n'embauche pas les amateurs de drogues.}
+{141}{}{[Il t'ignore]}
+{142}{}{Reviens quand tu seras sobre.}
+{143}{}{Espèce de malade. Rentre chez toi.}
+{144}{}{Tout avait l'air en ordre ?! On ne quitte jamais une caravane, même si elle n'est qu'à un kilomètre de sa destination. Ton boulot était de la garder pendant tout le trajet, sinon on aurait prit quelqu'un d'autre.}
+{145}{}{Eh bien, personne m'a dit que je devais pas partir !}
+{146}{}{Excuse-moi, ça se reproduira pas.}
+{147}{}{Va te faire voir !}
+{148}{}{Quoi ? C'est ta première caravane ou quoi ? Comment as-tu fait pour te faire embaucher ? C'est un travail très délicat et important; c'est à prendre au sérieux. Des vies sont en jeu au sein de la caravane et dans les villes qu'on ravitaille.}
+{149}{}{Et tu dois être fier de toi...}
+{150}{}{Quoi ? Tu veux peut-être une médaille ?}
+{151}{}{Laisse-moi sauver des vies, s'il te plaît ! Je veux aider !}
+{152}{}{J'espère bien ! C'est un travail très délicat et important ; c'est très sérieux. Des vies sont en jeu ! Les caravanes et les villes que nous ravitaillons comptent sur nous !}
+{153}{}{Tu as l'air fier de toi.}
+{154}{}{Quoi ? Tu veux peut-être une médaille ?}
+{155}{}{Laisse-moi sauver des vies, s'il te plaît ! Je veux aider !}
+{156}{}{Bien sûr.}
+{157}{}{Alors, puis-je avoir un autre travail ?}
+{158}{}{Imbécile !}
+{159}{}{Je dois partir. Salut.}
+{160}{}{Euh, ouais. C'est un boulot difficile et salissant ! Nous risquons nos vies pour ceux qui sont moins bien lotis.}
+{161}{}{FAchète toi une vie !}
+{162}{}{Oh ? Et que fais-tu des gens les moins chanceux qui passent devant toi ?}
+{163}{}{Tu as raison. Je peux avoir un autre travail ou quoi ?}
+{164}{}{Quoi ? Je sais pas de quoi tu parles ! Oh, tu veux dire les toxicos ? Ils comptent pas. Ils ont choisi de vivre comme ça.}
+{165}{}{Tu as sans doute raison.}
+{166}{}{Tu me dégoûtes.}
+{167}{}{Je dois partir.}
+{168}{}{Quoi ? Qu'est-ce que j'ai dit ?}
+{169}{}{Bien sûr. J'ai bon coeur... en général.}
+{170}{}{Bien sûr. Je peux avoir un autre travail ou quoi ?}
+{171}{}{Je m'en vais.}
+{172}{}{C'est la bonne attitude ! Malheureusement, je peux pas te confier un autre travail.}
+{173}{}{Quoi ? Après tout ça ? Oh, allez ! S'il te plaît, donne-moi un autre travail !}
+{174}{}{Bon, on retourne sauver le monde alors.}
+{175}{}{Très bien. Mais n'espère pas retravailler pour nous !}
+{176}{}{Oh, s'il te plaît ! Ca se reproduira pas !}
+{177}{}{Je le voudrais bien !}
+{178}{}{Bon, d'accord, je te donne une autre chance. Notre prochaine caravane part }
+{179}{}{aujourd'hui}
+{180}{}{demain}
+{181}{}{le}
+{182}{}{le 8}
+{183}{}{le 18}
+{184}{}{le 28}
+{185}{}{. Fais-moi savoir quand tu pourras partir. Le salaire est de 400 caps.}
+{186}{}{Excuse-moi, mais j'ai déjà fait une grosse erreur en te donnant ta chance la dernière fois.}
+{187}{}{Génial, quelle destination veux-tu prendre ?}
+{188}{}{Salut. La caravane ne part pas avant demain. Reviens demain si tu veux encore de ce travail.}
+{189}{}{Je ne veux pas de ce travail.}
+{190}{}{Je vais essayer.}
+{191}{}{D'accord, à plus tard alors.}
 {192}{}{Da.}
-{193}{}{Hi there. You're early. Quite early. The next caravan doesn't leave until the }
-{194}{}{8th}
-{195}{}{18th}
-{196}{}{28th}
-{197}{}{. Come back then if you're still interested.}
-{198}{}{I don't want the job.}
-{199}{}{I'll try to make it.}
-{200}{}{Okay. Bye.}
+{193}{}{Salut. Tu arrives tôt. Trop tôt. La prochaine caravane ne part pas avant le }
+{194}{}{le 8}
+{195}{}{le 18}
+{196}{}{le 28}
+{197}{}{. Reviens à cette date si ça t'intéresse toujours.}
+{198}{}{Je ne veux pas de ce travail.}
+{199}{}{Je vais essayer.}
+{200}{}{Bien. Au revoir.}
 {201}{}{Da.}
-{202}{}{Okay. It doesn't matter to me.}
-{203}{}{Hell, it doesn't matter to me if you show or not. We have people looking for jobs every day. If you don't show, that's okay.}
-{204}{}{I already told you: Don't worry about it. If you can't make it, I can make do.}
-{205}{}{The Brotherhood of Steel}
-{206}{}{L.A. Boneyard.}
+{202}{}{D'accord. Ca m'est égal.}
+{203}{}{Ca m'est bien égal que tu te montres ou pas. Il y a des tas de gens qui cherchent du travail de toute façon. Mais si tu es là, c'est d'accord.}
+{204}{}{Je te l'ai déjà dit. Ne t'en fais pas. Si tu n'en veux pas, je me débrouillerai.}
+{205}{}{La Confrérie de l'Acier}
+{206}{}{Le Cimetière de L.A.}
 {207}{}{Dépôtville}
-{208}{}{Never mind. I don't want the job after all.}
-{209}{}{Great timing, our caravans are leaving today. It pays the standard 400 caps. Which caravan route did you want to take?}
-{210}{}{Great. Our next caravan is going out on the }
-{211}{}{8th}
-{212}{}{18th}
-{213}{}{28th}
-{214}{}{. Come back then and we'll assign you to a caravan. It pays the standard 400 caps.}
-{215}{}{Okay.}
-{216}{}{Sorry, I can't wait that long.}
-{217}{}{Great. I'll get your driver and the rest of the crew. Be careful out there, it's been a little rough lately.}
-{218}{}{The crew's ready. We'll leave right away.}
-{219}{}{All right, it'll just take a few minutes to get the crew together.}
-{220}{}{All right. We'll leave for the Brotherhood as soon as I get the rest of the crew together.}
-{221}{}{Okay, you'll be off to the Brotherhood as soon as I assemble the crew.}
-{222}{}{Ready to go! Be sure to stay away from the mountains.}
-{223}{}{L.A. Boneyard's a rough place - be careful. Make sure everyone sticks to their shifts.}
-{224}{}{The crew's almost ready. I heard there was some trouble around L.A. Boneyard recently - watch your back.}
-{225}{}{Okay, the caravan crew for L.A. Boneyard is ready and waiting.}
-{226}{}{Junktown is normally a short and easy trip; you shouldn't have any problems.}
-{227}{}{Good, the crew for Junktown's caravan is ready.}
-{228}{}{All right. Junktown's waiting, let's get going.}
-{229}{}{Why, hello. I understand you are looking for a job. I'm surprised Rutger hired you, but I'm sure he has his reasons. Our caravans leave here three times a month: on the 8th, 18th and 28th. There are three places we go to on a regular basis: the Brotherhood of Steel, Junktown, and L.A. Boneyard. The pay is always 400 caps, and that's one way. You can come back with the caravan for another 400 caps.}
-{230}{}{You've got great timing because they're all heading out today.}
-{231}{}{They're all going out tomorrow.}
-{232}{}{They aren't leaving for }
-{233}{}{ days.}
-{234}{}{Are you interested?}
-{235}{}{So, do you want the job?}
-{236}{}{They're all heading out today.}
-{237}{}{They're all going out tomorrow.}
-{238}{}{They aren't leaving for }
-{239}{}{ days.}
-{240}{}{I suppose you want a job. I might give you one. Are you interested?}
-{241}{}{Sure.}
-{242}{}{Nope.}
-{243}{}{You know where you can stick your caravan.}
-{244}{}{I don't know. I'll have to get back to you.}
-{245}{}{Ug.}
-{246}{}{Which route did you want to take?}
+{208}{}{Tant pis. Je ne veux pas de ce travail finalement.}
+{209}{}{Super ! Tu arrives à temps. Nos caravanes partent aujourd'hui. Le salaire est de 400 caps. Quelle destination veux-tu prendre ?}
+{210}{}{Génial. Notre prochaine caravane part le }
+{211}{}{le 8}
+{212}{}{le 18}
+{213}{}{le 28}
+{214}{}{. Reviens à cette date et on t'affectera à une caravane. Le salaire est de 400 caps.}
+{215}{}{D'accord.}
+{216}{}{Malheureusement je ne peux pas attendre si longtemps.}
+{217}{}{Génial. Je m'occupe du conducteur et du reste de l'équipe. Attention là-bas, c'est de plus en plus dangereux depuis quelque temps.}
+{218}{}{L'équipe est prête. On part tout de suite.}
+{219}{}{Très bien, ça va prendre quelques minutes pour rassembler l'équipe.}
+{220}{}{Très bien. On sera en route pour la Confrérie dès que l'équipe sera au complet.}
+{221}{}{D'accord, on sera en route pour la Confrérie dès que j'aurai rassemblé toute l'équipe.}
+{222}{}{Prêts ! L'important est de ne surtout pas s'approcher des montagnes.}
+{223}{}{Le Cimetière de L.A. est un endroit dangereux. Fais attention. Veille à ce que chacun reste à sa place.}
+{224}{}{L'équipe est presque prête. J'ai entendu dire qu'il y avait eu des problèmes autour du Cimetière de L.A. récemment. Fais attention à toi.}
+{225}{}{D'accord, la caravane à destination du Cimetière de L.A. est prête à partir.}
+{226}{}{Dépôtville est un voyage généralement court et facile ; tu devrais pas rencontrer de problème sérieux.}
+{227}{}{Bon, la caravane pour Dépôtville est prête à partir.}
+{228}{}{Très bien. Dépôtville nous attend. Allons-y.}
+{229}{}{Tiens, bonjour. J'ai cru comprendre que tu cherchais du travail. Etonnant que Rutger ait accepté de t'embaucher, mais il doit avoir ses raisons. Nos caravanes partent d'ici trois fois par mois : le 8, le 18 et le 28. Nous ravitaillons régulièrement trois endroits : la Confrérie de l'Acier, Dépôtville et le Cimetière de L.A. Le salaire est toujours de 400 caps à l'aller et, si tu veux revenir avec la caravane, de 400 caps au retour.}
+{230}{}{Tu arrives à temps, elles partent toutes aujourd'hui.}
+{231}{}{Elles partent toutes demain.}
+{232}{}{Aucune ne part avant }
+{233}{}{ jours.}
+{234}{}{Ca t'intéresse ?}
+{235}{}{Alors, tu le veux ce boulot ?}
+{236}{}{Elles partent toutes aujourd'hui.}
+{237}{}{Elles partent toutes demain.}
+{238}{}{Aucune ne part avant }
+{239}{}{ jours.}
+{240}{}{Je suppose que tu veux du travail. J'en ai peut-être un pour toi. Ca t'intéresse ?}
+{241}{}{Bien sûr.}
+{242}{}{Non.}
+{243}{}{Tu sais où tu peux te la mettre ta caravane !}
+{244}{}{Je ne sais pas. Je reviendrai te voir.}
+{245}{}{Euh...}
+{246}{}{Quelle destination voulais-tu prendre ?}
 {247}{}{The Brotherhood of Steel.}
-{248}{}{L.A. Boneyard.}
+{248}{}{Le Cimetière de L.A.}
 {249}{}{Junktown.}
-{250}{}{Sorry, I changed by mind.}
-{251}{}{Well, come back on the }
-{252}{}{8th}
-{253}{}{18th}
-{254}{}{28th}
-{255}{}{ and we'll get the crew together.}
-{256}{}{What's your problem?}
-{257}{}{You're the problem, and my fist is the solution.}
-{258}{}{You'd better watch it.}
-{260}{}{You are.}
-{261}{}{No problem.}
-{262}{}{Yeah, okay. Come back if you change your mind.}
+{250}{}{Excuse-moi, j'ai changé d'avis.}
+{251}{}{Eh bien, reviens le }
+{252}{}{le 8}
+{253}{}{le 18}
+{254}{}{le 28}
+{255}{}{ et on formera une équipe.}
+{256}{}{C'est quoi ton problème ?}
+{257}{}{C'est toi le problème, et j'ai la solution.}
+{258}{}{Tu devrais faire attention.}
+{260}{}{Toi.}
+{261}{}{Aucun problème.}
+{262}{}{Ouais, d'accord. Reviens me voir si tu changes d'avis.}

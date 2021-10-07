@@ -1,1 +1,1 @@
-{100}{}{This is the elevator. The lights are off, but it looks just like the one in your Vault.}
+{100}{}{Voici l'ascenseur. Les lumières sont éteintes, mais il ressemble exactement à celui de ton Abri.}

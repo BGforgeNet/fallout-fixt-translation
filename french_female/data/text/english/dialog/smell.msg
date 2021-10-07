@@ -1,1 +1,1 @@
-{100}{}{You smell something rank ahead.}
+{100}{}{Tu sens une odeur fétide.}

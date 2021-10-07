@@ -1,32 +1,32 @@
-{100}{}{You see: Irwin.}
-{101}{}{Oh boy, can't you leave me alone? I have enough problems on my hands already.}
-{102}{}{Problems? Maybe I can help you.}
-{103}{}{Like you're the only one with problems.}
-{104}{}{Okay, okay. No reason to yell at me.}
-{105}{}{Hmm... I don't know. It takes a different caliber of hero than you. Listen, why don't you come back when you have a little more experience under your belt?}
-{106}{}{This is a tragedy, believe me. Nothing is the way it used to be. I have a small farm outside town and a few days ago a bunch of raiders appeared out of nowhere and now use my home as their camp. They killed Pugsley, my donkey and they threatened to kill me if I ever dare to come back.}
-{107}{}{Just tell me where and I'll take care of the rest.}
-{108}{}{Sorry Irwin, but I have more important things to do.}
-{109}{}{Really? You would do that? You know, I don't dare to go there any more. Why don't you come back and let me know when it's safe to go back home again?}
-{110}{}{Listen, freak, I told you to leave me alone in the first place. Now beat it!}
-{111}{}{I knew you would chicken out. Everyone does when it comes to the raiders.}
-{112}{}{So, have you been able to teach those raiders a lesson? Is my home safe again?}
-{113}{}{It sure is, buddy.}
-{114}{}{I didn't have the time yet to take care of it.}
-{115}{}{Oh, thank you so much. I am sorry I don't have any riches to give to you, but here, take this for saving my home. It was my father's, passed down to him from Grandpa Rick. You probably need it more than I do.}
-{116}{}{You're trying to fool me, right? Please don't play with me. Come back and let me know when it is really safe to get back into my home, will you?}
-{117}{}{Thank you so much for helping me.}
-{118}{}{Grunk?}
-{119}{}{Look, I don't have time for idiots. Come back when you've got some smarts.}
-{120}{}{Uh huh, uh huh, uh huh. I dood it.}
-{121}{}{Me no fix yet.}
+{100}{}{Voici Irwin.}
+{101}{}{Nom d'un chien, tu peux pas me laisser tranquille ? J'ai assez de problèmes comme ça.}
+{102}{}{Des problèmes ? Je peux peut-être t'aider.}
+{103}{}{Comme si tu étais le seul à avoir des problèmes !}
+{104}{}{C'est bon. Pas la peine de hurler.}
+{105}{}{Hmm... Je ne sais pas. T'as pas vraiment la carrure. Ecoute, pourquoi est-ce que tu ne repasserais pas quand t'auras un peu plus roulé ta bosse ?}
+{106}{}{C'est une tragédie, crois-moi. Rien n'est plus comme avant. J'ai une petite ferme en-dehors de la ville et il y a quelques jours, une bande de Pillards a débarqué de nulle part pour installer son campement chez moi. Ils ont tué mon âne Camus et m'ont menacé de mort si j'osais revenir.}
+{107}{}{Dis-moi où ça se trouve et je me charge du reste.}
+{108}{}{Malheureusement Irwin, j'ai des choses plus importantes à faire.}
+{109}{}{Vraiment, tu le ferais ? Tu sais, j'ose plus y remettre les pieds. S'il te plaît, reviens me dire quand je pourrai retourner sans risque chez moi.}
+{110}{}{Ecoute, je crois t'avoir déjà demandé de me laisser tranquille. Débarrasse le plancher !}
+{111}{}{Je savais bien que tu te dégonflerais. C'est toujours la même chose dès qu'il s'agit des Pillards.}
+{112}{}{Alors, tu as pu donner une bonne leçon à ces Pillards ? Ma maison est à nouveau sûre ?}
+{113}{}{Y'a plus de danger.}
+{114}{}{Je n'ai pas encore eu le temps de m'en occuper.}
+{115}{}{Oh, je ne sais pas comment te remercier. Je n'ai pas grand chose à t'offrir mais tiens, prends ce fusil. Il appartenait à mon père, qui le tenait de son grand-père Rick. Tu en feras meilleur usage que moi.}
+{116}{}{Tu joues avec mes nerfs ou quoi ? Allez, ne joue pas à ça. Reviens me dire quand je pourrai retourner chez moi sans risque. Te le feras, dis ?}
+{117}{}{Merci. Merci de m'avoir aidé.}
+{118}{}{Grééé ?}
+{119}{}{Ecoute, j'ai pas de temps pour les idiots. Reviens quand tu auras allumé la lumière à tous les étages.}
+{120}{}{Uh Huh, Uh Huh, Uh Huh. je l'ai faiit.}
+{121}{}{Moi pas fini.}
 {122}{}{You earn 500 experience for saving Irwin's farm.}
-{123}{}{No find farm. You show?}
-{300}{}{Meet your maker!}
-{301}{}{Get him... dead!}
-{302}{}{You've just had your last cheesebread!}
-{303}{}{I'll perforate you like swiss cheese!}
-{400}{}{Not quite. Could you tell me again how to get there?}
-{401}{}{I will, but please hurry. I want to go back to my home.}
-{402}{}{Thanks.}
-{403}{}{Tank-u!}
+{123}{}{Pas trouver ferme. Toi montrer ?}
+{300}{}{Crève !}
+{301}{}{Ramenez moi son cadavre !}
+{302}{}{Dis adieu à la vie !}
+{303}{}{Je vais te trouer comme un fromage suisse !}
+{400}{}{Pas encore. Peux tu me redire comment se rendre là bas ?}
+{401}{}{Bien sur mais dépêche toi s'il te plait.}
+{402}{}{Merci.}
+{403}{}{Merssii !}

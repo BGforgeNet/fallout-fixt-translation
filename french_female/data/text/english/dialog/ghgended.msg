@@ -1,5 +1,5 @@
-{100}{}{You see a lifeless corpse laying on the ground.}
-{101}{}{An unfortunate soul lays here.}
-{102}{}{The remains of a mutated human rest upon the floor.}
-{103}{}{The feeding grounds for carrion.}
-{104}{}{It appears this person challenged Thanatos and lost.}
+{100}{}{Un cadavre gît par terre.}
+{101}{}{Une âme misérable gît ici.}
+{102}{}{Les restes d'un humain muté gisent sur le sol.}
+{103}{}{De la bonne terre à charognes.}
+{104}{}{Il semble que cette personne ait défié Thanatos et perdu.}

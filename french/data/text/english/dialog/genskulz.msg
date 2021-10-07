@@ -1,13 +1,13 @@
-{100}{}{You see a member of the Skulz gang.}
-{101}{}{Hey! Whaddya think you're doing?!}
-{102}{}{You're on Skulz turf, stranger. You'd better leave.}
-{103}{}{Got any spare caps?}
-{104}{}{What are you lookin' at?}
-{105}{}{Get outta here.}
-{106}{}{Zzzzzzzz}
-{107}{}{Man, it sure is hot today.}
-{108}{}{I'm hungry.}
-{109}{}{Let's do something.}
-{110}{}{Why don't we rough someone up?}
-{111}{}{I wanna have a little fun.}
-{112}{}{Yawn...}
+{100}{}{Voici un membre de la bande des Skulz.}
+{101}{}{Eh ! Mais tu te crois où ?}
+{102}{}{T'es chez les Skulz. Tu ferais mieux de dégager.}
+{103}{}{T'as pas quelques caps ?}
+{104}{}{Qu'est-ce que tu regardes ?}
+{105}{}{Fous le camp.}
+{106}{}{Zzzzz}
+{107}{}{Bon dieu, il fait chaud aujourd'hui.}
+{108}{}{J'ai faim.}
+{109}{}{Bon, faut faire quelque chose.}
+{110}{}{Et si on emmerdait quelqu'un ?}
+{111}{}{J'ai envie de me marrer un coup.}
+{112}{}{Bâillement...}

@@ -1,8 +1,8 @@
-{100}{}{You see an invading Super Mutant.}
-{101}{}{Come here, human!}
-{102}{}{Stop!}
-{103}{}{Die, human!}
-{104}{}{Death to you!}
-{105}{}{Hu-maaaan!}
-{106}{}{Me squish you now!}
-{107}{}{All normies will die!}
+{100}{}{Voici un envahisseur super mutant.}
+{101}{}{Approche, Humain !}
+{102}{}{Arrête !}
+{103}{}{J'espère avoir assez de cartouches.}
+{104}{}{Prêt à partir.}
+{105}{}{Allons-y !}
+{106}{}{En mouvement !}
+{107}{}{Nous les avons tous tué !}

@@ -1,7 +1,7 @@
-{100}{}{He has the stance and musculature of a master martial artist.}
-{101}{}{Izo says nothing. He is watching you carefully with a gaze that makes you uncomfortable.}
-{102}{}{(Izo gives you your money)}
-{103}{}{(Izo motions to the door, makes a throat-cutting gesture, and shakes his head.)}
-{104}{}{Thanks.}
-{105}{}{Duhh...}
-{106}{}{(Izo motions to the door.)}
+{100}{}{Il possède toute la puissance et la tonicité d'un maître d'arts martiaux.}
+{101}{}{Izo ne dit rien.}
+{102}{}{Il te donne ton argent.}
+{103}{}{Izo se dirige vers la porte.}
+{104}{}{Merci.}
+{105}{}{Allons-y !}
+{106}{}{Bouge !}

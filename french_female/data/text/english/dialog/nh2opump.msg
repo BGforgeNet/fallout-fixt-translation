@@ -1,19 +1,19 @@
-{100}{}{The water pump is fixed and working fine.}
-{101}{}{The water pump isn't working due to a broken vacuum pump.}
-{102}{}{The water pump isn't working.}
-{103}{}{A piece of machinery.}
-{104}{}{This water pump isn't working due to a broken vacuum pump.}
-{105}{}{It might need a new fuse.}
-{106}{}{The water pump isn't working.}
-{107}{}{You cannot repair the water pump without a replacement vacuum pump.}
-{108}{}{You fail to repair the water pump. It might need a new fuse.}
-{109}{}{You fail to repair the water pump.}
-{110}{}{This water pump isn't working due to a broken vacuum pump.}
-{111}{}{This water pump may need a new fuse.}
-{112}{}{The water pump isn't working.}
-{113}{}{You notice nothing unusual.}
-{114}{}{The massive pump struggles to life after you successfully install the missing parts.}
-{115}{}{You somehow manage to destroy the parts while cutting your hand for 1 point of damage.}
-{116}{}{You are having difficulties making these parts work.}
-{117}{}{This item cannot be used on the pump.}
-{118}{}{You earn 1000 experience for fixing the water pump. The ghouls will be grateful!}
+{100}{}{La pompe à eau est réparée et fonctionne bien.}
+{101}{}{La pompe à eau ne fonctionne pas parce qu'une pompe à vide est cassée.}
+{102}{}{La pompe à eau ne fonctionne pas.}
+{103}{}{Une pièce de mécanique.}
+{104}{}{Cette pompe à eau ne fonctionne pas parce qu'une pompe à vide est cassée.}
+{105}{}{Peut-être faut-il un nouveau fusible.}
+{106}{}{La pompe à eau ne fonctionne pas.}
+{107}{}{Impossible de réparer la pompe à eau sans pompe à vide de rechange.}
+{108}{}{Tu n'as pas réussi à réparer la pompe à eau. Peut-être faut-il un nouveau fusible.}
+{109}{}{Tu n'as pas réussi à réparer la pompe à eau.}
+{110}{}{Cette pompe à eau ne fonctionne pas parce qu'une pompe à vide est cassée.}
+{111}{}{Cette pompe à eau a peut-être besoin d'un nouveau fusible.}
+{112}{}{La pompe à eau ne fonctionne pas.}
+{113}{}{Tu remarques quelque chose d'inhabituel.}
+{114}{}{Tu installes les pièces manquantes et la lourde pompe se remet péniblement en marche.}
+{115}{}{Tu réussis quand même à détruire les pièces mais tu te coupes la main et prends 1 point de dégât.}
+{116}{}{Tu as du mal à faire fonctionner ces pièces.}
+{117}{}{Cet objet est inutilisable sur la pompe.}
+{118}{}{points d'expérience pour avoir réparé la pompe.}

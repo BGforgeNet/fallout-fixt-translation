@@ -1,1 +1,1 @@
-{100}{}{This room once belonged to esteemed scientists.}
+{100}{}{Cette pièce appartenait autrefois à des scientifiques renommés.}

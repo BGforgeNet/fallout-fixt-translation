@@ -1,1 +1,1 @@
-{100}{}{This looks like a control panel for a force field.}
+{100}{}{On dirait le tableau de commandes de force.}

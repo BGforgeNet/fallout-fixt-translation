@@ -1,2 +1,2 @@
-{100}{}{This toggle has a small radio emitter and a tiny power cell. It probably links to a control computer somewhere, as an on/off switch.}
-{101}{}{The toggle switch looks like an on/off transmitter of some sort.}
+{100}{}{Cet interrupteur à bascule possède un petit émetteur radio et une minuscule pile électrique. Il est probablement relié à un ordinateur de contrôle quelque part, comme un interrupteur marche/arrêt.}
+{101}{}{L'interrupteur à bascule ressemble à une sorte d'émetteur on/off.}

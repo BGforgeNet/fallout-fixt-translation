@@ -1,5 +1,5 @@
-{100}{}{The door is locked.}
-{101}{}{You pick the lock.}
-{102}{}{You attempt to pick the lock, but fail.}
-{103}{}{While picking the lock, you manage to tweak the tumblers and jam it.}
-{104}{}{The door isn't locked.}
+{100}{}{La porte est verrouillée.}
+{101}{}{Tu crochètes le verrou.}
+{102}{}{Tu essaies de crocheter le verrou, mais tu n'y arrives pas.}
+{103}{}{En essayant de crocheter la serrure, tu as coincé le verrou.}
+{104}{}{La porte n'est pas fermée à clé.}

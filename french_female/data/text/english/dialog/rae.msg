@@ -1,76 +1,76 @@
-{100}{}{You see: Rae.}
-{101}{}{You see a Super Mutant.}
-{102}{}{You don't belong here.}
-{103}{}{(seems confused and sad) I believe I do, but.. why are you here?}
-{104}{}{Neither do you.}
-{105}{}{Uh.. yes I do. The Master is having me scout around in disguise to check our security.}
-{106}{}{Yes I do, I'm here to kill you.}
-{107}{}{Okay, I'm leaving.}
-{108}{}{huh.}
-{109}{}{(sigh) What do you want now?}
-{110}{}{I'm lost.. can you show me how to get to the Master? I need to kill him.}
-{111}{}{Nothing. Goodbye.}
-{112}{}{To see what you look like with all your skin ripped off your body, you mutant scum.}
-{113}{}{What's wrong with you?}
-{114}{}{great oogly moogly.}
-{115}{}{I'm here to... contemplate the oneness of the Master.}
-{116}{}{Of course. The unity brings peace. May I ask where you are from?}
-{117}{}{I am as well. I made the pilgrimage from far away to see the Master with my own eyes.}
-{118}{}{I have much to learn. How does one gain an audience with the Master?}
-{119}{}{I did that yesterday. Today I'm contemplating what the Master would look like if I lit him on fire and roasted marshmallows over his putrid carcass.}
-{120}{}{I think the Master is insane.}
-{121}{}{I'm from... somewhere ..else.}
-{122}{}{What a coincidence! So am I.}
-{123}{}{Where?}
-{124}{}{I'm from a Vault... I'm a pure strain human.}
-{125}{}{What, are you an imbecile?}
-{126}{}{Where are you from?}
-{127}{}{(whispers) I'm from a Vault... I'm a pure strain human.}
-{128}{}{I'd rather not say. Goodbye.}
-{129}{}{A small village to the north of here.}
-{130}{}{Why should I tell you? You're just a lackey for the 'Man'.}
-{131}{}{Why would you tell me that? I should take you before the Master...}
-{132}{}{But you won't}
-{133}{}{You're welcome to try.}
-{134}{}{Well, I should shove my gun down your throat and pull the trigger!}
-{135}{}{Please don't.}
-{136}{}{I know why you're in so much pain.}
-{137}{}{I'll be going now.}
-{138}{}{You're right... if only I could clear my head. There's something...}
-{139}{}{I know why you can't clear your head.}
-{140}{}{The Master keeps you from thinking clearly. Thinking disturbs the unity.}
-{141}{}{The Master is the reason you are in such pain.}
-{142}{}{Hey, I've got an idea - let's cut open the Master and see what's inside!!!}
-{143}{}{Tell me! Please!!}
-{144}{}{You used to be human, too. The Master dipped you in the Forced Evolutionary Virus and mutated you.}
-{145}{}{Sorry, I can't.}
-{146}{}{Only the Master can tell you everything.}
-{147}{}{Only the Master can tell you everything. But you'd better talk to him quick, 'cause I'm on my way to kill him.}
-{148}{}{Sorry, got to go.}
-{149}{}{I should kill you for taunting me!}
-{150}{}{I have a better idea - help me destroy the Master for doing this to you.}
-{151}{}{No, you should kill the Master for doing this to you. I'm on my way to do just that... would you like to join me?}
-{152}{}{Why? I'm not the one who turned you into a mutant!}
-{153}{}{You're welcome to try.}
-{154}{}{No thanks. Bye!}
-{155}{}{Let's twist his head until his eyes pop out.}
-{156}{}{You will never kill the Master. He cannot die.}
-{157}{}{You're right. I'd better get out of here.}
-{158}{}{We'll see about that.}
-{159}{}{Hmmm. I wonder how he'll continue to live when his unity is destroyed...}
-{160}{}{That can't be.. the Master.. protects... unifies...}
-{161}{}{Well, you're a living example of 'unification', my friend. I know, I've seen the process. I'm here to stop the Master from 'unifying' anyone else.}
-{162}{}{How does it feel to be protected and unified?}
-{163}{}{Yeah, he protects himself by controlling everyone else.}
-{164}{}{I've had enough of this. Goodbye.}
-{165}{}{Leave now or I will be forced to deal with you.}
-{166}{}{AAAUGH!!! (Grabs his head in pain and confusion) I.. can't...}
-{167}{}{That's right, your friend the Master stripped you of everything you had in this world, including your humanity.}
-{168}{}{You know that it's true... that's why you're so confused. You're fighting the mutation. Help me avenge you by destroying the Master!}
-{169}{}{Sure you can. C'mon, let's kill the Master; it'll will be fun.}
-{170}{}{I'd better leave.}
-{171}{}{I'm sorry you're in such pain, but it's the Master's fault.}
-{172}{}{I will pull his eye out!! I'll tear his slimy little head from its cables!!!! You, get out of here... I'll take care of the Master.}
-{173}{}{Great!!}
-{174}{}{Thanks for the offer, but I'd like to do the job myself. Would you like to help?}
-{175}{}{I'm going to stay here. I have some unfinished business.}
+{100}{}{Voici Rae.}
+{101}{}{Voici un super mutant.}
+{102}{}{Tu n'as rien à faire ici.}
+{103}{}{[air embarrassé et triste] Je pense que si, mais... que fais-tu là ?}
+{104}{}{Toi non plus.}
+{105}{}{Euh, si. Le Maître m'envoie secrètement en reconnaissance pour vérifier la sécurité.}
+{106}{}{Si. Je suis là pour te tuer.}
+{107}{}{D'accord, je m'en vais.}
+{108}{}{Euh.}
+{109}{}{[soupir] Que veux-tu encore ?}
+{110}{}{J'ai perdu mon chemin... Tu peux me dire comment me rendre auprès du Maître ? Faut que je le tue.}
+{111}{}{Rien. Salut.}
+{112}{}{Voir à quoi tu ressembleras quand je t'aurai fait la peau, saleté de mutant.}
+{113}{}{Qu'est-ce t'as ?}
+{114}{}{grand ougly mougly.}
+{115}{}{Je viens... contempler l'unicité du Maître.}
+{116}{}{Bien sûr. L'unité apporte la paix. Puis-je te demander d'où tu es ?}
+{117}{}{Moi aussi. J'ai fait le pèlerinage de loin pour voir le Maître de mes propres yeux.}
+{118}{}{J'ai beaucoup à apprendre. Comment obtenir une audience auprès du Maître ?}
+{119}{}{C'est ce que j'ai fait hier. Aujourd'hui, j'essaie de m'imaginer la gueule du Maître si je le faisais rôtir tout cru, avec de la guimauve par-dessus.}
+{120}{}{Je crois que le Maître est fou.}
+{121}{}{Je suis de... d'ailleurs.}
+{122}{}{Quelle coïncidence ! Moi aussi.}
+{123}{}{D'où ?}
+{124}{}{Je viens d'un Abri... Je suis un être humain pur jus.}
+{125}{}{Quoi, t'es une de ces andouilles ?}
+{126}{}{D'où viens-tu ?}
+{127}{}{[à voix basse] Je viens d'un Abri... Je suis un être humain pur jus.}
+{128}{}{Je préfère pas le dire. Salut.}
+{129}{}{D'un petit village au Nord d'ici.}
+{130}{}{Pourquoi je te le dirais, hein ? T'es qu'un larbin.}
+{131}{}{Pourquoi me dire ça ? Je devrais te traîner devant le Maître...}
+{132}{}{Mais tu le feras pas !}
+{133}{}{Essaie toujours !}
+{134}{}{Ah, je devrais te pointer mon fusil sous le nez et tirer !}
+{135}{}{Non, s'il te plaît !}
+{136}{}{Je sais pourquoi tu souffres.}
+{137}{}{Bon, faut que j'y aille.}
+{138}{}{C'est vrai... si seulement je pouvais me vider la tête. Y'a quelque chose...}
+{139}{}{Je sais pourquoi tu peux pas te vider la tête.}
+{140}{}{Le Maître t'empêche de penser clairement. La réflexion dérange l'unité.}
+{141}{}{Le Maître, voilà la raison de ta souffrance.}
+{142}{}{Eh, j'ai une idée... Si on découpait le Maître pour voir ce qu'il y a dedans !!}
+{143}{}{Dis-moi ! S'il te plaît !!}
+{144}{}{Toi aussi, tu faisais partie de la race humaine. Mais le Maître t'a plongé dans le virus FEV pour te faire muter.}
+{145}{}{Je regrette, je peux pas.}
+{146}{}{Seul le Maître peut tout te dire.}
+{147}{}{Seul le Maître peut tout te dire. Mais fais vite si t'as à lui causer parce que je vais de ce pas le trucider.}
+{148}{}{Mes excuses, faut que j'y aille.}
+{149}{}{Je devrais te tuer pour oser me railler !}
+{150}{}{J'ai une meilleure idée... Si tu m'aidais à détruire le Maître pour t'avoir fait ça.}
+{151}{}{Non, tu devrais tuer le Maître pour t'avoir fait ça. Justement, j'y vais de ce pas... tu m'accompagnes ?}
+{152}{}{Pourquoi ? C'est pas moi qui t'ai transformé en mutant !}
+{153}{}{Essaie toujours !}
+{154}{}{Non, merci. Salut !}
+{155}{}{Tordons-lui le cou jusqu'à ce que ses yeux lui sortent de la tête.}
+{156}{}{Jamais tu ne tueras le Maître. Il est immortel.}
+{157}{}{Tu as raison. Vaut mieux que je file.}
+{158}{}{C'est ce qu'on verra.}
+{159}{}{Hum. Je me demande comment il fera pour vivre une fois son unité détruite...}
+{160}{}{Impossible... le Maître... protège... unifie...}
+{161}{}{Ouais, t'es un exemple vivant d'"union". Je sais, j'ai assisté au processus. Je suis là pour empêcher le Maître d'"unir" quelqu'un d'autre.}
+{162}{}{Comment ça fait d'être protégé et uni ?}
+{163}{}{Ouais, il se protège en contrôlant tout le monde.}
+{164}{}{Bon, ça suffit. Salut.}
+{165}{}{File ou je vais devoir m'occuper de toi.}
+{166}{}{AAHHH !! [Se saisit la tête de douleur et de désarroi] Je... peux pas...}
+{167}{}{Exact, ton ami le Maître t'a dépouillé de tout, y compris de ton humanité.}
+{168}{}{Tu sais que c'est la vérité... c'est pour ça que t'es si troublé. Tu luttes contre la mutation. Aide-moi à te venger en détruisant le Maître !}
+{169}{}{Mais si, tu peux ! Allez, on va tuer le Maître, ce sera marrant.}
+{170}{}{Bon, faut que j'y aille.}
+{171}{}{Je regrette de te voir souffrir ainsi, mais c'est la faute du Maître.}
+{172}{}{Je lui arracherai l'oeil !! J'arracherai sa sale petite tête de ses câbles !! Toi... sors d'ici... Je vais m'occuper du Maître.}
+{173}{}{Super !!}
+{174}{}{Merci de ton offre, mais j'aime mieux faire le boulot moi-même. Tu veux participer ?}
+{175}{}{Je reste ici. J'ai des trucs à finir.}

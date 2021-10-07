@@ -1,154 +1,154 @@
-{100}{}{You see a drunk.}
-{101}{}{You see a customer.}
-{102}{}{You see a sleazy-looking woman.}
-{103}{}{You see a strange-looking man.}
-{104}{}{You see a gambler.}
-{105}{}{You see a very pretty lady. She seems to be busy.}
-{106}{}{You see a woman.}
-{107}{}{You see a man.}
-{108}{}{You see a very upset gambler.}
-{109}{}{You see a mercenary.}
-{110}{}{Leave me to my sorrows.}
-{111}{}{Yer my bestest friend.}
-{112}{}{Why you're... *hic* where am I?}
-{113}{}{Who are you?}
-{114}{}{Do I know you?}
-{115}{}{I feel a little queasy.}
-{116}{}{Drinks are on me... I mean, you.}
-{117}{}{Why are there two of you?}
-{118}{}{Stand still, laddie!}
-{119}{}{Stand still, lassie!}
-{120}{}{Beat it, skag!}
-{121}{}{Yer droppin' the class of this joint.}
-{122}{}{Get away, you'll jinx me!}
-{123}{}{Don't break my concentration.}
-{124}{}{I'll beat this damn game yet!}
-{125}{}{You any good at this?}
-{126}{}{Did you see that? That was impossible!}
-{127}{}{I think they're cheating.}
-{128}{}{Now those are good odds.}
-{129}{}{It's a sure thing.}
-{130}{}{What? How could I have lost?}
-{131}{}{This table's jinxed!}
-{132}{}{I'm busy.}
-{133}{}{Can't you see I'm playing a game here?}
-{134}{}{Bet it or beat it.}
-{135}{}{Leave us alone or I'll call the guards.}
-{136}{}{Watch it, I'm a close friend of Deputy Fry.}
-{137}{}{Do you mind?}
-{138}{}{No peep shows!}
-{139}{}{I don't do groups.}
-{140}{}{I'm too tired for another one.}
-{141}{}{You're dreaming, pal. Beat it!}
-{142}{}{Get the hell out!}
-{143}{}{What the hell do you think you're doing?}
-{144}{}{Mind your manners!}
-{145}{}{I'll call the cops!}
-{146}{}{Don't even think about it!}
-{147}{}{Get out!}
-{148}{}{Beat it!}
-{149}{}{What are you staring at?}
-{150}{}{Are you part of the combo?}
-{151}{}{Get the hell out of our room!}
-{152}{}{Get out!}
-{153}{}{Are you part of the combo?}
-{154}{}{Beat it, pervert!}
-{155}{}{What's your problem?}
-{156}{}{Beat it before I get angry.}
-{157}{}{Get your own.}
-{158}{}{She's mine.}
+{100}{}{Voici un ivrogne.}
+{101}{}{Voici un client.}
+{102}{}{Tu vois une femme sordide.}
+{103}{}{Voici un homme étrange.}
+{104}{}{Voici un joueur.}
+{105}{}{Tu vois une très jolie dame. Elle semble être occupée.}
+{106}{}{Voici une femme.}
+{107}{}{Tu vois un homme.}
+{108}{}{Voici un joueur bouleversé.}
+{109}{}{Voici un mercenaire.}
+{110}{}{Laisse-moi à mon chagrin.}
+{111}{}{Tu es mon meilleur ami.}
+{112}{}{Pourquoi t'es... [hic] J'suis où là ?}
+{113}{}{Qui es-tu ?}
+{114}{}{Je te connais ?}
+{115}{}{J'ai un peu mal au coeur.}
+{116}{}{C'est ma tournée, hum j'veux dire la tienne.}
+{117}{}{Pourquoi je te vois en double ?}
+{118}{}{Reste immobile, mec !}
+{119}{}{Reste immobile, fillette !}
+{120}{}{Dégage d'ici, loser !}
+{121}{}{Tu ne fais pas honneur à cette maison de jeu.}
+{122}{}{Va t'en, tu vas me porter la poisse !}
+{123}{}{Ne me déconcentre pas.}
+{124}{}{Je vais gagner !}
+{125}{}{Tu es bon à ça ?}
+{126}{}{Tu as vu ça ? C'est impossible !}
+{127}{}{Je crois qu'ils trichent.}
+{128}{}{C'est une belle donne.}
+{129}{}{C'est sûr.}
+{130}{}{Quoi ? Comment ai-je pu perdre ?}
+{131}{}{Cette table porte malheur !}
+{132}{}{Je n'ai pas le temps.}
+{133}{}{Tu ne vois pas que je suis en train de jouer ?}
+{134}{}{Joue ou fiche le camp.}
+{135}{}{Laisse-nous tranquilles ou j'appelle les gardes.}
+{136}{}{Attention, le Député Fry est un des mes amis.}
+{137}{}{Qu'est-ce que tu veux ?!}
+{138}{}{Pas de coups d'oeil !}
+{139}{}{Je n'accepte pas les groupes.}
+{140}{}{Je n'en peux plus. J'arrête.}
+{141}{}{Tu rêves mon gars, casse-toi !}
+{142}{}{Fiche le camp d'ici !}
+{143}{}{Mais pour qui te prends-tu ?}
+{144}{}{Attention à ce que tu fais !}
+{145}{}{Je vais appeler les flics !}
+{146}{}{Ne te fais pas d'illusions !}
+{147}{}{Sors !}
+{148}{}{Fiche le camp !}
+{149}{}{Qu'est-ce que tu regardes ?}
+{150}{}{Tu fais partie de l'orchestre ?}
+{151}{}{Sors de ma chambre !}
+{152}{}{Sors !}
+{153}{}{Tu fais partie de l'orchestre ?}
+{154}{}{Casse-toi, pervers !}
+{155}{}{C'est quoi ton problème ?}
+{156}{}{Fiche le camp avant que je ne m'énerve !}
+{157}{}{Comme tu voudras.}
+{158}{}{Elle est à moi.}
 {159}{}{Damn!}
-{160}{}{Are you cheating?}
-{161}{}{That should have been mine.}
-{162}{}{Almost!}
-{163}{}{Just missed it.}
-{164}{}{What're the rules again?}
-{165}{}{I used to be good at this.}
-{166}{}{Thanks for nothing.}
-{167}{}{I don't believe it!}
-{168}{}{I meant to do that, honest.}
-{169}{}{Place your bets.}
-{170}{}{Keep your hands away, sir.}
-{171}{}{Winner!}
-{172}{}{Sorry folks, maybe next time.}
-{173}{}{Another winner!}
-{174}{}{Hands off!}
-{175}{}{Your turn, sir.}
-{176}{}{Sorry, that's an invalid bet.}
-{177}{}{That's it.}
-{178}{}{Anyone else?}
-{200}{}{Hey darlin', lookin' for a good time?}
-{201}{}{What'ya lookin for, darlin'?}
-{202}{}{Lookin' for some company?}
-{203}{}{Hey there, cutie.}
-{204}{}{You like what you see? I do.}
-{205}{}{Show me what you got, sugar.}
-{206}{}{I like it rough, if you're into that.}
-{207}{}{No diseases; I'm clean!}
-{208}{}{I do groups, for a little extra.}
-{209}{}{I'll do anything for the right price...}
-{210}{}{I've never been with a girl before...}
-{211}{}{I'm your dream come true, sugar.}
-{212}{}{If you've got the caps, i'm in.}
-{213}{}{You like what you see? I do.}
-{214}{}{Hey there, sweet pea.}
-{215}{}{Hey darlin', lookin' for a good time?}
-{216}{}{I like it rough, if you're into that.}
-{217}{}{No diseases; I'm clean!}
-{218}{}{I do groups, for a little extra.}
-{219}{}{I'll do anything for the right price...}
-{220}{}{How much does the fun cost?}
-{221}{}{Twenty caps.}
-{222}{}{Let's get down to business...}
-{223}{}{No thanks, not interested.}
-{224}{}{Thanks for the good time. I'll see you later.}
-{225}{}{How much for some group action?}
-{226}{}{A hundred caps.}
-{227}{}{Alright. What'chya lookin for, darlin'?}
-{228}{}{Alright, follow me...}
-{229}{}{Thanks, stranger. (She pockets the caps and blows you a kiss)}
+{160}{}{Tu triches ?}
+{161}{}{Ca aurait dû être à moi.}
+{162}{}{Presque !}
+{163}{}{Raté.}
+{164}{}{Quelles sont les règles déjà ?}
+{165}{}{Je me débrouillais bien à ce jeu autrefois.}
+{166}{}{Merci quand même.}
+{167}{}{Je n'arrive pas à y croire !}
+{168}{}{C'est ce que je voulais faire, vraiment.}
+{169}{}{Faites vos jeux.}
+{170}{}{Retirez vos mains, monsieur.}
+{171}{}{Gagné !}
+{172}{}{Excusez-moi, peut-être la prochaine fois.}
+{173}{}{Un autre gagnant !}
+{174}{}{Bas les pattes !}
+{175}{}{C'est à vous.}
+{176}{}{Excuse-moi, ce pari n'est pas valable.}
+{177}{}{C'est comme ça.}
+{178}{}{Quelqu'un d'autre ?}
+{200}{}{Hé chérie, on cherche du bon temps ?}
+{201}{}{Qu'est-ce que tu désires chéri ?}
+{202}{}{En recherche d'une certaine compagnie ?}
+{203}{}{Hé là, beautée.}
+{204}{}{T'aimes bien ce que tu vois ? Moi oui.}
+{205}{}{Alors montre moi ce que t'as, mon chou.}
+{206}{}{J'aime quand c'est violent, si t'es dans ce genre là.}
+{207}{}{Pas de maladies, je suis saine !}
+{208}{}{Pour un p'tit extra, j'accepte les groupes.}
+{209}{}{Je ferai n'importe quoi pour un bon prix...}
+{210}{}{Je n'ai jamais été avec une fille auparavant...}
+{211}{}{Je suis ton rêve qui devient réalité, ma chérie.}
+{212}{}{Si t'as les caps, j'en suis.}
+{213}{}{T'aimes bien ce que tu vois ? Moi oui.}
+{214}{}{Salut, ma belle...}
+{215}{}{Hé chérie, on cherche du bon temps ?}
+{216}{}{J'aime quand c'est violent, si t'es dans ce genre là.}
+{217}{}{Pas de maladies, je suis saine !}
+{218}{}{Pour un p'tit extra, j'accepte les groupes.}
+{219}{}{Je ferai n'importe quoi pour un bon prix...}
+{220}{}{Combien coûte le tour de manège ?}
+{221}{}{Vingt capsules.}
+{222}{}{Passons aux choses sérieuses...}
+{223}{}{Non merci, pas intéressé.}
+{224}{}{Merci du bon temps. Je reviendrai plus tard.}
+{225}{}{Combien pour un groupe ?}
+{226}{}{Cent capsules.}
+{227}{}{Très bien. Qu'est-ce que tu cherches, chéri ?}
+{228}{}{Bien, suis-moi...}
+{229}{}{Merci étranger. [Elle empoche les caps et te donne un baiser]}
 {230}{}{Lapdance.}
-{231}{}{Striptease.}
-{232}{}{Pritty lady. With me?}
-{233}{}{Oh god... darlin' I gotta make a livin' but even I have standards.}
-{234}{}{Have some fun with yourself, I'll just watch.}
-{235}{}{ME WANT!}
-{236}{}{The usual.}
-{237}{}{Anything and everything! Surprise me...}
-{238}{}{Hmph.}
-{239}{}{Sorry darlin'. If you find yourself a new brain, come back and see me.}
-{240}{}{Mmf. Oh-k, me go.}
-{241}{}{Depends on what you're lookin' for, honey.}
-{242}{}{Alright, everyone follow me...}
-{243}{}{Cap?}
-{244}{}{*sigh* Yes, you idiot. Bottle caps. Pay me 150 and I'll show you a good time. That should be enough for me to drown my shame at the Falcon and still make a profit.}
-{245}{}{I don't care, let's just get this over with.}
-{246}{}{Just sex.}
-{247}{}{For you, }
-{248}{}{For you, sugar? }
-{249}{}{Okay, sounds good.}
-{250}{}{On second thought, never mind.}
-{251}{}{Suit yourself, sugar. You'll be back.}
-{252}{}{I don't have that many caps.}
-{253}{}{Then why the fuck are you even talking to me? Get out!}
+{231}{}{Strip-tease.}
+{232}{}{Ma jolie. Tu me suis ?}
+{233}{}{Mon dieu... chérie, je dois gagner ma vie mais j'ai des limites.}
+{234}{}{Amuse toi toute seule, je vais regarder.}
+{235}{}{MOI JE VEUX !}
+{236}{}{Les choses habituelles.}
+{237}{}{Tout est n'importe quoi ! Surprends moi...}
+{238}{}{Hmpf.}
+{239}{}{Désolé chéri. Si tu te trouve un autre cerveau, reviens me voir.}
+{240}{}{Mmf. Oh-k, moi partir.}
+{241}{}{Tout dépend de ce que tu cherches, mon chou.}
+{242}{}{Bien, tout le monde me suit...}
+{243}{}{Caps ?}
+{244}{}{[soupir] Oui idiot, des capsules. Paies moi 150 caps et t'auras du bon temps. C'est assez pour noyer mon chagrin et ma honte au bar tout en gardant un petit bénef.}
+{245}{}{Ca m'est égal, allons-y et c'est tout.}
+{246}{}{Seulement du sexe.}
+{247}{}{Pour toi, }
+{248}{}{Pour toi, sucre d'orge ? }
+{249}{}{Bien, ça semble honnête.}
+{250}{}{Après réflexion, je m'abstiens.}
+{251}{}{Comme tu veux mon sucre d'orge, tu reviendras.}
+{252}{}{Je n'ai pas autant de caps.}
+{253}{}{Alors putain de merde, pourquoi tu me parles ? Tire-toi !}
 {254}{}{[Continue]}
-{255}{}{[Done]}
-{256}{}{Thanks, sugar. Come back soon!}
-{257}{}{Here go.}
-{258}{}{Me no got monies...}
-{259}{}{Hmph!}
-{260}{}{I can't believe I'm even doing this...}
-{261}{}{Get out of here. I'm gonna go throw up now.}
-{262}{}{I need to get a new job.}
-{263}{}{You again? Fuck off, I don't work with retards that can't pay.}
-{264}{}{Urr...}
-{265}{}{Buh?}
+{255}{}{[Terminé]}
+{256}{}{Merci surcre d'orge, reviens vite !}
+{257}{}{Je suis partir.}
+{258}{}{Moi pas agent...}
+{259}{}{Hmpf !}
+{260}{}{Je ne peux pas croire que je suis en train de faire ça...}
+{261}{}{Pars, je vais aller vomir maintenant.}
+{262}{}{J'ai besoin d'un nouveau boulot.}
+{263}{}{Encore toi ? Casse-toi, je bosse pas avec les attardés... Surtout ceux qui ne paient pas...}
+{264}{}{Grr...}
+{265}{}{Hein ?}
 {300}{}{ caps.}
-{301}{}{Upon further inspection, it's obvious that this is a prostitute with a customer. She motions for you to leave, immediately.}
-{302}{}{Upon further inspection, it's obvious that this is a prostitute. She flashes you a fake smile.}
-{400}{}{Well that was interesting.}
+{301}{}{Après une meilleure inspection, il semble évident qu'il s'agit d'une prostituée avec un client. Elle te fait signe de partir immédiatement !}
+{302}{}{Après réflexion, il est évident que c'est une prostituée.}
+{400}{}{Et bien ce fut plutôt intéressant.}
 {401}{}{Wouaf !}
-{402}{}{We should get back to work now.}
-{403}{}{Ugh, I feel dirty.}
-{404}{}{Oh wow...}
-{405}{}{Well... I guess I could make an exception. You better have a helluva lot of caps though.}
+{402}{}{On devrait y aller maintenant.}
+{403}{}{Heu, Je me sens sale.}
+{404}{}{Oh ouoho...}
+{405}{}{Bien... je suppose que je pourrais faire une exception. T'as intérêt à avoir un bon paquet de caps.}

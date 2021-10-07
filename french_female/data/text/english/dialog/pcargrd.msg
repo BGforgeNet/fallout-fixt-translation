@@ -1,20 +1,20 @@
-{100}{}{You see a Paladin.}
-{101}{}{Pssst, see any good deals?}
-{102}{}{Sorry, I'm on duty. Can't talk right now.}
-{103}{}{What a nice day. I hope we don't have any attacks today.}
-{104}{}{Good day.}
-{105}{}{Some of these caravan traders are a little strange.}
-{106}{}{Hi there good looking.}
-{107}{}{Greetings Initiate.}
-{108}{}{If you have any questions about our order you should talk to Cabbot over by the door.}
-{109}{}{Cabbot is the one you want to talk to, he's the young lad by the door.}
-{110}{}{If you're here to trade you're talking to the wrong person.}
-{111}{}{What?}
-{112}{}{Don't bother me worm.}
-{113}{}{Do I look like I'm interested in anything you might have to offer?}
-{114}{}{Hmph. The nerve.}
-{115}{}{I'm on watch, don't disturb me.}
-{116}{}{Initiate, you should know better than to bother us while we're on watch.}
-{117}{}{Initiate, shouldn't you be doing something useful?}
-{118}{}{If you have any questions about our order you should talk to Cabbot over by the door.}
-{119}{}{I don't think you should be here stranger.}
+{100}{}{Voici un garde Paladin.}
+{101}{}{Pssst, y'a pas quelques affaires juteuses ?}
+{102}{}{Je regrette, je suis en service. Impossible de parler.}
+{103}{}{Quelle belle journée ! J'espère qu'on n'aura pas d'attaques.}
+{104}{}{Bonne journée.}
+{105}{}{Certains des marchands des Caravanes sont un peu bizarres.}
+{106}{}{Salut beauté.}
+{107}{}{Salut à toi, Initié.}
+{108}{}{Initié, t'as rien d'utile à faire ?}
+{109}{}{C'est à Cabbot que tu dois t'adresser. C'est le p'tit jeune près de la porte.}
+{110}{}{Si t'es là pour faire du commerce, c'est pas à moi qu'il faut s'adresser.}
+{111}{}{Quoi ?}
+{112}{}{Me dérange pas, tête de piaf.}
+{113}{}{J'ai l'air d'être intéressé par tes offres ?}
+{114}{}{Hum. Quel culot !}
+{115}{}{Je suis de garde, me dérange pas !}
+{116}{}{Initié, tu ferais mieux de pas nous déranger quand on est de garde.}
+{117}{}{Si t'as des questions sur notre ordre, adresse-toi à Cabbot, là-bas près de la porte.}
+{118}{}{Initié, t'as rien d'utile à faire ?}
+{119}{}{Je crois que t'as rien à faire ici.}

@@ -1,57 +1,57 @@
-{100}{}{You see: Knight Paul.}
-{101}{}{Ahhh, so you're the new Initiate. Welcome aboard. What can I do for you?}
-{102}{}{Who are you and what do you do here?}
-{103}{}{Where can I get some weapons?}
-{104}{}{Vree told me I could see a new weapon.}
-{105}{}{Do you have a Water Chip?}
-{106}{}{Do you have any Power Armor parts?}
-{107}{}{Whaadda?}
-{108}{}{Nothing, thanks.}
-{109}{}{I'm Paul, head of Energy Weapons Development.}
-{110}{}{What kind of energy weapons?}
-{111}{}{Do you have the laser pistol that Vree designed?}
-{112}{}{Laser, plasma... you name it, I've built it... or at least re-built it.}
-{113}{}{Any chance I can get one?}
-{114}{}{That's great. Keep up the good work. Bye.}
-{115}{}{You would have to see Michael to be issued a weapon. He can't authorize you for one though, for that you would have to see Talus.}
-{116}{}{Alright, where can I find them?}
-{117}{}{Okay, thanks for the info. Bye.}
-{118}{}{They are both on the first floor of the base. Talus is usually in the training room and Michael does his duty just outside of the storage room.}
-{119}{}{Thanks. Can I ask you some more questions?}
-{120}{}{Thanks. I'll be going now.}
-{121}{}{Sure. What can I help you with?}
-{122}{}{Where can I get some new weapons?}
-{123}{}{Do you have a Water Chip?}
-{124}{}{Do you have any parts for Power Armor?}
-{125}{}{Can I see the new laser pistol?}
-{126}{}{Actually, I need to get going. Bye.}
-{127}{}{Yes. The latest in hand held laser technology. [He takes a small pistol from a work table and hands it to you]}
-{128}{}{This is nice, can I keep this? }
-{129}{}{What kind of damage will this do to a person?}
-{130}{}{That one won't do you much good. It's still lacking the lenses and amplifier. [He takes the pistol back from you and puts it on the work table] If you really want one, go talk to Talus or Michael.}
-{131}{}{Thanks, where can I find them?}
-{132}{}{Thanks, I should be going now.}
-{133}{}{Can I ask you some more questions?}
-{134}{}{A Water Chip? The ones from the old Vault-Tec shelters?}
-{135}{}{Yes! Do you have one?}
-{136}{}{No. Those things were junk, they were prone to failure. We don't deal with purifying our own water here. We have water delivered by caravans from the Hub.}
-{137}{}{Okay. Thanks. Well I've got to keep looking for one. Bye.}
-{138}{}{Could I ask you some more questions?}
-{139}{}{In the hands of a skilled warrior, it could cut a person in half. The beam will shear flesh faster than you can run your finger through sand.}
-{140}{}{Can I keep this one?}
-{141}{}{No. I only work on energy weapons. You should go see Kyle if you have questions about Power Armor.}
-{142}{}{Actually Kyle doesn't have the parts, that why I'm looking for them.}
-{143}{}{Thanks. Bye.}
-{144}{}{Well, I can't help you with that. Sorry.}
-{145}{}{Thanks. I need to get going. Bye.}
-{146}{}{Can I ask you some more questions?}
-{147}{}{Hello again, Initiate }
-{148}{}{. What can I help you with?}
-{149}{}{Who are you and what do you do here?}
-{150}{}{Where can I get some weapons?}
-{151}{}{Vree told me I could see a new weapon.}
-{152}{}{Do you have a Water Chip?}
-{153}{}{Do you have any Power Armor parts?}
-{154}{}{Whaadda?}
-{155}{}{Nothing, thanks.}
-{156}{}{Um... please leave before you drool on something important.}
+{100}{}{Voici le Chevalier Paul.}
+{101}{}{Ahhh, alors c'est toi la jeune recrue. Bienvenue. En quoi je peux t'aider ?}
+{102}{}{Qui es-tu et que fais-tu ici ?}
+{103}{}{Où puis-je me procurer des armes ?}
+{104}{}{Vree m'a dit que je pourrais voir une nouvelle arme.}
+{105}{}{T'aurais pas une puce d'eau ?}
+{106}{}{T'aurais pas des pièces de SuperArmure ?}
+{107}{}{Que quoi ?}
+{108}{}{Rien, merci.}
+{109}{}{Je suis Paul, le responsable du Développement des Armes à Energie.}
+{110}{}{Quel genre d'armes à énergie ?}
+{111}{}{T'aurais pas le pistolet laser conçu par Vree ?}
+{112}{}{Laser, Plasma... tout ce que tu veux, je le fabrique... ou du moins, je le re-fabrique.}
+{113}{}{C'est possible de m'en procurer un ?}
+{114}{}{Super. Continue comme ça. Salut.}
+{115}{}{Pour avoir une arme, faudrait que tu vois Michael. Mais il ne peut pas te donner d'autorisation. Pour ça, faut voir Talus.}
+{116}{}{D'accord. Où je peux les trouver ?}
+{117}{}{D'accord. Merci pour les infos, salut.}
+{118}{}{Tous deux sont au premier étage de la base. D'habitude, Talus est dans la salle d'entraînement et Michael, dans la salle de stockage.}
+{119}{}{Merci. Je peux encore te poser quelques questions ?}
+{120}{}{Merci. Faut que je parte.}
+{121}{}{Certainement. En quoi je peux t'aider ?}
+{122}{}{Où je peux me procurer de nouvelles armes ?}
+{123}{}{T'aurais pas une puce d'eau ?}
+{124}{}{T'aurais pas des pièces de SuperArmure ?}
+{125}{}{Je peux voir le nouveau pistolet laser ?}
+{126}{}{Euh, faut que je parte. Salut.}
+{127}{}{Oui. Le nec plus ultra de la technologie des armes de poing. [Il prend un petit pistolet sur une table de travail et te le tend.]}
+{128}{}{Beau bijou, je peux le garder ?}
+{129}{}{Quel genre de dégâts ça fait sur une personne ?}
+{130}{}{Celui-là te servira pas à grand-chose. Il manque encore la lunette et l'amplificateur. [Il te reprend le pistolet et le repose sur la table.] Si t'en veux vraiment un, adresse-toi à Talus ou à Michael.}
+{131}{}{Merci. Où je peux les trouver ?}
+{132}{}{Merci, faut que je parte.}
+{133}{}{Je peux encore te poser quelques questions ?}
+{134}{}{Une puce d'eau ? Comme celle des anciens Abris Tech ?}
+{135}{}{Oui ! T'en as une ?}
+{136}{}{Non. Ces puces, de la camelote qui tombe toujours en panne ! On purifie pas notre eau ici, c'est le Centre qui nous la livre par caravanes.}
+{137}{}{D'accord. Merci. Bon, je dois continuer à chercher. Salut.}
+{138}{}{Je peux encore te poser quelques questions ?}
+{139}{}{Dans des mains expertes, ça peut couper quelqu'un en deux. Le rayon déchire la chair en un éclair.}
+{140}{}{Je peux le garder ?}
+{141}{}{Non. Je travaille seulement sur les Armes à énergie. Si t'as des questions sur la SuperArmure, adresse-toi à Kyle.}
+{142}{}{En fait, Kyle n'a pas les pièces, c'est pour ça que je les cherche.}
+{143}{}{Merci. Salut.}
+{144}{}{Je regrette, là-dessus, je ne peux pas t'aider.}
+{145}{}{Merci. Faut que je parte. Salut.}
+{146}{}{Je peux encore te poser quelques questions ?}
+{147}{}{Re-bonjour, Initié }
+{148}{}{. En quoi je peux t'aider ?}
+{149}{}{Qui es-tu et que fais-tu ici ?}
+{150}{}{Où puis-je me procurer des armes ?}
+{151}{}{Vree m'a dit que je pourrais voir une nouvelle arme.}
+{152}{}{T'aurais pas une puce d'eau ?}
+{153}{}{T'aurais pas des pièces de SuperArmure ?}
+{154}{}{Que quoi ?}
+{155}{}{Rien, merci.}
+{156}{}{Hum... file avant de déblatérer sur quelque chose d'important.}

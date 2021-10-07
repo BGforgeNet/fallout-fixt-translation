@@ -1,78 +1,78 @@
-{100}{}{You see: Sinthia, the seductive sellbaby.}
-{101}{}{You see a pouty, shapely woman.}
-{102}{}{Hey, darlin, how you doin?}
-{103}{}{Okay. Bye.}
-{104}{}{Just fine, but I could be better.}
-{105}{}{Uhh.}
-{106}{}{Oh, baby, I understand. You gotta run home to mama. Well, come back here when you need some luvin'!}
-{107}{}{Yeah, sweets, same to you.}
-{108}{}{You'll find whatever, or whomever, you're lookin for, honey, and that'll make you all better, I'm sure.}
-{109}{}{Maybe I can help you with that.}
-{110}{}{Maybe you can. How much do you charge?}
-{111}{}{I wouldn't let my dog touch you.}
-{112}{}{Oh, baby, if you got to ask... more than you can afford. Maybe next time, sugar. See you around.}
-{113}{}{Oh, sugar, that's just plain disgustin.}
-{114}{}{Oh, gawd, please help me.}
-{115}{}{Please don't let him kill me.}
-{116}{}{I'm too young to die.}
-{117}{}{Oh, gawd, I'm too pretty to die.}
-{118}{}{Thank you for what you did. No one ever took care of me like that before.}
-{119}{}{I can really take care of you later.}
-{120}{}{You're welcome.}
-{121}{}{Unh.}
-{122}{}{Thanks again.}
-{123}{}{Is that all you can think about? Geez. Some people.}
-{124}{}{I mean, my boss didn't even send some of his goons to help. You'd think that for all the cash I make for that loser, he would at least live up to his part of the bargain.}
-{125}{}{Who's your boss?}
-{126}{}{What bargain?}
-{127}{}{Gizmo, of course. He runs all the sin in this town. Killian sure as hell wouldn't put up with me or my kind. If it weren't for the fact that I make Giz a whole hell of a lot of money, I'd have to do other things to him.}
-{128}{}{And, honey, those thoughts just don't do my stomach a whole lot of good.}
-{129}{}{What else does Gizmo control?}
-{130}{}{You should just hang it up and move on with your life.}
-{131}{}{You're telling me. But what else can I do? It seems like my life has been designed by someone else. Oh, well. A girl has to make a living.}
-{132}{}{But sugar, this one's for free.}
-{133}{}{Thanks again, honey. We women gotta stick together.}
-{134}{}{Just about every bad thing a person could do in this town. He owns the Casino. He runs me and some of the other gals, even some little kids. I hear he is trying to take over the bar.}
-{135}{}{You stay away from him, okay? Take it from me, he is not the kind of patron he wants to make you think he is. Stay away.}
-{136}{}{Giz wants to take care of Killian, if you get my meaning.}
-{137}{}{Why, honey, I take care of men, and they take care of me in return. Gizmo gets 25% and I supposedly get his protection. You saw how well that went, huh?}
-{138}{}{What else does Gizmo control?}
-{139}{}{You feel like paying another visit to Sinthia.}
-{140}{}{Maybe Sinthia would like some company...}
-{141}{}{You bastard! I can't believe you killed him. All he wanted was someone to talk to. You don't care about human life, do you?}
-{142}{}{You bitch! I can't believe you killed him. All he wanted was someone to talk to. You don't care about human life, do you?}
-{143}{}{Just get the hell out of my room!}
-{144}{}{You killed him! I can't believe you killed him. All he wanted was someone to talk to...}
-{145}{}{He ain't dead. He's just gonna have a hurt head when he wakes up.}
+{100}{}{Voici la séduisante Cynthia.}
+{101}{}{Voici une femme bien faite qui boude.}
+{102}{}{Eh trésor, comment vas-tu ?}
+{103}{}{Bien. Au revoir.}
+{104}{}{Ca va, mais ça pourrait aller mieux.}
+{105}{}{Euh.}
+{106}{}{Oh, bébé, je comprends. Tu dois rentrer chez ta maman. Eh bien, reviens lorsque tu auras besoin d'un peu d'amour !}
+{107}{}{Ouais, trésor, toi aussi.}
+{108}{}{Tu trouveras tout ce que tu cherches, trésor, et tu te sentiras bien mieux, c'est sûr.}
+{109}{}{Je peux peut-être t'aider.}
+{110}{}{Peut-être. Combien tu prends ?}
+{111}{}{Je ne laisserais même pas mon chien te toucher.}
+{112}{}{Oh, bébé, si tu veux le savoir... c'est trop cher pour toi. Peut-être une autre fois, trésor. Salut.}
+{113}{}{Oh, trésor, c'est dégoûtant.}
+{114}{}{Oh, mon dieu, aide-moi, s'il te plaît.}
+{115}{}{Ne le laisse pas me tuer, s'il te plaît.}
+{116}{}{Je suis trop jeune pour mourir.}
+{117}{}{Oh, mon dieu, je suis trop jolie pour mourir.}
+{118}{}{Merci d'avoir fait ça. Personne ne s'était jamais occupé de moi comme ça.}
+{119}{}{Je m'occuperai de toi, mais plus tard.}
+{120}{}{De rien.}
+{121}{}{Hein...}
+{122}{}{Merci encore.}
+{123}{}{Tu ne penses qu'à ça, alors ? Ah, les gens, je vous jure !}
+{124}{}{Je veux dire, mon chef n'a même pas envoyé un seul de ses gorilles pour m'aider. Quand j'y pense, avec tout l'argent que je donne à ce minable, il pourrait au moins respecter sa part du marché.}
+{125}{}{Qui est ton chef ?}
+{126}{}{Quel marché ?}
+{127}{}{Gizmo, évidemment. Il est responsable de tous les maux de cette ville. Killian ne nous supporterait pas, moi et mes semblables, c'est sûr. Si je ne faisais pas gagner tout cet argent à Giz, je devrais faire autre chose pour lui.}
+{128}{}{Eh, trésor, toutes ces pensées me donnent la nausée.}
+{129}{}{Que contrôle encore Gizmo ?}
+{130}{}{Tu devrais laisser tomber tout ça et mener ta vie comme tu l'entends.}
+{131}{}{C'est facile à dire. Mais que puis-je faire d'autre ? Ma vie semble déjà toute tracée par quelqu'un d'autre. Oh, enfin. Une fille doit gagner sa vie.}
+{132}{}{Mais, trésor, c'est gratuit.}
+{133}{}{Merci encore. Nous, les femmes, devons nous entraider.}
+{134}{}{Il est responsable d'à peu près tous les maux de cette ville. Il dirige le Casino. Il a la mainmise sur moi et les autres filles. Et j'ai entendu dire qu'il voulait prendre la direction du bar.}
+{135}{}{Ne t'approche pas de lui, d'accord ? Crois-moi, il n'est pas le genre de patron qu'il prétend être. Evite-le.}
+{136}{}{Giz veut prendre soin de Killian, si tu vois ce que je veux dire.}
+{137}{}{Mais, trésor, je prends soin des hommes et en retour ils prennent soin de moi. Gizmo me prend 25%, ce qui est censé assurer ma protection. Et tu vois ce que ça donne, hein ?}
+{138}{}{Que contrôle encore Gizmo ?}
+{139}{}{Tu as envie de rendre une autre visite à Cynthia.}
+{140}{}{Peut-être que Cynthia serait contente d'avoir de la compagnie...}
+{141}{}{Salaud ! Tu l'as tué ! Pourquoi l'as-tu tué ? Espèce de connard ! J'arrive pas à croire que tu l'aies tué. Il voulait juste parler à quelqu'un. Mais tu te fiches pas mal de la vie humaine, n'est-ce pas ?}
+{142}{}{Salope ! Tu l'as tué ! Pourquoi l'as-tu tué ? Espèce de putain ! J'arrive pas à croire que tu l'aies tué. Il voulait juste parler à quelqu'un. Mais tu te fiches pas mal de la vie humaine, n'est-ce pas ?}
+{143}{}{Sors de ma chambre !}
+{144}{}{Tu l'as tué ! J'arrive pas à croire que tu l'aies tué. Il voulait juste parler à...}
+{145}{}{Il n'est pas mort. Il aura juste un peu mal à la tête quand il se réveillera.}
 {146}{}{Hnnn.}
-{147}{}{Yeah, whatever. Get the hell out of my room!}
-{148}{}{Oh, sorry. I though he was dead. I thought you killed him. He's not such a bad guy, after all. Just a little lonely.}
-{149}{}{No problem.}
-{150}{}{You again. What can I help you with this time?}
-{151}{}{Just stopping by to see how you are doing.}
-{152}{}{I've got 40 caps, if you got ten minutes.}
-{153}{}{I need some more info on your boss.}
-{154}{}{Ah, honey, I don't think so. Imagine how the children would turn out.}
-{155}{}{Doin fine, thanks to you, sugar.}
-{156}{}{What do you want to know, but make it short, honey, I'm on the clock.}
-{157}{}{How many guards does he have?}
-{158}{}{Where does he stash the money?}
-{159}{}{Does he have any weaknesses?}
-{160}{}{Thanks, doll, but I don't need to know anything else.}
-{161}{}{Hmm. I know about eight, personally, if you get my meaning. I think he has another ten or so.}
-{162}{}{Money? How would I know? He only takes my money, he doesn't show me his. I would guess that it's in his bedroom, but for all I know, he could keep it where the sun doesn't shine. And for Giz, that's a big place.}
-{163}{}{Only that he thinks he doesn't have any. Well, that and he's a fat slob, who can't move for a damn. He's got to have his guards help him move around. Even then, they gotta use a little tricycle. Heh heh.}
-{164}{}{Sugar, you got a date.}
-{165}{}{Sure, honey, for you.}
-{166}{}{I'll show you a good time.}
-{167}{}{Honey, you need some more money. I like you and all, but a girl has to make a livin.}
-{168}{}{I reserve the right to refuse admittance, and honey, you ain't gettin nowhere near me!}
-{169}{}{Sinthia is asleep.}
-{170}{}{Sinthia is busy.}
-{171}{}{Sinthia refuses to speak with you.}
-{172}{}{Sorry, honey, I don't do freaks.}
-{173}{}{Take your cash, your attitude, and your small prick somewhere else!}
-{174}{}{Oh, gawd, somebody help me!}
-{175}{}{You earn }
-{176}{}{ experience for successfully rescuing Sinthia.}
-{177}{}{The guards remove the raider while he is unconscious.}
+{147}{}{Ouais, peu importe. Sors de ma chambre !}
+{148}{}{Oh, pardon. Je croyais qu'il était mort. Je croyais que tu l'avais tué. Il n'est pas si mauvais, au fond. Juste un peu seul.}
+{149}{}{Aucun problème.}
+{150}{}{Encore toi. Que puis-je pour toi cette fois ?}
+{151}{}{Je voulais juste savoir comment tu allais.}
+{152}{}{J'ai 40 caps, si tu as dix minutes à m'accorder.}
+{153}{}{J'ai besoin de renseignements sur ton chef.}
+{154}{}{Ah, trésor, je ne crois pas. Imagine comment tourneraient les enfants.}
+{155}{}{Je vais bien, merci trésor.}
+{156}{}{Que veux-tu savoir ? Mais dépêche-toi, trésor, parce que je n'ai pas beaucoup de temps.}
+{157}{}{Combien de gardes a-t-il ?}
+{158}{}{Où cache-t-il l'argent ?}
+{159}{}{A-t-il des points faibles ?}
+{160}{}{Merci, poupée, mais je n'ai besoin d'aucun autre renseignement.}
+{161}{}{Hmm. Personnellement, j'en connais huit, si tu vois ce que je veux dire. Je crois qu'il en a encore une dizaine d'autres.}
+{162}{}{L'argent ? Comment le saurais-je ? Il me prend mon argent, mais il ne me montre pas le sien. Je dirais qu'il le cache dans sa chambre, mais d'après ce que je sais, il le garde peut-être là où le soleil ne brille pas. Et pour Giz, c'est un endroit immense.}
+{163}{}{Il en veut toujours plus. Et ce n'est qu'un gros lard qui ne peut même pas se déplacer seul. Il a toujours besoin de l'aide de ses gardes. Et même comme ça, ils doivent utiliser un petit tricycle. Hé hé.}
+{164}{}{Trésor, tu as un rendez-vous.}
+{165}{}{Bien sûr, trésor, avec toi.}
+{166}{}{Je vais te faire passer du bon temps.}
+{167}{}{Trésor, il te faut plus d'argent. Je t'aime bien, mais une fille doit gagner sa vie.}
+{168}{}{Je me réserve le droit de refuser quelqu'un, et toi, trésor, tu ne t'approcheras pas de moi !}
+{169}{}{Cynthia est endormie.}
+{170}{}{Cynthia est occupée.}
+{171}{}{Cynthia refuse de te parler.}
+{172}{}{Excuse-moi, trésor, je n'accepte pas les monstres.}
+{173}{}{Remballe ton argent et va t'en !}
+{174}{}{Oh, mon dieu, à l'aide !}
+{175}{}{Tu gagnes }
+{176}{}{ points d'expérience pour avoir réussi à sauver Cynthia.}
+{177}{}{Les gardes emportent le pillard pendant qu'il est inconscient.}

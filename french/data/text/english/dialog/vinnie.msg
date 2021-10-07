@@ -1,72 +1,72 @@
-{100}{}{You see: Vinnie, from the Skulz gang.}
-{101}{}{You see a young man with a tattoo and a bad attitude.}
-{102}{}{I'd like to join you guys.}
-{103}{}{You're on Skulz turf, stranger. You'd better talk quick.}
-{104}{}{Sorry, wrong room.}
-{105}{}{Skulz? Who are you guys?}
-{106}{}{Urgh?}
-{107}{}{Yeah, you bet this is the wrong room!}
-{108}{}{We are the one and only Junktown gang. We have the run of the streets, and we rule the city at night.}
-{109}{}{Oh. Sorry. Bye.}
-{110}{}{You couldn't run the schoolyard, Chromo.}
-{111}{}{I thought this city was run by Gizmo after hours.}
-{112}{}{Get out of here, you moron!}
-{113}{}{That slob can't even stand up by himself. We're the muscle in this town. We take what we want.}
-{114}{}{I see.}
-{115}{}{You have some sort of deal with Killian?}
-{116}{}{What?! You'll pay for that remark!}
-{117}{}{We don't bother Killian and he doesn't bother us as long as we keep it low-key. You get me?}
-{118}{}{Yeah. Bye.}
-{119}{}{I get it, all right. You have to hide out from him.}
-{120}{}{We don't take that from anybody, least of all Killian! Just because he thinks he's a glorified sheriff doesn't mean that he controls the Skulz!}
-{121}{}{Sorry, didn't mean to get you all riled up.}
-{122}{}{So, he cramps your style, eh? Mine, too. In fact, I'm thinking of whacking him. You want in?}
-{123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know... all right, I'm in.}
-{124}{}{You loser, you said we were going to whack Killian. Get out of here.}
-{125}{}{C'mon, let's dust Killian.}
-{126}{}{What do you want now?}
-{127}{}{Nothing. Sorry.}
-{128}{}{I'm looking for someone to help me take out Killian. The Skulz seemed like a good prospect.}
-{129}{}{Damn, I didn't think you'd do it! The Skulz rule this town now! Woo!}
-{130}{}{We've been down this road before. You didn't have the balls then, so get the hell out of here!}
-{131}{}{You want to join us, huh? How do we know you're tough enough to be a Skul?}
-{132}{}{I'll show you tough enough, you son of a bitch!}
-{133}{}{Let me prove myself to you.}
-{134}{}{Trust me, I'm tough enough.}
-{135}{}{[Vinnie looks at you and laughs] I don't think so.}
-{136}{}{I'll prove it to you.}
-{137}{}{That's it. Time for you to die.}
-{138}{}{You're right, I'll be leaving now.}
-{139}{}{What makes the Skulz so tough?}
-{140}{}{[Vinnie thinks for a second.] If you want to prove you belong in the Skulz, I want you to steal that old bastard's wife's ashes. Heh. [Vinnie mumbles] Let's make Neal suffer for his last couple of hours... }
-{141}{}{All right, I'll do it.}
-{142}{}{No way.}
-{143}{}{Uh, I don't think I could do that.}
-{144}{}{I already stole it.}
-{145}{}{That won't be as tough as you might think. I already killed the bastard.}
-{146}{}{If you're hard enough to do that, mebbe you'd make a Skul after all. Bring it here once you've got it.}
-{147}{}{I knew you weren't Skulz material. Get the hell out of here.}
-{148}{}{You got it?}
-{149}{}{Yep.}
-{150}{}{No.}
-{151}{}{I had to kill Neal to get it. He cried like a little girl.}
-{152}{}{Ha ha! Let that old cock suffer until we off him tonight - are you in?}
-{153}{}{I decided I'd rather not have anything to do with scabs like you.}
-{154}{}{Let's crush him.}
-{155}{}{I've got some other shit to do before then - I'll meet you there.}
-{156}{}{What are you wasting my time for?}
-{157}{}{That'll show that old fuck. Thanks for taking care of him for us. [Vinnie gets a tear in his eye] You're a Skul, now.}
-{158}{}{Uh, all right... meet us later, but don't take too long.}
-{159}{}{Soon, Neal gets his, huh?}
-{160}{}{We said we'd be back, you old fuck!}
-{161}{}{There's a large collection of people arriving at the bar...}
-{162}{}{Fuck you, cop!}
-{163}{}{You earn 400 experience for stealing Neal's urn. The dead shall never rest in peace.}
-{164}{}{You earn 300 experience for puttin' a cap in Neal's ass, you Skul.}
-{165}{}{You ready to take out Neal?}
-{166}{}{Yeah, let's ice the bastard.}
-{167}{}{Nah, I got some more stuff to do.}
-{168}{}{No way. I want out.}
-{169}{}{It's too late for that, slick. When you're out, you're way out.}
-{170}{}{We rule this town.}
-{171}{}{Hey, bro, we rule this town!}
+{100}{}{Voici Vinnie, de la bande des Skulz.}
+{101}{}{Voici un jeune homme tatoué et à l'air méchant.}
+{102}{}{J'aimerais faire partie de votre bande.}
+{103}{}{Tu es sur le territoire des Skulz. Tu ferais mieux de te dépêcher de parler.}
+{104}{}{Pardon, j'ai dû me tromper de salle.}
+{105}{}{Les Skulz ? Qui êtes-vous, les gars ?}
+{106}{}{Hein ?}
+{107}{}{Ouais, c'est ça ! Pas la bonne chambre !}
+{108}{}{Nous sommes la seule et unique bande de Dépôtville. Nous avons le contrôle des rues, et la nuit, nous régnons sur la ville.}
+{109}{}{Oh. Pardon. Au revoir.}
+{110}{}{Tu ne serais même pas capable de faire la loi dans une cour d'école, Chromo.}
+{111}{}{Je pensais que la nuit cette ville était contrôlée par Gizmo.}
+{112}{}{Fiche le camp d'ici, débile !}
+{113}{}{Ce gros lard ne tient même pas debout tout seul. C'est nous qui avons le contrôle de cette ville. On y fait ce qu'on veut.}
+{114}{}{Je vois.}
+{115}{}{Vous avez passé une sorte d'accord avec Killian ?}
+{116}{}{Quoi ?! Tu vas regretter cette remarque !}
+{117}{}{Nous n'embêtons pas Killian et il ne nous embête pas tant qu'on se tient à carreau. Tu me comprends ?}
+{118}{}{Ouais. Au revoir.}
+{119}{}{Je comprends très bien. Vous devez l'éviter.}
+{120}{}{Nous n'acceptons cela de personne, et encore moins de Killian ! Ce n'est pas parce qu'il se prend pour un super shérif qu'il contrôle les Skulz !}
+{121}{}{Pardon, je ne voulais pas te mettre en colère.}
+{122}{}{Alors, il vous met des bâtons dans les roues, hein ? A moi aussi. En fait, j'envisage de lui donner une bonne leçon. Ca te dit ?}
+{123}{}{Tu veux donner une leçon à Killian ? C'est de la folie... je ne sais pas... Très bien, je suis d'accord.}
+{124}{}{Espèce de nullité, tu as dit qu'on allait donner une leçon à Killian. Fiche le camp.}
+{125}{}{Bon, allons donner une leçon à Killian.}
+{126}{}{Que veux-tu cette fois ?}
+{127}{}{Rien. Pardon.}
+{128}{}{Je cherche quelqu'un pour m'aider à éliminer Killian. Les Skulz me semblent parfaits pour ça.}
+{129}{}{Bon sang, je ne pensais pas que tu le ferais ! Les Skulz règnent sur cette ville, maintenant ! Ouah !}
+{130}{}{Tout allait bien avant que tu ne te mêles de nos affaires, alors disparais tout de suite !}
+{131}{}{Tu veux entrer dans notre bande, hein ? Qu'est-ce qui nous dit que tu as assez de cran pour devenir un Skulz ?}
+{132}{}{Tu vas voir si j'ai du cran, ordure !}
+{133}{}{Laisse-moi faire mes preuves.}
+{134}{}{Fais-moi confiance, j'ai du cran.}
+{135}{}{[Vinnie te regarde et rit.] Je ne crois pas.}
+{136}{}{Je vais te le prouver.}
+{137}{}{C'est ça. Ton heure est venue.}
+{138}{}{Tu as raison, je m'en vais.}
+{139}{}{Comment se fait-il que les Skulz aient autant de cran ?}
+{140}{}{[Vinnie réfléchit une seconde.] Si tu veux prouver que tu es capable de faire partie des Skulz, je veux que tu voles les cendres de la femme de ce vieux schnok. Hé. [Vinnie marmonne] Faisons souffrir Neal pour les quelques heures qui lui restent à vivre...}
+{141}{}{Très bien, je vais le faire.}
+{142}{}{Pas question.}
+{143}{}{Euh, je ne crois pas être capable de faire ça.}
+{144}{}{Je les ai déjà volées.}
+{145}{}{Ce ne sera pas aussi dur que tu le crois. J'ai déjà tué cette ordure.}
+{146}{}{Si tu as assez de cran pour faire ça, alors, tu pourras devenir un Skulz après tout. Rapporte-les ici quand tu les auras.}
+{147}{}{Je savais que tu ne ferais pas un bon Skulz. Fiche le camp d'ici.}
+{148}{}{Tu les as ?}
+{149}{}{Ouais.}
+{150}{}{Non.}
+{151}{}{J'ai dû tuer Neal pour les avoir. Il pleurait comme une fillette.}
+{152}{}{Ha ha ! Nous allons faire souffrir ce vieux schnok jusqu'à sa mort ! Ce soir. Tu seras des nôtres ?}
+{153}{}{Finalement, je préfère ne rien avoir à faire avec des minables comme vous.}
+{154}{}{Faisons-lui la peau !}
+{155}{}{J'ai autre chose à faire avant ça. On se retrouvera là-bas.}
+{156}{}{Pourquoi me fais-tu perdre mon temps ?}
+{157}{}{Ca lui apprendra à ce vieux ! Merci de lui avoir fait la peau pour nous. [Une larme à l'oeil] Tu es un Skulz, maintenant.}
+{158}{}{Euh, très bien... retrouve-nous plus tard... mais que ce ne soit pas trop long !}
+{159}{}{Neal va bientôt payer, hein ?}
+{160}{}{On t'avait dit qu'on reviendrait, vieux schnok !}
+{161}{}{Beaucoup de gens arrivent au bar...}
+{162}{}{Va te faire foutre, sale flic !}
+{163}{}{points d'expérience pour avoir volé l'urne de Neal. Les morts ne doivent jamais reposer en paix.}
+{164}{}{points d'expérience pour avoir donné une bonne leçon à Neal, toi qui es maintenant un Skulz.}
+{165}{}{D'accord pour éliminer Neal ?}
+{166}{}{Ouais, allons-y.}
+{167}{}{Non, j'ai autre chose à faire.}
+{168}{}{Pas question. Je veux partir.}
+{169}{}{Trop tard. Tu as laissé passer ta chance.}
+{170}{}{Nous contrôlons cette ville.}
+{171}{}{Eh, nous contrôlons cette ville !}

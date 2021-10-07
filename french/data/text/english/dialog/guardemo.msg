@@ -1,24 +1,24 @@
-{100}{}{A Junktown guard.}
-{101}{}{This is Junktown. Nice place to live, as long as you stay on our good side.}
-{102}{}{Watch out for Gizmo and his cronies.}
-{103}{}{I like my boss.}
-{104}{}{You'd better put that away. Junktown is a friendly place, friend, and we want to keep it that way.}
-{105}{}{Put what away?}
-{106}{}{Don't tell me what to do, loser boy.}
-{107}{}{Sounds fair. By the way, what is the local law regarding weapons?}
+{100}{}{Un garde de Dépôtville.}
+{101}{}{C'est Dépôtville. Un endroit où il fait bon vivre tant qu'on sait choisir le bon camp.}
+{102}{}{Méfie-toi de Gizmo et de ses croulants.}
+{103}{}{Mon chef, c'est le meilleur !}
+{104}{}{Range-moi ça. Dépôtville est un endroit où il fait bon vivre et on entend bien qu'il le reste.}
+{105}{}{Ranger quoi ?}
+{106}{}{Me dis pas ce que j'ai à faire, minable.}
+{107}{}{Ca semble correct. Au fait, qu'en est-il de la loi sur les armes par ici ?}
 {108}{}{Uh oh.}
-{109}{}{Your weapon, idiot. Killian won't take your arms away, but you'd better damn well keep them in your holster.}
-{110}{}{Oh, sorry.}
-{111}{}{No way! I'm not putting down my shooters for nobody!}
-{112}{}{You'd better behave, since it's the law, and I enforce the law. Put your weapon away, don't draw it unless in self-defense, and you won't have a problem with us guards.}
+{109}{}{Ton arme, crétin. Killian ne te prendra pas tes armes, mais je te conseille de ne pas les sortir.}
+{110}{}{Oh, excuse.}
+{111}{}{Pas question ! Personne ne me fera déposer mes flingues !}
+{112}{}{Tu ferais mieux de bien te comporter, puisque c'est la loi, et que j'applique la loi. Range ton arme, ne la sors pas sauf en cas de légitime défense, et tu n'auras pas de problème avec nous, les gardes.}
 {113}{}{[Plus]}
-{114}{}{Disobey the law, and we will return you to the lawless wasteland - dead or alive.}
-{115}{}{Sure, since you put it that way.}
-{116}{}{Bite your laws!}
-{117}{}{Well, uh, fine with me. But you'd better be careful.}
-{118}{}{Fine, then. Heh.}
-{119}{}{Good you asked. No weapons can be drawn except in self-defense. If you start a fight, it's your fault. Other than that, it's your right to go around armed. Just don't pull a knife or gun without just cause. Have a good day.}
-{120}{}{Thanks - you, too.}
-{121}{}{Hey you, no weapons! And I don't care if your mama dropped you on your head as a kid. No weapons.}
-{122}{}{Dorf!}
-{123}{}{You earn 150 experience for killing the guard.}
+{114}{}{Désobéis à la loi, et nous te renverrons dans le désert sans loi, mort ou vif.}
+{115}{}{Bon, j'avais pas vu les choses sous cet angle.}
+{116}{}{Va te faire cuire un oeuf !}
+{117}{}{Bon, bon. Ca va. Mais fais gaffe !}
+{118}{}{Bien, alors. Heh.}
+{119}{}{Bonne question. Interdiction de faire usage des armes, sauf en cas de légitime défense. Si c'est toi qui fais feu le premier, ce sera de ta faute. Sinon, tu as parfaitement le droit de porter une arme.Ne dégaine ton couteau ou ton fusil que si tu as une bonne raison de le faire. Bonne continuation.}
+{120}{}{Merci, toi aussi.}
+{121}{}{Hé, toi ! Qu'est-ce que tu fais avec une arme ? T'as des oreilles, non ? Pas d'armes ici.}
+{122}{}{Dorf !}
+{123}{}{Tu gagnes 150 points d'expérience en tuant le garde.}

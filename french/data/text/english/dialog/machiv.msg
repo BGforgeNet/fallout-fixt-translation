@@ -1,5 +1,5 @@
-{100}{}{Before you is a Mach IV Computer.}
-{101}{}{It seems as though the system is in a reboot status.}
-{102}{}{The system seems to have locked up.}
-{103}{}{The monitor flickers.}
-{104}{}{The screen is showing odd color patterns.}
+{100}{}{Devant toi se trouve un ordinateur Mach IV.}
+{101}{}{Le système semble en cours de réinitialisation.}
+{102}{}{Le système semble s'être verrouillé.}
+{103}{}{L'écran scintille.}
+{104}{}{Sur l'écran apparaissent des formes aux couleurs bizarres.}

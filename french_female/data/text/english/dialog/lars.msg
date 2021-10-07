@@ -1,77 +1,77 @@
-{100}{}{You see a heavily-muscled, scarred man with a mustache.}
-{101}{}{You see: Lars, Sergeant of the Junktown guards.}
-{102}{}{He bears the scars of previous wounds, and looks like an old hand.}
-{103}{}{He has scars from knife and bullet injuries. His corded muscles show a man hardened by adversity.}
-{104}{}{You know, it's not wise to try to steal from the guards here in Junktown, punk!}
-{105}{}{Can I help you, stranger?}
-{106}{}{So, what's there to do around here?}
-{107}{}{Can you give me the big picture on Junktown?}
-{108}{}{Who're you?}
-{109}{}{Eergh.}
-{110}{}{If you're in charge of the guards here, I think I have some information for you.}
-{111}{}{Hey! You! We know about you, you monster!}
-{112}{}{Plenty, so long as you stay on our good side. We got Killian Darkwater's store, where you can do some trading. And there's Gizmo's Casino, if you're a gambler. Or if you just want a drink, you can head on over to the Skum Pitt. Just don't get too rowdy.}
-{113}{}{Hey, I like a rowdy time!}
-{114}{}{Well, you'd best keep yourself under control. We're a free town but we don't tolerate stepping on other people's toes. Don't cause any problems and you won't give cause for me and my men to come down on you.}
-{115}{}{What a stick in the mud!}
-{116}{}{Look, buddy, my job here is to keep the peace, and if I have to break a few heads to do it, then a few people are going to be hurting. So just watch it.}
-{117}{}{Me and my men here work for Killian Darkwater. We keep some order in this town, dealing with all of the murderers, thieves, and other scumbags who come in from the desert. If you want my advice, you'll also stay away from Gizmo. That fathead runs a crooked operation, but we just haven't been able to prove anything. He and his lackeys, the Skulz, are going to take the fall sometime soon, if Killian has anything to say about it.}
-{118}{}{What a bummer. No fun here at all.}
-{119}{}{Good to know that someone's keeping the peace around here. Thanks.}
-{120}{}{So, what keeps you lawboys from just busting Gizmo and the Skulz?}
-{121}{}{Hey, it's our job. But it's good to know that someone appreciates it. Thanks.}
-{122}{}{Got to do it all proper like. We know that Gizmo runs a rigged operation and all, but we need hard evidence to bring him down. Same with the Skulz; they rough someone up, we bring one or two of 'em in, but nothing changes. We just don't have any direct evidence tying them to any of the killings or muggings.}
-{123}{}{Maybe I can help you with that.}
-{124}{}{Well, good luck.}
-{125}{}{Hell, if you think you can get some dirt on either of them, we'd appreciate the help. Killian's the one to talk to if you want to talk about Gizmo. But if you can get some info on the Skulz, just come back to me and me and the boys will take care of them.}
-{126}{}{Thanks. Watch your back.}
-{127}{}{I'm the head of the guards here in Junktown. Name's Lars. For that matter, who are you, stranger?}
-{128}{}{I'm }
+{100}{}{Voici un homme très musclé, balafré et moustachu.}
+{101}{}{Voici Lars, sergent des gardes de Dépôtville.}
+{102}{}{Il porte des cicatrices révélant des blessures anciennes et semble connaître son travail.}
+{103}{}{Il porte des cicatrices de coups de couteau et de blessures par balles. Sa musculature révèle un homme endurci par les épreuves.}
+{104}{}{Tu sais, c'est pas bien d'essayer de détrousser les gardes de Dépôtville, crapule !}
+{105}{}{Puis-je t'aider ?}
+{106}{}{Qu'est-ce qu'on peut faire par ici ?}
+{107}{}{Peux-tu me décrire Dépôtville ?}
+{108}{}{Qui es-tu ?}
+{109}{}{Euh.}
+{110}{}{Si c'est bien toi le responsable des gardes, je crois que j'ai des informations pour toi.}
+{111}{}{Eh ! Toi ! Nous savons qui tu es, espèce de monstre !}
+{112}{}{Beaucoup de choses, à condition de rester dans le bon camp. Il y a la boutique de Killian Darkwater, où tu peux faire des affaires. Il y a aussi le Casino de Gizmo, si tu aimes le jeu. Ou si tu veux juste prendre un verre, tu peux aller au Skum Pitt. Mais évite de trop chahuter.}
+{113}{}{Eh, j'aime bien chahuter de temps en temps !}
+{114}{}{Eh bien, il vaut mieux que tu te surveilles. C'est une ville où chacun est libre de ses actes mais on aime pas les agitateurs. Ne fais pas d'histoires, et mes hommes et moi ne t'en ferons pas.}
+{115}{}{Oh la la !}
+{116}{}{Ecoute, mon travail c'est de maintenir l'ordre, et c'est ce que je fais, par tous les moyens. Alors, attention.}
+{117}{}{Mes hommes et moi travaillons pour Killian Darkwater. Nous maintenons l'ordre dans cette ville en arrêtant les meurtriers, les voleurs et toutes ces vermines qui viennent du désert. Si tu veux un conseil, évite Gizmo. Cette tête de lard se livre à des activités illégales mais nous n'avons pas encore réussi à le prouver. Lui et ses larbins, les Skulz, ne vont pas tarder à tomber, si Killian n'y voit pas d'inconvénient.}
+{118}{}{C'est nul. Il n'y a rien à faire de marrant ici.}
+{119}{}{Ca me fait plaisir de savoir que quelqu'un fait respecter la loi ici. Merci.}
+{120}{}{Mais qu'est-ce qui vous empêche de coincer Gizmo et les Skulz ?}
+{121}{}{Eh, c'est notre boulot. Mais ça fait plaisir de savoir que quelqu'un apprécie ce qu'on fait. Merci.}
+{122}{}{Il faut que ça soit du propre. Nous savons que Gizmo truque les tables de jeu mais il nous faut des preuves solides pour le coincer. Même chose pour les Skulz. Ils commettent des larcins, nous en arrêtons un ou deux, mais ça ne change rien. Nous n'avons pas les preuves suffisantes pour les accuser de ces meurtres et de ces agressions.}
+{123}{}{Je peux peut-être t'aider.}
+{124}{}{Eh bien, bonne chance.}
+{125}{}{Ca alors, si tu penses être capable d'en coincer quelques-uns, ça nous arrangerait bien. Adresse-toi à Killian si c'est de Gizmo dont tu veux parler. Si tu obtiens des renseignements sur les Skulz, reviens me voir et nous nous occuperons d'eux, moi et mes hommes.}
+{126}{}{Merci. Fais attention à toi.}
+{127}{}{Je suis le chef des gardes de Dépôtville. Je m'appelle Lars. Et toi, qui es-tu ?}
+{128}{}{Je m'appelle }
 {129}{}{.}
-{130}{}{Buzz off, I don't have to tell you anything.}
-{131}{}{Welcome to Junktown, }
-{132}{}{. What can I help you with?}
-{133}{}{Can you fill me in on Junktown?}
-{134}{}{Just lookin' for something to do. Got any suggestions?}
-{135}{}{Good day, traveler. Do you need something?}
-{136}{}{What?}
-{137}{}{I'm looking for a little work.}
-{138}{}{Just stopping by to say hello.}
-{139}{}{I have testimony about the illegal activities that the Skulz were involved in.}
-{140}{}{Yes, I'm in charge of the guards here. What do you have for me?}
-{141}{}{Nothing, just checking.}
-{142}{}{I have some testimony from Sherry that the Skulz are involved in some illegal activities.}
-{143}{}{So, you have some info on the Skulz, eh? What can you tell me?}
-{144}{}{They're involved in some muggings and killings here.}
-{145}{}{I've convinced one of them, Sherry, to testify that they were involved in criminal activity.}
-{146}{}{That's great and all, but I can't just jail them all on one person's say-so. I need hard evidence or inside testimony.}
-{147}{}{I'll see what I can do.}
-{148}{}{I've got testimony from Sherry, a former gang member.}
-{149}{}{Excellent. I'll pick her up for a few questions, and I'm sure that I'll get all the information that I need to put them away.}
-{150}{}{Look, this isn't a game. People are getting hurt here. If you find some real evidence, come back, but otherwise, don't waste my time!}
-{151}{}{If you're not averse to a little skullduggery, I need someone to get some hard evidence on the Skulz, proving that they're involved in illegal activities here. Or you can talk to Killian; he might have some work for you.}
-{152}{}{Thanks for your assistance. Junktown's a little safer now, because of your help.}
-{153}{}{Move along there, fella.}
-{154}{}{You earn 300 experience for taking a risky turn against the Skulz.}
-{155}{}{You ready to help take down Gizmo?}
-{156}{}{You bet. Let's nail that tub.}
-{157}{}{No, I changed my mind.}
-{158}{}{All right, let's do it.}
-{159}{}{Well, you'd best wait here so you don't get caught in the crossfire.}
-{160}{}{Killian sent me to help run Gizmo out of town.}
-{161}{}{Killian sent me. We're going to take Gizmo down.}
-{162}{}{Thanks for all your help. Here's 500 caps. You're always welcome in Junktown, friend.}
-{163}{}{What? Hmm. We'll see about that. I'll send some men over to ambush them when they try it. You gonna be there?}
-{164}{}{No thanks, I've done my good deed for the day.}
-{165}{}{Yes.}
-{166}{}{The Skulz are planning on killing Neal!}
-{167}{}{Lars's men quickly eliminate the Skulz.}
-{168}{}{Looks like Lars might still be alive, but he's definitely out of the fight.}
-{169}{}{Wanderer, you just screwed up. We needed evidence so that we could take down Gizmo all nice and legal-like. Look, off the record, I'm happy to have that fat fuck out of the picture, but we can't condone murder. You better leave Junktown and never come back.}
-{170}{}{We don't like your kind here. You've got about fifteen seconds before I blow your head off.}
-{171}{}{Hello again! What can I do for you?}
-{172}{}{Uh-huh.}
-{173}{}{Nuh-uh.}
-{174}{}{You earn 500 experience for assisting in the elimination of the Skulz gang.}
+{130}{}{Va t'en, je n'ai rien à te dire.}
+{131}{}{Bienvenue à Dépôtville, }
+{132}{}{. En quoi je peux t'aider ?}
+{133}{}{Peux-tu me renseigner sur Dépôtville ?}
+{134}{}{Je cherche quelque chose à faire. Tu as des suggestions ?}
+{135}{}{Bonjour. Tu as besoin de quelque chose ?}
+{136}{}{Quoi ?}
+{137}{}{Je cherche du travail.}
+{138}{}{Je voulais juste dire bonjour.}
+{139}{}{J'ai des informations sur les activités illégales des Skulz.}
+{140}{}{Oui, je suis le chef des gardes. Qu'est-ce qui t'amène ?}
+{141}{}{Rien.}
+{142}{}{J'ai un témoignage de Sherry prouvant que les Skulz sont impliqués dans des activités illégales.}
+{143}{}{Ah, tu as des infos sur les Skulz ? Qu'est-ce que tu sais ?}
+{144}{}{Ils sont impliqués dans des meurtres et des agressions.}
+{145}{}{J'ai convaincu l'une des leurs, Sherry, de témoigner contre eux au sujet d'une affaire criminelle.}
+{146}{}{C'est bien, mais je ne peux pas tous les arrêter : les accusations d'une seule personne ne suffisent pas. Il me faut des preuves solides ou des témoignages internes.}
+{147}{}{Je vais voir ce que je peux faire.}
+{148}{}{J'ai un témoignage de Sherry, qui était autrefois membre de la bande.}
+{149}{}{Excellent. Je vais lui poser quelques questions et j'arriverai certainement à recueillir suffisamment d'éléments pour les coffrer.}
+{150}{}{Ecoute, ce n'est pas un jeu. Des gens souffrent ici. Si tu trouves de vraies preuves, reviens, mais sinon, ne me fais pas perdre mon temps !}
+{151}{}{Si ça t'intéresse, j'aurai besoin de quelqu'un pour prouver que les Skulz sont impliqués dans des activités illégales. Sinon, va voir Killian. Il te trouvera peut-être un travail.}
+{152}{}{Merci de ton aide. Dépôtville est plus en sécurité à présent, grâce à toi.}
+{153}{}{Circule.}
+{154}{}{Tu reçois 300 points d'expérience pour avoir pris des risques contre les Skulz.}
+{155}{}{Tu es d'accord pour t'attaquer à Gizmo ?}
+{156}{}{Ouais. Allons coincer ce crapaud.}
+{157}{}{Non, j'ai changé d'avis.}
+{158}{}{D'accord, allons-y.}
+{159}{}{Eh bien, tu f'rais mieux d'attendre ici pour ne pas te retrouver au milieu de la bataille.}
+{160}{}{Killian m'envoie expulser Gizmo de la ville.}
+{161}{}{C'est Killian qui m'envoie. Nous allons nous débarrasser de Gizmo.}
+{162}{}{Merci de ton aide. Voilà 500 caps. Tu seras toujours chez toi à Dépôtville.}
+{163}{}{Quoi ? Hmm. Nous allons voir ça. Je vais envoyer quelques hommes pour leur tendre une embuscade. Tu seras là ?}
+{164}{}{Non merci, j'ai déjà fait ma B.A. quotidienne.}
+{165}{}{Oui.}
+{166}{}{Les Skulz ont l'intention de tuer Neal !}
+{167}{}{Les hommes de Lars éliminent rapidement les Skulz.}
+{168}{}{On dirait que Lars est toujours vivant, mais qu'il est sorti du champ de bataille.}
+{169}{}{Imbécile, tu as tout gâché. Il nous fallait des preuves pour coincer Gizmo et ses comparses. Ecoute, entre nous, je suis content que cette face de rat ait décampé, mais nous ne pouvons pas pardonner le meurtre. Tu as intérêt à quitter Dépôtville et à ne jamais revenir.}
+{170}{}{On n'aime pas les gens comme toi par ici. Je te donne quinze secondes pour décamper.}
+{171}{}{Rebonjour ! Que puis-je pour toi ?}
+{172}{}{Euh ouais.}
+{173}{}{Ben, euh nan !}
+{174}{}{points d'expérience pour avoir participé à l'élimination des Skulz.}
 {1000}{}{Gizmo}
-{1100}{}{He runs the casino. He's a crook.}
+{1100}{}{Killian est le maire. Il tient un magasin.}

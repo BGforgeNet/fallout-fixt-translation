@@ -1,10 +1,10 @@
-{100}{}{This is a strange-looking diskette of some sort. Perhaps it can be used in your Pip-Boy 2000.}
-{101}{}{Pip-Boy 2000 displays: "Downloading ... Aborting, data already exists!"}
-{102}{}{Pip-Boy 2000 displays: "Downloading data ... ... ... Done. Have a nice day!"}
-{103}{}{This disk is in bad shape. It has no proper label but has "overide" scratched onto the side.}
-{104}{}{You see: Security Override Disk.}
-{105}{}{Username: "admin". Password: "muerte". Security override protocol: Gamma Omicron Delta.}
+{100}{}{C'est une sorte de disquette bizarre. Peut-être qu'il peut être lu dans ton Pip-Boy 2000.}
+{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
+{103}{}{Ce disque est en mauvais état. Il n'a pas d'étiquette mais quelqu'un a griffonné le mot "overide" sur le coté.}
+{104}{}{Tu vois: Disque d'annulation de Sécurité.}
+{105}{}{Nom d'utilisateur: "admin". Mot de passe: "muerte". Annulation du protocole de sécurité : Gamma Omicron Delta.}
 {106}{}{**BEGIN-DISK**}
 {107}{}{**END-DISK**}
 {108}{}{[Continue]}
-{109}{}{Pip-Boy 2000 displays: 'Username: "admin". Password: "muerte". Security override: Gamma Omicron Delta.'}
+{109}{}{Le Pip-Boy 2000 affiche: 'Nom d'utilisateur: "admin". Mot de passe : "muerte". Contournement du protocole de sécurité : Gamma Omicron Delta.'}

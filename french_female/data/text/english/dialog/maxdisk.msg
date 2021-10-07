@@ -1,5 +1,5 @@
-{100}{}{You see the holodisk that Maxson gave you.}
-{101}{}{Pip-Boy 2000 displays: "Downloading ... Aborting, data already exists!"}
-{102}{}{Pip-Boy 2000 displays: "Downloading data ... ... ... Done. Have a nice day!"}
-{103}{}{This disk bears the Brotherhood of Steel insignia and is in excellent condition. It can be used in your Pip-Boy.}
-{104}{}{You see: Maxson Disk.}
+{100}{}{Tu vois l'holodisque que Maxson t'a remis.}
+{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
+{103}{}{Ce disque porte l'insigne de la Confrérie de l'Acier et il est en excellent état. Il peut être utilisé dans votre Pip-Boy.}
+{104}{}{Tu vois: Le Disque de Maxon.}

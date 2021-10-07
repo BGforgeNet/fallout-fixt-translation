@@ -1,34 +1,34 @@
 {100}{}{Hey!}
-{101}{}{No weapons in here!}
-{102}{}{Watch it!}
-{103}{}{Get 'em!}
-{104}{}{Quit sneaking around!}
-{105}{}{No sneaking around in here!}
-{106}{}{Hey, you! Quit trying to hide, or get out!}
-{107}{}{What?}
-{108}{}{Hey, can I ask you a few questions?}
-{109}{}{Can you spare a few caps?}
-{110}{}{Never mind, sorry.}
-{111}{}{Uuuh?}
-{112}{}{I'm on duty. Make it quick.}
-{113}{}{No. Go away.}
-{114}{}{Can you tell me about your boss?}
-{115}{}{What else is there around this town?}
-{116}{}{What are you, stupid? Go away.}
-{117}{}{No. Go beg somewhere else.}
-{118}{}{Buzz off.}
-{119}{}{We don't have a use for paupers here.}
-{120}{}{Gizmo's a fair man. Pay's good, work's easy. Don't make trouble and everyone will be happy.}
-{121}{}{Go catch a few drinks at the Skum Pitt. Good grog. Opens at four. Now leave me alone.}
-{122}{}{Why don't you go shopping at Killian's? His store is southeast of here. Now beat it.}
-{123}{}{Talk to the dealers.}
-{124}{}{Hey, if you wanna have a little fun, stop by the Crash House and ask for Sinthia. She's worth it.}
-{125}{}{No cheating.}
-{126}{}{Debtors will be shot.}
-{127}{}{Boy, my neck hurts.}
-{128}{}{This job bites the bone.}
-{129}{}{I love this place.}
-{130}{}{Think I'll visit Sinthia tonight.}
-{131}{}{Get outta here, you moron.}
-{132}{}{No weapons in here!}
-{133}{}{Hey! You! Put your piece away!}
+{101}{}{Pas d'armes ici !}
+{102}{}{Attention !}
+{103}{}{Attrape-les !}
+{104}{}{Arrête de fouiner par ici !}
+{105}{}{Pas question de fouiner dans le coin !}
+{106}{}{Eh, toi ! Soit t'arrête de jouer à cache-cache, soit tu te tires !}
+{107}{}{Quoi ?}
+{108}{}{Eh, je peux te poser quelques questions ?}
+{109}{}{T'as pas quelques caps ?}
+{110}{}{Eh, non, pardon, rien.}
+{111}{}{Euh ?}
+{112}{}{Je suis de service. Fais vite.}
+{113}{}{Non. Va-t-en.}
+{114}{}{Peux-tu me parler de ton chef ?}
+{115}{}{Y'a autre chose dans le coin ?}
+{116}{}{T'es débile, ou quoi ? Tire-toi.}
+{117}{}{Non. Va faire la manche ailleurs.}
+{118}{}{Casse-toi.}
+{119}{}{On veut pas de miteux comme toi ici.}
+{120}{}{Gizmo, un type correct. Une bonne paie, du boulot facile. Viens pas chercher la merde et tout ira bien.}
+{121}{}{Va boire quelques coups au Skum Pit. De la bonne gnôle. Ca ouvre à quatre heures. Maintenant, fous-moi la paix.}
+{122}{}{Pourquoi tu vas pas chez Killian ? Son magasin est au Sud-Est. Maintenant, tire-toi.}
+{123}{}{Adresse-toi aux joueurs.}
+{124}{}{Eh, si tu veux passer du bon temps, arrête-toi à la Crash House et demande Cynthia. Elle vaut le coup.}
+{125}{}{Pas question de tricher.}
+{126}{}{Les débiteurs seront butés.}
+{127}{}{Bon dieu, j'ai le torticolis.}
+{128}{}{Ce boulot c'est pas une sinécure.}
+{129}{}{J'adore cet endroit.}
+{130}{}{Je vais peut-être aller voir Cynthia ce soir.}
+{131}{}{Casse-toi, débile.}
+{132}{}{Pas d'armes ici !}
+{133}{}{Eh ! Toi ! Range ça !}

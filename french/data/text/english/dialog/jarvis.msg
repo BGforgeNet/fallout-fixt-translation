@@ -1,22 +1,22 @@
-{100}{}{The man tosses about fitfully.}
+{100}{}{L'homme présente des signes de troubles nerveux.}
 {101}{}{Oohhh...}
-{102}{}{You see a pale, wiry young man.}
-{103}{}{You see: Jarvis, the younger brother of Seth.}
-{104}{}{Hello. I'm sorry, but I'm not feeling too well right now. Please, if you can help find a way to fight the radscorpions, talk to my brother, Seth.}
-{105}{}{Thank you so much for helping me. My name is Jarvis, and I'm Seth's younger brother. Please, if there's anything you need to know, just ask.}
-{106}{}{Hello again. Can I help you with something?}
-{107}{}{Can you tell me more about your brother?}
-{108}{}{Tell me a bit about the town.}
-{109}{}{Just chatting, thanks.}
-{110}{}{Seth's a very good fighter. He's very determined. A little too much, sometimes. Still, he's devoted to the welfare of our village.}
-{111}{}{Well, Shady Sands was founded by a great ancestor of our current leader, Aradesh. He could tell you more of the story. We have a well and irrigation, so we do well for ourselves.}
-{112}{}{This man is suffering from a virulent poison.}
-{113}{}{You can't figure out what is affecting this man.}
-{114}{}{This man is suffering from radscorpion venom.}
-{115}{}{You can't figure out what is affecting this man.}
-{116}{}{That skill won't help here.}
-{117}{}{Over the next few minutes, the man shows definite improvement.}
-{118}{}{Sef is brover?}
-{119}{}{Dis pwace?}
-{120}{}{Duh.}
-{200}{}{You earn 400 experience for curing Jarvis of his poisoning.}
+{102}{}{Voici un jeune homme pâle et nerveux.}
+{103}{}{Voici Jarvis, le jeune frère de Seth.}
+{104}{}{Bonjour. Désolé mais je ne me sens pas très bien en ce moment. Si tu trouves un moyen de combattre les radscorpions, s'il te plaît, parles-en à mon frère Seth.}
+{105}{}{Merci beaucoup pour ton aide. Je m'appelle Jarvis. Je suis le frère cadet de Seth. Si je peux t'être utile à quoi que ce soit, tu n'as qu'à me le demander.}
+{106}{}{Bonjour. Est-ce que je peux t'être utile à quelque chose ?}
+{107}{}{Peux-tu me parler de ton frère ?}
+{108}{}{Parle-moi un peu de la ville.}
+{109}{}{C'était juste histoire de causer un peu, merci.}
+{110}{}{Seth est un très bon combattant. Il est très déterminé. Un peu trop parfois. Mais il se dévoue corps et âme au bien-être du village.}
+{111}{}{Et bien, les Sables Ombragés ont été fondés par un célèbre ancêtre de notre chef actuel, Aradesh. Il pourrait t'en raconter un peu plus sur le sujet. On dispose d'un puits et d'un système d'irrigation, alors on s'en sort bien.}
+{112}{}{Cet homme souffre des effets d'un poison violent.}
+{113}{}{Tu n'arrives pas à la raison des souffrances de cet homme.}
+{114}{}{Cet homme souffre des effets du venin d'un radscorpion.}
+{115}{}{Tu n'arrives pas à la raison des souffrances de cet homme.}
+{116}{}{Cette compétence ne te sera d'aucune utilité ici.}
+{117}{}{Après quelques minutes, l'homme semble aller beaucoup mieux.}
+{118}{}{Sef est vrère ?}
+{119}{}{Zet endoit ?}
+{120}{}{Ben !}
+{200}{}{points d'expérience pour avoir guéri Jarvis après son empoisonnement.}

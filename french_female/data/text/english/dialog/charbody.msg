@@ -1,5 +1,5 @@
-{100}{}{This person must have been very close to the blast.}
-{101}{}{This body is so charred, you cannot even guess what it once was.}
-{102}{}{The shifting winds have caused some of the ashes to drift away.}
-{103}{}{The nuclear blast must have done this damage.}
-{104}{}{Ashes fall through your fingers.}
+{100}{}{Cette personne a dû se trouver très proche de l'explosion.}
+{101}{}{Ce corps est si carbonisé qu'il est méconnaissable.}
+{102}{}{Les vents changeants ont dispersé les cendres.}
+{103}{}{Ces dégâts sont probablement dus à l'explosion nucléaire.}
+{104}{}{Les cendres glissent à travers tes doigts.}

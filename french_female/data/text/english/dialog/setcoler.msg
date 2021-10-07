@@ -1,10 +1,10 @@
-{100}{}{That skill won't help here.}
-{101}{}{You find a crude explosive device connected to the footlocker.}
-{102}{}{You set off an explosive trap!}
-{103}{}{You disarm the trap.}
-{104}{}{You did not disarm the trap.}
-{105}{}{You accidentally set off the explosive!}
-{106}{}{You accidentally set off the explosive, because you were smart enough to find it, but not smart enough to leave it alone.}
+{100}{}{Cette compétence ne te sera d'aucune utilité ici.}
+{101}{}{Tu trouves un explosif grossier relié au coffre.}
+{102}{}{Tu déclenches un piège explosif !}
+{103}{}{Tu désamorces le piège.}
+{104}{}{Tu n'as pas désamorcé le piège.}
+{105}{}{Accidentellement, tu déclenches l'explosif !}
+{106}{}{Accidentellement, tu déclenches l'explosif. Tu as été assez perspicace pour le trouver, mais pas assez pour ne pas y toucher.}
 {107}{}{Ooof!}
-{108}{}{Aaargh!}
-{109}{}{You see: Set's lockbox.}
+{108}{}{Aaarhh !}
+{109}{}{Voici le coffre à fermeture de sécurité de Set.}

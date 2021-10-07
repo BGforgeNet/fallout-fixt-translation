@@ -1,3 +1,3 @@
-{100}{}{You see a guard.}
-{101}{}{Get bent.}
-{102}{}{Hey, you! Get out of here!}
+{100}{}{Voici un garde.}
+{101}{}{Soumets-toi.}
+{102}{}{Eh, toi ! Barre-toi !}

@@ -1,21 +1,21 @@
-{100}{}{You see a ghoul guard.}
-{101}{}{Go away! You're not wanted here.}
-{102}{}{Okay. Nice meeting you, too.}
-{103}{}{Huh?}
-{104}{}{I'm on duty. If you want to see Set, you gotta do it inside.}
-{105}{}{The door is locked. You'll have to come back later when it's dark.}
-{106}{}{Thanks.}
-{107}{}{Huh?}
-{108}{}{I told you to leave. Your kind is not wanted here.}
-{109}{}{Right.}
-{110}{}{Myuh!}
-{111}{}{The doors don't open until dark.}
-{112}{}{I need to get in there. Is there any way you can help me?}
-{113}{}{Hmm, okay.}
+{100}{}{Voici un Garde Goule.}
+{101}{}{File ! T'as rien à faire ici.}
+{102}{}{D'accord. Merci de ton accueil.}
+{103}{}{Hein ?}
+{104}{}{Je suis en service. Si tu veux voir Set, c'est à l'intérieur.}
+{105}{}{La porte est fermée. Faut revenir plus tard, quand il fera nuit.}
+{106}{}{Merci.}
+{107}{}{Hein ?}
+{108}{}{Je t'ai dit de partir. On veut pas de ton espèce ici.}
+{109}{}{D'accord.}
+{110}{}{Bwarg !}
+{111}{}{Les portes ouvrent pas avant la nuit.}
+{112}{}{Faut que j'entre. Tu peux pas m'aider ?}
+{113}{}{Hmm, d'accord.}
 {114}{}{Ugh!}
-{115}{}{Well, I guess it can't hurt. Go ahead, I'll unlock the door for you.}
-{116}{}{I wish I could help you, but Set would tan my ass if I did. You know how it is... always gotta do what the big guy says.}
-{117}{}{Yeah, I understand. Thanks.}
-{118}{}{Thanks!}
-{119}{}{You were warned. Prepare to die.}
-{120}{}{The ghoul ignores you.}
+{115}{}{Oh et puis merde, t'as l'air d'être un norm un peu moins con que la moyenne. Vas-y j't'ouvre la porte.}
+{116}{}{Ah, je t'aiderais bien, mais Set me botterait le cul. Tu sais ce que c'est... faut jamais discuter les ordres du patron.}
+{117}{}{Ouais, je comprends. Merci.}
+{118}{}{Merci !}
+{119}{}{Tu étais prévenu, prépare toi à mourir !}
+{120}{}{Le Goule t'ignore.}

@@ -1,191 +1,191 @@
-{100}{}{You see the Overseer.}
-{101}{}{Ahh, you're here. Good. Well, only good that you're here. We've got a problem. A big one. The controller chip for our water purification system has given up the ghost. We can't make another one and the process is too complicated for a work-around system. Simply put, we're running out of drinking water. No water, no Vault. Now we both know we've had our differences as you've grown up. You've got the wanderlust in you - desires for things the Vault just can't satisfy. And you know I think this just might be the last safe place anywhere so I'm always worried about those who want to take off on adventures. Hey, if everyone left, I'd be out of a job! Seriously, this is crucial to our survival. And frankly, I think you're the only hope we have. You need to go find us another controller chip.}
-{102}{Over_0a}{There's a picture on your PIP to help you identify it.}
-{103}{Over_1}{You have three months to retrieve the chip before the Vault runs out of water.}
-{104}{}{One month... two... four... five... six... }
-{105}{Over_2}{You have two months, maybe less, before the Vault runs out of water. We need that chip!}
-{106}{Over_3}{We estimate we have four to five months before the Vault runs out of water. We need that chip!}
-{107}{Over_4}{Here's some equipment you'll probably need.}
-{108}{Over_4a}{If we didn't have to do this, I'd never ask. And if you don't do this, I don't know who else can. Help us. You're our only... chance, I guess.}
-{109}{Over_5}{If you need help, come back here. Obviously, we'll do whatever we can. But we don't have a lot of time. Be safe, find that chip, and get back here.}
-{110}{Over_6}{We marked your map with the location of another Vault. Not a bad place to start, I think. Then again, what the heck do I know about the outside? I... look. Y... You know you're important to me and to... I-I really... just be safe, okay?}
-{111}{Over_7}{You're back! And in one piece! How goes the search?}
-{112}{}{Not good, but I noticed the radiation count is low. Why don't we just move the people out of the Vault?}
-{113}{}{I haven't found the chip yet. Can't we just make a replacement?}
-{114}{}{Nothing yet.}
-{115}{}{Nuh.}
-{116}{Over_8}{Look, I know it's got to be tough. But we're counting on you. And we're running out of time. Please! Keep trying!}
-{117}{Over_9}{Ahh, you never did listen to me. We don't have the necessary parts anymore. We've used up all the supplies required.}
-{118}{}{Oh, okay. Thanks.}
-{119}{Over_10}{We've debated this before. You ought to know now, after being out there! You think the rest of us could survive that? Besides, I'd be out of a job! I'm management! It's not like I know how to do anything useful!}
-{120}{}{We agree on that.}
-{121}{Over_12}{Well, do you have the chip?}
-{122}{}{Not yet. Sorry.}
-{123}{}{I still say we just pack everybody up and move out of here.}
-{124}{}{No, but I have a lot of other things to tell you!}
-{125}{}{Nuh.}
-{126}{Over_13}{[The Overseer sighs.] Don't be sorry. I know you're trying your best and that means a lot. But you can't give up now.}
-{127}{Over_14}{This isn't the best time to debate that. Get the chip, give us the option. Most of these people, including me, won't survive out there.}
-{128}{}{Okay, I'll go see if I can find it.}
-{129}{Over_16}{We have no time, no options. I know it's a lot of responsibility for you, but we have no choice. We need the chip now.}
-{130}{Over_19a}{Please tell me you've found the chip.}
-{131}{}{No, but I've seen some amazing things!}
-{132}{}{Sorry, haven't been able to track it down yet.}
-{133}{}{Nope.}
-{134}{}{Nuh-uh.}
-{135}{Over_20}{Well, keep looking. Time's growing short.}
-{136}{Over_21}{We don't have time for this! We need the chip. Time's running out. [Sigh]}
-{137}{Over_22}{Is there some problem, do you need more equipment? Is there anything we can do to help?}
-{138}{}{Nope, just going to take some time. It's a big world out there.}
-{139}{}{I could use some more stuff.}
-{140}{}{Yeah, you could get off your fannies and help.}
-{141}{Over_23}{Do your best. Remember, we're all counting on you.}
-{142}{Over_24}{Here, take the last of our ammo and portable healing supplies. We're in trouble. Hurry!}
-{143}{Over_25}{Do what? With whom? Anyone else would be less qualified and have less supplies. It'd be suicide.}
-{144}{}{Your choice. I'll do my best, but I don't know if it'll be enough.}
-{145}{}{I understand.}
-{146}{Over_26}{It has to be. If you fail, so does the Vault.}
-{147}{}{Got it.}
-{148}{}{Whatever.}
-{149}{Over_27}{Good, then get going!}
-{150}{Over_28}{Have you found the chip?}
-{151}{}{Yes.}
-{152}{}{Yes, but I think we should talk more about letting people leave the Vault.}
-{153}{}{Nuh-huh!}
-{154}{Over_29}{Great! Let me have it. We'll see if it works.}
-{155}{Over_30}{Please, the chip!}
-{156}{Over_31}{Okey-dokey. One moment, the chip is initializing. Here - here - here - There it goes... Self-test is green... re-boot is good...  Hah! It's working! And it looks like we have a winner! Haha! [The Overseer sighs with relief] You - you've saved us. You've done it!}
-{157}{}{Ahh, it was nothing.}
-{158}{}{You're welcome.}
-{159}{Over_32}{Nothing? No, oh no! It was something. Don't downplay what you've done. You've saved a lot of lives. All right, now we need a report on what's out there. Please go to the library.}
-{160}{}{Okay.}
-{161}{Over_33}{You saved the Vault. You should be proud. But now, we need your report. We'll get it from you in the library. Please go there now.}
-{162}{}{Okay.}
-{163}{Over_34}{Well, you've certainly earned that right. But let's take care of survival first. Give me the chip and we'll discuss this when you give your report.}
-{164}{}{Fair enough.}
-{165}{}{I don't know.}
-{166}{Over_37}{Oh, that's great! Can I have the chip, please?}
-{167}{Over_38}{No, not that. I want the com-pu-ter chip.}
-{168}{Over_38a}{No. The chip.}
-{169}{Over_39}{Just-give-me-the-chip!}
-{170}{Over_40}{Thank you. Now, go to the library and rest for a while, okay?}
-{171}{}{Nuh-huh, uh-nuh?}
-{172}{}{Uh, nuh? Nuh-uh-uh-nuh.}
-{173}{Over_41}{Yes, you can touch things.}
-{174}{Over_41a}{Oh, yes. You did good and I'm sure you have a lot to tell.}
-{175}{Over_42}{I uh, I just wanted to let you know that the water supply has stabilized. Actually, we're rebuilding our reserves. You did great... I uh, I am a little concerned, however.}
-{176}{}{Concerned about what?}
-{177}{}{Uhh?}
-{178}{Over_43}{I - I don't like your reports. What was in the reports, that is. Heh. In fact, they scared the heck out of me. It's those mutants. I've done some calculations and, well, I've come to an unpleasant conclusion.}
-{179}{}{What's that?}
-{180}{Over_44}{[Sigh] The mutant population is far greater than could be expected by natural growth or mutations. This leads me to believe in - I don't really understand it. But it looks like someone's generating new mutants. And at a startling rate.}
-{181}{}{Say again? Without the confusion?}
-{182}{}{Must be a lab somewhere then.}
-{183}{Over_45}{Someone's making mutants!}
-{184}{}{What do I need to do?}
-{185}{Over_46}{Exactly! And as you've probably guessed, none of these mutations could have occurred naturally, even with the radiation from the war.}
-{186}{}{What do you want me to do about it?}
-{187}{Over_47}{As long as someone is creating hostile mutants at this rate, the Vault's safety is at stake! Find and destroy this lab as soon as you can.}
-{188}{}{Okay.}
-{189}{}{Once more into the breach, my friend.}
-{190}{Over_48}{You have no idea how sorry I am to send you back out.}
-{191}{Over_49}{Oh, yeah. Hmm... I - I - I - It's like this. There is a bad place where the bad mutants come from. It is bad. Vault is good. Please, go destroy bad place.}
-{192}{Over_50}{Has the mutant laboratory been discovered yet? Even better, tell me it's been destroyed.}
-{193}{}{No.}
-{194}{}{Not yet, but I've got some good leads.}
-{195}{}{Nope, I'm a little lost.}
-{196}{}{Nungh.}
-{197}{Over_51}{Well, keep searching.}
-{198}{Over_52}{Good. But hurry, the more time they have to produce them, the harder they'll be to stop.}
-{199}{Over_53}{Well, based on the information you provided about population density, I think you should concentrate your search to the west.}
-{200}{Over_54}{What news do you have of the mutants?}
-{201}{}{I wasted the head SOB.}
-{202}{}{I've killed the Master, the mutant leader.}
-{203}{}{Nuh, ungh. Uh-nuh, nuh.}
-{204}{Over_55}{Excellent! What about the laboratory? Did you destroy that, too?}
-{205}{}{No.}
-{206}{}{Yep, sure did. Killed all the mutants and blew up their production vats. The Vault has nothing to fear now.}
-{207}{Over_58}{You should be proud of yourself for all you've accomplished. We depended on you and you came through. Now let's talk about your future... }
-{208}{Over_59}{Are you sure? Missing something would be deadly to the Vault. I think you should go back and check it out. Try to the west, there seems to be a large concentration of mutants there.}
-{209}{Over_60}{Go back out and find it. It needs to be destroyed for the Vault to be safe. Try to the west, most of the mutants seem to be there.}
-{210}{Over_61}{What's that? You've killed the mutant leader?}
-{211}{}{Uh-huh, nuh, huh. Nuh-nuh.}
-{212}{Over_61aS}{There are still more mutants appearing? You need to destroy their vats? Great job! Go back out there and take care of it.}
-{213}{Over_62}{What news of the mutants?}
-{214}{}{I blew them up.}
-{215}{}{The mutant vats have been destroyed.}
-{216}{}{Nuhh!}
-{217}{Over_63}{All of them?}
-{218}{}{Well, all of them at the vats.}
-{219}{}{Uh, nuh-nuh.}
-{220}{Over_64}{What about the mutant leader? What about this so-called Master?}
-{221}{}{Far as I know, he's still alive.}
-{222}{}{Uh-nuh-nuh.}
-{223}{Over_66}{He must be stopped. If not, he could rebuild his empire of mutants and would certainly strike back at us. The Vault will not be safe until the Master is dead.}
-{224}{Over_68}{Is the mutant leader... taken care of?}
-{225}{}{No.}
-{226}{}{He will be... soon.}
-{227}{}{Nuh.}
-{228}{Over_69}{I know this has been hard on you. But this Master's the type who'll rebuild his mutant army. Then he'll come for us. Please, go out and finish the job.}
-{229}{Over_70}{Well, Th - Tha - That's great. That's very good. You sound like you're in control out there. Please, finish this up soon so that you and I can... When you're out there, remember, the people of the Vault know you've saved them.}
-{230}{Over_71}{We can't have this. Not now. Not with everything else going on. The rules of the Vault are there for our protection and the survival of our species.}
-{231}{Over_72}{What's wrong with you?! You turned against us?! I can not allow that.}
-{232}{Over_73}{The water caravans from this Hub place have started to arrive. I've been running the figures and I've got some disturbing news.}
-{233}{}{What's that?}
-{234}{}{Huh?}
-{235}{Over_74}{Oh, never mind. Just try and find the Water Chip. Get the chip. We still need it.}
-{236}{Over_75}{The caravan water will maintain our current supply, but not increase it substantially. And these Hub merchants are charging us an arm and a leg. This helps and we're thankful for that, but it's not a solution.}
-{237}{}{Okay.}
-{238}{}{There's something else, isn't there?}
-{239}{Over_76}{Keep looking for a replacement chip. It's the only way we can maintain our independence and the security that comes with our seclusion.}
-{240}{Over_77}{We're taking a terrible risk by showing these people the way to our Vault. I understand your choice, and it may be what saves us. But I'm worried. Can we trust these people?}
-{241}{}{I trust them.}
-{242}{}{I understand.}
-{243}{Over_78}{I'm sure you do, but we need that replacement chip for our long-term survival and economic stability. We don't produce as many goods as we need to pay for this water, and soon we won't be able to pay. Find the chip.}
-{244}{Over_79}{I'm sure you do. You must also understand our need for that replacement chip. Please keep looking.}
-{245}{Over_80}{Please keep looking for the Water Chip. These water caravans are going to cause us problems in the long run.}
-{246}{Over_81}{You've done it! That's... wonderful. Amazing! I'm so proud of what you've accomplished, what you've endured. There's no way the people of the Vault can ever thank you enough for what you've done. You've saved all our lives. Who knows, maybe even saved the human race. [The Overseer sighs.] That makes the rest of this even harder. Everyone will want to talk to you. Every youngster will look up to you. And want to emulate you. And then what? They'll want to leave. What happens to the Vault if we lose the best of a generation? What if we are the only safe place in the world? You just gave us back all these lives... I can't take the chance of losing them. I've made a lot of tough decisions since I took this position. But none of them harder than this one. You saved us, but you'll kill us. I'm sorry. You're a hero... and you have to leave.}
+{100}{}{Voici le Dirigeant.}
+{101}{}{Ahh, te voilà. Ah, tu tombes à pic. On a un problème. De taille. La puce de contrôle de notre système de purification d'eau a rendu l'âme. Impossible d'en fabriquer une autre et c'est trop complexe pour envisager une solution de rechange. Bref, on va être à court d'eau potable. Plus d'eau, plus d'Abri. Bon, tous les deux, on sait bien qu'on n'est pas toujours d'accord. Et ça depuis que tu n'es plus enfant. T'as la bougeotte, des désirs que l'Abri peut pas assouvir. Et tu connais mon avis : c'est peut-être le seul et dernier endroit en sécurité ; et donc, que ça m'embête toujours, ceux qu'ont envie de partir à l'aventure. Eh, si tout le monde plie bagages, je me retrouve au chômage ! Non, sérieux, là, c'est vital. Et franchement, je crois que tu es notre seul espoir. Il faut que tu ailles nous trouver une autre puce de contrôle.}
+{102}{Over_0a}{Sur ton Pip-Boy, y'a une photo pour t'aider à l'identifier.}
+{103}{Over_1}{T'as trois mois pour récupérer la puce avant que l'abri soit complètement à sec.}
+{104}{}{Un mois... deux... quatre... cinq... six...}
+{105}{Over_2}{T'as deux mois, peut-être moins, avant que l'abri soit à sec. Il nous faut cette puce !}
+{106}{Over_3}{On estime qu'il reste quatre à cinq mois avant que l'abri ne soit à sec. Il nous faut cette puce !}
+{107}{Over_4}{Voilà du matériel dont t'auras sûrement besoin.}
+{108}{Over_4a}{Si c'était pas une question de vie ou de mort, je demanderais pas. Et si tu le fais pas, je vois pas qui d'autre. Je crois que t'es notre seule... espoir.}
+{109}{Over_5}{Si t'as besoin d'aide, reviens. Bien sûr, on fera notre possible. Mais le temps presse ! Prudence ! Trouve cette puce et reviens-nous.}
+{110}{Over_6}{On t'a indiqué sur la carte l'emplacement d'un autre Abri. Tu pourrais peut-être commencer par là. Oh, et puis mince alors ! Qu'est-ce que je sais du dehors ?! Je... écoute... T-tu sais que tu comptes pour moi et pour... Je, vraiment... fais bien attention, d'accord ?}
+{111}{Over_7}{De retour ! Et en entier ! Comment vont les recherches ?}
+{112}{}{Plutôt mal, mais j'ai remarqué que le taux de radiation est bas. Pourquoi ne pas faire sortir les gens de l'Abri ?}
+{113}{}{J'ai pas encore trouvé la puce. On peut pas juste la remplacer ?}
+{114}{}{Rien pour l'instant.}
+{115}{}{Ben...}
+{116}{Over_8}{Ecoute, je sais que c'est pas une partie de plaisir. Mais on compte sur toi. Et le temps presse. Je t'en supplie ! Essaie encore !}
+{117}{Over_9}{Ah, si seulement tu m'écoutais. Je t'ai dit qu'on n'a plus les pièces nécessaires. On a tout épuisé.}
+{118}{}{Oh, ok. Merci.}
+{119}{Over_10}{On en a déjà parlé. Tu devrais savoir, maintenant que t'as mis les pieds dehors ! Tu penses que nous autres, on pourrait survivre à ça ? Sans compter que je me trouverais au chômage ! C'est moi le patron ! Si encore je savais faire quelque chose...}
+{120}{}{Là-dessus, on est d'accord.}
+{121}{Over_12}{Alors, t'as la puce ?}
+{122}{}{Pas encore. Je regrette.}
+{123}{}{Je suis toujours d'avis qu'on ferait mieux de tous faire nos valises et sortir d'ici !}
+{124}{}{Non, mais j'ai plein d'autres informations !}
+{125}{}{Ben...}
+{126}{Over_13}{[Le Dirigeant soupire.] Ah, c'est pas la peine de t'excuser. Je sais que tu fais de ton mieux, et c'est important. Mais abandonne pas maintenant.}
+{127}{Over_14}{C'est pas l'heure de discuter de ça. Trouve la puce, au moins qu'on ait le choix. La plupart de ces gens, moi y compris, ne survivront pas dehors.}
+{128}{}{Ok, je vais encore chercher.}
+{129}{Over_16}{On n'a ni le temps, ni le choix. Je sais, c'est une lourde responsabilité pour toi, mais il nous faut la puce maintenant.}
+{130}{Over_19a}{Oh, dis-moi que t'as trouvé la puce !}
+{131}{}{Non, mais j'ai vu des choses étonnantes !}
+{132}{}{Je regrette, j'ai pas encore réussi.}
+{133}{}{Non.}
+{134}{}{Ben, euh nan !}
+{135}{Over_20}{Bon, essaie encore. Le temps passe vite !}
+{136}{Over_21}{On verra plus tard. Pour l'instant, il nous faut la puce. Le temps passe vite. [Il soupire.]}
+{137}{Over_22}{Y'a un problème ? T'as besoin d'autre matériel ? On peut faire quelque chose pour toi ?}
+{138}{}{Non, c'est juste que ça va prendre du temps. C'est vaste, dehors.}
+{139}{}{Il me faudrait encore des trucs.}
+{140}{}{Ouais, tu pourrais bouger ton cul pour m'aider.}
+{141}{Over_23}{Fais de ton mieux. N'oublie pas, on compte tous sur toi.}
+{142}{Over_24}{Tiens, prends le reste de nos munitions et du matériel médical. Ah, ça va mal. Dépêche-toi !}
+{143}{Over_25}{Faire quoi ? Avec qui ? Y'a personne de qualifié et qu'a du matériel. Ce serait du suicide.}
+{144}{}{Comme tu veux. Je ferai de mon mieux... mais je sais pas si ça suffira.}
+{145}{}{Je comprends.}
+{146}{Over_26}{Il faudra. Si t'échoues, c'est la fin de l'Abri.}
+{147}{}{Pigé.}
+{148}{}{Qu'importe.}
+{149}{Over_27}{Bien, maintenant vas-y !}
+{150}{Over_28}{T'as trouvé la puce ?}
+{151}{}{Oui.}
+{152}{}{Oui, mais faudrait qu'on re-discute de faire sortir les gens de l'Abri.}
+{153}{}{Ben euh !}
+{154}{Over_29}{Extra ! Donne, on va voir si elle marche.}
+{155}{Over_30}{S'il te plaît, la puce !}
+{156}{Over_31}{D'accord. Minute, la puce s'initialise. Voilà, ça se met en route... L'auto-test est vert... La réinitialisation est bonne... Ouais ! Ca marche ! Victoire ! Ahh ! [Soupir de soulagement.] Tu -- tu nous a sauvés. Tu as réussi !}
+{157}{}{Ahh, c'était rien.}
+{158}{}{De rien.}
+{159}{Over_32}{Rien ? Que si, c'était quelque chose ! Ne minimise pas ton exploit. T'as sauvé bien des vies. Bon, c'est pas le tout, il nous faut ton rapport sur ce qu'il y a dehors. Va donc à la bibliothèque.}
+{160}{}{D'accord.}
+{161}{Over_33}{Tu peux te vanter d'avoir sauvé l'Abri ! Mais maintenant, il nous faut ton rapport. Va donc le fournir maintenant à la bibliothèque.}
+{162}{}{D'accord.}
+{163}{Over_34}{Ah, t'as sûrement bien mérité ça. Mais, occupons-nous d'abord de la survie. Donne-moi la puce et on discutera de ça quand tu feras ton rapport.}
+{164}{}{C'est bon.}
+{165}{}{Je sais pas.}
+{166}{Over_37}{Oh, génial ! Je peux avoir la puce, s'il te plaît ?}
+{167}{Over_38}{Non, pas ça. Je veux la puce de l'OR-DI-NA-TEUR !!}
+{168}{Over_38a}{Non ! La puce !!}
+{169}{Over_39}{DONNE-MOI LA PUCE !!}
+{170}{Over_40}{Merci bien. Maintenant, va à la bibliothèque et repose-toi un moment. D'accord ?}
+{171}{}{Hein ?}
+{172}{}{Euh, ben, euh...}
+{173}{Over_41}{Oui, tu peux toucher.}
+{174}{Over_41a}{Oh, oui. T'as fait du bon boulot et je suis sûr que t'en as à nous raconter.}
+{175}{Over_42}{Euh, voilà, je voulais juste te dire que la provision d'eau s'est stabilisée. On refait même nos réserves ! Ah, du bon boulot... Mais, euh, y'a pourtant quelque chose qui me chiffonne...}
+{176}{}{Quoi ?}
+{177}{}{Gné ?}
+{178}{Over_43}{Je... j'aime pas ton rapport. Je veux dire, son contenu. J'avoue que ça m'a foutu les jetons. Ces mutants. J'ai fait mes calculs et... j'en arrive à une conclusion déplaisante.}
+{179}{}{Quoi ?}
+{180}{Over_44}{[Il soupire.] La population mutante est trop importante pour que ce soit une croissance ou une mutation naturelle. Alors, j'en conclus que... Enfin, j'y perds mon latin. C'est comme si quelqu'un générait de nouveaux mutants. Et à un rythme délirant !}
+{181}{}{Redis-moi ça en clair !}
+{182}{}{Doit y avoir un laboratoire quelque part.}
+{183}{Over_45}{Quelqu'un fabrique des mutants !}
+{184}{}{Qu'est-ce que je dois faire ?}
+{185}{Over_46}{Tout juste ! Et tu t'en doutes, pas une de ces mutations n'aurait pu se produire naturellement, même avec les radiations de la guerre.}
+{186}{}{Que veux-tu que je fasse ?}
+{187}{Over_47}{Tant que quelqu'un crée à ce rythme des mutants hostiles, l'Abri est en péril ! Trouve ce laboratoire pour le détruire, vite.}
+{188}{}{D'accord.}
+{189}{}{Bref, faut retourner au charbon, pas vrai ?}
+{190}{Over_48}{Tu peux pas savoir combien ça me désole de te renvoyer dehors !}
+{191}{Over_49}{Oh, ouais. Hmm... C'est comme ça. Les mauvais mutants, ils viennent d'un endroit mauvais. Mauvais. L'Abri, bon. S'il te plaît, va détruire endroit mauvais.}
+{192}{Over_50}{T'as découvert le laboratoire des mutants ? Ou mieux, dis-moi qu'il est détruit.}
+{193}{}{Non.}
+{194}{}{Pas encore, mais je suis sur de bonnes pistes.}
+{195}{}{Non, je sais plus trop où j'en suis.}
+{196}{}{Euh, ben nan.}
+{197}{Over_51}{Bon, continue à chercher.}
+{198}{Over_52}{Bien. Mais fais vite ! Plus ils ont le temps de les générer, plus ils seront durs à arrêter.}
+{199}{Over_53}{Eh bien, d'après tes renseignements sur la densité de la population, m'est avis que tu devrais surtout rechercher vers l'Ouest.}
+{200}{Over_54}{Alors, quoi de neuf sur les mutants ?}
+{201}{}{J'ai liquidé leur salaud de chef.}
+{202}{}{J'ai tué le Maître, le chef des mutants.}
+{203}{}{Euh, ben, euh...}
+{204}{Over_55}{Excellent ! Et le laboratoire ? Tu l'as détruit aussi ?}
+{205}{}{Non.}
+{206}{}{Pour sûr ! Tué tous les mutants et fait sauter leurs Cuves de production. L'Abri n'a plus rien à craindre.}
+{207}{Over_58}{T'as le droit de te vanter de tes exploits. Notre sort dépendait de toi, et tu as réussi. Maintenant, parlons un peu de ton avenir...}
+{208}{Over_59}{C'est sûr ? Négliger une seule chose pourrait être fatal à l'Abri. Retourne vérifier. Essaie vers l'Ouest, on dirait qu'il y a une grande concentration de mutants par là-bas.}
+{209}{Over_60}{Retournes-y et trouve-le. Il faut le détruire pour la sécurité de l'Abri. Essaie à l'Ouest, la plupart des mutants semblent être par là-bas.}
+{210}{Over_61}{Quoi ? T'as tué le chef des mutants ?}
+{211}{}{Euh, ben, euh...}
+{212}{Over_61aS}{Toujours plus de mutants ? Il faut que tu détruises leurs Cuves ? Sacré boulot ! Retourne t'occuper de ça.}
+{213}{Over_62}{Alors, que deviennent les mutants ?}
+{214}{}{Je les ai fait sauter.}
+{215}{}{Les Cuves des mutants sont détruites.}
+{216}{}{Ben, euh...}
+{217}{Over_63}{Tous ?}
+{218}{}{Eh bien, tous ceux qu'étaient aux Cuves.}
+{219}{}{Euh, ben, euh...}
+{220}{Over_64}{Et leur chef ? Ce soi-disant Maître ?}
+{221}{}{A ce que je sais, il est toujours vivant.}
+{222}{}{Euh, ben, euh...}
+{223}{Over_66}{Il faut l'arrêter. Sinon, il risque de reconstruire son empire de mutants, et sans doute de se venger de nous. Tant que le Maître vivra, l'abri sera en danger.}
+{224}{Over_68}{Alors, le chef des mutants est... calmé ?}
+{225}{}{Non.}
+{226}{}{Il le sera... bientôt.}
+{227}{}{Ben...}
+{228}{Over_69}{Je sais, c'est pas une partie de plaisir. Mais ce Maître, à coup sûr il est du genre à reconstruire son armée de mutants. Et là, gare à nos dents. S'il te plaît, va finir le boulot.}
+{229}{Over_70}{Eh bien, C'est -- C'est super. Parfait. On dirait que tu contrôles la situation. S'il te plaît, finis vite le boulot pour que toi et moi, on puisse... Et n'oublie pas, les gens de l'Abri savent tout ce qu'ils te doivent.}
+{230}{Over_71}{Pas question. Pas maintenant, avec tout ce qui se passe. Les règles de l'Abri sont là pour notre protection et la survie de notre espèce.}
+{231}{Over_72}{Qu'est-ce que t'as ?! T'as retourné ta veste ?! Je peux pas laisser passer ça.}
+{232}{Over_73}{Les caravanes d'eau de ce Centre commencent à arriver. J'ai fait les comptes et les nouvelles sont pas réjouissantes.}
+{233}{}{Quoi ?}
+{234}{}{Hein ?}
+{235}{Over_74}{Oh, t'inquiète pas. Essaie simplement de trouver la puce d'eau. La puce. Il nous faut la puce.}
+{236}{Over_75}{L'eau des caravanes maintiendra juste nos réserves, mais sans beaucoup les augmenter. Et ces marchands du Centre nous demandent les yeux de la tête. C'est vrai que ça nous dépanne, mais c'est pas une solution.}
+{237}{}{D'accord.}
+{238}{}{Mais y'a autre chose, hein ?}
+{239}{Over_76}{Continue à chercher une puce de rechange. C'est le seul moyen de préserver notre indépendance et notre sécurité.}
+{240}{Over_77}{On court un risque énorme en montrant à ces gens le chemin de notre Abri. Je comprends ta décision, et c'est peut-être ce qui va nous sauver. Mais ça m'inquiète. Peut-on leur faire confiance ?}
+{241}{}{Je leur fais confiance.}
+{242}{}{Je comprends.}
+{243}{Over_78}{J'en doute pas, mais on a besoin de cette puce de rechange pour notre survie et notre stabilité économique à long terme. On produit pas assez pour payer cette eau, et bientôt, on pourra plus payer du tout. Trouve la puce.}
+{244}{Over_79}{J'en doute pas. Mais tu dois aussi comprendre qu'on a besoin de cette puce de rechange. S'il te plaît, continue à chercher.}
+{245}{Over_80}{S'il te plaît, continue à chercher la puce d'eau. Ces caravanes d'eau finiront par nous causer des ennuis.}
+{246}{Over_81}{Ca y est ! C'est... merveilleux. Etonnant ! Je suis fier de ce que t'as accompli, avec tout ce que t'as enduré. Jamais les gens de l'Abri ne pourront assez te remercier. T'as sauvé nos vies, à tous. Qui sait, peut-être même la race humaine. [Soupir] Mais ça va compliquer les choses. Tout le monde voudra te parler. Tous les jeunes vont prendre modèle sur toi. Et alors ? Ils voudront partir. Qu'arrivera-t-il à l'Abri s'il perd le meilleur d'une génération ? Et si nous sommes le seul endroit sûr au monde ? Tu viens de nous redonner toutes ces vies... Je ne peux pas risquer de les voir partir. J'ai pris pas mal de décisions pénibles depuis que j'occupe cette place. Mais jamais aussi dures que celle-ci. Tu nous as sauvés, mais tu seras notre mort. Navré. Malgré ta bravoure... tu dois partir.}
 {247}{Over_100}{I don't know anything about that.}
-{248}{Over_200}{It is a critical part that allows us to purify the water. Without it, we'll run out of drinking water.}
-{249}{Over_201}{This is our home. We'd all be dead without it. If we care for it properly, it should last us for a long time.}
-{250}{Over_202}{It was terrible. I hope we learned our lesson and we never do it again.}
-{251}{Over_203}{How would I know? I can barely keep up with what goes on in here! I suspect you're going to find out.}
-{252}{}{You earn 7500 experience for returning the Water Chip and saving the Vault. Congratulations!}
-{253}{Over_0ab}{Here's a picture to help you identify it.}
-{254}{Over_1a}{You have one month to retrieve the chip before the Vault runs out of water.}
-{255}{Over_1b}{You have two months to retrieve the chip before the Vault runs out of water.}
-{256}{Over_1c}{You have four months to retrieve the chip before the Vault runs out of water.}
-{257}{Over_1d}{You have five months to retrieve the chip before the Vault runs out of water.}
-{258}{Over_1e}{You have six months to retrieve the chip before the Vault runs out of water.}
-{259}{}{Yeah, well I guess you'll have to find someone else to do your dirty work.}
-{260}{}{I understand. I'll work harder to find the chip.}
-{261}{Over_81a}{You've done it! That's... wonderful. Amazing! I'm so proud of what you've accomplished, what you've endured.}
-{262}{Over_81b}{There's no way the people of the Vault can ever thank you enough for what you've done. You've saved all our lives. Who knows, maybe even saved the human race. [The Overseer sighs.] That makes the rest of this even harder.}
-{263}{Over_81c}{Everyone will want to talk to you. Every youngster will look up to you, and want to emulate you. And then what?}
-{264}{Over_81d}{They'll want to leave. What happens to the Vault if we lose the best of a generation? What if we are the only safe place in the world? You just gave us back all these lives... I can't take the chance of losing them.}
-{265}{Over_81e}{I've made a lot of tough decisions since I took this position. But none of them harder than this one. You saved us, but you'll kill us. I'm sorry. You're a hero... and you have to leave.}
+{248}{Over_200}{C'est une pièce indispensable pour purifier l'eau. Sans elle, on va être à court d'eau potable.}
+{249}{Over_201}{C'est notre foyer. Sans lui, on serait tous morts. Si on en prend soin, il devrait nous durer.}
+{250}{Over_202}{C'était terrible. J'espère que ça aura servi de leçon et que jamais ça ne se reproduira.}
+{251}{Over_203}{Comment je saurais ? J'ai déjà du mal à savoir ce qui se passe ici ! Je te fais confiance, tu vas trouver.}
+{252}{}{Tu gagnes 7500 points d'expérience pour avoir rapporté la puce d'eau et sauvé l'Abri. Félicitations !}
+{253}{Over_0ab}{Voici une photo pour t'aider à l'identifier.}
+{254}{Over_1a}{Tu as un mois pour récupérer la puce avant que l'Abri ne soit à court d'eau.}
+{255}{Over_1b}{Tu as deux mois pour récupérer la puce avant que l'Abri ne soit à court d'eau.}
+{256}{Over_1c}{Tu as quatre mois pour récupérer la puce avant que l'Abri ne soit à court d'eau.}
+{257}{Over_1d}{Tu as cinq mois pour récupérer la puce avant que l'Abri ne soit à court d'eau.}
+{258}{Over_1e}{Tu as six mois pour récupérer la puce avant que l'Abri ne soit à court d'eau.}
+{259}{}{Il te reste plus qu'à trouver quelqu'un d'autre pour faire ton sale boulot.}
+{260}{}{Compris. A moi de mettre les bouchées doubles pour trouver la puce.}
+{261}{Over_81a}{Ca y est ! C'est... merveilleux. Etonnant ! Je suis fier de ce que t'as accompli, avec tout ce que t'as enduré.}
+{262}{Over_81b}{Jamais les habitants de l'Abri ne pourront assez te remercier. Tu as sauvé nos vies, à tous. Qui sait, peut-être même la race humaine. [Il soupire.] Mais ça va compliquer les choses.}
+{263}{Over_81c}{Tout le monde voudra te parler. Tous les jeunes vont prendre modèle sur toi. Et alors ?}
+{264}{Over_81d}{Ils voudront partir. Qu'arrivera-t-il à l'Abri s'il perd le meilleur d'une génération ? Et si nous sommes le seul endroit sûr au monde ? Tu viens de nous redonner toutes ces vies... Je peux pas risquer de les voir partir.}
+{265}{Over_81e}{J'ai pris pas mal de décisions pénibles depuis que j'occupe cette place. Mais jamais aussi dures que celle-ci. Tu nous as sauvés mais tu feras notre mort. Navré. Malgré ta bravoure... tu dois partir.}
 {980}{Over_100}{I don't know anything about that.}
-{1000}{}{Water}
-{1001}{}{Vault}
-{1002}{}{War}
-{1003}{}{Outside}
-{1004}{}{Chip}
+{1000}{}{Eau}
+{1001}{}{Abri}
+{1002}{}{Guerre}
+{1003}{}{Monde extérieur}
+{1004}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1005}{}{Library}
-{1006}{}{Healing}
-{1007}{}{Medic}
-{1008}{}{Vault13}
+{1006}{}{Guérison}
+{1007}{}{Médecin}
+{1008}{}{Abris}
 {1009}{}{Vault 13}
-{1010}{}{Overseer}
-{1011}{}{Waterchip}
-{1100}{Over_200}{It is a critical part that allows us to purify the water. Without it, we'll run out of drinking water.}
-{1101}{Over_201}{This is our home. We'd all be dead without it. If we care for it properly, it should last us for a long time.}
-{1102}{Over_202}{It was terrible. I hope we learned our lesson and we never do it again.}
-{1103}{Over_203}{How would I know? I can barely keep up with what goes on in here! I suspect you're going to find out.}
-{1104}{Over_200}{It is a critical part that allows us to purify the water. Without it, we'll run out of drinking water.}
-{1105}{Over_21q}{We don't have time for this!}
-{1106}{Over_21q}{We don't have time for this!}
-{1107}{Over_21q}{We don't have time for this!}
-{1108}{Over_201}{This is our home. We'd all be dead without it. If we care for it properly, it should last us for a long time.}
-{1109}{Over_201}{This is our home. We'd all be dead without it. If we care for it properly, it should last us for a long time.}
-{1110}{Over_21q}{We don't have time for this!}
-{1111}{Over_200}{It is a critical part that allows us to purify the water. Without it, we'll run out of drinking water.}
+{1010}{}{Dirigeant}
+{1011}{}{Puce d'eau}
+{1100}{Over_200}{C'est une pièce indispensable pour purifier l'eau. Sans elle, on va être à court d'eau potable.}
+{1101}{Over_201}{C'est notre foyer. Sans lui, on serait tous morts. Si on en prend soin, il devrait nous durer.}
+{1102}{Over_202}{C'était terrible. J'espère que ça aura servi de leçon et que jamais ça ne se reproduira.}
+{1103}{Over_203}{Comment je saurais ? J'ai déjà du mal à savoir ce qui se passe ici ! Je te fais confiance, tu vas trouver.}
+{1104}{Over_200}{C'est une pièce indispensable pour purifier l'eau. Sans elle, on va être à court d'eau potable.}
+{1105}{Over_21q}{Y'a pas l'temps pour ça !}
+{1106}{Over_21q}{Y'a pas l'temps pour ça !}
+{1107}{Over_21q}{Y'a pas l'temps pour ça !}
+{1108}{Over_201}{C'est notre foyer. Sans lui, on serait tous morts. Si on en prend soin, il devrait nous durer.}
+{1109}{Over_201}{C'est notre foyer. Sans lui, on serait tous morts. Si on en prend soin, il devrait nous durer.}
+{1110}{Over_21q}{Y'a pas l'temps pour ça !}
+{1111}{Over_200}{C'est une pièce indispensable pour purifier l'eau. Sans elle, on va être à court d'eau potable.}

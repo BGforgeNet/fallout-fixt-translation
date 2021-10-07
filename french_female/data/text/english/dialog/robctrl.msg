@@ -1,98 +1,98 @@
-{100}{}{This looks like a robot control terminal.}
-{101}{}{There is no response.}
-{102}{}{Reprogramming complete. Initializing voice communication subsystems. Initializing personality subsystem. [Click!] How may this terminal be of service?}
-{103}{}{Hng.}
-{104}{}{Who or what are you?}
-{105}{}{What is your function?}
-{106}{}{Display list of programs.}
-{107}{}{Input error. Command not in set. Please restate.}
-{108}{}{Hng.}
-{109}{}{La-la.}
-{110}{}{Brai!}
-{111}{}{Niggle!}
-{112}{}{End communication subsystem. End process.}
-{113}{}{This terminal is an Artificial Intelligence. This terminal is part of a WLAN matrix network to optimize remote unit operations.}
-{114}{}{Thanks. Uh, end input.}
-{115}{}{What are the remote units that you control?}
-{116}{}{What programs are running?}
-{117}{}{This terminal is responsible for the operation of all General Atomics International industrial robots in this facility.}
-{118}{}{Please be more specific.}
-{119}{}{What programs are running?}
-{120}{}{The style of industrial robots are commonly referred to as 'Robobrain'. [Click!] General Atomics International has the finest industrial robots in the world. Buy two or more GAI robots and save! Special deal on 'Mr. Handy' models! [Click!] Advertising applet terminated.}
-{121}{}{What programs are running?}
-{122}{}{Current applications are: Facility Maintenance v2.1, Movement v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and Sensors '76.}
-{123}{}{Terminate Movement.}
-{124}{}{Terminate Sensors.}
-{125}{}{Terminate Pest Control.}
-{126}{}{Terminate Hearts.}
-{127}{}{Thanks. End input.}
-{128}{}{Attempting to terminate. [Click!] System error. Failure to terminate application. Delete rights not available.}
-{129}{}{Hmm, adjust parameters on Movement.}
-{130}{}{Adjust parameters on Sensors.}
-{131}{}{Modify Pest Control.}
-{132}{}{Play Hearts.}
-{133}{}{Thanks. End input.}
-{134}{}{Current application: Movement v4.8b. Current setting: [maximum/half rate/minimum]. Change to: maximum, half rate, or minimum.}
-{135}{}{Maximum movement.}
-{136}{}{Half rate movement.}
-{137}{}{Minimum movement.}
-{138}{}{Current application: Sensors '76. Current setting: [full/minimum]. Change to: full, or minimum.}
-{139}{}{Full sensors.}
-{140}{}{Minimal sensors.}
-{141}{}{Current application: Pest Control v1.4. Current setting: [Click!] unauthorized. Change to: [Click!] all, none, small living, large living, or unauthorized.}
-{142}{}{All pests.}
-{143}{}{No pests.}
-{144}{}{Small living pests.}
-{145}{}{Large living pests.}
-{146}{}{Unauthorized pests.}
-{147}{}{Application Hearts running. User Wins. [Click!] Thank you for the game.}
-{148}{}{Application Hearts running. This terminal wins. [Click!] Thank you for the game.}
-{149}{}{Program parameter changed. Current applications are: Facility Maintenance v2.1, Movement v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and Sensors '76.}
-{150}{}{Adjust parameters on Movement.}
-{151}{}{Adjust Sensor parameters.}
-{152}{}{Modify Pest Control.}
-{153}{}{Play Hearts.}
-{154}{}{Thanks. End input.}
-{155}{}{Current applications are: Facility Maintenance v2.1, Movement v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and Sensors '76.}
-{156}{}{Adjust parameters on Movement.}
-{157}{}{Adjust Sensor parameters.}
-{158}{}{Modify Pest Control.}
-{159}{}{Play Hearts.}
-{160}{}{Thanks. End input.}
-{161}{}{Initializing voice communication subsystems. Initializing personality subsystems. [Click!] How may this terminal be of service?}
-{162}{}{Hnng.}
-{163}{}{Show me your programs.}
-{164}{}{Shut down all force fields.}
-{165}{}{Do you know what this location is?}
-{166}{}{Initiate emergency shutdown.}
-{167}{}{End input.}
-{168}{}{This terminal cannot perform that function. Request denied.}
-{169}{}{Show me your programs.}
-{170}{}{Do you know what this location is?}
-{171}{}{Initiate emergency shutdown.}
-{172}{}{End input.}
-{173}{}{This is the - classified [Click!] [Click!]}
-{174}{}{Abort request. Show programs.}
-{175}{}{Override, continue request.}
-{176}{}{[Click!] This is the FEV production control facility. This terminal online 2074. Final pre-production process 2075. It is currently under final construction, and is due to open 2078. [Click!]}
-{177}{}{Do you know what FEV is?}
-{178}{}{Do you know what date it is?}
-{179}{}{FEV is Forced [Click!] Evolutionary Virus, a product of the Livermore/Broansoun Laboratories. It is designed to increase the genetic complexity of a DNA/RNA series in a shorter period of time.}
-{180}{}{Show programs.}
-{181}{}{End input.}
-{182}{}{Affirmative. Terminal date is February 2, 2077.}
-{183}{}{Show programs.}
-{184}{}{End input.}
-{185}{}{That date is incorrect. Please recalibrate.}
-{186}{}{Correcting. [Click!] Error. Attempting self-diagnostics. [Click! CLICK!] ERROR! FATAL SYSTEM ERROR. SYSTEM CORRUPTED, ATTEMPTING RECOMPILATION. [long pause]}
-{187}{}{Terminal?}
-{188}{}{[Click] Error in recompilation... [Click]}
-{189}{}{Cannot process request. Terminating dialogue.}
-{190}{}{Confirm emergency codescram.}
-{191}{}{Confirmed.}
-{192}{}{Terminate shutdown procedure.}
-{193}{}{[Click!]}
-{194}{}{Processing request. Terminating dialogue.}
-{195}{}{This computer is not compatible with your radio. It uses a special high-frequency band for robotic use only.}
-{196}{}{You press some buttons but the computer seems to be damaged. It will take some work to operate it.}
-{197}{}{The computer is not physically damaged, but instead seems to have corrupted data.}
+{100}{}{On dirait un terminal de contrôle de robot.}
+{101}{}{Il n'y a pas de réponse.}
+{102}{}{Reprogrammation terminée. Initialisation des sous-systèmes de communication vocaux en cours. Initialisation du sous-système de personnalité en cours. [Clic !] En quoi ce terminal pourrait-il être utile ?}
+{103}{}{Grr.}
+{104}{}{Qui ou qu'es-tu ?}
+{105}{}{Quelle est ta fonction ?}
+{106}{}{Affichage de la liste des programmes.}
+{107}{}{Erreur d'entrée. Commande incompatible. Veuillez recommencer.}
+{108}{}{Grr.}
+{109}{}{Areuh.}
+{110}{}{Ben alors !}
+{111}{}{Quel casse-tête !}
+{112}{}{Fin du sous-système de communication. Fin du processus.}
+{113}{}{Ce terminal est une Intelligence Artificielle. Ce terminal fait partie d'un réseau matriciel WLAN pour l'optimisation du fonctionnement des unités à distance.}
+{114}{}{Merci. Euh, fin d'entrée.}
+{115}{}{Quelles unités à distance contrôles-tu ?}
+{116}{}{Quels sont les programmes qui fonctionnent ?}
+{117}{}{Ce terminal contrôle tous les robots industriels General Atomics International du complexe.}
+{118}{}{Sois plus précis, s'il te plaît.}
+{119}{}{Quels sont les programmes qui fonctionnent ?}
+{120}{}{Les robots industriels sont communément appelés des "Robo-cerveaux". [Clic !] General Atomics International fabrique les meilleurs robots industriels du monde. Si tu achètes au moins deux robots GAI, tu fais des économies ! Des réductions sont disponibles sur les modèles "M. Handy" ! [Clic !]. Publicité terminée.}
+{121}{}{Quels sont les programmes qui fonctionnent ?}
+{122}{}{Les applications courantes sont : Maintenance du Centre v2.1, Mouvement v4.8b, Réparation v0.8a, Contrôle créatures nuisibles v1.4, Trèfles v1.0 et Détecteurs '76.}
+{123}{}{Quitter Mouvement.}
+{124}{}{Quitter Détecteurs.}
+{125}{}{Quitter Contrôle créatures nuisibles.}
+{126}{}{Quitter Trèfles.}
+{127}{}{Merci. Terminer.}
+{128}{}{Tentative d'arrêt en cours. [Clic !] Erreur système. Impossible de quitter l'application. Supprimer les droits non disponibles.}
+{129}{}{Hmm, régler les paramètres de Mouvement.}
+{130}{}{Régler les paramètres de Détecteurs.}
+{131}{}{Modifier Contrôle créatures nuisibles.}
+{132}{}{Lancer Trèfles.}
+{133}{}{Merci. Terminer.}
+{134}{}{Application courante : Mouvement v4.8b. Paramètres courants : [maximum/débit moyen/minimum]. Changer vers : maximum, débit moyen, ou minimum.}
+{135}{}{Mouvement Maximum.}
+{136}{}{Mouvement Débit moyen.}
+{137}{}{Mouvement Minimum.}
+{138}{}{Application courante : Détecteurs '76. Paramètres courants : [maximum/minimum]. Changer vers : maximum ou minimum.}
+{139}{}{Détecteurs maximum.}
+{140}{}{Détecteurs minimum.}
+{141}{}{Application courante : Contrôle créatures nuisibles v1.4. Paramètres courants : [Clic !] non autorisées. Changer vers : [Clic !] tout, rien, petites créatures, grandes créatures ou non autorisées.}
+{142}{}{Toutes créatures nuisibles.}
+{143}{}{Aucune créature nuisible.}
+{144}{}{Petites créatures nuisibles.}
+{145}{}{Grandes créatures nuisibles.}
+{146}{}{Créatures nuisibles non autorisées.}
+{147}{}{Application Trèfles en cours. L'utilisateur a gagné. [Clic !] Merci d'avoir joué.}
+{148}{}{Application Trèfles en cours. Le terminal a gagné. [Clic !] Merci d'avoir joué.}
+{149}{}{La configuration du programme a changé. Les applications en cours sont : Maintenance du Centre v2.1, Mouvement v4.8b, Réparation v0.8a, Contrôle créatures nuisibles v1.4, Trèfles v1.0 et Détecteurs '76.}
+{150}{}{Régler les paramètres sur Mouvement.}
+{151}{}{Régler les paramètres de Détecteurs.}
+{152}{}{Modifier Contrôle créatures nuisibles.}
+{153}{}{Lancer Trèfles.}
+{154}{}{Merci. Terminer.}
+{155}{}{Les applications courantes sont : Maintenance du Centre v2.1, Mouvement v4.8b, Réparation v0.8a, Contrôle créatures nuisibles v1.4, Trèfles v1.0 et Détecteurs '76.}
+{156}{}{Régler les paramètres sur Mouvement.}
+{157}{}{Régler les paramètres de Détecteurs.}
+{158}{}{Modifier Contrôle créatures nuisibles.}
+{159}{}{Lancer Trèfles.}
+{160}{}{Merci. Terminer.}
+{161}{}{Initialisation des sous-systèmes de communication vocaux en cours. Initialisation des sous-systèmes de personnalité en cours. [Clic !] En quoi ce terminal peut-il être utile ?}
+{162}{}{Hrr.}
+{163}{}{Montre-moi tes programmes.}
+{164}{}{Couper tous les champs de forces.}
+{165}{}{Sais-tu où se trouve cet endroit ?}
+{166}{}{Amorcer l'arrêt d'urgence.}
+{167}{}{Terminer.}
+{168}{}{Ce terminal ne peut pas effectuer cette fonction. Demande refusée.}
+{169}{}{Montre-moi tes programmes.}
+{170}{}{Sais-tu où se trouve cet endroit ?}
+{171}{}{Amorcer l'arrêt d'urgence.}
+{172}{}{Terminer.}
+{173}{}{C'est un... secret [clic !] [clic !]}
+{174}{}{Annuler la demande. Montrer les programmes.}
+{175}{}{Forcer. Poursuivre la demande.}
+{176}{}{[Clic !] Voici l'installation de contrôle de la production du FEV. Terminal en ligne 2074. Processus de pré-production final 2075. Fin de construction en cours avant ouverture 2078. [Clic !]}
+{177}{}{Sais-tu ce qu'est le FEV ?}
+{178}{}{Sais-tu quel jour nous sommes ?}
+{179}{}{FEV signifie Virus [clic !] à Evolution Forcée. C'est un produit des Laboratoires Livermore/Broansoun. Il a été conçu pour augmenter la complexité génétique d'un fragment d'ADN/ARN en un temps record.}
+{180}{}{Montrer les programmes.}
+{181}{}{Terminer.}
+{182}{}{Affirmatif. Nous sommes le 2 février 2077.}
+{183}{}{Montrer les programmes.}
+{184}{}{Terminer.}
+{185}{}{Cette date est incorrecte. Recalibrage demandé.}
+{186}{}{Corrections en cours. [Clic !] Erreur. Tentative d'auto-diagnostique. [Clic ! CLIC !] ERREUR ! ERREUR SYSTEME FATALE. FICHIER SYSTEME CORROMPU, TENTATIVE DE RECUPERATION. [longue pause]}
+{187}{}{Terminal ?}
+{188}{}{[clic] Erreur intervenue lors de la recompilation... [clic]}
+{189}{}{Impossible de traiter la demande. Conversation terminée.}
+{190}{}{Confirmer le code d'urgence.}
+{191}{}{Confirmé.}
+{192}{}{Interrompre la procédure d'arrêt.}
+{193}{}{[Clic !]}
+{194}{}{Traitement de la demande en cours. Conversation terminée.}
+{195}{}{Cet ordinateur n'est pas compatible avec ta radio. Il utilise une bande à haute fréquence spéciale exclusivement compatible avec les appareils robotiques.}
+{196}{}{Tu appuies sur des boutons mais l'ordinateur semble endommagé. Des réparations sont nécessaires pour le faire fonctionner.}
+{197}{}{Extérieurement, l'ordinateur semble en bon état mais ses données semblent corrompues.}

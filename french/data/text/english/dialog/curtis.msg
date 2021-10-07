@@ -1,21 +1,21 @@
-{100}{}{You see a weather-beaten farmer.}
-{101}{}{Good day.}
-{102}{}{Hello.}
-{103}{}{Hubip.}
-{104}{}{Hello again.}
-{105}{}{What can I do for you?}
-{106}{}{What's your name?}
-{107}{}{What can you tell me about your village?}
-{108}{}{What are you doing?}
-{109}{}{Nothing, thanks.}
-{110}{}{I am called Curtis.}
-{111}{}{Our village is small, but we support ourselves. Aside from the attacks by raiders and the occasional radscorpion, we have no problems. Aradesh is a good leader.}
-{112}{}{I am a farmer. We irrigated the desert many years ago. Although the wasteland is harsh, it is possible to grow things with patience and time.}
-{113}{}{I see. You seem to be doing pretty well.}
-{114}{}{You have all of your fields planted right now? You could probably do better with crop rotation.}
-{115}{}{Crop rotation? What's that?}
-{116}{}{Never mind.}
-{117}{}{You only plant some of your fields, allowing the others to get back some of the nutrients that the plants used up. You let the other fields become fertile again by just tilling up whatever grows there.}
-{118}{}{Huh. Never thought of that. Makes sense, though. Good idea.}
-{119}{}{Can I ask you another question?}
-{200}{}{You earn 500 experience for helping to improve the agriculture of Shady Sands.}
+{100}{}{Voici un fermier au visage buriné.}
+{101}{}{Bonne journée.}
+{102}{}{Bonjour.}
+{103}{}{Hey.}
+{104}{}{Rebonjour.}
+{105}{}{Que puis-je pour toi ?}
+{106}{}{Comment t'appelles-tu ?}
+{107}{}{Que peux-tu me dire sur ton village ?}
+{108}{}{Qu'est-ce que tu fais ?}
+{109}{}{Rien, merci.}
+{110}{}{Je m'appelle Curtis.}
+{111}{}{Notre village est petit, mais nous nous soutenons les uns les autres. A part les attaques des pillards et les apparitions occasionnelles de radscorpions, nous n'avons aucun problème. Aradesh est un bon chef.}
+{112}{}{Je suis fermier. Il y a plusieurs années, nous avons irrigué le désert. Le désert est une terre rude, mais avec de la patience et du temps, on peut le cultiver.}
+{113}{}{Je vois. Tu as l'air de bien t'en sortir.}
+{114}{}{Tous tes champs sont cultivés en ce moment ? Tu pourrais faire mieux en pratiquant l'alternance des cultures.}
+{115}{}{L'alternance des cultures ? Qu'est-ce que c'est ?}
+{116}{}{Qu'importe.}
+{117}{}{Tu ne cultives qu'une partie de tes terres, pendant que les autres récupèrent les substances nutritives absorbées par les plantes. Ces terres deviennent ainsi plus fertiles pour cultiver tout ce que tu veux.}
+{118}{}{Euh. Je n'y avais jamais pensé. Mais ce n'est pas bête. C'est une bonne idée.}
+{119}{}{Je peux encore te poser quelques questions ?}
+{200}{}{points d'expérience pour avoir contribué à améliorer l'agriculture des Sables Ombragés.}

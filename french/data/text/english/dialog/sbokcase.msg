@@ -1,3 +1,3 @@
-{100}{}{The bookcase is full of tattered novels.}
-{101}{}{The bookcase is full of tattered novels.}
-{102}{}{Unfortunately, you are much too pressed for time to read one of these novels.}
+{100}{}{La bibliothèque est pleine de romans en lambeaux.}
+{101}{}{La bibliothèque est pleine de romans en lambeaux.}
+{102}{}{Hélas, tu n'as même pas le temps de lire un seul de ces romans.}

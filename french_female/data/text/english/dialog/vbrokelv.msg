@@ -1,3 +1,3 @@
-{100}{}{You notice a sign on the door saying that the elevator is out of order.}
-{101}{}{You see a sign on the door stating that it is out of order.}
-{102}{}{A sign says: Warning: Elevator Shaft under construction. Please use other elevator.}
+{100}{}{Sur la porte, tu remarques un écriteau indiquant que l'ascenseur est en panne.}
+{101}{}{Sur la porte, tu vois un écriteau indiquant que l'ascenseur est en panne.}
+{102}{}{Un écriteau porte l'inscription suivante : Attention - cage d'ascenseur en construction. Veuillez emprunter un autre ascenseur.}

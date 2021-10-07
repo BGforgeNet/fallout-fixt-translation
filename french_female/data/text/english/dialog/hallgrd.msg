@@ -1,15 +1,15 @@
-{100}{}{You see a Brotherhood guard.}
-{101}{}{Stay sharp Initiate!}
-{102}{}{Looking good. Keep up the good work.}
-{103}{}{Hello Initiate; everything is secure.}
-{104}{}{Sorry, I shouldn't be talking to anyone. You know how it is.}
-{105}{}{You should talk to Talus or Maxson if you have any questions.}
-{106}{}{Vree's in the library during the day if you ever have technical questions.}
-{107}{}{Rhombus is my idol.}
-{108}{}{I wish I was training right now, this guard duty is a waste of time.}
-{109}{}{Vree's my idol.}
-{110}{}{Hi Brother }
+{100}{}{Voici un Garde de la Confrérie.}
+{101}{}{De la vigilance, Initié ! Toujours !}
+{102}{}{Ca m'a l'air bien. Continue comme ça.}
+{103}{}{Bonjour, Initié, tout est en ordre.}
+{104}{}{Je regrette mais je ne dois parler à personne. Tu sais ce que c'est.}
+{105}{}{Si t'as des questions, adresse-toi à Talus ou à Maxson.}
+{106}{}{Si t'as des questions techniques, Vree est dans la bibliothèque pendant la journée.}
+{107}{}{Rhombus est mon idole.}
+{108}{}{Ah, si je pouvais m'entraîner maintenant, au lieu de perdre mon temps à monter la garde.}
+{109}{}{Vree est mon idole.}
+{110}{}{Salut, Frère }
 {111}{}{.}
-{200}{}{Only Scribes and Paladins are allowed in this room.}
-{201}{}{You were warned. Now you will be dealt with.}
-{202}{}{Sorry, only members of the Brotherhood can enter here.}
+{200}{}{Seuls les Scribes et les Paladins sont autorisés dans cette salle.}
+{201}{}{On t'avait pourtant dit de ne pas essayer d'entrer. Maintenant, on va s'occuper de ton cas.}
+{202}{}{Désolé, seuls les membres de la Confrérie peuvent entrer.}

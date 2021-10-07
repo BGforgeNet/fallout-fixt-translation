@@ -1,17 +1,17 @@
-{100}{}{You see a ghoul guard.}
-{101}{}{We're going to take you to Set. I think he'll want to talk to you, personally.}
-{102}{}{You shouldn't be here...}
-{103}{}{Garret told me it was okay. He told me to get something from Set's room for him. Do you know where it is?}
-{104}{}{Okay. I'll just be leaving then.}
-{105}{}{Huh?}
-{106}{}{That doesn't sound right. You'd better come along with me.}
-{107}{}{I don't think so.}
-{108}{}{Okay.}
-{109}{}{I don't think you want to go to that room.}
-{110}{}{Why not?}
-{111}{}{Okay, I don't want to go into that room. Now what?}
-{112}{}{I think you'd better be leaving.}
-{113}{}{We are here to make sure that people that don't belong in Set's room don't go into it. Not for Set's safety, actually, but for theirs. Anything else?}
-{114}{}{Yeah. Your shoelaces are untied.}
-{115}{}{Nah. Thanks.}
-{116}{}{I'm on duty. Go away.}
+{100}{}{Voici un Garde Goule.}
+{101}{}{On t'emmène chez Set. Je pense qu'il voudra te parler, personnellement.}
+{102}{}{T'as rien à faire ici...}
+{103}{}{Garret est d'accord. Il m'a dit de prendre quelque chose dans la salle de Set. Où c'est ?}
+{104}{}{D'accord. Je m'en vais.}
+{105}{}{Hein ?}
+{106}{}{Ca me paraît pas net. Tu ferais mieux de me suivre.}
+{107}{}{Je ne crois pas.}
+{108}{}{D'accord.}
+{109}{}{A mon avis, tu ferais mieux de ne pas aller dans cette salle.}
+{110}{}{Et pourquoi ça ?}
+{111}{}{D'accord, je n'y vais pas. Bon, et maintenant ?}
+{112}{}{Je crois que tu ferais mieux de t'en aller.}
+{113}{}{On est là pour que les gens qu'ont rien à faire dans la salle de Set n'y mettent pas les pieds. Pas vraiment dans l'intérêt de Set, plutôt dans le leur. Autre chose ?}
+{114}{}{Ouais. Tes lacets sont défaits.}
+{115}{}{Non. Merci.}
+{116}{}{Je suis en service. Fous le camp.}

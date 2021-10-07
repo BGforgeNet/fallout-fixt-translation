@@ -1,133 +1,133 @@
-{100}{}{Towering before you is Garl, leader of the Khans.}
-{101}{}{You think you can come here without challenge? This, the home of your deadliest enemies? We will see you dead. I will personally tear your heart out of your chest and eat it before my proud warriors!}
-{102}{}{I killed you!}
-{103}{}{I don't get it.}
-{104}{}{Yes, you did. I've come back to haunt you.}
-{105}{}{You should not have done that.}
-{106}{}{I killed you!}
-{107}{}{I don't get it.}
-{108}{}{Yes, you did. I've come back to haunt you.}
-{109}{}{You should not have done that.}
-{110}{}{You would if you were my father, but you are not. You look like he did, but act different. No image of him remains to this day. You will just have to be removed.}
-{111}{}{I don't believe it! I can't believe it!}
-{112}{}{Believe this, buddy, and you're about to join me in hell!}
-{113}{}{Don't tell me what I should have done, father. I rule the Khans now, and you are but worm meat.}
-{114}{}{I still live.}
-{115}{}{I should have killed you when you were a child.}
-{116}{}{Don't tell me what I should have done, father. I rule the Khans now, and you are but worm meat.}
-{117}{}{I still live.}
-{118}{}{I should have killed you when you were a child.}
-{119}{}{You should have. Now it's too late. I am Garl Death-Hand. I rule the Khans. You should be dead in your grave, and you will be again!}
-{120}{}{I can see you standing before me, but I don't believe it. What do you want?}
-{121}{}{I want the girl set free. Now.}
-{122}{}{I want you to step down.}
-{123}{}{I want riches to buy my way into heaven.}
-{124}{}{Pledge that you shall return to the grave, and it shall be so.}
-{125}{}{I swear that I will leave.}
-{126}{}{So be it. Release the Shady Sands woman and escort this one out of here...}
-{127}{}{You don't rule here. You don't belong here. Death to the walking dead!}
-{128}{}{Never!}
-{129}{}{That's what I like: initiative. But you should not have killed them without my orders. I don't like too much initiative.}
-{130}{}{What do you want?}
-{131}{}{I want you to set the girl free.}
-{132}{}{I want you to die.}
-{133}{}{I've come in peace to negotiate the release of Tandi.}
-{134}{}{Hngh!}
-{135}{}{What makes you think I have her?}
-{136}{}{I know you do. I followed you here.}
-{137}{}{One of your followers told me.}
-{138}{}{I know.}
-{139}{}{I hate it when they do that. I will have to make that loudmouth pay for his crimes. After I finish up with you.}
-{140}{}{Hmmm. Well then. What do you offer for her release?}
-{141}{}{I represent a threat you don't even understand. Do you really want to risk our wrath?}
-{142}{}{I will give you something of equal value.}
-{143}{}{It would be good for your eternal soul.}
-{144}{}{Your blood, spilled on the ground.}
-{145}{}{Hmmm. For some reason, I believe you. You may take the girl, but do not return unless you seek our wrath.}
-{146}{}{Ha! You should not threaten your betters.}
-{147}{}{It must be valuable indeed. Show me.}
-{148}{}{It pleases me. You may take the girl, but do not return.}
-{149}{}{Your bribe is not worth my time. Kill him.}
-{150}{}{You think a man, such as I, believes in the afterlife? This world is dying, and I shall take what I want! You will never realize the strength required to make such a decision!}
-{151}{}{What do you want now?}
-{152}{}{Nothing.}
-{153}{}{I want the girl.}
-{154}{}{Lorrk.}
-{155}{}{Then you disturb me. Leave.}
-{156}{}{You are barely tolerated by us. Why should we give one of our most prized possessions to you?}
-{157}{}{It is only right.}
-{158}{}{I have something of equal value.}
-{159}{}{You will be allowed to live.}
-{160}{}{Right?! I determine what is right around here. You are treading on dangerous ground.}
-{161}{}{I'm sorry.}
-{162}{}{Why should I care? I'm taking the girl.}
-{163}{}{Yes, indeed you are. I don't tolerate frightened curs that have no backbone. And what we don't tolerate, we destroy. Kill him.}
-{164}{}{Would you be willing to fight me over her?}
-{165}{}{No, I'm a lover, not a fighter.}
-{166}{}{Of course. Right now, just you and me.}
-{167}{}{I'll take you and your whole gang on.}
-{168}{}{Fine. We shall settle this with no weapons, but you can keep any armor you're wearing. Knock me out, and I'll let you take the woman and leave. I knock you out, you leave without her.}
-{169}{}{Sounds good, let's go.}
-{170}{}{This will be interesting, but not very sporting. Very well, let's do it.}
-{171}{}{Okay.}
-{172}{}{Hmm, you fight better than I expected. I haven't had a good beating since my father slapped me around the room. You deserve the Shady Sands woman. Take her and leave. Don't come back.}
-{173}{}{Take your miserable hide and leave. If you ever return, I will not be so gentle.}
-{174}{}{What do you want?}
-{175}{}{I'm an explorer.}
-{176}{}{I want to join.}
-{177}{}{We don't like those kinds of people. We can't have that here. Kill him.}
-{178}{}{You? Want to join us? Whatever for?}
-{179}{}{To kick some serious ass.}
-{180}{}{I like you guys. I want to bond with you.}
-{181}{}{The Khans only accept the meanest and toughest SOBs around. You have to be bloodthirsty, violent, extreme. I don't think you can handle that. Can you?}
-{182}{}{Yes.}
-{183}{}{No.}
-{184}{}{Then you had better leave. Do not return.}
-{185}{}{I grow tired of these women. Kill them.}
-{186}{}{No!}
-{187}{}{Okay.}
-{188}{}{You have proved my point. Only the Khans possess the will to survive! You do not. Kill him.}
-{189}{}{You have proved my point. Only the Khans possess the will to survive! You do not. Kill her.}
-{190}{}{Scum! You will pay for that!}
-{191}{}{Ha! I like your style. A little sloppy, but it works. Consider yourself a friend of the Khans. Leave my sight now.}
-{192}{}{What do you want now?}
-{193}{}{Nothing.}
-{194}{}{I want some weapons and armor.}
-{195}{}{Grawp.}
-{196}{}{You must fend for yourself.}
-{197}{}{How dare you return to my sight? Kill him!}
-{198}{}{How dare you return to my sight? Kill her!}
-{200}{}{I came to party with you guys!}
-{201}{}{Well, go get some more booze and women for our party then.}
-{203}{}{I'll fight you one-on-one for Tandi.}
-{204}{}{You're no Khan, you deserve no honor.}
-{205}{}{Your bribe is not worth my time. Kill her.}
-{206}{}{We don't like those kinds of people. We can't have that here. Kill her.}
-{207}{}{Waaaug!}
-{208}{}{Okay, you win. Take the girl and get out of here.}
+{100}{}{Voici Garl, le chef des pillards.}
+{101}{}{Tu crois donc pouvoir venir ici sans crainte ? Ici, le foyer de tes plus farouches ennemis ? Tu vas mourir. Et je t'arracherai le cœur pour le dévorer sous les yeux de mes fiers guerriers !}
+{102}{}{Je t'ai tué !}
+{103}{}{Je saisis pas.}
+{104}{}{C'est vrai. Mais je suis là pour te hanter.}
+{105}{}{T'aurais pas dû faire ça.}
+{106}{}{Je t'ai tué !}
+{107}{}{Je saisis pas.}
+{108}{}{C'est vrai. Mais je suis là pour te hanter.}
+{109}{}{T'aurais pas dû faire ça.}
+{110}{}{Non, car tu n'es pas mon père. Tu lui ressembles, mais seulement par les traits. Il ne reste de lui aucune image. Il va falloir que tu disparaisses.}
+{111}{}{J'y crois pas ! Je peux pas y croire !}
+{112}{}{Crois ça mon pote, et tu vas bientôt me rejoindre en enfer !}
+{113}{}{Me dis pas ce que j'avais à faire, père. Je suis maintenant le chef des Khans, et t'es rien que de la bidoche à asticots.}
+{114}{}{Je vis toujours.}
+{115}{}{J'aurais dû te tuer quand t'étais jeune.}
+{116}{}{Me dis pas ce que j'avais à faire, père. Je suis maintenant le chef des Khans, et t'es rien que de la bidoche à asticots.}
+{117}{}{Je vis toujours.}
+{118}{}{J'aurais dû te tuer quand t'étais jeune.}
+{119}{}{T'aurais dû. Mais c'est trop tard. Je suis Garl Mainmorte. Le chef des Khans. Tu devrais être couché dans ta tombe, et tu vas y retourner !}
+{120}{}{T'es devant mes yeux, mais j'y crois pas. Qu'est-ce que tu veux ?}
+{121}{}{Que tu libères la fille. Maintenant.}
+{122}{}{Que tu démissionnes.}
+{123}{}{De quoi acheter ma place au Paradis.}
+{124}{}{Jure de retourner dans ta tombe, et il sera fait comme tu l'exiges.}
+{125}{}{Je jure que je partirai.}
+{126}{}{Qu'il en soit ainsi. Relâchez la femme des Sables Ombragés et emmenez-le...}
+{127}{}{Tu n'es pas le maître ici. Tu n'as rien à faire ici. Mort aux revenants !}
+{128}{}{Jamais !}
+{129}{}{Voilà qui me plaît. L'esprit d'initiative. Mais tu n'aurais pas dû les tuer sans ma permission. Trop d'initiative nuit.}
+{130}{}{Qu'est-ce que tu veux ?}
+{131}{}{Que tu libères la fille.}
+{132}{}{Que tu meurs.}
+{133}{}{Je suis venu pour négocier entre amis la liberté de Tandi.}
+{134}{}{Hnn !}
+{135}{}{Qu'est-ce qui te fait croire que je l'ai ?}
+{136}{}{Je le sais. Je t'ai suivi jusqu'ici.}
+{137}{}{Un de tes disciples me l'a dit.}
+{138}{}{Je sais.}
+{139}{}{J'ai horreur de ça. Je ferai payer ce braillard. Dès que j'en aurai fini avec toi.}
+{140}{}{Hum. Et qu'offres-tu pour sa liberté ?}
+{141}{}{Je représente une menace dont tu n'as même pas idée. Veux-tu vraiment risquer notre colère.}
+{142}{}{Quelque chose d'égale valeur.}
+{143}{}{Ce serait bien pour l'éternité de ton âme.}
+{144}{}{Ton sang, répandu sur ce sol.}
+{145}{}{Hum. Je ne sais pas pourquoi, mais je te crois. Emmène la fille, mais ne reviens pas sous peine de déclencher notre fureur.}
+{146}{}{Ah ! Tu ne devrais pas menacer tes supérieurs.}
+{147}{}{Alors, cela doit être précieux. Montre.}
+{148}{}{Ca me plaît. Emmène la fille, mais ne reviens pas.}
+{149}{}{Ton offre n'en vaut pas la peine. Tuez-le.}
+{150}{}{Tu penses qu'un homme comme moi croit à la vie après la mort ? Ce monde se meurt et je prendrai ce que je veux ! Tu ne sauras jamais la force qu'exige une telle décision !}
+{151}{}{Que veux-tu cette fois ?}
+{152}{}{Rien.}
+{153}{}{La fille.}
+{154}{}{Ben.}
+{155}{}{Tu me déranges. Va-t'en.}
+{156}{}{Ta présence nous est indésirable. Pourquoi alors te donner l'un de nos biens les plus précieux ?}
+{157}{}{Ce n'est que justice.}
+{158}{}{Je propose quelque chose d'égale valeur.}
+{159}{}{Tu auras le droit de vivre.}
+{160}{}{Justice ?! C'est moi qui décide de ce qui est juste. Tu t'avances en terrain dangereux.}
+{161}{}{Je regrette.}
+{162}{}{Qu'est-ce que j'en ai à faire ? J'emmène la fille.}
+{163}{}{Oui, je le vois. Je n'admets pas les chiffes molles. Et ce qui n'est pas admis doit être détruit. A mort !}
+{164}{}{Tu me défierais au combat pour elle ?}
+{165}{}{Non, j'aime et ne me bats point.}
+{166}{}{Bien sûr. Sur le champ, toi et moi.}
+{167}{}{Je te défie, toi et toute ta bande.}
+{168}{}{Parfait. Alors, à mains nues. Si tu gagnes, tu emmènes la femme. Si je gagne, tu pars sans elle.}
+{169}{}{Très bien.}
+{170}{}{Intéressant, mais pas très sportif. D'accord, allons-y.}
+{171}{}{D'accord.}
+{172}{}{Hum, tu te bats mieux que je ne le pensais. J'ai pas reçu de raclée depuis que mon père me donnait la fessée. Tu mérites la femme des Sables Ombragés. Prends-la et pars. Définitivement.}
+{173}{}{Va promener ta misérable carcasse loin d'ici. Si jamais tu reviens, ça se passera moins bien.}
+{174}{}{Qu'est-ce que tu veux ?}
+{175}{}{Je suis explorateur.}
+{176}{}{Je veux m'enrôler.}
+{177}{}{Nous n'aimons pas les gens de ton espèce. Indésirable. A mort !}
+{178}{}{Toi ? Te joindre à nous ? Pourquoi diable ?}
+{179}{}{Pour les bastons.}
+{180}{}{Vous me plaisez, les mecs. Je veux m'unir à vous.}
+{181}{}{Les Pillards n'acceptent que la pire des racailles. Il faut être sanguinaire, violent, prêt à tout. Tu crois vraiment en être capable ?}
+{182}{}{Oui.}
+{183}{}{Non.}
+{184}{}{Dans ce cas, file. Et ne reviens pas.}
+{185}{}{J'en ai marre de ces femmes. Tuez-les.}
+{186}{}{Non !}
+{187}{}{D'accord.}
+{188}{}{Tu viens de me donner raison. Seuls les Pillards ont la volonté de survivre ! Toi, non. Tuez-le !}
+{189}{}{Tu viens de me donner raison. Seuls les Pillards ont la volonté de survivre ! Toi, non. Tuez-la !}
+{190}{}{Ordure ! Tu vas me le payer !}
+{191}{}{Ah ! Ton style me plaît. Un peu trop sensible, mais bon... considère les Pillards comme tes amis. Hors de ma vue maintenant.}
+{192}{}{Que veux-tu cette fois ?}
+{193}{}{Rien.}
+{194}{}{Des armes et une armure.}
+{195}{}{Ben.}
+{196}{}{Tu dois te défendre seul.}
+{197}{}{Comment oses-tu reparaître devant moi ? Tuez-le !}
+{198}{}{Comment oses-tu reparaître devant moi ? Tuez-la !}
+{200}{}{Je viens faire la fête avec vous les mecs !}
+{201}{}{Bon, va chercher à boire et des femmes pour notre petite fête.}
+{203}{}{Je veux me battre avec toi pour Tandi.}
+{204}{}{Tu ne fais pas partie des Pillards, tu ne mérites aucun honneur.}
+{205}{}{Ton offre n'en vaut pas la peine. Tuez-la.}
+{206}{}{Nous n'aimons pas les gens de ton espèce. Indésirable. A mort !}
+{207}{}{Waaaoug !}
+{208}{}{D'accord, t'as gagné. Prends la fille et tire-toi.}
 {209}{}{Let the fight of honor begin!}
 {1000}{}{Khans}
 {1001}{}{Garl}
 {1002}{}{Dépôtville}
-{1003}{}{Shady}
-{1004}{}{Hub}
-{1005}{}{Water}
+{1003}{}{Sables}
+{1004}{}{Centre}
+{1005}{}{Eau}
 {1006}{}{Tandi}
-{1007}{}{Sands}
-{1008}{}{Chip}
-{1009}{}{Raiders}
+{1007}{}{Ombragés}
+{1008}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
+{1009}{}{Pillards|Pillards|Khans|Khan}
 {1010}{}{Khan}
 {1011}{}{Raid}
 {1012}{}{Raider}
 {1100}{}{That's us, you lackey.}
-{1101}{}{I am the leader of the Khans. I am the most feared man in the wasteland.}
-{1102}{}{They are to the southwest. We sometimes go there to relax after a hard day of pillaging.}
-{1103}{}{Miserable little piss-ant community. I could crush them.}
-{1104}{}{They are to the south. We trade with them. Mostly for water and ammo, but sometimes for weapons.}
-{1105}{}{Why should I care?}
-{1106}{}{I don't know anyone by that name.}
-{1107}{}{Miserable little piss-ant community. I could crush them.}
-{1108}{}{A what?}
+{1101}{}{Je suis le chef des Khans. La terreur du désert.}
+{1102}{}{Ils sont au Sud-Ouest. On y va parfois se reposer après une dure journée de pillage.}
+{1103}{}{Une quoi ?}
+{1104}{}{Ils sont au Sud. On fait du commerce avec eux. Surtout pour l'eau et les munitions, et parfois pour les armes.}
+{1105}{}{Qu'est-ce que j'en ai à faire ?}
+{1106}{}{Je connais personne de ce nom.}
+{1107}{}{Une quoi ?}
+{1108}{}{Quoi ?}
 {1109}{}{That's us, you lackey.}
 {1110}{}{That's us, you lackey.}
 {1111}{}{That's us, you lackey.}

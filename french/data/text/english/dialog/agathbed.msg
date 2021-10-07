@@ -1,3 +1,3 @@
-{100}{}{The bed looks neatly made despite its tattered condition.}
-{101}{}{You see a tattered bed.}
-{102}{}{Agatha would not be happy if you messed up her bed.}
+{100}{}{Le lit a l'air soigneusement fait malgré qu'il soit en lambeaux.}
+{101}{}{Tu vois un lit en lambeaux.}
+{102}{}{Agatha ne serait pas heureuse si vous dérangiez son lit}

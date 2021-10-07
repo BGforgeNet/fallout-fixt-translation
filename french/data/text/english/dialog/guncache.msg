@@ -1,6 +1,6 @@
-{100}{}{This locker is locked.}
-{101}{}{You unlock the locker.}
-{102}{}{You pick the lock on the locker.}
-{103}{}{You fail to pick the lock on the locker.}
-{104}{}{You break your lockpicks while trying to unlock the door.}
-{105}{}{This lock seems too complicated for you.}
+{100}{}{Ce placard est verrouillé.}
+{101}{}{Tu sembles digne de confiance. Tiens, voici ce que tu veux. [Tu lui donnes tes économies]}
+{102}{}{Tu crochètes le verrou du placard.}
+{103}{}{Tu ne réussis pas à crocheter le verrou du placard.}
+{104}{}{Tu casses tes passe-partout en essayant de déverrouiller la porte.}
+{105}{}{Ce verrou te paraît trop compliqué.}

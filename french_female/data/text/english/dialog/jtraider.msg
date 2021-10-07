@@ -1,85 +1,85 @@
-{100}{}{You see a raider who seems crazed.}
-{101}{}{That's it! Don't come any closer. I'll off her. I swear.}
-{102}{}{Nung!}
-{103}{}{Don't do it!}
-{104}{}{If you don't let her go, I'm gonna kill you.}
-{105}{}{There is no need for violence. Let's talk about this.}
-{106}{}{What? You just want to kill me, don't you? Just remember, this is your fault.}
-{107}{}{Any why not? She's just a whore.}
-{108}{}{She has as much right to live as you do.}
-{109}{}{No. No way. Not this bitch.}
-{110}{}{What world do you live in? Out here in the real world, blood flows, man. Blood flows, and it's gonna spill all over this room if you don't get out of here.}
-{111}{}{We can talk this over. What can I do to help?}
-{112}{}{Okay, okay. I'm backing off. You don't have to worry about me.}
-{113}{}{Geez, that's funny. Who says I want help?}
-{114}{}{You do. By holding this woman hostage, you're asking for help. I can help.}
-{115}{}{I gotta think about this. Give me a moment.}
-{116}{}{Yeah. Don't try anything, or she gets it.}
-{117}{}{man}
-{118}{}{woman}
-{119}{}{Oh, big man. Let's see you try. But first...}
-{120}{}{Oh, big woman. Let's see you try. But first...}
-{121}{}{Stay back... I don't want to hurt her, but I will.}
-{122}{}{Don't, or I'll have to hurt you.}
-{123}{}{Why do you want to hurt her?}
-{124}{}{Try it, and she dies first. Now, what were you saying?}
-{125}{}{It'll be hard to hurt her with that hole in your head.}
-{126}{}{Okay, but you got to keep talking to me.}
-{127}{}{What hole?}
-{128}{}{The one I'm gonna put there right now.}
-{129}{}{I'll keep talking as long as you do, but try anything tricky, and she'll take the fall.}
-{130}{}{I don't have to do anything. You got to do it, and you ain't doing so hot.}
-{131}{}{She laughed at me. They all laughed at me. I'll make 'em pay, I swear.}
-{132}{}{I trust you. Let's work through this, okay?}
-{133}{}{Maybe. I dunno.}
-{134}{}{guy}
-{135}{}{gal}
-{136}{}{You sound like an all right kind of guy. No one ever wanted to help me before. I think we can talk some more.}
-{137}{}{You sound like an all right kind of gal. No one ever wanted to help me before. I think we can talk some more.}
-{138}{}{Just leave me alone. I hate you! You are the devil. I won't listen to you.}
-{139}{}{Have it your way.}
-{140}{}{You have to hear me out. Your life, and the life of the girl, depend on it.}
-{141}{}{Just relax. I won't harm you. I just want to listen to what you have to say.}
-{142}{}{There you go again, threatening me. Die!!}
-{143}{}{I won't listen to you. You're just going to trick me with your words. I don't believe you. Go away.}
-{144}{}{You might have a point. Prove it to me.}
-{145}{}{Where do we go from here?}
-{146}{}{You tell me. You're in charge.}
-{147}{}{I want some money, and I want to get out of here peacefully. No one follows me.}
-{148}{}{Sorry, we can't do that.}
-{149}{}{Sure.}
-{150}{}{No money, but you can just walk away. No one will do anything. I promise.}
-{151}{}{Okay, but you have to let the girl go first. Show me some trust, and I'll trust you.}
-{152}{}{You lied to me!}
-{153}{}{Okay. I want 100 caps. Then we walk out of here. No one follows me, and I'll let her go when we get to the edge of town.}
-{154}{}{Here's your money.}
-{155}{}{I don't have that kind of cash on me.}
-{156}{}{Then I guess she gets it.}
-{157}{}{That's okay, I guess.}
-{158}{}{I don't like it. What stops you from just shooting me in the back when I walk out of here?}
-{159}{}{I won't shoot you. Trust me.}
-{160}{}{Nothing, you'll just have to believe what I say.}
-{161}{}{No way! I don't trust you!}
-{162}{}{All right. We'll see what happens, won't we.}
-{163}{}{Here's 100 caps. Have a good day.}
-{164}{}{You can leave peacefully.}
-{165}{}{I want my money. I want 200 caps.}
-{166}{}{I don't have enough money.}
-{167}{}{Here you go.}
-{168}{}{You seem like a liar and a cheat to me.}
-{169}{}{Feeling's mutual bud. Let the girl go.}
-{170}{}{man}
-{171}{}{woman}
-{172}{}{Why don't you pick on me instead of her? See what a real man can do.}
-{173}{}{Why don't you pick on me instead of her? See what a real woman can do.}
-{174}{}{No! Don't tell me what to do! You can't tell me what to do!}
-{175}{}{Yeah, I'm gonna show you.}
-{176}{}{You just cost this whore her life!}
-{177}{}{Leave me alone, dammit!}
-{178}{}{The raider, intent upon his business, ignores you.}
-{179}{}{Hmmm...}
-{180}{}{Hey, let's get it on, baby. I got the cash if you've got the time.}
-{181}{}{You don't talk to me like that, bitch! Nobody talks to me like that!}
-{182}{}{That just cost you your life!}
-{183}{}{Your carefully-placed blow knocks the raider unconscious. He collapses like a rag doll.}
-{184}{}{You might be able to sneak up on the raider if you're careful.}
+{100}{}{Tu vois un pillard qui semble enragé.}
+{101}{}{Ca suffit ? Ne t'approche pas ou je me charge d'elle. J'hésiterai pas.}
+{102}{}{Nan !}
+{103}{}{Arrête !}
+{104}{}{Si tu la laisses pas partir, je te descends.}
+{105}{}{Pourquoi tant de violence ? Discutons plutôt !}
+{106}{}{Quoi ? Tu veux me descendre, ah ouais ? Est-ce que j'ai besoin de rappeler que c'est de ta faute ?}
+{107}{}{Et pourquoi pas ? Ce n'est qu'une putain.}
+{108}{}{Elle a autant le droit de vivre que toi.}
+{109}{}{Non. Sûrement pas. Pas cette chienne.}
+{110}{}{Dans quel monde on vit ? Ici, dans ce monde bien réel, le sang coule à flots, mec. Et tu peux me croire, ça va pisser le sang partout dans cette pièce si tu ne sors pas d'ici.}
+{111}{}{On peut toujours essayer de discuter. Qu'est-ce que tu attends de moi ?}
+{112}{}{C'est bon, c'est bon. Je n'insisterai pas. Ne t'inquiète pas pour moi.}
+{113}{}{Mince, c'est vraiment drôle. Qui a dit que j'ai besoin d'aide ?}
+{114}{}{Toi-même. Tenir cette femme en otage, ça revient à demander de l'aide. Moi, je peux t'aider.}
+{115}{}{Faut que je réfléchisse. Laisse-moi un instant.}
+{116}{}{Ouais. Ne tente rien ou je me charge d'elle.}
+{117}{}{homme}
+{118}{}{femme}
+{119}{}{Oh, grand garçon ! Essaie donc. Mais d'abord...}
+{120}{}{Oh, grande fille ! Essaie donc. Mais d'abord...}
+{121}{}{Reste en arrière... Je ne lui veux aucun mal mais s'il le faut, j'hésiterai pas.}
+{122}{}{Arrête ou je me charge de toi.}
+{123}{}{Pourquoi voudrais-tu lui faire du mal ?}
+{124}{}{Essaie ça et elle meurt en premier. Alors, qu'est-ce que tu disais ?}
+{125}{}{Ca risque d'être difficile avec un trou dans la tête.}
+{126}{}{C'est bon mais continue à me parler.}
+{127}{}{Quel trou ?}
+{128}{}{Celui que je vais te faire tout de suite.}
+{129}{}{Je continuerai à parler aussi longtemps que toi mais n'essaie pas de me berner ou bien elle crève.}
+{130}{}{Je n'ai rien à faire. C'est à toi d'agir et on dirait que tu ne te sens pas très bien.}
+{131}{}{Elle se moquait de moi. Ils se moquaient tous de moi. Il vont me le payer, ça je te l'promets.}
+{132}{}{Je te fais confiance. On va régler ça, d'accord ?}
+{133}{}{Peut-être. J'sais pas.}
+{134}{}{mec}
+{135}{}{gonzesse}
+{136}{}{Tu sembles être un mec tout ce qu'il y a de plus sympa. Personne n'a jamais voulu m'aider auparavant. Peut-être qu'on devrait causer un peu plus.}
+{137}{}{Tu sembles être une gonzesse tout ce qu'il y a de plus sympa. Personne n'a jamais voulu m'aider auparavant. Peut-être qu'on devrait causer un peu plus.}
+{138}{}{Laisse-moi tranquille. Je te déteste ! Tu es le diable ! Je ne t'écouterai pas.}
+{139}{}{Fais comme bon te semble.}
+{140}{}{Tu ferais mieux de m'écouter. Ta vie et celle de la fille en dépendent.}
+{141}{}{Du calme. Je ne te fairai aucun mal. Je veux juste entendre ce que tu as à dire.}
+{142}{}{Ca y est, tu me menaces encore. Crève !!}
+{143}{}{Je ne t'écouterai pas. Tu essaies juste de m'endormir avec tout ton baratin. Je ne te crois pas. Va-t-en.}
+{144}{}{T'as peut-être raison. Prouve-le-moi.}
+{145}{}{Et maintenant, qu'est-ce qu'on fait ?}
+{146}{}{A toi de voir. C'est toi le responsable.}
+{147}{}{Je veux de l'argent et qu'on me laisse partir d'ici tranquillement. Que personne ne tente de me suivre.}
+{148}{}{Excuse-moi mais c'est impossible.}
+{149}{}{Bien sûr.}
+{150}{}{Tu n'auras pas d'argent mais tu es libre de partir. Personne ne tentera rien. Je le promets.}
+{151}{}{C'est bon mais relâche d'abord la fille. Fais-moi un peu confiance et ensuite je te ferai confiance.}
+{152}{}{Tu m'as menti !}
+{153}{}{Ok. Je veux 100 caps. Après, on se tire d'ici. Que personne ne me suive et je la relâcherai quand on aura atteint les limites de la ville.}
+{154}{}{Voilà ton argent.}
+{155}{}{Je n'ai pas cette somme en liquide sur moi.}
+{156}{}{Alors ça va être sa fête !}
+{157}{}{C'est bon.}
+{158}{}{Ca va pas, non ? Qu'est-ce qui t'empêchera de me tirer dessus dès que j'aurai le dos tourné ?}
+{159}{}{Je ne le ferai pas. Tu peux me croire.}
+{160}{}{Rien, tu n'as qu'à me croire sur parole.}
+{161}{}{Pas question ! Je ne te crois pas !}
+{162}{}{C'est bon. On verra bien.}
+{163}{}{Voici 100 caps. Bonne journée.}
+{164}{}{Tu peux partir tranquille.}
+{165}{}{Je veux mon argent. Je veux 200 caps.}
+{166}{}{J'ai pas assez d'argent.}
+{167}{}{Voilà.}
+{168}{}{Pour moi, t'es rien d'autre que mensonge et escroquerie !}
+{169}{}{Eh bien c'est réciproque mon pote. Laisse partir la fille.}
+{170}{}{homme}
+{171}{}{femme}
+{172}{}{Pourquoi ne t'en prends-tu pas à moi plutôt qu'à elle ? T'as peur de moi ou quoi ?}
+{173}{}{Pourquoi ne t'en prends-tu pas à moi plutôt qu'à elle ? T'as peur de moi ou quoi ?}
+{174}{}{Non ! Ne me dis pas ce que j'ai à faire ! Je ne t'ai rien demandé !}
+{175}{}{Ouais, je vais te montrer ce dont je suis capable.}
+{176}{}{Je te préviens, cette putain ne va pas rester en vie longtemps !}
+{177}{}{Tu me fous la paix, bon sang !}
+{178}{}{Le pillard t'ignore totalement.}
+{179}{}{Hmmmm...}
+{180}{}{Hé, faisons-nous plaisir mon chou. J'ai le pognon et on a tout le temps devant nous.}
+{181}{}{Ne me parle pas sur ce ton ! Personne ne me parle comme ça !}
+{182}{}{Ca te coûtera juste la vie !}
+{183}{}{Ton coup parfait laisse le pillard K.O. Il s'effondre comme une poupée de chiffon.}
+{184}{}{En faisant bien attention, tu pourrais ni vu ni connu sauter sur le pillard.}

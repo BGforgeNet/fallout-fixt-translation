@@ -1,31 +1,31 @@
-{100}{}{You see a technician. He is working diligently for the Unity and the Master.}
-{101}{}{We do the work of the Master.}
-{102}{}{We do the work of the Master, and we cannot be interrupted!}
-{103}{}{Master! An intruder!}
-{200}{}{You see: Viscious, a Super Mutant leader. He looks mean.}
-{201}{}{You see a mean-looking Super Mutant.}
-{202}{}{The will of the Master prevails. What news do you have for me?}
-{203}{}{Hng!}
-{204}{}{Uh, the war goes well.}
-{205}{}{I have a message for the Master from his Lieutenant. I must see the Master now.}
-{206}{}{The only news that I have is that you're about to become fertilizer.}
-{207}{}{An intruder!}
-{208}{}{Your manner betrays you, intruder. I will end the threat here.}
-{209}{}{You cannot be serious. In fact, you must be lying.}
-{210}{}{Uh, yeah, so what?}
-{211}{}{I'm not. The Lieutenant could not trust this message to the usual method. I have to see the Master right now! There is no time to waste!}
-{212}{}{Then use the door, and beware the Corridor. I assume that you have your protection in place?}
-{213}{}{Of course. Thank you. Unity prevails.}
-{214}{}{No, not really. Should I?}
-{215}{}{Of course! You cannot hope to pass the Corridor without it. What did you do with your nullifier!}
-{216}{}{I left it in my other robes.}
-{217}{}{The Lieutenant did not have time to give me one.}
-{218}{}{Ah, humor, I like that. [pauses] I do not have one, obviously. You need to go get one from the braindrains on the second level. Unity prevails.}
-{219}{}{Then he was a fool, or you are not who you seem to be. What is it?}
-{220}{}{Obviously, he is a fool.}
-{221}{}{The second part.}
-{222}{}{Move alone and continue your mission. I haven't the time for you.}
-{300}{}{There is a small pile of cigarette butts in the corner of the room.}
-{301}{}{The Super Mutant walks to one side of the room, and lights up a cigarette.}
-{302}{}{You see a Super Mutant with a cigarette dangling from his mouth.}
-{303}{}{The Super Mutant flicks the butt into the corner.}
+{100}{}{Voici un technicien. Il travaille d'arrache-pied pour l'Unité et le Maître.}
+{101}{}{Nous faisons le travail du Maître.}
+{102}{}{Nous faisons le travail du Maître ! Personne ne peut noue interrompre !}
+{103}{}{Maître ! Une intrusion !}
+{200}{}{Voici Vicieux, un chef des super mutants. Il a l'air déplaisant.}
+{201}{}{Voici un super mutant à l'air déplaisant.}
+{202}{}{Que la volonté du Maître règne ! Quelles nouvelles me rapportes-tu ?}
+{203}{}{Grr !}
+{204}{}{Euh, la guerre se passe bien.}
+{205}{}{J'ai un message pour le Maître de la part de son Lieutenant. Je dois voir le Maître sur-le-champ.}
+{206}{}{Les seules nouvelles, c'est que tu vas pas tarder à faire de l'engrais.}
+{207}{}{Une intrusion !}
+{208}{}{Qui que tu sois, tes manières te trahissent. Ta menace a assez duré !}
+{209}{}{Tu plaisantes certainement. Ou plutôt, tu mens !}
+{210}{}{Euh, ouais, et alors ?}
+{211}{}{Mais non. Le Lieutenant n'a pas voulu transmettre ce message par les voies habituelles. Je dois voir le Maître sur le champ ! C'est urgent !}
+{212}{}{Bon, passe par la porte, et fais attention au Couloir. Je suppose que tu as ta protection en place ?}
+{213}{}{Bien sûr. Merci. Que l'Unité règne !}
+{214}{}{Non, pas vraiment. Il faut ?}
+{215}{}{Bien sûr ! Espère pas passer le corridor sans ça. Qu'est-ce que t'as fait de ton annulateur ?}
+{216}{}{Je l'ai laissé dans mes autres robes.}
+{217}{}{Le Lieutenant n'a pas eu le temps de m'en donner un.}
+{218}{}{Ah, c'te bonne blague. [S'interrompt] J'en n'ai pas, ça se voit. Faut que t'ailles en chercher un au deuxième étage. Que l'Unité règne !}
+{219}{}{Ou il a fait l'imbécile, ou tu n'es pas ce que tu parais être. Alors ?}
+{220}{}{C'est évident, c'est un imbécile.}
+{221}{}{La deuxiéme solution.}
+{222}{}{File et poursuis ta mission. J'ai pas de temps à perdre avec toi.}
+{300}{}{Il y a un petit tas de mégots dans le coin de la pièce.}
+{301}{}{Le super mutant se dirige vers un côté de la pièce et allume une cigarette.}
+{302}{}{Ce super mutant a une cigarette qui pendouille aux lèvres.}
+{303}{}{Le super mutant jette le mégot dans le coin.}

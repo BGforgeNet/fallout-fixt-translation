@@ -1,61 +1,61 @@
-{100}{}{You see a Master Merchant}
-{101}{}{Arrest this thief!}
-{102}{}{...I don't care what they say. We need new parts... Oh, yes. Sorry. What can I do for you?}
-{103}{}{I want a job.}
-{104}{}{Do you have a Water Chip?}
-{105}{}{Nothing, bye.}
-{106}{}{Shek.}
-{107}{}{Sure, great. You're hired. Wait. What position? Oh, caravan guard, right? Yeah, sure. You can work for us. You look okay. Anything else?}
-{108}{}{Nope.}
-{109}{}{Yes, do you have a Water Chip?}
-{110}{}{Veh?}
-{111}{}{Sorry, no time for nonsense!}
-{112}{}{Water Chip... hmm. Oh, those old Vault purifying control chips. Well, I'm sure I speak for the entire town when I say you won't find one here. Without the proper equipment they're worthless. Only a Vault, or maybe Necropolis would have any use for one. Why do you ask?}
-{113}{}{Necropolis? Why would they need one?}
-{114}{}{My Vault's chip broke and I'm looking for a replacement.}
-{115}{}{Just curious.}
-{116}{}{I can't say.}
-{117}{}{Really? Well as you probably have heard, we supply a great deal of water throughout the area. I am sure we could arrange to send a caravan up to your Vault for a fee.}
-{118}{}{How much are we talking about?}
-{119}{}{I don't know if I can trust you.}
-{120}{}{No thanks.}
-{121}{}{Yeah, if you say so.}
-{122}{}{Then I'm sorry, I don't think I can help.}
-{123}{}{Can't trust me?!? I'm routinely trusted to deliver water to people far more paranoid than yourself! What do you think we are? Terrorists?}
-{124}{}{Okay fine. How much money do you want to start the caravans?}
-{125}{}{I'm sorry. I didn't mean to imply anything, but I can't take the risk.}
-{126}{}{Well, if you change your mind, let me know. I'm very curious now.}
-{127}{}{Hello again.}
-{128}{}{I need a Water Chip.}
-{129}{}{I'm still looking for a Water Chip.}
-{130}{}{I want a job.}
-{131}{}{Bye.}
-{132}{}{Sure, great. You're hired. Wait. What position? Oh, caravan guard, right? Yeah, sure. You can work for us. You look okay.}
-{133}{}{We already went through this. Are you willing to pay the price to have the water caravans start?}
-{134}{}{Earlier you mentioned that Necropolis might have a Water Chip. Why would they need one?}
-{135}{}{How much are we talking about?}
-{136}{}{No, not yet.}
-{137}{}{Well, it's just a guess really. We tried to start a caravan route to Necropolis once, but they refused to trade with us. Nobody in their right mind refuses water these days unless they have a reliable supply. I figure they must have their own purifier or they would have died out a long time ago. So are you looking to have us go up to your Vault?}
-{138}{}{Yes, how much is it going to cost me?}
-{139}{}{No thanks.}
-{140}{}{Well, it is quite a distance away. 2000 caps should cover the initial caravan, and I'm sure your Vault will have stuff to trade to keep us going for a while. However, with our current reserves, I'm guessing that we will only be able to keep your Vault going for an extra 100 days or so.}
-{141}{}{Alright, here is the money.}
-{142}{}{The Vault should be able to take care of most of your initial payment. Why don't I give you 1000 instead to start.}
-{143}{}{It is quite a ways, but the Vault has plenty of goods to reimburse you for your upfront money. So, how about 500 instead?}
-{144}{}{I don't have the caps. I'll come back when I do.}
-{145}{}{It looks like you don't have enough money, come back when you do. Remember you need }
+{100}{}{Voici un Grand Marchand}
+{101}{}{Arrêtez ce voleur !}
+{102}{}{...Je me moque de ce qu'ils disent. Il nous faut de nouvelles pièces... Oh, oui. Pardon. Que puis-je pour toi ?}
+{103}{}{Je cherche un boulot.}
+{104}{}{T'aurais pas une puce d'eau ?}
+{105}{}{Rien, salut.}
+{106}{}{Tok.}
+{107}{}{Mais, certainement. J't'embauche. Attends. Quel emploi ? Oh, garde de caravane, c'est ça ? D'accord. Tu peux travailler pour nous. T'as l'air correct. Autre chose ?}
+{108}{}{Non.}
+{109}{}{Oui, tu aurais une puce d'eau ?}
+{110}{}{Euh ?}
+{111}{}{Mes excuses, j'ai pas le temps de plaisanter !}
+{112}{}{Une puce d'eau... hum. Ah, ces puces d'épuration qui servaient autrefois dans les Abris ! Oh, à coup sûr, c'est pas dans cette ville que t'en trouveras. Sans l'équipement adéquat, elles sont inutilisables. Y'a qu'un Abri, ou peut-être Nécropolis, qui pourrait s'en servir. Pourquoi tu demandes ça ?}
+{113}{}{Nécropolis ? Qu'est-ce qu'ils pourraient en faire ?}
+{114}{}{La puce de mon Abri est en panne et j'en cherche une de rechange.}
+{115}{}{Simple curiosité.}
+{116}{}{Je peux rien dire.}
+{117}{}{Vraiment ? Eh bien, tu le sais sans doute, nous fournissons de grandes quantités d'eau dans la région. On doit pouvoir envoyer une caravane jusqu'à ton Abri moyennant rétribution.}
+{118}{}{Combien ça ferait ?}
+{119}{}{Je sais pas si je peux te faire confiance.}
+{120}{}{Non, merci.}
+{121}{}{Ouais, si tu le dis.}
+{122}{}{Dans ce cas, je regrette, mais je peux rien pour toi.}
+{123}{}{Me faire confiance ?! Je fournis régulièrement de l'eau à des gens bien plus paranos que toi ! Pour qui tu nous prends ? Des terroristes ?}
+{124}{}{D'accord. Combien tu veux pour faire partir les caravanes ?}
+{125}{}{Pardon. Je voulais rien insinuer, mais je peux pas courir le risque.}
+{126}{}{Bon, si tu changes d'avis, fais-moi signe. Tout ça m'intrigue.}
+{127}{}{Rebonjour.}
+{128}{}{J'ai besoin d'une puce d'eau.}
+{129}{}{Je cherche toujours une puce d'eau.}
+{130}{}{Je cherche un boulot.}
+{131}{}{Ciao.}
+{132}{}{Mais, certainement. J't'embauche. Attends. Quel emploi ? Oh, garde de caravane, c'est ça ? D'accord. Tu peux travailler pour nous. T'as l'air correct. Autre chose ?}
+{133}{}{Bon, on a déjà causé de ça. T'es disposé à payer le prix pour faire partir les caravanes d'eau ?}
+{134}{}{Tu m'as dit qu'à Nécropolis, il pourrait bien y avoir une puce d'eau. Qu'est-ce qu'ils pourraient bien en faire ?}
+{135}{}{Combien ça ferait ?}
+{136}{}{Non, pas encore.}
+{137}{}{Oh, simple supposition. Une fois, on a voulu lancer une tournée de caravanes vers Nécropolis, mais ils ont refusé de commercer avec nous. De nos jours, personne serait assez fou pour refuser de l'eau à moins d'avoir une source de ravitaillement fiable. Ils doivent avoir leur propre purificateur, sinon, ça ferait un bail qu'ils seraient morts. Alors, tu veux qu'on y aille à ton Abri ?}
+{138}{}{Oui. Combien ça va me coûter ?}
+{139}{}{Non, merci.}
+{140}{}{Eh, ça fait loin. Disons, 2000 caps pour couvrir la première caravane, et je suis sûr que ton Abri a des choses à vendre pour nous faire tenir quelque temps. Mais, vu nos réserves actuelles, je pense pas qu'on pourra vous faire durer plus d'une centaine de jours.}
+{141}{}{D'accord, voilà l'argent.}
+{142}{}{L'Abri devrait pouvoir payer le plus gros de ton premier règlement. Alors, si on disait plutôt 1000 pour commencer.}
+{143}{}{Ca fait du chemin, mais l'Abri a plein de marchandises pour te rembourser ton avance. Alors, si on disait plutôt 500?}
+{144}{}{J'ai pas l'argent. Je reviendrai.}
+{145}{}{On dirait que t'as pas assez d'argent. Alors, reviens plus tard. N'oublie pas qu'il te faut }
 {146}{}{ caps.}
-{147}{}{Okay, I can start sending the caravans up to your Vault today. Now you ought to know, the caravans are pretty visible going across the desert. So, sending the caravans out that way is going to paint a pretty good picture for anyone that might be looking for your Vault. Are you still sure you want them sent out that way?}
-{148}{}{I guess not.}
-{149}{}{Yes, the Vault needs water.}
-{150}{}{That sounds fair enough. The technology from the Vaults can fetch a pretty good price down here in the Hub.}
-{151}{}{Sorry, but I can only accept full payment.}
-{152}{}{That sounds fair enough. The technology from the Vaults can fetch a pretty good price down here in the Hub.}
-{153}{}{Sorry, but I can only accept full payment.}
-{154}{}{Are you going to pay the amount I asked for to get the water caravans rolling?}
-{155}{}{Okay, they'll start off in a few hours.}
-{156}{}{I'm sorry, but the Water Merchants will not associate with you any longer.}
-{157}{}{Do you have the }
-{158}{}{ caps for us to start the water caravan to your Vault?}
-{200}{}{What the hell?! Is that YOU? After you lost all our damn caravans? Get the hell outta here! You don't work for us anymore.}
-{201}{}{You again?! Don't say anything! Damn it, you abandoned them. I don't know if this is right, but maybe I'll give you one more chance. Go talk to the driver.}
+{147}{}{D'accord, je peux commencer à envoyer les caravanes vers ton Abri aujourd'hui. Mais faut que tu saches: les caravanes sont assez visibles dans le désert. Alors, si jamais quelqu'un cherche ton Abri, ça risque de lui faciliter la tâche. Tu veux toujours que je les envoie par ce chemin ?}
+{148}{}{Vaut mieux pas.}
+{149}{}{Oui, l'Abri a besoin d'eau.}
+{150}{}{Ca paraît correct. La technologie des Abris peut se vendre un assez bon prix ici au Centre.}
+{151}{}{Je regrette mais il me faut la totalité du paiement.}
+{152}{}{Ca paraît correct. La technologie des Abris peut se vendre un assez bon prix ici au Centre.}
+{153}{}{Je regrette mais il me faut la totalité du paiement.}
+{154}{}{Alors, tu paies ce que je demande pour mettre en route les caravanes d'eau ?}
+{155}{}{D'accord, elles partiront dans quelques heures.}
+{156}{}{Je regrette mais les Marchands d'Eau ne traiteront plus avec toi désormais.}
+{157}{}{Tu as les }
+{158}{}{ caps pour qu'on lance la caravane d'eau vers ton Abri ?}
+{200}{}{... Quoi ? ... Quelle merde. C'est TOI ? Et en plus tu as perdu toutes les caravanes ? Casse-toi d'ici, nous ne te donnerons plus jamais de travail.}
+{201}{}{TOI ? Ne dis rien. Bon sang, tu les as abandonnés ! Je ne sais pas si c'est judicieux, mais je vais peut-être te donner une nouvelle chance. Va parler au conducteur.}

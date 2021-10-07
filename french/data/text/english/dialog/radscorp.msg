@@ -1,2 +1,2 @@
-{100}{}{The radscorpion beckons you to come closer.}
-{101}{}{You see: Nasty Radscorpion.}
+{100}{}{Le radscorpion te fait signe d'approcher.}
+{101}{}{Tu vois un Horrible Radscorpion.}

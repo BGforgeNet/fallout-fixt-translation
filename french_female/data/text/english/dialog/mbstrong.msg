@@ -2,13 +2,13 @@
 {101}{}{off}
 {102}{}{on}
 {103}{}{off}
-{104}{}{Time left: }
-{105}{}{ seconds.}
-{106}{}{This is where you would be considered dead.}
+{104}{}{Temps restant :  }
+{105}{}{ secondes.}
+{106}{}{Là, c'est la mort assurée.}
 {107}{}{on}
-{108}{}{Time left: }
-{109}{}{ seconds.}
-{110}{}{This is where you would be considered dead.}
-{111}{}{Time left: }
-{112}{}{ seconds.}
-{113}{}{This is where you would be considered dead.}
+{108}{}{Temps restant :  }
+{109}{}{ secondes.}
+{110}{}{Là, c'est la mort assurée.}
+{111}{}{Temps restant :  }
+{112}{}{ secondes.}
+{113}{}{Là, c'est la mort assurée.}

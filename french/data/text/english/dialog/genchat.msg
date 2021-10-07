@@ -1,94 +1,94 @@
-{100}{}{Thank you.}
-{101}{}{Goodbye.}
-{102}{}{Hello.}
-{103}{}{You earn }
-{104}{}{ experience.}
-{105}{}{Uh oh!}
-{106}{}{Click!}
-{107}{}{Oops!}
+{100}{}{Merci.}
+{101}{}{Au revoir.}
+{102}{}{Bonjour.}
+{103}{}{Tu gagnes }
+{104}{}{ points d'expérience.}
+{105}{}{Oh oh !}
+{106}{}{Clic !}
+{107}{}{Houp !}
 {108}{}{Ouch!}
-{109}{}{See ya 'round.}
-{110}{}{Take it easy.}
-{111}{}{It's been fun.}
-{112}{}{Here you go.}
-{113}{}{Anything else?}
-{114}{}{Yes.}
-{115}{}{No.}
-{116}{}{You gain }
-{117}{}{ skill points in Small Guns.}
-{118}{}{ skill points in Big Guns.}
-{119}{}{ skill points in Energy Weapons.}
-{120}{}{ skill points in Unarmed Combat.}
-{121}{}{ skill points in Melee Weapons.}
-{122}{}{ skill points in Throwing.}
-{123}{}{ skill points in First Aid.}
-{124}{}{ skill points in Doctor.}
-{125}{}{ skill points in Sneak.}
-{126}{}{ skill points in Steal.}
-{127}{}{ skill points in Lockpick.}
-{128}{}{ skill points in Traps.}
-{129}{}{ skill points in Science.}
-{130}{}{ skill points in Repair.}
-{131}{}{ skill points in Speech.}
-{132}{}{ skill points in Barter.}
-{133}{}{ skill points in Gambling.}
-{134}{}{ skill points in Outdoorsman.}
-{135}{}{You gain 1 skill point in Small Guns.}
-{136}{}{You gain 1 skill point in Big Guns.}
-{137}{}{You gain 1 skill point in Energy Weapons.}
-{138}{}{You gain 1 skill point in Unarmed Combat.}
-{139}{}{You gain 1 skill point in Melee Weapons.}
-{140}{}{You gain 1 skill point in Throwing.}
-{141}{}{You gain 1 skill point in First Aid.}
-{142}{}{You gain 1 skill point in Doctor.}
-{143}{}{You gain 1 skill point in Sneak.}
-{144}{}{You gain 1 skill point in Steal.}
-{145}{}{You gain 1 skill point in Lockpick.}
-{146}{}{You gain 1 skill point in Traps.}
-{147}{}{You gain 1 skill point in Science.}
-{148}{}{You gain 1 skill point in Repair.}
-{149}{}{You gain 1 skill point in Speech.}
-{150}{}{You gain 1 skill point in Barter.}
-{151}{}{You gain 1 skill point in Gambling.}
-{152}{}{You gain 1 skill point in Outdoorsman.}
-{153}{}{Your Strength has increased by }
-{154}{}{Your Perception has increased by }
-{155}{}{Your Endurance has increased by }
-{156}{}{Your Charisma has increased by }
-{157}{}{Your Intelligence has increased by }
-{158}{}{Your Agility has increased by }
-{159}{}{Your Luck has increased by }
+{109}{}{A un de ces quatre.}
+{110}{}{Mollo !}
+{111}{}{C'était marrant.}
+{112}{}{Voilà.}
+{113}{}{Et avec ça ?}
+{114}{}{Oui.}
+{115}{}{Non.}
+{116}{}{Tu gagnes }
+{117}{}{ points compétence en Armes légères.}
+{118}{}{ points compétence en Armes lourdes.}
+{119}{}{ points compétence en Armes à énergie.}
+{120}{}{ points de compétence en Corps-à-corps.}
+{121}{}{ points de compétence en Armes de mêlée.}
+{122}{}{ points de compétence en Projectiles.}
+{123}{}{ points de compétence en Secourisme.}
+{124}{}{ points de compétence en Médecine.}
+{125}{}{ points de compétence en Furtivité.}
+{126}{}{ points de compétence en Vol.}
+{127}{}{ points de compétence en Crochetage.}
+{128}{}{ points de compétence en Pièges.}
+{129}{}{ points de compétence en science.}
+{130}{}{ points de compétence en Réparation.}
+{131}{}{ points de compétence en Discours.}
+{132}{}{ points de compétence en Troc.}
+{133}{}{ points de compétence en Jeu.}
+{134}{}{ points de compétence en Vie en plein air.}
+{135}{}{Tu gagnes un point de compétence en Armes légères.}
+{136}{}{Tu gagnes un point de compétence en Armes lourdes.}
+{137}{}{Tu gagnes un point de compétence en Armes à énergie.}
+{138}{}{Tu gagnes un point de compétence en Corps-à-corps.}
+{139}{}{Tu gagnes un point de compétence en Armes de mêlée.}
+{140}{}{Tu gagnes un point de compétence en Projectiles.}
+{141}{}{Tu gagnes un point de compétence en Secourisme.}
+{142}{}{Tu gagnes un point de compétence en Médecine.}
+{143}{}{Tu gagnes un point de compétence en Furtivité.}
+{144}{}{Tu gagnes un point de compétence en Vol.}
+{145}{}{Tu gagnes un point de compétence en Crochetage.}
+{146}{}{Tu gagnes un point de compétence en Pièges.}
+{147}{}{Tu gagnes un point de compétence en Science.}
+{148}{}{Tu gagnes un point de compétence en Réparation.}
+{149}{}{Tu gagnes un point de compétence en Discours.}
+{150}{}{Tu gagnes un point de compétence en Troc.}
+{151}{}{Tu gagnes un point de compétence en Jeu.}
+{152}{}{Tu gagnes un point de compétence en vie en Plein air.}
+{153}{}{Ta Force augmente de }
+{154}{}{Ta Perception augmente de }
+{155}{}{Ton Endurance augmente de }
+{156}{}{Ton Charisme augmente de }
+{157}{}{Ton Intelligence augmente de }
+{158}{}{Ton Agilité augmente de }
+{159}{}{Ta Chance augmente de }
 {160}{}{ points.}
-{161}{}{Your Strength has increased by 1 point.}
-{162}{}{Your Perception has increased by 1 point.}
-{163}{}{Your Endurance has increased by 1 point.}
-{164}{}{Your Charisma has increased by 1 point.}
-{165}{}{Your Intelligence has increased by 1 point.}
-{166}{}{Your Agility has increased by 1 point.}
-{167}{}{Your Luck has increased by 1 point.}
-{168}{}{Thanks for your help.}
-{169}{}{Thanks for nothing.}
-{170}{}{Your attempt to equip human armor has failed; the armor is destroyed.}
-{171}{}{I believe the Master wishes to speak with you.}
-{172}{}{You shall pay for your BLASPHEMY!}
-{173}{}{This robot seems to be inoperable. This is possibly due to the lack of power.}
-{174}{}{You see nothing special about this robot.}
-{175}{}{This Blade refuses to talk to you.}
-{176}{}{The suitcase is sealed and unopenable.}
-{177}{}{Please, we must hurry. We don't have time to speak.}
-{178}{}{Only Morpheus has the key to this door. I must leave now to let Nicole know what is going on here.}
-{179}{}{Please, I have to get away from here before they find out who I am.}
-{180}{}{You fail to steal anything and wonder if you got caught.}
-{181}{}{The Brotherhood members have caught you stealing.}
+{161}{}{Ta Force augmente d'un point.}
+{162}{}{Ta Perception augmente d'un point.}
+{163}{}{Ton Endurance augmente d'un point.}
+{164}{}{Ton Charisme augmente d'un point.}
+{165}{}{Ton Intelligence augmente d'un point.}
+{166}{}{Ton Agilité augmente d'un point.}
+{167}{}{Ta Chance augmente d'un point.}
+{168}{}{Merci de ton aide.}
+{169}{}{Merci quand même.}
+{170}{}{Votre tentative pour équiper une armure humaine est un échec. L'armure est détruite.}
+{171}{}{Je crois que le Maître souhaite te parler.}
+{172}{}{Tu paieras pour ce BLASPHEME !}
+{173}{}{Ce robot ne semble pas fonctionner. Peut-être une défaillance au niveau de l'alimentation.}
+{174}{}{Ce robot te semble tout à fait normal.}
+{175}{}{Cet Ecorcheur refuse de te parler.}
+{176}{}{La valise est scellée et impossible à ouvrir.}
+{177}{}{S'il te plait, nous devons nous dépêcher. Pas le temps de parler.}
+{178}{}{Seul Morpheus a les clés de cette porte. Je dois partir maintenant pour faire savoir à Nicole ce qu'il se passe ici.}
+{179}{}{Je dois quitter cet endroit avant qu'ils ne découvrent qui je suis.}
+{180}{}{Tu ne parviens pas à t'emparer de quoi que ce soit et tu te demandes si tu t'es fait repérer.}
+{181}{}{Les membres de la Confrérie t'ont surpris en train de voler.}
 {182}{}{You see: Marauding Super Mutant.}
 {183}{}{}
 {184}{}{}
 {185}{}{}
-{186}{}{You hear over the loudspeaker: "Attention! Intruder Alert."}
-{187}{}{The goo has slowed down the transmission of your keystrokes.}
+{186}{}{Le haut-parleur se met à hurler : "Alerte ! Intrus détecté."}
+{187}{}{La substance gluante a ralenti la transmission de ta frappe.}
 {188}{}{Metal Armor.}
 {189}{}{Leather Armor.}
-{190}{}{Step aside, please.}
+{190}{}{active le Stealth-Boy.}
 {191}{}{Tycho is now level }
 {192}{}{Ian is now level }
 {193}{}{Katja is now level }
@@ -98,11 +98,11 @@
 {197}{}{}
 {198}{}{ He is wearing: }
 {199}{}{ She is wearing: }
-{200}{}{You see a horribly-damaged field emitter.}
-{201}{}{The emitter is too damaged to use.}
-{202}{}{The emitter is too damaged to repair.}
-{203}{}{You notice that the field is damaged enough to walk through.}
-{204}{}{Power Armor.}
+{200}{}{Tu vois un champ émetteur terriblement endommagé.}
+{201}{}{L'émetteur est trop endommagé pour être utilisé.}
+{202}{}{L'émetteur est trop endommagé être réparable.}
+{203}{}{Tu remarques que le champ est si faible que tu peux le traverser.}
+{204}{}{SuperArmure.}
 {205}{}{Combat Armor.}
 {206}{}{Leather Jacket.}
 {207}{}{Robes.}
@@ -111,7 +111,7 @@
 {210}{}{Tesla Armor.}
 {211}{}{You cannot steal from this critter.}
 {212}{}{You look at yourself for a while. Do you like what you see?}
-{214}{}{The poison has left your system.}
+{214}{}{Le poison n'est plus présent dans ton organisme.}
 {215}{}{Thanks, I'll make good use of that in combat!}
 {216}{}{ Walk when close.}
 {217}{}{ Always run.}
@@ -129,10 +129,10 @@
 {294}{}{You are now level }
 {295}{}{. }
 {296}{}{ (max).}
-{300}{}{Okay.}
-{301}{}{Oops, sorry about that.}
+{300}{}{D'accord.}
+{301}{}{% de résistance aux dommages.}
 {302}{}{Oh, excuse me.}
-{400}{}{The blast greatly weakens this energy field. It should now be harmless to pass through.}
+{400}{}{L'explosion a affaibli fortement le champ énergétique, le traverser est maintenant inoffensif.}
 {401}{}{CONTACT SDUIBEK IF YOU SEE THIS MESSAGE}
 {402}{}{EndGame Mod variables reset. Please try to enter Vault 13 again.}
 {403}{}{You have died. The Vault is doomed.}
@@ -183,12 +183,12 @@
 {448}{}{}
 {449}{}{}
 {450}{}{}
-{500}{}{The door mocks you defiantly by withstanding the blast, receiving only dents and scorch marks.}
-{501}{}{The door is concerned with its ability to take more punishment, as it creaks and buckles from the blast.}
-{502}{}{The door groans in agony as it is blown from its hinges, falling to the floor with a mighty crash.}
-{503}{}{You earn }
-{504}{}{ experience for successful use of explosives.}
-{505}{}{The blast doesn't quite destroy the door. You'll need one more.}
+{500}{}{La porte se moque de toi en résistant à l'explosion, ne recevant que des bosses et des marques de brûlure.}
+{501}{}{La porte se pose des question sur sa capacité à supporter plus de dégât, tandis que le souffle la fait voler en éclat.}
+{502}{}{La porte agonise alors qu'elle éclate en morceaux, s'évaporant dans un bruit assourdissant.}
+{503}{}{Tu gagnes }
+{504}{}{ points d'expérience pour avoir utiliser avec succès des explosifs.}
+{505}{}{Le souffle n'endommage pratiquement pas la porte. Il va te falloir un second essai.}
 {506}{}{Hmm, that doesn't seem to work.}
 {533}{}{Commander of the Wastes.}
 {534}{}{Elite Commander.}
@@ -212,16 +212,16 @@
 {552}{}{, the }
 {553}{}{, a }
 {554}{}{, a }
-{601}{}{You shouldn't be in here, Initiate.}
-{602}{}{What are you doing in here?}
-{603}{}{Please leave. You shouldn't be here.}
-{604}{}{Hey, no Initiates.}
-{605}{}{Sorry, I shouldn't be talking to anyone. You know how it is.}
-{606}{}{This is not the library, my boy. If you want to browse, go to the library.}
-{607}{}{This is not the library, my girl. If you want to browse, please go to the library.}
-{700}{}{You earn 10000 experience!}
-{701}{}{You earn 10000 experience for destroying the Vats!}
-{702}{}{You earn 10000 experience for eliminating The Master!}
+{601}{}{Tu n'as rien à faire ici, Initié.}
+{602}{}{Que fais-tu ici ?}
+{603}{}{Sors, je te prie. Tu n'as rien à faire ici.}
+{604}{}{Hé, pas d'initiés ici.}
+{605}{}{Je regrette mais je ne dois parler à personne. Tu sais ce que c'est.}
+{606}{}{Tu n'as rien à faire ici, mon garçon. Si tu veux consulter, va à la bibliothèque.}
+{607}{}{Tu n'as rien à faire ici, ma fille. Si tu veux consulter, va à la bibliothèque.}
+{700}{}{points d'expérience !}
+{701}{}{points d'expérience pour avoir détruit les Cuves.}
+{702}{}{points d'expérience pour avoir détruit le Maitre.}
 {800}{}{Why are you talking to rats?}
 {900}{}{Pip-Boy displays: "VAULT WATER - }
 {901}{}{}

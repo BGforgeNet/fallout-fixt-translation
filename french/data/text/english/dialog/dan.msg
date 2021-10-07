@@ -1,108 +1,108 @@
-{100}{}{You see: Dan.}
+{100}{}{Voici Dan.}
 {101}{}{Help!}
-{102}{}{Why hello there, m'friend and welcome to the Hub. Let me introduce m'self, they call me 'Dan The Brahma Man!' I wheel and deal with all the merchants around here, offer'n my humble services for a low, low price. So now, what can I do ya' for, }
-{103}{}{young man?}
-{104}{}{my man?}
-{105}{}{my little lady?}
-{106}{}{I want to join a caravan.}
-{107}{}{Uh, what services do you offer, exactly?}
-{108}{}{Why the hell are you yelling at that poor kid?!}
-{109}{}{Urg.}
-{110}{}{Why, I manage the care for perddy much all of the caravan's wagons and brahmin in these parts. If they ever need anything for their caravans, I'm the one they talk to. Hell, the Big Three deal with me exclusively.}
-{111}{}{Who are the Big Three?}
-{112}{}{Well aren't you important.}
-{113}{}{Really? That's nice. I want to join a caravan.}
-{114}{}{Well, I got to go. Bye.}
-{115}{}{What? Get the hell out of here, ya' damn skag! Ta think I was about to waste m'time on a low-life like yerself.}
-{118}{}{Damn, son. Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion; 'bout as far as yer eye can see.}
-{119}{}{Damn, honey. Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion; 'bout as far as yer eye can see.}
-{120}{}{Damn yourself, you brahma freak.}
-{121}{}{Oh, them. I thought you were talking about something else. So how do I join a caravan?}
-{122}{}{Okay, thanks. Bye.}
-{123}{}{Brahma freak? Is that an attempt at insult'n me? I would be a little more polite to the people ya' meet, stranger. I couldn't care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to slit yer throat if ya' look at'm wrong.}
-{124}{}{Damn, you're one ugly son of a bitch!}
-{125}{}{I'm scared. See ya.}
-{126}{}{Special, no; lucky, yes. And unless ya want to be unlucky, you'll be a little more polite to the people ya' meet. I couldn't care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to slit yer throat if ya' look at'm wrong.}
-{127}{}{Damn, you're one ugly son of a bitch!}
-{128}{}{If you say so.}
-{129}{}{Well, at least I don't have a mutated hind for a face. Yer mother must have been a brahma and yer daddy a rat; that's the only way ya' could have come out so damn ugly. Hell, yer uglier than me!}
-{130}{}{No one talks about my mother like that! Prepare to die!}
-{131}{}{Yeah, not bad. Well I got places to go and people to beat. See ya', Dan.}
-{132}{}{Yeah right, that's an okay line, but everyone uses it. Yer kiddin' right? Ya' wouldn't lay a hand on poor ol' Dan.}
-{133}{}{Line? Hand? You wish. I'll lay much more than my hand on your soon to be dead carcass.}
-{134}{}{Ha! Had you going though, didn't I?}
-{135}{}{Yeah, a little maybe. Yer not too bad, kid. But just remember to keep that mouth of yers under control. I'd hate to see a good mouth go to waste.}
-{136}{}{Sure, whatever you say. See ya', Dan.}
-{137}{}{So, how do I join a caravan?}
-{138}{}{Bye. And stay away from my brahmin, you dirty little bastard.}
-{139}{}{Bye. And stay away from my brahmin, you dirty little bitch.}
-{141}{}{Guards! Police! There's a madman trying to kill me!}
-{142}{}{Well, I don't have any openings but ya' might wanna check with the Big Three. There's a job post in the Merchant Market that might be of some help ta ya'. That's where they, and others, get their men.}
-{143}{}{Oh, sorry... and women of course.}
-{144}{}{You don't have any openings? Are you a merchant, too?}
-{145}{}{Which way to the Merchant Market?}
-{146}{}{Okay, thanks.}
-{147}{}{Well no, not exactly. I work very closely with most of the smaller merchant groups, though, and I know we're not hiring.}
-{148}{}{Your loss.}
-{149}{}{Okay, see ya' later, Dan.}
-{150}{}{So where's this Merchant Market?}
-{151}{}{Just go straight down this road. It's smack dab in the center of the Hub - ya' can't miss it.}
-{152}{}{That's none of yer business, stranger.}
-{153}{}{I'm going to make it my business, 'stranger'!}
-{154}{}{Sorry to intrude.}
-{155}{}{Why, hello again! How are ya' doin'?}
-{156}{}{I want to join a caravan.}
-{157}{}{Uh, what services do you offer, exactly?}
-{158}{}{Why the hell where you yelling at that poor kid?!}
-{159}{}{Fine. Bye.}
-{160}{}{Yuk.}
-{161}{}{What now?}
-{162}{}{Why the hell where you yelling at that poor kid?!}
-{163}{}{Nothing.}
-{164}{}{Yuk.}
-{168}{}{Look, that kid was caught stealin'. The police put'm in my care ta straighten'm out.}
-{169}{}{That's no reason to be so mean to him.}
-{170}{}{What's wrong with stealing?}
-{171}{}{Oh, that's different! Give him hell!}
-{172}{}{Are ya' daft? That's a quick way to rot away in a cell or get exiled without any food, clothing, or weapons.}
-{173}{}{That still doesn't justify the way you're treating him!}
-{174}{}{Oh, okay.}
-{175}{}{I may not be the best role model in this damn city, but I'm the only one who cares and is willing ta try to help. What have ya' done to improve society?}
-{176}{}{I've killed lots of things!}
-{177}{}{I'm sorry, I've misjudged you.}
-{178}{}{You should have just killed the brat!}
-{179}{}{Well, maybe you could be just a little nicer to him. I think he's trying.}
-{180}{}{You should give him a good whipping!}
-{181}{}{Ya' think killing people solves the real problem?}
-{182}{}{Yep!}
-{183}{}{It's been working for me so far!}
-{184}{}{Hmmm, maybe not.}
-{185}{}{I don't know.}
-{186}{}{Ya' disappoint me. Ya' seemed to have a good head on your shoulders. Killin'm might get rid of the problem temporarily, but you've gotta get at the root of the problem to really make a difference.}
-{187}{}{Yeah, whatever.}
-{188}{}{Uh, okay. Bye.}
-{189}{}{You're an idiot.}
-{190}{}{Well... (He pauses looking off into space.) Maybe yer right, partner. I'll keep that in mind, but I ain't promisin' ya' anything.}
-{191}{}{Are ya' kiddin'? That'd just make'm more defiant! My ways may not be perfect, but at least I know it'll make'm stronger and more responsible.}
-{192}{}{Damn straight. Kill'n the person with the disease ain't the best way. You've gotta find the cure because it's bound to surface again.}
-{193}{}{No kidding, Einstein.}
-{194}{}{Quit yer yappin'! Yer givin' me a headache!}
-{195}{}{Uh, yeah, sure pal. I've gotta go.}
-{196}{}{Well, try not ta solve all yer problems with a gun. Bye.}
-{197}{}{Damn, it's hot today!}
-{198}{}{Billy! Ya' better not be screw'n around, ya' little shit!}
-{199}{}{Billy! Ya' better make sure those brahmin are kept warm tonight or it'll be yer hide!}
-{200}{}{Damn it, you little brat! Stop yappin' and start workin'!}
-{201}{}{I told you to stop screw'n around!}
-{202}{}{I'm warning you, Billy!}
-{203}{}{You don't want the hard way, do you?}
-{204}{}{Sorry kid, can't talk. I've got a business to run.}
-{208}{}{Sorry, can't talk. I've got a business to run.}
-{209}{}{You'd better not be pester'n Billy; he's got a hell of a lot of work to do today.}
-{210}{}{Beat it, I'm busy.}
-{211}{}{Why are people always bother'n me? Can't you see I'm work'n?}
-{212}{}{Talk to the merchants if you want a job. I'm not hiring.}
-{213}{}{Why don't ya' go play in the Maltese Falcon? I'm busy.}
-{214}{}{What the hell are you doing here? Get out!}
-{215}{}{I said get out! I'm not joke'n! I'll blow yer frigg'n head off!}
-{216}{}{Ya' punks will never learn, will ya'?}
+{102}{}{Bonjour et bienvenue au Centre. Je me présente. On m'appelle "Dan, le Gars aux Brahmines" ! Je fais des affaires avec tous les marchands du coin et mes humbles services sont très très bon marché. Alors, que puis-je faire pour toi, }
+{103}{}{jeune homme ?}
+{104}{}{mon gars ?}
+{105}{}{ma demoiselle ?}
+{106}{}{Je veux travailler pour une caravane.}
+{107}{}{Euh, quel genre de services offres-tu exactement ?}
+{108}{}{Pourquoi diable hurles-tu comme ça sur ce pauvre type ?!}
+{109}{}{Argh.}
+{110}{}{Eh bien, je m'occupe des caravanes et des brahmines de la région. Quand ils ont besoin de quelque chose pour leurs caravanes, ils s'adressent à moi. D'ailleurs, les Trois Grands ne traitent qu'avec moi.}
+{111}{}{Qui sont les Trois Grands ?}
+{112}{}{Eh bien, ça ne te regarde pas.}
+{113}{}{Vraiment ? Très bien. Je voudrais travailler pour une caravane.}
+{114}{}{Je dois partir. Au revoir.}
+{115}{}{Quoi ? Fiche-le camp de là, sale Skag ! Tu n' croyais quand même pas que j'allais perdre mon temps avec une crapule comme toi.}
+{118}{}{Ca alors ! Mais d'où sors-tu mon garçon ? Les Trois Grands sont les trois plus grands groupes de marchands du monde. Enfin, peut-être pas du monde, mais en tout cas ils en couvrent une bonne partie.}
+{119}{}{Hein ! Mais d'où sors-tu fillette ? Les Trois Grands sont les trois plus grands groupes de marchands du monde. Ok, peut-être pas du monde, mais en tout cas ils en couvrent une bonne partie.}
+{120}{}{Va au diable, monstrueux brahmine.}
+{121}{}{Oh ! Je croyais que tu parlais d'autre chose. Alors, comment puis-je me faire embaucher par une caravane ?}
+{122}{}{Ok. Merci et au revoir.}
+{123}{}{Monstrueux brahmine ? Mais tu m'insultes ? Tu devrais surveiller ton langage par ici. Moi je ne suis pas très susceptible, mais cette ville est remplie de toutes sortes d'assassins qui n'hésiteront pas à te trancher la gorge si tu les regardes un peu de travers.}
+{124}{}{Va au diable, crapule !}
+{125}{}{J'ai peur. Au revoir.}
+{126}{}{Spécial, non. Chanceux, oui ; et si tu ne veux pas voir ta chance tourner, il vaudrait mieux surveiller ton langage par ici. Moi je ne suis pas très susceptible, mais cette ville est remplie de toutes sortes d'assassins qui n'hésiteront pas à te trancher la gorge si tu les regardes un peu de travers.}
+{127}{}{Va au diable, crapule !}
+{128}{}{Si tu le dis.}
+{129}{}{En tout cas, moi je n'ai pas un visage en forme de cul de mutant. Ta mère devait être une brahmine et ton père un rat ; je ne vois pas comment tu pourrais être aussi laid autrement. La vache, tu es encore plus moche que moi !}
+{130}{}{Je ne permets à personne de parler de ma mère comme ça ! Prépare-toi à mourir !}
+{131}{}{Ouais, pas mal. Bon, j'ai des tas de gens à combattre. Au revoir, Dan.}
+{132}{}{Ouais, bien. C'est une bonne tactique, mais tout le monde l'utilise. Tu plaisantes, hein ? Tu n'oserais tout de même pas lever la main sur ce pauvre vieux Dan.}
+{133}{}{Une tactique ? La main ? Tu crois que je plaisante ? Eh bien, sache qu'il n'y a pas que ma main qui va tomber sur ta carcasse.}
+{134}{}{Ah ! Je t'ai bien fait marcher hein ?}
+{135}{}{Ouais, peut-être un peu. Tu n'es pas si vache. Mais je te conseille de surveiller ton langage. Je ne voudrais pas qu'il t'arrive quelque chose.}
+{136}{}{Ok, comme tu voudras. Au revoir, Dan.}
+{137}{}{Alors, comment puis-je travailler pour une caravane ?}
+{138}{}{Au revoir. Et ne t'approche pas de ma brahmine, espèce de petit con.}
+{139}{}{Au revoir. Et ne t'approche pas de ma brahmine, espèce de petite conne.}
+{141}{}{Gardes ! Police ! On veut me tuer !}
+{142}{}{Eh bien, je n'ai rien à te proposer, mais tu peux t'adresser aux Trois Grands. Va à l'Agence pour l'Emploi du Grand Marché. C'est là qu'eux et d'autres recrutent leurs hommes.}
+{143}{}{Oh, pardon... et les femmes aussi.}
+{144}{}{Tu n'as rien à me proposer ? Tu es marchand toi aussi ?}
+{145}{}{Où se trouve le Grand Marché ?}
+{146}{}{Ok, merci.}
+{147}{}{Eh bien, non, pas exactement. Je travaille en étroite collaboration avec la plupart des petits groupes de marchands, mais je sais que nous ne recrutons pas.}
+{148}{}{Tant pis pour toi.}
+{149}{}{Bien. Au revoir, Dan.}
+{150}{}{Alors, où se trouve ce Grand Marché ?}
+{151}{}{Suis cette route. Il se trouve au Centre, tu ne peux pas le manquer.}
+{152}{}{Ca ne te regarde pas.}
+{153}{}{Ca va bientôt me regarder !}
+{154}{}{Pardon pour le dérangement.}
+{155}{}{Tiens, rebonjour ! Comment ça va ?}
+{156}{}{Je veux travailler pour une caravane.}
+{157}{}{Euh, quel genre de services offres-tu exactement ?}
+{158}{}{Pourquoi diable hurlais-tu comme ça sur ce pauvre type ?!}
+{159}{}{Bien. Au revoir.}
+{160}{}{Ben.}
+{161}{}{Quoi encore ?}
+{162}{}{Pourquoi diable hurlais-tu comme ça sur ce pauvre type ?!}
+{163}{}{Rien.}
+{164}{}{Ben.}
+{168}{}{Ecoute, ce type est un voleur. La police me l'a confié pour le remettre dans le droit chemin.}
+{169}{}{Ce n'est pas une raison pour être si dur avec lui.}
+{170}{}{Qu'y a-t-il de mal à voler ?}
+{171}{}{Oh, ça change tout ! Passe-lui un savon !}
+{172}{}{Tu es cinglé ou quoi ? C'est le meilleur moyen de finir dans une cellule ou d'être exilé sans nourriture, sans vêtements ou sans armes.}
+{173}{}{Ce n'est toujours pas une raison pour le traiter comme ça !}
+{174}{}{Oh, d'accord.}
+{175}{}{Je ne suis peut-être pas le meilleur modèle à suivre dans cette fichue ville, mais en tout cas je suis le seul qui s'intéresse un peu aux autres et qui essaie de rendre service. Qu'est-ce que tu fais pour changer cette société, toi ?}
+{176}{}{Je tue !}
+{177}{}{Pardon, je t'avais mal jugé.}
+{178}{}{Tu aurais plutôt dû le tuer !}
+{179}{}{Eh bien, tu pourrais être un peu plus gentil avec lui. Je crois qu'il fait des efforts.}
+{180}{}{Tu devrais lui donner une bonne leçon !}
+{181}{}{Tu crois que c'est une solution de tuer les gens ?}
+{182}{}{Ouais !}
+{183}{}{Ca a toujours marché pour moi jusque-là !}
+{184}{}{Hum, peut-être pas.}
+{185}{}{Je sais pas.}
+{186}{}{Tu me déçois. Je pensais que tu avais la tête sur les épaules. Le fait de les tuer ne peut être qu'une solution provisoire, mais pour vraiment se débarrasser du problème, il faut le prendre à la racine.}
+{187}{}{Ouais comme tu veux.}
+{188}{}{Ah bon. Ben, salut.}
+{189}{}{T'es un idiot !}
+{190}{}{Eh bien [il s'interrompt, les yeux dans le vague]... tu as peut-être raison, partenaire. Je vais y penser, mais je ne te promets rien.}
+{191}{}{Tu plaisantes ? Ca le rend d'autant plus agressif ! Mes méthodes ne sont peut-être pas parfaites, mais au moins, je sais qu'il deviendra quelqu'un de fort et de responsable.}
+{192}{}{Sérieusement. La solution n'est pas de tuer le malade, mais de trouver un remède pour le guérir.}
+{193}{}{Sans blague, Einstein !}
+{194}{}{Arrête de jacasser ! Tu me donnes la migraine !}
+{195}{}{Euh, ouais. Il faut que j'y aille.}
+{196}{}{Eh bien, essaie d'apprendre à résoudre tes problèmes autrement qu'avec ton arme. Au revoir.}
+{197}{}{Oh, il fait chaud aujourd'hui !}
+{198}{}{Billy ! Que je ne te prenne pas à glander, espèce de petit con !}
+{199}{}{Billy ! Tu as intérêt à ce que ces brahmines soient bien au chaud ce soir ou ce sera ta fête !}
+{200}{}{Ca suffit, morveux ! Arrête de jacasser et mets-toi au travail !}
+{201}{}{Je t'avais dit que je ne voulais pas te voir glander !}
+{202}{}{Je te préviens, Billy !}
+{203}{}{Tu ne veux pas que je me fâche, n'est-ce pas ?}
+{204}{}{Désolé, je n'ai pas le temps de discuter. J'ai du travail.}
+{208}{}{Désolé, je n'ai pas le temps de discuter. J'ai du travail.}
+{209}{}{Laisse Billy tranquille, il a du pain sur la planche aujourd'hui.}
+{210}{}{Fiche le camp, tu vois pas que je suis occupé.}
+{211}{}{Pourquoi est-ce qu'on me dérange sans arrêt ? Tu ne vois pas que je travaille ?}
+{212}{}{Adresse-toi aux Marchands si tu veux du travail. Je ne recrute pas.}
+{213}{}{Va donc faire un tour au Faucon Maltais ! Je suis occupé.}
+{214}{}{Mais qu'est-ce que tu fais là ? File !}
+{215}{}{Je t'ai dit de filer ! Je ne plaisante pas ! Je vais te faire sauter la cervelle !}
+{216}{}{Vous n'apprenez donc jamais rien, vous les crapules ?}

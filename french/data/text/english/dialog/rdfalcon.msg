@@ -1,79 +1,79 @@
-{100}{}{You see a drunk.}
-{101}{}{You see a customer.}
-{102}{}{You see a very pretty lady.}
-{103}{}{You see a strange-looking man.}
-{104}{}{You see a gambler.}
-{105}{}{You see a woman, see seems to be busy.}
-{106}{}{You see a woman.}
-{107}{}{You see a man.}
-{108}{}{You see a very upset gambler.}
-{109}{}{You see a mercenary.}
-{110}{}{Leave me to my sorrows.}
-{111}{}{Yer my bestest friend.}
-{112}{}{Why you're... (hic) where am I?}
-{113}{}{Who are you?}
-{114}{}{Do I know you?}
-{115}{}{I feel a little queasy.}
-{116}{}{Drinks are on me, I mean you.}
-{117}{}{Why are there two of you?}
-{118}{}{Stand still laddy!}
-{119}{}{Stand still girl!}
-{120}{}{Beat it skag!}
-{121}{}{Yer droppin' the class of this joint.}
-{122}{}{Get away, you'll jinx me!}
-{123}{}{Don't break my concentration.}
-{124}{}{I'll beat this damn game yet!}
-{125}{}{You any good at this?}
-{126}{}{Did you see that? That was impossible!}
-{127}{}{I think they're cheating.}
-{128}{}{Now those are good odds.}
-{129}{}{It's a sure thing.}
-{130}{}{What? How could I have lost?}
-{131}{}{This table's jinxed!}
-{132}{}{I'm busy.}
-{133}{}{Can't you see I'm playing a game here?}
-{134}{}{Bet it or beat it.}
-{135}{}{Leave us alone or I'll call the guards.}
-{136}{}{Watch it, I'm a close friend of Deputy Fry.}
-{137}{}{Do you mind?}
-{138}{}{No peep shows!}
-{139}{}{I don't do groups.}
-{140}{}{I'm too tired for another one.}
-{141}{}{You're dreaming pal, beat it!}
-{142}{}{Get the hell out!}
-{143}{}{What the hell do you think you're doing?}
-{144}{}{Mind your manners!}
-{145}{}{I'll call the cops!}
-{146}{}{Don't even think about it!}
-{147}{}{Get out!}
-{148}{}{Beat it!}
-{149}{}{What are you staring at?}
-{150}{}{Do you mind?}
-{151}{}{Get the hell out of our room!}
-{152}{}{Get out!}
-{153}{}{Are you part of the combo?}
-{154}{}{Beat it pervert!}
-{155}{}{What's your problem?}
-{156}{}{Beat it before I get angry.}
-{157}{}{Get your own.}
-{158}{}{She's mine.}
+{100}{}{Voici un ivrogne.}
+{101}{}{Voici un client.}
+{102}{}{Voici une très jolie femme.}
+{103}{}{Voici un homme étrange.}
+{104}{}{Voici un joueur.}
+{105}{}{Voici une femme qui semble occupée.}
+{106}{}{Voici une femme.}
+{107}{}{Tu vois un homme.}
+{108}{}{Voici un joueur bouleversé.}
+{109}{}{Voici un mercenaire.}
+{110}{}{Laisse-moi à mon chagrin.}
+{111}{}{Tu es mon meilleur ami.}
+{112}{}{Pourquoi tu...[hic] où suis-je ?}
+{113}{}{Qui es-tu ?}
+{114}{}{Je te connais ?}
+{115}{}{J'ai un peu mal au coeur.}
+{116}{}{C'est moi qui paie, je veux dire c'est toi.}
+{117}{}{Pourquoi je te vois en double ?}
+{118}{}{Ne bouge pas, madame !}
+{119}{}{Ne bouge pas, demoiselle !}
+{120}{}{Fiche le camp !}
+{121}{}{Tu ne fais pas honneur à cette maison de jeu.}
+{122}{}{Va t'en, tu vas me porter la poisse !}
+{123}{}{Ne me déconcentre pas.}
+{124}{}{Je vais gagner !}
+{125}{}{Tu es bon à ça ?}
+{126}{}{Tu as vu ça ? C'est impossible !}
+{127}{}{Je crois qu'ils trichent.}
+{128}{}{C'est une belle donne.}
+{129}{}{C'est sûr.}
+{130}{}{Quoi ? Comment ai-je pu perdre ?}
+{131}{}{Cette table porte malheur !}
+{132}{}{Je n'ai pas le temps.}
+{133}{}{Tu ne vois pas que je suis en train de jouer ?}
+{134}{}{Joue ou fiche le camp.}
+{135}{}{Laisse-nous tranquilles ou j'appelle les gardes.}
+{136}{}{Attention, le Député Fry est un des mes amis.}
+{137}{}{Qu'est-ce que tu veux ?!}
+{138}{}{Pas de coups d'oeil !}
+{139}{}{Je n'accepte pas les groupes.}
+{140}{}{Je n'en peux plus. J'arrête.}
+{141}{}{Tu rêves ! Fiche le camp !}
+{142}{}{Fiche le camp d'ici !}
+{143}{}{Mais pour qui te prends-tu ?}
+{144}{}{Attention à ce que tu fais !}
+{145}{}{Je vais appeler les flics !}
+{146}{}{Ne te fais pas d'illusions !}
+{147}{}{Sors !}
+{148}{}{Fiche le camp !}
+{149}{}{Qu'est-ce que tu regardes ?}
+{150}{}{Qu'est-ce que tu veux ?!}
+{151}{}{Sors de ma chambre !}
+{152}{}{Sors !}
+{153}{}{Tu fais partie de l'orchestre ?}
+{154}{}{Fiche le camp, malade !}
+{155}{}{C'est quoi ton problème ?}
+{156}{}{Fiche le camp avant que je ne m'énerve !}
+{157}{}{Comme tu voudras.}
+{158}{}{Elle est à moi.}
 {159}{}{Damn!}
-{160}{}{Are you cheating?}
-{161}{}{That should have been mine.}
-{162}{}{Almost!}
-{163}{}{Just missed it.}
-{164}{}{What're the rules again?}
-{165}{}{I used to be good at this.}
-{166}{}{Thanks for nothing.}
-{167}{}{I don't believe it!}
-{168}{}{I meant to do that.}
-{169}{}{Place your bets.}
-{170}{}{Keep you hands away sir.}
-{171}{}{Winner!}
-{172}{}{Sorry folks, maybe next time.}
-{173}{}{Another winner!}
-{174}{}{Hands off!}
-{175}{}{Your turn sir.}
-{176}{}{Sorry, that's an invalid bet.}
-{177}{}{That's it.}
-{178}{}{Anyone else?}
+{160}{}{Tu triches ?}
+{161}{}{Ca aurait dû être à moi.}
+{162}{}{Presque !}
+{163}{}{Raté.}
+{164}{}{Quelles sont les règles déjà ?}
+{165}{}{Je me débrouillais bien à ce jeu autrefois.}
+{166}{}{Merci quand même.}
+{167}{}{Je n'arrive pas à y croire !}
+{168}{}{C'est ce que je voulais.}
+{169}{}{Faites vos jeux.}
+{170}{}{Ne me touche pas.}
+{171}{}{Gagné !}
+{172}{}{Excusez-moi, peut-être la prochaine fois.}
+{173}{}{Un autre gagnant !}
+{174}{}{Bas les pattes !}
+{175}{}{C'est à ton tour.}
+{176}{}{Excuse-moi, ce pari n'est pas valable.}
+{177}{}{C'est comme ça.}
+{178}{}{Quelqu'un d'autre ?}

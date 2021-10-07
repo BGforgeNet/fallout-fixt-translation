@@ -1,58 +1,58 @@
-{100}{}{Stop!}
-{101}{}{Die, human!}
-{102}{}{To the death.}
-{103}{}{You will pay for your sins!}
-{104}{}{I will crush you!}
-{105}{}{Unity forever!}
-{106}{}{For the Master!}
-{107}{}{You are not supposed to be armed in this area, little brother. Explain yourself.}
-{108}{}{You are not supposed to be armed in this area, little sister. Explain yourself.}
-{109}{}{Hngg.}
-{110}{}{It's okay, I work here.}
-{111}{}{It's okay, I have a pass.}
-{112}{}{I am armed by permission of the Lieutenant.}
-{113}{}{What manner of treason is this?!}
-{114}{}{Then show me your pass.}
-{115}{}{I, uh, left it in my other robe.}
-{116}{}{It's right here, stapled to the front of my gun.}
-{117}{}{Hurry on your task then, but be warned: I'm watching you.}
-{118}{}{Yes, little brother. What is it that you need from me?}
-{119}{}{Yes, little sister. What is it that you need from me?}
-{120}{}{Hng!}
-{121}{}{Hmm, where's this Master guy?}
-{122}{}{Praise to the Unity, brother.}
-{123}{}{I am not one to guide you on the path to Unity. Leave!}
-{124}{}{You are obviously a heathen! Pay for your sins!}
-{125}{}{Here is here. Why do you ask?}
-{126}{}{Oh, uh, no reason.}
-{127}{}{I am going to kick his ass from here to, uh, someplace really far away!}
-{128}{}{What question? I said 'Hail to the Master, goodbye.'}
-{129}{}{You insult me! Die!}
-{130}{}{Praise to the Unity.}
-{131}{}{You sound like you do not believe what you say. Could this be true? Or have you left the path of righteous?}
-{132}{}{You mistake the tremor in my voice for fear when it is actually a cold of some sort.}
-{133}{}{I think your kind is doomed, actually. Here, let me prove it with some help from my friends...}
-{134}{}{When you become one of us, you will not fear such minor things. Begone.}
-{135}{}{What do you want this time? I have little time for your talk.}
-{136}{}{Labbo!}
-{137}{}{I have little time for your life... Die!}
-{138}{}{Nothing, sorry.}
-{139}{}{Praise to the Unity, brother.}
-{140}{}{You are obviously an intruder!}
-{141}{}{Get out of my face.}
-{142}{}{I don't have time for you. Stop bothering me.}
-{200}{}{You see a Super Mutant Sergeant.}
-{201}{}{Hey, this looks like a nuclear bomb. Why is it here?}
-{202}{}{This is our Master's weapon of last resort. If we find an enemy we cannot defeat in battle, then we will destroy them with this. But I doubt this will ever happen. Even our Master does not want to unleash the dreaded power of the atom again!}
-{203}{}{Okay, thanks.}
-{204}{}{Is it functional?}
-{205}{}{You're welcome. Now be quiet, I need to concentrate on guarding this device.}
-{206}{}{Oh, yes, it is. We keep it in perfect working condition, ready to be detonated at a moment's notice. The Unity will not be defeated!}
-{207}{}{Ah, thanks.}
-{208}{}{Aren't you worried that someone could steal some robes and sneak in here to set it off?}
-{209}{}{No. We are here to guard it from intruders. No one could access the device without us noticing. Besides, the nuclear arming key required to arm the device is not here.}
-{210}{}{Oh, that makes sense. Thanks.}
-{211}{}{Well, for my sense of safety, could you tell me where the key is located?}
-{212}{}{Oh, sure, no problem. The Lieutenant keeps the key. He's at the Military Base, so he isn't even around here. That keeps the nuclear bomb from being set off under our beloved Master.}
-{213}{}{Thanks for your time.}
-{214}{}{(The large mutant peers at you for a moment, with bushy eyebrows raised.) I think you are asking too many questions.}
+{100}{}{Arrête !}
+{101}{}{J'espère avoir assez de cartouches.}
+{102}{}{A mort.}
+{103}{}{Tu paieras pour tes péchés !}
+{104}{}{Je t'écraserai !}
+{105}{}{L'Unité à jamais !}
+{106}{}{Pour le Maître !}
+{107}{}{Tu n'as pas le droit d'être armé dans ce secteur, petit frère. Explique-toi.}
+{108}{}{Tu n'as pas le droit d'être armée dans ce secteur, petite soeur. Explique-toi.}
+{109}{}{Euhh.}
+{110}{}{C'est bon, je travaille ici.}
+{111}{}{C'est bon, j'ai un laissez-passer.}
+{112}{}{J'ai l'autorisation du Lieutenant.}
+{113}{}{Allons bon, qu'est-ce que c'est que cette trahison ?!}
+{114}{}{Alors, montre ton laissez-passer.}
+{115}{}{Je, euh, je l'ai laissé dans mon autre robe.}
+{116}{}{Le voilà, au bout de mon fusil.}
+{117}{}{Bon, fais vite ce que t'as à faire, mais attention : je t'ai à l'oeil.}
+{118}{}{Oui, petit frère. Comment je peux t'aider ?}
+{119}{}{Oui, petite soeur. Comment je peux t'aider ?}
+{120}{}{Grr !}
+{121}{}{Humm, où il est ce Maître ?}
+{122}{}{Gloire à l'Unité, frère.}
+{123}{}{C'est pas moi qui te montrerai la voie vers l'Unité. File.}
+{124}{}{Hérétique ! Tu vas payer pour tes péchés !}
+{125}{}{Il est ici. Pourquoi cette question ?}
+{126}{}{Oh, euh, comme ça.}
+{127}{}{Je vais lui régler son compte de manière, euh, définitive !}
+{128}{}{Quelle question ? J'ai dit "Vive ce Maître adoré."}
+{129}{}{Tu m'insultes ! Meurs donc !}
+{130}{}{Gloire à l'Unité}
+{131}{}{Tu ne sembles pas croire à ce que tu dis. Me trompé-je ? Ou as-tu quitté le chemin de la vertu ?}
+{132}{}{Tu te trompes ; si ma voix tremble, ce n'est pas de peur, c'est un rhume.}
+{133}{}{Je crains fort que ton espèce ne soit condamnée. Tiens, je vais te le prouver avec l'aide de mes amis...}
+{134}{}{Quand tu seras des nôtres, tu ne craindras plus ces broutilles. Hors de ma vue.}
+{135}{}{Que veux-tu encore ? Je n'ai guère le temps de discuter.}
+{136}{}{Euh !}
+{137}{}{J'ai n'ai pas le temps de m'occuper de ta vie... Meurs donc !}
+{138}{}{Rien, excuse-moi.}
+{139}{}{Gloire à l'Unité, frère.}
+{140}{}{Ah, c'est sûr que tu n'as rien à faire ici !}
+{141}{}{Hors de ma vue !}
+{142}{}{J'ai pas de temps à perdre. Cesse de m'importuner.}
+{200}{}{Voici un Sergent Super Mutant.}
+{201}{}{Eh, on dirait une bombe nucléaire. Qu'est-ce que ça fait là ?}
+{202}{}{C'est l'arme que notre Maître utilise en dernier recours. Si jamais on tombe sur des ennemis récalcitrants, on les détruira avec ça. Mais ça n'arrivera sans doute pas. Même notre Maître ne tient pas à déchaîner encore la puissance atomique redoutée !}
+{203}{}{Ok, merci.}
+{204}{}{Elle est opérationnelle ?}
+{205}{}{De rien. Bouge pas, je surveille cet engin ; il faut que je me concentre.}
+{206}{}{Oh, oui. On la maintient en parfait état de marche, prête à exploser en quelques secondes. L'Unité est invincible !}
+{207}{}{Ah, merci.}
+{208}{}{T'as pas peur que quelqu'un s'introduise ici vêtu d'une robe et déclenche la bombe ?}
+{209}{}{Non. Nous sommes ici pour la protéger contre les intrus. Personne ne peut y accéder sans être vu. Et puis, la clé indispensable pour amorcer le dispositif n'est pas ici.}
+{210}{}{Oh, bien vu. Merci.}
+{211}{}{Eh bien, pour me rassurer, tu pourrais pas me dire où se trouve la clé ?}
+{212}{}{Oh, bien sûr. C'est le Lieutenant qui la garde. Il est à la Base Militaire, sur un autre site. Comme ça, la bombe peut pas exploser sous notre adoré Maître.}
+{213}{}{Merci pour la patience.}
+{214}{}{[Levant ses sourcils broussailleux, le grand mutant te scrute quelques instants.] Apparemment tu poses trop de questions.}

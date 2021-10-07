@@ -1,2 +1,2 @@
-{100}{}{You see a tattered rug.}
-{101}{}{You wonder at what type of material could have been used to produce this rug.}
+{100}{}{Voici un tapis en lambeaux.}
+{101}{}{Tu te demandes quel genre de matériau a pu être utilisé pour fabriquer ce tapis.}

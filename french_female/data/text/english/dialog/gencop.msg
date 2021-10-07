@@ -1,64 +1,64 @@
-{100}{}{You see a police officer of the Hub.}
-{101}{}{I wish I was stationed closer to my home.}
-{102}{}{I wonder what happened to those caravans.}
-{103}{}{Move along.}
-{104}{}{You'd better keep your weapons holstered, stranger.}
-{105}{}{Keep your nose clean.}
-{106}{}{Do you have any commodities to declare?}
-{107}{}{Don't be waving your weapon in my face.}
-{108}{}{Put that away unless you want some jail time.}
-{109}{}{Are you aiming that at me?}
-{110}{}{I've heard of you. Watch it.}
-{111}{}{We'll be keeping an eye on you.}
-{112}{}{No fighting in our town, tough guy.}
-{113}{}{We don't like baby-killers!}
-{114}{}{Lay a hand on a kid and we'll hunt you down.}
-{115}{}{I hate people like you.}
-{116}{}{Don't call for help if you're in trouble.}
-{117}{}{Hey, thanks for doing our work for us.}
-{118}{}{We don't allow kill'n here, even if it is justified.}
-{119}{}{I hear you're the one that killed the Deathclaw... thank you.}
-{120}{}{Keep your nose clean while you're in our city.}
-{121}{}{I would keep clear of Decker if I were you.}
-{122}{}{Enjoy your stay.}
-{123}{}{Welcome to the Hub!}
-{124}{}{Greetings, stranger.}
-{125}{}{Visit the Maltese Falcon for refreshing drinks.}
-{126}{}{Follow the main road if you're looking for the market.}
-{127}{}{Keep moving.}
-{128}{}{Move along. Move along.}
-{129}{}{We're here to Prevent and Survey.}
-{130}{}{Keep that weapon under control while you're in our city.}
-{131}{}{Don't you get into any fights with that.}
-{132}{}{I'd recommend putting your weapon away.}
-{133}{}{You should put that away... your weapon, that is.}
-{134}{}{Welcome Paladin, it's been a while.}
-{135}{}{You're that rowdy one. No more fighting, okay?}
-{136}{}{You better not start another fight!}
-{137}{}{It's you... keep that temper of yours under control.}
-{138}{}{The Far Go Traders got wiped out. I can't believe it.}
-{139}{}{The Water Merchants are gone. What a relief.}
-{140}{}{The Crimson Caravan has been destroyed.}
-{141}{}{Did you hear? The Underground has finally been wiped out!}
-{142}{}{Decker's dead!}
-{143}{}{The Decker problem has finally been solved.}
-{144}{}{Watch your back; this isn't a safe place.}
-{145}{}{Watch your scripts, guy.}
-{146}{}{Watch your scripts, lady.}
-{147}{}{Old Harold's good for telling tales.}
-{148}{}{You shouldn't be here, it's not safe.}
-{149}{}{Old Town's really fallen apart.}
-{150}{}{This place smells.}
-{151}{}{We should tear this whole area down.}
-{152}{}{I know that damn Thieves' Circle is around here somewhere.}
-{153}{}{Poor Harold - he's had a rough life.}
-{154}{}{Keep your nose clean.}
-{155}{}{Hey. I know you. No more fighting, okay?}
-{156}{}{You'd better not be thinking of starting another fight!}
-{157}{}{If we catch you fighting again, you're going in!}
-{158}{}{Did you hear? The Far Go Traders got wiped out.}
-{159}{}{The Water Merchants are history. That's a blessing.}
-{160}{}{Someone killed off the Crimson Caravan.}
-{161}{}{Did you hear? The Underground has finally been wiped out!}
-{162}{}{Decker's dead!}
-{163}{}{This town will be safer with Decker out of the picture.}
+{100}{}{Tu vois un policier du Centre.}
+{101}{}{Si seulement mon poste était plus près de chez moi.}
+{102}{}{Je me demande ce qui est arrivé à ces caravanes.}
+{103}{}{Avance.}
+{104}{}{Je te conseille de pas sortir tes armes, étranger.}
+{105}{}{Pas de conneries, hein ?}
+{106}{}{Des marchandises à déclarer ?}
+{107}{}{Me balance pas ton arme sous le nez.}
+{108}{}{Range ça si tu veux pas faire un tour en taule.}
+{109}{}{C'est moi que tu vises ?}
+{110}{}{J'ai entendu parler de toi. Fais gaffe.}
+{111}{}{On t'aura à l'oeil.}
+{112}{}{Pas de castagne dans notre ville, gros dur !}
+{113}{}{On n'aime pas les tueurs d'enfants !}
+{114}{}{Si tu poses la main sur un enfant, je te descends.}
+{115}{}{J'ai horreur des gens de ton espèce.}
+{116}{}{Appelle pas à l'aide si t'es dans le pétrin.}
+{117}{}{Eh, merci de faire le boulot à notre place.}
+{118}{}{Pas de meurtre ici, même s'il est justifié !}
+{119}{}{Si c'est toi qu'as tué le Griffemort... merci.}
+{120}{}{Tiens-toi à carreau dans notre ville.}
+{121}{}{J'éviterais Decker si j'étais toi.}
+{122}{}{Bon séjour !}
+{123}{}{Bienvenue au Centre !}
+{124}{}{Bonjour.}
+{125}{}{Si tu veux te rafraîchir, va au Faucon Maltais.}
+{126}{}{Si tu cherches le marché, suis la grand-route.}
+{127}{}{Avance.}
+{128}{}{Avance. Avance.}
+{129}{}{On est là pour faire régner l'ordre.}
+{130}{}{Joue pas avec ton arme dans notre ville.}
+{131}{}{Qu'on te prenne pas dans une bagarre avec ça.}
+{132}{}{Je te conseille de ranger ton arme.}
+{133}{}{Range ça... ton arme, je veux dire.}
+{134}{}{Bienvenue Paladin. Ca faisait longtemps !}
+{135}{}{Alors, c'est toi qui joues les gros bras ! Finit la bagarre, compris ?}
+{136}{}{Je te conseille de plus chercher la bagarre !}
+{137}{}{C'est toi... je te conseille de maîtriser tes nerfs.}
+{138}{}{Les Marchands du Lointain ont été anéantis. Je peux pas y croire.}
+{139}{}{Les Marchands d'Eau sont partis. Quel soulagement.}
+{140}{}{La Caravane Ecarlate a été détruite.}
+{141}{}{T'as entendu ? L'Underground a enfin été anéanti !}
+{142}{}{Decker est Mort !}
+{143}{}{Le problème Decker est enfin résolu.}
+{144}{}{Fais attention... L'endroit n'est pas sûr.}
+{145}{}{Surveille tes caps, mon gars.}
+{146}{}{Surveille tes caps, ma fille.}
+{147}{}{Harold l'Ancien adore raconter des histoires.}
+{148}{}{Traîne pas par ici, c'est pas sûr.}
+{149}{}{La Vieille Ville n'est vraiment plus qu'un tas de ruines.}
+{150}{}{Ca pue ici.}
+{151}{}{On devrait tout raser.}
+{152}{}{Je sais que ce maudit Cercle des Voleurs rôde dans le coin.}
+{153}{}{Pauvre Harold... Il a pas eu la vie facile.}
+{154}{}{Pas de conneries, hein ?}
+{155}{}{Eh. J'te connais. Finit la castagne, compris ?}
+{156}{}{A ta place, je songerais à ne plus chercher la bagarre !}
+{157}{}{La prochaine fois qu'on te surprend en train de te bagarrer ce sera la taule !}
+{158}{}{T'as entendu ? Les Marchands du Lointain ont été anéantis.}
+{159}{}{Les Marchants d'Eau, c'est plus que de l'histoire ancienne. Quelle chance !}
+{160}{}{Quelqu'un a décimé la Caravane Ecarlate.}
+{161}{}{T'as entendu ? L'Underground a enfin été anéanti !}
+{162}{}{Decker est Mort !}
+{163}{}{Cette ville serait sans doute plus sûre sans Decker.}

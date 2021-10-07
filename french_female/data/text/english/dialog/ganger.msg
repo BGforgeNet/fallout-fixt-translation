@@ -1,33 +1,33 @@
-{100}{}{You see a ghoul gang member.}
-{101}{}{What are you doing here? Answer wisely - this could be your only chance...}
-{102}{}{I'm looking for the boss.}
-{103}{}{This building is condemned; I've come to serve final notice.}
-{104}{}{Sorry, just looking around.}
-{105}{}{Duh.}
-{106}{}{Set ain't here, so git.}
-{107}{}{Oh, okay. Bye.}
-{108}{}{Well, when I find that son of a bitch, I'm gonna make it so no one can find him.}
-{109}{}{Well, you'll just have to be my punching bag then.}
-{110}{}{You gots some mental problems to work out. Set's not gonna let some loser like you take 'im down. He's got the guards and he's got the guns.}
-{111}{}{How many guards?}
-{112}{}{What are you doing here?}
-{113}{}{Set keeps at least two guards around him at all times, but he can call on more then ten if he needs it. And when he's in his throne room, those ten guards are seconds away.}
-{114}{}{So what are you doing here?}
-{115}{}{I ain't telling ya' that. Whadda ya' think I am, stupid? Now git...}
-{116}{}{I'm supposed to make sure no one goes by. Dis is Zombie house.}
-{117}{}{What's a zombie?}
-{118}{}{Well, you have a nice day.}
-{119}{}{Not a what... A WHO. We are the Zombies. If we do good, Set'll make us one of his guards. Now that's all I'm gonna tell you.}
-{120}{}{Why do you want to be one of his guards?}
-{121}{}{Bye.}
-{122}{}{I said dat's all I'm gonna tell ya'. Now git.}
-{123}{}{You crazy. What do you think dis is? You better leave.}
-{124}{}{Nah, I want to go in.}
-{125}{}{Okay, I'm out of here.}
-{126}{}{I don't think so. Get out before I call the boyz over and we dance on your face.}
-{127}{}{Is that a threat?}
-{128}{}{Okay.}
-{129}{}{It was. Now it's a fact. ZOMBIES!}
-{130}{}{Stay away from dis place if you value yer life.}
-{131}{}{HEY, ZOMBIES, WE GOT US A PUNCHIN' BAG!}
-{132}{}{You should git.}
+{100}{}{Voici un membre de la bande des Goules.}
+{101}{}{Qu'est-ce que tu fais ici ? Réponds avec sagesse, ça pourrait être ta seule chance...}
+{102}{}{Je cherche le patron.}
+{103}{}{Ce bâtiment est condamné. Je suis venu faire une dernière annonce.}
+{104}{}{Pardon, je jetais juste un oeil.}
+{105}{}{Ben !}
+{106}{}{Set est pas là, alors fiche le camp.}
+{107}{}{Oh, ok. Salut.}
+{108}{}{Ah, quand je mettrai la main sur ce salopard, je ferai en sorte que personne puisse le trouver.}
+{109}{}{Dans ce cas, c'est avec toi que je vais faire joujou.}
+{110}{}{Je crois que t'as le cerveau embrumé. Set va pas se laisser descendre par une cloche comme toi. Il a ce qu'il faut en gardes du corps et en fusils.}
+{111}{}{Combien de gardes ?}
+{112}{}{Que fais-tu ici ?}
+{113}{}{Set est escorté en permanence d'au moins deux gardes, mais il peut en appeler plus de dix si nécessaire. Et dans la salle du trône, ces dix gardes peuvent arriver en un clin d'oeil.}
+{114}{}{Alors, qu'est-ce que tu fais là ?}
+{115}{}{Tu me crois assez bête pour te l'dire. Bon, fiche le camp...}
+{116}{}{Je dois m'assurer que personne passe. C'est la maison des Zombies ici.}
+{117}{}{Un Zombie, c'est quoi ?}
+{118}{}{Eh bien, bonne journée.}
+{119}{}{Tu veux dire QUI... Les Zombies, c'est nous. Si on se conduit bien, Set fera de nous un de ses gardes. Bon, maintenant, j't'en dirai pas plus.}
+{120}{}{Pourquoi tu veux devenir un de ses gardes ?}
+{121}{}{Ciao.}
+{122}{}{J'ai dit que j't'en dirai pas plus. Fiche le camp.}
+{123}{}{T'es dingue. Où tu t'crois ? Allez, fous le camp.}
+{124}{}{Non, je veux entrer.}
+{125}{}{D'accord, j'm'en vais.}
+{126}{}{Ca m'étonnerait. Barre-toi avant que les gars, y z'arrivent pour t'arranger la face.}
+{127}{}{C'est une menace ?}
+{128}{}{D'accord.}
+{129}{}{C'était. Maintenant, c'est un fait. ZOMBIES !}
+{130}{}{Rôde pas par ici si tu tiens à la vie.}
+{131}{}{EH, ZOMBIES, ON A QUELQU'UN POUR FAIRE JOUJOU !}
+{132}{}{Tu f'rais mieux de te casser.}

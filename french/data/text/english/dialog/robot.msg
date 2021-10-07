@@ -1,6 +1,6 @@
-{100}{}{[Click] Peace to you. [Beep!]}
-{101}{}{Exterminate. Exterminate.}
-{102}{}{Kill the human!}
+{100}{}{Que la paix soit avec toi.}
+{101}{}{Extermination !}
+{102}{}{Tuez cet humain !}
 {103}{}{Kill the intruder!}
-{104}{}{[Brrzk!] Death to flesh!}
-{105}{}{[Breep!] No peace. No peace.}
+{104}{}{[Rrr !] Mort à la chair !}
+{105}{}{[Beep !] Pas de paix. Pas de paix.}

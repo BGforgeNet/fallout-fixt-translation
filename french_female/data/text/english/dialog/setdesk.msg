@@ -1,2 +1,2 @@
-{100}{}{You find nothing of importance.}
-{101}{}{You find a note from someone called the Lieutenant to Set. It orders him to watch for pure-strain humans.}
+{100}{}{Tu ne trouves rien d'important.}
+{101}{}{Tu trouves une note écrite par un certain Lieutenant et adressée à Set. Elle lui ordonne de trouver des humains de pure souche.}

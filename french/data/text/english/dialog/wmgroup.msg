@@ -1,8 +1,8 @@
-{100}{}{You see a Water Merchant employee.}
-{101}{}{Talk to Martha if you want a job.}
-{102}{}{These caravan trips are getting too dangerous.}
-{103}{}{Hey, you got any smokes?}
-{104}{}{I need a bath.}
-{105}{}{Please leave.}
-{106}{}{You'd better be careful. We don't pay those guards for their looks.}
-{107}{}{Go somewhere else if you want a job.}
+{100}{}{Voici un employé des Marchands d'Eau.}
+{101}{}{Adresse-toi à Martha si tu veux du travail.}
+{102}{}{Ces périples en caravanes deviennent trop dangereux.}
+{103}{}{Hé, t'aurais pas des cigarettes ?}
+{104}{}{J'ai besoin de prendre un bain.}
+{105}{}{Va t'en, s'il te plaît.}
+{106}{}{Fais attention à toi. On ne paie pas nos gardes à ne rien faire.}
+{107}{}{Va voir quelqu'un d'autre si tu veux du travail.}

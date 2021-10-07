@@ -1,122 +1,122 @@
-{100}{}{You see the Master of the Super Mutants.}
-{101}{Mast00}{So, what shall it be? Do you join the Unity or do you die here? Join! Die! Join! Die!}
-{102}{}{I can't win. I'll join you.}
-{103}{}{If you can prove to me that your Unity is the best course for humanity, then I will help you.}
-{104}{}{How about you die, then I leave?}
-{105}{}{Oh, there will be death today, but not mine. I've got a plan.}
-{106}{}{Ungh.. wuh?}
-{107}{Mast01}{Excellent. Your talents will be useful. But first, you must tell me everything about your Vault.}
-{108}{}{Why?}
-{109}{}{Okay. I'll tell you everything you want to know.}
-{110}{Mast02}{I will conquer it and turn all those pure strain humans into mutants. They will give me the army I need to bring peace to the entire wasteland.}
-{111}{}{Sorry, I don't like that plan much.}
-{112}{}{Sounds reasonable. Let's do it.}
-{113}{Mast03}{So be it. You've dug your own grave. Grave! Grave!}
-{114}{Mast04}{I don't have to prove anything to you! Prove.}
-{115}{}{Your ego demands you tell me. All villains have this strange urge to explain everything.}
-{116}{}{I can't know you represent the best future, unless you prove it to me.}
-{117}{Mast05}{Very demanding for one in your tenuous position. But I can respect your needs.}
-{118}{}{So tell me.}
-{119}{Mast06}{The Unity will bring about the master race. Master! Master! One able to survive, or even thrive, in the wasteland. As long as there are differences, we will tear ourselves apart fighting each other. We need one race. Race! Race! One goal. Goal! Goal! One people... to move forward to our destiny. Destiny.}
-{120}{}{That race being the mutants, of course.}
-{121}{}{I hope we won't end up looking like you.}
-{122}{Mast07}{Of course. Mutants are best equipped to deal with the world today. Who else? The ghouls. Please. Normals. They brought nuclear death to us all. This will be the age of mutants. Mutants.}
-{123}{}{You mean to change all the others into mutants, as well.}
-{124}{}{You're such a bigot.}
-{125}{}{What about those who oppose you?}
-{126}{Mast08}{All that resist, yes. All those that are required for the Unity as well. The remainder will be allowed to live out their days, but under Unity control and protection. But none shall breed, for they will be the last of their race.}
-{127}{}{You've got a problem with your master plan.}
-{128}{}{Sounds like you've got it under control. I'll join up.}
-{129}{}{I think everyone here is nuts - you most of all. I need to stop you right now.}
-{130}{Mast09}{And what is that?}
-{131}{}{You didn't take into account me! I'm stopping you right here, right now!}
-{132}{}{You can't possibly take on the entire world.}
-{133}{}{I happen to know that your mutants are sterile.}
-{134}{Mast10}{I'm not after the world, yet. When I turn your fellow vault-dwellers into mutants, my forces will be too strong for any to stand against! But don't worry, you won't care. Care! Care!}
-{135}{Mast11}{Preposterous! The FEV-2 virus doesn't destroy the reproductive organs of those it mutates.}
-{136}{}{Perhaps the virus didn't sterilize people once, but it does now.}
-{137}{}{Have you talked to any of your mutants about this?}
-{138}{}{Maybe it's all that extra radiation.}
-{139}{Mast12}{Do you have proof?}
-{140}{}{Of course, I do! Here it is... }
-{141}{}{Take my word for it, it happens.}
-{142}{}{Ask your own mutants.}
-{143}{Mast13}{This proves nothing! You will pay for your insolence. Pay!}
-{144}{}{I must digest this information. One moment.}
-{145}{Mast14}{I must digest this information. One moment... I understand now. You made a clever forgery. You made this up to fool me. Fool! Me!}
-{146}{}{What!? I don't understand, I thought it was correct!}
-{147}{}{You're lying! You're denying the facts in front of you!}
-{148}{Mast16}{You will pay for what you have done! Pay! Done.}
-{149}{Mast17}{But it cannot be. This would mean that all my work has been for nothing. Everything that I have tried to... a failure! It can't be. Be. Be. Be.}
-{150}{}{Sorry, this isn't an option for you. Your race will die out after this generation.}
-{151}{}{Maybe there is something that can be done. Perhaps you need more test subjects.}
-{152}{Mast18}{Yes. More subjects. I think I shall start with you. Do! Do!}
-{153}{Mast19}{I... don't think that I can continue. Continue? To have done the things I have done in the name of progress and healing. It was madness. I can see that now. Madness. Madness? There is no hope. Leave now, leave while you still have hope... }
-{154}{Mast20}{I believe I shall. Don't move.}
-{155}{Mast21}{My scientists assure me that nothing is wrong. What do you say to that? Say! Say!}
-{156}{}{Did you think to ask a female mutant?}
-{157}{}{Ask one of your Lieutenants.}
-{158}{}{They're afraid of you. You think they'll tell you the truth?}
-{159}{Mast22}{One moment. He cannot be reached. He must be dead and I can guess who killed him. Killed! Kill!}
-{160}{Mast23}{He denies everything. And he says he knows who started this rumor... }
-{161}{Mast24}{I think I know who the liar is. Liar!}
-{162}{Mast25}{Reasonable. One moment. Are you sure? What about the other females? It cannot be. Be.}
-{163}{}{Sorry, your race is doomed.}
-{164}{}{Excuse me while I gloat... Told ya so!}
-{165}{Mast26}{Without any proof, I'm afraid I can't believe you. Now, you will join my army as a mutant or you will die! Die! Join!}
-{166}{}{Better dead than like you.}
-{167}{}{It means giving up everything I know, but I'll join.}
-{168}{Mast27}{Your humor will not save you now. Do you accept my offer, or not? Not! Accept!}
-{169}{}{Not.}
-{170}{}{Okay, it's better than dying... }
-{171}{Mast28}{Radiation has no effect on us. The Forced Evolutionary Virus makes us immune. Your argument is weak, and so are you.}
-{172}{Mast29}{Oh, I think you are wrong. But just to be sure, I will order this matter researched. After I have taken care of you. Care. Care!}
-{173}{Mast30}{My only problem is you. Now, will you work for the Unity, or not?}
-{174}{}{Not.}
-{175}{}{Sure.}
-{176}{Mast31}{They will be punished for their insolence.}
-{177}{}{You mean to kill them all?}
-{178}{}{Then I must stop you now!}
-{179}{Mast32}{Of course not. Most will be offered a chance to become a mutant. Those who deny this opportunity will be sterilized and let go. Those that resist will be executed.}
-{180}{}{You are one sick puppy. Time to put you down.}
-{181}{}{Hmm, I'm not big on being executed... I'm joining.}
-{182}{Mast33}{We are all biased, are we not? We each care more about our individual communities than other people. We haven't changed, and I'll tell you something else... }
-{183}{}{What's that?}
-{184}{Mast34}{We won't change. Not unless we are of one people. One. One. One. One race. One. One. One. The Unity will allow us to move beyond these petty concerns and deal with the major problems at hand. You want to be a part of that, don't you? Part. Don't.}
-{185}{}{You've convinced me. I'll join the Unity.}
-{186}{}{I want a part of you... your head!}
-{187}{Mast35}{Of course! The mutants will survive! The mutants will rebuild this world! And only as a mutant, will you be allowed to live! Live. Die!}
-{188}{}{Live!}
+{100}{}{Voici le Maître des Super Mutants.}
+{101}{Mast00}{Alors, qu'est-ce que ce sera ? Tu vas venir à l'Unité ou tu vas mourir ? Venir ! Mourir ! Venir ! Mourir !}
+{102}{}{T'as le dessus. Je me rallie.}
+{103}{}{Prouve-moi que l'Unité est la meilleure voie pour l'humanité, et je t'aiderai.}
+{104}{}{Et si toi tu mourrais, et que moi je filais ?}
+{105}{}{Oh, y'en a qui mourront aujourd'hui, mais pas moi. J'ai mon plan.}
+{106}{}{Af-freux.}
+{107}{Mast01}{Excellent. Tes talents seront utiles. Mais d'abord, dis-moi tout sur ton Abri.}
+{108}{}{Pourquoi ?}
+{109}{}{D'accord. Je vais te dire tout ce que tu veux savoir.}
+{110}{Mast02}{Je vais le conquérir et transformer tous ces humains bon teint en mutants. Ils seront l'armée qu'il me faut pour répandre la paix sur tout le désert.}
+{111}{}{Je regrette, cette perspective me plaît guère.}
+{112}{}{Ca paraît sensé. D'accord.}
+{113}{Mast03}{Qu'il en soit ainsi. Tu as creusé ta propre tombe. Tombe ! Tombe !}
+{114}{Mast04}{Je n'ai rien à te prouver ! Prouver.}
+{115}{}{C'est ton ego qui te chatouille. Tous les traîtres ont cette bizarre propension à se perdre en explications.}
+{116}{}{Sans preuves, comment savoir que tu représentes le meilleur avenir ?}
+{117}{Mast05}{Voilà bien des exigences pour quelqu'un en si mauvaise posture ! Mais je peux céder à tes désirs.}
+{118}{}{Alors, dis-moi.}
+{119}{Mast06}{L'Unité apportera la race des maîtres. Maîtres ! Maîtres ! Une race capable de survivre, même de prospérer, dans le désert. Tant que demeureront des différences, nous nous déchirerons en vains combats. Il faut une seule race. Race ! Race ! Un seul but. But ! But ! Un seul peuple... pour marcher vers notre destinée. Destinée.}
+{120}{}{Et cette race, c'est les mutants, bien sûr.}
+{121}{}{J'espère qu'on finira pas avec une tronche comme la tienne.}
+{122}{Mast07}{Bien sûr. Les mutants sont les mieux armés pour le monde d'aujourd'hui. Qui d'autre ? Les Goules. Soyons sérieux. Les normaux. Ils nous ont apporté à tous la mort nucléaire. Demain sera l'ère des mutants. Mutants.}
+{123}{}{Tu veux changer aussi tous les autres en mutants ?!}
+{124}{}{T'es un vrai fanatique.}
+{125}{}{Et ceux qui s'opposent à toi ?}
+{126}{Mast08}{Tout ceux qui résistent, oui. Et tous ceux qui peuvent servir l'Unité. Le reste pourra continuer à vivre, mais sous contrôle et protection de l'Unité, et avec interdiction de procréer... Ils seront les derniers de leur race.}
+{127}{}{Y'a un petit problème pour ton projet de maîtres.}
+{128}{}{On dirait que t'as tout prévu. Je me rallie.}
+{129}{}{A mon avis, vous êtes tous, toi et ta bande, des fêlés et je vais derechef vous arrêter.}
+{130}{Mast09}{Ah oui... lequel ?}
+{131}{}{C'était compter sans moi ! Et vous allez arrêter, pas plus tard que maintenant !}
+{132}{}{Tu peux pas dominer le monde entier, impossible.}
+{133}{}{J'ai entendu dire que tes mutants sont stériles.}
+{134}{Mast10}{Je ne m'attaque pas au monde, pas encore. Quand j'aurai transformé, comme toi, les habitants des Abris en mutants, mes forces seront si puissantes que personne ne résistera ! Mais, ne t'inquiète pas, ça te sera égal. Egal ! Egal !}
+{135}{Mast11}{Ridicule ! Le virus FEV-2 ne détruit pas les organes reproducteurs de ceux qu'il mute.}
+{136}{}{Peut-être qu'il ne stérilisait pas les gens avant, mais aujourd'hui, si.}
+{137}{}{As-tu seulement parlé de ça à un de tes mutants ?}
+{138}{}{Peut-être que c'est toutes ces radiations en plus.}
+{139}{Mast12}{Tu as des preuves ?}
+{140}{}{Bien sûr que oui ! Voici...}
+{141}{}{Fais-moi confiance, ça arrive.}
+{142}{}{Interroge tes propres mutants.}
+{143}{Mast13}{Ca ne prouve rien ! Tu vas payer pour ton insolence. Payer !}
+{144}{}{Faut que je digère l'information. Un instant.}
+{145}{Mast14}{Faut que je digère l'information. Un instant... A présent, je comprends. Habile invention. Tu as monté ça de toutes pièces pour me tromper. Tromper ! Moi !}
+{146}{}{Quoi !? Je comprends pas, je croyais que c'était correct !}
+{147}{}{Tu mens ! Tu nies l'évidence qui te crève les yeux !}
+{148}{Mast16}{Tu vas payer pour ce tu as fait ! Payer !}
+{149}{Mast17}{Mais c'est impossible. Cela voudrait dire que tous mes efforts ont été vains. Tout ce que j'ai tenté de... un échec ! C'est impossible. Possible. ossible. sible.}
+{150}{}{Malheureusement, t'as pas le choix. Ta race va s'éteindre après cette génération.}
+{151}{}{Y'a peut-être quelque chose à faire. Peut-être qu'il te faut d'autres cobayes.}
+{152}{Mast18}{Oui. D'autres cobayes. Je crois même que je vais commencer par toi. Oui ! Oui !}
+{153}{Mast19}{Je...Je ne crois pas pouvoir continuer. Continuer ? Avoir fait toutes ces choses au nom du progrès et de la guérison. Pure folie. Je le vois maintenant. Folie. Folie ? Pas d'espoir. Va-t'en, pars ! Pars tant que tu espères...}
+{154}{Mast20}{Oui, c'est ce que je vais faire. Ne bouge pas.}
+{155}{Mast21}{Mes scientifiques m'assurent que tout va bien. Qu'en dis-tu ? Dis ! Dis !}
+{156}{}{T'as pensé à interroger une mutante ?}
+{157}{}{Demande à un de tes Lieutenants.}
+{158}{}{Ils ont peur de toi. Tu crois qu'ils vont te dire la vérité ?}
+{159}{Mast22}{Un moment. Impossible de le contacter. Il doit être mort et je devine qui l'a tué. Tué ! Tué !}
+{160}{Mast23}{Il nie tout. Et il ajoute savoir qui a lancé cette rumeur...}
+{161}{Mast24}{Je crois savoir qui a menti. Menti !}
+{162}{Mast25}{Pas sot ! Un moment. Tu ne te trompes pas ? Et les autres femmes ? C'est impossible. Impossible.}
+{163}{}{Je regrette, ta race est condamnée.}
+{164}{}{Excuse, mais je jubile... Je t'avais bien dit !}
+{165}{Mast26}{Sans preuve, je crains de ne pouvoir te croire. Bon, tu vas venir dans mon armée comme mutant ou tu vas mourir ! Mourir ! Venir !}
+{166}{}{Plutôt mourir que de te ressembler !}
+{167}{}{Pour moi, ça veut dire renier tout ce que je sais... mais je me rallie.}
+{168}{Mast27}{Cette fois, ton humour ne te sauvera pas. Tu acceptes mon offre, oui ou non ? Non ! Oui !}
+{169}{}{Non.}
+{170}{}{D'accord, ça vaut mieux que la mort...}
+{171}{Mast28}{Les radiations n'ont pas d'effet sur nous. Le virus FEV nous immunise. Ton argument est faible, tout comme toi.}
+{172}{Mast29}{Oh, je crois que tu te trompes. Mais pour m'en assurer, je vais ordonner une enquête. Dès que j'aurai pris soin de toi. Soin ! Soin !}
+{173}{Mast30}{Mon seul problème, c'est toi. Alors, tu es décidé à travailler pour l'Unité, oui ou non ?}
+{174}{}{Non.}
+{175}{}{Bien sûr.}
+{176}{Mast31}{Ils seront punis de leur insolence.}
+{177}{}{Tu veux dire que tu vas tous les descendre ?}
+{178}{}{Alors, je dois t'en empêcher, et pas plus tard que maintenant !}
+{179}{Mast32}{Bien sûr que non. La plupart se verront offrir une chance de devenir mutant. Ceux qui refusent seront stérilisés et relâchés. Ceux qui résistent, exécutés.}
+{180}{}{T'es rien qu'un débile mégalo. Il est temps que tu retrouves ton caveau.}
+{181}{}{Hmm, l'exécution, c'est pas mon truc... Je me rallie.}
+{182}{Mast33}{Nous avons tous nos partis pris, n'est-ce pas ? Chacun se soucie plus de sa communauté que des autres. Eh bien, nous n'avons pas changé, et je vais te dire autre chose...}
+{183}{}{Quoi ?}
+{184}{Mast34}{Nous ne changerons pas. Jusqu'à ce que nous formions un seul peuple. Un seul. Une race. Une. Une. Grâce à l'Unité, nous dépasserons ces minables contingences pour nous tourner vers l'essentiel. Tu veux en faire partie, non ? Partie ! Partie !}
+{185}{}{Tu as réussi à me convaincre. Je rallie l'Unité.}
+{186}{}{Je veux bien une partie... de toi, de ta sale tronche !}
+{187}{Mast35}{Bien sûr ! Les mutants survivront ! Ils reconstruiront le monde ! Et c'est seulement en mutant que tu pourras vivre ! Vivre ! Mourir !}
+{188}{}{Vivre !}
 {189}{}{Die!}
-{190}{}{All you care about is your mutants and their Unity.}
-{191}{Mast36}{I am no villain. You have no idea what I, or the Unity is about.}
-{192}{}{Then tell me what you are about.}
-{193}{}{You are a villain. You're just denying your inner feelings.}
-{194}{Mast37}{I don't have to prove myself to you. Using your logic, that must, prove I am not a villain. It would be a hopeless cause to explain it to you. }
-{195}{Mast38}{Oh? Please, what sort of plan might that be?}
-{196}{}{I'm going to set off a nuclear device in this Vault. It will explode shortly, taking you all to hell!}
-{197}{}{I'll kill you and that'll make it difficult for you to continue, right?}
-{198}{}{I convinced the Brotherhood of Steel to invade this place if I was captured and not set free. They will be here any moment.}
-{199}{Mast39}{You might be telling the truth. It doesn't matter, but I will let you go for now.}
-{200}{Mast40}{You are lying. It will be the last lie that you tell. }
-{201}{Mast41}{One moment while I check out your story. You might be telling the truth. Guards! Take this human to the reactor core. Deal with the problem before it's too late.}
-{202}{Mast42}{I doubt even the FEV will help you. Why am I talking? It's unlikely you even understand... }
-{203}{Mast43}{You must be joking. }
-{204}{Mast44}{My patience is almost at an end with you. Now, will you join the Unity or not? Join. Not!}
-{205}{}{Yes.}
-{206}{}{Not.}
-{207}{Mast45}{Fine. Then you can die here and now!}
-{208}{Mast46}{You have disarmed the device. Excellent. Tell me, is there anything you wanted to say before I kill you?}
-{209}{}{Yes, can I join up with you now?}
-{210}{}{Even dead, I'll still look better than you.}
-{211}{Mast47}{No. No. No. No.}
-{212}{Mast200}{I am the Master. I don't have to answer to you.}
-{213}{Mast201}{I am not here to answer your questions. You are here to answer mine.}
-{214}{Mast202}{Once I have the location of your Vault, I will fulfill my destiny! Destiny! Destiny! Destiny!}
-{215}{Mast203}{You think you can destroy me!? Destroy! Me?}
+{190}{}{Tout ce qui t'intéresse, c'est tes mutants et leur Unité.}
+{191}{Mast36}{Je ne suis pas un traître. Tu ne sais rien de moi ni de l'Unité.}
+{192}{}{Alors, parle-moi de toi.}
+{193}{}{T'es un traître. Tu ne fais que renier tes sentiments profonds.}
+{194}{Mast37}{Je n'ai pas à me justifier devant toi. Selon ta logique, cela doit prouver que je ne suis pas un traître. T'expliquer serait peine perdue.}
+{195}{Mast38}{Oh, oh ? De grâce, dis-moi de quel plan il s'agit.}
+{196}{}{Je vais déclencher un dispositif nucléaire dans cet Abri. Il explosera bientôt et vous enverra tous au diable !}
+{197}{}{Je vais te descendre et ça te sera difficile de poursuivre dans ces conditions. Tu piges ?}
+{198}{}{J'ai l'appui de la Confrérie de l'Acier. Ils envahiront cet endroit si l'on me capture ou si l'on m'emprisonne. Ils seront là d'un moment à l'autre.}
+{199}{Mast39}{Tu dis peut-être bien la vérité. Aucune importance... mais je te laisse libre pour cette fois.}
+{200}{Mast40}{Tu mens ! Et c'est la dernière fois !}
+{201}{Mast41}{Un instant, je vais vérifier ton histoire. Tu dis peut-être bien la vérité. Gardes ! Emmenez cette loque humaine au cœur du réacteur ! Réglez ce problème avant qu'il soit trop tard...}
+{202}{Mast42}{Même le FEV, je le crains, ne te fera aucun bien. Pourquoi je te dis ça ? Ca m'étonnerait que tu comprennes...}
+{203}{Mast43}{Tu plaisantes !}
+{204}{Mast44}{Ma patience est à bout ! Bon, tu rallies l'Unité, oui ou non ? Oui ! Non !}
+{205}{}{Oui.}
+{206}{}{Non.}
+{207}{Mast45}{Très bien. Alors tu vas mourir ici et maintenant !}
+{208}{Mast46}{Tu as désamorcé le dispositif. Excellent ! Au fait, tu souhaitais peut-être dire quelque chose avant que je ne te tue ?}
+{209}{}{Oui, je peux me rallier maintenant ?}
+{210}{}{Même mon cadavre aurait un meilleur look que toi !}
+{211}{Mast47}{Non. Non. Non. Non.}
+{212}{Mast200}{Je suis le Maître. Je n'ai pas à te répondre.}
+{213}{Mast201}{Je ne suis pas là pour répondre à tes questions. C'est toi qui est là pour me répondre.}
+{214}{Mast202}{Dès que je saurai où se trouve ton Abri, j'accomplirai ma destinée ! Destinée ! Destinée ! Destinée !}
+{215}{Mast203}{Tu crois pouvoir me détruire !? Me détruire ! Moi ?}
 {300}{}{Duh!}
-{980}{Mast200}{I am the Master. I don't have to answer to you.}
-{1000}{}{Unity}
-{1001}{}{Master}
-{1100}{Mast200}{I am the Master. I don't have to answer to you.}
-{1101}{Mast201}{I am not here to answer your questions. You are here to answer mine.}
+{980}{Mast200}{Je suis le Maître. Je n'ai pas à te répondre.}
+{1000}{}{Unité}
+{1001}{}{Maître}
+{1100}{Mast200}{Je suis le Maître. Je n'ai pas à te répondre.}
+{1101}{Mast201}{Je ne suis pas là pour répondre à tes questions. C'est toi qui est là pour me répondre.}

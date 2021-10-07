@@ -1,24 +1,24 @@
-{100}{}{You see a desert bandit. Based on how the others look at her, she must have some position of importance or authority.}
-{101}{}{I am Gwen. I'm one of Garl's advisors. Who are you?}
-{102}{}{I'm }
-{103}{}{. What do you do around here?}
-{104}{}{I'm nobody special. Can you tell me about your camp?}
-{105}{}{Hroo?}
-{106}{}{I am the one who will sweep you off your feet, honey.}
-{107}{}{As an advisor, I make sure that no low-lifes cause any trouble for Garl.}
-{108}{}{And how do you do that?}
-{109}{}{You and what army?}
-{110}{}{I doubt you could do anything to stop anyone.}
-{111}{}{Looks like all the low-lifes live here.}
-{112}{}{Hmpf. If you're nobody special then I won't bother talking to you. Go away.}
-{113}{}{I keep idiots like you from bothering Garl. Go away!}
-{114}{}{I have ways to make certain undesirables are no longer here.}
-{115}{}{I can see that I was wrong. You probably could do your job well. Goodbye.}
-{116}{}{Prove it!}
+{100}{}{Tu vois un bandit du désert. Vu l'attitude des autres à son égard, elle doit avoir un rôle important.}
+{101}{}{Je m'appelle Gwen. Je suis un des conseillers de Garl. Qui es-tu ?}
+{102}{}{Je m'appelle }
+{103}{}{. Qu'est-ce que tu fais dans le coin ?}
+{104}{}{Personne en particulier. Tu peux me parler de ton camp ?}
+{105}{}{Qqqui ?}
+{106}{}{Celui qui va te déchirer le coeur, ma poule.}
+{107}{}{En tant que conseiller, je veille à ce qu'aucune crapule ne cause d'ennuis à Garl.}
+{108}{}{Et comment tu t'y prends ?}
+{109}{}{Toi et quelle armée ?}
+{110}{}{Je doute que t'ais les moyens d'arrêter qui que ce soit.}
+{111}{}{Il semble que toutes les crapules vivent ici.}
+{112}{}{Hum. Si t'es personne en particulier, je vois pas pourquoi je perdrais mon temps à te parler. Fiche le camp.}
+{113}{}{J'empêche les imbéciles comme toi d'ennuyer Garl. Tire-toi !}
+{114}{}{J'ai les moyens de faire disparaître certains indésirables.}
+{115}{}{Je reconnais que j'ai eu tort. Tu fais sans doute bien ton boulot. Salut.}
+{116}{}{Prouve-le !}
 {117}{}{Die!}
-{118}{}{It's been so long since I've had a good fight. Too bad you are going to lose. Here is proof of my skills!}
-{119}{}{You'll regret that remark. It will be your last!}
-{120}{}{If that is the best you can do, then I will be doing the world a favor by killing you.}
-{121}{}{Me and this army!}
-{122}{}{You annoy me. Leave before I become truly angry.}
-{200}{}{You see: Gwen, the Khans' second-in-command and advisor to Garl.}
+{118}{}{Ca faisait que j'ai pas eu une bonne petite castagne. Dommage que tu doives faire les frais de mes talents !}
+{119}{}{Tu vas regretter tes paroles. Ce seront tes dernières !}
+{120}{}{Si c'est tout ce que tu sais faire, alors personne pleurera ta perte.}
+{121}{}{Moi et cette armée !}
+{122}{}{Tu m'agaces. Barre-toi avant que je me fâche pour de bon.}
+{200}{}{Voici Gwen, le bras droit de Garl.}

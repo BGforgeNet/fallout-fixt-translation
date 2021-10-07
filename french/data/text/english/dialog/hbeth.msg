@@ -1,297 +1,297 @@
-{100}{}{You see: Beth, owner of the Weapon Shop.}
-{101}{}{Hi there. How can I help you?}
-{102}{}{Can I ask you some questions?}
-{103}{}{Could I ask you some more questions?}
-{104}{}{I want to buy something.}
-{105}{}{I have something to sell.}
-{106}{}{How does someone make money around here?}
-{107}{}{Nothing. Bye.}
-{108}{}{Ruk?}
-{109}{}{What's the word out on the street about the missing caravans? }
-{110}{}{What do you know about the Deathclaw?}
-{111}{}{Could you tell me about the Deathclaw again?}
-{112}{}{What can you tell me about Decker?}
-{113}{}{What can you tell me about the different merchants?}
-{114}{}{Have you heard any good rumors?}
-{115}{}{Thanks, that's all. Bye.}
-{116}{}{Umm, never mind.}
-{117}{}{Well, I'm not one to gossip, but I heard that Decker's death is somehow related to the assassination hit on Jain.}
-{118}{}{Well, I usually don't talk behind people's backs, but I know someone who knows someone that says that they saw three extremely large, robed figures go into the Maltese Falcon right before the murders.}
-{119}{}{Well, I usually don't talk behind people's backs, but someone killed Jain, the High Priestess of the Children of the Cathedral. I don't care for them myself, but I don't know what she could have done to deserve that.}
-{121}{}{Well, I usually don't talk behind people's backs, but a merchant friend of mine saw a group of mutants wandering around in the desert, up past the Brotherhood of Steel, far to the northwest.}
-{122}{}{Well, I usually don't talk behind people's backs, but the Children of the Cathedral have been asking people where you are. I'd be careful. They're a strange bunch.}
-{123}{}{Well, I'm not one to gossip, but I heard that Decker's death is somehow related to the assassination hit on Jain.}
-{124}{}{There is something else: I know someone who knows someone that says that they saw three extremely large, robed figures go into the Maltese Falcon right before the murders.}
-{125}{}{There is something else: Someone killed Jain, the High Priestess of the Children of the Cathedral. I don't care for them myself, but I don't know what she could have done to deserve that.}
-{126}{}{There is something else: A merchant friend of mine saw a group of mutants wandering around in the desert, up past the Brotherhood of Steel, far to the Northwest.}
-{127}{}{There is something else: The Children of the Cathedral have been asking people where you are. I'd be careful. They're a strange bunch.}
-{128}{}{Anything else?}
-{129}{}{Thanks, can I as you another question?}
-{130}{}{Okay, thanks.}
-{131}{}{I'm sorry, what was that?}
-{132}{}{Klug?}
-{133}{}{Ruk!}
-{134}{}{I'm sorry, I don't understand. Please come back when you are feeling better.}
-{135}{}{Well, I'm not hiring, but there's a job post in the center of the Merchant Market. You might want to check there.}
-{136}{}{Okay, thanks.}
-{137}{}{No, nothing good at least. Give me a chance to do some digging. (She winks at you.) Anything else?}
-{138}{}{Yes.}
-{139}{}{No.}
-{140}{}{What else can I do for you?}
-{141}{}{Of course you can, don't be silly.}
-{142}{}{Why sure, I'd be happy to help. What did you need to know?}
-{143}{}{Alright. Well, it's been nice talking to you. Have a nice day.}
-{144}{}{No, that's all. Was there something else you wanted to talk about?}
-{145}{}{Yes.}
-{146}{}{No.}
-{147}{}{Well, come back soon. Don't be a stranger.}
-{148}{}{Now there's someone you don't ever want to mess with; he scares me. He 'owns' the Maltese Falcon.}
-{149}{}{Why did you say it like that? He 'owns' the Maltese Falcon.}
-{150}{}{Why does he scare you? }
-{151}{}{Sorry, it just reminds me of a friend that used to own it before him. Decker wanted it really bad, but my friend wouldn't sell. Two days later they found him dead in a back alley of Old Town.}
-{152}{}{Why do you think Decker's responsible?}
-{153}{}{Well, he should have known better than to mess with Decker.}
-{154}{}{Sorry, but I have to go.}
-{155}{}{My friend was a clean freak. He wouldn't come within a hundred yards of Old Town. He was shot with a magnum pistol; no one in Old Town could afford one of those. Plus, he was shot once in the head and twice in the back. Does that sound like a robbery? My friend was just trying to get his life back.}
-{156}{}{Hey, I like his style. After you kill him, put his body in the place he despises the most.}
-{157}{}{Get his life back?}
-{158}{}{I'm sorry to hear that.}
-{159}{}{Oh, okay.}
-{160}{}{You probably don't understand, but most of us look forward to the day when we own our own lives. When our lives don't belong to the merchants or the moneylenders.}
-{161}{}{Oh, thanks.}
-{162}{}{Don't you ever stop talking?!}
-{163}{}{That's the dumbest thing I've ever heard!}
-{164}{}{Is there anything else I can do for you?}
-{165}{}{Well, excuse me. YOU asked.}
-{166}{}{He's the deadliest person in the Hub; most say that he runs this place, not the merchants or the police. If you ever cross him, watch out.}
-{167}{}{That gives him no right to kill anyone.}
-{168}{}{You make me sick, please leave. I'm sure he's missing your company.}
-{169}{}{Well, there are three main merchant groups: the Water Merchants, the Crimson Caravan, and the Far Go Traders. They also run the city council. What do you want to know about?}
-{170}{}{The Water Merchants.}
-{172}{}{The Crimson Caravan.}
-{173}{}{The Far Go Traders.}
-{174}{}{The City Council.}
-{175}{}{That's all. Thanks for the information.}
-{176}{}{Actually, never mind.}
-{177}{}{They're in charge of all the water. Greedy people; I wouldn't want to work for them. Their pay is the worst and the jobs are just as bad.}
-{178}{}{Did they always control all the water? }
-{179}{}{Are they the ones behind the missing caravans?}
-{180}{}{Thanks, another question about the merchants...}
-{181}{}{Thanks, bye.}
-{182}{}{What else would you like to know about?}
-{183}{}{No. From what I've heard, a while back a group of merchants seized control of the Water Tower and proclaimed that they were the Water Merchants and people had to get water from them. The merchant war raged on for years until a man named Roy Greene - yeah, Justin's Grandfather, that's it - helped to negotiate an agreement that ended the war.}
-{184}{}{What kind of agreement?}
-{185}{}{Damn! Sorry I asked.}
-{186}{}{Thanks, another question about the merchants...}
-{187}{}{Thanks, bye.}
-{188}{}{Well, he set up the city council and set a limit on the price of water. Personally, I think they should have beat the tar out of them. Oh, sorry, I mean they should have showed them who's boss.}
-{189}{}{Great. I didn't need quite that much information, but thanks just the same.}
-{190}{}{Thanks, another question about the merchants...}
-{191}{}{Thanks, bye.}
-{192}{}{Sorry I tend to get carried away with myself. Was there anything else you wanted to know about?}
-{193}{}{The Crimson Caravan are a bunch of crazy people. They will do any job, no matter what the risk. I'm surprised they aren't missing more caravans than they are.}
-{194}{}{They're missing caravans too?}
-{195}{}{How risky?}
-{196}{}{Thanks, another question about the merchants...}
-{197}{}{Thanks, bye.}
-{198}{}{They will pass right through an area known to be attacked by raiders. They charge a lot so they can hire extra hands. The pay's great, but you have to be alive to spend it, right?}
-{199}{}{They're missing caravans too?}
-{200}{}{Thanks, another question about the merchants.}
-{201}{}{Thanks, bye.}
-{202}{}{Actually, all the merchants have had a few caravans disappear. The Far Go Traders are just unlucky, I suppose.}
-{203}{}{How risky?}
-{204}{}{Thanks, another question about the merchants...}
-{205}{}{Thanks, bye.}
-{206}{}{The Far Go Traders pay well and their jobs aren't too deadly. Butch owns this shop; a good man. They're fair and let me do as I please with the place; I like working with them. Plus you get a discount on anything you buy here if you work for Butch.}
-{207}{}{Personally, I don't think so. I think it was the Deathclaw or maybe the Brotherhood of Steel.}
-{208}{}{Why don't you think it's the Water Merchants?}
-{209}{}{What exactly is a Deathclaw?}
-{210}{}{Could you tell me about the Deathclaw again? }
-{211}{}{Who are the Brotherhood?}
-{212}{}{Why do you think it was the Brotherhood of Steel?}
-{213}{}{Thanks, let's get back to the merchants.}
-{214}{}{Okay, well I got to go.}
-{215}{}{Some people think the Water Merchants are responsible, but I don't think so. I think it was that darn Deathclaw, or maybe the people over at the Brotherhood of Steel.}
-{216}{}{Well, I thought that it was destroying the caravans, but I guess not. It's still out there though. There are too many rumors floating around for it not to exist.}
-{217}{}{I think that's what's taking the caravans. It could also be the Brotherhood of Steel; they're a strange bunch. Some people think it's the Water Merchants, but they're wrong.}
-{218}{}{Sure.}
-{219}{}{Because, like I've been telling everyone, they've had a few caravans disappear too. Nothing like what's happening to the Far Go Traders, but they are being affected.}
-{220}{}{They could be lying or it could be part of their plan to make you believe them.}
-{221}{}{Why would it happen to the Far Go Traders more than the others? }
-{222}{}{Another question about the missing caravans...}
-{223}{}{Thanks, let's get back to the merchants.}
-{224}{}{You're full of crap!}
-{225}{}{Thanks, but I have to go.}
-{226}{}{Excuse you! You're awfully quick to judge; are you afraid of the truth?}
-{227}{}{There are six representatives, two from each of the main merchant groups. Everything needs at least four votes to be passed. They can never agree on anything.}
-{228}{}{Good thought, but I highly doubt it. They've been sabotaging each other for years, but this is not their style. They wouldn't spend that much money to take out the caravans. Plus, all the caravans are very heavily guarded. You would think someone would escape. They don't have the man power or the cash to pull that off. There would have been at least one survivor.}
-{229}{}{Yeah, but why would it happen to the Far Go Traders more than the others?}
-{230}{}{Another question about the missing caravans...}
-{231}{}{Thanks, let's get back to the merchants.}
-{232}{}{Thanks, but I have to go. }
-{233}{}{Bad luck? I don't know, maybe they're traveling along different routes than the others. Maybe because they aren't as heavily guarded as the Crimson Caravan, but... they might have better cargo than the Water Merchants. Who knows? There doesn't seem to be any clear difference between the three.}
-{234}{}{The Water Merchants could be lying or it could be part of their plan, to make you believe them.}
-{235}{}{Another question about the missing caravans...}
-{236}{}{Thanks, let's get back to the merchants. }
-{237}{}{You NEVER stop talking, do you?!}
-{238}{}{Thanks, but I have to go.}
-{239}{}{Excuse me! You're free to leave at any time. If you didn't want the answer, you shouldn't have asked.}
-{240}{}{The Deathclaw is the most evil thing to rise out of the ashes after the War. Some say it's a powerful ghost from the war that haunts the land. It's no ghost; it's as real as you and me. It's 20 feet tall with teeth as big as your arm. It's some kind of demon that found its way here when the world was engulfed in fire.}
-{241}{}{Uh, sorry I asked.}
-{242}{}{You're crazy! I should just end your misery right here and now.}
-{243}{}{Do you know anything else about the Deathclaw?}
-{244}{}{Wow! Do you know where it is?}
-{245}{}{Well, I know this old mutant in Old Town named Harold. He's seen it. He's the ONLY one that's seen it and lived.}
-{246}{}{The only one that's seen it and lived?}
-{247}{}{Yeah, sure, and I'm the Deathclaw's daddy}
-{248}{}{Yeah, sure, and I'm the Deathclaw's mommy.}
-{249}{}{Another question about the missing caravans...}
-{250}{}{Thanks, let's get back to the merchants.}
-{251}{}{I'll check it out. See ya.}
-{252}{}{Uncle Slappy over in Old Town talks about it sometimes, but he's just a crazy old fool.}
-{253}{}{Another question about the missing caravans...}
-{254}{}{Thanks, let's get back to the merchants.}
-{255}{}{Thanks. I'll check it out. Bye.}
-{256}{}{You'll see!}
-{257}{}{Yeah, pretty amazing isn't it? It's down to the southwest somewhere. There's an old mutant in Old Town named Harold who actually saw this thing in its lair. Nicest skag I know.}
-{258}{}{Another question about the missing caravans...}
-{259}{}{Thanks, let's get back to the merchants.}
-{260}{}{Thanks. I'll check it out. Bye.}
-{261}{}{The Brotherhood of Steel is full of crazy people that worship technology; they're to the northwest of here. They make human sacrifices and do all sorts of other terrible things.}
-{262}{}{That's absurd! Who told you that?}
-{263}{}{Another question about the missing caravans...}
-{264}{}{Thanks, let's get back to the merchants.}
-{265}{}{That's terrible. Thanks for the warning. Bye.}
-{266}{}{Well, um, I don't remember, but who ever it was wouldn't lie... I mean, it might be true! You should be careful just the same.}
-{267}{}{Another question about the missing caravans...}
-{268}{}{Well, let's get back to the merchants.}
-{269}{}{You're an idiot!}
-{270}{}{Look at the time, I've got to go! See ya.}
-{271}{}{Why, you don't know? (She lowers her voice.) I heard that they make human sacrifices and do all sorts of other terrible things!}
-{272}{}{Yes, we do. What's wrong with that?}
-{273}{}{As a MEMBER of the Brotherhood, I can ASSURE you that NOTHING like that is going on!}
-{274}{}{Really? I've been there; they seemed strange, but not that bad.}
-{275}{}{Really? I had no idea.}
-{276}{}{Like you don't know. You're obviously one of them, walking around in that metal suit. You're all a bunch of sick people.}
-{277}{}{I don't know what you're getting at, but I can assure you nothing 'sick' is going on at the Brotherhood.}
-{278}{}{Yeah, so? Aren't we all?}
-{279}{}{I had no idea.}
-{280}{}{Excuse me, sir. Please put your weapon down.}
-{281}{}{Excuse me, ma'am. Please put your weapon down.}
-{282}{}{I'm sorry, but I won't help you unless you put your weapon away. This is a shop, not an arena.}
-{283}{}{Uhh... well, yeah... umm, you... I... Is there anything else you needed?}
-{284}{}{You never know what a person's really like behind closed doors. You've got to be careful with who you associate yourself with. Was there anything else you needed?}
-{285}{}{You're a...? I mean. I didn't mean... umm... Lovely day we're having. Don't you think so? So, was there anything else I can do for you?}
-{286}{}{Another question about the missing caravans...}
-{287}{}{Thanks, let's get back to the merchants.}
-{288}{}{No, that's it. Bye.}
-{289}{}{Sure, whatever you say. Was there anything else that I can do for you?}
-{290}{}{Great! Let me show you what I've got.}
-{291}{}{I've got the best goods. What are you looking for?}
-{292}{}{That's what I like to hear! What do you need?}
-{293}{}{Let's get down to business.}
-{294}{}{If you've got money, you've got my attention.}
-{295}{}{My favorite kind of customer!}
-{296}{}{You want to buy something? Maybe I was wrong about you.}
-{297}{}{Oh, that's right. You're working for Butch, you get the 15% discount.}
-{298}{}{I'll still give you the 15% discount, because I like you.}
-{299}{}{Sorry, you don't get a discount anymore.}
-{300}{}{Show me what you've got.}
-{301}{}{Do you have anything good?}
-{302}{}{Well, let's see.}
-{303}{}{Sure.}
-{304}{}{What do you have for me today?}
-{305}{}{That's great. I can always use more merchandise.}
-{306}{}{I'd be happy to take a look at what you've got.}
-{307}{}{Don't try to rip me off.}
-{308}{}{I might let you sell me something; it better be good.}
-{309}{}{You better not be wasting my time.}
-{310}{}{I hope you have something I need, this time.}
-{311}{}{Hello again. Nice to see you. How can I help you on this fine day?}
-{312}{}{Why hello! It's nice to see you again. What can I do for you today?}
-{313}{}{I wish I could get a day off; it's been so lovely out.}
-{314}{}{Why hello again, aren't we looking handsome today?}
-{315}{}{Back so soon?}
-{316}{}{You just left. Miss me already?}
-{317}{}{Need something already?}
-{318}{}{Long time no see. What can I get you today?}
-{319}{}{It's been a while. I hope you've been well.}
-{320}{}{Still alive I see. I was starting to worry. What can I get you today?}
-{321}{}{There you are. It's been more than a week since you last stopped in. You must stay in touch; you ARE my favorite customer!}
-{322}{}{Yes?}
-{323}{}{What?}
-{324}{}{Are you here to buy something or what?}
-{325}{}{This is MY shop; you better behave.}
-{326}{}{What is it?!}
-{327}{}{You again?}
-{328}{}{Time is money. What is it?}
-{329}{}{Did you need something?}
-{330}{}{Did you hear? He's dead! I'm overjoyed! That's the best thing that's ever happened to this city.}
-{331}{}{I already told you. He's dead! Let's just forget about him; his name brings back bad memories.}
-{332}{}{Oh, yeah.}
-{333}{}{Yeah, he deserved it and I don't feel bad about doing it.}
-{334}{}{You did it? Really? I love you! (She looks over at Sid.) Don't even think about it, wise guy... Here, to show my gratitude... (She gives you six stimpaks.) It's not much, but I really appreciate it!}
-{335}{}{You did it? Really? You're the best! You have no idea how happy I was to hear that he was dead. Here, take these... (She gives you six stimpaks.) It's not much, but I really appreciate it!}
-{336}{}{Sorry I don't have anything you like.}
-{337}{}{Don't see anything you like? I'll try to get better goods.}
-{338}{}{Sorry if you didn't like my offer, but I've got to be able to sell it for a profit.}
-{339}{}{Don't want to sell after all? That's okay.}
-{340}{}{Sorry I couldn't help you. Have a nice day.}
-{341}{}{Maybe next time. Bye.}
-{342}{}{Hope I can help you better next time.}
-{343}{}{Stop wasting my time.}
-{344}{}{If you're not going to buy anything, please leave.}
-{345}{}{If you didn't want to buy something, I wish you would leave me alone.}
-{346}{}{If you're not selling, please leave.}
-{347}{}{Don't bother me if you don't want to sell.}
-{348}{}{Please leave.}
-{349}{}{I knew you where going to waste my time again.}
-{350}{}{Figures, I knew you didn't have any money.}
-{351}{}{Thanks for all the business; maybe I'll go home early today.}
-{352}{}{You almost cleaned me out!}
-{353}{}{Hope you can carry all that!}
-{354}{}{Thanks, I hope I can sell all this stuff!}
-{356}{}{These should sell well. Thank you.}
-{357}{}{I can use these. Thanks.}
-{358}{}{I hope I have room for all this!}
-{359}{}{Well thanks a lot! I hope you have a wonderful day!}
-{360}{}{Thanks for the business; please drop by any time.}
-{361}{}{You're welcome here any time, during business hours that is.}
-{362}{}{Thank you and have a nice day.}
-{363}{}{Bye! And thanks!}
-{364}{}{That's it? Just ammunition? I'm disappointed. Well, next time you'll need to spend more!}
-{365}{}{Stocking up on ammunition? That's a good idea. You can never have enough.}
-{366}{}{Just the essentials, right? Bye!}
-{367}{}{Well, I didn't think you were actually going to buy anything.}
-{368}{}{Thanks for the business. You're not so bad.}
-{369}{}{Thanks for the goods.}
+{100}{}{Voici Beth, propriétaire de l'Armurerie.}
+{101}{}{Bonjour. Je peux t'aider ?}
+{102}{}{Je peux encore te poser quelques questions ?}
+{103}{}{Je peux encore te poser quelques questions ?}
+{104}{}{Je veux acheter quelque chose.}
+{105}{}{J'ai quelque chose à vendre.}
+{106}{}{Comment peut-on faire de l'argent dans le coin ?}
+{107}{}{Tant pis. Au revoir.}
+{108}{}{Ben ?}
+{109}{}{Quelle est la rumeur sur les caravanes disparues ?}
+{110}{}{Que sais-tu sur le Griffemort ?}
+{111}{}{Tu peux me reparler du Griffemort ?}
+{112}{}{Qu'est-ce que tu peux me dire sur Decker ?}
+{113}{}{Qu'est-ce que tu peux me dire sur les différents marchands ?}
+{114}{}{T'as entendu des rumeurs intéressantes ?}
+{115}{}{Merci, c'est tout. Au revoir.}
+{116}{}{Hmm, aucune importance.}
+{117}{}{Eh bien, les commérages c'est pas mon genre, mais il paraît que la mort de Decker serait liée à l'assassinat de Jain.}
+{118}{}{Eh bien, c'est pas mon genre de colporter les ragots, mais je connais quelqu'un qui connaît quelqu'un qui dit avoir vu trois silhouettes vêtues d'immenses robes entrer au Faucon Maltais juste avant les meurtres.}
+{119}{}{Eh bien, c'est pas mon genre de colporter les ragots, mais quelqu'un à tué Jain, la Grande Prêtresse des Enfants de la Cathédrale. C'est pas que je les aie à la bonne, mais je sais pas ce qu'elle avait pu faire pour mériter ça.}
+{121}{}{Eh bien, c'est pas mon genre de colporter les ragots, mais un ami à moi, un marchand, a vu un groupe de mutants rôder dans le désert, au-delà de la Confrérie de l'Acier, tout au Nord-Ouest.}
+{122}{}{Eh bien, c'est pas mon genre de colporter les ragots, mais les Enfants de la Cathédrale demandent aux gens où tu es. Prends garde. Ils sont pas nets.}
+{123}{}{Eh bien, les commérages c'est pas mon genre, mais il paraît que la mort de Decker serait liée à l'assassinat de Jain.}
+{124}{}{C'est pas tout. je connais quelqu'un qui connaît quelqu'un qui dit avoir vu trois silhouettes vêtues d'immenses robes entrer au Faucon Maltais juste avant les meurtres.}
+{125}{}{Quelqu'un à tué Jain, la Grande Prêtresse des Enfants de la Cathédrale. C'est pas je les aie à la bonne, mais je sais pas ce qu'elle avait pu faire pour mériter ça.}
+{126}{}{C'est pas tout. Un ami à moi, un marchand, a vu un groupe de mutants rôder dans le désert, au-delà de la Confrérie de l'Acier, tout au Nord-Ouest.}
+{127}{}{C'est pas tout. Les Enfants de la Cathédrale demandent aux gens où tu es. Prends garde. Ils sont pas nets.}
+{128}{}{Et avec ça ?}
+{129}{}{Merci. Je peux encore te poser une question ?}
+{130}{}{Ok, merci.}
+{131}{}{De quoi s'agit-il ?}
+{132}{}{Hein ?}
+{133}{}{Euh !}
+{134}{}{Je regrette, je comprends rien. Reviens quand tu iras mieux.}
+{135}{}{Ah, moi j'embauche pas, mais tu trouveras une agence pour l'emploi au centre du Grand Marché. Va te renseigner.}
+{136}{}{Ok, merci.}
+{137}{}{Non, rien d'intéressant en tout cas. Laisse-moi le temps de chercher un peu. <Elle te fait un clin d'oeil >. Autre chose ?}
+{138}{}{Oui.}
+{139}{}{Non.}
+{140}{}{Je peux faire autre chose pour toi ?}
+{141}{}{Bien sûr, sois pas bête.}
+{142}{}{Certainement, si je peux rendre service. Qu'est-ce que tu veux savoir ?}
+{143}{}{C'est bon. Tout le plaisir était pour moi, bonne journée.}
+{144}{}{Non, c'est tout. Tu voulais parler d'autre chose ?}
+{145}{}{Oui.}
+{146}{}{Non.}
+{147}{}{Eh bien, tarde pas à revenir. Sois pas timide.}
+{148}{}{Ah, en voilà un à éviter, il me fait peur. C'est le 'propriétaire' du Faucon Maltais.}
+{149}{}{Pourquoi tu dis ça comme ça : le 'propriétaire' du Faucon Maltais ?}
+{150}{}{Pourquoi te fait-il peur ? }
+{151}{}{Désolée, c'est juste qu'il me rappelle un ami qu'était propriétaire avant lui. Decker voulait la boîte à tout prix, mais mon ami refusait de vendre. Deux jours après, on l'a retrouvé mort dans une ruelle de la Vieille Ville.}
+{152}{}{Pourquoi tu crois que c'est un coup de Decker ?}
+{153}{}{Ah, il aurait pas dû prendre le risque de se frotter à Decker.}
+{154}{}{Malheureusement faut que je parte.}
+{155}{}{Cet ami, un vrai phénomène. Il se serait pas approché à cent mètres de la Vieille Ville. Il a été flingué par un Magnum, et y'a personne dans la Vieille Ville qu'aurait pu s'en offrir un. Et puis, il a reçu une balle dans la tête et deux dans le dos. Ca sent le vol ça ? Non, mon ami essayait seulement de retrouver son indépendance.}
+{156}{}{Eh, il me plaît bien. Une fois que tu l'auras tué, dépose son corps à l'endroit qu'il déteste le plus.}
+{157}{}{Son indépendance ?}
+{158}{}{C'est triste d'entendre ça.}
+{159}{}{Oh, d'accord.}
+{160}{}{Tu comprends sans doute pas, mais nous n'attendons qu'une seule chose : le jour où nous prendrons notre vie en main. Le jour où nos vies n'appartiendront plus aux marchands ou aux prêteurs sur gages.}
+{161}{}{Oh, merci.}
+{162}{}{Ca t'arrive d'arrêter de causer ?}
+{163}{}{Jamais j'ai entendu pareille idiotie !}
+{164}{}{Puis-je faire autre chose pour toi ?}
+{165}{}{Ah, excuse-moi. C'est toi qu'a demandé.}
+{166}{}{C'est le plus dangereux du Centre. La plupart disent que c'est lui qui y fait la loi, pas les marchands ni la police. Si jamais tu le croises, fais gaffe.}
+{167}{}{Ca lui donne pas le droit de tuer.}
+{168}{}{Ah, tu me fatigues, décampe. Sûr que tu lui manques.}
+{169}{}{Bon, il y a trois principaux groupes de marchands : les Marchands d'Eau, la Caravane Ecarlate et les Marchands du Lointain. Ils dirigent aussi le conseil municipal. Qu'est-ce que tu veux savoir ?}
+{170}{}{Les Marchands d'Eau.}
+{172}{}{La Caravane Ecarlate.}
+{173}{}{Les Marchands du Lointain.}
+{174}{}{Le conseil municipal.}
+{175}{}{C'est tout. Merci pour les informations.}
+{176}{}{Oh, aucune importance.}
+{177}{}{Ils ont la main mise sur toute l'eau. Des rapaces, je voudrais pas travailler pour eux. Ils offrent la paie la plus minable et le boulot vaut pas mieux.}
+{178}{}{Ils ont toujours contrôlé l'eau ? }
+{179}{}{C'est eux les responsables des caravanes disparues ?}
+{180}{}{Merci... encore une question sur les marchands...}
+{181}{}{Merci, au revoir.}
+{182}{}{Qu'est-ce que tu veux savoir d'autre ?}
+{183}{}{Non. A ce qu'il paraît, y'a longtemps de ça, un groupe de marchands s'est emparé du château d'eau et ils se sont proclamés "marchands d'eau". Pour avoir de l'eau, fallait passer par eux. La guerre des marchands a fait rage pendant des années, jusqu'à l'intervention d'un homme, Roy Greene... ouais, le grand-père de Justin, c'est ça. Grâce à lui, on a pu négocier un accord qu'a mis fin à cette guerre.}
+{184}{}{Quelle sorte d'accord ?}
+{185}{}{Bon sang ! Je regrette ma question.}
+{186}{}{Merci... encore une question sur les marchands...}
+{187}{}{Merci, au revoir.}
+{188}{}{Eh bien, il a établi le conseil municipal et fixé une limite sur le prix de l'eau. Personnellement, je pense qu'ils auraient dû leur arracher tripes et boyaux... Oh, pardon. Enfin, leur montrer qui était le patron.}
+{189}{}{Super. J'en demandais pas tant mais merci quand même pour tous ces renseignements.}
+{190}{}{Merci... encore une question sur les marchands...}
+{191}{}{Merci, au revoir.}
+{192}{}{Désolée, je me laisse souvent emporter. Autre chose que tu voulais savoir ?}
+{193}{}{La Caravane Ecarlate, une bande de cinglés ! Ils feraient n'importe quel boulot, risque ou pas risque. C'est étonnant qu'ils n'aient pas plus de caravanes qui disparaissent.}
+{194}{}{Ils ont aussi des caravanes qui disparaissent ?}
+{195}{}{Quel genre de risque ?}
+{196}{}{Merci... encore une question sur les marchands...}
+{197}{}{Merci, au revoir.}
+{198}{}{Ils n'hésitent pas à traverser une région connue pour être attaquée par les pillards. Ils vendent cher, comme ça, ils ont les moyens d'embaucher plus de personnel. Le salaire est bon, mais encore faut-il rester en vie pour le dépenser, pas vrai ?}
+{199}{}{Ils ont aussi des caravanes qui disparaissent ?}
+{200}{}{Merci, encore une question sur les marchands.}
+{201}{}{Merci, au revoir.}
+{202}{}{En fait, tous les marchands ont des caravanes qui disparaissent. Sans doute que les Marchands du Lointain n'ont pas de chance.}
+{203}{}{Quel genre de risque ?}
+{204}{}{Merci... encore une question sur les marchands...}
+{205}{}{Merci, au revoir.}
+{206}{}{Les Marchands du Lointain paient bien et le boulot est pas trop déplaisant. C'est Butch qui possède le magasin, un brave homme. Ils sont corrects et ils me laissent faire ce que je veux. J'aime bien travailler avec eux. Et puis, t'as des remises sur tout ce que t'achètes ici si tu travailles pour Butch.}
+{207}{}{A mon avis, non. Ce serait plutôt le Griffemort ou peut-être la Confrérie de l'Acier.}
+{208}{}{Pourquoi tu crois pas que c'est les Marchands d'Eau ?}
+{209}{}{C'est quoi au juste, un Griffemort ?}
+{210}{}{Tu peux me reparler du Griffemort ? }
+{211}{}{C'est quoi, la Confrérie ?}
+{212}{}{La Confrérie de l'Acier ? Pourquoi ?}
+{213}{}{Merci, revenons à nos marchands.}
+{214}{}{Ok. Bon, faut que je parte.}
+{215}{}{Certains pensent que les Marchands d'Eau sont responsables, mais je crois pas. Ce serait plutôt ce maudit Griffemort, ou peut-être les gens de la Confrérie de l'Acier.}
+{216}{}{Ah, je pensais qu'il détruisait les caravanes, mais peut-être pas. N'empêche qu'il rôde toujours. Avec toutes ces rumeurs, on ne peut pas douter de son existence.}
+{217}{}{Ca doit être ça qui fait disparaître les caravanes. A moins que... la Confrérie de l'Acier... encore pas nets ceux-là. Certains disent que ce sont les Marchands d'Eau qui ont fait le coup mais ils ont tort.}
+{218}{}{Bien sûr.}
+{219}{}{Parce que, comme je le répète souvent, certaines de leurs caravanes ont aussi disparu. Pas autant que pour les Marchands du Lointain, mais quand même...}
+{220}{}{Peut-être qu'ils mentent ou qu'ils ont manigancé ça pour qu'on les croie.}
+{221}{}{Pourquoi les Marchands du Lointain seraient-ils plus touchés que les autres ?}
+{222}{}{Encore une question sur les caravanes disparues...}
+{223}{}{Merci, revenons à nos marchands.}
+{224}{}{Tu racontes n'importe quoi !}
+{225}{}{Merci, mais faut que je m'en aille.}
+{226}{}{Excuse, mais t'as le jugement bien hâtif... c'est la vérité qui te gêne ?}
+{227}{}{Il y a six représentants : deux pour chaque principal groupe de marchands. Pour la moindre décision, il leur faut toujours au moins quatre votes, jamais ils arrivent à s'entendre.}
+{228}{}{Pas bête, mais ça m'étonnerait fort. Ca fait des années qu'ils se tirent dans les pattes. Mais ça, c'est pas leur style, ils dépenseraient pas tant d'argent pour voler les caravanes. Sans compter qu'elles sont bien gardées. Quelqu'un réussirait à s'échapper. Ils ont pas les moyens, ni en hommes ni en argent, pour un coup pareil. Il y aurait au moins un survivant.}
+{229}{}{Pourquoi les Marchands du Lointain seraient-ils plus touchés que les autres ?}
+{230}{}{Encore une question sur les caravanes disparues...}
+{231}{}{Merci, revenons à nos marchands.}
+{232}{}{Merci, mais faut que je m'en aille.}
+{233}{}{Malchance ? Ou peut-être qu'ils suivent pas les mêmes itinéraires que les autres. Peut-être parce qu'ils sont pas aussi bien gardés que la Caravane Ecarlate ou... qu'ils ont un meilleur chargement que les Marchands d'Eau. Qui sait. On voit pas trop la différence entre les trois.}
+{234}{}{Peut-être que les Marchands d'Eau mentent ou qu'ils ont manigancé ça pour que tu les croies.}
+{235}{}{Encore une question sur les caravanes disparues...}
+{236}{}{Merci, revenons à nos marchands.}
+{237}{}{Ca t'arrive donc jamais d'arrêter de parler !}
+{238}{}{Merci, mais faut que je m'en aille.}
+{239}{}{Excuse-moi ! Personne te retient. Si la réponse te gêne, fallait pas demander.}
+{240}{}{Le Griffemort est la pire chose qui soit née des cendres de la guerre. Certains disent que c'est un puissant fantôme de la guerre qui hante le pays. Mais ce n'est pas plus fantôme que toi et moi. Six mètres de haut, avec des dents aussi grosses que ton bras. Une espèce de démon qu'a profité de la guerre pour s'introduire ici.}
+{241}{}{Euh, je regrette ma question.}
+{242}{}{Tu délires ! Je devrais mettre fin à tes maux illico presto.}
+{243}{}{Tu sais autre chose sur le Griffemort ?}
+{244}{}{Waouh ! Tu sais où il est ?}
+{245}{}{Ben, je connais ce vieux mutant dans la Vieille Ville, Harold. Il l'a vu. Il est le "seul" à l'avoir vu et à être encore en vie.}
+{246}{}{Le seul qui l'ait vu et qui soit en vie ?}
+{247}{}{Certes, et moi je suis le papa du Griffemort !}
+{248}{}{Certes, et moi je suis la maman du Griffemort !}
+{249}{}{Encore une question sur les caravanes disparues...}
+{250}{}{Merci, revenons à nos marchands.}
+{251}{}{Je vais jeter un oeil. A un de ces quatre.}
+{252}{}{Y'a aussi l'Oncle Slappy, dans la Vieille Ville, qui en parle des fois. Mais c'est un vieux gâteux.}
+{253}{}{Encore une question sur les caravanes disparues...}
+{254}{}{Merci, revenons à nos marchands.}
+{255}{}{Merci. Je vais jeter un oeil. Au revoir.}
+{256}{}{Tu verras !}
+{257}{}{Ouais, plutôt étonnant, non ? C'est quelque part au Sud-Ouest. Y'a un vieux mutant dans la Vieille Ville, Harold, qui a vu de ses yeux vu cette chose dans son repaire. Le Skag le plus sympa que je connaisse.}
+{258}{}{Encore une question sur les caravanes disparues...}
+{259}{}{Merci, revenons à nos marchands.}
+{260}{}{Merci. Je vais jeter un oeil. Au revoir.}
+{261}{}{La Confrérie de l'Acier, une bande de fous qui vénèrent la technologie. Ils sont un peu plus au Nord-Ouest. Il font des sacrifices humains et toutes sortes de choses horribles.}
+{262}{}{C'est absurde ! Qui t'a raconté ça ?}
+{263}{}{Encore une question sur les caravanes disparues...}
+{264}{}{Merci, revenons à nos marchands.}
+{265}{}{C'est horrible ! Merci de me prévenir. Au revoir.}
+{266}{}{Hmm, j'ai oublié. Mais en tout cas, il ou elle était pas du genre à mentir... Bref, ça pourrait être vrai ! Méfie-toi tout de même.}
+{267}{}{Encore une question sur les caravanes disparues...}
+{268}{}{Bon, revenons à nos marchands.}
+{269}{}{Imbécile !}
+{270}{}{Eh, t'as vu l'heure, faut que je parte ! A un de ces quatre.}
+{271}{}{Quoi, t'es pas au courant ? [tout bas] Il paraît qu'ils font des sacrifices humains et toutes sortes de choses horribles !}
+{272}{}{Oui, c'est vrai. Où est le mal ?}
+{273}{}{En tant que MEMBRE de la Confrérie, je peux te JURER qu'il ne se passe RIEN de tel !}
+{274}{}{Ah bon ? J'y ai fait un tour. C'est vrai qu'ils ont l'air étranges, mais tout de même !}
+{275}{}{Ah bon ? J'aurais pas cru.}
+{276}{}{Comme si t'en savais rien ! T'en fais partie, c'est évident, à te promener comme ça en combinaison métallique. Vous êtes tous une bande de désaxés.}
+{277}{}{Je sais pas où tu veux en venir, mais je peux te jurer qu'il n'y a pas de "désaxés" à la Confrérie.}
+{278}{}{Ouais, c'est vrai. On l'est tous, non ?}
+{279}{}{J'aurais pas cru.}
+{280}{}{S'il vous plaît, monsieur. Posez votre arme.}
+{281}{}{S'il vous plaît, madame. Posez votre arme.}
+{282}{}{Pardon, mais je ne t'aiderai que quand t'auras posé ton arme. C'est une boutique ici, pas un champ de tir.}
+{283}{}{Euh... enfin, hmm... Tu... Je... Tu voulais autre chose ?}
+{284}{}{On ne sait jamais ce que font les gens, derrière les portes closes. Surveille tes fréquentations. Tu voulais autre chose ?}
+{285}{}{Tu es... ? Je veux dire. Je voulais pas... hum... Belle journée, n'est-ce pas ? Euh, autre chose pour ton service ?}
+{286}{}{Encore une question sur les caravanes disparues...}
+{287}{}{Merci, revenons à nos marchands.}
+{288}{}{Non, c'est tout. Salut.}
+{289}{}{Certainement, c'est comme tu l'entends. Autre chose pour ton service ?}
+{290}{}{Parfait ! Attends, je vais te montrer ce que j'ai.}
+{291}{}{J'ai les meilleures marchandises de la région. Qu'est-ce que tu cherches ?}
+{292}{}{Ah, ça fait plaisir à entendre. Qu'est-ce qu'il te faut ?}
+{293}{}{Venons-en aux faits.}
+{294}{}{Si t'as de l'argent, tu m'intéresses.}
+{295}{}{Un client comme je les adore !}
+{296}{}{Tu veux acheter quelque chose ? Peut-être que je me suis trompée sur ton compte.}
+{297}{}{Oh, exact. Tu travailles pour Butch, ça te fait 15% de réduction.}
+{298}{}{Je te fais quand même une remise de 15%, parce tu m'es sympathique.}
+{299}{}{Désolée, plus de remise.}
+{300}{}{Montre ce que t'as.}
+{301}{}{T'as quelque chose d'intéressant ?}
+{302}{}{Bon, voyons ça.}
+{303}{}{Bien sûr.}
+{304}{}{Qu'est-ce que t'as à me proposer aujourd'hui ?}
+{305}{}{Magnifique ! J'ai jamais trop de marchandise.}
+{306}{}{Je me ferai un plaisir de voir ce que t'as.}
+{307}{}{Essaie pas de m'arnaquer.}
+{308}{}{Si tu me vends quelque chose, je veux de la qualité.}
+{309}{}{Attention, me fais pas perdre mon temps.}
+{310}{}{J'espère cette fois que t'as quelque chose qui m'intéresse.}
+{311}{}{Ah, re-bonjour. Qu'est-ce qui me vaut le plaisir par une si belle journée ?}
+{312}{}{Tiens, bonjour ! Ca fait plaisir de te revoir. Qu'y a-t-il pour ton service ?}
+{313}{}{Ah, si seulement je pouvais prendre un jour de congé, il fait tellement beau !}
+{314}{}{Tiens, re-bonjour ! On est sur son trente et un, aujourd'hui !}
+{315}{}{Déjà de retour ?}
+{316}{}{Tu viens juste de partir. Je te manque déjà ?}
+{317}{}{T'as déjà besoin de quelque chose ?}
+{318}{}{Alors, tu te fais rare ! Qu'est-ce qu'il te faut aujourd'hui ?}
+{319}{}{Eh bien ! Ca fait longtemps ! J'espère que tu vas bien.}
+{320}{}{Eh bien ! Toujours en vie ! Qu'est-ce qu'il te faut aujourd'hui ?}
+{321}{}{Te voilà. Ca fait plus d'une semaine depuis ta dernière visite. Faut pas te volatiliser, tu sais bien que c'est pas tous les jours que j'ai des clients comme toi !}
+{322}{}{Ah oui ?}
+{323}{}{Quoi ?}
+{324}{}{T'es ici pour acheter ou quoi ?}
+{325}{}{T'es dans ma boutique, alors pas d'histoires.}
+{326}{}{C'est à quel sujet ?}
+{327}{}{Encore toi ?}
+{328}{}{Le temps, c'est de l'argent ! C'est à quel sujet ?}
+{329}{}{Tu désirais ?}
+{330}{}{T'as entendu ? Il est mort ! Sensationnel ! C'est la meilleure chose qui soit jamais arrivée à cette ville.}
+{331}{}{Je te l'ai déjà dit. Il est mort ! N'en parlons plus, son nom rappelle des mauvais souvenirs.}
+{332}{}{Oh, ouais.}
+{333}{}{Ouais, il le méritait et j'ai pas de remords.}
+{334}{}{Tu l'as fait ? C'est vrai ? Je t'adore ! [Beth jette un coup d'oeil à Sid] N'y pense pas gros malin... Tiens, pour te montrer ma reconnaissance... [Beth te donne six Stimpaks]. C'est pas grand-chose, mais ça me fait tellement plaisir !}
+{335}{}{Tu l'as fait ? C'est vrai ? Tu es magnifique ! Tu peux pas savoir ma joie quand j'ai appris qu'il était mort. Tiens, prends ça... [Beth te donne six Stimpaks]. C'est pas grand-chose, mais ça me fait tellement plaisir !}
+{336}{}{Je regrette, je n'ai rien à ton goût.}
+{337}{}{Tu vois rien qui te plaît ? J'essaierai d'avoir de meilleures marchandises.}
+{338}{}{Je regrette que mon offre te plaise pas, mais faut aussi que je fasse un bénéfice.}
+{339}{}{Finalement, tu veux plus vendre ? Pas de problème.}
+{340}{}{Je regrette de pas pouvoir t'aider. Bonne journée.}
+{341}{}{Peut-être la prochaine fois. Au revoir.}
+{342}{}{J'espère t'être plus utile la prochaine fois.}
+{343}{}{Bon, tu me fais perdre mon temps.}
+{344}{}{Si tu comptes rien acheter, va-t'en, s'il te plaît.}
+{345}{}{Si tu comptes rien acheter, laisse-moi tranquille.}
+{346}{}{Si t'as rien à vendre, va-t'en, s'il te plaît.}
+{347}{}{Viens pas me déranger si t'as rien à vendre.}
+{348}{}{Va t'en, s'il te plaît.}
+{349}{}{Je savais que t'allais encore me faire perdre mon temps.}
+{350}{}{Je m'en doutais que t'avais pas d'argent.}
+{351}{}{Merci pour tout. Pour une fois, je pourrai peut-être rentrer tôt.}
+{352}{}{Tu m'as presque dévalisée !}
+{353}{}{J'espère que tu pourras tout porter !}
+{354}{}{Merci, j'espère arriver à tout vendre !}
+{356}{}{Ca devrait bien se vendre. Merci.}
+{357}{}{Ca, ça me sera utile. Merci.}
+{358}{}{J'espère réussir à ranger tout ça !}
+{359}{}{Eh bien, merci beaucoup ! Je te souhaite une excellente journée !}
+{360}{}{Merci, t'as fait ma journée. Repasse quand tu veux.}
+{361}{}{N'hésite pas à passer... Enfin, pendant les heures d'ouverture.}
+{362}{}{Merci et bonne journée.}
+{363}{}{Au revoir ! Et merci !}
+{364}{}{C'est tout, juste des munitions ? Je suis déçue. Bon, la prochaine fois, faudra voir à dépenser plus !}
+{365}{}{Des stocks de munitions ? Bonne idée. On n'en a jamais trop.}
+{366}{}{Juste l'essentiel, pas vrai ? Au revoir !}
+{367}{}{Ah vrai dire, je pensais que t'allais rien acheter.}
+{368}{}{Merci bien. Finalement, t'es pas si mal.}
+{369}{}{Merci pour les marchandises.}
 {370}{}{Have a nice day.}
-{371}{}{Bye.}
-{372}{}{Thank you.}
-{373}{}{Thanks for the purchases. Have a nice day.}
-{374}{}{I heard that!}
-{375}{}{No kidding.}
-{376}{}{Sid! Stop that!}
-{377}{}{I'll give you a gift if you don't shut up.}
-{378}{}{I heard that! You're fired!}
-{379}{}{Ignore him, I always do.}
-{380}{}{Oh, you're just hilarious, Sid.}
-{381}{}{You wish.}
-{382}{}{Shut up.}
-{383}{}{Hey. Stay put, Sid.}
-{384}{}{I don't think so, slick.}
-{385}{}{I'll make you blue if you don't leave my customers alone.}
-{386}{}{Please excuse my obnoxious- I mean, 'helpful' guard.}
-{387}{}{You're such a knob!}
-{388}{}{Sid!}
-{389}{}{Honey? Where do you come up with these disturbing names?}
-{390}{}{*sigh* I}
-{391}{}{ should lock him up. Don't you think?}
-{392}{}{I think he's jealous!}
-{393}{}{Sid! Don't be rude to the customers!}
-{394}{}{Anyone else you know who might have some information about the Deathclaw?}
-{395}{}{Goodbye.}
-{396}{}{Thanks.}
-{397}{}{Ook.}
-{398}{}{Is there any place in town I should avoid?}
-{399}{}{Oh yes. You ought to stay as far away from the Maltese Falcon as you possibly can. Decker and his greasy lapdog Kane are bad news. They'll eat you alive if you're not careful. I'd also give Lorenzo, at the Friendly Lending Company, a wide berth.}
+{371}{}{Ciao.}
+{372}{}{Merci.}
+{373}{}{Merci pour les achats, bonne journée.}
+{374}{}{J'ai entendu !}
+{375}{}{Sans blague !}
+{376}{}{Sid ! Arrête !}
+{377}{}{Tu vas m'entendre si tu te tais pas.}
+{378}{}{J'ai entendu ! T'es viré !}
+{379}{}{Fais pas attention à lui.}
+{380}{}{Oh, t'es vraiment tordant Sid.}
+{381}{}{C'est ça !}
+{382}{}{La ferme !}
+{383}{}{Eh. Du calme Sid.}
+{384}{}{Ca m'étonnerait !}
+{385}{}{Tu vas le regretter si tu laisses pas mes clients tranquilles.}
+{386}{}{Excusez mon "abominable" assistant.}
+{387}{}{Quel abruti !}
+{388}{}{Sid !}
+{389}{}{Mon coeur ? Où est-ce que tu vas pêcher tous ces vilains noms ?}
+{390}{}{[Beth soupire] Je...}
+{391}{}{ devrais l'enfermer. Tu penses pas ?}
+{392}{}{Je crois qu'il est jaloux !}
+{393}{}{Sid ! Sois pas grossier avec les clients !}
+{394}{}{Tu vois personne d'autre qu'aurait des informations sur le Griffemort ?}
+{395}{}{Au revoir.}
+{396}{}{Merci.}
+{397}{}{Ok.}
+{398}{}{Est-ce qu'il y a des endroits à éviter en ville ?}
+{399}{}{Oh oui. Evite surtout le Faucon Maltais. Vaut mieux pas rencontrer Decker et son chien galeux de Kane. Ils te boufferont tout cru si tu fais pas gaffe. A ta place, je m'éloignerais aussi de Lorenzo, des Amis Prêteurs.}

@@ -1,1 +1,1 @@
-{100}{}{You see: Nightkin Sergeant.}
+{100}{}{Voici un Sergent Ténébreux.}

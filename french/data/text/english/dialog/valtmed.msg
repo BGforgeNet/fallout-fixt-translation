@@ -1,1 +1,1 @@
-{100}{}{This is the Vault Emergency Medical Lab - EML. It is here so that all serious injuries and ailments might be treated. There should be a medic on duty 24 hours a day.}
+{100}{}{Voici le Laboratoire Médical d'Urgences de l'Abri, le LMU. C'est ici qu'on traite les blessés et les malades les plus atteints. Il devrait y avoir un médecin de garde 24 heures sur 24.}

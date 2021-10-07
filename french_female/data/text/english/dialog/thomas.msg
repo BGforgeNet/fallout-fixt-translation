@@ -1,62 +1,62 @@
-{100}{}{You see: Brother Thomas.}
-{101}{}{Okay children. Today we will be going over some martial arts.}
-{102}{}{In close combat the technique you use depends on your opponent's size, reach, and quickness.}
-{103}{}{If given the opportunity test your opponent.}
-{104}{}{Don't rush the attack.}
-{105}{}{All right my little one, try to hurt poor old gramps.}
+{100}{}{Voici Frère Thomas.}
+{101}{}{Bien, les enfants. Aujourd'hui, nous allons étudier quelques arts martiaux.}
+{102}{}{Au combat rapproché, la technique que vous utilisez dépend de la taille de votre adversaire, de sa portée et de sa rapidité.}
+{103}{}{Si tu le peux, teste ton adversaire.}
+{104}{}{Pas de précipitation.}
+{105}{}{Très bien, mon petit, essaie un peu.}
 {106}{}{Ah!}
-{107}{}{Uhh.}
-{108}{}{Well that's all for now, so let's review.}
-{109}{}{You see how he lost his balance?}
-{110}{}{Overextending yourself leaves you open for a counter attack.}
-{111}{}{When you attack be sure not to overextend.}
-{112}{}{Why is overextending so bad?}
-{113}{}{If you have the opportunity for a kill, shouldn't you go for it?}
-{114}{}{That's a lot to risk your life over.}
-{115}{}{Overextending leaves your inside vulnerable to a counter attack and puts you off balance.}
-{116}{}{One little shove will land you right on your ass.}
-{117}{}{Okay, let's give another young punk a try at gramps.}
-{118}{}{Let's see if you've learned from the previous example.}
-{119}{}{Not bad, that last move almost got me.}
-{120}{}{Are you sure you want to be a Scribe, Initiate?}
-{121}{}{Those talents would be a shame to waste.}
-{122}{}{We'll just keep you in reserve. Okay?}
-{123}{}{I'm just fooling with ya.}
-{124}{}{You may want to reconsider a career as a Knight.}
-{125}{}{Just think about it.}
-{126}{}{Thank you Brother Thomas.}
-{127}{}{I hope you all noticed how Brother Anthony did not overextend himself.}
-{128}{}{He also tried to use my weight and bulkiness against me.}
-{129}{}{Martial arts have their good and bad sides.}
-{130}{}{We will be learning many different styles to better understand their strengths and weaknesses.}
-{131}{}{Okay. Show me what you've got.}
-{132}{}{Very good. You lasted much longer than I thought you would.}
-{133}{}{You can go back to the line.}
-{134}{}{Well, I hope you kids were able to catch what was going on.}
-{135}{}{He's a natural fighter.}
-{136}{}{Let's have one more.}
-{137}{}{Pay close attention...}
-{138}{}{and remember to always punch through your targets.}
-{139}{}{Pretend your target is a few inches beyond were the impact is going to be.}
-{140}{}{Um, Brother Thomas?}
-{141}{}{Yes, my little piece of clay.}
-{142}{}{Shouldn't we do that for kicking too?}
-{143}{}{Of, course.}
-{144}{}{Very good. I think we'll let you live.}
-{145}{}{Just kidding, try to smile once in a while.}
-{146}{}{This isn't a life and death situation.}
-{147}{}{There'll be plenty of time for that later on.}
-{200}{}{Not bad.}
-{201}{}{That was pretty good.}
-{202}{}{Okay, you're learning.}
-{203}{}{Stay focused.}
-{204}{}{Keep your eyes on me.}
-{205}{}{Don't overextend.}
-{206}{}{Never look away from your opponent.}
-{207}{}{Work on your blocks.}
-{208}{}{Keep your center of gravity low.}
-{209}{}{Excellent!}
-{210}{}{Perfect form.}
-{211}{}{I'm impressed.}
-{300}{}{You earn 500 experience from watching the combat training. You feel like you've learned a few things!}
-{400}{}{Thomas ignores you.}
+{107}{}{Euh.}
+{108}{}{Très bien, c'est tout pour le moment. Révisons maintenant.}
+{109}{}{Vous voyez comment il a perdu son équilibre ?}
+{110}{}{Si tu t'étires trop, tu t'exposes à une contre-attaque.}
+{111}{}{Lorsque tu attaques, veille à ne pas trop t'étirer.}
+{112}{}{Pourquoi ne faut-il pas trop s'étirer ?}
+{113}{}{Si tu as l'occasion de tuer, pourquoi n'en profites-tu pas ?}
+{114}{}{C'est beaucoup pour y risquer ta vie.}
+{115}{}{Si tu t'étires trop, tu t'exposes à une contre-attaque et tu peux perdre l'équilibre.}
+{116}{}{Un petit coup te mettrait par terre.}
+{117}{}{Bon, essaie encore, on va voir.}
+{118}{}{Voyons voir si tu as assimilé le dernier exemple.}
+{119}{}{Pas mal, tu as presque réussi.}
+{120}{}{Veux-tu vraiment devenir un Scribe Initié ?}
+{121}{}{Ce serait dommage de gaspiller de tels talents.}
+{122}{}{Nous allons te garder sous le coude. D'accord ?}
+{123}{}{Je te fais juste marcher.}
+{124}{}{Tu peux envisager de faire carrière en tant que Chevalier.}
+{125}{}{Tâche d'y réfléchir.}
+{126}{}{Merci Frère Thomas.}
+{127}{}{J'espère que vous avez tous remarqué que Frère Anthony ne s'est pas trop étiré.}
+{128}{}{Il a également essayé d'utiliser mon poids à mes dépends.}
+{129}{}{Les arts martiaux ont leurs avantages et leurs inconvénients.}
+{130}{}{Nous allons étudier différents styles pour comprendre leurs avantages et leurs inconvénients.}
+{131}{}{Ok. Montre-moi ce dont tu es capable.}
+{132}{}{Très bien. Tu t'en es mieux sorti que je ne le pensais.}
+{133}{}{Tu peux regagner le rang.}
+{134}{}{Eh bien, j'espère, les enfants, que vous avez réussi à voir ce qui s'est passé.}
+{135}{}{C'est un combattant naturellement doué.}
+{136}{}{Essayons encore.}
+{137}{}{Regardez bien...}
+{138}{}{et n'oubliez pas de toujours frapper vos cibles.}
+{139}{}{Considérez que votre cible se trouve à quelques centimètres au-delà du point d'impact.}
+{140}{}{Hum, Frère Thomas ?}
+{141}{}{Oui.}
+{142}{}{Ne devons-nous pas procéder ainsi pour donner des coups de pied ?}
+{143}{}{Bien sûr.}
+{144}{}{Très bien. Je crois que nous te laisserons vivre.}
+{145}{}{Je plaisantais... essaie de sourire de temps en temps !}
+{146}{}{Ce n'est pas une question de vie ou de mort.}
+{147}{}{Nous aurons suffisamment de temps pour cela plus tard.}
+{200}{}{Pas mal.}
+{201}{}{C'était pas mal du tout.}
+{202}{}{Bien, tu apprends.}
+{203}{}{Ne te déconcentre pas.}
+{204}{}{Ne me quitte pas des yeux.}
+{205}{}{Ne t'étire pas trop.}
+{206}{}{Tu ne dois pas quitter ton adversaire des yeux.}
+{207}{}{Travaille tes blocages.}
+{208}{}{Maintiens ton centre de gravité le plus bas possible.}
+{209}{}{Parfait !}
+{210}{}{Parfait !}
+{211}{}{Tu m'impressionnes.}
+{300}{}{points d'expérience pour avoir assisté à l'entraînement.}
+{400}{}{Thomas t'ignores.}

@@ -1,34 +1,34 @@
-{100}{}{You see: Rick, a guard.}
-{101}{}{Whadda' ya' want?}
-{102}{}{Da... um...}
-{103}{}{Excuse me. Could I ask you a few questions?}
-{104}{}{Your head on a stick!}
-{105}{}{Never mind.}
-{106}{}{Get back over to the Eastside, you hop head!}
-{107}{}{Wha?}
-{108}{}{I go.}
-{109}{}{Make it quick; I'm not supposed to be talking on the job.}
-{110}{}{Where am I?}
-{111}{}{What's your job?}
-{112}{}{Sorry to bother you. Bye.}
-{113}{}{You'd better watch your step and your mouth, punk!}
-{114}{}{NO! You'd better watch it! I'm gonna' put a bullet in your head!}
-{115}{}{You're not worth my time.}
-{116}{}{If you don't know, you probably shouldn't be here. This is the Heights. Mister Hightower lives here and he only sees people on appointment.}
-{117}{}{What's your job?}
-{118}{}{Can I set up an appointment with Mr. Hightower?}
-{119}{}{Thanks for your time.}
-{120}{}{I'm here to make sure nobody messes with Mr. Hightower.}
-{121}{}{Well, I'm actually interested in killing Mr. Hightower. It's time to earn your pay!}
-{122}{}{Where am I?}
-{123}{}{Thanks for your time. Bye.}
-{124}{}{No.}
-{125}{}{I don't like your attitude. You'd better leave.}
-{126}{}{All right. I'm going.}
-{127}{}{Make me, you damn long-haired freak!}
-{128}{}{After sundown, nobody is allowed in this area. The other guards won't even give you a warning. If they catch you, they'll attack. You'd better get back downtown while your head is still attached to your neck.}
-{129}{}{oK. I gO.}
-{130}{}{no. I stAy.}
-{131}{}{I'm not going anywhere.}
-{132}{}{Sorry, I'll be on my way.}
-{133}{}{Man, you're rock-stupid, aren't you? Take a hike!}
+{100}{}{Voici Rick, un garde.}
+{101}{}{Qu'est-ce tu veux ?}
+{102}{}{De heu... Hmm...}
+{103}{}{Excuse-moi. Je peux te poser quelques questions ?}
+{104}{}{Et puis quoi encore !}
+{105}{}{Qu'importe.}
+{106}{}{Retourne à l'Est, crevure !}
+{107}{}{Quoi ?}
+{108}{}{J'y vais.}
+{109}{}{Accouche. Je ne suis pas censé discuter pendant le boulot.}
+{110}{}{On est où, ici ?}
+{111}{}{C'est quoi ton boulot ?}
+{112}{}{Je ne voulais pas te déranger. Salut.}
+{113}{}{Fais gaffe et boucle-la, crapule !}
+{114}{}{NON ! Tu ferais mieux de faire gaffe ! Je vais te trouer la peau !}
+{115}{}{J'ai autre chose à faire.}
+{116}{}{Au cas où tu l'ignorerais, tu n'as certainement rien à faire ici. Ici, c'est ce qu'on appelle les Hauteurs. Monsieur Hightower habite ici et ne reçoit que sur rendez-vous.}
+{117}{}{C'est quoi ton boulot ?}
+{118}{}{Est-ce que je peux convenir d'un rendez-vous avec M. Hightower ?}
+{119}{}{Merci pour la patience.}
+{120}{}{Je fais en sorte que personne ne dérange M. Hightower.}
+{121}{}{En fait, j'aimerais bien faire la peau à ce cher Hightower. Il est temps de mériter ton salaire !}
+{122}{}{On est où, ici ?}
+{123}{}{Merci de ta patience. Salut.}
+{124}{}{Non.}
+{125}{}{Ta tête ne me revient pas. Tu ferais mieux de foutre le camp.}
+{126}{}{C'est bon. Je m'en vais.}
+{127}{}{Va te faire foutre, espèce de déjanté !}
+{128}{}{Après le coucher du soleil, la zone est bouclée. Les autres gardes ne prendront même pas la peine de t'avertir. S'ils te surprennent, ils attaqueront. Retourne en ville tant que ta tête se trouve encore sur tes épaules.}
+{129}{}{oK. J'Y vAis.}
+{130}{}{Non. Je reSte.}
+{131}{}{Je ne vais nulle part.}
+{132}{}{Je ne fais que passer.}
+{133}{}{Mince, tu es bête comme un manche ! Va faire un tour plus loin !}

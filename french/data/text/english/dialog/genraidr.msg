@@ -1,44 +1,44 @@
-{100}{}{The raider is too frightened of Garl to speak to you any more.}
-{101}{}{You see a tough desert raider.}
-{102}{}{It's the Death-Hand. He's returned!}
-{103}{}{Excuse me, Death-Hand. I'm sorry to disturb you.}
-{104}{}{Have you come back to kill your son?}
-{105}{}{Aiyeee! A ghost!}
-{106}{}{The dead walk again! The Death-Hand has returned!}
-{107}{}{Well met.}
-{108}{}{Hi.}
-{109}{}{I'm waiting for Garl to crush Shady Sands. I want some loot.}
-{110}{}{Welcome, friend.}
-{111}{}{I'm glad that you could return for a visit.}
-{112}{}{Unless you want trouble, you'd better put that away.}
-{113}{}{Do you want to party? If not, put your weapon away.}
-{114}{}{Oh, a tough one, huh?}
-{115}{}{Garl Death-Hand loves his warriors. Put that thing away and go talk to him.}
-{116}{}{So, you think you're tough, huh? Mess with me and we'll both find out.}
-{117}{}{I don't like your look.}
-{118}{}{Go away!}
-{119}{}{What do you want?}
-{120}{}{I'm looking for a woman named Tandi. Seen her?}
-{121}{}{Nothing. Just looking around.}
-{122}{}{Huh?}
-{123}{}{Oh. You must be looking for a job. Go and see Garl in the big room and leave us alone.}
-{124}{}{Then do it elsewhere.}
-{125}{}{Nah, I ain't seen her. Why are you asking?}
-{126}{}{Nothing. Just looking for a friend of mine.}
-{127}{}{There is a bounty on her head. If I can kill her, I can get some good cash.}
-{128}{}{You're lying. Where is she?}
-{129}{}{Ah, okay.}
-{130}{}{Really? What does she look like?}
-{131}{}{About 6 feet tall. Blonde. She's from Shady Sands.}
-{132}{}{Yeah, she's here. She's in the big house. You know, if we tell Garl, then he would want a piece of the bounty. You might want to think about that.}
-{133}{}{You don't sound like you mean it. I think that you are up to something. And if you are telling the truth, then I'll bag the reward for myself.}
-{134}{}{I... I can't say any more, or Garl will kill me.}
-{135}{}{Bite me!}
-{136}{}{I don't like your look. You'd better get away from me.}
-{137}{}{What? Go away!}
-{200}{}{He looks to be seasoned by combat and accustomed to the harsh life of the wastes.}
-{201}{}{His body language says more than his expression. Both aren't very nice.}
-{202}{}{He sneers at you and tightens the grip on his weapon.}
-{203}{}{She looks to be seasoned by combat and accustomed to the harsh life of the wastes.}
-{204}{}{You get the feeling that "lady" would not be an appropriate word for this woman.}
-{205}{}{She makes a lewd gesture with her hips and winks at you.}
+{100}{}{Le Pillard a trop peur de Garl pour continuer à te parler.}
+{101}{}{Voici un Pillard du désert costaud.}
+{102}{}{C'est Mainmorte. Il est revenu !}
+{103}{}{Excuse-moi, Mainmorte. Pardon de te déranger.}
+{104}{}{T'es revenu pour tuer ton fils ?}
+{105}{}{Aouhhhh ! Un fantôme !}
+{106}{}{V'là les morts qui reviennent ! Mainmorte est de retour !}
+{107}{}{Charmante rencontre.}
+{108}{}{Salut.}
+{109}{}{J'attends que Garl écrase les Sables Ombragés. Je veux ma part du gâteau.}
+{110}{}{Bienvenue l'ami.}
+{111}{}{Ca fait plaisir d'avoir ta visite.}
+{112}{}{Si tu veux pas d'ennuis, tu ferais mieux de ranger ça.}
+{113}{}{Tu veux faire mumuse ? Si non, range ton joujou.}
+{114}{}{Alors, on joue les gros bras, hein ?}
+{115}{}{Garl Mainmorte adore ses guerriers. Range ça et va lui parler.}
+{116}{}{Alors, tu joues les gros bras, hein ? Cherche-moi un peu et on va voir ça.}
+{117}{}{J'aime pas ta tronche.}
+{118}{}{Va-t'en !}
+{119}{}{Qu'est-ce que tu veux ?}
+{120}{}{Je cherche une femme nommée Tandi. Tu l'as vue ?}
+{121}{}{Rien. Je jetais juste un coup d'oeil.}
+{122}{}{Hein ?}
+{123}{}{Oh, si tu cherches un emploi, va voir Garl dans la grande salle et fous-nous la paix.}
+{124}{}{Alors, fais ça ailleurs.}
+{125}{}{Non. Pas vue. Pourquoi tu demandes ça ?}
+{126}{}{Rien. Je cherche juste une amie à moi.}
+{127}{}{Y'a une prime pour sa tête. Si je la tue, à moi les pépètes.}
+{128}{}{Tu mens. Où est-elle ?}
+{129}{}{Ah, d'accord.}
+{130}{}{Vraiment ? A quoi elle ressemble ?}
+{131}{}{Environ 1 mètre 80. Brune. Elle est originaire des Sables Ombragés.}
+{132}{}{Ouais. Elle est ici. Dans la grande barraque. Tu sais, si on en cause à Garl, il voudra sa part de la prime. Réfléchis.}
+{133}{}{T'as pas l'air de croire à ce que tu dis. A mon avis, tu mijotes quelque chose. Et si tu dis vrai, c'est moi qu'empocherai la récompense.}
+{134}{}{Je... Je peux pas en dire plus, sinon Garl me tuera.}
+{135}{}{Rien à cirer !}
+{136}{}{J'aime pas ta tronche. Tu ferais mieux te tirer.}
+{137}{}{Quoi ? Barre-toi !}
+{200}{}{Il semble particulièrement aguerri et entrainé à survivre dans les terres.}
+{201}{}{Son langage corporel en dis plus que son expression, bien que les deux ne semblent guère amicaux.}
+{202}{}{Il se moque de toi et serre la poignée de son arme.}
+{203}{}{Elle semble particulièrement aguerrie et entrainée à survivre dans les terres.}
+{204}{}{Tu te dit que "dame" n'est pas vraiment l'expression la plus appropriée pour cette femme.}
+{205}{}{Elle fait un geste obscène avec sa langue et t'adresse un clin d’œil.}

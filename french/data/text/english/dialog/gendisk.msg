@@ -1,8 +1,8 @@
-{100}{}{You see: Holodisk.}
-{101}{}{Pip-Boy 2000 displays: "Downloading data ... ... ... Done. Have a nice day!"}
-{102}{}{This seems to have been a disk with some type of entertainment upon it.}
-{103}{}{The disk has been damaged too horribly to allow you to read anything on it.}
-{104}{}{This disk seems to talk about some passcode on another disk.}
-{105}{}{You see a small display appear and show the remnants of some World War II movie.}
-{106}{}{The disk is empty.}
-{107}{}{You discard the disk.}
+{100}{}{Voici un Holodisque.}
+{101}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
+{102}{}{Ce disque semble avoir contenu des jeux vidéo.}
+{103}{}{Le disque est trop endommagé pour te permettre d'y lire quoi que ce soit.}
+{104}{}{Ce disque semble mentionner un code d'accès pour autre disque.}
+{105}{}{Sur un petit écran apparaissent les vestiges d'un film sur la Seconde Guerre mondiale.}
+{106}{}{Ce disque semble vide.}
+{107}{}{Tu jettes ce disque inutile.}

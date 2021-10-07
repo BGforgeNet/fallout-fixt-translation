@@ -1,17 +1,17 @@
-{100}{}{You see a citizen of Vault 13.}
-{101}{}{We didn't think that you were coming back. You have such a nice room, and we were a little crowded with her parents. I hope you don't mind.}
-{102}{}{Yes, I do mind. Get out of my room!}
-{103}{}{Nah, I don't care. Enjoy the room.}
-{104}{}{It would be reassuring to have my own quarters back. Please find somewhere else to live.}
-{105}{}{Hng.}
-{106}{}{Look, I don't want to argue with you, but you obviously don't deserve this room anymore. Please leave.}
-{107}{}{Look, we could really use the space. I hope you will reconsider.}
-{108}{}{Well, let me think about it for a moment. Hmmm. No. Get out!}
-{109}{}{Well, okay. You need it more than I do.}
-{110}{}{Thanks! We really appreciate it. We put your stuff in the trunk.}
-{111}{}{Well, I don't know. You don't seem to be using it very often, and we sure could use the space.}
-{112}{}{Fine. Take it.}
-{113}{}{I need this place to remember my roots. And besides, it's a good place to rest.}
-{114}{}{Gee, I didn't think you would still care about this place from what I've heard. You have a good day. We'll go back to her mothers' place.}
-{115}{}{We really like it here.}
-{116}{}{You should leave. This isn't your place here anymore.}
+{100}{}{Voici un citoyen de l'Abri 13.}
+{101}{}{Nous pensions que tu ne reviendrais pas. Ta chambre est jolie et nous étions un peu à l'étroit chez ses parents. J'espère que ça ne te dérange pas.}
+{102}{}{Si, ça me dérange. Sortez de ma chambre !}
+{103}{}{Non, ça ne me dérange pas. Mettez-vous à l'aise.}
+{104}{}{Ca me rassurerait de retrouver ma chambre. Je vous demande de trouver une autre habitation.}
+{105}{}{Grr.}
+{106}{}{Ecoute, je ne veux pas me disputer avec toi, mais il est évident que tu ne mérites plus cette chambre. Va t'en, s'il te plaît.}
+{107}{}{Ecoute, nous pourrions utiliser cet espace. J'espère que tu changeras d'avis.}
+{108}{}{Eh bien, laisse-moi y réfléchir un peu. Hmmmm... Non. Dehors !}
+{109}{}{Eh bien, c'est d'accord. Vous en avez plus besoin que moi.}
+{110}{}{Merci ! Nous apprécions ton geste. Nous allons mettre tes affaires de côté.}
+{111}{}{Eh bien, je ne sais pas. Il me semble que tu n'y es pas très souvent et nous pourrions utiliser l'espace.}
+{112}{}{Bien. Prenez-la.}
+{113}{}{J'ai besoin de cette chambre pour retrouver mes racines. Et en plus, c'est un endroit idéal pour se reposer.}
+{114}{}{Ca alors, je ne pensais pas que tu voudrais encore de cette chambre après tout ce que j'ai entendu. Nous allons retourner chez sa mère. Bonne journée.}
+{115}{}{Nous aimons beaucoup cette chambre.}
+{116}{}{Tu dois partir. Ce n'est plus ta chambre.}

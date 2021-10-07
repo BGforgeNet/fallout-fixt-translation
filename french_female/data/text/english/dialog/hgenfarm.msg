@@ -1,15 +1,15 @@
-{100}{}{You see a farmer.}
-{101}{}{I need better soil.}
-{102}{}{I'm not hiring.}
-{103}{}{I don't need more water. Please leave.}
-{104}{}{This soil is too hard.}
-{105}{}{These stupid plants aren't going to survive.}
-{106}{}{Why did I become a farmer?}
-{107}{}{Those mutts better not be pissing on my crops.}
-{108}{}{I hate dogs!}
-{109}{}{I hate dogs! Uh, except yours.}
-{110}{}{This isn't your home.}
-{111}{}{What? Do you go around bothering everyone?}
-{112}{}{What a day. I'm exhausted.}
-{113}{}{I'll call the police.}
-{114}{}{I'm tired. Please leave.}
+{100}{}{Voici un fermier.}
+{101}{}{J'ai besoin d'une meilleure terre.}
+{102}{}{Je n'embauche personne.}
+{103}{}{Je n'ai plus besoin d'arroser, va-t'en.}
+{104}{}{Cette terre est trop dure.}
+{105}{}{Ces saloperies de plantes ne vont pas survivre.}
+{106}{}{Quelle idée que d'être fermier !}
+{107}{}{Ces sales clébards, ils ont pas intérêt à pisser sur mes récoltes.}
+{108}{}{Je n'peux pas saquer les chiens !}
+{109}{}{Je n'peux pas saquer les chiens ! Euh, sauf les tiens.}
+{110}{}{T'es pas chez toi ici.}
+{111}{}{Quoi ? Tu comptes emmerder tout le monde ?}
+{112}{}{Quelle journée, j'en peux plus.}
+{113}{}{Je vais appeler la police.}
+{114}{}{Faut que je souffle. Allez, va-t'en s'te plaît.}

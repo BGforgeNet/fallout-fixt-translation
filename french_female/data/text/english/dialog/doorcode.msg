@@ -1,2 +1,2 @@
-{100}{}{Although this tape is damaged beyond use, there is some writing scratched on the plastic: KODE 010597}
-{101}{}{You see a holodisk in very poor condition.}
+{100}{}{Cette bande est hors d'usage, mais quelque chose est griffonné sur l'étiquette : KODE 010597}
+{101}{}{Tu vois un holodisque qui est dans un sale état. .}

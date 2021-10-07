@@ -1,24 +1,24 @@
-{100}{}{This isn't right at all.}
-{101}{}{There we go.}
-{102}{}{The firing mechanism keeps jamming.}
-{103}{}{That's much better.}
-{104}{}{Almost got it.}
-{105}{}{This is going to take a while.}
-{106}{}{That's the problem!}
-{107}{}{John, I think I isolated the problem.}
+{100}{}{Ca ne va pas du tout.}
+{101}{}{Allons-y.}
+{102}{}{Le mécanisme de mise à feu n'arrête pas de se bloquer.}
+{103}{}{C'est beaucoup mieux.}
+{104}{}{Presque.}
+{105}{}{Ca va prendre un certain temps.}
+{106}{}{Voilà d'où vient le problème !}
+{107}{}{John, je crois que j'ai trouvé d'où vient le problème.}
 {108}{}{Damn!}
-{109}{}{Darn!}
-{110}{}{My fault!}
-{111}{}{I'm okay.}
-{112}{}{Okay, that hurt.}
-{113}{}{I meant to do that.}
-{114}{}{Why does that keep happening?}
+{109}{}{Merde !}
+{110}{}{C'est de ma faute !}
+{111}{}{Je vais bien.}
+{112}{}{Ca fait mal.}
+{113}{}{C'est ce que je voulais.}
+{114}{}{Mais pourquoi ça se produit tout le temps ?}
 {115}{}{My eyes!}
-{116}{}{You're not a Knight.}
-{117}{}{I need to talk to a Knight.}
-{118}{}{I don't understand, the power cells keep shorting out.}
-{119}{}{You should stand back, these can be dangerous.}
-{120}{}{Please don't distract me.}
-{121}{}{Watch where you're standing.}
-{122}{}{You lost?}
-{123}{}{Sorry, I can't talk right now.}
+{116}{}{Tu n'es pas un chevalier.}
+{117}{}{Je dois parler à un chevalier.}
+{118}{}{Je ne comprends pas, les cellules n'arrêtent pas de se décharger.}
+{119}{}{Tu devrais reculer, ça pourrait être dangereux.}
+{120}{}{Ne me dérange pas, s'il te plaît.}
+{121}{}{Regarde où tu mets les pieds.}
+{122}{}{Tu cherches ton chemin ?}
+{123}{}{Excuse-moi, je ne peux pas parler pour l'instant.}

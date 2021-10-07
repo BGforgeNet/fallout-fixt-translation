@@ -1,45 +1,45 @@
-{100}{}{You see: Amber, a teacher for the Followers.}
-{101}{}{Now is when I rest. Please, come back during the evening.}
-{102}{}{Welcome noble traveler. Have you come here to study?}
-{103}{}{No. I really came here just to kill things.}
-{104}{}{Depends on what you want to teach me.}
-{105}{}{Yes, I am willing to learn.}
-{106}{}{I am truly sorry to hear that. The Followers believe in peace at all costs. For that reason, I have renounced violence. Good evening.}
-{107}{}{I am skilled in many of the languages and arts. Perhaps you would like to learn one of those?}
-{108}{}{I'm sorry, but I need to know things which will help me survive.}
-{109}{}{I have no time for that type of stuff. I'm gone.}
-{110}{}{Perhaps I can listen to a song or two.}
-{111}{}{Can you teach me anything else?}
-{112}{}{Ah, we have here a student of life. In a case like this, I can teach you some herbalism, but training takes a while for little result.}
-{113}{}{Fine, just teach me.}
-{114}{}{Please, teach me what you can.}
-{115}{}{Sorry, I really don't have time for plants. Goodbye.}
-{116}{}{You need not be rude. Apologize now, or I won't teach you.}
-{117}{}{I am sorry. Will you please teach me?}
-{118}{}{Forget it.}
-{119}{}{That is better now. We will begin your studies.}
-{120}{}{You are an apt learner. May your trials be light. Go in peace.}
-{121}{}{As you see fit. May the future soften your heart and broaden your mind.}
-{122}{}{Very well, I will teach you the ways to survive.}
-{123}{}{You are an apt learner. May your trials be light. Go in peace.}
-{124}{}{You do not convince me. I think you seek to use my gifts for ill. Good evening.}
-{125}{}{Ah, a student of the arts is a rare thing in this world. Perhaps there is hope for you yet. Each song is long in time. Which would you like to hear?}
-{126}{}{In the Wake of the Shadow.}
-{127}{}{The Ballad of Aires.}
-{128}{}{In Remembrance of Artemis.}
-{129}{}{The Rising of Dawn's Chariot.}
-{130}{}{An astonishing piece of work. I shall grant you an audience.}
-{131}{}{I must rest. This teaching drains much from me. Good luck to you.}
-{132}{}{An astonishing piece of work. I shall grant you an audience.}
-{133}{}{I must rest. This teaching drains much from me. Good luck to you.}
-{134}{}{An astonishing piece of work. I shall grant you an audience.}
-{135}{}{I must rest. This teaching drains much from me. Good luck to you.}
-{136}{}{An astonishing piece of work. I shall grant you an audience.}
-{137}{}{I must rest. This teaching drains much from me. Good luck to you.}
-{138}{}{I fear I have spent myself far too much. I am sorry.}
-{139}{}{Peace and Beauty are all I can teach. I am sorry that those are not appealing to you. Good day.}
-{140}{}{I can teach you the ways of the old bards and minstrels.}
-{141}{}{I would be honored to hear a song.}
-{142}{}{Perhaps another time. Thank you.}
-{143}{}{I was hoping to learn something that may help me more.}
-{144}{}{You have no need of my talents. You have taught peaceful people the ways of war. I mourn for them now.}
+{100}{}{Tu vois Amber, une enseignante des Disciples.}
+{101}{}{Je me repose en ce moment. Reviens dans la soirée s'il te plaît.}
+{102}{}{Bienvenu noble voyageur. Es-tu venu ici pour étudier ?}
+{103}{}{Non. Je suis venu ici juste pour tuer des choses.}
+{104}{}{Ca dépend de ce que tu veux m'enseigner.}
+{105}{}{Oui, je suis prêt à apprendre.}
+{106}{}{Je suis vraiment désolée d'entendre cela. Les Disciples croient en la paix à tout prix. Pour cette raison, j'ai renoncé à la violence. Bonsoir.}
+{107}{}{Je suis qualifiée dans de nombreuses langues et dans les arts. Peut-être souhaites-tu progresser dans un de ces domaines ?}
+{108}{}{Je suis désolé, mais j'ai besoin de connaître des choses qui vont m'aider à survivre.}
+{109}{}{Je n'ai pas le temps pour ce genre de choses. Je file.}
+{110}{}{Je peux peut-être écouter une chanson ou deux.}
+{111}{}{Peux-tu m'apprendre quelque chose ?}
+{112}{}{Ah, nous avons ici un élève de la vie. Dans un cas comme ça, je peux t'enseigner quelques trucs en herboristerie, mais la formation prend du temps pour peu de résultats.}
+{113}{}{Bien, apprends-moi.}
+{114}{}{S'il te plaît, apprends-moi ce que tu peux.}
+{115}{}{Désolé, je n'ai pas de temps à consacrer aux plantes. Au revoir.}
+{116}{}{Tu n'as pas besoin d'être impoli. Excuse-toi maintenant, ou tu n'apprendras rien de moi.}
+{117}{}{Je suis désolé. Veux-tu s'il te plaît m'enseigner ?}
+{118}{}{Oublie ça.}
+{119}{}{C'est mieux maintenant. Nous allons commencer tes études.}
+{120}{}{Tu es un excellent étudiant. Que tes épreuves soient claires. Va en paix.}
+{121}{}{Comme tu le souhaites. Que le futur adoucisse ton cœur et élargisse ton esprit.}
+{122}{}{Très bien, je vais t'enseigner les moyens de survivre.}
+{123}{}{Tu es un excellent étudiant. Que tes épreuves soient claires. Va en paix.}
+{124}{}{Tu ne m'as pas convaincue. Je crois plutôt que tu cherches à utiliser mes dons à de mauvaises fins. Bonsoir.}
+{125}{}{Ah, un étudiant en art est une chose rare dans ce monde. Peut-être y'a t'il quand même un espoir pour toi. Chaque chanson dure assez longtemps. Laquelle veux-tu entendre ?}
+{126}{}{Dans le sillage de l'Ombre.}
+{127}{}{La ballade d'Aires.}
+{128}{}{En souvenir d'Artémis.}
+{129}{}{L'élévation du char de l'aube.}
+{130}{}{Une étonnante et remarquable personne. Je vais t'accorder une audience.}
+{131}{}{Je dois me reposer. Cet enseignement m'a épuisée. Bonne chance.}
+{132}{}{Une étonnante et remarquable personne. Je vais t'accorder une audience.}
+{133}{}{Je dois me reposer. Cet enseignement m'a épuisée. Bonne chance.}
+{134}{}{Une étonnante et remarquable personne. Je vais t'accorder une audience.}
+{135}{}{Je dois me reposer. Cet enseignement m'a épuisée. Bonne chance.}
+{136}{}{Une étonnante et remarquable personne. Je vais t'accorder une audience.}
+{137}{}{Je dois me reposer. Cet enseignement m'a épuisée. Bonne chance.}
+{138}{}{Je crains d'avoir moi-même dépensé beaucoup trop de temps. Je suis désolée.}
+{139}{}{Paix et beauté sont tout ce que je peux enseigner. Je suis désolée que cela ne t'attire pas. Bonne journée.}
+{140}{}{Je peux t'enseigner les voix des vieux bardes et des ménestrels.}
+{141}{}{Ce sera un honneur pour moi d'entendre une chanson.}
+{142}{}{Peut-être une autre fois. Merci.}
+{143}{}{J'espérais apprendre quelque chose de plus utile.}
+{144}{}{Tu n'as pas besoin de mes talents. Tu as enseigné à un peuple pacifique les voies de la guerre. Je pleure pour eux maintenant.}

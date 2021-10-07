@@ -1,3 +1,3 @@
 {100}{}{It's broken. What a bummer.}
-{101}{}{You find some old bottle caps in the tray!}
-{102}{}{The advertising on the side of this machine promotes their popular soda.}
+{101}{}{Tu trouves quelques vieilles capsules.}
+{102}{}{La publicité sur le côté de la machine vante un soda à la mode.}

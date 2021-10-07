@@ -1,22 +1,22 @@
-{100}{}{You see a Crypt.}
-{101}{}{You see a gang member.}
-{102}{}{Welcome to the gang, man.}
-{103}{}{We Crypts will bury those Fools.}
-{104}{}{I'm glad you're on on our side.}
-{105}{}{With your help, we can kill them Fools.}
-{106}{}{This town is all ours now.}
-{107}{}{I like your style.}
-{108}{}{You gotta get yourself some leather. You a Crypt now.}
-{109}{}{We don't want your kind around here, Fool.}
-{110}{}{Get out, before we throw you out.}
-{111}{}{If you start any trouble, the whole Crypt will come down on you.}
-{112}{}{You made the wrong choice. Now you gonna be buried.}
-{113}{}{What are you doing here?}
-{114}{}{Scrapheap belongs to us.}
-{115}{}{In Scrapheap, if you ain't with us, you're either a loser or a Fool. What are you?}
-{116}{}{You talking to me? Are you talking to me?}
-{117}{}{This ain't no game, man. You either a Crypt or you gonna be buried.}
-{118}{}{Only Crypts got the right to wear leathers.}
-{119}{}{Run, Fools, while you still have a chance to live.}
-{120}{}{Hey, Rayze, hunting season just opened, and Fools are on the list of dumb animals.}
-{121}{}{Hey guys, leave a Fool for me to kill.}
+{100}{}{Tu vois un Crypt.}
+{101}{}{Voici le membre d'une bande.}
+{102}{}{Bienvenue dans la bande, mec.}
+{103}{}{Les Crypts vont enterrer les Fools.}
+{104}{}{Je suis content que tu sois parmi nous.}
+{105}{}{Avec ton aide, on va tuer les Fools.}
+{106}{}{Cette ville est complètement à nous, maintenant.}
+{107}{}{J'aime ton style.}
+{108}{}{Va falloir t'habiller en cuir. T'es un Crypt maintenant.}
+{109}{}{On veut pas de ton espèce ici, Fool.}
+{110}{}{Dégage avant qu'on te foute dehors.}
+{111}{}{Si tu cause des problèmes, Tout les Crypts vont te tomber dessus.}
+{112}{}{Tu as fais le mauvais choix. Maintenant, tu vas te faire enterrer.}
+{113}{}{Que fais-tu ici ?}
+{114}{}{Scrapheap nous appartient.}
+{115}{}{À Scrapheap, si tu n'es pas avec nous, tu es sois un loser soit un Fool. T'es quoi ?}
+{116}{}{c'est à moi que tu parle ? C'est à moi que tu parle !?}
+{117}{}{C'est pas un jeu, mec. T'es sois un Crypt, soit bon pour la tombe.}
+{118}{}{Seuls les Crypts ont le droit de s'habiller en cuir.}
+{119}{}{Courrez, Fools, tant que vous avez encore une chance de survivre.}
+{120}{}{Hey, Rayze, la saison de la chasse vient de commencer, et les Fools sont dans la liste des animaux stupides.}
+{121}{}{Hey les gars ! Laissez-moi un Fool à tuer.}

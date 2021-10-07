@@ -1,84 +1,84 @@
 {100}{}{[Plus]}
-{101}{}{[Done]}
-{102}{}{Shithead! You get hurt again, you stupid bastard?!}
-{103}{}{Shithead! You get hurt again, you stupid bitch?!}
-{105}{}{Asshole! Don't you listen to the messages of peace?!}
-{106}{}{Hey, I was just trying to help the cause!}
-{107}{}{I want to ask a few questions.}
-{108}{}{Just fix me up, okay, doc?}
-{109}{}{Your bedside manner sucks.}
-{110}{}{Doc, I need a drink, bad! Got any rubbing alcohol?}
-{111}{}{You keep it up, and you'll need a doctor.}
-{112}{}{Ow! Oooo! Hnnh!}
-{113}{}{What do you want?! Will you assholes never learn? I'm tired of using my talents on losers. Shoot straight next time! Don't let them shoot you.}
-{114}{}{I was outnumbered!}
-{115}{}{What are you, a doctor of assholes?}
-{116}{}{Maybe I'll use YOU for target practice.}
-{117}{}{Incompetent son of a bitch! You need healing AGAIN! I hope they kill you next time!}
-{118}{}{Thanks for the moral support, doc.}
-{119}{}{I hope they get you, too...}
-{120}{}{If they do, you'll go down first.}
-{121}{}{What is your problem, asshole? Maybe I put you to sleep, shithead!}
-{122}{}{Do you put a lot of people to sleep, doc?}
-{123}{}{You'd better not try it.}
-{124}{}{I snooze, you lose, asshole!}
-{125}{}{The Cause is not helped by morons! Why are you bothering me? I'm a very busy doctor, asshole! You need me or not?}
-{126}{}{What's keeping you busy?}
-{127}{}{Sure, doc.}
-{128}{}{Not right now.}
-{129}{}{What's your diagnosis, doc?}
-{130}{}{I am not a library! You go outside for answers! Get out now!}
-{131}{}{Fine! It's always patch you up! Fix you up! Asshole!}
-{132}{}{I hear they say very bad things about you...}
-{133}{}{The enemies of the Master will stop at nothing to discredit the Faithful.}
-{134}{}{You swore an oath, doctor. Do your job.}
-{135}{}{Forget it. I can't trust you.}
-{136}{}{Heal me or die, doctor!}
-{137}{}{This should do it...}
-{138}{}{Owww!!}
-{139}{}{Ha ha ha!}
-{140}{}{You screamed like a woman! Ha ha ha!}
-{141}{}{Bitch shouldn't play in a man's world! Ha ha ha!}
-{142}{}{Go to hell! You wanna get fixed or you just wanna be an asshole?}
-{143}{}{You loser! Why don't you just crawl out into the Glow and lick puddles? Stupid drunken addict asshole!}
-{144}{}{And maybe you need a doctor one day and the doctor won't be there. Psycho asshole! You wanna get fixed? Maybe I do something about shit in your brains, too!}
-{145}{}{Fine. Do it and shut up!}
-{146}{}{Go to hell.}
-{147}{}{Shut up and gimme a diagnosis.}
-{148}{}{You stupid jackass! You're too stupid to feel pain. You remind me of a lower lifeform!}
-{149}{}{I hear you as crazy as you are stupid!}
-{150}{}{Ha ha! You really are stupid! I just gave you a lethal poison! Ha ha ha!}
-{151}{}{This will hurt a lot!}
-{152}{}{Aaaaagh!}
-{153}{}{You screamed like a castrated pig! Ha ha ha!}
-{154}{}{You are an idiot! Quality, not quantity! You think the Nightkin care when they're outnumbered? Go cry to your mother, you little baby! Now, do you want to get better or not?}
-{155}{}{Be quiet or I'll take out your vocal cords! Debark you like dog! Ha ha ha! Now you wanna get well or not?}
-{156}{}{I'm a doctor, not a cheerleader! You need healing or not?}
-{157}{}{I'm shaking, asshole! Now, you wanna get well or not?}
-{158}{}{Do it. Just don't screw with me!}
-{159}{}{Damn straight I do. There's gotta be a real doctor around this place.}
-{160}{}{Just take a look and see what's busted first.}
-{161}{}{Nightkin prefer to do that. I give them drugs sometimes. Nobody pays attention to Doctor Wu. They're all assholes! Now, you wanna get fixed up?}
-{162}{}{Patch it, doc!}
-{163}{}{If the Nightkin don't trust you, neither do I. I'm outta here.}
-{164}{}{Idiot! Cathedral very busy! Unity keeps Doctor Wu very busy! Now, you wanna get fixed up?}
-{165}{}{Now comes the fun part!}
-{166}{}{This should do it...}
-{167}{}{What a dork! I've heard less screaming from children! Ha ha ha!}
-{168}{}{I made the bitch scream! Ha ha ha!}
-{169}{}{Asshole! Shithead! I'm very busy, and you have to bother me! Screw you! Get out of here, you puke! Now!}
-{170}{}{You are healthy as a brahma, but not as bright! Get out of here, you hypochondriac asshole!}
-{171}{}{You have some wounds. I can fix that, dickhead, if you stay very still!}
-{172}{}{You treat your body like shit. You must be a real idiot. I could put you out of your misery, or I could fix you up.}
-{173}{}{Not right now.}
-{174}{}{Fine. But I hope I perform an autopsy on you by the end of the day!}
-{175}{}{Ow! You little...}
-{176}{}{Now get out of here, and don't come back!}
-{177}{}{Fine, I heal you!}
-{178}{}{That should fix you up real good!}
-{179}{}{Then leave, asshole! I'll be laughing at your corpse real soon.}
-{180}{}{You little asshole! Who do you think you are to bother Doctor Wu? Stupid shithead!}
-{181}{}{You have some wounds. I can fix that, dickhead, if you stay very still!}
-{182}{}{Five broken bones at least, and you've lost a lot of blood. Being an idiot is hazardous to your health! You want to get fixed?}
-{183}{}{Depends on the definition of 'fix'. You can treat me, doc.}
-{184}{}{Me go.}
+{101}{}{[Terminé]}
+{102}{}{Pauvre con ! Tu t'es encore fait esquinter !}
+{103}{}{Pauvre conne ! Tu t'es encore fait esquinter !}
+{105}{}{Imbécile ! Tu n'sais donc pas écouter les messages de paix !}
+{106}{}{Eh, j'essayais juste d'aider la cause !}
+{107}{}{J'ai quelques questions à poser.}
+{108}{}{Bon, tu m'arranges ça, d'accord toubib ?}
+{109}{}{Tes manières de garde-malade me disent rien.}
+{110}{}{Toubib, je crève de soif ! T'as pas un petit remontant ?}
+{111}{}{Si tu continues comme ça, t'auras besoin d'un médecin.}
+{112}{}{Ouh, là, là !}
+{113}{}{Qu'est-ce que tu veux ?! J'en ai marre de perdre mon temps avec des andouilles. La prochaine fois, vise mieux ! Leur laisse pas le temps de tirer.}
+{114}{}{Ils étaient trop nombreux !}
+{115}{}{C'est quoi qu't'es, un toubib bidon ?}
+{116}{}{Peut-êtr' bien que j'vais m'entraîner sur toi.}
+{117}{}{Faut ENCORE te réparer, enflure ! J'espère qu'ils t'auront la prochaine fois !}
+{118}{}{Merci de ce soutien moral, toubib.}
+{119}{}{J'espère bien qu'ils t'crèveront aussi...}
+{120}{}{Dans ce cas, c'est toi qui partiras l'premier.}
+{121}{}{C'est quoi ton problème, tête de piaf ? Je vais peut-être bien t'endormir !}
+{122}{}{Ca t'arrive souvent d'endormir les gens, toubib ?}
+{123}{}{A ta place, j'essaierais pas.}
+{124}{}{Si j'm'endors, c'est ta mort, toubib de mes deux !}
+{125}{}{La Cause, elle a pas besoin de débiles ! Qu'est-ce que tu me veux ? J'ai pas que ça à faire ! T'as besoin de moi, oui ou non ?}
+{126}{}{Qu'est-ce donc que t'as à faire ?}
+{127}{}{Oui.}
+{128}{}{Pas tout de suite.}
+{129}{}{Ton diagnostic, toubib ?}
+{130}{}{Je suis pas une bibliothèque ! Pour les réponses, c'est dehors ! File !}
+{131}{}{Faut toujours te soigner ou te réparer ! Imbécile !}
+{132}{}{On dit des vilaines choses sur toi...}
+{133}{}{Les ennemis du Maître ne reculent devant rien pour discréditer les Fidèles.}
+{134}{}{T'as prêté serment, toubib. Alors, fais ton boulot.}
+{135}{}{Laisse tomber. J'te fais pas confiance.}
+{136}{}{Tu me soignes ou tu crèves, toubib !}
+{137}{}{Ca devrait faire l'affaire...}
+{138}{}{Ouahouh !!}
+{139}{}{Ha ha ha !}
+{140}{}{Alors, on crie comme une gonzesse ! Ha ha ha !}
+{141}{}{Les gonzesses devraient pas se mêler des affaires de mecs ! Ha ha ha !}
+{142}{}{Va te faire foutre ! Tu veux te faire soigner ou t'es là pour faire l'imbécile ?}
+{143}{}{Andouille ! Tu ferais mieux d'aller ramper dans le Rayon et de lécher les flaques !}
+{144}{}{Peut-être qu'un jour, t'auras besoin d'un médecin et y'en aura pas. Débile ! Tu veux te faire soigner ? Il faudrait aussi t'arranger les méninges !}
+{145}{}{Parfait. Vas-y et ferme-la !}
+{146}{}{Va te faire foutre !}
+{147}{}{Ferme-la et annonce le diagnostic.}
+{148}{}{Tu sais que jacter ! Même pas assez de cervelle pour sentir la douleur. Un vrai légume !}
+{149}{}{Je vois que t'as pas grand-chose dans le citron !}
+{150}{}{Ha ha ! T'es vraiment débile ! Je viens de te filer un poison mortel ! Ha ha ha !}
+{151}{}{Ca va faire mal !}
+{152}{}{Aaaaargh !}
+{153}{}{Tu cries comme un cochon qu'on égorge ! Ha ha ha !}
+{154}{}{Imbécile ! C'est la qualité qui compte, pas la quantité ! Tu crois que ça les dérange, les Ténébreux, de se battre à un contre mille ? Va chialer dans les jupons de ta mère, mauviette ! Bon, tu veux guérir, oui ou non ?}
+{155}{}{Tu te tais ou je t'arrache les cordes vocales ! Comme ça, t'arrêteras de japper pour rien ! Ha ha ha ! Alors, tu veux t'en tirer, oui ou non ?}
+{156}{}{Je suis médecin, pas bon samaritain ! T'as envie de guérir, oui ou non ?}
+{157}{}{J'ai la tremblote, imbécile ! Bon, tu veux t'en tirer, oui ou non ?}
+{158}{}{Vas-y. Mais joue pas au malin avec moi !}
+{159}{}{Un peu que j'veux. Y doit bien y avoir un vrai toubib dans le coin.}
+{160}{}{Vois d'abord un peu c'qu'est cassé là-d'dans.}
+{161}{}{C'est ce que les Ténébreux préfèrent. Je leur donne parfois des stimulants. Personne écoute le Docteur Wu. Tous des nullards ! Bon, tu veux que j'm'occupe de toi ?}
+{162}{}{Vas-y, répare, toubib !}
+{163}{}{Si les Ténébreux t'font pas confiance, moi non plus. J'me tire.}
+{164}{}{Imbécile ! La Cathédrale, c'est du boulot ! L'Unité, c'est beaucoup de boulot pour Docteur Wu ! Bon, tu veux que j'm'occupe de toi ?}
+{165}{}{C'est maintenant qu'on va se marrer !}
+{166}{}{Ca devrait faire l'affaire...}
+{167}{}{Quelle andouille ! J'en ai pourtant entendu des marmots brailler ! Ha ha ha !}
+{168}{}{Je l'ai fait brailler, l'emmerdeuse ! Ha ha ha !}
+{169}{}{Imbécile ! Occupé comme je suis et toi, là, à m'emmerder ! Allez, barre-toi, crapule !}
+{170}{}{T'as la bonne mine des brahmines, mais pas leur jugeote ! Barre-toi, espèce d'hypocondriaque !}
+{171}{}{T'as reçu quelques gnons. Je peux arranger ça, débile, si tu te tiens tranquille !}
+{172}{}{Ca respecte même pas son corps. Faut vraiment être con. Je peux t'enlever toutes tes misères ou te faire ton affaire.}
+{173}{}{Pas tout de suite.}
+{174}{}{Parfait. Mais j'espère bien faire ton autopsie avant ce soir !}
+{175}{}{Oh ! Saleté de...}
+{176}{}{Maintenant, barre-toi et ne reviens pas !}
+{177}{}{Parfait, je vais te soigner !}
+{178}{}{Ca devrait te faire vraiment du bien !}
+{179}{}{Alors, file, andouille ! J'irai bientôt cracher sur ton cadavre.}
+{180}{}{Petite saleté ! Pour qui tu te prends, à venir déranger le Dr Wu ? Pauvre cloche !}
+{181}{}{T'as reçu quelques gnons. Je peux arranger ça, débile, si tu te tiens tranquille !}
+{182}{}{Au moins cinq os de cassés et t'as perdu plein de sang. Etre con, c'est pas bon pour ta santé ! Tu veux que je t'arrange ?}
+{183}{}{Ca dépend de ce que t'entends par 'arranger'. Vas-y, toubib.}
+{184}{}{Moi partir.}

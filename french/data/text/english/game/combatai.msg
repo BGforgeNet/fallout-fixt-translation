@@ -637,7 +637,7 @@
 {2101}{}{Mercy! Mercy!}
 {2102}{}{Please stop!}
 {2103}{}{Help!}
-{2104}{}{Go away!}
+{2104}{}{Va-t'en !}
 {2105}{}{I gotta stop mixing it up}
 {2106}{}{Can't we settle this?}
 {2107}{}{Do we really have to do this?}
@@ -967,7 +967,7 @@
 {2647}{}{Damn, that hurts!}
 {2648}{}{Motherfucking cocksucker! Shit! FUCK!}
 {2649}{}{Oh, dammit!}
-{2650}{}{You bastard!}
+{2650}{}{T'es qu'un batard !}
 {2651}{}{You didn't show me yours first!}
 {2700}{}{This battle is unnecessary. Battle!}
 {2701}{}{I shall be avenged!}
@@ -2048,7 +2048,7 @@
 {4459}{}{}
 {4460}{}{So that's the way you want to play it}
 {4461}{}{}
-{4500}{}{I'm outta here!}
+{4500}{}{Je m'en vais !}
 {4501}{}{}
 {4502}{}{}
 {4503}{}{You ain't won!}
@@ -2358,7 +2358,7 @@
 {4959}{}{}
 {4960}{}{Urp!}
 {4961}{}{}
-{5000}{}{I'm outta here!}
+{5000}{}{Je m'en vais !}
 {5001}{}{}
 {5002}{}{Aaaaahhhh!}
 {5003}{}{}
@@ -2730,7 +2730,7 @@
 {5559}{}{Why you attack me there?}
 {5560}{}{I will hurt you for many hours}
 {5561}{}{That was the final affront!}
-{5600}{}{I'm outta here!}
+{5600}{}{Je m'en vais !}
 {5601}{}{Have mercy!}
 {5602}{}{Please stop!}
 {5603}{}{Help!}
@@ -2808,7 +2808,7 @@
 {5713}{}{How do you like this?}
 {5714}{}{This is what we do to vermin!}
 {5715}{}{This is for you!}
-{5716}{}{Goodbye!}
+{5716}{}{Au revoir !}
 {5717}{}{}
 {5718}{}{Troublemaking scum!}
 {5719}{}{}
@@ -2916,7 +2916,7 @@
 {5859}{}{}
 {5860}{}{}
 {5861}{}{Damn, that hurts!}
-{5900}{}{I'm outta here!}
+{5900}{}{Je m'en vais !}
 {5901}{}{Bye!}
 {5902}{}{Aaaaahhhh!}
 {5903}{}{Later. Maybe.}
@@ -3040,7 +3040,7 @@
 {6059}{}{}
 {6060}{}{The pain, the pain...}
 {6061}{}{Damn, that hurts!}
-{6100}{}{I'm outta here!}
+{6100}{}{Je m'en vais !}
 {6101}{}{Maybe this wasn't a good idea}
 {6102}{}{Attack someone else, okay!}
 {6103}{}{Yikes!}
@@ -3350,7 +3350,7 @@
 {6559}{}{Ooo! You is deader than an albino in the Glow}
 {6560}{}{Urp!}
 {6561}{}{Ow! I'm gonna kill you for that!}
-{6600}{}{I'm outta here!}
+{6600}{}{Je m'en vais !}
 {6601}{}{Have mercy!}
 {6602}{}{Please stop!}
 {6603}{}{Help!}
@@ -3776,7 +3776,7 @@
 {7251}{}{My leg's starting to buckle}
 {7252}{}{Ow...}
 {7253}{}{Aggghh!}
-{7254}{}{You bastard!}
+{7254}{}{T'es qu'un batard !}
 {7255}{}{My eyes!}
 {7256}{}{Kid, people who play games with me wind up dead!}
 {7257}{}{}

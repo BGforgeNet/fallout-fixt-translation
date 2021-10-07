@@ -1,4 +1,4 @@
-{100}{}{You are in your room. Do you want to rest here until tomorrow morning?}
-{101}{}{Yes}
-{102}{}{No}
-{103}{}{You awaken refreshed.}
+{100}{}{[Tu es dans ta chambre. Veux-tu t'y reposer jusqu'à demain matin ?]}
+{101}{}{[Oui]}
+{102}{}{[Non]}
+{103}{}{Tu te réveilles en pleine forme.}

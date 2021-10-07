@@ -1,67 +1,67 @@
-{100}{}{You see a mad scientist. He is working diligently on something.}
-{101}{}{Good evening, Brother. What brings you to our little corner of heaven?}
-{102}{}{Good evening, Sister. What brings you to our little corner of heaven?}
-{103}{}{I'm here to check on your progress.}
-{104}{}{What might you be doing here?}
-{105}{}{What?! You dare question me? How about I experiment on your brain, you twisted skag?!}
-{106}{}{Gack.}
-{107}{}{You, again? And why are you disturbing the Master's glorious future this time?}
-{108}{}{The Master grows impatient with your failures, and I with your impudence!}
-{109}{}{I want to know what's happening with your experiments.}
-{110}{}{That's it, I'm putting an end to YOUR future right here and now, chump!}
-{111}{}{Oofah!}
-{112}{}{It's not going well. I've been injecting the FEV directly into the pineal gland, but I'm not getting the results I'd hoped for.}
-{113}{}{Why don't you try injecting it directly into the Amygdala?}
-{114}{}{Why don't you try injecting it into the Medula?}
-{115}{}{What results are you getting?}
-{116}{}{Hmmm. And?}
-{117}{}{I beg your forgiveness, sir. How may I be of service?}
-{118}{}{I beg your forgiveness, ma'am. How may I be of service?}
-{119}{}{You can speak to me with respect next time, or you'll never speak to anyone again!}
-{120}{}{The Master's truth is revealed, resulting in increased psychic ability. [shakes his head] But the poor souls become terminally insane and must be sequestered and nullified to keep them from harming themselves or others.}
-{121}{}{Oh, how thoughtful of you...}
-{122}{}{Where are they being kept?}
-{123}{}{You heartless butcher! I think I'll nullify your brain and sequester it from the rest of your body! Die, you bastard!}
-{124}{}{In a room northwest of here. Is there anything else I can help you with?}
-{125}{}{Thank you for your help. Bye.}
-{126}{}{Yeah, uh. What's FEV?}
-{127}{}{You can die!}
-{128}{}{I have no time for your tomfoolery!}
-{129}{}{What an intriguing idea! I must try it at once!}
-{130}{}{Uh, where are you keeping the failed experiments?}
-{131}{}{Don't mention it.}
-{132}{}{Yeah! Let's try it on you!}
-{133}{}{Vincent! Prepare our newest volunteer!}
-{134}{}{What? That's the most ludicrous thing I've ever heard! [looks at you suspiciously] Who are you, really?}
-{135}{}{Oh, sorry. I've got to go now.}
-{136}{}{I'm the new... uh... guy... I've been sent to find out how you are doing.}
-{137}{}{I already told you, I've been sent by the Master to check up on you.}
-{138}{}{I've come to remove your spleen... without anesthetic!}
-{139}{}{Alright, then. So how is it going?}
-{140}{}{Your attitude has told me all I need to know. Goodbye.}
-{141}{}{Ah ha! An interloper! Just as I suspected. Vincent!}
-{142}{}{Who are you? And why are you wearing that suit? [to himself] I haven't seen one of those in a long time.}
-{143}{}{I'm in disguise. Intruders have infiltrated the Master's sanctuary, and I'm dressed like one of them to gain their confidence.}
-{144}{}{How dare you question one of the Master's special operatives!}
-{145}{}{When have you seen a suit like this before?}
-{146}{}{It's extruded rubber, so it's real easy to wipe your blood off after I kill you!}
-{147}{}{Oh, you know, when we got that last batch of pure-strain humans in... I think there is still one in the holding pens. Why do you ask?}
-{148}{}{No reason. How are the experiments going?}
-{149}{}{I've got to report back to the Master. I don't have time for this.}
-{150}{}{[Shakes his head] Alas, the poor souls become terminally insane and must be sequestered and nullified to keep them from harming themselves or others.}
-{151}{}{Oh, how thoughtful of you...}
-{152}{}{You heartless bastard! I think I'll nullify your brain and sequester it from the rest of your body! Die, you bastard!}
-{200}{}{You see: Vincent, a Super Mutant guard. He looks bored.}
-{201}{}{You see a Super Mutant, obviously guarding the scientists. He looks bored}
+{100}{}{Voici un savant fou. Il travaille assidûment sur quelque chose.}
+{101}{}{Bonsoir, mon frère. Qu'est-ce qui t'amène dans notre petit coin de paradis ?}
+{102}{}{Bonsoir, ma soeur. Qu'est-ce qui t'amène dans notre petit coin de paradis ?}
+{103}{}{Je suis là pour contrôler l'avancement de ton travail.}
+{104}{}{Que fais-tu ici ?}
+{105}{}{Quoi ?! Tu oses me questionner ? Que dirais-tu d'une expérience sur ton cerveau, espèce de connard ?!}
+{106}{}{Aack.}
+{107}{}{Encore toi ? Et pourquoi viens-tu déranger l'avenir glorieux du Maître, cette fois ?}
+{108}{}{Le Maître en a assez de tes échecs et moi de ton insolence !}
+{109}{}{Je veux savoir où en sont tes expériences.}
+{110}{}{C'est ça, je vais mettre immédiatement un terme à TON avenir, imbécile !}
+{111}{}{Ouah !}
+{112}{}{Ca ne se passe pas très bien. J'ai injecté le FEV directement dans la glande pinéale, mais je n'ai pas obtenu les résultats que j'espérais.}
+{113}{}{Pourquoi ne l'injectes-tu pas directement dans les amygdales ?}
+{114}{}{Pourquoi n'essaies-tu pas de l'injecter dans la moelle ?}
+{115}{}{Quels sont les résultats de tes expériences ?}
+{116}{}{Hmm. Et alors ?}
+{117}{}{J'implore ton pardon, m'sieur. Que puis-je pour vous ?}
+{118}{}{J'implore ton pardon, m'dame. Que puis-je pour vous ?}
+{119}{}{Parle-moi avec respect la prochaine fois ou tu ne parleras plus jamais à personne !}
+{120}{}{La vérité du Maître s'est révélée exacte. Les facultés psychiques sont accrues. [Il secoue la tête] Mais les pauvres âmes finissent par sombrer dans la folie. Elles doivent être séquestrées et leurs cerveaux anesthésiés pour les protéger d'elles-mêmes et des autres.}
+{121}{}{Oh, comme c'est gentil à toi...}
+{122}{}{Où sont-ils gardés ?}
+{123}{}{Espèce de boucher sans coeur ! Je crois que je vais t'anesthésier le cerveau et le séparer du reste de ton corps ! Crève, salaud !}
+{124}{}{Dans une pièce au Nord-Ouest d'ici. Puis-je faire autre chose pour toi ?}
+{125}{}{Merci de ton aide. Au revoir.}
+{126}{}{Ouais, euh. Qu'est-ce que le FEV ?}
+{127}{}{Tu peux mourir !}
+{128}{}{Je n'ai pas de temps à perdre avec ces bêtises !}
+{129}{}{C'est une idée intéressante ! Il faut que je l'essaie tout de suite !}
+{130}{}{Euh, où conserves-tu les sujets des expériences ratées ?}
+{131}{}{N'en parle pas.}
+{132}{}{Ouais ! Essayons ça sur toi !}
+{133}{}{Vincent ! Prépare notre nouveau volontaire !}
+{134}{}{Quoi ? Je n'ai jamais rien entendu d'aussi ridicule ! [il te regarde avec méfiance] Qui es-tu vraiment ?}
+{135}{}{Oh, pardon. Il faut que je parte.}
+{136}{}{Je viens d'arriver ici... euh... On m'a envoyé voir comment tu allais.}
+{137}{}{Je t'ai déjà dit, le Maître m'envoie enquêter sur toi.}
+{138}{}{Je suis là pour te soulager de ton spleen... sans anesthésie !}
+{139}{}{Très bien. Alors comment ça va ?}
+{140}{}{Ton attitude est suffisamment éloquente. Au revoir.}
+{141}{}{Ah ha ! Un intrus ! C'est bien ce que je craignais. Vincent !}
+{142}{}{Qui es-tu ? Et pourquoi portes-tu ce costume ? [à lui-même] Je n'en avais pas vu depuis longtemps.}
+{143}{}{C'est un déguisement. Les intrus ont infiltré le sanctuaire du Maître et je m'habille comme eux pour gagner leur confiance.}
+{144}{}{Comment oses-tu questionner un agent spécial du Maître !}
+{145}{}{Depuis quand n'avais-tu pas vu ce genre de costume ?}
+{146}{}{C'est du caoutchouc profilé et il me sera donc très facile d'effacer ton sang une fois que je t'aurai tué !}
+{147}{}{Oh, tu sais, pas depuis qu'on a reçu le dernier lot d'humains de pure souche... Je crois qu'il en reste un quelque part dans les cellules. Pourquoi me demandes-tu ça ?}
+{148}{}{Sans raison. Où en sont les expériences ?}
+{149}{}{Je dois faire un rapport au Maître. Je n'ai pas de temps à perdre.}
+{150}{}{[Il secoue la tête] Hélas, les pauvres âmes finissent par sombrer dans la folie. Elles doivent être séquestrées et leurs cerveaux anesthésiés pour les protéger d'elles-mêmes et des autres.}
+{151}{}{Oh, comme c'est gentil à toi...}
+{152}{}{Espèce de salaud sans coeur ! Je crois que je vais t'anesthésier le cerveau et le séparer du reste de ton corps ! Crève, salaud !}
+{200}{}{Voici Vincent, un garde Super Mutant. Il a l'air de s'ennuyer.}
+{201}{}{Voici un Super Mutant qui garde probablement les savants. Il a l'air de s'ennuyer.}
 {202}{}{Intruders!}
-{203}{}{I'm just watching the mads. Don't talk to me.}
-{204}{}{Leave me alone.}
-{300}{}{You see a sleeping mad scientist.}
+{203}{}{Je ne fais qu'observer les fous. Ne me parle pas.}
+{204}{}{Laisse-moi tranquille !}
+{300}{}{Voici un savant fou endormi.}
 {301}{}{Zzzzzz}
-{302}{}{Huh! What? [rubs eyes] Vincent, remove this heathen from our chambers!}
-{303}{}{Huh? [snort] ...zzzzzzzzz}
-{400}{}{You see: Vincent. He is guarding the sleeping mads.}
-{401}{}{You see a Super Mutant guard. He is nearly standing over the prone bodies.}
-{402}{}{Leave them alone, and get out. No one is allowed in here while they are sleeping.}
-{403}{}{You again! I told you to leave the scientists alone!}
-{404}{}{You have overstayed your welcome.}
+{302}{}{Huh ! Quoi ? [il se frotte les yeux] Vincent, chasse cet être profane de nos chambres !}
+{303}{}{Hein ? [grognement] zzzzzzzzz...}
+{400}{}{Voici Vincent. Il garde les fous endormis.}
+{401}{}{Voici un garde Super Mutant. Il surveille les corps étendus.}
+{402}{}{Laisse-moi tranquille et fiche le camp. Personne n'a le droit dêtre ici pendant qu'ils dorment.}
+{403}{}{Encore toi ! Je t'ai déjà dit de laisser les savants tranquilles !}
+{404}{}{Ta présence n'est plus la bienvenue.}

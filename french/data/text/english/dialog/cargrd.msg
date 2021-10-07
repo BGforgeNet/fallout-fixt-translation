@@ -1,41 +1,41 @@
-{100}{}{You see a caravan guard.}
-{101}{}{I can't believe we lost the boss. Do you want to come back with us? We can still pay you the 400 caps.}
-{102}{}{It's a shame we lost the driver; Rutger won't like that one bit. If you want, we can still pay you the same to come back with us to the Hub.}
-{103}{}{You coming back with us? I'll drive this thing. The pay'll be the same.}
-{104}{}{Well, I don't know about you, but I think I'll wait around for another caravan. I don't want to go back alone. If you want to go back I'll go with you, but if I don't make it you won't get paid the 400 caps.}
-{105}{}{That was pretty nasty. If you really want, I can get you another 400 caps if you come back to the Hub with me. It's dangerous for one person.}
-{106}{}{You'll get another 400 caps if you can get me and the caravan back safely to the Hub, but only if I make it. You've got to cover me if we get in a fight.}
-{107}{}{Okay, I'll go with you.}
-{108}{}{No thanks. I've had enough guard duty.}
+{100}{}{Tu vois un garde de la Caravane.}
+{101}{}{Je ne peux pas croire que nous ayons perdu le chef. Veux-tu rentrer avec nous ? Nous pouvons encore te payer 400 caps.}
+{102}{}{Quelle honte que nous ayons perdu le conducteur ! Rutger ne va pas être content. Nous pouvons te payer la même chose si tu rentres avec nous au Centre.}
+{103}{}{Alors, tu nous accompagnes ? Je conduirai cet engin. Le salaire sera le même.}
+{104}{}{Eh bien, je ne sais pas ce que t'en penses mais je crois que je vais attendre la prochaine caravane. Je ne veux pas rentrer seul. Si tu veux rentrer, je t'accompagnerai, mais si j'y reste, tu perds tes 400 caps.}
+{105}{}{C'était plutôt dur ça. Si tu le veux vraiment, je peux te proposer encore 400 caps pour que tu m'accompagnes au Centre. C'est dangereux pour une personne seule.}
+{106}{}{Tu auras 400 caps de plus si tu nous emmènes, moi et la caravane au Centre, mais je dis bien au Centre. Tu devras me couvrir si nous sommes victimes d'une attaque.}
+{107}{}{Ok, je t'accompagne.}
+{108}{}{Non merci. J'en ai marre de jouer au garde.}
 {109}{}{Tuk.}
-{110}{}{Great! Let's get out of here!}
-{111}{}{Okay, I understand.}
-{112}{}{I'll make due.}
-{113}{}{All right.}
-{114}{}{Are you all right?}
-{115}{}{I think you need some rest.}
-{116}{}{Uh, I think you should see the Brotherhood's doctor.}
-{117}{}{We lost the boss. Can you come back with us? We can still pay you the 400 caps.}
-{118}{}{Our driver was a good person... a terrible loss. I can still pay you the 400 caps if you want to come back with us to the Hub.}
-{119}{}{I'll get us back if you want to come with us. The pay'll be the same.}
-{120}{}{Wow, I can't believe we're the only two left. I'll go with you, but if I don't make it you won't get paid the 400 caps.}
-{121}{}{That was pretty nasty. If you really want, I can get you another 400 caps if you come back to the Hub with me. It's too dangerous for one person.}
-{122}{}{You'll get another 400 caps if you can get me and the caravan back safely to the Hub, but only if I make it. You've got to cover me if we get in a fight.}
-{123}{}{So, did you change your mind?}
-{124}{}{Yes, I'll take the job.}
-{125}{}{No.}
-{126}{}{Hra?}
-{127}{}{Sorry, we're not going back to the Hub today.}
-{128}{}{Um, sorry. I don't think we need you for the return trip.}
-{129}{}{Talk to our driver if you want to hire on.}
-{130}{}{Hi there. If you're looking for some work, see our caravan driver.}
-{131}{}{Why, hello.}
-{132}{}{Sorry, can't talk.}
-{133}{}{Coming back to the Hub with us?}
-{134}{}{I love caravan duty; lots of action and caps. Mmmm.}
-{135}{}{The Far Go Traders are great to work for.}
-{136}{}{I like working for the Far Go Traders; they don't take stupid risks.}
-{137}{}{The Crimson Caravan's caravans are the best.}
-{138}{}{The Crimson Caravan pays so well, I'll retire in a year.}
-{139}{}{Talk to the other guard if you want to come back with us.}
-{140}{}{Here're your caps. We could use a hand getting back if you can.}
+{110}{}{Bien ! Quittons ces lieux !}
+{111}{}{Ok, je comprends.}
+{112}{}{Je ferai mon travail.}
+{113}{}{Très bien.}
+{114}{}{Ca va ?}
+{115}{}{Je pense que tu as besoin de repos.}
+{116}{}{Euh, je pense que tu devrais voir le médecin de la Confrérie.}
+{117}{}{Nous avons perdu le chef. Peux-tu rentrer avec nous ? Nous pouvons encore te payer 400 caps.}
+{118}{}{Notre conducteur était un type bien... quelle perte ! Je peux te payer 400 caps si tu veux rentrer avec nous au Centre.}
+{119}{}{Je te conduirai à bon port si tu m'accompagnes. Le salaire sera le même.}
+{120}{}{Ouah, je ne peux pas le croire, il ne reste plus que nous deux. Je vais t'accompagner, mais si je n'y arrive pas, tu n'auras pas tes 400 caps.}
+{121}{}{C'est dur ça. Si tu le veux vraiment, je peux te proposer encore 400 caps pour que tu m'accompagnes au Centre. C'est dangereux pour une personne seule.}
+{122}{}{Tu auras 400 caps de plus si tu nous emmènes, moi et la caravane au Centre, mais je dis bien au Centre. Tu devras me couvrir si nous sommes victimes d'une attaque.}
+{123}{}{Alors, as-tu changé d'avis ?}
+{124}{}{Oui, j'accepte ce travail.}
+{125}{}{Non.}
+{126}{}{Hein ?}
+{127}{}{Excuse-moi, mais nous ne regagnons pas le Centre aujourd'hui.}
+{128}{}{Heu, excuse-moi. Je ne pense pas que nous ayons besoin de toi pour le retour.}
+{129}{}{Parle avec notre conducteur de caravane si tu veux te faire embaucher.}
+{130}{}{Bonjour. Si tu cherches du travail, adresse-toi à notre conducteur de caravanes.}
+{131}{}{Bonjour.}
+{132}{}{Excuse-moi, je ne peux pas parler.}
+{133}{}{Tu reviens au Centre avec nous ?}
+{134}{}{J'aime le travail des caravanes, l'action et les caps.}
+{135}{}{C'est agréable de travailler avec les Marchands du Lointain.}
+{136}{}{J'aime travailler pour les Marchands du Lointain ; ils ne prennent pas de risques inutiles.}
+{137}{}{Les Caravanes Ecarlates sont les meilleures.}
+{138}{}{Les Caravanes Ecarlates paient si bien que je vais pouvoir prendre ma retraite dans un an.}
+{139}{}{Adresse-toi à l'autre garde si tu veux nous accompagner.}
+{140}{}{Voici tes caps. Nous aurons besoin de ton aide pour le retour si tu es d'accord.}

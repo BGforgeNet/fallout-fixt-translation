@@ -1,2 +1,2 @@
-{100}{}{You notice bloody tracks leading to the bodies.}
-{101}{}{It looks like some of the animals dragged the bodies here.}
+{100}{}{Tu remarques des traces de sang menant aux cadavres.}
+{101}{}{On dirait que les animaux ont traîné les cadavres jusque-là.}

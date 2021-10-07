@@ -1,1 +1,1 @@
-{100}{}{There is something odd about one of the east walls.}
+{100}{}{L'un des murs à l'Est semble avoir quelque chose de bizarre.}

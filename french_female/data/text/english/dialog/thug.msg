@@ -1,1 +1,1 @@
-{100}{}{Buzz off!}
+{100}{}{Fous le camp !}

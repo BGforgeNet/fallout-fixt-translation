@@ -1,15 +1,15 @@
-{100}{}{You see: Lex, head of the Vipers raider clan.}
-{101}{}{A huge chap with a bad attitude, glaring at you.}
-{102}{}{[...You steadily wake up and take a look around. You see an unfamiliar place, three tents and several people near them. Looks like you managed to regain consciousness before they could clean your pockets. Your eyes focus on the man standing next to you] Oh, our unfortunate buyer has awaken.}
+{100}{}{Tu vois Lex.}
+{101}{}{Tu vois un loser.}
+{102}{}{[Plus]}
 {103}{}{[Plus]}
-{104}{}{What will it be? You can give us all your caps and we'll let you go. Or we could play fearless cowboys.}
-{105}{}{And what guarantees I leave this place alive if you get the money?}
-{106}{}{I've always loved westerns.}
-{107}{}{Cowboys.}
-{108}{}{The word of the raider!}
-{109}{}{I think I can trust you. Here, take it. [You give him your savings]}
-{110}{}{Those words mean nothing for me.}
-{111}{}{So, a stubborn one? I rather like it. I think the guys will have some fun with you then.}
-{112}{}{If you don't trust the words, you should trust our guns! A wimp like you is not a match for the whole gang!}
-{113}{}{Then again, I'd rather kill you. To be sure that nobody'll chatter too much around. Farewell.}
-{114}{}{Nice guy. A wise decision that. You are free to go now.}
+{104}{}{[Lex murmure.] Sois prudent. Rock ne dit pas toujours la vérité.}
+{105}{}{Pourquoi ça ?}
+{106}{}{Et pourquoi je devrais te faire confiance ?}
+{107}{}{Rock est un membre des Crypts. C'est un gang. Il essaie de mettre les étrangers, comme toi, dans le petrin. Si tu l'écoute, tu vas finir mort et enterré.}
+{108}{}{Qui es-tu ?}
+{109}{}{Merci pour l'info. Bonne journée.}
+{110}{}{Je suis Lex. Scrapheap c'est ma ville, et je pense que je parle au nom de tous les habitants.}
+{111}{}{Qui d'autre dois-je connaître ?}
+{112}{}{Et bien, il y a aussi les Fools. Il dirigeraient Scrapheap, si les Crypts n'étaient pas là. Les deux gangs luttent pour le contrôle de la ville.}
+{113}{}{Qu'est-ce qui te fait dire ça ?}
+{114}{}{Si tu pouvais nous débarrasser de ces gangs, nous en serions reconnaissants. Nous n'avons ni le nombre, ni la puissance, pour les repousser. Si tu es volontaire, on pourrait peut-être s'entraider.}

@@ -1,7 +1,7 @@
-{100}{}{You notice and manage to avoid a monofilament wire strung across the corridor.}
-{101}{}{You feel intense pain in your legs. You've been sliced wide open by a monofilament wire.}
-{102}{}{It severely damages your right leg.}
-{103}{}{It severely damages your left leg.}
-{104}{}{You disarm the monofilament wire trap and safely dispose of the wire before you slice your hands open.}
-{105}{}{You try to disarm the wire, but can't get a good handle on it. You pull back before it cuts you.}
-{106}{}{You try to disarm the wire, but slip and cut yourself with it.}
+{100}{}{Tu remarques et parviens à éviter un fil monofilament tendu dans le couloir.}
+{101}{}{Tu ressens une douleur intense dans tes jambes. Tu as été coupé en deux par un fil monofilament.}
+{102}{}{Il endommage sévèrement ta jambe droite.}
+{103}{}{Il endommage sévèrement ta jambe gauche.}
+{104}{}{Tu désarmes le piège à fil monofilament et tu te débarrasses du fil en toute sécurité avant de te couper les mains.}
+{105}{}{Tu essayes de désarmer le fil, mais tu n'arrives pas à le maîtriser. Tu te retires avant qu'il ne te coupe.}
+{106}{}{Tu essayes de désarmer le fil, mais tu glisses et tu te coupes avec.}

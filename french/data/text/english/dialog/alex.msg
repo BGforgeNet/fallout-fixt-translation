@@ -1,15 +1,15 @@
-{100}{}{You see: Alex, the night watch Regulator.}
-{101}{}{Come on in, }
-{102}{}{Sorry, I can't let you in. Come back in the morning.}
-{103}{}{Halt! Who goes there?}
-{104}{}{I'm just a traveler. I'd like to come inside.}
+{100}{}{Voici Alex, le garde des Régulateurs.}
+{101}{}{Viens à l'intérieur, }
+{102}{}{Désolé, je peux pas te laisser entrer. Reviens dans la matinée.}
+{103}{}{Stop ! Qui va là ?}
+{104}{}{Je suis juste un voyageur. J'aimerais entrer.}
 {105}{}{None of your business.}
-{106}{}{Um, sorry. I'll leave.}
-{107}{}{No strangers are allowed within the walls of Adytum, by order of the mayor.}
-{108}{}{I just need a place to sleep for the night.}
-{109}{}{I'm sorry, but I can't let you in. Turn around and leave or I'll have to shoot.}
-{110}{}{Look, it is my duty and my honor to serve as the night watch for Adytum, so it is my business. You turn around and leave, or I'll have to get serious.}
-{111}{}{Get out of my face, John Law.}
-{112}{}{Try coming back in the morning.}
-{113}{}{Oh, that's it. Now the gloves are off!}
-{114}{}{Nghgh.}
+{106}{}{Hum, désolé. Je m'en vais.}
+{107}{}{Aucun étranger n'est autorisé à l'intérieur de l'enceinte du Sanctuaire, par ordre du maire.}
+{108}{}{Je n'ai besoin que d'un endroit pour dormir cette nuit.}
+{109}{}{Désolé, mais je peux pas te laisser entrer. Fais demi-tour et pars, ou je serai obligé d'ouvrir le feu.}
+{110}{}{Ecoute, c'est mon devoir et un honneur de servir à la garde de nuit du Sanctuaire, donc ça me concerne. Fais demi-tour et pars, ou je vais devoir passer aux choses sérieuses.}
+{111}{}{Dégage de là, John La Loi !}
+{112}{}{Essaie de revenir dans la matinée.}
+{113}{}{Hé oui. Les portes sont closes !}
+{114}{}{Gngngn.}

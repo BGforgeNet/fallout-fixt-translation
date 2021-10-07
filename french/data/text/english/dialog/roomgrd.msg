@@ -1,8 +1,8 @@
-{100}{}{You see a Brotherhood guard.}
-{101}{}{You shouldn't be in here Initiate.}
-{102}{}{What are you doing in here?}
-{103}{}{The guard room is for guards. You are not a guard. You are in the guardroom. Therefore YOU should leave.}
-{104}{}{Please leave, you shouldn't be here.}
-{105}{}{Hey, no Initiates.}
-{106}{}{This is not the library my boy. If you want to browse go to the library.}
-{107}{}{This is not the library my girl. If you want to browse go to the library.}
+{100}{}{Voici un Garde de la Confrérie.}
+{101}{}{Tu ne devrais pas être là, Initié.}
+{102}{}{Que fais-tu ici ?}
+{103}{}{La salle des gardes est réservée aux gardes. Tu n'es pas un garde. Tu es dans la salle des gardes. Par conséquent, TU dois partir.}
+{104}{}{Va t'en, s'il te plaît. Tu ne devrais pas être là.}
+{105}{}{Hé, pas d'initiés ici.}
+{106}{}{Ce n'est pas une bibliothèque ici, mon garçon. Si tu veux bouquiner, va à la bibliothèque.}
+{107}{}{Ce n'est pas une bibliothèque ici, ma chère. Si tu veux bouquiner, va à la bibliothèque.}

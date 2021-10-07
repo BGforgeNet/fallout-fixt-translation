@@ -1,1 +1,1 @@
-{100}{}{You notice there is a wall locker on the east wall, just like in your own Vault.}
+{100}{}{Tu remarques la présence d'un casier sur le mur est, exactement comme à l'intérieur de ton propre abri.}

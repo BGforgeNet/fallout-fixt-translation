@@ -1,29 +1,29 @@
-{100}{}{You see: Cindy.}
-{101}{}{She is crying.}
-{102}{}{Hello, }
-{103}{}{. Have you found the Water Chip yet?}
-{104}{}{Not yet. I haven't had much luck.}
-{105}{}{No luck yet, but I know I'll find it. By the way, how are you doing?}
-{106}{}{Urug!}
-{107}{}{Oh... you don't understand me. I guess we really don't have much hope after all. Excuse me while I cry.}
-{108}{}{Ugg!}
-{109}{}{Please find it before we die of thirst.}
-{110}{}{You've got to find it! Don't let us die like this!}
-{111}{}{Keep trying. I believe in you. I know you will do everything you can to save us.}
-{112}{}{Who do you think might be involved?}
-{113}{}{I am afraid of what is happening. Someone has been stealing water and now everyone is on edge.}
-{114}{}{Who would do such a thing?}
-{115}{}{What happened?}
-{116}{}{Some people have been accused and fights have broken out over it, but nobody really knows.}
-{117}{}{Okay. Thanks.}
-{118}{}{Some people reported that their water had been stolen. They weren't given more water, but some friends shared with them. After that, everybody got very paranoid and started guarding their water. A few days later, someone knocked out the guard in the ration supply area and stole water rations from the supply lockers.}
-{119}{}{That's terrible! What can I do?}
-{120}{}{Maybe you can stop whomever is doing this.}
-{121}{}{I'll take a look around.}
-{122}{}{You're the water thief?! How could you?}
-{123}{}{Thank you so much for saving us all.}
-{124}{}{You did a good job catching the thief. Please hurry and find the Water Chip.}
-{125}{}{How could you betray us? Now everyone here will die! But you don't care, do you?}
-{126}{}{I'm scared. I don't know what will happen to us all. Please, don't let us down.}
-{127}{}{Don't worry, I'll do my best. You'll be all right.}
-{128}{}{Yeah, whatever.}
+{100}{}{Voici Cindy.}
+{101}{}{Elle pleure.}
+{102}{}{Bonjour, }
+{103}{}{. T'as trouvé la puce d'eau ?}
+{104}{}{Pas encore. Je n'ai pas eu beaucoup de chance.}
+{105}{}{Je n'ai pas eu de chance jusque-là, mais je sais que je la trouverai. Et toi, comment vas-tu ?}
+{106}{}{Ben !}
+{107}{}{Oh... tu ne me comprends pas. Je crois qu'il ne nous reste vraiment pas beaucoup d'espoir. Pardonne-moi si je pleure.}
+{108}{}{Ben !}
+{109}{}{S'il te plaît, trouve-la avant que l'on ne meurt de soif.}
+{110}{}{Il faut que tu la trouves ! Nous laisse pas mourir comme ça !}
+{111}{}{Essaie encore. J'ai confiance. Je sais que tu feras tout pour nous sauver.}
+{112}{}{Qui est impliqué dans cette histoire selon toi ?}
+{113}{}{J'ai peur. Quelqu'un a volé de l'eau et maintenant, tout le monde est à cran.}
+{114}{}{Qui a pu faire ça ?}
+{115}{}{Que s'est-il passé ?}
+{116}{}{Certaines personnes ont été accusées et des échauffourées ont éclaté, mais personne ne sait rien.}
+{117}{}{D'accord. Merci.}
+{118}{}{Des gens ont signalé que leur eau avait été volée. Ils n'en ont pas reçu plus, mais des amis ont partagé avec eux. Après ça, tout le monde est devenu complètement paranoïaque et chacun a commencé à surveiller son eau. Quelques jours plus tard, quelqu'un a tabassé le garde dans le secteur de rationnement et a volé de l'eau.}
+{119}{}{C'est terrible ! Que puis-je faire ?}
+{120}{}{Peut-être que tu peux arrêter celui qui fait ça.}
+{121}{}{Je vais jeter un coup d'oeil.}
+{122}{}{C'est toi qui a volé l'eau ?! Comment as-tu pu ?}
+{123}{}{Merci infiniment de nous avoir sauvés.}
+{124}{}{Maintenant que tu as arrêté le voleur, dépêche-toi de trouver la puce d'eau.}
+{125}{}{Comment as-tu pu nous trahir ? Maintenant, tous les gens d'ici vont mourir ! Mais tu t'en moques, n'est-ce pas ?}
+{126}{}{J'ai peur. Je ne sais pas ce qui va nous arriver. S'il te plaît, ne nous laisse pas tomber.}
+{127}{}{Ne t'inquiète pas, je ferai de mon mieux. Tu vas t'en sortir.}
+{128}{}{Ouais comme tu veux.}

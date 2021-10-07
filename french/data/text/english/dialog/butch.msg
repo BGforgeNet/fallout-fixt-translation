@@ -1,345 +1,345 @@
-{100}{}{You see: Butch.}
-{101}{}{Tell me about yourself.}
-{102}{}{Heard any good rumors?}
-{103}{}{What else is around here, besides the Hub?}
-{104}{}{What's in the Hub?}
-{105}{}{Thanks, that's it.}
+{100}{}{Voici Butch.}
+{101}{}{Parle-moi de toi.}
+{102}{}{T'as entendu des rumeurs intéressantes ?}
+{103}{}{Qu'est-ce qu'il y a aux alentours, à part le Centre ?}
+{104}{}{Qu'est-ce qu'on trouve au Centre ?}
+{105}{}{Merci, ça ira.}
 {106}{BUTCH01}{What do you want?}
-{107}{}{I need to ask you a few questions.}
-{108}{}{Nothing, thanks.}
-{109}{BUTCH02}{Time is money. Chit-chat is not money. You here about the job or what?}
-{110}{}{Yes.}
-{111}{}{What job?}
-{112}{}{Here for the what or the money?}
-{113}{BUTCH03}{Hot damn, someone with guts! Done and done. Go talk with my second, Rutger, and get the details.}
-{114}{}{Wait! I have some questions about this job first!}
-{115}{}{Okay, thanks.}
-{116}{BUTCH04}{Ahh, don't spoil it! Make 'em quick.}
-{117}{}{How much does it pay?}
-{118}{}{Uh... what is the job?}
-{119}{}{Well, if you feel that way, I'll just go talk to Rutger.}
-{120}{BUTCH05}{Uh... Rutger'll handle that. He does all the trivial stuff for the Far Go Traders. Now get on out, 'cause I got work to do!}
-{121}{}{One more question, okay?}
-{122}{}{Okay, thanks.}
-{123}{BUTCH06}{Just one. }
-{124}{}{ (You notice that he seems tense)}
-{125}{}{Uh... what's the job?}
-{126}{}{Is there a time limit on the job?}
-{127}{}{Uh, how much does it pay again?}
-{128}{}{Just how stupid are you?}
-{129}{}{You seem tense. Want to talk about it?}
-{130}{BUTCH07}{What's the... you agreed to a job without knowing what it is? Hot damn, you must be desperate. I like that!}
-{131}{}{Just tell me what it is, okay?}
-{132}{}{Well, you seem pretty desperate, too, so we're even.}
-{133}{BUTCH08}{Well, some caravans have been disappearing on us lately. Damn if anyone can figure out what happened to 'em.}
-{134}{}{So what do you want me to do?}
-{135}{}{I bet you didn't even look for them.}
-{136}{BUTCH09}{Simple. Find out who's doing it, and tell me. Or take 'em out. It makes no damn difference to me. Just get that job done!}
-{137}{}{Any clues on who's doing this?}
-{138}{}{I'll take them out.}
-{139}{}{Sounds scary... I better pass.}
-{140}{BUTCH10}{Nah. Just the normal stuff.}
-{141}{}{Oh come on. There has to be something I can use.}
-{142}{butch11}{Listen, I don't have time to swap stories with you.}
-{143}{butch12}{Well there's uh... something, but I never listen to those rumors.}
-{144}{}{Well, I do. What is it?}
-{145}{}{Okay, thanks.}
-{146}{BUTCH13}{You uh... you really want to hear it, huh? Well, some say it's the Deathclaw, but... but I don't know nothin' about that.}
-{147}{}{You sound scared.}
-{148}{}{Thanks. Can I ask you a few questions?}
-{149}{}{How do I find out about the Deathclaw?}
-{150}{butch13a}{How do ya... Go talk to Beth, she knows more about that crap.}
-{151}{}{Yep, you're as scared as a whipped dog.}
-{152}{}{I'll go check it out.}
-{153}{}{I need some more information.}
-{154}{BUTCH14}{Listen you, I ain't scared. I'm... cautious. You'd be stupid not to be, with the Deathclaw. Go talk to Beth, she'll tell ya more.}
-{155}{}{You sound as scared as a whipped dog.}
-{156}{}{Sorrrry. I'll go check it out.}
-{157}{}{I need some more information.}
-{158}{BUTCH15}{I'm tired of your insults, you... you pinhead! Don't come back! Rutger, take this annoying bug away!}
-{159}{BUTCH16}{Done and done. Now get on outta here, but come back and talk to me when you've found something.}
-{160}{BUTCH17}{Make it quick.}
-{161}{BUTCH18}{Then what the hell am I doing still looking at you? Get out!}
+{107}{}{Te poser quelques questions.}
+{108}{}{Rien, merci.}
+{109}{BUTCH02}{Le temps, c'est de l'argent. Le bavardage, du gaspillage. T'es ici pour le boulot ou pour autre chose ?}
+{110}{}{Oui.}
+{111}{}{Quel boulot ?}
+{112}{}{T'es là pour l'argent ou pour aut'chose ?}
+{113}{BUTCH03}{Bon sang, enfin quelqu'un qui a des tripes ! Marché conclu. Adresse-toi à mon second, Rutger. Il va te mettre au parfum.}
+{114}{}{Minute ! D'abord quelques questions sur ce boulot !}
+{115}{}{Ok, merci.}
+{116}{BUTCH04}{Ah, va pas tout gâcher ! Parle. Et vite !}
+{117}{}{Combien ça paie ?}
+{118}{}{Euh... ça consiste en quoi, ce boulot ?}
+{119}{}{Ah, si tu le prends comme ça, je m'en vais parler à Rutger.}
+{120}{BUTCH05}{Hmm...Rutger va s'en occuper. Il règle tous les trucs pratiques pour les Marchands du Lointain. Maintenant, remue-toi, j'ai pas que ça à faire !}
+{121}{}{Encore une question, d'accord ?}
+{122}{}{Ok, merci.}
+{123}{BUTCH06}{Une seule.}
+{124}{}{ [Il paraît tendu.]}
+{125}{}{Euh... ça consiste en quoi, ce boulot ?}
+{126}{}{Y'a une date limite pour ce boulot ?}
+{127}{}{Euh, combien ça paie déjà ?}
+{128}{}{Es-tu aussi idiot que t'en as l'air ?}
+{129}{}{T'as l'air nerveux. Quelque chose qui va pas ?}
+{130}{BUTCH07}{Qu'est-ce qui... enfin, t'acceptes un boulot sans savoir ? Bon dieu, tu dois être aux abois. Ca me va !}
+{131}{}{Dis-moi juste de quoi il s'agit, d'accord ?}
+{132}{}{Ben, toi aussi, t'as l'air plutôt aux abois. On est à égalité.}
+{133}{BUTCH08}{Eh bien, on a des caravanes qu'ont disparu récemment. Ce qu'a bien pu leur arriver, personne est fichu de le savoir.}
+{134}{}{Bon, qu'est-ce que t'attends de moi ?}
+{135}{}{Je parie que tu les as même pas cherchées.}
+{136}{BUTCH09}{C'est simple. Trouver et venir me dire qui est le coupable. Ou t'en débarrasser. L'un ou l'autre, je m'en fous. Tant que le boulot est fait !}
+{137}{}{Des indices, des soupçons ?}
+{138}{}{Je m'en débarrasserai.}
+{139}{}{Ca m'a l'air glauque... Je préfère m'en aller.}
+{140}{BUTCH10}{Bah. Rien de sensationnel.}
+{141}{}{Allez. Il doit bien y avoir un ou deux trucs intéressants.}
+{142}{butch11}{Ecoute, je vais pas m'éterniser en bavardages.}
+{143}{butch12}{Ben, y'a peut-être... quelque chose... mais je me fie jamais aux racontars.}
+{144}{}{Moi, si. De quoi s'agit-il ?}
+{145}{}{Ok, merci.}
+{146}{BUTCH13}{Tu... tu tiens vraiment à le savoir ? Ben, on dit que ce serait le Griffemort, mais... mais moi, j'en sais pas plus.}
+{147}{}{On dirait que ça t'angoisse.}
+{148}{}{Merci. Je peux te poser quelques questions ?}
+{149}{}{Comment je peux en savoir plus sur le Griffemort ?}
+{150}{butch13a}{Comment tu... Va voir Beth, elle en sait plus long sur toutes ces conneries.}
+{151}{}{Ouais, t'as l'air de trembler dans ta culotte.}
+{152}{}{Je vais jeter un œil.}
+{153}{}{J'ai besoin d'en savoir plus.}
+{154}{BUTCH14}{Ecoute, j'ai pas peur. Je suis... prudent. Qui le serait pas, avec le Griffemort. Va voir Beth, elle t'expliquera.}
+{155}{}{T'as l'air de trembler dans ta culotte.}
+{156}{}{P-p-pardon. Je vais jeter un œil.}
+{157}{}{J'ai besoin d'en savoir plus.}
+{158}{BUTCH15}{J'en ai marre de tes insultes... face de rat ! Ne remets pas les pieds ici ! Rutger, éjecte-moi cette punaise !}
+{159}{BUTCH16}{Marché conclu. Maintenant, tire-toi, et reviens me voir quand t'as du neuf.}
+{160}{BUTCH17}{Fais vite.}
+{161}{BUTCH18}{Mais bon dieu, pourquoi je perds mon temps avec toi ! Casse-toi !}
 {162}{butch19}{Uh... what did you say?}
-{163}{}{I was implying that you were too frightened to go look for them.}
-{164}{}{Nothing. So what do you want me to do?}
-{165}{BUTCH20}{You know, I don't like you. But that doesn't matter. You want the job or not?}
-{166}{}{Sure.}
-{167}{}{No thanks.}
+{163}{}{Je laissais entendre que t'as trop la frousse pour chercher toi-même.}
+{164}{}{Rien. Alors, qu'est-ce que t'attends de moi ?}
+{165}{BUTCH20}{Tu sais, tu me reviens pas. Mais peu importe. Tu veux le boulot, oui ou merde ?}
+{166}{}{Bien sûr.}
+{167}{}{Non, merci.}
 {168}{BUTCH19}{Uh... what did you say?}
-{169}{}{You heard me.}
-{170}{}{Nothing. So, what do you want me to do?}
-{171}{BUTCH22}{Yeah, yesterday! Get going!}
-{172}{BUTCH23}{Hmmm. Whatta ya want'a know?}
-{173}{}{Just curious.}
-{174}{}{No reason.}
-{175}{}{Never mind. I have some more questions.}
-{176}{BUTCH24}{Well, I've run the Far Go Traders for about five years. Before that I was in Adytum. Before that, near the Glow.}
-{177}{}{Anything else?}
-{178}{}{Well, thanks.}
+{169}{}{T'as parfaitement entendu.}
+{170}{}{Rien. Alors, qu'est-ce que t'attends de moi ?}
+{171}{BUTCH22}{Ouais, hier ! Grouille-toi !}
+{172}{BUTCH23}{Hmm. Pourquoi donc que ça t'intéresse ?}
+{173}{}{Simple curiosité.}
+{174}{}{Comme ça.}
+{175}{}{T'occupe. J'ai encore des questions.}
+{176}{BUTCH24}{Eh bien, ça fait à peu près cinq ans que je dirige les Marchands du Lointain. Avant, j'étais au Sanctuaire. Avant ça, près du Rayon.}
+{177}{}{Et avec ça ?}
+{178}{}{Bien, merci.}
 {179}{BUTCH25}{Not really.}
-{180}{BUTCH26}{Yeah, well I don't like going around talking about my personal life and such.}
-{181}{}{Oh come on, please?}
-{182}{}{Oh, alright.}
-{183}{BUTCH27}{What do I look like, a... a... one of those tourist things? Jeez.}
-{184}{}{No, you seem to be a brilliant man.}
-{185}{}{I just want to know some general places.}
-{186}{BUTCH28}{Thanks. Now, is there anything else?}
-{187}{BUTCH29}{Well, you got Old Town and the Heights, but that's just houses. Downtown's got all the stores and stuff.}
-{188}{}{What stores?}
-{189}{}{Thanks.}
-{190}{BUTCH30}{Just stuff. you wanta' see the town, go look around yourself!}
-{191}{}{Uh, thanks for nothing.}
-{192}{}{Thanks.}
+{180}{BUTCH26}{Ah, j'aime pas bien m'étendre sur ma vie privée.}
+{181}{}{Oh, allez, s'il te plaît !}
+{182}{}{Bon, d'accord.}
+{183}{BUTCH27}{Quoi, mais est-ce que j'ai l'air de... d'un de ces touristes ?! Merde alors !}
+{184}{}{Non, d'un mec génial.}
+{185}{}{Je veux juste connaître quelques endroits.}
+{186}{BUTCH28}{Merci. Encore autre chose ?}
+{187}{BUTCH29}{Ben, t'as la Vieille Ville et les Hauteurs, mais y'a juste des baraques. Au centre-ville, on trouve tous les magasins qu'on veut.}
+{188}{}{Quel genre de magasins ?}
+{189}{}{Merci.}
+{190}{BUTCH30}{Ah, y'a de tout. Va donc voir par toi-même !}
+{191}{}{Bien, merci quand même.}
+{192}{}{Merci.}
 {193}{BUTCH19}{Uh... what did you say?}
-{194}{}{Are you deaf?}
-{195}{}{Nothing. I need to ask you a few more questions, though.}
-{196}{BUTCH32}{Well, you got the Maltese Falcon, a nice place to eat, believe you me. And then... let's see, the All-N-One Store, the Weapons Shop... and, of course, Bob's Iguana Bits.}
-{197}{}{Thanks.}
-{198}{}{Anything else?}
-{199}{BUTCH33}{Got the Children of the Cathedral's hospital over on the west side of Downtown. And then, of course, you got the Water Merchants south, and the Crimson Caravan west.}
-{200}{}{Thanks.}
-{201}{BUTCH34}{Well, you got the Junktown to the north, and the Brotherhood of Steel to the northwest. And, of course, the Boneyard to the south.}
-{202}{}{Anything else?}
-{203}{}{Thanks.}
-{204}{BUTCH35}{Well, Necropolis is east. But uh... I wouldn't spit there if it came out gold, if ya' get my drift. Those ghouls'll eat a man's face faster than an old lady shopping at bargain day.}
-{205}{}{Sounds like fun.}
-{206}{BUTCH35a}{Puhh. Maybe for you! If you like that, then the Glow's down south. It's a radioactive pit.}
-{207}{}{Maybe I'll work on my tan.}
-{208}{BUTCH36}{Just a bunch of different places. Go find out for yourself!}
-{209}{}{Well, thanks for nothing.}
-{210}{}{Thanks.}
-{211}{BUTCH37}{Well, what do you have?}
-{212}{}{Well, I found out who's taking the caravans.}
-{213}{}{Well, I know it wasn't the Deathclaw who took the caravans.}
-{214}{}{Nothing right now. Goodbye.}
-{215}{BUTCH38}{Really? Who?}
-{216}{}{It's these big mutant guys.}
-{217}{}{Rats! BIG rats with BIG teeth...}
-{218}{BUTCH39}{Wha... what would mutants want with our caravans?}
-{219}{}{I don't know, but they seem to be taking the humans prisoner.}
-{220}{}{I don't know for sure, but it's mutants, not the Deathclaw.}
-{221}{BUTCH40}{What, do I look a crate shy of a load? Did you even see the Deathclaw?}
-{222}{}{Been there, saw that, killed it.}
-{223}{}{I'm telling you that it wasn't the Deathclaw.}
-{224}{BUTCH41}{You... you killed it? Well... I uh... um... uh, where did these mutants come from?}
-{225}{}{From the northwest. I think they have some kind of outpost there.}
-{226}{}{Far to the northwest, from a fortified military oupost. They work for some loon called The Master. They aren't your regular mutants, either.}
-{227}{BUTCH42}{An outpost? Well... um... well uh. I'll have to talk to the Committee. Yeah... yeah, they'll know what to do. Done and done. Get out, 'cause I got stuff to do... okay?}
-{228}{BUTCH43}{The Master? H-He's more of a myth than the Deathclaw. You... you don't think he's real, do you?}
-{229}{}{I'm not sure. But I intend to find out.}
-{230}{}{Yep, I've seen him! And he's coming to get you!}
-{231}{BUTCH44}{Yeah, done and... yeah, you do that! Uh, I need to talk to the Committee. They'll know what to do. N-N-Now get out! I've got a lot to do... okay?}
-{232}{BUTCH45}{What?! Well... well... I'm not afraid! Rutger! I got guns! Rutger!}
-{233}{BUTCH46}{Alright, so it wasn't the Deathclaw. But what would the mutants in Old Town want with our caravans? Unless it's some kind of conspiracy.}
-{234}{}{No, no, no, you pinhead. These mutants are big and green and they have an army in the mountains to the north.}
-{235}{}{You really are stupid, aren't you? You're not listening!}
-{236}{BUTCH47}{What? Get out! I need to tell the Committee about this. Go on, get out!}
-{237}{BUTCH48}{Come on. You can do better than that.}
-{238}{}{No, really. They're these big, green mutant guys.}
-{239}{}{You're right.}
-{240}{}{Oh come on. You think a woman like me would lie?}
-{241}{BUTCH49}{I don't have time for this. Get out, and don't come back until you find something useful!}
-{242}{BUTCH50}{Well then, what is it?}
-{243}{}{Actually, it IS these big mutant guys...}
-{244}{}{Rats, I tell you! Big, hairy...}
-{245}{BUTCH51}{Rats? You've got to be kidding me.}
-{246}{}{No, really. BIG rats!}
-{247}{}{You're right. I was just kidding.}
-{248}{BUTCH52}{Well... okay. I'll tell the Committee, but I don't think they'll believe it. Although I have seen mighty big rats around...}
-{249}{BUTCH53}{How do you know? Did you see the Deathclaw?}
-{250}{}{Been there, saw that, killed it.}
-{251}{}{Just trust me. I know.}
-{252}{BUTCH54}{You... you killed it?}
-{253}{}{Yep, sure did.}
-{254}{BUTCH54a}{Well then, then who's stealing my caravans?}
-{255}{}{I don't know yet, but I'll find out.}
-{256}{}{Ralph did it.}
+{194}{}{T'es sourd ou quoi ?}
+{195}{}{Rien. Mais, je voudrais te poser encore quelques questions.}
+{196}{BUTCH32}{Eh bien, t'as le Faucon Maltais, et là, on mange bien, tu peux me croire. Quoi d'autre... le Grand Bazar, l'Armurerie... et, bien sûr, A l'Iguane Rôti, chez Bob.}
+{197}{}{Merci.}
+{198}{}{Et avec ça ?}
+{199}{BUTCH33}{Y'a l'hôpital des Enfants de la Cathédrale, à l'Ouest du centre-ville. Et puis, bien sûr, les Marchands d'Eau au Sud, et la Caravane Ecarlate à l'Ouest.}
+{200}{}{Merci.}
+{201}{BUTCH34}{Voyons voir, t'as Dépôtville au Nord, et la Confrérie de l'Acier au Nord-Ouest. Et, bien sûr, le Cimetière au Sud.}
+{202}{}{Et avec ça ?}
+{203}{}{Merci.}
+{204}{BUTCH35}{Euh, Nécropolis, à l'Est. Mais, euh... J'irais pas traîner mes guêtres par là pour tout l'or du monde, si tu veux mon avis. Ces Goules, t'as pas le temps de les voir qu'ils t'ont déjà bouffé la tête.}
+{205}{}{Ca m'a l'air réjouissant.}
+{206}{BUTCH35a}{Pouah. Parle pour toi ! Si ça te plaît, t'as le Rayon, plus au Sud. C'est un puits radioactif.}
+{207}{}{C'est peut-être bon pour mon bronzage.}
+{208}{BUTCH36}{Oh, encore deux ou trois endroits. Va donc voir toi-même !}
+{209}{}{Bien, merci quand même.}
+{210}{}{Merci.}
+{211}{BUTCH37}{Alors, qu'est-ce que t'apportes ?}
+{212}{}{Eh bien, j'ai trouvé qui fait disparaître les caravanes.}
+{213}{}{Eh bien, c'est pas le Griffemort qui a pris les caravanes.}
+{214}{}{Rien pour l'instant. Salut.}
+{215}{BUTCH38}{Vraiment ? Qui ?}
+{216}{}{Ces espèces de grands mutants.}
+{217}{}{Des rats ! Des GROS rats avec des GRANDES dents...}
+{218}{BUTCH39}{Que... qu'est-ce que cherchent les mutants avec nos caravanes ?}
+{219}{}{Je sais pas, mais on dirait qu'ils capturent les humains.}
+{220}{}{Rien de sûr. Mais c'est les mutants, pas le Griffemort.}
+{221}{BUTCH40}{Quoi, est-ce que j'ai l'air d'une mauviette ? As-tu seulement vu le Griffemort ?}
+{222}{}{J'étais là, je l'ai vu, je l'ai tué.}
+{223}{}{Je te le dis, c'est pas le Griffemort.}
+{224}{BUTCH41}{Tu... tu l'as tué ? Alors... euh, hmm... d'où viennent ces mutants ?}
+{225}{}{Ils viennent du Nord-Ouest. Je pense qu'ils doivent avoir une sorte de base militaire là-bas.}
+{226}{}{Ils travaillent pour le Maître. C'est pas des mutants ordinaires.}
+{227}{BUTCH42}{Un avant-poste ? Hmm.... Faut que je parle au Comité. Ouais, c'est ça... ils sauront quoi faire. C'est bon. File, j'ai à faire... D'accord ?}
+{228}{BUTCH43}{Le Maître ? Ah, certainement plus un mythe que le Griffemort. Tu... tu penses pas qu'il existe vraiment, si ?}
+{229}{}{Je sais pas trop. Mais j'ai bien l'intention de le savoir.}
+{230}{}{Ouais, je l'ai vu ! Et il vient pour te faire ta fête !}
+{231}{BUTCH44}{Ouais, ok... Ouais, vas-y ! Euh, faut que je parle au Comité. Ils sauront quoi faire. Maintenant, file ! J'ai pas que ça à faire... D'accord ?}
+{232}{BUTCH45}{Quoi ! Heu... j'ai pas peur ! Rutger ! J'ai des armes ! Rutger !}
+{233}{BUTCH46}{D'accord, c'était pas le Griffemort. Mais qu'est-ce que les mutants fabriqueraient à la Vieille Ville avec nos caravanes ? A moins... peut-être une machination.}
+{234}{}{Mais non, pauvre cloche ! Ces mutants sont grands et verts, et ils ont une armée dans les montagnes, vers le Nord.}
+{235}{}{T'es vraiment borné ou quoi ? T'écoutes pas !}
+{236}{BUTCH47}{Quoi ? Tire-toi ! Faut que j'en parle au Comité. Allez, tire-toi !}
+{237}{BUTCH48}{Allez. Je suis sûr que tu peux faire mieux.}
+{238}{}{Non, vraiment. Il s'agit bien de ces espèces de grands mutants verts.}
+{239}{}{T'as raison.}
+{240}{}{Oh, allons. Tu crois qu'une femme comme moi mentirait ?}
+{241}{BUTCH49}{J'ai pas de temps à perdre. Tire-toi et reviens quand t'auras quelque chose d'intéressant à me dire !}
+{242}{BUTCH50}{Alors, qu'est-ce que c'est ?}
+{243}{}{En fait, c'est bien ces espèces de grands mutants...}
+{244}{}{Des rats, je te dis ! Enormes, velus...}
+{245}{BUTCH51}{Des rats ? Tu te fous de moi.}
+{246}{}{Non, vraiment. Des GROS rats !}
+{247}{}{C'est vrai. Je me foutais de toi.}
+{248}{BUTCH52}{Bon... d'accord. Je vais en parler au Comité, mais ça m'étonnerait qu'ils me croient. C'est pourtant vrai, j'ai vu des rats rudement gros dans le coin...}
+{249}{BUTCH53}{Comment le sais-tu ? T'as vu le Griffemort ?}
+{250}{}{J'étais là, je l'ai vu, je l'ai tué.}
+{251}{}{Fais-moi confiance. Je sais.}
+{252}{BUTCH54}{Tu... tu l'as tué ?}
+{253}{}{Oui.}
+{254}{BUTCH54a}{Mais, mais alors qui vole mes caravanes ?}
+{255}{}{Je sais pas encore, mais je trouverai.}
+{256}{}{C'est Ralph.}
 {257}{BUTCH55}{Uhh, do that. And come back and tell me... okay?}
-{258}{BUTCH56}{Who the hell's Ralph?}
-{259}{}{Never mind. I'll get more info on the caravan problem.}
-{260}{}{He's coming for your soul!}
-{261}{BUTCH57}{Hey! You're making fun of me, aren't you? Rutger, show this jerk the street! And don't come back without some real information!}
-{262}{BUTCH58}{Yeah, right. Like I'd believe that. Get out until you can find me something useful.}
-{263}{BUTCH59}{Well, whatta'ya got for me?}
-{264}{}{It was mutants.}
-{265}{}{Well, I know it wasn't the Deathclaw who took the caravans.}
-{266}{BUTCH60}{Leave me alone! You got your reward, now get out!}
-{267}{BUTCH61}{Hey, put that down!}
-{268}{BUTCH62}{That's it. Rutger's gonna take it out of your hide!}
-{269}{BUTCH63}{Stop that, right now!}
-{270}{BUTCH64}{Well, what are you doing in here? Get out!}
-{272}{butch65}{Oh... well, it's not, so get out!}
-{273}{BUTCH66}{Rutger's going to turn you into a human pretzel. Have fun. RUTGER!}
-{274}{BUTCH67}{Well, you're a bright one, ain't you? Here's the job: Find out who's stealing my caravans. Money, big. You fail, hurt, big. Understand? Now get outta here!}
-{275}{BUTCH67a}{Wow, you're dumb. I don't have time for this. Go talk to Rutger.}
-{276}{BUTCH68}{Go talk to Rutger. He can tell you more about that crap.}
+{258}{BUTCH56}{Qui c'est encore, ce Ralph ?}
+{259}{}{T'occupe. Je trouverai d'autres infos sur l'affaire des caravanes.}
+{260}{}{Il vient voler ton âme !}
+{261}{BUTCH57}{Ah ! Tu me fais tourner en bourrique, non ? Rutger, fous-moi ce parasite dehors ! Et ne reviens pas sans de vraies informations !}
+{262}{BUTCH58}{Ouais. Comme si j'allais gober ça ! File jusqu'à ce que tu me trouves quelque chose d'intéressant !}
+{263}{BUTCH59}{Eh bien, les nouvelles ?}
+{264}{}{C'étaient les Mutants.}
+{265}{}{Eh bien, c'est pas le Griffemort qui a pris les caravanes.}
+{266}{BUTCH60}{La paix ! T'as eu ta récompense, maintenant, file !}
+{267}{BUTCH61}{Ca va pas, pose ça !}
+{268}{BUTCH62}{Je vois. Rutger va te faire avaler ton bulletin de naissance !}
+{269}{BUTCH63}{Arrête ça immédiatement !}
+{270}{BUTCH64}{Eh, qu'est-ce que tu fous là ! Dehors !}
+{272}{butch65}{Oh... je vois, fous-moi le camp !}
+{273}{BUTCH66}{Rutger va te transformer en chair à pâté... Amuse-toi bien ! RUTGER !}
+{274}{BUTCH67}{Bon, t'es quelqu'un d'intelligent, non ? Le boulot, c'est ça : trouver qui vole mes caravanes. Tu réussis, du fric... beaucoup. Tu rates, des coups... beaucoup. Compris ? Maintenant, file !}
+{275}{BUTCH67a}{Waouh, pauvre de toi ! J'ai pas de temps à perdre. Adresse-toi à Rutger.}
+{276}{BUTCH68}{Adresse-toi à Rutger.}
 {277}{BUTCH69}{Like I told you...}
 {278}{BUTCH70a}{As I said...}
-{279}{BUTCH71}{I ain't gonna repeat myself again!}
-{280}{BUTCH72}{Listen, I ain't gonna say it again!}
-{281}{BUTCH73}{He's the owner of the Maltese Falcon over on the west side. I'd stay clear of him; he's not honest, like me.}
-{282}{BUTCH74}{Uh, no. Uh no, we don't talk about that.}
-{283}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
-{284}{BUTCH76}{What a pain they are. We think their hideout's in Old Town, but we can't prove it.}
+{279}{BUTCH71}{Je vais pas me répéter !}
+{280}{BUTCH72}{Ecoute, je vais pas me répéter.}
+{281}{BUTCH73}{C'est le proprio du Faucon Maltais, à l'Ouest. A ta place, je m'y frotterais pas, c'est pas un mec honnête, comme moi.}
+{282}{BUTCH74}{Euh, non, non... On parle pas de ça.}
+{283}{BUTCH75}{Ah, tu... non, faut pas aller là. C'est vraiment hors de prix et pas fameux.}
+{284}{BUTCH76}{Quelle chienlit ! On pense qu'ils ont leur planque dans la Vieille Ville, mais aucune preuve.}
 {285}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me. Justin doesn't rule the roost around here.}
-{286}{BUTCH78}{Old Harold? What do you want with that old mutant? He's in Old Town. Just ask there.}
-{287}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub, just because of the Water Tower.}
-{288}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{286}{BUTCH78}{Harold l'Ancien ? Qu'est-ce que tu veux à ce vieux mutant ? Il est à la Vieille Ville. Une fois là-bas, tu demandes.}
+{287}{BUTCH79}{Le temps, c'est de l'argent. Le bavardage, du gaspillage. T'es ici pour le boulot ou pour autre chose ?}
+{288}{BUTCH80}{Adresse-toi à Rutger. Il t'en dira plus.}
 {289}{BUTCH81}{You can find them over on the northwest edge of Downtown. They controlled the hospital before the Children moved in. Talk about trading the strange for the weird.}
-{290}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me, he's nuts.}
+{290}{BUTCH82}{C'est le chef de la Caravane Ecarlate. A mon avis, un cinglé.}
 {291}{BUTCH83}{Don't you know where your own feet are?}
-{292}{BUTCH84}{That's me. You blind or something?}
-{293}{BUTCH85}{Uh, Beth's the manager of the Weapon Store. She hears lots of rumors, if you're into that kind of stuff.}
-{294}{BUTCH86}{Rutger's my assistant.}
+{292}{BUTCH84}{Oh, ils ont la gâchette facile là-bas, dans le Nord-Ouest. Plutôt inquiétants. Mais faut reconnaître qu'ils fabriquent de la belle artillerie.}
+{293}{BUTCH85}{Euh, Beth est la patronne de l'Armurerie. Elle connaît tous les racontars, si c'est ça qui t'intéresse.}
+{294}{BUTCH86}{Rutger est mon assistant.}
 {295}{BUTCH87}{It's south of the Merchant Market. The only source of water here and for a lot of the surrounding area. The Water Merchants own the damn thing.}
 {296}{BUTCH88}{Three of my caravans have disappeared in the past month. At first I thought it was either the Water Merchants or the Crimson Caravan, but they've had disappearances too.}
-{297}{BUTCH89}{It's where everybody trades. Smack dab middle of town.}
+{297}{BUTCH89}{C'est là où tout le monde fait du troc. En plein milieu de la ville.}
 {298}{BUTCH90}{Uh, no I-I don't... Go talk to Beth, she knows more about that crap.}
 {299}{BUTCH91}{The Glow is a radioactive pit way, way down south. Too much radiation for anyone to live there.}
 {300}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
 {301}{butch93}{It's over on the west side.}
 {302}{BUTCH94}{Junktown? Yeah, I've been up north to that place a few times. Got some great booze.}
-{303}{BUTCH95}{Junktown? It's up north. Heard they're having some trouble, what with their mayor Killian getting killed and all.}
+{303}{BUTCH95}{Dépôtville ? Vers le Nord. J'ai entendu dire qu'ils ont des ennuis... leur maire, Killian, qui s'est fait descendre...}
 {304}{BUTCH96}{He's the mayor of Junktown, that's all I know.}
-{305}{BUTCH97}{I heard he's dead. What more do you need to know?}
+{305}{BUTCH97}{J'ai entendu dire qu'il est mort. Qu'est-ce que tu veux savoir de plus ?}
 {306}{BUTCH98}{Oh, they're a bunch of gun freaks up to the northwest. Really weird. They do make a damn fine weapon, though.}
 {307}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
 {308}{BUTCH100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
-{309}{BUTCH101}{Why? What've you heard? I heard it'd been ransacked, but no one knows who did it. But uh, I'm not worried. No one can take the Hub.}
-{310}{BUTCH102}{Well, it's the place where everyone goes to trade in the Boneyard. It's the only place civilized enough to do it.}
+{309}{BUTCH101}{Pourquoi ? Qu'est-ce qu'on t'a dit ? Il paraît qu'on l'a mise à sac. Mais qui ? Personne le sait. Oh, je suis pas inquiet. Le Centre est imprenable.}
+{310}{BUTCH102}{Ah, c'est là que tout le monde va faire du commerce, dans le Cimetière. Le seul endroit assez civilisé pour ça.}
 {311}{BUTCH103}{Last I heard, he's the mayor of Adytum.}
-{312}{BUTCH104}{Well, they run a big, ol' hospital on the southwest side of Downtown. Bunch of religious nuts, if you ask me.}
-{313}{BUTCH105}{He heads up the Children of the Cathedral down in the Boneyard.}
-{314}{BUTCH105a}{Jain's the High Priestess of the Children of the Cathedral and sets up the hospital here in the Hub.}
-{315}{BUTCH106}{I uh... heard stories, that's all. No truth to them.}
+{312}{BUTCH104}{Ah, ils dirigent un vieil hôpital assez grand, au Sud du centre-ville. Une bande de culs-bénits cinglés, si tu veux mon avis.}
+{313}{BUTCH105}{Il est à la tête des Enfants de la Cathédrale, là-bas au Cimetière de L.A.}
+{314}{BUTCH105a}{Jain est la Grande Prêtresse des Enfants de la Cathédrale. Elle a installé l'hôpital dans le Centre.}
+{315}{BUTCH106}{Euh, oui, je... j'ai entendu des histoires, c'est tout. Mais rien de vrai.}
 {316}{BUTCH107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
 {317}{BUTCH108}{Now there's some good eating. Bob's has got the best charred iguana this side of the desert.}
 {318}{BUTCH109}{Well, you... uh... you don't want to go there. The prices are really high and the quality's bad.}
 {319}{BUTCH110}{What do you want with them wackos? Jeez, all that peace preaching and tree hugging. Makes me sick.}
-{320}{BUTCH111}{Don't know anything 'bout that.}
-{321}{BUTCH112}{I... uh... don't think I want to tell you. Yeah, that's it.}
-{322}{BUTCH113}{Never heard of it. You must have made it up or something.}
-{323}{BUTCH114}{Well, last I heard it was trashed by someone. Don't know who, though.}
-{324}{}{I'm busy right now. Talk to Rutger. He'll let me know if you're worth seeing.}
-{325}{}{I've got nothing to say to you.}
-{326}{}{Where do I get my reward?}
-{327}{}{What was I supposed to do again?}
-{328}{}{Get the hell out of here!}
-{329}{}{Nothing yet.}
-{330}{}{Snargle!!!}
-{331}{}{Get out of here, you moron.}
-{332}{}{Far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{333}{}{Far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed.}
-{334}{}{Far to the northwest. It's some kind of outpost or operations center. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{335}{}{Far to the northwest. It's some kind of outpost or operations center.}
-{336}{}{From the northwest. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{337}{}{From the northwest. I think they have some kind of outpost there.}
-{338}{}{I don't know yet, but they work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{339}{}{I don't know yet, but there was a big green mutant in a cave near town, babbling about some mission from this guy called "Master".}
-{340}{}{I don't know yet, but I found this weird disk on a big green mutant who said something about his "Master".}
-{341}{}{No, no, no, you pinhead. These mutants are green, and they come from far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{342}{}{No, no, no, you pinhead. These mutants are green, and they come from far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed.}
-{343}{}{No, no, no, you pinhead. These mutants are big and green, and they come from far to the northwest. It's some kind of outpost or operations center. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{344}{}{No, no, no, you pinhead. These mutants are big and green, and they come from far to the northwest. It's some kind of outpost or operations center.}
-{345}{}{No, no, no, you pinhead. These mutants are big and green, and they come from the northwest. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{346}{}{No, no, no, you pinhead. These mutants are big and green, and they come from the northwest. I think they have some kind of outpost there.}
-{347}{}{No, no, no, you pinhead. These mutants are big and green, and they work for some loon called The Master. They are organized and kidnapping people from the caravans.}
-{348}{}{No, no, no, you pinhead. These mutants are big and green. There was one in a cave near town, babbling about some mission from this guy called "Master".}
-{349}{}{No, no, no, you pinhead. These mutants are big and green. I found this weird disk on a big green mutant who said something about his "Master".}
+{320}{BUTCH111}{Jamais entendu parler de ça.}
+{321}{BUTCH112}{Euh, bah... j'préfère pas t'en parler. Non, vraiment.}
+{322}{BUTCH113}{Jamais entendu parler de ça. C'est toi qu'invente ça, non ?}
+{323}{BUTCH114}{Ah, aux dernières nouvelles, ça avait été saccagé. Par qui ? J'en sais rien.}
+{324}{}{J'ai à faire. Va parler à Rutger. Il me dira ce que tu vaux.}
+{325}{}{Je n'ai rien à te dire.}
+{326}{}{Où est ma récompense ?}
+{327}{}{C'était quoi déjà ma mission ?}
+{328}{}{Fous le camp !}
+{329}{}{Rien pour l'instant.}
+{330}{}{Grr... !!}
+{331}{}{Hors de ma vue... pauv' tâche !}
+{332}{}{Loin au Nord-Ouest, il y a une base militaire fortifiée. C'est pas des mutants ordinaires. Ils sont énormes et lourdement armés. Ils obéissent à un barjot qui s'appelle le Maître. Ils sont organisés et c'est eux qui ont enlevé les caravanes et leurs employés.}
+{333}{}{Loin au Nord-Ouest, il y a une base militaire fortifiée. C'est pas des mutants ordinaires. Ils sont énormes et lourdement armés.}
+{334}{}{Loin au Nord-Ouest. Il y a une sorte de base militaire. Ils obéissent à un barjot qui s'appelle le Maître. Ils sont organisés et c'est eux qui ont enlevé les caravanes et leurs employés.}
+{335}{}{Loin au Nord-Ouest. Il y a une sorte de base militaire.}
+{336}{}{Ils viennent du Nord-Ouest. Ils obéissent à un barjot qui s'appelle le Maître. Ils sont organisés et c'est eux qui ont enlevé les caravanes et leurs employés.}
+{337}{}{Ils viennent du Nord-Ouest. Je pense qu'ils doivent avoir une sorte de base militaire là-bas.}
+{338}{}{Je sais pas encore, mais ils obéissent à un barjot qui s'appelle le Maître. Ils sont organisés et c'est eux qui ont enlevé les caravanes et leurs employés.}
+{339}{}{Je sais pas encore, mais il y avait un gros mutant tout vert dans un grotte près de la ville, il radotait à propos d'une mission pour son "Maître".}
+{340}{}{Je sais pas encore, mais j'ai trouvé cet étrange disque sur un gros mutant qui a parlé de son "Maître".}
+{341}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts, et ils viennent d'une base militaire fortifiée au Nord-Ouest. C'est pas des mutants ordinaires. Ils sont énormes et lourdement armés. Ils travaillent pour un barjot qui s'appelle le Maître. Ils sont organisés et c'est eux qui ont enlevé les caravanes et leurs employés.}
+{342}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts, et ils viennent d'une base militaire fortifiée au Nord-Ouest. C'est pas des mutants ordinaires. Ils sont énormes et lourdement armés.}
+{343}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts, et ils viennent du Nord-Ouest. Ils ont une sorte de base militaire. Ils travaillent pour un barjot qui s'appelle Le Maître. Ils sont organisés et c'est eux qui ont enlevé les caravanes et leurs employés.}
+{344}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts, et ils viennent du Nord-Ouest. Ils ont une sorte de base militaire.}
+{345}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts, et ils viennent du Nord-Ouest. Ils travaillent pour un barjot qui s'appelle le Maître. Ils sont organisés et c'est eux qui ont enlevé les caravanes et leurs employés.}
+{346}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts, et ils viennent du Nord-Ouest. Je pense qu'ils doivent avoir une sorte de base militaire là-bas.}
+{347}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts, et ils travaillent pour un barjot qui s'appelle le Maître. Ils sont organisés et c'est eux qui ont enlevé les caravanes et leurs employés.}
+{348}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts. Il y en avait un dans une grotte près de la ville, qui radotait à propos d'une mission pour son "Maître".}
+{349}{}{Non, non, non, espèce d'andouille. Ces mutants-là sont grands et verts. J'ai trouvé cet étrange disque sur un gros mutant tout vert qui radotait à propos d'une mission pour son "Maître".}
 {500}{BUTCH55a}{Uhh, do that. And come back and tell me... okay?}
-{501}{butch63a}{Hey! Knock that off!}
+{501}{butch63a}{Eh ! Ca suffit comme ça !}
 {502}{BUTCH69a}{Like I told you...}
 {503}{BUTCH70b}{As I said...}
-{504}{BUTCH105b}{I've no idea what you're talking about.}
-{980}{BUTCH111}{Don't know anything 'bout that.}
-{981}{BUTCH112}{I... uh... don't think I want to tell you. Yeah, that's it.}
-{982}{BUTCH113}{Never heard of it. You must have made it up or something.}
+{504}{BUTCH105b}{Je vois pas du tout de quoi tu parles.}
+{980}{BUTCH111}{Jamais entendu parler de ça.}
+{981}{BUTCH112}{Euh, bah... j'préfère pas t'en parler. Non, vraiment.}
+{982}{BUTCH113}{Jamais entendu parler de ça. C'est toi qu'invente ça, non ?}
 {1000}{}{Decker}
 {1001}{}{Underground}
-{1002}{}{Maltese}
-{1003}{}{Thieves}
+{1002}{}{Maltais|Faucon Maltais|Faucon}
+{1003}{}{Voleurs|Voleur|Voleuse|Voleuses}
 {1004}{}{Justin}
 {1005}{}{Harold}
-{1006}{}{Merchants}
+{1006}{}{Marchands|Marchand}
 {1007}{}{Daren}
-{1008}{}{Crimson}
+{1008}{}{Caravane écarlate}
 {1009}{}{Demetre}
-{1010}{}{Trader}
+{1010}{}{Lointain}
 {1011}{}{Butch}
 {1012}{}{Beth}
 {1013}{}{Rutger}
-{1014}{}{Water}
-{1015}{}{Missing}
-{1016}{}{Market}
-{1017}{}{Claw}
-{1018}{}{Glow}
-{1019}{}{Town}
-{1020}{}{Heights}
+{1014}{}{Eau}
+{1015}{}{Caravanes}
+{1016}{}{Marché}
+{1017}{}{Griffemort|Griffes|Griffe|Griffemorts}
+{1018}{}{Rayon}
+{1019}{}{Ville}
+{1020}{}{Hauteurs}
 {1021}{}{Dépôtville}
 {1022}{}{Killian}
-{1023}{}{Brotherhood}
+{1023}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
 {1024}{}{Elder}
-{1025}{}{Angel's}
+{1025}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1026}{}{Adytum}
 {1027}{}{Jon}
 {1028}{}{Cathedral}
 {1029}{}{Morpheus}
 {1030}{}{Jain}
-{1031}{}{Master}
+{1031}{}{Maître}
 {1032}{}{Weapon}
-{1033}{}{Bob's}
-{1034}{}{All-N-One}
+{1033}{}{Bob}
+{1034}{}{Magasin|Général|Magasin Général}
 {1035}{}{Followers}
 {1036}{}{Harris}
-{1037}{}{Falcon}
+{1037}{}{Maltais}
 {1038}{}{Nightclub}
 {1039}{}{Merchant}
 {1040}{}{Hightower}
 {1041}{}{Greene}
-{1042}{}{Caravan}
+{1042}{}{Ecarlate}
 {1043}{}{Romara}
-{1044}{}{Traders}
+{1044}{}{Marchands}
 {1045}{}{Tower}
-{1046}{}{Caravans}
+{1046}{}{Caravanes}
 {1047}{}{Darkwater}
-{1048}{}{Steel}
-{1049}{}{Angels}
-{1050}{}{Boneyard}
+{1048}{}{Acier}
+{1049}{}{Les Eventreurs|Eventreurs|Eventreur}
+{1050}{}{Cimetière de L.A.}
 {1051}{}{Zimmerman}
 {1052}{}{Weapons}
-{1053}{}{Store}
+{1053}{}{Magasin}
 {1054}{}{guns}
-{1055}{}{Bobs}
-{1056}{}{Iguana}
+{1055}{}{Chez Bob}
+{1056}{}{A l'Iguane}
 {1057}{}{Apocalypse}
 {1058}{}{Death}
 {1059}{}{Deathclaw}
-{1060}{}{Hot}
+{1060}{}{Zone rouge}
 {1061}{}{Old Town}
-{1062}{}{Old}
+{1062}{}{Vieille}
 {1063}{}{Maxson}
-{1064}{}{All}
+{1064}{}{Bazar}
 {1065}{}{Junk}
-{1066}{}{The Boneyard}
+{1066}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1067}{}{L.A. Boneyard}
-{1100}{BUTCH73}{He's the owner of the Maltese Falcon over on the west side. I'd stay clear of him; he's not honest, like me.}
-{1101}{BUTCH74}{Uh, no. Uh no, we don't talk about that.}
-{1102}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
-{1103}{BUTCH76}{What a pain they are. We think their hideout's in Old Town, but we can't prove it.}
+{1100}{BUTCH73}{C'est le proprio du Faucon Maltais, à l'Ouest. A ta place, je m'y frotterais pas, c'est pas un mec honnête, comme moi.}
+{1101}{BUTCH74}{Euh, non, non... On parle pas de ça.}
+{1102}{BUTCH75}{Ah, tu... non, faut pas aller là. C'est vraiment hors de prix et pas fameux.}
+{1103}{BUTCH76}{Quelle chienlit ! On pense qu'ils ont leur planque dans la Vieille Ville, mais aucune preuve.}
 {1104}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me. Justin doesn't rule the roost around here.}
-{1105}{BUTCH78}{Old Harold? What do you want with that old mutant? He's in Old Town. Just ask there.}
-{1106}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub, just because of the Water Tower.}
-{1107}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{1105}{BUTCH78}{Harold l'Ancien ? Qu'est-ce que tu veux à ce vieux mutant ? Il est à la Vieille Ville. Une fois là-bas, tu demandes.}
+{1106}{BUTCH79}{Le temps, c'est de l'argent. Le bavardage, du gaspillage. T'es ici pour le boulot ou pour autre chose ?}
+{1107}{BUTCH80}{Adresse-toi à Rutger. Il t'en dira plus.}
 {1108}{BUTCH81}{You can find them over on the northwest edge of Downtown. They controlled the hospital before the Children moved in. Talk about trading the strange for the weird.}
-{1109}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me, he's nuts.}
+{1109}{BUTCH82}{C'est le chef de la Caravane Ecarlate. A mon avis, un cinglé.}
 {1110}{BUTCH83}{Don't you know where your own feet are?}
-{1111}{BUTCH84}{That's me. You blind or something?}
-{1112}{BUTCH85}{Uh, Beth's the manager of the Weapon Store. She hears lots of rumors, if you're into that kind of stuff.}
-{1113}{BUTCH86}{Rutger's my assistant.}
+{1111}{BUTCH84}{Oh, ils ont la gâchette facile là-bas, dans le Nord-Ouest. Plutôt inquiétants. Mais faut reconnaître qu'ils fabriquent de la belle artillerie.}
+{1112}{BUTCH85}{Euh, Beth est la patronne de l'Armurerie. Elle connaît tous les racontars, si c'est ça qui t'intéresse.}
+{1113}{BUTCH86}{Rutger est mon assistant.}
 {1114}{BUTCH87}{It's south of the Merchant Market. The only source of water here and for a lot of the surrounding area. The Water Merchants own the damn thing.}
 {1115}{BUTCH88}{Three of my caravans have disappeared in the past month. At first I thought it was either the Water Merchants or the Crimson Caravan, but they've had disappearances too.}
-{1116}{BUTCH89}{It's where everybody trades. Smack dab middle of town.}
+{1116}{BUTCH89}{C'est là où tout le monde fait du troc. En plein milieu de la ville.}
 {1117}{BUTCH90}{Uh, no I-I don't... Go talk to Beth, she knows more about that crap.}
 {1118}{BUTCH91}{The Glow is a radioactive pit way, way down south. Too much radiation for anyone to live there.}
 {1119}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
@@ -349,21 +349,21 @@
 {1123}{BUTCH98}{Oh, they're a bunch of gun freaks up to the northwest. Really weird. They do make a damn fine weapon, though.}
 {1124}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
 {1125}{BUTCH100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
-{1126}{BUTCH102}{Well, it's the place where everyone goes to trade in the Boneyard. It's the only place civilized enough to do it.}
+{1126}{BUTCH102}{Ah, c'est là que tout le monde va faire du commerce, dans le Cimetière. Le seul endroit assez civilisé pour ça.}
 {1127}{BUTCH103}{Last I heard, he's the mayor of Adytum.}
-{1128}{BUTCH104}{Well, they run a big, ol' hospital on the southwest side of Downtown. Bunch of religious nuts, if you ask me.}
-{1129}{BUTCH105}{He heads up the Children of the Cathedral down in the Boneyard.}
-{1130}{BUTCH105a}{Jain's the High Priestess of the Children of the Cathedral and sets up the hospital here in the Hub.}
-{1131}{BUTCH106}{I uh... heard stories, that's all. No truth to them.}
+{1128}{BUTCH104}{Ah, ils dirigent un vieil hôpital assez grand, au Sud du centre-ville. Une bande de culs-bénits cinglés, si tu veux mon avis.}
+{1129}{BUTCH105}{Il est à la tête des Enfants de la Cathédrale, là-bas au Cimetière de L.A.}
+{1130}{BUTCH105a}{Jain est la Grande Prêtresse des Enfants de la Cathédrale. Elle a installé l'hôpital dans le Centre.}
+{1131}{BUTCH106}{Euh, oui, je... j'ai entendu des histoires, c'est tout. Mais rien de vrai.}
 {1132}{BUTCH107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
 {1133}{BUTCH108}{Now there's some good eating. Bob's has got the best charred iguana this side of the desert.}
 {1134}{BUTCH109}{Well, you... uh... you don't want to go there. The prices are really high and the quality's bad.}
 {1135}{BUTCH110}{What do you want with them wackos? Jeez, all that peace preaching and tree hugging. Makes me sick.}
-{1136}{BUTCH84}{That's me. You blind or something?}
-{1137}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
-{1138}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
-{1139}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub, just because of the Water Tower.}
-{1140}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{1136}{BUTCH84}{Oh, ils ont la gâchette facile là-bas, dans le Nord-Ouest. Plutôt inquiétants. Mais faut reconnaître qu'ils fabriquent de la belle artillerie.}
+{1137}{BUTCH75}{Ah, tu... non, faut pas aller là. C'est vraiment hors de prix et pas fameux.}
+{1138}{BUTCH75}{Ah, tu... non, faut pas aller là. C'est vraiment hors de prix et pas fameux.}
+{1139}{BUTCH79}{Le temps, c'est de l'argent. Le bavardage, du gaspillage. T'es ici pour le boulot ou pour autre chose ?}
+{1140}{BUTCH80}{Adresse-toi à Rutger. Il t'en dira plus.}
 {1141}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me. Justin doesn't rule the roost around here.}
 {1142}{BUTCH81}{You can find them over on the northwest edge of Downtown. They controlled the hospital before the Children moved in. Talk about trading the strange for the weird.}
 {1143}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}

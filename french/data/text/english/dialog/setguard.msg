@@ -1,1 +1,1 @@
-{100}{}{The guard does not respond to you.}
+{100}{}{Le garde ne te répond pas.}

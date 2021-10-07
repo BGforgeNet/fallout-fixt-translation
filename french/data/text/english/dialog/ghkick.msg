@@ -1,2 +1,2 @@
-{100}{}{You see a ghoul gang member.}
-{101}{}{You not supposed to be here! Man, I'm gonna have to kick your ass.}
+{100}{}{Voici un membre de la bande des Goules.}
+{101}{}{T'as rien à faire ici ! Va falloir que j'emploie la manière forte.}

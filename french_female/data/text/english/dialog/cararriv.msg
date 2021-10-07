@@ -1,2 +1,2 @@
-{100}{}{You help finish unloading the caravan and are handed }
+{100}{}{Tu aide à décharger la caravane. }
 {101}{}{ caps.}

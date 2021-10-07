@@ -1,106 +1,106 @@
-{100}{}{The frame of this security door has remnants of blue paint.}
-{101}{}{You get a mild shock from the electric field on the door and take a point of damage.}
-{102}{}{You get a strong shock from the electric field on the door. You sustain }
-{103}{}{ points of damage.}
-{104}{}{You force the door open.}
-{105}{}{The door is locked.}
-{106}{}{Authorization granted. Now disarming electric field.}
-{107}{}{You are not authorized to enter this room.}
-{108}{}{This item does not effect the security systems.}
-{109}{}{You pick the lock on the security door.}
-{110}{}{There seems to be some type of security measure on this door.}
-{111}{}{You failed to pick the lock on the door.}
-{112}{}{This skill has no effect on the door.}
-{113}{}{You disarm the electric field security system on the door.}
-{114}{}{You intensified the power of the electric field.}
-{115}{}{You fail to disarm the electric field.}
-{116}{}{You pick the lock on the door without setting off the security system.}
-{117}{}{You fail to pick the lock and take serious damage from the security system.}
-{118}{}{You fail to pick the lock and take damage from the security system.}
-{119}{}{You are shocked by the security system and lose concentration to pick the lock.}
-{120}{}{You receive an intense shock from the security system and lose concentration to pick the lock.}
-{121}{}{You utterly fail in trying to pick this lock and destroy your picks.}
-{122}{}{You fail to pick this lock.}
-{123}{}{You see a sturdy, rusted door.}
-{124}{}{You see an unlocked door with red paint on it.}
-{125}{}{You see an unlocked door with red paint on it.}
-{126}{}{You see an unlocked door with a moving red field in front of it.}
-{127}{}{You see an unlocked door with a high voltage security system armed upon it.}
-{128}{}{You see a door with red paint on it.}
-{129}{}{You see a door with red paint on it.}
-{130}{}{You see a door with a moving red field in front of it.}
-{131}{}{You see a door with a high voltage security system armed upon it.}
-{132}{}{You see a locked door with red paint on it.}
-{133}{}{You see a locked door with red paint on it.}
-{134}{}{You see a locked door with a moving red field in front of it.}
-{135}{}{You see a locked door with a high voltage security system armed upon it.}
-{136}{}{The lock on this red door seems to need a special passkey.}
-{137}{}{The lock on this red door seems to need a special passkey.}
-{138}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering red field before the door.}
-{139}{}{The lock on this door seems to need a special red passkey. Additionally, you notice a high voltage security system armed upon it.}
-{140}{}{You see an unlocked door.}
-{141}{}{You see an unlocked door.}
-{142}{}{You see an unlocked door with a moving field in front of it.}
-{143}{}{You see an unlocked door with a high voltage security system armed upon it.}
-{144}{}{You see a door.}
-{145}{}{You see a door.}
-{146}{}{You see a door with a moving field in front of it.}
-{147}{}{You see a door with a high voltage security system armed upon it.}
-{148}{}{You see a locked door.}
-{149}{}{You see a locked door.}
-{150}{}{You see a locked door with a moving field in front of it.}
-{151}{}{You see a locked door with a high voltage security system armed upon it.}
-{152}{}{The lock on this door seems to need a special passkey.}
-{153}{}{The lock on this door seems to need a special passkey.}
-{154}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering field before the door.}
-{155}{}{The lock on this door seems to need a special passkey. Additionally, you notice a high voltage security system armed upon it.}
-{156}{}{You see an unlocked door with blue paint on it.}
-{157}{}{You see an unlocked door with blue paint on it.}
-{158}{}{You see an unlocked door with a moving blue field in front of it.}
-{159}{}{You see an unlocked door with a high voltage security system armed upon it.}
-{160}{}{You see a door with blue paint on it.}
-{161}{}{You see a door with blue paint on it.}
-{162}{}{You see a door with a moving blue field in front of it.}
-{163}{}{You see a door with a high voltage security system armed upon it.}
-{164}{}{You see a locked door with blue paint on it.}
-{165}{}{You see a locked door with blue paint on it.}
-{166}{}{You see a locked door with a moving blue field in front of it.}
-{167}{}{You see a locked door with a high voltage security system armed upon it.}
-{168}{}{The lock on this blue door seems to need a special passkey.}
-{169}{}{The lock on this blue door seems to need a special passkey.}
-{170}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering blue field before the door.}
-{171}{}{The lock on this door seems to need a special passkey. Additionally, you notice a high voltage security system armed upon it.}
-{172}{}{You see an unlocked door with blue paint on it.}
-{173}{}{You see an unlocked door with blue paint on it.}
-{174}{}{You see an unlocked door with a moving blue field in front of it.}
-{175}{}{You see an unlocked door with a high voltage security system armed upon it.}
-{176}{}{You see a door with blue paint on it.}
-{177}{}{You see a door with blue paint on it.}
-{178}{}{You see a door with a moving blue field in front of it.}
-{179}{}{You see a door with a high voltage security system armed upon it.}
-{180}{}{You see a locked door with blue paint on it.}
-{181}{}{You see a locked door with blue paint on it.}
-{182}{}{You see a locked door with a moving blue field in front of it.}
-{183}{}{You see a locked door with a high voltage security system armed upon it.}
-{184}{}{The lock on this blue door seems to need a special passkey.}
-{185}{}{The lock on this blue door seems to need a special passkey.}
-{186}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering blue field before the door.}
-{187}{}{The lock on this door seems to need a special blue passkey. Additionally, you notice a high voltage security system armed upon it.}
-{188}{}{You see a door with red paint on it.}
-{189}{}{You see a door with a moving red field in front of it.}
-{190}{}{You see a high voltage security system on this red door.}
-{191}{}{You see a high voltage security system on this red door. You wonder if there is a passkey to bypass it.}
-{192}{}{You see a door.}
-{193}{}{You see a door with a moving field in front of it.}
-{194}{}{You see a high voltage security system on this door.}
-{195}{}{You see a high voltage security system on this door. You wonder if there is a passkey to bypass it.}
-{196}{}{You see a door with blue paint on it.}
-{197}{}{You see a door with a moving blue field in front of it.}
-{198}{}{You see a high voltage security system on this blue door.}
-{199}{}{You see a high voltage security system on this blue door. You wonder if there is a passkey to bypass it.}
-{200}{}{You see a door with blue paint on it.}
-{201}{}{You see a door with a moving blue field in front of it.}
-{202}{}{You see a high voltage security system on this blue door.}
-{203}{}{You see a high voltage security system on this blue door. You wonder if there is a passkey to bypass it.}
-{204}{}{You notice there is a trap on this door.}
-{205}{}{The elevator is inoperable. It seems to need more power than emergency power can handle.}
+{100}{}{Il reste de la peinture bleue sur le chambranle de cette porte de sécurité.}
+{101}{}{Tu reçois une légère décharge du champ électrique de la porte, et prends un point de dégât.}
+{102}{}{Tu reçois une forte décharge du champ électrique de la porte, et prends }
+{103}{}{ points de dégât.}
+{104}{}{Tu forces la porte.}
+{105}{}{La porte est verrouillée.}
+{106}{}{Autorisation accordée. Désactivation immédiate du champ électrique.}
+{107}{}{L'accès à cette salle ne t'est pas autorisé.}
+{108}{}{Cet objet n'a aucun effet sur les systèmes de sécurité.}
+{109}{}{Tu crochètes le verrou de la porte de sécurité.}
+{110}{}{Cette porte semble équipée d'un système de sécurité.}
+{111}{}{Tu n'as pas réussi à crocheter la porte.}
+{112}{}{Cette compétence ne te permet pas d'ouvrir la porte.}
+{113}{}{Tu désactives le champ électrique de sécurité de la porte.}
+{114}{}{Tu as amplifié la puissance du champ électrique.}
+{115}{}{Tu ne réussis pas à désactiver le champ électrique.}
+{116}{}{Tu crochètes le verrou de la porte sans déclencher le système de sécurité.}
+{117}{}{Tu ne réussis pas à crocheter le verrou, et le système de sécurité te cause de sérieux dégâts.}
+{118}{}{Tu ne réussis pas à crocheter le verrou et le système de sécurité te cause des dégâts.}
+{119}{}{Tu reçois une décharge du système de sécurité et tu n'arrives plus à te concentrer pour crocheter le verrou.}
+{120}{}{Tu reçois une forte décharge du système de sécurité et tu n'arrives plus à te concentrer pour crocheter le verrou.}
+{121}{}{Non seulement tu ne réussis pas à crocheter le verrou mais en plus tu casses tes passe-partout.}
+{122}{}{Tu ne parviens pas à crocheter le verrou.}
+{123}{}{Tu vois une grosse porte rouillée.}
+{124}{}{Tu vois une porte déverrouillée peinte en rouge.}
+{125}{}{Tu vois une porte déverrouillée peinte en rouge.}
+{126}{}{Tu vois une porte déverrouillée devant laquelle se trouve un champ mobile rouge.}
+{127}{}{Tu vois une porte déverrouillée équipée d'un système de sécurité à haute tension.}
+{128}{}{Tu vois une porte peinte en rouge.}
+{129}{}{Tu vois une porte peinte en rouge.}
+{130}{}{Tu vois une porte devant laquelle se trouve un champ mobile rouge.}
+{131}{}{Tu vois une porte équipée d'un système de sécurité à haute tension.}
+{132}{}{Tu vois une porte verrouillée peinte en rouge.}
+{133}{}{Tu vois une porte verrouillée peinte en rouge.}
+{134}{}{Tu vois une porte verrouillée devant laquelle se trouve un champ mobile rouge.}
+{135}{}{Tu vois une porte verrouillée équipée d'un système de sécurité à haute tension.}
+{136}{}{Le verrou de cette porte rouge semble nécessiter un passe spécial.}
+{137}{}{Le verrou de cette porte rouge semble nécessiter un passe spécial.}
+{138}{}{Le verrou de cette porte semble nécessiter un passe spécial. Tu remarques aussi un champ rouge chatoyant devant la porte.}
+{139}{}{Le verrou de cette porte semble nécessiter un passe rouge spécial. Tu remarques aussi qu'un système de sécurité à haute tension est activé.}
+{140}{}{Tu vois une porte déverrouillée.}
+{141}{}{Tu vois une porte déverrouillée.}
+{142}{}{Tu vois une porte déverrouillée devant laquelle se trouve un champ mobile.}
+{143}{}{Tu vois une porte déverrouillée équipée d'un système de sécurité à haute tension.}
+{144}{}{Tu vois une porte.}
+{145}{}{Tu vois une porte.}
+{146}{}{Tu vois une porte devant laquelle se trouve un champ mobile.}
+{147}{}{Tu vois une porte équipée d'un système de sécurité à haute tension.}
+{148}{}{Tu vois une porte verrouillée.}
+{149}{}{Tu vois une porte verrouillée.}
+{150}{}{Tu vois une porte verrouillée devant laquelle se trouve un champ mobile.}
+{151}{}{Tu vois une porte verrouillée équipée d'un système de sécurité à haute tension.}
+{152}{}{Le verrou de cette porte semble nécessiter un passe spécial.}
+{153}{}{Le verrou de cette porte semble nécessiter un passe spécial.}
+{154}{}{Le verrou de cette porte semble nécessiter un passe spécial. Tu remarques aussi un champ rouge chatoyant devant la porte.}
+{155}{}{Le verrou de cette porte semble nécessiter un passe spécial. De plus, tu remarques qu'un système de sécurité à haute tension est activé.}
+{156}{}{Tu vois une porte déverrouillée peinte en bleu.}
+{157}{}{Tu vois une porte déverrouillée peinte en bleu.}
+{158}{}{Tu vois une porte déverrouillée devant laquelle se trouve un champ mobile bleu.}
+{159}{}{Tu vois une porte déverrouillée équipée d'un système de sécurité à haute tension.}
+{160}{}{Tu vois une porte peinte en bleu.}
+{161}{}{Tu vois une porte peinte en bleu.}
+{162}{}{Tu vois une porte devant laquelle se trouve un champ mobile bleu.}
+{163}{}{Tu vois une porte équipée d'un système de sécurité à haute tension.}
+{164}{}{Tu vois une porte verrouillée peinte en bleu.}
+{165}{}{Tu vois une porte verrouillée peinte en bleu.}
+{166}{}{Tu vois une porte verrouillée devant laquelle se trouve un champ mobile bleu.}
+{167}{}{Tu vois une porte verrouillée équipée d'un système de sécurité à haute tension.}
+{168}{}{Le verrou de cette porte bleue semble nécessiter un passe spécial.}
+{169}{}{Le verrou de cette porte bleue semble nécessiter un passe spécial.}
+{170}{}{Le verrou de cette porte bleue semble nécessiter un passe spécial. Tu remarques aussi champ bleu chatoyant devant la porte.}
+{171}{}{Le verrou de cette porte semble nécessiter un passe spécial. De plus, tu remarques qu'un système de sécurité à haute tension est activé.}
+{172}{}{Tu vois une porte déverrouillée peinte en bleu.}
+{173}{}{Tu vois une porte déverrouillée peinte en bleu.}
+{174}{}{Tu vois une porte déverrouillée devant laquelle se trouve un champ mobile bleu.}
+{175}{}{Tu vois une porte déverrouillée équipée d'un système de sécurité à haute tension.}
+{176}{}{Tu vois une porte peinte en bleu.}
+{177}{}{Tu vois une porte peinte en bleu.}
+{178}{}{Tu vois une porte devant laquelle se trouve un champ mobile bleu.}
+{179}{}{Tu vois une porte équipée d'un système de sécurité à haute tension.}
+{180}{}{Tu vois une porte verrouillée peinte en bleu.}
+{181}{}{Tu vois une porte verrouillée peinte en bleu.}
+{182}{}{Tu vois une porte verrouillée devant laquelle se trouve un champ mobile bleu.}
+{183}{}{Tu vois une porte verrouillée équipée d'un système de sécurité à haute tension.}
+{184}{}{Le verrou de cette porte bleue semble nécessiter un passe spécial.}
+{185}{}{Le verrou de cette porte bleue semble nécessiter un passe spécial.}
+{186}{}{Le verrou de cette porte bleue semble nécessiter un passe spécial. Tu remarques aussi champ bleu chatoyant devant la porte.}
+{187}{}{Le verrou de cette porte bleue semble nécessiter un passe bleu spécial. Tu remarques aussi qu'un système de sécurité à haute tension est activé.}
+{188}{}{Tu vois une porte peinte en rouge.}
+{189}{}{Tu vois une porte devant laquelle se trouve un champ mobile rouge.}
+{190}{}{Tu vois un système de sécurité à haute tension sur cette porte rouge.}
+{191}{}{Tu vois un système de sécurité à haute tension sur cette porte rouge. Tu te demandes s'il existe un passe pour la franchir.}
+{192}{}{Tu vois une porte.}
+{193}{}{Tu vois une porte devant laquelle se trouve un champ mobile.}
+{194}{}{Tu vois un système de sécurité à haute tension sur cette porte.}
+{195}{}{Tu vois un système de sécurité à haute tension sur cette porte. Tu te demandes s'il existe un passe pour la franchir.}
+{196}{}{Tu vois une porte peinte en bleu.}
+{197}{}{Tu vois une porte devant laquelle se trouve un champ mobile bleu.}
+{198}{}{Tu vois un système de sécurité à haute tension sur cette porte bleue.}
+{199}{}{Tu vois un système de sécurité à haute tension sur cette porte bleue. Tu te demandes s'il existe un passe pour la franchir.}
+{200}{}{Tu vois une porte peinte en bleu.}
+{201}{}{Tu vois une porte devant laquelle se trouve un champ mobile bleu.}
+{202}{}{Tu vois un système de sécurité à haute tension sur cette porte bleue.}
+{203}{}{Tu vois un système de sécurité à haute tension sur cette porte bleue. Tu te demandes s'il existe un passe pour la franchir.}
+{204}{}{Tu remarques que cette porte est piégée.}
+{205}{}{L'ascenseur est en panne. L'alimentation de secours ne semble pas assez puissante pour le faire fonctionner.}

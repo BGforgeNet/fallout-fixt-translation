@@ -1,12 +1,12 @@
-{100}{}{You see Zack Barstow, an Initiate of the Childred of the Cathedral.}
-{101}{}{Welcome to the Children of the Cathedral. How might I help you today?}
-{102}{}{Urrrooo?}
-{103}{}{What is the meaning of the universe?}
-{104}{}{I'm hurt pretty bad. Think you can help me?}
-{105}{}{How do you fix the water pump?}
-{106}{}{Can you tell me something about this place?}
-{107}{}{I am ill-suited for that. Perhaps if you talk to Laura, she will be willing give you the information you need to know.}
-{108}{}{Oh, fixing water pumps is easy. It's just a flag.}
-{109}{}{I don't have the tools to assist you with that problem. Please talk to one of my superiors.}
-{110}{}{Oh, that. That's just a flag.}
-{111}{}{Please consult with Laura. I have told you all I know.}
+{100}{}{Tu vois Zack Barstow, un initié des Enfants de la cathédrale.}
+{101}{}{Bienvenue chez les Enfants de la Cathédrale. Comment puis-je faire pour t'aider ?}
+{102}{}{Urrrooo ?}
+{103}{}{Quel est le sens de l'univers ?}
+{104}{}{Je suis gravement blessé. Tu penses pouvoir m'aider ?}
+{105}{}{Comment réparer une pompe à eau ?}
+{106}{}{Peux-tu me dire quelque chose sur cet endroit ?}
+{107}{}{Je ne suis pas fait pour ça. Peut-être que si tu parles à Laura, elle sera prête à te donner les informations dont tu as besoin.}
+{108}{}{Oh, réparer des pompes à eau, c'est facile. C'est une formalité.}
+{109}{}{Je n'ai pas les outils pour t'aider avec ce problème. Va t'adresser à l'un de mes supérieurs.}
+{110}{}{Oh, ça. C'est une formalité.}
+{111}{}{Va consulter Laura. Je t'ai dit tout ce que je savais.}

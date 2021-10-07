@@ -1,24 +1,24 @@
-{100}{}{You see: Gunther.}
-{101}{}{You see a stern man in his thirties.}
-{102}{}{Welcome to my humble house. What can I do for you?}
-{103}{}{Could you tell me a little about the Hub?}
-{104}{}{Where can I find some ammo and weapons around here?}
-{105}{}{What do you do around here?}
-{106}{}{Who's the law around here?}
-{107}{}{Sure, what else would you like to know?}
-{108}{}{It's a sprawling city, the largest I have seen in my life. The center of the town lies to the south, with the other areas branching off in each direction from there.}
-{109}{}{Where can I find supplies?}
-{110}{}{If I was looking for a job, where would be a good place to start?}
-{111}{}{Can I ask you another question?}
-{112}{}{Thanks for the info. Goodbye.}
-{113}{}{I get everything that I need from Mitch down by the Maltese Falcon. Just head on south from here.}
-{114}{}{I occasionally do a stint on one of the caravans that head out from here. If you're looking for that kind of work, just talk to one of the trading houses. I'm partial to the Far Go Traders, but I've worked with all of them.}
-{115}{}{Well, I buy most of my stuff from Beth over in the Weapon Store. Got a pretty good selection.}
-{116}{}{What would I do if I was looking for something a little more 'exotic'.}
-{117}{}{Will mentioning your name help lower the price?}
-{118}{}{I've heard there is some guy over in Old Town that deals in stuff with a little more punch.}
-{119}{}{Probably not, she's sweet on her bodyguard Sid. But, you might want to try Butch. He runs the Far Go Traders, which owns her store.}
-{120}{}{I get by. I hire on with the caravans when I'm a little short on cash, and work for the farmers down south a bit.}
-{121}{}{Well, you probably passed Deputy Fry on your way down here. His boss is Sheriff Greene, and you'll find him in the Police Station most of the time.}
-{122}{}{Coookkiieee!}
-{123}{}{I'm sorry, but you're not making any sense. Maybe Dr. Thorndyke with the Children can help you.}
+{100}{}{Voici Gunther.}
+{101}{}{Voici un homme d'une trentaine d'années à l'allure sévère.}
+{102}{}{Bienvenue dans mon humble demeure. Je peux t'aider ?}
+{103}{}{Peux-tu me parler un peu du Centre ?}
+{104}{}{Où puis-je trouver des munitions et des armes dans le coin ?}
+{105}{}{Que fais-tu ici ?}
+{106}{}{Qui fait la loi par ici ?}
+{107}{}{Certainement. Tu veux savoir autre chose ?}
+{108}{}{C'est une ville gigantesque, la plus grande que j'aie jamais vue. Le centre de la ville se trouve au Sud.}
+{109}{}{Où est-ce que je peux me ravitailler ?}
+{110}{}{Si je cherchais un boulot, quel endroit tu me conseillerais en premier ?}
+{111}{}{Je peux encore te poser quelques questions ?}
+{112}{}{Merci pour l'info. Salut.}
+{113}{}{Je m'approvisionne toujours chez Mitch, près du Faucon Maltais. C'est au Sud d'ici.}
+{114}{}{Je bosse de temps en temps pour les caravanes avant leur départ. Si ça t'intéresse, adresse-toi à un des marchands. Je préfère les Marchands du Lointain, mais j'ai travaillé avec tous.}
+{115}{}{Ben, j'achète presque tout chez Beth, à l'Armurerie. Il y a un assez bon choix.}
+{116}{}{Et si je recherche quelque chose d'un peu plus 'exotique' ?}
+{117}{}{Tu crois qu'on me fera un prix si je viens de ta part ?}
+{118}{}{Il paraît qu'il y a un type, dans la Vieille Ville, qui vend des trucs un peu plus 'vigoureux'.}
+{119}{}{Je pense pas. Elle a un faible pour Sid, son garde du corps. Mais tu devrais peut-être essayer Butch, il dirige les Marchands du Lointain, les propriétaires de sa boutique.}
+{120}{}{Je m'en tire. Je bosse pour les caravanes quand je suis un peu à court, et de temps en temps pour les fermiers vers le Sud.}
+{121}{}{Ah, t'as dû passer devant le Député Fry en venant ici. Il bosse pour le Shérif Greene et il passe presque tout son temps au poste de police.}
+{122}{}{Meeeec !}
+{123}{}{Pardon, mais tu m'as pas l'air net. Peut-être que le Dr. Thorndyke, chez les Enfants, peut t'aider.}

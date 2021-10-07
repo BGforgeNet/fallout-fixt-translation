@@ -1,26 +1,26 @@
-{100}{}{You see: Snake, a member of the Blades.}
-{101}{}{You see: Dolgan, a member of the Blades.}
+{100}{}{Tu vois Snake, un membre des Ecorcheurs.}
+{101}{}{Tu vois Dolgan, un membre des Ecorcheurs.}
 {102}{}{}
 {103}{}{}
-{104}{}{You see a member of the Blades.}
-{105}{}{You see a member of the Blades.}
-{106}{}{You think that might be Books.}
-{107}{}{You think that might be Scars.}
-{108}{}{You think that might be Gunner.}
-{109}{}{You think that might be Twitch.}
-{110}{}{You think that might be Hammer.}
-{111}{}{You think that might be Razor.}
-{112}{}{Get lost! This is for real fighters only.}
-{113}{}{So, you think you can take on the Regulator wimps? Here, I'll teach you how to use that blade.}
-{114}{}{You seem to have gotten better. Now go kick Caleb's butt into next year for me.}
-{115}{}{Great job on hacking up those Regulators. What can I do for you?}
-{116}{}{Can you teach me some more blade skills?}
-{117}{}{How can I get through to the Gun Runners?}
-{118}{}{Nothing, thanks.}
-{119}{}{Sure thing. But it'll take most of the day for a little improvement. You still want to?}
-{120}{}{Yes.}
-{121}{}{No.}
-{122}{}{There you go. You've shown a little improvement. Good luck to you.}
-{123}{}{Sure thing. Come back when you want more training.}
-{124}{}{Seems like we let in a fool. Well, if you want to get into their place, there is a slight break in their moat. Look for it and run like mad. You may even make it across.}
-{125}{}{Thanks.}
+{104}{}{Tu vois un membre des Ecorcheurs.}
+{105}{}{Tu vois un membre des Ecorcheurs.}
+{106}{}{Tu penses que c'est Books.}
+{107}{}{Tu penses que c'est Scars.}
+{108}{}{Tu penses que c'est Gunner.}
+{109}{}{Tu penses que c'est Twitch.}
+{110}{}{Tu penses que c'est Hammer.}
+{111}{}{Tu penses que c'est Razor.}
+{112}{}{Vas t'en ! C'est seulement pour les vrais combattants ici.}
+{113}{}{Ainsi, tu penses prendre le dessus sur ces mauviettes de Régulateurs ? Viens ici, je vais te montrer comment utiliser cette lame.}
+{114}{}{Tu sembles t'être améliorer. Maintenant, va botter le derrière de Caleb pour moi !}
+{115}{}{Beau boulot avec ces Régulateurs. Que puis-je faire pour toi ?}
+{116}{}{Peux-tu m'apprendre quelques trucs sur l'utilisation des Armes de mêlée ?}
+{117}{}{Comment puis-je aller jusqu'aux Contrebandiers ?}
+{118}{}{Rien, merci.}
+{119}{}{Bien sûr. Mais ça va prendre une grosse partie de la journée pour une légère amélioration. Toujours partant ?}
+{120}{}{Oui.}
+{121}{}{Non.}
+{122}{}{Et voilà. Tu t'es un peu amélioré. Bonne continuation.}
+{123}{}{Absolument. Reviens quand tu voudras un autre entrainement.}
+{124}{}{On dirait que nous avons un fou avec nous. Bien, si tu veux entrer chez eux, il y a une brèche dans leur défense. Trouve-la et cours le plus vite possible. Tu pourras peut-être passer de l'autre coté en un seul morceau.}
+{125}{}{Merci.}

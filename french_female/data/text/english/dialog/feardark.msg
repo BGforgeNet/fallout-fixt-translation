@@ -1,2 +1,2 @@
-{100}{}{Never before have you seen a natural darkness like this one. It almost looks unnatural to you.}
-{101}{}{You barely manage to keep your fears in check, but you are able to move into the darkness.}
+{100}{}{Vous n'aviez encore jamais vu une obscurité naturelle comme celle-ci dans votre vie. Cela semble presque irréel.}
+{101}{}{Vous avez du mal à gérer vos craintes, mais vous êtes en mesure de vous déplacer dans l'obscurité.}

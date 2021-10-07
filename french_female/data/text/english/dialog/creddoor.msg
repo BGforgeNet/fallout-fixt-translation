@@ -1,5 +1,5 @@
-{100}{}{The door is locked. You have never seen a lock quite like this.}
-{101}{}{The door is closed, but it is unlocked.}
-{102}{}{You try to open the door, but fail. You suddenly realize the door is locked.}
-{103}{}{You fail to pick the lock on the door.}
-{104}{}{You pick the lock on the door.}
+{100}{}{La porte est fermée à clé. Tu n'as jamais vu une telle serrure.}
+{101}{}{La porte est fermée, mais pas à clé.}
+{102}{}{Tu essaies d'ouvrir la porte, mais en vain. Tu comprends soudain qu'elle est fermée à clé.}
+{103}{}{Tu n'arrives pas à crocheter la serrure de la porte.}
+{104}{}{Tu crochètes le verrou de la porte.}

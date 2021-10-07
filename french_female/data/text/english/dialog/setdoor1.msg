@@ -1,8 +1,8 @@
-{100}{}{You pick the lock.}
-{101}{}{You cannot open this lock.}
-{102}{}{You broke your lockpicks.}
-{103}{}{You don't know how to pick the lock.}
-{104}{}{The door is locked.}
-{105}{}{The door is open.}
-{106}{}{The door is closed and unlocked.}
-{107}{}{creeeeeek}
+{100}{}{Tu crochètes le verrou.}
+{101}{}{Tu ne peux pas ouvrir ce verrou.}
+{102}{}{Tu brises ton passe-partout.}
+{103}{}{Tu ne sais pas comment crocheter le verrou.}
+{104}{}{La porte est verrouillée.}
+{105}{}{La porte est ouverte.}
+{106}{}{La porte est fermée, mais déverrouillée.}
+{107}{}{crîîîk}

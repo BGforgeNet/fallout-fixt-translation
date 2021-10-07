@@ -1,3 +1,3 @@
-{100}{}{The bed looks messy and unmade.}
-{101}{}{The bed looks messy and unmade.}
-{102}{}{Razlo would not be happy if you used his bed.}
+{100}{}{Le lit semble défait.}
+{101}{}{Le lit semble défait.}
+{102}{}{Razlo n'apprécierait pas que tu utilises son lit.}

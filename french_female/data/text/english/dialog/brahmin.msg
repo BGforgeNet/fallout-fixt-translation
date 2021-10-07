@@ -1,13 +1,13 @@
-{100}{}{A two-headed mutant cow. This one has been domesticated.}
-{101}{}{Looks normal to you.}
-{102}{}{Why are you talking to brahmin?}
-{103}{}{The brahma stares at you for a moment, then looks away.}
-{104}{}{The animal ignores you.}
-{105}{}{The animal grunts but is otherwise unresponsive.}
-{106}{}{A two-headed mutant cow. This one is a wild animal.}
-{107}{}{Looks pretty normal to you.}
-{108}{}{There is nothing natural about these cows. The second head can only be the result of some strange mutation.}
-{109}{}{Moo.}
-{110}{}{Moo!}
-{111}{}{Moo, I say.}
-{113}{}{You have enraged the cow for attacking its friend.}
+{100}{}{C'est un animal domestiqué.}
+{101}{}{Ces vaches n'ont rien de naturel. Leur deuxième tête ne peut être que le fruit d'une étrange mutation.}
+{102}{}{Ca te paraît normal.}
+{103}{}{Meuh.}
+{104}{}{La bête ne fait pas attention à toi.}
+{105}{}{La bête grogne mais ne réagit pas outre mesure.}
+{106}{}{Tu vois une vache mutante à deux têtes à l'état sauvage.}
+{107}{}{Ca te semble presque normal.}
+{108}{}{Ces vaches n'ont rien de naturel; leur seconde tête est le fruit d'une mutation.}
+{109}{}{Meuh.}
+{110}{}{Meuh !}
+{111}{}{J'ai dit, meuh.}
+{113}{}{Tu as mis en colère la vache en attaquant ses amis.}

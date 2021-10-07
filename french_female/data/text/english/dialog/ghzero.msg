@@ -1,2 +1,2 @@
-{100}{}{You see a ghoul guard.}
-{101}{}{I'm on duty. If you want to see Set, you gotta do it inside.}
+{100}{}{Voici un Garde Goule.}
+{101}{}{Je suis en service. Si tu veux voir Set, c'est à l'intérieur.}

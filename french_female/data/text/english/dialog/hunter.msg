@@ -1,28 +1,28 @@
-{100}{}{You see a burly bounty hunter with a button that reads, "I'm Christopher and you're meat."}
-{101}{}{What do you want?}
-{102}{}{A doughnut.}
-{103}{}{What are you doing here?}
-{104}{}{Just looking around.}
-{105}{}{Nothing.}
-{106}{}{We don't appreciate wise guys here. Buzz off.}
-{107}{}{That joke wasn't even funny the first time. You're about to discover why I'm one of the most fearsome bounty hunters in the wasteland. And I won't even get paid for it.}
+{100}{}{Voici un chasseur de primes très costaud avec une pancarte où l'on peut lire, "Je suis Christopher et tu es mon bifteck".}
+{101}{}{Qu'est-ce que tu veux ?}
+{102}{}{Un beignet.}
+{103}{}{Que fais-tu ici ?}
+{104}{}{Je jetais un coup d'œil.}
+{105}{}{Rien.}
+{106}{}{Ici, on n'aime pas trop ceux qui se la jouent. Décampe.}
+{107}{}{Cette blague n'était déjà pas marrante la première fois. Tu es sur le point de découvrir pourquoi je suis l'un des chasseurs de primes les plus craints du désert. Et je me ferai même pas payer pour ça !}
 {108}{}{None of your business.}
-{109}{}{Well, go poke around somewhere else.}
-{110}{}{Did you know that there's a bounty of }
-{111}{}{(He looks you over, carefully, considering something. It seems he's made a decision already.) Tell me, how often do you visit The Hub or Junktown?}
-{112}{}{Often enough, why do you ask?}
-{113}{}{Well, you see... business takes almost all of my time and I don't have an opportunity to get there. And as an incurable smoker I miss an old Zippo lighter very much. It's said, many of those pre-War items can be found in the shops there. If you get a Zippo for me, I'll share some information about the neighboring settlements. I think it could be of use!}
-{114}{}{It's a pity. Looks like I made a mistake about you. Get out of here.}
-{115}{}{Sure, why not? I'll get one for you.}
-{116}{}{Okay.}
-{117}{}{Hey, I have one right here. I don't really need it and can give it to you in exchange for the information.}
-{118}{}{Thank you! (He takes the lighter.) So, what do you want to hear, exactly?}
-{119}{}{Here is your lighter. Time to give me some information.}
-{120}{}{No more questions, thanks.}
+{109}{}{Bon, va voir ailleurs si j'y suis.}
+{110}{}{Tu savais que ta tête a été mise à prix pour }
+{111}{}{[Christopher te regarde avec attention, envisageant quelque chose... on dirait qu'il vient de prendre une décision] Dis-moi, à quel rythme rends-tu visite au Centre ou à Dépotville ?}
+{112}{}{Assez souvent, pourquoi cette question ?}
+{113}{}{Et bien, tu vois... Le travail m'occupe presque à plein temps et je n'ai aucune opportunité pour me rendre là-bas. Et en tant que fumeur invétéré, un bon vieux briquet Zippo me manque terriblement. On dit que de nombreux objets d'avant-guerre peuvent se trouver dans les magasins là-bas. Si tu me rapportes un Zippo, je partagerai avec toi des informations au sujet des bases voisines. Je pense que cela pourrait t'être utile !}
+{114}{}{Quel dommage. On dirait que je me suis trompé sur ton compte. Dégage de là.}
+{115}{}{Pourquoi pas, je t'en trouverai un.}
+{116}{}{D'accord.}
+{117}{}{Hé, j'en ai justement un ici. J'en ai pas vraiment besoin et je peux te le donner en échange d'informations.}
+{118}{}{Merci ! [Il prend le briquet] Donc, qu'as-tu besoin de savoir, exactement ?}
+{119}{}{Voici ton briquet. Il est temps de me donner des informations.}
+{120}{}{Pas d'autres questions, merci.}
 {121}{}{[Plus]}
-{122}{}{What else do you want to know?}
-{123}{}{I need some information.}
-{124}{}{Buuhhh.. Wuh?}
-{125}{}{Are you serious? Get out of my sight.}
-{126}{}{I'm going to do the world a favor by putting a bullet through your skull.}
-{200}{}{ caps on your head for killing children? Time to collect!}
+{122}{}{Que veux-tu savoir d'autre ?}
+{123}{}{Je cherche des informations.}
+{124}{}{beuuh.. que ?}
+{125}{}{T'es sérieux ? Hors de ma vue !}
+{126}{}{Je vais rendre service au monde en te logeant une balle dans le crâne !}
+{200}{}{ caps, pour avoir assassiné des enfants ? C'est le moment de rafler la mise !}

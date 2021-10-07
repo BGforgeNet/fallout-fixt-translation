@@ -1,1 +1,1 @@
-{100}{}{There's an emergency medical cache on the east wall. It may prove useful.}
+{100}{}{Il y a une trousse de premiers secours dissimulée dans le mur est. Ca peut toujours servir.}

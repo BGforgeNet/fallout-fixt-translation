@@ -1,51 +1,51 @@
-{100}{}{You see a man in studded leather armor with an odd assortment of knick-knacks.}
-{101}{}{You see: Patrick, the Celt.}
-{102}{}{Greetings, traveler. What brings you out this far?}
-{103}{}{Just wandering.}
-{104}{}{Um, why are you carrying all that junk?}
-{105}{}{I need to find a water purification control chip.}
-{106}{}{I'm killing everybody I can get within shooting distance of. Prepare to die.}
-{107}{}{Lub!}
-{108}{}{I see. Much like myself, then.}
-{109}{}{Oh? You're not from one of the communities out here?}
-{110}{}{Can you direct me to a nearby settlement?}
-{111}{}{So what's your story?}
-{112}{}{Well, see ya.}
-{113}{}{It's not junk! It's trade goods!}
-{114}{}{Uh, right. Bye.}
-{115}{}{Uh huh. So what's your story?}
-{116}{}{Hmm. Haven't seen one of those before. What seems to be the trouble?}
-{117}{}{This chip controls water purification for my Vault. It's blown out, though.}
-{118}{}{It's broken.}
-{119}{}{I wander from place to place, making a living with music and a little bit of tinkering work.}
-{120}{}{What kind of work do you do?}
-{121}{}{What kind of music do you sing?}
-{122}{}{Well, it's good to meet you. Bye.}
-{123}{}{Using the coastline as a referent, you've got Shady Sands about a week inland, and Junktown a few days south of there. Hub's just another couple days south of Junktown. Avoid Necropolis to the east of those, though. Not worth the trouble.}
-{124}{}{What do you know about Shady Sands?}
-{125}{}{What do you know about Junktown?}
-{126}{}{What do you know about the Hub?}
-{127}{}{What do you know about Necropolis?}
-{128}{}{I don't think I could help you with that. I never had much of a chance to study pre-War Vault technology.}
-{129}{}{Mostly a little electrical and mechanical tinkering. I helped Junktown with their lights and showed the people in Shady Sands a better design for their stoves.}
-{130}{}{Really? Think you could fix a Water Chip?}
-{131}{}{Oh, mostly old folk songs and some Celtic music. It's a change of pace.}
-{132}{}{Would you happen to know 'Na Gheala Mbeadh', as I think it's called?}
-{133}{}{I see. What else do you do?}
-{134}{}{Shady Sands is a small, self-sufficient community led by Aradesh, a kind man and strong leader. They are peaceful and hard-working. They are probably the best chance for a new civilization here.}
-{135}{}{Shady Sands is a small farming community. They were led by a good man named Aradesh, but I've heard he's gone. It's a pity. Without him I don't know if they'll survive.}
-{136}{}{Junktown? A small trading city. Strange place until you get used to it. They are run by mayor Killian Darkwater, a hard but fair man.}
-{137}{}{Junktown? A small trading city. Strange place until you get used to it. They are run by Gizmo, a gambling mogul and crime-lord.}
-{138}{}{Junktown? A small trading city. Not too remarkable.}
-{139}{}{The Hub is a major trading center. It's said that you can find anything there, and I'd say that's not too far wrong.}
-{140}{}{Necropolis is the city of the dead. It's inhabited by ghouls, the descendants of humans who sought shelter in a Vault there. Story goes that the Vault failed somehow, so now the only inhabitants are carrion-eating monsters.}
-{141}{}{It was overrun by an army of mutants last I heard. I'd stay away from there, if I were you.}
-{142}{}{Do you suppose that Vault might have parts that I could salvage?}
-{143}{}{Possibly, but I for one wouldn't risk the ghouls. Latest word is they've some sort of powerful new leader.}
-{144}{}{Why, certainly. Would you like to hear it?}
-{145}{}{Sure.}
-{146}{}{Nah.}
-{147}{}{[Patrick sings songs and the two of you reminisce for several hours. You feel invigorated.]}
-{148}{}{Hello again. Can I help you?}
-{149}{}{Yeah, can you give me some directions?}
-{150}{}{No, never mind, thanks.}
+{100}{}{Voici un homme qui porte une armure de cuir cloutée et un assortiment étrange de bricoles.}
+{101}{}{Voici Patrick, le Celte.}
+{102}{}{Salut à toi. Qu'est-ce qui t'amène dans nos contrées ?}
+{103}{}{Je me balade.}
+{104}{}{Hum, pourquoi tu portes tout ce fatras ?}
+{105}{}{Il faut que je trouve une puce de contrôle d'épuration de l'eau.}
+{106}{}{Je tue tout ce qui se trouve à ma portée. Prépare-toi à mourir.}
+{107}{}{Beu !}
+{108}{}{Je vois. Un peu comme moi, alors.}
+{109}{}{Oh ? T'es pas d'une de ces communautés tout près d'ici ?}
+{110}{}{Tu sais où je peux trouver un campement dans le coin ?}
+{111}{}{Raconte ce qui t'amène.}
+{112}{}{Bon, à plus.}
+{113}{}{Un fatras !? Qu'est-ce que tu racontes, c'est des marchandises !}
+{114}{}{Euh, d'accord. Salut.}
+{115}{}{Euh. Alors, raconte ce qui t'amène.}
+{116}{}{Hum. Encore jamais vu ça ! Qu'est-ce qui ne va pas ?}
+{117}{}{Cette puce de contrôle l'épuration de l'eau dans mon Abri. Mais, elle a sauté.}
+{118}{}{Elle est cassée.}
+{119}{}{Je me balade, je vis de ma musique et je bricole à droite à gauche.}
+{120}{}{Quel genre de travail tu fais ?}
+{121}{}{Quel genre de musique ?}
+{122}{}{Un vrai plaisir d'avoir fait ta connaissance ! Au revoir.}
+{123}{}{En partant de la côte, t'as les Sables Ombragés, à environ une semaine à l'intérieur des terres, et Dépôtville, à quelques jours au Sud. Le Centre est seulement à deux-trois jours au Sud de Dépôtville. Et Nécropolis, à l'Est... à éviter. Ca ne vaut pas le détour.}
+{124}{}{Que sais-tu des Sables Ombragés ?}
+{125}{}{Que sais-tu de Dépôtville ?}
+{126}{}{Que sais-tu du Centre ?}
+{127}{}{Que sais-tu de Nécropolis ?}
+{128}{}{Là-dessus, je ne pense pas pouvoir t'aider. Je n'ai jamais pu vraiment étudier la technologie d'avant-guerre des Abris.}
+{129}{}{Un peu d'électricité et de mécanique. J'ai aidé pour l'éclairage de Dépôtville et, aux Sables Ombragés, j'ai montré aux gens comment mieux concevoir leurs poêles.}
+{130}{}{Vraiment ? Tu crois que tu saurais réparer une puce d'eau ?}
+{131}{}{Oh, surtout des vieilles chansons traditionnelles et un peu de musique celtique. C'est le rythme qui change.}
+{132}{}{Tu connaîtrais pas la chanson "Na Gheala Mbeadh", je crois qu'elle s'appelle ?}
+{133}{}{Je vois. Que fais-tu d'autre ?}
+{134}{}{Les Sables Ombragés, c'est une petite communauté autosuffisante dirigée par Aradesh, un brave type et un sacré chef. Des gens pacifiques et des bosseurs. Sans doute la meilleure chance pour que la civilisation renaisse ici.}
+{135}{}{Les Sables Ombragés, c'est une petite communauté agricole. Elle était dirigée par Aradesh, un brave type, mais il paraît qu'il est parti. Dommage. Sans lui, je sais pas si elle résistera.}
+{136}{}{Dépôtville ? Une petite ville marchande. Un peu bizarre au premier abord. Elle est dirigée par Killian Darkwater, le maire, un type pas facile mais juste.}
+{137}{}{Dépôtville ? Une petite ville marchande. Un peu bizarre au premier abord. Elle est dirigée par Gizmo, un magnat du jeu et un seigneur du crime.}
+{138}{}{Dépôtville ? Une petite ville marchande. Rien d'extraordinaire.}
+{139}{}{Le Centre est un grand pivot commercial. Il paraît qu'on y trouve tout et, ma foi, ça se pourrait bien.}
+{140}{}{Nécropolis, c'est la cité des morts. Elle est habitée par des Goules, les descendants des humains qui ont cherché refuge dans un Abri. On dit qu'il se serait passé quelque chose dans l'Abri et que depuis, les survivants sont des monstres charognards.}
+{141}{}{Aux dernières nouvelles, ça a été envahi par une armée de mutants. Un endroit à éviter.}
+{142}{}{Tu crois que je pourrais récupérer quelque chose dans cet Abri ?}
+{143}{}{Possible, mais moi, je ne me frotterais pas aux Goules. Aux dernières nouvelles, ils auraient maintenant une espèce de chef très puissant.}
+{144}{}{Oh, bien sûr. Tu veux l'entendre ?}
+{145}{}{Bien sûr.}
+{146}{}{Non non.}
+{147}{}{[Patrick se met à chanter et vous passez tous deux quelques heures nostalgiques. Ca te réchauffe le coeur.]}
+{148}{}{Re-bonjour. Je peux t'aider ?}
+{149}{}{Ouais, tu peux m'indiquer le chemin ?}
+{150}{}{Non, merci.}

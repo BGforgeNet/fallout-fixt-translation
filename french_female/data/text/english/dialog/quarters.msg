@@ -1,7 +1,7 @@
-{100}{}{Hey, you shouldn't be in here Initiate.}
-{101}{}{What are you doing in here?}
-{102}{}{These are the Paladins' quarters, leave.}
-{103}{}{Please leave, you shouldn't be here.}
-{104}{}{Hey, no Initiates allowed in here.}
-{105}{}{There's no training at night.}
-{106}{}{Hey, these are not Initiate quarters.}
+{100}{}{Eh, les Initiés n'ont rien à faire ici !}
+{101}{}{Que fais-tu ici ?}
+{102}{}{C'est les quartiers réservés aux Paladins, va-t'en.}
+{103}{}{Va t'en, s'il te plaît. Tu ne devrais pas être là.}
+{104}{}{Eh, c'est interdit aux Initiés ici.}
+{105}{}{Eh, c'est pas les quartiers des Initiés.}
+{106}{}{J'ai toujours aimé les westerns.}

@@ -1,1 +1,1 @@
-{100}{}{There are some flares in a compartment in the east wall.}
+{100}{}{Un des compartiments du mur Est contient des fusées éclairantes.}

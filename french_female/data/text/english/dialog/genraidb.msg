@@ -1,4 +1,4 @@
-{100}{}{Stay out of our way!}
-{101}{}{Kill or be killed!}
-{102}{}{Enjoy your victory, and pray to your gods that we never meet again!}
-{103}{}{I have no time for talk!}
+{100}{}{Te fous pas dans nos pattes !}
+{101}{}{Tuer ou être tué !}
+{102}{}{Apprécie ta victoire, et prie tes dieux pour qu'on se rencontre plus jamais !}
+{103}{}{Pas le temps de discuter !}

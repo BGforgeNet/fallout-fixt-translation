@@ -1,33 +1,33 @@
-{100}{}{You see a lone Paladin. He seems to be both afraid and angry.}
-{101}{}{Stop right there, stranger! Identify yourself!}
-{102}{}{Me }
+{100}{}{Tu vois un Paladin solitaire. Il à l'air en colère et effrayé à la fois.}
+{101}{}{Arrête toi, étranger ! Identifie-toi !}
+{102}{}{Moi }
 {103}{}{.}
-{104}{}{I'm }
-{105}{}{. What's happened to this place?}
-{106}{}{My name is not important.}
-{107}{}{Be careful, }
-{108}{}{, you may hurt yourself. An army of bad mutants came to this place and made a big boom. See?}
-{109}{}{Uh-huh.}
-{110}{}{See. So, you better find anoter place to go. It isn't safe here.}
-{111}{}{Me go.}
-{112}{}{Mutants. It was a really big army. They came, killed everyone, took everything they could and blew this place up.}
-{113}{}{And how did you manage to survive all this?}
-{114}{}{I was returning from a long range patrol. When I came the battle was already over. I couldn't do anything. So I hid and watched them.}
-{115}{}{You mean you were too frightened to do anything?}
-{116}{}{No one else survived this invasion?}
-{117}{}{Look, I may not be the bravest man in Brotherhood, but I'm also not an idiot. There was really nothing, I could possibly do.}
-{118}{}{Coward. Now stay and guard a bunch of ruins. I better go and kill some of those mutants of yours.}
-{119}{}{Sorry. Did anyone else survived this massacre?}
-{120}{}{Several scouting parties, some paladins on patrol... too little to do anything. Brotherhood of Steel is practically dead. I'll stay here for the time being, try to gather as many survivors as I can and tell them what happened here. Then... I actually don't know what's then. Never had a chance to even think about it.}
-{121}{}{I understand. Keep up a good work, Paladin, I need to go.}
-{122}{}{Good bye, }
-{123}{}{. If you'll run into some Brotherhood survivors in your travels, tell them what's happened here.}
-{124}{}{Stop right there... Oh, that's you, }
+{104}{}{Je m'appelle }
+{105}{}{. Qu'est-ce qui s'est passé ici ?}
+{106}{}{Mon nom n'est pas important.}
+{107}{}{Sois prudent, }
+{108}{}{, tu pourrais te blesser. Une armée de méchants mutants est venue est a fait un grand Boom. Tu comprends ?}
+{109}{}{Euh ouais.}
+{110}{}{Voilà. Donc, tu devrais trouver un autre endroit où aller. C'est pas sûr ici.}
+{111}{}{Moi partir.}
+{112}{}{Des mutants. C'était une grande armée. Ils sont venus, ils ont tué tout le monde, prit tout ce qu'ils pouvaient emporter, et laissé cet endroit en ruine.}
+{113}{}{Et comment as-tu fait pour survivre à tout ça ?}
+{114}{}{Je revenais d'une longue patrouille. Quand je suis arrivé la bataille était déjà terminée. Je ne pouvais plus rien faire. Alors je me suis caché et je les ai observés.}
+{115}{}{Tu veux dire que tu avais trop peur pour faire quoi que ce soit ?}
+{116}{}{Personne d'autre n'a survécu ?}
+{117}{}{Ecoute, je suis peut-être pas le mec le plus courageux de la Confrérie, mais je ne suis pas un idiot. Il y avait vraiment rien que j'aurais pu faire.}
+{118}{}{Lâche ! Alors reste là et garde ce tas de ruines. Je ferai mieux d'y aller et de tuer quelques mutants pour toi.}
+{119}{}{J'en suis désolé. Est-ce que quelqu'un d'autre a survécu à l'attaque ?}
+{120}{}{Quelques troupes d'éclaireurs, quelques Paladins en patrouille... trop peu pour faire quelque-chose. La Confrérie de l'Acier est presque morte. Je vais rester ici pour le moment, à essayer de réunir le maximum de survivants possible. Je leur expliquerai ce qui s'est passé. Ensuite... ensuite je ne sais pas. J'ai jamais eu l'opportunité d'y penser.}
+{121}{}{Je comprends. Continue à faire du bon travail, Paladin, je dois y aller.}
+{122}{}{Au revoir, }
+{123}{}{. Si tu rencontres des survivants de la Confrérie pendant tes déplacements, dis leur ce qui s'est passé ici.}
+{124}{}{Arrête toi... Oh, c'est toi, }
 {125}{}{.}
-{126}{}{Uh-huh.}
-{127}{}{Yes, that's me. What's happened here?}
-{130}{}{Good bye, }
-{131}{}{. If you'll run into some of our fellow Brothers, tell them what's happened here.}
-{132}{}{Sure. I really need to be going now.}
-{133}{}{Then you better go. I have nothing to say to you.}
-{150}{}{The Paladin ignores you. It seems he's deep in his thoughts.}
+{126}{}{Euh ouais.}
+{127}{}{Oui, c'est moi. Qu'est-ce qui s'est passé ici ?}
+{130}{}{Au revoir, }
+{131}{}{. Si tu rencontres des survivants de la Confrérie pendant tes déplacements, dis leur ce qui s'est passé ici.}
+{132}{}{Bien sûr. Je dois vraiment y aller maintenant.}
+{133}{}{Alors tu devrais y aller. Je n'ai rien à te dire.}
+{150}{}{Le Paladin t'ignore. Il semble absorbé par ses pensées.}

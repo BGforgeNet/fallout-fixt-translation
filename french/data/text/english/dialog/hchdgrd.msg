@@ -1,79 +1,79 @@
-{100}{}{You see a guard for the Children.}
-{101}{}{Phillips! Let's take this guy out!}
-{102}{}{Get outta my face!}
-{103}{}{What do you want?}
-{104}{}{Tell me about your work.}
-{105}{}{What's this place about?}
-{106}{}{Do you know where I can find a Water Chip?}
-{107}{}{What can you tell me about a man named Decker?}
-{108}{}{Nice weapon you got there...}
-{109}{}{Uh... milk.}
-{110}{}{I'm a hired hand. If anyone bothers these space cadets, I kill 'em. You got a problem with that?}
-{111}{}{So you're a bodyguard...}
-{112}{}{Who hired you?}
-{113}{}{Anything interesting happening in the Hub?}
-{114}{}{What are you making?}
-{115}{}{Yeah. A big problem.}
-{116}{}{No problem, friend.}
-{117}{}{Something called a Holy Flame. Don't listen to this bullshit, it'll rot your brain!}
-{118}{}{What's your take on this Holy Flame?}
-{119}{}{Man, are these people ever stupid!}
-{120}{}{Anything interesting happening in the Hub?}
-{121}{}{Where did these guys come from?}
-{122}{}{Water Chip? Do you mean like ice chips? Up in the mountains, maybe.}
-{123}{}{No, I mean the computer chip to control a water purification system.}
-{124}{}{Not that kind of chip, you moron!}
-{125}{}{Uh, thanks. I think.}
-{126}{}{You ever been to the mountains?}
-{127}{}{Yeah, I heard about him. He's a real bastard, but he pays his bills. Phillips worked for him a few times.}
-{128}{}{So you think he's a creep?}
-{129}{}{Phillips?}
-{130}{}{Would you take a job from him?}
-{131}{}{Thanks!}
-{132}{}{Yeah, this is the only one I'd want in a fire fight. What can I do for you?}
-{133}{}{Where can a guy go around here to get some quality weapons?}
-{134}{}{What's up with these Cathedral guys?}
-{135}{}{Where can a guy go to find action around here?}
-{136}{}{Do you know where I can find a Water Chip?}
-{137}{}{What can you tell me about a man named Decker?}
-{138}{}{Sorry pal, but I'm on duty. No small talk.}
-{139}{}{Get the hell out of my face before I kill you.}
-{140}{}{Way to go, rocket scientist! Who else could I be, Doc Morbid? Jeez!}
-{141}{}{The priest bitch. Who else did you think? Jeez!}
-{142}{}{I hate to admit it pal, but I've been out of the loop for weeks. You better ask someone else.}
-{143}{}{Room and board and not much else. These religious types are cheap!}
-{144}{}{Then let's solve it!}
-{145}{}{Fine. Because nobody likes a problem around here.}
-{146}{}{It's gotta be a scam. Nobody's really dumb enough to believe all this religious shit. Could they?}
-{147}{}{Yeah. It's a good thing that they aren't paying me to agree with them. Holy Flame, my ass!}
-{148}{}{I dunno. I can tell you one thing: Whatever you can say about the religion, they're not amateurs. They came in and organized this place like clockwork. This isn't just another band of mindless zombies.}
-{149}{}{Jeez, I thought only Vaults used that sort of crap!}
-{150}{}{Watch your mouth, asshole. These people may believe in peace and love, but I don't!}
-{151}{}{No problem.}
-{152}{}{Nah. The higher you climb, the worse the radiation gets.}
-{153}{}{Uh, if you like psychotic, stone cold ruthless bastards, then he's the man.}
-{154}{}{My partner. The guy who's guarding Jain.}
-{155}{}{It depends on how much risk you like. My life's been kinda busy lately, so I came here to lie low. But if you like action, sure. Just don't screw up or you're dead, that's all.}
-{156}{}{I hear the Water Merchants are always packing the best shit. But people will say anything about the Water Merchants. It ain't here among this crowd, that's for damn sure.}
-{157}{}{I been trying to get a good read on these guys for weeks. At first I thought they were fools, but now... I ain't sure. They're organized, and they've got a plan. I can smell it!}
-{158}{}{I hear Decker's got some action, but man, it's shitty work and if you screw up, you're as good as dead.}
-{159}{}{Water purification chip? You don't use well water? Good lord! I heard tell of a Vault near Shady Sands where you might find one, but that place is completely caved in. I don't think I can help you.}
-{160}{}{Can't talk. The boss don't like it. Sorry.}
-{161}{}{Hey, you!}
-{162}{}{Hey! What do you think you're doing?!}
-{163}{}{Why the lock?}
-{164}{}{Hey, I'm backing off!}
-{165}{}{Can you give me a hand with this door? It's stuck!}
-{166}{}{You saw me! Too bad for you...}
-{167}{}{None of your business! Get outta here!}
-{168}{}{Good! Now get outta here!}
-{169}{}{Get lost! If you pull this sort of shit again, I'll kill you personally!}
-{170}{}{We ain't supposed to talk to you. On your way, pal.}
-{171}{}{Hey! What do you think you're doing?!}
-{172}{}{Why the lock?}
-{173}{}{Hey, I'm backing off!}
-{174}{}{Can you give me a hand with this door? It's stuck!}
-{175}{}{You saw me! Too bad for you...}
-{176}{}{None of your business! Get outta here!}
-{177}{}{Good! Now get outta here!}
-{178}{}{Get lost! If you pull this sort of shit again, I'll kill you personally!}
+{100}{}{Voici un garde des Enfants.}
+{101}{}{Phillips ! Faut qu'on vire cet énergumène !}
+{102}{}{Hors de ma vue !}
+{103}{}{Qu'est-ce que tu veux ?}
+{104}{}{Parle-moi de ton travail.}
+{105}{}{Quel est cet endroit ?}
+{106}{}{Sais-tu où je pourrais trouver une puce d'eau ?}
+{107}{}{Qu'est-ce que tu peux me dire d'un certain Decker ?}
+{108}{}{Hum, c'est une sacrée arme que t'as là...}
+{109}{}{Euh... du lait.}
+{110}{}{Je suis un mercenaire. Si quelqu'un embête ces élèves astronautes, je le tue. T'y vois un problème ?}
+{111}{}{Alors, t'es garde du corps...}
+{112}{}{Qui t'a embauché ?}
+{113}{}{Il se passe des trucs intéressants au Centre ?}
+{114}{}{Qu'est-ce que tu fabriques ?}
+{115}{}{Ouais. Un gros problème.}
+{116}{}{Pas de problème, l'ami.}
+{117}{}{Ouais, une soi-disant Flamme Sacrée. Ecoute pas ces salades, ça va te rendre malade !}
+{118}{}{Quel est tno avis sur cette Flamme Sacrée ?}
+{119}{}{Mec, que ces gens sont cons !}
+{120}{}{Il se passe des trucs intéressants au Centre ?}
+{121}{}{D'ou ils viennent, ces mecs ?}
+{122}{}{Une puce d'eau ? Tu veux dire le volatile ? Au bord de la mer, peut-être.}
+{123}{}{Non, je parle d'une puce d'ordinateur pour faire fonctionner un système de purification d'eau.}
+{124}{}{Pas ce genre de puce, pauvre crétin !}
+{125}{}{Uh, Merci. Enfin, je crois.}
+{126}{}{T'as déjà été à la mer ?}
+{127}{}{Ouais, j'ai entendu parler de lui. Une vrai crapule, mais il paie ses dettes. Phillips a bossé pour lui plusieurs fois.}
+{128}{}{Alors, tu crois que c'est un sale mec ?}
+{129}{}{Phillips ?}
+{130}{}{T'accepterais un boulot de lui ?}
+{131}{}{Merci !}
+{132}{}{Ouais, c'est la seule dont j'ai besoin dans une fusillade. Qu'est-ce que je peux faire pour toi ?}
+{133}{}{Où est-ce qu'on peut trouver des armes de qualité ?}
+{134}{}{Ils font quoi au juste ceux de la Cathédrale ?}
+{135}{}{Où est-ce qu'il y a de l'action dans le coin ?}
+{136}{}{Sais-tu où je pourrais trouver une puce d'eau ?}
+{137}{}{Qu'est-ce que tu peux me dire d'un certain Decker ?}
+{138}{}{Mes excuses, mais je suis en service. Pas le droit de bavarder.}
+{139}{}{Hors de ma vue avant que je te tue.}
+{140}{}{T'y es presque, la flèche ! Qui d'autre je pourrais être, Doc Morbide ? Bon dieu !}
+{141}{}{La chienne du curé. Qui d'autre tu croyais ? Bon dieu !}
+{142}{}{Ca m'ennuie de te dire ça, mais ça fait des semaines que je suis plus dans la course. Vaudrait mieux qu'tu demandes à quelqu'un d'autre.}
+{143}{}{Nourri logé, c'est à peu près tout. Ces curés, des vrais radins !}
+{144}{}{Alors, trouvons une solution !}
+{145}{}{Parfait. Parce qu'ici, personne aime les problèmes.}
+{146}{}{C'est sûrement des escrocs. Faudrait être débile pour croire à toutes ces salades de dévots. Non ?}
+{147}{}{Ouais. Encore heureux qu'ils me paient pas pour les approuver. Flamme Sacrée... mon cul !}
+{148}{}{J'sais pas. J'vais te dire, on peut dire ce qu'on veut sur la religion, mais c'est pas des amateurs. Ils sont arrivés et ils ont réglé cet endroit comme une horloge. Faut pas les prendre pour des crétins de zombies.}
+{149}{}{Bon dieu, je croyais que seuls les Abris utilisaient ce genre de conneries !}
+{150}{}{Surveille tes paroles, imbécile. Si ces gens croient à la paix et à l'amour, c'est pas mon cas !}
+{151}{}{Aucun problème.}
+{152}{}{Hmm. Plus tu montes en hauteur, pires sont les radiations.}
+{153}{}{Euh, si t'aimes bien les barjots sans foi ni loi, alors c'est ton homme.}
+{154}{}{Mon collègue. Le mec qui garde Jain.}
+{155}{}{Ca dépend jusqu'où t'aimes le risque. J'ai eu une vie pas mal agitée ces temps-ci, alors je suis venu me mettre au vert. Mais si t'aimes l'action, c'est bon. Simplement, pas d'entourloupe ou c'est la mort.}
+{156}{}{On dit que les Marchands d'Eau transportent toujours la meilleure came. Mais on dit n'importe quoi sur eux. En tout cas, pas ici, ça non !}
+{157}{}{J'ai observé ces mecs pendant des semaines. Au début, je les prenais pour des fous, mais maintenant... j'sais pas. Ils sont organisés et ils mijotent quelque chose. Je le sens !}
+{158}{}{Il paraît que chez Decker, y'a de l'action, mais bon dieu, quel boulot de merde ! Tu fais une gaffe et tu vas en enfer.}
+{159}{}{Une puce de purification d'eau ? Vous utilisez pas l'eau de puits ? Bon sang ! J'ai entendu parler d'un Abri, près des Sables Ombragés, où tu pourrais peut-être en trouver une, mais l'endroit est complètement bloqué. Je crois pas que je peux t'aider.}
+{160}{}{Impossible de parler. Le patron aime pas ça. Mes excuses.}
+{161}{}{Eh, toi !}
+{162}{}{Eh ! Qu'est-ce que tu fous !}
+{163}{}{Pourquoi cette porte est verrouillée ?}
+{164}{}{Eh, d'accord, j'insiste pas !}
+{165}{}{Tu peux me filer un coup de main ? Cette porte est coincée !}
+{166}{}{T'as vu ce que je faisais ! Tant pis pour toi...}
+{167}{}{C'est pas tes oignons ! Barre-toi !}
+{168}{}{Bien ! Maintenant, tire-toi !}
+{169}{}{Va te faire foutre ! Si tu recommences ce genre d'idioties, je me charge de te descendre !}
+{170}{}{On a pas le droit de te causer. Barre-toi.}
+{171}{}{Eh ! Qu'est-ce que tu fous !}
+{172}{}{Pourquoi cette porte est verrouillée ?}
+{173}{}{Eh, d'accord, j'insiste pas !}
+{174}{}{Tu peux me filer un coup de main ? Cette porte est coincée !}
+{175}{}{T'as vu ce que je faisais ! Tant pis pour toi...}
+{176}{}{C'est pas tes oignons ! Barre-toi !}
+{177}{}{Bien ! Maintenant, tire-toi !}
+{178}{}{Va te faire foutre ! Si tu recommences ce genre d'idioties, je me charge de te descendre !}

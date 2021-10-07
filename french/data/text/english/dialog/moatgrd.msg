@@ -1,20 +1,20 @@
-{100}{}{You see a guard.}
-{101}{}{What is your business here?}
-{102}{}{Urr?}
-{103}{}{I'm just looking around.}
-{104}{}{I want to buy some weapons.}
+{100}{}{Voici un garde.}
+{101}{}{Qu'est-ce que tu fous ici ?}
+{102}{}{Beuf ?}
+{103}{}{Oh, simple curiosité...}
+{104}{}{Je veux acheter des armes.}
 {105}{}{}
 {106}{}{}
-{107}{}{I have no patience for jokes. If you do not leave this area now I will shoot you!}
-{108}{}{We don't like nosy people. Go away now and I won't shoot you.}
+{107}{}{J'ai pas le temps de plaisanter. Tu files ou je te troue la cervelle !}
+{108}{}{On n'aime pas les fouineurs. Disparais immédiatement et je t'épargne.}
 {109}{}{}
 {110}{}{}
-{111}{}{You smell like a brahma but I bet you're not as intelligent.}
+{111}{}{T'as la même odeur que les brahmines mais pas leur intelligence.}
 {112}{}{}
-{113}{}{Ahh, very good. Customers are always welcome. Come in but please keep your weapons holstered. Go find Zack, he can set you up with anything you need.}
+{113}{}{Ah, très bien. Les clients sont toujours les bienvenus. Entre mais garde tes armes au chaud. Adresse-toi à Zack, il te fournira tout ce que tu veux.}
 {114}{}{}
-{115}{}{I need to speak to your boss. It is very important.}
-{116}{}{Oh, okay. Gabriel will talk to you. Go on in.}
-{117}{}{Yeah, I remember you. Go on in.}
-{118}{}{I need to speak to Gabriel. It is very important.}
-{119}{}{I want to buy weapons from Zack.}
+{115}{}{Faut que je parle à ton patron. C'est très important.}
+{116}{}{Oh, d'accord. Gabriel va te parler. Entre.}
+{117}{}{Ouais, je me souviens de toi. Entre.}
+{118}{}{Faut que je parle à Gabriel. C'est très important.}
+{119}{}{Je veux acheter des armes à Zack.}

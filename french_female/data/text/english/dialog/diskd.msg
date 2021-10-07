@@ -1,9 +1,9 @@
-{100}{}{This is a strange-looking diskette of some sort. Perhaps it can be used in your Pip-Boy 2000.}
-{101}{}{Pip-Boy 2000 displays: "Downloading ... Aborting, data already exists!"}
-{102}{}{Pip-Boy 2000 displays: "Downloading data ... ... ... Done. Have a nice day!"}
-{103}{}{You notice the disk has a faded and worn label that reads "Delta Experiments Log".}
-{104}{}{You see: Delta Experiments Disk.}
-{105}{}{The Military has deemed it necessary for us to research further in-depth the effects of wave technology upon living organisms. We have taken light and sound as the basis of our studies. By manipulating the amplitude of the light waves and magnifying the frequency, we have been able to get lasers which will cut through a few feet of steel. Unfortunately, the power to do such a task has not been fully developed. We have other scientists looking into this.}
+{100}{}{C'est une sorte de disquette bizarre. Peut-être qu'il peut être lu dans ton Pip-Boy 2000.}
+{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
+{103}{}{Tu remarques une étiquette fanée par le temps sur le disque. Il y est écrit: "Notes sur les expériences Delta".}
+{104}{}{Tu vois: Disque sur les expériences Delta.}
+{105}{}{L'armée a jugé nécessaire que nous approfondissions nos recherches sur l'effet de la technologie des ondes sur les organismes vivants. La lumière et le son sont les bases de nos études. En manipulant les longueurs d'ondes et en amplifiant les fréquences, nous avons été capable de créer des rayons lasers capables de pénétrer dans plusieurs mètres d'acier. Malheureusement, les capacités d'un tel engin n'ont pas été complètement développées. Nous avons actuellement d'autres scientifiques qui se penchent sur le sujet.}
 {106}{}{**BEGIN-DISK**}
 {107}{}{**END-DISK**}
 {108}{}{[Continue]}

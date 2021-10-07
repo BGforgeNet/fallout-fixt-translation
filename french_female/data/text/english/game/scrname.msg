@@ -283,8 +283,8 @@
 {383}{}{Michelle}
 {384}{}{Blades' Nightwatchman}
 {385}{}{Romero}
-{386}{}{Brotherhood of Steel}
-{387}{}{Brotherhood of Steel}
+{386}{}{Confrérie de l'Acier}
+{387}{}{Confrérie de l'Acier}
 {388}{}{Jon}
 {389}{}{Prisoner}
 {390}{}{Brotherhood Scribe}

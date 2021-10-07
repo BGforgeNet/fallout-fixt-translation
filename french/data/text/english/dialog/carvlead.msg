@@ -1,77 +1,77 @@
-{100}{}{You see the caravan leader.}
-{101}{}{Well, here we are. Here's your payment of }
-{102}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
-{103}{}{ caps if you return with us to the Hub. We'll rest here for a while, but don't go too far or the caravan will leave without you.}
-{104}{}{Aaa... Okay.}
-{105}{}{How long before the caravan leaves?}
-{106}{}{What can you tell me about Junktown?}
-{107}{}{What can you tell me about L.A. Boneyard?}
-{108}{}{What can you tell me about the Brotherhood of Steel?}
-{109}{}{I don't know if you'll understand this, but we leave in two hours or whenever you're ready.}
-{110}{}{Um...}
-{111}{}{Hunh?}
-{112}{}{go. Gud.}
-{113}{}{Man, we're hiring dumb ones these days.}
-{114}{}{We usually leave two hours after arrival. There's nothing here we haven't seen before, though, so if you want to leave earlier we're ready whenever you are.}
-{115}{}{I think I'll take a look around before we go. See you later.}
-{116}{}{Okay. Let's head back to the Hub. Nothing I want to see here either.}
-{117}{}{What can you tell me about Junktown?}
-{118}{}{What can you tell me about L.A. Boneyard?}
-{119}{}{What can you tell me about the Brotherhood of Steel?}
-{120}{}{Well, it's quite a bit like the Hub, really. It has its share of problems: gangs, thugs, thieves, you know... the usual stuff. All in all, it's my kind of town. [Laughs]}
-{121}{}{How long before the caravan leaves?}
-{122}{}{I think I'll take a look around before we go. See you later.}
-{123}{}{This part of L.A. Boneyard is called Adytum. L.A. Boneyard is basically run by gangs. Kind of a rough area, so watch your step here. Adytum is run by the Regulators. They're trying to hold this place together in light of all the gang wars. They're understandably suspicious of strangers, so if you haven't spoken to them yet I suggest you do before you start wandering around.}
-{124}{}{Empty}
-{125}{}{How long before the caravan leaves?}
-{126}{}{I think I'll take a look around before we go. See you later.}
-{127}{}{Not much I can tell you about them. The Brotherhood keeps to themselves for the most part. A lot of people give them a bad rap, but from what I can tell they're good people. A little fanatical, maybe, but good folks.}
-{128}{}{How long before the caravan leaves?}
-{129}{}{I think I'll take a look around before we go. See you later.}
-{130}{}{Are you ready to go?}
-{131}{}{go!}
-{132}{}{No. I'm still looking around.}
-{133}{}{Yeah. We can go.}
-{134}{}{This part of L.A. Boneyard is called Adytum. L.A. Boneyard is basically run by gangs. Kind of a rough area, so watch your step here.}
-{135}{}{How long before the caravan leaves?}
-{136}{}{I think I'll take a look around before we go. See you later.}
-{137}{}{Okay. You made it. Here's your }
-{138}{}{ caps. If you want more work, just go talk to the boss. I'd be more than happy to work with you again. I'll put in a good word for you with the boss. Take it easy.}
-{139}{}{bY bY.}
-{140}{}{See ya.}
-{141}{}{Hey, how's it goin'?}
-{142}{}{If you want more work, go check with the boss.}
-{143}{}{You got somethin's wrong with you?}
-{144}{}{You're a freakin' psycho!}
-{145}{}{I'm not working with you!}
+{100}{}{Voici le chef de la caravane.}
+{101}{}{Ca y est, nous y sommes. Voilà ton paiement: }
+{102}{}{ caps. [Il tire un très vieux sac de sa poche et te donne l'argent.] Et voilà aussi }
+{103}{}{ caps si tu retournes avec nous au Centre. Nous allons nous reposer ici un moment, mais ne t'éloigne pas trop si tu ne veux pas que la caravane parte sans toi.}
+{104}{}{Aaa... Ok.}
+{105}{}{Quand est prévu le départ de la caravane ?}
+{106}{}{Que peux-tu me dire sur Dépôtville ?}
+{107}{}{Tu peux me parler du Cimetière de L.A. ?}
+{108}{}{Que peux-tu me dire sur la Confrérie de l'Acier ?}
+{109}{}{Je ne sais pas si tu vas comprendre, mais nous partons dans deux heures ou dès que tu seras prêt.}
+{110}{}{Hum...}
+{111}{}{Heeiin ??}
+{112}{}{Al..Allez !}
+{113}{}{Hé, on emploie de ces débiles en ce moment.}
+{114}{}{Nous partons généralement deux heures après notre arrivée. Nous avons tout vu ici, alors, si tu veux partir plus tôt, nous sommes prêts.}
+{115}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
+{116}{}{Ok. Regagnons le Centre. J'ai plus rien à voir ici.}
+{117}{}{Que peux-tu me dire sur Dépôtville ?}
+{118}{}{Tu peux me parler du Cimetière de L.A. ?}
+{119}{}{Que peux-tu me dire sur la Confrérie de l'Acier ?}
+{120}{}{Eh bien, ça ressemble un peu au Centre. Il y a pas mal de problèmes: les bandes, les voyous, les voleurs, tu sais... les trucs habituels. En fait, c'est mon genre de ville. [Rires]}
+{121}{}{Quand est prévu le départ de la caravane ?}
+{122}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
+{123}{}{Cette partie du Cimetière s'appelle le Sanctuaire. Le Cimetière est sous le contrôle des gangs. C'est un drôle d'endroit, alors fais attention. Le Sanctuaire est dirigé par les Régulateurs. Ils essaient de limiter les guerres de gangs. Ils sont méfiants à l'égard des étrangers, et à juste titre. Si tu ne leur as pas encore parlé, je te conseille de le faire avant de te promener dans le coin.}
+{124}{}{Vide}
+{125}{}{Quand est prévu le départ de la caravane ?}
+{126}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
+{127}{}{Il n'y a pas grand chose à en dire. La Confrérie garde ses secrets. Beaucoup de gens ne les apprécient guère, mais ce sont des gens bien. Un peu fanatiques, peut-être, mais des gens bien quand même.}
+{128}{}{Quand est prévu le départ de la caravane ?}
+{129}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
+{130}{}{Prêt à partir ?}
+{131}{}{Al..Allez !}
+{132}{}{Non. Je n'ai pas fini de visiter.}
+{133}{}{Ouais, on peut y aller.}
+{134}{}{Cette partie du Cimetière s'appelle le Sanctuaire. Le Cimetière est sous le contrôle des gangs. C'est un drôle d'endroit, alors fais attention.}
+{135}{}{Quand est prévu le départ de la caravane ?}
+{136}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
+{137}{}{Ok. Tu as réussi. Voici tes }
+{138}{}{ caps. Si tu veux encore du travail, va en reparler au chef. J'aimerais bien retravailler avec toi. Je te recommanderai. Ne t'en fais pas.}
+{139}{}{Au revoir.}
+{140}{}{A plus tard.}
+{141}{}{Alors, comment ça va ?}
+{142}{}{Si tu veux encore du travail, adresse-toi au chef.}
+{143}{}{Il y a quelque chose que ne va pas chez toi.}
+{144}{}{T'es taré !}
+{145}{}{Je ne travaille pas avec toi !}
 {146}{}{200}
 {147}{}{400}
 {148}{}{600}
-{149}{}{What can you tell me about the Necropolis?}
-{150}{}{Nasty freakin' place, man!}
-{151}{}{The caravan has left.}
+{149}{}{Que peux-tu me dire sur Nécropolis ?}
+{150}{}{Foutu endroit de merde !}
+{151}{}{La caravane est partie.}
 {200}{}{Hmmmpf...}
-{201}{}{Hmm... I wish I could read.}
-{300}{}{Mind your own business, would you?}
-{400}{}{I'm not paid to talk.}
-{501}{}{Care to tell me why you abandoned the fucking caravan?! I can't believe it! Lucky for you, they finished without yer sorry ass. Get out! I ain't paying you anything!}
-{502}{}{I can't believe it! We've lost the whole fucking caravan! I ain't paying you a single god-damn cap. Get the hell out of my face.}
-{504}{}{You've got some nerve. Get out of here, and try to think up a credible story for the boss about why you abandoned the fucking caravan! Maybe then you'll get yer money, but I doubt it.}
-{505}{}{I can't believe it! We've lost the whole fucking caravan! I ain't paying you a single god-damn cap. Get the hell out of my face.}
-{506}{}{Any jobs for me here?}
-{507}{}{Me wanna job!}
-{508}{}{We need muscles to unload the caravan. I'll pay you }
+{201}{}{Hmm... Si seulement je savais lire.}
+{300}{}{Occupe-toi de tes affaires, s'il te plaît !}
+{400}{}{Je suis pas payé pour parler.}
+{501}{}{Dis-moi seulement, pourquoi as tu abandonné cette putain de caravane ? J'ai du mal à le croire ! Tu as de la chance, elles ont finit le voyage sans ton maudit cul terreux ! Fiche le camp ! Et ne crois pas que je vais te payer !}
+{502}{}{Je ne peux pas le croire ! Nous avons perdu toutes les caravanes ! Je crois pas que tu seras payé. Va parler au chef.}
+{504}{}{Va voir le chef et essaie d'imaginer une histoire crédible sur les raisons d'abandon de cette maudite caravane. Peut-être que tu auras ta récompense.}
+{505}{}{Je ne peux pas le croire ! Nous avons perdu toutes les caravanes ! Je crois pas que tu seras payé. Va parler au chef.}
+{506}{}{Du travail pour moi ?}
+{507}{}{Je... suis... travail.}
+{508}{}{On a besoin de tes biceps pour décharger la caravane. On te paiera : }
 {509}{}{ caps.}
-{510}{}{Ug!}
-{511}{}{Nop.}
-{512}{}{I'm on it.}
-{513}{}{I don't like this.}
-{520}{}{You've spent an hour unloading the caravan.}
-{521}{}{You help finish unloading the caravan and are handed }
+{510}{}{Ben.}
+{511}{}{Non.}
+{512}{}{Ca me va.}
+{513}{}{J'aime pas ça.}
+{520}{}{Tu passe une heure à décharger la caravane.}
+{521}{}{Tu aide à décharger la caravane. }
 {522}{}{ caps.}
-{600}{}{Well, here we are. I can't pay you the normal rate, since we lost some of the caravan. Gotta cover our losses, y'know. Here's your payment of }
-{601}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
-{602}{}{If you want more work, just go talk to the boss. I'd be okay working with you again. Take it easy!}
-{603}{}{ caps. (He pulls out an old dog-eared bag and gives you the caps) }
-{604}{}{Okay, you made it. I can't pay you anything since we lost the whole caravan. Gotta cover our losses y'know. I wish it could be different but that's the rules.}
-{605}{}{Okay, you made it. I can't pay you anything since all of the brahmin died. You cost us a lot of money, bub. No brahmin, no caravan, no money. I hope they don't let you work with us again.}
+{600}{}{Bon alors, nous y voila. Je ne peux pas te payer le prix habituel, étant donné qu'on a perdu pas mal du chargement d'origine. On doit couvrir nos pertes, tu vois. Voilà ton paiement de : }
+{601}{}{ caps. [Il tire un très vieux sac de sa poche et te donne l'argent.] Et voilà aussi }
+{602}{}{Si tu veux plus de travail, va voir le chef. Il est d'accord pour travailler avec toi une nouvelle fois. A la prochaine.}
+{603}{}{ caps. [Il tire un très vieux sac de sa poche et te donne l'argent.] }
+{604}{}{D'accord, t'as gagné ! Je peux pas te payer étant donné qu'on a perdu la caravane. On va devoir compenser les pertes. J'aimerais que ce soit différent mais ce sont les règles.}
+{605}{}{D'accord, t'as gagné ! Je peux pas te payer étant donné que toutes les brahmines sont mortes. Tu nous as coûté un paquet de fric, l'andouille. Pas de brahmine, pas de caravane, pas d'argent. J'espère qu'ils ne te laisseront plus travailler avec nous.}

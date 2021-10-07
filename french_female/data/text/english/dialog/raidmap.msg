@@ -1,4 +1,4 @@
-{100}{}{You earn }
-{101}{}{ experience for freeing Tandi.}
-{102}{}{ experience for befriending the Khans.}
-{103}{}{ experience for the rescue of a slave.}
+{100}{}{Tu gagnes }
+{101}{}{ points d'expérience pour avoir libéré Tandi.}
+{102}{}{ points d'expérience pour avoir sympathisé avec les Khans.}
+{103}{}{ points d'expérience pour avoir sauvé un esclave.}

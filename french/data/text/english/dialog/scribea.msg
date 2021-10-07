@@ -1,9 +1,9 @@
 {100}{}{Scribe}
-{101}{}{Research is one of my favorite things to do. I feel like I'm trying to solve a mystery.}
-{102}{}{Being a Scribe is the best. You get to study all the old technologies and try to develop new ones.}
-{103}{}{These terminals could use an enhancement. Maybe we should put the display over here.}
-{104}{}{Sorry, I'm right in the middle of a possible breakthrough. I can't talk right now.}
-{105}{}{Hey Initiate. You should train to be a Scribe, if you haven't decided yet.}
-{106}{}{Us Scribes design all the equipment, weapons, and supplies. It's quite exciting.}
-{107}{}{Please don't disturb me. I'm trying to finish my research.}
-{108}{}{That's Vree right there. She's also a Scribe.}
+{101}{}{La recherche est une des mes activités préférées. J'ai l'impression de tenter de résoudre un mystère.}
+{102}{}{Etre scribe, c'est ce qu'il y a de mieux. Tu étudies toutes les technologies anciennes et tu essaies d'en créer de nouvelles.}
+{103}{}{Ces terminaux pourraient être améliorés. Nous pourrions peut-être placer l'écran à cet endroit.}
+{104}{}{Pardon, je suis en plein milieu d'une éventuelle découverte. Je ne peux pas te parler.}
+{105}{}{Hé Initié. Tu pourrais devenir Scribe, si tu n'as pas encore fait ton choix.}
+{106}{}{Nous, les Scribes, nous concevons du matériel, des armes et des fournitures. C'est passionnant.}
+{107}{}{Ne me dérange pas, s'il te plaît. J'essaie de finir mes recherches.}
+{108}{}{C'est Vree, là-bas. Elle est scribe, elle aussi.}

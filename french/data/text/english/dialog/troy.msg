@@ -1,33 +1,33 @@
-{100}{}{You see: Troy.}
-{101}{}{Congratulations, human. You've been selected to join an elite band of worshippers. Follow me.}
-{102}{}{This wouldn't happen to have anything to do with the rumors of a Super Mutant army running amok?}
-{103}{}{Where are we going?}
-{104}{}{What are you waiting for? Let's go!}
-{105}{}{I don't think so.}
-{106}{}{What's that terrible, disgusting corpse-like stench? Oh, it's you!}
-{107}{}{Ruh?}
-{108}{}{Follow me and you will find out. Or, to put it another way, follow me and live, fool!}
-{109}{}{So if I don't go, I die? That doesn't sound very religious.}
-{110}{}{You've convinced me. Let's start hoofing!}
-{111}{}{I don't think so.}
-{112}{}{Don't start what you can't finish, freak!}
-{113}{}{Excellent!}
-{114}{}{You should not play games with Lady Jain or the Children.}
-{115}{}{You should not insult what you cannot kill. Now, shall you come with me and live, or do you wish to stay here and die?}
+{100}{}{Voici Troy.}
+{101}{}{Félicitations, humain. Le sort a voulu que tu rejoignes une bande élite de disciples. Suis-moi.}
+{102}{}{Ca n'aurait pas avoir avec les rumeurs faisant état d'une armée Super Mutante déchaînée ?}
+{103}{}{Où allons-nous ?}
+{104}{}{Qu'attends-tu ? Allons-y !}
+{105}{}{Je ne crois pas.}
+{106}{}{D'où vient cette puanteur indescriptible ? Oh, c'est toi !}
+{107}{}{Rrr ?}
+{108}{}{Suis-moi et tu le sauras. Ou en d'autres termes, suis-moi et tu vivras, imbécile !}
+{109}{}{Alors si je n'y vais pas, je meurs ? Ca a l'air formel.}
+{110}{}{Tu as su me convaincre. C'est parti !}
+{111}{}{Je ne crois pas.}
+{112}{}{Ne commence pas ce que tu ne peux pas terminer, imbécile !}
+{113}{}{Parfait !}
+{114}{}{Tu ne devrais pas jouer avec Lady Jain ou les Enfants.}
+{115}{}{Tu ne devrais pas insulter ce que tu ne peux pas tuer. Bon maintenant, que veux-tu : venir avec moi et vivre ou rester ici et mourir ?}
 {116}{}{I'm coming!}
-{117}{}{Forget it.}
-{118}{}{Jeez, some mutants just can't take a joke!}
-{119}{}{If I keep smelling you, I'll drop dead anyway!}
-{120}{}{You stupid beast! Will you come or will you stay?}
-{121}{}{Uh... Come!}
-{122}{}{Uh... Me stay!}
-{123}{}{Do not plague me with indecision! What is your answer, human?}
-{124}{}{I'm coming with you. Let's go.}
-{125}{}{Forget it.}
-{126}{}{How dare you push me! No one tells me what to do!}
-{127}{}{Insolent dog! You will die now!}
-{128}{}{Do not plague me with your jests! What is your answer, human?}
-{129}{}{I'm coming with you. Let's go.}
-{130}{}{Forget it.}
-{131}{}{Don't push me, pal. I'm still trying to think of a good smartass comeback... }
-{132}{}{The mutant ignores you.}
+{117}{}{Oublie ça.}
+{118}{}{Mon dieu ! Les mutants peuvent bien plaisanter, non ?}
+{119}{}{Si je continue à te sentir, je vais tomber comme une mouche !}
+{120}{}{Imbécile ! Alors tu viens ou tu restes ici ?}
+{121}{}{Euh... Venir !}
+{122}{}{Euh... Moi rester !}
+{123}{}{Ne m'agace pas avec tes hésitations ! Que décides-tu, humain ?}
+{124}{}{Je viens avec toi. Allons-y.}
+{125}{}{Oublie ça.}
+{126}{}{Comment oses-tu me pousser ?! Personne ne me dit ce que j'ai à faire !}
+{127}{}{Quelle insolence ! Tu vas mourir !}
+{128}{}{Ne m'agace pas avec tes plaisanteries ! Que décides-tu, humain ?}
+{129}{}{Je viens avec toi. Allons-y.}
+{130}{}{Oublie ça.}
+{131}{}{Ne me pousse pas. J'essaie de me concentrer.}
+{132}{}{Le mutant t'ignore.}

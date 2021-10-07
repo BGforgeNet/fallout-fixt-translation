@@ -1,35 +1,35 @@
-{100}{}{You see: Cindy. She is crying.}
-{101}{}{You see: Lisa. She is crying.}
-{102}{}{You see: Sandy. She is crying.}
-{103}{}{You see: Mary. She is crying.}
-{104}{}{You see: Stacy. She is crying.}
-{105}{}{You see: Susan. She is crying.}
-{106}{}{You see: Cindy.}
-{107}{}{You see: Lisa.}
-{108}{}{You see: Sandy.}
-{109}{}{You see: Mary.}
-{110}{}{You see: Stacy.}
-{111}{}{You see: Susan.}
-{112}{}{Hello, }
-{113}{}{. Have you found the Water Chip yet?}
-{114}{}{No, not yet.}
-{115}{}{I will. How are you doing?}
-{116}{}{Urug!}
-{117}{}{Oh... you don't understand me. I guess we really don't have much hope after all. Excuse me while I cry.}
-{118}{}{Ugg!}
-{119}{}{Please find it before my baby dies of thirst.}
-{120}{}{[Done]}
-{121}{}{You've got to find it! Don't let us die like this!}
-{122}{}{[Done]}
-{123}{}{Keep trying. I believe in you. I know you will do everything you can to save us.}
-{124}{}{[Done]}
-{125}{}{I am afraid of what is happening. Someone has been stealing water and now everyone is on edge.}
-{126}{}{Who would do such a thing?}
-{127}{}{What happened?}
-{128}{}{Some people have been accused and fights have broken out over it but nobody really knows.}
-{129}{}{Okay. Thanks.}
-{130}{}{Some people reported that their water had been stolen. They weren't given more water but some friends shared with them. After this, everybody got very paranoid and started guarding their water. A few days later, someone knocked the guard out in the ration supply area and stole water.}
-{131}{}{That is terrible! What can I do?}
-{132}{}{Maybe you can stop whomever is doing this.}
-{133}{}{I'll take a look around.}
-{134}{}{Bye.}
+{100}{}{Cindy pleure.}
+{101}{}{Lisa pleure.}
+{102}{}{Sandy pleure.}
+{103}{}{Mary pleure.}
+{104}{}{Stacy pleure.}
+{105}{}{Susan pleure.}
+{106}{}{Voici Cindy.}
+{107}{}{Voici Lisa.}
+{108}{}{Voici Sandy.}
+{109}{}{Voici Mary.}
+{110}{}{Voici Stacy.}
+{111}{}{Voici Susan.}
+{112}{}{Bonjour, }
+{113}{}{. T'as trouvé la puce d'eau ?}
+{114}{}{Non, pas encore.}
+{115}{}{Je la trouverai. Comment ça va ?}
+{116}{}{Ben !}
+{117}{}{Oh... tu ne me comprends pas. Je crois qu'il ne nous reste vraiment pas beaucoup d'espoir. Pardonne-moi si je pleure.}
+{118}{}{Ben !}
+{119}{}{Je t'en prie, trouve-la avant que mon bébé ne meurt de soif.}
+{120}{}{[Terminé]}
+{121}{}{Il faut que tu la trouves ! Nous laisse pas mourir comme ça !}
+{122}{}{[Terminé]}
+{123}{}{Essaie encore. J'ai confiance. Je sais que tu feras tout pour nous sauver.}
+{124}{}{[Terminé]}
+{125}{}{J'ai peur. Quelqu'un a volé de l'eau et maintenant, tout le monde est à cran.}
+{126}{}{Qui a pu faire ça ?}
+{127}{}{Que s'est-il passé ?}
+{128}{}{Des gens ont été accusés et des bagarres ont éclaté, mais personne ne sait vraiment.}
+{129}{}{D'accord. Merci.}
+{130}{}{Des gens ont dit qu'on leur avait volé de l'eau. Ils n'ont pas reçu de ration supplémentaire mais des amis ont partagé avec eux. Après ça, tout le monde est devenu parano et s'est mis à surveiller son eau. Quelques jours après, quelqu'un a assommé le garde de la réserve d'eau et a volé de l'eau.}
+{131}{}{C'est terrible ! Que puis-je faire ?}
+{132}{}{Peut-être que tu peux arrêter celui qui fait ça.}
+{133}{}{Je vais jeter un coup d'oeil.}
+{134}{}{Ciao.}

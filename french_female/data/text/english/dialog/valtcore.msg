@@ -1,1 +1,1 @@
-{100}{}{This is the Central Core, the heart of the computer system.}
+{100}{}{Voici l'ordinateur central, le coeur du système informatique.}

@@ -1,48 +1,48 @@
-{100}{}{You see Lenny.}
-{101}{}{You see a loser who smells like a Brahmin.}
-{102}{}{[more]}
-{103}{}{[done]}
-{104}{}{You hurt one of my friends! We'll make you pay for that! Get 'em, girls!}
-{105}{}{Uh, hi.}
-{106}{}{What are you doing here?}
-{107}{}{What are these animals?}
-{108}{}{How come these animals stink so much?}
-{109}{}{They do? I hadn't noticed. I guess I've been hanging around them for so long, it doesn't bother me. They're my friends.}
-{110}{}{These are Brahmin. They're my friends. I sleep in the pen with them so they don't get frightened at night. This place can get a little scary, if you know what I mean.}
-{111}{}{I don't know what you mean. Why is this place scary?}
-{112}{}{Can I buy one?}
-{113}{}{NO! No! I'm not a slaver, like some of these people. How could you sell your friends!?}
-{114}{}{I didn't mean it, they're just animals.}
-{115}{}{I wouldn't do that, I was just testing you.}
-{116}{}{Easy, I make more money that way.}
-{117}{}{Oh, I understand. You don't realize how important Brahmin are to me. That's okay. I don't think people understand me.}
-{118}{}{Uh, bye.}
-{119}{}{You're mean. I hate you.}
-{120}{}{Whatever.}
-{121}{}{Oh. Oh, I get it. Hey, you're kinda nice. I like you. I should warn you about those Fool guys. They don't like me. They don't like anyone.}
-{122}{}{Thanks for the info.}
-{123}{}{The bad people. They fight over things. Things I don't understand. The worst are the Fools. They pick on me. They don't like me. [sniff] I don't like them.}
-{124}{}{Oh, it's you again.}
-{125}{}{Tell me what you know about the Fools.}
-{126}{}{Tell me what you know about the Crypts.}
-{127}{}{I want to know about the power generator.}
-{128}{}{See you around.}
-{129}{}{I don't like the Fools, they're always picking on me. They live in the garage to the north. They fight the Crypts, but we all lose.}
-{130}{}{Thanks.}
-{131}{}{The Crypts are really mean. They hold the 'lectricity and if we are bad, they take it away from us. They hate the Fools, worse than any. Worse than they hate my friends.}
-{132}{}{What's the 'lectricity?}
-{133}{}{The gen'rator? Oh, I don't know about that.}
-{134}{}{It feeds the lights. It makes all the stuff go. I don't know, but if we don't have it, it's not good.}
-{135}{}{I'm not gonna talk to you.}
-{136}{}{I'm spending some time with my friends. I spend a lot of time with them. They're nice. They don't treat me bad. Not like some people. [Lenny squints his eyes.] I hate some people. I hate the Fools.}
-{137}{}{You scare me.}
-{138}{}{That was nice, but you didn't answer my question.}
-{139}{}{Oh, sorry. Lex says I scare him, too. I don't mean it. And I never scare my friend.}
-{140}{}{What are your friends?}
-{141}{}{Who is Lex?}
-{142}{}{Oh, I watch the Brahmin and make sure nothing happens to them.}
-{143}{}{Now, that wasn't so difficult, was it? What are your friends?}
-{144}{}{Lex is nice. Lex treats my friends like family. About once a month, he even takes one of my friends home for dinner. [Lenny smiles.] Then he lets them play with a bunch of sky Brahmin. Isn't that nice?}
-{145}{}{Yes, Lenny, it's very nice. Now tell me about your friends.}
-{146}{}{Lenny, I think you need to know something. Lex eats your friends.}
-{147}{}{No, you lie! You are a liar! Lex would never do that! You stinking liar! I'm going to hurt you for saying that in front of my friends.}
+{100}{}{Tu vois Lenny.}
+{101}{}{Tu vois un loser qui sent la Brahmine.}
+{102}{}{[Plus]}
+{103}{}{[Fait]}
+{104}{}{T'as blessé mes amies ! Tu vas payer pour ça ! Allez-y, les filles !}
+{105}{}{Euh, salut.}
+{106}{}{Que fais-tu ici ?}
+{107}{}{Quels sont ces animaux ?}
+{108}{}{Comment ces animaux peuvent-ils sentir aussi mauvais ?}
+{109}{}{Elles puent ? J'avais pas remarqué. Je dois passer tellement de temps avec elles que je m'en rends plus compte. Ce sont mes amies.}
+{110}{}{Ce sont des Brahmines. Elles sont mes amies. Je dors avec elles dans l'enclos pour les rassurer. Cet endroit peut faire peur des fois.}
+{111}{}{Je ne vois pas de quoi tu parle. En quoi cet endroit peut-il être effrayant ?}
+{112}{}{Je peux en acheter une ?}
+{113}{}{NOn! Non! Tu me confonds avec ces esclavagistes. Comment pourrais-je vendre mes amies !?}
+{114}{}{C'est pas ce que je veux dire. Ce sont juste des animaux.}
+{115}{}{Je plaisantais. Je n'ai pas l'intention de les acheter.}
+{116}{}{Facile. Pour l'argent.}
+{117}{}{Oh, je comprends. Tu ne realise pas a quel point les brahmines comptent pour moi.C'est correct. Personne ne comprends.}
+{118}{}{Ah, bye.}
+{119}{}{Tu es cruel. Je te hais.}
+{120}{}{Qu'importe.}
+{121}{}{Oh. Oh, j'ai compris. Tu es plutôt gentil. Je t'aime bien. Fais attention aux Fools. Ils ne m'aiment pas. Ils n'aiment personne.}
+{122}{}{Merci pour le renseignement.}
+{123}{}{Les méchants. Ils se battent pour des trucs. Des trucs que je ne comprends pas. Les pires sont les Fools. Ils m'aiment pas. [sniff] Je les aime pas.}
+{124}{}{Oh, encore toi ?}
+{125}{}{Parle-moi des Fools.}
+{126}{}{Parle-moi des Crypts.}
+{127}{}{Parle-moi du générateur électrique.}
+{128}{}{A bientôt.}
+{129}{}{J'aime pas les Fools. Ils s'en prennent toujours à moi. Ils vivent dans un garage au nord. Ils se battent contre les Crypts, mais on est tous perdants.}
+{130}{}{Merci.}
+{131}{}{Les Crypts sont cruels. Ils ont l'électricité et si on est pas gentils, ils l'enlèvent. Ils détestent les Fools. Pire. Ils détestent mes amies.}
+{132}{}{Quoi l'électricité?}
+{133}{}{Le Générateur ? Je sais pas ce que c'est.}
+{134}{}{Ca nourri la lumière. Ca fait marcher le reste. Je sais pas trop, mais si on l'a pas, ç'est pas bon.}
+{135}{}{Je veux pas te parler.}
+{136}{}{Je veux passer du temps avec mes amies. Elles sont gentilles. Elles me traitent bien, pas comme certains. Je les haie. Je haie les Fools.}
+{137}{}{Tu me fais peur.}
+{138}{}{C'est gentil, mais tu n'as pas répondu à ma question.}
+{139}{}{Oh, pardon. Lex aussi, dit que je lui fais peur. C'est pas exprès. Je veux pas faire peur a mes amis.}
+{140}{}{Que sont ces amis ?}
+{141}{}{Qui est Lex?}
+{142}{}{Oh, j'observe les brahmines et je m'assure qu'il ne leur arrive rien de mal.}
+{143}{}{C'était pas trop difficile, non ? Que sont tes amis ?}
+{144}{}{Lex est gentil. Lex traite mes amies comme de la famille. Une fois par mois, il invite même une de mes amies a dîner. [Lenny sourit.] Puis, il les laissent jouer avec des Brahmines célestes. C'est pas gentil ça ?}
+{145}{}{Oui, Lenny, c'est très gentil. Maintenant, parle-moi de tes amis.}
+{146}{}{Lenny, je pense qu'il faut que tu sache une chose. Lex mange tes amies.}
+{147}{}{Non, tu mens ! Menteur ! Lex ne ferait jamais ca ! Sale menteur! Je vais te faire payer pour avoir dit ça devant mes amies.}

@@ -1,4 +1,4 @@
-{100}{}{You see: Garret. He is watching you closely.}
-{101}{}{Fix the water pump now or die.}
-{102}{}{Good job!}
-{103}{}{Get back here and fix this water pump!}
+{100}{}{Voici Garret. Il t'observe attentivement.}
+{101}{}{Répare la pompe à eau tout de suite ou crève.}
+{102}{}{Du bon boulot !}
+{103}{}{Reviens ici pour réparer cette pompe à eau !}

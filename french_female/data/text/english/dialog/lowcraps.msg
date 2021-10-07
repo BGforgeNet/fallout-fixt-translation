@@ -1,12 +1,12 @@
-{100}{}{You see the low-stakes Craps table. It costs 20 caps to play.}
-{101}{}{You rolled a 7. You win!!}
-{102}{}{You roll snake eyes. You lose.}
-{103}{}{You rolled }
-{104}{}{! You win!!}
-{105}{}{You rolled }
-{106}{}{. You lose.}
-{107}{}{You rolled }
-{108}{}{ before rolling your point. You lose.}
-{109}{}{You rolled your point. You win.}
-{110}{}{You rolled }
-{111}{}{. This is your point. Rolling again.}
+{100}{}{Devant toi se trouve une table de Craps à faibles mises. La partie coûte 20 caps.}
+{101}{}{Tu as fait 7. Gagné !!}
+{102}{}{Tu as fait un double 1. Perdu.}
+{103}{}{Tu as fait }
+{104}{}{! Gagné !!}
+{105}{}{Tu as fait }
+{106}{}{. Perdu !}
+{107}{}{Tu as fait }
+{108}{}{ avant de marquer ton point. Perdu.}
+{109}{}{Tu as fait ton point. Gagné.}
+{110}{}{Tu as fait }
+{111}{}{. Tu as le point. Lance à nouveau les dés.}

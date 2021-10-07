@@ -1,6 +1,6 @@
-{100}{}{This is a holodisk detailing The Brotherhood of Steel's Code of Conduct.}
-{101}{}{Pip-Boy 2000 displays: "Downloading ... Aborting, data already exists!"}
-{102}{}{Pip-Boy 2000 displays: "Downloading data ... ... ... Done. Have a nice day!"}
-{103}{}{You see an encryption decoder disk.}
-{104}{}{You see a holodisk.}
-{105}{}{This looks like it is meant to be inserted into a computer terminal to run decryption algorithms.}
+{100}{}{Voici le disque du Code de Conduite de la Confrérie.}
+{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
+{103}{}{Voici un disque de décodage.}
+{104}{}{Voici un holodisque.}
+{105}{}{Il faut l'insérer dans un ordinateur pour lancer l'algorithme de déchiffrage.}

@@ -1,8 +1,8 @@
-{100}{}{The door is already unlocked.}
-{101}{}{You manage to pick the lock.}
-{102}{}{You can't seem to pick the lock.}
-{103}{}{The electronic security system shocks you!}
-{104}{}{You have tripped an alarm on the supply doors.}
-{105}{}{The door has a physical lock that will need to be picked.}
-{106}{}{The electronic security is already disarmed.}
-{107}{}{You disarm the electronic security.}
+{100}{}{La porte est déjà déverrouillée.}
+{101}{}{Tu ne réussis pas à crocheter le verrou.}
+{102}{}{Le verrou de la porte te paraît impossible à crocheter.}
+{103}{}{Tu reçois une décharge du système de sécurité électronique !}
+{104}{}{Tu as déclenché l'alarme des portes d'accès au ravitaillement.}
+{105}{}{La porte est munie d'un verrou qu'il faudra crocheter.}
+{106}{}{Le système de sécurité électronique est déjà neutralisé.}
+{107}{}{Tu neutralises le système de sécurité électronique.}

@@ -1,5 +1,5 @@
-{100}{}{You see: Smitty.}
-{101}{}{You wanna talk after what you've pulled? Screw you!}
-{102}{}{The boss said get lost, so get lost!}
-{103}{}{We don't talk to no outsiders!}
-{104}{}{Hi yourself. Go blow smoke somewhere else.}
+{100}{}{Voici La Forge.}
+{101}{}{Tu veux discuter après ce que tu as fait ? Va te faire voir !}
+{102}{}{Le patron t'a dit de te barrer, alors barre-toi !}
+{103}{}{On ne parle pas aux étrangers !}
+{104}{}{Allez, salut ! Va traîner ailleurs.}

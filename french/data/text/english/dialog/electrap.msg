@@ -1,2 +1,2 @@
-{100}{}{The section of the floor adjacent to you is electrified.}
-{101}{}{A section of the electrified floor has been disabled.}
+{100}{}{Le sol à côté de toi est électrifié.}
+{101}{}{Une partie du sol électrifié est désactivée.}

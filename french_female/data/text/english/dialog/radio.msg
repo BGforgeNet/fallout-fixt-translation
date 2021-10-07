@@ -1,41 +1,41 @@
-{100}{}{Radio. Amazingly, it appears to be functional.}
-{101}{}{[There is a squeal of static, then you hear a deep voice over the radio.] Command to patrol, command to patrol. What is your status? Over.}
-{102}{}{Eek!}
-{103}{}{Uhhh, everything's under control, situation normal. Nothing is wrong here. We had a slight... weapons malfunction. But everything's perfectly alright now.  We're all fine, here, now. How are you?}
-{104}{}{Command, we are under attack by a large group of armed humans. Request immediate assistance. Over.}
-{105}{}{Help! Unknown attackers! Heavy damage! Coordinates follow: 10... Argh!}
-{106}{}{Understood, patrol. We are sending assistance now. Over.}
-{107}{}{Say again? Who is this? What is your purpose?}
-{108}{}{My purpose is to shut the hell up.}
-{109}{}{I'm, uh... Oh, never mind. I'm just going to kill you all anyway.}
-{110}{}{This is, um, Fred. My purpose is patrol. I guess I'm a, uh, little dazed after that fall.}
-{111}{}{Understood, patrol. What are your coordinates?}
-{112}{}{224 by 104.}
-{113}{}{Four miles, south-southwest.}
-{114}{}{Gamma sector, at Omicron-Delta-Beta.}
-{115}{}{Understood, patrol. Command, out.}
-{116}{}{Understood, patrol. We are sending reinforcements.}
-{117}{}{Ah, that explains it. We are sending help now.}
-{118}{}{Roger, patrol. We're sending help now! Hold on!}
-{119}{}{There is only static on the radio.}
-{120}{}{You hear some chatter on the radio. You listen for a while, but discover nothing of importance.}
-{121}{}{The radio has a red blinking light. You hear a high-pitched squealing over the radio speaker.}
-{122}{}{It sounds like encrypted audio.}
-{123}{}{You send the command code to toggle the force field settings.}
-{124}{}{You hear some chatter on the radio. You listen for a while, but discover nothing of importance.}
-{125}{}{The radio is not functioning.}
-{126}{}{This radio is in perfect condition. The source of the problem must be external.}
-{127}{}{There is nothing but the squeal of encrypted data over the radio.}
-{128}{}{[Squeal-snick-pop] Command here, go ahead patrol.}
+{100}{}{radio}
+{101}{}{[On entend un bruit aigu de parasites, puis une voix grave.] Commandement à patrouille, commandement à patrouille. Quel est votre statut ? Terminé.}
+{102}{}{Bouh !}
+{103}{}{Euuh, rien d'anormal ici. Tout va bien. On a eu un tir accidentel. Mais personne n'est blessé. Euh, et vous ?}
+{104}{}{Commandement, nous sommes attaqués par un important groupe d'humains armés. Demandons aide. Terminé.}
+{105}{}{Au secours ! Des attaquants inconnus ! Lourds dégâts ! Coordonnées : 10... Ahhh !}
+{106}{}{Compris, patrouille. Nous envoyons de l'aide immédiatement. Terminé.}
+{107}{}{Qui est là ? Quel est votre objectif ?}
+{108}{}{Mon objectif est de te faire fermer la gueule.}
+{109}{}{Je suis, euh, laisse tomber. De toute façon, je vais tous vous tuer sans tarder.}
+{110}{}{C'est, hum, Fred. Mon objectif est de patrouiller. Heuu... je crois que je suis un peu, euh, étourdi après... cette chute.}
+{111}{}{Compris, patrouille. Quelles sont vos coordonnées ?}
+{112}{}{224 sur 104.}
+{113}{}{Quatre miles, Sud - Sud-Ouest.}
+{114}{}{Secteur Gamma, à Omicron-Delta-Beta.}
+{115}{}{Compris, patrouille. Commandement, terminé.}
+{116}{}{Compris, patrouille. Nous envoyons des renforts.}
+{117}{}{Ah, ça explique tout. Nous envoyons de l'aide immédiatement.}
+{118}{}{Roger, patrouille. Nous envoyons de l'aide immédiatement ! Tenez bon !}
+{119}{}{On n'entend que des parasites sur la radio.}
+{120}{}{Ca bavarde sur la radio. Tu écoutes un instant mais tu ne découvres rien d'important.}
+{121}{}{Une lumière rouge clignote sur la radio. Un son aigu couvre la voix qui parle.}
+{122}{}{On dirait des messages cryptés.}
+{123}{}{Tu envoies le code de commande pour modifier les paramètres de champ de force.}
+{124}{}{Ca bavarde sur la radio. Tu écoutes un instant mais tu ne découvres rien d'important.}
+{125}{}{La radio ne fonctionne pas.}
+{126}{}{Cette radio est en parfait état. La cause du problème doit être externe.}
+{127}{}{On n'entend rien d'autre sur la radio que le bruit de données cryptées.}
+{128}{}{[Bruit aigu - bruit sec] Ici commandement, avancez patrouille.}
 {129}{}{Ack!}
-{130}{}{Uh, sorry, Command. I hit the talk button by mistake.}
-{131}{}{Intruders in the base! Sound the alert!}
-{132}{}{Roger Patrol, Command out.}
-{133}{}{[You dial the frequency of the radio to the security control channel] [Click!] Enter access number. [Click!]}
-{134}{}{Hng!}
-{135}{}{Uh, 69.}
-{136}{}{5566534571.}
-{137}{}{End access.}
-{138}{}{Automatic security channel shutdown.}
-{139}{}{You earn 1500 experience for tricking the mutant guards.}
-{140}{}{You earn 2000 experience for sneaking into the depths of the military base without getting caught (yet...)}
+{130}{}{Euh, pardon, commandement. J'ai appuyé par erreur sur le bouton émetteur.}
+{131}{}{Des intrus dans la base ! Déclenchez l'alarme !}
+{132}{}{Roger Patrouille, Commandement fin.}
+{133}{}{[Tu changes la fréquence de la radio sur le canal de contrôle de sécurité] [Clic !] Entrer numéro d'accès. [Clic !]}
+{134}{}{Grr !}
+{135}{}{Euh, 69.}
+{136}{}{5566534571}
+{137}{}{Fin accès.}
+{138}{}{Canal de sécurité automatique fermé.}
+{139}{}{points d'expérience pour avoir roulé les gardes mutants.}
+{140}{}{points d'expérience pour t'être introduit au coeur de la base militaire sans te faire prendre [pour l'instant]...}

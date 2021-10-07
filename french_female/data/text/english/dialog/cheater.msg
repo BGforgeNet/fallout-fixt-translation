@@ -1,31 +1,31 @@
-{100}{}{Do you wish to enter the debug dialog? [If unsure, click No]}
-{101}{}{1  Roll back the clock.}
-{102}{}{Okay. How much? [Numbers at beginning are number you can hit to choose that selection]}
-{103}{}{1    One second  [10 ticks]}
-{104}{}{2    One minute}
-{105}{}{3    One hour}
-{106}{}{4    One day}
-{107}{}{5    One week}
-{108}{}{6    One month [30 days]}
-{109}{}{7    Six months}
+{100}{}{Veux-tu entrer dans le menu de débogage ? [Si tu n'es pas sûr, clique sur Non]}
+{101}{}{1. Remonter le temps  [Peut faire crasher le jeu, surtout après le 03/11/2161].}
+{102}{}{Ok. De combien ?}
+{103}{}{1. Une seconde [10 ticks]}
+{104}{}{2. Une minute}
+{105}{}{3. Une heure}
+{106}{}{4. Un jour}
+{107}{}{5. Une semaine}
+{108}{}{6. Un mois [30 jours]}
+{109}{}{7. Six mois}
 {110}{}{9    Never mind.}
-{111}{}{2  Turn forward the clock.}
-{112}{}{Okay. How much? [Numbers at beginning are number you can hit to choose that selection]}
-{113}{}{1    One second  [10 ticks]}
-{114}{}{2    One minute}
-{115}{}{3    One hour}
-{116}{}{4    One day}
-{117}{}{5    One week}
-{118}{}{6    One month [30 days]}
-{119}{}{7    Six months}
+{111}{}{2. Avancer le temps  [Peut faire crasher le jeu, surtout après le 03/11/2161].}
+{112}{}{Ok. De combien ?}
+{113}{}{1. Une seconde [10 ticks]}
+{114}{}{2. Une minute}
+{115}{}{3. Une heure}
+{116}{}{4. Un jour}
+{117}{}{5. Une semaine}
+{118}{}{6. Un mois [30 jours]}
+{119}{}{7. Six mois}
 {120}{}{9    Never mind.}
-{121}{}{7  Give me all the keys in the game.}
-{122}{}{In a backpack or directly in your inventory?}
-{123}{}{1    In a backpack.}
-{124}{}{2    In my inventory.}
-{125}{}{3    Never mind.}
-{126}{}{8    13 years}
-{127}{}{8    13 years}
+{121}{}{7. Donne-moi toutes les clés du jeu.}
+{122}{}{Dans un sac à dos ou directement dans ton inventaire ?}
+{123}{}{1. Dans un sac à dos}
+{124}{}{2. Dans l'inventaire}
+{125}{}{3. Retour}
+{126}{}{8. 13 ans}
+{127}{}{8. 13 ans}
 {128}{}{7  Give items (by type)}
 {129}{}{1  Testing Weapons & All Ammo}
 {130}{}{2  Drugs}
@@ -49,8 +49,8 @@
 {148}{}{Give All Books?}
 {149}{}{Give All Holodisks (& Radio)?}
 {150}{}{Give All Armor?}
-{200}{}{How may I Cheat you today?}
-{201}{}{1  Experience.}
+{200}{}{Comment puis-je t'aider aujourd'hui ?}
+{201}{}{1  Expérience.}
 {202}{}{2  Damage, Poison, Radiation.}
 {203}{}{6    Poison}
 {204}{}{7    Radiation}
@@ -74,7 +74,7 @@
 {225}{}{3    Cripple Left Arm}
 {226}{}{4    Cripple Right Arm}
 {227}{}{5    Blind Me }
-{228}{}{8    Fully heal, remove all poison, remove ALL rads.}
+{228}{}{8    Don't hurt me. [wimper]}
 {229}{}{TEST ROLLS (mmm, rolls)}
 {230}{}{C'est terminé !}
 {231}{}{message here}
@@ -89,7 +89,7 @@
 {240}{}{Ok, you have them.}
 {241}{}{How many Exp points do you want? [Numbers at beginning are number you can hit to choose that selection]}
 {242}{}{9    Hit points.}
-{243}{}{Okay, how many HP do you want to lose?}
+{243}{}{Ok, how many HP do you want to lose?}
 {244}{}{1    One HP.}
 {245}{}{2    Five HP.}
 {246}{}{3    Ten HP.}
@@ -97,7 +97,7 @@
 {248}{}{5    Thirty HP.}
 {249}{}{6    Forty HP.}
 {250}{}{7    Fifty HP.}
-{251}{}{9    999 HP. (kill me...)}
+{251}{}{9    999 HP. [kill me...]}
 {252}{}{9  Teleport to another map...}
 {253}{}{1    Necropolis - Hotel}
 {254}{}{2    Vault 13 - Inside}
@@ -108,25 +108,25 @@
 {259}{}{7    The Hub - Downtown}
 {260}{}{8    Never mind.}
 {261}{}{9    Master's Lair - 3/4}
-{262}{}{Okay, which map?}
-{263}{}{5  Modify game time (roll back or forward)}
-{264}{}{6  Give me cheater debug items (lots)}
+{262}{}{Ok, which map?}
+{263}{}{5  Modify game time [roll back or forward], MIGHT CRASH!}
+{264}{}{6  Give me cheater debug items [lots]}
 {265}{}{Yes. (Also deletes all existing inventory & equipped)}
-{266}{}{Okay, roll back or roll forward?}
+{266}{}{Ok, roll back or roll forward?}
 {267}{}{Are you sure?}
 {268}{}{No. [back]}
 {269}{}{1  Necropolis,  Vault 13,  Vault 15}
 {270}{}{2  Junktown,  Brotherhood of Steel,  City}
 {271}{}{3  Children of Cathedral, Master's Vault, Coast, Mountain}
 {272}{}{4  The Hub}
-{273}{}{5  Boneyard, Adytum,  Raiders}
-{274}{}{6  Shady Sands,  Military Base, CHILDEAD}
+{273}{}{5  Boneyard Adytum,  Raiders}
+{274}{}{6  Shady Sands,  Military Base}
 {275}{}{7  The Glow,  Desert}
 {276}{}{8  Caravans}
 {277}{}{9  Specials}
 {278}{}{9    Never mind.}
 {279}{}{7    Never mind.}
-{280}{}{8    Play the Endgame Slideshow.}
+{280}{}{8    Endgame Slideshow.}
 {300}{}{DESERT1.MAP}
 {301}{}{DESERT2.MAP}
 {302}{}{DESERT3.MAP}

@@ -1,2 +1,2 @@
-{100}{}{The table appears to be full of items the cooks are using to make a meal.}
-{101}{}{The food is not cooked yet. You'll get sick if you eat it raw.}
+{100}{}{La table semble être pleine d'objets que les cuisiniers utilisent pour préparer un repas.}
+{101}{}{La nourriture n'est pas encore cuite. Tu seras malade si tu la manges crue.}

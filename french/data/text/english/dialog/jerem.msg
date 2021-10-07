@@ -1,92 +1,92 @@
-{100}{}{You see: Jeremiah, a messenger for the Children.}
-{101}{}{You see a Child. He looks pensive.}
-{102}{}{Excuse me, brother. You startled me. How may I serve the Master?}
-{103}{}{Quip!}
-{104}{}{What are you doing?}
-{105}{}{Ah, yes, a Super Mutant in training. I will return to my tasks.}
-{106}{}{If you do not know, it is none of your concern. If you are inquiring about something you should not know, then I will have to report you to our supervisors. You should know better.}
-{107}{}{I am a person of high importance.}
-{108}{}{I'm sorry to have bothered you.}
-{109}{}{I am new here.}
-{110}{}{Who the hell are you to be asking me questions?! You're lucky I don't report you to the Holy Flame!!}
-{111}{}{Transferring the reports, of course.}
-{112}{}{Reports of what? If I may ask.}
-{113}{}{And a mighty fine job you're doing.}
-{114}{}{That is all. Thank you.}
-{115}{}{Very well, then. Peace be with you.}
-{116}{}{I apologize. How may I be of service?}
-{117}{}{What is it you are doing?}
-{118}{}{You can start by answering my question.}
-{119}{}{You can die!}
-{120}{}{Guards!!!}
-{121}{}{It is obvious you do not belong here. Who are you?}
-{122}{}{I am actually a vault-dweller and would like to speak to the Master.}
-{123}{}{Um... Dorpheus... hmm... Morpheus sent me.}
-{124}{}{I am Loki. An Initiate from the south.}
-{125}{}{No, I don't belong here. But I know where this bullet belongs... in your head.}
-{126}{}{I transfer the human purity reports for the surrounding areas. But you should know this. [looking suspicious] Who are you?}
-{127}{}{I was sent here by Morpheus with a message for the Master.}
-{128}{}{It is none of your business who I am... just answer my questions!}
-{129}{}{You are not to know who I am, it is the wish of the Master.}
-{130}{}{You dare question who I am? Fool, I should strike you down where you stand.}
-{131}{}{That's rather odd... I've never heard of you.}
-{132}{}{I was sent here by Morpheus with a message for the Master.}
-{133}{}{I am of the High Order. Only the Master and Morpheus know of me in order to ensure my safety on the outside. But I have been called back by order of the Master.}
-{134}{}{Please forgive me. I apologize for questioning you. Please carry on about your business, and if I can be of any service let me know.}
-{135}{}{I do not know who you are, and you do not belong here. Guards!!!}
-{136}{}{Who are you and what are you doing down here?}
-{137}{}{I am a worshiper and I am lost.}
-{138}{}{Morpheus sent me with a message for the Master.}
-{139}{}{Looking for a lonely soul to send to heaven.}
-{140}{}{Urk!}
-{141}{}{You are not allowed in this area. Only Servitors and higher allowed down here. Return to the Cathedral proper.}
-{142}{}{I apologize for any trouble I have caused.}
-{143}{}{May I ask you some questions before I leave?}
-{144}{}{Okay, but not before I split your head open.}
-{145}{}{Morpheus would not send a slag like you on such a mission. Guards!!}
-{146}{}{You idiot! You are not allowed in this area. Return to the Cathedral proper at once!}
-{147}{}{Akay.}
-{148}{}{Hunh.}
-{149}{}{Nah.}
-{150}{}{I transfer records for the Master. That is all you need to know, my child. Now, you must leave.}
-{151}{}{I will leave now.}
-{152}{}{I just wish to ask you a few more questions.}
-{153}{}{I'll leave. I'll leave. But not until I blow your brains out.}
-{154}{}{How did you get in here?! What are you doing sneaking around?}
-{155}{}{I just wish to ask you a few questions.}
-{156}{}{No, you may not ask me any questions. Now leave.}
-{157}{}{Stop! You have no business being here!}
-{158}{}{Duh?}
-{159}{}{Sorry. I'm lost. I'll leave now.}
-{160}{}{But I do have business here. Morpheus sent me on a mission for the Master.}
-{161}{}{I followed a suspicious looking character down here. Have you seen him?}
-{162}{}{No. Killing is my business and business is good.}
-{163}{}{No, I have not seen anyone. What did he look like?}
-{164}{}{Doesn't matter. I think he got away.}
-{165}{}{It was a short little green man.}
-{166}{}{He was about your height but was wearing a leather jacket... What do you have on under those robes?}
-{167}{}{He looked just like you, shit-for-brains!}
-{168}{}{Um... I... I... You don't actually think it's m... me? How ridiculous. I've never!}
-{169}{}{Okay. I'll be leaving then, but let me know if you see anything...}
-{170}{}{Yes! I do think it was you! Get down on the ground and spread 'em!}
-{171}{}{No, I don't believe it was you but may I ask you some questions?}
-{172}{}{Yes, my brother. How may I be of service?}
-{173}{}{Yes, my sister. How may I be of service?}
-{174}{}{What is it that you do here, brother?}
-{175}{}{Just serve the Master. That's all I ask. Brother.}
-{176}{}{Sorry, wrong guy. All you guys look the same in these robes.}
-{177}{}{You can serve me by dying, you whacked out bastard!}
-{178}{}{I transfer the human purity reports for the surrounding areas.}
-{179}{}{That is all. Thank you.}
-{180}{}{I would like to ask you a few more questions, brother.}
-{181}{}{Yes, and a very important job it is. And do you understand the importance of your duties to the Master and all of us?}
-{182}{}{Why, yes. I am the one who brings the Master the news of new, untainted humans untouched by radiation. I was the one who brought the Master the final news of a possible Lost Vault. It may still have pure-strain humans in it.}
-{183}{}{Yes, my brother. You do understand. Thank you. That is all.}
-{184}{}{I would like to ask you a few other questions.}
-{185}{}{You wouldn't know a pure-strain human if he was standing right in front of you. Idiot.}
-{186}{}{You wouldn't know a pure-strain human if she was standing right in front of you. Idiot.}
-{187}{}{You act very strangely. I do not believe that you are who you say you are. Guards!}
-{188}{}{You ask too many questions. I do not believe that you are who you say you are. Guards!}
-{189}{}{Hey! I told you you're not allowed down here! Guards!}
-{190}{}{You ask too many questions. Who are you?}
-{192}{}{Excuse me, sister. You startled me. How may I serve the Master?}
+{100}{}{Voici Jérémie, un messager pour les Enfants.}
+{101}{}{Voici un Enfant. Il a l'air pensif.}
+{102}{}{Excuse-moi, frère. Je n'avais pas vu qu'il y avait quelqu'un. Comment puis-je servir le Maître ?}
+{103}{}{Quel sarcasme !}
+{104}{}{Qu'est-ce que tu fais ?}
+{105}{}{Ah, oui, un super mutant en rodage. Je vais retourner à ma tâche.}
+{106}{}{Si tu ne le sais pas, c'est que tu n'as pas à le savoir. Si tu cherches à savoir quelque chose que tu ne dois pas savoir, il faudra que je le rapporte à nos surveillants.}
+{107}{}{Je suis une personne très importante.}
+{108}{}{Je ne voulais pas te déranger.}
+{109}{}{Je viens d'arriver.}
+{110}{}{Tu te prends pour qui pour me questionner ainsi ?! Tu as de la chance que je ne fasse pas un rapport sur toi à la flamme sacrée !!}
+{111}{}{Chargé des transmissions de rapports, bien sûr.}
+{112}{}{Les rapports sur quoi ? Si je me permets.}
+{113}{}{Tu dois avoir de lourdes responsabilités.}
+{114}{}{C'est tout. Merci.}
+{115}{}{Très bien. Que la Paix soit avec toi.}
+{116}{}{Toutes mes excuses. A quoi puis-je être utile ?}
+{117}{}{Que fais-tu au juste ?}
+{118}{}{Commence par répondre à ma question.}
+{119}{}{Tu peux mourir !}
+{120}{}{Gardes !!}
+{121}{}{Il est évident que tu n'es pas d'ici. Qui es-tu ?}
+{122}{}{Je suis un Habitant de l'Abri et je voudrais parler au Maître.}
+{123}{}{Emm... Dorpheus... hmm... je viens de la part de Morpheus.}
+{124}{}{Je suis Loki. Un initié du Sud.}
+{125}{}{Non, je ne suis pas d'ici. Mais je sais où cette balle va aller... dans ta tête.}
+{126}{}{Je transmets des rapports sur la pureté des humains pour les zones aux alentours. Mais tu devrais être au courant de ça. [il te jette un regard soupçonneux] Qui es-tu ?}
+{127}{}{J'ai un message de la part de Morpheus pour le Maître.}
+{128}{}{Tu n'as pas à savoir qui je suis... Réponds juste à mes questions !}
+{129}{}{Tu ne dois pas savoir qui je suis, c'est la volonté du Maître.}
+{130}{}{Tu oses me demander qui je suis ? Imbécile, je devrais t'abattre sur place.}
+{131}{}{C'est surprenant... Je n'ai jamais entendu parler de toi.}
+{132}{}{J'ai un message de la part de Morpheus pour le Maître.}
+{133}{}{J'appartiens au Grand Ordre. Pour garantir ma sécurité à l'extérieur, le Maître et Morpheus sont les seuls à savoir qui je suis. Mais je suis de retour sur ordre du Maître.}
+{134}{}{S'il te plaît, excuse-moi. Pardonne mes questions. Je ne veux pas te déranger plus longtemps. Si je peux t'être utile à quelque chose, n'hésite pas.}
+{135}{}{Je ne sais pas qui tu es et tu n'es pas d'ici. Gardes !!}
+{136}{}{Qui es-tu et que fais-tu ici ?}
+{137}{}{Je suis un fidèle et j'ai perdu mon chemin.}
+{138}{}{J'ai un message de Morpheus pour le Maître.}
+{139}{}{Je cherche une âme en peine à envoyer au ciel.}
+{140}{}{Erk !}
+{141}{}{Tu n'as pas le droit de te trouver dans cette zone. Seuls les serviteurs et les gradés ont le droit d'être ici. Retourne à la Cathédrale immédiatement.}
+{142}{}{Excuse-moi pour les problèmes causés.}
+{143}{}{Est-ce que je peux te poser quelques questions avant de partir ?}
+{144}{}{Ok, mais pas avant que je n'aie pu de te fracasser la figure.}
+{145}{}{Morpheus n'enverrait jamais en mission une crapule de ton espèce. Gardes !!}
+{146}{}{Imbécile ! Tu n'as pas le droit de te trouver dans cette zone. Retourne à la Cathédrale immédiatement !}
+{147}{}{Oké.}
+{148}{}{Rrr.}
+{149}{}{Non non.}
+{150}{}{Je transmets des rapports pour le Maître. C'est tout ce que tu as à savoir, mon enfant. Maintenant, file.}
+{151}{}{Je m'en vais tout de suite.}
+{152}{}{J'aimerais juste te poser encore quelques questions.}
+{153}{}{J'y vais, j'y vais. Mais pas avant de t'avoir fait sauter la cervelle.}
+{154}{}{Comment as-tu fait pour entrer ici ?! Qu'est-ce qui te prends à fouiner partout ?}
+{155}{}{J'aimerais juste te poser quelques questions.}
+{156}{}{Non. Tu n'as pas à me questionner. Va-t-en immédiatement.}
+{157}{}{Halte ! Tu n'as rien à faire ici !}
+{158}{}{Hein ?}
+{159}{}{Pardon. J'ai perdu mon chemin. Je m'en vais tout de suite.}
+{160}{}{Bien sûr que si. Je suis ici sur ordre de Morpheus pour voir le Maître.}
+{161}{}{J'étais à la poursuite d'un personnage louche. Tu ne l'aurais pas vu ?}
+{162}{}{Non. Mais tuer, c'est mon truc.}
+{163}{}{Non, je n'ai vu personne. A quoi ressemblait-il ?}
+{164}{}{Tant pis. Je pense qu'il est déjà loin.}
+{165}{}{C'était un petit homme vert.}
+{166}{}{De ta taille mais il portait une veste en cuir... Qu'est-ce que tu as sous ces habits ?}
+{167}{}{Il te ressemblait, tête de noeud !}
+{168}{}{Um... Je... Je... Tu ne penses quand même pas que c'était m... moi ? C'est ridicule !}
+{169}{}{C'est bon. Je m'en vais mais si tu vois quelque chose, préviens-moi...}
+{170}{}{Oui ! Je pense que c'était toi ! A terre et écarte-les !}
+{171}{}{Non, je ne pense pas que c'était toi mais est-ce que je peux te poser quelques questions ?}
+{172}{}{Oui, mon frère. A quoi puis-je t'être utile ?}
+{173}{}{Oui, ma soeur. A quoi puis-je t'être utile ?}
+{174}{}{Qu'est-ce que tu fais ici, frère ?}
+{175}{}{Je ne fais que servir le Maître. Je ne demande que ça, frère.}
+{176}{}{Non, je fais erreur. Tout le monde se ressemble sous ces habits.}
+{177}{}{C'est en crevant que tu pourrais me servir, espèce d'ordure !}
+{178}{}{Je transmets des rapports sur la pureté des humains pour les zones aux alentours.}
+{179}{}{C'est tout. Merci.}
+{180}{}{J'aimerais te poser d'autres questions, frère.}
+{181}{}{Oui, et c'est un travail très important. Comprends-tu l'importance des devoirs que tu as à l'égard du Maître et de chacun de nous ?}
+{182}{}{Evidemment. Je suis celui qui informe le Maître de la présence de nouveaux humains purs et non atteints par les radiations. C'est moi qui ai informé le Maître de l'existence d'un possible Abri Oublié. Il se peut que des humains de race pure y habitent encore.}
+{183}{}{Oui, mon frère. Tu as compris. Merci. C'est tout.}
+{184}{}{J'aimerais de poser d'autres questions.}
+{185}{}{Tu ne reconnaîtrais même pas un homme de race pure si tu l'avais en face de toi. Imbécile.}
+{186}{}{Tu ne reconnaîtrais même pas une femme de race pure si tu l'avais en face de toi. Imbécile.}
+{187}{}{Tu te comportes de manière suspecte. Je ne crois pas que tu sois ce que tu prétends être. Gardes !}
+{188}{}{Tu poses beaucoup trop de questions. Je ne crois pas que tu sois ce que tu prétends être. Gardes !}
+{189}{}{Hé ! Je t'ai dit que tu n'avais pas le droit d'être ici ! Gardes !}
+{190}{}{Tu poses beaucoup trop de questions. Qui es-tu ?}
+{192}{}{Excuse-moi, soeur. Je n'avais pas vu qu'il y avait quelqu'un. Comment puis-je servir le Maître ?}

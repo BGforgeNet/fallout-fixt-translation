@@ -1,28 +1,28 @@
-{100}{}{You use the door computer. The computer does not accept your access code.}
-{101}{}{You use the door computer. A speaker crackles to life.}
-{102}{}{Sorry, but we can't let you back in right now. Uh, technical problems. Try again later.}
-{103}{}{You see the Vault 13 door entry computer.}
-{104}{}{We are grateful to you for saving us, but we can't let you in.}
-{105}{}{We're sorry, but you can't come back. We wish you the best.}
-{106}{}{The Overseer has spoken; you must leave.}
-{107}{}{Look, many of us are outraged with the Overseer's decision, but we must comply with his wishes.}
-{108}{}{You must make your life in the outside world from now on. Good luck, friend.}
-{109}{}{You are a danger to the future of this vault; leave at once.}
-{110}{}{You are not welcome here. Leave.}
-{111}{}{We won't allow murderers in the Vault. Go away!}
-{112}{}{We are afraid of what you have become and what you may do to us. Leave.}
-{113}{}{After what you did to the Overseer, you think we'll let you back?}
-{114}{}{How could you betray us like this?!}
-{115}{}{Go away, you maniac.}
-{116}{}{The computer explodes in a spectacular shower of sparks and wiring, short-circuiting the entire system.}
-{117}{}{You see the destroyed Vault 13 door entry computer.}
-{118}{}{It's a total mess and completely beyond repair.}
-{119}{}{ The door will never close again.}
-{120}{}{ The door will never open again.}
-{121}{}{You bastard! What have you done?!}
-{122}{}{You bitch! What have you done?!}
-{123}{}{The damaged computer is unusable.}
-{124}{}{With the door sealed and no replacement Water Chip, the inhabitants of Vault 13 will soon discover their Vault has become a tomb.}
+{100}{}{Tu utilises l'ordinateur de la porte. L'ordinateur ne reconnaît pas ton code d'accès.}
+{101}{}{Tu utilises l'ordinateur de la porte. Un haut-parleur crépite.}
+{102}{}{Excuse-moi, mais nous ne pouvons pas te laisser entrer pour l'instant. Euh, des problèmes techniques. Réessaie plus tard.}
+{103}{}{Voici l'ordinateur de la porte d'entrée de l'Abri 13.}
+{104}{}{Nous te sommes redevables car tu nous as sauvé, mais nous ne pouvons te laisser entrer.}
+{105}{}{Nous sommes désolés, mais tu ne peux pas rentrer. Bonne chance.}
+{106}{}{Le Dirigeant a parlé; tu dois partir.}
+{107}{}{Ecoute, nous sommes plusieurs à être outrés de la décision du Dirigeant, mais nous obéissons aux ordres.}
+{108}{}{Tu dois faire ta vie dans le monde extérieur, maintenant. Bonne chance, l'ami.}
+{109}{}{Tu es un danger pour le futur de cet Abri; tu dois partir immédiatement.}
+{110}{}{Tu n'es pas le bienvenu ici, vas-t'en.}
+{111}{}{Nous ne tolérons pas les meurtriers dans l'Abri. Dégage !}
+{112}{}{Nous avons peur de ce que tu es devenu et de ce que tu pourrais nous faire. Vas-t'en.}
+{113}{}{Après ce que tu as fait au Dirigeant, tu pensais qu'on allait te laisser rentrer tranquillement ?}
+{114}{}{Comment as-tu pu nous trahir comme ça ?!}
+{115}{}{Barre-toi, psychopathe.}
+{116}{}{L'ordinateur explose dans une spectaculaire gerbe d'étincelles, court-circuitant toute le système.}
+{117}{}{Tu vois l'ordinateur détruit de la porte d'entrée de l'Abri 13.}
+{118}{}{C'est complètement foutu et impossible à réparer.}
+{119}{}{Cette porte ne se refermera plus jamais.}
+{120}{}{Cette porte ne s'ouvrira plus jamais.}
+{121}{}{Direct dans la face !}
+{122}{}{Oh-oh !}
+{123}{}{L'ordinateur est inutilisable.}
+{124}{}{Avec les portes scellées pour toujours et une puce d'eau défectueuse, les habitants de l'Abri 13 ne vont pas tarder à découvrir que cet Abri sera leur tombeau.}
 {125}{}{> Command? }
 {126}{}{Open the Vault 13 blast door.}
 {127}{}{Close the Vault 13 blast door.}
@@ -52,7 +52,7 @@
 {151}{}{Replay historical data feed.}
 {152}{}{Calculating... System monitors indicate that Vault 13 water reserves are currently dropping at a steady rate. Estimated days left until total depletion: }
 {153}{}{.  Enter new value to recalibrate system.  (Default database value: 150)}
-{154}{}{> Command?}
+{154}{}{Commande ?}
 {155}{}{[30]}
 {156}{}{[60]}
 {157}{}{[90]}
@@ -97,9 +97,9 @@
 {196}{}{ Change requirement for cessation?  (Default requirement: The Master)}
 {197}{}{Checking... By default, this simulation will terminate if sensors indicate Vault 13 Survivability has dropped to zero. Current setting: }
 {198}{}{ State the desired status.}
-{199}{}{No.}
+{199}{}{Non.}
 {200}{}{Me done! Where other?  [Go to previous menu]}
-{201}{}{Yes.}
+{201}{}{Oui.}
 {202}{}{k!}
 {203}{}{[Restorations]}
 {204}{}{[Skills]}

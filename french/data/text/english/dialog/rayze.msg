@@ -1,46 +1,46 @@
-{100}{}{You see Rayze of the Crypts.}
-{101}{}{You are a Fool to come here.}
-{102}{}{Why are you bothering me?}
-{103}{}{Rock sent me.}
-{104}{}{Nothing, just passing through.}
-{105}{}{Tell me about the Fools.}
-{106}{}{Tell me about the power generator.}
-{107}{}{Oh, yeah. Why's that?}
-{108}{}{He said I could get a cold glass of water.}
-{109}{}{Rock said the Crypts were looking for members.}
-{110}{}{Ha-ha! Nice try. Leave me alone.}
-{111}{}{Could be. It looks like you got some talent. You think you could be a Crypt?}
-{112}{}{Yes.}
-{113}{}{No.}
-{114}{}{Well, then. Let's try you out. We're gonna send you on a little mission. Go scout out the Fools to the north, and report back to me.}
+{100}{}{Tu vois Rayze, un membre des Crypts.}
+{101}{}{Quel idiot de venir ici...}
+{102}{}{Tu devient gênant. Que veux-tu ?}
+{103}{}{Rock m'envoie.}
+{104}{}{Rien. Je ne fais que passer.}
+{105}{}{Parle-moi des Fools.}
+{106}{}{Parle-moi du générateur électrique.}
+{107}{}{Et ouais. Pourquoi ça ?}
+{108}{}{Il a dit que je pourrais avoir un grand verre d'eau fraîche.}
+{109}{}{Rock m'a dit que les Crypts recrutaient.}
+{110}{}{Ha-ha! Ben tenté. Laisse-moi maintenant.}
+{111}{}{C'est possible. T'as l'air d'avoir ce qu'il faut. Tu pense que tu pourrais être un Crypt ?}
+{112}{}{Oui.}
+{113}{}{Non.}
+{114}{}{Et bien... Essayons. On va te confier une petite mission. Va observer les Fools au nord, et reviens me faire ton rapport.}
 {115}{}{Ok.}
-{116}{}{I don't think so.}
-{117}{}{Then little boys should leave before they get a spanking.}
-{118}{}{We don't like strangers in our town. If you want to stay, you join us. If you don't, you might regret staying in Scrapheap.}
-{119}{}{How do I join you?}
-{120}{}{I ask and you say yes. You swear an oath when you sign on. If you break that oath, I send some of my boys to break you.}
-{121}{}{Ok, I'll join.}
-{122}{}{I don't think I want to play.}
-{123}{}{You are not welcome here. Leave before you get buried.}
-{124}{}{Are the Fools ready for our attack?}
-{125}{}{Yes.}
-{126}{}{No.}
-{127}{}{I need to scout some more.}
-{128}{}{It doesn't matter. Nothing will stop them from feeling the cold of death! They die now!}
-{129}{}{Excellent. We will catch them unprepared. They die now!}
-{130}{}{Hurry. I wish for the blood of Fools.}
-{131}{}{They are my enemies. They will die. Now why do you bother me?}
-{132}{}{Rock sent me.}
-{133}{}{Nothing, just passing through.}
-{134}{}{Tell me about the power generator.}
-{135}{}{You should not ask questions about things you don't know about. The generator is ours, and it will remain ours. As long as we have it, we are in control. You ask too many questions.}
-{136}{}{[done]}
-{137}{}{[more]}
-{138}{}{Haha! More fools to kill!!}
-{139}{}{The only thing you Fools will rule is a tombstone.}
-{140}{}{The droppings of Brahmin smell better than you.}
-{141}{}{Even Lenny has better aim than you.}
-{142}{}{You should not have lied to me. I know better. Go, scout the Fools and return. Do not tempt me.}
-{143}{}{You cannot be trusted. That is a shame. You will die. This is a pleasure.}
-{144}{}{We rule this town now!}
-{145}{}{Now is not the time for questions. Now is the time to fight!}
+{116}{}{Je ne crois pas.}
+{117}{}{Dans ce cas, mon enfant, tu devrais t'en aller avant de te prendre une fessée.}
+{118}{}{On aime pas les étrangers dans cette ville. Si tu veux rester, joins-toi à nous. Sinon, tu finiras par regretter d'être venu à Scrapheap.}
+{119}{}{Comment me joindre à vous ?}
+{120}{}{Je te demande et tu dis oui. Tu signe içi et tu prête sermon. Si tu manque à ta parole, j'envoie un de mes gars te briser.}
+{121}{}{Ok, je vous rejoins.}
+{122}{}{Je ne pense pas vouloir jouer à ce jeu-là.}
+{123}{}{Tu n'es pas le bienvenu içi. Va-t-en avant de finir six pieds sous terre.}
+{124}{}{Les Fools sont-ils prêts à nous faire face ?}
+{125}{}{Oui.}
+{126}{}{Non.}
+{127}{}{J'ai besoin d'observer le terrain encore un peu.}
+{128}{}{Ca ne fait rien. Rien ne pourra les empecher de sentir le souffle de la mort ! L'heure est venu pour ces idiots !}
+{129}{}{Excellent. On va pouvoir les avoir par surprise. Ils sont cuits !}
+{130}{}{Dépêche-toi. Je suis prêt à voir couler le sang des Fools.}
+{131}{}{Ce sont mes ennemis. Ils doivent mourir. Ca te pose un problème ?}
+{132}{}{Rock m'envoie.}
+{133}{}{Rien. Je ne fais que passer.}
+{134}{}{Parle-moi du générateur électrique.}
+{135}{}{Tu devrais t'abstenir de parler de ce que tu ne connais pas. Le générateur est à nous, et il le restera. Tant que nous l'avons, tout est sous contrôle. Tu pose trop de questions.}
+{136}{}{[Fait]}
+{137}{}{[Plus]}
+{138}{}{Haha! Ca nous fait plus de fools à tuer!!}
+{139}{}{La seule chose que les Fools vont contrôler est un putain de sarcophage.}
+{140}{}{Les merdes de Brahmines sentent meilleur que toi.}
+{141}{}{Même Lenny vise mieux que toi.}
+{142}{}{Je sais que tu mens. Ne joue pas à ça avec moi. Va. Part observer les Fools. Et ne me joue pas avec ma patience.}
+{143}{}{Tu n'es pas digne de confiance. Quel gâchis. Mais tu vas mourir. Quelle satisfaction !}
+{144}{}{On domine la ville ! Enfin !}
+{145}{}{Pas le temps pour les questions. Place au combat !}

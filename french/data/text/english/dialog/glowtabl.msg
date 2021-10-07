@@ -1,1 +1,1 @@
-{100}{}{With all the mess, it is hard to see what was actually on this table at one time.}
+{100}{}{Avec tout ce désordre, il est difficile de savoir ce qu'il pouvait y avoir sur cette table.}

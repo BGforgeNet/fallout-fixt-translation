@@ -1,28 +1,28 @@
-{100}{}{They never have what I want.}
-{101}{}{I think the selection is getting worse.}
-{102}{}{These prices are getting out of hand.}
-{103}{}{I can never find what I want.}
-{104}{}{I like the Crimson Caravan's selection better.}
-{105}{}{They never have what I want.}
-{106}{}{I think the selection is getting worse.}
-{107}{}{These prices are getting out of hand.}
-{108}{}{Sorry, I'm not supposed to talk to outsiders.}
-{109}{}{You should see Cabbot or Darrell if you have questions.}
-{110}{}{Getta going.}
-{111}{}{I don' wanna talk to you.}
-{112}{}{I don' like normies.}
-{113}{}{Arrrr!}
-{114}{}{Grrrrr!}
-{115}{}{They never have what I want.}
-{116}{}{I think the selection is getting worse.}
-{117}{}{These prices are getting out of hand.}
-{118}{}{I can never find what I want.}
-{119}{}{I like the Crimson Caravan's selection better.}
-{1100}{}{You see a caravan customer.}
-{1103}{}{Sorry, I'm not supposed to talk to outsiders.}
-{1105}{}{If you see any Redalek's, let me know.}
-{1107}{}{I'm glad those Water Merchants don't come here anymore.}
-{1109}{}{Cabbot's our Greeter. You should talk to him or Darrell.}
-{1110}{}{I like the Crimson Caravan's selection better.}
-{1111}{}{Aren't the Far Go Traders a pleasant crowd?}
-{1112}{}{The Crimson Caravan is too vulgar for me.}
+{100}{}{Ils n'ont jamais ce que je veux.}
+{101}{}{J'ai l'impression que le choix se restreint de plus en plus.}
+{102}{}{Ces prix sont inabordables.}
+{103}{}{Je ne trouve jamais ce que je veux.}
+{104}{}{Je préfère le choix de la Caravane Ecarlate.}
+{105}{}{Ils n'ont jamais ce que je veux.}
+{106}{}{J'ai l'impression que le choix se restreint de plus en plus.}
+{107}{}{Ces prix sont inabordables.}
+{108}{}{Désolé, je ne suis pas censé parler aux étrangers.}
+{109}{}{Tu devrais t'adresser à Cabbot ou Darrell si tu as des questions.}
+{110}{}{J'dois y aller.}
+{111}{}{J'te parlrai pas.}
+{112}{}{Je n'aime pas les peaudouces.}
+{113}{}{Arrrr !}
+{114}{}{Grrrrr !}
+{115}{}{Ils n'ont jamais ce que je veux.}
+{116}{}{J'ai l'impression que le choix se restreint de plus en plus.}
+{117}{}{Ces prix sont inabordables.}
+{118}{}{Je ne trouve jamais ce que je veux.}
+{119}{}{Je préfère le choix de la Caravane Ecarlate.}
+{1100}{}{Tu vois un client de la caravane.}
+{1103}{}{Désolé, je ne suis pas censé parler aux étrangers.}
+{1105}{}{Si tu vois des Redaleks, fais-le moi savoir.}
+{1107}{}{Heureusement que ces Marchands d'Eau ne viennent plus par ici.}
+{1109}{}{Cabbot est chargé de l'accueil. Tu devrais aller lui parler ou à Darrell.}
+{1110}{}{Je préfère le choix de la Caravane Ecarlate.}
+{1111}{}{Les Marchands du Lointain sont des gens agréables, n'est-ce pas ?}
+{1112}{}{La Caravane Ecarlate est trop banal pour moi.}

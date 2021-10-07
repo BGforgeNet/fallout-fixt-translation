@@ -1,11 +1,11 @@
-{100}{}{You see a dejected prisoner of the raiders.}
-{101}{}{Hey, you! Get me out of here!}
-{102}{}{Be quiet, you're gonna alert the guards!}
-{103}{}{Shh! Who are you?}
-{104}{}{Goop.}
-{105}{}{I don't care. Get me out of here please!}
-{106}{}{My name is Jack. I'm from Junktown. These monsters killed the rest of my caravan and put me here.}
-{107}{}{Okay. I'll see what I can do.}
-{108}{}{What a bummer. Enjoy your stay.}
-{109}{}{Please, just help me out.}
-{110}{}{Ow! My leg. It's hurt. I think it might be broken. Please help me!}
+{100}{}{Voici un malheureux prisonnier des Pillards.}
+{101}{}{Eh, toi ! Sors d'ici !}
+{102}{}{Du calme, tu vas alerter les gardes !}
+{103}{}{Chut ! Qui es-tu ?}
+{104}{}{Oup}
+{105}{}{Je m'en fous. Sors-moi d'ici, s'il te plaît !}
+{106}{}{Je m'appelle Jack. Je suis de Dépôtville. Ces monstres ont tué le reste de ma caravane et m'ont foutu ici.}
+{107}{}{Bon. Je vais voir ce que je peux faire.}
+{108}{}{Dur ! Allez, bon séjour.}
+{109}{}{S'il te plaît, aide-moi juste à sortir.}
+{110}{}{Waouh ! Ma jambe, je crois qu'elle est cassée. Aide-moi, je t'en supplie !}

@@ -1,2 +1,2 @@
-{100}{}{You see one of those classic Science Fiction movies from the early 21st Century playing.}
-{101}{}{You are too pressed for time to be watching movies.}
+{100}{}{Voici un de ces films de science-fiction typiques du début du 21è siècle.}
+{101}{}{Tu n'as pas le temps de regarder des films.}

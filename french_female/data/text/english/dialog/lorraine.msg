@@ -1,85 +1,85 @@
-{100}{}{You see a young woman with dark hair.}
-{101}{}{You see Lorraine, a scav from Adytum.}
-{102}{}{Hi. Are you new here?}
-{103}{}{Yeah. Can you fill me in a little?}
-{104}{}{Yes, I am. I'm called }
+{100}{}{Voici une jeune femme brune.}
+{101}{}{Voici Lorriane, membre des Fouineurs du Sanctuaire.}
+{102}{}{Salut. Tu viens d'arriver ?}
+{103}{}{Oui. Pourrais-tu me renseigner ?}
+{104}{}{Oui. Je m'appelle }
 {105}{}{. }
-{106}{}{Whuuu?}
-{107}{}{I suppose. What do you need to know about?}
-{108}{}{Who are you?}
-{109}{}{Can you give me some information about L.A. Boneyard?}
-{110}{}{Tell me a bit about the other residents of Adytum.}
-{111}{}{What do you do for a living?}
-{112}{}{Never mind, thanks.}
-{113}{}{I'm Lorraine.}
-{114}{}{Can I ask you a few questions?}
-{115}{}{I'm a scav. I work with Sammael to collect stuff from the ruins, so that we can use it to build or trade.}
-{116}{}{Why doesn't everybody here do that?}
-{117}{}{How many scavs are there?}
-{118}{}{Can I ask you about something different?}
-{119}{}{Nice talking to you.}
-{120}{}{Well you got the Deathclaws out there, plus the Regulators take a percentage off the top, plus some for protection here in Adytum. Guess people don't have the upfront cash, or the guts to stare a Deathclaw in the eye.}
-{121}{}{What's the deal with the Regulators?}
-{122}{}{How do you avoid the Deathclaws?}
-{123}{}{Can I ask you about some other stuff?}
-{124}{}{Thanks. Bye.}
-{125}{}{Oh, there's half a dozen of us. Sammael was the first one, and he's still the best.}
-{126}{}{Can I ask you about some other stuff?}
-{127}{}{Interesting. Thanks.}
-{128}{}{They keep the peace around here, and control all the money coming in and going out. The rest of the people here pretty much work for the Regulators, and that ain't the most forgiving job. Many of them don't ever see beyond the fence that surrounds this place.}
-{129}{}{All that makes you wonder what Julianna was thinking.}
-{130}{}{What do you mean about Julianna?}
-{131}{}{Very nasty. Can I ask some other things?}
-{132}{}{Thanks for the warning.}
-{133}{}{Oh, she wound up falling for some Blade a while ago. Poor dear can't leave the town, of course, and Caleb would kill the young lad on sight. Very tragic.}
-{134}{}{Uh... if you say so.}
-{135}{}{Can I ask some other questions?}
-{136}{}{Hmm. Thanks for filling me in. Bye.}
-{137}{}{We only scavenge after dark. And we're very good at what we do. Sammael's got a little test that he likes to throw out at people, before he lets them become scavs.}
-{138}{}{What's the test?}
-{139}{}{Still sounds dangerous.}
-{140}{}{I see. Mind if we back up a bit?}
-{141}{}{Interesting. Bye.}
-{142}{}{Sammael has the person hide somewhere within Adytum during the day. If he can't find the student in an hour, then he lets the person join the next scavenger party.}
-{143}{}{What a stupid system!}
-{144}{}{Seems to work. You're still alive.}
-{145}{}{Huh. Can I ask you about some other things?}
-{146}{}{Interesting. Bye.}
-{147}{}{Come now, isn't there the faintest trace of a romantic in you? Really, it's too bad. Unrequited love and all of that. Tragic.}
-{148}{}{Hmpf. Shows what you know. Tell that to Sammael. If you can find him.}
-{149}{}{Yes, although it can be rough. It's very dangerous, especially if you're caught.}
-{150}{}{No doubt. Can I ask about something else?}
-{151}{}{Thanks for the info.}
-{152}{}{Wow, I think you're a little beyond my help.}
-{153}{}{This used to be a big city, called Los Angeles. But the bombs hit really hard. Now, there's just the Angel's Boneyard. We Adytowners are just trying to survive in the wreckage.}
-{154}{}{Can you tell me more about Los Angeles?}
-{155}{}{I see. Thanks.}
-{156}{}{Lots of people lived here. From what I hear, the survivors hid in a big place called a Vault, and came out years later. Some of them started the Regulators and then founded Adytum, while the }
-{157}{}{others formed the Blades. The Gun Runners aren't from here originally.}
-{158}{}{Where is this Vault?}
-{159}{}{What's the deal with the Regulators?}
-{160}{}{Where are the Gun Runners from?}
+{106}{}{Quoi ?}
+{107}{}{Je suppose que oui. Que veux-tu savoir ?}
+{108}{}{Qui es-tu ?}
+{109}{}{Peux-tu me renseigner sur le Cimetière ?}
+{110}{}{Parle-moi des autres habitants du Sanctuaire.}
+{111}{}{Quel est ton métier ?}
+{112}{}{Oh rien, merci.}
+{113}{}{Je m'appelle Lorriane.}
+{114}{}{Puis-je te poser quelques questions ?}
+{115}{}{Je fais partie des Fouineurs. Je travaille avec Sammael. Nous faisons de la récupération dans les ruines et nous utilisons ou vendons ce que nous ramassons.}
+{116}{}{Pourquoi tout le monde ne fait pas ça ?}
+{117}{}{Combien y a-t-il de Fouineurs ?}
+{118}{}{Puis-je te poser une question un peu différente ?}
+{119}{}{C'est un plaisir de parler avec toi.}
+{120}{}{Eh bien, il y a les Griffemorts, plus les Régulateurs qui prennent immédiatement un pourcentage, plus les gardes chargés de la protection du Sanctuaire. Je suppose que les gens n'ont ni les moyens, ni le cran d'affronter les Griffemorts.}
+{121}{}{Que font les Régulateurs ?}
+{122}{}{Comment évites-tu les Griffemorts ?}
+{123}{}{Puis-je encore te poser quelques questions ?}
+{124}{}{Merci. Salut.}
+{125}{}{Oh, on est une demi-douzaine. Sammael était le premier et c'est encore lui le meilleur.}
+{126}{}{Puis-je encore te poser quelques questions ?}
+{127}{}{Intéressant. Merci.}
+{128}{}{Ils préservent la paix dans la région et ils contrôlent tout l'argent qui entre et sort. Pour la plupart, les autres habitants travaillent pour les Régulateurs et leur sort est loin d'être enviable. La majorité ne voit jamais plus loin que la clôture qui cerne cet endroit.}
+{129}{}{Avec tout ça, tu te demandes ce que Julianna pensait.}
+{130}{}{Que veux-tu dire à propos de Julianna ?}
+{131}{}{Oh ! Puis-je te poser d'autres questions ?}
+{132}{}{Merci du conseil.}
+{133}{}{Oh ! Elle a souffert après être tombée amoureuse d'un Ecorcheur il y a quelque temps. La pauvre ne peut pas quitter la ville, bien sûr, et Caleb le tuerait s'il se présentait. Quelle tragédie !}
+{134}{}{Euh... si tu le dis.}
+{135}{}{Puis-je te poser d'autres questions ?}
+{136}{}{Hmm. Merci des renseignements. Au revoir.}
+{137}{}{On ne fouille les ordures que la nuit. Et nous sommes très doués pour ça. Sammael fait passer une sorte de test aux candidats qui veulent faire partie des Fouineurs.}
+{138}{}{C'est quoi, le test ?}
+{139}{}{Ca a l'air dangereux.}
+{140}{}{Je vois. Ca te dérange si on revient un peu en arrière ?}
+{141}{}{Intéressant. Au revoir.}
+{142}{}{Sammael laisse la personne se cacher dans le Sanctuaire pendant la journée. Si au bout d'une heure il ne l'a pas trouvée, il l'accepte alors dans le groupe les Fouineurs.}
+{143}{}{C'est stupide !}
+{144}{}{Ca a l'air de marcher. Tu es toujours en vie.}
+{145}{}{Euh. Puis-je encore te poser quelques questions ?}
+{146}{}{Intéressant. Au revoir.}
+{147}{}{Allez, n'y a-t-il pas un peu de romantisme en toi ? C'est vraiment dommage. Un amour non partagé... Quelle tragédie !}
+{148}{}{Hmm. Ca montre ce que tu sais. Dis-le à Sammael. Si tu le trouves.}
+{149}{}{Oui, mais ça peut être dur. C'est très dangereux, surtout si tu te fais prendre.}
+{150}{}{Sans aucun doute. Puis-je te demander autre chose ?}
+{151}{}{Merci pour le renseignement.}
+{152}{}{Oh là là, je crois que je ne peux rien pour toi.}
+{153}{}{C'était autrefois une grande ville qui s'appelait Los Angeles. Mais elle a été détruite par les bombardements. Aujourd'hui, il ne reste que le Cimetière des Anges. Nous, les habitants du Sanctuaire, nous tâchons juste de survivre parmi les ruines.}
+{154}{}{Que peux-tu me dire d'autre sur Los Angeles ?}
+{155}{}{Je vois. Merci.}
+{156}{}{Beaucoup de gens vivaient ici. D'après ce que j'ai entendu, les survivants se sont cachés dans un endroit immense appelé l'Abri et ils n'en sont sortis que des années plus tard. Certains ont créé les Régulateurs et ensuite fondé le Sanctuaire pendant que les }
+{157}{}{autres formaient les Ecorcheurs. Les Contrebandiers ne sont pas originaires d'ici.}
+{158}{}{Où se trouve cet Abri ?}
+{159}{}{Que font les Régulateurs ?}
+{160}{}{D'où viennent les Contrebandiers ?}
 {161}{}{}
-{162}{}{Thanks for your help.}
-{163}{}{Well, supposedly it was somewhere south of here, but I don't know really. I think everyone left because it was broken.}
-{164}{}{Can I ask you some more questions?}
-{165}{}{Hmm. Thanks.}
-{166}{}{I'm not really sure. I think they came from somewhere up north of here.}
-{167}{}{What do you know about the Regulators?}
-{168}{}{Can I ask about some other things?}
-{169}{}{Thanks for the information.}
-{170}{}{Who do you want to know about?}
+{162}{}{Merci de ton aide.}
+{163}{}{Eh bien, on pense que c'était quelque part au Sud d'ici, mais je ne sais pas vraiment. Je crois que tout le monde est parti parce que ça ne fonctionnait plus.}
+{164}{}{Je peux encore te poser quelques questions ?}
+{165}{}{Hmm. Merci.}
+{166}{}{Je ne sais pas exactement. Je crois qu'ils venaient de quelque part au Nord d'ici.}
+{167}{}{Que sais-tu sur les Régulateurs ?}
+{168}{}{Puis-je te demander autre chose ?}
+{169}{}{Merci pour le renseignement.}
+{170}{}{Sur qui veux-tu avoir des renseignements ?}
 {171}{}{Jon Zimmerman.}
 {172}{}{Caleb.}
 {173}{}{Miles.}
 {174}{}{Tine.}
-{175}{}{Smitty.}
-{176}{}{Nobody.}
-{177}{}{Zimmerman watches over our town. He makes sure that everyone gets fed, and that everybody has a job to do.}
-{178}{}{Caleb is the leader of the Regulators. It's his job to protect Adytum. He seems to enjoy it a little more than he should.}
-{179}{}{Ah, our resident chemist. Miles makes bullets, and he also built the water distiller that makes sure we get clean water from the well. He's working on an underground farm right now, but he's missing some parts.}
-{180}{}{Tine runs the shop. It's in the bunker near the gate. He trades with the Hub merchants for us.}
-{181}{}{Hmm. Smitty is a tinkerer of sorts. He's good at repair work. He casts bullets and fixes broken stuff around town.}
-{182}{}{Can I ask about someone else?}
-{183}{}{Can we talk about a different subject?}
+{175}{}{La Forge.}
+{176}{}{Personne.}
+{177}{}{Zimmerman veille sur notre ville. Il fait en sorte que tout le monde ait de quoi manger et travailler.}
+{178}{}{Caleb est le chef des Régulateurs. Son travail consiste à assurer la protection du Sanctuaire. Il semble d'ailleurs qu'il aime un peu trop son travail.}
+{179}{}{Ah, notre chimiste. Miles fabrique des munitions et des distillateurs d'eau pour nous permettre de puiser de l'eau potable. En ce moment, il travaille à la réalisation d'une ferme souterraine, mais les matériaux lui manquent.}
+{180}{}{Tine tient la boutique qui se trouve dans le bunker, près de la grande porte. Il commerce pour nous avec les marchands du Centre.}
+{181}{}{Hmm. La Forge est une sorte d'homme à tout faire. C'est un réparateur. Il moule des munitions et répare toutes sortes de choses dans toute la ville.}
+{182}{}{Puis-je te poser des questions sur quelqu'un d'autre ?}
+{183}{}{Pouvons-nous parler d'autre chose ?}
 {184}{}{}

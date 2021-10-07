@@ -1,31 +1,31 @@
-{100}{}{You see a Children of the Cathedral technician.}
-{101}{}{Drop your weapons and the Nightkin will let you live.}
-{102}{}{Nightkin, take this fool prisoner. Our Master will be pleased.}
-{103}{}{Join us, don't fight us.}
-{104}{}{You will become one with the Unity!}
-{105}{}{Please don't kill me. I only work here.}
-{106}{}{You wouldn't kill an unarmed man, would you? Would you?!}
-{107}{}{I surrender!}
-{108}{}{You have no right to be here. What do you want?}
-{109}{}{Hne.}
-{110}{}{Who are you?}
-{111}{}{You sick dogs! I tire of your life!}
-{112}{}{What is this place?}
-{113}{}{You are nearly a Nightkin now. I hope the dipping will not damage your intelligence further.}
-{114}{}{I am part of the Unity. I am a glorious servant of our Master. I will be the one who sees you become part of the Unity.}
-{115}{}{You will find out soon enough.}
-{116}{}{This is the birthplace of the superior race! This is the womb from which the armies of god will strike from! From the flesh of the weak comes the next race of man. Those who survive the dip will become the soldiers of god, and with their hands we shall shape the Unity.}
-{117}{}{You are mad! You are just plain crazy! Die!}
-{118}{}{How does it work?}
-{119}{}{You will be bound in the holy restraints. We will lower you into a vat of the blood of god, the holiest of holies. The FEV will shape and change you. You will be strong. You will become a Nightkin if you are fortunate and worthy of the honor, else you will die the most painful death possible. Soon, I will be honored. I will become strong. Then I will fear no man.}
-{120}{}{You've been around the Nightkin for far too long. Goodbye.}
-{121}{}{And why are you telling me this?}
-{122}{}{Where did you get the FEV from?}
-{123}{}{You will only leave here as part of the Unity, or a lost soul in hell! (The tech pauses for a moment)  Besides, I sit down here with a bunch of converts. It felt good to get this off my chest.}
-{124}{}{Where did you get the FEV from?}
-{125}{}{You killed the Right Hand of god. The Master will be most upset. Now, it has come time for us to join the Holy Flame!}
-{126}{}{You killed the Master. The death of the Unity is your fault. You have caused the death of the human race. I hope you feel good about yourself.}
+{100}{}{Voici un technicien des Enfants de la Cathédrale.}
+{101}{}{Pose tes armes et les Ténébreux te laisseront la vie.}
+{102}{}{Rejoins-nous, ne te bats pas contre nous.}
+{103}{}{Vous ne ferez qu'un grâce à l'Unité !}
+{104}{}{Ténébreux, emparez-vous de cet idiot de prisonnier. Notre Maître sera content.}
+{105}{}{Pitié, ne me tuez pas. Je ne fais que travailler ici.}
+{106}{}{Tu ne tuerais quand même pas quelqu'un de désarmé, n'est-ce pas ? N'est-ce pas ?!}
+{107}{}{Je me rends !}
+{108}{}{Tu n'as aucun droit d'être ici. Que veux-tu ?}
+{109}{}{Heu.}
+{110}{}{Qui es-tu ?}
+{111}{}{Sales chiens ! Je me fiche de votre vie !}
+{112}{}{Où sommes-nous ?}
+{113}{}{Tu es presque un Ténébreux maintenant. J'espère que l'immersion ne fera pas trop de dégâts sur ton intelligence.}
+{114}{}{Je suis membre de l'Unité. Je suis un glorieux servant de notre Maître. Je te verrai devenir membre de l'Unité.}
+{115}{}{Tu le sauras bien assez tôt.}
+{116}{}{C'est le berceau de la race supérieure ! C'est la matrice d'où se lèveront les armées divines ! De la chair des faibles naîtra la prochaine race humaine. Ceux qui survivront à l'immersion deviendront les soldats de dieu et grâce à eux nous formerons l'Unité.}
+{117}{}{Tu es dingue ! Tu es complètement dingue ! Crève !}
+{118}{}{Comment ça marche ?}
+{119}{}{Tu resteras dans les limites sacrées. Nous te descendrons dans la cuve remplie du sang de dieu, le plus sacré des saints. Le FEV te conditionnera pour te changer. La force sera en toi. Si la chance est de ton côté et si tu es digne de cet honneur, tu deviendras un Ténébreux, sinon tu mourras dans d'atroces souffrances. Bientôt, je recevrai cet honneur. La force sera en moi. Et je ne craindrai plus personne.}
+{120}{}{Tu as fréquenté les Ténébreux trop longtemps. Au revoir.}
+{121}{}{Mais pourquoi me dis-tu ça ?}
+{122}{}{Où as-tu trouvé le FEV ?}
+{123}{}{Tu ne quitteras cet endroit qu'en tant que membre de l'Unité, ou en tant qu'âme perdue de l'Enfer ! [pause] En outre, je m'assois là avec quelques convertis. Cela a fait du bien de sortir ça de ma poitrine.}
+{124}{}{Où as-tu trouvé le FEV ?}
+{125}{}{Tu as tué le Bras Droit de Dieu. Le Maître en sera fort mécontent. A présent, le temps est venu pour nous de rejoindre la flamme sacrée !}
+{126}{}{Tu as tué le Maître. Tu es responsable de la mort de l'Unité. Tu es responsable de la mort de la race humaine. J'espère que tu assumes tes actes.}
 {127}{}{Hnnn.}
-{128}{}{As a matter of fact, I do.}
-{129}{}{You'll join him in a moment. Pray to whatever god took his place.}
-{130}{}{I go to join him now, in the Holy Flames!}
+{128}{}{C'est un fait, j'assume.}
+{129}{}{Tu le verras dans un moment. Prie le dieu qui a pris sa place.}
+{130}{}{Je vais le rejoindre immédiatement, dans les flammes sacrées !}

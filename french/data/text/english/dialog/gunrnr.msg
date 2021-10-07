@@ -1,17 +1,17 @@
-{100}{}{Hey! Whaddya think you're doing?!}
-{101}{}{Hey, you got any Nuka-Cola?}
-{102}{}{Business is good.}
-{103}{}{Gabriel is a great boss.}
-{104}{}{Nice day, isn't it?}
-{105}{}{Talk to Zack if you're looking for gear.}
-{106}{}{Zack sells the weapons.}
-{107}{}{Keep your weapons holstered.}
-{108}{}{Don't try any funny business.}
-{109}{}{We could hold off an army in here.}
-{110}{}{Some guy fell in the moat once. What a horrible way to go.}
-{111}{}{Damn that moat, the fumes are making my eyes hurt.}
-{112}{}{I hate this job.}
-{113}{}{Get out of my way!}
-{114}{}{Don't bother me.}
-{115}{}{Can't you see that I'm busy?}
-{116}{}{You see a typical Gun Runner.}
+{100}{}{Eh ! Mais tu te crois où ?}
+{101}{}{Eh, t'as pas du Nuka Cola ?}
+{102}{}{Les affaires marchent bien.}
+{103}{}{Gabriel est un patron super.}
+{104}{}{Belle journée, pas vrai ?}
+{105}{}{Adresse-toi à Zack si tu veux t'équiper.}
+{106}{}{Zack vend des armes.}
+{107}{}{T'avise pas de sortir tes armes.}
+{108}{}{Te lance pas dans des affaires louches !}
+{109}{}{Ici, on pourrait tenir une armée en respect.}
+{110}{}{Une fois, y'a un type qu'est tombé dans les douves. Une fin horrible.}
+{111}{}{Maudites douves, ces vapeurs me font mal aux yeux.}
+{112}{}{J'ai horreur de ce boulot.}
+{113}{}{Tire-toi de mon chemin !}
+{114}{}{Ne me dérange pas.}
+{115}{}{Tu vois pas que j'ai à faire ?}
+{116}{}{Voici un Contrebandier.}

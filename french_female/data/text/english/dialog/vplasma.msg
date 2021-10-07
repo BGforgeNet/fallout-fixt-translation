@@ -1,5 +1,5 @@
-{100}{}{Plasma rips from the northern wall!}
-{101}{}{You notice a small trip plate at your feet.}
-{102}{}{ Your knowledge of traps leads you to believe that this is a trigger of some kind.}
-{103}{}{You carefully sever the pressure springs on the trip plate.}
-{104}{}{You're not quite sure how to prevent the plate from triggering.}
+{100}{}{Du plasma s'échappe du mur nord !}
+{101}{}{Tu remarques une petite plaque de déclenchement à tes pieds.}
+{102}{}{ Ta connaissance des pièges t'amène à penser qu'il s'agit d'une sorte de déclencheur.}
+{103}{}{Tu coupes soigneusement les ressorts de pression de la plaque de déclenchement.}
+{104}{}{Tu ne sais pas vraiment comment empêcher la plaque de se déclencher.}

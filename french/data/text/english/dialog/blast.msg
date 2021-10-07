@@ -1,4 +1,4 @@
-{100}{}{The explosion closes off the tunnel with a mighty blast!}
-{101}{}{You drop the explosives and they go off!}
-{102}{}{The explosion just makes the hole larger. It is impossible to close it now.}
-{103}{}{You earn 10 experience for successful use of explosives.}
+{100}{}{L'explosion obstrue le tunnel dans un énorme fracas !}
+{101}{}{Tu balances les explosifs et tout se met à péter !}
+{102}{}{L'explosion ne fait qu'élargir le trou. Maintenant, impossible de le reboucher.}
+{103}{}{Tu as gagné des points d'expérience pour avoir correctement utilisé des explosifs.}

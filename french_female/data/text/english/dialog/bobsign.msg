@@ -1,3 +1,3 @@
-{100}{}{Closed by order of Sheriff Justin Greene.}
-{101}{}{There is a small sign on the booth.}
-{102}{}{Wanted: "Iguana" Bob Frazier, dead or alive. If you have any information on his present location or the persons responsible for his escape, please inform the Sheriff immediately.}
+{100}{}{Fermé sur ordre du Shérif Justin Greene.}
+{101}{}{Il y a une petite pancarte sur la baraque.}
+{102}{}{Recherché : Iguane Bob Frazier, mort ou vif. Toute personne l'ayant aperçu ou en possession d'informations sur ses complices est tenue de se présenter devant le Shérif immédiatement.}

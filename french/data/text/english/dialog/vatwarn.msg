@@ -1,2 +1,2 @@
-{100}{}{You hear a female voice over a loudspeaker: "Attention! You have entered a secured area. Lethal force authorized."}
+{100}{}{Tu entends une voix de femme dans un haut-parleur : "Attention ! Vous êtes entré dans une zone interdite. Autorisation de violences pouvant entrainer la mort accordée."}
 {101}{}{}

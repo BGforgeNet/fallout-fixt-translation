@@ -1,57 +1,57 @@
-{100}{}{You see a flower child.}
-{101}{}{Hello! Would you... oh, excuse me...}
-{102}{}{You! I heard about you! You kill kids and eat them! Mother Jain! Mother Jain! Help!}
-{103}{}{Would you like a flower, mister?}
-{104}{}{Would you like a flower, ma'am?}
-{105}{}{Empty}
-{106}{}{Is there anything special about this place?}
-{107}{}{What's so special about the flower?}
-{108}{}{What are you charging, kid?}
-{109}{}{Sure, kid!}
-{110}{}{No thanks.}
-{111}{}{Sure. I could get off on stomping it to pieces!}
-{112}{}{*sniff sniff* Smell nice!}
-{113}{}{*sniff sniff* Smell yuck!}
-{114}{}{Silly! You already got a flower!}
-{115}{}{Do you want the flower or don't you!}
-{116}{}{I'll take the flower if you tell me a little about this place.}
-{117}{}{What's so special about the flower?}
-{118}{}{Sure, kid!}
-{119}{}{Enough about the damn flower. Just answer the question!}
+{100}{}{Voici un enfant des fleurs.}
+{101}{}{Bonjour ! Est-ce que... oh, pardon...}
+{102}{}{Toi ! J'ai entendu parler de toi ! Tu tues les gens et après tu les manges ! Mère Jain ! Mère Jain ! A l'aide !}
+{103}{}{Est-ce que tu veux une fleur, monsieur ?}
+{104}{}{Est-ce que tu veux une fleur, madame ?}
+{105}{}{Vide}
+{106}{}{Que se passe-t-il de particulier ici ?}
+{107}{}{Qu'a-t'elle de particulier cette fleur ?}
+{108}{}{Combien veux-tu ?}
+{109}{}{Bien sûr !}
+{110}{}{Non, merci.}
+{111}{}{Bien sûr. Je pourrais me faire un plaisir de la réduire en bouillie !}
+{112}{}{[sniff, sniff]. Ca sent bon !}
+{113}{}{[sniff, sniff]. Beurk !}
+{114}{}{T'es bête. Tu as déjà une fleur !}
+{115}{}{Tu veux la fleur ou pas ?}
+{116}{}{Je prendrai ta fleur si tu me parles un peu de cet endroit.}
+{117}{}{Qu'a-t'elle de particulier cette fleur ?}
+{118}{}{Bien sûr !}
+{119}{}{Arrête avec tes satanées fleurs. Réponds juste à ma question !}
 {120}{}{}
-{121}{}{It's a Unity Rose. It's the color of the Holy Flame, and represents the peace and harmony we'll have when the Children of the Cathedral helps everyone in the whole world become friendly and strong! Uh, do you want one?}
+{121}{}{C'est une Rose de l'Unité. Elle est de la couleur de la Flamme Sacrée et elle représente la paix et l'harmonie que nous aurons quand les Enfants de la Cathédrale aideront chacun dans le monde à se montrer amical et courageux ! Euh, t'en veux une ?}
 {122}{}{}
-{123}{}{Now how's a rose going to do all that?}
-{124}{}{Tell me about the Holy Flame...}
-{125}{}{How much is it, kid?}
-{126}{}{Sure, kid!}
+{123}{}{Et comment une rose pourrait-elle avoir tout ce pouvoir ?}
+{124}{}{Parle-moi de la Flamme Sacrée...}
+{125}{}{Combien ça fait ?}
+{126}{}{Bien sûr !}
 {127}{}{}
-{128}{}{Look, I don't want your damn flower.}
-{129}{}{It's free. We don't believe in money. The Holy Flame takes care of all of our needs! It's so wonderful! You should join us in our Cathedral of Happiness! Uh, do you want one?}
-{130}{}{Tell me about the Cathedral...}
-{131}{}{Tell me about the Holy Flame...}
-{132}{}{Sure, kid!}
+{128}{}{Ecoute. Je veux pas de ta putain de fleur.}
+{129}{}{C'est gratuit. L'argent ne signifie rien pour nous. La Flamme Sacrée répond à tous nos besoins. C'est si merveilleux ! Tu devrais te joindre à nous, au sein de notre Cathédrale du Bonheur ! Euh, t'en veux une ?}
+{130}{}{Parle-moi de la Cathédrale...}
+{131}{}{Parle-moi de la Flamme Sacrée...}
+{132}{}{Bien sûr !}
 {133}{}{}
 {134}{}{}
-{135}{}{Thank you, oh thank you! I gave away a flower! Isn't that great?}
-{136}{}{You're mean! I hate you! I hope you get eaten by the Holy Flame!}
-{137}{}{They sure do! Have one! I gave away a flower! Isn't that great?}
-{138}{}{You're stupid! I hope the Holy Flame kills you before you can say anymore stupid things. Mother Jain, watch out for the stupid man!}
-{139}{}{We're the Children of the Cathedral. We've been commanded by the Holy Flame itself to feed the hungry and heal the sick. We're going to spread peace and unity everywhere, and everything will be soooo good! Here, have a flower!}
-{140}{}{I don't think you want a flower at all. You're being mean to me!}
-{141}{}{Roses won't do that, silly! Only people can change the world. And with the Holy Flame as our Master, we'll be sure to make everything nice and special! So, would you like a flower?}
-{142}{}{Tell me about the Cathedral...}
-{143}{}{Tell me about the Holy Flame...}
-{144}{}{Sure, kid!}
-{145}{}{No thanks.}
-{146}{}{I'll show you silly, you little...}
-{147}{}{That's the fire that cleansed the world, and if we obey it, it'll never do it again! It wants us to be smart and peaceful and unified and stuff! So, would you like a flower?}
-{148}{}{Tell me about this unity...}
-{149}{}{Sure, kid!}
-{150}{}{No thanks.}
-{151}{}{Enough with the damn flower!}
-{152}{}{It's a wonderful place near the ocean, where people spend all their time praising the Holy Flame and being good. And everyone there is kind, except maybe Father Lasher. Uh... would you like a flower?}
-{153}{}{Tell me about Father Lasher...}
-{154}{}{Sure, kid!}
-{155}{}{No thanks.}
-{156}{}{Enough with the damn flower!}
+{135}{}{Merci, merci beaucoup ! J'ai fait cadeau d'une fleur ! N'est-ce pas magnifique...}
+{136}{}{C'est méchant ! Je te déteste ! J'espère que la Flamme Sacrée t'engloutira !}
+{137}{}{Bien sûr ! Prends-en une ! J'ai fait cadeau d'une fleur ! N'est-ce pas magnifique...}
+{138}{}{Tu es stupide ! J'espère que la Flamme Sacrée te tuera avant que tu puisses encore dire des choses aussi stupides. Mère Jain, protège nous cette personne stupide !}
+{139}{}{Nous sommes les Enfants de la Cathédrale. C'est la Flamme Sacrée elle-même qui nous exhorte à nourrir ceux qui ont faim et soigner ceux qui souffrent. Nous allons répandre la paix et l'unité... et tout sera siiiiiii beau ! Cette fleur est pour toi. Prend-la !}
+{140}{}{J'ai l'impression que tu veux pas de fleur. Méchant !}
+{141}{}{Mais non idiot ! Seuls les hommes peuvent changer le monde. Et avec la Flamme Sacrée pour maître, nous pouvons être sûrs que tout deviendra beau et spécial ! Alors, est-ce que tu veux une fleur ?}
+{142}{}{Parle-moi de la Cathédrale...}
+{143}{}{Parle-moi de la Flamme Sacrée...}
+{144}{}{Bien sûr !}
+{145}{}{Non, merci.}
+{146}{}{Idiot ? Viens par ici espèce de petit...}
+{147}{}{C'est le feu qui a purifié le monde et si nous lui obéissons, il n'aura plus à le faire ! Elle veut que nous soyons intelligents, paisibles, unis et tout ça ! Alors, tu veux pas une fleur ?}
+{148}{}{Parle-moi de cette unité...}
+{149}{}{Bien sûr !}
+{150}{}{Non, merci.}
+{151}{}{Arrête avec cette satanée fleur !}
+{152}{}{C'est un monde merveilleux, tout près de l'océan, là où les gens passent leur temps à louer la Flamme Sacrée et s'attachent à être bons. Et tout le monde est gentil là bas, à part le Père Lasher peut-être. Euh... est-ce que tu veux une fleur ?}
+{153}{}{Parle-moi de Père Lasher...}
+{154}{}{Bien sûr !}
+{155}{}{Non, merci.}
+{156}{}{Arrête avec cette satanée fleur !}

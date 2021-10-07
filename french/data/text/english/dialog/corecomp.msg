@@ -1,5 +1,5 @@
-{100}{}{This computer monitors the machines maintaining the Vault.}
-{101}{}{Most of your computer access has been removed by order of the Vault AI system.}
-{102}{}{This is the Vault 13 Central Computer Core. It controls most of the workstations you find in the Vault.}
-{103}{}{You fiddle with the computer but don't really find out anything else about it.}
-{104}{}{There are lots of blinking lights on this thing.}
+{100}{}{Cet ordinateur contrôle les machines qui font fonctionner l'Abri.}
+{101}{}{Ton accès informatique a été largement limité sur ordre du système IA de l'Abri.}
+{102}{}{Voici l'Ordinateur Central de l'Abri 13. Il contrôle la majorité des postes de travail de l'Abri.}
+{103}{}{Tu manipules l'ordinateur mais tu ne découvres pas grand chose d'autre.}
+{104}{}{Cet appareil est équipé de nombreux voyants qui clignotent.}

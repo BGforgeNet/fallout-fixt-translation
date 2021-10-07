@@ -1,3 +1,3 @@
-{100}{}{You see a water pump.}
-{101}{}{The design of this pump looks very different from the one in your Vault.}
-{102}{}{You realize that the pump's parts will be incompatible with those of your Vault.}
+{100}{}{Tu vois une pompe à eau.}
+{101}{}{Cette pompe n'est pas conçue comme celle de ton Abri.}
+{102}{}{Tu te rends compte que les pièces de la pompe seront incompatibles avec celles de ton Abri.}

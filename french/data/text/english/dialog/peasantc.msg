@@ -1,25 +1,25 @@
-{100}{}{Get out of here!}
-{101}{}{I've heard bad things about you, are they true?}
-{102}{}{Hi.}
-{103}{}{This is my place, wanna hang out for a while?}
-{104}{}{Hmm, you look juicy... }
-{105}{}{I hope you're not going to kick me out of here.}
-{106}{}{No.}
-{107}{}{That's a strange way to start a conversation.}
+{100}{}{Sors d'ici !}
+{101}{}{C'est vrai, les vilaines choses qu'on dit sur ton compte ?}
+{102}{}{Salut.}
+{103}{}{C'est chez moi, tu veux rester un peu ?}
+{104}{}{Hum, t'as l'air sexy...}
+{105}{}{J'espère que tu vas pas me jeter dehors.}
+{106}{}{Non.}
+{107}{}{Drôle de manière d'entamer la conversation !}
 {108}{}{Hnnn.}
-{109}{}{Oh, well, if you want to stay a while, go right ahead. I think we are safe here.}
-{110}{}{Well, you gotta be careful these days. I hope you're having a better life than I am.}
-{111}{}{Well, it's true. After what happened to my friends, I gotta protect my turf. I just hope you're not gonna kill me.}
-{112}{}{No, I won't hurt you. Much.}
-{113}{}{Why do you say that?}
+{109}{}{Oh, si tu veux rester un moment, te gêne pas. Je pense qu'on risque rien ici.}
+{110}{}{Ah, faut être prudent de nos jours. J'espère que tu vis mieux que moi.}
+{111}{}{Damne, c'est vrai. Avec ce qu'est arrivé à mes amis, faut que j'protège mon territoire. Mais j'espère que tu vas pas me tuer.}
+{112}{}{Non, je te ferai pas de mal. Pas trop.}
+{113}{}{Pourquoi dis-tu ça ?}
 {114}{}{Gack!}
-{115}{}{No reason. Really.}
-{116}{}{Those 'helpful' healing guys wanted my friend's place, so they took it. I don't know what happened to my friends.}
-{117}{}{ And Killian is too busy to help me.}
-{118}{}{ Killian is too busy cleaning up Gizmo's mess to help.}
-{119}{}{ Gizmo laughed at me when I asked for his help.}
-{120}{}{ There's nobody around to help me.}
-{121}{}{Are you safe?}
-{122}{}{That's a shame.}
-{123}{}{I hope so, I really hope so.}
-{124}{}{Please leave me alone!}
+{115}{}{Pour rien, je t'assure.}
+{116}{}{Ces soit-disant "guérisseurs", ils voulaient l'endroit de mon ami et ils l'ont pris. J'sais point ce qu'est arrivé à mes amis.}
+{117}{}{ Et Killian il a pas le temps de m'aider.}
+{118}{}{ Killian il est trop occupé avec les histoires de Gizmo pour m'aider.}
+{119}{}{ Gizmo m'a rigolé au nez quand je l'ai prié de m'aider.}
+{120}{}{ Y'a personne dans le coin pour m'aider.}
+{121}{}{T'es en sécurité ?}
+{122}{}{Ah, c'est désolant.}
+{123}{}{Ah, j'espère bien !}
+{124}{}{S'il te plaît, m'laisse pas tout seul !}

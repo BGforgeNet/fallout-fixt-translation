@@ -1,1 +1,1 @@
-{100}{}{In the corner of the room is a rat-sized tunnel. They must be burrowing their way into the Vault through here.}
+{100}{}{Il y a une galerie de la taille d'un rat dans le coin de la pièce. C'est par là qu'ils doivent se faufiler à l'intérieur de l'abri.}

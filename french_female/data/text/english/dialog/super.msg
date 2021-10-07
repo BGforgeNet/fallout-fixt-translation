@@ -1,5 +1,5 @@
-{100}{}{It's some kind of huge Super Mutant creature! And it has a very large gun!}
-{101}{}{You're on Unity soil. I'd better take you in.}
-{102}{}{Okay.}
-{103}{}{I don't think so.}
-{104}{}{Wahh?}
+{100}{}{C'est une sorte d'énorme super mutant ! Et il a un énorme fusil !}
+{101}{}{Tu es sur le territoire de l'Unité. Je ferais mieux de te faire rentrer.}
+{102}{}{D'accord.}
+{103}{}{Je ne crois pas.}
+{104}{}{Quoi ?}

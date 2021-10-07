@@ -1,26 +1,26 @@
-{100}{}{You see an angry ghoul.}
-{101}{}{Whatta ya doin here?}
-{102}{}{Searching for the remains of the future past.}
-{103}{}{I'm an explorer.}
-{104}{}{What's it to you, wormface?}
-{105}{}{Dug-duh.}
-{106}{}{Wha'd you say?}
-{107}{}{Nothing.}
-{108}{}{I'm looking for lost technology.}
-{109}{}{That's what I thought you say. Getta outta my house.}
-{110}{}{Oh, nonna dat around here. Maybe uppa da temple or atta water place. Getta going.}
-{111}{}{Ack! Donna you be exploring any my stuff. Getta out! I mean it.}
-{112}{}{Donna be in my face like-a dat. I runna dis show.}
-{113}{}{Oh, yeah.}
-{114}{}{I'm gonna take thata face'a yours and shove it up yer...}
-{115}{}{Ack! Okay, I concede. I leave.}
-{116}{}{You no biggie to order me like dat. Take some of dis and shove it!}
-{117}{}{I don' wanna talk to you.}
-{118}{}{What are you?}
-{119}{}{I'm a ghoul. You never seen a ghoul before?}
-{120}{}{Yes.}
-{121}{}{No.}
-{122}{}{Musta been a pansie undergrounder. They letta you live so's you could pester me. Now getta outta my house.}
-{123}{}{Well now you have. Getta outta here!}
-{200}{}{He appears to be the owner of this establishment. The phrase "under new management" comes to mind.}
-{201}{}{You see: Hotel Manager.}
+{100}{}{Tu vois un Goule en colère.}
+{101}{}{Qu'est-ce tu fous là ?}
+{102}{}{Je cherche des restes du passé futur.}
+{103}{}{Je suis explorateur.}
+{104}{}{Ca te regarde, face d'asticot ?}
+{105}{}{Ben.}
+{106}{}{Qu'est-ce t'as dit ?}
+{107}{}{Rien.}
+{108}{}{Je suis en quête d'une technologie perdue.}
+{109}{}{C'est bien c'que j'avais cru comprendre. Sors d'chez moi.}
+{110}{}{Oh, y'a pas de ça ici. P't-êt' près du temple ou d'un point d'eau. Tu f'rais mieux de partir.}
+{111}{}{Fichtre ! Y'a ren à explorer chez moi. Fiche le camp ! J'te dis de fiche le camp !}
+{112}{}{Tu vas voir c'que tu vas voir.}
+{113}{}{Oh, ouais.}
+{114}{}{Attends un peu, tu vas voir c'que j'te réserve...}
+{115}{}{Bon ! Ok, j'ai compris. Je m'en vais.}
+{116}{}{Tu t'prends pour qui ? Prends ça et fiche le camp !}
+{117}{}{J'te parlrai pas.}
+{118}{}{Qui t'es ?}
+{119}{}{Je suis un Goule. C'est la première fois que tu en vois un ?}
+{120}{}{Oui.}
+{121}{}{Non.}
+{122}{}{S'doit être une de ces tapettes de l'Underground. Y t'ont juste laissé la vie pour m'emmerder. Maintenant, sors d'chez moi.}
+{123}{}{Eh ben, c'est fait. Fiche le camp !}
+{200}{}{Il semble être le gérant de cet établissement. Les mots "changement de propriétaire" te viennent à l’esprit.}
+{201}{}{Voici le directeur d’hôtel.}

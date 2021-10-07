@@ -1,30 +1,30 @@
-{100}{}{Watch yourself around the Doc, and I won't have to get medieval on your face.}
-{101}{}{We're closed. Come back later.}
-{102}{}{I gotta see the Doc.}
-{103}{}{Okay, will do.}
-{104}{}{It is very important that I see the doctor.}
+{100}{}{Surveille tes manières chez le Doc, si tu veux pas que je t'arrange le portrait.}
+{101}{}{C'est fermé. Reviens plus tard.}
+{102}{}{Faut que j'vois l'toubib.}
+{103}{}{D'accord.}
+{104}{}{Il faut absolument que je vois le médecin.}
 {105}{}{Hnnn.}
-{106}{}{Nice weather we're having, huh?}
-{107}{}{That's just too bad. Get out of here, and don't come back until morning. This office isn't open at night.}
-{108}{}{Hold on a second, I gotta check with the Doc.}
-{109}{}{What do you want now?}
-{110}{}{I gotta see the Doc.}
-{111}{}{Is the doctor available?}
-{112}{}{Hnnn!}
-{113}{}{No way. The Doc is sleeping. Come back later.}
-{114}{}{I dunno, why don't you talk to him yourself.}
-{115}{}{Yeah, okay. Get out.}
-{116}{}{Hey, this is private property. You'd better be leaving, now.}
-{117}{}{Eat my dung.}
-{118}{}{If you don't get out of my way, you'll be needing the doctor for personal reasons.}
-{119}{}{Don't you know that women are the weaker sex?}
-{120}{}{Think I'm weak? Watch this then...}
-{121}{}{I'll just be leaving.}
-{122}{}{Take your puny threats and run home to mama. You're talking to a real man here.}
-{123}{}{Think I'm weak? Watch this then...}
-{124}{}{I'll just be leaving.}
-{125}{}{Whoa! If you really want to see him, go right ahead.}
-{126}{}{Well, when is the doctor here?}
-{127}{}{The doc sees patients from 8 to 5. Now get outta here.}
-{128}{}{When is the doctor here?}
-{129}{}{I told you not to come back.}
+{106}{}{Beau temps, hein ?}
+{107}{}{Tant pis pour toi. Dehors ! Et ne reviens pas avant demain matin, le cabinet n'ouvre pas le soir.}
+{108}{}{Attends, faut que j'vois le toubib.}
+{109}{}{Que veux-tu cette fois ?}
+{110}{}{Faut que j'vois l'toubib.}
+{111}{}{Le docteur reçoit-il ?}
+{112}{}{Hnnn !}
+{113}{}{Pas question, Doc roupille. Reviens plus tard.}
+{114}{}{Chais pas, pourquoi tu lui demandes pas toi-même.}
+{115}{}{Oui, oui, c'est ça. Dégage !}
+{116}{}{Eh, c'est une propriété privée ici. Tu ferais mieux de sortir.}
+{117}{}{Mon cul !}
+{118}{}{Si tu bouges pas de mon chemin, t'auras d'autres raisons de voir le médecin.}
+{119}{}{Tu sais donc pas que les femmes sont le sexe faible ?}
+{120}{}{Tu me prends pour une mauviette ? Vise un peu ça...}
+{121}{}{Je m'en vais.}
+{122}{}{Ravale tes menaces de débile et rentre chez maman. Tu parles à un homme, un vrai.}
+{123}{}{Tu me prends pour une mauviette ? Vise un peu ça...}
+{124}{}{Je m'en vais.}
+{125}{}{Whoa ! Si tu tiens vraiment à le voir, c'est tout droit.}
+{126}{}{Bien, quand le docteur est-il là ?}
+{127}{}{Le docteur consulte de 8 à 17. Maintenant, sors.}
+{128}{}{Quand le docteur est-il là ?}
+{129}{}{Je t'avais dit de ne pas revenir.}

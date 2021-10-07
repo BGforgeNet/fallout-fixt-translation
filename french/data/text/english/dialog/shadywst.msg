@@ -1,26 +1,26 @@
-{100}{}{You earn 400 experience for returning Tandi to Shady Sands.}
-{101}{}{To the south, you see an adobe wall surrounding a peaceful-looking village.}
-{102}{}{A small shack is all that remains in this area. Fortunately, your records indicate there's a secondary entrance to Vault 15 here.}
-{103}{}{You see a building to the northwest, with a series of tents nearby. The inhabitants look dirty and mean.}
-{104}{}{You come across a medium-sized town. A wall of junked cars blocks easy entrance. A hazy smoke lies low over the town.}
-{105}{}{To the south you see a large city. Outlying farms surround the town. There is life in this desert oasis.}
-{106}{}{You approach a dark and broken city. Little life can be seen. A stench of death surrounds the area.}
-{107}{}{A small structure surrounded by a chainlink fence is to the north. Menacing guards in heavy armor guard the area.}
-{108}{}{A large crater sprawls to the north.}
-{109}{}{Mutant guards can be seen to the northeast in front of a fortified location built into the side of the mountain.}
-{110}{}{A large, ornate building rises into the sky. A crowd of people walk aimlessly before it.}
-{111}{}{You can see a warehouse to the north, with a moat of glowing goo surrounding it.}
-{112}{}{A large, fortified factory, with graffiti-painted walls and threatening gun ports, looms ahead.}
-{113}{}{The signs of gang activity are evident in the partially-rebuilt nightclub and tiny outposts here.}
-{114}{}{In the heart of the city, a great library, fortified and restored, rises with a forbidding yet graceful presence. You feel a sense of peace.}
-{115}{}{A fenced-off village, patrolled by guards, waits defiantly to the south.}
-{116}{}{You see a giant footprint in the ground. You search but find no other tracks in the area.}
-{117}{}{Ashes and smoldering debris cover the area.}
-{118}{}{This area looks like it was hit by a high-pressure firebomb.}
-{119}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}
-{150}{}{Before you lies a silent town, filled with corpses and carnage. Something horrible has happened here.}
-{151}{}{This town is silent and ominous, littered with dead bodies. Something terrible has happened here...}
-{152}{}{The stench of death here is almost overwhelming. Super Mutants patrol the area.}
-{153}{}{You arrive at your destination only to find death and the desert wind.}
-{154}{}{You see the scene of a slaughter. There appears to be no survivors, although you can hear the faint sound of movement.}
-{155}{}{A structure surrounded by a chainlink fence is to the north. Looks like it's been damaged by an explosion. The stench of death here is almost unbearable.}
+{100}{}{points d'expérience pour avoir ramené Tandi.}
+{101}{}{Au Sud, tu vois un mur encerclant un village apparemment paisible.}
+{102}{}{Il ne reste de cette région qu'une petite cabane. Heureusement, selon tes archives, l'Abri 15 possède une entrée secondaire.}
+{103}{}{Voici un petit bâtiment bordé d'une série de tentes. Les habitants semblent sales et pauvres.}
+{104}{}{Tu tombes sur une ville de taille moyenne. Un mur d'épaves de voitures bloque le passage. Un brouillard de fumée plane sur la ville.}
+{105}{}{Au Sud, tu vois une grande ville entourée de fermes isolées. Cette oasis située en plein désert semble habitée.}
+{106}{}{Tu approches d'une ville sombre et en ruine, apparemment quasi déserte. Une odeur de mort plane sur la région.}
+{107}{}{Au Nord se trouve un petit bâtiment entouré d'une clôture. Des gardes menaçants en armure lourde patrouillent.}
+{108}{}{Au Nord s'étend un grand cratère.}
+{109}{}{Des gardes mutants peuvent être aperçus au Nord-Est devant une place forte construite à flanc de montagne.}
+{110}{}{Un grand bâtiment décoré se dresse vers le ciel. Une foule de gens déambule, sans but.}
+{111}{}{Au Nord, tu aperçois un entrepôt entouré de bassins remplis d'une substance collante et luminescente.}
+{112}{}{Une grande usine fortifiée aux murs couverts de graffiti et d'impressionnants orifices à canons se dessine devant toi.}
+{113}{}{Ce night-club partiellement reconstruit et ces minuscules postes avancés révèlent la présence de bandes.}
+{114}{}{Au coeur de la ville se dresse une grande bibliothèque, fortifiée et restaurée, dont l'aspect menaçant a pourtant quelque chose de gracieux. Tu ressens une sensation de paix.}
+{115}{}{Un village clôturé, patrouillé par des gardes, attend avec défiance au Sud.}
+{116}{}{Tu découvres sur le sol une empreinte de pas géante. Tu as beau chercher mais tu ne trouves aucune autre trace aux alentours.}
+{117}{}{La région est couverte de traces de brûlé et de cendres.}
+{118}{}{Cette région semble avoir été touchée par une bombe à haute pression.}
+{119}{}{Tu vois le camp d'une bande de Pillards nomades. On dirait que tu es tombé au mauvais endroit au mauvais moment.}
+{150}{}{Devant toi repose une ville silencieuse, jonchée de cadavres. Quelque chose d'horrible s'est passé ici.}
+{151}{}{Cette ville est silencieuse, sinistre et jonchée de cadavres. Quelque chose de terrible est arrivé ici...}
+{152}{}{La puanteur de la mort ici est presque écrasante. Les Super Mutants patrouillent la zone.}
+{153}{}{Tu arrives à votre destination pour n'y trouver que la mort et le vent du désert.}
+{154}{}{Tu vois la scène d'un massacre. Il semble n'y avoir aucun survivant, mais tu peux entendre le bruit léger d'un mouvement.}
+{155}{}{Une structure au Nord est entourée d'une clôture grillagée. On dirait qu'elle a été endommagé par une explosion. La puanteur de la mort est presque insupportable ici.}

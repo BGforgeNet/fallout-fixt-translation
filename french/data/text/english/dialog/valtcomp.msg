@@ -1,3 +1,3 @@
-{100}{}{You could glean more information from this terminal with a more scientific approach.}
-{101}{}{This terminal is regulating Vault supplies and functions, and performing routine administrative work.}
-{102}{}{The terminals on this level perform atmosphere and temperature control and backup maintenance for the medical lab.}
+{100}{}{Avec une approche plus scientifique, ce terminal pourrait te fournir davantage d'informations.}
+{101}{}{Ce terminal gère les approvisionnements et les fonctions de l'Abri et effectue les tâches administratives de routine.}
+{102}{}{Les terminaux de ce niveau sont affectés à la maintenance et au contrôle du milieu et des températures du laboratoire médical.}

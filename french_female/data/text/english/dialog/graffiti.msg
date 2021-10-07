@@ -1,1 +1,1 @@
-{100}{}{Scrawled on a scrap of paper is a barely legible message: 'Hea  d  or t   lower-level exit. No time  o  vac   e test p  je     T     s t e big    ! Dan  Sc  ly.}
+{100}{}{Un message à peine lisible est griffonné sur un bout de papier : 'En d   ect on de    sortie du bas. Pas  e temps d' vac   er  p  jet    test. On app     d  but ! Dana  Sc  ly.'}

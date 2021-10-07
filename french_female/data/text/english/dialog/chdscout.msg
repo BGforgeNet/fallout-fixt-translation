@@ -1,97 +1,97 @@
-{100}{}{You see an alert scout.}
-{101}{}{Who goes there?}
-{102}{}{Me. Me.}
-{103}{}{Who goes where?}
-{104}{}{I do!}
-{105}{}{Deathslayer!}
-{106}{}{Be at peace. I am a friend.}
-{107}{}{Meme? What kind of name is that? Well, get out of here! This is the property of the Children of the Cathedral.}
-{108}{}{Huh? Me stay!}
-{109}{}{Huh? You die!}
-{110}{}{Me no want to go.}
-{111}{}{Great. Of all the people I had to stop, I stopped a piece of cannon fodder. What can I do for you?}
-{112}{}{Go night-night!}
-{113}{}{Nahnah.}
-{114}{}{Hep ew.}
-{115}{}{Okay. I suggest you get out of here before you get hurt.}
-{116}{}{You want to help me? I doubt that. What do you have?}
-{117}{}{Nahnah.}
-{118}{}{Dis!}
-{119}{}{Vaut.}
-{120}{}{Wasting my time, I see. Get lost!}
-{121}{}{Vaut. Vaut? What's a vaut?}
-{122}{}{Numnum.}
-{123}{}{Nonah.}
-{124}{}{Valt! Valt!}
-{125}{}{Oh, you want candy. Sorry, I don't have any. Goodbye.}
-{126}{}{Oh, a Vault. I'm sure that is very nice. Maybe you can talk to one of my superiors about that. I'm kinda busy right now.}
-{127}{}{It is very dangerous here. Big, bad monsters took over this place. We are trying to save what we can before they come back.}
-{128}{}{No go! No go!}
-{129}{}{Uh-oh.}
+{100}{}{Tu vois un éclaireur en alerte.}
+{101}{}{Qui va là ?}
+{102}{}{Moi. Moi.}
+{103}{}{Qui va où ?}
+{104}{}{C'est moi !}
+{105}{}{Grand Balaise !}
+{106}{}{Soit rassuré. Je suis un ami.}
+{107}{}{Moimoi ? C'est quoi ce nom ? Allez, vas-t-en ! C'est la priopriété des Enfants de la Cathédrale ici.}
+{108}{}{Hein ? Moi rester !}
+{109}{}{Hein ? Toi mourrir !}
+{110}{}{Moi pas vouloir partir.}
+{111}{}{Génial. De tous les gens dont je dois m'occuper, il fallait que je tombe sur un débile de première classe. Que puis-je faire pour toi ?}
+{112}{}{Toi faire dodo !}
+{113}{}{Nan-nan-nan.}
+{114}{}{Eh hop.}
+{115}{}{Ok. Je te suggère de partir d'ici avant que tu te fasses du mal.}
+{116}{}{Tu veux m'aider ? J'en doute. T'as quoi ?}
+{117}{}{Nan-nan-nan.}
+{118}{}{Ca !}
+{119}{}{A-aaabreuh.}
+{120}{}{Je perd mon temps à ce que je vois. Barre-toi !}
+{121}{}{Abreuh. Abreuh ? C'est quoi un *abre* ?}
+{122}{}{Nom-nom-nom.}
+{123}{}{Non-ah.}
+{124}{}{Aaa-abreuh ! Abreuh !}
+{125}{}{Oh, tu veux un bonbon. Désolé j'en ai pas. Salut.}
+{126}{}{Oh, un Abri. Je suis sûr que c'est super intéressant. Tu peux probablement en parler à mes supérieurs. Je suis occupé là.}
+{127}{}{C'est très dangereux ici. Des gros monstres féroces ont pris possession des lieux. On essaie de sauver ce qu'on peut avant qu'ils reviennent.}
+{128}{}{Pas partir ! Pas partir !}
+{129}{}{Euh, oh.}
 {130}{}{Buh-bye.}
-{131}{}{Okay. Suit yourself. When they get back here, you can be their dinner.}
-{132}{}{Me kill! Me kill!}
+{131}{}{Ok. Comme tu veux. Quand ils reviendront tu pourras leur servir de dîner.}
+{132}{}{Moi tuer ! Moi tuer !}
 {133}{}{Buh-bye.}
-{134}{}{You can try. I'm not sure you will get very far, though. Good luck to you.}
-{135}{}{Uh-oh is right. They are nasty. We are trying to make them understand that people and monsters can live together.}
-{136}{}{Oh. Okay. Buh-bye.}
-{137}{}{Just tell me who you are before I blow off your head.}
-{138}{}{I'm a Follower. Where did everyone go?}
-{139}{}{I'm one of you. Now let me pass.}
-{140}{}{I am }
-{141}{}{. Remember it!}
-{142}{}{I don't have to.}
-{143}{}{DIE!!!}
-{144}{}{Come with me. I'll show you where everyone else went.}
-{145}{}{So, you are a Follower?}
-{146}{}{Of course! Who else would I be?}
-{147}{}{No, I am a Children member.}
-{148}{}{Silly me, I mistook you for someone else. Come with me; I'll show you the way.}
-{149}{}{I don't remember you. What's the name?}
-{150}{}{I'm }
-{151}{}{. How could you forget about me?}
+{134}{}{Tu peux essayer. Mais je ne pense pas que tu t'en sortira. Allez bonne chance à toi.}
+{135}{}{Oh-oh oui tu peux le dire. Ils sont vraiment féroces. Nous essayons de leur prouver que les humains et les monstres peuvent vivre ensemble.}
+{136}{}{Oh. Ok. Euh-salut.}
+{137}{}{Dis-moi qui tu es avant que je t'éclate la tête...}
+{138}{}{Je suis un Disciple de l'Apocalypse. Où sont-ils tous passé ?}
+{139}{}{Je suis des vôtres. Maintenant laisse-moi passer.}
+{140}{}{Je m'appelle }
+{141}{}{. Souviens-t'en !}
+{142}{}{Je suis pas obligé de te le dire.}
+{143}{}{MEURS !!!}
+{144}{}{Viens avec moi. Je vais te montrer où les autres sont allés.}
+{145}{}{Donc, t'es un Disciple ?}
+{146}{}{Bien sûr ! A quoi tu t'attendais ?}
+{147}{}{Non, je suis membre des Enfants de l'Apocalypse.}
+{148}{}{Mince j'suis stupide, je t'ai confondu avec quelqu'un d'autre. Viens avec moi ; je vais te montrer le chemin.}
+{149}{}{Je me souviens pas de toi. Quel est ton nom ?}
+{150}{}{Je m'appelle }
+{151}{}{. Comment as-tu pu m'oublier ?}
 {152}{}{None of your business.}
-{153}{}{I'm your worst nightmare.}
-{154}{}{I'm sorry, I still don't remember you. Maybe someone else will remember who you are.}
-{155}{}{Yes, I remember you. We were told to look for you. Vengeance shall be mine!}
-{156}{}{You are in my patrol area. It is my business. Talk or die!}
-{157}{}{Fine. I'm }
-{158}{}{. Ring a bell yet?}
-{159}{}{Hmmm. I think... KILL!}
-{160}{}{Let me think.}
-{161}{}{Now let me see. It's }
-{162}{}{. Right?}
-{163}{}{Yes, you moron.}
-{164}{}{Yes.}
-{165}{}{No, stupid. It's Deathstalker!}
-{166}{}{Good. Just making sure, for your headstone.}
-{167}{}{Then I don't have to let you live. Good night.}
-{168}{}{And who are you?}
-{169}{}{I'm a Follower. Where did everyone go?}
-{170}{}{I'm one of you. Now let me pass.}
-{171}{}{I am }
-{172}{}{. Remember it!}
-{173}{}{I don't have to!}
-{174}{}{DIE!!!}
-{175}{}{Deathslayer, eh? You look more like worm bait to me.}
-{176}{}{If you are a friend, then prove it.}
-{177}{}{I helped kill the Followers.}
-{178}{}{I helped kill the Rippers.}
-{179}{}{I helped kill those mutant things.}
-{180}{}{I helped kill the Children.}
-{181}{}{Really? I think my boss would like to hear more about that. Go look for Orfeo. He'll be able to reward you for your help.}
-{182}{}{For someone who comes in peace, you do an awful lot of killing. But those Rippers were causing quite a bit of trouble. Orfeo can reward you for your aid.}
-{183}{}{You kill harmless creatures, which are the end result of man's destructive nature, and then claim peace?}
-{184}{}{I'm sorry. They were ugly, so I shot them.}
-{185}{}{They were hurting people all over the place.}
-{186}{}{Now I'm going to kill you.}
-{187}{}{I still let you live. I think I better take you in to have you cleansed of these thoughts of destruction.}
-{188}{}{Funny. I thought I saw some of them out in the street trying to clean up the gangs.}
-{189}{}{They attacked the Blades?}
-{190}{}{What happened to Adytum?}
-{191}{}{Die, scum!}
-{192}{}{Those losers are now no more.}
-{193}{}{That's a good thing. Well, goodbye.}
-{194}{}{And now you won't be either.}
-{195}{}{That's where I know you from. It's payback time!}
-{196}{}{It's you again. I thought you would have learned by now. Too little, too late, I guess.}
+{153}{}{Je suis ton pire cauchemar.}
+{154}{}{J'suis désolé, je vois toujours pas qui tu es. Peut-être que quelqu'un d'autre s'en souviendrait...}
+{155}{}{Oui, je me souviens de toi. On nous a dit de te chercher. La vengeance est à moi !}
+{156}{}{Tu es dans ma zone de patrouille. Ca me concerne. Parle ou meurs !}
+{157}{}{Bien. J'suis }
+{158}{}{. Ca te dis quelque chose ?}
+{159}{}{Hmmm. Je pense... TUER !}
+{160}{}{Laisse-moi refléchir.}
+{161}{}{Maintenant laisse-moi voir... C'est }
+{162}{}{. N'est-pas ?}
+{163}{}{Oui, imbécile !}
+{164}{}{Oui.}
+{165}{}{Non imbécile. C'est "Grand Balaise" !}
+{166}{}{Bien. C'était pour être sûr, pour ta pierre tombale.}
+{167}{}{Alors, je suis pas obligé de te laisser en vie. Bonne nuit.}
+{168}{}{Et qui es-tu ?}
+{169}{}{Je suis un Disciple de l'Apocalypse. Où sont-ils tous passé ?}
+{170}{}{Je suis des vôtres. Maintenant laisse-moi passer.}
+{171}{}{Je m'appelle }
+{172}{}{. Souviens-t'en !}
+{173}{}{Je suis pas obligé !}
+{174}{}{MEURS !!!}
+{175}{}{Grand Balaise, hein ? Tu m'as plus l'air d'un asticot.}
+{176}{}{Si t'es un ami, prouve-le.}
+{177}{}{J'ai aidé à combattre les Disciples de l'Apocalypse.}
+{178}{}{J'ai aidé à combattre les Ecorcheurs.}
+{179}{}{J'ai aidé à combattre ces trucs mutants.}
+{180}{}{J'ai aidé à combattre les Enfants de la Cathédrale.}
+{181}{}{Vraiment ? Je pense que mon boss aimerait en savoir plus à ce sujet. Va voir Orfeo. Il pourra te récompenser pour ton aide.}
+{182}{}{Pour quelqu'un qui vient en paix, tu as fait beaucoup de morts. Mais ces Ecorcheurs nous ont causé beaucoup de problèmes. Orfeo pourrait te récompenser pour ton aide.}
+{183}{}{Tu tues des créatures inofensives, qui sont le résultat final de la nature destructrice de l'homme, et tu prônes la paix ?}
+{184}{}{J'suis désolé. Ils étaient moches, alors je les ai tué.}
+{185}{}{Ils faisaient du mal à tout le monde.}
+{186}{}{Maintenant je vais te tuer.}
+{187}{}{Je te laisse vivre. Je préfère te faire entrer pour que tu puisses rejeter ses pensées de destruction.}
+{188}{}{Marrant. Je pensais en avoir vu essayant de nettoyer les gangs dans la rue.}
+{189}{}{Ils ont attaqué les Ecorcheurs ?}
+{190}{}{Que s'est-il passé au Sanctuaire ?}
+{191}{}{Meurs, sac à merde !}
+{192}{}{Ces crétins ne font plus parti des vivants.}
+{193}{}{Tant mieux. Allez, salut.}
+{194}{}{Et bien toi non plus, dans un instant.}
+{195}{}{C'est bien de là que je te connais. C'est l'heure de la vengeance !}
+{196}{}{C'est encore toi. Je pensais que tu avais compris la dernière fois. On dirait que tu comprends pas.}

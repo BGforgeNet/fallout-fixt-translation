@@ -1,10 +1,10 @@
-{100}{}{This computer contains a great amount of information preserved from before the Great War.}
-{101}{}{You use the Vault computer teaching system.}
-{102}{}{You spend 1 hour on the Vault computer teaching system but learn nothing new of importance. The outside world is your teacher now.}
-{103}{}{You spend 6 hours researching any topic that seems important. You feel you have gained vital knowledge that will help you in your travels outside the Vault.}
-{104}{}{You spend 6 hours on the interwebs doing nothing of importance.}
-{105}{}{You fiddle with the computer a bit, but it will take some scientific skill to actually get anything useful out of it.}
-{106}{}{You spend }
-{107}{}{ hours on the Vault computer teaching system but learn nothing new of importance. The outside world is your teacher now.}
-{108}{}{ hours on the interwebs doing nothing of importance. It was fun but leaves you feeling empty inside.}
-{109}{}{ hours on the interwebs searching for pornography and videos of cats.}
+{100}{}{Cet ordinateur contient des informations datant d'avant la Grande Guerre.}
+{101}{}{Tu utilises le système d'enseignement informatisé de l'Abri.}
+{102}{}{Tu passes 1 heure sur le système d'enseignement informatisé de l'Abri, mais tu n'apprends rien d'important. Tu dois maintenant tirer tes enseignements du monde extérieur.}
+{103}{}{Tu passes 6 heures à rechercher des sujets importants. Tu sens que tu as appris des choses vitales qui t'aideront dehors.}
+{104}{}{Tu passes 6 heures sur l'Interweb à faire des choses sans importance.}
+{105}{}{Tu tripotes l'ordinateur, mais pour tirer quelque chose d'utile de ce terminal, des compétences scientifiques sont nécessaires.}
+{106}{}{Tu passes }
+{107}{}{ heures sur le système d'enseignement informatisé de l'Abri, mais tu n'apprends rien d'important. Tu dois maintenant tirer tes enseignements du monde extérieur.}
+{108}{}{ heures sur l'Interweb à faire des choses sans importance. C'était sympa mais tu te sens vide à l'intérieur.}
+{109}{}{ heures sur l'Interweb à chercher du porno et des vidéos de chats.}

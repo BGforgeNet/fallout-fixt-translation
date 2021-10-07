@@ -1,2 +1,2 @@
-{100}{}{No one go in room.}
-{101}{}{You see a mutant with a phenominally small cranium.}
+{100}{}{Personne entrer dans salle.}
+{101}{}{Voici un mutant au crâne extraordinairement petit.}

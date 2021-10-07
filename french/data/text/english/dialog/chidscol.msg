@@ -1,21 +1,21 @@
-{100}{}{You see: Scholar Theslin, of the Children of the Cathedral.}
-{101}{}{You see: Scholar Slater, of the Children of the Cathedral.}
-{102}{}{You see: Scholar Aunanut, of the Children of the Cathedral.}
-{103}{}{You see: Scholar Eikenkoff, of the Children of the Cathedral.}
-{104}{}{You see: Scholar Spikavar, of the Children of the Cathedral.}
-{105}{}{You see: Scholar Varalone, of the Children of the Cathedral.}
-{106}{}{You see: Scholar Quinonos, of the Children of the Cathedral.}
-{107}{}{You see: Scholar Ziegliff, of the Children of the Cathedral.}
-{108}{}{You see: Scholar Jones, of the Children of the Cathedral.}
-{109}{}{You see: Scholar Smithe, of the Children of the Cathedral.}
-{110}{}{Somewhere around here are the plans of the Followers.}
-{111}{}{I am certain that the Followers had a list of all their allies.}
-{112}{}{Those fools should have known better than to mess with our god!}
-{113}{}{Be gone, lest you end up like those foolish Followers.}
-{114}{}{None shall hinder the cleansing of the wastelands.}
-{115}{}{We offered them peace. They sought war.}
-{116}{}{Where did that foolish ghoul come from?}
-{117}{}{Somewhere there has to be a list of all the Followers.}
-{118}{}{Unfortunately, we can only search this place during the day.}
-{119}{}{We must be wary of the Nightkin, for they search during the darkened hours.}
-{120}{}{May you live in interesting times!}
+{100}{}{Voici le savant Theslin des Enfants de la Cathédrale.}
+{101}{}{Voici le savant Slater des Enfants de la Cathédrale.}
+{102}{}{Voici le savant Aunanut des Enfants de la Cathédrale.}
+{103}{}{Voici le savant Eikenkoff des Enfants de la Cathédrale.}
+{104}{}{Voici le savant Spikavar des Enfants de la Cathédrale.}
+{105}{}{Voici le savant Varalone des Enfants de la Cathédrale.}
+{106}{}{Voici le savant Quinonos des Enfants de la Cathédrale.}
+{107}{}{Voici le savant Ziegliff des Enfants de la Cathédrale.}
+{108}{}{Voici le savant Jones des Enfants de la Cathédrale.}
+{109}{}{Voici le savant Smithe des Enfants de la Cathédrale.}
+{110}{}{Les plans des Disciples se trouvent quelque part par là.}
+{111}{}{Je pense que les Disciples avaient une liste de tous leurs alliés.}
+{112}{}{Ces imbéciles auraient dû savoir qu'il ne fallait pas jouer avec notre dieu !}
+{113}{}{Va-t-en, à moins que tu ne veuilles finir comme ces stupides Disciples.}
+{114}{}{Personne ne doit gêner le nettoyage du désert.}
+{115}{}{Nous leur avons proposé la paix. Ils ont préféré la guerre.}
+{116}{}{D'où vient ce Goule ?}
+{117}{}{La liste de tous les Disciples doit être cachée quelque part.}
+{118}{}{Malheureusement, nous ne pouvons pas fouiller cet endroit de nuit.}
+{119}{}{Nous devons nous méfier des Ténébreux car ils fouillent pendant la nuit.}
+{120}{}{Puisses-tu vivre en des temps intéressants !}

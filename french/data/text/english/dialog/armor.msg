@@ -1,9 +1,9 @@
-{100}{}{You see: Damaged Power Armor.}
-{101}{}{The Power Armor is damaged. You cannot use this until it is repaired.}
-{102}{}{It seems to be missing a part that you can't find.}
-{103}{}{It is obvious that you do not yet have the skill to repair this.}
-{104}{}{You repair the armor.}
-{105}{}{That does nothing.}
-{106}{}{You fail to repair the armor.}
-{107}{}{You earn }
-{108}{}{ experience for repairing the Power Armor.}
+{100}{}{Tu vois une SuperArmure endommagée.}
+{101}{}{Impossible de l'utiliser sans la réparer.}
+{102}{}{Une pièce impossible à trouver paraît manquer.}
+{103}{}{Il est clair que tu n'as pas encore les compétences suffisantes pour la réparer.}
+{104}{}{A toi de réparer l'armure.}
+{105}{}{Rien ne se passe.}
+{106}{}{Tu n'as pas réussi à réparer l'armure.}
+{107}{}{Tu gagnes }
+{108}{}{ points d'expérience pour avoir réparé la SuperArmure.}

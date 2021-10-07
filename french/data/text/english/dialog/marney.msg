@@ -1,26 +1,26 @@
-{100}{}{You see: Dr. Solone, M.D.}
-{101}{}{You see: Nurse Marney.}
-{102}{}{You see a doctor.}
-{103}{}{You see a nurse.}
-{104}{}{Welcome. How might I help you today?}
+{100}{}{Tu vois le Dr Solone, M.D.}
+{101}{}{Tu vois la Nurse Marney.}
+{102}{}{Tu vois un médecin.}
+{103}{}{Tu vois une infirmière.}
+{104}{}{Bienvenue. Comment pourrais-je vous aider aujourd'hui ?}
 {105}{}{Hurrgh.}
-{106}{}{I'm hurt. Can you fix me up?}
-{107}{}{Can you teach me about medicine?}
-{108}{}{Yes, I see that you are suffering from some damage. This may take some time. Would you like me to try to mend your wounds?}
-{109}{}{Uh huh.}
+{106}{}{je suis blessé. Pouvez-vous me soigner ?}
+{107}{}{Pouvez-vous m'apprendre des choses en médecine ?}
+{108}{}{Oui, je vois que vous souffrez de quelques dommages. Les soins vont prendre un certain temps. Voulez-vous que j'essaie de soigner vos blessures ?}
+{109}{}{Euh euh.}
 {110}{}{Nuh uh.}
-{111}{}{Yes, please.}
-{112}{}{No, thank you.}
-{113}{}{There you go. That should have you all set. Please be more careful out there.}
-{114}{}{You're good at that. Can you teach me about trauma care?}
-{115}{}{Okay. Thank you.}
-{116}{}{I can teach you a little. But it will take several hours. Are you willing to stay?}
-{117}{}{Yes.}
-{118}{}{Sorry, too busy.}
-{119}{}{You are a very good student. I hope you remain on our side. Goodbye.}
-{120}{}{As you wish. Good luck out there.}
-{121}{}{I can teach you a little, but not much. It will take some time. Are you willing to stay?}
-{122}{}{Yes.}
-{123}{}{I'm sorry, but I lack extra time.}
-{124}{}{You are an excellent student. Good luck to you.}
-{125}{}{Nothing right now. Thanks though.}
+{111}{}{Oui, s'il vous plaît.}
+{112}{}{Non, merci.}
+{113}{}{Et voilà. Vous devriez être entièrement rétabli. Soyez plus prudent dehors s'il vous plaît.}
+{114}{}{Vous êtes bon pour ça. Pouvez-vous m'apprendre sur les soins de traumatisme ?}
+{115}{}{Ok. Merci.}
+{116}{}{Je peux vous enseigner un peu. Mais il faudra plusieurs heures. Etes-vous prêt à rester ?}
+{117}{}{Oui.}
+{118}{}{Désolé, je suis trop occupé.}
+{119}{}{Vous êtes un très bon élève. J'espère que vous resterez à nos côtés. Bonne journée.}
+{120}{}{Comme vous voudrez. Bonne chance là-bas.}
+{121}{}{Je peux vous enseigner un peu, mais pas beaucoup. Il faudra un certain temps. Etes-vous prêt à rester ?}
+{122}{}{Oui.}
+{123}{}{Je suis désolé, mais je n'ai pas assez de temps.}
+{124}{}{Vous êtes un excellent étudiant. Bonne chance à vous.}
+{125}{}{Rien de plus pour le moment. Merci beaucoup.}

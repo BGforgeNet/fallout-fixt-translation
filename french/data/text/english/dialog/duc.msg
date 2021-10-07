@@ -1,33 +1,33 @@
-{100}{}{You see a wandering merchant of Asian descent.}
-{101}{}{You see: Duc, the wandering merchant.}
-{102}{}{Well hello, wanderer. My name's Duc, and I'm headed into Shady Sands to do some trading. Perhaps I can interest you in some goods?}
-{103}{}{What do you have for sale?}
-{104}{}{Do you go to Shady Sands often?}
-{105}{}{Erf!}
-{106}{}{Let me show you.}
-{107}{}{Yes, Shady Sands is part of my normal trade route. You can travel there with us for safety if you like.}
-{108}{}{Sure, sounds good.}
-{109}{}{No thanks.}
-{110}{}{Hmph! I didn't realize you're an asshole. Go take your bullshit somewhere else.}
-{111}{}{It should only take a day or so. Let's go!}
+{100}{}{Voici un marchand ambulant d'origine asiatique.}
+{101}{}{Voici Duc, le marchand ambulant.}
+{102}{}{Salut, nomade. Je m'appelle Duc, je m'en vais faire du commerce aux Sables Ombragés. J'ai peut-être des marchandises qui t'intéressent ?}
+{103}{}{Qu'est-ce que t'as à vendre ?}
+{104}{}{Tu vas souvent aux Sables Ombragés ?}
+{105}{}{Arf !}
+{106}{}{Je vais te montrer.}
+{107}{}{Oui, les Sables Ombragés font partie de ma tournée. Tu seras en sécurité si tu voyages avec nous.}
+{108}{}{Ouais, ça m'a l'air intéressant.}
+{109}{}{Non, merci.}
+{110}{}{Hmm, encore un crétin. Va voir ailleurs si j'y suis ok ?}
+{111}{}{Ca devrait prendre qu'un jour ou deux. Allons-y !}
 {112}{}{SHADYW.MAP}
-{113}{}{Not many people brave the wastes alone. Who are you?}
+{113}{}{Y'a pas grand monde qui s'aventure seul dans le désert. Qui es-tu ?}
 {114}{}{None of your business.}
-{115}{}{I'm }
+{115}{}{Je m'appelle }
 {116}{}{.}
-{117}{}{Me }
-{118}{}{Hello again! What can I do for you?}
-{119}{}{May I join your group to Shady Sands?}
-{120}{}{What do you have for sale?}
-{121}{}{Nothing, thanks.}
-{122}{}{What do you want?}
-{123}{}{Nothing, sorry.}
-{124}{}{What do you have for sale?}
-{125}{}{Uh?}
-{126}{}{You should be careful if you're traveling alone. Some people went missing from Shady Sands recently.}
-{127}{}{Hey, I heard about how you saved that woman from Shady Sands. Good work.}
-{128}{}{Oh, sorry. I didn't realize you're an idiot.}
-{129}{}{Thanks, see you around.}
-{130}{}{Rumph!}
-{131}{}{Erf!}
+{117}{}{Moi }
+{118}{}{Rebonjour ! Que puis-je pour toi ?}
+{119}{}{Je peux vous accompagner jusqu'aux Sables Ombragés ?}
+{120}{}{Qu'est-ce que t'as à vendre ?}
+{121}{}{Rien, merci.}
+{122}{}{Qu'est-ce que tu veux ?}
+{123}{}{Rien, excuse-moi.}
+{124}{}{Qu'est-ce que t'as à vendre ?}
+{125}{}{Ah ?}
+{126}{}{Méfie-toi si tu voyages en solitaire. Récemment, y'a eu des disparitions aux Sables Ombragés.}
+{127}{}{Hé, j'ai entendu dire comment t'avais sauvé cette femme des Sables Ombragés. Du beau boulot !}
+{128}{}{Oh, pardon. Je savais pas que t'étais aussi stupide.}
+{129}{}{Merci, à la prochaine !}
+{130}{}{Rumph !}
+{131}{}{Arf !}
 {132}{}{!}

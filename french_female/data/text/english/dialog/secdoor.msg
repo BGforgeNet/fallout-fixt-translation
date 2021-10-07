@@ -1,6 +1,6 @@
-{100}{}{The security door is locked.}
-{101}{}{The security door is not locked.}
-{102}{}{You manage to unlock the security door.}
-{103}{}{You fail to unlock the security door.}
-{104}{}{You manage to trigger the passive alert on the door, clamping down the electronic lock. Good job, chromo.}
-{105}{}{You earn 25 experience for picking the lock.}
+{100}{}{La porte de sécurité est verrouillée.}
+{101}{}{La porte de sécurité n'est pas verrouillée.}
+{102}{}{Tu réussis à déverrouiller la porte de sécurité.}
+{103}{}{Tu ne réussis pas à déverrouiller la porte de sécurité.}
+{104}{}{Tu réussis à déclencher l'alarme passive de la porte, ce qui débloque la fermeture électronique. Bon travail, chromo.}
+{105}{}{Tu reçois}

@@ -1,70 +1,70 @@
-{100}{}{You see a Regulator, one of the guards of Adytum.}
+{100}{}{Voici un Régulateur, l'un des gardes du Sanctuaire.}
 {101}{}{}
-{102}{}{Keep your weapons under control while you're here.}
-{103}{}{Welcome to Adytum, stranger. Watch yourself, we'll be watching you.}
-{104}{}{I'd like to enter.}
-{105}{}{Can I ask you a few questions?}
-{106}{}{Uhhh... }
-{107}{}{Zimmerman might have a use for you. Come inside, but remember, we're watching.}
-{108}{}{Welcome back! You're welcome here any time.}
-{109}{}{Don't you have a job to do? Come back here when you've dealt with the it.}
-{110}{}{Go away!}
-{111}{}{What do you want now?}
-{112}{}{I'd like to enter.}
+{102}{}{Tant que tu seras dans le coin, évite de jouer avec tes armes.}
+{103}{}{Bienvenue au Sanctuaire. Mais attention, nous te surveillerons.}
+{104}{}{Je voudrais entrer.}
+{105}{}{Puis-je te poser quelques questions ?}
+{106}{}{Euhhh...}
+{107}{}{Zimmerman a peut-être quelque chose pour toi. Entre, mais n'oublie pas que nous te surveillons.}
+{108}{}{Tu es de retour ! Tes visites sont toujours les bienvenues.}
+{109}{}{N'as-tu pas un travail à faire ? Reviens ici lorsque ce sera fait.}
+{110}{}{Va-t'en !}
+{111}{}{Que veux-tu cette fois ?}
+{112}{}{Je voudrais entrer.}
 {113}{}{}
-{114}{}{Nothing. Never mind.}
+{114}{}{Rien. Peu importe.}
 {115}{}{}
-{116}{}{No.}
-{117}{}{What do you want to know about?}
-{118}{}{What do you do here?}
-{119}{}{Can you tell me more about L.A. Boneyard?}
-{120}{}{How can I get inside?}
-{121}{}{What do you know about the Children of the Cathedral and the Followers of the Apocalypse?}
-{122}{}{Nothing, thanks.}
-{123}{}{I'm one of the Regulators. It's our job to keep the peace in Adytum, and to protect the town. Our boss, Caleb, could tell you more.}
-{124}{}{East of us are the Followers. They are a bunch of peace-nuts. East are the Blades, a bunch of skags if you ask me. A ways south of here is the Cathedral, where the Children have their religious center.}
-{125}{}{Sorry, but we have to be careful of strangers here. Too dangerous. Maybe you can do some work for Zimmerman.}
-{126}{}{Finish your job.}
-{127}{}{You're welcome here any time, of course!}
-{128}{}{They're both groups of nuts. The Followers want everyone to be peaceful and happy. They don't realize that the world is too harsh for that.}
-{129}{}{The Children have some sort of god they worship in their Cathedral to the south. They have a hospital, but they're a little too weird to be on the level.}
-{130}{}{You were warned to keep your weapons under control!}
-{131}{}{You'd better put your weapons away while you're here.}
-{132}{}{A thief, eh? Let me show you what we do to your kind here!}
-{133}{}{[Done]}
-{134}{}{Watch yourself.}
-{135}{}{We're watching you.}
-{136}{}{Stay in line.}
-{137}{}{What 'da looking at.}
-{138}{}{What 'da want.}
-{139}{}{I guess this means we're done with you, old man.}
+{116}{}{Non.}
+{117}{}{Que veux-tu savoir ?}
+{118}{}{Que fais-tu ici ?}
+{119}{}{Peux-tu m'en dire plus sur le Cimetière de L.A. ?}
+{120}{}{Comment puis-je entrer ?}
+{121}{}{Que sais-tu sur les Enfants de la Cathédrale et sur les Disciples de l'Apocalypse ?}
+{122}{}{Rien, merci.}
+{123}{}{Je suis un Régulateur. Notre travail consiste à maintenir la paix au Sanctuaire et à protéger la ville. Notre chef, Caleb, pourra peut-être t'en dire plus.}
+{124}{}{Les Disciples vivent à l'Est d'ici. C'est une bande de pacifistes un peu fous. Plus à l'Est, il y a les Ecorcheurs ; une bande de pauv'types si tu veux mon avis. Au SUd se trouve la Cathédrale, le centre religieux des Enfants.}
+{125}{}{Désolé mais nous devons nous méfier des étrangers. C'est trop dangereux. Peut-être pourrais-tu travailler pour Zimmerman ?}
+{126}{}{Termine ton travail.}
+{127}{}{Tes visites sont toujours les bienvenues !}
+{128}{}{Deux bandes de cinglés. Les Disciples prêchent pour la paix et le bonheur. Ils ne se rendent pas compte que le monde est bien trop dur pour ça.}
+{129}{}{Les Enfants vénèrent une sorte de dieu dans leur Cathédrale, au Sud. Ils ont un hôpital mais ils sont très étranges.}
+{130}{}{On t'avait dit de ne pas utiliser tes armes !}
+{131}{}{Tant que tu seras ici, je te conseille de laisser tes armes de côté.}
+{132}{}{On n'aime pas les voleurs ici ! Tu vas voir ce qu'on réserve aux gens de ton espèce !}
+{133}{}{[Terminé]}
+{134}{}{Attention à toi.}
+{135}{}{Nous te surveillons.}
+{136}{}{Tiens-toi à carreau.}
+{137}{}{Qu'est-ce que tu regardes ?}
+{138}{}{Qu'est-ce que tu veux ?}
+{139}{}{Je suppose que cela signifie qu'on en a fini avec toi.}
 {1000}{}{Adytum}
 {1001}{}{Followers}
 {1002}{}{Cathedral}
-{1004}{}{Blades}
-{1005}{}{Runners}
-{1006}{}{Hub}
+{1004}{}{Ecorcheurs}
+{1005}{}{Contrebandiers}
+{1006}{}{Centre}
 {1007}{}{Dépôtville}
-{1008}{}{Chip}
-{1009}{}{Store}
+{1008}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
+{1009}{}{Magasin}
 {1010}{}{Zimmerman}
 {1011}{}{Nécropolis}
-{1012}{}{Glow}
-{1013}{}{Regulators}
-{1014}{}{Scavs}
-{1015}{}{Boneyard}
-{1100}{}{That's here.}
-{1101}{}{They live east of here.}
-{1102}{}{It's a ways south of us.}
-{1104}{}{They're on the north of here.}
-{1105}{}{They're to the east of the Blades, and then north of the Deathclaws.}
-{1106}{}{We trade with them.}
-{1107}{}{Isn't that a city north of here?}
-{1108}{}{A what?}
-{1109}{}{Tine's store is underground near the gate.}
-{1110}{}{He's the mayor.}
-{1111}{}{I hear it's out east.}
-{1112}{}{That's a myth.}
-{1113}{}{We protect Adytum.}
-{1114}{}{They go outside to get things.}
-{1115}{}{This is L.A. Boneyard.}
+{1012}{}{Rayon}
+{1013}{}{Régulateurs}
+{1014}{}{Fouineurs}
+{1015}{}{Cimetière de L.A.}
+{1100}{}{C'est ici.}
+{1101}{}{Ils vivent à l'Est d'ici.}
+{1102}{}{C'est au Sud d'ici.}
+{1104}{}{Ils vivent au Nord d'ici.}
+{1105}{}{Ils se trouvent à l'Est des Ecorcheurs et au Nord des Griffemorts.}
+{1106}{}{Nous faisons du commerce avec eux.}
+{1107}{}{N'est-ce pas une ville située au Nord d'ici ?}
+{1108}{}{Quoi ?}
+{1109}{}{Le magasin de Tine est souterrain. Il se trouve près de la porte.}
+{1110}{}{C'est le maire.}
+{1111}{}{J'ai entendu dire que ça se trouvait à l'Est.}
+{1112}{}{C'est un mythe.}
+{1113}{}{Nous protégeons le Sanctuaire.}
+{1114}{}{Ils sortent pour récupérer des trucs.}
+{1115}{}{C'est ici le Cimetière de L.A.}

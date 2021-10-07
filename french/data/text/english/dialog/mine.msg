@@ -1,2 +1,2 @@
-{100}{}{You spot a cleverly-laid land mine.}
-{101}{}{You step on a land mine. BOOM!}
+{100}{}{Tu repères une mine intelligemment posée.}
+{101}{}{Tu marches sur une mine. BOOM !}

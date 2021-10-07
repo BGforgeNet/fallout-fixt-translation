@@ -1,125 +1,125 @@
-{100}{}{You see a kind-looking woman in a doctor's uniform.}
-{101}{}{You see: Lorri, the Head Doctor of the Brotherhood's medical facilities.}
-{102}{}{Hello, how may I help you?}
-{103}{}{I'm injured.}
-{104}{}{I'm irradiated.}
-{105}{}{Do you do operations?}
-{106}{}{Tell me about the operations again.}
-{107}{}{You fix?}
-{108}{}{Are you injured? Let's see...}
-{109}{}{That was the problem. There you go. Be more careful out there.}
-{110}{}{Sorry, I can't help you if you won't tell me what's wrong.}
-{111}{}{ You seem fine.}
-{112}{}{There you are. I hope you feel better.}
-{113}{}{There you go, but stop getting into so many fights!}
-{114}{}{That should do, all fixed up.}
-{115}{}{Good as new.}
-{116}{}{All better!}
-{117}{}{Radiation is very dangerous; you should be more careful.}
-{118}{}{I don't have the time for games.}
-{119}{}{Of course, but it's very costly and time consuming.}
-{120}{}{Details?}
-{121}{}{Okay, never mind.}
-{122}{}{Well, I can help make you stronger, more perceptive, increase your endurance, help improve your learning process, and increase your dexterity. I have also studied plastic surgery procedures. Which would you like more information on?}
-{123}{}{Charisma.}
-{124}{}{Who are you?}
-{125}{}{My name is Lorri. I lead the medical staff and administer all major surgeries and medical procedures. I am effectively the only Doctor here, thus I prefer to keep things on a first-name basis. And you are?}
-{126}{}{Okay, which operation would you like to talk about?}
-{127}{}{Strength.}
-{128}{}{Perception.}
-{129}{}{Endurance.}
-{130}{}{Intelligence.}
-{131}{}{Agility.}
-{132}{}{Never mind.}
-{133}{}{That's easy to do, but there's a long recovery time. It only costs }
-{134}{}{I'm }
-{135}{}{I'll do it!}
-{136}{}{I'll pass.}
-{137}{}{Now that's a difficult operation. It costs }
-{138}{}{It's a pleasure to meet you, Brother }
-{139}{}{This one's not that difficult. It takes about a week and will cost }
-{140}{}{I've been poisoned!}
-{141}{}{This is the most complex and dangerous! It'll take 3 weeks and costs }
-{142}{}{ Now, what can I do for you?}
-{143}{}{This isn't that tough of an operation but it is very costly and time consuming. It will take 3 weeks and cost }
+{100}{}{Tu vois une femme séduisante en blouse de docteur.}
+{101}{}{Voici Lorri, médecin en chef du service médical de la Confrérie.}
+{102}{}{Bonjour, en quoi puis-je t'aider ?}
+{103}{}{Je suis blessé.}
+{104}{}{J'ai subi une irradiation.}
+{105}{}{Pratiques-tu des opérations ?}
+{106}{}{Parle-moi encore des opérations.}
+{107}{}{Tu peux m'arranger ?}
+{108}{}{Tu es blessé ? Laisse-moi regarder ça..}
+{109}{}{C'était le problème, c'est arrangé. Sois plus prudent à l'avenir.}
+{110}{}{Je ne peux pas t'aider si tu ne me dis pas quel est le problème, désolé.}
+{111}{}{Tu sembles en bonne santé.}
+{112}{}{Et voilà ! j'espère que tu te sens mieux.}
+{113}{}{J'ai fini, mais essaie d'éviter les combats à l'avenir.}
+{114}{}{Ca devrait le faire !}
+{115}{}{Comme neuf !}
+{116}{}{Tout va pour le mieux !}
+{117}{}{Les radiations sont très dangereuses ; tu devrais faire plus attention.}
+{118}{}{J'ai pas de temps à perdre.}
+{119}{}{Bien sûr, mais c'est très cher et demande beaucoup de temps.}
+{120}{}{Donne-moi les détails.}
+{121}{}{Ok, tant pis.}
+{122}{}{Eh bien, je peux te rendre plus fort, développer ta perception et ton agilité, augmenter ton endurance ou encore améliorer tes facultés mentales. J'ai également étudié la chirurgie esthétique. Sur quoi en particulier aimerais-tu plus d' informations ?}
+{123}{}{Le charisme.}
+{124}{}{Qui es-tu ?}
+{125}{}{Je m'appelle Lorri, je dirige l'équipe médicale et supervise toutes les interventions chirurgicales importantes et procédures médicales. En fait je suis le seul docteur ici, à vrai dire. Et tu es ?}
+{126}{}{Très bien, de quelle opération aimerais-tu discuter ?}
+{127}{}{La force.}
+{128}{}{La perception.}
+{129}{}{L'endurance.}
+{130}{}{L'intelligence.}
+{131}{}{L'agilité.}
+{132}{}{Qu'importe.}
+{133}{}{C'est facilement réalisable mais le temps de récupération est long. Ca coute seulement }
+{134}{}{Je m'appelle }
+{135}{}{Je le ferai !}
+{136}{}{Je passe mon tour.}
+{137}{}{C'est une opération délicate qui coute }
+{138}{}{C'est un plaisir de faire ta connaissance, Frère }
+{139}{}{Celle-ci n'est pas très difficile et prends une semaine environ. Ca coûtera }
+{140}{}{Je souffre d'un empoisonnement !}
+{141}{}{C'est la plus compliquée et dangereuse ! Ca prendra 3 semaines et coûte }
+{142}{}{Que puis-je pour toi ?}
+{143}{}{Ce n'est pas l'opération la plus pénible, mais elle est très chère et demande beaucoup de temps. Tu en auras pour 3 semaines et }
 {144}{}{[Continue]}
-{145}{}{This operation is moderately difficult with a long recovery time. It will cost }
-{146}{}{Okay, there you go. I hope the foam didn't irritate your skin.}
-{147}{}{I'm sorry, but I can't help you if you don't have the money.}
-{148}{}{I'm sorry, but you are an outsider. After you're in the Brotherhood for ten years or so I'll be able to do the operation for free, but we have expenses and you're not a regular working member of the Brotherhood yet.}
-{149}{}{Let me know when you have the necessary funds for this operation.}
-{150}{}{I cannot accurately assess your physical strength while you are wearing Power Armor. Please remove it and speak with me again.}
-{151}{}{I'm }
+{145}{}{Cette opération est moyennement dure mais entraîne un long rétablissement. Ca fera }
+{146}{}{Ok, c'est parti. J'espère que tu n'es pas allergique à la mousse.}
+{147}{}{Je ne peux rien faire pour toi si tu n'as pas l'argent, désolé.}
+{148}{}{Tu es un étranger, désolé. Avec dix ans d'ancienneté au sein de la Confrérie je pourrais envisager de t’opérer gratuitement, mais nous avons des frais et tu n'es même pas un membre à part entière.}
+{149}{}{Fais-moi savoir quand tu auras trouvé l'argent pour cette opération.}
+{150}{}{Je ne peux pas évaluer avec précision ta force physique tant que tu portes cette armure. Retire-la et parle-moi à nouveau}
+{151}{}{Je m'appelle }
 {152}{}{.}
-{153}{}{Did you want to ask about another one?}
-{154}{}{Okay, here goes nothing... Just kidding. We can start right away. (You breathe in the anesthetic and slowly slip away)}
-{155}{}{Tummy feel sick!}
-{156}{}{So, how are we feeling? (You can already tell the difference) You're quite a talkative person in your sleep. You're free to go! Good day.}
-{157}{}{Hep?}
-{158}{}{Hello again, how may I help you?}
-{159}{}{Out with the old and in with the new... Where are my pliers? (You drop like a rock into an abyss)}
-{161}{}{Hmmm. You look exactly the same, but how do you feel? (Your senses seem much sharper) Well, you're taking up valuable bed space. Get going!}
-{164}{}{I hope you have a heart... (She winks at you as you fall under)}
-{166}{}{Well, you do look a little bulkier now. (You feel great!) Let me know if there are any problems, and don't go swimming for at least an hour.}
-{168}{}{Now where's the brain again? What's this thing supposed to do? (You try to fight the drugs but it's a losing battle)}
-{170}{}{Well, it looks like I got it all back in. Everything seems to be running just fine. (It's as if the pathways of your thoughts have direct links to everything in your head, and your memories are much crisper)}
-{174}{}{Alright, let's give it a spin. Try not to flinch. (The drugs are so... friendly. Your slumber comes quickly)}
-{176}{}{Okay, you're ready for duty. (You move your limbs and can feel the increased speed and control) All I ask of you is to please not damage my masterpiece.}
-{180}{}{I hope you don't end up with a lazy eye like the last one... (You struggle to fight the drugs but they are too powerful)}
-{181}{}{My, my, you are striking. I really outdid myself. (She looks you up and down a few times and then seems to snap out of it) Oh, sorry, you're free to go now.}
-{182}{}{Thanks!}
-{185}{}{Not as striking as you.}
-{200}{}{You see the Doctor's assistant.}
-{222}{}{Well, I can help make you stronger, more perceptive, increase your endurance, help improve your learning process, and increase your dexterity. Which would you like more information on?}
-{233}{}{ script but takes 3 weeks to heal.}
-{237}{}{ script, but the recovery from this operation is only a week.}
-{239}{}{ script.}
-{241}{}{ script.}
-{243}{}{ script.}
-{245}{}{ script and takes 3 weeks to heal.}
-{279}{}{You should see the Doctor.}
-{280}{}{She's the Doctor, not me.}
-{281}{}{I'm only in training.}
-{282}{}{I can't help you, officially.}
-{283}{}{Lorri's the Doctor.}
-{284}{}{You have to ask the Doctor.}
-{285}{}{Don't worry, she's just a kidder.}
-{286}{}{She just likes to tease, don't worry.}
-{300}{}{Cute, but I'm not interested. Come back if you need medical attention.}
-{301}{}{No offense honey, but you're a little below my standards. I'm flattered though.}
-{302}{}{Oh, thank you so much. (She blushes) I don't really get any compliments. Being a Brotherhood Doctor is mostly just a stressful, thankless job. I like to joke around, to keep myself entertained and upbeat.}
-{303}{}{I understand. Wouldn't it help to blow off some steam once in a while?}
-{304}{}{You're welcome. Bye!}
-{305}{}{Well... I do get lonely sometimes, and you don't get any 'vacation time' when you're the only doctor in the Brotherhood. Oh, what am I saying though? This is so silly.}
-{306}{}{You should suck it up. Take pride in your work and the rest will follow.}
-{307}{}{Life's short and then you die. Don't you want to enjoy it while it lasts?}
-{308}{}{It's not silly at all. (Lightly touch her face, then lean in and kiss her)}
-{309}{}{Yes, I suppose you're right. (She shakes her head and sighs, then recomposes and smiles) Well, back to work! Thank you for the compliment.}
-{310}{}{(She thinks for a moment) You're right. And I do. Give me about ten minutes - I need to prep the exam table. (She smiles devilishly and bites her lower lip)}
-{311}{}{(She takes your hand and leads you to her room...)}
-{312}{}{That was beautiful. I... I think I'm in love with you. (She giggles) Just kidding! Alright, time to go. I have work to do.}
-{313}{}{Oh wow. I haven't been fucked like that in years. I think I'm going to be sore for a week, but it was worth it. (She looks at you longingly) Let's do this again soon!}
-{314}{}{Hey there, gorgeous. Looking to have some more fun?}
-{315}{}{Definitely. See you later.}
-{316}{}{What are you do- ... (She is startled at first, but quickly melts to your embrace and kisses you back tenderly, moaning softly. As your kissing becomes more passionate, she stops and pulls away) Come with me. (She stands and leads you to her quarters...)}
-{317}{}{Yes! You make me feel so beautiful and wanted.}
-{318}{}{(She smiles and takes your hand...)}
-{319}{}{Well, I do need some brushing up on my anatomy lessons... (She winks)}
-{400}{}{Hmmm. If anyone here needs an intelligence enhancement, it would be you. In fact, I'll do it for 3000 script instead of the 6000 you would normally need for the operation. I can't guarantee that it will help you, but I think it would be worth a try. It will also take 3 weeks of recovery time. You probably don't understand this though, do you?}
-{401}{}{Me want Smart.}
-{402}{}{Do not want! Docs is scary...}
-{403}{}{Very well then. Are you irradiated or hurt? I'll help you if I can.}
-{404}{}{me Hurts.}
-{405}{}{hAir fall Out!}
-{406}{}{Nuh-uh.}
-{407}{}{Okay. You're awake. Let's see here. Do you feel any smarter?}
-{408}{}{Hunh?}
-{409}{}{Yes!}
-{410}{}{Damn! It was a failure. Well I didn't have much to work with. Sorry, you're just an idiot and will most likely remain an idiot. We can only do the operation once, sorry to say.}
-{411}{}{Fantastic, it was a success! I was able to increase your IQ to an acceptable level. How does it feel to have half a brain?}
-{412}{}{It's great. Thanks, Doc. Bye.}
-{413}{}{There you go. All better.}
-{500}{}{I'm sorry but this operation will not help you.}
-{502}{}{What other operations can you perform?}
-{503}{}{Well, technically I'm not supposed to talk about this, but we do have other procedures available. I warn you that some of them are very dangerous and have a risk of side-effects, while others are quite safe, but have an extremely long recovery time. Would you like more information?}
-{504}{}{Ah yes, let me see here...}
+{153}{}{Veux-tu en savoir plus sur une autre ?}
+{154}{}{Ok, ça fait rien... je plaisantais. On peut y aller. [Tu respires dans le masque et tu t'endors profondément]}
+{155}{}{Mon ventre me fait mal !}
+{156}{}{Alors, comment on se sent ? [Tu peux déjà sentir la différence] Tu parles pas mal pendant ton sommeil. Tu peux y aller. Bonne journée.}
+{157}{}{Heu ?}
+{158}{}{Rebonjour, je peux t'aider ?}
+{159}{}{Faire du neuf avec du vieux... où sont mes pinces ? [Tu t'endors comme une pierre]}
+{161}{}{Hmm, tu sembles exactement pareil... Comment tu te sens ? [Tes sens semblent bien plus aiguisés] Bon, il faut libérer la place. Bonne journée.}
+{164}{}{J'espère que tu as un bon cœur... [Elle te fait un clin d’œil tandis que tu t'endors]}
+{166}{}{Bien, un vrai colosse ! [Tu te sens en pleine forme] Fais-moi savoir s'il y a des complications, et ne nage pas avant au moins une heure !}
+{168}{}{Bon, où est le cerveau déjà ? Et qu'est-ce que c'est que ce truc... [Tu luttes en vain pour ne pas t'endormir]}
+{170}{}{Bien, on dirait que j'ai tout remis en place. Tout semble marcher parfaitement. [Tes pensées sont claires et tes souvenirs sont plus nets.]}
+{174}{}{C'est parti pour un tour ! Essaie de pas flancher. [Les drogues font effet et tu t'endors rapidement]}
+{176}{}{Et voilà, prêt à l'emploi ! [Tu bouges tes jambes et ressent une puissance nouvelle] Tout ce que je te demande est de ne pas abîmer mon chef-d’œuvre.}
+{180}{}{J'espère que tu ne finiras pas borgne comme le dernier... [Tu luttes en vain contre les drogues]}
+{181}{}{Tu es resplendissant ! Je me suis vraiment surpassée cette fois... [Elle te regarde de haut en bas à plusieurs reprises puis retrouve ses esprits] Oh, excuse-moi, tu peux y aller !}
+{182}{}{Merci !}
+{185}{}{Pas aussi resplendissant que toi.}
+{200}{}{Tu vois un auxiliaire médical.}
+{222}{}{Eh bien, je peux te rendre plus fort, développer ta perception et ton agilité, augmenter ton endurance ou encore améliorer tes facultés mentales. Sur quoi en particulier aimerais-tu plus d'informations ?}
+{233}{}{ caps mais nécessite 3 semaines de soin.}
+{237}{}{ caps et le rétablissement pour cette opération n'est que d'une semaine.}
+{239}{}{ caps.}
+{241}{}{ caps.}
+{243}{}{ caps.}
+{245}{}{ caps et nécessite 3 semaines de soin.}
+{279}{}{Tu devrais voir le docteur.}
+{280}{}{C'est elle le médecin, pas moi.}
+{281}{}{Je suis en formation.}
+{282}{}{Je ne peux pas t'aider.}
+{283}{}{Lorri est le médecin.}
+{284}{}{Demande au médecin.}
+{285}{}{Ne t'inquiète pas, c'est juste une blagueuse.}
+{286}{}{Elle aime bien taquiner, ne t'en fais pas.}
+{300}{}{Mignon... mais je passe mon tour. Reviens si tu as besoin de soins.}
+{301}{}{Ne le prends pas mal chéri, mais tu es un cran en dessous de mes standards habituels.}
+{302}{}{Oh, merci. [Elle rougit] Je ne reçois pas souvent de compliment. Etre docteur pour la Confrérie est un boulot stressant et ingrat la plupart du temps. J'aime plaisanter pour me changer les idées et rester positive.}
+{303}{}{Je comprends. Tu devrais décompresser de temps en temps.}
+{304}{}{Je t'en prie. Au revoir !}
+{305}{}{Eh bien... c'est vrai que je me sens seule parfois et "temps libre" ne fait pas vraiment partie du langage pour l'unique médecin de la Confrérie. Qu'est-ce que je raconte... c'est stupide.}
+{306}{}{Tiens-toi le pour dit ! Sois fière de ton travail et le reste suivra.}
+{307}{}{La vie est courte. Tu ne veux pas en profiter tant qu'elle dure ?}
+{308}{}{Je trouve pas ça bête du tout. [Tu caresses son visage, te penche vers elle et l'embrasse]}
+{309}{}{Oui, tu as sûrement raison... [Elle secoue la tête en soupirant, puis te sourit] Allez, au boulot ! Merci pour le compliment.}
+{310}{}{[Elle réfléchit un moment) Tu as raison, et c'est ce que je vais faire ! Donne-moi dix minutes, je dois préparer la table. [Elle sourit malicieusement et mordille sa lèvre]}
+{311}{}{[Elle prend ta main et te conduis à sa chambre...]}
+{312}{}{C'était si beau, je... je suis amoureuse de toi. [Elle glousse] Je te fais marcher ! Il est temps de partir, j'ai du boulot qui m'attend.}
+{313}{}{Whoa, j'ai pas pris mon pied comme ça depuis des années ! Je vais mettre une semaine à m'en remettre mais ça valait le coup. [Elle te regarde avec envie] Remettons-ça vite !}
+{314}{}{Salut beauté On remet ça ?}
+{315}{}{Sans aucun doute. A bientôt.}
+{316}{}{Qu'est-ce que tu fa... [D'abord surprise, elle fond rapidement sous ton étreinte et t'embrasse tendrement en retour, gémissant doucement. Comme tes caresses se font plus fougueuses, elle s'arrête et s'éloigne] Viens avec moi. [Elle te conduit dans ses quartiers...]}
+{317}{}{Oui ! Tu me fais sentir si belle et désirée.}
+{318}{}{[Elle sourit et prends ta main...]}
+{319}{}{Eh bien, j'ai vraiment besoin de réviser mes cours d'anatomie... [Elle te fais un clin d’œil]}
+{400}{}{Hmm. Si quelqu'un ici en a besoin c'est bien toi. Je te le ferai pour 3000 caps au lieu des 6000 que coûte normalement l'opération. Je peux pas garantir que ça t'aidera, mais je pense que ça vaut le coup d'essayer. Ca prendra 3 semaines. Ca m'étonnerait que tu comprennes de quoi je parle de toute façon ?}
+{401}{}{Moi vouloir Intelligence}
+{402}{}{Pas vouloir ! Doc' faire peur...}
+{403}{}{Très bien. Es-tu blessé ou irradié ? Je t'aiderai si je peux.}
+{404}{}{Moi blessé.}
+{405}{}{Rad !}
+{406}{}{Ben, euh nan !}
+{407}{}{Tu es réveillé, voyons ça... te sens tu plus intelligent ?}
+{408}{}{Heeiin ??}
+{409}{}{Oui !}
+{410}{}{Zut ! c'est un échec. Je n'avais pas beaucoup pour travailler, il faut dire. Navré, mais tu es idiot et le restera toujours. On ne peut pratiquer cette opération qu'une fois, désolé de te dire ça.}
+{411}{}{Fantastique, ça a marché ! J'ai pu ramener ton QI à un niveau raisonnable. Quel effet ça fait d'avoir un demi-cerveau ?}
+{412}{}{C'est super, merci doc. Au revoir.}
+{413}{}{Et voilà, tout va bien.}
+{500}{}{Je suis désolé mais cette opération ne t'aidera pas.}
+{502}{}{Quelles autres opérations pratiques-tu ?}
+{503}{}{Eh bien, je ne suis pas censée parler de ça mais effectivement nous avons d'autres opérations disponibles. Je te préviens, certaines sont très dangereuses et ont un risque d'effets secondaires, d'autres sont moins contraignantes mais ont un temps de récupération très important. Tu veux plus d'information ?}
+{504}{}{Ah, voyons voir...}

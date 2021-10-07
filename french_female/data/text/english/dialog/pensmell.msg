@@ -1,1 +1,1 @@
-{100}{}{The stench of the Brahma Pen is unlike any smell you have ever encountered in your Vault.}
+{100}{}{La puanteur de l'enclos à brahmines ne ressemble à rien de ce que t'as pu connaître dans ton Abri.}

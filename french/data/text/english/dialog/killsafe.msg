@@ -1,7 +1,7 @@
-{100}{}{You see a safe.}
-{101}{}{The safe is not locked.}
-{103}{}{Got it!}
-{104}{}{Drat! Almost had it.}
-{105}{}{The safe is locked.}
-{106}{}{You earn 500 experience for cracking Killian's personal safe, you big jerk.}
-{107}{}{You tweak the tumblers and manage to jam the lock with a pick. Just great.}
+{100}{}{Voici un coffre-fort.}
+{101}{}{Le coffre-fort n'est pas fermé à clé.}
+{103}{}{Ca y est !}
+{104}{}{Sapristi ! Ca y était presque.}
+{105}{}{Le coffre-fort est fermé à clé.}
+{106}{}{points d'expérience pour avoir ouvert le coffre-fort de Killian.}
+{107}{}{En essayant de crocheter la serrure, tu as coincé le verrou. Vraiment super.}

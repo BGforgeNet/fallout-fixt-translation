@@ -1,137 +1,137 @@
-{100}{}{You see a slender young woman with a smudged face and dark clothing.}
-{101}{}{You see: Katja, the thief.}
-{102}{}{You're not from around here. Who're you?}
-{103}{}{The name's }
+{100}{}{Voici une jeune femme svelte. Elle a le visage sale et des vêtements sombres.}
+{101}{}{Voici Katja, la voleuse.}
+{102}{}{Tu n'es pas d'ici. Qui es-tu ?}
+{103}{}{Je m'appelle }
 {104}{}{.}
-{105}{}{I'm a traveler.}
-{106}{}{I might ask the same of you.}
-{107}{}{And what, may I ask, are you doing in L.A. Boneyard?}
-{108}{}{You ask a lot of questions.}
-{109}{}{First you tell me who you are.}
-{110}{}{I'm just an explorer.}
-{111}{}{I'm looking for a replacement Water Chip for my Vault.}
-{112}{}{You learn to be careful out here. So what are you doing here?}
-{113}{}{All right, fair enough. I'm called Katja. What's it matter to you?}
-{114}{}{Why so hostile?}
-{115}{}{Hey, if you're going to be rude about it, then I'll see you later.}
-{116}{}{I'm looking for information. Can you help?}
-{117}{}{You might, but you're on my home turf, not vice-versa. So put up or shut up.}
-{118}{}{It's not important, I'm just a traveler. I need some information.}
-{119}{}{A water purification chip? Sorry, don't know anything about that. Don't see much of that kind of tech here in L.A. Boneyard, except maybe the stuff Miles works on.}
-{120}{}{Well, thanks anyhow.}
-{121}{}{Miles? Where can I find him, and could he help?}
-{122}{}{Can you tell me more about L.A. Boneyard, then?}
-{123}{}{Just a traveler. I've heard that one before. Nobody comes to L.A. Boneyard except those Hub merchants and people looking for a quick death at the hands of the gangs. What are you really here for?}
-{124}{}{You're right. I'm looking for a water purification chip.}
-{125}{}{I don't need to tell you anything.}
-{126}{}{Damn straight. But that's a two-way street.}
-{127}{}{Maybe. You definitely aren't one of those gangland shiv-shovers. What do you want?}
-{128}{}{I'm looking for a water purification chip.}
-{129}{}{I need more information about L.A. Boneyard.}
-{130}{}{I need to know about the area around this city.}
-{131}{}{What can you tell me about the Blades?}
-{132}{}{What can you tell me about the Rippers?}
-{133}{}{What can you tell me about the Gun Runners?}
-{134}{}{What can you tell me about the Followers?}
-{135}{}{What can you tell me about Adytum?}
-{136}{}{Well, it was nice chatting. Gotta go.}
-{137}{}{Miles lives in Adytum. He's a scientist, mostly working with chemistry. If anyone could scrounge up a Water Chip or make a replacement, it would be him.}
-{138}{}{Thanks very much.}
-{139}{}{Adytum is my original home. A little too boring for me, though. It's a fenced-off and self-sufficient town in the south end of L.A. Boneyard, but not as far as the Cathedral. We trade sometimes with the Hub.}
-{140}{}{I've dealt with them before. They're not too bad, as far as gangs go. They have a hideout in an old club, with some outposts. If you're careful you might even be able to get some of them to talk.}
-{141}{}{The Rippers are just plain ferocious. They're an inbred bunch that delights in torture and murder. I stay away from them, and you should, too. They actually put fuckin' land mines around their fortress.}
-{142}{}{The Gun Runners used to be a real gang, but they went soft. They started setting up a deal where they trade weapons that they get from their victims or buy from the Hub. Since nobody here is up for the trip to the Hub personally, they do pretty good business, even though their prices are high.}
-{143}{}{The Followers of the Apocalypse are a group of peace-preachers who live in a large library near the heart of L.A. Boneyard. Why they haven't been wiped out yet I can't say. They are lousy combatants and have no understanding of the real world, but other than that, they are polite and well-educated.}
-{144}{}{L.A. Boneyard is a pretty hostile place. I've never had the opportunity to leave, though I suppose I'd take it. Let's see... just south of here you have the Cathedral. There's some sort of cult there, but I stay away from them. Something sinister is going on there. Also, I've heard about the trading center called the Hub, and caravans occasionally show up, but I've never been there.}
-{145}{}{I don't plan to stay in this place too much longer, myself.}
-{146}{}{Thanks for the information.}
-{147}{}{Can you tell me some more?}
-{148}{}{No kidding. If you're looking for another hand, I'll sign on. Better than spending the rest of my existence in this hellhole, right?}
-{149}{}{You're a welcome addition, but the desert's not much more fun.}
-{150}{}{Don't worry about it. Thanks anyhow.}
-{151}{}{Can I ask some more questions first?}
-{152}{}{This area's overrun with the three gangs - the Blades, Rippers, and Gun Runners - as well as serving as home for the Followers and for my own home, Adytum.}
-{153}{}{All right, looks like we've got a little ass-kicking to do!}
-{154}{}{Look, 90% of the people in this city fall into one or more of three categories: rapists, murderers, or thieves. I'm a thief and you actually seem polite, so that makes me wonder, okay? Call it a survival instinct.}
-{155}{}{Sorry to step on your feet then. I guess I'll just go the hell away.}
-{156}{}{Well, can I at least ask a few questions?}
-{157}{}{I'm not from around here, so I don't think I count.}
-{158}{}{Okay, but make it quick.}
-{159}{}{Huh. Guess I can't argue with that logic. So waddya want?}
-{160}{}{Can I ask you some questions?}
-{161}{}{I'm looking for a water purification chip. Can you help?}
-{162}{}{Thanks anyhow, but I'll be going now.}
-{163}{}{What's up?}
-{164}{}{Can you give this lock a try?}
-{165}{}{Can you take a look at this trap?}
-{166}{}{Any advice?}
-{167}{}{Thanks for your help. You can go now.}
-{168}{}{Nothing yet. But stay tuned.}
-{169}{}{You again? What're you back for now?}
-{170}{}{Just wanted to stop and say hello.}
-{171}{}{I have a few more questions if you can spare some time.}
-{172}{}{It's unlocked.}
-{173}{}{There's something funny about that bookcase on the east wall. Looks like it's hiding something.}
-{174}{}{Put your weapons away.}
-{175}{}{I hate dogs.}
-{176}{}{That food smells good.}
-{177}{}{What kinds of combat skills do you have?}
-{178}{}{I learned how to be a scrapper from my time in L.A. Boneyard. I'm good with knives and submachine guns. My favorite is throwing knives, of course.}
-{179}{}{All right, although I don't feel right without a good knife.}
-{180}{}{You earn 200 experience for picking up Katja, L.A. Boneyard scav.}
-{181}{}{What do you want now?}
-{182}{}{I changed my mind. I'd still like your help.}
-{183}{}{Nothing. Never mind.}
-{184}{}{I'm really starting to hate this place.}
-{185}{}{Wow. I wish I had a hot dog and a really long stick.}
-{186}{}{Oh, ugh. I think I'm gonna be sick.}
-{187}{}{Hey, that wall with the tear in the plaster looks like it could move.}
-{188}{}{Watch out for Deathclaws!}
-{189}{}{Hubba hubba!}
-{190}{}{Leave!}
-{191}{}{I'm sorry but I just don't understand you. Goodbye.}
-{980}{}{I don't know anything about that.}
-{981}{}{I can't really say that I've heard of that.}
-{982}{}{No, I have not heard of that.}
-{1000}{}{Water}
-{1001}{}{Boneyard}
-{1002}{}{War}
+{105}{}{Je voyage.}
+{106}{}{Est-ce que je peux me permettre de te demander la même chose ?}
+{107}{}{Si je puis me permettre, que fais-tu au Cimetière de L.A. ?}
+{108}{}{Tu poses beaucoup de questions.}
+{109}{}{Dis-moi d'abord qui tu es.}
+{110}{}{J'explore le monde.}
+{111}{}{Je cherche une puce d'eau de rechange pour mon Abri.}
+{112}{}{On apprend à être prudent par ici. Alors, que fais-tu là ?}
+{113}{}{Très bien, d'accord. Je m'appelle Katja. Mais qu'est-ce que ça peut te faire ?}
+{114}{}{Pourquoi es-tu si farouche ?}
+{115}{}{Hé, si tu me manques de respect, je m'en vais.}
+{116}{}{Je cherche des renseignements. Peux-tu m'aider ?}
+{117}{}{Peut-être, mais c'est toi qui es chez moi, et pas l'inverse. Alors, réponds d'abord ou tais-toi.}
+{118}{}{Ca n'a aucune importance, je voyage, c'est tout. J'ai besoin de renseignements.}
+{119}{}{Une puce d'épuration d'eau ? Désolée, je n'ai jamais entendu parler de ça. On ne trouve pas ce genre de technologie au Cimetière de L.A., sauf peut-être chez Miles.}
+{120}{}{Eh bien, merci quand même.}
+{121}{}{Miles ? Où puis-je le trouver ? Peux-t-il m'aider ?}
+{122}{}{Peux-tu me parler du Cimetière alors ?}
+{123}{}{Alors, tu voyages ? On me l'a déjà faite celle-là. Personne ne vient jamais ici, à part les marchands du Centre et tous ceux qui ont envie de mourir en défiant les gangs. Alors, pourquoi es-tu là ?}
+{124}{}{Tu as raison. Je cherche une puce d'épuration d'eau.}
+{125}{}{Je n'ai rien à te dire.}
+{126}{}{Bien envoyé. Mais j'en ai autant à ton service.}
+{127}{}{Peut-être. En tout cas, tu n'es pas une des ces crapules qui traînent dans les bandes. Qu'est-ce que tu veux ?}
+{128}{}{Je cherche une puce d'épuration d'eau.}
+{129}{}{Je dois en savoir plus sur le Cimetière.}
+{130}{}{Je dois en savoir plus sur la région qui entoure cette ville.}
+{131}{}{Que peux-tu me dire sur les Ecorcheurs ?}
+{132}{}{Que peux-tu me dire sur les Eventreurs ?}
+{133}{}{Que peux-tu me dire sur les Contrebandiers ?}
+{134}{}{Que peux-tu me dire au sujet des Disciples ?}
+{135}{}{Que peux-tu me dire sur le Sanctuaire ?}
+{136}{}{Eh bien, ça m'a fait plaisir de parler avec toi, mais je dois partir maintenant.}
+{137}{}{Miles vit dans le Sanctuaire. C'est un scientifique, ou plutôt un chimiste. S'il y a quelqu'un capable de trouver une puce d'eau ou de remplacer une pièce, c'est bien lui.}
+{138}{}{Merci beaucoup.}
+{139}{}{Je suis originaire du Sanctuaire. Mais, c'est une ville trop ennuyeuse à mon goût... C'est au Sud du Cimetière, mais bien avant la Cathédrale. Il nous arrive parfois de faire du commerce avec le Centre.}
+{140}{}{J'ai déjà traité avec eux. Ce n'est pas la pire des bandes. Ils ont une planque dans un vieux club, avec quelques postes avancés. Si tu fais preuve de prudence, tu pourras peut-être parler avec certains d'entre eux.}
+{141}{}{Les Eventreurs sont des barbares. Ils sont consanguins et leur plaisir, c'est de torturer et de tuer. Je les évite au maximum, et tu devrais en faire autant. Ils ont placé des fichues mines autour de leur forteresse.}
+{142}{}{Les Contrebandiers étaient autrefois une vraie bande, mais ils se sont assagis. Ils ont commencé à faire le commerce des armes qu'ils volent à leurs victimes ou qu'ils achètent au Centre. Comme ici personne ne veut se déplacer jusqu'au Centre, leurs affaires marchent bien, même si leurs prix sont élevés.}
+{143}{}{Les Disciples de l'Apocalypse forment un groupe qui prêche la paix. Ils vivent dans une grande bibliothèque au coeur du Cimetière de L.A. Je ne comprends pas comment ils n'ont pas encore été anéantis. Ce sont de piètres guerriers et ils ne connaissent rien au monde extérieur. A part ça, ils sont polis et bien élevés.}
+{144}{}{Le Cimetière est un endroit plutôt hostile. Je n'ai jamais eu l'occasion d'en sortir, mais je suppose que je n'aurais pas hésité si j'avais pu. Voyons... au Sud d'ici, tu as la Cathédrale où vit une sorte de secte... mais je préfère ne pas m'en approcher. Il y a quelque chose de sinistre avec eux. J'ai aussi entendu parler d'un endroit où l'on fait des affaires. On l'appelle le Centre. Des caravanes en viennent de temps à autre, mais je n'y ai jamais été.}
+{145}{}{Je n'ai pas l'intention de rester ici bien longtemps.}
+{146}{}{Merci pour le renseignement.}
+{147}{}{Peux-tu m'en dire plus ?}
+{148}{}{Sans rire, si tu cherches quelqu'un pour t'accompagner, je suis d'accord. C'est toujours mieux que de passer le restant de ma vie dans ce trou, non ?}
+{149}{}{Tu es la bienvenue, mais gare à toi, ce désert n'est pas vraiment une partie de plaisir.}
+{150}{}{Ne t'en fais pas pour ça. Merci quand même.}
+{151}{}{Puis-je d'abord te poser d'autres questions ?}
+{152}{}{Cette région est dominée par trois gangs: les Ecorcheurs, les Eventreurs et les Contrebandiers. Elle abrite aussi les Disciples et le Sanctuaire, qui est l'endroit où je vis.}
+{153}{}{Très bien, alors je crois qu'on a du pain sur la planche !}
+{154}{}{Ecoute, 90% des habitants de cette ville sont des violeurs, des meurtriers ou des voleurs. Je suis une voleuse et t'as l'air d'un gars poli, alors ça me fait réfléchir, ok ? Appelle ça l'instinct de survie si tu veux.}
+{155}{}{Excuse-moi de traîner dans tes pattes alors. Je crois que je vais m'en aller.}
+{156}{}{Eh bien, puis-je au moins te poser quelques questions ?}
+{157}{}{Je n'entre dans aucune de ces 3 catégories, mais je ne suis pas d'ici donc ça ne compte pas.}
+{158}{}{Ok, mais vite.}
+{159}{}{Euh. Bon, t'as gagné. Alors, qu'est-ce que tu veux ?}
+{160}{}{Je peux encore te poser quelques questions ?}
+{161}{}{Je cherche une puce d'épuration d'eau. Peux-tu m'aider ?}
+{162}{}{Merci quand même, mais je vais m'en aller.}
+{163}{}{Quoi de neuf ?}
+{164}{}{Peux-tu essayer d'ouvrir ce verrou ?}
+{165}{}{Peux-tu jeter un oeil à ce piège ?}
+{166}{}{Des conseils ?}
+{167}{}{Merci de ton aide. Tu peux partir maintenant.}
+{168}{}{Rien pour l'instant, mais reste dans le coin.}
+{169}{}{Encore toi ? Pourquoi reviens-tu ?}
+{170}{}{Je m'arrêtais juste pour dire bonjour.}
+{171}{}{J'aurais encore quelques questions si tu veux bien m'accorder un peu de temps.}
+{172}{}{Il est ouvert.}
+{173}{}{Cette étagère, là sur le mur Est, me semble étrange. On dirait qu'il cache quelque chose.}
+{174}{}{Range tes armes.}
+{175}{}{Je déteste les chiens.}
+{176}{}{Cette nourriture sent bon.}
+{177}{}{Quels sont tes compétences de combat ?}
+{178}{}{J'ai appris à me battre en vivant au Cimetière de L.A. Je manie bien les couteaux et les mitraillettes. Mais ce que je préfère, c'est le lancer de couteaux, bien sûr.}
+{179}{}{Plutôt pas mal, mais je ne me sens pas très à l'aise sans un bon couteau.}
+{180}{}{points d'expérience pour avoir recueilli Katja, la fouilleuse d'ordures du Cimetière de L.A.}
+{181}{}{Que veux-tu cette fois ?}
+{182}{}{J'ai changé d'avis. J'aurais encore besoin de ton aide.}
+{183}{}{Rien. Peu importe.}
+{184}{}{Je commence vraiment à détester cet endroit.}
+{185}{}{Ouah ! J'aimerais avoir un hot dog et un bâton.}
+{186}{}{Oh, beurk. Je crois que je vais être malade.}
+{187}{}{Hé, on dirait que ce mur avec une entaille dans le plâtre peut bouger.}
+{188}{}{Fais attention aux Griffemorts !}
+{189}{}{Hubba hubba !}
+{190}{}{Va-t'en !}
+{191}{}{Excuse-moi, mais je ne te comprends pas. Au revoir.}
+{980}{}{Je vois pas de quoi tu parles.}
+{981}{}{On ne peut pas dire que j'en sais quelque-chose...}
+{982}{}{Non, je n'en ai jamais entendu parler.}
+{1000}{}{Eau}
+{1001}{}{Cimetière de L.A.}
+{1002}{}{Guerre}
 {1003}{}{Adytum}
 {1004}{}{Followers}
 {1005}{}{Cathedral}
-{1006}{}{Chip}
+{1006}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1007}{}{Garl}
-{1008}{}{Master}
-{1009}{}{Unity}
+{1008}{}{Maître}
+{1009}{}{Unité}
 {1010}{}{Set}
 {1011}{}{Watershed}
 {1012}{}{Nécropolis}
 {1013}{}{Hall}
 {1014}{}{Library}
-{1015}{}{Overseer}
-{1016}{}{Medic}
-{1017}{}{Healing}
-{1018}{}{Vault}
-{1019}{}{Vault13}
+{1015}{}{Dirigeant}
+{1016}{}{Médecin}
+{1017}{}{Guérison}
+{1018}{}{Abri}
+{1019}{}{Abris}
 {1020}{}{Vault 13}
 {1021}{}{Killian}
 {1022}{}{Gizmo}
 {1023}{}{Dépôtville}
-{1024}{}{Shady}
-{1025}{}{Sands}
-{1026}{}{Hub}
+{1024}{}{Sables}
+{1025}{}{Ombragés}
+{1026}{}{Centre}
 {1027}{}{Casino}
-{1028}{}{Store}
+{1028}{}{Magasin}
 {1029}{}{Deathclaw}
-{1030}{}{Exodus}
-{1031}{}{Initiates}
+{1030}{}{Exode}
+{1031}{}{Initiés|Initié|Inities|Initie}
 {1032}{}{Paladins}
 {1033}{}{Scribes}
-{1034}{}{Children}
-{1036}{}{Brotherhood}
+{1034}{}{Enfants}
+{1036}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
 {1037}{}{Vats}
-{1038}{}{Military}
-{1039}{}{Base}
+{1038}{}{Base}
+{1039}{}{Militaire}
 {1041}{}{Apocalypse}
 {1042}{}{Mutants}
 {1043}{}{Morpheus}
@@ -143,93 +143,93 @@
 {1049}{}{Petrox}
 {1050}{}{Tolya}
 {1051}{}{Booze}
-{1052}{}{Drugs}
+{1052}{}{stimulants}
 {1053}{}{Seth}
 {1054}{}{Aradesh}
 {1055}{}{Razlo}
 {1056}{}{Zimmerman}
-{1057}{}{Regulators}
-{1058}{}{Scavs}
-{1059}{}{Blades}
+{1057}{}{Régulateurs}
+{1058}{}{Fouineurs}
+{1059}{}{Ecorcheurs}
 {1060}{}{Nicole}
 {1061}{}{Lieutenant}
-{1062}{}{Psychics}
-{1063}{}{Experiments}
+{1062}{}{Médiums}
+{1063}{}{Expériences}
 {1064}{}{Police}
-{1065}{}{Merchants}
-{1100}{}{I don't know where you could find such a relic of old technology.}
-{1101}{}{The Angel's Boneyard is all that's left of the old city of Los Angeles. Mostly divided among warring factions, these days.}
-{1102}{}{The War brought misery and death all over the world. I sure hope something like that never happens again. But from what I've seen, there's not much hope for humanity.}
-{1103}{}{Adytum used to be my home, but those people are just too paranoid and reclusive. They'll never survive by withdrawing from the world.}
-{1104}{}{The Followers of the Apocalypse preach peace and tolerance. Too bad it just doesn't cut it in this world.}
-{1105}{}{The Cathedral is a monumental structure south of Adytum by about a day's walk or so. It's run by a weird cult that worships some sort of dark god.}
-{1106}{}{I don't know where you could find such a relic of old technology.}
-{1107}{}{I don't know any more about that than you do.}
-{1108}{}{I don't know any more about that than you do.}
-{1109}{}{I don't know any more about that than you do.}
-{1110}{}{I don't know any more about that than you do.}
-{1111}{}{I don't know any more about that than you do.}
-{1112}{}{What, the city of the dead? Isn't that a myth?}
-{1113}{}{I don't know any more about that than you do.}
-{1114}{}{I don't know any more about that than you do.}
-{1115}{}{I don't know any more about that than you do.}
-{1116}{}{The Followers have a medic on hand at all times.}
-{1117}{}{You should go see the medic at the Followers if you need healing.}
-{1118}{}{Weren't the Vaults like big underground shelters?}
-{1119}{}{Weren't the Vaults like big underground shelters?}
-{1120}{}{Weren't the Vaults like big underground shelters?}
-{1121}{}{I don't know any more about that than you do.}
-{1122}{}{I don't know any more about that than you do.}
-{1123}{}{Um, small town north of the Hub, I think.}
-{1124}{}{Shady what?}
-{1125}{}{Shady Sands? Never heard of it.}
-{1126}{}{The Hub's a huge trading center, with all sorts of stores and merchants.}
-{1127}{}{I don't know any more about that than you do.}
-{1128}{}{The Gun Runners sell stuff, and there's a store in Adytum.}
-{1129}{}{Ugh! The Deathclaws are all over in L.A. Boneyard. I'd rather not even think about them. Huge and aptly named.}
-{1130}{}{I don't know any more about that than you do.}
-{1131}{}{I don't know any more about that than you do.}
-{1132}{}{I don't know any more about that than you do.}
-{1133}{}{I don't know any more about that than you do.}
-{1134}{}{I don't like kids.}
-{1136}{}{I hear they're some sort of high-tech monks.}
-{1137}{}{I don't know any more about that than you do.}
-{1138}{}{I don't know any more about that than you do.}
-{1139}{}{I suppose there must be some remnants of the old military.}
-{1141}{}{You mean the big war? Wow, you sure have led a sheltered life if you don't know anything about that.}
-{1142}{}{I've seen a rat with three eyes once. That's about all I know about mutants.}
-{1143}{}{I think he's a High Priest for the Cathedral, or something.}
-{1144}{}{I don't know any more about that than you do.}
-{1145}{}{I don't know any more about that than you do.}
-{1146}{}{I don't know any more about that than you do.}
-{1147}{}{I don't know any more about that than you do.}
-{1148}{}{I don't know any more about that than you do.}
-{1149}{}{I don't know any more about that than you do.}
-{1150}{}{I don't know any more about that than you do.}
-{1151}{}{No thanks.}
-{1152}{}{Ugh. No, I'd rather not. I watched a friend die from an overdose of Psycho once. Not pretty.}
-{1153}{}{I don't know any more about that than you do.}
-{1154}{}{I don't know any more about that than you do.}
-{1155}{}{I don't know any more about that than you do.}
-{1156}{}{He's the mayor of Adytum. A fair, if somewhat vacillating, man.}
-{1157}{}{They watch over Adytum and keep it under control.}
-{1158}{}{I used to be a scav. We'd go out at night and try to find useful stuff in the ruins of L.A. Boneyard. Very dangerous job. I got sick of Adytum, though.}
-{1159}{}{They're a group of cast-offs who live outside of Adytum.}
-{1160}{}{She's the leader of the Followers. An intelligent woman, and good hearted, too.}
-{1161}{}{I don't know any more about that than you do.}
-{1162}{}{I get 'feminine intuition' occasionally, if that's what you mean.}
-{1163}{}{I don't know any more about that than you do.}
-{1164}{}{I don't know any more about that than you do.}
-{1165}{}{Merchants trade with Adytum occasionally, and sell to the Gun Runners.}
-{1999}{}{I'm getting pretty good at this!}
-{2000}{}{Let's discuss our combat tactics.}
-{2001}{}{I'm listening.}
-{2010}{}{Draw your best weapon.}
-{2011}{}{Change your armor.}
-{2012}{}{Prefer ranged combat against close.}
-{2013}{}{Prefer close combat against ranged.}
-{2014}{}{Choose distance on your own.}
-{2015}{}{That's all for now.}
+{1065}{}{Marchands|Marchand}
+{1100}{}{Je ne sais pas où tu pourrais trouver un tel vestige de l'ancienne technologie.}
+{1101}{}{Le Cimetière de L'Os Angeles est tout ce qu'il reste de l'ancienne ville de Los Angeles. Maintenant elle est surtout divisée en factions guerrières.}
+{1102}{}{La Guerre a engendré la misère et la mort dans le monde entier. J'espère de tout coeur qu'une telle chose n'arrivera plus. Mais d'après ce que j'ai pu voir, il n'y a plus beaucoup d'espoir pour l'humanité.}
+{1103}{}{Je vivais au Sanctuaire autrefois, mais ses habitants sont bien trop paranoïaques et reclus. Ce n'est pas en se retirant du monde qu'ils survivront.}
+{1104}{}{Les Disciples de l'Apocalypse prêchent la paix et la tolérance. Dommage que le monde ne suive pas leurs préceptes.}
+{1105}{}{La Cathédrale est un édifice monumental situé à environ un jour de marche au Sud du Sanctuaire. Il est dirigé par une secte étrange qui vénère une sorte de dieu mystérieux.}
+{1106}{}{Je ne sais pas où tu pourrais trouver un tel vestige de l'ancienne technologie.}
+{1107}{}{Je n'en sais pas plus que toi là-dessus.}
+{1108}{}{Je n'en sais pas plus que toi là-dessus.}
+{1109}{}{Je n'en sais pas plus que toi là-dessus.}
+{1110}{}{Je n'en sais pas plus que toi là-dessus.}
+{1111}{}{Je n'en sais pas plus que toi là-dessus.}
+{1112}{}{Quoi, la cité des morts ? N'est-ce pas un mythe ?}
+{1113}{}{Je n'en sais pas plus que toi là-dessus.}
+{1114}{}{Je n'en sais pas plus que toi là-dessus.}
+{1115}{}{Je n'en sais pas plus que toi là-dessus.}
+{1116}{}{Les Disciples ont toujours un médecin disponible.}
+{1117}{}{Tu devrais aller consulter le médecin des Disciples si tu as besoin de soins.}
+{1118}{}{Les Abris n'étaient-ils pas de grands refuges souterrains ?}
+{1119}{}{Les Abris n'étaient-ils pas de grands refuges souterrains ?}
+{1120}{}{Les Abris n'étaient-ils pas de grands refuges souterrains ?}
+{1121}{}{Je n'en sais pas plus que toi là-dessus.}
+{1122}{}{Je n'en sais pas plus que toi là-dessus.}
+{1123}{}{Hum, une petite ville au Nord du Centre, je crois.}
+{1124}{}{Les Sables quoi ?}
+{1125}{}{Les Sables Ombragés ? Jamais entendu parler.}
+{1126}{}{Le Centre est un grand centre commercial, avec toutes sortes de magasins et de marchands.}
+{1127}{}{Je n'en sais pas plus que toi là-dessus.}
+{1128}{}{Les Contrebandiers font du commerce et il y a un magasin dans le Sanctuaire.}
+{1129}{}{Eh ! Les Griffemorts sont partout dans le Cimetière. Je préfère ne pas y penser. Ils sont énormes et ils portent bien leur nom.}
+{1130}{}{Je n'en sais pas plus que toi là-dessus.}
+{1131}{}{Je n'en sais pas plus que toi là-dessus.}
+{1132}{}{Je n'en sais pas plus que toi là-dessus.}
+{1133}{}{Je n'en sais pas plus que toi là-dessus.}
+{1134}{}{Je n'aime pas les enfants.}
+{1136}{}{J'ai entendu dire que ce sont des sortes de moines high-tech.}
+{1137}{}{Je n'en sais pas plus que toi là-dessus.}
+{1138}{}{Je n'en sais pas plus que toi là-dessus.}
+{1139}{}{Je suppose qu'il reste des vestiges militaires.}
+{1141}{}{Tu veux parler de la grande guerre ? Ouah, tu as dû vivre en ermite pour ne rien savoir là-dessus.}
+{1142}{}{J'ai vu un rat à trois yeux, une fois. C'est à peu près tout ce que je sais sur les mutants.}
+{1143}{}{Je crois que c'est le Grand Prêtre de la Cathédrale, ou quelque chose dans le genre.}
+{1144}{}{Je n'en sais pas plus que toi là-dessus.}
+{1145}{}{Je n'en sais pas plus que toi là-dessus.}
+{1146}{}{Je n'en sais pas plus que toi là-dessus.}
+{1147}{}{Je n'en sais pas plus que toi là-dessus.}
+{1148}{}{Je n'en sais pas plus que toi là-dessus.}
+{1149}{}{Je n'en sais pas plus que toi là-dessus.}
+{1150}{}{Je n'en sais pas plus que toi là-dessus.}
+{1151}{}{Non, merci.}
+{1152}{}{Beurk. Non, je ne préfère pas. J'ai vu un ami mourir d'une overdose de Psycho une fois. C'était terrible.}
+{1153}{}{Je n'en sais pas plus que toi là-dessus.}
+{1154}{}{Je n'en sais pas plus que toi là-dessus.}
+{1155}{}{Je n'en sais pas plus que toi là-dessus.}
+{1156}{}{C'est le maire du Sanctuaire. C'est un homme juste, mais parfois indécis.}
+{1157}{}{Ils veillent sur le Sanctuaire et ils le contrôlent aussi.}
+{1158}{}{Autrefois, je fouillais les ordures. On sortait la nuit pour récupérer des objets utiles dans les ruines du Cimetière. C'était un travail très dangereux. Mais j'en ai eu marre du Sanctuaire.}
+{1159}{}{C'est un groupe de laissés-pour-compte qui vit à l'extérieur du Sanctuaire.}
+{1160}{}{C'est le chef des Disciples. C'est une femme intelligente et qui a bon coeur.}
+{1161}{}{Je n'en sais pas plus que toi là-dessus.}
+{1162}{}{J'ai parfois des "intuitions féminines", si c'est ce que tu veux dire.}
+{1163}{}{Je n'en sais pas plus que toi là-dessus.}
+{1164}{}{Je n'en sais pas plus que toi là-dessus.}
+{1165}{}{Les marchands font parfois du commerce avec le Sanctuaire et revendent aux Contrebandiers.}
+{1999}{}{Je deviens forte pour ça !}
+{2000}{}{Discutons de notre tactique de combat.}
+{2001}{}{J'écoute.}
+{2010}{}{Utilise ta meilleure arme.}
+{2011}{}{Change ton armure.}
+{2012}{}{Préfère le combat à distance plutôt que rapproché.}
+{2013}{}{Préfère le combat rapproché plutôt qu'à distance.}
+{2014}{}{Choisis la distance qui t'arrange.}
+{2015}{}{C'est tout pour l'instant.}
 {2100}{}{Whatever you say.}
-{2200}{}{Alright, looks like we've got a little ass-kicking to do! I'm called Katja, by the way.}
-{2201}{}{You see: Katja.}
+{2200}{}{Très bien, alors allons botter quelques culs ! Je m'appelle Katja au fait.}
+{2201}{}{Tu vois : Katja.}

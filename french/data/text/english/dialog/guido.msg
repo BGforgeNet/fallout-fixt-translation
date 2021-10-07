@@ -1,8 +1,8 @@
-{100}{}{You see: Guido.}
-{101}{}{I say you just use brute force. It don't take that much to bust a knee cap.}
-{102}{}{Who cares about shock value? We ain't artists, we're professionals. Uh, Leone, someone's trying to talk to us. Aren't we supposed to kill them if they do that?}
-{103}{}{I say you just use brute force. It don't take that much to bust a knee cap.}
-{104}{}{I ain't paid to talk.}
-{105}{}{Who cares about shock value? We ain't artists, we're professionals. Uh, Leone, someone's trying to talk to us. Aren't we supposed to kill them if they do that?}
-{106}{}{I say you just use brute force. It don't take that much to bust a knee cap.}
-{107}{}{Who cares about shock value? We ain't artists, we're professionals. Uh, Leone, someone's trying to talk to us. Aren't we supposed to kill them if they do that?}
+{100}{}{Voici Guido.}
+{101}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau à quelqu'un..}
+{102}{}{Ah, on s'en fout de la méthode ! On n'est pas des artistes, on est des professionnels. Euh, Léone, y'a quelqu'un qu'essaie de nous causer. C'est pas prévu qu'on tue dans ces cas-là ?}
+{103}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau à quelqu'un..}
+{104}{}{J'suis pas payé pour causer.}
+{105}{}{Ah, on s'en fout de la méthode ! On n'est pas des artistes, on est des professionnels. Euh, Léone, y'a quelqu'un qu'essaie de nous causer. C'est pas prévu qu'on tue dans ces cas-là ?}
+{106}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau à quelqu'un..}
+{107}{}{Ah, on s'en fout de la méthode ! On n'est pas des artistes, on est des professionnels. Euh, Léone, y'a quelqu'un qu'essaie de nous causer. C'est pas prévu qu'on tue dans ces cas-là ?}

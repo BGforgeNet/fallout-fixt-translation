@@ -1,6 +1,6 @@
-{970}{}{That is my name.}
-{971}{}{You are talking to me.}
-{972}{}{Why do you ask silly questions? I am that person.}
+{970}{}{C'est mon nom.}
+{971}{}{C'est bien à moi que tu parles.}
+{972}{}{Pourquoi tu poses des questions idiotes ? C'est moi.}
 {973}{}{Yes, that's my name.}
 {974}{}{That's me. Anything else?}
 {975}{}{What is this, some kind of interview?}
@@ -8,26 +8,26 @@
 {977}{}{That's my name, don't wear it out.}
 {978}{}{I don't like talking about myself. New topic.}
 {979}{}{I'm not an open book; let's talk about something else.}
-{980}{}{I don't know anything about that.}
-{981}{}{Sorry. No clue.}
-{982}{}{Never heard of it.}
-{983}{}{What's that?}
+{980}{}{Je vois pas de quoi tu parles.}
+{981}{}{Je regrette. Pas la moindre idée.}
+{982}{}{Jamais entendu parler.}
+{983}{}{Quoi ?}
 {984}{}{What are you babbling about?}
 {985}{}{Is this a joke? I have no idea what that is.}
 {986}{}{Doesn't ring a bell.}
 {987}{}{Nope, doesn't sound familiar.}
 {988}{}{I have no idea what you're talking about.}
 {989}{}{Is that even a real thing?}
-{990}{}{I don't know what you're talking about.}
+{990}{}{Je ne sais pas de quoi tu parles.}
 {991}{}{I wish I could help, but I've never heard of that.}
 {992}{}{I'm sorry; I don't know what that is.}
 {993}{}{What are you going on about?}
 {994}{}{Are you sure you didn't just make that up?}
 {995}{}{No, I don't know anything about that.}
 {996}{}{Sorry, never heard of it.}
-{997}{}{I'm not sure; maybe you should ask someone else.}
-{998}{}{I don't know, but someone else might. Ask around.}
-{999}{}{Why do you think I'd know anything about that?}
+{997}{}{Tu es trop nul pour me poser ce genre de question.}
+{998}{}{Ce ne sont pas tes affaires.}
+{999}{}{Cela ne te regarde pas.}
 {2800}{}{The Master}
 {2801}{}{Water Chip}
 {2802}{}{Nécropolis}
@@ -128,12 +128,12 @@
 {2897}{}{}
 {2898}{}{}
 {2899}{}{}
-{2900}{}{Isn't he some big important guy?}
-{2901}{}{I dunno, but the Watershed might have one.}
-{2902}{}{Yer standing in it. All that's left of it, at least. This place is dying, slowly but surely.}
-{2903}{}{Oh, I like him, I do. You can find him at the Hall.}
-{2904}{}{It's to the north. Watch out for the guards. They take their job real serious like.}
-{2905}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
+{2900}{}{Ce serait pas un type important ?}
+{2901}{}{J'sais pas, mais le réservoir en a peut-être.}
+{2902}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sûrement.}
+{2903}{}{Oh, je l'aime bien, je t'assure. Tu le trouveras dans le hall.}
+{2904}{}{C'est au Nord. Attention aux gardes. Ils prennent leur boulot plutôt au sérieux.}
+{2905}{}{Le Hall des Morts. C'est là que Set fait ses affaires. C'est en plein centre de Nécropolis.}
 {3400}{}{The Master}
 {3401}{}{Water Chip}
 {3402}{}{Nécropolis}
@@ -234,12 +234,12 @@
 {3497}{}{}
 {3498}{}{}
 {3499}{}{}
-{3500}{}{Isn't he some big important guy?}
-{3501}{}{I dunno, but the Watershed might have one.}
-{3502}{}{Yer standing in it. All that's left of it, at least. This place is dying, slowly but surely.}
-{3503}{}{Oh, I like him, I do. You can find him at the Hall.}
-{3504}{}{It's to the north. Watch out for the guards. They take their job real serious like.}
-{3505}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
+{3500}{}{Ce serait pas un type important ?}
+{3501}{}{J'sais pas, mais le réservoir en a peut-être.}
+{3502}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sûrement.}
+{3503}{}{Oh, je l'aime bien, je t'assure. Tu le trouveras dans le hall.}
+{3504}{}{C'est au Nord. Attention aux gardes. Ils prennent leur boulot plutôt au sérieux.}
+{3505}{}{Le Hall des Morts. C'est là que Set fait ses affaires. C'est en plein centre de Nécropolis.}
 {4000}{}{The Master}
 {4001}{}{Water Chip}
 {4002}{}{Nécropolis}
@@ -340,21 +340,21 @@
 {4097}{}{}
 {4098}{}{}
 {4099}{}{}
-{4100}{}{Isn't he some big important guy?}
-{4101}{}{I dunno, but the Watershed might have one.}
-{4102}{}{Yer standing in it. All that's left of it, at least. This place is dying, slowly but surely.}
-{4103}{}{Oh, I like him, I do. You can find him at the Hall.}
-{4104}{}{Watch out for the guards. They take their job real serious like.}
-{4105}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
-{4600}{}{Vault}
-{4601}{}{Water}
-{4602}{}{Overseer}
-{4603}{}{Chip}
-{4604}{}{Waterchip}
-{4605}{}{Vault13}
+{4100}{}{Ce serait pas un type important ?}
+{4101}{}{J'sais pas, mais le réservoir en a peut-être.}
+{4102}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sûrement.}
+{4103}{}{Oh, je l'aime bien, je t'assure. Tu le trouveras dans le hall.}
+{4104}{}{Attention aux gardes. Ils prennent leur boulot plutôt au sérieux.}
+{4105}{}{Le Hall des Morts. C'est là que Set fait ses affaires. C'est en plein centre de Nécropolis.}
+{4600}{}{Abri}
+{4601}{}{Eau}
+{4602}{}{Dirigeant}
+{4603}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
+{4604}{}{Puce d'eau}
+{4605}{}{Abris}
 {4606}{}{Vault 13}
-{4607}{}{Medic}
-{4608}{}{Healing}
+{4607}{}{Médecin}
+{4608}{}{Guérison}
 {4609}{}{Library}
 {4610}{}{}
 {4611}{}{}
@@ -446,16 +446,16 @@
 {4697}{}{}
 {4698}{}{}
 {4699}{}{}
-{4700}{}{This is where we live. You should understand that.}
-{4701}{}{The chip controls the level of purity in the underground water supply. It is a critical piece of equipment that cannot be repaired.}
-{4702}{}{A good man doing a difficult job.}
-{4703}{}{The chip controls the level of purity in the underground water supply. It is a critical piece of equipment that cannot be repaired.}
-{4704}{}{The chip controls the level of purity in the underground water supply. It is a critical piece of equipment that cannot be repaired.}
-{4705}{}{This is where we live. You should understand that.}
-{4706}{}{This is where we live. You should understand that.}
-{4707}{}{The medic is on the first floor, in the medlab. Go there if you are hurt.}
-{4708}{}{The medic is on the first floor, in the medlab. Go there if you are hurt.}
-{4709}{}{The library is on the west wing of the third floor. That's where the research computers are located.}
+{4700}{}{C'est là que nous vivons. Tu devrais comprendre ça.}
+{4701}{}{La puce contrôle le niveau de pureté des réserves d'eau souterraines. C'est une pièce vitale qui n'est pas réparable.}
+{4702}{}{Un brave type qui fait un boulot difficile.}
+{4703}{}{La puce contrôle le niveau de pureté des réserves d'eau souterraines. C'est une pièce vitale qui n'est pas réparable.}
+{4704}{}{La puce contrôle le niveau de pureté des réserves d'eau souterraines. C'est une pièce vitale qui n'est pas réparable.}
+{4705}{}{C'est là que nous vivons. Tu devrais comprendre ça.}
+{4706}{}{C'est là que nous vivons. Tu devrais comprendre ça.}
+{4707}{}{Le médecin est au premier étage, dans le labo médical. Vas-y si tu t'es fait mal.}
+{4708}{}{Le médecin est au premier étage, dans le labo médical. Vas-y si tu t'es fait mal.}
+{4709}{}{La bibliothèque est dans l'aile Ouest au troisième étage. C'est là que se trouvent les ordinateurs de recherche.}
 {7000}{}{Killian}
 {7001}{}{Gizmo}
 {7002}{}{Dépôtville}
@@ -463,7 +463,7 @@
 {7004}{}{The Hub}
 {7005}{}{Water Chip}
 {7006}{}{Casino}
-{7007}{}{Store}
+{7007}{}{Magasin}
 {7008}{}{Deathclaw}
 {7009}{}{}
 {7010}{}{}
@@ -556,15 +556,15 @@
 {7097}{}{}
 {7098}{}{}
 {7099}{}{}
-{7100}{}{Killian is the mayor. He runs a store.}
-{7101}{}{Gizmo runs a casino. He seems okay.}
-{7102}{}{This is Junktown.}
-{7103}{}{Umm, I think it is a real small place. I've never been there.}
-{7104}{}{It's a larger city somewhere to the south.}
-{7105}{}{What? I'm sorry.}
-{7106}{}{It's a large building in the northwest part of town.}
-{7107}{}{Killian's store? It's in the center of town.}
-{7108}{}{I dunno, but the name scares me.}
+{7100}{}{Killian est le maire. Il tient un magasin.}
+{7101}{}{Gizmo dirige un casino. Ce type paraît correct.}
+{7102}{}{C'est Dépôtville.}
+{7103}{}{Hum, je crois que c'est un p'tit bled. J'y ai jamais mis les pieds.}
+{7104}{}{C'est une plus grande ville quelque part au Sud.}
+{7105}{}{Quoi ? Pardon !}
+{7106}{}{C'est un grand bâtiment au Nord-Ouest de la ville.}
+{7107}{}{Le magasin de Killian ? Au centre de la ville.}
+{7108}{}{J'sais pas, mais rien qu'le nom m'fout les jetons.}
 {7600}{}{Killian}
 {7601}{}{Gizmo}
 {7602}{}{Dépôtville}
@@ -572,7 +572,7 @@
 {7604}{}{The Hub}
 {7605}{}{Water Chip}
 {7606}{}{Casino}
-{7607}{}{Store}
+{7607}{}{Magasin}
 {7608}{}{Deathclaw}
 {7609}{}{}
 {7610}{}{}
@@ -665,15 +665,15 @@
 {7697}{}{}
 {7698}{}{}
 {7699}{}{}
-{7700}{}{Killian is the mayor. He took over when his dad died.}
-{7701}{}{Gizmo is a big man in Junktown. He runs the casino, and the boxing ring. He makes a lot of money, and buys a lot of stuff from the Hub.}
-{7702}{}{This is Junktown.}
-{7703}{}{Well, it's a really small community to the north. The people who live there are mostly farmers. We occasionally trade with them, but they mostly want to be left alone.}
-{7704}{}{The Hub is the center of commerce around here. Almost all of the traders come from the Hub. They have some companies there that still make things. If you want, you can go with one of their trading parties back to the Hub.}
-{7705}{}{I don't know anything about that.}
-{7706}{}{Gizmo runs it. Watch out for the slot machines, you can lose a lot of money if you play them.}
-{7707}{}{Darkwater's? It's in the center of town. You can barter with him, or pay cash.}
-{7708}{}{I hear people talking about it, but I've never seen it. They say it roams the desert, striking mostly at night.}
+{7700}{}{Killian c'est le maire. Il a pris la relève quand son père est mort.}
+{7701}{}{Gizmo est un type important dans Dépôtville. Il dirige le casino et le ring de boxe. Il brasse de l'argent et achète beaucoup de trucs au Centre.}
+{7702}{}{C'est Dépôtville.}
+{7703}{}{Euh, c'est une petite communauté vers le Nord. C'est surtout des fermiers qui vivent là-bas. Ca nous arrive de commercer avec eux, mais ils veulent surtout qu'on leur fiche la paix.}
+{7704}{}{Le Centre, c'est là que se fait tout le commerce dans le coin. La plupart des commerçants viennent du Centre. Là-bas, il y a des sociétés qui fabriquent encore des choses. Si tu veux, profite d'une de leurs tournées pour y aller.}
+{7705}{}{Je vois pas de quoi tu parles.}
+{7706}{}{C'est Gizmo qui le dirige. Attention aux machines à sous, tu peux y laisser ta chemise.}
+{7707}{}{Darkwaters ? Au centre de la ville. Avec lui, tu peux troquer ou payer cash.}
+{7708}{}{J'en ai entendu parler mais je l'ai jamais vu. Il paraît qu'il rôde dans le désert et qu'il frappe surtout la nuit.}
 {8200}{}{Killian}
 {8201}{}{Gizmo}
 {8202}{}{Dépôtville}
@@ -681,7 +681,7 @@
 {8204}{}{The Hub}
 {8205}{}{Water Chip}
 {8206}{}{Casino}
-{8207}{}{Store}
+{8207}{}{Magasin}
 {8208}{}{Deathclaw}
 {8209}{}{}
 {8210}{}{}
@@ -774,27 +774,27 @@
 {8297}{}{}
 {8298}{}{}
 {8299}{}{}
-{8300}{}{Killian is the mayor. He took over when his dad died.}
-{8301}{}{Gizmo is a big man in Junktown. He runs the casino, and the boxing ring. He makes a lot of money, and buys a lot of stuff from the Hub.}
-{8302}{}{This is Junktown.}
-{8303}{}{Well, it's a really small community to the north. The people who live there are mostly farmers. We occasionally trade with them, but they mostly want to be left alone.}
-{8304}{}{The Hub is the center of commerce around here. Almost all of the traders come from the Hub. They have some companies there that still make things. If you want, you can go with one of their trading parties back to the Hub.}
-{8305}{}{I don't know anything about that.}
-{8306}{}{Gizmo runs it. Watch out for the slot machines, you can lose a lot of money if you play them.}
-{8307}{}{Darkwater's? It's in the center of town. You can barter with him, or pay cash.}
-{8308}{}{I hear people talking about it, but I've never seen it. They say it roams the desert, striking mostly at night.}
+{8300}{}{Killian c'est le maire. Il a pris la relève quand son père est mort.}
+{8301}{}{Gizmo est un type important dans Dépôtville. Il dirige le casino et le ring de boxe. Il brasse de l'argent et achète beaucoup de trucs au Centre.}
+{8302}{}{C'est Dépôtville.}
+{8303}{}{Euh, c'est une petite communauté vers le Nord. C'est surtout des fermiers qui vivent là-bas. Ca nous arrive de commercer avec eux, mais ils veulent surtout qu'on leur fiche la paix.}
+{8304}{}{Le Centre, c'est là que se fait tout le commerce dans le coin. La plupart des commerçants viennent du Centre. Là-bas, il y a des sociétés qui fabriquent encore des choses. Si tu veux, profite d'une de leurs tournées pour y aller.}
+{8305}{}{Je vois pas de quoi tu parles.}
+{8306}{}{C'est Gizmo qui le dirige. Attention aux machines à sous, tu peux y laisser ta chemise.}
+{8307}{}{Darkwaters ? Au centre de la ville. Avec lui, tu peux troquer ou payer cash.}
+{8308}{}{J'en ai entendu parler mais je l'ai jamais vu. Il paraît qu'il rôde dans le désert et qu'il frappe surtout la nuit.}
 {8800}{}{The Master}
 {8801}{}{The War}
 {8802}{}{The Exodus}
 {8803}{}{The Strange Army}
-{8804}{}{Brotherhood}
+{8804}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
 {8805}{}{The Merchants}
 {8806}{}{The Missing Caravans}
 {8807}{}{The Hub}
 {8808}{}{Children of the Cathedral}
-{8809}{}{Initiates}
+{8809}{}{Initiés|Initié|Inities|Initie}
 {8810}{}{Scribes}
-{8811}{}{Knights}
+{8811}{}{Chevaliers|Chevalier}
 {8812}{}{Paladins}
 {8813}{}{Water Chip}
 {8814}{}{}
@@ -889,7 +889,7 @@
 {8903}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
 {8904}{}{That is where we stand.}
 {8905}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{8906}{}{I don't know anything about that.}
+{8906}{}{Je vois pas de quoi tu parles.}
 {8907}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
 {8908}{}{They are a cult.}
 {8909}{}{They are the future of the Brotherhood.}
@@ -901,14 +901,14 @@
 {9401}{}{The War}
 {9402}{}{The Exodus}
 {9403}{}{The Strange Army}
-{9404}{}{Brotherhood}
+{9404}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
 {9405}{}{The Merchants}
 {9406}{}{The Missing Caravans}
 {9407}{}{The Hub}
 {9408}{}{Children of the Cathedral}
-{9409}{}{Initiates}
+{9409}{}{Initiés|Initié|Inities|Initie}
 {9410}{}{Scribes}
-{9411}{}{Knights}
+{9411}{}{Chevaliers|Chevalier}
 {9412}{}{Paladins}
 {9413}{}{Water Chip}
 {9414}{}{}
@@ -1003,7 +1003,7 @@
 {9503}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
 {9504}{}{That is where we stand.}
 {9505}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{9506}{}{I don't know anything about that.}
+{9506}{}{Je vois pas de quoi tu parles.}
 {9507}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
 {9508}{}{They are a cult.}
 {9509}{}{They are the future of the Brotherhood.}
@@ -1015,14 +1015,14 @@
 {10001}{}{The War}
 {10002}{}{The Exodus}
 {10003}{}{The Strange Army}
-{10004}{}{Brotherhood}
+{10004}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
 {10005}{}{The Merchants}
 {10006}{}{The Missing Caravans}
 {10007}{}{The Hub}
 {10008}{}{Children of the Cathedral}
-{10009}{}{Initiates}
+{10009}{}{Initiés|Initié|Inities|Initie}
 {10010}{}{Scribes}
-{10011}{}{Knights}
+{10011}{}{Chevaliers|Chevalier}
 {10012}{}{Paladins}
 {10013}{}{Water Chip}
 {10014}{}{}
@@ -1117,7 +1117,7 @@
 {10103}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
 {10104}{}{That is where we stand.}
 {10105}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{10106}{}{I don't know anything about that.}
+{10106}{}{Je vois pas de quoi tu parles.}
 {10107}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
 {10108}{}{They are a cult.}
 {10109}{}{They are the future of the Brotherhood.}
@@ -1130,7 +1130,7 @@
 {11202}{}{Children of the Cathedral}
 {11203}{}{Morpheus}
 {11204}{}{Mutants}
-{11205}{}{Master}
+{11205}{}{Maître}
 {11206}{}{Followers of the Apocalypse}
 {11207}{}{Military Base}
 {11208}{}{The Vats}
@@ -1240,7 +1240,7 @@
 {11802}{}{Children of the Cathedral}
 {11803}{}{Morpheus}
 {11804}{}{Mutants}
-{11805}{}{Master}
+{11805}{}{Maître}
 {11806}{}{Followers of the Apocalypse}
 {11807}{}{Military Base}
 {11808}{}{The Vats}
@@ -1358,13 +1358,13 @@
 {15410}{}{Petrox}
 {15411}{}{Tolya}
 {15412}{}{Booze}
-{15413}{}{Drugs}
-{15414}{}{Shady}
-{15415}{}{Sands}
-{15416}{}{Raiders}
+{15413}{}{stimulants}
+{15414}{}{Sables}
+{15415}{}{Ombragés}
+{15416}{}{Pillards|Pillards|Khans|Khan}
 {15417}{}{Raider}
 {15418}{}{Khan}
-{15419}{}{Hub}
+{15419}{}{Centre}
 {15420}{}{}
 {15421}{}{}
 {15422}{}{}
@@ -1446,21 +1446,21 @@
 {15498}{}{}
 {15499}{}{}
 {15500}{}{That's us, you lackey.}
-{15501}{}{He's the leader of the Khans. He is the most feared man in the wasteland. Don't fuck with him if you like being alive.}
-{15502}{}{A medium-sized town to the southwest. We sometimes go there to relax after a hard day of pillaging.}
-{15503}{}{Why we don't crush them completely is beyond me.}
+{15501}{}{C'est le chef des Khans. L'homme le plus redouté du désert.}
+{15502}{}{Ils sont au Sud-Ouest. On va parfois s'y reposer après une dure journée de pillage.}
+{15503}{}{Pourquoi on les écrase pas complètement, ça me dépasse !}
 {15504}{}{They are to the south and slightly west. We trade with them. Mostly for water and ammo, but sometimes for better weapons, too.}
-{15505}{}{What the fuck are you talking about? Why should I care?}
-{15506}{}{Garl says he's had his eye on her for a while. I've never heard of her.}
-{15507}{}{She is an advisor. She plans the raids.}
-{15508}{}{She is the armorer. She repairs our equipment.}
-{15509}{}{She is second in command.}
-{15510}{}{He collects our supplies from gracious donators.}
-{15511}{}{He's the cook around here, although lately it seems like all we have is rat and iguana...}
-{15512}{}{Do you have any?}
-{15513}{}{Do you have any?}
-{15514}{}{Why we don't crush them completely is beyond me.}
-{15515}{}{Why we don't crush them completely is beyond me.}
+{15505}{}{Que veux-tu que ça me fasse ?}
+{15506}{}{Je connais personne de ce nom-là.}
+{15507}{}{Elle est la conseillère. Elle organise les raids.}
+{15508}{}{C'est elle qui tient l'armurerie. Elle répare notre équipement.}
+{15509}{}{Elle est commandant en second.}
+{15510}{}{Il est chargé du ravitaillement.}
+{15511}{}{C'est le cuisinier.}
+{15512}{}{Hmmm, t'en as ?}
+{15513}{}{Hmmm, t'en as ?}
+{15514}{}{Pourquoi on les écrase pas complètement, ça me dépasse !}
+{15515}{}{Pourquoi on les écrase pas complètement, ça me dépasse !}
 {15516}{}{That's us, you lackey.}
 {15517}{}{That's us, you lackey.}
 {15518}{}{That's us, you lackey.}
@@ -1565,16 +1565,16 @@
 {16097}{}{}
 {16098}{}{}
 {16099}{}{}
-{16100}{}{They are a lawless group who pretend to be some people from the far past.}
-{16101}{}{He leads the Khans. He is one of the most dangerous men that has ever set eyes on Shady Sands. He leads the raider clans with a heavy fist.}
-{16102}{}{It's four to six days to the southwest. Good trading occasionally, but more often than not, they try to stiff us.}
-{16103}{}{You're standing in it.}
-{16104}{}{Much farther to the south than Junktown, and not as far west. The Hub is the largest city I've heard about. Must be a thousand people there, at least.}
-{16105}{}{Sorry, I can't help you.}
-{16106}{}{She is the daughter of Aradesh. Some day she could lead us, but she must learn to temper her ways.}
-{16107}{}{He is the leader of our community, and a true hero. You can always find him at work in the communal hall.}
-{16108}{}{He works with Aradesh to make sure we are safe.}
-{16109}{}{Our doctor. See him if you are hurt.}
+{16100}{}{Ce sont des hors-la-loi qui prétendent que leur groupe existe depuis belle lurette.}
+{16101}{}{C'est le chef des Khans. C'est un des hommes des plus dangereux qui s'en prend aux Sables Ombragés. Il dirige les pillards d'un poing ferme.}
+{16102}{}{C'est au Sud-Ouest, à 4 ou 6 jours d'ici. On fait des bonnes affaires avec eux parfois mais la plupart du temps ils essaient de nous rouler.}
+{16103}{}{C'est ici.}
+{16104}{}{Bien plus au Sud que Dépôtville. Le Centre est la plus grande ville dont j'aie entendu parler. Y'a bien au moins un millier d'habitants.}
+{16105}{}{Désolé, je ne sais pas.}
+{16106}{}{C'est la fille d'Aradesh. Elle nous commandera peut-être un jour mais faut qu'elle apprenne à se contrôler !}
+{16107}{}{C'est le chef de notre communauté. Et un vrai héros. Tu le trouveras sûrement à l'hôtel de ville.}
+{16108}{}{Il travaille avec Aradesh à notre sécurité.}
+{16109}{}{Notre docteur. Va le voir en cas de besoin.}
 {16600}{}{Khans}
 {16601}{}{Garl}
 {16602}{}{Dépôtville}
@@ -1675,33 +1675,33 @@
 {16697}{}{}
 {16698}{}{}
 {16699}{}{}
-{16700}{}{They are a lawless group who pretend to be some people from the far past.}
-{16701}{}{He leads the Khans. He is one of the most dangerous men that has ever set eyes on Shady Sands. He leads the raider clans with a heavy fist.}
-{16702}{}{It's four to six days to the southwest. Good trading occasionally, but more often than not, they try to stiff us.}
-{16703}{}{You're standing in it.}
-{16704}{}{Much farther to the south than Junktown, and not as far west. The Hub is the largest city I've heard about. Must be a thousand people there, at least.}
-{16705}{}{Sorry, I can't help you.}
-{16706}{}{She is the daughter of Aradesh. Some day she could lead us, but she must learn to temper her ways.}
-{16707}{}{He is the leader of our community, and a true hero. You can always find him at work in the communal hall.}
-{16708}{}{He works with Aradesh to make sure we are safe.}
-{16709}{}{Our doctor. See him if you are hurt.}
+{16700}{}{Ce sont des hors-la-loi qui prétendent que leur groupe existe depuis belle lurette.}
+{16701}{}{C'est le chef des Khans. C'est un des hommes des plus dangereux qui s'en prend aux Sables Ombragés. Il dirige les pillards d'un poing ferme.}
+{16702}{}{C'est au Sud-Ouest, à 4 ou 6 jours d'ici. On fait des bonnes affaires avec eux parfois mais la plupart du temps ils essaient de nous rouler.}
+{16703}{}{C'est ici.}
+{16704}{}{Bien plus au Sud que Dépôtville. Le Centre est la plus grande ville dont j'aie entendu parler. Y'a bien au moins un millier d'habitants.}
+{16705}{}{Désolé, je ne sais pas.}
+{16706}{}{C'est la fille d'Aradesh. Elle nous commandera peut-être un jour mais faut qu'elle apprenne à se contrôler !}
+{16707}{}{C'est le chef de notre communauté. Et un vrai héros. Tu le trouveras sûrement à l'hôtel de ville.}
+{16708}{}{Il travaille avec Aradesh à notre sécurité.}
+{16709}{}{Notre docteur. Va le voir en cas de besoin.}
 {17800}{}{Adytum}
-{17801}{}{The Followers}
-{17802}{}{The Cathedral}
-{17803}{}{The Rippers}
-{17804}{}{The Blades}
-{17805}{}{The Gun Runners}
+{17801}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{17802}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{17803}{}{Les Eventreurs|Eventreurs|Eventreur}
+{17804}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{17805}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {17806}{}{The Hub}
 {17807}{}{Dépôtville}
 {17808}{}{Water Chip}
-{17809}{}{Store}
+{17809}{}{Magasin}
 {17810}{}{Zimmerman}
 {17811}{}{Nécropolis}
 {17812}{}{The Glow}
-{17813}{}{The Regulators}
-{17814}{}{The Scavs}
-{17815}{}{The Boneyard}
-{17816}{}{Boneyard}
+{17813}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
+{17814}{}{Fouineurs|Fouineur|Fouines|Fouine}
+{17815}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{17816}{}{Cimetière de L.A.}
 {17817}{}{L.A. Boneyard}
 {17818}{}{}
 {17819}{}{}
@@ -1785,41 +1785,41 @@
 {17897}{}{}
 {17898}{}{}
 {17899}{}{}
-{17900}{}{That's here.}
-{17901}{}{They live north of here.}
-{17902}{}{It's a ways south of us.}
-{17903}{}{They're on the west side.}
-{17904}{}{They're on the east side.}
-{17905}{}{They're past the Followers to the north.}
-{17906}{}{We trade with them.}
-{17907}{}{Isn't that a city north of here?}
-{17908}{}{A what?}
-{17909}{}{Tine's store is underground near the gate.}
-{17910}{}{He's the mayor.}
-{17911}{}{I hear it's out east.}
-{17912}{}{That's a myth.}
-{17913}{}{They protect us.}
-{17914}{}{They go outside to get things.}
-{17915}{}{Are you an idiot? L.A. Boneyard is here; you're in it.}
-{17916}{}{Are you an idiot? L.A. Boneyard is here; you're in it.}
-{17917}{}{Are you an idiot? L.A. Boneyard is here; you're in it.}
+{17900}{}{C'est ici.}
+{17901}{}{Ils vivent au Nord d'ici.}
+{17902}{}{C'est au Sud d'ici.}
+{17903}{}{Ils sont à l'Ouest.}
+{17904}{}{Ils sont à l'Est.}
+{17905}{}{Ils sont au Nord, plus loin que les Disciples.}
+{17906}{}{Nous faisons du commerce avec eux.}
+{17907}{}{N'est-ce pas une ville située au Nord d'ici ?}
+{17908}{}{Quoi ?}
+{17909}{}{Le magasin de Tine est souterrain. Il se trouve près de la porte.}
+{17910}{}{C'est le maire.}
+{17911}{}{J'ai entendu dire que ça se trouvait à l'Est.}
+{17912}{}{C'est un mythe.}
+{17913}{}{Ils nous protègent.}
+{17914}{}{Ils sortent pour récupérer des trucs.}
+{17915}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
+{17916}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
+{17917}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
 {18000}{}{Adytum}
-{18001}{}{The Followers}
-{18002}{}{The Cathedral}
-{18003}{}{The Rippers}
-{18004}{}{The Blades}
-{18005}{}{The Gun Runners}
+{18001}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{18002}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18003}{}{Les Eventreurs|Eventreurs|Eventreur}
+{18004}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{18005}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18006}{}{The Hub}
 {18007}{}{Dépôtville}
 {18008}{}{Water Chip}
-{18009}{}{Store}
+{18009}{}{Magasin}
 {18010}{}{Zimmerman}
 {18011}{}{Nécropolis}
 {18012}{}{The Glow}
-{18013}{}{The Regulators}
-{18014}{}{The Scavs}
-{18015}{}{The Boneyard}
-{18016}{}{Boneyard}
+{18013}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
+{18014}{}{Fouineurs|Fouineur|Fouines|Fouine}
+{18015}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{18016}{}{Cimetière de L.A.}
 {18017}{}{L.A. Boneyard}
 {18018}{}{}
 {18019}{}{}
@@ -1903,41 +1903,41 @@
 {18097}{}{}
 {18098}{}{}
 {18099}{}{}
-{18100}{}{You're in Adytum, outsider.}
-{18101}{}{The Followers live in an old library just to the north. They preach tolerance and peace.}
-{18102}{}{The Cathedral is a ways to the south, by the bay. The Children are a peaceful religion.}
-{18103}{}{They're on the west side. They are very vicious and have lots of traps.}
-{18104}{}{They're on the east side. They use some sort of high-tech knives.}
-{18105}{}{They're past the Followers to the north. They sell weapons to the gangs.}
-{18106}{}{We trade with them. They're the largest city I know of.}
-{18107}{}{They're a small city northeast of us.}
-{18108}{}{Never heard of it.}
-{18109}{}{Tine's store is underground near the gate. He can sell you many supplies.}
-{18110}{}{He's the mayor. He does a good job.}
-{18111}{}{It's a city of the dead, several days to the east.}
-{18112}{}{I hear it's way, way south.}
-{18113}{}{They protect us from the gangs and keep the peace.}
-{18114}{}{They go outside to search for stuff.}
-{18115}{}{Are you an idiot? L.A. Boneyard is here; you're in it.}
-{18116}{}{Are you an idiot? L.A. Boneyard is here; you're in it.}
-{18117}{}{Are you an idiot? L.A. Boneyard is here; you're in it.}
+{18100}{}{T'es au Sanctuaire là, étranger.}
+{18101}{}{Les Disciples vivent dans une vieille bibliothèque, juste au Nord. Ils prêchent la tolérance et la paix.}
+{18102}{}{La Cathédrale se trouve vers le Sud, près de la baie. Les Enfants pratiquent une religion pacifique.}
+{18103}{}{Ils se trouvent à l'Ouest. Ils sont mauvais et ont beaucoup de pièges.}
+{18104}{}{Ils se trouvent à l'Est. Ils se servent d'espèces de couteaux high tech.}
+{18105}{}{Ils sont vers le Nord, plus loin que les Disciples. Ils vendent des armes aux gangs.}
+{18106}{}{On fait du commerce avec eux. A ma connaissance, c'est la plus grande ville.}
+{18107}{}{C'est une petite ville au Nord-Est d'ici.}
+{18108}{}{Jamais entendu parler.}
+{18109}{}{Le magasin de Tine est sous terre, près de l'entrée. Il peut te vendre pas mal de choses.}
+{18110}{}{C'est le maire. Il fait du bon boulot.}
+{18111}{}{C'est une cité des morts, à plusieurs jours vers l'Est.}
+{18112}{}{Il paraît que c'est loin vers le Sud.}
+{18113}{}{Ils nous protègent des bandes et font régner la paix.}
+{18114}{}{Ils sortent quand ils ont besoin de quelque chose.}
+{18115}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
+{18116}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
+{18117}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
 {18200}{}{Adytum}
-{18201}{}{The Followers}
-{18202}{}{The Cathedral}
-{18203}{}{The Rippers}
-{18204}{}{The Blades}
-{18205}{}{The Gun Runners}
+{18201}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{18202}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18203}{}{Les Eventreurs|Eventreurs|Eventreur}
+{18204}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{18205}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18206}{}{The Hub}
 {18207}{}{Dépôtville}
 {18208}{}{Water Chip}
-{18209}{}{Store}
+{18209}{}{Magasin}
 {18210}{}{Zimmerman}
 {18211}{}{Nécropolis}
 {18212}{}{The Glow}
-{18213}{}{The Regulators}
-{18214}{}{The Scavs}
-{18215}{}{The Boneyard}
-{18216}{}{Boneyard}
+{18213}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
+{18214}{}{Fouineurs|Fouineur|Fouines|Fouine}
+{18215}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{18216}{}{Cimetière de L.A.}
 {18217}{}{L.A. Boneyard}
 {18218}{}{}
 {18219}{}{}
@@ -2021,35 +2021,35 @@
 {18297}{}{}
 {18298}{}{}
 {18299}{}{}
-{18300}{}{We're the descendants of an old Vault that used to be under the south side of this city.}
-{18301}{}{The Followers are a learned and peaceful people. They live in an old library north of here.}
-{18302}{}{The Children worship a mysterious Dark God. They seem harmless, but there is something strange about their religion. The Cathedral is south of here.}
-{18303}{}{The Rippers are all inbred. They have a fortified building with traps around it where they take prisoners to be tortured and killed.}
-{18304}{}{The Blades are notorious for their vibro-knives. They are the arch-enemies of the Rippers. Their leader is a woman named Razor.}
-{18305}{}{They used to be a gang, but they set up in a warehouse on the north side and started trading weapons and guns to people.}
-{18306}{}{The Hub is a center of trade and commerce. They have companies that actually produce things. They're east of us.}
-{18307}{}{Junktown is a moderate-sized city east of here and just north of the Hub.}
-{18308}{}{Sorry, can't help you with that.}
-{18309}{}{Tine runs the general store near the front gate. He can sell you weapons and traveling supplies.}
-{18310}{}{Jon is our mayor. He makes trade agreements, dictates policy, and delegates responsibility to the Regulators and the scavs.}
-{18311}{}{The city of the dead? It's supposedly a place inhabited by strange cannibals far to the east. I wouldn't visit there if I were you.}
-{18312}{}{It's a big radioactive place far, far to the south, or so I'm told.}
-{18313}{}{They're the police force of Adytum. They protect us from the gangs. Caleb is the leader.}
-{18314}{}{The scavs have the job of searching the Boneyard for valuable equipment. They are led by Sammael.}
-{18315}{}{The Angel's Boneyard is the remains of the old city of Los Angeles. We're in the middle of the Boneyard.}
-{18316}{}{The Angel's Boneyard is the remains of the old city of Los Angeles. We're in the middle of the Boneyard.}
-{18317}{}{The Angel's Boneyard is the remains of the old city of Los Angeles. We're in the middle of the Boneyard.}
+{18300}{}{Nous sommes les descendants d'un ancien Abri qui se trouvait autrefois au Sud de la ville.}
+{18301}{}{Les Disciples sont des gens savants et pacifiques. Ils vivent dans une vieille bibliothèque, au Nord d'ici.}
+{18302}{}{Les Enfants vénèrent un mystérieux Dieu des Ténèbres. Ils ont l'air inoffensif, mais leur religion n'est pas orthodoxe ! La Cathédrale se trouve au Sud d'ici.}
+{18303}{}{Les Eventreurs sont tous des consanguins. Ils ont une sorte de forteresse entourée de pièges où les prisonniers sont torturés et mis à mort.}
+{18304}{}{Les Ecorcheurs sont connus pour leurs vibro-lames. Ce sont les ennemis jurés des Eventreurs. Leur chef est une femme nommée Razor.}
+{18305}{}{Avant, ils formaient un gang, mais ils sont maintenant installés dans un entrepôt, au Nord, pour vendre des armes.}
+{18306}{}{Le Centre est le pivot commercial. En fait, ils ont des sociétés qui fabriquent des marchandises. Ils sont à l'Est d'ici.}
+{18307}{}{Dépôtville, c'est une ville de taille moyenne située à l'Est, juste au Nord du centre.}
+{18308}{}{Je regrette, je peux rien faire pour toi.}
+{18309}{}{Tine tient le grand magasin près de l'entrée. Il peut te vendre des armes et ce qu'il faut pour voyager.}
+{18310}{}{Jon est notre maire. Il passe des accords commerciaux, régit la politique et délègue ses responsabilités aux Régulateurs et aux Fouineurs.}
+{18311}{}{La cité des morts ? On dit que c'est un lieu habité par d'étranges cannibales, complètement à l'Est. A ta place, je m'y risquerais pas.}
+{18312}{}{A ce qu'on m'a dit, c'est un grand endroit radioactif, tout au Sud.}
+{18313}{}{C'est la police du Sanctuaire. Ils nous protègent des gangs. Caleb en est le chef.}
+{18314}{}{Les Fouineurs sont chargés d'explorer le Cimetière à la recherche d'équipements précieux. Ils sont commandés par Sammael.}
+{18315}{}{Le Cimetière de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du Cimetière.}
+{18316}{}{Le Cimetière de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du Cimetière.}
+{18317}{}{Le Cimetière de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du Cimetière.}
 {18400}{}{Adytum}
-{18401}{}{The Followers}
-{18402}{}{The Cathedral}
-{18403}{}{The Rippers}
-{18404}{}{The Blades}
-{18405}{}{The Gun Runners}
+{18401}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{18402}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18403}{}{Les Eventreurs|Eventreurs|Eventreur}
+{18404}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{18405}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18406}{}{The Hub}
 {18407}{}{Dépôtville}
 {18408}{}{Water Chip}
 {18409}{}{Nicole}
-{18410}{}{The Boneyard}
+{18410}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {18411}{}{}
 {18412}{}{}
 {18413}{}{}
@@ -2139,28 +2139,28 @@
 {18497}{}{}
 {18498}{}{}
 {18499}{}{}
-{18500}{}{It's a village south of here.}
-{18501}{}{We are the Followers of the Apocalypse.}
-{18502}{}{A cult to the south, past Adytum.}
-{18503}{}{A gang to the west.}
-{18504}{}{A gang to the east.}
-{18505}{}{A gang to the north.}
-{18506}{}{A big trading city to the northeast.}
-{18507}{}{A medium-sized city north of the Hub.}
-{18508}{}{Can't help you, sorry.}
-{18509}{}{She's our leader.}
-{18510}{}{This is the Boneyard.}
+{18500}{}{C'est un village au Sud d'ici.}
+{18501}{}{Nous sommes les Disciples de l'Apocalypse.}
+{18502}{}{C'est un culte, vers le Sud, après le Sanctuaire.}
+{18503}{}{Un gang vers l'Ouest.}
+{18504}{}{Un gang vers l'Est.}
+{18505}{}{Un gang vers le Nord.}
+{18506}{}{Une grosse ville marchande vers le Nord-Est.}
+{18507}{}{Une ville de taille moyenne, au Nord du Centre.}
+{18508}{}{Je regrette, je ne peux rien pour toi.}
+{18509}{}{C'est notre chef.}
+{18510}{}{C'est ici.}
 {18600}{}{Adytum}
-{18601}{}{The Followers}
-{18602}{}{The Cathedral}
-{18603}{}{The Rippers}
-{18604}{}{The Blades}
-{18605}{}{The Gun Runners}
+{18601}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{18602}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18603}{}{Les Eventreurs|Eventreurs|Eventreur}
+{18604}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{18605}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18606}{}{The Hub}
 {18607}{}{Dépôtville}
 {18608}{}{Water Chip}
 {18609}{}{Nicole}
-{18610}{}{The Boneyard}
+{18610}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {18611}{}{}
 {18612}{}{}
 {18613}{}{}
@@ -2250,28 +2250,28 @@
 {18697}{}{}
 {18698}{}{}
 {18699}{}{}
-{18700}{}{A small town to the south. Occasionally some of them visit.}
-{18701}{}{We are the Followers of the Apocalypse. We take this name because we come after the storm of war, to bring the balm of peace.}
-{18702}{}{A strange cult south of Adytum and the rest of the Boneyard. Nicole says that they are up to something.}
-{18703}{}{An ultra-violent gang to our west.}
-{18704}{}{A gang to the east. They use vibro-knives.}
-{18705}{}{A gang that came from the Hub, and sells guns. They are north of here.}
-{18706}{}{The Hub is a large city of traders and businesses, to the east.}
-{18707}{}{Junktown is a small city just north of the Hub.}
-{18708}{}{I can't help you with that.}
-{18709}{}{She is our leader. She has a vision to restore peace to a factionalized world.}
-{18710}{}{This place is the Angel's Boneyard, the remnants of the old city of Los Angeles.}
+{18700}{}{Une petite ville vers le Sud. Ca leur arrive de nous rendre visite.}
+{18701}{}{Nous sommes les Disciples de l'Apocalypse. On s'appelle comme ça parce qu'on arrive après la tempête de la guerre pour apporter le baume de la paix.}
+{18702}{}{Un culte étrange, au Sud du Sanctuaire et du reste du Cimetière. Nicole dit qu'ils mijotent quelque chose.}
+{18703}{}{Un gang super-violent, à l'Ouest d'ici.}
+{18704}{}{Un gang qui sévit vers l'Est. Ils utilisent des vibro-lames.}
+{18705}{}{Un gang venu du Centre et qui vend des fusils. Ils sont au Nord d'ici.}
+{18706}{}{Le Centre est une grande ville marchande, vers l'Est.}
+{18707}{}{Dépôtville est une petite ville, juste au Nord du Centre.}
+{18708}{}{Pour ça, je peux rien pour toi.}
+{18709}{}{C'est notre chef. Son ambition est de restaurer la paix dans un monde en discorde.}
+{18710}{}{Ici, c'est le Cimetière de L'Os Angeles, les restes de l'ancienne ville de Los Angeles.}
 {18800}{}{Adytum}
-{18801}{}{The Followers}
-{18802}{}{The Cathedral}
-{18803}{}{The Rippers}
-{18804}{}{The Blades}
-{18805}{}{The Gun Runners}
+{18801}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{18802}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18803}{}{Les Eventreurs|Eventreurs|Eventreur}
+{18804}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{18805}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18806}{}{The Hub}
 {18807}{}{Dépôtville}
 {18808}{}{Water Chip}
 {18809}{}{Nicole}
-{18810}{}{The Boneyard}
+{18810}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {18811}{}{}
 {18812}{}{}
 {18813}{}{}
@@ -2361,25 +2361,25 @@
 {18897}{}{}
 {18898}{}{}
 {18899}{}{}
-{18900}{}{A small town to the south. They are good people, if a trifle paranoid. Some of them work with us from time to time.}
-{18901}{}{We are the Followers of the Apocalypse. It is our duty to bring peace and learning once again to the world, and to make sure that the weapons of war never again scar the earth.}
-{18902}{}{The Cathedral is a great building south of the Boneyard. The Children are a cult worshipping a dark and evil god. They must be stopped before they spread their religion through violence.}
-{18903}{}{Inbreds and jackals. They attack anything in sight that isn't related to them. They live west of here in a fortress surrounded by traps.}
-{18904}{}{A singularly dangerous group living to the east, who fight with vibro-knives. Their leader, Razor, came from the Hub and molded them into a fierce family.}
-{18905}{}{They are a gang living in a warehouse to the north, inside a moat of radioactive sludge. They sell guns to the other gangs.}
-{18906}{}{The Hub is a vast mercantile city far to the east of us. They send caravans to many places, including Adytum.}
-{18907}{}{It's a small city north of the Hub. I'm told it's a good place to stop for the weary traveler.}
-{18908}{}{Although I've read about Vault technology, it's a little beyond me.}
-{18909}{}{Nicole is our leader. She's compelled by insight and spirituality to bring peace to a world broken by war.}
-{18910}{}{This is the heart of the Angel's Boneyard, named for the old city of Los Angeles, and for the skeletons of the dead that littered the place after the Bomb.}
-{19000}{}{Master}
+{18900}{}{Une petite ville vers le Sud. De braves gens, bien qu'un peu paranoïaques. Y'en a qui travaillent avec nous de temps en temps.}
+{18901}{}{Nous sommes les Disciples de l'Apocalypse. Notre mission est de rapporter la paix et le savoir au monde, et de veiller à ce que les armes de guerre ne lacèrent plus jamais la terre.}
+{18902}{}{La Cathédrale est un grand bâtiment au Sud du Cimetière. Les Enfants vénèrent un dieu sombre et maléfique. Il faut les arrêter avant qu'ils ne propagent leur religion par la violence.}
+{18903}{}{Des consanguins et des chacals. Ils attaquent tout ce qui bouge. Ils vivent à l'Ouest d'ici, dans un forteresse entourée de pièges.}
+{18904}{}{Un groupe particulièrement dangereux qui vit vers l'Est, et qui combat avec des vibro-lames. Son chef, Razor, vient du Centre; elle a fait d'eux une famille cruelle.}
+{18905}{}{C'est un gang qui vit dans un entrepôt, vers le Nord, à l'intérieur d'un fossé rempli de boue radioactive. Ils vendent des fusils aux autres bandes.}
+{18906}{}{Le Centre est une grande ville mercantile, à l'Est d'ici. Ils expédient des caravanes vers un tas d'endroits, y compris le Sanctuaire.}
+{18907}{}{C'est une petite ville au Nord du Centre. Il paraît que c'est un lieu accueillant pour le voyageur fatigué.}
+{18908}{}{J'ai bien lu des choses sur la technologie des Abris, mais ça me dépasse un peu.}
+{18909}{}{Nicole est notre chef. Son ambition est d'apporter la paix - par la clairvoyance et la spiritualité - dans un monde brisé par la guerre.}
+{18910}{}{Ici c'est le coeur du Cimetière de L'Os Angeles, qui doit son nom à l'ancienne ville de Los Angeles et aux squelettes qui jonchaient cet endroit après la Bombe.}
+{19000}{}{Maître}
 {19001}{}{Lieutenant}
 {19002}{}{Children of the Cathedral}
 {19003}{}{Followers of the Apocalypse}
 {19004}{}{Nightkin}
 {19005}{}{Super Mutants}
-{19006}{}{Psychics}
-{19007}{}{Experiments}
+{19006}{}{Médiums}
+{19007}{}{Expériences}
 {19008}{}{Water Chip}
 {19009}{}{}
 {19010}{}{}
@@ -2481,14 +2481,14 @@
 {19106}{}{You are too foolish to know of them.}
 {19107}{}{You are not authorized to know of them.}
 {19108}{}{Do not bother me about toys.}
-{19600}{}{Master}
+{19600}{}{Maître}
 {19601}{}{Lieutenant}
 {19602}{}{Children of the Cathedral}
 {19603}{}{Followers of the Apocalypse}
 {19604}{}{Nightkin}
 {19605}{}{Super Mutants}
-{19606}{}{Psychics}
-{19607}{}{Experiments}
+{19606}{}{Médiums}
+{19607}{}{Expériences}
 {19608}{}{Water Chip}
 {19609}{}{}
 {19610}{}{}
@@ -2590,14 +2590,14 @@
 {19706}{}{You are too foolish to know of them.}
 {19707}{}{You are not authorized to know of them.}
 {19708}{}{Do not bother me about toys.}
-{20200}{}{Master}
+{20200}{}{Maître}
 {20201}{}{Lieutenant}
 {20202}{}{Children of the Cathedral}
 {20203}{}{Followers of the Apocalypse}
 {20204}{}{Nightkin}
 {20205}{}{Super Mutants}
-{20206}{}{Psychics}
-{20207}{}{Experiments}
+{20206}{}{Médiums}
+{20207}{}{Expériences}
 {20208}{}{Water Chip}
 {20209}{}{}
 {20210}{}{}
@@ -2699,14 +2699,14 @@
 {20306}{}{You are too foolish to know of them.}
 {20307}{}{You are not authorized to know of them.}
 {20308}{}{Do not bother me about toys.}
-{20800}{}{Master}
+{20800}{}{Maître}
 {20801}{}{Lieutenant}
 {20802}{}{Children of the Cathedral}
 {20803}{}{Followers of the Apocalypse}
 {20804}{}{Nightkin}
 {20805}{}{Super Mutants}
-{20806}{}{Psychics}
-{20807}{}{Experiments}
+{20806}{}{Médiums}
+{20807}{}{Expériences}
 {20808}{}{Water Chip}
 {20809}{}{}
 {20810}{}{}
@@ -2808,14 +2808,14 @@
 {20906}{}{You are too foolish to know of them.}
 {20907}{}{You are not authorized to know of them.}
 {20908}{}{Do not bother me about toys.}
-{21400}{}{Master}
+{21400}{}{Maître}
 {21401}{}{Lieutenant}
 {21402}{}{Children of the Cathedral}
 {21403}{}{Followers of the Apocalypse}
 {21404}{}{Nightkin}
 {21405}{}{Super Mutants}
-{21406}{}{Psychics}
-{21407}{}{Experiments}
+{21406}{}{Médiums}
+{21407}{}{Expériences}
 {21408}{}{Water Chip}
 {21409}{}{}
 {21410}{}{}
@@ -2918,20 +2918,20 @@
 {21507}{}{You are not authorized to know of them.}
 {21508}{}{Do not bother me about toys.}
 {22600}{}{Police}
-{22601}{}{Water Merchants}
-{22602}{}{Crimson Caravans}
-{22603}{}{Far Go Traders}
+{22601}{}{Marchands d'Eau|Marchands|Marchand|Eau}
+{22602}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
+{22603}{}{Abri13}
 {22604}{}{Children of the Cathedral}
 {22605}{}{Nécropolis}
-{22606}{}{Hot Spot}
+{22606}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
 {22607}{}{Dépôtville}
-{22608}{}{Brotherhood of Steel}
+{22608}{}{Confrérie de l'Acier}
 {22609}{}{Sables Ombragés}
-{22610}{}{Boneyard}
-{22611}{}{Water Tower}
+{22610}{}{Cimetière de L.A.}
+{22611}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {22612}{}{Old Town}
 {22613}{}{Downtown}
-{22614}{}{The Heights}
+{22614}{}{Les Hauteurs|Hauteurs|Hauteur}
 {22615}{}{Deathclaw}
 {22616}{}{Water Chip}
 {22617}{}{}
@@ -3017,38 +3017,38 @@
 {22697}{}{}
 {22698}{}{}
 {22699}{}{}
-{22700}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
-{22701}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
-{22702}{}{A crazed group of traders who take great risks in order to get to the top.}
-{22703}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
-{22704}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
-{22705}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
-{22706}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
-{22707}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
-{22708}{}{That place is the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
-{22709}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
-{22710}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
-{22711}{}{Those store the water for the Hub. The Water Merchants control the towers.}
-{22712}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
-{22713}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
-{22714}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
-{22715}{}{A myth to scare little children into behaving.}
-{22716}{}{I don't know anything about that.}
+{22700}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
+{22701}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{22702}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
+{22703}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
+{22704}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
+{22705}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
+{22706}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
+{22707}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
+{22708}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
+{22709}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{22710}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{22711}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
+{22712}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
+{22713}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{22714}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{22715}{}{Une légende pour intimider les gosses.}
+{22716}{}{Je vois pas de quoi tu parles.}
 {23800}{}{Police}
-{23801}{}{Water Merchants}
-{23802}{}{Crimson Caravans}
-{23803}{}{Far Go Traders}
+{23801}{}{Marchands d'Eau|Marchands|Marchand|Eau}
+{23802}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
+{23803}{}{Abri13}
 {23804}{}{Children of the Cathedral}
 {23805}{}{Nécropolis}
-{23806}{}{Hot Spot}
+{23806}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
 {23807}{}{Dépôtville}
-{23808}{}{Brotherhood of Steel}
+{23808}{}{Confrérie de l'Acier}
 {23809}{}{Sables Ombragés}
-{23810}{}{Boneyard}
-{23811}{}{Water Tower}
+{23810}{}{Cimetière de L.A.}
+{23811}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {23812}{}{Old Town}
 {23813}{}{Downtown}
-{23814}{}{The Heights}
+{23814}{}{Les Hauteurs|Hauteurs|Hauteur}
 {23815}{}{Deathclaw}
 {23816}{}{Water Chip}
 {23817}{}{}
@@ -3134,38 +3134,38 @@
 {23897}{}{}
 {23898}{}{}
 {23899}{}{}
-{23900}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
-{23901}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
-{23902}{}{A crazed group of traders who take great risks in order to get to the top.}
-{23903}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
-{23904}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
-{23905}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
-{23906}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
-{23907}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
-{23908}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
-{23909}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
-{23910}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
-{23911}{}{Those store the water for the Hub. The Water Merchants control the towers.}
-{23912}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
-{23913}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
-{23914}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
-{23915}{}{A myth to scare little children into behaving.}
-{23916}{}{I don't know anything about that.}
+{23900}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
+{23901}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{23902}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
+{23903}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
+{23904}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
+{23905}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
+{23906}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
+{23907}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
+{23908}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
+{23909}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{23910}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{23911}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
+{23912}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
+{23913}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{23914}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{23915}{}{Une légende pour intimider les gosses.}
+{23916}{}{Je vois pas de quoi tu parles.}
 {24400}{}{Police}
-{24401}{}{Water Merchants}
-{24402}{}{Crimson Caravans}
-{24403}{}{Far Go Traders}
+{24401}{}{Marchands d'Eau|Marchands|Marchand|Eau}
+{24402}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
+{24403}{}{Abri13}
 {24404}{}{Children of the Cathedral}
 {24405}{}{Nécropolis}
-{24406}{}{Hot Spot}
+{24406}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
 {24407}{}{Dépôtville}
-{24408}{}{Brotherhood of Steel}
+{24408}{}{Confrérie de l'Acier}
 {24409}{}{Sables Ombragés}
-{24410}{}{Boneyard}
-{24411}{}{Water Tower}
+{24410}{}{Cimetière de L.A.}
+{24411}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {24412}{}{Old Town}
 {24413}{}{Downtown}
-{24414}{}{The Heights}
+{24414}{}{Les Hauteurs|Hauteurs|Hauteur}
 {24415}{}{Deathclaw}
 {24416}{}{Water Chip}
 {24417}{}{}
@@ -3251,38 +3251,38 @@
 {24497}{}{}
 {24498}{}{}
 {24499}{}{}
-{24500}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
-{24501}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
-{24502}{}{A crazed group of traders who take great risks in order to get to the top.}
-{24503}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
-{24504}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
-{24505}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
-{24506}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
-{24507}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
-{24508}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
-{24509}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
-{24510}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
-{24511}{}{Those store the water for the Hub. The Water Merchants control the towers.}
-{24512}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
-{24513}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
-{24514}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
-{24515}{}{A myth to scare little children into behaving.}
-{24516}{}{I don't know anything about that.}
+{24500}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
+{24501}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{24502}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
+{24503}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
+{24504}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
+{24505}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
+{24506}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
+{24507}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
+{24508}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
+{24509}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{24510}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{24511}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
+{24512}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
+{24513}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{24514}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{24515}{}{Une légende pour intimider les gosses.}
+{24516}{}{Je vois pas de quoi tu parles.}
 {25000}{}{Police}
-{25001}{}{Water Merchants}
-{25002}{}{Crimson Caravans}
-{25003}{}{Far Go Traders}
+{25001}{}{Marchands d'Eau|Marchands|Marchand|Eau}
+{25002}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
+{25003}{}{Abri13}
 {25004}{}{Children of the Cathedral}
 {25005}{}{Nécropolis}
-{25006}{}{Hot Spot}
+{25006}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
 {25007}{}{Dépôtville}
-{25008}{}{Brotherhood of Steel}
+{25008}{}{Confrérie de l'Acier}
 {25009}{}{Sables Ombragés}
-{25010}{}{Boneyard}
-{25011}{}{Water Tower}
+{25010}{}{Cimetière de L.A.}
+{25011}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {25012}{}{Old Town}
 {25013}{}{Downtown}
-{25014}{}{The Heights}
+{25014}{}{Les Hauteurs|Hauteurs|Hauteur}
 {25015}{}{Deathclaw}
 {25016}{}{Water Chip}
 {25017}{}{}
@@ -3368,38 +3368,38 @@
 {25097}{}{}
 {25098}{}{}
 {25099}{}{}
-{25100}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
-{25101}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
-{25102}{}{A crazed group of traders who take great risks in order to get to the top.}
-{25103}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
-{25104}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
-{25105}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
-{25106}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
-{25107}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
-{25108}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
-{25109}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
-{25110}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
-{25111}{}{Those store the water for the Hub. The Water Merchants control the towers.}
-{25112}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
-{25113}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
-{25114}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
-{25115}{}{A myth to scare little children into behaving.}
-{25116}{}{I don't know anything about that.}
+{25100}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
+{25101}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{25102}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
+{25103}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
+{25104}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
+{25105}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
+{25106}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
+{25107}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
+{25108}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
+{25109}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{25110}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{25111}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
+{25112}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
+{25113}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{25114}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{25115}{}{Une légende pour intimider les gosses.}
+{25116}{}{Je vois pas de quoi tu parles.}
 {25600}{}{Police}
-{25601}{}{Water Merchants}
-{25602}{}{Crimson Caravans}
-{25603}{}{Far Go Traders}
+{25601}{}{Marchands d'Eau|Marchands|Marchand|Eau}
+{25602}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
+{25603}{}{Abri13}
 {25604}{}{Children of the Cathedral}
 {25605}{}{Nécropolis}
-{25606}{}{Hot Spot}
+{25606}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
 {25607}{}{Dépôtville}
-{25608}{}{Brotherhood of Steel}
+{25608}{}{Confrérie de l'Acier}
 {25609}{}{Sables Ombragés}
-{25610}{}{Boneyard}
-{25611}{}{Water Tower}
+{25610}{}{Cimetière de L.A.}
+{25611}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {25612}{}{Old Town}
 {25613}{}{Downtown}
-{25614}{}{The Heights}
+{25614}{}{Les Hauteurs|Hauteurs|Hauteur}
 {25615}{}{Deathclaw}
 {25616}{}{Water Chip}
 {25617}{}{}
@@ -3485,36 +3485,36 @@
 {25697}{}{}
 {25698}{}{}
 {25699}{}{}
-{25700}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
-{25701}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
-{25702}{}{A crazed group of traders who take great risks in order to get to the top.}
-{25703}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
-{25704}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
-{25705}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
-{25706}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
-{25707}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
-{25708}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
-{25709}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
-{25710}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
-{25711}{}{Those store the water for the Hub. The Water Merchants control the towers.}
-{25712}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
-{25713}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
-{25714}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
-{25715}{}{A myth to scare little children into behaving.}
-{25716}{}{I don't know anything about that.}
+{25700}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
+{25701}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{25702}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
+{25703}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
+{25704}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
+{25705}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
+{25706}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
+{25707}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
+{25708}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
+{25709}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{25710}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{25711}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
+{25712}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
+{25713}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{25714}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{25715}{}{Une légende pour intimider les gosses.}
+{25716}{}{Je vois pas de quoi tu parles.}
 {27400}{}{Adytum}
-{27401}{}{The Followers}
-{27402}{}{The Cathedral}
-{27403}{}{The Rippers}
-{27404}{}{The Blades}
-{27405}{}{The Gun Runners}
+{27401}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{27402}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{27403}{}{Les Eventreurs|Eventreurs|Eventreur}
+{27404}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{27405}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {27406}{}{The Hub}
 {27407}{}{Dépôtville}
 {27408}{}{Water Chip}
 {27409}{}{Razor}
 {27410}{}{Nécropolis}
 {27411}{}{The Glow}
-{27412}{}{The Boneyard}
+{27412}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {27413}{}{}
 {27414}{}{}
 {27415}{}{}
@@ -3602,32 +3602,32 @@
 {27497}{}{}
 {27498}{}{}
 {27499}{}{}
-{27500}{}{They're a town to the west.}
-{27501}{}{A bunch of wimps.}
-{27502}{}{Religious nuts.}
-{27503}{}{Our sworn enemies!}
-{27504}{}{That's us!}
-{27505}{}{They sell guns to us sometimes.}
-{27506}{}{I think it's a trading place.}
-{27507}{}{Never heard of it.}
-{27508}{}{A what?}
-{27509}{}{She's our leader, the most bad-ass bitch in town!}
-{27510}{}{Necro- what? That's sick.}
-{27511}{}{You're kidding, right?}
-{27512}{}{This is the Boneyard.}
+{27500}{}{Ils sont dans une ville à l'Ouest.}
+{27501}{}{Une bande de mauviettes.}
+{27502}{}{Des cinglés du bénitier.}
+{27503}{}{Nos ennemis jurés !}
+{27504}{}{C'est nous !}
+{27505}{}{Ca leur arrive de nous vendre des armes.}
+{27506}{}{Je crois que c'est un centre marchand.}
+{27507}{}{Jamais entendu parler.}
+{27508}{}{Quoi ?}
+{27509}{}{C'est notre chef, la plus grosse emmerdeuse de la ville !}
+{27510}{}{Nécro... quoi ? C'est macabre.}
+{27511}{}{Tu rigoles, non ?}
+{27512}{}{C'est ici.}
 {27600}{}{Adytum}
-{27601}{}{The Followers}
-{27602}{}{The Cathedral}
-{27603}{}{The Rippers}
-{27604}{}{The Blades}
-{27605}{}{The Gun Runners}
+{27601}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{27602}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{27603}{}{Les Eventreurs|Eventreurs|Eventreur}
+{27604}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{27605}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {27606}{}{The Hub}
 {27607}{}{Dépôtville}
 {27608}{}{Water Chip}
 {27609}{}{Razor}
 {27610}{}{Nécropolis}
 {27611}{}{The Glow}
-{27612}{}{The Boneyard}
+{27612}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {27613}{}{}
 {27614}{}{}
 {27615}{}{}
@@ -3715,32 +3715,32 @@
 {27697}{}{}
 {27698}{}{}
 {27699}{}{}
-{27700}{}{They are a village of weaklings to the southwest.}
-{27701}{}{Pathetic peace-preachers to the west. We'd crush them if we weren't busy fighting the Rippers.}
-{27702}{}{Religious freaks. Harmless and useless.}
-{27703}{}{Our arch-enemies to the west will be crushed soon!}
-{27704}{}{We are the Blades! Never forget it!}
-{27705}{}{They were once a gang, but they became soft. They do sell good guns, though.}
-{27706}{}{Traders and merchants.}
-{27707}{}{I've heard of that place, but not anything about it.}
-{27708}{}{A what?}
-{27709}{}{Razor is the most accomplished fighter of us all. She will lead us to victory.}
-{27710}{}{That's some story about a city of cannibals, used to frighten children.}
-{27711}{}{Must be where a nuke hit.}
-{27712}{}{This is the Boneyard.}
+{27700}{}{C'est un village de poules mouillées, au Sud-Ouest.}
+{27701}{}{Des pauvres types qui prêchent la paix, à l'Ouest. On les écrabouillerait s'il ne fallait pas aussi s'occuper des Eventreurs.}
+{27702}{}{Des fanas religieux. Inoffensifs et bons à rien !}
+{27703}{}{Nos ennemis jurés, à l'Ouest. Ils vont pas tarder à mourrir !}
+{27704}{}{C'est nous les Ecorcheurs ! N'oublie jamais ça !}
+{27705}{}{Autrefois, c'était un gang, mais ils se sont calmés. Enfin, y'a pas à tortiller, ils vendent de bons fusils.}
+{27706}{}{Des marchands.}
+{27707}{}{Je sais que l'endroit existe, mais c'est tout.}
+{27708}{}{Quoi ?}
+{27709}{}{Razor est la plus valeureuse d'entre nous. Elle nous conduira à la victoire.}
+{27710}{}{C'est une histoire de ville de cannibales, qu'on raconte aux enfants pour les impressionner.}
+{27711}{}{Ca doit être l'endroit où est tombée une tête nucléaire.}
+{27712}{}{C'est ici.}
 {27800}{}{Adytum}
-{27801}{}{The Followers}
-{27802}{}{The Cathedral}
-{27803}{}{The Rippers}
-{27804}{}{The Blades}
-{27805}{}{The Gun Runners}
+{27801}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{27802}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{27803}{}{Les Eventreurs|Eventreurs|Eventreur}
+{27804}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{27805}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {27806}{}{The Hub}
 {27807}{}{Dépôtville}
 {27808}{}{Water Chip}
 {27809}{}{Razor}
 {27810}{}{Nécropolis}
 {27811}{}{The Glow}
-{27812}{}{The Boneyard}
+{27812}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {27813}{}{}
 {27814}{}{}
 {27815}{}{}
@@ -3828,29 +3828,29 @@
 {27897}{}{}
 {27898}{}{}
 {27899}{}{}
-{27900}{}{Don't be fooled. Adytum looks like a little village, but their Regulators are tough.}
-{27901}{}{Hmph. Don't get me started. They don't have the stomach or courage to fight.}
-{27902}{}{They're cultists in a big church to the south. They seem harmless but something weird is going on there.}
-{27903}{}{The Rippers are like mangy dogs - vicious, inbred, and stupid.}
-{27904}{}{See my blade? We make these ourselves. Every one of use makes his own. Hence our name.}
-{27905}{}{They came down from the Hub looking for turf, but they decided to become salesmen instead of warriors.}
-{27906}{}{That's a trading city to the east. Merchants from there come here sometimes to trade with Adytum and the Gun Runners.}
-{27907}{}{I think it's northeast of here. It's a small city.}
-{27908}{}{A what?}
-{27909}{}{Razor is our leader and champion. I have no doubt that her experience will grant us victory at last over those Rippers.}
-{27910}{}{Far east of here. Supposedly, ghouls that eat human flesh live there. I wouldn't want to fight the ghouls.}
-{27911}{}{That's supposed to be the ruins of some place that got hit straight-on by a nuke. I think it's way to the south.}
-{27912}{}{This is the Boneyard.}
+{27900}{}{T'y trompe pas. Le Sanctuaire a l'air d'un petit village, mais ses Régulateurs ne rigolent pas.}
+{27901}{}{Hum, m'en parle pas ! Trop lâches pour se battre.}
+{27902}{}{Ils pratiquent un culte dans une grande église, au Sud. Ils ont l'air inoffensifs mais c'est quand même un endroit louche.}
+{27903}{}{Les Eventreurs, une bande de chiens galeux: tous hargneux, consanguins et idiots.}
+{27904}{}{T'as vu cette lame ? On les fabrique nous-mêmes; chacun la sienne. D'où notre nom.}
+{27905}{}{Ils sont venus du Centre pour se chercher un territoire, et finalement, ils ont décidé de se faire marchands plutôt que guerriers.}
+{27906}{}{C'est une ville commerçante, vers l'Est. Les Marchands viennent parfois ici pour commercer avec le Sanctuaire et les Contrebandiers.}
+{27907}{}{Je crois que c'est au Nord-Est d'ici. Une petite ville.}
+{27908}{}{Quoi ?}
+{27909}{}{Razor est notre chef et notre championne. J'ai la certitude que grâce à son expérience, nous finirons pas vaincre ces Eventreurs.}
+{27910}{}{Loin à l'Est d'ici. Il paraît qu'il y a des Goules qui mangent de la chair humaine. Je ne voudrais pas me battre avec eux.}
+{27911}{}{Ce serait, paraît-il, les ruines d'un endroit frappé de plein fouet par une tête nucléaire. Vers le Sud, je crois.}
+{27912}{}{C'est ici.}
 {28600}{}{Adytum}
-{28601}{}{The Followers}
-{28602}{}{The Cathedral}
-{28603}{}{The Rippers}
-{28604}{}{The Blades}
-{28605}{}{The Gun Runners}
+{28601}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{28602}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{28603}{}{Les Eventreurs|Eventreurs|Eventreur}
+{28604}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{28605}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {28606}{}{The Hub}
 {28607}{}{Dépôtville}
 {28608}{}{Water Chip}
-{28609}{}{The Boneyard}
+{28609}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {28610}{}{}
 {28611}{}{}
 {28612}{}{}
@@ -3941,26 +3941,26 @@
 {28697}{}{}
 {28698}{}{}
 {28699}{}{}
-{28700}{}{A small village south of here.}
-{28701}{}{A group of hippies to the south.}
-{28702}{}{Do you mean those guys in the brown robes?}
-{28703}{}{Hair-trigger gang to the west.}
-{28704}{}{Sneaky gang to the east.}
-{28705}{}{Yeah? What?}
-{28706}{}{We buy guns from them and sell 'em direct to you!}
-{28707}{}{Yeah, small city north of the Hub.}
-{28708}{}{A what?}
-{28709}{}{This is the Boneyard.}
+{28700}{}{Un petit village au Sud d'ici.}
+{28701}{}{Une bande de hippies, vers le Sud.}
+{28702}{}{Tu veux parler de ces mecs habillés en robes marron ?}
+{28703}{}{Une bande à la gâchette facile, à l'Ouest.}
+{28704}{}{Une bande de sournois, à l'Est.}
+{28705}{}{Ah, ouais ? Quoi ?}
+{28706}{}{On leur achète des fusils et on vous les vend directement !}
+{28707}{}{Ouais, une petite ville au Nord du Centre.}
+{28708}{}{Quoi ?}
+{28709}{}{C'est ici.}
 {28800}{}{Adytum}
-{28801}{}{The Followers}
-{28802}{}{The Cathedral}
-{28803}{}{The Rippers}
-{28804}{}{The Blades}
-{28805}{}{The Gun Runners}
+{28801}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{28802}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{28803}{}{Les Eventreurs|Eventreurs|Eventreur}
+{28804}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{28805}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {28806}{}{The Hub}
 {28807}{}{Dépôtville}
 {28808}{}{Water Chip}
-{28809}{}{The Boneyard}
+{28809}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {28810}{}{}
 {28811}{}{}
 {28812}{}{}
@@ -4051,26 +4051,26 @@
 {28897}{}{}
 {28898}{}{}
 {28899}{}{}
-{28900}{}{That's a small village to the south. They're pretty well fortified.}
-{28901}{}{A group of peace-lovers hiding out south of here. We should just get rid of them.}
-{28902}{}{Oh yeah, those crazy old monks. They're nuts. Their big church is south of the Boneyard.}
-{28903}{}{Hey, they may be stupid, but they sure buy a lot of guns!}
-{28904}{}{They always use those weird vibro-knives that they make. I'd like to get my hands on one. But at least they buy some guns, too.}
-{28905}{}{You're talking to us.}
-{28906}{}{It's a big trading center back east. We trade with Hub merchants to buy and sell weapons and armor.}
-{28907}{}{A small town north of the Hub. Kinda strict.}
-{28908}{}{Never heard of that.}
-{28909}{}{We're in the north side of the Boneyard.}
+{28900}{}{C'est un petit village vers le Sud. Ils sont assez bien fortifiés.}
+{28901}{}{Une bande de pacifistes qui se terre au Sud d'ici. On devrait se débarrasser d'eux.}
+{28902}{}{Oh ouais, ces moines complètement givrés. Leur grande église se trouve au Sud du Cimetière.}
+{28903}{}{Eh, ils sont peut-être idiots mais en tout cas, ils achètent des quantités de fusils !}
+{28904}{}{Ils utilisent toujours ces étranges vibro-lames faits-maison. J'aimerais bien en avoir un en main. Enfin, au moins, ils achètent aussi des fusils !}
+{28905}{}{C'est à nous que tu parles.}
+{28906}{}{C'est un gros centre marchand, vers l'Est. On traite avec les marchands du Centre pour acheter et vendre des armes et des armures.}
+{28907}{}{Une petite ville au Nord du Centre. Plutôt du genre sérieux.}
+{28908}{}{Jamais entendu parler.}
+{28909}{}{On est au Nord du Cimetière.}
 {29000}{}{Adytum}
-{29001}{}{The Followers}
-{29002}{}{The Cathedral}
-{29003}{}{The Rippers}
-{29004}{}{The Blades}
-{29005}{}{The Gun Runners}
+{29001}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
+{29002}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{29003}{}{Les Eventreurs|Eventreurs|Eventreur}
+{29004}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
+{29005}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {29006}{}{The Hub}
 {29007}{}{Dépôtville}
 {29008}{}{Water Chip}
-{29009}{}{The Boneyard}
+{29009}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {29010}{}{}
 {29011}{}{}
 {29012}{}{}
@@ -4161,13 +4161,13 @@
 {29097}{}{}
 {29098}{}{}
 {29099}{}{}
-{29100}{}{They are a small town to the south. They don't deal with us. I couldn't care less about them.}
-{29101}{}{They try to convert everyone to their ways of peace while they hide in their library to the south. They don't help business any!}
-{29102}{}{The Cathedral's this big church south of the Boneyard, where some strange cult worships a Dark God. I think they're freaky.}
-{29103}{}{The Rippers are all one big family, literally. They're impossible to deal with if they don't know you, so don't even try. They are in a big booby-trapped fortress southwest of us. Watch out for land mines if you're stupid enough to visit.}
-{29104}{}{They've converted several small buildings to the southeast into their home. They are pretty well organized and smarter than the Rippers. They sometimes let outsiders join, too. Their leader, Razor, is one tough woman.}
-{29105}{}{That's us. Good money in selling guns to the Blades and the Rippers here.}
-{29106}{}{That's the trading city east of here where we get our guns and do trading. They send out caravans all over the place. You could probably travel with a caravan when one shows up in Adytum.}
-{29107}{}{It's a small frontier town just north of the Hub. There's a great casino there, but the town's sheriff is just a little too overbearing.}
-{29108}{}{I have no idea what that is.}
-{29109}{}{This is the north side of the Boneyard. It's funny, people from outside use it as a curse - if something's bad, they say it 'Bites the Bone'. But it's not too bad once you get used to it.}
+{29100}{}{C'est une petite ville vers le Sud. Ils ne traitent pas avec nous. Alors eux, c'est le dernier de mes soucis.}
+{29101}{}{Du fond de leur bibliothèque, vers le Sud, ils essaient de convertir les gens à leurs idées pacifistes. C'est pas eux qui font marcher le commerce !}
+{29102}{}{La Cathédrale, c'est cette grosse église au Sud du Cimetière, où ils vénèrent une espèce de Dieu des Ténèbres. Des cinglés, si tu veux mon avis.}
+{29103}{}{Les Eventreurs, c'est comme une seule grande famille. Impossible de traiter avec eux s'ils te connaissent pas, alors n'essaie même pas. Ils habitent une grosse forteresse piégée, au Sud d'ici. Fais gaffe aux mines si t'as la bêtise d'y aller.}
+{29104}{}{C'est vers le Sud-Est. Ils ont transformé plusieurs petits bâtiments en habitations. Ils sont assez bien organisés et plus fûtés que les Eventreurs. Parfois, ils recrutent aussi des étrangers. Leur chef, Razor, est une sacrée bonne femme.}
+{29105}{}{C'est nous. Y'a de l'argent à faire en vendant des fusils aux Ecorcheurs et aux Eventreurs dans le coin.}
+{29106}{}{C'est la ville marchande, à l'Est d'ici, où on achète nos fusils et où on fait du commerce. Ils envoient des caravanes un peu partout. Quand y'en a une qui se présente au Sanctuaire, tu pourrais sans doute en profiter pour voyager avec.}
+{29107}{}{C'est une petite ville frontalière, juste au Nord du Centre. Y'a un casino super, dommage que le shérif soit un peu trop autoritaire.}
+{29108}{}{Aucune idée.}
+{29109}{}{Ici c'est le Nord du Cimetière. C'est marrant, les gens qui ne sont pas d'ici, ils en ont fait une blague; quand y'a quelqu'un qui se fait avoir, ils lui disent: Tu l'as dans l'os. Mais, une fois qu'on s'y est fait, c'est pas si mal.}

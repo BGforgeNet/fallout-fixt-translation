@@ -1,8 +1,8 @@
-{100}{}{You see a guard.}
-{101}{}{I work for the trader here. I make sure nobody messes with him.}
-{102}{}{Got any donuts?}
-{103}{}{If you break it, you buy it!}
-{104}{}{Shoplifters will be killed!}
-{105}{}{Are you gonna buy something? Perhaps in this century?}
-{106}{}{Can't fight radscorpions without this stuff.}
-{107}{}{I work for the trader here. I make sure nobody messes with him.}
+{100}{}{Voici un garde.}
+{101}{}{Je travaille pour le négociateur.}
+{102}{}{T'as pas des beignets ?}
+{103}{}{Qui casse paie !}
+{104}{}{Les voleurs à l'étalage seront tués !}
+{105}{}{Vas-tu acheter quelque chose ? Peut-être durant ce siècle ?}
+{106}{}{Tu ne peux pas combattre les radscorpions sans ce matos.}
+{107}{}{Je travaille pour le négociateur.}

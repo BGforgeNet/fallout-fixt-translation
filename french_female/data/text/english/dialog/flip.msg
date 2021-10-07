@@ -1,25 +1,25 @@
-{100}{}{You see: Flip.}
-{101}{}{You see a huge mutant.}
-{102}{}{Arrrghhh! Die, infidel!}
-{103}{}{You should be in the control room. Do not tarry.}
-{104}{}{So, a human. This is very interesting. You will come with me to the Lieutenant, or you will perish right here.}
-{105}{}{Never!}
-{106}{}{Okay, I give up. Let's go.}
-{107}{}{Lop!}
-{108}{}{Excellent. Come with me if you want to live.}
-{109}{}{Okay. Let's go.}
-{110}{}{After you.}
-{111}{}{You think me moronic, like many of my kind. You are sadly mistaken. It is a terminal problem, I understand.}
-{112}{}{We meet again. You will not escape me this time.}
-{113}{}{Don't you come near her! I'll kill you first!}
-{114}{}{Flip, when will I get out of here?}
-{115}{}{Soon. Very soon. Your time is near.}
-{116}{}{I can't wait to be together again.}
-{117}{}{You will not regret your decision, dearest. The dipping is painful...}
-{118}{}{Not too much, I hope.}
-{119}{}{The FEV is very painful, but you will live.}
-{120}{}{And you will join us. In body and soul.}
-{121}{}{We will be together again?}
-{122}{}{Yes, dearest. Yes.}
-{123}{}{I love you.}
-{124}{}{And I you.}
+{100}{}{Voici Flipper.}
+{101}{}{Voici un gigantesque mutant.}
+{102}{}{Arrrghhh ! Meurs, infidèle !}
+{103}{}{Tu devrais être dans la salle de contrôle. T'attarde pas.}
+{104}{}{Un humain, tiens, tiens ! Très intéressant. Tu me suis chez le Lieutenant ou tu péris sur le champ.}
+{105}{}{Jamais !}
+{106}{}{D'accord, je me rends. Allons-y.}
+{107}{}{Bof !}
+{108}{}{Excellent. Suis-moi si tu tiens à la vie.}
+{109}{}{D'accord. Allons-y.}
+{110}{}{Après toi.}
+{111}{}{Tu me prends pour un débile, comme beaucoup des miens. Mais, tu te trompes. C'est un problème de terminal, je crois.}
+{112}{}{Alors, te re-voilà. Cette fois, tu ne m'échapperas pas.}
+{113}{}{Si tu t'approches de moi, je te tue !}
+{114}{}{Flipper, quand vais-je sortir d'ici ?}
+{115}{}{Bientôt. Très bientôt. Ton heure approche.}
+{116}{}{J'ai hâte de nous voir enfin réunis.}
+{117}{}{Tu ne regretteras pas ta décision. L'immersion est douloureuse...}
+{118}{}{Pas trop, j'espère.}
+{119}{}{Le FEV est très douloureux, mais tu survivras.}
+{120}{}{Et tu seras des nôtres. Corps et âme.}
+{121}{}{Serons-nous de nouveau réunis ?}
+{122}{}{Oui, je te le promets.}
+{123}{}{Je t'aime.}
+{124}{}{Moi aussi.}

@@ -1,17 +1,17 @@
-{100}{}{You see Dumar, an Acrolyte of the Children of the Cathedral.}
-{101}{}{Greetings traveler. We have heard tales of one who traverses the Wasteland. How might we be of service to you today?}
-{102}{}{Uh? Arrooo?}
-{103}{}{The Wasteland is a rough place. I have been injured pretty bad. Can you you help me out with that?}
-{104}{}{I want you and your kind slaughtered!}
-{105}{}{Tell me a story.}
-{106}{}{Huh? Can't hear you. Can you speak up please?}
-{107}{}{Who might I consult in order to become a member of this establishment?}
-{108}{}{I wish to comprehend the wisdom upon which you and your fellow followers have based this establishment of beliefs.}
-{109}{}{I'm sorry, but I am a bit too busy at the moment to relate the entire tale of the Children of the Cathedral. They are having me clean off the pews. Talk to Laura if you need information.}
-{110}{}{I am sorry, but your words are far to above me to understand what you said. Perhaps our wiser followers, like Laura, might be able to help you better than I.}
-{111}{}{I am truly sorry to hear about your ailment. Alas, I am merely an acrolyte and am unable to assist with your healing. Only the full members are granted training in the healing arts.}
-{112}{}{Ah, child, it seems that you and I are speaking at different levels. Maybe if you talk to Laura, she can help you better than I can. Peace with you child.}
-{113}{}{Please talk to Laura. She can help you better than I can.}
-{114}{}{We are really a peaceful people. Please do not shed blood within this holy place.}
-{115}{}{Once upon a time, there was a little traveller who walked around the world. He walked up to a young lady named Laura and asked her to tell him a story. The end.}
-{116}{}{Dumar pleads with you to cease your vicious attacks.}
+{100}{}{Tu vois Dumar, un Acolyte des Enfants de la Cathédrale.}
+{101}{}{Salutations voyageur. Nous avons entendu des contes sur celui qui traverse le désert. Comment pourrions-nous t'être utiles aujourd'hui ?}
+{102}{}{Uh ? Arrooo ?}
+{103}{}{Le désert est un endroit difficile. J'ai été gravement blessé. Peux-tu m'aider avec ça ?}
+{104}{}{Je veux que toi et tes semblables soient massacrés !}
+{105}{}{Raconte-moi une histoire.}
+{106}{}{Hein ? Je ne t'entends pas. Tu peux parler plus fort, s'il te plaît ?}
+{107}{}{Qui puis-je consulter pour devenir membre de cet établissement ?}
+{108}{}{Je souhaite comprendre la sagesse sur laquelle toi et tes Disciples avez basé cet ensemble de croyances.}
+{109}{}{Je suis désolé, mais je suis un peu trop occupé en ce moment pour raconter l'histoire complète des Enfants de la Cathédrale. Ils me font nettoyer les bancs. Va parler à Laura si tu avez besoin d'informations.}
+{110}{}{Je suis désolé, mais tes mots sont bien trop au-dessus de moi pour que je comprenne ce que tu as dit. Peut-être que nos Disciples les plus sages, comme Laura, seront capables de t'aider mieux que moi.}
+{111}{}{Je suis vraiment désolé d'entendre parler de votre maladie. Hélas, je ne suis qu'un acolyte et je ne peux pas t'aider à te soigner. Seuls les membres à part entière ont droit à une formation dans les arts de la guérison.}
+{112}{}{Ah, mon enfant, il semble que toi et moi parlons à des niveaux différents. Peut-être que si tu parles à Laura, elle pourra t'aider mieux que moi. Paix à toi, mon enfant.}
+{113}{}{S'il te plaît, va parler à Laura. Elle peut t'aider mieux que moi.}
+{114}{}{Nous sommes vraiment un peuple pacifique. S'il te plaît, ne verse pas de sang dans ce lieu saint.}
+{115}{}{Il était une fois un petit voyageur qui faisait le tour du monde. Il s'approcha d'une jeune femme nommée Laura et lui demanda de lui raconter une histoire. Fin.}
+{116}{}{Dumar te supplie de cesser tes attaques vicieuses.}

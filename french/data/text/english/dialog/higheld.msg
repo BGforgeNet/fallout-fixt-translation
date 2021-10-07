@@ -1,68 +1,68 @@
-{100}{}{You see an Elder of the Brotherhood.}
-{101}{}{Greetings, Initiate. I need to speak with you. (He motions for you to come closer.)}
-{102}{}{About what?}
-{103}{}{I don't have time right now.}
-{104}{}{Err?}
-{105}{}{There is an urgent matter I need you to help me with. It's Maxson. We are pretty sure he's gone off the deep end. He keeps babbling about an army massing to the north.}
-{106}{}{ I'm not willing to send our troops up there into possibly irradiated areas, unless I've got absolute proof that this 'army' exists.}
-{107}{}{ I need someone who isn't a friend of the old man. Someone I can get an honest report from. Are you willing to check the northern region?}
-{108}{}{I'll do it.}
-{109}{}{I can't do it right now. I've got other things I need to deal with.}
-{110}{}{I've already seen a base to the north run by an army of mutants.}
-{111}{}{Good. First go talk to Maxson, if you haven't already. Report back to me when you've checked the northern territory. After that, we'll decide what to do with Maxson.}
-{112}{}{Wish me luck.}
-{113}{}{Have you explored the entire northern territory?}
-{114}{}{Yes.}
-{115}{}{No.}
-{116}{}{And what do you have to report?}
-{117}{}{I've found a base guarded by heavily armed mutants. It looks pretty bad.}
-{118}{}{I didn't think so. You weren't gone for very long. Now, get back out there and don't come back until you have a FULL report.}
-{119}{}{Yes, sir.}
-{120}{}{I will inform the Elders. We will wait for Maxson's word on what to do. Go inform him on what you've found. Thanks for your help, Initiate.}
-{121}{}{You're welcome.}
-{122}{}{Then you will make time to hear me out.}
-{123}{}{You've got my attention.}
-{124}{}{You can go to hell old man.}
-{125}{}{Forget it. I've got more important things to do.}
-{126}{}{I understand. If you do travel up into that area and find anything, please, let me know.}
-{127}{}{If I find anything that resembles an army up north, I will let you know.}
-{128}{}{Good work with the mutants. We already heard that you destroyed their production facility. Thanks for taking care of that problem for us.}
-{129}{}{No problem.}
-{130}{}{'Err'? What kind of response is 'Err'? Leave! Now!}
-{131}{}{If it was up to me, you would be out of here.}
-{132}{}{I have nothing to say to you.}
-{133}{}{You should learn some respect.}
-{134}{}{The meeting will come to order. All Elders are present and have agreed to hear out the claims of Brother }
-{135}{}{. We shall determine what actions will be taken. Brother }
-{136}{}{, tell us what you have seen to the north.}
-{137}{}{During my explorations, I found a military installation being used by mutants. It is heavily guarded and patrolled regularly.}
-{138}{}{Norfa?}
-{139}{}{And what did these mutants look like?}
-{140}{}{They are large humanoids. Their muscle mass is well beyond what a regular human could ever gain. There appear to be several of them guarding the gate in organized troops.}
-{141}{}{They were big, greenish, and carrying weapons.}
-{142}{}{As you may know, our Head Scribe, Vree, has done an autopsy on a creature very similar to what you have just described. Do you believe these are the same?}
-{143}{}{Yes. The description of the creature is nearly identical.}
-{144}{}{What threat do you assume these 'mutants' pose?}
-{145}{}{Just as the Brotherhood has been gearing up for battle, this 'mutant army' has been preparing for something big.}
-{146}{}{Frankly, your report has not shown us any proof that they are a threat to us. What proof can you give that they have hostile intentions.}
-{147}{}{They have invaded Necropolis. They won't stop there.}
-{148}{}{They are gathering an army. A heavily armed army. They certainly aren't going to just parade around. They intend to use it.}
-{149}{}{So, by these actions they are taking, it is feasible that they will eventually come here?}
-{150}{}{It is possible that they are already on their way here. The Brotherhood is the only real opposition they could have.}
-{151}{}{I don't believe that shows hostility. They could simply be protecting themselves from attack. Even we have to deal with the occasional attack.}
-{152}{}{If they attack, it will be NOTHING like the occasional attack you get from the raiders. This will be a slaughter.}
-{153}{}{Since they are coming out of that old military installation, I would imagine that they would have weapons comparable to your own.}
-{154}{}{What do you suggest? A preemptive strike at their military base?}
-{155}{}{Yes. I don't want them to know we are coming though. A small team would stand a better chance of getting into their perimeter without being detected.}
-{156}{}{That will only take care of one part of the problem. They're being led by a group coming out of the Boneyard Cathedral.}
-{157}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
-{158}{}{If they are being led by a group out of the Boneyard Cathedral, then chances are they have a small army down there as well.}
-{159}{}{If we take them out in the north, then it leaves our south side vulnerable. I can only spare a few men on this endeavor.}
-{160}{}{Give me a few Paladins to take out their base to the north.}
-{161}{}{Give me a few Paladins to take out their base to the south.}
-{162}{}{So be it. You shall have two Paladins of my choosing to meet you at the Boneyard Cathedral. Elders, thank you for your time. Best of luck to you Initiate.}
-{163}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
-{164}{}{Obviously we made a mistake. Elders, I am sorry for wasting your time. Would someone please remove this mental abomination?}
-{165}{}{I am too busy planning a defensive strategy.}
-{166}{}{You earn }
-{167}{}{ experience for convincing the Brotherhood of Steel to help you take out the Mariposa military base.}
+{100}{}{Voici un Ancien de la Confrérie.}
+{101}{}{Mes respects, Initié. Il faut que je te parle. [Il te fait signe de t'approcher.]}
+{102}{}{Sur quoi ?}
+{103}{}{Je n'ai pas le temps maintenant.}
+{104}{}{Euh ?}
+{105}{}{Je voudrais que tu m'aides à régler une affaire urgente. Il s'agit de Maxson. On est certain que cette fois, il a vraiment perdu la tête. Il n'arrête pas de répéter qu'une armée est en train de se rassembler au Nord.}
+{106}{}{Je ne suis pas disposé à envoyer nos troupes vers des zones potentiellement irradiées, à moins que l'on ne m'apporte la preuve absolue que cette "armée" existe réellement.}
+{107}{}{J'ai besoin de quelqu'un qui ne soit pas un ami du vieil homme. Quelqu'un qui pourrait m'établir un rapport en toute impartialité. Est-ce que tu pourrais inspecter la région du Nord ?}
+{108}{}{C'est d'accord.}
+{109}{}{Je ne peux pas maintenant. J'ai d'autres affaires à régler.}
+{110}{}{J'ai déjà eu l'occasion de voir une base au Nord qui était contrôlée par une armée de mutants.}
+{111}{}{Bon. Va d'abord parler à Maxson si tu ne l'as déjà fait. Adresse-moi ton rapport quand tu auras inspecté le territoire du Nord. Après ça, nous déciderons de l'avenir de Maxson.}
+{112}{}{Souhaite-moi bonne chance.}
+{113}{}{Est-ce que tu as exploré entièrement le territoire du Nord ?}
+{114}{}{Oui.}
+{115}{}{Non.}
+{116}{}{Et quelles sont tes conclusions ?}
+{117}{}{J'ai découvert une base contrôlée par des mutants fortement armés. Ce n'est pas bon signe.}
+{118}{}{C'est bien ce que je pensais. Tu aurais été plutôt rapide. Maintenant, retournes-y et ne reviens que lorsque tu auras établi un rapport COMPLET sur la situation.}
+{119}{}{Oui, monsieur.}
+{120}{}{Je vais informer les Anciens. Nous attendrons les ordres de Maxson pour connaître la marche à suivre. Va l'informer de ce que tu as trouvé. Merci pour ton aide.}
+{121}{}{De rien.}
+{122}{}{Vas-tu enfin prendre le temps de m'écouter ?}
+{123}{}{Je t'écoute.}
+{124}{}{Tu peux aller rôtir en enfer, vieille carcasse.}
+{125}{}{N'y compte pas. J'ai des choses plus importantes à faire.}
+{126}{}{Je comprends. Si tu vas dans cette région et que tu remarques quoi que ce soit, je t'en prie, fais-le moi savoir.}
+{127}{}{Si je trouve quelque chose qui ressemble à une armée au Nord, je te le ferai savoir.}
+{128}{}{Joli travail en ce qui concerne les mutants. Nous avons appris que tu as détruit leur unité de production. Merci d'avoir réglé ce problème pour nous.}
+{129}{}{Aucun problème.}
+{130}{}{Euh ? Tu crois que c'est une réponse ? Va-t'en ! Tout de suite !}
+{131}{}{Si ça ne tenait qu'à moi, tu ne serais pas ici.}
+{132}{}{Je n'ai rien à te dire.}
+{133}{}{Je vais t'apprendre le respect.}
+{134}{}{La réunion est à l'ordre du jour. Tous les Anciens sont présents et ont accepté d'écouter les déclarations de Frère }
+{135}{}{. Nous déterminerons quelles sont les mesures à prendre. Frère }
+{136}{}{, dis-nous ce que tu as vu dans le Nord.}
+{137}{}{Au cours de mes explorations, j'ai découvert une installation militaire utilisée par des mutants. Elle est placée sous haute surveillance et une patrouille effectue une ronde régulièrement.}
+{138}{}{Norfa ?}
+{139}{}{Et à quoi ressemblaient ces mutants ?}
+{140}{}{Ce sont de grands humanoïdes. Leur masse musculaire est bien plus imposante que celle d'un humain ordinaire. Il semble que plusieurs d'entre eux gardent le portail à tour de rôle.}
+{141}{}{Ils étaient grands, verdâtres et ils portaient des armes.}
+{142}{}{Comme tu peux le savoir, notre Grand Scribe Vree a réalisé une autopsie sur une créature très similaire à celle que tu viens de décrire. Crois-tu qu'il s'agisse des mêmes ?}
+{143}{}{Oui. D'après sa description, ces créatures sont identiques.}
+{144}{}{Selon toi, quelle menace peuvent faire peser ces "mutants" ?}
+{145}{}{Au même moment que la Confrérie se préparait à la bataille, cette "armée de mutants" s'apprêtait à faire un gros coup.}
+{146}{}{Franchement, rien dans ton rapport ne nous indique qu'ils constituent une quelconque menace pour nous. Comment peux-tu prouver qu'ils ont des intentions hostiles ?}
+{147}{}{Ils ont envahi Nécropolis. Ils n'arrêteront pas là.}
+{148}{}{Ils rassemblent une armée. Une armée lourdement armée. Ce n'est certainement pas pour organiser une parade militaire. Ils comptent bien s'en servir.}
+{149}{}{Donc, avec toutes les mesures qu'ils prennent, il est possible qu'ils arrivent ici tôt ou tard ?}
+{150}{}{Il est possible qu'ils soient déjà en route. La Confrérie est la seule véritable résistance qu'ils pourraient rencontrer.}
+{151}{}{Je ne crois pas qu'il faille l'interpréter comme une action hostile. Il se peut qu'ils cherchent simplement à se protéger d'une attaque. Nous aussi nous nous préparons à d'éventuelles attaques.}
+{152}{}{S'ils attaquent, ça n'aura RIEN à voir avec les attaques habituelles des pillards. Ce sera un vrai carnage.}
+{153}{}{S'ils viennent de l'ancienne installation militaire, j'imagine qu'ils possèdent des armes comparables aux vôtres.}
+{154}{}{Qu'est-ce que tu suggères ? Une attaque préventive de leur base militaire ?}
+{155}{}{Oui. Mais je veux qu'ils ne se doutent de rien. Une petite équipe a davantage de chances d'atteindre leurs positions sans être remarquée.}
+{156}{}{Ca ne réglera qu'une partie du problème. Ils sont menés par un groupe provenant de la Cathédrale du Cimetière.}
+{157}{}{Soit. Trois Paladins de mon choix te retrouveront près de la base militaire pour t'aider à t'introduire à l'intérieur. Anciens, je vous remercie de votre attention. Bonne chance, Initié.}
+{158}{}{S'ils sont menés par un groupe de la Cathédrale du Cimetière, il y a de fortes chances qu'ils disposent d'une petite armée également là-bas.}
+{159}{}{Si nous les emmenons au Nord, cela risque d'affaiblir nos positions au Sud. Je n'ai que quelques hommes à te proposer.}
+{160}{}{Accorde-moi quelques Paladins pour m'accompagner au Nord.}
+{161}{}{Accorde-moi quelques Paladins pour m'accompagner au Sud.}
+{162}{}{Soit. Deux Paladins de mon choix te retrouveront près de la base militaire pour t'aider à t'introduire à l'intérieur. Anciens, je vous remercie de votre attention. Bonne chance, Initié.}
+{163}{}{Soit. Trois Paladins de mon choix te retrouveront près de la base militaire pour t'aider à t'introduire à l'intérieur. Anciens, je vous remercie de votre attention. Bonne chance, Initié.}
+{164}{}{A l'évidence, nous avons fait une erreur. Anciens, veuillez me pardonner de vous avoir fait perdre votre temps. Quelqu'un pourrait-il nous débarrasser de cette erreur de la nature ?}
+{165}{}{Je n'ai pas le temps. Je suis en train d'établir une stratégie de défense.}
+{166}{}{Tu gagnes }
+{167}{}{ points d'expérience pour avoir su convaincre la Confrérie de t'aider à détruire la base de Mariposa.}

@@ -1,12 +1,12 @@
-{100}{}{You note a security camera which seems to be active.}
-{101}{}{You note concealed guns tracking your movement.}
-{102}{}{Hidden gun ports open fire! Twisting and weaving, you manage to avoid injury!}
-{103}{}{Hidden gun ports open fire! Twisting and evading, you are grazed by gunfire.}
-{104}{}{You suffer }
-{105}{}{ damage.}
-{106}{}{Hidden gun ports open fire! Startled, you trip and fall, suffering only minor injuries.}
-{107}{}{You suffer }
-{108}{}{ damage.}
-{109}{}{Hidden gun ports open fire! You are hit!}
-{110}{}{You suffer }
-{111}{}{ damage.}
+{100}{}{Tu remarques une caméra de sécurité apparemment en fonctionnement.}
+{101}{}{Tu remarques des armes à feu dissimulées qui suivent tes mouvements.}
+{102}{}{Des armes cachées ouvrent le feu ! En te tordant et en te faufilant, tu parviens à éviter les balles !}
+{103}{}{Des armes cachées ouvrent le feu ! En te tordant et en essayant d'esquiver les tirs, une balle t'érafle.}
+{104}{}{Tu as subi }
+{105}{}{ de dégât.}
+{106}{}{Des armes cachées ouvrent le feu ! Dans la panique, tu trébuches et tu tombes, mais tes blessures sont bénignes.}
+{107}{}{Tu as subi }
+{108}{}{ de dégât.}
+{109}{}{Des armes cachées ouvrent le feu ! Une balle te touche !}
+{110}{}{Tu as subi }
+{111}{}{ de dégât.}

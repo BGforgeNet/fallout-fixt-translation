@@ -1,9 +1,9 @@
-{100}{}{It's a slot machine with a picture of a nuclear explosion on the side. Sweet! It costs 20 caps to play.}
-{101}{}{You drop 20 caps into the slot machine and pull the greasy handle.}
-{102}{}{DING! DING! DING!}
-{103}{}{You get three nukes. Excellent! }
-{104}{}{ caps drop into the tray and you snatch them up.}
-{105}{}{Ding! Ding! Ding!}
-{106}{}{You get three bombs. Winner! 30 caps drop into the tray and you snatch them up.}
-{107}{}{Aww shucks! You lose.}
-{108}{}{You don't have enough money to play.}
+{100}{}{C'est une machine à sous où est représentée, sur le côté, une explosion nucléaire. 20 caps la partie.}
+{101}{}{Tu insères 20 caps dans la machine à sous et tu tires sur la poignée graisseuse.}
+{102}{}{DING ! DING ! DING !}
+{103}{}{Tu reçois trois armes nucléaires. Excellent ! }
+{104}{}{ caps tombent dans le plateau et tu les prends.}
+{105}{}{Ding ! Ding ! Ding !}
+{106}{}{Tu reçois trois bombes. Quelle veine ! 30 caps tombent dans le plateau et tu les prends.}
+{107}{}{Ah, zut ! Tu as perdu.}
+{108}{}{Tu n'as pas assez d'argent pour jouer.}

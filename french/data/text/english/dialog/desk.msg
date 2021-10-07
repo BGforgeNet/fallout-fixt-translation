@@ -1,1 +1,1 @@
-{100}{}{The desk is empty.}
+{100}{}{Le bureau est vide.}

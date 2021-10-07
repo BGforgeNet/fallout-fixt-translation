@@ -1,86 +1,86 @@
-{100}{}{You see: Marcelles.}
-{101}{}{You see a tough-looking woman.}
-{102}{}{Thank god you're here! Some crazy guy has Sinthia held hostage. He's threatening to kill her! You've got to help.}
-{103}{}{Nah, don't bother me.}
-{104}{}{Hmm. I'll check it out.}
-{105}{}{Dung!}
-{106}{}{Oh, geez, I hope you can do it. He's in her room. Help her!}
-{107}{}{You are an incredibly cold person. She could die without your help.}
-{108}{}{Tough. That's life.}
-{109}{}{All right, don't harp on me. I'll look into it.}
-{110}{}{Help Sinthia. She's in trouble.}
-{111}{}{Thank you for helping Sinthia. She's usually not a problem. You deserve a good night's sleep. On me. But don't ask for another freebie.}
-{112}{}{Hnn. Thug.}
-{113}{}{Thanks.}
-{114}{}{No problem. Room #1. Follow me.}
-{115}{}{Enjoy your stay. Don't be a pain.}
-{116}{}{You should have saved Sinthia. It's your fault she died. I hope you are happy with yourself.}
-{117}{}{Yeah, whatever.}
+{100}{}{Voici Marcelles.}
+{101}{}{Voici une femme à l'allure robuste.}
+{102}{}{Dieu merci, tu es là ! Un fou a pris Cynthia en otage. Il menace de la tuer ! Tu dois lui venir en aide.}
+{103}{}{Bah, laisse-moi tranquille.}
+{104}{}{Hmm. Je vais voir ce que je peux faire.}
+{105}{}{Ben !}
+{106}{}{Oh, j'espère que tu peux le faire. Il est dans sa chambre. Aide-la !}
+{107}{}{Tu n'as pas de coeur ! Elle risque de mourir sans ton aide.}
+{108}{}{C'est comme ça. C'est la vie.}
+{109}{}{Très bien, cesse de me harceler. Je vais voir ce que je peux faire.}
+{110}{}{Aide Cynthia. Elle a des ennuis.}
+{111}{}{Merci d'avoir aidé Cynthia. D'habitude, elle pose pas de problèmes. Tu as mérité une bonne nuit de sommeil. Je te l'offre. Mais ne me me demande pas d'autres faveurs.}
+{112}{}{Hnn. Brute.}
+{113}{}{Merci.}
+{114}{}{Pas de problème. Chambre n°1. Suis-moi.}
+{115}{}{Bon séjour. Ne crée pas d'histoires.}
+{116}{}{Tu aurais dû sauver Cynthia. Elle est morte par ta faute. J'espère que tu t'en rends compte.}
+{117}{}{Ouais comme tu veux.}
 {118}{}{Hnnn.}
-{119}{}{Welcome to the Crash House. How can I help you, stranger?}
-{120}{}{I'm looking for some water.}
-{121}{}{I need a good night's sleep.}
-{122}{}{I'm looking for some info.}
+{119}{}{Bienvenue à la Crash House. En quoi puis-vous aider ?}
+{120}{}{Je cherche de l'eau.}
+{121}{}{J'ai besoin d'une bonne nuit de sommeil.}
+{122}{}{J'ai besoin de renseignements.}
 {123}{}{Hnnn.}
-{124}{}{Yeah, we serve your kind, too. It'll be 25 caps for the night. A week will cost you 150 caps.}
-{125}{}{Nah.}
-{126}{}{Ahkay.}
-{127}{}{Ahkay. Weeeka.}
-{128}{}{Yeah, you too. Have a good day.}
-{129}{}{Okay, thanks. Your room is room #1. Follow me. Don't be shooting any guns in here, okay?}
-{130}{}{Have a good stay.}
-{131}{}{You need some money before I can rent you a room.}
-{132}{}{Then you should try the Skum Pitt. I heard you can get a lot of water in your booze there.}
-{133}{}{I don't know about that, but I will rent you a room. It's a good place to rest and heal up. 25 caps for a day, or a week is 150. Most people go for the weekly rate. You should, if you ask me.}
-{134}{}{Okay. A week.}
-{135}{}{Just one night.}
-{136}{}{No, thanks.}
-{137}{}{I'm just a hotel manager, bub. Don't ask too much of me.}
-{138}{}{Here's 50 caps; tell me what you know.}
-{139}{}{I know you're 50 caps poorer. I don't do the gossip thing, okay? Come back if you want a room.}
-{140}{}{What do you think I am? A fool? If you're gonna bribe me, have enough money.}
-{141}{}{Welcome back, what can I do for you?}
-{142}{}{I want to rent a room.}
+{124}{}{Ouais, on accepte aussi les gens comme toi. Ce sera 25 caps la nuit et 150 caps la semaine.}
+{125}{}{Non non.}
+{126}{}{Ok.}
+{127}{}{Ok. La semaine.}
+{128}{}{Ouais, toi aussi. Bonne journée.}
+{129}{}{D'accord, merci. Tu as la chambre n°1. Suis-moi. Et pas d'armes à feu ici, compris ?}
+{130}{}{Bon séjour.}
+{131}{}{La chambre est payable d'avance.}
+{132}{}{Alors, essaie le Skum Pitt. J'ai entendu dire qu'on y servait beaucoup d'eau dans la bière.}
+{133}{}{Je n'en sais rien, mais je vais te louer une chambre. C'est un endroit agréable pour se reposer et se remettre d'aplomb. Ce sera 25 caps la nuit ou 150 caps la semaine. La plupart des gens optent pour la semaine. C'est ce que je te conseille.}
+{134}{}{D'accord pour une semaine.}
+{135}{}{Juste une nuit.}
+{136}{}{Non, merci.}
+{137}{}{Je ne fais que tenir cet hôtel. Ne m'en demande pas trop.}
+{138}{}{Voici 50 caps, dis-moi ce que tu sais.}
+{139}{}{Je sais que tu as perdu 50 caps. Je n'aime pas les commérages, compris ? Reviens si tu veux une chambre.}
+{140}{}{Pour qui me prends-tu ? Je ne suis pas si bête ! Si tu veux me soudoyer, ça te coûtera bien plus cher.}
+{141}{}{Rebonjour, que puis-je faire pour toi ?}
+{142}{}{Je voudrais louer une chambre.}
 {143}{}{Hnnn.}
-{144}{}{You're already renting room #1 from me. Do you want me to show you where it is?}
-{145}{}{Sure.}
-{146}{}{Nah.}
-{147}{}{Yah.}
-{148}{}{Nah.}
-{149}{}{And this is still your room. Have a good stay.}
-{150}{}{You know the drill. One day is 25 caps. One week is 150.}
-{151}{}{Nah.}
+{144}{}{Tu m'as déjà loué la chambre n°1. Tu veux que je te montre où elle se trouve ?}
+{145}{}{Bien sûr.}
+{146}{}{Non non.}
+{147}{}{Ouais.}
+{148}{}{Non non.}
+{149}{}{Et c'est toujours ta chambre. Bon séjour.}
+{150}{}{Tu connais les tarifs. 25 caps la nuit. 150 caps la semaine.}
+{151}{}{Non non.}
 {152}{}{Da.}
-{153}{}{Wee.}
-{154}{}{Sure. It's 25 caps a day, or 150 for the entire week.}
-{155}{}{Okay. A week.}
-{156}{}{Just one night.}
-{157}{}{No, thanks.}
-{158}{}{Okay. Room #1 is yours. Have a nice stay.}
-{159}{}{Yeah, what do you want?}
-{160}{}{I want to rent a room.}
-{161}{}{Hnn.}
-{162}{}{No. Go away.}
-{163}{}{I don't like your face. I don't think I'll be renting you a room.}
-{164}{}{I really need a place to stay.}
-{165}{}{No. Have a good night.}
-{166}{}{Okay. One night. 100 caps.}
-{167}{}{What! That's outrageous!}
-{168}{}{Okay.}
-{169}{}{Deal with it. Yes or no.}
-{170}{}{No.}
-{171}{}{Okay.}
-{172}{}{Good. Here you go. Room #1. Have a nice night, check out time is 11 o' clock.}
-{173}{}{You killed Killian, didn't you?}
-{174}{}{Yep, sure did.}
-{175}{}{Nah, wasn't me. Really it wasn't.}
-{176}{}{Hnn.}
-{177}{}{Get out! You're too dumb to realize what you did, but my life is hell now!}
-{178}{}{You son of a bitch. I can't believe you killed him. He was a good man, and now I get all sorts of hell... get out, and don't come back.}
-{179}{}{Yeah, whatever you say, but that's not what I heard. You'd better behave around here, or I'll get out ol' Betsy and ram some buckshot up your ass.}
-{180}{}{It's late. I hope you aren't wasting my time.}
-{181}{}{Hey! That fridge is for customers only!}
-{182}{}{No thanks.}
-{183}{}{Marcelles charges in to confront the raider!}
-{184}{}{Uh, nothing. Never mind.}
-{185}{}{Uh, nothing. Never mind.}
+{153}{}{Fi.}
+{154}{}{Oui. C'est 25 caps la nuit ou 150 caps pour toute la semaine.}
+{155}{}{D'accord pour une semaine.}
+{156}{}{Juste une nuit.}
+{157}{}{Non, merci.}
+{158}{}{D'accord. La chambre n°1 est à toi. Bon séjour.}
+{159}{}{Ouais, qu'est-ce que tu veux ?}
+{160}{}{Je voudrais louer une chambre.}
+{161}{}{Grr.}
+{162}{}{Non. Va-t-en.}
+{163}{}{Ta tête ne me revient pas. Je n'ai pas envie de te louer de chambre.}
+{164}{}{J'ai vraiment besoin d'une chambre.}
+{165}{}{Non. Bonne nuit.}
+{166}{}{D'accord. 100 caps la nuit.}
+{167}{}{Quoi ! C'est exorbitant !}
+{168}{}{D'accord.}
+{169}{}{A toi de voir. Oui ou non.}
+{170}{}{Non.}
+{171}{}{D'accord.}
+{172}{}{Bien. Voilà. Chambre n°1. Bonne nuit. La chambre doit être libérée pour 11 heures.}
+{173}{}{Tu as tué Killian, n'est-ce pas ?}
+{174}{}{Oui.}
+{175}{}{Non, ce n'était pas moi. Je dis la vérité ; ce n'était pas moi.}
+{176}{}{Grr.}
+{177}{}{Sors ! Tu ne te rends pas compte de ce que tu fais, mais ma vie est un enfer maintenant !}
+{178}{}{Espèce de pourriture. Je n'arrive pas à croire que tu l'as tué. C'était un homme bon et maintenant, j'ai des tas d'ennuis... Va-t-en et surtout ne remets plus les pieds ici.}
+{179}{}{Ouais, tu peux dire ce que tu veux, mais ce n'est pas ce qu'on m'a dit. Tu ferais mieux de te tenir à carreau dans le coin si tu ne veux pas que je sorte ma vieille carabine.}
+{180}{}{Il est tard. J'espère que tu ne me fais pas perdre mon temps.}
+{181}{}{Hé ! Ce réfrigérateur est réservé aux clients !}
+{182}{}{Non, merci.}
+{183}{}{Marcelles s'élance pour affronter le pillard !}
+{184}{}{Euh, rien, oublie ça.}
+{185}{}{Euh, rien, oublie ça.}

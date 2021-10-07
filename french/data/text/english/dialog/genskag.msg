@@ -1,17 +1,17 @@
-{100}{}{You see a skag.}
-{101}{}{This place is neat! It's much better than my old place.}
-{102}{}{I like it here!}
-{103}{}{There's so much space. If I had any stuff, I would have plenty of room.}
-{104}{}{Where's my dog?}
-{105}{}{I'm thirsty.}
-{106}{}{Got any food?}
-{107}{}{I'm hungry.}
-{108}{}{Is it my bed time yet?}
-{109}{}{You can have my old place.}
-{110}{}{I'm tired, why are you here?}
-{111}{}{This my home! You leave!}
-{112}{}{This my home! You leave!}
-{113}{}{Where's my pillow?}
-{114}{}{I'm sleepy.}
-{115}{}{Don't hurt me.}
-{116}{}{You're the person that hurts people!}
+{100}{}{Voici un Skag.}
+{101}{}{Cet endroit est super ! Bien mieux que là où j'étais.}
+{102}{}{Ca me plaît ici !}
+{103}{}{C'est tellement spacieux. Si j'avais des affaires, j'aurais plein de place pour les ranger.}
+{104}{}{Où est mon chien ?}
+{105}{}{J'ai soif.}
+{106}{}{As-tu quelque chose à manger ?}
+{107}{}{J'ai faim.}
+{108}{}{C'est l'heure de se coucher ?}
+{109}{}{Tu peux prendre mon ancienne place.}
+{110}{}{Je suis sur les rotules. Qu'est-ce que tu fais ici ?}
+{111}{}{C'est chez moi ! Fous le camp !}
+{112}{}{C'est chez moi ! Fous le camp !}
+{113}{}{Où est mon oreiller ?}
+{114}{}{J'ai envie de dormir.}
+{115}{}{Me fais pas de mal.}
+{116}{}{C'est toi qui fais du mal aux gens !}

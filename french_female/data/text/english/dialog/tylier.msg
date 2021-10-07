@@ -1,29 +1,29 @@
-{100}{}{Security Station}
-{101}{}{This terminal, 'Tylier', controls Special Forces Operations. Please present voice authorization.}
-{102}{}{Nuna!}
-{103}{}{Help me. Me got owwie.}
-{104}{}{Let me in.}
-{105}{}{I am }
-{106}{}{. Let me pass.}
-{107}{}{What do you do here?}
-{108}{}{Voice not recognized. Security systems status: armed.}
-{109}{}{I am the security system for Blue Level. All systems armed.}
-{110}{}{Can you disarm the systems?}
-{111}{}{Why are the systems armed when the war has ended?}
-{112}{}{Thank you.}
-{113}{}{I have been programmed to keep the systems armed until authorized personnel have entered the correct voice code.}
-{114}{}{Will you disarm the systems for me?}
-{115}{}{Goodbye.}
-{116}{}{Voice override: Gamma Delta Delta. Disarm all systems.}
-{117}{}{You are not authorized. Access denied.}
-{118}{}{Invalid code. Access denied.}
-{119}{}{Voice override: Gamma Omicron Delta. Disarm systems.}
-{120}{}{Voice override: Omicron Delta Delta. Disarm systems.}
-{121}{}{Voice override: Alpha Delta Delta. Disarm systems.}
-{122}{}{Voice override: Delta Omicron Gamma. Disarm systems.}
-{123}{}{Goodbye.}
-{124}{}{Voice override confirmed. Disarming security systems.}
-{125}{}{I have not received orders to do otherwise. Network access is unavailable; central processor ZAX has apparently been destroyed.}
-{126}{}{Fine. Voice override: Sigma Alpha Delta. Disarm systems.}
-{127}{}{Goodbye.}
-{128}{}{Security systems are currently disarmed.}
+{100}{}{Station de Sécurité}
+{101}{}{Le terminal "Tylier" contrôle les Opérations des Forces Spéciales. Autorisation vocale requise.}
+{102}{}{Nouna !}
+{103}{}{A l'aide. Moi bobo.}
+{104}{}{Laisse-moi entrer.}
+{105}{}{Je m'appelle }
+{106}{}{. Laisse-moi passer.}
+{107}{}{Que fais-tu ici ?}
+{108}{}{Voix non identifiée. Systèmes de sécurité armés.}
+{109}{}{Je suis le système de sécurité du Niveau Bleu. Tous les systèmes sont armés.}
+{110}{}{Peux-tu désarmer les systèmes ?}
+{111}{}{Pourquoi les systèmes n'ont-ils pas été désarmés à la fin de la guerre ?}
+{112}{}{Merci.}
+{113}{}{J'ai été programmé pour ne pas désarmer les systèmes avant qu'un agent autorisé ait entré le code vocal approprié.}
+{114}{}{Peux-tu désarmer les systèmes pour moi ?}
+{115}{}{Au revoir.}
+{116}{}{Code vocal : Gamma Delta Delta. Désarmer tous les systèmes.}
+{117}{}{Tu n'as pas d'autorisation. Accès refusé.}
+{118}{}{Code non valide. Accès refusé.}
+{119}{}{Code vocal : Gamma Omicron Delta. Désarmer les systèmes.}
+{120}{}{Code vocal : Omicron Delta Delta. Désarmer les systèmes.}
+{121}{}{Code vocal : Alpha Delta Delta. Désarmer les systèmes.}
+{122}{}{Code vocal : Delta Omicron Gamma. Désarmer les systèmes.}
+{123}{}{Au revoir.}
+{124}{}{Code vocal confirmé. Désarmement des systèmes de sécurité en cours.}
+{125}{}{Je n'ai reçu aucun ordre. L'accès au réseau n'est pas disponible ; le processeur central ZAX a apparemment été détruit.}
+{126}{}{Bien. Code vocal : Sigma Alpha Delta. Désarmer les systèmes.}
+{127}{}{Au revoir.}
+{128}{}{Les systèmes de sécurité sont désarmés.}

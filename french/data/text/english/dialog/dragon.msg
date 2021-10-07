@@ -1,34 +1,34 @@
-{100}{}{You see: Dragon, a member of the Blades.}
+{100}{}{Tu vois Dragon.}
 {101}{}{}
 {102}{}{}
-{103}{}{You see a member of the Blades.}
-{104}{}{You see a member of the Blades.}
-{105}{}{You think that might be Books.}
-{106}{}{You think that might be Scars.}
-{107}{}{You think that might be Gunner.}
-{108}{}{You think that might be Twitch.}
-{109}{}{You think that might be Hammer.}
-{110}{}{You think that might be Razor.}
-{111}{}{Get lost! Can't you see I'm trying to get some rest!}
-{112}{}{What are ya doin' roamin' around out here?}
-{113}{}{Just looking at the stars.}
-{114}{}{Out looking for you.}
-{115}{}{Hunting.}
-{116}{}{Your looking's gonna cost you dearly. What's the story? Tell me the truth, and you just might live.}
-{117}{}{I'm really here to kill you.}
-{118}{}{I want to end the gang wars.}
-{119}{}{Just looking for home. It's right there: The moon.}
-{120}{}{I think I'd be sorry about that, but I don't pay heed to dead people.}
-{121}{}{Fat chance. Now get out of here before I send the night guard after you.}
-{122}{}{My, you don't enjoy life much. I'll help you end it then.}
-{123}{}{You found me. Now walk away or die!}
-{124}{}{I think I'll go.}
-{125}{}{I'd really rather live.}
-{126}{}{What's the word on the Rippers?}
-{127}{}{They're gonna kill ya!}
-{128}{}{They're dead. Deathclaws killed'em all, see?}
-{129}{}{Nothing yet.}
-{130}{}{Great. Go take it to Razor.}
-{131}{}{Don't lie to me. Get out!}
-{132}{}{Then get your butt out of here and can the bastard!}
-{133}{}{Yo, homie! Nice job you did on the Regulators!}
+{103}{}{Tu vois un membre des Ecorcheurs.}
+{104}{}{Tu vois un membre des Ecorcheurs.}
+{105}{}{Tu penses que c'est Books.}
+{106}{}{Tu penses que c'est Scars.}
+{107}{}{Tu penses que c'est Gunner.}
+{108}{}{Tu penses que c'est Twitch.}
+{109}{}{Tu penses que c'est Hammer.}
+{110}{}{Tu penses que c'est Razor.}
+{111}{}{Barre-toi ! Tu vois pas que j'essaie de me reposer !?}
+{112}{}{Tu fout quoi à fureter dans le coin ?}
+{113}{}{Je regardais les étoiles.}
+{114}{}{Je te cherchais.}
+{115}{}{Je chasse.}
+{116}{}{Ta curiosité va te couter cher. C'est quoi l'embrouille ? Dit-moi la vérité et tu pourra peut-être vivre.}
+{117}{}{Je suis ici pour te tuer.}
+{118}{}{Je suis là pour arrêter cette guerre de gangs.}
+{119}{}{Je cherche juste ma maison. Elle est juste là : la Lune.}
+{120}{}{Je pourrais me sentir mal pour ça, mais je me fiche des personnes mortes.}
+{121}{}{Sacré chance. Allez maintenant casse-toi avant que j'envoie la garde de nuit contre toi.}
+{122}{}{Oh bordel, tu n'aimes vraiment pas la vie. Je vais t'aider à en finir.}
+{123}{}{Tu m'a trouvé. Maintenant casse-toi ou meurt !}
+{124}{}{Je pense que je vais m'en aller.}
+{125}{}{je préfère vivre.}
+{126}{}{Que se passe-til avec les Eventreurs ?}
+{127}{}{Ils vont te tuer !}
+{128}{}{Ils sont morts. Les Griffemorts les ont tué, voilà.}
+{129}{}{Rien pour l'instant.}
+{130}{}{Parfait. Va en parler à Razor.}
+{131}{}{Ne me mens pas. Vas-t-en d'ici !}
+{132}{}{Alors dégage de là et occupe toi en !}
+{133}{}{Hey salut ! Du bon travail avec les Régulateurs !}

@@ -1,41 +1,41 @@
-{100}{}{Stop!}
-{101}{}{Die, human!}
-{102}{}{To the death.}
-{103}{}{You will pay for your sins!}
-{104}{}{You are not supposed to be armed in this area, little brother. Explain yourself.}
-{105}{}{You are not supposed to be armed in this area, little sister. Explain yourself.}
-{106}{}{Hngg.}
-{107}{}{It's okay, I work here.}
-{108}{}{It's okay, I have a pass.}
-{109}{}{I am armed by permission of the Lieutenant.}
-{110}{}{What manner of treason is this?!}
-{111}{}{Then show me your pass.}
-{112}{}{I, uh, left it in my other robe.}
-{113}{}{It's right here, stapled to the front of my gun.}
-{114}{}{Hurry on your task then, but be warned: I'm watching you.}
-{115}{}{Yes, little brother. What is it that you need from me?}
-{116}{}{Yes, little sister. What is it that you need from me?}
-{117}{}{Hng!}
-{118}{}{Hmm, where's this Master guy?}
-{119}{}{Praise to the Unity, brother.}
-{120}{}{I am sorry, but you will have to find the way to Unity yourself.}
-{121}{}{You are obviously a heathen! Pay for your sins!}
-{122}{}{He resides on Level 3, as he must. Why do you ask such a silly question?}
-{123}{}{Oh, uh, no reason.}
-{124}{}{I am going to kick his ass from here to, uh, someplace really far away!}
-{125}{}{What question? I said 'Hail to the Master, goodbye.'}
-{126}{}{You insult me! Die!}
-{127}{}{Praise to the Unity.}
-{128}{}{You sound like you do not believe what you say. Could this be true? Or have you left the path of righteousness?}
-{129}{}{You mistake the tremor in my voice for fear when it is actually a cold of some sort.}
-{130}{}{I think your kind is doomed, actually. Here, let me prove it with some help from my friends...}
-{131}{}{When you become one of us, you will not fear such minor things. Begone.}
-{132}{}{What do you want this time? I have little time for your talk.}
-{133}{}{Labbo!}
-{134}{}{I have little time for your life... Die!}
-{135}{}{Nothing, sorry.}
-{136}{}{Praise to the Unity, brother.}
-{137}{}{Just who are you? Let me see... Argh! An intruder...}
-{138}{}{Move along. Do your part for the Unity and stop bothering me!}
-{139}{}{Get going.}
-{140}{}{Move along. Do your part for the Unity.}
+{100}{}{Arrête !}
+{101}{}{J'espère avoir assez de cartouches.}
+{102}{}{A mort.}
+{103}{}{Tu paieras pour tes péchés !}
+{104}{}{Tu n'as pas le droit d'être armé dans ce secteur, petit frère. Explique-toi.}
+{105}{}{Tu n'as pas le droit d'être armée dans ce secteur, petite soeur. Explique-toi.}
+{106}{}{Euhh.}
+{107}{}{C'est bon, je travaille ici.}
+{108}{}{C'est bon, j'ai un laissez-passer.}
+{109}{}{J'ai l'autorisation du Lieutenant.}
+{110}{}{Allons bon, qu'est-ce que c'est que cette trahison ?!}
+{111}{}{Alors, montre ton laissez-passer.}
+{112}{}{Je, euh, je l'ai laissé dans mon autre robe.}
+{113}{}{Le voilà, au bout de mon fusil.}
+{114}{}{Bon, fais vite ce que t'as à faire, mais attention : je t'ai à l'oeil.}
+{115}{}{Oui, petit frère. Comment je peux t'aider ?}
+{116}{}{Oui, petite soeur. Comment je peux t'aider ?}
+{117}{}{Grr !}
+{118}{}{Humm, où il est ce Maître ?}
+{119}{}{Gloire à l'Unité, frère.}
+{120}{}{C'est fâcheux, mais il faudra que tu trouves la voie vers l'Unité par toi-même.}
+{121}{}{Hérétique ! Tu vas payer pour tes péchés !}
+{122}{}{Il réside au Niveau 3, comme il se doit. Pourquoi une question aussi idiote ?}
+{123}{}{Oh, euh, comme ça.}
+{124}{}{Je vais lui régler son compte de manière, euh, définitive !}
+{125}{}{Quelle question ? J'ai dit "Vive ce Maître adoré."}
+{126}{}{Tu m'insultes ! Meurs donc !}
+{127}{}{Gloire à l'Unité}
+{128}{}{Tu ne sembles pas croire à ce que tu dis. Pas vrai ? Ou as-tu quitté le chemin de la vertu ?}
+{129}{}{Tu te trompes ; si ma voix tremble, ce n'est pas de peur, c'est un rhume.}
+{130}{}{Je crains fort que ton espèce ne soit condamnée. Tiens, je vais te le prouver avec l'aide de mes amis...}
+{131}{}{Quand tu seras des nôtres, tu ne craindras plus ces broutilles. Hors de ma vue.}
+{132}{}{Que veux-tu encore ? Je n'ai guère le temps de discuter.}
+{133}{}{Euh !}
+{134}{}{J'ai n'ai pas le temps de m'occuper de ta vie... Meurs donc !}
+{135}{}{Rien, excuse-moi.}
+{136}{}{Gloire à l'Unité, frère.}
+{137}{}{Qui es-tu au juste ? Que je voie... Ahh ! Un intrus...}
+{138}{}{Déguerpis. Fais ce que tu as à faire pour l'Unité et cesse de m'importuner !}
+{139}{}{Allez, file.}
+{140}{}{File. Fais ce que tu as à faire pour l'Unité.}

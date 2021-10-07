@@ -1,20 +1,20 @@
-{100}{}{You see a studious Follower of the Apocalypse.}
-{101}{}{Please be quiet, I am trying to study.}
-{102}{}{We seek knowledge to protect us from the Children.}
-{103}{}{Nicole says that knowledge of our enemies will help us prevail.}
-{104}{}{Hello.}
-{105}{}{Welcome to the Followers of the Apocalypse. Please respect the sanctity of our Library.}
-{106}{}{Glorious Day to you.}
-{107}{}{All knowledge is holy.}
-{108}{}{We must protect ourselves.}
-{109}{}{Who knows what goes on below the Children's Cathedral?}
-{110}{}{Knowledge is life.}
-{111}{}{Nicole helps us understand the holiness of knowledge.}
-{112}{}{Nicole drives us to resurrect what has been lost.}
-{113}{}{I must find that book for Nicole.}
-{114}{}{Katja must be around here somewhere. Katja!}
-{115}{}{The Children have been driven from the Cathedral.}
-{116}{}{You were the one, weren't you?}
-{117}{}{Now we are safe to discover the knowledge needed to rebuild civilization.}
-{118}{}{Isn't it glorious that the Children are no longer a threat?}
-{119}{}{Glorious day to you.}
+{100}{}{Voici un studieux Disciple de l'Apocalypse.}
+{101}{}{Silence s'il te plaît, j'essaie d'étudier.}
+{102}{}{Nous recherchons la connaissance pour nous protéger des Enfants.}
+{103}{}{Nicole dit qu'en connaissant nos ennemis, nous arriverons à dominer.}
+{104}{}{Bonjour.}
+{105}{}{Bienvenue chez les Disciples de l'Apocalypse. Merci de respecter le caractère sacré de notre Bibliothèque.}
+{106}{}{Magnifique journée à toi.}
+{107}{}{Toute connaissance est sacrée.}
+{108}{}{Nous devons nous protéger.}
+{109}{}{Qui sait ce qui se cache derrière la Cathédrale des Enfants ?}
+{110}{}{La connaissance est la vie.}
+{111}{}{Nicole nous aide à comprendre le caractère sacré de la connaissance.}
+{112}{}{Nicole nous encourage à ressusciter ce qui a été perdu.}
+{113}{}{Il faut que je trouve ce livre pour Nicole.}
+{114}{}{Katja ne doit pas être loin. Katja !}
+{115}{}{Les Enfants ont été éjectés de la Cathédrale.}
+{116}{}{C'était toi, n'est-ce pas ?}
+{117}{}{A présent, nous sommes libres de trouver les connaissances nécessaires pour reconstruire la civilisation.}
+{118}{}{N'est-ce pas merveilleux que les Enfants ne soient plus une menace ?}
+{119}{}{Magnifique journée à toi.}

@@ -1,8 +1,8 @@
-{100}{}{This bookshelf is filled with religious and philosophical books. It's also very dusty.}
-{101}{}{You take a book down, examine it, and put it back on the shelf. The shelf itself seems very sturdy.}
-{102}{}{You find a hidden latch.}
-{103}{}{That does nothing.}
-{104}{}{The wall next to the bookshelf quietly slides out of the way.}
-{105}{}{You fumble with the bookcase for a moment but fail to accomplish anything.}
-{200}{}{The bookshelf is filled with religious and philosophical books.}
-{201}{}{The latch will not budge.}
+{100}{}{L'étagère est remplie de livres religieux et philosophiques entièrement recouverts de poussière.}
+{101}{}{Tu prends un livre pour l'examiner, puis tu le remets rapidement en place. L'étagère semble particulièrement robuste.}
+{102}{}{Tu découvres un levier dissimulé.}
+{103}{}{Rien ne se passe.}
+{104}{}{Le mur à côté de l'étagère s'écarte doucement en glissant sur lui-même.}
+{105}{}{Tu fouilles un moment la bibliothèque sans rien trouver.}
+{200}{}{L'étagère est remplie de livres religieux et philosophiques.}
+{201}{}{Le levier ne veut pas bouger.}

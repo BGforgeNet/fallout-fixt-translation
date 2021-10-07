@@ -1,1 +1,1 @@
-{100}{}{It looks as though the automated security system is armed.}
+{100}{}{Le système de sécurité automatisé semble armé.}

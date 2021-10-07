@@ -1,216 +1,216 @@
-{100}{}{Decker has no wish to talk to you any more.}
-{101}{}{You see: Decker.}
-{102}{}{Decker is too busy to speak to you. Do your job and come back later.}
-{103}{DECK_1}{So. You're looking for a job. How fortunate. I have one that needs doing. Ahh, but where are my manners? What's your name?}
-{104}{}{I am }
+{100}{}{Decker n'a plus envie de te parler.}
+{101}{}{Voici Decker.}
+{102}{}{Decker a trop à faire pour te parler. Fais ton boulot et reviens plus tard.}
+{103}{DECK_1}{Alors comme ça, tu cherches un boulot. Ca tombe à pic. J'en ai justement un qui attend. Ah, j'en oublie les bonnes manières, c'est quoi ton nom ?}
+{104}{}{Je m'appelle }
 {105}{}{.}
-{106}{}{What business is it of yours?}
-{107}{DECK_2}{Well, the pleasantries are now concluded. Do you wish to hear about the job?}
-{108}{}{That's why I'm here.}
-{109}{}{Not particularly.}
-{110}{DECK_3}{Background: There's a certain merchant who's... how to phrase this... not cooperating fully with the Underground.}
-{111}{}{And the job?}
-{112}{DECK_4}{Quite simple. Hunt down the merchant and his wife and exterminate them. }
-{113}{}{You mean kill them?}
-{114}{}{How much for the job?}
-{115}{}{I can't do that!}
-{116}{DECK_5}{All a matter of semantics, but yes. Kill them. Will you take the job?}
-{117}{}{Umm, sure - why not?}
-{118}{}{No! That would be wrong!}
-{119}{}{How much?}
-{120}{DECK_6}{Oh, excellent. The standard pay is 500 scripts to open, and another 2500... to close.}
-{121}{}{Where can I find this merchant?}
-{122}{DECK_7}{They live in the Heights, on Barter Street and Thunder Avenue. Complete the job and return.}
-{123}{}{Okay, I will.}
-{124}{}{How will you know I killed them?}
-{125}{}{I don't think so.}
-{126}{DECK_8}{Quite excellent. My assistant will renumerate you on the way out. Please, close the door behind you.}
-{127}{deck_9}{Trust me. I'll know.}
-{128}{}{Okay, I'll do it.}
-{129}{}{Pass.}
-{130}{DECK_10}{I must confess feeling a bit... disappointed in you. But these things happen. You will remember this is confidential. Good day.}
-{131}{DECK_11}{It's standard pay. 500 caps to start, another 2500 when the job is done. Will you do it?}
-{132}{}{No, thanks.}
-{133}{}{Yeah, I'll do it.}
-{134}{DECK_12}{Very nice. The merchant lives in the Heights, on Barter Street and Thunder Avenue. Your initial pay will be handed to you on your way out.}
-{135}{DECK_13}{Everything is my business in the Hub. Either tell me, or you may leave.}
-{136}{}{My name is }
+{106}{}{En quoi ça t'regarde ?}
+{107}{DECK_2}{Bon, trêve de politesses. Est-ce que tu veux en savoir plus sur ce boulot ?}
+{108}{}{C'est pour ça que je suis là.}
+{109}{}{Pas spécialement.}
+{110}{DECK_3}{Bon, je résume : il y a un certain marchand qui est... comment dire... pas très coopératif avec l'Underground.}
+{111}{}{Et le boulot ?}
+{112}{DECK_4}{Très simple. Traquer le marchand et sa femme, puis les éliminer.}
+{113}{}{Les tuer tu veux dire ?}
+{114}{}{Et combien ça paie ?}
+{115}{}{Je peux pas faire ça !}
+{116}{DECK_5}{Tu joues sur les mots, oui les tuer. Tu prends le boulot ?}
+{117}{}{Hmm, ma foi, pourquoi pas ?}
+{118}{}{Non ! Ce ne serait pas bien !}
+{119}{}{Combien ?}
+{120}{DECK_6}{Excellent. Le salaire normal est 500 caps d'avance, plus 2500... une fois le boulot fait.}
+{121}{}{Où je peux le trouver, ce marchand ?}
+{122}{DECK_7}{Ils vivent dans les Hauteurs, au coin de Barter Street et Thunder Avenue. Tu fais le boulot et tu reviens ici.}
+{123}{}{Ok.}
+{124}{}{Comment tu sauras que je les ai tués ?}
+{125}{}{Je ne crois pas.}
+{126}{DECK_8}{Excellent. Mon assistant te remettra ton dû en sortant. Et ferme la porte en partant.}
+{127}{deck_9}{Fais-moi confiance. Je saurai.}
+{128}{}{D'accord, j'accepte.}
+{129}{}{Sans façons.}
+{130}{DECK_10}{Je dois avouer que... tu me déçois un peu. Mais ce sont des choses qui arrivent. N'oublie pas, tout cela reste entre nous bien sûr. Bonne journée.}
+{131}{DECK_11}{Le salaire normal. 500 caps d'avance, plus 2500 une fois le boulot terminé. Ca te va ?}
+{132}{}{Non, merci.}
+{133}{}{Ouais.}
+{134}{DECK_12}{Très bien. Le marchand habite dans les Hauteurs, au coin de Barter Street et Thunder Avenue. Tu recevras ton avance en sortant.}
+{135}{DECK_13}{Tout me regarde au Centre. Soit tu me parles, soit tu te tires !}
+{136}{}{Je m'appelle }
 {137}{}{.}
-{138}{}{I'm not telling you anything.}
-{139}{DECK_14}{I see... My assistant will show you to the door.}
-{140}{DECK_15}{I'm very proud of you. You're ruthless, an attribute I admire. Kane will give you your payment. I hope you're available in the future.}
-{141}{}{Can I ask you a few questions?}
-{142}{}{Thanks.}
-{143}{DECK_16}{Under the circumstances, yes.}
-{144}{}{What's in the Hub?}
-{145}{}{Heard any rumors?}
-{146}{}{Never mind.}
-{147}{Deck_16b}{Keep it brief, please.}
-{148}{DECK_17}{The Merchant Market is in the center of town, surrounded by a number of establishments. You have the Heights to the west, and Old Town to the east.}
-{149}{}{What kind of establishments?}
-{150}{}{Thanks for the information. Can I ask you a few more questions?}
-{151}{DECK_18}{You're in the Maltese Falcon. There's also the All-N-One Store, the Armory, the Friendly Lending Company, the police and, unfortunately, the Children of the Cathedral hospital.}
-{152}{}{Doesn't sound like you're a fan of the Children. What's up?}
-{153}{}{Thanks. Can I ask you some more questions?}
-{154}{DECK_19}{They... encroach. Let's leave it at that, shall we?}
-{155}{}{Okay. Can I ask you a few more questions?}
-{156}{DECK_20}{I'm not a tour guide. Go see for yourself.}
-{157}{}{Can I ask some more questions?}
-{158}{}{True. Tour guides would be much nicer.}
-{159}{DECK_21}{No. Please get your payment and leave.}
-{160}{DECK_22}{Pardon me? }
-{161}{}{You heard me.}
-{162}{}{Nothing. Can I ask you some more questions?}
-{163}{DECK_23}{You are arrogant. My assistant will show you through... I mean... to the door.}
+{138}{}{J'te dirai rien.}
+{139}{DECK_14}{Je vois... Mon assistant va te montrer la sortie.}
+{140}{DECK_15}{Je suis très content de toi. Tu fais pas de sentiment : une qualité que j'admire. Kane va te donner ton salaire. J'espère que tu seras encore disponible à l'avenir.}
+{141}{}{Puis-je te poser quelques questions ?}
+{142}{}{Merci.}
+{143}{DECK_16}{Vu les circonstances, oui.}
+{144}{}{Qu'est-ce qu'on trouve au Centre ?}
+{145}{}{Tu as entendu des rumeurs ?}
+{146}{}{Qu'importe.}
+{147}{Deck_16b}{Fais vite, s'il te plaît.}
+{148}{DECK_17}{Le Grand Marché se trouve au centre de la ville, au milieu de quelques établissements. A l'Ouest, tu as les Hauteurs, et à l'Est, la Vieille Ville.}
+{149}{}{Quel genre d'établissements ?}
+{150}{}{Merci pour les renseignements. Je peux encore te poser quelques questions ?}
+{151}{DECK_18}{Tu es au Faucon Maltais. Il y a aussi le Grand Bazar, l'Armurerie, les Amis Prêteurs, la police et, malheureusement, l'hôpital des Enfants de la Cathédrale.}
+{152}{}{Tu sembles pas les porter dans ton cœur ces Enfants. C'est quoi le problème ?}
+{153}{}{Merci. Je peux encore te poser quelques questions ?}
+{154}{DECK_19}{Ils sont... encombrants. Restons-en là, d'accord ?}
+{155}{}{Ok. Je peux encore te poser quelques questions ?}
+{156}{DECK_20}{Je suis pas guide touristique ! Va te rendre compte par toi-même.}
+{157}{}{Je peux encore te poser quelques questions ?}
+{158}{}{C'est vrai, les guides touristiques sont plus aimables...}
+{159}{DECK_21}{Non. Maintenant, prends ton salaire et va t'en.}
+{160}{DECK_22}{Pardon ?}
+{161}{}{T'as parfaitement entendu.}
+{162}{}{Rien. Je peux encore te poser quelques questions ?}
+{163}{DECK_23}{Quel arrogance ! Mon assistant va te montrer de quel... je veux dire... te montrer la sortie.}
 {164}{deck_24}{No.}
-{165}{}{Well, can I ask you something else?}
-{166}{}{You're a cranky guy.}
-{167}{DECK_25}{Someone appears to be stealing whole caravans from the Far Go Traders. And the Thieves' Circle is causing their normal minor difficulties.}
+{165}{}{Eh bien, je peux te demander autre chose ?}
+{166}{}{T'es une vraie pipelette, toi.}
+{167}{DECK_25}{Apparemment y'a quelqu'un qui vole des caravanes entières aux Marchands du Lointain. Plus les petits ennuis habituels causés par le Cercle des Voleurs.}
 {168}{}{}
-{169}{}{Sure.}
-{170}{}{No way in hell!}
-{171}{DECK_27}{Excellent. You see, the last job I gave you was a test and you did exceedingly well. Now comes a job of importance.}
-{172}{}{Which is?}
-{173}{}{Sounds scary. I don't think I'm interested.}
-{174}{DECK_28}{As you may know, the Children of the Cathedral have been gaining influence in this town, and frankly, I won't stand for it.}
-{175}{}{So what do you want me to do?}
-{176}{DECK_29}{A small matter. Kill the High Priestess, Jain. Once she's gone, this little nuisance will be ended. Interested?}
-{177}{}{Absolutely.}
-{178}{}{But that would be immoral!}
-{179}{DECK_30}{I believe I'm beginning to like you. The pay is 1000 up front and 4000 upon completion. And trust me, I'll know when it's done.}
-{180}{}{Okay.}
-{181}{DECK_31}{Talk to Kane on your way out. He'll provide you with details.}
-{182}{DECK_32}{And killing the merchant wasn't?}
-{183}{}{Well, all right, I'll do it.}
-{184}{}{I don't care. I won't do it.}
-{185}{DECK_33}{The pay is 1000 in advance and 4000 upon... execution. And trust me, I'll know when it's over.}
-{186}{}{Okay.}
+{169}{}{Bien sûr.}
+{170}{}{Pas question !}
+{171}{DECK_27}{Excellent. Le boulot que tu viens de faire, c'était un test que t'as passé haut la main. Mais là, c'est du sérieux.}
+{172}{}{C'est-à-dire ?}
+{173}{}{Pas très rassurant. Je pense pas que ça m'intéresse.}
+{174}{DECK_28}{Tu le sais peut-être, les Enfants de la Cathédrale gagnent de l'influence dans cette ville, et franchement, je peux pas tolérer ça.}
+{175}{}{Bon, qu'est-ce que t'attends de moi ?}
+{176}{DECK_29}{Une broutille. Tue Jain, la Grande Prêtresse. Elle disparue, mes petits ennuis cesseront. Ca t'intéresse ?}
+{177}{}{Je veux.}
+{178}{}{Mais ce serait immoral !}
+{179}{DECK_30}{Je crois que tu commences à me plaire. Le salaire est de 1000 d'avance, plus 4000 après exécution. Et fais-moi confiance, je saurai si le boulot est fait.}
+{180}{}{D'accord.}
+{181}{DECK_31}{Parle à Kane en sortant. Il te donnera les détails.}
+{182}{DECK_32}{Et tuer le marchand, ça l'était pas ?}
+{183}{}{Bon, d'accord.}
+{184}{}{Ca m'est égal. C'est non.}
+{185}{DECK_33}{Le salaire est 1000 d'avance, plus 4000 une fois... exécuté. Et fais-moi confiance, je saurai si c'est bouclé.}
+{186}{}{D'accord.}
 {187}{}{}
-{188}{DECK_35}{What a pity. Are you certain you won't even hear what the job is?}
-{189}{}{Yep, I'm not gonna do it.}
-{190}{}{Okay, what is it?}
-{191}{DECK_36}{Then we have nothing more to discuss.}
-{192}{DECK_37}{Exceptional job. I believe the religious faction shall not interfere anymore. Speak with Kane for your reward. My thanks - and I will certainly keep you in mind in the future.}
-{193}{DECK_38}{Put that down.}
-{194}{DECK_39}{I am quite a patient man, but even I have limits. Kane, teach this simpleton a lesson.}
-{195}{DECK_40}{Stop that.}
-{196}{DECK_42}{Talk to Kane about that. He can tell you more.}
+{188}{DECK_35}{Quel dommage ! T'es sûr de même pas vouloir écouter en quoi consiste le boulot ?}
+{189}{}{Laisse tomber, j'ai pas l'intention de le faire.}
+{190}{}{D'accord, c'est quoi ?}
+{191}{DECK_36}{Dans ce cas, nous n'avons plus rien à nous dire.}
+{192}{DECK_37}{Un travail remarquable. M'est avis que la faction religieuse nous causera plus d'ennuis ! Demande à Kane ta récompense. Tous mes remerciements, je me souviendrai de toi à l'avenir.}
+{193}{DECK_38}{Pose ça.}
+{194}{DECK_39}{Je suis un mec patient, mais y'a des limites. Kane, donne une leçon à cet abruti !}
+{195}{DECK_40}{Arrête ça.}
+{196}{DECK_42}{Parles-en à Kane. Il t'en dira plus.}
 {197}{DECK_43}{As I said...}
 {198}{DECK_44}{Like I said...}
-{199}{DECK_45}{I already told you...}
-{200}{DECK_46}{Weren't you listening to me? I said...}
-{201}{DECK_47}{Be advised; I am unaccustomed to repeating myself.}
-{202}{DECK_48}{I will not say that again.}
-{203}{DECK_49}{You have no need to know anything else about me.}
-{204}{DECK_50}{Most people do not bandy the name of my organization around lightly. We control the Hub.}
-{205}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
-{206}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense. They are inconsequential to me. That old mutant, Harold would know more.}
-{207}{DECK_53}{He's the head of the police. Nice guy, if you like the straight arrow, honest type. Not like his father; now there was a loyal man.}
-{208}{DECK_54}{Harold's been around for some time. He's over in Old Town. A good source for certain types of information.}
-{209}{DECK_55}{They control the water. Go to the south end of the Merchant Market, you'll find them there.}
-{210}{DECK_56}{He's the head of the Water Merchants.}
-{211}{DECK_57}{They used to control the hospital until the Children took over. Now they sit and brood in their warehouse - very strange. You will find them at the northwest end of the Merchant Market.}
-{212}{DECK_58}{He's the head of the Crimson Caravan.}
-{213}{DECK_59}{They're the last of the merchants, and I mean that literally. Small time stuff, mostly. Look northeast of the Merchant Market.}
-{214}{DECK_60}{Amusing. He considers himself the leader of the Far Go Traders. More of a figurehead, actually. He knows better than to interfere with my business.}
-{215}{DECK_61}{She's in charge of the Weapons Store.}
-{216}{DECK_62}{Something is making the Far Go Traders' caravans disappear. I'd like to know the cause, since it does disrupt a piece of my business.}
-{217}{Deck_63}{It's in the center of town.}
-{218}{DECK_64}{Myths and legends. The Deathclaw is supposedly a ghost or something.}
-{219}{DECK_65}{Old Town takes up the entire east side. The skags live there.}
-{220}{DECK_66}{Most merchants live there. Simply go west from here.}
-{221}{DECK_67}{An annoying organization. Soon they may need a demonstration in the management of power.}
-{222}{DECK_68}{Morpheus is the head of the Children of the Cathedral. He resides down in the Boneyard.}
-{223}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub. I've reason to believe that may change soon.}
-{224}{DECK_70}{One of the fabrications of the Children. He's supposedly some minor deity, or something.}
-{225}{DECK_71}{It's a small place that sells... fair weapons. Over by the Far Go Traders.}
-{226}{DECK_72}{Just out the door and to the north. You can't miss it.}
+{199}{DECK_45}{Je t'ai déjà dit...}
+{200}{DECK_46}{T'écoutais pas ? J'ai dit...}
+{201}{DECK_47}{Joue pas au plus malin, j'ai pas l'habitude de me répéter.}
+{202}{DECK_48}{Je vais pas me répéter.}
+{203}{DECK_49}{T'as pas besoin d'en savoir plus sur mon compte.}
+{204}{DECK_50}{Il y a pas grand-monde dans le coin qui prononce le nom de mon organisation à la légère. Nous contrôlons le Centre.}
+{205}{DECK_51}{C'est ma mère, une femme unique, qui m'a donné l'idée d'ouvrir cet établissement, le plus divertissant du Centre.}
+{206}{DECK_52}{Ils volent les marchands pour distribuer aux pauvres, ou une connerie du genre. Ils me traitent à la légère. Ce vieux mutant, Harold, doit en savoir plus.}
+{207}{DECK_53}{C'est le chef de la police. Un gars gentil, droit dans ses bottes. Pas comme son père, ça c'était un type loyal.}
+{208}{DECK_54}{Ca fait quelque temps que Harold est dans le coin. A la Vieille Ville. Une bonne source d'information... enfin, certaines infos.}
+{209}{DECK_55}{Ils contrôlent l'eau. Au Sud du Grand Marché, c'est là que tu les trouveras.}
+{210}{DECK_56}{C'est le chef des Marchands d'Eau.}
+{211}{DECK_57}{Avant, ils contrôlaient l'hôpital, jusqu'à l'arrivée des Enfants. Maintenant, ils restent là à ronger leur frein dans leur entrepôt - très bizarre. Tu peux les trouver au Nord-Ouest du Grand Marché.}
+{212}{DECK_58}{C'est le chef de la Caravane Ecarlate.}
+{213}{DECK_59}{Les derniers des marchands, au sens propre je veux dire. Que de la broutille, pour ainsi dire. Va voir au Nord-Est du Grand Marché.}
+{214}{DECK_60}{Amusant. Il se prend pour le chef des Marchands du Lointain. En fait, plutôt un homme de paille. Il se risque pas à se mêler de mes oignons.}
+{215}{DECK_61}{C'est elle qui s'occupe de l'Armurerie.}
+{216}{DECK_62}{Les caravanes des Marchands du Lointain disparaissent, on sait pas pourquoi. Et j'aimerais le savoir, parce que ça me gêne dans mes affaires.}
+{217}{Deck_63}{C'est au centre de la ville.}
+{218}{DECK_64}{Des légendes, tout ça ! Le Griffemort serait un fantôme ou quelque chose du genre.}
+{219}{DECK_65}{La Vieille Ville occupe tout le côté est. C'est le territoire des Skags.}
+{220}{DECK_66}{La plupart des marchands vivent là. T'as qu'à te diriger vers l'Ouest.}
+{221}{DECK_67}{Une organisation dérangeante. Il leur faudrait peut-être une petite démonstration de force.}
+{222}{DECK_68}{Morpheus est le chef des Enfants de la Cathédrale. Il a ses quartiers dans le Cimetière.}
+{223}{DECK_69}{Pour l'instant, c'est elle qui dirige les Enfants de la Cathédrale dans le Centre. Mais j'ai idée que ça pourrait bientôt changer.}
+{224}{DECK_70}{Une des inventions des Enfants. Il serait une divinité mineure, paraît-il, ou quelque chose du genre.}
+{225}{DECK_71}{Une petite boutique qui vend... de bonnes armes. A côté des Marchands du Lointain.}
+{226}{DECK_72}{En sortant d'ici, tu files vers le Nord. Tu peux pas le manquer.}
 {227}{DECK_73}{That's not important.}
-{228}{DECK_74}{What? That isn't important now.}
-{229}{DECK_75}{Really. Now why would I want to do that?}
-{230}{}{I see you have disposed of my Second. I will have to take care of you myself.}
-{231}{}{How good to see you Sheriff Greene! I see you've come to say your goodbyes.}
-{232}{DECK_26}{Good day again, my friend. I have another job for you. Are you interested?}
-{233}{DECK_26}{Good day again, my friend. I have another job for you. Are you interested?}
-{234}{DECK_34}{And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.}
-{235}{DECK_34}{And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.}
+{228}{DECK_74}{Quoi ? C'est pas important pour l'instant.}
+{229}{DECK_75}{Vraiment. Et pourquoi je ferais ça ?}
+{230}{}{Je vois que tu as réglé son compte à mon Second. Je vais donc devoir m'occuper de toi moi-même.}
+{231}{}{Quel plaisir de vous voir Shérif Greene ! Je vois que vous êtes venu faire vos adieux.}
+{232}{DECK_26}{Te revoilà mon ami ! J'ai un autre boulot pour toi. Ca t'intéresse ?}
+{233}{DECK_26}{Te revoilà mon ami ! J'ai un autre boulot pour toi. Ca t'intéresse ?}
+{234}{DECK_34}{Et moi qui mettais tellement d'espoirs en toi ! Mais je peux pas risquer que tu préviennes les Enfants. Kane, emmène notre ami et explique-lui bien ce qu'est le silence.}
+{235}{DECK_34}{Et moi qui mettais tellement d'espoirs en toi ! Mais je peux pas risquer que tu préviennes les Enfants. Kane, emmène notre ami et explique-lui bien ce qu'est le silence.}
 {980}{DECK_73}{That's not important.}
-{981}{DECK_74}{What? That isn't important now.}
+{981}{DECK_74}{Quoi ? C'est pas important pour l'instant.}
 {1000}{}{Decker}
 {1001}{}{Underground}
-{1002}{}{Maltese}
-{1003}{}{Thieves}
+{1002}{}{Maltais|Faucon Maltais|Faucon}
+{1003}{}{Voleurs|Voleur|Voleuse|Voleuses}
 {1004}{}{Justin}
 {1005}{}{Harold}
-{1006}{}{Merchants}
+{1006}{}{Marchands|Marchand}
 {1007}{}{Daren}
-{1008}{}{Crimson}
+{1008}{}{Caravane écarlate}
 {1009}{}{Demetre}
-{1010}{}{Far}
+{1010}{}{Marchands du Lointain|Lointain|Marchands-du-Lointain|Marchand-du-Lointain|Marchand du Lointain}
 {1011}{}{Butch}
 {1012}{}{Beth}
-{1013}{}{Missing}
-{1014}{}{Market}
-{1015}{}{Claw}
-{1016}{}{Town}
-{1017}{}{Heights}
+{1013}{}{Caravanes}
+{1014}{}{Marché}
+{1015}{}{Griffemort|Griffes|Griffe|Griffemorts}
+{1016}{}{Ville}
+{1017}{}{Hauteurs}
 {1018}{}{Cathedral}
 {1019}{}{Morpheus}
 {1020}{}{Jain}
-{1021}{}{Master}
-{1022}{}{Store}
-{1023}{}{All-N-One}
-{1024}{}{Falcon}
+{1021}{}{Maître}
+{1022}{}{Magasin}
+{1023}{}{Magasin|Général|Magasin Général}
+{1024}{}{Maltais}
 {1025}{}{Nightclub}
 {1026}{}{Greene}
 {1027}{}{Hightower}
-{1028}{}{Caravans}
+{1028}{}{Caravanes}
 {1029}{}{Romara}
-{1030}{}{Go}
-{1031}{}{Trader}
+{1030}{}{Marchands}
+{1031}{}{Lointain}
 {1032}{}{Harris}
 {1033}{}{Death}
 {1034}{}{Deathclaw}
-{1035}{}{Old}
+{1035}{}{Vieille}
 {1036}{}{Old Town}
-{1037}{}{Children}
-{1038}{}{All}
-{1100}{DECK_49}{You have no need to know anything else about me.}
-{1101}{DECK_50}{Most people do not bandy the name of my organization around lightly. We control the Hub.}
-{1102}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
-{1103}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense. They are inconsequential to me. That old mutant, Harold would know more.}
-{1104}{DECK_53}{He's the head of the police. Nice guy, if you like the straight arrow, honest type. Not like his father, now there was a loyal man.}
-{1105}{DECK_54}{Harold's been around for some time. He's over in Old Town. A good source for certain types of information.}
-{1106}{DECK_55}{They control the water. Go to the south end of the Merchant Market, you'll find them there.}
-{1107}{DECK_56}{He's the head of the Water Merchants.}
-{1108}{DECK_57}{They used to control the hospital until the Children took over. Now they sit and brood in their warehouse - very strange. You will find them at the northwest end of the Merchant Market.}
-{1109}{DECK_58}{He's the head of the Crimson Caravan.}
-{1110}{DECK_59}{They're the last of the merchants, and I mean that literally. Small time stuff, mostly. Look northeast of the Merchant Market.}
-{1111}{DECK_60}{Amusing. He considers himself the leader of the Far Go Traders. More of a figurehead, actually. He knows better than to interfere with my business.}
-{1112}{DECK_61}{She's in charge of the Weapons Store.}
-{1113}{DECK_62}{Something is making the Far Go Traders' caravans disappear. I'd like to know the cause, since it does disrupt a piece of my business.}
-{1114}{Deck_63}{It's in the center of town.}
-{1115}{DECK_64}{Myths and legends. The Deathclaw is supposedly a ghost or something.}
-{1116}{DECK_65}{Old Town takes up the entire east side. The skags live there.}
-{1117}{DECK_66}{Most merchants live there. Simply go west from here.}
-{1118}{DECK_67}{An annoying organization. Soon they may need a demonstration in the management of power.}
-{1119}{DECK_68}{Morpheus is the head of the Children of the Cathedral. He resides down in the Boneyard.}
-{1120}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub. I've reason to believe that may change soon.}
-{1121}{DECK_70}{One of the fabrications of the Children. He's supposedly some minor deity, or something.}
-{1122}{DECK_71}{It's a small place that sells... fair weapons. Over by the Far Go Traders.}
-{1123}{DECK_72}{Just out the door and to the north. You can't miss it.}
-{1124}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
-{1125}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
-{1126}{DECK_53}{He's the head of the police. Nice guy, if you like the straight arrow, honest type. Not like his father, now there was a loyal man.}
-{1127}{DECK_56}{He's the head of the Water Merchants.}
-{1128}{DECK_62}{Something is making the Far Go Traders' caravans disappear. I'd like to know the cause, since it does disrupt a piece of my business.}
-{1129}{DECK_58}{He's the head of the Crimson Caravan.}
-{1130}{DECK_59}{They're the last of the merchants, and I mean that literally. Small time stuff, mostly. Look northeast of the Merchant Market.}
-{1131}{DECK_59}{They're the last of the merchants, and I mean that literally. Small time stuff, mostly. Look northeast of the Merchant Market.}
-{1132}{DECK_60}{Amusing. He considers himself the leader of the Far Go Traders. More of a figurehead, actually. He knows better than to interfere with my business.}
-{1133}{DECK_64}{Myths and legends. The Deathclaw is supposedly a ghost or something.}
-{1134}{DECK_64}{Myths and legends. The Deathclaw is supposedly a ghost or something.}
-{1135}{DECK_65}{Old Town takes up the entire east side. The skags live there.}
-{1136}{DECK_65}{Old Town takes up the entire east side. The skags live there.}
-{1137}{DECK_67}{An annoying organization. Soon they may need a demonstration in the management of power.}
-{1138}{DECK_72}{Just out the door and to the north. You can't miss it.}
+{1037}{}{Enfants}
+{1038}{}{Bazar}
+{1100}{DECK_49}{T'as pas besoin d'en savoir plus sur mon compte.}
+{1101}{DECK_50}{Il y a pas grand-monde dans le coin qui prononce le nom de mon organisation à la légère. Nous contrôlons le Centre.}
+{1102}{DECK_51}{C'est ma mère, une femme unique, qui m'a donné l'idée d'ouvrir cet établissement, le plus divertissant du Centre.}
+{1103}{DECK_52}{Ils volent les marchands pour distribuer aux pauvres, ou une connerie du genre. Ils me traitent à la légère. Ce vieux mutant, Harold, doit en savoir plus.}
+{1104}{DECK_53}{C'est le chef de la police. Un gars gentil, droit dans ses bottes. Pas comme son père. Ca c'était un type loyal !}
+{1105}{DECK_54}{Ca fait quelque temps que Harold est dans le coin. A la Vieille Ville. Une bonne source d'information... enfin, certaines infos.}
+{1106}{DECK_55}{Ils contrôlent l'eau. Au Sud du Grand Marché, c'est là que tu les trouveras.}
+{1107}{DECK_56}{C'est le chef des Marchands d'Eau.}
+{1108}{DECK_57}{Avant, ils contrôlaient l'hôpital, jusqu'à l'arrivée des Enfants. Maintenant, ils restent là à ronger leur frein dans leur entrepôt - très bizarre. Tu peux les trouver au Nord-Ouest du Grand Marché.}
+{1109}{DECK_58}{C'est le chef de la Caravane Ecarlate.}
+{1110}{DECK_59}{Les derniers des marchands, au sens propre je veux dire. Que de la broutille, pour ainsi dire. Va voir au Nord-Est du Grand Marché.}
+{1111}{DECK_60}{Amusant. Il se prend pour le chef des Marchands du Lointain. En fait, plutôt un homme de paille. Il se risque pas à se mêler de mes oignons.}
+{1112}{DECK_61}{C'est elle qui s'occupe de l'Armurerie.}
+{1113}{DECK_62}{Les caravanes des Marchands du Lointain disparaissent, on sait pas pourquoi. Et j'aimerais le savoir, parce que ça me gêne dans mes affaires.}
+{1114}{Deck_63}{C'est au centre de la ville.}
+{1115}{DECK_64}{Des légendes, tout ça ! Le Griffemort serait un fantôme ou quelque chose du genre.}
+{1116}{DECK_65}{La Vieille Ville occupe tout le côté est. C'est le territoire des Skags.}
+{1117}{DECK_66}{La plupart des marchands vivent là. T'as qu'à te diriger vers l'Ouest.}
+{1118}{DECK_67}{Une organisation dérangeante. Il leur faudrait peut-être une petite démonstration de force.}
+{1119}{DECK_68}{Morpheus est le chef des Enfants de la Cathédrale. Il a ses quartiers dans le Cimetière.}
+{1120}{DECK_69}{Pour l'instant, c'est elle qui dirige les Enfants de la Cathédrale dans le Centre. Mais j'ai idée que ça pourrait bientôt changer.}
+{1121}{DECK_70}{Une des inventions des Enfants. Il serait une divinité mineure, paraît-il, ou quelque chose du genre.}
+{1122}{DECK_71}{Une petite boutique qui vend... de bonnes armes. A côté des Marchands du Lointain.}
+{1123}{DECK_72}{En sortant d'ici, tu files vers le Nord. Tu peux pas le manquer.}
+{1124}{DECK_51}{C'est ma mère, une femme unique, qui m'a donné l'idée d'ouvrir cet établissement, le plus divertissant du Centre.}
+{1125}{DECK_51}{C'est ma mère, une femme unique, qui m'a donné l'idée d'ouvrir cet établissement, le plus divertissant du Centre.}
+{1126}{DECK_53}{C'est le chef de la police. Un gars gentil, droit dans ses bottes. Pas comme son père. Ca c'était un type loyal !}
+{1127}{DECK_56}{C'est le chef des Marchands d'Eau.}
+{1128}{DECK_62}{Les caravanes des Marchands du Lointain disparaissent, on sait pas pourquoi. Et j'aimerais le savoir, parce que ça me gêne dans mes affaires.}
+{1129}{DECK_58}{C'est le chef de la Caravane Ecarlate.}
+{1130}{DECK_59}{Les derniers des marchands, au sens propre je veux dire. Que de la broutille, pour ainsi dire. Va voir au Nord-Est du Grand Marché.}
+{1131}{DECK_59}{Les derniers des marchands, au sens propre je veux dire. Que de la broutille, pour ainsi dire. Va voir au Nord-Est du Grand Marché.}
+{1132}{DECK_60}{Amusant. Il se prend pour le chef des Marchands du Lointain. En fait, plutôt un homme de paille. Il se risque pas à se mêler de mes oignons.}
+{1133}{DECK_64}{Des légendes, tout ça ! Le Griffemort serait un fantôme ou quelque chose du genre.}
+{1134}{DECK_64}{Des légendes, tout ça ! Le Griffemort serait un fantôme ou quelque chose du genre.}
+{1135}{DECK_65}{La Vieille Ville occupe tout le côté est. C'est le territoire des Skags.}
+{1136}{DECK_65}{La Vieille Ville occupe tout le côté est. C'est le territoire des Skags.}
+{1137}{DECK_67}{Une organisation dérangeante. Il leur faudrait peut-être une petite démonstration de force.}
+{1138}{DECK_72}{En sortant d'ici, tu files vers le Nord. Tu peux pas le manquer.}

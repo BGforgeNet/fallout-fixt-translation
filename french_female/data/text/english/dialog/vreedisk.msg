@@ -1,5 +1,5 @@
-{100}{}{This is the disk containing Vree's autopsy reports.}
-{101}{}{Pip-Boy 2000 displays: "Downloading ... Aborting, data already exists!"}
-{102}{}{Pip-Boy 2000 displays: "Downloading data ... ... ... Done. Have a nice day!"}
-{103}{}{This holodisk contains medical evidence from Vree of the Brotherhood of Steel showing that Super Mutants are sterile.}
-{104}{}{You see: Vree's Autopsy Reports.}
+{100}{}{Voici le disque du rapport d'autopsie de Vree.}
+{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
+{103}{}{Cet holodisque contient les preuves médicales de Vree de la Confrérie de l'Acier démontrant que les Super Mutants sont stériles.}
+{104}{}{Tu vois: Rapports d'autopsie de Vree.}

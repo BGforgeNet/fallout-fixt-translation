@@ -1,1 +1,1 @@
-{100}{}{This is the Central Core Room of the Vault. It is here that the computing machines are located.}
+{100}{}{Il s'agit du Coeur de l'Abri. C'est ici que se trouve tout le système informatique.}

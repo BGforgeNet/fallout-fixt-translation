@@ -1,141 +1,141 @@
-{100}{}{You see: Cabbot, an Initiate of the Brotherhood of Steel.}
-{101}{Cab_1}{Hello and welcome to the Brotherhood of Steel. May I ask your business here?}
-{102}{}{Who're you?}
-{103}{}{Can I ask you a few questions?}
-{104}{}{Uhhh?}
-{105}{}{I'd like to join.}
-{106}{}{What do you do?}
-{107}{}{Never mind, thanks.}
-{108}{Cab_2}{Uh, I'm Cabbot, but uh, you didn't answer me. What can I do for you?}
-{109}{}{Can I ask you a few questions?}
-{110}{}{Oh yeah, as if you'd like to know.}
-{111}{}{I'd like to join.}
-{112}{}{What do you do?}
-{113}{}{Never mind, thanks.}
-{114}{Cab_4}{That's great! Uh, w-wait here a second and let me see what you need to do!}
-{115}{Cab_5}{Uh, well, I talked to the High Elder, and he said that not just anyone can join. He, um, he said you have to complete a quest first.}
-{116}{}{Like what?}
-{117}{}{Never mind, see you later.}
-{118}{}{Did you do a quest before you joined?}
-{119}{Cab_5a}{Uh, not exactly. But things are a bit different right now.}
-{120}{}{So what's the quest?}
-{121}{}{So tell me what's different.}
-{122}{}{Never mind then, I'll come back another time.}
-{123}{Cab_6}{You have to go to the ruins of the Ancient Order. That's south of here. Uh, you've gotta go inside and bring back something that proves that you were there.}
-{124}{}{How will you know if it is from inside this place?}
-{125}{}{Okay.}
-{126}{}{No way in hell.}
-{127}{Cab_7}{This place is high tech. There's things inside like you've never seen before. Oh, uh, it's also radioactive. Aheh.}
-{128}{}{Okay, I'll do it.}
-{129}{}{Sounds scary. Count me out.}
-{130}{Cab_9}{You'll do it? You will? Great! Just bring it back here! Good luck.}
-{131}{Cab_10}{Oh... okay then. Goodbye.}
-{132}{Cab_12}{Well, uh, I'm an Initiate. Right now, my job is to greet people at the door.}
-{133}{}{Doesn't sound terribly exciting, but I still want to join the Brotherhood.}
-{134}{}{Okay, thanks. See you around.}
-{135}{}{Can I ask you a few questions?}
-{136}{Cab_16}{Well, uh, I have to ask. It's my job.}
-{137}{}{Can I ask you a few questions?}
-{138}{}{Can I join the Brotherhood?}
-{139}{}{I don't have to tell you anything. Go get your commander.}
-{140}{}{Well then, I'll just be going now.}
-{141}{Cab_17}{I'm sorry, I really can't. Th-They said not to. Goodbye!}
-{142}{Cab_18}{No! Go away!}
-{143}{Cab_19g}{Well, hello again. You decide what you wanted?}
-{144}{Cab_19n}{Hello. What do you need now?}
-{145}{}{I've changed my mind. I want to join the Brotherhood.}
-{146}{}{Can I ask you a few questions?}
-{147}{}{Never mind. Goodbye.}
-{148}{Cab_20}{You're making fun of me, aren't you? Goodbye!}
+{100}{}{Voici Cabbot, un Initié de la Confrérie de l'Acier.}
+{101}{Cab_1}{Bonjour et bienvenue à la Confrérie de l'Acier. Puis-je te demander ce que tu viens faire ici ?}
+{102}{}{Qui es-tu ?}
+{103}{}{Puis-je te poser quelques questions ?}
+{104}{}{Hein ?}
+{105}{}{J'aimerais m'engager.}
+{106}{}{Que fais-tu ?}
+{107}{}{Oh rien, merci.}
+{108}{Cab_2}{Je m'appelle Cabbot, mais euh... tu m'as pas répondu. Que puis-je faire pour toi ?}
+{109}{}{Puis-je te poser quelques questions ?}
+{110}{}{Ah ouais, comme si ça t'intéressait !}
+{111}{}{J'aimerais m'engager.}
+{112}{}{Que fais-tu ?}
+{113}{}{Oh rien, merci.}
+{114}{Cab_4}{Super ! Bon, attends ici deux secondes, laisse-moi aller voir ce que tu dois faire !}
+{115}{Cab_5}{Euh, eh bien... j'ai parlé à l'Aîné, et il dit que n'importe qui peut pas s'engager comme ça. Il... euh, il dit qu'on doit d'abord accomplir une quête.}
+{116}{}{Comme quoi ?}
+{117}{}{Aucune importance. A plus tard !}
+{118}{}{Toi, tu as accompli une quête avant de t'engager ?}
+{119}{Cab_5a}{Euh, pas exactement. Mais les choses ont un peu changé depuis.}
+{120}{}{Alors, en quoi ça consiste, cette quête ?}
+{121}{}{Alors, dis-moi ce qui a changé.}
+{122}{}{Dans ce cas ça ne fait rien, je reviendrai une autre fois.}
+{123}{Cab_6}{Tu dois te rendre aux ruines de l'Ordre Ancien. Au Sud d'ici. Euh, tu dois aller à l'intérieur et en rapporter une preuve.}
+{124}{}{Comment tu sauras qu'elle vient bien de là ?}
+{125}{}{D'accord.}
+{126}{}{Pas question !}
+{127}{Cab_7}{C'est un endroit high-tech. C'est plein de choses que t'as jamais vues ailleurs. Et puis, euh... c'est radioactif !}
+{128}{}{D'accord, j'accepte.}
+{129}{}{Pas l'air rassurant tout ça. Compte pas sur moi.}
+{130}{Cab_9}{Tu vas y aller ? Sûr ? Super ! T'as qu'à rapporter ta preuve ici. Bonne chance !}
+{131}{Cab_10}{Oh... d'accord, dans ce cas. Au revoir.}
+{132}{Cab_12}{Eh bien, euh, je suis un Initié. Pour l'instant, mon travail est d'accueillir les gens à la porte.}
+{133}{}{Ca m'a pas l'air passionnant, mais bon, je veux quand même m'engager dans la Confrérie.}
+{134}{}{D'accord, merci. A un de ces quatre.}
+{135}{}{Puis-je te poser quelques questions ?}
+{136}{Cab_16}{Eh bien, euh, je dois le demander. C'est mon travail.}
+{137}{}{Puis-je te poser quelques questions ?}
+{138}{}{Je peux m'engager dans la Confrérie ?}
+{139}{}{J'ai pas à te répondre. Va me chercher ton chef.}
+{140}{}{Dans ce cas, je file.}
+{141}{Cab_17}{Désolé, je peux vraiment pas. Il-Ils ont dit de ne pas répondre aux questions. Au revoir !}
+{142}{Cab_18}{Non ! Va-t'en !}
+{143}{Cab_19g}{Re-bonjour. T'as pris une décision ?}
+{144}{Cab_19n}{Bonjour. Qu'est-ce que tu veux cette fois ?}
+{145}{}{J'ai changé d'avis. Je veux m'engager dans la Confrérie.}
+{146}{}{Puis-je te poser quelques questions ?}
+{147}{}{Laisse tomber. Au revoir.}
+{148}{Cab_20}{Tu te fous de moi, non ? Au revoir !}
 {149}{Cab_21}{Go away!}
-{150}{}{Please, I'm sorry I made you angry. Can we try again?}
-{151}{}{Okay.}
-{152}{Cab_22}{No! I think you're just lying to me. Goodbye!}
-{153}{Cab_23}{Hmmm. Alright, I'll believe you for now. So what do you want?}
-{154}{}{I've changed my mind. I want to join the Brotherhood.}
-{155}{}{Can I ask you a few questions?}
-{156}{}{Never mind. Goodbye.}
-{157}{Cab_24}{Hey! You're back! Did you get something?}
-{158}{}{Yep, sure did.}
-{159}{}{No, I didn't yet.}
-{160}{Cab_25}{Great! But... um... the High Elder said you have to give it to me first before you can be let in. Sorry.}
-{161}{}{Okay.}
-{162}{}{No, I don't want to.}
-{163}{Cab_27}{This is great! Hang on while I open the door.}
-{164}{}{Okay.}
-{165}{Cab_28}{Hmmm... Sorry, but, uh, this could have come from anywhere.}
-{166}{}{But...}
-{167}{Cab_30}{Alright, so I'm gonna let you in. But I'm gonna tell ya' what's going on after I do that. Alright? I'll be in the guard room. You can let yourself out, but I have to let you back in. Oh, and the High Elder wants to speak with you in the war room. It's on the third floor.}
-{168}{Cab_31}{You don't need to lie. Just come back when you have something.}
-{169}{Cab_32}{Well, let me know when you do.}
-{170}{Cab_33g}{Hello! You want back in?}
-{171}{Cab_33b}{Are you coming back in?}
-{172}{Cab_33n}{You want back in?}
-{173}{}{Yes, please.}
-{174}{}{If you'd open the gate.}
-{175}{Cab_34g}{Great! See you around, huh?}
+{150}{}{S'il te plaît, pardon de t'avoir irrité. On peut réessayer ?}
+{151}{}{D'accord.}
+{152}{Cab_22}{Non ! A mon avis, tu mens. Au revoir !}
+{153}{Cab_23}{Hmm. D'accord, ça ira pour cette fois. Alors, qu'est-ce que tu veux ?}
+{154}{}{J'ai changé d'avis. Je veux m'engager dans la Confrérie.}
+{155}{}{Puis-je te poser quelques questions ?}
+{156}{}{Laisse tomber. Au revoir.}
+{157}{Cab_24}{Ah... de retour ! Tu as apporté quelque chose ?}
+{158}{}{Oui.}
+{159}{}{Non, pas encore.}
+{160}{Cab_25}{Super ! Mais, hmm... l'Aîné a dit que tu dois d'abord me le remettre avant d'être admis. Désolé.}
+{161}{}{D'accord.}
+{162}{}{Non, je veux pas.}
+{163}{Cab_27}{Super ! Une minute, que j'ouvre la porte.}
+{164}{}{D'accord.}
+{165}{Cab_28}{Hmm... désolé, mais ça pourrait venir de n'importe où.}
+{166}{}{Mais...}
+{167}{Cab_30}{Bon, alors je te laisse entrer. Mais ensuite j'te raconterai c'qui s'passe. Je serai dans la salle des gardes. Tu peux sortir mais il y a que moi qui peux te faire rentrer ensuite. Ah, et l'Aîné veut te parler dans la Salle de guerre. C'est au troisième étage.}
+{168}{Cab_31}{Pas la peine de mentir. Reviens seulement quand t'auras quelque chose.}
+{169}{Cab_32}{N'oublie pas de me prévenir quand ce sera fait.}
+{170}{Cab_33g}{Salut ! Tu veux rentrer ?}
+{171}{Cab_33b}{Tu rentres ?}
+{172}{Cab_33n}{Tu veux rentrer ?}
+{173}{}{Oui, s'il vous plaît.}
+{174}{}{Si tu pouvais ouvrir la porte...}
+{175}{Cab_34g}{Super ! A un de ces quatre, ok ?}
 {176}{Cab_34b}{Fine.}
 {177}{Cab_34n}{Okay.}
-{178}{}{What exactly do you do?}
-{179}{}{Heard any good rumors lately?}
-{180}{}{Goodbye, Cabbot.}
+{178}{}{Qu'est-ce que tu fais exactement ?}
+{179}{}{Quelques rumeurs intéressantes ?}
+{180}{}{Au revoir, Cabbot.}
 {181}{Cab_35a}{Go ahead.}
-{182}{Cab_36g}{Well hello! What can I help you with?}
-{183}{Cab_36b}{What do you need?}
-{184}{Cab_36n}{Can I help you with something?}
-{185}{}{Can I ask you a few questions?}
-{186}{}{Never mind. Goodbye.}
+{182}{Cab_36g}{Salut ! Qu'est-ce que je peux faire pour toi ?}
+{183}{Cab_36b}{Qu'est-ce que tu veux ?}
+{184}{Cab_36n}{Je peux faire quelque chose pour toi ?}
+{185}{}{Puis-je te poser quelques questions ?}
+{186}{}{Laisse tomber. Au revoir.}
 {187}{Cab_37}{Goodbye.}
-{188}{Cab_38}{I greet people at the gates and decide whether to let them in. You and the merchants are about the only ones that get in now, because the Elders seem like they're preparing for something.}
-{189}{}{Do you know what it could be all about?}
-{190}{}{Why do you let the merchants in?}
-{191}{Cab_39}{Uh... I don't know, but, uh, I've heard the High Elder arguing with the other Elders.}
-{192}{}{Can I ask you a few more questions?}
-{193}{}{Thanks. I'll see you around.}
-{194}{Cab_40}{Why do I let 'em in? Well... we have to get our food and other things. We trade our weapons for all that.}
-{195}{}{Why don't you just grow food yourselves?}
-{196}{}{Can I ask you a few more questions?}
-{197}{}{Thanks. I'll see you around.}
-{198}{Cab_41}{Uh, well, the purpose of this place is to make Scribes and Knights. Anyone who wants to be something else just leaves.}
-{199}{}{Oh. Can I ask you a few more questions?}
-{200}{}{Thanks. I'll see you around.}
-{201}{Cab_42}{Well, some of the Initiates think we're preparing for war. That's why hardly anyone gets in now. I was surprised when the High Elder told me to let you in.}
-{202}{}{Why?}
-{203}{}{Thanks. Can I ask you a few more questions?}
-{204}{}{Thanks for the info. I'll see you around.}
-{205}{Cab_43}{I don't think that belongs to you.}
-{206}{Cab_44}{I'm sorry, but I'm going to have to go tell the guards.}
-{207}{Cab_45}{I don't think you should be doing that.}
-{208}{Cab_46a}{Oh, okay. Whatever.}
+{188}{Cab_38}{C'est moi qui accueille les gens à la porte et qui décide s'ils peuvent entrer. Toi et les marchands, vous êtes maintenant à peu près les seuls autorisés, parce qu'on dirait que les Anciens, ils se préparent à quelque chose.}
+{189}{}{T'as une idée de quoi il pourrait s'agir ?}
+{190}{}{Pourquoi tu laisses les marchands entrer ?}
+{191}{Cab_39}{Euh... je sais pas mais... j'ai entendu l'Aîné qui se prenait le bec avec les autres Anciens.}
+{192}{}{Je peux encore te poser quelques questions ?}
+{193}{}{Merci. A un de ces quatre.}
+{194}{Cab_40}{Pourquoi j'devrais les laisser entrer ? Ben... On doit se procurer notre nourriture et le reste. Pour ça, on échange nos armes.}
+{195}{}{Pourquoi pas simplement faire pousser votre nourriture ?}
+{196}{}{Je peux encore te poser quelques questions ?}
+{197}{}{Merci. A un de ces quatre.}
+{198}{Cab_41}{Euh, eh bien, cet endroit sert à former des Scribes et des Chevaliers. Celui qui cherche autre chose n'a rien à faire ici.}
+{199}{}{Oh. Je peux encore te poser quelques questions ?}
+{200}{}{Merci. A un de ces quatre.}
+{201}{Cab_42}{Eh bien, certains des Initiés pensent qu'on se prépare pour la guerre. C'est pourquoi pratiquement personne n'entre ici. Ca m'a surpris que l'Aîné me dise de te faire entrer.}
+{202}{}{Pourquoi ?}
+{203}{}{Merci. Je peux encore te poser quelques questions ?}
+{204}{}{Merci pour les infos. A un de ces quatre.}
+{205}{Cab_43}{Je pense pas que ça t'appartienne.}
+{206}{Cab_44}{Désolé, mais il va falloir que j'aille en parler aux gardes.}
+{207}{Cab_45}{Je crois pas que tu devrais faire ça.}
+{208}{Cab_46a}{Ah, d'accord. Peu importe.}
 {209}{Cab_47}{As I said...}
 {210}{Cab_48}{Well, as I said...}
-{211}{Cab_49}{As I've said before...}
-{212}{Cab_50}{Well, it's like I said...}
-{213}{Cab_51}{Now, um, I ha- I hate to be rude, but I don't like to repeat myself. Okay?}
-{214}{}{Um, ya know, I really don't have time to sit here and repeat myself over and over again. You can understand, can't you?}
-{215}{Cab_53}{Well, that's me.}
-{216}{Cab_54}{She's the head of the Scribes. She's usually in the library. Go down into the basement and, uh, it's on your right hand side.}
-{217}{Cab_55}{The Knights say he can be a tough taskmaster, but I don't personally, because, uh, I'm studying under Vree to become a Scribe.}
-{218}{Cab_56}{General Maxson used to be Master Knight. I don't think he likes being High Elder much.}
-{219}{Cab_57}{They make all the decisions around here, from what we eat to what our duties are. And, uh, they argue a lot, too. The High Elder seems to have to step in a lot.}
-{220}{Cab_58}{Okay, well, Scribes are the keepers of all the histories and the blueprints for the weapons we make. I just love books; that's why I want to be one... a Scribe, that is.}
-{221}{Cab_59}{Well, you see, they're the ones who want to become protectors of the Brotherhood. There's not many of them, but they train their whole lives to become Paladins.}
-{222}{Cab_60}{That's the town to the south, right? We get the merchants here all the time, but I've never been there myself. Gee, I wouldn't know what to do in a big city like that.}
-{223}{Cab_61}{You should talk to Vree, I think. She'll tell ya' about 'em.}
-{224}{Cab_62}{They trade with us for food and stuff. We give them weapons. They don't come around too often anymore, but, uh, I don't know why.}
-{225}{Cab_63}{Whoa, that's a long story. Go to the library and talk to Vree. She'll be able to show you where the history CDs are.}
-{226}{Cab_64}{Oh, well, in the Exodus, the Brotherhood split into two groups. The group that broke away robbed the others of some of the weapons an-and they went south. Then about ten years ago we sent out Knights to look for them and all they found was ruins. No one knows what happened.}
-{227}{Cab_65}{The ancient Brotherhood came from some place far up north a long, long time ago. We call this the great Exodus. You can read about it more if you ask Vree in the library.}
-{228}{Cab_66}{Uhh... I don't know anything about that.}
-{229}{Cab_67}{Hmm... I don't know. You might want to ask someone more important than me.}
-{230}{Cab_68}{I don't know what that is. You might want to ask around.}
-{231}{}{Go talk to Mathia. She'll tell you more about that.}
-{232}{}{You earn 2000 experience for becoming an Initiate of the Brotherhood of Steel.}
-{233}{}{We don't want your kind here. Go away!}
-{234}{}{Is this what they're looking for? (You show him the holodisk you found.)}
-{980}{Cab_66}{Uhh... I don't know anything about that. Entry 980}
-{981}{Cab_67}{Hmm... I don't know. You might want to ask someone more important than me.}
-{982}{Cab_68}{I don't know what that is. You might want to ask around.}
+{211}{Cab_49}{Comme je l'ai déjà dit...}
+{212}{Cab_50}{Eh bien, c'est comme je l'ai dit...}
+{213}{Cab_51}{Hmm, je... j'ai horreur d'être grossier mais j'aime pas me répéter, d'accord ?}
+{214}{}{Hmm, tu sais, j'ai pas vraiment le temps de rester là à me répéter trente six fois de suite. Tu me comprends, non ?}
+{215}{Cab_53}{Eh bien, c'est moi.}
+{216}{Cab_54}{C'est la cheffe des Scribes. En général, elle se trouve dans la bibliothèque. Tu descends au sous-sol, c'est sur ta droite.}
+{217}{Cab_55}{D'après les Chevaliers, c'est parfois un véritable tyran... Moi, j'ai pas à m'en plaindre, parce que, euh, c'est avec Vree que j'apprends le métier de Scribe.}
+{218}{Cab_56}{Dans le temps, le Général Maxson était Grand Chevalier. J'ai pas l'impression que ça lui plaît beaucoup d'être Aîné.}
+{219}{Cab_57}{Ils prennent toutes les décisions, depuis ce qu'on mange jusqu'à tout ce qu'on doit accomplir. Et ils sont pas toujours d'accord. L'Aîné doit souvent y mettre son grain de sel.}
+{220}{Cab_58}{Eh bien, les scribes sont les gardiens de tous les récits et des plans pour les armes qu'on fabrique. J'adore les livres; c'est pour ça que je veux devenir en devenir un... de Scribe, voilà.}
+{221}{Cab_59}{Eh bien, tu vois, c'est ceux qui veulent devenir les protecteurs de la Confrérie. Ils sont pas nombreux, mais ils s'entraînent jour et nuit pour devenir Paladins.}
+{222}{Cab_60}{C'est la ville qui est au Sud, n'est-ce pas ? Les marchands y sont toujours fourrés, mais moi, jamais j'y ai mis les pieds. Bon sang, je serais perdu dans une grande ville pareille.}
+{223}{Cab_61}{Si tu veux mon avis, parle à Vree. Elle en sait long là-dessus.}
+{224}{Cab_62}{Ils échangent de la nourriture et d'autres trucs avec nous. On leur donne des armes. Ils viennent plus beaucoup dans les parages, je sais pas pourquoi.}
+{225}{Cab_63}{Oh là là ! C'est une longue histoire. Va à la bibliothèque parler à Vree. Elle pourra te montrer où sont les CD d'Histoire.}
+{226}{Cab_64}{Ah, eh bien, pendant l'Exode, la Confrérie s'est scindée en deux groupes. Le groupe qui est parti a dérobé des armes à l'autre et... il a foncé vers le Sud-Est. Il y a environ dix ans, nous avons envoyé des chevaliers à sa recherche, mais ils ont trouvé que des ruines. Personne sait ce qui est arrivé.}
+{227}{Cab_65}{L'ancienne Confrérie est venue d'un endroit situé loin au Nord, il y a bien longtemps. C'est ce qu'on appelle le grand Exode. Si tu veux en savoir plus, demande à Vree, à la bibliothèque, il y a des livres qui en parlent.}
+{228}{Cab_66}{Hmm... Je sais rien de tout ça.}
+{229}{Cab_67}{Hmm... Je sais pas. Il faut demander à quelqu'un de plus important que moi.}
+{230}{Cab_68}{Euh... J'en sais rien.}
+{231}{}{Va parler à Mathia. Elle t'en dira plus long.}
+{232}{}{points d'expérience si tu deviens un Initié.}
+{233}{}{On a que faire des gens de ton espèce ici. Va-t'en !}
+{234}{}{Est-ce que c'est ça que vous voulez ? [Tu lui montres l'holodisque que tu as trouvé.]}
+{980}{Cab_66}{Euh... J'en sais rien.}
+{981}{Cab_67}{Hmm... Je sais pas. Il faut demander à quelqu'un de plus important que moi.}
+{982}{Cab_68}{Euh... J'en sais rien.}
 {983}{Cab_66}{Uhh... I don't know anything about that. Entry 983}
 {984}{Cab_66}{Uhh... I don't know anything about that. Entry 984}
 {985}{Cab_66}{Uhh... I don't know anything about that. Entry 985}
@@ -153,28 +153,28 @@
 {997}{Cab_66}{Uhh... I don't know anything about that. Entry 997}
 {998}{Cab_66}{Uhh... I don't know anything about that. Entry 998}
 {999}{Cab_66}{Uhh... I don't know anything about that. Entry 999}
-{1000}{}{Initiate}
+{1000}{}{Initié}
 {1001}{}{Vree}
 {1002}{}{Rhombus}
 {1003}{}{Elder}
-{1004}{}{Elders}
+{1004}{}{Anciens}
 {1005}{}{Scribes}
-{1006}{}{Knights}
-{1007}{}{Hub}
-{1008}{}{Disks}
-{1009}{}{Merchants}
-{1010}{}{Brotherhood}
-{1011}{}{Ancient}
-{1012}{}{Exodus}
+{1006}{}{Chevaliers|Chevalier}
+{1007}{}{Centre}
+{1008}{}{Disques|Disque|Holodisques|Holodisque}
+{1009}{}{Marchands|Marchand}
+{1010}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1011}{}{Ordre Ancien|Rayon|Le Rayon|Ancien}
+{1012}{}{Exode}
 {1013}{}{Cabbot}
-{1014}{}{Order}
+{1014}{}{Ordre}
 {1015}{}{Paladins}
-{1016}{}{Master}
-{1017}{}{War}
-{1018}{}{Army}
-{1019}{}{Caravans}
+{1016}{}{Maître}
+{1017}{}{Guerre}
+{1018}{}{Armée|Armee|Armée des Mutants|Armée mutante}
+{1019}{}{Caravanes}
 {1020}{}{Cathedral}
-{1021}{}{Chip}
+{1021}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1022}{}{Entry 1022}
 {1023}{}{Entry 1023}
 {1024}{}{Entry 1024}
@@ -253,25 +253,25 @@
 {1097}{}{Entry 1097}
 {1098}{}{Entry 1098}
 {1099}{}{Entry 1099}
-{1100}{Cab_53}{Well, that's me.}
-{1101}{Cab_54}{She's the head of the Scribes. She's usually in the library. Go down into the basement and, uh, it's on your right hand side.}
-{1102}{Cab_55}{The Knights say he can be a tough taskmaster, but I don't personally, because, uh, I'm studying under Vree to become a Scribe.}
-{1103}{Cab_56}{General Maxson used to be Master Knight. I don't think he likes being High Elder much.}
-{1104}{Cab_57}{They make all the decisions around here, from what we eat to what our duties are. And, uh, they argue a lot, too. The High Elder seems to have to step in a lot.}
-{1105}{Cab_58}{Okay, well, Scribes are the keepers of all the histories and the blueprints for the weapons we make. I just love books; that's why I want to be one... a Scribe, that is.}
-{1106}{Cab_59}{Well, you see, they're the ones who want to become protectors of the Brotherhood. There's not many of them, but they train their whole lives to become Paladins.}
-{1107}{Cab_60}{That's the town to the south, right? We get the merchants here all the time, but I've never been there myself. Gee, I wouldn't know what to do in a big city like that.}
-{1108}{Cab_61}{You should talk to Vree, I think. She'll tell ya' about 'em.}
-{1109}{Cab_62}{They trade with us for food and stuff. We give them weapons. They don't come around too often anymore, but, uh, I don't know why.}
-{1110}{Cab_63}{Whoa, that's a long story. Go to the library and talk to Vree. She'll be able to show you where the history CDs are.}
-{1111}{Cab_64}{Oh, well, in the Exodus, the Brotherhood split into two groups. The group that broke away robbed the others of some of the weapons an-and went south. About ten years ago, we sent out Knights to look for them, but all they found was ruins. No one knows what happened.}
-{1112}{Cab_65}{The ancient Brotherhood came from some place far up north a long, long time ago. We call this the great Exodus. You can read about it more if you ask Vree in the library.}
-{1113}{Cab_53}{Well, that's me.}
-{1114}{Cab_64}{Oh, well, in the Exodus, the Brotherhood split into two groups. The group that broke away robbed the others of some of the weapons an-and went south. About ten years ago, we sent out Knights to look for them, but all they found was ruins. No one knows what happened.}
-{1115}{Cab_20}{You're making fun of me, aren't you? Goodbye!}
-{1116}{Cab_67}{Hmm... I don't know. You might want to ask someone more important than me.}
-{1117}{Cab_63}{Whoa, that's a long story. Go to the library and talk to Vree. She'll be able to show you where the history CDs are.}
-{1118}{Cab_67}{Hmm... I don't know. You might want to ask someone more important than me.}
-{1119}{Cab_62}{They trade with us for food and stuff. We give them weapons. They don't come around too often anymore, but, uh, I don't know why.}
-{1120}{Cab_66}{Uhh... I don't know anything about that.}
-{1121}{Cab_61}{You should talk to Vree, I think. She'll tell ya' about 'em.}
+{1100}{Cab_53}{Eh bien, c'est moi.}
+{1101}{Cab_54}{C'est la cheffe des Scribes. En général, elle se trouve dans la bibliothèque. Tu descends au sous-sol, c'est sur ta droite.}
+{1102}{Cab_55}{D'après les Chevaliers, c'est parfois un véritable tyran... Moi, j'ai pas à m'en plaindre, parce que, euh, c'est avec Vree que j'apprends le métier de Scribe.}
+{1103}{Cab_56}{Dans le temps, le Général Maxson était Grand Chevalier. J'ai pas l'impression que ça lui plaît beaucoup d'être Aîné.}
+{1104}{Cab_57}{Ils prennent toutes les décisions, depuis ce qu'on mange jusqu'à tout ce qu'on doit accomplir. Et ils sont pas toujours d'accord. L'Aîné doit souvent y mettre son grain de sel.}
+{1105}{Cab_58}{Eh bien, les scribes sont les gardiens de tous les récits et des plans pour les armes qu'on fabrique. J'adore les livres; c'est pour ça que je veux devenir en devenir un... de Scribe, voilà.}
+{1106}{Cab_59}{Eh bien, tu vois, c'est ceux qui veulent devenir les protecteurs de la Confrérie. Ils sont pas nombreux, mais ils s'entraînent jour et nuit pour devenir Paladins.}
+{1107}{Cab_60}{C'est la ville qui est au Sud, n'est-ce pas ? Les marchands y sont toujours fourrés, mais moi, jamais j'y ai mis les pieds. Bon sang, je serais perdu dans une grande ville pareille.}
+{1108}{Cab_61}{Si tu veux mon avis, parle à Vree. Elle en sait long là-dessus.}
+{1109}{Cab_62}{Ils échangent de la nourriture et d'autres trucs avec nous. On leur donne des armes. Ils viennent plus beaucoup dans les parages, je sais pas pourquoi.}
+{1110}{Cab_63}{Oh là là ! C'est une longue histoire. Va à la bibliothèque parler à Vree. Elle pourra te montrer où sont les CD d'Histoire.}
+{1111}{Cab_64}{Durant l'Exode, la Confrérie s'est scindée en 2. Un groupe a volé des armes à l'autre et a foncé vers le Sud-Est. Il y a 10 ans, on a envoyé des chevaliers à sa recherche mais ils ont trouvé que des ruines. Personne sait ce qui s'est passé.}
+{1112}{Cab_65}{L'ancienne Confrérie est venue d'un endroit situé loin au Nord, il y a bien longtemps. C'est ce qu'on appelle le grand Exode. Si tu veux en savoir plus, demande à Vree, à la bibliothèque, il y a des livres qui en parlent.}
+{1113}{Cab_53}{Eh bien, c'est moi.}
+{1114}{Cab_64}{Durant l'Exode, la Confrérie s'est scindée en 2. Un groupe a volé des armes à l'autre et a foncé vers le Sud-Est. Il y a 10 ans, on a envoyé des chevaliers à sa recherche mais ils ont trouvé que des ruines. Personne sait ce qui s'est passé.}
+{1115}{Cab_20}{Tu te fous de moi, non ? Au revoir !}
+{1116}{Cab_67}{Hmm... Je sais pas. Il faut demander à quelqu'un de plus important que moi.}
+{1117}{Cab_63}{Oh là là ! C'est une longue histoire. Va à la bibliothèque parler à Vree. Elle pourra te montrer où sont les CD d'Histoire.}
+{1118}{Cab_67}{Hmm... Je sais pas. Il faut demander à quelqu'un de plus important que moi.}
+{1119}{Cab_62}{Ils échangent de la nourriture et d'autres trucs avec nous. On leur donne des armes. Ils viennent plus beaucoup dans les parages, je sais pas pourquoi.}
+{1120}{Cab_66}{Hmm... Je sais rien de tout ça.}
+{1121}{Cab_61}{Si tu veux mon avis, parle à Vree. Elle en sait long là-dessus.}

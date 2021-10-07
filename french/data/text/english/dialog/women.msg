@@ -1,5 +1,5 @@
-{100}{}{You see a bruised and battered woman.}
-{101}{}{No, please don't!}
-{102}{}{[sobs uncontrollably]}
-{103}{}{[whispers] Please help me.}
-{104}{}{Thank you for saving me!}
+{100}{}{Voici une femme contusionnée et battue.}
+{101}{}{Non, s'il te plaît, ne fais pas ça !}
+{102}{}{[elle sanglote sans pouvoir se contrôler]}
+{103}{}{[chuchotements] Aide-moi, s'il te plaît !}
+{104}{}{Merci de m'avoir sauvée.}

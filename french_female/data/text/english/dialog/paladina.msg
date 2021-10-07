@@ -1,14 +1,14 @@
 {100}{}{Paladin}
-{101}{}{Stay sharp, Initiate!}
-{102}{}{Looking good. Keep up the good work.}
-{103}{}{Hello Initiate, everything is secure.}
-{104}{}{Hi, Brother }
+{101}{}{De la vigilance, Initié !}
+{102}{}{Ca m'a l'air bien. Continue comme ça.}
+{103}{}{Salut, Initié, tout est en ordre.}
+{104}{}{Bonjour, Frère }
 {105}{}{.}
-{106}{}{Sorry, I shouldn't be talking to anyone. You know how it is.}
-{107}{}{You should talk to Talus or Maxson if you have any questions.}
-{108}{}{Vree's in the library during the day if you ever have technical questions.}
-{109}{}{Rhombus is my idol.}
-{110}{}{I wish I was training right now. This guard duty is a waste of time.}
-{111}{}{Vree's my idol.}
-{112}{}{Marco!}
-{113}{}{Polo!}
+{106}{}{Je regrette mais je ne dois parler à personne. Tu sais ce que c'est.}
+{107}{}{Si t'as des questions, adresse-toi à Talus ou à Maxson.}
+{108}{}{Si t'as des questions techniques, Vree est dans la bibliothèque pendant la journée.}
+{109}{}{Rhombus est mon idole.}
+{110}{}{Ah, si seulement je pouvais m'entraîner, au lieu de perdre mon temps à ce boulot de garde !}
+{111}{}{Vree est mon idole.}
+{112}{}{Marco !}
+{113}{}{Polo !}

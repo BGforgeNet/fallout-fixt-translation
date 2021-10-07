@@ -1,8 +1,8 @@
-{100}{}{You see a ghoul undergrounder.}
-{101}{}{We just want to be left alone.}
-{102}{}{Set is an incompetent fool who will get us killed.}
-{103}{}{The Super Mutants are going to kill us some day and Set does not help.}
-{104}{}{We're hiding here; please don't tell anyone where we are.}
-{105}{}{I don't like your looks.}
-{106}{}{Go away and leave us alone.}
-{107}{}{I've heard bad things about you. Are they all true?}
+{100}{}{Voici un Goule de l'Underground.}
+{101}{}{Laissez-nous en paix : c'est tout ce qu'on demande.}
+{102}{}{Set est un idiot qui nous fera tous tuer.}
+{103}{}{Un de ces jours, les Super Mutants vont nous tuer, et Set n'arrange rien.}
+{104}{}{On se cache ici ; s'il te plaît, le dis à personne.}
+{105}{}{J'aime pas ta tronche.}
+{106}{}{Fiche le camp et t'occupe pas de nous.}
+{107}{}{J'ai entendu du vilain sur ton compte. C'est vrai ?}

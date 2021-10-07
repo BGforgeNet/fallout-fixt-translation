@@ -1,53 +1,53 @@
-{100}{}{You see: Michelle.}
+{100}{}{Tu vois Michelle.}
 {101}{}{}
 {102}{}{}
-{103}{}{You see a member of the Blades.}
-{104}{}{You see a member of the Blades.}
-{105}{}{You think that might be Books.}
-{106}{}{You think that might be Scars.}
-{107}{}{You think that might be Gunner.}
-{108}{}{You think that might be Twitch.}
-{109}{}{You think that might be Hammer.}
-{110}{}{You think that might be Razor.}
-{111}{}{What are you doing here?}
+{103}{}{Tu vois un membre des Ecorcheurs.}
+{104}{}{Tu vois un membre des Ecorcheurs.}
+{105}{}{Tu penses que c'est Books.}
+{106}{}{Tu penses que c'est Scars.}
+{107}{}{Tu penses que c'est Gunner.}
+{108}{}{Tu penses que c'est Twitch.}
+{109}{}{Tu penses que c'est Hammer.}
+{110}{}{Tu penses que c'est Razor.}
+{111}{}{Que fais-tu ici ?}
 {112}{}{Hhrrrnnn.}
-{113}{}{Nothing. Honest.}
-{114}{}{I'm just looking around.}
-{115}{}{This! [you slap her]}
-{116}{}{A moron. I think that you'd best get out of here. Otherwise, you may become target practice.}
-{117}{}{Arroo!}
+{113}{}{Rien. Sincèrement.}
+{114}{}{Oh, simple curiosité...}
+{115}{}{Ca ! *smack*}
+{116}{}{Un imbécile. Je pense que tu ferais mieux de partir d'ici. Sinon, tu risques de devenir une cible d'entrainement.}
+{117}{}{Arroo !}
 {118}{}{Arook.}
-{119}{}{Nothing, eh? I think you're hiding something. Out with it before you see your guts.}
-{120}{}{I'm really a Martian.}
-{121}{}{I'm here to stop the gang wars.}
-{122}{}{I'm not up to anything.}
-{123}{}{I'm up to THIS! [slap her]}
-{124}{}{Everyone knows there are no such things as Martians. All real aliens are from Venus. Now, you die!}
-{125}{}{Sure, and I'm the Queen of Mexico.}
-{126}{}{Honest. I want to stop the wars so I can help Adytum.}
-{127}{}{Your Majesty, I truly seek to end the wars.}
-{128}{}{If your intelligence were greater, I would try to explain the benefits of peace.}
-{129}{}{If you're here to do that, then you'll need to try and find Razor. She'll let you know what we think of that.}
-{130}{}{Uh, thanks. I think.}
-{131}{}{Okay. Goodbye.}
-{132}{}{Mock me, will you? I guess I should expect as much from a child. Oh, by the way. Here!}
-{133}{}{Fancy talk will only get you so far. Here, it will get you about six feet under.}
-{134}{}{If you are up to nothing, then we will put you up to something. I think 'target' makes a good something.}
-{135}{}{You looked. Now, what do you want? Think quick. It may mean the difference between walking out of here and becoming a permanent resident.}
-{136}{}{I'd like to live here.}
-{137}{}{I'm really a Ripper in disguise.}
-{138}{}{I want to bring peace to the gangs.}
-{139}{}{Leaving.}
-{140}{}{Nothing special. Just looking at the garbage to be recycled.}
-{141}{}{We never said anything about living. You would just reside here. Indefinitely. Enjoy your stay.}
-{142}{}{I'm glad you said that. I've been meaning to sharpen this. }
-{143}{}{Soon I will have a hide to sharpen it on.}
-{144}{}{Not so fast. The only way someone leaves here is if they are a Blade, or in a bag.}
-{145}{}{Then I want to be a Blade.}
-{146}{}{How big is this bag?}
-{147}{}{You forget the third option. Me!}
-{148}{}{Fat chance. But, he's a test. If you can find Razor, then you can talk to her about that.}
-{149}{}{Big enough to stuff your body parts in when we finish.}
-{150}{}{I am not Sleeping Beauty. I do not need to be awakened. Get out or die.}
-{151}{}{Hear you're out for the bastard's head. Give him an extra knife twist for me.}
-{152}{}{Welcome back. The Hole is open and ready to house you once more.}
+{119}{}{Rien, eh ? Je pense que tu mijotes quelque chose. Dégage avant que tes intestins deviennent visibles aux yeux de tous.}
+{120}{}{Je suis vraiment un Martien.}
+{121}{}{Je suis là pour arrêter la guerre des gangs.}
+{122}{}{Je ne suis pas là pour quoi que ce soit.}
+{123}{}{Je suis là pour ça ! *smack*}
+{124}{}{Tout le monde sait que de telles choses comme des Martiens n'existent pas. Tous les vrais extraterrestres viennent de Venus. Maintenant, tu meurs !}
+{125}{}{Bien sûr, et je suis la reine du Mexique.}
+{126}{}{Sincèrement. Je veux arrêter les guerres et ainsi aider le Sanctuaire.}
+{127}{}{Votre Majesté, je cherche vraiment à mettre fin aux guerres.}
+{128}{}{Si ton niveau d'intelligence était plus élevé, j'aurai essayé de t'expliquer les bénéfices de la paix.}
+{129}{}{Si tu es là pour faire ça, alors tu as besoin de trouver Razor. Elle te laissera savoir ce que nous pensons de la situation.}
+{130}{}{Uh, Merci. Enfin, je crois.}
+{131}{}{D'accord. Salut.}
+{132}{}{Tu te moques de moi, n'est-ce pas ? Je suppose que je ne dois pas attendre plus d'un enfant. Oh, de toutes façons. Voilà !}
+{133}{}{De belles paroles ne vont pas t'amener très loin. Et ici, ça va t'amener six pieds sous terre.}
+{134}{}{Si tu es là pour rien, alors nous allons te donner un rôle. Je pense que 'cible' fera un bon rôle.}
+{135}{}{Tu as vu. Maintenant, que veux-tu ? Réfléchis vite. Ca peut faire la différence entre sortir d'ici et devenir un résident permanent.}
+{136}{}{J'aimerai vivre ici.}
+{137}{}{Je suis vraiment un Eventreur déguisé.}
+{138}{}{Je veux amener la paix aux gangs.}
+{139}{}{Quitter.}
+{140}{}{Rien de spécial. Je regarde seulement les ordures pour leur recyclage.}
+{141}{}{Nous ne disons jamais rien pour l'habitat. Tu peux juste t'installer ici. Indéfiniment. Profite de ton séjour.}
+{142}{}{Je suis ravie de ce que tu dis. J'ai besoin d'affuter ça. }
+{143}{}{J'aurai bientôt une peau pour l'aiguiser dessus}
+{144}{}{Pas si vite. La seule manière pour quelqu'un de partir d'ici est soit d'être un Ecorcheur, soit dans un sac.}
+{145}{}{Alors je veux être un Ecorcheur.}
+{146}{}{Le sac est grand comment ?}
+{147}{}{Tu oublies la troisième option. Moi !}
+{148}{}{La chance du débutant. Mais, ce n'est qu'un test. Si tu peux trouver Razor, alors parle de ce sujet avec elle.}
+{149}{}{Assez gros pour y foutre les morceaux de ton corps dedans quand nous aurons fini.}
+{150}{}{Je ne suis pas la Belle aux Bois Dormants. Je n'ai pas besoin d'être réveillée. Décampe ou meurs.}
+{151}{}{J'ai entendu que tu étais là pour la tête de ce bâtard. Donne-lui un coup de couteau supplémentaire de ma part.}
+{152}{}{Contente de te revoir. Notre tannière est ouverte et prête à t'accueillir à nouveau.}

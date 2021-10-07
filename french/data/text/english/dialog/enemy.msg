@@ -1,8 +1,8 @@
-{100}{}{I don't want to talk to you.}
-{101}{}{Go away.}
-{102}{}{Leave me alone!}
-{103}{}{Someone should do something about you.}
-{104}{}{Get out of here, you asshole.}
-{105}{}{I want nothing to do with you.}
-{106}{}{I'm not supposed to talk to strangers.}
-{107}{}{Go away, I don't wanna talk to you!}
+{100}{}{Je n'ai pas envie de te parler.}
+{101}{}{Va t'en !}
+{102}{}{Laisse-moi tranquille !}
+{103}{}{Quelqu'un devrait s'occuper de ton cas.}
+{104}{}{Fous le camp, crapule.}
+{105}{}{Je veux pas avoir affaire à toi.}
+{106}{}{En mouvement !}
+{107}{}{Nous les avons tous tué !}

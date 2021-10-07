@@ -1,23 +1,23 @@
-{100}{}{You see a desert raider with a pleasant smile and an odd assortment of tools.}
-{101}{}{I am Diana. How might I help you today?}
-{102}{}{I'm looking for a woman named Tandi. Have you seen her?}
-{103}{}{Never mind, thanks.}
-{104}{}{How about a date?}
-{105}{}{What do you do here?}
-{106}{}{What can you tell me about this camp?}
-{107}{}{Eurrreh?}
-{108}{}{If she is one of those women from Shady Sands, maybe you should look there. I just work here.}
-{109}{}{Oh. Well, thank you anyway.}
-{110}{}{Can you fix my equipment for me?}
-{111}{}{As you can see, I am much too busy at the moment to grant you your request.}
-{112}{}{Garl has me fixing the camp equipment at the moment. I do not have time to fix our gear and that of every stranger who walks in. Sorry.}
-{113}{}{I am the armorer for this encampment. I am the only one with the necessary skills to repair and maintain the weapons and equipment of Garl's men.}
-{114}{}{Can you fix my equipment for me?}
-{115}{}{What can you tell me about this camp?}
-{116}{}{It is run by Garl Death-Hand. He is a fearsome and remorseless leader. He makes sure that we all survive the harsh reality of the desert.}
-{117}{}{I'm looking for a woman named Tandi. Have you seen her?}
-{118}{}{Can you fix my equipment for me?}
-{119}{}{I am busy now. Please go elsewhere.}
-{120}{}{You are that new friend of Garl's, are you not? What do you want?}
-{121}{}{Hmm. Your equipment seems to be functional. I have more important tasks.}
-{200}{}{You see: Diana, the Khans' resident armorer.}
+{100}{}{Tu vois un pillard souriant qui trimballe un étrange assortiment d'outils.}
+{101}{}{Je m'appelle Diana. Que puis-je faire pour toi ?}
+{102}{}{Je cherche une femme qui s'appelle Tandi. Est-ce que tu l'as vue ?}
+{103}{}{Oh rien, merci.}
+{104}{}{Que dirais-tu d'un rencart ?}
+{105}{}{Que fais-tu ici ?}
+{106}{}{Que peux-tu me dire sur ce camp ?}
+{107}{}{Euh ?}
+{108}{}{Si elle fait partie des femmes des Sables Ombragés, tu devrais chercher par là. Moi je travaille ici, c'est tout.}
+{109}{}{Oh. Bien, merci quand même.}
+{110}{}{Peux-tu réparer mon matériel ?}
+{111}{}{Comme tu peux le voir, j'ai trop à faire pour t'aider.}
+{112}{}{Pour l'instant, Garl m'a demandé de réparer le matériel du camp. Je n'ai pas le temps de réparer le tien, et ça vaut pour tous les étrangers qui passent par là. Excuse-moi.}
+{113}{}{Je m'occupe de l'armurerie du camp. Il n'y a que moi qui ai les compétences requises pour réparer et entretenir les armes et le matériel des hommes de Garl.}
+{114}{}{Peux-tu réparer mon matériel ?}
+{115}{}{Que peux-tu me dire sur ce camp ?}
+{116}{}{Il est dirigé par Garl Mainmorte. C'est un chef redoutable et impitoyable. Il fait ce qu'il peut pour nous permettre à tous de survivre dans ce terrible désert.}
+{117}{}{Je cherche une femme qui s'appelle Tandi. Est-ce que tu l'as vue ?}
+{118}{}{Peux-tu réparer mon matériel ?}
+{119}{}{Je suis occupé pour l'instant. Va voir ailleurs.}
+{120}{}{Tu es le nouvel ami de Garl, n'est-ce pas ? Qu'est-ce que tu veux ?}
+{121}{}{Hmm. Ton matériel a l'air en bon état. J'ai plus urgent à faire.}
+{200}{}{Voici Diana, l'armurier des Khans.}

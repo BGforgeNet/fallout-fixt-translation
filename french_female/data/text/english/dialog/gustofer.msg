@@ -1,53 +1,53 @@
-{100}{}{Sorry, no boxing today.}
-{101}{}{Hnn.}
-{102}{}{Uk, okay.}
-{103}{}{When's the next match?}
-{104}{}{You might try signing up with Gizmo. I hear he's always looking for new meat to toss in the ring.}
-{105}{}{Try again tomorrow. Saul will be boxing then.}
-{106}{}{You just missed it. Try again in a couple of days. Saul boxes every three days.}
-{107}{}{Thanks.}
-{108}{}{Who's Saul?}
-{109}{}{Saul is the local champion. Saul is the current favorite of Gizmo.}
-{110}{}{Hey, there. No boxing today.}
-{111}{}{ Try again tomorrow.}
-{112}{}{ Try again the day after tomorrow.}
-{113}{}{So! Want to lay a bet on the fight?}
-{114}{}{I've got better things to do with my money. Goodbye.}
-{115}{}{What are the odds?}
-{116}{}{No, thanks. Mind if I ask a few questions, though?}
+{100}{}{Malheureusement y'a pas de boxe aujourd'hui.}
+{101}{}{Grr.}
+{102}{}{D'accord.}
+{103}{}{C'est quand le prochain match ?}
+{104}{}{Tu peux peut-être essayer chez Gizmo. On dit qu'il recherche toujours de la viande fraîche pour le ring.}
+{105}{}{Essaie demain. Y'a Saul qui boxe.}
+{106}{}{Tu viens de le manquer. Essaie après-demain. Saul boxe tous les trois jours.}
+{107}{}{Merci.}
+{108}{}{Qui c'est, Saul ?}
+{109}{}{Saul, c'est le champion local, le favori actuel de Gizmo.}
+{110}{}{Eh, là ! Y'a pas de boxe aujourd'hui.}
+{111}{}{ Reviens demain.}
+{112}{}{ Reviens après-demain.}
+{113}{}{Alors ! On veut parier sur le combat ?}
+{114}{}{J'ai mieux à faire de mon argent. Salut.}
+{115}{}{Qui part favori ?}
+{116}{}{Non, merci. Par contre, est-ce que je peux te poser quelques questions ?}
 {117}{}{}
-{118}{}{Sorry, but today's match is already over.}
-{119}{}{Oh. Well, never mind, then.}
-{120}{}{Who do you want to bet on, Saul or the challenger? Odds favor Saul winning. Cost is 25 caps to bet; you get 50 if you win betting on Saul, 100 if you win betting on the challenger!}
-{121}{}{I'll bet on Saul.}
-{122}{}{I'll bet on the challenger.}
-{123}{}{All right, I guess.}
-{124}{}{Who's the boxer?}
-{125}{}{Who runs these matches?}
-{126}{}{Uh, never mind.}
-{127}{}{Sorry, I don't have the time. Maybe later.}
-{128}{}{Saul, the fastest fist in Junktown! He's a marvel of manly musculature! A pulsating power puncher!}
-{129}{}{He's a nice guy, too.}
-{130}{}{Um, yeah. So, who runs these matches?}
-{131}{}{Thanks. See you around.}
-{132}{}{Gizmo, the casino owner, employs Saul. He occasionally likes to watch a match or two, but mostly it's good money - people will bet a lot on a fight. And nobody has to get killed, unlike those death matches they supposedly have in the Hub.}
-{133}{}{Death matches?}
-{134}{}{Thanks.}
-{135}{}{Well, it's just a rumor, but they say there's an underground fighting ring there where you can pay to watch people fight to the death. Not my kind of fight.}
-{136}{}{Hmm. Thanks.}
-{137}{}{Hey, what are you doing?}
-{138}{}{Uh, nothing.}
-{139}{}{You wanna start something, loser?}
-{140}{}{Please quit it.}
-{141}{}{Uh, no. Never mind. Forget I said anything.}
-{142}{}{Well, well, looks like you're a winner! Here's your caps.}
-{143}{}{Come back when you have enough caps to bet!}
-{144}{}{Would you like to wait here until the fight starts at 2:00?}
-{145}{}{Sure, what the heck.}
-{146}{}{Nah, I got stuff to do. I'll be back later.}
-{147}{}{Okay, but if you miss the fight, you forfeit your bet!}
-{148}{}{Let the fight begin!}
-{149}{}{Please don't disturb me while the match is in progress.}
-{150}{}{Well, you can't win them all, my friend. Better luck next time.}
-{151}{}{Well, you can't win them all, my friend. Better luck next time.}
-{152}{}{Sorry, one bet per fight.}
+{118}{}{Malheureuseemnt le match d'aujourd'hui est déjà fini.}
+{119}{}{Oh. Bon, tant pis.}
+{120}{}{Sur qui tu veux parier, Saul ou son challenger ? C'est Saul le favori. Ca coûte 25 caps de parier ; t'en reçois 50 si tu gagnes en misant sur Saul, 100 si tu gagnes en pariant sur le challenger !}
+{121}{}{Je mise sur Saul.}
+{122}{}{Je mise sur le challenger.}
+{123}{}{C'est bon.}
+{124}{}{Qui est le boxeur ?}
+{125}{}{Qui organise ces matchs ?}
+{126}{}{Euh, aucune importance.}
+{127}{}{Ah, j'ai pas le temps. Peut-être plus tard.}
+{128}{}{Saul, le poing le plus rapide de Dépôtville ! Une merveille musculaire ! Un punch écrasant !}
+{129}{}{C'est aussi un chouette type.}
+{130}{}{Hum, ouais. Alors, qui organise ces matchs ?}
+{131}{}{Merci. A un de ces quatre.}
+{132}{}{Gizmo, le proprio du casino, emploie Saul. Ca lui arrive de regarder un match ou deux pour le plaisir, mais c'est surtout parce que ça rapporte - les gens parient gros sur un combat. Et personne se fait buter, pas comme ces matchs de la mort qu'ils organisent, paraît-il, au Centre.}
+{133}{}{Des matchs de la mort ?}
+{134}{}{Merci.}
+{135}{}{Oh, à ce qu'il paraît. Il y aurait un ring clandestin où on paie pour regarder les gens se battre à mort. C'est pas mon truc.}
+{136}{}{Hmm. Merci.}
+{137}{}{Eh, qu'est-ce que tu fous ?}
+{138}{}{Euh, rien.}
+{139}{}{Tu cherches les ennuis, imbécile ?}
+{140}{}{Arrête ça.}
+{141}{}{Euh, rien. Oublie ce que je t'ai dit.}
+{142}{}{Ah, ah ! On dirait que t'as de la veine. Voilà tes caps.}
+{143}{}{Reviens quand t'auras assez d'argent !}
+{144}{}{Tu veux attendre ici jusqu'à ce le combat commence, à 2 :00 ?}
+{145}{}{Oh ma foi oui.}
+{146}{}{Non, j'ai des trucs à faire. Je reviendrai.}
+{147}{}{D'accord, mais si tu manques le combat, tu perds ton pari !}
+{148}{}{Que le match commence !}
+{149}{}{S'il te plaît, me dérange pas pendant le match.}
+{150}{}{Et bien l'amie, on peut pas toujours gagner ! Tu seras plus chanceuse la prochaine fois.}
+{151}{}{Et bien l'amie, on peut pas toujours gagner ! Tu seras plus chanceuse la prochaine fois.}
+{152}{}{Un seul pari par combat. Désolé.}

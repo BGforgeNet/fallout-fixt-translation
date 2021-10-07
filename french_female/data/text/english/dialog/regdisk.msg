@@ -1,5 +1,5 @@
-{100}{}{You see the holodisk that Razor gave you.}
-{101}{}{Pip-Boy 2000 displays: "Downloading ... Aborting, data already exists!"}
-{102}{}{Pip-Boy 2000 displays: "Downloading data ... ... ... Done. Have a nice day!"}
-{103}{}{This disk contains information about the real fate of Jon Zimmerman's son.}
-{104}{}{You see: Regulator Transmissions Disk.}
+{100}{}{Tu vois l'holodisque que Razor t'a remis.}
+{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
+{103}{}{Ce disque contient des informations à propos du véritable sort du fils de Jon Zimmerman.}
+{104}{}{Tu vois: Disque des Transmissions des Régulateurs.}

@@ -1,7 +1,7 @@
-{100}{}{You see a citizen of Vault 13.}
-{101}{}{What is the outside world like?}
-{102}{}{You must be brave to venture outside the Vault.}
-{103}{}{The Overseer says that the outside world is dangerous.}
-{104}{}{Be careful while traveling outside the Vault.}
-{105}{}{Don't forget to see the medic if you are hurt.}
-{106}{}{The Overseer makes sure everyone is well cared for in the Vault.}
+{100}{}{Voici un citoyen de l'Abri 13.}
+{101}{}{A quoi ressemble le monde extérieur ?}
+{102}{}{Tu dois avoir du courage pour t'aventurer hors de l'Abri.}
+{103}{}{Le Dirigeant dit que le monde extérieur est dangereux.}
+{104}{}{Fais attention à toi une fois dehors.}
+{105}{}{N'oublie pas d'aller consulter le médecin si tu te blesses.}
+{106}{}{Le Dirigeant veille à ce que tous les habitants de l'Abri soient bien soignés.}

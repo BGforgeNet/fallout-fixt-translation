@@ -1,1 +1,1 @@
-{100}{}{You see a shimmering force field.}
+{100}{}{Tu vois chatoyer un champ de force.}

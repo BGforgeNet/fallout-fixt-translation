@@ -1,20 +1,20 @@
-{100}{}{You see: Lou, of the Nightkin.}
-{101}{}{You see: Sue, of the Nightkin.}
-{102}{}{You see: Drew, of the Nightkin.}
-{103}{}{You see: Kurt, of the Nightkin.}
-{104}{}{You see: Bert, of the Nightkin.}
-{105}{}{You see: Tyche, of the Nightkin.}
-{106}{}{You see: Mike, of the Nightkin.}
-{107}{}{You see: Char, of the Nightkin.}
-{108}{}{You see: Reine, of the Nightkin.}
-{109}{}{You see: Daggarth, of the Nightkin.}
-{110}{}{Me was told to take you to do something. Something about normies. Me no remember what.}
-{111}{}{Me think normies is stupid.}
-{112}{}{All normies should die!}
-{113}{}{Uthern a smart one. Uh huh.}
-{114}{}{Boss say normies are nothings.}
-{115}{}{Don't know why boss want these books.}
-{116}{}{Me glad those stupid normies ain't around. They ugly.}
-{117}{}{Me is better than you! Me is better than you!}
-{118}{}{Me squish you now!}
-{119}{}{Me squish you now!}
+{100}{}{Tu vois Lou, un Ténébreux d'élite.}
+{101}{}{Tu vois Sue, un Ténébreux d'élite.}
+{102}{}{Tu vois Drew, un Ténébreux d'élite.}
+{103}{}{Tu vois Kurt, un Ténébreux d'élite.}
+{104}{}{Tu vois Bert, un Ténébreux d'élite.}
+{105}{}{Tu vois Tyche, un Ténébreux d'élite.}
+{106}{}{Tu vois Mike, un Ténébreux d'élite.}
+{107}{}{Tu vois Char, un Ténébreux d'élite.}
+{108}{}{Tu vois Reine, un Ténébreux d'élite.}
+{109}{}{Tu vois Daggarth, un Ténébreux d'élite.}
+{110}{}{Quelqu'un m'avoir dit de rapporter toi. Quelque chose sur les normaux... Moi pas souvenir.}
+{111}{}{Moi penser normaux stupides.}
+{112}{}{Normaux devoir mourir !}
+{113}{}{Uthern intelligent. Héhé.}
+{114}{}{Patron dire les normaux être rien.}
+{115}{}{Moi pas savoir pourquoi patron vouloir livres.}
+{116}{}{Moi content que normaux pas ici. Eux moches.}
+{117}{}{Moi être mieux que toi ! Moi être mieux que toi !}
+{118}{}{En mouvement !}
+{119}{}{En mouvement !}

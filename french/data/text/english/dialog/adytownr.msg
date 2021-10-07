@@ -1,20 +1,20 @@
-{100}{}{You see an inhabitant of Adytum.}
-{101}{}{Looks like rain... as always.}
-{102}{}{Sorry, have to go. Got work to do.}
-{103}{}{We don't get many outsiders here.}
-{104}{}{Gotta get back to work.}
-{105}{}{I'd get back to the Hub, if I were you.}
-{106}{}{Good day... if that is what you can call it.}
-{107}{}{Yeah... whatever.}
-{108}{}{No time to talk.}
-{109}{}{Can't talk right now.}
-{110}{}{Hope the rain ain't glowin' like yesterday.}
-{111}{}{Looks like we're going to be short food again.}
-{112}{}{I hope the caravans pass by again soon.}
-{113}{}{We have a chance to make it now.}
-{114}{}{Adytum will be the town we want it to be.}
-{115}{}{Thank you for your help.}
-{116}{}{Thank you for getting rid of the Regulators.}
-{117}{}{Thank you for our freedom.}
-{118}{}{It is good that the Regulators are gone.}
-{119}{}{Welcome to the new Adytum.}
+{100}{}{Voici un habitant du Sanctuaire.}
+{101}{}{Le temps est à la pluie... comme toujours.}
+{102}{}{Malheureusement, je dois partir. J'ai du boulot.}
+{103}{}{On ne voit pas souvent d'étrangers ici.}
+{104}{}{Faut que j'retourne au boulot.}
+{105}{}{A ta place, je retournerais au Centre.}
+{106}{}{Bonne journée... enfin, si on peut dire.}
+{107}{}{Ouais... peu importe.}
+{108}{}{Pas le temps de discuter.}
+{109}{}{Je ne peux pas parler maintenant.}
+{110}{}{J'espère que cette pluie n'est pas phosphorescente comme hier.}
+{111}{}{On dirait qu'on va encore manquer de nourriture.}
+{112}{}{J'espère que les caravanes repasseront bientôt par ici.}
+{113}{}{C'est le moment ou jamais.}
+{114}{}{Nous ferons du Sanctuaire ce que nous voulons.}
+{115}{}{Merci pour ton aide.}
+{116}{}{Merci de nous débarrasser des Régulateurs.}
+{117}{}{Tu nous as sauvés !}
+{118}{}{C'est une bonne chose que les Régulateurs soient plus là.}
+{119}{}{Bienvenue au Nouveau Sanctuaire.}

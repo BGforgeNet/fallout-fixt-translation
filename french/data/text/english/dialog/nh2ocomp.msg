@@ -1,18 +1,18 @@
-{100}{}{You see a water processing control computer. It has malfunctioned due to the removal of a critical piece of hardware.}
-{101}{}{Your search of the water processing control computer is successful. You find the Water Chip without a problem.}
-{102}{}{You search the water computer. It takes a while but you eventually discover the Water Chip.}
-{103}{}{The computer cannot be repaired without a functional water chip.}
-{104}{}{You easily remove the Water Chip from the computer. You hear the flow of water to the city stop.}
-{105}{}{You struggle with the computer for a while, but you cannot remove the chip. After a moment, you realize you forgot to remove the locking bolts.}
-{106}{}{You did not remove the chip. Perhaps you should try again, this time a little more carefully.}
-{107}{}{You are too far away to carefully examine the water computer.}
-{108}{}{You fail to repair the computer.}
-{109}{}{You learn nothing special about the water computer.}
-{110}{}{You reinstall the Water Chip into the computer. The computer reboots after a moment, and proceeds to function as normal.}
-{111}{}{This item cannot be used on the computer.}
-{112}{}{You see a water processing control computer. It is functional.}
-{113}{}{You earn }
-{114}{}{ experience for getting a Water Chip.}
-{115}{}{You examine the computer carefully. Your analytical mind discovers a couple of methods that will ease the removal of the Water Chip.}
-{116}{}{You learn that there is no way to fix the computer without reinstalling the Water Chip.}
-{117}{}{After shutting down the Water Purification Computer, you can now hear the repaired water pump working in the distance, bringing water up from what must be a deep well under Necropolis.}
+{100}{}{Voici un ordinateur de contrôle de traitement d'eau. Son dysfonctionnement est dû au retrait d'une pièce essentielle.}
+{101}{}{Ton exploration de l'ordinateur de contrôle de traitement d'eau est un réel succès : tu trouves facilement la puce d'eau.}
+{102}{}{Tu explores l'ordinateur du système d'épuration. Ca prend du temps, mais tu finis par découvrir la puce d'eau.}
+{103}{}{Impossible de réparer l'ordinateur sans puce d'eau opérationnelle.}
+{104}{}{Tu extrais facilement la puce d'eau de l'ordinateur. L'eau cesse de couler vers la ville.}
+{105}{}{Tu tentes d'extraire la puce de l'ordinateur, mais en vain. Tu t'aperçois alors que tu as oublié d'ouvrir les verrous.}
+{106}{}{Tu n'as pas extrait la puce. Peut-être devrais-tu réessayer mais cette fois en faisant plus attention.}
+{107}{}{Tu es trop loin pour examiner l'ordinateur du système d'épuration.}
+{108}{}{Tu ne réussis pas à réparer l'ordinateur.}
+{109}{}{Tu n'apprends rien de spécial sur l'ordinateur du système d'épuration.}
+{110}{}{Tu réinstalles la puce d'eau dans l'ordinateur. Au bout d'un moment, il se réinitialise et se met à fonctionner normalement.}
+{111}{}{Cet objet est inutilisable sur l'ordinateur.}
+{112}{}{Tu vois un ordinateur de contrôle de traitement d'eau. Il est opérationnel.}
+{113}{}{Tu gagnes }
+{114}{}{ points d'expérience pour avoir récupéré une puce d'eau.}
+{115}{}{Tu examines l'ordinateur attentivement. Grâce à ton esprit d'analyse, tu trouves deux moyens d'extraire plus facilement la puce d'eau.}
+{116}{}{Tu apprends qu'il est impossible de réparer l'ordinateur sans réinstaller la puce d'eau.}
+{117}{}{Tu arrêtes l'ordinateur du système d'épuration de l'eau et tu entends au loin la pompe à eau réparée qui se met en marche. Elle puise probablement l'eau profondément sous Nécropolis.}

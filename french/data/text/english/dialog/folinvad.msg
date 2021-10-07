@@ -1,13 +1,13 @@
-{100}{}{We're not here to talk.}
-{101}{}{I will follow you unto death.}
-{102}{}{This is a pretty important job, huh?}
-{103}{}{Nicole says we must cause as much damage as possible.}
-{104}{}{Who do I get to kill next?}
-{105}{}{What are we doing chatting?}
-{106}{}{I don't like these brown-robed shitheads, thank you very much.}
-{107}{}{This could be dangerous.}
-{108}{}{Time to leave.}
-{109}{}{This place looks like shit on a wall.}
-{110}{}{I think I'm going to be sick.}
-{111}{}{Nicole told us to return as soon as you left the Cathedral.}
-{112}{}{Glad to meet ya. Let's get it on.}
+{100}{}{On n'est pas là pour parler.}
+{101}{}{Je te suivrai jusqu'à la mort.}
+{102}{}{C'est important ce travail, hein ?}
+{103}{}{Nicole dit qu'on doit faire autant de dégâts que possible.}
+{104}{}{Qui dois-je tuer ensuite ?}
+{105}{}{Qu'est-ce qu'on fait là à bavarder ?}
+{106}{}{J'aime pas ces ordures dans leurs sacs marron, sans façons.}
+{107}{}{Ca pourrait être dangereux.}
+{108}{}{Faut pas traîner ici.}
+{109}{}{Cet endroit est vraiment nul.}
+{110}{}{Je sens que je vais être malade.}
+{111}{}{Nicole nous a dit de revenir dès que t'as quitté la Cathédrale.}
+{112}{}{Un plaisir de te rencontrer. Allons-y.}

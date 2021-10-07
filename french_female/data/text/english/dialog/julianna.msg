@@ -1,27 +1,27 @@
-{100}{}{You see: Julianna.}
-{101}{}{You see a simple inhabitant of Adytum.}
-{102}{}{Hello.}
+{100}{}{Tu vois Julianna.}
+{101}{}{Tu vois une simple habitante du Sanctuaire.}
+{102}{}{Bonjour.}
 {103}{}{Erf.}
-{104}{}{Hello.}
-{105}{}{I have a message from Romero.}
-{106}{}{May I ask your name, miss?}
-{107}{}{I'm Julianna.}
-{108}{}{Do you have a job here?}
-{109}{}{Can I ask a little about your town?}
-{110}{}{I do what Caleb asks. But I am really only able to do a little farming. I don't have the skills to help Smitty or Miles out.}
-{111}{}{Tell me a bit about those others you mentioned.}
-{112}{}{We survive, and the Regulators make sure that nothing happens to hurt us. Mostly by not letting us out of here.}
-{113}{}{Well, Miles does chemistry, and he makes bullets and things. Smitty is a craftsman who builds things like pots and knives.}
-{114}{}{You have a message from Romero? What is it?}
-{115}{}{He says that he's through with you.}
-{116}{}{He says that he sends his love.}
-{117}{}{He sent this locket as a token.}
-{118}{}{No... it can't be true... I... }
-{119}{}{Did he do nothing else?}
-{120}{}{No, sorry.}
-{121}{}{Oh yeah, he sent this locket.}
-{122}{}{How romantic! Oh, I must see him somehow! If only...  perhaps... maybe Lorraine can bring him a message... }
-{123}{}{Oh! Thank you so much for your help! We have decided to live here now, with the Followers, in peace. Thank you for supporting our love.}
-{124}{}{I cannot live without him!}
-{125}{}{Julianna draws a knife and plunges it into herself!}
-{126}{}{You earn 250 experience for assisting the star-crossed lovers with the delivery of Romero's locket to Julianna.}
+{104}{}{Bonjour.}
+{105}{}{J'ai un message de la part de Romero.}
+{106}{}{Puis-je vous demander votre nom, mademoiselle ?}
+{107}{}{Je m'appelle Julianna.}
+{108}{}{As tu un travail ici ?}
+{109}{}{Puis-je poser quelques questions au sujet de cette ville ?}
+{110}{}{Je fais ce que Caleb me demande. Mais je suis réellement à peine capable de travailler aux champs. Je n'ai pas les compétences pour aider Smitty ou Miles.}
+{111}{}{Parle-moi un peu des autres personnes que tu as mentionné.}
+{112}{}{Nous survivons, et les Régulateurs font en sorte que rien de mauvais ne nous arrive. Généralement en ne nous laissant pas sortir d'ici.}
+{113}{}{Et bien, Miles est chimiste, et il fait des balles et d'autres trucs. Smitty est un artisan qui fabrique des trucs du genre poteries et couteaux.}
+{114}{}{Tu as un message de la part de Romero ? Quel est il ?}
+{115}{}{Il dit qu'il en a marre de toi.}
+{116}{}{Il dit qu'il t'envoie tout son amour.}
+{117}{}{Il envoie ce médaillon comme preuve de son amour.}
+{118}{}{Non... Ca ne peut être vrai... Je...}
+{119}{}{Autre chose de sa part ?}
+{120}{}{Non.}
+{121}{}{Oh ouais, il a envoyé ce médaillon.}
+{122}{}{Quel romantique ! Oh, Je dois le voir d'une manière ou d'une autre ! Si seulement... peut-être... peut-être que Lorraine pourrait lui apporter un message...}
+{123}{}{Oh ! Merci beaucoup pour ton aide ! Nous avons décidé de vivre ici maintenant, avec les disciples, en paix. Merci d'avoir renforcé notre amour.}
+{124}{}{Je ne peux vivre sans lui !}
+{125}{}{Julianna sort un couteau et l'enfonce dans sa poitrine !}
+{126}{}{points d'expérience pour avoir aider les amoureux séparés avec la livraison du médaillon de Romero à Julianna.}

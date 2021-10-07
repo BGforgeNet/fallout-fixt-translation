@@ -1,28 +1,28 @@
-{100}{}{You see a member of the Followers.}
-{101}{}{You see: Brother Alan, of the Followers.}
-{102}{}{Hey, greetings and good day to you, man. What's up?}
-{103}{}{Hiya. What can I do for you?}
-{104}{}{Hello.}
-{105}{}{Hey, greetings and good day to you, miss. What's up?}
-{106}{}{Owoowngh!}
-{107}{}{Hi.}
-{108}{}{I've met a few of the Followers. What exactly do you do?}
-{109}{}{I'm trying to find a spy within your ranks, but I'm not having much luck. Can I ask you some questions?}
-{110}{}{Oh, well, I mostly study philosophy and stuff. I mean, if we're going to bring about peace, then we need a good grounding for it, right?}
-{111}{}{A worthwhile cause.}
-{112}{}{The only philosophy you need is a big gun!}
-{113}{}{Hmm. Okay. Well, I guess I'll talk to you later.}
-{114}{}{Whoa! Hey, I don't think I can help you.}
-{115}{}{Hey, it's exactly that kind of attitude that's causing all this trouble. Just chill out, okay?}
-{116}{}{Heh. I was just kidding.}
-{117}{}{Lemme give you a little peace... eternal peace.}
-{118}{}{Uh, sure, go ahead.}
-{119}{}{What else do you want to know?}
-{120}{}{Have you had any contact with the Children of the Cathedral?}
-{121}{}{Do you ever leave the library?}
-{122}{}{Do you know of anyone who regularly goes outside?}
-{123}{}{No way. I hear that they're all freaks. I wouldn't want to talk to them.}
-{124}{}{No, why would I? I just like to read. And anyhow, only scouts really get to go anywhere.}
-{125}{}{Well, just the scouts and the guards. The guards go and patrol a little bit once in a while. I wanted to be a guard, but... well, I got my ass kicked in hand-to-hand combat, so I couldn't go. Um, the scouts, they go a lot farther, sometimes all the way to the Cathedral, I think.}
-{126}{}{No more questions, thanks.}
+{100}{}{Tu vois un membre des Disciples.}
+{101}{}{Tu vois frère Alan des Disciples.}
+{102}{}{Hé, salut et bonne journée à toi l'ami. Quoi de neuf ?}
+{103}{}{Salut. Que puis-je faire pour toi ?}
+{104}{}{Bonjour.}
+{105}{}{Hé, salut et bonne journée à toi mademoiselle. Quoi de neuf ?}
+{106}{}{Owoowngh !}
+{107}{}{Salut.}
+{108}{}{J'ai rencontré quelques-uns des Disciples. Que faites-vous exactement ?}
+{109}{}{J'essaie de trouver un espion dans vos rangs, mais je n'ai pas beaucoup d'indices. Puis-je te poser quelques questions ?}
+{110}{}{Oh, eh bien, j'étudie principalement la philosophie et tout ça. Je veux dire, si nous répandons la paix, alors il nous faut de bons fondements pour elle, non ?}
+{111}{}{Une cause louable.}
+{112}{}{La seule philosophie dont vous avez besoin est un gros calibre !}
+{113}{}{Hmm. Ok. Eh bien, je crois que je te reparlerai dans un moment.}
+{114}{}{Ouhla ! Hé bien, je ne pense pas pouvoir vous aider.}
+{115}{}{Hé, c'est exactement ce genre d'attitude qui cause tous ces ennuis. Alors on se calme maintenant, ok ?}
+{116}{}{Hé. Je plaisantais.}
+{117}{}{Laisse-moi t'amener un peu de paix... une paix éternelle.}
+{118}{}{Euh, bien sûr, passe devant.}
+{119}{}{Que veux-tu savoir d'autre ?}
+{120}{}{As-tu eu des contacts avec les Enfants de la Cathédrale ?}
+{121}{}{Ca ne t'arrive jamais de quitter la bibliothèque ?}
+{122}{}{Connais-tu quelqu'un qui se rend régulièrement à l'extérieur ?}
+{123}{}{Pas du tout. J'ai entendu dire que ce sont tous des cinglés. Je ne voudrais même pas parler avec eux.}
+{124}{}{Non, pourquoi le ferais-je ? J'aime juste lire. Et de toutes manières, seuls les éclaireurs apprennent vraiment à aller n'importe où.}
+{125}{}{Eh bien, les éclaireurs et les gardes uniquement. Les gardes partent patrouiller de temps en temps. Je voulais être garde mais... et bien, je me suis fait botter le cul en combat au corps-à-corps, alors je ne pouvais pas y aller. Les éclaireurs, eux, vont beaucoup plus loin. Je pense qu'ils font parfois tout le chemin jusqu'à la Cathédrale.}
+{126}{}{Pas d'autres questions, merci.}
 {127}{}{[Plus]}

@@ -1,105 +1,105 @@
-{100}{}{You see: Darrel.}
-{101}{}{You see a Paladin.}
-{102}{}{Greetings, and welcome to the Brotherhood of Steel.}
-{103}{}{Duh...}
-{104}{}{What is the Brotherhood of Steel?}
-{105}{}{Do you know where I can find a Water Chip?}
-{106}{}{Do you know anything about the missing caravans?}
-{107}{}{Never mind.}
-{108}{}{(He laughs at you.) Friend, I don't think you have a chance of getting in here. The Elders have a minimum IQ requirement for new Initiates.}
-{109}{}{Yes... a... well... a... No. It's just people don't even try to understand what we're all about.}
-{110}{}{The Brotherhood is a collective of men and women who have dedicated their lives to the preservation of technology.}
-{111}{}{I've heard that you people sacrifice puppies.}
-{112}{}{What type of armor is that you're wearing?}
-{113}{}{How do I find out more about your technology?}
-{114}{}{Goodbye.}
-{115}{}{No... I never even heard of one of those. One of our Head Scribes may know. Maybe you can ask one of them. That is if you join us.}
-{116}{}{Join? How do I join?}
-{118}{}{You guys don't know jack.}
-{119}{}{Sacrifice puppies?! Where the hell did you hear that one? Don't believe everything you hear in the wastes; they're all a bunch of pathetic lunatics.}
-{120}{}{Actually, I thought it would have been kinda cool.}
-{121}{}{Sorry to have upset you.}
-{122}{}{Everyone is a lunatic outside the Brotherhood of Steel?}
-{123}{}{The only way to know anything more about us, is to join us. My friend Cabbot can help you with that.}
-{125}{}{Do you have a Water Chip in the Brotherhood?}
-{126}{}{You'll need to speak with Cabbot about that.}
-{127}{}{What is the Brotherhood of Steel all about anyway?}
-{128}{}{That's okay... It's just, people don't even try to understand what we're all about.}
-{129}{}{What's there to understand?}
-{130}{}{Well... I think you guys just might be a little kooky myself.}
-{131}{}{Technology. That is all that anyone needs to understand. Join us and you will come to know this.}
-{132}{}{How does one join the Brotherhood?}
-{133}{}{You people are too strange for me.}
-{134}{}{I'm sorry you feel that way.}
-{135}{}{This is Powered Combat Infantry Armor model T-51b or more commonly known as Power Armor.}
-{136}{}{I've been wanderin' the wastes for weeks now and I've never seen armor like this before.}
-{137}{}{It looks like it would be cumbersome to wear.}
-{139}{}{The Brotherhood are the sole bearers of Power Armor in the wastes. Only the honored, and Knights of the highest stature are given the privilege to wear the ultimate armor.}
-{140}{}{That still doesn't answer why I've never seen it before.}
-{141}{}{How does one join the Brotherhood?}
-{143}{}{Heathens have tried and failed to take our Power Armor from us. They would have to kill a Brother to possess his birthright, and if it comes to that, the armor would be in such poor condition as to render it useless.}
-{144}{}{I think I'll try to take it off your cold, dead body.}
-{145}{}{Bye.}
-{146}{}{Do I have to sacrifice a puppy to join?}
-{147}{}{Cumbersome? Not in the least. The sacred armor is so finely constructed to such exacting specifications that it feels like an extension of the blessed one's own body. It increases one's strength many times over and helps you resist the effects of radiation so that you may more effectively serve the Brotherhood. I would feel diminished without my holy armor.}
-{148}{}{How come no one else in the wastes has this armor?}
-{149}{}{I want one of those. Sign me up.}
-{151}{}{You need to speak with Cabbot if you wish to join.}
-{152}{}{I can't believe it. They're sending him down there?}
-{153}{}{I can't believe it. They're sending her down there?}
-{154}{}{So you took the famous Glow Quest, huh? *chuckle*}
-{155}{}{No... I'm going to the Ancient Order.}
-{156}{}{The Glow, what's that?}
-{157}{}{It's none of your business what I am doing.}
-{158}{}{Yeah, I did. Bye.}
-{159}{}{Glow, Ancient Order - it's the same thing. It's still not a good place to visit.}
-{160}{}{Why do you say that?}
-{161}{}{How hard could it be? All I have to do is go get something and bring it back. It's the old send the new guy on a quest thing.}
-{162}{}{Why the two names?}
-{163}{}{What's so special about this place?}
-{164}{}{The Glow, as it is known to topsiders, was supposedly a place where some of the most advanced weapons of that time were developed. At least that's what it says in the ancient writings. Now, as far as any of us can tell, it's a big crater filled with rads. I think the Elders send Brotherhood wannabes down there just to get rid of them.}
-{165}{}{Others? There were others before me?}
-{166}{}{I'm going to the Ancient Order. Where's that located?}
-{167}{}{You're right. It's not any of my business.}
-{168}{}{Well? To start it's a good 10 days' travel to the southeast from here. And then there's the radiation. There's a reason none of us have ever gone to the 'Ancient Order'. If you don't have Rad-X, you'll be cooked before you even know what hit you.}
-{170}{}{Let me get this straight...}
-{171}{}{Most topsiders think that it's just a big radioactive hole. Thus the name became the Glow or some even call it the Hot Spot. We in the Brotherhood know the truth. According to the ancient writings, this place was the source of all our technology... and who knows what may still be there.}
-{173}{}{Let me get this straight...}
-{174}{}{Others have tried. We never heard from them again.}
-{175}{}{Hell, you've almost talked me out of even wanting to join the Brotherhood.}
-{176}{}{They were weak. I'll be seein' you around.}
-{177}{}{What should I watch for when I go down there?}
-{179}{}{The Glow and the Ancient Order are one in the same.}
-{180}{}{What is the Glow?}
-{181}{}{Don't get me wrong, the Brotherhood is a great place to join. It's by far the safest place to live in the wastes. No place else will you find better weapons and armor. We serve technology and technology serves us.}
-{182}{}{Sounds good, I'll be going on my way.}
-{183}{}{What can you tell me about the Glow?}
-{184}{}{It doesn't sound like it is worth the trouble.}
-{185}{}{What...?}
-{186}{}{Why does the Ancient Order have two names?}
-{187}{}{Where is the Ancient Order? And the dangers are...?}
-{188}{}{Can I ask you a few questions?}
-{189}{}{Most topsiders think that it's just a big radioactive hole. Thus the name became the Glow or some even call it the Hot Spot. We in the Brotherhood know the truth. According to the ancient writings, this place was the source of all our technology... and who knows what may still be there.}
-{190}{}{Got another question for you.}
-{191}{}{Can I help you?}
-{192}{}{Never mind. Bye.}
-{193}{}{Sure, ask away.}
-{194}{}{Hello.}
-{195}{}{Yes, Rutger came here personally not too long ago, and that's not like him. He was trying to find out what had been happening to his caravans. I've no idea what it could have been. A few others say they saw something over near the Hub, but it disappeared before they could get close enough. It's all very unnerving. I hope it's resolved soon.}
-{196}{}{I heard you make animal sacrifices! Maybe you take these caravans for your dark rituals!}
-{197}{}{Any suspicions?}
-{198}{}{Well, if you see anything, let me know. I'd like to get to the bottom of this soon myself.}
-{199}{}{Not really. I suspect it's foul play... but then again, there are a lot of strange and dangerous creatures out there in the wastelands. It could simply be some creature, or more likely, a herd or band of them. I hope that helps. Good day.}
-{201}{}{Thanks for your time. Bye.}
-{202}{}{Okay, thanks. Bye.}
-{203}{}{Thanks for the info. Bye.}
-{204}{}{Thanks, Bye.}
-{205}{}{Okay... Thanks for the info.}
-{206}{}{Thank you for the warning. Bye.}
-{207}{}{Thank you. Bye.}
-{208}{}{Thank you for your time.}
-{209}{}{If you were lookin' to get a hold of some better arms, maybe you should try the Glow down south. [Darrel points south]}
-{210}{}{Here, take some Rad-X. [Darrel gives you some pills]}
-{211}{}{Swallow these like this. [Darrel motions taking the pills and rubs his tummy] Mmmmm, yummm.}
-{212}{}{Wait, wait, Not yet! [Darrel stops you from taking the pills] Wait until you get to the Glow.}
+{100}{}{Voici Darrel.}
+{101}{}{Voici un garde Paladin.}
+{102}{}{Bonjour et bienvenue à la Confrérie de l'Acier.}
+{103}{}{Euh...}
+{104}{}{Qu'est-ce que la Confrérie de l'Acier ?}
+{105}{}{Sais-tu où je pourrais trouver une puce d'eau ?}
+{106}{}{Sais-tu quelque chose sur les caravanes disparues ?}
+{107}{}{Qu'importe.}
+{108}{}{D'un ton moqueur] Eh bien, je ne crois pas que tu aies la moindre chance d'entrer. Les Anciens exigent un QI minimum des nouveaux Initiés.}
+{109}{}{Oui... euh... bien... euh... Non. C'est que personne n'essaie jamais de comprendre qui nous sommes.}
+{110}{}{La Confrérie est un groupe d'hommes et de femmes qui consacrent leur vie à la protection de la technologie.}
+{111}{}{J'ai entendu dire que votre peuple pratiquait des sacrifices.}
+{112}{}{Quel genre d'armure portez-vous ?}
+{113}{}{Comment puis-je en savoir plus sur votre technologie.}
+{114}{}{Au revoir.}
+{115}{}{Non... Je n'en ai jamais entendu parler. Un de nos scribes pourrait peut-être te répondre. Adresse-toi à l'un d'eux. Mais, pour cela, tu dois te joindre à nous.}
+{116}{}{Me joindre à vous ? Comment ?}
+{118}{}{Vous ne connaissez rien, vous les gars.}
+{119}{}{Des sacrifices !! Mais où diable as-tu entendu ça ? N'écoute pas ce que disent les gens du désert, ce n'est qu'une bande de pauvres fous.}
+{120}{}{En fait, je pensais que ce serait sympa.}
+{121}{}{Je ne voulais pas te contrarier.}
+{122}{}{Tout le monde est fou, sauf les membres de la Confrérie de l'Acier ?}
+{123}{}{Le seul moyen d'en savoir plus sur nous est d'entrer dans la Confrérie. Mon ami Cabbot pourra t'aider.}
+{125}{}{Avez-vous une puce d'eau dans la Confrérie ?}
+{126}{}{Tu verras ça avec Cabbot.}
+{127}{}{Mais qu'est-ce que la Confrérie de l'Acier ?}
+{128}{}{Ca va... C'est juste que personne n'essaie jamais de comprendre qui nous sommes.}
+{129}{}{Qu'y a-t-il à comprendre ?}
+{130}{}{Eh bien... Je crois que vous, les gars, devez penser que je suis moi-même bizarre.}
+{131}{}{La technologie. Voilà ce que tout le monde devrait comprendre. Rejoins-nous et tu en sauras plus.}
+{132}{}{Je voudrais entrer dans la Confrérie.}
+{133}{}{Je ne vous comprends décidément pas.}
+{134}{}{Ca me fait de la peine que tu le prennes comme ça.}
+{135}{}{C'est une SuperArmure d'infanterie, modèle T-51b. On l'appelle plus communément la SuperArmure.}
+{136}{}{Ca fait des semaines que je parcours le désert, mais je n'ai encore jamais vu une telle armure.}
+{137}{}{Ca a l'air lourd à porter.}
+{139}{}{La Confrérie est la seule à posséder la SuperArmure dans le désert. Seuls les nobles et les Chevaliers de haut rang ont le privilège de porter cette armure.}
+{140}{}{Cela n'explique toujours pas pourquoi je n'en avais encore jamais vu.}
+{141}{}{Je voudrais entrer dans la Confrérie.}
+{143}{}{Les Païens ont essayé en vain de s'emparer de notre SuperArmure. Il faudrait qu'ils tuent un membre de la Confrérie pour acquérir ses privilèges hérités de naissance, et si tel était le cas, l'armure serait dans un tel état qu'elle serait inutilisable.}
+{144}{}{Je crois que je vais essayer de l'ôter de ton cadavre.}
+{145}{}{Ciao.}
+{146}{}{Devrai-je pratiquer un sacrifice pour entrer dans la Confrérie ?}
+{147}{}{Lourd ? Pas du tout. L'armure sacrée est si bien conçue, selon des spécifications si précises, qu'on la porte comme une seconde peau. Elle décuple les forces de celui qui la porte et le protège des effets des radiations pour mieux servir la Confrérie. Je me sentirais diminué sans mon armure sacrée.}
+{148}{}{Comment se fait-il que personne d'autre ne possède cette armure dans le désert ?}
+{149}{}{J'en veux une. Faites-moi entrer.}
+{151}{}{Si tu veux entrer dans la Confrérie, tu dois t'adresser à Cabbot.}
+{152}{}{Je n'arrive pas à y croire. Ils l'envoient là-bas ?}
+{153}{}{Je n'arrive pas à y croire. Ils l'envoient là-bas ?}
+{154}{}{Alors, tu as entrepris la célèbre Quête du Rayon. [Rires]}
+{155}{}{Non... Je vais à l'Ordre Ancien.}
+{156}{}{Le Rayon, qu'est-ce que c'est ?}
+{157}{}{Ce que je fais ne te regarde pas.}
+{158}{}{Ouais, c'est fait. Au revoir.}
+{159}{}{Le Rayon, l'Ordre Ancien, c'est la même chose. Mais ce n'est pas un lieu idéal à visiter.}
+{160}{}{Pourquoi dis-tu ça ?}
+{161}{}{Qu'y a-t-il de si difficile ? Tout ce que je dois faire, c'est prendre quelque chose et le ramener. C'est juste le vieux coup d'envoyer le nouveau sur une quête.}
+{162}{}{Pourquoi ces deux noms ?}
+{163}{}{Qu'y a-t-il de si spécial dans cet endroit ?}
+{164}{}{Le Rayon, comme l'appellent les étrangers, aurait été le centre de fabrication des armes les plus sophistiquées de l'époque. Enfin, c'est ce que l'on peut lire dans les livres anciens. Maintenant, d'après ce que l'on sait, c'est un énorme cratère radioactif. Je crois que les Anciens y envoient les candidats à la Confrérie pour s'en débarrasser.}
+{165}{}{Les autres ? Il y en a eu d'autres avant moi ?}
+{166}{}{Je vais à l'Ordre Ancien. Où se trouve-t-il ?}
+{167}{}{Tu as raison, ça ne me regarde pas.}
+{168}{}{Eh bien, d'ici il faut compter 18 bons jours de voyage vers le Sud-Est. Et ensuite, il y a les radiations. Il y a une raison pour laquelle aucun de nous ne s'est jamais aventuré à 'l'Ordre Ancien'. Si tu n'as pas de Rad-X, tu seras cuit avant même d'avoir compris ce qui t'arrivait.}
+{170}{}{Rectifions...}
+{171}{}{La plupart des étrangers pensent qu'il s'agit simplement d'un immense trou radioactif. C'est pourquoi on l'appelle aussi le Rayon, ou encore la Zone Rouge. Nous, à la Confrérie, nous connaissons la vérité. Selon les livres anciens, cet endroit était la source de toute notre technologie. Et qui sait ce qu'on peut encore y trouver.}
+{173}{}{Rectifions...}
+{174}{}{D'autres ont essayé. On n'en a plus jamais entendu parler.}
+{175}{}{Bon sang, vous m'avez presque coupé l'envie d'entrer dans la Confrérie.}
+{176}{}{Ils étaient faibles. On se reverra.}
+{177}{}{A quoi dois-je faire attention en arrivant là-bas ?}
+{179}{}{Le Rayon et l'Ordre Ancien ne font qu'un.}
+{180}{}{Qu'est-ce que le Rayon ?}
+{181}{}{Comprends-moi bien, la Confrérie est un endroit formidable. C'est de loin l'endroit le plus sûr du désert. Nulle part ailleurs tu ne trouveras de meilleures armes et armures. Nous servons la technologie et la technologie nous sert.}
+{182}{}{Ca a l'air bien, je vais y aller.}
+{183}{}{Que peux-tu me dire sur le Rayon ?}
+{184}{}{On dirait que ça n'en vaut pas la peine.}
+{185}{}{Quoi... ?}
+{186}{}{Pourquoi l'Ordre Ancien porte-t-il deux noms ?}
+{187}{}{Où se trouve l'Ordre Ancien, et les dangers sont... ?}
+{188}{}{Puis-je te poser quelques questions ?}
+{189}{}{La plupart des étrangers pensent qu'il s'agit simplement d'un immense trou radioactif. C'est pourquoi on l'appelle aussi le Rayon, ou encore la Zone Rouge. Nous, à la Confrérie, nous connaissons la vérité. Selon les livres anciens, cet endroit était la source de toute notre technologie. Et qui sait ce qu'on peut encore y trouver.}
+{190}{}{J'ai une autre question pour toi.}
+{191}{}{Je peux t'aider ?}
+{192}{}{Laisse tomber. Salut.}
+{193}{}{Demande toujours.}
+{194}{}{Bonjour.}
+{195}{}{Oui, Rutger est venu ici personnellement il n'y a pas très longtemps, et ça ne lui ressemble pas. Il voulait savoir ce qui était arrivé à ses caravanes. Je n'ai aucune idée de ce qui a pu se passer. Certains disent avoir vu quelque chose près du Centre, quelque chose qui a disparu avant qu'ils n'aient eu le temps de s'en approcher. C'est très bizarre, j'espère que le mystère sera bientôt élucidé.}
+{196}{}{J'ai entendu dire que vous pratiquiez des sacrifices sur des animaux ! Vous utilisez probablement ces caravanes pour vos sinistres rituels !}
+{197}{}{Des soupçons ?}
+{198}{}{Eh bien, si tu vois quelque chose, préviens-moi. J'aimerais moi-même élucider cette affaire au plus vite.}
+{199}{}{Pas vraiment... mais j'estime qu'il y a quelque chose de louche ; enfin bon, il y a des tas de créatures étranges et dangereuses là-bas, dans le désert. Peut-être avons-nous affaire à une créature, ou plus vraisemblablement à une horde de créatures. C'est tout ce que je peux dire. Bonne journée.}
+{201}{}{Merci de ta patience. Salut.}
+{202}{}{Ok. Merci et au revoir.}
+{203}{}{Merci du renseignement. Au revoir.}
+{204}{}{Merci. Au revoir.}
+{205}{}{Bien... Merci pour les renseignements.}
+{206}{}{Je te remercie de m'avoir prévenu. Au revoir.}
+{207}{}{Merci. Au revoir.}
+{208}{}{Merci de m'avoir accordé du temps.}
+{209}{}{Si tu espères récupérer de meilleures armes, tu devrais aller au Rayon, dans le Sud. [Darrel te montre la direction du Sud]}
+{210}{}{Prends des Rad-X. [Darrel t'offre des pilules]}
+{211}{}{Avale-les comme ça. [Darrel prend les pilules et se frotte le ventre]. Mmmmm yummm.}
+{212}{}{Attends, attends, pas tout de suite ! [Darrel t'empêche de prendre les pilules] Attends d'arriver au Rayon.}
 {300}{}{[Plus]}

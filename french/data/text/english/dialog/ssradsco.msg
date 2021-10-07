@@ -1,6 +1,6 @@
-{100}{}{You earn }
-{101}{}{ experience for protecting Shady Sands by killing all the radscorpions.}
-{102}{}{It looks to have originated from the North American Emperor scorpion.}
-{188}{}{The radscorpions are now sealed in their cave, no longer posing a threat to Shady Sands.}
+{100}{}{Tu gagnes }
+{101}{}{ points d'expérience pour avoir arrêté les radscorpions.}
+{102}{}{On dirait qu'ils proviennent de la race des Scorpions Empereurs.}
+{188}{}{Les radscorpions sont maintenant enfermés dans leur caverne, ils ne sont plus une menace pour les Sables Ombragés.}
 {189}{}{}
-{200}{}{The cave mouth beckons you deeper into the lair of the radscorpions...}
+{200}{}{L'entrée de la grotte vous attire dans l'antre des radscorpions...}

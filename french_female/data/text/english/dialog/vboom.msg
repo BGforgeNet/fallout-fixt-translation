@@ -1,7 +1,7 @@
-{100}{}{There is a grenade rigged underneath this floor panel.}
-{101}{}{ It is not armed.}
-{102}{}{You disarm the trap and remove the plasma grenade.}
-{103}{}{You are removing the tripwire from the arming switch when you drop the pin and set off the grenade!}
-{104}{}{You try to slide the panel up slightly and remove the trap, but you are having trouble getting it up without pulling the tripwire.}
-{105}{}{You pry up the plate but you can't get a good grip on the grenade.}
-{106}{}{You pull the plate up, but the tripwire slips from your fingers before you manage to remove it.}
+{100}{}{Une grenade se trouve sous une latte du plancher.}
+{101}{}{Elle n'est pas armée.}
+{102}{}{Tu désamorces le piège et tu retires la grenade à plasma.}
+{103}{}{Alors que tu ôtes le fil tendu du commutateur d'amorçage, tu laisses tomber la goupille et déclenches la grenade !}
+{104}{}{Doucement, tu essaies de soulever la latte et tu retires le piège, mais tu as du mal à l'enlever sans tirer sur le fil tendu.}
+{105}{}{Tu soulèves la latte mais tu ne parviens pas à saisir correctement la grenade.}
+{106}{}{Tu soulèves la latte mais le fil tendu te glisse des mains avant que tu n'aies réussi à l'ôter.}

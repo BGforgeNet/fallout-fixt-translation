@@ -1,53 +1,53 @@
-{100}{}{You see Lex.}
-{101}{}{You see a loser.}
+{100}{}{Tu vois Lex.}
+{101}{}{Tu vois un loser.}
 {102}{}{[Plus]}
-{103}{}{[Done]}
-{104}{}{[Lex whispers.] Best be careful. Rock doesn't always tell the truth.}
-{105}{}{Why do you say that?}
-{106}{}{Why should I trust you?}
-{107}{}{Rock is a member of the Crypts, a gang. He tries to get strangers, like yourself, into trouble. If you listen to him, you could find yourself dead and buried.}
-{108}{}{Who are you?}
-{109}{}{Thanks for the info. Have a good day.}
-{110}{}{I'm Lex. Scrapheap is my home, and I guess I speak for her people.}
-{111}{}{Anyone else I should know about?}
-{112}{}{Well, there are also the Fools. They would control Scrapheap, if the Crypts were gone. The two gangs fight over who controls this place. Currently, the Crypts are on top. Now that you are here, things could change.}
-{113}{}{What makes you say that?}
-{114}{}{If you could get rid of the gangs, we would be grateful. We don't have the numbers or the strength to drive them off, and few people care about this place. If you care, then we might be able to help you.}
-{115}{}{What do you mean?}
-{116}{}{I've heard of you. You want to find the lost city of Necropolis. A grateful people could provide information on where to go.}
-{117}{}{I'll consider it.}
-{118}{}{We could ask for nothing more.}
-{119}{}{Bye.}
-{120}{}{I have some questions.}
-{121}{}{Why should you not? I have the best interests of my people at heart, and I would like to see you come to no harm.}
-{122}{}{What do you mean?}
-{123}{}{There are forces at work here in Scrapheap that would like to use you, and if that is not possible, to see you dead and buried. Choose your friends wisely, and your enemies with even more care. Good day.}
-{124}{}{Yeah, good day.}
-{125}{}{We thank you for getting rid of the Crypts and the Fools. Without the power generator, my people will have a poor life. Do you think you could fix it?}
-{126}{}{Of course.}
-{127}{}{Fix it yourself. I want my reward.}
-{128}{}{Thank you.}
-{129}{}{Very well, you shall have it. You have cast my people into a cold night and then abandoned us to the wolves - but I understand that your quest is more important.}
-{130}{}{The violence you have started may lead straight back to my people. Please finish it.}
-{131}{}{Just like you cowards to lay the task of death on the shoulders of others.}
-{132}{}{Working on it.}
-{133}{}{If you need help, I will provide it, but don't ask my people. They are too tired of death and pain. I will join you, if that is what you wish.}
-{134}{}{Yes, follow me, and attack when I do.}
-{135}{}{No. I'm just making a social comment.}
-{136}{}{Just as I suspected, you don't care about anything except your own needs. Join our enemies, bring fear to my people, and betray your own background.}
-{137}{}{I'm going to kill you for saying that.}
-{138}{}{It's a plan. I'm infiltrating this gang.}
-{139}{}{Shut up.}
-{140}{}{I thought you would, you worm.}
-{141}{}{Perhaps, but actions speak louder than words.}
-{142}{}{You'll see.}
-{143}{}{What can I help you with?}
-{144}{}{Tell me about the power generator.}
-{145}{}{Tell me about the Crypts.}
-{146}{}{Tell me about the Fools.}
-{147}{}{Tell me about Scrapheap.}
-{148}{}{Nothing else, thanks.}
-{149}{}{Scrapheap is our town. It was our home. And it will be again, hopefully.}
-{150}{}{The power generator supplies all the electicity in town. Without it, we would surely die. It is the most important thing in town. Whoever controls it, controls Scrapheap.}
-{151}{}{The Crypts are a gang run by Rayze. He's an animal and has one of the largest guns I've ever seen. He lets Lenny live, cuz he takes care of the brahmin, which provide fuel for the generator. The Crypts are in the big house.}
-{152}{}{Baka leads the Fools. If she had any more men, she'd surely attack the Crypts and try to take back the power generator. You can tell the Crypts from the Fools by their armor. Fools wear metal, Crypts leather.}
+{103}{}{[Terminé]}
+{104}{}{[Lex murmure.] Sois prudent. Rock ne dit pas toujours la vérité.}
+{105}{}{Pourquoi dis-tu ça ?}
+{106}{}{Et pourquoi je devrais te faire confiance ?}
+{107}{}{Rock est un membre des Crypts. C'est un gang. Il essaie de mettre les étrangers, comme toi, dans le petrin. Si tu l'écoute, tu vas finir mort et enterré.}
+{108}{}{Qui es-tu ?}
+{109}{}{Merci pour l'info. Bonne journée.}
+{110}{}{Je suis Lex. Scrapheap c'est ma ville, et je pense que je parle au nom de tout les habitants.}
+{111}{}{Qui d'autre dois-je connaître ?}
+{112}{}{Et bien, il y a aussi les Fools. Il dirigeraient Scrapheap, si les Crypts n'étaient pas là. Les deux gangs luttent pour le contrôle de la ville.}
+{113}{}{Qu'est-ce qui te fait dire ça ?}
+{114}{}{Si tu pouvais nous débarrasser de ces gangs, nous en serions reconnaissants. Nous n'avons ni le nombre, ni la puissance, pour les repousser. Si tu es volontaire, on pourrait peut-être s'entraider.}
+{115}{}{Que veux-tu dire ?}
+{116}{}{J'ai entendu parler de toi. Tu souhaite trouver la ville de Necropolis. Une personne reconnaissance pourrait te fournir les informations que tu recherche.}
+{117}{}{Je vais y réfléchir.}
+{118}{}{Nous ne demandons rien de plus.}
+{119}{}{Ciao.}
+{120}{}{J'ai quelques questions.}
+{121}{}{Pourquoi pas ? J'ai à coeur les meilleures intentions pour mes concitoyens, et je ne te veux aucun mal.}
+{122}{}{Que veux-tu dire ?}
+{123}{}{Il y a des forces présentes à Scrapheap qui ne cherchent qu'à t'utiliser, et si ce n'est pas possible, de s'assurer que tu repose au fond d'un trou. Choisi tes amis avec soin, et encore plus tes ennemis. Bonne journée.}
+{124}{}{Ouais, bonne journée.}
+{125}{}{Nous te remercions de t'être débarrassé des Crypts et des Fools. Mais sans le générateur électrique, mes concitoyens vont avoir une vie misérable. Tu pense pouvoir le réparer ?}
+{126}{}{Bien sûr.}
+{127}{}{Repare le toi-même. Je veux ma recompense.}
+{128}{}{Merci.}
+{129}{}{Très bien, tu vas l'avoir ta récompense. Tu as condamné mon peuple aux nuits glaciales, et nous a abandonné aux loups - mais je comprends que ta quête est plus importante.}
+{130}{}{La violence que tu as engendré pourrait se propager vers mes concitoyens. Je te prie de finir ce que tu as commencé.}
+{131}{}{Tout commme toi, lâche que tu es, de poser le fardeau de la mort sur les épaules de quelqu'un d'autre.}
+{132}{}{J'y travaille.}
+{133}{}{Si tu as besoin d'aide, je serais là, mais ne demande rien à mes concitoyens. Ils sont trop usés par la mort et la souffrance. Je te suivrais, si c'est ce que tu veux.}
+{134}{}{Oui, suis-moi et attaque a mon commandement.}
+{135}{}{Non. Je faisais juste un commentaire social.}
+{136}{}{Tel que je le suspectais, tu ne te préoccupe de rien d'autre que de tes besoins. Rejoins nos ennemies, apporte la peur à mes concitoyens, et trahit tes propres origines.}
+{137}{}{Tu vas mourir pour avoir dit cela.}
+{138}{}{C'est une ruse. J'infiltre leur gang.}
+{139}{}{La ferme !}
+{140}{}{C'est ce que je pensais, vermine.}
+{141}{}{Peut-être, mais des actions auraient plus de poids que des mots.}
+{142}{}{Tu verras.}
+{143}{}{Que puis-je faire pour toi ?}
+{144}{}{Parle-moi du générateur électrique.}
+{145}{}{Parle-moi des Crypts.}
+{146}{}{Parle-moi des Fools.}
+{147}{}{Parle-moi de Scrapheap.}
+{148}{}{Rien d'autre, merci.}
+{149}{}{Scrapheap est notre ville. c'était notre foyer. Et avec un peu d'espoir, elle le sera de nouveau.}
+{150}{}{Le générateur électrique fourni toute l'électricité de la ville. Sans lui, nous sommes foutu. C'est la chose la plus importante en ville. Qui contrôle le générateur, contrôle Scrapheap.}
+{151}{}{Les Crypts sont un gang dirigé par Rayze. C'est un animal avec un énorme flingue. Il laisse Lenny tranquille, car il s'occupe des Brahmines, qui produisent le carburant du générateur. Les Crypts sont dans la grande maison.}
+{152}{}{Baka dirige les Fools. Si elle avait plus d'hommes, elle attaquerait pour prendre le contrôle du générateur électrique. Tu peux dissocier Crypts et Fools par leur armures. Métal pour les Fools, Cuir pour les Crypts.}

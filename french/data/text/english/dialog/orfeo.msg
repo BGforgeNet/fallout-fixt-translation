@@ -1,8 +1,8 @@
-{100}{}{You see: Orfeo, a Senior Member of the Children of the Cathedral.}
-{101}{}{Ah. A new convert. Welcome.}
-{102}{}{Me kill!!!}
-{103}{}{I am not a convert!}
-{104}{}{Thank you, Brother.}
-{105}{}{Then we shall take care of that problem shortly.}
-{106}{}{We must first cleanse you from the impurities of the wastelands. Come.}
-{107}{}{We will cleanse you!}
+{100}{}{Voici Orfeo, Membre Senior des Enfants de la Cathédrale.}
+{101}{}{Ah. Une nouvelle recrue. Bienvenue.}
+{102}{}{Moi, tuer !!}
+{103}{}{Je ne suis pas une recrue !}
+{104}{}{Merci, Frère.}
+{105}{}{Dans ce cas, nous allons très vite remédier à ce problème.}
+{106}{}{Nous devons d'abord te débarrasser des impuretés du désert. Viens.}
+{107}{}{Nous allons te purifier !}

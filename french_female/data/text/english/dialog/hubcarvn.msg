@@ -1,22 +1,22 @@
-{100}{}{You see a teamster.}
-{101}{}{Today's going to be a long day!}
-{102}{}{I really don't want to work today.}
-{103}{}{I hope we don't get raided... or worse.}
-{104}{}{Sorry, we don't need any more guards... I think.}
-{105}{}{Sorry, we're full.}
-{106}{}{You should check out the Merchant Market if you want a job.}
-{107}{}{I hope we sell everything.}
-{108}{}{I can't wait until we finish.}
-{109}{}{I'm ready to kick some butt.}
-{110}{}{We're out of here!}
-{111}{}{It sure was hot today.}
-{112}{}{Boy am I thirsty.}
-{113}{}{What day is it?}
-{114}{}{I'm off to the Falcon as soon as I'm done!}
-{115}{}{Sorry, we're just getting back from a route.}
-{116}{}{You should check at the Merchant Market if you want a job.}
-{117}{}{Today's pay day!}
-{118}{}{I'm heading straight for Bob's!}
-{119}{}{I've got to pay back the loan today!}
-{120}{}{I'm so tired.}
-{121}{}{That was a long trip!}
+{100}{}{Voici un routier.}
+{101}{}{La journée sera longue !}
+{102}{}{Je n'ai vraiment pas envie de travailler aujourd'hui.}
+{103}{}{J'espère qu'on ne va pas être pillés... ou pire.}
+{104}{}{Je regrette mais on n'a pas besoin d'autres gardes... Je pense.}
+{105}{}{Impossible, on est au complet.}
+{106}{}{Pour du boulot, tu devrais aller voir au Grand Marché.}
+{107}{}{J'espère qu'on arrivera à tout vendre.}
+{108}{}{Vivement qu'on ait terminé.}
+{109}{}{Prêt pour la baston.}
+{110}{}{On met les voiles !}
+{111}{}{Chaude journée, non ?}
+{112}{}{Bon sang que j'ai soif !}
+{113}{}{On est quel jour ?}
+{114}{}{Dès que j'ai terminé, je vais au Faucon !}
+{115}{}{Désolé mais on revient juste d'une tournée.}
+{116}{}{Pour un boulot, tu devrais aller te renseigner au Grand Marché.}
+{117}{}{Aujourd'hui, c'est le jour de la paie !}
+{118}{}{Je vais directement chez Bob !}
+{119}{}{Il faut que je rembourse le prêt aujourd'hui !}
+{120}{}{J'en peux plus.}
+{121}{}{Quel long voyage !}

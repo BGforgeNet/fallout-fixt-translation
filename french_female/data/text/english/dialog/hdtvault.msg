@@ -1,6 +1,6 @@
-{100}{}{There seems to be a lock on this door.}
-{101}{}{The door is already unlocked.}
-{102}{}{Those are inadequate for the job.}
-{103}{}{You bypass the electronic lock.}
-{104}{}{You failed to bypass the electronic lock.}
-{105}{}{The door is locked.}
+{100}{}{Il semble que cette porte possède un verrou.}
+{101}{}{La porte est déjà déverrouillée.}
+{102}{}{Ce matériel ne convient pas.}
+{103}{}{Tu as réussi à débloquer la fermeture électronique.}
+{104}{}{Tu n'as pas réussi à débloquer la fermeture électronique.}
+{105}{}{La porte est verrouillée.}

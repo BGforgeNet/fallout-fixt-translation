@@ -1,2 +1,2 @@
-{100}{}{This is where the main entrance to the Vault should be.}
-{101}{}{The collapse looks natural. You cannot find any evidence of foul play or explosives.}
+{100}{}{L'entrée principale de l'Abri devrait se trouver ici.}
+{101}{}{L'effondrement semble naturel. Aucun signe d'acte de malveillance ou d'explosifs.}

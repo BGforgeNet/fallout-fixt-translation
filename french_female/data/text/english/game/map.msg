@@ -78,9 +78,9 @@
 {110}{}{Dépôtville}
 {111}{}{Dépôtville}
 {112}{}{Dépôtville}
-{113}{}{Brotherhood of Steel}
-{114}{}{Brotherhood of Steel}
-{115}{}{Brotherhood of Steel}
+{113}{}{Confrérie de l'Acier}
+{114}{}{Confrérie de l'Acier}
+{115}{}{Confrérie de l'Acier}
 {116}{}{Sables Ombragés}
 {117}{}{Cathedral}
 {118}{}{Cathedral}
@@ -120,7 +120,7 @@
 {152}{}{Desert}
 {153}{}{Desert}
 {154}{}{Desert}
-{155}{}{Brotherhood of Steel}
+{155}{}{Confrérie de l'Acier}
 {156}{}{Desert}
 {157}{}{Desert}
 {158}{}{Mountains}
@@ -340,7 +340,7 @@
 {504}{}{The Khans}
 {505}{}{Nécropolis}
 {506}{}{The Hub}
-{507}{}{Brotherhood of Steel}
+{507}{}{Confrérie de l'Acier}
 {508}{}{Mariposa Military Base}
 {509}{}{The Glow}
 {510}{}{L.A. Boneyard}

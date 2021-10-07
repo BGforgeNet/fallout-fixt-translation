@@ -1,1 +1,1 @@
-{100}{}{This is a REALLY good lock.}
+{100}{}{C'est VRAIMENT un bon verrou.}

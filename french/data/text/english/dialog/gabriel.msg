@@ -1,89 +1,89 @@
-{100}{}{You see a large, well-armed man.}
-{101}{}{You see: Gabriel, leader of the Gun Runners.}
-{102}{}{It's not often that we get visitors. How can I help you?}
-{103}{}{Why don't you get many visitors?}
-{104}{}{What is it you do here?}
-{105}{}{This place isn't very accessible with a nest of those damn Deathclaws right outside our factory.}
-{106}{}{You guys seem fairly well armed, why don't you go exterminate them?}
-{107}{}{We've gone over there and taken out a few, but they always seem to come back. Besides, we're machinists, not fighters.}
-{108}{}{What would you give me if I went in there and took care of them for you?}
-{109}{}{We manufacture weapons and ammunition. We've been at this for the last 30 years. But the last 10 have been hell.}
-{110}{}{Why is that?}
-{111}{}{We've stripped the area surrounding our factory of all the scrap metals that were left after the war. Now we have to rely on Adytum to supply us with raw materials.}
-{112}{}{What's so bad about Adytum supplying you with your materials?}
-{113}{}{At first it was fine. They supplied us with raw materials, we manufactured and sold the weapons. Then, 3 years ago, Zimmerman hired some mercenaries to help protect Adytum from the Deathclaw and the odd random attack by raiders. Those Regulators are cold-hearted bastards and are squeezing us for all we have. We make the guns and they get rich off of it.}
-{114}{}{Why don't you just leave and set up somewhere else?}
-{115}{}{That's rough. What would you give me to take care of the Deathclaw?}
-{116}{}{We would if we could, but moving is a major undertaking with all the lathes and mills. These are things that aren't just picked up and easily moved. We could move, but the Deathclaw make it impossible.}
-{117}{}{You guys seem fairly well armed, why don't you go exterminate them?}
-{118}{}{If you could get rid of the Deathclaws once and for all, you could name your price.}
-{119}{}{I want weapons and ammunition, and lots of it.}
+{100}{}{Voici un homme costaud et bien armé.}
+{101}{}{Voici Gabriel, chef des Contrebandiers.}
+{102}{}{C'est pas souvent qu'on a de la visite... Je peux t'aider ?}
+{103}{}{Pourquoi vous avez pas souvent de visites ?}
+{104}{}{C'est quoi que tu fais ici ?}
+{105}{}{Cet endroit est pas facile d'accès, avec ce nid de Griffemorts juste en dehors de l'usine.}
+{106}{}{Vous semblez assez bien équipés, pourquoi ne pas les exterminer ?}
+{107}{}{C'est ce qu'on a essayé de faire, mais quand y'en a plus, y'en a encore. Et puis, on est des machinistes, pas des guerriers.}
+{108}{}{Et si je m'en charge à votre place, qu'est-ce que vous me donnez ?}
+{109}{}{On fabrique des armes et des munitions ; ça fait 30 ans. Mais depuis 10 ans, c'est l'enfer.}
+{110}{}{Comment ça se fait ?}
+{111}{}{On a écumé les environs de l'usine de tous les déchets métalliques hérités de la guerre. Maintenant, c'est le Sanctuaire qui nous approvisionne en matières premières.}
+{112}{}{Et que le Sanctuaire vous approvisionne, ça pose un problème ?}
+{113}{}{Au début, rien à redire. Ils nous fournissaient les matières premières et nous, on fabriquait et on vendait les armes. Et puis il y a 3 ans, Zimmerman a embauché des mercenaires pour protéger le Sanctuaire contre les Griffemorts et les pillards. Et ces milices sont sans foi ni loi, elles nous exploitent au maximum ! On fabrique les fusils et eux s'engraissent...}
+{114}{}{Pourquoi ne pas partir et vous installer ailleurs ?}
+{115}{}{Dur. Qu'est-ce que vous me donnez si je me charge des Griffemorts ?}
+{116}{}{Ah, on demanderait pas mieux ! Mais déménager, avec toutes nos machines et nos installations, t'imagines ! Pas facile à déplacer tout ça. On partirait bien, mais avec les Griffemorts, impossible !}
+{117}{}{Vous semblez assez bien équipés, pourquoi ne pas les exterminer ?}
+{118}{}{Si tu réussissais à nous débarrasser des Griffemorts pour de bon, ton prix serait le nôtre.}
+{119}{}{Je veux des armes et des munitions... et beaucoup.}
 {120}{}{}
-{121}{}{If you clean out that area, we'll be leaving, but we'll leave behind more weapons and ammunition than you could possibly use.}
-{122}{}{Okay. You got yourself a deal.}
-{123}{}{I'll have to think about it.}
-{124}{}{People who would fix all of your problems with Adytum.}
-{125}{}{You clear out the Deathclaws, all of them, and you got yourself a deal.}
-{126}{}{Okay. I'll do it.}
-{127}{}{I'll have to think about it.}
-{128}{}{Hello again.}
-{129}{}{What is it you do here?}
-{130}{}{Bye.}
+{121}{}{Si tu nettoies le coin, on partira mais on laissera derrière nous plus d'armes et de munitions qu'il t'en faudrait.}
+{122}{}{Ok. Marché conclu.}
+{123}{}{Faut que je réfléchisse.}
+{124}{}{Des gens qui régleraient tous les problèmes que le Sanctuaire nous pose.}
+{125}{}{Tu élimines les Griffemorts, jusqu'au dernier, et ça marche !}
+{126}{}{D'accord, je m'en charge.}
+{127}{}{Faut que je réfléchisse.}
+{128}{}{Rebonjour.}
+{129}{}{C'est quoi que tu fais ici ?}
+{130}{}{Ciao.}
 {131}{}{}
-{132}{}{It's been going okay.}
-{133}{}{I think I've killed all the Deathclaws.}
-{134}{}{We need to be sure. We've killed over 20 in the past 2 years and they always seem to come back. We could never figure out how. Let's give it a few days and if they are still gone we'll see what we can do for ya'.}
-{135}{}{Okay, thanks}
-{136}{}{Let us know when you've taken care of the Deathclaws.}
-{137}{}{Yeah. See you around, maybe.}
-{138}{}{I know, tell me about it.}
-{139}{}{See you around, maybe.}
-{140}{}{It's not often that we get visitors. May I help you?}
-{141}{}{Why is it that you don't get many visitors?}
-{142}{}{What is it you do here?}
-{143}{}{This place isn't very accessible, with a nest of those damn Deathclaws right outside our factory.}
-{144}{}{I've killed all the Deathclaws. Even all the damn eggs.}
-{145}{}{We would if we could, but moving is a major undertaking with all the lathes and mills. These are things that aren't just picked up and easily moved. We could move, but the Deathclaws make it impossible.}
-{146}{}{I've killed all the Deathclaws. Even all the damn eggs.}
+{132}{}{Tout s'est bien passé.}
+{133}{}{Je pense avoir tué tous les Griffemorts.}
+{134}{}{Faut être sûr. On en a tué plus de 20 en 2 ans, et on dirait qu'il en revient toujours. Comment ? Ca, mystère. S'ils donnent plus signe de vie d'ici quelques jours, on verra ce qu'on peut faire pour toi.}
+{135}{}{D'accord. Merci.}
+{136}{}{Fais-nous signe dès que t'as réglé le compte des Griffemorts.}
+{137}{}{D'accord. A un de ces quatre.}
+{138}{}{Je sais bien.}
+{139}{}{A un de ces quatre.}
+{140}{}{C'est pas souvent qu'on a de la visite... Je peux t'aider ?}
+{141}{}{Pourquoi vous avez pas souvent de visites ?}
+{142}{}{C'est quoi que tu fais ici ?}
+{143}{}{Cet endroit est pas facile d'accès, avec ce nid de Griffemorts juste en dehors de l'usine.}
+{144}{}{J'ai tué tous les Griffemorts. Même toutes leurs saletés d'œufs.}
+{145}{}{Ah, on demanderait pas mieux ! Mais déménager, avec toutes nos machines et nos installations, t'imagines. Pas facile à déplacer tout ça. On partirait bien, mais avec les Griffemorts, impossible !}
+{146}{}{J'ai tué tous les Griffemorts. Même toutes leurs saletés d'œufs.}
 {147}{}{}
-{148}{}{I want weapons and ammunition, and lots of it.}
+{148}{}{Je veux des armes et des munitions... et beaucoup.}
 {149}{}{}
-{150}{}{No need to pay me. Your thanks is enough.}
-{151}{}{You got it - just take whatever you want. We're pulling out of here in a day or two, but we'll leave more weapons and ammo than you could carry right now. Just come back here whenever you need them.}
+{150}{}{Je demande rien. Votre gratitude me suffit.}
+{151}{}{Tu les as eus ; prends ce que tu veux. On part dans un ou deux jours, mais on laissera plus d'armes et de munitions que tu ne peux en porter. Reviens te servir quand t'as besoin.}
 {152}{}{}
 {153}{}{}
-{154}{}{Thank you.}
+{154}{}{Merci.}
 {155}{}{}
-{156}{}{No problem.}
+{156}{}{Aucun problème.}
 {157}{}{}
 {158}{}{}
-{159}{}{Weren't you guys leaving?}
-{160}{}{I'm just here to pick up a few things. What do you got today?}
-{161}{}{Nothing. Thanks anyway.}
+{159}{}{Vous deviez pas partir ?}
+{160}{}{Je viens juste prendre deux ou trois trucs. Qu'est-ce que tu m'proposes aujourd'hui ?}
+{161}{}{Rien. Merci.}
 {162}{}{}
-{163}{}{Great. What do you guys got today?}
-{164}{}{Well, I'll see you guys later.}
+{163}{}{Super. Alors les mecs, qu'est-ce que vous avez aujourd'hui ?}
+{164}{}{Bon allez, à un de ces quatre.}
 {165}{}{}
-{166}{}{I'm just here to pick up a few things. What do you got today?}
-{167}{}{Nothing. Thanks anyway.}
-{168}{}{Sorry I can't talk to you now, I'm very busy.}
-{169}{}{Guns! I like guns!}
-{170}{}{I have some friends who can really use some of your weapons.}
-{171}{}{I have some friends who can really use some of your weapons.}
-{172}{}{How goes it, my friend?}
-{173}{}{How goes it, my friend?}
-{174}{}{You what?! You've killed them all? Thank the gods! Now we can move to a new place, where we can get our own materials and not have to rely on those snakes in Adytum. You name it and you've got it, my friend.}
-{175}{}{You what?! You've killed them all? Thank the gods! Now we can move to a new place, where we can get our own materials and not have to rely on those snakes in Adytum. You name it and you've got it, my friend.}
-{176}{}{Fair enough. It has been a pleasure doing business with you, friend.}
-{177}{}{Fair enough. It has been a pleasure doing business with you, friend.}
-{178}{}{You got it. Let your friends know that they got their weapons.}
-{179}{}{You got it. Let your friends know that they got their weapons.}
-{180}{}{Thank you my friend.}
-{181}{}{Thank you my friend.}
-{182}{}{Sorry I can't talk to you, friend, but we're busy getting this place packed up to move. Help yourself to whatever you need.}
-{183}{}{Sorry I can't talk to you, friend, but we're busy getting this place packed up to move. Help yourself to whatever you need.}
-{184}{}{There's no reason to leave now that your friends have gotten rid of those damn Regulators.}
-{185}{}{There's no reason to leave now that your friends have gotten rid of those damn Regulators.}
-{186}{}{Welcome, friend. What can I help you with?}
-{187}{}{Welcome, friend. What can I help you with?}
-{188}{}{You need to talk to Zack about buying things.}
+{166}{}{Je viens juste prendre deux ou trois trucs. Qu'est-ce que tu m'proposes aujourd'hui ?}
+{167}{}{Rien. Merci.}
+{168}{}{Désolé, j'ai pas le temps de discuter, je suis très occupé.}
+{169}{}{Les fusils, j'aime les fusils !}
+{170}{}{J'ai des amis qui sauront bien quoi faire de vos armes.}
+{171}{}{J'ai des amis qui sauront bien quoi faire de vos armes.}
+{172}{}{Comment ça va, l'amie ?}
+{173}{}{Comment ça va, l'amie ?}
+{174}{}{Tu quoi ?! Tu les a tous tués ? Les dieux sont avec nous ! Maintenant, on peut partir. On a plus à dépendre de ces vermines du Sanctuaire pour nos matières premières. Ton prix sera le nôtre, l'amie.}
+{175}{}{Tu quoi ?! Tu les a tous tués ? Les dieux sont avec nous ! Maintenant, on peut partir. On a plus à dépendre de ces vermines du Sanctuaire pour nos matières premières. Ton prix sera le nôtre, l'amie.}
+{176}{}{Parfait. Ravi d'avoir eu affaire à toi, l'amie.}
+{177}{}{Parfait. Ravi d'avoir eu affaire à toi, l'amie.}
+{178}{}{Tu les as eus. Fais savoir à tes amis qu'ils ont leurs armes.}
+{179}{}{Tu les as eus. Fais savoir à tes amis qu'ils ont leurs armes.}
+{180}{}{Merci, l'amie.}
+{181}{}{Merci, l'amie.}
+{182}{}{Désolé l'amie, j'ai pas le temps de te parler ; on est occupés à déménager. Sers-toi à ton aise.}
+{183}{}{Désolé l'amie, j'ai pas le temps de te parler ; on est occupés à déménager. Sers-toi à ton aise.}
+{184}{}{C'est plus la peine de partir maintenant que nous sommes débarrassés de ces maudits mercenaires.}
+{185}{}{C'est plus la peine de partir maintenant que nous sommes débarrassés de ces maudits mercenaires.}
+{186}{}{Bienvenue l'amie. Je peux t'aider ?}
+{187}{}{Bienvenue l'amie. Je peux t'aider ?}
+{188}{}{Pour les achats, adresse-toi à Zack.}

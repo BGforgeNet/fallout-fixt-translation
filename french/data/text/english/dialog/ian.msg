@@ -1,124 +1,124 @@
-{100}{}{You see a short, stocky man.}
-{101}{}{We don't like your kind in these parts.}
-{102}{}{Hello, stranger. You look like you're new here. What's your name?}
-{103}{}{My name's not important.}
-{104}{}{I'm }
+{100}{}{Voici un homme petit et trapu.}
+{101}{}{Les gens de ton espèce, on n'en veut pas.}
+{102}{}{Bonjour. On dirait que t'es nouveau par ici. Comment t'appelles-tu ?}
+{103}{}{Mon nom n'a pas d'importance.}
+{104}{}{Je m'appelle }
 {105}{}{.}
-{106}{}{Urgh?}
-{107}{}{Well, then, neither are you.}
-{108}{}{Good to meet you. I'm Ian.}
-{109}{}{What do you do here?}
-{110}{}{I'd like to know more about this place. Can you help?}
-{111}{}{Sorry, but I don't have time to waste on morons.}
-{112}{}{I was a guard for the merchants of the Hub. However, I was shot during a raid by bandits. I've been staying here, since the people have helped me recover. Still, my knowledge of the outside world and my experience make me useful here. Shady Sands is my home now. Occasionally, I even get to visit Junktown or the Hub to do some trading, since I'm the only person here who has ever really left town.}
-{113}{}{You see: Ian.}
-{114}{}{I'm sorry to hear about your injury.}
-{115}{}{Where's this Hub, and Junktown?}
-{116}{}{Can you tell me about the bandits?}
-{117}{}{Shady Sands is a small but self-sufficient community. The only trouble here is with the bandits and the radscorpions.}
-{118}{}{Why are the radscorpions trouble?}
-{119}{}{Are there many bandits?}
-{120}{}{There are several. They come from various groups. They steal our food and occasionally shoot a few people. Seth organized the guards to help fight them off.}
-{121}{}{Can you tell me about Seth?}
-{122}{}{There are different groups? Who are they?}
-{123}{}{Radscorpions are very dangerous. They have a poisonous stinger in the tail, and they are very quick. Aradesh has been trying to find a way to get rid of them. If you feel brave, you could talk to Aradesh about them.}
-{124}{}{Thanks. It's been healing up well, thanks to Razlo.}
-{125}{}{Seth is a very brave fighter. He occasionally goes to the radscorpion caves to kill a few radscorpions, but they always wind up coming back. There are just too many for him to fight.}
-{126}{}{Are the radscorpions really that dangerous?}
-{127}{}{What can I help you with?}
-{128}{}{There are three groups: the Khans, the Vipers, and the Jackals. They pretty much hate each other, but they all raid Shady Sands.}
-{129}{}{Tell me more about Shady Sands.}
-{130}{}{He has the confident, relaxed stance of an experienced fighter.}
-{131}{}{So, }
-{132}{}{, what can I do for you?}
-{133}{}{Tell me about the raiders.}
-{134}{}{Tell me about radscorpions.}
-{135}{}{Tell me about Shady Sands.}
-{136}{}{Tell me about Seth.}
-{137}{}{Can you give me directions to the Hub and Junktown?}
-{138}{}{Nothing, thanks.}
-{139}{}{The Hub is a big trading center far south of Shady Sands. It's run by several different caravan groups of merchants: the Water Merchants, the Crimson Caravan, and the Far Go Traders. Junktown is a little south and a ways west. It's smaller, but still a good place to drop in for a drink. It's overseen by a fellow by the name of Killian Darkwater; the local shopkeeper, sheriff, and mayor.}
-{140}{}{Thanks.}
-{141}{}{I may not be a very good fighter any more, but I'm good enough to best the likes of you!}
-{142}{}{What can I do for you, }
+{106}{}{Hein ?}
+{107}{}{Bon, alors, toi non plus.}
+{108}{}{Enchanté. Je m'appelle Ian.}
+{109}{}{Que fais-tu ici ?}
+{110}{}{J'aimerais en apprendre davantage sur cet endroit. Peux-tu m'aider ?}
+{111}{}{Excuse-moi mais je n'ai pas de temps à perdre avec des crétins.}
+{112}{}{Je travaillais comme garde pour les marchands au Centre. Mais j'ai reçu une balle au cours d'une attaque de bandits. Je suis resté le temps de guérir, les gens m'ont aidé. Et puis, ma connaissance du monde extérieur et mon expérience me rendent utile ici. Je me sens un peu chez moi aux Sables Ombragés. Parfois, je me rends à Dépôtville ou au Centre pour les affaires. En fait, je suis le seul ici à être sorti du coin.}
+{113}{}{Voici Ian.}
+{114}{}{Je suis désolé d'apprendre pour ta blessure.}
+{115}{}{Où se trouvent le Centre et Dépôtville ?}
+{116}{}{Peux-tu me parler de ces bandits ?}
+{117}{}{Les Sables Ombragés forment une petite communauté qui vit en autarcie. Le seul problème ici, ce sont les radscorpions et les bandits.}
+{118}{}{Pourquoi les radscorpions sont-ils un problème ?}
+{119}{}{Les bandits sont-ils nombreux ?}
+{120}{}{Il y en a pas mal. Ils appartiennent à différents groupes. Ils volent notre nourriture et il leur arrive de faire quelques victimes. Seth a organisé des rondes de gardes pour les combattre.}
+{121}{}{Peux-tu me parler de Seth ?}
+{122}{}{Il existe différents groupes ? Quels sont-ils ?}
+{123}{}{Les radscorpions sont très dangereux. Il possèdent un dard empoisonné et ils sont très rapides. Aradesh a tenté de trouver un moyen de nous en débarrasser. Si tu t'en sens le courage, tu devrais en parler à Aradesh.}
+{124}{}{Merci. Ca va beaucoup mieux, grâce à Razlo.}
+{125}{}{Seth est un valeureux combattant. Il s'aventure parfois dans les grottes des radscorpions pour en tuer quelques-uns, mais ils reviennent sans cesse. Il y en a trop.}
+{126}{}{Les radscorpions sont-ils vraiment si dangereux ?}
+{127}{}{Que puis-je faire pour toi ?}
+{128}{}{Il existe trois groupes: les Khans, les Vipères et les Chacals. Ils se détestent mais ça ne les empêche pas de s'unir pour piller les Sables Ombragés.}
+{129}{}{Dis m'en plus sur les Sables Ombragés.}
+{130}{}{Il a la prestance d'un combattant expérimenté.}
+{131}{}{Donc, }
+{132}{}{, qu'est-ce que je peux faire pour toi ?}
+{133}{}{Parle-moi des pillards.}
+{134}{}{Parle-moi des radscorpions.}
+{135}{}{Parle-moi des Sables Ombragés.}
+{136}{}{Parle-moi de Seth.}
+{137}{}{Peux-tu m'indiquer la direction du Centre et de Dépôtville ?}
+{138}{}{Rien, merci.}
+{139}{}{Le Centre est une grande ville commerçante au Sud des Sables Ombragés. Elle est dirigée par plusieurs groupes de marchands qui possèdent des caravanes: les Marchands d'Eau, la Caravane Ecarlate et les Marchands du Lointain. Dépôtville est situé un peu plus au Sud-Ouest. C'est une ville plus petite mais ça vaut la peine d'y faire une halte pour boire un coup. Elle est contrôlée par un type du nom de Killian Darkwater. Il est à la fois commerçant, shérif et maire de la ville.}
+{140}{}{Merci.}
+{141}{}{Je ne suis plus le combattant que j'étais autrefois mais je suis encore capable d'anéantir ceux de ton espèce !}
+{142}{}{Je peux t'aider }
 {143}{}{?}
-{144}{}{Hmm. Nothing. Never mind, Ian.}
-{145}{}{You can leave now.}
-{146}{}{Can you give me directions to the Hub and Junktown?}
-{147}{}{Well, since you ask, all right. See you around.}
-{148}{}{No thanks. I'm needed here.}
-{149}{}{Could you help me out a bit? Your experience would be useful.}
-{150}{}{Let's go. It'll be good to get back into action!}
-{151}{}{This is Killian's, a general store. Killian's a good man, and they have plenty of stock.}
-{152}{}{Gizmo's casino. A hive of gambling and underworld activity. Careful - they say the games are rigged.}
-{153}{}{This place gives me the creeps.}
-{154}{}{What the hell happened here?}
-{155}{}{This is gonna be a tough nut to crack.}
-{156}{}{Hmm. Tempting offer, since this place gets boring. Tell ya what. Standard rates: 100 caps, and you've got a deal.}
-{157}{}{Deal.}
-{158}{}{No thanks.}
-{159}{}{How about a piece of the action, instead?}
-{160}{}{All right, I'll help you out in exchange for my share of loot.}
-{161}{}{No, I don't think so. Come back when you have some caps.}
-{162}{}{This is the Weapon Shop. It's run by Beth. She's good for guns, but better for gossip.}
-{163}{}{Jake's Weapons. High prices, but really good guns.}
-{164}{}{Office of the Water Merchants. They're the big movers and shakers of the Hub, since they supply the water that keeps everything going.}
-{165}{}{This is the Crimson Caravan. I did some work for them. They do a lot of high-risk jobs.}
-{166}{}{Far Go Traders, run by Butch Harris. He's ot-nay oo-tay ight-bray, if you catch my meaning.}
-{167}{}{Ah, now the Maltese Falcon is the place to be. Good music, good drinks, and good company.}
-{168}{}{That is one ugly son of a bitch!}
-{169}{}{You earn 100 experience for convincing Ian to join your quest.}
-{170}{}{Heard about some of these places before, but never been in one. Seems nice and clean... a little too clean for my taste.}
-{171}{}{Not that you asked me, but the man needs to give you a little breathing room.}
-{172}{}{Y'know, that woman couldn't lead a tango, much less a revolution.}
-{173}{}{What weapons are you skilled with?}
-{174}{}{I'm a good shot with just about any sort of pistol, and I can use a submachine gun, too. I also know how to handle a knife.}
-{175}{}{I thought L.A. Boneyard was worse.}
-{200}{}{Draw your best weapon next time we go into battle.}
-{201}{}{Sure thing.}
-{202}{}{Can I do something for you before I go?}
-{203}{}{Um, yeah. I think we should stick together, after all.}
-{204}{}{Uh, no. Thanks.}
-{1000}{}{Water}
-{1001}{}{War}
-{1002}{}{Shady}
+{144}{}{Hmm. Rien, Ian.}
+{145}{}{Tu peux t'en aller maintenant.}
+{146}{}{Peux-tu m'indiquer la direction du Centre et de Dépôtville ?}
+{147}{}{C'est bon. A une prochaine !}
+{148}{}{Non merci. On a besoin de moi ici.}
+{149}{}{Est-ce que tu pourrais me donner un coup de main ? Ton expérience pourrait m'être utile.}
+{150}{}{Allons-y. Ca me fera du bien de reprendre du service !}
+{151}{}{C'est le magasin de Killian. C'est un brave type et il possède pas mal de matériel.}
+{152}{}{Le casino de Gizmo. C'est le royaume du jeu et de la magouille. Fais gaffe, on dit que ses jeux sont complètement truqués.}
+{153}{}{Cet endroit me fout les jetons.}
+{154}{}{Qu'est-il arrivé ici ?}
+{155}{}{Ca va pas être du gâteau.}
+{156}{}{Hmm. C'est tentant, vu qu'ici, on s'amuse pas tous les jours. Tu sais quoi, je te propose le tarif habituel: 100 caps et c'est marché conclu.}
+{157}{}{Marché conclu.}
+{158}{}{Non, merci.}
+{159}{}{Et que dirais-tu d'un peu d'action simplement ?}
+{160}{}{C'est bon, je te donnerai un coup de main en échange de ma part du gâteau.}
+{161}{}{Non, je ne pense pas. Repasse quand tu auras plus de caps.}
+{162}{}{C'est l'Armurerie. C'est Beth qui s'en occupe. Les flingues c'est son rayon, mais c'est une meilleure commère.}
+{163}{}{Les armes de Jake. Pas très bon marché, mais de la super qualité.}
+{164}{}{Le bureau des Marchands d'Eau. Tout passe par eux au Centre étant donné qu'ils fournissent l'eau.}
+{165}{}{C'est la Caravane Ecarlate. Il m'est arrivé de travailler pour eux. Ils font beaucoup de coups à haut risque.}
+{166}{}{Les Marchands du Lointain, dirigés par Butch Harris. Il est gouli goula tabia, si tu vois ce que je veux dire...}
+{167}{}{Ah ça, le Faucon Maltais, c'est là qu'il faut aller ! Bonne musique, bonnes boissons et charmante compagnie.}
+{168}{}{C'est un vrai fils de pute !}
+{169}{}{points d'expérience pour avoir réussi à convaincre Ian.}
+{170}{}{J'ai entendu parler de tous ces endroits sans jamais les avoir vus. Ca semble super et très convenable... un peu trop, à mon goût.}
+{171}{}{Non pas que tu me l'aies demandé, mais il faut qu'il te laisse un peu respirer.}
+{172}{}{Tu sais, cette femme ne pourrait pas mener un tango, encore moins une révolution.}
+{173}{}{Quels types d'armes tu préfères utiliser ?}
+{174}{}{Je suis bon avec n'importe quel pistolet et je peux me servir d'une mitraillette. Je sais aussi tenir un couteau.}
+{175}{}{Je pensais que le Cimetière de L.A. serait pire.}
+{200}{}{La prochaine fois, utilise l'arme que tu connais le mieux.}
+{201}{}{Aucun soucis.}
+{202}{}{Est-ce que je peux encore t'aider avant de m'en aller ?}
+{203}{}{Hum, ouais. Je pense qu'on devrait faire la paire, après tout.}
+{204}{}{Euh, non. Merci.}
+{1000}{}{Eau}
+{1001}{}{Guerre}
+{1002}{}{Sables}
 {1003}{}{Dépôtville}
-{1004}{}{Hub}
-{1005}{}{Raiders}
-{1006}{}{Caravans}
-{1007}{}{Chip}
-{1008}{}{Sands}
+{1004}{}{Centre}
+{1005}{}{Pillards|Pillards|Khans|Khan}
+{1006}{}{Caravanes}
+{1007}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
+{1008}{}{Ombragés}
 {1009}{}{Followers}
 {1010}{}{Cathedral}
 {1011}{}{Garl}
-{1012}{}{Master}
-{1013}{}{Unity}
+{1012}{}{Maître}
+{1013}{}{Unité}
 {1014}{}{Set}
 {1015}{}{Watershed}
 {1016}{}{Nécropolis}
 {1017}{}{Hall}
 {1018}{}{Library}
-{1019}{}{Overseer}
-{1020}{}{Medic}
-{1021}{}{Healing}
-{1022}{}{Vault}
-{1023}{}{Vault13}
+{1019}{}{Dirigeant}
+{1020}{}{Médecin}
+{1021}{}{Guérison}
+{1022}{}{Abri}
+{1023}{}{Abris}
 {1024}{}{Vault 13}
 {1025}{}{Killian}
 {1026}{}{Gizmo}
-{1027}{}{Boneyard}
+{1027}{}{Cimetière de L.A.}
 {1028}{}{Casino}
-{1029}{}{Store}
+{1029}{}{Magasin}
 {1030}{}{Deathclaw}
-{1031}{}{Exodus}
-{1032}{}{Initiates}
+{1031}{}{Exode}
+{1032}{}{Initiés|Initié|Inities|Initie}
 {1033}{}{Paladins}
 {1034}{}{Scribes}
-{1035}{}{Children}
-{1036}{}{Brotherhood}
+{1035}{}{Enfants}
+{1036}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
 {1037}{}{Vats}
-{1038}{}{Military}
-{1039}{}{Base}
+{1038}{}{Base}
+{1039}{}{Militaire}
 {1041}{}{Apocalypse}
 {1042}{}{Mutants}
 {1043}{}{Morpheus}
@@ -130,92 +130,92 @@
 {1049}{}{Petrox}
 {1050}{}{Tolya}
 {1051}{}{Booze}
-{1052}{}{Drugs}
+{1052}{}{stimulants}
 {1053}{}{Seth}
 {1054}{}{Aradesh}
 {1055}{}{Razlo}
 {1056}{}{Zimmerman}
-{1057}{}{Regulators}
-{1058}{}{Scavs}
-{1059}{}{Blades}
+{1057}{}{Régulateurs}
+{1058}{}{Fouineurs}
+{1059}{}{Ecorcheurs}
 {1060}{}{Nicole}
 {1061}{}{Lieutenant}
-{1062}{}{Psychics}
-{1063}{}{Experiments}
+{1062}{}{Médiums}
+{1063}{}{Expériences}
 {1064}{}{Police}
-{1065}{}{Merchants}
-{1100}{}{No idea what a Water Chip is. Sorry, friend.}
-{1101}{}{Happened about a hundred years ago. Basically, a bunch of countries got kind of antsy, and everything went BOOM!}
-{1102}{}{A small and peaceful village. Probably the most promising community in the wastes.}
-{1103}{}{A medium-sized town made of junk, overseen by a sheriff named Killian. It's just a few days southwest of Shady Sands.}
-{1104}{}{The Hub is the biggest trading center in the New West. It's run primarily by a group called the Water Merchants, but there are some other traders there, too. It's a booming town, but there's a lot of political fighting between the traders.}
-{1105}{}{There are several different groups of raiders out there. The most organized group is called the Khans; they seem to think they can conquer the world or something.}
-{1106}{}{Most caravans come from the Hub. They travel all over the place. I worked for a group called the Crimson Caravan before my untimely injury.}
-{1107}{}{No idea what a Water Chip is. Sorry, friend.}
-{1108}{}{A small and peaceful village. Probably the most promising community in the wastes.}
-{1109}{}{Sorry, bud. Don't know much about that.}
-{1110}{}{Sorry, bud. Don't know much about that.}
-{1111}{}{Garl's some dumbass who thinks he can take over the world with his crummy raiders. Yeah, whatever.}
-{1112}{}{Sorry, bud. Don't know much about that.}
-{1113}{}{Sorry, bud. Don't know much about that.}
-{1114}{}{Sorry, bud. Don't know much about that.}
-{1115}{}{Sorry, bud. Don't know much about that.}
-{1116}{}{Isn't that the mythical city of the dead?}
-{1117}{}{Sorry, bud. Don't know much about that.}
-{1118}{}{Sorry, bud. Don't know much about that.}
-{1119}{}{Sorry, bud. Don't know much about that.}
-{1120}{}{Razlo's a great doctor. You should go see him if you're hurt.}
-{1121}{}{Razlo does a good job of fixing people up, and his junja juice is well worth it!}
-{1122}{}{Sorry, bud. Don't know much about that.}
-{1123}{}{Sorry, bud. Don't know much about that.}
-{1124}{}{Sorry, bud. Don't know much about that.}
-{1125}{}{Killian's mayor of Junktown. He also runs a store there. He's a decent fellow. Never did any work for him, but he seems okay.}
-{1126}{}{Gizmo runs a casino in Junktown. I hear that it's rigged, though.}
-{1127}{}{Sorry, bud. Don't know much about that.}
-{1128}{}{The casino is Gizmo's big project in Junktown. Brings in a lot of tourists and money, but problems come with it.}
-{1129}{}{Killian runs a good general store in Junktown.}
-{1130}{}{Sorry, bud. Don't know much about that.}
-{1131}{}{Sorry, bud. Don't know much about that.}
-{1132}{}{Sorry, bud. Don't know much about that.}
-{1133}{}{Sorry, bud. Don't know much about that.}
-{1134}{}{Sorry, bud. Don't know much about that.}
-{1135}{}{Yeah, there's some kids in Shady Sands. So? None of 'em are mine.}
-{1136}{}{Sorry, bud. Don't know much about that.}
-{1137}{}{Sorry, bud. Don't know much about that.}
-{1138}{}{Sorry, bud. Don't know much about that.}
-{1139}{}{Sorry, bud. Don't know much about that.}
-{1141}{}{You know, we'll always have war. Just the next one's gonna be fought with sticks.}
-{1142}{}{I saw some weird things when I was guarding caravans for the Hub. Mutated coyotes, mantises, scorpions; that sort of thing.}
-{1143}{}{Sorry, bud. Don't know much about that.}
-{1144}{}{They're a sorry group of raiders who attack Shady Sands and think that they're gonna take over the world or some such crap.}
-{1145}{}{She's Aradesh's daughter. She's pretty sweet, but I've got someone waiting for me back home.}
-{1146}{}{Sorry, bud. Don't know much about that.}
-{1147}{}{Sorry, bud. Don't know much about that.}
-{1148}{}{Sorry, bud. Don't know much about that.}
-{1149}{}{Sorry, bud. Don't know much about that.}
-{1150}{}{Sorry, bud. Don't know much about that.}
-{1151}{}{Got any beer? I could use a drink.}
-{1152}{}{I used some Psycho once on a caravan raid. It made me twitchy. Odd.}
-{1153}{}{Seth is the captain of the guards. Between you and me, he couldn't guard a fruit if it was nailed to his leg.}
-{1154}{}{Aradesh is the leader of Shady Sands. A kind and patient man, although he's kinda looney.}
-{1155}{}{Hey, if you need help, Razlo's the man to see. He's a great doctor.}
-{1156}{}{Sorry, bud. Don't know much about that.}
-{1157}{}{Sorry, bud. Don't know much about that.}
-{1158}{}{Sorry, bud. Don't know much about that.}
-{1159}{}{Sorry, bud. Don't know much about that.}
-{1160}{}{Sorry, bud. Don't know much about that.}
-{1161}{}{Sorry, bud. Don't know much about that.}
-{1162}{}{I dunno. I think there's something to it, yeah, but there's just not enough evidence.}
-{1163}{}{Sorry, bud. Don't know much about that.}
-{1164}{}{Sorry, bud. Don't know much about that.}
-{1165}{}{Some merchants come from the Hub to trade with Junktown. That's all I know.}
-{1999}{}{I've learned some new tricks!}
-{2000}{}{Let's discuss our combat tactics.}
-{2001}{}{Yeah?}
-{2010}{}{Draw your best weapon.}
-{2011}{}{Change your armor.}
-{2012}{}{Prefer ranged combat against close.}
-{2013}{}{Prefer close combat against ranged.}
-{2014}{}{Choose distance on your own.}
-{2015}{}{That's all for now.}
-{2100}{}{Sure thing, bud.}
+{1065}{}{Marchands|Marchand}
+{1100}{}{Je n'ai pas la moindre idée de ce qu'est une puce d'eau. Désolé}
+{1101}{}{C'était il y a presque un siècle. Pour résumer, quelques pays se sont un peu énervés et ça a fait BOUM !}
+{1102}{}{Un petit village tranquille. Certainement la communauté la plus prometteuse du désert.}
+{1103}{}{Une ville de moyenne importance, bâtie sur des détritus et dirigée par un shérif du nom de Killian. Elle est à seulement quelques jours au Sud-Ouest des Sables Ombragés.}
+{1104}{}{Le Centre est la plus grande ville commerçante du Nouvel Ouest. Les Marchands d'Eau la dirige. Il y a aussi d'autres commerçants. C'est une ville en pleine croissance mais en proie à des luttes de pouvoir entre les commerçants.}
+{1105}{}{Il existe différents groupes de pillards là-bas. Le groupe le mieux organisé s'appelle les Khans; ils semblent penser qu'ils sont en mesure de dominer le monde.}
+{1106}{}{La plupart des caravanes viennent du Centre. Elles circulent un peu partout. Il m'est arrivé de travailler pour un groupe appelé la Caravane Ecarlate avant ma dernière blessure.}
+{1107}{}{Je n'ai pas la moindre idée de ce qu'est une puce d'eau. Désolé}
+{1108}{}{Un petit village tranquille. Certainement la communauté la plus prometteuse du désert.}
+{1109}{}{Désolé, je n'en sais pas plus que toi.}
+{1110}{}{Désolé, je n'en sais pas plus que toi.}
+{1111}{}{Garl est un véritable abruti qui pense pouvoir conquérir le monde avec son armada de pillards. Ouais, rien que ça !}
+{1112}{}{Désolé, je n'en sais pas plus que toi.}
+{1113}{}{Désolé, je n'en sais pas plus que toi.}
+{1114}{}{Désolé, je n'en sais pas plus que toi.}
+{1115}{}{Désolé, je n'en sais pas plus que toi.}
+{1116}{}{N'est-ce pas la ville mythique des morts ?}
+{1117}{}{Désolé, je n'en sais pas plus que toi.}
+{1118}{}{Désolé, je n'en sais pas plus que toi.}
+{1119}{}{Désolé, je n'en sais pas plus que toi.}
+{1120}{}{Razlo est un bon docteur. Tu devrais aller le voir si tu as des blessures.}
+{1121}{}{Razlo fait du bon boulot en soignant les gens et sa gnôle est pas mal non plus !}
+{1122}{}{Désolé, je n'en sais pas plus que toi.}
+{1123}{}{Désolé, je n'en sais pas plus que toi.}
+{1124}{}{Désolé, je n'en sais pas plus que toi.}
+{1125}{}{Killian est le maire de Dépôtville. Il a aussi un magasin. C'est un type bien. Je n'ai jamais travaillé pour lui mais il semble réglo.}
+{1126}{}{Gizmo dirige un casino à Dépôtville. On dit que tous les jeux sont truqués.}
+{1127}{}{Désolé, je n'en sais pas plus que toi.}
+{1128}{}{Le casino, c'est le gros coup de Gizmo. Ca attire des tonnes de touristes et d'argent mais aussi les nuisances qui vont avec.}
+{1129}{}{Killian dirige un très bon magasin à Dépôtville.}
+{1130}{}{Désolé, je n'en sais pas plus que toi.}
+{1131}{}{Désolé, je n'en sais pas plus que toi.}
+{1132}{}{Désolé, je n'en sais pas plus que toi.}
+{1133}{}{Désolé, je n'en sais pas plus que toi.}
+{1134}{}{Désolé, je n'en sais pas plus que toi.}
+{1135}{}{Ouais, il y a quelques gamins aux Sables Ombragés. Et alors ? Ils ne sont pas à moi.}
+{1136}{}{Désolé, je n'en sais pas plus que toi.}
+{1137}{}{Désolé, je n'en sais pas plus que toi.}
+{1138}{}{Désolé, je n'en sais pas plus que toi.}
+{1139}{}{Désolé, je n'en sais pas plus que toi.}
+{1141}{}{Tu sais, on aura toujours des guerres. La prochaine, on la fera avec des bâtons.}
+{1142}{}{J'ai vu des choses bizarres quand je gardais les caravanes pour le Centre. Des coyotes, des mantes, des scorpions mutants... Ce genre de choses.}
+{1143}{}{Désolé, je n'en sais pas plus que toi.}
+{1144}{}{C'est un groupe qui attaque les Sables Ombragés et qui pense pouvoir dominer le monde.}
+{1145}{}{C'est la fille d'Aradesh. Elle est plutôt mignonne mais j'ai déjà quelqu'un qui m'attend à la maison.}
+{1146}{}{Désolé, je n'en sais pas plus que toi.}
+{1147}{}{Désolé, je n'en sais pas plus que toi.}
+{1148}{}{Désolé, je n'en sais pas plus que toi.}
+{1149}{}{Désolé, je n'en sais pas plus que toi.}
+{1150}{}{Désolé, je n'en sais pas plus que toi.}
+{1151}{}{T'as pas une bière ?}
+{1152}{}{Une fois, j'ai pris du Psycho lors de l'attaque d'une caravane. Je me suis senti tout drôle.}
+{1153}{}{Seth est le capitaine des gardes. Entre nous, c'est vraiment une bille.}
+{1154}{}{Aradesh est le chef des Sables Ombragés. Un homme charmant et plein de patience même s'il est un peu cinglé.}
+{1155}{}{Hé, en cas de besoin, c'est Razlo qu'il faut aller voir. C'est un super docteur.}
+{1156}{}{Désolé, je n'en sais pas plus que toi.}
+{1157}{}{Désolé, je n'en sais pas plus que toi.}
+{1158}{}{Désolé, je n'en sais pas plus que toi.}
+{1159}{}{Désolé, je n'en sais pas plus que toi.}
+{1160}{}{Désolé, je n'en sais pas plus que toi.}
+{1161}{}{Désolé, je n'en sais pas plus que toi.}
+{1162}{}{J'sais pas. Je pense qu'il y a un truc qui tourne pas rond, mais je n'ai aucune preuve.}
+{1163}{}{Désolé, je n'en sais pas plus que toi.}
+{1164}{}{Désolé, je n'en sais pas plus que toi.}
+{1165}{}{Certains marchands du Centre viennent à Dépôtville pour faire des affaires. C'est tout ce que je sais.}
+{1999}{}{J'ai appris de nouveaux trucs.}
+{2000}{}{Discutons de notre tactique de combat.}
+{2001}{}{Ouais ?}
+{2010}{}{Utilise ta meilleure arme.}
+{2011}{}{Change ton armure.}
+{2012}{}{Préfère le combat à distance plutôt que rapproché.}
+{2013}{}{Préfère le combat rapproché plutôt qu'à distance.}
+{2014}{}{Choisis la distance qui t'arrange.}
+{2015}{}{C'est tout pour l'instant.}
+{2100}{}{C'est ça, mon pote.}

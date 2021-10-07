@@ -1,1 +1,1 @@
-{100}{}{You eat the fruit.}
+{100}{}{Tu manges le fruit.}

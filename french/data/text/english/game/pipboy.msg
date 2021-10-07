@@ -148,7 +148,7 @@
 {767}{}{}
 {768}{}{}
 {769}{}{}
-{770}{}{Brotherhood of Steel}
+{770}{}{Confrérie de l'Acier}
 {771}{}{Devenir un Initié.}
 {772}{}{Sauver l'Initié du Centre.}
 {773}{}{}

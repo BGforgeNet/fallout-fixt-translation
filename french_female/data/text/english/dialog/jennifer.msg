@@ -1,142 +1,142 @@
-{100}{}{You see: Jennifer.}
-{101}{}{You see a Paladin.}
-{102}{}{Excuse me, Brother. You should put away your weapon whenever you are in the Brotherhood. We are a friendly order, but as you know, times are rough.}
-{103}{}{Some members of the Brotherhood might be offended if a stranger... I mean, a new Initiate... approaches them with a weapon.}
-{104}{}{Good day, Initiate. How may I help you?}
-{105}{}{Hello, Sister, it's good to see there are women of rank in this organization. I didn't know what to expect with a name like the Brotherhood.}
-{106}{}{Hey there, legs. You are looking mighty fine. What time should I pick you up?}
-{107}{}{Oooooga!}
-{108}{}{Could you tell me where I might find our High Elder?}
-{109}{}{Who's in charge of this hole?}
-{110}{}{Where's this High Elder guy?}
-{111}{}{Gruk!}
-{112}{}{Maxson, the High Elder, can be found on the Fourth Floor. If you take the other elevator down to level four, he should be either in the Council Room or the Elders' rooms.}
-{113}{}{You can ask one of the guards on that level; they should know where he is at the moment.}
-{114}{}{Thank you.}
-{115}{}{Where can I get some better weapons?}
-{116}{}{You should talk to Talus. He might be able to help you, or at least tell you who to talk to.}
-{117}{}{During the day, Talus is normally supervising in the training hall. Do you know where that is?}
-{118}{}{Yes, I do. Thank you.}
-{119}{}{No.}
-{120}{}{Of course I do!}
-{121}{}{The training hall is right around the corner. Just go down this corridor, make a left, go through the door at the end of the corridor and it will be through the door on your right.}
-{122}{}{You have been extremely helpful. Thank you very much. I hope we can talk again soon. Good day.}
-{123}{}{Training hall? Do you think I could get some training there? I am a member of the Brotherhood now, right?}
-{124}{}{Thank you for your help, Sister. It's good to see there are women of rank in this organization. I didn't know what to expect with a name like the Brotherhood.}
-{125}{}{Thanks, Sugar. You know, you're looking mighty fine. What do you say you and me check out each other's 'equipment' later? What time do you get off?}
-{126}{}{Oh, that place. Okay, bye.}
-{127}{}{Excuse me? Is there something wrong?}
-{128}{}{Muk lug?}
-{129}{}{I'm sorry, I don't think I can help you. You should go see the doctor. She's on the second level.}
-{130}{}{Of course there are. Two of our five Elders are women, our Head Scribe is a woman, and we have many other women in all the different ranks.}
-{131}{}{The women of the Brotherhood are also called Brothers. We don't call the women Sisters. This is the Brotherhood of Steel, after all, not the Brother and Sisterhood of Steel.}
-{132}{}{Don't you find it peculiar that it is called the Brotherhood, implying that its members consist solely of men?}
-{133}{}{But why is it called the Brotherhood, then?}
-{134}{}{Well, it just seemed strange.}
-{135}{}{I do not know. That has been our name all of my life. I'm sure there is a reason for it.}
-{136}{}{I guess you're right.}
-{137}{}{Well, it still seems a little strange to me.}
-{138}{}{That is strange. I've never really put much thought into it. We've been the Brotherhood of Steel all of my life. Our ancestors must have had a reason for naming it so.}
-{139}{}{But that doesn't mean things can't change.}
-{140}{}{Yeah, you're probably right.}
-{141}{}{So, is there anything else I can help you with?}
-{142}{}{Yes, where can I find the High Elder?}
-{143}{}{Where can I get better weapons?}
-{144}{}{No, that's it. Bye.}
-{145}{}{No, we're very strict when it comes to tradition. I don't think it could ever be changed. It doesn't bother me at all to be addressed as a Brother. That is curious, though.}
-{146}{}{I think I'll have a talk with Vree. She might be able to give some insight as to why our ancestors decided to call us the Brotherhood of Steel.}
-{147}{}{Who's Vree? One of the Elders?}
-{148}{}{Vree's the Head Scribe. She is the one you should talk to if you have any technical questions, but don't disturb her during her meditations at night.}
-{149}{}{She almost always stays in her room, which is also occupied by the mainframe on the third floor.}
-{150}{}{Hole? How dare you talk like that about the Brotherhood. You are a member of our order now, and should be proud to be a member of the Brotherhood of Steel.}
-{151}{}{Proud? Why? You're all just a bunch of robotic hop-heads, hiding from the real world. There's nothing to be proud of there.}
-{152}{}{I'm sorry. I get a little carried away with myself sometimes.}
-{153}{}{Yeah, right.}
-{154}{}{Well, I guess we all do sometimes.}
-{155}{}{So who is in charge of this place?}
-{156}{}{Yeah. Well, I've got to go.}
-{157}{}{Maxson, the High Elder. He's on the fourth floor.}
+{100}{}{Voici Jennifer.}
+{101}{}{Voici un garde Paladin.}
+{102}{}{Excuse-moi, Frère. Tu dois ranger tes armes quand tu es à l'intérieur de la Confrérie. Nous sommes un ordre amical, mais comme tu le sais, les temps sont difficiles.}
+{103}{}{Certains membres de la Confrérie se sentiraient offensés si un étranger... je veux dire, un nouvel initié... s'approchait d'eux avec une arme.}
+{104}{}{Bonjour, initié. Puis-je t'être utile ?}
+{105}{}{Bonjour, Soeur. C'est bon de voir que cette organisation compte des femmes dans ses rangs. Je ne savais pas à quoi m'attendre avec un nom tel que la Confrérie.}
+{106}{}{Ouah, ces jambes ! A quelle heure je passe te prendre ?}
+{107}{}{Oooooga !}
+{108}{}{Peux-tu me dire où trouver notre Ainé ?}
+{109}{}{Qui est le responsable de ce trou ?}
+{110}{}{Où il est cet Ainé ?}
+{111}{}{Gr !}
+{112}{}{Maxson, l'Ainé, est visible au Quatrième Etage. Si tu prends l'ascenseur, tu pourras le trouver soit dans la Salle du Conseil soit dans les Chambres des Ainés.}
+{113}{}{Demande à l'un des gardes ; ils devraient savoir où il se trouve en ce moment.}
+{114}{}{Merci.}
+{115}{}{Où pourrais-je trouver de meilleures armes ?}
+{116}{}{Tu devrais voir Talus. Je pense qu'il pourra t'aider ou au moins te dire à qui t'adresser.}
+{117}{}{Pendant la journée, Talus surveille d'ordinaire la salle d'entraînement. Est-ce que tu sais où ça se trouve ?}
+{118}{}{Oui. Merci.}
+{119}{}{Non.}
+{120}{}{Bien sûr que oui !}
+{121}{}{La salle d'entraînement se trouve juste à l'angle. Longe ce couloir, tourne à gauche et passe la porte qui se trouve au bout sur ta droite.}
+{122}{}{Ton aide m'a été infiniment précieuse. Merci beaucoup. J'espère te revoir bientôt. Bonne journée.}
+{123}{}{La salle d'entraînement ? Est-ce que tu crois que je pourrais m'y entraîner moi-même ? Je suis membre de la Confrérie désormais, n'est-ce pas ?}
+{124}{}{Merci de ton aide, Soeur. C'est bon de voir que cette organisation compte des femmes dans ses rangs. Je ne savais pas à quoi m'attendre avec un nom tel que la Confrérie.}
+{125}{}{Merci, mon sucre. Tu es splendide. Qu'est-ce que tu dirais d'une petite 'inspection' mutuelle plus tard. A quelle heure tu termines ?}
+{126}{}{Ah, là-bas. D'accord, merci.}
+{127}{}{Excuse-moi ? Il y a quelque chose qui ne va pas ?}
+{128}{}{Euh...}
+{129}{}{Excuse-moi. Je ne pense pas pouvoir t'aider. Tu devrais voir le docteur. Elle est au second.}
+{130}{}{Evidemment qu'il y a des femmes. Deux des Aînés sont des femmes, notre grand scribe est une femme et il y a des femmes qui occupent diverses fonctions.}
+{131}{}{Les femmes de la Confrérie sont également appelées 'Frères'. On ne les appelle pas Soeurs. Après tout, c'est la Confrérie de l'Acier et pas la Con-frère&soeur-ie de l'Acier.}
+{132}{}{Tu ne trouves pas ça bizarre que ça s'appelle la Confrérie, sous entendant qu'il n'y a que des hommes ?}
+{133}{}{Mais pourquoi ça s'appelle la Confrérie, alors ?}
+{134}{}{Eh ben, ça paraissait étrange. Voilà tout.}
+{135}{}{Je ne sais pas. Ca s'est toujours appelé comme ça. Il doit bien y avoir une raison.}
+{136}{}{Tu as sans doute raison.}
+{137}{}{Eh bien, moi je trouve ça étrange.}
+{138}{}{C'est étrange. Je n'y avais jamais réfléchi. Toute ma vie, on a appelé ça la Confrérie. Nos ancêtres devaient certainement avoir une raison pour l'appeler ainsi.}
+{139}{}{Mais rien ne dit que les choses ne changeront jamais.}
+{140}{}{Ouais, t'as sans doute raison.}
+{141}{}{Alors, est-ce que tu as encore besoin de moi ?}
+{142}{}{Oui. Où puis-je trouver l'Aîné ?}
+{143}{}{Où puis-je trouver de meilleures armes ?}
+{144}{}{Non, c'est tout. Salut.}
+{145}{}{Non. Nous sommes très stricts en matière de traditions. Je ne pense pas que ça puisse changer un jour. Moi, ça ne m'embête pas du tout qu'on m'appelle Frère. Même si ça sonne bizarre.}
+{146}{}{Je pense qu'il faut que j'en touche deux mots à Vree. Peut-être qu'elle pourra me dire pourquoi nos ancêtres ont décidé de s'appeler ainsi.}
+{147}{}{Qui c'est Vree ? L'un des Aînés ?}
+{148}{}{Vree est le Grand Scribe. C'est à elle que tu devrais t'adresser si tu as des questions d'ordre technique mais ne la dérange pas au cours de ses méditations nocturnes.}
+{149}{}{Elle passe le plus clair de son temps dans sa chambre, là où se trouve également l'ordinateur central, au troisième.}
+{150}{}{Ce trou ? Comment oses-tu parler ainsi de la Confrérie ! Tu es désormais membre de notre ordre et c'est un immense honneur que d'appartenir à la Confrérie de l'Acier.}
+{151}{}{Un honneur ? N'importe quoi ! Vous n'êtes qu'une bande de robots débiles qui se cachent du monde réel. Je ne comprends pas ta fierté.}
+{152}{}{Excuse. Je me laisse emporter parfois.}
+{153}{}{Ouais, c'est vrai.}
+{154}{}{Ca arrive à tout le monde.}
+{155}{}{Alors, qui est le responsable ici ?}
+{156}{}{Ouais. Bon, il y faut que j'y aille.}
+{157}{}{Maxson, l'Aîné. Il est au quatrième.}
 {158}{}{}
 {159}{}{}
 {160}{}{}
 {161}{}{}
 {162}{}{}
-{163}{}{Well, you are cute... but I don't think so. I don't think it would be a good idea to get involved with an outsider, anyway. You are cute, though, and somewhat attractive. }
-{164}{}{I don't know if it's because you're an outsider or because of your extreme... lack of tact? So, 'honey', is there anything else I can do for you?}
-{165}{}{Yeah, uh, I guess. Uh, who's in charge around here?}
-{166}{}{Uh, okay... um. How about some weapons then? Where can I get my hands on some of those?}
-{167}{}{Hmmph!}
-{168}{}{No.}
-{169}{}{That's... pretty funny. You are joking, I hope? Actually... don't answer that. I don't think I want to know.}
-{170}{}{Yeah, REAL funny. Almost as much as your face!}
-{171}{}{Thanks a lot. That's exactly what I needed to hear right now.}
-{172}{}{I'm out of here.}
-{173}{}{I'm sorry. It's just that you outsiders have such a strange way of talking to people sometimes. Is there anything I can help you with?}
-{174}{}{Well, I guess I should talk to this High Elder person. Where is he at?}
-{175}{}{I would like to get some better weapons. Who do I talk to about that?}
-{176}{}{No.}
-{177}{}{Are you for real? I haven't heard such a pitiful line in all my life!}
-{178}{}{Yeah? Well, I don't get out much. Okay?}
-{179}{}{Get out of my face, you walking garbage can!}
-{180}{}{Pfft!}
-{181}{}{Well, yes, you are a member of the Brotherhood, but the Elders have put a hold on all training of new Initiates.}
-{182}{}{Why?}
-{183}{}{Oh, that's just GREAT! Why the hell did I join this stupid group? Where's the door?!}
-{184}{}{There are rumors about some kind of army. I think the Elders want to concentrate their resources on the ones that are already far enough along in their training to make a difference if we do have a big battle on our hands.}
-{185}{}{We strongly believe that training a few fighters extremely well is better than giving mediocre training to a bunch of fighters. Saving lives is one of our primary objectives.}
-{186}{}{You could probably get quite a bit out of the training just by watching. Brother Thomas is the best trainer we have ever had at the Brotherhood.}
-{187}{}{Well, I'm to be working on the outside of the Brotherhood, right? It's a very hostile world out there and I'll be putting my life on the line every minute I'm out there. Don't you think I should be given training if I want or need it, or do you only 'say' it is your primary objective to 'save' lives?}
-{188}{}{Thank you for the suggestion, I'll take a look.}
-{189}{}{You're all a bunch of fools.}
-{190}{}{Can you tell me where Maxson is?}
-{191}{}{Well, I'm only repeating what I was told. If you talk to Thomas or Talus they might be able to make an exception.}
-{192}{}{Okay, thanks.}
-{193}{}{They'd better. I've jumped through enough hoops for you guys.}
-{194}{}{So, can you tell me where Maxson is?}
-{195}{}{Oh, my darling. When are we going to marry?}
-{196}{}{You're looking so handsome, as always.}
-{197}{}{Give me a kiss.}
-{198}{}{I've missed you so much.}
-{199}{}{I'll wait up for you.}
-{200}{}{I've been thinking about you all day.}
-{201}{}{You're so cute when you look at me like that.}
-{202}{}{Don't scare me like that. I thought I'd never see you again.}
-{203}{}{You didn't come by last night.}
-{204}{}{How long has it been since I've last seen you? It seems like an eternity.}
-{205}{}{I've missed you ever so much.}
-{206}{}{Come to bed, honey.}
-{207}{}{We can get married in the morning.}
-{208}{}{I think we should have about five kids.}
-{209}{}{Where do you want to go for our honeymoon? I hear the Children of the Cathedral have a beautiful place.}
-{210}{}{My parents are still waiting to meet you.}
-{211}{}{Why hello again. I hope things are well with you. I hope you've talked to Vree.}
-{212}{}{Hello, Brother }
+{163}{}{T'es mignon... Mais je ne pense pas que ça soit une bonne idée de fréquenter un étranger. Dommage, tu me plaisais vraiment...}
+{164}{}{Je ne sais pas si c'est parce que tu es pas d'ici ou si c'est à cause de ton manque total de tact. Alors, 'poussin', tu désires autre chose ?}
+{165}{}{Ouais, euh, j'imagine. Euh, qui est le responsable ici ?}
+{166}{}{Euh, oui... hum. Qu'en est-il des armes sinon ? comment pourrais-je mettre la main sur certaines d'entre elles ?}
+{167}{}{Hmmff !}
+{168}{}{Non.}
+{169}{}{C'est... très drôle. Tu plaisantes, j'espère ! En fait... Ne réponds pas. Je n'ai pas envie de savoir.}
+{170}{}{Ouais. TRES drôle. Presque aussi drôle que ta tête !}
+{171}{}{Merci beaucoup. C'est exactement ce que j'avais envie d'entendre.}
+{172}{}{Je m'en vais.}
+{173}{}{Excuse. Mais vous autres, les étrangers, vous avez une telle façon de parler aux gens. Est-ce que je peux t'aider ?}
+{174}{}{Eh bien, je crois que je devrais parler à cette personne qu'on appelle l'Aîné. Où est-elle ?}
+{175}{}{J'aimerais trouver de meilleures armes. Qui faut-il que je vois pour ça ?}
+{176}{}{Non.}
+{177}{}{Tu plaisantes ? Je n'ai jamais entendu une telle bêtise de ma vie !}
+{178}{}{Ouais ? Je ne sors pas souvent. T'as compris ?}
+{179}{}{Hors de ma vue, espèce de poubelle ambulante !}
+{180}{}{Pfft !}
+{181}{}{Eh bien, oui, tu es membre de la Confrérie mais les Aînés ont suspendu l'entraînement des nouveaux Initiés.}
+{182}{}{Pourquoi ?}
+{183}{}{Oh, c'est GENIAL ! Qu'est-ce qui m'a pris de rejoindre ce groupe stupide ? Où est la porte ?!}
+{184}{}{Il y a des rumeurs qui circulent sur une certaine armée. Je pense que les Anciens veulent concentrer leur moyens sur ceux qui sont suffisamment entraînés pour faire la différence en cas d'une grande bataille.}
+{185}{}{Nous pensons fermement qu'il est préférable d'entraîner un groupe restreint au plus haut niveau plutôt que de dispenser un entraînement médiocre à toute une série de combattants. Ce que nous cherchons avant tout, c'est de sauver le maximum de vies.}
+{186}{}{Tu pourrais certainement en apprendre pas mal rien qu'en regardant. Frère Thomas est le meilleur entraîneur que l'on n'ait jamais eu à la Confrérie.}
+{187}{}{Alors, on me demande de travailler à l'extérieur de la Confrérie, c'est ça ? C'est un monde hostile où je risque ma vie à chaque instant. Ne penses-tu pas que je mérite d'avoir l'entraînement nécessaire ou bien est-ce que ce n'est qu'une façon de parler pour toi quand tu dis 'sauver le maximum de vies' ?}
+{188}{}{Merci du conseil. Je le ferai.}
+{189}{}{Vous n'êtes qu'une bande de fous.}
+{190}{}{Peux-tu me dire où se trouve Maxson ?}
+{191}{}{Je ne fais que répéter ce qu'on m'a dit. Si tu parles à Thomas ou à Talus, ils pourront peut-être faire une exception.}
+{192}{}{Ok, merci.}
+{193}{}{Ils feraient mieux. Vous m'avez suffisamment mis sur la sellette.}
+{194}{}{Alors, peux-tu me dire où trouver Maxson ?}
+{195}{}{Oh, mon amour. Quand est-ce qu'on se marie ?}
+{196}{}{Tu es magnifique, comme toujours.}
+{197}{}{Embrasse-moi.}
+{198}{}{Tu m'as tellement manqué.}
+{199}{}{C'est quand tu veux.}
+{200}{}{Je n'ai pas arrêté de penser à toi aujourd'hui.}
+{201}{}{J'aime tellement la manière que tu as de me regarder.}
+{202}{}{Ne me fais pas peur comme ça, j'ai cru que je ne te reverrai jamais !}
+{203}{}{Même pas une petite visite la nuit dernière !}
+{204}{}{Ca m'a paru une éternité depuis la dernière fois.}
+{205}{}{Tu m'as tellement manqué.}
+{206}{}{Viens te coucher, trésor.}
+{207}{}{On peut se marier dans la matinée.}
+{208}{}{Que dirais-tu d'avoir cinq marmots ensemble ?}
+{209}{}{Où aimerais-tu aller pour notre lune de miel ? On m'a dit beaucoup de bien des Enfants de la Cathédrale.}
+{210}{}{Mes parents aimeraient tellement te rencontrer.}
+{211}{}{Te revoilà ! J'espère que tout va bien pour toi. J'espère que tu as parlé à Vree.}
+{212}{}{Bonjour, Frère }
 {213}{}{.}
-{214}{}{Be careful if you go to the north. Our scouts never returned.}
-{215}{}{Brother }
-{216}{}{, it's good to see you again.}
-{217}{}{Have you talked to Rhombus? He's the Head Knight. He's just right over there in that room.}
-{218}{}{I don't have time to talk. I'm busy.}
-{219}{}{Sorry, I'm not in the mood to talk to rude people.}
-{220}{}{Don't bother me.}
-{221}{}{What? Can't you go bother someone else?}
-{222}{}{Go away.}
-{223}{}{I don't want to talk to you.}
-{224}{}{Initiate, get back to your studies.}
-{225}{}{No time to talk, Initiate.}
-{226}{}{Come over here, you hunk!}
-{227}{}{Darling, over here!}
-{228}{}{ I've missed you.}
-{229}{}{I've got the nursery ready, darling.}
-{230}{}{Hi, honey.}
-{231}{}{I see you.}
-{232}{}{You've got to meet my parents.}
-{233}{}{Yoo hoo!}
-{234}{}{Come here, my little snookums.}
-{235}{}{Are you teasing me?}
-{236}{}{You're playing hard to get, aren't you?}
-{237}{}{Over here, sweaty!}
-{238}{}{Hi honey!}
-{239}{}{There you are. I was starting to worry.}
-{240}{}{Come here and give me a kiss, handsome.}
-{241}{}{Come on in, darling.}
+{214}{}{Fais attention si tu vas dans le Nord. Nos éclaireurs n'en sont jamais revenus.}
+{215}{}{Frère }
+{216}{}{, c'est bon de te revoir.}
+{217}{}{As-tu parlé à Rhombus ? C'est le Grand Chevalier. Il est dans la pièce en face.}
+{218}{}{Je n'ai pas le temps de discuter. J'ai à faire.}
+{219}{}{Excuse, mais je ne suis pas d'humeur à parler aux malotrus.}
+{220}{}{Ne me dérange pas.}
+{221}{}{Quoi ? Tu veux pas aller voir ailleurs si j'y suis ?}
+{222}{}{Va t'en !}
+{223}{}{Je n'ai pas envie de te parler.}
+{224}{}{Initié, va faire tes devoirs.}
+{225}{}{Pas le temps de discuter, Initié.}
+{226}{}{Viens par là, bel étalon !}
+{227}{}{Chéri, par ici !}
+{228}{}{Tu m'as manqué.}
+{229}{}{J'ai préparé la chambre des enfants, trésor.}
+{230}{}{Salut, beauté.}
+{231}{}{Je te vois.}
+{232}{}{Il faut que je te présente à mes parents.}
+{233}{}{Hou hou !}
+{234}{}{Viens ici, mon loukhoum.}
+{235}{}{Tu me taquines ?}
+{236}{}{Tu te fais désirer, ou quoi ?}
+{237}{}{Par ici, mon sucre d'orge !}
+{238}{}{Bonjour mon trésor !}
+{239}{}{Ah, te voilà. Je commençais à m'inquiéter.}
+{240}{}{Viens m'embrasser, mon poussin.}
+{241}{}{Entre donc, mon chou.}

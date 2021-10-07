@@ -1,2 +1,2 @@
-{100}{}{You notice some oddly-shaped fruit inside the jar.}
-{101}{}{You take the odd fruit from the jar.}
+{100}{}{Tu remarques des fruits de forme bizarre dans le bocal.}
+{101}{}{Tu sors les fruits bizarres du bocal.}

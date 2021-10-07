@@ -1,108 +1,108 @@
-{100}{}{You see the Vats Control computer.}
-{101}{}{Access denied.}
-{102}{}{(The machine whirrs and clicks, followed by a loud "beep!")  Access granted.}
-{103}{}{Display security codes.}
-{104}{}{Search logs.}
-{105}{}{Uplink to medical computers.}
-{106}{}{Set base to alert status.}
-{107}{}{17652-1028-1285362.}
-{108}{}{67209-5574-7805564.}
-{109}{}{55658-8678-1251533.}
-{110}{}{31914-1041-1251514.}
-{111}{}{53478-2565-7763929.}
-{112}{}{44309-3674-1254730.}
-{113}{}{Display security code encryption table. [Attempt to hack through the firewall to get more data]}
-{114}{}{\> Executing 17652-1028-1285362 ...}
-{115}{}{\> Executing 67209-5574-7805564 ...}
-{116}{}{\> Executing 55658-8678-1251533 ...}
-{117}{}{\> Executing 31914-1041-1251514 ...}
-{118}{}{\> Executing 53478-2565-7763929 ...}
-{119}{}{\> Executing 44309-3674-1254730 ...}
-{120}{}{(You have successfully hacked into the encryption table!)       > Clearance authorized. Command?}
-{121}{}{[17652-1028-1285362]    Silent self-destruct in 1 minute.}
-{122}{}{[67209-5574-7805564]  Self-destruct in 30 seconds.}
-{123}{}{[55658-8678-1251533]   Set base to alert status.}
-{124}{}{[31914-1041-1251514]      Silent self-destruct in 3 minutes.}
-{125}{}{[53478-2565-7763929]   Self-destruct in 3 minutes.}
-{126}{}{[44309-3674-1254730]    Immediate self-destruct sequence.}
-{127}{}{Invalid command. Ending input session.}
-{128}{}{Specify log you would like to review.}
+{100}{}{Voici l'Ordinateur de Contrôle des Cuves.}
+{101}{}{Accès refusé.}
+{102}{}{[la machine fait de drôles de bruits, suivit par un fort "bip !"] Accès accordé.}
+{103}{}{Afficher les codes de sécurité.}
+{104}{}{Recherche des journaux.}
+{105}{}{Connexion aux ordinateurs médicaux.}
+{106}{}{Configuration de la base en mode alerte.}
+{107}{}{1028-1285362}
+{108}{}{5574-7805564}
+{109}{}{8678-1251533}
+{110}{}{1041-1251514}
+{111}{}{2565-7763929}
+{112}{}{3674-1254730}
+{113}{}{[Tentative d'accès à plus de données] Affichage du tableau des codes de sécurité.}
+{114}{}{Exécution de 1028-1285362}
+{115}{}{Exécution de 5574-7805564}
+{116}{}{Exécution de 8678-1251533}
+{117}{}{Exécution de 1041-1251514}
+{118}{}{Exécution de 2565-7763929}
+{119}{}{Exécution de 3674-1254730}
+{120}{}{[Tu as réussi à accéder au tableau des codes.]   > Commande ?}
+{121}{}{1028-1285362 Auto-destruction silencieuse : 1 min.}
+{122}{}{5574-7805564 Auto-destruction: 30 sec.}
+{123}{}{8678-1251533 Configuration de la base en mode alerte}
+{124}{}{1041-1251514 Auto-destruction silencieuse : 3 min.}
+{125}{}{2565-7763929 Auto-destruction: 3 min.}
+{126}{}{3674-1254730 Auto-destruction immédiate.}
+{127}{}{Commande non valide. Fin de la session.}
+{128}{}{Indique le journal à consulter.}
 {129}{}{Grey}
 {130}{}{Boyarsky}
 {131}{}{Maxson}
 {132}{}{Anderson}
-{133}{}{Download log of Richard Grey?}
-{134}{}{Yes.}
-{135}{}{No. [Return to previous menu]}
-{136}{}{Download log of Capt. Maxson?}
-{137}{}{Yes.}
-{138}{}{[Return to main menu]}
-{139}{}{ERROR: Unexpected end of line. Bad data encountered.}
-{140}{}{> Command?}
-{141}{}{Uplink successful. What is your command?}
-{142}{}{What is the current status of the patients?}
-{143}{}{Current status on patients as follows: FEV batch #23872-A consists of four male units and two female units. All individuals suffering from FEV exposure. Vital signs are within normal parameters. FEV process on all subjects is approximately 50% complete. Expect full FEV transformation within 12 hours.}
-{144}{}{I think something is happening to one of the patients. Is there anything I can do?}
-{145}{}{Patient suffering arrhythmia. Display patient status logs.}
-{146}{}{Available options are:}
-{147}{}{Status report on individual patients.}
-{148}{}{Shut down life support systems.}
-{149}{}{Increase dosage of original DNA strands of subjects to 100%.}
-{150}{}{[Log off]}
-{151}{}{Please enter authorization code.}
-{152}{}{Authorization 3578X287A.}
+{133}{}{Chargement du journal de Richard Grey ?}
+{134}{}{Oui.}
+{135}{}{[retour au menu principal] Non.}
+{136}{}{Chargement du journal du Capitaine Maxson ?}
+{137}{}{Oui.}
+{138}{}{[retour au menu principal] Non.}
+{139}{}{Fin de ligne imprévue. Données incorrectes trouvées.}
+{140}{}{Commande ?}
+{141}{}{Connexion réussie. Quelle est votre commande ?}
+{142}{}{Quel est l'état actuel des patients ?}
+{143}{}{L'état actuel des patients est le suivant : le lot de test du FEV n°23872-A comprend quatre unités mâles et deux unités femelles. Tous les individus souffrent d'exposition au FEV. Les paramètres vitaux entrent dans les paramètres normaux. Le processus d'infection au FEV est avancé à environ 50% sur tous les sujets. Transformation FEV attendue dans les 12 heures.}
+{144}{}{Je crois qu'il arrive quelque chose à l'un des patients. Puis-je faire quelque chose ?}
+{145}{}{Patient souffrant d'arythmie. Affichage des journaux de l'état du patient.}
+{146}{}{Options disponibles :}
+{147}{}{Rapport sur l'état individuel des patients.}
+{148}{}{Couper les systèmes d'assistance vitaux.}
+{149}{}{Augmenter la dose des fragments d'ADN d'origine des sujets à 100%.}
+{150}{}{Sortir.}
+{151}{}{Code d'accès requis.}
+{152}{}{Autorisation 3578X287A.}
 {153}{}{Z876342BCD}
 {154}{}{Alpha Delta 287 Foxtrot}
-{155}{}{[Attempt to hack the computer]}
-{156}{}{Invalid authorization code. Command?}
-{157}{}{Authorization code accepted. Please stand by. Accessing data. Ready to process request.}
-{158}{}{Terminate life support systems on FEV batch #23872-A.}
-{159}{}{Increase original DNA strand dosage to 100% on all subjects.}
-{160}{}{Access granted. Which patient file would you like to examine?}
-{161}{}{Patient file #23869.}
-{162}{}{Patient file #23870.}
-{163}{}{Patient file #23871.}
-{164}{}{Patient file #23872.}
-{165}{}{Patient file #23869. Subject: Male. Age 25. Radiation count: 40. FEV exposure: 50%. Original DNA strands remaining: 50%. Vital signs are high but within normal parameters.}
-{166}{}{I would like to examine another patient file.}
-{167}{}{Patient file #23870. Subject: Male. Age 23. Radiation count: 15. FEV exposure: 60%. Original DNA strands remaining: 40%. Vital signs are within normal parameters.}
-{168}{}{Patient file #23781. Subject: Female. Age 20. Radiation count: 10. FEV exposure: 55%. Original DNA strands remaining: 45%. Vital signs are within normal parameters.}
-{169}{}{Patient file #23782. Subject: Male. Age 26. Radiation count: 35. FEV exposure: 60%. Original DNA strands remaining: 40%. Vital signs are above normal but within acceptable parameters.}
-{170}{}{Are you sure you wish to terminate the life support systems on FEV batch #23872-A?}
-{171}{}{FEV batch #23872-A terminated. Command?}
-{172}{}{Yes.}
-{173}{}{No.}
-{174}{}{Are you sure you wish to increase the dosage? Auto-correction will be disabled if you do this.}
-{175}{}{Increasing dosage of original DNA to 100%. WARNING: Auto-correction has been disabled.}
-{176}{}{You manage to get an interface screen out of the Vats Control computer.}
-{177}{}{You try to use the computer, but are unable to get any useful information out of it.}
-{178}{}{You try to use the computer, but the system is too complex for you to understand easily. You'll have to keep trying.}
-{179}{}{The explosion destroys the Vats Control system. Without regulation, it will certainly cycle out of control in minutes.}
-{180}{}{You slide the security card across the terminal's reader. The terminal clicks and whirrs, and an unencrypted screen comes up.}
-{181}{}{[Exit system]}
-{182}{}{Set base to alert status and disable console.}
-{183}{}{[10710-8971-2014510]     Activate alarms, disable console.}
-{184}{}{[41515-2114-0141913]      Silent self-destruct in 5 minutes.}
+{155}{}{[Tentative de piratage de l'ordinateur]}
+{156}{}{Code d'accès incorrect. Commande ?}
+{157}{}{Code d'accès accepté. Patienter. Accès aux données en cours. Prêt à traiter la requête.}
+{158}{}{Couper les systèmes d'assistance vitaux du lot n°23872-A du FEV.}
+{159}{}{Augmenter la dose de fragments d'ADN d'origine à 100% sur tous les sujets.}
+{160}{}{Accès accordé. Quel fichier patient veux-tu examiner ?}
+{161}{}{Fichier patient n°23869.}
+{162}{}{Fichier patient n°23870.}
+{163}{}{Fichier patient n°23871.}
+{164}{}{Fichier patient n°23872.}
+{165}{}{Fichier patient n°23869. Sujet : Mâle. Age : 25 ans. Taux de radiations : 40. Exposition au FEV : 50%. Fragments d'ADN d'origine restants : 50%. Les paramètres vitaux sont élevés mais entrent dans les paramètres normaux.}
+{166}{}{Je voudrais examiner un autre fichier patient.}
+{167}{}{Fichier patient n°23870. Sujet : Mâle. Age : 23 ans. Taux de radiations : 15. Exposition au FEV : 60%. Fragments d'ADN d'origine restants : 40%. Les paramètres vitaux entrent dans les paramètres normaux.}
+{168}{}{Fichier patient n°23781. Sujet : Femelle. Age : 20 ans. Taux de radiations : 10. Exposition au FEV : 55%. Fragments d'ADN d'origine restants : 45%. Les paramètres vitaux entrent dans les paramètres normaux.}
+{169}{}{Fichier patient n°23782. Sujet : Mâle. Age : 26 ans. Taux de radiations : 35. Exposition au FEV : 60%. Fragments d'ADN d'origine restants : 40%. Les paramètres vitaux sont au-dessous de la normale mais restent sont acceptables.}
+{170}{}{Es-tu sûr de vouloir couper les systèmes d'assistance vitaux du lot n°23872-A du FEV ?}
+{171}{}{Lot n°23872-A du FEV à terme. Commande ?}
+{172}{}{Oui.}
+{173}{}{Non.}
+{174}{}{Veux-tu vraiment augmenter la dose ? La commande de correction automatique sera désactivée.}
+{175}{}{Augmentation de la dose d'ADN d'origine à 100%. ATTENTION : la commande de correction automatique a été désactivée.}
+{176}{}{Tu réussis à accéder à un écran d'interface de l'ordinateur de contrôle des cuves.}
+{177}{}{Tu essaies d'utiliser l'ordinateur mais tu ne parviens à obtenir aucune information utile.}
+{178}{}{Tu essaies d'utiliser l'ordinateur mais le système est trop complexe pour toi. Tu vas devoir réessayer.}
+{179}{}{L'explosion détruit le système de contrôle des cuves. Sans régulation, elles seront certainement hors de contrôle en quelques minutes.}
+{180}{}{Tu introduis la carte de sécurité dans le lecteur du terminal. Le terminal émet un déclic et un ronflement, et un écran non-crypté s'affiche.}
+{181}{}{[Quitter le système]}
+{182}{}{Mettre la base en alerte et désactiver la console.}
+{183}{}{[10710-8971-2014510] Activer alarmes et désactiver console.}
+{184}{}{[31914-1041-1251514] Auto-destruction silencieuse: 5 min.}
 {185}{}{10710-8971-2014510.}
 {186}{}{76223-4533-2540092.}
-{187}{}{[76223-4533-2540092]   Self-destruct in 1 minute.}
-{188}{}{\> Executing 76223-4533-2540092 ...}
-{189}{}{The explosion destroys the Vats Control computer.}
-{200}{}{You notice that the maintenance panel is removed, exposing the fragile computer components.}
-{201}{}{Deactivate the base's alarms.}
-{202}{}{Command completed successfully.}
+{187}{}{[76223-4533-2540092] Auto-destruction: 1 min.}
+{188}{}{> Execution de 76223-4533-2540092...}
+{189}{}{L'explosion détruit l'ordinateur de Contrôle des Cuves.}
+{200}{}{Tu remarques que le panneau de maintenance a été retiré, ce qui expose les composants fragiles de l'ordinateur.}
+{201}{}{Désactiver les alarmes de la base.}
+{202}{}{Commande exécuté avec succès.}
 {203}{}{[Continue]}
-{204}{}{Never mind. [Return to main menu]}
-{205}{}{\> Executing 536475-69-62656B ... ... ... Command completed successfully.}
-{206}{}{\> Executing 10710-8971-2014510 ...}
-{207}{}{ERROR: Records already found on Pip-Boy 2000. Aborting.}
-{208}{}{Never mind. [Return to main menu]}
+{204}{}{[Revenir au menu principal] Laisse tomber.}
+{205}{}{> Exécution de 536475-69-62656B... ... ... Commande exécutée avec succès.}
+{206}{}{> Exécution de 10710-8971-2014510...}
+{207}{}{ERREUR: Enregistrements déjà présents sur le Pip-Boy 2000. Annulation.}
+{208}{}{[Revenir au menu principal] Laisse tomber.}
 {300}{}{10810-1103-9799121.}
-{301}{}{[10810-1103-9799121]      Self-destruct in 5 minutes.}
-{302}{}{\> Executing 10810-1103-9799121 ...}
+{301}{}{[10810-1103-9799121] Auto-destruction: 5 min.}
+{302}{}{> Exécution de 10810-1103-9799121...}
 {303}{}{83100-1171-0539115.}
-{304}{}{[83100-1171-0539115]     Silent self-destruct in 10 minutes.}
-{305}{}{\> Executing 83100-1171-0539115 ...}
+{304}{}{[83100-1171-0539115] Auto-destruction silencieuse: 10 min.}
+{305}{}{> Exécution de 83100-1171-0539115...}
 {400}{}{\> Executing 41515-2114-0141913 ...}
 {401}{}{31415-9265-3589793.}
 {402}{}{[31415-9265-3589793]     Self-destruct in 10 minutes.}

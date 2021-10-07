@@ -1,49 +1,49 @@
-{100}{}{You see: Deputy Fry.}
-{101}{}{I've been hoping to run into you, child killer. I hope your stay isn't long. I'll be paying close attention to you while you're here. Keep your nose clean in my city; I'm just dying for an excuse to get rid of scum like you.}
-{102}{}{Hello friend, Deputy Tony Fry at your service.}
-{103}{}{What is this place?}
-{104}{}{Nice to meet you. Bye.}
-{105}{}{Wug.}
+{100}{}{Voici le Deputé Fry.}
+{101}{}{Ah enfin, te voilà, ordure. J'espère que ton séjour sera bref. Je t'ai à l'oeil. Alors tiens-toi à carreau dans ma ville, parce que j'ai qu'une envie : me débarrasser des saletés de ton espèce.}
+{102}{}{Bonjour ! Député Tony Fry, à ton service.}
+{103}{}{Où sommes-nous ?}
+{104}{}{Enchanté. Au revoir.}
+{105}{}{Euh.}
 {106}{}{Ack!}
-{107}{}{Oh, a newcomer! Welcome to the Hub! You've reached the biggest city on the coast. Heck, maybe the biggest city in the world for all we know. I thought you were part of the caravan, did you come in with them?}
-{108}{}{Yes.}
-{109}{}{No.}
-{110}{}{I'm not surprised. Most of the new members of our city come in with the caravans, even with the missing caravans we've had. It's a fine city, but be careful who you associate with. People like Decker and his thugs can get you into a lot of trouble.}
-{111}{}{That's surprising. It's been pretty rough out there, especially with the missing caravans. But you're safe now, just stay away from the Maltese Falcon. They're a bunch of troublemakers, Decker and his crew.}
-{112}{}{Who's Decker?}
-{113}{}{Yeah, well... I'm pretty rough.}
-{114}{}{What was that about missing caravans?}
-{115}{}{Where can I make some money?}
-{116}{}{That's it, thanks.}
-{117}{}{If you say so. So, did you have any other questions?}
-{118}{}{It's a tragedy, really. Some caravans have turned up missing. Butch, over at the Far Go Traders, is offering a reward for information or something. You should check out the Merchant Market if you're interested.}
-{119}{}{He owns the Maltese Falcon in the Merchant Market, but I wouldn't associate with him if you want to stay out of trouble. He's nothing but a murdering animal, but the Sheriff won't let me arrest him without proof.}
-{120}{}{No problem. Believe it or not, our city is quite safe and our police are all very highly trained peace keepers. You shouldn't have any problems; just avoid the Maltese Falcon.}
-{121}{}{I'm sorry, I don't understand. Maybe you need healing? The Children of the Cathedral are south. Head straight down past the Merchant Market down to the Water Merchants. They're right next to the Water Merchants.}
-{122}{}{I'm still watching you, child killer.}
-{123}{}{Murdering animal!}
-{124}{}{I can't believe the Sheriff's dead...}
-{125}{}{There you are, you thieving little snake! I almost didn't recognize you. Guards!}
-{126}{}{Sure.}
-{127}{}{Catch me if you can.}
-{128}{}{No.}
-{129}{}{ARG!}
-{130}{}{Hello again. I hope you like our town. A nice guy such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
-{131}{}{Hello again. I hope you like our town. A lovely lady such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
-{132}{}{Hello again. What can I do for you?}
-{133}{}{Yes? I don't have all day. I'm trying to watch the front gate.}
-{134}{}{I have a crime to report!}
-{135}{}{Do you have a hospital, I'm injured.}
-{136}{}{Where are the shops?}
-{137}{}{Where do I find work around here?}
-{138}{}{Bye.}
-{139}{}{Garro?}
-{140}{}{Ooga.}
-{141}{}{Really? I, uh, you should talk to the Sheriff. I can't leave my post right now. I've got to... uh, fend off any raiders that might come. Plus, I'm not very good with reports.}
-{142}{}{Oh, sorry. I hadn't noticed. The Children run the hospital next to the Water Merchants. Go south past the Merchant Market and you'll see it just northwest of the Water Merchants. I hope everything goes okay.}
-{143}{}{That's hard to miss. It's by far the busiest part of town. The Merchant Market is a few miles south of here. You'll be most interested in the northern section: that's where most of our locals buy and sell to the public.}
-{144}{}{Why that would be in the Merchant Market, a few miles south of here. Two of the caravan houses are located there, the third is further south. I'd recommend the Far Go Traders. They pay well and they're not too crazy.}
-{145}{}{Dead... they're all dead...}
+{107}{}{Oh, un nouveau visiteur ! Bienvenue au Centre ! Te voici dans la plus grande ville de la côte. Peut-être du monde... qu'est-ce qu'on en sait. Tu fais partie de la caravane ? T'arrives avec eux ?}
+{108}{}{Oui.}
+{109}{}{Non.}
+{110}{}{Ca ne m'étonne pas. La plupart des nouveaux membres de notre ville arrivent en caravanes, en dépit de l'affaire des caravanes disparues. C'est une ville agréable, mais surveille tes fréquentations. Des gens comme Decker et les voyous de sa bande peuvent te causer pas mal d'ennuis.}
+{111}{}{Etonnant. Ca a pas mal bardé dans le coin, surtout avec les caravanes disparues. Mais tu crains plus rien ici, du moins si t'évites le Faucon Maltais. En voilà des fauteurs de troubles, Decker et sa bande.}
+{112}{}{Qui est Decker ?}
+{113}{}{Ah, je vois... J'crains pas les coups.}
+{114}{}{C'est quoi, cette histoire de caravanes disparues ?}
+{115}{}{Comment est-ce que je peux gagner un peu d'argent ?}
+{116}{}{C'est ça, merci.}
+{117}{}{Si tu le dis. Bon, tu veux savoir autre chose ?}
+{118}{}{Ah, une vraie catastrophe. Y'a des caravanes qu'ont disparu. Butch, des Marchands du Lointain, offre une récompense en échange d'informations ou d'indices. Si ça t'intéresse, va donc voir au Grand Marché.}
+{119}{}{C'est le patron du Faucon Maltais, au Grand Marché. Mais si tu veux pas t'attirer d'ennuis, ne t'embarque pas dans de sales plans avec lui. C'est rien qu'une bête sanguinaire, mais le Shérif m'interdit de l'arrêter sans preuves.}
+{120}{}{Pas de problème. Tu me crois si tu veux, mais notre ville est plutôt sûre et notre police sait faire régner la paix. Tout devrait bien se passer, du moins si t'évites le Faucon Maltais.}
+{121}{}{Pardon, je comprends pas. Si c'est pour des ennuis de santé, les Enfants de la Cathédrale sont au Sud. Après le Grand Marché, tu files droit sur les Marchands d'Eau. Les Enfants sont juste à côté.}
+{122}{}{J't'ai toujours à l'oeil, ordure.}
+{123}{}{Bête sanguinaire !}
+{124}{}{Je peux pas croire que le Shérif soit mort...}
+{125}{}{Te voilà, sale petite vermine ! J'ai failli pas te reconnaître. Gardes !}
+{126}{}{Bien sûr.}
+{127}{}{Attrape-moi si tu peux.}
+{128}{}{Non.}
+{129}{}{ARGH !}
+{130}{}{Re-bonjour. J'espère que la ville te plaît. Un jeune homme bien comme toi est toujours le bienvenu. Si tu décides de rester, je suis sûr que le Centre t'appréciera.}
+{131}{}{Re-bonjour. J'espère que la ville te plaît. Une jeune fille bien comme toi est toujours la bienvenue. Si tu décides de rester, je suis sûr que le Centre t'appréciera.}
+{132}{}{Re-bonjour. Je peux t'aider ?}
+{133}{}{Oui ? J'ai pas que ça à faire. J'essaie de surveiller la porte d'entrée.}
+{134}{}{J'ai été témoin d'un crime !}
+{135}{}{Je cherche un hôpital, je suis blessé.}
+{136}{}{Où sont les magasins ?}
+{137}{}{Où je peux trouver du travail dans le coin ?}
+{138}{}{Ciao.}
+{139}{}{Garro ?}
+{140}{}{Ouga.}
+{141}{}{Vraiment ? Je, euh, adresse-toi au Shérif. Là, je peux pas quitter mon poste. Faut que je repousse les pillards qui pourraient venir. Et puis, les témoignages, c'est pas mon truc.}
+{142}{}{Oh, pardon. J'avais pas vu. Les Enfants dirigent l'Hôpital. Après le Grand Marché, tu prends la direction du Sud, et tu verras, c'est au Nord-Ouest des Marchands d'Eau, juste à côté. J'espère que c'est pas grave.}
+{143}{}{Difficile de le manquer. C'est de loin le quartier le plus animé de la ville. Le Grand Marché est à quelques kilomètres au Sud. La partie Nord t'intéressera ; c'est là que presque tous les gens d'ici viennent vendre et acheter.}
+{144}{}{Ah, au Grand Marché je suppose, à quelques kilomètres au Sud. Deux des caravanes s'y trouvent, le troisième est plus au Sud. Je te conseillerais les Marchands du Lointain ; ils paient bien et ils sont pas trop cintrés.}
+{145}{}{Morts... Ils sont tous morts...}
 {146}{}{Pfffftttt... Chrrrr...}
-{147}{}{Do you know where I could find a Water Chip? My Vault's chip malfunctioned, and we need another immediately.}
-{148}{}{Water Chip? Well, I've never heard of one. If it has to do with water, though, you should talk to the Water Merchants. Their headquarters are located further south, past the downtown area.}
+{147}{}{Sais-tu où je peux trouver une puce d'eau ? Celle de mon Abri est en panne, y'a urgence.}
+{148}{}{Une puce d'eau ? J'en ai jamais entendu parler. Si ça a rapport avec l'eau, demande peut-être aux Marchands d'Eau. Tu les trouveras plus au Sud, après le centre-ville.}

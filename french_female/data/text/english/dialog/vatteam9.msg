@@ -1,1 +1,1 @@
-{100}{}{You see a soldier of the Nightkin.}
+{100}{}{Voici un soldat des Ténébreux.}

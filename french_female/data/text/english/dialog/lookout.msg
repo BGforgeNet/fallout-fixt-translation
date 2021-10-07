@@ -1,12 +1,12 @@
-{100}{}{You see a ghoul lookout.}
-{101}{}{I can't talk now. I'm watching out for danger.}
-{102}{}{A human spy!}
-{103}{}{What are you doing down here?}
-{104}{}{Hmm, not much. What are you doing?}
-{105}{}{I'm looking around.}
-{106}{}{Huh.}
-{107}{}{Why, nothing. I live here.}
-{108}{}{You won't find anything here. Go away.}
-{109}{}{[Done]}
-{200}{}{We wont be able to survive without water.}
-{201}{}{Please talk to our leader before you leave.}
+{100}{}{Voici un gardien Goule.}
+{101}{}{Je ne peux pas te parler pour l'instant. Je surveille les environs.}
+{102}{}{Un espion humain !}
+{103}{}{Qu'est-ce que tu fais là ?}
+{104}{}{Hmm, pas grand chose. Qu'est-ce que tu fais ?}
+{105}{}{Je me promène.}
+{106}{}{Euh.}
+{107}{}{Rien, pourquoi ? Je vis ici.}
+{108}{}{Tu ne trouveras rien ici. Va t'en.}
+{109}{}{[Terminé]}
+{200}{}{Nous ne survivrons pas sans eau.}
+{201}{}{Va voir notre Chef avant de partir.}

@@ -1,21 +1,21 @@
-{100}{}{You see: George, the door guard.}
-{101}{}{Can I help you?}
-{102}{}{Whant see mistur tower!}
-{103}{}{Yes. I'm here to see Mr. Hightower.}
-{104}{}{I have an appointment with Mr. Hightower and I'm running very late.}
-{105}{}{Let me in.}
-{106}{}{Mr. Hightower doesn't see just anyone.}
-{107}{}{Well, he wants to see me.}
-{108}{}{How do I set up an appointment with him?}
-{109}{}{I'm not just anyone, you idiot!}
-{110}{}{Oh well. Goodbye.}
-{111}{}{Okay. Go on in.}
-{112}{}{I know all of Mr. Hightower's associates and I've never seen you before, so you'd better leave. Now.}
-{113}{}{Oh, man are you in trouble! Mr. H hates it when his appointments are late. I'll let him chew you out himself. Go on in.}
-{114}{}{You're not getting in here. Beat it, skag!}
-{115}{}{I don't want any trouble here, so you'd better leave now.}
-{116}{}{Get lost!}
-{117}{}{You're not getting in this door.}
-{118}{}{What the hell are you sneaking around for?! Guards!!!}
-{119}{}{Get away from that door! Nobody gets in there without going through me first!}
-{120}{}{You've got a lot of nerve coming around here! Guards!!}
+{100}{}{Voici Georges, le guetteur.}
+{101}{}{Je peux t'aider ?}
+{102}{}{vEux voir MonSieeur tOwer !}
+{103}{}{Oui. Je viens voir M. Hightower.}
+{104}{}{J'ai rendez-vous avec M. Hightower et je suis très en retard.}
+{105}{}{Laisse-moi entrer.}
+{106}{}{M. Hightower ne se dérange pas pour n'importe qui.}
+{107}{}{Et bien il m'attend.}
+{108}{}{Est-ce qu'il est possible de prendre rendez-vous avec lui ?}
+{109}{}{Je ne suis pas n'importe qui, crétin !}
+{110}{}{Ah bon ! Salut.}
+{111}{}{Ok. Tu peux entrer.}
+{112}{}{Je connais tous les associés de M. Hightower et tu n'en fais pas partie, alors fous le camp. Tout de suite.}
+{113}{}{Alors là, t'es dans le pétrin ! M. H ne supporte pas d'attendre. Il va te passer un de ces savons ! Entre.}
+{114}{}{Compte pas sur moi pour te laisser entrer. Vire de là !}
+{115}{}{Je ne veux pas avoir d'histoires alors je te conseille de ne pas prendre racine.}
+{116}{}{Dégage !}
+{117}{}{Tu ne passeras pas cette porte.}
+{118}{}{Qu'est-ce que tu mijotes ?!? Gardes !!}
+{119}{}{Passe ton chemin ! Personne ne passe cette porte sans mon autorisation !}
+{120}{}{T'as un sacré culot pour te pointer ici ! Gardes !!}

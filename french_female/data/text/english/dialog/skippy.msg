@@ -1,31 +1,31 @@
-{100}{}{You see Skippy.}
-{101}{}{You see a ganger.}
-{102}{}{He is tossing what looks like an exotic knife up in the air.}
-{103}{}{[more]}
-{104}{}{[done]}
-{105}{}{[Tossing a set of blades near your face] Watch out, you clod. You might get hurt, and then I would have to laugh.}
-{106}{}{You watch it, those things look sharp.}
-{107}{}{Give those things to me before you hurt someone!}
-{108}{}{What are you tossing around, anyway?}
-{109}{}{They are sharp, indeed they are sharper than your wit.}
-{110}{}{Are you challenging me?}
-{111}{}{Ouch, but I suppose I deserved that.}
-{112}{}{Me? Challenge you? Oh, the very thought makes me chuckle. No, we Fools do not partake in the code duello. It is not our style. Let us show you how we treat outsiders.}
-{113}{}{Indeed, you did. What can I do for you?}
-{114}{}{What are those things?}
-{115}{}{What they are is mine, what they will not be is yours. Beyond that, these cutters are a heirloom from my poor departed father. You might say he got a little caught up in them before he died! [Skippy laughs.]}
-{116}{}{You're silly. Can I borrow them?}
-{117}{}{Well, since you asked nicely - okay. [He hands you the cutters.] Now, begone, for I must seek a new toy to pass the time.}
-{118}{}{I think not, at least not handle-first. You shall weep blood, or at least cry with laughter and pain when I am done with you.}
-{119}{}{We don't like your kind here. Leave or you'll get it in the end.}
-{120}{}{Well, if it isn't the latest Fool. A good sense of humor, at the very least. Perhaps some fine motor skills. We'll see. Play nice.}
-{121}{}{You are a lucky fellow, my friend. This day is the day I will let you live. Unless, of course, you annoy me too much. Then I will have to use my best corpse jokes.}
-{122}{}{Never steal from a Fool, fool.}
-{123}{}{You've already gotten the cutters from Skippy. Quit while you're ahead.}
-{124}{}{You manage to steal the cutters while he isn't watching.}
-{125}{}{You insult us, and our Queen's honor. Some insults can only be paid in blood.}
-{126}{}{You shall die scum!}
-{127}{}{Is that your face, or did your neck throw up?}
-{128}{}{You mother had to tie a steak around you to the dog would play with you}
-{129}{}{The only thing stupider than you is Rayze.}
-{130}{}{I guess afterbirth can live a little while.}
+{100}{}{Tu vois Skippy.}
+{101}{}{Tu vois un voyou.}
+{102}{}{Il jongle avec un couteau un brin exotique.}
+{103}{}{[Plus]}
+{104}{}{[Fait]}
+{105}{}{[Il jongle avec son couteau un peu trop près de ton visage] Fais attention bouffon. Tu pourrais te blesser, et je serais obligé d'en rire.}
+{106}{}{Tu fais attention. Ces choses sont tranchantes.}
+{107}{}{Donne-moi ça avant de blesser quelqu'un !}
+{108}{}{Mais avec quoi tu jongle, de toute façon ?}
+{109}{}{Elles sont tranchantes, en effet, plus tranchantes que tes vannes.}
+{110}{}{Tu me défie ?}
+{111}{}{Ouch. Mais je pense que tu l'as merité.}
+{112}{}{Moi ? Me défier ? Tu me fais rire. Hélas, les Fools ne sont pas adeptes du duel. Les gars ! Montrons-lui comment on traite les étrangers...}
+{113}{}{En effet. Que puis-je faire pour toi ?}
+{114}{}{Que sont ces trucs ?}
+{115}{}{Tu veux dire a part être à moi ? Ces lames sont un héritage de mon défunt père. On peut dire qu'elles étaient une part de lui quand il est mort ! [Skippy ricane.]}
+{116}{}{T'es vraiment stupide. Je peux te les emprunter ?}
+{117}{}{Puisque c'est demandé si gentiment - okay. [Il te confie les lames.] Maintenant va-t-en. Je vais chercher autre chose pour passer le temps.}
+{118}{}{Je ne pense pas. En tout cas, pas par le manche. Tu vas pleurer des larmes, ou au moins rire de douleur quand j'en aurais fini avec toi.}
+{119}{}{On aime pas les gens de ton espèce içi. Va-ten ou tu va sentir mes lames.}
+{120}{}{Tiens, voilà le dernier Fool. Au moins tu as le sens de l'humour. A voir si tu as aussi de bons reflexes. Essaie d'assurer.}
+{121}{}{Tu as beaucoup de chance, mon ami. Aujourd'hui est le jour où je te laisse vivre. Mais si tu continue a m'ennuyer, tu vas pouvoir goûter à mes blagues les plus mortelles.}
+{122}{}{Ne vole jamais un Fool, idiot.}
+{123}{}{Tu as déjà ramassé les lames de Skippy. Arrête-toi tant que t'es encore en bonne position.}
+{124}{}{Tu parviens à voler les lames de Skippy sans qu'il ne s'en apperçoive.}
+{125}{}{Tu nous insulte nous et l'honneur de notre reine. Certaines insultes ne peuvent se payer que par le sang.}
+{126}{}{Tu vas mourir minable !}
+{127}{}{C'est ta face ou ta nuque qui vient de se briser ?}
+{128}{}{Ta mère à dû t'attacher un steack au cou pour que le chien veuille jouer avec toi}
+{129}{}{Y a que Rayze qui peut être aussi stupide que toi.}
+{130}{}{J'imagine que la petite pute peut vivre encore un moment...}

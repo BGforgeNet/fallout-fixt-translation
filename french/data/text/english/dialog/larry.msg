@@ -1,25 +1,25 @@
-{100}{}{You have enraged Larry.}
-{101}{}{You see: Larry.}
-{102}{}{If you disturb the boss, he's gonna hit you.}
-{103}{}{Humans are not allowed in Necropolis. You're coming with me.}
-{104}{}{But...}
-{105}{}{Never!}
-{106}{}{Hngh!!}
-{107}{}{Die human!}
-{108}{}{The mutant ignores you.}
-{1000}{}{Water}
+{100}{}{Tu as mis Larry hors de lui.}
+{101}{}{Voici Larry.}
+{102}{}{Si tu déranges le chef, il n'hésitera pas à te frapper.}
+{103}{}{Les humains ne sont pas autorisés à entrer dans Nécropolis. Tu vas venir avec moi.}
+{104}{}{Mais...}
+{105}{}{Jamais !}
+{106}{}{Eh !}
+{107}{}{Crève, humain !}
+{108}{}{Le mutant t'ignore.}
+{1000}{}{Eau}
 {1001}{}{Nécropolis}
 {1002}{}{Set}
 {1003}{}{Watershed}
 {1004}{}{Hall}
 {1005}{}{Lou}
-{1006}{}{Ghouls}
-{1007}{}{Normals}
-{1100}{}{I dunno.}
-{1101}{}{Yer standin' in it.}
-{1102}{}{He's a wus. We should just wipe out him and his ghouls.}
-{1103}{}{That's here.}
-{1104}{}{I dunno.}
-{1105}{}{He Harry's boss.}
-{1106}{}{Wimpy things.}
-{1107}{}{Wimpier than ghouls.}
+{1006}{}{Goules}
+{1007}{}{Normaux}
+{1100}{}{Je ne sais pas.}
+{1101}{}{Tu y es.}
+{1102}{}{C'est un dégonflé. On devrait les éliminer lui et ses Goules.}
+{1103}{}{C'est ici.}
+{1104}{}{Je ne sais pas.}
+{1105}{}{Lui, le chef de Harry.}
+{1106}{}{Des poules mouillées.}
+{1107}{}{Encore plus poules mouillées que les Goules.}

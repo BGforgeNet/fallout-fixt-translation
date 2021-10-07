@@ -1,14 +1,14 @@
-{100}{}{You see: Mike, the Old Town guard.}
-{101}{}{Yeah, whatta' you want?}
-{102}{}{A... dum... um...}
-{103}{}{I'm not from around here. What part of town is this?}
-{104}{}{Do you know where I can find a Water Chip?}
-{105}{}{Um... Bye.}
-{106}{}{Ha. Just another junkie. Go crash somewhere else, junkhead.}
-{107}{}{Yeah. You must be lost. Most people wouldn't be caught dead in this part of town. This is the Eastside, or some call it Old Town. The Wastes of the Wastes.}
-{108}{}{Do you know where I can find a Water Chip?}
-{109}{}{Thanks for the info. Bye.}
-{110}{}{Water Chip? What are you? On dope? A chip made of water?}
-{111}{}{Don't you be mouthing off to me, punk. Now I'm gonna have to put you in the ground.}
-{112}{}{I'm not from around here. What part of town am I in?}
-{113}{}{Never mind. Bye.}
+{100}{}{Voici Mike, le garde de la Vieille Ville.}
+{101}{}{Ouais, qu'est-ce que tu veux ?}
+{102}{}{ah...euh...um...}
+{103}{}{Je ne suis pas d'ici. Dans quel quartier sommes-nous ?}
+{104}{}{Sais-tu où je pourrais trouver une puce d'eau ?}
+{105}{}{Um... Au revoir.}
+{106}{}{Ha ! Encore un toxico. Fiche le camp !}
+{107}{}{Ouais. Tu as dû te perdre. Tu risques d'avoir des ennuis dans cette partie de la ville. Tu es dans le quartier Est que certains appellent aussi la Vieille Ville. La Décharge des Décharges.}
+{108}{}{Sais-tu où je pourrais trouver une puce d'eau ?}
+{109}{}{Merci du renseignement. Au revoir.}
+{110}{}{Une Puce d'Eau ? Tu te sens bien ? Tu as pris des stimulants ou quoi ? Une puce faite d'eau ?}
+{111}{}{Tu te fiches de moi, crapule. Je vais m'occuper de toi, tu vas voir.}
+{112}{}{Je ne suis pas d'ici. Dans quel quartier sommes-nous ?}
+{113}{}{Laisse tomber. Salut.}

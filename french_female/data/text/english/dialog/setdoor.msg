@@ -1,19 +1,19 @@
-{100}{}{You see a solid wall.}
-{101}{}{Something seems odd about this bit of wall.}
-{102}{}{You see a sliding door.}
-{103}{}{The door is locked.}
-{104}{}{You set off the trap on the door.}
-{105}{}{ detects a trap on this door.}
-{106}{}{You detect a trap on this door.}
-{107}{}{That does nothing.}
-{108}{}{The door is already unlocked.}
-{109}{}{You break your picks on this difficult lock.}
-{110}{}{You fail to pick this lock.}
-{111}{}{You pick the lock on the door.}
-{112}{}{This lock is too difficult for you to pick at this time.}
-{113}{}{You notice a highly explosive trap on this locked door.}
-{114}{}{You notice a highly explosive trap on this door.}
-{115}{}{You notice a trap on this locked door.}
-{116}{}{You notice a trap on this door.}
-{117}{}{You see nothing special about this locked door.}
-{118}{}{You see nothing special about this door.}
+{100}{}{Voici un mur.}
+{101}{}{Ce pan de mur a quelque chose d'étrange.}
+{102}{}{Voici une porte coulissante.}
+{103}{}{La porte est verrouillée.}
+{104}{}{Tu désamorces le piège de la porte.}
+{105}{}{ détecte un piège sur la porte.}
+{106}{}{Tu détectes un piège sur la porte.}
+{107}{}{Rien ne se passe.}
+{108}{}{La porte est déjà déverrouillée.}
+{109}{}{Tu brises ton passe-partout sur ce verrou difficile.}
+{110}{}{Tu ne parviens pas à crocheter le verrou.}
+{111}{}{Tu crochètes le verrou de la porte.}
+{112}{}{Ce verrou est encore trop difficile à ouvrir pour toi.}
+{113}{}{Tu remarques un piège hautement explosif sur la porte verrouillée.}
+{114}{}{Tu remarques un piège hautement explosif sur la porte.}
+{115}{}{Tu remarques un piège sur la porte verrouillée.}
+{116}{}{Tu remarques un piège sur la porte.}
+{117}{}{Tu ne remarques rien de spécial sur cette porte verrouillée.}
+{118}{}{Tu ne remarques rien de spécial sur cette porte.}

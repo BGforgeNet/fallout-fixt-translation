@@ -1,43 +1,43 @@
-{100}{}{You see: Leon, a guard.}
-{101}{}{What is your business here?}
-{102}{}{I must speak with Mr. Hightower.}
-{103}{}{I've come to kill Mr. Hightower.}
-{104}{}{What business is it of yours?}
-{105}{}{Okay, but I'm watching you. He's in his office.}
-{106}{}{Thank you.}
-{107}{}{Yeah... I bet you're watching me.}
-{108}{}{I don't like your attitude. I'm going to have to ask you to leave.}
-{109}{}{I'll leave when I'm good and ready, pal!}
-{110}{}{Okay, I'll leave.}
-{111}{}{Attitude? I'll show you attitude!!!}
-{112}{}{Whatever it is, you can tell me. Mr. H is busy right now.}
-{113}{}{Why do you have to be so difficult?}
-{114}{}{I would much rather tell him in person. It's a matter of life and death.}
-{115}{}{Decker has put a contract out on Hightower's life.}
-{116}{}{You can tell me, or you can leave.}
-{117}{}{Who died and made you God?}
-{118}{}{Decker has put a contract out on Hightower's life.}
-{119}{}{Look, I'm not tellin' you a damn thing!}
-{120}{}{I'll leave.}
-{121}{}{Again? What a fool Decker is. Well... I guess he's not as big a fool as the guys he hires for these jobs. See here, check out my gun.}
-{122}{}{(He shows you the side of his gun where 5 deep scratch marks are visible.)}
-{123}{}{Each one of these marks is for a past attempt on Hightower's life. I bagged each and every one of them. Tell me about this fool Decker hired... do you know what they look like?}
-{124}{}{No.}
-{125}{}{It's me, you idiot!}
-{126}{}{Hey! Wow! You've got scratch marks on your gun! You're coooooool!}
-{127}{}{Thank you for the advance warning, but Mr. Hightower doesn't like strangers hangin' around. I'm going to have to ask you to leave.}
-{128}{}{That's it? No reward? What the hell is wrong with you people?}
-{129}{}{You're welcome. Goodbye.}
-{130}{}{Mr. Hightower is not taking any visitors. Now leave!}
-{131}{}{I'll leave when I'm good and ready, pal!}
-{132}{}{Okay, I'll leave.}
-{133}{}{I really need to speak to Mr. Hightower.}
-{134}{}{Okay, buddy. Let's go. (He grabs you by the arm.)}
-{135}{}{Get your damn hands off me!}
-{136}{}{All right, all right! I'm going.}
-{137}{}{Wait! I'm not finished!}
-{138}{}{Ug!}
-{139}{}{Rookl!}
-{140}{}{I have urgent news for Mr. Hightower.}
-{141}{}{What are you doing here? I'm off duty now. Go bother someone else.}
-{142}{}{I was hoping your sorry hide would wander around here sometime! Guards!}
+{100}{}{Voici Léon, un garde.}
+{101}{}{Qu'est-ce que tu fous ici ?}
+{102}{}{Je dois parler avec M. Hightower.}
+{103}{}{Je suis ici pour descendre M. Hightower.}
+{104}{}{En quoi ça t'regarde ?}
+{105}{}{Ok. Mais je t'ai à l'oeil. Il est dans son bureau.}
+{106}{}{Merci.}
+{107}{}{Ouais... J'en doute pas une seconde.}
+{108}{}{Ta tête ne me revient pas. Je vais devoir te demander de partir.}
+{109}{}{Je m'en irai quand ça me plaira, mec !}
+{110}{}{C'est bon, je m'en vais.}
+{111}{}{Ma tête ? Je vais te montrer si ma tête ne te revient pas !!}
+{112}{}{Tu sais, tu peux tout me dire. M. H est occupé en ce moment.}
+{113}{}{Pourquoi compliques-tu les choses ?}
+{114}{}{Je préférerais lui parler en personne. C'est une question de vie ou de mort.}
+{115}{}{Decker a passé un contrat sur la tête de Hightower.}
+{116}{}{Dis-moi tout sinon tire-toi.}
+{117}{}{Tu te prends pour qui ?}
+{118}{}{Decker a passé un contrat sur la tête de Hightower.}
+{119}{}{Ecoute, je ne te dirai rien, tu piges ?}
+{120}{}{C'est bon, je m'en vais.}
+{121}{}{Encore ? Quel taré, ce Decker. Alors... ? Ceux qui ont accepté de faire le boulot sont encore plus tarés que lui. Vise un peu mon flingue !}
+{122}{}{[Léon te montre le côté de son fusil qui porte 5 rayures profondes.]}
+{123}{}{Chacune de ces marques, c'est pour les mecs qui ont tenté de faire la peau à Hightower. Chaque fois, c'est moi qui les ai descendus. Dis-moi... est-ce que tu sais à quoi il ressemble, le mec que ce connard de Decker a engagé ?}
+{124}{}{Non.}
+{125}{}{C'est moi, pauvre idiot !}
+{126}{}{Hé ! Ouah ! Les marques sur ton flingue ! C'est coooooool !}
+{127}{}{Merci de me prévenir mais M. Hightower n'aime pas voir traîner les étrangers dans le coin. Il faut que tu t'en ailles.}
+{128}{}{Comment ça ? Et ma récompense alors ? Ca va pas la tête ?}
+{129}{}{Y'a pas de quoi. Salut.}
+{130}{}{M. Hightower ne reçoit personne. Maintenant, vas-t-en !}
+{131}{}{Je m'en irai quand ça me plaira, mec !}
+{132}{}{C'est bon, je m'en vais.}
+{133}{}{Il faut vraiment que je parle à M. Hightower.}
+{134}{}{Ok. On y va. [Léon t'empoigne par le bras.]}
+{135}{}{Retire tes sales pattes de là !}
+{136}{}{C'est bon, c'est bon. J'y vais.}
+{137}{}{Attends ! Je n'ai pas fini !}
+{138}{}{Ben.}
+{139}{}{Rakl !}
+{140}{}{J'ai des choses urgentes à dire à M. Hightower.}
+{141}{}{Qu'est-ce que tu fabriques ici ? J'ai fini mon service. Va voir ailleurs si j'y suis.}
+{142}{}{J'espérais bien revoir ta sale gueule traîner par ici ! Gardes !}

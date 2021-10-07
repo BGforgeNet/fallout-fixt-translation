@@ -1,5 +1,5 @@
-{100}{}{The gunman pays you no heed.}
-{101}{}{The gunman sneers at you as he passes by.}
-{102}{}{You see a shady looking gunslinger.}
-{103}{}{Gizmo sends his regards!}
-{104}{}{You earn 400 experience for helping Killian fight off the assassin.}
+{100}{}{Le bandit ne fait pas attention à toi.}
+{101}{}{Le bandit se moque de toi en passant.}
+{102}{}{Voici un bandit armé à l'air louche.}
+{103}{}{Gizmo te fait ses hommages !}
+{104}{}{points d'expérience pour avoir aidé Killian à lutter contre l'assassin.}

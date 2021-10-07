@@ -1,22 +1,22 @@
-{100}{}{You see: Jade.}
-{101}{}{You see: Beca.}
+{100}{}{Tu vois Jade.}
+{101}{}{Tu vois Beca.}
 {102}{}{}
 {103}{}{}
-{104}{}{You see a member of the Blades.}
-{105}{}{You see a member of the Blades.}
-{106}{}{You think that might be Books.}
-{107}{}{You think that might be Scars.}
-{108}{}{You think that might be Gunner.}
-{109}{}{You think that might be Twitch.}
-{110}{}{You think that might be Hammer.}
-{111}{}{You think that might be Razor.}
-{112}{}{These are sleeping quarters. Now get out of here before I kick your butt.}
-{113}{}{Be my guest.}
-{114}{}{Sorry about that. Goodbye.}
-{115}{}{Can I crash here?}
-{116}{}{No. These are for real Blades, not some wuss.}
-{117}{}{Hey, bud! Wazzup? Crash here if you need a safe place.}
-{118}{}{So, you've volunteered to help. Better than nothing, I reckon. Thanks. Gonna spread the word.}
-{119}{}{Yeah, I'll go and see what I can do.}
-{120}{}{Hey again. I heard you've actually helped us. You are more than worthy of our respect, indeed. We are free now. (You are now a member of the Blades gang.)}
-{121}{}{Can't help you with that. Go talk to Razor.}
+{104}{}{Tu vois un membre des Ecorcheurs.}
+{105}{}{Tu vois un membre des Ecorcheurs.}
+{106}{}{Tu penses que c'est Books.}
+{107}{}{Tu penses que c'est Scars.}
+{108}{}{Tu penses que c'est Gunner.}
+{109}{}{Tu penses que c'est Twitch.}
+{110}{}{Tu penses que c'est Hammer.}
+{111}{}{Tu penses que c'est Razor.}
+{112}{}{Voici les dortoirs. Maintenant sors d'ici avant que je te botte le cul.}
+{113}{}{Sois mon invité.}
+{114}{}{Désolé pour ça. Salut.}
+{115}{}{Je peux m'incruster ici ?}
+{116}{}{Non. Ils sont pour les vrais membres des Ecorcheurs, pas pour de quelconques lavettes.}
+{117}{}{Hé l'ami ! Comment ça va ? Installe-toi ici si tu as besoin d'un endroit sûr.}
+{118}{}{Ainsi tu t'es porté volontaire pour nous aider. C'est mieux que rien, je l'admets. Merci. Je vais faire passer le mot.}
+{119}{}{Ouais. Je vais y aller et voir ce que je peux faire.}
+{120}{}{Hé te revoilà. J'ai entendu que tu nous avais vraiment aidé. Tu es plus que digne de notre respect en effet. Nous sommes libres maintenant. [Tu es dorénavant un membre du gang des Ecorcheurs.]}
+{121}{}{Je ne peux pas t'aider. Va parler à Razor.}

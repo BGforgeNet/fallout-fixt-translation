@@ -1,7 +1,7 @@
-{100}{}{This looks like the door to the Vats Control Room.}
-{101}{}{The door is electronically locked.}
-{102}{}{You unlock the door.}
-{103}{}{You short out the electronic lock, fusing it shut. So much for that.}
-{104}{}{The door is already unlocked.}
-{105}{}{No luck. You'll need to use electronic lockpicks here.}
-{106}{}{You fiddle with the lock but can't yet bypass the code. Gotta keep trying!}
+{100}{}{On dirait qu'il s'agit de la porte de la Salle de Contrôle des Cuves.}
+{101}{}{La porte est fermée par un verrou électronique.}
+{102}{}{Tu déverrouilles la porte.}
+{103}{}{Tu court-circuites le verrou électronique. Incroyable !}
+{104}{}{La porte est déjà déverrouillée.}
+{105}{}{Pas de chance. Tu vas devoir utiliser un passe-partout électronique.}
+{106}{}{Tu bricoles le verrou mais tu ne parviens pas à contourner le code. Essaie encore !}

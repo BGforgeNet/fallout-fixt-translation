@@ -1,215 +1,215 @@
-{100}{}{You see: Rutger.}
-{101}{}{Hello and welcome to the Far Go Traders. How may we help you?}
-{102}{}{Can you transport water?}
-{103}{}{I'm here about the job that was posted.}
-{104}{}{I'm looking for work.}
-{105}{}{What is it that you do here?}
-{106}{}{You can't. Bye.}
-{107}{}{Gak!}
-{108}{}{We don't hire skags! Get out.}
-{109}{}{Hmmmm. It's a shame you don't have the brains to go with that brawn. We could have used someone like you.}
-{110}{}{Well, we CAN transport water, but it will cost you. How much do you need and where is it going?}
-{111}{}{I need enough to supply a Vault. It's up north, past Junktown, in the mountains.}
-{112}{}{I need enough to supply a Vault. It's up north, in the mountains.}
-{113}{}{I need it all! Some day, I'm going to transform the face of the planet. You'll see!}
-{114}{}{A whole Vault? Are you nuts? We don't have that kind of access to that much water. Plus, I wouldn't want to go into those mountains. We've had enough missing caravans.}
-{115}{}{You don't? Is there someone else who can?}
-{116}{}{Well, what about the job posted?}
-{117}{}{Well, do you have any work?}
-{118}{}{Well, thanks for nothing.}
-{119}{}{Oh sorry, you're not from around here. The Water Merchants handle all the damn water in this town. I wouldn't even bother trying to deal with them. They're a bunch of vultures.}
-{120}{}{Where would I find them?}
-{121}{}{Okay, thanks.}
-{122}{}{You can't miss them. They're south of here, all barricaded in with that damn Water Tower.}
-{123}{}{So, what do you do around here?}
-{124}{}{Okay, thanks.}
-{125}{}{I'm in charge of the... I mean, I help run the Far Go Traders. If anyone messes with us, I'm the one they will answer to. We trade wares between all the different settlements.}
-{126}{}{I already told you. Butch and I run the Far Go Traders. Now what did you want?}
-{127}{}{What sort of things do you trade?}
-{128}{}{Interesting. Bye.}
-{129}{}{Great. What about that job that was posted?}
-{130}{}{Sounds good. Do you need help?}
-{131}{}{Why, we trade just about everything you can think of: drugs, tires, guns, bullets, food, brahmin, dirt, even scraps of metal.}
-{132}{}{Dirt? Scraps of metal?}
-{133}{}{Uh... that's fascinating, but I gotta go.}
-{134}{}{You'd be surprised at what's in demand out there. Something that's taken for granted in one place may be a highly sought after commodity in a settlement 10 miles away.}
-{135}{}{Okay, enough with the boring merchant chatter. Where's the door?}
-{136}{}{Thanks, bye.}
-{137}{}{Can you tell me about the job that was posted?}
-{138}{}{Do you have any work?}
-{139}{}{I hear that you're a little crazy, but that might be what we need right now. You'll need to talk to Butch. He likes to meet all the new recruits. He's in the room right behind me. Go on in.}
-{140}{}{I don't think I want a child killer on one of my caravans.}
-{141}{}{Child killer? But it was an accident.}
-{142}{}{Hey, I don't discriminate. If it gets in my way, regardless of age, they'll be a wet spot on the wall.}
-{143}{}{I guess accidents do happen. It is a pretty messed up world out there. I'm still not sure I trust you. Go ahead and talk to Butch. He's in that room right there.}
-{144}{}{My ass it was an accident. I know your type. Think you can do whatever you want. Well, not around here, buddy. Go ahead and talk with Butch, but I'll be keeping an eye on you. He's right through the door right behind me.}
-{145}{}{My ass it was an accident. I know your type. Think you can do whatever you want. Well, not around here, lady. Go ahead and talk with Butch, but I'll be keeping an eye on you. He's right through the door right behind me.}
-{146}{}{You are one ruthless son of a bitch. We might need that, but that doesn't mean that I agree with your ways. Just don't touch a child around me, or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the office right behind me.}
-{147}{}{You're looking for work? I've heard good things about you. We can always use someone of your reputation. Go on in and talk to Butch. He's through the door behind me.}
-{148}{}{You're looking for work, are you? You look alright. Well, you should probably talk to Butch. He's through the door behind me.}
-{149}{}{I thought you didn't want the job. What do you want?}
-{150}{}{I don't. I just had to have one more look at that ugly mug of yours.}
-{151}{}{I'm sorry. I really wanted this job. Can I have it please?}
-{152}{}{Nothing.}
-{153}{}{Grudda!}
-{154}{}{Get out of here you damn skag!}
-{155}{}{Fine. I wish you would make up your mind; I'm a busy man. Let me give you the details.}
-{156}{}{You're full of crap. Get the hell out.}
-{157}{}{What are you talking to me for? I said to talk to Butch about the job. If he likes you, I'll fill you in on the details.}
-{158}{}{What? Haven't you left yet?}
-{159}{}{How goes the search?}
-{160}{}{I can't seem to find anything.}
-{161}{}{Could you please repeat the details on the job?}
-{162}{}{Do you have any caravan jobs?}
-{163}{}{Sorry, I've got to go.}
-{164}{}{Rhoo?}
-{165}{}{Well, I didn't say it was going to be easy. Otherwise, we would have solved the problem a long time ago. Ask around. Get rough if you have to, but don't draw blood. At least, not in public.}
-{166}{}{I'm telling you, lay off the drugs. They'll mess you up.}
-{167}{}{The job pays 500 caps when you can tell Butch exactly what has been happening to all of the caravans that have disappeared recently. So, collect any proof you might find. I personally think it's those damn Water Merchants or those gun freaks at the Brotherhood of Steel. Butch thinks it's some Claw of Death or something. Check with Beth, she would know more about that.}
-{168}{}{Okay, but I don't know what you missed. There's not much to it.}
-{169}{}{I thought for sure you were from there. I was just testing you. If you're not from there, how the hell did you get that suit of steel they all traipse around in?}
-{170}{}{Oh, this? I 'found' it, if you know what I mean.}
-{171}{}{I'm not at liberty to say.}
-{172}{}{Damn, you must be good. I'm glad you're on our side. I don't know how you couldn't know, but the Brotherhood is a strange bunch that worship technology, or something like that. They're just a little to the northwest from here.}
-{173}{}{What's the Brotherhood of Steel?}
-{174}{}{I can guarantee you it wasn't the Brotherhood.}
-{175}{}{What do you know about the Deathclaw?}
-{176}{}{Where's Beth?}
-{177}{}{Thanks, bye.}
-{178}{}{Well, whatever. I'm sure you've met them before. They're a strange bunch that worship technology or something like that. They're to the northwest of here.}
-{179}{}{They are really strange. They worship technology or something like that. They have a hell of a lot of firepower. They could easily take out a caravan. They're to the northwest.}
-{180}{}{I knew you had to be one of them. You had to be with that steel suit. I hope you're right, and I hope it's not a mistake hiring you, but you're not the only one we've hired, so it's okay.}
-{181}{}{Why do you say that?}
-{182}{}{Because I just joined their order, and I checked them out thoroughly. They're just real quiet and keep to themselves, but there is nothing to fear there.}
-{183}{}{I've been inside that bunker of theirs. They aren't the ones you're looking for.}
-{184}{}{Just a hunch.}
-{185}{}{Well, that's reassuring. I think.}
-{186}{}{I hope you're right.}
-{187}{}{A hunch isn't good enough. We need proof.}
-{188}{}{Beth's right out that door and to the right. She runs our weapon shop. Tell her you're working for us, and you'll get a 15% discount.}
-{189}{}{Oh, yeah, Deathclaw, whatever. They're all crazy. It's just people's imagination getting carried away. There's no ghost or monster or whatever it's supposed to be. Just stick with reality, and you'll be fine.}
-{190}{}{Yes? How can I help you?}
-{191}{}{I know what's been happening to your caravans.}
-{192}{}{Nothing.}
-{193}{}{Wha.}
+{100}{}{Voici Rutger.}
+{101}{}{Bonjour et bienvenue chez les Marchands du Lointain. Que puis-je pour toi ?}
+{102}{}{Peux-tu transporter de l'eau ?}
+{103}{}{Je suis là pour l'annonce.}
+{104}{}{Je cherche du travail.}
+{105}{}{Que fais-tu ici ?}
+{106}{}{rien. Au revoir.}
+{107}{}{Grr !}
+{108}{}{Nous n'embauchons pas les imbéciles ! Va t'en.}
+{109}{}{Hmmmm. Dommage que ton cerveau ne soit pas aussi volumineux que tes muscles. On aurait pu utiliser quelqu'un comme toi.}
+{110}{}{Eh bien, nous "pouvons" transporter de l'eau, mais ça te coûtera cher. Quelle quantité veux-tu transporter et pour quelle destination ?}
+{111}{}{Il m'en faut suffisamment pour approvisionner un abri qui se trouve au Nord, après Dépôtville, dans les montagnes.}
+{112}{}{Il m'en faut suffisamment pour approvisionner un abri qui se trouve au Nord, dans les montagnes.}
+{113}{}{Il me faut tout ! Un jour, je changerai la face du monde. Tu verras !}
+{114}{}{Un abri tout entier ? Tu délires ? Nous n'avons pas accès à autant d'eau. Et en plus, pas question d'aller dans ces montagnes. Nous avons perdu assez de caravanes comme ça.}
+{115}{}{Tu refuses ? Y'a-t-il quelqu'un qui serait susceptible d'accepter ?}
+{116}{}{Eh bien, qu'en est-il de l'annonce ?}
+{117}{}{Eh bien, as-tu du travail à me proposer ?}
+{118}{}{Bien, merci quand même.}
+{119}{}{Oh pardon, tu n'es pas d'ici. Les Marchands d'Eau contrôlent toute l'eau de cette fichue ville. Je ne me risquerais pas à négocier avec eux. Ce sont de vrais vautours.}
+{120}{}{Où puis-je les trouver ?}
+{121}{}{Ok, merci.}
+{122}{}{Tu ne peux pas les manquer. Ils vivent au Sud d'ici, barricadés dans ce fichu château d'eau.}
+{123}{}{Alors, que fais-tu par ici ?}
+{124}{}{Ok, merci.}
+{125}{}{Je suis responsable de... Je veux dire, j'aide à diriger les Marchands du Lointain. Lorsque quelqu'un nous cherche des ennuis, c'est moi qui m'en charge. Nous vendons des marchandises un peu partout.}
+{126}{}{Je te l'ai déjà dit. Butch et moi dirigeons les Marchands du Lointain. Mais, que veux-tu ?}
+{127}{}{Quel genre de marchandises vendez-vous ?}
+{128}{}{Intéressant. Au revoir.}
+{129}{}{Bien. En quoi consiste le travail proposé sur l'annonce ?}
+{130}{}{Intéressant. As-tu besoin d'aide ?}
+{131}{}{Eh bien, nous vendons de tout : des stimulants, des pneus, des armes à feu, des munitions, de la nourriture, des brahmines, des déchets et même des morceaux de métal.}
+{132}{}{Des déchets ? Des morceaux de métal ?}
+{133}{}{Euh... c'est fascinant mais je dois m'en aller.}
+{134}{}{Ca t'étonnerait de savoir tout ce qu'on nous demande. Quelque chose de banal ici peut s'avérer très recherché 15 kilomètres plus loin.}
+{135}{}{Ok, j'en ai assez de toutes ces foutaises de marchand. Où est la porte ?}
+{136}{}{Merci, au revoir.}
+{137}{}{Peux-tu me parler du travail proposé sur l'annonce ?}
+{138}{}{As-tu du travail à me proposer ?}
+{139}{}{J'ai entendu dire que tu étais un peu dingue mais c'est peut-être ce qu'il nous faut en ce moment. Adresse-toi à Butch. Il aime rencontrer les nouvelles recrues. Il se trouve dans la pièce derrière moi. Vas-y, entre.}
+{140}{}{Je ne veux pas de tueur dans mes caravanes.}
+{141}{}{Tueur ? Mais c'était un accident !}
+{142}{}{Hé, je ne fais pas de différence. Si ça ne tenait qu'à moi, je n'hésiterais pas à tous leur trouer la cervelle.}
+{143}{}{Il arrive que des accidents se produisent. Le monde extérieur est une vraie pagaille. Je ne sais toujours pas si je peux te faire confiance. Va voir Butch. Il se trouve dans l'autre pièce.}
+{144}{}{Ouais, c'est ça, c'était un accident. Je connais les gens comme toi. Tu t'imagines que tout t'est permis. Mais pas ici, mon gars ! Va voir Butch... mais je te surveille ! Il se trouve dans l'autre pièce.}
+{145}{}{Ouais, c'est ça, c'était un accident. Je connais les gens comme toi. Tu t'imagines que tout t'est permis. Mais pas ici, ma chère ! Va voir Butch... mais je te surveille ! Il se trouve dans l'autre pièce.}
+{146}{}{Tu es un impitoyable trou du cul. On a peut-être besoin de gens comme toi, mais ça ne veut pas dire que j'approuve ce que tu fais. Ne t'avise pas à toucher à un enfant en ma présence, ou je te fais éclater la cervelle. Va voir Butch. Il est dans le bureau à côté.}
+{147}{}{Tu cherches du travail ? Je n'ai entendu que du bien sur toi. Il faut toujours se fier à la réputation des gens. Va voir Butch. Il est dans le bureau, juste derrière moi.}
+{148}{}{Tu cherches du travail, n'est-ce pas ? Tu m'as l'air d'être quelqu'un de bien. Tu devrais aller voir Butch. Il est dans le bureau.}
+{149}{}{Je croyais que tu ne voulais pas de ce travail. Que veux-tu ?}
+{150}{}{Je n'en veux pas. Je voulais juste voir une derrière fois ta sale face de rat.}
+{151}{}{Je regrette, je voulais vraiment ce travail. Donne-le moi, s'il te plaît !}
+{152}{}{Rien.}
+{153}{}{Flûte !}
+{154}{}{Va t'en d'ici, espèce de crapule !}
+{155}{}{Bien. J'espérais que tu finirais par te décider, je suis un homme occupé... Je vais tout t'expliquer.}
+{156}{}{Espèce de petite merde ! Fiche-moi le camp !}
+{157}{}{Que me veux-tu ? Je t'ai dit d'aller voir Butch pour le travail. Si tu lui conviens, je t'expliquerai de quoi il s'agit.}
+{158}{}{Quoi ? Tu es toujours là ?}
+{159}{}{Comment se passent les recherches ?}
+{160}{}{Je n'ai rien trouvé.}
+{161}{}{Peux-tu me réexpliquer en quoi consiste le travail, s'il te plaît ?}
+{162}{}{As-tu du travail dans une des caravanes ?}
+{163}{}{Je regrette mais je dois partir.}
+{164}{}{Que quoi ?}
+{165}{}{Eh bien, je ne t'ai jamais dit que ce serait facile. Sinon, nous aurions déjà résolu le problème depuis longtemps. Pose des questions. Fais le nécessaire, mais pas d'effusion de sang ! En tout cas, pas en public...}
+{166}{}{Ecoute-moi, laisse tomber les stimulants. Ils te font débloquer.}
+{167}{}{Tu toucheras 500 caps quand tu seras en mesure de dire à Butch ce qui est précisément arrivé à toutes les caravanes qui ont disparu ces derniers temps. Alors, rassemble toutes les preuves que tu trouveras. D'après moi, c'est un coup de ces fichus Marchands d'Eau ou de ces excentriques de la Confrérie de l'Acier. Butch, lui, pense que c'est une Griffe de la mort où je ne sais quoi. Va voir Beth, elle doit en savoir plus à ce sujet.}
+{168}{}{Je ne sais pas ce que tu veux de plus. C'est pas si compliqué.}
+{169}{}{Je pensais que tu étais des leurs. Je voulais juste te tester. Mais, si tu n'es pas des leurs, alors où as-tu déniché cette armure en acier qu'ils portent tous ?}
+{170}{}{Oh, ça ? Je l'ai trouvée, si tu vois ce que je veux dire.}
+{171}{}{Je ne peux pas te le dire.}
+{172}{}{Bon sang, tu dois être fortiche. Ca me fait plaisir que tu sois de notre côté. Mais comment peux-tu ignorer qui ils sont ? La Confrérie est un groupe étrange qui vénère la technologie, ou quelque chose comme ça. Ils vivent près d'ici, vers le Nord-Ouest.}
+{173}{}{Qu'est-ce que la Confrérie de l'Acier ?}
+{174}{}{Je peux t'assurer que ce n'était pas la Confrérie.}
+{175}{}{Que sais-tu sur le Griffemort ?}
+{176}{}{Où est Beth ?}
+{177}{}{Merci, au revoir.}
+{178}{}{Eh bien, peu importe. Je pense que tu en as déjà rencontré. C'est un groupe étrange qui vénère la technologie ou quelque chose comme ça. Ils vivent au Nord-Ouest d'ici.}
+{179}{}{Ils sont vraiment étranges. Ils vénèrent la technologie ou quelque chose comme ça. Leurs armes sont redoutables. Ils pourraient facilement détruire une caravane. Ils vivent au Nord-Ouest.}
+{180}{}{Je pensais que tu étais des leurs. Ca me semblait évident à cause de cette armure en acier. J'espère que j'ai raison et que je ne fais pas une erreur en t'engageant, mais on en a embauché beaucoup avant toi, alors c'est d'accord.}
+{181}{}{Pourquoi dis-tu ça ?}
+{182}{}{Parce que je viens de rejoindre leur ordre et que je les ai bien étudiés. Ils sont paisibles et introvertis. Il n'y a rien à craindre.}
+{183}{}{J'ai pénétré dans leur bunker. Ce ne sont pas eux qui tu recherches.}
+{184}{}{C'était juste une idée.}
+{185}{}{Eh bien, c'est rassurant. Du moins, je crois.}
+{186}{}{J'espère que tu as raison.}
+{187}{}{Une idée, ça ne suffit pas. Nous avons besoin de preuves.}
+{188}{}{Pour voir Beth, passe cette porte et prends à droite. Elle s'occupe de notre armurerie. Dis-lui que tu travailles pour nous et elle te fera une remise de 15%.}
+{189}{}{Oh, ouais, le Griffemort ou je ne sais quoi. Ils sont tous fous. Cette créature sort tout droit de l'imagination des gens. Il n'existe ni fantôme, ni monstre. Attache-toi à la réalité et tout ira bien, tu verras.}
+{190}{}{Oui ? Que puis-je pour toi ?}
+{191}{}{Je sais ce qui est arrivé à vos caravanes.}
+{192}{}{Rien.}
+{193}{}{Quuuoi ?}
 {194}{}{Grrr.}
-{195}{}{Really? So, who are the bastards? The Water Merchants?}
-{196}{}{Yeah, that's them! They're out to get you. They... want your... brahmin.}
-{197}{}{Actually, it was a group of these HUGE mutants.}
-{198}{}{It was the Deathclaw. I saw it eat a whole caravan.}
-{199}{}{I forgot.}
-{200}{}{You forgot? Funny, man. Now, get lost.}
-{201}{}{You forgot? Funny, lady. Now, get lost.}
-{202}{}{I knew it was them. Did you bring proof? I'm going to make those bastards pay.}
-{203}{}{Uhh. No. I lost it. But, you can take my word on it.}
-{204}{}{Actually, it wasn't them. It was a bunch of huge mutants.}
-{205}{}{Sorry, I've gotta go.}
-{206}{}{Well, I can't do anything unless I have proof. I wouldn't want to start another merchant war. If you can bring me proof, I'll bring it to the law, and we'll wipe them out.}
-{207}{}{You're full of crap. Get out of my face.}
-{208}{}{What? How? That's impossible. You've gotta be joking. You are joking, aren't you?}
-{209}{}{Yeah, sorry. Believe it or not, it was actually a huge bunch of mutants.}
-{210}{}{It was terrible. It had these big, pointy teeth.}
-{211}{}{A whole caravan? Really? What, do I look that gullible? Get out there and find out what's really happening to our caravans.}
-{212}{}{Some huge mutants are destroying my caravans? That's almost as good as this Deathclaw story.}
-{213}{}{I'm not joking. I found the Deathclaw and killed it, but I found this holodisk on the body of one of those... Super Mutant creatures.}
-{214}{}{Well, check this holodisk out. I got it off one of the raiding mutants.}
-{215}{}{It's true, I was there, and I saw it. I'll bring back proof.}
-{216}{}{Fine, don't believe me.}
-{217}{}{I've gotta go.}
-{218}{}{Hey, I know how to use one of those. Butch got some gizmo from some scout from the Brotherhood a long time ago that can read these things. Let's see... [Rutger inserts the disk into the device and quickly reads its contents] ...Sorry I didn't believe you. This does not bode well for the good guys. Well, here's your 500 caps. Hell, make it 800, and thanks for the information! If you need anymore work you will always be welcome.}
-{219}{}{Please, don't add to Butch's paranoia. He's a little bit touchy when it comes to the Deathclaw. Now tell me, did you actually find anything out? Was it the Water Merchants?}
-{220}{}{Yeah, that's them! They're out to get you. They... want your... brahmin.}
-{221}{}{Actually, it was a group of these HUGE mutants.}
-{222}{}{No, it was really the Deathclaw. I saw it eat a whole caravan.}
-{223}{}{I forgot.}
-{224}{}{Rats, huh? So, did you find anything out or what? It's those damn Water Merchants, I know it!}
-{225}{}{Yeah, that's them! They're out to get you. They... want your... brahmin.}
-{226}{}{Actually, it was a group of these HUGE mutants.}
-{227}{}{It was the Deathclaw. I saw it eat a whole caravan.}
-{228}{}{I forgot.}
-{229}{}{Mutants destroyed our caravans? That's almost as good as the one about the Deathclaw.}
-{230}{}{I'm not joking. I found the Deathclaw and killed it. But, I also found this holodisk on the body of one of those Super Mutant creatures.}
-{231}{}{Well, check this holodisk out. I got it off one of the raiding mutants.}
-{232}{}{It's the truth, I was there. I'll bring back proof.}
-{233}{}{I've gotta go.}
-{234}{}{So, do you have any proof about who's been messing with my, I mean, our caravans?}
-{235}{}{Yeah. Here's a holodisk I found on the body of one of those... huge mutant creatures.}
-{236}{}{No, still looking. Any ideas?}
-{237}{}{No, I'll let you know.}
-{238}{}{Gak!}
-{239}{}{Well, if this Deathclaw really does exist, you might want to examine its lair. It might have a clue.}
-{240}{}{Hi. How may I help you?}
-{241}{}{I found out what happened to the missing caravans.}
-{242}{}{Oh, nothing.}
-{243}{}{Hey! I heard you killed the bastard in charge of those mutants. Good going. You probably saved the lives of everyone in the Hub; but I wonder where they were coming from.}
-{244}{}{Yeah! More things to kill! I wonder where they're hiding.}
-{245}{}{Yes, I must cleanse the area completely of the Master's evil work. I wonder where they are hiding.}
-{246}{}{You're right! I wonder where they are hiding.}
-{247}{}{I need some cash. Got any jobs?}
-{248}{}{All in a day's work. See ya!}
-{249}{}{Yeah, I kicked ass. Oops. I mean... Gruk Chak!}
-{250}{}{Hey there, buddy. How are things going?}
-{252}{}{Hey there, gorgeous. How are things going?}
-{253}{}{How's my favorite lady?}
-{254}{}{Fine, thanks. Do you have any more jobs?}
-{255}{}{Great! Just stopping in to see how things are going.}
-{256}{}{Yogwa?}
-{257}{}{Things are great! There are no more raids from those damn mutants, and trade is back to where it was. Actually, trade is much better than it was. Thanks for asking.}
-{258}{}{Hey, I heard you destroyed some base where all those damn mutants were hanging out! Good job! Too bad you couldn't track down their leader.}
-{259}{}{Yeah! Something else to kill. I wonder where the Master is hiding.}
-{260}{}{Yes, I must destroy the Master. I can't give evil a chance to spread any more. I wonder where the Master is hiding.}
-{261}{}{The Master is about to meet his maker.}
-{262}{}{You're right! I wonder where the Master is hiding?}
-{263}{}{I need some cash first. Got any jobs?}
-{264}{}{Yeah, I kicked ass. Oops. I mean...Gruk Chak!}
-{265}{}{Well, I heard that some people saw some scattered groups of mutants way up to the northwest. Way past the Brotherhood of Steel.}
-{266}{}{You know, since the mutants were destroyed, the Children of the Cathedral have been acting VERY strangely. I actually overheard one talking about you. They seem to be looking for you desperately.}
-{267}{}{Actually, things are not going so well. Those mutants are still causing problems with our caravans. We've had to put almost all of our caravans on hold. Thanks for asking though.}
-{268}{}{Sure, we could use you in one of our caravans. Do you do guard work? The pay's standard, 400 caps. Interested?}
-{269}{}{Sure}
-{270}{}{Nope.}
-{271}{}{What? What about the missing caravans?}
-{272}{}{What better way to find the thieves than to join a caravan?}
-{273}{}{I'll keep an eye out, but I need some caps.}
-{274}{}{Never mind.}
-{275}{}{Okay, but let me know if you change your mind. Most of the time it's easy money.}
-{276}{}{Great, just talk to our caravan driver by the front door to see when the next caravan's scheduled to leave. Just as long as you do a good job our drivers will hire you.}
-{277}{}{I'll give you one more chance. The pay's 400 caps. Go talk to the Caravan Driver by the front door to see when the next one goes out.}
-{278}{}{I'm sorry, but I've given you a chance. I think you should leave.}
-{279}{}{You've got to be joking? I may be very grateful for what you've done, but I'm afraid that doesn't change the past. I think you should leave.}
-{280}{}{Didn't you hear me? We won't hire you. Please leave.}
-{281}{}{I don't think that will be very effective, but you can work on one if you like.}
-{282}{}{Why do you say that?}
-{283}{}{You're right, let me snoop around some more.}
-{284}{}{That's okay, I'll take the job.}
-{285}{}{Great. Be sure to ask around.}
-{286}{}{Well, okay. Just talk to our caravan driver by the front door when you're ready to go. Just as long as you do a good job our drivers will hire you.}
-{287}{}{Of course! You don't need to talk to me. Just talk to our caravan driver.}
+{195}{}{Vraiment ? Alors, qui sont ces ordures ? Les Marchands d'Eau ?}
+{196}{}{Oui, ce sont eux ! Ils vous en veulent. Ils... veulent vos... brahmines.}
+{197}{}{En fait, c'était un groupe de ces ENORMES mutants.}
+{198}{}{C'était le Griffemort. Je l'ai vu dévorer une caravane entière !}
+{199}{}{J'ai oublié.}
+{200}{}{Tu as oublié ? Très drôle, mec. Alors, va te faire foutre !}
+{201}{}{Tu as oublié ? Très drôle, poulette. Alors, va te faire foutre !}
+{202}{}{Je savais que c'était eux. As-tu des preuves ? Ces ordures vont me le payer !}
+{203}{}{Euh. Non. Je les ai perdues. Mais je peux t'en donner ma parole.}
+{204}{}{En fait, ce n'était pas eux. C'était une bande d'énormes mutants.}
+{205}{}{Excuse-moi, je dois partir.}
+{206}{}{Eh bien, je ne peux rien faire sans preuves. Je n'ai pas l'intention de déclencher une nouvelle guerre entre marchands. Si tu me rapportes des preuves, je les traînerai en justice et nous nous débarrasserons d'eux.}
+{207}{}{Espèce de petite merde ! Hors de ma vue !}
+{208}{}{Quoi ? Comment ? C'est impossible. Tu veux rire ? Tu plaisantes, n'est-ce pas ?}
+{209}{}{Ouais, excuse-moi. Que tu me croies ou non, il s'agissait bel et bien d'une bande d'énormes mutants.}
+{210}{}{C'était terrible. Cette créature avait de longues dents pointues.}
+{211}{}{Toute la caravane ? Vraiment ? Alors, j'ai l'air si dupe que ça ? Sors d'ici et trouve ce qui est vraiment arrivé à nos caravanes !}
+{212}{}{D'énormes mutants ont détruit mes caravanes ? C'est presque aussi drôle que cette histoire de Griffemort.}
+{213}{}{Je ne plaisante pas ! J'ai trouvé le Griffemort et je l'ai tué. Ensuite, j'ai trouvé cet holodisque sur le corps d'une de ces... créatures super mutantes.}
+{214}{}{Eh bien, voilà cet holodisque. Il appartenait à l'un des mutants.}
+{215}{}{C'est vrai, j'y étais et j'ai tout vu ! Je te rapporterai des preuves !}
+{216}{}{Eh bien, ne me crois pas.}
+{217}{}{Je dois partir.}
+{218}{}{Hé, je sais utiliser ça. Il y a longtemps, après une mission de reconnaissance à la Confrérie, Butch a rapporté un appareil qui permet de lire ces trucs-là. Voyons....... Pardon, mais je ne te croyais pas. Ce n'est pas de bon augure pour les types biens. Tiens, voilà tes 500 caps. Allez, prends-en 800, et merci de ton aide ! Si tu cherches du travail, n'hésite pas à revenir me voir.}
+{219}{}{S'il te plaît, inutile d'alimenter la paranoïa de Butch. Il est un peu susceptible quand on parle du Griffemort. Maintenant, dis-moi, tu as trouvé quelque chose ou quoi ? Est-ce que ce sont les Marchands d'Eau qui ont fait le coup ?}
+{220}{}{Oui, ce sont eux ! Ils vous en veulent. Ils... veulent vos... brahmines.}
+{221}{}{En fait, c'était un groupe de ces ENORMES mutants.}
+{222}{}{Non, c'était vraiment le Griffemort. Je l'ai vu dévorer une caravane entière !}
+{223}{}{J'ai oublié.}
+{224}{}{Des rats, hein ? Alors, tu as trouvé quelque chose ou quoi ? Ce sont ces foutus Marchands d'Eau, je le sais !}
+{225}{}{Oui, ce sont eux ! Ils vous en veulent. Ils... veulent vos... brahmines.}
+{226}{}{En fait, c'était un groupe de ces ENORMES mutants.}
+{227}{}{C'était le Griffemort. Je l'ai vu dévorer une caravane entière !}
+{228}{}{J'ai oublié.}
+{229}{}{Des mutants ont détruit nos caravanes, c'est ça ? C'est presque aussi drôle que cette histoire de Griffemort !}
+{230}{}{Je ne plaisante pas ! J'ai trouvé un Griffemort et je l'ai tué. Mais, j'ai aussi trouvé cet holodisque sur le corps d'une de ces créatures super mutantes.}
+{231}{}{Eh bien, voilà cet holodisque. Il appartenait à l'un des mutants.}
+{232}{}{C'est la vérité, j'y étais. Je te rapporterai des preuves.}
+{233}{}{Je dois partir.}
+{234}{}{Alors, as-tu trouvé des preuves sur ceux qui ont détruit mes, je veux dire, nos caravanes ?}
+{235}{}{Ouais. Voilà un holodisque que j'ai trouvé sur le corps d'un de ces... énormes mutants.}
+{236}{}{Non, je continue à chercher. Des idées ?}
+{237}{}{Non, je te préviendrai.}
+{238}{}{Grr !}
+{239}{}{Eh bien, si ce Griffemort existe vraiment, tu devrais aller fouiller son repaire. Tu y trouveras peut-être des indices.}
+{240}{}{Salut. Que puis-je pour toi ?}
+{241}{}{J'ai découvert ce qui est arrivé aux caravanes disparues.}
+{242}{}{Oh, rien.}
+{243}{}{Hé ! J'ai entendu dire que tu avais tué l'ordure qui était responsable de ces mutants. C'est bien. Tu as sans doute sauvé la vie de tous les habitants du Centre, mais je me demande d'où ils venaient.}
+{244}{}{Ouais ! Encore du sang ! Je me demande où ils se cachent.}
+{245}{}{Oui, je dois débarrasser définitivement la région de ce mal venant du Maître. Je me demande où ils se cachent.}
+{246}{}{Tu as raison ! Je me demande où ils se cachent.}
+{247}{}{J'ai besoin d'argent. Tu as du travail ?}
+{248}{}{Ca n'a rien d'exceptionnel. Salut !}
+{249}{}{Ouais, je leur ai botté le train. Euh... Je veux dire... crak !}
+{250}{}{Salut mon pote. Comment ça va ?}
+{252}{}{Salut ma belle. Comment ça va ?}
+{253}{}{Comment va ma copine préférée ?}
+{254}{}{Bien, merci. Aurais-tu du travail pour moi ?}
+{255}{}{Bien ! Je voulais juste voir comment ça allait.}
+{256}{}{Que quoi ?}
+{257}{}{Tout va bien ! Ces fichus mutants ne nous embêtent plus, et les affaires ont repris. En fait, elles sont encore meilleures qu'avant. Merci de t'en inquiéter.}
+{258}{}{Hé, j'ai entendu dire que tu avais détruit une base de mutants ! Joli travail ! Dommage que tu n'aies pas trouvé leur chef.}
+{259}{}{Ouais ! Encore du sang. Je me demande où se cache le Maître.}
+{260}{}{Oui, je dois tuer le Maître. Je n'ai pas le droit de laisser ce mal se répandre. Je me demande où se cache le Maître.}
+{261}{}{Le Maître est sur le point de rencontrer son créateur.}
+{262}{}{Tu as raison ! Je me demande où se cache le Maître.}
+{263}{}{J'ai d'abord besoin d'argent. Aurais-tu du travail pour moi ?}
+{264}{}{Ouais, je leur ai botté le train. Euh. Je veux dire... Crak boum !}
+{265}{}{Eh bien, j'ai entendu dire que des petits groupes de mutants avaient été aperçus en direction du Nord-Ouest. Après la Confrérie de l'Acier.}
+{266}{}{Tu sais, depuis que les mutants ont été anéantis, les Enfants de la Cathédrale ont un comportement "très" étrange. En fait, j'ai surpris l'un d'eux en train de parler de toi. Ils te recherchent désespérément.}
+{267}{}{Ces mutants continuent à s'attaquer à nos Caravanes. Nous avons dû suspendre presque tous nos voyages. Mais merci de t'inquiéter de notre sort.}
+{268}{}{Bien sûr, tu pourrais nous être utile dans l'une de nos caravanes. Est-ce que tu as déjà été garde ? Le salaire est de 400 caps. Ca t'intéresse ?}
+{269}{}{Bien sûr}
+{270}{}{Non.}
+{271}{}{Quoi ? Que sais-tu sur les caravanes disparues ?}
+{272}{}{Quel meilleur moyen de découvrir les voleurs que de se joindre à une caravane ?}
+{273}{}{Je vais voir ce que je peux faire, mais j'ai besoin de argent.}
+{274}{}{Qu'importe.}
+{275}{}{D'accord, mais préviens-moi si tu changes d'avis. La plupart du temps, c'est de l'argent gagné facilement.}
+{276}{}{Bien, va voir notre conducteur de caravane, près de la porte d'entrée. Il te dira quand part la prochaine caravane. Tant que tu feras du bon travail, nos conducteurs accepteront tes services.}
+{277}{}{Je te donne encore une chance. Le salaire est de 400 caps. Va voir le conducteur de caravane, près de la porte d'entrée. Il te dira quand part la prochaine caravane.}
+{278}{}{Excuse-moi, mais je t'ai déjà donné ta chance. Je crois que tu ferais mieux de partir.}
+{279}{}{Tu plaisantes ? Je devrais te remercier pour ce que tu as fait, mais je crains que cela n'ait rien changé au passé. Tu ferais mieux de partir.}
+{280}{}{Tu as entendu ce que je t'ai dit ? Nous ne t'embaucherons pas. Va t'en, s'il te plaît.}
+{281}{}{On ne te fera pas de cadeau, mais tu peux travailler pour nous si tu veux.}
+{282}{}{Pourquoi dis-tu ça ?}
+{283}{}{Tu as raison, laisse-moi essayer encore une fois.}
+{284}{}{C'est d'accord, j'accepte ce travail.}
+{285}{}{Bien. Et n'hésite pas à poser des questions.}
+{286}{}{Eh bien, d'accord. Quand tu voudras partir, va voir notre conducteur de caravane, près de la porte d'entrée. Tant que tu feras du bon travail, nos conducteurs accepteront tes services.}
+{287}{}{Bien sûr ! Inutile de venir me voir. Adresse-toi plutôt à notre conducteur de caravane.}
 {288}{}{[Plus]}
-{289}{}{Well sure, we may be losing a lot of caravans, but it is a very small percentage of our total business. The chances of you being on a caravan that is attacked by whatever is completely capturing or destroying our caravans is very unlikely. Who or what ever is doing this must have a pretty large force, or a very deadly one.}
-{290}{}{Oh, okay. I think I'll ask around some more. }
-{291}{}{Well, I need the money.}
-{292}{}{Hello again. What can I do you for... I mean do for you?}
-{293}{}{Nice to see you again.}
-{294}{}{I was wondering, do you transport water?}
-{295}{}{I'm here about the job that was posted.}
-{296}{}{I'm looking for work.}
-{297}{}{What is it that you do?}
-{298}{}{Sorry, I've to got to go.}
-{299}{}{Rarwa.}
-{300}{}{Yeah, what the heck do you want?}
-{301}{}{I'm really getting sick of you. What now?}
-{302}{}{What!}
-{303}{}{Are you always this annoying?}
-{304}{}{What is it man?!?!}
-{305}{}{I was wondering, do you transport water?}
-{306}{}{I'm here about the job that was posted.}
-{307}{}{I'm looking for work.}
-{308}{}{What is it that you do?}
-{309}{}{Sorry, I've to got to go. }
-{310}{}{Tooka?}
-{311}{}{You pissed off the boss. Get the hell out of here!}
-{312}{}{I think I may have figured out what's been happening to the missing caravans.}
-{313}{}{That's great! Go tell Butch what you've found and he'll let me know if you've earned your reward.}
-{314}{}{Grdddle Snpp!!!}
-{315}{}{I'm sorry but we don't deal with... um... the intellectually challenged.}
+{289}{}{Ouais, même si nous perdons beaucoup de caravanes, cela ne représente qu'un très faible pourcentage de nos affaires. Tes chances de te retrouver dans une caravane attaquée par ces "je ne sais quoi" qui capturent ou détruisent nos caravanes sont très faibles. Ceux qui font ça sont sûrement très forts. Ils sont redoutables.}
+{290}{}{Oh, d'accord. Je crois que je vais continuer mon enquête. }
+{291}{}{Eh bien, j'ai besoin de l'argent.}
+{292}{}{Rebonjour. Que puis-je pour... je veux dire pour toi ?}
+{293}{}{Ca me fait plaisir de te revoir.}
+{294}{}{Je me demandais si tu accepterais de transporter de l'eau ?}
+{295}{}{Je suis là pour l'annonce.}
+{296}{}{Je cherche du travail.}
+{297}{}{Que fais-tu ?}
+{298}{}{Excuse-moi, je dois partir.}
+{299}{}{Grr.}
+{300}{}{Ouais, qu'est-ce que tu veux ?}
+{301}{}{J'en ai vraiment marre de toi. Qu'y a-t-il encore ?}
+{302}{}{Quoi !}
+{303}{}{Es-tu toujours aussi pénible ?}
+{304}{}{Quoi ?!?!}
+{305}{}{Je me demandais si tu accepterais de transporter de l'eau ?}
+{306}{}{Je suis là pour l'annonce.}
+{307}{}{Je cherche du travail.}
+{308}{}{Que fais-tu ?}
+{309}{}{Excuse-moi, je dois partir.}
+{310}{}{Hein ?}
+{311}{}{Tu as dérangé le chef. Fiche le camp d'ici !}
+{312}{}{Je crois que j'aurais pu me douter de ce qui était arrivé aux caravanes disparues.}
+{313}{}{C'est génial ! Va dire à Butch ce que tu as trouvé et il me dira si tu as mérité ta récompense.}
+{314}{}{Grrr !!}
+{315}{}{Désolé mais nous ne traitons pas avec... hum... les gens comme toi.}

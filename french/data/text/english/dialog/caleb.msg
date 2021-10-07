@@ -1,48 +1,48 @@
-{100}{}{You see: Caleb, leader of the Regulators.}
-{101}{}{You see a stern man in his thirties.}
-{102}{}{You should know that we don't like strangers here. What do you want?}
-{103}{}{Good day. May I be of some assistance?}
-{104}{}{I'm}
-{105}{}{You have the look of someone important.}
-{106}{}{Can you tell me a little about Adytum?}
-{107}{}{Can you tell me what's going on here in L.A. Boneyard?}
-{108}{}{What's the history behind the Regulators?}
-{109}{}{Tell me more about the Children and the Followers.}
-{110}{}{Where can I find Zimmerman?}
-{111}{}{Have a nice day. Thanks.}
-{112}{}{Nice enough town. Me an' the Regulators work hard to keep it that way. Anyone in particular you want to know about?}
-{113}{}{Who runs Adytum?}
-{114}{}{Who does trading here?}
-{115}{}{Nothing else, thanks.}
-{116}{}{Stay out of trouble, got it? I'm Caleb, and that's a name for you to remember, 'cause I'll be the one comin' after you if you screw up.}
-{117}{}{I'm Caleb. I train and organize the Regulators here.}
-{118}{}{Yeah, I guess. You got the Blades up north, a pretty pathetic herd of people, and the Gun Runners a little north and a ways to the east through the Deathclaw playground.}
-{119}{}{Also, a ways to the south of here you have the Children of the Cathedral, who run a hospital an' a big church. Up a little bit to the north and to the east you got the loony Followers of the Apocalypse, who are all peace-types.}
-{120}{}{Stay out of trouble.}
-{121}{}{You have a good day, too.}
-{122}{}{You back again?}
-{123}{}{How c'n I help ya', son?}
-{124}{}{What c'n I do fer ya', miss?}
-{125}{}{You'd best keep your weapons put away while you're in town.}
-{126}{}{Guga gu.}
-{127}{}{Sorry, but I don't have time for you. Run along.}
-{128}{}{Adytum here is run by Jon Zimmerman. He's an upright fella, takes good care o' the town. You should go an' see 'im. Anything else?}
-{129}{}{Tine runs a shop over near the gates. It's down below the little bunker. He does all th' tradin' with the Hub and with outsiders like you. Anything else?}
-{130}{}{We are the police force for Adytum. Most folks 'round here know enough not to cause any trouble.}
-{131}{}{I'm in charge of training the Regulators an' makin' sure that the skags are working hard enough, and that no one moves in on us here. Anythin' else?}
-{132}{}{Well, the Children of the Cathedral all live in this big, black, church-type building. They have some sort of big god, an' they go around tryin' to convert people to their cult.}
-{133}{}{You'll find him in the big building to the southwest. He might be able to put enough sentences together to let you know that we're looking for some help with the Blades.}
-{134}{}{What's going on with the Blades?}
-{135}{}{Can I ask you something else?}
-{136}{}{Thanks for the info. Goodbye.}
-{137}{}{Sure. What else do you want to know?}
-{138}{}{They've done something to Zimmerman's half-witted son. But like I said, go talk to Zimmerman about it.}
-{139}{}{Can I ask you something else?}
-{140}{}{Alright, I get the picture. I'll go talk to Zimmerman.}
-{141}{}{So, Zimmerman gave you the scoop on the Blades. Whatever. I'm sure he'll want to know when you've done the job.}
-{142}{}{Where are the Blades?}
-{143}{}{Why haven't you guys taken care of it yourself?}
-{144}{}{Yeah, I'll be back when the job's done.}
-{145}{}{They're all to the north of here. You won't be able to miss their stench. Anything else?}
-{146}{}{'Cause its a waste of our time. I got better things to do than get out there and kill a few skags. Take more time showerin' up afterwards than dealin' with them. Anything else?}
-{147}{}{So, you're back. Go talk to Zimmerman.}
+{100}{}{Voici Caleb, le leader des Régulateurs.}
+{101}{}{Voici un homme d'une trentaine d'années à l'allure sévère.}
+{102}{}{Tu devrais savoir qu'on n'aime pas les étrangers ici. Que veux-tu ?}
+{103}{}{Bonjour. Puis-je t'aider ?}
+{104}{}{Je suis}
+{105}{}{Tu as l'air de quelqu'un d'important.}
+{106}{}{Peux-tu m'en dire plus sur le Sanctuaire ?}
+{107}{}{Peux-tu me dire ce qui se passe au Cimetière de L.A. ?}
+{108}{}{Parle-moi des Régulateurs.}
+{109}{}{Je veux en savoir plus sur les Enfants et les Disciples.}
+{110}{}{Où puis-je trouver Zimmerman ?}
+{111}{}{Bonne journée. Merci.}
+{112}{}{C'est une jolie ville. Les Régulateurs et moi travaillons dur pour la garder ainsi. Veux-tu que je te parle de quelqu'un en particulier ?}
+{113}{}{Qui s'occupe du Sanctuaire ?}
+{114}{}{Qui fait du commerce ici ?}
+{115}{}{Rien d'autre, merci.}
+{116}{}{Fais pas de vague, compris ? Je m'appelle Caleb. Souviens-toi de mon nom, car tu auras affaire à moi si tu déconnes.}
+{117}{}{Je suis Caleb. C'est moi qui entraîne et organise les Régulateurs ici.}
+{118}{}{Ouais. Y'a les Ecorcheurs au Nord, un peuple pathétique, les Contrebandiers encore plus au Nord et à l'Est le territoire des Griffemorts.}
+{119}{}{Un peu plus au Sud d'ici, tu trouveras aussi les Enfants de la Cathédrale, qui dirigent un hôpital et une grande église. Un peu plus au Nord-Est, il y a les Disciples de l'Apocalypse, des timbrés pacifiques.}
+{120}{}{Evite les ennuis.}
+{121}{}{Passe une bonne journée.}
+{122}{}{Tu es de retour ?}
+{123}{}{En quoi j'peux t'aider, fiston ?}
+{124}{}{Qu'est-ce que je peux faire pour toi, fillette ?}
+{125}{}{Tu f'rais mieux de ranger tes armes pendant que tu seras en ville.}
+{126}{}{Bou gagou.}
+{127}{}{Désolé mais je n'ai pas de temps à t'accorder. Va-t-en.}
+{128}{}{C'est Zimmerman qui s'occupe du Sanctuaire. C'est un type droit, il s'occupe bien de la ville. Tu devrais aller le voir. Autre chose ?}
+{129}{}{Tine tient un magasin près des portes. Il se trouve près du petit blockhaus. Il fait du commerce avec le Centre et avec les étrangers comme toi. Autre chose ?}
+{130}{}{Nous sommes la force de police du Sanctuaire. Les gens du coin ne nous créent pas de problème.}
+{131}{}{Je suis responsable de l'entraînement des Régulateurs et je vérifie que les gars travaillent dur et que personne ne nous créé de problème. Autre chose ?}
+{132}{}{Eh bien, les Enfants de la Cathédrale vivent tous dans cette grande église noire. Ils vénèrent une sorte de grand dieu, et ils vont de-ci de-là pour essayer de convertir les gens à leur culte.}
+{133}{}{Tu le trouveras dans le grand bâtiment situé au Sud-Ouest. Il devrait encore être capable d'aligner suffisamment de phrases ensemble pour t'expliquer que nous avons besoin d'aide pour les Ecorcheurs.}
+{134}{}{Que se passe-t-il avec les Ecorcheurs ?}
+{135}{}{Je peux te demander autre chose ?}
+{136}{}{Merci pour l'info. Salut.}
+{137}{}{Bien sûr. Que veux-tu savoir d'autre ?}
+{138}{}{Ils ont fait quelque chose au fils retardé de Zimmerman. Mais comme je te l'ai dit, va en parler à Zimmerman.}
+{139}{}{Je peux te demander autre chose ?}
+{140}{}{Très bien je comprends. Je vais parler à Zimmerman.}
+{141}{}{Alors comme ça, Zimmerman t'a livré le scoop sur les Ecorcheurs. Qu'importe. C'est sûr qu'il voudra savoir quand tu auras fini le travail.}
+{142}{}{Où sont les Ecorcheurs ?}
+{143}{}{Pourquoi tes hommes s'en sont pas occupés eux-mêmes ?}
+{144}{}{Oui, je reviendrai après avoir terminé ce boulot.}
+{145}{}{Ils sont tous au Nord d'ici. Tu peux les repérer à leur puanteur. Autre chose ?}
+{146}{}{Parce que c'est une perte de temps. J'ai mieux à faire que de tuer des pauvres types. Evite de traiter avec eux. Autre chose ?}
+{147}{}{Te voilà de retour. Va parler à Zimmerman}

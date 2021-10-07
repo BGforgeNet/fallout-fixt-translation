@@ -1,133 +1,133 @@
-{100}{}{You see: Talius, a member of the Followers.}
-{101}{}{Please depart. I am attempting to retire here. Come back during the day.}
-{102}{}{Greetings sister. My name is Talius. How might I assist you today?}
-{103}{}{Greetings brother. My name is Talius. How might I assist you today?}
-{104}{}{Huh?}
-{105}{}{Me }
-{106}{}{. Me }
+{100}{}{Voici Talius, un membre des Disciples.}
+{101}{}{Va t'en, s'il te plaît. Je voudrais être tranquille. Reviens dans la journée.}
+{102}{}{Salut, ma soeur. Je m'appelle Talius. Que puis-je faire pour toi aujourd'hui ?}
+{103}{}{Salut, mon frère. Je m'appelle Talius. Que puis-je faire pour toi aujourd'hui ?}
+{104}{}{Hein ?}
+{105}{}{Moi }
+{106}{}{. Moi }
 {107}{}{.}
-{108}{}{I am }
-{109}{}{. What are you doing here?}
-{110}{}{You can die!}
-{111}{}{Don't worry about me Mutie! How did you get in here?}
-{112}{}{Greetings to you as well. I am called }
-{113}{}{. How is it that you came into the realm of the Followers?}
-{114}{}{Can you tell me how one of your... alterations entered the Followers?}
-{115}{}{I see that you are a little slow. I, too, was once of your intelligence. But, through the teachings of the Followers, I have been able to transcend my shortcomings.}
-{116}{}{No know.}
-{117}{}{Too smart. Die now.}
-{118}{}{I apologize. I forget myself at times. Would you like some brain help?}
-{119}{}{Yeah. You's!}
-{120}{}{You hep. You hep!}
-{121}{}{Here. Take these pretty pills. Make you smarter.}
-{122}{}{Yes, }
-{123}{}{. I am enthusiastic that you acknowledge your given nomenclature. How might I assist you this fine morrow?}
-{124}{}{Wha?}
-{125}{}{Brain hurt. Me kill you. Take brain.}
-{126}{}{I am here to assist these good people in understanding the workings of the Children of the Cathedral.}
-{127}{}{So you are a spy for the Children?}
-{128}{}{How can you know anything about the Children?}
-{129}{}{What can you do? You are a mutant.}
-{130}{}{Nay, I am no spy. Though many think as such. There is a spy within our humble abode. Yet, we are unable to ferret the spy out.}
-{131}{}{Then how do you help the Followers?}
-{132}{}{Tell me what you know about this spy. Maybe I can help.}
-{133}{}{Tough luck, Mutie!}
-{134}{}{I think I found the spy. Now I will remove the problem.}
-{135}{}{Once, I was as you are. But, through the interaction of the Nightkin in Necropolis, I was thrust into this state.}
-{136}{}{That's awful. But, tough luck. See you around.}
-{137}{}{Why were you in Necropolis?}
-{138}{}{Where were you from originally?}
-{139}{}{And now I will transform you once more. Rest in pieces.}
-{140}{}{Some time ago, I lived in a place far to the north of here. They were having a problem with the water supply and sought out people to find a way to fix it.}
-{141}{}{So you volunteered.}
-{142}{}{Where was this place?}
-{143}{}{Did you find a way to fix this problem?}
-{144}{}{But why Necropolis?}
-{145}{}{Yes. The Overseer of the community gave me a shotgun and some shells. However, those were lost many years passed. Since I have never found anything, I could not return.}
-{146}{}{That's really awful. I wish there was something I could do.}
-{147}{}{Too bad. Gotta head out.}
-{148}{}{Where was this place?}
-{149}{}{Did you ever find a way to fix the water problem?}
-{150}{}{Why did you go to Necropolis?}
-{151}{}{There is a way in which you can help. The one who did this to me must be stopped.}
-{152}{}{Who is it?}
-{153}{}{Their leader is the head of a mutant army. What he does is take pure humans and transform them. I'm not quite sure, because I was knocked unconscious before the process.}
-{154}{}{I will go kill them for you then.}
-{155}{}{Sounds too risky for me. I'm out of here.}
-{156}{}{I thank you for your kindness. You do me a great service. Please, accept this as a token of good will. I purloined it from the body of a deceased renegade.}
-{157}{}{Be at peace then. I can understand your unease. Mayhaps another will come to help remove this threat. Good day to you.}
-{158}{}{The place from whence I came was in the mountains far to the north. It was a small Vault in which many people lived.}
-{159}{}{Did you ever find a way to fix the water problem?}
-{160}{}{Why did you go to Necropolis?}
-{161}{}{What was the name of this Vault?}
-{162}{}{Sounds nice. I've gotta run.}
-{163}{}{Unfortunately, I did not. I have heard that others were sent from the Vault to search for a way to fix the water pump.}
-{164}{}{I have heard nothing more of them.}
-{165}{}{Why did you go to Necropolis?}
-{166}{}{What was the name of this Vault?}
-{167}{}{Sounds nice. I've gotta run.}
-{168}{}{I heard from some of the other travelers that Necropolis had a way in which to produce water without much difficulty.}
-{169}{}{So, I went there to see what they were doing.}
-{170}{}{What did you find?}
-{171}{}{Did you kill them off?}
-{172}{}{Feel at home there?}
-{173}{}{I found a great deal of those Mutant things there. It was they who entrapped me and transformed me into my current form.}
-{174}{}{Apparently, they messed up, because I took on a different evolutionary course, rather than the enhanced ones.}
-{175}{}{Rough deal. See you around.}
-{176}{}{I'll be sure to watch out for them. Thanks for the info.}
-{177}{}{Who lead them?}
-{178}{}{No. I killed only some of the mutants. There was another mutant, a ghoul, named Set, who helped me take out most of them.}
-{179}{}{Last I knew there were only half a dozen mutants left.}
-{180}{}{That sounds great. Well, I will see you around.}
-{181}{}{The rest of them are gone now. Set is doing fine.}
-{182}{}{That is good news indeed to hear. I am overjoyed to hear the destruction of one evil and a town set free. Please, take this.}
-{183}{}{Sarcasm and slights shall not deter me my benevolent disposition. The time has come for you to depart. Good day.}
-{184}{}{My Vault had no name. It was merely numbered 13.}
-{185}{}{That is where I am from!}
-{186}{}{Never heard of the place.}
-{187}{}{Thanks for the info. Now I'm going to tell those Mutants about it.}
-{188}{}{Really? Has the Overseer finally seen his way through to allow people to travel outside the Vault?}
-{189}{}{No, he is still scared of the outside world.}
-{190}{}{No, he fears for the safety of the dwellers.}
-{191}{}{Yes, he thinks everything is safe.}
-{192}{}{I believed as such. He always was a cautious man. I pity him his responsibility. May you fare better than myself on this fool's quest.}
-{193}{}{I am glad to hear that he has come to his senses to allow the people out. While it is far from safe out here, it will do good to restore the earth once more. Farewell, my friend.}
-{194}{}{I doubt you would have, coming from the outside world. Now, I must retire. Please be careful out there with those creatures who seek to destroy.}
-{195}{}{Nay, I doubt you would be able to do as such.}
-{196}{}{Try and stop me.}
-{197}{}{Why do you say that?}
-{198}{}{Because I will stop you.}
-{199}{}{I know very little. The only things I know are that our scouts are the only ones who ever go over to the Children to spy on them. No one else is allowed because of the danger.}
-{200}{}{Then it might be a scout. I will look into that.}
-{201}{}{I think that it is you. Now die!}
-{202}{}{I wish you would have been of greater intellect. No matter, I shall dispense with you shortly.}
-{203}{}{All I know of the Children is that they are in league with the Nightkin, a nasty kind of Super Mutants.}
-{204}{}{It is they who transformed me from my original state of being in Necropolis.}
-{205}{}{That's awful. But, tough luck. See you around.}
-{206}{}{Why were you in Necropolis?}
-{207}{}{Where were you from originally?}
-{208}{}{And now I will transform you once more. Rest in pieces.}
-{209}{}{Though I am different in appearance, I have much knowledge to impart upon those who will listen.}
-{210}{}{I have no time for this, I'm leaving.}
-{211}{}{What can you tell me?}
-{212}{}{Those whom the Followers and Children call Nightkin are not what they seem. They have been created by one called the Lieutenant. I believe he may follow another.}
-{213}{}{Some information. Well, I will be off.}
-{214}{}{What can you tell me about this Lieutenant?}
-{215}{}{There isn't much that I know about him. Last I saw him, before my untimely transformation, he was searching for pure humans.}
-{216}{}{I will think on this for a while. Thank you.}
-{217}{}{Can you hazard a hypothesis as to why this may be so?}
-{218}{}{As yet, I am uncertain. Perhaps another group which seeks to disrupt their ways would know.}
-{219}{}{Thank you. Good day.}
-{220}{}{I regret that I cannot tolerate insolence. Be gone.}
-{221}{}{My entrance into the Followers was quite simple really. It was the Followers who rescued me from the full effects of the transformation into a heinous beast.}
-{222}{}{I do not fully understand. Please, go on.}
-{223}{}{Once, I was as you are now - a pure human. But, through the intervention of Nightkin, I was taken to some place far removed from here.}
-{224}{}{Please, continue.}
-{225}{}{I was not of a state in which to observe what transpired. All I had known was that I awoke here and was tended by the good doctor.}
-{226}{}{I am truly sorry to hear of your predicament. I will find those who did this to you and remedy the situation.}
-{227}{}{I am sorry to hear of that. Alas, I am quite busy attempting to survive. Farewell.}
-{228}{}{Please, dispense justice upon the defiler who seeks to undermine the trust of the Followers.}
-{229}{}{Excellent job on removing from our midst that dissembler, Heather.}
-{230}{}{You see a hideous ghoul.}
-{231}{}{Somehow, he reminds you of someone.}
-{232}{}{Alas, I have no more time to spare on you. Good day.}
+{108}{}{Je m'appelle }
+{109}{}{. Que fais-tu ici ?}
+{110}{}{Tu peux mourir !}
+{111}{}{Ne t'en fais pas pour moi, Mutant ! Comment as-tu fait pour entrer ici ?}
+{112}{}{Salut. On m'appelle }
+{113}{}{. Pourquoi as-tu décidé de venir dans le royaume des Disciples ?}
+{114}{}{Peux-tu m'expliquer comment une de tes altérations est entrée dans les Disciples ?}
+{115}{}{Je vois que tu n'as pas l'esprit très vif. Moi aussi, j'avais ton intelligence autrefois. Mais, grâce aux enseignements des Disciples, j'ai réussi à transcender mes défauts.}
+{116}{}{Je ne sais pas.}
+{117}{}{Trop intelligent. Maintenant, tu vas mourir.}
+{118}{}{Excuse-moi. Je me laisse aller par moments. Voudrais-tu d'une aide intellectuelle ?}
+{119}{}{Ouais. Toi !}
+{120}{}{Hé ! Hé !}
+{121}{}{Tiens. Prends ces jolies pilules. Elles stimuleront ton intelligence.}
+{122}{}{Oui, }
+{123}{}{. Tu me fais plaisir. Comment puis-je t'aider ?}
+{124}{}{Quoi ?}
+{125}{}{Cerveau fait mal. Moi tuer toi. Prendre cerveau.}
+{126}{}{Je suis là pour aider ces gentilles personnes à comprendre les rouages des Enfants de la Cathédrale.}
+{127}{}{Alors, tu espionnes pour le compte des Enfants ?}
+{128}{}{Que peux-tu savoir sur les Enfants ?}
+{129}{}{De quoi es-tu capable ? Tu es un mutant.}
+{130}{}{Non, je ne suis pas un espion. Même si beaucoup le croient. Il y a un espion dans notre humble demeure. Mais nous n'avons pas encore réussi à le surprendre.}
+{131}{}{Alors, comment aides-tu les Disciples ?}
+{132}{}{Dis-moi ce que tu sais sur cet espion. Je pourrai peut-être t'aider.}
+{133}{}{Pas de bol, Mutant !}
+{134}{}{Je crois que j'ai trouvé l'espion. Finis les problèmes !}
+{135}{}{Autrefois, j'étais comme toi. Mais, après l'arrivée des Ténébreux à Nécropolis, voilà ce que je suis devenu.}
+{136}{}{C'est terrible. Pas de bol. A bientôt.}
+{137}{}{Pourquoi étais-tu à Nécropolis ?}
+{138}{}{D'où viens-tu ?}
+{139}{}{Et maintenant, je vais à nouveau te transformer. Repose en paix.}
+{140}{}{Il y a quelques temps, je vivais dans un endroit situé très loin au Nord d'ici. Ils avaient un problème avec l'approvisionnement d'eau et ils cherchaient des gens pour le résoudre.}
+{141}{}{Alors, tu as voulu te porter volontaire.}
+{142}{}{Où se trouvait cet endroit ?}
+{143}{}{As-tu trouvé une solution à ce problème ?}
+{144}{}{Mais pourquoi Nécropolis ?}
+{145}{}{Oui. Le dirigeant de la communauté m'a donné un fusil et des munitions. Mais je les ai perdus et les années ont passé. Et comme je n'ai rien trouvé, je n'ai jamais pu rentrer.}
+{146}{}{C'est vraiment terrible. J'aimerais pouvoir faire quelque chose.}
+{147}{}{Dommage. Je dois partir.}
+{148}{}{Où se trouvait cet endroit ?}
+{149}{}{As-tu trouvé une solution à ce problème d'eau ?}
+{150}{}{Pourquoi es-tu allé à Nécropolis ?}
+{151}{}{Il y a une chose que tu peux faire pour moi. Celui qui m'a fait ça doit être arrêté.}
+{152}{}{Qui est-ce ?}
+{153}{}{Leur chef est le responsable d'une armée de mutants. Il enlève des humains de pure souche pour les transformer. Je n'en sais pas plus parce que j'ai perdu connaissance avant le processus.}
+{154}{}{Alors, je les tuerai pour toi.}
+{155}{}{Cela me paraît trop risqué. Je m'en vais.}
+{156}{}{Je te remercie de ta gentillesse. Tu me rends un grand service. S'il te plaît, accepte ceci en témoignage de ma reconnaissance. Je l'ai volé sur le cadavre d'un renégat décédé.}
+{157}{}{Alors, que la paix soit avec toi. Je peux comprendre ton malaise. Peut-être que quelqu'un d'autre viendra m'aider à éradiquer cette menace. Bonne journée.}
+{158}{}{L'endroit dont je suis originaire se trouvait dans les montagnes, très loin au Nord. C'était un petit abri où vivaient beaucoup de gens.}
+{159}{}{As-tu trouvé une solution à ce problème d'eau ?}
+{160}{}{Pourquoi es-tu allé à Nécropolis ?}
+{161}{}{Quel était le nom de cet Abri ?}
+{162}{}{Ca me semble intéressant. Je vais y aller.}
+{163}{}{Hélas, jamais. J'ai entendu dire que d'autres avaient été envoyés par l'abri pour rechercher un moyen de réparer la pompe à eau.}
+{164}{}{Je n'ai rien su d'autre à leur sujet.}
+{165}{}{Pourquoi es-tu allé à Nécropolis ?}
+{166}{}{Quel était le nom de cet Abri ?}
+{167}{}{Ca me semble intéressant. Je vais y aller.}
+{168}{}{J'ai entendu les autres voyageurs dire que Nécropolis avait un moyen de produire de l'eau très facilement.}
+{169}{}{Alors, j'y ai été pour voir comment ils s'y prenaient.}
+{170}{}{Qu'as-tu trouvé ?}
+{171}{}{Les as-tu tués ?}
+{172}{}{Tu te sens chez toi là ?}
+{173}{}{Là-bas, j'ai découvert un grand nombre de Mutants. Ce sont eux qui m'ont piégé et donné ma forme actuelle.}
+{174}{}{Apparemment, ils ont fait une erreur, car j'ai évolué différemment des autres.}
+{175}{}{Trop dur. A bientôt.}
+{176}{}{Je tâcherai de me méfier d'eux. Merci du renseignement.}
+{177}{}{Qui est leur chef ?}
+{178}{}{Non. Je n'ai tué que quelques mutants. Il y en avait un autre, un Goule, appelé Set, qui m'a aidé à anéantir la plupart d'entre eux.}
+{179}{}{D'après ce que je sais, il n'est resté qu'une demi-douzaine de mutants.}
+{180}{}{Ca a l'air intéressant. Eh bien, à plus tard.}
+{181}{}{Les autres sont partis maintenant. Et Set va bien.}
+{182}{}{C'est une bonne nouvelle. Ca me fait très plaisir d'apprendre que le mal a été détruit et qu'une ville a été libérée. Prends ça, s'il te plaît.}
+{183}{}{Les sarcasmes et le manque de considération ne m'empêcheront pas de tenter de faire le bien. Il est temps que tu partes. Bonne journée.}
+{184}{}{Mon abri n'avait pas de nom. Il portait simplement le numéro 13.}
+{185}{}{C'est de là que je viens.}
+{186}{}{Jamais entendu parler de cet endroit.}
+{187}{}{Merci du renseignement. Maintenant, je vais aller en parler à ces Mutants.}
+{188}{}{Vraiment ? Le Dirigeant a-t-il finalement trouvé une solution pour permettre aux gens de quitter l'Abri ?}
+{189}{}{Non, il continue à avoir peur du monde extérieur.}
+{190}{}{Non, il craint pour la sécurité des habitants.}
+{191}{}{Oui, il pense qu'il n'y a pas de danger.}
+{192}{}{C'est ce que je croyais. Il a toujours été très prudent. Je le plains d'avoir tant de responsabilités. Je te souhaite de mieux t'en sortir que moi au cours de cette quête.}
+{193}{}{Ca me fait plaisir d'apprendre qu'il a enfin écouté sa raison et qu'il leur a permis de partir. Même si la vie à l'extérieur est loin d'être facile, ce sera une bonne chose de rebâtir le monde. Adieu, camarade.}
+{194}{}{Venant du monde extérieur, je doute que tu l'aurais fait. Maintenant, je dois me retirer. S'il te plaît, fais attention à ces créatures avides de destruction.}
+{195}{}{Non, je doute que tu aies été capable d'en faire autant.}
+{196}{}{Essaie de m'arrêter.}
+{197}{}{Pourquoi dis-tu ça ?}
+{198}{}{Parce que je vais t'arrêter.}
+{199}{}{Je ne sais pas grand-chose. Tout ce que je sais, c'est que nos éclaireurs sont les seuls à avoir jamais infiltré les Enfants pour les espionner. Personne d'autre ne peut y aller en raison du danger.}
+{200}{}{Alors, c'est peut-être un éclaireur. Je vais chercher dans cette direction.}
+{201}{}{Je crois que c'est toi. Maintenant, tu vas mourir !}
+{202}{}{J'aurais aimé que tu aies une intelligence plus développée. Tant pis, je vais vite me débarrasser de toi.}
+{203}{}{Tout ce que je sais sur les Enfants, c'est qu'ils sont de mèche avec ces super mutants appelés les Ténébreux.}
+{204}{}{Ce sont eux qui m'ont transformé, à Nécropolis.}
+{205}{}{C'est terrible. Pas de bol. A bientôt.}
+{206}{}{Pourquoi étais-tu à Nécropolis ?}
+{207}{}{D'où viens-tu ?}
+{208}{}{Et maintenant, je vais à nouveau te transformer. Repose en paix.}
+{209}{}{Même si mon apparence est différente, j'ai beaucoup de connaissances à transmettre à ceux qui voudront bien m'écouter.}
+{210}{}{Je n'ai pas de temps pour ça, je m'en vais.}
+{211}{}{Que peux-tu me dire ?}
+{212}{}{Ceux que les Disciples et les Enfants appellent les Ténébreux ne sont pas ce qu'ils paraissent. Ils ont été créés par un individu appelé le Lieutenant. Et je pense qu'il obéit lui-même aux ordres de quelqu'un d'autre.}
+{213}{}{Quelques informations. Bon, je m'en vais.}
+{214}{}{Que peux-tu me dire sur ce Lieutenant ?}
+{215}{}{Je ne sais pas grand-chose sur lui. La dernière fois que je l'ai vu, avant ma transformation prématurée, il recherchait des humains de pure souche.}
+{216}{}{Je vais y réfléchir un moment. Merci.}
+{217}{}{Peux-tu émettre une hypothèse pour expliquer tout ceci ?}
+{218}{}{Pour l'instant, je n'ai aucune certitude. Peut-être qu'un autre groupe cherchant à les arrêter le saurait.}
+{219}{}{Merci. Bonne journée.}
+{220}{}{Je regrette, mais je ne peux pas tolérer une telle insolence. Va t'en.}
+{221}{}{Je n'ai pas eu de mal à entrer chez les Disciples, je t'assure. Ce sont les Disciples qui m'ont sauvé et empêché ma transformation en bête atroce.}
+{222}{}{Je ne comprends pas tout. Continue, s'il te plaît.}
+{223}{}{Autrefois, j'étais comme toi : un humain de pure souche. Mais, à cause de l'intervention des Ténébreux, j'ai été envoyé dans un endroit très loin d'ici.}
+{224}{}{Continue, s'il te plaît.}
+{225}{}{Je n'étais pas en état d'observer ce qui se passait. Tout ce que je sais, c'est que je me suis réveillé ici et que j'ai été soigné par le bon médecin.}
+{226}{}{Ca me fait beaucoup de peine d'entendre tous tes malheurs. Je trouverai ceux qui t'ont fait ça et je ferai ce qu'il faut.}
+{227}{}{Ca me fait de la peine pour toi. Hélas, j'ai déjà assez de mal à tenter de survivre. Adieu.}
+{228}{}{S'il te plaît, rends la justice et arrête celui qui cherche à ruiner la confiance des Disciples.}
+{229}{}{Excellent travail, merci d'avoir anéanti l'espion, Heather.}
+{230}{}{Voici un abominable Goule.}
+{231}{}{Pourtant, il te rappelle quelqu'un.}
+{232}{}{Hélas, je n'ai plus de temps à perdre avec toi. Bonne journée.}

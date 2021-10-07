@@ -1,142 +1,142 @@
-{100}{}{Hello, what can I do for you?}
-{101}{}{Who are you?}
-{102}{}{Are you the leader of this gang?}
-{103}{}{Never mind.}
-{104}{}{A... Wha?}
-{105}{}{Razor's the name. I'm the closest thing we have to a leader.}
-{106}{}{So you are the leader of this gang?}
-{107}{}{What's the story with the fenced-off area to the south?}
-{108}{}{Good to meet you. I'm }
-{109}{}{Good to meet you, but I must be going. Bye.}
-{110}{}{Gang? We're hardly a gang. But I am the leader here.}
-{111}{}{If you're not a gang, then what are you?}
-{112}{}{Well, you look like a gang to me.}
-{113}{}{Goodbye.}
-{114}{}{That's Adytum. It's a slave labor camp run by a group called the Regulators, but they tell everyone it's a 'town'. They come here and take our people to work them until they die. Then they come and take more of us.}
-{115}{}{Can't you go in there and free your people?}
-{116}{}{Then what am I talking to you for? Those are the guys I need to hook up with.}
-{117}{}{I'm going to go find out what I can about Adytum. Goodbye.}
-{118}{}{So. What brought you to this corner of the wastes?}
-{119}{}{I'm looking for a Water Chip. Do you know where I can find one?}
-{120}{}{I'm just walking the earth.}
-{121}{}{Just lookin' around. Bye.}
-{122}{}{We are just people tryin' to survive. Adytum put us in this position. They keep us down and use our friends and families like animals. We don't even have a way to defend ourselves.}
-{123}{}{Why don't you fight them?}
-{124}{}{Defend yourselves from whom?}
-{125}{}{Well, the people of Adytum are stronger and smarter than you, it's their right to exploit the weak.}
-{126}{}{I'm going to go look around to see what I can find out. Bye.}
-{127}{}{I wish we were a gang. At least then we'd have decent weapons to defend ourselves with.}
-{128}{}{Defend yourselves from whom?}
-{129}{}{Well, you're not foolin' me. You're all just a bunch of degenerates and I think you're up to no good.}
-{130}{}{You all look a lot like a gang to me.}
-{131}{}{Well, I can't help you with that.}
-{132}{}{What's with the fenced-off area to the south?}
-{133}{}{Are you the leader of this gang?}
-{134}{}{We need better weapons. The Gun Runners, a little ways from here, have weapons, but we can't get to them.}
-{135}{}{Why can't you?}
-{136}{}{I'm going to go find out what I can about the situation.}
-{137}{}{The Regulators. They are the ones that really run Adytum. Not Zimmerman. They come here and drag our people back to Adytum as slaves. They kill us when we try to fight them off. Sometimes they just come and kill a couple of us to bring to Zimmerman, so they can say we tried to break into their town, or some other ridiculous story. Those sons of bitches even killed Zimmerman's son!}
-{138}{}{Zimmerman's son? Why would they want to kill him?}
-{139}{}{You're saying that you've never done anything against Adytum?}
-{140}{}{There's a Deathclaw nest between us and them. We have never even spoken with any of the Gun Runners. The Regulators have the fire power to clear out the Deathclaws, but they don't for some reason.}
-{141}{}{Where can I find the Gun Runners?}
-{142}{}{Okay. Goodbye.}
-{143}{}{Josh lived here with me... uh... I...I mean us. He knew the truth behind what was going on. The Regulators told him if he ever tried to contact his father or return to Adytum they would kill him.}
-{144}{}{They killed him? What did he do?}
-{145}{}{I'm going to Adytum to check this out.}
-{146}{}{Late one night he tried to sneak into town to tell his father what was really going on. I was monitoring the Regulators radio transmissions the night that... they... he got... caught. (She looks down and shakes her head slowly.) Here, it's all on this holodisk.}
-{147}{}{Why haven't you given this to Josh's Father?}
-{148}{}{It's not like any of us can even get close to Adytum. We'd be shot dead before we even reached the gates.}
-{149}{}{Why don't I give him the disk?}
-{150}{}{Why don't you get a large group together and take Adytum by force?}
-{151}{}{You would risk your life to help us?}
-{152}{}{Sure. Anything to help.}
-{153}{}{I might. I need to go check things out before I do anything.}
-{154}{}{Thank you. This really could help us. Good luck. (She hands you the holodisk.)}
-{155}{}{See you later.}
-{156}{}{Very well. I hope you make the right decision.}
-{157}{}{Goodbye.}
-{158}{}{The Gun Runners are over to the east and then north of here. But be careful - Deathclaws are not to be taken lightly. I've seen a Deathclaw tear a man in half with one swipe.}
-{159}{}{I'm going to go see what I can find out.}
-{160}{}{I'm sorry you feel that way. I think it would be best if you leave.}
-{161}{}{Bye.}
-{162}{}{Can I help you?}
-{163}{}{Are you the leader of this gang?}
-{164}{}{Never mind.}
-{165}{}{A... Wha?}
-{166}{}{Gang? We're hardly a gang. But I am the one they all come to for direction.}
-{167}{}{Zimmerman sent me.}
-{168}{}{Well, you look like a gang to me.}
-{169}{}{Goodbye.}
-{170}{}{(She begins to look nervous.) What? Did he...}
-{171}{}{To put a bullet in your head.}
-{172}{}{To pay you back for killing his son.}
-{173}{}{WHAT?! THOSE FUCKING, PIECE OF SHIT, BASTARDS! I'LL KILL THEM, I'LL SEND THEM ALL TO HELL!!}
-{174}{}{No, you're the one that's going to hell.}
-{175}{}{Uh... who are you going to send to hell?}
-{176}{}{The Regulators. They were the ones that killed Josh! I never would do any thing to hurt Josh. It's the Regulators who are running Adytum, not Zimmerman.}
-{177}{}{This is a pathetic attempt to talk your way out of this.}
-{178}{}{Why would the Regulators kill Zimmerman's son?}
-{179}{}{Josh lived here with me... uh... I... I mean us. He knew the truth behind what was going on. The Regulators told him that if he ever tried to contact his father or return to Adytum they would kill him. They laughed at him... they were so sure he couldn't get to his father...}
-{180}{}{They killed him? What did he do?}
-{181}{}{How's our plan coming along?}
-{182}{}{I'm still trying to get everything worked out.}
-{183}{}{Uh... Wha?}
-{184}{}{I'm not so sure it would help without the threat of violence to back it up. What we really need are some weapons from the Gun Runners.}
-{185}{}{Well, where are these Gun Runners? Why don't you get some weapons from them?}
-{186}{}{Oh, well, I offered. Goodbye.}
-{187}{}{They're a little to the east of here, but there's a Deathclaw nest between us and them. We have never even spoken with any of the Gun Runners.}
-{188}{}{Okay, give me the holodisk, and I'll go talk to the Gun Runners before I approach Zimmerman.}
-{189}{}{I hope that you can find a way to help us. Goodbye.}
-{190}{}{What's wrong?}
-{191}{}{They killed Zimmerman!}
-{192}{}{Uh... What?}
-{193}{}{...Now we have no choice but to get those weapons from the Gun Runners. Will you help us?}
-{194}{}{Yes.}
-{195}{}{No.}
-{196}{}{Thank you. May the Gods be with you on your journey.}
-{197}{}{Thank you for all your help. We're going to invade Adytum; we could really use someone like you on our side.}
-{198}{}{No thanks, I've seen enough action this week.}
-{199}{}{Sure, I'd be glad to take the Regulators down.}
-{200}{}{Uh... Wha?}
-{201}{}{I'd like to talk to Zimmerman first.}
-{202}{}{Well, thanks again for you help. Goodbye.}
-{203}{}{Great. Let's go.}
-{204}{}{I don't think that's a good idea, but you're welcome to try.}
-{205}{}{With the Gun Runners gone we will never have the chance to arm ourselves. Get outta here! You're not welcome anymore.}
-{206}{}{I'm sorry.}
-{207}{}{Go stuff it.}
-{208}{}{I'm going to go talk to Zimmerman and give him this holodisk. Everything is going to be okay.}
-{209}{}{You know what? I'm going to kill you.}
-{210}{}{Uhh... Whuh?}
-{211}{}{Go ahead. It's your funeral. Without those guns we have nothing to back us up.}
-{212}{}{Go away!}
-{213}{}{You're not welcome here.}
-{214}{}{Get lost.}
-{215}{}{Thank you.}
-{216}{}{My people are free.}
-{217}{}{Hello.}
-{218}{}{What happened to you? Did someone shoot you in the head?}
-{219}{}{Hunh?}
-{220}{}{You see: Razor, leader of the Blades.}
-{221}{}{You see a very beautiful woman with a sad look in her eyes.}
-{222}{}{Please go away. I'm very busy.}
-{223}{}{Thank you for helping us with the Regulators. Please feel free to stay as long as you want. You might want to check in with Miles and Smitty, they may be able to help you with your further travels.}
-{224}{}{Hi, can I help you?}
-{225}{}{Who are you?}
-{226}{}{Hootzpah!}
-{227}{}{The name is Razor, I am the leader of the people you see here. We live here at the whim of the Regulators of Adytum.}
-{228}{}{Regulators? I've taken care of all of them. Is that a problem?}
-{229}{}{You've killed them all? That's not a problem at all. My people can now live free lives with the people of Adytum.}
-{230}{}{I can't believe it. You were able to kill them all. The Blades and I thank you.}
-{231}{}{I have heard that the Regulators still control Adytum. Are you not able to kill them all like you had hoped?}
-{232}{}{Don't worry, I'll take care of it.}
-{233}{}{I don't think I can, actually.}
-{234}{}{We would go with you, but without weapons the Regulators would kill us all. There might be another way. (She ponders for a moment.) If you could get the Gun Runners to supply us with weapons then a number of us could go with you.}
-{235}{}{Sounds good. I'll go talk to them.}
-{236}{}{I'll try to take the Regulators out by myself again.}
-{237}{}{Hello again. I've heard that you have been playing with the Regulators. I wanted to thank you for getting rid of them. My people will be able to live with the people of Adytum in freedom now. Talk to Beca (Jade), she's got something to tell you.}
-{238}{}{I'll just take care of the Regulators myself.}
-{239}{}{You will? Well if you need help or manage to succeed, come back and talk to me.}
-{240}{}{You bastard! }
-{241}{}{You bitch! }
+{100}{}{Bonjour, en quoi je peux t'aider ?}
+{101}{}{Qui es-tu ?}
+{102}{}{Es-tu le chef de ce gang ?}
+{103}{}{Qu'importe.}
+{104}{}{Un... quoi ?}
+{105}{}{On m'appelle Razor... Je suis ce qu'on pourrait appeler le chef.}
+{106}{}{Alors, t'es le chef de ce gang ?}
+{107}{}{Qu'est-ce que c'est que cette histoire de Secteur clos au Sud ?}
+{108}{}{Un vrai plaisir de te rencontrer ! Je m'appelle }
+{109}{}{Un vrai plaisir de te rencontrer ! Mais faut que j'y aille.}
+{110}{}{Un gang ? Pas vraiment, non. Mais c'est moi le chef ici.}
+{111}{}{Si vous êtes pas un gang, alors vous êtes quoi ?}
+{112}{}{Oh, pour moi, vous avez tout d'un gang.}
+{113}{}{Au revoir.}
+{114}{}{C'est le Sanctuaire. Un camp d'esclaves dirigé par une bande appelée les Régulateurs... mais ils disent partout que c'est une "ville". Ils n'arrêtent pas de venir ici pour emmener les nôtres et les faire mourir à la tâche.}
+{115}{}{Vous pouvez pas y faire une descente pour libérer les vôtres ?}
+{116}{}{Mais, je sais pas pourquoi je te parle ! C'est avec ces mecs que je dois m'associer.}
+{117}{}{Je vais voir ce que je peux apprendre sur le Sanctuaire. Salut.}
+{118}{}{Alors, que viens-tu faire dans ce coin du désert ?}
+{119}{}{Je cherche une Puce d'eau. Tu sais où je peux en trouver ?}
+{120}{}{Je parcours le monde.}
+{121}{}{J'admire le paysage. Salut.}
+{122}{}{On essaie seulement de survivre. Le Sanctuaire nous a mis dans cette position. Ils nous dominent et nous traitent comme des bêtes. Et même pas moyen de nous défendre.}
+{123}{}{Pourquoi vous luttez pas contre eux ?}
+{124}{}{Vous défendre contre qui ?}
+{125}{}{Oh, les gens du Sanctuaire sont plus forts et plus intelligents que vous; c'est leur droit d'exploiter les faibles.}
+{126}{}{Je vais voir aux alentours ce que je peux découvrir. Salut.}
+{127}{}{Ah, si seulement on était un gang ! Au moins, on aurait des armes convenables pour se défendre.}
+{128}{}{Vous défendre contre qui ?}
+{129}{}{Ouais, je suis pas dupe ! Vous êtes juste une bande de dégénérés, prêts à faire le mal.}
+{130}{}{Pour moi, vous avez tout d'un gang.}
+{131}{}{Ah, là-dessus, je peux pas t'aider.}
+{132}{}{Qu'est-ce que c'est que cette histoire de Secteur clos au Sud ?}
+{133}{}{Es-tu le chef de ce gang ?}
+{134}{}{Il nous faut de meilleures armes. Les Contrebandiers, pas très loin d'ici, ont des armes, mais impossible d'en avoir.}
+{135}{}{Pourquoi ?}
+{136}{}{Je vais voir si je peux apprendre quelque chose.}
+{137}{}{Les Régulateurs. C'est eux en fait qui dirigent le Sanctuaire. Pas Zimmerman. Ils viennent ici et emmènent les nôtres au Sanctuaire comme esclaves. Ils nous tuent quand on essaie de les repousser. Parfois, ils viennent juste pour tuer quelques-uns d'entre nous et les rapporter à Zimmerman; comme ça, ils peuvent dire qu'on a tenté de pénétrer dans leur ville, ou je ne sais quelle imbécillité. Ces salauds ont même tué le fils de Zimmerman !}
+{138}{}{Le fils de Zimmerman ? Et pourquoi ça ?}
+{139}{}{Tu dis que vous n'avez jamais rien fait contre le Sanctuaire ?}
+{140}{}{Il y a un nid de Griffemorts entre eux et nous. On n'a même jamais parlé aux Contrebandiers. Les Régulateurs ont les moyens d'éliminer les Griffemorts, mais je ne sais pas pourquoi, ils ne font rien.}
+{141}{}{Où je peux trouver les Contrebandiers ?}
+{142}{}{D'accord. Salut.}
+{143}{}{Josh habitait ici avec moi... et... enfin... je veux dire avec nous. Il savait ce qui se tramait derrière tout ça. Les Régulateurs l'ont menacé: si jamais il essayait de contacter son père ou de retourner au Sanctuaire, ils le tueraient.}
+{144}{}{Ils l'ont tué ? Qu'avait-il fait ?}
+{145}{}{Je vais au Sanctuaire pour éclaircir tout ça.}
+{146}{}{Tard un soir, il a essayé de s'introduire dans la ville pour dire à son père ce qui se passait vraiment. Je contrôlais les transmissions par radio des Régulateurs le soir où ils ont... il a été... pris. [Elle baisse les yeux et secoue lentement la tête.] Tiens, tout est sur ce holodisque.}
+{147}{}{Pourquoi t'as pas donné ça au père de Josh ?}
+{148}{}{Tu crois donc qu'on peut s'approcher du Sanctuaire ? On se ferait tirer comme des lapins avant d'atteindre les portes.}
+{149}{}{Et si moi je lui donnais ce disque ?}
+{150}{}{Pourquoi tu réunis pas une foule pour prendre le Sanctuaire de force ?}
+{151}{}{Tu risquerais ta vie pour nous aider ?}
+{152}{}{Bien sûr. Demande-moi ce que tu veux.}
+{153}{}{Peut-être. Il faut d'abord que j'aille vérifier quelques trucs.}
+{154}{}{Merci. Ca pourrait vraiment nous aider. Bonne chance. [Elle te tend le holodisque.]}
+{155}{}{A plus tard.}
+{156}{}{Très bien. J'espère que t'as pris la bonne décision.}
+{157}{}{Au revoir.}
+{158}{}{Les Contrebandiers sont au Nord-Est d'ici. Mais sois prudent; il ne faut pas prendre les Griffemorts à la légère. J'en ai vu un couper un homme en deux d'un seul coup.}
+{159}{}{Je vais voir ce que je peux découvrir.}
+{160}{}{Je regrette que tu le prennes comme ça. Mieux vaut que tu partes.}
+{161}{}{Ciao.}
+{162}{}{Je peux t'aider ?}
+{163}{}{Es-tu le chef de ce gang ?}
+{164}{}{Qu'importe.}
+{165}{}{Un... quoi ?}
+{166}{}{Un gang ? Pas vraiment, non. Mais c'est à moi qu'on vient demander quoi faire.}
+{167}{}{Zimmerman m'envoie.}
+{168}{}{Oh, pour moi, vous avez tout d'un gang.}
+{169}{}{Au revoir.}
+{170}{}{[L'air un peu nerveux] Quoi ? Est-ce qu'il...}
+{171}{}{... veut te loger une balle dans la tête.}
+{172}{}{... veut te faire payer d'avoir tué son fils.}
+{173}{}{QUOI !!! TOUS CES FILS DE PUTE ! JE LES TUERAI, JE LES ENVERRAI TOUS EN ENFER !!}
+{174}{}{Non, c'est toi qui va aller en enfer.}
+{175}{}{Euh... qui tu vas envoyer en enfer ?}
+{176}{}{...les Régulateurs. C'est eux qui ont tué Josh ! Jamais j'aurais touché à un cheveu de Josh. C'est les Régulateurs qui dirigent le Sanctuaire, pas Zimmerman.}
+{177}{}{Si tu crois que tu vas t'en tirer avec des accusations !}
+{178}{}{Pourquoi les Régulateurs iraient-ils tuer le fils de Zimmerman ?}
+{179}{}{Josh habitait ici avec moi... et... enfin... je veux dire avec nous. Il savait ce qui se tramait derrière tout ça. Les Régulateurs l'ont menacé: si jamais il essayait de contacter son père ou de retourner au Sanctuaire, ils le tueraient. Ils se moquaient de lui... Ils étaient tellement sûrs qu'il ne pouvait pas rejoindre son père...}
+{180}{}{Ils l'ont tué ? Qu'avait-il fait ?}
+{181}{}{Comment se déroule notre plan ?}
+{182}{}{J'essaie encore de tout mettre au point.}
+{183}{}{Un... quoi ?}
+{184}{}{Je ne sais pas si ça marcherait sans une menace de violence. Ce qu'il faut, c'est que les Contrebandiers nous passent des armes.}
+{185}{}{Bon, où sont ces Contrebandiers ? Pourquoi vous leur demandez pas des armes ?}
+{186}{}{Oh, bon ! C'était une proposition. Salut.}
+{187}{}{Ils sont un peu à l'Est d'ici, mais il y a un nid de Griffemorts entre eux et nous. On leur a même jamais parlé à ces Contrebandiers.}
+{188}{}{D'accord, donne-moi le holodisque et je vais aller parler aux Contrebandiers avant d'approcher Zimmerman.}
+{189}{}{J'espère que tu vas trouver un moyen de nous aider. Au revoir.}
+{190}{}{Que se passe-t-il ?}
+{191}{}{Ils ont tué Zimmerman !}
+{192}{}{Un... quoi ?}
+{193}{}{Dans ce cas, il ne nous reste plus qu'à demander des armes aux Contrebandiers. Tu veux nous aider ?}
+{194}{}{Oui.}
+{195}{}{Non.}
+{196}{}{Merci. Que les dieux t'accompagnent dans ton voyage.}
+{197}{}{Merci de ton aide. Nous allons envahir le Sanctuaire, tu pourrais nous être très utile...}
+{198}{}{Non merci, la semaine a déjà été assez agitée.}
+{199}{}{Certainement, ce serait un plaisir de démolir ces Régulateurs.}
+{200}{}{Un... quoi ?}
+{201}{}{J'aimerais d'abord parler à Zimmerman.}
+{202}{}{Eh bien, encore merci de ton aide. Au revoir.}
+{203}{}{Super. Allons-y.}
+{204}{}{Ca ne me paraît pas une bonne idée, mais essaie toujours.}
+{205}{}{Espèce d'ordure ! Si les Contrebandiers sont partis, jamais on ne pourra s'armer. Fous le camp, tu n'as rien à faire ici.}
+{206}{}{Je regrette.}
+{207}{}{J't'emmerde.}
+{208}{}{Je vais parler à Zimmerman lui donner ce holodisque tout ira bien !}
+{209}{}{Tu sais quoi ? Je vais te tuer !}
+{210}{}{Un... quoi ?}
+{211}{}{Continue et ça va être tes obsèques ! Sans ces fusils, on est à leur merci.}
+{212}{}{Va-t'en !}
+{213}{}{Tu n'as rien à faire ici.}
+{214}{}{Va te faire foutre.}
+{215}{}{Merci.}
+{216}{}{Mon peuple est libre.}
+{217}{}{Bonjour.}
+{218}{}{Qu'est-ce que t'as à la tête ? Tu t'es fait tirer dessus ?}
+{219}{}{Heeiin ??}
+{220}{}{Voici Razor, chef des Ecorcheurs.}
+{221}{}{Tu vois une très belle femme au regard triste.}
+{222}{}{S'il te plaît, va-t'en. J'ai à faire.}
+{223}{}{Merci de ton aide pour les Régulateurs. Reste autant que tu veux. Pourquoi ne pas t'adresser à Miles et La Forge ? Ils peuvent peut-être t'aider pour tes prochains voyages.}
+{224}{}{Bonjour, je peux t'aider ?}
+{225}{}{Qui es-tu ?}
+{226}{}{Houplah !}
+{227}{}{On m'appelle Razor, je suis le chef de ce peuple. Nous vivons ici à la merci des Régulateurs du Sanctuaire.}
+{228}{}{Les Régulateurs ? Je leur ai tous réglé leur compte. Ca pose un problème ?}
+{229}{}{Tu les a tous tués ? Oh non, aucun problème. Mon peuple peut maintenant vivre librement avec les gens du Sanctuaire.}
+{230}{}{J'arrive pas à y croire ! Tu as pu tous les tuer ! Les Ecorcheurs et moi te remercions.}
+{231}{}{Il paraît que les Régulateurs contrôlent toujours le Sanctuaire. Tu ne peux donc pas les tuer tous comme tu l'espérais ?}
+{232}{}{Ne t'inquiète pas, j'en prendrai soin.}
+{233}{}{Je crois pas que je pourrai.}
+{234}{}{On irait bien avec toi, mais sans armes, les Régulateurs auraient vite fait de tous nous liquider. Une autre possibilité... [Razor réfléchit]. Si tu pouvais faire en sorte que les Contrebandiers nous fournissent des armes, alors certains d'entre nous pourraient t'accompagner.}
+{235}{}{Pas une mauvaise idée... J'irai leur parler.}
+{236}{}{Je vais bousiller les Régulateurs moi-même.}
+{237}{}{Te revoilà. J'ai entendu dire que tu en as fini avec les Régulateurs. Je voulais te remercier pour ce bon débarras. Mon peuple pourra enfin vivre en toute liberté avec les gens du Sanctuaire.}
+{238}{}{Je vais m'occuper moi-même des Régulateurs.}
+{239}{}{C'est vrai ? Bon, si t'as besoin d'aide ou si tu règles l'affaire, reviens me voir.}
+{240}{}{T'es qu'un batard !}
+{241}{}{T'es qu'une pétasse !}

@@ -1,12 +1,12 @@
-{100}{}{You see: Nightkin scout.}
-{101}{}{What have we here? A normal! I think you'll be coming with me.}
-{102}{}{Uh.}
-{103}{}{Okay.}
-{104}{}{And why should I?}
-{105}{}{Fat chance! (Attack.)}
-{106}{}{It's all quite simple: if you come with me, I'll help you.}
-{107}{}{Okay. Then I shall.}
-{108}{}{Just point me to your leader instead.}
-{109}{}{No way!}
-{110}{}{Sure thing. Look for Uthern; he'll set you straight.}
-{111}{}{Uthern wants to see you. Seems he's already heard of you.}
+{100}{}{Tu vois un éclaireur mutant.}
+{101}{}{Qu'est-ce que nous avons là ? Un normal ! Je pense que tu vas venir avec moi.}
+{102}{}{Euh...}
+{103}{}{D'accord.}
+{104}{}{Et pourquoi je devrais ?}
+{105}{}{Pas de chance ! [Attaque]}
+{106}{}{Tout est on ne peu plus simple: si tu viens avec moi, je t'aiderai.}
+{107}{}{Ok, je viens avec toi.}
+{108}{}{Indique-moi juste où est ton chef plutôt.}
+{109}{}{Ca ne risque pas !}
+{110}{}{Droit au but ! Va voir Uthern, il va te remettre les idées en place !}
+{111}{}{Uthern veux te voir. Il a entendu parlé de toi.}

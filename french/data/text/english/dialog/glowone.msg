@@ -1,6 +1,6 @@
-{100}{}{You see a glowing creature.}
-{101}{}{Mmmm...}
+{100}{}{Voici un Goule rayonnant.}
+{101}{}{Mm...}
 {102}{}{Ahhh...}
-{103}{}{The glowing ghoul mumbles something and is then silent. It is drooling uncontrollably.}
-{104}{}{You receive no response.}
-{105}{}{You see: Glowing One.}
+{103}{}{Le Goule rayonnant marmonne quelque chose puis se tait. Il bave de manière incontrôlable.}
+{104}{}{[Aucune réaction]}
+{105}{}{Tu vois : Goule rayonnant.}

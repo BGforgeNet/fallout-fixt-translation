@@ -1,23 +1,23 @@
-{100}{}{You see: Peter, leader of the Follower Scouts.}
-{101}{}{What are you doing around here? Can't you see we are busy?}
-{102}{}{Huh?}
-{103}{}{I am sorry. I will go now.}
-{104}{}{Can I help you with anything?}
-{105}{}{Who can I talk to about giving my assistance.}
-{106}{}{Great. I'm busy, and I get a moron tailing me. Go look for Jake if you need someone to talk to.}
-{107}{}{Sure. You can start by getting out of my way.}
-{108}{}{Certainly. Anything else?}
-{109}{}{There must be something more I can do.}
-{110}{}{Do not throw me to the side.}
-{111}{}{Yes. You can get out of here.}
-{112}{}{Fine. It doesn't look like I will get rid of you any other way. It seems that we are having a security problem. You want to help, you find the problem.}
-{113}{}{Okay. Will do.}
-{114}{}{Forget it!}
-{115}{}{Fine. Get out then!}
-{116}{}{Look, we have a breach in security. We need to find this breach and end it.}
-{117}{}{Okay. Will do.}
-{118}{}{Forget it!}
-{119}{}{Do I look like a guide. Go talk to Jake if you are looking for a guide.}
-{120}{}{Leave. I am trying to finish up a little work.}
-{121}{}{We need that spy gone. Hurry up!}
-{122}{}{Good job on taking out Heather. I should have known it was her. She always seemed to disappear in the raids. Here, take this and go.}
+{100}{}{Tu vois Peter, chef des scouts du gang des Disciples .}
+{101}{}{Que fais-tu dans les parages ? Tu ne vois pas que nous sommes occupés ?}
+{102}{}{Hein ?}
+{103}{}{Je suis désolé. Je vais y aller maintenant.}
+{104}{}{Puis-je t'aider en quoi que ce soit ?}
+{105}{}{A qui puis-je m'adresser pour apporter mon aide.}
+{106}{}{Super. Je suis occupé, et je me retrouve avec un naze qui vient me parler. Va chercher Jake si tu as besoin de parler à quelqu'un.}
+{107}{}{Bien sûr. Tu peux commencer par t'écarter de mon chemin.}
+{108}{}{Certainement. Autre chose ?}
+{109}{}{Il doit bien y avoir quelque chose de plus que je puisse faire.}
+{110}{}{Ne me met pas à l'écart de cette histoire.}
+{111}{}{Oui. Tu peux sortir d'ici.}
+{112}{}{Bon. On ne dirait pas que je ne vais pouvoir me débarrasser de toi facilement. Il semble que nous ayons un problème de sécurité. Tu veux aider, tu trouves le problème.}
+{113}{}{Ok. Je vais le faire.}
+{114}{}{Oublie ça !}
+{115}{}{Bien. Alors file d'ici !}
+{116}{}{Regarde, nous avons une faille dans la sécurité. Nous devons trouver cette brèche et y mettre fin.}
+{117}{}{Ok. Je vais le faire.}
+{118}{}{Oublie ça !}
+{119}{}{Ai-je l'air d'un guide ? Va parler à Jake si tu cherches un guide.}
+{120}{}{Laisse-moi. J'essaie actuellement de finir un petit travail.}
+{121}{}{Cet espion doit absolument disparaître. Dépêche toi !}
+{122}{}{Bon travail ! Tu as attrapé Heather. J'aurais dû savoir que c'était elle. Elle semblait toujours disparaître durant les raids. Tiens, prends ça et file.}

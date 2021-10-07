@@ -1,28 +1,28 @@
-{100}{}{Command, this is Guardhouse. All clear. Out.}
-{101}{}{Death to you!}
-{102}{}{Intruder!}
-{103}{}{Hu-man!}
-{104}{}{Halt. This restricted area. You no be here.}
-{105}{}{You had best be surrendering.}
-{106}{}{You stop. Me take to Lieutenant. Come peaceful or die.}
-{107}{}{Luggi!}
-{108}{}{Die, spawn from hell!}
-{109}{}{I've come to talk to your Master.}
-{110}{}{I'm a special mutant on a mission for your Master. Let me pass or face the consequences.}
-{111}{}{I'm with the Cathedral. Let me by.}
+{100}{}{Attention, ici la Maison des Gardes. Personne. Dehors !}
+{101}{}{Prêt à partir.}
+{102}{}{Une intrusion !}
+{103}{}{Un hu-main !}
+{104}{}{Halte. Secteur réservé. Toi, pas venir ici.}
+{105}{}{Tu ferais mieux de te rendre.}
+{106}{}{Toi arrêter. Moi t'emmener chez Lieutenant. Pas d'histoires sinon toi mourir.}
+{107}{}{Euh !}
+{108}{}{Crève, créature de l'enfer !}
+{109}{}{Je souhaite parler à ton Maître.}
+{110}{}{Je suis un mutant en mission pour le compte de ton Maître. Si tu me laisses pas passer, tu risques de le regretter.}
+{111}{}{Je suis avec la Cathédrale. Laisse-moi passer.}
 {112}{}{Die!}
-{113}{}{Have it your way.}
-{114}{}{Fine. To the death it is.}
-{115}{}{Good. Come with me, no laugh-type stuff.}
-{116}{}{Okay. Let's go.}
-{117}{}{Laugh-type stuff? But you're gonna look so funny when I box you up!}
-{118}{}{I do not believe you.}
-{119}{}{I don't think so.}
-{120}{}{No. You human. You die.}
-{121}{}{If you lie, me kill you.}
-{122}{}{Oh, okay. Move along.}
-{123}{}{Uh, fine. I guess. Maybe you better see Lieutenant.}
-{124}{}{You killed my brother. I will have my revenge!}
-{125}{}{Death to you!}
-{126}{}{Murderer!}
-{127}{}{Slayer!}
+{113}{}{Fais comme bon te semble.}
+{114}{}{Bien. Alors, à la mort.}
+{115}{}{Bon. Suis-moi, et pas de blague.}
+{116}{}{D'accord. Allons-y.}
+{117}{}{Pas de blague ? Mais t'auras l'air drôlement marrant quand je t'aurai boxé !}
+{118}{}{Je te crois pas.}
+{119}{}{Je ne crois pas.}
+{120}{}{Non. Toi humain. Toi mourir.}
+{121}{}{Si toi mentir, moi tuer toi.}
+{122}{}{Oh, d'accord. Avance.}
+{123}{}{Euh, bon. Peut-être mieux si toi voir Lieutenant.}
+{124}{}{T'as tué mon frère. Je me vengerai !}
+{125}{}{Prêt à partir.}
+{126}{}{Meurtrier !}
+{127}{}{Assassin !}

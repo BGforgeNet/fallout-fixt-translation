@@ -1,3 +1,3 @@
-{100}{}{You see a worn chair.}
-{101}{}{You see a worn chair.}
-{102}{}{The chair seems inviting. However, you must continue on your mission.}
+{100}{}{Tu vois une vieille chaise.}
+{101}{}{Tu vois une vieille chaise.}
+{102}{}{Elle te tend les bras ; mais il faut que tu poursuives ta mission.}

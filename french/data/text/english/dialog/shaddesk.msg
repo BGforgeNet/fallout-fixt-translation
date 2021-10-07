@@ -1,2 +1,2 @@
-{100}{}{You notice a desk cluttered with papers.}
-{101}{}{The papers detail reports on raider and radscorpion attacks, a list of Shady Sands' citizens, and farming information.}
+{100}{}{Tu remarques un bureau encombré de papiers.}
+{101}{}{Les documents contiennent des rapports détaillés sur les attaques des pillards et des radscorpions, une liste des citoyens des Sables Ombragés, et des informations sur l'agriculture.}

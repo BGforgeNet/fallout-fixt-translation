@@ -1,12 +1,12 @@
-{100}{}{Knight}
-{101}{}{I wonder what the old turbine engines were really like.}
-{102}{}{Boy, I wish we had an automobile.}
-{103}{}{Did you know that man has been on the moon? Or, at least, I think that's what they said.}
-{104}{}{Can you imagine what life would be like without technology? Well, I guess you've probably seen things pretty close to that.}
-{105}{}{I can't find the file I need.}
-{106}{}{I'll be a Paladin someday.}
-{107}{}{Talus is a skilled warrior. I would never want to have to go up against him.}
-{108}{}{Thomas is the best fighter in the Brotherhood. I bet he could kick Rhombus's butt.}
-{109}{}{I'd like to get my hands on those raiders. Show them what thieves deserve.}
-{110}{}{That's it... what? Oh, sorry. I can't talk right now.}
-{111}{}{I wonder what would happen if I... huh? Oh, you made me lose my train of thought.}
+{100}{}{Chevalier}
+{101}{}{Je me demande à quoi ressemblaient les vieux turbomoteurs.}
+{102}{}{Bon sang que j'aimerais qu'on ait une voiture.}
+{103}{}{Sais-tu que cet homme est allé sur la lune ? Du moins, c'est ce que j'ai cru comprendre.}
+{104}{}{Peux-tu imaginer à quoi ressemblerait la vie sans technologie ? Enfin, je pense que tu as déjà vu quelque chose de ce genre.}
+{105}{}{Je ne trouve pas le fichier dont j'ai besoin.}
+{106}{}{Un jour, je serai Paladin.}
+{107}{}{Talus est un excellent guerrier. Je n'aimerais pas devoir me mesurer à lui.}
+{108}{}{Thomas est le meilleur combattant de la Confrérie. Je parie qu'il pourrait mettre une raclée à Rhombus.}
+{109}{}{J'aimerais mettre la main sur ces pillards et leur montrer le sort que méritent les voleurs.}
+{110}{}{Ca y est... quoi ? Oh, excuse-moi. Je ne peux pas parler pour le moment.}
+{111}{}{Je me demande ce qui se passerait si je... euh ? Oh, tu m'a fait perdre le fil de mes idées.}

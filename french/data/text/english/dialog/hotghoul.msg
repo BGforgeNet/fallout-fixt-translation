@@ -1,19 +1,19 @@
-{100}{}{What do you want?}
-{101}{}{Leave me alone.}
-{102}{}{What?}
-{103}{}{Don't mess with my stuff.}
-{104}{}{Hi.}
-{105}{}{Arrrr!}
-{106}{}{Grrrrr!}
+{100}{}{Qu'est-ce que tu veux ?}
+{101}{}{Laisse-moi tranquille !}
+{102}{}{Quoi ?}
+{103}{}{Ne fous pas le bordel dans mes affaires.}
+{104}{}{Salut.}
+{105}{}{Arrrr !}
+{106}{}{Grrrrr !}
 {107}{}{Uungh.}
-{108}{}{Uhh.}
-{109}{}{Hey, did you hear that Set was offed?}
-{110}{}{Set's dead. Set's dead. Set's dead...}
-{111}{}{There's enough water to go around for everyone. Set makes sure of that.}
-{112}{}{I heard that the mutants got run out of town.}
-{113}{}{Ever since the mutants left, it's been better.}
-{114}{}{Hello.}
-{200}{}{You examine the pitiful thing, but cannot figure out what might have made it the way it is.}
-{201}{}{It seems to have been human once, or at least descended from humans. You guess that the deterioration in the body is most likely due to acid or radiation.}
-{202}{}{The body of the humanoid looks to be highly irradiated, but still functioning. While it was once human, it seems to have reverted to a more animalistic lifestyle.}
-{203}{}{The body of the humanoid looks to be highly irradiated, and much of the muscle and brain matter seem to have deteriorated. However, genetic indicators lead you to believe that it descended, like you, from those that entered the Vaults.}
+{108}{}{Euh.}
+{109}{}{Hé, as-tu entendu que Set est mort ?}
+{110}{}{Set est mort. Set est mort. Set est mort...}
+{111}{}{Il y a assez d'eau pour tout le monde. Set s'en assure.}
+{112}{}{J'ai entendu dire que les mutants ont fuis la ville.}
+{113}{}{Depuis que les mutants sont partis, tout s'arrange.}
+{114}{}{Bonjour.}
+{200}{}{Vous examinez la chose pitoyable, mais ne comprenez pas ce qui pourrait l'avoir rendu comme ça.}
+{201}{}{Il semble avoir été autrefois humain, ou avoir des origines humaines. Vous supposez que la détérioration de l'organisme est probablement dûe à de l'acide ou aux radiations.}
+{202}{}{L'organisme de l'humanoïde paraît fortement irradié, mais toujours en fonctionnement. Jadis il était un homme, il semble avoir maintenant trouvé un style de vie plus animal.}
+{203}{}{L'organisme de l'humanoïde paraît fortement irradié, et une grande partie des muscles et de la matière cérébrale semblent s'être détériorés. Cependant, des indicateurs génétiques vous poussent à croire qu'il est descendant, comme vous, de ceux qui sont entrés dans les Abris.}

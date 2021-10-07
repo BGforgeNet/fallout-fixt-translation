@@ -1,48 +1,48 @@
-{100}{}{You see: Romero.}
-{103}{}{You see a member of the Blades.}
-{104}{}{You see a member of the Blades.}
-{105}{}{You think that might be Books.}
-{106}{}{You think that might be Scars.}
-{107}{}{You think that might be Gunner.}
-{108}{}{You think that might be Twitch.}
-{109}{}{You think that might be Hammer.}
-{110}{}{You think that might be Razor.}
-{111}{}{Stand down!}
-{112}{}{What? What do you mean exactly?}
-{113}{}{Never!}
-{114}{}{I'm here to talk about peace.}
-{115}{}{Okay...}
-{116}{}{I ask the questions here. What are you doing here?}
-{117}{}{I'm here looking for a friend.}
-{118}{}{I'm here to talk about peace.}
-{119}{}{I want to end the war with Adytum!}
-{120}{}{I want to drink the blood of the Blades!}
-{121}{}{Then you're looking in the wrong place. Get lost.}
-{122}{}{You must be one of those wimpy little purple robes. Get out of here before we blow you away.}
-{123}{}{Wait! I don't know what you're talking about. I'm here for Adytum. They want me to get everyone to leave them alone.}
-{124}{}{Peace THIS!}
-{125}{}{Sorry. I'll be going now.}
-{126}{}{Hmm. If you are really from Adytum, then you are still a loser. There can never be peace while those Regulators are still around.}
-{127}{}{What do you mean?}
-{128}{}{Uh, sure.}
-{129}{}{Ask Razor. She'll explain about those bloodthirsty inbreeds.}
-{130}{}{Get lost!}
-{131}{}{Hey, now that you're a Blade, I need to ask you a favor.}
-{132}{}{Sure.}
-{133}{}{What is it?}
-{134}{}{No way.}
-{135}{}{Great. Take this locket to Julianna. Tell her that I hope to see her soon.}
-{136}{}{It seems that I have fallen for a girl in Adytum. Because of the Regulators shooting us on sight, I can't get close to her.}
-{137}{}{How can I help?}
-{138}{}{Go on.}
-{139}{}{Tough luck.}
-{140}{}{If you take this locket to Julianna, I would be in your debt.}
-{141}{}{Sure thing.}
-{142}{}{Find someone else.}
-{143}{}{With allies like you, who needs enemies? Goodbye!}
-{144}{}{I think she loves me too, but I don't know. The Blades won't risk letting me try to break into Adytum.}
-{145}{}{Tough luck.}
-{146}{}{Okay, I'll help.}
-{147}{}{Thank you! She sent me a note. We are going to meet at the Follower's place and get married.}
-{148}{}{Welcome back.}
-{149}{}{Thank you so much. We will stay here with the Followers now, where we can be happily married.}
+{100}{}{Tu vois Romero.}
+{103}{}{Tu vois un membre des Ecorcheurs.}
+{104}{}{Tu vois un membre des Ecorcheurs.}
+{105}{}{Tu penses que c'est Books.}
+{106}{}{Tu penses que c'est Scars.}
+{107}{}{Tu penses que c'est Gunner.}
+{108}{}{Tu penses que c'est Twitch.}
+{109}{}{Tu penses que c'est Hammer.}
+{110}{}{Tu penses que c'est Razor.}
+{111}{}{Vas t'en !}
+{112}{}{Quoi ? Que veux-tu dire ?}
+{113}{}{Jamais !}
+{114}{}{Je suis ici pour parler de paix.}
+{115}{}{Ok.}
+{116}{}{Ici, c'est moi qui pose les questions. Que fais tu ici ?}
+{117}{}{Je suis ici pour trouver un ami.}
+{118}{}{Je suis ici pour parler de paix.}
+{119}{}{Je veux mettre fin à la guerre des gangs dans le Sanctuaire !}
+{120}{}{Je veux boire le sang des Ecorcheurs !}
+{121}{}{Alors tu cherches au mauvais endroit. Laisse-moi.}
+{122}{}{Tu dois être une de ces petites mauviettes des robes violettes. Sors d'ici avant qu'on t'explose le crâne.}
+{123}{}{Attend ! Je ne sais pas de quoi tu parles. Je suis là pour le Sanctuaire. Ils veulent que je fasse en sorte que tout le monde les laisse tranquilles.}
+{124}{}{La paix !}
+{125}{}{Désolé. Je m'en vais maintenant.}
+{126}{}{Hmm. Si tu es vraiment du Sanctuaire, alors tu es encore un perdant. La paix n'existera jamais tant que ces Régulateurs seront dans les parages.}
+{127}{}{Que veux-tu dire ?}
+{128}{}{Uh, bien sûr.}
+{129}{}{Demande à Razor. Elle te donnera des explications sur ces consanguins sanguinaires.}
+{130}{}{Dégage !}
+{131}{}{Hé, maintenant que tu es un Ecorcheur, j'ai besoin que tu m'accordes une faveur.}
+{132}{}{Bien sûr.}
+{133}{}{Qu'est-ce que c'est ?}
+{134}{}{Pas question.}
+{135}{}{Super. Amène ce médaillon à Julianna. Dis lui que j'espère la voir bientôt.}
+{136}{}{Il semblerai que je sois tombé amoureux d'une fille au Sanctuaire. Les Régulateurs nous tirent dessus à vue, alors je ne peux pas aller la voir.}
+{137}{}{En quoi puis-je t'aider ?}
+{138}{}{Poursuis.}
+{139}{}{Pas de bol.}
+{140}{}{Si tu apportes ce médaillon à Julianna, j'aurai une dette envers toi.}
+{141}{}{Aucun soucis.}
+{142}{}{Trouve quelqu'un d'autre.}
+{143}{}{Avec des alliés tels que toi, qui a besoin d'ennemis ? Bonne journée !}
+{144}{}{Je penses qu'elle m'aime aussi, mais je n'en sais pas plus. Les Ecorcheurs ne prendront pas le risque de me laisser essayer de me faufiler dans le Sanctuaire.}
+{145}{}{Pas de bol.}
+{146}{}{Ok, je vais te donner un coup de main.}
+{147}{}{Merci ! Elle m'a envoyé un message. Nous allons nous rejoindre chez les Disciples pour nous marier.}
+{148}{}{Bienvenue.}
+{149}{}{Merci beaucoup. Nous allons maintenant rester ici avec les Disciples, où nous pouvons être des heureux mariés.}

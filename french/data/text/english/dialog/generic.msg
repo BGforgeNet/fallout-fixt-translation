@@ -1,201 +1,201 @@
-{100}{}{What do you want?}
-{101}{}{Leave me alone.}
-{102}{}{What?}
-{103}{}{Don't mess with my stuff.}
-{104}{}{Hi.}
-{105}{}{Arrrr!}
-{106}{}{Grrrrr!}
+{100}{}{Qu'est-ce que tu veux ?}
+{101}{}{Laisse-moi tranquille !}
+{102}{}{Quoi ?}
+{103}{}{Ne fous pas le bordel dans mes affaires.}
+{104}{}{Salut.}
+{105}{}{Arrrr !}
+{106}{}{Grrrrr !}
 {107}{}{Uungh.}
-{108}{}{Uhh.}
-{109}{}{Hey, did you hear that Set was offed?}
-{110}{}{Set's dead. Set's dead. Set's dead...}
-{111}{}{There's enough water to go around for everyone. Set makes sure of that.}
-{112}{}{I heard that the mutants got run out of town.}
-{113}{}{Ever since the mutants left, it's been better.}
-{114}{}{Hello.}
-{200}{}{You examine the pitiful thing, but cannot figure out what might have made it the way it is.}
-{201}{}{It seems to have been human once, or at least descended from humans. You guess that the deterioration in the body is most likely due to acid or radiation.}
-{202}{}{The body of the humanoid looks to be highly irradiated, but still functioning. While it was once human, it seems to have reverted to a more animalistic lifestyle.}
-{203}{}{The body of the humanoid looks to be highly irradiated, and much of the muscle and brain matter seem to have deteriorated. However, genetic indicators lead you to believe that it descended, like you, from those that entered the Vaults.}
-{204}{}{No thank you.}
-{205}{}{No thanks.}
-{206}{}{Sure.}
-{207}{}{Yes.}
-{208}{}{No.}
-{209}{}{Okay.}
-{300}{}{Ug.}
-{301}{}{Og.}
-{302}{}{Ooga.}
-{303}{}{Urg.}
-{350}{}{[END]}
-{351}{}{[BYE]}
+{108}{}{Euh.}
+{109}{}{Hé, as-tu entendu que Set est mort ?}
+{110}{}{Set est mort. Set est mort. Set est mort...}
+{111}{}{Il y a assez d'eau pour tout le monde. Set s'en assure.}
+{112}{}{J'ai entendu dire que les mutants ont fuis la ville.}
+{113}{}{Depuis que les mutants sont partis, tout s'arrange.}
+{114}{}{Bonjour.}
+{200}{}{Vous examinez la chose pitoyable, mais ne comprenez pas ce qui pourrait l'avoir rendu comme ça.}
+{201}{}{Il semble avoir été autrefois humain, ou avoir des origines humaines. Vous supposez que la détérioration de l'organisme est probablement dûe à de l'acide ou aux radiations.}
+{202}{}{L'organisme de l'humanoïde paraît fortement irradié, mais toujours en fonctionnement. Jadis il était un homme, il semble avoir maintenant trouvé un style de vie plus animal.}
+{203}{}{L'organisme de l'humanoïde paraît fortement irradié, et une grande partie des muscles et de la matière cérébrale semblent s'être détériorés. Cependant, des indicateurs génétiques vous poussent à croire qu'il est descendant, comme vous, de ceux qui sont entrés dans les Abris.}
+{204}{}{Non je te remercie.}
+{205}{}{Non, merci.}
+{206}{}{Bien sûr.}
+{207}{}{Oui.}
+{208}{}{Non.}
+{209}{}{D'accord.}
+{300}{}{Euh...}
+{301}{}{Warf.}
+{302}{}{Ouga.}
+{303}{}{Argh.}
+{350}{}{[FIN]}
+{351}{}{[Salut]}
 {352}{}{[MORE]}
-{353}{}{[CONTINUE]}
-{354}{}{[COMBAT]}
-{355}{}{[GIVE MONEY]}
-{375}{}{Bye.}
-{376}{}{Goodbye.}
-{450}{}{The coast is clear. Let's move out!}
-{900}{}{The old, worn door looks like it could be destroyed with a well-placed explosive.}
+{353}{}{[Continuer]}
+{354}{}{[Combattre]}
+{355}{}{[Donner l'argent]}
+{375}{}{Ciao.}
+{376}{}{Au revoir.}
+{450}{}{L'horizon est dégagé, on bouge !}
+{900}{}{La vieille porte usée devrait facilement être détruite avec un explosif.}
 {905}{}{Wouaf ! Wouaf !}
-{910}{}{You are shocked by the electrified floor.}
-{911}{}{ is shocked by the electrified floor.}
-{912}{}{The power level drops to zero and then goes back to 50% as the backup generators kick in.}
-{913}{}{A slight humming is heard as the power once more flows through the base.}
-{930}{}{Hoooooowl!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase by 5%.}
-{951}{}{The fighting mole rat goes in for the death blow.}
-{952}{}{The match is over.}
-{953}{}{You take some time out to practice some moves.}
-{954}{}{You put your night vision goggles on.}
-{955}{}{You take your night vision goggles off.}
+{910}{}{Tu reçois une décharge du sol électrifié.}
+{911}{}{ est électrocuté par le sol électrifié.}
+{912}{}{Le niveau de puissance tombe à zéro, puis remonte à 50% lorsque les générateurs de secours se mettent en marche.}
+{913}{}{Un léger bourdonnement se fait entendre alors que le flux d'électricité passe de nouveau dans la base.}
+{930}{}{Hooooowl !}
+{950}{}{Tu prends du temps pour t'entraîner. Ta compétence Corps-à-corps augmente de 5%.}
+{951}{}{Le rataupe combattant succombe à un coup fatal.}
+{952}{}{Le match est terminé.}
+{953}{}{Tu prends du temps pour t'entraîner.}
+{954}{}{Tu mets tes lunettes à vision nocturne.}
+{955}{}{Tu enlèves tes lunettes à vision nocturne.}
 {956}{}{You learn nothing new.}
-{957}{}{You learn a lot about handling heavy weapons.}
-{958}{}{You learn a lot about handling energy weapons.}
-{959}{}{You learn a lot about medical techniques.}
-{960}{}{You learn a lot about picking locks.}
-{961}{}{You learn a lot about science and technology.}
-{962}{}{You learn a lot about explosives and booby-traps.}
-{963}{}{Your communication skills improve.}
-{964}{}{You learn a lot about trading.}
-{965}{}{You lack the intelligence needed to understand this book.}
-{966}{}{This book is a bit too advanced for your current knowledge of this subject.}
-{967}{}{You gain new abilities through persistent study.}
-{968}{}{Your vocabulary improves.}
-{969}{}{Your eloquence improves.}
-{970}{}{You learn a lot about outdoor survival.}
-{971}{}{You learn a lot about advanced electronics.}
-{1003}{}{You disable the force fields.}
-{1004}{}{You hack into the computer.}
-{1012}{}{WARNING! Complete Reactor MELTDOWN!}
-{1013}{}{WARNING! TOXINS released into the air ducts.}
-{1050}{}{You grind the 'scorpion toxin into antidote.}
-{2000}{}{zero}
-{2001}{}{one}
-{2002}{}{two}
-{2003}{}{three}
-{2004}{}{four}
-{2005}{}{five}
+{957}{}{Tu apprends beaucoup sur le maniement des armes lourdes.}
+{958}{}{Tu apprends beaucoup sur le maniement des armes à énergie.}
+{959}{}{Tu apprends beaucoup sur les techniques médicales.}
+{960}{}{Tu apprends beaucoup sur le crochetage.}
+{961}{}{Tu apprends beaucoup sur les sciences et la technologie.}
+{962}{}{Tu apprends beaucoup sur les pièges et les explosifs.}
+{963}{}{Tu augmentes tes compétences relationnelles.}
+{964}{}{Tu apprends beaucoup sur le troc.}
+{965}{}{Tu n'as pas l'intelligence nécessaire pour comprendre cet ouvrage.}
+{966}{}{Cet ouvrage est trop avancé pour tes connaissances sur le sujet.}
+{967}{}{Tu gagnes de nouveaux talents par l'apprentissage continu.}
+{968}{}{Ton vocabulaire s'enrichit.}
+{969}{}{Ton éloquence s'améliore.}
+{970}{}{Tu apprends beaucoup sur les techniques de survie.}
+{971}{}{Tu apprends beaucoup sur les technologies avancées.}
+{1003}{}{Tu désactives le champ de force.}
+{1004}{}{Tu pirates l'ordinateur.}
+{1012}{}{ALERTE ! FUSION COMPLETE DU REACTEUR !}
+{1013}{}{ALERTE ! Toxines rejetées dans les conduits d'aération !}
+{1050}{}{Tu fabriques un antidote à partir de la toxine prélevée sur le radscorpion.}
+{2000}{}{zéro}
+{2001}{}{un}
+{2002}{}{deux}
+{2003}{}{trois}
+{2004}{}{quatre}
+{2005}{}{cinq}
 {2006}{}{six}
-{2007}{}{seven}
-{2008}{}{eight}
-{2009}{}{nine}
-{2010}{}{ten}
-{2011}{}{eleven}
-{2012}{}{twelve}
-{2013}{}{thirteen}
-{2014}{}{fourteen}
-{2015}{}{fifteen}
-{2016}{}{sixteen}
-{2017}{}{seventeen}
-{2018}{}{eighteen}
-{2019}{}{nineteen}
-{2021}{}{twenty-one}
-{2022}{}{twenty-two}
-{2023}{}{twenty-three}
-{2024}{}{twenty-four}
-{2025}{}{twenty-five}
-{2026}{}{twenty-six}
-{2027}{}{twenty-seven}
-{2028}{}{twenty-eight}
-{2029}{}{twenty-nine}
-{2030}{}{thirty}
-{2031}{}{thirty-one}
-{2032}{}{thirty-two}
-{2033}{}{thirty-three}
-{2034}{}{thirty-four}
-{2035}{}{thirty-five}
-{2036}{}{thirty-six}
-{2037}{}{thirty-seven}
-{2038}{}{thirty-eight}
-{2039}{}{thirty-nine}
-{2040}{}{forty}
-{2041}{}{forty-one}
-{2042}{}{forty-two}
-{2043}{}{forty-three}
-{2044}{}{forty-four}
-{2045}{}{forty-five}
-{2046}{}{forty-six}
-{2047}{}{forty-seven}
-{2048}{}{forty-eight}
-{2049}{}{forty-nine}
-{2050}{}{fifty}
-{2051}{}{fifty-one}
-{2052}{}{fifty-two}
-{2053}{}{fifty-three}
-{2054}{}{fifty-four}
-{2055}{}{fifty-five}
-{2056}{}{fifty-six}
-{2057}{}{fifty-seven}
-{2058}{}{fifty-eight}
-{2059}{}{fifty-nine}
-{2060}{}{sixty}
-{2061}{}{sixty-one}
-{2062}{}{sixty-two}
-{2063}{}{sixty-three}
-{2064}{}{sixty-four}
-{2065}{}{sixty-five}
-{2066}{}{sixty-six}
-{2067}{}{sixty-seven}
-{2068}{}{sixty-eight}
-{2069}{}{sixty-nine}
-{2070}{}{seventy}
-{2071}{}{seventy-one}
-{2072}{}{seventy-two}
-{2073}{}{seventy-three}
-{2074}{}{seventy-four}
-{2075}{}{seventy-five}
-{2076}{}{seventy-six}
-{2077}{}{seventy-seven}
-{2078}{}{seventy-eight}
-{2079}{}{seventy-nine}
-{2080}{}{eighty}
-{2081}{}{eighty-one}
-{2082}{}{eighty-two}
-{2083}{}{eighty-three}
-{2084}{}{eighty-four}
-{2085}{}{eighty-five}
-{2086}{}{eighty-six}
-{2087}{}{eighty-seven}
-{2088}{}{eighty-eight}
-{2089}{}{eighty-nine}
-{2090}{}{ninety}
-{2091}{}{ninety-one}
-{2092}{}{ninety-two}
-{2093}{}{ninety-three}
-{2094}{}{ninety-four}
-{2095}{}{ninety-five}
-{2096}{}{ninety-six}
-{2097}{}{ninety-seven}
-{2098}{}{ninety-eight}
-{2099}{}{ninety-nine}
-{2100}{}{one hundred}
+{2007}{}{sept}
+{2008}{}{huit}
+{2009}{}{neuf}
+{2010}{}{dix}
+{2011}{}{onze}
+{2012}{}{douze}
+{2013}{}{treize}
+{2014}{}{quatorze}
+{2015}{}{quinze}
+{2016}{}{seize}
+{2017}{}{dix-sept}
+{2018}{}{dix-huit}
+{2019}{}{dix-neuf}
+{2021}{}{vingt-et-un}
+{2022}{}{vingt-deux}
+{2023}{}{vingt-trois}
+{2024}{}{vingt-quatre}
+{2025}{}{vingt-cinq}
+{2026}{}{vingt-six}
+{2027}{}{vingt-sept}
+{2028}{}{vingt-huit}
+{2029}{}{vingt-neuf}
+{2030}{}{trente}
+{2031}{}{trente-et-un}
+{2032}{}{trente-deux}
+{2033}{}{trente-trois}
+{2034}{}{trente-quatre}
+{2035}{}{trente-cinq}
+{2036}{}{trente-six}
+{2037}{}{trente-sept}
+{2038}{}{trente-huit}
+{2039}{}{trente-neuf}
+{2040}{}{quarante}
+{2041}{}{quarante-et-un}
+{2042}{}{quarante-deux}
+{2043}{}{quarante-trois}
+{2044}{}{quarante-quatre}
+{2045}{}{quarante-cinq}
+{2046}{}{quarante-six}
+{2047}{}{quarante-sept}
+{2048}{}{quarante-huit}
+{2049}{}{quarante-neuf}
+{2050}{}{cinquante}
+{2051}{}{cinquante-et-un}
+{2052}{}{cinquante-deux}
+{2053}{}{cinquante-trois}
+{2054}{}{cinquante-quatre}
+{2055}{}{cinquante-cinq}
+{2056}{}{cinquante-six}
+{2057}{}{cinquante-sept}
+{2058}{}{cinquante-huit}
+{2059}{}{cinquante-neuf}
+{2060}{}{soixante}
+{2061}{}{soixante-et-un}
+{2062}{}{soixante-deux}
+{2063}{}{soixante-trois}
+{2064}{}{soixante-quatre}
+{2065}{}{soixante-cinq}
+{2066}{}{soixante-six}
+{2067}{}{soixante-sept}
+{2068}{}{soixante-huit}
+{2069}{}{soixante-neuf}
+{2070}{}{soixante-dix}
+{2071}{}{soixante-et-onze}
+{2072}{}{soixante-douze}
+{2073}{}{soixante-treize}
+{2074}{}{soixante-quatorze}
+{2075}{}{soixante-quinze}
+{2076}{}{soixante-seize}
+{2077}{}{soixante-dix-sept}
+{2078}{}{soixante-dix-huit}
+{2079}{}{soixante-dix-neuf}
+{2080}{}{quatre-vingt}
+{2081}{}{quatre-vingt-un}
+{2082}{}{quatre-vingt-deux}
+{2083}{}{quatre-vingt-trois}
+{2084}{}{quatre-vingt-quatre}
+{2085}{}{quatre-vingt-cinq}
+{2086}{}{quatre-vingt-six}
+{2087}{}{quatre-vingt-sept}
+{2088}{}{quatre-vingt-huit}
+{2089}{}{quatre-vingt-neuf}
+{2090}{}{quatre-vingt-dix}
+{2091}{}{quatre-vingt-onze}
+{2092}{}{quatre-vingt-douze}
+{2093}{}{quatre-vingt-treize}
+{2094}{}{quatre-vingt-quatorze}
+{2095}{}{quatre-vingt-quinze}
+{2096}{}{quatre-vingt-seize}
+{2097}{}{quatre-vingt-dix-sept}
+{2098}{}{quatre-vingt-dix-huit}
+{2099}{}{quatre-vingt-dix-neuf}
+{2100}{}{cent}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{If you try that again, I'll have to kill you.}
-{3051}{}{I don't have anything to steal, you idiot.}
-{3052}{}{I don't think we know each other *that* well.}
-{3053}{}{Touch that again and you'll have to pay for it.}
-{3054}{}{Get your hands off me!}
-{3055}{}{Do that again and I'll rip you head off.}
-{3056}{}{Hands off!}
-{3057}{}{You looking for trouble?}
-{3058}{}{Touch me again and die.}
-{3059}{}{Only trouble is for free.}
-{3060}{}{Hey! Back off.}
-{3061}{}{Watch it!}
-{3062}{}{You look'n ta die?}
-{3063}{}{You try that again, and I'll bust your head.}
-{3064}{}{That's mine; hands off!}
+{3050}{}{Si tu recommences ça, je te tue.}
+{3051}{}{Y'a rien à voler, abruti.}
+{3052}{}{Je crois pas qu'on se connaisse "suffisament" bien.}
+{3053}{}{Touche ça encore une fois et tu vas le payer.}
+{3054}{}{Me touche pas !}
+{3055}{}{Fais encore ça et je te coupe la tête.}
+{3056}{}{Bas les pattes !}
+{3057}{}{Tu cherches les ennuis ?}
+{3058}{}{Touche moi encore et t'es mort.}
+{3059}{}{Seuls les ennuis sont gratuits.}
+{3060}{}{Dégage !}
+{3061}{}{Attention !}
+{3062}{}{Tu cherches à mourir ?}
+{3063}{}{T'essaie encore ça et je t'éclate la tête !}
+{3064}{}{C'est à moi : bas les pattes !}
 {3075}{}{}
-{3100}{}{ has joined party}
-{3101}{}{ has left party}
+{3100}{}{ a rejoins le groupe }
+{3101}{}{ a quitté le groupe }
 {3300}{}{}
-{3325}{}{Why don't you put everything right back where you found it?}
-{3326}{}{You know, it ain't nice to take what's not yours.}
-{3327}{}{Get away from there, punk!}
-{3328}{}{Now don't go telling me you're "just looking for your keys." Get outta here!}
-{3329}{}{Whatever you're looking for, it ain't there. Understand?}
+{3325}{}{Pourquoi tu remettrais pas tout ça où tu l'as pris ?}
+{3326}{}{C'est pas bien de prendre ce qui t'appartiens pas !}
+{3327}{}{Tire-toi de là, minable !}
+{3328}{}{Et viens pas me dire que "tu cherches tes clés". Barre-toi !}
+{3329}{}{Quoique tu cherches, c'est pas ici. Compris ?}
 {3350}{}{}
 {3375}{}{}
 {3400}{}{Cpt. Corpse's Cheating Tool.}
@@ -262,124 +262,124 @@
 {3520}{}{Chest}
 {3521}{}{Give Item}
 {3600}{}{}
-{3625}{}{Hey, you! What're you poking around that for?}
-{3626}{}{If you ain't got a key in your hand, you'd better be stepping away.}
-{3627}{}{It's locked for a reason, punk.}
-{3628}{}{Knock it off before there's trouble!}
+{3625}{}{Hé, toi ! Qu'est-ce que tu farfouilles comme ça ?}
+{3626}{}{Si t'as pas une clé dans ta main, tu ferais mieux de partir d'ici.}
+{3627}{}{C'est pas fermé par hasard, minable !}
+{3628}{}{Referme ça avant de t'attirer des problèmes !}
 {3650}{}{}
 {3675}{}{}
-{3700}{}{Change target FRM}
+{3700}{}{Changer le FRM de la cible}
 {3701}{}{Power Armor}
-{3702}{}{Purple Robes}
-{3703}{}{Combat Armor (F)}
-{3704}{}{V13 Suit(F)}
-{3705}{}{Leather Armor (F)}
-{3706}{}{Mad Maxx (F)}
-{3707}{}{Metal Armor (F)}
-{3708}{}{V13 Suit(MB)}
-{3709}{}{Metal Armor (MB)}
-{3710}{}{Combat Armor (M)}
-{3711}{}{V13 Suit (M)}
-{3712}{}{Leather Armor (M)}
-{3713}{}{Mad Maxx (M)}
-{3714}{}{Metal Armor (M)}
-{3715}{}{Brahmin}
+{3702}{}{Robes violettes}
+{3703}{}{Armure de combat [F]}
+{3704}{}{Tenue de l'Abri 13 [F]}
+{3705}{}{Armure en cuir [F]}
+{3706}{}{Mad Max [F]}
+{3707}{}{Armure de métal [F]}
+{3708}{}{Tenue de l'Abri 13 [MB]}
+{3709}{}{Armure de métal [MB]}
+{3710}{}{Armure de combat [M]}
+{3711}{}{Tenue de l'Abri 13 [M]}
+{3712}{}{Armure en cuir [M]}
+{3713}{}{Mad Max [M]}
+{3714}{}{Armure de métal [M]}
+{3715}{}{Brahmine}
 {3716}{}{Dog}
-{3717}{}{Mr Handy}
-{3718}{}{Lt Lou (Needs patch by ColJack)}
-{3719}{}{Mole Rat}
-{3720}{}{Black Leather (SM)}
-{3721}{}{Green Mutant}
-{3722}{}{Big Radscorpion}
+{3717}{}{M. Handy}
+{3718}{}{Lt Lou}
+{3719}{}{Rataupe}
+{3720}{}{Cuir noir [SM]}
+{3721}{}{Mutant vert}
+{3722}{}{Radscorpion géant}
 {3723}{}{Floater}
 {3724}{}{Rat}
-{3725}{}{Centaur}
-{3726}{}{Blue Robe}
-{3727}{}{Child}
-{3728}{}{Green Ghoul}
+{3725}{}{Centaure}
+{3726}{}{Robe bleue}
+{3727}{}{Enfant}
+{3728}{}{Goule vert}
 {3729}{}{Glowing One}
-{3730}{}{Power Armor (No Helmet)}
-{3731}{}{Monk}
+{3730}{}{SuperArmure [sans casque]}
+{3731}{}{Moine}
 {3732}{}{Blonde}
 {3733}{}{Punk}
-{3734}{}{Metal Armor (F Yellow Pants)}
+{3734}{}{Armure de métal [F pantalons jaunes]}
 {3735}{}{Tandi}
-{3736}{}{Slut}
-{3737}{}{V13 Suit (F Red Head)}
-{3738}{}{Black peasant (Red Shirt)}
-{3739}{}{Peasant (Yellow Shirt)}
-{3740}{}{Bald Peasant (Green Shirt)}
-{3741}{}{Red Haired Midget}
+{3736}{}{Salope}
+{3737}{}{Tenue de l'Abri 13 [F cheveux rouge]}
+{3738}{}{Paysan noir [T-shirt rouge]}
+{3739}{}{Paysan [T-shirt jaune]}
+{3740}{}{Paysan chauve [T-shirt vert]}
+{3741}{}{Nain aux cheveux rouge}
 {3742}{}{Loser}
-{3743}{}{Leather Armor (M Bald)}
-{3744}{}{Leather Jacket (Long Haired Lout)}
-{3745}{}{Peasant (Blue Cap)}
-{3746}{}{Mature Deathclaw}
+{3743}{}{Armure de cuir [M chauve]}
+{3744}{}{Veste en cuir [voyou aux cheveux long]}
+{3745}{}{Paysan [casquette bleue]}
+{3746}{}{Griffemort adulte}
 {3747}{}{Mantis}
 {3748}{}{Robobrain}
 {3749}{}{Floating Eye}
 {3750}{}{Pig Rat}
-{3751}{}{Brown Robes}
-{3752}{}{Bald Doctor}
+{3751}{}{Robes marrons}
+{3752}{}{Docteur chauve}
 {3753}{}{Egg}
-{3754}{}{Small Radscorpion}
-{3755}{}{Small Deathclaw}
+{3754}{}{Petit radscorpion}
+{3755}{}{Jeune Griffemort}
 {3761}{}{Sentry Robot}
-{3764}{}{Citizen Male}
-{3769}{}{Citizen Female}
-{3774}{}{Neutral Ghoul}
-{3778}{}{Vault Suit (F Black)}
-{3779}{}{Black Robes}
-{3782}{}{Cop}
+{3764}{}{Citoyen homme}
+{3769}{}{Citoyen femme}
+{3774}{}{Goule neutre}
+{3778}{}{Combinaison de l'Abri [F noire]}
+{3779}{}{Robes noires}
+{3782}{}{Policier}
 {3784}{}{Technician}
-{3798}{}{[END]}
+{3798}{}{[FIN]}
 {3799}{}{}
 {3800}{}{[BACK]}
-{3801}{}{[BACK TO MAIN]}
+{3801}{}{[MENU PRINCIPAL]}
 {3802}{}{[EXIT]}
-{3803}{}{Input item PID (4 digit format:0000) }
-{3804}{}{First Number (1000)}
-{3805}{}{Second Number (100)}
-{3806}{}{Third Number   (10)}
-{3807}{}{Fourth Number   (1)}
+{3803}{}{Entrer le PID de l'objet [format : 0000] }
+{3804}{}{Premier nombre [1000]}
+{3805}{}{Deuxième nombre [100]}
+{3806}{}{Troisième nombre [10] }
+{3807}{}{Quatrième nombre [1] }
 {3808}{}{PID: }
-{3809}{}{Item Name: }
-{3810}{}{Invalid Target Object}
+{3809}{}{Nom de l'objet : }
+{3810}{}{Objet invalide}
 {3900}{}{}
-{3925}{}{Hey you! What're you doing there?}
-{3926}{}{You're not supposed to be here!}
-{3927}{}{If you think you're just walking by me, you can forget that!}
-{3928}{}{You better not be planning what I think you're planning, stranger.}
-{3929}{}{What? Like you think I don't notice you? Get outta here!}
+{3925}{}{Hé toi ! Que fais tu là ?}
+{3926}{}{T'es pas censé être ici !}
+{3927}{}{Si tu penses pouvoir venir vers moi comme ça, tu te trompes !}
+{3928}{}{Tu ferais mieux de pas être en train de faire ce que je crois que tu fais, étranger.}
+{3929}{}{Et tu pensais que je te remarquerais pas ? Fous le camp !}
 {3950}{}{}
 {3975}{}{}
-{4000}{}{Check damage resistances and thresholds.}
+{4000}{}{Vérifier les seuils et résistances aux dégâts.}
 {4001}{}{%}
-{4002}{}{ has been healed.}
-{4003}{}{The crippled left leg has healed.}
-{4004}{}{The crippled right leg has healed.}
-{4005}{}{The crippled left arm has healed.}
-{4006}{}{The crippled right arm has healed.}
-{4007}{}{The damaged eye has healed.}
-{4008}{}{ is not injured.}
-{4010}{}{THRESHOLDS AND RESISTANCES:}
+{4002}{}{ a été soigné.}
+{4003}{}{La jambe gauche estropiée a été soigné.}
+{4004}{}{La jambe droite estropiée a été soigné.}
+{4005}{}{Le bras gauche estropié a été soigné.}
+{4006}{}{Le bras droit estropié a été soigné.}
+{4007}{}{L’œil mutilé a été soigné}
+{4008}{}{ n'est pas blessé.}
+{4010}{}{SEUILS ET RESISTANCES}
 {4011}{}{/}
 {4012}{}{--}
-{4100}{}{Normal:     }
-{4101}{}{Laser:      }
-{4102}{}{Fire:       }
-{4103}{}{Plasma:     }
-{4104}{}{Electrical: }
-{4105}{}{EMP:        }
-{4106}{}{Explode:    }
-{4107}{}{Radiation:  }
-{4108}{}{Poison:     }
-{4109}{}{ looks healthy.}
+{4100}{}{Normal : }
+{4101}{}{Laser : }
+{4102}{}{Feu : }
+{4103}{}{Plasma : }
+{4104}{}{Electricité : }
+{4105}{}{EMP : }
+{4106}{}{Explosion : }
+{4107}{}{Radiation : }
+{4108}{}{Poison : }
+{4109}{}{ semble en bonne santé.}
 {4200}{}{}
 {4225}{}{}
 {4250}{}{}
 {4275}{}{}
-{4300}{}{Yes Master?}
+{4300}{}{Oui, Maitre ?}
 {4301}{}{}
 {4500}{}{}
 {4525}{}{}
@@ -398,40 +398,40 @@
 {5201}{}{Do you wish to continue playing Fallout Fixt with this character?}
 {5202}{}{No.  (END GAME: Play final movie sequence & credits, then exit to main menu.)}
 {5203}{}{Yes.  (CONTINUE PLAYING: This dialog window will close and you'll stay on this map. Play continues normally.)}
-{5400}{}{Stay away from there.}
-{9000}{}{Repairs Complete.}
-{9001}{}{Rearming Complete.}
-{9002}{}{Repairing Structural Damage.}
-{9003}{}{No Structural Damage Detected.}
-{9004}{}{Repair function.}
-{9005}{}{Input Command.}
-{9006}{}{Guard this location.}
-{9007}{}{Initializing Sentry Function.}
-{9008}{}{Equip Armament.}
-{9009}{}{You don't have one in your inventory.}
-{9010}{}{Plasma Rifle.}
-{9011}{}{Laser Rifle.}
+{5400}{}{Reste loin de là.}
+{9000}{}{Réparation terminée.}
+{9001}{}{Réarmement terminé.}
+{9002}{}{Réparation des dégâts en cours.}
+{9003}{}{Aucun dégât détecté.}
+{9004}{}{Fonction de réparation.}
+{9005}{}{Entrer commande.}
+{9006}{}{Surveille cet endroit.}
+{9007}{}{Initialiser fonction de sentinelle.}
+{9008}{}{Equiper armement.}
+{9009}{}{Tu n'en a pas dans ton inventaire.}
+{9010}{}{Fusil plasma.}
+{9011}{}{Fusil laser.}
 {9012}{}{Minigun.}
-{9013}{}{Gatling Laser.}
-{9014}{}{Weapons.}
-{9015}{}{Ammo.}
-{9016}{}{5mm JHP.}
-{9017}{}{5mm AP.}
-{9018}{}{Energy Cell.}
-{9019}{}{Mr. Handy is programmed to use energy weapons and miniguns.}
-{10000}{}{Tell me something.}
-{10001}{}{You should heal yourself now.}
-{10002}{}{I need you to wait here until I come back.}
-{10003}{}{Put your weapon away.}
-{10004}{}{Stay close to me.}
-{10005}{}{Don't get too far away.}
-{10006}{}{We should spread out a bit.}
-{10007}{}{That's it for now.}
-{10008}{}{We need to change our distance from one another.}
-{10009}{}{I need to talk to you about your gear.}
-{10010}{}{On second thought, I think this distance is okay for now.}
-{10011}{}{Actually, I guess there's nothing I need to really know about your gear.}
-{10012}{}{I need you to remove the armor that you're wearing.}
-{10013}{}{I need to know what kind of weapons you can use.}
-{10100}{}{Let's go.}
-{21020}{}{twenty}
+{9013}{}{Gatling laser}
+{9014}{}{Armes.}
+{9015}{}{Munition.}
+{9016}{}{5 mm JHP}
+{9017}{}{5mm AP}
+{9018}{}{Cellule énergétique.}
+{9019}{}{M. Handy est programmé au maniement des armes lourdes et à énergie.}
+{10000}{}{Dis-moi quelque chose.}
+{10001}{}{Tu devrais te soigner maintenant.}
+{10002}{}{J'ai besoin que tu attendes jusqu'à mon retour.}
+{10003}{}{Lâche ton arme.}
+{10004}{}{Reste près de moi.}
+{10005}{}{Ne pars pas trop loin de moi.}
+{10006}{}{On devrait s'écarter un peu.}
+{10007}{}{C'est tout pour l'instant.}
+{10008}{}{Il faut modifier la distance entre nous.}
+{10009}{}{Il faut que je te parle de ton équipement.}
+{10010}{}{En fait, je pense que la distance est bonne.}
+{10011}{}{J'ai rien besoin de savoir à propos de ton équipement.}
+{10012}{}{Enlève l'armure que tu portes.}
+{10013}{}{J'ai besoin de savoir quel type d'arme tu sais manier.}
+{10100}{}{Allons-y.}
+{21020}{}{vingt}

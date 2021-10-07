@@ -1,13 +1,13 @@
-{100}{}{You unlock the door.}
-{101}{}{You broke your lockpicks!}
-{102}{}{You cannot open this lock.}
-{103}{}{You were not able to pick the lock.}
-{104}{}{The door is locked.}
-{105}{}{The door is open.}
-{106}{}{The door is closed but unlocked.}
-{107}{}{The door is locked.}
-{108}{}{The door creaks loudly.}
-{109}{}{The door is already unlocked.}
-{110}{}{The lock is beyond your ability to pick.}
-{200}{}{There is no lock on this door to pick.}
-{201}{}{You notice some irregularities in the wall.}
+{100}{}{Tu déverrouilles la porte.}
+{101}{}{Tu as cassé ton passe-partout !}
+{102}{}{Tu ne peux pas ouvrir ce verrou.}
+{103}{}{Tu n'as pas réussi à crocheter le verrou.}
+{104}{}{La porte est verrouillée.}
+{105}{}{La porte est ouverte.}
+{106}{}{La porte est fermée mais pas verrouillée.}
+{107}{}{La porte est verrouillée.}
+{108}{}{La porte grince très fort.}
+{109}{}{La porte est déjà déverrouillée.}
+{110}{}{Tu n'es pas capable de crocheter le verrou.}
+{200}{}{Cette porte n'a pas de verrou à crocheter.}
+{201}{}{Tu remarques des irrégularités sur le mur.}

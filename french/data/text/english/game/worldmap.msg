@@ -43,10 +43,10 @@
 {300}{}{Adytum}
 {301}{}{Downtown}
 {302}{}{Library}
-{303}{}{Fortress}
+{303}{}{Forteresse}
 {304}{}{Warehouse}
 {310}{}{Entrance}
-{311}{}{Interior}
+{311}{}{Intérieur}
 {500}{}{You have stopped the Super Mutant threat.}
 {501}{}{Ruins}
 {1000}{}{Desert}

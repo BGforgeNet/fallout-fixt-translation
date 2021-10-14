@@ -270,9 +270,9 @@
 {335}{}{Warehouse}
 {336}{}{Underground}
 {337}{}{}
-{338}{}{Fortress}
-{339}{}{Fortress}
-{340}{}{Fortress}
+{338}{}{Forteresse}
+{339}{}{Forteresse}
+{340}{}{Forteresse}
 {341}{}{Crater}
 {342}{}{Crater}
 {343}{}{Crater}

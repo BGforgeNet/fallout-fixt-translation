@@ -1,2 +1,2 @@
-1:The Brotherhood of Steel repels the first wave of a mutant invasion, but a traitor in their midst causes the Citadel to fall.
-2:Fortunately, the advanced technology is mastered slowly by the mutants, and they were unable to use it against you.
+1:La Confrérie de l'Acier repoussa la première vague d'invasion des mutants, mais un traître parmi eux provoqua la chute de la Citadelle.
+2:Heureusement, les mutants ne comprirent que très lentement la technologie de pointe et ils n'ont pu l'utiliser contre toi.

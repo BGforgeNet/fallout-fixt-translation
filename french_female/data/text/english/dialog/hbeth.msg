@@ -266,7 +266,7 @@
 {368}{}{Merci bien. Finalement, t'es pas si mal.}
 {369}{}{Merci pour les marchandises.}
 {370}{}{Have a nice day.}
-{371}{}{Ciao.}
+{371}{}{Salut.}
 {372}{}{Merci.}
 {373}{}{Merci pour les achats, bonne journée.}
 {374}{}{J'ai entendu !}

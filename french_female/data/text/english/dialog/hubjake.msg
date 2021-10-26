@@ -57,7 +57,7 @@
 {156}{}{Comment ça marche un compteur Geiger ?}
 {157}{}{Merci du renseignement. Au revoir.}
 {158}{}{Voici ce que j'ai.}
-{159}{}{Ciao.}
+{159}{}{Salut.}
 {160}{}{Merci.}
 {161}{}{Ok.}
 {162}{}{Les mutants les ont chassés il y a 10 ans environ. C'est pour ça que je pense avoir fait le bon choix en venant m'installer ici. Les flics n'aiment pas trop mon business et j'ai été menacé plusieurs fois mais je suis sacrément plus honnête que n'importe quel autre commerçant ici.}

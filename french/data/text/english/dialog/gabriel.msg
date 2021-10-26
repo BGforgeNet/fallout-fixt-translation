@@ -28,7 +28,7 @@
 {127}{}{Faut que je réfléchisse.}
 {128}{}{Rebonjour.}
 {129}{}{C'est quoi que tu fais ici ?}
-{130}{}{Ciao.}
+{130}{}{Salut.}
 {131}{}{}
 {132}{}{Tout s'est bien passé.}
 {133}{}{Je pense avoir tué tous les Griffemorts.}

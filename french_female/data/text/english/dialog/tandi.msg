@@ -50,7 +50,7 @@
 {149}{TAND_27m}{J'suis pas celle que tu crois. Adresse-toi à une brahmime ou à j'sais pas quoi.}
 {150}{TAND_27f}{Ecoute...euh...Je, euh... J'aime les mecs, ok ? Euh, excuse-moi, j'ai du lait sur le feu.}
 {151}{TAND_28}{Eh bien, merci pour la causette. Y'a pas souvent d'étrangers ici, alors ça fait toujours plaisir d'parler à quelqu'un qu'est pas du coin. Allez, a plus !}
-{152}{}{Ciao.}
+{152}{}{Salut.}
 {153}{TAND_29}{Euh, écoute. Faut que j'm'occupe des brahmines. C'était, euh, cool... de t'parler.}
 {154}{TAND_30a}{Salut, te revoilà ! Qu'est-ce que j'peux faire pour toi cette fois ?}
 {155}{}{Je peux encore te poser quelques questions ?}

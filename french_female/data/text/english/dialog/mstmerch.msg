@@ -29,7 +29,7 @@
 {128}{}{J'ai besoin d'une puce d'eau.}
 {129}{}{Je cherche toujours une puce d'eau.}
 {130}{}{Je cherche un boulot.}
-{131}{}{Ciao.}
+{131}{}{Salut.}
 {132}{}{Mais, certainement. J't'embauche. Attends. Quel emploi ? Oh, garde de caravane, c'est ça ? D'accord. Tu peux travailler pour nous. T'as l'air correct. Autre chose ?}
 {133}{}{Bon, on a déjà causé de ça. T'es disposé à payer le prix pour faire partir les caravanes d'eau ?}
 {134}{}{Tu m'as dit qu'à Nécropolis, il pourrait bien y avoir une puce d'eau. Qu'est-ce qu'ils pourraient bien en faire ?}

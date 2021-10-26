@@ -1,7 +1,7 @@
 {100}{}{Il reste de la peinture rouge sur le chambranle de cette porte de sécurité.}
 {101}{}{Tu reçois une légère décharge du champ électrique de la porte, et prends un point de dégât.}
 {102}{}{Tu reçois une forte décharge du champ électrique de la porte, et prends }
-{103}{}{ points de dégât.}
+{103}{}{ points de dégâts.}
 {104}{}{Tu forces la porte.}
 {105}{}{La porte est verrouillée.}
 {106}{}{Autorisation accordée. Désactivation immédiate du champ électrique.}

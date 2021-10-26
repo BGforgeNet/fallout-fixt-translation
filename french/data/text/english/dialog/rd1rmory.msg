@@ -11,7 +11,7 @@
 {110}{}{Ca fait plaisir de te voir.}
 {111}{}{Et reviens.}
 {112}{}{A bientôt.}
-{113}{}{Ciao.}
+{113}{}{Salut.}
 {114}{}{Désolée, je tâcherai de bientôt renouveler mes stocks.}
 {115}{}{Je crois qu'il faut que je me diversifie.}
 {116}{}{Merci.}

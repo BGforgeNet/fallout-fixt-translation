@@ -59,7 +59,7 @@
 {158}{}{Les Contrebandiers sont au Nord-Est d'ici. Mais sois prudent; il ne faut pas prendre les Griffemorts à la légère. J'en ai vu un couper un homme en deux d'un seul coup.}
 {159}{}{Je vais voir ce que je peux découvrir.}
 {160}{}{Je regrette que tu le prennes comme ça. Mieux vaut que tu partes.}
-{161}{}{Ciao.}
+{161}{}{Salut.}
 {162}{}{Je peux t'aider ?}
 {163}{}{Es-tu le chef de ce gang ?}
 {164}{}{Qu'importe.}

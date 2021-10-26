@@ -76,7 +76,7 @@
 {407}{}{Je travaille comme garde pour les Marchands qui possèdent les marchandises dans ces chariots. Un boulot dangereux, mais c'est bien payé. Pas plus tard que la nuit dernière, un de mes collègues a été tué pendant sa garde.}
 {408}{}{Qu'est-ce que c'est les Caravanes ?}
 {409}{}{Ahhhh.[sarcastique] Quelle triste histoire. Et si tu le rejoignais ton copain ?}
-{410}{}{Ciao.}
+{410}{}{Salut.}
 {501}{}{Tu vois un garde de la Caravane.}
 {502}{}{Voici un conducteur de caravane.}
 {503}{}{Voici un conducteur de caravane.}

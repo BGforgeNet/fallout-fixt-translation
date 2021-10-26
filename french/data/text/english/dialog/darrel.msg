@@ -39,7 +39,7 @@
 {141}{}{Je voudrais entrer dans la Confrérie.}
 {143}{}{Les Païens ont essayé en vain de s'emparer de notre SuperArmure. Il faudrait qu'ils tuent un membre de la Confrérie pour acquérir ses privilèges hérités de naissance, et si tel était le cas, l'armure serait dans un tel état qu'elle serait inutilisable.}
 {144}{}{Je crois que je vais essayer de l'ôter de ton cadavre.}
-{145}{}{Ciao.}
+{145}{}{Salut.}
 {146}{}{Devrai-je pratiquer un sacrifice pour entrer dans la Confrérie ?}
 {147}{}{Lourd ? Pas du tout. L'armure sacrée est si bien conçue, selon des spécifications si précises, qu'on la porte comme une seconde peau. Elle décuple les forces de celui qui la porte et le protège des effets des radiations pour mieux servir la Confrérie. Je me sentirais diminué sans mon armure sacrée.}
 {148}{}{Comment se fait-il que personne d'autre ne possède cette armure dans le désert ?}

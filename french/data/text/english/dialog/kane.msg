@@ -244,7 +244,7 @@
 {345}{}{Grr.}
 {346}{}{Salut.}
 {347}{}{Comment ça va ?}
-{348}{}{Ciao.}
+{348}{}{Salut.}
 {349}{}{Très bien.}
 {350}{}{Comment vont les enfants ?}
 {351}{}{Belle journée, n'est-ce pas ?}

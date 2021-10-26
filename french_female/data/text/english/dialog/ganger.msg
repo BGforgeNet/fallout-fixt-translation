@@ -19,7 +19,7 @@
 {118}{}{Eh bien, bonne journée.}
 {119}{}{Tu veux dire QUI... Les Zombies, c'est nous. Si on se conduit bien, Set fera de nous un de ses gardes. Bon, maintenant, j't'en dirai pas plus.}
 {120}{}{Pourquoi tu veux devenir un de ses gardes ?}
-{121}{}{Ciao.}
+{121}{}{Salut.}
 {122}{}{J'ai dit que j't'en dirai pas plus. Fiche le camp.}
 {123}{}{T'es dingue. Où tu t'crois ? Allez, fous le camp.}
 {124}{}{Non, je veux entrer.}

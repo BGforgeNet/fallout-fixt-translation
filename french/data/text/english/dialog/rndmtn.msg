@@ -39,7 +39,7 @@
 {138}{}{Tu subis }
 {139}{}{ points de dégât et as une jambe gauche estropiée.}
 {140}{}{ points de dégât et as une jambe droite estropiée.}
-{141}{}{ points de dégât.}
+{141}{}{ points de dégâts.}
 {142}{}{Tu remplis à la source ta fiole vide.}
 {143}{}{Tu remplis à la source ta fiole vide.}
 {144}{}{ points de dégât et as un bras gauche estropié.}

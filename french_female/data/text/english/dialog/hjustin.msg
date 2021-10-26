@@ -27,7 +27,7 @@
 {126}{}{Ca me désole d'entendre ça. Si tu changes d'avis, fais-le-moi savoir mais sache que je n'attendrai pas très longtemps.}
 {127}{}{C'est bon. Ca marche pour moi. Laisse-moi juste le temps d'aller chercher du matériel.}
 {128}{}{C'est de la folie.}
-{129}{}{Ciao.}
+{129}{}{Salut.}
 {130}{}{Super ! Fais-moi savoir quand tu seras prêt mais ne mets pas trop longtemps.}
 {131}{}{Quoi ? Tu crois que je vais le laisser tuer tout le monde sans broncher. J'ai une responsabilité vis-à-vis de cette ville. Ce sont des choses que tu ne peux pas comprendre.}
 {132}{}{Tu as raison. A toi de jouer.}

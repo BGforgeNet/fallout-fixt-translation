@@ -18,7 +18,7 @@
 {117}{}{Comment ? Mais ils travaillent sur une nouvelle acquisition, une Corvega '56. Une bonne affaire, je dois dire.}
 {118}{}{Ok, comme tu veux.}
 {119}{}{Tu es complètement malade.}
-{120}{}{Ciao.}
+{120}{}{Salut.}
 {121}{}{Et nous offrons une excellente garantie. Tu peux aussi nous la ramener pour les vidanges. La première est gratuite. Qu'est-ce que tu en dis ?}
 {122}{}{Fais le plein et c'est d'accord.}
 {123}{}{Ton cas est désespéré.}

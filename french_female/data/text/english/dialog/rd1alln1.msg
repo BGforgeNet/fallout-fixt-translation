@@ -12,7 +12,7 @@
 {111}{}{Je vais te proposer un bon marché.}
 {112}{}{Et reviens.}
 {113}{}{Merci, à bientôt.}
-{114}{}{Ciao.}
+{114}{}{Salut.}
 {115}{}{Surveille ton porte-monnaie.}
 {116}{}{Si t'as besoin de quelque chose, fais-moi signe.}
 {117}{}{Attention à la marche.}

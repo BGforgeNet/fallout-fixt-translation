@@ -17,7 +17,7 @@
 {116}{}{J'ai entendu parler de toi. Tu souhaite trouver la ville de Necropolis. Une personne reconnaissance pourrait te fournir les informations que tu recherche.}
 {117}{}{Je vais y réfléchir.}
 {118}{}{Nous ne demandons rien de plus.}
-{119}{}{Ciao.}
+{119}{}{Salut.}
 {120}{}{J'ai quelques questions.}
 {121}{}{Pourquoi pas ? J'ai à coeur les meilleures intentions pour mes concitoyens, et je ne te veux aucun mal.}
 {122}{}{Que veux-tu dire ?}

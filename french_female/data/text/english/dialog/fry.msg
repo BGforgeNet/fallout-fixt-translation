@@ -36,7 +36,7 @@
 {135}{}{Je cherche un hôpital, je suis blessé.}
 {136}{}{Où sont les magasins ?}
 {137}{}{Où je peux trouver du travail dans le coin ?}
-{138}{}{Ciao.}
+{138}{}{Salut.}
 {139}{}{Garro ?}
 {140}{}{Ouga.}
 {141}{}{Vraiment ? Je, euh, adresse-toi au Shérif. Là, je peux pas quitter mon poste. Faut que je repousse les pillards qui pourraient venir. Et puis, les témoignages, c'est pas mon truc.}

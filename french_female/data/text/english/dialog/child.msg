@@ -1,4 +1,4 @@
-{100}{}{Voici un petit enfant.}
+{100}{}{Tu vois un enfant, il est plutôt petit.}
 {101}{}{Salut !}
 {102}{}{Bonjour.}
 {103}{}{Où sont tes parents ?}

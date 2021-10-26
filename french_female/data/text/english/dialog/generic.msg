@@ -33,7 +33,7 @@
 {353}{}{[Continuer]}
 {354}{}{[Combattre]}
 {355}{}{[Donner l'argent]}
-{375}{}{Ciao.}
+{375}{}{Salut.}
 {376}{}{Au revoir.}
 {450}{}{L'horizon est dégagé, on bouge !}
 {900}{}{La vieille porte usée devrait facilement être détruite avec un explosif.}

@@ -32,4 +32,4 @@
 {131}{}{C'est terrible ! Que puis-je faire ?}
 {132}{}{Peut-être que tu peux arrêter celui qui fait ça.}
 {133}{}{Je vais jeter un coup d'oeil.}
-{134}{}{Ciao.}
+{134}{}{Salut.}

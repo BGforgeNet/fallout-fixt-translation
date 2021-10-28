@@ -29,7 +29,7 @@
 {128}{Vree21}{Pour lire les disques, sers-toi de ton Pip-Boy 2000. Il suffit d'insérer le disque dans le lecteur. Si tu sais te servir d'un ordinateur, tu dois pouvoir numériser les données.}
 {129}{}{Où je peux apprendre à me servir d'un ordinateur ?}
 {130}{}{Merci.}
-{131}{}{Je peux poser encore une question ?}
+{131}{}{Je peux te poser une autre question ?}
 {132}{Vree22}{La Confrérie offre des cours automatisés. Attends, je vais te montrer.}
 {133}{Vree23}{Sers-toi de ce terminal pour apprendre les rudiments informatiques.}
 {134}{Vree24}{Tu ne m'as pas l'air d'une lumière ! Tu portes un lecteur de holodisques au bras.}

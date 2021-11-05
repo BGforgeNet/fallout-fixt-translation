@@ -283,7 +283,7 @@
 {3712}{}{Armadura de Cuero (M)}
 {3713}{}{Mad Maxx (M)}
 {3714}{}{Armadura de Metal (M)}
-{3715}{}{Brahmines}
+{3715}{}{Brahmin}
 {3716}{}{Perro}
 {3717}{}{Sr. Mañoso}
 {3718}{}{Teniente Lou (Necesita parche de ColJack)}
@@ -310,7 +310,7 @@
 {3739}{}{Campesino (Camisa Amarilla)}
 {3740}{}{Campesino Calvo (Camisa Verde)}
 {3741}{}{Enano Pelirrojo}
-{3742}{}{Desgraciado}
+{3742}{}{Perdedor}
 {3743}{}{Armadura de Cuero (M Calvo)}
 {3744}{}{Chupa de Cuero (Gamberro de Pelo Largo)}
 {3745}{}{Campesino (Gorra Azul)}

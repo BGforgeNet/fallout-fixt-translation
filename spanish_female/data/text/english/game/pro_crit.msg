@@ -3,7 +3,7 @@
 {201}{}{Macho humano vestido con una armadura de cuero.}
 {300}{}{Ciudadano}
 {301}{}{Macho humano vestido con una armadura pesada de acero.}
-{400}{}{Desgraciado}
+{400}{}{Perdedor}
 {401}{}{Un triste desgraciado.}
 {500}{}{Campesino}
 {600}{}{Habitante del Refugio}

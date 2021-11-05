@@ -279,7 +279,7 @@
 {1021}{}{Ciudad Vertedero}
 {1022}{}{Killian}
 {1023}{}{Hermandad}
-{1024}{}{Elder}
+{1024}{}{Anciano}
 {1025}{}{Ángel}
 {1026}{}{Adytum}
 {1027}{}{Jon}

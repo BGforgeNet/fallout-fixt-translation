@@ -116,7 +116,7 @@
 {1002}{}{discos}
 {1003}{}{Hermandad}
 {1004}{}{Chip}
-{1005}{}{Elder}
+{1005}{}{Anciano}
 {1006}{}{Rhombus}
 {1007}{}{Éxodo}
 {1008}{}{Extraño ejército}

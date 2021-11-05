@@ -5,7 +5,7 @@
 {105}{}{Brahmin}
 {106}{}{Guardia del Foso de los Pistoleros}
 {107}{}{Guardia}
-{108}{}{Desgraciado}
+{108}{}{Perdedor}
 {109}{}{Campesino de Arenas Sombrías}
 {110}{}{Pistolero}
 {111}{}{Entrada al Mapa}
@@ -40,7 +40,7 @@
 {140}{}{Cabbot}
 {141}{}{Niño de la Catedral}
 {142}{}{Decker}
-{143}{}{Elder}
+{143}{}{Anciano}
 {144}{}{Gizmo}
 {145}{}{Harold}
 {146}{}{Jain}

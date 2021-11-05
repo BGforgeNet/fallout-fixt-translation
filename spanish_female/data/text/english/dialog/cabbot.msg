@@ -156,7 +156,7 @@
 {1000}{}{Iniciada}
 {1001}{}{Vree}
 {1002}{}{Rhombus}
-{1003}{}{Elder}
+{1003}{}{Anciano}
 {1004}{}{Ancianos}
 {1005}{}{Escribas}
 {1006}{}{Caballeros}

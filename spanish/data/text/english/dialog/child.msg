@@ -21,7 +21,7 @@
 {1000}{}{Garra Mortal}
 {1001}{}{Raiders}
 {1002}{}{Ciudad Vertedero}
-{1003}{}{Brahmines}
+{1003}{}{Brahmin}
 {1004}{}{Chip}
 {1005}{}{Mercaderes}
 {1006}{}{Khans}

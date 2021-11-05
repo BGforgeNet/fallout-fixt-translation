@@ -140,7 +140,7 @@
 {1227}{}{Lo que sea}
 {1228}{}{Guau, esa estuvo cerca}
 {1229}{}{¡Muy lento!}
-{1230}{}{Desgraciado}
+{1230}{}{Perdedor}
 {1231}{}{¡En la cara no!}
 {1232}{}{¡Ow!}
 {1233}{}{¡Me has roto la nariz!}
@@ -241,7 +241,7 @@
 {1411}{}{¡Vámonos!}
 {1412}{}{¡Toma esto!}
 {1413}{}{¡Muere!}
-{1414}{}{Desgraciado}
+{1414}{}{Perdedor}
 {1415}{}{Punk}
 {1416}{}{Cómete esto, puta}
 {1417}{}{¡Espero que te duela!}
@@ -1329,7 +1329,7 @@
 {3311}{}{}
 {3312}{}{}
 {3313}{}{¡Muere!}
-{3314}{}{Desgraciado}
+{3314}{}{Perdedor}
 {3315}{}{Punk}
 {3316}{}{}
 {3317}{}{¡Acaba de salir tu número!}
@@ -3191,7 +3191,7 @@
 {6324}{}{}
 {6325}{}{La próxima vez intenta apuntar...}
 {6326}{}{}
-{6327}{}{Desgraciado}
+{6327}{}{Perdedor}
 {6328}{}{¡En la cara no!}
 {6329}{}{Ah, me duele la cabeza}
 {6330}{}{¡Me has roto la nariz!}
@@ -3997,7 +3997,7 @@
 {7624}{}{}
 {7625}{}{¡Conque así es como fallas! Gracias por enseñármelo}
 {7626}{}{¡Me ha hecho más daño una buena maldición!}
-{7627}{}{Desgraciado}
+{7627}{}{Perdedor}
 {7628}{}{}
 {7629}{}{Ah, me duele la cabeza}
 {7630}{}{¡Me has roto la nariz!}
@@ -4121,7 +4121,7 @@
 {7824}{}{Todavía sé arreglármelas en una pelea}
 {7825}{}{No puedes terminar el trabajo}
 {7826}{}{¡Ese ha sido tu último tiro!}
-{7827}{}{Desgraciado}
+{7827}{}{Perdedor}
 {7828}{}{¡Mi cráneo dolorido!}
 {7829}{}{¡Cómo me haces esto!}
 {7830}{}{¡Me has roto la nariz!}

@@ -14,7 +14,7 @@
 {204}{}{crippled your left arm}
 {205}{}{crippled your right arm}
 {206}{}{blinded}
-{207}{}{were killed}
+{207}{}{as été tué}
 {208}{}{hit}
 {209}{}{critical}
 {210}{}{were set on fire}
@@ -37,7 +37,7 @@
 {254}{}{crippled your left arm}
 {255}{}{crippled your right arm}
 {256}{}{blinded}
-{257}{}{were killed}
+{257}{}{as été tué}
 {258}{}{hit}
 {259}{}{critical}
 {260}{}{were set on fire}
@@ -60,7 +60,7 @@
 {304}{}{crippled his left arm}
 {305}{}{crippled his right arm}
 {306}{}{blinded}
-{307}{}{was killed}
+{307}{}{a été tué}
 {308}{}{hit}
 {309}{}{critical}
 {310}{}{was set on fire}
@@ -83,7 +83,7 @@
 {404}{}{crippled her left arm}
 {405}{}{crippled her right arm}
 {406}{}{blinded}
-{407}{}{was killed}
+{407}{}{a été tué}
 {408}{}{hit}
 {409}{}{critical}
 {410}{}{was set on fire}

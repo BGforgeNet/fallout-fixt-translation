@@ -9,7 +9,7 @@
 {108}{}{A part t'empiffrer, tu sais faire autre chose ?}
 {109}{}{T'as raison, mes excuses. Bon, parlons affaires.}
 {110}{gizmo_4}{Très bien [Gizmo renifle.], voilà le problème. Dépôtville, c'est plus ce que c'était. Si la ville est encore debout, c'est grâce à mon établissement de jeux. Malgré tout, y'a Killian qu'est toujours à m'zyeuter et ça commence à m'agacer. [Gizmo renifle.] Et c'est là que t'interviens, pauvr'andouille.}
-{111}{}{Qu'est-ce que t'attends de moi ?}
+{111}{}{Que veux tu que je fasse ?}
 {112}{}{Si tu crois que je vais t'aider, tu te fourres le doigt dans l'œil jusqu'au coude !}
 {113}{gizmo_4a}{Très drôle.}
 {114}{gizmo_5}{Mon intention, c'est que tu m'en débarrasses, tu saisis ? Pas de témoin, ni vu ni connu, vite fait bien fait.}

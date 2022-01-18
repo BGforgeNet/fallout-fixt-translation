@@ -52,7 +52,7 @@
 {151}{}{T'as intérêt. Pas tout le monde est fait pour comprendre les nuances humoristiques des Fools.}
 {152}{}{Oh, oui. Merci. Euh, ensuite ?}
 {153}{}{Hmm, oui. Bonne question. J'imagine que nous pouvons préparer l'attaque contre les Crypts. Il nous faut ce générateur...}
-{154}{}{Qu'est-ce que t'attends de moi ?}
+{154}{}{Que veux tu que je fasse ?}
 {155}{}{Hé bien, vu que tu es le Fool le plus récent, tu es donc le plus sacrifiable. Je veux que tu ailles observer les positions ennemies et me faire ton rapport.}
 {156}{}{D'accord.}
 {157}{}{Bien. Devons-nous attaquer ?}

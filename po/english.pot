@@ -3521,6 +3521,8 @@ msgstr ""
 #: data/text/english/dialog/rndcoast.msg:1007
 #: data/text/english/dialog/rndcoast.msg:1008
 #: data/text/english/dialog/rndcoast.msg:1009
+#: data/text/english/dialog/rnddesrt.msg:167
+#: data/text/english/dialog/rnddesrt.msg:168
 #: data/text/english/dialog/rnddesrt.msg:187
 #: data/text/english/dialog/rnddesrt.msg:188
 #: data/text/english/dialog/rnddesrt.msg:189
@@ -3606,8 +3608,6 @@ msgstr ""
 #: data/text/english/dialog/rnddesrt.msg:297
 #: data/text/english/dialog/rnddesrt.msg:298
 #: data/text/english/dialog/rnddesrt.msg:304
-#: data/text/english/dialog/rnddesrt.msg:167
-#: data/text/english/dialog/rnddesrt.msg:168
 #: data/text/english/dialog/saul.msg:116 data/text/english/dialog/saul.msg:117
 #: data/text/english/dialog/saul.msg:118 data/text/english/dialog/saul.msg:119
 #: data/text/english/dialog/saul.msg:120 data/text/english/dialog/saul.msg:121
@@ -4246,9 +4246,9 @@ msgstr ""
 #: data/text/english/game/combatai.msg:8890
 #: data/text/english/game/combatai.msg:8893
 #: data/text/english/game/combatai.msg:8896
-#: data/text/english/game/inventry.msg:17 data/text/english/game/map.msg:295
-#: data/text/english/game/map.msg:298 data/text/english/game/map.msg:253
+#: data/text/english/game/inventry.msg:17 data/text/english/game/map.msg:253
 #: data/text/english/game/map.msg:286 data/text/english/game/map.msg:289
+#: data/text/english/game/map.msg:295 data/text/english/game/map.msg:298
 #: data/text/english/game/map.msg:301 data/text/english/game/map.msg:304
 #: data/text/english/game/map.msg:337 data/text/english/game/pipboy.msg:208
 #: data/text/english/game/pipboy.msg:209 data/text/english/game/pipboy.msg:706
@@ -6509,12 +6509,12 @@ msgstr ""
 msgid "Doggie stay! no move."
 msgstr ""
 
-#: data/text/english/dialog/alldogs.msg:304
-msgid "Good doggie."
-msgstr ""
-
 #: data/text/english/dialog/alldogs.msg:302
 msgid "Move aside, Dogmeat. Good boy."
+msgstr ""
+
+#: data/text/english/dialog/alldogs.msg:304
+msgid "Good doggie."
 msgstr ""
 
 #: data/text/english/dialog/allnone.msg:100
@@ -8070,7 +8070,7 @@ msgstr ""
 #: data/text/english/dialog/tandi.msg:1007
 #: data/text/english/dialog/tycho.msg:1000
 #: data/text/english/dialog/wmcarvn.msg:157 data/text/english/game/map.msg:110
-#: data/text/english/game/map.msg:112 data/text/english/game/map.msg:111
+#: data/text/english/game/map.msg:111 data/text/english/game/map.msg:112
 #: data/text/english/game/map.msg:503 data/text/english/game/pipboy.msg:730
 msgid "Junktown"
 msgstr ""
@@ -9573,8 +9573,8 @@ msgstr ""
 #: data/text/english/dialog/set.msg:1003
 #: data/text/english/dialog/tandi.msg:1038
 #: data/text/english/dialog/terry.msg:1001
-#: data/text/english/dialog/tycho.msg:1012 data/text/english/game/map.msg:104
-#: data/text/english/game/map.msg:103 data/text/english/game/map.msg:105
+#: data/text/english/dialog/tycho.msg:1012 data/text/english/game/map.msg:103
+#: data/text/english/game/map.msg:104 data/text/english/game/map.msg:105
 #: data/text/english/game/map.msg:505 data/text/english/game/pipboy.msg:750
 msgid "Necropolis"
 msgstr ""
@@ -11683,11 +11683,8 @@ msgid ""
 "information on?"
 msgstr ""
 
-#: data/text/english/dialog/boslorri.msg:222
-msgid ""
-"Well, I can help make you stronger, more perceptive, increase your "
-"endurance, help improve your learning process, and increase your dexterity. "
-"Which would you like more information on?"
+#: data/text/english/dialog/boslorri.msg:123
+msgid "Charisma."
 msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:125
@@ -11711,10 +11708,6 @@ msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:129
 msgid "Endurance."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:123
-msgid "Charisma."
 msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:130
@@ -11900,8 +11893,20 @@ msgstr ""
 msgid "Did you want to ask about another one?"
 msgstr ""
 
+#: data/text/english/dialog/boslorri.msg:154
+msgid ""
+"Okay, here goes nothing... Just kidding. We can start right away. (You "
+"breathe in the anesthetic and slowly slip away)"
+msgstr ""
+
 #: data/text/english/dialog/boslorri.msg:155
 msgid "Tummy feel sick!"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:156
+msgid ""
+"So, how are we feeling? (You can already tell the difference) You're quite a"
+" talkative person in your sleep. You're free to go! Good day."
 msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:157
@@ -11910,18 +11915,6 @@ msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:158
 msgid "Hello again, how may I help you?"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:154
-msgid ""
-"Okay, here goes nothing... Just kidding. We can start right away. (You "
-"breathe in the anesthetic and slowly slip away)"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:156
-msgid ""
-"So, how are we feeling? (You can already tell the difference) You're quite a"
-" talkative person in your sleep. You're free to go! Good day."
 msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:159
@@ -11944,23 +11937,6 @@ msgstr ""
 msgid ""
 "Well, you do look a little bulkier now. (You feel great!) Let me know if "
 "there are any problems, and don't go swimming for at least an hour."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:180
-msgid ""
-"I hope you don't end up with a lazy eye like the last one... (You struggle "
-"to fight the drugs but they are too powerful)"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:181
-msgid ""
-"My, my, you are striking. I really outdid myself. (She looks you up and down"
-" a few times and then seems to snap out of it) Oh, sorry, you're free to go "
-"now."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:185
-msgid "Not as striking as you."
 msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:168
@@ -11988,6 +11964,30 @@ msgid ""
 " speed and control) All I ask of you is to please not damage my masterpiece."
 msgstr ""
 
+#: data/text/english/dialog/boslorri.msg:180
+msgid ""
+"I hope you don't end up with a lazy eye like the last one... (You struggle "
+"to fight the drugs but they are too powerful)"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:181
+msgid ""
+"My, my, you are striking. I really outdid myself. (She looks you up and down"
+" a few times and then seems to snap out of it) Oh, sorry, you're free to go "
+"now."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:185
+msgid "Not as striking as you."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:222
+msgid ""
+"Well, I can help make you stronger, more perceptive, increase your "
+"endurance, help improve your learning process, and increase your dexterity. "
+"Which would you like more information on?"
+msgstr ""
+
 #: data/text/english/dialog/boslorri.msg:233
 msgid " script but takes 3 weeks to heal."
 msgstr ""
@@ -12004,80 +12004,6 @@ msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:245
 msgid " script and takes 3 weeks to heal."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:500
-msgid "I'm sorry but this operation will not help you."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:400
-msgid ""
-"Hmmm. If anyone here needs an intelligence enhancement, it would be you. In "
-"fact, I'll do it for 3000 script instead of the 6000 you would normally need"
-" for the operation. I can't guarantee that it will help you, but I think it "
-"would be worth a try. It will also take 3 weeks of recovery time. You "
-"probably don't understand this though, do you?"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:401
-msgid "Me want Smart."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:402
-msgid "Do not want! Docs is scary..."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:403
-msgid "Very well then. Are you irradiated or hurt? I'll help you if I can."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:404
-msgid "me Hurts."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:405
-msgid "hAir fall Out!"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:407
-msgid "Okay. You're awake. Let's see here. Do you feel any smarter?"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:410
-msgid ""
-"Damn! It was a failure. Well I didn't have much to work with. Sorry, you're "
-"just an idiot and will most likely remain an idiot. We can only do the "
-"operation once, sorry to say."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:411
-msgid ""
-"Fantastic, it was a success! I was able to increase your IQ to an acceptable"
-" level. How does it feel to have half a brain?"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:412
-msgid "It's great. Thanks, Doc. Bye."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:413
-msgid "There you go. All better."
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:502
-msgid "What other operations can you perform?"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:503
-msgid ""
-"Well, technically I'm not supposed to talk about this, but we do have other "
-"procedures available. I warn you that some of them are very dangerous and "
-"have a risk of side-effects, while others are quite safe, but have an "
-"extremely long recovery time. Would you like more information?"
-msgstr ""
-
-#: data/text/english/dialog/boslorri.msg:504
-msgid "Ah yes, let me see here..."
 msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:300
@@ -12158,12 +12084,12 @@ msgid ""
 "this again soon!"
 msgstr ""
 
-#: data/text/english/dialog/boslorri.msg:315
-msgid "Definitely. See you later."
-msgstr ""
-
 #: data/text/english/dialog/boslorri.msg:314
 msgid "Hey there, gorgeous. Looking to have some more fun?"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:315
+msgid "Definitely. See you later."
 msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:316
@@ -12184,6 +12110,80 @@ msgstr ""
 
 #: data/text/english/dialog/boslorri.msg:319
 msgid "Well, I do need some brushing up on my anatomy lessons... (She winks)"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:400
+msgid ""
+"Hmmm. If anyone here needs an intelligence enhancement, it would be you. In "
+"fact, I'll do it for 3000 script instead of the 6000 you would normally need"
+" for the operation. I can't guarantee that it will help you, but I think it "
+"would be worth a try. It will also take 3 weeks of recovery time. You "
+"probably don't understand this though, do you?"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:401
+msgid "Me want Smart."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:402
+msgid "Do not want! Docs is scary..."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:403
+msgid "Very well then. Are you irradiated or hurt? I'll help you if I can."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:404
+msgid "me Hurts."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:405
+msgid "hAir fall Out!"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:407
+msgid "Okay. You're awake. Let's see here. Do you feel any smarter?"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:410
+msgid ""
+"Damn! It was a failure. Well I didn't have much to work with. Sorry, you're "
+"just an idiot and will most likely remain an idiot. We can only do the "
+"operation once, sorry to say."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:411
+msgid ""
+"Fantastic, it was a success! I was able to increase your IQ to an acceptable"
+" level. How does it feel to have half a brain?"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:412
+msgid "It's great. Thanks, Doc. Bye."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:413
+msgid "There you go. All better."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:500
+msgid "I'm sorry but this operation will not help you."
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:502
+msgid "What other operations can you perform?"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:503
+msgid ""
+"Well, technically I'm not supposed to talk about this, but we do have other "
+"procedures available. I warn you that some of them are very dangerous and "
+"have a risk of side-effects, while others are quite safe, but have an "
+"extremely long recovery time. Would you like more information?"
+msgstr ""
+
+#: data/text/english/dialog/boslorri.msg:504
+msgid "Ah yes, let me see here..."
 msgstr ""
 
 #: data/text/english/dialog/boxguard.msg:100
@@ -17471,36 +17471,6 @@ msgid ""
 " get yer money, but I doubt it."
 msgstr ""
 
-#: data/text/english/dialog/carvlead.msg:600
-msgid ""
-"Well, here we are. I can't pay you the normal rate, since we lost some of "
-"the caravan. Gotta cover our losses, y'know. Here's your payment of "
-msgstr ""
-
-#: data/text/english/dialog/carvlead.msg:602
-msgid ""
-"If you want more work, just go talk to the boss. I'd be okay working with "
-"you again. Take it easy!"
-msgstr ""
-
-#: data/text/english/dialog/carvlead.msg:603
-msgid " caps. (He pulls out an old dog-eared bag and gives you the caps) "
-msgstr ""
-
-#: data/text/english/dialog/carvlead.msg:604
-msgid ""
-"Okay, you made it. I can't pay you anything since we lost the whole caravan."
-" Gotta cover our losses y'know. I wish it could be different but that's the "
-"rules."
-msgstr ""
-
-#: data/text/english/dialog/carvlead.msg:605
-msgid ""
-"Okay, you made it. I can't pay you anything since all of the brahmin died. "
-"You cost us a lot of money, bub. No brahmin, no caravan, no money. I hope "
-"they don't let you work with us again."
-msgstr ""
-
 #: data/text/english/dialog/carvlead.msg:506
 msgid "Any jobs for me here?"
 msgstr ""
@@ -17534,6 +17504,36 @@ msgstr ""
 
 #: data/text/english/dialog/carvlead.msg:520
 msgid "You've spent an hour unloading the caravan."
+msgstr ""
+
+#: data/text/english/dialog/carvlead.msg:600
+msgid ""
+"Well, here we are. I can't pay you the normal rate, since we lost some of "
+"the caravan. Gotta cover our losses, y'know. Here's your payment of "
+msgstr ""
+
+#: data/text/english/dialog/carvlead.msg:602
+msgid ""
+"If you want more work, just go talk to the boss. I'd be okay working with "
+"you again. Take it easy!"
+msgstr ""
+
+#: data/text/english/dialog/carvlead.msg:603
+msgid " caps. (He pulls out an old dog-eared bag and gives you the caps) "
+msgstr ""
+
+#: data/text/english/dialog/carvlead.msg:604
+msgid ""
+"Okay, you made it. I can't pay you anything since we lost the whole caravan."
+" Gotta cover our losses y'know. I wish it could be different but that's the "
+"rules."
+msgstr ""
+
+#: data/text/english/dialog/carvlead.msg:605
+msgid ""
+"Okay, you made it. I can't pay you anything since all of the brahmin died. "
+"You cost us a lot of money, bub. No brahmin, no caravan, no money. I hope "
+"they don't let you work with us again."
 msgstr ""
 
 #: data/text/english/dialog/cathshop.msg:100
@@ -19698,8 +19698,8 @@ msgstr ""
 #: data/text/english/dialog/obj_dude.msg:24409
 #: data/text/english/dialog/obj_dude.msg:25009
 #: data/text/english/dialog/obj_dude.msg:25609
-#: data/text/english/dialog/tandi.msg:1013 data/text/english/game/map.msg:125
-#: data/text/english/game/map.msg:126 data/text/english/game/map.msg:116
+#: data/text/english/dialog/tandi.msg:1013 data/text/english/game/map.msg:116
+#: data/text/english/game/map.msg:125 data/text/english/game/map.msg:126
 #: data/text/english/game/map.msg:502 data/text/english/game/pipboy.msg:720
 #: data/text/english/game/scrname.msg:293
 #: data/text/english/game/scrname.msg:294
@@ -22834,12 +22834,6 @@ msgid ""
 "destroyed!"
 msgstr ""
 
-#: data/text/english/dialog/dane.msg:529
-msgid ""
-"Of course you know her, Dane, you idiot! She's our enemy! She must be "
-"destroyed!"
-msgstr ""
-
 #: data/text/english/dialog/dane.msg:130
 msgid "Don't mind him, he's an asshole. I love you. Do you love me?"
 msgstr ""
@@ -23198,6 +23192,12 @@ msgid ""
 "I'm a little bitter right now. Like Orange Pekoe left out in the rain. Ha! I"
 " like that saying! I think I'll keep repeating it! I'm a little bitter right"
 " now. Like Orange Pekoe left out in the rain..."
+msgstr ""
+
+#: data/text/english/dialog/dane.msg:529
+msgid ""
+"Of course you know her, Dane, you idiot! She's our enemy! She must be "
+"destroyed!"
 msgstr ""
 
 #: data/text/english/dialog/danwife.msg:100
@@ -25899,8 +25899,8 @@ msgstr ""
 #: data/text/english/dialog/hdtvault.msg:105
 #: data/text/english/dialog/junkjail.msg:102
 #: data/text/english/dialog/kildoor1.msg:100
-#: data/text/english/dialog/setdoor.msg:103
 #: data/text/english/dialog/setdoor1.msg:104
+#: data/text/english/dialog/setdoor.msg:103
 msgid "The door is locked."
 msgstr ""
 
@@ -27298,16 +27298,6 @@ msgstr ""
 msgid "Me "
 msgstr ""
 
-#: data/text/english/dialog/duc.msg:132
-#: data/text/english/game/combatai.msg:1346
-#: data/text/english/game/combatai.msg:3259
-#: data/text/english/game/combatai.msg:3508
-#: data/text/english/game/combatai.msg:5743
-#: data/text/english/game/combatai.msg:6541
-#: data/text/english/game/combatai.msg:6638
-msgid "!"
-msgstr ""
-
 #: data/text/english/dialog/duc.msg:118 data/text/english/dialog/lars.msg:171
 msgid "Hello again! What can I do for you?"
 msgstr ""
@@ -27349,6 +27339,16 @@ msgstr ""
 
 #: data/text/english/dialog/duc.msg:130
 msgid "Rumph!"
+msgstr ""
+
+#: data/text/english/dialog/duc.msg:132
+#: data/text/english/game/combatai.msg:1346
+#: data/text/english/game/combatai.msg:3259
+#: data/text/english/game/combatai.msg:3508
+#: data/text/english/game/combatai.msg:5743
+#: data/text/english/game/combatai.msg:6541
+#: data/text/english/game/combatai.msg:6638
+msgid "!"
 msgstr ""
 
 #: data/text/english/dialog/dugan.msg:100
@@ -32814,6 +32814,10 @@ msgstr ""
 msgid "Your Luck has increased by 1 point."
 msgstr ""
 
+#: data/text/english/dialog/genchat.msg:170
+msgid "Your attempt to equip human armor has failed; the armor is destroyed."
+msgstr ""
+
 #: data/text/english/dialog/genchat.msg:171
 msgid "I believe the Master wishes to speak with you."
 msgstr ""
@@ -32877,6 +32881,30 @@ msgstr ""
 msgid "The goo has slowed down the transmission of your keystrokes."
 msgstr ""
 
+#: data/text/english/dialog/genchat.msg:188
+msgid "Metal Armor."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:189
+msgid "Leather Armor."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:190
+msgid "Step aside, please."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:191
+msgid "Tycho is now level "
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:192
+msgid "Ian is now level "
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:193
+msgid "Katja is now level "
+msgstr ""
+
 #: data/text/english/dialog/genchat.msg:194
 msgid "Fren move! [You scowl and stamp your feet]"
 msgstr ""
@@ -32889,74 +32917,12 @@ msgstr ""
 msgid "We be fren?"
 msgstr ""
 
-#: data/text/english/dialog/genchat.msg:190
-msgid "Step aside, please."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:301
-msgid "Oops, sorry about that."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:302
-msgid "Oh, excuse me."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:291
-msgid "Tycho has gained a level!"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:191
-msgid "Tycho is now level "
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:292
-msgid "Ian has gained a level!"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:192
-msgid "Ian is now level "
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:293
-msgid "Katja has gained a level!"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:193
-msgid "Katja is now level "
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:294
-msgid "You are now level "
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:296
-msgid " (max)."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:214
-msgid "The poison has left your system."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:400
-msgid ""
-"The blast greatly weakens this energy field. It should now be harmless to "
-"pass through."
-msgstr ""
-
 #: data/text/english/dialog/genchat.msg:198
 msgid " He is wearing: "
 msgstr ""
 
 #: data/text/english/dialog/genchat.msg:199
 msgid " She is wearing: "
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:188
-msgid "Metal Armor."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:189
-msgid "Leather Armor."
 msgstr ""
 
 #: data/text/english/dialog/genchat.msg:204
@@ -32992,18 +32958,12 @@ msgstr ""
 msgid "You cannot steal from this critter."
 msgstr ""
 
-#: data/text/english/dialog/genchat.msg:225
-msgid "Nice try, but that won't work."
-msgstr ""
-
 #: data/text/english/dialog/genchat.msg:212
 msgid "You look at yourself for a while. Do you like what you see?"
 msgstr ""
 
-#: data/text/english/dialog/genchat.msg:218
-msgid ""
-"You must have a lot of time on your hands to be checking yourself out like "
-"this."
+#: data/text/english/dialog/genchat.msg:214
+msgid "The poison has left your system."
 msgstr ""
 
 #: data/text/english/dialog/genchat.msg:215
@@ -33016,6 +32976,12 @@ msgstr ""
 
 #: data/text/english/dialog/genchat.msg:217
 msgid " Always run."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:218
+msgid ""
+"You must have a lot of time on your hands to be checking yourself out like "
+"this."
 msgstr ""
 
 #: data/text/english/dialog/genchat.msg:219
@@ -33040,6 +33006,44 @@ msgstr ""
 
 #: data/text/english/dialog/genchat.msg:224
 msgid " Maximum Blood advised for characters with Bloody Mess."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:225
+msgid "Nice try, but that won't work."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:291
+msgid "Tycho has gained a level!"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:292
+msgid "Ian has gained a level!"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:293
+msgid "Katja has gained a level!"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:294
+msgid "You are now level "
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:296
+msgid " (max)."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:301
+msgid "Oops, sorry about that."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:302
+msgid "Oh, excuse me."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:400
+msgid ""
+"The blast greatly weakens this energy field. It should now be harmless to "
+"pass through."
 msgstr ""
 
 #: data/text/english/dialog/genchat.msg:401
@@ -33170,6 +33174,77 @@ msgstr ""
 msgid "Striding Commander."
 msgstr ""
 
+#: data/text/english/dialog/genchat.msg:433
+msgid "Pip-Boy displays: \"FixtOS v"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:434
+msgid "0.9.0 "
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:435
+msgid "active"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:436
+msgid ". Simulation began on FixtOS v"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:437
+msgid ". Upgraded from FixtOS v"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:438
+msgid "0."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:440
+msgid "alpha"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:441
+msgid "beta"
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:442
+#: data/text/english/dialog/rndcoast.msg:1003
+msgid "\""
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:443
+msgid ". Simulation began on FixtOS v0.5.3 or older."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:500
+msgid ""
+"The door mocks you defiantly by withstanding the blast, receiving only dents"
+" and scorch marks."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:501
+msgid ""
+"The door is concerned with its ability to take more punishment, as it creaks"
+" and buckles from the blast."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:502
+msgid ""
+"The door groans in agony as it is blown from its hinges, falling to the "
+"floor with a mighty crash."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:504
+msgid " experience for successful use of explosives."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:505
+msgid "The blast doesn't quite destroy the door. You'll need one more."
+msgstr ""
+
+#: data/text/english/dialog/genchat.msg:506
+msgid "Hmm, that doesn't seem to work."
+msgstr ""
+
 #: data/text/english/dialog/genchat.msg:533
 msgid "Commander of the Wastes."
 msgstr ""
@@ -33250,77 +33325,6 @@ msgstr ""
 #: data/text/english/dialog/genchat.msg:553
 #: data/text/english/dialog/genchat.msg:554
 msgid ", a "
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:433
-msgid "Pip-Boy displays: \"FixtOS v"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:434
-msgid "0.9.0 "
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:435
-msgid "active"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:436
-msgid ". Simulation began on FixtOS v"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:437
-msgid ". Upgraded from FixtOS v"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:438
-msgid "0."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:440
-msgid "alpha"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:441
-msgid "beta"
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:442
-#: data/text/english/dialog/rndcoast.msg:1003
-msgid "\""
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:443
-msgid ". Simulation began on FixtOS v0.5.3 or older."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:500
-msgid ""
-"The door mocks you defiantly by withstanding the blast, receiving only dents"
-" and scorch marks."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:501
-msgid ""
-"The door is concerned with its ability to take more punishment, as it creaks"
-" and buckles from the blast."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:502
-msgid ""
-"The door groans in agony as it is blown from its hinges, falling to the "
-"floor with a mighty crash."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:504
-msgid " experience for successful use of explosives."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:505
-msgid "The blast doesn't quite destroy the door. You'll need one more."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:506
-msgid "Hmm, that doesn't seem to work."
 msgstr ""
 
 #: data/text/english/dialog/genchat.msg:601
@@ -33472,10 +33476,6 @@ msgstr ""
 
 #: data/text/english/dialog/genchat.msg:1161
 msgid " point."
-msgstr ""
-
-#: data/text/english/dialog/genchat.msg:170
-msgid "Your attempt to equip human armor has failed; the armor is destroyed."
 msgstr ""
 
 #: data/text/english/dialog/genchat.msg:1170
@@ -34149,10 +34149,6 @@ msgstr ""
 
 #: data/text/english/dialog/generic.msg:2019
 msgid "nineteen"
-msgstr ""
-
-#: data/text/english/dialog/generic.msg:21020
-msgid "twenty"
 msgstr ""
 
 #: data/text/english/dialog/generic.msg:2021
@@ -35316,16 +35312,16 @@ msgstr ""
 msgid "Do you wish to continue playing Fallout Fixt with this character?"
 msgstr ""
 
-#: data/text/english/dialog/generic.msg:5203
-msgid ""
-"Yes.  (CONTINUE PLAYING: This dialog window will close and you'll stay on "
-"this map. Play continues normally.)"
-msgstr ""
-
 #: data/text/english/dialog/generic.msg:5202
 msgid ""
 "No.  (END GAME: Play final movie sequence & credits, then exit to main "
 "menu.)"
+msgstr ""
+
+#: data/text/english/dialog/generic.msg:5203
+msgid ""
+"Yes.  (CONTINUE PLAYING: This dialog window will close and you'll stay on "
+"this map. Play continues normally.)"
 msgstr ""
 
 #: data/text/english/dialog/generic.msg:5400
@@ -35472,6 +35468,10 @@ msgstr ""
 #: data/text/english/dialog/generic.msg:10100
 #: data/text/english/dialog/lance.msg:197
 msgid "Let's go."
+msgstr ""
+
+#: data/text/english/dialog/generic.msg:21020
+msgid "twenty"
 msgstr ""
 
 #: data/text/english/dialog/genfgt.msg:100
@@ -40147,25 +40147,6 @@ msgid ""
 "the Advanced Weapons Research and the Biomedical Sciences divisions."
 msgstr ""
 
-#: data/text/english/dialog/gpwrterm.msg:241
-msgid ""
-" In 2069, West Tech was the single largest contractor for the United States "
-"government; its largest contract being Powered Infantry Armor Model T-51b. "
-msgstr ""
-
-#: data/text/english/dialog/gpwrterm.msg:242
-msgid ""
-"In light of significant advances in 2076 by the NBC on the Pan-Immunity "
-"Virion Project, the United States Defense Department, in fear of "
-"international espionage,"
-msgstr ""
-
-#: data/text/english/dialog/gpwrterm.msg:243
-msgid ""
-" moved a team onto the site to secure and oversee the project, now dubbed "
-"the FEV (Forced Evolutionary Virus) project."
-msgstr ""
-
 #: data/text/english/dialog/gpwrterm.msg:212
 msgid ""
 "Security:                                                     Security "
@@ -40281,24 +40262,6 @@ msgid ""
 "features for both civilian and military disturbances. "
 msgstr ""
 
-#: data/text/english/dialog/gpwrterm.msg:250
-msgid ""
-"The back-mounted TX-28 Micro Fusion Pack generates 60,000 Watts to power the"
-" HiFlo hydraulic systems built into the frame of the suit. "
-msgstr ""
-
-#: data/text/english/dialog/gpwrterm.msg:251
-msgid ""
-"Made of the latest poly-laminate composite, the T-51b shell is lightweight "
-"and capable of absorbing over 2500 Joules of kinetic impact. "
-msgstr ""
-
-#: data/text/english/dialog/gpwrterm.msg:252
-msgid ""
-"The 10 micron silver ablative coating can reflect laser and radiation "
-"emissions without damage to the composite subsurface."
-msgstr ""
-
 #: data/text/english/dialog/gpwrterm.msg:232
 msgid ""
 "FEV Summary Digest:                                                     "
@@ -40356,6 +40319,43 @@ msgstr ""
 
 #: data/text/english/dialog/gpwrterm.msg:240
 msgid "Access Denied"
+msgstr ""
+
+#: data/text/english/dialog/gpwrterm.msg:241
+msgid ""
+" In 2069, West Tech was the single largest contractor for the United States "
+"government; its largest contract being Powered Infantry Armor Model T-51b. "
+msgstr ""
+
+#: data/text/english/dialog/gpwrterm.msg:242
+msgid ""
+"In light of significant advances in 2076 by the NBC on the Pan-Immunity "
+"Virion Project, the United States Defense Department, in fear of "
+"international espionage,"
+msgstr ""
+
+#: data/text/english/dialog/gpwrterm.msg:243
+msgid ""
+" moved a team onto the site to secure and oversee the project, now dubbed "
+"the FEV (Forced Evolutionary Virus) project."
+msgstr ""
+
+#: data/text/english/dialog/gpwrterm.msg:250
+msgid ""
+"The back-mounted TX-28 Micro Fusion Pack generates 60,000 Watts to power the"
+" HiFlo hydraulic systems built into the frame of the suit. "
+msgstr ""
+
+#: data/text/english/dialog/gpwrterm.msg:251
+msgid ""
+"Made of the latest poly-laminate composite, the T-51b shell is lightweight "
+"and capable of absorbing over 2500 Joules of kinetic impact. "
+msgstr ""
+
+#: data/text/english/dialog/gpwrterm.msg:252
+msgid ""
+"The 10 micron silver ablative coating can reflect laser and radiation "
+"emissions without damage to the composite subsurface."
 msgstr ""
 
 #: data/text/english/dialog/graffiti.msg:100
@@ -40553,6 +40553,10 @@ msgstr ""
 msgid "I've heard bad things about you. Are they all true?"
 msgstr ""
 
+#: data/text/english/dialog/guard2.msg:101
+msgid "Fix the water pump now or die."
+msgstr ""
+
 #: data/text/english/dialog/guard.msg:100
 msgid "Not scared."
 msgstr ""
@@ -40583,10 +40587,6 @@ msgstr ""
 
 #: data/text/english/dialog/guard.msg:108
 msgid "You don't look very tough to me."
-msgstr ""
-
-#: data/text/english/dialog/guard2.msg:101
-msgid "Fix the water pump now or die."
 msgstr ""
 
 #: data/text/english/dialog/guardemo.msg:100
@@ -44986,6 +44986,29 @@ msgstr ""
 msgid "I miss caravan duty."
 msgstr ""
 
+#: data/text/english/dialog/hhookera.msg:100
+#: data/text/english/dialog/rdfalcon.msg:100
+msgid "You see a drunk."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:101
+#: data/text/english/dialog/rdfalcon.msg:101
+msgid "You see a customer."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:102
+msgid "You see a sleazy-looking woman."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:103
+#: data/text/english/dialog/rdfalcon.msg:103
+msgid "You see a strange-looking man."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:105
+msgid "You see a very pretty lady. She seems to be busy."
+msgstr ""
+
 #: data/text/english/dialog/hhookera.msg:107
 #: data/text/english/dialog/rdfalcon.msg:107
 #: data/text/english/dialog/rock.msg:101
@@ -44993,9 +45016,14 @@ msgstr ""
 msgid "You see a man."
 msgstr ""
 
-#: data/text/english/dialog/hhookera.msg:100
-#: data/text/english/dialog/rdfalcon.msg:100
-msgid "You see a drunk."
+#: data/text/english/dialog/hhookera.msg:108
+#: data/text/english/dialog/rdfalcon.msg:108
+msgid "You see a very upset gambler."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:109
+#: data/text/english/dialog/rdfalcon.msg:109
+msgid "You see a mercenary."
 msgstr ""
 
 #: data/text/english/dialog/hhookera.msg:110
@@ -45037,11 +45065,6 @@ msgstr ""
 
 #: data/text/english/dialog/hhookera.msg:119
 msgid "Stand still, lassie!"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:101
-#: data/text/english/dialog/rdfalcon.msg:101
-msgid "You see a customer."
 msgstr ""
 
 #: data/text/english/dialog/hhookera.msg:120
@@ -45118,290 +45141,6 @@ msgstr ""
 msgid "Bet it or beat it."
 msgstr ""
 
-#: data/text/english/dialog/hhookera.msg:105
-msgid "You see a very pretty lady. She seems to be busy."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:301
-msgid ""
-"Upon further inspection, it's obvious that this is a prostitute with a "
-"customer. She motions for you to leave, immediately."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:102
-msgid "You see a sleazy-looking woman."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:302
-msgid ""
-"Upon further inspection, it's obvious that this is a prostitute. She flashes"
-" you a fake smile."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:200
-#: data/text/english/dialog/hhookera.msg:215
-msgid "Hey darlin', lookin' for a good time?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:201
-msgid "What'ya lookin for, darlin'?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:202
-msgid "Lookin' for some company?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:203
-msgid "Hey there, cutie."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:204
-#: data/text/english/dialog/hhookera.msg:213
-msgid "You like what you see? I do."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:205
-msgid "Show me what you got, sugar."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:206
-#: data/text/english/dialog/hhookera.msg:216
-msgid "I like it rough, if you're into that."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:207
-#: data/text/english/dialog/hhookera.msg:217
-msgid "No diseases; I'm clean!"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:208
-#: data/text/english/dialog/hhookera.msg:218
-msgid "I do groups, for a little extra."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:209
-#: data/text/english/dialog/hhookera.msg:219
-msgid "I'll do anything for the right price..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:210
-msgid "I've never been with a girl before..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:211
-msgid "I'm your dream come true, sugar."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:212
-msgid "If you've got the caps, i'm in."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:214
-msgid "Hey there, sweet pea."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:232
-msgid "Pritty lady. With me?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:233
-msgid "Oh god... darlin' I gotta make a livin' but even I have standards."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:235
-msgid "ME WANT!"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:405
-msgid ""
-"Well... I guess I could make an exception. You better have a helluva lot of "
-"caps though."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:243
-msgid "Cap?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:244
-msgid ""
-"*sigh* Yes, you idiot. Bottle caps. Pay me 150 and I'll show you a good "
-"time. That should be enough for me to drown my shame at the Falcon and still"
-" make a profit."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:238
-#: data/text/english/dialog/medic.msg:171
-msgid "Hmph."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:239
-msgid "Sorry darlin'. If you find yourself a new brain, come back and see me."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:240
-msgid "Mmf. Oh-k, me go."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:257
-msgid "Here go."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:258
-msgid "Me no got monies..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:259
-msgid "Hmph!"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:260
-msgid "I can't believe I'm even doing this..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:261
-msgid "Get out of here. I'm gonna go throw up now."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:262
-msgid "I need to get a new job."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:263
-msgid "You again? Fuck off, I don't work with retards that can't pay."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:264
-msgid "Urr..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:265
-msgid "Buh?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:220
-msgid "How much does the fun cost?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:221
-msgid "Twenty caps."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:249
-msgid "Okay, sounds good."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:222
-msgid "Let's get down to business..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:227
-msgid "Alright. What'chya lookin for, darlin'?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:223
-msgid "No thanks, not interested."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:225
-msgid "How much for some group action?"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:241
-msgid "Depends on what you're lookin' for, honey."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:226
-msgid "A hundred caps."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:230
-msgid "Lapdance."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:231
-msgid "Striptease."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:234
-msgid "Have some fun with yourself, I'll just watch."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:237
-msgid "Anything and everything! Surprise me..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:245
-msgid "I don't care, let's just get this over with."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:246
-msgid "Just sex."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:236
-msgid "The usual."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:250
-msgid "On second thought, never mind."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:251
-msgid "Suit yourself, sugar. You'll be back."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:228
-msgid "Alright, follow me..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:242
-msgid "Alright, everyone follow me..."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:229
-msgid "Thanks, stranger. (She pockets the caps and blows you a kiss)"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:256
-msgid "Thanks, sugar. Come back soon!"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:224
-msgid "Thanks for the good time. I'll see you later."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:247
-msgid "For you, "
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:248
-msgid "For you, sugar? "
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:252
-msgid "I don't have that many caps."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:253
-msgid "Then why the fuck are you even talking to me? Get out!"
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:400
-msgid "Well that was interesting."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:402
-msgid "We should get back to work now."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:403
-msgid "Ugh, I feel dirty."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:404
-msgid "Oh wow..."
-msgstr ""
-
 #: data/text/english/dialog/hhookera.msg:135
 #: data/text/english/dialog/rdfalcon.msg:135
 msgid "Leave us alone or I'll call the guards."
@@ -45474,11 +45213,6 @@ msgstr ""
 msgid "What are you staring at?"
 msgstr ""
 
-#: data/text/english/dialog/hhookera.msg:109
-#: data/text/english/dialog/rdfalcon.msg:109
-msgid "You see a mercenary."
-msgstr ""
-
 #: data/text/english/dialog/hhookera.msg:150
 #: data/text/english/dialog/hhookera.msg:153
 #: data/text/english/dialog/rdfalcon.msg:153
@@ -45507,11 +45241,6 @@ msgstr ""
 #: data/text/english/dialog/hhookera.msg:158
 #: data/text/english/dialog/rdfalcon.msg:158
 msgid "She's mine."
-msgstr ""
-
-#: data/text/english/dialog/hhookera.msg:108
-#: data/text/english/dialog/rdfalcon.msg:108
-msgid "You see a very upset gambler."
 msgstr ""
 
 #: data/text/english/dialog/hhookera.msg:159
@@ -45568,11 +45297,6 @@ msgstr ""
 msgid "I meant to do that, honest."
 msgstr ""
 
-#: data/text/english/dialog/hhookera.msg:103
-#: data/text/english/dialog/rdfalcon.msg:103
-msgid "You see a strange-looking man."
-msgstr ""
-
 #: data/text/english/dialog/hhookera.msg:169
 #: data/text/english/dialog/rdfalcon.msg:169
 msgid "Place your bets."
@@ -45615,6 +45339,282 @@ msgstr ""
 #: data/text/english/dialog/hhookera.msg:178
 #: data/text/english/dialog/rdfalcon.msg:178
 msgid "Anyone else?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:200
+#: data/text/english/dialog/hhookera.msg:215
+msgid "Hey darlin', lookin' for a good time?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:201
+msgid "What'ya lookin for, darlin'?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:202
+msgid "Lookin' for some company?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:203
+msgid "Hey there, cutie."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:204
+#: data/text/english/dialog/hhookera.msg:213
+msgid "You like what you see? I do."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:205
+msgid "Show me what you got, sugar."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:206
+#: data/text/english/dialog/hhookera.msg:216
+msgid "I like it rough, if you're into that."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:207
+#: data/text/english/dialog/hhookera.msg:217
+msgid "No diseases; I'm clean!"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:208
+#: data/text/english/dialog/hhookera.msg:218
+msgid "I do groups, for a little extra."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:209
+#: data/text/english/dialog/hhookera.msg:219
+msgid "I'll do anything for the right price..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:210
+msgid "I've never been with a girl before..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:211
+msgid "I'm your dream come true, sugar."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:212
+msgid "If you've got the caps, i'm in."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:214
+msgid "Hey there, sweet pea."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:220
+msgid "How much does the fun cost?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:221
+msgid "Twenty caps."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:222
+msgid "Let's get down to business..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:223
+msgid "No thanks, not interested."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:224
+msgid "Thanks for the good time. I'll see you later."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:225
+msgid "How much for some group action?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:226
+msgid "A hundred caps."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:227
+msgid "Alright. What'chya lookin for, darlin'?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:228
+msgid "Alright, follow me..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:229
+msgid "Thanks, stranger. (She pockets the caps and blows you a kiss)"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:230
+msgid "Lapdance."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:231
+msgid "Striptease."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:232
+msgid "Pritty lady. With me?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:233
+msgid "Oh god... darlin' I gotta make a livin' but even I have standards."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:234
+msgid "Have some fun with yourself, I'll just watch."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:235
+msgid "ME WANT!"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:236
+msgid "The usual."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:237
+msgid "Anything and everything! Surprise me..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:238
+#: data/text/english/dialog/medic.msg:171
+msgid "Hmph."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:239
+msgid "Sorry darlin'. If you find yourself a new brain, come back and see me."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:240
+msgid "Mmf. Oh-k, me go."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:241
+msgid "Depends on what you're lookin' for, honey."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:242
+msgid "Alright, everyone follow me..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:243
+msgid "Cap?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:244
+msgid ""
+"*sigh* Yes, you idiot. Bottle caps. Pay me 150 and I'll show you a good "
+"time. That should be enough for me to drown my shame at the Falcon and still"
+" make a profit."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:245
+msgid "I don't care, let's just get this over with."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:246
+msgid "Just sex."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:247
+msgid "For you, "
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:248
+msgid "For you, sugar? "
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:249
+msgid "Okay, sounds good."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:250
+msgid "On second thought, never mind."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:251
+msgid "Suit yourself, sugar. You'll be back."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:252
+msgid "I don't have that many caps."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:253
+msgid "Then why the fuck are you even talking to me? Get out!"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:256
+msgid "Thanks, sugar. Come back soon!"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:257
+msgid "Here go."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:258
+msgid "Me no got monies..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:259
+msgid "Hmph!"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:260
+msgid "I can't believe I'm even doing this..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:261
+msgid "Get out of here. I'm gonna go throw up now."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:262
+msgid "I need to get a new job."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:263
+msgid "You again? Fuck off, I don't work with retards that can't pay."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:264
+msgid "Urr..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:265
+msgid "Buh?"
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:301
+msgid ""
+"Upon further inspection, it's obvious that this is a prostitute with a "
+"customer. She motions for you to leave, immediately."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:302
+msgid ""
+"Upon further inspection, it's obvious that this is a prostitute. She flashes"
+" you a fake smile."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:400
+msgid "Well that was interesting."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:402
+msgid "We should get back to work now."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:403
+msgid "Ugh, I feel dirty."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:404
+msgid "Oh wow..."
+msgstr ""
+
+#: data/text/english/dialog/hhookera.msg:405
+msgid ""
+"Well... I guess I could make an exception. You better have a helluva lot of "
+"caps though."
 msgstr ""
 
 #: data/text/english/dialog/hicraps.msg:100
@@ -47679,10 +47679,6 @@ msgstr ""
 msgid "Did you know that there's a bounty of "
 msgstr ""
 
-#: data/text/english/dialog/hunter.msg:200
-msgid " caps on your head for killing children? Time to collect!"
-msgstr ""
-
 #: data/text/english/dialog/hunter.msg:111
 msgid ""
 "(He looks you over, carefully, considering something. It seems he's made a "
@@ -47740,6 +47736,10 @@ msgstr ""
 #: data/text/english/dialog/hunter.msg:126
 msgid ""
 "I'm going to do the world a favor by putting a bullet through your skull."
+msgstr ""
+
+#: data/text/english/dialog/hunter.msg:200
+msgid " caps on your head for killing children? Time to collect!"
 msgstr ""
 
 #: data/text/english/dialog/hwmhost.msg:100
@@ -48183,8 +48183,8 @@ msgstr ""
 #: data/text/english/dialog/obj_dude.msg:4606
 #: data/text/english/dialog/over.msg:1009
 #: data/text/english/dialog/rebel.msg:1002
-#: data/text/english/dialog/tycho.msg:1019 data/text/english/game/map.msg:135
-#: data/text/english/game/map.msg:106 data/text/english/game/map.msg:500
+#: data/text/english/dialog/tycho.msg:1019 data/text/english/game/map.msg:106
+#: data/text/english/game/map.msg:135 data/text/english/game/map.msg:500
 #: data/text/english/game/pipboy.msg:700
 #: data/text/english/game/pipboy.msg:2022
 #: data/text/english/game/scrname.msg:299
@@ -48863,10 +48863,6 @@ msgstr ""
 msgid "Thank you so much for helping me."
 msgstr ""
 
-#: data/text/english/dialog/irwin.msg:122
-msgid "You earn 500 experience for saving Irwin's farm."
-msgstr ""
-
 #: data/text/english/dialog/irwin.msg:118
 msgid "Grunk?"
 msgstr ""
@@ -48884,12 +48880,12 @@ msgstr ""
 msgid "Me no fix yet."
 msgstr ""
 
-#: data/text/english/dialog/irwin.msg:123
-msgid "No find farm. You show?"
+#: data/text/english/dialog/irwin.msg:122
+msgid "You earn 500 experience for saving Irwin's farm."
 msgstr ""
 
-#: data/text/english/dialog/irwin.msg:403
-msgid "Tank-u!"
+#: data/text/english/dialog/irwin.msg:123
+msgid "No find farm. You show?"
 msgstr ""
 
 #: data/text/english/dialog/irwin.msg:300
@@ -48914,6 +48910,10 @@ msgstr ""
 
 #: data/text/english/dialog/irwin.msg:401
 msgid "I will, but please hurry. I want to go back to my home."
+msgstr ""
+
+#: data/text/english/dialog/irwin.msg:403
+msgid "Tank-u!"
 msgstr ""
 
 #: data/text/english/dialog/ismarc.msg:100
@@ -52772,10 +52772,6 @@ msgid ""
 "cuts."
 msgstr ""
 
-#: data/text/english/dialog/justin.msg:185
-msgid "Prime Choice Select is made of people!!!! It's made of people!!!"
-msgstr ""
-
 #: data/text/english/dialog/justin.msg:181
 msgid ""
 "You're kidding! Are you sure? Hmmm... Let me look into this and i'll get "
@@ -52791,6 +52787,10 @@ msgstr ""
 
 #: data/text/english/dialog/justin.msg:184
 msgid "I know. It's a shame, considering how delicious they are."
+msgstr ""
+
+#: data/text/english/dialog/justin.msg:185
+msgid "Prime Choice Select is made of people!!!! It's made of people!!!"
 msgstr ""
 
 #: data/text/english/dialog/justin.msg:186
@@ -60784,10 +60784,6 @@ msgstr ""
 msgid "You see a peasant."
 msgstr ""
 
-#: data/text/english/dialog/lenore.msg:108
-msgid "You see: Lenore."
-msgstr ""
-
 #: data/text/english/dialog/lenore.msg:101
 msgid ""
 "Oh, yeah, big man running from a scary dog. Phil, you sure showed it. Yep, "
@@ -60820,6 +60816,10 @@ msgstr ""
 
 #: data/text/english/dialog/lenore.msg:107
 msgid "Thanks for dealing with that dog."
+msgstr ""
+
+#: data/text/english/dialog/lenore.msg:108
+msgid "You see: Lenore."
 msgstr ""
 
 #: data/text/english/dialog/leon.msg:100
@@ -62122,18 +62122,18 @@ msgid ""
 "about, don't you know. But enough of that. Loxley's the name. And yours is?"
 msgstr ""
 
-#: data/text/english/dialog/loxley.msg:110
-msgctxt "LOX_1F"
-msgid ""
-"Bloody impressive making it through the defenses like that! What's your "
-"name, luv?"
-msgstr ""
-
 #: data/text/english/dialog/loxley.msg:109
 msgctxt "LOX_1M"
 msgid ""
 "Bloody fine job making it through the defenses, mate! I'm rather impressed. "
 "Toss me your name!"
+msgstr ""
+
+#: data/text/english/dialog/loxley.msg:110
+msgctxt "LOX_1F"
+msgid ""
+"Bloody impressive making it through the defenses like that! What's your "
+"name, luv?"
 msgstr ""
 
 #: data/text/english/dialog/loxley.msg:115
@@ -62226,14 +62226,14 @@ msgstr ""
 msgid "Hell, no!"
 msgstr ""
 
-#: data/text/english/dialog/loxley.msg:134
-msgctxt "LOX_6F"
-msgid "That's the spirit, luv!"
-msgstr ""
-
 #: data/text/english/dialog/loxley.msg:133
 msgctxt "LOX_6M"
 msgid "That's the spirit, mate!"
+msgstr ""
+
+#: data/text/english/dialog/loxley.msg:134
+msgctxt "LOX_6F"
+msgid "That's the spirit, luv!"
 msgstr ""
 
 #: data/text/english/dialog/loxley.msg:135
@@ -64935,6 +64935,15 @@ msgstr ""
 msgid "Nothing right now. Thanks though."
 msgstr ""
 
+#: data/text/english/dialog/master1.msg:102
+#: data/text/english/dialog/master1.msg:106
+#: data/text/english/dialog/master1.msg:110
+#: data/text/english/dialog/master2.msg:102
+#: data/text/english/dialog/master2.msg:106
+#: data/text/english/dialog/master2.msg:110
+msgid "This is where you make your mark on the world. [A small pile of ash]"
+msgstr ""
+
 #: data/text/english/dialog/master.msg:100
 msgid "You see the Master of the Super Mutants."
 msgstr ""
@@ -65509,15 +65518,6 @@ msgstr ""
 #: data/text/english/dialog/master.msg:215
 msgctxt "Mast203"
 msgid "You think you can destroy me!? Destroy! Me?"
-msgstr ""
-
-#: data/text/english/dialog/master1.msg:102
-#: data/text/english/dialog/master1.msg:106
-#: data/text/english/dialog/master1.msg:110
-#: data/text/english/dialog/master2.msg:102
-#: data/text/english/dialog/master2.msg:106
-#: data/text/english/dialog/master2.msg:110
-msgid "This is where you make your mark on the world. [A small pile of ash]"
 msgstr ""
 
 #: data/text/english/dialog/mathia.msg:100
@@ -73346,9 +73346,9 @@ msgstr ""
 #: data/text/english/dialog/obj_dude.msg:28806
 #: data/text/english/dialog/obj_dude.msg:29006
 #: data/text/english/dialog/tandi.msg:1014 data/text/english/game/map.msg:136
-#: data/text/english/game/map.msg:138 data/text/english/game/map.msg:139
-#: data/text/english/game/map.msg:140 data/text/english/game/map.msg:141
-#: data/text/english/game/map.msg:137 data/text/english/game/map.msg:165
+#: data/text/english/game/map.msg:137 data/text/english/game/map.msg:138
+#: data/text/english/game/map.msg:139 data/text/english/game/map.msg:140
+#: data/text/english/game/map.msg:141 data/text/english/game/map.msg:165
 #: data/text/english/game/map.msg:166 data/text/english/game/map.msg:506
 #: data/text/english/game/pipboy.msg:760
 #: data/text/english/game/scrname.msg:584
@@ -80697,132 +80697,26 @@ msgstr ""
 msgid "Apparently, they were just wandering the wastes."
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:125
-msgid "You avoid dehydration due to your supply of water, emptying "
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:119
-msgid " flask."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:124
-msgid " flasks."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:112
-msgid "You avoid dehydration due to your supply of fluids, emptying "
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:116
-msgid " water flask"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:117
-msgid " water flasks"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:141
-msgid " Nuka-cola"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:140
-msgid " Nuka-colas"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:142
-msgid " beer"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:149
-msgid " beers"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:150
-msgid " bottle of booze"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:151
-msgid " bottles of booze"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:152
-msgid "Resorting to alcohol reduces your "
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:156
-msgid " by 1 point."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:157
-msgid " by 2 points."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:155
-msgid "Strength and Endurance"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:158
-msgid " by 1 point each."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:114
-msgid "Your water supply runs out, "
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:161
-msgid "Your supply of fluids runs out, "
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:162
-msgid "and your search of "
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:115
-msgid " hours fails to locate any water. Dehydration sets in, causing you "
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:148
-msgid " point of health damage."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:113
-msgid " points of health damage."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:163
+#: data/text/english/dialog/rnddesrt.msg:104
 msgid ""
-"but you manage to avoid dehydration by searching for water. The search takes"
-" "
+"You have stumbled into a fierce battle between radscorpions and mole rats."
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:164
-msgid "1 hour."
+#: data/text/english/dialog/rnddesrt.msg:105
+msgid "AMBUSH!!!"
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:111
-msgid " hours."
+#: data/text/english/dialog/rnddesrt.msg:106
+msgid "You have stumbled upon a large pack of radscorpions!"
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:147
-msgid ""
-"You manage to avoid dehydration by searching for water. The search takes 1 "
-"hour."
+#: data/text/english/dialog/rnddesrt.msg:107
+msgid "You have stumbled upon a pack of radscorpions."
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:138
-msgid " You refill your "
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:118
-msgid "flask"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:159
-msgid "flasks"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:160
-msgid " with the drinkable water."
+#: data/text/english/dialog/rnddesrt.msg:108
+#: data/text/english/dialog/rndmtn.msg:108
+msgid "You have stumbled upon a family of mole rats."
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:109
@@ -80835,6 +80729,42 @@ msgstr ""
 msgid ""
 "You manage to avoid a serious case of dehydration by searching for water. "
 "The search takes an additional "
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:111
+msgid " hours."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:112
+msgid "You avoid dehydration due to your supply of fluids, emptying "
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:113
+msgid " points of health damage."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:114
+msgid "Your water supply runs out, "
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:115
+msgid " hours fails to locate any water. Dehydration sets in, causing you "
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:116
+msgid " water flask"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:117
+msgid " water flasks"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:118
+msgid "flask"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:119
+msgid " flask."
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:120
@@ -80854,66 +80784,12 @@ msgid ""
 "sustained "
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:105
-msgid "AMBUSH!!!"
+#: data/text/english/dialog/rnddesrt.msg:124
+msgid " flasks."
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:104
-msgid ""
-"You have stumbled into a fierce battle between radscorpions and mole rats."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:106
-msgid "You have stumbled upon a large pack of radscorpions!"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:107
-msgid "You have stumbled upon a pack of radscorpions."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:108
-#: data/text/english/dialog/rndmtn.msg:108
-msgid "You have stumbled upon a family of mole rats."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:131
-msgid "STAMPEDE!!!"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:132
-msgid "You stumble onto a very large pack of radscorpions!"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:144
-msgid "You have stumbled into a large gathering of mole rats."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:145
-msgid "You encounter a band of wild radscorpions."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:146
-msgid "You encounter some peasants under attack."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:169
-msgid "You stumble into a family of radscorpions."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:170
-msgid "You come across a traveling merchant and guards."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:305
-msgid "You come across what's left of merchant Duc's hostile guards."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:175
-msgid "You encounter a traveler."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:171
-msgid "You encounter a dead traveler."
+#: data/text/english/dialog/rnddesrt.msg:125
+msgid "You avoid dehydration due to your supply of water, emptying "
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:126
@@ -80938,6 +80814,18 @@ msgstr ""
 msgid "You note a partially-eaten corpse here."
 msgstr ""
 
+#: data/text/english/dialog/rnddesrt.msg:131
+msgid "STAMPEDE!!!"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:132
+msgid "You stumble onto a very large pack of radscorpions!"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:133
+msgid "Raiders ambush you!"
+msgstr ""
+
 #: data/text/english/dialog/rnddesrt.msg:134
 msgid "A pack of nasty radscorpions strikes from the desert!"
 msgstr ""
@@ -80950,20 +80838,140 @@ msgstr ""
 msgid "You come across a merchant with several guards."
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:174
-msgid "You come across the remnants of a merchant and his guards."
-msgstr ""
-
 #: data/text/english/dialog/rnddesrt.msg:137
 msgid "You see a peasant herding several brahmin."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:138
+msgid " You refill your "
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:139
 msgid "Radscorpions hunt mole rats among the ruined city walls."
 msgstr ""
 
+#: data/text/english/dialog/rnddesrt.msg:140
+msgid " Nuka-colas"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:141
+msgid " Nuka-cola"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:142
+msgid " beer"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:143
+msgid "Raiders!!!"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:144
+msgid "You have stumbled into a large gathering of mole rats."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:145
+msgid "You encounter a band of wild radscorpions."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:146
+msgid "You encounter some peasants under attack."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:147
+msgid ""
+"You manage to avoid dehydration by searching for water. The search takes 1 "
+"hour."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:148
+msgid " point of health damage."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:149
+msgid " beers"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:150
+msgid " bottle of booze"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:151
+msgid " bottles of booze"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:152
+msgid "Resorting to alcohol reduces your "
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:155
+msgid "Strength and Endurance"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:156
+msgid " by 1 point."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:157
+msgid " by 2 points."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:158
+msgid " by 1 point each."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:159
+msgid "flasks"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:160
+msgid " with the drinkable water."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:161
+msgid "Your supply of fluids runs out, "
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:162
+msgid "and your search of "
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:163
+msgid ""
+"but you manage to avoid dehydration by searching for water. The search takes"
+" "
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:164
+msgid "1 hour."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:169
+msgid "You stumble into a family of radscorpions."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:170
+msgid "You come across a traveling merchant and guards."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:171
+msgid "You encounter a dead traveler."
+msgstr ""
+
 #: data/text/english/dialog/rnddesrt.msg:172
 msgid "You have stumbled across some items laying on the ground."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:173
+msgid "You spot the remains of a caravan, being looted by raiders."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:174
+msgid "You come across the remnants of a merchant and his guards."
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:175
+msgid "You encounter a traveler."
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:176
@@ -80971,33 +80979,17 @@ msgid ""
 "You have stumbled across a small patch of ruined and deserted buildings."
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:133
-msgid "Raiders ambush you!"
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:143
-msgid "Raiders!!!"
+#: data/text/english/dialog/rnddesrt.msg:196
+#: data/text/english/dialog/rnddesrt.msg:200
+msgid "Radscorpions, incoming!"
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:197
 msgid "Uh-oh... a raiding party!"
 msgstr ""
 
-#: data/text/english/dialog/rnddesrt.msg:173
-msgid "You spot the remains of a caravan, being looted by raiders."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:310
-msgid "A small group of raiders attack!"
-msgstr ""
-
 #: data/text/english/dialog/rnddesrt.msg:198
 msgid "You see a lone raider in the distance."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:196
-#: data/text/english/dialog/rnddesrt.msg:200
-msgid "Radscorpions, incoming!"
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:199
@@ -81046,16 +81038,16 @@ msgstr ""
 msgid "You see some strange creatures ahead..."
 msgstr ""
 
+#: data/text/english/dialog/rnddesrt.msg:255
+msgid "You find some items."
+msgstr ""
+
 #: data/text/english/dialog/rnddesrt.msg:256
 msgid "A patrol unit of Super Mutants is passing close by!"
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:257
 msgid "You spot the ruins of a tiny village."
-msgstr ""
-
-#: data/text/english/dialog/rnddesrt.msg:255
-msgid "You find some items."
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:279
@@ -81122,6 +81114,10 @@ msgstr ""
 msgid "You stumble into a migrating pack of radscorpions."
 msgstr ""
 
+#: data/text/english/dialog/rnddesrt.msg:305
+msgid "You come across what's left of merchant Duc's hostile guards."
+msgstr ""
+
 #: data/text/english/dialog/rnddesrt.msg:306
 msgid ""
 "A patrol unit of mutants is passing close by. Along with them are some "
@@ -81134,6 +81130,10 @@ msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:308
 msgid "Looks like you've stumbled into a vicious gang war!"
+msgstr ""
+
+#: data/text/english/dialog/rnddesrt.msg:310
+msgid "A small group of raiders attack!"
 msgstr ""
 
 #: data/text/english/dialog/rnddesrt.msg:311
@@ -81162,16 +81162,34 @@ msgid ""
 "wrong..."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:114
-msgid "You are traveling through sheer cliffs and rugged terrain."
+#: data/text/english/dialog/rndmtn.msg:100
+msgid "You are nearly crushed by a large boulder in an avalanche."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:101
+msgid "You escape with no damage."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:102
+msgid "The displaced rock brings with it the remains of a long-dead traveler."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:103
+#: data/text/english/dialog/rndmtn.msg:112
+#: data/text/english/dialog/rndmtn.msg:126
+msgid "Your leg is critically damaged by falling rocks."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:104
+#: data/text/english/dialog/rndmtn.msg:113
+#: data/text/english/dialog/rndmtn.msg:127
+msgid ""
+"Some rock shards slice your face and hands, but you escape with minimal "
+"damage."
 msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:105
 msgid "Radscorpions!!"
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:121
-msgid "You see a lone traveler in the distance."
 msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:106
@@ -81182,47 +81200,30 @@ msgstr ""
 msgid "Out of nowhere, a radscorpion suddenly strikes!"
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:100
-msgid "You are nearly crushed by a large boulder in an avalanche."
+#: data/text/english/dialog/rndmtn.msg:109
+msgid "You are overtaken by a landslide."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:102
-msgid "The displaced rock brings with it the remains of a long-dead traveler."
+#: data/text/english/dialog/rndmtn.msg:110
+msgid "Amazingly, you escape with no damage."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:136
-msgid "You stumble onto a pack of hostile radscorpions."
+#: data/text/english/dialog/rndmtn.msg:111
+msgid "The displaced rock reveals a gold deposit!"
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:120
-#: data/text/english/dialog/rndmtn.msg:130
-msgid "You find several rats scavenging about here."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:122
-msgid ""
-"The ground ahead is littered with debris and bodies. It looks like an old "
-"battle zone."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:128
-msgid "You see a lone radscorpion, skittering about."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:135
-msgid "You come across the bones of a long-dead traveler."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:129
-msgid "Tremendous mole rats are nosing about here."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:134
-msgid "You see several rats running toward you."
+#: data/text/english/dialog/rndmtn.msg:114
+msgid "You are traveling through sheer cliffs and rugged terrain."
 msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:115
 msgid " fortunately, your climbing skills are up to the task."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:116
+msgid ""
+"You find a cave with a small spring and manage to get your first good "
+"night's sleep in a long time."
 msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:117
@@ -81233,12 +81234,49 @@ msgstr ""
 msgid "You fall from a cliffside to the rocky ground below."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:109
-msgid "You are overtaken by a landslide."
+#: data/text/english/dialog/rndmtn.msg:119
+msgid "You stumble onto a large pack of radscorpions."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:120
+#: data/text/english/dialog/rndmtn.msg:130
+msgid "You find several rats scavenging about here."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:121
+msgid "You see a lone traveler in the distance."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:122
+msgid ""
+"The ground ahead is littered with debris and bodies. It looks like an old "
+"battle zone."
 msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:123
 msgid "You lose your footing on the rocky terrain."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:124
+msgid "You skillfully escape with no damage."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:125
+msgid "You escape with no damage. The displaced rock reveals a gold deposit!"
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:128
+msgid "You see a lone radscorpion, skittering about."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:129
+msgid "Tremendous mole rats are nosing about here."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:131
+msgid ""
+"Exhausted, you nearly fall over some rough terrain. They could really use a "
+"GECK out here!"
 msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:132
@@ -81251,43 +81289,23 @@ msgstr ""
 msgid "You fall over the rough terrain and scrape some flesh."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:101
-msgid "You escape with no damage."
+#: data/text/english/dialog/rndmtn.msg:134
+msgid "You see several rats running toward you."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:110
-msgid "Amazingly, you escape with no damage."
+#: data/text/english/dialog/rndmtn.msg:135
+msgid "You come across the bones of a long-dead traveler."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:124
-msgid "You skillfully escape with no damage."
+#: data/text/english/dialog/rndmtn.msg:136
+msgid "You stumble onto a pack of hostile radscorpions."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:131
+#: data/text/english/dialog/rndmtn.msg:137
+#: data/text/english/dialog/shadywst.msg:119
 msgid ""
-"Exhausted, you nearly fall over some rough terrain. They could really use a "
-"GECK out here!"
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:104
-#: data/text/english/dialog/rndmtn.msg:113
-#: data/text/english/dialog/rndmtn.msg:127
-msgid ""
-"Some rock shards slice your face and hands, but you escape with minimal "
-"damage."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:147
-msgid ""
-"Your pitiful attempt to escape the rocks is a colossal failure. All of your "
-"limbs are crushed and battered in a spectacular spray of blood. Amazingly, "
-"you survive."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:148
-msgid ""
-"You fail to find any handholds during the fall, and land with a mighty "
-"crash, crushing both your legs like radroaches."
+"You see the camp of a traveling raider band. Looks like you've come to the "
+"wrong place at the wrong time."
 msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:139
@@ -81296,6 +81314,14 @@ msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:140
 msgid " points of damage and a crippled right leg."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:142
+msgid "You refill your empty flask in the spring."
+msgstr ""
+
+#: data/text/english/dialog/rndmtn.msg:143
+msgid "You refill your empty flasks in the spring."
 msgstr ""
 
 #: data/text/english/dialog/rndmtn.msg:144
@@ -81310,43 +81336,17 @@ msgstr ""
 msgid " points of damage and two crippled limbs."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:103
-#: data/text/english/dialog/rndmtn.msg:112
-#: data/text/english/dialog/rndmtn.msg:126
-msgid "Your leg is critically damaged by falling rocks."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:116
+#: data/text/english/dialog/rndmtn.msg:147
 msgid ""
-"You find a cave with a small spring and manage to get your first good "
-"night's sleep in a long time."
+"Your pitiful attempt to escape the rocks is a colossal failure. All of your "
+"limbs are crushed and battered in a spectacular spray of blood. Amazingly, "
+"you survive."
 msgstr ""
 
-#: data/text/english/dialog/rndmtn.msg:125
-msgid "You escape with no damage. The displaced rock reveals a gold deposit!"
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:111
-msgid "The displaced rock reveals a gold deposit!"
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:142
-msgid "You refill your empty flask in the spring."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:143
-msgid "You refill your empty flasks in the spring."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:119
-msgid "You stumble onto a large pack of radscorpions."
-msgstr ""
-
-#: data/text/english/dialog/rndmtn.msg:137
-#: data/text/english/dialog/shadywst.msg:119
+#: data/text/english/dialog/rndmtn.msg:148
 msgid ""
-"You see the camp of a traveling raider band. Looks like you've come to the "
-"wrong place at the wrong time."
+"You fail to find any handholds during the fall, and land with a mighty "
+"crash, crushing both your legs like radroaches."
 msgstr ""
 
 #: data/text/english/dialog/robctrl.msg:100
@@ -85048,6 +85048,18 @@ msgid ""
 "watch for pure-strain humans."
 msgstr ""
 
+#: data/text/english/dialog/setdoor1.msg:103
+msgid "You don't know how to pick the lock."
+msgstr ""
+
+#: data/text/english/dialog/setdoor1.msg:106
+msgid "The door is closed and unlocked."
+msgstr ""
+
+#: data/text/english/dialog/setdoor1.msg:107
+msgid "creeeeeek"
+msgstr ""
+
 #: data/text/english/dialog/setdoor.msg:100
 msgid "You see a solid wall."
 msgstr ""
@@ -85104,20 +85116,21 @@ msgstr ""
 msgid "You see nothing special about this door."
 msgstr ""
 
-#: data/text/english/dialog/setdoor1.msg:103
-msgid "You don't know how to pick the lock."
-msgstr ""
-
-#: data/text/english/dialog/setdoor1.msg:106
-msgid "The door is closed and unlocked."
-msgstr ""
-
-#: data/text/english/dialog/setdoor1.msg:107
-msgid "creeeeeek"
-msgstr ""
-
 #: data/text/english/dialog/setguard.msg:100
 msgid "The guard does not respond to you."
+msgstr ""
+
+#: data/text/english/dialog/seth2.msg:100
+msgid "You see: Seth, the guide back to Shady Sands."
+msgstr ""
+
+#: data/text/english/dialog/seth2.msg:101
+msgid "Let's hurry and get rid of these Radscorpions."
+msgstr ""
+
+#: data/text/english/dialog/seth2.msg:102
+msgid ""
+"Let's get back to Shady Sands and let them know the Radscorpions are gone."
 msgstr ""
 
 #: data/text/english/dialog/seth.msg:100
@@ -85392,19 +85405,6 @@ msgstr ""
 msgid "Nasty creatures with a deadly venom."
 msgstr ""
 
-#: data/text/english/dialog/seth2.msg:100
-msgid "You see: Seth, the guide back to Shady Sands."
-msgstr ""
-
-#: data/text/english/dialog/seth2.msg:101
-msgid "Let's hurry and get rid of these Radscorpions."
-msgstr ""
-
-#: data/text/english/dialog/seth2.msg:102
-msgid ""
-"Let's get back to Shady Sands and let them know the Radscorpions are gone."
-msgstr ""
-
 #: data/text/english/dialog/setsctdr.msg:100
 msgid "You find a crude explosive device in the doorframe."
 msgstr ""
@@ -85553,13 +85553,6 @@ msgid ""
 "horrible has happened here."
 msgstr ""
 
-#: data/text/english/dialog/shadywst.msg:155
-msgid ""
-"A structure surrounded by a chainlink fence is to the north. Looks like it's"
-" been damaged by an explosion. The stench of death here is almost "
-"unbearable."
-msgstr ""
-
 #: data/text/english/dialog/shadywst.msg:151
 msgid ""
 "This town is silent and ominous, littered with dead bodies. Something "
@@ -85580,6 +85573,13 @@ msgstr ""
 msgid ""
 "You see the scene of a slaughter. There appears to be no survivors, although"
 " you can hear the faint sound of movement."
+msgstr ""
+
+#: data/text/english/dialog/shadywst.msg:155
+msgid ""
+"A structure surrounded by a chainlink fence is to the north. Looks like it's"
+" been damaged by an explosion. The stench of death here is almost "
+"unbearable."
 msgstr ""
 
 #: data/text/english/dialog/shark.msg:100
@@ -90368,16 +90368,16 @@ msgctxt "TAND_22"
 msgid "Same as always. Bo-ring."
 msgstr ""
 
+#: data/text/english/dialog/tandi.msg:141
+msgctxt "TAND_23g"
+msgid "The weirdest story I've heard is about the Deathclaw."
+msgstr ""
+
 #: data/text/english/dialog/tandi.msg:142
 #: data/text/english/dialog/tandi.msg:1131
 #: data/text/english/dialog/tandi.msg:1132
 msgctxt "TAND_23b"
 msgid "Just stuff."
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:141
-msgctxt "TAND_23g"
-msgid "The weirdest story I've heard is about the Deathclaw."
 msgstr ""
 
 #: data/text/english/dialog/tandi.msg:144
@@ -90623,8 +90623,8 @@ msgid ""
 msgstr ""
 
 #: data/text/english/dialog/tandi.msg:193
-#: data/text/english/dialog/tandi.msg:1124
 #: data/text/english/dialog/tandi.msg:1106
+#: data/text/english/dialog/tandi.msg:1124
 #: data/text/english/dialog/tandi.msg:1140
 #: data/text/english/dialog/tandi.msg:1141
 msgctxt "TAND_52"
@@ -90666,10 +90666,10 @@ msgstr ""
 #: data/text/english/dialog/tandi.msg:197
 #: data/text/english/dialog/tandi.msg:980
 #: data/text/english/dialog/tandi.msg:1115
-#: data/text/english/dialog/tandi.msg:1134
-#: data/text/english/dialog/tandi.msg:1135
 #: data/text/english/dialog/tandi.msg:1116
 #: data/text/english/dialog/tandi.msg:1133
+#: data/text/english/dialog/tandi.msg:1134
+#: data/text/english/dialog/tandi.msg:1135
 msgctxt "TAND_62"
 msgid ""
 "I don't know. You might want to ask Seth or my father about it, though."
@@ -90759,6 +90759,56 @@ msgstr ""
 msgid "Thanks for letting me tag along!"
 msgstr ""
 
+#: data/text/english/dialog/tandi.msg:350
+msgctxt "TAND_16a"
+msgid "Yeah, whatever."
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:400
+msgctxt "TAND_3"
+msgid ""
+"Sure, I guess. I've never been out of here, so I don't know what help I can "
+"be. So, what'cha need?"
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:402
+msgctxt "TAND_28"
+msgid ""
+"Well, thanks for... \"talking\". (She winks at you.) We don't get many "
+"strangers here, so it's always good to \"talk\" to new people. Well, see ya!"
+" (She looks exhausted, but blows you a kiss.)"
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:404
+msgid "Every inch of you, but not here. Let's go somewhere private."
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:405
+msgid ""
+"You look rather... inexperienced. I'd like to fill you with as much "
+"\"knowledge\" as you can handle. [wink]"
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:406
+msgid "[Sigh] More than you can provide, but I'll make do."
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:410
+msgctxt "TAND_14"
+msgid ""
+"Finally! Someone else who sees! Of course, you've probably been everywhere, "
+"so this must be hell for you. (She shrugs and leads you around the "
+"corner...)"
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:412
+msgid "(She smiles and leads you around the corner...)"
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:415
+msgid "I'd like to have some more fun, if you've got the time."
+msgstr ""
+
 #: data/text/english/dialog/tandi.msg:500
 msgid "Can you answer a few questions first?"
 msgstr ""
@@ -90773,10 +90823,6 @@ msgstr ""
 
 #: data/text/english/dialog/tandi.msg:503
 msgid "Just wanted to say hi. You're great."
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:510
-msgid "Let's discuss our tactics and formation."
 msgstr ""
 
 #: data/text/english/dialog/tandi.msg:504
@@ -90799,58 +90845,8 @@ msgstr ""
 msgid "Make boom-boom?"
 msgstr ""
 
-#: data/text/english/dialog/tandi.msg:400
-msgctxt "TAND_3"
-msgid ""
-"Sure, I guess. I've never been out of here, so I don't know what help I can "
-"be. So, what'cha need?"
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:404
-msgid "Every inch of you, but not here. Let's go somewhere private."
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:412
-msgid "(She smiles and leads you around the corner...)"
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:405
-msgid ""
-"You look rather... inexperienced. I'd like to fill you with as much "
-"\"knowledge\" as you can handle. [wink]"
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:410
-msgctxt "TAND_14"
-msgid ""
-"Finally! Someone else who sees! Of course, you've probably been everywhere, "
-"so this must be hell for you. (She shrugs and leads you around the "
-"corner...)"
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:406
-msgid "[Sigh] More than you can provide, but I'll make do."
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:350
-msgctxt "TAND_16a"
-msgid "Yeah, whatever."
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:402
-msgctxt "TAND_28"
-msgid ""
-"Well, thanks for... \"talking\". (She winks at you.) We don't get many "
-"strangers here, so it's always good to \"talk\" to new people. Well, see ya!"
-" (She looks exhausted, but blows you a kiss.)"
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:415
-msgid "I'd like to have some more fun, if you've got the time."
-msgstr ""
-
-#: data/text/english/dialog/tandi.msg:1042
-msgid "Camp"
+#: data/text/english/dialog/tandi.msg:510
+msgid "Let's discuss our tactics and formation."
 msgstr ""
 
 #: data/text/english/dialog/tandi.msg:1004
@@ -90859,18 +90855,22 @@ msgstr ""
 msgid "Well"
 msgstr ""
 
-#: data/text/english/dialog/tandi.msg:1030
-msgid "Rad"
+#: data/text/english/dialog/tandi.msg:1009 data/text/english/game/map.msg:119
+#: data/text/english/game/scrname.msg:344
+#: data/text/english/game/worldmap.msg:1002
+msgid "City"
 msgstr ""
 
 #: data/text/english/dialog/tandi.msg:1024
 msgid "Deathclaws"
 msgstr ""
 
-#: data/text/english/dialog/tandi.msg:1009 data/text/english/game/map.msg:119
-#: data/text/english/game/scrname.msg:344
-#: data/text/english/game/worldmap.msg:1002
-msgid "City"
+#: data/text/english/dialog/tandi.msg:1030
+msgid "Rad"
+msgstr ""
+
+#: data/text/english/dialog/tandi.msg:1033
+msgid "The Vault"
 msgstr ""
 
 #: data/text/english/dialog/tandi.msg:1037
@@ -90878,8 +90878,8 @@ msgstr ""
 msgid "Dead"
 msgstr ""
 
-#: data/text/english/dialog/tandi.msg:1033
-msgid "The Vault"
+#: data/text/english/dialog/tandi.msg:1042
+msgid "Camp"
 msgstr ""
 
 #: data/text/english/dialog/taylor.msg:100
@@ -91632,9 +91632,196 @@ msgid ""
 " future."
 msgstr ""
 
-#: data/text/english/dialog/thomas.msg:100
 #: data/text/english/dialog/thomas2.msg:100
+#: data/text/english/dialog/thomas.msg:100
 msgid "You see: Brother Thomas."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:101
+msgid ""
+"Why, hello there. You must be the new Initiate Talus told me about. It's "
+"awfully late for a social call, what can I do for you?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:102
+msgid "I need some supplies."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:103
+msgid "I need training."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:104
+msgid "I wanted some medical help."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:105
+msgid "Nothing, sorry to bother you."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:106
+msgid "Yuk Yuk?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:107
+msgid "Ruh."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:108
+msgid "What could you possibly want at this hour?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:109
+msgid "I don't have time for this."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:110
+msgid ""
+"What? Do I look like requisition man? If you don't even know who I am, why "
+"are you bothering me? Please leave!"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:111
+msgid "Damn it "
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:112
+msgid ", I'm a trainer not a doctor. She's on level two."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:113
+msgid ""
+"Well, why are you bothering me about it? Michael's probably asleep right "
+"now, unless Talus has him on sentry duty. Check at the supply room in the "
+"morning."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:114
+msgid ""
+"Well, the Elders said no new Initiate training but...sure. You seem like a "
+"nice young lad. I'd hate for something to happen to you out there, when I "
+"might have been able to help. What are you looking to train in?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:115
+msgid ""
+"Well, the Elders said no new Initiate training but...sure. You seem like a "
+"nice young lady. I'd hate for something to happen to you out there, when I "
+"might have been able to help. What are you looking to train in?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:118
+msgid "Small guns."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:119
+msgid "Big guns."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:120
+msgid "Energy weapons."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:121
+msgid "Unarmed combat."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:122
+msgid "Melee weapons."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:123
+msgid "Throwing."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:125
+msgid ""
+"Why I ought to throw you right out of my room, but I'm a nice old man. The "
+"Elders said no new Initiate training but...I might be able to help. They "
+"probably didn't have you in mind when they said that. What are you looking "
+"to train in?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:126
+msgid ""
+"Why hello again. Nice to see you. Don't be shy, I don't sleep very much "
+"anymore. Are you looking for some more training? What shall it be today...I "
+"mean tonight."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:127
+msgid "I knew you would be back! What're you in the mood for tonight?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:128
+msgid ""
+"Are you going to ask me dumb questions again? I really don't have the time."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:129
+msgid "Well, you see, different caliber weapons have..."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:130
+msgid "After a day of intense training you feel more skilled with small guns."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:131
+msgid "The..."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:132
+msgid ""
+"After two days of intense training you feel more skilled with big guns."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:134
+msgid ""
+"After a few days of intense training you feel more skilled with energy "
+"weapons."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:135
+msgid ""
+"After a day of intense training you feel more skilled in unarmed combat."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:136
+msgid ""
+"After two days of intense training you feel more skilled with melee weapons."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:137
+msgid ""
+"After a day of intense training you feel more skilled at throwing objects."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:138
+msgid "No problem. Let me know if you change your mind."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:139
+msgid "I don't know why I'm wasting my time with you."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:140
+msgid ""
+"Yes? Oh, I suppose you're looking for more training. Well, I don't sleep "
+"much anymore anyhow, why not. What shall it be?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:141
+msgid "Now what? More stupid questions?"
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:142
+msgid ""
+"Oh, that's all right. As I said, I hardly ever sleep. Come back any time."
+msgstr ""
+
+#: data/text/english/dialog/thomas2.msg:143
+msgid ""
+"Well, stop pestering me then. I'm an old man and I need my beauty sleep."
 msgstr ""
 
 #: data/text/english/dialog/thomas.msg:101
@@ -91883,193 +92070,6 @@ msgstr ""
 
 #: data/text/english/dialog/thomas.msg:400
 msgid "Thomas ignores you."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:101
-msgid ""
-"Why, hello there. You must be the new Initiate Talus told me about. It's "
-"awfully late for a social call, what can I do for you?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:102
-msgid "I need some supplies."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:103
-msgid "I need training."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:104
-msgid "I wanted some medical help."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:105
-msgid "Nothing, sorry to bother you."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:106
-msgid "Yuk Yuk?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:107
-msgid "Ruh."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:108
-msgid "What could you possibly want at this hour?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:109
-msgid "I don't have time for this."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:110
-msgid ""
-"What? Do I look like requisition man? If you don't even know who I am, why "
-"are you bothering me? Please leave!"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:111
-msgid "Damn it "
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:112
-msgid ", I'm a trainer not a doctor. She's on level two."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:113
-msgid ""
-"Well, why are you bothering me about it? Michael's probably asleep right "
-"now, unless Talus has him on sentry duty. Check at the supply room in the "
-"morning."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:114
-msgid ""
-"Well, the Elders said no new Initiate training but...sure. You seem like a "
-"nice young lad. I'd hate for something to happen to you out there, when I "
-"might have been able to help. What are you looking to train in?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:115
-msgid ""
-"Well, the Elders said no new Initiate training but...sure. You seem like a "
-"nice young lady. I'd hate for something to happen to you out there, when I "
-"might have been able to help. What are you looking to train in?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:118
-msgid "Small guns."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:119
-msgid "Big guns."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:120
-msgid "Energy weapons."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:121
-msgid "Unarmed combat."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:122
-msgid "Melee weapons."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:123
-msgid "Throwing."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:125
-msgid ""
-"Why I ought to throw you right out of my room, but I'm a nice old man. The "
-"Elders said no new Initiate training but...I might be able to help. They "
-"probably didn't have you in mind when they said that. What are you looking "
-"to train in?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:126
-msgid ""
-"Why hello again. Nice to see you. Don't be shy, I don't sleep very much "
-"anymore. Are you looking for some more training? What shall it be today...I "
-"mean tonight."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:127
-msgid "I knew you would be back! What're you in the mood for tonight?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:128
-msgid ""
-"Are you going to ask me dumb questions again? I really don't have the time."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:129
-msgid "Well, you see, different caliber weapons have..."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:130
-msgid "After a day of intense training you feel more skilled with small guns."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:131
-msgid "The..."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:132
-msgid ""
-"After two days of intense training you feel more skilled with big guns."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:134
-msgid ""
-"After a few days of intense training you feel more skilled with energy "
-"weapons."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:135
-msgid ""
-"After a day of intense training you feel more skilled in unarmed combat."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:136
-msgid ""
-"After two days of intense training you feel more skilled with melee weapons."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:137
-msgid ""
-"After a day of intense training you feel more skilled at throwing objects."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:138
-msgid "No problem. Let me know if you change your mind."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:139
-msgid "I don't know why I'm wasting my time with you."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:140
-msgid ""
-"Yes? Oh, I suppose you're looking for more training. Well, I don't sleep "
-"much anymore anyhow, why not. What shall it be?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:141
-msgid "Now what? More stupid questions?"
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:142
-msgid ""
-"Oh, that's all right. As I said, I hardly ever sleep. Come back any time."
-msgstr ""
-
-#: data/text/english/dialog/thomas2.msg:143
-msgid ""
-"Well, stop pestering me then. I'm an old man and I need my beauty sleep."
 msgstr ""
 
 #: data/text/english/dialog/thorndyk.msg:100
@@ -94183,14 +94183,6 @@ msgstr ""
 msgid "You see the Vault 13 door entry computer."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:1000
-msgid "You notice blinking lights on the door computer."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:1001
-msgid "Hmm... I wonder why those are blinking?"
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:104
 msgid "We are grateful to you for saving us, but we can't let you in."
 msgstr ""
@@ -94283,10 +94275,6 @@ msgid ""
 " 13 will soon discover their Vault has become a tomb."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:131
-msgid "Vault 13 door entry computer can't be accessed during combat."
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:125
 msgid "> Command? "
 msgstr ""
@@ -94303,8 +94291,20 @@ msgstr ""
 msgid "Modify configuration parameters."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:151
-msgid "Replay historical data feed."
+#: data/text/english/dialog/v13comp.msg:130
+msgid ""
+"Welcome to your SimTek 5000 interactive customization! Vault-Tec is "
+"committed to providing a pleasant integration into the outside world. "
+"Remember, incorrect settings may cause unstable anomalies! (Warranty void "
+"after 2077)"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:131
+msgid "Vault 13 door entry computer can't be accessed during combat."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:132
+msgid "I understand.  [Execute \"SPOILERS.EXE\"]"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:133
@@ -94319,81 +94319,48 @@ msgstr ""
 msgid "Changey?"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:152
-msgid ""
-"Calculating... System monitors indicate that Vault 13 water reserves are "
-"currently dropping at a steady rate. Estimated days left until total "
-"depletion: "
+#: data/text/english/dialog/v13comp.msg:137
+msgid "Boosh.  [Execute \"SPOILERS.EXE\"]"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:130
-msgid ""
-"Welcome to your SimTek 5000 interactive customization! Vault-Tec is "
-"committed to providing a pleasant integration into the outside world. "
-"Remember, incorrect settings may cause unstable anomalies! (Warranty void "
-"after 2077)"
+#: data/text/english/dialog/v13comp.msg:138
+msgid "Recalibrate Vault 13 water-level monitoring systems."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:208
-msgid ""
-"Thank you for trusting Vault-Tec and SimTek 5000 with your customization "
-"needs! Please state a command."
+#: data/text/english/dialog/v13comp.msg:139
+msgid "View or modify simulation-terminating parameters."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:132
-msgid "I understand.  [Execute \"SPOILERS.EXE\"]"
+#: data/text/english/dialog/v13comp.msg:140
+msgid "[Super Mutant Invasions]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:141
+msgid "Classify situational combat options."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:142
+msgid "Recalculate cross-wasteland encounter statistics."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:143
+msgid "[Items, Inventory, Bartering]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:144
+msgid "[Levelup stuff]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:145
+msgid "[Social sexy times]"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:146
 msgid "Hmm... Actually, let's go back."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:137
-msgid "Boosh.  [Execute \"SPOILERS.EXE\"]"
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:147
 msgid "DO NOT WANT!"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:298
-msgid "[1]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:299
-msgid "[2]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:300
-msgid "[3]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:301
-msgid "[4]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:302
-msgid "[5]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:303
-msgid "[6]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:304
-msgid "[7]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:305
-msgid "[8]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:202
-msgid "k!"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:219
-msgid "Nah-nah."
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:148
@@ -94408,33 +94375,25 @@ msgstr ""
 msgid "Okay, I'm done here.  [Go to main menu]"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:170
-msgid "Me like.  [Go to main menu]"
+#: data/text/english/dialog/v13comp.msg:151
+msgid "Replay historical data feed."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:190
-msgid "Looks good; let's back up.  [Go to previous menu]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:200
-msgid "Me done! Where other?  [Go to previous menu]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:188
-msgid "DISABLED"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:189
-msgid "ENABLED"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:138
-msgid "Recalibrate Vault 13 water-level monitoring systems."
+#: data/text/english/dialog/v13comp.msg:152
+msgid ""
+"Calculating... System monitors indicate that Vault 13 water reserves are "
+"currently dropping at a steady rate. Estimated days left until total "
+"depletion: "
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:153
 msgid ""
 ".  Enter new value to recalibrate system.  (Default database value: 150)"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:154
+#: data/text/english/dialog/vconcomp.msg:140
+msgid "> Command?"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:155
@@ -94449,36 +94408,8 @@ msgstr ""
 msgid "[90]"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:175
-msgid "Align calibration with Overseer's estimates. [120 - 150]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:176
-msgid "Or-seer nums! [120 - 150]"
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:158
 msgid "[120]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:171
-msgid "[125]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:179
-msgid "[130]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:172
-msgid "[135]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:173
-msgid "[140]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:174
-msgid "[145]"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:159
@@ -94517,6 +94448,34 @@ msgstr ""
 msgid "[730]"
 msgstr ""
 
+#: data/text/english/dialog/v13comp.msg:170
+msgid "Me like.  [Go to main menu]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:171
+msgid "[125]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:172
+msgid "[135]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:173
+msgid "[140]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:174
+msgid "[145]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:175
+msgid "Align calibration with Overseer's estimates. [120 - 150]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:176
+msgid "Or-seer nums! [120 - 150]"
+msgstr ""
+
 #: data/text/english/dialog/v13comp.msg:177
 msgid "[999]"
 msgstr ""
@@ -94525,17 +94484,36 @@ msgstr ""
 msgid "[64000]"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:139
-msgid "View or modify simulation-terminating parameters."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:154
-#: data/text/english/dialog/vconcomp.msg:140
-msgid "> Command?"
+#: data/text/english/dialog/v13comp.msg:179
+msgid "[130]"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:180
 msgid "Priority of Vault 13 waterchip-replacement subroutines."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:181
+msgid "How to stop mutant invasions"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:182
+msgid "Reevaluate relative priority of Vault 13 survival vectors."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:183
+msgid "[Endgame Condition: Can play after being dipped?]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:184
+msgid ""
+"If the Wasteland will be as rough as it sounds, maybe I should take a moment"
+" to reflect on any personal neuroses that may affect my survival out there."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:185
+msgid ""
+"Me strong is many smart. Maybe has crazies. Want big challenge! [Optional "
+"gameplay restrictions]"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:186
@@ -94549,16 +94527,16 @@ msgstr ""
 msgid ". Toggle protocol status?  (Default status: Enabled)"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:181
-msgid "How to stop mutant invasions"
+#: data/text/english/dialog/v13comp.msg:188
+msgid "DISABLED"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:195
-msgid "To stop invasions of towns, you currently need to eliminate: "
+#: data/text/english/dialog/v13comp.msg:189
+msgid "ENABLED"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:196
-msgid " Change requirement for cessation?  (Default requirement: The Master)"
+#: data/text/english/dialog/v13comp.msg:190
+msgid "Looks good; let's back up.  [Go to previous menu]"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:191
@@ -94577,8 +94555,12 @@ msgstr ""
 msgid "Both the Master and the Vats."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:182
-msgid "Reevaluate relative priority of Vault 13 survival vectors."
+#: data/text/english/dialog/v13comp.msg:195
+msgid "To stop invasions of towns, you currently need to eliminate: "
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:196
+msgid " Change requirement for cessation?  (Default requirement: The Master)"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:197
@@ -94589,6 +94571,40 @@ msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:198
 msgid " State the desired status."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:200
+msgid "Me done! Where other?  [Go to previous menu]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:202
+msgid "k!"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:203
+msgid "[Restorations]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:204
+msgid "[Skills]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:205
+msgid "Party members"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:206
+msgid "[Custom playstyles]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:207
+msgid "[Misc]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:208
+msgid ""
+"Thank you for trusting Vault-Tec and SimTek 5000 with your customization "
+"needs! Please state a command."
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:209
@@ -94607,10 +94623,6 @@ msgstr ""
 msgid "Simulation continues regardless of Survivability rating."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:183
-msgid "[Endgame Condition: Can play after being dipped?]"
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:213
 msgid ""
 "Can the player keep playing after/if they've become a Super Mutant? Current "
@@ -94621,66 +94633,8 @@ msgstr ""
 msgid " (Default: No.)"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:184
-msgid ""
-"If the Wasteland will be as rough as it sounds, maybe I should take a moment"
-" to reflect on any personal neuroses that may affect my survival out there."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:185
-msgid ""
-"Me strong is many smart. Maybe has crazies. Want big challenge! [Optional "
-"gameplay restrictions]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:254
-msgid ""
-"Specify if any of the following characteristics apply to you, and sensors "
-"will adapt accordingly."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:247
-msgid "Hardcore: No loading saves. Must complete in 1 session."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:248
-msgid "Codependent Loser: If a hireling leaves or dies, game over."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:249
-msgid "Lone Wolf: If you get party members, game over"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:250
-msgid "Pacifist: If player lands any hit in combat, game over."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:251
-msgid "Killswitch: If combat mode is ever activated, game over."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:252
-msgid "I Like It Hard: difficulty_level of Hard only."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:253
-msgid "I Like It Rough: combat_difficulty of Rough only."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:255
-msgid "I'm Special: If your stats are ever raised, game over."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:256
-msgid " This playstyle is currently: "
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:257
-msgid ". Toggle status?"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:140
-msgid "[Super Mutant Invasions]"
+#: data/text/english/dialog/v13comp.msg:215
+msgid "[SPECIAL]"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:216
@@ -94689,6 +94643,10 @@ msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:218
 msgid "The Hub."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:219
+msgid "Nah-nah."
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:224
@@ -94743,16 +94701,74 @@ msgstr ""
 msgid "Disabled. (this location will not be invaded)"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:141
-msgid "Classify situational combat options."
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:237
 msgid "Do weapons fall to the ground upon death?"
 msgstr ""
 
+#: data/text/english/dialog/v13comp.msg:238
+msgid "Does player receive dadiation-on-hit from critters?"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:239
+msgid "Specifics of Childkiller status"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:240
+msgid "Ambient light and Flares"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:247
+msgid "Hardcore: No loading saves. Must complete in 1 session."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:248
+msgid "Codependent Loser: If a hireling leaves or dies, game over."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:249
+msgid "Lone Wolf: If you get party members, game over"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:250
+msgid "Pacifist: If player lands any hit in combat, game over."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:251
+msgid "Killswitch: If combat mode is ever activated, game over."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:252
+msgid "I Like It Hard: difficulty_level of Hard only."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:253
+msgid "I Like It Rough: combat_difficulty of Rough only."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:254
+msgid ""
+"Specify if any of the following characteristics apply to you, and sensors "
+"will adapt accordingly."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:255
+msgid "I'm Special: If your stats are ever raised, game over."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:256
+msgid " This playstyle is currently: "
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:257
+msgid ". Toggle status?"
+msgstr ""
+
 #: data/text/english/dialog/v13comp.msg:258
 msgid "Weapon Drop Mod is currently: "
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:259
+msgid "hexes from corpse. Your command?"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:260
@@ -94761,10 +94777,6 @@ msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:261
 msgid " to "
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:259
-msgid "hexes from corpse. Your command?"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:262
@@ -94795,10 +94807,6 @@ msgstr ""
 msgid "Enable it, with a drop distance of 2 hexes from corpse."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:238
-msgid "Does player receive dadiation-on-hit from critters?"
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:269
 msgid ""
 "No creatures will irradiate the player upon landing an attack. Which type do"
@@ -94820,14 +94828,6 @@ msgid ""
 "Combat Difficulty and player's stats. Which type do you wish to toggle?"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:276
-msgid "Glowing Ghouls"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:277
-msgid "Non-glowing Ghouls"
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:273
 msgid "Irradiated Rats"
 msgstr ""
@@ -94838,6 +94838,14 @@ msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:275
 msgid "Centaurs"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:276
+msgid "Glowing Ghouls"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:277
+msgid "Non-glowing Ghouls"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:278
@@ -94853,24 +94861,135 @@ msgid ""
 "you wish to toggle?"
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:239
-msgid "Specifics of Childkiller status"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:240
-msgid "Ambient light and Flares"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:142
-msgid "Recalculate cross-wasteland encounter statistics."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:143
-msgid "[Items, Inventory, Bartering]"
-msgstr ""
-
 #: data/text/english/dialog/v13comp.msg:280
 msgid "Number of times can upgrade Plasma Rifle and Power Armor?"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:281
+msgid "Items received at start of game"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:282
+msgid "Mrs Stapleton"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:284
+msgid "Explosives ruin lockers"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:285
+#: data/text/english/game/proto.msg:150
+msgid "Armor"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:286
+msgid "Holodisks"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:287
+msgid "Swap knockback/no-knockback on Sledgehammers"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:288
+msgid "Settings for specific traders/merchants"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:289
+msgid "Military Base red forcefields - who do they damage?"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:290
+msgid "Mr Handy in Military Base"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:291
+msgid "Can hired NPCs level up at all?"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:292
+msgid "How many player levels per NPC levelup?"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:293
+msgid "Is levelup tracking relative or absolute?"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:294
+msgid ""
+"After joining the player's team, can Ian/Tycho/Katja gain levels? (Currently"
+" they "
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:295
+msgid "can.)"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:296
+msgid "cannot.)"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:297
+msgid " Vanilla default: hired NPCs did not gain levels."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:298
+msgid "[1]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:299
+msgid "[2]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:300
+msgid "[3]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:301
+msgid "[4]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:302
+msgid "[5]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:303
+msgid "[6]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:304
+msgid "[7]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:305
+msgid "[8]"
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:306
+msgid ""
+"How many player levels does it take to trigger a hireling levelup?. "
+"(Currently it takes "
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:307
+msgid " player level for an NPC to gain one level.)  NPC Mod default: 4."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:308
+msgid " player levels for an NPC to gain one level.)  NPC Mod default: 4."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:309
+msgid ""
+"When hirelings join your team, should they immediately levelup to be what "
+"they would if you'd gotten them at level 1?  (Currently they "
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:310
+msgid "do.)  NPC Mod default: Do not."
+msgstr ""
+
+#: data/text/english/dialog/v13comp.msg:311
+msgid "do not.)  NPC Mod default: Do not."
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:318
@@ -94891,10 +95010,6 @@ msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:322
 msgid ". Select a new value if desired.  (Vanilla default: 1)"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:287
-msgid "Swap knockback/no-knockback on Sledgehammers"
 msgstr ""
 
 #: data/text/english/dialog/v13comp.msg:323
@@ -94923,127 +95038,12 @@ msgstr ""
 msgid "Processing... Done!  "
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:281
-msgid "Items received at start of game"
+#: data/text/english/dialog/v13comp.msg:1000
+msgid "You notice blinking lights on the door computer."
 msgstr ""
 
-#: data/text/english/dialog/v13comp.msg:288
-msgid "Settings for specific traders/merchants"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:282
-msgid "Mrs Stapleton"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:284
-msgid "Explosives ruin lockers"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:285
-#: data/text/english/game/proto.msg:150
-msgid "Armor"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:286
-msgid "Holodisks"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:144
-msgid "[Levelup stuff]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:145
-msgid "[Social sexy times]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:203
-msgid "[Restorations]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:204
-msgid "[Skills]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:205
-msgid "Party members"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:291
-msgid "Can hired NPCs level up at all?"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:294
-msgid ""
-"After joining the player's team, can Ian/Tycho/Katja gain levels? (Currently"
-" they "
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:295
-msgid "can.)"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:296
-msgid "cannot.)"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:297
-msgid " Vanilla default: hired NPCs did not gain levels."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:292
-msgid "How many player levels per NPC levelup?"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:306
-msgid ""
-"How many player levels does it take to trigger a hireling levelup?. "
-"(Currently it takes "
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:307
-msgid " player level for an NPC to gain one level.)  NPC Mod default: 4."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:308
-msgid " player levels for an NPC to gain one level.)  NPC Mod default: 4."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:293
-msgid "Is levelup tracking relative or absolute?"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:309
-msgid ""
-"When hirelings join your team, should they immediately levelup to be what "
-"they would if you'd gotten them at level 1?  (Currently they "
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:310
-msgid "do.)  NPC Mod default: Do not."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:311
-msgid "do not.)  NPC Mod default: Do not."
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:289
-msgid "Military Base red forcefields - who do they damage?"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:290
-msgid "Mr Handy in Military Base"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:206
-msgid "[Custom playstyles]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:207
-msgid "[Misc]"
-msgstr ""
-
-#: data/text/english/dialog/v13comp.msg:215
-msgid "[SPECIAL]"
+#: data/text/english/dialog/v13comp.msg:1001
+msgid "Hmm... I wonder why those are blinking?"
 msgstr ""
 
 #: data/text/english/dialog/v13door.msg:100
@@ -112717,9 +112717,92 @@ msgstr ""
 msgid "HUBMIS1.MAP"
 msgstr ""
 
-#: data/text/english/game/map.msg:305 data/text/english/game/map.msg:306
-#: data/text/english/game/map.msg:307 data/text/english/game/worldmap.msg:200
-msgid "Cavern, Vault Door"
+#: data/text/english/game/map.msg:100 data/text/english/game/map.msg:101
+#: data/text/english/game/map.msg:102 data/text/english/game/map.msg:122
+#: data/text/english/game/map.msg:123 data/text/english/game/map.msg:151
+#: data/text/english/game/map.msg:152 data/text/english/game/map.msg:153
+#: data/text/english/game/map.msg:154 data/text/english/game/map.msg:156
+#: data/text/english/game/map.msg:157 data/text/english/game/map.msg:161
+#: data/text/english/game/map.msg:163 data/text/english/game/scrname.msg:212
+#: data/text/english/game/worldmap.msg:1000
+msgid "Desert"
+msgstr ""
+
+#: data/text/english/game/map.msg:107 data/text/english/game/map.msg:108
+#: data/text/english/game/map.msg:501 data/text/english/game/pipboy.msg:710
+#: data/text/english/game/pipboy.msg:2037
+#: data/text/english/game/scrname.msg:328
+#: data/text/english/game/scrname.msg:574
+msgid "Vault 15"
+msgstr ""
+
+#: data/text/english/game/map.msg:109 data/text/english/game/pipboy.msg:2007
+msgid "Vault 12"
+msgstr ""
+
+#: data/text/english/game/map.msg:120 data/text/english/game/map.msg:121
+#: data/text/english/game/scrname.msg:345
+#: data/text/english/game/worldmap.msg:1003
+msgid "Coast"
+msgstr ""
+
+#: data/text/english/game/map.msg:124 data/text/english/game/map.msg:504
+#: data/text/english/game/pipboy.msg:740
+#: data/text/english/game/scrname.msg:338
+msgid "The Khans"
+msgstr ""
+
+#: data/text/english/game/map.msg:147 data/text/english/game/map.msg:257
+#: data/text/english/game/map.msg:258 data/text/english/game/map.msg:259
+#: data/text/english/game/map.msg:344 data/text/english/game/map.msg:345
+#: data/text/english/game/map.msg:346 data/text/english/game/map.msg:365
+#: data/text/english/game/map.msg:366 data/text/english/game/map.msg:367
+#: data/text/english/game/worldmap.msg:501
+msgid "Ruins"
+msgstr ""
+
+#: data/text/english/game/map.msg:149 data/text/english/game/map.msg:150
+#: data/text/english/game/map.msg:158 data/text/english/game/map.msg:159
+#: data/text/english/game/map.msg:162 data/text/english/game/map.msg:164
+#: data/text/english/game/worldmap.msg:1001
+msgid "Mountains"
+msgstr ""
+
+#: data/text/english/game/map.msg:160
+msgid "Viper Camp"
+msgstr ""
+
+#: data/text/english/game/map.msg:200 data/text/english/game/map.msg:201
+#: data/text/english/game/map.msg:202 data/text/english/game/map.msg:203
+#: data/text/english/game/map.msg:204 data/text/english/game/map.msg:205
+#: data/text/english/game/map.msg:206 data/text/english/game/map.msg:207
+#: data/text/english/game/map.msg:208
+msgid "Wasteland"
+msgstr ""
+
+#: data/text/english/game/map.msg:209 data/text/english/game/map.msg:211
+msgid "Sewers under Hall"
+msgstr ""
+
+#: data/text/english/game/map.msg:210 data/text/english/game/scrname.msg:255
+#: data/text/english/game/worldmap.msg:251
+msgid "Hall of the Dead"
+msgstr ""
+
+#: data/text/english/game/map.msg:212 data/text/english/game/map.msg:214
+msgid "Sewers under Hotel"
+msgstr ""
+
+#: data/text/english/game/map.msg:213 data/text/english/game/worldmap.msg:250
+msgid "Hotel of Doom"
+msgstr ""
+
+#: data/text/english/game/map.msg:215 data/text/english/game/map.msg:217
+msgid "Sewers under Watershed"
+msgstr ""
+
+#: data/text/english/game/map.msg:216 data/text/english/game/worldmap.msg:252
+msgid "The Watershed"
 msgstr ""
 
 #: data/text/english/game/map.msg:218 data/text/english/game/worldmap.msg:201
@@ -112742,14 +112825,6 @@ msgstr ""
 msgid "Library, Supplies, Command"
 msgstr ""
 
-#: data/text/english/game/map.msg:107 data/text/english/game/map.msg:108
-#: data/text/english/game/map.msg:501 data/text/english/game/pipboy.msg:710
-#: data/text/english/game/pipboy.msg:2037
-#: data/text/english/game/scrname.msg:328
-#: data/text/english/game/scrname.msg:574
-msgid "Vault 15"
-msgstr ""
-
 #: data/text/english/game/map.msg:221 data/text/english/game/worldmap.msg:210
 msgid "Old Shack"
 msgstr ""
@@ -112757,79 +112832,6 @@ msgstr ""
 #: data/text/english/game/map.msg:222 data/text/english/game/map.msg:223
 #: data/text/english/game/worldmap.msg:211
 msgid "Cavern Entrance"
-msgstr ""
-
-#: data/text/english/game/map.msg:275 data/text/english/game/map.msg:276
-#: data/text/english/game/map.msg:277
-msgid "Garden, Brahma Pen"
-msgstr ""
-
-#: data/text/english/game/map.msg:278 data/text/english/game/map.msg:279
-#: data/text/english/game/map.msg:280 data/text/english/game/worldmap.msg:220
-msgid "Entrance, Town Hall"
-msgstr ""
-
-#: data/text/english/game/map.msg:248 data/text/english/game/map.msg:249
-#: data/text/english/game/map.msg:250
-msgid "Radscorpion Cave"
-msgstr ""
-
-#: data/text/english/game/map.msg:230 data/text/english/game/worldmap.msg:230
-msgid "Entrance, Hospital"
-msgstr ""
-
-#: data/text/english/game/map.msg:231 data/text/english/game/map.msg:232
-msgid "Doc Morbid's Lab"
-msgstr ""
-
-#: data/text/english/game/map.msg:236 data/text/english/game/map.msg:237
-#: data/text/english/game/map.msg:238 data/text/english/game/worldmap.msg:231
-msgid "General Store, Hotel"
-msgstr ""
-
-#: data/text/english/game/map.msg:233 data/text/english/game/map.msg:234
-#: data/text/english/game/map.msg:235 data/text/english/game/worldmap.msg:232
-msgid "Casino, Bar"
-msgstr ""
-
-#: data/text/english/game/map.msg:124 data/text/english/game/map.msg:504
-#: data/text/english/game/pipboy.msg:740
-#: data/text/english/game/scrname.msg:338
-msgid "The Khans"
-msgstr ""
-
-#: data/text/english/game/map.msg:272 data/text/english/game/map.msg:273
-#: data/text/english/game/map.msg:274 data/text/english/game/worldmap.msg:240
-msgid "Base Camp"
-msgstr ""
-
-#: data/text/english/game/map.msg:212 data/text/english/game/map.msg:214
-msgid "Sewers under Hotel"
-msgstr ""
-
-#: data/text/english/game/map.msg:213 data/text/english/game/worldmap.msg:250
-msgid "Hotel of Doom"
-msgstr ""
-
-#: data/text/english/game/map.msg:209 data/text/english/game/map.msg:211
-msgid "Sewers under Hall"
-msgstr ""
-
-#: data/text/english/game/map.msg:210 data/text/english/game/scrname.msg:255
-#: data/text/english/game/worldmap.msg:251
-msgid "Hall of the Dead"
-msgstr ""
-
-#: data/text/english/game/map.msg:215 data/text/english/game/map.msg:217
-msgid "Sewers under Watershed"
-msgstr ""
-
-#: data/text/english/game/map.msg:216 data/text/english/game/worldmap.msg:252
-msgid "The Watershed"
-msgstr ""
-
-#: data/text/english/game/map.msg:109 data/text/english/game/pipboy.msg:2007
-msgid "Vault 12"
 msgstr ""
 
 #: data/text/english/game/map.msg:227
@@ -112844,50 +112846,29 @@ msgstr ""
 msgid "Level 3 (Command Center)"
 msgstr ""
 
-#: data/text/english/game/map.msg:308 data/text/english/game/map.msg:309
-#: data/text/english/game/map.msg:310 data/text/english/game/worldmap.msg:260
-msgid "Entrance, Caravaners"
+#: data/text/english/game/map.msg:230 data/text/english/game/worldmap.msg:230
+msgid "Entrance, Hospital"
 msgstr ""
 
-#: data/text/english/game/map.msg:314 data/text/english/game/worldmap.msg:261
-msgid "Downtown, Market, Casino"
+#: data/text/english/game/map.msg:231 data/text/english/game/map.msg:232
+msgid "Doc Morbid's Lab"
 msgstr ""
 
-#: data/text/english/game/map.msg:315 data/text/english/game/map.msg:316
-msgid "Decker's Hideout"
+#: data/text/english/game/map.msg:233 data/text/english/game/map.msg:234
+#: data/text/english/game/map.msg:235 data/text/english/game/worldmap.msg:232
+msgid "Casino, Bar"
 msgstr ""
 
-#: data/text/english/game/map.msg:317 data/text/english/game/map.msg:318
-#: data/text/english/game/map.msg:319 data/text/english/game/worldmap.msg:262
-msgid "Heights, Hightower"
-msgstr ""
-
-#: data/text/english/game/map.msg:321 data/text/english/game/map.msg:322
-msgid "Thieves' Circle"
-msgstr ""
-
-#: data/text/english/game/map.msg:323 data/text/english/game/map.msg:324
-#: data/text/english/game/map.msg:325 data/text/english/game/worldmap.msg:264
-msgid "Water Merchants, Church"
-msgstr ""
-
-#: data/text/english/game/map.msg:311 data/text/english/game/map.msg:312
-#: data/text/english/game/map.msg:313 data/text/english/game/worldmap.msg:265
-msgid "Deathclaw Lair"
-msgstr ""
-
-#: data/text/english/game/map.msg:395 data/text/english/game/map.msg:396
-#: data/text/english/game/map.msg:397 data/text/english/game/map.msg:398
-#: data/text/english/game/map.msg:399 data/text/english/game/map.msg:400
-#: data/text/english/game/scrname.msg:1052
-msgid "Irwin's Farm"
+#: data/text/english/game/map.msg:236 data/text/english/game/map.msg:237
+#: data/text/english/game/map.msg:238 data/text/english/game/worldmap.msg:231
+msgid "General Store, Hotel"
 msgstr ""
 
 #: data/text/english/game/map.msg:239 data/text/english/game/map.msg:240
-#: data/text/english/game/map.msg:241 data/text/english/game/map.msg:290
+#: data/text/english/game/map.msg:241 data/text/english/game/map.msg:251
+#: data/text/english/game/map.msg:281 data/text/english/game/map.msg:282
+#: data/text/english/game/map.msg:283 data/text/english/game/map.msg:290
 #: data/text/english/game/map.msg:291 data/text/english/game/map.msg:292
-#: data/text/english/game/map.msg:251 data/text/english/game/map.msg:281
-#: data/text/english/game/map.msg:282 data/text/english/game/map.msg:283
 #: data/text/english/game/worldmap.msg:270
 #: data/text/english/game/worldmap.msg:280
 #: data/text/english/game/worldmap.msg:310
@@ -112918,65 +112899,9 @@ msgstr ""
 msgid "Level 4"
 msgstr ""
 
-#: data/text/english/game/map.msg:365 data/text/english/game/map.msg:366
-#: data/text/english/game/map.msg:367 data/text/english/game/map.msg:344
-#: data/text/english/game/map.msg:345 data/text/english/game/map.msg:346
-#: data/text/english/game/map.msg:147 data/text/english/game/map.msg:257
-#: data/text/english/game/map.msg:258 data/text/english/game/map.msg:259
-#: data/text/english/game/worldmap.msg:501
-msgid "Ruins"
-msgstr ""
-
-#: data/text/english/game/map.msg:293 data/text/english/game/worldmap.msg:281
-msgid "Stronghold Level 1"
-msgstr ""
-
-#: data/text/english/game/map.msg:294 data/text/english/game/worldmap.msg:282
-msgid "Stronghold Level 2"
-msgstr ""
-
-#: data/text/english/game/map.msg:296 data/text/english/game/worldmap.msg:283
-msgid "Vats Level 1"
-msgstr ""
-
-#: data/text/english/game/map.msg:297 data/text/english/game/worldmap.msg:284
-msgid "Vats Level 2"
-msgstr ""
-
-#: data/text/english/game/map.msg:100 data/text/english/game/map.msg:101
-#: data/text/english/game/map.msg:102 data/text/english/game/map.msg:122
-#: data/text/english/game/map.msg:123 data/text/english/game/map.msg:151
-#: data/text/english/game/map.msg:152 data/text/english/game/map.msg:153
-#: data/text/english/game/map.msg:154 data/text/english/game/map.msg:156
-#: data/text/english/game/map.msg:157 data/text/english/game/map.msg:161
-#: data/text/english/game/map.msg:163 data/text/english/game/scrname.msg:212
-#: data/text/english/game/worldmap.msg:1000
-msgid "Desert"
-msgstr ""
-
-#: data/text/english/game/map.msg:200 data/text/english/game/map.msg:201
-#: data/text/english/game/map.msg:202 data/text/english/game/map.msg:203
-#: data/text/english/game/map.msg:204 data/text/english/game/map.msg:205
-#: data/text/english/game/map.msg:206 data/text/english/game/map.msg:207
-#: data/text/english/game/map.msg:208
-msgid "Wasteland"
-msgstr ""
-
-#: data/text/english/game/map.msg:120 data/text/english/game/map.msg:121
-#: data/text/english/game/scrname.msg:345
-#: data/text/english/game/worldmap.msg:1003
-msgid "Coast"
-msgstr ""
-
-#: data/text/english/game/map.msg:149 data/text/english/game/map.msg:150
-#: data/text/english/game/map.msg:158 data/text/english/game/map.msg:159
-#: data/text/english/game/map.msg:162 data/text/english/game/map.msg:164
-#: data/text/english/game/worldmap.msg:1001
-msgid "Mountains"
-msgstr ""
-
-#: data/text/english/game/map.msg:160
-msgid "Viper Camp"
+#: data/text/english/game/map.msg:248 data/text/english/game/map.msg:249
+#: data/text/english/game/map.msg:250
+msgid "Radscorpion Cave"
 msgstr ""
 
 #: data/text/english/game/map.msg:252
@@ -113011,6 +112936,37 @@ msgstr ""
 msgid "Spacecraft"
 msgstr ""
 
+#: data/text/english/game/map.msg:272 data/text/english/game/map.msg:273
+#: data/text/english/game/map.msg:274 data/text/english/game/worldmap.msg:240
+msgid "Base Camp"
+msgstr ""
+
+#: data/text/english/game/map.msg:275 data/text/english/game/map.msg:276
+#: data/text/english/game/map.msg:277
+msgid "Garden, Brahma Pen"
+msgstr ""
+
+#: data/text/english/game/map.msg:278 data/text/english/game/map.msg:279
+#: data/text/english/game/map.msg:280 data/text/english/game/worldmap.msg:220
+msgid "Entrance, Town Hall"
+msgstr ""
+
+#: data/text/english/game/map.msg:293 data/text/english/game/worldmap.msg:281
+msgid "Stronghold Level 1"
+msgstr ""
+
+#: data/text/english/game/map.msg:294 data/text/english/game/worldmap.msg:282
+msgid "Stronghold Level 2"
+msgstr ""
+
+#: data/text/english/game/map.msg:296 data/text/english/game/worldmap.msg:283
+msgid "Vats Level 1"
+msgstr ""
+
+#: data/text/english/game/map.msg:297 data/text/english/game/worldmap.msg:284
+msgid "Vats Level 2"
+msgstr ""
+
 #: data/text/english/game/map.msg:299
 msgid "Lair Level 1"
 msgstr ""
@@ -113025,6 +112981,43 @@ msgstr ""
 
 #: data/text/english/game/map.msg:303
 msgid "Lair Level 4"
+msgstr ""
+
+#: data/text/english/game/map.msg:305 data/text/english/game/map.msg:306
+#: data/text/english/game/map.msg:307 data/text/english/game/worldmap.msg:200
+msgid "Cavern, Vault Door"
+msgstr ""
+
+#: data/text/english/game/map.msg:308 data/text/english/game/map.msg:309
+#: data/text/english/game/map.msg:310 data/text/english/game/worldmap.msg:260
+msgid "Entrance, Caravaners"
+msgstr ""
+
+#: data/text/english/game/map.msg:311 data/text/english/game/map.msg:312
+#: data/text/english/game/map.msg:313 data/text/english/game/worldmap.msg:265
+msgid "Deathclaw Lair"
+msgstr ""
+
+#: data/text/english/game/map.msg:314 data/text/english/game/worldmap.msg:261
+msgid "Downtown, Market, Casino"
+msgstr ""
+
+#: data/text/english/game/map.msg:315 data/text/english/game/map.msg:316
+msgid "Decker's Hideout"
+msgstr ""
+
+#: data/text/english/game/map.msg:317 data/text/english/game/map.msg:318
+#: data/text/english/game/map.msg:319 data/text/english/game/worldmap.msg:262
+msgid "Heights, Hightower"
+msgstr ""
+
+#: data/text/english/game/map.msg:321 data/text/english/game/map.msg:322
+msgid "Thieves' Circle"
+msgstr ""
+
+#: data/text/english/game/map.msg:323 data/text/english/game/map.msg:324
+#: data/text/english/game/map.msg:325 data/text/english/game/worldmap.msg:264
+msgid "Water Merchants, Church"
 msgstr ""
 
 #: data/text/english/game/map.msg:330 data/text/english/game/worldmap.msg:295
@@ -113094,6 +113087,13 @@ msgstr ""
 #: data/text/english/game/map.msg:380 data/text/english/game/map.msg:381
 #: data/text/english/game/map.msg:382
 msgid "Vipers' Camp"
+msgstr ""
+
+#: data/text/english/game/map.msg:395 data/text/english/game/map.msg:396
+#: data/text/english/game/map.msg:397 data/text/english/game/map.msg:398
+#: data/text/english/game/map.msg:399 data/text/english/game/map.msg:400
+#: data/text/english/game/scrname.msg:1052
+msgid "Irwin's Farm"
 msgstr ""
 
 #: data/text/english/game/map.msg:508 data/text/english/game/pipboy.msg:780
@@ -128503,10 +128503,6 @@ msgstr ""
 msgid "+ (EN + IN)/2"
 msgstr ""
 
-#: data/text/english/game/skill.msg:510
-msgid "\\nskill_use: invalid skill used."
-msgstr ""
-
 #: data/text/english/game/skill.msg:500
 msgid "You heal %d hit points."
 msgstr ""
@@ -128525,6 +128521,10 @@ msgstr ""
 
 #: data/text/english/game/skill.msg:505
 msgid "You earn %d experience for honing your skills."
+msgstr ""
+
+#: data/text/english/game/skill.msg:510
+msgid "\\nskill_use: invalid skill used."
 msgstr ""
 
 #: data/text/english/game/skill.msg:512
@@ -128575,18 +128575,6 @@ msgstr ""
 msgid "crippled left leg"
 msgstr ""
 
-#: data/text/english/game/skill.msg:590
-msgid "You've taxed your ability with that skill. Wait a while."
-msgstr ""
-
-#: data/text/english/game/skill.msg:591
-msgid "You're too tired to do that right now."
-msgstr ""
-
-#: data/text/english/game/skill.msg:592
-msgid "The strain might kill you. Get some rest first."
-msgstr ""
-
 #: data/text/english/game/skill.msg:550
 msgid "The lock triumphantly resists your attempt to bypass it."
 msgstr ""
@@ -128619,6 +128607,18 @@ msgstr ""
 
 #: data/text/english/game/skill.msg:573
 msgid "You plant the %s."
+msgstr ""
+
+#: data/text/english/game/skill.msg:590
+msgid "You've taxed your ability with that skill. Wait a while."
+msgstr ""
+
+#: data/text/english/game/skill.msg:591
+msgid "You're too tired to do that right now."
+msgstr ""
+
+#: data/text/english/game/skill.msg:592
+msgid "The strain might kill you. Get some rest first."
 msgstr ""
 
 #: data/text/english/game/skilldex.msg:100

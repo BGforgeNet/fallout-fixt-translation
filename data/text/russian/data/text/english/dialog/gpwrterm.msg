@@ -58,8 +58,7 @@
 {208}{}{Информация о системе безопасности}
 {209}{}{Информация об исследованиях}
 {210}{}{Электропитание}
-{211}{}{West Tech Research Facility:                                             Founded in 2002 as a private contractor for the United States government, the company initially consisted of two divisions - 
-the Advanced Weapons Research and the Biomedical Sciences divisions.}
+{211}{}{База West Tech                                                    West Tech - частная компания, основанная в 2002 г. для поставок оборудования по заказам правительства США. Изначально компания состояла из двух подразделений - Центра спецвооружений и Центра биомедицинских технологий.}
 {212}{}{Безопасность           Роботы-охранники: включены}
 {213}{}{Безопасность           Роботы-охранники: отключены}
 {214}{}{Отключить роботов-охранников}

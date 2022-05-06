@@ -111,8 +111,8 @@
 {210}{gizmo_42}{¿No te gustaría saberlo?}
 {211}{gizmo_43}{No te preocupes por eso.}
 {212}{gizmo_44}{*snif* Yo eh... No me apetece hablar de ello ahora.}
-{213}{gizmo45m}{Hey, what the hell do you think you're doing? Izo, tear his arms off!}
-{214}{gizmo45f}{Hey, what the hell do you think you're doing? Izo, tear off her arms!}
+{213}{gizmo45m}{Eh, ¿qué diablos crees que estás haciendo? ¡Izo, arráncale los brazos!}
+{214}{gizmo45f}{Eh, ¿qué diablos crees que estás haciendo? ¡Izo, arráncale los brazos!}
 {215}{gizmo_47}{¿Qué, estás sordo?, he dicho...}
 {216}{gizmo_48}{¡Oye, no pienso repetirlo!}
 {217}{}{Ganas 600 puntos de experiencia por derrotar a Gizmo. Que en piezas descanse el bastardo.}

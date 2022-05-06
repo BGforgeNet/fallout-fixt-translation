@@ -10,7 +10,7 @@
 {109}{}{El nombre es }
 {110}{}{. Recuérdalo.}
 {111}{}{¿Ehhh?}
-{112}{TAND_2}{Well... how do you like our little town? Bored yet?}
+{112}{TAND_2}{¿Te gusta nuestra pequeña ciudad? ¿Ya te ha aburrido?}
 {113}{}{Está bien. ¿Puedo hacerte unas preguntas?}
 {114}{}{Sí, desde luego. No hay nada que hacer aquí, salvo mirar como copulan los brahmines.}
 {115}{}{Supongo que está bien.}
@@ -33,26 +33,26 @@
 {132}{}{Seguro que estás exagerando.}
 {133}{}{Este sitio me parece bonito y seguro.}
 {134}{TAND_15}{Ciudad Vertedero está al sudoeste, pero no sé a qué distancia. Debajo hay un extraño lugar llamado la Ciudad de la Muerte. Oh, oh sí, también está ese otro sitio... Oh, caray, ¿cómo se llamaba? Ah sí, el Eje.}
-{135}{TAND_15a}{There's a bunch of cities down south. But since you're such a great traveler, I'm sure you know that already.}
+{135}{TAND_15a}{Hay un par de ciudades al sur. Pero como viajas tanto, seguro que ya lo sabes.}
 {136}{}{Gracias.}
 {137}{TAND_16}{No hay problema. ¿Algo más?}
 {138}{TAND_20}{¡Tenemos escorpiones rad! A ver si me entiendes, sé que no es nada bueno, pero nadie se ha muerto por sus picaduras. ¡Y es lo más excitante que tenemos aquí!}
 {139}{TAND_21}{No mucho desde que acabaste con esos escorpiones rad. Caray, me hubiera encantado verlo.}
 {140}{TAND_22}{Como siempre. A-bu-rri-do.}
-{141}{TAND_23g}{The weirdest story I've heard is about the Deathclaw.}
-{142}{TAND_23b}{Just stuff.}
+{141}{TAND_23g}{La historia más rara que he oído es sobre una Garra Mortal.}
+{142}{TAND_23b}{Cosas.}
 {143}{}{Gracias.}
 {144}{}{¿Una Garra Mortal?}
 {145}{TAND_24}{Supongo que no está mal. Es mi hogar y todo eso, ¡pero es tan aburrido! ¿Sabes? Quiero conocer el mundo.}
 {146}{}{¿Si te aburres tanto, por qué no te marchas?}
 {147}{}{Bueno, seguro que no es para tanto.}
 {148}{}{Este sitio me parece bonito y seguro.}
-{149}{TAND_27m}{I'm not that kind of girl, mister. Go find a brahma or something.}
-{150}{TAND_27f}{Listen... uh... but I... uh... I-I like guys, okay? Whew! Uh, excuse me, I got stuff to do.}
+{149}{TAND_27m}{No soy ese tipo de chica, señor, vete a buscar un brahmin o algo.}
+{150}{TAND_27f}{Pero... esto... o sea... eh... a mí me gustan los tíos, ¿vale? ¡Vaya! Eh, discúlpame, tengo cosas que hacer.}
 {151}{TAND_28}{En fin, gracias por hablar conmigo. No pasan muchos forasteros por aquí, así que siempre se agradece hablar con gente nueva. ¡Nos vemos! }
 {152}{}{Adiós.}
 {153}{TAND_29}{Oye, mira. Tengo que cuidar de los brahmines. Me ha, eh, encantado hablar contigo. }
-{154}{TAND_30a}{Hello again! What can I help you with now?}
+{154}{TAND_30a}{¡Hola otra vez! ¿En qué puedo ayudarte ahora?}
 {155}{}{¿Puedo hacerte más preguntas?}
 {156}{}{Nada. Adiós.}
 {157}{TAND_35}{Eh... oye, gracias. Más tarde.}
@@ -214,8 +214,8 @@
 {1128}{TAND_51}{De hecho he visto uno, aunque fuese de lejos. Son criaturas desagradables con garras y un gran aguijón. Y su veneno puede ser mortal si no se trata rápido. Deberías hablar con mi padre, Aradesh, él sabe más sobre ellos. }
 {1129}{TAND_51}{De hecho he visto uno, aunque fuese de lejos. Son criaturas desagradables con garras y un gran aguijón. Y su veneno puede ser mortal si no se trata rápido. Deberías hablar con mi padre, Aradesh, él sabe más sobre ellos. }
 {1130}{TAND_51}{De hecho he visto uno, aunque fuese de lejos. Son criaturas desagradables con garras y un gran aguijón. Y su veneno puede ser mortal si no se trata rápido. Deberías hablar con mi padre, Aradesh, él sabe más sobre ellos. }
-{1131}{TAND_23b}{Just stuff.}
-{1132}{TAND_23b}{Just stuff.}
+{1131}{TAND_23b}{Cosas.}
+{1132}{TAND_23b}{Cosas.}
 {1133}{TAND_62}{No lo sé. Pero se lo puedes preguntar a Seth o a mi padre.}
 {1134}{TAND_62}{No lo sé. Pero se lo puedes preguntar a Seth o a mi padre.}
 {1135}{TAND_62}{No lo sé. Pero se lo puedes preguntar a Seth o a mi padre.}

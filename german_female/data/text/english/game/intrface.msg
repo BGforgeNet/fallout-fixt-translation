@@ -1,3 +1,0 @@
-{100}{}{SNEAKING}
-{101}{}{LEVEL UP}
-{102}{}{ADDICTED}

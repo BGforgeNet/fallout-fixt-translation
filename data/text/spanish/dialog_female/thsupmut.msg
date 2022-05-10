@@ -9,21 +9,21 @@
 {108}{}{Ves: a Renfield, de los Pensadores Nocturnos.}
 {109}{}{Ves: a Timothy, de los Pensadores Nocturnos.}
 {110}{}{Bienvenida, Oh Despejadora. Has llegado a tiempo para ayudarnos.}
-{111}{}{¿Eh?}
+{111}{}{Â¿Eh?}
 {112}{}{Claro. No hay problema.}
 {113}{}{Lo siento. Estoy muy ocupada.}
-{114}{}{¿Por qué querría ayudaros?}
-{115}{}{No importa, ingenua. Ven conmigo, y te llevaré a que hagas el trabajo.}
-{116}{}{Eso no fue una petición. Tu presencia se realizará.}
-{117}{}{¿No eres tú la que busca traer la paz al yermo?}
-{118}{}{Sí, sin embargo, no veo cómo ayudaros, hará que eso ocurra.}
-{119}{}{No. Prefiero la destrucción de masas.}
-{120}{}{Creemos que si todo el mundo, tanto mutantes como humanos, aprendieran a trabajar juntos, se podrían resolver muchos problemas.}
+{114}{}{Â¿Por quÃ© querrÃ­a ayudaros?}
+{115}{}{No importa, ingenua. Ven conmigo, y te llevarÃ© a que hagas el trabajo.}
+{116}{}{Eso no fue una peticiÃ³n. Tu presencia se realizarÃ¡.}
+{117}{}{Â¿No eres tÃº la que busca traer la paz al yermo?}
+{118}{}{SÃ­, sin embargo, no veo cÃ³mo ayudaros, harÃ¡ que eso ocurra.}
+{119}{}{No. Prefiero la destrucciÃ³n de masas.}
+{120}{}{Creemos que si todo el mundo, tanto mutantes como humanos, aprendieran a trabajar juntos, se podrÃ­an resolver muchos problemas.}
 {121}{}{Suena prometedor. Cuenta conmigo.}
-{122}{}{Olvídalo.}
+{122}{}{OlvÃ­dalo.}
 {123}{}{Hay algo que no me parece bien de todo esto.}
-{124}{}{Todo está perfectamente bien. Quizás es la visión limitada de tu cabeza que detiene tus avances en el pensamiento.}
-{125}{}{Probablemente estés en lo cierto. Cuenta conmigo.}
-{126}{}{Quizás. Deja que inspeccione tu cráneo.}
-{127}{}{Si es lo que deseas, entonces tendrás tu plenitud.}
-{128}{}{Bienvenida de nuevo. Ahora nos ayudarás.}
+{124}{}{Todo estÃ¡ perfectamente bien. QuizÃ¡s es la visiÃ³n limitada de tu cabeza que detiene tus avances en el pensamiento.}
+{125}{}{Probablemente estÃ©s en lo cierto. Cuenta conmigo.}
+{126}{}{QuizÃ¡s. Deja que inspeccione tu crÃ¡neo.}
+{127}{}{Si es lo que deseas, entonces tendrÃ¡s tu plenitud.}
+{128}{}{Bienvenida de nuevo. Ahora nos ayudarÃ¡s.}

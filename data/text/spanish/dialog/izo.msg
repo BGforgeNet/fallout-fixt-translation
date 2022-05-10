@@ -1,5 +1,5 @@
 {100}{}{Tiene la actitud y la musculatura de un maestro de artes marciales.}
-{101}{}{Izo permanece callado. Te est· observando cuidadosamente con una mirada que te hace sentir incÛmodo.}
+{101}{}{Izo permanece callado. Te est√° observando cuidadosamente con una mirada que te hace sentir inc√≥modo.}
 {102}{}{(Izo te da tus chapas)}
 {103}{}{(Izo se mueve hacia la puerta, hace un gesto como si se cortase la garganta, y niega con la cabeza)}
 {104}{}{Gracias.}

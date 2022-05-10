@@ -1,1 +1,1 @@
-{100}{}{Voici l'ordinateur central, le coeur du système informatique.}
+{100}{}{Voici l'ordinateur central, le coeur du systÃ¨me informatique.}

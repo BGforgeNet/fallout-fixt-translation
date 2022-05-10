@@ -1,17 +1,17 @@
 {100}{}{Voici Andrew, le gardien de prison.}
 {101}{}{C'est bon, tu peux y aller maintenant.}
-{102}{}{Hé ! Toi ! Reste où tu es !}
+{102}{}{HÃ© ! Toi ! Reste oÃ¹ tu es !}
 {103}{}{Je peux t'aider ?}
 {104}{}{Qui es-tu ?}
 {105}{}{Qu'est-ce que tu fais ?}
 {106}{}{Non, merci.}
 {107}{}{Je m'appelle Andrew. Je suis le gardien de la prison.}
-{108}{}{Je garde la prison. J'empêche cette racaille de rentrer et de sortir.}
-{109}{}{A quoi ça sert d'empêcher les gens d'entrer à l'intérieur de la prison ?}
+{108}{}{Je garde la prison. J'empÃªche cette racaille de rentrer et de sortir.}
+{109}{}{A quoi Ã§a sert d'empÃªcher les gens d'entrer Ã  l'intÃ©rieur de la prison ?}
 {110}{}{Oh.}
-{111}{}{Bonne journée. Et ne t'attire pas d'ennuis !}
-{112}{}{Quelqu'un peut vouloir aider un prisonnier à s'évader en déposant quelque chose. Ou bien chercher à se laisser enfermer à l'intérieur et y rester jusqu'à ce qu'on puisse récupérer les clés.}
+{111}{}{Bonne journÃ©e. Et ne t'attire pas d'ennuis !}
+{112}{}{Quelqu'un peut vouloir aider un prisonnier Ã  s'Ã©vader en dÃ©posant quelque chose. Ou bien chercher Ã  se laisser enfermer Ã  l'intÃ©rieur et y rester jusqu'Ã  ce qu'on puisse rÃ©cupÃ©rer les clÃ©s.}
 {113}{}{Ben !}
 {114}{}{Circule, mec.}
 {115}{}{Circulez, mademoiselle.}
-{116}{}{Hé ! Suffit !}
+{116}{}{HÃ© ! Suffit !}

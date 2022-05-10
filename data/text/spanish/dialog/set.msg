@@ -1,263 +1,263 @@
-{100}{}{Ves: a Set, el autoproclamado líder de Necrópolis.}
-{101}{Set00}{Más vale que tengas una razón de peso para pisar mi sombra. Supongo que te suena lo de "vas a ser mi postre..." normalucho.}
-{102}{}{Oh, sin duda pesa. Es evidente que he encontrado la cabeza, eh, tío.}
-{103}{}{Caray, ¿qué le ha pasado a tu cara?}
-{104}{}{Vaya, eres muy listo por ser un necrófago.}
-{105}{}{No, ¿eh?}
-{106}{Set01}{Ahorra saliva. Soy Set. Estoy al mando. ¿Lo pillas?}
-{107}{}{Según mi información no eres más que un segundón.}
+{100}{}{Ves: a Set, el autoproclamado lÃ­der de NecrÃ³polis.}
+{101}{Set00}{MÃ¡s vale que tengas una razÃ³n de peso para pisar mi sombra. Supongo que te suena lo de "vas a ser mi postre..." normalucho.}
+{102}{}{Oh, sin duda pesa. Es evidente que he encontrado la cabeza, eh, tÃ­o.}
+{103}{}{Caray, Â¿quÃ© le ha pasado a tu cara?}
+{104}{}{Vaya, eres muy listo por ser un necrÃ³fago.}
+{105}{}{No, Â¿eh?}
+{106}{Set01}{Ahorra saliva. Soy Set. Estoy al mando. Â¿Lo pillas?}
+{107}{}{SegÃºn mi informaciÃ³n no eres mÃ¡s que un segundÃ³n.}
 {108}{}{Lo pillo. }
-{109}{}{¿Hay algo más que deba saber?}
+{109}{}{Â¿Hay algo mÃ¡s que deba saber?}
 {110}{Set01a}{Bien.}
-{111}{}{¿Qué puedo hacer por ti?}
-{112}{Set02}{¿Qué dices? ¿Fastidiando? Mira, caminante, no hago tratos con normales, así es que hacerme la pelota no te va a servir de nada.}
-{113}{}{El humo te saldrá por todos tus agujeros cuando acabe contigo.}
-{114}{}{Oh, discúlpame. Solo quería dar una buena impresión.}
+{111}{}{Â¿QuÃ© puedo hacer por ti?}
+{112}{Set02}{Â¿QuÃ© dices? Â¿Fastidiando? Mira, caminante, no hago tratos con normales, asÃ­ es que hacerme la pelota no te va a servir de nada.}
+{113}{}{El humo te saldrÃ¡ por todos tus agujeros cuando acabe contigo.}
+{114}{}{Oh, discÃºlpame. Solo querÃ­a dar una buena impresiÃ³n.}
 {115}{}{No he querido decir nada.}
-{116}{Set03}{[Gruñe] Te voy a comer y cantaré esa canción de la "Tripita Contenta". Tengo mi tripita contenta...}
-{117}{Set04}{¿La hora de la verdad, puta? Voy a disfrutar estrujándote.}
-{118}{}{Más te vale que lo que llevas en el cinto sea más grande que tu boca... Aunque parezca improbable.}
+{116}{Set03}{[GruÃ±e] Te voy a comer y cantarÃ© esa canciÃ³n de la "Tripita Contenta". Tengo mi tripita contenta...}
+{117}{Set04}{Â¿La hora de la verdad, puta? Voy a disfrutar estrujÃ¡ndote.}
+{118}{}{MÃ¡s te vale que lo que llevas en el cinto sea mÃ¡s grande que tu boca... Aunque parezca improbable.}
 {119}{}{Estruja esto...}
-{120}{}{No, ¿eh?}
-{121}{Set05}{Bueno. Parece que tenemos un diamante en bruto... je... tengo unos amiguitos para ti, mi deslumbrante normalucho. Castiga a los mutantes que están en el Almacén de Agua por mí. Claro, claro, puedes hacerlo... ¿no?}
-{122}{}{Eh, está bien.}
+{120}{}{No, Â¿eh?}
+{121}{Set05}{Bueno. Parece que tenemos un diamante en bruto... je... tengo unos amiguitos para ti, mi deslumbrante normalucho. Castiga a los mutantes que estÃ¡n en el AlmacÃ©n de Agua por mÃ­. Claro, claro, puedes hacerlo... Â¿no?}
+{122}{}{Eh, estÃ¡ bien.}
 {123}{}{Nuh-uh.}
-{124}{Set06}{Excelente. Dales una última lección a esos mutantes, luego vuelve aquí... Mmm. Si les digo a mis necrófagos que te dejen en paz, los mutantes podrían oírlo y sospechar. Así que, es hora de que me eches una mano. Yo me callo. ¿Lo pillas?}
+{124}{Set06}{Excelente. Dales una Ãºltima lecciÃ³n a esos mutantes, luego vuelve aquÃ­... Mmm. Si les digo a mis necrÃ³fagos que te dejen en paz, los mutantes podrÃ­an oÃ­rlo y sospechar. AsÃ­ que, es hora de que me eches una mano. Yo me callo. Â¿Lo pillas?}
 {125}{}{Entendido.}
-{126}{}{¿Qué pasa con los necrófagos?}
-{127}{}{¡Ehn, vale!}
-{128}{}{¿Eh?}
-{129}{Set07}{Evita a mis necrófagos, si quieres salvar tu pellejo. Cualquiera de los míos que no pueda con un normalucho, merece la muerte. Arréglatelas como puedas.}
-{130}{Set08}{¡Me haces perder mi tiempo! ¡Vas a dejar de existir, de una u otra forma!}
-{131}{Set09}{No tienes ni idea de quién es la sombra que pisas.}
-{132}{}{Un segundón. Conozco a tu jefe. No feliz.}
-{133}{}{Y tú tampoco.}
+{126}{}{Â¿QuÃ© pasa con los necrÃ³fagos?}
+{127}{}{Â¡Ehn, vale!}
+{128}{}{Â¿Eh?}
+{129}{Set07}{Evita a mis necrÃ³fagos, si quieres salvar tu pellejo. Cualquiera de los mÃ­os que no pueda con un normalucho, merece la muerte. ArrÃ©glatelas como puedas.}
+{130}{Set08}{Â¡Me haces perder mi tiempo! Â¡Vas a dejar de existir, de una u otra forma!}
+{131}{Set09}{No tienes ni idea de quiÃ©n es la sombra que pisas.}
+{132}{}{Un segundÃ³n. Conozco a tu jefe. No feliz.}
+{133}{}{Y tÃº tampoco.}
 {134}{}{Perdona, tengo un peculiar sentido del humor.}
-{135}{Set10}{¿Trabajas para él? Eres su chivato, ¿verdad? Estás aquí para fastidiarme, ¿no? Oh, te juro que tú también morirás.}
-{136}{}{Guau, no me malinterpretes. No le pertenezco. Solo estoy aquí para ayudar.}
-{137}{}{Inténtalo, cara de morcilla.}
-{138}{Set10a}{No lo parecía.}
-{139}{}{Lo entiendo. Él también es mi problema. Habla conmigo.}
-{140}{Set11}{Necrópolis era mía. No era la leche, pero estaba bien para alguien como yo. Entonces apareció el Maestro. Me podría haber dado una buena paliza, pero era más fácil para él coger a unos pocos mutantes y quedarse al acecho.}
-{141}{}{¿Qué puedo hacer y qué harás tú por mí?}
+{135}{Set10}{Â¿Trabajas para Ã©l? Eres su chivato, Â¿verdad? EstÃ¡s aquÃ­ para fastidiarme, Â¿no? Oh, te juro que tÃº tambiÃ©n morirÃ¡s.}
+{136}{}{Guau, no me malinterpretes. No le pertenezco. Solo estoy aquÃ­ para ayudar.}
+{137}{}{IntÃ©ntalo, cara de morcilla.}
+{138}{Set10a}{No lo parecÃ­a.}
+{139}{}{Lo entiendo. Ã‰l tambiÃ©n es mi problema. Habla conmigo.}
+{140}{Set11}{NecrÃ³polis era mÃ­a. No era la leche, pero estaba bien para alguien como yo. Entonces apareciÃ³ el Maestro. Me podrÃ­a haber dado una buena paliza, pero era mÃ¡s fÃ¡cil para Ã©l coger a unos pocos mutantes y quedarse al acecho.}
+{141}{}{Â¿QuÃ© puedo hacer y quÃ© harÃ¡s tÃº por mÃ­?}
 {142}{}{Se sale un poco de mi rollo. Paso de esto.}
-{143}{Set12}{Los Mutantes que están en el Almacén de Agua necesitan una siesta. Hace que mi sombra crezca. Los troceas y tendrás tu recompensa. Información incluida.}
+{143}{Set12}{Los Mutantes que estÃ¡n en el AlmacÃ©n de Agua necesitan una siesta. Hace que mi sombra crezca. Los troceas y tendrÃ¡s tu recompensa. InformaciÃ³n incluida.}
 {144}{}{Hecho.}
-{145}{}{Demasiados problemas. Ya nos veremos por ahí.}
-{146}{Set13}{¿Buscas trabajo, caminante? Demuestra que sabes pelear. Acaba con los mutantes que hay en el Almacén de Agua. Hazles pasar un mal rato, si eres bueno.}
+{145}{}{Demasiados problemas. Ya nos veremos por ahÃ­.}
+{146}{Set13}{Â¿Buscas trabajo, caminante? Demuestra que sabes pelear. Acaba con los mutantes que hay en el AlmacÃ©n de Agua. Hazles pasar un mal rato, si eres bueno.}
 {147}{}{Estoy en ello.}
-{148}{}{Ni de coña, cara de morcilla.}
-{149}{Set14}{No. ¿Más preguntas? }
-{150}{}{Ahhh, supongo que no. ¿Qué puedo hacer por ti?}
-{151}{}{Sí. ¿Te cuesta limpiarte los dientes?}
-{152}{Set15}{Tienes tanta gracia, que me duele la mandíbula. Inténtalo otra vez y mis Élites te exprimirán. ¿Lo pillas?}
+{148}{}{Ni de coÃ±a, cara de morcilla.}
+{149}{Set14}{No. Â¿MÃ¡s preguntas? }
+{150}{}{Ahhh, supongo que no. Â¿QuÃ© puedo hacer por ti?}
+{151}{}{SÃ­. Â¿Te cuesta limpiarte los dientes?}
+{152}{Set15}{Tienes tanta gracia, que me duele la mandÃ­bula. IntÃ©ntalo otra vez y mis Ã‰lites te exprimirÃ¡n. Â¿Lo pillas?}
 {153}{}{Entendido.}
-{154}{}{Pues aún no lo tengo muy claro...}
-{155}{}{Está claro que tu cara te debe doler.}
-{156}{Set16}{Mi nombre es Set. El tuyo es Todo-me-duele. Hagamos un trato, yo te cambio el mote. ¿Me estás escuchando?}
+{154}{}{Pues aÃºn no lo tengo muy claro...}
+{155}{}{EstÃ¡ claro que tu cara te debe doler.}
+{156}{Set16}{Mi nombre es Set. El tuyo es Todo-me-duele. Hagamos un trato, yo te cambio el mote. Â¿Me estÃ¡s escuchando?}
 {157}{}{Claro. Es mejor que desangrarse en el suelo.}
 {158}{}{Naaa. Trae a tus fantasmones.}
 {159}{}{Uh-huh.}
-{160}{}{¡Nah-ah!}
-{161}{Set17}{Date un rulo por el Almacén de Agua, haz que los mutantes duerman la siesta. Hazlo, sigues siendo un caminante. No lo haces, te irás a descansar.}
-{162}{}{Parece que estos tíos te asustan un poco, ¿quieres que hablemos de ello?}
+{160}{}{Â¡Nah-ah!}
+{161}{Set17}{Date un rulo por el AlmacÃ©n de Agua, haz que los mutantes duerman la siesta. Hazlo, sigues siendo un caminante. No lo haces, te irÃ¡s a descansar.}
+{162}{}{Parece que estos tÃ­os te asustan un poco, Â¿quieres que hablemos de ello?}
 {163}{}{Soy un enrollado. Trato hecho.}
 {164}{}{Eres raro y hablas raro.}
 {165}{Set18}{Bien hecho. Mereces verme, caminante. Sigue a Garret para tu recompensa. Ahora. Estoy ocupado.}
 {166}{}{De acuerdo. Gracias.}
-{167}{}{¿Eso es todo? Gracias, y ahora, ¿te largas?}
-{168}{}{¿Mamá?}
-{169}{Set19}{Ojo antes de chillar. Lo preferirás. Sería una pena cabrearme ahora... que estoy tan contento.}
-{170}{}{Disculpa mi exceso de cólera pero estoy un poco preocupado.}
+{167}{}{Â¿Eso es todo? Gracias, y ahora, Â¿te largas?}
+{168}{}{Â¿MamÃ¡?}
+{169}{Set19}{Ojo antes de chillar. Lo preferirÃ¡s. SerÃ­a una pena cabrearme ahora... que estoy tan contento.}
+{170}{}{Disculpa mi exceso de cÃ³lera pero estoy un poco preocupado.}
 {171}{}{Perdona, no pasa nada.}
 {172}{}{Oye, no me conformo con las sobras.}
-{173}{Set20}{[Gruñe] Sí, sí. Sigue a Garret y continúa mostrando tus perlitas blancas. Y no temas, mantengo la palabra. El Maestro es el retorcido.}
-{174}{}{¿El Maestro?}
+{173}{Set20}{[GruÃ±e] SÃ­, sÃ­. Sigue a Garret y continÃºa mostrando tus perlitas blancas. Y no temas, mantengo la palabra. El Maestro es el retorcido.}
+{174}{}{Â¿El Maestro?}
 {175}{}{Vale, gracias.}
-{176}{Set21}{Si no vigilas tus espaldas lucirás su cuchillo y él lucirá tu piel. Sus mutantes ensombrecen el yermo, sobre todo al sur.}
-{177}{}{Si el Maestro es tan fuerte, ¿quién puede desafiarlo?}
-{178}{}{A mí no me asusta.}
-{179}{Set21a}{Debería.}
-{180}{Set22}{Los Niños de la Catedral, los del Eje, incluso nosotros, los necrófagos. Nadie puede empujar su sombra ahora. Pero nuestra luz brillará más la próxima vez. Oh, sí.}
+{176}{Set21}{Si no vigilas tus espaldas lucirÃ¡s su cuchillo y Ã©l lucirÃ¡ tu piel. Sus mutantes ensombrecen el yermo, sobre todo al sur.}
+{177}{}{Si el Maestro es tan fuerte, Â¿quiÃ©n puede desafiarlo?}
+{178}{}{A mÃ­ no me asusta.}
+{179}{Set21a}{DeberÃ­a.}
+{180}{Set22}{Los NiÃ±os de la Catedral, los del Eje, incluso nosotros, los necrÃ³fagos. Nadie puede empujar su sombra ahora. Pero nuestra luz brillarÃ¡ mÃ¡s la prÃ³xima vez. Oh, sÃ­.}
 {181}{}{Buena suerte.}
-{182}{Set23}{Sigue a Garret y lárgate.}
+{182}{Set23}{Sigue a Garret y lÃ¡rgate.}
 {183}{}{Eso es.}
 {184}{}{Que te den.}
-{185}{Set24}{Podrías dejar las sobras. Ahora largo, sin tu recompensa, o estarás sobre mi mesa esta noche.}
-{186}{}{Si así lo quieres.}
+{185}{Set24}{PodrÃ­as dejar las sobras. Ahora largo, sin tu recompensa, o estarÃ¡s sobre mi mesa esta noche.}
+{186}{}{Si asÃ­ lo quieres.}
 {187}{}{Que te den.}
-{188}{Set25}{No he tenido noticia de que los mutantes del Almacén de Agua hayan dejado de respirar. Fundamental para mis planes. Dime que es un problema enterrado.}
-{189}{}{Oh, sí. No te preocupes, me estoy ocupando de todo. Confía en mí.}
-{190}{}{No, todavía estoy en ello.}
+{188}{Set25}{No he tenido noticia de que los mutantes del AlmacÃ©n de Agua hayan dejado de respirar. Fundamental para mis planes. Dime que es un problema enterrado.}
+{189}{}{Oh, sÃ­. No te preocupes, me estoy ocupando de todo. ConfÃ­a en mÃ­.}
+{190}{}{No, todavÃ­a estoy en ello.}
 {191}{}{Nuh-uh.}
 {192}{Set26}{Ahhh, reconforta. Sigue a Garret para tu recompensa. }
-{193}{Set27}{Me haces perder el tiempo con tus mentiras. Deja mi sombra antes de... morir. ¡Muere! ¡Solo muere! }
-{194}{Set28}{Ahora anda. Ocúpate de los mutantes y luego vuelve. No antes.}
-{195}{Set29}{Te han cogido los míos, ¿eh? Ya te advertí sobre ellos. Ahora pagas. Sin crédito.}
-{196}{Set30}{Soy Set. ¿Por qué vas tras mi sombra?}
-{197}{}{Soy el portador de la muerte. Arrodíllate y suplica misericordia.}
-{198}{}{Soy el portador de la muerte. Arrodíllate y suplica misericordia... o dame un bocata, me muero de hambre.}
-{199}{}{Estoy aquí para ver al jefe. ¿Eres tú?}
-{200}{}{¡Guau, un caso de acné gravísimo!}
-{201}{}{Ah, nonsé.}
-{202}{Set31}{Normaluchos. Si me hicierais temblar, ¿estarían mis puertas abiertas así?}
-{203}{}{He matado necrófagos. He matado mutantes. He matado cosas que jamás podrías imaginar. Nadie se interpone en mi camino.}
-{204}{}{¿Qué tal un lifting...? Quedaría bien en mi pared.}
-{205}{Set32}{Has acabado con los del Almacén. Lo encuentro reconfortante. Por ello te elogiaré. Después, separaremos nuestros caminos.}
-{206}{}{¿Por qué no "separamos nuestros caminos" ahora?}
-{207}{}{Por mí vale.}
-{208}{Set33}{Una advertencia. El sur hace que un perro de presa esconda el rabo entre las patas. Si tienes ideas en el cráneo, yo puedo hacer que los perros de presa se hagan los muertos. Por otra parte, limpiaste el Almacén. Garret te llevará a la gratitud.}
-{209}{Set34}{La risa se me hace difícil. ¿Has limpiado el Almacén?}
+{193}{Set27}{Me haces perder el tiempo con tus mentiras. Deja mi sombra antes de... morir. Â¡Muere! Â¡Solo muere! }
+{194}{Set28}{Ahora anda. OcÃºpate de los mutantes y luego vuelve. No antes.}
+{195}{Set29}{Te han cogido los mÃ­os, Â¿eh? Ya te advertÃ­ sobre ellos. Ahora pagas. Sin crÃ©dito.}
+{196}{Set30}{Soy Set. Â¿Por quÃ© vas tras mi sombra?}
+{197}{}{Soy el portador de la muerte. ArrodÃ­llate y suplica misericordia.}
+{198}{}{Soy el portador de la muerte. ArrodÃ­llate y suplica misericordia... o dame un bocata, me muero de hambre.}
+{199}{}{Estoy aquÃ­ para ver al jefe. Â¿Eres tÃº?}
+{200}{}{Â¡Guau, un caso de acnÃ© gravÃ­simo!}
+{201}{}{Ah, nonsÃ©.}
+{202}{Set31}{Normaluchos. Si me hicierais temblar, Â¿estarÃ­an mis puertas abiertas asÃ­?}
+{203}{}{He matado necrÃ³fagos. He matado mutantes. He matado cosas que jamÃ¡s podrÃ­as imaginar. Nadie se interpone en mi camino.}
+{204}{}{Â¿QuÃ© tal un lifting...? QuedarÃ­a bien en mi pared.}
+{205}{Set32}{Has acabado con los del AlmacÃ©n. Lo encuentro reconfortante. Por ello te elogiarÃ©. DespuÃ©s, separaremos nuestros caminos.}
+{206}{}{Â¿Por quÃ© no "separamos nuestros caminos" ahora?}
+{207}{}{Por mÃ­ vale.}
+{208}{Set33}{Una advertencia. El sur hace que un perro de presa esconda el rabo entre las patas. Si tienes ideas en el crÃ¡neo, yo puedo hacer que los perros de presa se hagan los muertos. Por otra parte, limpiaste el AlmacÃ©n. Garret te llevarÃ¡ a la gratitud.}
+{209}{Set34}{La risa se me hace difÃ­cil. Â¿Has limpiado el AlmacÃ©n?}
 {210}{}{Ese es el hecho.}
 {211}{}{Oh, no. No fui yo.}
-{212}{Set35}{Mi error, tu pérdida. Aumenta el trabajo, deberías caminar ahora.}
-{213}{Set36}{Ah, sí. Sin huellas en la arena. Bien. Reconforta. Camina con Garret a la gratitud.}
-{214}{Set38}{Yo proyecto la sombra. Si eso es todo, quítate tú. }
-{215}{}{Estoy aquí para recoger la prima por unos mutantes.}
-{216}{}{Gracias, creo que me marcharé.}
-{217}{}{Sería más rápido quitarte a ti de en medio.}
+{212}{Set35}{Mi error, tu pÃ©rdida. Aumenta el trabajo, deberÃ­as caminar ahora.}
+{213}{Set36}{Ah, sÃ­. Sin huellas en la arena. Bien. Reconforta. Camina con Garret a la gratitud.}
+{214}{Set38}{Yo proyecto la sombra. Si eso es todo, quÃ­tate tÃº. }
+{215}{}{Estoy aquÃ­ para recoger la prima por unos mutantes.}
+{216}{}{Gracias, creo que me marcharÃ©.}
+{217}{}{SerÃ­a mÃ¡s rÃ¡pido quitarte a ti de en medio.}
 {218}{Set39}{Factible. Sigue a Garret a la gratitud, luego vete por otro camino.}
-{219}{Set40}{¿Motivos para las agresiones? Camina y los míos se estarán quietos. Habla y los míos se moverán.}
+{219}{Set40}{Â¿Motivos para las agresiones? Camina y los mÃ­os se estarÃ¡n quietos. Habla y los mÃ­os se moverÃ¡n.}
 {220}{}{Lo siento, un mal intento de humor.}
 {221}{}{Ya era hora. Me estaba aburriendo de ver que tu cara no mejora.}
-{222}{Set41}{Ah, el normalucho-pensante. Has matado a los del Almacén, ¿no? ¿Vienes por la recompensa?}
-{223}{}{A-já.}
+{222}{Set41}{Ah, el normalucho-pensante. Has matado a los del AlmacÃ©n, Â¿no? Â¿Vienes por la recompensa?}
+{223}{}{A-jÃ¡.}
 {224}{}{Nah-ah, venir a patear tu culo.}
 {225}{Set42a}{Ahora es malo. Camina. }
-{226}{}{Merezco alguna información.}
-{227}{}{¿Qué tal si te piso la cara?}
+{226}{}{Merezco alguna informaciÃ³n.}
+{227}{}{Â¿QuÃ© tal si te piso la cara?}
 {228}{}{Entendido.}
-{229}{}{No, ¿eh?}
-{230}{Set43}{Vale. Rápido. ¿Qué?}
-{231}{}{Tú no harías lo de los mutantes por ti mismo. Y yo me pregunto, ¿por qué? La respuesta, alguien te tiene asustado. ¿Por qué?}
-{232}{}{¿Por qué me necesitabas a mí para matar a los mutantes? ¿Por qué no usar a tus necrófagos?}
-{233}{}{¿Cómo diablos osas llamar recompensa a esta porquería?}
-{234}{Set44}{No tiemblo. Uso los instrumentos del tiempo. Tú eres usado, tú eres recompensado, tú caminas.}
-{235}{}{Te estás tirando un farol.}
-{236}{}{Si tú lo dices.}
-{237}{}{¡Creo que eso es una amenaza!}
-{238}{Set45}{Ni siquiera lees las líneas. A no ser que Necrópolis vaya a ser tu hogar permanente, camina. No tengo tiempo para un tonto saco de carne.}
-{239}{}{¿Qué tal tu propio cadáver en un saco?}
+{229}{}{No, Â¿eh?}
+{230}{Set43}{Vale. RÃ¡pido. Â¿QuÃ©?}
+{231}{}{TÃº no harÃ­as lo de los mutantes por ti mismo. Y yo me pregunto, Â¿por quÃ©? La respuesta, alguien te tiene asustado. Â¿Por quÃ©?}
+{232}{}{Â¿Por quÃ© me necesitabas a mÃ­ para matar a los mutantes? Â¿Por quÃ© no usar a tus necrÃ³fagos?}
+{233}{}{Â¿CÃ³mo diablos osas llamar recompensa a esta porquerÃ­a?}
+{234}{Set44}{No tiemblo. Uso los instrumentos del tiempo. TÃº eres usado, tÃº eres recompensado, tÃº caminas.}
+{235}{}{Te estÃ¡s tirando un farol.}
+{236}{}{Si tÃº lo dices.}
+{237}{}{Â¡Creo que eso es una amenaza!}
+{238}{Set45}{Ni siquiera lees las lÃ­neas. A no ser que NecrÃ³polis vaya a ser tu hogar permanente, camina. No tengo tiempo para un tonto saco de carne.}
+{239}{}{Â¿QuÃ© tal tu propio cadÃ¡ver en un saco?}
 {240}{}{Entendido.}
-{241}{}{Cómemela.}
+{241}{}{CÃ³memela.}
 {242}{Set45a}{Con mucho gusto...}
-{243}{Set46}{Sin farol, sin truco. El Maestro no me hace temblar. Camina. Tu bienvenida aquí ya lo ha hecho.}
+{243}{Set46}{Sin farol, sin truco. El Maestro no me hace temblar. Camina. Tu bienvenida aquÃ­ ya lo ha hecho.}
 {244}{}{Gracias por tu tiempo.}
-{245}{}{¿Crees que humillarte te devolverá la bienvenida? Funciona conmigo.}
-{246}{Set47}{¿Por qué enviar a un necrófago para un trabajo de niños? Déjame.}
-{247}{Set48}{Estoy cansado. Tú te vas.}
-{248}{Set49}{¡Siembra y llora! ¡Te quiero muerto! ¡Muerto!}
-{249}{Set50}{He descubierto tu truco y nos hace daño a uno de nosotros. Elección corta: Elimina a los mutantes o muere.}
+{245}{}{Â¿Crees que humillarte te devolverÃ¡ la bienvenida? Funciona conmigo.}
+{246}{Set47}{Â¿Por quÃ© enviar a un necrÃ³fago para un trabajo de niÃ±os? DÃ©jame.}
+{247}{Set48}{Estoy cansado. TÃº te vas.}
+{248}{Set49}{Â¡Siembra y llora! Â¡Te quiero muerto! Â¡Muerto!}
+{249}{Set50}{He descubierto tu truco y nos hace daÃ±o a uno de nosotros. ElecciÃ³n corta: Elimina a los mutantes o muere.}
 {250}{}{Ahora mismo lo hago.}
-{251}{}{La lista es más larga. El nº 3 es: ¿Y si por el contrario giro tu cabeza?}
-{252}{Set51}{¿Todavía tras mi sombra? ¿Por qué se menearán las lenguas de los normaluchos y se mueve según sus huesos? Hora de irse, ahora camina.}
-{253}{Set52}{¿Tu presencia significa?}
+{251}{}{La lista es mÃ¡s larga. El nÂº 3 es: Â¿Y si por el contrario giro tu cabeza?}
+{252}{Set51}{Â¿TodavÃ­a tras mi sombra? Â¿Por quÃ© se menearÃ¡n las lenguas de los normaluchos y se mueve segÃºn sus huesos? Hora de irse, ahora camina.}
+{253}{Set52}{Â¿Tu presencia significa?}
 {254}{}{No mucho, solo difundo la noticia de que el Maestro ha muerto.}
 {255}{}{Se me han acabado los culos que patear y he pensado en tu cara.}
-{256}{}{Eh. Maestro hacer ¡pum!}
-{257}{Set52a}{¿Quieres decir muerto?}
+{256}{}{Eh. Maestro hacer Â¡pum!}
+{257}{Set52a}{Â¿Quieres decir muerto?}
 {258}{}{Uh-huh.}
-{259}{Set53}{Gustito. Reconforta. Tus necesidades son mis deseos. Nómbralas.}
-{260}{}{Necesito información acerca de los Tanques.}
-{261}{}{Podría necesitar más armas y equipo.}
+{259}{Set53}{Gustito. Reconforta. Tus necesidades son mis deseos. NÃ³mbralas.}
+{260}{}{Necesito informaciÃ³n acerca de los Tanques.}
+{261}{}{PodrÃ­a necesitar mÃ¡s armas y equipo.}
 {262}{}{No, gracias.}
 {263}{}{Necesito algunas cosas.}
 {264}{}{Nouu.}
-{265}{Set54}{Algunos de los míos escaparon del cautiverio. Funcionó esa tarea mutante.}
-{266}{}{¿Qué dijeron?}
-{267}{}{Mutantes, ¿eh? Probablemente necesitaré más pistolas.}
-{268}{Set55}{Gran noroeste, lejos de la vida. Lleno de guardias y difícil llegar. Si ese es tu camino, te doy el pésame.}
-{269}{Set56}{Garret te pasará lo que esté disponible.}
-{270}{Set57}{Tú. Esfumaste nuestro chip procesador de agua. Cámbialo... ¡por tu vida!}
-{271}{}{Ambos necesitamos chips operantes. Aparentemente solo hay uno. ¿Hay otro método en el que no hemos pensado?}
+{265}{Set54}{Algunos de los mÃ­os escaparon del cautiverio. FuncionÃ³ esa tarea mutante.}
+{266}{}{Â¿QuÃ© dijeron?}
+{267}{}{Mutantes, Â¿eh? Probablemente necesitarÃ© mÃ¡s pistolas.}
+{268}{Set55}{Gran noroeste, lejos de la vida. Lleno de guardias y difÃ­cil llegar. Si ese es tu camino, te doy el pÃ©same.}
+{269}{Set56}{Garret te pasarÃ¡ lo que estÃ© disponible.}
+{270}{Set57}{TÃº. Esfumaste nuestro chip procesador de agua. CÃ¡mbialo... Â¡por tu vida!}
+{271}{}{Ambos necesitamos chips operantes. Aparentemente solo hay uno. Â¿Hay otro mÃ©todo en el que no hemos pensado?}
 {272}{}{Necesitaba el chip para salvar mi propio Refugio. Lo siento.}
-{273}{}{¿Bastará con un... lo siento?}
-{274}{}{¿Lo quieres de vuelta?}
-{275}{}{¿Ehh?}
-{276}{Set58}{Un camino, quizás. Existe una bomba alternativa, pero no acciona. Ninguno de los míos puede traerla a la vida.}
-{277}{}{Quizás podría echar una ojeada a esa bomba.}
-{278}{}{Qué pena. Supongo que estaréis sedientos.}
-{279}{Set59}{Garret caminará contigo. Reavivas la bomba, te quedas el chip.}
+{273}{}{Â¿BastarÃ¡ con un... lo siento?}
+{274}{}{Â¿Lo quieres de vuelta?}
+{275}{}{Â¿Ehh?}
+{276}{Set58}{Un camino, quizÃ¡s. Existe una bomba alternativa, pero no acciona. Ninguno de los mÃ­os puede traerla a la vida.}
+{277}{}{QuizÃ¡s podrÃ­a echar una ojeada a esa bomba.}
+{278}{}{QuÃ© pena. Supongo que estarÃ©is sedientos.}
+{279}{Set59}{Garret caminarÃ¡ contigo. Reavivas la bomba, te quedas el chip.}
 {280}{}{Gracias.}
-{281}{Set60}{Beberé de ti caliente, luego te quitaré el frío.}
+{281}{Set60}{BeberÃ© de ti caliente, luego te quitarÃ© el frÃ­o.}
 {282}{}{No lo llevo encima.}
-{283}{}{Qué tal si en vez de eso comes polvo.}
-{284}{Set61}{¡Entonces muere antes que los míos!}
-{285}{Set62}{No te volverán a preocupar las ideas.}
-{286}{}{¿Lo tomo como un "no"?}
-{287}{Set63}{El precio es pertenecer a Necrópolis para siempre.}
-{288}{}{Un poco caro. ¿Qué tal si en vez de eso te retiro del cargo?}
-{289}{}{¡Nah-ah!}
-{290}{Set64}{A cambio del chip, podrás caminar.}
-{291}{}{¡Te engañé! ¡Ya no lo tengo!}
-{292}{}{Vale, aquí está.}
+{283}{}{QuÃ© tal si en vez de eso comes polvo.}
+{284}{Set61}{Â¡Entonces muere antes que los mÃ­os!}
+{285}{Set62}{No te volverÃ¡n a preocupar las ideas.}
+{286}{}{Â¿Lo tomo como un "no"?}
+{287}{Set63}{El precio es pertenecer a NecrÃ³polis para siempre.}
+{288}{}{Un poco caro. Â¿QuÃ© tal si en vez de eso te retiro del cargo?}
+{289}{}{Â¡Nah-ah!}
+{290}{Set64}{A cambio del chip, podrÃ¡s caminar.}
+{291}{}{Â¡Te engaÃ±Ã©! Â¡Ya no lo tengo!}
+{292}{}{Vale, aquÃ­ estÃ¡.}
 {293}{}{Prefiero verte muerto.}
-{294}{Set65}{[Set le pasa el Chip del agua a un necrófago que escapa con él.] Si tu sombra toca Necrópolis de nuevo, desaparecerá para siempre.}
+{294}{Set65}{[Set le pasa el Chip del agua a un necrÃ³fago que escapa con Ã©l.] Si tu sombra toca NecrÃ³polis de nuevo, desaparecerÃ¡ para siempre.}
 {295}{Set200}{Como dije...}
 {296}{Set201}{Antes he declarado...}
 {297}{Set202}{No hago tratos con normaluchos.}
 {298}{Set203}{Parlotea con Garret. Mi tiempo vuela.}
-{299}{Set204}{¿Tienes la cabeza hueca?}
-{300}{Set205}{Tuyo es el único beneficio. Este intercambio está falto.}
+{299}{Set204}{Â¿Tienes la cabeza hueca?}
+{300}{Set205}{Tuyo es el Ãºnico beneficio. Este intercambio estÃ¡ falto.}
 {301}{Set206}{Pensamientos que no poseo.}
-{302}{Set207}{No es el momento. La tarde es más apropiada para tu sombra.}
-{303}{Set208}{¡Guardias! ¡Capturad al normal!}
-{304}{Set209}{Guardias, ¡acabad con esta molestia!}
-{305}{Set300}{Su significado no tiene lugar aquí. Ninguno.}
+{302}{Set207}{No es el momento. La tarde es mÃ¡s apropiada para tu sombra.}
+{303}{Set208}{Â¡Guardias! Â¡Capturad al normal!}
+{304}{Set209}{Guardias, Â¡acabad con esta molestia!}
+{305}{Set300}{Su significado no tiene lugar aquÃ­. Ninguno.}
 {306}{Set301}{El futuro. Supervivencia en cualquier sitio. Superamos a los normaluchos.}
-{307}{Set302}{Un error del mundo. Un borrón en mi vista. Odio cada careto.}
+{307}{Set302}{Un error del mundo. Un borrÃ³n en mi vista. Odio cada careto.}
 {308}{Set303}{Donde descansa tu sombra. Mi hogar. Mi reino. Un lugar donde la fuerza aumenta.}
 {309}{Set304}{El principio. El mundo en cenizas, las cenizas se expanden. Nuestra vida.}
 {310}{Set305}{Ideales malogrados. Nada que me importe, nada en absoluto.}
-{311}{Set306}{Muchos de los tuyos. Algunos útiles, pero demasiados chiflados.}
-{312}{Set307}{Reliquias. Nosotros superamos, ellos no lo saben. Su visión es estrecha, solo en lo que creen.}
-{313}{Set308}{Centro del suministro de agua de Necrópolis. Envenenado con la presencia de mutantes. Pensar en ello me pone malo.}
+{311}{Set306}{Muchos de los tuyos. Algunos Ãºtiles, pero demasiados chiflados.}
+{312}{Set307}{Reliquias. Nosotros superamos, ellos no lo saben. Su visiÃ³n es estrecha, solo en lo que creen.}
+{313}{Set308}{Centro del suministro de agua de NecrÃ³polis. Envenenado con la presencia de mutantes. Pensar en ello me pone malo.}
 {314}{Set309}{Proporciona lo que se necesita.}
 {315}{Set310}{Por debajo de mis pensamientos.}
 {316}{Set311}{No en mis pensamientos.}
-{970}{Set01}{Ahorra saliva. Soy Set. Estoy al mando. ¿Lo pillas?}
+{970}{Set01}{Ahorra saliva. Soy Set. Estoy al mando. Â¿Lo pillas?}
 {980}{Set206}{Pensamientos que no poseo.}
 {981}{Set310}{Por debajo de mis pensamientos.}
 {982}{Set311}{No en mis pensamientos.}
 {1000}{}{Maestro}
-{1001}{}{Necrófagos}
+{1001}{}{NecrÃ³fagos}
 {1002}{}{Mutantes}
-{1003}{}{Necrópolis}
+{1003}{}{NecrÃ³polis}
 {1004}{}{Guerra}
 {1005}{}{Unidad}
 {1006}{}{Eje}
 {1007}{}{Hermandad}
-{1008}{}{Almacén}
+{1008}{}{AlmacÃ©n}
 {1009}{}{Catedral}
 {1010}{}{Chip}
 {1011}{}{Sala}
-{1012}{}{Niños}
+{1012}{}{NiÃ±os}
 {1013}{}{Garret}
 {1014}{}{Set}
 {1015}{}{Mutantes}
 {1016}{}{Hermandad del Acero}
-{1017}{}{Almacén de Agua}
-{1018}{}{Niños de la Catedral}
-{1019}{}{Niños}
-{1020}{}{Almacén de Agua}
+{1017}{}{AlmacÃ©n de Agua}
+{1018}{}{NiÃ±os de la Catedral}
+{1019}{}{NiÃ±os}
+{1020}{}{AlmacÃ©n de Agua}
 {1021}{}{Agua}
-{1100}{Set300}{Su significado no tiene lugar aquí. Ninguno.}
+{1100}{Set300}{Su significado no tiene lugar aquÃ­. Ninguno.}
 {1101}{Set301}{El futuro. Supervivencia en cualquier sitio. Superamos a los normaluchos.}
-{1102}{Set302}{Un error del mundo. Un borrón en mi vista. Odio cada careto.}
+{1102}{Set302}{Un error del mundo. Un borrÃ³n en mi vista. Odio cada careto.}
 {1103}{Set303}{Donde descansa tu sombra. Mi hogar. Mi reino. Un lugar donde la fuerza aumenta.}
 {1104}{Set304}{El principio. El mundo en cenizas, las cenizas se expanden. Nuestra vida.}
 {1105}{Set305}{Ideales malogrados. Nada que me importe, nada en absoluto.}
-{1106}{Set306}{Muchos de los tuyos. Algunos útiles, pero demasiados chiflados.}
-{1107}{Set307}{Reliquias. Nosotros superamos, ellos no lo saben. Su visión es estrecha, solo en lo que creen.}
+{1106}{Set306}{Muchos de los tuyos. Algunos Ãºtiles, pero demasiados chiflados.}
+{1107}{Set307}{Reliquias. Nosotros superamos, ellos no lo saben. Su visiÃ³n es estrecha, solo en lo que creen.}
 {1108}{Set309}{Proporciona lo que se necesita.}
 {1109}{Set310}{Por debajo de mis pensamientos.}
 {1110}{Set311}{No en mis pensamientos.}
-{1111}{Set204}{¿Tienes la cabeza hueca?}
+{1111}{Set204}{Â¿Tienes la cabeza hueca?}
 {1112}{Set310}{Por debajo de mis pensamientos.}
-{1113}{Set204}{¿Tienes la cabeza hueca?}
-{1114}{Set01}{Ahorra saliva. Soy Set. Estoy al mando. ¿Lo pillas?}
-{1115}{Set302}{Un error del mundo. Un borrón en mi vista. Odio cada careto.}
-{1116}{Set307}{Reliquias. Nosotros superamos, ellos no lo saben. Su visión es estrecha, solo en lo que creen.}
+{1113}{Set204}{Â¿Tienes la cabeza hueca?}
+{1114}{Set01}{Ahorra saliva. Soy Set. Estoy al mando. Â¿Lo pillas?}
+{1115}{Set302}{Un error del mundo. Un borrÃ³n en mi vista. Odio cada careto.}
+{1116}{Set307}{Reliquias. Nosotros superamos, ellos no lo saben. Su visiÃ³n es estrecha, solo en lo que creen.}
 {1117}{Set309}{Proporciona lo que se necesita.}
 {1118}{Set310}{Por debajo de mis pensamientos.}
 {1119}{Set310}{Por debajo de mis pensamientos.}

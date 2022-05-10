@@ -1,8 +1,8 @@
 {100}{}{You have broken out of the jail. You're now definitely a fugitive in Junktown!}
 {101}{}{The door looks solid, and has a stout lock. Still, locks can be picked, and doors can be destroyed.}
 {102}{}{The door is locked.}
-{103}{}{Du sperrst die Tür auf.}
-{104}{}{Du verriegelst die Tür.}
+{103}{}{Du sperrst die TÃ¼r auf.}
+{104}{}{Du verriegelst die TÃ¼r.}
 {105}{}{You fail to unlock the door.}
-{106}{}{Du konntest die Tür nicht abschließen.}
+{106}{}{Du konntest die TÃ¼r nicht abschlieÃŸen.}
 {107}{}{You earn 250 experience for busting out of jail!}

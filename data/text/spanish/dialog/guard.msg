@@ -1,9 +1,9 @@
 {100}{}{No tengo miedo.}
 {101}{}{Estoy asustado.}
 {102}{}{Estoy de servicio. Vete.}
-{103}{}{Pórtate bien o habrás de responder ante mí.}
-{104}{}{¿Tienes dónuts?}
-{105}{}{¿No tuviste la impresión de que te observaban? ¿Como si estuvieras controlado a distancia? Yo sí.}
-{106}{}{¿Sabes lo que los escorpiones rad le hicieron a Bill? Aún está buscando sus piernas.}
-{107}{}{Así que crees que puedes derrotar a un Escorpión, ¿eh?}
+{103}{}{PÃ³rtate bien o habrÃ¡s de responder ante mÃ­.}
+{104}{}{Â¿Tienes dÃ³nuts?}
+{105}{}{Â¿No tuviste la impresiÃ³n de que te observaban? Â¿Como si estuvieras controlado a distancia? Yo sÃ­.}
+{106}{}{Â¿Sabes lo que los escorpiones rad le hicieron a Bill? AÃºn estÃ¡ buscando sus piernas.}
+{107}{}{AsÃ­ que crees que puedes derrotar a un EscorpiÃ³n, Â¿eh?}
 {108}{}{No me pareces demasiado fuerte.}

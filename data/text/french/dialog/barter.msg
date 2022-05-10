@@ -1,14 +1,14 @@
-{100}{}{Tu vois : Un marchand des Sables Ombragés.}
-{101}{}{Salut wastelander ! J'échange et je vends des marchandises aux bonnes âmes des Sables Ombragés. Tu veux faire du commerce ?}
+{100}{}{Tu vois : Un marchand des Sables OmbragÃ©s.}
+{101}{}{Salut wastelander ! J'Ã©change et je vends des marchandises aux bonnes Ã¢mes des Sables OmbragÃ©s. Tu veux faire du commerce ?}
 {102}{}{Oui.}
 {103}{}{Non.}
-{104}{}{Nous sommes en proie à des radscorpions depuis quelques temps. Tous ceux envoyés pour détruire ces monstres ne sont jamais revenus. Je te donnerai des armes si tu vas jusqu'à leur repaire et que tu t'en débarrasses.}
+{104}{}{Nous sommes en proie Ã  des radscorpions depuis quelques temps. Tous ceux envoyÃ©s pour dÃ©truire ces monstres ne sont jamais revenus. Je te donnerai des armes si tu vas jusqu'Ã  leur repaire et que tu t'en dÃ©barrasses.}
 {105}{}{Ca semble correct.}
 {106}{}{Non, merci.}
 {107}{}{C'est une honte. Va-t'en.}
-{108}{}{Excellent. Parles-en à Seth, il te guidera jusqu'à leur repaire. Prends ça, ça pourrait être utile.}
-{109}{}{S'il te plaît, aide-nous dès que tu le pourras. C'est urgent.}
-{110}{}{Je ne parle pas aux gens de ton espèce, étranger.}
-{111}{}{Merci de nous avoir débarrassés des radscorpions, étranger.}
+{108}{}{Excellent. Parles-en Ã  Seth, il te guidera jusqu'Ã  leur repaire. Prends Ã§a, Ã§a pourrait Ãªtre utile.}
+{109}{}{S'il te plaÃ®t, aide-nous dÃ¨s que tu le pourras. C'est urgent.}
+{110}{}{Je ne parle pas aux gens de ton espÃ¨ce, Ã©tranger.}
+{111}{}{Merci de nous avoir dÃ©barrassÃ©s des radscorpions, Ã©tranger.}
 {112}{}{Tu vois un marchand.}
 {113}{}{Je n'ai pas l'intention de te parler tant que tu ne ranges pas ton arme.}

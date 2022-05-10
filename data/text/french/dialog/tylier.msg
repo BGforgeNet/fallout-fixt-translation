@@ -1,29 +1,29 @@
-{100}{}{Station de Sécurité}
-{101}{}{Le terminal "Tylier" contrôle les Opérations des Forces Spéciales. Autorisation vocale requise.}
+{100}{}{Station de SÃ©curitÃ©}
+{101}{}{Le terminal "Tylier" contrÃ´le les OpÃ©rations des Forces SpÃ©ciales. Autorisation vocale requise.}
 {102}{}{Nouna !}
 {103}{}{A l'aide. Moi bobo.}
 {104}{}{Laisse-moi entrer.}
 {105}{}{Je m'appelle }
 {106}{}{. Laisse-moi passer.}
 {107}{}{Que fais-tu ici ?}
-{108}{}{Voix non identifiée. Systèmes de sécurité armés.}
-{109}{}{Je suis le système de sécurité du Niveau Bleu. Tous les systèmes sont armés.}
-{110}{}{Peux-tu désarmer les systèmes ?}
-{111}{}{Pourquoi les systèmes n'ont-ils pas été désarmés à la fin de la guerre ?}
+{108}{}{Voix non identifiÃ©e. SystÃ¨mes de sÃ©curitÃ© armÃ©s.}
+{109}{}{Je suis le systÃ¨me de sÃ©curitÃ© du Niveau Bleu. Tous les systÃ¨mes sont armÃ©s.}
+{110}{}{Peux-tu dÃ©sarmer les systÃ¨mes ?}
+{111}{}{Pourquoi les systÃ¨mes n'ont-ils pas Ã©tÃ© dÃ©sarmÃ©s Ã  la fin de la guerre ?}
 {112}{}{Merci.}
-{113}{}{J'ai été programmé pour ne pas désarmer les systèmes avant qu'un agent autorisé ait entré le code vocal approprié.}
-{114}{}{Peux-tu désarmer les systèmes pour moi ?}
+{113}{}{J'ai Ã©tÃ© programmÃ© pour ne pas dÃ©sarmer les systÃ¨mes avant qu'un agent autorisÃ© ait entrÃ© le code vocal appropriÃ©.}
+{114}{}{Peux-tu dÃ©sarmer les systÃ¨mes pour moi ?}
 {115}{}{Au revoir.}
-{116}{}{Code vocal : Gamma Delta Delta. Désarmer tous les systèmes.}
-{117}{}{Tu n'as pas d'autorisation. Accès refusé.}
-{118}{}{Code non valide. Accès refusé.}
-{119}{}{Code vocal : Gamma Omicron Delta. Désarmer les systèmes.}
-{120}{}{Code vocal : Omicron Delta Delta. Désarmer les systèmes.}
-{121}{}{Code vocal : Alpha Delta Delta. Désarmer les systèmes.}
-{122}{}{Code vocal : Delta Omicron Gamma. Désarmer les systèmes.}
+{116}{}{Code vocal : Gamma Delta Delta. DÃ©sarmer tous les systÃ¨mes.}
+{117}{}{Tu n'as pas d'autorisation. AccÃ¨s refusÃ©.}
+{118}{}{Code non valide. AccÃ¨s refusÃ©.}
+{119}{}{Code vocal : Gamma Omicron Delta. DÃ©sarmer les systÃ¨mes.}
+{120}{}{Code vocal : Omicron Delta Delta. DÃ©sarmer les systÃ¨mes.}
+{121}{}{Code vocal : Alpha Delta Delta. DÃ©sarmer les systÃ¨mes.}
+{122}{}{Code vocal : Delta Omicron Gamma. DÃ©sarmer les systÃ¨mes.}
 {123}{}{Au revoir.}
-{124}{}{Code vocal confirmé. Désarmement des systèmes de sécurité en cours.}
-{125}{}{Je n'ai reçu aucun ordre. L'accès au réseau n'est pas disponible ; le processeur central ZAX a apparemment été détruit.}
-{126}{}{Bien. Code vocal : Sigma Alpha Delta. Désarmer les systèmes.}
+{124}{}{Code vocal confirmÃ©. DÃ©sarmement des systÃ¨mes de sÃ©curitÃ© en cours.}
+{125}{}{Je n'ai reÃ§u aucun ordre. L'accÃ¨s au rÃ©seau n'est pas disponible ; le processeur central ZAX a apparemment Ã©tÃ© dÃ©truit.}
+{126}{}{Bien. Code vocal : Sigma Alpha Delta. DÃ©sarmer les systÃ¨mes.}
 {127}{}{Au revoir.}
-{128}{}{Les systèmes de sécurité sont désarmés.}
+{128}{}{Les systÃ¨mes de sÃ©curitÃ© sont dÃ©sarmÃ©s.}

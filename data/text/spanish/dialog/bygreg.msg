@@ -1,20 +1,20 @@
-{100}{}{Est·s viendo a un hombre. Te mira intensa y r·pidamente a los ojos y luego aparta la vista.}
-{101}{}{Est·s viendo a Greg.}
-{102}{}{øQuÈ? øPor quÈ est·s hablando conmigo? Averiguar·n que sabes demasiado.}
-{103}{}{Eh, detr·s de ti. No hables tan alto, est·n ahÌ fuera.}
-{104}{}{Vale, pero calla, vendr·n a por los dos si no dejas de gritar.}
-{105}{}{øQuiÈn eres?}
-{106}{}{øPor quÈ est·s tan nervioso?}
-{107}{}{Creo que deberÌan aumentar tus dosis de medicamentos.}
+{100}{}{Est√°s viendo a un hombre. Te mira intensa y r√°pidamente a los ojos y luego aparta la vista.}
+{101}{}{Est√°s viendo a Greg.}
+{102}{}{¬øQu√©? ¬øPor qu√© est√°s hablando conmigo? Averiguar√°n que sabes demasiado.}
+{103}{}{Eh, detr√°s de ti. No hables tan alto, est√°n ah√≠ fuera.}
+{104}{}{Vale, pero calla, vendr√°n a por los dos si no dejas de gritar.}
+{105}{}{¬øQui√©n eres?}
+{106}{}{¬øPor qu√© est√°s tan nervioso?}
+{107}{}{Creo que deber√≠an aumentar tus dosis de medicamentos.}
 {108}{}{No importa.}
-{109}{}{Soy... Greg... pero no se lo cuentes a nadie o vendr·n a buscarme.}
-{110}{}{øNervioso?, no estoy nervioso. Solo soy prudente. Todos dicen que soy un paranoico, pero soy el ˙nico que estar· aquÌ cuando vengan a cogernos.}
-{111}{}{øCu·ndo vengan a cogeros? øQuiÈn va a venir a cogeros?}
-{112}{}{Realmente est·s paranoico. HablarÈ contigo luego.}
-{113}{}{Bien, ellos son... Sabes, øno?... la enfermedad fue solo el comienzo. Ahora vendr·n y acabar·n con todos nosotros. Pero t˙ eres como los dem·s. No me creer·s y ser·s aniquilado. Escucha lo que te digo. YO ESTAR… A⁄N AQUÕ, Y TODO ESTO, INCLUIDO T⁄, SER¡ DESTRUIDO. DESTRUIDO. (Asiente y se hace un ovillo, chillando y revolviÈndose)}
-{114}{}{Medicamentos... Oh, asÌ que eres uno de ellos, quieres que vuelva a tomar esos medicamentos otra vez... Bueno, no lo conseguir·s. °NO ME LAS TOMAR…! NO, NO LO HAR…. LAS VOCES. °NO, NO LO HAR…! NO PUEDES OBLIGARME. (Cierra los ojos y se agarra la cabeza desesperadamente, hablando con las voces que solo Èl puede oÌr)}
-{115}{}{°NO PUEDES OBLIGARME!}
-{116}{}{°NADA DE LO QUE HAGAS ME AYUDAR¡!}
-{117}{}{°TODO EST¡ PERDIDO!}
-{118}{}{°SE ACERCAN, Y NO PUEDES DETENERLOS!}
-{119}{}{°OS COGER¡N A TODOS!}
+{109}{}{Soy... Greg... pero no se lo cuentes a nadie o vendr√°n a buscarme.}
+{110}{}{¬øNervioso?, no estoy nervioso. Solo soy prudente. Todos dicen que soy un paranoico, pero soy el √∫nico que estar√° aqu√≠ cuando vengan a cogernos.}
+{111}{}{¬øCu√°ndo vengan a cogeros? ¬øQui√©n va a venir a cogeros?}
+{112}{}{Realmente est√°s paranoico. Hablar√© contigo luego.}
+{113}{}{Bien, ellos son... Sabes, ¬øno?... la enfermedad fue solo el comienzo. Ahora vendr√°n y acabar√°n con todos nosotros. Pero t√∫ eres como los dem√°s. No me creer√°s y ser√°s aniquilado. Escucha lo que te digo. YO ESTAR√â A√öN AQU√ç, Y TODO ESTO, INCLUIDO T√ö, SER√Å DESTRUIDO. DESTRUIDO. (Asiente y se hace un ovillo, chillando y revolvi√©ndose)}
+{114}{}{Medicamentos... Oh, as√≠ que eres uno de ellos, quieres que vuelva a tomar esos medicamentos otra vez... Bueno, no lo conseguir√°s. ¬°NO ME LAS TOMAR√â! NO, NO LO HAR√â. LAS VOCES. ¬°NO, NO LO HAR√â! NO PUEDES OBLIGARME. (Cierra los ojos y se agarra la cabeza desesperadamente, hablando con las voces que solo √©l puede o√≠r)}
+{115}{}{¬°NO PUEDES OBLIGARME!}
+{116}{}{¬°NADA DE LO QUE HAGAS ME AYUDAR√Å!}
+{117}{}{¬°TODO EST√Å PERDIDO!}
+{118}{}{¬°SE ACERCAN, Y NO PUEDES DETENERLOS!}
+{119}{}{¬°OS COGER√ÅN A TODOS!}

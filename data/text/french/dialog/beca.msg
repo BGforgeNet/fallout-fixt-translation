@@ -11,12 +11,12 @@
 {110}{}{Tu penses que c'est Hammer.}
 {111}{}{Tu penses que c'est Razor.}
 {112}{}{Voici les dortoirs. Maintenant sors d'ici avant que je te botte le cul.}
-{113}{}{Sois mon invité.}
-{114}{}{Désolé pour ça. Salut.}
+{113}{}{Sois mon invitÃ©.}
+{114}{}{DÃ©solÃ© pour Ã§a. Salut.}
 {115}{}{Je peux m'incruster ici ?}
 {116}{}{Non. Ils sont pour les vrais membres des Ecorcheurs, pas pour de quelconques lavettes.}
-{117}{}{Hé l'ami ! Comment ça va ? Installe-toi ici si tu as besoin d'un endroit sûr.}
-{118}{}{Ainsi tu t'es porté volontaire pour nous aider. C'est mieux que rien, je l'admets. Merci. Je vais faire passer le mot.}
+{117}{}{HÃ© l'ami ! Comment Ã§a va ? Installe-toi ici si tu as besoin d'un endroit sÃ»r.}
+{118}{}{Ainsi tu t'es portÃ© volontaire pour nous aider. C'est mieux que rien, je l'admets. Merci. Je vais faire passer le mot.}
 {119}{}{Ouais. Je vais y aller et voir ce que je peux faire.}
-{120}{}{Hé te revoilà. J'ai entendu que tu nous avais vraiment aidé. Tu es plus que digne de notre respect en effet. Nous sommes libres maintenant. [Tu es dorénavant un membre du gang des Ecorcheurs.]}
-{121}{}{Je ne peux pas t'aider. Va parler à Razor.}
+{120}{}{HÃ© te revoilÃ . J'ai entendu que tu nous avais vraiment aidÃ©. Tu es plus que digne de notre respect en effet. Nous sommes libres maintenant. [Tu es dorÃ©navant un membre du gang des Ecorcheurs.]}
+{121}{}{Je ne peux pas t'aider. Va parler Ã  Razor.}

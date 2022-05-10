@@ -36,7 +36,7 @@
 {135}{}{What makes you think I have her?}
 {136}{}{I know you do. I followed you here.}
 {137}{}{One of your followers told me.}
-{138}{}{Ich weiﬂ.}
+{138}{}{Ich wei√ü.}
 {139}{}{I hate it when they do that. I will have to make that loudmouth pay for his crimes. After I finish up with you.}
 {140}{}{Hmmm. Well then. What do you offer for her release?}
 {141}{}{I represent a threat you don't even understand. Do you really want to risk our wrath?}
@@ -74,7 +74,7 @@
 {173}{}{Take your miserable hide and leave. If you ever return, I will not be so gentle.}
 {174}{}{Was willst du?}
 {175}{}{I'm an explorer.}
-{176}{}{Ich mˆchte beitreten.}
+{176}{}{Ich m√∂chte beitreten.}
 {177}{}{We don't like those kinds of people. We can't have that here. Kill him.}
 {178}{}{You? Want to join us? Whatever for?}
 {179}{}{To kick some serious ass.}

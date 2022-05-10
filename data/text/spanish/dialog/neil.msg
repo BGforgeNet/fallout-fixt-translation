@@ -1,101 +1,101 @@
 {100}{}{Ves: a Neil, el jefe de los guardias de los Seguidores.}
 {101}{}{Ves: a Neil, el jefe de los guardias de los Seguidores.}
 {102}{}{Si buscas a alguien con quien hablar, habla con Peter. Estoy intentando dormir algo.}
-{103}{}{¿Por qué estás aquí?}
-{104}{}{Grr. ¿Arrooo?}
+{103}{}{Â¿Por quÃ© estÃ¡s aquÃ­?}
+{104}{}{Grr. Â¿Arrooo?}
 {105}{}{Noh noh.}
-{106}{}{¡¡MATAR!!}
+{106}{}{Â¡Â¡MATAR!!}
 {107}{}{Soy }
 {108}{}{. Me enviaron a que te buscara.}
 {109}{}{Soy }
-{110}{}{. Y tú estás muerto.}
-{111}{}{¿Qué puedes contarme de los Seguidores?}
+{110}{}{. Y tÃº estÃ¡s muerto.}
+{111}{}{Â¿QuÃ© puedes contarme de los Seguidores?}
 {112}{}{He venido a ofrecerte mi ayuda.}
 {113}{}{Busco formas de instaurar la paz en este yermo tan desolado.}
-{114}{}{Lo siento, pero no puedo entenderte. Y ahora, ¿qué estás haciendo aquí?}
+{114}{}{Lo siento, pero no puedo entenderte. Y ahora, Â¿quÃ© estÃ¡s haciendo aquÃ­?}
 {115}{}{Noh noh.}
-{116}{}{¡¡Yo Matar!!}
+{116}{}{Â¡Â¡Yo Matar!!}
 {117}{}{Ayua. Yo ayuda.}
-{118}{}{Si no estás haciendo nada, entonces te sugiero que te marches. ¡Ahora!}
-{119}{}{¿Quieres ayudar? Quizás me seas de utilidad.}
-{120}{}{Sí. ¡Yo ayua! ¡Yo ayua!}
-{121}{}{No. ¡No ayua!}
-{122}{}{Eres lo bastante simple para encontrar a esta persona que otros son demasiado listos para encontrar. Por los alrededores hay un espía que está entregando nuestros secretos a los Niños. Busca al espía. Mata al espía. Vete...}
+{118}{}{Si no estÃ¡s haciendo nada, entonces te sugiero que te marches. Â¡Ahora!}
+{119}{}{Â¿Quieres ayudar? QuizÃ¡s me seas de utilidad.}
+{120}{}{SÃ­. Â¡Yo ayua! Â¡Yo ayua!}
+{121}{}{No. Â¡No ayua!}
+{122}{}{Eres lo bastante simple para encontrar a esta persona que otros son demasiado listos para encontrar. Por los alrededores hay un espÃ­a que estÃ¡ entregando nuestros secretos a los NiÃ±os. Busca al espÃ­a. Mata al espÃ­a. Vete...}
 {123}{}{Ya he pensado demasiado. Vete ahora.}
-{124}{}{Imagínate, Jake no cree que pueda hacer el trabajo correctamente. Él es el único que podría haberte enviado. Entonces ya sabes lo del espía.}
-{125}{}{Jake no me envía. Es de parte de uno de tus guardias.}
+{124}{}{ImagÃ­nate, Jake no cree que pueda hacer el trabajo correctamente. Ã‰l es el Ãºnico que podrÃ­a haberte enviado. Entonces ya sabes lo del espÃ­a.}
+{125}{}{Jake no me envÃ­a. Es de parte de uno de tus guardias.}
 {126}{}{Conozco a algunos. Jake casi no me dijo nada.}
-{127}{}{¿De qué va todo esto del espía? Quizás pueda ayudar.}
-{128}{}{Mis guardias no son tontos. Te enviaron a la persona adecuada. Aquí hay una filtración, y necesitamos averiguar dónde está y cerrarla.}
-{129}{}{¿Tienes pistas?}
-{130}{}{Soy un guerrero, no un fontanero. Si tenéis filtraciones, hablad con otra persona.}
-{131}{}{Creo que tú eres la filtración. ¡¡Muere!!}
-{132}{}{Olvídalo. No soy el lacayo de nadie.}
-{133}{}{Lo único que sabemos por ahora es que esa persona tiene acceso a los Niños de la Catedral. Creo que podría ser uno de nuestros exploradores.}
-{134}{}{Vale. Ahora mismo iré a comprobarlo.}
-{135}{}{¿Estás seguro que no es uno de los guaridas?}
-{136}{}{Entonces mala suerte. Ahora nunca podrás capturar a esa persona.}
+{127}{}{Â¿De quÃ© va todo esto del espÃ­a? QuizÃ¡s pueda ayudar.}
+{128}{}{Mis guardias no son tontos. Te enviaron a la persona adecuada. AquÃ­ hay una filtraciÃ³n, y necesitamos averiguar dÃ³nde estÃ¡ y cerrarla.}
+{129}{}{Â¿Tienes pistas?}
+{130}{}{Soy un guerrero, no un fontanero. Si tenÃ©is filtraciones, hablad con otra persona.}
+{131}{}{Creo que tÃº eres la filtraciÃ³n. Â¡Â¡Muere!!}
+{132}{}{OlvÃ­dalo. No soy el lacayo de nadie.}
+{133}{}{Lo Ãºnico que sabemos por ahora es que esa persona tiene acceso a los NiÃ±os de la Catedral. Creo que podrÃ­a ser uno de nuestros exploradores.}
+{134}{}{Vale. Ahora mismo irÃ© a comprobarlo.}
+{135}{}{Â¿EstÃ¡s seguro que no es uno de los guaridas?}
+{136}{}{Entonces mala suerte. Ahora nunca podrÃ¡s capturar a esa persona.}
 {137}{}{Lo tengo bastante claro. Ellos solo tienen acceso a las salas de los Seguidores. No se les permite salir fuera.}
-{138}{}{Entonces no sé quién podría ser.}
-{139}{}{Entonces echaré un vistazo a los exploradores.}
-{140}{}{Creo que aquí ocultas algo. ¡Ahora muere!}
-{141}{}{Por eso te estoy pidiendo que mires por los alrededores y veas si puedes encontrar a alguien. ¿Me ayudarás?}
-{142}{}{Sí.}
+{138}{}{Entonces no sÃ© quiÃ©n podrÃ­a ser.}
+{139}{}{Entonces echarÃ© un vistazo a los exploradores.}
+{140}{}{Creo que aquÃ­ ocultas algo. Â¡Ahora muere!}
+{141}{}{Por eso te estoy pidiendo que mires por los alrededores y veas si puedes encontrar a alguien. Â¿Me ayudarÃ¡s?}
+{142}{}{SÃ­.}
 {143}{}{No.}
 {144}{}{Gracias. Eso significa mucho para nosotros.}
 {145}{}{Entonces debo detenerte para que no adviertas a nadie.}
-{146}{}{Cómo llegó él a ser el segundo no lo sé. Como resulta que está tan escueto de palabras, te dejaré entrar. Tenemos una filtración que hace disponer a los Niños con algunas de nuestras rutas de patrulla.}
-{147}{}{¿Tienes pistas?}
-{148}{}{Soy un guerrero, no un fontanero. Si tenéis filtraciones, hablad con otra persona.}
-{149}{}{Creo que tú eres la filtración. ¡¡Muere!!}
-{150}{}{Olvídalo. No soy el lacayo de nadie.}
-{151}{}{¿Ni siquiera lo sabes? Creo que es mejor que no; mucha gente de aquí no lo es. Alguien está robando información de nuestros movimientos a los Niños. Necesitamos que esa persona se vaya.}
-{152}{}{¿Tienes pistas?}
-{153}{}{Creo que tú eres la filtración. ¡¡Muere!!}
-{154}{}{Olvídalo. No soy el lacayo de nadie.}
-{155}{}{¿Cuánto estás dispuesto a ofrecer?}
-{156}{}{No tengo mucho dinero. ¿Qué te parecen 200 chapas?}
+{146}{}{CÃ³mo llegÃ³ Ã©l a ser el segundo no lo sÃ©. Como resulta que estÃ¡ tan escueto de palabras, te dejarÃ© entrar. Tenemos una filtraciÃ³n que hace disponer a los NiÃ±os con algunas de nuestras rutas de patrulla.}
+{147}{}{Â¿Tienes pistas?}
+{148}{}{Soy un guerrero, no un fontanero. Si tenÃ©is filtraciones, hablad con otra persona.}
+{149}{}{Creo que tÃº eres la filtraciÃ³n. Â¡Â¡Muere!!}
+{150}{}{OlvÃ­dalo. No soy el lacayo de nadie.}
+{151}{}{Â¿Ni siquiera lo sabes? Creo que es mejor que no; mucha gente de aquÃ­ no lo es. Alguien estÃ¡ robando informaciÃ³n de nuestros movimientos a los NiÃ±os. Necesitamos que esa persona se vaya.}
+{152}{}{Â¿Tienes pistas?}
+{153}{}{Creo que tÃº eres la filtraciÃ³n. Â¡Â¡Muere!!}
+{154}{}{OlvÃ­dalo. No soy el lacayo de nadie.}
+{155}{}{Â¿CuÃ¡nto estÃ¡s dispuesto a ofrecer?}
+{156}{}{No tengo mucho dinero. Â¿QuÃ© te parecen 200 chapas?}
 {157}{}{Lo siento, estoy arruinado.}
 {158}{}{Tu vida.}
 {159}{}{Me parece bien.}
-{160}{}{¡Ahora acabaré con esta filtración de los Seguidores!}
+{160}{}{Â¡Ahora acabarÃ© con esta filtraciÃ³n de los Seguidores!}
 {161}{}{Entonces mala suerte.}
-{162}{}{¿Qué es lo que quieres saber?}
-{163}{}{¿Quién es el líder?}
-{164}{}{¿Por qué estáis atacando a los Niños?}
-{165}{}{¿Dónde puedo conseguir primeros auxilios?}
+{162}{}{Â¿QuÃ© es lo que quieres saber?}
+{163}{}{Â¿QuiÃ©n es el lÃ­der?}
+{164}{}{Â¿Por quÃ© estÃ¡is atacando a los NiÃ±os?}
+{165}{}{Â¿DÃ³nde puedo conseguir primeros auxilios?}
 {166}{}{Nada. Solo estaba comprobando algo.}
 {167}{}{Nada. Gracias.}
-{168}{}{Nuestra líder es Nicole. Una persona encantadora, pero un poco caprichosa. ¿Quieres saber algo más?}
-{169}{}{¿Por qué estáis atacando a los Niños?}
-{170}{}{¿Dónde puedo conseguir algo de curación?}
+{168}{}{Nuestra lÃ­der es Nicole. Una persona encantadora, pero un poco caprichosa. Â¿Quieres saber algo mÃ¡s?}
+{169}{}{Â¿Por quÃ© estÃ¡is atacando a los NiÃ±os?}
+{170}{}{Â¿DÃ³nde puedo conseguir algo de curaciÃ³n?}
 {171}{}{Nada. Solo comprobaba algo. [le abofeteas]}
 {172}{}{Nada. Gracias.}
-{173}{}{Los Niños no son lo que parecen. Están escondiendo algo. Algo relacionado con esos Nocturnos. ¿Algo más?}
-{174}{}{¿Quién es el líder?}
-{175}{}{¿Dónde puedo conseguir algo de curación?}
+{173}{}{Los NiÃ±os no son lo que parecen. EstÃ¡n escondiendo algo. Algo relacionado con esos Nocturnos. Â¿Algo mÃ¡s?}
+{174}{}{Â¿QuiÃ©n es el lÃ­der?}
+{175}{}{Â¿DÃ³nde puedo conseguir algo de curaciÃ³n?}
 {176}{}{Nada. Solo comprobaba algo. [le abofeteas]}
 {177}{}{Nada. Gracias.}
-{178}{}{Hay el sanador de los Niños, pero no confío en ellos. Nosotros también tenemos aquí a un doctor o a una enfermera en todo momento. ¿Algo más?}
-{179}{}{¿Quién es el líder?}
-{180}{}{¿Por qué estáis atacando a los Niños?}
+{178}{}{Hay el sanador de los NiÃ±os, pero no confÃ­o en ellos. Nosotros tambiÃ©n tenemos aquÃ­ a un doctor o a una enfermera en todo momento. Â¿Algo mÃ¡s?}
+{179}{}{Â¿QuiÃ©n es el lÃ­der?}
+{180}{}{Â¿Por quÃ© estÃ¡is atacando a los NiÃ±os?}
 {181}{}{Nada. Solo comprobaba algo. [le abofeteas]}
 {182}{}{Nada. Gracias.}
-{183}{}{Lamento mucho oír eso. ¡Que las piezas estén contigo!}
-{184}{}{¿Quién te envía?}
+{183}{}{Lamento mucho oÃ­r eso. Â¡Que las piezas estÃ©n contigo!}
+{184}{}{Â¿QuiÃ©n te envÃ­a?}
 {185}{}{Me ha enviado uno de tus guardias.}
 {186}{}{Me ha enviado Jake.}
 {187}{}{Me he enviado yo.}
-{188}{}{No importa. Adiós.}
-{189}{}{Estás bastante seguro de ti mismo. No te necesito. Habla con Nicole si quieres ofrecer tus servicios. Buenas noches.}
+{188}{}{No importa. AdiÃ³s.}
+{189}{}{EstÃ¡s bastante seguro de ti mismo. No te necesito. Habla con Nicole si quieres ofrecer tus servicios. Buenas noches.}
 {190}{}{Entonces debes querer hablar con Nicole. Ella te puede ayudar mejor con eso. Buenas tardes.}
-{191}{}{Ve a buscar al espía. Todavía necesitamos mantener nuestros planes en secreto.}
-{192}{}{Buen trabajo al encontrar y eliminar a Heather. Su intromisión casi hace que mueran todos. Ojalá pudiéramos haber hecho algo más.}
-{193}{}{Quizás pueda ayudarte una vez más.}
+{191}{}{Ve a buscar al espÃ­a. TodavÃ­a necesitamos mantener nuestros planes en secreto.}
+{192}{}{Buen trabajo al encontrar y eliminar a Heather. Su intromisiÃ³n casi hace que mueran todos. OjalÃ¡ pudiÃ©ramos haber hecho algo mÃ¡s.}
+{193}{}{QuizÃ¡s pueda ayudarte una vez mÃ¡s.}
 {194}{}{Que tangas buena suerte.}
-{195}{}{¿Cómo es eso?}
-{196}{}{Puedo entrenar a los Seguidores en algunas técnicas para la guerra. Quizás mejoren tus posibilidades.}
-{197}{}{Debo irme. Adiós.}
-{198}{}{Eso sería maravilloso. Gracias.}
-{199}{}{Ahora estás un poco más preparado. Buenas tardes.}
-{200}{}{Gracias por tus clases. Ahora tenemos una oportunidad de patearles el trasero a esos Niños.}
+{195}{}{Â¿CÃ³mo es eso?}
+{196}{}{Puedo entrenar a los Seguidores en algunas tÃ©cnicas para la guerra. QuizÃ¡s mejoren tus posibilidades.}
+{197}{}{Debo irme. AdiÃ³s.}
+{198}{}{Eso serÃ­a maravilloso. Gracias.}
+{199}{}{Ahora estÃ¡s un poco mÃ¡s preparado. Buenas tardes.}
+{200}{}{Gracias por tus clases. Ahora tenemos una oportunidad de patearles el trasero a esos NiÃ±os.}

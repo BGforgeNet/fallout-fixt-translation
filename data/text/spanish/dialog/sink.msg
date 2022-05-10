@@ -1,4 +1,4 @@
 {100}{}{Ves un fregadero.}
 {101}{}{Te lavas las manos.}
 {102}{}{Te lavas }
-{103}{}{. Est·s un poco m·s limpio.}
+{103}{}{. Est√°s un poco m√°s limpio.}

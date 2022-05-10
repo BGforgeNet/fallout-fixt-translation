@@ -1,13 +1,13 @@
-{100}{}{Ves a un Miembro de los Niños de la Catedral.}
+{100}{}{Ves a un Miembro de los NiÃ±os de la Catedral.}
 {101}{}{Yo no hablo con almas paganas como la tuya.}
 {102}{}{Tu informe, Van Hagan.}
-{103}{}{El Maestro está contento con tus progresos, pero su necesidad es grande y el tiempo limitado.}
-{104}{}{El Maestro debería saber que la materia prima es limitada. No podemos crear nuestros soldados sin más suministros.}
-{105}{}{Está al tanto de nuestros problemas. Mientras hablamos, él trabaja sobre ello.}
-{106}{}{Háblame de sus planes. Tendremos que coordinar actividades, si queremos que la Unidad tenga éxito.}
-{107}{}{El Maestro se ha enterado de la existencia de un Refugio con vida no descubierto todavía. Con toda esa materia prima, podemos crear una gran fuerza. Según el programa de predicción, es precisamente lo que necesitamos para ganar.}
-{108}{}{Excelente. Esto es más que fortuito. ¿Están contaminados los habitantes?}
-{109}{}{Oh, ésa es la mejor parte. Si su representante sirve de ejemplo, están limpios. Son puros.}
-{110}{}{Oh, ¡qué emocionante! ¿Cuál de los Refugios hemos saqueado?}
+{103}{}{El Maestro estÃ¡ contento con tus progresos, pero su necesidad es grande y el tiempo limitado.}
+{104}{}{El Maestro deberÃ­a saber que la materia prima es limitada. No podemos crear nuestros soldados sin mÃ¡s suministros.}
+{105}{}{EstÃ¡ al tanto de nuestros problemas. Mientras hablamos, Ã©l trabaja sobre ello.}
+{106}{}{HÃ¡blame de sus planes. Tendremos que coordinar actividades, si queremos que la Unidad tenga Ã©xito.}
+{107}{}{El Maestro se ha enterado de la existencia de un Refugio con vida no descubierto todavÃ­a. Con toda esa materia prima, podemos crear una gran fuerza. SegÃºn el programa de predicciÃ³n, es precisamente lo que necesitamos para ganar.}
+{108}{}{Excelente. Esto es mÃ¡s que fortuito. Â¿EstÃ¡n contaminados los habitantes?}
+{109}{}{Oh, Ã©sa es la mejor parte. Si su representante sirve de ejemplo, estÃ¡n limpios. Son puros.}
+{110}{}{Oh, Â¡quÃ© emocionante! Â¿CuÃ¡l de los Refugios hemos saqueado?}
 {111}{}{Refugio 13. Y pronto los tendremos. Muy pronto.}
-{112}{}{Ganas 1.000 puntos de experiencia por oír por casualidad toda la conversación sobre tu Refugio.}
+{112}{}{Ganas 1.000 puntos de experiencia por oÃ­r por casualidad toda la conversaciÃ³n sobre tu Refugio.}

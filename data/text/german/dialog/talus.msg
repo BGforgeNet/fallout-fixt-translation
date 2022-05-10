@@ -47,7 +47,7 @@
 {147}{}{Rhombus is my best friend, mentor, idol, and father figure all combined into one. He's a little rough, but he has to be, to be in the position he's in.}
 {148}{}{If you ever need to talk to him, he is normally in his office... I mean room. That's on the other side of this level, across from the guard room.}
 {149}{}{Of course we do. She's on the second level. Next to the learning room.}
-{150}{}{Danke, Tschüss.}
+{150}{}{Danke, TschÃ¼ss.}
 {151}{}{Thank you. That's all I wanted to know.}
 {152}{}{Vree is one of the most intelligent people I've ever known. I think she was born with the natural understanding of physics and chemistry.}
 {153}{}{She spends every waking moment doing research or analyzing and reanalyzing anything she can get her hands on. If you ever need to talk to her, she can normally be found in her room, on the third floor.}
@@ -90,7 +90,7 @@
 {190}{}{Sounds good. Bye.}
 {191}{}{I shouldn't say, but it's not a weapon. It's something that only the elite in our order can have, but since you are from the outside and are in greater need of it, I might be able to make an exception.}
 {192}{}{Can't you tell me?}
-{193}{}{Okay, Tschüss.}
+{193}{}{Okay, TschÃ¼ss.}
 {194}{}{I think you probably already have an idea. Let's leave it at that.}
 {195}{}{No, I'm not and I think you should leave, 'Initiate'.}
 {196}{}{Only Paladins wear Power Armor, someday you may earn the right to wear it.}

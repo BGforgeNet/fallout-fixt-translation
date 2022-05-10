@@ -1,5 +1,5 @@
-{100}{}{Les tirs laser proviennent de l'extrémité sud du couloir !}
-{101}{}{Tu remarques une petite plaque de déclenchement à tes pieds.}
-{102}{}{ Ta connaissance des pièges t'amène à penser qu'il s'agit d'une sorte de déclencheur.}
-{103}{}{Tu coupes soigneusement les ressorts de pression de la plaque de déclenchement.}
-{104}{}{Tu ne sais pas vraiment comment empêcher la plaque de se déclencher.}
+{100}{}{Les tirs laser proviennent de l'extrÃ©mitÃ© sud du couloir !}
+{101}{}{Tu remarques une petite plaque de dÃ©clenchement Ã  tes pieds.}
+{102}{}{ Ta connaissance des piÃ¨ges t'amÃ¨ne Ã  penser qu'il s'agit d'une sorte de dÃ©clencheur.}
+{103}{}{Tu coupes soigneusement les ressorts de pression de la plaque de dÃ©clenchement.}
+{104}{}{Tu ne sais pas vraiment comment empÃªcher la plaque de se dÃ©clencher.}

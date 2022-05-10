@@ -139,7 +139,7 @@
 {624}{}{You are victorious in combat;}
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
-{650}{}{[Terminé]}
+{650}{}{[TerminÃ©]}
 {651}{}{[Plus]}
 {652}{}{[Plus]}
 {653}{}{[Back]}
@@ -149,7 +149,7 @@
 {660}{}{You can't see there.}
 {661}{}{Too far away.}
 {670}{}{D'accord.}
-{671}{}{Bien sûr.}
+{671}{}{Bien sÃ»r.}
 {672}{}{Comme tu veux.}
 {673}{}{Whatever you say.}
 {674}{}{I'll try.}

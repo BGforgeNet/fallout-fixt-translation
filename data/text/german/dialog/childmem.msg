@@ -64,6 +64,6 @@
 {1107}{}{That is here. The sad remnants of an ancient world.}
 {1108}{}{I believe he is one of the ghouls.}
 {1109}{}{That is right over there to the northeast.}
-{1110}{}{Dar¸ber weiﬂ ich nichts.}
+{1110}{}{Dar√ºber wei√ü ich nichts.}
 {1111}{}{L.A. Boneyard is a breeding ground of hatred. There are the Followers of the Apocalypse, the gangs: The Rippers, The Blades, and The Gun Runners, and a small settlement called Adytum. }
 {1112}{}{L.A. Boneyard is a breeding ground of hatred. There are the Followers of the Apocalypse, the gangs: The Rippers, The Blades, and The Gun Runners, and a small settlement called Adytum. }

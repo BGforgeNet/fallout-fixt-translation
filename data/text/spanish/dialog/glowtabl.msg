@@ -1,1 +1,1 @@
-{100}{}{Con tanto desorden, resulta difícil ver lo que hay realmente en esta mesa.}
+{100}{}{Con tanto desorden, resulta difÃ­cil ver lo que hay realmente en esta mesa.}

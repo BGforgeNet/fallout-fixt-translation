@@ -1,8 +1,8 @@
 {100}{}{Paladin}
-{101}{}{Tu n'as rien à faire ici, Initié.}
+{101}{}{Tu n'as rien Ã  faire ici, InitiÃ©.}
 {102}{}{Que fais-tu ici ?}
-{103}{}{La salle des gardes est réservée aux gardes. Tu n'es pas garde que je sache. Alors, sors im-mé-dia-te-ment !}
-{104}{}{Sors, je te prie. Tu n'as rien à faire ici.}
-{105}{}{Hé, pas d'initiés ici.}
-{106}{}{Tu n'as rien à faire ici, mon garçon. Si tu veux consulter, va à la bibliothèque.}
-{107}{}{Tu n'as rien à faire ici, ma fille. Si tu veux consulter, va à la bibliothèque.}
+{103}{}{La salle des gardes est rÃ©servÃ©e aux gardes. Tu n'es pas garde que je sache. Alors, sors im-mÃ©-dia-te-ment !}
+{104}{}{Sors, je te prie. Tu n'as rien Ã  faire ici.}
+{105}{}{HÃ©, pas d'initiÃ©s ici.}
+{106}{}{Tu n'as rien Ã  faire ici, mon garÃ§on. Si tu veux consulter, va Ã  la bibliothÃ¨que.}
+{107}{}{Tu n'as rien Ã  faire ici, ma fille. Si tu veux consulter, va Ã  la bibliothÃ¨que.}

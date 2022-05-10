@@ -3,33 +3,33 @@
 {102}{}{Qu'est-ce tu viens faire ici ?}
 {103}{}{Hein ?}
 {104}{}{Ton patron m'envoie.}
-{105}{}{Me cause pas comme ça, imbécile.}
+{105}{}{Me cause pas comme Ã§a, imbÃ©cile.}
 {106}{}{Prendre de tes nouvelles.}
 {107}{}{Rien. Salut.}
 {108}{}{Je te connais... non ?}
 {109}{}{Non.}
 {110}{}{Oui.}
 {111}{}{Qu'importe.}
-{112}{}{Hum... ça va pas mal.}
+{112}{}{Hum... Ã§a va pas mal.}
 {113}{}{Qu'est-ce que tu fais ?}
 {114}{}{Pas mal ? Ca veut dire que t'es pratiquement foutu ?}
-{115}{}{T'es un peu long à la détente, non ?}
+{115}{}{T'es un peu long Ã  la dÃ©tente, non ?}
 {116}{}{Oui, oui, pratiquement foutu.}
 {117}{}{Avec quoi ?}
 {118}{}{Il est temps.}
 {119}{}{Super. A plus tard.}
-{120}{}{Les morceaux d'humain sont presque prêts à être expédiés au Centre.}
+{120}{}{Les morceaux d'humain sont presque prÃªts Ã  Ãªtre expÃ©diÃ©s au Centre.}
 {121}{}{Pour quoi faire ?}
-{122}{}{Bien sûr. C'est pour ça que je suis là.}
-{123}{}{Bon, je préfère pas entendre parler de ça.}
+{122}{}{Bien sÃ»r. C'est pour Ã§a que je suis lÃ .}
+{123}{}{Bon, je prÃ©fÃ¨re pas entendre parler de Ã§a.}
 {124}{}{Pour l'iguane, Bob t'envoie... content, plein de bonne viande...}
-{125}{}{Il sert de la chair humaine à ses clients ?}
-{126}{}{Imbécile, je vais te transformer en andouille !}
-{127}{}{Bien sûr... Je reviens dans une minute.}
-{128}{}{C'est pour Bob, les vendre, les manger, un point c'est tout... Pourquoi tu veux des détails ?}
+{125}{}{Il sert de la chair humaine Ã  ses clients ?}
+{126}{}{ImbÃ©cile, je vais te transformer en andouille !}
+{127}{}{Bien sÃ»r... Je reviens dans une minute.}
+{128}{}{C'est pour Bob, les vendre, les manger, un point c'est tout... Pourquoi tu veux des dÃ©tails ?}
 {129}{}{Oh, pour rien. Salut.}
-{130}{}{Je savais pas trop où Bob se procurait sa viande humaine.}
-{131}{}{Parfois, j'ai un peu de mal à réfléchir.}
+{130}{}{Je savais pas trop oÃ¹ Bob se procurait sa viande humaine.}
+{131}{}{Parfois, j'ai un peu de mal Ã  rÃ©flÃ©chir.}
 {132}{}{Moi aussi, j'ai le cerveau lent... de quoi on parle ?}
 {133}{}{Je sais plus. Salut.}
 {134}{}{Tu me parlais de ce que tu fais.}

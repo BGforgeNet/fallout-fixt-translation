@@ -1,4 +1,4 @@
-{100}{}{Ves: a un necrófago resplandeciente.}
-{101}{}{¡Arrrr!}
-{102}{}{¡Mmmm!}
-{103}{}{¡Uck!}
+{100}{}{Ves: a un necrÃ³fago resplandeciente.}
+{101}{}{Â¡Arrrr!}
+{102}{}{Â¡Mmmm!}
+{103}{}{Â¡Uck!}

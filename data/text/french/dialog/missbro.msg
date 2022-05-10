@@ -1,43 +1,43 @@
 {100}{}{Voici un homme battu.}
-{101}{}{Merci ! Je ne sais pas depuis combien de semaines, ou peut-être de mois, ces brutes me retiennent ici. Je te suis très reconnaissant de m'avoir aidé. Je suis sûr que la Confrérie de l'Acier doit l'être aussi.}
-{102}{}{La Confrérie de l'Acier ?}
-{103}{}{Eh bien, ça m'a fait plaisir de t'aider.}
+{101}{}{Merci ! Je ne sais pas depuis combien de semaines, ou peut-Ãªtre de mois, ces brutes me retiennent ici. Je te suis trÃ¨s reconnaissant de m'avoir aidÃ©. Je suis sÃ»r que la ConfrÃ©rie de l'Acier doit l'Ãªtre aussi.}
+{102}{}{La ConfrÃ©rie de l'Acier ?}
+{103}{}{Eh bien, Ã§a m'a fait plaisir de t'aider.}
 {104}{}{Ca va aller ?}
-{105}{}{Je viens de la Confrérie. Je te cherchais.}
+{105}{}{Je viens de la ConfrÃ©rie. Je te cherchais.}
 {106}{}{Je t'en prie. Au revoir.}
 {107}{}{Euh...}
-{108}{}{Tu n'as jamais entendu parler de nous ? Ca m'étonne beaucoup. Tu ne dois pas t'éloigner très souvent du Centre. Tu as tort. Nous vivons au Nord-Ouest d'ici, sur le flanc Ouest de la chaîne de montagnes.}
-{109}{}{J'apprécie vraiment ce que tu as fait pour moi, mais pourquoi me mens-tu ? Tu crois que je ne connais pas tous les membres de notre ordre ?}
+{108}{}{Tu n'as jamais entendu parler de nous ? Ca m'Ã©tonne beaucoup. Tu ne dois pas t'Ã©loigner trÃ¨s souvent du Centre. Tu as tort. Nous vivons au Nord-Ouest d'ici, sur le flanc Ouest de la chaÃ®ne de montagnes.}
+{109}{}{J'apprÃ©cie vraiment ce que tu as fait pour moi, mais pourquoi me mens-tu ? Tu crois que je ne connais pas tous les membres de notre ordre ?}
 {110}{}{C'est Talus qui m'envoie.}
-{111}{}{Eh bien, tu ne me connais pas, je viens de rejoindre la Confrérie.}
+{111}{}{Eh bien, tu ne me connais pas, je viens de rejoindre la ConfrÃ©rie.}
 {112}{}{Je crois que tu ne sais pas de quoi tu parles.}
-{113}{}{Merci encore ! Si tu passes par la Confrérie, j'apprécierais que tu dises à Talus que je vais bien. Il doit s'inquiéter. Au revoir et prends soin de toi.}
-{114}{}{Oh, tout ira bien maintenant, merci. Des amis ici m'hébergeront le temps que je reprenne des forces. J'essaierai de prévenir la Confrérie que je suis hors de danger, grâce à toi. Au revoir.}
-{115}{}{Comment... Oh, excuse-moi. Tu as dû passer le 'test' des Anciens. J'avais complètement oublié ça. Eh bien, mes remerciements n'en sont que plus sincères. Merci de n'avoir jamais abandonné. Ma vie ne tenait qu'à un fil. Il a dû te falloir du temps pour retrouver ma trace. La ville est grande. Tu as dû rencontrer bien des obstacles.}
-{116}{}{Eh bien, tu sais... J'ai du talent pour ça.}
-{117}{}{En fait, ça a été plutôt facile. Talus connaissait ta destination.}
+{113}{}{Merci encore ! Si tu passes par la ConfrÃ©rie, j'apprÃ©cierais que tu dises Ã  Talus que je vais bien. Il doit s'inquiÃ©ter. Au revoir et prends soin de toi.}
+{114}{}{Oh, tout ira bien maintenant, merci. Des amis ici m'hÃ©bergeront le temps que je reprenne des forces. J'essaierai de prÃ©venir la ConfrÃ©rie que je suis hors de danger, grÃ¢ce Ã  toi. Au revoir.}
+{115}{}{Comment... Oh, excuse-moi. Tu as dÃ» passer le 'test' des Anciens. J'avais complÃ¨tement oubliÃ© Ã§a. Eh bien, mes remerciements n'en sont que plus sincÃ¨res. Merci de n'avoir jamais abandonnÃ©. Ma vie ne tenait qu'Ã  un fil. Il a dÃ» te falloir du temps pour retrouver ma trace. La ville est grande. Tu as dÃ» rencontrer bien des obstacles.}
+{116}{}{Eh bien, tu sais... J'ai du talent pour Ã§a.}
+{117}{}{En fait, Ã§a a Ã©tÃ© plutÃ´t facile. Talus connaissait ta destination.}
 {118}{}{Je crois que j'ai eu de la chance.}
-{119}{}{Eh bien, je t'en prie. Ca me fait plaisir de t'avoir trouvé.}
+{119}{}{Eh bien, je t'en prie. Ca me fait plaisir de t'avoir trouvÃ©.}
 {120}{}{Oh... Eh bien, merci beaucoup.}
 {121}{}{Je suppose. Tu as fait du bon travail.}
-{122}{}{Eh bien, ça m'a fait plaisir de t'aider.}
+{122}{}{Eh bien, Ã§a m'a fait plaisir de t'aider.}
 {123}{}{Ca va aller ?}
-{124}{}{Eh bien, merci encore. Je vais rester chez des amis jusqu'à ce que j'aille mieux. En tout cas, fais attention par ici. J'ai entendu mes hôtes parler d'un certain Cercle des Voleurs. Je crois que leur territoire n'est pas loin d'ici. C'est sans doute pour cela qu'ils envisagent de déménager. Au revoir.}
-{125}{}{Eh bien, ça me fait plaisir que la chance ait été de ton côté. J'ai entendu des choses terribles sur la Vieille Ville. Les Skags donnent la chair de poule, je crois que c'est autre chose.}
-{126}{}{Qu'importe. Je suis tellement soulagé d'être libre. Je ne supporte pas la torture.}
+{124}{}{Eh bien, merci encore. Je vais rester chez des amis jusqu'Ã  ce que j'aille mieux. En tout cas, fais attention par ici. J'ai entendu mes hÃ´tes parler d'un certain Cercle des Voleurs. Je crois que leur territoire n'est pas loin d'ici. C'est sans doute pour cela qu'ils envisagent de dÃ©mÃ©nager. Au revoir.}
+{125}{}{Eh bien, Ã§a me fait plaisir que la chance ait Ã©tÃ© de ton cÃ´tÃ©. J'ai entendu des choses terribles sur la Vieille Ville. Les Skags donnent la chair de poule, je crois que c'est autre chose.}
+{126}{}{Qu'importe. Je suis tellement soulagÃ© d'Ãªtre libre. Je ne supporte pas la torture.}
 {127}{}{Non, vraiment, c'est Talus qui m'envoie.}
-{128}{}{Eh bien, ça m'a fait plaisir de t'aider.}
+{128}{}{Eh bien, Ã§a m'a fait plaisir de t'aider.}
 {129}{}{Ca va aller ?}
-{130}{}{Je ne sais pas. J'ai du mal à retrouver la mémoire. Je crois que ça vient de la nourriture qu'ils m'ont donnée.}
+{130}{}{Je ne sais pas. J'ai du mal Ã  retrouver la mÃ©moire. Je crois que Ã§a vient de la nourriture qu'ils m'ont donnÃ©e.}
 {131}{}{Non, vraiment, c'est Talus qui m'envoie.}
-{132}{}{Eh bien, ça m'a fait plaisir de t'aider.}
+{132}{}{Eh bien, Ã§a m'a fait plaisir de t'aider.}
 {133}{}{Ca va aller ?}
 {134}{}{Rebonjour.}
-{135}{}{Je ne vais pas tarder à partir. J'attends juste d'avoir repris des forces.}
+{135}{}{Je ne vais pas tarder Ã  partir. J'attends juste d'avoir repris des forces.}
 {136}{}{Merci encore.}
-{1000}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1000}{}{ConfrÃ©rie de l'Acier|ConfrÃ©rie|Confrerie|Acier}
 {1001}{}{Acier}
 {1002}{}{Talus}
-{1100}{}{L'unique espoir de salut pour cette planète torturée et ses habitants. Sans eux, l'humanité périra.}
-{1101}{}{L'unique espoir de salut pour cette planète torturée et ses habitants. Sans eux, l'humanité périra.}
-{1102}{}{C'est mon mentor. Un grand homme. J'ai hâte de le revoir.}
+{1100}{}{L'unique espoir de salut pour cette planÃ¨te torturÃ©e et ses habitants. Sans eux, l'humanitÃ© pÃ©rira.}
+{1101}{}{L'unique espoir de salut pour cette planÃ¨te torturÃ©e et ses habitants. Sans eux, l'humanitÃ© pÃ©rira.}
+{1102}{}{C'est mon mentor. Un grand homme. J'ai hÃ¢te de le revoir.}

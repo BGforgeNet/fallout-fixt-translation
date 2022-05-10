@@ -1,177 +1,177 @@
-{100}{}{Ves a un matón.}
-{101}{}{Eh, ¿no eres tú el bastardo que nos ha estado jodiendo? Tío, ¡estás en el lugar equivocado!}
-{102}{}{Eh, ¿no eres tú la puta que nos ha estado jodiendo? ¡Estás en el lugar equivocado, pequeña, y te va a costar caro!}
-{103}{}{Ahora estoy de tu parte, ¡así que fuera de mi vista!}
-{104}{}{Estás en un error. En los Yermos todos parecemos iguales.}
-{105}{}{¿En el lugar equivocado? ¡A mí no me lo parece!}
-{106}{}{Quieres empezar algo; me aseguraré de que pasas a la historia antes de intentar algo. ¡Eso es cabrón, empieza! ¡A ver si tienes cojones!}
-{107}{}{¿En el lugar equivocado? ¡No estoy perdida!}
-{108}{}{Sí, ¿qué quieres?}
-{109}{}{Tía, solo quiero hablar con un ser humano de verdad. Estos zombis me ponen la carne de gallina.}
-{110}{}{Hermano, ¿alabarás al Maestro conmigo?}
+{100}{}{Ves a un matÃ³n.}
+{101}{}{Eh, Â¿no eres tÃº el bastardo que nos ha estado jodiendo? TÃ­o, Â¡estÃ¡s en el lugar equivocado!}
+{102}{}{Eh, Â¿no eres tÃº la puta que nos ha estado jodiendo? Â¡EstÃ¡s en el lugar equivocado, pequeÃ±a, y te va a costar caro!}
+{103}{}{Ahora estoy de tu parte, Â¡asÃ­ que fuera de mi vista!}
+{104}{}{EstÃ¡s en un error. En los Yermos todos parecemos iguales.}
+{105}{}{Â¿En el lugar equivocado? Â¡A mÃ­ no me lo parece!}
+{106}{}{Quieres empezar algo; me asegurarÃ© de que pasas a la historia antes de intentar algo. Â¡Eso es cabrÃ³n, empieza! Â¡A ver si tienes cojones!}
+{107}{}{Â¿En el lugar equivocado? Â¡No estoy perdida!}
+{108}{}{SÃ­, Â¿quÃ© quieres?}
+{109}{}{TÃ­a, solo quiero hablar con un ser humano de verdad. Estos zombis me ponen la carne de gallina.}
+{110}{}{Hermano, Â¿alabarÃ¡s al Maestro conmigo?}
 {111}{}{Ey, solo buscaba una cara conocida.}
 {112}{}{Quiero ver al Maestro.}
-{113}{}{Para ver un valle lleno con las cabezas de mis enemigos atravesadas por lanzas. Un valle silencioso, en el que solo se oye el silbido del viento a través de sus orejas.}
-{114}{}{¡Comida! ¡Querer comida!}
-{115}{}{Ey, ¿no he oído hablar de ti? Tú has matado a todo tipo de mierdas, ¿verdad? ¿Qué te trae por aquí?}
-{116}{}{He oído que pasan cosas raras por aquí. ¿Qué es lo que ocurre?}
+{113}{}{Para ver un valle lleno con las cabezas de mis enemigos atravesadas por lanzas. Un valle silencioso, en el que solo se oye el silbido del viento a travÃ©s de sus orejas.}
+{114}{}{Â¡Comida! Â¡Querer comida!}
+{115}{}{Ey, Â¿no he oÃ­do hablar de ti? TÃº has matado a todo tipo de mierdas, Â¿verdad? Â¿QuÃ© te trae por aquÃ­?}
+{116}{}{He oÃ­do que pasan cosas raras por aquÃ­. Â¿QuÃ© es lo que ocurre?}
 {117}{}{Paz, unidad, ese tipo de cosas.}
-{118}{}{¿Dónde está el Maestro?}
+{118}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
 {119}{}{Estaba buscando a un amigo. Alguien con quien hablar.}
-{120}{}{He oído que las bebidas son muy buenas por aquí.}
+{120}{}{He oÃ­do que las bebidas son muy buenas por aquÃ­.}
 {121}{}{Mis pies.}
-{122}{}{Quieres hablar, ¡mejor será que apartes el arma de mi cara! ¡Bájala ahora!}
+{122}{}{Quieres hablar, Â¡mejor serÃ¡ que apartes el arma de mi cara! Â¡BÃ¡jala ahora!}
 {123}{}{La fuerza de la costumbre. Si depones tu actitud, yo bajo el arma.}
-{124}{}{Todavía no he muerto, así que no la bajo.}
-{125}{}{¿Cuál es el problema? Solo quiero hablar.}
+{124}{}{TodavÃ­a no he muerto, asÃ­ que no la bajo.}
+{125}{}{Â¿CuÃ¡l es el problema? Solo quiero hablar.}
 {126}{}{Estoy de guardia.}
-{127}{}{¿Qué dices?}
-{128}{}{Si tienes algo que decir, dilo rápido.}
-{129}{}{¿Qué está pasando aquí?}
+{127}{}{Â¿QuÃ© dices?}
+{128}{}{Si tienes algo que decir, dilo rÃ¡pido.}
+{129}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
 {130}{}{Quiero hablar con el Maestro.}
-{131}{}{Quiero hablar con quienquiera que esté al mando aquí.}
-{132}{}{¡Eso, eso, eso!}
-{133}{}{Un montón de mierda. Paz. Unidad. Amor. Montones de idiotas corriendo por ahí como zombis. Morfeo está contando sus chapas de botella arriba. Fustigador está haciendo honor a su nombre. ¿Quieres algo de eso? Es todo tuyo.}
-{134}{}{He oído que estás haciendo algo más que no es exactamente paz y amor.}
-{135}{}{¿Qué pasa con Morfeo?}
-{136}{}{¿Quién es ese Fustigador?}
-{137}{}{Bien. ¿Qué quieres?}
-{138}{}{¿Has notado algo fuera de lo normal por aquí?}
-{139}{}{¿Qué está pasando aquí?}
-{140}{}{¿Dónde está el Maestro?}
+{131}{}{Quiero hablar con quienquiera que estÃ© al mando aquÃ­.}
+{132}{}{Â¡Eso, eso, eso!}
+{133}{}{Un montÃ³n de mierda. Paz. Unidad. Amor. Montones de idiotas corriendo por ahÃ­ como zombis. Morfeo estÃ¡ contando sus chapas de botella arriba. Fustigador estÃ¡ haciendo honor a su nombre. Â¿Quieres algo de eso? Es todo tuyo.}
+{134}{}{He oÃ­do que estÃ¡s haciendo algo mÃ¡s que no es exactamente paz y amor.}
+{135}{}{Â¿QuÃ© pasa con Morfeo?}
+{136}{}{Â¿QuiÃ©n es ese Fustigador?}
+{137}{}{Bien. Â¿QuÃ© quieres?}
+{138}{}{Â¿Has notado algo fuera de lo normal por aquÃ­?}
+{139}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{140}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
 {141}{}{Solo estoy buscando a un amigo.}
-{142}{}{Para terminar lo que empezó el ataque nuclear.}
-{143}{}{Tía, ¡aléjate de él! Está completamente... No sé si podré describirlo. Imagínate a la persona del mundo que no querrías conocer. ¡Fustigador es peor!}
-{144}{}{¿Se llevan bien él y Morfeo?}
-{145}{}{¿Y qué es lo que ha hecho? ¿Qué lo hace tan malo?}
-{146}{}{Todavía no me conoces, amigo.}
+{142}{}{Para terminar lo que empezÃ³ el ataque nuclear.}
+{143}{}{TÃ­a, Â¡alÃ©jate de Ã©l! EstÃ¡ completamente... No sÃ© si podrÃ© describirlo. ImagÃ­nate a la persona del mundo que no querrÃ­as conocer. Â¡Fustigador es peor!}
+{144}{}{Â¿Se llevan bien Ã©l y Morfeo?}
+{145}{}{Â¿Y quÃ© es lo que ha hecho? Â¿QuÃ© lo hace tan malo?}
+{146}{}{TodavÃ­a no me conoces, amigo.}
 {147}{}{Habla con Morfeo y reza para que no te mate por preguntar.}
-{148}{}{No creo que quiera hacerlo. Tengo información importante.}
-{149}{}{¿Por qué iba a querer hacer eso?}
-{150}{}{¿Qué tiene que ver con Morfeo?}
-{151}{}{Mira, este mundo es matar o morir, ¡y yo todavía estoy viva!}
-{152}{}{Sí, ¿qué tipo de información?}
-{153}{}{Hay un espía por aquí. Necesito ver ahora mismo a la persona que esté al cargo.}
-{154}{}{Podría decírtelo, pero tengo que matarte.}
+{148}{}{No creo que quiera hacerlo. Tengo informaciÃ³n importante.}
+{149}{}{Â¿Por quÃ© iba a querer hacer eso?}
+{150}{}{Â¿QuÃ© tiene que ver con Morfeo?}
+{151}{}{Mira, este mundo es matar o morir, Â¡y yo todavÃ­a estoy viva!}
+{152}{}{SÃ­, Â¿quÃ© tipo de informaciÃ³n?}
+{153}{}{Hay un espÃ­a por aquÃ­. Necesito ver ahora mismo a la persona que estÃ© al cargo.}
+{154}{}{PodrÃ­a decÃ­rtelo, pero tengo que matarte.}
 {155}{}{Eh... pues... No puedo hablar sobre eso.}
-{156}{}{Alguien va a morir pronto en la Catedral. Quizá mucha gente.}
-{157}{}{Bien. La verdad es que no me importa quién seas. ¡Ahora sal de mi vista!}
-{158}{}{¡Atención todos! ¡Sacad de aquí a esta cabrona ahora mismo!}
-{159}{}{Señor, ¡está loco! ¿Por qué no se larga de aquí?}
-{160}{}{Señora, ¡está loca! ¿Por qué no se larga de aquí?}
-{161}{}{Porque lo estoy pasando muy bien. ¿Cuál es tu problema? No te he destripado... todavía. ¿Dónde están tus tripas?}
-{162}{}{¡Porque todavía no te he matado!}
-{163}{}{Sí, quiero tu compañía. ¡Como me divertí la última vez! ¡Piérdete!}
+{156}{}{Alguien va a morir pronto en la Catedral. QuizÃ¡ mucha gente.}
+{157}{}{Bien. La verdad es que no me importa quiÃ©n seas. Â¡Ahora sal de mi vista!}
+{158}{}{Â¡AtenciÃ³n todos! Â¡Sacad de aquÃ­ a esta cabrona ahora mismo!}
+{159}{}{SeÃ±or, Â¡estÃ¡ loco! Â¿Por quÃ© no se larga de aquÃ­?}
+{160}{}{SeÃ±ora, Â¡estÃ¡ loca! Â¿Por quÃ© no se larga de aquÃ­?}
+{161}{}{Porque lo estoy pasando muy bien. Â¿CuÃ¡l es tu problema? No te he destripado... todavÃ­a. Â¿DÃ³nde estÃ¡n tus tripas?}
+{162}{}{Â¡Porque todavÃ­a no te he matado!}
+{163}{}{SÃ­, quiero tu compaÃ±Ã­a. Â¡Como me divertÃ­ la Ãºltima vez! Â¡PiÃ©rdete!}
 {164}{}{Hola. Bonita arma la tuya. Ahora intenta bajarla.}
 {165}{}{La fuerza de la costumbre. Si depones tu actitud, yo bajo el arma.}
-{166}{}{Todavía no estoy muerta, así que no la bajo.}
-{167}{}{¿Cuál es el problema? Solo quiero hablar.}
+{166}{}{TodavÃ­a no estoy muerta, asÃ­ que no la bajo.}
+{167}{}{Â¿CuÃ¡l es el problema? Solo quiero hablar.}
 {168}{}{Estoy de guardia.}
-{169}{}{Gracias por el cumplido. Imbécil.}
-{170}{}{¿Qué dices?}
-{171}{}{Bien. ¿Qué quieres?}
-{172}{}{¿Has notado algo fuera de lo normal por aquí?}
-{173}{}{¿Qué está pasando aquí?}
-{174}{}{¿Dónde está el Maestro?}
+{169}{}{Gracias por el cumplido. ImbÃ©cil.}
+{170}{}{Â¿QuÃ© dices?}
+{171}{}{Bien. Â¿QuÃ© quieres?}
+{172}{}{Â¿Has notado algo fuera de lo normal por aquÃ­?}
+{173}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{174}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
 {175}{}{Solo estoy buscando a un amigo.}
-{176}{}{¡Para ver cómo se te despega la cabeza de los hombros y poder darle una patada como si fuera un balón de fútbol, hasta que el cráneo se te haya hecho pedazos!}
-{177}{}{Si no llevaras esa ropa te mataría. Tal y como están las cosas, quiero matarte. Aléjate de mi vista. Ahora.}
-{178}{}{Tú no eres una Nocturna. ¡Guardias! Tenemos una espía...}
-{179}{}{¿Dé donde diablos te han desenterrado esos? ¿Por qué no te vas por donde viniste? ¡Fuera de aquí!}
-{180}{}{¡Nos estamos preparando para la guerra! ¡Vamos a salvar el mundo! Así podremos llenarlo con toda esta mierda de la Paz y la Unidad.}
-{181}{}{¿Guerra? ¿Dónde es la primera maniobra?}
-{182}{}{¿Mierda? ¡Dime que estás de broma! ¡Debe ser cierto! [Guiño]}
-{183}{}{¿Mierda? ¡Dime que estás de broma! ¡Debe ser cierto! [Cara seria]}
-{184}{}{Si es una mierda, ¿por qué estás aquí?}
+{176}{}{Â¡Para ver cÃ³mo se te despega la cabeza de los hombros y poder darle una patada como si fuera un balÃ³n de fÃºtbol, hasta que el crÃ¡neo se te haya hecho pedazos!}
+{177}{}{Si no llevaras esa ropa te matarÃ­a. Tal y como estÃ¡n las cosas, quiero matarte. AlÃ©jate de mi vista. Ahora.}
+{178}{}{TÃº no eres una Nocturna. Â¡Guardias! Tenemos una espÃ­a...}
+{179}{}{Â¿DÃ© donde diablos te han desenterrado esos? Â¿Por quÃ© no te vas por donde viniste? Â¡Fuera de aquÃ­!}
+{180}{}{Â¡Nos estamos preparando para la guerra! Â¡Vamos a salvar el mundo! AsÃ­ podremos llenarlo con toda esta mierda de la Paz y la Unidad.}
+{181}{}{Â¿Guerra? Â¿DÃ³nde es la primera maniobra?}
+{182}{}{Â¿Mierda? Â¡Dime que estÃ¡s de broma! Â¡Debe ser cierto! [GuiÃ±o]}
+{183}{}{Â¿Mierda? Â¡Dime que estÃ¡s de broma! Â¡Debe ser cierto! [Cara seria]}
+{184}{}{Si es una mierda, Â¿por quÃ© estÃ¡s aquÃ­?}
 {185}{}{Solo hasta que tenga la oportunidad de matar a alguien.}
-{186}{}{¡No sé! La única persona que lo ha visto es Morfeo, y él está en su torre. ¡Tía, me estás poniendo los pelos de punta!}
+{186}{}{Â¡No sÃ©! La Ãºnica persona que lo ha visto es Morfeo, y Ã©l estÃ¡ en su torre. Â¡TÃ­a, me estÃ¡s poniendo los pelos de punta!}
 {187}{}{A veces pasa. Sigue cooperando y no tienes nada que temer.}
-{188}{}{¡Háblame más de Morfeo!}
-{189}{}{¿Qué otro pez gordo hay en este sitio?}
+{188}{}{Â¡HÃ¡blame mÃ¡s de Morfeo!}
+{189}{}{Â¿QuÃ© otro pez gordo hay en este sitio?}
 {190}{}{Has sido de gran ayuda. Gracias, amigo.}
-{191}{}{Tienes que ser más sociable. ¿Sabes dónde guardan las bebidas?}
-{192}{}{Muy mal. Esperaba que hubiera más pelotas por aquí.}
-{193}{}{¡Y yo pensaba que estaba loco! ¡Será mejor que te vayas de aquí antes de que alguien te mate!}
-{194}{}{¡Por favor, no me mates! Te diré lo que quieres saber.}
-{195}{}{¿Qué está pasando aquí?}
-{196}{}{¿Dónde está el Maestro?}
-{197}{}{¿Quién está al mando aquí?}
-{198}{}{¿Quién coño quiere saber algo? Me gusta el olor a miedo antes de matar a mis víctimas. Tío, ¡qué flipe!}
-{199}{}{He oído que nos vamos al norte o que planeamos hacerlo pronto. No nos dicen mucho, además de las mierdas de siempre. ¿Pero qué estamos haciendo aquí fuera hablando de todo esto? ¡Debes estar loca!}
-{200}{}{[Ríe] Yo prefiero asustar a que me asusten. Pero no deberíamos hablar de esto aquí fuera. A los zombis no les gusta.}
-{201}{}{Ya sabes, hay mucha otra gente por aquí que piensa así. Ve a molestarlos a ellos.}
-{202}{}{No te diré nada a ti, amiga. Vete al infierno.}
-{203}{}{Ese tipo vestido de negro dice su sermón y luego se va arriba a contar la pasta. ¡Me gustaría tenerlo tan fácil como él! Pero mejor será que deje de hablar de él a sus espaldas o los Nocturnos podrían oírme.}
-{204}{}{¿De qué tienes miedo?}
-{205}{}{Quiero saber más.}
-{206}{}{¿Dónde están todas las chapas aquí?}
-{207}{}{¿Sobre qué predica?}
-{208}{}{¡Tráelos! ¡Tengo ganas de un poco de acción!}
-{209}{}{Ahí está Fustigador. Tía, ¡aléjate de él! Está completamente... No sé si puedo describirlo. Imagina a una persona en el mundo que no querrías conocer. Fustigador es peor.}
-{210}{}{¿Se llevan bien él y Morfeo?}
-{211}{}{¿Cuál es su papel en todo esto?}
-{212}{}{¿Y qué es lo que ha hecho? ¿Qué lo hace tan malo?}
-{213}{}{¡Ey, todavía no, tío!}
+{191}{}{Tienes que ser mÃ¡s sociable. Â¿Sabes dÃ³nde guardan las bebidas?}
+{192}{}{Muy mal. Esperaba que hubiera mÃ¡s pelotas por aquÃ­.}
+{193}{}{Â¡Y yo pensaba que estaba loco! Â¡SerÃ¡ mejor que te vayas de aquÃ­ antes de que alguien te mate!}
+{194}{}{Â¡Por favor, no me mates! Te dirÃ© lo que quieres saber.}
+{195}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{196}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
+{197}{}{Â¿QuiÃ©n estÃ¡ al mando aquÃ­?}
+{198}{}{Â¿QuiÃ©n coÃ±o quiere saber algo? Me gusta el olor a miedo antes de matar a mis vÃ­ctimas. TÃ­o, Â¡quÃ© flipe!}
+{199}{}{He oÃ­do que nos vamos al norte o que planeamos hacerlo pronto. No nos dicen mucho, ademÃ¡s de las mierdas de siempre. Â¿Pero quÃ© estamos haciendo aquÃ­ fuera hablando de todo esto? Â¡Debes estar loca!}
+{200}{}{[RÃ­e] Yo prefiero asustar a que me asusten. Pero no deberÃ­amos hablar de esto aquÃ­ fuera. A los zombis no les gusta.}
+{201}{}{Ya sabes, hay mucha otra gente por aquÃ­ que piensa asÃ­. Ve a molestarlos a ellos.}
+{202}{}{No te dirÃ© nada a ti, amiga. Vete al infierno.}
+{203}{}{Ese tipo vestido de negro dice su sermÃ³n y luego se va arriba a contar la pasta. Â¡Me gustarÃ­a tenerlo tan fÃ¡cil como Ã©l! Pero mejor serÃ¡ que deje de hablar de Ã©l a sus espaldas o los Nocturnos podrÃ­an oÃ­rme.}
+{204}{}{Â¿De quÃ© tienes miedo?}
+{205}{}{Quiero saber mÃ¡s.}
+{206}{}{Â¿DÃ³nde estÃ¡n todas las chapas aquÃ­?}
+{207}{}{Â¿Sobre quÃ© predica?}
+{208}{}{Â¡TrÃ¡elos! Â¡Tengo ganas de un poco de acciÃ³n!}
+{209}{}{AhÃ­ estÃ¡ Fustigador. TÃ­a, Â¡alÃ©jate de Ã©l! EstÃ¡ completamente... No sÃ© si puedo describirlo. Imagina a una persona en el mundo que no querrÃ­as conocer. Fustigador es peor.}
+{210}{}{Â¿Se llevan bien Ã©l y Morfeo?}
+{211}{}{Â¿CuÃ¡l es su papel en todo esto?}
+{212}{}{Â¿Y quÃ© es lo que ha hecho? Â¿QuÃ© lo hace tan malo?}
+{213}{}{Â¡Ey, todavÃ­a no, tÃ­o!}
 {214}{}{En el futuro, busca a otro al que molestar.}
-{215}{}{Tía, ¡ojalá tuviéramos un poco de eso! Después de tanto oír toda esa mierda de la Paz, la Unidad, las alabanzas y todo lo demás, ¡quiero emborracharme!}
-{216}{}{Debes estar bromeando. ¡Esto es una iglesia! ¡Tiene que haber bebidas!}
-{217}{}{¿No hay bebidas? ¡Mierda!}
+{215}{}{TÃ­a, Â¡ojalÃ¡ tuviÃ©ramos un poco de eso! DespuÃ©s de tanto oÃ­r toda esa mierda de la Paz, la Unidad, las alabanzas y todo lo demÃ¡s, Â¡quiero emborracharme!}
+{216}{}{Debes estar bromeando. Â¡Esto es una iglesia! Â¡Tiene que haber bebidas!}
+{217}{}{Â¿No hay bebidas? Â¡Mierda!}
 {218}{}{Si no consigo suficiente bebida, empiezo a beber sangre.}
-{219}{}{Ese es Morfeo, nuestro líder. Está en la torre, creo.}
-{220}{}{¿Líder? ¿A qué os está dirigiendo?}
-{221}{}{Venga, hombre. Eso no me dice nada. ¡Comparte la mierda que sabes!}
-{222}{}{¿Qué otro pez gordo hay en este sitio?}
+{219}{}{Ese es Morfeo, nuestro lÃ­der. EstÃ¡ en la torre, creo.}
+{220}{}{Â¿LÃ­der? Â¿A quÃ© os estÃ¡ dirigiendo?}
+{221}{}{Venga, hombre. Eso no me dice nada. Â¡Comparte la mierda que sabes!}
+{222}{}{Â¿QuÃ© otro pez gordo hay en este sitio?}
 {223}{}{Has sido de gran ayuda. Gracias, amigo.}
-{224}{}{¿Llevaba alguna bebida? ¿Hay algún lío de por medio?}
+{224}{}{Â¿Llevaba alguna bebida? Â¿Hay algÃºn lÃ­o de por medio?}
 {225}{}{Mmm, un estupendo reservado para que nadie me moleste mientras lo mato.}
-{226}{}{Debes estar bromeando. Los Nocturnos son asesinos. Los miras un poco atravesado y te cortan el cuerpo en pedacitos, los fríen y te los dan de alimento para que te los comas de golpe. Nadie puede matarlos. Son los que hacen cumplir los propósitos del Maestro y van a atormentar al mundo para él. ¡Ya no te digo nada más!}
-{227}{}{¡No hay nada más que contar, y si eres lista preferirás no saberlo!}
-{228}{}{Lo dudo. ¡La busqué yo mismo! Oí que Morfeo tenía un escondite, pero los Nocturnos guardan el principal. He conocido a tipos que estuvieron buscando pasajes secretos y de los que nadie ha vuelto a saber. Después de un tiempo, dejé de buscar, y si eres lista, ¡tú ni siquiera empezarás! ¡No merece la pena!}
-{229}{}{Estás de broma. ¡Habla con los zombis, hombre!}
-{230}{}{¡Después de todo quizá seáis tal para cual!}
-{231}{}{¡No hay bebidas, tía! ¡La vida es mucho más perra que Fustigador! ¿Y ahora por qué no vas a buscar a otro con quien hablar, pequeña mamona? ¡Fuera de aquí!}
-{232}{}{No me jodas, tía. ¿Qué es lo que quieres?}
-{233}{}{¿Has notado algo fuera de lo normal por aquí?}
-{234}{}{¿Qué está pasando aquí?}
-{235}{}{¿Dónde está el Maestro?}
+{226}{}{Debes estar bromeando. Los Nocturnos son asesinos. Los miras un poco atravesado y te cortan el cuerpo en pedacitos, los frÃ­en y te los dan de alimento para que te los comas de golpe. Nadie puede matarlos. Son los que hacen cumplir los propÃ³sitos del Maestro y van a atormentar al mundo para Ã©l. Â¡Ya no te digo nada mÃ¡s!}
+{227}{}{Â¡No hay nada mÃ¡s que contar, y si eres lista preferirÃ¡s no saberlo!}
+{228}{}{Lo dudo. Â¡La busquÃ© yo mismo! OÃ­ que Morfeo tenÃ­a un escondite, pero los Nocturnos guardan el principal. He conocido a tipos que estuvieron buscando pasajes secretos y de los que nadie ha vuelto a saber. DespuÃ©s de un tiempo, dejÃ© de buscar, y si eres lista, Â¡tÃº ni siquiera empezarÃ¡s! Â¡No merece la pena!}
+{229}{}{EstÃ¡s de broma. Â¡Habla con los zombis, hombre!}
+{230}{}{Â¡DespuÃ©s de todo quizÃ¡ seÃ¡is tal para cual!}
+{231}{}{Â¡No hay bebidas, tÃ­a! Â¡La vida es mucho mÃ¡s perra que Fustigador! Â¿Y ahora por quÃ© no vas a buscar a otro con quien hablar, pequeÃ±a mamona? Â¡Fuera de aquÃ­!}
+{232}{}{No me jodas, tÃ­a. Â¿QuÃ© es lo que quieres?}
+{233}{}{Â¿Has notado algo fuera de lo normal por aquÃ­?}
+{234}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{235}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
 {236}{}{Solo estoy buscando a un amigo.}
-{237}{}{Todo lo que quiero es algo de bebida. ¿Qué tal un poco de zumo de escorpión rad?}
-{238}{}{Quiero un chico malo que me joda lo bastante como para que le arranque la lengua, la diseque y me la ponga de colgante como recuerdo de lo estúpida que puede ser la gente.}
-{239}{}{El Maestro puede besarme el culo. Mientras termine en el lado de los ganadores, me importa un rábano. ¡Ahí lo tienes, zombi!}
-{240}{}{¡Por fin! ¡He encontrado un verdadero ser humano en este lugar!}
-{241}{}{¿Amigo mío? ¿Por qué está tu vida llena de dolor y sufrimiento? ¡Abre tu corazón al Maestro!}
-{242}{}{¿Cómo puedes sobrevivir por aquí con esa actitud?}
-{243}{}{Sí, lo has dejado bien claro.}
-{244}{}{Una mierda. Si alguien se llamara a sí mismo "Maestro" e intentara besarme el culo, lo mataría.}
-{245}{}{Porque hago bien mi trabajo. El mes pasado maté a tres Seguidores del Apocalipsis. No me importa nadie un rábano. ¿Tú también quieres?}
-{246}{}{Estoy impresionada. Un tipo como tú debe conocer la verdadera historia sobre lo que está pasando por aquí...}
-{247}{}{Apocalipsis, ¿eh? ¿Se supone que son tipos duros?}
-{248}{}{¿Tres? ¿Eso es todo? ¡Deberías conocer mi currículum!}
+{237}{}{Todo lo que quiero es algo de bebida. Â¿QuÃ© tal un poco de zumo de escorpiÃ³n rad?}
+{238}{}{Quiero un chico malo que me joda lo bastante como para que le arranque la lengua, la diseque y me la ponga de colgante como recuerdo de lo estÃºpida que puede ser la gente.}
+{239}{}{El Maestro puede besarme el culo. Mientras termine en el lado de los ganadores, me importa un rÃ¡bano. Â¡AhÃ­ lo tienes, zombi!}
+{240}{}{Â¡Por fin! Â¡He encontrado un verdadero ser humano en este lugar!}
+{241}{}{Â¿Amigo mÃ­o? Â¿Por quÃ© estÃ¡ tu vida llena de dolor y sufrimiento? Â¡Abre tu corazÃ³n al Maestro!}
+{242}{}{Â¿CÃ³mo puedes sobrevivir por aquÃ­ con esa actitud?}
+{243}{}{SÃ­, lo has dejado bien claro.}
+{244}{}{Una mierda. Si alguien se llamara a sÃ­ mismo "Maestro" e intentara besarme el culo, lo matarÃ­a.}
+{245}{}{Porque hago bien mi trabajo. El mes pasado matÃ© a tres Seguidores del Apocalipsis. No me importa nadie un rÃ¡bano. Â¿TÃº tambiÃ©n quieres?}
+{246}{}{Estoy impresionada. Un tipo como tÃº debe conocer la verdadera historia sobre lo que estÃ¡ pasando por aquÃ­...}
+{247}{}{Apocalipsis, Â¿eh? Â¿Se supone que son tipos duros?}
+{248}{}{Â¿Tres? Â¿Eso es todo? Â¡DeberÃ­as conocer mi currÃ­culum!}
 {249}{}{No.}
-{250}{}{Apuesto a que los tuyos no gritaron tanto como los míos. Me gusta oír cómo gritan.}
-{251}{}{¡Ey! ¡Un tipo con un arma sigue siendo un tipo con un arma! ¿Crees que puedes hacerlo mejor?}
-{252}{}{No, amigo mío. Soy un devoto de la paz, el amor y la unidad.}
+{250}{}{Apuesto a que los tuyos no gritaron tanto como los mÃ­os. Me gusta oÃ­r cÃ³mo gritan.}
+{251}{}{Â¡Ey! Â¡Un tipo con un arma sigue siendo un tipo con un arma! Â¿Crees que puedes hacerlo mejor?}
+{252}{}{No, amigo mÃ­o. Soy un devoto de la paz, el amor y la unidad.}
 {253}{}{Un tipo con un arma es peligroso. Un hombre o una mujer con un arma Y cerebro son letales.}
 {254}{}{Un tipo con un arma es peligroso. Un hombre con un arma Y cerebro son letales.}
-{255}{}{Sí, puedo hacerlo mejor.}
-{256}{}{Ni que decirlo. ¿Quieres intentar descubrirlo?}
-{257}{}{¿Pensar? ¿Quién necesita pensar? Te demostraré lo que puedo hacer. ¡Muere, cabrona!}
-{258}{}{No he oído nada sobre ti, tía, así que corta el rollo y aléjate de mi vista.}
-{259}{}{Eso creía. ¿Por qué no vuelves a tus cánticos de zombi y dejas el trabajo de verdad a tipos como yo?}
-{260}{}{Sí. Había oído eso de ti. ¡Puede que hayas matado tu parte de escorpiones rad, pero yo soy peor! ¿Por qué estás aquí? ¿Cuál es tu objetivo?}
-{261}{}{¿Has notado algo fuera de lo normal por aquí?}
-{262}{}{¿Qué está pasando aquí?}
-{263}{}{¿Dónde está el Maestro?}
+{255}{}{SÃ­, puedo hacerlo mejor.}
+{256}{}{Ni que decirlo. Â¿Quieres intentar descubrirlo?}
+{257}{}{Â¿Pensar? Â¿QuiÃ©n necesita pensar? Te demostrarÃ© lo que puedo hacer. Â¡Muere, cabrona!}
+{258}{}{No he oÃ­do nada sobre ti, tÃ­a, asÃ­ que corta el rollo y alÃ©jate de mi vista.}
+{259}{}{Eso creÃ­a. Â¿Por quÃ© no vuelves a tus cÃ¡nticos de zombi y dejas el trabajo de verdad a tipos como yo?}
+{260}{}{SÃ­. HabÃ­a oÃ­do eso de ti. Â¡Puede que hayas matado tu parte de escorpiones rad, pero yo soy peor! Â¿Por quÃ© estÃ¡s aquÃ­? Â¿CuÃ¡l es tu objetivo?}
+{261}{}{Â¿Has notado algo fuera de lo normal por aquÃ­?}
+{262}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{263}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
 {264}{}{Solo estoy buscando a un amigo.}
-{265}{}{He oído que las bebidas son muy buenas por aquí.}
-{266}{}{Espera un momento, ¿no eres tú el tío que...? ¡Oh mierda, me voy de aquí!}
-{267}{}{Espera un momento, ¿no eres tú la tía que...? ¡Oh mierda, me voy de aquí!}
+{265}{}{He oÃ­do que las bebidas son muy buenas por aquÃ­.}
+{266}{}{Espera un momento, Â¿no eres tÃº el tÃ­o que...? Â¡Oh mierda, me voy de aquÃ­!}
+{267}{}{Espera un momento, Â¿no eres tÃº la tÃ­a que...? Â¡Oh mierda, me voy de aquÃ­!}
 {268}{}{No soy amigo de nadie. No soy de esos. [Pausa larga] Te sugiero que te quites ahora mismo de mi camino.}
-{269}{}{Si intentamos algo aquí, los Nocturnos nos harán pedacitos. Será mejor que nos encontremos más tarde ahí fuera.}
-{270}{}{Quizás. O podemos hablar de otras cosas. Como de cómo van las cosas por aquí.}
-{271}{}{¡Cobarde!}
-{272}{}{Claro. Podría ser divertido.}
-{273}{}{Hagámoslo ahora.}
-{274}{}{¡Cabrona!}
-{275}{}{¡Porque la gente que va por el mal camino no dura mucho con vida!}
+{269}{}{Si intentamos algo aquÃ­, los Nocturnos nos harÃ¡n pedacitos. SerÃ¡ mejor que nos encontremos mÃ¡s tarde ahÃ­ fuera.}
+{270}{}{QuizÃ¡s. O podemos hablar de otras cosas. Como de cÃ³mo van las cosas por aquÃ­.}
+{271}{}{Â¡Cobarde!}
+{272}{}{Claro. PodrÃ­a ser divertido.}
+{273}{}{HagÃ¡moslo ahora.}
+{274}{}{Â¡Cabrona!}
+{275}{}{Â¡Porque la gente que va por el mal camino no dura mucho con vida!}
 {276}{}{[Hecho]}

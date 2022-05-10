@@ -1,1 +1,1 @@
-{100}{}{Esta zona fue saqueada en el pasado. El equipo que es m·s delicado est· bastante estropeado.}
+{100}{}{Esta zona fue saqueada en el pasado. El equipo que es m√°s delicado est√° bastante estropeado.}

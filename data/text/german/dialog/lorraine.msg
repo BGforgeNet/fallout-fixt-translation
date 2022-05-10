@@ -22,7 +22,7 @@
 {121}{}{What's the deal with the Regulators?}
 {122}{}{How do you avoid the Deathclaws?}
 {123}{}{Can I ask you about some other stuff?}
-{124}{}{Danke. Tschüss.}
+{124}{}{Danke. TschÃ¼ss.}
 {125}{}{Oh, there's half a dozen of us. Sammael was the first one, and he's still the best.}
 {126}{}{Can I ask you about some other stuff?}
 {127}{}{Interesting. Thanks.}
@@ -60,7 +60,7 @@
 {159}{}{What's the deal with the Regulators?}
 {160}{}{Where are the Gun Runners from?}
 {161}{}{}
-{162}{}{Danke für die Hilfe.}
+{162}{}{Danke fÃ¼r die Hilfe.}
 {163}{}{Well, supposedly it was somewhere south of here, but I don't know really. I think everyone left because it was broken.}
 {164}{}{Can I ask you some more questions?}
 {165}{}{Hmm. Thanks.}

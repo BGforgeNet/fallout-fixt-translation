@@ -1,27 +1,27 @@
-{100}{}{Ves: a Tiburón.}
-{101}{}{Estás viendo a un hombre con dientes afilados.}
-{102}{}{¡Mala pécora!}
-{103}{}{¡Eh, Carnaza! ¿Qué te trae a nuestro territorio, bocadito? ¿Buscando diversión? A tu costa, claro.}
-{104}{}{Lo cierto es que estoy aquí para patear culos y mascar chicle... puedes imaginar el resto.}
-{105}{}{¿Qué hacéis para divertiros por aquí?}
-{106}{}{Uh, ya me iba. Adiós.}
-{107}{}{Quería echar un trago y... divertirme un poco.}
-{108}{}{¡Glopf!}
-{109}{}{¡Machacamos a los preguntones como tú!}
-{110}{}{¡No tan rápido! Nadie entra en nuestro local sin pagar la tasa del dolor.}
-{111}{}{Creo que tú servirás. Chicos, agarradla.}
-{112}{}{Te presento al recaudador. ¡Se llama Sr. Martillazo!}
-{113}{}{¡No creo!}
-{114}{}{Para entretenernos esta noche, ¡hemos decidido dar algunas palizas! Je. Agarra lo que puedas y corre como el diablo, ¿eh?}
-{115}{}{Creo que solo cogeré una moña.}
-{116}{}{¿Machacar y agarrar? ¡Cuenta conmigo!}
+{100}{}{Ves: a TiburÃ³n.}
+{101}{}{EstÃ¡s viendo a un hombre con dientes afilados.}
+{102}{}{Â¡Mala pÃ©cora!}
+{103}{}{Â¡Eh, Carnaza! Â¿QuÃ© te trae a nuestro territorio, bocadito? Â¿Buscando diversiÃ³n? A tu costa, claro.}
+{104}{}{Lo cierto es que estoy aquÃ­ para patear culos y mascar chicle... puedes imaginar el resto.}
+{105}{}{Â¿QuÃ© hacÃ©is para divertiros por aquÃ­?}
+{106}{}{Uh, ya me iba. AdiÃ³s.}
+{107}{}{QuerÃ­a echar un trago y... divertirme un poco.}
+{108}{}{Â¡Glopf!}
+{109}{}{Â¡Machacamos a los preguntones como tÃº!}
+{110}{}{Â¡No tan rÃ¡pido! Nadie entra en nuestro local sin pagar la tasa del dolor.}
+{111}{}{Creo que tÃº servirÃ¡s. Chicos, agarradla.}
+{112}{}{Te presento al recaudador. Â¡Se llama Sr. Martillazo!}
+{113}{}{Â¡No creo!}
+{114}{}{Para entretenernos esta noche, Â¡hemos decidido dar algunas palizas! Je. Agarra lo que puedas y corre como el diablo, Â¿eh?}
+{115}{}{Creo que solo cogerÃ© una moÃ±a.}
+{116}{}{Â¿Machacar y agarrar? Â¡Cuenta conmigo!}
 {117}{}{Esta noche no, tengo jaqueca.}
-{118}{}{Nah, preferiría comer algo... ¡quizás tiburón a la parrilla!}
+{118}{}{Nah, preferirÃ­a comer algo... Â¡quizÃ¡s tiburÃ³n a la parrilla!}
 {119}{}{Ah, you loser. Go run back to your mama.}
-{120}{}{¿Tú otra vez? ¡Caramba, algunos no aprenden nunca!}
-{121}{}{Solo quería echar un trago rápido.}
+{120}{}{Â¿TÃº otra vez? Â¡Caramba, algunos no aprenden nunca!}
+{121}{}{Solo querÃ­a echar un trago rÃ¡pido.}
 {122}{}{No importa, ya me iba.}
-{123}{}{¡Glorpf!}
-{124}{}{No es mala idea. Yo también tomaré algo. ¡Desde luego, siempre hay que lavar la cerveza con un poco de sangre!}
-{125}{}{Creí que ya lo habrías entendido. Me habré equivocado. En fin, ¡me consolaré dándote una paliza de muerte!}
+{123}{}{Â¡Glorpf!}
+{124}{}{No es mala idea. Yo tambiÃ©n tomarÃ© algo. Â¡Desde luego, siempre hay que lavar la cerveza con un poco de sangre!}
+{125}{}{CreÃ­ que ya lo habrÃ­as entendido. Me habrÃ© equivocado. En fin, Â¡me consolarÃ© dÃ¡ndote una paliza de muerte!}
 {126}{}{Volveremos, carroza. Esto no ha terminado.}

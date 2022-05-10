@@ -5,5 +5,5 @@
 {104}{}{Farli, nee ko }
 {105}{}{ mat'chak o Drake.}
 {106}{}{Ah, Drake ko mat'chak.}
-{107}{}{Donne le bonjour à notre ami si tu le revois.}
-{108}{}{La Confrérie, ça me rappelle chez moi.}
+{107}{}{Donne le bonjour Ã  notre ami si tu le revois.}
+{108}{}{La ConfrÃ©rie, Ã§a me rappelle chez moi.}

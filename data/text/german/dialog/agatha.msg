@@ -1,8 +1,8 @@
 {100}{}{Du siehst eine betagte Frau.}
 {101}{}{Du siehst: Agatha.}
-{102}{}{Diese Frau ist faltig und grau, hat aber einen spritzigen Schritt und eine strahlende Persönlichkeit.}
-{103}{}{Du bist ein schlechter Mensch. Ich möchte nichts mit dir zu tun haben.}
-{104}{}{Es ist eine schreckliche Sache, wenn unsere Jugend bedroht ist. Der Verlust von Tandi wäre eine schreckliche Sache.}
+{102}{}{Diese Frau ist faltig und grau, hat aber einen spritzigen Schritt und eine strahlende PersÃ¶nlichkeit.}
+{103}{}{Du bist ein schlechter Mensch. Ich mÃ¶chte nichts mit dir zu tun haben.}
+{104}{}{Es ist eine schreckliche Sache, wenn unsere Jugend bedroht ist. Der Verlust von Tandi wÃ¤re eine schreckliche Sache.}
 {105}{}{Hnng.}
 {106}{}{OK.}
 {107}{}{Warum?}

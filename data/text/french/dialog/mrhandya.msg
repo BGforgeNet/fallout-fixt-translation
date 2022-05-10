@@ -1,4 +1,4 @@
-{100}{}{Voici un robot cassé.}
+{100}{}{Voici un robot cassÃ©.}
 {101}{}{Voici un robot qui fonctionne.}
-{102}{}{Tu répares le robot cassé. Il s'alimente immédiatement et revient à la vie.}
-{103}{}{Les réparations nécaissaires dépassent tes compétences.}
+{102}{}{Tu rÃ©pares le robot cassÃ©. Il s'alimente immÃ©diatement et revient Ã  la vie.}
+{103}{}{Les rÃ©parations nÃ©caissaires dÃ©passent tes compÃ©tences.}

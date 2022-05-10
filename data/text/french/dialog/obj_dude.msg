@@ -1,5 +1,5 @@
 {970}{}{C'est mon nom.}
-{971}{}{C'est bien à moi que tu parles.}
+{971}{}{C'est bien Ã  moi que tu parles.}
 {972}{}{Pourquoi tu poses des questions idiotes ? C'est moi.}
 {973}{}{Yes, that's my name.}
 {974}{}{That's me. Anything else?}
@@ -9,7 +9,7 @@
 {978}{}{I don't like talking about myself. New topic.}
 {979}{}{I'm not an open book; let's talk about something else.}
 {980}{}{Je vois pas de quoi tu parles.}
-{981}{}{Je regrette. Pas la moindre idée.}
+{981}{}{Je regrette. Pas la moindre idÃ©e.}
 {982}{}{Jamais entendu parler.}
 {983}{}{Quoi ?}
 {984}{}{What are you babbling about?}
@@ -30,7 +30,7 @@
 {999}{}{Cela ne te regarde pas.}
 {2800}{}{The Master}
 {2801}{}{Water Chip}
-{2802}{}{Nécropolis}
+{2802}{}{NÃ©cropolis}
 {2803}{}{Set}
 {2804}{}{Watershed}
 {2805}{}{Hall}
@@ -129,14 +129,14 @@
 {2898}{}{}
 {2899}{}{}
 {2900}{}{Ce serait pas un type important ?}
-{2901}{}{J'sais pas, mais le réservoir en a peut-être.}
-{2902}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sûrement.}
+{2901}{}{J'sais pas, mais le rÃ©servoir en a peut-Ãªtre.}
+{2902}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sÃ»rement.}
 {2903}{}{Oh, je l'aime bien, je t'assure. Tu le trouveras dans le hall.}
-{2904}{}{C'est au Nord. Attention aux gardes. Ils prennent leur boulot plutôt au sérieux.}
-{2905}{}{Le Hall des Morts. C'est là que Set fait ses affaires. C'est en plein centre de Nécropolis.}
+{2904}{}{C'est au Nord. Attention aux gardes. Ils prennent leur boulot plutÃ´t au sÃ©rieux.}
+{2905}{}{Le Hall des Morts. C'est lÃ  que Set fait ses affaires. C'est en plein centre de NÃ©cropolis.}
 {3400}{}{The Master}
 {3401}{}{Water Chip}
-{3402}{}{Nécropolis}
+{3402}{}{NÃ©cropolis}
 {3403}{}{Set}
 {3404}{}{Watershed}
 {3405}{}{Hall}
@@ -235,14 +235,14 @@
 {3498}{}{}
 {3499}{}{}
 {3500}{}{Ce serait pas un type important ?}
-{3501}{}{J'sais pas, mais le réservoir en a peut-être.}
-{3502}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sûrement.}
+{3501}{}{J'sais pas, mais le rÃ©servoir en a peut-Ãªtre.}
+{3502}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sÃ»rement.}
 {3503}{}{Oh, je l'aime bien, je t'assure. Tu le trouveras dans le hall.}
-{3504}{}{C'est au Nord. Attention aux gardes. Ils prennent leur boulot plutôt au sérieux.}
-{3505}{}{Le Hall des Morts. C'est là que Set fait ses affaires. C'est en plein centre de Nécropolis.}
+{3504}{}{C'est au Nord. Attention aux gardes. Ils prennent leur boulot plutÃ´t au sÃ©rieux.}
+{3505}{}{Le Hall des Morts. C'est lÃ  que Set fait ses affaires. C'est en plein centre de NÃ©cropolis.}
 {4000}{}{The Master}
 {4001}{}{Water Chip}
-{4002}{}{Nécropolis}
+{4002}{}{NÃ©cropolis}
 {4003}{}{Set}
 {4004}{}{Watershed}
 {4005}{}{Hall}
@@ -341,11 +341,11 @@
 {4098}{}{}
 {4099}{}{}
 {4100}{}{Ce serait pas un type important ?}
-{4101}{}{J'sais pas, mais le réservoir en a peut-être.}
-{4102}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sûrement.}
+{4101}{}{J'sais pas, mais le rÃ©servoir en a peut-Ãªtre.}
+{4102}{}{T'y es en plein. Du moins, ce qu'il en reste. Cet endroit est en train de crever, doucement mais sÃ»rement.}
 {4103}{}{Oh, je l'aime bien, je t'assure. Tu le trouveras dans le hall.}
-{4104}{}{Attention aux gardes. Ils prennent leur boulot plutôt au sérieux.}
-{4105}{}{Le Hall des Morts. C'est là que Set fait ses affaires. C'est en plein centre de Nécropolis.}
+{4104}{}{Attention aux gardes. Ils prennent leur boulot plutÃ´t au sÃ©rieux.}
+{4105}{}{Le Hall des Morts. C'est lÃ  que Set fait ses affaires. C'est en plein centre de NÃ©cropolis.}
 {4600}{}{Abri}
 {4601}{}{Eau}
 {4602}{}{Dirigeant}
@@ -353,8 +353,8 @@
 {4604}{}{Puce d'eau}
 {4605}{}{Abris}
 {4606}{}{Vault 13}
-{4607}{}{Médecin}
-{4608}{}{Guérison}
+{4607}{}{MÃ©decin}
+{4608}{}{GuÃ©rison}
 {4609}{}{Library}
 {4610}{}{}
 {4611}{}{}
@@ -446,20 +446,20 @@
 {4697}{}{}
 {4698}{}{}
 {4699}{}{}
-{4700}{}{C'est là que nous vivons. Tu devrais comprendre ça.}
-{4701}{}{La puce contrôle le niveau de pureté des réserves d'eau souterraines. C'est une pièce vitale qui n'est pas réparable.}
+{4700}{}{C'est lÃ  que nous vivons. Tu devrais comprendre Ã§a.}
+{4701}{}{La puce contrÃ´le le niveau de puretÃ© des rÃ©serves d'eau souterraines. C'est une piÃ¨ce vitale qui n'est pas rÃ©parable.}
 {4702}{}{Un brave type qui fait un boulot difficile.}
-{4703}{}{La puce contrôle le niveau de pureté des réserves d'eau souterraines. C'est une pièce vitale qui n'est pas réparable.}
-{4704}{}{La puce contrôle le niveau de pureté des réserves d'eau souterraines. C'est une pièce vitale qui n'est pas réparable.}
-{4705}{}{C'est là que nous vivons. Tu devrais comprendre ça.}
-{4706}{}{C'est là que nous vivons. Tu devrais comprendre ça.}
-{4707}{}{Le médecin est au premier étage, dans le labo médical. Vas-y si tu t'es fait mal.}
-{4708}{}{Le médecin est au premier étage, dans le labo médical. Vas-y si tu t'es fait mal.}
-{4709}{}{La bibliothèque est dans l'aile Ouest au troisième étage. C'est là que se trouvent les ordinateurs de recherche.}
+{4703}{}{La puce contrÃ´le le niveau de puretÃ© des rÃ©serves d'eau souterraines. C'est une piÃ¨ce vitale qui n'est pas rÃ©parable.}
+{4704}{}{La puce contrÃ´le le niveau de puretÃ© des rÃ©serves d'eau souterraines. C'est une piÃ¨ce vitale qui n'est pas rÃ©parable.}
+{4705}{}{C'est lÃ  que nous vivons. Tu devrais comprendre Ã§a.}
+{4706}{}{C'est lÃ  que nous vivons. Tu devrais comprendre Ã§a.}
+{4707}{}{Le mÃ©decin est au premier Ã©tage, dans le labo mÃ©dical. Vas-y si tu t'es fait mal.}
+{4708}{}{Le mÃ©decin est au premier Ã©tage, dans le labo mÃ©dical. Vas-y si tu t'es fait mal.}
+{4709}{}{La bibliothÃ¨que est dans l'aile Ouest au troisiÃ¨me Ã©tage. C'est lÃ  que se trouvent les ordinateurs de recherche.}
 {7000}{}{Killian}
 {7001}{}{Gizmo}
-{7002}{}{Dépôtville}
-{7003}{}{Sables Ombragés}
+{7002}{}{DÃ©pÃ´tville}
+{7003}{}{Sables OmbragÃ©s}
 {7004}{}{The Hub}
 {7005}{}{Water Chip}
 {7006}{}{Casino}
@@ -557,18 +557,18 @@
 {7098}{}{}
 {7099}{}{}
 {7100}{}{Killian est le maire. Il tient un magasin.}
-{7101}{}{Gizmo dirige un casino. Ce type paraît correct.}
-{7102}{}{C'est Dépôtville.}
+{7101}{}{Gizmo dirige un casino. Ce type paraÃ®t correct.}
+{7102}{}{C'est DÃ©pÃ´tville.}
 {7103}{}{Hum, je crois que c'est un p'tit bled. J'y ai jamais mis les pieds.}
 {7104}{}{C'est une plus grande ville quelque part au Sud.}
 {7105}{}{Quoi ? Pardon !}
-{7106}{}{C'est un grand bâtiment au Nord-Ouest de la ville.}
+{7106}{}{C'est un grand bÃ¢timent au Nord-Ouest de la ville.}
 {7107}{}{Le magasin de Killian ? Au centre de la ville.}
 {7108}{}{J'sais pas, mais rien qu'le nom m'fout les jetons.}
 {7600}{}{Killian}
 {7601}{}{Gizmo}
-{7602}{}{Dépôtville}
-{7603}{}{Sables Ombragés}
+{7602}{}{DÃ©pÃ´tville}
+{7603}{}{Sables OmbragÃ©s}
 {7604}{}{The Hub}
 {7605}{}{Water Chip}
 {7606}{}{Casino}
@@ -665,19 +665,19 @@
 {7697}{}{}
 {7698}{}{}
 {7699}{}{}
-{7700}{}{Killian c'est le maire. Il a pris la relève quand son père est mort.}
-{7701}{}{Gizmo est un type important dans Dépôtville. Il dirige le casino et le ring de boxe. Il brasse de l'argent et achète beaucoup de trucs au Centre.}
-{7702}{}{C'est Dépôtville.}
-{7703}{}{Euh, c'est une petite communauté vers le Nord. C'est surtout des fermiers qui vivent là-bas. Ca nous arrive de commercer avec eux, mais ils veulent surtout qu'on leur fiche la paix.}
-{7704}{}{Le Centre, c'est là que se fait tout le commerce dans le coin. La plupart des commerçants viennent du Centre. Là-bas, il y a des sociétés qui fabriquent encore des choses. Si tu veux, profite d'une de leurs tournées pour y aller.}
+{7700}{}{Killian c'est le maire. Il a pris la relÃ¨ve quand son pÃ¨re est mort.}
+{7701}{}{Gizmo est un type important dans DÃ©pÃ´tville. Il dirige le casino et le ring de boxe. Il brasse de l'argent et achÃ¨te beaucoup de trucs au Centre.}
+{7702}{}{C'est DÃ©pÃ´tville.}
+{7703}{}{Euh, c'est une petite communautÃ© vers le Nord. C'est surtout des fermiers qui vivent lÃ -bas. Ca nous arrive de commercer avec eux, mais ils veulent surtout qu'on leur fiche la paix.}
+{7704}{}{Le Centre, c'est lÃ  que se fait tout le commerce dans le coin. La plupart des commerÃ§ants viennent du Centre. LÃ -bas, il y a des sociÃ©tÃ©s qui fabriquent encore des choses. Si tu veux, profite d'une de leurs tournÃ©es pour y aller.}
 {7705}{}{Je vois pas de quoi tu parles.}
-{7706}{}{C'est Gizmo qui le dirige. Attention aux machines à sous, tu peux y laisser ta chemise.}
+{7706}{}{C'est Gizmo qui le dirige. Attention aux machines Ã  sous, tu peux y laisser ta chemise.}
 {7707}{}{Darkwaters ? Au centre de la ville. Avec lui, tu peux troquer ou payer cash.}
-{7708}{}{J'en ai entendu parler mais je l'ai jamais vu. Il paraît qu'il rôde dans le désert et qu'il frappe surtout la nuit.}
+{7708}{}{J'en ai entendu parler mais je l'ai jamais vu. Il paraÃ®t qu'il rÃ´de dans le dÃ©sert et qu'il frappe surtout la nuit.}
 {8200}{}{Killian}
 {8201}{}{Gizmo}
-{8202}{}{Dépôtville}
-{8203}{}{Sables Ombragés}
+{8202}{}{DÃ©pÃ´tville}
+{8203}{}{Sables OmbragÃ©s}
 {8204}{}{The Hub}
 {8205}{}{Water Chip}
 {8206}{}{Casino}
@@ -774,25 +774,25 @@
 {8297}{}{}
 {8298}{}{}
 {8299}{}{}
-{8300}{}{Killian c'est le maire. Il a pris la relève quand son père est mort.}
-{8301}{}{Gizmo est un type important dans Dépôtville. Il dirige le casino et le ring de boxe. Il brasse de l'argent et achète beaucoup de trucs au Centre.}
-{8302}{}{C'est Dépôtville.}
-{8303}{}{Euh, c'est une petite communauté vers le Nord. C'est surtout des fermiers qui vivent là-bas. Ca nous arrive de commercer avec eux, mais ils veulent surtout qu'on leur fiche la paix.}
-{8304}{}{Le Centre, c'est là que se fait tout le commerce dans le coin. La plupart des commerçants viennent du Centre. Là-bas, il y a des sociétés qui fabriquent encore des choses. Si tu veux, profite d'une de leurs tournées pour y aller.}
+{8300}{}{Killian c'est le maire. Il a pris la relÃ¨ve quand son pÃ¨re est mort.}
+{8301}{}{Gizmo est un type important dans DÃ©pÃ´tville. Il dirige le casino et le ring de boxe. Il brasse de l'argent et achÃ¨te beaucoup de trucs au Centre.}
+{8302}{}{C'est DÃ©pÃ´tville.}
+{8303}{}{Euh, c'est une petite communautÃ© vers le Nord. C'est surtout des fermiers qui vivent lÃ -bas. Ca nous arrive de commercer avec eux, mais ils veulent surtout qu'on leur fiche la paix.}
+{8304}{}{Le Centre, c'est lÃ  que se fait tout le commerce dans le coin. La plupart des commerÃ§ants viennent du Centre. LÃ -bas, il y a des sociÃ©tÃ©s qui fabriquent encore des choses. Si tu veux, profite d'une de leurs tournÃ©es pour y aller.}
 {8305}{}{Je vois pas de quoi tu parles.}
-{8306}{}{C'est Gizmo qui le dirige. Attention aux machines à sous, tu peux y laisser ta chemise.}
+{8306}{}{C'est Gizmo qui le dirige. Attention aux machines Ã  sous, tu peux y laisser ta chemise.}
 {8307}{}{Darkwaters ? Au centre de la ville. Avec lui, tu peux troquer ou payer cash.}
-{8308}{}{J'en ai entendu parler mais je l'ai jamais vu. Il paraît qu'il rôde dans le désert et qu'il frappe surtout la nuit.}
+{8308}{}{J'en ai entendu parler mais je l'ai jamais vu. Il paraÃ®t qu'il rÃ´de dans le dÃ©sert et qu'il frappe surtout la nuit.}
 {8800}{}{The Master}
 {8801}{}{The War}
 {8802}{}{The Exodus}
 {8803}{}{The Strange Army}
-{8804}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{8804}{}{ConfrÃ©rie de l'Acier|ConfrÃ©rie|Confrerie|Acier}
 {8805}{}{The Merchants}
 {8806}{}{The Missing Caravans}
 {8807}{}{The Hub}
 {8808}{}{Children of the Cathedral}
-{8809}{}{Initiés|Initié|Inities|Initie}
+{8809}{}{InitiÃ©s|InitiÃ©|Inities|Initie}
 {8810}{}{Scribes}
 {8811}{}{Chevaliers|Chevalier}
 {8812}{}{Paladins}
@@ -901,12 +901,12 @@
 {9401}{}{The War}
 {9402}{}{The Exodus}
 {9403}{}{The Strange Army}
-{9404}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{9404}{}{ConfrÃ©rie de l'Acier|ConfrÃ©rie|Confrerie|Acier}
 {9405}{}{The Merchants}
 {9406}{}{The Missing Caravans}
 {9407}{}{The Hub}
 {9408}{}{Children of the Cathedral}
-{9409}{}{Initiés|Initié|Inities|Initie}
+{9409}{}{InitiÃ©s|InitiÃ©|Inities|Initie}
 {9410}{}{Scribes}
 {9411}{}{Chevaliers|Chevalier}
 {9412}{}{Paladins}
@@ -1015,12 +1015,12 @@
 {10001}{}{The War}
 {10002}{}{The Exodus}
 {10003}{}{The Strange Army}
-{10004}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{10004}{}{ConfrÃ©rie de l'Acier|ConfrÃ©rie|Confrerie|Acier}
 {10005}{}{The Merchants}
 {10006}{}{The Missing Caravans}
 {10007}{}{The Hub}
 {10008}{}{Children of the Cathedral}
-{10009}{}{Initiés|Initié|Inities|Initie}
+{10009}{}{InitiÃ©s|InitiÃ©|Inities|Initie}
 {10010}{}{Scribes}
 {10011}{}{Chevaliers|Chevalier}
 {10012}{}{Paladins}
@@ -1130,7 +1130,7 @@
 {11202}{}{Children of the Cathedral}
 {11203}{}{Morpheus}
 {11204}{}{Mutants}
-{11205}{}{Maître}
+{11205}{}{MaÃ®tre}
 {11206}{}{Followers of the Apocalypse}
 {11207}{}{Military Base}
 {11208}{}{The Vats}
@@ -1226,7 +1226,7 @@
 {11298}{}{}
 {11299}{}{}
 {11300}{}{The Holy Flame is the one who will lead us into a brave new world which doesn't have hatred or war.}
-{11301}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people – human and mutant.}
+{11301}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people â€“ human and mutant.}
 {11302}{}{That is us.}
 {11303}{}{Morpheus is the High Priest of the Children. Typically, he is in his rooms when he is not preaching to us.}
 {11304}{}{They are people who got mutated from the nuclear fallout. But they are still good people.}
@@ -1240,7 +1240,7 @@
 {11802}{}{Children of the Cathedral}
 {11803}{}{Morpheus}
 {11804}{}{Mutants}
-{11805}{}{Maître}
+{11805}{}{MaÃ®tre}
 {11806}{}{Followers of the Apocalypse}
 {11807}{}{Military Base}
 {11808}{}{The Vats}
@@ -1336,7 +1336,7 @@
 {11898}{}{}
 {11899}{}{}
 {11900}{}{The Holy Flame is the one who will lead us into a brave new world which doesn't have hatred or war.}
-{11901}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people – human and mutant.}
+{11901}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people â€“ human and mutant.}
 {11902}{}{That is us.}
 {11903}{}{Morpheus is the High Priest of the Children. Typically, he is in his rooms when he is not preaching to us.}
 {11904}{}{They are people who got mutated from the nuclear fallout. But they are still good people.}
@@ -1347,8 +1347,8 @@
 {11909}{}{I have no clue as to what you are talking about.}
 {15400}{}{Khans}
 {15401}{}{Garl}
-{15402}{}{Dépôtville}
-{15403}{}{Sables Ombragés}
+{15402}{}{DÃ©pÃ´tville}
+{15403}{}{Sables OmbragÃ©s}
 {15404}{}{The Hub}
 {15405}{}{Water Chip}
 {15406}{}{Tandi}
@@ -1360,7 +1360,7 @@
 {15412}{}{Booze}
 {15413}{}{stimulants}
 {15414}{}{Sables}
-{15415}{}{Ombragés}
+{15415}{}{OmbragÃ©s}
 {15416}{}{Pillards|Pillards|Khans|Khan}
 {15417}{}{Raider}
 {15418}{}{Khan}
@@ -1446,29 +1446,29 @@
 {15498}{}{}
 {15499}{}{}
 {15500}{}{That's us, you lackey.}
-{15501}{}{C'est le chef des Khans. L'homme le plus redouté du désert.}
-{15502}{}{Ils sont au Sud-Ouest. On va parfois s'y reposer après une dure journée de pillage.}
-{15503}{}{Pourquoi on les écrase pas complètement, ça me dépasse !}
+{15501}{}{C'est le chef des Khans. L'homme le plus redoutÃ© du dÃ©sert.}
+{15502}{}{Ils sont au Sud-Ouest. On va parfois s'y reposer aprÃ¨s une dure journÃ©e de pillage.}
+{15503}{}{Pourquoi on les Ã©crase pas complÃ¨tement, Ã§a me dÃ©passe !}
 {15504}{}{They are to the south and slightly west. We trade with them. Mostly for water and ammo, but sometimes for better weapons, too.}
-{15505}{}{Que veux-tu que ça me fasse ?}
-{15506}{}{Je connais personne de ce nom-là.}
-{15507}{}{Elle est la conseillère. Elle organise les raids.}
-{15508}{}{C'est elle qui tient l'armurerie. Elle répare notre équipement.}
+{15505}{}{Que veux-tu que Ã§a me fasse ?}
+{15506}{}{Je connais personne de ce nom-lÃ .}
+{15507}{}{Elle est la conseillÃ¨re. Elle organise les raids.}
+{15508}{}{C'est elle qui tient l'armurerie. Elle rÃ©pare notre Ã©quipement.}
 {15509}{}{Elle est commandant en second.}
-{15510}{}{Il est chargé du ravitaillement.}
+{15510}{}{Il est chargÃ© du ravitaillement.}
 {15511}{}{C'est le cuisinier.}
 {15512}{}{Hmmm, t'en as ?}
 {15513}{}{Hmmm, t'en as ?}
-{15514}{}{Pourquoi on les écrase pas complètement, ça me dépasse !}
-{15515}{}{Pourquoi on les écrase pas complètement, ça me dépasse !}
+{15514}{}{Pourquoi on les Ã©crase pas complÃ¨tement, Ã§a me dÃ©passe !}
+{15515}{}{Pourquoi on les Ã©crase pas complÃ¨tement, Ã§a me dÃ©passe !}
 {15516}{}{That's us, you lackey.}
 {15517}{}{That's us, you lackey.}
 {15518}{}{That's us, you lackey.}
 {15519}{}{They are to the south and slightly west. We trade with them. Mostly for water and ammo, but sometimes for better weapons, too.}
 {16000}{}{Khans}
 {16001}{}{Garl}
-{16002}{}{Dépôtville}
-{16003}{}{Sables Ombragés}
+{16002}{}{DÃ©pÃ´tville}
+{16003}{}{Sables OmbragÃ©s}
 {16004}{}{The Hub}
 {16005}{}{Water Chip}
 {16006}{}{Tandi}
@@ -1565,20 +1565,20 @@
 {16097}{}{}
 {16098}{}{}
 {16099}{}{}
-{16100}{}{Ce sont des hors-la-loi qui prétendent que leur groupe existe depuis belle lurette.}
-{16101}{}{C'est le chef des Khans. C'est un des hommes des plus dangereux qui s'en prend aux Sables Ombragés. Il dirige les pillards d'un poing ferme.}
-{16102}{}{C'est au Sud-Ouest, à 4 ou 6 jours d'ici. On fait des bonnes affaires avec eux parfois mais la plupart du temps ils essaient de nous rouler.}
+{16100}{}{Ce sont des hors-la-loi qui prÃ©tendent que leur groupe existe depuis belle lurette.}
+{16101}{}{C'est le chef des Khans. C'est un des hommes des plus dangereux qui s'en prend aux Sables OmbragÃ©s. Il dirige les pillards d'un poing ferme.}
+{16102}{}{C'est au Sud-Ouest, Ã  4 ou 6 jours d'ici. On fait des bonnes affaires avec eux parfois mais la plupart du temps ils essaient de nous rouler.}
 {16103}{}{C'est ici.}
-{16104}{}{Bien plus au Sud que Dépôtville. Le Centre est la plus grande ville dont j'aie entendu parler. Y'a bien au moins un millier d'habitants.}
-{16105}{}{Désolé, je ne sais pas.}
-{16106}{}{C'est la fille d'Aradesh. Elle nous commandera peut-être un jour mais faut qu'elle apprenne à se contrôler !}
-{16107}{}{C'est le chef de notre communauté. Et un vrai héros. Tu le trouveras sûrement à l'hôtel de ville.}
-{16108}{}{Il travaille avec Aradesh à notre sécurité.}
+{16104}{}{Bien plus au Sud que DÃ©pÃ´tville. Le Centre est la plus grande ville dont j'aie entendu parler. Y'a bien au moins un millier d'habitants.}
+{16105}{}{DÃ©solÃ©, je ne sais pas.}
+{16106}{}{C'est la fille d'Aradesh. Elle nous commandera peut-Ãªtre un jour mais faut qu'elle apprenne Ã  se contrÃ´ler !}
+{16107}{}{C'est le chef de notre communautÃ©. Et un vrai hÃ©ros. Tu le trouveras sÃ»rement Ã  l'hÃ´tel de ville.}
+{16108}{}{Il travaille avec Aradesh Ã  notre sÃ©curitÃ©.}
 {16109}{}{Notre docteur. Va le voir en cas de besoin.}
 {16600}{}{Khans}
 {16601}{}{Garl}
-{16602}{}{Dépôtville}
-{16603}{}{Sables Ombragés}
+{16602}{}{DÃ©pÃ´tville}
+{16603}{}{Sables OmbragÃ©s}
 {16604}{}{The Hub}
 {16605}{}{Water Chip}
 {16606}{}{Tandi}
@@ -1675,33 +1675,33 @@
 {16697}{}{}
 {16698}{}{}
 {16699}{}{}
-{16700}{}{Ce sont des hors-la-loi qui prétendent que leur groupe existe depuis belle lurette.}
-{16701}{}{C'est le chef des Khans. C'est un des hommes des plus dangereux qui s'en prend aux Sables Ombragés. Il dirige les pillards d'un poing ferme.}
-{16702}{}{C'est au Sud-Ouest, à 4 ou 6 jours d'ici. On fait des bonnes affaires avec eux parfois mais la plupart du temps ils essaient de nous rouler.}
+{16700}{}{Ce sont des hors-la-loi qui prÃ©tendent que leur groupe existe depuis belle lurette.}
+{16701}{}{C'est le chef des Khans. C'est un des hommes des plus dangereux qui s'en prend aux Sables OmbragÃ©s. Il dirige les pillards d'un poing ferme.}
+{16702}{}{C'est au Sud-Ouest, Ã  4 ou 6 jours d'ici. On fait des bonnes affaires avec eux parfois mais la plupart du temps ils essaient de nous rouler.}
 {16703}{}{C'est ici.}
-{16704}{}{Bien plus au Sud que Dépôtville. Le Centre est la plus grande ville dont j'aie entendu parler. Y'a bien au moins un millier d'habitants.}
-{16705}{}{Désolé, je ne sais pas.}
-{16706}{}{C'est la fille d'Aradesh. Elle nous commandera peut-être un jour mais faut qu'elle apprenne à se contrôler !}
-{16707}{}{C'est le chef de notre communauté. Et un vrai héros. Tu le trouveras sûrement à l'hôtel de ville.}
-{16708}{}{Il travaille avec Aradesh à notre sécurité.}
+{16704}{}{Bien plus au Sud que DÃ©pÃ´tville. Le Centre est la plus grande ville dont j'aie entendu parler. Y'a bien au moins un millier d'habitants.}
+{16705}{}{DÃ©solÃ©, je ne sais pas.}
+{16706}{}{C'est la fille d'Aradesh. Elle nous commandera peut-Ãªtre un jour mais faut qu'elle apprenne Ã  se contrÃ´ler !}
+{16707}{}{C'est le chef de notre communautÃ©. Et un vrai hÃ©ros. Tu le trouveras sÃ»rement Ã  l'hÃ´tel de ville.}
+{16708}{}{Il travaille avec Aradesh Ã  notre sÃ©curitÃ©.}
 {16709}{}{Notre docteur. Va le voir en cas de besoin.}
 {17800}{}{Adytum}
 {17801}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{17802}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{17802}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {17803}{}{Les Eventreurs|Eventreurs|Eventreur}
 {17804}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {17805}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {17806}{}{The Hub}
-{17807}{}{Dépôtville}
+{17807}{}{DÃ©pÃ´tville}
 {17808}{}{Water Chip}
 {17809}{}{Magasin}
 {17810}{}{Zimmerman}
-{17811}{}{Nécropolis}
+{17811}{}{NÃ©cropolis}
 {17812}{}{The Glow}
-{17813}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
+{17813}{}{RÃ©gulateurs|RÃ©gulateur|Regulateurs|Regulateur|Police|Force de police}
 {17814}{}{Fouineurs|Fouineur|Fouines|Fouine}
-{17815}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
-{17816}{}{Cimetière de L.A.}
+{17815}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
+{17816}{}{CimetiÃ¨re de L.A.}
 {17817}{}{L.A. Boneyard}
 {17818}{}{}
 {17819}{}{}
@@ -1788,38 +1788,38 @@
 {17900}{}{C'est ici.}
 {17901}{}{Ils vivent au Nord d'ici.}
 {17902}{}{C'est au Sud d'ici.}
-{17903}{}{Ils sont à l'Ouest.}
-{17904}{}{Ils sont à l'Est.}
+{17903}{}{Ils sont Ã  l'Ouest.}
+{17904}{}{Ils sont Ã  l'Est.}
 {17905}{}{Ils sont au Nord, plus loin que les Disciples.}
 {17906}{}{Nous faisons du commerce avec eux.}
-{17907}{}{N'est-ce pas une ville située au Nord d'ici ?}
+{17907}{}{N'est-ce pas une ville situÃ©e au Nord d'ici ?}
 {17908}{}{Quoi ?}
-{17909}{}{Le magasin de Tine est souterrain. Il se trouve près de la porte.}
+{17909}{}{Le magasin de Tine est souterrain. Il se trouve prÃ¨s de la porte.}
 {17910}{}{C'est le maire.}
-{17911}{}{J'ai entendu dire que ça se trouvait à l'Est.}
+{17911}{}{J'ai entendu dire que Ã§a se trouvait Ã  l'Est.}
 {17912}{}{C'est un mythe.}
-{17913}{}{Ils nous protègent.}
-{17914}{}{Ils sortent pour récupérer des trucs.}
-{17915}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
-{17916}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
-{17917}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
+{17913}{}{Ils nous protÃ¨gent.}
+{17914}{}{Ils sortent pour rÃ©cupÃ©rer des trucs.}
+{17915}{}{T'es con ou quoi ? Le CimetiÃ¨re de L.A. c'est ici ; t'es dedans mec.}
+{17916}{}{T'es con ou quoi ? Le CimetiÃ¨re de L.A. c'est ici ; t'es dedans mec.}
+{17917}{}{T'es con ou quoi ? Le CimetiÃ¨re de L.A. c'est ici ; t'es dedans mec.}
 {18000}{}{Adytum}
 {18001}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{18002}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18002}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {18003}{}{Les Eventreurs|Eventreurs|Eventreur}
 {18004}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {18005}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18006}{}{The Hub}
-{18007}{}{Dépôtville}
+{18007}{}{DÃ©pÃ´tville}
 {18008}{}{Water Chip}
 {18009}{}{Magasin}
 {18010}{}{Zimmerman}
-{18011}{}{Nécropolis}
+{18011}{}{NÃ©cropolis}
 {18012}{}{The Glow}
-{18013}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
+{18013}{}{RÃ©gulateurs|RÃ©gulateur|Regulateurs|Regulateur|Police|Force de police}
 {18014}{}{Fouineurs|Fouineur|Fouines|Fouine}
-{18015}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
-{18016}{}{Cimetière de L.A.}
+{18015}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
+{18016}{}{CimetiÃ¨re de L.A.}
 {18017}{}{L.A. Boneyard}
 {18018}{}{}
 {18019}{}{}
@@ -1903,41 +1903,41 @@
 {18097}{}{}
 {18098}{}{}
 {18099}{}{}
-{18100}{}{T'es au Sanctuaire là, étranger.}
-{18101}{}{Les Disciples vivent dans une vieille bibliothèque, juste au Nord. Ils prêchent la tolérance et la paix.}
-{18102}{}{La Cathédrale se trouve vers le Sud, près de la baie. Les Enfants pratiquent une religion pacifique.}
-{18103}{}{Ils se trouvent à l'Ouest. Ils sont mauvais et ont beaucoup de pièges.}
-{18104}{}{Ils se trouvent à l'Est. Ils se servent d'espèces de couteaux high tech.}
+{18100}{}{T'es au Sanctuaire lÃ , Ã©tranger.}
+{18101}{}{Les Disciples vivent dans une vieille bibliothÃ¨que, juste au Nord. Ils prÃªchent la tolÃ©rance et la paix.}
+{18102}{}{La CathÃ©drale se trouve vers le Sud, prÃ¨s de la baie. Les Enfants pratiquent une religion pacifique.}
+{18103}{}{Ils se trouvent Ã  l'Ouest. Ils sont mauvais et ont beaucoup de piÃ¨ges.}
+{18104}{}{Ils se trouvent Ã  l'Est. Ils se servent d'espÃ¨ces de couteaux high tech.}
 {18105}{}{Ils sont vers le Nord, plus loin que les Disciples. Ils vendent des armes aux gangs.}
 {18106}{}{On fait du commerce avec eux. A ma connaissance, c'est la plus grande ville.}
 {18107}{}{C'est une petite ville au Nord-Est d'ici.}
 {18108}{}{Jamais entendu parler.}
-{18109}{}{Le magasin de Tine est sous terre, près de l'entrée. Il peut te vendre pas mal de choses.}
+{18109}{}{Le magasin de Tine est sous terre, prÃ¨s de l'entrÃ©e. Il peut te vendre pas mal de choses.}
 {18110}{}{C'est le maire. Il fait du bon boulot.}
-{18111}{}{C'est une cité des morts, à plusieurs jours vers l'Est.}
-{18112}{}{Il paraît que c'est loin vers le Sud.}
-{18113}{}{Ils nous protègent des bandes et font régner la paix.}
+{18111}{}{C'est une citÃ© des morts, Ã  plusieurs jours vers l'Est.}
+{18112}{}{Il paraÃ®t que c'est loin vers le Sud.}
+{18113}{}{Ils nous protÃ¨gent des bandes et font rÃ©gner la paix.}
 {18114}{}{Ils sortent quand ils ont besoin de quelque chose.}
-{18115}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
-{18116}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
-{18117}{}{T'es con ou quoi ? Le Cimetière de L.A. c'est ici ; t'es dedans mec.}
+{18115}{}{T'es con ou quoi ? Le CimetiÃ¨re de L.A. c'est ici ; t'es dedans mec.}
+{18116}{}{T'es con ou quoi ? Le CimetiÃ¨re de L.A. c'est ici ; t'es dedans mec.}
+{18117}{}{T'es con ou quoi ? Le CimetiÃ¨re de L.A. c'est ici ; t'es dedans mec.}
 {18200}{}{Adytum}
 {18201}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{18202}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18202}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {18203}{}{Les Eventreurs|Eventreurs|Eventreur}
 {18204}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {18205}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18206}{}{The Hub}
-{18207}{}{Dépôtville}
+{18207}{}{DÃ©pÃ´tville}
 {18208}{}{Water Chip}
 {18209}{}{Magasin}
 {18210}{}{Zimmerman}
-{18211}{}{Nécropolis}
+{18211}{}{NÃ©cropolis}
 {18212}{}{The Glow}
-{18213}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
+{18213}{}{RÃ©gulateurs|RÃ©gulateur|Regulateurs|Regulateur|Police|Force de police}
 {18214}{}{Fouineurs|Fouineur|Fouines|Fouine}
-{18215}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
-{18216}{}{Cimetière de L.A.}
+{18215}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
+{18216}{}{CimetiÃ¨re de L.A.}
 {18217}{}{L.A. Boneyard}
 {18218}{}{}
 {18219}{}{}
@@ -2022,34 +2022,34 @@
 {18298}{}{}
 {18299}{}{}
 {18300}{}{Nous sommes les descendants d'un ancien Abri qui se trouvait autrefois au Sud de la ville.}
-{18301}{}{Les Disciples sont des gens savants et pacifiques. Ils vivent dans une vieille bibliothèque, au Nord d'ici.}
-{18302}{}{Les Enfants vénèrent un mystérieux Dieu des Ténèbres. Ils ont l'air inoffensif, mais leur religion n'est pas orthodoxe ! La Cathédrale se trouve au Sud d'ici.}
-{18303}{}{Les Eventreurs sont tous des consanguins. Ils ont une sorte de forteresse entourée de pièges où les prisonniers sont torturés et mis à mort.}
-{18304}{}{Les Ecorcheurs sont connus pour leurs vibro-lames. Ce sont les ennemis jurés des Eventreurs. Leur chef est une femme nommée Razor.}
-{18305}{}{Avant, ils formaient un gang, mais ils sont maintenant installés dans un entrepôt, au Nord, pour vendre des armes.}
-{18306}{}{Le Centre est le pivot commercial. En fait, ils ont des sociétés qui fabriquent des marchandises. Ils sont à l'Est d'ici.}
-{18307}{}{Dépôtville, c'est une ville de taille moyenne située à l'Est, juste au Nord du centre.}
+{18301}{}{Les Disciples sont des gens savants et pacifiques. Ils vivent dans une vieille bibliothÃ¨que, au Nord d'ici.}
+{18302}{}{Les Enfants vÃ©nÃ¨rent un mystÃ©rieux Dieu des TÃ©nÃ¨bres. Ils ont l'air inoffensif, mais leur religion n'est pas orthodoxe ! La CathÃ©drale se trouve au Sud d'ici.}
+{18303}{}{Les Eventreurs sont tous des consanguins. Ils ont une sorte de forteresse entourÃ©e de piÃ¨ges oÃ¹ les prisonniers sont torturÃ©s et mis Ã  mort.}
+{18304}{}{Les Ecorcheurs sont connus pour leurs vibro-lames. Ce sont les ennemis jurÃ©s des Eventreurs. Leur chef est une femme nommÃ©e Razor.}
+{18305}{}{Avant, ils formaient un gang, mais ils sont maintenant installÃ©s dans un entrepÃ´t, au Nord, pour vendre des armes.}
+{18306}{}{Le Centre est le pivot commercial. En fait, ils ont des sociÃ©tÃ©s qui fabriquent des marchandises. Ils sont Ã  l'Est d'ici.}
+{18307}{}{DÃ©pÃ´tville, c'est une ville de taille moyenne situÃ©e Ã  l'Est, juste au Nord du centre.}
 {18308}{}{Je regrette, je peux rien faire pour toi.}
-{18309}{}{Tine tient le grand magasin près de l'entrée. Il peut te vendre des armes et ce qu'il faut pour voyager.}
-{18310}{}{Jon est notre maire. Il passe des accords commerciaux, régit la politique et délègue ses responsabilités aux Régulateurs et aux Fouineurs.}
-{18311}{}{La cité des morts ? On dit que c'est un lieu habité par d'étranges cannibales, complètement à l'Est. A ta place, je m'y risquerais pas.}
+{18309}{}{Tine tient le grand magasin prÃ¨s de l'entrÃ©e. Il peut te vendre des armes et ce qu'il faut pour voyager.}
+{18310}{}{Jon est notre maire. Il passe des accords commerciaux, rÃ©git la politique et dÃ©lÃ¨gue ses responsabilitÃ©s aux RÃ©gulateurs et aux Fouineurs.}
+{18311}{}{La citÃ© des morts ? On dit que c'est un lieu habitÃ© par d'Ã©tranges cannibales, complÃ¨tement Ã  l'Est. A ta place, je m'y risquerais pas.}
 {18312}{}{A ce qu'on m'a dit, c'est un grand endroit radioactif, tout au Sud.}
-{18313}{}{C'est la police du Sanctuaire. Ils nous protègent des gangs. Caleb en est le chef.}
-{18314}{}{Les Fouineurs sont chargés d'explorer le Cimetière à la recherche d'équipements précieux. Ils sont commandés par Sammael.}
-{18315}{}{Le Cimetière de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du Cimetière.}
-{18316}{}{Le Cimetière de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du Cimetière.}
-{18317}{}{Le Cimetière de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du Cimetière.}
+{18313}{}{C'est la police du Sanctuaire. Ils nous protÃ¨gent des gangs. Caleb en est le chef.}
+{18314}{}{Les Fouineurs sont chargÃ©s d'explorer le CimetiÃ¨re Ã  la recherche d'Ã©quipements prÃ©cieux. Ils sont commandÃ©s par Sammael.}
+{18315}{}{Le CimetiÃ¨re de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du CimetiÃ¨re.}
+{18316}{}{Le CimetiÃ¨re de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du CimetiÃ¨re.}
+{18317}{}{Le CimetiÃ¨re de Los Angeles est ce qui reste de l'ancienne ville de Los Angeles. On se trouve au milieu du CimetiÃ¨re.}
 {18400}{}{Adytum}
 {18401}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{18402}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18402}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {18403}{}{Les Eventreurs|Eventreurs|Eventreur}
 {18404}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {18405}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18406}{}{The Hub}
-{18407}{}{Dépôtville}
+{18407}{}{DÃ©pÃ´tville}
 {18408}{}{Water Chip}
 {18409}{}{Nicole}
-{18410}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{18410}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {18411}{}{}
 {18412}{}{}
 {18413}{}{}
@@ -2141,7 +2141,7 @@
 {18499}{}{}
 {18500}{}{C'est un village au Sud d'ici.}
 {18501}{}{Nous sommes les Disciples de l'Apocalypse.}
-{18502}{}{C'est un culte, vers le Sud, après le Sanctuaire.}
+{18502}{}{C'est un culte, vers le Sud, aprÃ¨s le Sanctuaire.}
 {18503}{}{Un gang vers l'Ouest.}
 {18504}{}{Un gang vers l'Est.}
 {18505}{}{Un gang vers le Nord.}
@@ -2152,15 +2152,15 @@
 {18510}{}{C'est ici.}
 {18600}{}{Adytum}
 {18601}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{18602}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18602}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {18603}{}{Les Eventreurs|Eventreurs|Eventreur}
 {18604}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {18605}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18606}{}{The Hub}
-{18607}{}{Dépôtville}
+{18607}{}{DÃ©pÃ´tville}
 {18608}{}{Water Chip}
 {18609}{}{Nicole}
-{18610}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{18610}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {18611}{}{}
 {18612}{}{}
 {18613}{}{}
@@ -2251,27 +2251,27 @@
 {18698}{}{}
 {18699}{}{}
 {18700}{}{Une petite ville vers le Sud. Ca leur arrive de nous rendre visite.}
-{18701}{}{Nous sommes les Disciples de l'Apocalypse. On s'appelle comme ça parce qu'on arrive après la tempête de la guerre pour apporter le baume de la paix.}
-{18702}{}{Un culte étrange, au Sud du Sanctuaire et du reste du Cimetière. Nicole dit qu'ils mijotent quelque chose.}
-{18703}{}{Un gang super-violent, à l'Ouest d'ici.}
-{18704}{}{Un gang qui sévit vers l'Est. Ils utilisent des vibro-lames.}
+{18701}{}{Nous sommes les Disciples de l'Apocalypse. On s'appelle comme Ã§a parce qu'on arrive aprÃ¨s la tempÃªte de la guerre pour apporter le baume de la paix.}
+{18702}{}{Un culte Ã©trange, au Sud du Sanctuaire et du reste du CimetiÃ¨re. Nicole dit qu'ils mijotent quelque chose.}
+{18703}{}{Un gang super-violent, Ã  l'Ouest d'ici.}
+{18704}{}{Un gang qui sÃ©vit vers l'Est. Ils utilisent des vibro-lames.}
 {18705}{}{Un gang venu du Centre et qui vend des fusils. Ils sont au Nord d'ici.}
 {18706}{}{Le Centre est une grande ville marchande, vers l'Est.}
-{18707}{}{Dépôtville est une petite ville, juste au Nord du Centre.}
-{18708}{}{Pour ça, je peux rien pour toi.}
+{18707}{}{DÃ©pÃ´tville est une petite ville, juste au Nord du Centre.}
+{18708}{}{Pour Ã§a, je peux rien pour toi.}
 {18709}{}{C'est notre chef. Son ambition est de restaurer la paix dans un monde en discorde.}
-{18710}{}{Ici, c'est le Cimetière de L'Os Angeles, les restes de l'ancienne ville de Los Angeles.}
+{18710}{}{Ici, c'est le CimetiÃ¨re de L'Os Angeles, les restes de l'ancienne ville de Los Angeles.}
 {18800}{}{Adytum}
 {18801}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{18802}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{18802}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {18803}{}{Les Eventreurs|Eventreurs|Eventreur}
 {18804}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {18805}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {18806}{}{The Hub}
-{18807}{}{Dépôtville}
+{18807}{}{DÃ©pÃ´tville}
 {18808}{}{Water Chip}
 {18809}{}{Nicole}
-{18810}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{18810}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {18811}{}{}
 {18812}{}{}
 {18813}{}{}
@@ -2361,25 +2361,25 @@
 {18897}{}{}
 {18898}{}{}
 {18899}{}{}
-{18900}{}{Une petite ville vers le Sud. De braves gens, bien qu'un peu paranoïaques. Y'en a qui travaillent avec nous de temps en temps.}
-{18901}{}{Nous sommes les Disciples de l'Apocalypse. Notre mission est de rapporter la paix et le savoir au monde, et de veiller à ce que les armes de guerre ne lacèrent plus jamais la terre.}
-{18902}{}{La Cathédrale est un grand bâtiment au Sud du Cimetière. Les Enfants vénèrent un dieu sombre et maléfique. Il faut les arrêter avant qu'ils ne propagent leur religion par la violence.}
-{18903}{}{Des consanguins et des chacals. Ils attaquent tout ce qui bouge. Ils vivent à l'Ouest d'ici, dans un forteresse entourée de pièges.}
-{18904}{}{Un groupe particulièrement dangereux qui vit vers l'Est, et qui combat avec des vibro-lames. Son chef, Razor, vient du Centre; elle a fait d'eux une famille cruelle.}
-{18905}{}{C'est un gang qui vit dans un entrepôt, vers le Nord, à l'intérieur d'un fossé rempli de boue radioactive. Ils vendent des fusils aux autres bandes.}
-{18906}{}{Le Centre est une grande ville mercantile, à l'Est d'ici. Ils expédient des caravanes vers un tas d'endroits, y compris le Sanctuaire.}
-{18907}{}{C'est une petite ville au Nord du Centre. Il paraît que c'est un lieu accueillant pour le voyageur fatigué.}
-{18908}{}{J'ai bien lu des choses sur la technologie des Abris, mais ça me dépasse un peu.}
-{18909}{}{Nicole est notre chef. Son ambition est d'apporter la paix - par la clairvoyance et la spiritualité - dans un monde brisé par la guerre.}
-{18910}{}{Ici c'est le coeur du Cimetière de L'Os Angeles, qui doit son nom à l'ancienne ville de Los Angeles et aux squelettes qui jonchaient cet endroit après la Bombe.}
-{19000}{}{Maître}
+{18900}{}{Une petite ville vers le Sud. De braves gens, bien qu'un peu paranoÃ¯aques. Y'en a qui travaillent avec nous de temps en temps.}
+{18901}{}{Nous sommes les Disciples de l'Apocalypse. Notre mission est de rapporter la paix et le savoir au monde, et de veiller Ã  ce que les armes de guerre ne lacÃ¨rent plus jamais la terre.}
+{18902}{}{La CathÃ©drale est un grand bÃ¢timent au Sud du CimetiÃ¨re. Les Enfants vÃ©nÃ¨rent un dieu sombre et malÃ©fique. Il faut les arrÃªter avant qu'ils ne propagent leur religion par la violence.}
+{18903}{}{Des consanguins et des chacals. Ils attaquent tout ce qui bouge. Ils vivent Ã  l'Ouest d'ici, dans un forteresse entourÃ©e de piÃ¨ges.}
+{18904}{}{Un groupe particuliÃ¨rement dangereux qui vit vers l'Est, et qui combat avec des vibro-lames. Son chef, Razor, vient du Centre; elle a fait d'eux une famille cruelle.}
+{18905}{}{C'est un gang qui vit dans un entrepÃ´t, vers le Nord, Ã  l'intÃ©rieur d'un fossÃ© rempli de boue radioactive. Ils vendent des fusils aux autres bandes.}
+{18906}{}{Le Centre est une grande ville mercantile, Ã  l'Est d'ici. Ils expÃ©dient des caravanes vers un tas d'endroits, y compris le Sanctuaire.}
+{18907}{}{C'est une petite ville au Nord du Centre. Il paraÃ®t que c'est un lieu accueillant pour le voyageur fatiguÃ©.}
+{18908}{}{J'ai bien lu des choses sur la technologie des Abris, mais Ã§a me dÃ©passe un peu.}
+{18909}{}{Nicole est notre chef. Son ambition est d'apporter la paix - par la clairvoyance et la spiritualitÃ© - dans un monde brisÃ© par la guerre.}
+{18910}{}{Ici c'est le coeur du CimetiÃ¨re de L'Os Angeles, qui doit son nom Ã  l'ancienne ville de Los Angeles et aux squelettes qui jonchaient cet endroit aprÃ¨s la Bombe.}
+{19000}{}{MaÃ®tre}
 {19001}{}{Lieutenant}
 {19002}{}{Children of the Cathedral}
 {19003}{}{Followers of the Apocalypse}
 {19004}{}{Nightkin}
 {19005}{}{Super Mutants}
-{19006}{}{Médiums}
-{19007}{}{Expériences}
+{19006}{}{MÃ©diums}
+{19007}{}{ExpÃ©riences}
 {19008}{}{Water Chip}
 {19009}{}{}
 {19010}{}{}
@@ -2481,14 +2481,14 @@
 {19106}{}{You are too foolish to know of them.}
 {19107}{}{You are not authorized to know of them.}
 {19108}{}{Do not bother me about toys.}
-{19600}{}{Maître}
+{19600}{}{MaÃ®tre}
 {19601}{}{Lieutenant}
 {19602}{}{Children of the Cathedral}
 {19603}{}{Followers of the Apocalypse}
 {19604}{}{Nightkin}
 {19605}{}{Super Mutants}
-{19606}{}{Médiums}
-{19607}{}{Expériences}
+{19606}{}{MÃ©diums}
+{19607}{}{ExpÃ©riences}
 {19608}{}{Water Chip}
 {19609}{}{}
 {19610}{}{}
@@ -2590,14 +2590,14 @@
 {19706}{}{You are too foolish to know of them.}
 {19707}{}{You are not authorized to know of them.}
 {19708}{}{Do not bother me about toys.}
-{20200}{}{Maître}
+{20200}{}{MaÃ®tre}
 {20201}{}{Lieutenant}
 {20202}{}{Children of the Cathedral}
 {20203}{}{Followers of the Apocalypse}
 {20204}{}{Nightkin}
 {20205}{}{Super Mutants}
-{20206}{}{Médiums}
-{20207}{}{Expériences}
+{20206}{}{MÃ©diums}
+{20207}{}{ExpÃ©riences}
 {20208}{}{Water Chip}
 {20209}{}{}
 {20210}{}{}
@@ -2699,14 +2699,14 @@
 {20306}{}{You are too foolish to know of them.}
 {20307}{}{You are not authorized to know of them.}
 {20308}{}{Do not bother me about toys.}
-{20800}{}{Maître}
+{20800}{}{MaÃ®tre}
 {20801}{}{Lieutenant}
 {20802}{}{Children of the Cathedral}
 {20803}{}{Followers of the Apocalypse}
 {20804}{}{Nightkin}
 {20805}{}{Super Mutants}
-{20806}{}{Médiums}
-{20807}{}{Expériences}
+{20806}{}{MÃ©diums}
+{20807}{}{ExpÃ©riences}
 {20808}{}{Water Chip}
 {20809}{}{}
 {20810}{}{}
@@ -2808,14 +2808,14 @@
 {20906}{}{You are too foolish to know of them.}
 {20907}{}{You are not authorized to know of them.}
 {20908}{}{Do not bother me about toys.}
-{21400}{}{Maître}
+{21400}{}{MaÃ®tre}
 {21401}{}{Lieutenant}
 {21402}{}{Children of the Cathedral}
 {21403}{}{Followers of the Apocalypse}
 {21404}{}{Nightkin}
 {21405}{}{Super Mutants}
-{21406}{}{Médiums}
-{21407}{}{Expériences}
+{21406}{}{MÃ©diums}
+{21407}{}{ExpÃ©riences}
 {21408}{}{Water Chip}
 {21409}{}{}
 {21410}{}{}
@@ -2922,13 +2922,13 @@
 {22602}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
 {22603}{}{Abri13}
 {22604}{}{Children of the Cathedral}
-{22605}{}{Nécropolis}
+{22605}{}{NÃ©cropolis}
 {22606}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
-{22607}{}{Dépôtville}
-{22608}{}{Confrérie de l'Acier}
-{22609}{}{Sables Ombragés}
-{22610}{}{Cimetière de L.A.}
-{22611}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
+{22607}{}{DÃ©pÃ´tville}
+{22608}{}{ConfrÃ©rie de l'Acier}
+{22609}{}{Sables OmbragÃ©s}
+{22610}{}{CimetiÃ¨re de L.A.}
+{22611}{}{Tour|Tour d'eau|ChÃ¢teau d'eau|ChÃ¢teau|Chateau|Eau}
 {22612}{}{Old Town}
 {22613}{}{Downtown}
 {22614}{}{Les Hauteurs|Hauteurs|Hauteur}
@@ -3017,35 +3017,35 @@
 {22697}{}{}
 {22698}{}{}
 {22699}{}{}
-{22700}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
-{22701}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
-{22702}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
-{22703}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
-{22704}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
-{22705}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
-{22706}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
-{22707}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
-{22708}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
-{22709}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
-{22710}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
-{22711}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
-{22712}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
-{22713}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
-{22714}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
-{22715}{}{Une légende pour intimider les gosses.}
+{22700}{}{C'est la police, dirigÃ©e par le ShÃ©rif Greene, qui fait rÃ©gner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gÃªnante qu'utile.}
+{22701}{}{Ils contrÃ´lent toute l'eau du Centre. Ils se sont emparÃ©s des chÃ¢teaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{22702}{}{Un groupe de marchands fÃªlÃ©s prÃªts Ã  tout risquer pour dominer.}
+{22703}{}{Un groupe de marchands honnÃªtes qui offrent des prix corrects sans prendre de risques.}
+{22704}{}{Un culte religieux qui vÃ©nÃ¨re un soi-disant MaÃ®tre. Ils dirigent l'hÃ´pital, au Sud-Est de la ville, prÃ¨s des Marchands d'Eau.}
+{22705}{}{Un endroit terrifiant. Il serait hantÃ© par des humains mutÃ©s qui se nourrissent de la cervelle des gens normaux. C'est quelque part Ã  l'Est du Centre.}
+{22706}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a Ã©tÃ© frappÃ© par une tÃªte nuclÃ©aire.}
+{22707}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont Ã  couteaux tirÃ©s.}
+{22708}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens Ã  vous donner froid dans le dos.}
+{22709}{}{Une ville primitive tout Ã  fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{22710}{}{Cet endroit infestÃ© par les rats est dÃ©vastÃ© par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{22711}{}{C'est lÃ  qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrÃ´lent les chÃ¢teaux d'eau.}
+{22712}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement frÃ©quentÃ© par les skags et les mutants. Il paraÃ®t qu'il y a aussi un repaire de voleurs.}
+{22713}{}{C'est lÃ  que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis PrÃªteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{22714}{}{C'est lÃ  qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{22715}{}{Une lÃ©gende pour intimider les gosses.}
 {22716}{}{Je vois pas de quoi tu parles.}
 {23800}{}{Police}
 {23801}{}{Marchands d'Eau|Marchands|Marchand|Eau}
 {23802}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
 {23803}{}{Abri13}
 {23804}{}{Children of the Cathedral}
-{23805}{}{Nécropolis}
+{23805}{}{NÃ©cropolis}
 {23806}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
-{23807}{}{Dépôtville}
-{23808}{}{Confrérie de l'Acier}
-{23809}{}{Sables Ombragés}
-{23810}{}{Cimetière de L.A.}
-{23811}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
+{23807}{}{DÃ©pÃ´tville}
+{23808}{}{ConfrÃ©rie de l'Acier}
+{23809}{}{Sables OmbragÃ©s}
+{23810}{}{CimetiÃ¨re de L.A.}
+{23811}{}{Tour|Tour d'eau|ChÃ¢teau d'eau|ChÃ¢teau|Chateau|Eau}
 {23812}{}{Old Town}
 {23813}{}{Downtown}
 {23814}{}{Les Hauteurs|Hauteurs|Hauteur}
@@ -3134,35 +3134,35 @@
 {23897}{}{}
 {23898}{}{}
 {23899}{}{}
-{23900}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
-{23901}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
-{23902}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
-{23903}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
-{23904}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
-{23905}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
-{23906}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
-{23907}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
-{23908}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
-{23909}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
-{23910}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
-{23911}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
-{23912}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
-{23913}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
-{23914}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
-{23915}{}{Une légende pour intimider les gosses.}
+{23900}{}{C'est la police, dirigÃ©e par le ShÃ©rif Greene, qui fait rÃ©gner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gÃªnante qu'utile.}
+{23901}{}{Ils contrÃ´lent toute l'eau du Centre. Ils se sont emparÃ©s des chÃ¢teaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{23902}{}{Un groupe de marchands fÃªlÃ©s prÃªts Ã  tout risquer pour dominer.}
+{23903}{}{Un groupe de marchands honnÃªtes qui offrent des prix corrects sans prendre de risques.}
+{23904}{}{Un culte religieux qui vÃ©nÃ¨re un soi-disant MaÃ®tre. Ils dirigent l'hÃ´pital, au Sud-Est de la ville, prÃ¨s des Marchands d'Eau.}
+{23905}{}{Un endroit terrifiant. Il serait hantÃ© par des humains mutÃ©s qui se nourrissent de la cervelle des gens normaux. C'est quelque part Ã  l'Est du Centre.}
+{23906}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a Ã©tÃ© frappÃ© par une tÃªte nuclÃ©aire.}
+{23907}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont Ã  couteaux tirÃ©s.}
+{23908}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens Ã  vous donner froid dans le dos.}
+{23909}{}{Une ville primitive tout Ã  fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{23910}{}{Cet endroit infestÃ© par les rats est dÃ©vastÃ© par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{23911}{}{C'est lÃ  qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrÃ´lent les chÃ¢teaux d'eau.}
+{23912}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement frÃ©quentÃ© par les skags et les mutants. Il paraÃ®t qu'il y a aussi un repaire de voleurs.}
+{23913}{}{C'est lÃ  que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis PrÃªteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{23914}{}{C'est lÃ  qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{23915}{}{Une lÃ©gende pour intimider les gosses.}
 {23916}{}{Je vois pas de quoi tu parles.}
 {24400}{}{Police}
 {24401}{}{Marchands d'Eau|Marchands|Marchand|Eau}
 {24402}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
 {24403}{}{Abri13}
 {24404}{}{Children of the Cathedral}
-{24405}{}{Nécropolis}
+{24405}{}{NÃ©cropolis}
 {24406}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
-{24407}{}{Dépôtville}
-{24408}{}{Confrérie de l'Acier}
-{24409}{}{Sables Ombragés}
-{24410}{}{Cimetière de L.A.}
-{24411}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
+{24407}{}{DÃ©pÃ´tville}
+{24408}{}{ConfrÃ©rie de l'Acier}
+{24409}{}{Sables OmbragÃ©s}
+{24410}{}{CimetiÃ¨re de L.A.}
+{24411}{}{Tour|Tour d'eau|ChÃ¢teau d'eau|ChÃ¢teau|Chateau|Eau}
 {24412}{}{Old Town}
 {24413}{}{Downtown}
 {24414}{}{Les Hauteurs|Hauteurs|Hauteur}
@@ -3251,35 +3251,35 @@
 {24497}{}{}
 {24498}{}{}
 {24499}{}{}
-{24500}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
-{24501}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
-{24502}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
-{24503}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
-{24504}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
-{24505}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
-{24506}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
-{24507}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
-{24508}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
-{24509}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
-{24510}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
-{24511}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
-{24512}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
-{24513}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
-{24514}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
-{24515}{}{Une légende pour intimider les gosses.}
+{24500}{}{C'est la police, dirigÃ©e par le ShÃ©rif Greene, qui fait rÃ©gner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gÃªnante qu'utile.}
+{24501}{}{Ils contrÃ´lent toute l'eau du Centre. Ils se sont emparÃ©s des chÃ¢teaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{24502}{}{Un groupe de marchands fÃªlÃ©s prÃªts Ã  tout risquer pour dominer.}
+{24503}{}{Un groupe de marchands honnÃªtes qui offrent des prix corrects sans prendre de risques.}
+{24504}{}{Un culte religieux qui vÃ©nÃ¨re un soi-disant MaÃ®tre. Ils dirigent l'hÃ´pital, au Sud-Est de la ville, prÃ¨s des Marchands d'Eau.}
+{24505}{}{Un endroit terrifiant. Il serait hantÃ© par des humains mutÃ©s qui se nourrissent de la cervelle des gens normaux. C'est quelque part Ã  l'Est du Centre.}
+{24506}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a Ã©tÃ© frappÃ© par une tÃªte nuclÃ©aire.}
+{24507}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont Ã  couteaux tirÃ©s.}
+{24508}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens Ã  vous donner froid dans le dos.}
+{24509}{}{Une ville primitive tout Ã  fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{24510}{}{Cet endroit infestÃ© par les rats est dÃ©vastÃ© par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{24511}{}{C'est lÃ  qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrÃ´lent les chÃ¢teaux d'eau.}
+{24512}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement frÃ©quentÃ© par les skags et les mutants. Il paraÃ®t qu'il y a aussi un repaire de voleurs.}
+{24513}{}{C'est lÃ  que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis PrÃªteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{24514}{}{C'est lÃ  qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{24515}{}{Une lÃ©gende pour intimider les gosses.}
 {24516}{}{Je vois pas de quoi tu parles.}
 {25000}{}{Police}
 {25001}{}{Marchands d'Eau|Marchands|Marchand|Eau}
 {25002}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
 {25003}{}{Abri13}
 {25004}{}{Children of the Cathedral}
-{25005}{}{Nécropolis}
+{25005}{}{NÃ©cropolis}
 {25006}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
-{25007}{}{Dépôtville}
-{25008}{}{Confrérie de l'Acier}
-{25009}{}{Sables Ombragés}
-{25010}{}{Cimetière de L.A.}
-{25011}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
+{25007}{}{DÃ©pÃ´tville}
+{25008}{}{ConfrÃ©rie de l'Acier}
+{25009}{}{Sables OmbragÃ©s}
+{25010}{}{CimetiÃ¨re de L.A.}
+{25011}{}{Tour|Tour d'eau|ChÃ¢teau d'eau|ChÃ¢teau|Chateau|Eau}
 {25012}{}{Old Town}
 {25013}{}{Downtown}
 {25014}{}{Les Hauteurs|Hauteurs|Hauteur}
@@ -3368,35 +3368,35 @@
 {25097}{}{}
 {25098}{}{}
 {25099}{}{}
-{25100}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
-{25101}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
-{25102}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
-{25103}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
-{25104}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
-{25105}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
-{25106}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
-{25107}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
-{25108}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
-{25109}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
-{25110}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
-{25111}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
-{25112}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
-{25113}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
-{25114}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
-{25115}{}{Une légende pour intimider les gosses.}
+{25100}{}{C'est la police, dirigÃ©e par le ShÃ©rif Greene, qui fait rÃ©gner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gÃªnante qu'utile.}
+{25101}{}{Ils contrÃ´lent toute l'eau du Centre. Ils se sont emparÃ©s des chÃ¢teaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{25102}{}{Un groupe de marchands fÃªlÃ©s prÃªts Ã  tout risquer pour dominer.}
+{25103}{}{Un groupe de marchands honnÃªtes qui offrent des prix corrects sans prendre de risques.}
+{25104}{}{Un culte religieux qui vÃ©nÃ¨re un soi-disant MaÃ®tre. Ils dirigent l'hÃ´pital, au Sud-Est de la ville, prÃ¨s des Marchands d'Eau.}
+{25105}{}{Un endroit terrifiant. Il serait hantÃ© par des humains mutÃ©s qui se nourrissent de la cervelle des gens normaux. C'est quelque part Ã  l'Est du Centre.}
+{25106}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a Ã©tÃ© frappÃ© par une tÃªte nuclÃ©aire.}
+{25107}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont Ã  couteaux tirÃ©s.}
+{25108}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens Ã  vous donner froid dans le dos.}
+{25109}{}{Une ville primitive tout Ã  fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{25110}{}{Cet endroit infestÃ© par les rats est dÃ©vastÃ© par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{25111}{}{C'est lÃ  qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrÃ´lent les chÃ¢teaux d'eau.}
+{25112}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement frÃ©quentÃ© par les skags et les mutants. Il paraÃ®t qu'il y a aussi un repaire de voleurs.}
+{25113}{}{C'est lÃ  que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis PrÃªteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{25114}{}{C'est lÃ  qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{25115}{}{Une lÃ©gende pour intimider les gosses.}
 {25116}{}{Je vois pas de quoi tu parles.}
 {25600}{}{Police}
 {25601}{}{Marchands d'Eau|Marchands|Marchand|Eau}
 {25602}{}{Caravane Ecarlate|Caravane|Ecarlate|Crimson}
 {25603}{}{Abri13}
 {25604}{}{Children of the Cathedral}
-{25605}{}{Nécropolis}
+{25605}{}{NÃ©cropolis}
 {25606}{}{Le Rayon|Rayon|Zone Rouge|Zone|Rouge}
-{25607}{}{Dépôtville}
-{25608}{}{Confrérie de l'Acier}
-{25609}{}{Sables Ombragés}
-{25610}{}{Cimetière de L.A.}
-{25611}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
+{25607}{}{DÃ©pÃ´tville}
+{25608}{}{ConfrÃ©rie de l'Acier}
+{25609}{}{Sables OmbragÃ©s}
+{25610}{}{CimetiÃ¨re de L.A.}
+{25611}{}{Tour|Tour d'eau|ChÃ¢teau d'eau|ChÃ¢teau|Chateau|Eau}
 {25612}{}{Old Town}
 {25613}{}{Downtown}
 {25614}{}{Les Hauteurs|Hauteurs|Hauteur}
@@ -3485,36 +3485,36 @@
 {25697}{}{}
 {25698}{}{}
 {25699}{}{}
-{25700}{}{C'est la police, dirigée par le Shérif Greene, qui fait régner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gênante qu'utile.}
-{25701}{}{Ils contrôlent toute l'eau du Centre. Ils se sont emparés des châteaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
-{25702}{}{Un groupe de marchands fêlés prêts à tout risquer pour dominer.}
-{25703}{}{Un groupe de marchands honnêtes qui offrent des prix corrects sans prendre de risques.}
-{25704}{}{Un culte religieux qui vénère un soi-disant Maître. Ils dirigent l'hôpital, au Sud-Est de la ville, près des Marchands d'Eau.}
-{25705}{}{Un endroit terrifiant. Il serait hanté par des humains mutés qui se nourrissent de la cervelle des gens normaux. C'est quelque part à l'Est du Centre.}
-{25706}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a été frappé par une tête nucléaire.}
-{25707}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont à couteaux tirés.}
-{25708}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens à vous donner froid dans le dos.}
-{25709}{}{Une ville primitive tout à fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
-{25710}{}{Cet endroit infesté par les rats est dévasté par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
-{25711}{}{C'est là qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrôlent les châteaux d'eau.}
-{25712}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement fréquenté par les skags et les mutants. Il paraît qu'il y a aussi un repaire de voleurs.}
-{25713}{}{C'est là que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis Prêteurs et le Faucon Maltais, tous sont dans ce secteur.}
-{25714}{}{C'est là qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
-{25715}{}{Une légende pour intimider les gosses.}
+{25700}{}{C'est la police, dirigÃ©e par le ShÃ©rif Greene, qui fait rÃ©gner la loi et l'ordre au Centre. Y'en a qui la trouvent plus gÃªnante qu'utile.}
+{25701}{}{Ils contrÃ´lent toute l'eau du Centre. Ils se sont emparÃ©s des chÃ¢teaux d'eau et maintenant, les gens doivent leur acheter l'eau.}
+{25702}{}{Un groupe de marchands fÃªlÃ©s prÃªts Ã  tout risquer pour dominer.}
+{25703}{}{Un groupe de marchands honnÃªtes qui offrent des prix corrects sans prendre de risques.}
+{25704}{}{Un culte religieux qui vÃ©nÃ¨re un soi-disant MaÃ®tre. Ils dirigent l'hÃ´pital, au Sud-Est de la ville, prÃ¨s des Marchands d'Eau.}
+{25705}{}{Un endroit terrifiant. Il serait hantÃ© par des humains mutÃ©s qui se nourrissent de la cervelle des gens normaux. C'est quelque part Ã  l'Est du Centre.}
+{25706}{}{On dit qu'il y a un endroit, au Sud-Est d'ici, qui a Ã©tÃ© frappÃ© par une tÃªte nuclÃ©aire.}
+{25707}{}{C'est au Nord d'ici. On fait beaucoup de commerce avec eux. A ce qu'on dit, Killian et Gizmo sont Ã  couteaux tirÃ©s.}
+{25708}{}{C'est au Nord-Ouest d'ici. C'est une bande de fans de la technologie. Des gens Ã  vous donner froid dans le dos.}
+{25709}{}{Une ville primitive tout Ã  fait au Nord d'ici. On sait pas grand-chose d'eux, parce qu'ils n'ont pas assez d'argent pour commercer avec nous.}
+{25710}{}{Cet endroit infestÃ© par les rats est dÃ©vastÃ© par la guerre des gangs. S'il n'y avait pas tout ce commerce entre le Sanctuaire et les Contrebandiers, aucun marchand ne s'y aventurerait.}
+{25711}{}{C'est lÃ  qu'on stocke l'eau pour le Centre. Les Marchands d'Eau contrÃ´lent les chÃ¢teaux d'eau.}
+{25712}{}{La Vieille Ville est au Nord-Est de la ville. C'est seulement frÃ©quentÃ© par les skags et les mutants. Il paraÃ®t qu'il y a aussi un repaire de voleurs.}
+{25713}{}{C'est lÃ  que les marchands font leurs affaires. Le magasin d'armes, l'Armurerie, les Amis PrÃªteurs et le Faucon Maltais, tous sont dans ce secteur.}
+{25714}{}{C'est lÃ  qu'habitent tous les riches marchands. Daren Hightower, le chef des Marchands d'Eau, y a une grosse baraque.}
+{25715}{}{Une lÃ©gende pour intimider les gosses.}
 {25716}{}{Je vois pas de quoi tu parles.}
 {27400}{}{Adytum}
 {27401}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{27402}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{27402}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {27403}{}{Les Eventreurs|Eventreurs|Eventreur}
 {27404}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {27405}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {27406}{}{The Hub}
-{27407}{}{Dépôtville}
+{27407}{}{DÃ©pÃ´tville}
 {27408}{}{Water Chip}
 {27409}{}{Razor}
-{27410}{}{Nécropolis}
+{27410}{}{NÃ©cropolis}
 {27411}{}{The Glow}
-{27412}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{27412}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {27413}{}{}
 {27414}{}{}
 {27415}{}{}
@@ -3602,32 +3602,32 @@
 {27497}{}{}
 {27498}{}{}
 {27499}{}{}
-{27500}{}{Ils sont dans une ville à l'Ouest.}
+{27500}{}{Ils sont dans une ville Ã  l'Ouest.}
 {27501}{}{Une bande de mauviettes.}
-{27502}{}{Des cinglés du bénitier.}
-{27503}{}{Nos ennemis jurés !}
+{27502}{}{Des cinglÃ©s du bÃ©nitier.}
+{27503}{}{Nos ennemis jurÃ©s !}
 {27504}{}{C'est nous !}
 {27505}{}{Ca leur arrive de nous vendre des armes.}
 {27506}{}{Je crois que c'est un centre marchand.}
 {27507}{}{Jamais entendu parler.}
 {27508}{}{Quoi ?}
 {27509}{}{C'est notre chef, la plus grosse emmerdeuse de la ville !}
-{27510}{}{Nécro... quoi ? C'est macabre.}
+{27510}{}{NÃ©cro... quoi ? C'est macabre.}
 {27511}{}{Tu rigoles, non ?}
 {27512}{}{C'est ici.}
 {27600}{}{Adytum}
 {27601}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{27602}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{27602}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {27603}{}{Les Eventreurs|Eventreurs|Eventreur}
 {27604}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {27605}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {27606}{}{The Hub}
-{27607}{}{Dépôtville}
+{27607}{}{DÃ©pÃ´tville}
 {27608}{}{Water Chip}
 {27609}{}{Razor}
-{27610}{}{Nécropolis}
+{27610}{}{NÃ©cropolis}
 {27611}{}{The Glow}
-{27612}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{27612}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {27613}{}{}
 {27614}{}{}
 {27615}{}{}
@@ -3715,32 +3715,32 @@
 {27697}{}{}
 {27698}{}{}
 {27699}{}{}
-{27700}{}{C'est un village de poules mouillées, au Sud-Ouest.}
-{27701}{}{Des pauvres types qui prêchent la paix, à l'Ouest. On les écrabouillerait s'il ne fallait pas aussi s'occuper des Eventreurs.}
-{27702}{}{Des fanas religieux. Inoffensifs et bons à rien !}
-{27703}{}{Nos ennemis jurés, à l'Ouest. Ils vont pas tarder à mourrir !}
-{27704}{}{C'est nous les Ecorcheurs ! N'oublie jamais ça !}
-{27705}{}{Autrefois, c'était un gang, mais ils se sont calmés. Enfin, y'a pas à tortiller, ils vendent de bons fusils.}
+{27700}{}{C'est un village de poules mouillÃ©es, au Sud-Ouest.}
+{27701}{}{Des pauvres types qui prÃªchent la paix, Ã  l'Ouest. On les Ã©crabouillerait s'il ne fallait pas aussi s'occuper des Eventreurs.}
+{27702}{}{Des fanas religieux. Inoffensifs et bons Ã  rien !}
+{27703}{}{Nos ennemis jurÃ©s, Ã  l'Ouest. Ils vont pas tarder Ã  mourrir !}
+{27704}{}{C'est nous les Ecorcheurs ! N'oublie jamais Ã§a !}
+{27705}{}{Autrefois, c'Ã©tait un gang, mais ils se sont calmÃ©s. Enfin, y'a pas Ã  tortiller, ils vendent de bons fusils.}
 {27706}{}{Des marchands.}
 {27707}{}{Je sais que l'endroit existe, mais c'est tout.}
 {27708}{}{Quoi ?}
-{27709}{}{Razor est la plus valeureuse d'entre nous. Elle nous conduira à la victoire.}
+{27709}{}{Razor est la plus valeureuse d'entre nous. Elle nous conduira Ã  la victoire.}
 {27710}{}{C'est une histoire de ville de cannibales, qu'on raconte aux enfants pour les impressionner.}
-{27711}{}{Ca doit être l'endroit où est tombée une tête nucléaire.}
+{27711}{}{Ca doit Ãªtre l'endroit oÃ¹ est tombÃ©e une tÃªte nuclÃ©aire.}
 {27712}{}{C'est ici.}
 {27800}{}{Adytum}
 {27801}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{27802}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{27802}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {27803}{}{Les Eventreurs|Eventreurs|Eventreur}
 {27804}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {27805}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {27806}{}{The Hub}
-{27807}{}{Dépôtville}
+{27807}{}{DÃ©pÃ´tville}
 {27808}{}{Water Chip}
 {27809}{}{Razor}
-{27810}{}{Nécropolis}
+{27810}{}{NÃ©cropolis}
 {27811}{}{The Glow}
-{27812}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{27812}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {27813}{}{}
 {27814}{}{}
 {27815}{}{}
@@ -3828,29 +3828,29 @@
 {27897}{}{}
 {27898}{}{}
 {27899}{}{}
-{27900}{}{T'y trompe pas. Le Sanctuaire a l'air d'un petit village, mais ses Régulateurs ne rigolent pas.}
-{27901}{}{Hum, m'en parle pas ! Trop lâches pour se battre.}
-{27902}{}{Ils pratiquent un culte dans une grande église, au Sud. Ils ont l'air inoffensifs mais c'est quand même un endroit louche.}
+{27900}{}{T'y trompe pas. Le Sanctuaire a l'air d'un petit village, mais ses RÃ©gulateurs ne rigolent pas.}
+{27901}{}{Hum, m'en parle pas ! Trop lÃ¢ches pour se battre.}
+{27902}{}{Ils pratiquent un culte dans une grande Ã©glise, au Sud. Ils ont l'air inoffensifs mais c'est quand mÃªme un endroit louche.}
 {27903}{}{Les Eventreurs, une bande de chiens galeux: tous hargneux, consanguins et idiots.}
-{27904}{}{T'as vu cette lame ? On les fabrique nous-mêmes; chacun la sienne. D'où notre nom.}
-{27905}{}{Ils sont venus du Centre pour se chercher un territoire, et finalement, ils ont décidé de se faire marchands plutôt que guerriers.}
-{27906}{}{C'est une ville commerçante, vers l'Est. Les Marchands viennent parfois ici pour commercer avec le Sanctuaire et les Contrebandiers.}
+{27904}{}{T'as vu cette lame ? On les fabrique nous-mÃªmes; chacun la sienne. D'oÃ¹ notre nom.}
+{27905}{}{Ils sont venus du Centre pour se chercher un territoire, et finalement, ils ont dÃ©cidÃ© de se faire marchands plutÃ´t que guerriers.}
+{27906}{}{C'est une ville commerÃ§ante, vers l'Est. Les Marchands viennent parfois ici pour commercer avec le Sanctuaire et les Contrebandiers.}
 {27907}{}{Je crois que c'est au Nord-Est d'ici. Une petite ville.}
 {27908}{}{Quoi ?}
-{27909}{}{Razor est notre chef et notre championne. J'ai la certitude que grâce à son expérience, nous finirons pas vaincre ces Eventreurs.}
-{27910}{}{Loin à l'Est d'ici. Il paraît qu'il y a des Goules qui mangent de la chair humaine. Je ne voudrais pas me battre avec eux.}
-{27911}{}{Ce serait, paraît-il, les ruines d'un endroit frappé de plein fouet par une tête nucléaire. Vers le Sud, je crois.}
+{27909}{}{Razor est notre chef et notre championne. J'ai la certitude que grÃ¢ce Ã  son expÃ©rience, nous finirons pas vaincre ces Eventreurs.}
+{27910}{}{Loin Ã  l'Est d'ici. Il paraÃ®t qu'il y a des Goules qui mangent de la chair humaine. Je ne voudrais pas me battre avec eux.}
+{27911}{}{Ce serait, paraÃ®t-il, les ruines d'un endroit frappÃ© de plein fouet par une tÃªte nuclÃ©aire. Vers le Sud, je crois.}
 {27912}{}{C'est ici.}
 {28600}{}{Adytum}
 {28601}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{28602}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{28602}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {28603}{}{Les Eventreurs|Eventreurs|Eventreur}
 {28604}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {28605}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {28606}{}{The Hub}
-{28607}{}{Dépôtville}
+{28607}{}{DÃ©pÃ´tville}
 {28608}{}{Water Chip}
-{28609}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{28609}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {28610}{}{}
 {28611}{}{}
 {28612}{}{}
@@ -3943,24 +3943,24 @@
 {28699}{}{}
 {28700}{}{Un petit village au Sud d'ici.}
 {28701}{}{Une bande de hippies, vers le Sud.}
-{28702}{}{Tu veux parler de ces mecs habillés en robes marron ?}
-{28703}{}{Une bande à la gâchette facile, à l'Ouest.}
-{28704}{}{Une bande de sournois, à l'Est.}
+{28702}{}{Tu veux parler de ces mecs habillÃ©s en robes marron ?}
+{28703}{}{Une bande Ã  la gÃ¢chette facile, Ã  l'Ouest.}
+{28704}{}{Une bande de sournois, Ã  l'Est.}
 {28705}{}{Ah, ouais ? Quoi ?}
-{28706}{}{On leur achète des fusils et on vous les vend directement !}
+{28706}{}{On leur achÃ¨te des fusils et on vous les vend directement !}
 {28707}{}{Ouais, une petite ville au Nord du Centre.}
 {28708}{}{Quoi ?}
 {28709}{}{C'est ici.}
 {28800}{}{Adytum}
 {28801}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{28802}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{28802}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {28803}{}{Les Eventreurs|Eventreurs|Eventreur}
 {28804}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {28805}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {28806}{}{The Hub}
-{28807}{}{Dépôtville}
+{28807}{}{DÃ©pÃ´tville}
 {28808}{}{Water Chip}
-{28809}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{28809}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {28810}{}{}
 {28811}{}{}
 {28812}{}{}
@@ -4051,26 +4051,26 @@
 {28897}{}{}
 {28898}{}{}
 {28899}{}{}
-{28900}{}{C'est un petit village vers le Sud. Ils sont assez bien fortifiés.}
-{28901}{}{Une bande de pacifistes qui se terre au Sud d'ici. On devrait se débarrasser d'eux.}
-{28902}{}{Oh ouais, ces moines complètement givrés. Leur grande église se trouve au Sud du Cimetière.}
-{28903}{}{Eh, ils sont peut-être idiots mais en tout cas, ils achètent des quantités de fusils !}
-{28904}{}{Ils utilisent toujours ces étranges vibro-lames faits-maison. J'aimerais bien en avoir un en main. Enfin, au moins, ils achètent aussi des fusils !}
-{28905}{}{C'est à nous que tu parles.}
+{28900}{}{C'est un petit village vers le Sud. Ils sont assez bien fortifiÃ©s.}
+{28901}{}{Une bande de pacifistes qui se terre au Sud d'ici. On devrait se dÃ©barrasser d'eux.}
+{28902}{}{Oh ouais, ces moines complÃ¨tement givrÃ©s. Leur grande Ã©glise se trouve au Sud du CimetiÃ¨re.}
+{28903}{}{Eh, ils sont peut-Ãªtre idiots mais en tout cas, ils achÃ¨tent des quantitÃ©s de fusils !}
+{28904}{}{Ils utilisent toujours ces Ã©tranges vibro-lames faits-maison. J'aimerais bien en avoir un en main. Enfin, au moins, ils achÃ¨tent aussi des fusils !}
+{28905}{}{C'est Ã  nous que tu parles.}
 {28906}{}{C'est un gros centre marchand, vers l'Est. On traite avec les marchands du Centre pour acheter et vendre des armes et des armures.}
-{28907}{}{Une petite ville au Nord du Centre. Plutôt du genre sérieux.}
+{28907}{}{Une petite ville au Nord du Centre. PlutÃ´t du genre sÃ©rieux.}
 {28908}{}{Jamais entendu parler.}
-{28909}{}{On est au Nord du Cimetière.}
+{28909}{}{On est au Nord du CimetiÃ¨re.}
 {29000}{}{Adytum}
 {29001}{}{Disciples|Disciples de l'Apocalypse|DoA|Apocalypse}
-{29002}{}{Cathédrale[Enfants de la Cathédrale|Enfants}
+{29002}{}{CathÃ©drale[Enfants de la CathÃ©drale|Enfants}
 {29003}{}{Les Eventreurs|Eventreurs|Eventreur}
 {29004}{}{Les Ecorcheurs|Ecorcheurs|Ecorcheur}
 {29005}{}{Les Contrebandiers|Contrebandiers|Contrebandier}
 {29006}{}{The Hub}
-{29007}{}{Dépôtville}
+{29007}{}{DÃ©pÃ´tville}
 {29008}{}{Water Chip}
-{29009}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
+{29009}{}{CimetiÃ¨re|Le CimetiÃ¨re|CimetiÃ¨re de L.A.|Los Angeles}
 {29010}{}{}
 {29011}{}{}
 {29012}{}{}
@@ -4162,12 +4162,12 @@
 {29098}{}{}
 {29099}{}{}
 {29100}{}{C'est une petite ville vers le Sud. Ils ne traitent pas avec nous. Alors eux, c'est le dernier de mes soucis.}
-{29101}{}{Du fond de leur bibliothèque, vers le Sud, ils essaient de convertir les gens à leurs idées pacifistes. C'est pas eux qui font marcher le commerce !}
-{29102}{}{La Cathédrale, c'est cette grosse église au Sud du Cimetière, où ils vénèrent une espèce de Dieu des Ténèbres. Des cinglés, si tu veux mon avis.}
-{29103}{}{Les Eventreurs, c'est comme une seule grande famille. Impossible de traiter avec eux s'ils te connaissent pas, alors n'essaie même pas. Ils habitent une grosse forteresse piégée, au Sud d'ici. Fais gaffe aux mines si t'as la bêtise d'y aller.}
-{29104}{}{C'est vers le Sud-Est. Ils ont transformé plusieurs petits bâtiments en habitations. Ils sont assez bien organisés et plus fûtés que les Eventreurs. Parfois, ils recrutent aussi des étrangers. Leur chef, Razor, est une sacrée bonne femme.}
-{29105}{}{C'est nous. Y'a de l'argent à faire en vendant des fusils aux Ecorcheurs et aux Eventreurs dans le coin.}
-{29106}{}{C'est la ville marchande, à l'Est d'ici, où on achète nos fusils et où on fait du commerce. Ils envoient des caravanes un peu partout. Quand y'en a une qui se présente au Sanctuaire, tu pourrais sans doute en profiter pour voyager avec.}
-{29107}{}{C'est une petite ville frontalière, juste au Nord du Centre. Y'a un casino super, dommage que le shérif soit un peu trop autoritaire.}
-{29108}{}{Aucune idée.}
-{29109}{}{Ici c'est le Nord du Cimetière. C'est marrant, les gens qui ne sont pas d'ici, ils en ont fait une blague; quand y'a quelqu'un qui se fait avoir, ils lui disent: Tu l'as dans l'os. Mais, une fois qu'on s'y est fait, c'est pas si mal.}
+{29101}{}{Du fond de leur bibliothÃ¨que, vers le Sud, ils essaient de convertir les gens Ã  leurs idÃ©es pacifistes. C'est pas eux qui font marcher le commerce !}
+{29102}{}{La CathÃ©drale, c'est cette grosse Ã©glise au Sud du CimetiÃ¨re, oÃ¹ ils vÃ©nÃ¨rent une espÃ¨ce de Dieu des TÃ©nÃ¨bres. Des cinglÃ©s, si tu veux mon avis.}
+{29103}{}{Les Eventreurs, c'est comme une seule grande famille. Impossible de traiter avec eux s'ils te connaissent pas, alors n'essaie mÃªme pas. Ils habitent une grosse forteresse piÃ©gÃ©e, au Sud d'ici. Fais gaffe aux mines si t'as la bÃªtise d'y aller.}
+{29104}{}{C'est vers le Sud-Est. Ils ont transformÃ© plusieurs petits bÃ¢timents en habitations. Ils sont assez bien organisÃ©s et plus fÃ»tÃ©s que les Eventreurs. Parfois, ils recrutent aussi des Ã©trangers. Leur chef, Razor, est une sacrÃ©e bonne femme.}
+{29105}{}{C'est nous. Y'a de l'argent Ã  faire en vendant des fusils aux Ecorcheurs et aux Eventreurs dans le coin.}
+{29106}{}{C'est la ville marchande, Ã  l'Est d'ici, oÃ¹ on achÃ¨te nos fusils et oÃ¹ on fait du commerce. Ils envoient des caravanes un peu partout. Quand y'en a une qui se prÃ©sente au Sanctuaire, tu pourrais sans doute en profiter pour voyager avec.}
+{29107}{}{C'est une petite ville frontaliÃ¨re, juste au Nord du Centre. Y'a un casino super, dommage que le shÃ©rif soit un peu trop autoritaire.}
+{29108}{}{Aucune idÃ©e.}
+{29109}{}{Ici c'est le Nord du CimetiÃ¨re. C'est marrant, les gens qui ne sont pas d'ici, ils en ont fait une blague; quand y'a quelqu'un qui se fait avoir, ils lui disent: Tu l'as dans l'os. Mais, une fois qu'on s'y est fait, c'est pas si mal.}

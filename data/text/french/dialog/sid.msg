@@ -4,28 +4,28 @@
 {103}{}{Bonjour, madame !}
 {104}{}{Bonsoir.}
 {105}{}{Je sais, je sais... [chuchotement] elle parle beaucoup, tu ne trouves pas ?}
-{106}{}{Bienvenue à l'Armurerie et au Moulin à Rumeurs de Beth.}
+{106}{}{Bienvenue Ã  l'Armurerie et au Moulin Ã  Rumeurs de Beth.}
 {107}{}{Beth, il y a quelqu'un pour toi.}
 {108}{}{Bienvenue au Palais des Plaisirs de Beth.}
-{109}{}{As-tu apporté des cadeaux ?}
-{110}{}{[chuchotement] Ne te confie pas à elle si tu ne veux pas que toute la ville soit au courant.}
+{109}{}{As-tu apportÃ© des cadeaux ?}
+{110}{}{[chuchotement] Ne te confie pas Ã  elle si tu ne veux pas que toute la ville soit au courant.}
 {111}{}{Encore ?}
 {112}{}{Des armes gratuites ! Viens les prendre !}
-{113}{}{Le bleu clair spécial se trouve dans l'allée trois.}
-{114}{}{Elle est à moi, alors laisse tomber !}
-{115}{}{Elle aime se faire désirer.}
-{116}{}{Pause petit déjeuner.}
-{117}{}{Pause déjeuner !}
+{113}{}{Le bleu clair spÃ©cial se trouve dans l'allÃ©e trois.}
+{114}{}{Elle est Ã  moi, alors laisse tomber !}
+{115}{}{Elle aime se faire dÃ©sirer.}
+{116}{}{Pause petit dÃ©jeuner.}
+{117}{}{Pause dÃ©jeuner !}
 {118}{}{Bonsoir.}
 {119}{}{C'est une belle combinaison bleue, hein ? Le 13 est-il ton chiffre porte-bonheur ?}
-{120}{}{Oh, c'est un homme mystérieux !}
-{121}{}{Oh, c'est une femme mystérieuse !}
+{120}{}{Oh, c'est un homme mystÃ©rieux !}
+{121}{}{Oh, c'est une femme mystÃ©rieuse !}
 {122}{}{Lis-tu les lignes de la main ?}
 {123}{}{Oh, Beth adore le cuir !}
-{124}{}{Eh trésor, achète son blouson de cuir pour moi.}
-{125}{}{Eh trésor, achète son blouson de cuir pour moi.}
+{124}{}{Eh trÃ©sor, achÃ¨te son blouson de cuir pour moi.}
+{125}{}{Eh trÃ©sor, achÃ¨te son blouson de cuir pour moi.}
 {126}{}{Belle armure !}
-{127}{}{C'est du camouflage. Attends ! Où vas-tu ?}
-{128}{}{Eh, cet équipement semble redoutable !}
+{127}{}{C'est du camouflage. Attends ! OÃ¹ vas-tu ?}
+{128}{}{Eh, cet Ã©quipement semble redoutable !}
 {129}{}{Non !}
-{130}{}{Eh ! C'est la boîte en métal ! Comment vas-tu ?}
+{130}{}{Eh ! C'est la boÃ®te en mÃ©tal ! Comment vas-tu ?}

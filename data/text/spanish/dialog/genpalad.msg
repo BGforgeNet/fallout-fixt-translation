@@ -1,17 +1,17 @@
-{100}{}{Estás viendo a un Paladín.}
+{100}{}{EstÃ¡s viendo a un PaladÃ­n.}
 {101}{}{Lo siento, no puedo hablar, Iniciado.}
-{102}{}{Buenos días.}
-{103}{}{¿Sabes que puedes sobrevivir semanas sin agua si llevas una armadura de energía?}
-{104}{}{¿No te encanta una buena pelea?}
-{105}{}{Me encantan los nuevos rifles láser, pero las pistolas láser antiguas son mis favoritas.}
-{106}{}{Las tropas que patrullan por las noches son muy peligrosas. Yo en tu lugar no me alejaría demasiado.}
-{107}{}{Ten cuidado, porque hay un mundo muy peligroso ahí fuera.}
-{108}{}{¡Creo que mi armadura tiene una mancha!}
-{109}{}{La Hermandad es fantástica. No sé lo que hay ahí fuera, pero seguro que no es mejor que esto.}
-{110}{}{Buenos días, Iniciado.}
-{111}{}{Si necesitas algo, deberías hablar con Vree.}
-{112}{}{Vree está justo allí, si necesitas hablar con alguien.}
+{102}{}{Buenos dÃ­as.}
+{103}{}{Â¿Sabes que puedes sobrevivir semanas sin agua si llevas una armadura de energÃ­a?}
+{104}{}{Â¿No te encanta una buena pelea?}
+{105}{}{Me encantan los nuevos rifles lÃ¡ser, pero las pistolas lÃ¡ser antiguas son mis favoritas.}
+{106}{}{Las tropas que patrullan por las noches son muy peligrosas. Yo en tu lugar no me alejarÃ­a demasiado.}
+{107}{}{Ten cuidado, porque hay un mundo muy peligroso ahÃ­ fuera.}
+{108}{}{Â¡Creo que mi armadura tiene una mancha!}
+{109}{}{La Hermandad es fantÃ¡stica. No sÃ© lo que hay ahÃ­ fuera, pero seguro que no es mejor que esto.}
+{110}{}{Buenos dÃ­as, Iniciado.}
+{111}{}{Si necesitas algo, deberÃ­as hablar con Vree.}
+{112}{}{Vree estÃ¡ justo allÃ­, si necesitas hablar con alguien.}
 {113}{}{Tengo que sacar tiempo para estudiar. Entre patrullar y entrenar, me estoy quedando algo "oxidado".}
 {114}{}{Tengo que mantener mi cuerpo y mi mente en las mejores condiciones, Iniciado.}
-{115}{}{Hijo mío, ser un Paladín no es solo luchar.}
-{116}{}{Hija mía, ser un Paladín no es solo luchar.}
+{115}{}{Hijo mÃ­o, ser un PaladÃ­n no es solo luchar.}
+{116}{}{Hija mÃ­a, ser un PaladÃ­n no es solo luchar.}

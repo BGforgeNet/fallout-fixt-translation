@@ -1,80 +1,80 @@
 {100}{}{Ves: a Billy.}
-{101}{}{¡Oye! ¡Deja eso en paz!}
+{101}{}{Â¡Oye! Â¡Deja eso en paz!}
 {102}{}{Hola.}
-{103}{}{Hola, ¿qué haces?}
-{104}{}{¿Puedo coger un brahmin?}
-{105}{}{Hola. Eh, adiós.}
-{106}{}{¡Arg!}
+{103}{}{Hola, Â¿quÃ© haces?}
+{104}{}{Â¿Puedo coger un brahmin?}
+{105}{}{Hola. Eh, adiÃ³s.}
+{106}{}{Â¡Arg!}
 {107}{}{Ta.}
-{108}{}{¿Para qué quieres un brahmin? ¿Tienes una caravana? Bueno, no importa. Solo me encargo de cuidarlos. Dan es el dueño pero no los venderá.}
-{109}{}{¿Por qué?}
+{108}{}{Â¿Para quÃ© quieres un brahmin? Â¿Tienes una caravana? Bueno, no importa. Solo me encargo de cuidarlos. Dan es el dueÃ±o pero no los venderÃ¡.}
+{109}{}{Â¿Por quÃ©?}
 {110}{}{Solo bromeaba.}
-{111}{}{Por las caravanas desaparecidas. No les sobra ninguno. Los utilizan casi todos. Los que quedan se cambian por comida. Pero debería dejar de hablar. Dan se va a enfadar si me ve hablar con una desconocida.}
+{111}{}{Por las caravanas desaparecidas. No les sobra ninguno. Los utilizan casi todos. Los que quedan se cambian por comida. Pero deberÃ­a dejar de hablar. Dan se va a enfadar si me ve hablar con una desconocida.}
 {112}{}{Oh, vale.}
 {113}{}{Nada... Bueno, me encargo de los brahmines.}
-{114}{}{¿Para qué sirve la lanza? ¿Son peligrosos?}
-{115}{}{¿Qué es un brahmin?}
-{116}{}{¿Que qué es un brahmin? ¿Es una broma? Los brahmines son una de las principales fuentes de alimentación y medio de transporte de por aquí. Tiran de las caravanas. Dan dice que es un trabajo muy importante, pero es una mierda.}
-{117}{}{Oh, ¡ya lo sabía!}
-{118}{}{Dan tiene razón. Estás haciendo un gran trabajo.}
-{119}{}{Sí, eso parece. Que te diviertas.}
-{120}{}{Oye, eres uno de esos yonquis, ¿no?}
-{121}{}{¿En serio? ¿Eso crees? Oh, muchas gracias.}
-{122}{}{Tú no eres de por aquí, ¿no? Solo te daré un consejo amistoso: ¡Que no te cojan robando!}
+{114}{}{Â¿Para quÃ© sirve la lanza? Â¿Son peligrosos?}
+{115}{}{Â¿QuÃ© es un brahmin?}
+{116}{}{Â¿Que quÃ© es un brahmin? Â¿Es una broma? Los brahmines son una de las principales fuentes de alimentaciÃ³n y medio de transporte de por aquÃ­. Tiran de las caravanas. Dan dice que es un trabajo muy importante, pero es una mierda.}
+{117}{}{Oh, Â¡ya lo sabÃ­a!}
+{118}{}{Dan tiene razÃ³n. EstÃ¡s haciendo un gran trabajo.}
+{119}{}{SÃ­, eso parece. Que te diviertas.}
+{120}{}{Oye, eres uno de esos yonquis, Â¿no?}
+{121}{}{Â¿En serio? Â¿Eso crees? Oh, muchas gracias.}
+{122}{}{TÃº no eres de por aquÃ­, Â¿no? Solo te darÃ© un consejo amistoso: Â¡Que no te cojan robando!}
 {123}{}{Claro, gracias.}
-{124}{}{No se me ocurriría robar. Robar está mal.}
-{125}{}{Sí. Creo que empiezo a estar de acuerdo contigo. Este trabajo no es tan malo en el fondo. Me hace sentir bien por alguna razón. Bueno, debo irme antes de que me meta en líos.}
-{126}{}{Por favor, no me hagas daño ni a mí, ni a mis brahmines.}
-{127}{}{¡No me hagas daño!}
-{128}{}{¡Déjalo!}
-{129}{}{Por favor, déjame tranquilo.}
-{130}{}{Me estás dando miedo.}
-{131}{}{Oye, ¿qué intentas hacer? No tengo nada que te interese.}
-{132}{}{¡Para eso!}
-{133}{}{¿Peligrosos? No mucho. Aunque no lo parezca, son alucinantes. Se tiran pedos y eructan mucho. No sé por qué.}
-{134}{}{¿Para qué sirve la lanza entonces?}
+{124}{}{No se me ocurrirÃ­a robar. Robar estÃ¡ mal.}
+{125}{}{SÃ­. Creo que empiezo a estar de acuerdo contigo. Este trabajo no es tan malo en el fondo. Me hace sentir bien por alguna razÃ³n. Bueno, debo irme antes de que me meta en lÃ­os.}
+{126}{}{Por favor, no me hagas daÃ±o ni a mÃ­, ni a mis brahmines.}
+{127}{}{Â¡No me hagas daÃ±o!}
+{128}{}{Â¡DÃ©jalo!}
+{129}{}{Por favor, dÃ©jame tranquilo.}
+{130}{}{Me estÃ¡s dando miedo.}
+{131}{}{Oye, Â¿quÃ© intentas hacer? No tengo nada que te interese.}
+{132}{}{Â¡Para eso!}
+{133}{}{Â¿Peligrosos? No mucho. Aunque no lo parezca, son alucinantes. Se tiran pedos y eructan mucho. No sÃ© por quÃ©.}
+{134}{}{Â¿Para quÃ© sirve la lanza entonces?}
 {135}{}{Vale, gracias.}
-{136}{}{Oh, pueden ser muy rebeldes cuando intento que hagan algo. Me limito a azuzarlos suavemente. Para conseguir que se muevan. Además, no quiero acercarme mucho, a veces dan patadas.}
-{137}{}{Por favor, no me hables. Dan me va a reprender otra vez. Se coge unos cabr... quiero decir, que se enfada cuando no presto atención a lo que hago.}
-{138}{}{Solo intenta ayudarte. Trabaja duro y seguro que será más amable.}
-{139}{}{Aquí tienes, chico, toma 50 chapas y sal de este agujero.}
+{136}{}{Oh, pueden ser muy rebeldes cuando intento que hagan algo. Me limito a azuzarlos suavemente. Para conseguir que se muevan. AdemÃ¡s, no quiero acercarme mucho, a veces dan patadas.}
+{137}{}{Por favor, no me hables. Dan me va a reprender otra vez. Se coge unos cabr... quiero decir, que se enfada cuando no presto atenciÃ³n a lo que hago.}
+{138}{}{Solo intenta ayudarte. Trabaja duro y seguro que serÃ¡ mÃ¡s amable.}
+{139}{}{AquÃ­ tienes, chico, toma 50 chapas y sal de este agujero.}
 {140}{}{Vale.}
-{141}{}{¡Aaaaaarg!}
-{142}{}{¿Rhu?}
+{141}{}{Â¡Aaaaaarg!}
+{142}{}{Â¿Rhu?}
 {143}{}{Oh, no. Ya tengo bastantes problemas.}
-{144}{}{¡YA trabajo duro!}
-{145}{}{Lo siento, no quería decir eso. Él solo intenta ayudarte. }
-{146}{}{¡No lo haces! ¡Pequeño vago!}
+{144}{}{Â¡YA trabajo duro!}
+{145}{}{Lo siento, no querÃ­a decir eso. Ã‰l solo intenta ayudarte. }
+{146}{}{Â¡No lo haces! Â¡PequeÃ±o vago!}
 {147}{}{Vale.}
-{148}{}{Sí, puede que tengas razón. Ahora parece excelente, pero me gustaría que no me gritara tanto.}
-{149}{}{Sí, claro.}
-{150}{}{¡Viejo cretino!}
-{151}{}{¡Vieja arpía!}
-{152}{}{¡Guau! Puedo vivir de esto toda mi vida. ¡Muchísimas gracias, señor!}
-{153}{}{¡Guau! Puedo vivir de esto toda mi vida. ¡Muchísimas gracias, señora!}
-{154}{}{¡Guau! Gracias. ¿Pero?... ¡Estás intentando meterme en líos de nuevo!}
-{155}{}{Por favor no me hables. Dan está como una cabra.}
-{156}{}{No te preocupes. He hablado con él; intentará ser más agradable.}
-{157}{}{¡Y tiene sus razones! ¡Eres un niño terrible!}
+{148}{}{SÃ­, puede que tengas razÃ³n. Ahora parece excelente, pero me gustarÃ­a que no me gritara tanto.}
+{149}{}{SÃ­, claro.}
+{150}{}{Â¡Viejo cretino!}
+{151}{}{Â¡Vieja arpÃ­a!}
+{152}{}{Â¡Guau! Puedo vivir de esto toda mi vida. Â¡MuchÃ­simas gracias, seÃ±or!}
+{153}{}{Â¡Guau! Puedo vivir de esto toda mi vida. Â¡MuchÃ­simas gracias, seÃ±ora!}
+{154}{}{Â¡Guau! Gracias. Â¿Pero?... Â¡EstÃ¡s intentando meterme en lÃ­os de nuevo!}
+{155}{}{Por favor no me hables. Dan estÃ¡ como una cabra.}
+{156}{}{No te preocupes. He hablado con Ã©l; intentarÃ¡ ser mÃ¡s agradable.}
+{157}{}{Â¡Y tiene sus razones! Â¡Eres un niÃ±o terrible!}
 {158}{}{Bah.}
-{159}{}{¡Hola!}
-{160}{}{Esas niñas de ahí parecen tontas.}
+{159}{}{Â¡Hola!}
+{160}{}{Esas niÃ±as de ahÃ­ parecen tontas.}
 {161}{}{Hola otra vez.}
 {162}{}{Los brahmines son geniales.}
-{163}{}{Dan me llevará al Halcón si hago un buen trabajo.}
-{164}{}{Dan me llevará en una caravana algún día.}
-{165}{}{Cuando sea mayor seré aventurero.}
-{166}{}{¿De verdad? Vale. Espero que no le hicieras daño. En el fondo no es tan malo. Lo único es que grita mucho.}
+{163}{}{Dan me llevarÃ¡ al HalcÃ³n si hago un buen trabajo.}
+{164}{}{Dan me llevarÃ¡ en una caravana algÃºn dÃ­a.}
+{165}{}{Cuando sea mayor serÃ© aventurero.}
+{166}{}{Â¿De verdad? Vale. Espero que no le hicieras daÃ±o. En el fondo no es tan malo. Lo Ãºnico es que grita mucho.}
 {167}{}{Hola de nuevo.}
-{168}{}{¿Qué quieres ahora?}
-{169}{}{¿Puedo coger un brahmin?}
-{170}{}{Solo pasaba por aquí para ver cómo van las cosas. Adiós.}
-{171}{}{¡Arg!}
+{168}{}{Â¿QuÃ© quieres ahora?}
+{169}{}{Â¿Puedo coger un brahmin?}
+{170}{}{Solo pasaba por aquÃ­ para ver cÃ³mo van las cosas. AdiÃ³s.}
+{171}{}{Â¡Arg!}
 {172}{}{Ta.}
-{173}{}{Será mejor que vuelva a trabajar.}
-{174}{}{Esas niñas de ahí parecen tontas.}
+{173}{}{SerÃ¡ mejor que vuelva a trabajar.}
+{174}{}{Esas niÃ±as de ahÃ­ parecen tontas.}
 {175}{}{Hola otra vez.}
-{176}{}{Cuando sea mayor seré aventurero.}
+{176}{}{Cuando sea mayor serÃ© aventurero.}
 {177}{}{Claro que los brahmines cag... uh, hacen mucha cacota.}
 {178}{}{Ahora no puedo hablar.}
-{179}{}{No quiero meterme en líos.}
+{179}{}{No quiero meterme en lÃ­os.}

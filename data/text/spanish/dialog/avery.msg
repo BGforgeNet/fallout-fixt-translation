@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un guardia de la Compañía de Crédito Amistoso.}
-{101}{}{¡¿Qué demonios?! ¡Cogedlo!}
-{102}{}{¡¿Qué demonios?! ¡Cogedla!}
+{100}{}{EstÃ¡s viendo a un guardia de la CompaÃ±Ã­a de CrÃ©dito Amistoso.}
+{101}{}{Â¡Â¿QuÃ© demonios?! Â¡Cogedlo!}
+{102}{}{Â¡Â¿QuÃ© demonios?! Â¡Cogedla!}
 

@@ -1,2 +1,2 @@
-{100}{}{El escorpión rad te hace señas para que te acerques.}
-{101}{}{Ves: Escorpión Rad Peligroso.}
+{100}{}{El escorpiÃ³n rad te hace seÃ±as para que te acerques.}
+{101}{}{Ves: EscorpiÃ³n Rad Peligroso.}

@@ -1,5 +1,5 @@
-{100}{}{La nevera está cerrada.}
-{101}{}{La nevera ya está abierta.}
+{100}{}{La nevera estÃ¡ cerrada.}
+{101}{}{La nevera ya estÃ¡ abierta.}
 {102}{}{Abres la nevera.}
-{103}{}{Aún no has conseguido quitar esta cerradura.}
-{104}{}{¡Alguien se ha dejado la nevera abierta!}
+{103}{}{AÃºn no has conseguido quitar esta cerradura.}
+{104}{}{Â¡Alguien se ha dejado la nevera abierta!}

@@ -1,133 +1,133 @@
 {100}{}{Ves: a Talius, un miembro de los Seguidores.}
-{101}{}{Vete, por favor. Intento retirarme. Vuelve durante el día.}
-{102}{}{Saludos, hermana. Me llamo Talius. ¿En qué podría ayudarte hoy?}
-{103}{}{Saludos, hermano. Me llamo Talius. ¿En qué podría ayudarte hoy?}
-{104}{}{¿Eh?}
+{101}{}{Vete, por favor. Intento retirarme. Vuelve durante el dÃ­a.}
+{102}{}{Saludos, hermana. Me llamo Talius. Â¿En quÃ© podrÃ­a ayudarte hoy?}
+{103}{}{Saludos, hermano. Me llamo Talius. Â¿En quÃ© podrÃ­a ayudarte hoy?}
+{104}{}{Â¿Eh?}
 {105}{}{Yo }
 {106}{}{. Yo }
 {107}{}{.}
 {108}{}{Soy }
-{109}{}{. ¿Qué haces aquí?}
-{110}{}{¡Puedes morir!}
-{111}{}{¡No te preocupes por mí, Muti! ¿Cómo has llegado hasta aquí?}
-{112}{}{Saludos para ti también. Me llaman }
-{113}{}{. ¿Cómo es que has venido al reino de los Seguidores?}
-{114}{}{¿Puedes decirme cómo una de tus... alteraciones entró en los Seguidores?}
-{115}{}{Veo que eres un poco lento. Yo también tenía tu inteligencia. Pero, con las enseñanzas de los Seguidores, he sido capaz de superar mis defectos.}
-{116}{}{No sé.}
+{109}{}{. Â¿QuÃ© haces aquÃ­?}
+{110}{}{Â¡Puedes morir!}
+{111}{}{Â¡No te preocupes por mÃ­, Muti! Â¿CÃ³mo has llegado hasta aquÃ­?}
+{112}{}{Saludos para ti tambiÃ©n. Me llaman }
+{113}{}{. Â¿CÃ³mo es que has venido al reino de los Seguidores?}
+{114}{}{Â¿Puedes decirme cÃ³mo una de tus... alteraciones entrÃ³ en los Seguidores?}
+{115}{}{Veo que eres un poco lento. Yo tambiÃ©n tenÃ­a tu inteligencia. Pero, con las enseÃ±anzas de los Seguidores, he sido capaz de superar mis defectos.}
+{116}{}{No sÃ©.}
 {117}{}{Mu listo. Ahora muere.}
-{118}{}{Discúlpame. A veces me olvido de mí mismo. ¿Quieres algo de ayuda cerebral?}
-{119}{}{Sí. ¡Tguya!}
-{120}{}{Entirado. ¡Eres un entirado!}
-{121}{}{Toma. Tómate estas bonitas pastillas. Te hacen más inteligente.}
-{122}{}{Sí, }
-{123}{}{. Me entusiasma que tengas conocimientos de la nomenclatura dada. ¿Cómo puedo ayudarte en este estupendo día?}
-{124}{}{¿Qué?}
+{118}{}{DiscÃºlpame. A veces me olvido de mÃ­ mismo. Â¿Quieres algo de ayuda cerebral?}
+{119}{}{SÃ­. Â¡Tguya!}
+{120}{}{Entirado. Â¡Eres un entirado!}
+{121}{}{Toma. TÃ³mate estas bonitas pastillas. Te hacen mÃ¡s inteligente.}
+{122}{}{SÃ­, }
+{123}{}{. Me entusiasma que tengas conocimientos de la nomenclatura dada. Â¿CÃ³mo puedo ayudarte en este estupendo dÃ­a?}
+{124}{}{Â¿QuÃ©?}
 {125}{}{Doler cerebro. Yo matarte. Toma cerebro.}
-{126}{}{Estoy aquí para ayudar a esta buena gente a comprender los trabajos de los Niños de la Catedral.}
-{127}{}{¿Así que eres un espía de los Niños?}
-{128}{}{¿Cómo puedes saber algo de los Niños?}
-{129}{}{¿Qué puedes hacer? Eres un mutante.}
-{130}{}{Noo, no soy un espía. Aunque muchos lo piensen. Hay un espía en nuestra humilde morada. Todavía no hemos conseguido encontrarlo.}
-{131}{}{¿Entonces cómo ayudas a los Seguidores?}
-{132}{}{Dime lo que sepas de este espía. A lo mejor puedo ayudarte.}
-{133}{}{¡Mala suerte, Muti!}
-{134}{}{Creo que encontré al espía. Ahora se acabará el problema.}
-{135}{}{Una vez yo fui como tú. Pero por la interacción de los Nocturnos en Necrópolis, pasé a este estado.}
+{126}{}{Estoy aquÃ­ para ayudar a esta buena gente a comprender los trabajos de los NiÃ±os de la Catedral.}
+{127}{}{Â¿AsÃ­ que eres un espÃ­a de los NiÃ±os?}
+{128}{}{Â¿CÃ³mo puedes saber algo de los NiÃ±os?}
+{129}{}{Â¿QuÃ© puedes hacer? Eres un mutante.}
+{130}{}{Noo, no soy un espÃ­a. Aunque muchos lo piensen. Hay un espÃ­a en nuestra humilde morada. TodavÃ­a no hemos conseguido encontrarlo.}
+{131}{}{Â¿Entonces cÃ³mo ayudas a los Seguidores?}
+{132}{}{Dime lo que sepas de este espÃ­a. A lo mejor puedo ayudarte.}
+{133}{}{Â¡Mala suerte, Muti!}
+{134}{}{Creo que encontrÃ© al espÃ­a. Ahora se acabarÃ¡ el problema.}
+{135}{}{Una vez yo fui como tÃº. Pero por la interacciÃ³n de los Nocturnos en NecrÃ³polis, pasÃ© a este estado.}
 {136}{}{Eso es horrible. Pero, mala suerte. Hasta la vista.}
-{137}{}{¿Por qué estabas en Necrópolis?}
-{138}{}{¿De dónde eras originalmente?}
-{139}{}{Y ahora te transformaré una vez más. Descansa en pedacitos.}
-{140}{}{Hace algún tiempo, yo vivía en un lugar al norte de aquí. Teníamos problemas con las reservas de agua y enviaron gente al exterior para encontrar un modo de solucionarlo.}
-{141}{}{Y tú te ofreciste voluntario.}
-{142}{}{¿Dónde era ese lugar?}
-{143}{}{¿Encontraste un modo de solucionar el problema?}
-{144}{}{Pero, ¿por qué Necrópolis?}
-{145}{}{Sí. El Supervisor de la comunidad me dio un arma y algunas balas. Ha pasado mucho tiempo desde aquello. Nunca encontré nada, así que no podía regresar.}
-{146}{}{Eso es realmente terrible. Ojalá hubiera algo que pudiera hacer.}
-{147}{}{Qué mal. Debo irme.}
-{148}{}{¿Dónde era ese lugar?}
-{149}{}{¿Pudiste encontrar un modo de solucionar el problema del agua?}
-{150}{}{¿Por qué fuiste a Necrópolis?}
+{137}{}{Â¿Por quÃ© estabas en NecrÃ³polis?}
+{138}{}{Â¿De dÃ³nde eras originalmente?}
+{139}{}{Y ahora te transformarÃ© una vez mÃ¡s. Descansa en pedacitos.}
+{140}{}{Hace algÃºn tiempo, yo vivÃ­a en un lugar al norte de aquÃ­. TenÃ­amos problemas con las reservas de agua y enviaron gente al exterior para encontrar un modo de solucionarlo.}
+{141}{}{Y tÃº te ofreciste voluntario.}
+{142}{}{Â¿DÃ³nde era ese lugar?}
+{143}{}{Â¿Encontraste un modo de solucionar el problema?}
+{144}{}{Pero, Â¿por quÃ© NecrÃ³polis?}
+{145}{}{SÃ­. El Supervisor de la comunidad me dio un arma y algunas balas. Ha pasado mucho tiempo desde aquello. Nunca encontrÃ© nada, asÃ­ que no podÃ­a regresar.}
+{146}{}{Eso es realmente terrible. OjalÃ¡ hubiera algo que pudiera hacer.}
+{147}{}{QuÃ© mal. Debo irme.}
+{148}{}{Â¿DÃ³nde era ese lugar?}
+{149}{}{Â¿Pudiste encontrar un modo de solucionar el problema del agua?}
+{150}{}{Â¿Por quÃ© fuiste a NecrÃ³polis?}
 {151}{}{Hay un modo de que puedas ayudar. Hay que detener al que me hizo esto.}
-{152}{}{¿Quién es?}
-{153}{}{Su líder es el jefe de un ejército de mutantes. Lo que hace es coger humanos puros y transformarlos. No estoy muy seguro porque me dejaron inconsciente antes del proceso.}
-{154}{}{Entonces iré a matarlos por ti.}
-{155}{}{Parece demasiado arriesgado para mí. Yo no pertenezco a este lugar.}
-{156}{}{Te agradezco tu amabilidad. Me haces un gran favor. Por favor, acepta esto como símbolo de buena voluntad. Lo cogí del cuerpo de un renegado muerto.}
-{157}{}{Entonces queda en paz. Puedo entender tu desasosiego. Quizá otra voluntad ayude a hacer desaparecer esta amenaza. Te deseo un buen día.}
-{158}{}{El lugar del que vengo estaba en las montañas, al norte. Era un pequeño Refugio en el que vivía mucha gente.}
-{159}{}{¿Pudiste encontrar un modo de solucionar el problema del agua?}
-{160}{}{¿Por qué fuiste a Necrópolis?}
-{161}{}{¿Cuál era el nombre de ese Refugio?}
+{152}{}{Â¿QuiÃ©n es?}
+{153}{}{Su lÃ­der es el jefe de un ejÃ©rcito de mutantes. Lo que hace es coger humanos puros y transformarlos. No estoy muy seguro porque me dejaron inconsciente antes del proceso.}
+{154}{}{Entonces irÃ© a matarlos por ti.}
+{155}{}{Parece demasiado arriesgado para mÃ­. Yo no pertenezco a este lugar.}
+{156}{}{Te agradezco tu amabilidad. Me haces un gran favor. Por favor, acepta esto como sÃ­mbolo de buena voluntad. Lo cogÃ­ del cuerpo de un renegado muerto.}
+{157}{}{Entonces queda en paz. Puedo entender tu desasosiego. QuizÃ¡ otra voluntad ayude a hacer desaparecer esta amenaza. Te deseo un buen dÃ­a.}
+{158}{}{El lugar del que vengo estaba en las montaÃ±as, al norte. Era un pequeÃ±o Refugio en el que vivÃ­a mucha gente.}
+{159}{}{Â¿Pudiste encontrar un modo de solucionar el problema del agua?}
+{160}{}{Â¿Por quÃ© fuiste a NecrÃ³polis?}
+{161}{}{Â¿CuÃ¡l era el nombre de ese Refugio?}
 {162}{}{Suena bien. Debo darme prisa.}
-{163}{}{Por desgracia, no. He oído que otros fueron enviados desde el Refugio para buscar un modo de arreglar el surtidor de agua.}
+{163}{}{Por desgracia, no. He oÃ­do que otros fueron enviados desde el Refugio para buscar un modo de arreglar el surtidor de agua.}
 {164}{}{No he vuelto a saber nada de ellos.}
-{165}{}{¿Por qué fuiste a Necrópolis?}
-{166}{}{¿Cuál era el nombre de ese Refugio?}
+{165}{}{Â¿Por quÃ© fuiste a NecrÃ³polis?}
+{166}{}{Â¿CuÃ¡l era el nombre de ese Refugio?}
 {167}{}{Suena bien. Debo darme prisa.}
-{168}{}{Otros viajeros me dijeron que Necrópolis tenía un sistema para producir agua sin mucha dificultad.}
-{169}{}{Así que fui allí para ver qué es lo que hacían.}
-{170}{}{¿Qué averiguaste?}
-{171}{}{¿Los liquidaste a todos?}
-{172}{}{¿Te sentías allí como en casa?}
-{173}{}{Me encontré a un gran número de cosas mutantes de esas allí. Fueron ellos los que me atraparon y me transformaron en lo que soy ahora.}
-{174}{}{Aparentemente, se hicieron un lío porque yo tomé un curso de evolución distinto, en lugar del intensificado.}
+{168}{}{Otros viajeros me dijeron que NecrÃ³polis tenÃ­a un sistema para producir agua sin mucha dificultad.}
+{169}{}{AsÃ­ que fui allÃ­ para ver quÃ© es lo que hacÃ­an.}
+{170}{}{Â¿QuÃ© averiguaste?}
+{171}{}{Â¿Los liquidaste a todos?}
+{172}{}{Â¿Te sentÃ­as allÃ­ como en casa?}
+{173}{}{Me encontrÃ© a un gran nÃºmero de cosas mutantes de esas allÃ­. Fueron ellos los que me atraparon y me transformaron en lo que soy ahora.}
+{174}{}{Aparentemente, se hicieron un lÃ­o porque yo tomÃ© un curso de evoluciÃ³n distinto, en lugar del intensificado.}
 {175}{}{Mal trato. Hasta la vista.}
-{176}{}{Me encargaré de buscarlos. Gracias por la información.}
-{177}{}{¿Quién es su líder?}
-{178}{}{No. Solo maté a algunos de los mutantes. Había otro mutante, un necrófago llamado Set, que me ayudó a deshacerme de la mayoría.}
+{176}{}{Me encargarÃ© de buscarlos. Gracias por la informaciÃ³n.}
+{177}{}{Â¿QuiÃ©n es su lÃ­der?}
+{178}{}{No. Solo matÃ© a algunos de los mutantes. HabÃ­a otro mutante, un necrÃ³fago llamado Set, que me ayudÃ³ a deshacerme de la mayorÃ­a.}
 {179}{}{Al final supe que solo quedaban seis mutantes con vida.}
-{180}{}{Eso suena bien. Bueno, ya te veré.}
-{181}{}{El resto ya no existen. Set lo está haciendo bien.}
-{182}{}{Esas son buenas noticias. Me llena de alegría saber de la destrucción del mal y de la liberación de una ciudad. Por favor, toma esto.}
-{183}{}{El sarcasmo y el desaire no determinarán mi benevolente disposición. Ha llegado la hora de que te marches. Adiós.}
-{184}{}{Mi Refugio no tenía nombre. Solo un número: el 13.}
-{185}{}{¡De ahí soy yo!}
-{186}{}{Nunca he oído hablar de ese lugar.}
-{187}{}{Gracias por la información. Ahora voy a hablarles a esos mutantes sobre ello.}
-{188}{}{¿De verdad? ¿Por fin el Supervisor deja que la gente viaje al exterior del Refugio?}
-{189}{}{No, todavía le asusta el mundo exterior.}
+{180}{}{Eso suena bien. Bueno, ya te verÃ©.}
+{181}{}{El resto ya no existen. Set lo estÃ¡ haciendo bien.}
+{182}{}{Esas son buenas noticias. Me llena de alegrÃ­a saber de la destrucciÃ³n del mal y de la liberaciÃ³n de una ciudad. Por favor, toma esto.}
+{183}{}{El sarcasmo y el desaire no determinarÃ¡n mi benevolente disposiciÃ³n. Ha llegado la hora de que te marches. AdiÃ³s.}
+{184}{}{Mi Refugio no tenÃ­a nombre. Solo un nÃºmero: el 13.}
+{185}{}{Â¡De ahÃ­ soy yo!}
+{186}{}{Nunca he oÃ­do hablar de ese lugar.}
+{187}{}{Gracias por la informaciÃ³n. Ahora voy a hablarles a esos mutantes sobre ello.}
+{188}{}{Â¿De verdad? Â¿Por fin el Supervisor deja que la gente viaje al exterior del Refugio?}
+{189}{}{No, todavÃ­a le asusta el mundo exterior.}
 {190}{}{No, teme por la seguridad de los habitantes.}
-{191}{}{Sí, cree que todo está seguro.}
-{192}{}{Eso creía. Siempre fue un hombre prudente. Me da pena su responsabilidad. Espero que te vaya mejor que a mí en esta búsqueda de tontos.}
-{193}{}{Me alegra saber que ha entrado en razón y deja que la gente salga. Aunque el exterior está lejos de ser seguro, estará bien volver a restaurar el yermo. Adiós, amigo.}
-{194}{}{Lo dudaba, viniendo del mundo exterior. Ahora debo retirarme. Por favor, ten cuidado ahí fuera con esas criaturas que buscan destruir.}
+{191}{}{SÃ­, cree que todo estÃ¡ seguro.}
+{192}{}{Eso creÃ­a. Siempre fue un hombre prudente. Me da pena su responsabilidad. Espero que te vaya mejor que a mÃ­ en esta bÃºsqueda de tontos.}
+{193}{}{Me alegra saber que ha entrado en razÃ³n y deja que la gente salga. Aunque el exterior estÃ¡ lejos de ser seguro, estarÃ¡ bien volver a restaurar el yermo. AdiÃ³s, amigo.}
+{194}{}{Lo dudaba, viniendo del mundo exterior. Ahora debo retirarme. Por favor, ten cuidado ahÃ­ fuera con esas criaturas que buscan destruir.}
 {195}{}{No, dudo que fueras capaz de hacer tal cosa.}
 {196}{}{Intenta detenerme.}
-{197}{}{¿Por qué dices eso?}
+{197}{}{Â¿Por quÃ© dices eso?}
 {198}{}{Porque voy a detenerte.}
-{199}{}{Sé muy poco. Lo único que sé es que nuestros Exploradores son los únicos que han ido alguna vez a espiar a los Niños. Nadie más puede por el peligro que supone.}
-{200}{}{Entonces debe ser un Explorador. Seguiré la pista.}
-{201}{}{Creo que eres tú. ¡Ahora muere!}
-{202}{}{Me hubiera gustado que fueras algo más inteligente. Da igual, prescindiré de ti dentro de poco.}
-{203}{}{Todo lo que sé de los Niños es que están asociados con los Nocturnos una clase horrible de Supermutante.}
-{204}{}{Fueron ellos los que me transformaron de mi estado original en Necrópolis.}
+{199}{}{SÃ© muy poco. Lo Ãºnico que sÃ© es que nuestros Exploradores son los Ãºnicos que han ido alguna vez a espiar a los NiÃ±os. Nadie mÃ¡s puede por el peligro que supone.}
+{200}{}{Entonces debe ser un Explorador. SeguirÃ© la pista.}
+{201}{}{Creo que eres tÃº. Â¡Ahora muere!}
+{202}{}{Me hubiera gustado que fueras algo mÃ¡s inteligente. Da igual, prescindirÃ© de ti dentro de poco.}
+{203}{}{Todo lo que sÃ© de los NiÃ±os es que estÃ¡n asociados con los Nocturnos una clase horrible de Supermutante.}
+{204}{}{Fueron ellos los que me transformaron de mi estado original en NecrÃ³polis.}
 {205}{}{Eso es horrible. Pero, mala suerte. Hasta la vista.}
-{206}{}{¿Por qué estabas en Necrópolis?}
-{207}{}{¿De dónde eras originalmente?}
-{208}{}{Y ahora te transformaré una vez más. Descansa en pedacitos.}
+{206}{}{Â¿Por quÃ© estabas en NecrÃ³polis?}
+{207}{}{Â¿De dÃ³nde eras originalmente?}
+{208}{}{Y ahora te transformarÃ© una vez mÃ¡s. Descansa en pedacitos.}
 {209}{}{Aunque tengo una apariencia diferente, tengo muchos conocimientos que ofrecer a aquellos que me escuchen.}
 {210}{}{No tengo tiempo para esto, me voy.}
-{211}{}{¿Qué puedes decirme?}
-{212}{}{Esos a los que los Seguidores y los Niños llaman Nocturnos no son lo que parecen. Han sido creados por uno llamado el Teniente. Creo que él sigue a otro.}
-{213}{}{Algo de información. Bueno, me iré.}
-{214}{}{¿Qué puedes decirme de ese Teniente?}
-{215}{}{No sé mucho sobre él. La última vez que lo vi, antes de mi inoportuna transformación, estaba buscando humanos puros.}
-{216}{}{Pensaré sobre ello en rato. Gracias.}
-{217}{}{¿Puedes aventurar una hipótesis de por qué puede eso ser así?}
-{218}{}{Por ahora, no estoy seguro. Quizá otro grupo que busque desbaratar sus planes lo sepa.}
-{219}{}{Gracias. Adiós.}
+{211}{}{Â¿QuÃ© puedes decirme?}
+{212}{}{Esos a los que los Seguidores y los NiÃ±os llaman Nocturnos no son lo que parecen. Han sido creados por uno llamado el Teniente. Creo que Ã©l sigue a otro.}
+{213}{}{Algo de informaciÃ³n. Bueno, me irÃ©.}
+{214}{}{Â¿QuÃ© puedes decirme de ese Teniente?}
+{215}{}{No sÃ© mucho sobre Ã©l. La Ãºltima vez que lo vi, antes de mi inoportuna transformaciÃ³n, estaba buscando humanos puros.}
+{216}{}{PensarÃ© sobre ello en rato. Gracias.}
+{217}{}{Â¿Puedes aventurar una hipÃ³tesis de por quÃ© puede eso ser asÃ­?}
+{218}{}{Por ahora, no estoy seguro. QuizÃ¡ otro grupo que busque desbaratar sus planes lo sepa.}
+{219}{}{Gracias. AdiÃ³s.}
 {220}{}{Lamento no tolerar la insolencia. Fuera.}
-{221}{}{Mi entrada en los Seguidores fue muy sencilla. Fueron los Seguidores los que me rescataron de los completos efectos de la transformación que me habría convertido en una bestia atroz.}
+{221}{}{Mi entrada en los Seguidores fue muy sencilla. Fueron los Seguidores los que me rescataron de los completos efectos de la transformaciÃ³n que me habrÃ­a convertido en una bestia atroz.}
 {222}{}{No logro entenderlo. Por favor, sigue.}
-{223}{}{Hace un tiempo yo era como tú, un humano puro. Pero, con la intervención de los Nocturnos, fui llevado a un lugar muy lejos de aquí.}
-{224}{}{Por favor, continúa.}
-{225}{}{Yo no estaba en condiciones de observar lo que estaba ocurriendo. Todo lo que supe es que me desperté aquí atendido por el buen doctor.}
-{226}{}{Siento mucho saber todo por lo que has pasado. Encontraré a los que te hicieron esto y remediaré la situación.}
-{227}{}{Siento oír eso. Estoy muy ocupado intentando sobrevivir. Adiós.}
+{223}{}{Hace un tiempo yo era como tÃº, un humano puro. Pero, con la intervenciÃ³n de los Nocturnos, fui llevado a un lugar muy lejos de aquÃ­.}
+{224}{}{Por favor, continÃºa.}
+{225}{}{Yo no estaba en condiciones de observar lo que estaba ocurriendo. Todo lo que supe es que me despertÃ© aquÃ­ atendido por el buen doctor.}
+{226}{}{Siento mucho saber todo por lo que has pasado. EncontrarÃ© a los que te hicieron esto y remediarÃ© la situaciÃ³n.}
+{227}{}{Siento oÃ­r eso. Estoy muy ocupado intentando sobrevivir. AdiÃ³s.}
 {228}{}{Por favor, haz justicia sobre el profanador que busque socavar la esperanza de los Seguidores.}
 {229}{}{Excelente trabajo el de hacer desaparecer de entre nosotros a ese simulador.}
-{230}{}{Ves a un necrófago repugnante.}
+{230}{}{Ves a un necrÃ³fago repugnante.}
 {231}{}{De alguna manera te recuerda a alguien.}
-{232}{}{Venga, no tengo más tiempo que perder contigo. Que pases un buen día.}
+{232}{}{Venga, no tengo mÃ¡s tiempo que perder contigo. Que pases un buen dÃ­a.}

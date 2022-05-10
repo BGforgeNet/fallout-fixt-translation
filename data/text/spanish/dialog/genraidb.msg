@@ -1,4 +1,4 @@
-{100}{}{¡Apártate de nuestro camino!}
-{101}{}{¡Mata o te matarán!}
-{102}{}{¡Disfruta de la victoria y reza a los dioses para que no nos encontremos otra vez!}
-{103}{}{¡No tengo tiempo para hablar!}
+{100}{}{Â¡ApÃ¡rtate de nuestro camino!}
+{101}{}{Â¡Mata o te matarÃ¡n!}
+{102}{}{Â¡Disfruta de la victoria y reza a los dioses para que no nos encontremos otra vez!}
+{103}{}{Â¡No tengo tiempo para hablar!}

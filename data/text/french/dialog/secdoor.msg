@@ -1,6 +1,6 @@
-{100}{}{La porte de sécurité est verrouillée.}
-{101}{}{La porte de sécurité n'est pas verrouillée.}
-{102}{}{Tu réussis à déverrouiller la porte de sécurité.}
-{103}{}{Tu ne réussis pas à déverrouiller la porte de sécurité.}
-{104}{}{Tu réussis à déclencher l'alarme passive de la porte, ce qui débloque la fermeture électronique. Bon travail, chromo.}
-{105}{}{Tu reçois}
+{100}{}{La porte de sÃ©curitÃ© est verrouillÃ©e.}
+{101}{}{La porte de sÃ©curitÃ© n'est pas verrouillÃ©e.}
+{102}{}{Tu rÃ©ussis Ã  dÃ©verrouiller la porte de sÃ©curitÃ©.}
+{103}{}{Tu ne rÃ©ussis pas Ã  dÃ©verrouiller la porte de sÃ©curitÃ©.}
+{104}{}{Tu rÃ©ussis Ã  dÃ©clencher l'alarme passive de la porte, ce qui dÃ©bloque la fermeture Ã©lectronique. Bon travail, chromo.}
+{105}{}{Tu reÃ§ois}

@@ -1,26 +1,26 @@
-{100}{}{Estás viendo a Serpiente, un miembro de los Navajas.}
-{101}{}{Estás viendo a Dolgan, un miembro de los Navajas.}
+{100}{}{EstÃ¡s viendo a Serpiente, un miembro de los Navajas.}
+{101}{}{EstÃ¡s viendo a Dolgan, un miembro de los Navajas.}
 {102}{}{}
 {103}{}{}
-{104}{}{Estás viendo a un miembro de los Navajas.}
-{105}{}{Estás viendo a un miembro de los Navajas.}
+{104}{}{EstÃ¡s viendo a un miembro de los Navajas.}
+{105}{}{EstÃ¡s viendo a un miembro de los Navajas.}
 {106}{}{Piensas que puede ser Libros.}
 {107}{}{Piensas que puede ser Cicatrices.}
-{108}{}{Piensas que puede ser Pistolón.}
+{108}{}{Piensas que puede ser PistolÃ³n.}
 {109}{}{Piensas que puede ser Tembleque.}
 {110}{}{Piensas que puede ser Martillo.}
 {111}{}{Piensas que puede ser Cuchilla.}
-{112}{}{¡Piérdete! Esto es solo para verdaderos guerreros.}
-{113}{}{¿Así que crees que puedes meterte con los Reguladores y sus debiluchos? Mira, te enseñaré como usar ese cuchillo.}
-{114}{}{Ahora lo haces algo mejor. Ve a patearle el culo a Caleb por mí.}
-{115}{}{Buen trabajo con los Destripadores. ¿Qué puedo hacer por ti?}
-{116}{}{¿Puedes enseñarme algunas técnicas más de combate con cuchillos?}
-{117}{}{¿Cómo puedo ir a los Pistoleros?}
+{112}{}{Â¡PiÃ©rdete! Esto es solo para verdaderos guerreros.}
+{113}{}{Â¿AsÃ­ que crees que puedes meterte con los Reguladores y sus debiluchos? Mira, te enseÃ±arÃ© como usar ese cuchillo.}
+{114}{}{Ahora lo haces algo mejor. Ve a patearle el culo a Caleb por mÃ­.}
+{115}{}{Buen trabajo con los Destripadores. Â¿QuÃ© puedo hacer por ti?}
+{116}{}{Â¿Puedes enseÃ±arme algunas tÃ©cnicas mÃ¡s de combate con cuchillos?}
+{117}{}{Â¿CÃ³mo puedo ir a los Pistoleros?}
 {118}{}{Nada, gracias.}
-{119}{}{Claro. Pero tomará casi todo un día para una pequeña mejora. ¿Todavía quieres?}
-{120}{}{Sí.}
+{119}{}{Claro. Pero tomarÃ¡ casi todo un dÃ­a para una pequeÃ±a mejora. Â¿TodavÃ­a quieres?}
+{120}{}{SÃ­.}
 {121}{}{No.}
 {122}{}{Lo vas cogiendo. Parece que mejoras. Te deseo buena suerte.}
-{123}{}{Claro. Vuelve cuando quieras más entrenamiento.}
-{124}{}{Parece que hemos dejado entrar a un loco. Bueno, si quieres meterte,  hay un pequeño paso en su foso. Búscalo y corre como un loco. Puede que incluso lo consigas pasar.}
+{123}{}{Claro. Vuelve cuando quieras mÃ¡s entrenamiento.}
+{124}{}{Parece que hemos dejado entrar a un loco. Bueno, si quieres meterte,  hay un pequeÃ±o paso en su foso. BÃºscalo y corre como un loco. Puede que incluso lo consigas pasar.}
 {125}{}{Gracias.}

@@ -1,20 +1,20 @@
-{100}{}{Ves: a Kathy, la dueña de esta tienda.}
+{100}{}{Ves: a Kathy, la dueÃ±a de esta tienda.}
 {101}{}{Lo siento, hoy no tengo mucho tiempo.}
-{102}{}{¿Qué buscas hoy?}
-{103}{}{¿Sí? ¿Puedo ayudarte?}
-{104}{}{Lo siento, todavía no tenemos nuevas existencias.}
-{105}{}{¿Vendes armaduras?}
+{102}{}{Â¿QuÃ© buscas hoy?}
+{103}{}{Â¿SÃ­? Â¿Puedo ayudarte?}
+{104}{}{Lo siento, todavÃ­a no tenemos nuevas existencias.}
+{105}{}{Â¿Vendes armaduras?}
 {106}{}{Saludos.}
-{107}{}{Buenos días.}
-{108}{}{¿Ves algo que te guste?}
-{109}{}{Gracias por pararte aquí.}
+{107}{}{Buenos dÃ­as.}
+{108}{}{Â¿Ves algo que te guste?}
+{109}{}{Gracias por pararte aquÃ­.}
 {110}{}{Me alegro de verte.}
-{111}{}{Vuelve por aquí.}
+{111}{}{Vuelve por aquÃ­.}
 {112}{}{Hasta pronto.}
-{113}{}{Adiós.}
-{114}{}{Lo siento, intentaré tener pronto nuevos productos.}
-{115}{}{Creo que debería diversificarme.}
+{113}{}{AdiÃ³s.}
+{114}{}{Lo siento, intentarÃ© tener pronto nuevos productos.}
+{115}{}{Creo que deberÃ­a diversificarme.}
 {116}{}{Gracias.}
-{117}{}{Gracias por detenerte aquí.}
+{117}{}{Gracias por detenerte aquÃ­.}
 {118}{}{Siento no tener lo que buscabas.}
-{119}{}{Que pases un buen día.}
+{119}{}{Que pases un buen dÃ­a.}

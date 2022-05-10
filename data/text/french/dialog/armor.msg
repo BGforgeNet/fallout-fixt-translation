@@ -1,9 +1,9 @@
-{100}{}{Tu vois une SuperArmure endommagée.}
-{101}{}{Impossible de l'utiliser sans la réparer.}
-{102}{}{Une pièce impossible à trouver paraît manquer.}
-{103}{}{Il est clair que tu n'as pas encore les compétences suffisantes pour la réparer.}
-{104}{}{A toi de réparer l'armure.}
+{100}{}{Tu vois une SuperArmure endommagÃ©e.}
+{101}{}{Impossible de l'utiliser sans la rÃ©parer.}
+{102}{}{Une piÃ¨ce impossible Ã  trouver paraÃ®t manquer.}
+{103}{}{Il est clair que tu n'as pas encore les compÃ©tences suffisantes pour la rÃ©parer.}
+{104}{}{A toi de rÃ©parer l'armure.}
 {105}{}{Rien ne se passe.}
-{106}{}{Tu n'as pas réussi à réparer l'armure.}
+{106}{}{Tu n'as pas rÃ©ussi Ã  rÃ©parer l'armure.}
 {107}{}{Tu gagnes }
-{108}{}{ points d'expérience pour avoir réparé la SuperArmure.}
+{108}{}{ points d'expÃ©rience pour avoir rÃ©parÃ© la SuperArmure.}

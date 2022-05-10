@@ -1,13 +1,13 @@
-{100}{}{No estamos aquí para hablar.}
-{101}{}{Te seguiré hasta la muerte.}
-{102}{}{Es un trabajo muy importante, ¿no?}
-{103}{}{Nicole dice que debemos causar el máximo daño posible.}
-{104}{}{¿Quién será mi próxima víctima?}
-{105}{}{¿Por qué estamos charlando así?}
+{100}{}{No estamos aquÃ­ para hablar.}
+{101}{}{Te seguirÃ© hasta la muerte.}
+{102}{}{Es un trabajo muy importante, Â¿no?}
+{103}{}{Nicole dice que debemos causar el mÃ¡ximo daÃ±o posible.}
+{104}{}{Â¿QuiÃ©n serÃ¡ mi prÃ³xima vÃ­ctima?}
+{105}{}{Â¿Por quÃ© estamos charlando asÃ­?}
 {106}{}{No me gustan esas cabezas oscuras sin seso, gracias.}
-{107}{}{Esto podría ser peligroso.}
+{107}{}{Esto podrÃ­a ser peligroso.}
 {108}{}{Hora de irse.}
 {109}{}{Este lugar parece una mierda colgada de la pared.}
 {110}{}{Creo que me voy a enfermar.}
-{111}{}{Nicole nos dijo que volviéramos en cuanto abandonaras la Catedral.}
-{112}{}{Me alegro de verte. Dejémoslo así.}
+{111}{}{Nicole nos dijo que volviÃ©ramos en cuanto abandonaras la Catedral.}
+{112}{}{Me alegro de verte. DejÃ©moslo asÃ­.}

@@ -1,7 +1,7 @@
 {100}{}{Ves un prisionero desdichado.}
-{101}{}{Esta gente está loca. ¡Ayúdame a salir de aquí!}
-{102}{}{¡Ni hablar!}
-{103}{}{¡Muere!}
+{101}{}{Esta gente estÃ¡ loca. Â¡AyÃºdame a salir de aquÃ­!}
+{102}{}{Â¡Ni hablar!}
+{103}{}{Â¡Muere!}
 {104}{}{Vale.}
-{105}{}{Eh, gracias. Gracias. ¡Adiós!}
+{105}{}{Eh, gracias. Gracias. Â¡AdiÃ³s!}
 {106}{}{Pero... }

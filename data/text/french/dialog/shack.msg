@@ -1,1 +1,1 @@
-{100}{}{Voici une vieille cabane. Elle tient à peine debout et semble avoir été saccagée il y a longtemps.}
+{100}{}{Voici une vieille cabane. Elle tient Ã  peine debout et semble avoir Ã©tÃ© saccagÃ©e il y a longtemps.}

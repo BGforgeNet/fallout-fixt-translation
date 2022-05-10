@@ -6,13 +6,13 @@
 {105}{}{Ich bin }
 {106}{}{.}
 {107}{}{What's it to you?}
-{108}{}{Was ist das für ein Ort?}
+{108}{}{Was ist das fÃ¼r ein Ort?}
 {109}{LOX_1M}{Bloody fine job making it through the defenses, mate! I'm rather impressed. Toss me your name!}
 {110}{LOX_1F}{Bloody impressive making it through the defenses like that! What's your name, luv?}
 {111}{}{Ich bin }
 {112}{}{.}
 {113}{}{What's it to you?}
-{114}{}{Was ist das für ein Ort?}
+{114}{}{Was ist das fÃ¼r ein Ort?}
 {115}{}{You got a real interesting accent, my friend.}
 {116}{}{You talk like an idiot.}
 {117}{}{Nuhhh?}
@@ -72,7 +72,7 @@
 {171}{}{Ich bin }
 {172}{}{.}
 {173}{}{What's it to you?}
-{174}{}{Was ist das für ein Ort?}
+{174}{}{Was ist das fÃ¼r ein Ort?}
 {175}{}{You got a real interesting accent, my friend.}
 {176}{}{You talk like an idiot.}
 {177}{LOX_24}{What the hell do you want?}

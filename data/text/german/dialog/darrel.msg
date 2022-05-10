@@ -39,7 +39,7 @@
 {141}{}{How does one join the Brotherhood?}
 {143}{}{Heathens have tried and failed to take our Power Armor from us. They would have to kill a Brother to possess his birthright, and if it comes to that, the armor would be in such poor condition as to render it useless.}
 {144}{}{I think I'll try to take it off your cold, dead body.}
-{145}{}{Tschüss.}
+{145}{}{TschÃ¼ss.}
 {146}{}{Do I have to sacrifice a puppy to join?}
 {147}{}{Cumbersome? Not in the least. The sacred armor is so finely constructed to such exacting specifications that it feels like an extension of the blessed one's own body. It increases one's strength many times over and helps you resist the effects of radiation so that you may more effectively serve the Brotherhood. I would feel diminished without my holy armor.}
 {148}{}{How come no one else in the wastes has this armor?}
@@ -82,7 +82,7 @@
 {189}{}{Most topsiders think that it's just a big radioactive hole. Thus the name became the Glow or some even call it the Hot Spot. We in the Brotherhood know the truth. According to the ancient writings, this place was the source of all our technology... and who knows what may still be there.}
 {190}{}{Got another question for you.}
 {191}{}{Can I help you?}
-{192}{}{Macht nichts. Tschüss.}
+{192}{}{Macht nichts. TschÃ¼ss.}
 {193}{}{Sure, ask away.}
 {194}{}{Hallo.}
 {195}{}{Yes, Rutger came here personally not too long ago, and that's not like him. He was trying to find out what had been happening to his caravans. I've no idea what it could have been. A few others say they saw something over near the Hub, but it disappeared before they could get close enough. It's all very unnerving. I hope it's resolved soon.}
@@ -91,12 +91,12 @@
 {198}{}{Well, if you see anything, let me know. I'd like to get to the bottom of this soon myself.}
 {199}{}{Not really. I suspect it's foul play... but then again, there are a lot of strange and dangerous creatures out there in the wastelands. It could simply be some creature, or more likely, a herd or band of them. I hope that helps. Good day.}
 {201}{}{Thanks for your time. Bye.}
-{202}{}{OK, danke, Tschüss.}
+{202}{}{OK, danke, TschÃ¼ss.}
 {203}{}{Thanks for the info. Bye.}
 {204}{}{Thanks, Bye.}
 {205}{}{Okay... Thanks for the info.}
 {206}{}{Thank you for the warning. Bye.}
-{207}{}{Danke. Tschüss.}
+{207}{}{Danke. TschÃ¼ss.}
 {208}{}{Thank you for your time.}
 {209}{}{If you were lookin' to get a hold of some better arms, maybe you should try the Glow down south. [Darrel points south]}
 {210}{}{Here, take some Rad-X. [Darrel gives you some pills]}

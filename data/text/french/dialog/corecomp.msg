@@ -1,5 +1,5 @@
-{100}{}{Cet ordinateur contrôle les machines qui font fonctionner l'Abri.}
-{101}{}{Ton accès informatique a été largement limité sur ordre du système IA de l'Abri.}
-{102}{}{Voici l'Ordinateur Central de l'Abri 13. Il contrôle la majorité des postes de travail de l'Abri.}
-{103}{}{Tu manipules l'ordinateur mais tu ne découvres pas grand chose d'autre.}
-{104}{}{Cet appareil est équipé de nombreux voyants qui clignotent.}
+{100}{}{Cet ordinateur contrÃ´le les machines qui font fonctionner l'Abri.}
+{101}{}{Ton accÃ¨s informatique a Ã©tÃ© largement limitÃ© sur ordre du systÃ¨me IA de l'Abri.}
+{102}{}{Voici l'Ordinateur Central de l'Abri 13. Il contrÃ´le la majoritÃ© des postes de travail de l'Abri.}
+{103}{}{Tu manipules l'ordinateur mais tu ne dÃ©couvres pas grand chose d'autre.}
+{104}{}{Cet appareil est Ã©quipÃ© de nombreux voyants qui clignotent.}

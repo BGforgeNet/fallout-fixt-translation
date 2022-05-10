@@ -1,4 +1,4 @@
-{100}{}{Estás en tu habitación. ¿Quieres descansar aquí hasta mañana por la mañana?}
-{101}{}{Sí.}
+{100}{}{EstÃ¡s en tu habitaciÃ³n. Â¿Quieres descansar aquÃ­ hasta maÃ±ana por la maÃ±ana?}
+{101}{}{SÃ­.}
 {102}{}{No}
 {103}{}{Te levantas descansado.}

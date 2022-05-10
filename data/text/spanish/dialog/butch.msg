@@ -1,269 +1,269 @@
 {100}{}{Ves: a Butch.}
-{101}{}{Háblame de ti.}
-{102}{}{¿Has oído algún rumor interesante?}
-{103}{}{¿Qué más hay por aquí, aparte del Eje?}
-{104}{}{¿Qué hay en el Eje?}
+{101}{}{HÃ¡blame de ti.}
+{102}{}{Â¿Has oÃ­do algÃºn rumor interesante?}
+{103}{}{Â¿QuÃ© mÃ¡s hay por aquÃ­, aparte del Eje?}
+{104}{}{Â¿QuÃ© hay en el Eje?}
 {105}{}{Gracias, eso es todo.}
-{106}{BUTCH01}{¿Qué quieres?}
+{106}{BUTCH01}{Â¿QuÃ© quieres?}
 {107}{}{Necesito hacerte algunas preguntas.}
 {108}{}{Nada, gracias.}
-{109}{BUTCH02}{El tiempo es oro. Por charlar no dan chapas. ¿Estás aquí por el trabajo o qué?}
-{110}{}{Sí.}
-{111}{}{¿Qué trabajo?}
-{112}{}{¿Por las chapas o para qué?}
-{113}{BUTCH03}{¡Por fin, alguien con agallas! Trato hecho. Ve a hablar con mi segundo, Rutger. Él te dará los detalles.}
-{114}{}{¡Espera! ¡Primero tengo algunas preguntas acerca de este trabajo!}
+{109}{BUTCH02}{El tiempo es oro. Por charlar no dan chapas. Â¿EstÃ¡s aquÃ­ por el trabajo o quÃ©?}
+{110}{}{SÃ­.}
+{111}{}{Â¿QuÃ© trabajo?}
+{112}{}{Â¿Por las chapas o para quÃ©?}
+{113}{BUTCH03}{Â¡Por fin, alguien con agallas! Trato hecho. Ve a hablar con mi segundo, Rutger. Ã‰l te darÃ¡ los detalles.}
+{114}{}{Â¡Espera! Â¡Primero tengo algunas preguntas acerca de este trabajo!}
 {115}{}{Vale, gracias.}
-{116}{BUTCH04}{¡Ah, no fastidies! Hazlo rápido.}
-{117}{}{¿Cuánto pagan por hacerlo?}
-{118}{}{Eh... ¿cuál es el trabajo?}
-{119}{}{Bueno, si lo pides así... Iré a hablar con Rutger.}
-{120}{BUTCH05}{Eh... Rutger se ocupará. Él hace todos los trabajos insignificantes para los Comerciantes de Ultramar. Así que a por ello, ¡tengo trabajo que hacer!}
-{121}{}{Una pregunta más, ¿vale?}
+{116}{BUTCH04}{Â¡Ah, no fastidies! Hazlo rÃ¡pido.}
+{117}{}{Â¿CuÃ¡nto pagan por hacerlo?}
+{118}{}{Eh... Â¿cuÃ¡l es el trabajo?}
+{119}{}{Bueno, si lo pides asÃ­... IrÃ© a hablar con Rutger.}
+{120}{BUTCH05}{Eh... Rutger se ocuparÃ¡. Ã‰l hace todos los trabajos insignificantes para los Comerciantes de Ultramar. AsÃ­ que a por ello, Â¡tengo trabajo que hacer!}
+{121}{}{Una pregunta mÃ¡s, Â¿vale?}
 {122}{}{Vale, gracias.}
 {123}{BUTCH06}{Solo una. }
 {124}{}{ (Te das cuenta de que parece tenso)}
-{125}{}{Eh... ¿de qué va el trabajo?}
-{126}{}{¿Hay un tiempo límite para hacer el trabajo?}
-{127}{}{Eh, ¿y cuánto dices que pagan?}
-{128}{}{¿Eres tonto o qué?}
-{129}{}{Pareces tenso. ¿Quieres hablar sobre ello?}
-{130}{BUTCH07}{Pero qué... ¿has aceptado un trabajo sin saber de qué se trata? Maldición, debes estar en una situación desesperada. ¡Eso me gusta!}
-{131}{}{Dime de qué se trata, ¿vale?}
-{132}{}{Tú también pareces bastante desesperado, así que estamos igual.}
-{133}{BUTCH08}{Bueno, últimamente han desaparecido algunas de nuestras caravanas. Nadie ha podido descubrir qué ha sido de ellas.}
-{134}{}{¿Y qué quieres que haga yo?}
-{135}{}{Me parece que ni siquiera las habéis buscado.}
-{136}{BUTCH09}{Es fácil. Descubre quién lo ha hecho y dímelo. O deshazte de ellos. A mí me da lo mismo. ¡Solo quiero que hagas el trabajo!}
-{137}{}{¿Alguna pista de quién lo está haciendo?}
-{138}{}{Lo averiguaré.}
+{125}{}{Eh... Â¿de quÃ© va el trabajo?}
+{126}{}{Â¿Hay un tiempo lÃ­mite para hacer el trabajo?}
+{127}{}{Eh, Â¿y cuÃ¡nto dices que pagan?}
+{128}{}{Â¿Eres tonto o quÃ©?}
+{129}{}{Pareces tenso. Â¿Quieres hablar sobre ello?}
+{130}{BUTCH07}{Pero quÃ©... Â¿has aceptado un trabajo sin saber de quÃ© se trata? MaldiciÃ³n, debes estar en una situaciÃ³n desesperada. Â¡Eso me gusta!}
+{131}{}{Dime de quÃ© se trata, Â¿vale?}
+{132}{}{TÃº tambiÃ©n pareces bastante desesperado, asÃ­ que estamos igual.}
+{133}{BUTCH08}{Bueno, Ãºltimamente han desaparecido algunas de nuestras caravanas. Nadie ha podido descubrir quÃ© ha sido de ellas.}
+{134}{}{Â¿Y quÃ© quieres que haga yo?}
+{135}{}{Me parece que ni siquiera las habÃ©is buscado.}
+{136}{BUTCH09}{Es fÃ¡cil. Descubre quiÃ©n lo ha hecho y dÃ­melo. O deshazte de ellos. A mÃ­ me da lo mismo. Â¡Solo quiero que hagas el trabajo!}
+{137}{}{Â¿Alguna pista de quiÃ©n lo estÃ¡ haciendo?}
+{138}{}{Lo averiguarÃ©.}
 {139}{}{No me convence... Mejor paso.}
 {140}{BUTCH10}{No es nada fuera de lo corriente.}
 {141}{}{Oh, vamos. Debe haber algo que pueda usar.}
 {142}{butch11}{Escucha, no tengo tiempo de intercambiar historias contigo.}
 {143}{butch12}{Bueno, hay... algo, pero nunca hago caso a los rumores.}
-{144}{}{Yo sí. ¿De qué se trata?}
+{144}{}{Yo sÃ­. Â¿De quÃ© se trata?}
 {145}{}{Vale, gracias.}
-{146}{BUTCH13}{Pero... ¿de verdad quieres oírlo? De acuerdo, algunos dicen que es la Garra Mortal, pero... pero yo no sé nada sobre eso.}
+{146}{BUTCH13}{Pero... Â¿de verdad quieres oÃ­rlo? De acuerdo, algunos dicen que es la Garra Mortal, pero... pero yo no sÃ© nada sobre eso.}
 {147}{}{Lo dices asustado.}
-{148}{}{Gracias. ¿Puedo hacerte algunas preguntas?}
-{149}{}{¿Cómo puedo averiguar algo sobre la Garra Mortal?}
-{150}{butch13a}{¿Que cómo puedes...? Ve a hablar con Beth, ella sabe más sobre esa basura.}
-{151}{}{Estás más asustado que una oveja delante de un lobo.}
-{152}{}{Iré a investigarlo.}
-{153}{}{Necesito algo más de información.}
-{154}{BUTCH14}{Escucha, no tengo miedo. Solo soy... precavido. Y tú también deberías serlo con la Garra Mortal. Ve a hablar con Beth. Ella te contará más.}
-{155}{}{Pareces más asustado que una oveja delante de un lobo.}
-{156}{}{Lo sieeeeeento. Iré a investigarlo.}
-{157}{}{Necesito algo más de información.}
-{158}{BUTCH15}{Estoy harto de tus insultos, tú... ¡idiota! ¡No vuelvas! Rutger, ¡saca de aquí a esta cucaracha molesta!}
-{159}{BUTCH16}{Andando. Ahora largo de aquí y vuelve a hablar conmigo cuando descubras algo.}
-{160}{BUTCH17}{Hazlo rápido.}
-{161}{BUTCH18}{Entonces, ¡qué demonios hago aquí mirándote aún! ¡Largo!}
-{162}{butch19}{Eh... ¿qué has dicho?}
-{163}{}{Estaba diciendo que tú estás demasiado asustado para ir a por ella.}
-{164}{}{Nada. Entonces, ¿qué quieres que haga?}
-{165}{BUTCH20}{¿Sabes?, no me gustas. Pero eso no importa. ¿Quieres el trabajo o no?}
+{148}{}{Gracias. Â¿Puedo hacerte algunas preguntas?}
+{149}{}{Â¿CÃ³mo puedo averiguar algo sobre la Garra Mortal?}
+{150}{butch13a}{Â¿Que cÃ³mo puedes...? Ve a hablar con Beth, ella sabe mÃ¡s sobre esa basura.}
+{151}{}{EstÃ¡s mÃ¡s asustado que una oveja delante de un lobo.}
+{152}{}{IrÃ© a investigarlo.}
+{153}{}{Necesito algo mÃ¡s de informaciÃ³n.}
+{154}{BUTCH14}{Escucha, no tengo miedo. Solo soy... precavido. Y tÃº tambiÃ©n deberÃ­as serlo con la Garra Mortal. Ve a hablar con Beth. Ella te contarÃ¡ mÃ¡s.}
+{155}{}{Pareces mÃ¡s asustado que una oveja delante de un lobo.}
+{156}{}{Lo sieeeeeento. IrÃ© a investigarlo.}
+{157}{}{Necesito algo mÃ¡s de informaciÃ³n.}
+{158}{BUTCH15}{Estoy harto de tus insultos, tÃº... Â¡idiota! Â¡No vuelvas! Rutger, Â¡saca de aquÃ­ a esta cucaracha molesta!}
+{159}{BUTCH16}{Andando. Ahora largo de aquÃ­ y vuelve a hablar conmigo cuando descubras algo.}
+{160}{BUTCH17}{Hazlo rÃ¡pido.}
+{161}{BUTCH18}{Entonces, Â¡quÃ© demonios hago aquÃ­ mirÃ¡ndote aÃºn! Â¡Largo!}
+{162}{butch19}{Eh... Â¿quÃ© has dicho?}
+{163}{}{Estaba diciendo que tÃº estÃ¡s demasiado asustado para ir a por ella.}
+{164}{}{Nada. Entonces, Â¿quÃ© quieres que haga?}
+{165}{BUTCH20}{Â¿Sabes?, no me gustas. Pero eso no importa. Â¿Quieres el trabajo o no?}
 {166}{}{Claro.}
 {167}{}{No, gracias.}
-{168}{BUTCH19}{Eh... ¿qué has dicho?}
-{169}{}{Ya me has oído.}
-{170}{}{Nada. Entonces, ¿qué quieres que haga?}
-{171}{BUTCH22}{Sí, ¡ayer! ¡Ponte en marcha!}
-{172}{BUTCH23}{Mmm. ¿Pero qué quieres ahora?}
-{173}{}{Solo tenía curiosidad.}
+{168}{BUTCH19}{Eh... Â¿quÃ© has dicho?}
+{169}{}{Ya me has oÃ­do.}
+{170}{}{Nada. Entonces, Â¿quÃ© quieres que haga?}
+{171}{BUTCH22}{SÃ­, Â¡ayer! Â¡Ponte en marcha!}
+{172}{BUTCH23}{Mmm. Â¿Pero quÃ© quieres ahora?}
+{173}{}{Solo tenÃ­a curiosidad.}
 {174}{}{Por nada.}
-{175}{}{Da igual. Tengo algunas preguntas más.}
-{176}{BUTCH24}{Bueno, dirijo a los Comerciantes de Ultramar desde hace cinco años. Antes de eso estaba en Adytum. Y antes cerca de el Ardor.}
-{177}{}{¿Algo más?}
+{175}{}{Da igual. Tengo algunas preguntas mÃ¡s.}
+{176}{BUTCH24}{Bueno, dirijo a los Comerciantes de Ultramar desde hace cinco aÃ±os. Antes de eso estaba en Adytum. Y antes cerca de el Ardor.}
+{177}{}{Â¿Algo mÃ¡s?}
 {178}{}{Bien, gracias.}
 {179}{BUTCH25}{En realidad, no.}
-{180}{BUTCH26}{Sí, bueno, no me gusta ir por ahí hablando de mi vida personal y cosas así.}
-{181}{}{¡Oh, venga, por favor!}
-{182}{}{Ah, está bien.}
-{183}{BUTCH27}{¿Parezco yo un... un... uno de esos recuerdos para turistas? Pss.}
+{180}{BUTCH26}{SÃ­, bueno, no me gusta ir por ahÃ­ hablando de mi vida personal y cosas asÃ­.}
+{181}{}{Â¡Oh, venga, por favor!}
+{182}{}{Ah, estÃ¡ bien.}
+{183}{BUTCH27}{Â¿Parezco yo un... un... uno de esos recuerdos para turistas? Pss.}
 {184}{}{No, pareces un hombre muy brillante.}
 {185}{}{Solo quiero conocer algunos lugares.}
-{186}{BUTCH28}{Gracias. ¿Algo más?}
-{187}{BUTCH29}{Pues está la Ciudad Antigua y las Alturas, pero allí solo hay casas. En el centro tienes todos los establecimientos y demás.}
-{188}{}{¿Establecimientos de qué?}
+{186}{BUTCH28}{Gracias. Â¿Algo mÃ¡s?}
+{187}{BUTCH29}{Pues estÃ¡ la Ciudad Antigua y las Alturas, pero allÃ­ solo hay casas. En el centro tienes todos los establecimientos y demÃ¡s.}
+{188}{}{Â¿Establecimientos de quÃ©?}
 {189}{}{Gracias.}
-{190}{BUTCH30}{Pues de cosas. Si te interesa la ciudad, ¡ve a verlo por tu cuenta!}
+{190}{BUTCH30}{Pues de cosas. Si te interesa la ciudad, Â¡ve a verlo por tu cuenta!}
 {191}{}{Eh, gracias por nada.}
 {192}{}{Gracias.}
-{193}{BUTCH19}{Eh... ¿qué has dicho?}
-{194}{}{¿Estás sordo?}
-{195}{}{Nada. Aunque necesito hacerte algunas preguntas más.}
-{196}{BUTCH32}{Bueno, está el Halcón Maltés, un buen lugar para comer, créeme. Y luego... veamos, el Almacén Todo en Uno, la Armería... y por supuesto, las Delicias de Iguana de Bob.}
+{193}{BUTCH19}{Eh... Â¿quÃ© has dicho?}
+{194}{}{Â¿EstÃ¡s sordo?}
+{195}{}{Nada. Aunque necesito hacerte algunas preguntas mÃ¡s.}
+{196}{BUTCH32}{Bueno, estÃ¡ el HalcÃ³n MaltÃ©s, un buen lugar para comer, crÃ©eme. Y luego... veamos, el AlmacÃ©n Todo en Uno, la ArmerÃ­a... y por supuesto, las Delicias de Iguana de Bob.}
 {197}{}{Gracias.}
-{198}{}{¿Algo más?}
-{199}{BUTCH33}{En el lado oeste del Centro tienes el hospital de los Niños de la Catedral. Y además, por supuesto, están los Mercaderes de Agua al sur y la Caravana Carmesí al oeste.}
+{198}{}{Â¿Algo mÃ¡s?}
+{199}{BUTCH33}{En el lado oeste del Centro tienes el hospital de los NiÃ±os de la Catedral. Y ademÃ¡s, por supuesto, estÃ¡n los Mercaderes de Agua al sur y la Caravana CarmesÃ­ al oeste.}
 {200}{}{Gracias.}
-{201}{BUTCH34}{Bueno, al norte está Ciudad Vertedero y al noroeste la Hermandad del Acero. Y por supuesto, el Cementerio al sur.}
-{202}{}{¿Algo más?}
+{201}{BUTCH34}{Bueno, al norte estÃ¡ Ciudad Vertedero y al noroeste la Hermandad del Acero. Y por supuesto, el Cementerio al sur.}
+{202}{}{Â¿Algo mÃ¡s?}
 {203}{}{Gracias.}
-{204}{BUTCH35}{Sí, Necrópolis está al este. Pero, eh... yo no me dejaría caer por allí, no sé si me entiendes. Esos necrófagos tardan menos en comerse la cara de un hombre que una vieja comprando en las rebajas.}
+{204}{BUTCH35}{SÃ­, NecrÃ³polis estÃ¡ al este. Pero, eh... yo no me dejarÃ­a caer por allÃ­, no sÃ© si me entiendes. Esos necrÃ³fagos tardan menos en comerse la cara de un hombre que una vieja comprando en las rebajas.}
 {205}{}{Suena divertido.}
-{206}{BUTCH35a}{Puff. Quizás para ti. Si eso te gusta, ve al Ardor, hacia el sur. Es una fosa radiactiva.}
-{207}{}{Quizá me dedique a tomar el sol.}
-{208}{BUTCH36}{Tienes muchos lugares donde elegir. ¡Ve a mirarlos por tu cuenta!}
+{206}{BUTCH35a}{Puff. QuizÃ¡s para ti. Si eso te gusta, ve al Ardor, hacia el sur. Es una fosa radiactiva.}
+{207}{}{QuizÃ¡ me dedique a tomar el sol.}
+{208}{BUTCH36}{Tienes muchos lugares donde elegir. Â¡Ve a mirarlos por tu cuenta!}
 {209}{}{Bien, gracias por nada.}
 {210}{}{Gracias.}
-{211}{BUTCH37}{Bueno, ¿qué has descubierto?}
-{212}{}{Bueno, he descubierto quién se está llevando las caravanas.}
-{213}{}{Bueno, sé que no fue la Garra Mortal quien se llevó las caravanas.}
-{214}{}{Por ahora nada. Adiós.}
-{215}{BUTCH38}{¿De verdad? ¿Quién?}
+{211}{BUTCH37}{Bueno, Â¿quÃ© has descubierto?}
+{212}{}{Bueno, he descubierto quiÃ©n se estÃ¡ llevando las caravanas.}
+{213}{}{Bueno, sÃ© que no fue la Garra Mortal quien se llevÃ³ las caravanas.}
+{214}{}{Por ahora nada. AdiÃ³s.}
+{215}{BUTCH38}{Â¿De verdad? Â¿QuiÃ©n?}
 {216}{}{Son esos grandes tipos mutantes.}
-{217}{}{¡Ratas! GRANDES ratas con GRANDES dientes...}
-{218}{BUTCH39}{Pero... ¿para qué quieren los mutantes nuestras caravanas?}
-{219}{}{No lo sé, pero están cogiendo prisioneros a los humanos.}
-{220}{}{No lo sé seguro. Pero son los mutantes, no la Garra Mortal.}
-{221}{BUTCH40}{Pero, ¿lo que intentas decirme es que has estado allí? ¿Acaso has visto a la Garra Mortal?}
-{222}{}{Estuve allí, la vi y la maté.}
+{217}{}{Â¡Ratas! GRANDES ratas con GRANDES dientes...}
+{218}{BUTCH39}{Pero... Â¿para quÃ© quieren los mutantes nuestras caravanas?}
+{219}{}{No lo sÃ©, pero estÃ¡n cogiendo prisioneros a los humanos.}
+{220}{}{No lo sÃ© seguro. Pero son los mutantes, no la Garra Mortal.}
+{221}{BUTCH40}{Pero, Â¿lo que intentas decirme es que has estado allÃ­? Â¿Acaso has visto a la Garra Mortal?}
+{222}{}{Estuve allÃ­, la vi y la matÃ©.}
 {223}{}{Te estoy diciendo que no fue la Garra Mortal.}
-{224}{BUTCH41}{¿Tú... la mataste? Bueno, yo... eh... em... eh, ¿de dónde vienen esos mutantes?}
+{224}{BUTCH41}{Â¿TÃº... la mataste? Bueno, yo... eh... em... eh, Â¿de dÃ³nde vienen esos mutantes?}
 {225}{}{Del noroeste. Creo que tienen alguna clase de puesto avanzado en esa zona.}
 {226}{}{Lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Trabajan para un loco llamado El Maestro. Y tampoco son mutantes normales.}
-{227}{BUTCH42}{¿Una base? Bien... em... bueno eh. Tengo que hablar con el Comité. Sí... sí, ellos sabrán que hacer. Ya veremos. Ahora largo, que tengo cosas que hacer... ¿vale?}
-{228}{BUTCH43}{¿El Maestro? E-es un mito aún mayor que el de la Garra Mortal. Tú... no crees que sea real, ¿verdad?}
-{229}{}{No estoy seguro. Pero intentaré descubrirlo.}
-{230}{}{Sí, ¡lo he visto! ¡Y viene a por ti!}
-{231}{BUTCH44}{Sí, claro... sí, ¡hazlo! Eh, tengo que hablar con el Comité. Ellos sabrán qué hacer. ¡A-A-Ahora vete! Tengo mucho que hacer... ¿entiendes?}
-{232}{BUTCH45}{¡¿Qué?! Bueno... bien... ¡no tengo miedo! ¡Rutger! ¡Tengo armas! ¡Rutger!}
-{233}{BUTCH46}{De acuerdo, entonces no era la Garra Mortal. Pero, ¿qué querrán de nuestras caravanas los mutantes en la Ciudad Antigua? A no ser que sea una especie de conspiración.}
-{234}{}{No, no, no, idiota. Estos mutantes son grandes y verdes y tienen un ejército en las montañas al norte.}
-{235}{}{Eres estúpido, ¿verdad? ¡No me estás escuchando!}
-{236}{BUTCH47}{¿Qué? ¡Largo! Tengo que hablar de esto con el Comité. ¡Venga, largo!}
+{227}{BUTCH42}{Â¿Una base? Bien... em... bueno eh. Tengo que hablar con el ComitÃ©. SÃ­... sÃ­, ellos sabrÃ¡n que hacer. Ya veremos. Ahora largo, que tengo cosas que hacer... Â¿vale?}
+{228}{BUTCH43}{Â¿El Maestro? E-es un mito aÃºn mayor que el de la Garra Mortal. TÃº... no crees que sea real, Â¿verdad?}
+{229}{}{No estoy seguro. Pero intentarÃ© descubrirlo.}
+{230}{}{SÃ­, Â¡lo he visto! Â¡Y viene a por ti!}
+{231}{BUTCH44}{SÃ­, claro... sÃ­, Â¡hazlo! Eh, tengo que hablar con el ComitÃ©. Ellos sabrÃ¡n quÃ© hacer. Â¡A-A-Ahora vete! Tengo mucho que hacer... Â¿entiendes?}
+{232}{BUTCH45}{Â¡Â¿QuÃ©?! Bueno... bien... Â¡no tengo miedo! Â¡Rutger! Â¡Tengo armas! Â¡Rutger!}
+{233}{BUTCH46}{De acuerdo, entonces no era la Garra Mortal. Pero, Â¿quÃ© querrÃ¡n de nuestras caravanas los mutantes en la Ciudad Antigua? A no ser que sea una especie de conspiraciÃ³n.}
+{234}{}{No, no, no, idiota. Estos mutantes son grandes y verdes y tienen un ejÃ©rcito en las montaÃ±as al norte.}
+{235}{}{Eres estÃºpido, Â¿verdad? Â¡No me estÃ¡s escuchando!}
+{236}{BUTCH47}{Â¿QuÃ©? Â¡Largo! Tengo que hablar de esto con el ComitÃ©. Â¡Venga, largo!}
 {237}{BUTCH48}{Venga, vamos. Lo puedes hacer mejor.}
 {238}{}{No, de veras. Son esos grandes mutantes verdes.}
-{239}{}{Tienes razón.}
-{240}{}{Oh, venga. ¿Crees que una mujer como yo te mentiría?}
-{241}{BUTCH49}{No tengo tiempo para esto. ¡Largo, y no vuelvas hasta que hayas descubierto algo interesante!}
-{242}{BUTCH50}{Bueno, ¿entonces qué es?}
+{239}{}{Tienes razÃ³n.}
+{240}{}{Oh, venga. Â¿Crees que una mujer como yo te mentirÃ­a?}
+{241}{BUTCH49}{No tengo tiempo para esto. Â¡Largo, y no vuelvas hasta que hayas descubierto algo interesante!}
+{242}{BUTCH50}{Bueno, Â¿entonces quÃ© es?}
 {243}{}{En realidad SON esos grandes tipos mutantes... }
-{244}{}{Ratas, ¡te lo dije! Grandes, peludas...}
-{245}{BUTCH51}{¿Ratas? Tienes que estar bromeando.}
-{246}{}{No, de verdad. ¡Ratas GIGANTES!}
-{247}{}{Tienes razón. Estoy bromeando.}
-{248}{BUTCH52}{Bien... de acuerdo. Se lo diré al Comité, pero no creo que se lo crean. Aunque he visto algunas ratas de esas enormes en los alrededores...}
-{249}{BUTCH53}{¿Cómo lo sabes? ¿Viste a la Garra Mortal?}
-{250}{}{Estuve allí, la vi y la maté.}
-{251}{}{Tan solo confía en mí. Sé lo que digo.}
-{252}{BUTCH54}{Tú... ¿la mataste?}
-{253}{}{Sí, claro que sí.}
-{254}{BUTCH54a}{Bueno, entonces, ¿entonces quién está robando mis caravanas?}
-{255}{}{Todavía no lo sé pero lo averiguaré.}
+{244}{}{Ratas, Â¡te lo dije! Grandes, peludas...}
+{245}{BUTCH51}{Â¿Ratas? Tienes que estar bromeando.}
+{246}{}{No, de verdad. Â¡Ratas GIGANTES!}
+{247}{}{Tienes razÃ³n. Estoy bromeando.}
+{248}{BUTCH52}{Bien... de acuerdo. Se lo dirÃ© al ComitÃ©, pero no creo que se lo crean. Aunque he visto algunas ratas de esas enormes en los alrededores...}
+{249}{BUTCH53}{Â¿CÃ³mo lo sabes? Â¿Viste a la Garra Mortal?}
+{250}{}{Estuve allÃ­, la vi y la matÃ©.}
+{251}{}{Tan solo confÃ­a en mÃ­. SÃ© lo que digo.}
+{252}{BUTCH54}{TÃº... Â¿la mataste?}
+{253}{}{SÃ­, claro que sÃ­.}
+{254}{BUTCH54a}{Bueno, entonces, Â¿entonces quiÃ©n estÃ¡ robando mis caravanas?}
+{255}{}{TodavÃ­a no lo sÃ© pero lo averiguarÃ©.}
 {256}{}{Ralph lo hizo.}
-{257}{BUTCH55}{Eh, hazlo. Y vuelve a contármelo. ¿De acuerdo?}
-{258}{BUTCH56}{¿Quién diablos es Ralph?}
-{259}{}{Da igual. Buscaré más información sobre el problema de las caravanas.}
-{260}{}{¡Viene a por tu alma!}
-{261}{BUTCH57}{¡Eh! Te estás riendo de mí, ¿verdad? Rutger, ¡muéstrale la puerta a esta sabandija! ¡Y no vuelvas hasta que hayas descubierto algo de valor!}
-{262}{BUTCH58}{Sí, claro. Y yo me lo creo. Vete a buscar algo que sea realmente útil.}
-{263}{BUTCH59}{Bien, ¿qué tienes para mí?}
+{257}{BUTCH55}{Eh, hazlo. Y vuelve a contÃ¡rmelo. Â¿De acuerdo?}
+{258}{BUTCH56}{Â¿QuiÃ©n diablos es Ralph?}
+{259}{}{Da igual. BuscarÃ© mÃ¡s informaciÃ³n sobre el problema de las caravanas.}
+{260}{}{Â¡Viene a por tu alma!}
+{261}{BUTCH57}{Â¡Eh! Te estÃ¡s riendo de mÃ­, Â¿verdad? Rutger, Â¡muÃ©strale la puerta a esta sabandija! Â¡Y no vuelvas hasta que hayas descubierto algo de valor!}
+{262}{BUTCH58}{SÃ­, claro. Y yo me lo creo. Vete a buscar algo que sea realmente Ãºtil.}
+{263}{BUTCH59}{Bien, Â¿quÃ© tienes para mÃ­?}
 {264}{}{Fueron los Mutantes.}
-{265}{}{Bueno, sé que no fue la Garra Mortal quien se llevó las caravanas.}
-{266}{BUTCH60}{¡Déjame en paz! Toma tu recompensa, ¡y ahora largo!}
-{267}{BUTCH61}{¡Eh, baja eso!}
-{268}{BUTCH62}{Eso es todo. ¡Rutger te lo va a sacar de tu piel!}
-{269}{BUTCH63}{¡Detén eso, ahora mismo!}
-{270}{BUTCH64}{Pero bueno, ¿qué estás haciendo aquí? ¡Largo!}
-{272}{butch65}{Oh... bueno, ¡no es así, largo!}
-{273}{BUTCH66}{Rutger te va a convertir en galleta humana. Que te diviertas. ¡RUTGER!}
-{274}{BUTCH67}{Bien, eres muy brillante, ¿verdad? Este es el trabajo: Averigua quién está robando mis caravanas. Muchas chapas. Si fallas, mucho daño. ¿Entendido? ¡Y ahora largo de aquí!}
-{275}{BUTCH67a}{Guau, eres tontorrón. No tengo tiempo para esto. Ve a hablar con Rutger.}
-{276}{BUTCH68}{Ve a hablar con Rutger. Él puede contarte más sobre esa basura.}
+{265}{}{Bueno, sÃ© que no fue la Garra Mortal quien se llevÃ³ las caravanas.}
+{266}{BUTCH60}{Â¡DÃ©jame en paz! Toma tu recompensa, Â¡y ahora largo!}
+{267}{BUTCH61}{Â¡Eh, baja eso!}
+{268}{BUTCH62}{Eso es todo. Â¡Rutger te lo va a sacar de tu piel!}
+{269}{BUTCH63}{Â¡DetÃ©n eso, ahora mismo!}
+{270}{BUTCH64}{Pero bueno, Â¿quÃ© estÃ¡s haciendo aquÃ­? Â¡Largo!}
+{272}{butch65}{Oh... bueno, Â¡no es asÃ­, largo!}
+{273}{BUTCH66}{Rutger te va a convertir en galleta humana. Que te diviertas. Â¡RUTGER!}
+{274}{BUTCH67}{Bien, eres muy brillante, Â¿verdad? Este es el trabajo: Averigua quiÃ©n estÃ¡ robando mis caravanas. Muchas chapas. Si fallas, mucho daÃ±o. Â¿Entendido? Â¡Y ahora largo de aquÃ­!}
+{275}{BUTCH67a}{Guau, eres tontorrÃ³n. No tengo tiempo para esto. Ve a hablar con Rutger.}
+{276}{BUTCH68}{Ve a hablar con Rutger. Ã‰l puede contarte mÃ¡s sobre esa basura.}
 {277}{BUTCH69}{Como te dije...}
 {278}{BUTCH70a}{Como dije...}
-{279}{BUTCH71}{¡No voy a repetirlo otra vez!}
-{280}{BUTCH72}{Escucha, ¡no voy a decirlo otra vez!}
-{281}{BUTCH73}{Es el dueño del Halcón Maltés que está al oeste. Yo que tú me mantendría apartado de él. No es honrado como yo.}
+{279}{BUTCH71}{Â¡No voy a repetirlo otra vez!}
+{280}{BUTCH72}{Escucha, Â¡no voy a decirlo otra vez!}
+{281}{BUTCH73}{Es el dueÃ±o del HalcÃ³n MaltÃ©s que estÃ¡ al oeste. Yo que tÃº me mantendrÃ­a apartado de Ã©l. No es honrado como yo.}
 {282}{BUTCH74}{Oh, no. Oh no, no hablamos de eso.}
-{283}{BUTCH75}{El Halcón Maltés es un club nocturno del lado oeste. Hope canta allí. Es una muñeca.}
+{283}{BUTCH75}{El HalcÃ³n MaltÃ©s es un club nocturno del lado oeste. Hope canta allÃ­. Es una muÃ±eca.}
 {284}{BUTCH76}{Son una molestia. Creemos que tienen un escondrijo en la Ciudad Antigua, pero no podemos demostrarlo.}
-{285}{BUTCH77}{Oh, es el Sheriff. Pero si ves un delito infórmame a mí. Justin no hace valer la ley por aquí.}
-{286}{BUTCH78}{¿El viejo Harold? ¿Qué quieres de ese viejo mutante? Está en la Ciudad Antigua. Pregunta por allí.}
-{287}{BUTCH79}{Esos bastardos. Daren Hightower cree que es el dueño del maldito Eje, solo por la Torre de Agua.}
+{285}{BUTCH77}{Oh, es el Sheriff. Pero si ves un delito infÃ³rmame a mÃ­. Justin no hace valer la ley por aquÃ­.}
+{286}{BUTCH78}{Â¿El viejo Harold? Â¿QuÃ© quieres de ese viejo mutante? EstÃ¡ en la Ciudad Antigua. Pregunta por allÃ­.}
+{287}{BUTCH79}{Esos bastardos. Daren Hightower cree que es el dueÃ±o del maldito Eje, solo por la Torre de Agua.}
 {288}{BUTCH80}{Dirige a los Comerciantes de Agua. Es un bastardo cruel y avaro.}
-{289}{BUTCH81}{Puedes encontrarlos en el lado noroeste del Centro. Controlaban el hospital antes de que los Niños se mudaran. Dicen que cambian lo extraño por lo raro.}
-{290}{BUTCH82}{Es el jefe de la Caravana Carmesí. Por si quieres mi opinión, es un chiflado.}
-{291}{BUTCH83}{¿No sabes dónde pones los pies?}
-{292}{BUTCH84}{Ese soy yo. ¿Estás ciego o qué?}
-{293}{BUTCH85}{Eh, Beth es la gerente de la Armería. Se oyen muchos rumores, si es que estás en el ajo de ese tipo de negocios.}
+{289}{BUTCH81}{Puedes encontrarlos en el lado noroeste del Centro. Controlaban el hospital antes de que los NiÃ±os se mudaran. Dicen que cambian lo extraÃ±o por lo raro.}
+{290}{BUTCH82}{Es el jefe de la Caravana CarmesÃ­. Por si quieres mi opiniÃ³n, es un chiflado.}
+{291}{BUTCH83}{Â¿No sabes dÃ³nde pones los pies?}
+{292}{BUTCH84}{Ese soy yo. Â¿EstÃ¡s ciego o quÃ©?}
+{293}{BUTCH85}{Eh, Beth es la gerente de la ArmerÃ­a. Se oyen muchos rumores, si es que estÃ¡s en el ajo de ese tipo de negocios.}
 {294}{BUTCH86}{Rutger es mi ayudante.}
-{295}{BUTCH87}{Está al sur del Mercado de Mercaderes. Es la única fuente de agua de aquí y de varios kilómetros a la redonda. Los Mercaderes de Agua son los dueños de esa maldita cosa.}
-{296}{BUTCH88}{En el último mes me han desaparecido tres de mis caravanas. Al principio creía que eran los Mercaderes de Agua o la Caravana Carmesí, pero a ellos también les han desaparecido.}
+{295}{BUTCH87}{EstÃ¡ al sur del Mercado de Mercaderes. Es la Ãºnica fuente de agua de aquÃ­ y de varios kilÃ³metros a la redonda. Los Mercaderes de Agua son los dueÃ±os de esa maldita cosa.}
+{296}{BUTCH88}{En el Ãºltimo mes me han desaparecido tres de mis caravanas. Al principio creÃ­a que eran los Mercaderes de Agua o la Caravana CarmesÃ­, pero a ellos tambiÃ©n les han desaparecido.}
 {297}{BUTCH89}{Es donde todo el mundo comercia. Justo en el medio de la ciudad.}
 {298}{BUTCH90}{Oh, no yo-yo no... ve a hablar con Beth, ella sabe mucho sobre esa basura.}
-{299}{BUTCH91}{El Ardor es un foso radiactivo que está en dirección sur. Demasiada radiación para que alguien pueda vivir allí.}
-{300}{BUTCH92}{La Ciudad Antigua está en el lado este. Los yonquis andan por allí.}
-{301}{butch93}{Está por el lado oeste.}
-{302}{BUTCH94}{¿Ciudad Vertedero? Sí, he estado al norte de ese lugar un par de veces. Conseguí buenas bebidas.}
-{303}{BUTCH95}{¿Ciudad Vertedero? Está al norte. He oído que tienen algunos problemas, con todo eso de que han matado al alcalde Killian.}
-{304}{BUTCH96}{Es el alcalde de Ciudad Vertedero, es todo lo que sé.}
-{305}{BUTCH97}{He oído que está muerto. ¿Qué más quieres saber?}
-{306}{BUTCH98}{Oh, son un montón de tipos extraños que están al noroeste. Extraños de verdad. Aunque fabrican unas armas magníficas.}
-{307}{BUTCH99}{Dirige la Hermandad. Eso es todo lo que sé.}
-{308}{BUTCH100}{Bueno, es una gran ciudad en ruinas que está al sur. Los Niños, los Seguidores y Adytum están allí con todas las bandas y eso.}
-{309}{BUTCH101}{¿Por qué? ¿Qué has oído? Yo he oído que ha sido saqueado pero nadie sabe quién lo hizo. Pero, eh, no estoy preocupado. Nadie puede tomar el Eje.}
-{310}{BUTCH102}{Bueno, es el lugar en el Cementerio donde todo el mundo va a comerciar. Es el único lugar lo suficientemente civilizado para hacerlo.}
-{311}{BUTCH103}{Lo último que he oído es que es el alcalde de Adytum.}
-{312}{BUTCH104}{Dirigen un viejo y grande hospital en el lado suroeste del Centro. Son un puñado de chiflados religiosos, eso es lo que son.}
-{313}{BUTCH105}{Dirige a los Niños de la Catedral abajo en el Cementerio.}
-{314}{BUTCH105a}{Jain es la Suma Sacerdotisa de los Niños de la Catedral y estableció el hospital aquí en el Eje.}
-{315}{BUTCH106}{Yo, eh... he oído historias, eso es todo. No me las creo.}
-{316}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mío. Sal por esa puerta y a la derecha. No tiene pérdida.}
+{299}{BUTCH91}{El Ardor es un foso radiactivo que estÃ¡ en direcciÃ³n sur. Demasiada radiaciÃ³n para que alguien pueda vivir allÃ­.}
+{300}{BUTCH92}{La Ciudad Antigua estÃ¡ en el lado este. Los yonquis andan por allÃ­.}
+{301}{butch93}{EstÃ¡ por el lado oeste.}
+{302}{BUTCH94}{Â¿Ciudad Vertedero? SÃ­, he estado al norte de ese lugar un par de veces. ConseguÃ­ buenas bebidas.}
+{303}{BUTCH95}{Â¿Ciudad Vertedero? EstÃ¡ al norte. He oÃ­do que tienen algunos problemas, con todo eso de que han matado al alcalde Killian.}
+{304}{BUTCH96}{Es el alcalde de Ciudad Vertedero, es todo lo que sÃ©.}
+{305}{BUTCH97}{He oÃ­do que estÃ¡ muerto. Â¿QuÃ© mÃ¡s quieres saber?}
+{306}{BUTCH98}{Oh, son un montÃ³n de tipos extraÃ±os que estÃ¡n al noroeste. ExtraÃ±os de verdad. Aunque fabrican unas armas magnÃ­ficas.}
+{307}{BUTCH99}{Dirige la Hermandad. Eso es todo lo que sÃ©.}
+{308}{BUTCH100}{Bueno, es una gran ciudad en ruinas que estÃ¡ al sur. Los NiÃ±os, los Seguidores y Adytum estÃ¡n allÃ­ con todas las bandas y eso.}
+{309}{BUTCH101}{Â¿Por quÃ©? Â¿QuÃ© has oÃ­do? Yo he oÃ­do que ha sido saqueado pero nadie sabe quiÃ©n lo hizo. Pero, eh, no estoy preocupado. Nadie puede tomar el Eje.}
+{310}{BUTCH102}{Bueno, es el lugar en el Cementerio donde todo el mundo va a comerciar. Es el Ãºnico lugar lo suficientemente civilizado para hacerlo.}
+{311}{BUTCH103}{Lo Ãºltimo que he oÃ­do es que es el alcalde de Adytum.}
+{312}{BUTCH104}{Dirigen un viejo y grande hospital en el lado suroeste del Centro. Son un puÃ±ado de chiflados religiosos, eso es lo que son.}
+{313}{BUTCH105}{Dirige a los NiÃ±os de la Catedral abajo en el Cementerio.}
+{314}{BUTCH105a}{Jain es la Suma Sacerdotisa de los NiÃ±os de la Catedral y estableciÃ³ el hospital aquÃ­ en el Eje.}
+{315}{BUTCH106}{Yo, eh... he oÃ­do historias, eso es todo. No me las creo.}
+{316}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mÃ­o. Sal por esa puerta y a la derecha. No tiene pÃ©rdida.}
 {317}{BUTCH108}{Oh, se come muy bien. Bob sirve la mejor iguana chamuscada de este lado del desierto.}
-{318}{BUTCH109}{Bueno, tú... eh... no quieras ir allí. Es muy caro y la calidad no es muy buena.}
-{319}{BUTCH110}{¿Qué quieres de esos colgados? Pff, me ponen enfermo todos esos sermones sobre la paz y achuchones.}
-{320}{BUTCH111}{No sé nada sobre eso.}
-{321}{BUTCH112}{Yo... eh... creo que no quiero decírtelo. Sí, eso es.}
-{322}{BUTCH113}{Nunca lo había oído. Debes habértelo inventado o algo así.}
-{323}{BUTCH114}{Bueno, lo último que oí fue que alguien lo despedazó. Aunque no sé quién.}
-{324}{}{Ahora mismo estoy ocupado. Habla con Rutger. Ya me hará saber si merece la pena hablar contigo.}
+{318}{BUTCH109}{Bueno, tÃº... eh... no quieras ir allÃ­. Es muy caro y la calidad no es muy buena.}
+{319}{BUTCH110}{Â¿QuÃ© quieres de esos colgados? Pff, me ponen enfermo todos esos sermones sobre la paz y achuchones.}
+{320}{BUTCH111}{No sÃ© nada sobre eso.}
+{321}{BUTCH112}{Yo... eh... creo que no quiero decÃ­rtelo. SÃ­, eso es.}
+{322}{BUTCH113}{Nunca lo habÃ­a oÃ­do. Debes habÃ©rtelo inventado o algo asÃ­.}
+{323}{BUTCH114}{Bueno, lo Ãºltimo que oÃ­ fue que alguien lo despedazÃ³. Aunque no sÃ© quiÃ©n.}
+{324}{}{Ahora mismo estoy ocupado. Habla con Rutger. Ya me harÃ¡ saber si merece la pena hablar contigo.}
 {325}{}{No tengo nada que decirte.}
-{326}{}{¿Dónde recojo mi recompensa?}
-{327}{}{¿Qué se supone que tenía que volver a hacer?}
-{328}{}{¡Lárgate al carajo de aquí!}
-{329}{}{Nada todavía.}
-{330}{}{¡¡¡Gruñe!!!}
-{331}{}{Sal de aquí, subnormal.}
-{332}{}{Lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Y tampoco son mutantes normales. Son enormes y están muy bien armados. Trabajan para un loco llamado El Maestro. Están organizados y secuestran a gente de las caravanas.}
-{333}{}{Lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Y tampoco son mutantes normales. Son enormes y están muy bien armados.}
-{334}{}{Lejos, hacia el noroeste. Es alguna clase de puesto avanzado o centro de operaciones. Trabajan para un loco llamado El Maestro. Están organizados y secuestran a gente de las caravanas.}
+{326}{}{Â¿DÃ³nde recojo mi recompensa?}
+{327}{}{Â¿QuÃ© se supone que tenÃ­a que volver a hacer?}
+{328}{}{Â¡LÃ¡rgate al carajo de aquÃ­!}
+{329}{}{Nada todavÃ­a.}
+{330}{}{Â¡Â¡Â¡GruÃ±e!!!}
+{331}{}{Sal de aquÃ­, subnormal.}
+{332}{}{Lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Y tampoco son mutantes normales. Son enormes y estÃ¡n muy bien armados. Trabajan para un loco llamado El Maestro. EstÃ¡n organizados y secuestran a gente de las caravanas.}
+{333}{}{Lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Y tampoco son mutantes normales. Son enormes y estÃ¡n muy bien armados.}
+{334}{}{Lejos, hacia el noroeste. Es alguna clase de puesto avanzado o centro de operaciones. Trabajan para un loco llamado El Maestro. EstÃ¡n organizados y secuestran a gente de las caravanas.}
 {335}{}{Lejos, hacia el noroeste. Es alguna clase de puesto avanzado o centro de operaciones.}
-{336}{}{Del noroeste. Trabajan para un loco llamado El Maestro. Están organizados y secuestran a gente de las caravanas.}
+{336}{}{Del noroeste. Trabajan para un loco llamado El Maestro. EstÃ¡n organizados y secuestran a gente de las caravanas.}
 {337}{}{Del noroeste. Creo que tienen alguna clase de puesto avanzado en esa zona.}
-{338}{}{Todavía no lo sé, pero trabajan para un loco llamado El Maestro. Están organizados y secuestran a gente de las caravanas.}
-{339}{}{Todavía no lo sé, pero había un mutante grande y verde en una cueva cerca de la ciudad, farfullaba acerca de una misión que le mandó un tío llamado "Maestro".}
-{340}{}{Todavía no lo sé, pero conseguí este disco extraño de un mutante grande y verde que decía algo acerca de su "Maestro".}
-{341}{}{No, no, no, idiota. Estos mutantes son verdes, y vienen desde lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Y tampoco son mutantes normales. Son enormes y están muy bien armados. Trabajan para un loco llamado El Maestro. Están organizados y secuestran a gente de las caravanas.}
-{342}{}{No, no, no, idiota. Estos mutantes son verdes, y vienen desde lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Y tampoco son mutantes normales. Son enormes y están muy bien armados.}
-{343}{}{No, no, no, idiota. Estos mutantes son grandes y verdes, y vienen desde lejos, hacia el noroeste. Es alguna clase de puesto avanzado o centro de operaciones. Trabajan para un loco llamado El Maestro. Están organizados y secuestran a gente de las caravanas.}
+{338}{}{TodavÃ­a no lo sÃ©, pero trabajan para un loco llamado El Maestro. EstÃ¡n organizados y secuestran a gente de las caravanas.}
+{339}{}{TodavÃ­a no lo sÃ©, pero habÃ­a un mutante grande y verde en una cueva cerca de la ciudad, farfullaba acerca de una misiÃ³n que le mandÃ³ un tÃ­o llamado "Maestro".}
+{340}{}{TodavÃ­a no lo sÃ©, pero conseguÃ­ este disco extraÃ±o de un mutante grande y verde que decÃ­a algo acerca de su "Maestro".}
+{341}{}{No, no, no, idiota. Estos mutantes son verdes, y vienen desde lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Y tampoco son mutantes normales. Son enormes y estÃ¡n muy bien armados. Trabajan para un loco llamado El Maestro. EstÃ¡n organizados y secuestran a gente de las caravanas.}
+{342}{}{No, no, no, idiota. Estos mutantes son verdes, y vienen desde lejos, hacia el noroeste, de un puesto avanzado militar fortificado. Y tampoco son mutantes normales. Son enormes y estÃ¡n muy bien armados.}
+{343}{}{No, no, no, idiota. Estos mutantes son grandes y verdes, y vienen desde lejos, hacia el noroeste. Es alguna clase de puesto avanzado o centro de operaciones. Trabajan para un loco llamado El Maestro. EstÃ¡n organizados y secuestran a gente de las caravanas.}
 {344}{}{No, no, no, idiota. Estos mutantes son grandes y verdes, y vienen desde lejos, hacia el noroeste. Es alguna clase de puesto avanzado o centro de operaciones.}
-{345}{}{No, no, no, idiota. Estos mutantes son grandes y verdes, y vienen desde lejos, hacia el noroeste. Trabajan para un loco llamado El Maestro. Están organizados y secuestran a gente de las caravanas.}
+{345}{}{No, no, no, idiota. Estos mutantes son grandes y verdes, y vienen desde lejos, hacia el noroeste. Trabajan para un loco llamado El Maestro. EstÃ¡n organizados y secuestran a gente de las caravanas.}
 {346}{}{No, no, no, idiota. Estos mutantes son grandes y verdes, y vienen desde lejos, hacia el noroeste. Creo que tienen alguna clase de puesto avanzado en esa zona.}
-{347}{}{No, no, no, idiota. Estos mutantes son grandes y verdes, y trabajan para un loco llamado El Maestro. Están organizados y secuestran a gente de las caravanas.}
-{348}{}{No, no, no, idiota. Estos mutantes son grandes y verdes. Había uno en una cueva cerca de la ciudad, farfullaba acerca de una misión que le mandó un tío llamado "Maestro".}
-{349}{}{No, no, no, idiota. Estos mutantes son grandes y verdes. Conseguí este disco extraño de un mutante grande y verde que decía algo acerca de su "Maestro".}
-{500}{BUTCH55a}{Ehh, hazlo. Y vuelve a contármelo. ¿De acuerdo?}
-{501}{butch63a}{¡Ey! ¡Deja de hacer eso!}
+{347}{}{No, no, no, idiota. Estos mutantes son grandes y verdes, y trabajan para un loco llamado El Maestro. EstÃ¡n organizados y secuestran a gente de las caravanas.}
+{348}{}{No, no, no, idiota. Estos mutantes son grandes y verdes. HabÃ­a uno en una cueva cerca de la ciudad, farfullaba acerca de una misiÃ³n que le mandÃ³ un tÃ­o llamado "Maestro".}
+{349}{}{No, no, no, idiota. Estos mutantes son grandes y verdes. ConseguÃ­ este disco extraÃ±o de un mutante grande y verde que decÃ­a algo acerca de su "Maestro".}
+{500}{BUTCH55a}{Ehh, hazlo. Y vuelve a contÃ¡rmelo. Â¿De acuerdo?}
+{501}{butch63a}{Â¡Ey! Â¡Deja de hacer eso!}
 {502}{BUTCH69a}{Como te dije...}
 {503}{BUTCH70b}{Como dije...}
-{504}{BUTCH105b}{No tengo ni idea de qué estás hablando.}
-{980}{BUTCH111}{No sé nada sobre eso.}
-{981}{BUTCH112}{Yo... eh... creo que no quiero decírtelo. Sí, eso es.}
-{982}{BUTCH113}{Nunca lo había oído. Debes habértelo inventado o algo así.}
+{504}{BUTCH105b}{No tengo ni idea de quÃ© estÃ¡s hablando.}
+{980}{BUTCH111}{No sÃ© nada sobre eso.}
+{981}{BUTCH112}{Yo... eh... creo que no quiero decÃ­rtelo. SÃ­, eso es.}
+{982}{BUTCH113}{Nunca lo habÃ­a oÃ­do. Debes habÃ©rtelo inventado o algo asÃ­.}
 {1000}{}{Decker}
-{1001}{}{Subterráneo}
-{1002}{}{Maltés}
+{1001}{}{SubterrÃ¡neo}
+{1002}{}{MaltÃ©s}
 {1003}{}{Ladrones}
 {1004}{}{Justin}
 {1005}{}{Harold}
 {1006}{}{Mercaderes}
 {1007}{}{Daren}
-{1008}{}{Carmesí}
+{1008}{}{CarmesÃ­}
 {1009}{}{Demetre}
 {1010}{}{Comerciante}
 {1011}{}{Butch}
@@ -280,7 +280,7 @@
 {1022}{}{Killian}
 {1023}{}{Hermandad}
 {1024}{}{Anciano}
-{1025}{}{Ángel}
+{1025}{}{Ãngel}
 {1026}{}{Adytum}
 {1027}{}{Jon}
 {1028}{}{Catedral}
@@ -292,7 +292,7 @@
 {1034}{}{Todo en Uno}
 {1035}{}{Seguidores}
 {1036}{}{Harris}
-{1037}{}{Halcón}
+{1037}{}{HalcÃ³n}
 {1038}{}{Club Nocturno}
 {1039}{}{Mercader}
 {1040}{}{Hightower}
@@ -304,11 +304,11 @@
 {1046}{}{Caravanas}
 {1047}{}{Darkwater}
 {1048}{}{Acero}
-{1049}{}{Ángeles}
+{1049}{}{Ãngeles}
 {1050}{}{Cementerio}
 {1051}{}{Zimmerman}
 {1052}{}{Armas}
-{1053}{}{Almacén}
+{1053}{}{AlmacÃ©n}
 {1054}{}{Pistolas}
 {1055}{}{Bobs}
 {1056}{}{Iguana}
@@ -323,71 +323,71 @@
 {1065}{}{Vertedero}
 {1066}{}{El Cementerio}
 {1067}{}{Cementerio de LA}
-{1100}{BUTCH73}{Es el dueño del Halcón Maltés que está al oeste. Yo que tú me mantendría apartado de él. No es honrado como yo.}
+{1100}{BUTCH73}{Es el dueÃ±o del HalcÃ³n MaltÃ©s que estÃ¡ al oeste. Yo que tÃº me mantendrÃ­a apartado de Ã©l. No es honrado como yo.}
 {1101}{BUTCH74}{Oh, no. Oh no, no hablamos de eso.}
-{1102}{BUTCH75}{El Halcón Maltés es un club nocturno del lado oeste. Hope canta allí. Es una muñeca.}
+{1102}{BUTCH75}{El HalcÃ³n MaltÃ©s es un club nocturno del lado oeste. Hope canta allÃ­. Es una muÃ±eca.}
 {1103}{BUTCH76}{Son una molestia. Creemos que tienen un escondrijo en la Ciudad Antigua, pero no podemos demostrarlo.}
-{1104}{BUTCH77}{Oh, es el Sheriff. Pero si ves un delito infórmame a mí. Justin no hace valer la ley por aquí.}
-{1105}{BUTCH78}{¿El viejo Harold? ¿Qué quieres de ese viejo mutante? Está en la Ciudad Antigua. Pregunta por allí.}
-{1106}{BUTCH79}{Esos bastardos. Daren Hightower cree que es el dueño del maldito Eje, solo por la Torre de Agua.}
+{1104}{BUTCH77}{Oh, es el Sheriff. Pero si ves un delito infÃ³rmame a mÃ­. Justin no hace valer la ley por aquÃ­.}
+{1105}{BUTCH78}{Â¿El viejo Harold? Â¿QuÃ© quieres de ese viejo mutante? EstÃ¡ en la Ciudad Antigua. Pregunta por allÃ­.}
+{1106}{BUTCH79}{Esos bastardos. Daren Hightower cree que es el dueÃ±o del maldito Eje, solo por la Torre de Agua.}
 {1107}{BUTCH80}{Dirige a los Comerciantes de Agua. Es un bastardo cruel y avaro.}
-{1108}{BUTCH81}{Puedes encontrarlos en el lado noroeste del Centro. Controlaban el hospital antes de que los Niños se mudaran. Dicen que cambian lo extraño por lo raro.}
-{1109}{BUTCH82}{Es el jefe de la Caravana Carmesí. Por si quieres mi opinión, es un chiflado.}
-{1110}{BUTCH83}{¿No sabes dónde pones los pies?}
-{1111}{BUTCH84}{Ese soy yo. ¿Estás ciego o qué?}
-{1112}{BUTCH85}{Eh, Beth es la gerente de la Armería. Se oyen muchos rumores, si es que estás en el ajo de ese tipo de negocios.}
+{1108}{BUTCH81}{Puedes encontrarlos en el lado noroeste del Centro. Controlaban el hospital antes de que los NiÃ±os se mudaran. Dicen que cambian lo extraÃ±o por lo raro.}
+{1109}{BUTCH82}{Es el jefe de la Caravana CarmesÃ­. Por si quieres mi opiniÃ³n, es un chiflado.}
+{1110}{BUTCH83}{Â¿No sabes dÃ³nde pones los pies?}
+{1111}{BUTCH84}{Ese soy yo. Â¿EstÃ¡s ciego o quÃ©?}
+{1112}{BUTCH85}{Eh, Beth es la gerente de la ArmerÃ­a. Se oyen muchos rumores, si es que estÃ¡s en el ajo de ese tipo de negocios.}
 {1113}{BUTCH86}{Rutger es mi ayudante.}
-{1114}{BUTCH87}{Está al sur del Mercado de Mercaderes. Es la única fuente de agua de aquí y de varios kilómetros a la redonda. Los Mercaderes de Agua son los dueños de esa maldita cosa.}
-{1115}{BUTCH88}{En el último mes me han desaparecido tres de mis caravanas. Al principio creía que eran los Mercaderes de Agua o la Caravana Carmesí, pero a ellos también les han desaparecido.}
+{1114}{BUTCH87}{EstÃ¡ al sur del Mercado de Mercaderes. Es la Ãºnica fuente de agua de aquÃ­ y de varios kilÃ³metros a la redonda. Los Mercaderes de Agua son los dueÃ±os de esa maldita cosa.}
+{1115}{BUTCH88}{En el Ãºltimo mes me han desaparecido tres de mis caravanas. Al principio creÃ­a que eran los Mercaderes de Agua o la Caravana CarmesÃ­, pero a ellos tambiÃ©n les han desaparecido.}
 {1116}{BUTCH89}{Es donde todo el mundo comercia. Justo en el medio de la ciudad.}
 {1117}{BUTCH90}{Oh, no yo-yo no... ve a hablar con Beth, ella sabe mucho sobre esa basura.}
-{1118}{BUTCH91}{El Ardor es un foso radiactivo que está en dirección sur. Demasiada radiación para que alguien pueda vivir allí.}
-{1119}{BUTCH92}{La Ciudad Antigua está en el lado este. Los yonquis andan por allí.}
-{1120}{BUTCH93}{Está por el lado oeste.}
-{1121}{BUTCH94}{¿Ciudad Vertedero? Sí, he estado al norte de ese lugar un par de veces. Conseguí buenas bebidas.}
-{1122}{BUTCH96}{Es el alcalde de Ciudad Vertedero, es todo lo que sé.}
-{1123}{BUTCH98}{Oh, son un montón de tipos extraños que están al noroeste. Extraños de verdad. Aunque fabrican unas armas magníficas.}
-{1124}{BUTCH99}{Dirige la Hermandad. Eso es todo lo que sé.}
-{1125}{BUTCH100}{Bueno, es una gran ciudad en ruinas que está al sur. Los Niños, los Seguidores y Adytum están allí con todas las bandas y eso.}
-{1126}{BUTCH102}{Bueno, es el lugar en el Cementerio donde todo el mundo va a comerciar. Es el único lugar lo suficientemente civilizado para hacerlo.}
-{1127}{BUTCH103}{Lo último que he oído es que es el alcalde de Adytum.}
-{1128}{BUTCH104}{Dirigen un viejo y grande hospital en el lado suroeste del Centro. Son un puñado de chiflados religiosos, eso es lo que son.}
-{1129}{BUTCH105}{Dirige a los Niños de la Catedral abajo en el Cementerio.}
-{1130}{BUTCH105a}{Jain es la Suma Sacerdotisa de los Niños de la Catedral y estableció el hospital aquí en el Eje.}
-{1131}{BUTCH106}{Yo, eh... he oído historias, eso es todo. No me las creo.}
-{1132}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mío. Sal por esa puerta y a la derecha. No tiene pérdida.}
+{1118}{BUTCH91}{El Ardor es un foso radiactivo que estÃ¡ en direcciÃ³n sur. Demasiada radiaciÃ³n para que alguien pueda vivir allÃ­.}
+{1119}{BUTCH92}{La Ciudad Antigua estÃ¡ en el lado este. Los yonquis andan por allÃ­.}
+{1120}{BUTCH93}{EstÃ¡ por el lado oeste.}
+{1121}{BUTCH94}{Â¿Ciudad Vertedero? SÃ­, he estado al norte de ese lugar un par de veces. ConseguÃ­ buenas bebidas.}
+{1122}{BUTCH96}{Es el alcalde de Ciudad Vertedero, es todo lo que sÃ©.}
+{1123}{BUTCH98}{Oh, son un montÃ³n de tipos extraÃ±os que estÃ¡n al noroeste. ExtraÃ±os de verdad. Aunque fabrican unas armas magnÃ­ficas.}
+{1124}{BUTCH99}{Dirige la Hermandad. Eso es todo lo que sÃ©.}
+{1125}{BUTCH100}{Bueno, es una gran ciudad en ruinas que estÃ¡ al sur. Los NiÃ±os, los Seguidores y Adytum estÃ¡n allÃ­ con todas las bandas y eso.}
+{1126}{BUTCH102}{Bueno, es el lugar en el Cementerio donde todo el mundo va a comerciar. Es el Ãºnico lugar lo suficientemente civilizado para hacerlo.}
+{1127}{BUTCH103}{Lo Ãºltimo que he oÃ­do es que es el alcalde de Adytum.}
+{1128}{BUTCH104}{Dirigen un viejo y grande hospital en el lado suroeste del Centro. Son un puÃ±ado de chiflados religiosos, eso es lo que son.}
+{1129}{BUTCH105}{Dirige a los NiÃ±os de la Catedral abajo en el Cementerio.}
+{1130}{BUTCH105a}{Jain es la Suma Sacerdotisa de los NiÃ±os de la Catedral y estableciÃ³ el hospital aquÃ­ en el Eje.}
+{1131}{BUTCH106}{Yo, eh... he oÃ­do historias, eso es todo. No me las creo.}
+{1132}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mÃ­o. Sal por esa puerta y a la derecha. No tiene pÃ©rdida.}
 {1133}{BUTCH108}{Oh, se come muy bien. Bob sirve la mejor iguana chamuscada de este lado del desierto.}
-{1134}{BUTCH109}{Bueno, tú... eh... no quieras ir allí. Es muy caro y la calidad no es muy buena.}
-{1135}{BUTCH110}{¿Qué quieres de esos colgados? Pff, me ponen enfermo todos esos sermones sobre la paz y achuchones.}
-{1136}{BUTCH84}{Ese soy yo. ¿Estás ciego o qué?}
-{1137}{BUTCH75}{El Halcón Maltés es un club nocturno del lado oeste. Hope canta allí. Es una muñeca.}
-{1138}{BUTCH75}{El Halcón Maltés es un club nocturno del lado oeste. Hope canta allí. Es una muñeca.}
-{1139}{BUTCH79}{Esos bastardos. Daren Hightower cree que es el dueño del maldito Eje, solo por la Torre de Agua.}
+{1134}{BUTCH109}{Bueno, tÃº... eh... no quieras ir allÃ­. Es muy caro y la calidad no es muy buena.}
+{1135}{BUTCH110}{Â¿QuÃ© quieres de esos colgados? Pff, me ponen enfermo todos esos sermones sobre la paz y achuchones.}
+{1136}{BUTCH84}{Ese soy yo. Â¿EstÃ¡s ciego o quÃ©?}
+{1137}{BUTCH75}{El HalcÃ³n MaltÃ©s es un club nocturno del lado oeste. Hope canta allÃ­. Es una muÃ±eca.}
+{1138}{BUTCH75}{El HalcÃ³n MaltÃ©s es un club nocturno del lado oeste. Hope canta allÃ­. Es una muÃ±eca.}
+{1139}{BUTCH79}{Esos bastardos. Daren Hightower cree que es el dueÃ±o del maldito Eje, solo por la Torre de Agua.}
 {1140}{BUTCH80}{Dirige a los Comerciantes de Agua. Es un bastardo cruel y avaro.}
-{1141}{BUTCH77}{Oh, es el Sheriff. Pero si ves un delito infórmame a mí. Justin no hace valer la ley por aquí.}
-{1142}{BUTCH81}{Puedes encontrarlos en el lado noroeste del Centro. Controlaban el hospital antes de que los Niños se mudaran. Dicen que cambian lo extraño por lo raro.}
-{1143}{BUTCH82}{Es el jefe de la Caravana Carmesí. Por si quieres mi opinión, es un chiflado.}
-{1144}{BUTCH83}{¿No sabes dónde pones los pies?}
-{1145}{BUTCH87}{Está al sur del Mercado de Mercaderes. Es la única fuente de agua de aquí y de varios kilómetros a la redonda. Los Mercaderes de Agua son los dueños de esa maldita cosa.}
-{1146}{BUTCH88}{En el último mes me han desaparecido tres de mis caravanas. Al principio creía que eran los Mercaderes de Agua o la Caravana Carmesí, pero a ellos también les han desaparecido.}
-{1147}{BUTCH96}{Es el alcalde de Ciudad Vertedero, es todo lo que sé.}
-{1148}{BUTCH98}{Oh, son un montón de tipos extraños que están al noroeste. Extraños de verdad. Aunque fabrican unas armas magníficas.}
-{1149}{BUTCH100}{Bueno, es una gran ciudad en ruinas que está al sur. Los Niños, los Seguidores y Adytum están allí con todas las bandas y eso.}
-{1150}{BUTCH100}{Bueno, es una gran ciudad en ruinas que está al sur. Los Niños, los Seguidores y Adytum están allí con todas las bandas y eso.}
-{1151}{BUTCH103}{Lo último que he oído es que es el alcalde de Adytum.}
-{1152}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mío. Sal por esa puerta y a la derecha. No tiene pérdida.}
-{1153}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mío. Sal por esa puerta y a la derecha. No tiene pérdida.}
-{1154}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mío. Sal por esa puerta y a la derecha. No tiene pérdida.}
+{1141}{BUTCH77}{Oh, es el Sheriff. Pero si ves un delito infÃ³rmame a mÃ­. Justin no hace valer la ley por aquÃ­.}
+{1142}{BUTCH81}{Puedes encontrarlos en el lado noroeste del Centro. Controlaban el hospital antes de que los NiÃ±os se mudaran. Dicen que cambian lo extraÃ±o por lo raro.}
+{1143}{BUTCH82}{Es el jefe de la Caravana CarmesÃ­. Por si quieres mi opiniÃ³n, es un chiflado.}
+{1144}{BUTCH83}{Â¿No sabes dÃ³nde pones los pies?}
+{1145}{BUTCH87}{EstÃ¡ al sur del Mercado de Mercaderes. Es la Ãºnica fuente de agua de aquÃ­ y de varios kilÃ³metros a la redonda. Los Mercaderes de Agua son los dueÃ±os de esa maldita cosa.}
+{1146}{BUTCH88}{En el Ãºltimo mes me han desaparecido tres de mis caravanas. Al principio creÃ­a que eran los Mercaderes de Agua o la Caravana CarmesÃ­, pero a ellos tambiÃ©n les han desaparecido.}
+{1147}{BUTCH96}{Es el alcalde de Ciudad Vertedero, es todo lo que sÃ©.}
+{1148}{BUTCH98}{Oh, son un montÃ³n de tipos extraÃ±os que estÃ¡n al noroeste. ExtraÃ±os de verdad. Aunque fabrican unas armas magnÃ­ficas.}
+{1149}{BUTCH100}{Bueno, es una gran ciudad en ruinas que estÃ¡ al sur. Los NiÃ±os, los Seguidores y Adytum estÃ¡n allÃ­ con todas las bandas y eso.}
+{1150}{BUTCH100}{Bueno, es una gran ciudad en ruinas que estÃ¡ al sur. Los NiÃ±os, los Seguidores y Adytum estÃ¡n allÃ­ con todas las bandas y eso.}
+{1151}{BUTCH103}{Lo Ãºltimo que he oÃ­do es que es el alcalde de Adytum.}
+{1152}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mÃ­o. Sal por esa puerta y a la derecha. No tiene pÃ©rdida.}
+{1153}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mÃ­o. Sal por esa puerta y a la derecha. No tiene pÃ©rdida.}
+{1154}{BUTCH107}{Los mejores precios para las mejores armas de la ciudad. Todo el mundo lo dice, no es porque sea mÃ­o. Sal por esa puerta y a la derecha. No tiene pÃ©rdida.}
 {1155}{BUTCH108}{Oh, se come muy bien. Bob sirve la mejor iguana chamuscada de este lado del desierto.}
 {1156}{BUTCH108}{Oh, se come muy bien. Bob sirve la mejor iguana chamuscada de este lado del desierto.}
-{1157}{BUTCH110}{¿Qué quieres de esos colgados? Pff, me ponen enfermo todos esos sermones sobre la paz y achuchones.}
+{1157}{BUTCH110}{Â¿QuÃ© quieres de esos colgados? Pff, me ponen enfermo todos esos sermones sobre la paz y achuchones.}
 {1158}{BUTCH90}{Oh, no yo-yo no... ve a hablar con Beth, ella sabe mucho sobre esa basura.}
 {1159}{BUTCH90}{Oh, no yo-yo no... ve a hablar con Beth, ella sabe mucho sobre esa basura.}
-{1160}{BUTCH91}{El Ardor es un foso radiactivo que está en dirección sur. Demasiada radiación para que alguien pueda vivir allí.}
-{1161}{BUTCH92}{La Ciudad Antigua está en el lado este. Los yonquis andan por allí.}
-{1162}{BUTCH92}{La Ciudad Antigua está en el lado este. Los yonquis andan por allí.}
-{1163}{BUTCH99}{Dirige la Hermandad. Eso es todo lo que sé.}
-{1164}{BUTCH109}{Bueno, tú... eh... no quieras ir allí. Es muy caro y la calidad no es muy buena.}
-{1165}{BUTCH94}{¿Ciudad Vertedero? Sí, he estado al norte de ese lugar un par de veces. Conseguí buenas bebidas.}
-{1166}{BUTCH100}{Bueno, es una gran ciudad en ruinas que está al sur. Los Niños, los Seguidores y Adytum están allí con todas las bandas y eso.}
-{1167}{BUTCH100}{Bueno, es una gran ciudad en ruinas que está al sur. Los Niños, los Seguidores y Adytum están allí con todas las bandas y eso.}
+{1160}{BUTCH91}{El Ardor es un foso radiactivo que estÃ¡ en direcciÃ³n sur. Demasiada radiaciÃ³n para que alguien pueda vivir allÃ­.}
+{1161}{BUTCH92}{La Ciudad Antigua estÃ¡ en el lado este. Los yonquis andan por allÃ­.}
+{1162}{BUTCH92}{La Ciudad Antigua estÃ¡ en el lado este. Los yonquis andan por allÃ­.}
+{1163}{BUTCH99}{Dirige la Hermandad. Eso es todo lo que sÃ©.}
+{1164}{BUTCH109}{Bueno, tÃº... eh... no quieras ir allÃ­. Es muy caro y la calidad no es muy buena.}
+{1165}{BUTCH94}{Â¿Ciudad Vertedero? SÃ­, he estado al norte de ese lugar un par de veces. ConseguÃ­ buenas bebidas.}
+{1166}{BUTCH100}{Bueno, es una gran ciudad en ruinas que estÃ¡ al sur. Los NiÃ±os, los Seguidores y Adytum estÃ¡n allÃ­ con todas las bandas y eso.}
+{1167}{BUTCH100}{Bueno, es una gran ciudad en ruinas que estÃ¡ al sur. Los NiÃ±os, los Seguidores y Adytum estÃ¡n allÃ­ con todas las bandas y eso.}

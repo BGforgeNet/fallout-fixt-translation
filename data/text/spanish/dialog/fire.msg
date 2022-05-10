@@ -1,55 +1,55 @@
-{100}{}{Estás viendo a Fuego, un miembro de los Navajas.}
+{100}{}{EstÃ¡s viendo a Fuego, un miembro de los Navajas.}
 {101}{}{}
 {102}{}{}
-{103}{}{Estás viendo a un miembro de los Navajas.}
-{104}{}{Estás viendo a un miembro de los Navajas.}
+{103}{}{EstÃ¡s viendo a un miembro de los Navajas.}
+{104}{}{EstÃ¡s viendo a un miembro de los Navajas.}
 {105}{}{Piensas que puede ser Libros.}
 {106}{}{Piensas que puede ser Cicatrices.}
-{107}{}{Piensas que puede ser Pistolón.}
+{107}{}{Piensas que puede ser PistolÃ³n.}
 {108}{}{Piensas que puede ser Tembleque.}
 {109}{}{Piensas que puede ser Martillo.}
 {110}{}{Piensas que puede ser Cuchilla.}
-{111}{}{¿Qué quieres perdedor?}
+{111}{}{Â¿QuÃ© quieres perdedor?}
 {112}{}{Err.}
 {113}{}{Quiero convertirme en un Navaja.}
-{114}{}{¿Qué haría falta para que pudiera conseguir la paz entre vosotros y Adytum?}
-{115}{}{¡Esto! [le abofeteas]}
+{114}{}{Â¿QuÃ© harÃ­a falta para que pudiera conseguir la paz entre vosotros y Adytum?}
+{115}{}{Â¡Esto! [le abofeteas]}
 {116}{}{Nada. Siento haberte molestado.}
 {117}{}{Solo inspecciono este lugar.}
 {118}{}{Genial, otro idiota. Suenas como un Destripador.}
 {119}{}{Rrrrr.}
 {120}{}{Arrrr.}
-{121}{}{¿Arrooo?}
-{122}{}{¿Tampoco te gustan? Quizás te podamos usar para un pequeño "trabajo".}
+{121}{}{Â¿Arrooo?}
+{122}{}{Â¿Tampoco te gustan? QuizÃ¡s te podamos usar para un pequeÃ±o "trabajo".}
 {123}{}{Urroo.}
 {124}{}{Un nah.}
-{125}{}{Vale, habla con la jefa. Cuchilla te dirá exactamente qué hacer.}
-{126}{}{Estúpido y además cobarde. Te sacaré de tu miseria.}
-{127}{}{¡Así que eres un Destripador! Me daría pena sino supiese ya que son estúpidos. ¡Buenas noches!}
-{128}{}{Los Destripadores. Esos endogámicos del otro lado de la ciudad. Olvídalo. Eres demasiado estúpido para saber nada.}
-{129}{}{¿Quieres ser un Navaja? Buena suerte. Pero, si no puedes convencer a Cuchilla, háblale acerca de eso. Quizás te deje meterte.}
+{125}{}{Vale, habla con la jefa. Cuchilla te dirÃ¡ exactamente quÃ© hacer.}
+{126}{}{EstÃºpido y ademÃ¡s cobarde. Te sacarÃ© de tu miseria.}
+{127}{}{Â¡AsÃ­ que eres un Destripador! Me darÃ­a pena sino supiese ya que son estÃºpidos. Â¡Buenas noches!}
+{128}{}{Los Destripadores. Esos endogÃ¡micos del otro lado de la ciudad. OlvÃ­dalo. Eres demasiado estÃºpido para saber nada.}
+{129}{}{Â¿Quieres ser un Navaja? Buena suerte. Pero, si no puedes convencer a Cuchilla, hÃ¡blale acerca de eso. QuizÃ¡s te deje meterte.}
 {130}{}{Vale, gracias.}
-{131}{}{¡Entonces no quiero entrar!}
-{132}{}{¿A qué te refieres con, "meterme"?}
-{133}{}{¿No puedes simplemente hacerme un Navaja?}
+{131}{}{Â¡Entonces no quiero entrar!}
+{132}{}{Â¿A quÃ© te refieres con, "meterme"?}
+{133}{}{Â¿No puedes simplemente hacerme un Navaja?}
 {134}{}{Tu madre nunca te quiso, y nosotros tampoco.}
-{135}{}{Simple. Tendrás que matar a alguien para entrar. Te dirá a quién tienes que matar.}
+{135}{}{Simple. TendrÃ¡s que matar a alguien para entrar. Te dirÃ¡ a quiÃ©n tienes que matar.}
 {136}{}{Vale, gracias.}
-{137}{}{Olvídalo. No quiero ser parte de tu estúpida banda.}
-{138}{}{No. No puedo. No soy el líder. Yo solo ayudo a tener claras las cosas a Cuchilla.}
+{137}{}{OlvÃ­dalo. No quiero ser parte de tu estÃºpida banda.}
+{138}{}{No. No puedo. No soy el lÃ­der. Yo solo ayudo a tener claras las cosas a Cuchilla.}
 {139}{}{Simple. Masacra a nuestros enemigos, y entonces le daremos un respiro a Adytum.}
-{140}{}{¿Quiénes son vuestros enemigos?}
-{141}{}{De acuerdo. ¿Me darás pruebas de esto?}
-{142}{}{¡Luchar está mal! ¡No lo haré!}
-{143}{}{Los Reguladores. Gobiernan Adytum. No son nada estúpidos y son muy peligrosos.}
-{144}{}{Vale, acabaré con los Reguladores.}
+{140}{}{Â¿QuiÃ©nes son vuestros enemigos?}
+{141}{}{De acuerdo. Â¿Me darÃ¡s pruebas de esto?}
+{142}{}{Â¡Luchar estÃ¡ mal! Â¡No lo harÃ©!}
+{143}{}{Los Reguladores. Gobiernan Adytum. No son nada estÃºpidos y son muy peligrosos.}
+{144}{}{Vale, acabarÃ© con los Reguladores.}
 {145}{}{No importa.}
-{146}{}{Si planeas hacer eso, querrás decírselo a Cuchilla ahora. Sino hará que te maten antes de salgas de este lugar.}
-{147}{}{Tú mismo. Adiós.}
+{146}{}{Si planeas hacer eso, querrÃ¡s decÃ­rselo a Cuchilla ahora. Sino harÃ¡ que te maten antes de salgas de este lugar.}
+{147}{}{TÃº mismo. AdiÃ³s.}
 {148}{}{No hago tratos. Solo hago sugerencias. Habla con Cuchilla si quieres hacer un trato.}
-{149}{}{Entonces matarte ahora te ahorrará muchos años de sufrimiento.}
-{150}{}{¡Entonces inspecciona esto!}
-{151}{}{Piérdete si quieres seguir con vida.}
+{149}{}{Entonces matarte ahora te ahorrarÃ¡ muchos aÃ±os de sufrimiento.}
+{150}{}{Â¡Entonces inspecciona esto!}
+{151}{}{PiÃ©rdete si quieres seguir con vida.}
 {152}{}{Silencio. Queremos sorprender a los Destripadores}
-{153}{}{Si tienes la cabeza, llévasela a Cuchilla. Todavía quiere jugar al fútbol. Si no la tienes, ¡lárgate!}
-{154}{}{¡Ey, compi!}
+{153}{}{Si tienes la cabeza, llÃ©vasela a Cuchilla. TodavÃ­a quiere jugar al fÃºtbol. Si no la tienes, Â¡lÃ¡rgate!}
+{154}{}{Â¡Ey, compi!}

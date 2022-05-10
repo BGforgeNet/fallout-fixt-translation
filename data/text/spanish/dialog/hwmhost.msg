@@ -1,16 +1,16 @@
-{100}{}{Estás viendo a un guardián del Eje.}
-{101}{}{¿Puedo ayudarte?}
-{102}{}{Sí. ¿Me puedes decir dónde estoy?}
-{103}{}{Adiós.}
+{100}{}{EstÃ¡s viendo a un guardiÃ¡n del Eje.}
+{101}{}{Â¿Puedo ayudarte?}
+{102}{}{SÃ­. Â¿Me puedes decir dÃ³nde estoy?}
+{103}{}{AdiÃ³s.}
 {104}{}{Uhhhhhhh. Huh huh. Uhhhhh. Huh.}
-{105}{}{Tío, desde luego no hablas nada, ¿eh? Vete de aquí.}
-{106}{}{Estás en el extremo sur del Eje. Si miras alrededor encontrarás Mercaderes de Agua y un pequeño hospital.}
-{107}{}{¿Quiénes son los mercaderes de agua?}
-{108}{}{¿Un hospital?}
-{109}{}{Gracias. Adiós.}
-{110}{}{Estos bastardos. Creen que son dueños de ese maldito Eje solo porque controlan la Torre de Agua.}
-{111}{}{¿Un hospital?}
-{112}{}{Gracias. Adiós.}
-{113}{}{Los Niños de la Catedral dirigen un pequeño hospital aquí en el Eje. Parecen un grupo decente.}
-{114}{}{¿Quiénes son los mercaderes de agua?}
-{115}{}{Gracias. Adiós.}
+{105}{}{TÃ­o, desde luego no hablas nada, Â¿eh? Vete de aquÃ­.}
+{106}{}{EstÃ¡s en el extremo sur del Eje. Si miras alrededor encontrarÃ¡s Mercaderes de Agua y un pequeÃ±o hospital.}
+{107}{}{Â¿QuiÃ©nes son los mercaderes de agua?}
+{108}{}{Â¿Un hospital?}
+{109}{}{Gracias. AdiÃ³s.}
+{110}{}{Estos bastardos. Creen que son dueÃ±os de ese maldito Eje solo porque controlan la Torre de Agua.}
+{111}{}{Â¿Un hospital?}
+{112}{}{Gracias. AdiÃ³s.}
+{113}{}{Los NiÃ±os de la Catedral dirigen un pequeÃ±o hospital aquÃ­ en el Eje. Parecen un grupo decente.}
+{114}{}{Â¿QuiÃ©nes son los mercaderes de agua?}
+{115}{}{Gracias. AdiÃ³s.}

@@ -1,3 +1,3 @@
-{100}{}{¡Es una especie de enorme criatura Supermutante! ¡Y tiene un arma gigantesca!}
-{101}{}{Llévaselo a Harry. Él sabrá que hacer.}
-{102}{}{Llévasela a Harry. Tiene planes para todas las mujeres.}
+{100}{}{Â¡Es una especie de enorme criatura Supermutante! Â¡Y tiene un arma gigantesca!}
+{101}{}{LlÃ©vaselo a Harry. Ã‰l sabrÃ¡ que hacer.}
+{102}{}{LlÃ©vasela a Harry. Tiene planes para todas las mujeres.}

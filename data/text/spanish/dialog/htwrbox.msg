@@ -1,10 +1,10 @@
-{100}{}{Est·s viendo una caja fuerte cerrada.}
-{101}{}{Est·s viendo una caja fuerte que no est· cerrada.}
-{102}{}{La caja fuerte est· cerrada.}
+{100}{}{Est√°s viendo una caja fuerte cerrada.}
+{101}{}{Est√°s viendo una caja fuerte que no est√° cerrada.}
+{102}{}{La caja fuerte est√° cerrada.}
 {103}{}{Al abrir la caja fuerte detectas y desactivas una trampa.}
 {104}{}{Al abrir la caja fuerte detectas una trampa, pero la activas sin querer.}
 {105}{}{Al abrir la caja fuerte detectas una trampa, pero no puedes desactivarla.}
-{106}{}{La caja fuerte ya no est· cerrada.}
+{106}{}{La caja fuerte ya no est√° cerrada.}
 {107}{}{Consigues abrir la caja fuerte.}
 {108}{}{Tus numerosos intentos para abrir la caja fuerte han activado la trampa.}
 {109}{}{No has podido abrir la caja fuerte porque el cierre se ha roto.}

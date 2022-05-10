@@ -1,91 +1,91 @@
-{100}{}{Voici une jeune femme svelte. Elle a le visage sale et des vêtements sombres.}
+{100}{}{Voici une jeune femme svelte. Elle a le visage sale et des vÃªtements sombres.}
 {101}{}{Voici Katja, la voleuse.}
 {102}{}{Tu n'es pas d'ici. Qui es-tu ?}
 {103}{}{Je m'appelle }
 {104}{}{.}
 {105}{}{Je voyage.}
-{106}{}{Est-ce que je peux me permettre de te demander la même chose ?}
-{107}{}{Si je puis me permettre, que fais-tu au Cimetière de L.A. ?}
+{106}{}{Est-ce que je peux me permettre de te demander la mÃªme chose ?}
+{107}{}{Si je puis me permettre, que fais-tu au CimetiÃ¨re de L.A. ?}
 {108}{}{Tu poses beaucoup de questions.}
 {109}{}{Dis-moi d'abord qui tu es.}
 {110}{}{J'explore le monde.}
 {111}{}{Je cherche une puce d'eau de rechange pour mon Abri.}
-{112}{}{On apprend à être prudent par ici. Alors, que fais-tu là ?}
-{113}{}{Très bien, d'accord. Je m'appelle Katja. Mais qu'est-ce que ça peut te faire ?}
+{112}{}{On apprend Ã  Ãªtre prudent par ici. Alors, que fais-tu lÃ  ?}
+{113}{}{TrÃ¨s bien, d'accord. Je m'appelle Katja. Mais qu'est-ce que Ã§a peut te faire ?}
 {114}{}{Pourquoi es-tu si farouche ?}
-{115}{}{Hé, si tu me manques de respect, je m'en vais.}
+{115}{}{HÃ©, si tu me manques de respect, je m'en vais.}
 {116}{}{Je cherche des renseignements. Peux-tu m'aider ?}
-{117}{}{Peut-être, mais c'est toi qui es chez moi, et pas l'inverse. Alors, réponds d'abord ou tais-toi.}
+{117}{}{Peut-Ãªtre, mais c'est toi qui es chez moi, et pas l'inverse. Alors, rÃ©ponds d'abord ou tais-toi.}
 {118}{}{Ca n'a aucune importance, je voyage, c'est tout. J'ai besoin de renseignements.}
-{119}{}{Une puce d'épuration d'eau ? Désolée, je n'ai jamais entendu parler de ça. On ne trouve pas ce genre de technologie au Cimetière de L.A., sauf peut-être chez Miles.}
-{120}{}{Eh bien, merci quand même.}
-{121}{}{Miles ? Où puis-je le trouver ? Peux-t-il m'aider ?}
-{122}{}{Peux-tu me parler du Cimetière alors ?}
-{123}{}{Alors, tu voyages ? On me l'a déjà faite celle-là. Personne ne vient jamais ici, à part les marchands du Centre et tous ceux qui ont envie de mourir en défiant les gangs. Alors, pourquoi es-tu là ?}
-{124}{}{Tu as raison. Je cherche une puce d'épuration d'eau.}
-{125}{}{Je n'ai rien à te dire.}
-{126}{}{Bien envoyé. Mais j'en ai autant à ton service.}
-{127}{}{Peut-être. En tout cas, tu n'es pas une des ces crapules qui traînent dans les bandes. Qu'est-ce que tu veux ?}
-{128}{}{Je cherche une puce d'épuration d'eau.}
-{129}{}{Je dois en savoir plus sur le Cimetière.}
-{130}{}{Je dois en savoir plus sur la région qui entoure cette ville.}
+{119}{}{Une puce d'Ã©puration d'eau ? DÃ©solÃ©e, je n'ai jamais entendu parler de Ã§a. On ne trouve pas ce genre de technologie au CimetiÃ¨re de L.A., sauf peut-Ãªtre chez Miles.}
+{120}{}{Eh bien, merci quand mÃªme.}
+{121}{}{Miles ? OÃ¹ puis-je le trouver ? Peux-t-il m'aider ?}
+{122}{}{Peux-tu me parler du CimetiÃ¨re alors ?}
+{123}{}{Alors, tu voyages ? On me l'a dÃ©jÃ  faite celle-lÃ . Personne ne vient jamais ici, Ã  part les marchands du Centre et tous ceux qui ont envie de mourir en dÃ©fiant les gangs. Alors, pourquoi es-tu lÃ  ?}
+{124}{}{Tu as raison. Je cherche une puce d'Ã©puration d'eau.}
+{125}{}{Je n'ai rien Ã  te dire.}
+{126}{}{Bien envoyÃ©. Mais j'en ai autant Ã  ton service.}
+{127}{}{Peut-Ãªtre. En tout cas, tu n'es pas une des ces crapules qui traÃ®nent dans les bandes. Qu'est-ce que tu veux ?}
+{128}{}{Je cherche une puce d'Ã©puration d'eau.}
+{129}{}{Je dois en savoir plus sur le CimetiÃ¨re.}
+{130}{}{Je dois en savoir plus sur la rÃ©gion qui entoure cette ville.}
 {131}{}{Que peux-tu me dire sur les Ecorcheurs ?}
 {132}{}{Que peux-tu me dire sur les Eventreurs ?}
 {133}{}{Que peux-tu me dire sur les Contrebandiers ?}
 {134}{}{Que peux-tu me dire au sujet des Disciples ?}
 {135}{}{Que peux-tu me dire sur le Sanctuaire ?}
-{136}{}{Eh bien, ça m'a fait plaisir de parler avec toi, mais je dois partir maintenant.}
-{137}{}{Miles vit dans le Sanctuaire. C'est un scientifique, ou plutôt un chimiste. S'il y a quelqu'un capable de trouver une puce d'eau ou de remplacer une pièce, c'est bien lui.}
+{136}{}{Eh bien, Ã§a m'a fait plaisir de parler avec toi, mais je dois partir maintenant.}
+{137}{}{Miles vit dans le Sanctuaire. C'est un scientifique, ou plutÃ´t un chimiste. S'il y a quelqu'un capable de trouver une puce d'eau ou de remplacer une piÃ¨ce, c'est bien lui.}
 {138}{}{Merci beaucoup.}
-{139}{}{Je suis originaire du Sanctuaire. Mais, c'est une ville trop ennuyeuse à mon goût... C'est au Sud du Cimetière, mais bien avant la Cathédrale. Il nous arrive parfois de faire du commerce avec le Centre.}
-{140}{}{J'ai déjà traité avec eux. Ce n'est pas la pire des bandes. Ils ont une planque dans un vieux club, avec quelques postes avancés. Si tu fais preuve de prudence, tu pourras peut-être parler avec certains d'entre eux.}
-{141}{}{Les Eventreurs sont des barbares. Ils sont consanguins et leur plaisir, c'est de torturer et de tuer. Je les évite au maximum, et tu devrais en faire autant. Ils ont placé des fichues mines autour de leur forteresse.}
-{142}{}{Les Contrebandiers étaient autrefois une vraie bande, mais ils se sont assagis. Ils ont commencé à faire le commerce des armes qu'ils volent à leurs victimes ou qu'ils achètent au Centre. Comme ici personne ne veut se déplacer jusqu'au Centre, leurs affaires marchent bien, même si leurs prix sont élevés.}
-{143}{}{Les Disciples de l'Apocalypse forment un groupe qui prêche la paix. Ils vivent dans une grande bibliothèque au coeur du Cimetière de L.A. Je ne comprends pas comment ils n'ont pas encore été anéantis. Ce sont de piètres guerriers et ils ne connaissent rien au monde extérieur. A part ça, ils sont polis et bien élevés.}
-{144}{}{Le Cimetière est un endroit plutôt hostile. Je n'ai jamais eu l'occasion d'en sortir, mais je suppose que je n'aurais pas hésité si j'avais pu. Voyons... au Sud d'ici, tu as la Cathédrale où vit une sorte de secte... mais je préfère ne pas m'en approcher. Il y a quelque chose de sinistre avec eux. J'ai aussi entendu parler d'un endroit où l'on fait des affaires. On l'appelle le Centre. Des caravanes en viennent de temps à autre, mais je n'y ai jamais été.}
+{139}{}{Je suis originaire du Sanctuaire. Mais, c'est une ville trop ennuyeuse Ã  mon goÃ»t... C'est au Sud du CimetiÃ¨re, mais bien avant la CathÃ©drale. Il nous arrive parfois de faire du commerce avec le Centre.}
+{140}{}{J'ai dÃ©jÃ  traitÃ© avec eux. Ce n'est pas la pire des bandes. Ils ont une planque dans un vieux club, avec quelques postes avancÃ©s. Si tu fais preuve de prudence, tu pourras peut-Ãªtre parler avec certains d'entre eux.}
+{141}{}{Les Eventreurs sont des barbares. Ils sont consanguins et leur plaisir, c'est de torturer et de tuer. Je les Ã©vite au maximum, et tu devrais en faire autant. Ils ont placÃ© des fichues mines autour de leur forteresse.}
+{142}{}{Les Contrebandiers Ã©taient autrefois une vraie bande, mais ils se sont assagis. Ils ont commencÃ© Ã  faire le commerce des armes qu'ils volent Ã  leurs victimes ou qu'ils achÃ¨tent au Centre. Comme ici personne ne veut se dÃ©placer jusqu'au Centre, leurs affaires marchent bien, mÃªme si leurs prix sont Ã©levÃ©s.}
+{143}{}{Les Disciples de l'Apocalypse forment un groupe qui prÃªche la paix. Ils vivent dans une grande bibliothÃ¨que au coeur du CimetiÃ¨re de L.A. Je ne comprends pas comment ils n'ont pas encore Ã©tÃ© anÃ©antis. Ce sont de piÃ¨tres guerriers et ils ne connaissent rien au monde extÃ©rieur. A part Ã§a, ils sont polis et bien Ã©levÃ©s.}
+{144}{}{Le CimetiÃ¨re est un endroit plutÃ´t hostile. Je n'ai jamais eu l'occasion d'en sortir, mais je suppose que je n'aurais pas hÃ©sitÃ© si j'avais pu. Voyons... au Sud d'ici, tu as la CathÃ©drale oÃ¹ vit une sorte de secte... mais je prÃ©fÃ¨re ne pas m'en approcher. Il y a quelque chose de sinistre avec eux. J'ai aussi entendu parler d'un endroit oÃ¹ l'on fait des affaires. On l'appelle le Centre. Des caravanes en viennent de temps Ã  autre, mais je n'y ai jamais Ã©tÃ©.}
 {145}{}{Je n'ai pas l'intention de rester ici bien longtemps.}
 {146}{}{Merci pour le renseignement.}
 {147}{}{Peux-tu m'en dire plus ?}
 {148}{}{Sans rire, si tu cherches quelqu'un pour t'accompagner, je suis d'accord. C'est toujours mieux que de passer le restant de ma vie dans ce trou, non ?}
-{149}{}{Tu es la bienvenue, mais gare à toi, ce désert n'est pas vraiment une partie de plaisir.}
-{150}{}{Ne t'en fais pas pour ça. Merci quand même.}
+{149}{}{Tu es la bienvenue, mais gare Ã  toi, ce dÃ©sert n'est pas vraiment une partie de plaisir.}
+{150}{}{Ne t'en fais pas pour Ã§a. Merci quand mÃªme.}
 {151}{}{Puis-je d'abord te poser d'autres questions ?}
-{152}{}{Cette région est dominée par trois gangs: les Ecorcheurs, les Eventreurs et les Contrebandiers. Elle abrite aussi les Disciples et le Sanctuaire, qui est l'endroit où je vis.}
-{153}{}{Très bien, alors je crois qu'on a du pain sur la planche !}
-{154}{}{Ecoute, 90% des habitants de cette ville sont des violeurs, des meurtriers ou des voleurs. Je suis une voleuse et t'as l'air d'un gars poli, alors ça me fait réfléchir, ok ? Appelle ça l'instinct de survie si tu veux.}
-{155}{}{Excuse-moi de traîner dans tes pattes alors. Je crois que je vais m'en aller.}
+{152}{}{Cette rÃ©gion est dominÃ©e par trois gangs: les Ecorcheurs, les Eventreurs et les Contrebandiers. Elle abrite aussi les Disciples et le Sanctuaire, qui est l'endroit oÃ¹ je vis.}
+{153}{}{TrÃ¨s bien, alors je crois qu'on a du pain sur la planche !}
+{154}{}{Ecoute, 90% des habitants de cette ville sont des violeurs, des meurtriers ou des voleurs. Je suis une voleuse et t'as l'air d'un gars poli, alors Ã§a me fait rÃ©flÃ©chir, ok ? Appelle Ã§a l'instinct de survie si tu veux.}
+{155}{}{Excuse-moi de traÃ®ner dans tes pattes alors. Je crois que je vais m'en aller.}
 {156}{}{Eh bien, puis-je au moins te poser quelques questions ?}
-{157}{}{Je n'entre dans aucune de ces 3 catégories, mais je ne suis pas d'ici donc ça ne compte pas.}
+{157}{}{Je n'entre dans aucune de ces 3 catÃ©gories, mais je ne suis pas d'ici donc Ã§a ne compte pas.}
 {158}{}{Ok, mais vite.}
-{159}{}{Euh. Bon, t'as gagné. Alors, qu'est-ce que tu veux ?}
+{159}{}{Euh. Bon, t'as gagnÃ©. Alors, qu'est-ce que tu veux ?}
 {160}{}{Je peux encore te poser quelques questions ?}
-{161}{}{Je cherche une puce d'épuration d'eau. Peux-tu m'aider ?}
-{162}{}{Merci quand même, mais je vais m'en aller.}
+{161}{}{Je cherche une puce d'Ã©puration d'eau. Peux-tu m'aider ?}
+{162}{}{Merci quand mÃªme, mais je vais m'en aller.}
 {163}{}{Quoi de neuf ?}
 {164}{}{Peux-tu essayer d'ouvrir ce verrou ?}
-{165}{}{Peux-tu jeter un oeil à ce piège ?}
+{165}{}{Peux-tu jeter un oeil Ã  ce piÃ¨ge ?}
 {166}{}{Des conseils ?}
 {167}{}{Merci de ton aide. Tu peux partir maintenant.}
 {168}{}{Rien pour l'instant, mais reste dans le coin.}
 {169}{}{Encore toi ? Pourquoi reviens-tu ?}
-{170}{}{Je m'arrêtais juste pour dire bonjour.}
+{170}{}{Je m'arrÃªtais juste pour dire bonjour.}
 {171}{}{J'aurais encore quelques questions si tu veux bien m'accorder un peu de temps.}
 {172}{}{Il est ouvert.}
-{173}{}{Cette étagère, là sur le mur Est, me semble étrange. On dirait qu'il cache quelque chose.}
+{173}{}{Cette Ã©tagÃ¨re, lÃ  sur le mur Est, me semble Ã©trange. On dirait qu'il cache quelque chose.}
 {174}{}{Range tes armes.}
-{175}{}{Je déteste les chiens.}
+{175}{}{Je dÃ©teste les chiens.}
 {176}{}{Cette nourriture sent bon.}
-{177}{}{Quels sont tes compétences de combat ?}
-{178}{}{J'ai appris à me battre en vivant au Cimetière de L.A. Je manie bien les couteaux et les mitraillettes. Mais ce que je préfère, c'est le lancer de couteaux, bien sûr.}
-{179}{}{Plutôt pas mal, mais je ne me sens pas très à l'aise sans un bon couteau.}
-{180}{}{points d'expérience pour avoir recueilli Katja, la fouilleuse d'ordures du Cimetière de L.A.}
+{177}{}{Quels sont tes compÃ©tences de combat ?}
+{178}{}{J'ai appris Ã  me battre en vivant au CimetiÃ¨re de L.A. Je manie bien les couteaux et les mitraillettes. Mais ce que je prÃ©fÃ¨re, c'est le lancer de couteaux, bien sÃ»r.}
+{179}{}{PlutÃ´t pas mal, mais je ne me sens pas trÃ¨s Ã  l'aise sans un bon couteau.}
+{180}{}{points d'expÃ©rience pour avoir recueilli Katja, la fouilleuse d'ordures du CimetiÃ¨re de L.A.}
 {181}{}{Que veux-tu cette fois ?}
-{182}{}{J'ai changé d'avis. J'aurais encore besoin de ton aide.}
+{182}{}{J'ai changÃ© d'avis. J'aurais encore besoin de ton aide.}
 {183}{}{Rien. Peu importe.}
-{184}{}{Je commence vraiment à détester cet endroit.}
-{185}{}{Ouah ! J'aimerais avoir un hot dog et un bâton.}
-{186}{}{Oh, beurk. Je crois que je vais être malade.}
-{187}{}{Hé, on dirait que ce mur avec une entaille dans le plâtre peut bouger.}
+{184}{}{Je commence vraiment Ã  dÃ©tester cet endroit.}
+{185}{}{Ouah ! J'aimerais avoir un hot dog et un bÃ¢ton.}
+{186}{}{Oh, beurk. Je crois que je vais Ãªtre malade.}
+{187}{}{HÃ©, on dirait que ce mur avec une entaille dans le plÃ¢tre peut bouger.}
 {188}{}{Fais attention aux Griffemorts !}
 {189}{}{Hubba hubba !}
 {190}{}{Va-t'en !}
@@ -94,41 +94,41 @@
 {981}{}{On ne peut pas dire que j'en sais quelque-chose...}
 {982}{}{Non, je n'en ai jamais entendu parler.}
 {1000}{}{Eau}
-{1001}{}{Cimetière de L.A.}
+{1001}{}{CimetiÃ¨re de L.A.}
 {1002}{}{Guerre}
 {1003}{}{Adytum}
 {1004}{}{Followers}
 {1005}{}{Cathedral}
 {1006}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1007}{}{Garl}
-{1008}{}{Maître}
-{1009}{}{Unité}
+{1008}{}{MaÃ®tre}
+{1009}{}{UnitÃ©}
 {1010}{}{Set}
 {1011}{}{Watershed}
-{1012}{}{Nécropolis}
+{1012}{}{NÃ©cropolis}
 {1013}{}{Hall}
 {1014}{}{Library}
 {1015}{}{Dirigeant}
-{1016}{}{Médecin}
-{1017}{}{Guérison}
+{1016}{}{MÃ©decin}
+{1017}{}{GuÃ©rison}
 {1018}{}{Abri}
 {1019}{}{Abris}
 {1020}{}{Vault 13}
 {1021}{}{Killian}
 {1022}{}{Gizmo}
-{1023}{}{Dépôtville}
+{1023}{}{DÃ©pÃ´tville}
 {1024}{}{Sables}
-{1025}{}{Ombragés}
+{1025}{}{OmbragÃ©s}
 {1026}{}{Centre}
 {1027}{}{Casino}
 {1028}{}{Magasin}
 {1029}{}{Deathclaw}
 {1030}{}{Exode}
-{1031}{}{Initiés|Initié|Inities|Initie}
+{1031}{}{InitiÃ©s|InitiÃ©|Inities|Initie}
 {1032}{}{Paladins}
 {1033}{}{Scribes}
 {1034}{}{Enfants}
-{1036}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1036}{}{ConfrÃ©rie de l'Acier|ConfrÃ©rie|Confrerie|Acier}
 {1037}{}{Vats}
 {1038}{}{Base}
 {1039}{}{Militaire}
@@ -148,88 +148,88 @@
 {1054}{}{Aradesh}
 {1055}{}{Razlo}
 {1056}{}{Zimmerman}
-{1057}{}{Régulateurs}
+{1057}{}{RÃ©gulateurs}
 {1058}{}{Fouineurs}
 {1059}{}{Ecorcheurs}
 {1060}{}{Nicole}
 {1061}{}{Lieutenant}
-{1062}{}{Médiums}
-{1063}{}{Expériences}
+{1062}{}{MÃ©diums}
+{1063}{}{ExpÃ©riences}
 {1064}{}{Police}
 {1065}{}{Marchands|Marchand}
-{1100}{}{Je ne sais pas où tu pourrais trouver un tel vestige de l'ancienne technologie.}
-{1101}{}{Le Cimetière de L'Os Angeles est tout ce qu'il reste de l'ancienne ville de Los Angeles. Maintenant elle est surtout divisée en factions guerrières.}
-{1102}{}{La Guerre a engendré la misère et la mort dans le monde entier. J'espère de tout coeur qu'une telle chose n'arrivera plus. Mais d'après ce que j'ai pu voir, il n'y a plus beaucoup d'espoir pour l'humanité.}
-{1103}{}{Je vivais au Sanctuaire autrefois, mais ses habitants sont bien trop paranoïaques et reclus. Ce n'est pas en se retirant du monde qu'ils survivront.}
-{1104}{}{Les Disciples de l'Apocalypse prêchent la paix et la tolérance. Dommage que le monde ne suive pas leurs préceptes.}
-{1105}{}{La Cathédrale est un édifice monumental situé à environ un jour de marche au Sud du Sanctuaire. Il est dirigé par une secte étrange qui vénère une sorte de dieu mystérieux.}
-{1106}{}{Je ne sais pas où tu pourrais trouver un tel vestige de l'ancienne technologie.}
-{1107}{}{Je n'en sais pas plus que toi là-dessus.}
-{1108}{}{Je n'en sais pas plus que toi là-dessus.}
-{1109}{}{Je n'en sais pas plus que toi là-dessus.}
-{1110}{}{Je n'en sais pas plus que toi là-dessus.}
-{1111}{}{Je n'en sais pas plus que toi là-dessus.}
-{1112}{}{Quoi, la cité des morts ? N'est-ce pas un mythe ?}
-{1113}{}{Je n'en sais pas plus que toi là-dessus.}
-{1114}{}{Je n'en sais pas plus que toi là-dessus.}
-{1115}{}{Je n'en sais pas plus que toi là-dessus.}
-{1116}{}{Les Disciples ont toujours un médecin disponible.}
-{1117}{}{Tu devrais aller consulter le médecin des Disciples si tu as besoin de soins.}
-{1118}{}{Les Abris n'étaient-ils pas de grands refuges souterrains ?}
-{1119}{}{Les Abris n'étaient-ils pas de grands refuges souterrains ?}
-{1120}{}{Les Abris n'étaient-ils pas de grands refuges souterrains ?}
-{1121}{}{Je n'en sais pas plus que toi là-dessus.}
-{1122}{}{Je n'en sais pas plus que toi là-dessus.}
+{1100}{}{Je ne sais pas oÃ¹ tu pourrais trouver un tel vestige de l'ancienne technologie.}
+{1101}{}{Le CimetiÃ¨re de L'Os Angeles est tout ce qu'il reste de l'ancienne ville de Los Angeles. Maintenant elle est surtout divisÃ©e en factions guerriÃ¨res.}
+{1102}{}{La Guerre a engendrÃ© la misÃ¨re et la mort dans le monde entier. J'espÃ¨re de tout coeur qu'une telle chose n'arrivera plus. Mais d'aprÃ¨s ce que j'ai pu voir, il n'y a plus beaucoup d'espoir pour l'humanitÃ©.}
+{1103}{}{Je vivais au Sanctuaire autrefois, mais ses habitants sont bien trop paranoÃ¯aques et reclus. Ce n'est pas en se retirant du monde qu'ils survivront.}
+{1104}{}{Les Disciples de l'Apocalypse prÃªchent la paix et la tolÃ©rance. Dommage que le monde ne suive pas leurs prÃ©ceptes.}
+{1105}{}{La CathÃ©drale est un Ã©difice monumental situÃ© Ã  environ un jour de marche au Sud du Sanctuaire. Il est dirigÃ© par une secte Ã©trange qui vÃ©nÃ¨re une sorte de dieu mystÃ©rieux.}
+{1106}{}{Je ne sais pas oÃ¹ tu pourrais trouver un tel vestige de l'ancienne technologie.}
+{1107}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1108}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1109}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1110}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1111}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1112}{}{Quoi, la citÃ© des morts ? N'est-ce pas un mythe ?}
+{1113}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1114}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1115}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1116}{}{Les Disciples ont toujours un mÃ©decin disponible.}
+{1117}{}{Tu devrais aller consulter le mÃ©decin des Disciples si tu as besoin de soins.}
+{1118}{}{Les Abris n'Ã©taient-ils pas de grands refuges souterrains ?}
+{1119}{}{Les Abris n'Ã©taient-ils pas de grands refuges souterrains ?}
+{1120}{}{Les Abris n'Ã©taient-ils pas de grands refuges souterrains ?}
+{1121}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1122}{}{Je n'en sais pas plus que toi lÃ -dessus.}
 {1123}{}{Hum, une petite ville au Nord du Centre, je crois.}
 {1124}{}{Les Sables quoi ?}
-{1125}{}{Les Sables Ombragés ? Jamais entendu parler.}
+{1125}{}{Les Sables OmbragÃ©s ? Jamais entendu parler.}
 {1126}{}{Le Centre est un grand centre commercial, avec toutes sortes de magasins et de marchands.}
-{1127}{}{Je n'en sais pas plus que toi là-dessus.}
+{1127}{}{Je n'en sais pas plus que toi lÃ -dessus.}
 {1128}{}{Les Contrebandiers font du commerce et il y a un magasin dans le Sanctuaire.}
-{1129}{}{Eh ! Les Griffemorts sont partout dans le Cimetière. Je préfère ne pas y penser. Ils sont énormes et ils portent bien leur nom.}
-{1130}{}{Je n'en sais pas plus que toi là-dessus.}
-{1131}{}{Je n'en sais pas plus que toi là-dessus.}
-{1132}{}{Je n'en sais pas plus que toi là-dessus.}
-{1133}{}{Je n'en sais pas plus que toi là-dessus.}
+{1129}{}{Eh ! Les Griffemorts sont partout dans le CimetiÃ¨re. Je prÃ©fÃ¨re ne pas y penser. Ils sont Ã©normes et ils portent bien leur nom.}
+{1130}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1131}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1132}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1133}{}{Je n'en sais pas plus que toi lÃ -dessus.}
 {1134}{}{Je n'aime pas les enfants.}
 {1136}{}{J'ai entendu dire que ce sont des sortes de moines high-tech.}
-{1137}{}{Je n'en sais pas plus que toi là-dessus.}
-{1138}{}{Je n'en sais pas plus que toi là-dessus.}
+{1137}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1138}{}{Je n'en sais pas plus que toi lÃ -dessus.}
 {1139}{}{Je suppose qu'il reste des vestiges militaires.}
-{1141}{}{Tu veux parler de la grande guerre ? Ouah, tu as dû vivre en ermite pour ne rien savoir là-dessus.}
-{1142}{}{J'ai vu un rat à trois yeux, une fois. C'est à peu près tout ce que je sais sur les mutants.}
-{1143}{}{Je crois que c'est le Grand Prêtre de la Cathédrale, ou quelque chose dans le genre.}
-{1144}{}{Je n'en sais pas plus que toi là-dessus.}
-{1145}{}{Je n'en sais pas plus que toi là-dessus.}
-{1146}{}{Je n'en sais pas plus que toi là-dessus.}
-{1147}{}{Je n'en sais pas plus que toi là-dessus.}
-{1148}{}{Je n'en sais pas plus que toi là-dessus.}
-{1149}{}{Je n'en sais pas plus que toi là-dessus.}
-{1150}{}{Je n'en sais pas plus que toi là-dessus.}
+{1141}{}{Tu veux parler de la grande guerre ? Ouah, tu as dÃ» vivre en ermite pour ne rien savoir lÃ -dessus.}
+{1142}{}{J'ai vu un rat Ã  trois yeux, une fois. C'est Ã  peu prÃ¨s tout ce que je sais sur les mutants.}
+{1143}{}{Je crois que c'est le Grand PrÃªtre de la CathÃ©drale, ou quelque chose dans le genre.}
+{1144}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1145}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1146}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1147}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1148}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1149}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1150}{}{Je n'en sais pas plus que toi lÃ -dessus.}
 {1151}{}{Non, merci.}
-{1152}{}{Beurk. Non, je ne préfère pas. J'ai vu un ami mourir d'une overdose de Psycho une fois. C'était terrible.}
-{1153}{}{Je n'en sais pas plus que toi là-dessus.}
-{1154}{}{Je n'en sais pas plus que toi là-dessus.}
-{1155}{}{Je n'en sais pas plus que toi là-dessus.}
-{1156}{}{C'est le maire du Sanctuaire. C'est un homme juste, mais parfois indécis.}
-{1157}{}{Ils veillent sur le Sanctuaire et ils le contrôlent aussi.}
-{1158}{}{Autrefois, je fouillais les ordures. On sortait la nuit pour récupérer des objets utiles dans les ruines du Cimetière. C'était un travail très dangereux. Mais j'en ai eu marre du Sanctuaire.}
-{1159}{}{C'est un groupe de laissés-pour-compte qui vit à l'extérieur du Sanctuaire.}
+{1152}{}{Beurk. Non, je ne prÃ©fÃ¨re pas. J'ai vu un ami mourir d'une overdose de Psycho une fois. C'Ã©tait terrible.}
+{1153}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1154}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1155}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1156}{}{C'est le maire du Sanctuaire. C'est un homme juste, mais parfois indÃ©cis.}
+{1157}{}{Ils veillent sur le Sanctuaire et ils le contrÃ´lent aussi.}
+{1158}{}{Autrefois, je fouillais les ordures. On sortait la nuit pour rÃ©cupÃ©rer des objets utiles dans les ruines du CimetiÃ¨re. C'Ã©tait un travail trÃ¨s dangereux. Mais j'en ai eu marre du Sanctuaire.}
+{1159}{}{C'est un groupe de laissÃ©s-pour-compte qui vit Ã  l'extÃ©rieur du Sanctuaire.}
 {1160}{}{C'est le chef des Disciples. C'est une femme intelligente et qui a bon coeur.}
-{1161}{}{Je n'en sais pas plus que toi là-dessus.}
-{1162}{}{J'ai parfois des "intuitions féminines", si c'est ce que tu veux dire.}
-{1163}{}{Je n'en sais pas plus que toi là-dessus.}
-{1164}{}{Je n'en sais pas plus que toi là-dessus.}
+{1161}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1162}{}{J'ai parfois des "intuitions fÃ©minines", si c'est ce que tu veux dire.}
+{1163}{}{Je n'en sais pas plus que toi lÃ -dessus.}
+{1164}{}{Je n'en sais pas plus que toi lÃ -dessus.}
 {1165}{}{Les marchands font parfois du commerce avec le Sanctuaire et revendent aux Contrebandiers.}
-{1999}{}{Je deviens forte pour ça !}
+{1999}{}{Je deviens forte pour Ã§a !}
 {2000}{}{Discutons de notre tactique de combat.}
-{2001}{}{J'écoute.}
+{2001}{}{J'Ã©coute.}
 {2010}{}{Utilise ta meilleure arme.}
 {2011}{}{Change ton armure.}
-{2012}{}{Préfère le combat à distance plutôt que rapproché.}
-{2013}{}{Préfère le combat rapproché plutôt qu'à distance.}
+{2012}{}{PrÃ©fÃ¨re le combat Ã  distance plutÃ´t que rapprochÃ©.}
+{2013}{}{PrÃ©fÃ¨re le combat rapprochÃ© plutÃ´t qu'Ã  distance.}
 {2014}{}{Choisis la distance qui t'arrange.}
 {2015}{}{C'est tout pour l'instant.}
 {2100}{}{Whatever you say.}
-{2200}{}{Très bien, alors allons botter quelques culs ! Je m'appelle Katja au fait.}
+{2200}{}{TrÃ¨s bien, alors allons botter quelques culs ! Je m'appelle Katja au fait.}
 {2201}{}{Tu vois : Katja.}

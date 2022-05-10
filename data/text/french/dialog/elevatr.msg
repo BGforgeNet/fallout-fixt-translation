@@ -1,1 +1,1 @@
-{100}{}{Voici l'ascenseur. Les lumières sont éteintes, mais il ressemble exactement à celui de ton Abri.}
+{100}{}{Voici l'ascenseur. Les lumiÃ¨res sont Ã©teintes, mais il ressemble exactement Ã  celui de ton Abri.}

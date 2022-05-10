@@ -1,18 +1,18 @@
-{100}{}{Voici un ordinateur de contrôle de traitement d'eau. Son dysfonctionnement est dû au retrait d'une pièce essentielle.}
-{101}{}{Ton exploration de l'ordinateur de contrôle de traitement d'eau est un réel succès : tu trouves facilement la puce d'eau.}
-{102}{}{Tu explores l'ordinateur du système d'épuration. Ca prend du temps, mais tu finis par découvrir la puce d'eau.}
-{103}{}{Impossible de réparer l'ordinateur sans puce d'eau opérationnelle.}
+{100}{}{Voici un ordinateur de contrÃ´le de traitement d'eau. Son dysfonctionnement est dÃ» au retrait d'une piÃ¨ce essentielle.}
+{101}{}{Ton exploration de l'ordinateur de contrÃ´le de traitement d'eau est un rÃ©el succÃ¨s : tu trouves facilement la puce d'eau.}
+{102}{}{Tu explores l'ordinateur du systÃ¨me d'Ã©puration. Ca prend du temps, mais tu finis par dÃ©couvrir la puce d'eau.}
+{103}{}{Impossible de rÃ©parer l'ordinateur sans puce d'eau opÃ©rationnelle.}
 {104}{}{Tu extrais facilement la puce d'eau de l'ordinateur. L'eau cesse de couler vers la ville.}
-{105}{}{Tu tentes d'extraire la puce de l'ordinateur, mais en vain. Tu t'aperçois alors que tu as oublié d'ouvrir les verrous.}
-{106}{}{Tu n'as pas extrait la puce. Peut-être devrais-tu réessayer mais cette fois en faisant plus attention.}
-{107}{}{Tu es trop loin pour examiner l'ordinateur du système d'épuration.}
-{108}{}{Tu ne réussis pas à réparer l'ordinateur.}
-{109}{}{Tu n'apprends rien de spécial sur l'ordinateur du système d'épuration.}
-{110}{}{Tu réinstalles la puce d'eau dans l'ordinateur. Au bout d'un moment, il se réinitialise et se met à fonctionner normalement.}
+{105}{}{Tu tentes d'extraire la puce de l'ordinateur, mais en vain. Tu t'aperÃ§ois alors que tu as oubliÃ© d'ouvrir les verrous.}
+{106}{}{Tu n'as pas extrait la puce. Peut-Ãªtre devrais-tu rÃ©essayer mais cette fois en faisant plus attention.}
+{107}{}{Tu es trop loin pour examiner l'ordinateur du systÃ¨me d'Ã©puration.}
+{108}{}{Tu ne rÃ©ussis pas Ã  rÃ©parer l'ordinateur.}
+{109}{}{Tu n'apprends rien de spÃ©cial sur l'ordinateur du systÃ¨me d'Ã©puration.}
+{110}{}{Tu rÃ©installes la puce d'eau dans l'ordinateur. Au bout d'un moment, il se rÃ©initialise et se met Ã  fonctionner normalement.}
 {111}{}{Cet objet est inutilisable sur l'ordinateur.}
-{112}{}{Tu vois un ordinateur de contrôle de traitement d'eau. Il est opérationnel.}
+{112}{}{Tu vois un ordinateur de contrÃ´le de traitement d'eau. Il est opÃ©rationnel.}
 {113}{}{Tu gagnes }
-{114}{}{ points d'expérience pour avoir récupéré une puce d'eau.}
-{115}{}{Tu examines l'ordinateur attentivement. Grâce à ton esprit d'analyse, tu trouves deux moyens d'extraire plus facilement la puce d'eau.}
-{116}{}{Tu apprends qu'il est impossible de réparer l'ordinateur sans réinstaller la puce d'eau.}
-{117}{}{Tu arrêtes l'ordinateur du système d'épuration de l'eau et tu entends au loin la pompe à eau réparée qui se met en marche. Elle puise probablement l'eau profondément sous Nécropolis.}
+{114}{}{ points d'expÃ©rience pour avoir rÃ©cupÃ©rÃ© une puce d'eau.}
+{115}{}{Tu examines l'ordinateur attentivement. GrÃ¢ce Ã  ton esprit d'analyse, tu trouves deux moyens d'extraire plus facilement la puce d'eau.}
+{116}{}{Tu apprends qu'il est impossible de rÃ©parer l'ordinateur sans rÃ©installer la puce d'eau.}
+{117}{}{Tu arrÃªtes l'ordinateur du systÃ¨me d'Ã©puration de l'eau et tu entends au loin la pompe Ã  eau rÃ©parÃ©e qui se met en marche. Elle puise probablement l'eau profondÃ©ment sous NÃ©cropolis.}

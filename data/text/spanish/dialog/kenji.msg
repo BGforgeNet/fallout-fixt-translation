@@ -1,5 +1,5 @@
-{100}{}{El pistolero no te presta atención.}
+{100}{}{El pistolero no te presta atenciÃ³n.}
 {101}{}{El pistolero se burla de ti y pasa de largo.}
-{102}{}{Estás viendo a un pistolero de aspecto siniestro.}
-{103}{}{¡Gizmo os manda recuerdos!}
+{102}{}{EstÃ¡s viendo a un pistolero de aspecto siniestro.}
+{103}{}{Â¡Gizmo os manda recuerdos!}
 {104}{}{Consigues 400 puntos de experiencia por ayudar a Killian a rechazar al asesino.}

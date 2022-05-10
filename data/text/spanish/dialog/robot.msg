@@ -1,6 +1,6 @@
-{100}{}{[Clic] La paz esté contigo. [¡Bip!]}
+{100}{}{[Clic] La paz estÃ© contigo. [Â¡Bip!]}
 {101}{}{Exterminar. Exterminar.}
-{102}{}{¡Muerte al humano!}
-{103}{}{¡Muerte al intruso!}
-{104}{}{[¡Brrzk!] ¡Muerte a la carne!}
-{105}{}{[¡Brip!] No hay paz. No hay paz.}
+{102}{}{Â¡Muerte al humano!}
+{103}{}{Â¡Muerte al intruso!}
+{104}{}{[Â¡Brrzk!] Â¡Muerte a la carne!}
+{105}{}{[Â¡Brip!] No hay paz. No hay paz.}

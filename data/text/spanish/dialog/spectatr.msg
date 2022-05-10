@@ -1,16 +1,16 @@
-{100}{}{Yo podrÌa hacerlo.}
-{101}{}{Es f·cil.}
-{102}{}{DÈjame enseÒarte cÛmo se hace.}
-{103}{}{QuÈ bueno.}
+{100}{}{Yo podr√≠a hacerlo.}
+{101}{}{Es f√°cil.}
+{102}{}{D√©jame ense√±arte c√≥mo se hace.}
+{103}{}{Qu√© bueno.}
 {104}{}{Ah, ya veo.}
-{105}{}{Oh, no est· mal ese movimiento.}
-{106}{}{Con que se hace asÌ...}
-{107}{}{Nunca podrÌa hacerlo.}
-{108}{}{Est·s en buena forma.}
+{105}{}{Oh, no est√° mal ese movimiento.}
+{106}{}{Con que se hace as√≠...}
+{107}{}{Nunca podr√≠a hacerlo.}
+{108}{}{Est√°s en buena forma.}
 {109}{}{Casi.}
-{110}{}{Presta atenciÛn.}
+{110}{}{Presta atenci√≥n.}
 {111}{}{No seas desagradable.}
 {112}{}{Escucha.}
-{113}{}{°Shhhh!}
-{114}{}{Por favor, ap·rtate de mi camino.}
+{113}{}{¬°Shhhh!}
+{114}{}{Por favor, ap√°rtate de mi camino.}
 {115}{}{Gracias.}

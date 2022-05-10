@@ -1,24 +1,24 @@
-{100}{}{Voici l'Initié Ronald des Enfants de la Cathédrale.}
-{101}{}{Voici l'Initiée Caroline des Enfants de la Cathédrale.}
-{102}{}{Voici l'Initié Myles des Enfants de la Cathédrale.}
-{103}{}{Voici l'Initiée Alisha des Enfants de la Cathédrale.}
-{104}{}{Voici l'Initié Thomas des Enfants de la Cathédrale.}
-{105}{}{Voici l'Initié Gabriel des Enfants de la Cathédrale.}
-{106}{}{Voici l'Initiée Charlene des Enfants de la Cathédrale.}
-{107}{}{Voici l'Initié Ekdar des Enfants de la Cathédrale.}
-{108}{}{Voici l'Initié Hopper des Enfants de la Cathédrale.}
-{109}{}{Voici l'Initié Radek des Enfants de la Cathédrale.}
-{110}{}{Ce fut un jeu d'enfant de tuer ces imbéciles de Disciples.}
-{111}{}{Maintenant que les Disciples sont neutralisés, la reconstruction peut commencer.}
-{112}{}{A la fin de cette quête, j'espère être Scribe ou Savant.}
-{113}{}{Un jour je serai un savant et je prêcherai pour l'unité.}
-{114}{}{Il est très difficile de travailler avec Orfeo.}
-{115}{}{J'ai toujours peur des Ténébreux.}
-{116}{}{Les Anciens disent que les Ténébreux sont nos alliés.}
+{100}{}{Voici l'InitiÃ© Ronald des Enfants de la CathÃ©drale.}
+{101}{}{Voici l'InitiÃ©e Caroline des Enfants de la CathÃ©drale.}
+{102}{}{Voici l'InitiÃ© Myles des Enfants de la CathÃ©drale.}
+{103}{}{Voici l'InitiÃ©e Alisha des Enfants de la CathÃ©drale.}
+{104}{}{Voici l'InitiÃ© Thomas des Enfants de la CathÃ©drale.}
+{105}{}{Voici l'InitiÃ© Gabriel des Enfants de la CathÃ©drale.}
+{106}{}{Voici l'InitiÃ©e Charlene des Enfants de la CathÃ©drale.}
+{107}{}{Voici l'InitiÃ© Ekdar des Enfants de la CathÃ©drale.}
+{108}{}{Voici l'InitiÃ© Hopper des Enfants de la CathÃ©drale.}
+{109}{}{Voici l'InitiÃ© Radek des Enfants de la CathÃ©drale.}
+{110}{}{Ce fut un jeu d'enfant de tuer ces imbÃ©ciles de Disciples.}
+{111}{}{Maintenant que les Disciples sont neutralisÃ©s, la reconstruction peut commencer.}
+{112}{}{A la fin de cette quÃªte, j'espÃ¨re Ãªtre Scribe ou Savant.}
+{113}{}{Un jour je serai un savant et je prÃªcherai pour l'unitÃ©.}
+{114}{}{Il est trÃ¨s difficile de travailler avec Orfeo.}
+{115}{}{J'ai toujours peur des TÃ©nÃ©breux.}
+{116}{}{Les Anciens disent que les TÃ©nÃ©breux sont nos alliÃ©s.}
 {117}{}{Va t'en !}
 {118}{}{Je n'aime pas les gens comme toi.}
-{119}{}{Si tu as un problème avec Set, tu as un problème avec moi.}
-{120}{}{Que le paix soit avec toi. Parle à Laura.}
-{121}{}{Laura m'a enseigné que nous ne faisons qu'un et que l'on devrait faire le bien. C'est quelqu'un de très sage.}
+{119}{}{Si tu as un problÃ¨me avec Set, tu as un problÃ¨me avec moi.}
+{120}{}{Que le paix soit avec toi. Parle Ã  Laura.}
+{121}{}{Laura m'a enseignÃ© que nous ne faisons qu'un et que l'on devrait faire le bien. C'est quelqu'un de trÃ¨s sage.}
 {122}{}{Laura est une personne merveilleuse.}
-{123}{}{Tu vois un des acolytes des Enfants de la Cathédrale.}
+{123}{}{Tu vois un des acolytes des Enfants de la CathÃ©drale.}

@@ -5,20 +5,20 @@
 {104}{}{D'accord.}
 {105}{}{Peux-tu me faire une remise ?}
 {106}{}{Tu veux acheter des armes ? Laisse-moi voir ce que tu as.}
-{107}{}{Excuse-moi de te déranger.}
-{108}{}{C'est agréable de traiter avec toi.}
+{107}{}{Excuse-moi de te dÃ©ranger.}
+{108}{}{C'est agrÃ©able de traiter avec toi.}
 {109}{}{}
 {110}{}{D'accord. Reviens si tu as besoin de quelque chose.}
-{111}{}{Tu ferais bien de te décider rapidement. Es-tu ici pour acheter du matériel ou juste pour te faire descendre ?}
-{112}{}{Tu as un sérieux problème.}
-{113}{}{Je pourrais peut-être utiliser du matériel après tout.}
+{111}{}{Tu ferais bien de te dÃ©cider rapidement. Es-tu ici pour acheter du matÃ©riel ou juste pour te faire descendre ?}
+{112}{}{Tu as un sÃ©rieux problÃ¨me.}
+{113}{}{Je pourrais peut-Ãªtre utiliser du matÃ©riel aprÃ¨s tout.}
 {114}{}{Bon sang, mais qu'est-ce que tu fais ici ?!}
 {115}{}{Rien.}
-{116}{}{Bien sûr.}
-{117}{}{Ouais, à moins que Gabriel ne soit d'accord, tu vas devoir payer le prix fort comme tout le monde.}
-{118}{}{Je ne sais rien à ce sujet.}
+{116}{}{Bien sÃ»r.}
+{117}{}{Ouais, Ã  moins que Gabriel ne soit d'accord, tu vas devoir payer le prix fort comme tout le monde.}
+{118}{}{Je ne sais rien Ã  ce sujet.}
 {119}{}{Montre-moi ce que tu as.}
 {120}{}{Formidable ! Montre-moi ce que tu as.}
 {121}{}{Je reviendrai plus tard pour cette remise.}
 {122}{}{Puis-je avoir une meilleure remise ?}
-{123}{}{Désolé mais je t'ai fait la meilleure remise qui soit.}
+{123}{}{DÃ©solÃ© mais je t'ai fait la meilleure remise qui soit.}

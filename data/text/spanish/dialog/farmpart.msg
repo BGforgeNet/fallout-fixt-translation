@@ -1,2 +1,2 @@
-{100}{}{Bomba de hidropresurizaci髇, alambre electrofibroso, sello de aspersi髇 magn閠ica, banda conductora, adaptadores de tres salidas... una buena colecci髇 de piezas.}
-{101}{}{Estas partes pueden ser utilizadas por Miles para arreglar las granjas hidrop髇icas.}
+{100}{}{Bomba de hidropresurizaci贸n, alambre electrofibroso, sello de aspersi贸n magn茅tica, banda conductora, adaptadores de tres salidas... una buena colecci贸n de piezas.}
+{101}{}{Estas partes pueden ser utilizadas por Miles para arreglar las granjas hidrop贸nicas.}

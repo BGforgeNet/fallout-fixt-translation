@@ -1,3 +1,3 @@
-{100}{}{Parece que la cama est· sin hacer y revuelta.}
-{101}{}{Parece que la cama est· sin hacer y revuelta.}
-{102}{}{A Razlo no le gustarÌa que usases su cama.}
+{100}{}{Parece que la cama est√° sin hacer y revuelta.}
+{101}{}{Parece que la cama est√° sin hacer y revuelta.}
+{102}{}{A Razlo no le gustar√≠a que usases su cama.}

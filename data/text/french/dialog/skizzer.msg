@@ -1,8 +1,8 @@
 {100}{}{Tu vois Skizzer.}
 {101}{}{Tu vois un homme.}
-{102}{}{Camarade Crypt, tu te débrouille très bien.}
+{102}{}{Camarade Crypt, tu te dÃ©brouille trÃ¨s bien.}
 {103}{}{T'es un idiot de Fool.}
-{104}{}{Bienvenue à Scrapheap. Laisse tes mains où on peut les voir.}
+{104}{}{Bienvenue Ã  Scrapheap. Laisse tes mains oÃ¹ on peut les voir.}
 {105}{}{Ok.}
 {106}{}{Reste tranquille, et Rock n'aura pas besoin de venir te corriger.}
 {107}{}{Ok.}

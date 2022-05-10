@@ -1,2 +1,2 @@
 {100}{}{Tu ne trouves rien d'important.}
-{101}{}{Tu trouves une note écrite par un certain Lieutenant et adressée à Set. Elle lui ordonne de trouver des humains de pure souche.}
+{101}{}{Tu trouves une note Ã©crite par un certain Lieutenant et adressÃ©e Ã  Set. Elle lui ordonne de trouver des humains de pure souche.}

@@ -1,33 +1,33 @@
-{100}{}{Estás viendo a un mercader errante de ascendencia asiática.}
+{100}{}{EstÃ¡s viendo a un mercader errante de ascendencia asiÃ¡tica.}
 {101}{}{Ves: a Duc, el mercader errante.}
-{102}{}{Hola, viajera. Me llamo Duc y me dirijo a Arenas Sombrías para hacer negocios. ¿Quizás te interesan algunos de mis artículos?}
-{103}{}{¿Qué vendes?}
-{104}{}{¿Vas muy a menudo a Arenas Sombrías?}
-{105}{}{¡Erf!}
-{106}{}{Déjame que te lo muestre.}
-{107}{}{Sí, Arenas Sombrías es parte de mi ruta. Si quieres seguridad, puedes viajar con nosotros.}
+{102}{}{Hola, viajera. Me llamo Duc y me dirijo a Arenas SombrÃ­as para hacer negocios. Â¿QuizÃ¡s te interesan algunos de mis artÃ­culos?}
+{103}{}{Â¿QuÃ© vendes?}
+{104}{}{Â¿Vas muy a menudo a Arenas SombrÃ­as?}
+{105}{}{Â¡Erf!}
+{106}{}{DÃ©jame que te lo muestre.}
+{107}{}{SÃ­, Arenas SombrÃ­as es parte de mi ruta. Si quieres seguridad, puedes viajar con nosotros.}
 {108}{}{Claro, suena bien.}
 {109}{}{No, gracias.}
-{110}{}{¡Pfff! No me daba cuenta de que eras una cabrona. Llévate tu mierda a otro sitio.}
-{111}{}{Solo se tarda un día, más o menos. ¡Vámonos!}
+{110}{}{Â¡Pfff! No me daba cuenta de que eras una cabrona. LlÃ©vate tu mierda a otro sitio.}
+{111}{}{Solo se tarda un dÃ­a, mÃ¡s o menos. Â¡VÃ¡monos!}
 {112}{}{SHADYW.MAP}
-{113}{}{Poca gente se adentra en Arenas Sombrías en solitario. ¿Quién eres tú?}
+{113}{}{Poca gente se adentra en Arenas SombrÃ­as en solitario. Â¿QuiÃ©n eres tÃº?}
 {114}{}{No es asunto tuyo.}
 {115}{}{Soy }
 {116}{}{.}
 {117}{}{Yo }
-{118}{}{¡Hola otra vez! ¿Qué puedo hacer por ti?}
-{119}{}{¿Puedo unirme a tu grupo para ir a Arenas Sombrías?}
-{120}{}{¿Qué vendes?}
+{118}{}{Â¡Hola otra vez! Â¿QuÃ© puedo hacer por ti?}
+{119}{}{Â¿Puedo unirme a tu grupo para ir a Arenas SombrÃ­as?}
+{120}{}{Â¿QuÃ© vendes?}
 {121}{}{Nada, gracias.}
-{122}{}{¿Qué quieres?}
+{122}{}{Â¿QuÃ© quieres?}
 {123}{}{Nada, lo siento.}
-{124}{}{¿Qué vendes?}
-{125}{}{¿Eh?}
-{126}{}{Debes tener cuidado si viajas en solitario. Últimamente ha desaparecido gente en las Arenas Sombrías.}
-{127}{}{Eh, me he enterado de cómo salvaste a una mujer de Arenas Sombrías. Buen trabajo.}
+{124}{}{Â¿QuÃ© vendes?}
+{125}{}{Â¿Eh?}
+{126}{}{Debes tener cuidado si viajas en solitario. Ãšltimamente ha desaparecido gente en las Arenas SombrÃ­as.}
+{127}{}{Eh, me he enterado de cÃ³mo salvaste a una mujer de Arenas SombrÃ­as. Buen trabajo.}
 {128}{}{Oh, lo siento. No me daba cuenta de que eras una idiota.}
 {129}{}{Gracias, nos vemos.}
-{130}{}{¡Rumf!}
-{131}{}{¡Erf!}
+{130}{}{Â¡Rumf!}
+{131}{}{Â¡Erf!}
 {132}{}{!}

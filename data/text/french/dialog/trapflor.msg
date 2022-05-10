@@ -1,15 +1,15 @@
-{100}{}{ détectes un piège.}
-{101}{}{Tu détectes un piège ici.}
-{102}{}{ amorce un piège, alertant la base de ta présence !}
-{103}{}{Tu amorces un piège, alertant la base de ta présence !}
+{100}{}{ dÃ©tectes un piÃ¨ge.}
+{101}{}{Tu dÃ©tectes un piÃ¨ge ici.}
+{102}{}{ amorce un piÃ¨ge, alertant la base de ta prÃ©sence !}
+{103}{}{Tu amorces un piÃ¨ge, alertant la base de ta prÃ©sence !}
 {104}{}{Tu gagnes }
-{105}{}{ points d'expérience pour avoir utilisé ta compétence piège avec succès.}
-{106}{}{ désamorces le piège.}
-{107}{}{Tu désamorces le piège.}
-{108}{}{ a déclenché un piège !}
-{109}{}{Tu as déclenché un piège !}
-{110}{}{Tu as détecté un piège ici, mais tu ne parviens pas à le désarmer.}
-{111}{}{Tu ne parviens pas à le désarmer.}
-{112}{}{ ne parvient pas à le désarmer.}
-{113}{}{ a déclenché le piège !}
-{114}{}{Tu as déclenché le piège !}
+{105}{}{ points d'expÃ©rience pour avoir utilisÃ© ta compÃ©tence piÃ¨ge avec succÃ¨s.}
+{106}{}{ dÃ©samorces le piÃ¨ge.}
+{107}{}{Tu dÃ©samorces le piÃ¨ge.}
+{108}{}{ a dÃ©clenchÃ© un piÃ¨ge !}
+{109}{}{Tu as dÃ©clenchÃ© un piÃ¨ge !}
+{110}{}{Tu as dÃ©tectÃ© un piÃ¨ge ici, mais tu ne parviens pas Ã  le dÃ©sarmer.}
+{111}{}{Tu ne parviens pas Ã  le dÃ©sarmer.}
+{112}{}{ ne parvient pas Ã  le dÃ©sarmer.}
+{113}{}{ a dÃ©clenchÃ© le piÃ¨ge !}
+{114}{}{Tu as dÃ©clenchÃ© le piÃ¨ge !}

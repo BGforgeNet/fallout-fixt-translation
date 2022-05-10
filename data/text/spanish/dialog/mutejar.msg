@@ -1,2 +1,2 @@
-{100}{}{Ves una especie de fruta de forma extraña en la fuente.}
-{101}{}{Sacas la fruta extraña de la fuente.}
+{100}{}{Ves una especie de fruta de forma extraÃ±a en la fuente.}
+{101}{}{Sacas la fruta extraÃ±a de la fuente.}

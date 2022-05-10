@@ -27,10 +27,10 @@
 {207}{}{Um, thank you. Are you okay? Well anyway, it was nice of you to drop these off.}
 {208}{}{My research would have been delayed without them. It's good to see we have such a trustworthy Initiate. I knew getting an outsider wouldn't be a bad decision. If you go see Michael he will have something for you.}
 {301}{}{Greetings. I have not seen you here before, are you lost? May I be of service?}
-{302}{}{Äh...}
+{302}{}{Ã„h...}
 {303}{}{Could you direct me to the library?}
 {304}{}{I am looking for Vree.}
-{305}{}{Was ist das für ein Ort?}
+{305}{}{Was ist das fÃ¼r ein Ort?}
 {306}{}{If I was lost I wouldn't be asking an idiot like you for help!}
 {307}{}{I can't believe the kind of people we accept as Initiates these days. God help us.}
 {308}{}{This is the library. Here we keep records of all technical data on weaponry and technology, and, of course, the history of the Brotherhood.}
@@ -79,7 +79,7 @@
 {352}{}{I would like to see anything you have on the Brotherhood's history.}
 {353}{}{Really? I don't care either, just show me the guns.}
 {354}{}{Greetings. I have not seen you here before, are you lost? May I be of service?}
-{355}{}{Äh...}
+{355}{}{Ã„h...}
 {356}{}{Could you direct me to the library?}
 {357}{}{I was sent here to speak with Vree about the Brotherhood's history.}
 {358}{}{If I was lost I wouldn't be asking an idiot like you for help!}

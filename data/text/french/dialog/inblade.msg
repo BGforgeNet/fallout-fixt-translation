@@ -4,13 +4,13 @@
 {103}{}{Have a nice day.}
 {104}{}{Il fait beau aujourd'hui.}
 {105}{}{Je me demande s'il ne va pas pleuvoir.}
-{106}{}{Tu as remarqué la pluie phosphorescente ?}
+{106}{}{Tu as remarquÃ© la pluie phosphorescente ?}
 {107}{}{Faut que j'retourne au boulot.}
-{108}{}{On ne voit pas souvent d'étrangers ici.}
+{108}{}{On ne voit pas souvent d'Ã©trangers ici.}
 {109}{}{Faut que j'y aille.}
 {110}{}{A plus tard.}
-{111}{}{Bonne journée.}
+{111}{}{Bonne journÃ©e.}
 {112}{}{Merci de ton aide.}
 {113}{}{On ne t'oubliera pas.}
-{114}{}{C'est bon de savoir que tu es de notre côté.}
+{114}{}{C'est bon de savoir que tu es de notre cÃ´tÃ©.}
 {115}{}{Tout va s'arranger.}

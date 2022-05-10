@@ -1,1 +1,1 @@
-{100}{}{Esta sala perteneció antaño a científicos famosos.}
+{100}{}{Esta sala perteneciÃ³ antaÃ±o a cientÃ­ficos famosos.}

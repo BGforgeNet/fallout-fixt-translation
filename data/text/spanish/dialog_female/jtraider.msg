@@ -1,85 +1,85 @@
-{100}{}{Estás viendo a un saqueador que parece estar loco.}
-{101}{}{¡Eso es! No te acerques más. Acabaré con ella. Lo juro.}
-{102}{}{¡Nung!}
-{103}{}{¡No lo hagas!}
-{104}{}{Si no la dejas marcharse, te mataré.}
+{100}{}{EstÃ¡s viendo a un saqueador que parece estar loco.}
+{101}{}{Â¡Eso es! No te acerques mÃ¡s. AcabarÃ© con ella. Lo juro.}
+{102}{}{Â¡Nung!}
+{103}{}{Â¡No lo hagas!}
+{104}{}{Si no la dejas marcharse, te matarÃ©.}
 {105}{}{No hay necesidad de ser violento. Hablemos de esto.}
-{106}{}{¿Qué? Tú solo quieres matarme, ¿verdad? Solo recuerda que esto es culpa tuya.}
-{107}{}{¿Y por qué no? Es solo una zorra.}
-{108}{}{Ella tiene el mismo derecho a la vida que tú.}
+{106}{}{Â¿QuÃ©? TÃº solo quieres matarme, Â¿verdad? Solo recuerda que esto es culpa tuya.}
+{107}{}{Â¿Y por quÃ© no? Es solo una zorra.}
+{108}{}{Ella tiene el mismo derecho a la vida que tÃº.}
 {109}{}{No. De ninguna manera. Esta zorra no.}
-{110}{}{¿En qué clase de mundo vives? Fuera, en el mundo real, la sangre corre tía. La sangre corre y te va a salpicar si no sales pitando de aquí.}
-{111}{}{Podemos discutir esto. ¿Qué puedo hacer para ayudarte?}
-{112}{}{Vale, vale. Me vuelvo. No tienes que preocuparte por mí.}
-{113}{}{Geez, es gracioso. ¿Quién dice que necesito ayuda?}
-{114}{}{Tú. Con esta mujer de rehén, estás pidiendo ayuda. Yo puedo ayudarte.}
+{110}{}{Â¿En quÃ© clase de mundo vives? Fuera, en el mundo real, la sangre corre tÃ­a. La sangre corre y te va a salpicar si no sales pitando de aquÃ­.}
+{111}{}{Podemos discutir esto. Â¿QuÃ© puedo hacer para ayudarte?}
+{112}{}{Vale, vale. Me vuelvo. No tienes que preocuparte por mÃ­.}
+{113}{}{Geez, es gracioso. Â¿QuiÃ©n dice que necesito ayuda?}
+{114}{}{TÃº. Con esta mujer de rehÃ©n, estÃ¡s pidiendo ayuda. Yo puedo ayudarte.}
 {115}{}{Tengo que pensar en esto. Dame un minuto.}
-{116}{}{Sí. No intentes nada o ella lo conseguirá.}
+{116}{}{SÃ­. No intentes nada o ella lo conseguirÃ¡.}
 {117}{}{hombre}
 {118}{}{mujer}
-{119}{}{Oh, hombretón. Veamos cómo lo intentas. Pero primero...}
-{120}{}{Oh, mujerona. Veamos cómo lo intentas. Pero primero...}
-{121}{}{Quédate ahí atrás... No quiero hacerle daño, pero lo haré.}
-{122}{}{No lo hagas o tendré que hacerte daño.}
-{123}{}{¿Por qué quieres hacerle daño?}
-{124}{}{Inténtalo y ella morirá primero. Bueno, ¿qué decías?}
-{125}{}{Será difícil ayudarla si tienes un agujero en la cabeza.}
-{126}{}{Vale, pero tienes que seguir hablándome.}
-{127}{}{¿Qué agujero?}
+{119}{}{Oh, hombretÃ³n. Veamos cÃ³mo lo intentas. Pero primero...}
+{120}{}{Oh, mujerona. Veamos cÃ³mo lo intentas. Pero primero...}
+{121}{}{QuÃ©date ahÃ­ atrÃ¡s... No quiero hacerle daÃ±o, pero lo harÃ©.}
+{122}{}{No lo hagas o tendrÃ© que hacerte daÃ±o.}
+{123}{}{Â¿Por quÃ© quieres hacerle daÃ±o?}
+{124}{}{IntÃ©ntalo y ella morirÃ¡ primero. Bueno, Â¿quÃ© decÃ­as?}
+{125}{}{SerÃ¡ difÃ­cil ayudarla si tienes un agujero en la cabeza.}
+{126}{}{Vale, pero tienes que seguir hablÃ¡ndome.}
+{127}{}{Â¿QuÃ© agujero?}
 {128}{}{El que te voy a hacer ahora.}
-{129}{}{Seguiré hablando mientras tú lo hagas, pero intenta hacer algo chungo y morirá.}
-{130}{}{No tengo que hacer nada. Tú tienes que hacerlo y no lo estás haciendo muy bien.}
-{131}{}{Se rio de mí. Todos se rieron de mí. Juro que conseguiré que paguen por eso.}
-{132}{}{Confío en ti. Solucionemos esto, ¿vale?}
-{133}{}{Quizás. No lo sé.}
-{134}{}{tío}
-{135}{}{tía}
+{129}{}{SeguirÃ© hablando mientras tÃº lo hagas, pero intenta hacer algo chungo y morirÃ¡.}
+{130}{}{No tengo que hacer nada. TÃº tienes que hacerlo y no lo estÃ¡s haciendo muy bien.}
+{131}{}{Se rio de mÃ­. Todos se rieron de mÃ­. Juro que conseguirÃ© que paguen por eso.}
+{132}{}{ConfÃ­o en ti. Solucionemos esto, Â¿vale?}
+{133}{}{QuizÃ¡s. No lo sÃ©.}
+{134}{}{tÃ­o}
+{135}{}{tÃ­a}
 {136}{}{You sound like an all right kind of guy. No one ever wanted to help me before. I think we can talk some more.}
 {137}{}{You sound like an all right kind of gal. No one ever wanted to help me before. I think we can talk some more.}
-{138}{}{Déjame solo. ¡Te odio! Eres el demonio. No te escucharé.}
+{138}{}{DÃ©jame solo. Â¡Te odio! Eres el demonio. No te escucharÃ©.}
 {139}{}{Hazlo a tu manera.}
 {140}{}{Tienes que escucharme. Tu vida y la de la chica dependen de eso.}
-{141}{}{Relájate. No te haré daño. Solo quiero escuchar lo que tienes que decirme.}
-{142}{}{Otra vez estás amenazándome. ¡¡Muere!!}
-{143}{}{No te escucharé. Solo quieres engañarme con tus palabras. No te creo. Vete.}
-{144}{}{Debes tener una razón. Demuéstramelo.}
-{145}{}{¿Qué hacemos a continuación?}
-{146}{}{Dímelo. Estás al cargo.}
-{147}{}{Quiero algunas chapas y quiero salir de aquí de forma pacífica. Que no me siga nadie.}
+{141}{}{RelÃ¡jate. No te harÃ© daÃ±o. Solo quiero escuchar lo que tienes que decirme.}
+{142}{}{Otra vez estÃ¡s amenazÃ¡ndome. Â¡Â¡Muere!!}
+{143}{}{No te escucharÃ©. Solo quieres engaÃ±arme con tus palabras. No te creo. Vete.}
+{144}{}{Debes tener una razÃ³n. DemuÃ©stramelo.}
+{145}{}{Â¿QuÃ© hacemos a continuaciÃ³n?}
+{146}{}{DÃ­melo. EstÃ¡s al cargo.}
+{147}{}{Quiero algunas chapas y quiero salir de aquÃ­ de forma pacÃ­fica. Que no me siga nadie.}
 {148}{}{Lo siento, no podemos hacer eso.}
 {149}{}{Claro.}
-{150}{}{Nada de chapas pero puedes marcharte. Nadie hará nada. Te lo prometo.}
-{151}{}{Vale, pero tenemos que dejar que la chica vaya primero. Demuéstrame que podemos confiar en ti y lo haremos.}
-{152}{}{¡Me has mentido!}
-{153}{}{Vale. Quiero 100 chapas. Entonces nos vamos de aquí. Que nadie me siga y dejaremos que se vaya cuando lleguemos al límite de la ciudad.}
-{154}{}{Aquí está tu dinero.}
-{155}{}{No tengo aquí esa cantidad de chapas.}
+{150}{}{Nada de chapas pero puedes marcharte. Nadie harÃ¡ nada. Te lo prometo.}
+{151}{}{Vale, pero tenemos que dejar que la chica vaya primero. DemuÃ©strame que podemos confiar en ti y lo haremos.}
+{152}{}{Â¡Me has mentido!}
+{153}{}{Vale. Quiero 100 chapas. Entonces nos vamos de aquÃ­. Que nadie me siga y dejaremos que se vaya cuando lleguemos al lÃ­mite de la ciudad.}
+{154}{}{AquÃ­ estÃ¡ tu dinero.}
+{155}{}{No tengo aquÃ­ esa cantidad de chapas.}
 {156}{}{Entonces creo que ella se la ha ganado.}
-{157}{}{Creo que eso está bien.}
-{158}{}{No me gusta eso. ¿Y que te impide dispararme en la espalda cuando salga de aquí?}
-{159}{}{No te dispararé. Confía en mí.}
-{160}{}{Nada, tendrás que confiar en lo que te digo.}
-{161}{}{¡De ninguna manera! ¡No confío en ti!}
+{157}{}{Creo que eso estÃ¡ bien.}
+{158}{}{No me gusta eso. Â¿Y que te impide dispararme en la espalda cuando salga de aquÃ­?}
+{159}{}{No te dispararÃ©. ConfÃ­a en mÃ­.}
+{160}{}{Nada, tendrÃ¡s que confiar en lo que te digo.}
+{161}{}{Â¡De ninguna manera! Â¡No confÃ­o en ti!}
 {162}{}{All right. We'll see what happens, won't we.}
-{163}{}{Aquí tienes 100 chapas. Que tengas un buen día.}
+{163}{}{AquÃ­ tienes 100 chapas. Que tengas un buen dÃ­a.}
 {164}{}{Te puedes marchar sin problemas.}
 {165}{}{Quiero mis chapas. Quiero 200 chapas.}
 {166}{}{No tengo suficiente dinero.}
-{167}{}{Aquí están.}
+{167}{}{AquÃ­ estÃ¡n.}
 {168}{}{Creo que eres una mentirosa y una tramposa.}
 {169}{}{El sentimiento es mutuo. Deja que la chica se vaya.}
 {170}{}{hombre}
 {171}{}{mujer}
-{172}{}{¿Por qué no me coges a mí en vez de a ella? Mira lo que puede hacer un hombre de verdad.}
-{173}{}{¿Por qué no me coges a mí en vez de a ella? Mira lo que puede hacer una mujer de verdad.}
-{174}{}{¡No! ¡No me digas lo que tengo que hacer! ¡No me puedes decir qué tengo que hacer!}
-{175}{}{Sí, te lo voy a demostrar.}
-{176}{}{¡Acabas de jugarte la vida de esta zorra!}
-{177}{}{Déjame solo, ¡demonios!}
+{172}{}{Â¿Por quÃ© no me coges a mÃ­ en vez de a ella? Mira lo que puede hacer un hombre de verdad.}
+{173}{}{Â¿Por quÃ© no me coges a mÃ­ en vez de a ella? Mira lo que puede hacer una mujer de verdad.}
+{174}{}{Â¡No! Â¡No me digas lo que tengo que hacer! Â¡No me puedes decir quÃ© tengo que hacer!}
+{175}{}{SÃ­, te lo voy a demostrar.}
+{176}{}{Â¡Acabas de jugarte la vida de esta zorra!}
+{177}{}{DÃ©jame solo, Â¡demonios!}
 {178}{}{El saqueador, ensimismado en su trabajo, te ignora.}
 {179}{}{Mmm...}
-{180}{}{Eh, hagámoslo nena. Tengo las chapas si tú tienes tiempo.}
-{181}{}{No me hables así, ¡zorra! ¡Nadie me habla de ese modo!}
-{182}{}{¡Eso te va a costar la vida!}
-{183}{}{Un golpe certero deja al saqueador inconsciente. Cae como una muñeca de trapo.}
-{184}{}{Podrías acercarte al saqueador con sigilo si vas con cuidado.}
+{180}{}{Eh, hagÃ¡moslo nena. Tengo las chapas si tÃº tienes tiempo.}
+{181}{}{No me hables asÃ­, Â¡zorra! Â¡Nadie me habla de ese modo!}
+{182}{}{Â¡Eso te va a costar la vida!}
+{183}{}{Un golpe certero deja al saqueador inconsciente. Cae como una muÃ±eca de trapo.}
+{184}{}{PodrÃ­as acercarte al saqueador con sigilo si vas con cuidado.}

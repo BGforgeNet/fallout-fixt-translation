@@ -1,13 +1,13 @@
-{100}{}{Voici un ordinateur très perfectionné de la Confrérie.}
-{101}{}{Tu n'as pas accès à ce terminal.}
-{102}{}{La leçon se termine dans six heures. La fatigue te tiraille.}
-{103}{}{Tu as déjà ingurgité tout ce que tu pouvais.}
-{200}{}{Voici un ordinateur. Il semble pourvu de pièces en chair humaine.}
-{201}{}{Tu joues un moment avec l'ordinateur mais tu ne parviens pas à contourner le système de sécurité.}
+{100}{}{Voici un ordinateur trÃ¨s perfectionnÃ© de la ConfrÃ©rie.}
+{101}{}{Tu n'as pas accÃ¨s Ã  ce terminal.}
+{102}{}{La leÃ§on se termine dans six heures. La fatigue te tiraille.}
+{103}{}{Tu as dÃ©jÃ  ingurgitÃ© tout ce que tu pouvais.}
+{200}{}{Voici un ordinateur. Il semble pourvu de piÃ¨ces en chair humaine.}
+{201}{}{Tu joues un moment avec l'ordinateur mais tu ne parviens pas Ã  contourner le systÃ¨me de sÃ©curitÃ©.}
 {202}{}{Cet ordinateur fonctionne parfaitement.}
 {203}{}{Tu gagnes }
 {204}{}{ experience for hacking into the computer!}
-{205}{}{points d'expérience pour avoir piraté cet ordinateur.}
+{205}{}{points d'expÃ©rience pour avoir piratÃ© cet ordinateur.}
 {206}{}{Tu gagnes }
 {207}{}{ experience for hacking into the computer!}
 {208}{}{Tu gagnes }

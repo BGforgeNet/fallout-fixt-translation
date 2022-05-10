@@ -1,26 +1,26 @@
-{100}{}{Estás viendo a un necrófago enfadado.}
-{101}{}{¿K´haces aquí?}
+{100}{}{EstÃ¡s viendo a un necrÃ³fago enfadado.}
+{101}{}{Â¿KÂ´haces aquÃ­?}
 {102}{}{Buscando restos del pasado en el futuro.}
 {103}{}{Soy una exploradora.}
-{104}{}{¿A ti qué te parece, cara gusano?}
+{104}{}{Â¿A ti quÃ© te parece, cara gusano?}
 {105}{}{Dug-duh.}
-{106}{}{¿K´has dicho?}
+{106}{}{Â¿KÂ´has dicho?}
 {107}{}{Nada.}
-{108}{}{Estoy buscando la tecnología perdida.}
-{109}{}{Creía que habías dicho algo. Sal de mi kely.}
-{110}{}{Oh, no por acá. A lo mejó pa rriba del templo o donde el agua. Me las piro.}
-{111}{}{¡Ack! No esplores mish movidash. ¡Aire! Lo digo en serio.}
-{112}{}{No te comportes así con el titi. Yo llevo el cotarro.}
-{113}{}{Oh, sí.}
+{108}{}{Estoy buscando la tecnologÃ­a perdida.}
+{109}{}{CreÃ­a que habÃ­as dicho algo. Sal de mi kely.}
+{110}{}{Oh, no por acÃ¡. A lo mejÃ³ pa rriba del templo o donde el agua. Me las piro.}
+{111}{}{Â¡Ack! No esplores mish movidash. Â¡Aire! Lo digo en serio.}
+{112}{}{No te comportes asÃ­ con el titi. Yo llevo el cotarro.}
+{113}{}{Oh, sÃ­.}
 {114}{}{Voy a coger ese careto tuyo y me lo voy a meter por el...}
-{115}{}{¡Ack! Vale, acepto. Me voy.}
-{116}{}{Quién coño eres tú pa´tratarme asín. ¡Sube y pedalea caaraculo!}
+{115}{}{Â¡Ack! Vale, acepto. Me voy.}
+{116}{}{QuiÃ©n coÃ±o eres tÃº paÂ´tratarme asÃ­n. Â¡Sube y pedalea caaraculo!}
 {117}{}{No quiero hablar contigo.}
-{118}{}{¿Qué eres?}
-{119}{}{Soy un necrófago. ¿Nunca habías visto a un necrófago?}
-{120}{}{Sí.}
+{118}{}{Â¿QuÃ© eres?}
+{119}{}{Soy un necrÃ³fago. Â¿Nunca habÃ­as visto a un necrÃ³fago?}
+{120}{}{SÃ­.}
 {121}{}{No.}
-{122}{}{Debe de haber sido uno de esos subterráneos flojuchos. Te han dejao con vida pa que puedas molestarme. Sal de mi kely.}
-{123}{}{Bueno, ya lo has hecho. ¡Vete de aquí!}
-{200}{}{Parece ser el dueño de este establecimiento. La frase "bajo nueva gerencia" te viene a la cabeza.}
+{122}{}{Debe de haber sido uno de esos subterrÃ¡neos flojuchos. Te han dejao con vida pa que puedas molestarme. Sal de mi kely.}
+{123}{}{Bueno, ya lo has hecho. Â¡Vete de aquÃ­!}
+{200}{}{Parece ser el dueÃ±o de este establecimiento. La frase "bajo nueva gerencia" te viene a la cabeza.}
 {201}{}{Ves: al Director del Hotel.}

@@ -1,5 +1,5 @@
-{100}{}{La porte du Skum Pitt est fermée à clé.}
-{101}{}{Tu réussis à ouvrir la porte.}
-{102}{}{Tu essaies de crocheter la serrure, mais tu ne parviens pas à ouvrir la porte.}
-{103}{}{Tu entends quelque chose craquer. On dirait que la serrure est bloquée.}
-{104}{}{La porte n'est pas fermée à clé.}
+{100}{}{La porte du Skum Pitt est fermÃ©e Ã  clÃ©.}
+{101}{}{Tu rÃ©ussis Ã  ouvrir la porte.}
+{102}{}{Tu essaies de crocheter la serrure, mais tu ne parviens pas Ã  ouvrir la porte.}
+{103}{}{Tu entends quelque chose craquer. On dirait que la serrure est bloquÃ©e.}
+{104}{}{La porte n'est pas fermÃ©e Ã  clÃ©.}

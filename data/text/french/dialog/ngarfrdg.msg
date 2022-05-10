@@ -1,5 +1,5 @@
-{100}{}{Le réfrigérateur est verrouillé.}
-{101}{}{Le réfrigérateur est déjà déverrouillé.}
-{102}{}{Tu déverrouilles le réfrigérateur.}
-{103}{}{Tu n'es pas encore venu à bout de ce verrou.}
-{104}{}{Quelqu'un a laissé le réfrigérateur ouvert !}
+{100}{}{Le rÃ©frigÃ©rateur est verrouillÃ©.}
+{101}{}{Le rÃ©frigÃ©rateur est dÃ©jÃ  dÃ©verrouillÃ©.}
+{102}{}{Tu dÃ©verrouilles le rÃ©frigÃ©rateur.}
+{103}{}{Tu n'es pas encore venu Ã  bout de ce verrou.}
+{104}{}{Quelqu'un a laissÃ© le rÃ©frigÃ©rateur ouvert !}

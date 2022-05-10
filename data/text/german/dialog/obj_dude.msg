@@ -8,9 +8,9 @@
 {977}{}{That's my name, don't wear it out.}
 {978}{}{I don't like talking about myself. New topic.}
 {979}{}{I'm not an open book; let's talk about something else.}
-{980}{}{Dar¸ber weiﬂ ich nichts.}
+{980}{}{Dar√ºber wei√ü ich nichts.}
 {981}{}{Tut mir leid. Keine Ahnung.}
-{982}{}{Noch nie davon gehˆrt.}
+{982}{}{Noch nie davon geh√∂rt.}
 {983}{}{What's that?}
 {984}{}{What are you babbling about?}
 {985}{}{Is this a joke? I have no idea what that is.}
@@ -670,7 +670,7 @@
 {7702}{}{This is Junktown.}
 {7703}{}{Well, it's a really small community to the north. The people who live there are mostly farmers. We occasionally trade with them, but they mostly want to be left alone.}
 {7704}{}{The Hub is the center of commerce around here. Almost all of the traders come from the Hub. They have some companies there that still make things. If you want, you can go with one of their trading parties back to the Hub.}
-{7705}{}{Dar¸ber weiﬂ ich nichts.}
+{7705}{}{Dar√ºber wei√ü ich nichts.}
 {7706}{}{Gizmo runs it. Watch out for the slot machines, you can lose a lot of money if you play them.}
 {7707}{}{Darkwater's? It's in the center of town. You can barter with him, or pay cash.}
 {7708}{}{I hear people talking about it, but I've never seen it. They say it roams the desert, striking mostly at night.}
@@ -779,7 +779,7 @@
 {8302}{}{This is Junktown.}
 {8303}{}{Well, it's a really small community to the north. The people who live there are mostly farmers. We occasionally trade with them, but they mostly want to be left alone.}
 {8304}{}{The Hub is the center of commerce around here. Almost all of the traders come from the Hub. They have some companies there that still make things. If you want, you can go with one of their trading parties back to the Hub.}
-{8305}{}{Dar¸ber weiﬂ ich nichts.}
+{8305}{}{Dar√ºber wei√ü ich nichts.}
 {8306}{}{Gizmo runs it. Watch out for the slot machines, you can lose a lot of money if you play them.}
 {8307}{}{Darkwater's? It's in the center of town. You can barter with him, or pay cash.}
 {8308}{}{I hear people talking about it, but I've never seen it. They say it roams the desert, striking mostly at night.}
@@ -889,7 +889,7 @@
 {8903}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
 {8904}{}{That is where we stand.}
 {8905}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{8906}{}{Dar¸ber weiﬂ ich nichts.}
+{8906}{}{Dar√ºber wei√ü ich nichts.}
 {8907}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
 {8908}{}{They are a cult.}
 {8909}{}{They are the future of the Brotherhood.}
@@ -1003,7 +1003,7 @@
 {9503}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
 {9504}{}{That is where we stand.}
 {9505}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{9506}{}{Dar¸ber weiﬂ ich nichts.}
+{9506}{}{Dar√ºber wei√ü ich nichts.}
 {9507}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
 {9508}{}{They are a cult.}
 {9509}{}{They are the future of the Brotherhood.}
@@ -1117,7 +1117,7 @@
 {10103}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
 {10104}{}{That is where we stand.}
 {10105}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{10106}{}{Dar¸ber weiﬂ ich nichts.}
+{10106}{}{Dar√ºber wei√ü ich nichts.}
 {10107}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
 {10108}{}{They are a cult.}
 {10109}{}{They are the future of the Brotherhood.}
@@ -1226,7 +1226,7 @@
 {11298}{}{}
 {11299}{}{}
 {11300}{}{The Holy Flame is the one who will lead us into a brave new world which doesn't have hatred or war.}
-{11301}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people ñ human and mutant.}
+{11301}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people ‚Äì human and mutant.}
 {11302}{}{That is us.}
 {11303}{}{Morpheus is the High Priest of the Children. Typically, he is in his rooms when he is not preaching to us.}
 {11304}{}{They are people who got mutated from the nuclear fallout. But they are still good people.}
@@ -1336,7 +1336,7 @@
 {11898}{}{}
 {11899}{}{}
 {11900}{}{The Holy Flame is the one who will lead us into a brave new world which doesn't have hatred or war.}
-{11901}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people ñ human and mutant.}
+{11901}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people ‚Äì human and mutant.}
 {11902}{}{That is us.}
 {11903}{}{Morpheus is the High Priest of the Children. Typically, he is in his rooms when he is not preaching to us.}
 {11904}{}{They are people who got mutated from the nuclear fallout. But they are still good people.}
@@ -1911,7 +1911,7 @@
 {18105}{}{They're past the Followers to the north. They sell weapons to the gangs.}
 {18106}{}{We trade with them. They're the largest city I know of.}
 {18107}{}{They're a small city northeast of us.}
-{18108}{}{Noch nie davon gehˆrt.}
+{18108}{}{Noch nie davon geh√∂rt.}
 {18109}{}{Tine's store is underground near the gate. He can sell you many supplies.}
 {18110}{}{He's the mayor. He does a good job.}
 {18111}{}{It's a city of the dead, several days to the east.}
@@ -3033,7 +3033,7 @@
 {22713}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
 {22714}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {22715}{}{A myth to scare little children into behaving.}
-{22716}{}{Dar¸ber weiﬂ ich nichts.}
+{22716}{}{Dar√ºber wei√ü ich nichts.}
 {23800}{}{Police}
 {23801}{}{Water Merchants}
 {23802}{}{Crimson Caravans}
@@ -3150,7 +3150,7 @@
 {23913}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
 {23914}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {23915}{}{A myth to scare little children into behaving.}
-{23916}{}{Dar¸ber weiﬂ ich nichts.}
+{23916}{}{Dar√ºber wei√ü ich nichts.}
 {24400}{}{Police}
 {24401}{}{Water Merchants}
 {24402}{}{Crimson Caravans}
@@ -3267,7 +3267,7 @@
 {24513}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
 {24514}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {24515}{}{A myth to scare little children into behaving.}
-{24516}{}{Dar¸ber weiﬂ ich nichts.}
+{24516}{}{Dar√ºber wei√ü ich nichts.}
 {25000}{}{Police}
 {25001}{}{Water Merchants}
 {25002}{}{Crimson Caravans}
@@ -3384,7 +3384,7 @@
 {25113}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
 {25114}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {25115}{}{A myth to scare little children into behaving.}
-{25116}{}{Dar¸ber weiﬂ ich nichts.}
+{25116}{}{Dar√ºber wei√ü ich nichts.}
 {25600}{}{Police}
 {25601}{}{Water Merchants}
 {25602}{}{Crimson Caravans}
@@ -3501,7 +3501,7 @@
 {25713}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
 {25714}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {25715}{}{A myth to scare little children into behaving.}
-{25716}{}{Dar¸ber weiﬂ ich nichts.}
+{25716}{}{Dar√ºber wei√ü ich nichts.}
 {27400}{}{Adytum}
 {27401}{}{The Followers}
 {27402}{}{The Cathedral}
@@ -3609,7 +3609,7 @@
 {27504}{}{That's us!}
 {27505}{}{They sell guns to us sometimes.}
 {27506}{}{I think it's a trading place.}
-{27507}{}{Noch nie davon gehˆrt.}
+{27507}{}{Noch nie davon geh√∂rt.}
 {27508}{}{A what?}
 {27509}{}{She's our leader, the most bad-ass bitch in town!}
 {27510}{}{Necro- what? That's sick.}

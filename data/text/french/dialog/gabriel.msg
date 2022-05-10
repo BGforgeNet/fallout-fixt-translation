@@ -1,50 +1,50 @@
-{100}{}{Voici un homme costaud et bien armé.}
+{100}{}{Voici un homme costaud et bien armÃ©.}
 {101}{}{Voici Gabriel, chef des Contrebandiers.}
 {102}{}{C'est pas souvent qu'on a de la visite... Je peux t'aider ?}
 {103}{}{Pourquoi vous avez pas souvent de visites ?}
 {104}{}{C'est quoi que tu fais ici ?}
-{105}{}{Cet endroit est pas facile d'accès, avec ce nid de Griffemorts juste en dehors de l'usine.}
-{106}{}{Vous semblez assez bien équipés, pourquoi ne pas les exterminer ?}
-{107}{}{C'est ce qu'on a essayé de faire, mais quand y'en a plus, y'en a encore. Et puis, on est des machinistes, pas des guerriers.}
-{108}{}{Et si je m'en charge à votre place, qu'est-ce que vous me donnez ?}
-{109}{}{On fabrique des armes et des munitions ; ça fait 30 ans. Mais depuis 10 ans, c'est l'enfer.}
-{110}{}{Comment ça se fait ?}
-{111}{}{On a écumé les environs de l'usine de tous les déchets métalliques hérités de la guerre. Maintenant, c'est le Sanctuaire qui nous approvisionne en matières premières.}
-{112}{}{Et que le Sanctuaire vous approvisionne, ça pose un problème ?}
-{113}{}{Au début, rien à redire. Ils nous fournissaient les matières premières et nous, on fabriquait et on vendait les armes. Et puis il y a 3 ans, Zimmerman a embauché des mercenaires pour protéger le Sanctuaire contre les Griffemorts et les pillards. Et ces milices sont sans foi ni loi, elles nous exploitent au maximum ! On fabrique les fusils et eux s'engraissent...}
+{105}{}{Cet endroit est pas facile d'accÃ¨s, avec ce nid de Griffemorts juste en dehors de l'usine.}
+{106}{}{Vous semblez assez bien Ã©quipÃ©s, pourquoi ne pas les exterminer ?}
+{107}{}{C'est ce qu'on a essayÃ© de faire, mais quand y'en a plus, y'en a encore. Et puis, on est des machinistes, pas des guerriers.}
+{108}{}{Et si je m'en charge Ã  votre place, qu'est-ce que vous me donnez ?}
+{109}{}{On fabrique des armes et des munitions ; Ã§a fait 30 ans. Mais depuis 10 ans, c'est l'enfer.}
+{110}{}{Comment Ã§a se fait ?}
+{111}{}{On a Ã©cumÃ© les environs de l'usine de tous les dÃ©chets mÃ©talliques hÃ©ritÃ©s de la guerre. Maintenant, c'est le Sanctuaire qui nous approvisionne en matiÃ¨res premiÃ¨res.}
+{112}{}{Et que le Sanctuaire vous approvisionne, Ã§a pose un problÃ¨me ?}
+{113}{}{Au dÃ©but, rien Ã  redire. Ils nous fournissaient les matiÃ¨res premiÃ¨res et nous, on fabriquait et on vendait les armes. Et puis il y a 3 ans, Zimmerman a embauchÃ© des mercenaires pour protÃ©ger le Sanctuaire contre les Griffemorts et les pillards. Et ces milices sont sans foi ni loi, elles nous exploitent au maximum ! On fabrique les fusils et eux s'engraissent...}
 {114}{}{Pourquoi ne pas partir et vous installer ailleurs ?}
 {115}{}{Dur. Qu'est-ce que vous me donnez si je me charge des Griffemorts ?}
-{116}{}{Ah, on demanderait pas mieux ! Mais déménager, avec toutes nos machines et nos installations, t'imagines ! Pas facile à déplacer tout ça. On partirait bien, mais avec les Griffemorts, impossible !}
-{117}{}{Vous semblez assez bien équipés, pourquoi ne pas les exterminer ?}
-{118}{}{Si tu réussissais à nous débarrasser des Griffemorts pour de bon, ton prix serait le nôtre.}
+{116}{}{Ah, on demanderait pas mieux ! Mais dÃ©mÃ©nager, avec toutes nos machines et nos installations, t'imagines ! Pas facile Ã  dÃ©placer tout Ã§a. On partirait bien, mais avec les Griffemorts, impossible !}
+{117}{}{Vous semblez assez bien Ã©quipÃ©s, pourquoi ne pas les exterminer ?}
+{118}{}{Si tu rÃ©ussissais Ã  nous dÃ©barrasser des Griffemorts pour de bon, ton prix serait le nÃ´tre.}
 {119}{}{Je veux des armes et des munitions... et beaucoup.}
 {120}{}{}
-{121}{}{Si tu nettoies le coin, on partira mais on laissera derrière nous plus d'armes et de munitions qu'il t'en faudrait.}
-{122}{}{Ok. Marché conclu.}
-{123}{}{Faut que je réfléchisse.}
-{124}{}{Des gens qui régleraient tous les problèmes que le Sanctuaire nous pose.}
-{125}{}{Tu élimines les Griffemorts, jusqu'au dernier, et ça marche !}
+{121}{}{Si tu nettoies le coin, on partira mais on laissera derriÃ¨re nous plus d'armes et de munitions qu'il t'en faudrait.}
+{122}{}{Ok. MarchÃ© conclu.}
+{123}{}{Faut que je rÃ©flÃ©chisse.}
+{124}{}{Des gens qui rÃ©gleraient tous les problÃ¨mes que le Sanctuaire nous pose.}
+{125}{}{Tu Ã©limines les Griffemorts, jusqu'au dernier, et Ã§a marche !}
 {126}{}{D'accord, je m'en charge.}
-{127}{}{Faut que je réfléchisse.}
+{127}{}{Faut que je rÃ©flÃ©chisse.}
 {128}{}{Rebonjour.}
 {129}{}{C'est quoi que tu fais ici ?}
 {130}{}{Salut.}
 {131}{}{}
-{132}{}{Tout s'est bien passé.}
-{133}{}{Je pense avoir tué tous les Griffemorts.}
-{134}{}{Faut être sûr. On en a tué plus de 20 en 2 ans, et on dirait qu'il en revient toujours. Comment ? Ca, mystère. S'ils donnent plus signe de vie d'ici quelques jours, on verra ce qu'on peut faire pour toi.}
+{132}{}{Tout s'est bien passÃ©.}
+{133}{}{Je pense avoir tuÃ© tous les Griffemorts.}
+{134}{}{Faut Ãªtre sÃ»r. On en a tuÃ© plus de 20 en 2 ans, et on dirait qu'il en revient toujours. Comment ? Ca, mystÃ¨re. S'ils donnent plus signe de vie d'ici quelques jours, on verra ce qu'on peut faire pour toi.}
 {135}{}{D'accord. Merci.}
-{136}{}{Fais-nous signe dès que t'as réglé le compte des Griffemorts.}
+{136}{}{Fais-nous signe dÃ¨s que t'as rÃ©glÃ© le compte des Griffemorts.}
 {137}{}{D'accord. A un de ces quatre.}
 {138}{}{Je sais bien.}
 {139}{}{A un de ces quatre.}
 {140}{}{C'est pas souvent qu'on a de la visite... Je peux t'aider ?}
 {141}{}{Pourquoi vous avez pas souvent de visites ?}
 {142}{}{C'est quoi que tu fais ici ?}
-{143}{}{Cet endroit est pas facile d'accès, avec ce nid de Griffemorts juste en dehors de l'usine.}
-{144}{}{J'ai tué tous les Griffemorts. Même toutes leurs saletés d'œufs.}
-{145}{}{Ah, on demanderait pas mieux ! Mais déménager, avec toutes nos machines et nos installations, t'imagines. Pas facile à déplacer tout ça. On partirait bien, mais avec les Griffemorts, impossible !}
-{146}{}{J'ai tué tous les Griffemorts. Même toutes leurs saletés d'œufs.}
+{143}{}{Cet endroit est pas facile d'accÃ¨s, avec ce nid de Griffemorts juste en dehors de l'usine.}
+{144}{}{J'ai tuÃ© tous les Griffemorts. MÃªme toutes leurs saletÃ©s d'Å“ufs.}
+{145}{}{Ah, on demanderait pas mieux ! Mais dÃ©mÃ©nager, avec toutes nos machines et nos installations, t'imagines. Pas facile Ã  dÃ©placer tout Ã§a. On partirait bien, mais avec les Griffemorts, impossible !}
+{146}{}{J'ai tuÃ© tous les Griffemorts. MÃªme toutes leurs saletÃ©s d'Å“ufs.}
 {147}{}{}
 {148}{}{Je veux des armes et des munitions... et beaucoup.}
 {149}{}{}
@@ -54,7 +54,7 @@
 {153}{}{}
 {154}{}{Merci.}
 {155}{}{}
-{156}{}{Aucun problème.}
+{156}{}{Aucun problÃ¨me.}
 {157}{}{}
 {158}{}{}
 {159}{}{Vous deviez pas partir ?}
@@ -62,28 +62,28 @@
 {161}{}{Rien. Merci.}
 {162}{}{}
 {163}{}{Super. Alors les mecs, qu'est-ce que vous avez aujourd'hui ?}
-{164}{}{Bon allez, à un de ces quatre.}
+{164}{}{Bon allez, Ã  un de ces quatre.}
 {165}{}{}
 {166}{}{Je viens juste prendre deux ou trois trucs. Qu'est-ce que tu m'proposes aujourd'hui ?}
 {167}{}{Rien. Merci.}
-{168}{}{Désolé, j'ai pas le temps de discuter, je suis très occupé.}
+{168}{}{DÃ©solÃ©, j'ai pas le temps de discuter, je suis trÃ¨s occupÃ©.}
 {169}{}{Les fusils, j'aime les fusils !}
 {170}{}{J'ai des amis qui sauront bien quoi faire de vos armes.}
 {171}{}{J'ai des amis qui sauront bien quoi faire de vos armes.}
-{172}{}{Comment ça va, l'amie ?}
-{173}{}{Comment ça va, l'amie ?}
-{174}{}{Tu quoi ?! Tu les a tous tués ? Les dieux sont avec nous ! Maintenant, on peut partir. On a plus à dépendre de ces vermines du Sanctuaire pour nos matières premières. Ton prix sera le nôtre, l'amie.}
-{175}{}{Tu quoi ?! Tu les a tous tués ? Les dieux sont avec nous ! Maintenant, on peut partir. On a plus à dépendre de ces vermines du Sanctuaire pour nos matières premières. Ton prix sera le nôtre, l'amie.}
-{176}{}{Parfait. Ravi d'avoir eu affaire à toi, l'amie.}
-{177}{}{Parfait. Ravi d'avoir eu affaire à toi, l'amie.}
-{178}{}{Tu les as eus. Fais savoir à tes amis qu'ils ont leurs armes.}
-{179}{}{Tu les as eus. Fais savoir à tes amis qu'ils ont leurs armes.}
+{172}{}{Comment Ã§a va, l'amie ?}
+{173}{}{Comment Ã§a va, l'amie ?}
+{174}{}{Tu quoi ?! Tu les a tous tuÃ©s ? Les dieux sont avec nous ! Maintenant, on peut partir. On a plus Ã  dÃ©pendre de ces vermines du Sanctuaire pour nos matiÃ¨res premiÃ¨res. Ton prix sera le nÃ´tre, l'amie.}
+{175}{}{Tu quoi ?! Tu les a tous tuÃ©s ? Les dieux sont avec nous ! Maintenant, on peut partir. On a plus Ã  dÃ©pendre de ces vermines du Sanctuaire pour nos matiÃ¨res premiÃ¨res. Ton prix sera le nÃ´tre, l'amie.}
+{176}{}{Parfait. Ravi d'avoir eu affaire Ã  toi, l'amie.}
+{177}{}{Parfait. Ravi d'avoir eu affaire Ã  toi, l'amie.}
+{178}{}{Tu les as eus. Fais savoir Ã  tes amis qu'ils ont leurs armes.}
+{179}{}{Tu les as eus. Fais savoir Ã  tes amis qu'ils ont leurs armes.}
 {180}{}{Merci, l'amie.}
 {181}{}{Merci, l'amie.}
-{182}{}{Désolé l'amie, j'ai pas le temps de te parler ; on est occupés à déménager. Sers-toi à ton aise.}
-{183}{}{Désolé l'amie, j'ai pas le temps de te parler ; on est occupés à déménager. Sers-toi à ton aise.}
-{184}{}{C'est plus la peine de partir maintenant que nous sommes débarrassés de ces maudits mercenaires.}
-{185}{}{C'est plus la peine de partir maintenant que nous sommes débarrassés de ces maudits mercenaires.}
+{182}{}{DÃ©solÃ© l'amie, j'ai pas le temps de te parler ; on est occupÃ©s Ã  dÃ©mÃ©nager. Sers-toi Ã  ton aise.}
+{183}{}{DÃ©solÃ© l'amie, j'ai pas le temps de te parler ; on est occupÃ©s Ã  dÃ©mÃ©nager. Sers-toi Ã  ton aise.}
+{184}{}{C'est plus la peine de partir maintenant que nous sommes dÃ©barrassÃ©s de ces maudits mercenaires.}
+{185}{}{C'est plus la peine de partir maintenant que nous sommes dÃ©barrassÃ©s de ces maudits mercenaires.}
 {186}{}{Bienvenue l'amie. Je peux t'aider ?}
 {187}{}{Bienvenue l'amie. Je peux t'aider ?}
-{188}{}{Pour les achats, adresse-toi à Zack.}
+{188}{}{Pour les achats, adresse-toi Ã  Zack.}

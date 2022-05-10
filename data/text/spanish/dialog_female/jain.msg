@@ -1,91 +1,91 @@
 {100}{}{Ves: a Jain.}
-{101}{JAIN00}{¿Por qué molestas a una anciana de la Catedral?}
-{102}{}{He venido a buscar una bendición.}
-{103}{}{Estoy pensando en unirme a vuestra iglesia y quería informarme. ¿Tenéis panfletos?}
-{104}{}{Sólo estaba mirando.}
-{105}{}{¿Mamá?}
-{106}{JAIN01}{Sería extraño que fuese tu madre.}
-{107}{}{No, ¿eh?}
-{108}{}{¡Mecachis!}
-{109}{JAIN02}{¿Cómo te atreves a hablarme de esa manera? ¡Tu insolencia será castigada! ¡Guardias!}
-{110}{JAIN03}{Quizás uno de nuestros sacerdotes se preocupará de tu educación deficiente. Ahora vete.}
-{111}{JAIN04}{¿Has estudiado los sacramentos, hija?}
-{112}{}{Sí.}
+{101}{JAIN00}{Â¿Por quÃ© molestas a una anciana de la Catedral?}
+{102}{}{He venido a buscar una bendiciÃ³n.}
+{103}{}{Estoy pensando en unirme a vuestra iglesia y querÃ­a informarme. Â¿TenÃ©is panfletos?}
+{104}{}{SÃ³lo estaba mirando.}
+{105}{}{Â¿MamÃ¡?}
+{106}{JAIN01}{SerÃ­a extraÃ±o que fuese tu madre.}
+{107}{}{No, Â¿eh?}
+{108}{}{Â¡Mecachis!}
+{109}{JAIN02}{Â¿CÃ³mo te atreves a hablarme de esa manera? Â¡Tu insolencia serÃ¡ castigada! Â¡Guardias!}
+{110}{JAIN03}{QuizÃ¡s uno de nuestros sacerdotes se preocuparÃ¡ de tu educaciÃ³n deficiente. Ahora vete.}
+{111}{JAIN04}{Â¿Has estudiado los sacramentos, hija?}
+{112}{}{SÃ­.}
 {113}{}{No.}
-{114}{JAIN05}{Entonces deberías saber que los ancianos mayores de la Catedral no "reparten" bendiciones tan fácilmente. Debes irte ahora.}
-{115}{JAIN07}{Si sigues burlándote haré que te expulsen de aquí.}
+{114}{JAIN05}{Entonces deberÃ­as saber que los ancianos mayores de la Catedral no "reparten" bendiciones tan fÃ¡cilmente. Debes irte ahora.}
+{115}{JAIN07}{Si sigues burlÃ¡ndote harÃ© que te expulsen de aquÃ­.}
 {116}{}{No me estoy burlando de ti, en serio.}
-{117}{}{¿Burlarme de ti? ¡¿Cómo podría hacer algo semejante?!}
-{118}{}{Es evidente que la bondad y la serenidad no forman parte de esta religión.}
+{117}{}{Â¿Burlarme de ti? Â¡Â¿CÃ³mo podrÃ­a hacer algo semejante?!}
+{118}{}{Es evidente que la bondad y la serenidad no forman parte de esta religiÃ³n.}
 {119}{}{Perdona, creo que debo irme.}
-{120}{JAIN08}{Pagarás por esa herejía.}
-{121}{JAIN09}{Tus palabras no concuerdan con tus ideas. Arden por la herejía que tienes dentro de ti. Pero serás purificada y perdonada.}
-{122}{JAIN10}{¿Entonces por qué estás aquí? ¿Por qué viniste a los Niños de la Catedral?}
-{123}{}{Busco sabiduría. Quisiera aprender más.}
-{124}{}{Necesito saber cómo quemar este lugar, estaba buscando un punto débil.}
+{120}{JAIN08}{PagarÃ¡s por esa herejÃ­a.}
+{121}{JAIN09}{Tus palabras no concuerdan con tus ideas. Arden por la herejÃ­a que tienes dentro de ti. Pero serÃ¡s purificada y perdonada.}
+{122}{JAIN10}{Â¿Entonces por quÃ© estÃ¡s aquÃ­? Â¿Por quÃ© viniste a los NiÃ±os de la Catedral?}
+{123}{}{Busco sabidurÃ­a. Quisiera aprender mÃ¡s.}
+{124}{}{Necesito saber cÃ³mo quemar este lugar, estaba buscando un punto dÃ©bil.}
 {125}{}{Solo echo un vistazo.}
-{126}{JAIN11}{¿Eres una de los Niños?}
-{127}{}{Señora, ¿tan joven te parezco?}
-{128}{}{¿Si soy una de los Niños de la Catedral? No.}
+{126}{JAIN11}{Â¿Eres una de los NiÃ±os?}
+{127}{}{SeÃ±ora, Â¿tan joven te parezco?}
+{128}{}{Â¿Si soy una de los NiÃ±os de la Catedral? No.}
 {129}{}{Soy una devota creyente.}
-{130}{JAIN12}{Entonces deberías tener un sitio mejor donde estar. Y cuida tus modales. Vete.}
+{130}{JAIN12}{Entonces deberÃ­as tener un sitio mejor donde estar. Y cuida tus modales. Vete.}
 {131}{}{Vale.}
-{132}{}{Cómemela.}
-{133}{JAIN13}{¿Quieres convertirte a nuestra religión? Te ofreceremos lo que nadie.}
-{134}{}{¿El qué?}
-{135}{}{No, no me interesa. Creo que estáis todos chiflados.}
-{136}{JAIN14}{Una vida llena de felicidad. La satisfacción de saber que participas a la reconstrucción del planeta y su conversión en un lugar mejor para los que vendrán después.}
-{137}{}{Parece interesante, ¿puedes seguir contándome cosas? Deseo satisfacción.}
-{138}{}{Oh sí, seguro que se está reconstruyendo mucho y que vuestras copas rebosan de satisfacción.}
+{132}{}{CÃ³memela.}
+{133}{JAIN13}{Â¿Quieres convertirte a nuestra religiÃ³n? Te ofreceremos lo que nadie.}
+{134}{}{Â¿El quÃ©?}
+{135}{}{No, no me interesa. Creo que estÃ¡is todos chiflados.}
+{136}{JAIN14}{Una vida llena de felicidad. La satisfacciÃ³n de saber que participas a la reconstrucciÃ³n del planeta y su conversiÃ³n en un lugar mejor para los que vendrÃ¡n despuÃ©s.}
+{137}{}{Parece interesante, Â¿puedes seguir contÃ¡ndome cosas? Deseo satisfacciÃ³n.}
+{138}{}{Oh sÃ­, seguro que se estÃ¡ reconstruyendo mucho y que vuestras copas rebosan de satisfacciÃ³n.}
 {139}{}{No lo creo. Me da que hay gato encerrado.}
 {140}{JAIN15}{Puedes creer lo que quieras. Pero hazlo en otra parte. Puedes irte.}
-{141}{JAIN17}{No nos gusta que se burlen de nuestra causa sagrada. Si persistes, serás castigada.}
-{142}{}{¿Y quién me va a castigar? Oooh, si no te importa el látigo que más me gusta es el más fuerte.}
+{141}{JAIN17}{No nos gusta que se burlen de nuestra causa sagrada. Si persistes, serÃ¡s castigada.}
+{142}{}{Â¿Y quiÃ©n me va a castigar? Oooh, si no te importa el lÃ¡tigo que mÃ¡s me gusta es el mÃ¡s fuerte.}
 {143}{}{Lo siento.}
-{144}{JAIN18}{Cuando los Niños caminen sobre la tierra renacida, tu especie desaparecerá, hereje. Vete inmediatamente.}
-{145}{JAIN19}{No carezco completamente de sentido del humor, pero me tomo muy en serio la tutela de los Niños. No lo olvides, por favor.}
-{146}{}{Perdóname pero no estoy demasiado familiarizada con los Niños.}
-{147}{}{Vale. Adiós.}
-{148}{JAIN20}{Estás en el lugar adecuado para la satisfacción espiritual. Los Niños de la Catedral buscan una solución pacífica para los problemas de nuestro mundo y tu ayuda les podría ser útil.}
-{149}{}{¿Qué planes tienen los Niños para los mutantes?}
-{150}{}{¿Cómo pueden encontrar la paz los Niños en este yermo?}
-{151}{JAIN21}{Aquellos que acepten entrar en el redil, la encontrarán. Los que se resistan, sufrirán.}
+{144}{JAIN18}{Cuando los NiÃ±os caminen sobre la tierra renacida, tu especie desaparecerÃ¡, hereje. Vete inmediatamente.}
+{145}{JAIN19}{No carezco completamente de sentido del humor, pero me tomo muy en serio la tutela de los NiÃ±os. No lo olvides, por favor.}
+{146}{}{PerdÃ³name pero no estoy demasiado familiarizada con los NiÃ±os.}
+{147}{}{Vale. AdiÃ³s.}
+{148}{JAIN20}{EstÃ¡s en el lugar adecuado para la satisfacciÃ³n espiritual. Los NiÃ±os de la Catedral buscan una soluciÃ³n pacÃ­fica para los problemas de nuestro mundo y tu ayuda les podrÃ­a ser Ãºtil.}
+{149}{}{Â¿QuÃ© planes tienen los NiÃ±os para los mutantes?}
+{150}{}{Â¿CÃ³mo pueden encontrar la paz los NiÃ±os en este yermo?}
+{151}{JAIN21}{Aquellos que acepten entrar en el redil, la encontrarÃ¡n. Los que se resistan, sufrirÃ¡n.}
 {152}{}{Parece un trabajo duro.}
 {153}{}{Es hora de que sufras un poquito.}
-{154}{}{Así sea. ¡Espero que triunfes en tu cruzada!}
+{154}{}{AsÃ­ sea. Â¡Espero que triunfes en tu cruzada!}
 {155}{}{Eh, tengo que irme.}
-{156}{JAIN22}{Con perseverancia, los Niños pueden conseguir lo que deseen. No fracasaremos.}
+{156}{JAIN22}{Con perseverancia, los NiÃ±os pueden conseguir lo que deseen. No fracasaremos.}
 {157}{}{Bien, espero que no.}
-{158}{}{Sí, claro. Lo que sea.}
-{159}{}{Vale. Adiós.}
-{160}{JAIN26}{¡Blasfemadora! ¡Estás en una casa sagrada! ¡¿Cómo pudiste pensar tal cosa?!}
-{161}{}{¡Relájate, no lo decía en serio!}
-{162}{}{Fácil. Deja que te lo enseñe.}
-{163}{JAIN27}{Que la Llama Sagrada te bendiga, Niña mía.}
-{164}{}{¿Quién es la Llama Sagrada?}
+{158}{}{SÃ­, claro. Lo que sea.}
+{159}{}{Vale. AdiÃ³s.}
+{160}{JAIN26}{Â¡Blasfemadora! Â¡EstÃ¡s en una casa sagrada! Â¡Â¿CÃ³mo pudiste pensar tal cosa?!}
+{161}{}{Â¡RelÃ¡jate, no lo decÃ­a en serio!}
+{162}{}{FÃ¡cil. Deja que te lo enseÃ±e.}
+{163}{JAIN27}{Que la Llama Sagrada te bendiga, NiÃ±a mÃ­a.}
+{164}{}{Â¿QuiÃ©n es la Llama Sagrada?}
 {165}{}{Este sitio es un fraude.}
-{166}{}{Y a ti, sacerdotisa Jain. Adiós.}
-{167}{}{¿Ug luk to ruk?}
-{168}{}{¡Vaaale!}
-{169}{JAIN28}{Antes tenías potencial. Pero ya no eres bienvenida aquí.}
+{166}{}{Y a ti, sacerdotisa Jain. AdiÃ³s.}
+{167}{}{Â¿Ug luk to ruk?}
+{168}{}{Â¡Vaaale!}
+{169}{JAIN28}{Antes tenÃ­as potencial. Pero ya no eres bienvenida aquÃ­.}
 {170}{JAIN29}{No eres bienvenida, por favor vete.}
-{171}{JAIN30}{¿Qué te trae por aquí?}
-{172}{}{He asesinado al Maestro y creo que se hacía pasar por la Llama Sagrada.}
-{173}{}{Habéis sido liberados de la opresión del Maestro.}
-{174}{}{¿Mu tuk doh tub?}
+{171}{JAIN30}{Â¿QuÃ© te trae por aquÃ­?}
+{172}{}{He asesinado al Maestro y creo que se hacÃ­a pasar por la Llama Sagrada.}
+{173}{}{HabÃ©is sido liberados de la opresiÃ³n del Maestro.}
+{174}{}{Â¿Mu tuk doh tub?}
 {175}{}{Mis piececitos.}
-{176}{JAIN31}{¡¿Que has hecho qué?! Pagarás por tu pecado contra la Llama Sagrada.}
-{177}{JAIN32}{¿Quién?}
+{176}{JAIN31}{Â¡Â¿Que has hecho quÃ©?! PagarÃ¡s por tu pecado contra la Llama Sagrada.}
+{177}{JAIN32}{Â¿QuiÃ©n?}
 {178}{}{El Maestro. Pensaba unir a los mutantes y apoderarse del mundo.}
 {179}{}{No te preocupes por eso.}
 {180}{JAIN33}{No te decepciones. Sugiero que veas a un consejero para solucionar tus problemas.}
-{181}{JAIN204}{Te dije que te fueses. ¿Tienes sordera o muy poco seso?}
-{182}{JAIN200}{Abandona esta estancia inmediatamente, o te haré purificar por la Llama Sagrada.}
+{181}{JAIN204}{Te dije que te fueses. Â¿Tienes sordera o muy poco seso?}
+{182}{JAIN200}{Abandona esta estancia inmediatamente, o te harÃ© purificar por la Llama Sagrada.}
 {183}{JAIN202}{Nadie es superior a la Llama Sagrada y nosotros somos Sus siervos.}
-{184}{}{¿En serio? Guau. ¿Por qué es deseable unirse a tu orden?}
-{185}{}{Eh, vale, adiós.}
-{186}{JAIN27}{Que la Llama Sagrada te bendiga, Niña mía.}
-{187}{JAIN22}{Con perseverancia, los Niños pueden conseguir lo que deseen. No fracasaremos.}
+{184}{}{Â¿En serio? Guau. Â¿Por quÃ© es deseable unirse a tu orden?}
+{185}{}{Eh, vale, adiÃ³s.}
+{186}{JAIN27}{Que la Llama Sagrada te bendiga, NiÃ±a mÃ­a.}
+{187}{JAIN22}{Con perseverancia, los NiÃ±os pueden conseguir lo que deseen. No fracasaremos.}
 {188}{JAIN201}{Esa no es una pregunta apropiada.}
 {1000}{}{Guerra}
 {1001}{}{Maestro}
@@ -98,16 +98,16 @@
 {1008}{}{Unidad}
 {1009}{}{Hermandad}
 {1010}{}{Llama}
-{1011}{}{Niños}
-{1100}{JAIN300}{Fue la purga del planeta. La falta de atención de los que nos precedieron provocó los fuegos sagrados. Fue justo.}
-{1101}{JAIN301}{El único Maestro es la Llama Sagrada. Es nuestro Maestro. El Maestro de todo.}
-{1102}{JAIN302}{Por gracia de Su Santidad el planeta renacerá. Nosotros somos Sus Niños y llevaremos a cabo Su plan.}
-{1103}{JAIN303}{Están benditos pues llevan las marcas de los pecados del pasado para que sean atestiguados hoy.}
-{1104}{JAIN304}{Como tantas otras ciudades, acatarán el liderazgo moral de la Catedral.}
-{1105}{JAIN305}{Pretenden ser una fundación religiosa, pero carecen de verdadera rectitud. Sea como fuere, su entusiasmo resulta interesante.}
-{1106}{JAIN306}{Nunca he oído nada sobre tales cosas.}
-{1107}{JAIN308}{Lo Más Sagrado. La luz que nos guía. Eliminará a los infieles cuando el Nexo del Renacer sea alcanzado.}
-{1108}{JAIN309}{Es la unión, por la Llama Sagrada, de todas las personas, de todas las razas, y la eliminación de los paganos de este mundo.}
-{1109}{JAIN305}{Pretenden ser una fundación religiosa, pero carecen de verdadera rectitud. Sea como fuere, su entusiasmo resulta interesante.}
-{1110}{JAIN308}{Lo Más Sagrado. La luz que nos guía. Eliminará a los infieles cuando el Nexo del Renacer sea alcanzado.}
-{1111}{JAIN302}{Por gracia de Su Santidad el planeta renacerá. Nosotros somos Sus Niños y llevaremos a cabo Su plan.}
+{1011}{}{NiÃ±os}
+{1100}{JAIN300}{Fue la purga del planeta. La falta de atenciÃ³n de los que nos precedieron provocÃ³ los fuegos sagrados. Fue justo.}
+{1101}{JAIN301}{El Ãºnico Maestro es la Llama Sagrada. Es nuestro Maestro. El Maestro de todo.}
+{1102}{JAIN302}{Por gracia de Su Santidad el planeta renacerÃ¡. Nosotros somos Sus NiÃ±os y llevaremos a cabo Su plan.}
+{1103}{JAIN303}{EstÃ¡n benditos pues llevan las marcas de los pecados del pasado para que sean atestiguados hoy.}
+{1104}{JAIN304}{Como tantas otras ciudades, acatarÃ¡n el liderazgo moral de la Catedral.}
+{1105}{JAIN305}{Pretenden ser una fundaciÃ³n religiosa, pero carecen de verdadera rectitud. Sea como fuere, su entusiasmo resulta interesante.}
+{1106}{JAIN306}{Nunca he oÃ­do nada sobre tales cosas.}
+{1107}{JAIN308}{Lo MÃ¡s Sagrado. La luz que nos guÃ­a. EliminarÃ¡ a los infieles cuando el Nexo del Renacer sea alcanzado.}
+{1108}{JAIN309}{Es la uniÃ³n, por la Llama Sagrada, de todas las personas, de todas las razas, y la eliminaciÃ³n de los paganos de este mundo.}
+{1109}{JAIN305}{Pretenden ser una fundaciÃ³n religiosa, pero carecen de verdadera rectitud. Sea como fuere, su entusiasmo resulta interesante.}
+{1110}{JAIN308}{Lo MÃ¡s Sagrado. La luz que nos guÃ­a. EliminarÃ¡ a los infieles cuando el Nexo del Renacer sea alcanzado.}
+{1111}{JAIN302}{Por gracia de Su Santidad el planeta renacerÃ¡. Nosotros somos Sus NiÃ±os y llevaremos a cabo Su plan.}

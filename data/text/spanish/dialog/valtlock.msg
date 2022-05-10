@@ -1,1 +1,1 @@
-{100}{}{Hay unas manchas luminosas en una sección del muro este.}
+{100}{}{Hay unas manchas luminosas en una secciÃ³n del muro este.}

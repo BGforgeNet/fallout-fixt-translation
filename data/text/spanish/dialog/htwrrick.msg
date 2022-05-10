@@ -1,34 +1,34 @@
 {100}{}{Ves: a Rick, un guardia.}
-{101}{}{¿Qué quieres?}
+{101}{}{Â¿QuÃ© quieres?}
 {102}{}{Da... Um...}
-{103}{}{Perdona, ¿puedo hacerte unas preguntas?}
-{104}{}{¡Vete de aquí!}
+{103}{}{Perdona, Â¿puedo hacerte unas preguntas?}
+{104}{}{Â¡Vete de aquÃ­!}
 {105}{}{No importa.}
-{106}{}{¡Vuelve a la parte Este, descerebrado!}
-{107}{}{¿Qué?}
+{106}{}{Â¡Vuelve a la parte Este, descerebrado!}
+{107}{}{Â¿QuÃ©?}
 {108}{}{Yo marcho.}
-{109}{}{Hazlo rápido. No puedo hablar mientras trabajo.}
-{110}{}{¿Dónde estoy?}
-{111}{}{¿Cuál es tu trabajo?}
-{112}{}{Lamento molestarte. Adiós.}
-{113}{}{Deberías irte y callarte, ¡cerebro de mosquito!}
-{114}{}{¡NO! ¡Deberías tener cuidado! ¡Voy a meterte una bala en la cabeza!}
+{109}{}{Hazlo rÃ¡pido. No puedo hablar mientras trabajo.}
+{110}{}{Â¿DÃ³nde estoy?}
+{111}{}{Â¿CuÃ¡l es tu trabajo?}
+{112}{}{Lamento molestarte. AdiÃ³s.}
+{113}{}{DeberÃ­as irte y callarte, Â¡cerebro de mosquito!}
+{114}{}{Â¡NO! Â¡DeberÃ­as tener cuidado! Â¡Voy a meterte una bala en la cabeza!}
 {115}{}{No voy a perder el tiempo contigo.}
-{116}{}{Si no lo sabes, no deberías estar aquí. Estás en las Alturas. El Señor Hightower vive aquí y solo recibe con cita previa.}
-{117}{}{¿Cuál es tu trabajo?}
-{118}{}{¿Puedo concertar una cita con el Sr. Hightower?}
+{116}{}{Si no lo sabes, no deberÃ­as estar aquÃ­. EstÃ¡s en las Alturas. El SeÃ±or Hightower vive aquÃ­ y solo recibe con cita previa.}
+{117}{}{Â¿CuÃ¡l es tu trabajo?}
+{118}{}{Â¿Puedo concertar una cita con el Sr. Hightower?}
 {119}{}{Gracias por tu tiempo.}
-{120}{}{Estoy aquí para asegurarme que nadie se mete con el Sr. Hightower.}
-{121}{}{Bueno, realmente estoy interesado en asesinar al Sr. Hightower. ¡Es hora de que te ganes tu paga!}
-{122}{}{¿Dónde estoy?}
-{123}{}{Gracias por dedicarme tu tiempo. Adiós.}
+{120}{}{Estoy aquÃ­ para asegurarme que nadie se mete con el Sr. Hightower.}
+{121}{}{Bueno, realmente estoy interesado en asesinar al Sr. Hightower. Â¡Es hora de que te ganes tu paga!}
+{122}{}{Â¿DÃ³nde estoy?}
+{123}{}{Gracias por dedicarme tu tiempo. AdiÃ³s.}
 {124}{}{No.}
-{125}{}{No me gusta tu comportamiento. Deberías irte.}
+{125}{}{No me gusta tu comportamiento. DeberÃ­as irte.}
 {126}{}{All right. I'm going.}
-{127}{}{¡Déjame en paz, despiadado mastodonte!}
-{128}{}{Después de anochecer nadie puede entrar aquí. Los otros guardias ni siquiera te avisarán. Si te cogen, acabarán contigo. Deberías volver al centro de la ciudad ahora que tienes todavía la cabeza sobre los hombros.}
+{127}{}{Â¡DÃ©jame en paz, despiadado mastodonte!}
+{128}{}{DespuÃ©s de anochecer nadie puede entrar aquÃ­. Los otros guardias ni siquiera te avisarÃ¡n. Si te cogen, acabarÃ¡n contigo. DeberÃ­as volver al centro de la ciudad ahora que tienes todavÃ­a la cabeza sobre los hombros.}
 {129}{}{VAle. Me vOy.}
 {130}{}{no. Me QUEdo.}
-{131}{}{No me voy a ningún lado.}
-{132}{}{Lo siento, seguiré mi camino.}
-{133}{}{Colega, eres imbécil, ¿verdad? ¡Piérdete!}
+{131}{}{No me voy a ningÃºn lado.}
+{132}{}{Lo siento, seguirÃ© mi camino.}
+{133}{}{Colega, eres imbÃ©cil, Â¿verdad? Â¡PiÃ©rdete!}

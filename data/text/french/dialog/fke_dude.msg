@@ -1,21 +1,21 @@
-{100}{}{Tu ne peux pas déterminer si tu es empoisonné ou irradié.}
-{101}{}{Tu es irradié et empoisonné, mais tu ne sais pas dans quelle mesure.}
-{102}{}{Tu es irradié, mais tu ne sais pas à quel point.}
-{103}{}{Tu es empoisonné, mais pas sûr de l'étendu.}
+{100}{}{Tu ne peux pas dÃ©terminer si tu es empoisonnÃ© ou irradiÃ©.}
+{101}{}{Tu es irradiÃ© et empoisonnÃ©, mais tu ne sais pas dans quelle mesure.}
+{102}{}{Tu es irradiÃ©, mais tu ne sais pas Ã  quel point.}
+{103}{}{Tu es empoisonnÃ©, mais pas sÃ»r de l'Ã©tendu.}
 {104}{}{Diagnostic : }
-{105}{}{très peu}
-{106}{}{très légèrement}
-{107}{}{légèrement}
-{108}{}{modérément}
-{109}{}{très}
-{110}{}{extrêmement}
+{105}{}{trÃ¨s peu}
+{106}{}{trÃ¨s lÃ©gÃ¨rement}
+{107}{}{lÃ©gÃ¨rement}
+{108}{}{modÃ©rÃ©ment}
+{109}{}{trÃ¨s}
+{110}{}{extrÃªmement}
 {111}{}{dangereusement}
 {112}{}{fatalement}
-{113}{}{ irradié}
+{113}{}{ irradiÃ©}
 {114}{}{.}
 {115}{}{ and }
 {116}{}{Niveau d'irradiation : }
 {117}{}{ rads.}
-{118}{}{ Tu es empoisonné au niveau }
-{119}{}{Tu n'es plus empoisonné ou irradié.}
+{118}{}{ Tu es empoisonnÃ© au niveau }
+{119}{}{Tu n'es plus empoisonnÃ© ou irradiÃ©.}
 {200}{}{}

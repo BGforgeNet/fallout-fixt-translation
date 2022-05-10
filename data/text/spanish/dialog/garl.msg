@@ -1,111 +1,111 @@
-{100}{}{Dominando la vista, ves a Garl, el líder de los Khans.}
-{101}{}{¿Piensas que puedes entrar aquí sin permiso? ¿Aquí, en la casa de tus mayores enemigos? Te veremos morir. ¡Me encargaré personalmente de sacarte el corazón y me lo comeré ante mis mejores guerreros!}
-{102}{}{¡Yo te maté!}
+{100}{}{Dominando la vista, ves a Garl, el lÃ­der de los Khans.}
+{101}{}{Â¿Piensas que puedes entrar aquÃ­ sin permiso? Â¿AquÃ­, en la casa de tus mayores enemigos? Te veremos morir. Â¡Me encargarÃ© personalmente de sacarte el corazÃ³n y me lo comerÃ© ante mis mejores guerreros!}
+{102}{}{Â¡Yo te matÃ©!}
 {103}{}{No lo cojo.}
-{104}{}{Sí, lo has hecho. Pero he vuelto para liquidarte.}
-{105}{}{No deberías haber hecho eso.}
-{106}{}{¡Yo te maté!}
+{104}{}{SÃ­, lo has hecho. Pero he vuelto para liquidarte.}
+{105}{}{No deberÃ­as haber hecho eso.}
+{106}{}{Â¡Yo te matÃ©!}
 {107}{}{No lo cojo.}
-{108}{}{Sí, lo has hecho. Pero he vuelto para liquidarte.}
-{109}{}{No deberías haber hecho eso.}
-{110}{}{Deberías... si fueses mi padre, pero no lo eres. Te pareces a él, pero te comportas de otro modo. Ya no queda ninguna imagen de él. Tienes que ser eliminado.}
-{111}{}{¡No me lo puedo creer!}
-{112}{}{Créete esto tío, ¡estás apunto de unírteme en el infierno!}
-{113}{}{No me digas lo que he de hacer, padre. Ahora yo dirijo a los Khans, y tú ya estás medio muerto.}
-{114}{}{Aún estoy vivo.}
-{115}{}{Debería haberte matado cuando aún eras un niño.}
-{116}{}{No me digas lo que he de hacer, padre. Ahora yo dirijo a los Khans, y tú ya estás medio muerto.}
-{117}{}{Aún estoy vivo.}
-{118}{}{Debería haberte matado cuando aún eras un niño.}
-{119}{}{Sí. Ahora es demasiado tarde. Soy Garl Mano Letal. Dirijo a los Khans. Tendrías que estar descansando en tu tumba; ¡te mandaré allí de nuevo!}
-{120}{}{Puedo verte ante mí, pero no me lo puedo creer. ¿Qué quieres ahora?}
+{108}{}{SÃ­, lo has hecho. Pero he vuelto para liquidarte.}
+{109}{}{No deberÃ­as haber hecho eso.}
+{110}{}{DeberÃ­as... si fueses mi padre, pero no lo eres. Te pareces a Ã©l, pero te comportas de otro modo. Ya no queda ninguna imagen de Ã©l. Tienes que ser eliminado.}
+{111}{}{Â¡No me lo puedo creer!}
+{112}{}{CrÃ©ete esto tÃ­o, Â¡estÃ¡s apunto de unÃ­rteme en el infierno!}
+{113}{}{No me digas lo que he de hacer, padre. Ahora yo dirijo a los Khans, y tÃº ya estÃ¡s medio muerto.}
+{114}{}{AÃºn estoy vivo.}
+{115}{}{DeberÃ­a haberte matado cuando aÃºn eras un niÃ±o.}
+{116}{}{No me digas lo que he de hacer, padre. Ahora yo dirijo a los Khans, y tÃº ya estÃ¡s medio muerto.}
+{117}{}{AÃºn estoy vivo.}
+{118}{}{DeberÃ­a haberte matado cuando aÃºn eras un niÃ±o.}
+{119}{}{SÃ­. Ahora es demasiado tarde. Soy Garl Mano Letal. Dirijo a los Khans. TendrÃ­as que estar descansando en tu tumba; Â¡te mandarÃ© allÃ­ de nuevo!}
+{120}{}{Puedo verte ante mÃ­, pero no me lo puedo creer. Â¿QuÃ© quieres ahora?}
 {121}{}{Quiero que liberes a la chica. Ahora.}
 {122}{}{Quiero liquidarte.}
 {123}{}{Quiero que los ricos compren mi lugar en el cielo.}
-{124}{}{Si deseas volver a la tumba, tus deseos se harán realidad.}
-{125}{}{Te juro que me iré.}
-{126}{}{Así será. Libera a la mujer de Arenas Sombrías y acompáñala fuera de aquí...}
-{127}{}{Tú no mandas aquí. No eres de aquí. ¡Que muera el muerto viviente!}
-{128}{}{¡Nunca!}
-{129}{}{Eso es lo que me gusta: iniciativa. Pero no deberías haberlos matado sin mi permiso. No me gusta que haya demasiada iniciativa.}
-{130}{}{¿Qué quieres?}
+{124}{}{Si deseas volver a la tumba, tus deseos se harÃ¡n realidad.}
+{125}{}{Te juro que me irÃ©.}
+{126}{}{AsÃ­ serÃ¡. Libera a la mujer de Arenas SombrÃ­as y acompÃ¡Ã±ala fuera de aquÃ­...}
+{127}{}{TÃº no mandas aquÃ­. No eres de aquÃ­. Â¡Que muera el muerto viviente!}
+{128}{}{Â¡Nunca!}
+{129}{}{Eso es lo que me gusta: iniciativa. Pero no deberÃ­as haberlos matado sin mi permiso. No me gusta que haya demasiada iniciativa.}
+{130}{}{Â¿QuÃ© quieres?}
 {131}{}{Quiero que liberes a la chica.}
 {132}{}{Quiero que mueras.}
-{133}{}{He venido en son de paz para negociar la liberación de Tandi.}
-{134}{}{¡Unnn!}
-{135}{}{¿Qué te hace pensar que está aquí?}
-{136}{}{Lo sé. Te he seguido hasta aquí.}
+{133}{}{He venido en son de paz para negociar la liberaciÃ³n de Tandi.}
+{134}{}{Â¡Unnn!}
+{135}{}{Â¿QuÃ© te hace pensar que estÃ¡ aquÃ­?}
+{136}{}{Lo sÃ©. Te he seguido hasta aquÃ­.}
 {137}{}{Uno de tus adeptos me lo ha dicho.}
-{138}{}{Lo sé.}
-{139}{}{Odio que hagan eso. Tendré que hacer que el bocazas pague por sus crímenes. Cuando termine contigo.}
-{140}{}{Mmm. Vale. ¿Qué me ofreces a cambio de su liberación?}
-{141}{}{Represento una amenaza que no eres capaz de comprender. ¿Realmente quieres que nos enfademos?}
-{142}{}{Te daré algo de igual valor.}
-{143}{}{Será bueno para tu descanso eterno.}
+{138}{}{Lo sÃ©.}
+{139}{}{Odio que hagan eso. TendrÃ© que hacer que el bocazas pague por sus crÃ­menes. Cuando termine contigo.}
+{140}{}{Mmm. Vale. Â¿QuÃ© me ofreces a cambio de su liberaciÃ³n?}
+{141}{}{Represento una amenaza que no eres capaz de comprender. Â¿Realmente quieres que nos enfademos?}
+{142}{}{Te darÃ© algo de igual valor.}
+{143}{}{SerÃ¡ bueno para tu descanso eterno.}
 {144}{}{Tu sangre, derramada por el suelo.}
-{145}{}{Ummm. Vete a saber por qué te creo. Puedes llevarte a la chica, pero no vuelvas a no ser que quieras que nos enfademos.}
-{146}{}{¡Ja! No deberías amenazar a tus superiores.}
-{147}{}{Debe ser algo de valor. Enséñamelo.}
+{145}{}{Ummm. Vete a saber por quÃ© te creo. Puedes llevarte a la chica, pero no vuelvas a no ser que quieras que nos enfademos.}
+{146}{}{Â¡Ja! No deberÃ­as amenazar a tus superiores.}
+{147}{}{Debe ser algo de valor. EnsÃ©Ã±amelo.}
 {148}{}{Me gusta. Puedes llevarte a la chica, pero no vuelvas.}
 {149}{}{No vale la pena que pierda el tiempo contigo. Matadle.}
-{150}{}{¿Crees que un hombre como yo cree en el más allá? ¡El mundo perece y yo me llevaré lo que quiera! ¡Nunca te darás cuenta de la fuerza necesaria para tomar una decisión de ese tipo!}
-{151}{}{¿Qué quieres ahora?}
+{150}{}{Â¿Crees que un hombre como yo cree en el mÃ¡s allÃ¡? Â¡El mundo perece y yo me llevarÃ© lo que quiera! Â¡Nunca te darÃ¡s cuenta de la fuerza necesaria para tomar una decisiÃ³n de ese tipo!}
+{151}{}{Â¿QuÃ© quieres ahora?}
 {152}{}{Nada.}
 {153}{}{Quiero a la chica.}
-{154}{}{Piérdete.}
+{154}{}{PiÃ©rdete.}
 {155}{}{Entonces me molestas. Vete.}
-{156}{}{No nos caes muy bien. ¿Por qué deberíamos darte una de nuestras más preciadas posesiones?}
+{156}{}{No nos caes muy bien. Â¿Por quÃ© deberÃ­amos darte una de nuestras mÃ¡s preciadas posesiones?}
 {157}{}{Es algo justo.}
 {158}{}{Tengo algo de valor similar.}
-{159}{}{Se te permitirá seguir con vida.}
-{160}{}{¿Justo? Yo establezco aquí lo que es justo. Te estás moviendo por terreno peligroso.}
+{159}{}{Se te permitirÃ¡ seguir con vida.}
+{160}{}{Â¿Justo? Yo establezco aquÃ­ lo que es justo. Te estÃ¡s moviendo por terreno peligroso.}
 {161}{}{Lo siento.}
-{162}{}{¿De qué debo preocuparme? Me llevo a la chica.}
-{163}{}{Sí, de hecho. No soporto a los pardillos asustados que no tienen agallas. Y nosotros, lo que no soportamos, lo destruimos. Matadle.}
-{164}{}{¿Estás dispuesto a pelear conmigo por ella?}
+{162}{}{Â¿De quÃ© debo preocuparme? Me llevo a la chica.}
+{163}{}{SÃ­, de hecho. No soporto a los pardillos asustados que no tienen agallas. Y nosotros, lo que no soportamos, lo destruimos. Matadle.}
+{164}{}{Â¿EstÃ¡s dispuesto a pelear conmigo por ella?}
 {165}{}{No. Soy un amante, no un luchador.}
-{166}{}{Por supuesto. Ahora. Tú y yo solos.}
-{167}{}{Acabaré contigo y con toda tu banda.}
-{168}{}{Bien. Deberíamos aclarar esto sin armas, pero puedes quedarte con cualquier armadura que lleves puesta. Si me derribas, te dejaré llevarte a la mujer e irte. Si te derribo yo, te irás sin ella.}
+{166}{}{Por supuesto. Ahora. TÃº y yo solos.}
+{167}{}{AcabarÃ© contigo y con toda tu banda.}
+{168}{}{Bien. DeberÃ­amos aclarar esto sin armas, pero puedes quedarte con cualquier armadura que lleves puesta. Si me derribas, te dejarÃ© llevarte a la mujer e irte. Si te derribo yo, te irÃ¡s sin ella.}
 {169}{}{Suena bien, vamos.}
-{170}{}{Será interesante, pero no muy deportivo. Vale. Hagámoslo.}
+{170}{}{SerÃ¡ interesante, pero no muy deportivo. Vale. HagÃ¡moslo.}
 {171}{}{Vale.}
-{172}{}{Umm, peleas mejor de lo que esperaba. No había tenido un buen combate desde que mi padre me apaleó. Te mereces a la mujer de Arenas Sombrías. Cógela y vete. No vuelvas.}
-{173}{}{Coge tu miserable pellejo y vete. Como vuelvas, no seré tan bueno.}
-{174}{}{¿Qué quieres?}
+{172}{}{Umm, peleas mejor de lo que esperaba. No habÃ­a tenido un buen combate desde que mi padre me apaleÃ³. Te mereces a la mujer de Arenas SombrÃ­as. CÃ³gela y vete. No vuelvas.}
+{173}{}{Coge tu miserable pellejo y vete. Como vuelvas, no serÃ© tan bueno.}
+{174}{}{Â¿QuÃ© quieres?}
 {175}{}{Soy un explorador.}
 {176}{}{Quiero alistarme.}
-{177}{}{No nos gusta ese tipo de gente. No podemos tenerlo aquí. Matadle.}
-{178}{}{¿Tú? ¿Quieres unirte a nosotros? ¿Para qué?}
-{179}{}{Para cargarme a algún capullo importante.}
-{180}{}{Me gustáis. Quiero unirme a vosotros.}
-{181}{}{Los Khans solo aceptan a la gente ruda y fuerte aquí. Debes de ser violento y sádico. No creo que puedas con eso. ¿Puedes?}
-{182}{}{Sí.}
+{177}{}{No nos gusta ese tipo de gente. No podemos tenerlo aquÃ­. Matadle.}
+{178}{}{Â¿TÃº? Â¿Quieres unirte a nosotros? Â¿Para quÃ©?}
+{179}{}{Para cargarme a algÃºn capullo importante.}
+{180}{}{Me gustÃ¡is. Quiero unirme a vosotros.}
+{181}{}{Los Khans solo aceptan a la gente ruda y fuerte aquÃ­. Debes de ser violento y sÃ¡dico. No creo que puedas con eso. Â¿Puedes?}
+{182}{}{SÃ­.}
 {183}{}{No.}
-{184}{}{Entonces será mejor que te vayas. No vuelvas.}
+{184}{}{Entonces serÃ¡ mejor que te vayas. No vuelvas.}
 {185}{}{Me he cansado de estas mujercitas. Matadlas.}
-{186}{}{¡No!}
+{186}{}{Â¡No!}
 {187}{}{Vale.}
-{188}{}{Acabas de confirmar lo que digo. Solo los Khans poseen las ganas de sobrevivir. Tú no. Matadle.}
-{189}{}{Has colmado mi paciencia. Solo los Khans poseen las ganas de sobrevivir. Tú no. Matadla.}
-{190}{}{¡Imbécil! ¡Pagarás por esto!}
-{191}{}{¡Ja! Me gusta tu estilo. Un poco chapucero, pero funciona. Considérate un amigo de los Khans. Sal de mi vista ahora.}
-{192}{}{¿Qué quieres ahora?}
+{188}{}{Acabas de confirmar lo que digo. Solo los Khans poseen las ganas de sobrevivir. TÃº no. Matadle.}
+{189}{}{Has colmado mi paciencia. Solo los Khans poseen las ganas de sobrevivir. TÃº no. Matadla.}
+{190}{}{Â¡ImbÃ©cil! Â¡PagarÃ¡s por esto!}
+{191}{}{Â¡Ja! Me gusta tu estilo. Un poco chapucero, pero funciona. ConsidÃ©rate un amigo de los Khans. Sal de mi vista ahora.}
+{192}{}{Â¿QuÃ© quieres ahora?}
 {193}{}{Nada.}
 {194}{}{Quiero armas y blindaje.}
 {195}{}{Ermm.}
 {196}{}{Debes valerte por ti mismo.}
-{197}{}{¿Cómo te atreves a volver por aquí? ¡Matadle!}
-{198}{}{¿Cómo te atreves a volver por aquí? ¡Matadla!}
+{197}{}{Â¿CÃ³mo te atreves a volver por aquÃ­? Â¡Matadle!}
+{198}{}{Â¿CÃ³mo te atreves a volver por aquÃ­? Â¡Matadla!}
 {200}{}{He venido a divertirme con vosotros.}
 {201}{}{Bien, entonces trae bebidas y mujeres para nuestra fiestecilla.}
-{203}{}{Lucharé cuerpo a cuerpo por Tandi.}
-{204}{}{No eres un Khan; no mereces ningún honor.}
+{203}{}{LucharÃ© cuerpo a cuerpo por Tandi.}
+{204}{}{No eres un Khan; no mereces ningÃºn honor.}
 {205}{}{No me apetece perder el tiempo contigo. Matadla.}
-{206}{}{No nos gusta ese tipo de gente. No podemos tenerla aquí. Matadla.}
-{207}{}{¡Ahhh!}
-{208}{}{Vale, tú ganas. Llévate a la chica y vete.}
-{209}{}{¡Que la lucha del honor comience!}
+{206}{}{No nos gusta ese tipo de gente. No podemos tenerla aquÃ­. Matadla.}
+{207}{}{Â¡Ahhh!}
+{208}{}{Vale, tÃº ganas. LlÃ©vate a la chica y vete.}
+{209}{}{Â¡Que la lucha del honor comience!}
 {1000}{}{Khans}
 {1001}{}{Garl}
 {1002}{}{Ciudad Vertedero}
@@ -113,21 +113,21 @@
 {1004}{}{Eje}
 {1005}{}{Agua}
 {1006}{}{Tandi}
-{1007}{}{Sombrías}
+{1007}{}{SombrÃ­as}
 {1008}{}{Chip}
 {1009}{}{Raiders}
 {1010}{}{Khan}
 {1011}{}{Saqueo}
 {1012}{}{Saqueador}
 {1100}{}{Somos nosotros, siervo.}
-{1101}{}{Soy el líder de los Khans. Soy el hombre más temido del yermo.}
-{1102}{}{Están al sudoeste. A veces vamos allí para relajarnos tras un duro día de saqueo.}
-{1103}{}{Una comunidad pequeña, miserable y asquerosa. Podría eliminarlos.}
-{1104}{}{Están al Sur. Comerciamos con ellos. Generalmente agua y municiones, pero también armas.}
-{1105}{}{¿Por qué he de preocuparme?}
+{1101}{}{Soy el lÃ­der de los Khans. Soy el hombre mÃ¡s temido del yermo.}
+{1102}{}{EstÃ¡n al sudoeste. A veces vamos allÃ­ para relajarnos tras un duro dÃ­a de saqueo.}
+{1103}{}{Una comunidad pequeÃ±a, miserable y asquerosa. PodrÃ­a eliminarlos.}
+{1104}{}{EstÃ¡n al Sur. Comerciamos con ellos. Generalmente agua y municiones, pero tambiÃ©n armas.}
+{1105}{}{Â¿Por quÃ© he de preocuparme?}
 {1106}{}{No conozco a nadie con ese nombre.}
-{1107}{}{Una comunidad pequeña, miserable y asquerosa. Podría eliminarlos.}
-{1108}{}{¿Un qué?}
+{1107}{}{Una comunidad pequeÃ±a, miserable y asquerosa. PodrÃ­a eliminarlos.}
+{1108}{}{Â¿Un quÃ©?}
 {1109}{}{Somos nosotros, siervo.}
 {1110}{}{Somos nosotros, siervo.}
 {1111}{}{Somos nosotros, siervo.}

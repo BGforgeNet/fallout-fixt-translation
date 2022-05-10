@@ -1,1 +1,1 @@
-{100}{}{Esta puerta lleva a tu habitación. Has vivido en ella toda tu vida hasta hoy. Tus conciudadanos del Refugio te han dicho que dejarán esta habitación vacía en tu honor.}
+{100}{}{Esta puerta lleva a tu habitaciÃ³n. Has vivido en ella toda tu vida hasta hoy. Tus conciudadanos del Refugio te han dicho que dejarÃ¡n esta habitaciÃ³n vacÃ­a en tu honor.}

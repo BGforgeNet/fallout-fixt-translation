@@ -1,1 +1,1 @@
-{100}{}{Tu sens une odeur fétide.}
+{100}{}{Tu sens une odeur fÃ©tide.}

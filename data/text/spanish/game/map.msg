@@ -68,9 +68,9 @@
 {100}{}{Desierto}
 {101}{}{Desierto}
 {102}{}{Desierto}
-{103}{}{Necrópolis}
-{104}{}{Necrópolis}
-{105}{}{Necrópolis}
+{103}{}{NecrÃ³polis}
+{104}{}{NecrÃ³polis}
+{105}{}{NecrÃ³polis}
 {106}{}{Refugio 13}
 {107}{}{Refugio 15}
 {108}{}{Refugio 15}
@@ -81,7 +81,7 @@
 {113}{}{Hermandad del Acero}
 {114}{}{Hermandad del Acero}
 {115}{}{Hermandad del Acero}
-{116}{}{Arenas Sombrías}
+{116}{}{Arenas SombrÃ­as}
 {117}{}{Catedral}
 {118}{}{Catedral}
 {119}{}{Ciudad}
@@ -90,8 +90,8 @@
 {122}{}{Desierto}
 {123}{}{Desierto}
 {124}{}{Los Khans}
-{125}{}{Arenas Sombrías}
-{126}{}{Arenas Sombrías}
+{125}{}{Arenas SombrÃ­as}
+{126}{}{Arenas SombrÃ­as}
 {127}{}{Ardor}
 {128}{}{Cementerio de LA}
 {129}{}{Cementerio de LA}
@@ -114,8 +114,8 @@
 {146}{}{Cementerio de LA}
 {147}{}{Ruinas}
 {148}{}{Base Militar}
-{149}{}{Montañas}
-{150}{}{Montañas}
+{149}{}{MontaÃ±as}
+{150}{}{MontaÃ±as}
 {151}{}{Desierto}
 {152}{}{Desierto}
 {153}{}{Desierto}
@@ -123,13 +123,13 @@
 {155}{}{Hermandad del Acero}
 {156}{}{Desierto}
 {157}{}{Desierto}
-{158}{}{Montañas}
-{159}{}{Montañas}
-{160}{}{Campamento Víbora}
+{158}{}{MontaÃ±as}
+{159}{}{MontaÃ±as}
+{160}{}{Campamento VÃ­bora}
 {161}{}{Desierto}
-{162}{}{Montañas}
+{162}{}{MontaÃ±as}
 {163}{}{Desierto}
-{164}{}{Montañas}
+{164}{}{MontaÃ±as}
 {165}{}{Eje}
 {166}{}{Eje}
 {200}{}{Wasteland}
@@ -145,10 +145,10 @@
 {210}{}{Sala de los Difuntos}
 {211}{}{Alcantarillas bajo Hall}
 {212}{}{Sewers under Hotel}
-{213}{}{Hotel de la perdición}
+{213}{}{Hotel de la perdiciÃ³n}
 {214}{}{Sewers under Hotel}
 {215}{}{Sewers under Watershed}
-{216}{}{El almacén de agua}
+{216}{}{El almacÃ©n de agua}
 {217}{}{Sewers under Watershed}
 {218}{}{Entrance, Medical}
 {219}{}{Aposentos}
@@ -198,9 +198,9 @@
 {263}{}{Shoreline}
 {264}{}{Shoreline}
 {265}{}{Shoreline}
-{266}{}{Camión volcado}
-{267}{}{Camión volcado}
-{268}{}{Camión volcado}
+{266}{}{CamiÃ³n volcado}
+{267}{}{CamiÃ³n volcado}
+{268}{}{CamiÃ³n volcado}
 {269}{}{Nave espacial}
 {270}{}{Nave espacial}
 {271}{}{Nave espacial}
@@ -217,10 +217,10 @@
 {282}{}{Entrada}
 {283}{}{Entrada}
 {284}{}{Adytum}
-{285}{}{Subterráneo}
+{285}{}{SubterrÃ¡neo}
 {286}{}{}
 {287}{}{Biblioteca}
-{288}{}{Subterráneo}
+{288}{}{SubterrÃ¡neo}
 {289}{}{}
 {290}{}{Entrada}
 {291}{}{Entrada}
@@ -267,15 +267,15 @@
 {332}{}{Centro de la ciudad}
 {333}{}{Centro de la ciudad}
 {334}{}{Centro de la ciudad}
-{335}{}{Almacén}
-{336}{}{Subterráneo}
+{335}{}{AlmacÃ©n}
+{336}{}{SubterrÃ¡neo}
 {337}{}{}
 {338}{}{Fortaleza}
 {339}{}{Fortaleza}
 {340}{}{Fortaleza}
-{341}{}{Cráter}
-{342}{}{Cráter}
-{343}{}{Cráter}
+{341}{}{CrÃ¡ter}
+{342}{}{CrÃ¡ter}
+{343}{}{CrÃ¡ter}
 {344}{}{Ruinas}
 {345}{}{Ruinas}
 {346}{}{Ruinas}
@@ -288,9 +288,9 @@
 {353}{}{Huella}
 {354}{}{Huella}
 {355}{}{Huella}
-{356}{}{Cabina de policía}
-{357}{}{Cabina de policía}
-{358}{}{Cabina de policía}
+{356}{}{Cabina de policÃ­a}
+{357}{}{Cabina de policÃ­a}
+{358}{}{Cabina de policÃ­a}
 {359}{}{Vacas parlantes}
 {360}{}{Vacas parlantes}
 {361}{}{Vacas parlantes}
@@ -312,9 +312,9 @@
 {377}{}{Caravan Encounter}
 {378}{}{Caravan Encounter}
 {379}{}{Caravan Encounter}
-{380}{}{Campamento de los Víboras}
-{381}{}{Campamento de los Víboras}
-{382}{}{Campamento de los Víboras}
+{380}{}{Campamento de los VÃ­boras}
+{381}{}{Campamento de los VÃ­boras}
+{382}{}{Campamento de los VÃ­boras}
 {383}{}{Caravan Encounter}
 {384}{}{Caravan Encounter}
 {385}{}{Caravan Encounter}
@@ -335,14 +335,14 @@
 {400}{}{Granja de Irwin}
 {500}{}{Refugio 13}
 {501}{}{Refugio 15}
-{502}{}{Arenas Sombrías}
+{502}{}{Arenas SombrÃ­as}
 {503}{}{Ciudad Vertedero}
 {504}{}{Los Khans}
-{505}{}{Necrópolis}
+{505}{}{NecrÃ³polis}
 {506}{}{Eje}
 {507}{}{Hermandad del Acero}
 {508}{}{Base Militar Mariposa}
 {509}{}{Ardor}
 {510}{}{Cementerio de LA}
-{511}{}{Niños de la Catedral}
-{1000}{}{ERROR: ¡No hay suficiente espacio para guardar el mapa!}
+{511}{}{NiÃ±os de la Catedral}
+{1000}{}{ERROR: Â¡No hay suficiente espacio para guardar el mapa!}

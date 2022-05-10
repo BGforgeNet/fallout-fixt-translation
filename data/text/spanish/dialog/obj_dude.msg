@@ -1,38 +1,38 @@
 {970}{}{Ese es mi nombre.}
-{971}{}{Est·s hablando conmigo.}
-{972}{}{øPor quÈ haces preguntas est˙pidas? Yo soy esa persona.}
-{973}{}{SÌ, asÌ me llamo.}
-{974}{}{Soy yo. øAlgo m·s?}
-{975}{}{øEsto quÈ es, una entrevista?}
+{971}{}{Est√°s hablando conmigo.}
+{972}{}{¬øPor qu√© haces preguntas est√∫pidas? Yo soy esa persona.}
+{973}{}{S√≠, as√≠ me llamo.}
+{974}{}{Soy yo. ¬øAlgo m√°s?}
+{975}{}{¬øEsto qu√© es, una entrevista?}
 {976}{}{La verdad es que no tengo tiempo para contarte mi vida.}
 {977}{}{Ese es si nombre. No me lo gastes.}
-{978}{}{No me gusta hablar de mÌ. Cambiemos de tema.}
+{978}{}{No me gusta hablar de m√≠. Cambiemos de tema.}
 {979}{}{No soy un libro abierto; hablemos de otra cosa.}
-{980}{}{No sÈ nada de eso.}
+{980}{}{No s√© nada de eso.}
 {981}{}{Lo siento. Ni idea.}
 {982}{}{Nunca he oido hablar de ello.}
-{983}{}{øQuÈ es eso?}
-{984}{}{øDe quÈ est·s hablando?}
-{985}{}{øEs un chiste? No tengo ni idea de que est·s hablando.}
+{983}{}{¬øQu√© es eso?}
+{984}{}{¬øDe qu√© est√°s hablando?}
+{985}{}{¬øEs un chiste? No tengo ni idea de que est√°s hablando.}
 {986}{}{No me suena.}
 {987}{}{Nop, no me suena familiar.}
-{988}{}{No tengo ni idea de que est·s hablando.}
-{989}{}{øEso existe?}
-{990}{}{No sÈ de quÈ est·s hablando.}
-{991}{}{Me gustarÌa poder ayudarte, pero no sÈ quÈ es eso.}
-{992}{}{Lo siento; no sÈ quÈ es eso.}
-{993}{}{øDe quÈ hablas?}
-{994}{}{øEst·s seguro de que no te lo acabas de inventar?}
-{995}{}{No, no sÈ nada sobre eso.}
-{996}{}{Lo siento, nunca lo habÌa oÌdo.}
-{997}{}{No estoy seguro, quiz·s deberÌas preguntar a otra persona.}
-{998}{}{No sÈ, pero puede que otra persona pueda ayudarte, pregunta por aquÌ.}
-{999}{}{øPor quÈ piensas que yo sabrÌa nada acerca de eso?}
+{988}{}{No tengo ni idea de que est√°s hablando.}
+{989}{}{¬øEso existe?}
+{990}{}{No s√© de qu√© est√°s hablando.}
+{991}{}{Me gustar√≠a poder ayudarte, pero no s√© qu√© es eso.}
+{992}{}{Lo siento; no s√© qu√© es eso.}
+{993}{}{¬øDe qu√© hablas?}
+{994}{}{¬øEst√°s seguro de que no te lo acabas de inventar?}
+{995}{}{No, no s√© nada sobre eso.}
+{996}{}{Lo siento, nunca lo hab√≠a o√≠do.}
+{997}{}{No estoy seguro, quiz√°s deber√≠as preguntar a otra persona.}
+{998}{}{No s√©, pero puede que otra persona pueda ayudarte, pregunta por aqu√≠.}
+{999}{}{¬øPor qu√© piensas que yo sabr√≠a nada acerca de eso?}
 {2800}{}{Maestro}
 {2801}{}{Chip de Agua}
-{2802}{}{NecrÛpolis}
+{2802}{}{Necr√≥polis}
 {2803}{}{Set}
-{2804}{}{AlmacÈn de Agua}
+{2804}{}{Almac√©n de Agua}
 {2805}{}{Sala}
 {2806}{}{}
 {2807}{}{}
@@ -128,17 +128,17 @@
 {2897}{}{}
 {2898}{}{}
 {2899}{}{}
-{2900}{}{øNo es ese un tipo bastante importante?}
-{2901}{}{No lo sÈ, pero en el almacÈn de agua podrÌa haber uno.}
-{2902}{}{Est·s en ella. O por lo menos es lo que queda. Este lugar se est· muriendo poco a poco.}
+{2900}{}{¬øNo es ese un tipo bastante importante?}
+{2901}{}{No lo s√©, pero en el almac√©n de agua podr√≠a haber uno.}
+{2902}{}{Est√°s en ella. O por lo menos es lo que queda. Este lugar se est√° muriendo poco a poco.}
 {2903}{}{Oh, me cae bien. Puedes encontrarlo en la Sala.}
-{2904}{}{Est· al norte. Ten cuidado con los guardias. Se toman su trabajo muy en serio.}
-{2905}{}{La Sala de los Difuntos. AllÌ hace Set sus trabajos. Queda justo en el centro de NecrÛpolis.}
+{2904}{}{Est√° al norte. Ten cuidado con los guardias. Se toman su trabajo muy en serio.}
+{2905}{}{La Sala de los Difuntos. All√≠ hace Set sus trabajos. Queda justo en el centro de Necr√≥polis.}
 {3400}{}{Maestro}
 {3401}{}{Chip de Agua}
-{3402}{}{NecrÛpolis}
+{3402}{}{Necr√≥polis}
 {3403}{}{Set}
-{3404}{}{AlmacÈn de Agua}
+{3404}{}{Almac√©n de Agua}
 {3405}{}{Sala}
 {3406}{}{}
 {3407}{}{}
@@ -234,17 +234,17 @@
 {3497}{}{}
 {3498}{}{}
 {3499}{}{}
-{3500}{}{øNo es ese un tipo bastante importante?}
-{3501}{}{No lo sÈ, pero en el almacÈn de agua podrÌa haber uno.}
-{3502}{}{Est·s en ella. O por lo menos es lo que queda. Este lugar se est· muriendo poco a poco.}
+{3500}{}{¬øNo es ese un tipo bastante importante?}
+{3501}{}{No lo s√©, pero en el almac√©n de agua podr√≠a haber uno.}
+{3502}{}{Est√°s en ella. O por lo menos es lo que queda. Este lugar se est√° muriendo poco a poco.}
 {3503}{}{Oh, me cae bien. Puedes encontrarlo en la Sala.}
-{3504}{}{Est· al norte. Ten cuidado con los guardias. Se toman su trabajo muy en serio.}
-{3505}{}{La Sala de los Difuntos. AllÌ hace Set sus trabajos. Queda justo en el centro de NecrÛpolis.}
+{3504}{}{Est√° al norte. Ten cuidado con los guardias. Se toman su trabajo muy en serio.}
+{3505}{}{La Sala de los Difuntos. All√≠ hace Set sus trabajos. Queda justo en el centro de Necr√≥polis.}
 {4000}{}{Maestro}
 {4001}{}{Chip de Agua}
-{4002}{}{NecrÛpolis}
+{4002}{}{Necr√≥polis}
 {4003}{}{Set}
-{4004}{}{AlmacÈn de Agua}
+{4004}{}{Almac√©n de Agua}
 {4005}{}{Sala}
 {4006}{}{}
 {4007}{}{}
@@ -340,12 +340,12 @@
 {4097}{}{}
 {4098}{}{}
 {4099}{}{}
-{4100}{}{øNo es ese un tipo bastante importante?}
-{4101}{}{No lo sÈ, pero en el almacÈn de agua podrÌa haber uno.}
-{4102}{}{Est·s en ella. O por lo menos es lo que queda. Este lugar se est· muriendo poco a poco.}
+{4100}{}{¬øNo es ese un tipo bastante importante?}
+{4101}{}{No lo s√©, pero en el almac√©n de agua podr√≠a haber uno.}
+{4102}{}{Est√°s en ella. O por lo menos es lo que queda. Este lugar se est√° muriendo poco a poco.}
 {4103}{}{Oh, me cae bien. Puedes encontrarlo en la Sala.}
 {4104}{}{ Ten cuidado con los guardias. Se toman su trabajo muy en serio.}
-{4105}{}{La Sala de los Difuntos. AllÌ hace Set sus trabajos. Queda justo en el centro de NecrÛpolis.}
+{4105}{}{La Sala de los Difuntos. All√≠ hace Set sus trabajos. Queda justo en el centro de Necr√≥polis.}
 {4600}{}{Refugio}
 {4601}{}{Agua}
 {4602}{}{Supervisor}
@@ -353,8 +353,8 @@
 {4604}{}{Chip de Agua}
 {4605}{}{Refugio 13}
 {4606}{}{Refugio 13}
-{4607}{}{MÈdico}
-{4608}{}{CuraciÛn}
+{4607}{}{M√©dico}
+{4608}{}{Curaci√≥n}
 {4609}{}{Biblioteca}
 {4610}{}{}
 {4611}{}{}
@@ -446,24 +446,24 @@
 {4697}{}{}
 {4698}{}{}
 {4699}{}{}
-{4700}{}{Es donde vivimos. DeberÌas entenderlo.}
-{4701}{}{El chip controla el nivel de pureza del suministro de agua subterr·nea. Es una pieza muy importante que no podemos reparar.}
-{4702}{}{Un buen hombre que hace un trabajo difÌcil.}
-{4703}{}{El chip controla el nivel de pureza del suministro de agua subterr·nea. Es una pieza muy importante que no podemos reparar.}
-{4704}{}{El chip controla el nivel de pureza del suministro de agua subterr·nea. Es una pieza muy importante que no podemos reparar.}
-{4705}{}{Es donde vivimos. DeberÌas entenderlo.}
-{4706}{}{Es donde vivimos. DeberÌas entenderlo.}
-{4707}{}{El mÈdico est· en la primera planta, en el laboratorio mÈdico. Vete allÌ si est·s herido.}
-{4708}{}{El mÈdico est· en la primera planta, en el laboratorio mÈdico. Vete allÌ si est·s herido.}
-{4709}{}{La biblioteca est· en el ala oeste de la tercera planta. AllÌ est·n los ordenadores de consulta.}
+{4700}{}{Es donde vivimos. Deber√≠as entenderlo.}
+{4701}{}{El chip controla el nivel de pureza del suministro de agua subterr√°nea. Es una pieza muy importante que no podemos reparar.}
+{4702}{}{Un buen hombre que hace un trabajo dif√≠cil.}
+{4703}{}{El chip controla el nivel de pureza del suministro de agua subterr√°nea. Es una pieza muy importante que no podemos reparar.}
+{4704}{}{El chip controla el nivel de pureza del suministro de agua subterr√°nea. Es una pieza muy importante que no podemos reparar.}
+{4705}{}{Es donde vivimos. Deber√≠as entenderlo.}
+{4706}{}{Es donde vivimos. Deber√≠as entenderlo.}
+{4707}{}{El m√©dico est√° en la primera planta, en el laboratorio m√©dico. Vete all√≠ si est√°s herido.}
+{4708}{}{El m√©dico est√° en la primera planta, en el laboratorio m√©dico. Vete all√≠ si est√°s herido.}
+{4709}{}{La biblioteca est√° en el ala oeste de la tercera planta. All√≠ est√°n los ordenadores de consulta.}
 {7000}{}{Killian}
 {7001}{}{Gizmo}
 {7002}{}{Ciudad Vertedero}
-{7003}{}{Arenas SombrÌas}
+{7003}{}{Arenas Sombr√≠as}
 {7004}{}{Eje}
 {7005}{}{Chip de Agua}
 {7006}{}{Casino}
-{7007}{}{AlmacÈn}
+{7007}{}{Almac√©n}
 {7008}{}{Garra Mortal}
 {7009}{}{}
 {7010}{}{}
@@ -557,22 +557,22 @@
 {7098}{}{}
 {7099}{}{}
 {7100}{}{Killian es el alcalde. Lleva un establecimiento.}
-{7101}{}{Gizmo lleva un Casino. No est· mal.}
+{7101}{}{Gizmo lleva un Casino. No est√° mal.}
 {7102}{}{Esto es Ciudad Vertedero.}
-{7103}{}{Mmm, creo que es un sitio bastante pequeÒo. Nunca he estado allÌ.}
-{7104}{}{Es una gran ciudad que est· al sur de aquÌ.}
-{7105}{}{øQuÈ? Lo siento.}
+{7103}{}{Mmm, creo que es un sitio bastante peque√±o. Nunca he estado all√≠.}
+{7104}{}{Es una gran ciudad que est√° al sur de aqu√≠.}
+{7105}{}{¬øQu√©? Lo siento.}
 {7106}{}{Es un edificio grande al noroeste de la ciudad.}
-{7107}{}{øEl establecimiento de Killian? Est· en el centro de la ciudad.}
-{7108}{}{No sÈ, pero solo el nombre me pone los pelos de punta.}
+{7107}{}{¬øEl establecimiento de Killian? Est√° en el centro de la ciudad.}
+{7108}{}{No s√©, pero solo el nombre me pone los pelos de punta.}
 {7600}{}{Killian}
 {7601}{}{Gizmo}
 {7602}{}{Ciudad Vertedero}
-{7603}{}{Arenas SombrÌas}
+{7603}{}{Arenas Sombr√≠as}
 {7604}{}{Eje}
 {7605}{}{Chip de Agua}
 {7606}{}{Casino}
-{7607}{}{AlmacÈn}
+{7607}{}{Almac√©n}
 {7608}{}{Garra Mortal}
 {7609}{}{}
 {7610}{}{}
@@ -665,23 +665,23 @@
 {7697}{}{}
 {7698}{}{}
 {7699}{}{}
-{7700}{}{Killian es el alcalde. OcupÛ ese puesto al morir su padre.}
+{7700}{}{Killian es el alcalde. Ocup√≥ ese puesto al morir su padre.}
 {7701}{}{Gizmo es un hombre importante en Ciudad Vertedero. Lleva el Casino, y el ring de boxeo. Gana muchas chapas y compra muchas cosas en el Eje.}
 {7702}{}{Esto es Ciudad Vertedero.}
-{7703}{}{Pues es una pequeÒa comunidad que est· al norte. La mayor parte de los que viven allÌ son granjeros. A veces comerciamos con ellos, pero generalmente lo que quieren es que los dejemos en paz.}
-{7704}{}{El Eje es el centro de todo el comercio de por aquÌ. Casi todos los comerciantes vienen del Eje. En algunas compaÒÌas todavÌa se fabrican cosas. Si quieres, puedes volver al Eje con alguno de sus grupos de comercio.}
-{7705}{}{No sÈ nada de eso.}
-{7706}{}{Gizmo lo lleva. Cuidado con las m·quinas tragaperras, puedes perder muchas chapas si juegas.}
-{7707}{}{øLa de Darkwater? Est· en el centro de la ciudad. Puedes pagar con chapas o intercambiar cosas.}
-{7708}{}{He oÌdo a la gente hablar de ella pero nunca la he visto. Dicen que vaga por el desierto y ataca principalmente por la noche.}
+{7703}{}{Pues es una peque√±a comunidad que est√° al norte. La mayor parte de los que viven all√≠ son granjeros. A veces comerciamos con ellos, pero generalmente lo que quieren es que los dejemos en paz.}
+{7704}{}{El Eje es el centro de todo el comercio de por aqu√≠. Casi todos los comerciantes vienen del Eje. En algunas compa√±√≠as todav√≠a se fabrican cosas. Si quieres, puedes volver al Eje con alguno de sus grupos de comercio.}
+{7705}{}{No s√© nada de eso.}
+{7706}{}{Gizmo lo lleva. Cuidado con las m√°quinas tragaperras, puedes perder muchas chapas si juegas.}
+{7707}{}{¬øLa de Darkwater? Est√° en el centro de la ciudad. Puedes pagar con chapas o intercambiar cosas.}
+{7708}{}{He o√≠do a la gente hablar de ella pero nunca la he visto. Dicen que vaga por el desierto y ataca principalmente por la noche.}
 {8200}{}{Killian}
 {8201}{}{Gizmo}
 {8202}{}{Ciudad Vertedero}
-{8203}{}{Arenas SombrÌas}
+{8203}{}{Arenas Sombr√≠as}
 {8204}{}{Eje}
 {8205}{}{Chip de Agua}
 {8206}{}{Casino}
-{8207}{}{AlmacÈn}
+{8207}{}{Almac√©n}
 {8208}{}{Garra Mortal}
 {8209}{}{}
 {8210}{}{}
@@ -774,24 +774,24 @@
 {8297}{}{}
 {8298}{}{}
 {8299}{}{}
-{8300}{}{Killian es el alcalde. OcupÛ ese puesto al morir su padre.}
+{8300}{}{Killian es el alcalde. Ocup√≥ ese puesto al morir su padre.}
 {8301}{}{Gizmo es un hombre importante en Ciudad Vertedero. Lleva el Casino, y el ring de boxeo. Gana muchas chapas y compra muchas cosas en el Eje.}
 {8302}{}{Esto es Ciudad Vertedero.}
-{8303}{}{Pues es una pequeÒa comunidad que est· al norte. La mayor parte de los que viven allÌ son granjeros. A veces comerciamos con ellos, pero generalmente lo que quieren es que los dejemos en paz.}
-{8304}{}{El Eje es el centro de todo el comercio de por aquÌ. Casi todos los comerciantes vienen del Eje. En algunas compaÒÌas todavÌa se fabrican cosas. Si quieres, puedes volver al Eje con alguno de sus grupos de comercio.}
-{8305}{}{No sÈ nada de eso.}
-{8306}{}{Gizmo lo lleva. Cuidado con las m·quinas tragaperras, puedes perder muchas chapas si juegas.}
-{8307}{}{øLa de Darkwater? Est· en el centro de la ciudad. Puedes pagar con chapas o intercambiar cosas.}
-{8308}{}{He oÌdo a la gente hablar de ella pero nunca la he visto. Dicen que vaga por el desierto y ataca principalmente por la noche.}
+{8303}{}{Pues es una peque√±a comunidad que est√° al norte. La mayor parte de los que viven all√≠ son granjeros. A veces comerciamos con ellos, pero generalmente lo que quieren es que los dejemos en paz.}
+{8304}{}{El Eje es el centro de todo el comercio de por aqu√≠. Casi todos los comerciantes vienen del Eje. En algunas compa√±√≠as todav√≠a se fabrican cosas. Si quieres, puedes volver al Eje con alguno de sus grupos de comercio.}
+{8305}{}{No s√© nada de eso.}
+{8306}{}{Gizmo lo lleva. Cuidado con las m√°quinas tragaperras, puedes perder muchas chapas si juegas.}
+{8307}{}{¬øLa de Darkwater? Est√° en el centro de la ciudad. Puedes pagar con chapas o intercambiar cosas.}
+{8308}{}{He o√≠do a la gente hablar de ella pero nunca la he visto. Dicen que vaga por el desierto y ataca principalmente por la noche.}
 {8800}{}{Maestro}
 {8801}{}{Guerra}
-{8802}{}{…xodo}
-{8803}{}{ExtraÒo EjÈrcito}
+{8802}{}{√âxodo}
+{8803}{}{Extra√±o Ej√©rcito}
 {8804}{}{Hermandad}
 {8805}{}{Mercaderes}
 {8806}{}{Caravanas desaparecidas}
 {8807}{}{Eje}
-{8808}{}{NiÒos de la Catedral}
+{8808}{}{Ni√±os de la Catedral}
 {8809}{}{Iniciados}
 {8810}{}{Escribas}
 {8811}{}{Caballeros}
@@ -883,29 +883,29 @@
 {8897}{}{}
 {8898}{}{}
 {8899}{}{}
-{8900}{}{No tengo ni idea de lo que est·s hablando.}
-{8901}{}{Un punto negro en la historia de la humanidad que dio lugar a nuestro mundo actual. Recordamos lo que ocurriÛ en la Guerra para evitar otro holocausto.}
-{8902}{}{Una decisiÛn difÌcil y triste. Perdimos a mucha gente que decidiÛ irse por su cuenta en vez de viajar con el gran grupo en busca de un lugar seguro en el que vivir.}
-{8903}{}{No sÈ mucho sobre eso. Por lo que he oÌdo se est·n reuniendo en alg˙n lugar al norte de aquÌ.}
+{8900}{}{No tengo ni idea de lo que est√°s hablando.}
+{8901}{}{Un punto negro en la historia de la humanidad que dio lugar a nuestro mundo actual. Recordamos lo que ocurri√≥ en la Guerra para evitar otro holocausto.}
+{8902}{}{Una decisi√≥n dif√≠cil y triste. Perdimos a mucha gente que decidi√≥ irse por su cuenta en vez de viajar con el gran grupo en busca de un lugar seguro en el que vivir.}
+{8903}{}{No s√© mucho sobre eso. Por lo que he o√≠do se est√°n reuniendo en alg√∫n lugar al norte de aqu√≠.}
 {8904}{}{Es donde estamos.}
-{8905}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los dem·s grupos no tengo formada una opiniÛn.}
-{8906}{}{No sÈ nada de eso.}
-{8907}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compaÒÌas m·s civilizadas intercambien productos con nosotros.}
+{8905}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los dem√°s grupos no tengo formada una opini√≥n.}
+{8906}{}{No s√© nada de eso.}
+{8907}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compa√±√≠as m√°s civilizadas intercambien productos con nosotros.}
 {8908}{}{Son un culto.}
 {8909}{}{Son el futuro de la Hermandad.}
 {8910}{}{Son los guardianes el conocimiento.}
 {8911}{}{Son los que hacen las armas para la Hermandad.}
 {8912}{}{Son los protectores de la Hermandad.}
-{8913}{}{No tengo ni idea de lo que est·s hablando.}
+{8913}{}{No tengo ni idea de lo que est√°s hablando.}
 {9400}{}{Maestro}
 {9401}{}{Guerra}
-{9402}{}{…xodo}
-{9403}{}{ExtraÒo EjÈrcito}
+{9402}{}{√âxodo}
+{9403}{}{Extra√±o Ej√©rcito}
 {9404}{}{Hermandad}
 {9405}{}{Mercaderes}
 {9406}{}{Caravanas desaparecidas}
 {9407}{}{Eje}
-{9408}{}{NiÒos de la Catedral}
+{9408}{}{Ni√±os de la Catedral}
 {9409}{}{Iniciados}
 {9410}{}{Escribas}
 {9411}{}{Caballeros}
@@ -997,29 +997,29 @@
 {9497}{}{}
 {9498}{}{}
 {9499}{}{}
-{9500}{}{No tengo ni idea de lo que est·s hablando.}
-{9501}{}{Un punto negro en la historia de la humanidad que dio lugar a nuestro mundo actual. Recordamos lo que ocurriÛ en la Guerra para evitar otro holocausto.}
-{9502}{}{Una decisiÛn difÌcil y triste. Perdimos a mucha gente que decidiÛ irse por su cuenta en vez de viajar con el gran grupo en busca de un lugar seguro en el que vivir.}
-{9503}{}{No sÈ mucho sobre eso. Por lo que he oÌdo se est·n reuniendo en alg˙n lugar al norte de aquÌ.}
+{9500}{}{No tengo ni idea de lo que est√°s hablando.}
+{9501}{}{Un punto negro en la historia de la humanidad que dio lugar a nuestro mundo actual. Recordamos lo que ocurri√≥ en la Guerra para evitar otro holocausto.}
+{9502}{}{Una decisi√≥n dif√≠cil y triste. Perdimos a mucha gente que decidi√≥ irse por su cuenta en vez de viajar con el gran grupo en busca de un lugar seguro en el que vivir.}
+{9503}{}{No s√© mucho sobre eso. Por lo que he o√≠do se est√°n reuniendo en alg√∫n lugar al norte de aqu√≠.}
 {9504}{}{Es donde estamos.}
-{9505}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los dem·s grupos no tengo formada una opiniÛn.}
-{9506}{}{No sÈ nada de eso.}
-{9507}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compaÒÌas m·s civilizadas intercambien productos con nosotros.}
+{9505}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los dem√°s grupos no tengo formada una opini√≥n.}
+{9506}{}{No s√© nada de eso.}
+{9507}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compa√±√≠as m√°s civilizadas intercambien productos con nosotros.}
 {9508}{}{Son un culto.}
 {9509}{}{Son el futuro de la Hermandad.}
 {9510}{}{Son los guardianes el conocimiento.}
 {9511}{}{Son los que hacen las armas para la Hermandad.}
 {9512}{}{Son los protectores de la Hermandad.}
-{9513}{}{No tengo ni idea de lo que est·s hablando.}
+{9513}{}{No tengo ni idea de lo que est√°s hablando.}
 {10000}{}{Maestro}
 {10001}{}{Guerra}
-{10002}{}{…xodo}
-{10003}{}{ExtraÒo EjÈrcito}
+{10002}{}{√âxodo}
+{10003}{}{Extra√±o Ej√©rcito}
 {10004}{}{Hermandad}
 {10005}{}{Mercaderes}
 {10006}{}{Caravanas desaparecidas}
 {10007}{}{Eje}
-{10008}{}{NiÒos de la Catedral}
+{10008}{}{Ni√±os de la Catedral}
 {10009}{}{Iniciados}
 {10010}{}{Escribas}
 {10011}{}{Caballeros}
@@ -1111,23 +1111,23 @@
 {10097}{}{}
 {10098}{}{}
 {10099}{}{}
-{10100}{}{No tengo ni idea de lo que est·s hablando.}
-{10101}{}{Un punto negro en la historia de la humanidad que dio lugar a nuestro mundo actual. Recordamos lo que ocurriÛ en la Guerra para evitar otro holocausto.}
-{10102}{}{Una decisiÛn difÌcil y triste. Perdimos a mucha gente que decidiÛ irse por su cuenta en vez de viajar con el gran grupo en busca de un lugar seguro en el que vivir.}
-{10103}{}{No sÈ mucho sobre eso. Por lo que he oÌdo se est·n reuniendo en alg˙n lugar al norte de aquÌ.}
+{10100}{}{No tengo ni idea de lo que est√°s hablando.}
+{10101}{}{Un punto negro en la historia de la humanidad que dio lugar a nuestro mundo actual. Recordamos lo que ocurri√≥ en la Guerra para evitar otro holocausto.}
+{10102}{}{Una decisi√≥n dif√≠cil y triste. Perdimos a mucha gente que decidi√≥ irse por su cuenta en vez de viajar con el gran grupo en busca de un lugar seguro en el que vivir.}
+{10103}{}{No s√© mucho sobre eso. Por lo que he o√≠do se est√°n reuniendo en alg√∫n lugar al norte de aqu√≠.}
 {10104}{}{Es donde estamos.}
-{10105}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los dem·s grupos no tengo formada una opiniÛn.}
-{10106}{}{No sÈ nada de eso.}
-{10107}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compaÒÌas m·s civilizadas intercambien productos con nosotros.}
+{10105}{}{Esos Mercaderes de Agua son unos ladrones bastardos, pero de los dem√°s grupos no tengo formada una opini√≥n.}
+{10106}{}{No s√© nada de eso.}
+{10107}{}{Un infierno de lodo para esos viles mercaderes. Aunque de vez en cuando dejamos que alguna de las compa√±√≠as m√°s civilizadas intercambien productos con nosotros.}
 {10108}{}{Son un culto.}
 {10109}{}{Son el futuro de la Hermandad.}
 {10110}{}{Son los guardianes el conocimiento.}
 {10111}{}{Son los que hacen las armas para la Hermandad.}
 {10112}{}{Son los protectores de la Hermandad.}
-{10113}{}{No tengo ni idea de lo que est·s hablando.}
+{10113}{}{No tengo ni idea de lo que est√°s hablando.}
 {11200}{}{Llama Sagrada}
 {11201}{}{Unidad}
-{11202}{}{NiÒos de la Catedral}
+{11202}{}{Ni√±os de la Catedral}
 {11203}{}{Morfeo}
 {11204}{}{Mutantes}
 {11205}{}{Maestro}
@@ -1225,19 +1225,19 @@
 {11297}{}{}
 {11298}{}{}
 {11299}{}{}
-{11300}{}{La Llama Sagrada es la que nos guiar· hacia un nuevo mundo en el que no habr· odio ni guerras.}
+{11300}{}{La Llama Sagrada es la que nos guiar√° hacia un nuevo mundo en el que no habr√° odio ni guerras.}
 {11301}{}{Todos formamos parte de la Unidad. Es el amor y la paz que ofrecemos a nuestra amada gente... tanto a humanos como a mutantes.}
 {11302}{}{Esos somos nosotros.}
-{11303}{}{Morfeo es el Sumo Sacerdote de los NiÒos. Normalmente cuando no est· en sus habitaciones, nos da un sermÛn.}
-{11304}{}{Sufrieron una mutaciÛn durante el holocausto nuclear Pero a˙n son buena gente.}
-{11305}{}{Todos tenemos maestros, øno?}
+{11303}{}{Morfeo es el Sumo Sacerdote de los Ni√±os. Normalmente cuando no est√° en sus habitaciones, nos da un serm√≥n.}
+{11304}{}{Sufrieron una mutaci√≥n durante el holocausto nuclear Pero a√∫n son buena gente.}
+{11305}{}{Todos tenemos maestros, ¬øno?}
 {11306}{}{Intentan acabar con la paz que el Maestro intenta lograr.}
-{11307}{}{Lo siento, nunca he oÌdo hablar de eso.}
-{11308}{}{Lo siento, no sÈ de quÈ est·s hablando.}
+{11307}{}{Lo siento, nunca he o√≠do hablar de eso.}
+{11308}{}{Lo siento, no s√© de qu√© est√°s hablando.}
 {11309}{}{No tengo ni idea de lo que me dices.}
 {11800}{}{Llama Sagrada}
 {11801}{}{Unidad}
-{11802}{}{NiÒos de la Catedral}
+{11802}{}{Ni√±os de la Catedral}
 {11803}{}{Morfeo}
 {11804}{}{Mutantes}
 {11805}{}{Maestro}
@@ -1335,20 +1335,20 @@
 {11897}{}{}
 {11898}{}{}
 {11899}{}{}
-{11900}{}{La Llama Sagrada es la que nos guiar· hacia un nuevo mundo en el que no habr· odio ni guerras.}
+{11900}{}{La Llama Sagrada es la que nos guiar√° hacia un nuevo mundo en el que no habr√° odio ni guerras.}
 {11901}{}{Todos formamos parte de la Unidad. Es el amor y la paz que ofrecemos a nuestra amada gente... tanto a humanos como a mutantes.}
 {11902}{}{Esos somos nosotros.}
-{11903}{}{Morfeo es el Sumo Sacerdote de los NiÒos. Normalmente cuando no est· en sus habitaciones, nos da un sermÛn.}
-{11904}{}{Sufrieron una mutaciÛn durante el holocausto nuclear Pero a˙n son buena gente.}
-{11905}{}{Todos tenemos maestros, øno?}
+{11903}{}{Morfeo es el Sumo Sacerdote de los Ni√±os. Normalmente cuando no est√° en sus habitaciones, nos da un serm√≥n.}
+{11904}{}{Sufrieron una mutaci√≥n durante el holocausto nuclear Pero a√∫n son buena gente.}
+{11905}{}{Todos tenemos maestros, ¬øno?}
 {11906}{}{Intentan acabar con la paz que el Maestro intenta lograr.}
-{11907}{}{Lo siento, nunca he oÌdo hablar de eso.}
-{11908}{}{Lo siento, no sÈ de quÈ est·s hablando.}
+{11907}{}{Lo siento, nunca he o√≠do hablar de eso.}
+{11908}{}{Lo siento, no s√© de qu√© est√°s hablando.}
 {11909}{}{No tengo ni idea de lo que me dices.}
 {15400}{}{Khans}
 {15401}{}{Garl}
 {15402}{}{Ciudad Vertedero}
-{15403}{}{Arenas SombrÌas}
+{15403}{}{Arenas Sombr√≠as}
 {15404}{}{Eje}
 {15405}{}{Chip de Agua}
 {15406}{}{Tandi}
@@ -1360,7 +1360,7 @@
 {15412}{}{Bebidas}
 {15413}{}{Drogas}
 {15414}{}{Arenas}
-{15415}{}{SombrÌas}
+{15415}{}{Sombr√≠as}
 {15416}{}{Raiders}
 {15417}{}{Saqueador}
 {15418}{}{Khan}
@@ -1446,29 +1446,29 @@
 {15498}{}{}
 {15499}{}{}
 {15500}{}{Somos nosotros, siervo.}
-{15501}{}{Es el lÌder de los Khans. Es el hombre m·s temido del yermo. No juegues con Èl si te gusta estar vivo.}
-{15502}{}{Es una ciudad de tamaÒo medio que est· al sudoeste. A veces vamos allÌ para relajarnos tras un duro dÌa de saqueo.}
-{15503}{}{El porquÈ de no aplastarles completamente me supera.}
-{15504}{}{Est·n al sur y ligeramente al oeste. Comerciamos con ellos, principalmente agua y municiones, pero a veces tambiÈn tienen buenas armas.}
-{15505}{}{øDe quÈ coÒo me hablas? øPor quÈ iba a importarme?}
-{15506}{}{Garl dice que tenÌa los ojos puestos en ella por un tiempo. Nunca he oÌdo hablar de ella.}
+{15501}{}{Es el l√≠der de los Khans. Es el hombre m√°s temido del yermo. No juegues con √©l si te gusta estar vivo.}
+{15502}{}{Es una ciudad de tama√±o medio que est√° al sudoeste. A veces vamos all√≠ para relajarnos tras un duro d√≠a de saqueo.}
+{15503}{}{El porqu√© de no aplastarles completamente me supera.}
+{15504}{}{Est√°n al sur y ligeramente al oeste. Comerciamos con ellos, principalmente agua y municiones, pero a veces tambi√©n tienen buenas armas.}
+{15505}{}{¬øDe qu√© co√±o me hablas? ¬øPor qu√© iba a importarme?}
+{15506}{}{Garl dice que ten√≠a los ojos puestos en ella por un tiempo. Nunca he o√≠do hablar de ella.}
 {15507}{}{Es una consejera. Ella planea los ataques.}
 {15508}{}{Es la armera. Repara nuestros equipos.}
 {15509}{}{Es la segunda al mando.}
 {15510}{}{Se encarga de conseguir provisiones de generosos donantes.}
-{15511}{}{Es el cocinero de aquÌ, pero parece que ˙ltimamente solo tenemos ratas e iguanas...}
-{15512}{}{øTienes alguna?}
-{15513}{}{øTienes alguna?}
-{15514}{}{El porquÈ de no aplastarles completamente me supera.}
-{15515}{}{El porquÈ de no aplastarles completamente me supera.}
+{15511}{}{Es el cocinero de aqu√≠, pero parece que √∫ltimamente solo tenemos ratas e iguanas...}
+{15512}{}{¬øTienes alguna?}
+{15513}{}{¬øTienes alguna?}
+{15514}{}{El porqu√© de no aplastarles completamente me supera.}
+{15515}{}{El porqu√© de no aplastarles completamente me supera.}
 {15516}{}{Somos nosotros, siervo.}
 {15517}{}{Somos nosotros, siervo.}
 {15518}{}{Somos nosotros, siervo.}
-{15519}{}{Est·n al sur y ligeramente al oeste. Comerciamos con ellos, principalmente agua y municiones, pero a veces tambiÈn tienen buenas armas.}
+{15519}{}{Est√°n al sur y ligeramente al oeste. Comerciamos con ellos, principalmente agua y municiones, pero a veces tambi√©n tienen buenas armas.}
 {16000}{}{Khans}
 {16001}{}{Garl}
 {16002}{}{Ciudad Vertedero}
-{16003}{}{Arenas SombrÌas}
+{16003}{}{Arenas Sombr√≠as}
 {16004}{}{Eje}
 {16005}{}{Chip de Agua}
 {16006}{}{Tandi}
@@ -1566,19 +1566,19 @@
 {16098}{}{}
 {16099}{}{}
 {16100}{}{Son un grupo sin ley que finge ser gente del pasado lejano.}
-{16101}{}{Es el lÌder de los Khans. Es uno de los hombres m·s peligrosos que nunca se ha visto en Arenas SombrÌas. Lidera los clanes de saqueadores con dureza.}
-{16102}{}{Est· a cuatro o seis dÌas hacia el sudoeste. A veces hay buenas mercancÌas pero lo m·s normal es que intenten dejarnos tiesos.}
-{16103}{}{Est·s aquÌ mismo.}
-{16104}{}{Bastante m·s al sur que Ciudad Vertedero, pero no tan al oeste. El Eje es la mayor ciudad que conozca. Debe haber allÌ por lo menos mil personas.}
+{16101}{}{Es el l√≠der de los Khans. Es uno de los hombres m√°s peligrosos que nunca se ha visto en Arenas Sombr√≠as. Lidera los clanes de saqueadores con dureza.}
+{16102}{}{Est√° a cuatro o seis d√≠as hacia el sudoeste. A veces hay buenas mercanc√≠as pero lo m√°s normal es que intenten dejarnos tiesos.}
+{16103}{}{Est√°s aqu√≠ mismo.}
+{16104}{}{Bastante m√°s al sur que Ciudad Vertedero, pero no tan al oeste. El Eje es la mayor ciudad que conozca. Debe haber all√≠ por lo menos mil personas.}
 {16105}{}{Lo siento, no puedo ayudarte.}
-{16106}{}{Es la hija de Aradesh. Alg˙n dÌa podrÌa ser nuestra lÌder, pero debe aprender a mejorar sus modales.}
-{16107}{}{Es el lÌder de nuestra comunidad y un verdadero hÈroe. Lo encontrar·s en el Ayuntamiento. Siempre est· trabajando.}
+{16106}{}{Es la hija de Aradesh. Alg√∫n d√≠a podr√≠a ser nuestra l√≠der, pero debe aprender a mejorar sus modales.}
+{16107}{}{Es el l√≠der de nuestra comunidad y un verdadero h√©roe. Lo encontrar√°s en el Ayuntamiento. Siempre est√° trabajando.}
 {16108}{}{Trabaja con Aradesh por nuestra seguridad.}
-{16109}{}{Nuestro doctor. Si est·s herido, ve a verlo.}
+{16109}{}{Nuestro doctor. Si est√°s herido, ve a verlo.}
 {16600}{}{Khans}
 {16601}{}{Garl}
 {16602}{}{Ciudad Vertedero}
-{16603}{}{Arenas SombrÌas}
+{16603}{}{Arenas Sombr√≠as}
 {16604}{}{Eje}
 {16605}{}{Chip de Agua}
 {16606}{}{Tandi}
@@ -1676,15 +1676,15 @@
 {16698}{}{}
 {16699}{}{}
 {16700}{}{Son un grupo sin ley que finge ser gente del pasado lejano.}
-{16701}{}{Es el lÌder de los Khans. Es uno de los hombres m·s peligrosos que nunca se ha visto en Arenas SombrÌas. Lidera los clanes de saqueadores con dureza.}
-{16702}{}{Est· a cuatro o seis dÌas hacia el sudoeste. A veces hay buenas mercancÌas pero lo m·s normal es que intenten dejarnos tiesos.}
-{16703}{}{Est·s aquÌ mismo.}
-{16704}{}{Bastante m·s al sur que Ciudad Vertedero, pero no tan al oeste. El Eje es la mayor ciudad que conozca. Debe haber allÌ por lo menos mil personas.}
+{16701}{}{Es el l√≠der de los Khans. Es uno de los hombres m√°s peligrosos que nunca se ha visto en Arenas Sombr√≠as. Lidera los clanes de saqueadores con dureza.}
+{16702}{}{Est√° a cuatro o seis d√≠as hacia el sudoeste. A veces hay buenas mercanc√≠as pero lo m√°s normal es que intenten dejarnos tiesos.}
+{16703}{}{Est√°s aqu√≠ mismo.}
+{16704}{}{Bastante m√°s al sur que Ciudad Vertedero, pero no tan al oeste. El Eje es la mayor ciudad que conozca. Debe haber all√≠ por lo menos mil personas.}
 {16705}{}{Lo siento, no puedo ayudarte.}
-{16706}{}{Es la hija de Aradesh. Alg˙n dÌa podrÌa ser nuestra lÌder, pero debe aprender a mejorar sus modales.}
-{16707}{}{Es el lÌder de nuestra comunidad y un verdadero hÈroe. Lo encontrar·s en el Ayuntamiento. Siempre est· trabajando.}
+{16706}{}{Es la hija de Aradesh. Alg√∫n d√≠a podr√≠a ser nuestra l√≠der, pero debe aprender a mejorar sus modales.}
+{16707}{}{Es el l√≠der de nuestra comunidad y un verdadero h√©roe. Lo encontrar√°s en el Ayuntamiento. Siempre est√° trabajando.}
 {16708}{}{Trabaja con Aradesh por nuestra seguridad.}
-{16709}{}{Nuestro doctor. Si est·s herido, ve a verlo.}
+{16709}{}{Nuestro doctor. Si est√°s herido, ve a verlo.}
 {17800}{}{Adytum}
 {17801}{}{Seguidores}
 {17802}{}{Catedral}
@@ -1694,12 +1694,12 @@
 {17806}{}{Eje}
 {17807}{}{Ciudad Vertedero}
 {17808}{}{Chip de Agua}
-{17809}{}{AlmacÈn}
+{17809}{}{Almac√©n}
 {17810}{}{Zimmerman}
-{17811}{}{NecrÛpolis}
+{17811}{}{Necr√≥polis}
 {17812}{}{Ardor}
 {17813}{}{Reguladores}
-{17814}{}{CarroÒeros}
+{17814}{}{Carro√±eros}
 {17815}{}{El Cementerio}
 {17816}{}{Cementerio}
 {17817}{}{Cementerio de LA}
@@ -1785,24 +1785,24 @@
 {17897}{}{}
 {17898}{}{}
 {17899}{}{}
-{17900}{}{Es aquÌ.}
-{17901}{}{Viven al norte de aquÌ.}
-{17902}{}{Est· al sur de aquÌ.}
-{17903}{}{Est·n en el lado oeste.}
-{17904}{}{Est·n en el lado este.}
-{17905}{}{Est·n hacia el norte, pasados los Seguidores.}
+{17900}{}{Es aqu√≠.}
+{17901}{}{Viven al norte de aqu√≠.}
+{17902}{}{Est√° al sur de aqu√≠.}
+{17903}{}{Est√°n en el lado oeste.}
+{17904}{}{Est√°n en el lado este.}
+{17905}{}{Est√°n hacia el norte, pasados los Seguidores.}
 {17906}{}{Comerciamos con ellos.}
-{17907}{}{øNo es una ciudad que est· al norte de aquÌ?}
-{17908}{}{øUn quÈ?}
-{17909}{}{El establecimiento de Tine est· subterr·neo, cerca de la puerta.}
+{17907}{}{¬øNo es una ciudad que est√° al norte de aqu√≠?}
+{17908}{}{¬øUn qu√©?}
+{17909}{}{El establecimiento de Tine est√° subterr√°neo, cerca de la puerta.}
 {17910}{}{Es el alcalde.}
-{17911}{}{Me han dicho que est· hacia el este.}
+{17911}{}{Me han dicho que est√° hacia el este.}
 {17912}{}{Eso es un mito.}
 {17913}{}{Ellos nos protegen.}
 {17914}{}{Van al exterior a por provisiones.}
-{17915}{}{øEres idiota? El Cementerio de LA es aquÌ; est·s en Èl.}
-{17916}{}{øEres idiota? El Cementerio de LA es aquÌ; est·s en Èl.}
-{17917}{}{øEres idiota? El Cementerio de LA es aquÌ; est·s en Èl.}
+{17915}{}{¬øEres idiota? El Cementerio de LA es aqu√≠; est√°s en √©l.}
+{17916}{}{¬øEres idiota? El Cementerio de LA es aqu√≠; est√°s en √©l.}
+{17917}{}{¬øEres idiota? El Cementerio de LA es aqu√≠; est√°s en √©l.}
 {18000}{}{Adytum}
 {18001}{}{Seguidores}
 {18002}{}{Catedral}
@@ -1812,12 +1812,12 @@
 {18006}{}{Eje}
 {18007}{}{Ciudad Vertedero}
 {18008}{}{Chip de Agua}
-{18009}{}{AlmacÈn}
+{18009}{}{Almac√©n}
 {18010}{}{Zimmerman}
-{18011}{}{NecrÛpolis}
+{18011}{}{Necr√≥polis}
 {18012}{}{Ardor}
 {18013}{}{Reguladores}
-{18014}{}{CarroÒeros}
+{18014}{}{Carro√±eros}
 {18015}{}{El Cementerio}
 {18016}{}{Cementerio}
 {18017}{}{Cementerio de LA}
@@ -1903,24 +1903,24 @@
 {18097}{}{}
 {18098}{}{}
 {18099}{}{}
-{18100}{}{Est·s en Adytum, forastero.}
+{18100}{}{Est√°s en Adytum, forastero.}
 {18101}{}{Los Seguidores viven en una vieja biblioteca justo al norte. Predican la tolerancia y la paz.}
-{18102}{}{La Catedral est· al sur, junto a la bahÌa. Los NiÒos son una religiÛn pacÌfica.}
-{18103}{}{Est·n en la zona oeste. Son muy viciosos y tienen un montÛn de trampas.}
-{18104}{}{Est·n en la zona este. Son una especie de navajas de alta tecnologÌa.}
-{18105}{}{Est·n al norte, pasados los Seguidores. Venden armas a las bandas.}
-{18106}{}{Comerciamos con ellos. Es la ciudad m·s grande que conozco.}
-{18107}{}{Es una pequeÒa ciudad que est· al noroeste de aquÌ.}
+{18102}{}{La Catedral est√° al sur, junto a la bah√≠a. Los Ni√±os son una religi√≥n pac√≠fica.}
+{18103}{}{Est√°n en la zona oeste. Son muy viciosos y tienen un mont√≥n de trampas.}
+{18104}{}{Est√°n en la zona este. Son una especie de navajas de alta tecnolog√≠a.}
+{18105}{}{Est√°n al norte, pasados los Seguidores. Venden armas a las bandas.}
+{18106}{}{Comerciamos con ellos. Es la ciudad m√°s grande que conozco.}
+{18107}{}{Es una peque√±a ciudad que est√° al noroeste de aqu√≠.}
 {18108}{}{Nunca he oido hablar de ello.}
-{18109}{}{La tienda de Tine est· subterr·nea, cerca de la verja. Puede venderte muchas provisiones.}
+{18109}{}{La tienda de Tine est√° subterr√°nea, cerca de la verja. Puede venderte muchas provisiones.}
 {18110}{}{Es el alcalde. Hace un buen trabajo.}
-{18111}{}{Es la ciudad de los muertos, est· a varios dÌas de camino al este de aquÌ.}
-{18112}{}{He oÌdo que est· bastante al sur de aquÌ.}
+{18111}{}{Es la ciudad de los muertos, est√° a varios d√≠as de camino al este de aqu√≠.}
+{18112}{}{He o√≠do que est√° bastante al sur de aqu√≠.}
 {18113}{}{Nos protegen de las bandas y mantienen la paz.}
 {18114}{}{Van al exterior a buscar cosas.}
-{18115}{}{øEres idiota? El Cementerio de LA es aquÌ; est·s en Èl.}
-{18116}{}{øEres idiota? El Cementerio de LA es aquÌ; est·s en Èl.}
-{18117}{}{øEres idiota? El Cementerio de LA es aquÌ; est·s en Èl.}
+{18115}{}{¬øEres idiota? El Cementerio de LA es aqu√≠; est√°s en √©l.}
+{18116}{}{¬øEres idiota? El Cementerio de LA es aqu√≠; est√°s en √©l.}
+{18117}{}{¬øEres idiota? El Cementerio de LA es aqu√≠; est√°s en √©l.}
 {18200}{}{Adytum}
 {18201}{}{Seguidores}
 {18202}{}{Catedral}
@@ -1930,12 +1930,12 @@
 {18206}{}{Eje}
 {18207}{}{Ciudad Vertedero}
 {18208}{}{Chip de Agua}
-{18209}{}{AlmacÈn}
+{18209}{}{Almac√©n}
 {18210}{}{Zimmerman}
-{18211}{}{NecrÛpolis}
+{18211}{}{Necr√≥polis}
 {18212}{}{Ardor}
 {18213}{}{Reguladores}
-{18214}{}{CarroÒeros}
+{18214}{}{Carro√±eros}
 {18215}{}{El Cementerio}
 {18216}{}{Cementerio}
 {18217}{}{Cementerio de LA}
@@ -2022,23 +2022,23 @@
 {18298}{}{}
 {18299}{}{}
 {18300}{}{Somos los descendientes de un viejo Refugio que estaba bajo tierra en la zona sur de esta ciudad.}
-{18301}{}{Los Seguidores son gente pacÌfica y culta. Viven en una vieja biblioteca al norte de aquÌ.}
-{18302}{}{Los NiÒos rinden culto a un misterioso dios, el Dios Oscuro. Parecen inofensivos, pero hay algo extraÒo en su religiÛn. La Catedral est· al sur de aquÌ.}
-{18303}{}{Los Destripadores son consanguÌneos. Tienen un edificio fortificado con trampas alrededor con las que cogen prisioneros que luego torturan y matan.}
-{18304}{}{Los Navajas son conocidos por sus vibrocuchillos. Son los peores enemigos de los Destripadores. Su lÌder es una mujer llamada Cuchilla.}
-{18305}{}{Antes eran una banda, pero se establecieron en un almacÈn en la zona norte y empezaron a comerciar armas con la gente.}
-{18306}{}{El Eje es un centro de comercio. AllÌ hay compaÒÌas que producen cosas. Est·n al este de aquÌ.}
-{18307}{}{Ciudad Vertedero es una ciudad mediana situada al este de aquÌ y justo al norte de El Eje.}
+{18301}{}{Los Seguidores son gente pac√≠fica y culta. Viven en una vieja biblioteca al norte de aqu√≠.}
+{18302}{}{Los Ni√±os rinden culto a un misterioso dios, el Dios Oscuro. Parecen inofensivos, pero hay algo extra√±o en su religi√≥n. La Catedral est√° al sur de aqu√≠.}
+{18303}{}{Los Destripadores son consangu√≠neos. Tienen un edificio fortificado con trampas alrededor con las que cogen prisioneros que luego torturan y matan.}
+{18304}{}{Los Navajas son conocidos por sus vibrocuchillos. Son los peores enemigos de los Destripadores. Su l√≠der es una mujer llamada Cuchilla.}
+{18305}{}{Antes eran una banda, pero se establecieron en un almac√©n en la zona norte y empezaron a comerciar armas con la gente.}
+{18306}{}{El Eje es un centro de comercio. All√≠ hay compa√±√≠as que producen cosas. Est√°n al este de aqu√≠.}
+{18307}{}{Ciudad Vertedero es una ciudad mediana situada al este de aqu√≠ y justo al norte de El Eje.}
 {18308}{}{Lo siento, no puedo ayudarte en eso.}
-{18309}{}{Tine lleva los almacenes que est·n cerca de la puerta principal. Puede venderte armas y utensilios de viaje.}
-{18310}{}{Jon es nuestro alcalde. Firma contratos comerciales, define las polÌticas y delega responsabilidades a los Reguladores y a los carroÒeros.}
-{18311}{}{øLa Ciudad de los Muertos? Dicen que es un lugar habitado por extraÒos canÌbales lejos hacia el este. Yo que t˙, no irÌa allÌ de visita.}
-{18312}{}{Es un lugar muy radioactivo situado bastante al sur de aquÌ, o al menos eso me han dicho.}
-{18313}{}{Son los policÌas de Adytum. Nos protegen de las bandas. Caleb es su lÌder.}
-{18314}{}{Los carroÒeros tienen la misiÛn de explorar el Cementerio en busca de objetos de valor. Su jefe es Sammael.}
-{18315}{}{El Cementerio de los ¡ngeles es lo que queda de la ciudad de Los ¡ngeles. Estamos en el centro del Cementerio.}
-{18316}{}{El Cementerio de los ¡ngeles es lo que queda de la ciudad de Los ¡ngeles. Estamos en el centro del Cementerio.}
-{18317}{}{El Cementerio de los ¡ngeles es lo que queda de la ciudad de Los ¡ngeles. Estamos en el centro del Cementerio.}
+{18309}{}{Tine lleva los almacenes que est√°n cerca de la puerta principal. Puede venderte armas y utensilios de viaje.}
+{18310}{}{Jon es nuestro alcalde. Firma contratos comerciales, define las pol√≠ticas y delega responsabilidades a los Reguladores y a los carro√±eros.}
+{18311}{}{¬øLa Ciudad de los Muertos? Dicen que es un lugar habitado por extra√±os can√≠bales lejos hacia el este. Yo que t√∫, no ir√≠a all√≠ de visita.}
+{18312}{}{Es un lugar muy radioactivo situado bastante al sur de aqu√≠, o al menos eso me han dicho.}
+{18313}{}{Son los polic√≠as de Adytum. Nos protegen de las bandas. Caleb es su l√≠der.}
+{18314}{}{Los carro√±eros tienen la misi√≥n de explorar el Cementerio en busca de objetos de valor. Su jefe es Sammael.}
+{18315}{}{El Cementerio de los √Ångeles es lo que queda de la ciudad de Los √Ångeles. Estamos en el centro del Cementerio.}
+{18316}{}{El Cementerio de los √Ångeles es lo que queda de la ciudad de Los √Ångeles. Estamos en el centro del Cementerio.}
+{18317}{}{El Cementerio de los √Ångeles es lo que queda de la ciudad de Los √Ångeles. Estamos en el centro del Cementerio.}
 {18400}{}{Adytum}
 {18401}{}{Seguidores}
 {18402}{}{Catedral}
@@ -2139,16 +2139,16 @@
 {18497}{}{}
 {18498}{}{}
 {18499}{}{}
-{18500}{}{Es un pueblo que est· al sur de aquÌ.}
+{18500}{}{Es un pueblo que est√° al sur de aqu√≠.}
 {18501}{}{Nosotros somos los Seguidores del Apocalipsis.}
 {18502}{}{Un lugar de culto al sur, pasado Adytum.}
 {18503}{}{Una banda del oeste.}
 {18504}{}{Una banda del este.}
 {18505}{}{Una banda al norte.}
-{18506}{}{Una ciudad comercial importante al noreste de aquÌ.}
-{18507}{}{Una ciudad de tamaÒo medio situada al norte del Eje.}
+{18506}{}{Una ciudad comercial importante al noreste de aqu√≠.}
+{18507}{}{Una ciudad de tama√±o medio situada al norte del Eje.}
 {18508}{}{No puedo ayudarte, lo siento.}
-{18509}{}{Ella es nuestro lÌder.}
+{18509}{}{Ella es nuestro l√≠der.}
 {18510}{}{Esto es el Cementerio.}
 {18600}{}{Adytum}
 {18601}{}{Seguidores}
@@ -2250,17 +2250,17 @@
 {18697}{}{}
 {18698}{}{}
 {18699}{}{}
-{18700}{}{Una pequeÒa ciudad situada al sur. A veces nos visitan.}
-{18701}{}{Nosotros somos los Seguidores del Apocalipsis. Nos llamamos asÌ porque resurgimos de la tormenta de la guerra para traer el b·lsamo de la paz.}
-{18702}{}{Un extraÒo lugar de culto al sur de Adytum y el resto del Cementerio. Nicole dice que son capaces de cualquier cosa.}
+{18700}{}{Una peque√±a ciudad situada al sur. A veces nos visitan.}
+{18701}{}{Nosotros somos los Seguidores del Apocalipsis. Nos llamamos as√≠ porque resurgimos de la tormenta de la guerra para traer el b√°lsamo de la paz.}
+{18702}{}{Un extra√±o lugar de culto al sur de Adytum y el resto del Cementerio. Nicole dice que son capaces de cualquier cosa.}
 {18703}{}{Una banda ultraviolenta del oeste.}
 {18704}{}{Una banda del este. Usan vibrocuchillos.}
-{18705}{}{Una banda que procede del Eje y vende armas. Est·n al norte de aquÌ.}
+{18705}{}{Una banda que procede del Eje y vende armas. Est√°n al norte de aqu√≠.}
 {18706}{}{El Eje es una gran ciudad de comerciantes y negocios situada al este.}
-{18707}{}{Ciudad Vertedero es una pequeÒa ciudad situada al norte del Eje.}
+{18707}{}{Ciudad Vertedero es una peque√±a ciudad situada al norte del Eje.}
 {18708}{}{No puedo ayudarte en eso.}
-{18709}{}{Es nuestra lÌder. Quiere restaurar la paz en un mundo dividido por la guerra.}
-{18710}{}{Esto es el Cementerio de los ¡ngeles, los restos de la vieja ciudad de Los ¡ngeles.}
+{18709}{}{Es nuestra l√≠der. Quiere restaurar la paz en un mundo dividido por la guerra.}
+{18710}{}{Esto es el Cementerio de los √Ångeles, los restos de la vieja ciudad de Los √Ångeles.}
 {18800}{}{Adytum}
 {18801}{}{Seguidores}
 {18802}{}{Catedral}
@@ -2361,24 +2361,24 @@
 {18897}{}{}
 {18898}{}{}
 {18899}{}{}
-{18900}{}{Una pequeÒa ciudad situada al sur. Son buena gente, aunque algo paranoicos. Algunos de ellos trabajan con nosotros de vez en cuando.}
-{18901}{}{Nosotros somos los Seguidores del Apocalipsis. Nuestro deber es devolver la paz y el conocimiento al mundo y asegurarnos de que las armas de guerra nunca volver·n a amenazar la tierra.}
-{18902}{}{La Catedral es un gran edificio situado al sur del Cementerio. Los NiÒos rinden culto a un dios malvado y oscuro. Tenemos que detenerlos antes de que extiendan su religiÛn usando violencia.}
-{18903}{}{ConsanguÌneos y chacales. Atacan a cualquier cosa que se les ponga delante que no sea uno de ellos. Viven al oeste de aquÌ en una fortaleza rodeada de trampas.}
-{18904}{}{Un grupo singularmente peligroso que vive al este y lucha con vibrocuchillos. Su lÌder, Cuchilla, vino del Eje e hizo de ellos una fiera familia.}
-{18905}{}{Son una banda que vive en un almacÈn al norte de aquÌ, en un foso de barro radiactivo. Venden armas a las dem·s bandas.}
-{18906}{}{El Eje es una enorme ciudad dedicada al comercio situada al este de aquÌ. EnvÌan caravanas a muchos lugares, incluido Adytum.}
-{18907}{}{Es una pequeÒa ciudad situada al norte del Eje. Me han dicho que es un buen lugar de descanso para el viajero cansado.}
-{18908}{}{Aunque he leÌdo algo sobre la tecnologÌa de los Refugios, no llego a tanto.}
-{18909}{}{Nicole es nuestra lÌder. La espiritualidad y la contemplaciÛn interior la obligan a traer la paz a un mundo roto por la guerra.}
-{18910}{}{Este es el corazÛn del Cementerio de los ¡ngeles, llamado asÌ por la vieja ciudad de Los ¡ngeles, y por los esqueletos de los muertos que cubrÌan el lugar despuÈs de la Bomba.}
+{18900}{}{Una peque√±a ciudad situada al sur. Son buena gente, aunque algo paranoicos. Algunos de ellos trabajan con nosotros de vez en cuando.}
+{18901}{}{Nosotros somos los Seguidores del Apocalipsis. Nuestro deber es devolver la paz y el conocimiento al mundo y asegurarnos de que las armas de guerra nunca volver√°n a amenazar la tierra.}
+{18902}{}{La Catedral es un gran edificio situado al sur del Cementerio. Los Ni√±os rinden culto a un dios malvado y oscuro. Tenemos que detenerlos antes de que extiendan su religi√≥n usando violencia.}
+{18903}{}{Consangu√≠neos y chacales. Atacan a cualquier cosa que se les ponga delante que no sea uno de ellos. Viven al oeste de aqu√≠ en una fortaleza rodeada de trampas.}
+{18904}{}{Un grupo singularmente peligroso que vive al este y lucha con vibrocuchillos. Su l√≠der, Cuchilla, vino del Eje e hizo de ellos una fiera familia.}
+{18905}{}{Son una banda que vive en un almac√©n al norte de aqu√≠, en un foso de barro radiactivo. Venden armas a las dem√°s bandas.}
+{18906}{}{El Eje es una enorme ciudad dedicada al comercio situada al este de aqu√≠. Env√≠an caravanas a muchos lugares, incluido Adytum.}
+{18907}{}{Es una peque√±a ciudad situada al norte del Eje. Me han dicho que es un buen lugar de descanso para el viajero cansado.}
+{18908}{}{Aunque he le√≠do algo sobre la tecnolog√≠a de los Refugios, no llego a tanto.}
+{18909}{}{Nicole es nuestra l√≠der. La espiritualidad y la contemplaci√≥n interior la obligan a traer la paz a un mundo roto por la guerra.}
+{18910}{}{Este es el coraz√≥n del Cementerio de los √Ångeles, llamado as√≠ por la vieja ciudad de Los √Ångeles, y por los esqueletos de los muertos que cubr√≠an el lugar despu√©s de la Bomba.}
 {19000}{}{Maestro}
 {19001}{}{Teniente}
-{19002}{}{NiÒos de la Catedral}
+{19002}{}{Ni√±os de la Catedral}
 {19003}{}{Seguidores del Apocalipsis}
 {19004}{}{Nocturnos}
 {19005}{}{Supermutantes}
-{19006}{}{PsÌquicos}
+{19006}{}{Ps√≠quicos}
 {19007}{}{Experimentos}
 {19008}{}{Chip de Agua}
 {19009}{}{}
@@ -2479,15 +2479,15 @@
 {19104}{}{No es asunto tuyo.}
 {19105}{}{No te interesa.}
 {19106}{}{Eres demasiado idiota para conocerlos.}
-{19107}{}{No est·s autorizado a conocerlos.}
+{19107}{}{No est√°s autorizado a conocerlos.}
 {19108}{}{No me interesan los juguetitos.}
 {19600}{}{Maestro}
 {19601}{}{Teniente}
-{19602}{}{NiÒos de la Catedral}
+{19602}{}{Ni√±os de la Catedral}
 {19603}{}{Seguidores del Apocalipsis}
 {19604}{}{Nocturnos}
 {19605}{}{Supermutantes}
-{19606}{}{PsÌquicos}
+{19606}{}{Ps√≠quicos}
 {19607}{}{Experimentos}
 {19608}{}{Chip de Agua}
 {19609}{}{}
@@ -2588,15 +2588,15 @@
 {19704}{}{No es asunto tuyo.}
 {19705}{}{No te interesa.}
 {19706}{}{Eres demasiado idiota para conocerlos.}
-{19707}{}{No est·s autorizado a conocerlos.}
+{19707}{}{No est√°s autorizado a conocerlos.}
 {19708}{}{No me interesan los juguetitos.}
 {20200}{}{Maestro}
 {20201}{}{Teniente}
-{20202}{}{NiÒos de la Catedral}
+{20202}{}{Ni√±os de la Catedral}
 {20203}{}{Seguidores del Apocalipsis}
 {20204}{}{Nocturnos}
 {20205}{}{Supermutantes}
-{20206}{}{PsÌquicos}
+{20206}{}{Ps√≠quicos}
 {20207}{}{Experimentos}
 {20208}{}{Chip de Agua}
 {20209}{}{}
@@ -2697,15 +2697,15 @@
 {20304}{}{No es asunto tuyo.}
 {20305}{}{No te interesa.}
 {20306}{}{Eres demasiado idiota para conocerlos.}
-{20307}{}{No est·s autorizado a conocerlos.}
+{20307}{}{No est√°s autorizado a conocerlos.}
 {20308}{}{No me interesan los juguetitos.}
 {20800}{}{Maestro}
 {20801}{}{Teniente}
-{20802}{}{NiÒos de la Catedral}
+{20802}{}{Ni√±os de la Catedral}
 {20803}{}{Seguidores del Apocalipsis}
 {20804}{}{Nocturnos}
 {20805}{}{Supermutantes}
-{20806}{}{PsÌquicos}
+{20806}{}{Ps√≠quicos}
 {20807}{}{Experimentos}
 {20808}{}{Chip de Agua}
 {20809}{}{}
@@ -2806,15 +2806,15 @@
 {20904}{}{No es asunto tuyo.}
 {20905}{}{No te interesa.}
 {20906}{}{Eres demasiado idiota para conocerlos.}
-{20907}{}{No est·s autorizado a conocerlos.}
+{20907}{}{No est√°s autorizado a conocerlos.}
 {20908}{}{No me interesan los juguetitos.}
 {21400}{}{Maestro}
 {21401}{}{Teniente}
-{21402}{}{NiÒos de la Catedral}
+{21402}{}{Ni√±os de la Catedral}
 {21403}{}{Seguidores del Apocalipsis}
 {21404}{}{Nocturnos}
 {21405}{}{Supermutantes}
-{21406}{}{PsÌquicos}
+{21406}{}{Ps√≠quicos}
 {21407}{}{Experimentos}
 {21408}{}{Chip de Agua}
 {21409}{}{}
@@ -2915,18 +2915,18 @@
 {21504}{}{No es asunto tuyo.}
 {21505}{}{No te interesa.}
 {21506}{}{Eres demasiado idiota para conocerlos.}
-{21507}{}{No est·s autorizado a conocerlos.}
+{21507}{}{No est√°s autorizado a conocerlos.}
 {21508}{}{No me interesan los juguetitos.}
-{22600}{}{PolicÌa}
+{22600}{}{Polic√≠a}
 {22601}{}{Mercaderes de Agua}
-{22602}{}{Caravana CarmesÌ}
+{22602}{}{Caravana Carmes√≠}
 {22603}{}{Comerciantes de Ultramar}
-{22604}{}{NiÒos de la Catedral}
-{22605}{}{NecrÛpolis}
+{22604}{}{Ni√±os de la Catedral}
+{22605}{}{Necr√≥polis}
 {22606}{}{Zona Caliente}
 {22607}{}{Ciudad Vertedero}
 {22608}{}{Hermandad del Acero}
-{22609}{}{Arenas SombrÌas}
+{22609}{}{Arenas Sombr√≠as}
 {22610}{}{Cementerio}
 {22611}{}{Torre de Agua}
 {22612}{}{Ciudad Antigua}
@@ -3017,33 +3017,33 @@
 {22697}{}{}
 {22698}{}{}
 {22699}{}{}
-{22700}{}{El Sheriff Greene dirige la PolicÌa. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m·s que una ayuda, son un estorbo.}
+{22700}{}{El Sheriff Greene dirige la Polic√≠a. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m√°s que una ayuda, son un estorbo.}
 {22701}{}{Controlan toda el agua en el Eje. Ejercen el control en la Torre de Agua y ahora la gente tiene que pagarles para conseguir agua.}
-{22702}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m·s alto.}
+{22702}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m√°s alto.}
 {22703}{}{Son un grupo de comerciantes poco dispuestos, que ofrecen buenos precios sin tener que correr grandes riesgos.}
 {22704}{}{Son un grupo religioso que veneran a algo llamado el Maestro. Dirigen un hospital en la zona sudeste de la ciudad cerca de los Mercaderes de Agua.}
-{22705}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est· en alg˙n lugar al este del Eje.}
-{22706}{}{Algunas leyendas dicen que en un lugar al sudeste de aquÌ cayÛ una cabeza nuclear.}
-{22707}{}{Est· al norte de aquÌ. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
-{22708}{}{Est· al noroeste de aquÌ. Son un puÒado de locos de la tecnologÌa que se pasan el dÌa vener·ndola. Son bastante horripilantes.}
-{22709}{}{Una ciudad primitiva que est· bastante al norte de aquÌ. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
-{22710}{}{Ese lugar infectado de ratas est· acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning˙n comerciante se atreverÌa a ir allÌ.}
+{22705}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est√° en alg√∫n lugar al este del Eje.}
+{22706}{}{Algunas leyendas dicen que en un lugar al sudeste de aqu√≠ cay√≥ una cabeza nuclear.}
+{22707}{}{Est√° al norte de aqu√≠. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
+{22708}{}{Est√° al noroeste de aqu√≠. Son un pu√±ado de locos de la tecnolog√≠a que se pasan el d√≠a vener√°ndola. Son bastante horripilantes.}
+{22709}{}{Una ciudad primitiva que est√° bastante al norte de aqu√≠. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
+{22710}{}{Ese lugar infectado de ratas est√° acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning√∫n comerciante se atrever√≠a a ir all√≠.}
 {22711}{}{Esos roban el agua para el Eje. Los Mercaderes de Agua controlan las torres.}
-{22712}{}{Ciudad Antigua est· en el lado noreste de la ciudad. Los ˙nicos que merodean por allÌ son mutis y yonquis. He oÌdo que hay un supuesto "CÌrculo de Ladrones" en alg˙n lugar de ahÌ.}
-{22713}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la ArmerÌa, la CompaÒÌa de CrÈdito Amistoso y el HalcÛn MaltÈs est·n en esa zona.}
-{22714}{}{Es el lugar de residencia de los mercaderes ricos. El lÌder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allÌ.}
-{22715}{}{Es un mito para asustar a los niÒos y hacer que se porten bien.}
-{22716}{}{No sÈ nada de eso.}
-{23800}{}{PolicÌa}
+{22712}{}{Ciudad Antigua est√° en el lado noreste de la ciudad. Los √∫nicos que merodean por all√≠ son mutis y yonquis. He o√≠do que hay un supuesto "C√≠rculo de Ladrones" en alg√∫n lugar de ah√≠.}
+{22713}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armer√≠a, la Compa√±√≠a de Cr√©dito Amistoso y el Halc√≥n Malt√©s est√°n en esa zona.}
+{22714}{}{Es el lugar de residencia de los mercaderes ricos. El l√≠der de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme all√≠.}
+{22715}{}{Es un mito para asustar a los ni√±os y hacer que se porten bien.}
+{22716}{}{No s√© nada de eso.}
+{23800}{}{Polic√≠a}
 {23801}{}{Mercaderes de Agua}
-{23802}{}{Caravana CarmesÌ}
+{23802}{}{Caravana Carmes√≠}
 {23803}{}{Comerciantes de Ultramar}
-{23804}{}{NiÒos de la Catedral}
-{23805}{}{NecrÛpolis}
+{23804}{}{Ni√±os de la Catedral}
+{23805}{}{Necr√≥polis}
 {23806}{}{Zona Caliente}
 {23807}{}{Ciudad Vertedero}
 {23808}{}{Hermandad del Acero}
-{23809}{}{Arenas SombrÌas}
+{23809}{}{Arenas Sombr√≠as}
 {23810}{}{Cementerio}
 {23811}{}{Torre de Agua}
 {23812}{}{Ciudad Antigua}
@@ -3134,33 +3134,33 @@
 {23897}{}{}
 {23898}{}{}
 {23899}{}{}
-{23900}{}{El Sheriff Greene dirige la PolicÌa. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m·s que una ayuda, son un estorbo.}
+{23900}{}{El Sheriff Greene dirige la Polic√≠a. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m√°s que una ayuda, son un estorbo.}
 {23901}{}{Controlan toda el agua en el Eje. Ejercen el control en la Torre de Agua y ahora la gente tiene que pagarles para conseguir agua.}
-{23902}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m·s alto.}
+{23902}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m√°s alto.}
 {23903}{}{Son un grupo de comerciantes poco dispuestos, que ofrecen buenos precios sin tener que correr grandes riesgos.}
 {23904}{}{Son un grupo religioso que veneran a algo llamado el Maestro. Dirigen un hospital en la zona sudeste de la ciudad cerca de los Mercaderes de Agua.}
-{23905}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est· en alg˙n lugar al este del Eje.}
-{23906}{}{Algunas leyendas dicen que en un lugar al sudeste de aquÌ cayÛ una cabeza nuclear.}
-{23907}{}{Est· al norte de aquÌ. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
-{23908}{}{Est· al noroeste de aquÌ. Son un puÒado de locos de la tecnologÌa que se pasan el dÌa vener·ndola. Son bastante horripilantes.}
-{23909}{}{Una ciudad primitiva que est· bastante al norte de aquÌ. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
-{23910}{}{Ese lugar infectado de ratas est· acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning˙n comerciante se atreverÌa a ir allÌ.}
+{23905}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est√° en alg√∫n lugar al este del Eje.}
+{23906}{}{Algunas leyendas dicen que en un lugar al sudeste de aqu√≠ cay√≥ una cabeza nuclear.}
+{23907}{}{Est√° al norte de aqu√≠. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
+{23908}{}{Est√° al noroeste de aqu√≠. Son un pu√±ado de locos de la tecnolog√≠a que se pasan el d√≠a vener√°ndola. Son bastante horripilantes.}
+{23909}{}{Una ciudad primitiva que est√° bastante al norte de aqu√≠. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
+{23910}{}{Ese lugar infectado de ratas est√° acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning√∫n comerciante se atrever√≠a a ir all√≠.}
 {23911}{}{Esos roban el agua para el Eje. Los Mercaderes de Agua controlan las torres.}
-{23912}{}{Ciudad Antigua est· en el lado noreste de la ciudad. Los ˙nicos que merodean por allÌ son mutis y yonquis. He oÌdo que hay un supuesto "CÌrculo de Ladrones" en alg˙n lugar de ahÌ.}
-{23913}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la ArmerÌa, la CompaÒÌa de CrÈdito Amistoso y el HalcÛn MaltÈs est·n en esa zona.}
-{23914}{}{Es el lugar de residencia de los mercaderes ricos. El lÌder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allÌ.}
-{23915}{}{Es un mito para asustar a los niÒos y hacer que se porten bien.}
-{23916}{}{No sÈ nada de eso.}
-{24400}{}{PolicÌa}
+{23912}{}{Ciudad Antigua est√° en el lado noreste de la ciudad. Los √∫nicos que merodean por all√≠ son mutis y yonquis. He o√≠do que hay un supuesto "C√≠rculo de Ladrones" en alg√∫n lugar de ah√≠.}
+{23913}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armer√≠a, la Compa√±√≠a de Cr√©dito Amistoso y el Halc√≥n Malt√©s est√°n en esa zona.}
+{23914}{}{Es el lugar de residencia de los mercaderes ricos. El l√≠der de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme all√≠.}
+{23915}{}{Es un mito para asustar a los ni√±os y hacer que se porten bien.}
+{23916}{}{No s√© nada de eso.}
+{24400}{}{Polic√≠a}
 {24401}{}{Mercaderes de Agua}
-{24402}{}{Caravana CarmesÌ}
+{24402}{}{Caravana Carmes√≠}
 {24403}{}{Comerciantes de Ultramar}
-{24404}{}{NiÒos de la Catedral}
-{24405}{}{NecrÛpolis}
+{24404}{}{Ni√±os de la Catedral}
+{24405}{}{Necr√≥polis}
 {24406}{}{Zona Caliente}
 {24407}{}{Ciudad Vertedero}
 {24408}{}{Hermandad del Acero}
-{24409}{}{Arenas SombrÌas}
+{24409}{}{Arenas Sombr√≠as}
 {24410}{}{Cementerio}
 {24411}{}{Torre de Agua}
 {24412}{}{Ciudad Antigua}
@@ -3251,33 +3251,33 @@
 {24497}{}{}
 {24498}{}{}
 {24499}{}{}
-{24500}{}{El Sheriff Greene dirige la PolicÌa. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m·s que una ayuda, son un estorbo.}
+{24500}{}{El Sheriff Greene dirige la Polic√≠a. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m√°s que una ayuda, son un estorbo.}
 {24501}{}{Controlan toda el agua en el Eje. Ejercen el control en la Torre de Agua y ahora la gente tiene que pagarles para conseguir agua.}
-{24502}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m·s alto.}
+{24502}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m√°s alto.}
 {24503}{}{Son un grupo de comerciantes poco dispuestos, que ofrecen buenos precios sin tener que correr grandes riesgos.}
 {24504}{}{Son un grupo religioso que veneran a algo llamado el Maestro. Dirigen un hospital en la zona sudeste de la ciudad cerca de los Mercaderes de Agua.}
-{24505}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est· en alg˙n lugar al este del Eje.}
-{24506}{}{Algunas leyendas dicen que en un lugar al sudeste de aquÌ cayÛ una cabeza nuclear.}
-{24507}{}{Est· al norte de aquÌ. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
-{24508}{}{Est· al noroeste de aquÌ. Son un puÒado de locos de la tecnologÌa que se pasan el dÌa vener·ndola. Son bastante horripilantes.}
-{24509}{}{Una ciudad primitiva que est· bastante al norte de aquÌ. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
-{24510}{}{Ese lugar infectado de ratas est· acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning˙n comerciante se atreverÌa a ir allÌ.}
+{24505}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est√° en alg√∫n lugar al este del Eje.}
+{24506}{}{Algunas leyendas dicen que en un lugar al sudeste de aqu√≠ cay√≥ una cabeza nuclear.}
+{24507}{}{Est√° al norte de aqu√≠. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
+{24508}{}{Est√° al noroeste de aqu√≠. Son un pu√±ado de locos de la tecnolog√≠a que se pasan el d√≠a vener√°ndola. Son bastante horripilantes.}
+{24509}{}{Una ciudad primitiva que est√° bastante al norte de aqu√≠. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
+{24510}{}{Ese lugar infectado de ratas est√° acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning√∫n comerciante se atrever√≠a a ir all√≠.}
 {24511}{}{Esos roban el agua para el Eje. Los Mercaderes de Agua controlan las torres.}
-{24512}{}{Ciudad Antigua est· en el lado noreste de la ciudad. Los ˙nicos que merodean por allÌ son mutis y yonquis. He oÌdo que hay un supuesto "CÌrculo de Ladrones" en alg˙n lugar de ahÌ.}
-{24513}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la ArmerÌa, la CompaÒÌa de CrÈdito Amistoso y el HalcÛn MaltÈs est·n en esa zona.}
-{24514}{}{Es el lugar de residencia de los mercaderes ricos. El lÌder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allÌ.}
-{24515}{}{Es un mito para asustar a los niÒos y hacer que se porten bien.}
-{24516}{}{No sÈ nada de eso.}
-{25000}{}{PolicÌa}
+{24512}{}{Ciudad Antigua est√° en el lado noreste de la ciudad. Los √∫nicos que merodean por all√≠ son mutis y yonquis. He o√≠do que hay un supuesto "C√≠rculo de Ladrones" en alg√∫n lugar de ah√≠.}
+{24513}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armer√≠a, la Compa√±√≠a de Cr√©dito Amistoso y el Halc√≥n Malt√©s est√°n en esa zona.}
+{24514}{}{Es el lugar de residencia de los mercaderes ricos. El l√≠der de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme all√≠.}
+{24515}{}{Es un mito para asustar a los ni√±os y hacer que se porten bien.}
+{24516}{}{No s√© nada de eso.}
+{25000}{}{Polic√≠a}
 {25001}{}{Mercaderes de Agua}
-{25002}{}{Caravana CarmesÌ}
+{25002}{}{Caravana Carmes√≠}
 {25003}{}{Comerciantes de Ultramar}
-{25004}{}{NiÒos de la Catedral}
-{25005}{}{NecrÛpolis}
+{25004}{}{Ni√±os de la Catedral}
+{25005}{}{Necr√≥polis}
 {25006}{}{Zona Caliente}
 {25007}{}{Ciudad Vertedero}
 {25008}{}{Hermandad del Acero}
-{25009}{}{Arenas SombrÌas}
+{25009}{}{Arenas Sombr√≠as}
 {25010}{}{Cementerio}
 {25011}{}{Torre de Agua}
 {25012}{}{Ciudad Antigua}
@@ -3368,33 +3368,33 @@
 {25097}{}{}
 {25098}{}{}
 {25099}{}{}
-{25100}{}{El Sheriff Greene dirige la PolicÌa. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m·s que una ayuda, son un estorbo.}
+{25100}{}{El Sheriff Greene dirige la Polic√≠a. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m√°s que una ayuda, son un estorbo.}
 {25101}{}{Controlan toda el agua en el Eje. Ejercen el control en la Torre de Agua y ahora la gente tiene que pagarles para conseguir agua.}
-{25102}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m·s alto.}
+{25102}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m√°s alto.}
 {25103}{}{Son un grupo de comerciantes poco dispuestos, que ofrecen buenos precios sin tener que correr grandes riesgos.}
 {25104}{}{Son un grupo religioso que veneran a algo llamado el Maestro. Dirigen un hospital en la zona sudeste de la ciudad cerca de los Mercaderes de Agua.}
-{25105}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est· en alg˙n lugar al este del Eje.}
-{25106}{}{Algunas leyendas dicen que en un lugar al sudeste de aquÌ cayÛ una cabeza nuclear.}
-{25107}{}{Est· al norte de aquÌ. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
-{25108}{}{Est· al noroeste de aquÌ. Son un puÒado de locos de la tecnologÌa que se pasan el dÌa vener·ndola. Son bastante horripilantes.}
-{25109}{}{Una ciudad primitiva que est· bastante al norte de aquÌ. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
-{25110}{}{Ese lugar infectado de ratas est· acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning˙n comerciante se atreverÌa a ir allÌ.}
+{25105}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est√° en alg√∫n lugar al este del Eje.}
+{25106}{}{Algunas leyendas dicen que en un lugar al sudeste de aqu√≠ cay√≥ una cabeza nuclear.}
+{25107}{}{Est√° al norte de aqu√≠. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
+{25108}{}{Est√° al noroeste de aqu√≠. Son un pu√±ado de locos de la tecnolog√≠a que se pasan el d√≠a vener√°ndola. Son bastante horripilantes.}
+{25109}{}{Una ciudad primitiva que est√° bastante al norte de aqu√≠. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
+{25110}{}{Ese lugar infectado de ratas est√° acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning√∫n comerciante se atrever√≠a a ir all√≠.}
 {25111}{}{Esos roban el agua para el Eje. Los Mercaderes de Agua controlan las torres.}
-{25112}{}{Ciudad Antigua est· en el lado noreste de la ciudad. Los ˙nicos que merodean por allÌ son mutis y yonquis. He oÌdo que hay un supuesto "CÌrculo de Ladrones" en alg˙n lugar de ahÌ.}
-{25113}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la ArmerÌa, la CompaÒÌa de CrÈdito Amistoso y el HalcÛn MaltÈs est·n en esa zona.}
-{25114}{}{Es el lugar de residencia de los mercaderes ricos. El lÌder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allÌ.}
-{25115}{}{Es un mito para asustar a los niÒos y hacer que se porten bien.}
-{25116}{}{No sÈ nada de eso.}
-{25600}{}{PolicÌa}
+{25112}{}{Ciudad Antigua est√° en el lado noreste de la ciudad. Los √∫nicos que merodean por all√≠ son mutis y yonquis. He o√≠do que hay un supuesto "C√≠rculo de Ladrones" en alg√∫n lugar de ah√≠.}
+{25113}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armer√≠a, la Compa√±√≠a de Cr√©dito Amistoso y el Halc√≥n Malt√©s est√°n en esa zona.}
+{25114}{}{Es el lugar de residencia de los mercaderes ricos. El l√≠der de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme all√≠.}
+{25115}{}{Es un mito para asustar a los ni√±os y hacer que se porten bien.}
+{25116}{}{No s√© nada de eso.}
+{25600}{}{Polic√≠a}
 {25601}{}{Mercaderes de Agua}
-{25602}{}{Caravana CarmesÌ}
+{25602}{}{Caravana Carmes√≠}
 {25603}{}{Comerciantes de Ultramar}
-{25604}{}{NiÒos de la Catedral}
-{25605}{}{NecrÛpolis}
+{25604}{}{Ni√±os de la Catedral}
+{25605}{}{Necr√≥polis}
 {25606}{}{Zona Caliente}
 {25607}{}{Ciudad Vertedero}
 {25608}{}{Hermandad del Acero}
-{25609}{}{Arenas SombrÌas}
+{25609}{}{Arenas Sombr√≠as}
 {25610}{}{Cementerio}
 {25611}{}{Torre de Agua}
 {25612}{}{Ciudad Antigua}
@@ -3485,23 +3485,23 @@
 {25697}{}{}
 {25698}{}{}
 {25699}{}{}
-{25700}{}{El Sheriff Greene dirige la PolicÌa. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m·s que una ayuda, son un estorbo.}
+{25700}{}{El Sheriff Greene dirige la Polic√≠a. Su deber es mantener el orden y la ley en el Eje. Algunos creen que, m√°s que una ayuda, son un estorbo.}
 {25701}{}{Controlan toda el agua en el Eje. Ejercen el control en la Torre de Agua y ahora la gente tiene que pagarles para conseguir agua.}
-{25702}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m·s alto.}
+{25702}{}{Son un grupo de comerciantes locos que se arriesgan mucho para llegar a lo m√°s alto.}
 {25703}{}{Son un grupo de comerciantes poco dispuestos, que ofrecen buenos precios sin tener que correr grandes riesgos.}
 {25704}{}{Son un grupo religioso que veneran a algo llamado el Maestro. Dirigen un hospital en la zona sudeste de la ciudad cerca de los Mercaderes de Agua.}
-{25705}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est· en alg˙n lugar al este del Eje.}
-{25706}{}{Algunas leyendas dicen que en un lugar al sudeste de aquÌ cayÛ una cabeza nuclear.}
-{25707}{}{Est· al norte de aquÌ. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
-{25708}{}{Est· al noroeste de aquÌ. Son un puÒado de locos de la tecnologÌa que se pasan el dÌa vener·ndola. Son bastante horripilantes.}
-{25709}{}{Una ciudad primitiva que est· bastante al norte de aquÌ. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
-{25710}{}{Ese lugar infectado de ratas est· acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning˙n comerciante se atreverÌa a ir allÌ.}
+{25705}{}{Un lugar horripilante. Algunos dicen que lo frecuentan mutantes que se alimentan con sesos de humanos normales. Est√° en alg√∫n lugar al este del Eje.}
+{25706}{}{Algunas leyendas dicen que en un lugar al sudeste de aqu√≠ cay√≥ una cabeza nuclear.}
+{25707}{}{Est√° al norte de aqu√≠. Solemos comerciar bastante con ellos. Hay rumores de que Killian y Gizmo se atacan unos a otros todo el tiempo.}
+{25708}{}{Est√° al noroeste de aqu√≠. Son un pu√±ado de locos de la tecnolog√≠a que se pasan el d√≠a vener√°ndola. Son bastante horripilantes.}
+{25709}{}{Una ciudad primitiva que est√° bastante al norte de aqu√≠. No se sabe mucho de ellos, porque no tienen suficientes chapas para comerciar con nosotros.}
+{25710}{}{Ese lugar infectado de ratas est√° acribillado por las guerras de bandas. Si no fuera por todo el comercio con Adytum y los Pistoleros, ning√∫n comerciante se atrever√≠a a ir all√≠.}
 {25711}{}{Esos roban el agua para el Eje. Los Mercaderes de Agua controlan las torres.}
-{25712}{}{Ciudad Antigua est· en el lado noreste de la ciudad. Los ˙nicos que merodean por allÌ son mutis y yonquis. He oÌdo que hay un supuesto "CÌrculo de Ladrones" en alg˙n lugar de ahÌ.}
-{25713}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la ArmerÌa, la CompaÒÌa de CrÈdito Amistoso y el HalcÛn MaltÈs est·n en esa zona.}
-{25714}{}{Es el lugar de residencia de los mercaderes ricos. El lÌder de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme allÌ.}
-{25715}{}{Es un mito para asustar a los niÒos y hacer que se porten bien.}
-{25716}{}{No sÈ nada de eso.}
+{25712}{}{Ciudad Antigua est√° en el lado noreste de la ciudad. Los √∫nicos que merodean por all√≠ son mutis y yonquis. He o√≠do que hay un supuesto "C√≠rculo de Ladrones" en alg√∫n lugar de ah√≠.}
+{25713}{}{Es donde los Mercaderes venden cosas. Los Almacenes Todo en Uno, la Armer√≠a, la Compa√±√≠a de Cr√©dito Amistoso y el Halc√≥n Malt√©s est√°n en esa zona.}
+{25714}{}{Es el lugar de residencia de los mercaderes ricos. El l√≠der de los Mercaderes de Agua, Daren Hightower, tiene una casa enorme all√≠.}
+{25715}{}{Es un mito para asustar a los ni√±os y hacer que se porten bien.}
+{25716}{}{No s√© nada de eso.}
 {27400}{}{Adytum}
 {27401}{}{Seguidores}
 {27402}{}{Catedral}
@@ -3512,7 +3512,7 @@
 {27407}{}{Ciudad Vertedero}
 {27408}{}{Chip de Agua}
 {27409}{}{Cuchilla}
-{27410}{}{NecrÛpolis}
+{27410}{}{Necr√≥polis}
 {27411}{}{Ardor}
 {27412}{}{El Cementerio}
 {27413}{}{}
@@ -3603,17 +3603,17 @@
 {27498}{}{}
 {27499}{}{}
 {27500}{}{Es una ciudad situada al oeste.}
-{27501}{}{Un puÒado de imbÈciles.}
-{27502}{}{Son unos fan·ticos.}
-{27503}{}{°Nuestros malditos enemigos!}
-{27504}{}{°Esos somos nosotros!}
+{27501}{}{Un pu√±ado de imb√©ciles.}
+{27502}{}{Son unos fan√°ticos.}
+{27503}{}{¬°Nuestros malditos enemigos!}
+{27504}{}{¬°Esos somos nosotros!}
 {27505}{}{A veces nos venden armas.}
 {27506}{}{Creo que es un lugar para hacer negocios.}
 {27507}{}{Nunca he oido hablar de ello.}
-{27508}{}{øUn quÈ?}
-{27509}{}{Es nuestra jefa, °la perra con m·s malas pulgas de toda la ciudad!}
-{27510}{}{øNecro quÈ? Eso es enfermizo.}
-{27511}{}{Est·s bromeando, øverdad?}
+{27508}{}{¬øUn qu√©?}
+{27509}{}{Es nuestra jefa, ¬°la perra con m√°s malas pulgas de toda la ciudad!}
+{27510}{}{¬øNecro qu√©? Eso es enfermizo.}
+{27511}{}{Est√°s bromeando, ¬øverdad?}
 {27512}{}{Esto es el Cementerio.}
 {27600}{}{Adytum}
 {27601}{}{Seguidores}
@@ -3625,7 +3625,7 @@
 {27607}{}{Ciudad Vertedero}
 {27608}{}{Chip de Agua}
 {27609}{}{Cuchilla}
-{27610}{}{NecrÛpolis}
+{27610}{}{Necr√≥polis}
 {27611}{}{Ardor}
 {27612}{}{El Cementerio}
 {27613}{}{}
@@ -3715,18 +3715,18 @@
 {27697}{}{}
 {27698}{}{}
 {27699}{}{}
-{27700}{}{Es un pueblo de debiluchos que est· al sudoeste.}
-{27701}{}{PatÈticos predicadores de la paz, en direcciÛn oeste. Los machacarÌamos si no estuviÈsemos tan ocupados con los Destripadores.}
-{27702}{}{ExtraÒos religiosos. Inofensivos e in˙tiles.}
-{27703}{}{°Machacaremos pronto a nuestros grandes enemigos del oeste!}
-{27704}{}{°Nosotros somos los Navajas! °Nunca lo olvides!}
-{27705}{}{Durante un tiempo fueron una banda pero se volvieron dÈbiles. Pero venden buenas armas.}
+{27700}{}{Es un pueblo de debiluchos que est√° al sudoeste.}
+{27701}{}{Pat√©ticos predicadores de la paz, en direcci√≥n oeste. Los machacar√≠amos si no estuvi√©semos tan ocupados con los Destripadores.}
+{27702}{}{Extra√±os religiosos. Inofensivos e in√∫tiles.}
+{27703}{}{¬°Machacaremos pronto a nuestros grandes enemigos del oeste!}
+{27704}{}{¬°Nosotros somos los Navajas! ¬°Nunca lo olvides!}
+{27705}{}{Durante un tiempo fueron una banda pero se volvieron d√©biles. Pero venden buenas armas.}
 {27706}{}{Comerciantes y mercaderes.}
-{27707}{}{He oÌdo hablar de ese sitio pero no sÈ nada m·s.}
-{27708}{}{øUn quÈ?}
+{27707}{}{He o√≠do hablar de ese sitio pero no s√© nada m√°s.}
+{27708}{}{¬øUn qu√©?}
 {27709}{}{Cuchilla es la mejor guerrera de todos nosotros. Nos conduce hacia la victoria.}
-{27710}{}{Con esa historia de una ciudad llena de canÌbales solÌamos asustar a los niÒos.}
-{27711}{}{Debe ser donde cayÛ la cabeza nuclear.}
+{27710}{}{Con esa historia de una ciudad llena de can√≠bales sol√≠amos asustar a los ni√±os.}
+{27711}{}{Debe ser donde cay√≥ la cabeza nuclear.}
 {27712}{}{Esto es el Cementerio.}
 {27800}{}{Adytum}
 {27801}{}{Seguidores}
@@ -3738,7 +3738,7 @@
 {27807}{}{Ciudad Vertedero}
 {27808}{}{Chip de Agua}
 {27809}{}{Cuchilla}
-{27810}{}{NecrÛpolis}
+{27810}{}{Necr√≥polis}
 {27811}{}{Ardor}
 {27812}{}{El Cementerio}
 {27813}{}{}
@@ -3828,18 +3828,18 @@
 {27897}{}{}
 {27898}{}{}
 {27899}{}{}
-{27900}{}{No caigas en la trampa. Adytum parece un pequeÒo pueblo, pero sus Reguladores son muy duros.}
-{27901}{}{Hmph. No me provoques. No tienen el estÛmago ni el coraje necesarios para luchar.}
-{27902}{}{Se dedican al culto en una gran iglesia situada al sur. Parecen inofensivos, pero algo horrible se est· tramando allÌ.}
-{27903}{}{Los Destripadores son como perros sarnosos... viciosos, consanguÌneos y est˙pidos.}
-{27904}{}{øVes mi espada? Las hacemos nosotros mismos. Cada uno tiene la suya. De ahÌ nuestro nombre.}
+{27900}{}{No caigas en la trampa. Adytum parece un peque√±o pueblo, pero sus Reguladores son muy duros.}
+{27901}{}{Hmph. No me provoques. No tienen el est√≥mago ni el coraje necesarios para luchar.}
+{27902}{}{Se dedican al culto en una gran iglesia situada al sur. Parecen inofensivos, pero algo horrible se est√° tramando all√≠.}
+{27903}{}{Los Destripadores son como perros sarnosos... viciosos, consangu√≠neos y est√∫pidos.}
+{27904}{}{¬øVes mi espada? Las hacemos nosotros mismos. Cada uno tiene la suya. De ah√≠ nuestro nombre.}
 {27905}{}{Vinieron del Eje buscando tierras, pero decidieron convertirse en vendedores en vez de guerreros.}
-{27906}{}{Es una ciudad comercial situada al este. A veces vienen Mercaderes de allÌ para comerciar con Adytum y con los Pistoleros.}
-{27907}{}{Creo que est· al noreste de aquÌ. Es una ciudad pequeÒa.}
-{27908}{}{øUn quÈ?}
-{27909}{}{Cuchilla es nuestra lÌder y campeona. Estoy seguro de que su experiencia al final nos har· ganar a esos Destripadores.}
-{27910}{}{Est· bastante al este de aquÌ. Supuestamente, viven allÌ demonios que comen carne humana. No me gustarÌa tener que luchar contra esos necrÛfagos.}
-{27911}{}{Se supone que son las ruinas de un lugar en el que cayÛ una cabeza nuclear. Creo que est· hacia el sur.}
+{27906}{}{Es una ciudad comercial situada al este. A veces vienen Mercaderes de all√≠ para comerciar con Adytum y con los Pistoleros.}
+{27907}{}{Creo que est√° al noreste de aqu√≠. Es una ciudad peque√±a.}
+{27908}{}{¬øUn qu√©?}
+{27909}{}{Cuchilla es nuestra l√≠der y campeona. Estoy seguro de que su experiencia al final nos har√° ganar a esos Destripadores.}
+{27910}{}{Est√° bastante al este de aqu√≠. Supuestamente, viven all√≠ demonios que comen carne humana. No me gustar√≠a tener que luchar contra esos necr√≥fagos.}
+{27911}{}{Se supone que son las ruinas de un lugar en el que cay√≥ una cabeza nuclear. Creo que est√° hacia el sur.}
 {27912}{}{Esto es el Cementerio.}
 {28600}{}{Adytum}
 {28601}{}{Seguidores}
@@ -3941,15 +3941,15 @@
 {28697}{}{}
 {28698}{}{}
 {28699}{}{}
-{28700}{}{Un pequeÒo pueblo que est· al sur de aquÌ.}
-{28701}{}{Un grupo de hippies que est·n en el sur.}
-{28702}{}{øTe refieres a esos tipos con trajes marrones?}
+{28700}{}{Un peque√±o pueblo que est√° al sur de aqu√≠.}
+{28701}{}{Un grupo de hippies que est√°n en el sur.}
+{28702}{}{¬øTe refieres a esos tipos con trajes marrones?}
 {28703}{}{Una banda de provocadores del oeste.}
 {28704}{}{Una banda de ladronzuelos del este.}
-{28705}{}{øSÌ? øQuÈ?}
-{28706}{}{°Les compramos armas y te las vendemos directamente!}
-{28707}{}{SÌ, una pequeÒa ciudad al norte del Eje.}
-{28708}{}{øUn quÈ?}
+{28705}{}{¬øS√≠? ¬øQu√©?}
+{28706}{}{¬°Les compramos armas y te las vendemos directamente!}
+{28707}{}{S√≠, una peque√±a ciudad al norte del Eje.}
+{28708}{}{¬øUn qu√©?}
 {28709}{}{Esto es el Cementerio.}
 {28800}{}{Adytum}
 {28801}{}{Seguidores}
@@ -4051,15 +4051,15 @@
 {28897}{}{}
 {28898}{}{}
 {28899}{}{}
-{28900}{}{Es un pequeÒo pueblo situado al sur. Est· bastante bien fortificado.}
-{28901}{}{Un grupo de amantes de la paz que se esconden al sur de aquÌ. DeberÌamos deshacernos de ellos.}
-{28902}{}{Oh sÌ, eso viejos monjes locos. Est·n chiflados. Tienen una iglesia enorme al sur del Cementerio.}
-{28903}{}{°Eh, ser·n est˙pidos, pero compran un montÛn de armas!}
-{28904}{}{Siempre usan esos vibrocuchillos que fabrican. Me gustarÌa meterle las zarpas a uno. Al menos compran algunas armas.}
-{28905}{}{Est·s hablando con nosotros.}
+{28900}{}{Es un peque√±o pueblo situado al sur. Est√° bastante bien fortificado.}
+{28901}{}{Un grupo de amantes de la paz que se esconden al sur de aqu√≠. Deber√≠amos deshacernos de ellos.}
+{28902}{}{Oh s√≠, eso viejos monjes locos. Est√°n chiflados. Tienen una iglesia enorme al sur del Cementerio.}
+{28903}{}{¬°Eh, ser√°n est√∫pidos, pero compran un mont√≥n de armas!}
+{28904}{}{Siempre usan esos vibrocuchillos que fabrican. Me gustar√≠a meterle las zarpas a uno. Al menos compran algunas armas.}
+{28905}{}{Est√°s hablando con nosotros.}
 {28906}{}{Es un gran centro comercial situado al este. Comerciamos con los mercaderes del Eje para comprar y vender armas.}
-{28907}{}{Una pequeÒa ciudad al norte del Eje. Algo estricta.}
-{28908}{}{Nunca he oÌdo hablar de eso.}
+{28907}{}{Una peque√±a ciudad al norte del Eje. Algo estricta.}
+{28908}{}{Nunca he o√≠do hablar de eso.}
 {28909}{}{Estamos en la zona norte del Cementerio.}
 {29000}{}{Adytum}
 {29001}{}{Seguidores}
@@ -4161,13 +4161,13 @@
 {29097}{}{}
 {29098}{}{}
 {29099}{}{}
-{29100}{}{Es una pequeÒa ciudad situada al sur. No tratan con nosotros. No me importan nada.}
-{29101}{}{Intentan convertir a todos a su ideal de paz mientras se esconden en su biblioteca al sur. °No nos ayudan en los negocios!}
-{29102}{}{La Catedral es esa iglesia grande situada al sur del Cementerio, donde algunos rinden culto de forma extraÒa al Dios Oscuro. Creo que est·n locos.}
-{29103}{}{Los Destripadores son literalmente una gran familia. Es imposible tratar con ellos si no te conocen, asÌ que ni siquiera lo intentes. Viven en una gran fortaleza al sur de aquÌ. Si eres tan est˙pido como para ir, ten cuidado con las minas.}
-{29104}{}{Han convertido varios edificios pequeÒos del sudeste en su hogar. Est·n bastante bien organizados y son m·s listos que los Destripadores. A veces dejan que los forasteros se unan a ellos. Su lÌder, Cuchilla, es una mujer dura.}
+{29100}{}{Es una peque√±a ciudad situada al sur. No tratan con nosotros. No me importan nada.}
+{29101}{}{Intentan convertir a todos a su ideal de paz mientras se esconden en su biblioteca al sur. ¬°No nos ayudan en los negocios!}
+{29102}{}{La Catedral es esa iglesia grande situada al sur del Cementerio, donde algunos rinden culto de forma extra√±a al Dios Oscuro. Creo que est√°n locos.}
+{29103}{}{Los Destripadores son literalmente una gran familia. Es imposible tratar con ellos si no te conocen, as√≠ que ni siquiera lo intentes. Viven en una gran fortaleza al sur de aqu√≠. Si eres tan est√∫pido como para ir, ten cuidado con las minas.}
+{29104}{}{Han convertido varios edificios peque√±os del sudeste en su hogar. Est√°n bastante bien organizados y son m√°s listos que los Destripadores. A veces dejan que los forasteros se unan a ellos. Su l√≠der, Cuchilla, es una mujer dura.}
 {29105}{}{Esos somos nosotros. Sacamos bastantes chapas vendiendo armas a los Navajas y a los Destripadores.}
-{29106}{}{Esa es la ciudad comercial situada al este de aquÌ donde conseguimos nuestras armas y comerciamos. EnvÌan caravanas a todos sitios. Probablemente podr·s viajar con una caravana cuando se pare en Adytum.}
-{29107}{}{Es una pequeÒa ciudad fronteriza situada al norte del Eje. Hay un Casino enorme allÌ, pero el Sheriff es demasiado autoritario.}
+{29106}{}{Esa es la ciudad comercial situada al este de aqu√≠ donde conseguimos nuestras armas y comerciamos. Env√≠an caravanas a todos sitios. Probablemente podr√°s viajar con una caravana cuando se pare en Adytum.}
+{29107}{}{Es una peque√±a ciudad fronteriza situada al norte del Eje. Hay un Casino enorme all√≠, pero el Sheriff es demasiado autoritario.}
 {29108}{}{No tengo ni idea de lo que es.}
-{29109}{}{Esta es la zona norte del Cementerio. Es gracioso, la gente de fuera usa la expresiÛn "Morder el polvo". Pero cuando te acostumbras a vivir aquÌ no est· tan mal.}
+{29109}{}{Esta es la zona norte del Cementerio. Es gracioso, la gente de fuera usa la expresi√≥n "Morder el polvo". Pero cuando te acostumbras a vivir aqu√≠ no est√° tan mal.}

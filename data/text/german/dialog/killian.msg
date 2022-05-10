@@ -24,7 +24,7 @@
 {123}{Kill02}{The name's Killian. Killian Darkwater. I'm the mayor of this fine town. And who might you be?}
 {124}{}{Ich bin }
 {125}{}{.}
-{126}{}{Ich heiﬂe }
+{126}{}{Ich hei√üe }
 {127}{}{. I come from up north.}
 {128}{}{What's it to you?}
 {129}{Kill03}{Not much up that way 'cept desert and Shady Sands. You from there?}

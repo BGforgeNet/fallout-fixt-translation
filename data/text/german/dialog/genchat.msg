@@ -10,7 +10,7 @@
 {109}{}{See ya 'round.}
 {110}{}{Take it easy.}
 {111}{}{It's been fun.}
-{112}{}{Bitte schön.}
+{112}{}{Bitte schÃ¶n.}
 {113}{}{Noch irgendwas?}
 {114}{}{Ja.}
 {115}{}{Nein.}
@@ -66,7 +66,7 @@
 {165}{}{Your Intelligence has increased by 1 point.}
 {166}{}{Your Agility has increased by 1 point.}
 {167}{}{Your Luck has increased by 1 point.}
-{168}{}{Danke für die Hilfe.}
+{168}{}{Danke fÃ¼r die Hilfe.}
 {169}{}{Thanks for nothing.}
 {170}{}{Your attempt to equip human armor has failed; the armor is destroyed.}
 {171}{}{I believe the Master wishes to speak with you.}

@@ -1,3 +1,3 @@
-{100}{}{Tu découvres un loquet et tu l'ouvres.}
-{101}{}{L'étagère pivote lentement.}
-{102}{}{On voit qu'elle a été graissée récemment.}
+{100}{}{Tu dÃ©couvres un loquet et tu l'ouvres.}
+{101}{}{L'Ã©tagÃ¨re pivote lentement.}
+{102}{}{On voit qu'elle a Ã©tÃ© graissÃ©e rÃ©cemment.}

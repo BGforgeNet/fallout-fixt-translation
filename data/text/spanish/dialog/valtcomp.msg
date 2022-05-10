@@ -1,3 +1,3 @@
-{100}{}{Podr韆s obtener m醩 informaci髇 de este terminal con una aproximaci髇 m醩 cient韋ica.}
-{101}{}{Este terminal regula las funciones y suministros del Refugio y realiza trabajos rutinarios de administraci髇.}
-{102}{}{Los terminales de este nivel se encargan del control de la temperatura y la atm髎fera. Tambi閚 refuerzan el mantenimiento del laboratorio m閐ico.}
+{100}{}{Podr铆as obtener m谩s informaci贸n de este terminal con una aproximaci贸n m谩s cient铆fica.}
+{101}{}{Este terminal regula las funciones y suministros del Refugio y realiza trabajos rutinarios de administraci贸n.}
+{102}{}{Los terminales de este nivel se encargan del control de la temperatura y la atm贸sfera. Tambi茅n refuerzan el mantenimiento del laboratorio m茅dico.}

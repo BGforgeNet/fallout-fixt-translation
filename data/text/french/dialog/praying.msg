@@ -1,9 +1,9 @@
-{100}{}{Voici des mutants et des Enfants agenouillés devant un écran vidéo.}
+{100}{}{Voici des mutants et des Enfants agenouillÃ©s devant un Ã©cran vidÃ©o.}
 {101}{}{Prie avec nous pour la paix, mon enfant.}
-{102}{}{L'Unité vaincra si nous sommes forts. Médite sur la qualité de la force.}
-{103}{}{Pour mener à bien notre mission et sauver l'humanité, nous devons avoir la foi. Prie avec nous.}
-{104}{}{Impie ! Tu blasphèmes ! Ta punition sera terrible !}
-{105}{}{Nous devons prier pour être forts ! Le changement est proche.}
-{106}{}{L'Unité est notre avenir, mon frère.}
-{107}{}{L'Unité est notre avenir, ma soeur.}
-{108}{}{Je crois en notre Maître. Il est notre salut.}
+{102}{}{L'UnitÃ© vaincra si nous sommes forts. MÃ©dite sur la qualitÃ© de la force.}
+{103}{}{Pour mener Ã  bien notre mission et sauver l'humanitÃ©, nous devons avoir la foi. Prie avec nous.}
+{104}{}{Impie ! Tu blasphÃ¨mes ! Ta punition sera terrible !}
+{105}{}{Nous devons prier pour Ãªtre forts ! Le changement est proche.}
+{106}{}{L'UnitÃ© est notre avenir, mon frÃ¨re.}
+{107}{}{L'UnitÃ© est notre avenir, ma soeur.}
+{108}{}{Je crois en notre MaÃ®tre. Il est notre salut.}

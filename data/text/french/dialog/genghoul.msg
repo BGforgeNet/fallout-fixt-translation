@@ -1,4 +1,4 @@
-{100}{}{Tu vois un Goule zombifié.}
+{100}{}{Tu vois un Goule zombifiÃ©.}
 {101}{}{Tu vois un zombie.}
 {102}{}{Ugh.}
 {103}{}{Ceeerrrveeellle}
@@ -13,9 +13,9 @@
 {112}{}{*gargouillis*}
 {113}{}{Mmmm}
 {114}{}{*grogne*}
-{200}{}{Vous examinez la chose pitoyable, mais ne comprenez pas ce qui pourrait l'avoir rendu comme ça.}
-{201}{}{Il semble avoir été autrefois humain, ou avoir des origines humaines. Vous supposez que la détérioration de l'organisme est probablement dûe à de l'acide ou aux radiations.}
-{202}{}{L'organisme de l'humanoïde paraît fortement irradié, mais toujours en fonctionnement. Jadis il était un homme, il semble avoir maintenant trouvé un style de vie plus animal.}
-{203}{}{Le corps de l'humanoïde a l'air très irradié et les muscles et le cerveau semblent détériorés. Pourtant, d'après les indicateurs génétiques, tu penses qu'il descend, comme toi, des êtres entrés dans les Abris.}
-{204}{}{La misérable créature est grandement irradiée. Tu n'arrives pas à savoir si sa folie est dû à l'enfermement ou aux dégâts irrémédiables causés à son cerveau par les radiations.}
-{205}{}{Le corps de la créature est grandement irradié, cependant elle a conservé assez de matière grise et de fonction motrice pour pouvoir parler.}
+{200}{}{Vous examinez la chose pitoyable, mais ne comprenez pas ce qui pourrait l'avoir rendu comme Ã§a.}
+{201}{}{Il semble avoir Ã©tÃ© autrefois humain, ou avoir des origines humaines. Vous supposez que la dÃ©tÃ©rioration de l'organisme est probablement dÃ»e Ã  de l'acide ou aux radiations.}
+{202}{}{L'organisme de l'humanoÃ¯de paraÃ®t fortement irradiÃ©, mais toujours en fonctionnement. Jadis il Ã©tait un homme, il semble avoir maintenant trouvÃ© un style de vie plus animal.}
+{203}{}{Le corps de l'humanoÃ¯de a l'air trÃ¨s irradiÃ© et les muscles et le cerveau semblent dÃ©tÃ©riorÃ©s. Pourtant, d'aprÃ¨s les indicateurs gÃ©nÃ©tiques, tu penses qu'il descend, comme toi, des Ãªtres entrÃ©s dans les Abris.}
+{204}{}{La misÃ©rable crÃ©ature est grandement irradiÃ©e. Tu n'arrives pas Ã  savoir si sa folie est dÃ» Ã  l'enfermement ou aux dÃ©gÃ¢ts irrÃ©mÃ©diables causÃ©s Ã  son cerveau par les radiations.}
+{205}{}{Le corps de la crÃ©ature est grandement irradiÃ©, cependant elle a conservÃ© assez de matiÃ¨re grise et de fonction motrice pour pouvoir parler.}

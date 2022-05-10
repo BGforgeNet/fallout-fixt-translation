@@ -1,5 +1,5 @@
-{100}{}{Un cadavre congelé.}
+{100}{}{Un cadavre congelÃ©.}
 {101}{}{Il n'est manifestement pas d'origine terrestre.}
-{102}{}{Ce corps pourrait bien résulter d'une quelconque expérience génétique.}
+{102}{}{Ce corps pourrait bien rÃ©sulter d'une quelconque expÃ©rience gÃ©nÃ©tique.}
 {103}{}{Quoi ? C'est un corps mort.}
-{104}{}{Ce corps congelé est bizarre.}
+{104}{}{Ce corps congelÃ© est bizarre.}

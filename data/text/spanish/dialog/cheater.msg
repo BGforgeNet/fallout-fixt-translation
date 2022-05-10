@@ -1,74 +1,74 @@
-{100}{}{¿Quieres entrar en el modo debug? [Si no estás seguro, cliquea No]}
+{100}{}{Â¿Quieres entrar en el modo debug? [Si no estÃ¡s seguro, cliquea No]}
 {101}{}{1  Hacer retroceder el reloj.}
-{102}{}{Vale. ¿Cuánto? [Los números al principio son aquellos que puedes presionar para hacer una selección]}
+{102}{}{Vale. Â¿CuÃ¡nto? [Los nÃºmeros al principio son aquellos que puedes presionar para hacer una selecciÃ³n]}
 {103}{}{1    Un segundo  [10 ticks]}
 {104}{}{2    Un minuto}
 {105}{}{3    Una hora}
-{106}{}{4    Un día}
+{106}{}{4    Un dÃ­a}
 {107}{}{5    Una semana}
-{108}{}{6    Un mes [30 días]}
+{108}{}{6    Un mes [30 dÃ­as]}
 {109}{}{7    Seis meses}
-{110}{}{9    Olvídalo.}
+{110}{}{9    OlvÃ­dalo.}
 {111}{}{2  Adelantar el reloj.}
-{112}{}{Vale. ¿Cuánto? [Los números al principio son aquellos que puedes presionar para hacer una selección]}
+{112}{}{Vale. Â¿CuÃ¡nto? [Los nÃºmeros al principio son aquellos que puedes presionar para hacer una selecciÃ³n]}
 {113}{}{1    Un segundo  [10 ticks]}
 {114}{}{2    Un minuto}
 {115}{}{3    Una hora}
-{116}{}{4    Un día}
+{116}{}{4    Un dÃ­a}
 {117}{}{5    Una semana}
-{118}{}{6    Un mes [30 días]}
+{118}{}{6    Un mes [30 dÃ­as]}
 {119}{}{7    Seis meses}
-{120}{}{9    Olvídalo.}
+{120}{}{9    OlvÃ­dalo.}
 {121}{}{7  Dame todas las llaves del juego.}
-{122}{}{¿En una mochila o directamente en tu inventario?}
+{122}{}{Â¿En una mochila o directamente en tu inventario?}
 {123}{}{1    En una mochila.}
 {124}{}{2    En mi inventario.}
 {125}{}{3    No importa.}
-{126}{}{8    13 años}
-{127}{}{8    13 años}
+{126}{}{8    13 aÃ±os}
+{127}{}{8    13 aÃ±os}
 {128}{}{7 Dar elementos (por tipo)}
-{129}{}{1 Pruebas De Armas Y Munición}
+{129}{}{1 Pruebas De Armas Y MuniciÃ³n}
 {130}{}{2  Drogas}
 {131}{}{3 Alimentos (incluidos los nuevos Fixt queridos)}
 {132}{}{4 Teclas (en el inventario o en la mochila)}
-{133}{}{5 900000 Tapas De Botella (Y Un Pequeño Bolso, Bolsa, Mochila)}
+{133}{}{5 900000 Tapas De Botella (Y Un PequeÃ±o Bolso, Bolsa, Mochila)}
 {134}{}{6 Explosivos & Armas Arrojadizas}
 {135}{}{7  Libros}
 {136}{}{8 Holodisks (& Radio)}
 {137}{}{9  Armadura}
-{138}{}{Cada una de estas selecciones, incluyendo Munición, excepto "las Pruebas de Armas", le da TODOS los elementos de esa categoría.}
-{139}{}{1 Sí, y eliminar el inventario actual en primer lugar.}
-{140}{}{2  Sí.}
+{138}{}{Cada una de estas selecciones, incluyendo MuniciÃ³n, excepto "las Pruebas de Armas", le da TODOS los elementos de esa categorÃ­a.}
+{139}{}{1 SÃ­, y eliminar el inventario actual en primer lugar.}
+{140}{}{2  SÃ­.}
 {141}{}{3  No. [volver]}
-{142}{}{Dar Pruebas De Armas Y Toda La Munición?}
+{142}{}{Dar Pruebas De Armas Y Toda La MuniciÃ³n?}
 {143}{}{Dar A Todos Los Medicamentos?}
 {144}{}{Dar a Todos los Alimentos (incluidos los nuevos Fixt queridos)?}
 {145}{}{Dar Todas las Claves (en el inventario o en la mochila)?}
-{146}{}{Dar 900000 Tapas De Botella (Y Un Pequeño Bolso, Bolsa, Mochila)?}
+{146}{}{Dar 900000 Tapas De Botella (Y Un PequeÃ±o Bolso, Bolsa, Mochila)?}
 {147}{}{Dar A Todos Los Explosivos Y Armas Arrojadizas?}
 {148}{}{Dar A Todos Los Libros?}
 {149}{}{Dar A Todos Los Holodisks (Y Radio)?}
-{150}{}{¿Dar toda la armadura?}
-{200}{}{¿Qué Trucos puedo hacer por ti hoy?}
+{150}{}{Â¿Dar toda la armadura?}
+{200}{}{Â¿QuÃ© Trucos puedo hacer por ti hoy?}
 {201}{}{1  Puntos de Experiencia.}
-{202}{}{2  Daño, Veneno, Radiación.}
+{202}{}{2  DaÃ±o, Veneno, RadiaciÃ³n.}
 {203}{}{6    Veneno}
-{204}{}{7    Radiación}
-{205}{}{3  Borrar TODOS los objetos de mi inventario - ¡Incluye los equipados!}
+{204}{}{7    RadiaciÃ³n}
+{205}{}{3  Borrar TODOS los objetos de mi inventario - Â¡Incluye los equipados!}
 {206}{}{4  Activar/desactivar la variable global "BUG FIXES ONLY" [gvar 0]}
 {207}{}{8  Nada. [cerrar ventana]}
-{208}{}{Modo "Fixes Only" actualmente ACTIVADO. ¿Desactivar?}
-{209}{}{1    Sí, desactívalo.}
+{208}{}{Modo "Fixes Only" actualmente ACTIVADO. Â¿Desactivar?}
+{209}{}{1    SÃ­, desactÃ­valo.}
 {210}{}{2    No. [volver]}
-{211}{}{Modo "Fixes Only" actualmente DESACTIVADO. ¿Activar?}
-{212}{}{1    Sí, activar.}
+{211}{}{Modo "Fixes Only" actualmente DESACTIVADO. Â¿Activar?}
+{212}{}{1    SÃ­, activar.}
 {213}{}{antes: }
-{214}{}{después: }
+{214}{}{despuÃ©s: }
 {215}{}{[Te entrega un Burrito Supremo] Disfruta tu carne de alta calidad.}
 {216}{}{Ahora resplandeces como una bombilla de 50-rads.}
 {217}{}{Hecho.}
 {221}{}{[Sonriendo viciosamente] Me ha gustado "ayudarte".}
-{222}{}{¿Cómo puedo abusar de ti hoy?}
+{222}{}{Â¿CÃ³mo puedo abusar de ti hoy?}
 {223}{}{1    Romper pierna izquierda}
 {224}{}{2    Romper pierna derecha}
 {225}{}{3    Romper brazo izquierda}
@@ -77,7 +77,7 @@
 {228}{}{8 sanar por completo, retire todo el veneno, quitar TODOS los rads.}
 {229}{}{PROBAR PANECILLOS (mmm, panecillos)}
 {230}{}{Hecho.}
-{231}{}{mensaje aquí}
+{231}{}{mensaje aquÃ­}
 {232}{}{1    500}
 {233}{}{2    mil}
 {234}{}{3    5 mil}
@@ -87,9 +87,9 @@
 {238}{}{7    5 mil negativo}
 {239}{}{8    No importa}
 {240}{}{Vale, los tienes.}
-{241}{}{¿Cuántos puntos de exp. quieres? [Los números al principio son aquellos que puedes presionar para hacer una selección]}
+{241}{}{Â¿CuÃ¡ntos puntos de exp. quieres? [Los nÃºmeros al principio son aquellos que puedes presionar para hacer una selecciÃ³n]}
 {242}{}{9    Puntos de salud.}
-{243}{}{Vale, ¿cuántos PS quieres perder?}
+{243}{}{Vale, Â¿cuÃ¡ntos PS quieres perder?}
 {244}{}{1    Un PS.}
 {245}{}{2    Cinco PS.}
 {246}{}{3    Diez PS.}
@@ -97,46 +97,46 @@
 {248}{}{5    Treinta PS.}
 {249}{}{6    Cuarenta PS.}
 {250}{}{7    Cincuenta PS.}
-{251}{}{9    999 PS. (mátame...)}
+{251}{}{9    999 PS. (mÃ¡tame...)}
 {252}{}{9  Teletransportarse a otro mapa...}
-{253}{}{1    Necrópolis - Hotel}
+{253}{}{1    NecrÃ³polis - Hotel}
 {254}{}{2    Refugio 13 - Interior}
 {255}{}{3    Ciudad Vertedero - Casino}
 {256}{}{4    La Hermandad - 1/2}
 {257}{}{5    Base Militar - Tanques}
-{258}{}{6    Arenas Sombrías - Oeste}
+{258}{}{6    Arenas SombrÃ­as - Oeste}
 {259}{}{7    El Eje - Centro}
 {260}{}{8    No importa.}
 {261}{}{9    Guarida del Maestro - 3/4}
-{262}{}{¿Vale, que mapa?}
+{262}{}{Â¿Vale, que mapa?}
 {263}{}{5  Modificar tiempo del juego (adelantar o atrasar)}
 {264}{}{6  Dame los objetos de trucos debug (muchos)}
-{265}{}{Sí. (También se elimina todo el inventario existente y están equipadas)}
-{266}{}{¿Vale, adelantar o atrasar?}
-{267}{}{¿Estás segura?}
+{265}{}{SÃ­. (TambiÃ©n se elimina todo el inventario existente y estÃ¡n equipadas)}
+{266}{}{Â¿Vale, adelantar o atrasar?}
+{267}{}{Â¿EstÃ¡s segura?}
 {268}{}{No. [volver]}
-{269}{}{1  Necrópolis,  Refugio 13,  Refugio 15}
+{269}{}{1  NecrÃ³polis,  Refugio 13,  Refugio 15}
 {270}{}{2  Ciudad Vertedero,  Hermandad del Acero,  Ciudad}
-{271}{}{3  Niños de la Catedral, Refugio del Maestro, Costa, Montaña}
+{271}{}{3  NiÃ±os de la Catedral, Refugio del Maestro, Costa, MontaÃ±a}
 {272}{}{4  El Eje}
 {273}{}{5  Adytum, Cementerio,  Saqueadores}
-{274}{}{6  Arenas Sombrías,  Base Militar, CHILDEAD}
+{274}{}{6  Arenas SombrÃ­as,  Base Militar, CHILDEAD}
 {275}{}{7  El Ardor,  Desierto}
 {276}{}{8  Caravanas}
 {277}{}{9  Especiales}
-{278}{}{9    Olvídalo.}
-{279}{}{7    Olvídalo.}
+{278}{}{9    OlvÃ­dalo.}
+{279}{}{7    OlvÃ­dalo.}
 {280}{}{8    Reproducir las diapositivas de fin de juego.}
 {300}{}{DESERT1.MAP}
 {301}{}{DESERT2.MAP}
 {302}{}{DESERT3.MAP}
-{303}{}{Necrópolis - HALLDED.MAP}
-{304}{}{Necrópolis - HOTEL.MAP}
-{305}{}{Necrópolis - WATRSHD.MAP}
+{303}{}{NecrÃ³polis - HALLDED.MAP}
+{304}{}{NecrÃ³polis - HOTEL.MAP}
+{305}{}{NecrÃ³polis - WATRSHD.MAP}
 {306}{}{Refugio 13 - VAULT13.MAP}
 {307}{}{Refugio quince - VAULTENT.MAP}
 {308}{}{Refugio quince - VAULTBUR.MAP}
-{309}{}{Necrópolis - VAULTNEC.MAP}
+{309}{}{NecrÃ³polis - VAULTNEC.MAP}
 {310}{}{JUNKENT.MAP}
 {311}{}{JUNKCSNO.MAP}
 {312}{}{JUNKKILL.MAP}

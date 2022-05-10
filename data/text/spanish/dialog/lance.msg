@@ -1,109 +1,109 @@
-{100}{}{Estás viendo a un viajero fatigado.}
-{101}{}{Ves: a Lance, uno de los guardias de las patrullas armadas de Arenas Sombrías.}
-{102}{}{Quédate donde estás. Hemos oído hablar de ti en Arenas Sombrías y no queremos saber nada de ti.}
-{103}{}{Lo único que quiero de ti es lo que llevas. Baja el arma.}
+{100}{}{EstÃ¡s viendo a un viajero fatigado.}
+{101}{}{Ves: a Lance, uno de los guardias de las patrullas armadas de Arenas SombrÃ­as.}
+{102}{}{QuÃ©date donde estÃ¡s. Hemos oÃ­do hablar de ti en Arenas SombrÃ­as y no queremos saber nada de ti.}
+{103}{}{Lo Ãºnico que quiero de ti es lo que llevas. Baja el arma.}
 {104}{}{Soy un hombre de paz, amigo.}
-{105}{}{Oye, ¿acaso no salvé a Tandi y maté a todos tus escorpiones rad?}
-{106}{}{No tengo quejas de Arenas Sombrías. Me gusta ese lugar.}
-{107}{}{¿Qué dices?}
-{108}{}{He oído hablar de ti y no voy a dejar que me mates.}
+{105}{}{Oye, Â¿acaso no salvÃ© a Tandi y matÃ© a todos tus escorpiones rad?}
+{106}{}{No tengo quejas de Arenas SombrÃ­as. Me gusta ese lugar.}
+{107}{}{Â¿QuÃ© dices?}
+{108}{}{He oÃ­do hablar de ti y no voy a dejar que me mates.}
 {109}{}{No tengo nada que decirte.}
-{110}{}{¿Sí? ¿Qué quieres ahora?}
-{111}{}{¿Sabes dónde podría encontrar un Chip de Agua?}
-{112}{}{¿Algún rastro de Tandi?}
-{113}{}{¿Problemas con los saqueadores últimamente?}
-{114}{}{¿Cómo van las cosas en Arenas Sombrías?}
-{115}{}{¡Unn!}
-{116}{}{Hola, extranjero. ¿Qué haces en el yermo? ¿De dónde vienes?}
-{117}{}{Podría preguntarte lo mismo.}
-{118}{}{Lo siento, amigo, pero tengo la impresión de que es bastante peligroso contestar a esta pregunta.}
-{119}{}{¿Te conoces algún sitio bueno para obtener suministros?}
-{120}{}{Vengo de un Refugio. ¡El Afortunado Refugio 13!}
-{121}{}{¿Ehhh?}
+{110}{}{Â¿SÃ­? Â¿QuÃ© quieres ahora?}
+{111}{}{Â¿Sabes dÃ³nde podrÃ­a encontrar un Chip de Agua?}
+{112}{}{Â¿AlgÃºn rastro de Tandi?}
+{113}{}{Â¿Problemas con los saqueadores Ãºltimamente?}
+{114}{}{Â¿CÃ³mo van las cosas en Arenas SombrÃ­as?}
+{115}{}{Â¡Unn!}
+{116}{}{Hola, extranjero. Â¿QuÃ© haces en el yermo? Â¿De dÃ³nde vienes?}
+{117}{}{PodrÃ­a preguntarte lo mismo.}
+{118}{}{Lo siento, amigo, pero tengo la impresiÃ³n de que es bastante peligroso contestar a esta pregunta.}
+{119}{}{Â¿Te conoces algÃºn sitio bueno para obtener suministros?}
+{120}{}{Vengo de un Refugio. Â¡El Afortunado Refugio 13!}
+{121}{}{Â¿Ehhh?}
 {122}{}{Hola, forastero. Te aconsejo que no te quedes quieto, si sabes lo que te conviene.}
 {123}{}{Hola, }
-{124}{}{. Pensé que eras nuestro amigo cuando rescataste a Tandi. Pero acabo de oír rumores desagradables sobre ti. ¿Son ciertos?}
-{125}{}{La gente dice muchas cosas. ¿A quién le importa?}
-{126}{}{No soy tu amigo. Y si mueves una oreja, te volaré los sesos. ¿Entendido?}
-{127}{}{¿Qué tipo de rumores?}
-{128}{}{Sí. Son ciertos. Ahora desnúdate para que pueda coger lo que tienes.}
-{129}{}{Puede que haya hecho cosas de las que me arrepienta, pero, ¿no tienes mejor que hacer que escuchar esas tonterías?}
-{130}{}{¡Me alegra que seas tú y no un saqueador! ¿Qué tal? Soy Lance, uno de los guardias de Arenas Sombrías. Lamento la bienvenida que te dimos la primera vez que viniste a la ciudad.}
-{131}{}{Hola, Lance. ¿Cómo va todo?}
-{132}{}{Hola, Lance. Yo era una buena persona, pero la vida me ha maltratado. Ahora desnúdate y dame lo que tengas.}
-{133}{}{No te canses, Lance. ¿Qué haces aquí tan solo?}
-{134}{}{Vale. Pero lo tendré en cuenta.}
+{124}{}{. PensÃ© que eras nuestro amigo cuando rescataste a Tandi. Pero acabo de oÃ­r rumores desagradables sobre ti. Â¿Son ciertos?}
+{125}{}{La gente dice muchas cosas. Â¿A quiÃ©n le importa?}
+{126}{}{No soy tu amigo. Y si mueves una oreja, te volarÃ© los sesos. Â¿Entendido?}
+{127}{}{Â¿QuÃ© tipo de rumores?}
+{128}{}{SÃ­. Son ciertos. Ahora desnÃºdate para que pueda coger lo que tienes.}
+{129}{}{Puede que haya hecho cosas de las que me arrepienta, pero, Â¿no tienes mejor que hacer que escuchar esas tonterÃ­as?}
+{130}{}{Â¡Me alegra que seas tÃº y no un saqueador! Â¿QuÃ© tal? Soy Lance, uno de los guardias de Arenas SombrÃ­as. Lamento la bienvenida que te dimos la primera vez que viniste a la ciudad.}
+{131}{}{Hola, Lance. Â¿CÃ³mo va todo?}
+{132}{}{Hola, Lance. Yo era una buena persona, pero la vida me ha maltratado. Ahora desnÃºdate y dame lo que tengas.}
+{133}{}{No te canses, Lance. Â¿QuÃ© haces aquÃ­ tan solo?}
+{134}{}{Vale. Pero lo tendrÃ© en cuenta.}
 {135}{}{Encima de ti.}
-{136}{}{Ahórrate las amenazas absurdas, colega. Asesino a tíos como tú dormido. Dame todo lo que llevas y te dejaré vivir.}
-{137}{}{Si realmente piensas que soy una amenaza, adelante, mátame.}
-{138}{}{Me arriesgaré. Siempre he querido saber cómo son mis tripas.}
-{139}{}{Los tiempos han cambiado. ¿Qué has hecho por nosotros últimamente? Creo que será mejor que te marches antes de que me enfade.}
-{140}{}{A nosotros también nos gusta. Sobre todo cuando no estás dentro. ¡Ahora vete de aquí!}
-{141}{}{Tío, ¡te habrás quedado demasiado tiempo en el Ardor!}
-{142}{}{No sé qué es un Chip de Agua. Adiós.}
-{143}{}{Es un dispositivo electrónico que se usa para purificar los sistemas de agua.}
-{144}{}{¿Por dónde va el problema de los escorpiones rad?}
-{145}{}{La tienen los saqueadores. Formo parte de una de las expediciones de rescate. Creo que está en el campamento de los saqueadores, al sur de Arenas Sombrías, pero los Khans lo han convertido en una fortaleza.}
-{146}{}{¿Puedes llevarme a Arenas Sombrías?}
-{147}{}{¿Puedes llevarme al campamento de los Khans?}
+{136}{}{AhÃ³rrate las amenazas absurdas, colega. Asesino a tÃ­os como tÃº dormido. Dame todo lo que llevas y te dejarÃ© vivir.}
+{137}{}{Si realmente piensas que soy una amenaza, adelante, mÃ¡tame.}
+{138}{}{Me arriesgarÃ©. Siempre he querido saber cÃ³mo son mis tripas.}
+{139}{}{Los tiempos han cambiado. Â¿QuÃ© has hecho por nosotros Ãºltimamente? Creo que serÃ¡ mejor que te marches antes de que me enfade.}
+{140}{}{A nosotros tambiÃ©n nos gusta. Sobre todo cuando no estÃ¡s dentro. Â¡Ahora vete de aquÃ­!}
+{141}{}{TÃ­o, Â¡te habrÃ¡s quedado demasiado tiempo en el Ardor!}
+{142}{}{No sÃ© quÃ© es un Chip de Agua. AdiÃ³s.}
+{143}{}{Es un dispositivo electrÃ³nico que se usa para purificar los sistemas de agua.}
+{144}{}{Â¿Por dÃ³nde va el problema de los escorpiones rad?}
+{145}{}{La tienen los saqueadores. Formo parte de una de las expediciones de rescate. Creo que estÃ¡ en el campamento de los saqueadores, al sur de Arenas SombrÃ­as, pero los Khans lo han convertido en una fortaleza.}
+{146}{}{Â¿Puedes llevarme a Arenas SombrÃ­as?}
+{147}{}{Â¿Puedes llevarme al campamento de los Khans?}
 {148}{}{Tenemos que encontrar una forma de salvarla.}
-{149}{}{Gracias por la información. Buena suerte con la búsqueda.}
-{150}{}{Oh, sí, pero van mejor las cosas desde que les pegaron una paliza a los Khans. Creo que tenemos que darte las gracias y que tenemos que estarte agradecidos por ello.}
-{151}{}{No me importaría ver un poco de agradecimiento.}
-{152}{}{Gracias. ¿Hay algo más que pueda hacer?}
-{153}{}{Si te molestan de nuevo, dímelo.}
+{149}{}{Gracias por la informaciÃ³n. Buena suerte con la bÃºsqueda.}
+{150}{}{Oh, sÃ­, pero van mejor las cosas desde que les pegaron una paliza a los Khans. Creo que tenemos que darte las gracias y que tenemos que estarte agradecidos por ello.}
+{151}{}{No me importarÃ­a ver un poco de agradecimiento.}
+{152}{}{Gracias. Â¿Hay algo mÃ¡s que pueda hacer?}
+{153}{}{Si te molestan de nuevo, dÃ­melo.}
 {154}{}{Lo estamos haciendo bien.}
-{155}{}{¿Estás seguro de eso?}
-{156}{}{Fantástico.}
+{155}{}{Â¿EstÃ¡s seguro de eso?}
+{156}{}{FantÃ¡stico.}
 {157}{}{No tengo ni idea, idiota.}
-{158}{}{Vale. Confiaré en ti. Soy de Arenas Sombrías. Somos una comunidad cerca de aquí.}
-{159}{}{¿Podrías llevarme allí?}
-{160}{}{¿Cómo es la ciudad?}
-{161}{}{¿Hay algún Chip de Agua allí?}
+{158}{}{Vale. ConfiarÃ© en ti. Soy de Arenas SombrÃ­as. Somos una comunidad cerca de aquÃ­.}
+{159}{}{Â¿PodrÃ­as llevarme allÃ­?}
+{160}{}{Â¿CÃ³mo es la ciudad?}
+{161}{}{Â¿Hay algÃºn Chip de Agua allÃ­?}
 {162}{}{Parece un lugar bonito.}
-{163}{}{Bien, tú guardas tus secretos. Yo guardaré los míos. Adiós.}
+{163}{}{Bien, tÃº guardas tus secretos. Yo guardarÃ© los mÃ­os. AdiÃ³s.}
 {164}{}{Puede ser. Aunque es una pena.}
-{165}{}{He estado en Ciudad Vertedero. Creo que está al sudoeste de aquí, pero llevo viajando muchos días y no estoy seguro.}
-{166}{}{Sí, claro. Todos los Refugios fueron destruidos según tengo entendido. Cuéntame otra historia.}
-{167}{}{Eso no es lo que preguntaba... oh, ¡no importa!}
-{168}{}{Eso no es una respuesta. Ellos te llaman asesino, ladrón, ultrajador de tumbas. Dicen que matas a todo el que se interponga en tu camino. ¿Es cierto?}
-{169}{}{Bien, aún no te he matado, por lo que obviamente alguien miente.}
-{170}{}{Mucho: he pasado momentos de absoluta diversión.}
+{165}{}{He estado en Ciudad Vertedero. Creo que estÃ¡ al sudoeste de aquÃ­, pero llevo viajando muchos dÃ­as y no estoy seguro.}
+{166}{}{SÃ­, claro. Todos los Refugios fueron destruidos segÃºn tengo entendido. CuÃ©ntame otra historia.}
+{167}{}{Eso no es lo que preguntaba... oh, Â¡no importa!}
+{168}{}{Eso no es una respuesta. Ellos te llaman asesino, ladrÃ³n, ultrajador de tumbas. Dicen que matas a todo el que se interponga en tu camino. Â¿Es cierto?}
+{169}{}{Bien, aÃºn no te he matado, por lo que obviamente alguien miente.}
+{170}{}{Mucho: he pasado momentos de absoluta diversiÃ³n.}
 {171}{}{Me he ganado muchos enemigos pero he dejado a muchos vivos que me calumnian ahora.}
-{172}{}{He matado a unos cuantos, sí. Pero siempre tenía una razón.}
-{173}{}{Ellos te llaman asesina, ladrona y ultrajadora de tumbas. Dicen que matas a todo el que se interponga en tu camino. ¿Es cierto?}
-{174}{}{Vale, lo haré. Pero si sigues comportándote como un saqueador, morirás como un saqueador.}
-{175}{}{Te otorgaré el beneficio de la duda por ahora. Pero un hombre vale lo que su reputación y la tuya no vale gran cosa. Espero que hagas algo al respecto y que volvamos a vernos.}
-{176}{}{Me vuelvo a la ciudad. ¿Quieres venirte también? Podría necesitar compañía.}
+{172}{}{He matado a unos cuantos, sÃ­. Pero siempre tenÃ­a una razÃ³n.}
+{173}{}{Ellos te llaman asesina, ladrona y ultrajadora de tumbas. Dicen que matas a todo el que se interponga en tu camino. Â¿Es cierto?}
+{174}{}{Vale, lo harÃ©. Pero si sigues comportÃ¡ndote como un saqueador, morirÃ¡s como un saqueador.}
+{175}{}{Te otorgarÃ© el beneficio de la duda por ahora. Pero un hombre vale lo que su reputaciÃ³n y la tuya no vale gran cosa. Espero que hagas algo al respecto y que volvamos a vernos.}
+{176}{}{Me vuelvo a la ciudad. Â¿Quieres venirte tambiÃ©n? PodrÃ­a necesitar compaÃ±Ã­a.}
 {177}{}{Claro.}
 {178}{}{Hoy no.}
-{179}{}{Carroñar un poco. Hemos encontrado unas cuantas bases de saqueadores abandonadas intactas. Se habrán estado atacando unos a otros. Siempre estamos bucando más munición y drogas.}
+{179}{}{CarroÃ±ar un poco. Hemos encontrado unas cuantas bases de saqueadores abandonadas intactas. Se habrÃ¡n estado atacando unos a otros. Siempre estamos bucando mÃ¡s municiÃ³n y drogas.}
 {180}{}{Me voy a arrepentir de esto.}
 {181}{}{Sal de mi vista antes de que salga de mis casillas.}
-{182}{}{Aún quedan unos pocos, estarán emigrando del alto desierto o del Ardor. Pero está mucho mejor ahora que hace un par de años, gracias a ti.}
-{183}{}{Suena bien. Adiós.}
+{182}{}{AÃºn quedan unos pocos, estarÃ¡n emigrando del alto desierto o del Ardor. Pero estÃ¡ mucho mejor ahora que hace un par de aÃ±os, gracias a ti.}
+{183}{}{Suena bien. AdiÃ³s.}
 {184}{}{Claro. Vamos.}
-{185}{}{Tío, debo de haber perdido la cabeza. Pero te llevaré. Vamos.}
-{186}{}{Suicídate tú solo, amigo. Y, si te sirve de algo, buena suerte.}
-{187}{}{No estoy mal de la cabeza. Cuídate tú solito.}
-{188}{}{Bien, no tengo mucho, pero lo mío es tuyo.}
-{189}{}{No que se me ocurra. No estoy mal de la cabeza. Cuídate tú solito.}
-{190}{}{Lo haremos. No estoy mal de la cabeza. Cuídate tú solito.}
+{185}{}{TÃ­o, debo de haber perdido la cabeza. Pero te llevarÃ©. Vamos.}
+{186}{}{SuicÃ­date tÃº solo, amigo. Y, si te sirve de algo, buena suerte.}
+{187}{}{No estoy mal de la cabeza. CuÃ­date tÃº solito.}
+{188}{}{Bien, no tengo mucho, pero lo mÃ­o es tuyo.}
+{189}{}{No que se me ocurra. No estoy mal de la cabeza. CuÃ­date tÃº solito.}
+{190}{}{Lo haremos. No estoy mal de la cabeza. CuÃ­date tÃº solito.}
 {191}{}{Bien, vale. Vamos.}
-{192}{}{No llevaré a casa a un posible enemigo. Búscate tu propio camino hacia Arenas Sombrías y no te metas en líos.}
-{193}{}{Pequeñeces. Nos ganamos la vida con los rebaños de brahmines. Por aquí la tierra es pobre y los pastos son escasos y preciosos.}
-{194}{}{¿Con los rebaños de brahmines? ¡Se te ha ido la pelota! Es probable que no haya una pieza electrónica que funcione en 200 millas.}
-{195}{}{Tienes razón. Creo que deberíamos ser prudentes y seguir caminos separados. Yo que tú, haría algo con esas historias. A menos que te guste que la gente te odie y no se fíe de ti.}
-{196}{}{Debería matarte ahora mismo. Como te interpongas de nuevo en mi camino, lo haré. Ahora vete.}
+{192}{}{No llevarÃ© a casa a un posible enemigo. BÃºscate tu propio camino hacia Arenas SombrÃ­as y no te metas en lÃ­os.}
+{193}{}{PequeÃ±eces. Nos ganamos la vida con los rebaÃ±os de brahmines. Por aquÃ­ la tierra es pobre y los pastos son escasos y preciosos.}
+{194}{}{Â¿Con los rebaÃ±os de brahmines? Â¡Se te ha ido la pelota! Es probable que no haya una pieza electrÃ³nica que funcione en 200 millas.}
+{195}{}{Tienes razÃ³n. Creo que deberÃ­amos ser prudentes y seguir caminos separados. Yo que tÃº, harÃ­a algo con esas historias. A menos que te guste que la gente te odie y no se fÃ­e de ti.}
+{196}{}{DeberÃ­a matarte ahora mismo. Como te interpongas de nuevo en mi camino, lo harÃ©. Ahora vete.}
 {197}{}{Vamos.}
-{198}{}{Déjame adivinar. Alguien te ha contado que roncaba. Oh bueno, cuídate.}
-{199}{}{Vale. Bien. No estoy loco. Cuídate.}
-{200}{}{No te muevas. No sé si estás a favor de esos mutantes, pero si lo estás, te mataré sin dudarlo.}
-{201}{}{¿Qué mutantes?}
-{202}{}{¿Quién eres?}
-{203}{}{¿Qué te sucedió?}
-{204}{}{Vale, es fantástico.}
-{205}{}{¿Ehhhh?}
-{206}{}{Los mutantes invadieron Arenas Sombrías. Muchos de los nuestros murieron. Creo que nos irán atrapando a todos poco a poco.}
-{207}{}{No me importa lo que digas o lo que preguntes. ¡Estamos muertos! ¡Todos! Y yo que pensaba que los saqueadores y los escorpiones rad eran malos... ¡No eran nada! ¡Ja! ¡Ja, ja, ja!}
-{208}{}{¡Cállate! ¡No me apetece hablar! Hablar no sirve de nada. Hablar me aburre una barbaridad...}
+{198}{}{DÃ©jame adivinar. Alguien te ha contado que roncaba. Oh bueno, cuÃ­date.}
+{199}{}{Vale. Bien. No estoy loco. CuÃ­date.}
+{200}{}{No te muevas. No sÃ© si estÃ¡s a favor de esos mutantes, pero si lo estÃ¡s, te matarÃ© sin dudarlo.}
+{201}{}{Â¿QuÃ© mutantes?}
+{202}{}{Â¿QuiÃ©n eres?}
+{203}{}{Â¿QuÃ© te sucediÃ³?}
+{204}{}{Vale, es fantÃ¡stico.}
+{205}{}{Â¿Ehhhh?}
+{206}{}{Los mutantes invadieron Arenas SombrÃ­as. Muchos de los nuestros murieron. Creo que nos irÃ¡n atrapando a todos poco a poco.}
+{207}{}{No me importa lo que digas o lo que preguntes. Â¡Estamos muertos! Â¡Todos! Y yo que pensaba que los saqueadores y los escorpiones rad eran malos... Â¡No eran nada! Â¡Ja! Â¡Ja, ja, ja!}
+{208}{}{Â¡CÃ¡llate! Â¡No me apetece hablar! Hablar no sirve de nada. Hablar me aburre una barbaridad...}

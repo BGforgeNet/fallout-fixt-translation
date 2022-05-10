@@ -1,32 +1,32 @@
-{100}{}{¡Hola! Bienvenida a mi negocio. ¿Cuál de estas bellezas te interesa hoy?}
-{101}{}{Debes estar bromeando. Estos coches están para el arrastre.}
+{100}{}{Â¡Hola! Bienvenida a mi negocio. Â¿CuÃ¡l de estas bellezas te interesa hoy?}
+{101}{}{Debes estar bromeando. Estos coches estÃ¡n para el arrastre.}
 {102}{}{Oh, nada, gracias.}
-{103}{}{¡Lug!}
-{104}{}{Oh, lo siento, me parece que no puedes permitirte nuestros tipos de interés.}
-{105}{}{Pero, señor, estos son buenos ejemplos de vehículos con motor.}
-{106}{}{Señora, estos vehículos son excelentes.}
+{103}{}{Â¡Lug!}
+{104}{}{Oh, lo siento, me parece que no puedes permitirte nuestros tipos de interÃ©s.}
+{105}{}{Pero, seÃ±or, estos son buenos ejemplos de vehÃ­culos con motor.}
+{106}{}{SeÃ±ora, estos vehÃ­culos son excelentes.}
 {107}{}{No pueden estar en buenas condiciones.}
-{108}{}{Sí, de acuerdo. Vale. Adiós.}
-{109}{}{El departamento de asistencia al consumidor le da una puntuación de 100 a estos coches.}
-{110}{}{Y, ¿dónde está el departamento de asistencia al consumidor?}
+{108}{}{SÃ­, de acuerdo. Vale. AdiÃ³s.}
+{109}{}{El departamento de asistencia al consumidor le da una puntuaciÃ³n de 100 a estos coches.}
+{110}{}{Y, Â¿dÃ³nde estÃ¡ el departamento de asistencia al consumidor?}
 {111}{}{Eres idiota.}
-{112}{}{Adiós.}
-{113}{}{Justo allí, señor. (El negociante señala a la nada.)}
-{114}{}{Justo allí, señora. (El negociante señala a la nada.)}
-{115}{}{¿Dónde? Allí no hay nada.}
-{116}{}{Estás loco.}
-{117}{}{¿Qué quieres decir? Están trabajando en la nueva adquisición: un Corvega del 56. Y debo añadir que es excelente.}
-{118}{}{Vale, lo que tú digas.}
-{119}{}{Estás loco.}
-{120}{}{Adiós.}
-{121}{}{Y tenemos una excelente garantía. También puedes traérnoslo para cambiarle el aceite. El primer cambio es gratis. ¿Qué opinas?}
-{122}{}{Llénale el depósito y trato hecho.}
+{112}{}{AdiÃ³s.}
+{113}{}{Justo allÃ­, seÃ±or. (El negociante seÃ±ala a la nada.)}
+{114}{}{Justo allÃ­, seÃ±ora. (El negociante seÃ±ala a la nada.)}
+{115}{}{Â¿DÃ³nde? AllÃ­ no hay nada.}
+{116}{}{EstÃ¡s loco.}
+{117}{}{Â¿QuÃ© quieres decir? EstÃ¡n trabajando en la nueva adquisiciÃ³n: un Corvega del 56. Y debo aÃ±adir que es excelente.}
+{118}{}{Vale, lo que tÃº digas.}
+{119}{}{EstÃ¡s loco.}
+{120}{}{AdiÃ³s.}
+{121}{}{Y tenemos una excelente garantÃ­a. TambiÃ©n puedes traÃ©rnoslo para cambiarle el aceite. El primer cambio es gratis. Â¿QuÃ© opinas?}
+{122}{}{LlÃ©nale el depÃ³sito y trato hecho.}
 {123}{}{Necesitas ayuda.}
 {124}{}{Me voy ahora.}
-{125}{}{Lo siento, no tenemos gasolina. Quizás la próxima vez. Adiós.}
-{126}{}{Me siento insultado. No tengo por qué aguantar esto de una clienta. Que tengas un buen día.}
-{127}{}{Estoy en mi descanso; vuelve más tarde.}
+{125}{}{Lo siento, no tenemos gasolina. QuizÃ¡s la prÃ³xima vez. AdiÃ³s.}
+{126}{}{Me siento insultado. No tengo por quÃ© aguantar esto de una clienta. Que tengas un buen dÃ­a.}
+{127}{}{Estoy en mi descanso; vuelve mÃ¡s tarde.}
 {128}{}{Vaya y prueba uno de ellos.}
-{129}{}{Deberías coger pintura antioxidante.}
-{130}{}{¿Te interesaría una alarma de coche?}
-{131}{}{¡Hola! Soy Bob.}
+{129}{}{DeberÃ­as coger pintura antioxidante.}
+{130}{}{Â¿Te interesarÃ­a una alarma de coche?}
+{131}{}{Â¡Hola! Soy Bob.}

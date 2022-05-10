@@ -1,70 +1,70 @@
 {100}{}{Ves: al Sheriff Justin Greene.}
-{101}{}{Oh, la asesina de inocentes. He oído hablar de ti y tienes suerte de que la estrella me impida liquidarte de inmediato. Te sugiero que abandones nuestra ciudad ahora mismo. Y aléjate de nuestros hijos.}
-{102}{}{¡Hola, señor! Me llamo Justin Greene. Soy el Sheriff de esta bonita ciudad. ¿Hay algo que pueda hacer por ti ahora?}
-{103}{}{¡Hola, señora! Me llamo Justin Greene. Soy el Sheriff de esta bonita ciudad. ¿Hay algo que pueda hacer por ti ahora?}
-{104}{}{Sí, ¡desaparece!}
-{105}{}{Decker me contrató para matar a un mercader y a su mujer.}
-{106}{}{Decker intentó contratarme para matar a una tal Jain.}
+{101}{}{Oh, la asesina de inocentes. He oÃ­do hablar de ti y tienes suerte de que la estrella me impida liquidarte de inmediato. Te sugiero que abandones nuestra ciudad ahora mismo. Y alÃ©jate de nuestros hijos.}
+{102}{}{Â¡Hola, seÃ±or! Me llamo Justin Greene. Soy el Sheriff de esta bonita ciudad. Â¿Hay algo que pueda hacer por ti ahora?}
+{103}{}{Â¡Hola, seÃ±ora! Me llamo Justin Greene. Soy el Sheriff de esta bonita ciudad. Â¿Hay algo que pueda hacer por ti ahora?}
+{104}{}{SÃ­, Â¡desaparece!}
+{105}{}{Decker me contratÃ³ para matar a un mercader y a su mujer.}
+{106}{}{Decker intentÃ³ contratarme para matar a una tal Jain.}
 {107}{}{Nada, lo siento.}
-{108}{}{Lo siento, no puedo decirte nada. Me matarían.}
-{109}{}{Gracias. Intentamos hacerlo bien. Es muy difícil en una ciudad de este tamaño, pero hacemos lo que podemos con los recursos disponibles. Es difícil cuando esos tipos tienen mejores armas de fuego que nosotros.}
+{108}{}{Lo siento, no puedo decirte nada. Me matarÃ­an.}
+{109}{}{Gracias. Intentamos hacerlo bien. Es muy difÃ­cil en una ciudad de este tamaÃ±o, pero hacemos lo que podemos con los recursos disponibles. Es difÃ­cil cuando esos tipos tienen mejores armas de fuego que nosotros.}
 {110}{}{Gracias de nuevo.}
-{111}{}{Es hora de irse, asesina de niños.}
-{112}{}{No podemos aceptar. Pero si cambias de opinión, házmelo saber. Este lugar es muy peligroso y alguien tiene que velar por que las cosas funcionen bien.}
-{113}{}{¡Excelente! Ya había oído rumores sobre su plan. Tú eres la confirmación final que necesitaba para hacer algo contra él. Va a ser difícil y puedo utilizar toda la ayuda disponible. Te pagaré 1.000 chapas, 200 ahora y el resto cuando hayas terminado el trabajo. ¿Qué dices?}
-{114}{}{¡Llegas demasiado tarde! Sabía que era culpable, solo quería saberlo a tiempo para detenerle. En cualquier caso, eres el testigo que necesitaba para actuar. Tendremos que "acabar con él". Va a ser duro y puedo utilizar toda la ayuda disponible. Te pagaré 1.000 chapas, 200 ahora y el resto cuando hayas terminado el trabajo. ¿Qué dices?}
-{115}{}{Llegas demasiado tarde. ¿Cómo sé que no eres culpable? Seguro que Decker no te dejaría con vida si supieras de sus planes.}
-{116}{}{Acabo de oír que ella ya está muerta. Espera un minuto... ¿cómo sé que tú no eres culpable? Seguro que Decker no te dejaría con vida si supieras de sus planes.}
-{117}{}{Será un placer.}
+{111}{}{Es hora de irse, asesina de niÃ±os.}
+{112}{}{No podemos aceptar. Pero si cambias de opiniÃ³n, hÃ¡zmelo saber. Este lugar es muy peligroso y alguien tiene que velar por que las cosas funcionen bien.}
+{113}{}{Â¡Excelente! Ya habÃ­a oÃ­do rumores sobre su plan. TÃº eres la confirmaciÃ³n final que necesitaba para hacer algo contra Ã©l. Va a ser difÃ­cil y puedo utilizar toda la ayuda disponible. Te pagarÃ© 1.000 chapas, 200 ahora y el resto cuando hayas terminado el trabajo. Â¿QuÃ© dices?}
+{114}{}{Â¡Llegas demasiado tarde! SabÃ­a que era culpable, solo querÃ­a saberlo a tiempo para detenerle. En cualquier caso, eres el testigo que necesitaba para actuar. Tendremos que "acabar con Ã©l". Va a ser duro y puedo utilizar toda la ayuda disponible. Te pagarÃ© 1.000 chapas, 200 ahora y el resto cuando hayas terminado el trabajo. Â¿QuÃ© dices?}
+{115}{}{Llegas demasiado tarde. Â¿CÃ³mo sÃ© que no eres culpable? Seguro que Decker no te dejarÃ­a con vida si supieras de sus planes.}
+{116}{}{Acabo de oÃ­r que ella ya estÃ¡ muerta. Espera un minuto... Â¿cÃ³mo sÃ© que tÃº no eres culpable? Seguro que Decker no te dejarÃ­a con vida si supieras de sus planes.}
+{117}{}{SerÃ¡ un placer.}
 {118}{}{Lo siento, lo quiero todo por adelantado.}
-{119}{}{¡Ni hablar! Es tu problema y no el mío.}
-{120}{}{No. Aunque parezcas digno de confianza no puedo estar seguro de que te quedarás con nosotros cuando las cosas empeoren. Por lo menos uno de nosotros tiene que sobrevivir para asegurarse de que cobras. De este modo se contará con un "poco" de seguridad.}
-{121}{}{Hagámoslo.}
-{122}{}{Hazlo tú solo, Sheriff.}
-{123}{}{¡Vale! Podemos irnos cuando quieras.}
+{119}{}{Â¡Ni hablar! Es tu problema y no el mÃ­o.}
+{120}{}{No. Aunque parezcas digno de confianza no puedo estar seguro de que te quedarÃ¡s con nosotros cuando las cosas empeoren. Por lo menos uno de nosotros tiene que sobrevivir para asegurarse de que cobras. De este modo se contarÃ¡ con un "poco" de seguridad.}
+{121}{}{HagÃ¡moslo.}
+{122}{}{Hazlo tÃº solo, Sheriff.}
+{123}{}{Â¡Vale! Podemos irnos cuando quieras.}
 {124}{}{Estoy preparado.}
-{125}{}{Vale. Adiós.}
-{126}{}{Lamento oír eso. Si cambias de opinión, por favor, házmelo saber, pero no puedo esperar mucho.}
-{127}{}{Vale, lo haré. Espera a que coja algunos suministros.}
-{128}{}{Estás mal de la cabeza.}
-{129}{}{Adiós.}
-{130}{}{¡Vale! Avísame cuando quieras salir. Te esperaremos, pero no tardes mucho.}
-{131}{}{¿Qué? ¿Pretendes que me dedique a matar a gente inocente? Tengo una deuda contraída con esta ciudad, que no espero que entiendas.}
-{132}{}{Tienes razón. Ahora te toca a ti.}
-{133}{}{¿Cómo te atreves a acusarme?}
+{125}{}{Vale. AdiÃ³s.}
+{126}{}{Lamento oÃ­r eso. Si cambias de opiniÃ³n, por favor, hÃ¡zmelo saber, pero no puedo esperar mucho.}
+{127}{}{Vale, lo harÃ©. Espera a que coja algunos suministros.}
+{128}{}{EstÃ¡s mal de la cabeza.}
+{129}{}{AdiÃ³s.}
+{130}{}{Â¡Vale! AvÃ­same cuando quieras salir. Te esperaremos, pero no tardes mucho.}
+{131}{}{Â¿QuÃ©? Â¿Pretendes que me dedique a matar a gente inocente? Tengo una deuda contraÃ­da con esta ciudad, que no espero que entiendas.}
+{132}{}{Tienes razÃ³n. Ahora te toca a ti.}
+{133}{}{Â¿CÃ³mo te atreves a acusarme?}
 {134}{}{Me da igual lo que pienses.}
-{135}{}{Bien. Él no ha intentado nada.}
-{136}{}{Estábamos en el Halcón y había mucha gente alrededor.}
-{137}{}{Lo siento. Decker ha estado enfrentándonos los unos a los otros durante años. Ya no sé en quién confiar. Pero podrías serme de gran ayuda. Será duro, pero te pagaré 1.000 chapas, 200 ahora y el resto cuando hayamos terminado el trabajo.}
-{138}{}{¡Conozco a una rata de lejos! Tienes suerte de que no tenga pruebas, y te recomiendo abandonar la ciudad antes de que encuentre alguna.}
-{139}{}{Es muy raro. Nunca he oído que Decker salga de su despacho. Debe de coger valor. Ese maldito, ha asesinado... ¡Argh! ¡Pero lo cogeré! Te diré una cosa, tú nos ayudas y te pagaré 1.000 chapas... 200 ahora y 800 cuando hayamos terminado el trabajo. ¿Qué dices?}
-{140}{}{¡Es la mayor montaña de mierda de brahmin que he oído en mi vida! Decker nunca sale de su despacho. Sabía que algo andaba mal contigo. Tienes suerte de que no tenga pruebas. Te recomiendo que abandones la ciudad antes de que encuentre alguna.}
+{135}{}{Bien. Ã‰l no ha intentado nada.}
+{136}{}{EstÃ¡bamos en el HalcÃ³n y habÃ­a mucha gente alrededor.}
+{137}{}{Lo siento. Decker ha estado enfrentÃ¡ndonos los unos a los otros durante aÃ±os. Ya no sÃ© en quiÃ©n confiar. Pero podrÃ­as serme de gran ayuda. SerÃ¡ duro, pero te pagarÃ© 1.000 chapas, 200 ahora y el resto cuando hayamos terminado el trabajo.}
+{138}{}{Â¡Conozco a una rata de lejos! Tienes suerte de que no tenga pruebas, y te recomiendo abandonar la ciudad antes de que encuentre alguna.}
+{139}{}{Es muy raro. Nunca he oÃ­do que Decker salga de su despacho. Debe de coger valor. Ese maldito, ha asesinado... Â¡Argh! Â¡Pero lo cogerÃ©! Te dirÃ© una cosa, tÃº nos ayudas y te pagarÃ© 1.000 chapas... 200 ahora y 800 cuando hayamos terminado el trabajo. Â¿QuÃ© dices?}
+{140}{}{Â¡Es la mayor montaÃ±a de mierda de brahmin que he oÃ­do en mi vida! Decker nunca sale de su despacho. SabÃ­a que algo andaba mal contigo. Tienes suerte de que no tenga pruebas. Te recomiendo que abandones la ciudad antes de que encuentre alguna.}
 {141}{}{Vale, vamos...}
-{142}{}{Así que has vuelto para entregarte, ¿eh? Me impresionas.}
-{143}{}{Sí, lo siento.}
-{144}{}{¿Entregarme? No me hagas reír.}
-{145}{}{¡Cogedlo!}
-{146}{}{¡Cogedla!}
-{147}{}{Vale, te meteré en tu celda.}
+{142}{}{AsÃ­ que has vuelto para entregarte, Â¿eh? Me impresionas.}
+{143}{}{SÃ­, lo siento.}
+{144}{}{Â¿Entregarme? No me hagas reÃ­r.}
+{145}{}{Â¡Cogedlo!}
+{146}{}{Â¡Cogedla!}
+{147}{}{Vale, te meterÃ© en tu celda.}
 {148}{}{No muevas ni un dedo. No te vas a mover en una temporada.}
-{149}{}{¡Fugitivo! ¡Cogedle!}
-{150}{}{¡Fugitiva! ¡Cogedla!}
-{151}{}{¿Listo para continuar?}
-{152}{}{Sí.}
+{149}{}{Â¡Fugitivo! Â¡Cogedle!}
+{150}{}{Â¡Fugitiva! Â¡Cogedla!}
+{151}{}{Â¿Listo para continuar?}
+{152}{}{SÃ­.}
 {153}{}{No.}
 {154}{}{Uhg.}
-{155}{}{No me puedo creer que Decker haya muerto por fin. Creía que nunca llegaría este día.}
-{156}{}{¿Has cambiado de opinión? ¿Aún podemos utilizarte para deshacernos de esa enfermedad de la que hablamos?}
-{157}{}{Iré.}
+{155}{}{No me puedo creer que Decker haya muerto por fin. CreÃ­a que nunca llegarÃ­a este dÃ­a.}
+{156}{}{Â¿Has cambiado de opiniÃ³n? Â¿AÃºn podemos utilizarte para deshacernos de esa enfermedad de la que hablamos?}
+{157}{}{IrÃ©.}
 {158}{}{No, lo siento.}
-{159}{}{¿Eh?}
+{159}{}{Â¿Eh?}
 {160}{}{Te estamos vigilando.}
-{161}{}{¡He de denunciar un delito!}
+{161}{}{Â¡He de denunciar un delito!}
 {162}{}{Tienes un buen trabajo.}
 {163}{}{Venga, ya nos volveremos a ver.}
 {164}{}{Vale.}
-{165}{}{Hola de nuevo, señor. ¿En qué puedo ayudarte hoy?}
-{166}{}{Hola de nuevo, señora. ¿En qué puedo ayudarte hoy?}
-{167}{}{Hola, ¿en qué puedo ayudarte?}
-{168}{}{¿Sí?}
-{169}{}{Desaparece, ¿vale?}
+{165}{}{Hola de nuevo, seÃ±or. Â¿En quÃ© puedo ayudarte hoy?}
+{166}{}{Hola de nuevo, seÃ±ora. Â¿En quÃ© puedo ayudarte hoy?}
+{167}{}{Hola, Â¿en quÃ© puedo ayudarte?}
+{168}{}{Â¿SÃ­?}
+{169}{}{Desaparece, Â¿vale?}

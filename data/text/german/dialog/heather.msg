@@ -41,7 +41,7 @@
 {140}{}{True. We scouts do many raids on the Children, and to much loss lately. This spy costs us dearly.}
 {141}{}{You seem really torn up about this. I will look for the spy and kill him.}
 {142}{}{Could the spy be a scout?}
-{143}{}{Danke für die Hilfe.}
+{143}{}{Danke fÃ¼r die Hilfe.}
 {144}{}{Why would one of us do that?}
 {145}{}{If you kill off the scouts, then you stop the raids.}
 {146}{}{I don't know. Why would you do that?}

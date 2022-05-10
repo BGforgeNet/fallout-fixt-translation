@@ -1,4 +1,4 @@
-{101}{}{Estoy ocupado. Déjame solo.}
-{102}{}{¿Dónde puse...?}
-{103}{}{¿Qué estás haciendo aquí?}
-{104}{}{¿No es Ciudad Vertedero un espectáculo para ojos doloridos?}
+{101}{}{Estoy ocupado. DÃ©jame solo.}
+{102}{}{Â¿DÃ³nde puse...?}
+{103}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{104}{}{Â¿No es Ciudad Vertedero un espectÃ¡culo para ojos doloridos?}

@@ -1,83 +1,83 @@
-{100}{}{Estás viendo a un hombre con una armadura de cuero polvorienta, una gabardina y una máscara de gas.}
+{100}{}{EstÃ¡s viendo a un hombre con una armadura de cuero polvorienta, una gabardina y una mÃ¡scara de gas.}
 {101}{}{Ves: a Tycho, el Ranger del Desierto.}
-{102}{}{Otra cara nueva. Aquí das una patada y salen mil viajeros. Pero tú pareces distinta. ¿Te tomas un trago conmigo?}
+{102}{}{Otra cara nueva. AquÃ­ das una patada y salen mil viajeros. Pero tÃº pareces distinta. Â¿Te tomas un trago conmigo?}
 {103}{}{Lo siento, no tengo mucho tiempo.}
 {104}{}{Claro.}
-{105}{}{¿Quá-ah?}
-{106}{}{Maravilloso. Espero que no te importe que la bebida esté aguada... aquí riegan los barriles de cerveza como si fueran maceteros.}
-{107}{}{Así que, ¿cuál es tu historia?}
-{108}{}{Sí, un vaso de agua. Da igual.}
-{109}{}{Yo te podría preguntar lo mismo. Por la amistad, yo hablaré primero. Me llamo Tycho. Vengo del este, de lo que solía ser Nevada.}
+{105}{}{Â¿QuÃ¡-ah?}
+{106}{}{Maravilloso. Espero que no te importe que la bebida estÃ© aguada... aquÃ­ riegan los barriles de cerveza como si fueran maceteros.}
+{107}{}{AsÃ­ que, Â¿cuÃ¡l es tu historia?}
+{108}{}{SÃ­, un vaso de agua. Da igual.}
+{109}{}{Yo te podrÃ­a preguntar lo mismo. Por la amistad, yo hablarÃ© primero. Me llamo Tycho. Vengo del este, de lo que solÃ­a ser Nevada.}
 {110}{}{Es un viaje largo.}
-{111}{}{¿Cómo sobreviviste a los peligros?}
+{111}{}{Â¿CÃ³mo sobreviviste a los peligros?}
 {112}{}{En efecto. Por eso he decidido parar un poco. Este lugar promete, solo hace falta que alguien limpie la basura.}
-{113}{}{¿Por qué no tú?}
-{114}{}{Sí, me he dado cuenta. ¿Qué sabes de esos idiotas?}
-{115}{}{Se han entrenado mucho y tienen buenas armas. Mi abuelo era un Ranger entonces y le enseñó todo lo que sabía a mi padre. Papá hizo lo mismo conmigo. O sea que sé bastante como para no beber agua que reluce y esas cosas.}
+{113}{}{Â¿Por quÃ© no tÃº?}
+{114}{}{SÃ­, me he dado cuenta. Â¿QuÃ© sabes de esos idiotas?}
+{115}{}{Se han entrenado mucho y tienen buenas armas. Mi abuelo era un Ranger entonces y le enseÃ±Ã³ todo lo que sabÃ­a a mi padre. PapÃ¡ hizo lo mismo conmigo. O sea que sÃ© bastante como para no beber agua que reluce y esas cosas.}
 {116}{}{Interesante. Gracias por el trago.}
-{117}{}{¿En serio? Es duro sobrevivir en estos tiempos. Debes tener muchos conocimientos.}
-{118}{}{No es mi sitio. Preferiría no cruzarme con Killian. Él limpiará esta ciudad cuando venga. Un buen hombre, fíjate lo que te digo. Pero ten cuidado con el amigo Gizmo. Me recuerda a otro bicho gordo del que me habló mi padre allá en Las Vegas.}
+{117}{}{Â¿En serio? Es duro sobrevivir en estos tiempos. Debes tener muchos conocimientos.}
+{118}{}{No es mi sitio. PreferirÃ­a no cruzarme con Killian. Ã‰l limpiarÃ¡ esta ciudad cuando venga. Un buen hombre, fÃ­jate lo que te digo. Pero ten cuidado con el amigo Gizmo. Me recuerda a otro bicho gordo del que me hablÃ³ mi padre allÃ¡ en Las Vegas.}
 {119}{}{Gracias por el consejo, y por el trago.}
-{120}{}{Aquí hay dos tipos de basura. Primero están los Kalaveras, un atajo que anda siempre en la parte trasera de la posada de Marcelles. Son escoria de segunda clase. Pero los otros responden ante el gordo asqueroso cuyo nombre ya habrás adivinado. Lleva el Casino. Esos tíos están organizados y son peligrosos.}
-{121}{}{Ya veo. Gracias por la información.}
-{122}{}{Sí, bueno, mi familia me enseñó todo lo que hay que saber sobre supervivencia. No bebas el agua que está completamente limpia y libre de insectos y moho, por ejemplo. Solo el agua venenosa o radioactiva estaría tan limpia en un entorno salvaje. Muchas cositas que hay que mirar, ¿sabes?}
-{123}{}{¿Como qué?}
+{120}{}{AquÃ­ hay dos tipos de basura. Primero estÃ¡n los Kalaveras, un atajo que anda siempre en la parte trasera de la posada de Marcelles. Son escoria de segunda clase. Pero los otros responden ante el gordo asqueroso cuyo nombre ya habrÃ¡s adivinado. Lleva el Casino. Esos tÃ­os estÃ¡n organizados y son peligrosos.}
+{121}{}{Ya veo. Gracias por la informaciÃ³n.}
+{122}{}{SÃ­, bueno, mi familia me enseÃ±Ã³ todo lo que hay que saber sobre supervivencia. No bebas el agua que estÃ¡ completamente limpia y libre de insectos y moho, por ejemplo. Solo el agua venenosa o radioactiva estarÃ­a tan limpia en un entorno salvaje. Muchas cositas que hay que mirar, Â¿sabes?}
+{123}{}{Â¿Como quÃ©?}
 {124}{}{Si tienes tiempo podemos repasar algunos consejos.}
-{125}{}{Claro, sería estupendo.}
+{125}{}{Claro, serÃ­a estupendo.}
 {126}{}{Lo siento, estoy justa de tiempo.}
-{127}{}{Guau, no tan rápido. ¿Nunca terminamos de presentarnos, recuerdas? ¿Cómo te llamas, forastero?}
+{127}{}{Guau, no tan rÃ¡pido. Â¿Nunca terminamos de presentarnos, recuerdas? Â¿CÃ³mo te llamas, forastero?}
 {128}{}{Soy }
 {129}{}{.}
 {130}{}{No es asunto tuyo, caraculo.}
-{131}{}{Qué bien encontrarte. Pisa con cuidado, colega.}
-{132}{}{Vaya, vaya, no hace falta ser maleducada. Con esa actitud será mejor que te vayas.}
-{133}{}{Cómemela.}
+{131}{}{QuÃ© bien encontrarte. Pisa con cuidado, colega.}
+{132}{}{Vaya, vaya, no hace falta ser maleducada. Con esa actitud serÃ¡ mejor que te vayas.}
+{133}{}{CÃ³memela.}
 {134}{}{Lo que sea. Nos vemos.}
-{135}{}{¿Qué quieres?}
-{136}{}{Siento molestarte en tu tiempo de descanso. Vete por ahí.}
-{137}{}{Necesito información sobre las bandas de por aquí.}
-{138}{}{Necesito información sobre la ciudad.}
-{139}{}{Hola otra vez. ¿En qué puedo ayudarte?}
-{140}{}{Killian me ha pedido que limpie esta ciudad, y me gustaría contar con tu ayuda.}
-{141}{}{Esto es el Fosa Común, un condenado hervidero de villanos y demás. Al oeste de aquí está lo de Gizmo, un gran Casino. Dicen que los juegos están amañados. Un poco al sur está la Posada de Marcelles, donde puedes conseguir un sueño reparador, pero resulta un poco caro. Pasado eso está lo de Killian. Killian tiene un establecimiento general, y se ocupa de la ley en la ciudad... un buen hombre. Al sur de eso tienes a Doc Mórbid, su forma de operar es un poco rara, no sé si me entiendes.}
-{142}{}{Espero que mi pequeño curso introductorio te haya servido de ayuda.}
+{135}{}{Â¿QuÃ© quieres?}
+{136}{}{Siento molestarte en tu tiempo de descanso. Vete por ahÃ­.}
+{137}{}{Necesito informaciÃ³n sobre las bandas de por aquÃ­.}
+{138}{}{Necesito informaciÃ³n sobre la ciudad.}
+{139}{}{Hola otra vez. Â¿En quÃ© puedo ayudarte?}
+{140}{}{Killian me ha pedido que limpie esta ciudad, y me gustarÃ­a contar con tu ayuda.}
+{141}{}{Esto es el Fosa ComÃºn, un condenado hervidero de villanos y demÃ¡s. Al oeste de aquÃ­ estÃ¡ lo de Gizmo, un gran Casino. Dicen que los juegos estÃ¡n amaÃ±ados. Un poco al sur estÃ¡ la Posada de Marcelles, donde puedes conseguir un sueÃ±o reparador, pero resulta un poco caro. Pasado eso estÃ¡ lo de Killian. Killian tiene un establecimiento general, y se ocupa de la ley en la ciudad... un buen hombre. Al sur de eso tienes a Doc MÃ³rbid, su forma de operar es un poco rara, no sÃ© si me entiendes.}
+{142}{}{Espero que mi pequeÃ±o curso introductorio te haya servido de ayuda.}
 {143}{}{}
-{144}{}{Cuentan por ahí que has estado en contacto con Gizmo. Yo andaría con mucho ojo con ese saco de manteca si fuera tú.}
+{144}{}{Cuentan por ahÃ­ que has estado en contacto con Gizmo. Yo andarÃ­a con mucho ojo con ese saco de manteca si fuera tÃº.}
 {145}{}{No te metas en mis asuntos.}
-{146}{}{Sí, trabajo para Gizmo ahora. ¿A ti que te importa?}
-{147}{}{Está bien. Pero vigila tus espaldas. Gizmo no es famoso por ser considerado con sus empleados.}
-{148}{}{Sobra decir que tu jefe ha provocado más sufrimiento y dolor del necesario en esta ciudad. No esperes mucha ayuda de nadie, sobre todo de Gizmo. Qué pena. Tú podrías haber cambiado esta ciudad para mejor.}
-{149}{}{¿Qué puedo hacer por ti?}
-{150}{}{¿Alguna recomendación?}
+{146}{}{SÃ­, trabajo para Gizmo ahora. Â¿A ti que te importa?}
+{147}{}{EstÃ¡ bien. Pero vigila tus espaldas. Gizmo no es famoso por ser considerado con sus empleados.}
+{148}{}{Sobra decir que tu jefe ha provocado mÃ¡s sufrimiento y dolor del necesario en esta ciudad. No esperes mucha ayuda de nadie, sobre todo de Gizmo. QuÃ© pena. TÃº podrÃ­as haber cambiado esta ciudad para mejor.}
+{149}{}{Â¿QuÃ© puedo hacer por ti?}
+{150}{}{Â¿Alguna recomendaciÃ³n?}
 {151}{}{Gracias por tu ayuda. Creo que es hora de separarnos.}
-{152}{}{Sí, yo me mantendría totalmente alejado de quien haya hecho eso. En serio, nunca he visto nada parecido. Creo que lo mejor que podemos hacer es seguir adelante, rápido.}
+{152}{}{SÃ­, yo me mantendrÃ­a totalmente alejado de quien haya hecho eso. En serio, nunca he visto nada parecido. Creo que lo mejor que podemos hacer es seguir adelante, rÃ¡pido.}
 {153}{}{Muy bien. He de decir que ha sido un honor y un placer.}
-{154}{}{Ten cuidado con las zonas radioactivas. Este lugar fue evidentemente el objeto de un ataque nuclear directo, y las secuelas radioactivas pueden ser muy malas. Yo procuraría evitar este sitio completamente.}
-{155}{}{Como ves no hay ningún tipo de vida animal por aquí. Y observa las pilas de huesos. La criatura que viva aquí tiene que ser una mala bestia. Ten el arma a mano.}
-{156}{}{Una plaza militar como esta debe tener una Sala de Mando central en algún sitio.}
-{157}{}{Apuesto a que podemos atravesar esos generadores de campos de fuerza con una derivación o encontrando el ordenador que controla los campos.}
-{158}{}{Hay muchas historias extrañas sobre Necrópolis, la ciudad de los muertos. Mantente alerta porque el peligro está por todas partes.}
-{159}{}{Necesito cambiar la formación.}
-{160}{}{¿A qué distancia quieres que me ponga?}
-{161}{}{Quédate cerca.}
+{154}{}{Ten cuidado con las zonas radioactivas. Este lugar fue evidentemente el objeto de un ataque nuclear directo, y las secuelas radioactivas pueden ser muy malas. Yo procurarÃ­a evitar este sitio completamente.}
+{155}{}{Como ves no hay ningÃºn tipo de vida animal por aquÃ­. Y observa las pilas de huesos. La criatura que viva aquÃ­ tiene que ser una mala bestia. Ten el arma a mano.}
+{156}{}{Una plaza militar como esta debe tener una Sala de Mando central en algÃºn sitio.}
+{157}{}{Apuesto a que podemos atravesar esos generadores de campos de fuerza con una derivaciÃ³n o encontrando el ordenador que controla los campos.}
+{158}{}{Hay muchas historias extraÃ±as sobre NecrÃ³polis, la ciudad de los muertos. Mantente alerta porque el peligro estÃ¡ por todas partes.}
+{159}{}{Necesito cambiar la formaciÃ³n.}
+{160}{}{Â¿A quÃ© distancia quieres que me ponga?}
+{161}{}{QuÃ©date cerca.}
 {162}{}{Guarda una distancia moderada.}
-{163}{}{Mantén una mayor distancia entre nosotros.}
-{164}{}{¿Qué tipo de técnicas con armas tienes?}
-{165}{}{Tengo una buena formación de Ranger. Soy hábil con las pistolas pequeñas y los rifles. También se usar una lanza, en un apuro, claro está}
+{163}{}{MantÃ©n una mayor distancia entre nosotros.}
+{164}{}{Â¿QuÃ© tipo de tÃ©cnicas con armas tienes?}
+{165}{}{Tengo una buena formaciÃ³n de Ranger. Soy hÃ¡bil con las pistolas pequeÃ±as y los rifles. TambiÃ©n se usar una lanza, en un apuro, claro estÃ¡}
 {166}{}{Uh, no importa.}
-{167}{}{Sí, si te gusta el lagarto muy hecho.}
-{168}{}{Bueno, ya es hora. Continuemos señor, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
-{169}{}{Bueno, ya es hora. Continuemos señora, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
-{170}{}{¿Sí?}
-{171}{}{Después de todo, quizás deberíamos seguir juntos.}
+{167}{}{SÃ­, si te gusta el lagarto muy hecho.}
+{168}{}{Bueno, ya es hora. Continuemos seÃ±or, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
+{169}{}{Bueno, ya es hora. Continuemos seÃ±ora, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
+{170}{}{Â¿SÃ­?}
+{171}{}{DespuÃ©s de todo, quizÃ¡s deberÃ­amos seguir juntos.}
 {172}{}{Nada. Da igual.}
 {173}{}{Ganas 300 puntos de experiencia por reclutar a Tycho, el Ranger del Desierto.}
-{174}{}{¿ser amigos?}
+{174}{}{Â¿ser amigos?}
 {175}{}{Vas a caer}
 {176}{}{Hora de vengarse.}
-{177}{}{¡Los ciudadanos de Ciudad Vertedero serán vengados!}
-{178}{}{¿Te crees por encima de la ley?}
-{179}{}{No apruebo a la escoria como tú}
+{177}{}{Â¡Los ciudadanos de Ciudad Vertedero serÃ¡n vengados!}
+{178}{}{Â¿Te crees por encima de la ley?}
+{179}{}{No apruebo a la escoria como tÃº}
 {180}{}{Todas las acciones tienen consecuencias.}
 {181}{}{Ves: a Tycho.}
 {1000}{}{Ciudad Vertedero}
@@ -91,13 +91,13 @@
 {1008}{}{Maestro}
 {1009}{}{Unidad}
 {1010}{}{Set}
-{1011}{}{Almacén de Agua}
-{1012}{}{Necrópolis}
+{1011}{}{AlmacÃ©n de Agua}
+{1012}{}{NecrÃ³polis}
 {1013}{}{Sala}
 {1014}{}{Biblioteca}
 {1015}{}{Supervisor}
-{1016}{}{Médico}
-{1017}{}{Curación}
+{1016}{}{MÃ©dico}
+{1017}{}{CuraciÃ³n}
 {1018}{}{Refugio}
 {1019}{}{Refugio 13}
 {1020}{}{Refugio 13}
@@ -105,16 +105,16 @@
 {1022}{}{Gizmo}
 {1023}{}{Cementerio}
 {1024}{}{Arenas}
-{1025}{}{Sombrías}
+{1025}{}{SombrÃ­as}
 {1026}{}{Eje}
 {1027}{}{Casino}
-{1028}{}{Almacén}
+{1028}{}{AlmacÃ©n}
 {1029}{}{Garra Mortal}
-{1030}{}{Éxodo}
+{1030}{}{Ã‰xodo}
 {1031}{}{Iniciados}
 {1032}{}{Paladines}
 {1033}{}{Escribas}
-{1034}{}{Niños}
+{1034}{}{NiÃ±os}
 {1036}{}{Hermandad}
 {1037}{}{Tanques}
 {1038}{}{Base Militar}
@@ -136,19 +136,19 @@
 {1055}{}{Razlo}
 {1056}{}{Zimmerman}
 {1057}{}{Reguladores}
-{1058}{}{Carroñeros}
+{1058}{}{CarroÃ±eros}
 {1059}{}{Navajas}
 {1060}{}{Nicole}
 {1061}{}{Teniente}
-{1062}{}{Psíquicos}
+{1062}{}{PsÃ­quicos}
 {1063}{}{Experimentos}
-{1064}{}{Policía}
+{1064}{}{PolicÃ­a}
 {1065}{}{Mercaderes}
 {1100}{}{Ciudad Vertedero no es un verdadero hogar, pero es una ciudad interesante. Tiene potencial, aunque no estoy seguro de que construir con las sobras del pasado sea la mejor manera de edificar el futuro.}
-{1101}{}{Nosotros los Rangers venimos del este, lo que solía ser Nevada. Nuestra tradición se remonta a los gloriosos días de los Rangers de Texas. Aprendimos técnicas de supervivencia y de combate para tener la oportunidad de salir al mundo y mejorarlo.}
-{1102}{}{Hace mucho tiempo que no veo una reliquia tecnológica como un Chip de Agua. Yo que tú me fiaría más de tus propias manos que de una estúpida pieza de tecnología que ni siquiera puedes arreglar.}
-{1103}{}{La Guerra fue el resultado de la locura y la avaricia humana. Espero que hayamos aprendido la lección y nunca se repita tal disparate.}
-{1104}{}{El yermo es hostil y peligroso, incluso para el viajero más intrépido. Las radiaciones y las extrañas criaturas causarán muchas muertes. Anda con cuidado y recuerda que todo lo que ves y todo lo que oyes puede ser una pista.}
+{1101}{}{Nosotros los Rangers venimos del este, lo que solÃ­a ser Nevada. Nuestra tradiciÃ³n se remonta a los gloriosos dÃ­as de los Rangers de Texas. Aprendimos tÃ©cnicas de supervivencia y de combate para tener la oportunidad de salir al mundo y mejorarlo.}
+{1102}{}{Hace mucho tiempo que no veo una reliquia tecnolÃ³gica como un Chip de Agua. Yo que tÃº me fiarÃ­a mÃ¡s de tus propias manos que de una estÃºpida pieza de tecnologÃ­a que ni siquiera puedes arreglar.}
+{1103}{}{La Guerra fue el resultado de la locura y la avaricia humana. Espero que hayamos aprendido la lecciÃ³n y nunca se repita tal disparate.}
+{1104}{}{El yermo es hostil y peligroso, incluso para el viajero mÃ¡s intrÃ©pido. Las radiaciones y las extraÃ±as criaturas causarÃ¡n muchas muertes. Anda con cuidado y recuerda que todo lo que ves y todo lo que oyes puede ser una pista.}
 {1105}{}{Lo siento, no puedo ayudarte.}
 {1106}{}{Lo siento, no puedo ayudarte.}
 {1107}{}{Lo siento, no puedo ayudarte.}
@@ -156,24 +156,24 @@
 {1109}{}{Lo siento, no puedo ayudarte.}
 {1110}{}{Lo siento, no puedo ayudarte.}
 {1111}{}{Lo siento, no puedo ayudarte.}
-{1112}{}{La Ciudad de los Muertos se llama así con razón. Se ubica sobre lo que solía ser el pequeño pueblo de Bakersfield. Pero, ahora, es el hogar de necrófagos y cosas aún peores.}
+{1112}{}{La Ciudad de los Muertos se llama asÃ­ con razÃ³n. Se ubica sobre lo que solÃ­a ser el pequeÃ±o pueblo de Bakersfield. Pero, ahora, es el hogar de necrÃ³fagos y cosas aÃºn peores.}
 {1113}{}{Lo siento, no puedo ayudarte.}
 {1114}{}{Lo siento, no puedo ayudarte.}
 {1115}{}{Lo siento, no puedo ayudarte.}
 {1116}{}{Lo siento, no puedo ayudarte.}
 {1117}{}{Lo siento, no puedo ayudarte.}
-{1118}{}{He oído hablar de los grandes Refugios subterráneos. Pero no sé mucho sobre ellos.}
-{1119}{}{He oído hablar de los grandes Refugios subterráneos. Pero no sé mucho sobre ellos.}
-{1120}{}{He oído hablar de los grandes Refugios subterráneos. Pero no sé mucho sobre ellos.}
-{1121}{}{Killian es un hombre bueno con un trabajo difícil.}
-{1122}{}{Gizmo es... a mí me repatea. Pero tendrá su merecido.}
-{1123}{}{¿El Cementerio de LA? He oído que es un lugar de bandas y vida dura cerca de la costa.}
+{1118}{}{He oÃ­do hablar de los grandes Refugios subterrÃ¡neos. Pero no sÃ© mucho sobre ellos.}
+{1119}{}{He oÃ­do hablar de los grandes Refugios subterrÃ¡neos. Pero no sÃ© mucho sobre ellos.}
+{1120}{}{He oÃ­do hablar de los grandes Refugios subterrÃ¡neos. Pero no sÃ© mucho sobre ellos.}
+{1121}{}{Killian es un hombre bueno con un trabajo difÃ­cil.}
+{1122}{}{Gizmo es... a mÃ­ me repatea. Pero tendrÃ¡ su merecido.}
+{1123}{}{Â¿El Cementerio de LA? He oÃ­do que es un lugar de bandas y vida dura cerca de la costa.}
 {1124}{}{Lo siento, no puedo ayudarte.}
 {1125}{}{Lo siento, no puedo ayudarte.}
 {1126}{}{El Eje es una comunidad mercantil gigante, un poco al sur de Ciudad Vertedero.}
-{1127}{}{El Casino de Gizmo es uno de los últimos sitios donde yo iría, a no ser que fuese para clavarle un cuchillo. Suponiendo que pudiese atravesar la capa de grasa, claro.}
+{1127}{}{El Casino de Gizmo es uno de los Ãºltimos sitios donde yo irÃ­a, a no ser que fuese para clavarle un cuchillo. Suponiendo que pudiese atravesar la capa de grasa, claro.}
 {1128}{}{Killian tiene un establecimiento general decente en Ciudad Vertedero.}
-{1129}{}{He oído algunas historias sobre una criatura más rápida, más grande y más mala que otra cualquiera. Aunque no demasiadas, lo que significa que no dejan muchos supervivientes. Tienen grandes garras y son muy feroces.}
+{1129}{}{He oÃ­do algunas historias sobre una criatura mÃ¡s rÃ¡pida, mÃ¡s grande y mÃ¡s mala que otra cualquiera. Aunque no demasiadas, lo que significa que no dejan muchos supervivientes. Tienen grandes garras y son muy feroces.}
 {1130}{}{Lo siento, no puedo ayudarte.}
 {1131}{}{Lo siento, no puedo ayudarte.}
 {1132}{}{Lo siento, no puedo ayudarte.}
@@ -181,10 +181,10 @@
 {1134}{}{Lo siento, no puedo ayudarte.}
 {1136}{}{Lo siento, no puedo ayudarte.}
 {1137}{}{Lo siento, no puedo ayudarte.}
-{1138}{}{Los militares tenían varias bases militares desperdigadas por ahí. Pero no sé dónde.}
-{1139}{}{Los militares tenían varias bases militares desperdigadas por ahí. Pero no sé dónde.}
-{1141}{}{El Armagedón nuclear fue el resultado de la soberbia y la estupidez. Ahora, pagamos el precio.}
-{1142}{}{Desde luego hay bastantes cosas raras allí fuera. He visto escorpiones mutantes y vacas bicéfalas, y he oído que Necrópolis es el hogar de los necrófagos, que parecen humanos, pero no lo son.}
+{1138}{}{Los militares tenÃ­an varias bases militares desperdigadas por ahÃ­. Pero no sÃ© dÃ³nde.}
+{1139}{}{Los militares tenÃ­an varias bases militares desperdigadas por ahÃ­. Pero no sÃ© dÃ³nde.}
+{1141}{}{El ArmagedÃ³n nuclear fue el resultado de la soberbia y la estupidez. Ahora, pagamos el precio.}
+{1142}{}{Desde luego hay bastantes cosas raras allÃ­ fuera. He visto escorpiones mutantes y vacas bicÃ©falas, y he oÃ­do que NecrÃ³polis es el hogar de los necrÃ³fagos, que parecen humanos, pero no lo son.}
 {1143}{}{Lo siento, no puedo ayudarte.}
 {1144}{}{Lo siento, no puedo ayudarte.}
 {1145}{}{Lo siento, no puedo ayudarte.}
@@ -193,8 +193,8 @@
 {1148}{}{Lo siento, no puedo ayudarte.}
 {1149}{}{Lo siento, no puedo ayudarte.}
 {1150}{}{Lo siento, no puedo ayudarte.}
-{1151}{}{Yo prefiero un buen trago, o quizás una Nuka-Cola.}
-{1152}{}{Yo en tu lugar me mantendría alejada de las drogas. Claro que te dan un subidón estupendo, pero al final siempre lo pagas caro.}
+{1151}{}{Yo prefiero un buen trago, o quizÃ¡s una Nuka-Cola.}
+{1152}{}{Yo en tu lugar me mantendrÃ­a alejada de las drogas. Claro que te dan un subidÃ³n estupendo, pero al final siempre lo pagas caro.}
 {1153}{}{Lo siento, no puedo ayudarte.}
 {1154}{}{Lo siento, no puedo ayudarte.}
 {1155}{}{Lo siento, no puedo ayudarte.}
@@ -204,13 +204,13 @@
 {1159}{}{Lo siento, no puedo ayudarte.}
 {1160}{}{Lo siento, no puedo ayudarte.}
 {1161}{}{Lo siento, no puedo ayudarte.}
-{1162}{}{¿Estás hablando de telepatía? Eh... en serio, no me lo trago.}
+{1162}{}{Â¿EstÃ¡s hablando de telepatÃ­a? Eh... en serio, no me lo trago.}
 {1163}{}{Lo siento, no puedo ayudarte.}
 {1164}{}{Lo siento, no puedo ayudarte.}
 {1165}{}{Algunos mercaderes del Eje visitan Ciudad Vertedero y otras ciudades regularmente.}
-{1999}{}{¡Ahora me siento más poderoso!}
-{2000}{}{Vamos a hablar de nuestras tácticas de combate.}
-{2001}{}{¿Sí?}
+{1999}{}{Â¡Ahora me siento mÃ¡s poderoso!}
+{2000}{}{Vamos a hablar de nuestras tÃ¡cticas de combate.}
+{2001}{}{Â¿SÃ­?}
 {2010}{}{Desenfunda tu mejor arma.}
 {2011}{}{Cambia tu armadura.}
 {2012}{}{Mejor que uses el combate a distancia que el de cuerpo a cuerpo.}

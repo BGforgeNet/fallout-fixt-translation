@@ -1,4 +1,4 @@
 {100}{}{Voici Garret. Il t'observe attentivement.}
-{101}{}{Répare la pompe à eau tout de suite ou crève.}
+{101}{}{RÃ©pare la pompe Ã  eau tout de suite ou crÃ¨ve.}
 {102}{}{Du bon boulot !}
-{103}{}{Reviens ici pour réparer cette pompe à eau !}
+{103}{}{Reviens ici pour rÃ©parer cette pompe Ã  eau !}

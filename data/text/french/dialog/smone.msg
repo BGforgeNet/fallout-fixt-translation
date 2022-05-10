@@ -1,11 +1,11 @@
-{100}{}{Voici deux super mutants. L'un est blessé et l'autre le soigne.}
+{100}{}{Voici deux super mutants. L'un est blessÃ© et l'autre le soigne.}
 {101}{}{Alors, comment te sens-tu maintenant ?}
-{102}{}{[En bougeant l'épaule] Ah, c'est encore un peu douloureux. Mais au moins, ça ne saigne plus.}
-{103}{}{Bien, bien. Continue à prendre tes médicaments et tu te sentiras comme neuf.}
-{104}{}{Excellent. Lorsque je mettrai la main sur ce petit humain, je l'écraserai.}
-{105}{}{Excellent. Lorsque je mettrai la main sur cette petite humaine, je l'écraserai.}
-{106}{}{Il a fait assez de dégâts comme ça, c'est sûr. J'espère qu'ils l'attraperont vite.}
-{107}{}{Elle a fait assez de dégâts comme ça, c'est sûr. J'espère qu'ils l'attraperont vite.}
-{108}{}{Imagine si tous nos plans étaient réduits à néant à cause d'un petit humain.}
+{102}{}{[En bougeant l'Ã©paule] Ah, c'est encore un peu douloureux. Mais au moins, Ã§a ne saigne plus.}
+{103}{}{Bien, bien. Continue Ã  prendre tes mÃ©dicaments et tu te sentiras comme neuf.}
+{104}{}{Excellent. Lorsque je mettrai la main sur ce petit humain, je l'Ã©craserai.}
+{105}{}{Excellent. Lorsque je mettrai la main sur cette petite humaine, je l'Ã©craserai.}
+{106}{}{Il a fait assez de dÃ©gÃ¢ts comme Ã§a, c'est sÃ»r. J'espÃ¨re qu'ils l'attraperont vite.}
+{107}{}{Elle a fait assez de dÃ©gÃ¢ts comme Ã§a, c'est sÃ»r. J'espÃ¨re qu'ils l'attraperont vite.}
+{108}{}{Imagine si tous nos plans Ã©taient rÃ©duits Ã  nÃ©ant Ã  cause d'un petit humain.}
 {109}{}{[Rires] Ouais, ce serait dommage.}
 {110}{}{[Petits rires]}

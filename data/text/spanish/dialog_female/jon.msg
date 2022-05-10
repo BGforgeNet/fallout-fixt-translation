@@ -1,86 +1,86 @@
-{100}{}{¿Qué quieres?}
-{101}{}{Tus guardias me han dicho que tienes un trabajo para mí.}
+{100}{}{Â¿QuÃ© quieres?}
+{101}{}{Tus guardias me han dicho que tienes un trabajo para mÃ­.}
 {102}{}{No me gusta tu actitud, viejo.}
 {103}{}{Nada.}
 {104}{}{Fluup.}
-{105}{}{Debería... ¿Has tratado alguna vez con una banda de asesinos viciosos?}
-{106}{}{No hace falta que me lo cuentes. Ya sé que tienes un problema con las bandas.}
-{107}{}{¿Qué pasa aquí? ¿Hay algún lugar en el yermo que no tenga problemas con las bandas?}
+{105}{}{DeberÃ­a... Â¿Has tratado alguna vez con una banda de asesinos viciosos?}
+{106}{}{No hace falta que me lo cuentes. Ya sÃ© que tienes un problema con las bandas.}
+{107}{}{Â¿QuÃ© pasa aquÃ­? Â¿Hay algÃºn lugar en el yermo que no tenga problemas con las bandas?}
 {108}{}{He tratado con algunos.}
-{109}{}{Uh... ¿Alguna vez has tratado con bandas?}
+{109}{}{Uh... Â¿Alguna vez has tratado con bandas?}
 {110}{}{He tratado con algunas.}
-{111}{}{¿Qué te pasa, anciano? Ya te dije que sí, ¿no?}
-{112}{}{No, y no pienso empezar ahora. Buenos días, señor.}
+{111}{}{Â¿QuÃ© te pasa, anciano? Ya te dije que sÃ­, Â¿no?}
+{112}{}{No, y no pienso empezar ahora. Buenos dÃ­as, seÃ±or.}
 {113}{}{Bueno, ahora sabes lo despiadados y sedientos de sangre que pueden ser. Me temo que los Navajas sean los peores de todos. Somos una ciudad humilde y temerosa de Dios que solo quiere sobrevivir y esos... esos... monstruos... nos atacan... [Susurra mientras respira] y nuestros hijos...}
-{114}{}{Sí, sí, eso es fantástico. ¿Qué supone ese trabajo? ¿Cuánto estáis dispuestos a pagar?}
-{115}{}{¿Qué quieres decir con "atacar?"}
-{116}{}{¿Por qué no coges a tus guardias y hacéis algo contra ellos?}
-{117}{}{Bueno, los Reguladores nos protegen de los ataques, pero es lo único que pueden hacer para mantener nuestra pequeña comunidad a salvo. Anoche intentaron entrar para matar a nuestros ciudadanos o para secuestrar a nuestros niños... y... [Para un momento para calmarse antes de continuar] y la semana pasada uno de ellos entró por la puerta norte en mitad de la noche con dinamita atada a su cuerpo para volar los barracones de los Reguladores... con el único propósito de debilitarnos para poder atacarnos luego con más fuerza.}
-{118}{}{¿Y qué fue de él?}
-{119}{}{Eso parece demasiado, ¿no?}
+{114}{}{SÃ­, sÃ­, eso es fantÃ¡stico. Â¿QuÃ© supone ese trabajo? Â¿CuÃ¡nto estÃ¡is dispuestos a pagar?}
+{115}{}{Â¿QuÃ© quieres decir con "atacar?"}
+{116}{}{Â¿Por quÃ© no coges a tus guardias y hacÃ©is algo contra ellos?}
+{117}{}{Bueno, los Reguladores nos protegen de los ataques, pero es lo Ãºnico que pueden hacer para mantener nuestra pequeÃ±a comunidad a salvo. Anoche intentaron entrar para matar a nuestros ciudadanos o para secuestrar a nuestros niÃ±os... y... [Para un momento para calmarse antes de continuar] y la semana pasada uno de ellos entrÃ³ por la puerta norte en mitad de la noche con dinamita atada a su cuerpo para volar los barracones de los Reguladores... con el Ãºnico propÃ³sito de debilitarnos para poder atacarnos luego con mÃ¡s fuerza.}
+{118}{}{Â¿Y quÃ© fue de Ã©l?}
+{119}{}{Eso parece demasiado, Â¿no?}
 {120}{}{Menos mal que los Reguladores lo mataron antes de que pudiese cumplir su objetivo. Yo mismo vi el cuerpo.}
-{121}{}{Ya veo. ¿Y qué quieres que haga al respecto?}
-{122}{}{¿Así que no viste a ese tío entrar en la ciudad con la dinamita pegada al cuerpo?}
-{123}{}{¡Te daré 2.000 chapas si matas a su líder! ¡Quiero la cabeza de esa cabrona!}
+{121}{}{Ya veo. Â¿Y quÃ© quieres que haga al respecto?}
+{122}{}{Â¿AsÃ­ que no viste a ese tÃ­o entrar en la ciudad con la dinamita pegada al cuerpo?}
+{123}{}{Â¡Te darÃ© 2.000 chapas si matas a su lÃ­der! Â¡Quiero la cabeza de esa cabrona!}
 {124}{}{Pareces tener algo personal en contra de ella.}
-{125}{}{¿Por qué solo a la jefa?}
+{125}{}{Â¿Por quÃ© solo a la jefa?}
 {126}{}{Me parece bien.}
-{127}{}{No serían nada sin su... su... vil influencia.}
+{127}{}{No serÃ­an nada sin su... su... vil influencia.}
 {128}{}{Parece una chica divertida.}
-{129}{}{He escuchado suficiente. Lo haré.}
+{129}{}{He escuchado suficiente. Lo harÃ©.}
 {130}{}{Uh, de acuerdo. No quiero meterme en este asunto.}
-{131}{}{Ha secuestrado, torturado y matado a mi hijo. Lo dejaron empalado en un poste justo ahí fuera.}
-{132}{}{Esos bastardos enfermos... haré el trabajo.}
-{133}{}{No creo que quiera el trabajo después de todo.}
-{134}{}{Gracias a los dioses. Por fin mi hijo será vengado. El campamento de los Navajas está al norte de aquí. Vuelve cuando hayas hecho tu trabajo.}
-{135}{}{Como ya te he dicho, era medianoche. Estaba dormido. Afortunadamente, los Reguladores normalmente cazan a esos bárbaros antes de que se puedan colar en la ciudad.}
-{136}{}{Sí, es bastante afortunado. También es bastante conveniente.}
-{137}{}{No me gusta cómo suena eso. Cuenta conmigo.}
-{138}{}{¡Entonces, sal de aquí! Si no piensas ayudar a Adytum, ¡Adytum no te necesita!}
-{139}{}{No tengo tiempo para idioteces. Sal de aquí.}
-{140}{}{Ignoraré ese comentario si de verdad has venido a solucionarme el problema.}
-{141}{}{¿Qué problema es ése?}
-{142}{}{¿Qué? ¿Qué eres, viejo y estúpido?}
-{143}{}{¿Has tratado alguna vez con una banda de ladrones viciosos y asesinos?}
-{144}{}{No hace falta que me lo cuentes. Ya sé que tienes un problema con las bandas.}
-{145}{}{¿Qué pasa aquí? ¿Hay algún lugar en el yermo que no tenga problemas con las bandas?}
+{131}{}{Ha secuestrado, torturado y matado a mi hijo. Lo dejaron empalado en un poste justo ahÃ­ fuera.}
+{132}{}{Esos bastardos enfermos... harÃ© el trabajo.}
+{133}{}{No creo que quiera el trabajo despuÃ©s de todo.}
+{134}{}{Gracias a los dioses. Por fin mi hijo serÃ¡ vengado. El campamento de los Navajas estÃ¡ al norte de aquÃ­. Vuelve cuando hayas hecho tu trabajo.}
+{135}{}{Como ya te he dicho, era medianoche. Estaba dormido. Afortunadamente, los Reguladores normalmente cazan a esos bÃ¡rbaros antes de que se puedan colar en la ciudad.}
+{136}{}{SÃ­, es bastante afortunado. TambiÃ©n es bastante conveniente.}
+{137}{}{No me gusta cÃ³mo suena eso. Cuenta conmigo.}
+{138}{}{Â¡Entonces, sal de aquÃ­! Si no piensas ayudar a Adytum, Â¡Adytum no te necesita!}
+{139}{}{No tengo tiempo para idioteces. Sal de aquÃ­.}
+{140}{}{IgnorarÃ© ese comentario si de verdad has venido a solucionarme el problema.}
+{141}{}{Â¿QuÃ© problema es Ã©se?}
+{142}{}{Â¿QuÃ©? Â¿QuÃ© eres, viejo y estÃºpido?}
+{143}{}{Â¿Has tratado alguna vez con una banda de ladrones viciosos y asesinos?}
+{144}{}{No hace falta que me lo cuentes. Ya sÃ© que tienes un problema con las bandas.}
+{145}{}{Â¿QuÃ© pasa aquÃ­? Â¿Hay algÃºn lugar en el yermo que no tenga problemas con las bandas?}
 {146}{}{He tratado con algunos.}
-{147}{}{¡Otra ciudad de mierda con problemas de bandas no! ¡Eso es ridículo!}
-{148}{}{¡Lo conveniente sería acabar con su locura de una vez!}
-{149}{}{Déjame pensar... quieres verlos muertos.}
-{150}{}{¿Cómo puedo ayudar?}
-{151}{}{Aquí se está cociendo algo de lo que no me quiero enterar. Me voy ahora mismo.}
-{152}{}{¡¿Qué?! ¿Tú otra vez? ¿Qué quieres ahora?}
-{153}{}{Me lo he pensado mejor. Haré el trabajo, viejo.}
+{147}{}{Â¡Otra ciudad de mierda con problemas de bandas no! Â¡Eso es ridÃ­culo!}
+{148}{}{Â¡Lo conveniente serÃ­a acabar con su locura de una vez!}
+{149}{}{DÃ©jame pensar... quieres verlos muertos.}
+{150}{}{Â¿CÃ³mo puedo ayudar?}
+{151}{}{AquÃ­ se estÃ¡ cociendo algo de lo que no me quiero enterar. Me voy ahora mismo.}
+{152}{}{Â¡Â¿QuÃ©?! Â¿TÃº otra vez? Â¿QuÃ© quieres ahora?}
+{153}{}{Me lo he pensado mejor. HarÃ© el trabajo, viejo.}
 {154}{}{No me gusta tu actitud, viejo.}
 {155}{}{Nada.}
-{156}{}{[Te mira con cautela] El campamento de los Navajas está al norte de aquí. Vuelve cuando hayas acabado el trabajo y te pagaré 2.000 chapas.}
-{157}{}{¿Por qué no te has ocupado de eso todavía?}
-{158}{}{He cambiado de opinión.}
+{156}{}{[Te mira con cautela] El campamento de los Navajas estÃ¡ al norte de aquÃ­. Vuelve cuando hayas acabado el trabajo y te pagarÃ© 2.000 chapas.}
+{157}{}{Â¿Por quÃ© no te has ocupado de eso todavÃ­a?}
+{158}{}{He cambiado de opiniÃ³n.}
 {159}{}{Estoy en ello.}
-{160}{}{Eh, cállate, viejo.}
-{161}{}{Bueno, trabaja más rápido y no me molestes otra vez hasta que hayas acabado con su miserable vida.}
-{162}{}{¿Lo hiciste?! ¿Está muerta? ¿Está muerta?}
-{163}{}{Necesitas ayuda, viejo. Sí, está muerta.}
+{160}{}{Eh, cÃ¡llate, viejo.}
+{161}{}{Bueno, trabaja mÃ¡s rÃ¡pido y no me molestes otra vez hasta que hayas acabado con su miserable vida.}
+{162}{}{Â¿Lo hiciste?! Â¿EstÃ¡ muerta? Â¿EstÃ¡ muerta?}
+{163}{}{Necesitas ayuda, viejo. SÃ­, estÃ¡ muerta.}
 {164}{}{Por supuesto. La hice sufrir por hacerte un favor personal.}
-{165}{}{Sí.}
-{166}{}{¡¡¡Gracias a los dioses!!! Aquí están tus chapas. Siempre serás bienvenida en Adytum, hija mía.}
-{167}{}{¡Por fin conoce el sabor del fuego del infierno! Alabada seas, hija mía. [Deja escapar una lágrima.] Aquí tienes 500 chapas extra por tus esfuerzos suplementarios. Siempre serás bienvenida aquí.}
-{168}{}{¿¡¿Lo hiciste?!? ¿Está muerta? ¿Está muerta?}
-{169}{}{Calla tu maldita boca y déjame hablar, viejo. Tenemos que hablar de algo.}
+{165}{}{SÃ­.}
+{166}{}{Â¡Â¡Â¡Gracias a los dioses!!! AquÃ­ estÃ¡n tus chapas. Siempre serÃ¡s bienvenida en Adytum, hija mÃ­a.}
+{167}{}{Â¡Por fin conoce el sabor del fuego del infierno! Alabada seas, hija mÃ­a. [Deja escapar una lÃ¡grima.] AquÃ­ tienes 500 chapas extra por tus esfuerzos suplementarios. Siempre serÃ¡s bienvenida aquÃ­.}
+{168}{}{Â¿Â¡Â¿Lo hiciste?!? Â¿EstÃ¡ muerta? Â¿EstÃ¡ muerta?}
+{169}{}{Calla tu maldita boca y dÃ©jame hablar, viejo. Tenemos que hablar de algo.}
 {170}{}{Tienes que escuchar algo.}
-{171}{}{¡Estoy harto de tu insolencia! ¡¿Está muerta o no?!}
+{171}{}{Â¡Estoy harto de tu insolencia! Â¡Â¿EstÃ¡ muerta o no?!}
 {172}{}{Mira, escucha esto.}
-{173}{}{[Mientras escucha el holodisco, empieza a temblar y a enrojecer. Crees que puede caerse muerto del odio que siente.] ¡Os mataré a todos malditos bastardos!}
-{174}{}{¡Bastarda! ¡Has traído la mala suerte a nuestra casa!}
-{175}{}{Estás viendo a un hombre de mediana edad con ropa de calle.}
+{173}{}{[Mientras escucha el holodisco, empieza a temblar y a enrojecer. Crees que puede caerse muerto del odio que siente.] Â¡Os matarÃ© a todos malditos bastardos!}
+{174}{}{Â¡Bastarda! Â¡Has traÃ­do la mala suerte a nuestra casa!}
+{175}{}{EstÃ¡s viendo a un hombre de mediana edad con ropa de calle.}
 {176}{}{Ves: a Jon Zimmerman, alcalde de Adytum.}
-{177}{}{Sí. ¿Qué quieres?}
-{178}{}{Sé algo de tu hijo que te podría interesar.}
+{177}{}{SÃ­. Â¿QuÃ© quieres?}
+{178}{}{SÃ© algo de tu hijo que te podrÃ­a interesar.}
 {179}{}{No importa.}
 {180}{}{Blorb.}
-{181}{}{¿Quién eres?}
-{182}{}{Soy Jon Zimmerman, alcalde de Adytum. ¿Qué te pasa?}
+{181}{}{Â¿QuiÃ©n eres?}
+{182}{}{Soy Jon Zimmerman, alcalde de Adytum. Â¿QuÃ© te pasa?}
 {183}{}{Hola.}
 {184}{}{Me alegro de verte.}
 {185}{}{Gracias por tu ayuda.}

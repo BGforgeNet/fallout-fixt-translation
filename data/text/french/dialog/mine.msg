@@ -1,2 +1,2 @@
-{100}{}{Tu repères une mine intelligemment posée.}
+{100}{}{Tu repÃ¨res une mine intelligemment posÃ©e.}
 {101}{}{Tu marches sur une mine. BOOM !}

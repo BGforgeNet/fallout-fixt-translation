@@ -1,5 +1,5 @@
-{100}{}{¡Muere, perro!}
-{101}{}{¡Mi derrota será vengada!}
-{102}{}{¡Hola, Iniciada! Espero que les vaya bien a tus tropas.}
-{103}{}{¡Espera! Si todavía no has hablado con nuestro Capitán, hazlo y luego, ¡vete!}
-{104}{}{¡Quieto! Te reconozco y no confío en ti. Te daré un aviso: Si nos metes en líos, acabarás bajo tierra. ¡Ahora muévete!}
+{100}{}{Â¡Muere, perro!}
+{101}{}{Â¡Mi derrota serÃ¡ vengada!}
+{102}{}{Â¡Hola, Iniciada! Espero que les vaya bien a tus tropas.}
+{103}{}{Â¡Espera! Si todavÃ­a no has hablado con nuestro CapitÃ¡n, hazlo y luego, Â¡vete!}
+{104}{}{Â¡Quieto! Te reconozco y no confÃ­o en ti. Te darÃ© un aviso: Si nos metes en lÃ­os, acabarÃ¡s bajo tierra. Â¡Ahora muÃ©vete!}

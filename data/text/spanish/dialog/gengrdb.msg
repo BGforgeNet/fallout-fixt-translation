@@ -1,5 +1,5 @@
 {100}{}{Llegaste a tiempo, colega. Espero que tengas buen viaje.}
-{101}{}{¡Podemos necesitar tu ayuda!}
-{102}{}{¡Voy a matarte!}
-{103}{}{¡Déjame!}
-{104}{}{¡Protege la caravana!}
+{101}{}{Â¡Podemos necesitar tu ayuda!}
+{102}{}{Â¡Voy a matarte!}
+{103}{}{Â¡DÃ©jame!}
+{104}{}{Â¡Protege la caravana!}

@@ -1,36 +1,36 @@
-{100}{}{Estás viendo a un Paladín.}
+{100}{}{EstÃ¡s viendo a un PaladÃ­n.}
 {101}{}{Lo siento, estamos bajo alerta. No puedo hablar ahora mismo.}
-{102}{}{¿Ves algo?}
-{103}{}{Esos mutantes pagarán por lo que hicieron.}
+{102}{}{Â¿Ves algo?}
+{103}{}{Esos mutantes pagarÃ¡n por lo que hicieron.}
 {104}{}{No te preocupes, lo tenemos todo bajo control.}
-{105}{}{Yo que tú no merodearía por aquí, Iniciado, ¿quieres que se derrame más sangre?}
+{105}{}{Yo que tÃº no merodearÃ­a por aquÃ­, Iniciado, Â¿quieres que se derrame mÃ¡s sangre?}
 {106}{}{Vela por nosotros, Iniciado.}
-{107}{}{Yo que tú no merodearía por aquí, extraño, ¿quieres que se derrame más sangre?}
+{107}{}{Yo que tÃº no merodearÃ­a por aquÃ­, extraÃ±o, Â¿quieres que se derrame mÃ¡s sangre?}
 {108}{}{Mantente alerta, forastero, soplan vientos de guerra.}
 {109}{}{Te marchas.}
 {110}{}{No me distraigas, estamos en alerta.}
-{111}{}{Tranquilízate.}
+{111}{}{TranquilÃ­zate.}
 {112}{}{No me hagas perder el tiempo, Iniciado.}
 {113}{}{Cierra la boca, extranjero.}
-{114}{}{Lárgate, extranjero, antes de que se derrame sangre.}
+{114}{}{LÃ¡rgate, extranjero, antes de que se derrame sangre.}
 {115}{}{Hay que limpiar este mundo de todas estas abominaciones.}
-{116}{}{¿Qué fue eso?}
+{116}{}{Â¿QuÃ© fue eso?}
 {117}{}{Me duelen los pies.}
-{118}{}{Pagarán por esto...}
-{119}{}{Déjales que lo intenten otra vez.}
-{120}{}{Qué... Oh, no es nada.}
-{121}{}{¡Estate alerta!}
-{200}{}{Bob, ¿cuál es tu posición?}
+{118}{}{PagarÃ¡n por esto...}
+{119}{}{DÃ©jales que lo intenten otra vez.}
+{120}{}{QuÃ©... Oh, no es nada.}
+{121}{}{Â¡Estate alerta!}
+{200}{}{Bob, Â¿cuÃ¡l es tu posiciÃ³n?}
 {201}{}{Todo claro.}
 {202}{}{No creo que vuelvan.}
 {203}{}{No cuentes con ello.}
-{204}{}{¿Has vuelto a escuchar a los exploradores?}
-{205}{}{Aún no.}
-{206}{}{Los exploradores informan de que todo está en orden.}
+{204}{}{Â¿Has vuelto a escuchar a los exploradores?}
+{205}{}{AÃºn no.}
+{206}{}{Los exploradores informan de que todo estÃ¡ en orden.}
 {207}{}{Bien.}
-{208}{}{Bueno, ¿en qué estabas trabajando esta mañana Ray?}
+{208}{}{Bueno, Â¿en quÃ© estabas trabajando esta maÃ±ana Ray?}
 {209}{}{Intentando aumentar el alcance del rifle de plasma.}
-{210}{}{¿Has probado la Gatling láser?}
-{211}{}{Sí, colaboré en el primer prototipo.}
-{212}{}{¡Vete con el parloteo a otra parte!}
-{213}{}{Sí, señor. Lo siento, señor.}
+{210}{}{Â¿Has probado la Gatling lÃ¡ser?}
+{211}{}{SÃ­, colaborÃ© en el primer prototipo.}
+{212}{}{Â¡Vete con el parloteo a otra parte!}
+{213}{}{SÃ­, seÃ±or. Lo siento, seÃ±or.}

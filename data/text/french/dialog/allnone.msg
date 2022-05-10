@@ -4,8 +4,8 @@
 {103}{}{Je voudrais vendre quelque chose.}
 {104}{}{Rien. Merci.}
 {105}{}{Zou.}
-{106}{}{Très bien. Voici ce que j'ai en rayon.}
-{107}{}{Très bien, je suis toujours à l'affût des nouveautés.}
-{108}{}{Désolé, mais je ne comprends rien. Repasse quand tu auras appris le français.}
-{109}{}{Merci. A bientôt.}
+{106}{}{TrÃ¨s bien. Voici ce que j'ai en rayon.}
+{107}{}{TrÃ¨s bien, je suis toujours Ã  l'affÃ»t des nouveautÃ©s.}
+{108}{}{DÃ©solÃ©, mais je ne comprends rien. Repasse quand tu auras appris le franÃ§ais.}
+{109}{}{Merci. A bientÃ´t.}
 {110}{}{Voici Jake, le Trafiquant d'Armes.}

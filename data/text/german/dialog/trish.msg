@@ -2,7 +2,7 @@
 {101}{}{What the hell are you doing in my room?}
 {102}{}{Gug!}
 {103}{}{Whoops, sorry. I thought this was my room.}
-{104}{}{Tut mir leid. Tschüss.}
+{104}{}{Tut mir leid. TschÃ¼ss.}
 {105}{}{No way! I'm not into that! Go talk to Sinthia down the hall. She might be available, but she is never free.}
 {106}{}{Yeah, right. Whatever. This is my room. Get the hell out.}
 {107}{}{What the hell are you doing in my room?}
@@ -46,7 +46,7 @@
 {145}{}{Who owns the bar?}
 {146}{}{Who is Gizmo?}
 {147}{}{Why did you scream about Saul?}
-{148}{}{Danke, Tschüss.}
+{148}{}{Danke, TschÃ¼ss.}
 {149}{}{Neal owns the bar. He's a good guy, always treated me right. We used to date, but he got a little too serious for my liking. I don't want to be a widow.}
 {150}{}{Oh! Saul, where are you?!?}
 {151}{}{Zzzz}

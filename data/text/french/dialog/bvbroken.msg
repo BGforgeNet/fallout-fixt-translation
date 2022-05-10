@@ -1,1 +1,1 @@
-{100}{}{L'ascenseur est endommagé, vous pourriez peut-être prendre l'échelle.}
+{100}{}{L'ascenseur est endommagÃ©, vous pourriez peut-Ãªtre prendre l'Ã©chelle.}

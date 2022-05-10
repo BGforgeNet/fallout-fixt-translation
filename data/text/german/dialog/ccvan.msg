@@ -6,7 +6,7 @@
 {105}{}{Nein.}
 {106}{}{Great. We have space for another guard. Are you interested?}
 {107}{}{Okay. If you need work, just stop by and we'll set you up.}
-{108}{}{Tut mir leid für dich. Tschüss.}
+{108}{}{Tut mir leid fÃ¼r dich. TschÃ¼ss.}
 {109}{}{Excellent. We have caravans leaving for L.A. Boneyard, Junktown, Necropolis and the Brotherhood of Steel. Which would you like to work on?}
 {110}{}{Excellent. We have caravans leaving for L.A. Boneyard, Junktown and the Brotherhood of Steel. Which would you like to work on?}
 {111}{}{Excellent. We have caravans leaving for L.A. Boneyard and Junktown. Which would you like to work on?}

@@ -1,146 +1,146 @@
 {100}{}{Ves: a Demetre.}
-{101}{}{¡Eh tú! ¿Qué tal estás? Me llamo Demetre, Demetre Romara y soy el jefe de la mejor caravana del yermo. ¿Estás buscando un trabajo?}
-{102}{}{Mmm, no pareces demasiado fuerte pero... ¡Debes ser genial con un arma si has sobrevivido ahí fuera! ¡Demonios, seguramente eres una fiera cuando llega el momento!}
+{101}{}{Â¡Eh tÃº! Â¿QuÃ© tal estÃ¡s? Me llamo Demetre, Demetre Romara y soy el jefe de la mejor caravana del yermo. Â¿EstÃ¡s buscando un trabajo?}
+{102}{}{Mmm, no pareces demasiado fuerte pero... Â¡Debes ser genial con un arma si has sobrevivido ahÃ­ fuera! Â¡Demonios, seguramente eres una fiera cuando llega el momento!}
 {103}{}{Pareces estar en forma.}
 {104}{}{Pareces bastante fuerte.}
-{105}{}{¡Demonios, pareces fuerte!}
-{106}{}{¡Demonios, según parece eres capaz de levantar una montaña!}
-{107}{}{Ajá, ¿y?}
-{108}{}{¿A ti qué te importa?}
-{109}{}{¿Eh?}
-{110}{}{¡Es precisamente lo que estaba buscando! ¡Seguro que te gusta la emoción de la batalla! ¡Balas por todas partes silbando en tus oídos, partiendo a tu enemigo en dos y viendo el miedo en sus ojos! Ahhhh, ¡eso sí que es vida! Pareces el tipo de persona que se ajusta a nuestras necesidades, ¡y pagamos bien! ¡Claro que pagamos bien! Tenemos algunas nuevas ofertas si te interesa; aunque por supuesto que te interesa, ¿no?}
-{111}{}{¿Cuál es el sueldo?}
-{112}{}{¡Mataré cualquier cosa que se ponga en mi camino!}
+{105}{}{Â¡Demonios, pareces fuerte!}
+{106}{}{Â¡Demonios, segÃºn parece eres capaz de levantar una montaÃ±a!}
+{107}{}{AjÃ¡, Â¿y?}
+{108}{}{Â¿A ti quÃ© te importa?}
+{109}{}{Â¿Eh?}
+{110}{}{Â¡Es precisamente lo que estaba buscando! Â¡Seguro que te gusta la emociÃ³n de la batalla! Â¡Balas por todas partes silbando en tus oÃ­dos, partiendo a tu enemigo en dos y viendo el miedo en sus ojos! Ahhhh, Â¡eso sÃ­ que es vida! Pareces el tipo de persona que se ajusta a nuestras necesidades, Â¡y pagamos bien! Â¡Claro que pagamos bien! Tenemos algunas nuevas ofertas si te interesa; aunque por supuesto que te interesa, Â¿no?}
+{111}{}{Â¿CuÃ¡l es el sueldo?}
+{112}{}{Â¡MatarÃ© cualquier cosa que se ponga en mi camino!}
 {113}{}{No, gracias.}
 {114}{}{Necesito un Chip de Agua.}
-{115}{}{¿Qué sabes de las caravanas desaparecidas?}
+{115}{}{Â¿QuÃ© sabes de las caravanas desaparecidas?}
 {116}{}{Me tengo que ir.}
-{117}{}{¡Ugggg, uggg!}
-{118}{}{¡Pagamos 600 pavos por trabajo! ¡Eso es! Demonios, la gente dice que seguimos las rutas más peligrosas, pero yo digo que son las más emocionantes. Hay que poner algo de emoción en la vida, ¿no tengo razón? ¡Claro que la tengo!}
-{119}{}{Demonios, ¡creo que es lo que andaba buscando!}
-{120}{}{¿Siempre hablas tan alto?}
-{121}{}{¿Peligrosas?}
+{117}{}{Â¡Ugggg, uggg!}
+{118}{}{Â¡Pagamos 600 pavos por trabajo! Â¡Eso es! Demonios, la gente dice que seguimos las rutas mÃ¡s peligrosas, pero yo digo que son las mÃ¡s emocionantes. Hay que poner algo de emociÃ³n en la vida, Â¿no tengo razÃ³n? Â¡Claro que la tengo!}
+{119}{}{Demonios, Â¡creo que es lo que andaba buscando!}
+{120}{}{Â¿Siempre hablas tan alto?}
+{121}{}{Â¿Peligrosas?}
 {122}{}{No gracias, compi.}
-{123}{}{¡Demonios, claro que sí! Ve a hablar con Keri ahí al lado y ella te dirá cuando parte la próxima caravana.}
-{124}{}{¿Compi? ¿De qué demonios hablas? Bueno, a mí me importa un comino.}
-{125}{}{¿Tienes miedo a los ruidos fuertes o algo así?}
-{126}{}{Sí.}
+{123}{}{Â¡Demonios, claro que sÃ­! Ve a hablar con Keri ahÃ­ al lado y ella te dirÃ¡ cuando parte la prÃ³xima caravana.}
+{124}{}{Â¿Compi? Â¿De quÃ© demonios hablas? Bueno, a mÃ­ me importa un comino.}
+{125}{}{Â¿Tienes miedo a los ruidos fuertes o algo asÃ­?}
+{126}{}{SÃ­.}
 {127}{}{Solo de noche.}
 {128}{}{No, me preguntaba si eres mudo o tonto.}
-{129}{}{No, pero me estaban empezando a doler los oídos.}
-{130}{}{¡Ja! ¡Quizás las dos cosas! Bueno, si quieres un trabajo, ve a hablar con Keri que está ahí al lado.}
-{131}{}{Te crees muy listo, ¿verdad? Bueno, ¡eso no me importa! Mientras defiendas las caravanas, yo estaré satisfecho. Si quieres un trabajo, vete a hablar con Keri que está ahí al lado.}
-{132}{}{¡Ja! ¡Qué gracia! Bueno, si piensas que puedes soportar la oscuridad, ven a verme.}
-{133}{}{Por supuesto que es peligroso... ¿por qué otra razón iba a soltar 600 chapas?}
-{134}{}{Oh, Vale. Adiós.}
-{135}{}{Aun así, cogeré el trabajo.}
-{136}{}{¡Lárgate de aquí antes de que te vuele la cabeza!}
-{137}{}{¡Te volaré la cabeza!}
-{138}{}{¡Te pillé!}
-{139}{}{¡Por supuesto que lo harás! Ve a hablar con Keri que está en la sala contigua, ella lleva la organización.}
-{140}{}{Demonios, qué decepción, pero bueno.}
-{141}{}{¡Sí! ¡Me gustas! ¡Te contrato! Ve a hablar con Keri, está ahí al lado; ella te asignará una caravana.}
-{142}{}{¿Un Chip de Agua? Mmm, nunca lo he oído nombrar antes. Quizás quieras mirar una de esas tiendas de ahí fuera; tienen de todo. Bueno, ¿querías un trabajo?}
-{143}{}{Bueno. ¿Cuál es el sueldo?}
+{129}{}{No, pero me estaban empezando a doler los oÃ­dos.}
+{130}{}{Â¡Ja! Â¡QuizÃ¡s las dos cosas! Bueno, si quieres un trabajo, ve a hablar con Keri que estÃ¡ ahÃ­ al lado.}
+{131}{}{Te crees muy listo, Â¿verdad? Bueno, Â¡eso no me importa! Mientras defiendas las caravanas, yo estarÃ© satisfecho. Si quieres un trabajo, vete a hablar con Keri que estÃ¡ ahÃ­ al lado.}
+{132}{}{Â¡Ja! Â¡QuÃ© gracia! Bueno, si piensas que puedes soportar la oscuridad, ven a verme.}
+{133}{}{Por supuesto que es peligroso... Â¿por quÃ© otra razÃ³n iba a soltar 600 chapas?}
+{134}{}{Oh, Vale. AdiÃ³s.}
+{135}{}{Aun asÃ­, cogerÃ© el trabajo.}
+{136}{}{Â¡LÃ¡rgate de aquÃ­ antes de que te vuele la cabeza!}
+{137}{}{Â¡Te volarÃ© la cabeza!}
+{138}{}{Â¡Te pillÃ©!}
+{139}{}{Â¡Por supuesto que lo harÃ¡s! Ve a hablar con Keri que estÃ¡ en la sala contigua, ella lleva la organizaciÃ³n.}
+{140}{}{Demonios, quÃ© decepciÃ³n, pero bueno.}
+{141}{}{Â¡SÃ­! Â¡Me gustas! Â¡Te contrato! Ve a hablar con Keri, estÃ¡ ahÃ­ al lado; ella te asignarÃ¡ una caravana.}
+{142}{}{Â¿Un Chip de Agua? Mmm, nunca lo he oÃ­do nombrar antes. QuizÃ¡s quieras mirar una de esas tiendas de ahÃ­ fuera; tienen de todo. Bueno, Â¿querÃ­as un trabajo?}
+{143}{}{Bueno. Â¿CuÃ¡l es el sueldo?}
 {144}{}{No, en realidad no.}
-{145}{}{No mucho, yo he perdido solo dos. No sé por qué están molestando sobre todo a los Comerciantes de Ultramar.}
-{146}{}{¿Alguna sospecha?}
-{147}{}{¿Qué hay de las rutas y el cargamento?}
+{145}{}{No mucho, yo he perdido solo dos. No sÃ© por quÃ© estÃ¡n molestando sobre todo a los Comerciantes de Ultramar.}
+{146}{}{Â¿Alguna sospecha?}
+{147}{}{Â¿QuÃ© hay de las rutas y el cargamento?}
 {148}{}{Vale, gracias.}
-{149}{}{Quien quiera que esté haciendo esto tiene que tener muy mala uva. Nuestras caravanas están bien armadas y las que desaparecen no dejan ni rastro.}
-{150}{}{Bueno, ¿cuánto pagan en ese trabajo?}
-{151}{}{¿Qué hay de las rutas y el cargamento?}
+{149}{}{Quien quiera que estÃ© haciendo esto tiene que tener muy mala uva. Nuestras caravanas estÃ¡n bien armadas y las que desaparecen no dejan ni rastro.}
+{150}{}{Bueno, Â¿cuÃ¡nto pagan en ese trabajo?}
+{151}{}{Â¿QuÃ© hay de las rutas y el cargamento?}
 {152}{}{Vale, gracias.}
-{153}{}{Demonios, ¡vamos a lugares más peligrosos que ellos y nuestro cargamento es mejor!}
-{154}{}{¿Cómo es que vuestro cargamento es mejor?}
+{153}{}{Demonios, Â¡vamos a lugares mÃ¡s peligrosos que ellos y nuestro cargamento es mejor!}
+{154}{}{Â¿CÃ³mo es que vuestro cargamento es mejor?}
 {155}{}{Simplemente estaba comprobando, gracias.}
-{156}{}{¡Eres idiota!}
-{157}{}{Bueno, vale... quizás no sea mejor, pero tenemos más variedad.}
+{156}{}{Â¡Eres idiota!}
+{157}{}{Bueno, vale... quizÃ¡s no sea mejor, pero tenemos mÃ¡s variedad.}
 {158}{}{Vale, gracias.}
-{159}{}{Ya sabes, Beth se ha enterado de algo sobre la Garra Mortal. ¡Yo lo comprobaría si fuese tú! Me han llegado algunos rumores de otras fuentes sobre algo que se arrastra durante la noche hacia el noroeste.}
-{160}{}{Lo siento, pero nos pagan muchas chapas para asegurarnos de que el trabajo está hecho. ¡Solo contrataremos a los mejores! ¡Necesitamos hombres y mujeres de confianza en esas caravanas!}
-{161}{}{Como si de verdad quisiera un trabajo, ¡bocazas!}
+{159}{}{Ya sabes, Beth se ha enterado de algo sobre la Garra Mortal. Â¡Yo lo comprobarÃ­a si fuese tÃº! Me han llegado algunos rumores de otras fuentes sobre algo que se arrastra durante la noche hacia el noroeste.}
+{160}{}{Lo siento, pero nos pagan muchas chapas para asegurarnos de que el trabajo estÃ¡ hecho. Â¡Solo contrataremos a los mejores! Â¡Necesitamos hombres y mujeres de confianza en esas caravanas!}
+{161}{}{Como si de verdad quisiera un trabajo, Â¡bocazas!}
 {162}{}{Disculpa si te he molestado.}
-{163}{}{Por favor, ¿puedo elegir otro trabajo?}
-{164}{}{¿Huta?}
-{165}{}{¡Ya te dije que no te contrataríamos!}
-{166}{}{Lo siento, ¡ya he hecho suficiente arriesgándome contigo!}
-{167}{}{¡Estás perdiendo el tiempo aquí!}
-{168}{}{¡Por favor deja de molestarme!}
-{169}{}{Lárgate.}
+{163}{}{Por favor, Â¿puedo elegir otro trabajo?}
+{164}{}{Â¿Huta?}
+{165}{}{Â¡Ya te dije que no te contratarÃ­amos!}
+{166}{}{Lo siento, Â¡ya he hecho suficiente arriesgÃ¡ndome contigo!}
+{167}{}{Â¡EstÃ¡s perdiendo el tiempo aquÃ­!}
+{168}{}{Â¡Por favor deja de molestarme!}
+{169}{}{LÃ¡rgate.}
 {170}{}{Demetre te ignora.}
-{171}{}{Demonios, ¡no contrato a drogadictos asquerosos! ¡Si quieres un trabajo será mejor que se te pase el colocón!}
-{172}{}{No soy ningún drogadicto... quiero decir... ¡Arg!}
-{173}{}{¡Blah!}
-{174}{}{Con que de subidón, ¿eh? Demonios, ¡he hecho bien en no contratar otra vez a un maldito yonqui como tú!}
-{175}{}{¡Demonios, no! ¡No te imaginas lo que eso significa! ¡No podemos permitirnos correr el riesgo! Demonios, ¡yo no sé cómo los Comerciantes de Ultramar todavía hacen negocios con todo el lío de esas caravanas desaparecidas!}
-{176}{}{Lo siento, pero tendrás que ver si alguna otra caravana quiere correr el riesgo contigo. No puedo permitirme coger a nadie más.}
-{177}{}{¡Sal de aquí! ¡Me pones enfermo!}
-{178}{}{¡Eh! ¿Qué crees que estás haciendo?}
-{179}{}{Eso lleva a nuestro almacén.}
+{171}{}{Demonios, Â¡no contrato a drogadictos asquerosos! Â¡Si quieres un trabajo serÃ¡ mejor que se te pase el colocÃ³n!}
+{172}{}{No soy ningÃºn drogadicto... quiero decir... Â¡Arg!}
+{173}{}{Â¡Blah!}
+{174}{}{Con que de subidÃ³n, Â¿eh? Demonios, Â¡he hecho bien en no contratar otra vez a un maldito yonqui como tÃº!}
+{175}{}{Â¡Demonios, no! Â¡No te imaginas lo que eso significa! Â¡No podemos permitirnos correr el riesgo! Demonios, Â¡yo no sÃ© cÃ³mo los Comerciantes de Ultramar todavÃ­a hacen negocios con todo el lÃ­o de esas caravanas desaparecidas!}
+{176}{}{Lo siento, pero tendrÃ¡s que ver si alguna otra caravana quiere correr el riesgo contigo. No puedo permitirme coger a nadie mÃ¡s.}
+{177}{}{Â¡Sal de aquÃ­! Â¡Me pones enfermo!}
+{178}{}{Â¡Eh! Â¿QuÃ© crees que estÃ¡s haciendo?}
+{179}{}{Eso lleva a nuestro almacÃ©n.}
 {180}{}{Solo puede abrirse desde el otro lado.}
-{181}{}{Tú eres de fuera.}
-{182}{}{Estás perdiendo el tiempo.}
-{183}{}{Él te ignora.}
-{184}{}{Bueno, ¿quieres un trabajo o qué? ¡Te estoy ofreciendo grandes emociones y montones de chapas! ¡Nunca tendrás demasiado de ninguno de los dos!}
-{185}{}{Oh, sí. ¿Cuántas serán?}
-{186}{}{¡Mataré cualquier cosa que se ponga en mi camino!}
+{181}{}{TÃº eres de fuera.}
+{182}{}{EstÃ¡s perdiendo el tiempo.}
+{183}{}{Ã‰l te ignora.}
+{184}{}{Bueno, Â¿quieres un trabajo o quÃ©? Â¡Te estoy ofreciendo grandes emociones y montones de chapas! Â¡Nunca tendrÃ¡s demasiado de ninguno de los dos!}
+{185}{}{Oh, sÃ­. Â¿CuÃ¡ntas serÃ¡n?}
+{186}{}{Â¡MatarÃ© cualquier cosa que se ponga en mi camino!}
 {187}{}{No, gracias.}
 {188}{}{Necesito un Chip de Agua.}
-{189}{}{¿Qué sabes de las caravanas desaparecidas?}
+{189}{}{Â¿QuÃ© sabes de las caravanas desaparecidas?}
 {190}{}{Me tengo que ir.}
-{191}{}{¿Ruk luk?}
-{192}{}{Eh, hiciste un buen trabajo en la última caravana... ¡buen viaje! ¿Querías algo?}
-{193}{}{Sí, quería otro trabajo.}
+{191}{}{Â¿Ruk luk?}
+{192}{}{Eh, hiciste un buen trabajo en la Ãºltima caravana... Â¡buen viaje! Â¿QuerÃ­as algo?}
+{193}{}{SÃ­, querÃ­a otro trabajo.}
 {194}{}{Necesito un Chip de Agua.}
-{195}{}{¿Qué sabes de las caravanas desaparecidas?}
+{195}{}{Â¿QuÃ© sabes de las caravanas desaparecidas?}
 {196}{}{No. Solo he pasado para saludar.}
-{197}{}{Nada, adiós.}
-{198}{}{¡Perdimos todo nuestro cargamento! Lo siento, pero me temo que ya no podamos contratarte.}
-{199}{}{Tienes suerte, casi te pierdes con aquella caravana. Lo siento, pero me temo que no podamos contratarte más.}
-{200}{}{No estamos contratando, entonces, ¿qué es lo que quieres?}
-{201}{}{¡Piérdete! No estamos contratando.}
+{197}{}{Nada, adiÃ³s.}
+{198}{}{Â¡Perdimos todo nuestro cargamento! Lo siento, pero me temo que ya no podamos contratarte.}
+{199}{}{Tienes suerte, casi te pierdes con aquella caravana. Lo siento, pero me temo que no podamos contratarte mÃ¡s.}
+{200}{}{No estamos contratando, entonces, Â¿quÃ© es lo que quieres?}
+{201}{}{Â¡PiÃ©rdete! No estamos contratando.}
 {202}{}{Necesito un Chip de Agua.}
-{203}{}{Dime qué sabes de las caravanas desaparecidas.}
-{204}{}{¡Quiero que te quites de mi vista!}
-{205}{}{¡Quiero ver tu cabeza rodando!}
+{203}{}{Dime quÃ© sabes de las caravanas desaparecidas.}
+{204}{}{Â¡Quiero que te quites de mi vista!}
+{205}{}{Â¡Quiero ver tu cabeza rodando!}
 {206}{}{No importa.}
-{207}{}{¿Ruk luk?}
-{208}{}{¿Crees que eres muy machote? ¡No me hagas reír!}
-{209}{}{Bueno, deberías hablar con mi hija, Keri; ¡ella es la que se ocupa de todo eso! Está ahí al lado.}
-{210}{}{Ya te lo he dicho. Habla con Keri que está en la sala contigua.}
-{211}{}{¿Tu hija?}
-{212}{}{¿Esa cosa fea es tu hija? ¡Ahora entiendo muchas cosas!}
+{207}{}{Â¿Ruk luk?}
+{208}{}{Â¿Crees que eres muy machote? Â¡No me hagas reÃ­r!}
+{209}{}{Bueno, deberÃ­as hablar con mi hija, Keri; Â¡ella es la que se ocupa de todo eso! EstÃ¡ ahÃ­ al lado.}
+{210}{}{Ya te lo he dicho. Habla con Keri que estÃ¡ en la sala contigua.}
+{211}{}{Â¿Tu hija?}
+{212}{}{Â¿Esa cosa fea es tu hija? Â¡Ahora entiendo muchas cosas!}
 {213}{}{Vale.}
-{214}{}{Sí, ¡ella es mi orgullo y mi alegría! ¿No es preciosa? Habla con ella cuando quieras otro trabajo. Algún día, esperemos que pronto, me podré retirar y ella cuidará de mí.}
-{215}{}{¡No podrás hacerlo si los dos estáis muertos!}
+{214}{}{SÃ­, Â¡ella es mi orgullo y mi alegrÃ­a! Â¿No es preciosa? Habla con ella cuando quieras otro trabajo. AlgÃºn dÃ­a, esperemos que pronto, me podrÃ© retirar y ella cuidarÃ¡ de mÃ­.}
+{215}{}{Â¡No podrÃ¡s hacerlo si los dos estÃ¡is muertos!}
 {216}{}{Vale, gracias.}
-{217}{}{¿Te atreves a insultar a mi familia? ¡Debería arrancarte el corazón!}
-{218}{}{¡Lo siento, solo estaba bromeando!}
-{219}{}{¡Yo haré más que insultarte!}
-{220}{}{¡Demasiado tarde para disculparte! (Su cara se pone colorada... y con voz calmada y controlada.) ¡Sal antes de que cumpla mi amenaza!}
-{221}{}{¿Ésas es tu amenaza?}
-{222}{}{¡No es una amenaza! ¡Estás a punto de morir!}
-{223}{}{Sí, bueno, ¡te daré la última oportunidad!}
-{224}{}{No, lo siento. Tengo que irme. ¡Adiós!}
-{225}{}{Bueno, lo tengo que admitir, las he oído mejores.}
-{226}{}{Sí, claro. Nos vemos.}
-{227}{}{Bueno, ¡todavía vas a morir!}
-{228}{}{Eh, está bien.}
-{229}{}{Bueno, ¿a qué estás esperando? ¡Hay que llevar las caravanas!}
-{230}{}{Todavía no están listas para salir.}
-{231}{}{Todavía tengo que hacer algo antes.}
+{217}{}{Â¿Te atreves a insultar a mi familia? Â¡DeberÃ­a arrancarte el corazÃ³n!}
+{218}{}{Â¡Lo siento, solo estaba bromeando!}
+{219}{}{Â¡Yo harÃ© mÃ¡s que insultarte!}
+{220}{}{Â¡Demasiado tarde para disculparte! (Su cara se pone colorada... y con voz calmada y controlada.) Â¡Sal antes de que cumpla mi amenaza!}
+{221}{}{Â¿Ã‰sas es tu amenaza?}
+{222}{}{Â¡No es una amenaza! Â¡EstÃ¡s a punto de morir!}
+{223}{}{SÃ­, bueno, Â¡te darÃ© la Ãºltima oportunidad!}
+{224}{}{No, lo siento. Tengo que irme. Â¡AdiÃ³s!}
+{225}{}{Bueno, lo tengo que admitir, las he oÃ­do mejores.}
+{226}{}{SÃ­, claro. Nos vemos.}
+{227}{}{Bueno, Â¡todavÃ­a vas a morir!}
+{228}{}{Eh, estÃ¡ bien.}
+{229}{}{Bueno, Â¿a quÃ© estÃ¡s esperando? Â¡Hay que llevar las caravanas!}
+{230}{}{TodavÃ­a no estÃ¡n listas para salir.}
+{231}{}{TodavÃ­a tengo que hacer algo antes.}
 {232}{}{Necesito un Chip de Agua.}
-{233}{}{Dime qué sabes de las caravanas desaparecidas.}
-{234}{}{De acuerdo, adiós.}
-{235}{}{¿Rik rok?}
-{236}{}{¿Roerow?}
-{237}{}{¡Demonios! ¡Te estás perdiendo un montón de emociones! ¡Estoy seguro de que hay un montón de gente, criaturas y cosas listas para atacar a las caravanas! ¡Nada como un buen tiroteo! Bueno... te daré algo para que te entretengas antes de que las caravanas se marchen. [Te lanza una granada de mano.]}
-{238}{}{¡Demonios! ¿Saldrán alguna vez nuestras caravanas?}
-{239}{}{¿Y qué pasa con eso?}
+{233}{}{Dime quÃ© sabes de las caravanas desaparecidas.}
+{234}{}{De acuerdo, adiÃ³s.}
+{235}{}{Â¿Rik rok?}
+{236}{}{Â¿Roerow?}
+{237}{}{Â¡Demonios! Â¡Te estÃ¡s perdiendo un montÃ³n de emociones! Â¡Estoy seguro de que hay un montÃ³n de gente, criaturas y cosas listas para atacar a las caravanas! Â¡Nada como un buen tiroteo! Bueno... te darÃ© algo para que te entretengas antes de que las caravanas se marchen. [Te lanza una granada de mano.]}
+{238}{}{Â¡Demonios! Â¿SaldrÃ¡n alguna vez nuestras caravanas?}
+{239}{}{Â¿Y quÃ© pasa con eso?}
 {240}{}{No tardes mucho.}
-{241}{}{Keri, ¿nos han contratado ya?}
-{242}{}{¡Tienes que matar a tu enemigo antes de que te capture!}
-{243}{}{¡Nada como eliminar a nuestros enemigos!}
-{244}{}{¡Claro que sí!}
-{245}{}{Demonios, ¡¿dónde está mi arma?!}
+{241}{}{Keri, Â¿nos han contratado ya?}
+{242}{}{Â¡Tienes que matar a tu enemigo antes de que te capture!}
+{243}{}{Â¡Nada como eliminar a nuestros enemigos!}
+{244}{}{Â¡Claro que sÃ­!}
+{245}{}{Demonios, Â¡Â¿dÃ³nde estÃ¡ mi arma?!}

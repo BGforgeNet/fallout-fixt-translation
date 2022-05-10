@@ -1,12 +1,12 @@
-{100}{}{Estás viendo a un necrófago centinela.}
+{100}{}{EstÃ¡s viendo a un necrÃ³fago centinela.}
 {101}{}{No puedo hablar ahora. Mi deber es evitar los peligros.}
-{102}{}{¡Una espía humana!}
-{103}{}{¿Qué estás haciendo aquí?}
-{104}{}{Mmm, solo miro. ¿Qué haces tú?}
+{102}{}{Â¡Una espÃ­a humana!}
+{103}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{104}{}{Mmm, solo miro. Â¿QuÃ© haces tÃº?}
 {105}{}{Estoy echando un vistazo.}
 {106}{}{Huh.}
-{107}{}{Ah, nada. Vivo aquí.}
-{108}{}{Aquí no encontrarás nada. Márchate.}
+{107}{}{Ah, nada. Vivo aquÃ­.}
+{108}{}{AquÃ­ no encontrarÃ¡s nada. MÃ¡rchate.}
 {109}{}{[Hecho]}
 {200}{}{No podremos sobrevivir sin agua.}
-{201}{}{Por favor, habla con nuestro líder antes de irte.}
+{201}{}{Por favor, habla con nuestro lÃ­der antes de irte.}

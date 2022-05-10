@@ -1,5 +1,5 @@
 {100}{}{Ves: a Leone.}
-{101}{}{Si quieres compaÒÌa, busca a una puta. Estoy ocupado.}
-{102}{}{No hasta que no lo diga el jefe. IgnÛralo y se ir·.}
-{103}{}{No hasta que no lo diga el jefe. IgnÛrala y se ir·.}
-{105}{}{OlvÌdame. Cualquiera pueda reventar una rodilla o romper unos dedos. Ya no es algo que impresione.}
+{101}{}{Si quieres compa√±√≠a, busca a una puta. Estoy ocupado.}
+{102}{}{No hasta que no lo diga el jefe. Ign√≥ralo y se ir√°.}
+{103}{}{No hasta que no lo diga el jefe. Ign√≥rala y se ir√°.}
+{105}{}{Olv√≠dame. Cualquiera pueda reventar una rodilla o romper unos dedos. Ya no es algo que impresione.}

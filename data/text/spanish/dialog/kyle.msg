@@ -1,73 +1,73 @@
 {100}{}{Ves: a Kyle.}
 {101}{}{Ves a un Caballero.}
-{102}{}{Ahh... Así que eres tú, ¿eh?}
-{103}{}{¿Qué?}
-{104}{}{Bueno, ¿quién eres tú?}
-{105}{}{Nada. Solo que nadie ha vuelto jamás de la Orden Antigua.}
-{106}{}{¿Qué haces aquí?}
-{107}{}{¿Qué? Entonces, ¿por qué me han mandado aquí abajo?}
-{108}{}{Fue difícil, pero no imposible.}
-{109}{}{Je, je. Supongo que solo querían deshacerse de ti, ¿eh? Mira que son graciosos.}
-{110}{}{Sí. Dime, ¿qué haces aquí?}
-{111}{}{Bueno, solo me uní para obtener la Armadura de Energía.}
+{102}{}{Ahh... AsÃ­ que eres tÃº, Â¿eh?}
+{103}{}{Â¿QuÃ©?}
+{104}{}{Bueno, Â¿quiÃ©n eres tÃº?}
+{105}{}{Nada. Solo que nadie ha vuelto jamÃ¡s de la Orden Antigua.}
+{106}{}{Â¿QuÃ© haces aquÃ­?}
+{107}{}{Â¿QuÃ©? Entonces, Â¿por quÃ© me han mandado aquÃ­ abajo?}
+{108}{}{Fue difÃ­cil, pero no imposible.}
+{109}{}{Je, je. Supongo que solo querÃ­an deshacerse de ti, Â¿eh? Mira que son graciosos.}
+{110}{}{SÃ­. Dime, Â¿quÃ© haces aquÃ­?}
+{111}{}{Bueno, solo me unÃ­ para obtener la Armadura de EnergÃ­a.}
 {112}{}{Iros a la mierda. Me voy.}
 {113}{}{Arreglo material, hago controles de mantenimiento, esas cosas.}
-{114}{}{¿Podrías arreglar un Chip de Agua?}
-{115}{}{¿Qué tipo de "material"?}
+{114}{}{Â¿PodrÃ­as arreglar un Chip de Agua?}
+{115}{}{Â¿QuÃ© tipo de "material"?}
 {116}{}{Parece bastante divertido. Nos veremos luego.}
-{117}{}{La Armadura de Energía y cualquier cosa que necesite reparación.}
-{118}{}{¿Cómo puedo agenciarme una Armadura de Energía?}
-{119}{}{Te podría dar esta Armadura de Energía de aquí, pero le falta un Motivador Sistólico. No sirve de nada sin él.}
-{120}{}{¿Dónde se puede conseguir uno de esos?}
+{117}{}{La Armadura de EnergÃ­a y cualquier cosa que necesite reparaciÃ³n.}
+{118}{}{Â¿CÃ³mo puedo agenciarme una Armadura de EnergÃ­a?}
+{119}{}{Te podrÃ­a dar esta Armadura de EnergÃ­a de aquÃ­, pero le falta un Motivador SistÃ³lico. No sirve de nada sin Ã©l.}
+{120}{}{Â¿DÃ³nde se puede conseguir uno de esos?}
 {121}{}{Bien, gracias de todos modos.}
-{122}{}{Bien, hay muchos en el cuarto de suministros, pero según Michael y sus malditos formularios ni siquiera los especialistas pueden acceder a ello. Malditos burócratas.}
-{123}{}{¿Qué significa que no podéis acceder a ellos?}
-{124}{}{Así que si te traigo el Motivador Sistólico, ¿podrás arreglarla para mí?}
-{125}{}{¿Ves este ocular? Tuve que volver a soldarlo en su lugar y no quedo bastante bien como para pasar la inspección, bueno, eso supongo.}
-{126}{}{Tienes razón. No ha quedado genial. No me gustaría que me mataran con esa Armadura de Energía.}
-{127}{}{Vete de aquí de una vez, idiota.}
-{128}{}{Eh, espera un momento, idiota. Eso llevará un buen par de horas. Te prestaré un manual y mis herramientas, pero tendrás que repararlo tú mismo.}
-{129}{}{Bien, además de Michael, ¿en qué otro sitio puedo conseguir uno?}
-{130}{}{Me parece justo. Volveré.}
-{131}{}{Oh, sí. Rhombus tiene un par de ellos. Pero yo no le pediría uno. Solo "los Condecorados" pueden llevar una de esas Armaduras de Energía. Además, creo que está obsesionado por ellas.}
+{122}{}{Bien, hay muchos en el cuarto de suministros, pero segÃºn Michael y sus malditos formularios ni siquiera los especialistas pueden acceder a ello. Malditos burÃ³cratas.}
+{123}{}{Â¿QuÃ© significa que no podÃ©is acceder a ellos?}
+{124}{}{AsÃ­ que si te traigo el Motivador SistÃ³lico, Â¿podrÃ¡s arreglarla para mÃ­?}
+{125}{}{Â¿Ves este ocular? Tuve que volver a soldarlo en su lugar y no quedo bastante bien como para pasar la inspecciÃ³n, bueno, eso supongo.}
+{126}{}{Tienes razÃ³n. No ha quedado genial. No me gustarÃ­a que me mataran con esa Armadura de EnergÃ­a.}
+{127}{}{Vete de aquÃ­ de una vez, idiota.}
+{128}{}{Eh, espera un momento, idiota. Eso llevarÃ¡ un buen par de horas. Te prestarÃ© un manual y mis herramientas, pero tendrÃ¡s que repararlo tÃº mismo.}
+{129}{}{Bien, ademÃ¡s de Michael, Â¿en quÃ© otro sitio puedo conseguir uno?}
+{130}{}{Me parece justo. VolverÃ©.}
+{131}{}{Oh, sÃ­. Rhombus tiene un par de ellos. Pero yo no le pedirÃ­a uno. Solo "los Condecorados" pueden llevar una de esas Armaduras de EnergÃ­a. AdemÃ¡s, creo que estÃ¡ obsesionado por ellas.}
 {132}{}{Umm. Vale, muchas gracias.}
-{133}{}{No lo creo. Ni siquiera sé lo que es.}
+{133}{}{No lo creo. Ni siquiera sÃ© lo que es.}
 {134}{}{Gracias de todos modos.}
-{135}{}{¿Qué tipo de chapucero eres, que no puedes ni arreglar un Chip de Agua?}
-{136}{}{¿Cómo puedo obtener una Armadura de Energía sin tener que estudiar durante cien años?}
-{137}{}{Me llaman Kyle. Nunca me había encontrado con un mito antes.}
-{138}{}{¿Y eso qué es lo que significa?}
-{139}{}{¿Qué haces aquí?}
-{140}{}{Yo tampoco. Nos veremos por aquí.}
-{141}{}{Al escuchar las historias de Maxson puedes pensar que estás en el infierno.}
-{142}{}{¿Maxson? ¿El General Maxson?}
-{143}{}{No el General Maxson, sino su abuelo, Roger Maxson. He oído que recuperaste un disco que contenía lo que ocurrió a los tíos que se rebelaron contra él y volvieron aquí abajo para recuperar la tecnología perdida.}
-{144}{}{Sí, supongo que sí. Soy }
-{145}{}{, ¿quién eres tú?}
-{146}{}{Preferiría no hablar de eso.}
-{147}{}{Sí, bastardos. No puedo creer que os mandaran aquí abajo de esa manera.}
-{148}{}{¡Y todo lo que me dieron por mi pena fue un puñado de municiones!}
-{149}{}{Oye, Iniciado. ¿Tienes algo para mí?}
-{150}{}{No, les dije que me habías enviado tú y no me dieron la pieza.}
-{151}{}{No, ni siquiera lo he mirado todavía.}
+{135}{}{Â¿QuÃ© tipo de chapucero eres, que no puedes ni arreglar un Chip de Agua?}
+{136}{}{Â¿CÃ³mo puedo obtener una Armadura de EnergÃ­a sin tener que estudiar durante cien aÃ±os?}
+{137}{}{Me llaman Kyle. Nunca me habÃ­a encontrado con un mito antes.}
+{138}{}{Â¿Y eso quÃ© es lo que significa?}
+{139}{}{Â¿QuÃ© haces aquÃ­?}
+{140}{}{Yo tampoco. Nos veremos por aquÃ­.}
+{141}{}{Al escuchar las historias de Maxson puedes pensar que estÃ¡s en el infierno.}
+{142}{}{Â¿Maxson? Â¿El General Maxson?}
+{143}{}{No el General Maxson, sino su abuelo, Roger Maxson. He oÃ­do que recuperaste un disco que contenÃ­a lo que ocurriÃ³ a los tÃ­os que se rebelaron contra Ã©l y volvieron aquÃ­ abajo para recuperar la tecnologÃ­a perdida.}
+{144}{}{SÃ­, supongo que sÃ­. Soy }
+{145}{}{, Â¿quiÃ©n eres tÃº?}
+{146}{}{PreferirÃ­a no hablar de eso.}
+{147}{}{SÃ­, bastardos. No puedo creer que os mandaran aquÃ­ abajo de esa manera.}
+{148}{}{Â¡Y todo lo que me dieron por mi pena fue un puÃ±ado de municiones!}
+{149}{}{Oye, Iniciado. Â¿Tienes algo para mÃ­?}
+{150}{}{No, les dije que me habÃ­as enviado tÃº y no me dieron la pieza.}
+{151}{}{No, ni siquiera lo he mirado todavÃ­a.}
 {152}{}{No he tenido suerte hasta ahora.}
-{153}{}{No, mierda. Y yo que te consideraba inteligente. Ya te he dicho que ese tipo tenía formularios oficiales en lugar de un cerebro.}
-{154}{}{Cuidado a quién insultas.}
+{153}{}{No, mierda. Y yo que te consideraba inteligente. Ya te he dicho que ese tipo tenÃ­a formularios oficiales en lugar de un cerebro.}
+{154}{}{Cuidado a quiÃ©n insultas.}
 {155}{}{Solo intentaba disuadir a Michael.}
-{156}{}{¿Qué puedo hacer si Michael no me lo quiere dar?}
+{156}{}{Â¿QuÃ© puedo hacer si Michael no me lo quiere dar?}
 {157}{}{Me voy.}
-{158}{}{Bueno... reconozco que no lo hiciste mal. Pero creo que te perdiste la oportunidad de sacarla de la sala de suministros. Ahora tendrás que encontrar otro modo de conseguirla. O encontrar tú mismo una Armadura de Energía en otro lugar.}
-{159}{}{Vale, te veré después.}
-{160}{}{¿En qué otro sitio puedo encontrar una?}
+{158}{}{Bueno... reconozco que no lo hiciste mal. Pero creo que te perdiste la oportunidad de sacarla de la sala de suministros. Ahora tendrÃ¡s que encontrar otro modo de conseguirla. O encontrar tÃº mismo una Armadura de EnergÃ­a en otro lugar.}
+{159}{}{Vale, te verÃ© despuÃ©s.}
+{160}{}{Â¿En quÃ© otro sitio puedo encontrar una?}
 {161}{}{Buena suerte.}
-{162}{}{Piérdete. Estoy ocupado.}
-{163}{}{Hola, ¿Pudiste coger esa pieza?}
-{164}{}{Sí. Aquí está.}
-{165}{}{Sí, pero creo que me quedaré con ella un tiempo.}
-{166}{}{¡Fantástico! Déjame instalarla en la unidad.}
-{167}{}{Vale. Ya puedes irte. Aquí está el Manual. Si tienes talento para reparar las cosas, no tendrás ningún problema. Buena suerte.}
-{168}{}{¿Después de todo esto? Vale, cuando quieras que lo instale, házmelo saber. Entonces podrás empezar a repararla.}
-{169}{}{Bueno, no sé qué decirte. Creo que tendrías que mejorar tus técnicas de reparación. Mientras tanto guardaré la unidad aquí para ti.}
-{170}{}{Vale, gracias. Adiós.}
-{171}{}{Hola de nuevo. ¿Puedo ayudarte?}
-{300}{}{[Más]}
+{162}{}{PiÃ©rdete. Estoy ocupado.}
+{163}{}{Hola, Â¿Pudiste coger esa pieza?}
+{164}{}{SÃ­. AquÃ­ estÃ¡.}
+{165}{}{SÃ­, pero creo que me quedarÃ© con ella un tiempo.}
+{166}{}{Â¡FantÃ¡stico! DÃ©jame instalarla en la unidad.}
+{167}{}{Vale. Ya puedes irte. AquÃ­ estÃ¡ el Manual. Si tienes talento para reparar las cosas, no tendrÃ¡s ningÃºn problema. Buena suerte.}
+{168}{}{Â¿DespuÃ©s de todo esto? Vale, cuando quieras que lo instale, hÃ¡zmelo saber. Entonces podrÃ¡s empezar a repararla.}
+{169}{}{Bueno, no sÃ© quÃ© decirte. Creo que tendrÃ­as que mejorar tus tÃ©cnicas de reparaciÃ³n. Mientras tanto guardarÃ© la unidad aquÃ­ para ti.}
+{170}{}{Vale, gracias. AdiÃ³s.}
+{171}{}{Hola de nuevo. Â¿Puedo ayudarte?}
+{300}{}{[MÃ¡s]}

@@ -1,4 +1,4 @@
-{100}{}{Ves: a un necrófago resplandeciente.}
-{101}{}{Te dejaremos descansar si hay problemas. El último que estuvo aquí también lo intentó.}
-{102}{}{La corriente se está acabando. Igual que tu vida.}
+{100}{}{Ves: a un necrÃ³fago resplandeciente.}
+{101}{}{Te dejaremos descansar si hay problemas. El Ãºltimo que estuvo aquÃ­ tambiÃ©n lo intentÃ³.}
+{102}{}{La corriente se estÃ¡ acabando. Igual que tu vida.}
 {103}{}{Gracias por arreglar la bomba de agua.}

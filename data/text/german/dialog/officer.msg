@@ -19,7 +19,7 @@
 {118}{}{Please! I really need them!}
 {119}{}{Okay. Thanks anyway.}
 {120}{}{No. I can't do it.}
-{121}{}{Hab einen schönen Tag.}
+{121}{}{Hab einen schÃ¶nen Tag.}
 {122}{}{To keep the weapons away from those who don't have access to them.}
 {123}{}{Who has access?}
 {124}{}{That doesn't seem very fair.}

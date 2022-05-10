@@ -18,7 +18,7 @@
 {117}{}{What do you mean? They're working on a newly purchased '56 Corvega. An excellent buy, I might add.}
 {118}{}{Okay, whatever you say.}
 {119}{}{You're just insane.}
-{120}{}{Tschüss.}
+{120}{}{TschÃ¼ss.}
 {121}{}{And we have an excellent warranty. You can bring it back to us for any oil changes, as well. The first one is free. What do you say?}
 {122}{}{Throw in a full tank of gas and you have a deal.}
 {123}{}{You need help.}

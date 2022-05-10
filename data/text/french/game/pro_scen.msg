@@ -149,9 +149,9 @@
 {7500}{}{Rocks}
 {7501}{}{You keep a close eye on these rocks, in case they move to attack you.}
 {7600}{}{Car Wall Floor}
-{7601}{}{SUPPRIMÉ}
+{7601}{}{SUPPRIMÃ‰}
 {7700}{}{Car Wall Roof}
-{7701}{}{SUPPRIMÉ}
+{7701}{}{SUPPRIMÃ‰}
 {7800}{}{Rocks}
 {7801}{}{A large pile of rocks. They look indigenous to this region.}
 {7900}{}{Rocks}
@@ -173,9 +173,9 @@
 {8700}{}{Gate}
 {8701}{}{A wooden gate. It opens, and closes, and opens, and closes, and...}
 {8800}{}{Metal Ice Chest}
-{8801}{}{SUPPRIMÉ}
+{8801}{}{SUPPRIMÃ‰}
 {8900}{}{Metal Ice Chest}
-{8901}{}{SUPPRIMÉ}
+{8901}{}{SUPPRIMÃ‰}
 {9000}{}{Rocks}
 {9001}{}{A very large pile of rocks. They look dangerous just sitting there.}
 {9100}{}{Rocks}
@@ -1493,7 +1493,7 @@
 {76500}{}{Floor}
 {76501}{}{You would swear that there is something moving on the floor.}
 {76600}{}{Pedestal}
-{76601}{}{Le piédestal donne l'impression d'inspirer et d'expirer lentement.}
+{76601}{}{Le piÃ©destal donne l'impression d'inspirer et d'expirer lentement.}
 {76700}{}{Floor}
 {76800}{}{Bomb}
 {76801}{}{This is a nuclear bomb. It looks very dangerous just sitting there.}

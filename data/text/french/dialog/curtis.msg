@@ -1,5 +1,5 @@
-{100}{}{Voici un fermier au visage buriné.}
-{101}{}{Bonne journée.}
+{100}{}{Voici un fermier au visage burinÃ©.}
+{101}{}{Bonne journÃ©e.}
 {102}{}{Bonjour.}
 {103}{}{Hey.}
 {104}{}{Rebonjour.}
@@ -9,13 +9,13 @@
 {108}{}{Qu'est-ce que tu fais ?}
 {109}{}{Rien, merci.}
 {110}{}{Je m'appelle Curtis.}
-{111}{}{Notre village est petit, mais nous nous soutenons les uns les autres. A part les attaques des pillards et les apparitions occasionnelles de radscorpions, nous n'avons aucun problème. Aradesh est un bon chef.}
-{112}{}{Je suis fermier. Il y a plusieurs années, nous avons irrigué le désert. Le désert est une terre rude, mais avec de la patience et du temps, on peut le cultiver.}
+{111}{}{Notre village est petit, mais nous nous soutenons les uns les autres. A part les attaques des pillards et les apparitions occasionnelles de radscorpions, nous n'avons aucun problÃ¨me. Aradesh est un bon chef.}
+{112}{}{Je suis fermier. Il y a plusieurs annÃ©es, nous avons irriguÃ© le dÃ©sert. Le dÃ©sert est une terre rude, mais avec de la patience et du temps, on peut le cultiver.}
 {113}{}{Je vois. Tu as l'air de bien t'en sortir.}
-{114}{}{Tous tes champs sont cultivés en ce moment ? Tu pourrais faire mieux en pratiquant l'alternance des cultures.}
+{114}{}{Tous tes champs sont cultivÃ©s en ce moment ? Tu pourrais faire mieux en pratiquant l'alternance des cultures.}
 {115}{}{L'alternance des cultures ? Qu'est-ce que c'est ?}
 {116}{}{Qu'importe.}
-{117}{}{Tu ne cultives qu'une partie de tes terres, pendant que les autres récupèrent les substances nutritives absorbées par les plantes. Ces terres deviennent ainsi plus fertiles pour cultiver tout ce que tu veux.}
-{118}{}{Euh. Je n'y avais jamais pensé. Mais ce n'est pas bête. C'est une bonne idée.}
+{117}{}{Tu ne cultives qu'une partie de tes terres, pendant que les autres rÃ©cupÃ¨rent les substances nutritives absorbÃ©es par les plantes. Ces terres deviennent ainsi plus fertiles pour cultiver tout ce que tu veux.}
+{118}{}{Euh. Je n'y avais jamais pensÃ©. Mais ce n'est pas bÃªte. C'est une bonne idÃ©e.}
 {119}{}{Je peux encore te poser quelques questions ?}
-{200}{}{points d'expérience pour avoir contribué à améliorer l'agriculture des Sables Ombragés.}
+{200}{}{points d'expÃ©rience pour avoir contribuÃ© Ã  amÃ©liorer l'agriculture des Sables OmbragÃ©s.}

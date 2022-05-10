@@ -34,7 +34,7 @@
 {133}{}{Yeah, I'll do it.}
 {134}{DECK_12}{Very nice. The merchant lives in the Heights, on Barter Street and Thunder Avenue. Your initial pay will be handed to you on your way out.}
 {135}{DECK_13}{Everything is my business in the Hub. Either tell me, or you may leave.}
-{136}{}{Ich heiﬂe }
+{136}{}{Ich hei√üe }
 {137}{}{.}
 {138}{}{I'm not telling you anything.}
 {139}{DECK_14}{I see... My assistant will show you to the door.}

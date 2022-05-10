@@ -2,7 +2,7 @@
 {101}{Cab_1}{Hello and welcome to the Brotherhood of Steel. May I ask your business here?}
 {102}{}{Who're you?}
 {103}{}{Can I ask you a few questions?}
-{104}{}{Hääh?}
+{104}{}{HÃ¤Ã¤h?}
 {105}{}{I'd like to join.}
 {106}{}{What do you do?}
 {107}{}{Never mind, thanks.}
@@ -156,7 +156,7 @@
 {1000}{}{Initiate}
 {1001}{}{Vree}
 {1002}{}{Rhombus}
-{1003}{}{Älteste}
+{1003}{}{Ã„lteste}
 {1004}{}{Elders}
 {1005}{}{Scribes}
 {1006}{}{Knights}

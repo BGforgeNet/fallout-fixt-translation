@@ -1,5 +1,5 @@
-{100}{}{Esta persona debe de haber estado muy cerca de la explosiÛn.}
-{101}{}{Su cuerpo est· demasiado calcinado, ni siquiera puedes imaginar lo que era.}
-{102}{}{Las r·fagas de viento han dispersado algunas cenizas.}
-{103}{}{La explosiÛn nuclear puede haber causado este daÒo.}
+{100}{}{Esta persona debe de haber estado muy cerca de la explosi√≥n.}
+{101}{}{Su cuerpo est√° demasiado calcinado, ni siquiera puedes imaginar lo que era.}
+{102}{}{Las r√°fagas de viento han dispersado algunas cenizas.}
+{103}{}{La explosi√≥n nuclear puede haber causado este da√±o.}
 {104}{}{Las cenizas caen entre tus dedos.}

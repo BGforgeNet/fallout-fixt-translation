@@ -1,1 +1,1 @@
-{100}{}{…sta es la Sala Principal del Refugio. AquÌ est·n los ordenadores.}
+{100}{}{√âsta es la Sala Principal del Refugio. Aqu√≠ est√°n los ordenadores.}

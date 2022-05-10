@@ -1,10 +1,10 @@
-{100}{}{Estás viendo a uno del Eje.}
-{101}{}{¡Guau! ¡Me he enterado de que has matado a la Garra Mortal! ¡Buen trabajo!}
-{102}{}{¿Es eso cierto? Existe... ¿la Garra Mortal existió de verdad?}
+{100}{}{EstÃ¡s viendo a uno del Eje.}
+{101}{}{Â¡Guau! Â¡Me he enterado de que has matado a la Garra Mortal! Â¡Buen trabajo!}
+{102}{}{Â¿Es eso cierto? Existe... Â¿la Garra Mortal existiÃ³ de verdad?}
 {103}{}{Me he enterado de que eres }
 {104}{}{hombre}
 {105}{}{mujer}
-{106}{}{ que acabó con la Garra Mortal. ¡Buen trabajo!}
-{107}{}{Gracias por acabar con esa pesadilla; ahora todos podemos dormir un poco más tranquilos.}
-{108}{}{Esa Garra Mortal estaría mejor muerta.}
+{106}{}{ que acabÃ³ con la Garra Mortal. Â¡Buen trabajo!}
+{107}{}{Gracias por acabar con esa pesadilla; ahora todos podemos dormir un poco mÃ¡s tranquilos.}
+{108}{}{Esa Garra Mortal estarÃ­a mejor muerta.}
 {109}{}{Espero que los mutantes que destruyeron las caravanas no vengan a buscarnos.}

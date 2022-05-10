@@ -1,5 +1,5 @@
-{100}{}{Cette personne a dû se trouver très proche de l'explosion.}
-{101}{}{Ce corps est si carbonisé qu'il est méconnaissable.}
-{102}{}{Les vents changeants ont dispersé les cendres.}
-{103}{}{Ces dégâts sont probablement dus à l'explosion nucléaire.}
-{104}{}{Les cendres glissent à travers tes doigts.}
+{100}{}{Cette personne a dÃ» se trouver trÃ¨s proche de l'explosion.}
+{101}{}{Ce corps est si carbonisÃ© qu'il est mÃ©connaissable.}
+{102}{}{Les vents changeants ont dispersÃ© les cendres.}
+{103}{}{Ces dÃ©gÃ¢ts sont probablement dus Ã  l'explosion nuclÃ©aire.}
+{104}{}{Les cendres glissent Ã  travers tes doigts.}

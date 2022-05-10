@@ -1,5 +1,5 @@
-{100}{}{Veux-tu entrer dans le menu de débogage ? [Si tu n'es pas sûr, clique sur Non]}
-{101}{}{1. Remonter le temps  [Peut faire crasher le jeu, surtout après le 03/11/2161].}
+{100}{}{Veux-tu entrer dans le menu de dÃ©bogage ? [Si tu n'es pas sÃ»r, clique sur Non]}
+{101}{}{1. Remonter le temps  [Peut faire crasher le jeu, surtout aprÃ¨s le 03/11/2161].}
 {102}{}{Ok. De combien ?}
 {103}{}{1. Une seconde [10 ticks]}
 {104}{}{2. Une minute}
@@ -9,7 +9,7 @@
 {108}{}{6. Un mois [30 jours]}
 {109}{}{7. Six mois}
 {110}{}{9    Never mind.}
-{111}{}{2. Avancer le temps  [Peut faire crasher le jeu, surtout après le 03/11/2161].}
+{111}{}{2. Avancer le temps  [Peut faire crasher le jeu, surtout aprÃ¨s le 03/11/2161].}
 {112}{}{Ok. De combien ?}
 {113}{}{1. Une seconde [10 ticks]}
 {114}{}{2. Une minute}
@@ -19,9 +19,9 @@
 {118}{}{6. Un mois [30 jours]}
 {119}{}{7. Six mois}
 {120}{}{9    Never mind.}
-{121}{}{7. Donne-moi toutes les clés du jeu.}
-{122}{}{Dans un sac à dos ou directement dans ton inventaire ?}
-{123}{}{1. Dans un sac à dos}
+{121}{}{7. Donne-moi toutes les clÃ©s du jeu.}
+{122}{}{Dans un sac Ã  dos ou directement dans ton inventaire ?}
+{123}{}{1. Dans un sac Ã  dos}
 {124}{}{2. Dans l'inventaire}
 {125}{}{3. Retour}
 {126}{}{8. 13 ans}
@@ -50,7 +50,7 @@
 {149}{}{Give All Holodisks (& Radio)?}
 {150}{}{Give All Armor?}
 {200}{}{Comment puis-je t'aider aujourd'hui ?}
-{201}{}{1  Expérience.}
+{201}{}{1  ExpÃ©rience.}
 {202}{}{2  Damage, Poison, Radiation.}
 {203}{}{6    Poison}
 {204}{}{7    Radiation}
@@ -66,7 +66,7 @@
 {214}{}{after: }
 {215}{}{[Hands you a Burrito Supreme] Enjoy your Grade D Beef.}
 {216}{}{Now you glow like a 50-rad light bulb.}
-{217}{}{C'est terminé !}
+{217}{}{C'est terminÃ© !}
 {221}{}{[Grinning Visciously] I was happy to 'help' you.}
 {222}{}{How might I abuse you today?}
 {223}{}{1    Cripple Left Leg}
@@ -76,7 +76,7 @@
 {227}{}{5    Blind Me }
 {228}{}{8    Don't hurt me. [wimper]}
 {229}{}{TEST ROLLS (mmm, rolls)}
-{230}{}{C'est terminé !}
+{230}{}{C'est terminÃ© !}
 {231}{}{message here}
 {232}{}{1    500}
 {233}{}{2    1 thousand}

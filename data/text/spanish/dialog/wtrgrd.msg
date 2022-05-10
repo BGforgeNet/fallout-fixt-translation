@@ -1,36 +1,36 @@
-{100}{}{Estás viendo al guardián del agua.}
+{100}{}{EstÃ¡s viendo al guardiÃ¡n del agua.}
 {101}{}{Hola, }
 {102}{}{. }
-{103}{}{Hola. ¿Cómo te va?}
-{104}{}{¡Gahh!}
-{105}{}{¡Bien Gahh! Sigo contigo... siento que nunca aprendieras a hablar. Podríamos haber sido buenos amigos.}
+{103}{}{Hola. Â¿CÃ³mo te va?}
+{104}{}{Â¡Gahh!}
+{105}{}{Â¡Bien Gahh! Sigo contigo... siento que nunca aprendieras a hablar. PodrÃ­amos haber sido buenos amigos.}
 {106}{}{Ouph.}
-{107}{}{No me siento muy bien. Alguien me golpeó la cabeza con un enorme palo. Fui al médico pero todavía me duele la cabeza. Espero que alguien coja al cabrón que me golpeó.}
-{108}{}{¿Por qué lo han hecho?}
+{107}{}{No me siento muy bien. Alguien me golpeÃ³ la cabeza con un enorme palo. Fui al mÃ©dico pero todavÃ­a me duele la cabeza. Espero que alguien coja al cabrÃ³n que me golpeÃ³.}
+{108}{}{Â¿Por quÃ© lo han hecho?}
 {109}{}{Guck.}
-{110}{}{Pues me atacaron una noche que estuve aquí hasta muy tarde. Normalmente me voy a casa a las ocho o así, pero aquella noche me quedé hasta tarde porque alguien había robado agua y tenía que comprobar las existencias. Lo siguiente que recuerdo es que me desperté en el laboratorio con un gran chichón en la cabeza. Las cosas se están yendo de las manos por aquí. Pronto alguien va a morir por un poco de agua y no sé qué podemos hacer.}
-{111}{}{Sé lo que podemos hacer.}
+{110}{}{Pues me atacaron una noche que estuve aquÃ­ hasta muy tarde. Normalmente me voy a casa a las ocho o asÃ­, pero aquella noche me quedÃ© hasta tarde porque alguien habÃ­a robado agua y tenÃ­a que comprobar las existencias. Lo siguiente que recuerdo es que me despertÃ© en el laboratorio con un gran chichÃ³n en la cabeza. Las cosas se estÃ¡n yendo de las manos por aquÃ­. Pronto alguien va a morir por un poco de agua y no sÃ© quÃ© podemos hacer.}
+{111}{}{SÃ© lo que podemos hacer.}
 {112}{}{Lo siento. Espero que te sientas mejor pronto.}
-{113}{}{Aquí está tu agua.}
-{114}{}{Esta es tu ración para hoy.}
-{115}{}{¡Ey! ¿¡Qué crees que estás haciendo!?}
+{113}{}{AquÃ­ estÃ¡ tu agua.}
+{114}{}{Esta es tu raciÃ³n para hoy.}
+{115}{}{Â¡Ey! Â¿Â¡QuÃ© crees que estÃ¡s haciendo!?}
 {116}{}{Por favor, no te lleves las reservas. Necesitamos el agua.}
-{117}{}{Apuntaste tus informes en el ordenador de la biblioteca. Deberías volver con el Supervisor para finalizar tus progresos.}
-{118}{}{Buenos días, }
+{117}{}{Apuntaste tus informes en el ordenador de la biblioteca. DeberÃ­as volver con el Supervisor para finalizar tus progresos.}
+{118}{}{Buenos dÃ­as, }
 {119}{}{.}
-{120}{}{Hola. ¿Cómo han ido las cosas últimamente?}
-{121}{}{Dime, ¿qué estás haciendo aquí?}
-{122}{}{Todo el mundo está muy nervioso, claro, pero no hemos tenido demasiados problemas. Espero que encuentres pronto un chip nuevo.}
-{123}{}{Reparto las raciones de agua, claro. Y me aseguro de que nadie intenta coger más agua de la que le corresponde, por lo que no creo que vayamos a tener problemas.}
-{124}{}{Mmm. Bien, sigue así.}
-{125}{}{Tú también. Espero que encuentres pronto ese chip para que todos podamos recuperar nuestra vida normal.}
+{120}{}{Hola. Â¿CÃ³mo han ido las cosas Ãºltimamente?}
+{121}{}{Dime, Â¿quÃ© estÃ¡s haciendo aquÃ­?}
+{122}{}{Todo el mundo estÃ¡ muy nervioso, claro, pero no hemos tenido demasiados problemas. Espero que encuentres pronto un chip nuevo.}
+{123}{}{Reparto las raciones de agua, claro. Y me aseguro de que nadie intenta coger mÃ¡s agua de la que le corresponde, por lo que no creo que vayamos a tener problemas.}
+{124}{}{Mmm. Bien, sigue asÃ­.}
+{125}{}{TÃº tambiÃ©n. Espero que encuentres pronto ese chip para que todos podamos recuperar nuestra vida normal.}
 {126}{}{Puedes coger provisiones si las necesitas pues tu trabajo es muy importante, pero por favor, no te lleves demasiadas. No nos quedan muchas.}
-{127}{}{¿Puedo llevarme algunas provisiones?}
-{1000}{}{Ración}
+{127}{}{Â¿Puedo llevarme algunas provisiones?}
+{1000}{}{RaciÃ³n}
 {1001}{}{Raciones}
 {1002}{}{Provisiones}
 {1003}{}{Agua}
-{1100}{}{Reparto raciones de agua por la mañana. No deberías necesitarlas, ahora que te vas al Exterior.}
-{1101}{}{Reparto raciones de agua por la mañana. No deberías necesitarlas, ahora que te vas al Exterior.}
-{1102}{}{Solo nos quedan algunas provisiones. Puedes coger algunas si las necesitas para tu misión, pero por favor, no cojas demasiadas.}
-{1103}{}{Reparto raciones de agua por la mañana. No deberías necesitarlas, ahora que te vas al Exterior.}
+{1100}{}{Reparto raciones de agua por la maÃ±ana. No deberÃ­as necesitarlas, ahora que te vas al Exterior.}
+{1101}{}{Reparto raciones de agua por la maÃ±ana. No deberÃ­as necesitarlas, ahora que te vas al Exterior.}
+{1102}{}{Solo nos quedan algunas provisiones. Puedes coger algunas si las necesitas para tu misiÃ³n, pero por favor, no cojas demasiadas.}
+{1103}{}{Reparto raciones de agua por la maÃ±ana. No deberÃ­as necesitarlas, ahora que te vas al Exterior.}

@@ -1,28 +1,28 @@
 {100}{}{Nunca tienen lo que quiero.}
-{101}{}{Pienso que el género está empeorando.}
-{102}{}{Los precios se están disparando.}
+{101}{}{Pienso que el gÃ©nero estÃ¡ empeorando.}
+{102}{}{Los precios se estÃ¡n disparando.}
 {103}{}{Nunca puedo encontrar lo que quiero.}
-{104}{}{Me gusta más el género de la Caravana Carmesí.}
+{104}{}{Me gusta mÃ¡s el gÃ©nero de la Caravana CarmesÃ­.}
 {105}{}{Nunca tienen lo que quiero.}
-{106}{}{Pienso que el género está empeorando.}
-{107}{}{Los precios se están disparando.}
+{106}{}{Pienso que el gÃ©nero estÃ¡ empeorando.}
+{107}{}{Los precios se estÃ¡n disparando.}
 {108}{}{Lo siento, no puedo hablar con extranjeros.}
-{109}{}{Deberías hablar con Cabbot o con Darrell si tienes preguntas.}
+{109}{}{DeberÃ­as hablar con Cabbot o con Darrell si tienes preguntas.}
 {110}{}{Tengo que irme.}
 {111}{}{No quiero hablar contigo.}
 {112}{}{No me gustan los normalitos.}
-{113}{}{¡Arrrr!}
-{114}{}{¡Grrrrr!}
+{113}{}{Â¡Arrrr!}
+{114}{}{Â¡Grrrrr!}
 {115}{}{Nunca tienen lo que quiero.}
-{116}{}{Pienso que el género está empeorando.}
-{117}{}{Los precios se están disparando.}
+{116}{}{Pienso que el gÃ©nero estÃ¡ empeorando.}
+{117}{}{Los precios se estÃ¡n disparando.}
 {118}{}{Nunca puedo encontrar lo que quiero.}
-{119}{}{Me gusta más el género de la Caravana Carmesí.}
-{1100}{}{Estás viendo a un cliente de la caravana.}
+{119}{}{Me gusta mÃ¡s el gÃ©nero de la Caravana CarmesÃ­.}
+{1100}{}{EstÃ¡s viendo a un cliente de la caravana.}
 {1103}{}{Lo siento, no puedo hablar con extranjeros.}
-{1105}{}{Si ves algún Redalek, avísame.}
-{1107}{}{Me alegro de que estos Mercaderes de Agua no vengan más.}
-{1109}{}{Cabbot es nuestro relaciones públicas. Habla con él o con Darrell.}
-{1110}{}{Me gusta más el género de la Caravana Carmesí.}
-{1111}{}{¿No te parecen agradables los Comerciantes de Ultramar?}
-{1112}{}{La Caravana Carmesí es demasiado vulgar para mí.}
+{1105}{}{Si ves algÃºn Redalek, avÃ­same.}
+{1107}{}{Me alegro de que estos Mercaderes de Agua no vengan mÃ¡s.}
+{1109}{}{Cabbot es nuestro relaciones pÃºblicas. Habla con Ã©l o con Darrell.}
+{1110}{}{Me gusta mÃ¡s el gÃ©nero de la Caravana CarmesÃ­.}
+{1111}{}{Â¿No te parecen agradables los Comerciantes de Ultramar?}
+{1112}{}{La Caravana CarmesÃ­ es demasiado vulgar para mÃ­.}

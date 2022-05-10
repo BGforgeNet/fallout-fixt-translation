@@ -1,111 +1,111 @@
 {100}{}{Ves: a Bob.}
-{101}{}{¡Ni hablar, no dejaré que me robes!}
-{102}{}{Eh, ¡no quiero líos!}
+{101}{}{Â¡Ni hablar, no dejarÃ© que me robes!}
+{102}{}{Eh, Â¡no quiero lÃ­os!}
 {103}{}{Dame un pincho moruno de iguana.}
-{104}{}{¿Sabes algo de un Chip de Agua?}
-{105}{}{¿Me puedes contar algo acerca de Decker?}
-{106}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{107}{}{¿Sabes algo de las caravanas desaparecidas?}
-{108}{}{¿Qué? ¿Líos, yo? ¿Qué te da esa impresión?}
-{109}{}{¡Tener hambre! ¡Grrrrr!}
-{110}{}{¡Hola! Bienvenido al Delicias de Iguana propiedad de Bob, un lugar de reunión para toda la familia. ¿Qué deseas?}
+{104}{}{Â¿Sabes algo de un Chip de Agua?}
+{105}{}{Â¿Me puedes contar algo acerca de Decker?}
+{106}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{107}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{108}{}{Â¿QuÃ©? Â¿LÃ­os, yo? Â¿QuÃ© te da esa impresiÃ³n?}
+{109}{}{Â¡Tener hambre! Â¡Grrrrr!}
+{110}{}{Â¡Hola! Bienvenido al Delicias de Iguana propiedad de Bob, un lugar de reuniÃ³n para toda la familia. Â¿QuÃ© deseas?}
 {111}{}{Dame un pincho moruno de iguana.}
-{112}{}{¿Sabes algo de un Chip de Agua?}
-{113}{}{¿Me puedes contar algo acerca de Decker?}
-{114}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{115}{}{¿Sabes algo de las caravanas desaparecidas?}
-{116}{}{¿Ocurre algo interesante en el Eje?}
-{117}{}{¡Tener hambre! ¡Grrrrr!}
+{112}{}{Â¿Sabes algo de un Chip de Agua?}
+{113}{}{Â¿Me puedes contar algo acerca de Decker?}
+{114}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{115}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{116}{}{Â¿Ocurre algo interesante en el Eje?}
+{117}{}{Â¡Tener hambre! Â¡Grrrrr!}
 {118}{}{Lo siento, nos hemos quedado sin iguana.}
 {119}{}{Solo tenemos pinchos morunos de iguana. Veinte pavos cada uno.}
-{120}{}{Solo tenemos platos del día. Pero están muy buenos. Ocho pavos cada uno.}
-{121}{}{Claro. Tenemos pinchos de iguana por veinte pavos cada uno y nuestro plato del día por ocho pavos.}
-{122}{}{Tomaré iguana.}
-{123}{}{Tomaré el plato del día.}
-{124}{}{¿Sabéis que vuestro plato del día sabe a pollo?}
-{125}{}{¡No poco! ¡Yo querer iguana! ¡Ugh!}
-{126}{}{Mmm, ¡oler bien! ¡Yo querer el plato del día!}
-{127}{}{No servimos eso aquí. ¿Algo más?}
+{120}{}{Solo tenemos platos del dÃ­a. Pero estÃ¡n muy buenos. Ocho pavos cada uno.}
+{121}{}{Claro. Tenemos pinchos de iguana por veinte pavos cada uno y nuestro plato del dÃ­a por ocho pavos.}
+{122}{}{TomarÃ© iguana.}
+{123}{}{TomarÃ© el plato del dÃ­a.}
+{124}{}{Â¿SabÃ©is que vuestro plato del dÃ­a sabe a pollo?}
+{125}{}{Â¡No poco! Â¡Yo querer iguana! Â¡Ugh!}
+{126}{}{Mmm, Â¡oler bien! Â¡Yo querer el plato del dÃ­a!}
+{127}{}{No servimos eso aquÃ­. Â¿Algo mÃ¡s?}
 {128}{}{Dame un pincho moruno de iguana.}
-{129}{}{¿Me puedes contar algo acerca de Decker?}
-{130}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{131}{}{¿Sabes algo de las caravanas desaparecidas?}
-{132}{}{¿Ocurre algo interesante en el Eje?}
-{133}{}{¡Tener hambre! ¡Grrrrr!}
-{134}{}{El señor Decker es un hombre de negocios distinguido que trabaja en un negocio que no lo es tanto. ¿Algo más?}
-{135}{}{Háblame de Doc Mórbid.}
+{129}{}{Â¿Me puedes contar algo acerca de Decker?}
+{130}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{131}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{132}{}{Â¿Ocurre algo interesante en el Eje?}
+{133}{}{Â¡Tener hambre! Â¡Grrrrr!}
+{134}{}{El seÃ±or Decker es un hombre de negocios distinguido que trabaja en un negocio que no lo es tanto. Â¿Algo mÃ¡s?}
+{135}{}{HÃ¡blame de Doc MÃ³rbid.}
 {136}{}{Dame un pincho moruno de iguana.}
 {137}{}{Nada.}
-{138}{}{Era un maldito hijo de perra, y cualquiera que no esté contento de que haya muerto es un condenado mentiroso. ¿Quieres pedir algo?}
+{138}{}{Era un maldito hijo de perra, y cualquiera que no estÃ© contento de que haya muerto es un condenado mentiroso. Â¿Quieres pedir algo?}
 {139}{}{Dame un pincho moruno de iguana.}
-{140}{}{Cuéntame algo acerca de los Mercaderes del Agua.}
-{141}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{142}{}{¿Sabes algo de las caravanas desaparecidas?}
-{143}{}{¿Ocurre algo interesante en el Eje?}
-{144}{}{¡Tener hambre! ¡Grrrrr!}
-{145}{}{No sé de lo que estás hablando. Vale. Te pagaré cien pavos si mantienes la boca cerrada. Cógelo y lárgate.}
+{140}{}{CuÃ©ntame algo acerca de los Mercaderes del Agua.}
+{141}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{142}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{143}{}{Â¿Ocurre algo interesante en el Eje?}
+{144}{}{Â¡Tener hambre! Â¡Grrrrr!}
+{145}{}{No sÃ© de lo que estÃ¡s hablando. Vale. Te pagarÃ© cien pavos si mantienes la boca cerrada. CÃ³gelo y lÃ¡rgate.}
 {146}{}{Quiero doscientos.}
 {147}{}{Me quedo con los cien pavos.}
-{148}{}{Iré a la policía.}
+{148}{}{IrÃ© a la policÃ­a.}
 {149}{}{Deja de venderlos. Ahora.}
-{150}{}{Un negocio terrible. Esa pobre gente. Oh, esa pobre gente. ¡Malgastando sus vidas de esa manera tan estúpida! ¿Puedo hacer algo más por ti? ¿Alimentarte quizás?}
+{150}{}{Un negocio terrible. Esa pobre gente. Oh, esa pobre gente. Â¡Malgastando sus vidas de esa manera tan estÃºpida! Â¿Puedo hacer algo mÃ¡s por ti? Â¿Alimentarte quizÃ¡s?}
 {151}{}{Dame un pincho moruno de iguana.}
-{152}{}{¿Sabes algo de un Chip de Agua?}
-{153}{}{¿Me puedes contar algo acerca de Decker?}
-{154}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{155}{}{¿Ocurre algo interesante en el Eje?}
-{156}{}{Nada. Siento haber sacado el tema. Solo he oído rumores ¿Puedo hacer algo más por ti?}
+{152}{}{Â¿Sabes algo de un Chip de Agua?}
+{153}{}{Â¿Me puedes contar algo acerca de Decker?}
+{154}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{155}{}{Â¿Ocurre algo interesante en el Eje?}
+{156}{}{Nada. Siento haber sacado el tema. Solo he oÃ­do rumores Â¿Puedo hacer algo mÃ¡s por ti?}
 {157}{}{Dame un pincho moruno de iguana.}
-{158}{}{¿Sabes algo de un Chip de Agua?}
-{159}{}{¿Me puedes contar algo acerca de Decker?}
-{160}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{161}{}{¿Sabes algo de las caravanas desaparecidas?}
-{162}{}{¿Ocurre algo interesante en el Eje?}
-{163}{}{Alguien mató a Decker. Estamos de luto, al menos hasta que al Eje se le acabe el alcohol.}
-{164}{}{Alguien disparó al Sheriff Greene. No sé nada de su suplente.}
-{165}{}{Daren Hightower fue asesinado. Y todo ese dinero no pudo salvarlo. Irónico, ¿no?}
-{166}{}{Alguien ha cabreado a alguien muy importante, porque he oído que se la han jurado a algún pobre diablo.}
-{167}{}{Alguien robó un collar de los Hightower. Han cometido un tremendo error. Pronto serán hombres muertos}
-{168}{}{Alguien asesinó a Jain en la Catedral. ¡Me contaron que era una verdadera perra!}
-{169}{}{Bueno, la única novedad es que los Niños de la Catedral se han hecho cargo del hospital. Este sitio es bastante aburrido últimamente. Ten cuidado, son unos tíos raros.}
-{170}{}{¿Algo más?}
+{158}{}{Â¿Sabes algo de un Chip de Agua?}
+{159}{}{Â¿Me puedes contar algo acerca de Decker?}
+{160}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{161}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{162}{}{Â¿Ocurre algo interesante en el Eje?}
+{163}{}{Alguien matÃ³ a Decker. Estamos de luto, al menos hasta que al Eje se le acabe el alcohol.}
+{164}{}{Alguien disparÃ³ al Sheriff Greene. No sÃ© nada de su suplente.}
+{165}{}{Daren Hightower fue asesinado. Y todo ese dinero no pudo salvarlo. IrÃ³nico, Â¿no?}
+{166}{}{Alguien ha cabreado a alguien muy importante, porque he oÃ­do que se la han jurado a algÃºn pobre diablo.}
+{167}{}{Alguien robÃ³ un collar de los Hightower. Han cometido un tremendo error. Pronto serÃ¡n hombres muertos}
+{168}{}{Alguien asesinÃ³ a Jain en la Catedral. Â¡Me contaron que era una verdadera perra!}
+{169}{}{Bueno, la Ãºnica novedad es que los NiÃ±os de la Catedral se han hecho cargo del hospital. Este sitio es bastante aburrido Ãºltimamente. Ten cuidado, son unos tÃ­os raros.}
+{170}{}{Â¿Algo mÃ¡s?}
 {171}{}{Dame un pincho moruno de iguana.}
-{172}{}{¿Sabes algo de un Chip de Agua?}
-{173}{}{¿Me puedes contar algo acerca de Decker?}
-{174}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{175}{}{¿Sabes algo de las caravanas desaparecidas?}
-{176}{}{Lo siento, no puedes permitírtelo.}
-{177}{}{¡Aquí tienes tu iguana! ¿Algo más?}
+{172}{}{Â¿Sabes algo de un Chip de Agua?}
+{173}{}{Â¿Me puedes contar algo acerca de Decker?}
+{174}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{175}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{176}{}{Lo siento, no puedes permitÃ­rtelo.}
+{177}{}{Â¡AquÃ­ tienes tu iguana! Â¿Algo mÃ¡s?}
 {178}{}{Dame otro pincho moruno de iguana.}
-{179}{}{¿Sabes algo de un Chip de Agua?}
-{180}{}{¿Me puedes contar algo acerca de Decker?}
-{181}{}{¿Sabes algo de las caravanas desaparecidas?}
-{182}{}{¿Ocurre algo interesante en el Eje?}
-{183}{}{¡Yo querer otra iguana!}
-{184}{}{¡Yo lleno! ¡URRRP!}
-{185}{}{Lo siento, no puedes permitírtelo.}
-{186}{}{¡Aquí tienes tu plato del día! ¿Algo más?}
+{179}{}{Â¿Sabes algo de un Chip de Agua?}
+{180}{}{Â¿Me puedes contar algo acerca de Decker?}
+{181}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{182}{}{Â¿Ocurre algo interesante en el Eje?}
+{183}{}{Â¡Yo querer otra iguana!}
+{184}{}{Â¡Yo lleno! Â¡URRRP!}
+{185}{}{Lo siento, no puedes permitÃ­rtelo.}
+{186}{}{Â¡AquÃ­ tienes tu plato del dÃ­a! Â¿Algo mÃ¡s?}
 {187}{}{Dame otro pincho moruno de iguana.}
-{188}{}{¿Sabes algo de un Chip de Agua?}
-{189}{}{¿Me puedes contar algo acerca de Decker?}
-{190}{}{¿Sabes algo de las caravanas desaparecidas?}
-{191}{}{¿Ocurre algo interesante en el Eje?}
-{192}{}{¡Yo querer otra iguana!}
-{193}{}{¡Yo lleno! ¡URRRP!}
-{194}{}{Gracias. ¡Vuelve cuando quieres!}
-{195}{}{No debes llevar mucho en la ciudad si me preguntas por los Mercaderes de Agua. El agua es vida. Y no se llega a ser más importante que la vida y la muerte.}
+{188}{}{Â¿Sabes algo de un Chip de Agua?}
+{189}{}{Â¿Me puedes contar algo acerca de Decker?}
+{190}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{191}{}{Â¿Ocurre algo interesante en el Eje?}
+{192}{}{Â¡Yo querer otra iguana!}
+{193}{}{Â¡Yo lleno! Â¡URRRP!}
+{194}{}{Gracias. Â¡Vuelve cuando quieres!}
+{195}{}{No debes llevar mucho en la ciudad si me preguntas por los Mercaderes de Agua. El agua es vida. Y no se llega a ser mÃ¡s importante que la vida y la muerte.}
 {196}{}{Dame un pincho moruno de iguana.}
-{197}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{198}{}{¿Sabes algo de las caravanas desaparecidas?}
-{199}{}{¿Ocurre algo interesante en el Eje?}
-{200}{}{¡Tener hambre! ¡Grrrrr!}
-{201}{}{¡Hijo de puta avaricioso!}
-{202}{}{¡Puto avaricioso!}
-{203}{}{Vale, tú ganas. Aquí está tu dinero. ¡Cógelo y no vuelvas!}
-{204}{}{Amigo, yo cambiaría de opinión si fuera tú. La gente muere por mucho menos en el Eje. ¡Ahora, lárgate y no vuelvas!}
-{205}{}{Puede que haya estado utilizando algunas raciones dudosas, pero no es como si hubiera cometido asesinato. Las mercancías de Doc Mórbid están ya muertas, ¿verdad?}
-{206}{}{Estoy seguro de ello, Bob. Y estoy seguro de que la policía también lo estará.}
-{207}{}{El canibalismo es un crimen contra la humanidad, Bob. Haré lo que pueda para que pagues por ello.}
-{208}{}{Puede que sí. Puede que no. No me importa. Es inmoral. Para de hacerlo.}
-{209}{}{¡Ni hablar! ¡No dejaré que me jodas! ¡Toma!}
-{210}{}{No me voy a ir a la ruina por tus escrúpulos, ¡pero morirás por ellos! ¡Toma!}
+{197}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{198}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{199}{}{Â¿Ocurre algo interesante en el Eje?}
+{200}{}{Â¡Tener hambre! Â¡Grrrrr!}
+{201}{}{Â¡Hijo de puta avaricioso!}
+{202}{}{Â¡Puto avaricioso!}
+{203}{}{Vale, tÃº ganas. AquÃ­ estÃ¡ tu dinero. Â¡CÃ³gelo y no vuelvas!}
+{204}{}{Amigo, yo cambiarÃ­a de opiniÃ³n si fuera tÃº. La gente muere por mucho menos en el Eje. Â¡Ahora, lÃ¡rgate y no vuelvas!}
+{205}{}{Puede que haya estado utilizando algunas raciones dudosas, pero no es como si hubiera cometido asesinato. Las mercancÃ­as de Doc MÃ³rbid estÃ¡n ya muertas, Â¿verdad?}
+{206}{}{Estoy seguro de ello, Bob. Y estoy seguro de que la policÃ­a tambiÃ©n lo estarÃ¡.}
+{207}{}{El canibalismo es un crimen contra la humanidad, Bob. HarÃ© lo que pueda para que pagues por ello.}
+{208}{}{Puede que sÃ­. Puede que no. No me importa. Es inmoral. Para de hacerlo.}
+{209}{}{Â¡Ni hablar! Â¡No dejarÃ© que me jodas! Â¡Toma!}
+{210}{}{No me voy a ir a la ruina por tus escrÃºpulos, Â¡pero morirÃ¡s por ellos! Â¡Toma!}

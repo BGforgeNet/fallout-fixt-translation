@@ -1,1 +1,1 @@
-{100}{}{Hay un maletín de emergencia médica escondido en el muro este. Puede que sea útil.}
+{100}{}{Hay un maletÃ­n de emergencia mÃ©dica escondido en el muro este. Puede que sea Ãºtil.}

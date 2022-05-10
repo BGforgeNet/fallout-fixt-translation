@@ -1,10 +1,10 @@
 {100}{}{T'as foutu Gary en rogne !}
 {101}{}{Voici Gary.}
-{102}{}{Eh ! Y'a que les Goules qu'ont droit à une ration d'eau.}
+{102}{}{Eh ! Y'a que les Goules qu'ont droit Ã  une ration d'eau.}
 {103}{}{La ferme !}
 {104}{}{Le mutant t'ignore.}
 {1000}{}{Eau}
-{1001}{}{Nécropolis}
+{1001}{}{NÃ©cropolis}
 {1002}{}{Set}
 {1003}{}{Watershed}
 {1004}{}{Hall}
@@ -14,10 +14,10 @@
 {1008}{}{Puce}
 {1100}{}{Je ne sais pas.}
 {1101}{}{Tu y es.}
-{1102}{}{Une lavette. On devrait juste les éliminer, lui et ses Goules.}
+{1102}{}{Une lavette. On devrait juste les Ã©liminer, lui et ses Goules.}
 {1103}{}{C'est ici.}
 {1104}{}{Je ne sais pas.}
 {1105}{}{Lui, le chef de Harry.}
-{1106}{}{Des poules mouillées.}
-{1107}{}{Encore plus poules mouillées que les Goules.}
+{1106}{}{Des poules mouillÃ©es.}
+{1107}{}{Encore plus poules mouillÃ©es que les Goules.}
 {1108}{}{Je ne sais pas.}

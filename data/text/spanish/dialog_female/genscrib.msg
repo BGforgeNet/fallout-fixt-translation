@@ -1,24 +1,24 @@
 {100}{}{Ves a un Escriba.}
-{101}{}{Vree es mi ídolo.}
+{101}{}{Vree es mi Ã­dolo.}
 {102}{}{Vree es tan guapa.}
-{103}{}{Sophia es simpática. No hay duda.}
+{103}{}{Sophia es simpÃ¡tica. No hay duda.}
 {104}{}{Derek es guay.}
-{105}{}{¿Seguirá el universo en expansión o llegará un momento en que colapse?}
-{106}{}{Me encantan esos viejos libros y revistas, pero son muy difíciles de encontrar.}
-{107}{}{La sabiduría es poder.}
-{108}{}{La pluma es más fiera que la espada.}
-{109}{}{La tecnología debe ser respetada.}
+{105}{}{Â¿SeguirÃ¡ el universo en expansiÃ³n o llegarÃ¡ un momento en que colapse?}
+{106}{}{Me encantan esos viejos libros y revistas, pero son muy difÃ­ciles de encontrar.}
+{107}{}{La sabidurÃ­a es poder.}
+{108}{}{La pluma es mÃ¡s fiera que la espada.}
+{109}{}{La tecnologÃ­a debe ser respetada.}
 {110}{}{La ciencia es tan divertida.}
 {111}{}{He visto una nave espacial antes.}
-{112}{}{¿Sabes que el sol es en realidad una gran reacción nuclear?}
-{113}{}{¿Sabes que un agujero negro es en realidad la entrada a otro universo?}
-{114}{}{¿Sabías que el átomo de hidrógeno está vacío en un 99,9843425%?}
-{115}{}{El viaje en el tiempo será posible algún día y podremos evitar los desastres que arruinaron nuestro mundo en el pasado.}
+{112}{}{Â¿Sabes que el sol es en realidad una gran reacciÃ³n nuclear?}
+{113}{}{Â¿Sabes que un agujero negro es en realidad la entrada a otro universo?}
+{114}{}{Â¿SabÃ­as que el Ã¡tomo de hidrÃ³geno estÃ¡ vacÃ­o en un 99,9843425%?}
+{115}{}{El viaje en el tiempo serÃ¡ posible algÃºn dÃ­a y podremos evitar los desastres que arruinaron nuestro mundo en el pasado.}
 {116}{}{Investigar es una de mis aficiones. Me siento como si estuviera resolviendo un misterio.}
-{117}{}{Ser un escriba es lo mejor. Estudias antiguas tecnologías e intentas desarrollar otras nuevas.}
-{118}{}{A estos terminales podrían venirles bien una mejora. ¿Quizá deberíamos poner la pantalla por aquí?}
+{117}{}{Ser un escriba es lo mejor. Estudias antiguas tecnologÃ­as e intentas desarrollar otras nuevas.}
+{118}{}{A estos terminales podrÃ­an venirles bien una mejora. Â¿QuizÃ¡ deberÃ­amos poner la pantalla por aquÃ­?}
 {119}{}{Lo siento, estoy justo en medio de un posible descubrimiento. No puedo hablar ahora.}
-{120}{}{Eh, Iniciada. Deberías intentar ser un escriba si no lo has decidido todavía.}
-{121}{}{Nosotros los escribas diseñamos todo el equipo, armas y suministros. Es bastante emocionante.}
-{122}{}{Por favor, no me molestes, estoy intentando acabar esta investigación.}
-{123}{}{Ésa que está ahí es Vree, también es escriba.}
+{120}{}{Eh, Iniciada. DeberÃ­as intentar ser un escriba si no lo has decidido todavÃ­a.}
+{121}{}{Nosotros los escribas diseÃ±amos todo el equipo, armas y suministros. Es bastante emocionante.}
+{122}{}{Por favor, no me molestes, estoy intentando acabar esta investigaciÃ³n.}
+{123}{}{Ã‰sa que estÃ¡ ahÃ­ es Vree, tambiÃ©n es escriba.}

@@ -1,6 +1,6 @@
-{100}{}{Estás viendo a un Anciano de la Hermandad.}
+{100}{}{EstÃ¡s viendo a un Anciano de la Hermandad.}
 {101}{}{Saludos, Iniciada.}
-{102}{}{Maxson parece un poco nervioso últimamente.}
+{102}{}{Maxson parece un poco nervioso Ãºltimamente.}
 {103}{}{Vree ha descubierto cosas muy innovadoras.}
-{104}{}{Me pregunto si Maxson está en lo cierto sobre ese ejército en el norte.}
-{105}{}{Buenos días, Iniciada.}
+{104}{}{Me pregunto si Maxson estÃ¡ en lo cierto sobre ese ejÃ©rcito en el norte.}
+{105}{}{Buenos dÃ­as, Iniciada.}

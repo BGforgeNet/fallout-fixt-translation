@@ -1,8 +1,8 @@
 {100}{}{Ves a un empleado de los Mercaderes de Agua.}
 {101}{}{Si quieres un trabajo, habla con Martha.}
-{102}{}{Estos viajes de la caravana se están poniendo muy peligrosos.}
-{103}{}{Ey, ¿tienes un pitillo?}
-{104}{}{Necesito un baño.}
+{102}{}{Estos viajes de la caravana se estÃ¡n poniendo muy peligrosos.}
+{103}{}{Ey, Â¿tienes un pitillo?}
+{104}{}{Necesito un baÃ±o.}
 {105}{}{Por favor, vete.}
-{106}{}{Será mejor que tengas cuidado. No pagamos a esos guardias para que miren.}
+{106}{}{SerÃ¡ mejor que tengas cuidado. No pagamos a esos guardias para que miren.}
 {107}{}{Si quieres un trabajo, ve a cualquier otro sitio.}

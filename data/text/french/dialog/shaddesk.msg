@@ -1,2 +1,2 @@
-{100}{}{Tu remarques un bureau encombré de papiers.}
-{101}{}{Les documents contiennent des rapports détaillés sur les attaques des pillards et des radscorpions, une liste des citoyens des Sables Ombragés, et des informations sur l'agriculture.}
+{100}{}{Tu remarques un bureau encombrÃ© de papiers.}
+{101}{}{Les documents contiennent des rapports dÃ©taillÃ©s sur les attaques des pillards et des radscorpions, une liste des citoyens des Sables OmbragÃ©s, et des informations sur l'agriculture.}

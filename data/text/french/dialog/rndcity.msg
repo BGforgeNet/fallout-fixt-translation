@@ -4,4 +4,4 @@
 {103}{}{Un grand groupe de rats envahit les rues !}
 {104}{}{Un groupe de bandits hostiles t'attaque !}
 {105}{}{Soudain, des rats t'attaquent !}
-{106}{}{Vous rencontrez un un groupe de Super Mutants qui ont l'air bien féroces.}
+{106}{}{Vous rencontrez un un groupe de Super Mutants qui ont l'air bien fÃ©roces.}

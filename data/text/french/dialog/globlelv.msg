@@ -1,7 +1,7 @@
 {100}{}{Tu vois une porte d'ascenseur avec des marques bleues.}
-{101}{}{Tu reçois une décharge du système de sécurité, mais tu ne subis aucun dégât. Peut-être devrais-tu utiliser quelque chose pour court-circuiter le système de sécurité.}
-{102}{}{Tu reçois une décharge du système de sécurité, ce qui correspond à un point de dégât. Peut-être devrais-tu utiliser quelque chose pour court-circuiter le système de sécurité.}
-{103}{}{Tu reçois une décharge du système de sécurité, et prends }
-{104}{}{ points de dégât. Peut-être devrais-tu utiliser quelque chose pour court-circuiter le système de sécurité.}
-{105}{}{Tu désactives le système de sécurité de la porte.}
+{101}{}{Tu reÃ§ois une dÃ©charge du systÃ¨me de sÃ©curitÃ©, mais tu ne subis aucun dÃ©gÃ¢t. Peut-Ãªtre devrais-tu utiliser quelque chose pour court-circuiter le systÃ¨me de sÃ©curitÃ©.}
+{102}{}{Tu reÃ§ois une dÃ©charge du systÃ¨me de sÃ©curitÃ©, ce qui correspond Ã  un point de dÃ©gÃ¢t. Peut-Ãªtre devrais-tu utiliser quelque chose pour court-circuiter le systÃ¨me de sÃ©curitÃ©.}
+{103}{}{Tu reÃ§ois une dÃ©charge du systÃ¨me de sÃ©curitÃ©, et prends }
+{104}{}{ points de dÃ©gÃ¢t. Peut-Ãªtre devrais-tu utiliser quelque chose pour court-circuiter le systÃ¨me de sÃ©curitÃ©.}
+{105}{}{Tu dÃ©sactives le systÃ¨me de sÃ©curitÃ© de la porte.}
 {106}{}{Cet objet n'a aucun effet sur la porte.}

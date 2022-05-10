@@ -1,14 +1,14 @@
-{100}{}{Paladín}
-{101}{}{¡Mantente firme, Iniciado!}
-{102}{}{Parece que va bien. Continúas haciendo un buen trabajo.}
-{103}{}{Hola, Iniciado, todo está seguro.}
+{100}{}{PaladÃ­n}
+{101}{}{Â¡Mantente firme, Iniciado!}
+{102}{}{Parece que va bien. ContinÃºas haciendo un buen trabajo.}
+{103}{}{Hola, Iniciado, todo estÃ¡ seguro.}
 {104}{}{Hola, Hermano }
 {105}{}{.}
 {106}{}{Lo siento, no puedo hablar con nadie. Ya sabes como es.}
-{107}{}{Si tienes preguntas, deberías hablar con Talus o con Maxson.}
-{108}{}{Vree está en la biblioteca durante el día si tienes alguna cuestión técnica.}
-{109}{}{Rhombus es mi ídolo.}
-{110}{}{Ojalá estuviera entrenando ahora. Los deberes de un guardia son una pérdida de tiempo.}
-{111}{}{Vree es mi ídolo.}
-{112}{}{¡Marco!}
-{113}{}{¡Polo!}
+{107}{}{Si tienes preguntas, deberÃ­as hablar con Talus o con Maxson.}
+{108}{}{Vree estÃ¡ en la biblioteca durante el dÃ­a si tienes alguna cuestiÃ³n tÃ©cnica.}
+{109}{}{Rhombus es mi Ã­dolo.}
+{110}{}{OjalÃ¡ estuviera entrenando ahora. Los deberes de un guardia son una pÃ©rdida de tiempo.}
+{111}{}{Vree es mi Ã­dolo.}
+{112}{}{Â¡Marco!}
+{113}{}{Â¡Polo!}

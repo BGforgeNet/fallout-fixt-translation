@@ -1,11 +1,11 @@
 {100}{}{Voici un garde de Decker.}
 {101}{}{Tu dois parler au patron.}
-{102}{}{Tu ferais mieux de rester de notre côté.}
+{102}{}{Tu ferais mieux de rester de notre cÃ´tÃ©.}
 {103}{}{On va te surveiller.}
-{104}{}{N'essaie pas de toucher à tes armes.}
+{104}{}{N'essaie pas de toucher Ã  tes armes.}
 {105}{}{Si tu le regardes de travers, c'en est fini de toi.}
 {106}{}{Prudence.}
 {107}{}{Je me rends !}
-{108}{}{Je n'ai jamais aimé travailler pour ce Decker de toute façon.}
+{108}{}{Je n'ai jamais aimÃ© travailler pour ce Decker de toute faÃ§on.}
 {109}{}{Maintenant que Decker et Kane sont partis, je vais prendre les choses en mains !}
-{110}{}{A partir de maintenant, tu as intérêt à faire attention dans le Centre. Je t'ai à l'oeil.}
+{110}{}{A partir de maintenant, tu as intÃ©rÃªt Ã  faire attention dans le Centre. Je t'ai Ã  l'oeil.}

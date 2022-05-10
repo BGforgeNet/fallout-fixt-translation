@@ -1,62 +1,62 @@
-{100}{}{¡Tú! ¡Detente y enfréntate a la ley!}
-{101}{}{Gracias por traer el Chip de Agua. Esto subirá la moral de la gente y evitará que infrinjan la ley del Refugio.}
-{102}{}{Me alegro de volver a verte. ¿Hay algo que pueda hacer por ti?}
-{103}{}{¿Qué haces?}
-{104}{}{Sí, necesito algunas armas.}
-{105}{}{¿Por qué iba a haber una puerta cerrada en el Refugio?}
-{106}{}{¡Glop!}
-{107}{}{Mmm. Creo que deberías estar en otro sitio lejos de aquí. Que tengas un buen día.}
-{108}{}{Estoy encargado de la seguridad y del cumplimiento de la ley en el Refugio. Por si no lo sabes, el Refugio no funcionaría tan bien si no fuera por mí.}
+{100}{}{Â¡TÃº! Â¡Detente y enfrÃ©ntate a la ley!}
+{101}{}{Gracias por traer el Chip de Agua. Esto subirÃ¡ la moral de la gente y evitarÃ¡ que infrinjan la ley del Refugio.}
+{102}{}{Me alegro de volver a verte. Â¿Hay algo que pueda hacer por ti?}
+{103}{}{Â¿QuÃ© haces?}
+{104}{}{SÃ­, necesito algunas armas.}
+{105}{}{Â¿Por quÃ© iba a haber una puerta cerrada en el Refugio?}
+{106}{}{Â¡Glop!}
+{107}{}{Mmm. Creo que deberÃ­as estar en otro sitio lejos de aquÃ­. Que tengas un buen dÃ­a.}
+{108}{}{Estoy encargado de la seguridad y del cumplimiento de la ley en el Refugio. Por si no lo sabes, el Refugio no funcionarÃ­a tan bien si no fuera por mÃ­.}
 {109}{}{Mmm. Claro. Gracias.}
 {110}{}{Parece importante.}
-{111}{}{Lo es. Sin el justo cumplimiento de las leyes, el Refugio sería pronto un lugar sin ley, sin reglas. Eso pondría en peligro la seguridad de todos nosotros.}
-{112}{}{Ahora que he estado en el exterior, ¿hay alguna ley que se me aplique específicamente a mí?}
+{111}{}{Lo es. Sin el justo cumplimiento de las leyes, el Refugio serÃ­a pronto un lugar sin ley, sin reglas. Eso pondrÃ­a en peligro la seguridad de todos nosotros.}
+{112}{}{Ahora que he estado en el exterior, Â¿hay alguna ley que se me aplique especÃ­ficamente a mÃ­?}
 {113}{}{He visto algunos lugares en el mundo exterior que sufren porque les faltan leyes.}
-{114}{}{Bueno, aunque en el mundo exterior se necesiten armas, haz el favor de no enseñarlas de modo amenazador aquí. Es lo único que se me ocurre.}
+{114}{}{Bueno, aunque en el mundo exterior se necesiten armas, haz el favor de no enseÃ±arlas de modo amenazador aquÃ­. Es lo Ãºnico que se me ocurre.}
 {115}{}{Gracias.}
-{116}{}{¿Lo ves? Sabía que ocurriría. La obediencia a la ley es lo único que ha salvado al Refugio de la miseria y la destrucción. Adelante con el buen trabajo.}
-{117}{}{El Supervisor no me ha dejado abrir la armería y conseguir más armas para ti. Lo siento, pero no puedo ayudarte.}
-{118}{}{¡Por favor! ¡Las necesito!}
+{116}{}{Â¿Lo ves? SabÃ­a que ocurrirÃ­a. La obediencia a la ley es lo Ãºnico que ha salvado al Refugio de la miseria y la destrucciÃ³n. Adelante con el buen trabajo.}
+{117}{}{El Supervisor no me ha dejado abrir la armerÃ­a y conseguir mÃ¡s armas para ti. Lo siento, pero no puedo ayudarte.}
+{118}{}{Â¡Por favor! Â¡Las necesito!}
 {119}{}{Vale. Gracias de todos modos.}
 {120}{}{No. No puedo hacerlo.}
-{121}{}{Que tengas un buen día.}
+{121}{}{Que tengas un buen dÃ­a.}
 {122}{}{Para mantener las armas alejadas de aquellos que no tienen acceso a ellas.}
-{123}{}{¿Quién tiene acceso?}
+{123}{}{Â¿QuiÃ©n tiene acceso?}
 {124}{}{Eso no me parece muy justo.}
-{125}{}{La vida no es justa, a veces. Pero nuestra ley sí. Que tengas un buen día.}
-{126}{}{El Supervisor, mi equipo de seguridad y yo. Así es.}
+{125}{}{La vida no es justa, a veces. Pero nuestra ley sÃ­. Que tengas un buen dÃ­a.}
+{126}{}{El Supervisor, mi equipo de seguridad y yo. AsÃ­ es.}
 {127}{}{Parece que solo tiene acceso la gente que lo necesita.}
 {128}{}{La lista es realmente corta.}
-{129}{}{Sí, en efecto. Tengo que volver al trabajo.}
-{130}{}{Sí, solo la gente que lo necesita tiene acceso.}
+{129}{}{SÃ­, en efecto. Tengo que volver al trabajo.}
+{130}{}{SÃ­, solo la gente que lo necesita tiene acceso.}
 {131}{}{Pues yo lo necesito. Por favor, abre la puerta.}
 {132}{}{Lo siento, es un buen argumento, pero no te puedo dejar entrar.}
 {133}{}{Mmm. Ahora que lo mencionas, parece que es cierto. Voy a abrirte la puerta.}
-{134}{}{¿Qué puedo hacer por ti, }
+{134}{}{Â¿QuÃ© puedo hacer por ti, }
 {135}{}{?}
-{136}{}{Necesito más armas.}
-{137}{}{¿Te encuentras bien?}
-{138}{}{Ajá.}
-{139}{}{Estupendo. Tu inteligencia es asombrosa. Posiblemente no puedo pensar más.}
-{140}{}{Lo siento, ya tienes todo lo que podemos ofrecerte. Buen día.}
-{141}{}{No me gustan los tipos como tú. Agitadores. Deberíais avergonzaros.}
+{136}{}{Necesito mÃ¡s armas.}
+{137}{}{Â¿Te encuentras bien?}
+{138}{}{AjÃ¡.}
+{139}{}{Estupendo. Tu inteligencia es asombrosa. Posiblemente no puedo pensar mÃ¡s.}
+{140}{}{Lo siento, ya tienes todo lo que podemos ofrecerte. Buen dÃ­a.}
+{141}{}{No me gustan los tipos como tÃº. Agitadores. DeberÃ­ais avergonzaros.}
 {142}{}{Pues lo mismo te digo, tonto del culo.}
-{143}{}{¿No crees que eres demasiado severo?}
-{144}{}{Vigila tu lengua o te arrestaré por falta de respeto a un oficial encargado del cumplimiento de la ley.}
-{145}{}{Sí, eso. Hasta la vista.}
+{143}{}{Â¿No crees que eres demasiado severo?}
+{144}{}{Vigila tu lengua o te arrestarÃ© por falta de respeto a un oficial encargado del cumplimiento de la ley.}
+{145}{}{SÃ­, eso. Hasta la vista.}
 {146}{}{Eso es. Estoy harto que me provoques.}
-{147}{}{Mmm. Posiblemente. Debería ser imparcial en mi trabajo, pero esta vez voy a pasarme de la raya. Intentaré hacerlo mejor en el futuro.}
+{147}{}{Mmm. Posiblemente. DeberÃ­a ser imparcial en mi trabajo, pero esta vez voy a pasarme de la raya. IntentarÃ© hacerlo mejor en el futuro.}
 {148}{}{Mmm. No. Probablemente no lo suficiente.}
 {149}{}{Buena suerte. Espero que puedas hacer el trabajo.}
-{150}{}{Será mejor que no me decepciones.}
+{150}{}{SerÃ¡ mejor que no me decepciones.}
 {151}{}{Aparta el arma ahora mismo.}
-{152}{}{¿Qué crees que estás haciendo con eso aquí?}
-{153}{}{Solo practicando mi puntería.}
-{154}{}{Nada, lo siento. No tenía intención de hacerlo.}
+{152}{}{Â¿QuÃ© crees que estÃ¡s haciendo con eso aquÃ­?}
+{153}{}{Solo practicando mi punterÃ­a.}
+{154}{}{Nada, lo siento. No tenÃ­a intenciÃ³n de hacerlo.}
 {155}{}{Colgado.}
-{156}{}{Cuidado con lo que me dices. Y no lleves armas aquí dentro. Por dios, ¡esto es el Refugio!}
-{157}{}{Será mejor que no practiques aquí. Tú y yo tendremos serios problemas si vuelves a hacerlo.}
-{158}{}{Sabía que la vida del exterior te traería problemas.}
-{159}{}{¡Alto! ¡No puedes entrar ahí!}
+{156}{}{Cuidado con lo que me dices. Y no lleves armas aquÃ­ dentro. Por dios, Â¡esto es el Refugio!}
+{157}{}{SerÃ¡ mejor que no practiques aquÃ­. TÃº y yo tendremos serios problemas si vuelves a hacerlo.}
+{158}{}{SabÃ­a que la vida del exterior te traerÃ­a problemas.}
+{159}{}{Â¡Alto! Â¡No puedes entrar ahÃ­!}
 {1000}{}{Supervisor}
 {1100}{}{Es la autoridad suprema del Refugio. El Refugio obedece a sus decisiones.}

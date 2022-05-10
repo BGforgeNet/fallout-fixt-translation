@@ -1,7 +1,7 @@
 {100}{}{Scribe}
-{101}{}{Salut, Frère }
-{102}{}{. Pourquoi ne te joindrais-tu pas à notre méditation ?}
-{103}{}{Pardon, Frère }
-{104}{}{. Nous méditons.}
-{105}{}{La technologie doit être préservée.}
-{106}{}{La méditation apaise l'âme et éclaire l'esprit.}
+{101}{}{Salut, FrÃ¨re }
+{102}{}{. Pourquoi ne te joindrais-tu pas Ã  notre mÃ©ditation ?}
+{103}{}{Pardon, FrÃ¨re }
+{104}{}{. Nous mÃ©ditons.}
+{105}{}{La technologie doit Ãªtre prÃ©servÃ©e.}
+{106}{}{La mÃ©ditation apaise l'Ã¢me et Ã©claire l'esprit.}

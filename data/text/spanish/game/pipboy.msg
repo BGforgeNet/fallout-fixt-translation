@@ -1,25 +1,25 @@
-{100}{}{°Feliz AÒo Nuevo!}
-{101}{}{°Feliz DÌa de San ValentÌn!}
+{100}{}{¬°Feliz A√±o Nuevo!}
+{101}{}{¬°Feliz D√≠a de San Valent√≠n!}
 {102}{}{Alt+F4 y luego Y activa el Modo Dios}
-{103}{}{°Feliz DÌa de EnvÌos Gratis!}
-{104}{}{°Feliz DÌa de la Independencia!}
-{105}{}{°Feliz Halloween!}
-{106}{}{°Feliz DÌa de AcciÛn de Gracias!}
-{107}{}{°Feliz Navidad!}
-{200}{}{[M¡S]}
+{103}{}{¬°Feliz D√≠a de Env√≠os Gratis!}
+{104}{}{¬°Feliz D√≠a de la Independencia!}
+{105}{}{¬°Feliz Halloween!}
+{106}{}{¬°Feliz D√≠a de Acci√≥n de Gracias!}
+{107}{}{¬°Feliz Navidad!}
+{200}{}{[M√ÅS]}
 {201}{}{[VOLVER]}
 {202}{}{Misiones}
 {203}{}{No hay tareas actuales.}
 {204}{}{PISTAS}
 {205}{}{LOCATION MAPS}
-{206}{}{ARCHIVOS DE VÕDEO}
+{206}{}{ARCHIVOS DE V√çDEO}
 {207}{}{DATOS}
 {208}{}{}
 {209}{}{}
 {210}{}{Misiones}
 {211}{}{Datos}
 {212}{}{de}
-{213}{}{P·gina}
+{213}{}{P√°gina}
 {214}{}{[HECHO]}
 {215}{}{Cannot rest with hostiles present.}
 {300}{}{DESPERTADOR}
@@ -38,7 +38,7 @@
 {313}{}{Rest until 00:00}
 {314}{}{Descansar hasta curarse del todo}
 {400}{}{Disco de Experimentos VEF}
-{401}{}{UbicaciÛn Refugios v34.129}
+{401}{}{Ubicaci√≥n Refugios v34.129}
 {402}{}{Disco Antiguo Hermandad}
 {403}{}{Diario Experimentos Alfa}
 {404}{}{Diario Experimentos Delta}
@@ -49,41 +49,41 @@
 {409}{}{Disco de Sophia}
 {410}{}{Diario de Maxson}
 {411}{}{Audiodiario Richard Grey}
-{412}{}{Diario del Capit·n Maxson}
-{413}{}{InvestigaciÛn VEF}
+{412}{}{Diario del Capit√°n Maxson}
+{413}{}{Investigaci√≥n VEF}
 {414}{}{Power Armor Specs}
 {415}{}{Registros de West Tek}
-{416}{}{UbicaciÛn Refugios v34.129}
+{416}{}{Ubicaci√≥n Refugios v34.129}
 {417}{}{Regulator Transmissions}
 {500}{}{Logo de InterPlay}
 {501}{}{Logo de MacPlay}
 {502}{}{Intro}
-{503}{}{DestrucciÛn de Tanques}
-{504}{}{DestrucciÛn de la Catedral}
+{503}{}{Destrucci√≥n de Tanques}
+{504}{}{Destrucci√≥n de la Catedral}
 {505}{}{Instrucciones del Supervisor}
 {506}{}{Vault 13 Water Depleted}
 {507}{}{Vault 13 Super Mutant Invasion}
 {508}{}{Leaving the Vault}
 {509}{}{Leaving the Vault}
 {510}{}{Dipped in The Vats}
-{511}{}{Agua del Refugio 13 acab·ndose}
+{511}{}{Agua del Refugio 13 acab√°ndose}
 {512}{}{Vault 13 Water Levels Critical}
 {513}{}{Rae mata al Maestro}
 {600}{}{Estado}
 {601}{}{SIN USAR}
 {602}{}{Automapas}
-{603}{}{VÌdeos}
+{603}{}{V√≠deos}
 {604}{}{Despertador}
 {605}{}{Du da du da dum di di dudli du dum dum dum du da du da du da du da du da du da du}
 {606}{}{Bienvenido al RobCo Pip-Boy 2000.}
 {607}{}{Cuanto tiempo...}
 {608}{}{Despierta...}
 {700}{}{Refugio 13}
-{701}{}{Calmar o disolver la facciÛn rebelde.}
-{702}{}{Eliminar al lÌder de los Supermutante.}
+{701}{}{Calmar o disolver la facci√≥n rebelde.}
+{702}{}{Eliminar al l√≠der de los Supermutante.}
 {703}{}{Destruir el origen de los Supermutantes.}
 {704}{}{Encontrar un nuevo Chip de Agua para el Refugio.}
-{705}{}{Encontrar y atrapar al LadrÛn de Agua.}
+{705}{}{Encontrar y atrapar al Ladr√≥n de Agua.}
 {706}{}{}
 {707}{}{}
 {708}{}{}
@@ -98,9 +98,9 @@
 {717}{}{}
 {718}{}{}
 {719}{}{}
-{720}{}{Arenas SombrÌas}
-{721}{}{Diagnosticar y curar a Jarvis de su afecciÛn.}
-{722}{}{Ayudar a Razlo a encontrar una cura al veneno de EscorpiÛn Rad.}
+{720}{}{Arenas Sombr√≠as}
+{721}{}{Diagnosticar y curar a Jarvis de su afecci√≥n.}
+{722}{}{Ayudar a Razlo a encontrar una cura al veneno de Escorpi√≥n Rad.}
 {723}{}{Rescatar a Tandi de los Saqueadores.}
 {724}{}{Detener la amenaza de los Escorpiones Rad locales.}
 {725}{}{}
@@ -109,7 +109,7 @@
 {728}{}{}
 {729}{}{}
 {730}{}{Ciudad Vertedero}
-{731}{}{Ayudar a Sa˙l.}
+{731}{}{Ayudar a Sa√∫l.}
 {732}{}{Matar a Killian.}
 {733}{}{Rescatar a Sinthia.}
 {734}{}{Salvar a Trish.}
@@ -128,9 +128,9 @@
 {747}{}{}
 {748}{}{}
 {749}{}{}
-{750}{}{NecrÛpolis}
-{751}{}{Hacerse cargo de los Supermutantes del AlmacÈn de Agua.}
-{752}{}{Arreglar la bomba de agua de NecrÛpolis.}
+{750}{}{Necr√≥polis}
+{751}{}{Hacerse cargo de los Supermutantes del Almac√©n de Agua.}
+{752}{}{Arreglar la bomba de agua de Necr√≥polis.}
 {753}{}{}
 {754}{}{}
 {755}{}{}
@@ -169,8 +169,8 @@
 {788}{}{}
 {789}{}{}
 {790}{}{Ardor}
-{791}{}{Desactivar las trampas de la instalaciÛn.}
-{792}{}{Activar la energÌa.}
+{791}{}{Desactivar las trampas de la instalaci√≥n.}
+{792}{}{Activar la energ√≠a.}
 {793}{}{}
 {794}{}{}
 {795}{}{}
@@ -182,13 +182,13 @@
 {801}{}{Convertirse en un Blade.}
 {802}{}{Entregar el collar para Romero.}
 {803}{}{Entregar el paquete de los Gun Runners.}
-{804}{}{Encontrar al niÒo espÌa entre los seguidores.}
-{805}{}{Arreglar las granjas hidropÛnicas de Adytum.}
+{804}{}{Encontrar al ni√±o esp√≠a entre los seguidores.}
+{805}{}{Arreglar las granjas hidrop√≥nicas de Adytum.}
 {806}{}{Rescatar a Jason Zimmerman.}
 {807}{}{Evitar que las Bandas ataquen Adytum.}
 {808}{}{}
 {809}{}{}
-{810}{}{NiÒos de la Catedral}
+{810}{}{Ni√±os de la Catedral}
 {811}{}{}
 {812}{}{}
 {813}{}{}
@@ -198,193 +198,193 @@
 {817}{}{}
 {818}{}{}
 {819}{}{}
-{1000}{}{ï Fecha Diario 21 de Marzo, 2075:}
+{1000}{}{‚Ä¢ Fecha Diario 21 de Marzo, 2075:}
 {1001}{}{El Mayor Barnett ha ordenado experimentos con el lote}
-{1002}{}{10-011 del virus paninmunolÛgico, renombrado}
-{1003}{}{VEF, Virus de EvoluciÛn Forzada. Su principal}
-{1004}{}{preocupaciÛn radica en los efectos secundarios de la}
-{1005}{}{estructura cuad-hÈlice, m·s que en el efecto principal}
-{1006}{}{de estabilidad replicativa. …l cree que esta nueva}
-{1007}{}{estructura es el siguiente paso lÛgico en la evoluciÛn}
-{1008}{}{de los n˙cleos mamÌferos. Los experimentos con}
-{1009}{}{organismos unicelulares han sido un Èxito. Mientras el}
-{1010}{}{metabolismo b·sico ha permanecido inalterable, su}
-{1011}{}{inmunidad a la infecciÛn y a la radiaciÛn ha superado}
+{1002}{}{10-011 del virus paninmunol√≥gico, renombrado}
+{1003}{}{VEF, Virus de Evoluci√≥n Forzada. Su principal}
+{1004}{}{preocupaci√≥n radica en los efectos secundarios de la}
+{1005}{}{estructura cuad-h√©lice, m√°s que en el efecto principal}
+{1006}{}{de estabilidad replicativa. √âl cree que esta nueva}
+{1007}{}{estructura es el siguiente paso l√≥gico en la evoluci√≥n}
+{1008}{}{de los n√∫cleos mam√≠feros. Los experimentos con}
+{1009}{}{organismos unicelulares han sido un √©xito. Mientras el}
+{1010}{}{metabolismo b√°sico ha permanecido inalterable, su}
+{1011}{}{inmunidad a la infecci√≥n y a la radiaci√≥n ha superado}
 {1012}{}{toda expectativa.}
-{1013}{}{ApÈndice: cloroplastos parecen no haber sido afectados}
-{1014}{}{por el virus. Posteriores experimentos en cÈlulas}
+{1013}{}{Ap√©ndice: cloroplastos parecen no haber sido afectados}
+{1014}{}{por el virus. Posteriores experimentos en c√©lulas}
 {1015}{}{**END-PAR**}
 {1016}{}{Barnett.}
 {1017}{}{**END-PAR**}
-{1018}{}{ï Fecha Diario 9 de Mayo, 2075}
+{1018}{}{‚Ä¢ Fecha Diario 9 de Mayo, 2075}
 {1019}{}{Infectamos varias especies de gusanos con VEF. }
-{1020}{}{En unas horas los gusanos han aumentado su tamaÒo en}
-{1021}{}{un 28%, y la poblaciÛn resistiÛ a 39 contagios vÌricos.}
-{1022}{}{Se permitiÛ que cada muestra evolucionase durante}
+{1020}{}{En unas horas los gusanos han aumentado su tama√±o en}
+{1021}{}{un 28%, y la poblaci√≥n resisti√≥ a 39 contagios v√≠ricos.}
+{1022}{}{Se permiti√≥ que cada muestra evolucionase durante}
 {1023}{}{varias generaciones, y la nueva estructura de ADN fue}
-{1024}{}{transmitida con Èxito a la progenie de los gusanos, a}
+{1024}{}{transmitida con √©xito a la progenie de los gusanos, a}
 {1025}{}{pesar de que las muestras solo se reprodujeron}
 {1026}{}{asexualmente. Los experimentos realizados con insectos}
 {1027}{}{**END-PAR**}
-{1028}{}{estos experimentos hasta prÛximo aviso.}
+{1028}{}{estos experimentos hasta pr√≥ximo aviso.}
 {1029}{}{**END-PAR**}
-{1030}{}{ï Fecha Diario  30 Junio, 2075}
+{1030}{}{‚Ä¢ Fecha Diario  30 Junio, 2075}
 {1031}{}{Algunos ratones de laboratorio han sido infectados con}
-{1032}{}{Èxito con el VEF. De nuevo, se observÛ un incremento}
-{1033}{}{del tamaÒo en las horas siguientes, y tras 9 dÌas todos}
-{1034}{}{los ratones se habÌan estabilizado en un aumento del}
-{1035}{}{31% respecto al grupo de control. La disecciÛn revelÛ}
-{1036}{}{que los aumento m·s notorios fueron los del tejido}
-{1037}{}{muscular y ciertos Ûrganos internos, como hÌgado,}
-{1038}{}{corazÛn y riÒones. Con sorpresa se descubriÛ que}
+{1032}{}{√©xito con el VEF. De nuevo, se observ√≥ un incremento}
+{1033}{}{del tama√±o en las horas siguientes, y tras 9 d√≠as todos}
+{1034}{}{los ratones se hab√≠an estabilizado en un aumento del}
+{1035}{}{31% respecto al grupo de control. La disecci√≥n revel√≥}
+{1036}{}{que los aumento m√°s notorios fueron los del tejido}
+{1037}{}{muscular y ciertos √≥rganos internos, como h√≠gado,}
+{1038}{}{coraz√≥n y ri√±ones. Con sorpresa se descubri√≥ que}
 {1039}{}{los ratones infectados atravesaban los laberintos en}
 {1040}{}{**END-PAR**}
-{1041}{}{grupo de control. Ser· necesario seguir investigando}
+{1041}{}{grupo de control. Ser√° necesario seguir investigando}
 {1042}{}{para confirmar la importancia de este descubrimiento.}
 {1043}{}{**END-PAR**}
-{1044}{}{ï Fecha Diario 9 Noviembre, 2075}
+{1044}{}{‚Ä¢ Fecha Diario 9 Noviembre, 2075}
 {1045}{}{Hemos infectado con VEF a 218 conejos. Se les implantaron}
 {1046}{}{electrodos a la mitad de los sujetos para observar}
-{1047}{}{la actividad EEG antes y despuÈs de la infecciÛn.}
-{1048}{}{Se detectÛ un incremento de la actividad elÈctrica del}
-{1049}{}{cerebro en 3,2 segundos (de media) tras la inyecciÛn.}
-{1050}{}{De nuevo se observÛ el tÌpico aumento de tamaÒo.}
-{1051}{}{TambiÈn se detectÛ un incremento de la agresividad}
+{1047}{}{la actividad EEG antes y despu√©s de la infecci√≥n.}
+{1048}{}{Se detect√≥ un incremento de la actividad el√©ctrica del}
+{1049}{}{cerebro en 3,2 segundos (de media) tras la inyecci√≥n.}
+{1050}{}{De nuevo se observ√≥ el t√≠pico aumento de tama√±o.}
+{1051}{}{Tambi√©n se detect√≥ un incremento de la agresividad}
 {1052}{}{(especialmente entre los machos). El tejido cerebral}
 {1053}{}{**END-PAR**}
-{1054}{}{incremento en la conexiÛn dendrÌtica, especialmente}
-{1055}{}{en el sistema motriz y el cÛrtex frontal.}
+{1054}{}{incremento en la conexi√≥n dendr√≠tica, especialmente}
+{1055}{}{en el sistema motriz y el c√≥rtex frontal.}
 {1056}{}{**END-PAR**}
-{1057}{}{ï Fecha Diario 12 Enero, 2076}
+{1057}{}{‚Ä¢ Fecha Diario 12 Enero, 2076}
 {1058}{}{Con el lote 11-011, hemos mejorado la eficiencia del}
-{1059}{}{ciclo mitÛtico en un 43%. Hemos infectado 53 }
-{1060}{}{mapaches con la nueva cepa. Adem·s del esperado}
-{1061}{}{incremento de tamaÒo, las pruebas de comportamiento}
+{1059}{}{ciclo mit√≥tico en un 43%. Hemos infectado 53 }
+{1060}{}{mapaches con la nueva cepa. Adem√°s del esperado}
+{1061}{}{incremento de tama√±o, las pruebas de comportamiento}
 {1062}{}{confirmaron un aumento de la inteligencia y la destreza}
-{1063}{}{manual de 19 puntos en el Ìndice Schuler-Kapp. }
+{1063}{}{manual de 19 puntos en el √≠ndice Schuler-Kapp. }
 {1064}{}{Por desgracia, varios sujetos se escaparon y debieron}
 {1065}{}{**END-PAR**}
-{1066}{}{ordenÛ la terminaciÛn de los restantes sujetos.}
+{1066}{}{orden√≥ la terminaci√≥n de los restantes sujetos.}
 {1067}{}{Dos parejas no pudieron ser encontradas.}
 {1068}{}{**END-PAR**}
-{1069}{}{ï Fecha Diario 13 Mayo, 2076}
+{1069}{}{‚Ä¢ Fecha Diario 13 Mayo, 2076}
 {1070}{}{Hemos empalmado algunas de las nuevas secuencia}
-{1071}{}{genÈticas suministradas por el equipo del Mayor Barnett,}
+{1071}{}{gen√©ticas suministradas por el equipo del Mayor Barnett,}
 {1072}{}{con el VEF. Con el lote 11-101a, infectamos 23 perros}
 {1073}{}{tanto de raza como mixtos. Todos experimentaron, casi}
 {1074}{}{inmediatamente, un extraordinario crecimiento. El aumento}
-{1075}{}{de tamaÒo fue acompaÒado con un incremento de la}
+{1075}{}{de tama√±o fue acompa√±ado con un incremento de la}
 {1076}{}{**END-PAR**}
 {1077}{}{la inteligencia. Estamos planeando intentar el paso de}
 {1078}{}{92 parejas de genes con el lote 11-011. Todos los}
 {1079}{}{sujetos fueron terminados tras 14 semanas de estudio.}
 {1080}{}{**END-PAR**}
-{1081}{}{ï Fecha Diario 4 Octubre, 2076}
-{1082}{}{El paso fue completado y 15 chimpancÈs}
+{1081}{}{‚Ä¢ Fecha Diario 4 Octubre, 2076}
+{1082}{}{El paso fue completado y 15 chimpanc√©s}
 {1083}{}{fueron infectados con el lote 11-111. Los niveles de}
 {1084}{}{crecimiento e inmunidad no tienen precedentes. Los}
-{1085}{}{intentos de transmitir el c·ncer a los sujetos a travÈs}
+{1085}{}{intentos de transmitir el c√°ncer a los sujetos a trav√©s}
 {1086}{}{**END-PAR**}
 {1087}{}{La creciente agresividad ha hecho necesario el}
 {1088}{}{aislamiento de los sujetos. Dos de ellos sufrieron}
-{1089}{}{violentos ataques epilÈpticos y murieron. Todos los}
-{1090}{}{dem·s sujetos han sido terminados.}
+{1089}{}{violentos ataques epil√©pticos y murieron. Todos los}
+{1090}{}{dem√°s sujetos han sido terminados.}
 {1091}{}{**END-PAR**}
-{1092}{}{ï Fecha Diario 7 Enero, 2077}
+{1092}{}{‚Ä¢ Fecha Diario 7 Enero, 2077}
 {1093}{}{El Mayor Barnett ha ordenado la transferencia de todo el}
 {1094}{}{**END-DISK**}
-{2000}{}{UbicaciÛn Refugios v34.129 RevisiÛn C (EE.UU. Occidental)}
+{2000}{}{Ubicaci√≥n Refugios v34.129 Revisi√≥n C (EE.UU. Occidental)}
 {2001}{}{**END-PAR**}
-{2002}{}{Hola, y bienvenido a la ˙ltima ediciÛn del Panfleto sobre}
-{2003}{}{UbicaciÛn de Refugios de los Estados Unidos Occidentales.}
+{2002}{}{Hola, y bienvenido a la √∫ltima edici√≥n del Panfleto sobre}
+{2003}{}{Ubicaci√≥n de Refugios de los Estados Unidos Occidentales.}
 {2004}{}{Esperamos que disfrutes de este panfleto, y recuerda que}
-{2005}{}{los Refugios no son solo para la Èlite, sino para todos.}
+{2005}{}{los Refugios no son solo para la √©lite, sino para todos.}
 {2006}{}{**END-PAR**}
 {2007}{}{Refugio 12}
 {2008}{}{**END-PAR**}
-{2009}{}{Bajo la prÛspera metrÛpolis de Bakersfield, yace la}
-{2010}{}{tecnologÌa del Refugio 12. Construido teniendo en}
-{2011}{}{cuenta la mayor comodidad de sus residentes, se dotÛ al}
-{2012}{}{Refugio 12 con el galardÛn "Refugio de Alta ProtecciÛn"}
-{2013}{}{dada su preparaciÛn y seguridad. Profundamente enterrado}
-{2014}{}{bajo tierra, la protecciÛn que recibir·n los residentes}
+{2009}{}{Bajo la pr√≥spera metr√≥polis de Bakersfield, yace la}
+{2010}{}{tecnolog√≠a del Refugio 12. Construido teniendo en}
+{2011}{}{cuenta la mayor comodidad de sus residentes, se dot√≥ al}
+{2012}{}{Refugio 12 con el galard√≥n "Refugio de Alta Protecci√≥n"}
+{2013}{}{dada su preparaci√≥n y seguridad. Profundamente enterrado}
+{2014}{}{bajo tierra, la protecci√≥n que recibir√°n los residentes}
 {2015}{}{del Refugio no tiene precedentes. Como cualquier otro}
-{2016}{}{Refugio, el Refugio 12 ha sido habilitado con el m·s}
-{2017}{}{moderno Sistema de PurificaciÛn de Agua. Capaz incluso}
+{2016}{}{Refugio, el Refugio 12 ha sido habilitado con el m√°s}
+{2017}{}{moderno Sistema de Purificaci√≥n de Agua. Capaz incluso}
 {2018}{}{de purificar los desperdicios de las alcantarillas de}
-{2019}{}{Bakersfield, este sistema puede suministrar m·s de 15.000}
-{2020}{}{galones al dÌa de pura y refrescante agua potable.}
+{2019}{}{Bakersfield, este sistema puede suministrar m√°s de 15.000}
+{2020}{}{galones al d√≠a de pura y refrescante agua potable.}
 {2021}{}{**END-PAR**}
 {2022}{}{Refugio 13}
 {2023}{}{**END-PAR**}
-{2024}{}{Ubicado en la fabulosa regiÛn montaÒosa al noroeste del}
+{2024}{}{Ubicado en la fabulosa regi√≥n monta√±osa al noroeste del}
 {2025}{}{Refugio 12, este Refugio ofrece un inacabable suministro}
 {2026}{}{de agua pura a sus habitantes. Los rumores sobre una}
-{2027}{}{posible contaminaciÛn del agua de la zona en el caso de}
+{2027}{}{posible contaminaci√≥n del agua de la zona en el caso de}
 {2028}{}{una Guerra Nuclear se han determinado por el Departamento}
-{2029}{}{de Agua y EnergÌa completamente carentes de fundamento.}
+{2029}{}{de Agua y Energ√≠a completamente carentes de fundamento.}
 {2030}{}{Si el agua de la zona llegase a ser contaminada}
 {2031}{}{(por remota que sea esa posibilidad) el Refugio 13 ha}
-{2032}{}{sido habilitado con el Sistema de PurificaciÛn de Agua}
-{2033}{}{aprobado por el Gobierno. Operativo, sin una pÈrdida}
-{2034}{}{considerable de suministro, durante m·s de 250.000}
+{2032}{}{sido habilitado con el Sistema de Purificaci√≥n de Agua}
+{2033}{}{aprobado por el Gobierno. Operativo, sin una p√©rdida}
+{2034}{}{considerable de suministro, durante m√°s de 250.000}
 {2035}{}{horas, los futuros Residentes no tienen nada que temer.}
 {2036}{}{**END-PAR**}
 {2037}{}{Refugio 15}
 {2038}{}{**END-PAR**}
-{2039}{}{Situado al este del Refugio 13, la construcciÛn de este}
-{2040}{}{Refugio ha ido sin problemas. Mucha atenciÛn fue}
+{2039}{}{Situado al este del Refugio 13, la construcci√≥n de este}
+{2040}{}{Refugio ha ido sin problemas. Mucha atenci√≥n fue}
 {2041}{}{prestada a los muros del tercer nivel, estos han sido}
 {2042}{}{forzados a tal grado que un terremoto intenso no}
-{2043}{}{causarÌa daÒo ni afectarÌa el funcionamiento de los}
+{2043}{}{causar√≠a da√±o ni afectar√≠a el funcionamiento de los}
 {2044}{}{ordenadores reguladores del Refugio. Las visitas}
-{2045}{}{turÌsticas de posibles residentes a este nuevo Refugio}
-{2046}{}{han hecho que la mayorÌa se fuesen de allÌ bastante}
-{2047}{}{impresionados por los mejoramientos en diseÒo de este}
+{2045}{}{tur√≠sticas de posibles residentes a este nuevo Refugio}
+{2046}{}{han hecho que la mayor√≠a se fuesen de all√≠ bastante}
+{2047}{}{impresionados por los mejoramientos en dise√±o de este}
 {2048}{}{ya impresionante Refugio.}
 {2049}{}{**END-DISK**}
-{3000}{}{El Capt. Maxson tenÌa razÛn. Este lugar es la muerte.}
+{3000}{}{El Capt. Maxson ten√≠a raz√≥n. Este lugar es la muerte.}
 {3001}{}{Escribo esto por si no logramos regresar, para que}
-{3002}{}{alguien, alg˙n dÌa, pueda descubrir quÈ fue de}
+{3002}{}{alguien, alg√∫n d√≠a, pueda descubrir qu√© fue de}
 {3003}{}{nosotros.}
 {3004}{}{**END-PAR**}
-{3005}{}{Llegamos a las Instalaciones de InvestigaciÛn West Tech}
-{3006}{}{tras 20 dÌas de infierno. Pero eso fue lo f·cil. Los niveles}
+{3005}{}{Llegamos a las Instalaciones de Investigaci√≥n West Tech}
+{3006}{}{tras 20 d√≠as de infierno. Pero eso fue lo f√°cil. Los niveles}
 {3007}{}{de radiaciones se dispararon tan pronto como divisamos el}
-{3008}{}{gigante cr·ter. Comprobamos nuestros suministros y}
-{3009}{}{creÌmos que con las armaduras y los recursos antirad}
-{3010}{}{estarÌamos bien, al menos durante un dÌa de exploraciÛn.}
-{3011}{}{SabÌamos que entraÒaba un riesgo calculado, pero la}
-{3012}{}{tecnologÌa que tenÌamos la oportunidad de recuperar valÌa}
+{3008}{}{gigante cr√°ter. Comprobamos nuestros suministros y}
+{3009}{}{cre√≠mos que con las armaduras y los recursos antirad}
+{3010}{}{estar√≠amos bien, al menos durante un d√≠a de exploraci√≥n.}
+{3011}{}{Sab√≠amos que entra√±aba un riesgo calculado, pero la}
+{3012}{}{tecnolog√≠a que ten√≠amos la oportunidad de recuperar val√≠a}
 {3013}{}{**END-PAR**}
 {3014}{}{**END-PAR**}
-{3015}{}{Descendimos por el cr·ter hasta el primer nivel y}
-{3016}{}{todo parecÌa ajustarse al plan. La energÌa estaba}
-{3017}{}{desactivada, por lo que no necesitarÌamos rodear el}
-{3018}{}{sistema de seguridad. O eso creÌamos. No habÌa nada}
+{3015}{}{Descendimos por el cr√°ter hasta el primer nivel y}
+{3016}{}{todo parec√≠a ajustarse al plan. La energ√≠a estaba}
+{3017}{}{desactivada, por lo que no necesitar√≠amos rodear el}
+{3018}{}{sistema de seguridad. O eso cre√≠amos. No hab√≠a nada}
 {3019}{}{**END-PAR**}
 {3020}{}{**END-PAR**}
 {3021}{}{**END-PAR**}
 {3022}{}{**END-PAR**}
-{3023}{}{Cuando Jensen bajÛ al tercer nivel, el infierno}
-{3024}{}{se desatÛ. Los sensores de seguridad se habÌan quemado}
+{3023}{}{Cuando Jensen baj√≥ al tercer nivel, el infierno}
+{3024}{}{se desat√≥. Los sensores de seguridad se hab√≠an quemado}
 {3025}{}{en los dos primeros pisos, pero no en el tercero.}
-{3026}{}{Jensen quedÛ hecho trizas antes de darse cuenta de lo}
-{3027}{}{que ocurrÌa. Nunca habÌamos visto armas que cortasen las}
-{3028}{}{armaduras asÌ. Los hombres empezaron a caer a izquierda}
-{3029}{}{y derecha, morÌan como moscas. IntentÈ reagrupar a los}
+{3026}{}{Jensen qued√≥ hecho trizas antes de darse cuenta de lo}
+{3027}{}{que ocurr√≠a. Nunca hab√≠amos visto armas que cortasen las}
+{3028}{}{armaduras as√≠. Los hombres empezaron a caer a izquierda}
+{3029}{}{y derecha, mor√≠an como moscas. Intent√© reagrupar a los}
 {3030}{}{hombres pero solo Soto y Camarillo lograron llegar}
 {3031}{}{**END-PAR**}
 {3032}{}{**END-PAR**}
-{3033}{}{El hecho de que pueda oler la carne quemada de Soto allÌ}
+{3033}{}{El hecho de que pueda oler la carne quemada de Soto all√≠}
 {3034}{}{donde antes estaba su brazo, prueba que mi armadura de}
-{3035}{}{energÌa ya no est· sellada, o sea que me expongo a mucha}
-{3036}{}{m·s radiaciÛn de la que tenÌa planeada.}
-{3037}{}{Pierdo los hidr·ulicos a un ritmo alarmante. Debemos}
+{3035}{}{energ√≠a ya no est√° sellada, o sea que me expongo a mucha}
+{3036}{}{m√°s radiaci√≥n de la que ten√≠a planeada.}
+{3037}{}{Pierdo los hidr√°ulicos a un ritmo alarmante. Debemos}
 {3038}{}{**END-PAR**}
 {3039}{}{**END-PAR**}
-{3040}{}{Camarillo parecÌa estar bien fÌsicamente, pero hace}
-{3041}{}{una hora que se largÛ, barruntando algo sobre un tal}
+{3040}{}{Camarillo parec√≠a estar bien f√≠sicamente, pero hace}
+{3041}{}{una hora que se larg√≥, barruntando algo sobre un tal}
 {3042}{}{**END-PAR**}
 {3043}{}{**END-PAR**}
 {3044}{}{Solo quedamos Soto y yo. No llegaremos muy}
@@ -393,372 +393,372 @@
 {3047}{}{**END-PAR**}
 {3048}{}{**END-PAR**}
 {3049}{}{**END-DISK**}
-{4000}{}{Prototipo del Proyecto de Paninmunidad VÌrica}
+{4000}{}{Prototipo del Proyecto de Paninmunidad V√≠rica}
 {4001}{}{**END-PAR**}
 {4002}{}{Con el fin de contabilizar los actuales agentes}
-{4003}{}{bacteriolÛgicos y vÌricos empleados por el gobierno}
+{4003}{}{bacteriol√≥gicos y v√≠ricos empleados por el gobierno}
 {4004}{}{Chino, hemos fabricado un fragmento de virus}
-{4005}{}{que consiste en ·cido ribonucleico (ARN)}
-{4006}{}{con una cubierta de proteÌna-lÌpida. Este virus}
-{4007}{}{contiene una secuencia especial de amino·cidos}
+{4005}{}{que consiste en √°cido ribonucleico (ARN)}
+{4006}{}{con una cubierta de prote√≠na-l√≠pida. Este virus}
+{4007}{}{contiene una secuencia especial de amino√°cidos}
 {4008}{}{irradiados (AAI) capaces de adherirse a una cadena}
-{4009}{}{no-especÌfica de ·cido desoxirribonucleico}
+{4009}{}{no-espec√≠fica de √°cido desoxirribonucleico}
 {4010}{}{(ADN) y forzar una mitosis no-replicativa.}
-{4011}{}{La resultante cÈlula anfitriona queda con una}
-{4012}{}{estructura de ADN de cu·druple-hÈlice.}
+{4011}{}{La resultante c√©lula anfitriona queda con una}
+{4012}{}{estructura de ADN de cu√°druple-h√©lice.}
 {4013}{}{**END-PAR**}
-{4014}{}{Los test son prometedores. El virus penetra f·cilmente}
-{4015}{}{la membrana celular y se adhiere directamente al n˙cleo}
-{4016}{}{del ADN anfitriÛn. La mitosis de la estructura comienza}
+{4014}{}{Los test son prometedores. El virus penetra f√°cilmente}
+{4015}{}{la membrana celular y se adhiere directamente al n√∫cleo}
+{4016}{}{del ADN anfitri√≥n. La mitosis de la estructura comienza}
 {4017}{}{casi inmediatamente. Se previene la citocinesis}
-{4018}{}{mediante el control de la disposiciÛn de las fibras}
-{4019}{}{quinesiolÛgicas durante la anafase. El ciclo mitÛtico}
+{4018}{}{mediante el control de la disposici√≥n de las fibras}
+{4019}{}{quinesiol√≥gicas durante la anafase. El ciclo mit√≥tico}
 {4020}{}{completo dura aproximadamente dos horas, aunque la}
-{4021}{}{expresiÛn fenotÌpica de la nueva estructura puede}
-{4022}{}{tardar unos dÌas o semanas en hacerse evidente.}
+{4021}{}{expresi√≥n fenot√≠pica de la nueva estructura puede}
+{4022}{}{tardar unos d√≠as o semanas en hacerse evidente.}
 {4023}{}{**END-PAR**}
-{4024}{}{Adem·s de una efectiva inmunidad a los agentes vÌricos}
-{4025}{}{y bacteriolÛgicos, la estructura de cu·druple hÈlice}
-{4026}{}{es pr·cticamente inmune a los errores introducidos en el}
-{4027}{}{emparejamiento base durante replicaciÛn dada la}
+{4024}{}{Adem√°s de una efectiva inmunidad a los agentes v√≠ricos}
+{4025}{}{y bacteriol√≥gicos, la estructura de cu√°druple h√©lice}
+{4026}{}{es pr√°cticamente inmune a los errores introducidos en el}
+{4027}{}{emparejamiento base durante replicaci√≥n dada la}
 {4028}{}{multiplicidad de la secuencia base. El tejido expuesto}
-{4029}{}{a la radiaciÛn no mostrÛ mutaciÛn alguna en la }
-{4030}{}{secuencia base y los mecanismos de sÌntesis}
+{4029}{}{a la radiaci√≥n no mostr√≥ mutaci√≥n alguna en la }
+{4030}{}{secuencia base y los mecanismos de s√≠ntesis}
 {4031}{}{**END-PAR**}
 {4032}{}{**END-PAR**}
-{4033}{}{M·s del 80% de las muestras de tejido contenÌan ADN de}
-{4034}{}{cu·druple hÈlice. El m·s afectado fue el tejido muscular}
-{4035}{}{y Ûseo, asÌ como las cÈlulas secretoras, ya que estas}
-{4036}{}{cÈlulas parecen ser la m·s receptivas al virus. Las}
-{4037}{}{cÈlulas sensitivas son las menos afectadas.}
-{4038}{}{Sorprendentemente, incluso las cÈlulas nerviosas}
-{4039}{}{normalmente no replicadoras y no som·ticas fueron}
+{4033}{}{M√°s del 80% de las muestras de tejido conten√≠an ADN de}
+{4034}{}{cu√°druple h√©lice. El m√°s afectado fue el tejido muscular}
+{4035}{}{y √≥seo, as√≠ como las c√©lulas secretoras, ya que estas}
+{4036}{}{c√©lulas parecen ser la m√°s receptivas al virus. Las}
+{4037}{}{c√©lulas sensitivas son las menos afectadas.}
+{4038}{}{Sorprendentemente, incluso las c√©lulas nerviosas}
+{4039}{}{normalmente no replicadoras y no som√°ticas fueron}
 {4040}{}{**END-DISK**}
-{5000}{}{El Militar ha considerado necesario para la investigaciÛn}
-{5001}{}{m·s en profundidad los efectos de la onda de la tecnologÌa en la}
+{5000}{}{El Militar ha considerado necesario para la investigaci√≥n}
+{5001}{}{m√°s en profundidad los efectos de la onda de la tecnolog√≠a en la}
 {5002}{}{los organismos vivos. Hemos tomado la luz y el sonido como el}
-{5003}{}{la base de nuestros estudios. Mediante la manipulaciÛn de la amplitud de}
+{5003}{}{la base de nuestros estudios. Mediante la manipulaci√≥n de la amplitud de}
 {5004}{}{las ondas de luz y aumento de la frecuencia, tenemos}
-{5005}{}{sido capaz de obtener los l·seres que cortan a travÈs de un par de}
+{5005}{}{sido capaz de obtener los l√°seres que cortan a trav√©s de un par de}
 {5006}{}{feet a steel.  Unfortunately, the power to do such a}
 {5007}{}{la tarea no se ha desarrollado completamente. Tenemos otros}
 {5008}{}{scientists looking into this.}
 {5009}{}{**END-DISK**}
-{6000}{}{ï Observaciones Iniciales}
+{6000}{}{‚Ä¢ Observaciones Iniciales}
 {6001}{}{**END-PAR**}
-{6002}{}{Esto es realmente increÌble. Unos Caballeros en una}
-{6003}{}{expediciÛn de patrulla se toparon con una extraÒa criatura.}
+{6002}{}{Esto es realmente incre√≠ble. Unos Caballeros en una}
+{6003}{}{expedici√≥n de patrulla se toparon con una extra√±a criatura.}
 {6004}{}{Parece ser humanoide, y probablemente tuviese forma}
-{6005}{}{humana una vez. Aun asÌ, hay muchas diferencias entre}
+{6005}{}{humana una vez. Aun as√≠, hay muchas diferencias entre}
 {6006}{}{la estructura de esta criatura y la de un humano normal.}
 {6007}{}{**END-PAR**}
-{6008}{}{Durante la investigaciÛn inicial de esta criatura, se ha}
+{6008}{}{Durante la investigaci√≥n inicial de esta criatura, se ha}
 {6009}{}{descubierto que tiene una estructura celular semejante a}
-{6010}{}{la de los humanos. Antes de que la descomposiciÛn pueda}
-{6011}{}{tener lugar, voy a anotar las caracterÌsticas de este}
+{6010}{}{la de los humanos. Antes de que la descomposici√≥n pueda}
+{6011}{}{tener lugar, voy a anotar las caracter√≠sticas de este}
 {6012}{}{**END-PAR**}
 {6013}{}{**END-PAR**}
 {6014}{}{**END-PAR**}
 {6015}{}{**END-PAR**}
 {6016}{}{Altura: 3,2 metros}
 {6017}{}{Masa: 363,21 kg}
-{6018}{}{GÈnero: Indeterminado}
+{6018}{}{G√©nero: Indeterminado}
 {6019}{}{Color de Piel: Predominantemente gris con tintes de verde}
-{6020}{}{bajo la iluminaciÛn actual. No queda claro si esto se debe}
-{6021}{}{a la decadencia o a la exposiciÛn al yermo.}
+{6020}{}{bajo la iluminaci√≥n actual. No queda claro si esto se debe}
+{6021}{}{a la decadencia o a la exposici√≥n al yermo.}
 {6022}{}{**END-PAR**}
 {6023}{}{escalpelos.}
 {6024}{}{**END-PAR**}
 {6025}{}{Desglose de Masa:}
 {6026}{}{    Masa Muscular:  77,41%}
-{6027}{}{    Masa ”sea:      10,23%}
+{6027}{}{    Masa √ìsea:      10,23%}
 {6028}{}{**END-PAR**}
 {6029}{}{    Masa Tejidos:    9,34%}
 {6030}{}{**END-PAR**}
 {6031}{}{Estructura Celular:}
-{6032}{}{    Las cÈlulas se dividen a un ritmo vertiginoso.}
-{6033}{}{    La mitosis se desarrolla un 15% m·s r·pido que en}
+{6032}{}{    Las c√©lulas se dividen a un ritmo vertiginoso.}
+{6033}{}{    La mitosis se desarrolla un 15% m√°s r√°pido que en}
 {6034}{}{    los humanos normales.}
 {6035}{}{    La estructura celular parece ser muy semejante a}
 {6036}{}{    la humana.}
-{6037}{}{    La estructura genÈtica muestra una fuerte correlaciÛn}
+{6037}{}{    La estructura gen√©tica muestra una fuerte correlaci√≥n}
 {6038}{}{    entre el sujeto y el Homo Sapiens. Posiblemente se}
-{6039}{}{    trate de una mutaciÛn provocada por agentes nucleares}
-{6040}{}{    y bioquÌmicos remanentes de la guerra.}
+{6039}{}{    trate de una mutaci√≥n provocada por agentes nucleares}
+{6040}{}{    y bioqu√≠micos remanentes de la guerra.}
 {6041}{}{    Las cadenas de ADN parecen estar muy completas.}
-{6042}{}{    Todos los genes recesivos de indisposiciÛn parecen}
+{6042}{}{    Todos los genes recesivos de indisposici√≥n parecen}
 {6043}{}{    haber sido eliminados del sistema.}
 {6044}{}{**END-PAR**}
-{6045}{}{    manipuladas para permitir una mayor transmisiÛn de}
+{6045}{}{    manipuladas para permitir una mayor transmisi√≥n de}
 {6046}{}{**END-PAR**}
 {6047}{}{**END-PAR**}
-{6048}{}{ï HipÛtesis Inicial}
+{6048}{}{‚Ä¢ Hip√≥tesis Inicial}
 {6049}{}{**END-PAR**}
-{6050}{}{Bas·ndome en el aumento de tamaÒo de los receptores}
-{6051}{}{sin·pticos y de los transmisores neuronales, mi}
-{6052}{}{hipÛtesis serÌa que el sujeto tenÌa unos perfectos}
-{6053}{}{reflejos y unos asombrosos sentidos. Bas·ndome en los}
+{6050}{}{Bas√°ndome en el aumento de tama√±o de los receptores}
+{6051}{}{sin√°pticos y de los transmisores neuronales, mi}
+{6052}{}{hip√≥tesis ser√≠a que el sujeto ten√≠a unos perfectos}
+{6053}{}{reflejos y unos asombrosos sentidos. Bas√°ndome en los}
 {6054}{}{informes de los caballeros sobre la zona en la que se}
 {6055}{}{**END-PAR**}
-{6056}{}{con una enorme concentraciÛn de agentes quÌmicos, es}
+{6056}{}{con una enorme concentraci√≥n de agentes qu√≠micos, es}
 {6057}{}{**END-PAR**}
-{6058}{}{tiempo. Se est·n haciendo pruebas para determinar la}
+{6058}{}{tiempo. Se est√°n haciendo pruebas para determinar la}
 {6059}{}{posible causa de la muerte.}
 {6060}{}{**END-PAR**}
-{6061}{}{ï Resultados de las pruebas sobre el Sujeto A:}
+{6061}{}{‚Ä¢ Resultados de las pruebas sobre el Sujeto A:}
 {6062}{}{**END-PAR**}
-{6063}{}{InspecciÛn Visual:}
-{6064}{}{    Restos de pÛlvora cerca de la zona sugieren una}
+{6063}{}{Inspecci√≥n Visual:}
+{6064}{}{    Restos de p√≥lvora cerca de la zona sugieren una}
 {6065}{}{**END-PAR**}
 {6066}{}{    Laceraciones de 1,2 cm en la pantorrilla de la}
 {6067}{}{    pierna derecha parecen haber sido provocadas por}
-{6068}{}{    una dentadura. Se har·n pruebas para determinar}
+{6068}{}{    una dentadura. Se har√°n pruebas para determinar}
 {6069}{}{    posible rabia. Piel seca y despellejada. Posible}
-{6070}{}{    exposiciÛn.}
+{6070}{}{    exposici√≥n.}
 {6071}{}{**END-PAR**}
 {6072}{}{Resultados de Pruebas:}
-{6073}{}{    Nivel de RadiaciÛn:            12 rads.}
+{6073}{}{    Nivel de Radiaci√≥n:            12 rads.}
 {6074}{}{    Prueba de Rabia:               Limpio.}
 {6075}{}{**END-PAR**}
 {6076}{}{    Nivel de Cloro:                .07%}
 {6077}{}{**END-PAR**}
-{6078}{}{    IncubaciÛn de Virus:           Limpio.}
-{6079}{}{    Virus Gamma CiclotrÛnicos:     Limpio.}
-{6080}{}{    Virus de EvoluciÛn Forzada II: Grave Sobredosis}
+{6078}{}{    Incubaci√≥n de Virus:           Limpio.}
+{6079}{}{    Virus Gamma Ciclotr√≥nicos:     Limpio.}
+{6080}{}{    Virus de Evoluci√≥n Forzada II: Grave Sobredosis}
 {6081}{}{**END-PAR**}
-{6082}{}{ï HipÛtesis}
+{6082}{}{‚Ä¢ Hip√≥tesis}
 {6083}{}{**END-PAR**}
-{6084}{}{Bas·ndome en mis observaciones, mi hipÛtesis establece}
+{6084}{}{Bas√°ndome en mis observaciones, mi hip√≥tesis establece}
 {6085}{}{que el sujeto ha muerto a causa de una dura lucha con al}
 {6086}{}{**END-PAR**}
-{6087}{}{Lo realmente sorprendente es la cantidad de infecciÛn}
-{6088}{}{vÌrica del sujeto. Una vez leÌ que antes de la guerra}
-{6089}{}{algunos cientÌficos llevaron a cabo experimentos con un}
-{6090}{}{virus parecido, pero las notas sobre la investigaciÛn}
+{6087}{}{Lo realmente sorprendente es la cantidad de infecci√≥n}
+{6088}{}{v√≠rica del sujeto. Una vez le√≠ que antes de la guerra}
+{6089}{}{algunos cient√≠ficos llevaron a cabo experimentos con un}
+{6090}{}{virus parecido, pero las notas sobre la investigaci√≥n}
 {6091}{}{fueron destruidas.}
 {6092}{}{**END-PAR**}
-{6093}{}{La investigaciÛn de este virus ha llevado a interesantes}
+{6093}{}{La investigaci√≥n de este virus ha llevado a interesantes}
 {6094}{}{descubrimientos. El sujeto a examen debe muchas de}
 {6095}{}{sus mutaciones a la sobredosis del virus. Esto se nota}
-{6096}{}{en el aumento de estructuras musculares y Ûseas.}
-{6097}{}{Adem·s, los genes recesivos que normalmente se encuentran}
+{6096}{}{en el aumento de estructuras musculares y √≥seas.}
+{6097}{}{Adem√°s, los genes recesivos que normalmente se encuentran}
 {6098}{}{en los humanos han sido manipulados de tal forma}
-{6099}{}{que presentasen la mejor combinaciÛn posible. Aunque}
-{6100}{}{todavÌa no conocemos el proceso a travÈs del cual esto}
+{6099}{}{que presentasen la mejor combinaci√≥n posible. Aunque}
+{6100}{}{todav√≠a no conocemos el proceso a trav√©s del cual esto}
 {6101}{}{**END-PAR**}
-{6102}{}{siendo la esterilidad el m·s importante de ellos. El}
+{6102}{}{siendo la esterilidad el m√°s importante de ellos. El}
 {6103}{}{**END-PAR**}
 {6104}{}{otra criatura, tanto limpia como mutada. Otro efecto}
-{6105}{}{secundario es la alteraciÛn del pigmento epidÈrmico.}
+{6105}{}{secundario es la alteraci√≥n del pigmento epid√©rmico.}
 {6106}{}{La esperanza de vida aumenta en un 10%. El intelecto}
 {6107}{}{queda reducido en un 30% por esta cepa.}
 {6108}{}{**END-PAR**}
-{6109}{}{ï Conclusiones}
+{6109}{}{‚Ä¢ Conclusiones}
 {6110}{}{**END-DISK**}
-{8000}{}{Mensaje enviado: Base, aquÌ el Equipo CarroÒero Dos.}
+{8000}{}{Mensaje enviado: Base, aqu√≠ el Equipo Carro√±ero Dos.}
 {8001}{}{Cambio.}
 {8002}{}{**END-PAR**}
 {8003}{}{Mensaje recibido: Os recibimos alto y claro, adelante.}
 {8004}{}{Cambio.}
 {8005}{}{**END-PAR**}
 {8006}{}{Mensaje enviado: Hemos recogido dos machos, dos hembras}
-{8007}{}{y sus provisiones de la caravana. No est·n demasiado}
+{8007}{}{y sus provisiones de la caravana. No est√°n demasiado}
 {8008}{}{contaminados. Decidle al Teniente que se los mandamos,}
-{8009}{}{quiz·s sean capaces de sobrevivir al proceso.}
-{8010}{}{Nosotros esperaremos aquÌ un par de dÌas m·s, e}
+{8009}{}{quiz√°s sean capaces de sobrevivir al proceso.}
+{8010}{}{Nosotros esperaremos aqu√≠ un par de d√≠as m√°s, e}
 {8011}{}{intentaremos interceptar otra caravana. Cambio.}
 {8012}{}{**END-PAR**}
-{8013}{}{Mensaje recibido: Bien, OÌdo. øAlg˙n incidente}
-{8014}{}{durante la adquisiciÛn? Cambio.}
+{8013}{}{Mensaje recibido: Bien, O√≠do. ¬øAlg√∫n incidente}
+{8014}{}{durante la adquisici√≥n? Cambio.}
 {8015}{}{**END-PAR**}
 {8016}{}{Mensaje enviado: Negativo. Otra jugada limpia. Base,}
-{8017}{}{tambiÈn comuniquen al Equipo CarroÒero Uno que hemos}
+{8017}{}{tambi√©n comuniquen al Equipo Carro√±ero Uno que hemos}
 {8018}{}{tenido el mismo problema que ellos. Uno de nuestros}
-{8019}{}{exploradores no regresÛ de su patrulla perimÈtrica.}
+{8019}{}{exploradores no regres√≥ de su patrulla perim√©trica.}
 {8020}{}{Otros de nuestros exploradores informaron de algo grande}
-{8021}{}{y r·pido visto cerca de nuestro campamento anoche.}
-{8022}{}{Lo comprobarÈ personalmente maÒana por la maÒana a las}
+{8021}{}{y r√°pido visto cerca de nuestro campamento anoche.}
+{8022}{}{Lo comprobar√© personalmente ma√±ana por la ma√±ana a las}
 {8023}{}{**END-PAR**}
 {8024}{}{**END-PAR**}
 {8025}{}{Mensaje recibido: Recibido. Esperaremos tu informe.}
-{8026}{}{Si es posible, intenta capturarlo. El Maestro estar·}
+{8026}{}{Si es posible, intenta capturarlo. El Maestro estar√°}
 {8027}{}{**END-DISK**}
-{9000}{}{ï 10 Oct, 2077}
-{9001}{}{Yo, Roger Maxson, Capit·n, n˙mero de serie 072389 he}
+{9000}{}{‚Ä¢ 10 Oct, 2077}
+{9001}{}{Yo, Roger Maxson, Capit√°n, n√∫mero de serie 072389 he}
 {9002}{}{comenzado este diario porque no parece que ninguno de}
 {9003}{}{nosotros vaya a sobrevivir, y quiero que la gente sepa}
-{9004}{}{lo que realmente ocurriÛ aquÌ.}
+{9004}{}{lo que realmente ocurri√≥ aqu√≠.}
 {9005}{}{**END-PAR**}
-{9006}{}{El infierno se desatÛ cuando finalmente descubrimos lo}
-{9007}{}{que esos malditos cientÌficos tenÌan entre manos. El}
+{9006}{}{El infierno se desat√≥ cuando finalmente descubrimos lo}
+{9007}{}{que esos malditos cient√≠ficos ten√≠an entre manos. El}
 {9008}{}{Coronel se ha encerrado en su oficina y parece que sufre}
 {9009}{}{una especie de crisis nerviosa. Los hombres quieren}
-{9010}{}{sangre. Quieren que les dÈ respuestas, y no sÈ quÈ hacer.}
-{9011}{}{Aunque, alguien tiene que hacer algo, antes de que estÈ}
-{9012}{}{lugar se convierta en un caÛtico baÒo de sangre.}
+{9010}{}{sangre. Quieren que les d√© respuestas, y no s√© qu√© hacer.}
+{9011}{}{Aunque, alguien tiene que hacer algo, antes de que est√©}
+{9012}{}{lugar se convierta en un ca√≥tico ba√±o de sangre.}
 {9013}{}{**END-PAR**}
-{9014}{}{ï 12 Oct. 2077}
+{9014}{}{‚Ä¢ 12 Oct. 2077}
 {9015}{}{Cada vez que nos llega un informe de los de arriba las}
-{9016}{}{cosas se ponen peor aquÌ. La guerra se est· poniendo muy}
-{9017}{}{fea y aquÌ se va a desencadenar un motÌn, por todo el}
-{9018}{}{caos que ocasiona. EvitÈ que uno de los hombres ejecutase}
-{9019}{}{hoy a un cientÌfico, y pedÌ que se les interrogase para}
-{9020}{}{descubrir quÈ Ûrdenes tenÌan.}
+{9016}{}{cosas se ponen peor aqu√≠. La guerra se est√° poniendo muy}
+{9017}{}{fea y aqu√≠ se va a desencadenar un mot√≠n, por todo el}
+{9018}{}{caos que ocasiona. Evit√© que uno de los hombres ejecutase}
+{9019}{}{hoy a un cient√≠fico, y ped√≠ que se les interrogase para}
+{9020}{}{descubrir qu√© √≥rdenes ten√≠an.}
 {9021}{}{**END-PAR**}
-{9022}{}{ï 13 Oct. 2077 }
+{9022}{}{‚Ä¢ 13 Oct. 2077 }
 {9023}{}{Hoy he matado a un hombre. Estaba interrogando al Jefe}
-{9024}{}{CientÌfico Anderson, me estaba dando todos los detalles de}
-{9025}{}{sus inhumanos experimentos. Dijo que sus Ûrdenes provenÌan}
-{9026}{}{del gobierno, pero no me lo traguÈ. EmpezÛ a gritar que Èl}
-{9027}{}{sÛlo obedecÌa Ûrdenes, que tan solo era un militar, y}
-{9028}{}{bueno, le peguÈ un tiro. Me digo a mÌ mismo que lo hice}
+{9024}{}{Cient√≠fico Anderson, me estaba dando todos los detalles de}
+{9025}{}{sus inhumanos experimentos. Dijo que sus √≥rdenes proven√≠an}
+{9026}{}{del gobierno, pero no me lo tragu√©. Empez√≥ a gritar que √©l}
+{9027}{}{s√≥lo obedec√≠a √≥rdenes, que tan solo era un militar, y}
+{9028}{}{bueno, le pegu√© un tiro. Me digo a m√≠ mismo que lo hice}
 {9029}{}{para evitar que los hombres se amotinasen, pero no lo}
 {9030}{}{tengo tan claro.}
 {9031}{}{**END-PAR**}
-{9032}{}{ï 15 Oct. 2077}
-{9033}{}{He vuelto a intentar hablar con el coronel a travÈs de la}
+{9032}{}{‚Ä¢ 15 Oct. 2077}
+{9033}{}{He vuelto a intentar hablar con el coronel a trav√©s de la}
 {9034}{}{puerta, pero parece que ha perdido todo sentido de la.}
-{9035}{}{realidad. Junto con varios hombres tirÈ la puerta abajo}
+{9035}{}{realidad. Junto con varios hombres tir√© la puerta abajo}
 {9036}{}{justo a tiempo para ver como se volaba los sesos. Antes}
-{9037}{}{de apretar el gatillo dijo que lo sentÌa.}
+{9037}{}{de apretar el gatillo dijo que lo sent√≠a.}
 {9038}{}{**END-PAR**}
-{9039}{}{ï 18 Oct. 2077}
+{9039}{}{‚Ä¢ 18 Oct. 2077}
 {9040}{}{Muerto el cabeza hueca, parece que se confirma mi}
-{9041}{}{posiciÛn como lÌder. Los hombres me siguen sin}
+{9041}{}{posici√≥n como l√≠der. Los hombres me siguen sin}
 {9042}{}{Los interrogatorios terminan invariablemente en}
-{9043}{}{en ejecuciones. Shellman fue la que m·s aguantÛ, pero al}
+{9043}{}{en ejecuciones. Shellman fue la que m√°s aguant√≥, pero al}
 {9044}{}{final el resultado fue el mismo. Sus argumentos sobre las}
-{9045}{}{Ûrdenes que obedecÌa eran demasiado especÌficos para ser}
+{9045}{}{√≥rdenes que obedec√≠a eran demasiado espec√≠ficos para ser}
 {9046}{}{completamente inventados. Tengo una horrible corazonada}
-{9047}{}{sobre cÛmo va a acabar todo esto. Ya ni siquiera me}
-{9048}{}{miento a mÌ mismo sobre por quÈ ejecuto a los cientÌficos.}
+{9047}{}{sobre c√≥mo va a acabar todo esto. Ya ni siquiera me}
+{9048}{}{miento a m√≠ mismo sobre por qu√© ejecuto a los cient√≠ficos.}
 {9049}{}{**END-PAR**}
-{9050}{}{ï 20 Oct. 2077}
-{9051}{}{Finalmente contestÈ al mundo exterior a travÈs de}
-{9052}{}{nuestra radio. No sÈ por quÈ nunca enviaron a nadie}
+{9050}{}{‚Ä¢ 20 Oct. 2077}
+{9051}{}{Finalmente contest√© al mundo exterior a trav√©s de}
+{9052}{}{nuestra radio. No s√© por qu√© nunca enviaron a nadie}
 {9053}{}{que pasaba, cuando dejamos de contestar sus transmisiones}
-{9054}{}{No tiene sentido. Bueno, de seguro ahora sÌ que vendr·n.}
-{9055}{}{Nos hemos declarado escindidos de la uniÛn.}
-{9056}{}{Jefferson Davis, ch˙pate esa.}
+{9054}{}{No tiene sentido. Bueno, de seguro ahora s√≠ que vendr√°n.}
+{9055}{}{Nos hemos declarado escindidos de la uni√≥n.}
+{9056}{}{Jefferson Davis, ch√∫pate esa.}
 {9057}{}{**END-PAR**}
-{9058}{}{ï 22 Oct. 2077}
-{9059}{}{øQuÈ demonios ocurre? Nos declaramos absolutos}
-{9060}{}{desertores del ejÈrcito y renegamos del mando del}
-{9061}{}{Gobierno, øy quÈ ocurre? Nada.}
+{9058}{}{‚Ä¢ 22 Oct. 2077}
+{9059}{}{¬øQu√© demonios ocurre? Nos declaramos absolutos}
+{9060}{}{desertores del ej√©rcito y renegamos del mando del}
+{9061}{}{Gobierno, ¬øy qu√© ocurre? Nada.}
 {9062}{}{Algo malo se avecina.}
 {9063}{}{**END-PAR**}
-{9064}{}{ï 23 Oct. 2077}
+{9064}{}{‚Ä¢ 23 Oct. 2077}
 {9065}{}{No puedo creer que esos cabrones lo hiciesen al final. Que}
 {9066}{}{Que se pudran todos en el infierno. Lanzaron las}
-{9067}{}{bombas-A. Justo cuando est·bamos sac·ndole toda la}
+{9067}{}{bombas-A. Justo cuando est√°bamos sac√°ndole toda la}
 {9068}{}{verdad a Von Felden, perdimos completamente el contacto.}
-{9069}{}{Presiento que el centro de investigaciÛn fue dado de}
-{9070}{}{lleno. No sÈ por quÈ, ll·malo una corazonada. Parece}
-{9071}{}{inconcebible que el objetivo no fuÈramos nosotros. Estoy}
-{9072}{}{seguro de que China vendr· muy pronto a por nosotros.}
+{9069}{}{Presiento que el centro de investigaci√≥n fue dado de}
+{9070}{}{lleno. No s√© por qu√©, ll√°malo una corazonada. Parece}
+{9071}{}{inconcebible que el objetivo no fu√©ramos nosotros. Estoy}
+{9072}{}{seguro de que China vendr√° muy pronto a por nosotros.}
 {9073}{}{Por suerte, antes de ayer metimos a nuestras familias}
-{9074}{}{en las instalaciones. TodavÌa no sabemos si el derrame}
-{9075}{}{nuclear ha alcanzado esta ·rea.}
+{9074}{}{en las instalaciones. Todav√≠a no sabemos si el derrame}
+{9075}{}{nuclear ha alcanzado esta √°rea.}
 {9076}{}{**END-PAR**}
-{9077}{}{ï 25 Oct. 2077}
-{9078}{}{El Sgt. Platner se presentÛ voluntario hoy para recoger}
-{9079}{}{lecturas especÌficas de la atmÛsfera. Parece que las}
+{9077}{}{‚Ä¢ 25 Oct. 2077}
+{9078}{}{El Sgt. Platner se present√≥ voluntario hoy para recoger}
+{9079}{}{lecturas espec√≠ficas de la atm√≥sfera. Parece que las}
 {9080}{}{radiaciones no han llegado tan lejos. Como llevaba puesta}
-{9081}{}{su armadura de energÌa, no habÌa peligro de que fuese}
-{9082}{}{irradiado, pero de ser expuesto tendrÌa que exiliarse.}
-{9083}{}{AquÌ no tenemos los medios de descontaminaciÛn}
+{9081}{}{su armadura de energ√≠a, no hab√≠a peligro de que fuese}
+{9082}{}{irradiado, pero de ser expuesto tendr√≠a que exiliarse.}
+{9083}{}{Aqu√≠ no tenemos los medios de descontaminaci√≥n}
 {9084}{}{adecuados.}
 {9085}{}{**END-PAR**}
-{9086}{}{ï 26 Oct. 2077}
-{9087}{}{He convencido a los hombres de que deberÌamos enterrar a}
-{9088}{}{a los cientÌficos. No sÈ por quÈ... quiz·s para tener la}
-{9089}{}{conciencia tranquila, comencÈ a creerme lo que contaban}
-{9090}{}{cuando el ˙ltimo se estaba muriendo.}
+{9086}{}{‚Ä¢ 26 Oct. 2077}
+{9087}{}{He convencido a los hombres de que deber√≠amos enterrar a}
+{9088}{}{a los cient√≠ficos. No s√© por qu√©... quiz√°s para tener la}
+{9089}{}{conciencia tranquila, comenc√© a creerme lo que contaban}
+{9090}{}{cuando el √∫ltimo se estaba muriendo.}
 {9091}{}{**END-PAR**}
-{9092}{}{øDios mÌo, en quÈ me he convertido?}
+{9092}{}{¬øDios m√≠o, en qu√© me he convertido?}
 {9093}{}{**END-PAR**}
 {9094}{}{**END-PAR**}
 {9095}{}{Hoy abandonamos este lugar dejado de la mano de dios.}
-{9096}{}{GuiarÈ el Èxodo hasta el viejo b˙nker del gobierno de las}
-{9097}{}{GuiarÈ el Èxodo hasta el viejo b˙nker del gobierno de las}
-{9098}{}{Colinas Perdidas. Voy a dejar este diario aquÌ para que}
-{9099}{}{sea enterrado con este lugar. Quien sabe, quiz·s alguien}
+{9096}{}{Guiar√© el √©xodo hasta el viejo b√∫nker del gobierno de las}
+{9097}{}{Guiar√© el √©xodo hasta el viejo b√∫nker del gobierno de las}
+{9098}{}{Colinas Perdidas. Voy a dejar este diario aqu√≠ para que}
+{9099}{}{sea enterrado con este lugar. Quien sabe, quiz√°s alguien}
 {9100}{}{**END-DISK**}
-{10000}{}{El …xodo de la base condenada era una oportunidad para}
-{10001}{}{los hombres y sus familias. Aunque no habÌa contaminaciÛn}
+{10000}{}{El √âxodo de la base condenada era una oportunidad para}
+{10001}{}{los hombres y sus familias. Aunque no hab√≠a contaminaci√≥n}
 {10002}{}{radioactiva contra la que luchar, fueron frecuentemente}
-{10003}{}{asaltados por la contaminaciÛn humana. Despiadadas}
-{10004}{}{bandas de psicÛpatas intentaron atacar varias veces}
+{10003}{}{asaltados por la contaminaci√≥n humana. Despiadadas}
+{10004}{}{bandas de psic√≥patas intentaron atacar varias veces}
 {10005}{}{al noble grupo.}
 {10006}{}{**END-PAR**}
-{10007}{}{La compaÒÌa en sÌ no estaba en peligro, ya que llevaban}
-{10008}{}{puestas sus Armaduras de EnergÌa. Sus familias tuvieron}
+{10007}{}{La compa√±√≠a en s√≠ no estaba en peligro, ya que llevaban}
+{10008}{}{puestas sus Armaduras de Energ√≠a. Sus familias tuvieron}
 {10009}{}{menos suerte. Cuando los malhechores se dieron cuenta de}
 {10010}{}{su vulnerabilidad, comenzaron a disparar a los civiles}
 {10011}{}{a larga distancia.}
 {10012}{}{**END-PAR**}
 {10013}{}{Sufrieron muchas bajas, pero por cada miembro del}
-{10014}{}{…xodo caÌdo de esta forma, nuestra noble especie se }
-{10015}{}{cobrÛ dos vidas del yermo.}
+{10014}{}{√âxodo ca√≠do de esta forma, nuestra noble especie se }
+{10015}{}{cobr√≥ dos vidas del yermo.}
 {10016}{}{**END-PAR**}
 {10017}{}{Finalmente, los padres fundadores llegaron a la seguridad}
-{10018}{}{del b˙nker. El Capt. Maxson, el gran suministrador,}
-{10019}{}{decretÛ que este serÌa nuestro hogar, y todo se arreglÛ.}
+{10018}{}{del b√∫nker. El Capt. Maxson, el gran suministrador,}
+{10019}{}{decret√≥ que este ser√≠a nuestro hogar, y todo se arregl√≥.}
 {10020}{}{**END-PAR**}
-{10021}{}{Con el tiempo, el b˙nker se convirtiÛ en nuestro hogar,}
-{10022}{}{nuestro templo y nuestra salvaciÛn de los terrores del}
+{10021}{}{Con el tiempo, el b√∫nker se convirti√≥ en nuestro hogar,}
+{10022}{}{nuestro templo y nuestra salvaci√≥n de los terrores del}
 {10023}{}{mundo exterior. Comenzamos a construir y a modelar}
 {10024}{}{nuestra fortaleza como algo glorioso, de una belleza}
-{10025}{}{nunca vista en este mundo tecnolÛgicamente desnudo.}
+{10025}{}{nunca vista en este mundo tecnol√≥gicamente desnudo.}
 {10026}{}{**END-PAR**}
-{10027}{}{Pero algunos querÌan todavÌa m·s. Estas ambiciosas}
-{10028}{}{almas pidieron que fuÈsemos al sudeste en busca de}
-{10029}{}{la tecnologÌa avanzada que supuestamente se albergaba}
-{10030}{}{allÌ.}
+{10027}{}{Pero algunos quer√≠an todav√≠a m√°s. Estas ambiciosas}
+{10028}{}{almas pidieron que fu√©semos al sudeste en busca de}
+{10029}{}{la tecnolog√≠a avanzada que supuestamente se albergaba}
+{10030}{}{all√≠.}
 {10031}{}{**END-PAR**}
-{10032}{}{El Capt. Maxson advirtiÛ a estos impetuosos jÛvenes que}
-{10033}{}{las instalaciones de investigaciÛn habÌan sido destruidas}
+{10032}{}{El Capt. Maxson advirti√≥ a estos impetuosos j√≥venes que}
+{10033}{}{las instalaciones de investigaci√≥n hab√≠an sido destruidas}
 {10034}{}{cuando nos fuimos, pero no le hicieron caso. Cogieron sus}
 {10035}{}{santificadas armaduras y salieron en busca de su Santo}
 {10036}{}{Grial, no sin antes mencionar el nombre del Suministrador}
-{10037}{}{en vano, °cuestionando su valentÌa!}
+{10037}{}{en vano, ¬°cuestionando su valent√≠a!}
 {10038}{}{**END-PAR**}
-{10039}{}{Nunca se volviÛ a tener noticia de estos hombres.}
+{10039}{}{Nunca se volvi√≥ a tener noticia de estos hombres.}
 {10040}{}{**END-DISK**}
-{11000}{}{Por orden mÌa, como oficial activo al mando tras la}
+{11000}{}{Por orden m√≠a, como oficial activo al mando tras la}
 {11001}{}{muerte del Coronel Robert Spindel durante estos}
 {11002}{}{tiempos de crisis, la totalidad del grupo de seguridad ha}
-{11003}{}{sido desplegado al b˙nker de seguridad de las Colinas}
+{11003}{}{sido desplegado al b√∫nker de seguridad de las Colinas}
 {11004}{}{**END-PAR**}
 {11005}{}{**END-PAR**}
-{11006}{}{Esta ordenanza tambiÈn incluye a las familias de los}
+{11006}{}{Esta ordenanza tambi√©n incluye a las familias de los}
 {11007}{}{**END-PAR**}
 {11008}{}{**END-PAR**}
 {11009}{}{A no ser que se disponga lo contrario, por parte}
 {11010}{}{de un representante cualificado del Departamento de}
 {11011}{}{**END-PAR**}
 {11012}{}{**END-PAR**}
-{11013}{}{ResoluciÛn 1: Todo el personal militar, y sus familias,}
-{11014}{}{evacuar·n la base a las 0800, 25 Oct 2077.}
-{11015}{}{Todo el personal, viajando bajo supervisiÛn, se dirigir·}
+{11013}{}{Resoluci√≥n 1: Todo el personal militar, y sus familias,}
+{11014}{}{evacuar√°n la base a las 0800, 25 Oct 2077.}
+{11015}{}{Todo el personal, viajando bajo supervisi√≥n, se dirigir√°}
 {11016}{}{**END-PAR**}
 {11017}{}{**END-PAR**}
-{11018}{}{ResoluciÛn 2: Todo el personal civil deber· permanecer}
-{11019}{}{en la base, a la espera de Ûrdenes de su estructura de}
+{11018}{}{Resoluci√≥n 2: Todo el personal civil deber√° permanecer}
+{11019}{}{en la base, a la espera de √≥rdenes de su estructura de}
 {11020}{}{**END-PAR**}
 {11021}{}{**END-PAR**}
-{11022}{}{ResoluciÛn 3: El equipo considerado necesario para la}
+{11022}{}{Resoluci√≥n 3: El equipo considerado necesario para la}
 {11023}{}{supervivencia del personal militar de la base debe}
-{11024}{}{cogerse inmediatamente del almacÈn. La autorizaciÛn}
+{11024}{}{cogerse inmediatamente del almac√©n. La autorizaci√≥n}
 {11025}{}{**END-PAR**}
 {11026}{}{permita.}
 {11027}{}{**END-PAR**}
-{11028}{}{ResoluciÛn 4: todos los cÛdigos de justicia militar ser·n}
+{11028}{}{Resoluci√≥n 4: todos los c√≥digos de justicia militar ser√°n}
 {11029}{}{**END-PAR**}
-{11030}{}{el personal civil cuando act˙e en operaciones conjuntas.}
+{11030}{}{el personal civil cuando act√∫e en operaciones conjuntas.}
 {11031}{}{**END-PAR**}
-{11032}{}{ResoluciÛn 5: Hasta el momento en que sea posible}
-{11033}{}{establecer comunicaciÛn constante y autorizada con}
+{11032}{}{Resoluci√≥n 5: Hasta el momento en que sea posible}
+{11033}{}{establecer comunicaci√≥n constante y autorizada con}
 {11034}{}{**END-PAR**}
 {11035}{}{preeminencia sobre toda orden establecida anteriormente.}
 {11036}{}{**END-PAR**}
@@ -768,298 +768,298 @@
 {12002}{}{me sobrepase.}
 {12003}{}{**END-PAR**}
 {12004}{}{                                                    0005 - 0020}
-{12005}{}{TodavÌa no me creo que fuese capaz de arrastrarme fuera}
-{12006}{}{de ese tanque. La mezcla no me afectÛ, pero casi me}
-{12007}{}{ahogo. No sÈ lo que le ocurriÛ a Harold.}
-{12008}{}{Estaba justo a mi lado cuando la gr˙a me tirÛ}
+{12005}{}{Todav√≠a no me creo que fuese capaz de arrastrarme fuera}
+{12006}{}{de ese tanque. La mezcla no me afect√≥, pero casi me}
+{12007}{}{ahogo. No s√© lo que le ocurri√≥ a Harold.}
+{12008}{}{Estaba justo a mi lado cuando la gr√∫a me tir√≥}
 {12009}{}{dentro del tanque. Debieron matarle, de lo contrario}
-{12010}{}{habrÌa intentado ayudarme. Francine muriÛ,}
+{12010}{}{habr√≠a intentado ayudarme. Francine muri√≥,}
 {12011}{}{asesinada por uno de esos robots.}
 {12012}{}{**END-PAR**}
 {12013}{}{                                                    0021 - 0027}
-{12014}{}{No tengo ni idea de cu·nto tiempo ha pasado. Fui capaz}
+{12014}{}{No tengo ni idea de cu√°nto tiempo ha pasado. Fui capaz}
 {12015}{}{de introducirme en el ordenador, apagar los robots y}
 {12016}{}{grabar esto, pero ahora mi mente se aleja.}
 {12017}{}{El dolor es tremendo.}
 {12018}{}{**END-PAR**}
 {12019}{}{                                                    0028 - 0043}
 {12020}{}{El mejunje verde en el que me metieron es la fuente de}
-{12021}{}{todas las mutaciones que nos trajeron hasta aquÌ. Mi}
+{12021}{}{todas las mutaciones que nos trajeron hasta aqu√≠. Mi}
 {12022}{}{piel se pudre y se me cae. Por algunos sitios me han}
 {12023}{}{salido unas ampollas que supuran una especie de}
-{12024}{}{mucosidad. Hay dÌas en los que el dolor es tolerable.}
+{12024}{}{mucosidad. Hay d√≠as en los que el dolor es tolerable.}
 {12025}{}{**END-PAR**}
 {12026}{}{                                                    0044 - 0057}
-{12027}{}{Puedo andar un poco de nuevo... parece increÌble}
-{12028}{}{que me arrastrase hasta aquÌ arriba desde la sala}
+{12027}{}{Puedo andar un poco de nuevo... parece incre√≠ble}
+{12028}{}{que me arrastrase hasta aqu√≠ arriba desde la sala}
 {12029}{}{de los tanques. Es muy raro, la verdad es que ahora me}
-{12030}{}{siento m·s fuerte, aunque todavÌa tengo muchos dolores.}
+{12030}{}{siento m√°s fuerte, aunque todav√≠a tengo muchos dolores.}
 {12031}{}{Es como si todo lo que me rodea estuviese encogiendo.}
 {12032}{}{**END-PAR**}
 {12033}{}{                                                    0058 - 0096}
 {12034}{}{Creo que hoy he consumido una de esas cosas mutantes}
-{12035}{}{que corretean por aquÌ. Antes de darme cuenta de lo que}
-{12036}{}{ocurrÌa, una especie de enredadera saliÛ de mÌ}
-{12037}{}{estÛmago y cubriÛ a la pobre criatura. Tan pronto como}
-{12038}{}{succionÛ el roedor en mis entraÒas pude sentir su mente.}
-{12039}{}{Creo... que es muy posible que me estÈ volviendo}
-{12040}{}{loco lentamente, y que ya no puedo diferenciar quÈ}
-{12041}{}{es real y quÈ es una alucinaciÛn.}
-{12042}{}{Quiz· todavÌa estoy en el tanque, muriÈndome,}
+{12035}{}{que corretean por aqu√≠. Antes de darme cuenta de lo que}
+{12036}{}{ocurr√≠a, una especie de enredadera sali√≥ de m√≠}
+{12037}{}{est√≥mago y cubri√≥ a la pobre criatura. Tan pronto como}
+{12038}{}{succion√≥ el roedor en mis entra√±as pude sentir su mente.}
+{12039}{}{Creo... que es muy posible que me est√© volviendo}
+{12040}{}{loco lentamente, y que ya no puedo diferenciar qu√©}
+{12041}{}{es real y qu√© es una alucinaci√≥n.}
+{12042}{}{Quiz√° todav√≠a estoy en el tanque, muri√©ndome,}
 {12043}{}{y me he imaginado todo esto.}
 {12044}{}{**END-PAR**}
 {12045}{}{                                                    0097 - 0111}
-{12046}{}{Las cosas parecen m·s claras cada dÌa que pasa. Lo cierto}
+{12046}{}{Las cosas parecen m√°s claras cada d√≠a que pasa. Lo cierto}
 {12047}{}{es que esta toxina ha mejorado mi mente. Lo siento. Puedo}
-{12048}{}{entender incluso las m·s complejas preguntas filosÛficas}
+{12048}{}{entender incluso las m√°s complejas preguntas filos√≥ficas}
 {12049}{}{como si nada. Es como si todas las capas artificiosas}
-{12050}{}{hubiesen desaparecido. øMe pregunto quÈ ocurrirÌa si}
+{12050}{}{hubiesen desaparecido. ¬øMe pregunto qu√© ocurrir√≠a si}
 {12051}{}{sumergiese un animal en los tanques por un prolongado}
-{12052}{}{periodo de tiempo? øAumentarÌa su consciencia?}
+{12052}{}{periodo de tiempo? ¬øAumentar√≠a su consciencia?}
 {12053}{}{**END-PAR**}
 {12054}{}{                                                    0112 - 0134}
-{12055}{}{Algo rarÌsimo les est· pasando a los animales.}
-{12056}{}{Se vuelven m·s listos y m·s conscientes de su entorno.}
-{12057}{}{Hoy baÒÈ a la vez a un perro y a una rata,}
+{12055}{}{Algo rar√≠simo les est√° pasando a los animales.}
+{12056}{}{Se vuelven m√°s listos y m√°s conscientes de su entorno.}
+{12057}{}{Hoy ba√±√© a la vez a un perro y a una rata,}
 {12058}{}{y se fundieron en uno. Ya no son dos criaturas,}
 {12059}{}{pero tampoco son una.}
-{12060}{}{Quiz·s sea el futuro - la fusiÛn de criaturas}
+{12060}{}{Quiz√°s sea el futuro - la fusi√≥n de criaturas}
 {12061}{}{diferentes en una especie de unidad armoniosa.}
 {12062}{}{Ya no consumo los distintos animales que creo}
-{12063}{}{sÛlo para subsistir - me he convertido en un instrumento}
-{12064}{}{a travÈs del cual se conseguir· la unidad. Ahora}
-{12065}{}{soy mucho m·s que un humano.}
+{12063}{}{s√≥lo para subsistir - me he convertido en un instrumento}
+{12064}{}{a trav√©s del cual se conseguir√° la unidad. Ahora}
+{12065}{}{soy mucho m√°s que un humano.}
 {12066}{}{**END-PAR**}
 {12067}{}{                                                    0135 - 0139}
-{12068}{}{Es hora de traer a los dem·s a la gloria que ser·}
+{12068}{}{Es hora de traer a los dem√°s a la gloria que ser√°}
 {12069}{}{la Unidad.}
 {12070}{}{**END-PAR**}
 {12071}{}{                                                    0140 - 0153}
 {12072}{}{Por fin un alma perdida ha llegado a mi hogar. Fue tan}
-{12073}{}{sorprendente. Le consumÌ antes del baÒo, un error que no}
-{12074}{}{volverÈ a cometer. Su mente era tan primitiva que resultaba}
+{12073}{}{sorprendente. Le consum√≠ antes del ba√±o, un error que no}
+{12074}{}{volver√© a cometer. Su mente era tan primitiva que resultaba}
 {12075}{}{repulsiva para mis refinadas habilidades cognitivas.}
 {12076}{}{**END-PAR**}
 {12077}{}{                                                    0154 - 0172}
 {12078}{}{He comenzado a modificarme, para servir mejor a la Unidad,}
-{12079}{}{inyect·ndome pequeÒas dosis del virus. La mezcla de los}
+{12079}{}{inyect√°ndome peque√±as dosis del virus. La mezcla de los}
 {12080}{}{tanques es un virus fabricado por el hombre llamado Virus}
-{12081}{}{de EvoluciÛn Forzada. He adquirido esta informaciÛn}
+{12081}{}{de Evoluci√≥n Forzada. He adquirido esta informaci√≥n}
 {12082}{}{gracias a mi nuevo neuroenlace con el ordenador base.}
 {12083}{}{**END-PAR**}
 {12084}{}{                                                    0173 - 0198}
-{12085}{}{Los pocos viajeros que han logrado llegar hasta aquÌ}
+{12085}{}{Los pocos viajeros que han logrado llegar hasta aqu√≠}
 {12086}{}{me han decepcionado. No parecen mutar correctamente. Lo}
-{12087}{}{m·s que he conseguido crear son algunos mutantes}
-{12088}{}{grandes y tontos. La mayorÌa no recuerdan nada anterior}
-{12089}{}{al momento en el que los introduje en la magnÌfica Unidad.}
+{12087}{}{m√°s que he conseguido crear son algunos mutantes}
+{12088}{}{grandes y tontos. La mayor√≠a no recuerdan nada anterior}
+{12089}{}{al momento en el que los introduje en la magn√≠fica Unidad.}
 {12090}{}{Ahora solo los alimento con gasolina. Sus mentes no}
-{12091}{}{significan nada para mÌ.}
+{12091}{}{significan nada para m√≠.}
 {12092}{}{**END-PAR**}
 {12093}{}{                                                    0199 - 0236}
-{12094}{}{°Oh glorioso creador! °He conseguido extender el sublime}
-{12095}{}{goce de la unificaciÛn a otra alma! Al contrario que los}
-{12096}{}{dem·s, su nivel de radiaciÛn era bajo. Creo que Èste es}
+{12094}{}{¬°Oh glorioso creador! ¬°He conseguido extender el sublime}
+{12095}{}{goce de la unificaci√≥n a otra alma! Al contrario que los}
+{12096}{}{dem√°s, su nivel de radiaci√≥n era bajo. Creo que √©ste es}
 {12097}{}{el factor que hemos pasado por alto todo este tiempo,}
-{12098}{}{dado que parece que la conversiÛn tiene m·s Èxito en los}
-{12099}{}{sujetos con un daÒo radiactivo menor. Nunca antes conocÌ}
-{12100}{}{tanta gloria como la que experimentÈ al tomar su mente.}
+{12098}{}{dado que parece que la conversi√≥n tiene m√°s √©xito en los}
+{12099}{}{sujetos con un da√±o radiactivo menor. Nunca antes conoc√≠}
+{12100}{}{tanta gloria como la que experiment√© al tomar su mente.}
 {12101}{}{**END-PAR**}
 {12102}{}{                                                    0237 - 0281}
-{12103}{}{Estamos empezando a crear un ejÈrcito para llevar a cabo}
-{12104}{}{la unificaciÛn de la maravillosa diversidad natural. Les}
-{12105}{}{hemos entrenado para que prosigan aquÌ con el trabajo}
-{12106}{}{mientras buscamos ·reas m·s pobladas que anexar. Estamos}
-{12107}{}{empezando a sentir las limitaciones de un cuerpo mÛvil.}
-{12108}{}{Buscaremos un hogar permanente, con un gran almacÈn}
+{12103}{}{Estamos empezando a crear un ej√©rcito para llevar a cabo}
+{12104}{}{la unificaci√≥n de la maravillosa diversidad natural. Les}
+{12105}{}{hemos entrenado para que prosigan aqu√≠ con el trabajo}
+{12106}{}{mientras buscamos √°reas m√°s pobladas que anexar. Estamos}
+{12107}{}{empezando a sentir las limitaciones de un cuerpo m√≥vil.}
+{12108}{}{Buscaremos un hogar permanente, con un gran almac√©n}
 {12109}{}{de conocimiento y un suministro constante de biomasa.}
 {12110}{}{**END-PAR**}
 {12111}{}{                                                    0282 - 0303}
 {12112}{}{Hemos dejado de crecer hasta que encontremos un nuevo}
-{12113}{}{centro de unificaciÛn. Cuando lleguemos, continuaremos}
-{12114}{}{creciendo y aliment·ndonos hasta que hagamos llegar la}
+{12113}{}{centro de unificaci√≥n. Cuando lleguemos, continuaremos}
+{12114}{}{creciendo y aliment√°ndonos hasta que hagamos llegar la}
 {12115}{}{paz y la unidad al mundo entero.}
 {12116}{}{**END-DISK**}
-{13000}{}{ï 10 Oct, 2077}
-{13001}{}{Yo, Roger Maxson, Capit·n, n˙mero de serie 072389 he}
+{13000}{}{‚Ä¢ 10 Oct, 2077}
+{13001}{}{Yo, Roger Maxson, Capit√°n, n√∫mero de serie 072389 he}
 {13002}{}{comenzado este diario porque no parece que ninguno de}
 {13003}{}{nosotros vaya a sobrevivir, y quiero que la gente sepa lo}
-{13004}{}{que realmente ocurriÛ aquÌ. El infierno se desatÛ cuando}
-{13005}{}{finalmente descubrimos lo que esos malditos cientÌficos}
-{13006}{}{tenÌan entre manos. El Coronel se ha encerrado en su}
+{13004}{}{que realmente ocurri√≥ aqu√≠. El infierno se desat√≥ cuando}
+{13005}{}{finalmente descubrimos lo que esos malditos cient√≠ficos}
+{13006}{}{ten√≠an entre manos. El Coronel se ha encerrado en su}
 {13007}{}{oficina y parece que sufre una crisis nerviosa. Los}
-{13008}{}{hombres quieren sangre. Quieren respuestas, y no sÈ quÈ}
+{13008}{}{hombres quieren sangre. Quieren respuestas, y no s√© qu√©}
 {13009}{}{hacer. Aunque, alguien tiene que hacer algo, antes de}
-{13010}{}{que estÈ lugar se convierta en un caÛtico baÒo de}
+{13010}{}{que est√© lugar se convierta en un ca√≥tico ba√±o de}
 {13011}{}{sangre.}
 {13012}{}{**END-PAR**}
-{13013}{}{ï 12 Oct. 2077}
+{13013}{}{‚Ä¢ 12 Oct. 2077}
 {13014}{}{Cada vez que nos llega un informe de los de arriba las}
-{13015}{}{cosas se ponen peor aquÌ. La guerra se est· poniendo}
-{13016}{}{muy fea y aquÌ se va a desencadenar un motÌn, por todo}
-{13017}{}{el caos que trae. EvitÈ que uno de los hombres ejecutase}
-{13018}{}{hoy a un cientÌfico, y pedÌ que se les interrogase para}
-{13019}{}{descubrir quÈ Ûrdenes tenÌan.}
+{13015}{}{cosas se ponen peor aqu√≠. La guerra se est√° poniendo}
+{13016}{}{muy fea y aqu√≠ se va a desencadenar un mot√≠n, por todo}
+{13017}{}{el caos que trae. Evit√© que uno de los hombres ejecutase}
+{13018}{}{hoy a un cient√≠fico, y ped√≠ que se les interrogase para}
+{13019}{}{descubrir qu√© √≥rdenes ten√≠an.}
 {13020}{}{**END-PAR**}
-{13021}{}{ï 13 Oct. 2077}
+{13021}{}{‚Ä¢ 13 Oct. 2077}
 {13022}{}{Hoy he matado a un hombre. Estaba interrogando al Jefe}
-{13023}{}{CientÌfico Anderson, me estaba dando todos los detalles}
-{13024}{}{de sus inhumanos experimentos. Dijo que sus Ûrdenes}
-{13025}{}{provenÌan del gobierno, pero no me lo traguÈ. EmpezÛ a}
-{13026}{}{gritar que Èl solo obedecÌa Ûrdenes, que era un hombre}
-{13027}{}{militar... solo le peguÈ un tiro. Me digo a mÌ mismo}
-{13028}{}{que lo hice para evitar un motÌn, pero no estoy seguro.}
+{13023}{}{Cient√≠fico Anderson, me estaba dando todos los detalles}
+{13024}{}{de sus inhumanos experimentos. Dijo que sus √≥rdenes}
+{13025}{}{proven√≠an del gobierno, pero no me lo tragu√©. Empez√≥ a}
+{13026}{}{gritar que √©l solo obedec√≠a √≥rdenes, que era un hombre}
+{13027}{}{militar... solo le pegu√© un tiro. Me digo a m√≠ mismo}
+{13028}{}{que lo hice para evitar un mot√≠n, pero no estoy seguro.}
 {13029}{}{**END-PAR**}
-{13030}{}{ï 15 Oct. 2077}
-{13031}{}{He vuelto a intentar hablar con el coronel a travÈs de la,}
+{13030}{}{‚Ä¢ 15 Oct. 2077}
+{13031}{}{He vuelto a intentar hablar con el coronel a trav√©s de la,}
 {13032}{}{puerta, pero parece que ha perdido todo sentido de la.}
-{13033}{}{realidad. Junto con varios hombres tirÈ la puerta abajo}
+{13033}{}{realidad. Junto con varios hombres tir√© la puerta abajo}
 {13034}{}{justo a tiempo para ver como se volaba los sesos. Antes}
-{13035}{}{de apretar el gatillo dijo que lo sentÌa.}
+{13035}{}{de apretar el gatillo dijo que lo sent√≠a.}
 {13036}{}{**END-PAR**}
-{13037}{}{ï 18 Oct. 2077}
+{13037}{}{‚Ä¢ 18 Oct. 2077}
 {13038}{}{Muerto el cabeza hueca, parece que se confirma mi}
-{13039}{}{posiciÛn como lÌder. Los hombres me siguen sin cuestiÛn.}
+{13039}{}{posici√≥n como l√≠der. Los hombres me siguen sin cuesti√≥n.}
 {13040}{}{Los interrogatorios terminan invariablemente en}
-{13041}{}{ejecuciones. Shellman fue la que m·s aguantÛ, pero al}
+{13041}{}{ejecuciones. Shellman fue la que m√°s aguant√≥, pero al}
 {13042}{}{final el resultado fue el mismo. Sus argumentos sobre que}
-{13043}{}{obedecÌa Ûrdenes eran demasiado especÌficos para ser}
+{13043}{}{obedec√≠a √≥rdenes eran demasiado espec√≠ficos para ser}
 {13044}{}{completamente inventados. Tengo una horrible corazonada}
-{13045}{}{sobre cÛmo va a acabar todo esto. Ya ni siquiera me}
-{13046}{}{miento a mÌ mismo sobre por quÈ ejecuto a los cientÌficos.}
+{13045}{}{sobre c√≥mo va a acabar todo esto. Ya ni siquiera me}
+{13046}{}{miento a m√≠ mismo sobre por qu√© ejecuto a los cient√≠ficos.}
 {13047}{}{**END-PAR**}
-{13048}{}{ï 20 Oct. 2077}
-{13049}{}{Finalmente contestÈ al mundo exterior a travÈs de}
-{13050}{}{nuestra radio. No sÈ por quÈ nunca enviaron a nadie}
-{13051}{}{aquÌ para ver quÈ pasaba cuando dejamos de contestar}
+{13048}{}{‚Ä¢ 20 Oct. 2077}
+{13049}{}{Finalmente contest√© al mundo exterior a trav√©s de}
+{13050}{}{nuestra radio. No s√© por qu√© nunca enviaron a nadie}
+{13051}{}{aqu√≠ para ver qu√© pasaba cuando dejamos de contestar}
 {13052}{}{a sus transmisiones. No tiene sentido. Bueno, seguro}
-{13053}{}{que ahora sÌ que vendr·n. Nos hemos declarado escindidos}
-{13054}{}{de la uniÛn. Recuerdan a Jefferson Davis. øQuÈ}
-{13055}{}{dir· la historia de mÌ?}
+{13053}{}{que ahora s√≠ que vendr√°n. Nos hemos declarado escindidos}
+{13054}{}{de la uni√≥n. Recuerdan a Jefferson Davis. ¬øQu√©}
+{13055}{}{dir√° la historia de m√≠?}
 {13056}{}{**END-PAR**}
-{13057}{}{ï 22 Oct. 2077}
-{13058}{}{øQuÈ demonios ocurre? Nos declaramos absolutos}
-{13059}{}{desertores del ejÈrcito y renegamos del mando del}
-{13060}{}{Gobierno, øy quÈ ocurre? Nada.}
+{13057}{}{‚Ä¢ 22 Oct. 2077}
+{13058}{}{¬øQu√© demonios ocurre? Nos declaramos absolutos}
+{13059}{}{desertores del ej√©rcito y renegamos del mando del}
+{13060}{}{Gobierno, ¬øy qu√© ocurre? Nada.}
 {13061}{}{Algo malo se avecina.}
 {13062}{}{**END-PAR**}
-{13063}{}{ï 23 Oct. 2077}
+{13063}{}{‚Ä¢ 23 Oct. 2077}
 {13064}{}{No puedo creer que esos cabrones lo hiciesen al final. Que}
 {13065}{}{se pudran todos en el infierno. Lanzaron las bombas-A.}
-{13066}{}{Justo cuando est·bamos sac·ndole toda la verdad a Von}
+{13066}{}{Justo cuando est√°bamos sac√°ndole toda la verdad a Von}
 {13067}{}{Felden, perdimos completamente el contacto. Presiento}
-{13068}{}{que el centro de investigaciÛn fue dado de lleno. No sÈ}
-{13069}{}{por quÈ, ll·malo una corazonada. Parece inconcebible}
-{13070}{}{que el objetivo no fuÈramos nosotros. Estoy seguro de}
-{13071}{}{que China vendr· muy pronto por nosotros. Por suerte,}
+{13068}{}{que el centro de investigaci√≥n fue dado de lleno. No s√©}
+{13069}{}{por qu√©, ll√°malo una corazonada. Parece inconcebible}
+{13070}{}{que el objetivo no fu√©ramos nosotros. Estoy seguro de}
+{13071}{}{que China vendr√° muy pronto por nosotros. Por suerte,}
 {13072}{}{antes de ayer metimos a nuestras familias en las}
-{13073}{}{instalaciones. TodavÌa no sabemos si el derrame}
-{13074}{}{nuclear ha alcanzado esta ·rea.}
+{13073}{}{instalaciones. Todav√≠a no sabemos si el derrame}
+{13074}{}{nuclear ha alcanzado esta √°rea.}
 {13075}{}{**END-PAR**}
-{13076}{}{ï 25 Oct. 2077}
-{13077}{}{El Sgt. Platner se presentÛ voluntario hoy para recoger}
-{13078}{}{lecturas especÌficas de la atmÛsfera. Parece que las}
+{13076}{}{‚Ä¢ 25 Oct. 2077}
+{13077}{}{El Sgt. Platner se present√≥ voluntario hoy para recoger}
+{13078}{}{lecturas espec√≠ficas de la atm√≥sfera. Parece que las}
 {13079}{}{radiaciones no han llegado tan lejos. Como llevaba puesta}
-{13080}{}{su armadura de energÌa, no habÌa peligro de que fuese}
-{13081}{}{irradiado, pero de ser expuesto tendrÌa que exiliarse.}
-{13082}{}{AquÌ no tenemos los medios de descontaminaciÛn}
+{13080}{}{su armadura de energ√≠a, no hab√≠a peligro de que fuese}
+{13081}{}{irradiado, pero de ser expuesto tendr√≠a que exiliarse.}
+{13082}{}{Aqu√≠ no tenemos los medios de descontaminaci√≥n}
 {13083}{}{adecuados.}
 {13084}{}{**END-PAR**}
-{13085}{}{ï 26 Oct. 2077}
-{13086}{}{He convencido a los hombres de que deberÌamos enterrar}
-{13087}{}{a los cientÌficos. No sÈ por quÈ... quiz·s para tener la}
-{13088}{}{conciencia tranquila, comencÈ a creerme lo que contaban}
-{13089}{}{cuando el ˙ltimo se estaba muriendo.}
+{13085}{}{‚Ä¢ 26 Oct. 2077}
+{13086}{}{He convencido a los hombres de que deber√≠amos enterrar}
+{13087}{}{a los cient√≠ficos. No s√© por qu√©... quiz√°s para tener la}
+{13088}{}{conciencia tranquila, comenc√© a creerme lo que contaban}
+{13089}{}{cuando el √∫ltimo se estaba muriendo.}
 {13090}{}{**END-PAR**}
 {13091}{}{**END-PAR**}
-{13092}{}{ï 27 Oct. 2077}
+{13092}{}{‚Ä¢ 27 Oct. 2077}
 {13093}{}{Hoy abandonamos este lugar dejado de la mano de dios.}
-{13094}{}{GuiarÈ el Èxodo hasta el viejo b˙nker del gobierno de las}
-{13095}{}{Colinas Perdidas. Voy a dejar este diario aquÌ para que}
-{13096}{}{sea enterrado con este lugar. Quien sabe, quiz·s alguien}
+{13094}{}{Guiar√© el √©xodo hasta el viejo b√∫nker del gobierno de las}
+{13095}{}{Colinas Perdidas. Voy a dejar este diario aqu√≠ para que}
+{13096}{}{sea enterrado con este lugar. Quien sabe, quiz√°s alguien}
 {13097}{}{**END-DISK**}
 {14000}{}{Informe Resumido VEF:}
 {14001}{}{**END-PAR**}
-{14002}{}{2073. A medida que China incrementÛ la agresividad de}
-{14003}{}{sus armas biolÛgicas, el gobierno de los Estados Unidos}
-{14004}{}{decidiÛ que era necesario tomar medidas.}
-{14005}{}{El Proyecto de Pan-Inmunidad VÌrica (PPV) se formÛ}
+{14002}{}{2073. A medida que China increment√≥ la agresividad de}
+{14003}{}{sus armas biol√≥gicas, el gobierno de los Estados Unidos}
+{14004}{}{decidi√≥ que era necesario tomar medidas.}
+{14005}{}{El Proyecto de Pan-Inmunidad V√≠rica (PPV) se form√≥}
 {14006}{}{oficialmente el 15 de Septiembre, 2073.}
 {14007}{}{**END-PAR**}
 {14008}{}{2075. Resultaba evidente que el mejor modo de combatir}
-{14009}{}{las nuevas armas biolÛgicas era alterar el ADN}
+{14009}{}{las nuevas armas biol√≥gicas era alterar el ADN}
 {14010}{}{no infectado para que ya no fuese vulnerable a las}
-{14011}{}{infecciones vÌricas est·ndar.}
+{14011}{}{infecciones v√≠ricas est√°ndar.}
 {14012}{}{**END-PAR**}
 {14013}{}{2076. A principios del 2076 empezaron a surgir efectos}
 {14014}{}{secundarios no previsto con el PPV. Los sujetos animales}
 {14015}{}{comenzaron a mostrar un ritmo de crecimiento anormal}
-{14016}{}{acompaÒado por un aumento de la actividad mental. El}
+{14016}{}{acompa√±ado por un aumento de la actividad mental. El}
 {14017}{}{gobierno de los EE.UU. teniendo en cuenta estos}
-{14018}{}{descubrimientos y en interÈs de la seguridad nacional,}
-{14019}{}{desplazÛ a un equipo de campo para supervisar el}
-{14020}{}{proyecto, que desde entonces se denominÛ proyecto VEF}
+{14018}{}{descubrimientos y en inter√©s de la seguridad nacional,}
+{14019}{}{desplaz√≥ a un equipo de campo para supervisar el}
+{14020}{}{proyecto, que desde entonces se denomin√≥ proyecto VEF}
 {14021}{}{**END-PAR**}
 {14022}{}{**END-PAR**}
 {14023}{}{2077. VEF casi completo. Las pruebas en animales de}
-{14024}{}{laboratorio casi llegan al 100% de Èxitos. El tamaÒo y la}
+{14024}{}{laboratorio casi llegan al 100% de √©xitos. El tama√±o y la}
 {14025}{}{densidad muscular aumentan aproximadamente en un 60%,}
 {14026}{}{y la inteligencia potencial supera el 200% de incremento.}
 {14027}{}{Los efectos sobre sujetos humanos siguen desconocidos;}
-{14028}{}{aunque teÛricamente resultan prometedores.}
-{14029}{}{Los militares, deseando que se contin˙e con la}
-{14030}{}{investigaciÛn, construyen un gran centro en las}
+{14028}{}{aunque te√≥ricamente resultan prometedores.}
+{14029}{}{Los militares, deseando que se contin√∫e con la}
+{14030}{}{investigaci√≥n, construyen un gran centro en las}
 {14031}{}{instalaciones militares Mariposa en California}
 {14032}{}{**END-DISK**}
-{15000}{}{La Armadura Reforzada de InfanterÌa T-51b ha sido creada}
-{15001}{}{con los ˙ltimos descubrimientos en defensa pasiva tanto}
+{15000}{}{La Armadura Reforzada de Infanter√≠a T-51b ha sido creada}
+{15001}{}{con los √∫ltimos descubrimientos en defensa pasiva tanto}
 {15002}{}{de ataques civiles como militares. El Paquete trasero de}
-{15003}{}{MicrofusiÛn TX-28 genera 60.000 vatios para activar los}
-{15004}{}{sistemas hidr·ulicos HiFlo que hay dentro del traje.}
-{15005}{}{Fabricada con el m·s innovador compuesto polilaminado,}
+{15003}{}{Microfusi√≥n TX-28 genera 60.000 vatios para activar los}
+{15004}{}{sistemas hidr√°ulicos HiFlo que hay dentro del traje.}
+{15005}{}{Fabricada con el m√°s innovador compuesto polilaminado,}
 {15006}{}{la carcasa de la T-51b es muy ligera y capaz de absorber}
-{15007}{}{m·s de 2500 Julios de impacto cinÈtico. El baÒo de 10}
-{15008}{}{gramos micro plata puede reflejar las emisiones de l·ser}
-{15009}{}{y radiaciÛn sin daÒar el compuesto bajo la superficie.}
+{15007}{}{m√°s de 2500 Julios de impacto cin√©tico. El ba√±o de 10}
+{15008}{}{gramos micro plata puede reflejar las emisiones de l√°ser}
+{15009}{}{y radiaci√≥n sin da√±ar el compuesto bajo la superficie.}
 {15010}{}{**END-DISK**}
 {16000}{}{Robert Anderson}
-{16001}{}{Ayudante de InvestigaciÛn}
-{16002}{}{CÛdigo de Seguridad: Azul}
+{16001}{}{Ayudante de Investigaci√≥n}
+{16002}{}{C√≥digo de Seguridad: Azul}
 {16003}{}{Destino: Base Militar Mariposa}
 {16004}{}{**END-PAR**}
 {16005}{}{Nick Davis}
-{16006}{}{Director de la DivisiÛn NBC de InvestigaciÛn West Tech}
-{16007}{}{CÛdigo de Seguridad: Azul}
-{16008}{}{Destino: Instalaciones InvestigaciÛn West Tech}
+{16006}{}{Director de la Divisi√≥n NBC de Investigaci√≥n West Tech}
+{16007}{}{C√≥digo de Seguridad: Azul}
+{16008}{}{Destino: Instalaciones Investigaci√≥n West Tech}
 {16009}{}{**END-PAR**}
 {16010}{}{John Isaac}
-{16011}{}{Ayudante de InvestigaciÛn}
-{16012}{}{CÛdigo de Seguridad: Rojo}
-{16013}{}{Destino: Instalaciones InvestigaciÛn West Tech}
+{16011}{}{Ayudante de Investigaci√≥n}
+{16012}{}{C√≥digo de Seguridad: Rojo}
+{16013}{}{Destino: Instalaciones Investigaci√≥n West Tech}
 {16014}{}{**END-PAR**}
 {16015}{}{Steve Remco}
-{16016}{}{Ayudante de InvestigaciÛn}
-{16017}{}{CÛdigo de Seguridad: Azul}
+{16016}{}{Ayudante de Investigaci√≥n}
+{16017}{}{C√≥digo de Seguridad: Azul}
 {16018}{}{Destino: Base Militar Mariposa}
 {16019}{}{**END-PAR**}
 {16020}{}{Charles Rignhold}
-{16021}{}{Jefe InvestigaciÛn Desarrollo del L·ser}
-{16022}{}{CÛdigo de Seguridad: Azul}
-{16023}{}{Destino: Instalaciones InvestigaciÛn West Tech}
+{16021}{}{Jefe Investigaci√≥n Desarrollo del L√°ser}
+{16022}{}{C√≥digo de Seguridad: Azul}
+{16023}{}{Destino: Instalaciones Investigaci√≥n West Tech}
 {16024}{}{**END-PAR**}
 {16025}{}{Michele Santose}
-{16026}{}{TÈcnico de Laboratorio}
-{16027}{}{CÛdigo de Seguridad: Rojo}
-{16028}{}{Destino: Instalaciones InvestigaciÛn West Tech}
+{16026}{}{T√©cnico de Laboratorio}
+{16027}{}{C√≥digo de Seguridad: Rojo}
+{16028}{}{Destino: Instalaciones Investigaci√≥n West Tech}
 {16029}{}{**END-PAR**}
 {16030}{}{Erin Shellman}
-{16031}{}{TÈcnico de Laboratorio}
-{16032}{}{CÛdigo de Seguridad: Azul}
+{16031}{}{T√©cnico de Laboratorio}
+{16032}{}{C√≥digo de Seguridad: Azul}
 {16033}{}{Destino: Base Militar Mariposa}
 {16034}{}{**END-PAR**}
 {16035}{}{Leon VonFelden}
-{16036}{}{Jefe InvestigaciÛn VEF}
-{16037}{}{CÛdigo de Seguridad: Azul}
+{16036}{}{Jefe Investigaci√≥n VEF}
+{16037}{}{C√≥digo de Seguridad: Azul}
 {16038}{}{Destino: Base Militar Mariposa}
 {16039}{}{**END-DISK**}
 {17000}{}{}
@@ -1112,34 +1112,34 @@
 {17047}{}{}
 {17048}{}{}
 {17049}{}{}
-{18000}{}{Diario de transmisiÛn de radio de los Reguladores:}
+{18000}{}{Diario de transmisi√≥n de radio de los Reguladores:}
 {18001}{}{**END-PAR**}
 {18002}{}{Mensaje enviado: Patrulla Reguladora a Base Reguladora,}
-{18003}{}{corto. øMe recibe? Cambio.}
+{18003}{}{corto. ¬øMe recibe? Cambio.}
 {18004}{}{**END-PAR**}
-{18005}{}{Mensaje recibido: AquÌ base Reguladora, Regulador}
-{18006}{}{Principal Caleb al aparato. øInforma? Cambio.}
+{18005}{}{Mensaje recibido: Aqu√≠ base Reguladora, Regulador}
+{18006}{}{Principal Caleb al aparato. ¬øInforma? Cambio.}
 {18007}{}{**END-PAR**}
-{18008}{}{Mensaje enviado: °SeÒor, sÌ seÒor! Regulador de Segunda}
+{18008}{}{Mensaje enviado: ¬°Se√±or, s√≠ se√±or! Regulador de Segunda}
 {18009}{}{Clase Cravotta informando. Hemos atrapado al chico de}
-{18010}{}{Zimmerman intentando infiltrarse en nuestro perÌmetro de}
-{18011}{}{nuevo, seÒor. ø”rdenes? Cambio.}
+{18010}{}{Zimmerman intentando infiltrarse en nuestro per√≠metro de}
+{18011}{}{nuevo, se√±or. ¬ø√ìrdenes? Cambio.}
 {18012}{}{**END-PAR**}
-{18013}{}{Mensaje recibido: °Mierda! °øOtra vez?! Pues ser· la}
-{18014}{}{˙ltima vez que ocurra. Eliminadle y haced que parezca}
+{18013}{}{Mensaje recibido: ¬°Mierda! ¬°¬øOtra vez?! Pues ser√° la}
+{18014}{}{√∫ltima vez que ocurra. Eliminadle y haced que parezca}
 {18015}{}{que fue cosa de los Navajas.}
-{18016}{}{øEntendido? Cambio.}
+{18016}{}{¬øEntendido? Cambio.}
 {18017}{}{**END-PAR**}
-{18018}{}{Mensaje enviado: øSeÒor? ø... he oÌdo correctamente,}
-{18019}{}{seÒor? øMatarle? Cambio.}
+{18018}{}{Mensaje enviado: ¬øSe√±or? ¬ø... he o√≠do correctamente,}
+{18019}{}{se√±or? ¬øMatarle? Cambio.}
 {18020}{}{**END-PAR**}
 {18021}{}{Mensaje recibido: Afirmativo, Regulador.}
 {18022}{}{Y que sea aparente. Empaladle en los postes de guardia}
 {18023}{}{de la entrada... oh, y cortadle la lengua para que no}
 {18024}{}{pueda hablar mientras "intentamos" salvar a ese}
-{18025}{}{desgraciado. øCambio?}
+{18025}{}{desgraciado. ¬øCambio?}
 {18026}{}{**END-PAR**}
-{18027}{}{Mensaje enviado: AsÌ se har·, seÒor. Cambio y corto.}
+{18027}{}{Mensaje enviado: As√≠ se har√°, se√±or. Cambio y corto.}
 {18028}{}{**END-PAR**}
-{18029}{}{Fin transmisiÛn.}
+{18029}{}{Fin transmisi√≥n.}
 {18030}{}{**END-DISK**}

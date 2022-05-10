@@ -1,28 +1,28 @@
-{100}{}{Estás viendo a un miembro de los Seguidores.}
+{100}{}{EstÃ¡s viendo a un miembro de los Seguidores.}
 {101}{}{Ves: al Hermano Alan, de los Seguidores.}
-{102}{}{Ey, saludos y buenos días para ti, señor. ¿Qué cuenta?}
-{103}{}{Buenas. ¿Qué puedo hacer por ti?}
+{102}{}{Ey, saludos y buenos dÃ­as para ti, seÃ±or. Â¿QuÃ© cuenta?}
+{103}{}{Buenas. Â¿QuÃ© puedo hacer por ti?}
 {104}{}{Hola.}
-{105}{}{Ey, saludos y buenos días para ti, señorita. ¿Qué cuenta?}
-{106}{}{¡Owuuwngh!}
+{105}{}{Ey, saludos y buenos dÃ­as para ti, seÃ±orita. Â¿QuÃ© cuenta?}
+{106}{}{Â¡Owuuwngh!}
 {107}{}{Hola.}
-{108}{}{He conocido a algunos de los Seguidores. ¿Qué es lo que haces exactamente?}
-{109}{}{Intento encontrar a un espía entre los vuestros, pero no estoy teniendo mucha suerte. ¿Te puedo hacer algunas preguntas?}
-{110}{}{Oh, bueno, sobre todo estudio filosofía y cosas así. Quiero decir, si vamos a predicar paz, entonces necesitaremos un buen soporte, ¿no?}
+{108}{}{He conocido a algunos de los Seguidores. Â¿QuÃ© es lo que haces exactamente?}
+{109}{}{Intento encontrar a un espÃ­a entre los vuestros, pero no estoy teniendo mucha suerte. Â¿Te puedo hacer algunas preguntas?}
+{110}{}{Oh, bueno, sobre todo estudio filosofÃ­a y cosas asÃ­. Quiero decir, si vamos a predicar paz, entonces necesitaremos un buen soporte, Â¿no?}
 {111}{}{Una noble causa.}
-{112}{}{¡La única filosofía que necesitas es una buena arma!}
-{113}{}{Umm. Vale. Bueno, hablaremos en otra ocasión.}
-{114}{}{¡Guau! Ey, creo que no puedo ayudarte.}
-{115}{}{Ey, esa es exactamente el tipo de actitud que está causando todos estos problemas. ¿Solo relájate, quieres?}
+{112}{}{Â¡La Ãºnica filosofÃ­a que necesitas es una buena arma!}
+{113}{}{Umm. Vale. Bueno, hablaremos en otra ocasiÃ³n.}
+{114}{}{Â¡Guau! Ey, creo que no puedo ayudarte.}
+{115}{}{Ey, esa es exactamente el tipo de actitud que estÃ¡ causando todos estos problemas. Â¿Solo relÃ¡jate, quieres?}
 {116}{}{Heh. Solo bromeaba.}
-{117}{}{Déjame darte algo de paz... paz eterna.}
+{117}{}{DÃ©jame darte algo de paz... paz eterna.}
 {118}{}{Uh, claro, adelante.}
-{119}{}{¿Qué más quieres saber?}
-{120}{}{¿Has tenido algún contacto con los Niños de la Catedral?}
-{121}{}{¿Sales alguna vez de la librería?}
-{122}{}{¿Sabes de alguien que salga con regularidad?}
-{123}{}{Ni hablar. He oído que todos son están locos. No querría hablar con ellos.}
-{124}{}{No, ¿por qué lo haría? Me gusta leer. Y de todos modos, solo los exploradores salen.}
-{125}{}{Bueno, solo los exploradores y los guardias. Los guardias salen y patrullan de vez en cuando. Quiero ser un guardia, pero... bueno, soy malísimo en combate cuerpo a cuerpo, y no podría. Um, los exploradores, se alejan mucho más, algunas veces creo que incluso hasta la Catedral.}
-{126}{}{No más preguntas, gracias.}
-{127}{}{[Más]}
+{119}{}{Â¿QuÃ© mÃ¡s quieres saber?}
+{120}{}{Â¿Has tenido algÃºn contacto con los NiÃ±os de la Catedral?}
+{121}{}{Â¿Sales alguna vez de la librerÃ­a?}
+{122}{}{Â¿Sabes de alguien que salga con regularidad?}
+{123}{}{Ni hablar. He oÃ­do que todos son estÃ¡n locos. No querrÃ­a hablar con ellos.}
+{124}{}{No, Â¿por quÃ© lo harÃ­a? Me gusta leer. Y de todos modos, solo los exploradores salen.}
+{125}{}{Bueno, solo los exploradores y los guardias. Los guardias salen y patrullan de vez en cuando. Quiero ser un guardia, pero... bueno, soy malÃ­simo en combate cuerpo a cuerpo, y no podrÃ­a. Um, los exploradores, se alejan mucho mÃ¡s, algunas veces creo que incluso hasta la Catedral.}
+{126}{}{No mÃ¡s preguntas, gracias.}
+{127}{}{[MÃ¡s]}

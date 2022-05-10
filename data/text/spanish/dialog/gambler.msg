@@ -1,38 +1,38 @@
-{100}{}{Estás viendo a un hombre mejicano de aspecto descuidado con el pelo liso.}
-{101}{}{Ves: a Hernández, el pícaro jugador.}
-{102}{}{Oye, muchacho, déjame presentarme: Soy Hernández, ¡un tío de mucho gusto! Parece que eres nuevo aquí. Por favor, permíteme hablarte del Casino.}
-{103}{}{¿Qué me puedes contar del Casino?}
+{100}{}{EstÃ¡s viendo a un hombre mejicano de aspecto descuidado con el pelo liso.}
+{101}{}{Ves: a HernÃ¡ndez, el pÃ­caro jugador.}
+{102}{}{Oye, muchacho, dÃ©jame presentarme: Soy HernÃ¡ndez, Â¡un tÃ­o de mucho gusto! Parece que eres nuevo aquÃ­. Por favor, permÃ­teme hablarte del Casino.}
+{103}{}{Â¿QuÃ© me puedes contar del Casino?}
 {104}{}{No, gracias.}
-{105}{}{¿Ehh?}
-{106}{}{¡Por supuesto! Este establecimiento elegante está dirigido por el famoso Gizmo. Un verdadero visionario y un hombre muy rico.}
+{105}{}{Â¿Ehh?}
+{106}{}{Â¡Por supuesto! Este establecimiento elegante estÃ¡ dirigido por el famoso Gizmo. Un verdadero visionario y un hombre muy rico.}
 {107}{}{Gracias.}
-{108}{}{Dices que Gizmo es un visionario. ¿Cuál es su visión?}
-{109}{}{¿Cuáles son las posibilidades en el juego de aquí?}
-{110}{}{Amigo, no me gusta imponerme, pero quizás puedas ayudarme. He inventado un sistema infalible porque he descubierto cómo lleva las mesas Gizmo, pero no tengo chapas para jugar.}
-{111}{}{(Te da la impresión de que quiere engañarte.)}
-{112}{}{Quizás quieras invertir unas cuantas chapas. Puedo asegurarte que ganarás.}
+{108}{}{Dices que Gizmo es un visionario. Â¿CuÃ¡l es su visiÃ³n?}
+{109}{}{Â¿CuÃ¡les son las posibilidades en el juego de aquÃ­?}
+{110}{}{Amigo, no me gusta imponerme, pero quizÃ¡s puedas ayudarme. He inventado un sistema infalible porque he descubierto cÃ³mo lleva las mesas Gizmo, pero no tengo chapas para jugar.}
+{111}{}{(Te da la impresiÃ³n de que quiere engaÃ±arte.)}
+{112}{}{QuizÃ¡s quieras invertir unas cuantas chapas. Puedo asegurarte que ganarÃ¡s.}
 {113}{}{Claro, suena bien.}
 {114}{}{No, gracias.}
-{115}{}{Creo que mientes. Quieres engañarme.}
-{116}{}{Lo siento, manito. Eh, déjame enseñarte un juego...}
-{117}{}{Muchas gracias, ¡manito! (Acepta las 100 chapas que le das.) Dentro de unos días podré devolverte tus chapas con intereses. Mi sistema es lento, ya ves; exige mucha paciencia, ¡pero seguro que trae muchas chapas!}
-{118}{}{Muy bien, ¡pero te garantizo el éxito! Si quieres formar parte de los ricos, vuelve pronto; o ¡me buscaré a otro compañero!}
-{119}{}{Amigo, veo que también eres un hombre de gustos selectos. ¿Qué tal una simple partida de dados?}
-{120}{}{¡Muy bien!}
-{121}{}{No, gracias, preferiría probar otra cosa.}
-{122}{}{Gizmo soñaba en crear un lugar donde la gente pudiera encontrarse y divertirse. Tenía la ambición de llevarlo a la práctica. El resultado es el casino que ves aquí.}
-{123}{}{Le da a la gente la oportunidad de olvidar sus preocupaciones de este mundo exterior asqueroso. ¡Y encima trae chapas a Ciudad Vertedero!}
+{115}{}{Creo que mientes. Quieres engaÃ±arme.}
+{116}{}{Lo siento, manito. Eh, dÃ©jame enseÃ±arte un juego...}
+{117}{}{Muchas gracias, Â¡manito! (Acepta las 100 chapas que le das.) Dentro de unos dÃ­as podrÃ© devolverte tus chapas con intereses. Mi sistema es lento, ya ves; exige mucha paciencia, Â¡pero seguro que trae muchas chapas!}
+{118}{}{Muy bien, Â¡pero te garantizo el Ã©xito! Si quieres formar parte de los ricos, vuelve pronto; o Â¡me buscarÃ© a otro compaÃ±ero!}
+{119}{}{Amigo, veo que tambiÃ©n eres un hombre de gustos selectos. Â¿QuÃ© tal una simple partida de dados?}
+{120}{}{Â¡Muy bien!}
+{121}{}{No, gracias, preferirÃ­a probar otra cosa.}
+{122}{}{Gizmo soÃ±aba en crear un lugar donde la gente pudiera encontrarse y divertirse. TenÃ­a la ambiciÃ³n de llevarlo a la prÃ¡ctica. El resultado es el casino que ves aquÃ­.}
+{123}{}{Le da a la gente la oportunidad de olvidar sus preocupaciones de este mundo exterior asqueroso. Â¡Y encima trae chapas a Ciudad Vertedero!}
 {124}{}{Parece una buena idea.}
-{125}{}{La vida ya es muy dura de por sí. No comparto la causa de alguien que anima a la gente a perder sus chapas.}
+{125}{}{La vida ya es muy dura de por sÃ­. No comparto la causa de alguien que anima a la gente a perder sus chapas.}
 {126}{}{Obviamente no eres tan listo como Gizmo. En este lugar se puede uno escapar de la dura vida diaria.}
-{127}{}{Bueno, Gizmo posee un sitio muy bueno, aunque al parecer, la suerte esté, digamos, demasiado en favor de la casa. Lo que no significa por lo tanto que hagan trampas. A no ser que tengas un sistema, como yo, tendrás que ser muy listo.}
+{127}{}{Bueno, Gizmo posee un sitio muy bueno, aunque al parecer, la suerte estÃ©, digamos, demasiado en favor de la casa. Lo que no significa por lo tanto que hagan trampas. A no ser que tengas un sistema, como yo, tendrÃ¡s que ser muy listo.}
 {128}{}{Gracias.}
 {129}{}{}
-{130}{}{¿Cómo va tu sistema?}
+{130}{}{Â¿CÃ³mo va tu sistema?}
 {131}{}{Nada, gracias.}
-{132}{}{Mi sistema se desarrolla lentamente. Tengo un montón de gastos, ya sabes, ¡pero funciona!}
-{133}{}{¿Fantástico?}
-{134}{}{Creo que eres un mentiroso y un tramposo. ¿Dónde están mis chapas?}
-{135}{}{Así que piensas que me has ganado, ¿eh? Bueno, ¡no obtendrás nada de mí!}
-{136}{}{¡Buenos días, manita! ¿Qué puedo hacer por ti hoy?}
-{137}{}{¡Buenos días, manita! ¿Qué puedo hacer por ti hoy?}
+{132}{}{Mi sistema se desarrolla lentamente. Tengo un montÃ³n de gastos, ya sabes, Â¡pero funciona!}
+{133}{}{Â¿FantÃ¡stico?}
+{134}{}{Creo que eres un mentiroso y un tramposo. Â¿DÃ³nde estÃ¡n mis chapas?}
+{135}{}{AsÃ­ que piensas que me has ganado, Â¿eh? Bueno, Â¡no obtendrÃ¡s nada de mÃ­!}
+{136}{}{Â¡Buenos dÃ­as, manita! Â¿QuÃ© puedo hacer por ti hoy?}
+{137}{}{Â¡Buenos dÃ­as, manita! Â¿QuÃ© puedo hacer por ti hoy?}

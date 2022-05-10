@@ -1,6 +1,6 @@
-{100}{}{Este es un holodisco que detalla el CÛdigo de Conducta de la Hermandad.}
+{100}{}{Este es un holodisco que detalla el C√≥digo de Conducta de la Hermandad.}
 {101}{}{Pip-Boy 2000 muestra: "Descargando datos... Abortando, los datos ya existen."}
-{102}{}{Pip-Boy 2000 muestra: "Descargando datos... ... ... completado. °Que tenga un buen dÌa!".}
-{103}{}{Est·s viendo un disco decodificador de mensajes cifrados.}
-{104}{}{Est·s viendo un holodisco.}
-{105}{}{Parece que est· hecho para ser insertado en un terminal de ordenador para ejecutar algoritmos de descifrado.}
+{102}{}{Pip-Boy 2000 muestra: "Descargando datos... ... ... completado. ¬°Que tenga un buen d√≠a!".}
+{103}{}{Est√°s viendo un disco decodificador de mensajes cifrados.}
+{104}{}{Est√°s viendo un holodisco.}
+{105}{}{Parece que est√° hecho para ser insertado en un terminal de ordenador para ejecutar algoritmos de descifrado.}

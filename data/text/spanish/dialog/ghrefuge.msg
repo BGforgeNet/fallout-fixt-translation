@@ -1,47 +1,47 @@
-{100}{}{Estás viendo a un necrófago refugiado.}
+{100}{}{EstÃ¡s viendo a un necrÃ³fago refugiado.}
 {101}{}{Por favor, no me mates.}
-{102}{}{Cállate y puede que te deje vivir.}
+{102}{}{CÃ¡llate y puede que te deje vivir.}
 {103}{}{No te preocupes, no mereces la pena.}
-{104}{}{¿Qué pasó aquí?}
+{104}{}{Â¿QuÃ© pasÃ³ aquÃ­?}
 {105}{}{Gah.}
-{106}{}{Tú... ¡me vas a matar de todas maneras!}
+{106}{}{TÃº... Â¡me vas a matar de todas maneras!}
 {107}{}{Ah, oh. Vale.}
-{108}{}{Bien, quédate así.}
-{109}{}{Ahora dime que ha pasado aquí.}
-{110}{}{¡Vas a matarme!}
-{111}{}{Ah, ¿no me habías dicho que me callara?}
+{108}{}{Bien, quÃ©date asÃ­.}
+{109}{}{Ahora dime que ha pasado aquÃ­.}
+{110}{}{Â¡Vas a matarme!}
+{111}{}{Ah, Â¿no me habÃ­as dicho que me callara?}
 {112}{}{Muere ahora.}
-{113}{}{Sí, y ahora quiero saber qué ha pasado aquí.}
-{114}{}{Los Supermutantes atacaron. Estábamos perdidos. Tenían pistolas y bombas, incluso algunas vagonetas a vapor. Mataron a mis amigos. Los mutantes nos machacaron como tú probablemente harás conmigo.}
-{115}{}{Los Supermutantes atacaron. Estábamos perdidos. Tenían pistolas y bombas, incluso algunas vagonetas a vapor. Mataron a mis amigos. Los mutantes nos machacaron.}
-{116}{}{¿Qué es una vagoneta a vapor?}
-{117}{}{¿Cómo sobreviviste?}
-{118}{}{¿Sabes por qué?}
-{119}{}{No lo sé.}
+{113}{}{SÃ­, y ahora quiero saber quÃ© ha pasado aquÃ­.}
+{114}{}{Los Supermutantes atacaron. EstÃ¡bamos perdidos. TenÃ­an pistolas y bombas, incluso algunas vagonetas a vapor. Mataron a mis amigos. Los mutantes nos machacaron como tÃº probablemente harÃ¡s conmigo.}
+{115}{}{Los Supermutantes atacaron. EstÃ¡bamos perdidos. TenÃ­an pistolas y bombas, incluso algunas vagonetas a vapor. Mataron a mis amigos. Los mutantes nos machacaron.}
+{116}{}{Â¿QuÃ© es una vagoneta a vapor?}
+{117}{}{Â¿CÃ³mo sobreviviste?}
+{118}{}{Â¿Sabes por quÃ©?}
+{119}{}{No lo sÃ©.}
 {120}{}{Gracias.}
-{121}{}{Eres un inútil.}
-{122}{}{Me he enterado de que fueron liquidados; un humano mató a sus hombres aquí.}
-{123}{}{Oh, uh, ¿algo más?}
-{124}{}{Mmm. Vale. Sal de aquí.}
+{121}{}{Eres un inÃºtil.}
+{122}{}{Me he enterado de que fueron liquidados; un humano matÃ³ a sus hombres aquÃ­.}
+{123}{}{Oh, uh, Â¿algo mÃ¡s?}
+{124}{}{Mmm. Vale. Sal de aquÃ­.}
 {125}{}{No.}
 {126}{}{Gracias.}
-{127}{}{Eres un inútil.}
-{128}{}{Me he enterado de que algunos de esos necrófagos asquerosos puede haber sobrevivido, y la idea no me gusta nada.}
+{127}{}{Eres un inÃºtil.}
+{128}{}{Me he enterado de que algunos de esos necrÃ³fagos asquerosos puede haber sobrevivido, y la idea no me gusta nada.}
 {129}{}{Vale, gracias.}
-{130}{}{¿Es eso?}
-{131}{}{Sí, eso es.}
+{130}{}{Â¿Es eso?}
+{131}{}{SÃ­, eso es.}
 {132}{}{Vale, gracias.}
-{133}{}{Me escondí hasta que casi todos los mutantes se marcharon.}
-{134}{}{¿Algo más?}
-{135}{}{Una cosa grande que se movía con ruedas, pero no estaba tirada por un brahmin.}
-{136}{}{Mmm, vale. ¿Algo más?}
-{137}{}{Es una tontería.}
-{138}{}{Eh, entonces, ¿por qué preguntaste sobre eso?}
-{139}{}{¡Eso es! ¡Bastante insolente!}
-{140}{}{Solo quería saber. Eso es todo.}
-{141}{}{Usted de nuevo? Qué quieres ahora?}
-{142}{}{¿Más noticias?}
+{133}{}{Me escondÃ­ hasta que casi todos los mutantes se marcharon.}
+{134}{}{Â¿Algo mÃ¡s?}
+{135}{}{Una cosa grande que se movÃ­a con ruedas, pero no estaba tirada por un brahmin.}
+{136}{}{Mmm, vale. Â¿Algo mÃ¡s?}
+{137}{}{Es una tonterÃ­a.}
+{138}{}{Eh, entonces, Â¿por quÃ© preguntaste sobre eso?}
+{139}{}{Â¡Eso es! Â¡Bastante insolente!}
+{140}{}{Solo querÃ­a saber. Eso es todo.}
+{141}{}{Usted de nuevo? QuÃ© quieres ahora?}
+{142}{}{Â¿MÃ¡s noticias?}
 {143}{}{Solo charlaba.}
-{144}{}{No. Bueno, me he enterado de que llegan más Supermutantes. No sé cuándo.}
+{144}{}{No. Bueno, me he enterado de que llegan mÃ¡s Supermutantes. No sÃ© cuÃ¡ndo.}
 {145}{}{Mmm. Vale.}
-{146}{}{Entonces hazlo en otro sitio. Aquí no te dejaré.}
+{146}{}{Entonces hazlo en otro sitio. AquÃ­ no te dejarÃ©.}

@@ -1,159 +1,159 @@
 {100}{}{Ves: a Bob, propietario del Delicias de Iguana.}
 {101}{}{Vale, vale, tengo tu dinero.}
-{102}{}{Tengo más gastos. Necesito que me subas el sueldo.}
-{103}{}{Entérate. Quiero TODO tu dinero, AHORA, o eres hombre muerto Bob.}
-{104}{}{No aguanto más. No quiero cancelar los sueldos.}
-{105}{}{Háblame de Decker.}
-{106}{}{Háblame de Doc Mórbid.}
+{102}{}{Tengo mÃ¡s gastos. Necesito que me subas el sueldo.}
+{103}{}{EntÃ©rate. Quiero TODO tu dinero, AHORA, o eres hombre muerto Bob.}
+{104}{}{No aguanto mÃ¡s. No quiero cancelar los sueldos.}
+{105}{}{HÃ¡blame de Decker.}
+{106}{}{HÃ¡blame de Doc MÃ³rbid.}
 {107}{}{Dame un pincho moruno de iguana.}
 {108}{}{Lo siento, pero ya no pienso pagar. Haz lo que quieras conmigo.}
-{109}{}{Bob, ¡creí que éramos amigos! De hecho, estaba pensando ascenderte en mi organización. Y en vez de eso, tú me traicionas. Menuda decepción...}
-{110}{}{Bob, ¿por qué debo tomar un no como respuesta, especialmente de un idiota como tú?}
+{109}{}{Bob, Â¡creÃ­ que Ã©ramos amigos! De hecho, estaba pensando ascenderte en mi organizaciÃ³n. Y en vez de eso, tÃº me traicionas. Menuda decepciÃ³n...}
+{110}{}{Bob, Â¿por quÃ© debo tomar un no como respuesta, especialmente de un idiota como tÃº?}
 {111}{}{Estoy contento de ver que te vales por ti mismo.}
-{112}{}{Tu reputación es historia, Bob. ¡His-to-ria!}
-{113}{}{Bueno, decidiré qué hacer contigo más tarde.}
-{114}{}{Bueno, Bob, ha sido un placer conocerte. Saluda a Satanás de mi parte.}
-{115}{}{¿Qué haces de vuelta tan pronto? No es momento de pagarte.}
-{116}{}{Demuestras mucho valor asomando el pescuezo por aquí. ¡Piérdete!}
-{117}{}{Eh, ¡no quiero líos!}
-{118}{}{¡Hola! Bienvenida al Delicias de Iguana propiedad de Bob, un lugar de reunión para toda la familia. ¿Qué deseas?}
+{112}{}{Tu reputaciÃ³n es historia, Bob. Â¡His-to-ria!}
+{113}{}{Bueno, decidirÃ© quÃ© hacer contigo mÃ¡s tarde.}
+{114}{}{Bueno, Bob, ha sido un placer conocerte. Saluda a SatanÃ¡s de mi parte.}
+{115}{}{Â¿QuÃ© haces de vuelta tan pronto? No es momento de pagarte.}
+{116}{}{Demuestras mucho valor asomando el pescuezo por aquÃ­. Â¡PiÃ©rdete!}
+{117}{}{Eh, Â¡no quiero lÃ­os!}
+{118}{}{Â¡Hola! Bienvenida al Delicias de Iguana propiedad de Bob, un lugar de reuniÃ³n para toda la familia. Â¿QuÃ© deseas?}
 {119}{}{Vete a la mierda.}
-{120}{}{¿Eres? Bueno, vale...}
-{121}{}{Es un maldito hijo de perra. No te metas con él. ¿Algo más?}
-{122}{}{Bien. ¿Cuánto quieres que te pague?}
+{120}{}{Â¿Eres? Bueno, vale...}
+{121}{}{Es un maldito hijo de perra. No te metas con Ã©l. Â¿Algo mÃ¡s?}
+{122}{}{Bien. Â¿CuÃ¡nto quieres que te pague?}
 {123}{}{Quiero }
-{124}{}{ chapas cada cinco días.}
-{125}{}{¿De Doc Mórbid? Todo lo que sé es que anda por ahí en Ciudad Vertedero y que es la fuente de comida más barata que he podido encontrar. ¡Eso es todo!}
-{126}{}{Déjame ver lo que tengo en el almacén.}
+{124}{}{ chapas cada cinco dÃ­as.}
+{125}{}{Â¿De Doc MÃ³rbid? Todo lo que sÃ© es que anda por ahÃ­ en Ciudad Vertedero y que es la fuente de comida mÃ¡s barata que he podido encontrar. Â¡Eso es todo!}
+{126}{}{DÃ©jame ver lo que tengo en el almacÃ©n.}
 {127}{}{Tengo una iguana entera por veinte pavos.}
 {128}{}{Tengo piezas de primera por ocho pavos cada una.}
-{129}{}{Tomaré uno de esos.}
+{129}{}{TomarÃ© uno de esos.}
 {130}{}{No quiero nada por ahora. Estoy a dieta.}
-{131}{}{Tomaré un plato del día.}
-{132}{}{Ahora mismo voy a por un plato del día. Incluso lo pagaré.}
+{131}{}{TomarÃ© un plato del dÃ­a.}
+{132}{}{Ahora mismo voy a por un plato del dÃ­a. Incluso lo pagarÃ©.}
 {133}{}{Uhh... yo no tengo hambre ahora.}
-{134}{}{¡Bien! ¡Toma tu dinero y lárgate!}
-{135}{}{¡Entérate! ¡Nunca voy a pagarte! ¡Piérdete!}
-{136}{}{Sí, claro. ¿Por qué no vas a molestar a otro?}
-{137}{}{No puedes manejar mierda sin pringarte las manos. ¡Sal de aquí!}
-{138}{}{Seguro que sí. ¡Piérdete!}
+{134}{}{Â¡Bien! Â¡Toma tu dinero y lÃ¡rgate!}
+{135}{}{Â¡EntÃ©rate! Â¡Nunca voy a pagarte! Â¡PiÃ©rdete!}
+{136}{}{SÃ­, claro. Â¿Por quÃ© no vas a molestar a otro?}
+{137}{}{No puedes manejar mierda sin pringarte las manos. Â¡Sal de aquÃ­!}
+{138}{}{Seguro que sÃ­. Â¡PiÃ©rdete!}
 {139}{}{Lo siento. Nos hemos quedado sin iguana.}
-{140}{}{Claro. Por ahora todo lo que tengo son iguanas enteras. Treinta pavos cada uno. No encontraras una iguana asada mejor en el yermo, ¡te lo garantizo!}
-{141}{}{Solo tenemos platos del día. Pero están muy buenos. Ocho pavos cada uno.}
-{142}{}{Claro. Tenemos pinchos de iguana por veinte pavos cada uno y nuestro plato del día por ocho pavos.}
-{143}{}{Tomaré iguana.}
-{144}{}{Tomaré el plato del día.}
-{145}{}{Me he enterado que vuestro plato del día sabe a pollo. ¿Es que os gusta comer tíos cobardes?}
-{146}{}{¡No poco! ¡Yo querer iguana! ¡Ugh!}
-{147}{}{Mmm, ¡oler bien! ¡Yo querer el plato del día!}
-{148}{}{Nunca he visto ninguno por aquí. Los Mercaderes de Agua no los necesitan.}
-{149}{}{¿Mercaderes de Agua?}
-{150}{}{El señor Decker es un hombre de negocios distinguido que trabaja en un negocio que no lo es tanto. ¿Algo más?}
+{140}{}{Claro. Por ahora todo lo que tengo son iguanas enteras. Treinta pavos cada uno. No encontraras una iguana asada mejor en el yermo, Â¡te lo garantizo!}
+{141}{}{Solo tenemos platos del dÃ­a. Pero estÃ¡n muy buenos. Ocho pavos cada uno.}
+{142}{}{Claro. Tenemos pinchos de iguana por veinte pavos cada uno y nuestro plato del dÃ­a por ocho pavos.}
+{143}{}{TomarÃ© iguana.}
+{144}{}{TomarÃ© el plato del dÃ­a.}
+{145}{}{Me he enterado que vuestro plato del dÃ­a sabe a pollo. Â¿Es que os gusta comer tÃ­os cobardes?}
+{146}{}{Â¡No poco! Â¡Yo querer iguana! Â¡Ugh!}
+{147}{}{Mmm, Â¡oler bien! Â¡Yo querer el plato del dÃ­a!}
+{148}{}{Nunca he visto ninguno por aquÃ­. Los Mercaderes de Agua no los necesitan.}
+{149}{}{Â¿Mercaderes de Agua?}
+{150}{}{El seÃ±or Decker es un hombre de negocios distinguido que trabaja en un negocio que no lo es tanto. Â¿Algo mÃ¡s?}
 {151}{}{Um... vale...}
-{152}{}{¿Qué tipo de negocio?}
-{153}{}{¿De qué estás hablando?}
-{154}{}{Tus ingredientes secretos. ¿Cuánto tiempo debe pasar antes de que un cadáver amargue? ¿Qué utilizáis? ¿Humanos, mutantes o una mezcla?}
-{155}{}{Encontré una factura en la guarida de Doc Mórbid. Una factura por cadáveres...}
+{152}{}{Â¿QuÃ© tipo de negocio?}
+{153}{}{Â¿De quÃ© estÃ¡s hablando?}
+{154}{}{Tus ingredientes secretos. Â¿CuÃ¡nto tiempo debe pasar antes de que un cadÃ¡ver amargue? Â¿QuÃ© utilizÃ¡is? Â¿Humanos, mutantes o una mezcla?}
+{155}{}{EncontrÃ© una factura en la guarida de Doc MÃ³rbid. Una factura por cadÃ¡veres...}
 {156}{}{Si has perdido la memoria, puedo que en cambio hable con el Sheriff.}
-{157}{}{¡¡¡¡El plato del día está hecho con personas!!!! ¡¡¡¡Está hecho con personas!!!}
-{158}{}{Nada. Siento haber sacado el tema. ¿Puedo hacer algo más por ti?}
-{159}{}{Bueno, ahora está muerto y mi cifra de negocios ha aumentado gracias a él.}
-{160}{}{Alguien mató a Decker. Estamos de luto. *risa*}
-{161}{}{Alguien disparó al Sheriff Greene. No sé nada de su suplente.}
-{162}{}{Daren Hightower fue asesinado. Y todo ese dinero no pudo salvarlo. Irónico, ¿no?}
-{163}{}{Alguien robó un collar de los Hightower. Han cometido un tremendo error. ¡Pronto serán hombres muertos!}
-{164}{}{Alguien asesinó a Jain en la Catedral. ¡Me contaron que era una verdadera pesada!}
-{165}{}{Bueno, la única novedad es que los Niños de la Catedral se han hecho cargo del hospital. Este sitio es bastante aburrido últimamente.}
-{166}{}{¿Algo más?}
-{167}{}{Tía, estaré fuera del negocio una semana. Algo más, ¿alto y fuerte?}
+{157}{}{Â¡Â¡Â¡Â¡El plato del dÃ­a estÃ¡ hecho con personas!!!! Â¡Â¡Â¡Â¡EstÃ¡ hecho con personas!!!}
+{158}{}{Nada. Siento haber sacado el tema. Â¿Puedo hacer algo mÃ¡s por ti?}
+{159}{}{Bueno, ahora estÃ¡ muerto y mi cifra de negocios ha aumentado gracias a Ã©l.}
+{160}{}{Alguien matÃ³ a Decker. Estamos de luto. *risa*}
+{161}{}{Alguien disparÃ³ al Sheriff Greene. No sÃ© nada de su suplente.}
+{162}{}{Daren Hightower fue asesinado. Y todo ese dinero no pudo salvarlo. IrÃ³nico, Â¿no?}
+{163}{}{Alguien robÃ³ un collar de los Hightower. Han cometido un tremendo error. Â¡Pronto serÃ¡n hombres muertos!}
+{164}{}{Alguien asesinÃ³ a Jain en la Catedral. Â¡Me contaron que era una verdadera pesada!}
+{165}{}{Bueno, la Ãºnica novedad es que los NiÃ±os de la Catedral se han hecho cargo del hospital. Este sitio es bastante aburrido Ãºltimamente.}
+{166}{}{Â¿Algo mÃ¡s?}
+{167}{}{TÃ­a, estarÃ© fuera del negocio una semana. Algo mÃ¡s, Â¿alto y fuerte?}
 {168}{}{No me gusta tu actitud.}
-{169}{}{Lo siento, no puedes permitírtelo.}
-{170}{}{¡Aquí tienes tu iguana! ¿Algo más?}
-{171}{}{¿Sabes de qué está hecho y todavía quieres uno? ¡A tu lado Decker parece un santo! ¿Algo más?}
+{169}{}{Lo siento, no puedes permitÃ­rtelo.}
+{170}{}{Â¡AquÃ­ tienes tu iguana! Â¿Algo mÃ¡s?}
+{171}{}{Â¿Sabes de quÃ© estÃ¡ hecho y todavÃ­a quieres uno? Â¡A tu lado Decker parece un santo! Â¿Algo mÃ¡s?}
 {172}{}{No me gusta tu actitud.}
-{173}{}{Lo siento, no puedes permitírtelo.}
-{174}{}{¡Aquí tienes tu plato del día! ¿Algo más?}
-{175}{}{Elección inteligente. Puedes permitirte perder algunos kilitos.}
-{176}{}{Qu...¿qué? Oh, ya veo, estás bromeando...}
-{177}{}{Por supuesto que sí...}
-{178}{}{No lo estoy. Vengo a ver cómo pagas por tu crimen.}
+{173}{}{Lo siento, no puedes permitÃ­rtelo.}
+{174}{}{Â¡AquÃ­ tienes tu plato del dÃ­a! Â¿Algo mÃ¡s?}
+{175}{}{ElecciÃ³n inteligente. Puedes permitirte perder algunos kilitos.}
+{176}{}{Qu...Â¿quÃ©? Oh, ya veo, estÃ¡s bromeando...}
+{177}{}{Por supuesto que sÃ­...}
+{178}{}{No lo estoy. Vengo a ver cÃ³mo pagas por tu crimen.}
 {179}{}{No lo estoy. Y quiero participar.}
-{180}{}{No debes llevar mucho en la ciudad si me preguntas por los Mercaderes de Agua. El agua es vida. Y no se llega a ser más importante que la vida y la muerte.}
-{181}{}{¿Quién está al cargo de los Mercaderes de Agua?}
-{182}{}{Todo lo relacionado con la miseria y el sufrimiento en el Eje, lo controla Decker o quiere controlarlo. ¿Algo más?}
-{183}{}{¡No sé de lo que estás hablando y no me gustan tus calumnias! Te sugiero que no aparezcas por aquí otra vez.}
-{184}{}{¡No lo hagas! Vale, he estado utilizando algunas raciones dudosas, pero no es como si hubiera cometido asesinato. Las mercancías de Doc Mórbid están ya muertas, ¿verdad?}
-{185}{}{Seguro que sí, Bob. Que tengas un buen día...}
-{186}{}{El canibalismo es un crimen contra la humanidad, Bob. Haré lo que pueda para que pagues por ello.}
-{187}{}{Quizá sí. Quizá no. No me importa. Quiero participar.}
-{188}{}{¡No tan alto! No necesito que se entere todo el Eje...}
-{189}{}{Creo que no fui amable. Que tengas un buen día...}
-{190}{}{Ya sabes, la comisaría de policía está al otro lado de la calle. Tendré que darme un paseíto.}
-{191}{}{Puedo hablar más alto. Pero también puedo callarme. Los gritos son baratos, el silencio es caro.}
-{192}{}{¿Cómo demonios voy a pagarte si te comes todas mis existencias? ¡Bueno! ¡Tómate otra iguana! ¡A ver si te atragantas!}
+{180}{}{No debes llevar mucho en la ciudad si me preguntas por los Mercaderes de Agua. El agua es vida. Y no se llega a ser mÃ¡s importante que la vida y la muerte.}
+{181}{}{Â¿QuiÃ©n estÃ¡ al cargo de los Mercaderes de Agua?}
+{182}{}{Todo lo relacionado con la miseria y el sufrimiento en el Eje, lo controla Decker o quiere controlarlo. Â¿Algo mÃ¡s?}
+{183}{}{Â¡No sÃ© de lo que estÃ¡s hablando y no me gustan tus calumnias! Te sugiero que no aparezcas por aquÃ­ otra vez.}
+{184}{}{Â¡No lo hagas! Vale, he estado utilizando algunas raciones dudosas, pero no es como si hubiera cometido asesinato. Las mercancÃ­as de Doc MÃ³rbid estÃ¡n ya muertas, Â¿verdad?}
+{185}{}{Seguro que sÃ­, Bob. Que tengas un buen dÃ­a...}
+{186}{}{El canibalismo es un crimen contra la humanidad, Bob. HarÃ© lo que pueda para que pagues por ello.}
+{187}{}{QuizÃ¡ sÃ­. QuizÃ¡ no. No me importa. Quiero participar.}
+{188}{}{Â¡No tan alto! No necesito que se entere todo el Eje...}
+{189}{}{Creo que no fui amable. Que tengas un buen dÃ­a...}
+{190}{}{Ya sabes, la comisarÃ­a de policÃ­a estÃ¡ al otro lado de la calle. TendrÃ© que darme un paseÃ­to.}
+{191}{}{Puedo hablar mÃ¡s alto. Pero tambiÃ©n puedo callarme. Los gritos son baratos, el silencio es caro.}
+{192}{}{Â¿CÃ³mo demonios voy a pagarte si te comes todas mis existencias? Â¡Bueno! Â¡TÃ³mate otra iguana! Â¡A ver si te atragantas!}
 {193}{}{No me gusta tu actitud.}
-{194}{}{Eres tozuda. Si quieres dinero, te lo doy. Si quieres comida, te la doy. Si quieres morir, yo lo arreglo. Pero "que te guste" no forma parte de la ecuación.}
+{194}{}{Eres tozuda. Si quieres dinero, te lo doy. Si quieres comida, te la doy. Si quieres morir, yo lo arreglo. Pero "que te guste" no forma parte de la ecuaciÃ³n.}
 {195}{}{Nada que pueda imaginar. Ahora, si me disculpas, tengo un negocio que dirigir.}
 {196}{}{Lo siento, nos hemos quedado sin iguana.}
 {197}{}{Solo tenemos pinchos morunos de iguana. Veinte pavos.}
-{198}{}{Solo tenemos plato del día. Ocho pavos.}
-{199}{}{¿Otra vez? ¡Vaya saque! Tenemos pinchos morunos de iguana por veinte pavos y nuestro plato del día por ocho pavos.}
-{200}{}{Tomaré iguana.}
-{201}{}{Tomaré el plato del día.}
-{202}{}{Me he enterado que vuestro plato del día sabe a pollo. ¿Es que os gusta comer tíos cobardes?}
-{203}{}{¡No poco! ¡Yo querer iguana! ¡Ugh!}
-{204}{}{Mmm, ¡oler bien! ¡Yo querer el plato del día!}
-{205}{}{¿Cómo demonios voy a pagarte si te comes todas mis existencias? ¡Bueno! ¡Tómate otra iguana! ¡A ver si te atragantas!}
+{198}{}{Solo tenemos plato del dÃ­a. Ocho pavos.}
+{199}{}{Â¿Otra vez? Â¡Vaya saque! Tenemos pinchos morunos de iguana por veinte pavos y nuestro plato del dÃ­a por ocho pavos.}
+{200}{}{TomarÃ© iguana.}
+{201}{}{TomarÃ© el plato del dÃ­a.}
+{202}{}{Me he enterado que vuestro plato del dÃ­a sabe a pollo. Â¿Es que os gusta comer tÃ­os cobardes?}
+{203}{}{Â¡No poco! Â¡Yo querer iguana! Â¡Ugh!}
+{204}{}{Mmm, Â¡oler bien! Â¡Yo querer el plato del dÃ­a!}
+{205}{}{Â¿CÃ³mo demonios voy a pagarte si te comes todas mis existencias? Â¡Bueno! Â¡TÃ³mate otra iguana! Â¡A ver si te atragantas!}
 {206}{}{No me gusta tu actitud.}
-{207}{}{Uh, adiós.}
-{208}{}{Espera un minuto. ¡Tengo que encontrar una manera de ponernos de acuerdo!}
-{209}{}{La única manera de cerrarme el pico es matándome.}
+{207}{}{Uh, adiÃ³s.}
+{208}{}{Espera un minuto. Â¡Tengo que encontrar una manera de ponernos de acuerdo!}
+{209}{}{La Ãºnica manera de cerrarme el pico es matÃ¡ndome.}
 {210}{}{Lo siento, no hay trato.}
-{211}{}{Bien. ¿Qué saco de esto?}
-{212}{}{Bien. ¿Cuánto quieres que te pague?}
+{211}{}{Bien. Â¿QuÃ© saco de esto?}
+{212}{}{Bien. Â¿CuÃ¡nto quieres que te pague?}
 {213}{}{Quiero }
 {214}{}{50}
 {215}{}{75}
 {216}{}{100}
 {217}{}{150}
 {218}{}{200}
-{219}{}{ chapas cada cinco días.}
-{220}{}{No creo que te haga chantaje. Continúa.}
-{221}{}{Amiga, yo cambiaría de opinión si fuera tú. La gente muere por mucho menos en el Eje.}
+{219}{}{ chapas cada cinco dÃ­as.}
+{220}{}{No creo que te haga chantaje. ContinÃºa.}
+{221}{}{Amiga, yo cambiarÃ­a de opiniÃ³n si fuera tÃº. La gente muere por mucho menos en el Eje.}
 {222}{}{Bien. Es un trato. }
-{223}{}{ chapas, cada cinco días. Creo que te veré en cinco...}
-{224}{}{No voy a hacerlo de ninguna manera. No puedo permitirme pagarte más de lo que estoy pagando.}
-{225}{}{Qué pena, Bob. No me gustaría tener que cantar.}
+{223}{}{ chapas, cada cinco dÃ­as. Creo que te verÃ© en cinco...}
+{224}{}{No voy a hacerlo de ninguna manera. No puedo permitirme pagarte mÃ¡s de lo que estoy pagando.}
+{225}{}{QuÃ© pena, Bob. No me gustarÃ­a tener que cantar.}
 {226}{}{Bien. Nos quedaremos como estamos... por ahora.}
-{227}{}{¿Puedes permitirte un funeral, Bob?}
-{228}{}{Bueno. Lo mejor será que nuestros caminos no vuelvan a cruzarse.}
-{229}{}{Tú podrás ser un pájaro cantor pero yo soy la gallina de los huevos de oro. Y tú no vas a cantar, más que nada porque soy la única gallina que tienes. ¡Ahora sal de aquí!}
-{230}{}{La primera cosa sensata que dices. ¡Ahora sal de aquí!}
+{227}{}{Â¿Puedes permitirte un funeral, Bob?}
+{228}{}{Bueno. Lo mejor serÃ¡ que nuestros caminos no vuelvan a cruzarse.}
+{229}{}{TÃº podrÃ¡s ser un pÃ¡jaro cantor pero yo soy la gallina de los huevos de oro. Y tÃº no vas a cantar, mÃ¡s que nada porque soy la Ãºnica gallina que tienes. Â¡Ahora sal de aquÃ­!}
+{230}{}{La primera cosa sensata que dices. Â¡Ahora sal de aquÃ­!}
 {231}{}{Dame un pincho moruno de iguana.}
-{232}{}{¿Sabes algo de un Chip de Agua?}
-{233}{}{¿Me puedes contar algo acerca de Decker?}
-{234}{}{Creo que tenemos que hablar de Doc Mórbid y de tus ingredientes secretos.}
-{235}{}{¿Sabes algo de las caravanas desaparecidas?}
-{236}{}{¿Qué? ¿Líos, yo? ¿Qué te da esa impresión?}
-{237}{}{¿Ocurre algo interesante en el Eje?}
-{238}{}{¡Tener hambre! ¡Grrrrr!}
-{239}{}{Un negocio terrible. Esa pobre gente. Oh, esa pobre gente. ¡Malgastando sus vidas de esa manera tan estúpida! ¿Puedo hacer algo más por ti? ¿Alimentarte quizás?}
-{240}{}{Nada, adiós.}
+{232}{}{Â¿Sabes algo de un Chip de Agua?}
+{233}{}{Â¿Me puedes contar algo acerca de Decker?}
+{234}{}{Creo que tenemos que hablar de Doc MÃ³rbid y de tus ingredientes secretos.}
+{235}{}{Â¿Sabes algo de las caravanas desaparecidas?}
+{236}{}{Â¿QuÃ©? Â¿LÃ­os, yo? Â¿QuÃ© te da esa impresiÃ³n?}
+{237}{}{Â¿Ocurre algo interesante en el Eje?}
+{238}{}{Â¡Tener hambre! Â¡Grrrrr!}
+{239}{}{Un negocio terrible. Esa pobre gente. Oh, esa pobre gente. Â¡Malgastando sus vidas de esa manera tan estÃºpida! Â¿Puedo hacer algo mÃ¡s por ti? Â¿Alimentarte quizÃ¡s?}
+{240}{}{Nada, adiÃ³s.}
 {241}{}{Yo irme ahora.}
 {242}{}{No tengo tanto dinero. Apenas llego a fin de mes tal y como estoy ahora.}
-{243}{}{¡¿Treinta chapas?! ¿Estás bromeando?}
-{244}{}{Mira imbécil, tú eres el que me ha destrozado mi margen de beneficios. Así que si no te gustan mis precios, vete a la mierda. Hay muchos establecimientos de iguana por aquí. Oh, espera, no los hay. Imbécil.}
-{245}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Ahora, si no estás aquí para comprar, lárgate de mi vista.}
-{246}{}{Lo que sea. Adiós.}
+{243}{}{Â¡Â¿Treinta chapas?! Â¿EstÃ¡s bromeando?}
+{244}{}{Mira imbÃ©cil, tÃº eres el que me ha destrozado mi margen de beneficios. AsÃ­ que si no te gustan mis precios, vete a la mierda. Hay muchos establecimientos de iguana por aquÃ­. Oh, espera, no los hay. ImbÃ©cil.}
+{245}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Ahora, si no estÃ¡s aquÃ­ para comprar, lÃ¡rgate de mi vista.}
+{246}{}{Lo que sea. AdiÃ³s.}
 {247}{}{De hecho, ahora que lo pienso, estoy bastante hambriento.}
 {250}{}{ puntos de experiencia por extorsionar a Bob para que pague por tu silencio.}
-{251}{}{¿Cómo va el negocio, Bob? *guiño*}
-{252}{}{¿Qué demonios haces aquí? Cierras mi negocio y seguro que recibes una gran recompensa. ¿Estás aquí para regodearte o qué?}
-{253}{}{Bastante, sí. ¿Cómo va el negocio, Bob? [le guiñas el ojo]}
+{251}{}{Â¿CÃ³mo va el negocio, Bob? *guiÃ±o*}
+{252}{}{Â¿QuÃ© demonios haces aquÃ­? Cierras mi negocio y seguro que recibes una gran recompensa. Â¿EstÃ¡s aquÃ­ para regodearte o quÃ©?}
+{253}{}{Bastante, sÃ­. Â¿CÃ³mo va el negocio, Bob? [le guiÃ±as el ojo]}
 {254}{}{Nah, comprobando como te iba.}
-{255}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Hasta donde yo sé podrían dejarme morir aquí.}
+{255}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Hasta donde yo sÃ© podrÃ­an dejarme morir aquÃ­.}
 {256}{}{Te lo mereces.}
-{257}{}{Podría hacer que te matasen ahora mismo, si es que lo prefieres a esperar.}
-{258}{}{¡Preguntaré si podemos convertirte en Delicias de Iguana después de tu ejecución!}
+{257}{}{PodrÃ­a hacer que te matasen ahora mismo, si es que lo prefieres a esperar.}
+{258}{}{Â¡PreguntarÃ© si podemos convertirte en Delicias de Iguana despuÃ©s de tu ejecuciÃ³n!}
 {259}{}{Lo que sea. Vete a la mierda.}
 {260}{}{Vete.}

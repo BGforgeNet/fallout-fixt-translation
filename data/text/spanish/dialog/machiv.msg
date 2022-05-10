@@ -1,5 +1,5 @@
 {100}{}{Delante ti ves un ordenador Mach IV.}
 {101}{}{Parece como si el sistema estuviese en un estado de reinicio.}
-{102}{}{Parece que el sistema est· bloqueado.}
+{102}{}{Parece que el sistema est√° bloqueado.}
 {103}{}{El monitor parpadea.}
-{104}{}{La pantalla muestra extraÒos patrones de color.}
+{104}{}{La pantalla muestra extra√±os patrones de color.}

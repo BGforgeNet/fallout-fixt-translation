@@ -1,7 +1,7 @@
-{100}{}{La cage d'ascenseur n'est pas facile à descendre sans corde.}
-{101}{}{Tu réussis à suspendre une corde dans la cage d'ascenseur.}
-{102}{}{Tu ne peux pas redescendre la cage en n'utilisant que la poutre métallique.}
-{103}{}{Tu réussis à attacher la corde à la poutre métallique.}
-{104}{}{La cage d'ascenseur n'est pas facile à descendre sans corde.}
-{105}{}{Tu réussis à suspendre une corde dans la cage d'ascenseur.}
+{100}{}{La cage d'ascenseur n'est pas facile Ã  descendre sans corde.}
+{101}{}{Tu rÃ©ussis Ã  suspendre une corde dans la cage d'ascenseur.}
+{102}{}{Tu ne peux pas redescendre la cage en n'utilisant que la poutre mÃ©tallique.}
+{103}{}{Tu rÃ©ussis Ã  attacher la corde Ã  la poutre mÃ©tallique.}
+{104}{}{La cage d'ascenseur n'est pas facile Ã  descendre sans corde.}
+{105}{}{Tu rÃ©ussis Ã  suspendre une corde dans la cage d'ascenseur.}
 {106}{}{Inutile de fixer une autre corde dans la cage d'ascenseur.}

@@ -1,1 +1,1 @@
-{100}{}{Voici la bibliothèque de l'Abri. Les postes sont reliés à l'ordinateur central. Ils transmettent diverses connaissances et compétences aux habitants.}
+{100}{}{Voici la bibliothÃ¨que de l'Abri. Les postes sont reliÃ©s Ã  l'ordinateur central. Ils transmettent diverses connaissances et compÃ©tences aux habitants.}

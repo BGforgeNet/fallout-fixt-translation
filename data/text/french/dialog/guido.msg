@@ -1,8 +1,8 @@
 {100}{}{Voici Guido.}
-{101}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau ‡ quelqu'un..}
-{102}{}{Ah, on s'en fout de la mÈthode ! On n'est pas des artistes, on est des professionnels. Euh, LÈone, y'a quelqu'un qu'essaie de nous causer. C'est pas prÈvu qu'on tue dans ces cas-l‡ ?}
-{103}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau ‡ quelqu'un..}
-{104}{}{J'suis pas payÈ pour causer.}
-{105}{}{Ah, on s'en fout de la mÈthode ! On n'est pas des artistes, on est des professionnels. Euh, LÈone, y'a quelqu'un qu'essaie de nous causer. C'est pas prÈvu qu'on tue dans ces cas-l‡ ?}
-{106}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau ‡ quelqu'un..}
-{107}{}{Ah, on s'en fout de la mÈthode ! On n'est pas des artistes, on est des professionnels. Euh, LÈone, y'a quelqu'un qu'essaie de nous causer. C'est pas prÈvu qu'on tue dans ces cas-l‡ ?}
+{101}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau √† quelqu'un..}
+{102}{}{Ah, on s'en fout de la m√©thode ! On n'est pas des artistes, on est des professionnels. Euh, L√©one, y'a quelqu'un qu'essaie de nous causer. C'est pas pr√©vu qu'on tue dans ces cas-l√† ?}
+{103}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau √† quelqu'un..}
+{104}{}{J'suis pas pay√© pour causer.}
+{105}{}{Ah, on s'en fout de la m√©thode ! On n'est pas des artistes, on est des professionnels. Euh, L√©one, y'a quelqu'un qu'essaie de nous causer. C'est pas pr√©vu qu'on tue dans ces cas-l√† ?}
+{106}{}{Ah, t'utilises rien que la force. Il m'en faut pas tant pour faire la peau √† quelqu'un..}
+{107}{}{Ah, on s'en fout de la m√©thode ! On n'est pas des artistes, on est des professionnels. Euh, L√©one, y'a quelqu'un qu'essaie de nous causer. C'est pas pr√©vu qu'on tue dans ces cas-l√† ?}

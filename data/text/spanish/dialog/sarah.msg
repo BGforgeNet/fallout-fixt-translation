@@ -1,24 +1,24 @@
-{100}{}{¡Oh, Dios mío, lo mataste!}
-{101}{}{¡Unm!}
+{100}{}{Â¡Oh, Dios mÃ­o, lo mataste!}
+{101}{}{Â¡Unm!}
 {102}{}{Mala suerte.}
-{103}{}{Él era mi enemigo. Tenía que matarlo.}
-{104}{}{Lo siento. No sabía que era tan importante para ti.}
-{105}{}{¡No tenías por qué matarle! [Sarah llora.] Déjame en paz.}
+{103}{}{Ã‰l era mi enemigo. TenÃ­a que matarlo.}
+{104}{}{Lo siento. No sabÃ­a que era tan importante para ti.}
+{105}{}{Â¡No tenÃ­as por quÃ© matarle! [Sarah llora.] DÃ©jame en paz.}
 {106}{}{Era mi amante. Era mi mejor amigo. No puedo creer que le hicieras eso.}
-{107}{}{Lo siento mucho. ¿Cómo podía saber yo que significaba tanto para ti? Mírale. Es un mutante.}
+{107}{}{Lo siento mucho. Â¿CÃ³mo podÃ­a saber yo que significaba tanto para ti? MÃ­rale. Es un mutante.}
 {108}{}{Voy a matar a todos los de su especie.}
-{109}{}{Era un ser humano. Solo podía sobrevivir sometiéndose al baño. Tú lo mataste.}
+{109}{}{Era un ser humano. Solo podÃ­a sobrevivir sometiÃ©ndose al baÃ±o. TÃº lo mataste.}
 {110}{}{Lo siento.}
-{111}{}{Oh, vaya. Por lo menos ya tengo un muerto más en el currículum.}
-{112}{}{Imbécil.}
-{113}{}{¿Qué estás haciendo fuera de tu célula protectora?}
-{114}{}{¡Zug-zug!}
+{111}{}{Oh, vaya. Por lo menos ya tengo un muerto mÃ¡s en el currÃ­culum.}
+{112}{}{ImbÃ©cil.}
+{113}{}{Â¿QuÃ© estÃ¡s haciendo fuera de tu cÃ©lula protectora?}
+{114}{}{Â¡Zug-zug!}
 {115}{}{Dando una vuelta.}
 {116}{}{No soy un prisionero.}
 {117}{}{No gracias, ya tengo novio.}
-{118}{}{Deberías estar en tu celda. Los guardias nos tienen aquí por nuestra propia seguridad. Los robots están programados para atacar a los normales sin escolta. Una vez haya recibido el baño, podré ayudar a la Unidad.}
-{119}{}{Sí, claro. Lo que sea. Diviértete.}
-{120}{}{¿Quieres hacer eso?}
+{118}{}{DeberÃ­as estar en tu celda. Los guardias nos tienen aquÃ­ por nuestra propia seguridad. Los robots estÃ¡n programados para atacar a los normales sin escolta. Una vez haya recibido el baÃ±o, podrÃ© ayudar a la Unidad.}
+{119}{}{SÃ­, claro. Lo que sea. DiviÃ©rtete.}
+{120}{}{Â¿Quieres hacer eso?}
 {121}{}{Por supuesto, es la mejor oportunidad de subsistencia que tiene la humanidad.}
-{122}{}{¡Guau! Creo que te vas a meter en muchos líos. Por favor, no te acerques demasiado a mí.}
-{123}{}{¡Discúlpanos, estamos hablando!}
+{122}{}{Â¡Guau! Creo que te vas a meter en muchos lÃ­os. Por favor, no te acerques demasiado a mÃ­.}
+{123}{}{Â¡DiscÃºlpanos, estamos hablando!}

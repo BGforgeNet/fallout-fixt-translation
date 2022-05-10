@@ -1,2 +1,2 @@
-{100}{}{Ves: a un necrófago resplandeciente.}
+{100}{}{Ves: a un necrÃ³fago resplandeciente.}
 {101}{}{Pasas sin permiso.}

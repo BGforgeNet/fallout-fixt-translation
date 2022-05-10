@@ -1,31 +1,31 @@
-{100}{}{Voici un technicien. Il travaille d'arrache-pied pour l'Unité et le Maître.}
-{101}{}{Nous faisons le travail du Maître.}
-{102}{}{Nous faisons le travail du Maître ! Personne ne peut noue interrompre !}
-{103}{}{Maître ! Une intrusion !}
-{200}{}{Voici Vicieux, un chef des super mutants. Il a l'air déplaisant.}
-{201}{}{Voici un super mutant à l'air déplaisant.}
-{202}{}{Que la volonté du Maître règne ! Quelles nouvelles me rapportes-tu ?}
+{100}{}{Voici un technicien. Il travaille d'arrache-pied pour l'UnitÃ© et le MaÃ®tre.}
+{101}{}{Nous faisons le travail du MaÃ®tre.}
+{102}{}{Nous faisons le travail du MaÃ®tre ! Personne ne peut noue interrompre !}
+{103}{}{MaÃ®tre ! Une intrusion !}
+{200}{}{Voici Vicieux, un chef des super mutants. Il a l'air dÃ©plaisant.}
+{201}{}{Voici un super mutant Ã  l'air dÃ©plaisant.}
+{202}{}{Que la volontÃ© du MaÃ®tre rÃ¨gne ! Quelles nouvelles me rapportes-tu ?}
 {203}{}{Grr !}
 {204}{}{Euh, la guerre se passe bien.}
-{205}{}{J'ai un message pour le Maître de la part de son Lieutenant. Je dois voir le Maître sur-le-champ.}
-{206}{}{Les seules nouvelles, c'est que tu vas pas tarder à faire de l'engrais.}
+{205}{}{J'ai un message pour le MaÃ®tre de la part de son Lieutenant. Je dois voir le MaÃ®tre sur-le-champ.}
+{206}{}{Les seules nouvelles, c'est que tu vas pas tarder Ã  faire de l'engrais.}
 {207}{}{Une intrusion !}
-{208}{}{Qui que tu sois, tes manières te trahissent. Ta menace a assez duré !}
-{209}{}{Tu plaisantes certainement. Ou plutôt, tu mens !}
+{208}{}{Qui que tu sois, tes maniÃ¨res te trahissent. Ta menace a assez durÃ© !}
+{209}{}{Tu plaisantes certainement. Ou plutÃ´t, tu mens !}
 {210}{}{Euh, ouais, et alors ?}
-{211}{}{Mais non. Le Lieutenant n'a pas voulu transmettre ce message par les voies habituelles. Je dois voir le Maître sur le champ ! C'est urgent !}
+{211}{}{Mais non. Le Lieutenant n'a pas voulu transmettre ce message par les voies habituelles. Je dois voir le MaÃ®tre sur le champ ! C'est urgent !}
 {212}{}{Bon, passe par la porte, et fais attention au Couloir. Je suppose que tu as ta protection en place ?}
-{213}{}{Bien sûr. Merci. Que l'Unité règne !}
+{213}{}{Bien sÃ»r. Merci. Que l'UnitÃ© rÃ¨gne !}
 {214}{}{Non, pas vraiment. Il faut ?}
-{215}{}{Bien sûr ! Espère pas passer le corridor sans ça. Qu'est-ce que t'as fait de ton annulateur ?}
-{216}{}{Je l'ai laissé dans mes autres robes.}
+{215}{}{Bien sÃ»r ! EspÃ¨re pas passer le corridor sans Ã§a. Qu'est-ce que t'as fait de ton annulateur ?}
+{216}{}{Je l'ai laissÃ© dans mes autres robes.}
 {217}{}{Le Lieutenant n'a pas eu le temps de m'en donner un.}
-{218}{}{Ah, c'te bonne blague. [S'interrompt] J'en n'ai pas, ça se voit. Faut que t'ailles en chercher un au deuxième étage. Que l'Unité règne !}
-{219}{}{Ou il a fait l'imbécile, ou tu n'es pas ce que tu parais être. Alors ?}
-{220}{}{C'est évident, c'est un imbécile.}
-{221}{}{La deuxiéme solution.}
-{222}{}{File et poursuis ta mission. J'ai pas de temps à perdre avec toi.}
-{300}{}{Il y a un petit tas de mégots dans le coin de la pièce.}
-{301}{}{Le super mutant se dirige vers un côté de la pièce et allume une cigarette.}
-{302}{}{Ce super mutant a une cigarette qui pendouille aux lèvres.}
-{303}{}{Le super mutant jette le mégot dans le coin.}
+{218}{}{Ah, c'te bonne blague. [S'interrompt] J'en n'ai pas, Ã§a se voit. Faut que t'ailles en chercher un au deuxiÃ¨me Ã©tage. Que l'UnitÃ© rÃ¨gne !}
+{219}{}{Ou il a fait l'imbÃ©cile, ou tu n'es pas ce que tu parais Ãªtre. Alors ?}
+{220}{}{C'est Ã©vident, c'est un imbÃ©cile.}
+{221}{}{La deuxiÃ©me solution.}
+{222}{}{File et poursuis ta mission. J'ai pas de temps Ã  perdre avec toi.}
+{300}{}{Il y a un petit tas de mÃ©gots dans le coin de la piÃ¨ce.}
+{301}{}{Le super mutant se dirige vers un cÃ´tÃ© de la piÃ¨ce et allume une cigarette.}
+{302}{}{Ce super mutant a une cigarette qui pendouille aux lÃ¨vres.}
+{303}{}{Le super mutant jette le mÃ©got dans le coin.}

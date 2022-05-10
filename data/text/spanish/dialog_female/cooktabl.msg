@@ -1,2 +1,2 @@
-{100}{}{Parece que la mesa est· llena de productos que los cocineros est·n utilizando para hacer la comida.}
-{101}{}{La comida a˙n no est· cocinada. Te pondr·s mala si la comes cruda.}
+{100}{}{Parece que la mesa est√° llena de productos que los cocineros est√°n utilizando para hacer la comida.}
+{101}{}{La comida a√∫n no est√° cocinada. Te pondr√°s mala si la comes cruda.}

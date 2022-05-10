@@ -1,17 +1,17 @@
-{100}{}{Estás viendo a un yonqui.}
-{101}{}{¡Este lugar está muy bien! Está mucho mejor que el que tenía antes.}
-{102}{}{¡Me gusta estar aquí!}
-{103}{}{Hay mucho espacio. Si pudiera, tendría más espacio.}
-{104}{}{¿Dónde está mi perro?}
+{100}{}{EstÃ¡s viendo a un yonqui.}
+{101}{}{Â¡Este lugar estÃ¡ muy bien! EstÃ¡ mucho mejor que el que tenÃ­a antes.}
+{102}{}{Â¡Me gusta estar aquÃ­!}
+{103}{}{Hay mucho espacio. Si pudiera, tendrÃ­a mÃ¡s espacio.}
+{104}{}{Â¿DÃ³nde estÃ¡ mi perro?}
 {105}{}{Tengo sed.}
-{106}{}{¿Tienes comida?}
+{106}{}{Â¿Tienes comida?}
 {107}{}{Tengo hambre.}
-{108}{}{¿Todavía no es hora de irse a la cama?}
+{108}{}{Â¿TodavÃ­a no es hora de irse a la cama?}
 {109}{}{Puedes ocupar mi antigua casa.}
-{110}{}{Estoy cansado, ¿por qué estás aquí?}
-{111}{}{¡Ésta es mi casa! ¡Vete!}
-{112}{}{¡Ésta es mi casa! ¡Vete!}
-{113}{}{¿Dónde está mi almohada?}
-{114}{}{Tengo sueño.}
-{115}{}{No me hagas daño.}
-{116}{}{¡Tú eres quien haces daño a la gente!}
+{110}{}{Estoy cansado, Â¿por quÃ© estÃ¡s aquÃ­?}
+{111}{}{Â¡Ã‰sta es mi casa! Â¡Vete!}
+{112}{}{Â¡Ã‰sta es mi casa! Â¡Vete!}
+{113}{}{Â¿DÃ³nde estÃ¡ mi almohada?}
+{114}{}{Tengo sueÃ±o.}
+{115}{}{No me hagas daÃ±o.}
+{116}{}{Â¡TÃº eres quien haces daÃ±o a la gente!}

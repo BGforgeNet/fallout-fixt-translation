@@ -1,5 +1,5 @@
 {100}{}{Voici La Forge.}
-{101}{}{Tu veux discuter après ce que tu as fait ? Va te faire voir !}
+{101}{}{Tu veux discuter aprÃ¨s ce que tu as fait ? Va te faire voir !}
 {102}{}{Le patron t'a dit de te barrer, alors barre-toi !}
-{103}{}{On ne parle pas aux étrangers !}
-{104}{}{Allez, salut ! Va traîner ailleurs.}
+{103}{}{On ne parle pas aux Ã©trangers !}
+{104}{}{Allez, salut ! Va traÃ®ner ailleurs.}

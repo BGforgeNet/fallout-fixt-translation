@@ -1,8 +1,8 @@
-{101}{}{Los comerciantes de la caravana no tuvieron ninguna oportunidad. Est·n todos muertos.}
+{101}{}{Los comerciantes de la caravana no tuvieron ninguna oportunidad. Est√°n todos muertos.}
 {102}{}{Parece como si los mutantes estuvieran muy bien armados. Los comerciantes de la caravana no tuvieron ninguna oportunidad para luchar en contra de este tipo de potencia de fuego.}
-{103}{}{Est·n muertos.}
-{104}{}{Puedes tener por seguro que est· muerto.}
-{105}{}{Entre toda la carne y m˙sculo mutado, uno de ellos te parece familiar. Es uno de los exploradores que tu Refugio enviÛ. Este nunca volviÛ a casa...}
-{106}{}{Entre toda la carne y m˙sculo mutado, reconoces a uno: es Sean, uno de los exploradores que tu Refugio enviÛ unos meses antes de que te marcharas.}
-{107}{}{Todos los mutantes est·n muertos. Uno de ellos te parece familiar; sin embargo no reconoces su "cara".}
+{103}{}{Est√°n muertos.}
+{104}{}{Puedes tener por seguro que est√° muerto.}
+{105}{}{Entre toda la carne y m√∫sculo mutado, uno de ellos te parece familiar. Es uno de los exploradores que tu Refugio envi√≥. Este nunca volvi√≥ a casa...}
+{106}{}{Entre toda la carne y m√∫sculo mutado, reconoces a uno: es Sean, uno de los exploradores que tu Refugio envi√≥ unos meses antes de que te marcharas.}
+{107}{}{Todos los mutantes est√°n muertos. Uno de ellos te parece familiar; sin embargo no reconoces su "cara".}
 {108}{}{Mutantes muertos.}

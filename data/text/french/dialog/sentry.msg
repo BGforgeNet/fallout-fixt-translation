@@ -1,33 +1,33 @@
-{100}{}{Tu vois un Paladin solitaire. Il à l'air en colère et effrayé à la fois.}
-{101}{}{Arrête toi, étranger ! Identifie-toi !}
+{100}{}{Tu vois un Paladin solitaire. Il Ã  l'air en colÃ¨re et effrayÃ© Ã  la fois.}
+{101}{}{ArrÃªte toi, Ã©tranger ! Identifie-toi !}
 {102}{}{Moi }
 {103}{}{.}
 {104}{}{Je m'appelle }
-{105}{}{. Qu'est-ce qui s'est passé ici ?}
+{105}{}{. Qu'est-ce qui s'est passÃ© ici ?}
 {106}{}{Mon nom n'est pas important.}
 {107}{}{Sois prudent, }
-{108}{}{, tu pourrais te blesser. Une armée de méchants mutants est venue est a fait un grand Boom. Tu comprends ?}
+{108}{}{, tu pourrais te blesser. Une armÃ©e de mÃ©chants mutants est venue est a fait un grand Boom. Tu comprends ?}
 {109}{}{Euh ouais.}
-{110}{}{Voilà. Donc, tu devrais trouver un autre endroit où aller. C'est pas sûr ici.}
+{110}{}{VoilÃ . Donc, tu devrais trouver un autre endroit oÃ¹ aller. C'est pas sÃ»r ici.}
 {111}{}{Moi partir.}
-{112}{}{Des mutants. C'était une grande armée. Ils sont venus, ils ont tué tout le monde, prit tout ce qu'ils pouvaient emporter, et laissé cet endroit en ruine.}
-{113}{}{Et comment as-tu fait pour survivre à tout ça ?}
-{114}{}{Je revenais d'une longue patrouille. Quand je suis arrivé la bataille était déjà terminée. Je ne pouvais plus rien faire. Alors je me suis caché et je les ai observés.}
+{112}{}{Des mutants. C'Ã©tait une grande armÃ©e. Ils sont venus, ils ont tuÃ© tout le monde, prit tout ce qu'ils pouvaient emporter, et laissÃ© cet endroit en ruine.}
+{113}{}{Et comment as-tu fait pour survivre Ã  tout Ã§a ?}
+{114}{}{Je revenais d'une longue patrouille. Quand je suis arrivÃ© la bataille Ã©tait dÃ©jÃ  terminÃ©e. Je ne pouvais plus rien faire. Alors je me suis cachÃ© et je les ai observÃ©s.}
 {115}{}{Tu veux dire que tu avais trop peur pour faire quoi que ce soit ?}
-{116}{}{Personne d'autre n'a survécu ?}
-{117}{}{Ecoute, je suis peut-être pas le mec le plus courageux de la Confrérie, mais je ne suis pas un idiot. Il y avait vraiment rien que j'aurais pu faire.}
-{118}{}{Lâche ! Alors reste là et garde ce tas de ruines. Je ferai mieux d'y aller et de tuer quelques mutants pour toi.}
-{119}{}{J'en suis désolé. Est-ce que quelqu'un d'autre a survécu à l'attaque ?}
-{120}{}{Quelques troupes d'éclaireurs, quelques Paladins en patrouille... trop peu pour faire quelque-chose. La Confrérie de l'Acier est presque morte. Je vais rester ici pour le moment, à essayer de réunir le maximum de survivants possible. Je leur expliquerai ce qui s'est passé. Ensuite... ensuite je ne sais pas. J'ai jamais eu l'opportunité d'y penser.}
-{121}{}{Je comprends. Continue à faire du bon travail, Paladin, je dois y aller.}
+{116}{}{Personne d'autre n'a survÃ©cu ?}
+{117}{}{Ecoute, je suis peut-Ãªtre pas le mec le plus courageux de la ConfrÃ©rie, mais je ne suis pas un idiot. Il y avait vraiment rien que j'aurais pu faire.}
+{118}{}{LÃ¢che ! Alors reste lÃ  et garde ce tas de ruines. Je ferai mieux d'y aller et de tuer quelques mutants pour toi.}
+{119}{}{J'en suis dÃ©solÃ©. Est-ce que quelqu'un d'autre a survÃ©cu Ã  l'attaque ?}
+{120}{}{Quelques troupes d'Ã©claireurs, quelques Paladins en patrouille... trop peu pour faire quelque-chose. La ConfrÃ©rie de l'Acier est presque morte. Je vais rester ici pour le moment, Ã  essayer de rÃ©unir le maximum de survivants possible. Je leur expliquerai ce qui s'est passÃ©. Ensuite... ensuite je ne sais pas. J'ai jamais eu l'opportunitÃ© d'y penser.}
+{121}{}{Je comprends. Continue Ã  faire du bon travail, Paladin, je dois y aller.}
 {122}{}{Au revoir, }
-{123}{}{. Si tu rencontres des survivants de la Confrérie pendant tes déplacements, dis leur ce qui s'est passé ici.}
-{124}{}{Arrête toi... Oh, c'est toi, }
+{123}{}{. Si tu rencontres des survivants de la ConfrÃ©rie pendant tes dÃ©placements, dis leur ce qui s'est passÃ© ici.}
+{124}{}{ArrÃªte toi... Oh, c'est toi, }
 {125}{}{.}
 {126}{}{Euh ouais.}
-{127}{}{Oui, c'est moi. Qu'est-ce qui s'est passé ici ?}
+{127}{}{Oui, c'est moi. Qu'est-ce qui s'est passÃ© ici ?}
 {130}{}{Au revoir, }
-{131}{}{. Si tu rencontres des survivants de la Confrérie pendant tes déplacements, dis leur ce qui s'est passé ici.}
-{132}{}{Bien sûr. Je dois vraiment y aller maintenant.}
-{133}{}{Alors tu devrais y aller. Je n'ai rien à te dire.}
-{150}{}{Le Paladin t'ignore. Il semble absorbé par ses pensées.}
+{131}{}{. Si tu rencontres des survivants de la ConfrÃ©rie pendant tes dÃ©placements, dis leur ce qui s'est passÃ© ici.}
+{132}{}{Bien sÃ»r. Je dois vraiment y aller maintenant.}
+{133}{}{Alors tu devrais y aller. Je n'ai rien Ã  te dire.}
+{150}{}{Le Paladin t'ignore. Il semble absorbÃ© par ses pensÃ©es.}

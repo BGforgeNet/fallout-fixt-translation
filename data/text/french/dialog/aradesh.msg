@@ -1,48 +1,48 @@
 {100}{}{Voici Aradesh.}
-{101}{Ara_1g}{Salutations nomade. Je te prie de ne pas t'offenser si les gens d'ici te paraissent impolis. Comme disait Dharma: "Les épreuves tannent le cuir". Qu'est-ce qui t'amène aux Sables Ombragés ?}
-{102}{Ara_1n}{Salutations. Qu'est-ce qui t'amène aux Sables Ombragés ?}
-{103}{Ara_1b}{Nous n'aimons pas trop les étrangers. Que viens-tu faire aux Sables Ombragés ?}
-{104}{}{Je viens d'un petit village à l'Ouest. Je ne fais que visiter, je ne veux aucun mal.}
+{101}{Ara_1g}{Salutations nomade. Je te prie de ne pas t'offenser si les gens d'ici te paraissent impolis. Comme disait Dharma: "Les Ã©preuves tannent le cuir". Qu'est-ce qui t'amÃ¨ne aux Sables OmbragÃ©s ?}
+{102}{Ara_1n}{Salutations. Qu'est-ce qui t'amÃ¨ne aux Sables OmbragÃ©s ?}
+{103}{Ara_1b}{Nous n'aimons pas trop les Ã©trangers. Que viens-tu faire aux Sables OmbragÃ©s ?}
+{104}{}{Je viens d'un petit village Ã  l'Ouest. Je ne fais que visiter, je ne veux aucun mal.}
 {105}{}{Ca te regarde ?}
 {106}{}{J'ai mes raisons.}
-{107}{}{Je viens d'un Abri situé à l'Ouest. Mon peuple meurt de soif et si je ne trouve pas une puce purificatrice d'eau, il périra.}
+{107}{}{Je viens d'un Abri situÃ© Ã  l'Ouest. Mon peuple meurt de soif et si je ne trouve pas une puce purificatrice d'eau, il pÃ©rira.}
 {108}{}{Je viens sauver tout un peuple de la destruction !}
-{109}{}{Les Sables Ombragés ? Oups, j'ai dû me perdre, je file !}
+{109}{}{Les Sables OmbragÃ©s ? Oups, j'ai dÃ» me perdre, je file !}
 {110}{}{Heeiin ??}
-{111}{Ara_2}{Je ne connais aucun village à l'Ouest.}
-{112}{}{As-tu jamais traversé les montagnes à l'Ouest ?}
+{111}{Ara_2}{Je ne connais aucun village Ã  l'Ouest.}
+{112}{}{As-tu jamais traversÃ© les montagnes Ã  l'Ouest ?}
 {113}{}{Et alors ?}
-{114}{}{Ne me dis pas que tu connais tous les patelins, d'ici jusqu'à l'océan ?}
-{115}{}{Je ne doute pas que tu aies vu du pays, mais mon village est minuscule, tu l'as sans doute manqué.}
-{116}{Ara_3}{Non, à mon grand regret. Ce qui m'amène à te demander comment tu as réussi à venir jusqu'ici ?}
-{117}{}{Ca n'a pas été facile, mais j'ai réussi.}
+{114}{}{Ne me dis pas que tu connais tous les patelins, d'ici jusqu'Ã  l'ocÃ©an ?}
+{115}{}{Je ne doute pas que tu aies vu du pays, mais mon village est minuscule, tu l'as sans doute manquÃ©.}
+{116}{Ara_3}{Non, Ã  mon grand regret. Ce qui m'amÃ¨ne Ã  te demander comment tu as rÃ©ussi Ã  venir jusqu'ici ?}
+{117}{}{Ca n'a pas Ã©tÃ© facile, mais j'ai rÃ©ussi.}
 {118}{}{Ca te regarde ?}
 {119}{}{Je voulais juste faire quelques provisions, mais je me ferai un plaisir d'aller voir ailleurs.}
-{120}{}{Je n'ai pas à te répondre.}
-{121}{Ara_4}{Hmm, oui, bien sûr. Je te crois... pour l'instant. Mais nous ne faisons guère confiance, surtout à ceux qui peuvent s'avérer dangereux. Seth et moi, on t'a à l'oeil.}
-{122}{Ara_5}{C'est ma ville, nomade. Tu dois me répondre ou partir. Tu n'as pas le choix.}
+{120}{}{Je n'ai pas Ã  te rÃ©pondre.}
+{121}{Ara_4}{Hmm, oui, bien sÃ»r. Je te crois... pour l'instant. Mais nous ne faisons guÃ¨re confiance, surtout Ã  ceux qui peuvent s'avÃ©rer dangereux. Seth et moi, on t'a Ã  l'oeil.}
+{122}{Ara_5}{C'est ma ville, nomade. Tu dois me rÃ©pondre ou partir. Tu n'as pas le choix.}
 {123}{}{I don't have to tell you anything.}
 {124}{}{Je ne veux aucun mal, je t'assure.}
 {125}{}{T'en fais pas, je m'en vais.}
-{126}{Ara_6}{Quelle insolence ! Il est préférable que tu partes. Ne reviens pas ou tu le regretteras.}
+{126}{Ara_6}{Quelle insolence ! Il est prÃ©fÃ©rable que tu partes. Ne reviens pas ou tu le regretteras.}
 {127}{Ara_7}{Qu'il en soit ainsi, nomade. Seth va te reconduire.}
-{128}{Ara_8}{Tu dois me croire bien naïf, nomade. Tu as franchi les montagnes sans aide ?}
-{129}{}{Peu importe comment j'ai fait. Je viens des montagnes, c'est la vérité.}
-{130}{}{Pas naïf, seulement bête.}
-{131}{Ara_9}{Comme disait Dharma: "En ces temps troublés, prudence est mère de sûreté." Tes origines importent peu. Mais tes intentions, si.}
+{128}{Ara_8}{Tu dois me croire bien naÃ¯f, nomade. Tu as franchi les montagnes sans aide ?}
+{129}{}{Peu importe comment j'ai fait. Je viens des montagnes, c'est la vÃ©ritÃ©.}
+{130}{}{Pas naÃ¯f, seulement bÃªte.}
+{131}{Ara_9}{Comme disait Dharma: "En ces temps troublÃ©s, prudence est mÃ¨re de sÃ»retÃ©." Tes origines importent peu. Mais tes intentions, si.}
 {132}{}{D'accord.}
-{133}{Ara_9A}{Je te laisse passer, mais n'oublie pas: Seth et moi te surveillons de très près. N'espère pas semer le trouble ici.}
-{134}{Ara_10}{Très bien, garde tes secrets. Mais tu n'es pas dans une ville ouverte à l'hospitalité. Si c'est ce que tu cherches, va à Dépôtville. Entre, mais sache qu'on t'a à l'oeil.}
-{135}{Ara_11}{Un Abri ? Comment pourrais-je te faire confiance alors même que tu me mens...}
+{133}{Ara_9A}{Je te laisse passer, mais n'oublie pas: Seth et moi te surveillons de trÃ¨s prÃ¨s. N'espÃ¨re pas semer le trouble ici.}
+{134}{Ara_10}{TrÃ¨s bien, garde tes secrets. Mais tu n'es pas dans une ville ouverte Ã  l'hospitalitÃ©. Si c'est ce que tu cherches, va Ã  DÃ©pÃ´tville. Entre, mais sache qu'on t'a Ã  l'oeil.}
+{135}{Ara_11}{Un Abri ? Comment pourrais-je te faire confiance alors mÃªme que tu me mens...}
 {136}{}{Je viens vraiment d'un Abri !}
 {137}{}{L'Abri, c'est... le nom de mon village.}
 {138}{}{C'est vrai, j'ai menti.}
-{139}{Ara_12}{Hmm, oui, bien sûr. Alors parle-moi de cet Abri.}
+{139}{Ara_12}{Hmm, oui, bien sÃ»r. Alors parle-moi de cet Abri.}
 {140}{}{Eh bien... on appelle mon village l'Abri parce qu'il se situe entre deux grandes falaises.}
-{141}{}{C'est un endroit immense creusé dans la montagne, loin à l'Ouest. Mon peuple y habite depuis 80 ans.}
-{142}{}{Pourquoi tiens-tu à le savoir ?}
-{143}{Ara_13}{Nomade, je te crois. Tu peux entrer dans les Sables Ombragés, mais sache que nous guetterons chacun de tes faits et gestes.}
-{144}{Ara_14}{Je déteste que l'on me mente, nomade.}
+{141}{}{C'est un endroit immense creusÃ© dans la montagne, loin Ã  l'Ouest. Mon peuple y habite depuis 80 ans.}
+{142}{}{Pourquoi tiens-tu Ã  le savoir ?}
+{143}{Ara_13}{Nomade, je te crois. Tu peux entrer dans les Sables OmbragÃ©s, mais sache que nous guetterons chacun de tes faits et gestes.}
+{144}{Ara_14}{Je dÃ©teste que l'on me mente, nomade.}
 {145}{}{I don't have to tell you anything.}
 {146}{}{Je ne veux aucun mal, je t'assure.}
 {147}{}{T'en fais pas, je m'en vais.}
@@ -50,74 +50,74 @@
 {149}{}{Que peux-tu me dire des villes alentour ?}
 {150}{}{Que se passe-t-il ici ?}
 {151}{}{Merci. Salut.}
-{152}{Ara_17}{Salutations. Te revoilà, jeune nomade. J'espère que ton séjour ici t'est agréable.}
+{152}{Ara_17}{Salutations. Te revoilÃ , jeune nomade. J'espÃ¨re que ton sÃ©jour ici t'est agrÃ©able.}
 {153}{}{Super. Je peux te poser quelques questions ?}
-{154}{}{Très, mais je dois partir maintenant.}
-{155}{}{Ma foi, si on aime les égouts...}
+{154}{}{TrÃ¨s, mais je dois partir maintenant.}
+{155}{}{Ma foi, si on aime les Ã©gouts...}
 {156}{}{Ben...}
 {157}{Ara_18n}{Bonjour. Que puis-je faire pour toi par un si beau jour ?}
-{158}{Ara_18b}{Désires-tu quelque chose ?}
-{159}{}{Peux-tu me parler des Sables Ombragés ?}
+{158}{Ara_18b}{DÃ©sires-tu quelque chose ?}
+{159}{}{Peux-tu me parler des Sables OmbragÃ©s ?}
 {160}{}{Puis-je te poser quelques questions ?}
 {161}{}{Rien ! D'ailleurs, je m'en allais.}
 {162}{}{Ben, euh nan !}
-{163}{Ara_19}{Bien entendu. Que désires-tu savoir ?}
-{164}{Ara_19b}{Demande, mais fais vite. Mon temps est précieux.}
+{163}{Ara_19}{Bien entendu. Que dÃ©sires-tu savoir ?}
+{164}{Ara_19b}{Demande, mais fais vite. Mon temps est prÃ©cieux.}
 {165}{}{Que peux-tu me dire des villes alentour ?}
 {166}{}{Que se passe-t-il ici ?}
 {167}{}{Merci. Salut.}
 {168}{Ara_20g}{Ah. Bon voyage, nomade.}
 {169}{Ara_20n}{Goodbye.}
-{170}{Ara_20b}{J'espère bien.}
-{171}{Ara_21}{Dharma disait: "Celui qui ne tient pas sa langue aura tôt fait de la perdre." Reviens quand tu sauras un peu mieux te conduire.}
+{170}{Ara_20b}{J'espÃ¨re bien.}
+{171}{Ara_21}{Dharma disait: "Celui qui ne tient pas sa langue aura tÃ´t fait de la perdre." Reviens quand tu sauras un peu mieux te conduire.}
 {172}{Ara_22}{Ca suffit ! Seth va te reconduire hors de la ville. Et ne reviens pas ou tu le regretteras.}
 {173}{Ara_23g}{Shady Sands is much like a family, one that keeps to itself.}
-{174}{Ara_23b}{Nous sommes une communauté très soudée. Comme disait Dharma: "Des milliers de brindilles tu peux briser, un fagot, non".}
-{175}{}{Qu'est-ce qu'il y a à voir dans le coin ?}
-{176}{}{Intéressant. Il y a d'autres villes alentour ?}
+{174}{Ara_23b}{Nous sommes une communautÃ© trÃ¨s soudÃ©e. Comme disait Dharma: "Des milliers de brindilles tu peux briser, un fagot, non".}
+{175}{}{Qu'est-ce qu'il y a Ã  voir dans le coin ?}
+{176}{}{IntÃ©ressant. Il y a d'autres villes alentour ?}
 {177}{}{Charmant... Bon, faut que j'y aille.}
-{178}{Ara_24}{Tu trouveras les Jardins au Sud et les Enclos à Brahmines au Nord, mais je crains que l'odeur ne soit incommodante à cette époque de l'année.}
-{179}{}{Et avec ça ?}
-{180}{Ara_24a}{C'est petit ici et nous vivons en autarcie. Il n'y a donc pas grand-chose d'autre à dire.}
+{178}{Ara_24}{Tu trouveras les Jardins au Sud et les Enclos Ã  Brahmines au Nord, mais je crains que l'odeur ne soit incommodante Ã  cette Ã©poque de l'annÃ©e.}
+{179}{}{Et avec Ã§a ?}
+{180}{Ara_24a}{C'est petit ici et nous vivons en autarcie. Il n'y a donc pas grand-chose d'autre Ã  dire.}
 {181}{}{Merci. Je peux encore te poser quelques questions ?}
 {182}{}{Merci. Salut.}
 {183}{Ara_24b}{L'endroit n'est pas grand. Tu as des pieds.}
 {184}{}{Merci. Je peux encore te poser quelques questions ?}
-{185}{Ara_25b}{Dharma disait: "N'écoute pas le loup qui hurle quand le renard rôde autour du poulailler."}
-{186}{Ara_25g}{Dépôtville est au Sud, mais il n'y a pas grand-chose à y faire. Et j'ai entendu parler d'autres villes, encore plus au Sud.}
+{185}{Ara_25b}{Dharma disait: "N'Ã©coute pas le loup qui hurle quand le renard rÃ´de autour du poulailler."}
+{186}{Ara_25g}{DÃ©pÃ´tville est au Sud, mais il n'y a pas grand-chose Ã  y faire. Et j'ai entendu parler d'autres villes, encore plus au Sud.}
 {187}{}{Merci. Je peux encore te poser quelques questions ?}
 {188}{Ara_26}{C'est tranquille en ce moment, Dieu merci.}
 {189}{}{Ca a pas l'air folichon.}
 {190}{}{Eh bien, je peux encore te poser quelques questions ?}
-{191}{}{Tant mieux. Espérons que ça dure.}
-{192}{Ara_27}{Oui. Ca nous plaît ainsi.}
+{191}{}{Tant mieux. EspÃ©rons que Ã§a dure.}
+{192}{Ara_27}{Oui. Ca nous plaÃ®t ainsi.}
 {193}{}{Que peux-tu me dire des villes alentour ?}
 {194}{}{Que se passe-t-il ici ?}
 {195}{}{Merci. Salut.}
-{196}{Ara_28}{Eh bien, des hordes de radscorpions massacrent nos troupeaux. On ignore d'où ils viennent, et plus on en tue, plus il en vient !}
+{196}{Ara_28}{Eh bien, des hordes de radscorpions massacrent nos troupeaux. On ignore d'oÃ¹ ils viennent, et plus on en tue, plus il en vient !}
 {197}{}{Poursuis.}
-{198}{Ara_28a}{Et maintenant, ces monstres attaquent mon peuple ! Razlo tente de trouver un remède à leur poison, mais je ne sais pas ce que ça donne.}
-{199}{}{Je t'aiderai à éliminer ces calamités !}
+{198}{Ara_28a}{Et maintenant, ces monstres attaquent mon peuple ! Razlo tente de trouver un remÃ¨de Ã  leur poison, mais je ne sais pas ce que Ã§a donne.}
+{199}{}{Je t'aiderai Ã  Ã©liminer ces calamitÃ©s !}
 {200}{}{Je peux t'aider moyennant salaire.}
 {201}{}{C'est effrayant... Je peux te poser encore quelques questions ?}
-{202}{Ara_29}{Hmm, oui, bien sûr ! Je t'en prie, adresse-toi à Razlo. Il en sait bien plus long que moi sur ces créatures.}
-{203}{Ara_30}{Comme disait Dharma: "Celui qui confie son troupeau connaît le berger".}
+{202}{Ara_29}{Hmm, oui, bien sÃ»r ! Je t'en prie, adresse-toi Ã  Razlo. Il en sait bien plus long que moi sur ces crÃ©atures.}
+{203}{Ara_30}{Comme disait Dharma: "Celui qui confie son troupeau connaÃ®t le berger".}
 {204}{}{Je sais que tu es avare de ta confiance, mais je t'assure, je peux t'aider.}
 {205}{}{Comme tu veux. Je peux encore te poser quelques questions ?}
-{206}{Ara_30a}{Je t'en prie, hâte-toi de nous débarrasser de ces radscorpions !}
-{207}{Ara_31}{Les choses vont beaucoup mieux. Maintenant que Razlo cherche un remède contre le poison des radscorpions, on devrait pouvoir en venir à bout.}
+{206}{Ara_30a}{Je t'en prie, hÃ¢te-toi de nous dÃ©barrasser de ces radscorpions !}
+{207}{Ara_31}{Les choses vont beaucoup mieux. Maintenant que Razlo cherche un remÃ¨de contre le poison des radscorpions, on devrait pouvoir en venir Ã  bout.}
 {208}{}{Tant mieux. Je peux encore te poser quelques questions ?}
-{209}{}{Ne t'inquiète plus. J'ai détruit le nid.}
-{210}{Ara_32}{Quel héroïsme ! Sache que le peuple des Sables Ombragés t'est très reconnaissant.}
+{209}{}{Ne t'inquiÃ¨te plus. J'ai dÃ©truit le nid.}
+{210}{Ara_32}{Quel hÃ©roÃ¯sme ! Sache que le peuple des Sables OmbragÃ©s t'est trÃ¨s reconnaissant.}
 {211}{}{Merci. Je peux encore te poser quelques questions ?}
 {212}{}{Merci. Au revoir !}
 {213}{Ara_33}{Si tu me comprends, je t'en prie, essaie de retrouver ma fille !}
-{214}{Ara_35}{Depuis que tu m'as ramené Tandi, tout va pour le mieux. Tu as ma reconnaissance éternelle, nomade !}
+{214}{Ara_35}{Depuis que tu m'as ramenÃ© Tandi, tout va pour le mieux. Tu as ma reconnaissance Ã©ternelle, nomade !}
 {215}{}{Que peux-tu me dire des villes alentour ?}
 {216}{}{Que se passe-t-il ici ?}
 {217}{}{Merci. Salut.}
-{218}{Ara_36}{Hmm, oui, bien sûr. Bon séjour !}
-{219}{Ara_37}{Ah, nomade ! Où en sont les recherches pour retrouver ma fille ?}
+{218}{Ara_36}{Hmm, oui, bien sÃ»r. Bon sÃ©jour !}
+{219}{Ara_37}{Ah, nomade ! OÃ¹ en sont les recherches pour retrouver ma fille ?}
 {220}{}{Toujours rien. Mais je la trouverai.}
 {221}{}{Je regrette, elle est morte.}
 {222}{}{Euh... J'sais pas.}
@@ -125,99 +125,99 @@
 {224}{}{C'est long, mais j'avance. Je peux te poser quelques questions ?}
 {225}{}{Grrrr !}
 {226}{Ara_37a}{Merci de tes efforts. Maintenant, laisse-moi seul avec mon chagrin.}
-{227}{Ara_38}{Puissent mes pensées te donner des ailes. Fais vite je t'en prie !}
-{228}{Ara_39}{Dieu merci, te voilà ! J'ai besoin d'aide. Ma fille, Tandi, a disparu. Je ne sais plus quoi faire !}
-{229}{}{Tu as déjà essayé quelque chose pour la sauver ?}
-{230}{}{Gné ?}
-{231}{Ara_39a}{Mon peuple en est incapable. J'ai déjà envoyé trois patrouilles mais pas une n'est revenue. M'aideras-tu ?}
-{232}{}{D'accord. Qui pourrait l'avoir enlevé ?}
+{227}{Ara_38}{Puissent mes pensÃ©es te donner des ailes. Fais vite je t'en prie !}
+{228}{Ara_39}{Dieu merci, te voilÃ  ! J'ai besoin d'aide. Ma fille, Tandi, a disparu. Je ne sais plus quoi faire !}
+{229}{}{Tu as dÃ©jÃ  essayÃ© quelque chose pour la sauver ?}
+{230}{}{GnÃ© ?}
+{231}{Ara_39a}{Mon peuple en est incapable. J'ai dÃ©jÃ  envoyÃ© trois patrouilles mais pas une n'est revenue. M'aideras-tu ?}
+{232}{}{D'accord. Qui pourrait l'avoir enlevÃ© ?}
 {233}{}{Je le ferai... moyennant salaire.}
-{234}{}{Je regrette, j'ai pas que ça à faire.}
-{235}{Ara_40}{Seth et moi pensons que l'un des gangs de pillards est responsable, en représailles de notre résistance. Prends cette lance. Elle a été trouvée là où l'on a vu ma fille pour la dernière fois.}
+{234}{}{Je regrette, j'ai pas que Ã§a Ã  faire.}
+{235}{Ara_40}{Seth et moi pensons que l'un des gangs de pillards est responsable, en reprÃ©sailles de notre rÃ©sistance. Prends cette lance. Elle a Ã©tÃ© trouvÃ©e lÃ  oÃ¹ l'on a vu ma fille pour la derniÃ¨re fois.}
 {236}{}{D'accord, je vais jeter un oeil.}
-{237}{Ara_40A}{Parle à Seth. Il en sait long sur ces pillards. Dieu te protège, nomade.}
-{238}{Ara_41}{Bien sûr, je te récompenserai ! Ramène-la-moi et tu recevras 500 caps. M'aideras-tu ?}
-{239}{}{D'accord. Qui pourrait l'avoir enlevé ?}
-{240}{}{Ah... non merci. J'ai d'autres chats à fouetter.}
-{241}{Ara_42}{Comme disait Dharma: "Si tu pars chasser les loups, prends garde au lion qui rôde." Si tu refuses de m'aider, tu dois partir d'ici.}
-{242}{Ara_43}{Je te serai à jamais reconnaissant pour ton courage et ta bravoure, nomade. Voici ta récompense.}
+{237}{Ara_40A}{Parle Ã  Seth. Il en sait long sur ces pillards. Dieu te protÃ¨ge, nomade.}
+{238}{Ara_41}{Bien sÃ»r, je te rÃ©compenserai ! RamÃ¨ne-la-moi et tu recevras 500 caps. M'aideras-tu ?}
+{239}{}{D'accord. Qui pourrait l'avoir enlevÃ© ?}
+{240}{}{Ah... non merci. J'ai d'autres chats Ã  fouetter.}
+{241}{Ara_42}{Comme disait Dharma: "Si tu pars chasser les loups, prends garde au lion qui rÃ´de." Si tu refuses de m'aider, tu dois partir d'ici.}
+{242}{Ara_43}{Je te serai Ã  jamais reconnaissant pour ton courage et ta bravoure, nomade. Voici ta rÃ©compense.}
 {243}{}{Merci. Mais d'abord, je peux te poser quelques questions ?}
 {244}{}{Merci.}
-{245}{Ara_44}{En espérant te revoir, mon ami. Puisse l'eau que tu trouveras dans le désert ne pas t'illuminer dans la nuit !}
-{246}{Ara_45}{Que fais-tu ? Remets ça en place immédiatement !}
-{247}{Ara_46}{Ca ne t'appartient pas. N'y touche pas, s'il te plaît.}
-{248}{Ara_47}{Arrête immédiatement !}
-{249}{Ara_48}{Que viens-tu faire ? Je me repose, reviens dans la matinée !}
-{250}{Ara_49}{C'est moi. Je gouverne cette humble ville des Sables Ombragés.}
-{251}{Ara_49A}{Dharma était un grand homme, très pieux. Prête une oreille attentive à ses paroles.}
-{252}{Ara_50}{C'est ma fille. Celle qui rend plus douce cette pénible vie.}
-{253}{Ara_51}{Razlo est notre médecin. Si tu souffres, il te soignera. Je parierai qu'il est chez lui en ce moment.}
-{254}{Ara_52}{Va en parler à Seth. Il en saura plus long que moi.}
-{255}{Ara_53}{Une femme merveilleuse. Soixante ans passés et toujours à rebattre les oreilles de ce pauvre Razlo avec ses histoires !}
-{256}{Ara_54}{A notre connaissance, il y a deux bandes qui sévissent: les Vipères et les Khans.}
-{257}{Ara_55}{Sois très prudent ! Ces pillards sont des fanatiques religieux et peuvent être particulièrement dangereux. Personne ne sait où ils se cachent.}
-{258}{Ara_56}{Les Khans sont pires que les Vipères, crois-moi. Ces barbares attaquent depuis le Sud-Est.}
+{245}{Ara_44}{En espÃ©rant te revoir, mon ami. Puisse l'eau que tu trouveras dans le dÃ©sert ne pas t'illuminer dans la nuit !}
+{246}{Ara_45}{Que fais-tu ? Remets Ã§a en place immÃ©diatement !}
+{247}{Ara_46}{Ca ne t'appartient pas. N'y touche pas, s'il te plaÃ®t.}
+{248}{Ara_47}{ArrÃªte immÃ©diatement !}
+{249}{Ara_48}{Que viens-tu faire ? Je me repose, reviens dans la matinÃ©e !}
+{250}{Ara_49}{C'est moi. Je gouverne cette humble ville des Sables OmbragÃ©s.}
+{251}{Ara_49A}{Dharma Ã©tait un grand homme, trÃ¨s pieux. PrÃªte une oreille attentive Ã  ses paroles.}
+{252}{Ara_50}{C'est ma fille. Celle qui rend plus douce cette pÃ©nible vie.}
+{253}{Ara_51}{Razlo est notre mÃ©decin. Si tu souffres, il te soignera. Je parierai qu'il est chez lui en ce moment.}
+{254}{Ara_52}{Va en parler Ã  Seth. Il en saura plus long que moi.}
+{255}{Ara_53}{Une femme merveilleuse. Soixante ans passÃ©s et toujours Ã  rebattre les oreilles de ce pauvre Razlo avec ses histoires !}
+{256}{Ara_54}{A notre connaissance, il y a deux bandes qui sÃ©vissent: les VipÃ¨res et les Khans.}
+{257}{Ara_55}{Sois trÃ¨s prudent ! Ces pillards sont des fanatiques religieux et peuvent Ãªtre particuliÃ¨rement dangereux. Personne ne sait oÃ¹ ils se cachent.}
+{258}{Ara_56}{Les Khans sont pires que les VipÃ¨res, crois-moi. Ces barbares attaquent depuis le Sud-Est.}
 {259}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}
-{260}{Ara_58}{Oui, oui, oui ! C'est une rumeur... un monstre engendré par la Guerre.}
+{260}{Ara_58}{Oui, oui, oui ! C'est une rumeur... un monstre engendrÃ© par la Guerre.}
 {261}{}{}
-{262}{Ara_60}{Dépôtville se trouve au Sud. Leurs marchands viennent parfois jusqu'ici.}
-{263}{Ara_61}{Les Vipères et les Khans se servent de lances. On l'a appris à nos dépens...}
-{264}{Ara_62}{Les Sables Ombragés sont une grande famille, on préfère rester entre nous.}
-{265}{Ara_63}{Personne n'en est sûr, mais le plus gros semble venir du Nord-Est.}
+{262}{Ara_60}{DÃ©pÃ´tville se trouve au Sud. Leurs marchands viennent parfois jusqu'ici.}
+{263}{Ara_61}{Les VipÃ¨res et les Khans se servent de lances. On l'a appris Ã  nos dÃ©pens...}
+{264}{Ara_62}{Les Sables OmbragÃ©s sont une grande famille, on prÃ©fÃ¨re rester entre nous.}
+{265}{Ara_63}{Personne n'en est sÃ»r, mais le plus gros semble venir du Nord-Est.}
 {266}{Ara_64}{I don't know.}
-{267}{Ara_65}{Non, je ne me rappelle pas avoir entendu quoi que ce soit à ce propos.}
-{268}{Ara_66}{Hmm, non. Non, je n'ai pas entendu parler de ça.}
+{267}{Ara_65}{Non, je ne me rappelle pas avoir entendu quoi que ce soit Ã  ce propos.}
+{268}{Ara_66}{Hmm, non. Non, je n'ai pas entendu parler de Ã§a.}
 {269}{Ara_67}{As I said...}
 {270}{Ara_68}{Comme je l'ai dit auparavant...}
 {271}{Ara_69}{Like I said...}
-{272}{Ara_70}{Comme je te l'ai déjà dit...}
-{273}{Ara_71}{Je n'ai pas l'intention de rabâcher les mêmes choses comme un gâteux. Ecoute la prochaine fois.}
-{274}{Ara_72}{Je ne resterai pas planté là telle la flamme d'une bougie qui vacille parce que tu ne daignes pas écouter.}
+{272}{Ara_70}{Comme je te l'ai dÃ©jÃ  dit...}
+{273}{Ara_71}{Je n'ai pas l'intention de rabÃ¢cher les mÃªmes choses comme un gÃ¢teux. Ecoute la prochaine fois.}
+{274}{Ara_72}{Je ne resterai pas plantÃ© lÃ  telle la flamme d'une bougie qui vacille parce que tu ne daignes pas Ã©couter.}
 {275}{Ara_73}{Go talk to Seth about that. He'll know more than I.}
 {276}{}{}
-{277}{}{Je ne perdrai pas mon temps avec des perfides étrangers !}
+{277}{}{Je ne perdrai pas mon temps avec des perfides Ã©trangers !}
 {278}{}{Aradesh est furieux et ne te parlera plus.}
 {980}{Ara_64}{I don't know.}
-{981}{Ara_65}{Non, je ne me rappelle pas avoir entendu quoi que ce soit à ce propos.}
-{982}{Ara_66}{Hmm, non. Non, je n'ai pas entendu parler de ça.}
+{981}{Ara_65}{Non, je ne me rappelle pas avoir entendu quoi que ce soit Ã  ce propos.}
+{982}{Ara_66}{Hmm, non. Non, je n'ai pas entendu parler de Ã§a.}
 {1000}{}{Aradesh}
 {1001}{}{Dharma}
 {1002}{}{Tandi}
 {1003}{}{Razlo}
 {1004}{}{Pillards|Pillards|Khans|Khan}
-{1005}{}{Vipères|Vipère|Viperes|Vipere}
+{1005}{}{VipÃ¨res|VipÃ¨re|Viperes|Vipere}
 {1006}{}{Khans}
 {1007}{}{Radscorpions}
 {1008}{}{Griffemort|Griffes|Griffe|Griffemorts}
-{1009}{}{Dépôtville}
+{1009}{}{DÃ©pÃ´tville}
 {1010}{}{Spear}
 {1011}{}{Poste de garde|Poste|Garde}
-{1012}{}{Tanière}
-{1013}{}{Razlo|Medic|Doc|Docteur|Médecin|Medecin|Aide|Guérison|Guerison|Blessure|Blessé|Blesse|Fracture}
-{1014}{}{Sables Ombragés|Sables|Ombragés}
+{1012}{}{TaniÃ¨re}
+{1013}{}{Razlo|Medic|Doc|Docteur|MÃ©decin|Medecin|Aide|GuÃ©rison|Guerison|Blessure|BlessÃ©|Blesse|Fracture}
+{1014}{}{Sables OmbragÃ©s|Sables|OmbragÃ©s}
 {1015}{}{Seth}
 {1016}{}{rad scorpion}
 {1017}{}{Radscorpions}
 {1018}{}{Radscorpion}
 {1019}{}{Sables}
-{1020}{}{Ombragés}
+{1020}{}{OmbragÃ©s}
 {1021}{}{Centre}
-{1100}{Ara_49}{C'est moi. Je gouverne cette humble ville des Sables Ombragés.}
-{1101}{Ara_49A}{Dharma était un grand homme, très pieux. Prête une oreille attentive à ses paroles.}
-{1102}{Ara_50}{C'est ma fille. Celle qui rend plus douce cette pénible vie.}
-{1103}{Ara_51}{Razlo est notre médecin. Si tu souffres, il te soignera. Je parierai qu'il est chez lui en ce moment.}
-{1104}{Ara_54}{A notre connaissance, il y a deux bandes qui sévissent: les Vipères et les Khans.}
-{1105}{Ara_55}{Sois très prudent ! Ces pillards sont des fanatiques religieux et peuvent être particulièrement dangereux. Personne ne sait où ils se cachent.}
-{1106}{Ara_56}{Les Khans sont pires que les Vipères, crois-moi. Ces barbares attaquent depuis le Sud-Est.}
+{1100}{Ara_49}{C'est moi. Je gouverne cette humble ville des Sables OmbragÃ©s.}
+{1101}{Ara_49A}{Dharma Ã©tait un grand homme, trÃ¨s pieux. PrÃªte une oreille attentive Ã  ses paroles.}
+{1102}{Ara_50}{C'est ma fille. Celle qui rend plus douce cette pÃ©nible vie.}
+{1103}{Ara_51}{Razlo est notre mÃ©decin. Si tu souffres, il te soignera. Je parierai qu'il est chez lui en ce moment.}
+{1104}{Ara_54}{A notre connaissance, il y a deux bandes qui sÃ©vissent: les VipÃ¨res et les Khans.}
+{1105}{Ara_55}{Sois trÃ¨s prudent ! Ces pillards sont des fanatiques religieux et peuvent Ãªtre particuliÃ¨rement dangereux. Personne ne sait oÃ¹ ils se cachent.}
+{1106}{Ara_56}{Les Khans sont pires que les VipÃ¨res, crois-moi. Ces barbares attaquent depuis le Sud-Est.}
 {1107}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}
-{1108}{Ara_58}{Oui, oui, oui ! C'est une rumeur... un monstre engendré par la Guerre.}
-{1109}{Ara_60}{Dépôtville se trouve au Sud. Leurs marchands viennent parfois jusqu'ici.}
-{1110}{Ara_61}{Les Vipères et les Khans se servent de lances. On l'a appris à nos dépens...}
-{1111}{Ara_62}{Les Sables Ombragés sont une grande famille, on préfère rester entre nous.}
-{1112}{Ara_63}{Personne n'en est sûr, mais le plus gros semble venir du Nord-Est.}
+{1108}{Ara_58}{Oui, oui, oui ! C'est une rumeur... un monstre engendrÃ© par la Guerre.}
+{1109}{Ara_60}{DÃ©pÃ´tville se trouve au Sud. Leurs marchands viennent parfois jusqu'ici.}
+{1110}{Ara_61}{Les VipÃ¨res et les Khans se servent de lances. On l'a appris Ã  nos dÃ©pens...}
+{1111}{Ara_62}{Les Sables OmbragÃ©s sont une grande famille, on prÃ©fÃ¨re rester entre nous.}
+{1112}{Ara_63}{Personne n'en est sÃ»r, mais le plus gros semble venir du Nord-Est.}
 {1113}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}
-{1114}{Ara_62}{Les Sables Ombragés sont une grande famille, on préfère rester entre nous.}
-{1115}{Ara_52}{Va en parler à Seth. Il en saura plus long que moi.}
+{1114}{Ara_62}{Les Sables OmbragÃ©s sont une grande famille, on prÃ©fÃ¨re rester entre nous.}
+{1115}{Ara_52}{Va en parler Ã  Seth. Il en saura plus long que moi.}
 {1116}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}
 {1117}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}
 {1118}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}

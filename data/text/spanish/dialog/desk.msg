@@ -1,1 +1,1 @@
-{100}{}{El pupitre está vacío.}
+{100}{}{El pupitre estÃ¡ vacÃ­o.}

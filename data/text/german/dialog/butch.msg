@@ -103,7 +103,7 @@
 {202}{}{Noch irgendwas?}
 {203}{}{Danke.}
 {204}{BUTCH35}{Well, Necropolis is east. But uh... I wouldn't spit there if it came out gold, if ya' get my drift. Those ghouls'll eat a man's face faster than an old lady shopping at bargain day.}
-{205}{}{Hört sich nach Spaß an.}
+{205}{}{HÃ¶rt sich nach SpaÃŸ an.}
 {206}{BUTCH35a}{Puhh. Maybe for you! If you like that, then the Glow's down south. It's a radioactive pit.}
 {207}{}{Maybe I'll work on my tan.}
 {208}{BUTCH36}{Just a bunch of different places. Go find out for yourself!}
@@ -279,7 +279,7 @@
 {1021}{}{Junktown}
 {1022}{}{Killian}
 {1023}{}{Brotherhood}
-{1024}{}{Älteste}
+{1024}{}{Ã„lteste}
 {1025}{}{Angel's}
 {1026}{}{Adytum}
 {1027}{}{Jon}

@@ -1,105 +1,105 @@
 {100}{}{Voici Keri.}
-{101}{}{Qui diable es-tu ? Si tu cherches du boulot, tu dois t'adresser à Demetre.}
-{102}{}{Je t'ai dit de t'adresser à mon père et non à moi.}
-{103}{}{Alors comme ça, ce vieil idiot a accepté que tu travailles pour nous, hein ? Tu dois être une sacrée gonzesse. Cela m'impressionne mais voyons ce dont tu es capable. Nous ne partons que deux fois par mois, le 3 et le 17. Ca te va ? Nous desservons les principales zones rouges : la Confrérie de l'Acier, Dépôtville, Nécropolis et le Cimetière de L.A.}
-{104}{}{Alors comme ça, le vieil idiot a accepté que tu travailles pour nous, hein ? Tu dois avoir des couilles d'acier. Cela m'impressionne, mais voyons ce dont tu es capable. Nous ne partons que deux fois par mois, le 3 et le 17. Ca te va ? Nous desservons les principales zones rouges : la Confrérie de l'Acier, Dépôtville, Nécropolis et le Cimetière de L.A..}
+{101}{}{Qui diable es-tu ? Si tu cherches du boulot, tu dois t'adresser Ã  Demetre.}
+{102}{}{Je t'ai dit de t'adresser Ã  mon pÃ¨re et non Ã  moi.}
+{103}{}{Alors comme Ã§a, ce vieil idiot a acceptÃ© que tu travailles pour nous, hein ? Tu dois Ãªtre une sacrÃ©e gonzesse. Cela m'impressionne mais voyons ce dont tu es capable. Nous ne partons que deux fois par mois, le 3 et le 17. Ca te va ? Nous desservons les principales zones rouges : la ConfrÃ©rie de l'Acier, DÃ©pÃ´tville, NÃ©cropolis et le CimetiÃ¨re de L.A.}
+{104}{}{Alors comme Ã§a, le vieil idiot a acceptÃ© que tu travailles pour nous, hein ? Tu dois avoir des couilles d'acier. Cela m'impressionne, mais voyons ce dont tu es capable. Nous ne partons que deux fois par mois, le 3 et le 17. Ca te va ? Nous desservons les principales zones rouges : la ConfrÃ©rie de l'Acier, DÃ©pÃ´tville, NÃ©cropolis et le CimetiÃ¨re de L.A..}
 {105}{}{Et le salaire ?}
 {106}{}{Euh...}
-{107}{}{Nous payons bien, 600 caps pour chaque voyage... mais rien ne t'oblige à faire le retour. C'est un trajet difficile, tu rencontreras certainement des pillards... ou pire. On a pas de trouillard ici, et tu prévois assez de munitions.}
-{108}{}{Nous partons aujourd'hui. Ca t'intéresse ?}
+{107}{}{Nous payons bien, 600 caps pour chaque voyage... mais rien ne t'oblige Ã  faire le retour. C'est un trajet difficile, tu rencontreras certainement des pillards... ou pire. On a pas de trouillard ici, et tu prÃ©vois assez de munitions.}
+{108}{}{Nous partons aujourd'hui. Ca t'intÃ©resse ?}
 {109}{}{Nous partons }
 {110}{}{Vide}
 {111}{}{Vide}
-{112}{}{. Ca t'intéresse ?}
+{112}{}{. Ca t'intÃ©resse ?}
 {113}{}{Nous partons tous aujourd'hui.}
 {114}{}{Nous partons }
 {115}{}{}
 {116}{}{}
-{117}{}{. Ca t'intéresse ?}
-{118}{}{Je peux toujours te donner du travail, si ça t'intéresse ?}
-{119}{}{Bien sûr.}
+{117}{}{. Ca t'intÃ©resse ?}
+{118}{}{Je peux toujours te donner du travail, si Ã§a t'intÃ©resse ?}
+{119}{}{Bien sÃ»r.}
 {120}{}{Non.}
-{121}{}{C'est toi qui m'intéresses.}
-{122}{}{Peut-être.}
+{121}{}{C'est toi qui m'intÃ©resses.}
+{122}{}{Peut-Ãªtre.}
 {123}{}{Euh...}
-{124}{}{Ha, je croyais que tu aurais la trouille ! Eh bien, si tu as assez de cran, passe me voir, j'aurai peut-être du travail pour toi. Nous partons le 3 et le 17, tu dois juste te pointer ce jour là. Plus on a de porteurs d'armes, mieux c'est.}
+{124}{}{Ha, je croyais que tu aurais la trouille ! Eh bien, si tu as assez de cran, passe me voir, j'aurai peut-Ãªtre du travail pour toi. Nous partons le 3 et le 17, tu dois juste te pointer ce jour lÃ . Plus on a de porteurs d'armes, mieux c'est.}
 {125}{}{Tu aimes me faire perdre mon temps, n'est-ce pas ?}
-{126}{}{Qu'importe. Si tu aimes l'action, reviens me voir, je t'affecterai à la prochaine caravane.}
-{127}{}{Hé ! Je sais qu'on peut se procurer des drogues sympa ici, mais je ne peux t'embaucher que si tu es sobre.}
-{128}{}{Je t'ai demandé d'arrêter les drogues, mon vieux !}
-{129}{}{Je t'ai demandé d'arrêter les drogues, ma vieille !}
-{130}{}{Eh bien... Je déteste dire ça mais... j'ai entendu parler de toi. As-tu autant de cran en privé qu'en public ? Voyons voir... [Elle te mène dans un coin]}
-{131}{}{[Aprèsa ça, elle te montre quelques trucs.]}
+{126}{}{Qu'importe. Si tu aimes l'action, reviens me voir, je t'affecterai Ã  la prochaine caravane.}
+{127}{}{HÃ© ! Je sais qu'on peut se procurer des drogues sympa ici, mais je ne peux t'embaucher que si tu es sobre.}
+{128}{}{Je t'ai demandÃ© d'arrÃªter les drogues, mon vieux !}
+{129}{}{Je t'ai demandÃ© d'arrÃªter les drogues, ma vieille !}
+{130}{}{Eh bien... Je dÃ©teste dire Ã§a mais... j'ai entendu parler de toi. As-tu autant de cran en privÃ© qu'en public ? Voyons voir... [Elle te mÃ¨ne dans un coin]}
+{131}{}{[AprÃ¨sa Ã§a, elle te montre quelques trucs.]}
 {132}{}{Eh bien, tu as pas mal d'endurance.}
-{133}{}{Eh bien, tu as une personnalité 'intéressante' et 'très' différente de la plupart des autres gens... montre-moi de quoi tu es capable. [Elle te mène dans un coin]}
-{134}{}{[Aprèsa ça, elle te montre quelques trucs.]}
+{133}{}{Eh bien, tu as une personnalitÃ© 'intÃ©ressante' et 'trÃ¨s' diffÃ©rente de la plupart des autres gens... montre-moi de quoi tu es capable. [Elle te mÃ¨ne dans un coin]}
+{134}{}{[AprÃ¨sa Ã§a, elle te montre quelques trucs.]}
 {135}{}{Eh bien, tu as pas mal d'endurance.}
-{136}{}{Hé vieux, on dirait qu'il y a un voleur parmi nous ! Qu'as-tu à dire pour ta défense, ordure ?}
+{136}{}{HÃ© vieux, on dirait qu'il y a un voleur parmi nous ! Qu'as-tu Ã  dire pour ta dÃ©fense, ordure ?}
 {137}{}{Je regrette. Je ne recommencerai plus.}
 {138}{}{Attrape-moi si tu peux...}
 {139}{}{Eh bien, viens me chercher !}
 {140}{}{[Acquiescement]}
 {141}{}{OOOGABOOOGA !!}
-{142}{}{Hé vieux, cette idiote n'a pas compris la leçon. Elle a encore essayé de me voler. Occupons-nous d'elle.}
-{143}{}{Hé vieux, ce tocard n'a pas compris la leçon. Il a encore essayé de me voler. Occupons-nous de lui.}
-{144}{}{Hé... Je sais que c'est tentant de voler, mais... Je te donne une chance. Ne remets plus les pieds ici si tu ne veux pas que j'appelle les flics. Compris ?}
+{142}{}{HÃ© vieux, cette idiote n'a pas compris la leÃ§on. Elle a encore essayÃ© de me voler. Occupons-nous d'elle.}
+{143}{}{HÃ© vieux, ce tocard n'a pas compris la leÃ§on. Il a encore essayÃ© de me voler. Occupons-nous de lui.}
+{144}{}{HÃ©... Je sais que c'est tentant de voler, mais... Je te donne une chance. Ne remets plus les pieds ici si tu ne veux pas que j'appelle les flics. Compris ?}
 {145}{}{Ok, j'y veillerai.}
 {146}{}{Go to hell!}
 {147}{}{Je pense.}
 {148}{}{Tu vas le payer de ta vie.}
 {149}{}{Je t'ai dit de partir !}
 {150}{}{Police !}
-{151}{}{Désolée, nous ne voulons plus avoir affaire à toi.}
+{151}{}{DÃ©solÃ©e, nous ne voulons plus avoir affaire Ã  toi.}
 {152}{}{Il n'y a pas de travail ici, compris ?}
 {153}{}{Ne me tape pas sur les nerfs.}
-{154}{}{Imbécile !}
-{155}{}{Mystérieux, mais tu n'es pas mon genre.}
-{156}{}{Bien. Comme je te l'ai dit, nous payons 600 caps. Quel itinéraire veux-tu emprunter ?}
+{154}{}{ImbÃ©cile !}
+{155}{}{MystÃ©rieux, mais tu n'es pas mon genre.}
+{156}{}{Bien. Comme je te l'ai dit, nous payons 600 caps. Quel itinÃ©raire veux-tu emprunter ?}
 {157}{}{Super. La prochaine pars }
-{158}{}{. Repasse me voir, je t'affecterai à une caravane. Comme d'habitude, le salaire sera de 600 caps.}
+{158}{}{. Repasse me voir, je t'affecterai Ã  une caravane. Comme d'habitude, le salaire sera de 600 caps.}
 {159}{}{D'accord.}
 {160}{}{Malheureusement je ne peux pas attendre si longtemps.}
-{161}{}{Je devrais te tordre le cou, espèce d'idiote ! A cause de toi, nous avons perdu toute une satanée caravane ! Hors de ma vue ! Je vais avoir de sérieux ennuis maintenant.}
-{162}{}{Je devrais te tordre le cou, crétin ! A cause de toi, nous avons perdu toute une satanée caravane ! Hors de ma vue ! Je vais avoir de sérieux ennuis maintenant.}
-{163}{}{Confrérie de l'Acier}
-{164}{}{Dépôtville}
-{165}{}{Nécropolis}
-{166}{}{Cimetière de L.A.}
-{167}{}{Peu importe. Il y a quelque chose que j'ai oublié de faire. }
-{168}{}{Que tout le monde se prépare ! Nous quittons cet endroit !}
-{169}{}{S'il se passe quelque chose de sympa, dis-le moi. Mon père veut que je reste près de l'entrepôt.}
-{170}{}{Super ! Les autres psychopathes sont prêts. Nous partons sur-le-champ.}
+{161}{}{Je devrais te tordre le cou, espÃ¨ce d'idiote ! A cause de toi, nous avons perdu toute une satanÃ©e caravane ! Hors de ma vue ! Je vais avoir de sÃ©rieux ennuis maintenant.}
+{162}{}{Je devrais te tordre le cou, crÃ©tin ! A cause de toi, nous avons perdu toute une satanÃ©e caravane ! Hors de ma vue ! Je vais avoir de sÃ©rieux ennuis maintenant.}
+{163}{}{ConfrÃ©rie de l'Acier}
+{164}{}{DÃ©pÃ´tville}
+{165}{}{NÃ©cropolis}
+{166}{}{CimetiÃ¨re de L.A.}
+{167}{}{Peu importe. Il y a quelque chose que j'ai oubliÃ© de faire. }
+{168}{}{Que tout le monde se prÃ©pare ! Nous quittons cet endroit !}
+{169}{}{S'il se passe quelque chose de sympa, dis-le moi. Mon pÃ¨re veut que je reste prÃ¨s de l'entrepÃ´t.}
+{170}{}{Super ! Les autres psychopathes sont prÃªts. Nous partons sur-le-champ.}
 {171}{}{Formidable, il ne faudra que quelques minutes pour rassembler les psychopathes.}
-{172}{}{Confrérie de l'Acier, nous voilà ! Enfin... je ne t'accompagne pas, mais tu vois ce que je veux dire.}
-{173}{}{Ok, va-t'en. Ces fanatiques de la Confrérie t'attendent.}
-{174}{}{J'espère que tu aimes les montagnes ! Tu te diriges droit sur elles. Il devrait y avoir beaucoup d'action là-bas.}
-{175}{}{Prépare-toi au départ, tu vas te diriger vers les montagnes ! Ca devrait bouger là-bas !}
-{176}{}{Dépôtville est un endroit assez civilisé. Je préfère les itinéraires plus dangereux.}
-{177}{}{J'ai entendu parler d'un médecin fou par là, tu devrais le rencontrer. Il s'appelle Doc Morbide.}
-{178}{}{Dépôtville n'est pas très loin. Tu devrais être de retour assez rapidement.}
-{179}{}{Fais attention, Nécropolis est un endroit dangereux.}
-{180}{}{Set est le chef de la ville. Enfin, il l'était la dernière fois que j'y suis passée.}
+{172}{}{ConfrÃ©rie de l'Acier, nous voilÃ  ! Enfin... je ne t'accompagne pas, mais tu vois ce que je veux dire.}
+{173}{}{Ok, va-t'en. Ces fanatiques de la ConfrÃ©rie t'attendent.}
+{174}{}{J'espÃ¨re que tu aimes les montagnes ! Tu te diriges droit sur elles. Il devrait y avoir beaucoup d'action lÃ -bas.}
+{175}{}{PrÃ©pare-toi au dÃ©part, tu vas te diriger vers les montagnes ! Ca devrait bouger lÃ -bas !}
+{176}{}{DÃ©pÃ´tville est un endroit assez civilisÃ©. Je prÃ©fÃ¨re les itinÃ©raires plus dangereux.}
+{177}{}{J'ai entendu parler d'un mÃ©decin fou par lÃ , tu devrais le rencontrer. Il s'appelle Doc Morbide.}
+{178}{}{DÃ©pÃ´tville n'est pas trÃ¨s loin. Tu devrais Ãªtre de retour assez rapidement.}
+{179}{}{Fais attention, NÃ©cropolis est un endroit dangereux.}
+{180}{}{Set est le chef de la ville. Enfin, il l'Ã©tait la derniÃ¨re fois que j'y suis passÃ©e.}
 {181}{}{Cette ville est pleine de racailles ! Bon. Tu ferais mieux d'y aller.}
-{182}{}{L.A. est un endroit sympa. Tu aimeras, mais surtout ne quitte pas la caravane avant qu'elle ne soit arrivée à destination. Ce n'est pas un endroit sûr pour les caravanes.}
-{183}{}{J'espère que tu auras la chance d'y passer. Il y a une église sympa à quelques kilomètres au Sud. Mais les gens sont cinglés.}
-{184}{}{J'ai entendu dire que le Cimetière s'appelait autrefois L.A. Je ne sais pas à quoi correspondent ces initiales, mais c'est un endroit sympa.}
+{182}{}{L.A. est un endroit sympa. Tu aimeras, mais surtout ne quitte pas la caravane avant qu'elle ne soit arrivÃ©e Ã  destination. Ce n'est pas un endroit sÃ»r pour les caravanes.}
+{183}{}{J'espÃ¨re que tu auras la chance d'y passer. Il y a une Ã©glise sympa Ã  quelques kilomÃ¨tres au Sud. Mais les gens sont cinglÃ©s.}
+{184}{}{J'ai entendu dire que le CimetiÃ¨re s'appelait autrefois L.A. Je ne sais pas Ã  quoi correspondent ces initiales, mais c'est un endroit sympa.}
 {185}{}{C'est quoi qu'tu veux ?}
 {186}{}{Tais-toi et pousse-toi de mon chemin, je ne suis pas d'humeur !}
 {187}{}{Je veux un autre travail.}
 {188}{}{Rien.}
 {189}{}{Je euuuuuh.}
 {190}{}{Euh...}
-{191}{}{Ah bon ! Alors comme ça, tu as abandonné une autre caravane ? Tu as de la chance qu'ils s'en soient sortis.}
+{191}{}{Ah bon ! Alors comme Ã§a, tu as abandonnÃ© une autre caravane ? Tu as de la chance qu'ils s'en soient sortis.}
 {192}{}{Moi, de la chance ? C'est toi qui a de la chance que je ne te casse pas la figure !}
-{193}{}{Hé ! J'avais des endroits à visiter et... des trucs à faire !!}
-{194}{}{Hé ! Je savais pas que j'avais pas le droit de partir ! Ce n'est pas comme s'ils avaient été en plein combat.}
-{195}{}{Fiche le camp ! Tu me rend malade ! C'est pour ça que tu as quitté la caravane ?! Je parie que tu avais pris de la drogue !}
-{196}{}{Ouais ? Eh bien désormais tu auras tout le temps ! On te raye de notre liste et pour de bon.}
-{197}{}{Quoi ? Tu n'as jamais travaillé pour une caravane par le passé ? Je ne peux pas croire que mon père ait accepté de t'embaucher comme ça ! Va te faire voir ! Nous n'embauchons que du personnel expérimenté ! C'est pour cela que nous payons bien !}
-{198}{}{Tu as fait du bon boulot la dernière fois. Tu cherches un nouveau travail ?}
-{199}{}{Bien sûr.}
+{193}{}{HÃ© ! J'avais des endroits Ã  visiter et... des trucs Ã  faire !!}
+{194}{}{HÃ© ! Je savais pas que j'avais pas le droit de partir ! Ce n'est pas comme s'ils avaient Ã©tÃ© en plein combat.}
+{195}{}{Fiche le camp ! Tu me rend malade ! C'est pour Ã§a que tu as quittÃ© la caravane ?! Je parie que tu avais pris de la drogue !}
+{196}{}{Ouais ? Eh bien dÃ©sormais tu auras tout le temps ! On te raye de notre liste et pour de bon.}
+{197}{}{Quoi ? Tu n'as jamais travaillÃ© pour une caravane par le passÃ© ? Je ne peux pas croire que mon pÃ¨re ait acceptÃ© de t'embaucher comme Ã§a ! Va te faire voir ! Nous n'embauchons que du personnel expÃ©rimentÃ© ! C'est pour cela que nous payons bien !}
+{198}{}{Tu as fait du bon boulot la derniÃ¨re fois. Tu cherches un nouveau travail ?}
+{199}{}{Bien sÃ»r.}
 {200}{}{Non.}
-{201}{}{Peut-être.}
+{201}{}{Peut-Ãªtre.}
 {202}{}{Euh...}
 {203}{}{Hmm.}
 {204}{}{Nous partons aujourd'hui. Ca te convient ?}
@@ -107,30 +107,30 @@
 {206}{}{Non.}
 {207}{}{Hourrra ?}
 {208}{}{Tu as un jour d'avance. Reviens demain si tu veux encore du travail. Sinon, ne reviens pas. Je m'en fiche totalement.}
-{209}{}{Hé, tu es en avance. Le prochain départ est prévu }
+{209}{}{HÃ©, tu es en avance. Le prochain dÃ©part est prÃ©vu }
 {210}{}{3}
 {211}{}{17}
-{212}{}{. Reviens à ce moment-là si tu veux toujours du travail. C'est à toi de voir, moi ça m'est égal. Mais si cela t'intéresse, reviens me voir.}
+{212}{}{. Reviens Ã  ce moment-lÃ  si tu veux toujours du travail. C'est Ã  toi de voir, moi Ã§a m'est Ã©gal. Mais si cela t'intÃ©resse, reviens me voir.}
 {213}{}{Pas encore.}
 {214}{}{Bon sang, papa, tais-toi !}
-{215}{}{Hé, le vieux, j'ai faim ! Je vais faire une pause !}
-{216}{}{Je déteste étudier les bouquins.}
+{215}{}{HÃ©, le vieux, j'ai faim ! Je vais faire une pause !}
+{216}{}{Je dÃ©teste Ã©tudier les bouquins.}
 {217}{}{janvier }
-{218}{}{février }
+{218}{}{fÃ©vrier }
 {219}{}{mars }
 {220}{}{avril }
 {221}{}{mai }
 {222}{}{juin }
 {223}{}{juillet }
-{224}{}{août }
+{224}{}{aoÃ»t }
 {225}{}{septembre }
 {226}{}{octobre }
 {227}{}{novembre }
-{228}{}{décembre }
+{228}{}{dÃ©cembre }
 {229}{}{Tu obtiens trois paquets de stimulants.}
-{300}{}{Alors comme ça ce vieux salaud a donné son accord pour que tu travailles avec nous, hein ? Tu dois être une sacrée garce ! Je suis impressionné mais nous verrons bien comment tu te débrouilles. Nous partons 2 fois par mois, le 3 et le 17. T’arrivera à retenir ça ? Nous desservons toutes les zones sensibles : la Confrérie de l'Acier et Dépotville. On ne met plus les pieds au Cimetière et à Nécropolis depuis qu'une bande de mutants pas vraiment amicaux a posé ses valises là-bas.}
-{301}{}{Alors comme ça ce vieux salaud a donné son accord pour que tu travailles avec nous, hein ? Tu dois être sacrément burné ! Je suis impressionné mais nous verrons bien comment tu te débrouilles. Nous partons 2 fois par mois, le 3 et le 17. T’arrivera à retenir ça ? Nous desservons toutes les zones sensibles : la Confrérie de l'Acier et Dépotville. On ne met plus les pieds au Cimetière et à Nécropolis depuis qu'une bande de mutants pas vraiment amicaux a posé ses valises là-bas.}
-{302}{}{Alors comme ça ce vieux salaud a donné son accord pour que tu travailles avec nous, hein ? Tu dois être une sacrée garce ! Je suis impressionné mais nous verrons bien comment tu te débrouilles. Nous partons 2 fois par mois, le 3 et le 17. T’arrivera à retenir ça ? Nous desservons toutes les zones sensibles : la Confrérie de l'Acier, Dépotville et Nécropolis. On ne met plus les pieds au Cimetière depuis qu'une bande de mutants pas vraiment amicaux a posé ses valises là-bas.}
-{303}{}{Alors comme ça ce vieux salaud a donné son accord pour que tu travailles avec nous, hein ? Tu dois être sacrément burné ! Je suis impressionné mais nous verrons bien comment tu te débrouilles. Nous partons 2 fois par mois, le 3 et le 17. T’arrivera à retenir ça ? Nous desservons toutes les zones sensibles : la Confrérie de l'Acier, Dépotville et Nécropolis. On ne met plus les pieds au Cimetière depuis qu'une bande de mutants pas vraiment amicaux a posé ses valises là-bas.}
-{304}{}{Alors comme ça ce vieux salaud a donné son accord pour que tu travailles avec nous, hein ? Tu dois être une sacrée garce ! Je suis impressionné mais nous verrons bien comment tu te débrouilles. Nous partons 2 fois par mois, le 3 et le 17. T’arrivera à retenir ça ? Nous desservons toutes les zones sensibles : la Confrérie de l'Acier, Dépotville et le Cimetière. On ne met plus les pieds à Nécropolis depuis qu'une bande de mutants pas vraiment amicaux a posé ses valises là-bas.}
-{305}{}{Alors comme ça ce vieux salaud a donné son accord pour que tu travailles avec nous, hein ? Tu dois être sacrément burné ! Je suis impressionné mais nous verrons bien comment tu te débrouilles. Nous partons 2 fois par mois, le 3 et le 17. T’arrivera à retenir ça ? Nous desservons toutes les zones sensibles : la Confrérie de l'Acier, Dépotville et le Cimetière. On ne met plus les pieds à Nécropolis depuis qu'une bande de mutants pas vraiment amicaux a posé ses valises là-bas.}
+{300}{}{Alors comme Ã§a ce vieux salaud a donnÃ© son accord pour que tu travailles avec nous, hein ? Tu dois Ãªtre une sacrÃ©e garce ! Je suis impressionnÃ© mais nous verrons bien comment tu te dÃ©brouilles. Nous partons 2 fois par mois, le 3 et le 17. Tâ€™arrivera Ã  retenir Ã§a ? Nous desservons toutes les zones sensibles : la ConfrÃ©rie de l'Acier et DÃ©potville. On ne met plus les pieds au CimetiÃ¨re et Ã  NÃ©cropolis depuis qu'une bande de mutants pas vraiment amicaux a posÃ© ses valises lÃ -bas.}
+{301}{}{Alors comme Ã§a ce vieux salaud a donnÃ© son accord pour que tu travailles avec nous, hein ? Tu dois Ãªtre sacrÃ©ment burnÃ© ! Je suis impressionnÃ© mais nous verrons bien comment tu te dÃ©brouilles. Nous partons 2 fois par mois, le 3 et le 17. Tâ€™arrivera Ã  retenir Ã§a ? Nous desservons toutes les zones sensibles : la ConfrÃ©rie de l'Acier et DÃ©potville. On ne met plus les pieds au CimetiÃ¨re et Ã  NÃ©cropolis depuis qu'une bande de mutants pas vraiment amicaux a posÃ© ses valises lÃ -bas.}
+{302}{}{Alors comme Ã§a ce vieux salaud a donnÃ© son accord pour que tu travailles avec nous, hein ? Tu dois Ãªtre une sacrÃ©e garce ! Je suis impressionnÃ© mais nous verrons bien comment tu te dÃ©brouilles. Nous partons 2 fois par mois, le 3 et le 17. Tâ€™arrivera Ã  retenir Ã§a ? Nous desservons toutes les zones sensibles : la ConfrÃ©rie de l'Acier, DÃ©potville et NÃ©cropolis. On ne met plus les pieds au CimetiÃ¨re depuis qu'une bande de mutants pas vraiment amicaux a posÃ© ses valises lÃ -bas.}
+{303}{}{Alors comme Ã§a ce vieux salaud a donnÃ© son accord pour que tu travailles avec nous, hein ? Tu dois Ãªtre sacrÃ©ment burnÃ© ! Je suis impressionnÃ© mais nous verrons bien comment tu te dÃ©brouilles. Nous partons 2 fois par mois, le 3 et le 17. Tâ€™arrivera Ã  retenir Ã§a ? Nous desservons toutes les zones sensibles : la ConfrÃ©rie de l'Acier, DÃ©potville et NÃ©cropolis. On ne met plus les pieds au CimetiÃ¨re depuis qu'une bande de mutants pas vraiment amicaux a posÃ© ses valises lÃ -bas.}
+{304}{}{Alors comme Ã§a ce vieux salaud a donnÃ© son accord pour que tu travailles avec nous, hein ? Tu dois Ãªtre une sacrÃ©e garce ! Je suis impressionnÃ© mais nous verrons bien comment tu te dÃ©brouilles. Nous partons 2 fois par mois, le 3 et le 17. Tâ€™arrivera Ã  retenir Ã§a ? Nous desservons toutes les zones sensibles : la ConfrÃ©rie de l'Acier, DÃ©potville et le CimetiÃ¨re. On ne met plus les pieds Ã  NÃ©cropolis depuis qu'une bande de mutants pas vraiment amicaux a posÃ© ses valises lÃ -bas.}
+{305}{}{Alors comme Ã§a ce vieux salaud a donnÃ© son accord pour que tu travailles avec nous, hein ? Tu dois Ãªtre sacrÃ©ment burnÃ© ! Je suis impressionnÃ© mais nous verrons bien comment tu te dÃ©brouilles. Nous partons 2 fois par mois, le 3 et le 17. Tâ€™arrivera Ã  retenir Ã§a ? Nous desservons toutes les zones sensibles : la ConfrÃ©rie de l'Acier, DÃ©potville et le CimetiÃ¨re. On ne met plus les pieds Ã  NÃ©cropolis depuis qu'une bande de mutants pas vraiment amicaux a posÃ© ses valises lÃ -bas.}

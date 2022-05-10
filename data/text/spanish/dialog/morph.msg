@@ -1,157 +1,157 @@
 {100}{}{Ves: a Morfeo.}
-{101}{MORP02}{No recuerdo haber invitado a nadie a mi cuarto. Sin embargo tengo una visita. ¿Por qué?}
+{101}{MORP02}{No recuerdo haber invitado a nadie a mi cuarto. Sin embargo tengo una visita. Â¿Por quÃ©?}
 {102}{}{Oh, lo siento. Creo que me he perdido.}
 {103}{}{Porque tengo un gran negocio para ti...}
 {104}{}{Soy }
-{105}{}{¿Cuál es el tuyo?}
-{106}{}{Uno de los Hermanos me mandó aquí arriba.}
-{107}{}{¿Mamá?}
+{105}{}{Â¿CuÃ¡l es el tuyo?}
+{106}{}{Uno de los Hermanos me mandÃ³ aquÃ­ arriba.}
+{107}{}{Â¿MamÃ¡?}
 {108}{MORP02A}{No. Soy el Padre Muerte...}
-{109}{MORP03}{Hijo, es peligroso explorar lugares a los que no perteneces. ¿Hacia dónde te dirigías para acabar en mi cámara privada?}
-{110}{}{Soy nuevo y estaba buscando el cuarto de baño. Otro de los Sumos Sacerdotes me envió aquí arriba.}
-{111}{}{Estaba buscando el confesionario y uno de los Sumos Sacerdotes me mandó aquí arriba. ¡Siento muchísimo haber acabado aquí!}
+{109}{MORP03}{Hijo, es peligroso explorar lugares a los que no perteneces. Â¿Hacia dÃ³nde te dirigÃ­as para acabar en mi cÃ¡mara privada?}
+{110}{}{Soy nuevo y estaba buscando el cuarto de baÃ±o. Otro de los Sumos Sacerdotes me enviÃ³ aquÃ­ arriba.}
+{111}{}{Estaba buscando el confesionario y uno de los Sumos Sacerdotes me mandÃ³ aquÃ­ arriba. Â¡Siento muchÃ­simo haber acabado aquÃ­!}
 {112}{}{Bueno, la verdad es que no me he perdido.}
-{113}{}{Vine hasta aquí para matarte.}
-{114}{}{Lo olvido. Me iré.}
-{115}{MORP04}{Ah... Je, je, je. Seguro que fue Fustigador. Le encanta meter en líos a los devotos. Hoy es tu día de suerte, mi pequeño e ignorante amigo. Puedes irte ahora sin sufrir ningún percance. }
-{116}{MORP04A}{Te lo advertí. ¡Guardias! }
-{117}{MORP05A}{Eres un mentiroso patético. Dime la verdadera razón de tu presencia ahora mismo... si no quieres que te arranque el pellejo. }
-{118}{}{¡No, de verdad! ¡Me he perdido!}
+{113}{}{Vine hasta aquÃ­ para matarte.}
+{114}{}{Lo olvido. Me irÃ©.}
+{115}{MORP04}{Ah... Je, je, je. Seguro que fue Fustigador. Le encanta meter en lÃ­os a los devotos. Hoy es tu dÃ­a de suerte, mi pequeÃ±o e ignorante amigo. Puedes irte ahora sin sufrir ningÃºn percance. }
+{116}{MORP04A}{Te lo advertÃ­. Â¡Guardias! }
+{117}{MORP05A}{Eres un mentiroso patÃ©tico. Dime la verdadera razÃ³n de tu presencia ahora mismo... si no quieres que te arranque el pellejo. }
+{118}{}{Â¡No, de verdad! Â¡Me he perdido!}
 {119}{}{All right, you got me. I'm here to offer you a deal.}
-{120}{}{Tan sólo estoy echando un vistazo.}
-{121}{MORP06}{Sospecho que eres un espía enviado por los Seguidores. Puede que me equivoque, pero no pienso arriesgarme. Debes ser eliminado. }
-{122}{MORP07}{ ¿Qué me puedes ofrecer? }
-{123}{}{Vengo de un Refugio. Sabes lo que es, ¿verdad?}
-{124}{}{Me gustaría ofrecerte información sobre tus enemigos.}
-{125}{}{Fui enviado por el Maestro. Quiere que te espíe.}
-{126}{morp08}{Continúa.}
-{127}{}{Me gustaría darle a tu Maestro alguna información sobre mi Refugio.}
-{128}{}{Tengo información sobre mi Refugio para el Maestro.}
-{129}{}{No tan deprisa. Quiero saber qué obtendré a cambio de mi información.}
-{130}{MORP09}{ ¡Yo no tengo Maestro, imbécil! }
-{131}{}{¿Entonces a qué llamas Maestro? ¿No es él quien te controla?}
+{120}{}{Tan sÃ³lo estoy echando un vistazo.}
+{121}{MORP06}{Sospecho que eres un espÃ­a enviado por los Seguidores. Puede que me equivoque, pero no pienso arriesgarme. Debes ser eliminado. }
+{122}{MORP07}{ Â¿QuÃ© me puedes ofrecer? }
+{123}{}{Vengo de un Refugio. Sabes lo que es, Â¿verdad?}
+{124}{}{Me gustarÃ­a ofrecerte informaciÃ³n sobre tus enemigos.}
+{125}{}{Fui enviado por el Maestro. Quiere que te espÃ­e.}
+{126}{morp08}{ContinÃºa.}
+{127}{}{Me gustarÃ­a darle a tu Maestro alguna informaciÃ³n sobre mi Refugio.}
+{128}{}{Tengo informaciÃ³n sobre mi Refugio para el Maestro.}
+{129}{}{No tan deprisa. Quiero saber quÃ© obtendrÃ© a cambio de mi informaciÃ³n.}
+{130}{MORP09}{ Â¡Yo no tengo Maestro, imbÃ©cil! }
+{131}{}{Â¿Entonces a quÃ© llamas Maestro? Â¿No es Ã©l quien te controla?}
 {132}{}{Pues parece que el Maestro te controla.}
-{133}{}{Oye. ¡¡Cuida tu lenguaje!!}
+{133}{}{Oye. Â¡Â¡Cuida tu lenguaje!!}
 {134}{}{Parece que te he tocado las narices.}
-{135}{MORP10}{ A mí no me controla nadie. Él y yo somos... socios. }
-{136}{}{Sí, claro. Eres un perrito faldero.}
-{137}{}{No importa. Tengo información sobre un Refugio que le puede interesar.}
-{138}{}{Él da órdenes, ¿no? Y tú las sigues, no hay más preguntas.}
-{139}{MORP11}{No tolero los insultos. ¡Guardias! }
-{140}{MORP12}{ De acuerdo. Te llevaré ante el Maestro. Pero si estás mintiendo, él lo sabrá. }
+{135}{MORP10}{ A mÃ­ no me controla nadie. Ã‰l y yo somos... socios. }
+{136}{}{SÃ­, claro. Eres un perrito faldero.}
+{137}{}{No importa. Tengo informaciÃ³n sobre un Refugio que le puede interesar.}
+{138}{}{Ã‰l da Ã³rdenes, Â¿no? Y tÃº las sigues, no hay mÃ¡s preguntas.}
+{139}{MORP11}{No tolero los insultos. Â¡Guardias! }
+{140}{MORP12}{ De acuerdo. Te llevarÃ© ante el Maestro. Pero si estÃ¡s mintiendo, Ã©l lo sabrÃ¡. }
 {141}{}{Vale, de acuerdo.}
-{142}{}{¡No me vas a llevar a ningún sitio!}
-{143}{MORP13}{No te metas en esto. Pero si de verdad vienes de un Refugio, el Maestro lo descubrirá. ¡Guardias! Vamos.}
+{142}{}{Â¡No me vas a llevar a ningÃºn sitio!}
+{143}{MORP13}{No te metas en esto. Pero si de verdad vienes de un Refugio, el Maestro lo descubrirÃ¡. Â¡Guardias! Vamos.}
 {144}{MORP14}{Puedes conservar la vida. Ahora, dime lo que sabes. }
-{145}{}{Soy de un Refugio y estoy dispuesto a comunicar su ubicación al Maestro.}
-{146}{}{¿O qué?}
-{147}{}{No te contaré nada.}
-{148}{MORP15}{ ¿No? Entonces te sacaré la información. ¡Guardias! }
-{149}{MORP16}{ ¿Y quiénes pueden ser mis enemigos? }
+{145}{}{Soy de un Refugio y estoy dispuesto a comunicar su ubicaciÃ³n al Maestro.}
+{146}{}{Â¿O quÃ©?}
+{147}{}{No te contarÃ© nada.}
+{148}{MORP15}{ Â¿No? Entonces te sacarÃ© la informaciÃ³n. Â¡Guardias! }
+{149}{MORP16}{ Â¿Y quiÃ©nes pueden ser mis enemigos? }
 {150}{}{Bueno, para empezar, los Seguidores.}
 {151}{}{Tal como yo lo veo, parece que todo el mundo.}
 {152}{MORP17}{ Dime lo que sabes. }
-{153}{}{No lo creo. Llévame ante el Maestro. Se lo diré a él.}
-{154}{}{Digamos que yo sé algo que te ayudará a enfrentarte a ellos.}
-{155}{MORP18}{ Dame la información o tendrás una muerte... lenta... y... dolorosa. }
-{156}{}{¿Crees que el Maestro estará contento si matas a un habitante de un Refugio?}
+{153}{}{No lo creo. LlÃ©vame ante el Maestro. Se lo dirÃ© a Ã©l.}
+{154}{}{Digamos que yo sÃ© algo que te ayudarÃ¡ a enfrentarte a ellos.}
+{155}{MORP18}{ Dame la informaciÃ³n o tendrÃ¡s una muerte... lenta... y... dolorosa. }
+{156}{}{Â¿Crees que el Maestro estarÃ¡ contento si matas a un habitante de un Refugio?}
 {157}{}{Solo quiero hablar con el Maestro.}
-{158}{MORP19}{ Ah... tú eres el morador del Refugio del que he oído hablar. ¿Sorprendido? Tengo mis fuentes. Te llevaré como presente al Maestro. Estará satisfecho. }
-{159}{}{¿Qué tal si, por el contrario, te llevamos a ti en una bolsa?}
-{160}{}{Y yo también.}
-{161}{MORP20}{ ¿Un espía? Es muy tonto por tu parte. Será difícil contárselo a él cuando estés muerto, ¿o no? }
+{158}{MORP19}{ Ah... tÃº eres el morador del Refugio del que he oÃ­do hablar. Â¿Sorprendido? Tengo mis fuentes. Te llevarÃ© como presente al Maestro. EstarÃ¡ satisfecho. }
+{159}{}{Â¿QuÃ© tal si, por el contrario, te llevamos a ti en una bolsa?}
+{160}{}{Y yo tambiÃ©n.}
+{161}{MORP20}{ Â¿Un espÃ­a? Es muy tonto por tu parte. SerÃ¡ difÃ­cil contÃ¡rselo a Ã©l cuando estÃ©s muerto, Â¿o no? }
 {162}{MORP21}{ No sabes mentir. Ahora, dime lo que quieres. }
-{163}{}{Vengo de un Refugio. Sabes lo que es, ¿verdad?}
-{164}{}{Me gustaría ofrecerte información sobre tus enemigos.}
-{165}{MORP23}{¡Vaya sorpresa! Ahora dime porqué estás aquí. }
-{166}{}{Soy de un Refugio y estoy dispuesto a comunicar su ubicación al Maestro.}
-{167}{}{Me gustaría ofrecerte información sobre tus enemigos.}
+{163}{}{Vengo de un Refugio. Sabes lo que es, Â¿verdad?}
+{164}{}{Me gustarÃ­a ofrecerte informaciÃ³n sobre tus enemigos.}
+{165}{MORP23}{Â¡Vaya sorpresa! Ahora dime porquÃ© estÃ¡s aquÃ­. }
+{166}{}{Soy de un Refugio y estoy dispuesto a comunicar su ubicaciÃ³n al Maestro.}
+{167}{}{Me gustarÃ­a ofrecerte informaciÃ³n sobre tus enemigos.}
 {168}{}{No me intimidas.}
-{169}{}{No te contaré nada.}
-{170}{MORP24}{ ¿Oh, de verdad? ¿Y cómo piensas hacer eso? ¿Con tu sorprendente ingenio y tu lengua afilada? }
+{169}{}{No te contarÃ© nada.}
+{170}{MORP24}{ Â¿Oh, de verdad? Â¿Y cÃ³mo piensas hacer eso? Â¿Con tu sorprendente ingenio y tu lengua afilada? }
 {171}{}{No, con esto...}
-{172}{}{Eso sería demasiado fácil contigo. Prefiero el camino más difícil.}
-{173}{}{Creo que con una bala en la cabeza bastará.}
-{174}{MORP26}{Éste es el trato. Dime lo que sabes y podrás salir de aquí andando.}
-{175}{}{Soy de un Refugio y estoy dispuesto a comunicar su ubicación al Maestro.}
-{176}{}{Me gustaría ofrecerte información sobre tus enemigos.}
+{172}{}{Eso serÃ­a demasiado fÃ¡cil contigo. Prefiero el camino mÃ¡s difÃ­cil.}
+{173}{}{Creo que con una bala en la cabeza bastarÃ¡.}
+{174}{MORP26}{Ã‰ste es el trato. Dime lo que sabes y podrÃ¡s salir de aquÃ­ andando.}
+{175}{}{Soy de un Refugio y estoy dispuesto a comunicar su ubicaciÃ³n al Maestro.}
+{176}{}{Me gustarÃ­a ofrecerte informaciÃ³n sobre tus enemigos.}
 {177}{}{No me intimidas.}
-{178}{}{No te contaré nada.}
-{179}{MORP27}{ Yo hago las preguntas, no tú. Ahora, dime lo que estás haciendo aquí. }
+{178}{}{No te contarÃ© nada.}
+{179}{MORP27}{ Yo hago las preguntas, no tÃº. Ahora, dime lo que estÃ¡s haciendo aquÃ­. }
 {180}{}{Solo me he perdido.}
-{181}{}{Estoy aquí para hacer un trato.}
-{182}{morp28}{¿Sí?}
-{183}{}{Hola. Soy novato en los Niños y me preguntaba si podría hacerte unas preguntas.}
+{181}{}{Estoy aquÃ­ para hacer un trato.}
+{182}{morp28}{Â¿SÃ­?}
+{183}{}{Hola. Soy novato en los NiÃ±os y me preguntaba si podrÃ­a hacerte unas preguntas.}
 {184}{}{No importa.}
-{185}{}{¿Nah?}
+{185}{}{Â¿Nah?}
 {186}{morp29}{Por supuesto, hijo.}
 {187}{}{Gracias.}
 {188}{}{No importa.}
-{189}{}{¿Qué planes tienen los Niños?}
-{190}{}{He cambiado de idea. No tengo más preguntas.}
-{191}{}{¿Qué dices si te cuento que vengo de un Refugio?}
-{192}{MORP31}{ ¿Nuestros planes? Somos los mensajeros de la evolución, hijo. Seguimos al Maestro en su interminable búsqueda de una cura para la tierra y los hombres.}
-{193}{}{¿En serio? ¿Qué tipo de evolución enseñáis?}
-{194}{}{¿Qué tipo de cura?}
-{195}{MORP32}{ Sabemos que hay un nivel superior, un lugar glorioso que la humanidad debe esforzarse por alcanzar. Nuestra misión es conseguir una vida mejor y más satisfactoria que la presente, marcada por la privación y el desengaño. }
-{196}{}{Estás bromeando, ¿verdad?}
-{197}{}{¿Y encontraste ese nivel superior?}
-{198}{MORP33}{[Enfadado] ¡Te voy a...! [Una vez calmado] Te perdono. Muy poca gente es capaz de ver la luz. Pero dime, hijo, ¿por qué te uniste a nosotros? }
-{199}{}{Tenía que ver si era tan ridículo como lo había oído. Ahora lo sé.}
+{189}{}{Â¿QuÃ© planes tienen los NiÃ±os?}
+{190}{}{He cambiado de idea. No tengo mÃ¡s preguntas.}
+{191}{}{Â¿QuÃ© dices si te cuento que vengo de un Refugio?}
+{192}{MORP31}{ Â¿Nuestros planes? Somos los mensajeros de la evoluciÃ³n, hijo. Seguimos al Maestro en su interminable bÃºsqueda de una cura para la tierra y los hombres.}
+{193}{}{Â¿En serio? Â¿QuÃ© tipo de evoluciÃ³n enseÃ±Ã¡is?}
+{194}{}{Â¿QuÃ© tipo de cura?}
+{195}{MORP32}{ Sabemos que hay un nivel superior, un lugar glorioso que la humanidad debe esforzarse por alcanzar. Nuestra misiÃ³n es conseguir una vida mejor y mÃ¡s satisfactoria que la presente, marcada por la privaciÃ³n y el desengaÃ±o. }
+{196}{}{EstÃ¡s bromeando, Â¿verdad?}
+{197}{}{Â¿Y encontraste ese nivel superior?}
+{198}{MORP33}{[Enfadado] Â¡Te voy a...! [Una vez calmado] Te perdono. Muy poca gente es capaz de ver la luz. Pero dime, hijo, Â¿por quÃ© te uniste a nosotros? }
+{199}{}{TenÃ­a que ver si era tan ridÃ­culo como lo habÃ­a oÃ­do. Ahora lo sÃ©.}
 {200}{}{Lo siento. Supongo que no estaba en mis casillas.}
 {201}{morp34}{No sabes nada.}
-{202}{MORP35}{ Sí, lo estabas, pero estás perdonado. Si no tienes más preguntas, tengo trabajo que hacer. }
-{203}{}{Lo cierto es que tengo algunas más.}
+{202}{MORP35}{ SÃ­, lo estabas, pero estÃ¡s perdonado. Si no tienes mÃ¡s preguntas, tengo trabajo que hacer. }
+{203}{}{Lo cierto es que tengo algunas mÃ¡s.}
 {204}{}{No, gracias.}
-{205}{MORP36}{ Desde luego. Continúa. Por favor.}
-{206}{MORP37}{ Sí, pero tú estás... perdonado. Ve en paz, hijo mío. }
-{207}{MORP38}{ No, pero con fe y esperanza, estoy seguro de que lo encontrarás. Pero esto ya se te hará saber, hijo mío.}
-{208}{}{Lo sé, solo un par de preguntas más, por favor.}
-{209}{}{Lo sé. Adiós.}
-{210}{MORP39}{ Para empezar, curamos el cuerpo físico. Seguramente habrás visto nuestros hospitales. Luego ofrecemos cura y esperanza para el espíritu. }
-{211}{}{Guau. Casi me lo trago. ¡Eres bueno!}
-{212}{}{¿Dónde están esos hospitales?}
-{213}{MORP40}{ Nuestro glorioso esfuerzo acaba de alcanzar Adytum y, por supuesto, el Eje resplandece con nuestros esfuerzos. Pero, me da la sensación de que quieres preguntar algo más. }
-{214}{MORP41}{ Estos son días maravillosos. Ciudad Vertedero se une ahora a Adytum y al Eje en nuestra campaña para salvar el cuerpo y el alma. ¿Hay algo más que desees saber, hijo mío? }
+{205}{MORP36}{ Desde luego. ContinÃºa. Por favor.}
+{206}{MORP37}{ SÃ­, pero tÃº estÃ¡s... perdonado. Ve en paz, hijo mÃ­o. }
+{207}{MORP38}{ No, pero con fe y esperanza, estoy seguro de que lo encontrarÃ¡s. Pero esto ya se te harÃ¡ saber, hijo mÃ­o.}
+{208}{}{Lo sÃ©, solo un par de preguntas mÃ¡s, por favor.}
+{209}{}{Lo sÃ©. AdiÃ³s.}
+{210}{MORP39}{ Para empezar, curamos el cuerpo fÃ­sico. Seguramente habrÃ¡s visto nuestros hospitales. Luego ofrecemos cura y esperanza para el espÃ­ritu. }
+{211}{}{Guau. Casi me lo trago. Â¡Eres bueno!}
+{212}{}{Â¿DÃ³nde estÃ¡n esos hospitales?}
+{213}{MORP40}{ Nuestro glorioso esfuerzo acaba de alcanzar Adytum y, por supuesto, el Eje resplandece con nuestros esfuerzos. Pero, me da la sensaciÃ³n de que quieres preguntar algo mÃ¡s. }
+{214}{MORP41}{ Estos son dÃ­as maravillosos. Ciudad Vertedero se une ahora a Adytum y al Eje en nuestra campaÃ±a para salvar el cuerpo y el alma. Â¿Hay algo mÃ¡s que desees saber, hijo mÃ­o? }
 {215}{}{Ahora que lo dices...}
 {216}{}{Por nada. Tengo que irme.}
-{217}{MORP42}{ La visión de los Niños se extiende desde Adytum, por el Eje, hasta Ciudad Vertedero y ahora acaricia suavemente Arenas Sombrías. ¿Por qué lo preguntas? }
-{218}{}{Simple curiosidad. ¿Puedo seguir preguntando?}
+{217}{MORP42}{ La visiÃ³n de los NiÃ±os se extiende desde Adytum, por el Eje, hasta Ciudad Vertedero y ahora acaricia suavemente Arenas SombrÃ­as. Â¿Por quÃ© lo preguntas? }
+{218}{}{Simple curiosidad. Â¿Puedo seguir preguntando?}
 {219}{}{Por nada. Tengo que irme.}
-{220}{MORP42A}{ ¿Tú qué? }
-{221}{}{Ya me has oído. ¡Llévame ante el Maestro, ahora!}
-{222}{MORP42B}{ Eh, sí. Bueno. Sígueme, por favor. }
-{223}{MORP42C}{ Oh, hijo mío, nada de lo que dices tiene sentido, por favor, busca ayuda en uno de nuestros médicos. }
-{224}{MORP45}{ Hijo mío, habla con Fustigador. Él te ayudará. }
+{220}{MORP42A}{ Â¿TÃº quÃ©? }
+{221}{}{Ya me has oÃ­do. Â¡LlÃ©vame ante el Maestro, ahora!}
+{222}{MORP42B}{ Eh, sÃ­. Bueno. SÃ­gueme, por favor. }
+{223}{MORP42C}{ Oh, hijo mÃ­o, nada de lo que dices tiene sentido, por favor, busca ayuda en uno de nuestros mÃ©dicos. }
+{224}{MORP45}{ Hijo mÃ­o, habla con Fustigador. Ã‰l te ayudarÃ¡. }
 {225}{MORP46}{ He dicho... }
-{226}{MORP47}{ ¿Estás sordo? He dicho...}
-{227}{MORP48}{ ¡No pienso repetirlo! }
-{228}{MORP49}{ ¡No lo diré otra vez! }
-{229}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los Niños. Como todos nosotros.}
-{230}{MORP51}{Él fue quien me reveló la visión de la Unidad y será él quien traiga la paz a esta tierra maltratada.}
-{231}{MORP52}{Hijo mío, deberías conocer el Auditorio. Yo doy mis sermones allí. }
+{226}{MORP47}{ Â¿EstÃ¡s sordo? He dicho...}
+{227}{MORP48}{ Â¡No pienso repetirlo! }
+{228}{MORP49}{ Â¡No lo dirÃ© otra vez! }
+{229}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los NiÃ±os. Como todos nosotros.}
+{230}{MORP51}{Ã‰l fue quien me revelÃ³ la visiÃ³n de la Unidad y serÃ¡ Ã©l quien traiga la paz a esta tierra maltratada.}
+{231}{MORP52}{Hijo mÃ­o, deberÃ­as conocer el Auditorio. Yo doy mis sermones allÃ­. }
 {232}{MORP53}{No te preocupes por eso. Solo pueden entrar los Sumos Sacerdotes. }
 {233}{MORP54}{Soy un humilde siervo de la Unidad. }
-{234}{MORP55}{Somos sumos sacerdotes del gran Dios Oscuro. Trece de nosotros tenemos la bendición de transmitir sus poderosas palabras al resto de los Niños. }
-{235}{MORP56}{No tengo ni idea de lo que estás diciendo. }
-{236}{MORP57}{Los hospitales de los Niños de la Catedral proporcionan los mejores tratamientos de esta pobre tierra dividida. Estos tratamientos son vitales para la Unidad.}
-{237}{MORP58}{La Unidad es nuestra búsqueda de un nivel de vida superior y de la solidaridad con nuestros semejantes. }
-{238}{MORP59}{Él es otro Sumo Sacerdote. Se pasa la mayor parte del tiempo estudiando. }
-{239}{MORP60}{Mi corazón sangra por ellos. No han tomado el buen camino. No saben que sus esfuerzos no traerán más que dolor y sufrimiento a sus semejantes.}
-{240}{MORP61}{Nicole es la líder desafortunada y confundida de los Seguidores del Apocalipsis. }
+{234}{MORP55}{Somos sumos sacerdotes del gran Dios Oscuro. Trece de nosotros tenemos la bendiciÃ³n de transmitir sus poderosas palabras al resto de los NiÃ±os. }
+{235}{MORP56}{No tengo ni idea de lo que estÃ¡s diciendo. }
+{236}{MORP57}{Los hospitales de los NiÃ±os de la Catedral proporcionan los mejores tratamientos de esta pobre tierra dividida. Estos tratamientos son vitales para la Unidad.}
+{237}{MORP58}{La Unidad es nuestra bÃºsqueda de un nivel de vida superior y de la solidaridad con nuestros semejantes. }
+{238}{MORP59}{Ã‰l es otro Sumo Sacerdote. Se pasa la mayor parte del tiempo estudiando. }
+{239}{MORP60}{Mi corazÃ³n sangra por ellos. No han tomado el buen camino. No saben que sus esfuerzos no traerÃ¡n mÃ¡s que dolor y sufrimiento a sus semejantes.}
+{240}{MORP61}{Nicole es la lÃ­der desafortunada y confundida de los Seguidores del Apocalipsis. }
 {241}{MORP62}{Adytum es la ciudad al noroeste de nosotros. }
 {242}{MORP63}{Eso no es importante. }
 {243}{MORP64}{No pasa nada. Puedes preguntar otra cosa. }
 {244}{morp65}{Nada de lo que debas preocuparte.}
-{245}{}{Maestro, creo que disfrutarás de este...}
-{500}{}{Ganas 1.000 puntos de experiencia por destruir al líder de los Niños de la Catedral.}
+{245}{}{Maestro, creo que disfrutarÃ¡s de este...}
+{500}{}{Ganas 1.000 puntos de experiencia por destruir al lÃ­der de los NiÃ±os de la Catedral.}
 {980}{MORP63}{Eso no es importante. }
 {981}{MORP64}{No pasa nada. Puedes preguntar otra cosa. }
 {982}{morp65}{Nada de lo que debas preocuparte.}
 {1000}{}{Nocturnos}
 {1001}{}{Maestro}
 {1002}{}{Auditorio}
-{1003}{}{Sánctum}
+{1003}{}{SÃ¡nctum}
 {1004}{}{Morfeo}
 {1005}{}{Orden}
 {1006}{}{Caravanas}
@@ -164,24 +164,24 @@
 {1013}{}{Apocalipsis}
 {1014}{}{Mutantes}
 {1015}{}{Llama Sagrada}
-{1016}{}{Niños}
+{1016}{}{NiÃ±os}
 {1017}{}{Base}
 {1018}{}{Chip}
-{1100}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los Niños. Como todos nosotros.}
-{1101}{MORP51}{Él fue quien me reveló la visión de la Unidad y será él quien traiga la paz a esta tierra maltratada.}
-{1102}{MORP52}{Hijo mío, deberías conocer el Auditorio. Yo doy mis sermones allí. }
+{1100}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los NiÃ±os. Como todos nosotros.}
+{1101}{MORP51}{Ã‰l fue quien me revelÃ³ la visiÃ³n de la Unidad y serÃ¡ Ã©l quien traiga la paz a esta tierra maltratada.}
+{1102}{MORP52}{Hijo mÃ­o, deberÃ­as conocer el Auditorio. Yo doy mis sermones allÃ­. }
 {1103}{MORP53}{No te preocupes por eso. Solo pueden entrar los Sumos Sacerdotes. }
 {1104}{MORP54}{Soy un humilde siervo de la Unidad. }
-{1105}{MORP55}{Somos sumos sacerdotes del gran Dios Oscuro. Trece de nosotros tenemos la bendición de transmitir sus poderosas palabras al resto de los Niños. }
-{1106}{MORP56}{No tengo ni idea de lo que estás diciendo. }
-{1107}{MORP57}{Los hospitales de los Niños de la Catedral proporcionan los mejores tratamientos de esta pobre tierra dividida. Estos tratamientos son vitales para la Unidad.}
-{1108}{MORP58}{La Unidad es nuestra búsqueda de un nivel de vida superior y de la solidaridad con nuestros semejantes. }
-{1109}{MORP59}{Él es otro Sumo Sacerdote. Se pasa la mayor parte del tiempo estudiando. }
-{1110}{MORP60}{Mi corazón sangra por ellos. No han tomado el buen camino. No saben que sus esfuerzos no traerán más que dolor y sufrimiento a sus semejantes.}
-{1111}{MORP61}{Nicole es la líder desafortunada y confundida de los Seguidores del Apocalipsis. }
+{1105}{MORP55}{Somos sumos sacerdotes del gran Dios Oscuro. Trece de nosotros tenemos la bendiciÃ³n de transmitir sus poderosas palabras al resto de los NiÃ±os. }
+{1106}{MORP56}{No tengo ni idea de lo que estÃ¡s diciendo. }
+{1107}{MORP57}{Los hospitales de los NiÃ±os de la Catedral proporcionan los mejores tratamientos de esta pobre tierra dividida. Estos tratamientos son vitales para la Unidad.}
+{1108}{MORP58}{La Unidad es nuestra bÃºsqueda de un nivel de vida superior y de la solidaridad con nuestros semejantes. }
+{1109}{MORP59}{Ã‰l es otro Sumo Sacerdote. Se pasa la mayor parte del tiempo estudiando. }
+{1110}{MORP60}{Mi corazÃ³n sangra por ellos. No han tomado el buen camino. No saben que sus esfuerzos no traerÃ¡n mÃ¡s que dolor y sufrimiento a sus semejantes.}
+{1111}{MORP61}{Nicole es la lÃ­der desafortunada y confundida de los Seguidores del Apocalipsis. }
 {1112}{MORP62}{Adytum es la ciudad al noroeste de nosotros. }
-{1113}{MORP60}{Mi corazón sangra por ellos. No han tomado el buen camino. No saben que sus esfuerzos no traerán más que dolor y sufrimiento a sus semejantes.}
-{1114}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los Niños. Como todos nosotros.}
+{1113}{MORP60}{Mi corazÃ³n sangra por ellos. No han tomado el buen camino. No saben que sus esfuerzos no traerÃ¡n mÃ¡s que dolor y sufrimiento a sus semejantes.}
+{1114}{MORP50}{Los Nocturnos vinieron a nosotros hace tiempo. Puede que sean horribles mutantes pero son extremadamente leales a los NiÃ±os. Como todos nosotros.}
 {1115}{morp65}{Nada de lo que debas preocuparte.}
 {1116}{morp65}{Nada de lo que debas preocuparte.}
 {1117}{morp65}{Nada de lo que debas preocuparte.}

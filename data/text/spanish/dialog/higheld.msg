@@ -1,68 +1,68 @@
-{100}{}{Estás viendo a un Anciano de la Hermandad.}
-{101}{}{Saludos, Iniciado. Necesito hablar contigo (te indica que te acerques más).}
-{102}{}{¿Sobre qué?}
+{100}{}{EstÃ¡s viendo a un Anciano de la Hermandad.}
+{101}{}{Saludos, Iniciado. Necesito hablar contigo (te indica que te acerques mÃ¡s).}
+{102}{}{Â¿Sobre quÃ©?}
 {103}{}{Ahora no tengo tiempo.}
-{104}{}{¿Eh?}
-{105}{}{Hay un asunto urgente en el que necesito que me ayudes. Se trata de Maxson. Estamos seguros de que ha perdido la cabeza. Se pasa el día balbuceando algo de un ejército que ataca en el norte.}
-{106}{}{No pienso mandar a nuestras tropas a zonas que posiblemente estén contaminadas, a menos que tenga pruebas definitivas de la existencia de ese "ejército".}
-{107}{}{ Necesito a alguien que no sea amigo del viejo. Alguien que me pueda dar informes fiables. ¿Quieres inspeccionar la región del norte?}
-{108}{}{Lo haré.}
+{104}{}{Â¿Eh?}
+{105}{}{Hay un asunto urgente en el que necesito que me ayudes. Se trata de Maxson. Estamos seguros de que ha perdido la cabeza. Se pasa el dÃ­a balbuceando algo de un ejÃ©rcito que ataca en el norte.}
+{106}{}{No pienso mandar a nuestras tropas a zonas que posiblemente estÃ©n contaminadas, a menos que tenga pruebas definitivas de la existencia de ese "ejÃ©rcito".}
+{107}{}{ Necesito a alguien que no sea amigo del viejo. Alguien que me pueda dar informes fiables. Â¿Quieres inspeccionar la regiÃ³n del norte?}
+{108}{}{Lo harÃ©.}
 {109}{}{No puedo hacerlo ahora. Tengo otros asuntos que resolver.}
-{110}{}{Ya he visto una base al norte dirigida por un ejército de mutantes.}
-{111}{}{Bien. Primero ve a hablar con Maxson si aún no lo has hecho. Vuelve a informarme cuando hayas inspeccionado la zona del norte. Más tarde decidiremos qué hacer con Maxson.}
-{112}{}{Deséame suerte.}
-{113}{}{¿Has explorado todo el territorio del norte?}
-{114}{}{Sí.}
+{110}{}{Ya he visto una base al norte dirigida por un ejÃ©rcito de mutantes.}
+{111}{}{Bien. Primero ve a hablar con Maxson si aÃºn no lo has hecho. Vuelve a informarme cuando hayas inspeccionado la zona del norte. MÃ¡s tarde decidiremos quÃ© hacer con Maxson.}
+{112}{}{DesÃ©ame suerte.}
+{113}{}{Â¿Has explorado todo el territorio del norte?}
+{114}{}{SÃ­.}
 {115}{}{No.}
-{116}{}{¿Y qué tienes que decirme?}
+{116}{}{Â¿Y quÃ© tienes que decirme?}
 {117}{}{He descubierto una base de mutantes dotados de armas pesadas. Muy mal.}
-{118}{}{No creía que fueses así. No te has ido mucho tiempo. Ahora vuelve allí y no vuelvas hasta que tengas un informe COMPLETO.}
-{119}{}{Sí, señor.}
-{120}{}{Informaré a los Ancianos. Esperaremos órdenes de Maxson para saber lo que hacer. Ve y cuéntale lo que has visto. Gracias por tu ayuda, Iniciado.}
-{121}{}{No hay de qué.}
-{122}{}{Entonces tendré tiempo para escucharte.}
-{123}{}{Soy todo oídos.}
+{118}{}{No creÃ­a que fueses asÃ­. No te has ido mucho tiempo. Ahora vuelve allÃ­ y no vuelvas hasta que tengas un informe COMPLETO.}
+{119}{}{SÃ­, seÃ±or.}
+{120}{}{InformarÃ© a los Ancianos. Esperaremos Ã³rdenes de Maxson para saber lo que hacer. Ve y cuÃ©ntale lo que has visto. Gracias por tu ayuda, Iniciado.}
+{121}{}{No hay de quÃ©.}
+{122}{}{Entonces tendrÃ© tiempo para escucharte.}
+{123}{}{Soy todo oÃ­dos.}
 {124}{}{Puedes irte al infierno, viejo.}
-{125}{}{Olvídalo, tengo cosas más importantes que hacer.}
-{126}{}{Lo entiendo. Si viajas a esa zona y encuentras algo interesante, avísame, por favor.}
-{127}{}{Si encuentro algo parecido a un ejército en la zona del norte, te avisaré.}
-{128}{}{Buen trabajo con los mutantes. Sabemos que destruiste fácilmente sus instalaciones. Gracias por resolvernos ese problema.}
+{125}{}{OlvÃ­dalo, tengo cosas mÃ¡s importantes que hacer.}
+{126}{}{Lo entiendo. Si viajas a esa zona y encuentras algo interesante, avÃ­same, por favor.}
+{127}{}{Si encuentro algo parecido a un ejÃ©rcito en la zona del norte, te avisarÃ©.}
+{128}{}{Buen trabajo con los mutantes. Sabemos que destruiste fÃ¡cilmente sus instalaciones. Gracias por resolvernos ese problema.}
 {129}{}{No hay problema.}
-{130}{}{¿"Eh"? ¿Qué tipo de respuesta es "eh"? ¡Vete! ¡Ahora!}
-{131}{}{Si dependiera de mí, ya no estaría de aquí.}
+{130}{}{Â¿"Eh"? Â¿QuÃ© tipo de respuesta es "eh"? Â¡Vete! Â¡Ahora!}
+{131}{}{Si dependiera de mÃ­, ya no estarÃ­a de aquÃ­.}
 {132}{}{No tengo nada que decirte.}
-{133}{}{Deberías aprender modales.}
-{134}{}{La reunión llegará a un acuerdo. Todos los Ancianos están presentes y han accedido a escuchar al Hermano }
-{135}{}{. Deberíamos determinar las medidas a tomar, Hermano }
-{136}{}{, cuéntanos lo que has visto al norte.}
+{133}{}{DeberÃ­as aprender modales.}
+{134}{}{La reuniÃ³n llegarÃ¡ a un acuerdo. Todos los Ancianos estÃ¡n presentes y han accedido a escuchar al Hermano }
+{135}{}{. DeberÃ­amos determinar las medidas a tomar, Hermano }
+{136}{}{, cuÃ©ntanos lo que has visto al norte.}
 {137}{}{Durante mis exploraciones, he descubierto una base militar utilizada por mutantes. Hay muchos guardias y patrullas constantes.}
-{138}{}{¿Eh?}
-{139}{}{¿Y cómo son esos mutantes?}
-{140}{}{Son grandes humanoides. Su masa muscular está muy por encima de la de cualquier humano. Al parecer unos cuantos custodian la puerta en tropas organizadas.}
+{138}{}{Â¿Eh?}
+{139}{}{Â¿Y cÃ³mo son esos mutantes?}
+{140}{}{Son grandes humanoides. Su masa muscular estÃ¡ muy por encima de la de cualquier humano. Al parecer unos cuantos custodian la puerta en tropas organizadas.}
 {141}{}{Son grandes, verdosos y llevan armas.}
-{142}{}{Como sabrás, nuestra Escriba Jefe Vree, ha practicado una autopsia a una criatura muy similar a la que acabas de describir. ¿Crees que se trata de lo mismo?}
-{143}{}{Sí, la descripción de la criatura es casi idéntica.}
-{144}{}{¿Cuál crees que es el as en la manga de estos "mutantes"?}
-{145}{}{Al igual que la Hermandad se ha estado preparando para la batalla, este "ejército mutante" se ha preparado para algo grande.}
-{146}{}{Con franqueza, tu informe no nos prueba con certeza que sean una amenaza para nosotros. ¿Con qué pruebas cuentas para decir que tienen intenciones hostiles?}
-{147}{}{Han invadido Necrópolis. Pero no se contentarán con eso.}
-{148}{}{Están reuniendo un ejército de armamento pesado. Seguro que no se quedarán quietos. Intentarán utilizarlo.}
-{149}{}{¿Crees que con las acciones que están emprendiendo, es factible que vengan aquí?}
-{150}{}{Es posible que ya estén en camino. La Hermandad es la única oposición real que pueden encontrar.}
-{151}{}{No creo que eso implique hostilidad. Es posible que solo protejan de un ataque. Incluso nosotros tenemos que plantearnos algún que otro ataque ocasional.}
-{152}{}{Si atacan, no será NADA parecido al ataque ocasional de los saqueadores. Será una carnicería. }
-{153}{}{Puesto que están saliendo de esa vieja base militar, puedo imaginar que tienen armas similares a las vuestras.}
-{154}{}{¿Qué sugieres? ¿Una incursión preventiva en su base militar?}
-{155}{}{Sí, pero no quiero que sepan que vamos. Un pequeño grupo tendrá más oportunidades de introducirse en la zona sin ser detectado.}
-{156}{}{Eso solo solucionará una parte del problema. Son gobernados por un grupo procedente de la Catedral del Cementerio.}
-{157}{}{Vale. Tres Paladines de mi elección se encontrarán contigo en la base militar para ayudarte a entrar. Ancianos, gracias por vuestro tiempo. Que tengas suerte, Iniciado.}
-{158}{}{Si los gobierna un grupo de la Catedral del Cementerio, entonces hay posibilidades de que tengan aquí también un pequeño ejército.}
-{159}{}{Mientras acabamos con ellos en la zona del norte, el sur estará vulnerable. Solo puedo emplear a un par de hombres en esta misión.}
+{142}{}{Como sabrÃ¡s, nuestra Escriba Jefe Vree, ha practicado una autopsia a una criatura muy similar a la que acabas de describir. Â¿Crees que se trata de lo mismo?}
+{143}{}{SÃ­, la descripciÃ³n de la criatura es casi idÃ©ntica.}
+{144}{}{Â¿CuÃ¡l crees que es el as en la manga de estos "mutantes"?}
+{145}{}{Al igual que la Hermandad se ha estado preparando para la batalla, este "ejÃ©rcito mutante" se ha preparado para algo grande.}
+{146}{}{Con franqueza, tu informe no nos prueba con certeza que sean una amenaza para nosotros. Â¿Con quÃ© pruebas cuentas para decir que tienen intenciones hostiles?}
+{147}{}{Han invadido NecrÃ³polis. Pero no se contentarÃ¡n con eso.}
+{148}{}{EstÃ¡n reuniendo un ejÃ©rcito de armamento pesado. Seguro que no se quedarÃ¡n quietos. IntentarÃ¡n utilizarlo.}
+{149}{}{Â¿Crees que con las acciones que estÃ¡n emprendiendo, es factible que vengan aquÃ­?}
+{150}{}{Es posible que ya estÃ©n en camino. La Hermandad es la Ãºnica oposiciÃ³n real que pueden encontrar.}
+{151}{}{No creo que eso implique hostilidad. Es posible que solo protejan de un ataque. Incluso nosotros tenemos que plantearnos algÃºn que otro ataque ocasional.}
+{152}{}{Si atacan, no serÃ¡ NADA parecido al ataque ocasional de los saqueadores. SerÃ¡ una carnicerÃ­a. }
+{153}{}{Puesto que estÃ¡n saliendo de esa vieja base militar, puedo imaginar que tienen armas similares a las vuestras.}
+{154}{}{Â¿QuÃ© sugieres? Â¿Una incursiÃ³n preventiva en su base militar?}
+{155}{}{SÃ­, pero no quiero que sepan que vamos. Un pequeÃ±o grupo tendrÃ¡ mÃ¡s oportunidades de introducirse en la zona sin ser detectado.}
+{156}{}{Eso solo solucionarÃ¡ una parte del problema. Son gobernados por un grupo procedente de la Catedral del Cementerio.}
+{157}{}{Vale. Tres Paladines de mi elecciÃ³n se encontrarÃ¡n contigo en la base militar para ayudarte a entrar. Ancianos, gracias por vuestro tiempo. Que tengas suerte, Iniciado.}
+{158}{}{Si los gobierna un grupo de la Catedral del Cementerio, entonces hay posibilidades de que tengan aquÃ­ tambiÃ©n un pequeÃ±o ejÃ©rcito.}
+{159}{}{Mientras acabamos con ellos en la zona del norte, el sur estarÃ¡ vulnerable. Solo puedo emplear a un par de hombres en esta misiÃ³n.}
 {160}{}{Dame un par de Paladines para acabar con su base del norte.}
 {161}{}{Dame un par de Paladines para acabar con su base del sur.}
-{162}{}{Vale. Dos Paladines de mi elección se encontrarán contigo en la Catedral del Cementerio. Ancianos, gracias por vuestro tiempo. Que tengas suerte, Iniciado.}
-{163}{}{Vale. Tres Paladines de mi elección se encontrarán contigo en la base militar para ayudarte a entrar. Ancianos, gracias por vuestro tiempo. Que tengas suerte, Iniciado.}
-{164}{}{Obviamente nos hemos equivocado. Ancianos, lamento haberos hecho perder el tiempo. ¿Podría alguien eliminar a esta abominación mental?}
+{162}{}{Vale. Dos Paladines de mi elecciÃ³n se encontrarÃ¡n contigo en la Catedral del Cementerio. Ancianos, gracias por vuestro tiempo. Que tengas suerte, Iniciado.}
+{163}{}{Vale. Tres Paladines de mi elecciÃ³n se encontrarÃ¡n contigo en la base militar para ayudarte a entrar. Ancianos, gracias por vuestro tiempo. Que tengas suerte, Iniciado.}
+{164}{}{Obviamente nos hemos equivocado. Ancianos, lamento haberos hecho perder el tiempo. Â¿PodrÃ­a alguien eliminar a esta abominaciÃ³n mental?}
 {165}{}{Estoy demasiado ocupado planeando una estrategia defensiva.}
 {166}{}{Ganas }
 {167}{}{ puntos de experiencia por convencer a la Hermandad del Acero de que te ayude a destruir la base militar Mariposa.}

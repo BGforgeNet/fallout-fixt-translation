@@ -20,14 +20,14 @@
 {114}{}{VOLUMEN DE SONIDO GENERAL}
 {115}{}{MUSIC AND MOVIE VOLUME}
 {116}{}{VOLUMEN DE EFECTOS DE SONIDO}
-{117}{}{VOLUMEN DE DI¡LOGOS}
+{117}{}{VOLUMEN DE DI√ÅLOGOS}
 {118}{}{BRIGHTNESS / CONTRAST}
 {119}{}{SENSIBILIDAD DEL RATON}
 {120}{}{POR DEFECTO}
 {121}{}{CANCELAR}
 {122}{}{Affect player speed?}
 {123}{}{SIN USAR}
-{201}{}{SÌ}
+{201}{}{S√≠}
 {202}{}{No}
 {203}{}{Facil}
 {204}{}{Normal}
@@ -36,12 +36,12 @@
 {207}{}{Normal}
 {208}{}{Duro}
 {209}{}{Normal}
-{210}{}{R·pida}
+{210}{}{R√°pida}
 {211}{}{Detallado}
 {212}{}{Breve}
-{213}{}{SÛlo al apuntar}
+{213}{}{S√≥lo al apuntar}
 {214}{}{Nada}
-{215}{}{MÌnima}
+{215}{}{M√≠nima}
 {216}{}{Gore}
 {217}{}{8 seconds}
 {218}{}{Fast}
@@ -49,7 +49,7 @@
 {220}{}{Mucho}
 {221}{}{Bajo}
 {222}{}{Alto}
-{223}{}{M·ximo}
+{223}{}{M√°ximo}
 {224}{}{Ancho}
 {300}{}{UNPAUSE}
 {301}{}{PAUSA}

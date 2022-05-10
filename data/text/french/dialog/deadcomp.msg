@@ -1,36 +1,36 @@
 {100}{}{This is a badly worn-out reception desk with a dusty, cracked computer seated precariously atop it.}
-{101}{}{Tu rebranches un composant mal fixé et étonnamment l'écran s'allume !}
-{102}{}{Les dommages semblent d'avantage mécaniques qu'électroniques. Ca devrait pouvoir démarrer avec un peu de travail.}
+{101}{}{Tu rebranches un composant mal fixÃ© et Ã©tonnamment l'Ã©cran s'allume !}
+{102}{}{Les dommages semblent d'avantage mÃ©caniques qu'Ã©lectroniques. Ca devrait pouvoir dÃ©marrer avec un peu de travail.}
 {103}{}{This equipment appears to be non-functional.}
-{104}{}{Tu trifouilles à l'intérieur et te coupes les mains sur un bord du boîtier. Ouch !}
-{105}{}{Macro$oft [tm) Wyndoze 99 (c] Démarrage... Fait.       U:\ > }
+{104}{}{Tu trifouilles Ã  l'intÃ©rieur et te coupes les mains sur un bord du boÃ®tier. Ouch !}
+{105}{}{Macro$oft [tm) Wyndoze 99 (c] DÃ©marrage... Fait.       U:\ > }
 {106}{}{DIR}
 {107}{}{EXIT}
-{108}{}{FALLOUT  <DIR>     10-20-99  13:04 						0 octets alloués dans 0 fichiers, 4,379,255 octets libres.}
+{108}{}{FALLOUT  <DIR>     10-20-99  13:04 						0 octets allouÃ©s dans 0 fichiers, 4,379,255 octets libres.}
 {109}{}{CD FALLOUT}
 {110}{}{Woah ! C'est un super jeu !}
 {111}{}{U:\ > }
 {112}{}{After several minutes of searching, you find a Debug Mode jumper setting and change it to 01.}
 {113}{}{FALLOUTW.EXE}
 {114}{}{U:\Fallout\ > }
-{115}{}{FALLOUTW.EXE   1384432  10-20-99  13:04 					 FALLDEMO.EXE 995328 04-22-97 14:13 				  2,379,760 octets dans 2 fichiers, 2,436,874 octets alloués }
+{115}{}{FALLOUTW.EXE   1384432  10-20-99  13:04 					 FALLDEMO.EXE 995328 04-22-97 14:13 				  2,379,760 octets dans 2 fichiers, 2,436,874 octets allouÃ©s }
 {116}{}{[Continue]}
 {117}{}{> CHARGEMENT...}
-{118}{}{[Terminé]}
-{119}{}{points d'expérience pour avoir joué à Fallout.}
+{118}{}{[TerminÃ©]}
+{119}{}{points d'expÃ©rience pour avoir jouÃ© Ã  Fallout.}
 {120}{}{U:\Fallout\ > }
-{121}{}{J'en ai jamais assez de ce "Fallout". Il est si particulier, même pour un jeu d'avant-guerre.}
+{121}{}{J'en ai jamais assez de ce "Fallout". Il est si particulier, mÃªme pour un jeu d'avant-guerre.}
 {122}{}{Hmmm... I wonder what that setting changes?}
 {123}{}{> Initiate debug sequence}
 {124}{}{*click* ............. Please stand by ... ... ... ... ... ... 
                %s  Done.}
 {125}{}{You earn 50 experience.}
 {126}{}{FALLDEMO.EXE}
-{128}{}{[Terminé]}
+{128}{}{[TerminÃ©]}
 {129}{}{MEMORY DUMP INITIATED >>> DO NOT POWER OFF OR RESET THIS TERMINAL
 ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  
 ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  }
-{130}{}{Je pige rien à tout ça, je suis pas un génie de l'informatique !}
+{130}{}{Je pige rien Ã  tout Ã§a, je suis pas un gÃ©nie de l'informatique !}
 {131}{}{You see: Computer Desk.}
 {132}{}{> PLEASE INSERT EXTRACTION MEDIA <}
 {133}{}{Um... I don't have anything like that.}
@@ -74,16 +74,16 @@ Transferring 6,759,015 bytes to tape backup drive...............................
 {151}{}{01100110011000010110110001101100011011110111010101110100011101110010111001100101011110000110010100100000001000000010000000100000001000000011000100110011001110000011010000110100001100110011001000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000110011001100001011011000110110001100100011001010110110101101111001011100110010101111000011001010010000000100000001000000010000000100000001110010011100100110101001100110011001000111000}
 {152}{}{You earn 25 experience for playing Fallout (again).}
 {153}{}{Sympa, je parie que le jeu complet est une tuerie !}
-{154}{}{La version complète de Fallout est bien plus sympa, mais cette démo a néanmoins son charme.}
-{155}{}{points d'expérience pour avoir joué à la démo de Fallout.}
+{154}{}{La version complÃ¨te de Fallout est bien plus sympa, mais cette dÃ©mo a nÃ©anmoins son charme.}
+{155}{}{points d'expÃ©rience pour avoir jouÃ© Ã  la dÃ©mo de Fallout.}
 {156}{}{You earn 42 experience for playing Fallout Fixt.}
 {157}{}{Congratulations, you have achieved all possible endings of the Fallout Interactive Demo!}
 {158}{}{Congratulations, you have achieved all possible endings of Fallout: A Post-Nuclear Role-Playing Game!}
 {159}{}{Wow, this is amazing! Even better than the original game.}
 {160}{}{You play Fallout Fixt. Whoever created this must have been very talented.}
-{400}{}{Le générateur détruit, les gangs n'ont plus de raison de se battre pour Scraphead. Les gens de Scraphead auront une vie plus difficile sans énergie; mais les gangs partis, ils auront au moins une vie. Ton travail ici est achevé, mais ta mission pour trouver la puce de purification de l'eau continue.}
-{401}{}{Après une longue bataille et beaucoup de sang versé, vous vous en sortez. Une fois les gangs vaincus, le ScrapHeap est de nouveau un havre de sûreté. Les habitants vous sont reconnaissants - Ils vous donnent de précieuses informations et votre tâche à Scrapheap est terminée. Bien entendu, votre mission pour trouver la puce de purification de l'eau continue.}
-{500}{}{500 Après avoir arrêté le Maitre et anéanti son laboratoire dans lequel il créait son armée de Super Mutants, vous retournez enfin chez vous. Tout ça pour découvrir que vous êtes exilé de l'Abri à cause de votre pouvoir de destruction. Merci d'avoir joué à Fallout.}
-{501}{}{501 Après avoir convaincu le Maitre d'abandonner son plan malade de domination et détruit les cuves, vous retournez enfin chez vous. Tout ça pour découvrir que vous êtes exilé afin d'éviter que d'autres habitants ne suivent votre exemple et ne soient tenté de quitter l'Abri. Merci d'avoir joué à Fallout.}
-{502}{}{502 Après avoir détruit les cuves, le Maitre, et son armée de Super Mutants, vous retournez enfin chez vous. Mais il vous est interdit d'entrer dans l'Abri. Vous ne vous laissez pas faire, laissant le cadavre désarticulé du Dirigeant sur vos pas. Merci d'avoir joué à Fallout.}
-{503}{}{503 Vous êtes plongé dans une cuve à FEV et vous rejoignez l'armée du Maitre. Vous révélez l'emplacement de l'Abri 13. Vous êtes récompensé en étant mis aux commandes de l'assaut contre votre Abri, et vous tuez le Dirigeant de vos propres mains. Merci d'avoir joué à Fallout.}
+{400}{}{Le gÃ©nÃ©rateur dÃ©truit, les gangs n'ont plus de raison de se battre pour Scraphead. Les gens de Scraphead auront une vie plus difficile sans Ã©nergie; mais les gangs partis, ils auront au moins une vie. Ton travail ici est achevÃ©, mais ta mission pour trouver la puce de purification de l'eau continue.}
+{401}{}{AprÃ¨s une longue bataille et beaucoup de sang versÃ©, vous vous en sortez. Une fois les gangs vaincus, le ScrapHeap est de nouveau un havre de sÃ»retÃ©. Les habitants vous sont reconnaissants - Ils vous donnent de prÃ©cieuses informations et votre tÃ¢che Ã  Scrapheap est terminÃ©e. Bien entendu, votre mission pour trouver la puce de purification de l'eau continue.}
+{500}{}{500 AprÃ¨s avoir arrÃªtÃ© le Maitre et anÃ©anti son laboratoire dans lequel il crÃ©ait son armÃ©e de Super Mutants, vous retournez enfin chez vous. Tout Ã§a pour dÃ©couvrir que vous Ãªtes exilÃ© de l'Abri Ã  cause de votre pouvoir de destruction. Merci d'avoir jouÃ© Ã  Fallout.}
+{501}{}{501 AprÃ¨s avoir convaincu le Maitre d'abandonner son plan malade de domination et dÃ©truit les cuves, vous retournez enfin chez vous. Tout Ã§a pour dÃ©couvrir que vous Ãªtes exilÃ© afin d'Ã©viter que d'autres habitants ne suivent votre exemple et ne soient tentÃ© de quitter l'Abri. Merci d'avoir jouÃ© Ã  Fallout.}
+{502}{}{502 AprÃ¨s avoir dÃ©truit les cuves, le Maitre, et son armÃ©e de Super Mutants, vous retournez enfin chez vous. Mais il vous est interdit d'entrer dans l'Abri. Vous ne vous laissez pas faire, laissant le cadavre dÃ©sarticulÃ© du Dirigeant sur vos pas. Merci d'avoir jouÃ© Ã  Fallout.}
+{503}{}{503 Vous Ãªtes plongÃ© dans une cuve Ã  FEV et vous rejoignez l'armÃ©e du Maitre. Vous rÃ©vÃ©lez l'emplacement de l'Abri 13. Vous Ãªtes rÃ©compensÃ© en Ã©tant mis aux commandes de l'assaut contre votre Abri, et vous tuez le Dirigeant de vos propres mains. Merci d'avoir jouÃ© Ã  Fallout.}

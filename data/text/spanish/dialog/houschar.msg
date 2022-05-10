@@ -1,3 +1,3 @@
-{100}{}{Est·s viendo una silla vieja.}
-{101}{}{Est·s viendo una silla vieja.}
-{102}{}{La silla parece tentarte, pero debes continuar tu misiÛn.}
+{100}{}{Est√°s viendo una silla vieja.}
+{101}{}{Est√°s viendo una silla vieja.}
+{102}{}{La silla parece tentarte, pero debes continuar tu misi√≥n.}

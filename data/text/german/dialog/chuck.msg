@@ -65,7 +65,7 @@
 {164}{}{Perhaps you're right. Certainly those who survive will be stronger.}
 {165}{}{They will eventually destroy themselves. And the people who will be left will be the ones who work together to survive, like us.}
 {166}{}{I'm glad that some of the outsiders, like you, feel that way. We need to find ways to work together to build something new. It won't start here; we are too regulated, but it has to start somewhere.}
-{167}{}{Hallo. Was kann ich für dich tun?}
+{167}{}{Hallo. Was kann ich fÃ¼r dich tun?}
 {168}{}{Can I help you?}
 {169}{}{Ja?}
 {170}{}{Just stopping by to say hello.}

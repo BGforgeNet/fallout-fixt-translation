@@ -1,1 +1,1 @@
-{100}{}{Voici un redoutable pillard. Il s'agit peut-être d'un membre des légendaires Vipères.}
+{100}{}{Voici un redoutable pillard. Il s'agit peut-Ãªtre d'un membre des lÃ©gendaires VipÃ¨res.}

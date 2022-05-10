@@ -1,8 +1,8 @@
-{100}{}{Voici un Garde de la Confrérie.}
-{101}{}{Tu ne devrais pas être là, Initié.}
+{100}{}{Voici un Garde de la ConfrÃ©rie.}
+{101}{}{Tu ne devrais pas Ãªtre lÃ , InitiÃ©.}
 {102}{}{Que fais-tu ici ?}
-{103}{}{La salle des gardes est réservée aux gardes. Tu n'es pas un garde. Tu es dans la salle des gardes. Par conséquent, TU dois partir.}
-{104}{}{Va t'en, s'il te plaît. Tu ne devrais pas être là.}
-{105}{}{Hé, pas d'initiés ici.}
-{106}{}{Ce n'est pas une bibliothèque ici, mon garçon. Si tu veux bouquiner, va à la bibliothèque.}
-{107}{}{Ce n'est pas une bibliothèque ici, ma chère. Si tu veux bouquiner, va à la bibliothèque.}
+{103}{}{La salle des gardes est rÃ©servÃ©e aux gardes. Tu n'es pas un garde. Tu es dans la salle des gardes. Par consÃ©quent, TU dois partir.}
+{104}{}{Va t'en, s'il te plaÃ®t. Tu ne devrais pas Ãªtre lÃ .}
+{105}{}{HÃ©, pas d'initiÃ©s ici.}
+{106}{}{Ce n'est pas une bibliothÃ¨que ici, mon garÃ§on. Si tu veux bouquiner, va Ã  la bibliothÃ¨que.}
+{107}{}{Ce n'est pas une bibliothÃ¨que ici, ma chÃ¨re. Si tu veux bouquiner, va Ã  la bibliothÃ¨que.}

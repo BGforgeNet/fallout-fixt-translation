@@ -14,7 +14,7 @@
 {204}{}{crippled your left arm}
 {205}{}{crippled your right arm}
 {206}{}{blinded}
-{207}{}{as été tué}
+{207}{}{as Ã©tÃ© tuÃ©}
 {208}{}{hit}
 {209}{}{critical}
 {210}{}{were set on fire}
@@ -27,7 +27,7 @@
 {217}{}{lost the rest of your ammo}
 {218}{}{fired a dud shot}
 {219}{}{hurt yourself}
-{220}{}{a été touché au hasard}
+{220}{}{a Ã©tÃ© touchÃ© au hasard}
 {221}{}{crippled a random limb}
 {222}{}{peppered with fragments}
 {250}{}{were knocked out}
@@ -37,7 +37,7 @@
 {254}{}{crippled your left arm}
 {255}{}{crippled your right arm}
 {256}{}{blinded}
-{257}{}{as été tué}
+{257}{}{as Ã©tÃ© tuÃ©}
 {258}{}{hit}
 {259}{}{critical}
 {260}{}{were set on fire}
@@ -50,7 +50,7 @@
 {267}{}{lost the rest of your ammo}
 {268}{}{fired a dud shot}
 {269}{}{hurt yourself}
-{270}{}{a été touché au hasard}
+{270}{}{a Ã©tÃ© touchÃ© au hasard}
 {271}{}{crippled a random limb}
 {272}{}{peppered with fragments}
 {300}{}{was knocked out}
@@ -60,7 +60,7 @@
 {304}{}{crippled his left arm}
 {305}{}{crippled his right arm}
 {306}{}{blinded}
-{307}{}{a été tué}
+{307}{}{a Ã©tÃ© tuÃ©}
 {308}{}{hit}
 {309}{}{critical}
 {310}{}{was set on fire}
@@ -73,7 +73,7 @@
 {317}{}{lost the rest of his ammo}
 {318}{}{fired a dud shot}
 {319}{}{hurt himself}
-{320}{}{a été touché au hasard}
+{320}{}{a Ã©tÃ© touchÃ© au hasard}
 {321}{}{crippled a random limb}
 {322}{}{peppered with fragments}
 {400}{}{was knocked out}
@@ -83,7 +83,7 @@
 {404}{}{crippled her left arm}
 {405}{}{crippled her right arm}
 {406}{}{blinded}
-{407}{}{a été tué}
+{407}{}{a Ã©tÃ© tuÃ©}
 {408}{}{hit}
 {409}{}{critical}
 {410}{}{was set on fire}
@@ -96,21 +96,21 @@
 {417}{}{lost the rest of her ammo}
 {418}{}{fired a dud shot}
 {419}{}{hurt herself}
-{420}{}{a été touché au hasard}
+{420}{}{a Ã©tÃ© touchÃ© au hasard}
 {421}{}{crippled a random limb}
 {422}{}{peppered with fragments}
 {506}{}{You}
-{509}{}{Oh ! %s as été touché à la place de %s !}
-{511}{}{%s as été touché (coup critique) (%s) pour %d points d'impact}
-{512}{}{%s as été touché (%s) pour %d points d'impact}
-{513}{}{%s as été touché pour %d points d'impact}
+{509}{}{Oh ! %s as Ã©tÃ© touchÃ© Ã  la place de %s !}
+{511}{}{%s as Ã©tÃ© touchÃ© (coup critique) (%s) pour %d points d'impact}
+{512}{}{%s as Ã©tÃ© touchÃ© (%s) pour %d points d'impact}
+{513}{}{%s as Ã©tÃ© touchÃ© pour %d points d'impact}
 {514}{}{%s critically missed}
 {515}{}{%s missed}
-{520}{}{%s as été touché (coup critique) pour %d points d'impact}
-{521}{}{%s as été touché (coup critique) (%s) pour 1 point d'impact}
-{522}{}{%s as été touché (%s) pour 1 point d'impact}
-{523}{}{%s as été touché pour 1 point d'impact}
-{524}{}{%s as été touché (coup critique) pour 1 point d'impact}
+{520}{}{%s as Ã©tÃ© touchÃ© (coup critique) pour %d points d'impact}
+{521}{}{%s as Ã©tÃ© touchÃ© (coup critique) (%s) pour 1 point d'impact}
+{522}{}{%s as Ã©tÃ© touchÃ© (%s) pour 1 point d'impact}
+{523}{}{%s as Ã©tÃ© touchÃ© pour 1 point d'impact}
+{524}{}{%s as Ã©tÃ© touchÃ© (coup critique) pour 1 point d'impact}
 {525}{}{%s were critically hit in %s but take no damage}
 {526}{}{%s were hit in %s but take no damage}
 {527}{}{%s were hit but take no damage}
@@ -118,53 +118,53 @@
 {533}{}{%s critically missed, lost 1 hit point}
 {534}{}{%s critically missed, lost %d hit points}
 {556}{}{You}
-{559}{}{Oh ! %s as été touché à la place de %s !}
-{561}{}{%s as été touché (coup critique) (%s) pour %d points d'impact}
-{562}{}{%s as été touché (%s) pour %d points d'impact}
-{563}{}{%s as été touché pour %d points d'impact}
+{559}{}{Oh ! %s as Ã©tÃ© touchÃ© Ã  la place de %s !}
+{561}{}{%s as Ã©tÃ© touchÃ© (coup critique) (%s) pour %d points d'impact}
+{562}{}{%s as Ã©tÃ© touchÃ© (%s) pour %d points d'impact}
+{563}{}{%s as Ã©tÃ© touchÃ© pour %d points d'impact}
 {564}{}{%s critically missed}
 {565}{}{%s missed}
-{570}{}{%s as été touché (coup critique) pour %d points d'impact}
-{571}{}{%s as été touché (coup critique) (%s) pour 1 point d'impact}
-{572}{}{%s as été touché (%s) pour 1 point d'impact}
-{573}{}{%s as été touché pour 1 point d'impact}
-{574}{}{%s as été touché (coup critique) pour 1 point d'impact}
+{570}{}{%s as Ã©tÃ© touchÃ© (coup critique) pour %d points d'impact}
+{571}{}{%s as Ã©tÃ© touchÃ© (coup critique) (%s) pour 1 point d'impact}
+{572}{}{%s as Ã©tÃ© touchÃ© (%s) pour 1 point d'impact}
+{573}{}{%s as Ã©tÃ© touchÃ© pour 1 point d'impact}
+{574}{}{%s as Ã©tÃ© touchÃ© (coup critique) pour 1 point d'impact}
 {575}{}{%s were critically hit in %s but take no damage}
 {576}{}{%s were hit in %s but take no damage}
 {577}{}{%s were hit but take no damage}
 {578}{}{%s were critically hit but take no damage}
 {583}{}{%s critically missed, lost 1 hit point}
 {584}{}{%s critically missed, lost %d hit points}
-{608}{}{Oh ! %s a été touché à ta place !}
-{609}{}{Oh ! %s a été touché à la place de %s !}
-{611}{}{%s a été touché (coup critique) (%s) pour %d points d'impact}
-{612}{}{%s a été touché (%s) pour %d points d'impact}
-{613}{}{%s a été touché pour %d points d'impact}
+{608}{}{Oh ! %s a Ã©tÃ© touchÃ© Ã  ta place !}
+{609}{}{Oh ! %s a Ã©tÃ© touchÃ© Ã  la place de %s !}
+{611}{}{%s a Ã©tÃ© touchÃ© (coup critique) (%s) pour %d points d'impact}
+{612}{}{%s a Ã©tÃ© touchÃ© (%s) pour %d points d'impact}
+{613}{}{%s a Ã©tÃ© touchÃ© pour %d points d'impact}
 {614}{}{%s critically missed}
 {615}{}{%s missed}
-{620}{}{%s a été touché (coup critique) pour %d points d'impact}
-{621}{}{%s a été touché (coup critique) (%s) pour 1 point d'impact}
-{622}{}{%s a été touché (%s) pour 1 point d'impact}
-{623}{}{%s a été touché pour 1 point d'impact}
-{624}{}{%s a été touché (coup critique) pour 1 point d'impact}
+{620}{}{%s a Ã©tÃ© touchÃ© (coup critique) pour %d points d'impact}
+{621}{}{%s a Ã©tÃ© touchÃ© (coup critique) (%s) pour 1 point d'impact}
+{622}{}{%s a Ã©tÃ© touchÃ© (%s) pour 1 point d'impact}
+{623}{}{%s a Ã©tÃ© touchÃ© pour 1 point d'impact}
+{624}{}{%s a Ã©tÃ© touchÃ© (coup critique) pour 1 point d'impact}
 {625}{}{%s was critically hit in %s but takes no damage}
 {626}{}{%s was hit in %s but takes no damage}
 {627}{}{%s was hit but takes no damage}
 {628}{}{%s was critically hit but takes no damage}
 {633}{}{%s critically missed, lost 1 hit point}
 {634}{}{%s critically missed, lost %d hit points}
-{708}{}{Oh ! %s a été touché à ta place !}
-{709}{}{Oh ! %s a été touché à la place de %s !}
-{711}{}{%s a été touché (coup critique) (%s) pour %d points d'impact}
-{712}{}{%s a été touché (%s) pour %d points d'impact}
-{713}{}{%s a été touché pour %d points d'impact}
+{708}{}{Oh ! %s a Ã©tÃ© touchÃ© Ã  ta place !}
+{709}{}{Oh ! %s a Ã©tÃ© touchÃ© Ã  la place de %s !}
+{711}{}{%s a Ã©tÃ© touchÃ© (coup critique) (%s) pour %d points d'impact}
+{712}{}{%s a Ã©tÃ© touchÃ© (%s) pour %d points d'impact}
+{713}{}{%s a Ã©tÃ© touchÃ© pour %d points d'impact}
 {714}{}{%s critically missed}
 {715}{}{%s missed}
-{720}{}{%s a été touché (coup critique) pour %d points d'impact}
-{721}{}{%s a été touché (coup critique) (%s) pour 1 point d'impact}
-{722}{}{%s a été touché (%s) pour 1 point d'impact}
-{723}{}{%s a été touché pour 1 point d'impact}
-{724}{}{%s a été touché (coup critique) pour 1 point d'impact}
+{720}{}{%s a Ã©tÃ© touchÃ© (coup critique) pour %d points d'impact}
+{721}{}{%s a Ã©tÃ© touchÃ© (coup critique) (%s) pour 1 point d'impact}
+{722}{}{%s a Ã©tÃ© touchÃ© (%s) pour 1 point d'impact}
+{723}{}{%s a Ã©tÃ© touchÃ© pour 1 point d'impact}
+{724}{}{%s a Ã©tÃ© touchÃ© (coup critique) pour 1 point d'impact}
 {725}{}{%s was critically hit in %s but takes no damage}
 {726}{}{%s was hit in %s but takes no damage}
 {727}{}{%s was hit but takes no damage}

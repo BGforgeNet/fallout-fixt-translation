@@ -1,5 +1,5 @@
 {100}{}{Uh-oh.}
-{101}{}{Activas una trampa de gas venenoso y sufres 1 punto de daño.}
+{101}{}{Activas una trampa de gas venenoso y sufres 1 punto de daÃ±o.}
 {102}{}{Activas una trampa de gas venenoso y sufres }
-{103}{}{ puntos de daño.}
-{104}{}{¡Activas una trampa de gas venenoso!}
+{103}{}{ puntos de daÃ±o.}
+{104}{}{Â¡Activas una trampa de gas venenoso!}

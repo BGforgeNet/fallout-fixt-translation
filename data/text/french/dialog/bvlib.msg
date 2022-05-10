@@ -1,2 +1,2 @@
-{100}{}{C'est la bibliothèque. Tu connais bien les lieux car ton abri possède une bibliothèque identique.}
-{101}{}{On dirait qu'il n'y a plus rien d'intéressant à prendre dans cette pièce.}
+{100}{}{C'est la bibliothÃ¨que. Tu connais bien les lieux car ton abri possÃ¨de une bibliothÃ¨que identique.}
+{101}{}{On dirait qu'il n'y a plus rien d'intÃ©ressant Ã  prendre dans cette piÃ¨ce.}

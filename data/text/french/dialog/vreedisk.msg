@@ -1,5 +1,5 @@
 {100}{}{Voici le disque du rapport d'autopsie de Vree.}
-{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
-{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
-{103}{}{Cet holodisque contient les preuves médicales de Vree de la Confrérie de l'Acier démontrant que les Super Mutants sont stériles.}
+{101}{}{Message du Pip-Boy : fichier dÃ©jÃ  prÃ©sent sur le systÃ¨me. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des donnÃ©es sur le disque. TerminÃ©.}
+{103}{}{Cet holodisque contient les preuves mÃ©dicales de Vree de la ConfrÃ©rie de l'Acier dÃ©montrant que les Super Mutants sont stÃ©riles.}
 {104}{}{Tu vois: Rapports d'autopsie de Vree.}

@@ -1,7 +1,7 @@
-{100}{}{La puerta está cerrada. Se necesita un código de seguridad para abrirla.}
-{101}{}{Introduces el código de la cinta y abres la puerta.}
-{102}{}{La puerta no está cerrada.}
-{103}{}{Descubres el código de seguridad y abres la puerta.}
+{100}{}{La puerta estÃ¡ cerrada. Se necesita un cÃ³digo de seguridad para abrirla.}
+{101}{}{Introduces el cÃ³digo de la cinta y abres la puerta.}
+{102}{}{La puerta no estÃ¡ cerrada.}
+{103}{}{Descubres el cÃ³digo de seguridad y abres la puerta.}
 {104}{}{No puedes abrir la puerta.}
-{105}{}{No puedes abrir la puerta. Sería más fácil si utilizaras un juego de herramientas de cerrajería electrónica.}
-{106}{}{La explosión es fuerte, pero ni siquiera ha dañado ni marcado la puerta.}
+{105}{}{No puedes abrir la puerta. SerÃ­a mÃ¡s fÃ¡cil si utilizaras un juego de herramientas de cerrajerÃ­a electrÃ³nica.}
+{106}{}{La explosiÃ³n es fuerte, pero ni siquiera ha daÃ±ado ni marcado la puerta.}

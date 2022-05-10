@@ -1,192 +1,192 @@
 {100}{}{Ves: a Harold.}
-{101}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caído en desgracia. *tose*}
-{102}{}{Claro, aquí tienes 25 chapas. Que tengas buena suerte.}
-{103}{}{¿Qué tal 5 chapas?}
+{101}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caÃ­do en desgracia. *tose*}
+{102}{}{Claro, aquÃ­ tienes 25 chapas. Que tengas buena suerte.}
+{103}{}{Â¿QuÃ© tal 5 chapas?}
 {104}{}{Lo siento, no llevo encima chapas.}
-{105}{}{¡Apártate de mí!}
-{106}{}{¿Ehhh?}
-{107}{HROLD1}{Vaya. Amiga, estás todavía peor que yo. Tú sí que necesitas suerte.}
-{108}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
-{109}{}{¿Y eso por qué?}
-{110}{}{No hay de qué.}
-{111}{HROLD3}{*tose* El resto de los Ejeros han estado metiéndose conmigo desde que volví a la ciudad. Pero no me puedo marchar. Cuando los tratos estén hechos *resuella*. Sigue siendo mi hogar.}
-{112}{}{¿Qué te sucedió?}
-{113}{}{¿Quiénes son los Ejeros?}
+{105}{}{Â¡ApÃ¡rtate de mÃ­!}
+{106}{}{Â¿Ehhh?}
+{107}{HROLD1}{Vaya. Amiga, estÃ¡s todavÃ­a peor que yo. TÃº sÃ­ que necesitas suerte.}
+{108}{HROLD2}{Oh, muy amable de tu parte amiga. Â¿Sabes? Si pudiese limpiar la porquerÃ­a de ahÃ­ afuera, puede que encontrases una lÃ¡grima en el ojo del viejo Harold.}
+{109}{}{Â¿Y eso por quÃ©?}
+{110}{}{No hay de quÃ©.}
+{111}{HROLD3}{*tose* El resto de los Ejeros han estado metiÃ©ndose conmigo desde que volvÃ­ a la ciudad. Pero no me puedo marchar. Cuando los tratos estÃ©n hechos *resuella*. Sigue siendo mi hogar.}
+{112}{}{Â¿QuÃ© te sucediÃ³?}
+{113}{}{Â¿QuiÃ©nes son los Ejeros?}
 {114}{}{Espero que las cosas mejoren. Ya nos veremos.}
 {115}{HROLD4}{Bueno, tras la Gran Guerra, mi Refugio fue el primero en abrirse. *respira hondo* Vaya. Hace mucho de eso.}
-{116}{}{Cuéntame más de aquellos tiempos.}
-{117}{}{No, no. Quiero decir, ¿qué te hizo cambiar?}
-{118}{HROLD5}{Todo empezó con las sirenas. Yo era muy joven, pero, oh, me acuerdo de eso. Después vinieron años terribles. Y recuerdo que una mañana salí caminando del Refugio.}
-{119}{}{¿Qué hiciste entonces?}
-{120}{}{¿Dónde estaba ubicado tu Refugio?}
-{121}{}{¿Te das cuenta de lo viejo que te hace eso?}
-{122}{HROLD6}{¿Sabes? *tose* Ya no estoy realmente seguro. Al oeste, creo. O, espera, al este. Oh, no lo sé. *tos seca*}
-{123}{}{¿Qué hiciste entonces?}
-{124}{HROLD7}{Bueno, era un comerciante. Me lo monté bastante bien haciendo un circuito entre los supervivientes. Aunque perdí a buena gente. *tose*}
-{125}{}{¿Cómo?}
-{126}{HROLD8}{Los de las bandas les cogieron. Carroñeros que atacaban las caravanas. Y mutantes, hijos de perra, cuando no estaban correteando por ahí con una misión. *tose* Necesitaba un ejército de guardas, solo para hacer un trato.}
-{127}{}{¿Tener guardas no ayudaba?}
-{128}{}{¿De dónde venían los mutantes?}
-{129}{HROLD9}{¡Claro que ayudaba, cabeza hueca! ¡Pero los otros eran demasiados!}
-{130}{}{¿Cómo sobreviviste a los ataques mutantes?}
-{131}{HROLD9A}{No lo hice. ¡Me mataron! *tose mientras se ríe* Me encanta esa broma.}
-{132}{}{Eh, sí.}
-{133}{HROLD10}{¡De todas partes! Demonios, no te podías tirar un pedo sin darle a uno. Pero sobre todo por el noroeste.}
-{134}{}{¿Exploraste el área?}
-{135}{}{¿Por qué no evitaste el área?}
-{136}{}{¿Te tirabas pedos por el noroeste?}
-{137}{hrold10a}{*ríe* No está mal... noo...}
-{138}{HROLD11}{Organizamos una expedición. Dios, Richard. Richard Grey. Llevó un grupo de nosotros hasta allí.}
-{139}{}{¿Richard Grey?}
-{140}{}{¿Dónde fuisteis exactamente?}
-{141}{HROLD12}{Teníamos que ver lo que había allí. Intentar detener lo que hacía aparecer a los mocosos. Pensamos que estábamos preparados. Pero nos equivocamos.}
-{142}{}{¿Qué hicisteis?}
+{116}{}{CuÃ©ntame mÃ¡s de aquellos tiempos.}
+{117}{}{No, no. Quiero decir, Â¿quÃ© te hizo cambiar?}
+{118}{HROLD5}{Todo empezÃ³ con las sirenas. Yo era muy joven, pero, oh, me acuerdo de eso. DespuÃ©s vinieron aÃ±os terribles. Y recuerdo que una maÃ±ana salÃ­ caminando del Refugio.}
+{119}{}{Â¿QuÃ© hiciste entonces?}
+{120}{}{Â¿DÃ³nde estaba ubicado tu Refugio?}
+{121}{}{Â¿Te das cuenta de lo viejo que te hace eso?}
+{122}{HROLD6}{Â¿Sabes? *tose* Ya no estoy realmente seguro. Al oeste, creo. O, espera, al este. Oh, no lo sÃ©. *tos seca*}
+{123}{}{Â¿QuÃ© hiciste entonces?}
+{124}{HROLD7}{Bueno, era un comerciante. Me lo montÃ© bastante bien haciendo un circuito entre los supervivientes. Aunque perdÃ­ a buena gente. *tose*}
+{125}{}{Â¿CÃ³mo?}
+{126}{HROLD8}{Los de las bandas les cogieron. CarroÃ±eros que atacaban las caravanas. Y mutantes, hijos de perra, cuando no estaban correteando por ahÃ­ con una misiÃ³n. *tose* Necesitaba un ejÃ©rcito de guardas, solo para hacer un trato.}
+{127}{}{Â¿Tener guardas no ayudaba?}
+{128}{}{Â¿De dÃ³nde venÃ­an los mutantes?}
+{129}{HROLD9}{Â¡Claro que ayudaba, cabeza hueca! Â¡Pero los otros eran demasiados!}
+{130}{}{Â¿CÃ³mo sobreviviste a los ataques mutantes?}
+{131}{HROLD9A}{No lo hice. Â¡Me mataron! *tose mientras se rÃ­e* Me encanta esa broma.}
+{132}{}{Eh, sÃ­.}
+{133}{HROLD10}{Â¡De todas partes! Demonios, no te podÃ­as tirar un pedo sin darle a uno. Pero sobre todo por el noroeste.}
+{134}{}{Â¿Exploraste el Ã¡rea?}
+{135}{}{Â¿Por quÃ© no evitaste el Ã¡rea?}
+{136}{}{Â¿Te tirabas pedos por el noroeste?}
+{137}{hrold10a}{*rÃ­e* No estÃ¡ mal... noo...}
+{138}{HROLD11}{Organizamos una expediciÃ³n. Dios, Richard. Richard Grey. LlevÃ³ un grupo de nosotros hasta allÃ­.}
+{139}{}{Â¿Richard Grey?}
+{140}{}{Â¿DÃ³nde fuisteis exactamente?}
+{141}{HROLD12}{TenÃ­amos que ver lo que habÃ­a allÃ­. Intentar detener lo que hacÃ­a aparecer a los mocosos. Pensamos que estÃ¡bamos preparados. Pero nos equivocamos.}
+{142}{}{Â¿QuÃ© hicisteis?}
 {143}{HROLD13}{No recuerdo la ruta ni nada. Pero, por la virgen, que era al noroeste... Creo.}
-{144}{}{¿Hay una versión abreviada de esta historia?}
-{145}{}{¿Qué hay de tu líder?}
-{146}{HROLD14}{Richard Grey era un médico. Era algo más mayor, y amiga, era listo. Encontró el origen.}
-{147}{}{¿Y qué era?}
-{148}{HROLD15}{Me gusta contarlo a mi manera. La versión corta te costará 25 más, colega. ¿Cuál prefieres?}
+{144}{}{Â¿Hay una versiÃ³n abreviada de esta historia?}
+{145}{}{Â¿QuÃ© hay de tu lÃ­der?}
+{146}{HROLD14}{Richard Grey era un mÃ©dico. Era algo mÃ¡s mayor, y amiga, era listo. EncontrÃ³ el origen.}
+{147}{}{Â¿Y quÃ© era?}
+{148}{HROLD15}{Me gusta contarlo a mi manera. La versiÃ³n corta te costarÃ¡ 25 mÃ¡s, colega. Â¿CuÃ¡l prefieres?}
 {149}{}{Vale, que sea larga.}
 {150}{}{Corta.}
 {151}{}{La corta, pero no tengo las chapas.}
-{152}{}{¿Qué tal si no es ninguna, pedorro?}
-{153}{HROLD16}{Bueno, pareces buena gente. Intentaré no enrollarme demasiado.}
+{152}{}{Â¿QuÃ© tal si no es ninguna, pedorro?}
+{153}{HROLD16}{Bueno, pareces buena gente. IntentarÃ© no enrollarme demasiado.}
 {154}{}{Gracias.}
-{155}{hrold16a}{Mentirle a un pobre viejo mutante. ¿Dónde va a llegar el mundo? *tose*}
-{156}{hrold17}{Escasa de fondos, ¿eh?}
-{157}{hrold17a}{A mi manera o te largas. Tú eliges, colega.}
+{155}{hrold16a}{Mentirle a un pobre viejo mutante. Â¿DÃ³nde va a llegar el mundo? *tose*}
+{156}{hrold17}{Escasa de fondos, Â¿eh?}
+{157}{hrold17a}{A mi manera o te largas. TÃº eliges, colega.}
 {158}{}{Andando.}
 {159}{}{Vale. Que sea larga.}
-{160}{HROLD18}{Una especie de vieja base militar. Perdimos a muchos hombres allí dentro.}
-{161}{}{¿Cómo sabes que esa base era la causa?}
-{162}{}{¿Con qué os encontrasteis?}
-{163}{HROLD19}{robots y cosas así. Un montón. Nos sorprendimos de que siguiesen funcionando después de tanto tiempo, tras la guerra y eso. ¡Oh, muchacha, nos dieron una buena!}
-{164}{}{¿Qué hicisteis cuando acabasteis con los robots?}
-{165}{HROLD20}{¡Porque era como si alguien hubiese ido de rebajas a mutantelandia! ¡Maldita sea! ¡Más baratos por docenas! No se me ocurre ninguna otra razón, aparte de que aquello fuese la fábrica.}
-{166}{}{¿Examinasteis cuidadosamente la base?}
-{167}{HROLD21}{Nos adentramos bastante. No quedábamos muchos. Grey, yo y un par más.}
-{168}{}{¿Y entonces?}
-{169}{HROLD22}{Uno de los robots cogió a Francine. Hirieron a Mark y le mandamos a la superficie. Solo quedábamos Grey y yo.}
-{170}{}{¿Qué le sucedió a Mark?}
-{171}{}{¿Entonces qué pasó?}
-{172}{HROLD23}{No tengo ni idea. No consiguió regresar aquí, y... bueno, yo... no podía volver al yermo, así que... nunca le busqué.}
-{173}{}{¿Qué fue de ti y de Grey?}
-{174}{HROLD24}{Llegamos a una especie de núcleo central, como una planta de energía o algo así. Entonces es cuando ocurrió.}
-{175}{}{¿Qué?}
-{176}{HROLD25}{Un robot grúa se estrelló contra nosotros. La última vez que vi a Grey volaba por los aires hacia un baño ácido o algo por el estilo. Yo estaba muy mal, y bueno... salí del paso.}
-{177}{}{¿Cómo sobreviviste?}
-{178}{}{¿Y nunca más volviste a ver a Grey?}
-{179}{hrold25a}{No lo hice ¡Me mataron! ¡Ja, ja! *tose* Dios, me encanta esa broma.}
-{180}{}{Sí, ya veo.}
-{181}{HROLD26}{No tengo ni idea. Me desperté en el yermo, medio muerto. Tuve suerte, unos días después me encontraron unos comerciantes. Menos mal, porque ya estaba empezando a cambiar. Ellos me trajeron aquí y aquí estoy desde entonces.}
-{182}{}{¿Cómo mutaste?}
+{160}{HROLD18}{Una especie de vieja base militar. Perdimos a muchos hombres allÃ­ dentro.}
+{161}{}{Â¿CÃ³mo sabes que esa base era la causa?}
+{162}{}{Â¿Con quÃ© os encontrasteis?}
+{163}{HROLD19}{robots y cosas asÃ­. Un montÃ³n. Nos sorprendimos de que siguiesen funcionando despuÃ©s de tanto tiempo, tras la guerra y eso. Â¡Oh, muchacha, nos dieron una buena!}
+{164}{}{Â¿QuÃ© hicisteis cuando acabasteis con los robots?}
+{165}{HROLD20}{Â¡Porque era como si alguien hubiese ido de rebajas a mutantelandia! Â¡Maldita sea! Â¡MÃ¡s baratos por docenas! No se me ocurre ninguna otra razÃ³n, aparte de que aquello fuese la fÃ¡brica.}
+{166}{}{Â¿Examinasteis cuidadosamente la base?}
+{167}{HROLD21}{Nos adentramos bastante. No quedÃ¡bamos muchos. Grey, yo y un par mÃ¡s.}
+{168}{}{Â¿Y entonces?}
+{169}{HROLD22}{Uno de los robots cogiÃ³ a Francine. Hirieron a Mark y le mandamos a la superficie. Solo quedÃ¡bamos Grey y yo.}
+{170}{}{Â¿QuÃ© le sucediÃ³ a Mark?}
+{171}{}{Â¿Entonces quÃ© pasÃ³?}
+{172}{HROLD23}{No tengo ni idea. No consiguiÃ³ regresar aquÃ­, y... bueno, yo... no podÃ­a volver al yermo, asÃ­ que... nunca le busquÃ©.}
+{173}{}{Â¿QuÃ© fue de ti y de Grey?}
+{174}{HROLD24}{Llegamos a una especie de nÃºcleo central, como una planta de energÃ­a o algo asÃ­. Entonces es cuando ocurriÃ³.}
+{175}{}{Â¿QuÃ©?}
+{176}{HROLD25}{Un robot grÃºa se estrellÃ³ contra nosotros. La Ãºltima vez que vi a Grey volaba por los aires hacia un baÃ±o Ã¡cido o algo por el estilo. Yo estaba muy mal, y bueno... salÃ­ del paso.}
+{177}{}{Â¿CÃ³mo sobreviviste?}
+{178}{}{Â¿Y nunca mÃ¡s volviste a ver a Grey?}
+{179}{hrold25a}{No lo hice Â¡Me mataron! Â¡Ja, ja! *tose* Dios, me encanta esa broma.}
+{180}{}{SÃ­, ya veo.}
+{181}{HROLD26}{No tengo ni idea. Me despertÃ© en el yermo, medio muerto. Tuve suerte, unos dÃ­as despuÃ©s me encontraron unos comerciantes. Menos mal, porque ya estaba empezando a cambiar. Ellos me trajeron aquÃ­ y aquÃ­ estoy desde entonces.}
+{182}{}{Â¿CÃ³mo mutaste?}
 {183}{}{Una buena historia. Gracias.}
 {184}{hrold26a}{Bueno... gracias a ti por dejarme contarla.}
-{185}{}{¿Esa era la versión corta?}
+{185}{}{Â¿Esa era la versiÃ³n corta?}
 {186}{hrold26a}{Bueno... gracias a ti por dejarme contarla.}
-{187}{hrold26b}{Para mí lo era.}
-{188}{HROLD27}{¡No, idiota! Acabo de decir que no le volví a ver, ¿no?}
-{189}{}{¿Cómo sobreviviste?}
-{190}{HROLD28}{Todo lo que sé es que había algo dentro de aquella base.}
-{191}{}{¿Piensas que pudo ser la radiación?}
+{187}{hrold26b}{Para mÃ­ lo era.}
+{188}{HROLD27}{Â¡No, idiota! Acabo de decir que no le volvÃ­ a ver, Â¿no?}
+{189}{}{Â¿CÃ³mo sobreviviste?}
+{190}{HROLD28}{Todo lo que sÃ© es que habÃ­a algo dentro de aquella base.}
+{191}{}{Â¿Piensas que pudo ser la radiaciÃ³n?}
 {192}{}{Lo siento, mal rollo. Gracias por la historia.}
-{193}{HROLD29}{¿Cómo demonios podía saberlo? Grey es el único que podía saberlo. *suspira* De todas formas ese fue el final del trato.}
+{193}{HROLD29}{Â¿CÃ³mo demonios podÃ­a saberlo? Grey es el Ãºnico que podÃ­a saberlo. *suspira* De todas formas ese fue el final del trato.}
 {194}{}{Gracias por la historia.}
-{195}{HROLD30}{Sí, como un siglo o dos, en años de perro.}
-{196}{}{¿Qué?}
-{197}{HROLD31}{No hagas caso, eso era de mi época. Estoy viejo y chiflado y he estado así desde que cambié.}
-{198}{}{¿Qué hacías antes de que te pasase esto?}
-{199}{HROLD32}{Bueno, sufrí una mutación. No pude haber nacido tan feo. Ocurrió cuando intentábamos descubrir de dónde salían todos los mutantes.}
-{200}{}{¿Qué pasó?}
-{201}{HROLD33}{Eso pertenece al pasado. Y ahí es donde debe quedarse.}
-{202}{}{Por favor cuéntame lo que ocurrió, puede que me ayude ahora.}
+{195}{HROLD30}{SÃ­, como un siglo o dos, en aÃ±os de perro.}
+{196}{}{Â¿QuÃ©?}
+{197}{HROLD31}{No hagas caso, eso era de mi Ã©poca. Estoy viejo y chiflado y he estado asÃ­ desde que cambiÃ©.}
+{198}{}{Â¿QuÃ© hacÃ­as antes de que te pasase esto?}
+{199}{HROLD32}{Bueno, sufrÃ­ una mutaciÃ³n. No pude haber nacido tan feo. OcurriÃ³ cuando intentÃ¡bamos descubrir de dÃ³nde salÃ­an todos los mutantes.}
+{200}{}{Â¿QuÃ© pasÃ³?}
+{201}{HROLD33}{Eso pertenece al pasado. Y ahÃ­ es donde debe quedarse.}
+{202}{}{Por favor cuÃ©ntame lo que ocurriÃ³, puede que me ayude ahora.}
 {203}{}{Hazlo a tu manera.}
-{204}{HROLD34}{Bueno, si lo pones así. Supongo que no puede hacer daño.}
+{204}{HROLD34}{Bueno, si lo pones asÃ­. Supongo que no puede hacer daÃ±o.}
 {205}{}{Gracias.}
 {206}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amiga. Te deseo buena suerte.}
-{207}{HROLD36}{Estás en el Eje, ¿no? ¿La gente que vive en el Eje? Ejeros. ¿Lo coges? *tose* ¡Jesús! Gracias por la ayuda y buena suerte... la vas a necesitar.}
-{208}{HROLD37}{Eres tan mala como los demás. *respira pesadamente*}
+{207}{HROLD36}{EstÃ¡s en el Eje, Â¿no? Â¿La gente que vive en el Eje? Ejeros. Â¿Lo coges? *tose* Â¡JesÃºs! Gracias por la ayuda y buena suerte... la vas a necesitar.}
+{208}{HROLD37}{Eres tan mala como los demÃ¡s. *respira pesadamente*}
 {209}{HROLD38}{Oh, vaya, gracias de todas formas. *tose*}
-{210}{HROLD39}{Oye, ¿puedes ayudarme, amiga?}
-{211}{}{Sí, aquí tienes 25 chapas.}
+{210}{HROLD39}{Oye, Â¿puedes ayudarme, amiga?}
+{211}{}{SÃ­, aquÃ­ tienes 25 chapas.}
 {212}{}{Toma 5 chapas.}
-{213}{}{No me des el coñazo.}
-{214}{}{¿Ehhh?}
-{215}{HROLD40}{¡Oye, aprécialo! Tengo que admitir que cuando te vi por primera vez, *tose* me imaginé que igual intentabas abusar de mí.}
-{216}{}{¿Por qué dices eso?}
-{217}{}{¡Nah, yo no! Soy una de los buenas.}
-{218}{HROLD41}{Oh, vaya, eres tú otra vez.}
-{219}{}{Aquí hay 20 chapas, por si las necesitas.}
+{213}{}{No me des el coÃ±azo.}
+{214}{}{Â¿Ehhh?}
+{215}{HROLD40}{Â¡Oye, aprÃ©cialo! Tengo que admitir que cuando te vi por primera vez, *tose* me imaginÃ© que igual intentabas abusar de mÃ­.}
+{216}{}{Â¿Por quÃ© dices eso?}
+{217}{}{Â¡Nah, yo no! Soy una de los buenas.}
+{218}{HROLD41}{Oh, vaya, eres tÃº otra vez.}
+{219}{}{AquÃ­ hay 20 chapas, por si las necesitas.}
 {220}{}{Hola.}
-{221}{}{¿Ehh?}
-{222}{hrold42}{Quedándote conmigo, ¿eh?}
-{223}{HROLD43}{¿Puedo hacer algo por ti?}
-{224}{}{¿Tienes alguna novedad que contarme?}
-{225}{}{Necesito información sobre la Garra Mortal. Me han dicho que tú eres mi hombre.}
-{226}{}{¿Cuál es tu historia?}
+{221}{}{Â¿Ehh?}
+{222}{hrold42}{QuedÃ¡ndote conmigo, Â¿eh?}
+{223}{HROLD43}{Â¿Puedo hacer algo por ti?}
+{224}{}{Â¿Tienes alguna novedad que contarme?}
+{225}{}{Necesito informaciÃ³n sobre la Garra Mortal. Me han dicho que tÃº eres mi hombre.}
+{226}{}{Â¿CuÃ¡l es tu historia?}
 {227}{}{No.}
-{228}{hrold43a}{¿Toda entera? Bueno...}
+{228}{hrold43a}{Â¿Toda entera? Bueno...}
 {229}{HROLD44}{Oooh, vaya, gracias. Espero que no haya sido un esfuerzo demasiado grande. *tose*}
-{230}{HROLD45}{Oooh, sobre eso. Es una pesadilla. ¿Por qué diablos preguntas por ella?}
+{230}{HROLD45}{Oooh, sobre eso. Es una pesadilla. Â¿Por quÃ© diablos preguntas por ella?}
 {231}{}{Voy a ponerle fin.}
 {232}{}{Si me topo con una, quiero saber lo que debo hacer.}
-{233}{HROLD47}{Vale. Bueno, es jodidamente grande, tía, sí que lo es. Tiene pinchos y garras que pueden cortar la armadura más pesada. Pero no te dejes engañar por el tamaño, es muy rápida.}
-{234}{}{¿Alguna debilidad?}
-{235}{HROLD49}{Bueno, por lo que he oído, quizás si le arreas en la cabeza... Yo probaría con los ojos. Claro que, hay un problema.}
-{236}{}{¿Qué clase de problema?}
-{237}{HROLD50}{¡No puedes mirarlas a los ojos! Se cuenta que la Garra Mortal puede hipnotizarte solo con la mirada. Luego se acerca y "bum", ¡estás muerta!}
+{233}{HROLD47}{Vale. Bueno, es jodidamente grande, tÃ­a, sÃ­ que lo es. Tiene pinchos y garras que pueden cortar la armadura mÃ¡s pesada. Pero no te dejes engaÃ±ar por el tamaÃ±o, es muy rÃ¡pida.}
+{234}{}{Â¿Alguna debilidad?}
+{235}{HROLD49}{Bueno, por lo que he oÃ­do, quizÃ¡s si le arreas en la cabeza... Yo probarÃ­a con los ojos. Claro que, hay un problema.}
+{236}{}{Â¿QuÃ© clase de problema?}
+{237}{HROLD50}{Â¡No puedes mirarlas a los ojos! Se cuenta que la Garra Mortal puede hipnotizarte solo con la mirada. Luego se acerca y "bum", Â¡estÃ¡s muerta!}
 {238}{}{Estupendo, gracias.}
 {239}{HROLD51}{Buena suerte... la vas a necesitar.}
-{240}{}{Puede que sí.}
-{241}{HROLD52}{No quieres saber nada sobre la Garra Mortal y no seré yo quien te lo cuente.}
-{242}{HROLD53}{Bueno, he oído que uno de los hombres de Decker tiene a alguien de la Hermandad del Acero atrapado en la Ciudad Antigua.}
+{240}{}{Puede que sÃ­.}
+{241}{HROLD52}{No quieres saber nada sobre la Garra Mortal y no serÃ© yo quien te lo cuente.}
+{242}{HROLD53}{Bueno, he oÃ­do que uno de los hombres de Decker tiene a alguien de la Hermandad del Acero atrapado en la Ciudad Antigua.}
 {243}{}{Gracias.}
-{244}{HROLD54}{Yo no me lo creo, pero dicen que un ejército de mutantes está en camino. *tose*}
+{244}{HROLD54}{Yo no me lo creo, pero dicen que un ejÃ©rcito de mutantes estÃ¡ en camino. *tose*}
 {245}{}{Gracias.}
-{246}{HROLD55}{Déjame en paz. *tose*}
+{246}{HROLD55}{DÃ©jame en paz. *tose*}
 {247}{}{Quiero hablar contigo.}
 {248}{}{Toma algunas chapas.}
-{249}{HROLD56}{Pues yo no quiero hablar contigo. ¡Lárgate!}
-{250}{HROLD57}{No quiero tus chapas. ¡Lárgate! *tose*}
+{249}{HROLD56}{Pues yo no quiero hablar contigo. Â¡LÃ¡rgate!}
+{250}{HROLD57}{No quiero tus chapas. Â¡LÃ¡rgate! *tose*}
 {251}{hrold200}{Con lo que me gusta comerciar y no tengo nada que darte a cambio. *tose*}
 {252}{hrold201}{Necesito dormir un rato. Estoy un poco cansado.}
-{253}{hrold202}{Quizás deberías tener más cuidado. *tose* He oído que hace poco perdiste varios hombres.}
+{253}{hrold202}{QuizÃ¡s deberÃ­as tener mÃ¡s cuidado. *tose* He oÃ­do que hace poco perdiste varios hombres.}
 {254}{hrold203}{Emm... Decker te anda buscando. Quiere hablar contigo. *tose*}
 {255}{hrold204}{Todo lo que tengo es mi ropa y mi libertad y la segunda es discutible.}
-{256}{hrold300}{Un tipo genial. Médico y filósofo. Hace mucho lideró la expedición durante la cual me convertí en un mutante.}
-{257}{hrold301}{¿Quién? ¿Es una especie de terapeuta sexual? Puede que necesite uno.}
+{256}{hrold300}{Un tipo genial. MÃ©dico y filÃ³sofo. Hace mucho liderÃ³ la expediciÃ³n durante la cual me convertÃ­ en un mutante.}
+{257}{hrold301}{Â¿QuiÃ©n? Â¿Es una especie de terapeuta sexual? Puede que necesite uno.}
 {258}{hrold302}{Mutantes. Por muchos nombres que se pongan.}
-{259}{hrold303}{Oh, él. Es el jefe del Gremio de Ladrones. Se cree Robin Hood. *tose* Supongo que no es un mal tipo.}
+{259}{hrold303}{Oh, Ã©l. Es el jefe del Gremio de Ladrones. Se cree Robin Hood. *tose* Supongo que no es un mal tipo.}
 {260}{hrold304}{He visto religiones nacer y desaparecer y espero que esta desaparezca. Pronto.}
-{261}{hrold305}{Sí, vengo de un Refugio. Demasiada gente, poca comida y poca agua. Pero tú no sabrás nada de eso, ¿verdad?}
-{262}{hrold306}{Terrible. El mundo se volvió loco. Fue hace mucho, pero nunca lo olvidaré. Jamás.}
+{261}{hrold305}{SÃ­, vengo de un Refugio. Demasiada gente, poca comida y poca agua. Pero tÃº no sabrÃ¡s nada de eso, Â¿verdad?}
+{262}{hrold306}{Terrible. El mundo se volviÃ³ loco. Fue hace mucho, pero nunca lo olvidarÃ©. JamÃ¡s.}
 {263}{hrold307}{*tose* Problemas. Solo problemas.}
 {264}{hrold400}{Bueno, como ya he dicho...}
 {265}{}{Nada, gracias.}
-{266}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caído en desgracia. *tose*}
-{267}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caído en desgracia. *tose*}
-{268}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
-{269}{HROLD2}{Oh, muy amable de tu parte amiga. ¿Sabes? Si pudiese limpiar la porquería de ahí afuera, puede que encontrases una lágrima en el ojo del viejo Harold.}
+{266}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caÃ­do en desgracia. *tose*}
+{267}{HROLD0}{Dame algo, colega, vieja amiga. Ayuda a un pobre mutante que ha caÃ­do en desgracia. *tose*}
+{268}{HROLD2}{Oh, muy amable de tu parte amiga. Â¿Sabes? Si pudiese limpiar la porquerÃ­a de ahÃ­ afuera, puede que encontrases una lÃ¡grima en el ojo del viejo Harold.}
+{269}{HROLD2}{Oh, muy amable de tu parte amiga. Â¿Sabes? Si pudiese limpiar la porquerÃ­a de ahÃ­ afuera, puede que encontrases una lÃ¡grima en el ojo del viejo Harold.}
 {270}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amiga. Te deseo buena suerte.}
 {271}{HROLD35}{No, no. Incluso ahora, es demasiado doloroso. Gracias por la ayuda, amiga. Te deseo buena suerte.}
-{272}{HROLD39}{Oye, ¿puedes ayudarme, amiga?}
-{273}{HROLD39}{Oye, ¿puedes ayudarme, amiga?}
+{272}{HROLD39}{Oye, Â¿puedes ayudarme, amiga?}
+{273}{HROLD39}{Oye, Â¿puedes ayudarme, amiga?}
 {1000}{}{Richard}
 {1001}{}{Maestro}
-{1002}{}{Necrófagos}
+{1002}{}{NecrÃ³fagos}
 {1003}{}{Loxley}
 {1004}{}{Catedral}
 {1005}{}{Refugio}
 {1006}{}{Guerra}
 {1007}{}{Decker}
 {1008}{}{Grey}
-{1100}{hrold300}{Un tipo genial. Médico y filósofo. Hace mucho lideró la expedición durante la cual me convertí en un mutante.}
-{1101}{hrold301}{¿Quién? ¿Es una especie de terapeuta sexual? Puede que necesite uno.}
+{1100}{hrold300}{Un tipo genial. MÃ©dico y filÃ³sofo. Hace mucho liderÃ³ la expediciÃ³n durante la cual me convertÃ­ en un mutante.}
+{1101}{hrold301}{Â¿QuiÃ©n? Â¿Es una especie de terapeuta sexual? Puede que necesite uno.}
 {1102}{hrold302}{Mutantes. Por muchos nombres que se pongan.}
-{1103}{hrold303}{Oh, él. Es el jefe del Gremio de Ladrones. Se cree Robin Hood. *tose* Supongo que no es un mal tipo.}
+{1103}{hrold303}{Oh, Ã©l. Es el jefe del Gremio de Ladrones. Se cree Robin Hood. *tose* Supongo que no es un mal tipo.}
 {1104}{hrold304}{He visto religiones nacer y desaparecer y espero que esta desaparezca. Pronto.}
-{1105}{hrold305}{Sí, vengo de un Refugio. Demasiada gente, poca comida y poca agua. Pero tú no sabrás nada de eso, ¿verdad?}
-{1106}{hrold306}{Terrible. El mundo se volvió loco. Fue hace mucho, pero nunca lo olvidaré. Jamás.}
+{1105}{hrold305}{SÃ­, vengo de un Refugio. Demasiada gente, poca comida y poca agua. Pero tÃº no sabrÃ¡s nada de eso, Â¿verdad?}
+{1106}{hrold306}{Terrible. El mundo se volviÃ³ loco. Fue hace mucho, pero nunca lo olvidarÃ©. JamÃ¡s.}
 {1107}{hrold307}{*tose* Problemas. Solo problemas.}
-{1108}{hrold300}{Un tipo genial. Médico y filósofo. Hace mucho lideró la expedición durante la cual me convertí en un mutante.}
+{1108}{hrold300}{Un tipo genial. MÃ©dico y filÃ³sofo. Hace mucho liderÃ³ la expediciÃ³n durante la cual me convertÃ­ en un mutante.}

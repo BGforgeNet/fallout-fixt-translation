@@ -1,16 +1,16 @@
-{100}{}{Je n'arrive pas à croire que tu aies fait ces choses.}
+{100}{}{Je n'arrive pas Ã  croire que tu aies fait ces choses.}
 {101}{}{Je m'en moque. J'ai mal. Soigne-moi.}
 {102}{}{Hnn !}
-{103}{}{Non. J'ai fait le serment de ne porter atteinte à aucune forme de vie, mais je ne t'aiderai pas.}
+{103}{}{Non. J'ai fait le serment de ne porter atteinte Ã  aucune forme de vie, mais je ne t'aiderai pas.}
 {104}{}{Ton manque d'intelligence n'excuse pas ce que tu as fait. Va-t-en, je ne veux pas te parler.}
 {105}{}{Oh mon dieu, tes blessures sont graves. Laisse-moi t'aider.}
 {106}{}{Bienvenue, }
-{107}{}{. Comment va ta quête ?}
+{107}{}{. Comment va ta quÃªte ?}
 {108}{}{Ca va.}
 {109}{}{J'ai besoin d'aide.}
 {110}{}{Oh ?}
-{111}{}{Ah. Oui. J'ai trouvé ça. Prends-en si tu as besoin d'un coup de fouet.}
-{112}{}{Bien, continue à faire du bon travail. Et n'hésite pas à revenir me voir si tu as besoin de quelque chose.}
+{111}{}{Ah. Oui. J'ai trouvÃ© Ã§a. Prends-en si tu as besoin d'un coup de fouet.}
+{112}{}{Bien, continue Ã  faire du bon travail. Et n'hÃ©site pas Ã  revenir me voir si tu as besoin de quelque chose.}
 {113}{}{Que puis-je pour toi ?}
 {114}{}{J'ai besoin de soins.}
 {115}{}{J'ai besoin de stimulants.}
@@ -18,33 +18,33 @@
 {117}{}{Hein !}
 {118}{}{Ben !}
 {119}{}{Je n'ai pas le droit de t'en donner. Excuse-moi.}
-{120}{}{Merci quand même.}
-{121}{}{J'en ai un besoin d'urgence. Sans stimulants, la sécurité de l'Abri est en jeu.}
+{120}{}{Merci quand mÃªme.}
+{121}{}{J'en ai un besoin d'urgence. Sans stimulants, la sÃ©curitÃ© de l'Abri est en jeu.}
 {122}{}{Excuse-moi, je ne peux pas t'en donner.}
-{123}{}{Eh bien, présenté comme ça... Mais surtout, n'en parle à personne. Ces stimulants créent une dépendance ; ils sont très dangereux.}
+{123}{}{Eh bien, prÃ©sentÃ© comme Ã§a... Mais surtout, n'en parle Ã  personne. Ces stimulants crÃ©ent une dÃ©pendance ; ils sont trÃ¨s dangereux.}
 {124}{}{Merci !}
-{125}{}{Les Stimpaks sont rationnés. Sers-toi dans l'armoire à pharmacie murale. Prends-en autant que tu veux, mais utilise-les avec modération. Nous ne pourrons pas t'en redonner avant longtemps.}
+{125}{}{Les Stimpaks sont rationnÃ©s. Sers-toi dans l'armoire Ã  pharmacie murale. Prends-en autant que tu veux, mais utilise-les avec modÃ©ration. Nous ne pourrons pas t'en redonner avant longtemps.}
 {126}{}{Hmm. Voyons si tu as des blessures.}
 {127}{}{Tout me semble en ordre. Reviens si tu as besoin de soins.}
 {128}{}{Tu m'as d'avoir des blessures. Laisse-moi t'aider.}
 {129}{}{Si tu as besoin de soins, reviens me voir ou utilise les Stimpaks que nous avons. Tu peux prendre des Stimpaks dans l'armoire murale.}
-{130}{}{Allonge-toi ici. Nous allons commencer à te soigner.}
-{131}{}{Te es rétabli. Attention à toi à l'avenir, mais reviens si tu as besoin d'autres soins. Bonne journée.}
-{132}{}{Les scanners médicaux ont détecté un empoisonnement mortel par irradiation. Veux-tu tenter un soin ? Ce sera assez long.}
-{133}{}{Les scanners médicaux ont détecté un grave empoisonnement par irradiation. Veux-tu tenter un soin ? Ce sera assez long.}
-{134}{}{Les scanners médicaux ont détecté un sérieux empoisonnement par irradiation. Veux-tu tenter un soin ? Ce sera assez long.}
-{135}{}{Les scanners médicaux ont détecté un léger empoisonnement par irradiation. Veux-tu tenter un soin ? Ce sera assez long.}
-{136}{}{Voici le médecin de l'Abri 13.}
-{137}{}{D'accord, voyons voir ça. Ne bouge pas pendant que je t’ausculte.}
+{130}{}{Allonge-toi ici. Nous allons commencer Ã  te soigner.}
+{131}{}{Te es rÃ©tabli. Attention Ã  toi Ã  l'avenir, mais reviens si tu as besoin d'autres soins. Bonne journÃ©e.}
+{132}{}{Les scanners mÃ©dicaux ont dÃ©tectÃ© un empoisonnement mortel par irradiation. Veux-tu tenter un soin ? Ce sera assez long.}
+{133}{}{Les scanners mÃ©dicaux ont dÃ©tectÃ© un grave empoisonnement par irradiation. Veux-tu tenter un soin ? Ce sera assez long.}
+{134}{}{Les scanners mÃ©dicaux ont dÃ©tectÃ© un sÃ©rieux empoisonnement par irradiation. Veux-tu tenter un soin ? Ce sera assez long.}
+{135}{}{Les scanners mÃ©dicaux ont dÃ©tectÃ© un lÃ©ger empoisonnement par irradiation. Veux-tu tenter un soin ? Ce sera assez long.}
+{136}{}{Voici le mÃ©decin de l'Abri 13.}
+{137}{}{D'accord, voyons voir Ã§a. Ne bouge pas pendant que je tâ€™ausculte.}
 {138}{}{Non.}
 {139}{}{D'accord.}
 {140}{}{Combien de temps ?}
-{141}{}{Combien de temps faudra-t-il et quelle quantité de radiations peux-tu supprimer ?}
+{141}{}{Combien de temps faudra-t-il et quelle quantitÃ© de radiations peux-tu supprimer ?}
 {142}{}{Non.}
 {143}{}{Ouais.}
 {144}{}{C'est ton corps.}
 {145}{}{Ca prendra }
-{146}{}{ heures. Cela irait plus vite avec du RadAway, mais on n'en a pas sous la main. Veux-tu entamer la procédure ?}
+{146}{}{ heures. Cela irait plus vite avec du RadAway, mais on n'en a pas sous la main. Veux-tu entamer la procÃ©dure ?}
 {147}{}{Non.}
 {148}{}{Oui.}
 {149}{}{Ca prendra }
@@ -52,26 +52,26 @@
 {151}{}{rads. Cela irait plus vite avec du RadAway, mais on n'en a pas sous la main. On peut commencer ?}
 {152}{}{Non.}
 {153}{}{Oui.}
-{154}{}{Ca va être très, très douloureux.}
-{155}{}{D'accord, ça ne devrait pas faire mal.}
+{154}{}{Ca va Ãªtre trÃ¨s, trÃ¨s douloureux.}
+{155}{}{D'accord, Ã§a ne devrait pas faire mal.}
 {156}{}{Bon, tu devrais te sentir bien mieux. Attention une fois dehors.}
-{157}{}{J'ai entendu dire que tu avais sauvé l'Abri. Merci.}
+{157}{}{J'ai entendu dire que tu avais sauvÃ© l'Abri. Merci.}
 {158}{}{[Plus]}
-{159}{}{Le médecin refuse de te parler.}
-{160}{}{S'il te plaît, ne fais pas ça.}
+{159}{}{Le mÃ©decin refuse de te parler.}
+{160}{}{S'il te plaÃ®t, ne fais pas Ã§a.}
 {161}{}{Je souffre d'un empoisonnement !}
-{162}{}{Je suis gravement irradié, fais quelque chose ! Ma peau part en lambeaux !}
+{162}{}{Je suis gravement irradiÃ©, fais quelque chose ! Ma peau part en lambeaux !}
 {163}{}{Je t'en prie. Au revoir !}
 {164}{}{[Continue]}
 {165}{}{Ca prendra moins }
 {166}{}{d'une heure.}
-{167}{}{ Je pourrais guérir complétement ton irradiation qui est de }
-{168}{}{ heures. Je pourrais guérir complétement ton irradiation qui est de }
+{167}{}{ Je pourrais guÃ©rir complÃ©tement ton irradiation qui est de }
+{168}{}{ heures. Je pourrais guÃ©rir complÃ©tement ton irradiation qui est de }
 {169}{}{ et demi }
 {170}{}{ Cela irait plus vite avec du RadAway, mais on n'en a pas sous la main. On peut commencer ?}
 {171}{}{Hmpf.}
-{172}{}{Dans quel pétrin tu t'es fourré ? Je ne devrais pas... mais tiens, prend ça. C'est tout ce que je peux faire pour toi, et sois prudent.}
-{1000}{}{Médecin}
-{1001}{}{Guérison}
-{1100}{}{Je suis toujours là pour aider et soigner mes patients.}
+{172}{}{Dans quel pÃ©trin tu t'es fourrÃ© ? Je ne devrais pas... mais tiens, prend Ã§a. C'est tout ce que je peux faire pour toi, et sois prudent.}
+{1000}{}{MÃ©decin}
+{1001}{}{GuÃ©rison}
+{1100}{}{Je suis toujours lÃ  pour aider et soigner mes patients.}
 {1101}{}{Je peux soigner tes blessures.}

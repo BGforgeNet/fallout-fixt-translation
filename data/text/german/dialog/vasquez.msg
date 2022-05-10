@@ -23,5 +23,5 @@
 {122}{}{Hnn.}
 {123}{}{Well, maybe it is not so good to see you again. Have a good day.}
 {124}{}{Of course you do. My bill is small, and my worth is so large. 500 caps, please.}
-{125}{}{Bitte schön.}
+{125}{}{Bitte schÃ¶n.}
 {126}{}{You should not have done that, my soon-to-be-dead friend.}

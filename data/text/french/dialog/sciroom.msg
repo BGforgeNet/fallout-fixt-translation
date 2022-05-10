@@ -1,1 +1,1 @@
-{100}{}{Cette pièce appartenait autrefois à des scientifiques renommés.}
+{100}{}{Cette piÃ¨ce appartenait autrefois Ã  des scientifiques renommÃ©s.}

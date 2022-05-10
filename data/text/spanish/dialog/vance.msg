@@ -1,63 +1,63 @@
-{100}{}{Ves a hombre de negocios. No estás seguro de la naturaleza de sus negocios.}
-{101}{}{¿Qué puedo hacer por ti?}
-{102}{}{¿Hunh?}
-{103}{}{¿Quién eres?}
-{104}{}{¿Qué pasa en este edificio?}
-{105}{}{¿Vance, verdad? He oído que tú tienes lo que necesito. ¿Puedo conseguir algo?}
-{106}{}{Nada. Adiós.}
-{107}{}{Me llamo Vance y eso es todo lo que necesitas saber. ¿Puedo ofrecerte algo?}
-{108}{}{¿Cómo voy a saberlo si no me dices qué es lo que vendes?}
-{109}{}{Encantado de conocerte, Vance. ¿Qué es lo que vendes?}
+{100}{}{Ves a hombre de negocios. No estÃ¡s seguro de la naturaleza de sus negocios.}
+{101}{}{Â¿QuÃ© puedo hacer por ti?}
+{102}{}{Â¿Hunh?}
+{103}{}{Â¿QuiÃ©n eres?}
+{104}{}{Â¿QuÃ© pasa en este edificio?}
+{105}{}{Â¿Vance, verdad? He oÃ­do que tÃº tienes lo que necesito. Â¿Puedo conseguir algo?}
+{106}{}{Nada. AdiÃ³s.}
+{107}{}{Me llamo Vance y eso es todo lo que necesitas saber. Â¿Puedo ofrecerte algo?}
+{108}{}{Â¿CÃ³mo voy a saberlo si no me dices quÃ© es lo que vendes?}
+{109}{}{Encantado de conocerte, Vance. Â¿QuÃ© es lo que vendes?}
 {110}{}{Yo, querer, cosas.}
-{111}{}{No. Adiós.}
-{112}{}{Si todavía no lo sabes, no deberías estar aquí. Ahora vete.}
-{113}{}{¡VOY A DONDE ME SALE DE LAS NARICES! ¡VETE AL INFIERNO!}
+{111}{}{No. AdiÃ³s.}
+{112}{}{Si todavÃ­a no lo sabes, no deberÃ­as estar aquÃ­. Ahora vete.}
+{113}{}{Â¡VOY A DONDE ME SALE DE LAS NARICES! Â¡VETE AL INFIERNO!}
 {114}{}{Vale. Me voy.}
-{115}{}{¡Cómo que nada! No malgastes mi tiempo. ¡Y ahora fuera de aquí!}
-{116}{}{Inténtalo... si puedes, ¡monstruo!}
+{115}{}{Â¡CÃ³mo que nada! No malgastes mi tiempo. Â¡Y ahora fuera de aquÃ­!}
+{116}{}{IntÃ©ntalo... si puedes, Â¡monstruo!}
 {117}{}{Vale, vale... Me voy.}
 {118}{}{Vale, pareces de fiar. Esto es lo que tengo.}
 {119}{}{Te mira con sospecha.}
-{120}{}{Ey, hola. Siempre es bueno ver a clientes habituales. ¿Qué puedo hacer por ti?}
-{121}{}{Quiero más.}
-{122}{}{Quisiera comprar algunas cosas más.}
+{120}{}{Ey, hola. Siempre es bueno ver a clientes habituales. Â¿QuÃ© puedo hacer por ti?}
+{121}{}{Quiero mÃ¡s.}
+{122}{}{Quisiera comprar algunas cosas mÃ¡s.}
 {123}{}{No me gustan los de tu raza.}
-{124}{}{¿Quiénes son esos amigos tuyos de allí?}
-{125}{}{¿Quiénes son tus amigos de la habitación de atrás?}
-{126}{}{Solo pasaba por aquí.}
-{127}{}{Siento oír eso. Ahora vete.}
-{128}{}{¡NO!}
+{124}{}{Â¿QuiÃ©nes son esos amigos tuyos de allÃ­?}
+{125}{}{Â¿QuiÃ©nes son tus amigos de la habitaciÃ³n de atrÃ¡s?}
+{126}{}{Solo pasaba por aquÃ­.}
+{127}{}{Siento oÃ­r eso. Ahora vete.}
+{128}{}{Â¡NO!}
 {129}{}{Me marcho.}
-{130}{}{Son Justin y Chad. Están aquí para asegurarse de que nadie causa ningún problema.}
+{130}{}{Son Justin y Chad. EstÃ¡n aquÃ­ para asegurarse de que nadie causa ningÃºn problema.}
 {131}{}{Parecen una pareja de mariquitas.}
 {132}{}{Me alegro de conoceros, chicos.}
 {133}{}{I'm just going to hang out for a while, if it's all right with you guys.}
-{134}{}{Son solo unos amigos míos. Eso es todo lo que necesitas saber. No hagas demasiadas preguntas.}
-{135}{}{Muy bien. ¿Qué es lo que vendes?}
-{136}{}{Sé lo que estás haciendo aquí y no me gusta.}
+{134}{}{Son solo unos amigos mÃ­os. Eso es todo lo que necesitas saber. No hagas demasiadas preguntas.}
+{135}{}{Muy bien. Â¿QuÃ© es lo que vendes?}
+{136}{}{SÃ© lo que estÃ¡s haciendo aquÃ­ y no me gusta.}
 {137}{}{I'm just going to hang out for a while, if it's all right with you guys.}
 {138}{}{Volvamos a los negocios.}
-{139}{}{Vale, ¿qué tienes?}
+{139}{}{Vale, Â¿quÃ© tienes?}
 {140}{}{Creo que voy a esperar un poco.}
-{141}{}{¡No eres bienvenido aquí! Lárgate antes de que las cosas se pongan feas.}
+{141}{}{Â¡No eres bienvenido aquÃ­! LÃ¡rgate antes de que las cosas se pongan feas.}
 {142}{}{Voy a enviarte al infierno, lugar al que perteneces.}
 {143}{}{Lo siento. Disculpa.}
-{144}{}{Hey, cáaaaalmate. Solo ha sido un malentendido. Vamos a hablar.}
-{145}{}{No quiero problemas, así que creo que lo mejor será que te vayas antes de que haga algo que puedas lamentar.}
+{144}{}{Hey, cÃ¡aaaalmate. Solo ha sido un malentendido. Vamos a hablar.}
+{145}{}{No quiero problemas, asÃ­ que creo que lo mejor serÃ¡ que te vayas antes de que haga algo que puedas lamentar.}
 {146}{}{No, yo quedar.}
 {147}{}{Vaaale. Me voy.}
 {148}{}{Me da igual lo que pienses.}
 {149}{}{Vale, vale, ya me voy.}
 {150}{}{No lo uses todo en un solo sitio.}
-{151}{}{Gracias, cuídate.}
-{152}{}{¿Uum?}
-{153}{}{¿Quién coño eres y que cojones haces aquí?}
+{151}{}{Gracias, cuÃ­date.}
+{152}{}{Â¿Uum?}
+{153}{}{Â¿QuiÃ©n coÃ±o eres y que cojones haces aquÃ­?}
 {154}{}{Yo }
-{155}{}{. [sonríe] ...quién tú?}
-{156}{}{! [glare] quIÉn *tú*?}
-{157}{}{¿Muchas juergas con el Psycho, eh? No puedo decir que no lo haya visto antes. [ríe] }
-{158}{}{Genial, otro yonqui descerebrado. Lárgate de aquí, joder.}
-{159}{}{¡Ungh!}
-{160}{}{Justin, Chad, enseñémosle a este gilipollas lo que hacemos con los de su clase...}
+{155}{}{. [sonrÃ­e] ...quiÃ©n tÃº?}
+{156}{}{! [glare] quIÃ‰n *tÃº*?}
+{157}{}{Â¿Muchas juergas con el Psycho, eh? No puedo decir que no lo haya visto antes. [rÃ­e] }
+{158}{}{Genial, otro yonqui descerebrado. LÃ¡rgate de aquÃ­, joder.}
+{159}{}{Â¡Ungh!}
+{160}{}{Justin, Chad, enseÃ±Ã©mosle a este gilipollas lo que hacemos con los de su clase...}
 {161}{}{yo Querer algo.}
-{162}{}{Naahh... aadióos.}
+{162}{}{Naahh... aadiÃ³os.}

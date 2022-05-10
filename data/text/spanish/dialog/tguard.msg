@@ -1,27 +1,27 @@
-{100}{}{Estás viendo a uno de los guardias de Arenas Sombrías.}
-{101}{}{Oye, será mejor que te largues. No queremos a tíos como tú por aquí.}
-{102}{}{No puedo creer que Tandi haya desaparecido. Espero que la encuentres. Aradesh sufriría mucho si le ocurriese algo.}
-{103}{}{Gracias por devolvernos a Tandi. Es una buena señal, ¿no crees?}
-{104}{}{Es una pena lo de Tandi. Espero que Aradesh esté bien.}
-{105}{}{Bienvenido, extranjero. No vemos a gente como tú muy a menudo.}
-{106}{}{Oh, gracias. Adiós.}
-{107}{}{¿Por qué no?}
-{108}{}{¡Hnnng!}
-{109}{}{¡Tranquilo! Esta es una comunidad pequeña. No vemos muchos extranjeros, y la verdad, tampoco los necesitamos. Si no tienes un buen motivo para estar aquí, más vale que te largues.}
-{110}{}{Eh, no quiero hacerle daño a nadie.}
+{100}{}{EstÃ¡s viendo a uno de los guardias de Arenas SombrÃ­as.}
+{101}{}{Oye, serÃ¡ mejor que te largues. No queremos a tÃ­os como tÃº por aquÃ­.}
+{102}{}{No puedo creer que Tandi haya desaparecido. Espero que la encuentres. Aradesh sufrirÃ­a mucho si le ocurriese algo.}
+{103}{}{Gracias por devolvernos a Tandi. Es una buena seÃ±al, Â¿no crees?}
+{104}{}{Es una pena lo de Tandi. Espero que Aradesh estÃ© bien.}
+{105}{}{Bienvenido, extranjero. No vemos a gente como tÃº muy a menudo.}
+{106}{}{Oh, gracias. AdiÃ³s.}
+{107}{}{Â¿Por quÃ© no?}
+{108}{}{Â¡Hnnng!}
+{109}{}{Â¡Tranquilo! Esta es una comunidad pequeÃ±a. No vemos muchos extranjeros, y la verdad, tampoco los necesitamos. Si no tienes un buen motivo para estar aquÃ­, mÃ¡s vale que te largues.}
+{110}{}{Eh, no quiero hacerle daÃ±o a nadie.}
 {111}{}{Uh.}
-{112}{}{Yo no dije que lo fueses a hacer. Será mejor que nos dejes en paz.}
-{113}{}{Intentaré no crear problemas.}
-{114}{}{Estoy hasta las narices de los tíos como tú. Prepárate para encontrarte con tu creador.}
-{115}{}{Mira, Arenas Sombrías no necesita a gente como tú que venga del Eje, de Ciudad Vertedero, o de donde sea. Nos apañamos nosotros solos.}
-{116}{}{El último comerciante del Eje nos vendió una bomba de irrigación que no funcionaba. Estamos hartos del tipo de tratos que hacéis.}
-{117}{}{Te equívocas de cabo a rabo. Yo no soy así.}
-{118}{}{Sí, claro. Porque tú lo digas. Solo te digo que no te metas en líos, ¿vale?}
+{112}{}{Yo no dije que lo fueses a hacer. SerÃ¡ mejor que nos dejes en paz.}
+{113}{}{IntentarÃ© no crear problemas.}
+{114}{}{Estoy hasta las narices de los tÃ­os como tÃº. PrepÃ¡rate para encontrarte con tu creador.}
+{115}{}{Mira, Arenas SombrÃ­as no necesita a gente como tÃº que venga del Eje, de Ciudad Vertedero, o de donde sea. Nos apaÃ±amos nosotros solos.}
+{116}{}{El Ãºltimo comerciante del Eje nos vendiÃ³ una bomba de irrigaciÃ³n que no funcionaba. Estamos hartos del tipo de tratos que hacÃ©is.}
+{117}{}{Te equÃ­vocas de cabo a rabo. Yo no soy asÃ­.}
+{118}{}{SÃ­, claro. Porque tÃº lo digas. Solo te digo que no te metas en lÃ­os, Â¿vale?}
 {119}{}{No hay problema.}
-{120}{}{Sí, lo que sea.}
-{121}{}{Bueno, quizá no lo seas. Sí que pareces algo distinto. ¿Sabes qué? Deberías ir a hablar con Aradesh. Está en el centro del pueblo.}
-{122}{}{Aquí no queremos a la gente como tú. Regresa al sitio de dónde vienes.}
-{123}{}{Eh, las armas no son necesarias. No nos gustan mucho por aquí.}
-{124}{}{Oye, no has resultado ser tan mala persona después de todo. Qué tengas un buen día.}
-{125}{}{Me encantaría que te largaras del pueblo.}
-{126}{}{[Más]}
+{120}{}{SÃ­, lo que sea.}
+{121}{}{Bueno, quizÃ¡ no lo seas. SÃ­ que pareces algo distinto. Â¿Sabes quÃ©? DeberÃ­as ir a hablar con Aradesh. EstÃ¡ en el centro del pueblo.}
+{122}{}{AquÃ­ no queremos a la gente como tÃº. Regresa al sitio de dÃ³nde vienes.}
+{123}{}{Eh, las armas no son necesarias. No nos gustan mucho por aquÃ­.}
+{124}{}{Oye, no has resultado ser tan mala persona despuÃ©s de todo. QuÃ© tengas un buen dÃ­a.}
+{125}{}{Me encantarÃ­a que te largaras del pueblo.}
+{126}{}{[MÃ¡s]}

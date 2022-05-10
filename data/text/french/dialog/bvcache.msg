@@ -1,1 +1,1 @@
-{100}{}{Il y a une trousse de premiers secours dissimulée dans le mur est. Ca peut toujours servir.}
+{100}{}{Il y a une trousse de premiers secours dissimulÃ©e dans le mur est. Ca peut toujours servir.}

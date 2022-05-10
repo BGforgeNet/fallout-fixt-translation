@@ -1,18 +1,18 @@
-{100}{}{Estás viendo a un encargado de la Caravana Carmesí.}
-{101}{}{Estás viendo a un encargado de los Mercaderes de Agua.}
-{102}{}{Estás viendo a un encargado de los Comerciantes de Ultramar.}
-{103}{}{Hola. ¿Buscas trabajo?}
-{104}{}{Sí.}
+{100}{}{EstÃ¡s viendo a un encargado de la Caravana CarmesÃ­.}
+{101}{}{EstÃ¡s viendo a un encargado de los Mercaderes de Agua.}
+{102}{}{EstÃ¡s viendo a un encargado de los Comerciantes de Ultramar.}
+{103}{}{Hola. Â¿Buscas trabajo?}
+{104}{}{SÃ­.}
 {105}{}{No.}
-{106}{}{Fantástico. Tengo sitio para otro guardia. ¿Te interesa?}
+{106}{}{FantÃ¡stico. Tengo sitio para otro guardia. Â¿Te interesa?}
 {107}{}{Vale. Si necesitas trabajo, podemos ayudarte.}
-{108}{}{Siento oír eso. Adiós.}
-{109}{}{Excelente. Tenemos caravanas que van al Cementerio de LA, a Ciudad Vertedero, a Necrópolis, a la Hermandad del Acero. ¿En cuál te gustaría trabajar?}
-{110}{}{Excelente. Tenemos caravanas que van al Cementerio de LA, a Ciudad Vertedero y a la Hermandad del Acero. ¿En cuál te gustaría trabajar?}
-{111}{}{Excelente. Tenemos caravanas que van al Cementerio de LA y a Ciudad Vertedero. ¿En cuál te gustaría trabajar?}
+{108}{}{Siento oÃ­r eso. AdiÃ³s.}
+{109}{}{Excelente. Tenemos caravanas que van al Cementerio de LA, a Ciudad Vertedero, a NecrÃ³polis, a la Hermandad del Acero. Â¿En cuÃ¡l te gustarÃ­a trabajar?}
+{110}{}{Excelente. Tenemos caravanas que van al Cementerio de LA, a Ciudad Vertedero y a la Hermandad del Acero. Â¿En cuÃ¡l te gustarÃ­a trabajar?}
+{111}{}{Excelente. Tenemos caravanas que van al Cementerio de LA y a Ciudad Vertedero. Â¿En cuÃ¡l te gustarÃ­a trabajar?}
 {112}{}{El Cementerio.}
 {113}{}{Ciudad Vertedero.}
 {114}{}{La Hermandad del Acero.}
-{115}{}{Necrópolis.}
-{116}{}{Ninguna. He cambiado de opinión.}
-{117}{}{Fantástico. Nos vamos.}
+{115}{}{NecrÃ³polis.}
+{116}{}{Ninguna. He cambiado de opiniÃ³n.}
+{117}{}{FantÃ¡stico. Nos vamos.}

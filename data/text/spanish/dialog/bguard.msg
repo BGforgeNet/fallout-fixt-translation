@@ -1,8 +1,8 @@
 {100}{}{Ves a un guardia.}
-{101}{}{Trabajo para el mercader de aquí. Me aseguro de que nadie se meta con él.}
-{102}{}{¿Tienes dónuts?}
-{103}{}{¡Si lo rompes, lo pagas!}
-{104}{}{¡Nos cargamos a los rateros!}
-{105}{}{¿Vas a comprar algo? ¿Quizás en este siglo?}
-{106}{}{No podrás cazar escorpiones rad sin este material.}
-{107}{}{Trabajo para el mercader de aquí. Me aseguro de que nadie se meta con él.}
+{101}{}{Trabajo para el mercader de aquÃ­. Me aseguro de que nadie se meta con Ã©l.}
+{102}{}{Â¿Tienes dÃ³nuts?}
+{103}{}{Â¡Si lo rompes, lo pagas!}
+{104}{}{Â¡Nos cargamos a los rateros!}
+{105}{}{Â¿Vas a comprar algo? Â¿QuizÃ¡s en este siglo?}
+{106}{}{No podrÃ¡s cazar escorpiones rad sin este material.}
+{107}{}{Trabajo para el mercader de aquÃ­. Me aseguro de que nadie se meta con Ã©l.}

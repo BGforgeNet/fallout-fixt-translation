@@ -1,15 +1,15 @@
-{100}{}{Estás viendo a un ciudadano de Arenas Sombrías.}
-{101}{}{Bienvenida a Arenas Sombrías, forastera.}
+{100}{}{EstÃ¡s viendo a un ciudadano de Arenas SombrÃ­as.}
+{101}{}{Bienvenida a Arenas SombrÃ­as, forastera.}
 {102}{}{Eh, gracias.}
-{103}{}{¿Qué ocurre en este lugar?}
-{104}{}{¡Unnh!}
-{105}{}{Somos una auténtica comunidad. Trabajamos juntos y lo compartimos todo.}
-{106}{}{¿Cómo sobrevivís aquí?}
-{107}{}{¿Quién es vuestro jefe?}
-{108}{}{Tenemos granjas y sistemas de riego y criamos brahmines. Todo el mundo aporta lo que puede para hacer algo útil.}
-{109}{}{Aradesh es nuestro ciudadano más anciano. Con su experiencia ayuda a guiar a la comunidad.}
+{103}{}{Â¿QuÃ© ocurre en este lugar?}
+{104}{}{Â¡Unnh!}
+{105}{}{Somos una autÃ©ntica comunidad. Trabajamos juntos y lo compartimos todo.}
+{106}{}{Â¿CÃ³mo sobrevivÃ­s aquÃ­?}
+{107}{}{Â¿QuiÃ©n es vuestro jefe?}
+{108}{}{Tenemos granjas y sistemas de riego y criamos brahmines. Todo el mundo aporta lo que puede para hacer algo Ãºtil.}
+{109}{}{Aradesh es nuestro ciudadano mÃ¡s anciano. Con su experiencia ayuda a guiar a la comunidad.}
 {110}{}{Hola.}
 {111}{}{Hola.}
-{112}{}{¿Cómo estás?}
+{112}{}{Â¿CÃ³mo estÃ¡s?}
 {113}{}{Me alegro de verte.}
-{114}{}{Buenos días.}
+{114}{}{Buenos dÃ­as.}

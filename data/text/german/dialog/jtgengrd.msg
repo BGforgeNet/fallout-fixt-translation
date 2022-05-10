@@ -29,7 +29,7 @@
 {128}{}{Whatever you're doing, don't do it in this town.}
 {129}{}{The guard stares at you for a moment. You see a look of recognition on his face, and then he pulls his weapon.}
 {130}{}{Well, uh, okay. Whatever. Just don't do anything out of line.}
-{131}{}{Danke, Tschüss.}
+{131}{}{Danke, TschÃ¼ss.}
 {132}{}{Certainly. I will throw caution to the wind, sir.}
 {133}{}{Certainly. I will throw caution to the wind, ma'am.}
 {134}{}{Put that weapon away, or face the consequences!}

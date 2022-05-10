@@ -17,7 +17,7 @@
 {116}{}{What's a steam truck?}
 {117}{}{How did you survive?}
 {118}{}{Do you know why?}
-{119}{}{Ich weiﬂ es nicht.}
+{119}{}{Ich wei√ü es nicht.}
 {120}{}{Danke.}
 {121}{}{You're useless.}
 {122}{}{I heard they was pissed that some human killed their men here.}

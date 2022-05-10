@@ -1,33 +1,33 @@
 {100}{}{Voici Troy.}
-{101}{}{Félicitations, humain. Le sort a voulu que tu rejoignes une bande élite de disciples. Suis-moi.}
-{102}{}{Ca n'aurait pas avoir avec les rumeurs faisant état d'une armée Super Mutante déchaînée ?}
-{103}{}{Où allons-nous ?}
+{101}{}{FÃ©licitations, humain. Le sort a voulu que tu rejoignes une bande Ã©lite de disciples. Suis-moi.}
+{102}{}{Ca n'aurait pas avoir avec les rumeurs faisant Ã©tat d'une armÃ©e Super Mutante dÃ©chaÃ®nÃ©e ?}
+{103}{}{OÃ¹ allons-nous ?}
 {104}{}{Qu'attends-tu ? Allons-y !}
 {105}{}{Je ne crois pas.}
-{106}{}{D'où vient cette puanteur indescriptible ? Oh, c'est toi !}
+{106}{}{D'oÃ¹ vient cette puanteur indescriptible ? Oh, c'est toi !}
 {107}{}{Rrr ?}
-{108}{}{Suis-moi et tu le sauras. Ou en d'autres termes, suis-moi et tu vivras, imbécile !}
+{108}{}{Suis-moi et tu le sauras. Ou en d'autres termes, suis-moi et tu vivras, imbÃ©cile !}
 {109}{}{Alors si je n'y vais pas, je meurs ? Ca a l'air formel.}
 {110}{}{Tu as su me convaincre. C'est parti !}
 {111}{}{Je ne crois pas.}
-{112}{}{Ne commence pas ce que tu ne peux pas terminer, imbécile !}
+{112}{}{Ne commence pas ce que tu ne peux pas terminer, imbÃ©cile !}
 {113}{}{Parfait !}
 {114}{}{Tu ne devrais pas jouer avec Lady Jain ou les Enfants.}
 {115}{}{Tu ne devrais pas insulter ce que tu ne peux pas tuer. Bon maintenant, que veux-tu : venir avec moi et vivre ou rester ici et mourir ?}
 {116}{}{I'm coming!}
-{117}{}{Oublie ça.}
+{117}{}{Oublie Ã§a.}
 {118}{}{Mon dieu ! Les mutants peuvent bien plaisanter, non ?}
-{119}{}{Si je continue à te sentir, je vais tomber comme une mouche !}
-{120}{}{Imbécile ! Alors tu viens ou tu restes ici ?}
+{119}{}{Si je continue Ã  te sentir, je vais tomber comme une mouche !}
+{120}{}{ImbÃ©cile ! Alors tu viens ou tu restes ici ?}
 {121}{}{Euh... Venir !}
 {122}{}{Euh... Moi rester !}
-{123}{}{Ne m'agace pas avec tes hésitations ! Que décides-tu, humain ?}
+{123}{}{Ne m'agace pas avec tes hÃ©sitations ! Que dÃ©cides-tu, humain ?}
 {124}{}{Je viens avec toi. Allons-y.}
-{125}{}{Oublie ça.}
-{126}{}{Comment oses-tu me pousser ?! Personne ne me dit ce que j'ai à faire !}
+{125}{}{Oublie Ã§a.}
+{126}{}{Comment oses-tu me pousser ?! Personne ne me dit ce que j'ai Ã  faire !}
 {127}{}{Quelle insolence ! Tu vas mourir !}
-{128}{}{Ne m'agace pas avec tes plaisanteries ! Que décides-tu, humain ?}
+{128}{}{Ne m'agace pas avec tes plaisanteries ! Que dÃ©cides-tu, humain ?}
 {129}{}{Je viens avec toi. Allons-y.}
-{130}{}{Oublie ça.}
+{130}{}{Oublie Ã§a.}
 {131}{}{Ne me pousse pas. J'essaie de me concentrer.}
 {132}{}{Le mutant t'ignore.}

@@ -1,7 +1,7 @@
-{100}{}{Eh, no deberías estar aquí, Iniciado.}
-{101}{}{¿Qué estás haciendo aquí?}
-{102}{}{Éstas son las dependencias de los Paladines. Vete.}
-{103}{}{Vete por favor, no deberías estar aquí.}
-{104}{}{Eh, no está permitida la entrada a los Iniciados.}
+{100}{}{Eh, no deberÃ­as estar aquÃ­, Iniciado.}
+{101}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{102}{}{Ã‰stas son las dependencias de los Paladines. Vete.}
+{103}{}{Vete por favor, no deberÃ­as estar aquÃ­.}
+{104}{}{Eh, no estÃ¡ permitida la entrada a los Iniciados.}
 {105}{}{Por la noche no hay entrenamiento.}
-{106}{}{Eh, éstas no son las dependencias de los Iniciados.}
+{106}{}{Eh, Ã©stas no son las dependencias de los Iniciados.}

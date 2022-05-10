@@ -16,12 +16,12 @@
 {15}{}{Action Points}
 {16}{}{Hit Points}
 {17}{}{Error: motion sensor not available!}
-{18}{}{Der Bewegungssensor hat keine Ladung mehr übrig.}
+{18}{}{Der Bewegungssensor hat keine Ladung mehr Ã¼brig.}
 {100}{}{Error saving game config file!}
 {101}{}{Game settings not saved.}
 {1000}{}{You feel somewhat nauseous. Your skin is red and tender.}
 {1001}{}{You feel very nauseous, and after some mild vomiting, slightly fatigued.}
-{1002}{}{Du bist sehr erschöpft, der Brechreiz lässt nicht nach, und deine Erholungszeit ist gestört.}
+{1002}{}{Du bist sehr erschÃ¶pft, der Brechreiz lÃ¤sst nicht nach, und deine Erholungszeit ist gestÃ¶rt.}
 {1003}{}{You are hemorrhaging violently. You are very sick, and your hair is falling out.}
 {1004}{}{You are hemorrhaging violently and continuously. The vomitus is stained red from your blood. Your skin is falling off your bones.}
 {1005}{}{There is bleeding from your intestines and you have severe diarrhea. You feel bloated and are in intense agony.}

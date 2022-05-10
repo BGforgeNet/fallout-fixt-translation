@@ -49,7 +49,7 @@
 {148}{Ara_15}{Hmmm. You may enter. But stay out of trouble.}
 {149}{}{What can you tell me about the other towns around here?}
 {150}{}{Was ist hier los?}
-{151}{}{Danke. Tschüss.}
+{151}{}{Danke. TschÃ¼ss.}
 {152}{Ara_17}{Greetings again, young wanderer. I hope your stay here has been pleasant.}
 {153}{}{It's been great. Can I ask you some questions?}
 {154}{}{It has. I gotta run though.}
@@ -65,7 +65,7 @@
 {164}{Ara_19b}{You may ask, but please hurry. There are more important uses for my time.}
 {165}{}{What can you tell me about the other towns around here?}
 {166}{}{Was ist hier los?}
-{167}{}{Danke. Tschüss.}
+{167}{}{Danke. TschÃ¼ss.}
 {168}{Ara_20g}{Ah. Happy journeys, wanderer.}
 {169}{Ara_20n}{Goodbye.}
 {170}{Ara_20b}{I certainly hope so.}
@@ -80,7 +80,7 @@
 {179}{}{Noch irgendwas?}
 {180}{Ara_24a}{We are small and self-sufficient so there is little else to tell.}
 {181}{}{Thanks. Can I ask you a few more questions?}
-{182}{}{Danke. Tschüss.}
+{182}{}{Danke. TschÃ¼ss.}
 {183}{Ara_24b}{It is a small place. You have feet.}
 {184}{}{Thanks. Can I ask you a few more questions?}
 {185}{Ara_25b}{Dharma said, 'Heed not the call of the wolf when the fox is raiding the hen house.'}
@@ -93,7 +93,7 @@
 {192}{Ara_27}{Yes. We like it that way.}
 {193}{}{What can you tell me about the other towns around here?}
 {194}{}{Was ist hier los?}
-{195}{}{Danke. Tschüss.}
+{195}{}{Danke. TschÃ¼ss.}
 {196}{Ara_28}{Oh my yes. Great packs of radscorpions are killing our herds. We don't know where they're from, and no matter how many we kill, there's always more!}
 {197}{}{Mach weiter.}
 {198}{Ara_28a}{And now the monsters are attacking my people! Razlo is trying to find a cure for their poison, but I'm not sure how it goes.}
@@ -110,12 +110,12 @@
 {209}{}{You don't need to worry anymore. I destroyed the nest.}
 {210}{Ara_32}{You are truly a hero! Know that the people of Shady Sands are most grateful.}
 {211}{}{Thanks. Can I ask you a few more questions, though?}
-{212}{}{Danke. Tschüss dann!}
+{212}{}{Danke. TschÃ¼ss dann!}
 {213}{Ara_33}{If you can understand me, please try to find my daughter.}
 {214}{Ara_35}{Since you brought my Tandi back to me, things are quite fine. My eternal gratitude to you, wanderer.}
 {215}{}{What can you tell me about the other towns around here?}
 {216}{}{Was ist hier los?}
-{217}{}{Danke. Tschüss.}
+{217}{}{Danke. TschÃ¼ss.}
 {218}{Ara_36}{Yes, yes. Umm. Have a good stay.}
 {219}{Ara_37}{Ahh, wanderer. How goes the search for my daughter?}
 {220}{}{Sorry, but I haven't found her. I will, though.}
@@ -128,7 +128,7 @@
 {227}{Ara_38}{May my thoughts be wings to your feet. Please hurry.}
 {228}{Ara_39}{Thank goodness you came! I am in desperate need of assistance. My daughter, Tandi, is missing. I do not know what to do!}
 {229}{}{Have you tried to save her?}
-{230}{}{Häh?}
+{230}{}{HÃ¤h?}
 {231}{Ara_39a}{My people are not skilled in this. Already three patrols have gone out to look, but none returned. Will you help me?}
 {232}{}{Okay. Who could have taken her?}
 {233}{}{I'll do it... for a fee.}

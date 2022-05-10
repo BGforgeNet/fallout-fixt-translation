@@ -1,7 +1,7 @@
-{101}{}{No necesito tus servicios ahora. Quizás más tarde.}
-{102}{}{¡Socorro! ¡Sálvame!}
-{103}{}{¡Debes morir por lo que has hecho!}
-{104}{}{¡Sálvame! ¡Por favor!}
-{105}{}{¿Están todos muertos ya? ¡Quizás quede alguno más!}
-{106}{}{Tu llegada fue muy oportuna, amiga mía. Déjame que te ofrezca una pequeña muestra de mi gratitud.}
-{107}{}{Tu llegada fue muy oportuna, amiga mía. Déjame que te ofrezca una pequeña muestra de mi gratitud.}
+{101}{}{No necesito tus servicios ahora. QuizÃ¡s mÃ¡s tarde.}
+{102}{}{Â¡Socorro! Â¡SÃ¡lvame!}
+{103}{}{Â¡Debes morir por lo que has hecho!}
+{104}{}{Â¡SÃ¡lvame! Â¡Por favor!}
+{105}{}{Â¿EstÃ¡n todos muertos ya? Â¡QuizÃ¡s quede alguno mÃ¡s!}
+{106}{}{Tu llegada fue muy oportuna, amiga mÃ­a. DÃ©jame que te ofrezca una pequeÃ±a muestra de mi gratitud.}
+{107}{}{Tu llegada fue muy oportuna, amiga mÃ­a. DÃ©jame que te ofrezca una pequeÃ±a muestra de mi gratitud.}

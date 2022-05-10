@@ -119,7 +119,7 @@
 {1206}{}{You're history!}
 {1207}{}{Fresh meat...}
 {1208}{}{I'm gonna dance on your grave}
-{1209}{}{Los, Leute! Lasst uns ein paar Zielübungen machen!}
+{1209}{}{Los, Leute! Lasst uns ein paar ZielÃ¼bungen machen!}
 {1210}{}{Bleed, bleed, bleed!}
 {1211}{}{I'm going to enjoy this...}
 {1212}{}{Gonna sell your corpse to Doc Morbid}
@@ -466,7 +466,7 @@
 {1807}{}{I don't like your kind...}
 {1808}{}{I really hoped it wouldn't come to this...}
 {1809}{}{I don't wanna get hurt}
-{1810}{}{Ich schätze, ich muss mich verteidigen.}
+{1810}{}{Ich schÃ¤tze, ich muss mich verteidigen.}
 {1811}{}{Here goes nothing}
 {1812}{}{Take this!}
 {1813}{}{You shouldn't have started this!}
@@ -518,7 +518,7 @@
 {1900}{}{I'm taking it on the lam}
 {1901}{}{I'll be back!}
 {1902}{}{Later punk!}
-{1903}{}{War schön dich zu sehn, doch jetzt muss ich gehn!}
+{1903}{}{War schÃ¶n dich zu sehn, doch jetzt muss ich gehn!}
 {1904}{}{You'll pay for this - later!}
 {1905}{}{Lass uns das bald mal wieder tun!}
 {1906}{}{I'm gonna pin your ears back!}
@@ -2505,7 +2505,7 @@
 {5220}{}{You cannot fight the Chosen!}
 {5221}{}{Suffer, human!}
 {5222}{}{Why do you struggle?}
-{5223}{}{Besser können es die Menschen nicht!}
+{5223}{}{Besser kÃ¶nnen es die Menschen nicht!}
 {5224}{}{You have no power!}
 {5225}{}{You make me laugh hard!}
 {5226}{}{Was that an attack?}
@@ -2629,7 +2629,7 @@
 {5420}{}{}
 {5421}{}{Suffer, human!}
 {5422}{}{Why do you struggle?}
-{5423}{}{Besser können es die Menschen nicht!}
+{5423}{}{Besser kÃ¶nnen es die Menschen nicht!}
 {5424}{}{You have no power!}
 {5425}{}{}
 {5426}{}{}
@@ -2808,7 +2808,7 @@
 {5713}{}{How do you like this?}
 {5714}{}{This is what we do to vermin!}
 {5715}{}{This is for you!}
-{5716}{}{Tschüss!}
+{5716}{}{TschÃ¼ss!}
 {5717}{}{}
 {5718}{}{Troublemaking scum!}
 {5719}{}{}
@@ -4122,7 +4122,7 @@
 {7825}{}{You can't get the job done}
 {7826}{}{That was your last shot!}
 {7827}{}{Loser}
-{7828}{}{Mein Schädel schmerzt!}
+{7828}{}{Mein SchÃ¤del schmerzt!}
 {7829}{}{How dare you do this to me!}
 {7830}{}{You broke my nose!}
 {7831}{}{You dirty radscorpion-kissing...}
@@ -4184,7 +4184,7 @@
 {7925}{}{You can't get the job done}
 {7926}{}{That was your last mistake}
 {7927}{}{You're having a bad day. Stick around. It gets worse.}
-{7928}{}{Mein Schädel schmerzt!}
+{7928}{}{Mein SchÃ¤del schmerzt!}
 {7929}{}{Oooo...}
 {7930}{}{You broke my nose!}
 {7931}{}{Oooo...}
@@ -4295,7 +4295,7 @@
 {8112}{}{Combat sequence initiated}
 {8113}{}{Attacking target}
 {8114}{}{Initiating attack sequence}
-{8115}{}{Der Eindringling muss zerstört werden!}
+{8115}{}{Der Eindringling muss zerstÃ¶rt werden!}
 {8116}{}{Tactical options selection completed}
 {8117}{}{Commencing attack}
 {8118}{}{The target will be destroyed}
@@ -4437,7 +4437,7 @@
 {8501}{}{I'll keep this short.}
 {8502}{}{Moving in.}
 {8503}{}{Eat this.}
-{8504}{}{Hab einen schönen Tag.}
+{8504}{}{Hab einen schÃ¶nen Tag.}
 {8505}{}{Got somethin' for ya.}
 {8506}{}{Not quite.}
 {8507}{}{Close, but that wasn't a nuke.}

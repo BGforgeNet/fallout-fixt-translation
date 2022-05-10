@@ -147,7 +147,7 @@
 {246}{}{I'm impressed. A guy like you must know the real story about what's going on around here...}
 {247}{}{Apocalypse, eh? They're supposed to be tough?}
 {248}{}{Three? That's all? You should see my body count!}
-{249}{}{Nö.}
+{249}{}{NÃ¶.}
 {250}{}{I'll bet yours didn't scream as loudly as mine did. I like it when they scream.}
 {251}{}{Hey! A guy with a weapon's still a guy with a weapon! You think you can do better?}
 {252}{}{No, my friend. I am devoted to peace, love, and unity.}

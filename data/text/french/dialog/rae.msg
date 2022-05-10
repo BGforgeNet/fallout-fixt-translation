@@ -1,76 +1,76 @@
 {100}{}{Voici Rae.}
 {101}{}{Voici un super mutant.}
-{102}{}{Tu n'as rien à faire ici.}
-{103}{}{[air embarrassé et triste] Je pense que si, mais... que fais-tu là ?}
+{102}{}{Tu n'as rien Ã  faire ici.}
+{103}{}{[air embarrassÃ© et triste] Je pense que si, mais... que fais-tu lÃ  ?}
 {104}{}{Toi non plus.}
-{105}{}{Euh, si. Le Maître m'envoie secrètement en reconnaissance pour vérifier la sécurité.}
-{106}{}{Si. Je suis là pour te tuer.}
+{105}{}{Euh, si. Le MaÃ®tre m'envoie secrÃ¨tement en reconnaissance pour vÃ©rifier la sÃ©curitÃ©.}
+{106}{}{Si. Je suis lÃ  pour te tuer.}
 {107}{}{D'accord, je m'en vais.}
 {108}{}{Euh.}
 {109}{}{[soupir] Que veux-tu encore ?}
-{110}{}{J'ai perdu mon chemin... Tu peux me dire comment me rendre auprès du Maître ? Faut que je le tue.}
+{110}{}{J'ai perdu mon chemin... Tu peux me dire comment me rendre auprÃ¨s du MaÃ®tre ? Faut que je le tue.}
 {111}{}{Rien. Salut.}
-{112}{}{Voir à quoi tu ressembleras quand je t'aurai fait la peau, saleté de mutant.}
+{112}{}{Voir Ã  quoi tu ressembleras quand je t'aurai fait la peau, saletÃ© de mutant.}
 {113}{}{Qu'est-ce t'as ?}
 {114}{}{grand ougly mougly.}
-{115}{}{Je viens... contempler l'unicité du Maître.}
-{116}{}{Bien sûr. L'unité apporte la paix. Puis-je te demander d'où tu es ?}
-{117}{}{Moi aussi. J'ai fait le pèlerinage de loin pour voir le Maître de mes propres yeux.}
-{118}{}{J'ai beaucoup à apprendre. Comment obtenir une audience auprès du Maître ?}
-{119}{}{C'est ce que j'ai fait hier. Aujourd'hui, j'essaie de m'imaginer la gueule du Maître si je le faisais rôtir tout cru, avec de la guimauve par-dessus.}
-{120}{}{Je crois que le Maître est fou.}
+{115}{}{Je viens... contempler l'unicitÃ© du MaÃ®tre.}
+{116}{}{Bien sÃ»r. L'unitÃ© apporte la paix. Puis-je te demander d'oÃ¹ tu es ?}
+{117}{}{Moi aussi. J'ai fait le pÃ¨lerinage de loin pour voir le MaÃ®tre de mes propres yeux.}
+{118}{}{J'ai beaucoup Ã  apprendre. Comment obtenir une audience auprÃ¨s du MaÃ®tre ?}
+{119}{}{C'est ce que j'ai fait hier. Aujourd'hui, j'essaie de m'imaginer la gueule du MaÃ®tre si je le faisais rÃ´tir tout cru, avec de la guimauve par-dessus.}
+{120}{}{Je crois que le MaÃ®tre est fou.}
 {121}{}{Je suis de... d'ailleurs.}
-{122}{}{Quelle coïncidence ! Moi aussi.}
-{123}{}{D'où ?}
-{124}{}{Je viens d'un Abri... Je suis un être humain pur jus.}
+{122}{}{Quelle coÃ¯ncidence ! Moi aussi.}
+{123}{}{D'oÃ¹ ?}
+{124}{}{Je viens d'un Abri... Je suis un Ãªtre humain pur jus.}
 {125}{}{Quoi, t'es une de ces andouilles ?}
-{126}{}{D'où viens-tu ?}
-{127}{}{[à voix basse] Je viens d'un Abri... Je suis un être humain pur jus.}
-{128}{}{Je préfère pas le dire. Salut.}
+{126}{}{D'oÃ¹ viens-tu ?}
+{127}{}{[Ã  voix basse] Je viens d'un Abri... Je suis un Ãªtre humain pur jus.}
+{128}{}{Je prÃ©fÃ¨re pas le dire. Salut.}
 {129}{}{D'un petit village au Nord d'ici.}
 {130}{}{Pourquoi je te le dirais, hein ? T'es qu'un larbin.}
-{131}{}{Pourquoi me dire ça ? Je devrais te traîner devant le Maître...}
+{131}{}{Pourquoi me dire Ã§a ? Je devrais te traÃ®ner devant le MaÃ®tre...}
 {132}{}{Mais tu le feras pas !}
 {133}{}{Essaie toujours !}
 {134}{}{Ah, je devrais te pointer mon fusil sous le nez et tirer !}
-{135}{}{Non, s'il te plaît !}
+{135}{}{Non, s'il te plaÃ®t !}
 {136}{}{Je sais pourquoi tu souffres.}
 {137}{}{Bon, faut que j'y aille.}
-{138}{}{C'est vrai... si seulement je pouvais me vider la tête. Y'a quelque chose...}
-{139}{}{Je sais pourquoi tu peux pas te vider la tête.}
-{140}{}{Le Maître t'empêche de penser clairement. La réflexion dérange l'unité.}
-{141}{}{Le Maître, voilà la raison de ta souffrance.}
-{142}{}{Eh, j'ai une idée... Si on découpait le Maître pour voir ce qu'il y a dedans !!}
-{143}{}{Dis-moi ! S'il te plaît !!}
-{144}{}{Toi aussi, tu faisais partie de la race humaine. Mais le Maître t'a plongé dans le virus FEV pour te faire muter.}
+{138}{}{C'est vrai... si seulement je pouvais me vider la tÃªte. Y'a quelque chose...}
+{139}{}{Je sais pourquoi tu peux pas te vider la tÃªte.}
+{140}{}{Le MaÃ®tre t'empÃªche de penser clairement. La rÃ©flexion dÃ©range l'unitÃ©.}
+{141}{}{Le MaÃ®tre, voilÃ  la raison de ta souffrance.}
+{142}{}{Eh, j'ai une idÃ©e... Si on dÃ©coupait le MaÃ®tre pour voir ce qu'il y a dedans !!}
+{143}{}{Dis-moi ! S'il te plaÃ®t !!}
+{144}{}{Toi aussi, tu faisais partie de la race humaine. Mais le MaÃ®tre t'a plongÃ© dans le virus FEV pour te faire muter.}
 {145}{}{Je regrette, je peux pas.}
-{146}{}{Seul le Maître peut tout te dire.}
-{147}{}{Seul le Maître peut tout te dire. Mais fais vite si t'as à lui causer parce que je vais de ce pas le trucider.}
+{146}{}{Seul le MaÃ®tre peut tout te dire.}
+{147}{}{Seul le MaÃ®tre peut tout te dire. Mais fais vite si t'as Ã  lui causer parce que je vais de ce pas le trucider.}
 {148}{}{Mes excuses, faut que j'y aille.}
 {149}{}{Je devrais te tuer pour oser me railler !}
-{150}{}{J'ai une meilleure idée... Si tu m'aidais à détruire le Maître pour t'avoir fait ça.}
-{151}{}{Non, tu devrais tuer le Maître pour t'avoir fait ça. Justement, j'y vais de ce pas... tu m'accompagnes ?}
-{152}{}{Pourquoi ? C'est pas moi qui t'ai transformé en mutant !}
+{150}{}{J'ai une meilleure idÃ©e... Si tu m'aidais Ã  dÃ©truire le MaÃ®tre pour t'avoir fait Ã§a.}
+{151}{}{Non, tu devrais tuer le MaÃ®tre pour t'avoir fait Ã§a. Justement, j'y vais de ce pas... tu m'accompagnes ?}
+{152}{}{Pourquoi ? C'est pas moi qui t'ai transformÃ© en mutant !}
 {153}{}{Essaie toujours !}
 {154}{}{Non, merci. Salut !}
-{155}{}{Tordons-lui le cou jusqu'à ce que ses yeux lui sortent de la tête.}
-{156}{}{Jamais tu ne tueras le Maître. Il est immortel.}
+{155}{}{Tordons-lui le cou jusqu'Ã  ce que ses yeux lui sortent de la tÃªte.}
+{156}{}{Jamais tu ne tueras le MaÃ®tre. Il est immortel.}
 {157}{}{Tu as raison. Vaut mieux que je file.}
 {158}{}{C'est ce qu'on verra.}
-{159}{}{Hum. Je me demande comment il fera pour vivre une fois son unité détruite...}
-{160}{}{Impossible... le Maître... protège... unifie...}
-{161}{}{Ouais, t'es un exemple vivant d'"union". Je sais, j'ai assisté au processus. Je suis là pour empêcher le Maître d'"unir" quelqu'un d'autre.}
-{162}{}{Comment ça fait d'être protégé et uni ?}
-{163}{}{Ouais, il se protège en contrôlant tout le monde.}
-{164}{}{Bon, ça suffit. Salut.}
+{159}{}{Hum. Je me demande comment il fera pour vivre une fois son unitÃ© dÃ©truite...}
+{160}{}{Impossible... le MaÃ®tre... protÃ¨ge... unifie...}
+{161}{}{Ouais, t'es un exemple vivant d'"union". Je sais, j'ai assistÃ© au processus. Je suis lÃ  pour empÃªcher le MaÃ®tre d'"unir" quelqu'un d'autre.}
+{162}{}{Comment Ã§a fait d'Ãªtre protÃ©gÃ© et uni ?}
+{163}{}{Ouais, il se protÃ¨ge en contrÃ´lant tout le monde.}
+{164}{}{Bon, Ã§a suffit. Salut.}
 {165}{}{File ou je vais devoir m'occuper de toi.}
-{166}{}{AAHHH !! [Se saisit la tête de douleur et de désarroi] Je... peux pas...}
-{167}{}{Exact, ton ami le Maître t'a dépouillé de tout, y compris de ton humanité.}
-{168}{}{Tu sais que c'est la vérité... c'est pour ça que t'es si troublé. Tu luttes contre la mutation. Aide-moi à te venger en détruisant le Maître !}
-{169}{}{Mais si, tu peux ! Allez, on va tuer le Maître, ce sera marrant.}
+{166}{}{AAHHH !! [Se saisit la tÃªte de douleur et de dÃ©sarroi] Je... peux pas...}
+{167}{}{Exact, ton ami le MaÃ®tre t'a dÃ©pouillÃ© de tout, y compris de ton humanitÃ©.}
+{168}{}{Tu sais que c'est la vÃ©ritÃ©... c'est pour Ã§a que t'es si troublÃ©. Tu luttes contre la mutation. Aide-moi Ã  te venger en dÃ©truisant le MaÃ®tre !}
+{169}{}{Mais si, tu peux ! Allez, on va tuer le MaÃ®tre, ce sera marrant.}
 {170}{}{Bon, faut que j'y aille.}
-{171}{}{Je regrette de te voir souffrir ainsi, mais c'est la faute du Maître.}
-{172}{}{Je lui arracherai l'oeil !! J'arracherai sa sale petite tête de ses câbles !! Toi... sors d'ici... Je vais m'occuper du Maître.}
+{171}{}{Je regrette de te voir souffrir ainsi, mais c'est la faute du MaÃ®tre.}
+{172}{}{Je lui arracherai l'oeil !! J'arracherai sa sale petite tÃªte de ses cÃ¢bles !! Toi... sors d'ici... Je vais m'occuper du MaÃ®tre.}
 {173}{}{Super !!}
-{174}{}{Merci de ton offre, mais j'aime mieux faire le boulot moi-même. Tu veux participer ?}
-{175}{}{Je reste ici. J'ai des trucs à finir.}
+{174}{}{Merci de ton offre, mais j'aime mieux faire le boulot moi-mÃªme. Tu veux participer ?}
+{175}{}{Je reste ici. J'ai des trucs Ã  finir.}

@@ -1,27 +1,27 @@
-{100}{}{Ves: a Vásquez, el mercenario forajido.}
+{100}{}{Ves: a VÃ¡squez, el mercenario forajido.}
 {101}{}{Ves a un pistolero de aspecto desastrado.}
-{102}{}{¿Qué quieres?}
-{103}{}{¿Quién eres?}
+{102}{}{Â¿QuÃ© quieres?}
+{103}{}{Â¿QuiÃ©n eres?}
 {104}{}{Umm.}
-{105}{}{No trabajo para idiotas. Así que vete ahora.}
-{106}{}{¿Nunca has oído hablar de mí? ¡Me duele! Me llamo Vásquez Villanueva Hernández Ortega. Soy un famoso forajido, amigo. Y, si lo necesitas, soy un pistolero a sueldo.}
-{107}{}{¿De verdad? ¿Cuánto cobras?}
-{108}{}{Hasta la vista, quizás. Buena suerte. Je.}
-{109}{}{Ahh, directo al grano, amigo. Excelente. Te serviré de ayuda en la ciudad por la ínfima cantidad de 500 chapas a la semana. No soy barato, pero la verdad es que merezco la pena.}
-{110}{}{Bien, trato hecho. Aquí están las 500 chapas.}
+{105}{}{No trabajo para idiotas. AsÃ­ que vete ahora.}
+{106}{}{Â¿Nunca has oÃ­do hablar de mÃ­? Â¡Me duele! Me llamo VÃ¡squez Villanueva HernÃ¡ndez Ortega. Soy un famoso forajido, amigo. Y, si lo necesitas, soy un pistolero a sueldo.}
+{107}{}{Â¿De verdad? Â¿CuÃ¡nto cobras?}
+{108}{}{Hasta la vista, quizÃ¡s. Buena suerte. Je.}
+{109}{}{Ahh, directo al grano, amigo. Excelente. Te servirÃ© de ayuda en la ciudad por la Ã­nfima cantidad de 500 chapas a la semana. No soy barato, pero la verdad es que merezco la pena.}
+{110}{}{Bien, trato hecho. AquÃ­ estÃ¡n las 500 chapas.}
 {111}{}{Siento molestarte, pero creo que no necesito tus servicios.}
-{112}{}{Lo siento, amigo, pero no trabajo por chapas imaginarias. Necesito chapas calentitas, en metálico.}
-{113}{}{Excelente. Soy tuyo. Vámonos, este lugar me aburre.}
-{114}{}{¡Venga, estoy a tus órdenes!}
-{115}{}{¡Vayamos a echar un trago!}
-{116}{}{¿Dónde vamos primero?}
+{112}{}{Lo siento, amigo, pero no trabajo por chapas imaginarias. Necesito chapas calentitas, en metÃ¡lico.}
+{113}{}{Excelente. Soy tuyo. VÃ¡monos, este lugar me aburre.}
+{114}{}{Â¡Venga, estoy a tus Ã³rdenes!}
+{115}{}{Â¡Vayamos a echar un trago!}
+{116}{}{Â¿DÃ³nde vamos primero?}
 {117}{}{Mientras te quedes en Ciudad Vertedero, soy todo tuyo. No me gusta irme de la ciudad.}
-{118}{}{¿Sabías que tengo un regalo en la cabeza? De todas formas es muy pequeño.}
+{118}{}{Â¿SabÃ­as que tengo un regalo en la cabeza? De todas formas es muy pequeÃ±o.}
 {119}{}{Ah, querido amigo. Me alegra volver a verte.}
 {120}{}{Quiero tener tus servicios durante una semana.}
 {121}{}{Me alegra volver a verte.}
 {122}{}{Umm.}
-{123}{}{Bueno, quizá no sea buena idea volver a verte. Que pases un buen día.}
-{124}{}{Claro que sí. Soy barato y mi valía merece la pena. 500 chapas, por favor.}
-{125}{}{Aquí están.}
+{123}{}{Bueno, quizÃ¡ no sea buena idea volver a verte. Que pases un buen dÃ­a.}
+{124}{}{Claro que sÃ­. Soy barato y mi valÃ­a merece la pena. 500 chapas, por favor.}
+{125}{}{AquÃ­ estÃ¡n.}
 {126}{}{No debiste hacer eso, acabas de firmar tu sentencia de muerte.}

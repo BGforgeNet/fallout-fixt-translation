@@ -1,77 +1,77 @@
 {100}{}{Voici le chef de la caravane.}
-{101}{}{Ca y est, nous y sommes. Voilà ton paiement: }
-{102}{}{ caps. [Il tire un très vieux sac de sa poche et te donne l'argent.] Et voilà aussi }
-{103}{}{ caps si tu retournes avec nous au Centre. Nous allons nous reposer ici un moment, mais ne t'éloigne pas trop si tu ne veux pas que la caravane parte sans toi.}
+{101}{}{Ca y est, nous y sommes. VoilÃ  ton paiement: }
+{102}{}{ caps. [Il tire un trÃ¨s vieux sac de sa poche et te donne l'argent.] Et voilÃ  aussi }
+{103}{}{ caps si tu retournes avec nous au Centre. Nous allons nous reposer ici un moment, mais ne t'Ã©loigne pas trop si tu ne veux pas que la caravane parte sans toi.}
 {104}{}{Aaa... Ok.}
-{105}{}{Quand est prévu le départ de la caravane ?}
-{106}{}{Que peux-tu me dire sur Dépôtville ?}
-{107}{}{Tu peux me parler du Cimetière de L.A. ?}
-{108}{}{Que peux-tu me dire sur la Confrérie de l'Acier ?}
-{109}{}{Je ne sais pas si tu vas comprendre, mais nous partons dans deux heures ou dès que tu seras prêt.}
+{105}{}{Quand est prÃ©vu le dÃ©part de la caravane ?}
+{106}{}{Que peux-tu me dire sur DÃ©pÃ´tville ?}
+{107}{}{Tu peux me parler du CimetiÃ¨re de L.A. ?}
+{108}{}{Que peux-tu me dire sur la ConfrÃ©rie de l'Acier ?}
+{109}{}{Je ne sais pas si tu vas comprendre, mais nous partons dans deux heures ou dÃ¨s que tu seras prÃªt.}
 {110}{}{Hum...}
 {111}{}{Heeiin ??}
 {112}{}{Al..Allez !}
-{113}{}{Hé, on emploie de ces débiles en ce moment.}
-{114}{}{Nous partons généralement deux heures après notre arrivée. Nous avons tout vu ici, alors, si tu veux partir plus tôt, nous sommes prêts.}
-{115}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
-{116}{}{Ok. Regagnons le Centre. J'ai plus rien à voir ici.}
-{117}{}{Que peux-tu me dire sur Dépôtville ?}
-{118}{}{Tu peux me parler du Cimetière de L.A. ?}
-{119}{}{Que peux-tu me dire sur la Confrérie de l'Acier ?}
-{120}{}{Eh bien, ça ressemble un peu au Centre. Il y a pas mal de problèmes: les bandes, les voyous, les voleurs, tu sais... les trucs habituels. En fait, c'est mon genre de ville. [Rires]}
-{121}{}{Quand est prévu le départ de la caravane ?}
-{122}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
-{123}{}{Cette partie du Cimetière s'appelle le Sanctuaire. Le Cimetière est sous le contrôle des gangs. C'est un drôle d'endroit, alors fais attention. Le Sanctuaire est dirigé par les Régulateurs. Ils essaient de limiter les guerres de gangs. Ils sont méfiants à l'égard des étrangers, et à juste titre. Si tu ne leur as pas encore parlé, je te conseille de le faire avant de te promener dans le coin.}
+{113}{}{HÃ©, on emploie de ces dÃ©biles en ce moment.}
+{114}{}{Nous partons gÃ©nÃ©ralement deux heures aprÃ¨s notre arrivÃ©e. Nous avons tout vu ici, alors, si tu veux partir plus tÃ´t, nous sommes prÃªts.}
+{115}{}{J'aimerais visiter un peu le coin avant de partir. A tout Ã  l'heure.}
+{116}{}{Ok. Regagnons le Centre. J'ai plus rien Ã  voir ici.}
+{117}{}{Que peux-tu me dire sur DÃ©pÃ´tville ?}
+{118}{}{Tu peux me parler du CimetiÃ¨re de L.A. ?}
+{119}{}{Que peux-tu me dire sur la ConfrÃ©rie de l'Acier ?}
+{120}{}{Eh bien, Ã§a ressemble un peu au Centre. Il y a pas mal de problÃ¨mes: les bandes, les voyous, les voleurs, tu sais... les trucs habituels. En fait, c'est mon genre de ville. [Rires]}
+{121}{}{Quand est prÃ©vu le dÃ©part de la caravane ?}
+{122}{}{J'aimerais visiter un peu le coin avant de partir. A tout Ã  l'heure.}
+{123}{}{Cette partie du CimetiÃ¨re s'appelle le Sanctuaire. Le CimetiÃ¨re est sous le contrÃ´le des gangs. C'est un drÃ´le d'endroit, alors fais attention. Le Sanctuaire est dirigÃ© par les RÃ©gulateurs. Ils essaient de limiter les guerres de gangs. Ils sont mÃ©fiants Ã  l'Ã©gard des Ã©trangers, et Ã  juste titre. Si tu ne leur as pas encore parlÃ©, je te conseille de le faire avant de te promener dans le coin.}
 {124}{}{Vide}
-{125}{}{Quand est prévu le départ de la caravane ?}
-{126}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
-{127}{}{Il n'y a pas grand chose à en dire. La Confrérie garde ses secrets. Beaucoup de gens ne les apprécient guère, mais ce sont des gens bien. Un peu fanatiques, peut-être, mais des gens bien quand même.}
-{128}{}{Quand est prévu le départ de la caravane ?}
-{129}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
-{130}{}{Prêt à partir ?}
+{125}{}{Quand est prÃ©vu le dÃ©part de la caravane ?}
+{126}{}{J'aimerais visiter un peu le coin avant de partir. A tout Ã  l'heure.}
+{127}{}{Il n'y a pas grand chose Ã  en dire. La ConfrÃ©rie garde ses secrets. Beaucoup de gens ne les apprÃ©cient guÃ¨re, mais ce sont des gens bien. Un peu fanatiques, peut-Ãªtre, mais des gens bien quand mÃªme.}
+{128}{}{Quand est prÃ©vu le dÃ©part de la caravane ?}
+{129}{}{J'aimerais visiter un peu le coin avant de partir. A tout Ã  l'heure.}
+{130}{}{PrÃªt Ã  partir ?}
 {131}{}{Al..Allez !}
 {132}{}{Non. Je n'ai pas fini de visiter.}
 {133}{}{Ouais, on peut y aller.}
-{134}{}{Cette partie du Cimetière s'appelle le Sanctuaire. Le Cimetière est sous le contrôle des gangs. C'est un drôle d'endroit, alors fais attention.}
-{135}{}{Quand est prévu le départ de la caravane ?}
-{136}{}{J'aimerais visiter un peu le coin avant de partir. A tout à l'heure.}
-{137}{}{Ok. Tu as réussi. Voici tes }
+{134}{}{Cette partie du CimetiÃ¨re s'appelle le Sanctuaire. Le CimetiÃ¨re est sous le contrÃ´le des gangs. C'est un drÃ´le d'endroit, alors fais attention.}
+{135}{}{Quand est prÃ©vu le dÃ©part de la caravane ?}
+{136}{}{J'aimerais visiter un peu le coin avant de partir. A tout Ã  l'heure.}
+{137}{}{Ok. Tu as rÃ©ussi. Voici tes }
 {138}{}{ caps. Si tu veux encore du travail, va en reparler au chef. J'aimerais bien retravailler avec toi. Je te recommanderai. Ne t'en fais pas.}
 {139}{}{Au revoir.}
 {140}{}{A plus tard.}
-{141}{}{Alors, comment ça va ?}
+{141}{}{Alors, comment Ã§a va ?}
 {142}{}{Si tu veux encore du travail, adresse-toi au chef.}
 {143}{}{Il y a quelque chose que ne va pas chez toi.}
-{144}{}{T'es taré !}
+{144}{}{T'es tarÃ© !}
 {145}{}{Je ne travaille pas avec toi !}
 {146}{}{200}
 {147}{}{400}
 {148}{}{600}
-{149}{}{Que peux-tu me dire sur Nécropolis ?}
+{149}{}{Que peux-tu me dire sur NÃ©cropolis ?}
 {150}{}{Foutu endroit de merde !}
 {151}{}{La caravane est partie.}
 {200}{}{Hmmmpf...}
 {201}{}{Hmm... Si seulement je savais lire.}
-{300}{}{Occupe-toi de tes affaires, s'il te plaît !}
-{400}{}{Je suis pas payé pour parler.}
-{501}{}{Dis-moi seulement, pourquoi as tu abandonné cette putain de caravane ? J'ai du mal à le croire ! Tu as de la chance, elles ont finit le voyage sans ton maudit cul terreux ! Fiche le camp ! Et ne crois pas que je vais te payer !}
-{502}{}{Je ne peux pas le croire ! Nous avons perdu toutes les caravanes ! Je crois pas que tu seras payé. Va parler au chef.}
-{504}{}{Va voir le chef et essaie d'imaginer une histoire crédible sur les raisons d'abandon de cette maudite caravane. Peut-être que tu auras ta récompense.}
-{505}{}{Je ne peux pas le croire ! Nous avons perdu toutes les caravanes ! Je crois pas que tu seras payé. Va parler au chef.}
+{300}{}{Occupe-toi de tes affaires, s'il te plaÃ®t !}
+{400}{}{Je suis pas payÃ© pour parler.}
+{501}{}{Dis-moi seulement, pourquoi as tu abandonnÃ© cette putain de caravane ? J'ai du mal Ã  le croire ! Tu as de la chance, elles ont finit le voyage sans ton maudit cul terreux ! Fiche le camp ! Et ne crois pas que je vais te payer !}
+{502}{}{Je ne peux pas le croire ! Nous avons perdu toutes les caravanes ! Je crois pas que tu seras payÃ©. Va parler au chef.}
+{504}{}{Va voir le chef et essaie d'imaginer une histoire crÃ©dible sur les raisons d'abandon de cette maudite caravane. Peut-Ãªtre que tu auras ta rÃ©compense.}
+{505}{}{Je ne peux pas le croire ! Nous avons perdu toutes les caravanes ! Je crois pas que tu seras payÃ©. Va parler au chef.}
 {506}{}{Du travail pour moi ?}
 {507}{}{Je... suis... travail.}
-{508}{}{On a besoin de tes biceps pour décharger la caravane. On te paiera : }
+{508}{}{On a besoin de tes biceps pour dÃ©charger la caravane. On te paiera : }
 {509}{}{ caps.}
 {510}{}{Ben.}
 {511}{}{Non.}
 {512}{}{Ca me va.}
-{513}{}{J'aime pas ça.}
-{520}{}{Tu passe une heure à décharger la caravane.}
-{521}{}{Tu aide à décharger la caravane. }
+{513}{}{J'aime pas Ã§a.}
+{520}{}{Tu passe une heure Ã  dÃ©charger la caravane.}
+{521}{}{Tu aide Ã  dÃ©charger la caravane. }
 {522}{}{ caps.}
-{600}{}{Bon alors, nous y voila. Je ne peux pas te payer le prix habituel, étant donné qu'on a perdu pas mal du chargement d'origine. On doit couvrir nos pertes, tu vois. Voilà ton paiement de : }
-{601}{}{ caps. [Il tire un très vieux sac de sa poche et te donne l'argent.] Et voilà aussi }
+{600}{}{Bon alors, nous y voila. Je ne peux pas te payer le prix habituel, Ã©tant donnÃ© qu'on a perdu pas mal du chargement d'origine. On doit couvrir nos pertes, tu vois. VoilÃ  ton paiement de : }
+{601}{}{ caps. [Il tire un trÃ¨s vieux sac de sa poche et te donne l'argent.] Et voilÃ  aussi }
 {602}{}{Si tu veux plus de travail, va voir le chef. Il est d'accord pour travailler avec toi une nouvelle fois. A la prochaine.}
-{603}{}{ caps. [Il tire un très vieux sac de sa poche et te donne l'argent.] }
-{604}{}{D'accord, t'as gagné ! Je peux pas te payer étant donné qu'on a perdu la caravane. On va devoir compenser les pertes. J'aimerais que ce soit différent mais ce sont les règles.}
-{605}{}{D'accord, t'as gagné ! Je peux pas te payer étant donné que toutes les brahmines sont mortes. Tu nous as coûté un paquet de fric, l'andouille. Pas de brahmine, pas de caravane, pas d'argent. J'espère qu'ils ne te laisseront plus travailler avec nous.}
+{603}{}{ caps. [Il tire un trÃ¨s vieux sac de sa poche et te donne l'argent.] }
+{604}{}{D'accord, t'as gagnÃ© ! Je peux pas te payer Ã©tant donnÃ© qu'on a perdu la caravane. On va devoir compenser les pertes. J'aimerais que ce soit diffÃ©rent mais ce sont les rÃ¨gles.}
+{605}{}{D'accord, t'as gagnÃ© ! Je peux pas te payer Ã©tant donnÃ© que toutes les brahmines sont mortes. Tu nous as coÃ»tÃ© un paquet de fric, l'andouille. Pas de brahmine, pas de caravane, pas d'argent. J'espÃ¨re qu'ils ne te laisseront plus travailler avec nous.}

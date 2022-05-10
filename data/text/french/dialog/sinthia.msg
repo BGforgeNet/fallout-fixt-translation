@@ -1,78 +1,78 @@
-{100}{}{Voici la séduisante Cynthia.}
+{100}{}{Voici la sÃ©duisante Cynthia.}
 {101}{}{Voici une femme bien faite qui boude.}
-{102}{}{Eh trésor, comment vas-tu ?}
+{102}{}{Eh trÃ©sor, comment vas-tu ?}
 {103}{}{Bien. Au revoir.}
-{104}{}{Ca va, mais ça pourrait aller mieux.}
+{104}{}{Ca va, mais Ã§a pourrait aller mieux.}
 {105}{}{Euh.}
-{106}{}{Oh, bébé, je comprends. Tu dois rentrer chez ta maman. Eh bien, reviens lorsque tu auras besoin d'un peu d'amour !}
-{107}{}{Ouais, trésor, toi aussi.}
-{108}{}{Tu trouveras tout ce que tu cherches, trésor, et tu te sentiras bien mieux, c'est sûr.}
-{109}{}{Je peux peut-être t'aider.}
-{110}{}{Peut-être. Combien tu prends ?}
-{111}{}{Je ne laisserais même pas mon chien te toucher.}
-{112}{}{Oh, bébé, si tu veux le savoir... c'est trop cher pour toi. Peut-être une autre fois, trésor. Salut.}
-{113}{}{Oh, trésor, c'est dégoûtant.}
-{114}{}{Oh, mon dieu, aide-moi, s'il te plaît.}
-{115}{}{Ne le laisse pas me tuer, s'il te plaît.}
+{106}{}{Oh, bÃ©bÃ©, je comprends. Tu dois rentrer chez ta maman. Eh bien, reviens lorsque tu auras besoin d'un peu d'amour !}
+{107}{}{Ouais, trÃ©sor, toi aussi.}
+{108}{}{Tu trouveras tout ce que tu cherches, trÃ©sor, et tu te sentiras bien mieux, c'est sÃ»r.}
+{109}{}{Je peux peut-Ãªtre t'aider.}
+{110}{}{Peut-Ãªtre. Combien tu prends ?}
+{111}{}{Je ne laisserais mÃªme pas mon chien te toucher.}
+{112}{}{Oh, bÃ©bÃ©, si tu veux le savoir... c'est trop cher pour toi. Peut-Ãªtre une autre fois, trÃ©sor. Salut.}
+{113}{}{Oh, trÃ©sor, c'est dÃ©goÃ»tant.}
+{114}{}{Oh, mon dieu, aide-moi, s'il te plaÃ®t.}
+{115}{}{Ne le laisse pas me tuer, s'il te plaÃ®t.}
 {116}{}{Je suis trop jeune pour mourir.}
 {117}{}{Oh, mon dieu, je suis trop jolie pour mourir.}
-{118}{}{Merci d'avoir fait ça. Personne ne s'était jamais occupé de moi comme ça.}
+{118}{}{Merci d'avoir fait Ã§a. Personne ne s'Ã©tait jamais occupÃ© de moi comme Ã§a.}
 {119}{}{Je m'occuperai de toi, mais plus tard.}
 {120}{}{De rien.}
 {121}{}{Hein...}
 {122}{}{Merci encore.}
-{123}{}{Tu ne penses qu'à ça, alors ? Ah, les gens, je vous jure !}
-{124}{}{Je veux dire, mon chef n'a même pas envoyé un seul de ses gorilles pour m'aider. Quand j'y pense, avec tout l'argent que je donne à ce minable, il pourrait au moins respecter sa part du marché.}
+{123}{}{Tu ne penses qu'Ã  Ã§a, alors ? Ah, les gens, je vous jure !}
+{124}{}{Je veux dire, mon chef n'a mÃªme pas envoyÃ© un seul de ses gorilles pour m'aider. Quand j'y pense, avec tout l'argent que je donne Ã  ce minable, il pourrait au moins respecter sa part du marchÃ©.}
 {125}{}{Qui est ton chef ?}
-{126}{}{Quel marché ?}
-{127}{}{Gizmo, évidemment. Il est responsable de tous les maux de cette ville. Killian ne nous supporterait pas, moi et mes semblables, c'est sûr. Si je ne faisais pas gagner tout cet argent à Giz, je devrais faire autre chose pour lui.}
-{128}{}{Eh, trésor, toutes ces pensées me donnent la nausée.}
-{129}{}{Que contrôle encore Gizmo ?}
-{130}{}{Tu devrais laisser tomber tout ça et mener ta vie comme tu l'entends.}
-{131}{}{C'est facile à dire. Mais que puis-je faire d'autre ? Ma vie semble déjà toute tracée par quelqu'un d'autre. Oh, enfin. Une fille doit gagner sa vie.}
-{132}{}{Mais, trésor, c'est gratuit.}
+{126}{}{Quel marchÃ© ?}
+{127}{}{Gizmo, Ã©videmment. Il est responsable de tous les maux de cette ville. Killian ne nous supporterait pas, moi et mes semblables, c'est sÃ»r. Si je ne faisais pas gagner tout cet argent Ã  Giz, je devrais faire autre chose pour lui.}
+{128}{}{Eh, trÃ©sor, toutes ces pensÃ©es me donnent la nausÃ©e.}
+{129}{}{Que contrÃ´le encore Gizmo ?}
+{130}{}{Tu devrais laisser tomber tout Ã§a et mener ta vie comme tu l'entends.}
+{131}{}{C'est facile Ã  dire. Mais que puis-je faire d'autre ? Ma vie semble dÃ©jÃ  toute tracÃ©e par quelqu'un d'autre. Oh, enfin. Une fille doit gagner sa vie.}
+{132}{}{Mais, trÃ©sor, c'est gratuit.}
 {133}{}{Merci encore. Nous, les femmes, devons nous entraider.}
-{134}{}{Il est responsable d'à peu près tous les maux de cette ville. Il dirige le Casino. Il a la mainmise sur moi et les autres filles. Et j'ai entendu dire qu'il voulait prendre la direction du bar.}
-{135}{}{Ne t'approche pas de lui, d'accord ? Crois-moi, il n'est pas le genre de patron qu'il prétend être. Evite-le.}
+{134}{}{Il est responsable d'Ã  peu prÃ¨s tous les maux de cette ville. Il dirige le Casino. Il a la mainmise sur moi et les autres filles. Et j'ai entendu dire qu'il voulait prendre la direction du bar.}
+{135}{}{Ne t'approche pas de lui, d'accord ? Crois-moi, il n'est pas le genre de patron qu'il prÃ©tend Ãªtre. Evite-le.}
 {136}{}{Giz veut prendre soin de Killian, si tu vois ce que je veux dire.}
-{137}{}{Mais, trésor, je prends soin des hommes et en retour ils prennent soin de moi. Gizmo me prend 25%, ce qui est censé assurer ma protection. Et tu vois ce que ça donne, hein ?}
-{138}{}{Que contrôle encore Gizmo ?}
-{139}{}{Tu as envie de rendre une autre visite à Cynthia.}
-{140}{}{Peut-être que Cynthia serait contente d'avoir de la compagnie...}
-{141}{}{Salaud ! Tu l'as tué ! Pourquoi l'as-tu tué ? Espèce de connard ! J'arrive pas à croire que tu l'aies tué. Il voulait juste parler à quelqu'un. Mais tu te fiches pas mal de la vie humaine, n'est-ce pas ?}
-{142}{}{Salope ! Tu l'as tué ! Pourquoi l'as-tu tué ? Espèce de putain ! J'arrive pas à croire que tu l'aies tué. Il voulait juste parler à quelqu'un. Mais tu te fiches pas mal de la vie humaine, n'est-ce pas ?}
+{137}{}{Mais, trÃ©sor, je prends soin des hommes et en retour ils prennent soin de moi. Gizmo me prend 25%, ce qui est censÃ© assurer ma protection. Et tu vois ce que Ã§a donne, hein ?}
+{138}{}{Que contrÃ´le encore Gizmo ?}
+{139}{}{Tu as envie de rendre une autre visite Ã  Cynthia.}
+{140}{}{Peut-Ãªtre que Cynthia serait contente d'avoir de la compagnie...}
+{141}{}{Salaud ! Tu l'as tuÃ© ! Pourquoi l'as-tu tuÃ© ? EspÃ¨ce de connard ! J'arrive pas Ã  croire que tu l'aies tuÃ©. Il voulait juste parler Ã  quelqu'un. Mais tu te fiches pas mal de la vie humaine, n'est-ce pas ?}
+{142}{}{Salope ! Tu l'as tuÃ© ! Pourquoi l'as-tu tuÃ© ? EspÃ¨ce de putain ! J'arrive pas Ã  croire que tu l'aies tuÃ©. Il voulait juste parler Ã  quelqu'un. Mais tu te fiches pas mal de la vie humaine, n'est-ce pas ?}
 {143}{}{Sors de ma chambre !}
-{144}{}{Tu l'as tué ! J'arrive pas à croire que tu l'aies tué. Il voulait juste parler à...}
-{145}{}{Il n'est pas mort. Il aura juste un peu mal à la tête quand il se réveillera.}
+{144}{}{Tu l'as tuÃ© ! J'arrive pas Ã  croire que tu l'aies tuÃ©. Il voulait juste parler Ã ...}
+{145}{}{Il n'est pas mort. Il aura juste un peu mal Ã  la tÃªte quand il se rÃ©veillera.}
 {146}{}{Hnnn.}
 {147}{}{Ouais, peu importe. Sors de ma chambre !}
-{148}{}{Oh, pardon. Je croyais qu'il était mort. Je croyais que tu l'avais tué. Il n'est pas si mauvais, au fond. Juste un peu seul.}
-{149}{}{Aucun problème.}
+{148}{}{Oh, pardon. Je croyais qu'il Ã©tait mort. Je croyais que tu l'avais tuÃ©. Il n'est pas si mauvais, au fond. Juste un peu seul.}
+{149}{}{Aucun problÃ¨me.}
 {150}{}{Encore toi. Que puis-je pour toi cette fois ?}
 {151}{}{Je voulais juste savoir comment tu allais.}
-{152}{}{J'ai 40 caps, si tu as dix minutes à m'accorder.}
+{152}{}{J'ai 40 caps, si tu as dix minutes Ã  m'accorder.}
 {153}{}{J'ai besoin de renseignements sur ton chef.}
-{154}{}{Ah, trésor, je ne crois pas. Imagine comment tourneraient les enfants.}
-{155}{}{Je vais bien, merci trésor.}
-{156}{}{Que veux-tu savoir ? Mais dépêche-toi, trésor, parce que je n'ai pas beaucoup de temps.}
+{154}{}{Ah, trÃ©sor, je ne crois pas. Imagine comment tourneraient les enfants.}
+{155}{}{Je vais bien, merci trÃ©sor.}
+{156}{}{Que veux-tu savoir ? Mais dÃ©pÃªche-toi, trÃ©sor, parce que je n'ai pas beaucoup de temps.}
 {157}{}{Combien de gardes a-t-il ?}
-{158}{}{Où cache-t-il l'argent ?}
+{158}{}{OÃ¹ cache-t-il l'argent ?}
 {159}{}{A-t-il des points faibles ?}
-{160}{}{Merci, poupée, mais je n'ai besoin d'aucun autre renseignement.}
+{160}{}{Merci, poupÃ©e, mais je n'ai besoin d'aucun autre renseignement.}
 {161}{}{Hmm. Personnellement, j'en connais huit, si tu vois ce que je veux dire. Je crois qu'il en a encore une dizaine d'autres.}
-{162}{}{L'argent ? Comment le saurais-je ? Il me prend mon argent, mais il ne me montre pas le sien. Je dirais qu'il le cache dans sa chambre, mais d'après ce que je sais, il le garde peut-être là où le soleil ne brille pas. Et pour Giz, c'est un endroit immense.}
-{163}{}{Il en veut toujours plus. Et ce n'est qu'un gros lard qui ne peut même pas se déplacer seul. Il a toujours besoin de l'aide de ses gardes. Et même comme ça, ils doivent utiliser un petit tricycle. Hé hé.}
-{164}{}{Trésor, tu as un rendez-vous.}
-{165}{}{Bien sûr, trésor, avec toi.}
+{162}{}{L'argent ? Comment le saurais-je ? Il me prend mon argent, mais il ne me montre pas le sien. Je dirais qu'il le cache dans sa chambre, mais d'aprÃ¨s ce que je sais, il le garde peut-Ãªtre lÃ  oÃ¹ le soleil ne brille pas. Et pour Giz, c'est un endroit immense.}
+{163}{}{Il en veut toujours plus. Et ce n'est qu'un gros lard qui ne peut mÃªme pas se dÃ©placer seul. Il a toujours besoin de l'aide de ses gardes. Et mÃªme comme Ã§a, ils doivent utiliser un petit tricycle. HÃ© hÃ©.}
+{164}{}{TrÃ©sor, tu as un rendez-vous.}
+{165}{}{Bien sÃ»r, trÃ©sor, avec toi.}
 {166}{}{Je vais te faire passer du bon temps.}
-{167}{}{Trésor, il te faut plus d'argent. Je t'aime bien, mais une fille doit gagner sa vie.}
-{168}{}{Je me réserve le droit de refuser quelqu'un, et toi, trésor, tu ne t'approcheras pas de moi !}
+{167}{}{TrÃ©sor, il te faut plus d'argent. Je t'aime bien, mais une fille doit gagner sa vie.}
+{168}{}{Je me rÃ©serve le droit de refuser quelqu'un, et toi, trÃ©sor, tu ne t'approcheras pas de moi !}
 {169}{}{Cynthia est endormie.}
-{170}{}{Cynthia est occupée.}
+{170}{}{Cynthia est occupÃ©e.}
 {171}{}{Cynthia refuse de te parler.}
-{172}{}{Excuse-moi, trésor, je n'accepte pas les monstres.}
+{172}{}{Excuse-moi, trÃ©sor, je n'accepte pas les monstres.}
 {173}{}{Remballe ton argent et va t'en !}
-{174}{}{Oh, mon dieu, à l'aide !}
+{174}{}{Oh, mon dieu, Ã  l'aide !}
 {175}{}{Tu gagnes }
-{176}{}{ points d'expérience pour avoir réussi à sauver Cynthia.}
+{176}{}{ points d'expÃ©rience pour avoir rÃ©ussi Ã  sauver Cynthia.}
 {177}{}{Les gardes emportent le pillard pendant qu'il est inconscient.}

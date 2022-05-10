@@ -1,26 +1,26 @@
-{100}{}{Estás viendo a Terry.}
-{101}{}{La ración de agua se da por la noche... Oye, ¡tú no eres un necrófago!}
-{102}{}{Eso no importa ahora. Lo que importa es dónde se encuentra el jefe.}
+{100}{}{EstÃ¡s viendo a Terry.}
+{101}{}{La raciÃ³n de agua se da por la noche... Oye, Â¡tÃº no eres un necrÃ³fago!}
+{102}{}{Eso no importa ahora. Lo que importa es dÃ³nde se encuentra el jefe.}
 {103}{}{No, no lo soy.}
 {104}{}{Nah.}
-{105}{}{Te llevaré ante él. Ven, deja que te eche una mano.}
-{106}{}{Será mejor que te lleve a Harry, él sabrá qué hacer contigo.}
-{107}{}{¡Oye, basta de charla! Perturbas mi concentración.}
-{108}{}{¿Qué hora de la noche es?}
+{105}{}{Te llevarÃ© ante Ã©l. Ven, deja que te eche una mano.}
+{106}{}{SerÃ¡ mejor que te lleve a Harry, Ã©l sabrÃ¡ quÃ© hacer contigo.}
+{107}{}{Â¡Oye, basta de charla! Perturbas mi concentraciÃ³n.}
+{108}{}{Â¿QuÃ© hora de la noche es?}
 {109}{}{El mutante te ignora.}
 {1000}{}{Chip}
-{1001}{}{Necrópolis}
+{1001}{}{NecrÃ³polis}
 {1002}{}{Set}
-{1003}{}{Almacén de Agua}
+{1003}{}{AlmacÃ©n de Agua}
 {1004}{}{Sala}
 {1005}{}{Teni}
-{1006}{}{Necrófagos}
+{1006}{}{NecrÃ³fagos}
 {1007}{}{Normales}
 {1100}{}{No tengo ni idea.}
-{1101}{}{T´a pisándola.}
-{1102}{}{Es un impresentable. Nos mantenemos alejados de él y de sus necrófagos.}
-{1103}{}{Es aquí.}
+{1101}{}{TÂ´a pisÃ¡ndola.}
+{1102}{}{Es un impresentable. Nos mantenemos alejados de Ã©l y de sus necrÃ³fagos.}
+{1103}{}{Es aquÃ­.}
 {1104}{}{No tengo ni idea.}
 {1105}{}{Es el jefe de Harry.}
 {1106}{}{Debiluchos.}
-{1107}{}{Más débiles que los necrófagos.}
+{1107}{}{MÃ¡s dÃ©biles que los necrÃ³fagos.}

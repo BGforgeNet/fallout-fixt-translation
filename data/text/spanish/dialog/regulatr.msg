@@ -1,42 +1,42 @@
 {100}{}{Ves a un Regulador, uno de los guardias de Adytum.}
 {101}{}{}
-{102}{}{Ten tus armas bajo control mientras estés aquí.}
-{103}{}{Bienvenido a Adytum, extranjero. Contrólate porque te vigilaremos.}
-{104}{}{Me gustaría entrar.}
-{105}{}{¿Puedo hacerte algunas preguntas?}
+{102}{}{Ten tus armas bajo control mientras estÃ©s aquÃ­.}
+{103}{}{Bienvenido a Adytum, extranjero. ContrÃ³late porque te vigilaremos.}
+{104}{}{Me gustarÃ­a entrar.}
+{105}{}{Â¿Puedo hacerte algunas preguntas?}
 {106}{}{Uhhh...}
-{107}{}{Puede que Zimmerman te necesite. Entra, pero recuerda, estamos vigilándote.}
-{108}{}{¡Bienvenido de nuevo! Eres bienvenido siempre que quieras.}
-{109}{}{¿No tienes nada que hacer? Regresa cuando lo hayas terminado.}
-{110}{}{¡Vete!}
-{111}{}{¿Qué quieres ahora?}
-{112}{}{Me gustaría entrar.}
+{107}{}{Puede que Zimmerman te necesite. Entra, pero recuerda, estamos vigilÃ¡ndote.}
+{108}{}{Â¡Bienvenido de nuevo! Eres bienvenido siempre que quieras.}
+{109}{}{Â¿No tienes nada que hacer? Regresa cuando lo hayas terminado.}
+{110}{}{Â¡Vete!}
+{111}{}{Â¿QuÃ© quieres ahora?}
+{112}{}{Me gustarÃ­a entrar.}
 {113}{}{}
 {114}{}{Nada. Da igual.}
 {115}{}{}
 {116}{}{No.}
-{117}{}{¿Sobre qué quieres saber cosas?}
-{118}{}{¿Qué haces aquí?}
-{119}{}{¿Puedes hablarme más del Cementerio de LA?}
-{120}{}{¿Cómo puedo entrar?}
-{121}{}{¿Qué sabes de los Niños de la Catedral y de los Seguidores del Apocalipsis?}
+{117}{}{Â¿Sobre quÃ© quieres saber cosas?}
+{118}{}{Â¿QuÃ© haces aquÃ­?}
+{119}{}{Â¿Puedes hablarme mÃ¡s del Cementerio de LA?}
+{120}{}{Â¿CÃ³mo puedo entrar?}
+{121}{}{Â¿QuÃ© sabes de los NiÃ±os de la Catedral y de los Seguidores del Apocalipsis?}
 {122}{}{Nada, gracias.}
-{123}{}{Soy uno de los Reguladores. Nuestra obligación es mantener la paz en Adytum, y proteger la ciudad. Nuestro jefe, Caleb, podría contarte más.}
-{124}{}{Al este de nosotros están los Seguidores. Son un puñado de chiflados que predican por la paz. Al norte están los Navajas, un puñado de yonquis, si me permites la expresión. Al sur de aquí está la Catedral, donde los Niños tienen su centro religioso.}
-{125}{}{Lo siento, pero aquí tenemos que tener cuidado con los extraños. Es demasiado peligroso. Quizá puedas hacer algún trabajo para Zimmerman.}
+{123}{}{Soy uno de los Reguladores. Nuestra obligaciÃ³n es mantener la paz en Adytum, y proteger la ciudad. Nuestro jefe, Caleb, podrÃ­a contarte mÃ¡s.}
+{124}{}{Al este de nosotros estÃ¡n los Seguidores. Son un puÃ±ado de chiflados que predican por la paz. Al norte estÃ¡n los Navajas, un puÃ±ado de yonquis, si me permites la expresiÃ³n. Al sur de aquÃ­ estÃ¡ la Catedral, donde los NiÃ±os tienen su centro religioso.}
+{125}{}{Lo siento, pero aquÃ­ tenemos que tener cuidado con los extraÃ±os. Es demasiado peligroso. QuizÃ¡ puedas hacer algÃºn trabajo para Zimmerman.}
 {126}{}{Termina tu trabajo.}
-{127}{}{¡Por supuesto, eres bienvenido siempre que quieras!}
-{128}{}{Ambos grupos están colgados. Los Seguidores quieren que todos vivamos felices y en paz. No se dan cuenta de que el mundo es demasiado cruel para eso.}
-{129}{}{Los Niños tienen una especie de dios al que adoran en su Catedral del sur. Tienen un hospital, pero son demasiado raros para ser de fiar.}
-{130}{}{¡Te advertimos que vigilaras tus armas!}
-{131}{}{Será mejor que mantengas tus armas apartadas mientras estés aquí.}
-{132}{}{Un ladrón, ¿eh? ¡Deja que te enseñe lo que hacemos aquí a los de tu calaña!}
+{127}{}{Â¡Por supuesto, eres bienvenido siempre que quieras!}
+{128}{}{Ambos grupos estÃ¡n colgados. Los Seguidores quieren que todos vivamos felices y en paz. No se dan cuenta de que el mundo es demasiado cruel para eso.}
+{129}{}{Los NiÃ±os tienen una especie de dios al que adoran en su Catedral del sur. Tienen un hospital, pero son demasiado raros para ser de fiar.}
+{130}{}{Â¡Te advertimos que vigilaras tus armas!}
+{131}{}{SerÃ¡ mejor que mantengas tus armas apartadas mientras estÃ©s aquÃ­.}
+{132}{}{Un ladrÃ³n, Â¿eh? Â¡Deja que te enseÃ±e lo que hacemos aquÃ­ a los de tu calaÃ±a!}
 {133}{}{[Hecho]}
-{134}{}{Cuídate.}
+{134}{}{CuÃ­date.}
 {135}{}{Te estamos vigilando.}
 {136}{}{Mantente a raya.}
-{137}{}{¿Qué miras?}
-{138}{}{¿Qué quieres?}
+{137}{}{Â¿QuÃ© miras?}
+{138}{}{Â¿QuÃ© quieres?}
 {139}{}{Supongo que esto significa que hemos acabado contigo, viejo.}
 {1000}{}{Adytum}
 {1001}{}{Seguidores}
@@ -46,24 +46,24 @@
 {1006}{}{Eje}
 {1007}{}{Ciudad Vertedero}
 {1008}{}{Chip}
-{1009}{}{Almacén}
+{1009}{}{AlmacÃ©n}
 {1010}{}{Zimmerman}
-{1011}{}{Necrópolis}
+{1011}{}{NecrÃ³polis}
 {1012}{}{Ardor}
 {1013}{}{Reguladores}
-{1014}{}{Carroñeros}
+{1014}{}{CarroÃ±eros}
 {1015}{}{Cementerio}
-{1100}{}{Es aquí.}
-{1101}{}{Viven al este de aquí.}
-{1102}{}{Está al sur de aquí.}
-{1104}{}{Están al norte de aquí.}
-{1105}{}{Están al este de los Navajas y al norte de las Garras Mortales.}
+{1100}{}{Es aquÃ­.}
+{1101}{}{Viven al este de aquÃ­.}
+{1102}{}{EstÃ¡ al sur de aquÃ­.}
+{1104}{}{EstÃ¡n al norte de aquÃ­.}
+{1105}{}{EstÃ¡n al este de los Navajas y al norte de las Garras Mortales.}
 {1106}{}{Comerciamos con ellos.}
-{1107}{}{¿No es una ciudad que está al norte de aquí?}
-{1108}{}{¿Un qué?}
-{1109}{}{El establecimiento de Tine está subterráneo, cerca de la puerta.}
+{1107}{}{Â¿No es una ciudad que estÃ¡ al norte de aquÃ­?}
+{1108}{}{Â¿Un quÃ©?}
+{1109}{}{El establecimiento de Tine estÃ¡ subterrÃ¡neo, cerca de la puerta.}
 {1110}{}{Es el alcalde.}
-{1111}{}{Me han dicho que está hacia el este.}
+{1111}{}{Me han dicho que estÃ¡ hacia el este.}
 {1112}{}{Eso es un mito.}
 {1113}{}{Protegemos Adytum.}
 {1114}{}{Van al exterior a por provisiones.}

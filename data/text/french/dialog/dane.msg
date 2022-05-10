@@ -1,124 +1,124 @@
 {100}{}{Voici un homme grand, fort et robuste.}
 {101}{}{On ne vient pas de se rencontrer ? Tu vient me tuer ?}
-{102}{}{Je sais que les pères ne sont pas censés embrasser leurs fils, mais je t'aime, papa !}
-{103}{}{Maître, était-ce ce que j'étais censé devenir, Maître ?}
+{102}{}{Je sais que les pÃ¨res ne sont pas censÃ©s embrasser leurs fils, mais je t'aime, papa !}
+{103}{}{MaÃ®tre, Ã©tait-ce ce que j'Ã©tais censÃ© devenir, MaÃ®tre ?}
 {104}{}{Il n'y a rien de tel qu'un Dane.}
-{105}{}{Quelle est ta couleur préférée ? Moi, c'est le lait !}
-{106}{}{Tu n'es qu'un idiot, Dane. Ils ne vont pas tarder à te tuer et tu l'auras bien mérité ! Tu n'es qu'une mauviette ! Une mauviette !}
-{107}{}{Mère, pensais-tu qu'une bombe ils allaient larguer ?}
-{108}{}{Ils l'ont fait d'une manière si élégante et distinguée !}
+{105}{}{Quelle est ta couleur prÃ©fÃ©rÃ©e ? Moi, c'est le lait !}
+{106}{}{Tu n'es qu'un idiot, Dane. Ils ne vont pas tarder Ã  te tuer et tu l'auras bien mÃ©ritÃ© ! Tu n'es qu'une mauviette ! Une mauviette !}
+{107}{}{MÃ¨re, pensais-tu qu'une bombe ils allaient larguer ?}
+{108}{}{Ils l'ont fait d'une maniÃ¨re si Ã©lÃ©gante et distinguÃ©e !}
 {109}{}{Je m'appelle Dane, pas Tom !}
-{110}{}{Ta poésie, c'est de la merde, mec ! De la merde ! De la merde ! De la merde !}
+{110}{}{Ta poÃ©sie, c'est de la merde, mec ! De la merde ! De la merde ! De la merde !}
 {111}{}{J'aime bien M. Handy ! J'aimerais faire l'amour avec ses jolies petites mains...}
-{112}{}{Je perds la tête. Je perds complètement la tête. Oh mon Dieu, je deviens dingue ! Pense à la paix ! Pense à l'unité !}
+{112}{}{Je perds la tÃªte. Je perds complÃ¨tement la tÃªte. Oh mon Dieu, je deviens dingue ! Pense Ã  la paix ! Pense Ã  l'unitÃ© !}
 {113}{}{Je veux un cheval ! Il me faut un cheval ! Qu'on m'apporte un cheval, bon sang ! Un cheval !}
-{114}{}{Ils nous voient tous de la même façon maintenant ! M. le Ténébreux ! Felix et Timothy ! Les chats ! Les chiens ! Les Ténébreux !}
+{114}{}{Ils nous voient tous de la mÃªme faÃ§on maintenant ! M. le TÃ©nÃ©breux ! Felix et Timothy ! Les chats ! Les chiens ! Les TÃ©nÃ©breux !}
 {115}{}{Tais-toi ! Ils vont te prendre pour un pauv' type qui a perdu la boule ! Il faut que tu te reprennes !}
 {116}{}{Lasher ! Tu dois tuer Lasher ! Sauve le gamin ! Pauvre Enfant des Fleurs. Pauvre de moi.}
-{117}{}{La ferme, espèce de connard ! Reprends-toi !}
-{118}{}{[En chantant faux] Autrefois j'étais perdu, mais à présent je vois ! Plus question de baptême pour moi maintenant !}
-{119}{}{Tu sais, un jour, j'ai surpris Morpheus menacer un Ténébreux du poing. Ou peut-être l'ai-je senti ?}
-{120}{}{Vous êtes tous fous de pleurer sur moi. Ne pleurez jamais sur du lait renversé... ni sur des vivres gâchées.}
-{121}{}{Est-ce que quelqu'un sait réparer un grille-pain ?}
-{122}{}{Bien sûr qu'ils le savent, imbécile ! C'est ta tête qu'ils ne peuvent pas réparer, connard !}
-{123}{}{Ce sont les canons, connard ! La poudre de canon est intelligente et le mal contrôle ton esprit ! Plus il y a de poudre autour de toi et plus tu deviens dingue ! BOUM ! BOUM ! BOUM !}
+{117}{}{La ferme, espÃ¨ce de connard ! Reprends-toi !}
+{118}{}{[En chantant faux] Autrefois j'Ã©tais perdu, mais Ã  prÃ©sent je vois ! Plus question de baptÃªme pour moi maintenant !}
+{119}{}{Tu sais, un jour, j'ai surpris Morpheus menacer un TÃ©nÃ©breux du poing. Ou peut-Ãªtre l'ai-je senti ?}
+{120}{}{Vous Ãªtes tous fous de pleurer sur moi. Ne pleurez jamais sur du lait renversÃ©... ni sur des vivres gÃ¢chÃ©es.}
+{121}{}{Est-ce que quelqu'un sait rÃ©parer un grille-pain ?}
+{122}{}{Bien sÃ»r qu'ils le savent, imbÃ©cile ! C'est ta tÃªte qu'ils ne peuvent pas rÃ©parer, connard !}
+{123}{}{Ce sont les canons, connard ! La poudre de canon est intelligente et le mal contrÃ´le ton esprit ! Plus il y a de poudre autour de toi et plus tu deviens dingue ! BOUM ! BOUM ! BOUM !}
 {124}{}{Je veux juste mettre le feu au moooonde !!}
-{125}{}{Tu veux faire la fête ? Je me débrouillais bien avant... avant que les Ténébreux me battent. J'en ai eu deux pourtant. Les Ténébreux sont très forts !}
-{126}{}{Ce sont des mutants, imbécile ! Evidemment qu'ils sont forts !}
-{127}{}{Comme les pingouins. Et les gyro-bisons. Ils tirent avec des gros canons à bisons. Attention à ces femmes-bisons. Elles t'envoient un bison en pleine face sans que tu saches d'où ça vient ! Ah !}
-{128}{}{On se connaît ? Est-ce que ton cerveau te fait mal à toi aussi ?}
-{129}{}{Bien sûr que tu le connais, Dane, idiot ! C'est notre ennemi ! Il doit être éliminé !}
-{130}{}{Ne fais pas attention à lui, c'est un connard. Je t'aime. Et toi, tu m'aimes ?}
-{131}{}{Je vivais à Penticton, en Colombie Britannique. Ou alors, je l'ai vu sur une carte des jours anciens. Ah, les jours anciens... J'aimerais encore y être...}
+{125}{}{Tu veux faire la fÃªte ? Je me dÃ©brouillais bien avant... avant que les TÃ©nÃ©breux me battent. J'en ai eu deux pourtant. Les TÃ©nÃ©breux sont trÃ¨s forts !}
+{126}{}{Ce sont des mutants, imbÃ©cile ! Evidemment qu'ils sont forts !}
+{127}{}{Comme les pingouins. Et les gyro-bisons. Ils tirent avec des gros canons Ã  bisons. Attention Ã  ces femmes-bisons. Elles t'envoient un bison en pleine face sans que tu saches d'oÃ¹ Ã§a vient ! Ah !}
+{128}{}{On se connaÃ®t ? Est-ce que ton cerveau te fait mal Ã  toi aussi ?}
+{129}{}{Bien sÃ»r que tu le connais, Dane, idiot ! C'est notre ennemi ! Il doit Ãªtre Ã©liminÃ© !}
+{130}{}{Ne fais pas attention Ã  lui, c'est un connard. Je t'aime. Et toi, tu m'aimes ?}
+{131}{}{Je vivais Ã  Penticton, en Colombie Britannique. Ou alors, je l'ai vu sur une carte des jours anciens. Ah, les jours anciens... J'aimerais encore y Ãªtre...}
 {132}{}{Tu n'en as pas marre de parler avec moi ? N'est-ce pas terriblement ennuyeux ?}
-{133}{}{Tu n'en as pas marre de te parler à toi-même, espèce d'emmerdeur schizophrène ?}
-{134}{}{Je me déteste. Je voudrais mourir, mais tu comptes sur moi. Tu attends que je te dise quelque chose qui donne un sens à toutes mes foutaises ! Quelque chose d'important !}
+{133}{}{Tu n'en as pas marre de te parler Ã  toi-mÃªme, espÃ¨ce d'emmerdeur schizophrÃ¨ne ?}
+{134}{}{Je me dÃ©teste. Je voudrais mourir, mais tu comptes sur moi. Tu attends que je te dise quelque chose qui donne un sens Ã  toutes mes foutaises ! Quelque chose d'important !}
 {135}{}{Pourquoi ne serais-je pas important moi aussi pour une fois ?}
 {136}{}{MEUH ! MEUH ! MEUH ! MEUH !}
 {137}{}{MEUH ! MEUH ! MEUH ! MEUH !}
-{138}{}{J'en ai assez. En plus, je suis fichu. Ce n'est plus drôle. Tu n'as jamais eu l'impression d'être comme une corde qu'ils tirent sans scrupule pour te pendre ? Je suis au plus bas !}
+{138}{}{J'en ai assez. En plus, je suis fichu. Ce n'est plus drÃ´le. Tu n'as jamais eu l'impression d'Ãªtre comme une corde qu'ils tirent sans scrupule pour te pendre ? Je suis au plus bas !}
 {139}{}{MEUH ! MEUH ! MEUH ! MEUH !}
-{140}{}{Ca suffit avec les brahmines ! Tu vas commencer à sentir comme elles ! Et puis tout le monde va être écœuré !}
-{141}{}{J'avais perdu la tête, tu sais, et puis j'ai suivi le programme de servitude. J'étais dingue, mais maintenant, je suis en morceaux ! En morceaux ! En morceaux !}
-{142}{}{Je suis un vrai puzzle, connard ! Tu m'aideras à me recomposer ?}
-{143}{}{Je n'arrive pas à croire que tu acceptes de me parler...}
-{144}{}{C'est un jeu, tu vois. Un jeu dont je suis l'un des pions. Un enfant s'est énervé et a commencé à me piétiner. Il m'a piétiné, piétiné, piétiné, et finalement je me suis cassé !}
-{145}{}{Peut-être videront-ils mon cerveau ! Le vider pour me transformer en animal de compagnie ! Dane, viens ici ! Attrape la balle, Dane ! Allez cherche Dane ! Fais ci, Dane ! Fais ça, Dane ! Exécute-les, espèce de chien sans cervelle !}
-{146}{}{Pourquoi crois-tu qu'ils l'appellent Maître ?}
-{147}{}{La vie est nulle, mais la mort est bien pire encore, et on ne peut pas revenir en arrière pour empêcher notre naissance, alors quel intérêt ?}
-{148}{}{Je crois qu'ils ont tout compris, connard ! Ils savent que le programme de servitude te brise ! Ils savent que la 'machine à baptême' permet de...}
+{140}{}{Ca suffit avec les brahmines ! Tu vas commencer Ã  sentir comme elles ! Et puis tout le monde va Ãªtre Ã©cÅ“urÃ© !}
+{141}{}{J'avais perdu la tÃªte, tu sais, et puis j'ai suivi le programme de servitude. J'Ã©tais dingue, mais maintenant, je suis en morceaux ! En morceaux ! En morceaux !}
+{142}{}{Je suis un vrai puzzle, connard ! Tu m'aideras Ã  me recomposer ?}
+{143}{}{Je n'arrive pas Ã  croire que tu acceptes de me parler...}
+{144}{}{C'est un jeu, tu vois. Un jeu dont je suis l'un des pions. Un enfant s'est Ã©nervÃ© et a commencÃ© Ã  me piÃ©tiner. Il m'a piÃ©tinÃ©, piÃ©tinÃ©, piÃ©tinÃ©, et finalement je me suis cassÃ© !}
+{145}{}{Peut-Ãªtre videront-ils mon cerveau ! Le vider pour me transformer en animal de compagnie ! Dane, viens ici ! Attrape la balle, Dane ! Allez cherche Dane ! Fais ci, Dane ! Fais Ã§a, Dane ! ExÃ©cute-les, espÃ¨ce de chien sans cervelle !}
+{146}{}{Pourquoi crois-tu qu'ils l'appellent MaÃ®tre ?}
+{147}{}{La vie est nulle, mais la mort est bien pire encore, et on ne peut pas revenir en arriÃ¨re pour empÃªcher notre naissance, alors quel intÃ©rÃªt ?}
+{148}{}{Je crois qu'ils ont tout compris, connard ! Ils savent que le programme de servitude te brise ! Ils savent que la 'machine Ã  baptÃªme' permet de...}
 {149}{}{Je m'appelle Dane. Je suis un Viking. J'aime les canards. Je viole et je pille ! Veux-tu violer et piller avec moi ?}
-{150}{}{Oh mon Dieu ! Maître, pas Dieu ! Au moins, je me souviens de mon nom. Il me reste au moins ça. La majorité des autres ratés ne s'en souvenaient même pas avant de se faire tuer. Des corps plutôt repoussants d'ailleurs. Ce sont les méthodes de mise à feu des Ténébreux !}
-{151}{}{Et puis, il y avait ceux qui ont perdu la tête. Je voudrais qu'ils soient morts.}
-{152}{}{Je crois que j'appellerai mon enfant Fallout. J'ai eu un fils autrefois, mais les radiations l'ont miné dans le ventre de sa maman.}
-{153}{}{Connard ! Tu débloques ! Tu t'en foutais de cet enfant et de sa mère !}
-{154}{}{Les mutants ne peuvent pas procréer. Et nous allons tous devenir des mutants ! Tu ne comprends donc pas ? Le monde va devenir stérile ! Stérile ! Stérile ! Nous ne pourrons plus nous reproduire ! Nous allons tous mourir !}
-{155}{}{Arrêtez-le ! Arrêtez-le ! Arrêtez-le ! Que quelqu'un l'arrête !}
-{156}{}{Maître ! J'aurais dû me taire. J'ai entendu le Ténébreux pleurer et ça m'a fait de la peine.}
-{157}{}{Qu'est-ce que le mal ? Le mal apparaît lorsque le bien a perdu ! Le mal apparaît lorsque les gens courageux n'ont plus aucun courage ! Le mal est synonyme de souffrance ! Il doit bien y avoir une morale quelque part !}
+{150}{}{Oh mon Dieu ! MaÃ®tre, pas Dieu ! Au moins, je me souviens de mon nom. Il me reste au moins Ã§a. La majoritÃ© des autres ratÃ©s ne s'en souvenaient mÃªme pas avant de se faire tuer. Des corps plutÃ´t repoussants d'ailleurs. Ce sont les mÃ©thodes de mise Ã  feu des TÃ©nÃ©breux !}
+{151}{}{Et puis, il y avait ceux qui ont perdu la tÃªte. Je voudrais qu'ils soient morts.}
+{152}{}{Je crois que j'appellerai mon enfant Fallout. J'ai eu un fils autrefois, mais les radiations l'ont minÃ© dans le ventre de sa maman.}
+{153}{}{Connard ! Tu dÃ©bloques ! Tu t'en foutais de cet enfant et de sa mÃ¨re !}
+{154}{}{Les mutants ne peuvent pas procrÃ©er. Et nous allons tous devenir des mutants ! Tu ne comprends donc pas ? Le monde va devenir stÃ©rile ! StÃ©rile ! StÃ©rile ! Nous ne pourrons plus nous reproduire ! Nous allons tous mourir !}
+{155}{}{ArrÃªtez-le ! ArrÃªtez-le ! ArrÃªtez-le ! Que quelqu'un l'arrÃªte !}
+{156}{}{MaÃ®tre ! J'aurais dÃ» me taire. J'ai entendu le TÃ©nÃ©breux pleurer et Ã§a m'a fait de la peine.}
+{157}{}{Qu'est-ce que le mal ? Le mal apparaÃ®t lorsque le bien a perdu ! Le mal apparaÃ®t lorsque les gens courageux n'ont plus aucun courage ! Le mal est synonyme de souffrance ! Il doit bien y avoir une morale quelque part !}
 {158}{}{La ferme, connard ! Une morale ? En tout cas, pas ici !}
-{159}{}{Tu sais, je pensais autrefois que la religion était une cause juste, et c'est peut-être le cas. Mais si on y adhère aveuglément, ils prennent le contrôle de notre cerveau.}
+{159}{}{Tu sais, je pensais autrefois que la religion Ã©tait une cause juste, et c'est peut-Ãªtre le cas. Mais si on y adhÃ¨re aveuglÃ©ment, ils prennent le contrÃ´le de notre cerveau.}
 {160}{}{...les zombies sont une infamie aux yeux de Dieu, tu sais.}
-{161}{}{Mais pourquoi Dieu crée-t-il des gens si fragiles ?}
-{162}{}{Je crois que je peux enfin répondre à certaines questions. Pardon d'avoir mis si longtemps.}
+{161}{}{Mais pourquoi Dieu crÃ©e-t-il des gens si fragiles ?}
+{162}{}{Je crois que je peux enfin rÃ©pondre Ã  certaines questions. Pardon d'avoir mis si longtemps.}
 {163}{}{A quoi sert cet endroit ?}
-{164}{}{Parle-moi des Ténébreux.}
+{164}{}{Parle-moi des TÃ©nÃ©breux.}
 {165}{}{Que se passe-t-il ici ?}
 {166}{}{Que t'ont-ils fait ?}
-{167}{}{Qui est le Maître ?}
-{168}{}{Veux-tu mourir ? Je peux résoudre ton problème.}
+{167}{}{Qui est le MaÃ®tre ?}
+{168}{}{Veux-tu mourir ? Je peux rÃ©soudre ton problÃ¨me.}
 {169}{}{Tu as l'air stupide !}
-{170}{}{C'est le baptismal. Ils créent des Serviteurs ici. Une fois les acolytes endoctrinés, ils les emmènent ici et entament le programme. Seuls quelques-uns survivent...}
-{171}{}{La plupart perdent la tête, mais ils sont encore utiles. Ils les envoient en bas, ils leur parlent du Maître et ils tournent en rond pour les abrutir. Tu as vu les zombies. Des esclaves de première qualité, et des soldats...}
-{172}{}{Les corps des anti-esclavagistes pourrissent dans leur tombe... Les corps des anti-esclavagistes pourrissent dans leur tombe et le Maître se fout de nous...}
-{173}{}{Arrête. J'ai beaucoup de mal à tenir en place.}
-{174}{}{Parle-moi des Ténébreux.}
+{170}{}{C'est le baptismal. Ils crÃ©ent des Serviteurs ici. Une fois les acolytes endoctrinÃ©s, ils les emmÃ¨nent ici et entament le programme. Seuls quelques-uns survivent...}
+{171}{}{La plupart perdent la tÃªte, mais ils sont encore utiles. Ils les envoient en bas, ils leur parlent du MaÃ®tre et ils tournent en rond pour les abrutir. Tu as vu les zombies. Des esclaves de premiÃ¨re qualitÃ©, et des soldats...}
+{172}{}{Les corps des anti-esclavagistes pourrissent dans leur tombe... Les corps des anti-esclavagistes pourrissent dans leur tombe et le MaÃ®tre se fout de nous...}
+{173}{}{ArrÃªte. J'ai beaucoup de mal Ã  tenir en place.}
+{174}{}{Parle-moi des TÃ©nÃ©breux.}
 {175}{}{Que se passe-t-il ici ?}
 {176}{}{Que t'ont-ils fait ?}
-{177}{}{Qui est le Maître ?}
-{178}{}{Veux-tu mourir ? Je peux résoudre ton problème.}
-{179}{}{Oh là là ! Je ne peux plus tenir en place ! Aïe ! Aïe ! Aïe !}
-{180}{}{Ce sont des mutants. Je les ai entendus parler. Je suis très curieux. Je connais tous leurs secrets. Ils me détestent. Ils me haïssent.}
-{181}{}{Je suis mal, mais ce n'est que la Phase 1 du Plan de la Cathédrale. Lorsque le lavage de cerveau des serviteurs est terminé, ils passent à la Phase 2. C'est là que le Maître les baptise dans le FEV-2 !}
-{182}{}{La plupart en meurt. Mais ceux qui survivent deviennent des mutants. De GROS mutants. Des Ténébreux ! Le Maître pense que seuls les Ténébreux peuvent survivre. Il veut transformer tout le monde en Ténébreux car ils sont forts !}
-{183}{}{Tu as entendu parler de toutes ces foutaises de paix et d'unité ? Ce ne sont vraiment pas des foutaises pour le Maître. Il croit vraiment qu'il est en train de sauver le monde !}
-{184}{}{Stériles ! Nous allons tous devenir des monstres affreux et stériles ! Stériles ! Stériles ! Stériles ! Je ne m'appelle pas Errol ! Stériles !}
-{185}{}{Parle-moi des Ténébreux.}
+{177}{}{Qui est le MaÃ®tre ?}
+{178}{}{Veux-tu mourir ? Je peux rÃ©soudre ton problÃ¨me.}
+{179}{}{Oh lÃ  lÃ  ! Je ne peux plus tenir en place ! AÃ¯e ! AÃ¯e ! AÃ¯e !}
+{180}{}{Ce sont des mutants. Je les ai entendus parler. Je suis trÃ¨s curieux. Je connais tous leurs secrets. Ils me dÃ©testent. Ils me haÃ¯ssent.}
+{181}{}{Je suis mal, mais ce n'est que la Phase 1 du Plan de la CathÃ©drale. Lorsque le lavage de cerveau des serviteurs est terminÃ©, ils passent Ã  la Phase 2. C'est lÃ  que le MaÃ®tre les baptise dans le FEV-2 !}
+{182}{}{La plupart en meurt. Mais ceux qui survivent deviennent des mutants. De GROS mutants. Des TÃ©nÃ©breux ! Le MaÃ®tre pense que seuls les TÃ©nÃ©breux peuvent survivre. Il veut transformer tout le monde en TÃ©nÃ©breux car ils sont forts !}
+{183}{}{Tu as entendu parler de toutes ces foutaises de paix et d'unitÃ© ? Ce ne sont vraiment pas des foutaises pour le MaÃ®tre. Il croit vraiment qu'il est en train de sauver le monde !}
+{184}{}{StÃ©riles ! Nous allons tous devenir des monstres affreux et stÃ©riles ! StÃ©riles ! StÃ©riles ! StÃ©riles ! Je ne m'appelle pas Errol ! StÃ©riles !}
+{185}{}{Parle-moi des TÃ©nÃ©breux.}
 {186}{}{Que se passe-t-il ici ?}
 {187}{}{Que t'ont-ils fait ?}
-{188}{}{Qui est le Maître ?}
-{189}{}{Veux-tu mourir ? Je peux résoudre ton problème.}
-{190}{}{MEUH ! MEUH ! MEUH ! Les Ténébreux brahmines arrivent ! Voilà du lait stérile !}
-{191}{}{La fin du monde tel que nous le connaissons. Des armées de mutants dans l'Abri, je n'y suis pour rien, c'est de la faute du Maître. Lorsque nous avons l'unité, c'est là que le Maître commence VRAIMENT à s'amuser.}
-{192}{}{Parle-moi des Ténébreux.}
+{188}{}{Qui est le MaÃ®tre ?}
+{189}{}{Veux-tu mourir ? Je peux rÃ©soudre ton problÃ¨me.}
+{190}{}{MEUH ! MEUH ! MEUH ! Les TÃ©nÃ©breux brahmines arrivent ! VoilÃ  du lait stÃ©rile !}
+{191}{}{La fin du monde tel que nous le connaissons. Des armÃ©es de mutants dans l'Abri, je n'y suis pour rien, c'est de la faute du MaÃ®tre. Lorsque nous avons l'unitÃ©, c'est lÃ  que le MaÃ®tre commence VRAIMENT Ã  s'amuser.}
+{192}{}{Parle-moi des TÃ©nÃ©breux.}
 {193}{}{Quel genre d'amusement ?}
 {194}{}{Que t'ont-ils fait ?}
-{195}{}{Qui est le Maître ?}
-{196}{}{Veux-tu mourir ? Je peux résoudre ton problème.}
-{197}{}{Oh là là ! Je ne peux plus tenir en place ! Aïe ! Aïe ! Aïe !}
-{198}{}{Ils m'ont jeté dans des produits chimiques, troué comme une passoire et ils ont fait un vacarme infernal. Ce genre de saletés. Ils ont essayé de me transformer en quelque chose qui n'est pas moi. C'est ce que les parents font d'habitude.}
-{199}{}{J'ai très mal.}
+{195}{}{Qui est le MaÃ®tre ?}
+{196}{}{Veux-tu mourir ? Je peux rÃ©soudre ton problÃ¨me.}
+{197}{}{Oh lÃ  lÃ  ! Je ne peux plus tenir en place ! AÃ¯e ! AÃ¯e ! AÃ¯e !}
+{198}{}{Ils m'ont jetÃ© dans des produits chimiques, trouÃ© comme une passoire et ils ont fait un vacarme infernal. Ce genre de saletÃ©s. Ils ont essayÃ© de me transformer en quelque chose qui n'est pas moi. C'est ce que les parents font d'habitude.}
+{199}{}{J'ai trÃ¨s mal.}
 {200}{}{A quoi sert cet endroit ?}
-{201}{}{Parle-moi des Ténébreux.}
+{201}{}{Parle-moi des TÃ©nÃ©breux.}
 {202}{}{Que se passe-t-il ici ?}
-{203}{}{Qui est le Maître ?}
-{204}{}{Veux-tu mourir ? Je peux résoudre ton problème.}
+{203}{}{Qui est le MaÃ®tre ?}
+{204}{}{Veux-tu mourir ? Je peux rÃ©soudre ton problÃ¨me.}
 {205}{}{Tu as l'air stupide !}
-{206}{}{Moi aussi, je frappais fort. J'étais un dur ! Oh là là, j'étais un dieu ! Un foutu dieu ! Mais ce n'est pas tout ! J'étais une machine à combattre ! Et maintenant, je suis... je suis... A l'aide...}
-{207}{}{Tu sais, les Ténébreux disent qu'il est encore plus laid qu'eux. Il doit être terrifiant, ce con.}
-{208}{}{Voilà l'Homme ! L'Homme au Plan ! Il fait des plans parce qu'il nous aime ! Et si le monde s'interfère, qu'il aille se faire foutre ! Parce que c'est ça l'amour !}
+{206}{}{Moi aussi, je frappais fort. J'Ã©tais un dur ! Oh lÃ  lÃ , j'Ã©tais un dieu ! Un foutu dieu ! Mais ce n'est pas tout ! J'Ã©tais une machine Ã  combattre ! Et maintenant, je suis... je suis... A l'aide...}
+{207}{}{Tu sais, les TÃ©nÃ©breux disent qu'il est encore plus laid qu'eux. Il doit Ãªtre terrifiant, ce con.}
+{208}{}{VoilÃ  l'Homme ! L'Homme au Plan ! Il fait des plans parce qu'il nous aime ! Et si le monde s'interfÃ¨re, qu'il aille se faire foutre ! Parce que c'est Ã§a l'amour !}
 {209}{}{A quoi sert cet endroit ?}
-{210}{}{Parle-moi des Ténébreux.}
+{210}{}{Parle-moi des TÃ©nÃ©breux.}
 {211}{}{Que se passe-t-il ici ?}
 {212}{}{Que t'ont-ils fait ?}
-{213}{}{Veux-tu mourir ? Je peux résoudre ton problème.}
+{213}{}{Veux-tu mourir ? Je peux rÃ©soudre ton problÃ¨me.}
 {214}{}{Tu as l'air stupide !}
-{215}{}{C'est l'amour qui fait pousser les cactus ! C'est l'amour qui fait meugler les brahmines ! C'est l'amour qui fiche ta vie en l'air ! Je déteste l'amour ! J'adore la haine ! Si le Maître nous haïssait, tout irait bien pour nous !}
-{216}{}{Où as-tu la tête ? Tu crois que la vie est un long fleuve tranquille sans souffrance ? La vie EST une souffrance ! Une souffrance, quoi qu'on y fasse !}
-{217}{}{Etre à la hauteur ! Aimer ! Haïr ! Prendre des risques ! Ennuyer les gens ! Frapper les crapules ! Se lier d'amitié avec d'autres crapules ! Fuir ses erreurs ! Affronter ses erreurs ! Les radiations !}
-{218}{}{Avoir des enfants et refaire toujours la même chose, parfois en mieux, parfois en pire !}
-{219}{}{C'est ça la vie ! C'est comme être saoul. D'un côté, ça peut être sacrément gênant, et de l'autre génial ! Mais pourtant c'est la même chose ! C'est la vie !}
+{215}{}{C'est l'amour qui fait pousser les cactus ! C'est l'amour qui fait meugler les brahmines ! C'est l'amour qui fiche ta vie en l'air ! Je dÃ©teste l'amour ! J'adore la haine ! Si le MaÃ®tre nous haÃ¯ssait, tout irait bien pour nous !}
+{216}{}{OÃ¹ as-tu la tÃªte ? Tu crois que la vie est un long fleuve tranquille sans souffrance ? La vie EST une souffrance ! Une souffrance, quoi qu'on y fasse !}
+{217}{}{Etre Ã  la hauteur ! Aimer ! HaÃ¯r ! Prendre des risques ! Ennuyer les gens ! Frapper les crapules ! Se lier d'amitiÃ© avec d'autres crapules ! Fuir ses erreurs ! Affronter ses erreurs ! Les radiations !}
+{218}{}{Avoir des enfants et refaire toujours la mÃªme chose, parfois en mieux, parfois en pire !}
+{219}{}{C'est Ã§a la vie ! C'est comme Ãªtre saoul. D'un cÃ´tÃ©, Ã§a peut Ãªtre sacrÃ©ment gÃªnant, et de l'autre gÃ©nial ! Mais pourtant c'est la mÃªme chose ! C'est la vie !}
 {220}{}{Ha ha ! Ha ! Ha ! Ha ! Ha ! Tu as raison ! Nous sommes tous stupides ! Tu comprends pas ? Ha ! Ha ! Ha !}
 {221}{}{Amertume, amertume, amertume tume tume, tu m'auras pas, tu m'auras pas, tu m'auras pas pas pas... Oh super ! Je fais des rimes ! Amertume, amertume, amertume tume tume, tu m'auras pas, tu m'auras pas, tu m'auras pas pas pas......}
 {222}{}{[Plus]}
-{529}{}{Bien sûr que tu la connais, Dane, idiot ! C'est notre ennemie ! Elle doit être éliminée !}
+{529}{}{Bien sÃ»r que tu la connais, Dane, idiot ! C'est notre ennemie ! Elle doit Ãªtre Ã©liminÃ©e !}

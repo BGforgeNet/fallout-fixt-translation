@@ -1,8 +1,8 @@
-{100}{}{¡Maldito imbécil! ¡Mátalo!}
-{101}{}{¡Mata a esa bestia antes de que se lo coma!}
-{102}{}{¡Armas!}
-{103}{}{¡Sacadlo de ahí!}
-{104}{}{No entres en el cuadrilátero, tío.}
-{105}{}{Eh, ¿dónde crees que vas?}
+{100}{}{Â¡Maldito imbÃ©cil! Â¡MÃ¡talo!}
+{101}{}{Â¡Mata a esa bestia antes de que se lo coma!}
+{102}{}{Â¡Armas!}
+{103}{}{Â¡Sacadlo de ahÃ­!}
+{104}{}{No entres en el cuadrilÃ¡tero, tÃ­o.}
+{105}{}{Eh, Â¿dÃ³nde crees que vas?}
 {106}{}{Habla con Gustofer si quieres apostar.}
-{107}{}{Combates de boxeo a las 2:00 el día tres de cada mes.}
+{107}{}{Combates de boxeo a las 2:00 el dÃ­a tres de cada mes.}

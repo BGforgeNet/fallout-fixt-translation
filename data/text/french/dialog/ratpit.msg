@@ -1,1 +1,1 @@
-{100}{}{Il y a énormément d'excréments de rat par ici.}
+{100}{}{Il y a Ã©normÃ©ment d'excrÃ©ments de rat par ici.}

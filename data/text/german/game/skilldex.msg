@@ -1,4 +1,4 @@
-{100}{}{KÖNNEN}
+{100}{}{KÃ–NNEN}
 {101}{}{CANCEL}
 {102}{}{SNEAK}
 {103}{}{LOCKPICK}

@@ -1,8 +1,8 @@
-{100}{}{Esta estanterÌa est· llena de libros religiosos y filosÛficos. TambiÈn est· llena de polvo.}
-{101}{}{Coges un libro, le echas un vistazo, y lo vuelves a poner en su lugar. La estanterÌa parece muy sÛlida.}
+{100}{}{Esta estanter√≠a est√° llena de libros religiosos y filos√≥ficos. Tambi√©n est√° llena de polvo.}
+{101}{}{Coges un libro, le echas un vistazo, y lo vuelves a poner en su lugar. La estanter√≠a parece muy s√≥lida.}
 {102}{}{Encuentras un pestillo oculto.}
 {103}{}{Eso no hace nada.}
-{104}{}{La pared junto a la estanterÌa se desliza silenciosamente hacia afuera.}
-{105}{}{Toqueteas la estanterÌa un poco, pero no consigues nada.}
-{200}{}{La estanterÌa est· llena de libros religiosos y filosÛficos.}
-{201}{}{El pestillo no se mover·.}
+{104}{}{La pared junto a la estanter√≠a se desliza silenciosamente hacia afuera.}
+{105}{}{Toqueteas la estanter√≠a un poco, pero no consigues nada.}
+{200}{}{La estanter√≠a est√° llena de libros religiosos y filos√≥ficos.}
+{201}{}{El pestillo no se mover√°.}

@@ -3,7 +3,7 @@
 {102}{}{I'm sorry. I'll come back another time.}
 {103}{}{I'll be back.}
 {104}{}{How could I know your schedule?}
-{105}{}{Hääh?}
+{105}{}{HÃ¤Ã¤h?}
 {106}{Vree01}{Don't raise your voice to me. Do I have to have one of the Brothers teach you some manners.}
 {107}{}{Sorry.}
 {108}{}{Yeah, okay. Whatever.}
@@ -116,7 +116,7 @@
 {1002}{}{disks}
 {1003}{}{Brotherhood}
 {1004}{}{Chip}
-{1005}{}{Älteste}
+{1005}{}{Ã„lteste}
 {1006}{}{Rhombus}
 {1007}{}{Exodus}
 {1008}{}{Strange Army}

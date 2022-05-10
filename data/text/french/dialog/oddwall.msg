@@ -1,1 +1,1 @@
-{100}{}{L'un des murs à l'Est semble avoir quelque chose de bizarre.}
+{100}{}{L'un des murs Ã  l'Est semble avoir quelque chose de bizarre.}

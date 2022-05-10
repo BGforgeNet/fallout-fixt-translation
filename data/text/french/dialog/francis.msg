@@ -1,62 +1,62 @@
 {100}{}{Voici Soeur Francis.}
-{101}{}{Salut ! Oh, c'est toi ! J'espère que t'es pas là pour me tuer. Ca ne te ferait rien d'attendre que j'aie fini ma méditation ?}
-{102}{}{Oh, encore toi. Je ne veux pas être impolie, mais je suis en méditation...}
-{103}{}{Excuse-moi, tu peux ranger ton arme ? Je ne peux pas méditer en paix avec, euh, disons la mort en face. Merci beaucoup.}
-{104}{}{Tu sais, il se dit de très vilaines choses sur ton compte. Tu devrais voir ça de près...}
-{105}{}{Salut. Je suis en méditation. T'avais pas remarqué ? Je peux t'aider ?}
-{106}{}{Certainement. As-tu remarqué quelque chose d'anormal dans le coin ?}
-{107}{}{Ca te dirait de partager avec moi tes méditations préférées ?}
+{101}{}{Salut ! Oh, c'est toi ! J'espÃ¨re que t'es pas lÃ  pour me tuer. Ca ne te ferait rien d'attendre que j'aie fini ma mÃ©ditation ?}
+{102}{}{Oh, encore toi. Je ne veux pas Ãªtre impolie, mais je suis en mÃ©ditation...}
+{103}{}{Excuse-moi, tu peux ranger ton arme ? Je ne peux pas mÃ©diter en paix avec, euh, disons la mort en face. Merci beaucoup.}
+{104}{}{Tu sais, il se dit de trÃ¨s vilaines choses sur ton compte. Tu devrais voir Ã§a de prÃ¨s...}
+{105}{}{Salut. Je suis en mÃ©ditation. T'avais pas remarquÃ© ? Je peux t'aider ?}
+{106}{}{Certainement. As-tu remarquÃ© quelque chose d'anormal dans le coin ?}
+{107}{}{Ca te dirait de partager avec moi tes mÃ©ditations prÃ©fÃ©rÃ©es ?}
 {108}{}{Qui est le responsable des lieux ?}
-{109}{}{Où je peux trouver le Maître ?}
-{110}{}{Il paraît qu'il y a ici de grosses quantités d'alcool. Je voudrais les enlever...}
+{109}{}{OÃ¹ je peux trouver le MaÃ®tre ?}
+{110}{}{Il paraÃ®t qu'il y a ici de grosses quantitÃ©s d'alcool. Je voudrais les enlever...}
 {111}{}{T'as des munitions ?}
 {112}{}{A l'aide ! Moi aide !}
-{113}{}{Bonjour, mon frère. Je peux t'aider ?}
+{113}{}{Bonjour, mon frÃ¨re. Je peux t'aider ?}
 {114}{}{Bonjour, ma soeur. Je peux t'aider ?}
-{115}{}{Certainement. As-tu remarqué quelque chose d'anormal dans le coin ?}
-{116}{}{Ca te dirait de partager avec moi tes méditations préférées ?}
+{115}{}{Certainement. As-tu remarquÃ© quelque chose d'anormal dans le coin ?}
+{116}{}{Ca te dirait de partager avec moi tes mÃ©ditations prÃ©fÃ©rÃ©es ?}
 {117}{}{Qui est le responsable des lieux ?}
-{118}{}{Où je peux trouver le Maître ?}
-{119}{}{Il paraît qu'il y a ici de grosses quantités d'alcool. Je voudrais les enlever...}
+{118}{}{OÃ¹ je peux trouver le MaÃ®tre ?}
+{119}{}{Il paraÃ®t qu'il y a ici de grosses quantitÃ©s d'alcool. Je voudrais les enlever...}
 {120}{}{T'as des munitions ?}
 {121}{}{A l'aide ! Moi aide !}
-{122}{}{Certainement. As-tu remarqué quelque chose d'anormal dans le coin ?}
-{123}{}{Ca te dirait de partager avec moi tes méditations préférées ?}
+{122}{}{Certainement. As-tu remarquÃ© quelque chose d'anormal dans le coin ?}
+{123}{}{Ca te dirait de partager avec moi tes mÃ©ditations prÃ©fÃ©rÃ©es ?}
 {124}{}{Qui est le responsable des lieux ?}
-{125}{}{Où je peux trouver le Maître ?}
-{126}{}{Il paraît qu'il y a ici de grosses quantités d'alcool. Je voudrais les enlever...}
+{125}{}{OÃ¹ je peux trouver le MaÃ®tre ?}
+{126}{}{Il paraÃ®t qu'il y a ici de grosses quantitÃ©s d'alcool. Je voudrais les enlever...}
 {127}{}{T'as des munitions ?}
 {128}{}{A l'aide ! Moi aide !}
-{129}{}{Ah, le Père Morpheus n'a pas fait de sermons depuis tellement longtemps. C'est dommage, j'adore ses discours mais tout le monde a l'air si affairé... une croisade, je crois.}
-{130}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
-{131}{}{Oh, je pourrais, mais ceux qui passent par le programme de servitude valent tellement mieux que moi... Leur esprit est bien plus tourné vers le Maître. Peut-être qu'après transformation, je m'améliorerai.}
-{132}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
-{133}{}{Ah, c'est le Père Morpheus. Avec un tel orateur, la Paix et l'Unité prennent véritablement vie, et au seul son de sa voix, je vois apparaître les Flammes Sacrées !}
-{134}{}{Ce Père Morpheus, en voilà un qui sait parler ; et beau avec ça !}
-{135}{}{Il s'agit probablement de l'un des Grands Mystères dont les prêtres discutent dans le Sanctuaire de l'Eglise. Je n'ai pas le privilège de cette révélation, mais j'y travaille !}
-{136}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
-{137}{}{Mon dieu ! De l'alcool et des stimulants ici ! Tu dois te tromper. Jamais le Maître ne le tolérerait ; tous les disciples doivent garder un esprit saint et pur.}
-{138}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
-{139}{}{Je pense qu'on vend des munitions sacrées dans la boutique de souvenirs de la Cathédrale...}
-{140}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
+{129}{}{Ah, le PÃ¨re Morpheus n'a pas fait de sermons depuis tellement longtemps. C'est dommage, j'adore ses discours mais tout le monde a l'air si affairÃ©... une croisade, je crois.}
+{130}{}{ Bon, excuse-moi, je dois reprendre ma mÃ©ditation.}
+{131}{}{Oh, je pourrais, mais ceux qui passent par le programme de servitude valent tellement mieux que moi... Leur esprit est bien plus tournÃ© vers le MaÃ®tre. Peut-Ãªtre qu'aprÃ¨s transformation, je m'amÃ©liorerai.}
+{132}{}{ Bon, excuse-moi, je dois reprendre ma mÃ©ditation.}
+{133}{}{Ah, c'est le PÃ¨re Morpheus. Avec un tel orateur, la Paix et l'UnitÃ© prennent vÃ©ritablement vie, et au seul son de sa voix, je vois apparaÃ®tre les Flammes SacrÃ©es !}
+{134}{}{Ce PÃ¨re Morpheus, en voilÃ  un qui sait parler ; et beau avec Ã§a !}
+{135}{}{Il s'agit probablement de l'un des Grands MystÃ¨res dont les prÃªtres discutent dans le Sanctuaire de l'Eglise. Je n'ai pas le privilÃ¨ge de cette rÃ©vÃ©lation, mais j'y travaille !}
+{136}{}{ Bon, excuse-moi, je dois reprendre ma mÃ©ditation.}
+{137}{}{Mon dieu ! De l'alcool et des stimulants ici ! Tu dois te tromper. Jamais le MaÃ®tre ne le tolÃ©rerait ; tous les disciples doivent garder un esprit saint et pur.}
+{138}{}{ Bon, excuse-moi, je dois reprendre ma mÃ©ditation.}
+{139}{}{Je pense qu'on vend des munitions sacrÃ©es dans la boutique de souvenirs de la CathÃ©drale...}
+{140}{}{ Bon, excuse-moi, je dois reprendre ma mÃ©ditation.}
 {141}{}{Oh non. Aucune aide. Au revoir.}
-{142}{}{Bonjour, mon frère. Non, j'étais occupée à méditer en bonne initiée, en attendant d'être baptisée par les Serviteurs. Je suis sûre que tout va bien.}
-{143}{}{Bonjour, ma soeur. Non, j'étais occupée à méditer en bonne initiée, en attendant d'être baptisée par les Serviteurs. Je suis sûre que tout va bien.}
-{144}{}{Le Maître est mon ami. L'Unité est prospérité. La Paix est prospérité. La Paix et l'Unité viennent par l'Obéissance. L'Obéissance se prouve par la Soumission à l'Autorité...}
-{145}{}{Celui qui se soumet sera baptisé par la Flamme Sacrée, mais les fidèles ne brûleront pas. Celui qui traverse le Feu sans être brûlé vivra pour l'éternité...}
-{146}{}{J'espère que je n'ai rien oublié...}
-{147}{}{C'est une question-piège ? C'est le Maître, non ?}
-{148}{}{J'ai entendu dire que le Maître se trouve dans le Feu Sacré, qu'il attend l'Unité et la Paix, et qu'il vit dans le cœur et l'esprit de tous les justes...}
-{149}{}{Il doit y avoir une métaphore quelque part, mais où... ? Peut-être est-il partout.}
-{150}{}{Mon frère ! Rien d'aussi impur ne profane la Cathédrale. J'en aviserais les grands prêtres si de tels péchés étaient commis.}
-{151}{}{Ma soeur ! Rien d'aussi impur ne profane la Cathédrale. J'en aviserais les grands prêtres si de tels péchés étaient commis.}
-{152}{}{Je suis armée, bien sûr, au cas où la raison ne viendrait pas à bout de nos ennemis, mais pas jusqu'aux dents. Y'a pas de munitions dans la boutique de souvenirs ?}
-{153}{}{Oh non, mon frère, je n'ai nul besoin d'aide. Excuse-moi.}
+{142}{}{Bonjour, mon frÃ¨re. Non, j'Ã©tais occupÃ©e Ã  mÃ©diter en bonne initiÃ©e, en attendant d'Ãªtre baptisÃ©e par les Serviteurs. Je suis sÃ»re que tout va bien.}
+{143}{}{Bonjour, ma soeur. Non, j'Ã©tais occupÃ©e Ã  mÃ©diter en bonne initiÃ©e, en attendant d'Ãªtre baptisÃ©e par les Serviteurs. Je suis sÃ»re que tout va bien.}
+{144}{}{Le MaÃ®tre est mon ami. L'UnitÃ© est prospÃ©ritÃ©. La Paix est prospÃ©ritÃ©. La Paix et l'UnitÃ© viennent par l'ObÃ©issance. L'ObÃ©issance se prouve par la Soumission Ã  l'AutoritÃ©...}
+{145}{}{Celui qui se soumet sera baptisÃ© par la Flamme SacrÃ©e, mais les fidÃ¨les ne brÃ»leront pas. Celui qui traverse le Feu sans Ãªtre brÃ»lÃ© vivra pour l'Ã©ternitÃ©...}
+{146}{}{J'espÃ¨re que je n'ai rien oubliÃ©...}
+{147}{}{C'est une question-piÃ¨ge ? C'est le MaÃ®tre, non ?}
+{148}{}{J'ai entendu dire que le MaÃ®tre se trouve dans le Feu SacrÃ©, qu'il attend l'UnitÃ© et la Paix, et qu'il vit dans le cÅ“ur et l'esprit de tous les justes...}
+{149}{}{Il doit y avoir une mÃ©taphore quelque part, mais oÃ¹... ? Peut-Ãªtre est-il partout.}
+{150}{}{Mon frÃ¨re ! Rien d'aussi impur ne profane la CathÃ©drale. J'en aviserais les grands prÃªtres si de tels pÃ©chÃ©s Ã©taient commis.}
+{151}{}{Ma soeur ! Rien d'aussi impur ne profane la CathÃ©drale. J'en aviserais les grands prÃªtres si de tels pÃ©chÃ©s Ã©taient commis.}
+{152}{}{Je suis armÃ©e, bien sÃ»r, au cas oÃ¹ la raison ne viendrait pas Ã  bout de nos ennemis, mais pas jusqu'aux dents. Y'a pas de munitions dans la boutique de souvenirs ?}
+{153}{}{Oh non, mon frÃ¨re, je n'ai nul besoin d'aide. Excuse-moi.}
 {154}{}{Oh non, ma soeur, je n'ai nul besoin d'aide. Excuse-moi.}
-{155}{}{Ah, on me dit que la Paix et l'Unité que nous voulons pour toutes les créatures ne sont pas chose ordinaire, mais j'espère que cela ne durera pas.}
-{156}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
-{157}{}{Je l'ignore. Peut-être se révélera-t-il quand l'heure viendra.}
-{158}{}{[Terminé]}
+{155}{}{Ah, on me dit que la Paix et l'UnitÃ© que nous voulons pour toutes les crÃ©atures ne sont pas chose ordinaire, mais j'espÃ¨re que cela ne durera pas.}
+{156}{}{ Bon, excuse-moi, je dois reprendre ma mÃ©ditation.}
+{157}{}{Je l'ignore. Peut-Ãªtre se rÃ©vÃ©lera-t-il quand l'heure viendra.}
+{158}{}{[TerminÃ©]}
 {159}{}{[Plus]}
 {160}{}{Bonjour, monsieur. Je peux vous aider ?}
 {161}{}{Bonjour, mademoiselle. Je peux vous aider ?}

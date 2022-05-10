@@ -1,58 +1,58 @@
-{100}{}{Arrête !}
-{101}{}{J'espère avoir assez de cartouches.}
+{100}{}{ArrÃªte !}
+{101}{}{J'espÃ¨re avoir assez de cartouches.}
 {102}{}{A mort.}
-{103}{}{Tu paieras pour tes péchés !}
-{104}{}{Je t'écraserai !}
-{105}{}{L'Unité à jamais !}
-{106}{}{Pour le Maître !}
-{107}{}{Tu n'as pas le droit d'être armé dans ce secteur, petit frère. Explique-toi.}
-{108}{}{Tu n'as pas le droit d'être armée dans ce secteur, petite soeur. Explique-toi.}
+{103}{}{Tu paieras pour tes pÃ©chÃ©s !}
+{104}{}{Je t'Ã©craserai !}
+{105}{}{L'UnitÃ© Ã  jamais !}
+{106}{}{Pour le MaÃ®tre !}
+{107}{}{Tu n'as pas le droit d'Ãªtre armÃ© dans ce secteur, petit frÃ¨re. Explique-toi.}
+{108}{}{Tu n'as pas le droit d'Ãªtre armÃ©e dans ce secteur, petite soeur. Explique-toi.}
 {109}{}{Euhh.}
 {110}{}{C'est bon, je travaille ici.}
 {111}{}{C'est bon, j'ai un laissez-passer.}
 {112}{}{J'ai l'autorisation du Lieutenant.}
 {113}{}{Allons bon, qu'est-ce que c'est que cette trahison ?!}
 {114}{}{Alors, montre ton laissez-passer.}
-{115}{}{Je, euh, je l'ai laissé dans mon autre robe.}
-{116}{}{Le voilà, au bout de mon fusil.}
-{117}{}{Bon, fais vite ce que t'as à faire, mais attention : je t'ai à l'oeil.}
-{118}{}{Oui, petit frère. Comment je peux t'aider ?}
+{115}{}{Je, euh, je l'ai laissÃ© dans mon autre robe.}
+{116}{}{Le voilÃ , au bout de mon fusil.}
+{117}{}{Bon, fais vite ce que t'as Ã  faire, mais attention : je t'ai Ã  l'oeil.}
+{118}{}{Oui, petit frÃ¨re. Comment je peux t'aider ?}
 {119}{}{Oui, petite soeur. Comment je peux t'aider ?}
 {120}{}{Grr !}
-{121}{}{Humm, où il est ce Maître ?}
-{122}{}{Gloire à l'Unité, frère.}
-{123}{}{C'est pas moi qui te montrerai la voie vers l'Unité. File.}
-{124}{}{Hérétique ! Tu vas payer pour tes péchés !}
+{121}{}{Humm, oÃ¹ il est ce MaÃ®tre ?}
+{122}{}{Gloire Ã  l'UnitÃ©, frÃ¨re.}
+{123}{}{C'est pas moi qui te montrerai la voie vers l'UnitÃ©. File.}
+{124}{}{HÃ©rÃ©tique ! Tu vas payer pour tes pÃ©chÃ©s !}
 {125}{}{Il est ici. Pourquoi cette question ?}
-{126}{}{Oh, euh, comme ça.}
-{127}{}{Je vais lui régler son compte de manière, euh, définitive !}
-{128}{}{Quelle question ? J'ai dit "Vive ce Maître adoré."}
+{126}{}{Oh, euh, comme Ã§a.}
+{127}{}{Je vais lui rÃ©gler son compte de maniÃ¨re, euh, dÃ©finitive !}
+{128}{}{Quelle question ? J'ai dit "Vive ce MaÃ®tre adorÃ©."}
 {129}{}{Tu m'insultes ! Meurs donc !}
-{130}{}{Gloire à l'Unité}
-{131}{}{Tu ne sembles pas croire à ce que tu dis. Me trompé-je ? Ou as-tu quitté le chemin de la vertu ?}
+{130}{}{Gloire Ã  l'UnitÃ©}
+{131}{}{Tu ne sembles pas croire Ã  ce que tu dis. Me trompÃ©-je ? Ou as-tu quittÃ© le chemin de la vertu ?}
 {132}{}{Tu te trompes ; si ma voix tremble, ce n'est pas de peur, c'est un rhume.}
-{133}{}{Je crains fort que ton espèce ne soit condamnée. Tiens, je vais te le prouver avec l'aide de mes amis...}
-{134}{}{Quand tu seras des nôtres, tu ne craindras plus ces broutilles. Hors de ma vue.}
-{135}{}{Que veux-tu encore ? Je n'ai guère le temps de discuter.}
+{133}{}{Je crains fort que ton espÃ¨ce ne soit condamnÃ©e. Tiens, je vais te le prouver avec l'aide de mes amis...}
+{134}{}{Quand tu seras des nÃ´tres, tu ne craindras plus ces broutilles. Hors de ma vue.}
+{135}{}{Que veux-tu encore ? Je n'ai guÃ¨re le temps de discuter.}
 {136}{}{Euh !}
 {137}{}{J'ai n'ai pas le temps de m'occuper de ta vie... Meurs donc !}
 {138}{}{Rien, excuse-moi.}
-{139}{}{Gloire à l'Unité, frère.}
-{140}{}{Ah, c'est sûr que tu n'as rien à faire ici !}
+{139}{}{Gloire Ã  l'UnitÃ©, frÃ¨re.}
+{140}{}{Ah, c'est sÃ»r que tu n'as rien Ã  faire ici !}
 {141}{}{Hors de ma vue !}
-{142}{}{J'ai pas de temps à perdre. Cesse de m'importuner.}
+{142}{}{J'ai pas de temps Ã  perdre. Cesse de m'importuner.}
 {200}{}{Voici un Sergent Super Mutant.}
-{201}{}{Eh, on dirait une bombe nucléaire. Qu'est-ce que ça fait là ?}
-{202}{}{C'est l'arme que notre Maître utilise en dernier recours. Si jamais on tombe sur des ennemis récalcitrants, on les détruira avec ça. Mais ça n'arrivera sans doute pas. Même notre Maître ne tient pas à déchaîner encore la puissance atomique redoutée !}
+{201}{}{Eh, on dirait une bombe nuclÃ©aire. Qu'est-ce que Ã§a fait lÃ  ?}
+{202}{}{C'est l'arme que notre MaÃ®tre utilise en dernier recours. Si jamais on tombe sur des ennemis rÃ©calcitrants, on les dÃ©truira avec Ã§a. Mais Ã§a n'arrivera sans doute pas. MÃªme notre MaÃ®tre ne tient pas Ã  dÃ©chaÃ®ner encore la puissance atomique redoutÃ©e !}
 {203}{}{Ok, merci.}
-{204}{}{Elle est opérationnelle ?}
+{204}{}{Elle est opÃ©rationnelle ?}
 {205}{}{De rien. Bouge pas, je surveille cet engin ; il faut que je me concentre.}
-{206}{}{Oh, oui. On la maintient en parfait état de marche, prête à exploser en quelques secondes. L'Unité est invincible !}
+{206}{}{Oh, oui. On la maintient en parfait Ã©tat de marche, prÃªte Ã  exploser en quelques secondes. L'UnitÃ© est invincible !}
 {207}{}{Ah, merci.}
-{208}{}{T'as pas peur que quelqu'un s'introduise ici vêtu d'une robe et déclenche la bombe ?}
-{209}{}{Non. Nous sommes ici pour la protéger contre les intrus. Personne ne peut y accéder sans être vu. Et puis, la clé indispensable pour amorcer le dispositif n'est pas ici.}
+{208}{}{T'as pas peur que quelqu'un s'introduise ici vÃªtu d'une robe et dÃ©clenche la bombe ?}
+{209}{}{Non. Nous sommes ici pour la protÃ©ger contre les intrus. Personne ne peut y accÃ©der sans Ãªtre vu. Et puis, la clÃ© indispensable pour amorcer le dispositif n'est pas ici.}
 {210}{}{Oh, bien vu. Merci.}
-{211}{}{Eh bien, pour me rassurer, tu pourrais pas me dire où se trouve la clé ?}
-{212}{}{Oh, bien sûr. C'est le Lieutenant qui la garde. Il est à la Base Militaire, sur un autre site. Comme ça, la bombe peut pas exploser sous notre adoré Maître.}
+{211}{}{Eh bien, pour me rassurer, tu pourrais pas me dire oÃ¹ se trouve la clÃ© ?}
+{212}{}{Oh, bien sÃ»r. C'est le Lieutenant qui la garde. Il est Ã  la Base Militaire, sur un autre site. Comme Ã§a, la bombe peut pas exploser sous notre adorÃ© MaÃ®tre.}
 {213}{}{Merci pour la patience.}
 {214}{}{[Levant ses sourcils broussailleux, le grand mutant te scrute quelques instants.] Apparemment tu poses trop de questions.}

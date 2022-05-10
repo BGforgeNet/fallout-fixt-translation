@@ -8,20 +8,20 @@
 {107}{}{Ves: al Iniciado Lorraine, de los Seguidores.}
 {108}{}{Ves: al Iniciado Sarah, de los Seguidores.}
 {109}{}{Ves: al Iniciado Christine, de los Seguidores.}
-{110}{}{Que la paz sea tu guía en este yermo horrible.}
-{111}{}{Estoy deseando luchar contra los Niños}
-{112}{}{Si no puedo convertirme en Erudito me haré Escriba.}
+{110}{}{Que la paz sea tu guÃ­a en este yermo horrible.}
+{111}{}{Estoy deseando luchar contra los NiÃ±os}
+{112}{}{Si no puedo convertirme en Erudito me harÃ© Escriba.}
 {113}{}{Quiero convertirme en Erudito.}
-{114}{}{Esas bandas de ahí fuera deberían parar de luchar.}
-{115}{}{Me pregunto cómo sería el mundo con paz.}
-{116}{}{He oído decir que alguien ha estado dando nuestros conocimientos a los Niños.}
+{114}{}{Esas bandas de ahÃ­ fuera deberÃ­an parar de luchar.}
+{115}{}{Me pregunto cÃ³mo serÃ­a el mundo con paz.}
+{116}{}{He oÃ­do decir que alguien ha estado dando nuestros conocimientos a los NiÃ±os.}
 {117}{}{Esos Nocturnos me asustan.}
-{118}{}{Solo a los exploradores se les permite salir después del atardecer.}
-{119}{}{Me pregunto de dónde sacan los Eruditos los nuevos libros.}
-{120}{}{Hemos perdido mucha gente por culpa de ese espía.}
-{121}{}{Le he oído decir a Neil que el espía es posiblemente uno de los nuevos.}
-{122}{}{Por favor encuentra al espía pronto.}
-{123}{}{Me pregunto si de verdad Nicole nos dejará usar estas técnicas de combate.}
-{124}{}{Si Amber nos viera ahora, se podría furiosa.}
-{125}{}{Neil se puso muy feliz cuando dijiste que nos enseñarías.}
-{126}{}{¡Ahora podré con todos los Niños yo solo!}
+{118}{}{Solo a los exploradores se les permite salir despuÃ©s del atardecer.}
+{119}{}{Me pregunto de dÃ³nde sacan los Eruditos los nuevos libros.}
+{120}{}{Hemos perdido mucha gente por culpa de ese espÃ­a.}
+{121}{}{Le he oÃ­do decir a Neil que el espÃ­a es posiblemente uno de los nuevos.}
+{122}{}{Por favor encuentra al espÃ­a pronto.}
+{123}{}{Me pregunto si de verdad Nicole nos dejarÃ¡ usar estas tÃ©cnicas de combate.}
+{124}{}{Si Amber nos viera ahora, se podrÃ­a furiosa.}
+{125}{}{Neil se puso muy feliz cuando dijiste que nos enseÃ±arÃ­as.}
+{126}{}{Â¡Ahora podrÃ© con todos los NiÃ±os yo solo!}

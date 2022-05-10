@@ -1,28 +1,28 @@
 {100}{}{Ves a un Caballero.}
 {101}{}{Ves a un Escriba.}
-{102}{}{¿Qué estás haciendo aquí?}
-{103}{}{¿Quién eres?}
-{104}{}{¿No te he visto antes?}
-{105}{}{Esta es mi habitación, vete por favor.}
-{106}{}{Por favor, sal de mi habitación.}
-{107}{}{Esta no es tu habitación.}
-{108}{}{Las habitaciones de los Iniciados están en el segundo nivel.}
-{109}{}{¿Te has perdido?}
-{110}{}{Creo que tu cuarto está en el nivel dos.}
-{111}{}{Me gustaría tener un poco de intimidad.}
+{102}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{103}{}{Â¿QuiÃ©n eres?}
+{104}{}{Â¿No te he visto antes?}
+{105}{}{Esta es mi habitaciÃ³n, vete por favor.}
+{106}{}{Por favor, sal de mi habitaciÃ³n.}
+{107}{}{Esta no es tu habitaciÃ³n.}
+{108}{}{Las habitaciones de los Iniciados estÃ¡n en el segundo nivel.}
+{109}{}{Â¿Te has perdido?}
+{110}{}{Creo que tu cuarto estÃ¡ en el nivel dos.}
+{111}{}{Me gustarÃ­a tener un poco de intimidad.}
 {112}{}{Hola, me alegro de verte.}
 {113}{}{Hola.}
 {200}{}{Hola.}
 {201}{}{Hola.}
-{202}{}{Buenos días.}
-{203}{}{¿Sí?}
-{204}{}{¿Qué?}
-{205}{}{¿Qué pasa?}
-{206}{}{¿Qué quieres?}
-{207}{}{¿Quieres algo?}
+{202}{}{Buenos dÃ­as.}
+{203}{}{Â¿SÃ­?}
+{204}{}{Â¿QuÃ©?}
+{205}{}{Â¿QuÃ© pasa?}
+{206}{}{Â¿QuÃ© quieres?}
+{207}{}{Â¿Quieres algo?}
 {209}{}{Vete.}
 {210}{}{Deja de molestarme.}
-{211}{}{Déjame tranquilo.}
-{212}{}{Estás empezando a enfadarme.}
-{213}{}{Él te ignora.}
+{211}{}{DÃ©jame tranquilo.}
+{212}{}{EstÃ¡s empezando a enfadarme.}
+{213}{}{Ã‰l te ignora.}
 {214}{}{Ella te ignora.}

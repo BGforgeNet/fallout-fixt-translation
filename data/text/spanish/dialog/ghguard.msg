@@ -1,17 +1,17 @@
-{100}{}{Estás viendo a un guardia necrófago.}
-{101}{}{Vamos a llevarte a ver a Set. Creo que querrá hablar contigo personalmente.}
-{102}{}{No deberías estar aquí...}
-{103}{}{Garret me dijo que estaba bien. También me dijo que le conseguiría no sé qué de la habitación de Set. ¿Sabes dónde está?}
-{104}{}{Vale. Debería marcharme.}
-{105}{}{¿Eh?}
-{106}{}{No suena demasiado bien. Será mejor que vengas conmigo.}
+{100}{}{EstÃ¡s viendo a un guardia necrÃ³fago.}
+{101}{}{Vamos a llevarte a ver a Set. Creo que querrÃ¡ hablar contigo personalmente.}
+{102}{}{No deberÃ­as estar aquÃ­...}
+{103}{}{Garret me dijo que estaba bien. TambiÃ©n me dijo que le conseguirÃ­a no sÃ© quÃ© de la habitaciÃ³n de Set. Â¿Sabes dÃ³nde estÃ¡?}
+{104}{}{Vale. DeberÃ­a marcharme.}
+{105}{}{Â¿Eh?}
+{106}{}{No suena demasiado bien. SerÃ¡ mejor que vengas conmigo.}
 {107}{}{Creo que no.}
 {108}{}{Vale.}
-{109}{}{No creo que quieras entrar en esa habitación.}
-{110}{}{¿Por qué no?}
-{111}{}{Vale, no quiero entrar en esa habitación. Ahora, ¿qué?}
-{112}{}{Creo que deberías marcharte.}
-{113}{}{Estamos aquí para asegurarnos que la gente que no pertenece a este lugar, no se cuele en la habitación de Set. No es por la seguridad de Set, sino por la de ellos. ¿Algo más?}
-{114}{}{Sí. Tienes los cordones desatados.}
+{109}{}{No creo que quieras entrar en esa habitaciÃ³n.}
+{110}{}{Â¿Por quÃ© no?}
+{111}{}{Vale, no quiero entrar en esa habitaciÃ³n. Ahora, Â¿quÃ©?}
+{112}{}{Creo que deberÃ­as marcharte.}
+{113}{}{Estamos aquÃ­ para asegurarnos que la gente que no pertenece a este lugar, no se cuele en la habitaciÃ³n de Set. No es por la seguridad de Set, sino por la de ellos. Â¿Algo mÃ¡s?}
+{114}{}{SÃ­. Tienes los cordones desatados.}
 {115}{}{No. Gracias.}
 {116}{}{Estoy de servicio. Vete.}

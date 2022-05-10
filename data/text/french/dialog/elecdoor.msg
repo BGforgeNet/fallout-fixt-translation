@@ -1,2 +1,2 @@
-{100}{}{Le verrou de cette porte est piégé.}
-{101}{}{Le piège est désamorcé.}
+{100}{}{Le verrou de cette porte est piÃ©gÃ©.}
+{101}{}{Le piÃ¨ge est dÃ©samorcÃ©.}

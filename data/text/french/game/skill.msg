@@ -1,7 +1,7 @@
 {100}{}{Small Guns}
 {101}{}{Big Guns}
 {102}{}{Energy Weapons}
-{103}{}{Corps à corps.}
+{103}{}{Corps Ã  corps.}
 {104}{}{Melee Weapons}
 {105}{}{Throwing}
 {106}{}{First Aid}

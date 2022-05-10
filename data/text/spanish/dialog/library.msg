@@ -1,1 +1,1 @@
-{100}{}{…sta es la biblioteca del Refugio. Hay m·quinas de aprendizaje conectadas al sistema central. Las m·quinas imparten conocimientos y habilidades a los habitantes.}
+{100}{}{√âsta es la biblioteca del Refugio. Hay m√°quinas de aprendizaje conectadas al sistema central. Las m√°quinas imparten conocimientos y habilidades a los habitantes.}

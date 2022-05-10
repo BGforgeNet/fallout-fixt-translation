@@ -1,9 +1,9 @@
 {100}{}{Scribe}
-{101}{}{La recherche est une des mes activités préférées. J'ai l'impression de tenter de résoudre un mystère.}
-{102}{}{Etre scribe, c'est ce qu'il y a de mieux. Tu étudies toutes les technologies anciennes et tu essaies d'en créer de nouvelles.}
-{103}{}{Ces terminaux pourraient être améliorés. Nous pourrions peut-être placer l'écran à cet endroit.}
-{104}{}{Pardon, je suis en plein milieu d'une éventuelle découverte. Je ne peux pas te parler.}
-{105}{}{Hé Initié. Tu pourrais devenir Scribe, si tu n'as pas encore fait ton choix.}
-{106}{}{Nous, les Scribes, nous concevons du matériel, des armes et des fournitures. C'est passionnant.}
-{107}{}{Ne me dérange pas, s'il te plaît. J'essaie de finir mes recherches.}
-{108}{}{C'est Vree, là-bas. Elle est scribe, elle aussi.}
+{101}{}{La recherche est une des mes activitÃ©s prÃ©fÃ©rÃ©es. J'ai l'impression de tenter de rÃ©soudre un mystÃ¨re.}
+{102}{}{Etre scribe, c'est ce qu'il y a de mieux. Tu Ã©tudies toutes les technologies anciennes et tu essaies d'en crÃ©er de nouvelles.}
+{103}{}{Ces terminaux pourraient Ãªtre amÃ©liorÃ©s. Nous pourrions peut-Ãªtre placer l'Ã©cran Ã  cet endroit.}
+{104}{}{Pardon, je suis en plein milieu d'une Ã©ventuelle dÃ©couverte. Je ne peux pas te parler.}
+{105}{}{HÃ© InitiÃ©. Tu pourrais devenir Scribe, si tu n'as pas encore fait ton choix.}
+{106}{}{Nous, les Scribes, nous concevons du matÃ©riel, des armes et des fournitures. C'est passionnant.}
+{107}{}{Ne me dÃ©range pas, s'il te plaÃ®t. J'essaie de finir mes recherches.}
+{108}{}{C'est Vree, lÃ -bas. Elle est scribe, elle aussi.}

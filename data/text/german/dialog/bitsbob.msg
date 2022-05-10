@@ -105,7 +105,7 @@
 {204}{}{Hmm, smell good! Me want prime!}
 {205}{}{How the hell am I gonna pay you if you eat all my stock? Fine! Have another iguana! I hope you choke on it!}
 {206}{}{I don't like your attitude.}
-{207}{}{Äh, Tschüss.}
+{207}{}{Ã„h, TschÃ¼ss.}
 {208}{}{Wait a minute. We've got to find a way to reach a mutual understanding!}
 {209}{}{The only way you'll be able to keep me quiet is to kill me.}
 {210}{}{Sorry, no deal.}

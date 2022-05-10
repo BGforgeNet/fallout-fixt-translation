@@ -1,50 +1,50 @@
 {100}{}{Ves: a Neal, el camarero.}
 {101}{}{Ves a un camarero.}
 {102}{}{Parece agotado por el trabajo.}
-{103}{}{¡Eh! No pensarás irte con eso, ¡ladrona!}
-{104}{}{Está cerrado. Vuelve a las cuatro o así.}
+{103}{}{Â¡Eh! No pensarÃ¡s irte con eso, Â¡ladrona!}
+{104}{}{EstÃ¡ cerrado. Vuelve a las cuatro o asÃ­.}
 {105}{}{Zzzzz...}
-{106}{}{Bienvenida a la Fosa Común. ¿Qué puedo hacer por ti?}
-{107}{}{Eh, tomaré algo.}
-{108}{}{Busco información.}
+{106}{}{Bienvenida a la Fosa ComÃºn. Â¿QuÃ© puedo hacer por ti?}
+{107}{}{Eh, tomarÃ© algo.}
+{108}{}{Busco informaciÃ³n.}
 {109}{}{Mi nombre es }
-{110}{}{ . ¿Qué es este lugar?}
-{111}{}{¡Iahhhhh!}
-{112}{}{Bien. ¿Qué quieres?}
+{110}{}{ . Â¿QuÃ© es este lugar?}
+{111}{}{Â¡Iahhhhh!}
+{112}{}{Bien. Â¿QuÃ© quieres?}
 {113}{}{Nuka-Cola, 3 chapas.}
 {114}{}{Cerveza, 5 chapas.}
 {115}{}{El especial de la casa, 20 chapas.}
-{116}{}{Bueno, ¿qué quieres saber?}
-{117}{}{¿Cuál es el chisme de esta ciudad?}
-{118}{}{¿Quién es ese tío raro de aspecto peligroso de la esquina?}
-{119}{}{¿Quiénes son los pesados?}
-{120}{}{[Neal te mira sarcásticamente un momento.] ¿Nunca has visto un bar, forastera? Este es mi local, el Fosa Común. Aquí se compran bebidas. Y me dejas propina.}
-{121}{}{Eh, bien. Lo sabía. ¿Puedo tomarme algo entonces?}
-{122}{}{Sí. Eee, ¿puedo saber algo más?}
+{116}{}{Bueno, Â¿quÃ© quieres saber?}
+{117}{}{Â¿CuÃ¡l es el chisme de esta ciudad?}
+{118}{}{Â¿QuiÃ©n es ese tÃ­o raro de aspecto peligroso de la esquina?}
+{119}{}{Â¿QuiÃ©nes son los pesados?}
+{120}{}{[Neal te mira sarcÃ¡sticamente un momento.] Â¿Nunca has visto un bar, forastera? Este es mi local, el Fosa ComÃºn. AquÃ­ se compran bebidas. Y me dejas propina.}
+{121}{}{Eh, bien. Lo sabÃ­a. Â¿Puedo tomarme algo entonces?}
+{122}{}{SÃ­. Eee, Â¿puedo saber algo mÃ¡s?}
 {123}{}{Oh. Gracias.}
-{124}{}{Sí, lo mismo digo, colega.}
-{125}{}{¿Y ese trofeo de la repisa?}
-{126}{}{Bien, justo ahí hacia el oeste está el Casino de Gizmo. Me sorprendería que no supieses nada de él; casi todo el mundo acaba gastándose las chapas allí. En el otro extremo de la ciudad están los grandes almacenes Killian y la Posada de Marcelles. Killian es un buen tipo, lleva un negocio ejemplar, tiene de todo. La Posada es donde duermes la mona cuando pasas demasiado tiempo en este bar. [Neal se ríe.]}
-{127}{}{Gracias. ¿Puedo tomar algo?}
-{128}{}{Gracias por la información. Nos veremos.}
-{129}{}{El tipo se llama Tico. Parece ser un Ranger del este o algo así. Un buen luchador, según he oído, pero de carácter algo difícil.}
-{130}{}{¿Te importa si te pregunto algo más?}
-{131}{}{Oh, esos. Son los Kalaveras. Es una banda local. Todo gentuza. A veces tienen broncas o causan pequeños problemas. Pero normalmente Killian los mantiene a raya.}
-{132}{}{Aquí tienes. Que te aproveche.}
-{133}{}{¡Eh! ¡Te llevas mi urna!}
-{134}{}{No es un trofeo, es una urna. Contiene las cenizas de mi mujer... Además del bar, es la cosa más importante de mi vida.}
-{135}{}{¿Algo más?}
-{136}{}{Busco más información.}
+{124}{}{SÃ­, lo mismo digo, colega.}
+{125}{}{Â¿Y ese trofeo de la repisa?}
+{126}{}{Bien, justo ahÃ­ hacia el oeste estÃ¡ el Casino de Gizmo. Me sorprenderÃ­a que no supieses nada de Ã©l; casi todo el mundo acaba gastÃ¡ndose las chapas allÃ­. En el otro extremo de la ciudad estÃ¡n los grandes almacenes Killian y la Posada de Marcelles. Killian es un buen tipo, lleva un negocio ejemplar, tiene de todo. La Posada es donde duermes la mona cuando pasas demasiado tiempo en este bar. [Neal se rÃ­e.]}
+{127}{}{Gracias. Â¿Puedo tomar algo?}
+{128}{}{Gracias por la informaciÃ³n. Nos veremos.}
+{129}{}{El tipo se llama Tico. Parece ser un Ranger del este o algo asÃ­. Un buen luchador, segÃºn he oÃ­do, pero de carÃ¡cter algo difÃ­cil.}
+{130}{}{Â¿Te importa si te pregunto algo mÃ¡s?}
+{131}{}{Oh, esos. Son los Kalaveras. Es una banda local. Todo gentuza. A veces tienen broncas o causan pequeÃ±os problemas. Pero normalmente Killian los mantiene a raya.}
+{132}{}{AquÃ­ tienes. Que te aproveche.}
+{133}{}{Â¡Eh! Â¡Te llevas mi urna!}
+{134}{}{No es un trofeo, es una urna. Contiene las cenizas de mi mujer... AdemÃ¡s del bar, es la cosa mÃ¡s importante de mi vida.}
+{135}{}{Â¿Algo mÃ¡s?}
+{136}{}{Busco mÃ¡s informaciÃ³n.}
 {137}{}{No, gracias.}
 {138}{}{Oh.}
-{139}{}{Sí, tomaré algo.}
+{139}{}{SÃ­, tomarÃ© algo.}
 {140}{}{Vuelve cuando tengas chapas.}
-{141}{}{¿Qué quieres tomar, colega?}
-{142}{}{¿Qué pasó con el trofeo que había ahí encima?}
-{143}{}{Gracias. No sabes lo que significa para mí. No volverás a pagar una copa en este bar.}
-{144}{}{Aquí tienes tu urna.}
-{145}{}{Algún cabrito la robó. No era un trofeo, era una urna. Contenía las cenizas de mi mujer... la cosa más importante de mi vida, además del bar}
-{146}{}{Marchaos de una puñetera vez, jodidos punkis. ¡Si alguno de vosotros vuelve a tocarla, os mataré a todos!}
-{147}{}{¡El día que no pueda controlar a mierdecillas como vosotros, me moriré!}
-{148}{}{¿Qué diablos pasa? Está cerrado. ¡Fuera de aquí ya!}
-{149}{}{¡Sí, estúpidos, os enseñaré un par de cosas!}
+{141}{}{Â¿QuÃ© quieres tomar, colega?}
+{142}{}{Â¿QuÃ© pasÃ³ con el trofeo que habÃ­a ahÃ­ encima?}
+{143}{}{Gracias. No sabes lo que significa para mÃ­. No volverÃ¡s a pagar una copa en este bar.}
+{144}{}{AquÃ­ tienes tu urna.}
+{145}{}{AlgÃºn cabrito la robÃ³. No era un trofeo, era una urna. ContenÃ­a las cenizas de mi mujer... la cosa mÃ¡s importante de mi vida, ademÃ¡s del bar}
+{146}{}{Marchaos de una puÃ±etera vez, jodidos punkis. Â¡Si alguno de vosotros vuelve a tocarla, os matarÃ© a todos!}
+{147}{}{Â¡El dÃ­a que no pueda controlar a mierdecillas como vosotros, me morirÃ©!}
+{148}{}{Â¿QuÃ© diablos pasa? EstÃ¡ cerrado. Â¡Fuera de aquÃ­ ya!}
+{149}{}{Â¡SÃ­, estÃºpidos, os enseÃ±arÃ© un par de cosas!}

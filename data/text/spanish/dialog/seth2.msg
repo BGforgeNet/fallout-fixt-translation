@@ -1,3 +1,3 @@
-{100}{}{Ves: a Seth, el guía de vuelta a Arenas Sombrías.}
+{100}{}{Ves: a Seth, el guÃ­a de vuelta a Arenas SombrÃ­as.}
 {101}{}{Deprisa. Vamos a eliminar a estos escorpiones rad.}
-{102}{}{Volvamos a Arenas Sombrías y hagámosles saber que ya no hay escorpiones rad.}
+{102}{}{Volvamos a Arenas SombrÃ­as y hagÃ¡mosles saber que ya no hay escorpiones rad.}

@@ -7,7 +7,7 @@
 {106}{}{Ja?}
 {107}{}{Was machst du hier?}
 {108}{}{A tough guy, eh? I bet I could take you.}
-{109}{}{Ich heiﬂe }
+{109}{}{Ich hei√üe }
 {110}{}{. Just taking a look around.}
 {111}{}{[Saul laughs heartily.] Why, I am a boxer!}
 {112}{}{Ah, I could kick your ass.}

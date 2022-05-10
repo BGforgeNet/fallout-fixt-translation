@@ -11,43 +11,43 @@
 {110}{}{Tu penses que c'est Razor.}
 {111}{}{Que fais-tu ici ?}
 {112}{}{Hhrrrnnn.}
-{113}{}{Rien. Sincèrement.}
-{114}{}{Oh, simple curiosité...}
+{113}{}{Rien. SincÃ¨rement.}
+{114}{}{Oh, simple curiositÃ©...}
 {115}{}{Ca ! *smack*}
-{116}{}{Un imbécile. Je pense que tu ferais mieux de partir d'ici. Sinon, tu risques de devenir une cible d'entrainement.}
+{116}{}{Un imbÃ©cile. Je pense que tu ferais mieux de partir d'ici. Sinon, tu risques de devenir une cible d'entrainement.}
 {117}{}{Arroo !}
 {118}{}{Arook.}
-{119}{}{Rien, eh ? Je pense que tu mijotes quelque chose. Dégage avant que tes intestins deviennent visibles aux yeux de tous.}
+{119}{}{Rien, eh ? Je pense que tu mijotes quelque chose. DÃ©gage avant que tes intestins deviennent visibles aux yeux de tous.}
 {120}{}{Je suis vraiment un Martien.}
-{121}{}{Je suis là pour arrêter la guerre des gangs.}
-{122}{}{Je ne suis pas là pour quoi que ce soit.}
-{123}{}{Je suis là pour ça ! *smack*}
+{121}{}{Je suis lÃ  pour arrÃªter la guerre des gangs.}
+{122}{}{Je ne suis pas lÃ  pour quoi que ce soit.}
+{123}{}{Je suis lÃ  pour Ã§a ! *smack*}
 {124}{}{Tout le monde sait que de telles choses comme des Martiens n'existent pas. Tous les vrais extraterrestres viennent de Venus. Maintenant, tu meurs !}
-{125}{}{Bien sûr, et je suis la reine du Mexique.}
-{126}{}{Sincèrement. Je veux arrêter les guerres et ainsi aider le Sanctuaire.}
-{127}{}{Votre Majesté, je cherche vraiment à mettre fin aux guerres.}
-{128}{}{Si ton niveau d'intelligence était plus élevé, j'aurai essayé de t'expliquer les bénéfices de la paix.}
-{129}{}{Si tu es là pour faire ça, alors tu as besoin de trouver Razor. Elle te laissera savoir ce que nous pensons de la situation.}
+{125}{}{Bien sÃ»r, et je suis la reine du Mexique.}
+{126}{}{SincÃ¨rement. Je veux arrÃªter les guerres et ainsi aider le Sanctuaire.}
+{127}{}{Votre MajestÃ©, je cherche vraiment Ã  mettre fin aux guerres.}
+{128}{}{Si ton niveau d'intelligence Ã©tait plus Ã©levÃ©, j'aurai essayÃ© de t'expliquer les bÃ©nÃ©fices de la paix.}
+{129}{}{Si tu es lÃ  pour faire Ã§a, alors tu as besoin de trouver Razor. Elle te laissera savoir ce que nous pensons de la situation.}
 {130}{}{Uh, Merci. Enfin, je crois.}
 {131}{}{D'accord. Salut.}
-{132}{}{Tu te moques de moi, n'est-ce pas ? Je suppose que je ne dois pas attendre plus d'un enfant. Oh, de toutes façons. Voilà !}
-{133}{}{De belles paroles ne vont pas t'amener très loin. Et ici, ça va t'amener six pieds sous terre.}
-{134}{}{Si tu es là pour rien, alors nous allons te donner un rôle. Je pense que 'cible' fera un bon rôle.}
-{135}{}{Tu as vu. Maintenant, que veux-tu ? Réfléchis vite. Ca peut faire la différence entre sortir d'ici et devenir un résident permanent.}
+{132}{}{Tu te moques de moi, n'est-ce pas ? Je suppose que je ne dois pas attendre plus d'un enfant. Oh, de toutes faÃ§ons. VoilÃ  !}
+{133}{}{De belles paroles ne vont pas t'amener trÃ¨s loin. Et ici, Ã§a va t'amener six pieds sous terre.}
+{134}{}{Si tu es lÃ  pour rien, alors nous allons te donner un rÃ´le. Je pense que 'cible' fera un bon rÃ´le.}
+{135}{}{Tu as vu. Maintenant, que veux-tu ? RÃ©flÃ©chis vite. Ca peut faire la diffÃ©rence entre sortir d'ici et devenir un rÃ©sident permanent.}
 {136}{}{J'aimerai vivre ici.}
-{137}{}{Je suis vraiment un Eventreur déguisé.}
+{137}{}{Je suis vraiment un Eventreur dÃ©guisÃ©.}
 {138}{}{Je veux amener la paix aux gangs.}
 {139}{}{Quitter.}
-{140}{}{Rien de spécial. Je regarde seulement les ordures pour leur recyclage.}
-{141}{}{Nous ne disons jamais rien pour l'habitat. Tu peux juste t'installer ici. Indéfiniment. Profite de ton séjour.}
-{142}{}{Je suis ravie de ce que tu dis. J'ai besoin d'affuter ça. }
-{143}{}{J'aurai bientôt une peau pour l'aiguiser dessus}
-{144}{}{Pas si vite. La seule manière pour quelqu'un de partir d'ici est soit d'être un Ecorcheur, soit dans un sac.}
-{145}{}{Alors je veux être un Ecorcheur.}
+{140}{}{Rien de spÃ©cial. Je regarde seulement les ordures pour leur recyclage.}
+{141}{}{Nous ne disons jamais rien pour l'habitat. Tu peux juste t'installer ici. IndÃ©finiment. Profite de ton sÃ©jour.}
+{142}{}{Je suis ravie de ce que tu dis. J'ai besoin d'affuter Ã§a. }
+{143}{}{J'aurai bientÃ´t une peau pour l'aiguiser dessus}
+{144}{}{Pas si vite. La seule maniÃ¨re pour quelqu'un de partir d'ici est soit d'Ãªtre un Ecorcheur, soit dans un sac.}
+{145}{}{Alors je veux Ãªtre un Ecorcheur.}
 {146}{}{Le sac est grand comment ?}
-{147}{}{Tu oublies la troisième option. Moi !}
-{148}{}{La chance du débutant. Mais, ce n'est qu'un test. Si tu peux trouver Razor, alors parle de ce sujet avec elle.}
+{147}{}{Tu oublies la troisiÃ¨me option. Moi !}
+{148}{}{La chance du dÃ©butant. Mais, ce n'est qu'un test. Si tu peux trouver Razor, alors parle de ce sujet avec elle.}
 {149}{}{Assez gros pour y foutre les morceaux de ton corps dedans quand nous aurons fini.}
-{150}{}{Je ne suis pas la Belle aux Bois Dormants. Je n'ai pas besoin d'être réveillée. Décampe ou meurs.}
-{151}{}{J'ai entendu que tu étais là pour la tête de ce bâtard. Donne-lui un coup de couteau supplémentaire de ma part.}
-{152}{}{Contente de te revoir. Notre tannière est ouverte et prête à t'accueillir à nouveau.}
+{150}{}{Je ne suis pas la Belle aux Bois Dormants. Je n'ai pas besoin d'Ãªtre rÃ©veillÃ©e. DÃ©campe ou meurs.}
+{151}{}{J'ai entendu que tu Ã©tais lÃ  pour la tÃªte de ce bÃ¢tard. Donne-lui un coup de couteau supplÃ©mentaire de ma part.}
+{152}{}{Contente de te revoir. Notre tanniÃ¨re est ouverte et prÃªte Ã  t'accueillir Ã  nouveau.}

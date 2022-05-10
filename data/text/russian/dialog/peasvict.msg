@@ -1,7 +1,7 @@
 {111}{}{We're under attack!}
 {112}{}{Help, please!}
-{113}{}{Помогите!}
-{114}{}{О нет...}
+{113}{}{РџРѕРјРѕРіРёС‚Рµ!}
+{114}{}{Рћ РЅРµС‚...}
 {115}{}{I don't want to die today...}
 {116}{}{Please help us...}
 {117}{}{Please save us!}
@@ -18,6 +18,6 @@
 {128}{}{We're in your debt, friend. Please accept these }
 {129}{}{ caps as a token of our appreciate for taking care of those raiders.}
 {130}{}{Thank you for helping us against those damned drunken raiders. For you assistance, we award you these }
-{131}{}{ крышек.}
+{131}{}{ РєСЂС‹С€РµРє.}
 {132}{}{We pooled these }
 {133}{}{ caps together and award them to you for your help in defending us against that scum. Farewall, and safe travels!}

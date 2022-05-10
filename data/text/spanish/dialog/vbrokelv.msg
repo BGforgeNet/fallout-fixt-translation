@@ -1,3 +1,3 @@
-{100}{}{Ves un cartel en la puerta que dice que el ascensor est· fuera de servicio.}
-{101}{}{Ves un cartel en la puerta diciendo que est· fuera de servicio.}
-{102}{}{Un cartel dice: Aviso: Hueco del ascensor en construcciÛn. Por favor, use otro ascensor.}
+{100}{}{Ves un cartel en la puerta que dice que el ascensor est√° fuera de servicio.}
+{101}{}{Ves un cartel en la puerta diciendo que est√° fuera de servicio.}
+{102}{}{Un cartel dice: Aviso: Hueco del ascensor en construcci√≥n. Por favor, use otro ascensor.}

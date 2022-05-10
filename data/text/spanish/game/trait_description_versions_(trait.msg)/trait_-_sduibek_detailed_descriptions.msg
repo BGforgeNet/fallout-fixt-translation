@@ -8,20 +8,20 @@
 #
 #   TRAIT NAMES
 #
-{100}{}{Metabolismo r·pido}
+{100}{}{Metabolismo r√°pido}
 {101}{}{Fornido}
 {102}{}{Enjuto}
 {103}{}{Mano dominante}
 {104}{}{Refinado}
 {105}{}{Kamikaze}
 {106}{}{Bestia}
-{107}{}{Tirador r·pido}
+{107}{}{Tirador r√°pido}
 {108}{}{Masacre}
 {109}{}{Gafe}
 {110}{}{Buena persona}
 {111}{}{Enganchado}
 {112}{}{Inmunizado}
-{113}{}{Noct·mbulo}
+{113}{}{Noct√°mbulo}
 {114}{}{Habilidoso}
 {115}{}{Capacitado}
 #
@@ -33,19 +33,19 @@
 ##                   This means you will need to tweak the translation and number of spaces as needed, if you want to obtain the separation. (You don't have to, it's mostly cosmetic and to slightly increase readability)
 ##
 ##
-{200}{}{Tu tasa metabÛlica es el doble de lo normal. Dado que tu cuerpo sana m·s r·pido, este no ha desarrollado una resistencia normal a los elementos. +2 en Ritmo de CuraciÛn, pero la Res. a la RadiaciÛn y al Veneno empiezan en 0%.}
-{201}{}{Algo m·s lenta pero m·s fuerte. Puede que no golpees con tanta frecuencia, °pero lo sentir·n cuando lo hagas!                      +2 Fuerza, -2 Puntos de AcciÛn.}
-{202}{}{No eres tan grande como los otros habitantes del Refugio, pero eso nunca te ha detenido. +1 Agilidad, pero el Peso M·x. disminuye en 10 veces tu fuerza. (-10 lb en FUE 1 hasta -100 lb en FUE 10).}
-{203}{}{Una de tus manos es muy dominante. Eres infalible con las armas de una sola mano.  +20% de Posibilidades de Acertar con todas las armas de una mano (incluyendo melÈ y desarmado), pero  -40% de posibilidades con armas de 2 manos.}
-{204}{}{Tus ataques demuestran mucha precisiÛn. No causas daÒo con tanta frecuencia pero tus golpes son certeros. +10% DaÒo CrÌtico, pero tus ataques hacen un -30% menos de daÒo.}
-{205}{}{Como no prestas atenciÛn a las amenazas, act˙as con mucha m·s rapidez en un turno de combate. +5 Secuencia, pero tu Clase de Armadura es de 0 a no ser que lleves armadura.}
-{206}{}{Atacas con m·s crudeza pero no mejor. Tus ataques son muy brutales e imprecisos. +4 DaÒo en MelÈ, pero -30% en la tabla de CrÌticos (el aumento en el daÒo y otras efectos de los CrÌticos se reducen y/o son menos probables).}
-{207}{}{Atacas m·s r·pido de lo normal, asÌ que no tienes tiempo de hacer ataques precisos. Todos los ataques cuestan      1 Punto de AcciÛn menos, pero ya no puedes hacer ataques en zonas especÌficas del cuerpo.}
-{208}{}{Por alguna razÛn del destino, la gente que te rodea muere de forma violenta. Eres testigo constante de las peores muertes. No habÌas visto tal cantidad de violencia en el Refugio, asÌ que puede que tenga efectos inesperados.}
-{209}{}{El caos te sigue adonde vayas. Todos los que te rodean tienen m·s fallos crÌticos. °Lo malo es que t˙ tambiÈn! Los fallos durante combate tienen altas posibilidades de convertirse en un fallo crÌtico.}
-{210}{}{De joven te pasaste m·s tiempo estudiando habilidades sin relaciÛn con el combate. +15% en 1∫ Auxilios, MÈdico, ConversaciÛn y Trueque, pero -10% en Armas PequeÒas, Grandes, de EnergÌa, Arrojadizas, de MelÈ y Desarmado.}
-{211}{}{Disfrutas demasiado de tus viajes al mÈdico del Refugio. Te recuperas el doble de r·pido de los efectos adversos de las drogas, pero las posibilidades de convertirte en un adicto son tambiÈn el doble de lo normal.}
-{212}{}{Eres resistente a todas las drogas y f·rmacos. Esto causÛ mucha frustraciÛn al mÈdico del Refugio. -50% de posibilidades de convertirte en un adicto, pero los efectos de las drogas se van en la mitad del tiempo.}
-{213}{}{Un b˙ho incluso desde niÒo, est·s m·s atento y despierto cuando el sol se pone. +1 de Inteligencia y +1 de PercepciÛn entre las 6:01 p. m. y 6:00 a. m., pero -1 de Inteligencia y -1 de PercepciÛn entre las 6:01 a. m. y 6:00 p. m.}
-{214}{}{Dedicaste m·s tiempo a tus estudios porque naciste con menos potencial que la mayorÌa. +10% en todas las habilidades, +5 Pts de Habilidad por nivel, pero ganar·s una Ventaja cada cuatro niveles en vez de cada tres.}
-{215}{}{Tienes m·s habilidades y talentos innatos que la mayorÌa, pero has ignorado tus estudios. Adquieres +1 en tus estadÌsticas primarias, pero al comenzar recibes -10% en todas las habilidades y 5 puntos de habilidad menos por nivel.}
+{200}{}{Tu tasa metab√≥lica es el doble de lo normal. Dado que tu cuerpo sana m√°s r√°pido, este no ha desarrollado una resistencia normal a los elementos. +2 en Ritmo de Curaci√≥n, pero la Res. a la Radiaci√≥n y al Veneno empiezan en 0%.}
+{201}{}{Algo m√°s lenta pero m√°s fuerte. Puede que no golpees con tanta frecuencia, ¬°pero lo sentir√°n cuando lo hagas!                      +2 Fuerza, -2 Puntos de Acci√≥n.}
+{202}{}{No eres tan grande como los otros habitantes del Refugio, pero eso nunca te ha detenido. +1 Agilidad, pero el Peso M√°x. disminuye en 10 veces tu fuerza. (-10 lb en FUE 1 hasta -100 lb en FUE 10).}
+{203}{}{Una de tus manos es muy dominante. Eres infalible con las armas de una sola mano.  +20% de Posibilidades de Acertar con todas las armas de una mano (incluyendo mel√© y desarmado), pero  -40% de posibilidades con armas de 2 manos.}
+{204}{}{Tus ataques demuestran mucha precisi√≥n. No causas da√±o con tanta frecuencia pero tus golpes son certeros. +10% Da√±o Cr√≠tico, pero tus ataques hacen un -30% menos de da√±o.}
+{205}{}{Como no prestas atenci√≥n a las amenazas, act√∫as con mucha m√°s rapidez en un turno de combate. +5 Secuencia, pero tu Clase de Armadura es de 0 a no ser que lleves armadura.}
+{206}{}{Atacas con m√°s crudeza pero no mejor. Tus ataques son muy brutales e imprecisos. +4 Da√±o en Mel√©, pero -30% en la tabla de Cr√≠ticos (el aumento en el da√±o y otras efectos de los Cr√≠ticos se reducen y/o son menos probables).}
+{207}{}{Atacas m√°s r√°pido de lo normal, as√≠ que no tienes tiempo de hacer ataques precisos. Todos los ataques cuestan      1 Punto de Acci√≥n menos, pero ya no puedes hacer ataques en zonas espec√≠ficas del cuerpo.}
+{208}{}{Por alguna raz√≥n del destino, la gente que te rodea muere de forma violenta. Eres testigo constante de las peores muertes. No hab√≠as visto tal cantidad de violencia en el Refugio, as√≠ que puede que tenga efectos inesperados.}
+{209}{}{El caos te sigue adonde vayas. Todos los que te rodean tienen m√°s fallos cr√≠ticos. ¬°Lo malo es que t√∫ tambi√©n! Los fallos durante combate tienen altas posibilidades de convertirse en un fallo cr√≠tico.}
+{210}{}{De joven te pasaste m√°s tiempo estudiando habilidades sin relaci√≥n con el combate. +15% en 1¬∫ Auxilios, M√©dico, Conversaci√≥n y Trueque, pero -10% en Armas Peque√±as, Grandes, de Energ√≠a, Arrojadizas, de Mel√© y Desarmado.}
+{211}{}{Disfrutas demasiado de tus viajes al m√©dico del Refugio. Te recuperas el doble de r√°pido de los efectos adversos de las drogas, pero las posibilidades de convertirte en un adicto son tambi√©n el doble de lo normal.}
+{212}{}{Eres resistente a todas las drogas y f√°rmacos. Esto caus√≥ mucha frustraci√≥n al m√©dico del Refugio. -50% de posibilidades de convertirte en un adicto, pero los efectos de las drogas se van en la mitad del tiempo.}
+{213}{}{Un b√∫ho incluso desde ni√±o, est√°s m√°s atento y despierto cuando el sol se pone. +1 de Inteligencia y +1 de Percepci√≥n entre las 6:01 p. m. y 6:00 a. m., pero -1 de Inteligencia y -1 de Percepci√≥n entre las 6:01 a. m. y 6:00 p. m.}
+{214}{}{Dedicaste m√°s tiempo a tus estudios porque naciste con menos potencial que la mayor√≠a. +10% en todas las habilidades, +5 Pts de Habilidad por nivel, pero ganar√°s una Ventaja cada cuatro niveles en vez de cada tres.}
+{215}{}{Tienes m√°s habilidades y talentos innatos que la mayor√≠a, pero has ignorado tus estudios. Adquieres +1 en tus estad√≠sticas primarias, pero al comenzar recibes -10% en todas las habilidades y 5 puntos de habilidad menos por nivel.}

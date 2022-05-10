@@ -1,16 +1,16 @@
-{100}{}{Estás viendo a un Niño de muy mal humor.}
-{101}{}{¡Fuera de mi vista, hijo de puta!}
-{102}{}{¡Aléjate de mi!}
-{103}{}{¿Qué diablos quieres?}
-{104}{}{¿Dónde puedo encontrar al Maestro?}
-{105}{}{Descubrir lo que ocurre por aquí.}
-{106}{}{¿Quién está al mando aquí?}
-{107}{}{Eh, ¡anciana! ¡Bebamos algo!}
-{108}{}{Añadir tus orejas a mi colección.}
-{109}{}{¡No querer diablos! ¡Idiota!}
+{100}{}{EstÃ¡s viendo a un NiÃ±o de muy mal humor.}
+{101}{}{Â¡Fuera de mi vista, hijo de puta!}
+{102}{}{Â¡AlÃ©jate de mi!}
+{103}{}{Â¿QuÃ© diablos quieres?}
+{104}{}{Â¿DÃ³nde puedo encontrar al Maestro?}
+{105}{}{Descubrir lo que ocurre por aquÃ­.}
+{106}{}{Â¿QuiÃ©n estÃ¡ al mando aquÃ­?}
+{107}{}{Eh, Â¡anciana! Â¡Bebamos algo!}
+{108}{}{AÃ±adir tus orejas a mi colecciÃ³n.}
+{109}{}{Â¡No querer diablos! Â¡Idiota!}
 {110}{}{Al diablo, perdedor.}
-{111}{}{¿Siempre haces preguntas estúpidas, gili?}
-{112}{}{Diablos, seguro que tú no, idiota.}
-{113}{}{¿Qué te hace pensar que quiero beber contigo, rata de cloaca?}
-{114}{}{¡Vete antes de que te mate!}
+{111}{}{Â¿Siempre haces preguntas estÃºpidas, gili?}
+{112}{}{Diablos, seguro que tÃº no, idiota.}
+{113}{}{Â¿QuÃ© te hace pensar que quiero beber contigo, rata de cloaca?}
+{114}{}{Â¡Vete antes de que te mate!}
 {115}{}{[Hecho]}

@@ -1,8 +1,8 @@
 {100}{}{Ves a un prisionero.}
-{101}{}{¡No maté a nadie!}
-{102}{}{¡Soy inocente!}
-{103}{}{¿Qué estás mirando?}
-{104}{}{Solo lo estaba tomando prestado. ¡Es justo!}
-{105}{}{¿Dónde está mi pan y mi agua?}
-{106}{}{¡Me han acusado!}
+{101}{}{Â¡No matÃ© a nadie!}
+{102}{}{Â¡Soy inocente!}
+{103}{}{Â¿QuÃ© estÃ¡s mirando?}
+{104}{}{Solo lo estaba tomando prestado. Â¡Es justo!}
+{105}{}{Â¿DÃ³nde estÃ¡ mi pan y mi agua?}
+{106}{}{Â¡Me han acusado!}
 {107}{}{Nadie sabe los problemas que tengo...}

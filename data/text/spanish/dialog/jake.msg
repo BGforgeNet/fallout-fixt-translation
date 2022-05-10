@@ -1,45 +1,45 @@
 {100}{}{You see: Jake of the Followers.}
-{101}{}{Estás viendo a un Seguidor del Apocalipsis.}
-{102}{}{¡Bienvenido! ¿En qué puedo ayudarte en el día de hoy?}
-{103}{}{¡Yo ayuda! ¡Yo ayuda!}
-{104}{}{He oído que eres un guerrero decente. Averigüémoslo.}
-{105}{}{He oído que necesitas ayuda. ¿Cuál es el problema?}
-{106}{}{¿Qué puedes contarme de los Seguidores?}
-{107}{}{¿Quieres ayudar? No creo que seas lo bastante bueno para ayudarme. Ve a hablar con Neil.}
-{108}{}{Me encantaría luchar contigo, pero estoy muy liado ahora mismo ayudando a Nicole.}
-{109}{}{Que te lo crees. Me pareces un gusano más.}
-{110}{}{Tú mismo. Adiós.}
-{111}{}{¿Cómo un gusano como tú es el segundo en el mando?}
+{101}{}{EstÃ¡s viendo a un Seguidor del Apocalipsis.}
+{102}{}{Â¡Bienvenido! Â¿En quÃ© puedo ayudarte en el dÃ­a de hoy?}
+{103}{}{Â¡Yo ayuda! Â¡Yo ayuda!}
+{104}{}{He oÃ­do que eres un guerrero decente. AverigÃ¼Ã©moslo.}
+{105}{}{He oÃ­do que necesitas ayuda. Â¿CuÃ¡l es el problema?}
+{106}{}{Â¿QuÃ© puedes contarme de los Seguidores?}
+{107}{}{Â¿Quieres ayudar? No creo que seas lo bastante bueno para ayudarme. Ve a hablar con Neil.}
+{108}{}{Me encantarÃ­a luchar contigo, pero estoy muy liado ahora mismo ayudando a Nicole.}
+{109}{}{Que te lo crees. Me pareces un gusano mÃ¡s.}
+{110}{}{TÃº mismo. AdiÃ³s.}
+{111}{}{Â¿CÃ³mo un gusano como tÃº es el segundo en el mando?}
 {112}{}{Ey. Solo porque no quiera luchar no significa que sea un gusano. No creo que ni me parezca.}
-{113}{}{Tenía razón. Eres un gusano.}
-{114}{}{Algunos de nosotros usamos nuestros cerebros para llegar más lejos. Se puede hacer mucho pacíficamente y pensando.}
-{115}{}{Entonces, ¿cuándo vas a usar el tuyo?}
-{116}{}{Tienes razón. Lo siento.}
-{117}{}{Eso es todo. No voy a hablar más contigo.}
-{118}{}{Así está mejor... Tengo un problema con un espía que ronda por aquí. ¿Me ayudarás?}
-{119}{}{Sí. ¿Qué pasa?}
-{120}{}{Apáñatelas tú si eres tan genial.}
-{121}{}{Solo he dicho que tenemos un espía por aquí. Creo que uno de los guardias podría ser el espía... o podría ser un explorador. Esos son los únicos grupos que tienen acceso a los Niños.}
-{122}{}{Vale. Iré a coger a tu espía y acabar con el problema.}
-{123}{}{¿Tienes alguna pista de este espía?}
-{124}{}{Olvídalo. No te ayudaré.}
-{125}{}{Muchas gracias. ¡Ahora vete!}
-{126}{}{En realidad nada. Lo único que sé sobre él es que montones de información de bajo nivel está llegando a los Niños. Eso no es bueno. Heather piensa que puede ser tanto Neil como Peter.}
-{127}{}{Vale. Iré a comprobar eso.}
-{128}{}{Olvídalo. No te ayudaré.}
+{113}{}{TenÃ­a razÃ³n. Eres un gusano.}
+{114}{}{Algunos de nosotros usamos nuestros cerebros para llegar mÃ¡s lejos. Se puede hacer mucho pacÃ­ficamente y pensando.}
+{115}{}{Entonces, Â¿cuÃ¡ndo vas a usar el tuyo?}
+{116}{}{Tienes razÃ³n. Lo siento.}
+{117}{}{Eso es todo. No voy a hablar mÃ¡s contigo.}
+{118}{}{AsÃ­ estÃ¡ mejor... Tengo un problema con un espÃ­a que ronda por aquÃ­. Â¿Me ayudarÃ¡s?}
+{119}{}{SÃ­. Â¿QuÃ© pasa?}
+{120}{}{ApÃ¡Ã±atelas tÃº si eres tan genial.}
+{121}{}{Solo he dicho que tenemos un espÃ­a por aquÃ­. Creo que uno de los guardias podrÃ­a ser el espÃ­a... o podrÃ­a ser un explorador. Esos son los Ãºnicos grupos que tienen acceso a los NiÃ±os.}
+{122}{}{Vale. IrÃ© a coger a tu espÃ­a y acabar con el problema.}
+{123}{}{Â¿Tienes alguna pista de este espÃ­a?}
+{124}{}{OlvÃ­dalo. No te ayudarÃ©.}
+{125}{}{Muchas gracias. Â¡Ahora vete!}
+{126}{}{En realidad nada. Lo Ãºnico que sÃ© sobre Ã©l es que montones de informaciÃ³n de bajo nivel estÃ¡ llegando a los NiÃ±os. Eso no es bueno. Heather piensa que puede ser tanto Neil como Peter.}
+{127}{}{Vale. IrÃ© a comprobar eso.}
+{128}{}{OlvÃ­dalo. No te ayudarÃ©.}
 {129}{}{Entonces no puedo dejar que te vayas.}
-{130}{}{Lo haré. ¡Adiós!}
-{131}{}{Estamos teniendo problemas con parte de nuestra información y vemos como cae en manos de los Niños. Creo que hay un espía.}
-{132}{}{Vale. Entonces, ¿cuál es el problema?}
-{133}{}{Vale, me encargaré de este espía.}
-{134}{}{¿Tienes ya alguna pista?}
-{135}{}{Olvídalo. No te ayudaré.}
-{136}{}{En este momento, no puedo decirte nada. Adiós.}
+{130}{}{Lo harÃ©. Â¡AdiÃ³s!}
+{131}{}{Estamos teniendo problemas con parte de nuestra informaciÃ³n y vemos como cae en manos de los NiÃ±os. Creo que hay un espÃ­a.}
+{132}{}{Vale. Entonces, Â¿cuÃ¡l es el problema?}
+{133}{}{Vale, me encargarÃ© de este espÃ­a.}
+{134}{}{Â¿Tienes ya alguna pista?}
+{135}{}{OlvÃ­dalo. No te ayudarÃ©.}
+{136}{}{En este momento, no puedo decirte nada. AdiÃ³s.}
 {137}{}{Estoy intentando dormir. No me molestes.}
-{138}{}{¡Date prisa y encuentra esa basura vil!}
-{139}{}{Ya sabía que era Heather. Desde el principio que ha sido una embustera. Debería haberles dicho a todos lo que pensaba desde un principio.}
-{140}{}{No aprendí nada de ti. Tu entrenamiento fue inútil.}
+{138}{}{Â¡Date prisa y encuentra esa basura vil!}
+{139}{}{Ya sabÃ­a que era Heather. Desde el principio que ha sido una embustera. DeberÃ­a haberles dicho a todos lo que pensaba desde un principio.}
+{140}{}{No aprendÃ­ nada de ti. Tu entrenamiento fue inÃºtil.}
 {141}{}{Tengo un paquete para ti de parte de Gabriel.}
 {142}{}{Mmm. Ya veo. Gracias.}
 {143}{}{Por todos los diablos, vete.}
-{144}{}{Es el camino difícil. Siempre es el camino difícil.}
+{144}{}{Es el camino difÃ­cil. Siempre es el camino difÃ­cil.}

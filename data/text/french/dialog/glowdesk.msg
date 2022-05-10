@@ -1,4 +1,4 @@
-{100}{}{Le tiroir du bureau est coincé.}
+{100}{}{Le tiroir du bureau est coincÃ©.}
 {101}{}{Tu forces le tiroir.}
-{102}{}{Le tiroir résiste.}
-{103}{}{Cette compétence n'a aucun effet sur le bureau.}
+{102}{}{Le tiroir rÃ©siste.}
+{103}{}{Cette compÃ©tence n'a aucun effet sur le bureau.}

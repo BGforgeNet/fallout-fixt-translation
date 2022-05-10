@@ -32,7 +32,7 @@
 {131}{}{You'd better put your weapons away while you're here.}
 {132}{}{A thief, eh? Let me show you what we do to your kind here!}
 {133}{}{[Fertig]}
-{134}{}{Pass bloﬂ auf.}
+{134}{}{Pass blo√ü auf.}
 {135}{}{We're watching you.}
 {136}{}{Stay in line.}
 {137}{}{What 'da looking at.}

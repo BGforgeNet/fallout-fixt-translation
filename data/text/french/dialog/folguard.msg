@@ -74,7 +74,7 @@
 {173}{}{You must be right. Thank you for setting me straight.}
 {174}{}{I think you are the double agent. Trying to trick me, I see. Well now you DIE !}
 {175}{}{Great job on wasting that agent. Now we might have a chance against those Children.}
-{176}{}{Bonne chance à vous.}
+{176}{}{Bonne chance Ã  vous.}
 {177}{}{I can help train you to become a more efficient fighter.}
 {178}{}{Would you ? That would be wonderful.}
 {179}{}{There you go. Maybe that will help you, if you get into a fight.}

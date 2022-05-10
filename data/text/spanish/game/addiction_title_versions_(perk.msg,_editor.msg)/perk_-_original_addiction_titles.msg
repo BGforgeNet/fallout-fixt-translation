@@ -10,46 +10,46 @@
 #
 #
 {101}{}{Consciente}
-{102}{}{Ataque Extra en MelÈ}
-{103}{}{DaÒo Extra en MelÈ}
+{102}{}{Ataque Extra en Mel√©}
+{103}{}{Da√±o Extra en Mel√©}
 {104}{}{Movimiento Plus}
-{105}{}{DaÒo Extra a Distancia}
-{106}{}{Gatillo Extra R·pido}
+{105}{}{Da√±o Extra a Distancia}
+{106}{}{Gatillo Extra R√°pido}
 {107}{}{Secuencia Anterior}
-{108}{}{CuraciÛn m·s R·pida}
-{109}{}{M·s CrÌticos}
-{110}{}{VisiÛn Nocturna}
+{108}{}{Curaci√≥n m√°s R√°pida}
+{109}{}{M√°s Cr√≠ticos}
+{110}{}{Visi√≥n Nocturna}
 {111}{}{Presencia}
-{112}{}{Resistencia a la RadiaciÛn}
+{112}{}{Resistencia a la Radiaci√≥n}
 {113}{}{Dureza}
 {114}{}{Mula}
-{115}{}{Tirador de …lite}
+{115}{}{Tirador de √âlite}
 {116}{}{Carreras Silenciosas}
 {117}{}{Superviviente}
 {118}{}{Comerciante Magistral}
 {119}{}{Instruido}
 {120}{}{Sanador}
 {121}{}{Afortunado}
-{122}{}{Mejores CrÌticos}
-{123}{}{EmpatÌa}
+{122}{}{Mejores Cr√≠ticos}
+{123}{}{Empat√≠a}
 {124}{}{Asesino}
 {125}{}{Francotirador}
 {126}{}{Muerte Silenciosa}
-{127}{}{Chico AcciÛn}
+{127}{}{Chico Acci√≥n}
 {128}{}{Bloqueo Mental}
 {129}{}{Vitalidad}
 {130}{}{Esquiva}
 {131}{}{Comedor de Serpientes}
 {132}{}{Manitas}
 {133}{}{Doctor}
-{134}{}{LadrÛn Magistral}
+{134}{}{Ladr√≥n Magistral}
 {135}{}{Orador}
-{136}{}{°All· va!}
+{136}{}{¬°All√° va!}
 {137}{}{Enemigo Amistoso}
 {138}{}{Carterista}
 {139}{}{Fantasma}
 {140}{}{Culto de la Personalidad}
-{141}{}{GorrÛn}
+{141}{}{Gorr√≥n}
 {142}{}{Expedicionario}
 {143}{}{Hippy}
 {144}{}{Rastreador}
@@ -57,22 +57,22 @@
 {146}{}{Explorador}
 {147}{}{Forastero Misterioso}
 {148}{}{Guardabosques}
-{149}{}{Bolsillos R·pidos}
+{149}{}{Bolsillos R√°pidos}
 {150}{}{Convincente}
-{151}{}{Aprendizaje R·pido}
+{151}{}{Aprendizaje R√°pido}
 {152}{}{Habilidad Destacada}
-{153}{}{°Muta!}
+{153}{}{¬°Muta!}
 #
 #
 # ADDICTIONS
 #
 #
-{154}{}{AdicciÛn a la Nuka-Cola}
-{155}{}{AdicciÛn a los Esteroides}
-{156}{}{AdicciÛn a los Mentats}
-{157}{}{AdicciÛn al Psycho}
-{158}{}{AdicciÛn al RadAway}
-{164}{}{AdicciÛn al Alcohol} # was Combat Armor
+{154}{}{Adicci√≥n a la Nuka-Cola}
+{155}{}{Adicci√≥n a los Esteroides}
+{156}{}{Adicci√≥n a los Mentats}
+{157}{}{Adicci√≥n al Psycho}
+{158}{}{Adicci√≥n al RadAway}
+{164}{}{Adicci√≥n al Alcohol} # was Combat Armor
 #
 #
 # WEAPON PERKS
@@ -83,7 +83,7 @@
 {160}{}{Arma Precisa}
 {161}{}{Arma Penetrante}
 {162}{}{Arma Rechazante}
-{163}{}{Armadura de EnergÌa}
+{163}{}{Armadura de Energ√≠a}
 #
 #
 #  PERK DESCRIPTIONS
@@ -93,59 +93,59 @@
 ##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
 ##
 #
-{201}{}{Has perfeccionado tu habilidad para darte cuenta de m·s detalles sobre la gente y el mundo que te rodea. Por ejemplo, con Consciente se te permitir· ver la salud restante y el arma equipada cuando Examines un personaje.}
-{202}{}{Has aprendido las artes orientales secretas, o sea que golpeas m·s deprisa. En cualquier caso, te cuesta 1 PA menos llevar a cabo los ataques cuerpo a cuerpo.}
-{203}{}{Tu experiencia en combate desarmado hace que seas muy daÒino para tus adversarios. Causas +2 puntos de daÒo en combate cuerpo a cuerpo y en melÈ por cada nivel de esta Ventaja.}
-{204}{}{Por cada nivel de Movimiento Plus, obtienes 2 PA libres en cada turno, que solo pueden usarse para moverte. En pocas palabras, puedes moverte 2 hex·gonos m·s en cada turno por cada nivel de esta Ventaja.}
-{205}{}{Tu entrenamiento con armas a distancia te han convertido en un poderoso adversario en el combate a distancia. Por cada nivel de esta Ventaja haces +2 puntos de daÒo con armas a distancia.}
-{206}{}{Esta Ventaja te hace m·s r·pido con el gatillo, sin perjudicar tu estupenda punterÌa. Te cuesta 1 PA menos llevar a cabo cada ataque con armas a distancia.}
-{207}{}{Es m·s probable que te muevas antes que tus oponentes durante el combate, dado que tu Secuencia es de +2 por cada nivel de esta Ventaja.}
-{208}{}{Con cada nivel de esta Ventaja obtendr·s +1 en tu Ritmo de CuraciÛn. Es decir, que te curar·s m·s r·pido.}
-{209}{}{Con esta Ventaja es m·s probable hacer Impactos CrÌticos durante el combate. Cada nivel de M·s CrÌticos aumenta la posibilidad de hacer un impacto crÌtico en 5%.}
-{210}{}{Con la Ventaja VisiÛn Nocturna mejora tu visiÛn en la oscuridad. Cada nivel de esta Ventaja reducir· el nivel general de oscuridad en un 10%.}
-{211}{}{Eres el centro de atenciÛn al entrar en una habitaciÛn. La primera impresiÛn que tienen las personas de ti mejora en un 10% en cada nivel de esta Ventaja.}
-{212}{}{Eres m·s h·bil evitando la radiaciÛn, y los terribles efectos que provoca. Cada nivel de esta Ventaja mejora tu Resistencia a la RadiaciÛn en un 15%.}
-{213}{}{Cuando eres duro recibes menos daÒo. Cada nivel de esta Ventaja aumenta un 10% tu Resistencia al DaÒo en general.}
+{201}{}{Has perfeccionado tu habilidad para darte cuenta de m√°s detalles sobre la gente y el mundo que te rodea. Por ejemplo, con Consciente se te permitir√° ver la salud restante y el arma equipada cuando Examines un personaje.}
+{202}{}{Has aprendido las artes orientales secretas, o sea que golpeas m√°s deprisa. En cualquier caso, te cuesta 1 PA menos llevar a cabo los ataques cuerpo a cuerpo.}
+{203}{}{Tu experiencia en combate desarmado hace que seas muy da√±ino para tus adversarios. Causas +2 puntos de da√±o en combate cuerpo a cuerpo y en mel√© por cada nivel de esta Ventaja.}
+{204}{}{Por cada nivel de Movimiento Plus, obtienes 2 PA libres en cada turno, que solo pueden usarse para moverte. En pocas palabras, puedes moverte 2 hex√°gonos m√°s en cada turno por cada nivel de esta Ventaja.}
+{205}{}{Tu entrenamiento con armas a distancia te han convertido en un poderoso adversario en el combate a distancia. Por cada nivel de esta Ventaja haces +2 puntos de da√±o con armas a distancia.}
+{206}{}{Esta Ventaja te hace m√°s r√°pido con el gatillo, sin perjudicar tu estupenda punter√≠a. Te cuesta 1 PA menos llevar a cabo cada ataque con armas a distancia.}
+{207}{}{Es m√°s probable que te muevas antes que tus oponentes durante el combate, dado que tu Secuencia es de +2 por cada nivel de esta Ventaja.}
+{208}{}{Con cada nivel de esta Ventaja obtendr√°s +1 en tu Ritmo de Curaci√≥n. Es decir, que te curar√°s m√°s r√°pido.}
+{209}{}{Con esta Ventaja es m√°s probable hacer Impactos Cr√≠ticos durante el combate. Cada nivel de M√°s Cr√≠ticos aumenta la posibilidad de hacer un impacto cr√≠tico en 5%.}
+{210}{}{Con la Ventaja Visi√≥n Nocturna mejora tu visi√≥n en la oscuridad. Cada nivel de esta Ventaja reducir√° el nivel general de oscuridad en un 10%.}
+{211}{}{Eres el centro de atenci√≥n al entrar en una habitaci√≥n. La primera impresi√≥n que tienen las personas de ti mejora en un 10% en cada nivel de esta Ventaja.}
+{212}{}{Eres m√°s h√°bil evitando la radiaci√≥n, y los terribles efectos que provoca. Cada nivel de esta Ventaja mejora tu Resistencia a la Radiaci√≥n en un 15%.}
+{213}{}{Cuando eres duro recibes menos da√±o. Cada nivel de esta Ventaja aumenta un 10% tu Resistencia al Da√±o en general.}
 {214}{}{"Fuerte como una Mula". Puedes llevar 50 libras de peso adicional de equipo por cada nivel de esta Ventaja.}
-{215}{}{El talento de acertar a distancia. Obtienes +2 de PercepciÛn, por cada nivel de esta Ventaja, a la hora de determinar los mod. de distancia. Afecta aun teniendo PE de 9 o 10 °Es m·s f·cil que nunca matar a larga distancia!}
-{216}{}{Con esta Ventaja ahora puedes moverte r·pidamente sin hacer ruido. Puedes usar el Sigilo y correr al mismo tiempo. Sin esta Ventaja, dejas de ser Sigiloso en cuanto empiezas a correr.}
+{215}{}{El talento de acertar a distancia. Obtienes +2 de Percepci√≥n, por cada nivel de esta Ventaja, a la hora de determinar los mod. de distancia. Afecta aun teniendo PE de 9 o 10 ¬°Es m√°s f√°cil que nunca matar a larga distancia!}
+{216}{}{Con esta Ventaja ahora puedes moverte r√°pidamente sin hacer ruido. Puedes usar el Sigilo y correr al mismo tiempo. Sin esta Ventaja, dejas de ser Sigiloso en cuanto empiezas a correr.}
 {217}{}{Eres un maestro en el exterior, sobrevives en ambientes hostiles donde otros perecen. Por cada nivel de esta Ventaja, recibes un 20% en tu habilidad de Supervivencia, y un 20% adicional en situaciones de supervivencia.}
-{218}{}{Has dominado un aspecto del trueque: la habilidad de comprar cosas m·s baratas que una persona normal. Gracias a esta Ventaja, te descuentan el 25% al comprar en una tienda o a un comerciante.}
-{219}{}{Cada nivel de Instruida aÒade +5 puntos de habilidad cuando ganas un nuevo nivel de experiencia. Esta Ventaja te ser· m·s ˙til si la coges al principio de tu aventura.}
-{220}{}{Con esta Ventaja te ser· m·s f·cil curar los cuerpos. Cada nivel supone 2-5 puntos m·s de salud curados al usar las habilidades Primeros Auxilios o MÈdico.}
-{221}{}{Tienes el talento de encontrar chapas, o puede que solo tengas suerte. Te encontrar·s con m·s chapas en los encuentros aleatorios en tus viajes por el yermo.}
-{222}{}{Los impactos crÌticos que causas durante el combate son a˙n m·s devastadores. Ganas un 20% en tu tabla de impactos crÌticos, con lo que har·s m·s daÒo. Esto no afecta a la posibilidad de causar un impacto crÌtico.}
-{223}{}{Has estudiado a otros seres humanos, con lo que conoces sus reacciones emocionales hacia ti. Ver·s el nivel de reacciÛn de la persona con la que est·s hablando, cuando mantengas una conversaciÛn profunda.}
-{224}{}{°El Asesino anda suelto! En el combate cuerpo a cuerpo, todos tus golpes se convertir·n en impactos crÌticos... sembrando destrucciÛn y muerte a tu alrededor.}
-{225}{}{Eres un maestro con las armas de fuego debido a tu sufrimiento. Con esta Ventaja cada impacto acertado durante el combate con un arma a distancia se convertir· en un impacto crÌtico si al mismo tiempo haces una tirada de Suerte.}
-{226}{}{Mientras estÈs en Sigilo, si atacas a una criatura por detr·s, le har·s el doble de daÒo si el ataque es cuerpo a cuerpo. Muerte Silenciosa es ese tipo de Ventaja.}
-{227}{}{Cada nivel de Chico AcciÛn te dar· un PA adicional para gastar en cada turno de combate. Puedes utilizar estos PA genÈricos en cualquier tarea.}
-{228}{}{El Bloqueo Mental es la habilidad de abstraerse de cualquier interferencia mental exterior. Debes haber aprendido este talento de un gur˙, o quiz·s en una noche de copas.}
-{229}{}{Por cada nivel de esta Ventaja ganas 4 puntos de salud adicionales. Adem·s ganas 4 puntos de vida adicionales por cada nivel que subas. Puede que no sea mucho, pero toda ayuda siempre viene bien.}
-{230}{}{Si tienes esta Ventaja es menos probable que te hieran en combate. Cada nivel ganar·s +5 en Clase de Armadura, adem·s del modificador a la CA de la armadura que lleves.}
-{231}{}{°—am-Òam! Sabe a pollo. Has ganado una inmunidad al veneno, por lo que tu Resistencia al Veneno aumenta en un 25%.}
-{232}{}{Esta Ventaja te concede un bono del 20%, de un solo uso, en las habilidades Reparar y Ciencia. Una noche de estudio no le hace daÒo a nadie, sobre todo a ti.}
-{233}{}{La Ventaja Doctor te concede un bono del 20%, de un solo uso, en las habilidades de Primeros Auxilios y MÈdico. Siempre viene bien tener habilidades curativas.}
-{234}{}{Un LadrÛn Magistral tiene un bono del 10%, de un solo uso, en las habilidades Sigilo, Ganz˙a, Robar y Trampas. Roba a los ricos y d·telo a ti.}
-{235}{}{Ser un Orador significa que tienes un bono del 20%, de un solo uso, en las habilidades ConversaciÛn y Trueque. Adem·s de ser un maestro del flirteo, claro.}
-{236}{}{Cada nivel de la Ventaja °All· va! otorga a tus armas arrojadizas +2 a la Fuerza, solo con el propÛsito de determinar la distancia.}
-{237}{}{Los personajes que forman parte de tu equipo aparecen resaltados en verde en vez de en rojo durante el combate. Pero puede que aun asÌ haya personajes rojos que no te sean hostiles.}
-{238}{}{Eres mucho m·s experto en Robar que otros del gremio. Podr·s Robar a los mejores de ellos, porque con esta Ventaja, ignoras los modificadores de tamaÒo y de enfrentamiento, cuando robas a alguien.}
-{239}{}{Con esta Ventaja, cuando se ponga el sol, o estÈs en un lugar poco iluminado, te mover·s como un Fantasma. Tu Sigilo aumenta un 20% en la oscuridad.}
-{240}{}{Tu reputaciÛn siempre es positiva para la gente. Sin esta Ventaja, una gran reputaciÛn negativa habrÌa tenido efectos adversos con la gente honrada. TambiÈn funciona con la mala reputaciÛn y con la buena gente.}
-{241}{}{Puedes encontrar m·s municiÛn que el superviviente postnuclear medio. Esta Ventaja doblar· la cantidad de municiÛn que vayas encontrando por ahÌ.}
+{218}{}{Has dominado un aspecto del trueque: la habilidad de comprar cosas m√°s baratas que una persona normal. Gracias a esta Ventaja, te descuentan el 25% al comprar en una tienda o a un comerciante.}
+{219}{}{Cada nivel de Instruida a√±ade +5 puntos de habilidad cuando ganas un nuevo nivel de experiencia. Esta Ventaja te ser√° m√°s √∫til si la coges al principio de tu aventura.}
+{220}{}{Con esta Ventaja te ser√° m√°s f√°cil curar los cuerpos. Cada nivel supone 2-5 puntos m√°s de salud curados al usar las habilidades Primeros Auxilios o M√©dico.}
+{221}{}{Tienes el talento de encontrar chapas, o puede que solo tengas suerte. Te encontrar√°s con m√°s chapas en los encuentros aleatorios en tus viajes por el yermo.}
+{222}{}{Los impactos cr√≠ticos que causas durante el combate son a√∫n m√°s devastadores. Ganas un 20% en tu tabla de impactos cr√≠ticos, con lo que har√°s m√°s da√±o. Esto no afecta a la posibilidad de causar un impacto cr√≠tico.}
+{223}{}{Has estudiado a otros seres humanos, con lo que conoces sus reacciones emocionales hacia ti. Ver√°s el nivel de reacci√≥n de la persona con la que est√°s hablando, cuando mantengas una conversaci√≥n profunda.}
+{224}{}{¬°El Asesino anda suelto! En el combate cuerpo a cuerpo, todos tus golpes se convertir√°n en impactos cr√≠ticos... sembrando destrucci√≥n y muerte a tu alrededor.}
+{225}{}{Eres un maestro con las armas de fuego debido a tu sufrimiento. Con esta Ventaja cada impacto acertado durante el combate con un arma a distancia se convertir√° en un impacto cr√≠tico si al mismo tiempo haces una tirada de Suerte.}
+{226}{}{Mientras est√©s en Sigilo, si atacas a una criatura por detr√°s, le har√°s el doble de da√±o si el ataque es cuerpo a cuerpo. Muerte Silenciosa es ese tipo de Ventaja.}
+{227}{}{Cada nivel de Chico Acci√≥n te dar√° un PA adicional para gastar en cada turno de combate. Puedes utilizar estos PA gen√©ricos en cualquier tarea.}
+{228}{}{El Bloqueo Mental es la habilidad de abstraerse de cualquier interferencia mental exterior. Debes haber aprendido este talento de un gur√∫, o quiz√°s en una noche de copas.}
+{229}{}{Por cada nivel de esta Ventaja ganas 4 puntos de salud adicionales. Adem√°s ganas 4 puntos de vida adicionales por cada nivel que subas. Puede que no sea mucho, pero toda ayuda siempre viene bien.}
+{230}{}{Si tienes esta Ventaja es menos probable que te hieran en combate. Cada nivel ganar√°s +5 en Clase de Armadura, adem√°s del modificador a la CA de la armadura que lleves.}
+{231}{}{¬°√ëam-√±am! Sabe a pollo. Has ganado una inmunidad al veneno, por lo que tu Resistencia al Veneno aumenta en un 25%.}
+{232}{}{Esta Ventaja te concede un bono del 20%, de un solo uso, en las habilidades Reparar y Ciencia. Una noche de estudio no le hace da√±o a nadie, sobre todo a ti.}
+{233}{}{La Ventaja Doctor te concede un bono del 20%, de un solo uso, en las habilidades de Primeros Auxilios y M√©dico. Siempre viene bien tener habilidades curativas.}
+{234}{}{Un Ladr√≥n Magistral tiene un bono del 10%, de un solo uso, en las habilidades Sigilo, Ganz√∫a, Robar y Trampas. Roba a los ricos y d√°telo a ti.}
+{235}{}{Ser un Orador significa que tienes un bono del 20%, de un solo uso, en las habilidades Conversaci√≥n y Trueque. Adem√°s de ser un maestro del flirteo, claro.}
+{236}{}{Cada nivel de la Ventaja ¬°All√° va! otorga a tus armas arrojadizas +2 a la Fuerza, solo con el prop√≥sito de determinar la distancia.}
+{237}{}{Los personajes que forman parte de tu equipo aparecen resaltados en verde en vez de en rojo durante el combate. Pero puede que aun as√≠ haya personajes rojos que no te sean hostiles.}
+{238}{}{Eres mucho m√°s experto en Robar que otros del gremio. Podr√°s Robar a los mejores de ellos, porque con esta Ventaja, ignoras los modificadores de tama√±o y de enfrentamiento, cuando robas a alguien.}
+{239}{}{Con esta Ventaja, cuando se ponga el sol, o est√©s en un lugar poco iluminado, te mover√°s como un Fantasma. Tu Sigilo aumenta un 20% en la oscuridad.}
+{240}{}{Tu reputaci√≥n siempre es positiva para la gente. Sin esta Ventaja, una gran reputaci√≥n negativa habr√≠a tenido efectos adversos con la gente honrada. Tambi√©n funciona con la mala reputaci√≥n y con la buena gente.}
+{241}{}{Puedes encontrar m√°s munici√≥n que el superviviente postnuclear medio. Esta Ventaja doblar√° la cantidad de munici√≥n que vayas encontrando por ah√≠.}
 {242}{}{El destino de todo Expedicionario es buscar lugares nuevos e interesantes. Con esta Ventaja tu posibilidad de encontrar gente y lugares especiales aumenta.}
-{243}{}{Gracias a esta Ventaja, es muy difÌcil que te enganches a las drogas (un 50% menos probable), y encima sufres solo la mitad del sÌndrome de abstinencia que una persona normal.}
-{244}{}{El Rastreador es el mejor encontrando la ruta m·s corta. Con esta Ventaja tu tiempo de viaje en el Mapa del Mundo se reduce en 25% por cada nivel.}
-{245}{}{Los animales no atacarÌan a uno de sus amigos, a menos que se les amenace o ataque antes. Aunque todavÌa est· por discutir quiÈn es exactamente un animal en este mundo.}
-{246}{}{Tu habilidad para ver los lugares lejanos ha mejorado, ya que el tamaÒo de las exploraciones en el Mapa del Mundo ha aumentado un cuadrado en cada direcciÛn.}
-{247}{}{Con esta Ventaja te ganas la atenciÛn de un Forastero Misterioso, que aparecer· para ayudarte de vez en cuando. Si tu aliado desaparece en combate, no esperes que sea sustituido.}
-{248}{}{Mientras viajes por el yermo eres capaz de evitar llamar la atenciÛn. La posibilidad de que tengas encuentros hostiles disminuye en cada nivel de esta Ventaja.}
+{243}{}{Gracias a esta Ventaja, es muy dif√≠cil que te enganches a las drogas (un 50% menos probable), y encima sufres solo la mitad del s√≠ndrome de abstinencia que una persona normal.}
+{244}{}{El Rastreador es el mejor encontrando la ruta m√°s corta. Con esta Ventaja tu tiempo de viaje en el Mapa del Mundo se reduce en 25% por cada nivel.}
+{245}{}{Los animales no atacar√≠an a uno de sus amigos, a menos que se les amenace o ataque antes. Aunque todav√≠a est√° por discutir qui√©n es exactamente un animal en este mundo.}
+{246}{}{Tu habilidad para ver los lugares lejanos ha mejorado, ya que el tama√±o de las exploraciones en el Mapa del Mundo ha aumentado un cuadrado en cada direcci√≥n.}
+{247}{}{Con esta Ventaja te ganas la atenci√≥n de un Forastero Misterioso, que aparecer√° para ayudarte de vez en cuando. Si tu aliado desaparece en combate, no esperes que sea sustituido.}
+{248}{}{Mientras viajes por el yermo eres capaz de evitar llamar la atenci√≥n. La posibilidad de que tengas encuentros hostiles disminuye en cada nivel de esta Ventaja.}
 {249}{}{Has aprendido a almacenar mejor el equipo que llevas encima. Por cada nivel de esta Ventaja, el coste de PA requerido para acceder al Inventario durante el combate se reduce en uno.}
-{250}{}{Un buen Convincente sabe como incrementar las opciones de di·logo, aunque no sepa de quÈ est· hablando. Cada nivel de esta Ventaja aumenta tu IN en uno, solo en el caso de los di·logos.}
-{251}{}{Con esta Ventaja Aprender·s R·pidamente de verdad, ya que por cada nivel aumentan en un 5% tus puntos de experiencia. Mejor que la cojas al principio.}
-{252}{}{Tus habilidades han llegado a tal punto que se te permite escoger una nueva Habilidad Destacada, lo cual aumentar· inmediatamente dicha habilidad en un 20% y en un 2% por punto de habilidad gastado.}
-{253}{}{°Las radiaciones del yermo te han transformado! Uno de tus Rasgos ha mutado a otra cosa...}
+{250}{}{Un buen Convincente sabe como incrementar las opciones de di√°logo, aunque no sepa de qu√© est√° hablando. Cada nivel de esta Ventaja aumenta tu IN en uno, solo en el caso de los di√°logos.}
+{251}{}{Con esta Ventaja Aprender√°s R√°pidamente de verdad, ya que por cada nivel aumentan en un 5% tus puntos de experiencia. Mejor que la cojas al principio.}
+{252}{}{Tus habilidades han llegado a tal punto que se te permite escoger una nueva Habilidad Destacada, lo cual aumentar√° inmediatamente dicha habilidad en un 20% y en un 2% por punto de habilidad gastado.}
+{253}{}{¬°Las radiaciones del yermo te han transformado! Uno de tus Rasgos ha mutado a otra cosa...}
 #
 #
 # ADDICTION MESSAGES
@@ -156,10 +156,10 @@
 ##  (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
 ##
 {254}{}{Te mueres por otra Nuka-Cola, la deliciosa y refrescante gaseosa.}
-{255}{}{Tienes espasmos y te sientes dÈbil. La vida es dura sin esteroides.}
+{255}{}{Tienes espasmos y te sientes d√©bil. La vida es dura sin esteroides.}
 {256}{}{Te sientes atontado y lento. Tu cerebro parece que empieza a doler...}
-{257}{}{Te sientes como ido a la vez que nervioso. øDÛnde estaba esa jeringuilla de m·s?}
-{258}{}{Sientes n·useas y necesitas un chute. Solo una bolsa m·s, eso es todo!}
+{257}{}{Te sientes como ido a la vez que nervioso. ¬øD√≥nde estaba esa jeringuilla de m√°s?}
+{258}{}{Sientes n√°useas y necesitas un chute. Solo una bolsa m√°s, eso es todo!}
 {264}{}{Solo quieres un trago fuerte, es el resto el que tiene un problema.}
 #
 #
@@ -169,7 +169,7 @@
 {260}{}{Arma Precisa}
 {261}{}{Arma Penetrante}
 {262}{}{Arma Rechazante}
-{263}{}{Armadura de EnergÌa}
+{263}{}{Armadura de Energ√≠a}
 # 264 is above
 #
 # Sduibek, Fallout Fixt - for some reason the game crashes if you create new line 265 used for Alcohol Addiction, so using this line instead.

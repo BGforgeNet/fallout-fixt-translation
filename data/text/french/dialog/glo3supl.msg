@@ -1,2 +1,2 @@
-{100}{}{Ces portes ont été soufflées par une tête nucléaire.}
-{101}{}{Les soudures sont trop épaisses ; tu ne peux pas ouvrir la porte.}
+{100}{}{Ces portes ont Ã©tÃ© soufflÃ©es par une tÃªte nuclÃ©aire.}
+{101}{}{Les soudures sont trop Ã©paisses ; tu ne peux pas ouvrir la porte.}

@@ -1,27 +1,27 @@
-{100}{}{Estás viendo a una saqueadora del desierto. Basado en cómo la miran los demás, debe de tener una posición de importancia o autoridad.}
-{101}{}{Soy Alya de los Khans. ¿En qué puedo ayudarte hoy?}
-{102}{}{Estoy buscando a una mujer llamada Tandi. ¿La has visto?}
-{103}{}{¿Qué tal un besito?}
-{104}{}{¿Por qué tu banda de saqueadores ha atacado Arenas Sombrías?}
+{100}{}{EstÃ¡s viendo a una saqueadora del desierto. Basado en cÃ³mo la miran los demÃ¡s, debe de tener una posiciÃ³n de importancia o autoridad.}
+{101}{}{Soy Alya de los Khans. Â¿En quÃ© puedo ayudarte hoy?}
+{102}{}{Estoy buscando a una mujer llamada Tandi. Â¿La has visto?}
+{103}{}{Â¿QuÃ© tal un besito?}
+{104}{}{Â¿Por quÃ© tu banda de saqueadores ha atacado Arenas SombrÃ­as?}
 {105}{}{No, gracias.}
-{106}{}{¡Yujuu!}
-{107}{}{Si se trata de una de esas mujeres de Arenas Sombrías, quizás debas mirar allí. Ahora vete; tengo que acabar de afilar mis cuchillos.}
-{108}{}{¡Besa esto!}
-{109}{}{No atacamos a los de Arenas Sombrías. Procedemos del mismo lugar que ellos. ¡Está bien que compartan sus cosas con nosotros!}
-{110}{}{Pero estáis atacando su ganado y aterrorizándolos.}
+{106}{}{Â¡Yujuu!}
+{107}{}{Si se trata de una de esas mujeres de Arenas SombrÃ­as, quizÃ¡s debas mirar allÃ­. Ahora vete; tengo que acabar de afilar mis cuchillos.}
+{108}{}{Â¡Besa esto!}
+{109}{}{No atacamos a los de Arenas SombrÃ­as. Procedemos del mismo lugar que ellos. Â¡EstÃ¡ bien que compartan sus cosas con nosotros!}
+{110}{}{Pero estÃ¡is atacando su ganado y aterrorizÃ¡ndolos.}
 {111}{}{Eso me parece justo.}
-{112}{}{Oh, sí. Creo que me voy a ir ahora.}
-{113}{}{Pareces tan débil como ellos. Mira, si tienen problemas de hambre, es culpa suya por no haberlo planeado con antelación. Digamos que comerciamos con talento.}
-{114}{}{¿¡¿Comerciáis con talento?!? ¿Cómo vais a negociar con talento? No les dais nada.}
-{115}{}{Sí, claro, y yo soy la reina de Saba.}
-{116}{}{Oh, sí. Creo que me voy a ir ahora.}
-{117}{}{Lo siento, pero no te comprendo. Estoy afilando mis cuchillos y me gustaría que no me molestasen.}
-{118}{}{Pero les damos lo más importante: emoción a sus vidas.}
-{119}{}{No creo que les guste ese tipo de emoción.}
-{120}{}{Creo que volveré a hacer que sus vidas sean aburridas. ¡Y empezaré contigo!}
-{121}{}{Oh, sí. Creo que me voy a ir ahora.}
-{122}{}{No lo pregunté. Pero ya que obviamente no tienes ningún concepto de lo que es divertirse, creo que acabaré con tu existencia.}
-{123}{}{Burlarte de mí no te viene nada bien. Te sugiero que te apartes de mi vista.}
-{124}{}{Está clarísimo que es justo. Ahora quítate de mi vista.}
-{125}{}{Ahora mismo estoy ocupado preparando nuestro próximo asalto.}
+{112}{}{Oh, sÃ­. Creo que me voy a ir ahora.}
+{113}{}{Pareces tan dÃ©bil como ellos. Mira, si tienen problemas de hambre, es culpa suya por no haberlo planeado con antelaciÃ³n. Digamos que comerciamos con talento.}
+{114}{}{Â¿Â¡Â¿ComerciÃ¡is con talento?!? Â¿CÃ³mo vais a negociar con talento? No les dais nada.}
+{115}{}{SÃ­, claro, y yo soy la reina de Saba.}
+{116}{}{Oh, sÃ­. Creo que me voy a ir ahora.}
+{117}{}{Lo siento, pero no te comprendo. Estoy afilando mis cuchillos y me gustarÃ­a que no me molestasen.}
+{118}{}{Pero les damos lo mÃ¡s importante: emociÃ³n a sus vidas.}
+{119}{}{No creo que les guste ese tipo de emociÃ³n.}
+{120}{}{Creo que volverÃ© a hacer que sus vidas sean aburridas. Â¡Y empezarÃ© contigo!}
+{121}{}{Oh, sÃ­. Creo que me voy a ir ahora.}
+{122}{}{No lo preguntÃ©. Pero ya que obviamente no tienes ningÃºn concepto de lo que es divertirse, creo que acabarÃ© con tu existencia.}
+{123}{}{Burlarte de mÃ­ no te viene nada bien. Te sugiero que te apartes de mi vista.}
+{124}{}{EstÃ¡ clarÃ­simo que es justo. Ahora quÃ­tate de mi vista.}
+{125}{}{Ahora mismo estoy ocupado preparando nuestro prÃ³ximo asalto.}
 {200}{}{Ves: a Alya, una de las consejeras de Garl.}

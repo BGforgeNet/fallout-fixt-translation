@@ -10,25 +10,25 @@
 {109}{}{Tu penses que c'est Hammer.}
 {110}{}{Tu penses que c'est Razor.}
 {111}{}{Barre-toi ! Tu vois pas que j'essaie de me reposer !?}
-{112}{}{Tu fout quoi à fureter dans le coin ?}
-{113}{}{Je regardais les étoiles.}
+{112}{}{Tu fout quoi Ã  fureter dans le coin ?}
+{113}{}{Je regardais les Ã©toiles.}
 {114}{}{Je te cherchais.}
 {115}{}{Je chasse.}
-{116}{}{Ta curiosité va te couter cher. C'est quoi l'embrouille ? Dit-moi la vérité et tu pourra peut-être vivre.}
+{116}{}{Ta curiositÃ© va te couter cher. C'est quoi l'embrouille ? Dit-moi la vÃ©ritÃ© et tu pourra peut-Ãªtre vivre.}
 {117}{}{Je suis ici pour te tuer.}
-{118}{}{Je suis là pour arrêter cette guerre de gangs.}
-{119}{}{Je cherche juste ma maison. Elle est juste là : la Lune.}
-{120}{}{Je pourrais me sentir mal pour ça, mais je me fiche des personnes mortes.}
-{121}{}{Sacré chance. Allez maintenant casse-toi avant que j'envoie la garde de nuit contre toi.}
-{122}{}{Oh bordel, tu n'aimes vraiment pas la vie. Je vais t'aider à en finir.}
-{123}{}{Tu m'a trouvé. Maintenant casse-toi ou meurt !}
+{118}{}{Je suis lÃ  pour arrÃªter cette guerre de gangs.}
+{119}{}{Je cherche juste ma maison. Elle est juste lÃ  : la Lune.}
+{120}{}{Je pourrais me sentir mal pour Ã§a, mais je me fiche des personnes mortes.}
+{121}{}{SacrÃ© chance. Allez maintenant casse-toi avant que j'envoie la garde de nuit contre toi.}
+{122}{}{Oh bordel, tu n'aimes vraiment pas la vie. Je vais t'aider Ã  en finir.}
+{123}{}{Tu m'a trouvÃ©. Maintenant casse-toi ou meurt !}
 {124}{}{Je pense que je vais m'en aller.}
-{125}{}{je préfère vivre.}
+{125}{}{je prÃ©fÃ¨re vivre.}
 {126}{}{Que se passe-til avec les Eventreurs ?}
 {127}{}{Ils vont te tuer !}
-{128}{}{Ils sont morts. Les Griffemorts les ont tué, voilà.}
+{128}{}{Ils sont morts. Les Griffemorts les ont tuÃ©, voilÃ .}
 {129}{}{Rien pour l'instant.}
-{130}{}{Parfait. Va en parler à Razor.}
+{130}{}{Parfait. Va en parler Ã  Razor.}
 {131}{}{Ne me mens pas. Vas-t-en d'ici !}
-{132}{}{Alors dégage de là et occupe toi en !}
-{133}{}{Hey salut ! Du bon travail avec les Régulateurs !}
+{132}{}{Alors dÃ©gage de lÃ  et occupe toi en !}
+{133}{}{Hey salut ! Du bon travail avec les RÃ©gulateurs !}

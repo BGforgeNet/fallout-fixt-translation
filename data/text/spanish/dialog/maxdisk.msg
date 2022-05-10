@@ -1,5 +1,5 @@
-{100}{}{Estás viendo el holodisco que Maxson te dio.}
+{100}{}{EstÃ¡s viendo el holodisco que Maxson te dio.}
 {101}{}{Pip-Boy 2000 muestra: "Descargando datos... Abortando, los datos ya existen."}
-{102}{}{Pip-Boy 2000 muestra: "Descargando datos... ... ... completado. ¡Que tenga un buen día!".}
-{103}{}{Este disco porta la insignia de la Hermandad del Acero y está en excelentes condiciones. Puede usarse en tu Pip-Boy.}
+{102}{}{Pip-Boy 2000 muestra: "Descargando datos... ... ... completado. Â¡Que tenga un buen dÃ­a!".}
+{103}{}{Este disco porta la insignia de la Hermandad del Acero y estÃ¡ en excelentes condiciones. Puede usarse en tu Pip-Boy.}
 {104}{}{Ves: Disco de Maxson.}

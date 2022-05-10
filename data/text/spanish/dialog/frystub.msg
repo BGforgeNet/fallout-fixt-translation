@@ -1,2 +1,2 @@
 {100}{}{Ves: al Ayudante del Sheriff Fry.}
-{101}{}{El Sheriff est· a cargo de la operaciÛn. Ser· mejor que hables con Èl.}
+{101}{}{El Sheriff est√° a cargo de la operaci√≥n. Ser√° mejor que hables con √©l.}

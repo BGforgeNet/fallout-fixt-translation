@@ -173,7 +173,7 @@
 {272}{}{I needed the chip to save my own Vault. Sorry.}
 {273}{}{Will sorry do?}
 {274}{}{Want it back?}
-{275}{}{Häh?}
+{275}{}{HÃ¤h?}
 {276}{Set58}{A path, perhaps. An alternate pump exists, but not its actions. None of mine can breathe that life.}
 {277}{}{Perhaps I should take a look at the pump.}
 {278}{}{Too bad. Guess you're going thirsty.}

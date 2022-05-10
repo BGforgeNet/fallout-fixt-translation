@@ -1,15 +1,15 @@
 {100}{}{ detecta que hay una trampa cerca.}
-{101}{}{Detectas que hay una trampa aquí.}
+{101}{}{Detectas que hay una trampa aquÃ­.}
 {102}{}{ activa una trampa, alertando a la base de tu presencia!}
-{103}{}{¡Activas una trampa, alertando a la base de tu presencia!}
+{103}{}{Â¡Activas una trampa, alertando a la base de tu presencia!}
 {104}{}{Ganas }
-{105}{}{ puntos de experiencia por utilizar tu habilidad con las Trampas con éxito.}
+{105}{}{ puntos de experiencia por utilizar tu habilidad con las Trampas con Ã©xito.}
 {106}{}{ desarma la trampa.}
 {107}{}{Desactivas la trampa.}
 {108}{}{ activa una trampa!}
-{109}{}{¡Activas una trampa!}
-{110}{}{Detectas que hay una trampa aquí, pero no consigues desarmarla.}
+{109}{}{Â¡Activas una trampa!}
+{110}{}{Detectas que hay una trampa aquÃ­, pero no consigues desarmarla.}
 {111}{}{No consigues desarmarla.}
 {112}{}{ no consigue desarmarla.}
 {113}{}{ activa la trampa!}
-{114}{}{¡Activas la trampa!}
+{114}{}{Â¡Activas la trampa!}

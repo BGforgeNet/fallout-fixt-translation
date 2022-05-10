@@ -1,170 +1,170 @@
 {100}{}{Ves: a Michael.}
-{101}{}{Bueno, imagino que ése era el problema. Deberías ver a la Doctora; está en el nivel dos.}
-{102}{}{Por lo que veo, estás bien.}
-{103}{}{La sala de las suministros es zona prohibida, señor. Solo yo y otros dos más tenemos acceso a esa sala. Si necesitas algo, tienes que hablar conmigo.}
-{104}{}{La sala de las suministros es zona prohibida, señora. Solo yo y otros dos más tenemos acceso a esa sala. Si necesitas algo, tienes que hablar conmigo.}
-{105}{}{¿No me has escuchado? Te he dicho que las Salas son zona prohibida.}
-{106}{}{Hola, Hermano. ¿Cómo puedo ayudarte?}
-{107}{}{Perdona que pregunte, pero, ¿qué haces para nuestra Hermandad?}
-{108}{}{¿Qué estás haciendo por aquí?}
-{109}{}{Me han herido. ¿Puedes curarme?}
-{110}{}{¡Urak Chufar!}
-{111}{}{Lo siento, pero no entiendo lo que quieres. Si necesitas suministros, necesitas tener una autorización.}
+{101}{}{Bueno, imagino que Ã©se era el problema. DeberÃ­as ver a la Doctora; estÃ¡ en el nivel dos.}
+{102}{}{Por lo que veo, estÃ¡s bien.}
+{103}{}{La sala de las suministros es zona prohibida, seÃ±or. Solo yo y otros dos mÃ¡s tenemos acceso a esa sala. Si necesitas algo, tienes que hablar conmigo.}
+{104}{}{La sala de las suministros es zona prohibida, seÃ±ora. Solo yo y otros dos mÃ¡s tenemos acceso a esa sala. Si necesitas algo, tienes que hablar conmigo.}
+{105}{}{Â¿No me has escuchado? Te he dicho que las Salas son zona prohibida.}
+{106}{}{Hola, Hermano. Â¿CÃ³mo puedo ayudarte?}
+{107}{}{Perdona que pregunte, pero, Â¿quÃ© haces para nuestra Hermandad?}
+{108}{}{Â¿QuÃ© estÃ¡s haciendo por aquÃ­?}
+{109}{}{Me han herido. Â¿Puedes curarme?}
+{110}{}{Â¡Urak Chufar!}
+{111}{}{Lo siento, pero no entiendo lo que quieres. Si necesitas suministros, necesitas tener una autorizaciÃ³n.}
 {112}{}{Taga ma.}
-{113}{}{¡Caroo!}
-{114}{}{Todavía no te entiendo. Quizás necesites ver a la Doctora. Está en el nivel dos.}
-{115}{}{Deberías ver a la Doctora. Está en el nivel dos.}
+{113}{}{Â¡Caroo!}
+{114}{}{TodavÃ­a no te entiendo. QuizÃ¡s necesites ver a la Doctora. EstÃ¡ en el nivel dos.}
+{115}{}{DeberÃ­as ver a la Doctora. EstÃ¡ en el nivel dos.}
 {116}{}{Oh, nada tan maravilloso como nuestros Paladines. Yo solamente llevo la Sala de Suministros, compruebo el equipo y otros se lo hacen llegar a la gente.}
-{117}{}{Bob me envió... aquí. Quería que yo le consiguiera... esa nueva arma de alta tecnología. Me dijo que la trajese en seguida.}
-{118}{}{Necesito comprobar algo. ¿Cómo lo hago?}
-{119}{}{Oh, eso está muy bien. Adiós.}
-{120}{}{¿Bob?, ¿qué Bob? ¿De qué estás hablando? ¿Qué nueva arma de alta tecnología? Necesito más datos, y tienes que conseguir que "Bob" te de la autorización que necesito. No puedo dar nada sin autorización.}
-{121}{}{Oh, ¿quieres decir la pistola láser? Vale, espera un momento, por favor. No tengo autorización de ningún Bob para darle a nadie un láser. Oh, espera un segundo. Ya lo pillo. Las chicas de ahí abajo creen que son muy graciosas, ¿verdad? Ojalá dejaran de molestarme.}
-{122}{}{Bueno, ya sabes. Me dijeron que no te lo contase, pero eso es porque les gustas mucho. Creo que una de ellas está loca por ti.}
-{123}{}{Lo siento, no sabía que estaban tramando algo. Me dijeron que viniese aquí, que te lo contase y que tú disfrutarías muchísimo con esto.}
+{117}{}{Bob me enviÃ³... aquÃ­. QuerÃ­a que yo le consiguiera... esa nueva arma de alta tecnologÃ­a. Me dijo que la trajese en seguida.}
+{118}{}{Necesito comprobar algo. Â¿CÃ³mo lo hago?}
+{119}{}{Oh, eso estÃ¡ muy bien. AdiÃ³s.}
+{120}{}{Â¿Bob?, Â¿quÃ© Bob? Â¿De quÃ© estÃ¡s hablando? Â¿QuÃ© nueva arma de alta tecnologÃ­a? Necesito mÃ¡s datos, y tienes que conseguir que "Bob" te de la autorizaciÃ³n que necesito. No puedo dar nada sin autorizaciÃ³n.}
+{121}{}{Oh, Â¿quieres decir la pistola lÃ¡ser? Vale, espera un momento, por favor. No tengo autorizaciÃ³n de ningÃºn Bob para darle a nadie un lÃ¡ser. Oh, espera un segundo. Ya lo pillo. Las chicas de ahÃ­ abajo creen que son muy graciosas, Â¿verdad? OjalÃ¡ dejaran de molestarme.}
+{122}{}{Bueno, ya sabes. Me dijeron que no te lo contase, pero eso es porque les gustas mucho. Creo que una de ellas estÃ¡ loca por ti.}
+{123}{}{Lo siento, no sabÃ­a que estaban tramando algo. Me dijeron que viniese aquÃ­, que te lo contase y que tÃº disfrutarÃ­as muchÃ­simo con esto.}
 {124}{}{Lo siento. Era un chiste malo. Solo estaba bromeando.}
-{125}{}{¡Lo estás haciendo otra vez! ¡Deja de atormentarme! ¡Son tan crueles! ¡No puedo creer que te hayas puesto a su nivel! Se supone que los tíos nos ayudamos unos a otros.}
-{126}{}{¡Estás mintiendo! Estás tramando algo con ellas. ¿Cómo puedes ser tan cruel?}
-{127}{}{¿De veras? No me estarás tomando el pelo otra vez, ¿verdad? No, pareces un buen chico. Te habrán obligado a hacerlo. Ya sabes, he pillado a Lara mirándome durante el Entrenamiento. Apuesto a que fue ella, ¿no?}
-{128}{}{Sí, lo adivinaste. Fue ella pero no le digas que te lo he contado. Me mataría.}
-{129}{}{No, lo siento. Solo te estoy liando. Nadie me envió aquí.}
-{130}{}{¡Lo estás haciendo otra vez! ¡Deja de atormentarme! ¡Vosotras las mujeres sois tan crueles!}
-{131}{}{¿De veras? No me estarás tomando el pelo otra vez, ¿verdad? No, pareces una buena chica. Te habrán obligado a hacerlo. Ya sabes, he pillado a Lara mirándome durante el Entrenamiento. Apuesto a que fue ella, ¿no?}
-{132}{}{Sí, lo adivinaste. Fue ella pero no le digas que te lo he contado. Me mataría.}
-{133}{}{No, lo siento. Solo te estoy liando. Nadie me envió aquí.}
-{134}{}{Bueno, no sé qué decir. Me lleva gustando desde el principio pero nunca me he atrevido a hacer nada sin saber si ella siente lo mismo. La próxima vez que la vea, creo que se lo preguntaré. Quizás intente incorporarme a su patrulla y sorprenderla con una cena romántica. Muchas gracias. Gracias por haberme alegrado el día. Toma esto. Seguro que les encontrarás alguna utilidad. Son granadas de pulso electromagnético. Muy útiles contra los robots. Espero que nunca tengas que utilizarlas. Adiós.}
-{135}{}{No está bien de tu parte. ¿Por qué dirías algo así si no fuese verdad? ¡No veas qué gente!}
+{125}{}{Â¡Lo estÃ¡s haciendo otra vez! Â¡Deja de atormentarme! Â¡Son tan crueles! Â¡No puedo creer que te hayas puesto a su nivel! Se supone que los tÃ­os nos ayudamos unos a otros.}
+{126}{}{Â¡EstÃ¡s mintiendo! EstÃ¡s tramando algo con ellas. Â¿CÃ³mo puedes ser tan cruel?}
+{127}{}{Â¿De veras? No me estarÃ¡s tomando el pelo otra vez, Â¿verdad? No, pareces un buen chico. Te habrÃ¡n obligado a hacerlo. Ya sabes, he pillado a Lara mirÃ¡ndome durante el Entrenamiento. Apuesto a que fue ella, Â¿no?}
+{128}{}{SÃ­, lo adivinaste. Fue ella pero no le digas que te lo he contado. Me matarÃ­a.}
+{129}{}{No, lo siento. Solo te estoy liando. Nadie me enviÃ³ aquÃ­.}
+{130}{}{Â¡Lo estÃ¡s haciendo otra vez! Â¡Deja de atormentarme! Â¡Vosotras las mujeres sois tan crueles!}
+{131}{}{Â¿De veras? No me estarÃ¡s tomando el pelo otra vez, Â¿verdad? No, pareces una buena chica. Te habrÃ¡n obligado a hacerlo. Ya sabes, he pillado a Lara mirÃ¡ndome durante el Entrenamiento. Apuesto a que fue ella, Â¿no?}
+{132}{}{SÃ­, lo adivinaste. Fue ella pero no le digas que te lo he contado. Me matarÃ­a.}
+{133}{}{No, lo siento. Solo te estoy liando. Nadie me enviÃ³ aquÃ­.}
+{134}{}{Bueno, no sÃ© quÃ© decir. Me lleva gustando desde el principio pero nunca me he atrevido a hacer nada sin saber si ella siente lo mismo. La prÃ³xima vez que la vea, creo que se lo preguntarÃ©. QuizÃ¡s intente incorporarme a su patrulla y sorprenderla con una cena romÃ¡ntica. Muchas gracias. Gracias por haberme alegrado el dÃ­a. Toma esto. Seguro que les encontrarÃ¡s alguna utilidad. Son granadas de pulso electromagnÃ©tico. Muy Ãºtiles contra los robots. Espero que nunca tengas que utilizarlas. AdiÃ³s.}
+{135}{}{No estÃ¡ bien de tu parte. Â¿Por quÃ© dirÃ­as algo asÃ­ si no fuese verdad? Â¡No veas quÃ© gente!}
 {136}{}{Oh. Tienes un sentido del humor bastante raro. Bueno, no me molestes a no ser que tengas que comprobar algo.}
-{137}{}{Oh, esas chicas siempre me lo hacen pasar mal. No sé por qué siguen haciéndolo. Aunque esa Lara seguro que es guapa. Me lleva gustando desde hace tiempo. La conocí cuando era más joven. Era un encanto. Ahora es mayor y me trata fatal. No he hecho nada para merecerme esto.}
-{138}{}{Bueno, quizá le gustes. ¿Has pensado alguna vez en eso? Puede que no sepa cómo acercarse a ti. Deberías preguntárselo. Si verdaderamente te gusta, ¿qué tienes que perder?}
-{139}{}{Quizás le gustes.}
-{140}{}{Uh, sí. Vale. Adiós.}
-{141}{}{Tienes razón. ¿Qué tengo que perder? La próxima vez que la vea creo que se lo preguntaré. Quizás intente incorporarme a la misma patrulla y sorprenderla con una cena romántica. Muchas gracias. Gracias, por haberme alegrado el día. Toma esto. Seguro que les encuentras alguna utilidad. Son drogas para aumentar la agilidad. Ten cuidado con ellas, son muy adictivas. Adiós.}
-{142}{}{No, eso no es probable. Vosotras las mujeres me confundís algunas veces. Puedo leer y comprender cualquier esquema nuevo que me pongan por delante, pero cuando se trata de mujeres, estoy totalmente perdido. Gracias de todos modos.}
-{143}{}{No, eso no es probable. Vosotras las mujeres me confundís algunas veces. Puedo leer y comprender cualquier esquema nuevo que me pongan por delante, pero cuando se trata de mujeres, estoy totalmente perdido. Gracias de todos modos.}
-{144}{}{Necesitas una autorización especial. Solo ciertas personas pueden dar la autorización para comprobar los objetos de la Sala de Suministros.}
-{145}{}{Oh. Vale, gracias. Entonces, ¿con quién tengo que hablar?}
-{146}{}{Estoy autorizado a comprobar una cosa. ¿Puedes comprobar el terminal para ver si funciona?}
-{147}{}{¿Quién puede darme una autorización?}
-{148}{}{Bueno, de hecho hay poca gente, pero Talus es la persona con la que deberías hablar. También querrás consultar a Mathia, ¿verdad?; puede que ella también te ayude.}
-{149}{}{¿Dónde puedo encontrar a Mathia?}
-{150}{}{¿Dónde está Talus?}
+{137}{}{Oh, esas chicas siempre me lo hacen pasar mal. No sÃ© por quÃ© siguen haciÃ©ndolo. Aunque esa Lara seguro que es guapa. Me lleva gustando desde hace tiempo. La conocÃ­ cuando era mÃ¡s joven. Era un encanto. Ahora es mayor y me trata fatal. No he hecho nada para merecerme esto.}
+{138}{}{Bueno, quizÃ¡ le gustes. Â¿Has pensado alguna vez en eso? Puede que no sepa cÃ³mo acercarse a ti. DeberÃ­as preguntÃ¡rselo. Si verdaderamente te gusta, Â¿quÃ© tienes que perder?}
+{139}{}{QuizÃ¡s le gustes.}
+{140}{}{Uh, sÃ­. Vale. AdiÃ³s.}
+{141}{}{Tienes razÃ³n. Â¿QuÃ© tengo que perder? La prÃ³xima vez que la vea creo que se lo preguntarÃ©. QuizÃ¡s intente incorporarme a la misma patrulla y sorprenderla con una cena romÃ¡ntica. Muchas gracias. Gracias, por haberme alegrado el dÃ­a. Toma esto. Seguro que les encuentras alguna utilidad. Son drogas para aumentar la agilidad. Ten cuidado con ellas, son muy adictivas. AdiÃ³s.}
+{142}{}{No, eso no es probable. Vosotras las mujeres me confundÃ­s algunas veces. Puedo leer y comprender cualquier esquema nuevo que me pongan por delante, pero cuando se trata de mujeres, estoy totalmente perdido. Gracias de todos modos.}
+{143}{}{No, eso no es probable. Vosotras las mujeres me confundÃ­s algunas veces. Puedo leer y comprender cualquier esquema nuevo que me pongan por delante, pero cuando se trata de mujeres, estoy totalmente perdido. Gracias de todos modos.}
+{144}{}{Necesitas una autorizaciÃ³n especial. Solo ciertas personas pueden dar la autorizaciÃ³n para comprobar los objetos de la Sala de Suministros.}
+{145}{}{Oh. Vale, gracias. Entonces, Â¿con quiÃ©n tengo que hablar?}
+{146}{}{Estoy autorizado a comprobar una cosa. Â¿Puedes comprobar el terminal para ver si funciona?}
+{147}{}{Â¿QuiÃ©n puede darme una autorizaciÃ³n?}
+{148}{}{Bueno, de hecho hay poca gente, pero Talus es la persona con la que deberÃ­as hablar. TambiÃ©n querrÃ¡s consultar a Mathia, Â¿verdad?; puede que ella tambiÃ©n te ayude.}
+{149}{}{Â¿DÃ³nde puedo encontrar a Mathia?}
+{150}{}{Â¿DÃ³nde estÃ¡ Talus?}
 {151}{}{Vale, gracias.}
-{152}{}{Mathia es la ayudante de Maxson. En teoría, ella es la ayudante del Anciano Mayor, pero trabaja con todos los Ancianos. Normalmente está en las habitaciones de los Ancianos. Están en la cuarta planta.}
-{153}{}{Vale. ¿Dónde está Talus?}
-{154}{}{Vale. Gracias. Adiós.}
-{155}{}{¿Por qué? Está en la Sala de Entrenamiento, a mi izquierda.}
-{156}{}{Fantástico. Ahora, ¿puedes llevarme hasta donde está Mathia?}
-{157}{}{¿Y Mathia?}
+{152}{}{Mathia es la ayudante de Maxson. En teorÃ­a, ella es la ayudante del Anciano Mayor, pero trabaja con todos los Ancianos. Normalmente estÃ¡ en las habitaciones de los Ancianos. EstÃ¡n en la cuarta planta.}
+{153}{}{Vale. Â¿DÃ³nde estÃ¡ Talus?}
+{154}{}{Vale. Gracias. AdiÃ³s.}
+{155}{}{Â¿Por quÃ©? EstÃ¡ en la Sala de Entrenamiento, a mi izquierda.}
+{156}{}{FantÃ¡stico. Ahora, Â¿puedes llevarme hasta donde estÃ¡ Mathia?}
+{157}{}{Â¿Y Mathia?}
 {158}{}{Gracias. Ya hablaremos luego.}
-{159}{}{Sí, durante el día normalmente está en las habitaciones de los Ancianos. En la cuarta planta.}
+{159}{}{SÃ­, durante el dÃ­a normalmente estÃ¡ en las habitaciones de los Ancianos. En la cuarta planta.}
 {160}{}{Gracias. Has sido de gran ayuda.}
-{161}{}{Bueno, aquí están las drogas para las que tenías autorización. Ten cuidado con ellos. Puedes acabar enganchándote si los utilizas muy a menudo. Desintoxicarse y desengancharse no es muy divertido, pero imagino que es más o menos lo mismo. Úsalo bajo tu propia responsabilidad. ¿Puedo hacer algo más por ti?}
+{161}{}{Bueno, aquÃ­ estÃ¡n las drogas para las que tenÃ­as autorizaciÃ³n. Ten cuidado con ellos. Puedes acabar enganchÃ¡ndote si los utilizas muy a menudo. Desintoxicarse y desengancharse no es muy divertido, pero imagino que es mÃ¡s o menos lo mismo. Ãšsalo bajo tu propia responsabilidad. Â¿Puedo hacer algo mÃ¡s por ti?}
 {162}{}{No, eso es todo. Gracias.}
-{163}{}{Sí, tengo que recoger algo más.}
-{164}{}{Bueno, ahí tienes las drogas que querías. Este material es bueno. Estoy seguro de que te servirá. ¿Necesitabas algo más?}
+{163}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{164}{}{Bueno, ahÃ­ tienes las drogas que querÃ­as. Este material es bueno. Estoy seguro de que te servirÃ¡. Â¿Necesitabas algo mÃ¡s?}
 {165}{}{No, eso es todo. Gracias.}
-{166}{}{Sí, tengo que recoger algo más.}
-{167}{}{Vale, algo de eso tengo. Tú nunca tienes suficientes municiones, ¿no? Bueno, aquí tienes. ¿Algo más?}
+{166}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{167}{}{Vale, algo de eso tengo. TÃº nunca tienes suficientes municiones, Â¿no? Bueno, aquÃ­ tienes. Â¿Algo mÃ¡s?}
 {168}{}{No, eso es todo. Gracias.}
-{169}{}{Sí, tengo que recoger algo más.}
-{170}{}{Oh, eso puede ser muy peligroso. Asegúrate de que están lo suficientemente lejos cuando exploten. Aquí tienes. ¿Algo más?}
+{169}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{170}{}{Oh, eso puede ser muy peligroso. AsegÃºrate de que estÃ¡n lo suficientemente lejos cuando exploten. AquÃ­ tienes. Â¿Algo mÃ¡s?}
 {171}{}{No, eso es todo. Gracias.}
-{172}{}{Sí, tengo que recoger algo más.}
-{173}{}{Ah, no hay nada como disponer de una buena arma. ¿Algo más?}
+{172}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{173}{}{Ah, no hay nada como disponer de una buena arma. Â¿Algo mÃ¡s?}
 {174}{}{No, eso es todo. Gracias.}
-{175}{}{Sí, tengo que recoger algo más.}
-{176}{}{La mejor defensa es el ataque. ¿O es al revés? Bueno, no importa. Aquí tienes tu armadura. Asegúrate de cuidarla bien. Solo puedo dar un equipo. ¿Necesitas algún objeto más?}
+{175}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{176}{}{La mejor defensa es el ataque. Â¿O es al revÃ©s? Bueno, no importa. AquÃ­ tienes tu armadura. AsegÃºrate de cuidarla bien. Solo puedo dar un equipo. Â¿Necesitas algÃºn objeto mÃ¡s?}
 {177}{}{No, eso es todo. Gracias.}
-{178}{}{Sí, tengo que recoger algo más.}
-{179}{}{Bueno, eso puede revelarse muy útil en las manos adecuadas. Aquí tienes. ¿Algo más?}
+{178}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{179}{}{Bueno, eso puede revelarse muy Ãºtil en las manos adecuadas. AquÃ­ tienes. Â¿Algo mÃ¡s?}
 {180}{}{No, eso es todo. Gracias.}
-{181}{}{Sí, tengo que recoger algo más.}
-{182}{}{Oh, ¿algo más? Lo siento, debo haberlo perdido. Déjame ver.}
-{183}{}{Hola otra vez. ¿Cómo estás hoy? ¿En qué puedo ayudarte?}
-{184}{}{¿Puedo ayudarte en algo? Pareces estar terriblemente ocupado.}
+{181}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{182}{}{Oh, Â¿algo mÃ¡s? Lo siento, debo haberlo perdido. DÃ©jame ver.}
+{183}{}{Hola otra vez. Â¿CÃ³mo estÃ¡s hoy? Â¿En quÃ© puedo ayudarte?}
+{184}{}{Â¿Puedo ayudarte en algo? Pareces estar terriblemente ocupado.}
 {185}{}{Tengo algo que recoger.}
-{186}{}{Nada, adiós.}
-{187}{}{¿Podrías tan siquiera ayudarme una vez? No lo creo. Pues entonces lárgate.}
-{188}{}{Vale, déjame ver aquí.}
-{189}{}{Ah, sí. Necesitas una autorización para comprobar cualquier cosa.}
-{190}{}{De hecho Sophia ha necesitado algunas granadas PEM, pero aún no he tenido la oportunidad de llevárselas. ¿Crees que podrías hacerlo tú?}
-{191}{}{Claro. Dámelas.}
-{192}{}{Lo siento, no tengo tiempo. Espero que encuentres a alguien más.}
-{193}{}{Qué parezco, ¿tu lacayo?}
-{194}{}{Vale, eso es. Sophia es una de los dos Escribas Jefe Asistentes de Vree. Normalmente está en la biblioteca de la tercera planta.}
-{195}{}{¿Por qué no has entregado las cosas que te di? Sophia las está esperando.}
-{196}{}{Lo siento. ¿Puedes decirme dónde está otra vez?}
-{197}{}{Las he perdido. ¿Puedo coger más?}
+{186}{}{Nada, adiÃ³s.}
+{187}{}{Â¿PodrÃ­as tan siquiera ayudarme una vez? No lo creo. Pues entonces lÃ¡rgate.}
+{188}{}{Vale, dÃ©jame ver aquÃ­.}
+{189}{}{Ah, sÃ­. Necesitas una autorizaciÃ³n para comprobar cualquier cosa.}
+{190}{}{De hecho Sophia ha necesitado algunas granadas PEM, pero aÃºn no he tenido la oportunidad de llevÃ¡rselas. Â¿Crees que podrÃ­as hacerlo tÃº?}
+{191}{}{Claro. DÃ¡melas.}
+{192}{}{Lo siento, no tengo tiempo. Espero que encuentres a alguien mÃ¡s.}
+{193}{}{QuÃ© parezco, Â¿tu lacayo?}
+{194}{}{Vale, eso es. Sophia es una de los dos Escribas Jefe Asistentes de Vree. Normalmente estÃ¡ en la biblioteca de la tercera planta.}
+{195}{}{Â¿Por quÃ© no has entregado las cosas que te di? Sophia las estÃ¡ esperando.}
+{196}{}{Lo siento. Â¿Puedes decirme dÃ³nde estÃ¡ otra vez?}
+{197}{}{Las he perdido. Â¿Puedo coger mÃ¡s?}
 {198}{}{Lo siento, he perdido mucho tiempo.}
-{199}{}{¡Ja! ¿Pensaste que realmente lo entregaría? ¡Eres más tonto de lo que pareces!}
-{200}{}{Normalmente está en la biblioteca de la tercera planta.}
-{201}{}{¡Guardias! ¡Tenemos un ladrón! ¡Enseñadle qué les pasa a los que traicionan a la Hermandad!}
-{202}{}{¡Guardias! ¡Tenemos una ladrona! ¡Enseñadle qué les pasa a las que traicionan a la Hermandad!}
-{203}{}{Lo siento, yo no le hablo a la gente como tú.}
-{204}{}{Puede que sea verdad. Sabía que no podía confiar en alguien como tú.}
-{205}{}{No me puedo creer que aparezcas por aquí otra vez. Espero que las granadas te sean útiles; no vas a conseguir nada más de mí otra vez. Y no me importa saber quién te dio la autorización.}
-{206}{}{¿Por qué pasas a saludar otra vez? Sophia dice que entregaste las granadas. Eso fue muy amable de tu parte. Ella está trabajando en una versión mejorada y necesita saber si el circuito es compatible.}
-{207}{}{¿Qué quieres?}
-{208}{}{Solo dame lo que deba recoger y me iré de tu vista.}
+{199}{}{Â¡Ja! Â¿Pensaste que realmente lo entregarÃ­a? Â¡Eres mÃ¡s tonto de lo que pareces!}
+{200}{}{Normalmente estÃ¡ en la biblioteca de la tercera planta.}
+{201}{}{Â¡Guardias! Â¡Tenemos un ladrÃ³n! Â¡EnseÃ±adle quÃ© les pasa a los que traicionan a la Hermandad!}
+{202}{}{Â¡Guardias! Â¡Tenemos una ladrona! Â¡EnseÃ±adle quÃ© les pasa a las que traicionan a la Hermandad!}
+{203}{}{Lo siento, yo no le hablo a la gente como tÃº.}
+{204}{}{Puede que sea verdad. SabÃ­a que no podÃ­a confiar en alguien como tÃº.}
+{205}{}{No me puedo creer que aparezcas por aquÃ­ otra vez. Espero que las granadas te sean Ãºtiles; no vas a conseguir nada mÃ¡s de mÃ­ otra vez. Y no me importa saber quiÃ©n te dio la autorizaciÃ³n.}
+{206}{}{Â¿Por quÃ© pasas a saludar otra vez? Sophia dice que entregaste las granadas. Eso fue muy amable de tu parte. Ella estÃ¡ trabajando en una versiÃ³n mejorada y necesita saber si el circuito es compatible.}
+{207}{}{Â¿QuÃ© quieres?}
+{208}{}{Solo dame lo que deba recoger y me irÃ© de tu vista.}
 {209}{}{Nada.}
-{210}{}{Bueno, está bien. Déjame solo comprobarlo y veré si tengo una orden.}
-{211}{}{Vale, necesitas munición, ¿verdad? Bueno, ¿de qué tipo?}
-{212}{}{No lo sé.}
-{213}{}{Munición de 10mm, balas huecas con camisa.}
-{214}{}{Munición de 10mm, de perforación blindada.}
-{215}{}{Munición para Mágnum .44, balas huecas con camisa.}
-{216}{}{Munición para Mágnum .44, con camisa de metal.}
-{217}{}{Munición de 14mm, de perforación blindada.}
-{218}{}{Munición del .223, con camisa de metal.}
-{219}{}{Munición de 5mm, balas huecas con camisa.}
-{220}{}{Munición de 5mm, de perforación blindada.}
+{210}{}{Bueno, estÃ¡ bien. DÃ©jame solo comprobarlo y verÃ© si tengo una orden.}
+{211}{}{Vale, necesitas municiÃ³n, Â¿verdad? Bueno, Â¿de quÃ© tipo?}
+{212}{}{No lo sÃ©.}
+{213}{}{MuniciÃ³n de 10mm, balas huecas con camisa.}
+{214}{}{MuniciÃ³n de 10mm, de perforaciÃ³n blindada.}
+{215}{}{MuniciÃ³n para MÃ¡gnum .44, balas huecas con camisa.}
+{216}{}{MuniciÃ³n para MÃ¡gnum .44, con camisa de metal.}
+{217}{}{MuniciÃ³n de 14mm, de perforaciÃ³n blindada.}
+{218}{}{MuniciÃ³n del .223, con camisa de metal.}
+{219}{}{MuniciÃ³n de 5mm, balas huecas con camisa.}
+{220}{}{MuniciÃ³n de 5mm, de perforaciÃ³n blindada.}
 {221}{}{Cartuchos de escopeta.}
-{222}{}{Bueno, tienes que saber qué tipo de munición necesitas antes de que te la dé. Examina el arma para la que me pediste la munición. Cuando lo sepas, házmelo saber.}
-{223}{}{Ah, un lanzacohetes... no hay nada como llevar una buena arma. Bueno, ¿ésa lo será?}
+{222}{}{Bueno, tienes que saber quÃ© tipo de municiÃ³n necesitas antes de que te la dÃ©. Examina el arma para la que me pediste la municiÃ³n. Cuando lo sepas, hÃ¡zmelo saber.}
+{223}{}{Ah, un lanzacohetes... no hay nada como llevar una buena arma. Bueno, Â¿Ã©sa lo serÃ¡?}
 {224}{}{No, eso es todo. Gracias.}
-{225}{}{Sí, tengo que recoger algo más.}
-{226}{}{Ah sí, aquí está la pistola que buscabas. Buena, ¿ésa lo será?}
+{225}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{226}{}{Ah sÃ­, aquÃ­ estÃ¡ la pistola que buscabas. Buena, Â¿Ã©sa lo serÃ¡?}
 {227}{}{No, eso es todo. Gracias.}
-{228}{}{Sí, tengo que recoger algo más.}
-{229}{}{La mejor defensa es el ataque. ¿O es al revés? Bueno, no importa. Aquí tienes tu armadura. Asegúrate de cuidarla bien. Solo puedo dar un equipo. ¿Necesitas algún objeto más?}
+{228}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{229}{}{La mejor defensa es el ataque. Â¿O es al revÃ©s? Bueno, no importa. AquÃ­ tienes tu armadura. AsegÃºrate de cuidarla bien. Solo puedo dar un equipo. Â¿Necesitas algÃºn objeto mÃ¡s?}
 {230}{}{No, eso es todo. Gracias.}
-{231}{}{Sí, tengo que recoger algo más.}
-{232}{}{Mmm... Una Armadura de Energía. Asegúrate de cuidarla. No puedo dar más de un equipo. ¿Había algún otro objeto que necesitabas?}
+{231}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{232}{}{Mmm... Una Armadura de EnergÃ­a. AsegÃºrate de cuidarla. No puedo dar mÃ¡s de un equipo. Â¿HabÃ­a algÃºn otro objeto que necesitabas?}
 {233}{}{No, eso es todo. Gracias.}
-{234}{}{Sí, tengo que recoger algo más.}
-{235}{}{Bueno, eso puede revelarse muy útil en las manos adecuadas. Aquí tienes. ¿Algo más?}
+{234}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{235}{}{Bueno, eso puede revelarse muy Ãºtil en las manos adecuadas. AquÃ­ tienes. Â¿Algo mÃ¡s?}
 {236}{}{No, eso es todo. Gracias.}
-{237}{}{Sí, tengo que recoger algo más.}
-{240}{}{Estoy buscando un motivador sistólico.}
-{241}{}{¿Tienes la autorización necesaria?}
-{242}{}{Sí. Me han enviado aquí para conseguir un motivador sistólico.}
-{243}{}{No lo sé, pero es imprescindible que consiga esa pieza.}
-{244}{}{Kyle me envió para conseguir esa pieza.}
-{245}{}{No. ¿Cómo consigo una autorización?}
-{246}{}{Déjame mirar aquí. (Comprueba su terminal) Bueno, no veo una Solicitud para un motivador sistólico. Necesitas una autorización adecuada.}
-{247}{}{¡Mira! No quiero ningún problema. Dame esa maldita pieza y ya está.}
-{248}{}{¡Vamos! Por favor. Necesito esa pieza.}
+{237}{}{SÃ­, tengo que recoger algo mÃ¡s.}
+{240}{}{Estoy buscando un motivador sistÃ³lico.}
+{241}{}{Â¿Tienes la autorizaciÃ³n necesaria?}
+{242}{}{SÃ­. Me han enviado aquÃ­ para conseguir un motivador sistÃ³lico.}
+{243}{}{No lo sÃ©, pero es imprescindible que consiga esa pieza.}
+{244}{}{Kyle me enviÃ³ para conseguir esa pieza.}
+{245}{}{No. Â¿CÃ³mo consigo una autorizaciÃ³n?}
+{246}{}{DÃ©jame mirar aquÃ­. (Comprueba su terminal) Bueno, no veo una Solicitud para un motivador sistÃ³lico. Necesitas una autorizaciÃ³n adecuada.}
+{247}{}{Â¡Mira! No quiero ningÃºn problema. Dame esa maldita pieza y ya estÃ¡.}
+{248}{}{Â¡Vamos! Por favor. Necesito esa pieza.}
 {249}{}{Vale. Siento molestarte.}
-{250}{}{¿No? Se supone que los ordenanzas enviaron uno ayer. Mira, ¿puedes ayudarme? Si no consigo esa pieza me las voy a cargar. Estoy seguro que el formulario llegará hoy pero algo más tarde.}
-{251}{}{Vale. Aquí tienes pero no le digas a nadie que te he lo he dado. Rhombus me cortará el cuello si se entera de que he estado dando piezas sin la autorización adecuada.}
-{252}{}{Gracias. Adiós.}
-{253}{}{Te lo daría si pudiera pero es imposible. No sin la autorización adecuada.}
-{254}{}{Michael, eres uno de los tíos más brillantes con quién he hablado aquí. Pero no entiendo por qué me lo haces pasar tan mal. Necesito esa pieza.}
-{255}{}{Oh... Bueno. Creo que lo comprendo. Aunque no sé lo que voy a hacer.}
+{250}{}{Â¿No? Se supone que los ordenanzas enviaron uno ayer. Mira, Â¿puedes ayudarme? Si no consigo esa pieza me las voy a cargar. Estoy seguro que el formulario llegarÃ¡ hoy pero algo mÃ¡s tarde.}
+{251}{}{Vale. AquÃ­ tienes pero no le digas a nadie que te he lo he dado. Rhombus me cortarÃ¡ el cuello si se entera de que he estado dando piezas sin la autorizaciÃ³n adecuada.}
+{252}{}{Gracias. AdiÃ³s.}
+{253}{}{Te lo darÃ­a si pudiera pero es imposible. No sin la autorizaciÃ³n adecuada.}
+{254}{}{Michael, eres uno de los tÃ­os mÃ¡s brillantes con quiÃ©n he hablado aquÃ­. Pero no entiendo por quÃ© me lo haces pasar tan mal. Necesito esa pieza.}
+{255}{}{Oh... Bueno. Creo que lo comprendo. Aunque no sÃ© lo que voy a hacer.}
 {256}{}{Solo me lo tienes que dar.}
-{257}{}{Si no tienes autorización no conseguirás piezas de repuesto.}
-{258}{}{¡Vamos! Por favor. Necesito esa pieza.}
-{259}{}{Vale. Siento haberte molestado. Adiós.}
-{260}{}{¿Kyle? ¿Es sobre ese viejo trasto, la Armadura de Energía?}
-{261}{}{Sí.}
+{257}{}{Si no tienes autorizaciÃ³n no conseguirÃ¡s piezas de repuesto.}
+{258}{}{Â¡Vamos! Por favor. Necesito esa pieza.}
+{259}{}{Vale. Siento haberte molestado. AdiÃ³s.}
+{260}{}{Â¿Kyle? Â¿Es sobre ese viejo trasto, la Armadura de EnergÃ­a?}
+{261}{}{SÃ­.}
 {262}{}{No.}
-{263}{}{Puedes decirle que cuando consiga que la unidad vuelva a su estado natural, y solo entonces, conseguirá la autorización que necesita. Adiós.}
-{264}{}{Tú no. Primero Kyle necesita ver la unidad que hay que arreglar. Si a él le parece que la reparación está justificada, entonces solicitará las piezas. Rhombus revisará las peticiones y decidirá cuál es viable. Ve a hablar con Kyle. Adiós.}
-{265}{}{Adiós.}
-{266}{}{Oh... sí, bueno, Kyle me envió. ¿Podrías comprobar tu terminal una vez más?}
-{267}{}{Pero Rhombus me envió.}
-{268}{}{No vas a conseguir la pieza, y eso es definitivo. Te dije lo que tenías que hacer y no voy a repetirlo.}
-{300}{}{Parece que le gustas de verdad a Sophia. Me pidió que te diese estas baterías casi agotadas. De todas formas necesitábamos hacer espacio en el depósito para su investigación.}
-{500}{}{[Más]}
+{263}{}{Puedes decirle que cuando consiga que la unidad vuelva a su estado natural, y solo entonces, conseguirÃ¡ la autorizaciÃ³n que necesita. AdiÃ³s.}
+{264}{}{TÃº no. Primero Kyle necesita ver la unidad que hay que arreglar. Si a Ã©l le parece que la reparaciÃ³n estÃ¡ justificada, entonces solicitarÃ¡ las piezas. Rhombus revisarÃ¡ las peticiones y decidirÃ¡ cuÃ¡l es viable. Ve a hablar con Kyle. AdiÃ³s.}
+{265}{}{AdiÃ³s.}
+{266}{}{Oh... sÃ­, bueno, Kyle me enviÃ³. Â¿PodrÃ­as comprobar tu terminal una vez mÃ¡s?}
+{267}{}{Pero Rhombus me enviÃ³.}
+{268}{}{No vas a conseguir la pieza, y eso es definitivo. Te dije lo que tenÃ­as que hacer y no voy a repetirlo.}
+{300}{}{Parece que le gustas de verdad a Sophia. Me pidiÃ³ que te diese estas baterÃ­as casi agotadas. De todas formas necesitÃ¡bamos hacer espacio en el depÃ³sito para su investigaciÃ³n.}
+{500}{}{[MÃ¡s]}
 {501}{}{[Volver]}

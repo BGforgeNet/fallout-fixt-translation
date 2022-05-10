@@ -1,21 +1,21 @@
 {100}{}{Voici un joueur.}
 {101}{}{Attention ! C'est un braquage !}
-{102}{}{Je veux pas de problËmes avec toi.}
+{102}{}{Je veux pas de probl√®mes avec toi.}
 {103}{}{Il a un fusil !}
 {104}{}{Elle a un fusil !}
 {105}{}{Oh, c'est toi.}
 {106}{}{J'ai entendu plein de vilaines choses sur toi.}
-{107}{}{T'as dÈconnÈ, hein ?}
+{107}{}{T'as d√©conn√©, hein ?}
 {108}{}{Crapule. Tuer des enfants. Je peux pas y croire.}
-{109}{}{Il paraÓt qu'il y a des chasseurs de primes ‡ tes trousses. Tu les as tuÈs aussi ?}
+{109}{}{Il para√Æt qu'il y a des chasseurs de primes √† tes trousses. Tu les as tu√©s aussi ?}
 {110}{}{M'adresse pas la parole.}
-{111}{}{Putain, t'as butÈ le Maire, hein ?}
-{112}{}{Oh, quand Killian Ètait en vie, j'aimais pas cet endroit. Maintenant, Áa va.}
+{111}{}{Putain, t'as but√© le Maire, hein ?}
+{112}{}{Oh, quand Killian √©tait en vie, j'aimais pas cet endroit. Maintenant, √ßa va.}
 {113}{}{Va t'en !}
-{114}{}{Eh, comment Áa va aujourd'hui ? Moi, Áa va.}
-{115}{}{Eh, comment Áa va ce soir ? Moi, Áa va.}
+{114}{}{Eh, comment √ßa va aujourd'hui ? Moi, √ßa va.}
+{115}{}{Eh, comment √ßa va ce soir ? Moi, √ßa va.}
 {116}{}{La paix. Je suis dans un coup de veine.}
-{117}{}{Eh, ces machines ‡ sous m'appartiennent.}
-{118}{}{Eh, file-moi ‡ boire !}
+{117}{}{Eh, ces machines √† sous m'appartiennent.}
+{118}{}{Eh, file-moi √† boire !}
 {119}{}{Grrr ! Ca craint ici !}
-{120}{}{V'l‡ qu'l'argent coule ‡ flot.}
+{120}{}{V'l√† qu'l'argent coule √† flot.}

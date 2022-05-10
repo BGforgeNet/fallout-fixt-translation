@@ -1,5 +1,5 @@
-{100}{}{Vous commencez ‡ monter ‡ l'Èchelle.}
-{101}{}{Vous tombez de l'Èchelle dans cette obscuritÈ. Vous atterrissez violemment mais ne prenez aucun dÈg‚t.}
-{102}{}{Vous tombez de l'Èchelle dans cette obscuritÈ. Vous atterrissez violemment et encaissez }
-{103}{}{ de dÈg‚t.}
-{104}{}{Vous tombez jusqu'en bas de l'Èchelle.}
+{100}{}{Vous commencez √† monter √† l'√©chelle.}
+{101}{}{Vous tombez de l'√©chelle dans cette obscurit√©. Vous atterrissez violemment mais ne prenez aucun d√©g√¢t.}
+{102}{}{Vous tombez de l'√©chelle dans cette obscurit√©. Vous atterrissez violemment et encaissez }
+{103}{}{ de d√©g√¢t.}
+{104}{}{Vous tombez jusqu'en bas de l'√©chelle.}

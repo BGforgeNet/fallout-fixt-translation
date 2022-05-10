@@ -3,6 +3,6 @@
 {102}{}{Ahhh...}
 {103}{}{Mon mari, Razlo, peut t'aider... va le voir.}
 {104}{}{Je regrette mais je ne te comprends pas.}
-{105}{}{Reviens demain matin. Laisse-nous dormir en paix, s'il te plaît.}
+{105}{}{Reviens demain matin. Laisse-nous dormir en paix, s'il te plaÃ®t.}
 {106}{}{Non, merci.}
 {107}{}{Non, je n'ai pas besoin de soins.}

@@ -1,1 +1,1 @@
-{100}{}{¡No es momento de sentarse! ¡Muévete!}
+{100}{}{Â¡No es momento de sentarse! Â¡MuÃ©vete!}

@@ -1,1 +1,1 @@
-{100}{}{Esta habitación parece haber sido saqueada con mucho cuidado.}
+{100}{}{Esta habitaciÃ³n parece haber sido saqueada con mucho cuidado.}

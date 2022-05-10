@@ -1,6 +1,6 @@
 {111}{}{We're under attack!}
 {112}{}{Help, please!}
-{113}{}{¡Ayúdanos!}
+{113}{}{Â¡AyÃºdanos!}
 {114}{}{Oh no...}
 {115}{}{I don't want to die today...}
 {116}{}{Please help us...}

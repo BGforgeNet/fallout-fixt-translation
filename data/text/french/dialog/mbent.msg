@@ -1,9 +1,9 @@
 {100}{}{Temps restant :  }
 {101}{}{ secondes.}
-{102}{}{Là, c'est la mort assurée.}
+{102}{}{LÃ , c'est la mort assurÃ©e.}
 {103}{}{Temps restant :  }
 {104}{}{ secondes.}
-{105}{}{Là, c'est la mort assurée.}
+{105}{}{LÃ , c'est la mort assurÃ©e.}
 {106}{}{Temps restant :  }
 {107}{}{ secondes.}
-{108}{}{Là, c'est la mort assurée.}
+{108}{}{LÃ , c'est la mort assurÃ©e.}

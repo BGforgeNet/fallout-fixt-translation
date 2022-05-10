@@ -1,9 +1,9 @@
-{100}{}{Tu déverouilles le refrigirateur avec succès.}
-{101}{}{Tu as des difficultés avec la serrure.}
-{102}{}{Tu vois un refrigirateur. Il est fermé et verouillé.}
+{100}{}{Tu dÃ©verouilles le refrigirateur avec succÃ¨s.}
+{101}{}{Tu as des difficultÃ©s avec la serrure.}
+{102}{}{Tu vois un refrigirateur. Il est fermÃ© et verouillÃ©.}
 {103}{}{Tu vois un refrigirateur. Il est ouvert.}
-{104}{}{Tu vois un refrigirateur. Il est fermé.}
-{105}{}{La porte est verrouillée.}
+{104}{}{Tu vois un refrigirateur. Il est fermÃ©.}
+{105}{}{La porte est verrouillÃ©e.}
 {106}{}{Rien ne se passe.}
-{107}{}{C'est deja déverouillé.}
+{107}{}{C'est deja dÃ©verouillÃ©.}
 {108}{}{Aucun effet.}

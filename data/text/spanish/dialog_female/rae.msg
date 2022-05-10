@@ -1,76 +1,76 @@
 {100}{}{Ves: a Rae.}
 {101}{}{Ves a un Supermutante.}
-{102}{}{No eres de aquí.}
-{103}{}{(Con aspecto confuso y triste) Creo que sí, pero... ¿por qué estás aquí?}
-{104}{}{Y tú tampoco.}
-{105}{}{Oh... yo sí. El Maestro me tiene así disfrazado explorando por ahí para comprobar nuestra seguridad.}
-{106}{}{Sí, y estoy aquí para matarte.}
-{107}{}{Está bien, me marcho.}
+{102}{}{No eres de aquÃ­.}
+{103}{}{(Con aspecto confuso y triste) Creo que sÃ­, pero... Â¿por quÃ© estÃ¡s aquÃ­?}
+{104}{}{Y tÃº tampoco.}
+{105}{}{Oh... yo sÃ­. El Maestro me tiene asÃ­ disfrazado explorando por ahÃ­ para comprobar nuestra seguridad.}
+{106}{}{SÃ­, y estoy aquÃ­ para matarte.}
+{107}{}{EstÃ¡ bien, me marcho.}
 {108}{}{Eh.}
-{109}{}{(Suspira) ¿Y ahora qué quieres?}
-{110}{}{Estoy perdida... ¿Puedes decirme cómo llegar al Maestro? Tengo que matarlo.}
-{111}{}{Nada. Adiós.}
-{112}{}{Para ver cómo estás con toda la piel arrancada del cuerpo, escoria mutante.}
-{113}{}{¿Qué te pasa?}
+{109}{}{(Suspira) Â¿Y ahora quÃ© quieres?}
+{110}{}{Estoy perdida... Â¿Puedes decirme cÃ³mo llegar al Maestro? Tengo que matarlo.}
+{111}{}{Nada. AdiÃ³s.}
+{112}{}{Para ver cÃ³mo estÃ¡s con toda la piel arrancada del cuerpo, escoria mutante.}
+{113}{}{Â¿QuÃ© te pasa?}
 {114}{}{Feo... monstruo.}
-{115}{}{Estoy aquí... para contemplar la identidad del Maestro.}
-{116}{}{Por supuesto. La unidad trae la paz. ¿Puedo preguntarte de dónde eres?}
-{117}{}{Yo también. Hice la peregrinación desde muy lejos para ver al Maestro con mis propios ojos.}
-{118}{}{Tengo mucho que aprender. ¿Cómo se puede conseguir una audiencia con el Maestro?}
-{119}{}{Eso lo hice ayer. Hoy me imagino cómo sería el Maestro si le prendiera fuego y asase "iguanas" sobre su cuerpo pútrido.}
-{120}{}{Creo que el Maestro está loco.}
-{121}{}{Soy de... algún... lugar.}
-{122}{}{¡Qué coincidencia! Yo también.}
-{123}{}{¿De dónde?}
+{115}{}{Estoy aquÃ­... para contemplar la identidad del Maestro.}
+{116}{}{Por supuesto. La unidad trae la paz. Â¿Puedo preguntarte de dÃ³nde eres?}
+{117}{}{Yo tambiÃ©n. Hice la peregrinaciÃ³n desde muy lejos para ver al Maestro con mis propios ojos.}
+{118}{}{Tengo mucho que aprender. Â¿CÃ³mo se puede conseguir una audiencia con el Maestro?}
+{119}{}{Eso lo hice ayer. Hoy me imagino cÃ³mo serÃ­a el Maestro si le prendiera fuego y asase "iguanas" sobre su cuerpo pÃºtrido.}
+{120}{}{Creo que el Maestro estÃ¡ loco.}
+{121}{}{Soy de... algÃºn... lugar.}
+{122}{}{Â¡QuÃ© coincidencia! Yo tambiÃ©n.}
+{123}{}{Â¿De dÃ³nde?}
 {124}{}{Soy de un Refugio... Soy una humana pura.}
-{125}{}{¿Qué, eres imbécil?}
-{126}{}{¿De dónde eres?}
+{125}{}{Â¿QuÃ©, eres imbÃ©cil?}
+{126}{}{Â¿De dÃ³nde eres?}
 {127}{}{(Susurra) Soy de un Refugio... Soy un humano puro.}
-{128}{}{Mejor será que no te lo diga. Adiós.}
-{129}{}{Un pequeño pueblo al norte de aquí.}
-{130}{}{¿Por qué iba a decírtelo? Solo eres un lacayo del "Hombre".}
-{131}{}{¿Por qué me dices eso? Debería llevarte ante el Maestro...}
-{132}{}{Pero no lo harás.}
-{133}{}{Inténtalo.}
-{134}{}{¡Pues debería apuntar mi arma a tu garganta y apretar el gatillo!}
+{128}{}{Mejor serÃ¡ que no te lo diga. AdiÃ³s.}
+{129}{}{Un pequeÃ±o pueblo al norte de aquÃ­.}
+{130}{}{Â¿Por quÃ© iba a decÃ­rtelo? Solo eres un lacayo del "Hombre".}
+{131}{}{Â¿Por quÃ© me dices eso? DeberÃ­a llevarte ante el Maestro...}
+{132}{}{Pero no lo harÃ¡s.}
+{133}{}{IntÃ©ntalo.}
+{134}{}{Â¡Pues deberÃ­a apuntar mi arma a tu garganta y apretar el gatillo!}
 {135}{}{No lo hagas por favor.}
-{136}{}{Sé por qué sufres tanto.}
+{136}{}{SÃ© por quÃ© sufres tanto.}
 {137}{}{Voy a irme ahora.}
-{138}{}{Tienes razón... si pudiera aclarar mis pensamientos. Hay algo...}
-{139}{}{Sé por qué no puedes aclarar tus pensamientos.}
+{138}{}{Tienes razÃ³n... si pudiera aclarar mis pensamientos. Hay algo...}
+{139}{}{SÃ© por quÃ© no puedes aclarar tus pensamientos.}
 {140}{}{El Maestro impide que pienses con claridad. El pensamiento perturba a la unidad.}
 {141}{}{El Maestro es el origen de tu dolor.}
-{142}{}{Eh, tengo una idea: ¡Abramos al Maestro a ver qué tiene dentro!}
-{143}{}{¡Dime, por favor!}
-{144}{}{Tú también eras humano. El Maestro te sumergió en el Virus de Evolución Forzada y te mutó.}
+{142}{}{Eh, tengo una idea: Â¡Abramos al Maestro a ver quÃ© tiene dentro!}
+{143}{}{Â¡Dime, por favor!}
+{144}{}{TÃº tambiÃ©n eras humano. El Maestro te sumergiÃ³ en el Virus de EvoluciÃ³n Forzada y te mutÃ³.}
 {145}{}{Lo siento, no puedo.}
 {146}{}{Solo el Maestro te lo puede contar todo.}
-{147}{}{Solo el Maestro te lo puede contar todo. Pero mejor será que hables con él rápido porque estoy a punto de matarlo.}
+{147}{}{Solo el Maestro te lo puede contar todo. Pero mejor serÃ¡ que hables con Ã©l rÃ¡pido porque estoy a punto de matarlo.}
 {148}{}{Lo siento, tengo que irme.}
-{149}{}{¡Debería matarte por mofarte de mí!}
-{150}{}{Tengo una idea mejor: Ayúdame a destruir al Maestro por haberte hecho esto.}
-{151}{}{No, deberías matar al Maestro por haberte hecho esto. Yo estoy a punto de hacerlo... ¿Te gustaría unirte a mí?}
-{152}{}{¿Por qué? ¡Yo no soy la que te convirtió en mutante!}
-{153}{}{Inténtalo.}
-{154}{}{No, gracias. ¡Adiós!}
+{149}{}{Â¡DeberÃ­a matarte por mofarte de mÃ­!}
+{150}{}{Tengo una idea mejor: AyÃºdame a destruir al Maestro por haberte hecho esto.}
+{151}{}{No, deberÃ­as matar al Maestro por haberte hecho esto. Yo estoy a punto de hacerlo... Â¿Te gustarÃ­a unirte a mÃ­?}
+{152}{}{Â¿Por quÃ©? Â¡Yo no soy la que te convirtiÃ³ en mutante!}
+{153}{}{IntÃ©ntalo.}
+{154}{}{No, gracias. Â¡AdiÃ³s!}
 {155}{}{Retorzamos su cabeza hasta que se le salgan los ojos.}
-{156}{}{Nunca matarás al Maestro. No puede morir.}
-{157}{}{Tienes razón. Mejor será que salga de aquí.}
+{156}{}{Nunca matarÃ¡s al Maestro. No puede morir.}
+{157}{}{Tienes razÃ³n. Mejor serÃ¡ que salga de aquÃ­.}
 {158}{}{Eso ya lo veremos.}
-{159}{}{Mmm. Me pregunto cómo podrá seguir con vida cuando su unidad esté destruida...}
+{159}{}{Mmm. Me pregunto cÃ³mo podrÃ¡ seguir con vida cuando su unidad estÃ© destruida...}
 {160}{}{Eso no puede ser... el Maestro... protege... unifica...}
-{161}{}{Tú eres un ejemplo vivo de "unificación", querido amigo. Lo sé, he visto el proceso. Estoy aquí para evitar que el Maestro "unifique" a nadie más.}
-{162}{}{¿Cómo se siente uno una vez protegido y unificado?}
-{163}{}{Sí, se protege a sí mismo controlando a todos los demás.}
-{164}{}{Ya he tenido suficiente. Adiós.}
-{165}{}{Vete ahora o me estaré forzado a vérmelas contigo.}
-{166}{}{¡¡AAAUGH!!! (Se echa mano a la cabeza lleno de dolor y confusión) No... puedo...}
-{167}{}{Así es, tu amigo el Maestro te despojó de todo lo que tenías en este mundo, incluida tu humanidad.}
-{168}{}{Sabes que tengo razón... por eso estás tan confuso. Luchas contra la mutación. ¡Ayúdame a vengarte destruyendo al Maestro!}
-{169}{}{Claro que puedes. Venga, matemos al Maestro, será divertido.}
-{170}{}{Será mejor que me vaya.}
+{161}{}{TÃº eres un ejemplo vivo de "unificaciÃ³n", querido amigo. Lo sÃ©, he visto el proceso. Estoy aquÃ­ para evitar que el Maestro "unifique" a nadie mÃ¡s.}
+{162}{}{Â¿CÃ³mo se siente uno una vez protegido y unificado?}
+{163}{}{SÃ­, se protege a sÃ­ mismo controlando a todos los demÃ¡s.}
+{164}{}{Ya he tenido suficiente. AdiÃ³s.}
+{165}{}{Vete ahora o me estarÃ© forzado a vÃ©rmelas contigo.}
+{166}{}{Â¡Â¡AAAUGH!!! (Se echa mano a la cabeza lleno de dolor y confusiÃ³n) No... puedo...}
+{167}{}{AsÃ­ es, tu amigo el Maestro te despojÃ³ de todo lo que tenÃ­as en este mundo, incluida tu humanidad.}
+{168}{}{Sabes que tengo razÃ³n... por eso estÃ¡s tan confuso. Luchas contra la mutaciÃ³n. Â¡AyÃºdame a vengarte destruyendo al Maestro!}
+{169}{}{Claro que puedes. Venga, matemos al Maestro, serÃ¡ divertido.}
+{170}{}{SerÃ¡ mejor que me vaya.}
 {171}{}{Siento que sufras tanto, pero es por culpa del Maestro.}
-{172}{}{¡Le sacaré un ojo! ¡¡Arrancaré los cables de su pequeña cabeza babosa!! Tú... fuera de aquí... Yo me ocuparé del Maestro.}
-{173}{}{¡¡Estupendo!!}
-{174}{}{Gracias por la oferta, pero me gustaría hacer el trabajo yo mismo. ¿Te gustaría ayudarme?}
-{175}{}{Voy a quedarme aquí. Tengo algunos asuntos sin resolver.}
+{172}{}{Â¡Le sacarÃ© un ojo! Â¡Â¡ArrancarÃ© los cables de su pequeÃ±a cabeza babosa!! TÃº... fuera de aquÃ­... Yo me ocuparÃ© del Maestro.}
+{173}{}{Â¡Â¡Estupendo!!}
+{174}{}{Gracias por la oferta, pero me gustarÃ­a hacer el trabajo yo mismo. Â¿Te gustarÃ­a ayudarme?}
+{175}{}{Voy a quedarme aquÃ­. Tengo algunos asuntos sin resolver.}

@@ -6,7 +6,7 @@
 {105}{Rhom1}{May I help you?}
 {106}{}{Can I ask you a few questions?}
 {107}{}{You don't look like much of a fighter.}
-{108}{}{Hääh?}
+{108}{}{HÃ¤Ã¤h?}
 {109}{Rhom2}{Yes.}
 {110}{Rhom3}{Insolent pup. Apologize now and you'll not be hurt.}
 {111}{}{I was trying to make a joke. I'm very sorry.}
@@ -96,7 +96,7 @@
 {195}{Rhom49}{I have no knowledge of such a thing.}
 {200}{}{I'm new here and I don't know my way around.}
 {201}{}{I need not explain anything to you, freak.}
-{202}{}{Danke. Tschüss.}
+{202}{}{Danke. TschÃ¼ss.}
 {203}{}{Go to hell.}
 {204}{}{The door creaks when you try to open it.}
 {205}{}{Your skill allows you to steal silently. You make no sound while opening the locker.}
@@ -111,7 +111,7 @@
 {1000}{}{Vree}
 {1001}{}{Rhombus}
 {1002}{}{Talus}
-{1003}{}{Älteste}
+{1003}{}{Ã„lteste}
 {1004}{}{Scribes}
 {1005}{}{Knights}
 {1006}{}{Hub}

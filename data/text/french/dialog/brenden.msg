@@ -1,28 +1,28 @@
-{100}{}{Voici un jeune initié à l'air sévère qui tient un livre.}
-{101}{}{Voici l'Initié Brenden.}
+{100}{}{Voici un jeune initiÃ© Ã  l'air sÃ©vÃ¨re qui tient un livre.}
+{101}{}{Voici l'InitiÃ© Brenden.}
 {102}{}{Bonjour. Je peux t'aider ?}
 {103}{}{Je cherche le Grand Scribe Vree.}
-{104}{}{Je cherche le Général Maxson.}
+{104}{}{Je cherche le GÃ©nÃ©ral Maxson.}
 {105}{}{Je cherche le Paladin Rhombus.}
 {106}{}{Qu'est-ce que tu lis ?}
 {107}{}{Bouhh.}
-{108}{}{Hmm. Apparemment, je ne peux t'être d'aucune aide.}
-{109}{}{Le Grand Scribe Vree est au troisième, dans le labo informatique.}
-{110}{}{Le Général Maxson se trouve habituellement au quatrième, dans les chambres du conseil.}
-{111}{}{Le Paladin Rhombus passe la majeure partie de son temps au premier, dans la pièce réservée au matériel.}
-{112}{}{Je peux t'être utile à autre chose ?}
-{113}{}{Merci. Bonne journée.}
-{114}{}{En fait, je tiens un journal. Je travaille à un traité sur la dynamique sociale de la Confrérie.}
-{115}{}{Hmm. Ca paraît intéressant.}
+{108}{}{Hmm. Apparemment, je ne peux t'Ãªtre d'aucune aide.}
+{109}{}{Le Grand Scribe Vree est au troisiÃ¨me, dans le labo informatique.}
+{110}{}{Le GÃ©nÃ©ral Maxson se trouve habituellement au quatriÃ¨me, dans les chambres du conseil.}
+{111}{}{Le Paladin Rhombus passe la majeure partie de son temps au premier, dans la piÃ¨ce rÃ©servÃ©e au matÃ©riel.}
+{112}{}{Je peux t'Ãªtre utile Ã  autre chose ?}
+{113}{}{Merci. Bonne journÃ©e.}
+{114}{}{En fait, je tiens un journal. Je travaille Ã  un traitÃ© sur la dynamique sociale de la ConfrÃ©rie.}
+{115}{}{Hmm. Ca paraÃ®t intÃ©ressant.}
 {116}{}{Pour quoi faire ?}
-{117}{}{En effet. J'effectue des recherches sur nos prédécesseurs d'avant la guerre et sur les sociétés du monde extérieur. Je pense que la Confrérie a beaucoup de similitudes avec l'ordre des Templiers du prétendu "Age Noir".}
-{118}{}{Pourquoi as-tu décidé d'étudier cela ?}
+{117}{}{En effet. J'effectue des recherches sur nos prÃ©dÃ©cesseurs d'avant la guerre et sur les sociÃ©tÃ©s du monde extÃ©rieur. Je pense que la ConfrÃ©rie a beaucoup de similitudes avec l'ordre des Templiers du prÃ©tendu "Age Noir".}
+{118}{}{Pourquoi as-tu dÃ©cidÃ© d'Ã©tudier cela ?}
 {119}{}{Les Templiers ?}
-{120}{}{Bien que la Confrérie mette davantage l'accent sur les sciences appliquées, peu de choses ont été réalisées en matière de sciences humaines, telles que la psychologie et la sociologie. Pour une éducation harmonieuse, nous devons nous efforcer de toujours appliquer une pensée scientifique à toute chose.}
-{121}{}{Et alors, qu'est-ce que t'as découvert ?}
-{122}{}{Je suis parvenu à la conclusion que la Confrérie fonctionne avant tout comme une organisation pseudo-religieuse. On est en présence d'une forte hiérarchie militaire, associée à des codes d'honneur transmis de génération en génération. Compte tenu de notre savoir-faire technologique, je pense qu'on peut envisager deux orientations possibles en ce qui concerne la Confrérie : une dictature techno-religieuse ou une société de recherche bénévole.}
-{123}{}{Qu'est-ce qui pourrait influencer le développement de la Confrérie ?}
-{124}{}{En définitive, nous sommes en présence d'une structure du pouvoir très hiérarchisée et dominée par les Anciens. Les postes les plus influents, je disais donc, étant occupés par les Anciens et par les Aînés. Un Aîné suffisamment charismatique pourrait tout à fait prendre la tête de la Confrérie. Nous devons veiller à ce que notre dirigeant soit à la fois homme de trempe et visionnaire. Par bonheur, je pense que ce Général Maxson possède toutes les qualités requises.}
-{125}{}{D'après mes recherches, les Templiers étaient une confrérie militaire axée sur l'accumulation des richesses et des connaissances. Bien que leur structure ait eu une connotation religieuse, leur quête du Savoir a fait d'eux une organisation séculaire. Je pense que leur organisation aurait été davantage théocratique s'ils avaient témoigné d'un plus vif intérêt à l'accumulation des richesses et la quête du pouvoir, étant donné que l'église de cette époque, pour sa part, se consacrait principalement à la gestion de l'or et des terres.}
-{126}{}{Et quel rapport avec la Confrérie ?}
-{127}{}{Nous devons absolument comprendre notre passé si nous voulons préparer notre avenir... mais je suis certain que toutes ces choses t'échappent.}
+{120}{}{Bien que la ConfrÃ©rie mette davantage l'accent sur les sciences appliquÃ©es, peu de choses ont Ã©tÃ© rÃ©alisÃ©es en matiÃ¨re de sciences humaines, telles que la psychologie et la sociologie. Pour une Ã©ducation harmonieuse, nous devons nous efforcer de toujours appliquer une pensÃ©e scientifique Ã  toute chose.}
+{121}{}{Et alors, qu'est-ce que t'as dÃ©couvert ?}
+{122}{}{Je suis parvenu Ã  la conclusion que la ConfrÃ©rie fonctionne avant tout comme une organisation pseudo-religieuse. On est en prÃ©sence d'une forte hiÃ©rarchie militaire, associÃ©e Ã  des codes d'honneur transmis de gÃ©nÃ©ration en gÃ©nÃ©ration. Compte tenu de notre savoir-faire technologique, je pense qu'on peut envisager deux orientations possibles en ce qui concerne la ConfrÃ©rie : une dictature techno-religieuse ou une sociÃ©tÃ© de recherche bÃ©nÃ©vole.}
+{123}{}{Qu'est-ce qui pourrait influencer le dÃ©veloppement de la ConfrÃ©rie ?}
+{124}{}{En dÃ©finitive, nous sommes en prÃ©sence d'une structure du pouvoir trÃ¨s hiÃ©rarchisÃ©e et dominÃ©e par les Anciens. Les postes les plus influents, je disais donc, Ã©tant occupÃ©s par les Anciens et par les AÃ®nÃ©s. Un AÃ®nÃ© suffisamment charismatique pourrait tout Ã  fait prendre la tÃªte de la ConfrÃ©rie. Nous devons veiller Ã  ce que notre dirigeant soit Ã  la fois homme de trempe et visionnaire. Par bonheur, je pense que ce GÃ©nÃ©ral Maxson possÃ¨de toutes les qualitÃ©s requises.}
+{125}{}{D'aprÃ¨s mes recherches, les Templiers Ã©taient une confrÃ©rie militaire axÃ©e sur l'accumulation des richesses et des connaissances. Bien que leur structure ait eu une connotation religieuse, leur quÃªte du Savoir a fait d'eux une organisation sÃ©culaire. Je pense que leur organisation aurait Ã©tÃ© davantage thÃ©ocratique s'ils avaient tÃ©moignÃ© d'un plus vif intÃ©rÃªt Ã  l'accumulation des richesses et la quÃªte du pouvoir, Ã©tant donnÃ© que l'Ã©glise de cette Ã©poque, pour sa part, se consacrait principalement Ã  la gestion de l'or et des terres.}
+{126}{}{Et quel rapport avec la ConfrÃ©rie ?}
+{127}{}{Nous devons absolument comprendre notre passÃ© si nous voulons prÃ©parer notre avenir... mais je suis certain que toutes ces choses t'Ã©chappent.}

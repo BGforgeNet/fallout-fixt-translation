@@ -4,11 +4,11 @@
 {103}{}{off}
 {104}{}{Temps restant :  }
 {105}{}{ secondes.}
-{106}{}{Là, c'est la mort assurée.}
+{106}{}{LÃ , c'est la mort assurÃ©e.}
 {107}{}{on}
 {108}{}{Temps restant :  }
 {109}{}{ secondes.}
-{110}{}{Là, c'est la mort assurée.}
+{110}{}{LÃ , c'est la mort assurÃ©e.}
 {111}{}{Temps restant :  }
 {112}{}{ secondes.}
-{113}{}{Là, c'est la mort assurée.}
+{113}{}{LÃ , c'est la mort assurÃ©e.}

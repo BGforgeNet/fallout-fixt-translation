@@ -1,7 +1,7 @@
-{100}{}{Eh, tío, ¿tienes algo de cambio?}
-{101}{}{¡Estoy intentando beber aquí!}
+{100}{}{Eh, tÃ­o, Â¿tienes algo de cambio?}
+{101}{}{Â¡Estoy intentando beber aquÃ­!}
 {102}{}{No me siento muy bien.}
-{103}{}{Tío, tengo que currar.}
-{104}{}{¿Me pasas los cacahuetes?}
+{103}{}{TÃ­o, tengo que currar.}
+{104}{}{Â¿Me pasas los cacahuetes?}
 {105}{}{No estoy lo suficientemente borracho...}
-{106}{}{Tararí... Tarará...}
+{106}{}{TararÃ­... TararÃ¡...}

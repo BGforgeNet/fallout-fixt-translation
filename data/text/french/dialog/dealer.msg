@@ -1,32 +1,32 @@
-{100}{}{Bonjour ! Bienvenue dans mon ancien garage privé. Laquelle de ces beautés t'intéresse aujourd'hui ?}
-{101}{}{J'espère que tu plaisantes. Ces voitures ne sont que des épaves.}
+{100}{}{Bonjour ! Bienvenue dans mon ancien garage privÃ©. Laquelle de ces beautÃ©s t'intÃ©resse aujourd'hui ?}
+{101}{}{J'espÃ¨re que tu plaisantes. Ces voitures ne sont que des Ã©paves.}
 {102}{}{Euh, rien, merci.}
 {103}{}{Bou !}
-{104}{}{Oh, excuse-moi mais apparemment nos taux de financement ne sont pas à ta portée.}
-{105}{}{Mais, monsieur, ce sont d'excellents modèles.}
-{106}{}{Madame, ce sont des véhicules de bonne qualité.}
-{107}{}{Ils ne peuvent pas être en bon état de marche.}
+{104}{}{Oh, excuse-moi mais apparemment nos taux de financement ne sont pas Ã  ta portÃ©e.}
+{105}{}{Mais, monsieur, ce sont d'excellents modÃ¨les.}
+{106}{}{Madame, ce sont des vÃ©hicules de bonne qualitÃ©.}
+{107}{}{Ils ne peuvent pas Ãªtre en bon Ã©tat de marche.}
 {108}{}{Ouais, Ok. D'accord. Au revoir.}
-{109}{}{Notre service de contrôle a accordé à ces voitures les 100 points réglementaires.}
-{110}{}{Et où se trouve ce service de contrôle ?}
-{111}{}{Imbécile.}
+{109}{}{Notre service de contrÃ´le a accordÃ© Ã  ces voitures les 100 points rÃ©glementaires.}
+{110}{}{Et oÃ¹ se trouve ce service de contrÃ´le ?}
+{111}{}{ImbÃ©cile.}
 {112}{}{Au revoir.}
-{113}{}{Juste là, monsieur. [Le vendeur tend la main en direction d'un emplacement vide.]}
-{114}{}{Juste là, madame. [Le vendeur tend la main en direction d'un emplacement vide.]}
-{115}{}{Où ça ? Il n'y a rien là.}
+{113}{}{Juste lÃ , monsieur. [Le vendeur tend la main en direction d'un emplacement vide.]}
+{114}{}{Juste lÃ , madame. [Le vendeur tend la main en direction d'un emplacement vide.]}
+{115}{}{OÃ¹ Ã§a ? Il n'y a rien lÃ .}
 {116}{}{Tocard, va.}
 {117}{}{Comment ? Mais ils travaillent sur une nouvelle acquisition, une Corvega '56. Une bonne affaire, je dois dire.}
 {118}{}{Ok, comme tu veux.}
-{119}{}{Tu es complètement malade.}
+{119}{}{Tu es complÃ¨tement malade.}
 {120}{}{Salut.}
-{121}{}{Et nous offrons une excellente garantie. Tu peux aussi nous la ramener pour les vidanges. La première est gratuite. Qu'est-ce que tu en dis ?}
+{121}{}{Et nous offrons une excellente garantie. Tu peux aussi nous la ramener pour les vidanges. La premiÃ¨re est gratuite. Qu'est-ce que tu en dis ?}
 {122}{}{Fais le plein et c'est d'accord.}
-{123}{}{Ton cas est désespéré.}
+{123}{}{Ton cas est dÃ©sespÃ©rÃ©.}
 {124}{}{Je m'en vais.}
-{125}{}{Excuse-moi, nous n'avons pas d'essence. Peut-être la prochaine fois. Au revoir.}
-{126}{}{Tu m'insultes. Je n'ai pas à accepter ça de la part d'un client. Bonne journée.}
-{127}{}{C'est ma pause café, reviens plus tard.}
+{125}{}{Excuse-moi, nous n'avons pas d'essence. Peut-Ãªtre la prochaine fois. Au revoir.}
+{126}{}{Tu m'insultes. Je n'ai pas Ã  accepter Ã§a de la part d'un client. Bonne journÃ©e.}
+{127}{}{C'est ma pause cafÃ©, reviens plus tard.}
 {128}{}{Allez, tu devrais en essayer une.}
-{129}{}{Tu devrais prendre un enduit antirouille avec ça.}
+{129}{}{Tu devrais prendre un enduit antirouille avec Ã§a.}
 {130}{}{Puis-je te proposer une alarme ?}
 {131}{}{Bonjour ! Je m'appelle Bob.}

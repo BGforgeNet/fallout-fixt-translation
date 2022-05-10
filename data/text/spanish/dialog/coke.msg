@@ -1,3 +1,3 @@
-{100}{}{Está rota. Qué decepción.}
-{101}{}{¡Encuentras algunas chapas viejas en la bandeja!}
-{102}{}{La publicidad en el costado de esta máquina promociona su popular refresco.}
+{100}{}{EstÃ¡ rota. QuÃ© decepciÃ³n.}
+{101}{}{Â¡Encuentras algunas chapas viejas en la bandeja!}
+{102}{}{La publicidad en el costado de esta mÃ¡quina promociona su popular refresco.}

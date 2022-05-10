@@ -1,4 +1,4 @@
-{100}{}{Parece que la explosión ha destruido este terminal.}
-{101}{}{Este ordenador parece haber almacenado megabytes de información.}
-{102}{}{Te preguntas qué información puede haber estado almacenada en este ordenador.}
+{100}{}{Parece que la explosiÃ³n ha destruido este terminal.}
+{101}{}{Este ordenador parece haber almacenado megabytes de informaciÃ³n.}
+{102}{}{Te preguntas quÃ© informaciÃ³n puede haber estado almacenada en este ordenador.}
 {103}{}{Parece que este ordenador estuvo una vez conectado al sistema principal.}

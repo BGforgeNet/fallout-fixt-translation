@@ -1,3 +1,3 @@
-{100}{}{Est·s viendo una bomba de agua.}
-{101}{}{El diseÒo de esta bomba parece muy diferente al que hay en tu Refugio.}
-{102}{}{Te das cuenta de que las piezas de la bomba ser·n incompatibles con las de tu Refugio.}
+{100}{}{Est√°s viendo una bomba de agua.}
+{101}{}{El dise√±o de esta bomba parece muy diferente al que hay en tu Refugio.}
+{102}{}{Te das cuenta de que las piezas de la bomba ser√°n incompatibles con las de tu Refugio.}

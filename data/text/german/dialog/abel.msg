@@ -2,16 +2,16 @@
 {101}{}{Du siehst einen riesigen Mutanten.}
 {102}{}{Du darfst nicht hier sein.}
 {103}{}{Hng.}
-{104}{}{Natürlich nicht. Ich bin hier, um dich zu töten!}
+{104}{}{NatÃ¼rlich nicht. Ich bin hier, um dich zu tÃ¶ten!}
 {105}{}{Warum sagst du das?}
 {106}{}{Oh, ja? Deine Mutter!}
 {107}{}{Pik!}
 {108}{}{Ich werde dir innen Arsch treten, wenn du das nochmal sagst!}
 {109}{}{Pik! Pik!}
 {110}{}{Oh, jetzt kriegst du ein paar!}
-{111}{}{Du Mensch. Ich Mutant. Mutant töten Mensch.}
+{111}{}{Du Mensch. Ich Mutant. Mutant tÃ¶ten Mensch.}
 {112}{}{Wie machst du das? Was ist mit dem Kraftfeld?}
-{113}{}{Abel kümmert sich darum. Dann Abel dir in den Arsch treten!}
+{113}{}{Abel kÃ¼mmert sich darum. Dann Abel dir in den Arsch treten!}
 {114}{}{Kinder nicht erlaubt sein hier. Das Ort von Mutanten. Geh weg.}
 {115}{}{Hng!}
 {116}{}{Ich muss durch dieses Kraftfeld kommen. Bitte deaktiviere es.}
@@ -30,7 +30,7 @@
 {980}{}{Hng.}
 {981}{}{Warum sagst du das?}
 {982}{}{Pik!}
-{983}{}{Uh... hä?}
+{983}{}{Uh... hÃ¤?}
 {984}{}{Hmm?}
 {985}{}{Was sagst du?}
 {986}{}{Was, hmm?}

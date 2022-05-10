@@ -1,6 +1,6 @@
 {100}{}{Voici la femme de Dan.}
-{101}{}{Je ne dois parler à personne. Adresse-toi à mon mari.}
-{102}{}{Désolée, tu dois parler à mon mari.}
-{103}{}{Toi, affreux personnage, pourquoi as-tu fait ça ? Tu as tué mon Danny !}
-{104}{}{Toi, horrible femme, pourquoi as-tu fait ça ? Tu as tué mon Danny !}
+{101}{}{Je ne dois parler Ã  personne. Adresse-toi Ã  mon mari.}
+{102}{}{DÃ©solÃ©e, tu dois parler Ã  mon mari.}
+{103}{}{Toi, affreux personnage, pourquoi as-tu fait Ã§a ? Tu as tuÃ© mon Danny !}
+{104}{}{Toi, horrible femme, pourquoi as-tu fait Ã§a ? Tu as tuÃ© mon Danny !}
 {105}{}{La femme de Dan est en pleurs.}

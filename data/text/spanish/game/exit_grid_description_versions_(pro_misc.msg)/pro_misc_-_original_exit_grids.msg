@@ -4,20 +4,20 @@
 ##
 {100}{}{Cohete}
 {200}{}{Bola de Plasma}
-{300}{}{Explosi髇}
+{300}{}{Explosi贸n}
 {400}{}{Sangre}
-{500}{}{Hex醙ono no-trans}
+{500}{}{Hex谩gono no-trans}
 {501}{}{}
 {600}{}{Cuchillo}
 {700}{}{Lanza}
-{800}{}{Explosi髇 PEM}
-{900}{}{Fogonazo L醩er}
+{800}{}{Explosi贸n PEM}
+{900}{}{Fogonazo L谩ser}
 {1000}{}{Fogonazo Plasma}
-{1100}{}{Explosi髇}
+{1100}{}{Explosi贸n}
 {1200}{}{Cierre de Manuscrito}
 {1300}{}{Interruptor Electricidad}
-{1400}{}{Explosi髇}
-{1500}{}{Explosi髇}
+{1400}{}{Explosi贸n}
+{1500}{}{Explosi贸n}
 {1600}{}{Red de Salida}
 {1700}{}{Red de Salida}
 {1800}{}{Red de Salida}
@@ -29,10 +29,10 @@
 {2400}{}{Bengala}
 {2500}{}{Granada}
 {2600}{}{Roca}
-{2700}{}{Explosi髇}
-{2800}{}{Explosi髇}
-{2900}{}{Explosi髇}
-{3000}{}{C骳tel Molotov}
+{2700}{}{Explosi贸n}
+{2800}{}{Explosi贸n}
+{2900}{}{Explosi贸n}
+{3000}{}{C贸ctel Molotov}
 {3100}{}{Red de Salida}
 {3200}{}{Red de Salida}
 {3300}{}{Red de Salida}

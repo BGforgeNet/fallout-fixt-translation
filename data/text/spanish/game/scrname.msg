@@ -1,17 +1,17 @@
 {101}{}{}
 {102}{}{}
-{103}{}{Comerciante de Arenas SombrÌas}
+{103}{}{Comerciante de Arenas Sombr√≠as}
 {104}{}{Guardaespaldas}
 {105}{}{Brahmin}
 {106}{}{Guardia del Foso de los Pistoleros}
 {107}{}{Guardia}
 {108}{}{Perdedor}
-{109}{}{Campesino de Arenas SombrÌas}
+{109}{}{Campesino de Arenas Sombr√≠as}
 {110}{}{Pistolero}
 {111}{}{Entrada al Mapa}
 {112}{}{}
 {113}{}{Centinela Supermutante}
-{114}{}{Pozo de Arenas SombrÌas}
+{114}{}{Pozo de Arenas Sombr√≠as}
 {115}{}{Set}
 {116}{}{Harry}
 {117}{}{Estimulante}
@@ -19,17 +19,17 @@
 {119}{}{Alcantarilla}
 {120}{}{Escalera}
 {121}{}{Silla}
-{122}{}{M·quina de Nuka-Cola}
+{122}{}{M√°quina de Nuka-Cola}
 {123}{}{Mesa del Encargado}
-{124}{}{Cad·ver}
+{124}{}{Cad√°ver}
 {125}{}{una mesa}
-{126}{}{Cad·ver de NecrÛfago}
+{126}{}{Cad√°ver de Necr√≥fago}
 {127}{}{}
 {128}{}{Alcantarilla}
 {129}{}{Escalera}
-{130}{}{Gerente NecrÛfago}
+{130}{}{Gerente Necr√≥fago}
 {131}{}{Mapa Manuscrito}
-{132}{}{NecrÛfago}
+{132}{}{Necr√≥fago}
 {133}{}{Aradesh}
 {134}{}{Brahmin}
 {135}{}{Cougar}
@@ -38,7 +38,7 @@
 {138}{}{Campesino de Ciudad Vertedero}
 {139}{}{Butch}
 {140}{}{Cabbot}
-{141}{}{NiÒo de la Catedral}
+{141}{}{Ni√±o de la Catedral}
 {142}{}{Decker}
 {143}{}{Anciano}
 {144}{}{Gizmo}
@@ -57,36 +57,36 @@
 {157}{}{Tandi}
 {158}{}{Vree}
 {159}{}{}
-{160}{}{C·mara de Aire de NecrÛpolis}
+{160}{}{C√°mara de Aire de Necr√≥polis}
 {161}{}{Barry}
 {162}{}{Computadora}
 {163}{}{Puerta}
-{164}{}{Bandido NecrÛfagos}
+{164}{}{Bandido Necr√≥fagos}
 {165}{}{Gary}
-{166}{}{NecrÛfago}
-{167}{}{NecrÛfago}
+{166}{}{Necr√≥fago}
+{167}{}{Necr√≥fago}
 {168}{}{Resplandeciente}
-{169}{}{Cad·ver de NecrÛfago}
-{170}{}{Centinela NecrÛfago}
-{171}{}{Cad·ver de NecrÛfago}
+{169}{}{Cad√°ver de Necr√≥fago}
+{170}{}{Centinela Necr√≥fago}
+{171}{}{Cad√°ver de Necr√≥fago}
 {172}{}{Guardia de Set}
-{173}{}{Gerente NecrÛfago}
-{174}{}{Refugiado NecrÛfago}
-{175}{}{Guardia NecrÛfago}
+{173}{}{Gerente Necr√≥fago}
+{174}{}{Refugiado Necr√≥fago}
+{175}{}{Guardia Necr√≥fago}
 {176}{}{Resplandeciente enjaulado}
-{177}{}{Subterr·neo}
+{177}{}{Subterr√°neo}
 {178}{}{Guardia}
 {179}{}{Harry}
 {180}{}{Larry}
-{181}{}{LÌder Subterr·neo}
-{182}{}{Gerente NecrÛfago}
-{183}{}{Cad·ver mutilado}
-{184}{}{Campesino NecrÛfago}
+{181}{}{L√≠der Subterr√°neo}
+{182}{}{Gerente Necr√≥fago}
+{183}{}{Cad√°ver mutilado}
+{184}{}{Campesino Necr√≥fago}
 {185}{}{Supermutante}
 {186}{}{Ordenador de Agua}
 {187}{}{la bomba de agua}
 {188}{}{Muro}
-{189}{}{Prisionero NecrÛfago}
+{189}{}{Prisionero Necr√≥fago}
 {190}{}{Sally}
 {191}{}{Grafiti}
 {192}{}{Nevera de Set}
@@ -94,32 +94,32 @@
 {194}{}{Puerta}
 {195}{}{Guardaespaldas de Set}
 {196}{}{Muro}
-{197}{}{Olor extraÒo}
+{197}{}{Olor extra√±o}
 {198}{}{Estimulante}
-{199}{}{Despensa de NecrÛpolis}
+{199}{}{Despensa de Necr√≥polis}
 {200}{}{Supermutante}
 {201}{}{Terry}
 {202}{}{Garret}
 {203}{}{Gretch}
-{204}{}{Doc MÛrbid}
+{204}{}{Doc M√≥rbid}
 {205}{}{Dumar}
 {206}{}{Barstow}
-{207}{}{Iniciado de los NiÒos de la Catedral}
-{208}{}{Curandero de los NiÒos de la Catedral}
-{209}{}{Centinela Subterr·neo}
+{207}{}{Iniciado de los Ni√±os de la Catedral}
+{208}{}{Curandero de los Ni√±os de la Catedral}
+{209}{}{Centinela Subterr√°neo}
 {210}{}{Computadora}
-{211}{}{HabitaciÛn cerrada}
+{211}{}{Habitaci√≥n cerrada}
 {212}{}{Desierto}
 {213}{}{Guardia}
-{214}{}{Cocinero de Arenas SombrÌas}
-{215}{}{Ciudadano de Arenas SombrÌas}
+{214}{}{Cocinero de Arenas Sombr√≠as}
+{215}{}{Ciudadano de Arenas Sombr√≠as}
 {216}{}{Silla}
 {217}{}{Cama de Agatha}
 {218}{}{Cama de Razlo}
 {219}{}{Mujer de Razlo}
-{220}{}{una cÛmoda}
+{220}{}{una c√≥moda}
 {221}{}{una esterilla}
-{222}{}{una estanterÌa}
+{222}{}{una estanter√≠a}
 {223}{}{Fuente de Fruta}
 {224}{}{una mesa}
 {225}{}{Estante}
@@ -128,7 +128,7 @@
 {228}{}{Olor a corral de Brahmines}
 {229}{}{Razlo}
 {230}{}{Ciudadano del Refugio 13}
-{231}{}{C·mara de Aire del Refugio 13}
+{231}{}{C√°mara de Aire del Refugio 13}
 {232}{}{Monitor del Refugio 13}
 {233}{}{Sistema Central del Refugio 13}
 {234}{}{Ordenador de la Biblioteca del Refugio 13}
@@ -151,7 +151,7 @@
 {251}{}{Aposentos}
 {252}{}{Pasadizo cerrado}
 {253}{}{Pasadizo cerrado}
-{254}{}{C·mara de Aire}
+{254}{}{C√°mara de Aire}
 {255}{}{Sala de los Difuntos}
 {256}{}{Gabriel}
 {257}{}{una mesa de dados}
@@ -160,8 +160,8 @@
 {260}{}{Escalera}
 {261}{}{Escalera}
 {262}{}{Guardia de la Puerta}
-{263}{}{Guardia de la RaciÛn de Agua}
-{264}{}{AlmacÈn de Agua}
+{263}{}{Guardia de la Raci√≥n de Agua}
+{264}{}{Almac√©n de Agua}
 {265}{}{Alcantarilla}
 {266}{}{Alcantarilla}
 {267}{}{Alcantarilla}
@@ -181,18 +181,18 @@
 {281}{}{Escalera}
 {282}{}{Cuevas de los Escorpiones Rad}
 {283}{}{Seth}
-{284}{}{MÈdico del Refugio 13}
+{284}{}{M√©dico del Refugio 13}
 {285}{}{Ciudadano del Refugio 13}
 {286}{}{Casino de Ciudad Vertedero}
 {287}{}{Posada de Ciudad Vertedero}
 {288}{}{Entrada a Ciudad Vertedero}
 {289}{}{Pasadizo cerrado}
-{290}{}{C·mara de Aire}
-{291}{}{Escondite MÈdico}
+{290}{}{C√°mara de Aire}
+{291}{}{Escondite M√©dico}
 {292}{}{Entrada al Refugio 15}
-{293}{}{Arenas SombrÌas}
-{294}{}{Arenas SombrÌas}
-{295}{}{Laboratorio MÈdico}
+{293}{}{Arenas Sombr√≠as}
+{294}{}{Arenas Sombr√≠as}
+{295}{}{Laboratorio M√©dico}
 {296}{}{Choza Abandonada}
 {297}{}{Seth}
 {298}{}{Escriba de la Hermandad}
@@ -216,7 +216,7 @@
 {316}{}{Sala de Seguridad del Refugio 13}
 {317}{}{Despensa del Refugio 13}
 {318}{}{Sala de Reuniones del Refugio 13}
-{319}{}{Laboratorio MÈdico del Refugio 13}
+{319}{}{Laboratorio M√©dico del Refugio 13}
 {320}{}{Desguace}
 {321}{}{Guardia de Ciudad Vertedero}
 {322}{}{}
@@ -227,8 +227,8 @@
 {327}{}{Ascensor}
 {328}{}{Refugio 15}
 {329}{}{Perro}
-{330}{}{Guardia NecrÛfago}
-{331}{}{NecrÛfago Enfadado}
+{330}{}{Guardia Necr√≥fago}
+{331}{}{Necr√≥fago Enfadado}
 {332}{}{Guardia Supermutante}
 {333}{}{Centinela Supermutante}
 {334}{}{Supermutante}
@@ -243,8 +243,8 @@
 {343}{}{Duc}
 {344}{}{Ciudad}
 {345}{}{Costa}
-{346}{}{MontaÒa}
-{347}{}{Hern·ndez}
+{346}{}{Monta√±a}
+{347}{}{Hern√°ndez}
 {348}{}{Cuevas}
 {349}{}{Miles}
 {350}{}{Smitty}
@@ -258,8 +258,8 @@
 {358}{}{Erudito de los Seguidores}
 {359}{}{Iniciado de los Seguidores}
 {360}{}{Explorador de los Nocturnos}
-{361}{}{Erudito de los NiÒos de la Catedral}
-{362}{}{Iniciado de los NiÒos de la Catedral}
+{361}{}{Erudito de los Ni√±os de la Catedral}
+{362}{}{Iniciado de los Ni√±os de la Catedral}
 {363}{}{Explorador de los Seguidores}
 {364}{}{Guardia de los Seguidores}
 {365}{}{Supermutante Intelectual}
@@ -272,8 +272,8 @@
 {372}{}{Amber}
 {373}{}{Uthern}
 {374}{}{Talius}
-{375}{}{Guardia de los NiÒos de la Catedral}
-{376}{}{Explorador de los NiÒos de la Catedral}
+{375}{}{Guardia de los Ni√±os de la Catedral}
+{376}{}{Explorador de los Ni√±os de la Catedral}
 {377}{}{Explorador Supermutante}
 {378}{}{Cuchilla}
 {379}{}{Bandido de los Navajas}
@@ -291,10 +291,10 @@
 {391}{}{Escalera}
 {392}{}{Cuerpo Carbonizado}
 {393}{}{Huesos Secos}
-{394}{}{Persona en una armadura extraÒa}
-{395}{}{Holodisco VacÌo}
-{396}{}{Punto caliente de RadiaciÛn}
-{397}{}{Persona en una armadura extraÒa}
+{394}{}{Persona en una armadura extra√±a}
+{395}{}{Holodisco Vac√≠o}
+{396}{}{Punto caliente de Radiaci√≥n}
+{397}{}{Persona en una armadura extra√±a}
 {398}{}{Puerta Segura}
 {399}{}{Computadora}
 {400}{}{Puerta Segura}
@@ -310,21 +310,21 @@
 {410}{}{Jaula}
 {411}{}{una mesa}
 {412}{}{Superordenador}
-{413}{}{Esqueleto extraÒo}
+{413}{}{Esqueleto extra√±o}
 {414}{}{Nota}
 {415}{}{Farli}
 {416}{}{Darrel}
-{417}{}{Guardia PaladÌn de la Hermandad}
+{417}{}{Guardia Palad√≠n de la Hermandad}
 {418}{}{Talus}
 {419}{}{Sophia}
 {420}{}{Michael}
 {421}{}{Puerta Segura}
 {422}{}{Escriba de la Hermandad}
 {423}{}{Escriba de la Hermandad}
-{424}{}{Centinela PaladÌn de la Hermandad}
-{425}{}{PaladÌn de la Hermandad}
-{426}{}{Guardia PaladÌn de la Hermandad}
-{427}{}{PaladÌn de la Hermandad}
+{424}{}{Centinela Palad√≠n de la Hermandad}
+{425}{}{Palad√≠n de la Hermandad}
+{426}{}{Guardia Palad√≠n de la Hermandad}
+{427}{}{Palad√≠n de la Hermandad}
 {428}{}{Ascensor pintado de azul}
 {429}{}{Caballero de La Hermandad}
 {430}{}{Caballero de La Hermandad}
@@ -333,11 +333,11 @@
 {433}{}{Disco Antiguo Hermandad}
 {434}{}{Vitrina}
 {435}{}{Vapores Nocivos}
-{436}{}{L·seres}
+{436}{}{L√°seres}
 {437}{}{Saqueador Enloquecido}
 {438}{}{Sinthia}
 {439}{}{Marcelles}
-{440}{}{DepÛsito Seguro}
+{440}{}{Dep√≥sito Seguro}
 {441}{}{Bob}
 {442}{}{Trish}
 {443}{}{Puerta del Refugio 13}
@@ -346,20 +346,20 @@
 {446}{}{Disco de Experimentos Delta}
 {447}{}{Disco de Experimentos VEF}
 {448}{}{Informes de Autopsia Vree}
-{449}{}{Disco de AnulaciÛn de Seguridad}
+{449}{}{Disco de Anulaci√≥n de Seguridad}
 {450}{}{Disco Decodificador de Cifrados}
 {451}{}{Jugador}
 {452}{}{Phil}
-{453}{}{AlbÛndiga}
-{454}{}{una m·quina tragaperras}
-{455}{}{una m·quina tragaperras}
+{453}{}{Alb√≥ndiga}
+{454}{}{una m√°quina tragaperras}
+{455}{}{una m√°quina tragaperras}
 {456}{}{Mesa de Blackjack}
 {457}{}{Mesa de Blackjack}
-{458}{}{TÈcnico de los NiÒos de la Catedral}
+{458}{}{T√©cnico de los Ni√±os de la Catedral}
 {459}{}{Abel}
 {460}{}{un campo de fuerza}
 {461}{}{Radio}
-{462}{}{una seÒal}
+{462}{}{una se√±al}
 {463}{}{Puerta muy Segura}
 {464}{}{Computadora}
 {465}{}{Cerebrobot}
@@ -383,8 +383,8 @@
 {483}{}{Gorila}
 {484}{}{Fustigador}
 {485}{}{Vinnie}
-{486}{}{VÌctor}
-{487}{}{TiburÛn}
+{486}{}{V√≠ctor}
+{487}{}{Tibur√≥n}
 {488}{}{Sherry}
 {489}{}{Tycho}
 {490}{}{Bandido de los Kalaveras}
@@ -392,7 +392,7 @@
 {492}{}{Zark}
 {493}{}{Calder}
 {494}{}{Centinela de los Nocturnos}
-{495}{}{NiÒo con car·cter}
+{495}{}{Ni√±o con car√°cter}
 {496}{}{Miembro del Coro}
 {497}{}{Tonelada}
 {498}{}{Miembro del Coro}
@@ -422,18 +422,18 @@
 {522}{}{Escalera}
 {523}{}{Alcantarilla}
 {524}{}{Alcantarilla}
-{525}{}{Refugio de NecrÛpolis}
+{525}{}{Refugio de Necr√≥polis}
 {526}{}{Mapa de la Ciudad}
-{527}{}{Puerta de C·mara de Aire}
-{528}{}{una estanterÌa}
-{529}{}{una estanterÌa}
+{527}{}{Puerta de C√°mara de Aire}
+{528}{}{una estanter√≠a}
+{529}{}{una estanter√≠a}
 {530}{}{Cuevas}
 {531}{}{Puerta Segura}
 {532}{}{Centro de Mando}
 {533}{}{Centinela Supermutante}
 {534}{}{Krupper}
 {535}{}{Van Haggen}
-{536}{}{V·squez}
+{536}{}{V√°squez}
 {537}{}{Explorador de Ciudad Vertedero}
 {538}{}{Ciudadano de Ciudad Vertedero}
 {539}{}{Saqueador}
@@ -441,8 +441,8 @@
 {541}{}{Fortaleza}
 {542}{}{Tanques}
 {543}{}{Entrada a la Base Militar}
-{544}{}{NiÒos de la Catedral}
-{545}{}{NiÒos de la Catedral}
+{544}{}{Ni√±os de la Catedral}
+{545}{}{Ni√±os de la Catedral}
 {546}{}{Refugio del Maestro}
 {547}{}{Refugio del Maestro}
 {548}{}{Computadora}
@@ -458,9 +458,9 @@
 {558}{}{Refugio 13}
 {559}{}{Puerta Segura}
 {560}{}{Focos}
-{561}{}{LadrÛn de Agua}
+{561}{}{Ladr√≥n de Agua}
 {562}{}{Jennifer}
-{563}{}{ExplosiÛn}
+{563}{}{Explosi√≥n}
 {564}{}{Silla}
 {565}{}{Muro de la Cueva}
 {566}{}{Ascensor}
@@ -472,7 +472,7 @@
 {572}{}{Ascensor}
 {573}{}{Barfly}
 {574}{}{Refugio 15}
-{575}{}{CamiÛn de Nuka-Cola}
+{575}{}{Cami√≥n de Nuka-Cola}
 {576}{}{Platillo Volante}
 {577}{}{Ardor}
 {578}{}{Ardor}
@@ -487,10 +487,10 @@
 {587}{}{Eje}
 {588}{}{Eje}
 {589}{}{Cueva}
-{590}{}{ExtraÒa Cabina de TelÈfonos}
+{590}{}{Extra√±a Cabina de Tel√©fonos}
 {591}{}{Gran Huella}
 {592}{}{Desguace}
-{593}{}{RebaÒo de Brahmines}
+{593}{}{Reba√±o de Brahmines}
 {594}{}{Alcantarilla}
 {595}{}{Escalera}
 {596}{}{Viola}
@@ -499,7 +499,7 @@
 {599}{}{Dane}
 {600}{}{Jonathan}
 {601}{}{Estudiante de la Hermandad}
-{602}{}{NiÒos de la Catedral}
+{602}{}{Ni√±os de la Catedral}
 {603}{}{Puerta Segura}
 {604}{}{Alcantarillas}
 {605}{}{Alcantarillas}
@@ -525,7 +525,7 @@
 {625}{}{Sargento Supermutante}
 {626}{}{Puerta muy Segura}
 {627}{}{Trofeo}
-{628}{}{Sa˙l}
+{628}{}{Sa√∫l}
 {629}{}{Gustofer}
 {630}{}{}
 {631}{}{Centinela Supermutante}
@@ -555,7 +555,7 @@
 {655}{}{Guardia de Lorenzo}
 {656}{}{Billy}
 {657}{}{Bob}
-{658}{}{una seÒal}
+{658}{}{una se√±al}
 {659}{}{Guardia de Lorenzo}
 {660}{}{Cleo}
 {661}{}{Conductor de Caravana}
@@ -565,18 +565,18 @@
 {665}{}{Guardia de Decker}
 {666}{}{Demetre}
 {667}{}{Ayudante Fry}
-{668}{}{AlbÛndiga}
+{668}{}{Alb√≥ndiga}
 {669}{}{Puerta muy Segura}
 {670}{}{el suelo}
 {671}{}{Granjero}
 {672}{}{Guardia de los Comerciantes de Ultramar}
-{673}{}{Oficial de PolicÌa del Eje}
+{673}{}{Oficial de Polic√≠a del Eje}
 {674}{}{Mercader Comerciante de Ultramar}
 {675}{}{Yonqui}
 {676}{}{Guido}
 {677}{}{Puerta Segura}
 {678}{}{Guardaespaldas}
-{679}{}{Guardia de los NiÒos de la Catedral}
+{679}{}{Guardia de los Ni√±os de la Catedral}
 {680}{}{Granjero}
 {681}{}{Guardia del Eje}
 {682}{}{Daren Hightower}
@@ -584,10 +584,10 @@
 {684}{}{Mujer de Hightower}
 {685}{}{Habitante del Eje}
 {686}{}{Mercader de Caravanas}
-{687}{}{Oficial de PolicÌa del Eje}
+{687}{}{Oficial de Polic√≠a del Eje}
 {688}{}{Hippie}
 {689}{}{Jake}
-{690}{}{Paciente de los NiÒos de la Catedral}
+{690}{}{Paciente de los Ni√±os de la Catedral}
 {691}{}{Smitty}
 {692}{}{Jasmine}
 {693}{}{Puesto de Trabajo}
@@ -607,7 +607,7 @@
 {707}{}{Computadora}
 {708}{}{Centinela Supermutante}
 {709}{}{Mercader de Caravanas}
-{710}{}{AtenciÛn}
+{710}{}{Atenci√≥n}
 {711}{}{Alarma}
 {712}{}{el suelo}
 {713}{}{el suelo}
@@ -628,10 +628,10 @@
 {728}{}{una escalera}
 {729}{}{Hueco de Escalera}
 {730}{}{Puerta muy Segura}
-{731}{}{Sr. MaÒoso}
+{731}{}{Sr. Ma√±oso}
 {732}{}{Estudiante de la Hermandad}
 {733}{}{Thomas}
-{734}{}{Modificar reacciÛn}
+{734}{}{Modificar reacci√≥n}
 {735}{}{Alcantarilla}
 {736}{}{Escalera}
 {737}{}{Alcantarilla}
@@ -643,17 +643,17 @@
 {743}{}{Prole de Garra Mortal}
 {744}{}{Pescador}
 {745}{}{Hijo del Pescador}
-{746}{}{ExtraÒa Cabina de TelÈfonos}
+{746}{}{Extra√±a Cabina de Tel√©fonos}
 {747}{}{Gran Huella}
-{748}{}{ExtraÒa Cabina de TelÈfonos}
+{748}{}{Extra√±a Cabina de Tel√©fonos}
 {749}{}{Brahmin}
-{750}{}{RebaÒo de Brahmines}
+{750}{}{Reba√±o de Brahmines}
 {751}{}{Campesino herido}
 {752}{}{Guardia duro}
 {753}{}{Animado Siempre}
 {754}{}{Hueco de Escalera}
 {755}{}{una escalera}
-{756}{}{Expendedora de periÛdicos}
+{756}{}{Expendedora de peri√≥dicos}
 {757}{}{Vendedor de Coches Usados}
 {758}{}{Desguace}
 {759}{}{Brotherhood of Steel - Destroyed}
@@ -675,8 +675,8 @@
 {775}{}{Dr. Lorri}
 {776}{}{Moore}
 {777}{}{Lucy}
-{778}{}{EscalofrÌo}
-{779}{}{CientÌfica Loco}
+{778}{}{Escalofr√≠o}
+{779}{}{Cient√≠fica Loco}
 {780}{}{Vincent}
 {781}{}{Piezas de Granja}
 {782}{}{Prisionero}
@@ -688,7 +688,7 @@
 {788}{}{Rae}
 {789}{}{Puerta muy Segura}
 {790}{}{Ayudante del Doctor}
-{791}{}{Tu compaÒero de habitaciÛn}
+{791}{}{Tu compa√±ero de habitaci√≥n}
 {792}{}{Iniciado de la Hermandad del Acero}
 {793}{}{Coyote}
 {794}{}{Centinela Supermutante}
@@ -699,25 +699,25 @@
 {799}{}{Lance}
 {800}{}{Saqueador}
 {801}{}{Mercader del Eje}
-{802}{}{Explorador PaladÌn de la Hermandad}
+{802}{}{Explorador Palad√≠n de la Hermandad}
 {803}{}{Trent}
 {804}{}{Croupier de Dados}
-{805}{}{una m·quina tragaperras}
+{805}{}{una m√°quina tragaperras}
 {806}{}{Borracho}
 {807}{}{Jugador}
 {808}{}{Prostituta}
 {809}{}{John}
 {810}{}{Croupier}
 {811}{}{Supermutante rezando}
-{812}{}{NiÒo de la Catedral rezando}
+{812}{}{Ni√±o de la Catedral rezando}
 {813}{}{Campesino}
 {814}{}{Croupier de Ruleta}
 {815}{}{Campesino de Ciudad Vertedero}
 {816}{}{Instructor de la Hermandad}
 {817}{}{Escriba de la Hermandad}
 {818}{}{Caballero de La Hermandad}
-{819}{}{PaladÌn de la Hermandad}
-{820}{}{una m·quina tragaperras}
+{819}{}{Palad√≠n de la Hermandad}
+{820}{}{una m√°quina tragaperras}
 {821}{}{una escalera}
 {822}{}{Hueco de Escalera}
 {823}{}{Escriba de la Hermandad}
@@ -734,18 +734,18 @@
 {834}{}{Taquilla}
 {835}{}{}
 {836}{}{Mesa de Trabajo}
-{837}{}{CientÌfica Loco}
+{837}{}{Cient√≠fica Loco}
 {838}{}{Mujer Prisionera}
 {839}{}{un fregadero}
 {840}{}{Pasadizo de la Repugnancia}
 {841}{}{Generador}
 {842}{}{Computadora}
-{843}{}{MaletÌn}
+{843}{}{Malet√≠n}
 {844}{}{Holodisk}
 {845}{}{Holodisk}
 {846}{}{Holodisk}
 {847}{}{Refrigerador}
-{848}{}{una estanterÌa}
+{848}{}{una estanter√≠a}
 {849}{}{Saqueador}
 {850}{}{Saqueador}
 {851}{}{Saqueador}
@@ -755,13 +755,13 @@
 {855}{}{Guardia}
 {856}{}{Guardia}
 {857}{}{Guardia}
-{858}{}{PaladÌn de la Hermandad}
-{859}{}{PaladÌn de la Hermandad}
-{860}{}{PaladÌn de la Hermandad}
+{858}{}{Palad√≠n de la Hermandad}
+{859}{}{Palad√≠n de la Hermandad}
+{860}{}{Palad√≠n de la Hermandad}
 {861}{}{Caravan Guard}
 {862}{}{}
 {863}{}{Merodeador}
-{864}{}{MercancÌas en venta}
+{864}{}{Mercanc√≠as en venta}
 {865}{}{Caravana viajando}
 {866}{}{Cosas dichas normalmente}
 {867}{}{Lugar Provisional}
@@ -773,22 +773,22 @@
 {873}{}{Guardia de Maxson}
 {874}{}{Jeremiah}
 {875}{}{Puerta}
-{876}{}{Puerta SÛlida}
+{876}{}{Puerta S√≥lida}
 {877}{}{Caravana viajando}
 {878}{}{Mercader de Caravanas}
 {879}{}{Mercader de los Comerciantes de Ultramar}
-{880}{}{Mercader de las Caravanas CarmesÌes}
+{880}{}{Mercader de las Caravanas Carmes√≠es}
 {881}{}{Comerciante de los Mercaderes de Agua}
 {882}{}{Mitch}
 {883}{}{Tendero}
-{884}{}{MercancÌas en venta}
+{884}{}{Mercanc√≠as en venta}
 {885}{}{Luz Atenuada}
 {886}{}{Cuerda}
 {887}{}{Jake}
-{888}{}{Guardia NecrÛfago}
-{889}{}{Celda de la C·rcel de Ciudad Vertedero}
-{890}{}{Centinela NecrÛfago}
-{891}{}{Centinela NecrÛfago}
+{888}{}{Guardia Necr√≥fago}
+{889}{}{Celda de la C√°rcel de Ciudad Vertedero}
+{890}{}{Centinela Necr√≥fago}
+{891}{}{Centinela Necr√≥fago}
 {892}{}{Resplandeciente}
 {893}{}{Computadora}
 {894}{}{Granjero}
@@ -804,19 +804,19 @@
 {904}{}{John}
 {905}{}{Puerta}
 {906}{}{Biblioteca}
-{907}{}{HabitaciÛn Alquilada}
+{907}{}{Habitaci√≥n Alquilada}
 {908}{}{Puerta}
 {909}{}{una mesa}
-{910}{}{una estanterÌa}
-{911}{}{TÈcnico de los NiÒos de la Catedral}
+{910}{}{una estanter√≠a}
+{911}{}{T√©cnico de los Ni√±os de la Catedral}
 {912}{}{Vicioso}
 {913}{}{Caja de Almacenamiento de Raciones de Agua}
 {914}{}{Computadora}
 {915}{}{Puerta}
 {916}{}{Julio}
-{917}{}{LÌder de la Caravana}
-{918}{}{una estanterÌa}
-{919}{}{PaladÌn de Asalto}
+{917}{}{L√≠der de la Caravana}
+{918}{}{una estanter√≠a}
+{919}{}{Palad√≠n de Asalto}
 {920}{}{Explorador de los Seguidores}
 {921}{}{Mike}
 {922}{}{Vance}
@@ -825,19 +825,19 @@
 {925}{}{Residuos}
 {926}{}{Residuos}
 {927}{}{Residuos}
-{928}{}{Terminal de EnergÌa}
+{928}{}{Terminal de Energ√≠a}
 {929}{}{Huellas}
 {930}{}{Guardia de los Mercaderes de Agua}
 {931}{}{Robot Centinela}
 {932}{}{Puerta Segura}
 {933}{}{Mercader}
-{934}{}{Guardia de la Caravana CarmesÌ}
+{934}{}{Guardia de la Caravana Carmes√≠}
 {935}{}{Guardia Boxeador}
 {936}{}{Taquilla}
-{937}{}{Puerta Muy SÛlida}
-{938}{}{Mutante Est˙pido}
-{939}{}{un tablÛn de anuncios}
-{940}{}{MaletÌn de los Pistoleros}
+{937}{}{Puerta Muy S√≥lida}
+{938}{}{Mutante Est√∫pido}
+{939}{}{un tabl√≥n de anuncios}
+{940}{}{Malet√≠n de los Pistoleros}
 {941}{}{Gunther}
 {942}{}{Slappy}
 {943}{}{Tendero}
@@ -852,8 +852,8 @@
 {952}{}{Refrigerador}
 {953}{}{Puerta}
 {954}{}{Patrullera Supermutante}
-{955}{}{Fango tÛxico}
-{956}{}{ExtraÒo Misterioso}
+{955}{}{Fango t√≥xico}
+{956}{}{Extra√±o Misterioso}
 {957}{}{}
 {958}{}{Puerta muy Segura}
 {959}{}{Taquilla}
@@ -863,7 +863,7 @@
 {963}{}{Luz de Alarma}
 {964}{}{Conmutador de Palanca}
 {965}{}{Caballero Paul}
-{966}{}{LeÛn}
+{966}{}{Le√≥n}
 {967}{}{el suelo}
 {968}{}{el suelo}
 {969}{}{el suelo}
@@ -905,7 +905,7 @@
 {1005}{}{}
 {1006}{}{Puerta de Seguridad}
 {1007}{}{Guardia Regulador}
-{1008}{}{NecrÛfago}
+{1008}{}{Necr√≥fago}
 {1009}{}{Guardia del Teniente}
 {1010}{}{Computadora}
 {1011}{}{Muro}
@@ -916,8 +916,8 @@
 {1016}{}{Soldado del Maestro}
 {1017}{}{Dugan}
 {1018}{}{MacRae}
-{1019}{}{Guardia de la Caravana CarmesÌ}
-{1020}{}{Guardia de la Caravana CarmesÌ}
+{1019}{}{Guardia de la Caravana Carmes√≠}
+{1020}{}{Guardia de la Caravana Carmes√≠}
 {1021}{}{Madre Garra Mortal}
 {1022}{}{Garra Mortal}
 {1023}{}{Michael}
@@ -933,7 +933,7 @@
 {1033}{}{Taquilla}
 {1034}{}{}
 {1035}{}{Irwin}
-{1036}{}{Armadura de EnergÌa}
+{1036}{}{Armadura de Energ√≠a}
 {1037}{}{Caja Fuerte}
 {1038}{}{Saqueador}
 {1039}{}{Mathia}
@@ -942,7 +942,7 @@
 {1042}{}{Anciano de la Hermandad}
 {1043}{}{}
 {1044}{}{Anciano de la Hermandad}
-{1045}{}{NecrÛfago}
+{1045}{}{Necr√≥fago}
 {1046}{}{Neverita}
 {1047}{}{Decoder Disk}
 {1048}{}{un campo de fuerza}
@@ -956,7 +956,7 @@
 {1056}{}{Prisionero}
 {1057}{}{Seguidores}
 {1058}{}{Puerta}
-{1059}{}{Emisor de Campo de Fuerza DaÒado}
+{1059}{}{Emisor de Campo de Fuerza Da√±ado}
 {1060}{}{}
 {1061}{}{Objeto del Tramposo}
 {1062}{}{Cliente de la Caravana}

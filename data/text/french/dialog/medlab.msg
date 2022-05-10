@@ -1,1 +1,1 @@
-{100}{}{Cette zone a été saccagée. Le matériel fragile a été très endommagé.}
+{100}{}{Cette zone a Ã©tÃ© saccagÃ©e. Le matÃ©riel fragile a Ã©tÃ© trÃ¨s endommagÃ©.}

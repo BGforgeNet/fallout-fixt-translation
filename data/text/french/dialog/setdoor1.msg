@@ -1,8 +1,8 @@
-{100}{}{Tu crochètes le verrou.}
+{100}{}{Tu crochÃ¨tes le verrou.}
 {101}{}{Tu ne peux pas ouvrir ce verrou.}
 {102}{}{Tu brises ton passe-partout.}
 {103}{}{Tu ne sais pas comment crocheter le verrou.}
-{104}{}{La porte est verrouillée.}
+{104}{}{La porte est verrouillÃ©e.}
 {105}{}{La porte est ouverte.}
-{106}{}{La porte est fermée, mais déverrouillée.}
-{107}{}{crîîîk}
+{106}{}{La porte est fermÃ©e, mais dÃ©verrouillÃ©e.}
+{107}{}{crÃ®Ã®Ã®k}

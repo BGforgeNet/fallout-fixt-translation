@@ -1,14 +1,14 @@
 {100}{}{Ves: a Mike, el guardia de la Ciudad Antigua.}
-{101}{}{Sí, ¿qué quieres?}
+{101}{}{SÃ­, Â¿quÃ© quieres?}
 {102}{}{E... dum... um...}
-{103}{}{No soy de por aquí. ¿Qué parte de la ciudad es ésta?}
-{104}{}{¿Sabes dónde puedo encontrar un Chip de Agua?}
-{105}{}{Um... Adiós.}
-{106}{}{Ja. Solo es otro de Ciudad Vertedero. Lárgate a otro sitio, escoria.}
-{107}{}{Sí. Debes haberte perdido. La mayoría de la gente no se atreve a acercarse de esta parte de la ciudad. Éste es el lado este y algunos lo llaman Ciudad Antigua. La Tierra de las Tierras.}
-{108}{}{¿Sabes dónde puedo encontrar un Chip de Agua?}
-{109}{}{Gracias por la información. Adiós.}
-{110}{}{¿Un Chip de Agua? ¿Qué te pasa? ¿Estás flipando? ¿Un chip hecho de agua?}
-{111}{}{Deja de soltarme el rollo, cerdo. Ahora tendré que darte una paliza y dejarte ahí tirado.}
-{112}{}{No soy de por aquí. ¿En qué parte de la ciudad estoy?}
-{113}{}{No importa. Adiós.}
+{103}{}{No soy de por aquÃ­. Â¿QuÃ© parte de la ciudad es Ã©sta?}
+{104}{}{Â¿Sabes dÃ³nde puedo encontrar un Chip de Agua?}
+{105}{}{Um... AdiÃ³s.}
+{106}{}{Ja. Solo es otro de Ciudad Vertedero. LÃ¡rgate a otro sitio, escoria.}
+{107}{}{SÃ­. Debes haberte perdido. La mayorÃ­a de la gente no se atreve a acercarse de esta parte de la ciudad. Ã‰ste es el lado este y algunos lo llaman Ciudad Antigua. La Tierra de las Tierras.}
+{108}{}{Â¿Sabes dÃ³nde puedo encontrar un Chip de Agua?}
+{109}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{110}{}{Â¿Un Chip de Agua? Â¿QuÃ© te pasa? Â¿EstÃ¡s flipando? Â¿Un chip hecho de agua?}
+{111}{}{Deja de soltarme el rollo, cerdo. Ahora tendrÃ© que darte una paliza y dejarte ahÃ­ tirado.}
+{112}{}{No soy de por aquÃ­. Â¿En quÃ© parte de la ciudad estoy?}
+{113}{}{No importa. AdiÃ³s.}

@@ -1,3 +1,3 @@
 {100}{}{Ves a un guardia.}
 {101}{}{Silencio.}
-{102}{}{¡Ey, tú! ¡Lárgate de aquí!}
+{102}{}{Â¡Ey, tÃº! Â¡LÃ¡rgate de aquÃ­!}

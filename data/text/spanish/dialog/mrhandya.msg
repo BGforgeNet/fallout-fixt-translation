@@ -1,4 +1,4 @@
-{100}{}{Est·s viendo un robot roto.}
-{101}{}{Est·s viendo un robot que funciona.}
+{100}{}{Est√°s viendo un robot roto.}
+{101}{}{Est√°s viendo un robot que funciona.}
 {102}{}{Arreglas el robot roto. Inmediatamente se enciende y vuelve a la vida.}
-{103}{}{La reparaciÛn est· por encima de tus posibilidades.}
+{103}{}{La reparaci√≥n est√° por encima de tus posibilidades.}

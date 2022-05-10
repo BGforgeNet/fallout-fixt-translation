@@ -1,66 +1,66 @@
-{100}{}{Estás viendo al jefe de las caravanas.}
-{101}{}{Bien, aquí está. Aquí está tu paga de }
-{102}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) Aquí tienes, otras }
-{103}{}{ chapas más si vuelves con nosotros al Eje. Descansaremos un poco aquí, pero no te vayas muy lejos o la caravana partirá sin ti.}
+{100}{}{EstÃ¡s viendo al jefe de las caravanas.}
+{101}{}{Bien, aquÃ­ estÃ¡. AquÃ­ estÃ¡ tu paga de }
+{102}{}{ chapas. (Saca una bolsa vieja y raÃ­da y te da las chapas) AquÃ­ tienes, otras }
+{103}{}{ chapas mÃ¡s si vuelves con nosotros al Eje. Descansaremos un poco aquÃ­, pero no te vayas muy lejos o la caravana partirÃ¡ sin ti.}
 {104}{}{Aaa... vale.}
-{105}{}{¿Cuánto tiempo falta para que la caravana salga?}
-{106}{}{¿Qué puedes contarme de Ciudad Vertedero?}
-{107}{}{¿Qué puedes contarme del Cementerio de LA?}
-{108}{}{¿Qué puedes contarme de la Hermandad del Acero?}
-{109}{}{No sé si entenderás esto, pero salimos en dos horas o en cuanto estés listo.}
+{105}{}{Â¿CuÃ¡nto tiempo falta para que la caravana salga?}
+{106}{}{Â¿QuÃ© puedes contarme de Ciudad Vertedero?}
+{107}{}{Â¿QuÃ© puedes contarme del Cementerio de LA?}
+{108}{}{Â¿QuÃ© puedes contarme de la Hermandad del Acero?}
+{109}{}{No sÃ© si entenderÃ¡s esto, pero salimos en dos horas o en cuanto estÃ©s listo.}
 {110}{}{Um...}
-{111}{}{¿Hunh?}
+{111}{}{Â¿Hunh?}
 {112}{}{Vale.}
-{113}{}{Tío, actualmente solo contratamos a imbéciles.}
-{114}{}{Normalmente salimos dos horas después de la llegada. No hay nada aquí que no hayamos visto antes, así que si quieres que salgamos más pronto, avísame cuando quieras.}
-{115}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
-{116}{}{Vale. Volvamos al Eje. Yo tampoco tengo nada que ver aquí.}
-{117}{}{¿Qué puedes contarme de Ciudad Vertedero?}
-{118}{}{¿Qué puedes contarme del Cementerio de LA?}
-{119}{}{¿Qué puedes contarme de la Hermandad del Acero?}
-{120}{}{Bien, en realidad se parece un poco al Eje. También tiene sus problemas: Bandas ladrones, ya sabes... lo típico. Total, es mi ciudad ideal. [Risas]}
-{121}{}{¿Cuánto tiempo falta para que la caravana salga?}
-{122}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
-{123}{}{Esta parte del Cementerio de LA se llama Adytum. El Cementerio de LA está prácticamente gobernado por bandas. Una zona dura. Cuidado con lo que haces aquí. Adytum está gobernado por los Reguladores. Intentan mantener este lugar al margen de las batallas callejeras. No son demasiado amigos de los extraños, por lo que si no has hablado aún con ellos, te aconsejo que lo hagas antes de que empieces a merodear por ahí.}
-{124}{}{Vacío }
-{125}{}{¿Cuánto tiempo falta para que la caravana salga?}
-{126}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
-{127}{}{No puedo contarte mucho de ellos. La Hermandad es muy prudente con sus cosas. Hay mucha gente que los critica, pero según tengo entendido son buena gente. Un poco fanáticos, quizás, pero tíos majos.}
-{128}{}{¿Cuánto tiempo falta para que la caravana salga?}
-{129}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
-{130}{}{¿Estás listo para partir?}
-{131}{}{¡Vamos!}
-{132}{}{No. Aún estoy echando un vistazo.}
-{133}{}{Sí. Podemos irnos.}
-{134}{}{Esta parte del Cementerio de LA se llama Adytum. El Cementerio de LA está prácticamente gobernado por bandas. Una zona dura. Vigila lo que haces allí.}
-{135}{}{¿Cuánto tiempo falta para que la caravana salga?}
-{136}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
-{137}{}{Vale. Lo has conseguido. Aquí tienes tus }
-{138}{}{ chapas. Si quieres más trabajo, ve y habla de nuevo con el jefe. Me encantaría volver a trabajar contigo. Hablaré en tu favor ante el jefe. Tranquilo.}
-{139}{}{Adiós.}
+{113}{}{TÃ­o, actualmente solo contratamos a imbÃ©ciles.}
+{114}{}{Normalmente salimos dos horas despuÃ©s de la llegada. No hay nada aquÃ­ que no hayamos visto antes, asÃ­ que si quieres que salgamos mÃ¡s pronto, avÃ­same cuando quieras.}
+{115}{}{Creo que me darÃ© una vuelta antes de que salgamos. Te verÃ© luego.}
+{116}{}{Vale. Volvamos al Eje. Yo tampoco tengo nada que ver aquÃ­.}
+{117}{}{Â¿QuÃ© puedes contarme de Ciudad Vertedero?}
+{118}{}{Â¿QuÃ© puedes contarme del Cementerio de LA?}
+{119}{}{Â¿QuÃ© puedes contarme de la Hermandad del Acero?}
+{120}{}{Bien, en realidad se parece un poco al Eje. TambiÃ©n tiene sus problemas: Bandas ladrones, ya sabes... lo tÃ­pico. Total, es mi ciudad ideal. [Risas]}
+{121}{}{Â¿CuÃ¡nto tiempo falta para que la caravana salga?}
+{122}{}{Creo que me darÃ© una vuelta antes de que salgamos. Te verÃ© luego.}
+{123}{}{Esta parte del Cementerio de LA se llama Adytum. El Cementerio de LA estÃ¡ prÃ¡cticamente gobernado por bandas. Una zona dura. Cuidado con lo que haces aquÃ­. Adytum estÃ¡ gobernado por los Reguladores. Intentan mantener este lugar al margen de las batallas callejeras. No son demasiado amigos de los extraÃ±os, por lo que si no has hablado aÃºn con ellos, te aconsejo que lo hagas antes de que empieces a merodear por ahÃ­.}
+{124}{}{VacÃ­o }
+{125}{}{Â¿CuÃ¡nto tiempo falta para que la caravana salga?}
+{126}{}{Creo que me darÃ© una vuelta antes de que salgamos. Te verÃ© luego.}
+{127}{}{No puedo contarte mucho de ellos. La Hermandad es muy prudente con sus cosas. Hay mucha gente que los critica, pero segÃºn tengo entendido son buena gente. Un poco fanÃ¡ticos, quizÃ¡s, pero tÃ­os majos.}
+{128}{}{Â¿CuÃ¡nto tiempo falta para que la caravana salga?}
+{129}{}{Creo que me darÃ© una vuelta antes de que salgamos. Te verÃ© luego.}
+{130}{}{Â¿EstÃ¡s listo para partir?}
+{131}{}{Â¡Vamos!}
+{132}{}{No. AÃºn estoy echando un vistazo.}
+{133}{}{SÃ­. Podemos irnos.}
+{134}{}{Esta parte del Cementerio de LA se llama Adytum. El Cementerio de LA estÃ¡ prÃ¡cticamente gobernado por bandas. Una zona dura. Vigila lo que haces allÃ­.}
+{135}{}{Â¿CuÃ¡nto tiempo falta para que la caravana salga?}
+{136}{}{Creo que me darÃ© una vuelta antes de que salgamos. Te verÃ© luego.}
+{137}{}{Vale. Lo has conseguido. AquÃ­ tienes tus }
+{138}{}{ chapas. Si quieres mÃ¡s trabajo, ve y habla de nuevo con el jefe. Me encantarÃ­a volver a trabajar contigo. HablarÃ© en tu favor ante el jefe. Tranquilo.}
+{139}{}{AdiÃ³s.}
 {140}{}{Nos vemos.}
-{141}{}{Eh, ¿qué tal?}
-{142}{}{Si quieres más trabajo, ve y habla con el jefe.}
-{143}{}{¿Te ocurre algo?}
-{144}{}{¡Eres un asqueroso psicópata!}
-{145}{}{¡No trabajo contigo!}
+{141}{}{Eh, Â¿quÃ© tal?}
+{142}{}{Si quieres mÃ¡s trabajo, ve y habla con el jefe.}
+{143}{}{Â¿Te ocurre algo?}
+{144}{}{Â¡Eres un asqueroso psicÃ³pata!}
+{145}{}{Â¡No trabajo contigo!}
 {146}{}{200}
 {147}{}{400}
 {148}{}{600}
-{149}{}{¿Qué puedes contarme sobre Necrópolis?}
-{150}{}{¡Un lugar horrible, tío!}
+{149}{}{Â¿QuÃ© puedes contarme sobre NecrÃ³polis?}
+{150}{}{Â¡Un lugar horrible, tÃ­o!}
 {151}{}{La caravana ha salido.}
 {200}{}{Hmmmpf...}
-{201}{}{Mmm... me encantaría saber leer.}
-{300}{}{¿Por qué no te encargas de tus asuntos?}
+{201}{}{Mmm... me encantarÃ­a saber leer.}
+{300}{}{Â¿Por quÃ© no te encargas de tus asuntos?}
 {400}{}{No me pagan para hablar.}
-{501}{}{¡¿Te importaría decirme por qué abandonaste la jodida caravana?! ¡No me lo puedo creer! Por suerte para ti, lo han terminado sin tu lamentable trasero. ¡Vete! ¡No voy a pagarte nada!}
-{502}{}{¡No me lo puedo creer! ¡Hemos perdido toda la jodida caravana! No voy a pagarte ni una maldita chapa. Quítate de mi maldita vista.}
-{504}{}{Tienes mucho valor. ¡Vete de aquí e intenta pensar en una historia creíble para el jefe sobre porqué abandonaste la jodida caravana! Quizás entonces consigas tu dinero, pero lo dudo.}
-{505}{}{¡No me lo puedo creer! ¡Hemos perdido toda la jodida caravana! No voy a pagarte ni una maldita chapa. Quítate de mi maldita vista.}
-{506}{}{¿Hay algún trabajo que pueda hacer?}
-{507}{}{¡Yo querer trabajo!}
-{508}{}{Necesitamos músculo para descargar las caravanas. Te pagaré }
+{501}{}{Â¡Â¿Te importarÃ­a decirme por quÃ© abandonaste la jodida caravana?! Â¡No me lo puedo creer! Por suerte para ti, lo han terminado sin tu lamentable trasero. Â¡Vete! Â¡No voy a pagarte nada!}
+{502}{}{Â¡No me lo puedo creer! Â¡Hemos perdido toda la jodida caravana! No voy a pagarte ni una maldita chapa. QuÃ­tate de mi maldita vista.}
+{504}{}{Tienes mucho valor. Â¡Vete de aquÃ­ e intenta pensar en una historia creÃ­ble para el jefe sobre porquÃ© abandonaste la jodida caravana! QuizÃ¡s entonces consigas tu dinero, pero lo dudo.}
+{505}{}{Â¡No me lo puedo creer! Â¡Hemos perdido toda la jodida caravana! No voy a pagarte ni una maldita chapa. QuÃ­tate de mi maldita vista.}
+{506}{}{Â¿Hay algÃºn trabajo que pueda hacer?}
+{507}{}{Â¡Yo querer trabajo!}
+{508}{}{Necesitamos mÃºsculo para descargar las caravanas. Te pagarÃ© }
 {509}{}{ chapas.}
 {510}{}{Ug!}
 {511}{}{Nop.}
@@ -69,9 +69,9 @@
 {520}{}{Pasas una hora descargando la caravana.}
 {521}{}{Ayudas a terminar de descargar la caravana y te dan }
 {522}{}{ chapas.}
-{600}{}{Bueno, aquí estamos. No puedo pagarte la tarifa normal, ya que se perdió parte de la caravana. Tenemos que cubrir nuestras pérdidas, ya sabes. Aquí está tu paga de }
-{601}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) Aquí tienes, otras }
-{602}{}{Si quieres más trabajo, ve a hablar con el jefe. Estaría bien volver a trabajar contigo. ¡Tómalo con calma!}
-{603}{}{ chapas. (Saca una bolsa vieja y raída y te da las chapas) }
-{604}{}{Vale, lo has hecho. No puedo pagarte nada porque hemos perdido toda la caravana. Tenemos que cubrir las pérdidas, ya sabes. Me gustaría que fuese de otra forma pero esas son las reglas.}
+{600}{}{Bueno, aquÃ­ estamos. No puedo pagarte la tarifa normal, ya que se perdiÃ³ parte de la caravana. Tenemos que cubrir nuestras pÃ©rdidas, ya sabes. AquÃ­ estÃ¡ tu paga de }
+{601}{}{ chapas. (Saca una bolsa vieja y raÃ­da y te da las chapas) AquÃ­ tienes, otras }
+{602}{}{Si quieres mÃ¡s trabajo, ve a hablar con el jefe. EstarÃ­a bien volver a trabajar contigo. Â¡TÃ³malo con calma!}
+{603}{}{ chapas. (Saca una bolsa vieja y raÃ­da y te da las chapas) }
+{604}{}{Vale, lo has hecho. No puedo pagarte nada porque hemos perdido toda la caravana. Tenemos que cubrir las pÃ©rdidas, ya sabes. Me gustarÃ­a que fuese de otra forma pero esas son las reglas.}
 {605}{}{Vale, lo has hecho. No puedo pagarte nada porque todos los brahmines han muerto. Nos has costado mucho dinero, colega. Sin brahmines no hay caravana, y sin esta no hay dinero. Espero que no te vuelvan a dejar trabajar con nosotros.}

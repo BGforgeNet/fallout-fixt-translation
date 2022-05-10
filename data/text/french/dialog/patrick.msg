@@ -1,51 +1,51 @@
-{100}{}{Voici un homme qui porte une armure de cuir cloutée et un assortiment étrange de bricoles.}
+{100}{}{Voici un homme qui porte une armure de cuir cloutÃ©e et un assortiment Ã©trange de bricoles.}
 {101}{}{Voici Patrick, le Celte.}
-{102}{}{Salut à toi. Qu'est-ce qui t'amène dans nos contrées ?}
+{102}{}{Salut Ã  toi. Qu'est-ce qui t'amÃ¨ne dans nos contrÃ©es ?}
 {103}{}{Je me balade.}
 {104}{}{Hum, pourquoi tu portes tout ce fatras ?}
-{105}{}{Il faut que je trouve une puce de contrôle d'épuration de l'eau.}
-{106}{}{Je tue tout ce qui se trouve à ma portée. Prépare-toi à mourir.}
+{105}{}{Il faut que je trouve une puce de contrÃ´le d'Ã©puration de l'eau.}
+{106}{}{Je tue tout ce qui se trouve Ã  ma portÃ©e. PrÃ©pare-toi Ã  mourir.}
 {107}{}{Beu !}
 {108}{}{Je vois. Un peu comme moi, alors.}
-{109}{}{Oh ? T'es pas d'une de ces communautés tout près d'ici ?}
-{110}{}{Tu sais où je peux trouver un campement dans le coin ?}
-{111}{}{Raconte ce qui t'amène.}
-{112}{}{Bon, à plus.}
+{109}{}{Oh ? T'es pas d'une de ces communautÃ©s tout prÃ¨s d'ici ?}
+{110}{}{Tu sais oÃ¹ je peux trouver un campement dans le coin ?}
+{111}{}{Raconte ce qui t'amÃ¨ne.}
+{112}{}{Bon, Ã  plus.}
 {113}{}{Un fatras !? Qu'est-ce que tu racontes, c'est des marchandises !}
 {114}{}{Euh, d'accord. Salut.}
-{115}{}{Euh. Alors, raconte ce qui t'amène.}
-{116}{}{Hum. Encore jamais vu ça ! Qu'est-ce qui ne va pas ?}
-{117}{}{Cette puce de contrôle l'épuration de l'eau dans mon Abri. Mais, elle a sauté.}
-{118}{}{Elle est cassée.}
-{119}{}{Je me balade, je vis de ma musique et je bricole à droite à gauche.}
+{115}{}{Euh. Alors, raconte ce qui t'amÃ¨ne.}
+{116}{}{Hum. Encore jamais vu Ã§a ! Qu'est-ce qui ne va pas ?}
+{117}{}{Cette puce de contrÃ´le l'Ã©puration de l'eau dans mon Abri. Mais, elle a sautÃ©.}
+{118}{}{Elle est cassÃ©e.}
+{119}{}{Je me balade, je vis de ma musique et je bricole Ã  droite Ã  gauche.}
 {120}{}{Quel genre de travail tu fais ?}
 {121}{}{Quel genre de musique ?}
 {122}{}{Un vrai plaisir d'avoir fait ta connaissance ! Au revoir.}
-{123}{}{En partant de la côte, t'as les Sables Ombragés, à environ une semaine à l'intérieur des terres, et Dépôtville, à quelques jours au Sud. Le Centre est seulement à deux-trois jours au Sud de Dépôtville. Et Nécropolis, à l'Est... à éviter. Ca ne vaut pas le détour.}
-{124}{}{Que sais-tu des Sables Ombragés ?}
-{125}{}{Que sais-tu de Dépôtville ?}
+{123}{}{En partant de la cÃ´te, t'as les Sables OmbragÃ©s, Ã  environ une semaine Ã  l'intÃ©rieur des terres, et DÃ©pÃ´tville, Ã  quelques jours au Sud. Le Centre est seulement Ã  deux-trois jours au Sud de DÃ©pÃ´tville. Et NÃ©cropolis, Ã  l'Est... Ã  Ã©viter. Ca ne vaut pas le dÃ©tour.}
+{124}{}{Que sais-tu des Sables OmbragÃ©s ?}
+{125}{}{Que sais-tu de DÃ©pÃ´tville ?}
 {126}{}{Que sais-tu du Centre ?}
-{127}{}{Que sais-tu de Nécropolis ?}
-{128}{}{Là-dessus, je ne pense pas pouvoir t'aider. Je n'ai jamais pu vraiment étudier la technologie d'avant-guerre des Abris.}
-{129}{}{Un peu d'électricité et de mécanique. J'ai aidé pour l'éclairage de Dépôtville et, aux Sables Ombragés, j'ai montré aux gens comment mieux concevoir leurs poêles.}
-{130}{}{Vraiment ? Tu crois que tu saurais réparer une puce d'eau ?}
+{127}{}{Que sais-tu de NÃ©cropolis ?}
+{128}{}{LÃ -dessus, je ne pense pas pouvoir t'aider. Je n'ai jamais pu vraiment Ã©tudier la technologie d'avant-guerre des Abris.}
+{129}{}{Un peu d'Ã©lectricitÃ© et de mÃ©canique. J'ai aidÃ© pour l'Ã©clairage de DÃ©pÃ´tville et, aux Sables OmbragÃ©s, j'ai montrÃ© aux gens comment mieux concevoir leurs poÃªles.}
+{130}{}{Vraiment ? Tu crois que tu saurais rÃ©parer une puce d'eau ?}
 {131}{}{Oh, surtout des vieilles chansons traditionnelles et un peu de musique celtique. C'est le rythme qui change.}
-{132}{}{Tu connaîtrais pas la chanson "Na Gheala Mbeadh", je crois qu'elle s'appelle ?}
+{132}{}{Tu connaÃ®trais pas la chanson "Na Gheala Mbeadh", je crois qu'elle s'appelle ?}
 {133}{}{Je vois. Que fais-tu d'autre ?}
-{134}{}{Les Sables Ombragés, c'est une petite communauté autosuffisante dirigée par Aradesh, un brave type et un sacré chef. Des gens pacifiques et des bosseurs. Sans doute la meilleure chance pour que la civilisation renaisse ici.}
-{135}{}{Les Sables Ombragés, c'est une petite communauté agricole. Elle était dirigée par Aradesh, un brave type, mais il paraît qu'il est parti. Dommage. Sans lui, je sais pas si elle résistera.}
-{136}{}{Dépôtville ? Une petite ville marchande. Un peu bizarre au premier abord. Elle est dirigée par Killian Darkwater, le maire, un type pas facile mais juste.}
-{137}{}{Dépôtville ? Une petite ville marchande. Un peu bizarre au premier abord. Elle est dirigée par Gizmo, un magnat du jeu et un seigneur du crime.}
-{138}{}{Dépôtville ? Une petite ville marchande. Rien d'extraordinaire.}
-{139}{}{Le Centre est un grand pivot commercial. Il paraît qu'on y trouve tout et, ma foi, ça se pourrait bien.}
-{140}{}{Nécropolis, c'est la cité des morts. Elle est habitée par des Goules, les descendants des humains qui ont cherché refuge dans un Abri. On dit qu'il se serait passé quelque chose dans l'Abri et que depuis, les survivants sont des monstres charognards.}
-{141}{}{Aux dernières nouvelles, ça a été envahi par une armée de mutants. Un endroit à éviter.}
-{142}{}{Tu crois que je pourrais récupérer quelque chose dans cet Abri ?}
-{143}{}{Possible, mais moi, je ne me frotterais pas aux Goules. Aux dernières nouvelles, ils auraient maintenant une espèce de chef très puissant.}
-{144}{}{Oh, bien sûr. Tu veux l'entendre ?}
-{145}{}{Bien sûr.}
+{134}{}{Les Sables OmbragÃ©s, c'est une petite communautÃ© autosuffisante dirigÃ©e par Aradesh, un brave type et un sacrÃ© chef. Des gens pacifiques et des bosseurs. Sans doute la meilleure chance pour que la civilisation renaisse ici.}
+{135}{}{Les Sables OmbragÃ©s, c'est une petite communautÃ© agricole. Elle Ã©tait dirigÃ©e par Aradesh, un brave type, mais il paraÃ®t qu'il est parti. Dommage. Sans lui, je sais pas si elle rÃ©sistera.}
+{136}{}{DÃ©pÃ´tville ? Une petite ville marchande. Un peu bizarre au premier abord. Elle est dirigÃ©e par Killian Darkwater, le maire, un type pas facile mais juste.}
+{137}{}{DÃ©pÃ´tville ? Une petite ville marchande. Un peu bizarre au premier abord. Elle est dirigÃ©e par Gizmo, un magnat du jeu et un seigneur du crime.}
+{138}{}{DÃ©pÃ´tville ? Une petite ville marchande. Rien d'extraordinaire.}
+{139}{}{Le Centre est un grand pivot commercial. Il paraÃ®t qu'on y trouve tout et, ma foi, Ã§a se pourrait bien.}
+{140}{}{NÃ©cropolis, c'est la citÃ© des morts. Elle est habitÃ©e par des Goules, les descendants des humains qui ont cherchÃ© refuge dans un Abri. On dit qu'il se serait passÃ© quelque chose dans l'Abri et que depuis, les survivants sont des monstres charognards.}
+{141}{}{Aux derniÃ¨res nouvelles, Ã§a a Ã©tÃ© envahi par une armÃ©e de mutants. Un endroit Ã  Ã©viter.}
+{142}{}{Tu crois que je pourrais rÃ©cupÃ©rer quelque chose dans cet Abri ?}
+{143}{}{Possible, mais moi, je ne me frotterais pas aux Goules. Aux derniÃ¨res nouvelles, ils auraient maintenant une espÃ¨ce de chef trÃ¨s puissant.}
+{144}{}{Oh, bien sÃ»r. Tu veux l'entendre ?}
+{145}{}{Bien sÃ»r.}
 {146}{}{Non non.}
-{147}{}{[Patrick se met à chanter et vous passez tous deux quelques heures nostalgiques. Ca te réchauffe le coeur.]}
+{147}{}{[Patrick se met Ã  chanter et vous passez tous deux quelques heures nostalgiques. Ca te rÃ©chauffe le coeur.]}
 {148}{}{Re-bonjour. Je peux t'aider ?}
 {149}{}{Ouais, tu peux m'indiquer le chemin ?}
 {150}{}{Non, merci.}

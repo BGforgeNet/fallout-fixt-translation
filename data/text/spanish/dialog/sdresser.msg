@@ -1,3 +1,3 @@
-{100}{}{Esta cómoda parece bien cuidado.}
-{101}{}{Esta cómoda parece bien cuidado.}
-{102}{}{Todo lo que ves aquí son algunas ropas raídas.}
+{100}{}{Esta cÃ³moda parece bien cuidado.}
+{101}{}{Esta cÃ³moda parece bien cuidado.}
+{102}{}{Todo lo que ves aquÃ­ son algunas ropas raÃ­das.}

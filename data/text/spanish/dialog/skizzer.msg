@@ -1,14 +1,14 @@
 {100}{}{Ves: a Skizzer.}
-{101}{}{Estás viendo a un hombre.}
-{102}{}{Amigo Enterrador, lo estás haciendo bien.}
+{101}{}{EstÃ¡s viendo a un hombre.}
+{102}{}{Amigo Enterrador, lo estÃ¡s haciendo bien.}
 {103}{}{Eres un Loco tonto.}
 {104}{}{Bienvenido a Desguace. No te metas en asuntos ajenos.}
 {105}{}{Vale.}
-{106}{}{Lo harás bien, y Roca no tendrá que ir a por ti.}
+{106}{}{Lo harÃ¡s bien, y Roca no tendrÃ¡ que ir a por ti.}
 {107}{}{Vale.}
 {108}{}{[Hecho]}
 {109}{}{Se niega a hablar contigo.}
-{110}{}{¡Te vamos a enterrar, Loco!}
-{111}{}{¡Voy a patear unos cuantos culos! ¡Estoy preparadooooo!}
-{112}{}{¡Los Enterradores mandan! ¡Y los Locos la maman!}
-{113}{}{¡Traemos muerte!}
+{110}{}{Â¡Te vamos a enterrar, Loco!}
+{111}{}{Â¡Voy a patear unos cuantos culos! Â¡Estoy preparadooooo!}
+{112}{}{Â¡Los Enterradores mandan! Â¡Y los Locos la maman!}
+{113}{}{Â¡Traemos muerte!}

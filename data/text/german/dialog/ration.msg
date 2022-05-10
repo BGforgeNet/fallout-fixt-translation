@@ -32,4 +32,4 @@
 {131}{}{That is terrible! What can I do?}
 {132}{}{Maybe you can stop whomever is doing this.}
 {133}{}{I'll take a look around.}
-{134}{}{Tschüss.}
+{134}{}{TschÃ¼ss.}

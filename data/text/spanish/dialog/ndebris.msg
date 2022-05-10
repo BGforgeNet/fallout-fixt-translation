@@ -1,5 +1,5 @@
-{100}{}{El camino hacia el norte est· bloqueado por rocas y escombros. Tendr·s que encontrar otro camino.}
-{101}{}{El camino hacia el sur est· bloqueado por rocas y escombros. Tendr·s que encontrar otro camino.}
-{102}{}{El camino hacia el este est· bloqueado por rocas y escombros. Tendr·s que encontrar otro camino.}
-{103}{}{El camino hacia el oeste est· bloqueado por rocas y escombros. Tendr·s que encontrar otro camino.}
-{104}{}{Todo el camino est· bloqueado por rocas y escombros. Quiz·s puedas encontrar un camino subterr·neo.}
+{100}{}{El camino hacia el norte est√° bloqueado por rocas y escombros. Tendr√°s que encontrar otro camino.}
+{101}{}{El camino hacia el sur est√° bloqueado por rocas y escombros. Tendr√°s que encontrar otro camino.}
+{102}{}{El camino hacia el este est√° bloqueado por rocas y escombros. Tendr√°s que encontrar otro camino.}
+{103}{}{El camino hacia el oeste est√° bloqueado por rocas y escombros. Tendr√°s que encontrar otro camino.}
+{104}{}{Todo el camino est√° bloqueado por rocas y escombros. Quiz√°s puedas encontrar un camino subterr√°neo.}

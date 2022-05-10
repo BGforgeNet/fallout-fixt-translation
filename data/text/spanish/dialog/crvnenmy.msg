@@ -1,1 +1,1 @@
-{100}{}{Est·s viendo a un saqueador feroz. Puede ser uno de los famosos VÌboras.}
+{100}{}{Est√°s viendo a un saqueador feroz. Puede ser uno de los famosos V√≠boras.}

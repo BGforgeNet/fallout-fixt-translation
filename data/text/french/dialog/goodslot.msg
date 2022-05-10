@@ -1,9 +1,9 @@
-{100}{}{C'est une machine à sous où est représentée, sur le côté, une explosion nucléaire. 20 caps la partie.}
-{101}{}{Tu insères 20 caps dans la machine à sous et tu tires sur la poignée graisseuse.}
+{100}{}{C'est une machine Ã  sous oÃ¹ est reprÃ©sentÃ©e, sur le cÃ´tÃ©, une explosion nuclÃ©aire. 20 caps la partie.}
+{101}{}{Tu insÃ¨res 20 caps dans la machine Ã  sous et tu tires sur la poignÃ©e graisseuse.}
 {102}{}{DING ! DING ! DING !}
-{103}{}{Tu reçois trois armes nucléaires. Excellent ! }
+{103}{}{Tu reÃ§ois trois armes nuclÃ©aires. Excellent ! }
 {104}{}{ caps tombent dans le plateau et tu les prends.}
 {105}{}{Ding ! Ding ! Ding !}
-{106}{}{Tu reçois trois bombes. Quelle veine ! 30 caps tombent dans le plateau et tu les prends.}
+{106}{}{Tu reÃ§ois trois bombes. Quelle veine ! 30 caps tombent dans le plateau et tu les prends.}
 {107}{}{Ah, zut ! Tu as perdu.}
 {108}{}{Tu n'as pas assez d'argent pour jouer.}

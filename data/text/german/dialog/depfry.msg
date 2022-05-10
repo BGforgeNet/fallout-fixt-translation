@@ -1,6 +1,6 @@
 {100}{}{You see: Deputy Fry.}
 {101}{}{Hello, friend. Deputy Tony Fry at your service.}
-{102}{}{Was ist das für ein Ort?}
+{102}{}{Was ist das fÃ¼r ein Ort?}
 {103}{}{Get out of my way or they'll have to plant you six feet under.}
 {104}{}{I didn't do it.}
 {105}{}{Nice to meet you. Bye.}

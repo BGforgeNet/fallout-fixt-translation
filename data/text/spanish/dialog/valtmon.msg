@@ -1,2 +1,2 @@
-{100}{}{Ves una cl·sica pelÌcula de Ciencia FicciÛn de principios del siglo XXI.}
-{101}{}{No tienes tiempo para ver pelÌculas.}
+{100}{}{Ves una cl√°sica pel√≠cula de Ciencia Ficci√≥n de principios del siglo XXI.}
+{101}{}{No tienes tiempo para ver pel√≠culas.}

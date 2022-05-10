@@ -4,49 +4,49 @@
 ##
 {100}{}{Cohete}
 {200}{}{Bola de Plasma}
-{300}{}{Explosión}
+{300}{}{ExplosiÃ³n}
 {400}{}{Sangre}
-{500}{}{Hexágono no-trans}
+{500}{}{HexÃ¡gono no-trans}
 {501}{}{}
 {600}{}{Cuchillo}
 {700}{}{Lanza}
-{800}{}{Explosión PEM}
-{900}{}{Fogonazo Láser}
+{800}{}{ExplosiÃ³n PEM}
+{900}{}{Fogonazo LÃ¡ser}
 {1000}{}{Fogonazo Plasma}
-{1100}{}{Explosión}
+{1100}{}{ExplosiÃ³n}
 {1200}{}{Cierre de Manuscrito}
 {1300}{}{Interruptor Electricidad}
-{1400}{}{Explosión}
-{1500}{}{Explosión}
-{1600}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{1400}{}{ExplosiÃ³n}
+{1500}{}{ExplosiÃ³n}
+{1600}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {1700}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{1800}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{1800}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {1900}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{2000}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{2000}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {2100}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{2200}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{2200}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {2300}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
 {2400}{}{Bengala}
 {2500}{}{Granada}
 {2600}{}{Roca}
-{2700}{}{Explosión}
-{2800}{}{Explosión}
-{2900}{}{Explosión}
-{3000}{}{Cóctel Molotov}
-{3100}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{2700}{}{ExplosiÃ³n}
+{2800}{}{ExplosiÃ³n}
+{2900}{}{ExplosiÃ³n}
+{3000}{}{CÃ³ctel Molotov}
+{3100}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {3200}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{3300}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{3300}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {3400}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{3500}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{3500}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {3600}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{3700}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{3700}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {3800}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{3900}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{3900}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {4000}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{4100}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{4100}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {4200}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{4300}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{4300}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {4400}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
-{4500}{}{una "Red de Salida". Ni siquiera deberías ser capaz de ver esta descripción, pero eres tú el que curioseando.}
+{4500}{}{una "Red de Salida". Ni siquiera deberÃ­as ser capaz de ver esta descripciÃ³n, pero eres tÃº el que curioseando.}
 {4600}{}{una "Red de Salida". No aprendiste nada de redes de salida en el Refugio. Da miedo.}
 

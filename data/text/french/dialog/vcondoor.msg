@@ -1,7 +1,7 @@
-{100}{}{On dirait qu'il s'agit de la porte de la Salle de ContrÙle des Cuves.}
-{101}{}{La porte est fermÈe par un verrou Èlectronique.}
-{102}{}{Tu dÈverrouilles la porte.}
-{103}{}{Tu court-circuites le verrou Èlectronique. Incroyable !}
-{104}{}{La porte est dÈj‡ dÈverrouillÈe.}
-{105}{}{Pas de chance. Tu vas devoir utiliser un passe-partout Èlectronique.}
-{106}{}{Tu bricoles le verrou mais tu ne parviens pas ‡ contourner le code. Essaie encore !}
+{100}{}{On dirait qu'il s'agit de la porte de la Salle de Contr√¥le des Cuves.}
+{101}{}{La porte est ferm√©e par un verrou √©lectronique.}
+{102}{}{Tu d√©verrouilles la porte.}
+{103}{}{Tu court-circuites le verrou √©lectronique. Incroyable !}
+{104}{}{La porte est d√©j√† d√©verrouill√©e.}
+{105}{}{Pas de chance. Tu vas devoir utiliser un passe-partout √©lectronique.}
+{106}{}{Tu bricoles le verrou mais tu ne parviens pas √† contourner le code. Essaie encore !}

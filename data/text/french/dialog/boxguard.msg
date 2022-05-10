@@ -1,8 +1,8 @@
-{100}{}{Bon sang ! Tuez-moi ça !}
+{100}{}{Bon sang ! Tuez-moi Ã§a !}
 {101}{}{Descendez-moi cette bestiole avant qu'elle ne le bouffe !}
 {102}{}{Les flingues !}
 {103}{}{Sortez-le !}
-{104}{}{Ne monte pas sur le ring, imbécile.}
-{105}{}{Hé, tu comptes aller où comme ça ?}
+{104}{}{Ne monte pas sur le ring, imbÃ©cile.}
+{105}{}{HÃ©, tu comptes aller oÃ¹ comme Ã§a ?}
 {106}{}{Si tu veux parier, va voir Gustofer.}
-{107}{}{Matchs de boxe tous les trois jours à 2 heures.}
+{107}{}{Matchs de boxe tous les trois jours Ã  2 heures.}

@@ -1,7 +1,7 @@
 {100}{}{You see: Deputy Fry.}
 {101}{}{I've been hoping to run into you, child killer. I hope your stay isn't long. I'll be paying close attention to you while you're here. Keep your nose clean in my city; I'm just dying for an excuse to get rid of scum like you.}
 {102}{}{Hello friend, Deputy Tony Fry at your service.}
-{103}{}{Was ist das für ein Ort?}
+{103}{}{Was ist das fÃ¼r ein Ort?}
 {104}{}{Nice to meet you. Bye.}
 {105}{}{Wug.}
 {106}{}{Ack!}
@@ -36,7 +36,7 @@
 {135}{}{Do you have a hospital, I'm injured.}
 {136}{}{Where are the shops?}
 {137}{}{Where do I find work around here?}
-{138}{}{Tschüss.}
+{138}{}{TschÃ¼ss.}
 {139}{}{Garro?}
 {140}{}{Ooga.}
 {141}{}{Really? I, uh, you should talk to the Sheriff. I can't leave my post right now. I've got to... uh, fend off any raiders that might come. Plus, I'm not very good with reports.}

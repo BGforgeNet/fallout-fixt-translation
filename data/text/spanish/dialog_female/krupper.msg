@@ -1,11 +1,11 @@
 {100}{}{Ves a un mutante enorme.}
-{101}{}{¡Alto! ¡No tienes escapatoria!}
-{102}{}{No deberías estar aquí. Esta zona está fuera de la de los Niños.}
-{103}{}{¿Por qué? ¿Qué lugar es éste?}
-{104}{}{Tengo el control absoluto del salón. ¡Prueba mi arma!}
+{101}{}{Â¡Alto! Â¡No tienes escapatoria!}
+{102}{}{No deberÃ­as estar aquÃ­. Esta zona estÃ¡ fuera de la de los NiÃ±os.}
+{103}{}{Â¿Por quÃ©? Â¿QuÃ© lugar es Ã©ste?}
+{104}{}{Tengo el control absoluto del salÃ³n. Â¡Prueba mi arma!}
 {105}{}{Hng.}
-{106}{}{Eres demasiado estúpida para ser una de los Niños. Debes de ser un intrusa.}
-{107}{}{Es el bloque de celdas para prisioneros. Aquí guardamos a los humanos hasta que los metemos en remojo. Está bien, ¿verdad?}
-{108}{}{¿Qué es el remojo?}
+{106}{}{Eres demasiado estÃºpida para ser una de los NiÃ±os. Debes de ser un intrusa.}
+{107}{}{Es el bloque de celdas para prisioneros. AquÃ­ guardamos a los humanos hasta que los metemos en remojo. EstÃ¡ bien, Â¿verdad?}
+{108}{}{Â¿QuÃ© es el remojo?}
 {109}{}{Vale, gracias.}
 {110}{}{Tienes que irte.}

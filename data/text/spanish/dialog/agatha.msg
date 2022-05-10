@@ -1,48 +1,48 @@
 {100}{}{Ves: una mujer anciana.}
 {101}{}{Ves: a Agatha.}
-{102}{}{Esta mujer está llena de arrugas y canas, sin embargo, tiene el paso ágil y una personalidad enérgica.}
-{103}{}{Eres una mala persona. No me involucraré en nada que tenga que ver contigo.}
-{104}{}{Es una cosa terrible cuando a la juventud se la amenaza. La pérdida de Tandi sería algo terrible.}
+{102}{}{Esta mujer estÃ¡ llena de arrugas y canas, sin embargo, tiene el paso Ã¡gil y una personalidad enÃ©rgica.}
+{103}{}{Eres una mala persona. No me involucrarÃ© en nada que tenga que ver contigo.}
+{104}{}{Es una cosa terrible cuando a la juventud se la amenaza. La pÃ©rdida de Tandi serÃ­a algo terrible.}
 {105}{}{Hnng.}
 {106}{}{Vale.}
-{107}{}{¿Por qué?}
-{108}{}{¿Qué quieres decir?}
-{109}{}{Sé que lo harás lo mejor que puedas, querido. Encuentra a Tandi, ayúdala a escapar de esas bestias y devuélvesela a Aradesh. Le harías un favor a esta comunidad y también te formarías un buen karma.}
-{110}{}{Aradesh quiere mucho a su hija. Es ese amor el que le hace el hombre que es y un pilar para esta comunidad. Sin ese amor estaría perdido, y Arenas Sombrías seguramente la seguiría...}
-{111}{}{Lo haré lo mejor que pueda. Adiós.}
-{112}{}{Me vendría bien algo de ayuda.}
+{107}{}{Â¿Por quÃ©?}
+{108}{}{Â¿QuÃ© quieres decir?}
+{109}{}{SÃ© que lo harÃ¡s lo mejor que puedas, querido. Encuentra a Tandi, ayÃºdala a escapar de esas bestias y devuÃ©lvesela a Aradesh. Le harÃ­as un favor a esta comunidad y tambiÃ©n te formarÃ­as un buen karma.}
+{110}{}{Aradesh quiere mucho a su hija. Es ese amor el que le hace el hombre que es y un pilar para esta comunidad. Sin ese amor estarÃ­a perdido, y Arenas SombrÃ­as seguramente la seguirÃ­a...}
+{111}{}{Lo harÃ© lo mejor que pueda. AdiÃ³s.}
+{112}{}{Me vendrÃ­a bien algo de ayuda.}
 {113}{}{Ummm. Ya veremos.}
-{114}{}{Siento que está cautiva. Ella fue el blanco de odio. Ese odio es muy fuerte al sur. Estoy segura de que la encontrarás allí. Buena suerte.}
+{114}{}{Siento que estÃ¡ cautiva. Ella fue el blanco de odio. Ese odio es muy fuerte al sur. Estoy segura de que la encontrarÃ¡s allÃ­. Buena suerte.}
 {115}{}{Gracias.}
-{116}{}{¿No lo has oído? Tandi ha desaparecido. Siento que ha sido secuestrada. Aradesh está del todo perturbado. Es terrible...}
-{117}{}{He oído que has salvado a Tandi. Has hecho lo correcto. Tu karma es fuerte. Tengo grandes esperanzas es tu futuro.}
-{118}{}{Siento mucho lo de Tandi. Era una mujer encantadora. Habría hecho algo bueno con su vida.}
-{119}{}{Hola. Debes de ser el extranjero del que todos hablan. [Agatha suspira.] ¿Cómo puedo ayudarte?}
+{116}{}{Â¿No lo has oÃ­do? Tandi ha desaparecido. Siento que ha sido secuestrada. Aradesh estÃ¡ del todo perturbado. Es terrible...}
+{117}{}{He oÃ­do que has salvado a Tandi. Has hecho lo correcto. Tu karma es fuerte. Tengo grandes esperanzas es tu futuro.}
+{118}{}{Siento mucho lo de Tandi. Era una mujer encantadora. HabrÃ­a hecho algo bueno con su vida.}
+{119}{}{Hola. Debes de ser el extranjero del que todos hablan. [Agatha suspira.] Â¿CÃ³mo puedo ayudarte?}
 {120}{}{Hngh.}
-{121}{}{¿Quién eres?}
-{122}{}{Pareces muy cansada. ¿Algo va mal?}
-{123}{}{¿Por qué te ves tan cansada?}
+{121}{}{Â¿QuiÃ©n eres?}
+{122}{}{Pareces muy cansada. Â¿Algo va mal?}
+{123}{}{Â¿Por quÃ© te ves tan cansada?}
 {124}{}{No hables conmigo, vieja.}
-{125}{}{Necesitarás más ayuda de la que pueda darte, hijo. Que Dharma esté contigo.}
-{126}{}{Mi nombre es Agatha. Soy la cuentacuentos de Arenas Sombrías. Mi trabajo es conservar la historia para poder recordar y nunca olvidar.}
-{127}{}{Cuéntame una historia.}
+{125}{}{NecesitarÃ¡s mÃ¡s ayuda de la que pueda darte, hijo. Que Dharma estÃ© contigo.}
+{126}{}{Mi nombre es Agatha. Soy la cuentacuentos de Arenas SombrÃ­as. Mi trabajo es conservar la historia para poder recordar y nunca olvidar.}
+{127}{}{CuÃ©ntame una historia.}
 {128}{}{Vale, como quieras.}
 {129}{}{Es bueno no olvidar.}
-{130}{}{Lo siento, hijo, estoy cansada ahora mismo. Necesito mi descanso. Por favor vuelve más tarde.}
-{131}{}{Muy cierto. [Agatha se te queda mirando durante un momento.] Es bueno para los jóvenes el recordad, pero es muy difícil actuar en consecuencia con la historia. Algunas veces, el camino que elegimos ya ha sido determinado hace tiempo. Que Dharma esté contigo. Debo descansar. Vuelve de nuevo, cuando esté más fuerte y hablaremos de nuevo.}
-{132}{}{Gracias por preguntar. Es solo que estoy vieja, nada más. No puedo dormir por las noches. Cierro mis ojos... [Agatha para] Pero no consigo descansar. Por favor, son solo mis viejos y cansados huesos...}
-{133}{}{Lo siento, pero estoy muy cansada. ¿Podrías volver en otro momento?}
+{130}{}{Lo siento, hijo, estoy cansada ahora mismo. Necesito mi descanso. Por favor vuelve mÃ¡s tarde.}
+{131}{}{Muy cierto. [Agatha se te queda mirando durante un momento.] Es bueno para los jÃ³venes el recordad, pero es muy difÃ­cil actuar en consecuencia con la historia. Algunas veces, el camino que elegimos ya ha sido determinado hace tiempo. Que Dharma estÃ© contigo. Debo descansar. Vuelve de nuevo, cuando estÃ© mÃ¡s fuerte y hablaremos de nuevo.}
+{132}{}{Gracias por preguntar. Es solo que estoy vieja, nada mÃ¡s. No puedo dormir por las noches. Cierro mis ojos... [Agatha para] Pero no consigo descansar. Por favor, son solo mis viejos y cansados huesos...}
+{133}{}{Lo siento, pero estoy muy cansada. Â¿PodrÃ­as volver en otro momento?}
 {134}{}{Baba.}
 {135}{}{Vale.}
-{136}{}{¿Por qué estás tan cansada?}
+{136}{}{Â¿Por quÃ© estÃ¡s tan cansada?}
 {137}{}{No duermo bien por las noches, hijo. Debe de ser la edad.}
-{138}{}{Buenos días, hijo. Te ves bien. Me recuerdas a mi propia niña.}
+{138}{}{Buenos dÃ­as, hijo. Te ves bien. Me recuerdas a mi propia niÃ±a.}
 {139}{}{Hng.}
-{140}{}{Entonces cuéntame una historia.}
+{140}{}{Entonces cuÃ©ntame una historia.}
 {141}{}{Me alegro de que te sientas mejor.}
-{142}{}{Gracias. Adiós.}
-{143}{}{Definitivamente me recuerdas a mi niña. De hecho, cuando solo tenía unos meses de edad.}
-{144}{}{Gracias. Dharma siempre dijo que aquel granjero que plante cortesía estará tranquilo cuando la temporada acabe.}
-{145}{}{Por favor cuéntame una historia.}
+{142}{}{Gracias. AdiÃ³s.}
+{143}{}{Definitivamente me recuerdas a mi niÃ±a. De hecho, cuando solo tenÃ­a unos meses de edad.}
+{144}{}{Gracias. Dharma siempre dijo que aquel granjero que plante cortesÃ­a estarÃ¡ tranquilo cuando la temporada acabe.}
+{145}{}{Por favor cuÃ©ntame una historia.}
 {146}{}{El Dharma este suena como un idiota.}
 {147}{}{Insultas a nuestros sabios. Has estado fuera de lugar.}

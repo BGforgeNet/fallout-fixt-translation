@@ -20,7 +20,7 @@
 {119}{}{. You dead.}
 {120}{}{Ich }
 {121}{}{. Me hep.}
-{122}{}{Ich töten!}
+{122}{}{Ich tÃ¶ten!}
 {123}{}{Ich }
 {124}{}{. Me go.}
 {125}{}{You want to help? I think you will need to talk to Nicole or Jake if you want to help us. They have more time to deal with slower people.}

@@ -1,12 +1,12 @@
-{100}{}{Estás viendo a Zack Barstow, un Iniciado de los Niños de la Catedral.}
-{101}{}{Bienvenido a los Niños de la Catedral. ¿Cómo puedo serte de ayuda hoy?}
-{102}{}{¿Urrrooo?}
-{103}{}{¿Cuál es el sentido del universo?}
-{104}{}{Estoy bastante herido. ¿Puedes ayudarme?}
-{105}{}{¿Cómo se arregla la bomba de agua?}
-{106}{}{¿Puedes contarme algo acerca de este lugar?}
-{107}{}{No soy el adecuado para eso. Quizás si hablas con Laura, estará dispuesta a darte la información que quieres.}
-{108}{}{Oh, arreglar bombas de agua es fácil. Es pan comido.}
+{100}{}{EstÃ¡s viendo a Zack Barstow, un Iniciado de los NiÃ±os de la Catedral.}
+{101}{}{Bienvenido a los NiÃ±os de la Catedral. Â¿CÃ³mo puedo serte de ayuda hoy?}
+{102}{}{Â¿Urrrooo?}
+{103}{}{Â¿CuÃ¡l es el sentido del universo?}
+{104}{}{Estoy bastante herido. Â¿Puedes ayudarme?}
+{105}{}{Â¿CÃ³mo se arregla la bomba de agua?}
+{106}{}{Â¿Puedes contarme algo acerca de este lugar?}
+{107}{}{No soy el adecuado para eso. QuizÃ¡s si hablas con Laura, estarÃ¡ dispuesta a darte la informaciÃ³n que quieres.}
+{108}{}{Oh, arreglar bombas de agua es fÃ¡cil. Es pan comido.}
 {109}{}{No tengo las herramientas con las que poder ayudarte. Por favor habla con uno de mis superiores.}
 {110}{}{Oh, eso. Eso es pan comido.}
-{111}{}{Por favor pregúntale a Laura. Te he dicho todo lo que sé.}
+{111}{}{Por favor pregÃºntale a Laura. Te he dicho todo lo que sÃ©.}

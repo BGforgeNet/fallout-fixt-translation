@@ -1,21 +1,21 @@
 {100}{}{Voici le tenancier.}
 {101}{}{Ouais, ce sera quoi ?}
 {102}{}{De l'eau.}
-{103}{}{Une bière.}
+{103}{}{Une biÃ¨re.}
 {104}{}{De l'alcool.}
-{105}{}{N'importe quoi, pourvu que ça me défonce vite.}
+{105}{}{N'importe quoi, pourvu que Ã§a me dÃ©fonce vite.}
 {106}{}{Rien.}
 {107}{}{Euh ?}
 {108}{}{Si t'as pas de caps, barre-toi !}
 {109}{}{Comme tu veux.}
 {110}{}{Je crois que t'as eu ton compte, mon pote.}
 {111}{}{Je crois que t'en as assez, fillette.}
-{112}{}{Bon... ça suffit, barre-toi.}
+{112}{}{Bon... Ã§a suffit, barre-toi.}
 {113}{}{Ca fera deux caps.}
 {114}{}{D'accord.}
 {115}{}{Non, merci.}
 {116}{}{Ca fera cinq caps.}
-{117}{}{Bien sûr.}
+{117}{}{Bien sÃ»r.}
 {118}{}{Ca fera dix caps.}
 {119}{}{Hum, pour quelqu'un de ton gabarit...}
 {120}{}{}
@@ -34,43 +34,43 @@
 {133}{}{ caps de plus.}
 {134}{}{Encore, encore.}
 {135}{}{Qu'importe.}
-{136}{}{Voilà. (Le tenancier fait glisser vers toi un gobelet sale rempli}
-{137}{}{d'une eau douteuse. Après l'avoir bu, tu sens un goût }
+{136}{}{VoilÃ . (Le tenancier fait glisser vers toi un gobelet sale rempli}
+{137}{}{d'une eau douteuse. AprÃ¨s l'avoir bu, tu sens un goÃ»t }
 {138}{}{bizarre dans ta bouche.) }
-{139}{}{Voilà. (Le tenancier fait glisser vers toi un autre gobelet rempli de la même}
-{140}{}{eau douteuse, et après l'avoir bu, tu te souviens }
-{141}{}{du goût bizarre qu'elle avait la fois précédente...) }
-{142}{}{Ca devrait être drôle... (Le tenancier continue de te servir et}
-{143}{}{ça te rend K.O. Au bout d'un moment, tu entends un bruit sourd, et }
-{144}{}{tu t'aperçois alors que tu es sur le sol, face contre terre...) }
+{139}{}{VoilÃ . (Le tenancier fait glisser vers toi un autre gobelet rempli de la mÃªme}
+{140}{}{eau douteuse, et aprÃ¨s l'avoir bu, tu te souviens }
+{141}{}{du goÃ»t bizarre qu'elle avait la fois prÃ©cÃ©dente...) }
+{142}{}{Ca devrait Ãªtre drÃ´le... (Le tenancier continue de te servir et}
+{143}{}{Ã§a te rend K.O. Au bout d'un moment, tu entends un bruit sourd, et }
+{144}{}{tu t'aperÃ§ois alors que tu es sur le sol, face contre terre...) }
 {145}{}{Et on continue... (Le tenancier aligne les gobelets et tout le monde}
 {146}{}{chante dans le bar...) }
 {147}{}{...}
 {148}{}{...}
 {149}{}{...}
-{150}{}{[Bientôt, tout commence à s'estomper...] }
+{150}{}{[BientÃ´t, tout commence Ã  s'estomper...] }
 {151}{}{Je pensais pas que tu supporterais leur}
 {152}{}{alcool.}
-{153}{}{Quel dommage. On avait tous hâte de te voir}
-{154}{}{recommencer ton 'numéro'.}
+{153}{}{Quel dommage. On avait tous hÃ¢te de te voir}
+{154}{}{recommencer ton 'numÃ©ro'.}
 {155}{}{Ahh... tu veux pas nous re-montrer ton 'truc' ? Bon}
-{156}{}{d'accord, voilà ta bière. Et avec ça ?}
-{157}{}{Tu crois pouvoir résister à la tentation ? T'as joué un sacré}
-{158}{}{numéro la dernière fois. Tant pis, voilà. (Le tenancier te tend }
-{159}{}{une bouteille d'alcool.) Et avec ça ?}
-{160}{}{Et voilà. [Le tenancier te tend une bouteille de bière.] Et}
-{161}{}{avec ça ?}
-{162}{}{Je veux encore me défoncer !}
-{163}{}{Voilà. [Le tenancier te tend une bouteille d'alcool.]}
-{164}{}{Et avec ça ?}
-{165}{}{Tu as un très mauvais goût dans la bouche.}
-{166}{}{Tu as l'impression que ta tête va exploser.}
+{156}{}{d'accord, voilÃ  ta biÃ¨re. Et avec Ã§a ?}
+{157}{}{Tu crois pouvoir rÃ©sister Ã  la tentation ? T'as jouÃ© un sacrÃ©}
+{158}{}{numÃ©ro la derniÃ¨re fois. Tant pis, voilÃ . (Le tenancier te tend }
+{159}{}{une bouteille d'alcool.) Et avec Ã§a ?}
+{160}{}{Et voilÃ . [Le tenancier te tend une bouteille de biÃ¨re.] Et}
+{161}{}{avec Ã§a ?}
+{162}{}{Je veux encore me dÃ©foncer !}
+{163}{}{VoilÃ . [Le tenancier te tend une bouteille d'alcool.]}
+{164}{}{Et avec Ã§a ?}
+{165}{}{Tu as un trÃ¨s mauvais goÃ»t dans la bouche.}
+{166}{}{Tu as l'impression que ta tÃªte va exploser.}
 {167}{}{Voici un croupier de Craps.}
 {168}{}{Voici un croupier de Roulette.}
-{169}{}{Voici une machine à sous.}
+{169}{}{Voici une machine Ã  sous.}
 {170}{}{Les jeux te paraissent louches.}
-{171}{}{Tu penses que les dés sont pipés.}
-{172}{}{Tu penses que la table est truquée.}
+{171}{}{Tu penses que les dÃ©s sont pipÃ©s.}
+{172}{}{Tu penses que la table est truquÃ©e.}
 {173}{}{Faites vos jeux. }
 {174}{}{5 caps.}
 {175}{}{15 caps.}
@@ -78,15 +78,15 @@
 {177}{}{50 caps.}
 {178}{}{Non, merci.}
 {179}{}{Euh.}
-{180}{}{Désolé, t'es pas en état de jouer. (Tu regardes}
-{181}{}{le jeu et tout te paraît confus.}
-{182}{}{Désolé, t'auras plus de chance la prochaine fois.}
-{183}{}{Gagné ! [Tu remportes ta mise.]}
+{180}{}{DÃ©solÃ©, t'es pas en Ã©tat de jouer. (Tu regardes}
+{181}{}{le jeu et tout te paraÃ®t confus.}
+{182}{}{DÃ©solÃ©, t'auras plus de chance la prochaine fois.}
+{183}{}{GagnÃ© ! [Tu remportes ta mise.]}
 {184}{}{Ding Ding Ding ! [Tu doubles ta mise.]}
 {185}{}{JACKPOT ! [Tu triples ta mise.]}
 {186}{}{Il faut de l'argent pour jouer, mon pote.}
 {187}{}{Il faut de l'argent pour jouer, ma jolie.}
-{188}{}{Les chances te semblent à peu près normales.}
+{188}{}{Les chances te semblent Ã  peu prÃ¨s normales.}
 {189}{}{Combien tu mises ?}
 {190}{}{1 cap.}
 {191}{}{2 caps.}
@@ -94,7 +94,7 @@
 {193}{}{4 caps.}
 {194}{}{5 caps.}
 {195}{}{Rien.}
-{196}{}{Tu ne sais pas quoi en faire, mais ça fait plaisir à voir.}
+{196}{}{Tu ne sais pas quoi en faire, mais Ã§a fait plaisir Ã  voir.}
 {197}{}{Tu perds.}
 {198}{}{Tu remportes ta mise.}
 {199}{}{Tu doubles ta mise.}
@@ -105,7 +105,7 @@
 {204}{}{ Veux-tu encore jouer ?}
 {205}{}{Tu perds tout ton argent au premier tour de roue, mais remporte }
 {206}{}{ caps dans le tour Radioactif !}
-{207}{}{Gagné ! Tu remportes ta mise, et gagne }
+{207}{}{GagnÃ© ! Tu remportes ta mise, et gagne }
 {208}{}{Ding Ding Ding ! Tu doubles ta mise et obtient }
 {209}{}{JACKPOT ! Tu triples ta mise et obtient }
 {210}{}{ caps dans le tour Radioactif !}

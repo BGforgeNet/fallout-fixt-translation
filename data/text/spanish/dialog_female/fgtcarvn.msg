@@ -1,107 +1,107 @@
-{100}{}{Estás viendo al conductor de caravanas de los Comerciantes de Ultramar.}
-{101}{}{Eh, si buscas un trabajo en una caravana, deberías hablar con Rutger. Justo ahí.}
+{100}{}{EstÃ¡s viendo al conductor de caravanas de los Comerciantes de Ultramar.}
+{101}{}{Eh, si buscas un trabajo en una caravana, deberÃ­as hablar con Rutger. Justo ahÃ­.}
 {102}{}{Vas a tener que hablar con Rutger.}
-{103}{}{Así que has firmado. Me alegro. Así que ya sabes, salimos cada diez días aproximadamente: el 8, el 18 y el 28 de cada mes. Ahora mismo hacemos expediciones hacia la Hermandad, Ciudad Vertedero y al Cementerio de LA.}
-{104}{}{¿Y cuánto pagan?}
+{103}{}{AsÃ­ que has firmado. Me alegro. AsÃ­ que ya sabes, salimos cada diez dÃ­as aproximadamente: el 8, el 18 y el 28 de cada mes. Ahora mismo hacemos expediciones hacia la Hermandad, Ciudad Vertedero y al Cementerio de LA.}
+{104}{}{Â¿Y cuÃ¡nto pagan?}
 {105}{}{Um.}
-{106}{}{Te daremos 400 pavos del Eje. Dirás que no es mucho, pero viajamos a menudo y no te vas a jugar la vida por menos. Pero ganas esas chapas por cada viaje; no es que tengas que ir y volver, pero ganarás 800 si lo haces.}
-{107}{}{ Partimos hoy. ¿Te interesa?}
+{106}{}{Te daremos 400 pavos del Eje. DirÃ¡s que no es mucho, pero viajamos a menudo y no te vas a jugar la vida por menos. Pero ganas esas chapas por cada viaje; no es que tengas que ir y volver, pero ganarÃ¡s 800 si lo haces.}
+{107}{}{ Partimos hoy. Â¿Te interesa?}
 {108}{}{ Salimos en }
-{109}{}{Vacío }
+{109}{}{VacÃ­o }
 {110}{}{}
-{111}{}{. ¿Te interesa?}
-{112}{}{Aún te ofrezco trabajo, aunque... no importa. ¿Te interesa?}
+{111}{}{. Â¿Te interesa?}
+{112}{}{AÃºn te ofrezco trabajo, aunque... no importa. Â¿Te interesa?}
 {113}{}{Claro.}
 {114}{}{No.}
 {115}{}{Puede ser.}
-{116}{}{Sí, sí.}
-{117}{}{¿Eh?}
-{118}{}{Vale. No hay problema. Házmelo saber si cambias de idea.}
-{119}{}{¿Cambiarás de opinión?}
-{120}{}{Vuelve si continúas buscando algo que hacer. Los días 8, 18, y 28. Adiós.}
-{121}{}{Uh, no vas a funcionar si no sabes ni dónde tienes los pies. Lo siento, tía.}
-{122}{}{Asómate por aquí cuando te encuentres mejor.}
-{123}{}{Colega, no pareces hacerlo demasiado bien. Deberías comer algo, vete a ver a Bob.}
-{124}{}{¡Vete de aquí!}
-{125}{}{Yo no podría abandonar mi material, ¿y tú? ¿Por qué lo has hecho?}
-{126}{}{Mira, soy una bicha raro del espacio exterior, ¡y soy mala!}
-{127}{}{No quería hacerlo, pero tengo hambre y tengo hijos que alimentar.}
-{128}{}{¡Te sacaré el corazón con una cuchara!}
+{116}{}{SÃ­, sÃ­.}
+{117}{}{Â¿Eh?}
+{118}{}{Vale. No hay problema. HÃ¡zmelo saber si cambias de idea.}
+{119}{}{Â¿CambiarÃ¡s de opiniÃ³n?}
+{120}{}{Vuelve si continÃºas buscando algo que hacer. Los dÃ­as 8, 18, y 28. AdiÃ³s.}
+{121}{}{Uh, no vas a funcionar si no sabes ni dÃ³nde tienes los pies. Lo siento, tÃ­a.}
+{122}{}{AsÃ³mate por aquÃ­ cuando te encuentres mejor.}
+{123}{}{Colega, no pareces hacerlo demasiado bien. DeberÃ­as comer algo, vete a ver a Bob.}
+{124}{}{Â¡Vete de aquÃ­!}
+{125}{}{Yo no podrÃ­a abandonar mi material, Â¿y tÃº? Â¿Por quÃ© lo has hecho?}
+{126}{}{Mira, soy una bicha raro del espacio exterior, Â¡y soy mala!}
+{127}{}{No querÃ­a hacerlo, pero tengo hambre y tengo hijos que alimentar.}
+{128}{}{Â¡Te sacarÃ© el corazÃ³n con una cuchara!}
 {129}{}{[Te rindes]}
 {130}{}{[Atacas]}
-{131}{}{Así que me escupes en la cara, ¿eh? Creo que la única manera de meterlo en tu cerebro, es sacártelo del cuello.}
-{132}{}{Vale, pero eso no lo soluciona todo. Aún tienes que largarte de aquí.}
-{133}{}{¿Crees que me trago tus mentiras? ¡Guardias!}
-{134}{}{Puede que adquieras mejores modales si te metemos en el tanque. ¿Te vienes por las buenas o tendremos que recurrir a métodos más drásticos?}
-{135}{}{¡Te veré en el infierno!}
-{136}{}{Sí. Lo siento.}
-{137}{}{Así que eres una tipa dura, ¿eh? ¿Buscas otra bronca?}
-{138}{}{Si no te largas de aquí, ¡tendré que llamar a la policía!}
-{139}{}{¡Guardias! ¡Policía!}
-{140}{}{Creo que deberías irte.}
+{131}{}{AsÃ­ que me escupes en la cara, Â¿eh? Creo que la Ãºnica manera de meterlo en tu cerebro, es sacÃ¡rtelo del cuello.}
+{132}{}{Vale, pero eso no lo soluciona todo. AÃºn tienes que largarte de aquÃ­.}
+{133}{}{Â¿Crees que me trago tus mentiras? Â¡Guardias!}
+{134}{}{Puede que adquieras mejores modales si te metemos en el tanque. Â¿Te vienes por las buenas o tendremos que recurrir a mÃ©todos mÃ¡s drÃ¡sticos?}
+{135}{}{Â¡Te verÃ© en el infierno!}
+{136}{}{SÃ­. Lo siento.}
+{137}{}{AsÃ­ que eres una tipa dura, Â¿eh? Â¿Buscas otra bronca?}
+{138}{}{Si no te largas de aquÃ­, Â¡tendrÃ© que llamar a la policÃ­a!}
+{139}{}{Â¡Guardias! Â¡PolicÃ­a!}
+{140}{}{Creo que deberÃ­as irte.}
 {141}{}{Lo siento, pero no voy a darte un empleo.}
-{142}{}{Me encantaría darte un empleo, pero no va a ser posible.}
+{142}{}{Me encantarÃ­a darte un empleo, pero no va a ser posible.}
 {143}{}{Te marchas.}
 {144}{}{Pareces una buena chica, pero no soy tu tipo.}
-{145}{}{¡Vale entonces! Se pagan 400 pavos del Eje. ¿Qué trayecto prefieres?}
+{145}{}{Â¡Vale entonces! Se pagan 400 pavos del Eje. Â¿QuÃ© trayecto prefieres?}
 {146}{}{Me alegro. Vuelve en }
-{147}{}{día 8}
-{148}{}{día 18}
-{149}{}{día 28}
+{147}{}{dÃ­a 8}
+{148}{}{dÃ­a 18}
+{149}{}{dÃ­a 28}
 {150}{}{}
 {151}{}{}
 {152}{}{Hermandad del Acero.}
-{153}{}{. Saldrás entonces. Como siempre, se pagan 400 pavos del Eje.}
+{153}{}{. SaldrÃ¡s entonces. Como siempre, se pagan 400 pavos del Eje.}
 {154}{}{Vale.}
 {155}{}{Lo siento, no puedo esperar.}
-{156}{}{No estoy seguro de lo que ocurrió, se perdió toda la caravana. Qué raro que tal cosa pasara y que tú fueras el único en sobrevivir. Las cosas no ocurren así por lo general. No creo que pueda contratarte más por eso. Seguro que entiendes mis razones.}
+{156}{}{No estoy seguro de lo que ocurriÃ³, se perdiÃ³ toda la caravana. QuÃ© raro que tal cosa pasara y que tÃº fueras el Ãºnico en sobrevivir. Las cosas no ocurren asÃ­ por lo general. No creo que pueda contratarte mÃ¡s por eso. Seguro que entiendes mis razones.}
 {157}{}{Ciudad Vertedero}
 {158}{}{Cementerio de LA}
-{159}{}{Um, ahora no. Puede que en otra ocasión.}
-{160}{}{Me alegro, reuniré al resto del equipo.}
+{159}{}{Um, ahora no. Puede que en otra ocasiÃ³n.}
+{160}{}{Me alegro, reunirÃ© al resto del equipo.}
 {161}{}{Bien.}
-{162}{}{Lárgate de aquí. ¡Suerte!}
+{162}{}{LÃ¡rgate de aquÃ­. Â¡Suerte!}
 {163}{}{Intenta evitar los problemas. Ten cuidado.}
-{164}{}{Ten cuidado ahí fuera, el Cementerio de LA no es el lugar más seguro.}
-{165}{}{Está bien. Esas carreteras negras son muy extrañas, pero son muy cómodas para viajar.}
-{166}{}{Definitivamente hay algo malo ahí fuera. Yo tendría cuidado con las amistades por ahí.}
+{164}{}{Ten cuidado ahÃ­ fuera, el Cementerio de LA no es el lugar mÃ¡s seguro.}
+{165}{}{EstÃ¡ bien. Esas carreteras negras son muy extraÃ±as, pero son muy cÃ³modas para viajar.}
+{166}{}{Definitivamente hay algo malo ahÃ­ fuera. Yo tendrÃ­a cuidado con las amistades por ahÃ­.}
 {167}{}{Bien. Ciudad Vertedero no es un mal sitio.}
-{168}{}{Oh, y vete a ver a Killain, y salúdale de mi parte. Colega, qué momentos pasamos en las caravanas...}
-{169}{}{He oído que hay un doctor por ahí. Trabaja con muertos, o eso es lo que dicen.}
-{170}{}{¿En qué estabas pensando al abandonar la caravana? Regresó sana y salva, pero solo fue cuestión de suerte.}
-{171}{}{¿Me das otra oportunidad?}
+{168}{}{Oh, y vete a ver a Killain, y salÃºdale de mi parte. Colega, quÃ© momentos pasamos en las caravanas...}
+{169}{}{He oÃ­do que hay un doctor por ahÃ­. Trabaja con muertos, o eso es lo que dicen.}
+{170}{}{Â¿En quÃ© estabas pensando al abandonar la caravana? RegresÃ³ sana y salva, pero solo fue cuestiÃ³n de suerte.}
+{171}{}{Â¿Me das otra oportunidad?}
 {172}{}{Nada.}
-{173}{}{¡Yo no la cago!}
-{174}{}{¿Ig wa neeka rooola?}
+{173}{}{Â¡Yo no la cago!}
+{174}{}{Â¿Ig wa neeka rooola?}
 {175}{}{Lig.}
-{176}{}{La has vuelto a cagar. Simplemente no eres la más indicada para este trabajo.}
-{177}{}{¿Por qué debería?}
-{178}{}{No deberías.}
+{176}{}{La has vuelto a cagar. Simplemente no eres la mÃ¡s indicada para este trabajo.}
+{177}{}{Â¿Por quÃ© deberÃ­a?}
+{178}{}{No deberÃ­as.}
 {179}{}{Porque voy a abrirte una brecha en la cabeza si no lo haces.}
-{180}{}{Tenía cosas mejores que hacer que vigilar una estúpida caravana.}
-{181}{}{No sabía que no podía irme. Todo parecía ir bien.}
+{180}{}{TenÃ­a cosas mejores que hacer que vigilar una estÃºpida caravana.}
+{181}{}{No sabÃ­a que no podÃ­a irme. Todo parecÃ­a ir bien.}
 {182}{}{Ya veo... estabas drogada. Bien, haz lo que quieras con tu vida.}
-{183}{}{Lamento que te sientas así.}
-{184}{}{Me sorprende que no lo hayas hecho antes. Pero si es así, no le haré daño a nadie si te doy otra oportunidad.}
-{185}{}{Has hecho un buen trabajo. ¿Quieres hacer otro?}
+{183}{}{Lamento que te sientas asÃ­.}
+{184}{}{Me sorprende que no lo hayas hecho antes. Pero si es asÃ­, no le harÃ© daÃ±o a nadie si te doy otra oportunidad.}
+{185}{}{Has hecho un buen trabajo. Â¿Quieres hacer otro?}
 {186}{}{Claro.}
 {187}{}{No.}
 {188}{}{Puede ser.}
-{189}{}{¡Eeek!}
+{189}{}{Â¡Eeek!}
 {190}{}{Lub.}
-{191}{}{¿Ya estás equipada? Partimos hoy.}
-{192}{}{Sí.}
-{193}{}{¡No!}
-{194}{}{¡Ack!}
-{195}{}{Si no, se lo daré a otro, no te preocupes por eso. No estás obligada a nada... hasta que salgas con la caravana, ¿vale?}
-{196}{}{La próxima caravana no sale hasta }
-{197}{}{día 8}
-{198}{}{día 18}
-{199}{}{día 28}
+{191}{}{Â¿Ya estÃ¡s equipada? Partimos hoy.}
+{192}{}{SÃ­.}
+{193}{}{Â¡No!}
+{194}{}{Â¡Ack!}
+{195}{}{Si no, se lo darÃ© a otro, no te preocupes por eso. No estÃ¡s obligada a nada... hasta que salgas con la caravana, Â¿vale?}
+{196}{}{La prÃ³xima caravana no sale hasta }
+{197}{}{dÃ­a 8}
+{198}{}{dÃ­a 18}
+{199}{}{dÃ­a 28}
 {200}{}{}
 {201}{}{}
 {202}{}{}
-{203}{}{. Vuelve por aquí si aún quieres el trabajo. }
+{203}{}{. Vuelve por aquÃ­ si aÃºn quieres el trabajo. }
 {204}{}{Enero, }
 {205}{}{Febrero, }
 {206}{}{Marzo, }
@@ -114,8 +114,8 @@
 {213}{}{Octubre, }
 {214}{}{Noviembre, }
 {215}{}{Diciembre, }
-{216}{}{La Hermandad del Acero, ¡allá vamos! Bien... No voy contigo, pero sabes a lo que me refiero.}
-{217}{}{Vale, sal de mi vista inmediatamente. Esos fanáticos de la Hermandad te esperan.}
-{218}{}{¡Espero que te gusten las montañas! Te diriges hacia ellas. Encontrarás mucho movimiento allí.}
-{219}{}{Listo para partir; ¡te encaminarás hacia las montañas! ¡Te divertirás de lo lindo!}
-{300}{}{Así que te has apuntado; son buenas noticias. Ya lo sabes, salimos cada diez días. Esos son el 8, 18 y 28 de cada mes. Ahora mismo hacemos recorridos por La Hermandad y Ciudad Vertedero. Hay rumores de una invasión mutante en el Cementerio de LA, así que ya no vamos por allí.}
+{216}{}{La Hermandad del Acero, Â¡allÃ¡ vamos! Bien... No voy contigo, pero sabes a lo que me refiero.}
+{217}{}{Vale, sal de mi vista inmediatamente. Esos fanÃ¡ticos de la Hermandad te esperan.}
+{218}{}{Â¡Espero que te gusten las montaÃ±as! Te diriges hacia ellas. EncontrarÃ¡s mucho movimiento allÃ­.}
+{219}{}{Listo para partir; Â¡te encaminarÃ¡s hacia las montaÃ±as! Â¡Te divertirÃ¡s de lo lindo!}
+{300}{}{AsÃ­ que te has apuntado; son buenas noticias. Ya lo sabes, salimos cada diez dÃ­as. Esos son el 8, 18 y 28 de cada mes. Ahora mismo hacemos recorridos por La Hermandad y Ciudad Vertedero. Hay rumores de una invasiÃ³n mutante en el Cementerio de LA, asÃ­ que ya no vamos por allÃ­.}

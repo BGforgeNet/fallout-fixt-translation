@@ -1,50 +1,50 @@
-{100}{}{Estás viendo a un hombre joven con cosas afiladas.}
+{100}{}{EstÃ¡s viendo a un hombre joven con cosas afiladas.}
 {101}{}{Ves: a Jason Zimmerman.}
-{102}{}{Ey, ¿realmente eres de tan lejos? ¿Has tenido muchas aventuras?}
-{103}{}{Sí, soy de un Refugio, lejos al norte.}
-{104}{}{En realidad, soy de Marte. ¿Quieres ver mi lanza de fuego?}
+{102}{}{Ey, Â¿realmente eres de tan lejos? Â¿Has tenido muchas aventuras?}
+{103}{}{SÃ­, soy de un Refugio, lejos al norte.}
+{104}{}{En realidad, soy de Marte. Â¿Quieres ver mi lanza de fuego?}
 {105}{}{He tenido algunas aventuras.}
 {106}{}{En realidad, no he hecho tanto.}
 {107}{}{Uh, lejos. Refugio.}
-{108}{}{Oh. Pensaba que alguien que ha estado por ahí fuera, en el yermo, sería, bueno, más lista. No importa.}
-{109}{}{Miles dice que ahora que tienes esas piezas, hará que funcionen de nuevo las granjas, y no tendremos que vender balas al Eje. Nunca pensé mucho sobre eso hasta que Herreriano nos informó que las balas que él hacía eran }
-{110}{}{vendidas al Eje, quien a su vez las vendía a las bandas. Creo que encontraste una buena solución.}
-{111}{}{Nunca pensé que podríamos detener las peleas de las bandas. Mi padre me contó cómo conseguiste que prometieran que nos dejarían en paz. Sabes, pensé que siempre quería ir de aventuras, pero creo que me gusta... bueno, }
-{112}{}{sentir la seguridad que ahora hay aquí. No hay que preocuparse más por las bandas y sus ataques repentinos o preguntarse quién va a morir hoy.}
+{108}{}{Oh. Pensaba que alguien que ha estado por ahÃ­ fuera, en el yermo, serÃ­a, bueno, mÃ¡s lista. No importa.}
+{109}{}{Miles dice que ahora que tienes esas piezas, harÃ¡ que funcionen de nuevo las granjas, y no tendremos que vender balas al Eje. Nunca pensÃ© mucho sobre eso hasta que Herreriano nos informÃ³ que las balas que Ã©l hacÃ­a eran }
+{110}{}{vendidas al Eje, quien a su vez las vendÃ­a a las bandas. Creo que encontraste una buena soluciÃ³n.}
+{111}{}{Nunca pensÃ© que podrÃ­amos detener las peleas de las bandas. Mi padre me contÃ³ cÃ³mo conseguiste que prometieran que nos dejarÃ­an en paz. Sabes, pensÃ© que siempre querÃ­a ir de aventuras, pero creo que me gusta... bueno, }
+{112}{}{sentir la seguridad que ahora hay aquÃ­. No hay que preocuparse mÃ¡s por las bandas y sus ataques repentinos o preguntarse quiÃ©n va a morir hoy.}
 {113}{}{Lorraine says that there was a Vault south of here, where a lot of my grandparents lived. What's it like living in a Vault?}
 {114}{}{En realidad es muy aburrida.}
-{115}{}{Es muy excitante. ¡Tenemos todo tipo de tecnología que no te creerías!}
-{116}{}{Oh. Bueno, debes haber tenido algunas aventuras después de irte, ¿no?}
+{115}{}{Es muy excitante. Â¡Tenemos todo tipo de tecnologÃ­a que no te creerÃ­as!}
+{116}{}{Oh. Bueno, debes haber tenido algunas aventuras despuÃ©s de irte, Â¿no?}
 {117}{}{En realidad, no.}
-{118}{}{Sí, hay algo de peligro por ahí fuera.}
-{119}{}{Tal y como escribió una vez alguien, "la Aventura es alguien lejos con un momento muy poco agradable".}
+{118}{}{SÃ­, hay algo de peligro por ahÃ­ fuera.}
+{119}{}{Tal y como escribiÃ³ una vez alguien, "la Aventura es alguien lejos con un momento muy poco agradable".}
 {120}{}{Uh. Los mercaderes del Eje hablan de escorpiones rad y esas cosas.}
 {121}{}{En realidad, una gran parte es desierto.}
-{122}{}{Bueno, hay todo tipo de monstruos por ahí fuera.}
-{123}{}{¿De veras? ¿A qué tipos de monstruos te has enfrentado?}
-{124}{}{No a muchos, solo a algunas ratas y cosas así.}
-{125}{}{Sííí, los guardias del Eje dijeron que hay montones de cosas mutantes radiactivas viviendo en el desierto. ¡Cazar monstruos debe ser una pasada!}
-{126}{}{¡Sí, es chulo de verdad!}
-{127}{}{No; es más un suplicio. Veneno, mordeduras, radiación... es mortal.}
-{128}{}{Ojalá pueda ir de aventuras en algún momento.}
-{129}{}{Nunca pensé sobre eso. Me gusta más tener agua limpia y un lugar donde vivir.}
-{130}{}{Pensaba que vivir en el yermo sería... ya sabes... duro y peligroso, y todo eso. Pero supongo que ya tenemos bastante de lo que preocuparnos aquí, con las bandas y todo eso.}
-{131}{}{¿Qué, eres una rarita o algo así? ¡Caleb nunca debería haberte dejado cruzar las puertas!}
-{132}{}{Eso es fantástico. Todo lo que tenemos aquí es ese estúpido pozo y aquellas granjas subterráneas que Miles está intentando hacer que funcionen.}
-{133}{}{Sííí, ya he visto que no llevas un saco de dormir ni nada así. Debes ponerte muy sucia y debe ser incómodo ir por ahí fuera.}
-{134}{}{Hola otra vez. ¿Tienes alguna historia interesante que contar?}
-{135}{}{¿Sobre qué quieres saber cosas?}
+{122}{}{Bueno, hay todo tipo de monstruos por ahÃ­ fuera.}
+{123}{}{Â¿De veras? Â¿A quÃ© tipos de monstruos te has enfrentado?}
+{124}{}{No a muchos, solo a algunas ratas y cosas asÃ­.}
+{125}{}{SÃ­Ã­Ã­, los guardias del Eje dijeron que hay montones de cosas mutantes radiactivas viviendo en el desierto. Â¡Cazar monstruos debe ser una pasada!}
+{126}{}{Â¡SÃ­, es chulo de verdad!}
+{127}{}{No; es mÃ¡s un suplicio. Veneno, mordeduras, radiaciÃ³n... es mortal.}
+{128}{}{OjalÃ¡ pueda ir de aventuras en algÃºn momento.}
+{129}{}{Nunca pensÃ© sobre eso. Me gusta mÃ¡s tener agua limpia y un lugar donde vivir.}
+{130}{}{Pensaba que vivir en el yermo serÃ­a... ya sabes... duro y peligroso, y todo eso. Pero supongo que ya tenemos bastante de lo que preocuparnos aquÃ­, con las bandas y todo eso.}
+{131}{}{Â¿QuÃ©, eres una rarita o algo asÃ­? Â¡Caleb nunca deberÃ­a haberte dejado cruzar las puertas!}
+{132}{}{Eso es fantÃ¡stico. Todo lo que tenemos aquÃ­ es ese estÃºpido pozo y aquellas granjas subterrÃ¡neas que Miles estÃ¡ intentando hacer que funcionen.}
+{133}{}{SÃ­Ã­Ã­, ya he visto que no llevas un saco de dormir ni nada asÃ­. Debes ponerte muy sucia y debe ser incÃ³modo ir por ahÃ­ fuera.}
+{134}{}{Hola otra vez. Â¿Tienes alguna historia interesante que contar?}
+{135}{}{Â¿Sobre quÃ© quieres saber cosas?}
 {136}{}{En realidad, no.}
-{137}{}{Bueno, si haces algo interesante, ¡ya me lo contarás!}
-{138}{}{¡Déjame!}
-{139}{}{¡Gracias a dios que estás a aquí! ¡Por favor, ayúdame a salir de aquí!}
+{137}{}{Bueno, si haces algo interesante, Â¡ya me lo contarÃ¡s!}
+{138}{}{Â¡DÃ©jame!}
+{139}{}{Â¡Gracias a dios que estÃ¡s a aquÃ­! Â¡Por favor, ayÃºdame a salir de aquÃ­!}
 {140}{}{Sip.}
-{141}{}{No te preocupes, te sacaré de aquí.}
-{142}{}{Lo siento chica, ¡estás sola en esto!}
-{143}{}{¿Qué estás haciendo aquí?}
-{144}{}{¡Gracias!}
-{145}{}{¡Por favor, no me dejes!}
-{146}{}{Creía que sería divertido irse de Adytum y explorar el mundo. Pero los Destripadores me cogieron y he estado aquí desde entonces. Por favor, ¡ayúdame!}
+{141}{}{No te preocupes, te sacarÃ© de aquÃ­.}
+{142}{}{Lo siento chica, Â¡estÃ¡s sola en esto!}
+{143}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{144}{}{Â¡Gracias!}
+{145}{}{Â¡Por favor, no me dejes!}
+{146}{}{CreÃ­a que serÃ­a divertido irse de Adytum y explorar el mundo. Pero los Destripadores me cogieron y he estado aquÃ­ desde entonces. Por favor, Â¡ayÃºdame!}
 {147}{}{All right, let's get out of here!}
-{148}{}{No. Tú te metiste en esto, pues sal tú.}
-{149}{}{¡Espero que podamos salir de aquí pronto!}
+{148}{}{No. TÃº te metiste en esto, pues sal tÃº.}
+{149}{}{Â¡Espero que podamos salir de aquÃ­ pronto!}

@@ -1,5 +1,5 @@
 {100}{}{Tu vois l'holodisque que Maxson t'a remis.}
-{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
-{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
-{103}{}{Ce disque porte l'insigne de la Confrérie de l'Acier et il est en excellent état. Il peut être utilisé dans votre Pip-Boy.}
+{101}{}{Message du Pip-Boy : fichier dÃ©jÃ  prÃ©sent sur le systÃ¨me. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des donnÃ©es sur le disque. TerminÃ©.}
+{103}{}{Ce disque porte l'insigne de la ConfrÃ©rie de l'Acier et il est en excellent Ã©tat. Il peut Ãªtre utilisÃ© dans votre Pip-Boy.}
 {104}{}{Tu vois: Le Disque de Maxon.}

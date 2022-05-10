@@ -1,26 +1,26 @@
-{100}{}{Tu vois une porte qui semble très protégée.}
-{101}{}{Cette compétence ne te permet pas d'ouvrir la porte.}
-{102}{}{Tu reçois une décharge du système de sécurité, et prends }
-{103}{}{ points de dégâts.}
+{100}{}{Tu vois une porte qui semble trÃ¨s protÃ©gÃ©e.}
+{101}{}{Cette compÃ©tence ne te permet pas d'ouvrir la porte.}
+{102}{}{Tu reÃ§ois une dÃ©charge du systÃ¨me de sÃ©curitÃ©, et prends }
+{103}{}{ points de dÃ©gÃ¢ts.}
 {104}{}{Tu ouvres la porte avec le passe rouge.}
-{105}{}{Cet objet n'a aucun effet sur la porte. Peut-être en faut-il un autre.}
-{106}{}{Tu reçois une décharge du système de sécurité, et prends }
-{107}{}{ points de dégâts.}
-{108}{}{La porte semble protégée par un champ d'énergie. Il est peut-être possible de le désactiver.}
-{109}{}{La porte semble être munie d'un verrou secondaire.}
+{105}{}{Cet objet n'a aucun effet sur la porte. Peut-Ãªtre en faut-il un autre.}
+{106}{}{Tu reÃ§ois une dÃ©charge du systÃ¨me de sÃ©curitÃ©, et prends }
+{107}{}{ points de dÃ©gÃ¢ts.}
+{108}{}{La porte semble protÃ©gÃ©e par un champ d'Ã©nergie. Il est peut-Ãªtre possible de le dÃ©sactiver.}
+{109}{}{La porte semble Ãªtre munie d'un verrou secondaire.}
 {110}{}{Tu remarques des traces rouges sur la porte.}
 {111}{}{Tu remarques des traces rouges sur la porte.}
-{112}{}{Tu te demandes ce qui pourrait bien déverrouiller la porte.}
-{113}{}{Tu as réussi à court-circuiter le système de sécurité.}
-{114}{}{Tu actives le système de sécurité. Tu reçois alors une décharge, et prends }
-{115}{}{ points de dégâts.}
-{116}{}{Tu ne détectes aucun piège sur la porte.}
-{117}{}{Tu as réussi à court-circuiter le système de sécurité.}
-{118}{}{Tu actives le système de sécurité. Tu reçois alors une décharge, et prends }
-{119}{}{ points de dégâts.}
-{120}{}{Tu ne détectes aucun piège sur la porte.}
-{121}{}{Tu reçois une décharge du système de sécurité, et prends }
-{122}{}{ points de dégâts.}
-{123}{}{La porte semble protégée par un champ d'énergie. Il est peut-être possible de le désactiver.}
-{124}{}{Tu réussis à déverrouiller la porte.}
-{125}{}{Tu n'as pas réussi à crocheter la porte.}
+{112}{}{Tu te demandes ce qui pourrait bien dÃ©verrouiller la porte.}
+{113}{}{Tu as rÃ©ussi Ã  court-circuiter le systÃ¨me de sÃ©curitÃ©.}
+{114}{}{Tu actives le systÃ¨me de sÃ©curitÃ©. Tu reÃ§ois alors une dÃ©charge, et prends }
+{115}{}{ points de dÃ©gÃ¢ts.}
+{116}{}{Tu ne dÃ©tectes aucun piÃ¨ge sur la porte.}
+{117}{}{Tu as rÃ©ussi Ã  court-circuiter le systÃ¨me de sÃ©curitÃ©.}
+{118}{}{Tu actives le systÃ¨me de sÃ©curitÃ©. Tu reÃ§ois alors une dÃ©charge, et prends }
+{119}{}{ points de dÃ©gÃ¢ts.}
+{120}{}{Tu ne dÃ©tectes aucun piÃ¨ge sur la porte.}
+{121}{}{Tu reÃ§ois une dÃ©charge du systÃ¨me de sÃ©curitÃ©, et prends }
+{122}{}{ points de dÃ©gÃ¢ts.}
+{123}{}{La porte semble protÃ©gÃ©e par un champ d'Ã©nergie. Il est peut-Ãªtre possible de le dÃ©sactiver.}
+{124}{}{Tu rÃ©ussis Ã  dÃ©verrouiller la porte.}
+{125}{}{Tu n'as pas rÃ©ussi Ã  crocheter la porte.}

@@ -1,208 +1,208 @@
-{100}{}{Estás viendo a una mujer.}
-{101}{}{No quiero morir, señor. No soy un soldado.}
-{102}{}{No quiero morir, señora. No soy un soldado.}
-{103}{}{Empieza a hablar, y te dejaré vivir.}
+{100}{}{EstÃ¡s viendo a una mujer.}
+{101}{}{No quiero morir, seÃ±or. No soy un soldado.}
+{102}{}{No quiero morir, seÃ±ora. No soy un soldado.}
+{103}{}{Empieza a hablar, y te dejarÃ© vivir.}
 {104}{}{Yo tampoco. Solo mato cuando tengo que hacerlo.}
-{105}{}{¿No vas a alabar al Maestro o algo así?}
-{106}{}{Cambiaré tu vida por una buena bebida fuerte. ¿Dónde guardáis el alcohol?}
-{107}{}{¡Buenas noches, puta!}
-{108}{}{¡Yo Gran Soldado! ¡Ja, ja, ja!}
-{109}{}{Me alegro que hayas venido a hablar conmigo. Oí lo que le dijiste a Laura. No deberías hacer esto.}
-{110}{}{¿Qué crees que voy a hacer?}
-{111}{}{¿Laura? ¿Quién es Laura?}
+{105}{}{Â¿No vas a alabar al Maestro o algo asÃ­?}
+{106}{}{CambiarÃ© tu vida por una buena bebida fuerte. Â¿DÃ³nde guardÃ¡is el alcohol?}
+{107}{}{Â¡Buenas noches, puta!}
+{108}{}{Â¡Yo Gran Soldado! Â¡Ja, ja, ja!}
+{109}{}{Me alegro que hayas venido a hablar conmigo. OÃ­ lo que le dijiste a Laura. No deberÃ­as hacer esto.}
+{110}{}{Â¿QuÃ© crees que voy a hacer?}
+{111}{}{Â¿Laura? Â¿QuiÃ©n es Laura?}
 {112}{}{Oh, oh.}
-{113}{}{Oh, ¡has cometido un error muy grave! Te va a costar caro.}
-{114}{}{¿Qa tak? ¡Raar!}
-{115}{}{Creo que ya hemos dicho todo lo que teníamos que decir. Adiós.}
-{116}{}{Yo no hablo con personas que me apuntan con un arma. Bájala y hablaremos.}
+{113}{}{Oh, Â¡has cometido un error muy grave! Te va a costar caro.}
+{114}{}{Â¿Qa tak? Â¡Raar!}
+{115}{}{Creo que ya hemos dicho todo lo que tenÃ­amos que decir. AdiÃ³s.}
+{116}{}{Yo no hablo con personas que me apuntan con un arma. BÃ¡jala y hablaremos.}
 {117}{}{Hola otra vez. Espero que te haya parecido interesante este lugar.}
 {118}{}{He visto mejores formas de entretenerse.}
-{119}{}{Claro, hermana. ¡Alabado sea el Maestro! ¡Alabada sea la Llama Sagrada!}
+{119}{}{Claro, hermana. Â¡Alabado sea el Maestro! Â¡Alabada sea la Llama Sagrada!}
 {120}{}{Mira, cada vez que le hablo a alguien, sigue repitiendo una y otra vez lo mismo.}
-{121}{}{¿Entretenerse? ¡Dónde está el alcohol!}
-{122}{}{¡Me aburre este lugar! ¿Dónde está la sangre? ¿Dónde está la muerte?}
-{123}{}{Saludos, Iniciado. ¿En qué puedo ayudarte?}
+{121}{}{Â¿Entretenerse? Â¡DÃ³nde estÃ¡ el alcohol!}
+{122}{}{Â¡Me aburre este lugar! Â¿DÃ³nde estÃ¡ la sangre? Â¿DÃ³nde estÃ¡ la muerte?}
+{123}{}{Saludos, Iniciado. Â¿En quÃ© puedo ayudarte?}
 {124}{}{Estaba un poco nervioso por nuestros planes a largo plazo.}
-{125}{}{¿Qué está pasando aquí?}
-{126}{}{¿Dónde está el Maestro?}
-{127}{}{¿Quién está al mando aquí?}
-{128}{}{Dame un respiro, hermana. ¡Nadie está al servicio de otra persona a no ser que tenga un arma apuntándole a la cabeza!}
-{129}{}{Hola, señor. ¡Su reputación le precede! ¿Puedo ayudarle en algo?}
-{130}{}{Hola, señorita. ¡Su reputación la precede! ¿Puedo ayudarla en algo?}
-{131}{}{Me preguntaba de qué va todo eso de la Catedral.}
-{132}{}{¿Qué hace falta para ser un Iniciado?}
-{133}{}{¿Dónde está el Maestro?}
-{134}{}{¿Quién está al mando aquí?}
-{135}{}{Dame un respiro, hermana. ¡Nadie está al servicio de otra persona a no ser que tenga un arma apuntándole a la cabeza!}
-{136}{}{Hola, señor. ¡Su reputación le precede! ¿Puedo ayudarle en algo?}
-{137}{}{Hola, señorita. ¡Su reputación la precede! ¿Puedo ayudarla en algo?}
-{138}{}{Me preguntaba de qué va todo eso de la Catedral.}
-{139}{}{¿Qué hace falta para ser un Iniciado?}
-{140}{}{¿Dónde está el Maestro?}
-{141}{}{¿Quién está al mando aquí?}
-{142}{}{Dame un respiro, hermana. ¡Nadie está al servicio de otra persona a no ser que tenga un arma apuntándole a la cabeza!}
-{143}{}{Sé quién eres. Y perdona mi mala educación pero no hablo con asesinos psicópatas. Adiós.}
-{144}{}{Se ha exagerado mucho acerca de mi reputación. ¿Acaso la Catedral juzga a la gente basándose en rumores e insinuaciones?}
-{145}{}{¿Asesino psicópata? ¿Quién, yo?}
-{146}{}{Cariño, no soy un psicópata, solo estoy chiflado y si no respondes a mis preguntas, ¡te lo demostraré!}
-{147}{}{Me hace falta mucho tiempo para serle leal a alguien pero también para dejar de serlo. No te diré nada.}
-{148}{}{Bien. Entonces podemos dejarnos en paz el uno al otro y ya está.}
-{149}{}{Alabar al Maestro no hará que me salve. Adelante, hazlo. No puedo hacer nada para detenerte.}
-{150}{}{Hay un sitio tranquilo alejado de la Catedral. Aquí están prohibidos las drogas y el alcohol.}
+{125}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{126}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
+{127}{}{Â¿QuiÃ©n estÃ¡ al mando aquÃ­?}
+{128}{}{Dame un respiro, hermana. Â¡Nadie estÃ¡ al servicio de otra persona a no ser que tenga un arma apuntÃ¡ndole a la cabeza!}
+{129}{}{Hola, seÃ±or. Â¡Su reputaciÃ³n le precede! Â¿Puedo ayudarle en algo?}
+{130}{}{Hola, seÃ±orita. Â¡Su reputaciÃ³n la precede! Â¿Puedo ayudarla en algo?}
+{131}{}{Me preguntaba de quÃ© va todo eso de la Catedral.}
+{132}{}{Â¿QuÃ© hace falta para ser un Iniciado?}
+{133}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
+{134}{}{Â¿QuiÃ©n estÃ¡ al mando aquÃ­?}
+{135}{}{Dame un respiro, hermana. Â¡Nadie estÃ¡ al servicio de otra persona a no ser que tenga un arma apuntÃ¡ndole a la cabeza!}
+{136}{}{Hola, seÃ±or. Â¡Su reputaciÃ³n le precede! Â¿Puedo ayudarle en algo?}
+{137}{}{Hola, seÃ±orita. Â¡Su reputaciÃ³n la precede! Â¿Puedo ayudarla en algo?}
+{138}{}{Me preguntaba de quÃ© va todo eso de la Catedral.}
+{139}{}{Â¿QuÃ© hace falta para ser un Iniciado?}
+{140}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
+{141}{}{Â¿QuiÃ©n estÃ¡ al mando aquÃ­?}
+{142}{}{Dame un respiro, hermana. Â¡Nadie estÃ¡ al servicio de otra persona a no ser que tenga un arma apuntÃ¡ndole a la cabeza!}
+{143}{}{SÃ© quiÃ©n eres. Y perdona mi mala educaciÃ³n pero no hablo con asesinos psicÃ³patas. AdiÃ³s.}
+{144}{}{Se ha exagerado mucho acerca de mi reputaciÃ³n. Â¿Acaso la Catedral juzga a la gente basÃ¡ndose en rumores e insinuaciones?}
+{145}{}{Â¿Asesino psicÃ³pata? Â¿QuiÃ©n, yo?}
+{146}{}{CariÃ±o, no soy un psicÃ³pata, solo estoy chiflado y si no respondes a mis preguntas, Â¡te lo demostrarÃ©!}
+{147}{}{Me hace falta mucho tiempo para serle leal a alguien pero tambiÃ©n para dejar de serlo. No te dirÃ© nada.}
+{148}{}{Bien. Entonces podemos dejarnos en paz el uno al otro y ya estÃ¡.}
+{149}{}{Alabar al Maestro no harÃ¡ que me salve. Adelante, hazlo. No puedo hacer nada para detenerte.}
+{150}{}{Hay un sitio tranquilo alejado de la Catedral. AquÃ­ estÃ¡n prohibidos las drogas y el alcohol.}
 {151}{}{Intenta coger la llave de la entrada secreta de Morfeo y mata al Maestro.}
-{152}{}{¿Por qué no iba a querer hacerlo?}
-{153}{}{No sé de qué estás hablando.}
-{154}{}{¿Por qué iba a querer hacerlo?}
-{155}{}{¿Has oído alguna vez lo que les pasa a los que saben demasiado?}
-{156}{}{El espía de los Seguidores del Apocalipsis que está ahora en una de las Salas de Meditación.}
-{157}{}{¿Hay un espía aquí? ¡Tenemos que decírselo a los Sumos Sacerdotes ahora mismo!}
-{158}{}{No sé de qué estás hablando.}
-{159}{}{¿Por qué iba yo a espiarte?}
-{160}{}{¿Has oído alguna vez lo que les pasa a los que saben demasiado?}
-{161}{}{Aquí no viene uno a entretenerse. Aquí viene uno a iluminar su espíritu. Y más importante aún, a tomar las decisiones oportunas para el destino del mundo. Hasta la vista.}
+{152}{}{Â¿Por quÃ© no iba a querer hacerlo?}
+{153}{}{No sÃ© de quÃ© estÃ¡s hablando.}
+{154}{}{Â¿Por quÃ© iba a querer hacerlo?}
+{155}{}{Â¿Has oÃ­do alguna vez lo que les pasa a los que saben demasiado?}
+{156}{}{El espÃ­a de los Seguidores del Apocalipsis que estÃ¡ ahora en una de las Salas de MeditaciÃ³n.}
+{157}{}{Â¿Hay un espÃ­a aquÃ­? Â¡Tenemos que decÃ­rselo a los Sumos Sacerdotes ahora mismo!}
+{158}{}{No sÃ© de quÃ© estÃ¡s hablando.}
+{159}{}{Â¿Por quÃ© iba yo a espiarte?}
+{160}{}{Â¿Has oÃ­do alguna vez lo que les pasa a los que saben demasiado?}
+{161}{}{AquÃ­ no viene uno a entretenerse. AquÃ­ viene uno a iluminar su espÃ­ritu. Y mÃ¡s importante aÃºn, a tomar las decisiones oportunas para el destino del mundo. Hasta la vista.}
 {162}{}{Bien. Claro. Por supuesto. Hasta luego.}
-{163}{}{Lo sé. Yo también suelo hacerlo cuando no tengo nada original que decir. Hasta luego.}
-{164}{}{Aquellos que tienen el espíritu de la Llama Sagrada no necesitan otros espíritus. O eso dicen por lo menos. Ya sabes cómo son las cosas_}
-{165}{}{Subiendo las escaleras. Pide a los Nocturnos que derramen tu sangre, estarán más que contentos de complacerte.}
-{166}{}{Porque el Maestro es un mal necesario. Porque alguien tiene que unir el mundo, y él es el único de la zona que tiene la oportunidad de unificarlo.}
-{167}{}{¿Alguien te ha dicho que se sobrestima a la Unidad?}
-{168}{}{¿Por qué?}
+{163}{}{Lo sÃ©. Yo tambiÃ©n suelo hacerlo cuando no tengo nada original que decir. Hasta luego.}
+{164}{}{Aquellos que tienen el espÃ­ritu de la Llama Sagrada no necesitan otros espÃ­ritus. O eso dicen por lo menos. Ya sabes cÃ³mo son las cosas_}
+{165}{}{Subiendo las escaleras. Pide a los Nocturnos que derramen tu sangre, estarÃ¡n mÃ¡s que contentos de complacerte.}
+{166}{}{Porque el Maestro es un mal necesario. Porque alguien tiene que unir el mundo, y Ã©l es el Ãºnico de la zona que tiene la oportunidad de unificarlo.}
+{167}{}{Â¿Alguien te ha dicho que se sobrestima a la Unidad?}
+{168}{}{Â¿Por quÃ©?}
 {169}{}{No creo en males necesarios.}
-{170}{}{Me gusta este mundo, está bien.}
-{171}{}{Creo que no me gusta esta conversación.}
-{172}{}{Muy bien, si no admites lo que has dicho, no te ayudaré. Adiós.}
-{173}{}{Porque crees que está mal que los Niños invadan a nuestros vecinos. Porque crees que matando al Maestro se acabará.}
-{174}{}{Aunque lo creyera, ¿por qué iba a estar equivocado?}
-{175}{}{¡Eso es una blasfemia!}
-{176}{}{Si te piensas que es lo que creo, ¿por qué no me has entregado?}
-{177}{}{¿Parezco yo la clase de persona a la que le importa un buen asesinato?}
-{178}{}{¿Te suena lo de estar por encima de uno mismo? Nadie, por bien armado o entrenado que sea, puede derrotar a un par de Nocturnos. Soy una mujer de paz. Solo estoy intentando salvarte.}
-{179}{}{¡Mira a los que causaron el Apocalipsis! No creían en la paz y la unidad, ¡y mira lo que nos hicieron! La Unidad es el único modo de evitar que eso vuelva a suceder y la Unidad debe ocurrir AHORA, antes de que los demás Refugios del mundo tengan la oportunidad de reunir sus fuerzas.}
-{180}{}{Tú pareces demasiado inteligente para esos zombis.}
-{181}{}{¿Quieres que todos actúen como la gente de esta sala? ¡Eso es peor que estar muerto!}
-{182}{}{¡Estás loca! Eso solo llevará a otro Apocalipsis.}
-{183}{}{¿Y por qué sería el Maestro el más indicado para dirigirnos?}
-{184}{}{¿Nunca te has cargado a nadie? ¿No estás reuniendo bastante potencia de fuego como para darle envidia a la Hermandad del Acero? ¡Deja de ser un hipócrita! Solo piensas en defenderte a ti mismo. El Maestro defiende a la humanidad de otro ataque de autodestrucción. ¡Es lo mismo!}
-{185}{}{¿Cómo sabes que no hay nadie mejor ahí fuera?}
-{186}{}{Quizás deba tenerlo en cuenta.}
+{170}{}{Me gusta este mundo, estÃ¡ bien.}
+{171}{}{Creo que no me gusta esta conversaciÃ³n.}
+{172}{}{Muy bien, si no admites lo que has dicho, no te ayudarÃ©. AdiÃ³s.}
+{173}{}{Porque crees que estÃ¡ mal que los NiÃ±os invadan a nuestros vecinos. Porque crees que matando al Maestro se acabarÃ¡.}
+{174}{}{Aunque lo creyera, Â¿por quÃ© iba a estar equivocado?}
+{175}{}{Â¡Eso es una blasfemia!}
+{176}{}{Si te piensas que es lo que creo, Â¿por quÃ© no me has entregado?}
+{177}{}{Â¿Parezco yo la clase de persona a la que le importa un buen asesinato?}
+{178}{}{Â¿Te suena lo de estar por encima de uno mismo? Nadie, por bien armado o entrenado que sea, puede derrotar a un par de Nocturnos. Soy una mujer de paz. Solo estoy intentando salvarte.}
+{179}{}{Â¡Mira a los que causaron el Apocalipsis! No creÃ­an en la paz y la unidad, Â¡y mira lo que nos hicieron! La Unidad es el Ãºnico modo de evitar que eso vuelva a suceder y la Unidad debe ocurrir AHORA, antes de que los demÃ¡s Refugios del mundo tengan la oportunidad de reunir sus fuerzas.}
+{180}{}{TÃº pareces demasiado inteligente para esos zombis.}
+{181}{}{Â¿Quieres que todos actÃºen como la gente de esta sala? Â¡Eso es peor que estar muerto!}
+{182}{}{Â¡EstÃ¡s loca! Eso solo llevarÃ¡ a otro Apocalipsis.}
+{183}{}{Â¿Y por quÃ© serÃ­a el Maestro el mÃ¡s indicado para dirigirnos?}
+{184}{}{Â¿Nunca te has cargado a nadie? Â¿No estÃ¡s reuniendo bastante potencia de fuego como para darle envidia a la Hermandad del Acero? Â¡Deja de ser un hipÃ³crita! Solo piensas en defenderte a ti mismo. El Maestro defiende a la humanidad de otro ataque de autodestrucciÃ³n. Â¡Es lo mismo!}
+{185}{}{Â¿CÃ³mo sabes que no hay nadie mejor ahÃ­ fuera?}
+{186}{}{QuizÃ¡s deba tenerlo en cuenta.}
 {187}{}{So mass slaughter is all right if you intend to save the world?}
-{188}{}{¡Eso son tonterías, señorita!}
-{189}{}{¿Qué infierno crees que es éste? ¡Vivir allí fuera sí que es una pesadilla!}
-{190}{}{¿Cómo sabes que hay algo mejor ahí fuera?}
-{191}{}{Quizás deba tenerlo en cuenta.}
+{188}{}{Â¡Eso son tonterÃ­as, seÃ±orita!}
+{189}{}{Â¿QuÃ© infierno crees que es Ã©ste? Â¡Vivir allÃ­ fuera sÃ­ que es una pesadilla!}
+{190}{}{Â¿CÃ³mo sabes que hay algo mejor ahÃ­ fuera?}
+{191}{}{QuizÃ¡s deba tenerlo en cuenta.}
 {192}{}{Un mundo en el que pueda ser libre para vivir la vida que yo quiera.}
-{193}{}{La vida no es fácil, hermana. Nunca lo ha sido y nunca lo será.}
-{194}{}{Qué fuerte. No me hacen gracia ni las radiaciones ni el Virus de Evolución Forzada, pero no pude elegir. En este mundo no siempre consigues lo que quieres. A veces tienes que hacer concesiones. Y a veces tienes que pensar en cosas poco agradables.}
-{195}{}{Qué gracia. No me imagino el Maestro dejando que su rebaño haga esto.}
+{193}{}{La vida no es fÃ¡cil, hermana. Nunca lo ha sido y nunca lo serÃ¡.}
+{194}{}{QuÃ© fuerte. No me hacen gracia ni las radiaciones ni el Virus de EvoluciÃ³n Forzada, pero no pude elegir. En este mundo no siempre consigues lo que quieres. A veces tienes que hacer concesiones. Y a veces tienes que pensar en cosas poco agradables.}
+{195}{}{QuÃ© gracia. No me imagino el Maestro dejando que su rebaÃ±o haga esto.}
 {196}{}{Una cosa es hacer concesiones y otra es cometer un genocidio.}
-{197}{}{¡Fuera de mi vista!}
-{198}{}{Lo único que me importa ahora es saber cuánto tiempo vas a vivir.}
-{199}{}{Quizás sea tan inteligente que cuando el Maestro tome el poder, podré hacer algo para ayudarle. ¡Puede que tú también! ¡Únete a nosotros! ¡Únete y cambia el mundo! Piénsatelo, ¡es lo único que te pido!}
-{200}{}{En todas las sociedades siempre ha habido holgazanes. ¡Olvídalos! Necesitamos holgazanes pero también soldados y reinas. Y tú al menos pareces un buen soldado. Piensa en lo que podrías hacer, podrías ser muy útil a nuestra causa. Ayúdanos. Piénsate lo que te he dicho, ¡es todo lo que te pido!}
-{201}{}{O quizás podamos destrozar sus defensas antes de que tengan tiempo de volver a construirlas. Tal vez podamos unir los demás Refugios y ciudades con un único golpe limpio y rápido. Un mundo unido no será perfecto, pero tendrá más oportunidades de mantenerse unido. ¡Piénsatelo!}
-{202}{}{He observado a la gente de aquí. La Hermandad del Acero y los Niños del Apocalipsis solo quieren que se les deje en paz. Los del Eje creen que pueden construir el mundo: ¡Vaya montón de idiotas! Solo el Maestro tiene la fuerza suficiente para hacer lo que hay que hacer. ¡Piensa en ello!}
-{203}{}{Me alegra oír eso. Espero que tomes la decisión adecuada.}
+{197}{}{Â¡Fuera de mi vista!}
+{198}{}{Lo Ãºnico que me importa ahora es saber cuÃ¡nto tiempo vas a vivir.}
+{199}{}{QuizÃ¡s sea tan inteligente que cuando el Maestro tome el poder, podrÃ© hacer algo para ayudarle. Â¡Puede que tÃº tambiÃ©n! Â¡Ãšnete a nosotros! Â¡Ãšnete y cambia el mundo! PiÃ©nsatelo, Â¡es lo Ãºnico que te pido!}
+{200}{}{En todas las sociedades siempre ha habido holgazanes. Â¡OlvÃ­dalos! Necesitamos holgazanes pero tambiÃ©n soldados y reinas. Y tÃº al menos pareces un buen soldado. Piensa en lo que podrÃ­as hacer, podrÃ­as ser muy Ãºtil a nuestra causa. AyÃºdanos. PiÃ©nsate lo que te he dicho, Â¡es todo lo que te pido!}
+{201}{}{O quizÃ¡s podamos destrozar sus defensas antes de que tengan tiempo de volver a construirlas. Tal vez podamos unir los demÃ¡s Refugios y ciudades con un Ãºnico golpe limpio y rÃ¡pido. Un mundo unido no serÃ¡ perfecto, pero tendrÃ¡ mÃ¡s oportunidades de mantenerse unido. Â¡PiÃ©nsatelo!}
+{202}{}{He observado a la gente de aquÃ­. La Hermandad del Acero y los NiÃ±os del Apocalipsis solo quieren que se les deje en paz. Los del Eje creen que pueden construir el mundo: Â¡Vaya montÃ³n de idiotas! Solo el Maestro tiene la fuerza suficiente para hacer lo que hay que hacer. Â¡Piensa en ello!}
+{203}{}{Me alegra oÃ­r eso. Espero que tomes la decisiÃ³n adecuada.}
 {204}{}{No. It isn't all right. But it's the only option that has a chance of saving us over the long term, which is why I'm with these people. There's no better way! Think about it!}
-{205}{}{¿No es cierto? Piénsalo. Piénsalo bien. Si sigues en contra de nosotros, morirás. Has visto nuestras fuerzas, sabes que hay más de lo que se ve. ¡Mucho más! ¡No puedes detenernos! Pero si te unes a nosotros puedes salvar vidas. ¡Piénsalo!}
-{206}{}{No. Pero si veo a alguien más que me caiga bien, podré ayudarle. Ninguno de los de por aquí tendrá una oportunidad de hacerlo. Están todos muertos o convertidos si tienen suerte. Puedes ser uno de esos afortunados. Únete a nosotros. ¡Piénsalo!}
-{207}{}{El mundo no se quedará así. Nunca lo hizo. Y si todo lo que hacemos es construir grupos de enclaves poderosos, puede que alguno de ellos se haga lo suficientemente fuerte como para provocar otra vez el Apocalipsis. Únete a nosotros y reunifiquemos el mundo antes de que esto ocurra. ¡Piénsalo!}
-{208}{}{Eso no es más que una excusa cobarde que no resuelve nada. Si la vida es una mierda, deberíamos intentar cambiarla. Se lo debemos a nuestros hijos y a nosotros mismos. ¿Crees que el mundo seguirá igual cuando nos dividamos en grupos opuestos? ¡Piénsalo!}
-{209}{}{O quizás sea una salvación disfrazada de genocidio. Puede que el mundo no sea un lugar tan malo si la gente trabaja a favor del Maestro. Tal vez podamos incluso encontrar modos de lograrlo sin derramar sangre alguna. ¡Piénsalo!}
-{210}{}{Bien. Pero si sigues así, morirás. Creo que debo avisarte.}
-{211}{}{Puedes matarme. Demostrarás que tengo razón, claro, pero aun así moriré. Tú verás.}
-{212}{}{¡Debido al Apocalipsis! ¡Mira lo que nos hizo! La Unidad es la única manera de evitar que eso vuelva a ocurrir, y la Unidad debe empezar AHORA, antes de que los demás Refugios del mundo tengan la oportunidad de reunir sus fuerzas.}
-{213}{}{Tú pareces demasiado inteligente para esos zombis.}
-{214}{}{¿Quieres que todos actúen como la gente de esta sala? ¡Eso es peor que estar muerto!}
-{215}{}{Lo tendré en cuenta.}
-{216}{}{¡Estás loca! Eso solo llevará a otro Apocalipsis.}
-{217}{}{¿Y por qué sería el Maestro el más indicado para dirigirnos?}
-{218}{}{No soy un filósofo, señorita. Solo se me da bien matar.}
-{219}{}{Porque eres una persona inteligente y valiente que podría sernos de gran ayuda. Sí, hacemos cosas horribles. Pero nuestro principal objetivo no solo es bueno sino que es necesario para la supervivencia de la raza humana. No te apresures tanto en ayudar a los Seguidores. ¡Ellos no tienen todas las respuestas!}
-{220}{}{Tú pareces demasiado inteligente para esos zombis.}
-{221}{}{¿Quieres que todos actúen como la gente de esta sala? ¡Eso es peor que estar muerto!}
-{222}{}{Lo tendré en cuenta.}
-{223}{}{¡Estás loca! Eso solo llevará a otro Apocalipsis.}
-{224}{}{¿Y por qué sería el Maestro el más indicado para dirigirnos?}
-{225}{}{No soy un filósofo, señorita. Solo se me da bien matar.}
-{226}{}{Todos tenemos un papel que desempeñar. Algunos de nosotros somos holgazanes imbéciles que hacemos un trabajo estúpido. Otros somos pensadores. Otros somos asesinos. Tenemos un sitio para ti aquí si quieres. ¡Por favor, piénsatelo!}
-{227}{}{Tenemos muchas cosas planeadas. Primero vino la Llama Sagrada, que purificó al mundo del mal. Luego vino el Maestro. Ahora estamos en la época de la Unidad, cuando luchamos para conquistar las divisiones del mundo. Después de la Unidad vendrá la Paz. La Era de la Paz es la razón por la que luchamos.}
-{228}{}{¿Por qué tiene que morir tanta gente para lograr la paz?}
-{229}{}{Me parece bien. ¡Alabado sea el Maestro!}
-{230}{}{¿Pero no era malo el Fuego del Apocalipsis?}
-{231}{}{Para mí no son más que tonterías.}
-{232}{}{Estoy segura de que lo estás. El nerviosismo es una emoción saludable. Así no fisgonea uno por las esquinas ni hace cosas estúpidas. Adiós.}
-{233}{}{Los iniciados buscan respuestas a las preguntas, que es lo que tú deberías estar haciendo. Adiós.}
-{234}{}{No sé. La gente piensa que su espíritu habita entre estos muros. Al menos eso es lo que parece.}
-{235}{}{¿Y qué dice la gente sobre su forma física?}
-{236}{}{¿No serás un poco escéptica?}
-{237}{}{¿Pero existe realmente el Maestro o es todo una patraña?}
+{205}{}{Â¿No es cierto? PiÃ©nsalo. PiÃ©nsalo bien. Si sigues en contra de nosotros, morirÃ¡s. Has visto nuestras fuerzas, sabes que hay mÃ¡s de lo que se ve. Â¡Mucho mÃ¡s! Â¡No puedes detenernos! Pero si te unes a nosotros puedes salvar vidas. Â¡PiÃ©nsalo!}
+{206}{}{No. Pero si veo a alguien mÃ¡s que me caiga bien, podrÃ© ayudarle. Ninguno de los de por aquÃ­ tendrÃ¡ una oportunidad de hacerlo. EstÃ¡n todos muertos o convertidos si tienen suerte. Puedes ser uno de esos afortunados. Ãšnete a nosotros. Â¡PiÃ©nsalo!}
+{207}{}{El mundo no se quedarÃ¡ asÃ­. Nunca lo hizo. Y si todo lo que hacemos es construir grupos de enclaves poderosos, puede que alguno de ellos se haga lo suficientemente fuerte como para provocar otra vez el Apocalipsis. Ãšnete a nosotros y reunifiquemos el mundo antes de que esto ocurra. Â¡PiÃ©nsalo!}
+{208}{}{Eso no es mÃ¡s que una excusa cobarde que no resuelve nada. Si la vida es una mierda, deberÃ­amos intentar cambiarla. Se lo debemos a nuestros hijos y a nosotros mismos. Â¿Crees que el mundo seguirÃ¡ igual cuando nos dividamos en grupos opuestos? Â¡PiÃ©nsalo!}
+{209}{}{O quizÃ¡s sea una salvaciÃ³n disfrazada de genocidio. Puede que el mundo no sea un lugar tan malo si la gente trabaja a favor del Maestro. Tal vez podamos incluso encontrar modos de lograrlo sin derramar sangre alguna. Â¡PiÃ©nsalo!}
+{210}{}{Bien. Pero si sigues asÃ­, morirÃ¡s. Creo que debo avisarte.}
+{211}{}{Puedes matarme. DemostrarÃ¡s que tengo razÃ³n, claro, pero aun asÃ­ morirÃ©. TÃº verÃ¡s.}
+{212}{}{Â¡Debido al Apocalipsis! Â¡Mira lo que nos hizo! La Unidad es la Ãºnica manera de evitar que eso vuelva a ocurrir, y la Unidad debe empezar AHORA, antes de que los demÃ¡s Refugios del mundo tengan la oportunidad de reunir sus fuerzas.}
+{213}{}{TÃº pareces demasiado inteligente para esos zombis.}
+{214}{}{Â¿Quieres que todos actÃºen como la gente de esta sala? Â¡Eso es peor que estar muerto!}
+{215}{}{Lo tendrÃ© en cuenta.}
+{216}{}{Â¡EstÃ¡s loca! Eso solo llevarÃ¡ a otro Apocalipsis.}
+{217}{}{Â¿Y por quÃ© serÃ­a el Maestro el mÃ¡s indicado para dirigirnos?}
+{218}{}{No soy un filÃ³sofo, seÃ±orita. Solo se me da bien matar.}
+{219}{}{Porque eres una persona inteligente y valiente que podrÃ­a sernos de gran ayuda. SÃ­, hacemos cosas horribles. Pero nuestro principal objetivo no solo es bueno sino que es necesario para la supervivencia de la raza humana. No te apresures tanto en ayudar a los Seguidores. Â¡Ellos no tienen todas las respuestas!}
+{220}{}{TÃº pareces demasiado inteligente para esos zombis.}
+{221}{}{Â¿Quieres que todos actÃºen como la gente de esta sala? Â¡Eso es peor que estar muerto!}
+{222}{}{Lo tendrÃ© en cuenta.}
+{223}{}{Â¡EstÃ¡s loca! Eso solo llevarÃ¡ a otro Apocalipsis.}
+{224}{}{Â¿Y por quÃ© serÃ­a el Maestro el mÃ¡s indicado para dirigirnos?}
+{225}{}{No soy un filÃ³sofo, seÃ±orita. Solo se me da bien matar.}
+{226}{}{Todos tenemos un papel que desempeÃ±ar. Algunos de nosotros somos holgazanes imbÃ©ciles que hacemos un trabajo estÃºpido. Otros somos pensadores. Otros somos asesinos. Tenemos un sitio para ti aquÃ­ si quieres. Â¡Por favor, piÃ©nsatelo!}
+{227}{}{Tenemos muchas cosas planeadas. Primero vino la Llama Sagrada, que purificÃ³ al mundo del mal. Luego vino el Maestro. Ahora estamos en la Ã©poca de la Unidad, cuando luchamos para conquistar las divisiones del mundo. DespuÃ©s de la Unidad vendrÃ¡ la Paz. La Era de la Paz es la razÃ³n por la que luchamos.}
+{228}{}{Â¿Por quÃ© tiene que morir tanta gente para lograr la paz?}
+{229}{}{Me parece bien. Â¡Alabado sea el Maestro!}
+{230}{}{Â¿Pero no era malo el Fuego del Apocalipsis?}
+{231}{}{Para mÃ­ no son mÃ¡s que tonterÃ­as.}
+{232}{}{Estoy segura de que lo estÃ¡s. El nerviosismo es una emociÃ³n saludable. AsÃ­ no fisgonea uno por las esquinas ni hace cosas estÃºpidas. AdiÃ³s.}
+{233}{}{Los iniciados buscan respuestas a las preguntas, que es lo que tÃº deberÃ­as estar haciendo. AdiÃ³s.}
+{234}{}{No sÃ©. La gente piensa que su espÃ­ritu habita entre estos muros. Al menos eso es lo que parece.}
+{235}{}{Â¿Y quÃ© dice la gente sobre su forma fÃ­sica?}
+{236}{}{Â¿No serÃ¡s un poco escÃ©ptica?}
+{237}{}{Â¿Pero existe realmente el Maestro o es todo una patraÃ±a?}
 {238}{}{Esa es una pregunta vaga y molesta.}
 {239}{}{Gracias, hermana.}
-{240}{}{El Sumo Sacerdote de la Catedral es Morfeo. Puedes encontrarlo en el Santuario Superior, pero no ofrece audiencias privadas. Podrías persuadir al Padre Fustigador para que responda por ti. Puedes encontrarlo aquí en la Rectoría.}
-{241}{}{¿Morfeo? ¿Es un buen hombre?}
-{242}{}{¿Por qué lo llaman Fustigador?}
-{243}{}{¿Y qué hay del Maestro?}
-{244}{}{¿Hay algo más que debería saber?}
+{240}{}{El Sumo Sacerdote de la Catedral es Morfeo. Puedes encontrarlo en el Santuario Superior, pero no ofrece audiencias privadas. PodrÃ­as persuadir al Padre Fustigador para que responda por ti. Puedes encontrarlo aquÃ­ en la RectorÃ­a.}
+{241}{}{Â¿Morfeo? Â¿Es un buen hombre?}
+{242}{}{Â¿Por quÃ© lo llaman Fustigador?}
+{243}{}{Â¿Y quÃ© hay del Maestro?}
+{244}{}{Â¿Hay algo mÃ¡s que deberÃ­a saber?}
 {245}{}{Gracias, hermana.}
-{246}{}{Puedes cambiar de opinión o perder la vida. Todo esto depende de tus acciones y de tu punto de vista. Adiós.}
-{247}{}{Tenemos intereses muy parecidos. Has matado a monstruos y bandidos y has hecho del mundo un lugar más seguro. Nosotros planeamos hacer lo mismo, pero a mayor escala.}
-{248}{}{¿En qué medida?}
-{249}{}{¿Qué monstruos y bandidos queréis cargaros?}
-{250}{}{¿Tiene esto algo que ver con la famosa Llama Sagrada de la que he oído?}
-{251}{}{Lo siento, señora, pero no creo ni una sola palabra de lo que me estás diciendo.}
-{252}{}{¡Qué bien! ¡Alabado sea el Maestro! ¡Alabada la Llama Sagrada!}
-{253}{}{Paz, amor y Unidad, claro. ¿Sino que otras cosas podrían ser? Pero podrás descubrir todo esto por ti mismo. Adiós.}
-{254}{}{Deberías pasar algunas semanas de meditación y abstinencia y luego acercarte a uno de los ancianos. O podrías ofrecerte voluntario para trabajos de servicio.}
+{246}{}{Puedes cambiar de opiniÃ³n o perder la vida. Todo esto depende de tus acciones y de tu punto de vista. AdiÃ³s.}
+{247}{}{Tenemos intereses muy parecidos. Has matado a monstruos y bandidos y has hecho del mundo un lugar mÃ¡s seguro. Nosotros planeamos hacer lo mismo, pero a mayor escala.}
+{248}{}{Â¿En quÃ© medida?}
+{249}{}{Â¿QuÃ© monstruos y bandidos querÃ©is cargaros?}
+{250}{}{Â¿Tiene esto algo que ver con la famosa Llama Sagrada de la que he oÃ­do?}
+{251}{}{Lo siento, seÃ±ora, pero no creo ni una sola palabra de lo que me estÃ¡s diciendo.}
+{252}{}{Â¡QuÃ© bien! Â¡Alabado sea el Maestro! Â¡Alabada la Llama Sagrada!}
+{253}{}{Paz, amor y Unidad, claro. Â¿Sino que otras cosas podrÃ­an ser? Pero podrÃ¡s descubrir todo esto por ti mismo. AdiÃ³s.}
+{254}{}{DeberÃ­as pasar algunas semanas de meditaciÃ³n y abstinencia y luego acercarte a uno de los ancianos. O podrÃ­as ofrecerte voluntario para trabajos de servicio.}
 {255}{}{He visto a algunos de vosotros en otras ciudades...}
-{256}{}{¿A quién tengo que dirigirme para ser voluntario?}
-{257}{}{¡Semanas! Eso es mucho tiempo.}
-{258}{}{¿A qué anciano me aconsejas que me dirija?}
-{259}{}{¿Trabajo de servicio? ¿Como matar a vuestros enemigos?}
-{260}{}{Discúlpame. Al menos, deberías ser honesto al buscar la redención para tus crímenes. ¿Cómo puedo ayudarte?}
-{261}{}{Me preguntaba de qué va todo eso de la Catedral.}
-{262}{}{¿Qué hace falta para ser un Iniciado?}
-{263}{}{¿Dónde está el Maestro?}
-{264}{}{¿Quién está al mando aquí?}
-{265}{}{¡Déjame respirar, hermana! ¡Nadie sirve a otro a menos que tenga una pistola apuntándole a la cabeza!}
-{266}{}{Es peligroso dejar entrar en casa a un perro rabioso solo porque no puedes ver su saliva. Adiós.}
-{267}{}{Entonces has sido difamado, porque todo el Cementerio cuenta historias horrorosas sobre ti. Y no me apetece descubrir si son verdad. Adiós.}
-{268}{}{Toda lucha tiene un precio y la mayor de las luchas produce inevitablemente el mayor de los costes. Me temo que esa es la paradoja de la paz. Hay que pensar en ello, no importa el precio. Adiós.}
-{269}{}{Eso es una paradoja. Claro que lo fue, pero los mayores males pueden llevar al mejor de los bienes. Solo se necesita inteligencia y coraje por parte de aquellos que sobreviven. Hay que pensar en ello, no importa el precio. Adiós.}
-{270}{}{No deberíamos juzgar a la gente según su apariencia física. El objetivo del Maestro es noble y eso es todo lo que necesito saber. Para saber lo que opinan los demás, pregúntales a ellos.}
-{271}{}{Puede que un poco. La clarividencia del Maestro es tan ambiciosa y brillante que supongo que se me perdonarán algunas dudas. Perdóname si te desaliento. Deberías buscar un alma más fuerte que la mía. Adiós.}
-{272}{}{¡Claro que hay un Maestro! ¿Por qué no iba a haber uno? Hacemos muchas cosas, incluso cosas de las que no estoy orgullosa, pero la mentira no es una de ellas. La visión que tiene el Maestro de la Paz y la Unidad es auténtica. Adiós.}
-{273}{}{No hay nada vago en "No lo sé". Adiós, señor.}
-{274}{}{No hay nada vago en "No lo sé". Adiós, señorita.}
-{275}{}{De nada, señor. Que el Maestro lo bendiga con su gracia.}
-{276}{}{De nada, señorita. Que el Maestro la bendiga con su gracia.}
-{277}{}{Es un hombre inteligente, tiene la confianza del Maestro. Eso debería ser suficiente. Que el Maestro te bendiga con su gracia. Adiós.}
-{278}{}{Educa a los niños y eso es muy duro. ¿Hay algo más?}
-{279}{}{¿Morfeo? ¿Es un buen hombre?}
-{280}{}{¿Por qué se le permite a Fustigador hacer daño a los niños?}
-{281}{}{¿Y qué hay del Maestro?}
-{282}{}{¿Hay algo más que debería saber?}
+{256}{}{Â¿A quiÃ©n tengo que dirigirme para ser voluntario?}
+{257}{}{Â¡Semanas! Eso es mucho tiempo.}
+{258}{}{Â¿A quÃ© anciano me aconsejas que me dirija?}
+{259}{}{Â¿Trabajo de servicio? Â¿Como matar a vuestros enemigos?}
+{260}{}{DiscÃºlpame. Al menos, deberÃ­as ser honesto al buscar la redenciÃ³n para tus crÃ­menes. Â¿CÃ³mo puedo ayudarte?}
+{261}{}{Me preguntaba de quÃ© va todo eso de la Catedral.}
+{262}{}{Â¿QuÃ© hace falta para ser un Iniciado?}
+{263}{}{Â¿DÃ³nde estÃ¡ el Maestro?}
+{264}{}{Â¿QuiÃ©n estÃ¡ al mando aquÃ­?}
+{265}{}{Â¡DÃ©jame respirar, hermana! Â¡Nadie sirve a otro a menos que tenga una pistola apuntÃ¡ndole a la cabeza!}
+{266}{}{Es peligroso dejar entrar en casa a un perro rabioso solo porque no puedes ver su saliva. AdiÃ³s.}
+{267}{}{Entonces has sido difamado, porque todo el Cementerio cuenta historias horrorosas sobre ti. Y no me apetece descubrir si son verdad. AdiÃ³s.}
+{268}{}{Toda lucha tiene un precio y la mayor de las luchas produce inevitablemente el mayor de los costes. Me temo que esa es la paradoja de la paz. Hay que pensar en ello, no importa el precio. AdiÃ³s.}
+{269}{}{Eso es una paradoja. Claro que lo fue, pero los mayores males pueden llevar al mejor de los bienes. Solo se necesita inteligencia y coraje por parte de aquellos que sobreviven. Hay que pensar en ello, no importa el precio. AdiÃ³s.}
+{270}{}{No deberÃ­amos juzgar a la gente segÃºn su apariencia fÃ­sica. El objetivo del Maestro es noble y eso es todo lo que necesito saber. Para saber lo que opinan los demÃ¡s, pregÃºntales a ellos.}
+{271}{}{Puede que un poco. La clarividencia del Maestro es tan ambiciosa y brillante que supongo que se me perdonarÃ¡n algunas dudas. PerdÃ³name si te desaliento. DeberÃ­as buscar un alma mÃ¡s fuerte que la mÃ­a. AdiÃ³s.}
+{272}{}{Â¡Claro que hay un Maestro! Â¿Por quÃ© no iba a haber uno? Hacemos muchas cosas, incluso cosas de las que no estoy orgullosa, pero la mentira no es una de ellas. La visiÃ³n que tiene el Maestro de la Paz y la Unidad es autÃ©ntica. AdiÃ³s.}
+{273}{}{No hay nada vago en "No lo sÃ©". AdiÃ³s, seÃ±or.}
+{274}{}{No hay nada vago en "No lo sÃ©". AdiÃ³s, seÃ±orita.}
+{275}{}{De nada, seÃ±or. Que el Maestro lo bendiga con su gracia.}
+{276}{}{De nada, seÃ±orita. Que el Maestro la bendiga con su gracia.}
+{277}{}{Es un hombre inteligente, tiene la confianza del Maestro. Eso deberÃ­a ser suficiente. Que el Maestro te bendiga con su gracia. AdiÃ³s.}
+{278}{}{Educa a los niÃ±os y eso es muy duro. Â¿Hay algo mÃ¡s?}
+{279}{}{Â¿Morfeo? Â¿Es un buen hombre?}
+{280}{}{Â¿Por quÃ© se le permite a Fustigador hacer daÃ±o a los niÃ±os?}
+{281}{}{Â¿Y quÃ© hay del Maestro?}
+{282}{}{Â¿Hay algo mÃ¡s que deberÃ­a saber?}
 {283}{}{Gracias, hermana.}
 {284}{}{No puedo contarte nada que no sepas ya. Mis disculpas.}
-{285}{}{Muchas cosas, estoy segura. Pero estas respuestas es mejor que las descubramos nosotros mismos, no mediante rumores e insinuaciones. Adiós.}
-{286}{}{De nada, señor.}
-{287}{}{De nada, señorita.}
-{288}{}{Todo lo que sea posible. El mundo es caótico. Necesita orden o no sobrevivirá. Nosotros traeremos el orden y evitaremos que los monstruos vuelvan a dañarlo como lo hicieron durante el Apocalipsis. Hay que pensar en ello, no importa el precio. Adiós.}
-{289}{}{Aquellos que permitieran a sus deseos egoístas oponerse al bien de la humanidad. El egoísmo humano fue la causa del Apocalipsis. Si el mundo quiere sobrevivir, esta locura debe ser limpiada del corazón humano. Hay que pensar en ello, no importa el precio. Adiós.}
+{285}{}{Muchas cosas, estoy segura. Pero estas respuestas es mejor que las descubramos nosotros mismos, no mediante rumores e insinuaciones. AdiÃ³s.}
+{286}{}{De nada, seÃ±or.}
+{287}{}{De nada, seÃ±orita.}
+{288}{}{Todo lo que sea posible. El mundo es caÃ³tico. Necesita orden o no sobrevivirÃ¡. Nosotros traeremos el orden y evitaremos que los monstruos vuelvan a daÃ±arlo como lo hicieron durante el Apocalipsis. Hay que pensar en ello, no importa el precio. AdiÃ³s.}
+{289}{}{Aquellos que permitieran a sus deseos egoÃ­stas oponerse al bien de la humanidad. El egoÃ­smo humano fue la causa del Apocalipsis. Si el mundo quiere sobrevivir, esta locura debe ser limpiada del corazÃ³n humano. Hay que pensar en ello, no importa el precio. AdiÃ³s.}
 {290}{}{}
 {291}{}{}
 {292}{}{}
 {293}{}{}
-{294}{}{Hubo una Deacon Olivier; no, ahora ya no está... y el Padre Pinochet... no, ya no está disponible. No sé si mencionar a Fustigador, pero es el único que queda ahora. Bueno, estoy segura de que encontrarás tu camino. Adiós.}
-{295}{}{La muerte nunca es un servicio, ni siquiera cuando es una necesidad. Adiós, señor.}
-{296}{}{La muerte nunca es un servicio, ni siquiera cuando es una necesidad. Adiós, señorita.}
-{297}{}{Hay algo que me he estado preguntando. Pero tal crítica no está garantizada, estoy segura. Quizá deberías hablar con los niños.}
+{294}{}{Hubo una Deacon Olivier; no, ahora ya no estÃ¡... y el Padre Pinochet... no, ya no estÃ¡ disponible. No sÃ© si mencionar a Fustigador, pero es el Ãºnico que queda ahora. Bueno, estoy segura de que encontrarÃ¡s tu camino. AdiÃ³s.}
+{295}{}{La muerte nunca es un servicio, ni siquiera cuando es una necesidad. AdiÃ³s, seÃ±or.}
+{296}{}{La muerte nunca es un servicio, ni siquiera cuando es una necesidad. AdiÃ³s, seÃ±orita.}
+{297}{}{Hay algo que me he estado preguntando. Pero tal crÃ­tica no estÃ¡ garantizada, estoy segura. QuizÃ¡ deberÃ­as hablar con los niÃ±os.}
 {298}{}{[Hecho]}
 {299}{}{Yo ir.}
-{300}{}{Ya hemos contratado iniciados, pero la Iglesia está llevando a cabo importantes Cruzadas y creo que somos más selectivos que nunca con los reclutamientos. La fe perseverará y la paciencia es una virtud. Buena suerte, amiga.}
-{301}{}{Ya hemos contratado iniciados, pero la Iglesia está llevando a cabo importantes Cruzadas y creo que somos más selectivos que nunca con los reclutamientos. La fe perseverará y la paciencia es una virtud. Buena suerte, amiga.}
-{302}{}{No sé de ningún plan para volver a invocar la Llama Sagrada. El Fuego Sagrado lo es solo porque nos da la oportunidad de purgar nuestro mundo de la imperfección. Son nuestras acciones la que harán la llama Sagrada. Debemos quitar los males del mundo y hacerlos herramientas del Bien. Igual que las armas defienden tu vida, nuestras acciones defienden al mundo. Adiós, amiga.}
-{303}{}{No sé de ningún plan para volver a invocar la Llama Sagrada. El Fuego Sagrado lo es solo porque nos da la oportunidad de purgar nuestro mundo de la imperfección. Son nuestras acciones la que harán la llama Sagrada. Debemos quitar los males del mundo y hacerlos herramientas del Bien. Igual que las armas defienden tu vida, nuestras acciones defienden al mundo. Adiós, amiga.}
-{304}{}{Realizamos muchos servicios para la gente. Sanamos a los enfermos, damos de comer a los hambrientos y enseñamos a los jóvenes. Estoy muy orgullosa de ellos. Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amiga.}
-{305}{}{Realizamos muchos servicios para la gente. Sanamos a los enfermos, damos de comer a los hambrientos y enseñamos a los jóvenes. Estoy muy orgullosa de ellos. Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amiga.}
-{306}{}{Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amiga.}
-{307}{}{Si te encuentras al Padre Morfeo, podrá decirte cómo introducirte en nuestros hospicios. Adiós, amiga.}
+{300}{}{Ya hemos contratado iniciados, pero la Iglesia estÃ¡ llevando a cabo importantes Cruzadas y creo que somos mÃ¡s selectivos que nunca con los reclutamientos. La fe perseverarÃ¡ y la paciencia es una virtud. Buena suerte, amiga.}
+{301}{}{Ya hemos contratado iniciados, pero la Iglesia estÃ¡ llevando a cabo importantes Cruzadas y creo que somos mÃ¡s selectivos que nunca con los reclutamientos. La fe perseverarÃ¡ y la paciencia es una virtud. Buena suerte, amiga.}
+{302}{}{No sÃ© de ningÃºn plan para volver a invocar la Llama Sagrada. El Fuego Sagrado lo es solo porque nos da la oportunidad de purgar nuestro mundo de la imperfecciÃ³n. Son nuestras acciones la que harÃ¡n la llama Sagrada. Debemos quitar los males del mundo y hacerlos herramientas del Bien. Igual que las armas defienden tu vida, nuestras acciones defienden al mundo. AdiÃ³s, amiga.}
+{303}{}{No sÃ© de ningÃºn plan para volver a invocar la Llama Sagrada. El Fuego Sagrado lo es solo porque nos da la oportunidad de purgar nuestro mundo de la imperfecciÃ³n. Son nuestras acciones la que harÃ¡n la llama Sagrada. Debemos quitar los males del mundo y hacerlos herramientas del Bien. Igual que las armas defienden tu vida, nuestras acciones defienden al mundo. AdiÃ³s, amiga.}
+{304}{}{Realizamos muchos servicios para la gente. Sanamos a los enfermos, damos de comer a los hambrientos y enseÃ±amos a los jÃ³venes. Estoy muy orgullosa de ellos. Si te encuentras al Padre Morfeo, podrÃ¡ decirte cÃ³mo introducirte en nuestros hospicios. AdiÃ³s, amiga.}
+{305}{}{Realizamos muchos servicios para la gente. Sanamos a los enfermos, damos de comer a los hambrientos y enseÃ±amos a los jÃ³venes. Estoy muy orgullosa de ellos. Si te encuentras al Padre Morfeo, podrÃ¡ decirte cÃ³mo introducirte en nuestros hospicios. AdiÃ³s, amiga.}
+{306}{}{Si te encuentras al Padre Morfeo, podrÃ¡ decirte cÃ³mo introducirte en nuestros hospicios. AdiÃ³s, amiga.}
+{307}{}{Si te encuentras al Padre Morfeo, podrÃ¡ decirte cÃ³mo introducirte en nuestros hospicios. AdiÃ³s, amiga.}

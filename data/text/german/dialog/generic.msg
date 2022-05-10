@@ -28,12 +28,12 @@
 {302}{}{Ooga.}
 {303}{}{Urg.}
 {350}{}{[Ende]}
-{351}{}{[Tschüss]}
+{351}{}{[TschÃ¼ss]}
 {352}{}{[Mehr]}
 {353}{}{[FORTSETZEN]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
-{375}{}{Tschüss.}
+{375}{}{TschÃ¼ss.}
 {376}{}{Wiedersehn.}
 {450}{}{The coast is clear. Let's move out!}
 {900}{}{The old, worn door looks like it could be destroyed with a well-placed explosive.}
@@ -172,7 +172,7 @@
 {2100}{}{one hundred}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{Wenn du das noch mal versuchst, muss ich dich töten.}
+{3050}{}{Wenn du das noch mal versuchst, muss ich dich tÃ¶ten.}
 {3051}{}{I don't have anything to steal, you idiot.}
 {3052}{}{I don't think we know each other *that* well.}
 {3053}{}{Fass das noch einmal an und du wirst es bereuen.}
@@ -194,7 +194,7 @@
 {3325}{}{Why don't you put everything right back where you found it?}
 {3326}{}{You know, it ain't nice to take what's not yours.}
 {3327}{}{Get away from there, punk!}
-{3328}{}{Jetzt erzähl mir nicht, du "suchst nur deine Schlüssel". Mach dass du hier raus kommst!}
+{3328}{}{Jetzt erzÃ¤hl mir nicht, du "suchst nur deine SchlÃ¼ssel". Mach dass du hier raus kommst!}
 {3329}{}{Whatever you're looking for, it ain't there. Understand?}
 {3350}{}{}
 {3375}{}{}
@@ -348,7 +348,7 @@
 {3900}{}{}
 {3925}{}{Hey you! What're you doing there?}
 {3926}{}{You're not supposed to be here!}
-{3927}{}{Wenn du meinst, dass du hier einfach so vorbei kommst, hast du dich getäuscht!}
+{3927}{}{Wenn du meinst, dass du hier einfach so vorbei kommst, hast du dich getÃ¤uscht!}
 {3928}{}{You better not be planning what I think you're planning, stranger.}
 {3929}{}{Was? Meinst du, ich sehe dich nicht? Mach, dass du hier raus kommst!}
 {3950}{}{}
@@ -428,10 +428,10 @@
 {10006}{}{Wir sollten uns ein bisschen verteilen.}
 {10007}{}{That's it for now.}
 {10008}{}{We need to change our distance from one another.}
-{10009}{}{Ich muss mit dir über deine Ausrüstung reden.}
+{10009}{}{Ich muss mit dir Ã¼ber deine AusrÃ¼stung reden.}
 {10010}{}{On second thought, I think this distance is okay for now.}
 {10011}{}{Actually, I guess there's nothing I need to really know about your gear.}
-{10012}{}{Ich möchte, dass du deine Rüstung ablegst.}
+{10012}{}{Ich mÃ¶chte, dass du deine RÃ¼stung ablegst.}
 {10013}{}{I need to know what kind of weapons you can use.}
 {10100}{}{Let's go.}
 {21020}{}{twenty}

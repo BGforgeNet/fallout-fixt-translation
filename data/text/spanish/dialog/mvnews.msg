@@ -1,2 +1,2 @@
-{100}{}{En la portada del periódico puedes leer: "Un día habitual en el pueblo".}
-{101}{}{La máquina de periódicos está rota y no puede abrirse. Resulta muy frustrante.}
+{100}{}{En la portada del periÃ³dico puedes leer: "Un dÃ­a habitual en el pueblo".}
+{101}{}{La mÃ¡quina de periÃ³dicos estÃ¡ rota y no puede abrirse. Resulta muy frustrante.}

@@ -1,1 +1,1 @@
-{100}{}{Este Refugio est· bastante revuelto. Seguro que no queda nada de valor.}
+{100}{}{Este Refugio est√° bastante revuelto. Seguro que no queda nada de valor.}

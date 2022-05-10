@@ -1,8 +1,8 @@
-{100}{}{¿Tienes comida?}
-{101}{}{Chico, tengo hambre. Ojalá tuviera hamburguesas de brahmin.}
-{102}{}{Por favor, señor, deme algo de comer.}
-{103}{}{Por favor, señora, deme algo de comer.}
-{104}{}{Ojalá pudiera encontrar algo de comida por aquí.}
-{105}{}{¡Me muero de hambre!}
-{106}{}{Trabajaré a cambio de comida.}
-{107}{}{Comidaaaa... ¡Comida ya!}
+{100}{}{Â¿Tienes comida?}
+{101}{}{Chico, tengo hambre. OjalÃ¡ tuviera hamburguesas de brahmin.}
+{102}{}{Por favor, seÃ±or, deme algo de comer.}
+{103}{}{Por favor, seÃ±ora, deme algo de comer.}
+{104}{}{OjalÃ¡ pudiera encontrar algo de comida por aquÃ­.}
+{105}{}{Â¡Me muero de hambre!}
+{106}{}{TrabajarÃ© a cambio de comida.}
+{107}{}{Comidaaaa... Â¡Comida ya!}

@@ -1,40 +1,40 @@
-{100}{}{A première vue, ils n'ont pas dû voyager bien loin. Ils doivent avoir un repaire près d'ici.}
-{101}{}{On dirait qu'ils ne venaient pas de très loin.}
+{100}{}{A premiÃ¨re vue, ils n'ont pas dÃ» voyager bien loin. Ils doivent avoir un repaire prÃ¨s d'ici.}
+{101}{}{On dirait qu'ils ne venaient pas de trÃ¨s loin.}
 {102}{}{On dirait qu'ils venaient de quelque part au Nord d'ici.}
-{103}{}{Apparemment, ils erraient dans le désert.}
-{104}{}{Tu tombes sur une violente échauffourée entre des radscorpions et des rataupes.}
+{103}{}{Apparemment, ils erraient dans le dÃ©sert.}
+{104}{}{Tu tombes sur une violente Ã©chauffourÃ©e entre des radscorpions et des rataupes.}
 {105}{}{EMBUSCADE !!}
 {106}{}{Tu tombes sur un important groupe de radscorpions !}
 {107}{}{Tu tombes sur un groupe de radscorpions.}
 {108}{}{Tu tombes sur une famille de rataupes.}
-{109}{}{Tu parviens à éviter la déshydratation en trouvant de l'eau. Les recherches t'ont prit 1 heure.}
-{110}{}{Tu parviens à éviter la déshydratation en trouvant de l'eau. Les recherches t'ont prit }
+{109}{}{Tu parviens Ã  Ã©viter la dÃ©shydratation en trouvant de l'eau. Les recherches t'ont prit 1 heure.}
+{110}{}{Tu parviens Ã  Ã©viter la dÃ©shydratation en trouvant de l'eau. Les recherches t'ont prit }
 {111}{}{ heures.}
-{112}{}{Tes réserves d'eau sont épuisées, et tes recherches ont échoué à trouver de l'eau. Tu souffres de déshydratation sévère, causant }
-{113}{}{ points de dégats.}
-{114}{}{Tes réserves d'eau sont épuisées, et tes recherches ont pris }
-{115}{}{ heures, mais tu n'en trouves pas assez pour étancher ta soif. Tu perds }
-{116}{}{ points de dégats.}
-{117}{}{Tu recherches de l'eau dans le désert pendant 1 heure mais tu n'en trouves pas assez pour étancher ta soif. Tu perds un point d'impact.}
-{118}{}{Tu recherches de l'eau dans le désert pendant 1 heure mais tu n'en trouves pas assez pour étancher ta soif. Tu perds}
-{119}{}{ points de dégats.}
-{120}{}{Tu recherches de l'eau dans le désert pendant }
-{121}{}{ heures, mais tu n'en trouves pas assez pour étancher ta soif. Tu perds 1 points de dégats.}
-{122}{}{Tu recherches de l'eau dans le désert pendant }
-{123}{}{ heures, mais tu n'en trouves pas assez pour étancher ta soif. Tu perds }
-{124}{}{ points de dégats.}
-{125}{}{Tu parviens à éviter la déshydratation en utilisant tes ressources en eau.}
+{112}{}{Tes rÃ©serves d'eau sont Ã©puisÃ©es, et tes recherches ont Ã©chouÃ© Ã  trouver de l'eau. Tu souffres de dÃ©shydratation sÃ©vÃ¨re, causant }
+{113}{}{ points de dÃ©gats.}
+{114}{}{Tes rÃ©serves d'eau sont Ã©puisÃ©es, et tes recherches ont pris }
+{115}{}{ heures, mais tu n'en trouves pas assez pour Ã©tancher ta soif. Tu perds }
+{116}{}{ points de dÃ©gats.}
+{117}{}{Tu recherches de l'eau dans le dÃ©sert pendant 1 heure mais tu n'en trouves pas assez pour Ã©tancher ta soif. Tu perds un point d'impact.}
+{118}{}{Tu recherches de l'eau dans le dÃ©sert pendant 1 heure mais tu n'en trouves pas assez pour Ã©tancher ta soif. Tu perds}
+{119}{}{ points de dÃ©gats.}
+{120}{}{Tu recherches de l'eau dans le dÃ©sert pendant }
+{121}{}{ heures, mais tu n'en trouves pas assez pour Ã©tancher ta soif. Tu perds 1 points de dÃ©gats.}
+{122}{}{Tu recherches de l'eau dans le dÃ©sert pendant }
+{123}{}{ heures, mais tu n'en trouves pas assez pour Ã©tancher ta soif. Tu perds }
+{124}{}{ points de dÃ©gats.}
+{125}{}{Tu parviens Ã  Ã©viter la dÃ©shydratation en utilisant tes ressources en eau.}
 {126}{}{Tu tombes sur des radscorpions chassant des rataupes.}
-{127}{}{Des humanoïdes hostiles, maigres et à la peau verdâtre s'approchent.}
-{128}{}{Des déchets et des pierres sont éparpillés. Tu te demandes s'il reste quelque chose de valeur.}
+{127}{}{Des humanoÃ¯des hostiles, maigres et Ã  la peau verdÃ¢tre s'approchent.}
+{128}{}{Des dÃ©chets et des pierres sont Ã©parpillÃ©s. Tu te demandes s'il reste quelque chose de valeur.}
 {129}{}{Un radscorpion solitaire te tend une embuscade !}
-{130}{}{Tu remarques un cadavre partiellement dévoré.}
+{130}{}{Tu remarques un cadavre partiellement dÃ©vorÃ©.}
 {131}{}{PANIQUE !!}
 {132}{}{Tu tombes sur un important groupe de radscorpions !}
 {133}{}{Des pillards te tendent une embuscade !}
-{134}{}{Un groupe d'horribles radscorpions venant du désert attaque !}
+{134}{}{Un groupe d'horribles radscorpions venant du dÃ©sert attaque !}
 {135}{}{Tu rencontres un groupe de gardes en patrouille.}
-{136}{}{Tu rencontres un marchand accompagné de plusieurs gardes.}
+{136}{}{Tu rencontres un marchand accompagnÃ© de plusieurs gardes.}
 {137}{}{Tu tombes sur un paysan gardant des brahmines.}
 {138}{}{ Tu remplis  }
 {139}{}{Des radscorpions chassant des rataupes au milieu des ruines d'un village.}
@@ -45,7 +45,7 @@
 {144}{}{Tu tombes sur un grand rassemblement de rataupes.}
 {145}{}{Tu rencontres une bande de radscorpions sauvages.}
 {146}{}{Tu rencontres des paysans victimes d'une attaque.}
-{147}{}{Tu t'efforces à trouver de l'eau afin d'éviter la déshydratation. Les recherches t'ont prit 1 heure.}
+{147}{}{Tu t'efforces Ã  trouver de l'eau afin d'Ã©viter la dÃ©shydratation. Les recherches t'ont prit 1 heure.}
 {148}{}{ point of health damage.}
 {149}{}{ beers}
 {150}{}{ bottle of booze}
@@ -64,17 +64,17 @@
 {163}{}{but you manage to avoid dehydration by searching for water. The search takes }
 {164}{}{1 hour.}
 {165}{}{Tu gagnes }
-{166}{}{ points d'expérience pour avoir utilisé avec succès ta compétence Vie en plein air.}
+{166}{}{ points d'expÃ©rience pour avoir utilisÃ© avec succÃ¨s ta compÃ©tence Vie en plein air.}
 {167}{}{}
 {168}{}{}
 {169}{}{Tu tombes sur une famille de radscorpions.}
 {170}{}{Tu tombes sur un marchand nomade et ses gardes.}
-{171}{}{Tu découvres un voyageur mort.}
-{172}{}{Tu découvres des objets éparpillés au sol.}
-{173}{}{Tu aperçois les restes d'une caravane mise à sac par des pillards.}
+{171}{}{Tu dÃ©couvres un voyageur mort.}
+{172}{}{Tu dÃ©couvres des objets Ã©parpillÃ©s au sol.}
+{173}{}{Tu aperÃ§ois les restes d'une caravane mise Ã  sac par des pillards.}
 {174}{}{Tu tombes sur les restes d'un marchand et de ces gardes.}
 {175}{}{Tu rencontres un voyageur.}
-{176}{}{Tu te retrouves au milieu de ruines et d'immeubles abandonnés.}
+{176}{}{Tu te retrouves au milieu de ruines et d'immeubles abandonnÃ©s.}
 {187}{}{}
 {188}{}{}
 {189}{}{}
@@ -85,9 +85,9 @@
 {194}{}{}
 {195}{}{}
 {196}{}{Radscorpions en vue !}
-{197}{}{Oh-oh... une fête de pillards !}
-{198}{}{Tu aperçois un pillard solitaire.}
-{199}{}{Tu découvres les restes d'un champ de bataille jonché de cadavres.}
+{197}{}{Oh-oh... une fÃªte de pillards !}
+{198}{}{Tu aperÃ§ois un pillard solitaire.}
+{199}{}{Tu dÃ©couvres les restes d'un champ de bataille jonchÃ© de cadavres.}
 {200}{}{Radscorpions en vue !}
 {201}{}{}
 {202}{}{}
@@ -111,10 +111,10 @@
 {220}{}{}
 {221}{}{}
 {222}{}{}
-{223}{}{Tu aperçois une meute errante de coyotes sauvages.}
-{224}{}{Tu aperçois des individus à l'affût.}
-{225}{}{Tu tombes sur une petite fête entre des marchands et leurs gardes.}
-{226}{}{Tu assistes à une petite échauffourée : des hommes contre des mutants !}
+{223}{}{Tu aperÃ§ois une meute errante de coyotes sauvages.}
+{224}{}{Tu aperÃ§ois des individus Ã  l'affÃ»t.}
+{225}{}{Tu tombes sur une petite fÃªte entre des marchands et leurs gardes.}
+{226}{}{Tu assistes Ã  une petite Ã©chauffourÃ©e : des hommes contre des mutants !}
 {227}{}{Une immense horde de radscorpions arrive dans cette direction !}
 {228}{}{}
 {229}{}{}
@@ -139,13 +139,13 @@
 {248}{}{}
 {249}{}{}
 {250}{}{Des hommes portant des SuperArmures se dirigent vers toi.}
-{251}{}{Tu aperçois un groupe de marchands et de gardes.}
-{252}{}{Tu assistes à une violente échauffourée entre des pillards du désert et un groupe d'hommes en SuperArmures.}
-{253}{}{Tu aperçois des mutants explorant une parcelle de terre hostile.}
-{254}{}{Tu aperçois d'étranges créatures...}
+{251}{}{Tu aperÃ§ois un groupe de marchands et de gardes.}
+{252}{}{Tu assistes Ã  une violente Ã©chauffourÃ©e entre des pillards du dÃ©sert et un groupe d'hommes en SuperArmures.}
+{253}{}{Tu aperÃ§ois des mutants explorant une parcelle de terre hostile.}
+{254}{}{Tu aperÃ§ois d'Ã©tranges crÃ©atures...}
 {255}{}{Tu trouves des objets.}
-{256}{}{Une patrouille de super mutants passe tout près !}
-{257}{}{Tu aperçois les ruines d'un petit village.}
+{256}{}{Une patrouille de super mutants passe tout prÃ¨s !}
+{257}{}{Tu aperÃ§ois les ruines d'un petit village.}
 {258}{}{}
 {259}{}{}
 {260}{}{}
@@ -167,16 +167,16 @@
 {276}{}{}
 {277}{}{}
 {278}{}{}
-{279}{}{Devant toi, tu aperçois des déchets éparpillés dans le sable.}
+{279}{}{Devant toi, tu aperÃ§ois des dÃ©chets Ã©parpillÃ©s dans le sable.}
 {280}{}{Tu tombes sur une bataille de super mutants.}
-{281}{}{Tu tombes sur une bande de créatures bizarres.}
-{282}{}{Tu tombes sur une bande de radscorpions affamés.}
-{283}{}{Tu as des nausées et l'air semble vaciller avec la chaleur. Soudain, une créature mutante approche.}
-{284}{}{Tu tombes sur d'étranges créatures flottantes.}
+{281}{}{Tu tombes sur une bande de crÃ©atures bizarres.}
+{282}{}{Tu tombes sur une bande de radscorpions affamÃ©s.}
+{283}{}{Tu as des nausÃ©es et l'air semble vaciller avec la chaleur. Soudain, une crÃ©ature mutante approche.}
+{284}{}{Tu tombes sur d'Ã©tranges crÃ©atures flottantes.}
 {285}{}{Tu rencontres quelque chose semblant tout droit sorti d'un vieux film de science-fiction.}
 {286}{}{Le Griffemort !!}
-{287}{}{Tu tombes sur une bande de radscorpions en déplacement. Ils semblent fuir quelque chose...}
-{288}{}{Tu rencontres une créature mutante du désert.}
+{287}{}{Tu tombes sur une bande de radscorpions en dÃ©placement. Ils semblent fuir quelque chose...}
+{288}{}{Tu rencontres une crÃ©ature mutante du dÃ©sert.}
 {289}{}{}
 {290}{}{}
 {291}{}{}
@@ -187,23 +187,23 @@
 {296}{}{}
 {297}{}{}
 {298}{}{}
-{299}{}{Tu aperçois des radscorpions.}
+{299}{}{Tu aperÃ§ois des radscorpions.}
 {300}{}{Tu rencontres un paysan en haillons.}
 {301}{}{Tu rencontres un rataupe.}
-{302}{}{Un jeune Griffemort semblant penser que tu es son casse-croûte.}
-{303}{}{Tu tombes sur une bande de radscorpions en déplacement.}
+{302}{}{Un jeune Griffemort semblant penser que tu es son casse-croÃ»te.}
+{303}{}{Tu tombes sur une bande de radscorpions en dÃ©placement.}
 {304}{}{}
-{305}{}{Tu découvres les restes des gardes hostiles de Duc le marchand.}
-{306}{}{Une patrouille de mutants passe tout près, accompagnée d'étranges créatures !}
-{307}{}{Tu te fais prendre en embuscade par une petite équipe de super mutants.}
+{305}{}{Tu dÃ©couvres les restes des gardes hostiles de Duc le marchand.}
+{306}{}{Une patrouille de mutants passe tout prÃ¨s, accompagnÃ©e d'Ã©tranges crÃ©atures !}
+{307}{}{Tu te fais prendre en embuscade par une petite Ã©quipe de super mutants.}
 {308}{}{Il semble que tu te retrouves au coeur d'une violente guerre entre bandes !}
 {309}{}{Un groupe de bandits hostiles t'attaque !}
 {310}{}{Un petit groupe de pillards attaque !}
 {311}{}{Un petit groupe de bandits attaque !}
 {312}{}{Soudain, des rats t'attaquent !}
-{313}{}{Soudain, une nuée de mantes mutantes t'attaque !}
-{314}{}{Hé ! Ils sont vraiment là.}
-{315}{}{Tu aperçois un camion renversé.}
-{316}{}{Tu découvres des épaves de voitures en plein milieu du désert.}
-{317}{}{Au Nord-Est, tu aperçois une cabine de police.}
-{318}{}{Tu rencontres une horde de Brahmines sauvages. C'est étrange...}
+{313}{}{Soudain, une nuÃ©e de mantes mutantes t'attaque !}
+{314}{}{HÃ© ! Ils sont vraiment lÃ .}
+{315}{}{Tu aperÃ§ois un camion renversÃ©.}
+{316}{}{Tu dÃ©couvres des Ã©paves de voitures en plein milieu du dÃ©sert.}
+{317}{}{Au Nord-Est, tu aperÃ§ois une cabine de police.}
+{318}{}{Tu rencontres une horde de Brahmines sauvages. C'est Ã©trange...}

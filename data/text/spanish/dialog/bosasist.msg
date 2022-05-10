@@ -1,7 +1,7 @@
 {100}{}{Ves al ayudante de la doctora.}
-{179}{}{DeberÌas ver a la doctora.}
+{179}{}{Deber√≠as ver a la doctora.}
 {180}{}{Ella es la doctora, no yo.}
-{181}{}{Lo siento, pero solo estoy en pr·cticas.}
+{181}{}{Lo siento, pero solo estoy en pr√°cticas.}
 {182}{}{No puedo asistirte, oficialmente.}
 {183}{}{Lorri es la doctora.}
 {184}{}{Tienes que hablar con la doctora.}

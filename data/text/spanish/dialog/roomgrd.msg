@@ -1,8 +1,8 @@
-{100}{}{Estás viendo a un Guardia de la Hermandad.}
-{101}{}{No deberías estar aquí, Iniciado.}
-{102}{}{¿Qué estás haciendo aquí?}
-{103}{}{La Sala de Guardias es para los guardias. Tú no eres un guardia. Tú estás en la Sala de Guardias. Por lo tanto FUERA de aquí.}
-{104}{}{Vete por favor, no deberías estar aquí.}
+{100}{}{EstÃ¡s viendo a un Guardia de la Hermandad.}
+{101}{}{No deberÃ­as estar aquÃ­, Iniciado.}
+{102}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{103}{}{La Sala de Guardias es para los guardias. TÃº no eres un guardia. TÃº estÃ¡s en la Sala de Guardias. Por lo tanto FUERA de aquÃ­.}
+{104}{}{Vete por favor, no deberÃ­as estar aquÃ­.}
 {105}{}{Ey, no Iniciados.}
 {106}{}{Esto no es la biblioteca, chico. Si buscas algo vete a la biblioteca.}
 {107}{}{Esto no es la biblioteca, preciosa. Si buscas algo vete a la biblioteca.}

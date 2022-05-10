@@ -1,26 +1,26 @@
 {100}{}{Ves: al Dr. Solone, D. M.}
 {101}{}{Ves: a la Enfermera Marney.}
-{102}{}{Estás viendo a un doctor.}
-{103}{}{Estás viendo a una enfermera.}
-{104}{}{Bienvenida. ¿En qué puedo ayudarte hoy?}
+{102}{}{EstÃ¡s viendo a un doctor.}
+{103}{}{EstÃ¡s viendo a una enfermera.}
+{104}{}{Bienvenida. Â¿En quÃ© puedo ayudarte hoy?}
 {105}{}{Arrgh.}
-{106}{}{Tengo heridas. ¿Me puedes curar?}
-{107}{}{¿Puedes enseñarme algo de medicina?}
-{108}{}{Sí, ya veo que tienes algunos rasguños. Esto puede llevar algo de tiempo. ¿Quieres que intente curar tus heridas?}
+{106}{}{Tengo heridas. Â¿Me puedes curar?}
+{107}{}{Â¿Puedes enseÃ±arme algo de medicina?}
+{108}{}{SÃ­, ya veo que tienes algunos rasguÃ±os. Esto puede llevar algo de tiempo. Â¿Quieres que intente curar tus heridas?}
 {109}{}{Oh oh.}
 {110}{}{Noh oh.}
-{111}{}{Sí, por favor.}
+{111}{}{SÃ­, por favor.}
 {112}{}{No, gracias.}
-{113}{}{Ya está. Eso debería reponerte. Por favor, ve con más cuidado por ahí fuera.}
-{114}{}{Tienes experiencia en esto. ¿Puedes enseñarme algo de cuidados intensivos?}
+{113}{}{Ya estÃ¡. Eso deberÃ­a reponerte. Por favor, ve con mÃ¡s cuidado por ahÃ­ fuera.}
+{114}{}{Tienes experiencia en esto. Â¿Puedes enseÃ±arme algo de cuidados intensivos?}
 {115}{}{Vale. Gracias.}
-{116}{}{Puedo enseñarte algo. Pero eso llevará algunas horas. ¿Vas a quedarte?}
-{117}{}{Sí.}
+{116}{}{Puedo enseÃ±arte algo. Pero eso llevarÃ¡ algunas horas. Â¿Vas a quedarte?}
+{117}{}{SÃ­.}
 {118}{}{Lo siento, estoy muy ocupado.}
-{119}{}{Eres muy buena estudiante. Espero que sigas de nuestra parte. Adiós.}
-{120}{}{Como desees. Buena suerte por ahí fuera.}
-{121}{}{Puedo enseñarte algo, pero no demasiado. Llevará algo de tiempo. ¿Vas a quedarte?}
-{122}{}{Sí.}
+{119}{}{Eres muy buena estudiante. Espero que sigas de nuestra parte. AdiÃ³s.}
+{120}{}{Como desees. Buena suerte por ahÃ­ fuera.}
+{121}{}{Puedo enseÃ±arte algo, pero no demasiado. LlevarÃ¡ algo de tiempo. Â¿Vas a quedarte?}
+{122}{}{SÃ­.}
 {123}{}{Lo siento, pero carezco de tiempo.}
 {124}{}{Eres una estudiante excelente. Que tengas buena suerte.}
 {125}{}{Ahora mismo nada. Gracias de todas formas.}

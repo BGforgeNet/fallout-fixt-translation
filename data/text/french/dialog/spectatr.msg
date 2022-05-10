@@ -4,7 +4,7 @@
 {103}{}{Bien.}
 {104}{}{Ah, je vois.}
 {105}{}{Oh, pas mal.}
-{106}{}{Alors, c'est comme ça ?}
+{106}{}{Alors, c'est comme Ã§a ?}
 {107}{}{Je ne pourrais jamais le faire.}
 {108}{}{C'est de bon ton.}
 {109}{}{Presque.}
@@ -12,5 +12,5 @@
 {111}{}{Pas d'impertinence !}
 {112}{}{Ecoute.}
 {113}{}{Chhhh !}
-{114}{}{Hors de ma vue, s'il te plaît.}
+{114}{}{Hors de ma vue, s'il te plaÃ®t.}
 {115}{}{Merci.}

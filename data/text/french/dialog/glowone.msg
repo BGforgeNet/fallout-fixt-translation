@@ -1,6 +1,6 @@
 {100}{}{Voici un Goule rayonnant.}
 {101}{}{Mm...}
 {102}{}{Ahhh...}
-{103}{}{Le Goule rayonnant marmonne quelque chose puis se tait. Il bave de manière incontrôlable.}
-{104}{}{[Aucune réaction]}
+{103}{}{Le Goule rayonnant marmonne quelque chose puis se tait. Il bave de maniÃ¨re incontrÃ´lable.}
+{104}{}{[Aucune rÃ©action]}
 {105}{}{Tu vois : Goule rayonnant.}

@@ -1,4 +1,4 @@
-{100}{}{Du sperrst die Tür auf.}
+{100}{}{Du sperrst die TÃ¼r auf.}
 {101}{}{You broke your lockpicks!}
 {102}{}{You cannot open this lock.}
 {103}{}{You were not able to pick the lock.}

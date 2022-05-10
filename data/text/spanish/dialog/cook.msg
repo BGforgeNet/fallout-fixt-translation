@@ -1,5 +1,5 @@
-{100}{}{Estás viendo a un cocinero ocupado preparando una comida.}
-{101}{}{Estoy demasiado ocupado para hablar ahora. ¡Tengo que terminar esta comida!}
-{102}{}{¡Mmm! Esto huele muy bien. ¡Apuesto a que sabe aún mejor!}
-{103}{}{Estoy demasiado ocupado para hablar ahora. ¡Tengo que terminar esta comida!}
-{104}{}{Sí, gracias. Seguro que la disfrutas. Gracias por el cumplido. Voy a hablarles a todos mis amigos de ti.}
+{100}{}{EstÃ¡s viendo a un cocinero ocupado preparando una comida.}
+{101}{}{Estoy demasiado ocupado para hablar ahora. Â¡Tengo que terminar esta comida!}
+{102}{}{Â¡Mmm! Esto huele muy bien. Â¡Apuesto a que sabe aÃºn mejor!}
+{103}{}{Estoy demasiado ocupado para hablar ahora. Â¡Tengo que terminar esta comida!}
+{104}{}{SÃ­, gracias. Seguro que la disfrutas. Gracias por el cumplido. Voy a hablarles a todos mis amigos de ti.}

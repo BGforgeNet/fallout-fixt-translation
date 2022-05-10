@@ -4,7 +4,7 @@
 {103}{}{How about 5 caps?}
 {104}{}{Sorry, don't have any money on me.}
 {105}{}{Keep away from me!}
-{106}{}{Hääh?}
+{106}{}{HÃ¤Ã¤h?}
 {107}{HROLD1}{Geez. You're worse off than I am, friend. Luck to you.}
 {108}{HROLD2}{Oh, kind of ya, friend. Very kind. You know, if I could clear the gunk out of there, you just might find a tear in Old Harold's eye.}
 {109}{}{Why is that?}
@@ -92,7 +92,7 @@
 {191}{}{Do you think it could have been radiation?}
 {192}{}{Sorry, tough break. Thanks for the story.}
 {193}{HROLD29}{How the hell should I know? Grey would've known if anybody could. *sigh* Anyway, that's how the deal went down.}
-{194}{}{Danke für die Geschichte.}
+{194}{}{Danke fÃ¼r die Geschichte.}
 {195}{HROLD30}{Yeah, about a century or two in dog years.}
 {196}{}{What?}
 {197}{HROLD31}{Never mind, that was from my time. I'm cranky, old and I've been that way ever since I changed.}
@@ -112,20 +112,20 @@
 {211}{}{Yeah, here's 25 caps.}
 {212}{}{Take 5 caps.}
 {213}{}{Don't bug me.}
-{214}{}{Hääh?}
+{214}{}{HÃ¤Ã¤h?}
 {215}{HROLD40}{Hey, 'preciate it! Gotta admit, when I first saw you, *cough* I figured you might hassle me.}
 {216}{}{Warum sagst du das?}
 {217}{}{Nah, not me! Have a good one.}
 {218}{HROLD41}{Oh, hey, it's you again.}
 {219}{}{Here's 20 caps, if you need it.}
 {220}{}{Hey.}
-{221}{}{Häh?}
+{221}{}{HÃ¤h?}
 {222}{hrold42}{Just putting me on, huh?}
 {223}{HROLD43}{Anything I can do for you?}
 {224}{}{Heard any good rumors recently?}
 {225}{}{I need info on the Deathclaw, and I hear you're the man.}
 {226}{}{What's your story?}
-{227}{}{Nö.}
+{227}{}{NÃ¶.}
 {228}{hrold43a}{The whole thing? Well...}
 {229}{HROLD44}{Oooh, well thanks. Hope it wasn't too much of a strain. *cough*}
 {230}{HROLD45}{Oooh, that thing. Friend, that is nightmare city. Why the hell you asking about that?}
@@ -145,7 +145,7 @@
 {244}{HROLD54}{I don't believe this one, but some say an army of mutants is on the way. *cough*}
 {245}{}{Danke.}
 {246}{HROLD55}{Leave me alone. *cough*}
-{247}{}{Ich möchte mit dir reden.}
+{247}{}{Ich mÃ¶chte mit dir reden.}
 {248}{}{Here's some cash.}
 {249}{HROLD56}{Well, I don't wanta talk to you. Go away!}
 {250}{HROLD57}{Don't want your money. Go away. *cough*}

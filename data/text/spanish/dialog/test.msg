@@ -1,13 +1,13 @@
 {100}{}{Ves: a Kyle.}
-{101}{}{¿Qué pasa tío, como te va? Todavía viajas a pie... ¿No te cansas? A lo mejor es hora de considerar en unas bonitas ruedas para tu viaje. ¿Tienes dinero?}
-{102}{}{¿Que cómo me va? ¡Como nunca! ¿De verdad tienes unas ruedas para mí? El dinero no es problema.}
-{103}{}{¿Si te rajo un poco, quizás me las darías gratis?}
-{104}{}{Esa es una buena pregunta. Creo que volveré.}
-{105}{}{Ummm... Bueno, no estoy seguro. Un comprador más adinerado vendría mejor. Escucha, ¿por qué no vuelves algo más tarde, cuando tengas más chapas?}
-{106}{}{Créeme, un amigo mío tiene un negocio DE VERDAD. Parece, que es el único tío de todo el yermo que podría venderte un coche. El lugar no está muy lejos de aquí. Está como a un día de aquí. El tipo este usa su propia casa como garaje... 400 chapas serían suficientes como para que te enseñe el camino.}
-{107}{}{Trato hecho. Solo llévame a tu amigo y yo me encargaré del resto.}
-{108}{}{Lo siento, Kyle. Tengo cosas más importantes que hacer.}
-{109}{}{Vale, te llevaré allí. Lo que sea por un cliente tan atractivo, ¡lo que sea! Sígueme. [acepta las 400 chapas]}
-{110}{}{Sabía que te echarías para atrás. Todo el mundo que tiene tanto dinero le asusta viajar. ¡Sea como sea, mis amigos los saqueadores te ayudarán con eso! [Te empiezas a dar cuenta de que algo va mal, pero de repente una fuerte patada en la cabeza te deja inconsciente. Lo último que sientes es como te arrastran a algún sitio...]}
-{111}{}{Escucha, escoria. Piérdete. Tú y tus amenazas vacías.}
-{112}{}{Debería buscar un cliente más conveniente.}
+{101}{}{Â¿QuÃ© pasa tÃ­o, como te va? TodavÃ­a viajas a pie... Â¿No te cansas? A lo mejor es hora de considerar en unas bonitas ruedas para tu viaje. Â¿Tienes dinero?}
+{102}{}{Â¿Que cÃ³mo me va? Â¡Como nunca! Â¿De verdad tienes unas ruedas para mÃ­? El dinero no es problema.}
+{103}{}{Â¿Si te rajo un poco, quizÃ¡s me las darÃ­as gratis?}
+{104}{}{Esa es una buena pregunta. Creo que volverÃ©.}
+{105}{}{Ummm... Bueno, no estoy seguro. Un comprador mÃ¡s adinerado vendrÃ­a mejor. Escucha, Â¿por quÃ© no vuelves algo mÃ¡s tarde, cuando tengas mÃ¡s chapas?}
+{106}{}{CrÃ©eme, un amigo mÃ­o tiene un negocio DE VERDAD. Parece, que es el Ãºnico tÃ­o de todo el yermo que podrÃ­a venderte un coche. El lugar no estÃ¡ muy lejos de aquÃ­. EstÃ¡ como a un dÃ­a de aquÃ­. El tipo este usa su propia casa como garaje... 400 chapas serÃ­an suficientes como para que te enseÃ±e el camino.}
+{107}{}{Trato hecho. Solo llÃ©vame a tu amigo y yo me encargarÃ© del resto.}
+{108}{}{Lo siento, Kyle. Tengo cosas mÃ¡s importantes que hacer.}
+{109}{}{Vale, te llevarÃ© allÃ­. Lo que sea por un cliente tan atractivo, Â¡lo que sea! SÃ­gueme. [acepta las 400 chapas]}
+{110}{}{SabÃ­a que te echarÃ­as para atrÃ¡s. Todo el mundo que tiene tanto dinero le asusta viajar. Â¡Sea como sea, mis amigos los saqueadores te ayudarÃ¡n con eso! [Te empiezas a dar cuenta de que algo va mal, pero de repente una fuerte patada en la cabeza te deja inconsciente. Lo Ãºltimo que sientes es como te arrastran a algÃºn sitio...]}
+{111}{}{Escucha, escoria. PiÃ©rdete. TÃº y tus amenazas vacÃ­as.}
+{112}{}{DeberÃ­a buscar un cliente mÃ¡s conveniente.}

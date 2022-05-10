@@ -17,14 +17,14 @@
 {116}{}{I've heard of you. You want to find the lost city of Necropolis. A grateful people could provide information on where to go.}
 {117}{}{I'll consider it.}
 {118}{}{We could ask for nothing more.}
-{119}{}{Tschüss.}
+{119}{}{TschÃ¼ss.}
 {120}{}{Ich habe ein paar Fragen.}
 {121}{}{Why should you not? I have the best interests of my people at heart, and I would like to see you come to no harm.}
 {122}{}{What do you mean?}
 {123}{}{There are forces at work here in Scrapheap that would like to use you, and if that is not possible, to see you dead and buried. Choose your friends wisely, and your enemies with even more care. Good day.}
 {124}{}{Yeah, good day.}
 {125}{}{We thank you for getting rid of the Crypts and the Fools. Without the power generator, my people will have a poor life. Do you think you could fix it?}
-{126}{}{Natürlich.}
+{126}{}{NatÃ¼rlich.}
 {127}{}{Fix it yourself. I want my reward.}
 {128}{}{Danke.}
 {129}{}{Very well, you shall have it. You have cast my people into a cold night and then abandoned us to the wolves - but I understand that your quest is more important.}

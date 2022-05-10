@@ -1,5 +1,5 @@
 {100}{}{Des cadavres...}
-{101}{}{Ils ont récemment été tués par une sorte d'animal.}
-{102}{}{Ils ont été tués il y a peu de temps.}
-{103}{}{Peut-être qu'ils dorment.}
+{101}{}{Ils ont rÃ©cemment Ã©tÃ© tuÃ©s par une sorte d'animal.}
+{102}{}{Ils ont Ã©tÃ© tuÃ©s il y a peu de temps.}
+{103}{}{Peut-Ãªtre qu'ils dorment.}
 {104}{}{Ils sont morts.}

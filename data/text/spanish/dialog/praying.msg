@@ -1,9 +1,9 @@
-{100}{}{Estás viendo a varios mutantes y niños arrodillados delante de una pantalla de vídeo.}
-{101}{}{Reza con nosotros por la paz, niño.}
-{102}{}{La Unidad vencerá si somos fuertes. Meditad sobre la virtud de la fuerza.}
-{103}{}{Para nuestra misión de salvar la humanidad nos hace falta fe. Reza con nosotros.}
-{104}{}{¡Herejía! ¡Blasfemia! ¡Serás castigado!}
-{105}{}{Debemos rezar para ser fuertes. El cambio está muy próximo.}
+{100}{}{EstÃ¡s viendo a varios mutantes y niÃ±os arrodillados delante de una pantalla de vÃ­deo.}
+{101}{}{Reza con nosotros por la paz, niÃ±o.}
+{102}{}{La Unidad vencerÃ¡ si somos fuertes. Meditad sobre la virtud de la fuerza.}
+{103}{}{Para nuestra misiÃ³n de salvar la humanidad nos hace falta fe. Reza con nosotros.}
+{104}{}{Â¡HerejÃ­a! Â¡Blasfemia! Â¡SerÃ¡s castigado!}
+{105}{}{Debemos rezar para ser fuertes. El cambio estÃ¡ muy prÃ³ximo.}
 {106}{}{La Unidad es nuestro futuro, hermano.}
 {107}{}{La Unidad es nuestro futuro, hermana.}
-{108}{}{Creo en el Maestro. Su voluntad es nuestra salvación.}
+{108}{}{Creo en el Maestro. Su voluntad es nuestra salvaciÃ³n.}

@@ -1,13 +1,13 @@
-{100}{}{Estás viendo una mesa de dados. Jugar cuesta 40 chapas.}
-{101}{}{Obtienes un 7. ¡Ganas!}
+{100}{}{EstÃ¡s viendo una mesa de dados. Jugar cuesta 40 chapas.}
+{101}{}{Obtienes un 7. Â¡Ganas!}
 {102}{}{Obtienes dos unos. Pierdes.}
 {103}{}{Sacas }
-{104}{}{. ¡Ganas!}
+{104}{}{. Â¡Ganas!}
 {105}{}{Sacas }
 {106}{}{. Pierdes.}
 {107}{}{Sacas }
-{108}{}{ antes de conseguir la puntuación. Pierdes.}
-{109}{}{Consigues la puntuación. Ganas.}
+{108}{}{ antes de conseguir la puntuaciÃ³n. Pierdes.}
+{109}{}{Consigues la puntuaciÃ³n. Ganas.}
 {110}{}{Sacas }
-{111}{}{. Es tu puntuación. Tiras de nuevo.}
+{111}{}{. Es tu puntuaciÃ³n. Tiras de nuevo.}
 {112}{}{Ganas 70 puntos de experiencia por asesinar al crupier.}

@@ -7,7 +7,7 @@
 {106}{}{Welcome to the Skum Pitt. What can I do ya for?}
 {107}{}{Uh, I'll have a drink.}
 {108}{}{I'm looking for information.}
-{109}{}{Ich heiﬂe }
+{109}{}{Ich hei√üe }
 {110}{}{. What is this place?}
 {111}{}{Gaa hnnngh!}
 {112}{}{Great. Whaddya want?}

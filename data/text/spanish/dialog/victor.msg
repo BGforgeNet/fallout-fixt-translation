@@ -1,19 +1,19 @@
-{100}{}{Ves: a Víctor.}
-{101}{}{Estás viendo al miembro de una banda.}
+{100}{}{Ves: a VÃ­ctor.}
+{101}{}{EstÃ¡s viendo al miembro de una banda.}
 {102}{}{Aaaaggghhh...}
 {103}{}{Sangre nueva. Je, je, je...}
-{104}{}{Um, sí. Uh, creo que me voy.}
-{105}{}{No eres una persona feliz, ¿verdad?}
-{106}{}{¡Huh huh!}
-{107}{}{En realidad no. Creo que te mantendré por aquí un rato.}
-{108}{}{¿Por qué dices eso? Estoy bastante feliz. Estoy muy feliz por la cantidad de sangre que veo.}
-{109}{}{Eres un psicópata, ¿lo sabías?}
-{110}{}{Um, sí. Adiós.}
-{111}{}{Ah, sí, buena apreciación. Eh, puedo entenderlo. Bueno, por lo menos lo creo.}
-{112}{}{¡No digas eso! ¡Me lo decía mi madre! ¡Lo pagarás! Soy un chico bueno, ¿verdad, mami?}
-{113}{}{¡Alguien que me comprende! ¡Por fin!}
+{104}{}{Um, sÃ­. Uh, creo que me voy.}
+{105}{}{No eres una persona feliz, Â¿verdad?}
+{106}{}{Â¡Huh huh!}
+{107}{}{En realidad no. Creo que te mantendrÃ© por aquÃ­ un rato.}
+{108}{}{Â¿Por quÃ© dices eso? Estoy bastante feliz. Estoy muy feliz por la cantidad de sangre que veo.}
+{109}{}{Eres un psicÃ³pata, Â¿lo sabÃ­as?}
+{110}{}{Um, sÃ­. AdiÃ³s.}
+{111}{}{Ah, sÃ­, buena apreciaciÃ³n. Eh, puedo entenderlo. Bueno, por lo menos lo creo.}
+{112}{}{Â¡No digas eso! Â¡Me lo decÃ­a mi madre! Â¡Lo pagarÃ¡s! Soy un chico bueno, Â¿verdad, mami?}
+{113}{}{Â¡Alguien que me comprende! Â¡Por fin!}
 {114}{}{Hola otra vez, amigo artista.}
-{115}{}{¡Ja, ja! ¡Je, je, je! ¡Oh, oh, oh!}
+{115}{}{Â¡Ja, ja! Â¡Je, je, je! Â¡Oh, oh, oh!}
 {116}{}{Zzzzz...}
-{117}{}{Víctor, ¿te he dicho alguna vez que eres un verdadero psicópata?}
+{117}{}{VÃ­ctor, Â¿te he dicho alguna vez que eres un verdadero psicÃ³pata?}
 {118}{}{Oh, hola.}

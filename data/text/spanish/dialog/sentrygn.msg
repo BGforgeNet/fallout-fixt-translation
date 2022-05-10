@@ -1,12 +1,12 @@
-{100}{}{Ves una cámara de seguridad que parece activa.}
+{100}{}{Ves una cÃ¡mara de seguridad que parece activa.}
 {101}{}{Te das cuenta de que hay armas ocultas siguiendo tus movimientos.}
-{102}{}{¡Abren fuego desde una tronera oculta! ¡Consigues evitar los impactos retorciéndote y esquivando!}
-{103}{}{¡Abren fuego desde una tronera oculta! Intentas evadir los disparos mientras te retuerces, pero las balas te rozan.}
+{102}{}{Â¡Abren fuego desde una tronera oculta! Â¡Consigues evitar los impactos retorciÃ©ndote y esquivando!}
+{103}{}{Â¡Abren fuego desde una tronera oculta! Intentas evadir los disparos mientras te retuerces, pero las balas te rozan.}
 {104}{}{Sufres }
-{105}{}{ de daño.}
-{106}{}{¡Abren fuego desde una tronera oculta! Te sorprende, tropiezas y caes. Solo sufres daños leves.}
+{105}{}{ de daÃ±o.}
+{106}{}{Â¡Abren fuego desde una tronera oculta! Te sorprende, tropiezas y caes. Solo sufres daÃ±os leves.}
 {107}{}{Sufres }
-{108}{}{ de daño.}
-{109}{}{¡Abren fuego desde una tronera oculta! ¡Te han dado!}
+{108}{}{ de daÃ±o.}
+{109}{}{Â¡Abren fuego desde una tronera oculta! Â¡Te han dado!}
 {110}{}{Sufres }
-{111}{}{ de daño.}
+{111}{}{ de daÃ±o.}

@@ -1,12 +1,12 @@
-{100}{}{Tu vois Zack Barstow, un initié des Enfants de la cathédrale.}
-{101}{}{Bienvenue chez les Enfants de la Cathédrale. Comment puis-je faire pour t'aider ?}
+{100}{}{Tu vois Zack Barstow, un initiÃ© des Enfants de la cathÃ©drale.}
+{101}{}{Bienvenue chez les Enfants de la CathÃ©drale. Comment puis-je faire pour t'aider ?}
 {102}{}{Urrrooo ?}
 {103}{}{Quel est le sens de l'univers ?}
-{104}{}{Je suis gravement blessé. Tu penses pouvoir m'aider ?}
-{105}{}{Comment réparer une pompe à eau ?}
+{104}{}{Je suis gravement blessÃ©. Tu penses pouvoir m'aider ?}
+{105}{}{Comment rÃ©parer une pompe Ã  eau ?}
 {106}{}{Peux-tu me dire quelque chose sur cet endroit ?}
-{107}{}{Je ne suis pas fait pour ça. Peut-être que si tu parles à Laura, elle sera prête à te donner les informations dont tu as besoin.}
-{108}{}{Oh, réparer des pompes à eau, c'est facile. C'est une formalité.}
-{109}{}{Je n'ai pas les outils pour t'aider avec ce problème. Va t'adresser à l'un de mes supérieurs.}
-{110}{}{Oh, ça. C'est une formalité.}
+{107}{}{Je ne suis pas fait pour Ã§a. Peut-Ãªtre que si tu parles Ã  Laura, elle sera prÃªte Ã  te donner les informations dont tu as besoin.}
+{108}{}{Oh, rÃ©parer des pompes Ã  eau, c'est facile. C'est une formalitÃ©.}
+{109}{}{Je n'ai pas les outils pour t'aider avec ce problÃ¨me. Va t'adresser Ã  l'un de mes supÃ©rieurs.}
+{110}{}{Oh, Ã§a. C'est une formalitÃ©.}
 {111}{}{Va consulter Laura. Je t'ai dit tout ce que je savais.}

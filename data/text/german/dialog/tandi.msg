@@ -5,11 +5,11 @@
 {104}{}{How do you like it here?}
 {105}{}{Well, that's about it. Thanks for your time.}
 {106}{TAND_1}{Hi! I heard there was a traveler in town, but I was kinda skeptical until I saw you. My name's Tandi, what's yours?}
-{107}{}{Ich heiﬂe }
+{107}{}{Ich hei√üe }
 {108}{}{.}
 {109}{}{The name is }
 {110}{}{. Remember it.}
-{111}{}{H‰‰h?}
+{111}{}{H√§√§h?}
 {112}{TAND_2}{Well... how do you like our little town? Bored yet?}
 {113}{}{It's okay. Can I ask you a few questions, though?}
 {114}{}{Hell, yes. There's nothing to do here but watch the brahmin mate.}
@@ -50,7 +50,7 @@
 {149}{TAND_27m}{I'm not that kind of girl, mister. Go find a brahma or something.}
 {150}{TAND_27f}{Listen... uh... but I... uh... I-I like guys, okay? Whew! Uh, excuse me, I got stuff to do.}
 {151}{TAND_28}{Well, thanks for talking. We don't get many strangers here, so it's always good to talk to new people. Well, see ya!}
-{152}{}{Tsch¸ss.}
+{152}{}{Tsch√ºss.}
 {153}{TAND_29}{Uh, listen. I have to go take care of the brahmin. It was, uh, nice talking to ya.}
 {154}{TAND_30a}{Hello again! What can I help you with now?}
 {155}{}{Can I ask you a few more questions?}
@@ -62,7 +62,7 @@
 {161}{}{Nope, that's it, thanks.}
 {162}{}{Dungh!!}
 {163}{TAND_37}{Who're you? What do you want?}
-{164}{}{Ich heiﬂe }
+{164}{}{Ich hei√üe }
 {165}{}{, and your father sent me.}
 {166}{}{I'm your fairy godmother. What's it look like?}
 {167}{}{Buhh...}

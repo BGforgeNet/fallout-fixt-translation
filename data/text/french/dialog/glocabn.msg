@@ -1,7 +1,7 @@
 {100}{}{Tu vois un coffre.}
-{101}{}{Ce coffre semble équipé d'une fermeture électronique.}
-{102}{}{Tu déverrouilles le coffre sans problème.}
-{103}{}{Ce verrou a l'air plus compliqué que tu ne le pensais.}
-{104}{}{Tu viens facilement à bout du verrou du coffre.}
-{105}{}{Ce verrou a l'air plus compliqué que tu ne le pensais.}
-{106}{}{Cette compétence ne te permet pas d'ouvrir le coffre.}
+{101}{}{Ce coffre semble Ã©quipÃ© d'une fermeture Ã©lectronique.}
+{102}{}{Tu dÃ©verrouilles le coffre sans problÃ¨me.}
+{103}{}{Ce verrou a l'air plus compliquÃ© que tu ne le pensais.}
+{104}{}{Tu viens facilement Ã  bout du verrou du coffre.}
+{105}{}{Ce verrou a l'air plus compliquÃ© que tu ne le pensais.}
+{106}{}{Cette compÃ©tence ne te permet pas d'ouvrir le coffre.}

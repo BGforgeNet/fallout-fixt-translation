@@ -1,46 +1,46 @@
-{100}{}{Estás viendo a un Supermutante. Está vigilando la cámara.}
-{101}{}{Estás viendo a un guardia Supermutante.}
-{102}{}{Jeremiah, deberías pasar.}
+{100}{}{EstÃ¡s viendo a un Supermutante. EstÃ¡ vigilando la cÃ¡mara.}
+{101}{}{EstÃ¡s viendo a un guardia Supermutante.}
+{102}{}{Jeremiah, deberÃ­as pasar.}
 {103}{}{Sigue avanzando.}
-{104}{}{Muévete más rápido, mensajera.}
-{105}{}{¡Los Normales no pueden llevar armas aquí! ¡Detente e identifícate!}
-{106}{}{¡Grrr!}
+{104}{}{MuÃ©vete mÃ¡s rÃ¡pido, mensajera.}
+{105}{}{Â¡Los Normales no pueden llevar armas aquÃ­! Â¡Detente e identifÃ­cate!}
+{106}{}{Â¡Grrr!}
 {107}{}{Uh, lo siento. Ahora me la quito.}
-{108}{}{Solo pasaba por aquí. Aquí no se necesitan identificaciones.}
-{109}{}{¡Muere! ¡Muere! ¡Muere! Siempre he querido decir eso.}
-{110}{}{No te dirigirás a mí de ese modo. Te castigaré.}
-{111}{}{¡Para! ¿Qué haces aquí, "niña"?}
-{112}{}{¡Unm!}
+{108}{}{Solo pasaba por aquÃ­. AquÃ­ no se necesitan identificaciones.}
+{109}{}{Â¡Muere! Â¡Muere! Â¡Muere! Siempre he querido decir eso.}
+{110}{}{No te dirigirÃ¡s a mÃ­ de ese modo. Te castigarÃ©.}
+{111}{}{Â¡Para! Â¿QuÃ© haces aquÃ­, "niÃ±a"?}
+{112}{}{Â¡Unm!}
 {113}{}{Estoy, uh, arreglando algunas cosillas.}
-{114}{}{Tengo un asunto importante entre manos. Y tú no tienes derecho a pararme e interrogarme.}
-{115}{}{No me hables, grandullón.}
-{116}{}{Tu respuesta no me tranquiliza. Habla rápido y claro o asumiré que tus propósitos aquí son siniestros. Te garantizo que no te gustará que...}
-{117}{}{Uh, no, de verdad que sí. Estoy arreglando algunas cosillas.}
+{114}{}{Tengo un asunto importante entre manos. Y tÃº no tienes derecho a pararme e interrogarme.}
+{115}{}{No me hables, grandullÃ³n.}
+{116}{}{Tu respuesta no me tranquiliza. Habla rÃ¡pido y claro o asumirÃ© que tus propÃ³sitos aquÃ­ son siniestros. Te garantizo que no te gustarÃ¡ que...}
+{117}{}{Uh, no, de verdad que sÃ­. Estoy arreglando algunas cosillas.}
 {118}{}{Traigo un mensaje para nuestro jefe.}
-{119}{}{Noto la mentira oculta en tus palabras. No te permitirán entrar. Y ahora lo que te prometí...}
-{120}{}{Puedes pasar, pero la próxima vez, sigue el procedimiento adecuado...}
-{121}{}{Vale, gracias. Nos vemos por ahí.}
-{122}{}{¿El qué?}
+{119}{}{Noto la mentira oculta en tus palabras. No te permitirÃ¡n entrar. Y ahora lo que te prometÃ­...}
+{120}{}{Puedes pasar, pero la prÃ³xima vez, sigue el procedimiento adecuado...}
+{121}{}{Vale, gracias. Nos vemos por ahÃ­.}
+{122}{}{Â¿El quÃ©?}
 {123}{}{Te bendigo, hermano.}
-{124}{}{Un verdadero seguidor del Maestro habría tenido esos conocimientos. ¡Eres una intrusa!}
+{124}{}{Un verdadero seguidor del Maestro habrÃ­a tenido esos conocimientos. Â¡Eres una intrusa!}
 {125}{}{Circula. No tengo tiempo para preguntas.}
-{126}{}{Estás empezando a enfadarme.}
-{127}{}{Tengo trabajo que hacer. ¿Y tú?}
-{128}{}{Cometes un error viviendo aquí. Explícate o muere...}
-{129}{}{¡Hostión!}
+{126}{}{EstÃ¡s empezando a enfadarme.}
+{127}{}{Tengo trabajo que hacer. Â¿Y tÃº?}
+{128}{}{Cometes un error viviendo aquÃ­. ExplÃ­cate o muere...}
+{129}{}{Â¡HostiÃ³n!}
 {130}{}{No tengo nada que decir.}
-{131}{}{Estoy aquí para proteger a la humanidad de tus semejantes.}
-{132}{}{Oh, ¡cállate!}
-{133}{}{No intentes volverme loco haciéndote la tonta. Estoy cansado de esto...}
-{134}{}{¿Qué clase de fanatismo estúpido es ése? Nosotros somos la "humanidad". Somos tan humanos como tú.}
-{135}{}{¿Qué clase de mierda es ésa?}
+{131}{}{Estoy aquÃ­ para proteger a la humanidad de tus semejantes.}
+{132}{}{Oh, Â¡cÃ¡llate!}
+{133}{}{No intentes volverme loco haciÃ©ndote la tonta. Estoy cansado de esto...}
+{134}{}{Â¿QuÃ© clase de fanatismo estÃºpido es Ã©se? Nosotros somos la "humanidad". Somos tan humanos como tÃº.}
+{135}{}{Â¿QuÃ© clase de mierda es Ã©sa?}
 {136}{}{No puedes ser humano, de ninguna manera.}
-{137}{}{Me llamo Kyle. Nací de una madre y de un padre como tú. El Maestro simplemente supervisó mi renacimiento. Estos músculos, esta piel, esta fuerza, no me hacen menos humano que tú. No me gusta lo que la Unidad significa pero es la única oportunidad que tenemos para conseguir la paz.}
-{138}{}{Creo que no es nada de eso. Estoy aquí para acabar contigo y con tus semejantes.}
+{137}{}{Me llamo Kyle. NacÃ­ de una madre y de un padre como tÃº. El Maestro simplemente supervisÃ³ mi renacimiento. Estos mÃºsculos, esta piel, esta fuerza, no me hacen menos humano que tÃº. No me gusta lo que la Unidad significa pero es la Ãºnica oportunidad que tenemos para conseguir la paz.}
+{138}{}{Creo que no es nada de eso. Estoy aquÃ­ para acabar contigo y con tus semejantes.}
 {139}{}{Puede que seas humana, pero eso no hace de tu Unidad algo bueno. Creo que seremos enemigos.}
-{140}{}{Es una pena que te comportes de esa manera pero ya no tendrás más oportunidades...}
-{141}{}{Será una verdadera pena ver tu cabeza colgando de una lanza.}
-{142}{}{¡Intrusos!}
+{140}{}{Es una pena que te comportes de esa manera pero ya no tendrÃ¡s mÃ¡s oportunidades...}
+{141}{}{SerÃ¡ una verdadera pena ver tu cabeza colgando de una lanza.}
+{142}{}{Â¡Intrusos!}
 {143}{}{No hablo contigo.}
 {200}{}{Ganas }
 {201}{}{ puntos de experiencia por colarte sin que te pillen los guardias.}

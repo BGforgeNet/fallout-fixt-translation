@@ -1,9 +1,9 @@
 {100}{}{Caballero}
 {101}{}{Me encanta trabajar en prototipos nuevos.}
-{102}{}{Cuando se agotan nuestros suministros resulta difícil encontrar un modo de utilizar lo que tenemos.}
-{103}{}{No logro averiguar por qué no funcionó mi último prototipo.}
+{102}{}{Cuando se agotan nuestros suministros resulta difÃ­cil encontrar un modo de utilizar lo que tenemos.}
+{103}{}{No logro averiguar por quÃ© no funcionÃ³ mi Ãºltimo prototipo.}
 {104}{}{Lo siento, no puedo hablar ahora.}
-{105}{}{Vree está allí.}
-{106}{}{¿Dónde he puesto ese archivo?}
-{107}{}{¿Dónde está ese esquema?}
-{108}{}{Bien, el ordenador dice que debería funcionar. ¿Qué he hecho mal?}
+{105}{}{Vree estÃ¡ allÃ­.}
+{106}{}{Â¿DÃ³nde he puesto ese archivo?}
+{107}{}{Â¿DÃ³nde estÃ¡ ese esquema?}
+{108}{}{Bien, el ordenador dice que deberÃ­a funcionar. Â¿QuÃ© he hecho mal?}

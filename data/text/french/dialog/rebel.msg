@@ -1,43 +1,43 @@
 {100}{}{Voici un habitant de l'Abri.}
-{101}{}{Voici un habitant de l'Abri bouleversé.}
+{101}{}{Voici un habitant de l'Abri bouleversÃ©.}
 {102}{}{}
 {103}{}{}
 {104}{}{}
-{105}{}{Merci de nous avoir sauvés.}
-{106}{}{Je ne pensais pas que tu réussirais mais maintenant je te fais confiance.}
+{105}{}{Merci de nous avoir sauvÃ©s.}
+{106}{}{Je ne pensais pas que tu rÃ©ussirais mais maintenant je te fais confiance.}
 {107}{}{Merci ! Merci !}
-{108}{}{Tu es notre héros ! Mon petit Paul voudrait te ressembler quand il sera plus grand. Mais ça ne me plaît pas beaucoup.}
-{109}{}{Tu es notre héroïne ! Mon petit Paul voudrait te ressembler quand il sera plus grand. Mais ça ne me plaît pas beaucoup.}
+{108}{}{Tu es notre hÃ©ros ! Mon petit Paul voudrait te ressembler quand il sera plus grand. Mais Ã§a ne me plaÃ®t pas beaucoup.}
+{109}{}{Tu es notre hÃ©roÃ¯ne ! Mon petit Paul voudrait te ressembler quand il sera plus grand. Mais Ã§a ne me plaÃ®t pas beaucoup.}
 {110}{}{Tu es un chic type !}
 {111}{}{Tu es une chic fille !}
-{112}{}{Tu crois vraiment que tu auras besoin de ça ici ?}
+{112}{}{Tu crois vraiment que tu auras besoin de Ã§a ici ?}
 {113}{}{C'est une arme !}
-{114}{}{L'as-tu déjà utilisée contre quelqu'un ?}
+{114}{}{L'as-tu dÃ©jÃ  utilisÃ©e contre quelqu'un ?}
 {115}{}{Pourquoi veux-tu porter une arme ici ?}
 {116}{}{Bonjour ! Comment se passent les recherches ?}
 {117}{}{Assez bien.}
-{118}{}{Pas très bien.}
+{118}{}{Pas trÃ¨s bien.}
 {119}{}{Ugh.}
-{120}{}{Eh bien, ça fait plaisir à entendre. Continue comme ça.}
-{121}{}{Aucun problème.}
-{122}{}{Nous savions qu'il n'y avait pas d'espoir. Je crois que nous ne trouverons jamais cette nouvelle puce à temps. Certains d'entre nous devraient partir avant qu'il ne soit trop tard.}
-{123}{}{Je ne pense pas que ce soit une bonne idée.}
-{124}{}{Hmm. Ca vaudrait peut-être mieux.}
-{125}{}{Dépêche-toi, s'il te plaît.}
+{120}{}{Eh bien, Ã§a fait plaisir Ã  entendre. Continue comme Ã§a.}
+{121}{}{Aucun problÃ¨me.}
+{122}{}{Nous savions qu'il n'y avait pas d'espoir. Je crois que nous ne trouverons jamais cette nouvelle puce Ã  temps. Certains d'entre nous devraient partir avant qu'il ne soit trop tard.}
+{123}{}{Je ne pense pas que ce soit une bonne idÃ©e.}
+{124}{}{Hmm. Ca vaudrait peut-Ãªtre mieux.}
+{125}{}{DÃ©pÃªche-toi, s'il te plaÃ®t.}
 {126}{}{Ne t'en fais pas, je trouverai la puce.}
-{127}{}{Tu devrais peut-être venir à une des nos réunions. Thérèse a de bonnes idées. On se retrouve tous les soirs à cinq heures dans sa chambre, au deuxième étage.}
-{128}{}{Je vais y réfléchir.}
+{127}{}{Tu devrais peut-Ãªtre venir Ã  une des nos rÃ©unions. ThÃ©rÃ¨se a de bonnes idÃ©es. On se retrouve tous les soirs Ã  cinq heures dans sa chambre, au deuxiÃ¨me Ã©tage.}
+{128}{}{Je vais y rÃ©flÃ©chir.}
 {129}{}{Non, merci. J'ai du travail.}
-{130}{}{C'est ce que pense Thérèse. Elle a tout calculé. Elle envisage de quitter l'Abri sans tarder.}
+{130}{}{C'est ce que pense ThÃ©rÃ¨se. Elle a tout calculÃ©. Elle envisage de quitter l'Abri sans tarder.}
 {131}{}{Bonne chance.}
 {132}{}{Je crois que tu ne devrais pas partir tout de suite.}
-{133}{}{Pourquoi le Dirigeant a-t-il porté son choix sur toi ? Tu ne serais même pas capable de retrouver tes lacets, alors une nouvelle puce d'eau... Oh, très bien.}
+{133}{}{Pourquoi le Dirigeant a-t-il portÃ© son choix sur toi ? Tu ne serais mÃªme pas capable de retrouver tes lacets, alors une nouvelle puce d'eau... Oh, trÃ¨s bien.}
 {134}{}{Arr...}
-{135}{}{N'as-tu pas un travail à faire ? Dépêche-toi et trouve la puce !}
+{135}{}{N'as-tu pas un travail Ã  faire ? DÃ©pÃªche-toi et trouve la puce !}
 {136}{}{Ne me dis pas ce que je dois faire, incapable !}
 {137}{}{Bien ! Quelques personnes.}
 {138}{}{Bof !}
-{139}{}{Tu as trahi tous les habitants de cet Abri. J'espère que tu t'en mordras les doigts.}
+{139}{}{Tu as trahi tous les habitants de cet Abri. J'espÃ¨re que tu t'en mordras les doigts.}
 {1000}{}{Dirigeant}
 {1001}{}{Abris}
 {1002}{}{Vault 13}

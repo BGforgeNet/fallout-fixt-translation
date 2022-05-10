@@ -4,15 +4,15 @@
 {103}{}{Ouais, file-moi tout ce que t'as.}
 {104}{}{Beu !}
 {105}{}{Je m'appelle Lox. Je suis marchand.}
-{106}{}{Je m'appelle Terrance. Je suis commerÁant.}
+{106}{}{Je m'appelle Terrance. Je suis commer√ßant.}
 {107}{}{Je m'appelle Julian. Je suis ferrailleur.}
-{108}{}{Je m'appelle Dale. Je vends et j'achËte des marchandises.}
+{108}{}{Je m'appelle Dale. Je vends et j'ach√®te des marchandises.}
 {109}{}{Je vais au Sanctuaire pour vendre des marchandises.}
-{110}{}{Je vais ‡ DÈpÙtville pour faire du commerce.}
+{110}{}{Je vais √† D√©p√¥tville pour faire du commerce.}
 {111}{}{Je vais au Centre pour faire du troc.}
-{112}{}{Je vais ‡ NÈcropolis pour prospecter.}
+{112}{}{Je vais √† N√©cropolis pour prospecter.}
 {113}{}{Euhh !}
-{114}{}{Je peux me joindre ‡ vous ?}
-{115}{}{Pas de problËme. Plus on est de fous, plus on rit.}
-{116}{}{Impossible, on est dÈj‡ complet.}
-{117}{}{DÈsolÈ, mais tu m'inspires pas confiance.}
+{114}{}{Je peux me joindre √† vous ?}
+{115}{}{Pas de probl√®me. Plus on est de fous, plus on rit.}
+{116}{}{Impossible, on est d√©j√† complet.}
+{117}{}{D√©sol√©, mais tu m'inspires pas confiance.}

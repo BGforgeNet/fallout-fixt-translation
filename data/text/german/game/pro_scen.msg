@@ -97,7 +97,7 @@
 {4900}{}{Exit Grid Map Marker}
 {4901}{}{Exit Grid Map Marker}
 {5000}{}{Air Processing Unit}
-{5001}{}{Eine LAA reinigt die verbrauchte Luft, um dem Komplex frische Luft zuzuf¸hren. Diese ist kaputt.}
+{5001}{}{Eine LAA reinigt die verbrauchte Luft, um dem Komplex frische Luft zuzuf√ºhren. Diese ist kaputt.}
 {5100}{}{Chair}
 {5101}{}{Ein Stuhl. Nur schade, dass du keine Zeit zum Hinsetzen und Entspannen hast.}
 {5200}{}{Chair}
@@ -139,7 +139,7 @@
 {7000}{}{Stalagmite}
 {7001}{}{A natural extension of the rock floor.}
 {7100}{}{Blood Stain}
-{7101}{}{An diesem Blutfleck ist nichts ungewˆhnliches. Auﬂer, dass hier jemand oder etwas gestorben ist, nat¸rlich.}
+{7101}{}{An diesem Blutfleck ist nichts ungew√∂hnliches. Au√üer, dass hier jemand oder etwas gestorben ist, nat√ºrlich.}
 {7200}{}{Rock Column}
 {7201}{}{This thick column of rock extends from floor to ceiling.}
 {7300}{}{Rock Column}
@@ -147,7 +147,7 @@
 {7400}{}{Rocks}
 {7401}{}{You study the rocks for a while, but they never move.}
 {7500}{}{Rocks}
-{7501}{}{Du l‰sst die Felsen nicht aus dem Auge, damit sie dich nicht angreifen.}
+{7501}{}{Du l√§sst die Felsen nicht aus dem Auge, damit sie dich nicht angreifen.}
 {7600}{}{Auto Wand Boden}
 {7601}{}{REMOVED}
 {7700}{}{Car Wall Roof}
@@ -161,9 +161,9 @@
 {8100}{}{Rocks}
 {8101}{}{A large pile of rocks.}
 {8200}{}{Bones}
-{8201}{}{Ein groﬂer Haufen ausgebleichter Tierknochen. Zumindest glaubst, dass sie von Tieren stammen...}
+{8201}{}{Ein gro√üer Haufen ausgebleichter Tierknochen. Zumindest glaubst, dass sie von Tieren stammen...}
 {8300}{}{Bones}
-{8301}{}{Ein groﬂer Haufen ausgebleichter Tierknochen. Zumindest glaubst, dass sie von Tieren stammen...}
+{8301}{}{Ein gro√üer Haufen ausgebleichter Tierknochen. Zumindest glaubst, dass sie von Tieren stammen...}
 {8400}{}{Bones}
 {8401}{}{A very large pile of bleached bones. You cannot determine the species of the dead critters.}
 {8500}{}{Bones}
@@ -209,7 +209,7 @@
 {10500}{}{Scrub}
 {10501}{}{Some sort of desert weed.}
 {10600}{}{Junk}
-{10601}{}{Eine verrostete alte Autot¸r lehnt an einem verrosteten Metallfass. Ganz schˆn viel Rost.}
+{10601}{}{Eine verrostete alte Autot√ºr lehnt an einem verrosteten Metallfass. Ganz sch√∂n viel Rost.}
 {10700}{}{Junk}
 {10701}{}{A broken toilet, half-buried in the sand. Life's a pisser, then you die.}
 {10800}{}{Weeds}
@@ -266,11 +266,11 @@
 {13400}{}{Wall}
 {13401}{}{The stench of mildew emanates from these wet sewer walls.}
 {13500}{}{Abfluss}
-{13501}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluss empor. Nach einigen Augenblicken riecht es nicht mehr so ¸bel.}
+{13501}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluss empor. Nach einigen Augenblicken riecht es nicht mehr so √ºbel.}
 {13600}{}{Abfluss}
 {13601}{}{Du kannst gerade so Bewegung hinter dem Abflussgitter erkennen. Du siehst rote Augen, die dich anstarren. Rattenaugen.}
 {13700}{}{Abfluss}
-{13701}{}{Gurgelnde Wasserger‰usche kommen aus dem Abfluss. Und ein abscheulicher Geruch.}
+{13701}{}{Gurgelnde Wasserger√§usche kommen aus dem Abfluss. Und ein abscheulicher Geruch.}
 {13800}{}{Abfluss}
 {13801}{}{Gurgling water sounds come from beyond this drain. So does a really vile smell.}
 {13900}{}{Ladder}
@@ -309,7 +309,7 @@
 {15600}{}{Elevator}
 {15601}{}{This is the interior of a Brotherhood elevator. It is squeaky clean!}
 {15700}{}{Marker}
-{15701}{}{Dies ist das Symbol der Brotherhood of Steel. Die Markierung zeigt dem ÷dland, dass dies ihr Gebiet ist, das sofort zu verlassen ist.}
+{15701}{}{Dies ist das Symbol der Brotherhood of Steel. Die Markierung zeigt dem √ñdland, dass dies ihr Gebiet ist, das sofort zu verlassen ist.}
 {15800}{}{Monitor}
 {15801}{}{You see a computer monitor. It is made from Brotherhood technology.}
 {15900}{}{Monitor}
@@ -367,11 +367,11 @@
 {18500}{}{Emblem}
 {18501}{}{The symbol of the Brotherhood. The gears represent their engineering knowledge, the sword is their will to defend themselves and the wings are the uplifting hope.}
 {18600}{}{Level 'One' Sign}
-{18601}{}{Das kˆnnte wohl bedeuten, dass du dich auf Ebene Eins der Brotherhood befindest.}
+{18601}{}{Das k√∂nnte wohl bedeuten, dass du dich auf Ebene Eins der Brotherhood befindest.}
 {18700}{}{Level 'Two' Sign}
 {18701}{}{You are on level two of the Brotherhood.}
 {18800}{}{Level 'Three' Sign}
-{18801}{}{Das heiﬂt wohl, dass du auf Ebene Drei der Brotherhood bist.}
+{18801}{}{Das hei√üt wohl, dass du auf Ebene Drei der Brotherhood bist.}
 {18900}{}{Level 'Four' Sign}
 {18901}{}{Du musst auf Ebene Vier der Brotherhood sein.}
 {19000}{}{Bunk Bed}
@@ -416,7 +416,7 @@
 {21000}{}{Bed}
 {21001}{}{This bed has seen better days (and probably nights, too.)}
 {21100}{}{Bed}
-{21101}{}{Nach n‰herer Betrachtung stellst du fest, dass die Laken schon seit sehr, sehr langer Zeit nicht mehr gewechselt wurden.}
+{21101}{}{Nach n√§herer Betrachtung stellst du fest, dass die Laken schon seit sehr, sehr langer Zeit nicht mehr gewechselt wurden.}
 {21200}{}{Bed}
 {21201}{}{There are a couple stains of dubious origin on this well-worn sleeping device.}
 {21300}{}{Bed}
@@ -432,7 +432,7 @@
 {22100}{}{Boxes}
 {22101}{}{You find no details worth mentioning about these wooden boxes.}
 {22200}{}{Boxes}
-{22201}{}{Du musst viel Zeit haben, dass du dir diesen verrotteten M¸ll so genau ansehen kannst.}
+{22201}{}{Du musst viel Zeit haben, dass du dir diesen verrotteten M√ºll so genau ansehen kannst.}
 {22300}{}{Boxes}
 {22301}{}{Diese Holzkisten sind so verwittert, dass sie auseinanderfallen.}
 {22400}{}{Car}
@@ -440,7 +440,7 @@
 {22500}{}{Car}
 {22501}{}{This rusted piece of scrap metal cannot be restored.}
 {22600}{}{Car}
-{22601}{}{Du beschlieﬂt, dass dieses Fahrzeug nie mehr fahren wird. Ehrlich.}
+{22601}{}{Du beschlie√üt, dass dieses Fahrzeug nie mehr fahren wird. Ehrlich.}
 {22700}{}{Car}
 {22701}{}{Es besteht nicht die geringste Chance, dass diese Schrottkiste je wieder fahren wird.}
 {22800}{}{Car}
@@ -497,7 +497,7 @@
 {25600}{}{Junk}
 {25601}{}{Definitely useless junk, no doubt about it.}
 {25700}{}{Mailbox}
-{25701}{}{Der Briefkasten ist leer. Du hast das Gef¸hl, dass er das schon lange ist.}
+{25701}{}{Der Briefkasten ist leer. Du hast das Gef√ºhl, dass er das schon lange ist.}
 {25800}{}{Door}
 {25801}{}{A nicely crafted wooden door, in good condition.}
 {25900}{}{Door}
@@ -511,7 +511,7 @@
 {26300}{}{Pew}
 {26301}{}{This pew has been neglected, and is showing signs of wear and tear.}
 {26400}{}{Pew}
-{26401}{}{Eine hˆlzerne Kirchenbank, die vor Alter und Missbrauch zusammenbricht.}
+{26401}{}{Eine h√∂lzerne Kirchenbank, die vor Alter und Missbrauch zusammenbricht.}
 {26500}{}{Newspaper Machine}
 {26501}{}{The newspaper machine is empty.}
 {26600}{}{Newspaper Machine}
@@ -533,7 +533,7 @@
 {27400}{}{Junk}
 {27401}{}{A pile of wood, with some rusty useless nails imbedded deeply.}
 {27500}{}{Boxes}
-{27501}{}{Ein Haufen alter Kartons. Du kannst nicht glauben, dass sie so lange ¸berstanden haben.}
+{27501}{}{Ein Haufen alter Kartons. Du kannst nicht glauben, dass sie so lange √ºberstanden haben.}
 {27600}{}{Boxes}
 {27601}{}{A pile of old, cardboard boxes.}
 {27700}{}{Junk}
@@ -551,13 +551,13 @@
 {28300}{}{Sink}
 {28301}{}{A broken porcelain sink. There is small puddle of brown water in the basin, with a floating dead rat.}
 {28400}{}{Sink}
-{28401}{}{Dieses Waschbecken ist hin¸ber. Deutlich zu sehen am groﬂen Riss in der Mitte.}
+{28401}{}{Dieses Waschbecken ist hin√ºber. Deutlich zu sehen am gro√üen Riss in der Mitte.}
 {28500}{}{Sink}
 {28501}{}{A broken porcelain sink. There is small puddle of brown water in the basin, with a floating dead rat.}
 {28600}{}{Stop Sign}
 {28601}{}{A red sign with the word STOP written in large block letters.}
 {28700}{}{Stop Sign}
-{28701}{}{Ein rotes Schild, auf dem in groﬂen Druckbuchstaben STOP steht. Das groﬂe Einschussloch wurde erst nachtr‰glich hinzugef¸gt.}
+{28701}{}{Ein rotes Schild, auf dem in gro√üen Druckbuchstaben STOP steht. Das gro√üe Einschussloch wurde erst nachtr√§glich hinzugef√ºgt.}
 {28800}{}{Stop Light}
 {28801}{}{This is an ancient automobile traffic control device.}
 {28900}{}{Stop Light}
@@ -579,9 +579,9 @@
 {29700}{}{Street Light}
 {29701}{}{This street light could provide illumination in darkened areas, if it wasn't completely broken.}
 {29800}{}{Signpost}
-{29801}{}{Dieses Schild sollte angeben, wie die Straﬂe heiﬂt, doch die Buchstaben sind vˆllig verblasst.}
+{29801}{}{Dieses Schild sollte angeben, wie die Stra√üe hei√üt, doch die Buchstaben sind v√∂llig verblasst.}
 {29900}{}{Signpost}
-{29901}{}{Dieses Schild sollte angeben, wie die Straﬂe heiﬂt, doch die Buchstaben sind vˆllig verblasst.}
+{29901}{}{Dieses Schild sollte angeben, wie die Stra√üe hei√üt, doch die Buchstaben sind v√∂llig verblasst.}
 {30000}{}{Table}
 {30001}{}{A wooden table, in fair to middling condition.}
 {30100}{}{Table}
@@ -676,7 +676,7 @@
 {34600}{}{Door}
 {34601}{}{An ornate wooden door. It is obviously made from fine workmanship.}
 {34700}{}{Pew}
-{34701}{}{Dieser Sitz wird von groﬂen Betonziegeln gest¸tzt. Das ist zwar unwichtig, aber du musstest ja unbedingt nachsehen.}
+{34701}{}{Dieser Sitz wird von gro√üen Betonziegeln gest√ºtzt. Das ist zwar unwichtig, aber du musstest ja unbedingt nachsehen.}
 {34800}{}{Staircase}
 {34801}{}{This staircase leads up.}
 {34900}{}{Staircase}
@@ -776,7 +776,7 @@
 {39600}{}{Metallfass}
 {39601}{}{Ein rostiges Metallfass. Es ist leer.}
 {39700}{}{Metallfass}
-{39701}{}{Dem hohlen Klang nach zu schlieﬂen ist das Fass wahrscheinlich leer.}
+{39701}{}{Dem hohlen Klang nach zu schlie√üen ist das Fass wahrscheinlich leer.}
 {39800}{}{Metal Barrels}
 {39801}{}{These barrels are probably empty from their hollow sound.}
 {39900}{}{Metal Barrels}
@@ -824,7 +824,7 @@
 {42000}{}{Elevator Shaft}
 {42001}{}{An elevator shaft that stretches deep into the ground. It has been damaged.}
 {42100}{}{Elevator Door}
-{42101}{}{Diese T¸r f¸hrt zur Aufzugskabine. Wenn du den Aufzug benutzen willst, musst du erst diese T¸r ˆffnen.}
+{42101}{}{Diese T√ºr f√ºhrt zur Aufzugskabine. Wenn du den Aufzug benutzen willst, musst du erst diese T√ºr √∂ffnen.}
 {42200}{}{Pipe}
 {42201}{}{A metal pipe. Further details are not important.}
 {42300}{}{Dirt}
@@ -949,7 +949,7 @@
 {48501}{}{This podium is normal, except for the Children of the Cathedral symbol engraved on the front of it.}
 {48600}{}{Altar}
 {48700}{}{Monitor}
-{48701}{}{Ein groﬂer Schwarz-Weiﬂ-Fernseher. Der Empfang ist recht gut, wenn man bedenkt, dass er ohne Antenne in einem Innenraum steht.}
+{48701}{}{Ein gro√üer Schwarz-Wei√ü-Fernseher. Der Empfang ist recht gut, wenn man bedenkt, dass er ohne Antenne in einem Innenraum steht.}
 {48800}{}{Monitor}
 {48801}{}{A large monitor, black and white only. The robed figure is reciting religious dogma at a feverish pace.}
 {48900}{}{Force Field}
@@ -1050,9 +1050,9 @@
 {54201}{}{You decide that now is not the time to bulk up with weight training.}
 {54300}{}{Bench Press}
 {54301}{}{You decide that now is not the time to bulk up with weight training.}
-{54400}{}{Br¸cke}
+{54400}{}{Br√ºcke}
 {54401}{}{A hastily constructed wooden bridge permits access over the moat of green glowing goo.}
-{54500}{}{Br¸cke}
+{54500}{}{Br√ºcke}
 {54501}{}{A hastily constructed wooden bridge permits access over the moat of green glowing goo.}
 {54600}{}{Roulette Table}
 {54601}{}{This is a gambling table.}
@@ -1067,7 +1067,7 @@
 {55100}{}{Fass}
 {55101}{}{This empty metal barrel has the nuclear trefoil symbol painted on the side in bright yellow paint.}
 {55200}{}{Fass}
-{55201}{}{Dieses Fass enth‰lt gr¸n leuchtenden Glibber. Das Atomsymbol gibt einen Hinweis darauf, was der Glibber sein kˆnnte.}
+{55201}{}{Dieses Fass enth√§lt gr√ºn leuchtenden Glibber. Das Atomsymbol gibt einen Hinweis darauf, was der Glibber sein k√∂nnte.}
 {55300}{}{Computer}
 {55301}{}{A very modern looking computer.}
 {55400}{}{Computer}
@@ -1154,8 +1154,8 @@
 {59501}{}{The metal table is covered by some kind of biomass.}
 {59600}{}{Bulletin Board}
 {59601}{}{Notices for employment are stapled to the board. It looks well used.}
-{59700}{}{Wachh‰uschen}
-{59701}{}{Das Wachh‰uschen ist ¸ber hundert Jahre alt, ist aber immer noch in ausgezeichnetem Zustand.}
+{59700}{}{Wachh√§uschen}
+{59701}{}{Das Wachh√§uschen ist √ºber hundert Jahre alt, ist aber immer noch in ausgezeichnetem Zustand.}
 {59800}{}{Sign}
 {59801}{}{This sign says: General Store.}
 {59900}{}{Sign}
@@ -1552,7 +1552,7 @@
 {79500}{}{Vent}
 {79501}{}{Just a tiny amount of fresh air is coming from this vent.}
 {79600}{}{Table}
-{79601}{}{An diesem Tisch gibt es nichts Ungewˆhnliches, auﬂer, dass er fast vˆllig zerstˆrt ist.}
+{79601}{}{An diesem Tisch gibt es nichts Ungew√∂hnliches, au√üer, dass er fast v√∂llig zerst√∂rt ist.}
 {79700}{}{Table}
 {79701}{}{This table was badly damaged.}
 {79800}{}{Table}
@@ -1733,7 +1733,7 @@
 {89900}{}{Poster}
 {89901}{}{This is a movie poster for a horror film from pre-War days.}
 {90000}{}{Bar}
-{90001}{}{Eine Urne steht auf der Bar. Die Urne sieht ein bisschen mitgenommen aus, doch sie kˆnnte wertvoll sein.}
+{90001}{}{Eine Urne steht auf der Bar. Die Urne sieht ein bisschen mitgenommen aus, doch sie k√∂nnte wertvoll sein.}
 {90100}{}{Elevator Shaft}
 {90101}{}{The shaft has a rope hanging from above.}
 {90200}{}{Elevator Shaft}

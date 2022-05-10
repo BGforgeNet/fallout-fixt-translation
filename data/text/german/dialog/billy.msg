@@ -29,7 +29,7 @@
 {128}{}{Lass mich bitte in Ruhe.}
 {129}{}{You're scaring me.}
 {130}{}{Hey, what are you trying to do? I don't have anything you'd want.}
-{131}{}{Hör auf damit!}
+{131}{}{HÃ¶r auf damit!}
 {132}{}{Dangerous? No, not really. They can give you a really nasty bite, but they're pretty cool. They fart and burp a lot. I don't know why.}
 {133}{}{So what's the spear for?}
 {134}{}{Okay, thanks.}

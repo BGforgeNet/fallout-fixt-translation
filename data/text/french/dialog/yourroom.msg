@@ -1,1 +1,1 @@
-{100}{}{Cette porte mène à ta chambre. Tu as toujours vécu dans cette chambre, jusqu'à maintenant. Tes amis de l'Abri ont dit qu'ils laisseraient cette chambre vide en ton honneur.}
+{100}{}{Cette porte mÃ¨ne Ã  ta chambre. Tu as toujours vÃ©cu dans cette chambre, jusqu'Ã  maintenant. Tes amis de l'Abri ont dit qu'ils laisseraient cette chambre vide en ton honneur.}

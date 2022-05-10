@@ -1,2 +1,2 @@
-{100}{}{Voici le Deputé Fry.}
-{101}{}{Le shérif est chargé de l'opération. Adresse-toi plutôt à lui.}
+{100}{}{Voici le DeputÃ© Fry.}
+{101}{}{Le shÃ©rif est chargÃ© de l'opÃ©ration. Adresse-toi plutÃ´t Ã  lui.}

@@ -1,6 +1,6 @@
-{100}{}{Parece que la puerta está cerrada.}
-{101}{}{La puerta ya está desbloqueada.}
-{102}{}{No son idóneos para este trabajo.}
-{103}{}{Desactivas el cierre electrónico.}
-{104}{}{No puedes desactivar el cierre electrónico.}
-{105}{}{La puerta está cerrada con llave.}
+{100}{}{Parece que la puerta estÃ¡ cerrada.}
+{101}{}{La puerta ya estÃ¡ desbloqueada.}
+{102}{}{No son idÃ³neos para este trabajo.}
+{103}{}{Desactivas el cierre electrÃ³nico.}
+{104}{}{No puedes desactivar el cierre electrÃ³nico.}
+{105}{}{La puerta estÃ¡ cerrada con llave.}

@@ -1,11 +1,11 @@
 {100}{}{Voici un voyageur.}
-{101}{}{Qu'est-ce que tu veux, étranger ?}
+{101}{}{Qu'est-ce que tu veux, Ã©tranger ?}
 {102}{}{Qui es-tu ?}
 {103}{}{Qu'est-ce que tu fais ici ?}
-{104}{}{Où est la ville la plus proche ?}
+{104}{}{OÃ¹ est la ville la plus proche ?}
 {105}{}{Rien, merci.}
 {106}{}{Euh...}
-{107}{}{Je suis éclaireur.}
+{107}{}{Je suis Ã©claireur.}
 {108}{}{Je surveille les pillards et les monstres.}
-{109}{}{Ca doit être Dépôtville. Ce n'est pas très loin d'ici.}
-{110}{}{Voici un garde de Dépôtville.}
+{109}{}{Ca doit Ãªtre DÃ©pÃ´tville. Ce n'est pas trÃ¨s loin d'ici.}
+{110}{}{Voici un garde de DÃ©pÃ´tville.}

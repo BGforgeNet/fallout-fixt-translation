@@ -1,5 +1,5 @@
-{100}{}{Cette personne pourrait bien avoir appartenu à la Confrérie de l'Acier.}
-{101}{}{Tu te demandes pourquoi cette personne en métal est là.}
-{102}{}{Cette personne semble avoir succombé à d'énormes quantités de radiations.}
-{103}{}{Tu n'arrives pas à comprendre ce qui a pu provoquer sa mort.}
-{104}{}{Cette compétence ne te fournit aucune autre information sur cette personne.}
+{100}{}{Cette personne pourrait bien avoir appartenu Ã  la ConfrÃ©rie de l'Acier.}
+{101}{}{Tu te demandes pourquoi cette personne en mÃ©tal est lÃ .}
+{102}{}{Cette personne semble avoir succombÃ© Ã  d'Ã©normes quantitÃ©s de radiations.}
+{103}{}{Tu n'arrives pas Ã  comprendre ce qui a pu provoquer sa mort.}
+{104}{}{Cette compÃ©tence ne te fournit aucune autre information sur cette personne.}

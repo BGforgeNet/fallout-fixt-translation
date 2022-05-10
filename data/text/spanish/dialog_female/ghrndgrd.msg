@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un guardia necrófago de la banda.}
+{100}{}{EstÃ¡s viendo a un guardia necrÃ³fago de la banda.}
 {101}{}{Vete.}
 {102}{}{No me gustan las de tu raza.}
-{103}{}{¡Ahora, ábrete!}
+{103}{}{Â¡Ahora, Ã¡brete!}

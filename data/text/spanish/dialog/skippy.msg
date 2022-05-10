@@ -1,31 +1,31 @@
 {100}{}{Ver Skippy.}
 {101}{}{Usted ve un ganger.}
-{102}{}{Él es tirar lo que parece una exótica cuchillo en el aire.}
-{103}{}{[más]}
+{102}{}{Ã‰l es tirar lo que parece una exÃ³tica cuchillo en el aire.}
+{103}{}{[mÃ¡s]}
 {104}{}{[Hecho]}
-{105}{}{[Lanzando un juego de cuchillas cerca de su cara] cuidado, no se quien. Puedes hacerte daño, y entonces tendría que reír.}
+{105}{}{[Lanzando un juego de cuchillas cerca de su cara] cuidado, no se quien. Puedes hacerte daÃ±o, y entonces tendrÃ­a que reÃ­r.}
 {106}{}{Usted lo mira, esas cosas se ven bien.}
-{107}{}{Dar estas cosas a mí antes de lastimar a alguien!}
+{107}{}{Dar estas cosas a mÃ­ antes de lastimar a alguien!}
 {108}{}{What are you tossing around, anyway?}
-{109}{}{Ellos son agudos, de hecho son más nítida que la de su ingenio.}
+{109}{}{Ellos son agudos, de hecho son mÃ¡s nÃ­tida que la de su ingenio.}
 {110}{}{Se que me reto?}
-{111}{}{Ouch, pero supongo que me lo merecía.}
-{112}{}{Me? Desafío? Oh, el mismo pensamiento me hace reír. No, nosotros los Tontos de no participar en el código de duello. No es nuestro estilo. Permítanos mostrarle cómo tratamos a los forasteros.}
-{113}{}{De hecho, lo hizo. ¿Qué puedo hacer por usted?}
-{114}{}{¿Qué son esas cosas?}
-{115}{}{Lo que son es mío, lo que no se es tuyo. Más allá de eso, estas fresas son una reliquia de mi pobre difunto padre. Usted puede decir que él tiene un poco atrapados en ellos antes de morir! [Skippy ríe].}
+{111}{}{Ouch, pero supongo que me lo merecÃ­a.}
+{112}{}{Me? DesafÃ­o? Oh, el mismo pensamiento me hace reÃ­r. No, nosotros los Tontos de no participar en el cÃ³digo de duello. No es nuestro estilo. PermÃ­tanos mostrarle cÃ³mo tratamos a los forasteros.}
+{113}{}{De hecho, lo hizo. Â¿QuÃ© puedo hacer por usted?}
+{114}{}{Â¿QuÃ© son esas cosas?}
+{115}{}{Lo que son es mÃ­o, lo que no se es tuyo. MÃ¡s allÃ¡ de eso, estas fresas son una reliquia de mi pobre difunto padre. Usted puede decir que Ã©l tiene un poco atrapados en ellos antes de morir! [Skippy rÃ­e].}
 {116}{}{Eres tonto. Puedo tomar prestado de ellos?}
-{117}{}{Bueno, ya que le preguntó muy bien - bien. [Él de manos a los cortadores.] Ahora, vete, porque tengo que buscar un nuevo juguete para pasar el tiempo.}
-{118}{}{Yo creo que no, al menos no de la manija-en primer lugar. Llorarás de la sangre, o, al menos, lloro de la risa y el dolor cuando he terminado con usted.}
-{119}{}{No nos gusta su clase aquí. Dejar o vas a estar en la final.}
-{120}{}{Bueno, si no es la última Tonto. Un buen sentido del humor, al menos. Tal vez algunas habilidades de motricidad fina. Vamos a ver. Jugar bonito.}
-{121}{}{Eres un afortunado, mi amigo. Este día es el día que le permitirá vivir. A menos que, por supuesto, usted me molestan demasiado. A continuación, voy a tener que usar mi mejor cadáver chistes.}
+{117}{}{Bueno, ya que le preguntÃ³ muy bien - bien. [Ã‰l de manos a los cortadores.] Ahora, vete, porque tengo que buscar un nuevo juguete para pasar el tiempo.}
+{118}{}{Yo creo que no, al menos no de la manija-en primer lugar. LlorarÃ¡s de la sangre, o, al menos, lloro de la risa y el dolor cuando he terminado con usted.}
+{119}{}{No nos gusta su clase aquÃ­. Dejar o vas a estar en la final.}
+{120}{}{Bueno, si no es la Ãºltima Tonto. Un buen sentido del humor, al menos. Tal vez algunas habilidades de motricidad fina. Vamos a ver. Jugar bonito.}
+{121}{}{Eres un afortunado, mi amigo. Este dÃ­a es el dÃ­a que le permitirÃ¡ vivir. A menos que, por supuesto, usted me molestan demasiado. A continuaciÃ³n, voy a tener que usar mi mejor cadÃ¡ver chistes.}
 {122}{}{Nunca robar a un Tonto, tonto.}
-{123}{}{Ya has conseguido el cortadores de Skippy. Dejar de fumar mientras está por delante.}
-{124}{}{Te las arreglas para robar las fresas, mientras que él no está mirando.}
-{125}{}{Usted nos insultan, y nuestra Reina de honor. Algunos insultos sólo puede ser pagado en sangre.}
-{126}{}{Usted morirá escoria!}
+{123}{}{Ya has conseguido el cortadores de Skippy. Dejar de fumar mientras estÃ¡ por delante.}
+{124}{}{Te las arreglas para robar las fresas, mientras que Ã©l no estÃ¡ mirando.}
+{125}{}{Usted nos insultan, y nuestra Reina de honor. Algunos insultos sÃ³lo puede ser pagado en sangre.}
+{126}{}{Usted morirÃ¡ escoria!}
 {127}{}{Es que su cara, o que su cuello vomitar?}
-{128}{}{Que la madre tenía que atar un filete de carne a su alrededor para que el perro juegue con usted}
-{129}{}{La única cosa más estúpido de lo que es Rayze.}
+{128}{}{Que la madre tenÃ­a que atar un filete de carne a su alrededor para que el perro juegue con usted}
+{129}{}{La Ãºnica cosa mÃ¡s estÃºpido de lo que es Rayze.}
 {130}{}{Supongo que la placenta puede vivir un poco de tiempo.}

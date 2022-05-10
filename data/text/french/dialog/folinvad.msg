@@ -1,13 +1,13 @@
-{100}{}{On n'est pas là pour parler.}
-{101}{}{Je te suivrai jusqu'à la mort.}
+{100}{}{On n'est pas lÃ  pour parler.}
+{101}{}{Je te suivrai jusqu'Ã  la mort.}
 {102}{}{C'est important ce travail, hein ?}
-{103}{}{Nicole dit qu'on doit faire autant de dégâts que possible.}
+{103}{}{Nicole dit qu'on doit faire autant de dÃ©gÃ¢ts que possible.}
 {104}{}{Qui dois-je tuer ensuite ?}
-{105}{}{Qu'est-ce qu'on fait là à bavarder ?}
-{106}{}{J'aime pas ces ordures dans leurs sacs marron, sans façons.}
-{107}{}{Ca pourrait être dangereux.}
-{108}{}{Faut pas traîner ici.}
+{105}{}{Qu'est-ce qu'on fait lÃ  Ã  bavarder ?}
+{106}{}{J'aime pas ces ordures dans leurs sacs marron, sans faÃ§ons.}
+{107}{}{Ca pourrait Ãªtre dangereux.}
+{108}{}{Faut pas traÃ®ner ici.}
 {109}{}{Cet endroit est vraiment nul.}
-{110}{}{Je sens que je vais être malade.}
-{111}{}{Nicole nous a dit de revenir dès que t'as quitté la Cathédrale.}
+{110}{}{Je sens que je vais Ãªtre malade.}
+{111}{}{Nicole nous a dit de revenir dÃ¨s que t'as quittÃ© la CathÃ©drale.}
 {112}{}{Un plaisir de te rencontrer. Allons-y.}

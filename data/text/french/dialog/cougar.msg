@@ -1,12 +1,12 @@
 {100}{}{Cougar, assistant de Doc Morbide.}
-{101}{}{Comment Áa va ?}
+{101}{}{Comment √ßa va ?}
 {102}{}{Bien, et toi ?}
 {103}{}{Je voudrais voir le Doc.}
 {104}{}{Eurr.}
 {105}{}{Le Cougar va toujours bien.}
-{106}{}{HÈ, je dois savoir...}
-{107}{}{Va voir mon assistant, Flash, l‡-bas. Il t'aidera.}
-{108}{}{Oh ! Ne parle pas si vite, mec. Tu vas donner la migraine au Cougar. Parle plutÙt ‡ Flash.}
-{109}{}{C'est encore toi. Le Cougar n'a plus rien ‡ dire.}
+{106}{}{H√©, je dois savoir...}
+{107}{}{Va voir mon assistant, Flash, l√†-bas. Il t'aidera.}
+{108}{}{Oh ! Ne parle pas si vite, mec. Tu vas donner la migraine au Cougar. Parle plut√¥t √† Flash.}
+{109}{}{C'est encore toi. Le Cougar n'a plus rien √† dire.}
 {110}{}{Le Cougar te surveille !}
-{111}{}{Beau matos, t'as rÈcupÈrÈ Áa tout seul ?}
+{111}{}{Beau matos, t'as r√©cup√©r√© √ßa tout seul ?}

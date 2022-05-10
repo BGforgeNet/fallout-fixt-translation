@@ -41,7 +41,7 @@
 {140}{}{Can I keep this one?}
 {141}{}{No. I only work on energy weapons. You should go see Kyle if you have questions about Power Armor.}
 {142}{}{Actually Kyle doesn't have the parts, that why I'm looking for them.}
-{143}{}{Danke. Tschüss.}
+{143}{}{Danke. TschÃ¼ss.}
 {144}{}{Well, I can't help you with that. Sorry.}
 {145}{}{Thanks. I need to get going. Bye.}
 {146}{}{Can I ask you some more questions?}

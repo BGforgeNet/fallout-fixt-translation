@@ -190,8 +190,8 @@
 {290}{}{Airlock}
 {291}{}{Medical Cache}
 {292}{}{Vault 15 Entrance}
-{293}{}{Sables Ombragés}
-{294}{}{Sables Ombragés}
+{293}{}{Sables OmbragÃ©s}
+{294}{}{Sables OmbragÃ©s}
 {295}{}{Medical Lab}
 {296}{}{Abandoned Shack}
 {297}{}{Seth}
@@ -283,8 +283,8 @@
 {383}{}{Michelle}
 {384}{}{Blades' Nightwatchman}
 {385}{}{Romero}
-{386}{}{Confrérie de l'Acier}
-{387}{}{Confrérie de l'Acier}
+{386}{}{ConfrÃ©rie de l'Acier}
+{387}{}{ConfrÃ©rie de l'Acier}
 {388}{}{Jon}
 {389}{}{Prisoner}
 {390}{}{Brotherhood Scribe}

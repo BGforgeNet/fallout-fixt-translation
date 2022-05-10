@@ -1,2 +1,2 @@
-{100}{}{Los escombros se han ido amontonando en la entrada. Pesan demasiado para ser movidos. Te preguntas si el Chip del Agua ha estado ahÌ alguna vez. Si lo estuvo, nunca m·s se podr· usar.}
+{100}{}{Los escombros se han ido amontonando en la entrada. Pesan demasiado para ser movidos. Te preguntas si el Chip del Agua ha estado ah√≠ alguna vez. Si lo estuvo, nunca m√°s se podr√° usar.}
 {101}{}{Piedras grandes y pesadas bloquean la entrada de la sala. Intentas mover una roca pero no lo consigues.}

@@ -1,22 +1,22 @@
 {100}{}{Ves: a Abel.}
-{101}{}{Estás viendo a un mutante enorme.}
-{102}{}{No deberías estar aquí.}
+{101}{}{EstÃ¡s viendo a un mutante enorme.}
+{102}{}{No deberÃ­as estar aquÃ­.}
 {103}{}{Hng.}
-{104}{}{Por supuesto que no. ¡Estoy aquí para matarte!}
-{105}{}{¿Por qué dices eso?}
-{106}{}{¿Oh, sí? ¡Tu mamá!}
+{104}{}{Por supuesto que no. Â¡Estoy aquÃ­ para matarte!}
+{105}{}{Â¿Por quÃ© dices eso?}
+{106}{}{Â¿Oh, sÃ­? Â¡Tu mamÃ¡!}
 {107}{}{Pik!}
-{108}{}{¡Voy a darte una patada en el culo si repites eso!}
-{109}{}{¡Pik! ¡Pik!}
-{110}{}{¡Oh, te las vas a ganar!}
-{111}{}{Tú, humana. Yo, mutante. Mutante mata humana.}
-{112}{}{¿Cómo puedes hacer eso? ¿Qué pasa con el campo de fuerza?}
-{113}{}{Abel se ocupa de eso. ¡Entonces Abel te da una patada en el culo!}
-{114}{}{No se admiten niñas aquí. Este lugar es solo para mutantes. Vete.}
-{115}{}{¡Unm!}
-{116}{}{Tengo que cruzar este campo de fuerza. Por favor, quítalo.}
+{108}{}{Â¡Voy a darte una patada en el culo si repites eso!}
+{109}{}{Â¡Pik! Â¡Pik!}
+{110}{}{Â¡Oh, te las vas a ganar!}
+{111}{}{TÃº, humana. Yo, mutante. Mutante mata humana.}
+{112}{}{Â¿CÃ³mo puedes hacer eso? Â¿QuÃ© pasa con el campo de fuerza?}
+{113}{}{Abel se ocupa de eso. Â¡Entonces Abel te da una patada en el culo!}
+{114}{}{No se admiten niÃ±as aquÃ­. Este lugar es solo para mutantes. Vete.}
+{115}{}{Â¡Unm!}
+{116}{}{Tengo que cruzar este campo de fuerza. Por favor, quÃ­talo.}
 {117}{}{No.}
-{118}{}{Tú otra vez. ¡Abel te da una patada en el culo!}
+{118}{}{TÃº otra vez. Â¡Abel te da una patada en el culo!}
 {970}{}{Yo Abel}
 {971}{}{Yo Abel}
 {972}{}{Yo Abel}
@@ -28,15 +28,15 @@
 {978}{}{Yo Abel}
 {979}{}{Yo Abel}
 {980}{}{Hng.}
-{981}{}{¿Por qué decir eso?}
+{981}{}{Â¿Por quÃ© decir eso?}
 {982}{}{Pik!}
-{983}{}{¿Ung... qué?}
+{983}{}{Â¿Ung... quÃ©?}
 {984}{}{Hmm?}
-{985}{}{¿Qué dices?}
-{986}{}{¿Qué, hmm?}
+{985}{}{Â¿QuÃ© dices?}
+{986}{}{Â¿QuÃ©, hmm?}
 {987}{}{Uh... yo no saber.}
 {988}{}{Yo no saber.}
-{989}{}{Qué ser eso?}
+{989}{}{QuÃ© ser eso?}
 {990}{}{}
 {991}{}{}
 {992}{}{}

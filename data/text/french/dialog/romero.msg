@@ -15,34 +15,34 @@
 {116}{}{Ici, c'est moi qui pose les questions. Que fais tu ici ?}
 {117}{}{Je suis ici pour trouver un ami.}
 {118}{}{Je suis ici pour parler de paix.}
-{119}{}{Je veux mettre fin à la guerre des gangs dans le Sanctuaire !}
+{119}{}{Je veux mettre fin Ã  la guerre des gangs dans le Sanctuaire !}
 {120}{}{Je veux boire le sang des Ecorcheurs !}
 {121}{}{Alors tu cherches au mauvais endroit. Laisse-moi.}
-{122}{}{Tu dois être une de ces petites mauviettes des robes violettes. Sors d'ici avant qu'on t'explose le crâne.}
-{123}{}{Attend ! Je ne sais pas de quoi tu parles. Je suis là pour le Sanctuaire. Ils veulent que je fasse en sorte que tout le monde les laisse tranquilles.}
+{122}{}{Tu dois Ãªtre une de ces petites mauviettes des robes violettes. Sors d'ici avant qu'on t'explose le crÃ¢ne.}
+{123}{}{Attend ! Je ne sais pas de quoi tu parles. Je suis lÃ  pour le Sanctuaire. Ils veulent que je fasse en sorte que tout le monde les laisse tranquilles.}
 {124}{}{La paix !}
-{125}{}{Désolé. Je m'en vais maintenant.}
-{126}{}{Hmm. Si tu es vraiment du Sanctuaire, alors tu es encore un perdant. La paix n'existera jamais tant que ces Régulateurs seront dans les parages.}
+{125}{}{DÃ©solÃ©. Je m'en vais maintenant.}
+{126}{}{Hmm. Si tu es vraiment du Sanctuaire, alors tu es encore un perdant. La paix n'existera jamais tant que ces RÃ©gulateurs seront dans les parages.}
 {127}{}{Que veux-tu dire ?}
-{128}{}{Uh, bien sûr.}
-{129}{}{Demande à Razor. Elle te donnera des explications sur ces consanguins sanguinaires.}
-{130}{}{Dégage !}
-{131}{}{Hé, maintenant que tu es un Ecorcheur, j'ai besoin que tu m'accordes une faveur.}
-{132}{}{Bien sûr.}
+{128}{}{Uh, bien sÃ»r.}
+{129}{}{Demande Ã  Razor. Elle te donnera des explications sur ces consanguins sanguinaires.}
+{130}{}{DÃ©gage !}
+{131}{}{HÃ©, maintenant que tu es un Ecorcheur, j'ai besoin que tu m'accordes une faveur.}
+{132}{}{Bien sÃ»r.}
 {133}{}{Qu'est-ce que c'est ?}
 {134}{}{Pas question.}
-{135}{}{Super. Amène ce médaillon à Julianna. Dis lui que j'espère la voir bientôt.}
-{136}{}{Il semblerai que je sois tombé amoureux d'une fille au Sanctuaire. Les Régulateurs nous tirent dessus à vue, alors je ne peux pas aller la voir.}
+{135}{}{Super. AmÃ¨ne ce mÃ©daillon Ã  Julianna. Dis lui que j'espÃ¨re la voir bientÃ´t.}
+{136}{}{Il semblerai que je sois tombÃ© amoureux d'une fille au Sanctuaire. Les RÃ©gulateurs nous tirent dessus Ã  vue, alors je ne peux pas aller la voir.}
 {137}{}{En quoi puis-je t'aider ?}
 {138}{}{Poursuis.}
 {139}{}{Pas de bol.}
-{140}{}{Si tu apportes ce médaillon à Julianna, j'aurai une dette envers toi.}
+{140}{}{Si tu apportes ce mÃ©daillon Ã  Julianna, j'aurai une dette envers toi.}
 {141}{}{Aucun soucis.}
 {142}{}{Trouve quelqu'un d'autre.}
-{143}{}{Avec des alliés tels que toi, qui a besoin d'ennemis ? Bonne journée !}
+{143}{}{Avec des alliÃ©s tels que toi, qui a besoin d'ennemis ? Bonne journÃ©e !}
 {144}{}{Je penses qu'elle m'aime aussi, mais je n'en sais pas plus. Les Ecorcheurs ne prendront pas le risque de me laisser essayer de me faufiler dans le Sanctuaire.}
 {145}{}{Pas de bol.}
 {146}{}{Ok, je vais te donner un coup de main.}
-{147}{}{Merci ! Elle m'a envoyé un message. Nous allons nous rejoindre chez les Disciples pour nous marier.}
+{147}{}{Merci ! Elle m'a envoyÃ© un message. Nous allons nous rejoindre chez les Disciples pour nous marier.}
 {148}{}{Bienvenue.}
-{149}{}{Merci beaucoup. Nous allons maintenant rester ici avec les Disciples, où nous pouvons être des heureux mariés.}
+{149}{}{Merci beaucoup. Nous allons maintenant rester ici avec les Disciples, oÃ¹ nous pouvons Ãªtre des heureux mariÃ©s.}

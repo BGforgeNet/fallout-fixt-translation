@@ -1,8 +1,8 @@
-{100}{}{Estás viendo a un Supermutante invasor.}
-{101}{}{¡Ven aquí Humano!}
-{102}{}{¡Para!}
-{103}{}{¡Muere, humano!}
-{104}{}{¡Muerte para ti!}
-{105}{}{¡Huu-maaano!}
-{106}{}{¡Yo aplastarte ahora!}
-{107}{}{¡Todos los Normales morirán!}
+{100}{}{EstÃ¡s viendo a un Supermutante invasor.}
+{101}{}{Â¡Ven aquÃ­ Humano!}
+{102}{}{Â¡Para!}
+{103}{}{Â¡Muere, humano!}
+{104}{}{Â¡Muerte para ti!}
+{105}{}{Â¡Huu-maaano!}
+{106}{}{Â¡Yo aplastarte ahora!}
+{107}{}{Â¡Todos los Normales morirÃ¡n!}

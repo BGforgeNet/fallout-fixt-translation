@@ -28,7 +28,7 @@
 {127}{}{I'll have to think about it.}
 {128}{}{Hallo nochmal.}
 {129}{}{What is it you do here?}
-{130}{}{Tschüss.}
+{130}{}{TschÃ¼ss.}
 {131}{}{}
 {132}{}{It's been going okay.}
 {133}{}{I think I've killed all the Deathclaws.}

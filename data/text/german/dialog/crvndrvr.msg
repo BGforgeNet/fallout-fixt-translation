@@ -10,7 +10,7 @@
 {109}{}{Rok!}
 {110}{}{Ready to go? We leave today.}
 {111}{}{Yep!}
-{112}{}{Nö.}
+{112}{}{NÃ¶.}
 {113}{}{Hrurra?}
 {114}{}{Sorry, we won't deal with you anymore. Try your luck with another caravan; maybe they'll put up with you.}
 {115}{}{Sorry, we're not hiring.}
@@ -19,7 +19,7 @@
 {118}{}{What do you want? Hiring you was a disaster.}
 {119}{}{Please give me another chance! I had no choice!}
 {120}{}{Oh, yeah? I couldn't care less.}
-{121}{}{Nichts. Tschüss.}
+{121}{}{Nichts. TschÃ¼ss.}
 {122}{}{Kah.}
 {123}{}{Moo.}
 {124}{}{Look, I don't know what happened out there, but we lost the entire caravan! You shouldn't have come back if you couldn't protect it.}
@@ -140,7 +140,7 @@
 {239}{}{ days.}
 {240}{}{I suppose you want a job. I might give you one. Are you interested?}
 {241}{}{Sicher.}
-{242}{}{Nö.}
+{242}{}{NÃ¶.}
 {243}{}{You know where you can stick your caravan.}
 {244}{}{I don't know. I'll have to get back to you.}
 {245}{}{Ug.}

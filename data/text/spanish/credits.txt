@@ -217,7 +217,7 @@ gustarballs1983
 @Por feedback, lluvia de ideas, y reporte de bugs.
 
 holder80
-@Por la idea de jugar como un mutante, diseño de docs e info
+@Por la idea de jugar como un mutante, diseÃ±o de docs e info
 
 Infinitron
 @Por un feedback enorme y publicacion de noticias
@@ -282,7 +282,7 @@ Timeslip
 
 Tim Cain
 @Por crear Fallout 1, ser un tio guay, y por responder personalmente
-@mis preguntas sobre Fallout despues de tantos años
+@mis preguntas sobre Fallout despues de tantos aÃ±os
 
 Wasteland Ghost
 @Por ser un modder increible que dejo un legado, e indirectamente
@@ -384,7 +384,7 @@ Sduibek
 Sduibek
 
 
-#DISEÑO / TEXTOS (INGLES)
+#DISEÃ‘O / TEXTOS (INGLES)
 
 Sduibek
 
@@ -405,7 +405,7 @@ robbforce
 Luffier
 
 
-#DISEÑO / TEXTOS (ESPAÑOL)
+#DISEÃ‘O / TEXTOS (ESPAÃ‘OL)
 
 @Fixt y nueva traducion mejorada (masculino y femenino)
 Luffier
@@ -414,7 +414,7 @@ Luffier
 L@Zar0
 
 
-#DISEÑO / TEXTOS (CHECO)
+#DISEÃ‘O / TEXTOS (CHECO)
 
 @Unpacking y Decoding
 RAPTOR
@@ -423,30 +423,30 @@ RAPTOR
 IDLER
 
 @Lider del projecto
-Ondøej Prùša
+OndÃ¸ej PrÃ¹Å¡a
 
 @Traduccion (ordenado por KB)
 Radek Friedrich
 Somnambulus
-Petr Bulíø
-Vašek Vlèek
-Jakub Tureèek
+Petr BulÃ­Ã¸
+VaÅ¡ek VlÃ¨ek
+Jakub TureÃ¨ek
 Punik
 Jana X.
-Tomáš Turek
-Pavel Zvìøina
+TomÃ¡Å¡ Turek
+Pavel ZvÃ¬Ã¸ina
 Daniel Bahula
 
 @Agradecimientos
 Jan "Premie" Herodes
-Jirka "Weapons" Švarc
-Pavel "Krysák" Zvìøina
+Jirka "Weapons" Å varc
+Pavel "KrysÃ¡k" ZvÃ¬Ã¸ina
 
 @Fixt addon
 Khalashnikovf
 
 
-#DISEÑO / TEXTOS (FRANCES)
+#DISEÃ‘O / TEXTOS (FRANCES)
 
 @Traduccion - Arreglos - Comprobacion de errores
 @(En orden alfabetico)
@@ -617,21 +617,21 @@ Tony Postma
 
 
 
-#DISEÑO
+#DISEÃ‘O
 
-@Diseñador Pricipal
+@DiseÃ±ador Pricipal
 Chris Taylor
 
-@Diseñadores
+@DiseÃ±adores
 David Hendee
 Scott Bennie
 Brian Freyermuth
 Scott Campbell
 
-@Diseñador Tecnico
+@DiseÃ±ador Tecnico
 Scott Everts
 
-@Diseños Adicionales por
+@DiseÃ±os Adicionales por
 Robert Hertenstein 2
 Jess Heinig
 Nick Kesting
@@ -644,10 +644,10 @@ Erick Lujan
 Dennis Presnell
 Feargus Urquhart
 
-@Diseño/Dialogo
+@DiseÃ±o/Dialogo
 Mark O'Green
 
-@Diseño Original por
+@DiseÃ±o Original por
 Tim Cain
 Leonard Boyarsky
 Jason Anderson
@@ -690,10 +690,10 @@ Tom Decker
 Marina Bermon
 
 @Revision, Traduccion Adicional y
-@Garantia de Calidad en Español
+@Garantia de Calidad en EspaÃ±ol
 Rafael "Rafa" Lopez
 
-@Ensayadores en Español
+@Ensayadores en EspaÃ±ol
 Natalija Benjovski
 
 #GARANTIA DE CALIDAD
@@ -812,7 +812,7 @@ Doug Rappaport
 Sergio Bustamante II
 Ron Valdez
 
-@Diseño de Efectos de Sonido
+@DiseÃ±o de Efectos de Sonido
 Charles Deenen
 Gregory Allen
 Larry Peacock
@@ -920,7 +920,7 @@ Max the Dog
 @AVISO: Es una violacion de leyes federales de Copyright
 @copiar, duplicar o reproducir este programa o
 @cualquier parte del programa sin el expreso permiso por
-@escrito del dueño del Copyright.
+@escrito del dueÃ±o del Copyright.
 
 #MARKETING
 
@@ -946,8 +946,8 @@ Thom Dohner
 
 @Gracias a: Scott Everts, Bomberman, Quake, Diablo,
 @Warcraft II, musica de varias peliculas, Brian Eno, la hielera
-@de refrescos (¡Gracias Gus y Rusty!), el espiritu navideño
-@(¡Hola Santo C!), Demo el gato, Nicol, Tracy, Mary & Adam, Lisa
+@de refrescos (Â¡Gracias Gus y Rusty!), el espiritu navideÃ±o
+@(Â¡Hola Santo C!), Demo el gato, Nicol, Tracy, Mary & Adam, Lisa
 @(soporte moral), Jamal, mama de T-Ray, los dos Donalds,
 @Teresa Brooks, Zeb Cook, Chris Avellone, Lunch Money, el atrio
 @merendero, Weez, Weaz, Irvine Spectrum, Wiz War, Dragon Dice, B5,
@@ -965,7 +965,7 @@ Thom Dohner
 
 
 
-@¡Eso es todo!
+@Â¡Eso es todo!
 
 
 

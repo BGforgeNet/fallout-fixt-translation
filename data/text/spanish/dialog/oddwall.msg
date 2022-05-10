@@ -1,1 +1,1 @@
-{100}{}{Hay algo extraño en una de las paredes de la zona este.}
+{100}{}{Hay algo extraÃ±o en una de las paredes de la zona este.}

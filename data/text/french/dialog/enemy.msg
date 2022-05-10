@@ -3,6 +3,6 @@
 {102}{}{Laisse-moi tranquille !}
 {103}{}{Quelqu'un devrait s'occuper de ton cas.}
 {104}{}{Fous le camp, crapule.}
-{105}{}{Je veux pas avoir affaire à toi.}
+{105}{}{Je veux pas avoir affaire Ã  toi.}
 {106}{}{En mouvement !}
-{107}{}{Nous les avons tous tué !}
+{107}{}{Nous les avons tous tuÃ© !}

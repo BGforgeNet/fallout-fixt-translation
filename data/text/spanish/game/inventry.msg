@@ -8,12 +8,12 @@
 {7}{}{Puntos de Salud}
 {8}{}{Clase de Armadura}
 {9}{}{  Normal}
-{10}{}{  Láser}
+{10}{}{  LÃ¡ser}
 {11}{}{  Fuego}
 {12}{}{  Plasma}
-{13}{}{  Explosión}
+{13}{}{  ExplosiÃ³n}
 {14}{}{[no item]}
-{15}{}{Daño:}
+{15}{}{DaÃ±o:}
 {16}{}{Rng:}
 {17}{}{}
 {18}{}{(not worn)}
@@ -22,8 +22,8 @@
 {21}{}{MOVER OBJETOS}
 {22}{}{TODO}
 {23}{}{FIJAR TEMPORIZADOR}
-{24}{}{Daño desarmado:}
-{25}{}{No puedes recoger eso. Llevas el máximo peso soportado.}
+{24}{}{DaÃ±o desarmado:}
+{25}{}{No puedes recoger eso. Llevas el mÃ¡ximo peso soportado.}
 {26}{}{No hay espacio para ese objeto.}
 {27}{}{Vale, es un buen trato.}
 {28}{}{No, tu oferta no es lo suficientemente buena.}

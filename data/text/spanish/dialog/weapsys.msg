@@ -1,1 +1,1 @@
-{100}{}{Parece que el sistema autom·tico de seguridad est· activo.}
+{100}{}{Parece que el sistema autom√°tico de seguridad est√° activo.}

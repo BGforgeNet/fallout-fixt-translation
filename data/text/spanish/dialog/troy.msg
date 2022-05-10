@@ -1,33 +1,33 @@
 {100}{}{Ves: a Troy.}
-{101}{}{Enhorabuena, humano. Has sido seleccionado para unirte a una élite de devotos. Sígueme.}
-{102}{}{¿No tendrá algo que ver con los rumores sobre un ejército de Supermutantes que va por ahí arrasando?}
-{103}{}{¿Dónde vamos?}
-{104}{}{¿A qué estás esperando? ¡Vámonos!}
+{101}{}{Enhorabuena, humano. Has sido seleccionado para unirte a una Ã©lite de devotos. SÃ­gueme.}
+{102}{}{Â¿No tendrÃ¡ algo que ver con los rumores sobre un ejÃ©rcito de Supermutantes que va por ahÃ­ arrasando?}
+{103}{}{Â¿DÃ³nde vamos?}
+{104}{}{Â¿A quÃ© estÃ¡s esperando? Â¡VÃ¡monos!}
 {105}{}{Creo que no.}
-{106}{}{¿Qué es esa peste a cadáver pútrido? ¡Oh, eres tú!}
-{107}{}{¿Ruh?}
-{108}{}{Sígueme y lo descubrirás. O hablando en claro: ¡Sígueme y vivirás, idiota!}
-{109}{}{¿O sea que si no voy, muero? No me parece muy piadoso.}
-{110}{}{Me has convencido. ¡Andando!}
+{106}{}{Â¿QuÃ© es esa peste a cadÃ¡ver pÃºtrido? Â¡Oh, eres tÃº!}
+{107}{}{Â¿Ruh?}
+{108}{}{SÃ­gueme y lo descubrirÃ¡s. O hablando en claro: Â¡SÃ­gueme y vivirÃ¡s, idiota!}
+{109}{}{Â¿O sea que si no voy, muero? No me parece muy piadoso.}
+{110}{}{Me has convencido. Â¡Andando!}
 {111}{}{Creo que no.}
-{112}{}{¡No empieces algo que no puedes terminar, fierecilla!}
-{113}{}{¡Excelente!}
-{114}{}{No deberías jugar con Lady Jain o con los Niños.}
-{115}{}{No deberías insultar a quien no puedes matar. Dime qué prefieres, ¿venir conmigo y vivir o quedarte aquí y morir?}
-{116}{}{¡Voy!}
-{117}{}{Olvídalo.}
-{118}{}{¡Santo Dios, algunos mutantes no saben aguantar una broma!}
-{119}{}{¡Si sigo oliéndote, me moriré de todas formas!}
-{120}{}{¡Bestia estúpida! ¿Te vienes o no?}
-{121}{}{Uh... ¡voy!}
-{122}{}{Uh... ¡yo quedar!}
-{123}{}{¡Basta ya de indecisiones! ¿Cuál es tu respuesta, humano?}
+{112}{}{Â¡No empieces algo que no puedes terminar, fierecilla!}
+{113}{}{Â¡Excelente!}
+{114}{}{No deberÃ­as jugar con Lady Jain o con los NiÃ±os.}
+{115}{}{No deberÃ­as insultar a quien no puedes matar. Dime quÃ© prefieres, Â¿venir conmigo y vivir o quedarte aquÃ­ y morir?}
+{116}{}{Â¡Voy!}
+{117}{}{OlvÃ­dalo.}
+{118}{}{Â¡Santo Dios, algunos mutantes no saben aguantar una broma!}
+{119}{}{Â¡Si sigo oliÃ©ndote, me morirÃ© de todas formas!}
+{120}{}{Â¡Bestia estÃºpida! Â¿Te vienes o no?}
+{121}{}{Uh... Â¡voy!}
+{122}{}{Uh... Â¡yo quedar!}
+{123}{}{Â¡Basta ya de indecisiones! Â¿CuÃ¡l es tu respuesta, humano?}
 {124}{}{Voy contigo. Vamos.}
-{125}{}{Olvídalo.}
-{126}{}{¡Cómo te atreves a empujarme! ¡Nadie me dice lo que tengo que hacer!}
-{127}{}{¡Perro insolente! ¡Vas a morir!}
-{128}{}{¡Basta ya de bobadas! ¿Cuál es tu respuesta, humano?}
+{125}{}{OlvÃ­dalo.}
+{126}{}{Â¡CÃ³mo te atreves a empujarme! Â¡Nadie me dice lo que tengo que hacer!}
+{127}{}{Â¡Perro insolente! Â¡Vas a morir!}
+{128}{}{Â¡Basta ya de bobadas! Â¿CuÃ¡l es tu respuesta, humano?}
 {129}{}{Voy contigo. Vamos.}
-{130}{}{Olvídalo.}
-{131}{}{No me metas prisa, colega. Todavía estoy intentando pensar una respuesta ocurrente...}
+{130}{}{OlvÃ­dalo.}
+{131}{}{No me metas prisa, colega. TodavÃ­a estoy intentando pensar una respuesta ocurrente...}
 {132}{}{El mutante te ignora.}

@@ -1,8 +1,8 @@
-{100}{}{Escapaste de la cárcel. ¡Ahora eres un fugitivo en Ciudad Vertedero!}
-{101}{}{La puerta parece sólida y tiene una cerradura fuerte. No obstante, las cerradura pueden eliminarse y las puertas pueden ser destruidas.}
-{102}{}{La puerta está cerrada con llave.}
+{100}{}{Escapaste de la cÃ¡rcel. Â¡Ahora eres un fugitivo en Ciudad Vertedero!}
+{101}{}{La puerta parece sÃ³lida y tiene una cerradura fuerte. No obstante, las cerradura pueden eliminarse y las puertas pueden ser destruidas.}
+{102}{}{La puerta estÃ¡ cerrada con llave.}
 {103}{}{Abres la puerta.}
 {104}{}{Cierras la puerta.}
 {105}{}{No consigues abrir la cerradura de la puerta.}
 {106}{}{No consigues abrir la cerradura de la puerta.}
-{107}{}{¡Consigues 250 puntos de experiencia por salir de la cárcel!}
+{107}{}{Â¡Consigues 250 puntos de experiencia por salir de la cÃ¡rcel!}

@@ -1,297 +1,297 @@
-{100}{}{Ves: a Beth, la dueña de la Armería.}
-{101}{}{Hola. ¿Puedo ayudarte?}
-{102}{}{¿Puedo hacerte unas preguntas?}
-{103}{}{¿Puedo hacerte unas preguntas más?}
+{100}{}{Ves: a Beth, la dueÃ±a de la ArmerÃ­a.}
+{101}{}{Hola. Â¿Puedo ayudarte?}
+{102}{}{Â¿Puedo hacerte unas preguntas?}
+{103}{}{Â¿Puedo hacerte unas preguntas mÃ¡s?}
 {104}{}{Tengo que comprar algo.}
 {105}{}{Tengo algo para vender.}
-{106}{}{¿Cómo se pueden conseguir chapas aquí?}
-{107}{}{Nada. Adiós.}
-{108}{}{¿Ruk?}
-{109}{}{¿Qué es eso que se comenta de unas caravanas desaparecidas? }
-{110}{}{¿Qué sabes de la Garra Mortal?}
-{111}{}{¿Podrías hablarme otra vez de la Garra Mortal?}
-{112}{}{¿Me puedes contar algo acerca de Decker?}
-{113}{}{¿Qué puedes decirme de los diferentes mercaderes?}
-{114}{}{¿Has oído algún rumor interesante?}
-{115}{}{Gracias, eso es todo. Adiós.}
+{106}{}{Â¿CÃ³mo se pueden conseguir chapas aquÃ­?}
+{107}{}{Nada. AdiÃ³s.}
+{108}{}{Â¿Ruk?}
+{109}{}{Â¿QuÃ© es eso que se comenta de unas caravanas desaparecidas? }
+{110}{}{Â¿QuÃ© sabes de la Garra Mortal?}
+{111}{}{Â¿PodrÃ­as hablarme otra vez de la Garra Mortal?}
+{112}{}{Â¿Me puedes contar algo acerca de Decker?}
+{113}{}{Â¿QuÃ© puedes decirme de los diferentes mercaderes?}
+{114}{}{Â¿Has oÃ­do algÃºn rumor interesante?}
+{115}{}{Gracias, eso es todo. AdiÃ³s.}
 {116}{}{Umm, de nada.}
-{117}{}{Bueno, yo no suelo cotillear, pero he oído que la muerte de Decker estaba relacionada de alguna forma con el asesinato de Jain.}
-{118}{}{Bueno, no suelo hablar a espaldas de la gente, pero conozco a alguien que conoce a una persona que vio a tres figuras vestidas de largo entrar en el Halcón Maltés justo antes de los asesinatos.}
-{119}{}{Bueno, no suelo hablar a espaldas de la gente, pero alguien mató a Jain, la Sacerdotisa Mayor de los Niños de la Catedral. Ellos no me importan, pero no entiendo lo que habría hecho ella para merecer eso.}
-{121}{}{Bueno, no suelo hablar a espaldas de la gente, pero un mercader amigo mío vio a un grupo de mutantes rondando por ahí en el desierto justo pasando la Hermandad del Acero, hacia el noroeste.}
-{122}{}{Bueno, no suelo hablar a espaldas de la gente, pero los Niños de la Catedral han estado preguntando a la gente dónde estabas. Yo tendría cuidado. Son un grupo raro.}
-{123}{}{Bueno, yo no suelo cotillear, pero he oído que la muerte de Decker estaba relacionada de alguna forma con el asesinato de Jain.}
-{124}{}{Hay algo más. Conozco a alguien que conoce a una persona que vio tres figuras vestidas de largo entrar en el Halcón Maltés justo antes de los asesinatos.}
-{125}{}{Hay algo más. Alguien mató a Jain, la Sacerdotisa Mayor de los Niños de la Catedral. Ellos no me importan, pero no entiendo lo que habría hecho ella para merecer eso.}
-{126}{}{Hay algo más. Un mercader amigo mío, vio un grupo de mutantes rondando por ahí en el desierto justo pasando la Hermandad del Acero, hacia el noroeste.}
-{127}{}{Hay algo más. Los Niños de la Catedral han estado preguntando a la gente dónde estabas. Yo tendría cuidado. Son un grupo raro.}
-{128}{}{¿Algo más?}
-{129}{}{Gracias, ¿te puedo hacer otra pregunta?}
+{117}{}{Bueno, yo no suelo cotillear, pero he oÃ­do que la muerte de Decker estaba relacionada de alguna forma con el asesinato de Jain.}
+{118}{}{Bueno, no suelo hablar a espaldas de la gente, pero conozco a alguien que conoce a una persona que vio a tres figuras vestidas de largo entrar en el HalcÃ³n MaltÃ©s justo antes de los asesinatos.}
+{119}{}{Bueno, no suelo hablar a espaldas de la gente, pero alguien matÃ³ a Jain, la Sacerdotisa Mayor de los NiÃ±os de la Catedral. Ellos no me importan, pero no entiendo lo que habrÃ­a hecho ella para merecer eso.}
+{121}{}{Bueno, no suelo hablar a espaldas de la gente, pero un mercader amigo mÃ­o vio a un grupo de mutantes rondando por ahÃ­ en el desierto justo pasando la Hermandad del Acero, hacia el noroeste.}
+{122}{}{Bueno, no suelo hablar a espaldas de la gente, pero los NiÃ±os de la Catedral han estado preguntando a la gente dÃ³nde estabas. Yo tendrÃ­a cuidado. Son un grupo raro.}
+{123}{}{Bueno, yo no suelo cotillear, pero he oÃ­do que la muerte de Decker estaba relacionada de alguna forma con el asesinato de Jain.}
+{124}{}{Hay algo mÃ¡s. Conozco a alguien que conoce a una persona que vio tres figuras vestidas de largo entrar en el HalcÃ³n MaltÃ©s justo antes de los asesinatos.}
+{125}{}{Hay algo mÃ¡s. Alguien matÃ³ a Jain, la Sacerdotisa Mayor de los NiÃ±os de la Catedral. Ellos no me importan, pero no entiendo lo que habrÃ­a hecho ella para merecer eso.}
+{126}{}{Hay algo mÃ¡s. Un mercader amigo mÃ­o, vio un grupo de mutantes rondando por ahÃ­ en el desierto justo pasando la Hermandad del Acero, hacia el noroeste.}
+{127}{}{Hay algo mÃ¡s. Los NiÃ±os de la Catedral han estado preguntando a la gente dÃ³nde estabas. Yo tendrÃ­a cuidado. Son un grupo raro.}
+{128}{}{Â¿Algo mÃ¡s?}
+{129}{}{Gracias, Â¿te puedo hacer otra pregunta?}
 {130}{}{Vale, gracias.}
-{131}{}{Lo siento, ¿de qué se trata?}
-{132}{}{¿Klug?}
-{133}{}{¡Ruk!}
-{134}{}{Lo siento, no te entiendo. Por favor, vuelve cuando estés mejor.}
-{135}{}{No pretendo contratarte, pero hay un cartel donde ofrecen trabajos en el centro del Mercado de los Mercaderes. Quizás quieras echarle una ojeada.}
+{131}{}{Lo siento, Â¿de quÃ© se trata?}
+{132}{}{Â¿Klug?}
+{133}{}{Â¡Ruk!}
+{134}{}{Lo siento, no te entiendo. Por favor, vuelve cuando estÃ©s mejor.}
+{135}{}{No pretendo contratarte, pero hay un cartel donde ofrecen trabajos en el centro del Mercado de los Mercaderes. QuizÃ¡s quieras echarle una ojeada.}
 {136}{}{Vale, gracias.}
-{137}{}{No, al menos nada bueno. Dame una oportunidad para hacer algunas averiguaciones. (Te hace un guiño) ¿Algo más?}
-{138}{}{Sí.}
+{137}{}{No, al menos nada bueno. Dame una oportunidad para hacer algunas averiguaciones. (Te hace un guiÃ±o) Â¿Algo mÃ¡s?}
+{138}{}{SÃ­.}
 {139}{}{No.}
-{140}{}{¿Qué más puedo hacer por ti?}
+{140}{}{Â¿QuÃ© mÃ¡s puedo hacer por ti?}
 {141}{}{Por supuesto que puedes, no seas tonto.}
-{142}{}{Claro, estaré encantada de ayudarte. ¿Qué quieres saber?}
-{143}{}{Muy bien, me ha gustado mucho hablar contigo, ¡qué tengas un buen día!}
-{144}{}{No, eso es todo. ¿Hay algo más de lo que quieras hablar?}
-{145}{}{Sí.}
+{142}{}{Claro, estarÃ© encantada de ayudarte. Â¿QuÃ© quieres saber?}
+{143}{}{Muy bien, me ha gustado mucho hablar contigo, Â¡quÃ© tengas un buen dÃ­a!}
+{144}{}{No, eso es todo. Â¿Hay algo mÃ¡s de lo que quieras hablar?}
+{145}{}{SÃ­.}
 {146}{}{No.}
 {147}{}{Vuelve pronto. Espero verte a menudo.}
-{148}{}{Mira, es alguien con quien nunca debes meterte, a mí me da miedo. Es el "dueño" del Halcón Maltés.}
-{149}{}{¿Por qué lo dices de esa forma? Es el "dueño" del Halcón Maltés.}
-{150}{}{¿Por qué te da miedo? }
-{151}{}{Lo siento, me recuerda a un amigo mío que lo tenía antes. A Decker le gustaba mucho pero mi amigo no quería venderlo. Dos días después lo encontraron muerto en un callejón de la Ciudad Antigua.}
-{152}{}{¿Por qué piensas que Decker es el responsable?}
-{153}{}{Tendría que habérselo pensado mejor antes de meterse con Decker.}
+{148}{}{Mira, es alguien con quien nunca debes meterte, a mÃ­ me da miedo. Es el "dueÃ±o" del HalcÃ³n MaltÃ©s.}
+{149}{}{Â¿Por quÃ© lo dices de esa forma? Es el "dueÃ±o" del HalcÃ³n MaltÃ©s.}
+{150}{}{Â¿Por quÃ© te da miedo? }
+{151}{}{Lo siento, me recuerda a un amigo mÃ­o que lo tenÃ­a antes. A Decker le gustaba mucho pero mi amigo no querÃ­a venderlo. Dos dÃ­as despuÃ©s lo encontraron muerto en un callejÃ³n de la Ciudad Antigua.}
+{152}{}{Â¿Por quÃ© piensas que Decker es el responsable?}
+{153}{}{TendrÃ­a que habÃ©rselo pensado mejor antes de meterse con Decker.}
 {154}{}{Lo siento, pero tengo que irme.}
-{155}{}{Mi amigo era un buen tío. No se acercaría ni a un kilómetro de la Ciudad Antigua. Le dispararon con una pistola mágnum, no hay nadie en la Ciudad Antigua que pueda permitirse tener una de esas. Además, le dispararon una vez en la cabeza y dos en la espalda. ¿A ti te parece que lo hicieron para robarle? Mi amigo solo quería volver a ser dueño de su vida.}
-{156}{}{Oye, me gusta su estilo. Después de matarle, colocas su cuerpo en el lugar que más despreciaba.}
-{157}{}{¿Volver a ser dueño de su vida?}
-{158}{}{Siento oír eso.}
+{155}{}{Mi amigo era un buen tÃ­o. No se acercarÃ­a ni a un kilÃ³metro de la Ciudad Antigua. Le dispararon con una pistola mÃ¡gnum, no hay nadie en la Ciudad Antigua que pueda permitirse tener una de esas. AdemÃ¡s, le dispararon una vez en la cabeza y dos en la espalda. Â¿A ti te parece que lo hicieron para robarle? Mi amigo solo querÃ­a volver a ser dueÃ±o de su vida.}
+{156}{}{Oye, me gusta su estilo. DespuÃ©s de matarle, colocas su cuerpo en el lugar que mÃ¡s despreciaba.}
+{157}{}{Â¿Volver a ser dueÃ±o de su vida?}
+{158}{}{Siento oÃ­r eso.}
 {159}{}{Oh, vale.}
-{160}{}{Es posible que tu no lo entiendas, pero muchos de nosotros esperamos el día en el que nuestras vidas nos pertenezcan. El día en el que nuestras vidas no pertenezcan a los prestamistas o a los mercaderes.}
+{160}{}{Es posible que tu no lo entiendas, pero muchos de nosotros esperamos el dÃ­a en el que nuestras vidas nos pertenezcan. El dÃ­a en el que nuestras vidas no pertenezcan a los prestamistas o a los mercaderes.}
 {161}{}{Oh, gracias.}
-{162}{}{¡¿Nunca paras de hablar?!}
-{163}{}{¡Eso es lo más estúpido que he oído nunca!}
-{164}{}{¿Hay algo más que pueda hacer por ti?}
-{165}{}{Perdona. TÚ preguntaste.}
-{166}{}{Es la persona más temible del Eje, mucha gente dice que es él quien dirige este lugar, no los mercaderes o la policía. Si alguna vez te cruzas con él, ¡ten cuidado!}
+{162}{}{Â¡Â¿Nunca paras de hablar?!}
+{163}{}{Â¡Eso es lo mÃ¡s estÃºpido que he oÃ­do nunca!}
+{164}{}{Â¿Hay algo mÃ¡s que pueda hacer por ti?}
+{165}{}{Perdona. TÃš preguntaste.}
+{166}{}{Es la persona mÃ¡s temible del Eje, mucha gente dice que es Ã©l quien dirige este lugar, no los mercaderes o la policÃ­a. Si alguna vez te cruzas con Ã©l, Â¡ten cuidado!}
 {167}{}{Eso no le da derecho a matar a nadie.}
-{168}{}{Me pones nerviosa, por favor, vete. Seguro que echa de menos tu compañía.}
-{169}{}{Hay tres grupos principales de mercaderes, los Mercaderes de Agua, la Caravana Carmesí, y los Comerciantes de Ultramar. También se ocupan del Gobierno de la ciudad. ¿De quién quieres que te hable?}
+{168}{}{Me pones nerviosa, por favor, vete. Seguro que echa de menos tu compaÃ±Ã­a.}
+{169}{}{Hay tres grupos principales de mercaderes, los Mercaderes de Agua, la Caravana CarmesÃ­, y los Comerciantes de Ultramar. TambiÃ©n se ocupan del Gobierno de la ciudad. Â¿De quiÃ©n quieres que te hable?}
 {170}{}{De los Mercaderes de Agua.}
-{172}{}{De la Caravana Carmesí.}
+{172}{}{De la Caravana CarmesÃ­.}
 {173}{}{De los Comerciantes de Ultramar.}
 {174}{}{Del Gobierno de la ciudad.}
-{175}{}{Esto es todo. Gracias por la información.}
-{176}{}{No hay de qué.}
-{177}{}{Se encargan de toda el agua. Son gente avara, no me gustaría trabajar para ellos. Su paga es la peor y el trabajo es por el estilo.}
-{178}{}{¿Siempre han controlado el agua? }
-{179}{}{¿Son ellos los que están detrás de las caravanas desaparecidas?}
+{175}{}{Esto es todo. Gracias por la informaciÃ³n.}
+{176}{}{No hay de quÃ©.}
+{177}{}{Se encargan de toda el agua. Son gente avara, no me gustarÃ­a trabajar para ellos. Su paga es la peor y el trabajo es por el estilo.}
+{178}{}{Â¿Siempre han controlado el agua? }
+{179}{}{Â¿Son ellos los que estÃ¡n detrÃ¡s de las caravanas desaparecidas?}
 {180}{}{Gracias, otra pregunta sobre los mercaderes...}
-{181}{}{Gracias, adiós.}
-{182}{}{¿Qué más quieres saber?}
-{183}{}{No. Por lo que he oído, hace tiempo un grupo de mercaderes se apoderaron de la Torre de Agua y proclamaron que eran los mercaderes de agua y que la gente tenía que pedirles agua a ellos. La guerra del agua duró años hasta que llego un hombre llamado Roy Greene, sí, el abuelo de Justin. Ayudó en la negociación del acuerdo que acabó con la guerra.}
-{184}{}{¿Qué clase de acuerdo?}
-{185}{}{¡Maldita sea! Siento haberlo preguntado.}
+{181}{}{Gracias, adiÃ³s.}
+{182}{}{Â¿QuÃ© mÃ¡s quieres saber?}
+{183}{}{No. Por lo que he oÃ­do, hace tiempo un grupo de mercaderes se apoderaron de la Torre de Agua y proclamaron que eran los mercaderes de agua y que la gente tenÃ­a que pedirles agua a ellos. La guerra del agua durÃ³ aÃ±os hasta que llego un hombre llamado Roy Greene, sÃ­, el abuelo de Justin. AyudÃ³ en la negociaciÃ³n del acuerdo que acabÃ³ con la guerra.}
+{184}{}{Â¿QuÃ© clase de acuerdo?}
+{185}{}{Â¡Maldita sea! Siento haberlo preguntado.}
 {186}{}{Gracias, otra pregunta sobre los mercaderes...}
-{187}{}{Gracias, adiós.}
-{188}{}{Instauró el gobierno de la ciudad y puso un límite en el precio del agua. Personalmente creo que deberían haberles quitado del medio... ¡oh, perdón! Quiero decir que deberían haberles enseñado quién manda.}
-{189}{}{Está bien. No necesitaba toda esta información, pero gracias de todas formas.}
+{187}{}{Gracias, adiÃ³s.}
+{188}{}{InstaurÃ³ el gobierno de la ciudad y puso un lÃ­mite en el precio del agua. Personalmente creo que deberÃ­an haberles quitado del medio... Â¡oh, perdÃ³n! Quiero decir que deberÃ­an haberles enseÃ±ado quiÃ©n manda.}
+{189}{}{EstÃ¡ bien. No necesitaba toda esta informaciÃ³n, pero gracias de todas formas.}
 {190}{}{Gracias, otra pregunta sobre los mercaderes...}
-{191}{}{Gracias, adiós.}
-{192}{}{Lo siento, me dejo llevar muy fácilmente. ¿Querías saber algo más?}
-{193}{}{La Caravana Carmesí es una banda de gente loca. Hacen cualquier trabajo, sin tener en cuenta el riesgo. Me sorprende que no pierdan más caravanas de las que ya han perdido.}
-{194}{}{¿También les faltan caravanas?}
-{195}{}{¿Cómo es de arriesgado?}
+{191}{}{Gracias, adiÃ³s.}
+{192}{}{Lo siento, me dejo llevar muy fÃ¡cilmente. Â¿QuerÃ­as saber algo mÃ¡s?}
+{193}{}{La Caravana CarmesÃ­ es una banda de gente loca. Hacen cualquier trabajo, sin tener en cuenta el riesgo. Me sorprende que no pierdan mÃ¡s caravanas de las que ya han perdido.}
+{194}{}{Â¿TambiÃ©n les faltan caravanas?}
+{195}{}{Â¿CÃ³mo es de arriesgado?}
 {196}{}{Gracias, otra pregunta sobre los mercaderes...}
-{197}{}{Gracias, adiós.}
-{198}{}{Pasan exactamente por un área que acaba de ser atacada por los saqueadores. Cobran mucho, así que pueden contratar a más gente. La paga es muy buena pero tienes que seguir vivo para gastarlo, ¿entiendes?}
-{199}{}{¿También les faltan caravanas?}
+{197}{}{Gracias, adiÃ³s.}
+{198}{}{Pasan exactamente por un Ã¡rea que acaba de ser atacada por los saqueadores. Cobran mucho, asÃ­ que pueden contratar a mÃ¡s gente. La paga es muy buena pero tienes que seguir vivo para gastarlo, Â¿entiendes?}
+{199}{}{Â¿TambiÃ©n les faltan caravanas?}
 {200}{}{Gracias, otra pregunta sobre los mercaderes...}
-{201}{}{Gracias, adiós.}
+{201}{}{Gracias, adiÃ³s.}
 {202}{}{En realidad a todos los mercaderes les han desaparecido caravanas. Supongo que los Comerciantes de Ultramar no tienen suerte.}
-{203}{}{¿Cómo es de arriesgado?}
+{203}{}{Â¿CÃ³mo es de arriesgado?}
 {204}{}{Gracias, otra pregunta sobre los mercaderes...}
-{205}{}{Gracias, adiós.}
-{206}{}{Los Comerciantes de Ultramar pagan bien y sus trabajos no son tan mortíferos. Butch es el dueño de esta tienda, es un buen hombre. Son legales y me dejan hacer lo que quiera. Me gusta trabajar con ellos. Además si trabajas para Butch, tienes descuento en lo que compres aquí.}
-{207}{}{Personalmente, no lo creo. Creo que fue la Garra Mortal o quizás la Hermandad del Acero.}
-{208}{}{¿Por qué no crees que fueran los Mercaderes de Agua?}
-{209}{}{¿Qué es exactamente una Garra Mortal?}
-{210}{}{¿Me puedes hablar otra vez de la Garra Mortal?}
-{211}{}{¿Quiénes son los de la Hermandad?}
-{212}{}{¿Por qué piensas que fue la Hermandad del Acero?}
+{205}{}{Gracias, adiÃ³s.}
+{206}{}{Los Comerciantes de Ultramar pagan bien y sus trabajos no son tan mortÃ­feros. Butch es el dueÃ±o de esta tienda, es un buen hombre. Son legales y me dejan hacer lo que quiera. Me gusta trabajar con ellos. AdemÃ¡s si trabajas para Butch, tienes descuento en lo que compres aquÃ­.}
+{207}{}{Personalmente, no lo creo. Creo que fue la Garra Mortal o quizÃ¡s la Hermandad del Acero.}
+{208}{}{Â¿Por quÃ© no crees que fueran los Mercaderes de Agua?}
+{209}{}{Â¿QuÃ© es exactamente una Garra Mortal?}
+{210}{}{Â¿Me puedes hablar otra vez de la Garra Mortal?}
+{211}{}{Â¿QuiÃ©nes son los de la Hermandad?}
+{212}{}{Â¿Por quÃ© piensas que fue la Hermandad del Acero?}
 {213}{}{Gracias, volvamos a los mercaderes...}
 {214}{}{Vale. Bueno, tengo que irme.}
-{215}{}{Hay gente que piensa que fueron los Mercaderes de Agua, pero yo no lo creo. Creo que fue esa maldita Garra Mortal, o quizás la gente de la Hermandad del Acero.}
-{216}{}{Pensé que estaban destrozando las caravanas, pero me temo que no. Aún sigue ahí fuera. Hay demasiados rumores flotando por ahí como para que no exista.}
-{217}{}{Creo que eso es lo que está atacando las caravanas. Pueden ser también la Hermandad del Acero, son un grupo raro. Alguna gente piensa que han sido los Comerciantes de Ultramar, pero están equivocados.}
+{215}{}{Hay gente que piensa que fueron los Mercaderes de Agua, pero yo no lo creo. Creo que fue esa maldita Garra Mortal, o quizÃ¡s la gente de la Hermandad del Acero.}
+{216}{}{PensÃ© que estaban destrozando las caravanas, pero me temo que no. AÃºn sigue ahÃ­ fuera. Hay demasiados rumores flotando por ahÃ­ como para que no exista.}
+{217}{}{Creo que eso es lo que estÃ¡ atacando las caravanas. Pueden ser tambiÃ©n la Hermandad del Acero, son un grupo raro. Alguna gente piensa que han sido los Comerciantes de Ultramar, pero estÃ¡n equivocados.}
 {218}{}{Claro.}
-{219}{}{Porque, tal y como he dicho a todos, a ellos también les han desaparecido algunas caravanas. Nada en comparación a lo que está pasando con los Comerciantes de Ultramar, pero también les afecta.}
+{219}{}{Porque, tal y como he dicho a todos, a ellos tambiÃ©n les han desaparecido algunas caravanas. Nada en comparaciÃ³n a lo que estÃ¡ pasando con los Comerciantes de Ultramar, pero tambiÃ©n les afecta.}
 {220}{}{Pueden estar mintiendo o puede ser parte de su plan, para que les creamos.}
-{221}{}{¿Por qué debería de sucederles más a los Comerciantes de Ultramar que a los otros?}
+{221}{}{Â¿Por quÃ© deberÃ­a de sucederles mÃ¡s a los Comerciantes de Ultramar que a los otros?}
 {222}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {223}{}{Gracias, volvamos a los mercaderes...}
-{224}{}{¡Eres idiota!}
+{224}{}{Â¡Eres idiota!}
 {225}{}{Gracias, pero tengo que irme.}
-{226}{}{¡Discúlpate! Juzgas demasiado deprisa, ¿tienes miedo de la verdad?}
+{226}{}{Â¡DiscÃºlpate! Juzgas demasiado deprisa, Â¿tienes miedo de la verdad?}
 {227}{}{Hay seis representantes, dos por cada grupo principal de mercaderes. Se necesitan por lo menos cuatro votos para un acuerdo. Nunca se ponen de acuerdo en nada.}
-{228}{}{Bien pensado, pero lo dudo mucho. Han estado saboteándose durante años. No es su estilo, no se gastarían tantas chapas para sacar las caravanas. Además todas las caravanas están estrictamente vigiladas. ¿Crees que alguien podría escapar? No tienen la fuerza humana suficiente ni el poder para terminar con ello. Habría habido al menos un superviviente.}
-{229}{}{Sí, ¿pero por qué debería de sucederles más a los Comerciantes de Ultramar que a los otros?}
+{228}{}{Bien pensado, pero lo dudo mucho. Han estado saboteÃ¡ndose durante aÃ±os. No es su estilo, no se gastarÃ­an tantas chapas para sacar las caravanas. AdemÃ¡s todas las caravanas estÃ¡n estrictamente vigiladas. Â¿Crees que alguien podrÃ­a escapar? No tienen la fuerza humana suficiente ni el poder para terminar con ello. HabrÃ­a habido al menos un superviviente.}
+{229}{}{SÃ­, Â¿pero por quÃ© deberÃ­a de sucederles mÃ¡s a los Comerciantes de Ultramar que a los otros?}
 {230}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {231}{}{Gracias, volvamos a los mercaderes...}
 {232}{}{Gracias, pero tengo que irme.}
-{233}{}{¿Mala suerte? No sé, quizás estén yendo por rutas diferentes a los demás. Quizás porque no esté tan estrictamente vigilada como la Caravana Carmesí o... deben tener mejores mercancías que los Mercaderes de Agua. Quién sabe. No parece que haya una diferencia clara entre los tres.}
+{233}{}{Â¿Mala suerte? No sÃ©, quizÃ¡s estÃ©n yendo por rutas diferentes a los demÃ¡s. QuizÃ¡s porque no estÃ© tan estrictamente vigilada como la Caravana CarmesÃ­ o... deben tener mejores mercancÃ­as que los Mercaderes de Agua. QuiÃ©n sabe. No parece que haya una diferencia clara entre los tres.}
 {234}{}{Los Mercaderes de Agua pueden estar mintiendo o puede ser parte de su plan, para que les creamos.}
 {235}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {236}{}{Gracias, volvamos a los mercaderes...}
-{237}{}{¡¿NUNCA paras de hablar, verdad?!}
+{237}{}{Â¡Â¿NUNCA paras de hablar, verdad?!}
 {238}{}{Gracias, pero tengo que irme.}
-{239}{}{¡Perdona! Eres libre de irte cuando quieras. Si no querías oír la respuesta no deberías haber preguntado.}
-{240}{}{La Garra Mortal es la peor cosa que salió de las cenizas de la guerra. Algunos dicen que es un fantasma poderoso que habita en la tierra. No es un fantasma, es tan real como tú y como yo. Mide 6 metros y tiene unos dientes tan largos como tu brazo. Es una especie de demonio que encontró su sitio aquí cuando el mundo estaba sumergido en llamas.}
-{241}{}{¡Uf!, siento haber preguntado.}
-{242}{}{¡Estás mal de la cabeza! Debería acabar contigo aquí y ahora.}
-{243}{}{¿Sabes algo más de la Garra Mortal? }
-{244}{}{¡Guau! ¿Sabes dónde está?}
-{245}{}{Bien, conozco a un viejo mutante de la Ciudad Antigua que se llama Harold. ¡Él la ha visto de verdad! Es el ÚNICO que la ha visto y aún vive.}
-{246}{}{¿El único que la ha visto y aún vive?}
-{247}{}{Sí, claro, y yo soy el papá de una Garra Mortal.}
-{248}{}{Sí, claro, y yo soy la mamá de una Garra Mortal.}
+{239}{}{Â¡Perdona! Eres libre de irte cuando quieras. Si no querÃ­as oÃ­r la respuesta no deberÃ­as haber preguntado.}
+{240}{}{La Garra Mortal es la peor cosa que saliÃ³ de las cenizas de la guerra. Algunos dicen que es un fantasma poderoso que habita en la tierra. No es un fantasma, es tan real como tÃº y como yo. Mide 6 metros y tiene unos dientes tan largos como tu brazo. Es una especie de demonio que encontrÃ³ su sitio aquÃ­ cuando el mundo estaba sumergido en llamas.}
+{241}{}{Â¡Uf!, siento haber preguntado.}
+{242}{}{Â¡EstÃ¡s mal de la cabeza! DeberÃ­a acabar contigo aquÃ­ y ahora.}
+{243}{}{Â¿Sabes algo mÃ¡s de la Garra Mortal? }
+{244}{}{Â¡Guau! Â¿Sabes dÃ³nde estÃ¡?}
+{245}{}{Bien, conozco a un viejo mutante de la Ciudad Antigua que se llama Harold. Â¡Ã‰l la ha visto de verdad! Es el ÃšNICO que la ha visto y aÃºn vive.}
+{246}{}{Â¿El Ãºnico que la ha visto y aÃºn vive?}
+{247}{}{SÃ­, claro, y yo soy el papÃ¡ de una Garra Mortal.}
+{248}{}{SÃ­, claro, y yo soy la mamÃ¡ de una Garra Mortal.}
 {249}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {250}{}{Gracias, volvamos a los mercaderes...}
-{251}{}{Lo comprobaré. Hasta luego.}
-{252}{}{El tío Slappy en la Ciudad Antigua habla de eso a veces, pero tan solo es un pobre viejo medio loco.}
+{251}{}{Lo comprobarÃ©. Hasta luego.}
+{252}{}{El tÃ­o Slappy en la Ciudad Antigua habla de eso a veces, pero tan solo es un pobre viejo medio loco.}
 {253}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {254}{}{Gracias, volvamos a los mercaderes...}
-{255}{}{Gracias, lo comprobaré. Adiós.}
-{256}{}{¡Ya verás!}
-{257}{}{Sí, bastante increíble, ¿verdad? Está en algún sitio al sudoeste. Hay un hombre en la Ciudad Antigua llamado Harold, que la vio en su guarida. ¡Es de la escoria más agradable que conozco!}
+{255}{}{Gracias, lo comprobarÃ©. AdiÃ³s.}
+{256}{}{Â¡Ya verÃ¡s!}
+{257}{}{SÃ­, bastante increÃ­ble, Â¿verdad? EstÃ¡ en algÃºn sitio al sudoeste. Hay un hombre en la Ciudad Antigua llamado Harold, que la vio en su guarida. Â¡Es de la escoria mÃ¡s agradable que conozco!}
 {258}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {259}{}{Gracias, volvamos a los mercaderes...}
-{260}{}{Gracias, lo comprobaré. Adiós.}
-{261}{}{La Hermandad del Acero está llena de gente loca que venera la tecnología; están al noroeste de aquí. Hacen sacrificios humanos y todo tipo de otras cosas horribles.}
-{262}{}{¡Eso es absurdo! ¿Quién te ha dicho eso?}
+{260}{}{Gracias, lo comprobarÃ©. AdiÃ³s.}
+{261}{}{La Hermandad del Acero estÃ¡ llena de gente loca que venera la tecnologÃ­a; estÃ¡n al noroeste de aquÃ­. Hacen sacrificios humanos y todo tipo de otras cosas horribles.}
+{262}{}{Â¡Eso es absurdo! Â¿QuiÃ©n te ha dicho eso?}
 {263}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {264}{}{Gracias, volvamos a los mercaderes...}
-{265}{}{¡Es terrible!, gracias por el aviso. Adiós.}
-{266}{}{Bueno, no me acuerdo, pero quien fuera, no mentiría... Quiero decir que puede ser verdad. De todas formas debes tener cuidado.}
+{265}{}{Â¡Es terrible!, gracias por el aviso. AdiÃ³s.}
+{266}{}{Bueno, no me acuerdo, pero quien fuera, no mentirÃ­a... Quiero decir que puede ser verdad. De todas formas debes tener cuidado.}
 {267}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {268}{}{Bueno, volvamos a los mercaderes...}
-{269}{}{¡Eres idiota!}
-{270}{}{Mira qué hora es, ¡tengo que irme! Hasta otra.}
-{271}{}{Pero, ¿no lo sabes? (Bajando la voz) ¡He oído que hacen sacrificios humanos y todo tipo de otras cosas horribles!}
-{272}{}{Sí, lo hacemos. ¿Qué hay de malo en ello?}
-{273}{}{¡Como MIEMBRO de la Hermandad, te puedo ASEGURAR que no existe NADA de eso!}
-{274}{}{¿En serio? He estado allí, parecían raros pero no tan malos.}
-{275}{}{¿En serio? No tenía ni idea.}
-{276}{}{Como si no lo supieras. Está claro que eres uno de ellos, andando por ahí en ese traje de metal. Sois todos una panda de chiflados.}
-{277}{}{No sé a dónde quieres llegar, pero te aseguro que no está ocurriendo nada "siniestro" en la Hermandad.}
-{278}{}{Sí, claro. ¿Y no lo somos todos?}
-{279}{}{No tenía ni idea.}
-{280}{}{Perdone, señor. Por favor baje el arma.}
-{281}{}{Perdone, señorita. Por favor baje el arma.}
-{282}{}{Lo siento pero no te ayudaré hasta que no bajes tu arma. Esto es una tienda, no un campo de tiro.}
-{283}{}{Ehh... bueno... si... mmm, tú... yo... ¿Necesitabas algo más?}
-{284}{}{Nunca sabes cómo es una persona sin antes conocerla. Tienes que ir con cuidado con quien te asocias. ¿Necesitabas algo más?}
-{285}{}{¿Eres...? Quiero decir. No quería decir... Mmm... Hace un buen día, ¿no crees? Entonces, ¿necesitabas algo más?}
+{269}{}{Â¡Eres idiota!}
+{270}{}{Mira quÃ© hora es, Â¡tengo que irme! Hasta otra.}
+{271}{}{Pero, Â¿no lo sabes? (Bajando la voz) Â¡He oÃ­do que hacen sacrificios humanos y todo tipo de otras cosas horribles!}
+{272}{}{SÃ­, lo hacemos. Â¿QuÃ© hay de malo en ello?}
+{273}{}{Â¡Como MIEMBRO de la Hermandad, te puedo ASEGURAR que no existe NADA de eso!}
+{274}{}{Â¿En serio? He estado allÃ­, parecÃ­an raros pero no tan malos.}
+{275}{}{Â¿En serio? No tenÃ­a ni idea.}
+{276}{}{Como si no lo supieras. EstÃ¡ claro que eres uno de ellos, andando por ahÃ­ en ese traje de metal. Sois todos una panda de chiflados.}
+{277}{}{No sÃ© a dÃ³nde quieres llegar, pero te aseguro que no estÃ¡ ocurriendo nada "siniestro" en la Hermandad.}
+{278}{}{SÃ­, claro. Â¿Y no lo somos todos?}
+{279}{}{No tenÃ­a ni idea.}
+{280}{}{Perdone, seÃ±or. Por favor baje el arma.}
+{281}{}{Perdone, seÃ±orita. Por favor baje el arma.}
+{282}{}{Lo siento pero no te ayudarÃ© hasta que no bajes tu arma. Esto es una tienda, no un campo de tiro.}
+{283}{}{Ehh... bueno... si... mmm, tÃº... yo... Â¿Necesitabas algo mÃ¡s?}
+{284}{}{Nunca sabes cÃ³mo es una persona sin antes conocerla. Tienes que ir con cuidado con quien te asocias. Â¿Necesitabas algo mÃ¡s?}
+{285}{}{Â¿Eres...? Quiero decir. No querÃ­a decir... Mmm... Hace un buen dÃ­a, Â¿no crees? Entonces, Â¿necesitabas algo mÃ¡s?}
 {286}{}{Otra pregunta sobre las caravanas desaparecidas...}
 {287}{}{Gracias, volvamos a los mercaderes...}
-{288}{}{No, eso es. Adiós}
-{289}{}{Claro, lo que tú digas. ¿Puedo hacer algo más por ti?}
-{290}{}{¡Genial! Déjame enseñarte lo que tengo.}
-{291}{}{Tengo las mejores mercancías, ¿qué estás buscando?}
-{292}{}{¡Eso es lo que quería oír! ¿Qué necesitas?}
+{288}{}{No, eso es. AdiÃ³s}
+{289}{}{Claro, lo que tÃº digas. Â¿Puedo hacer algo mÃ¡s por ti?}
+{290}{}{Â¡Genial! DÃ©jame enseÃ±arte lo que tengo.}
+{291}{}{Tengo las mejores mercancÃ­as, Â¿quÃ© estÃ¡s buscando?}
+{292}{}{Â¡Eso es lo que querÃ­a oÃ­r! Â¿QuÃ© necesitas?}
 {293}{}{Volvamos a los negocios.}
-{294}{}{Si tienes chapas, tienes mi atención.}
-{295}{}{¡Mi clase de cliente favorito!}
-{296}{}{¿Quieres comprar algo? Quizá me equivoque contigo.}
+{294}{}{Si tienes chapas, tienes mi atenciÃ³n.}
+{295}{}{Â¡Mi clase de cliente favorito!}
+{296}{}{Â¿Quieres comprar algo? QuizÃ¡ me equivoque contigo.}
 {297}{}{Oh, muy bien. Trabajas para Butch, te hago el 15% de descuento.}
-{298}{}{Aun así te hago el 15% de descuento, porque me gustas.}
-{299}{}{Lo siento, ya no te hago ningún descuento.}
-{300}{}{Muéstrame lo que tienes a la venta.}
-{301}{}{¿Tienes algo bueno?}
+{298}{}{Aun asÃ­ te hago el 15% de descuento, porque me gustas.}
+{299}{}{Lo siento, ya no te hago ningÃºn descuento.}
+{300}{}{MuÃ©strame lo que tienes a la venta.}
+{301}{}{Â¿Tienes algo bueno?}
 {302}{}{Bueno, veamos.}
 {303}{}{Claro.}
-{304}{}{¿Qué tienes para mí hoy?}
-{305}{}{Muy bien. Siempre puedo usar más mercancía.}
-{306}{}{Me encantaría echar un vistazo a lo que tienes.}
-{307}{}{No intentes engañarme.}
-{308}{}{Quizá deje que me vendas algo, más vale que sea bueno.}
-{309}{}{Será mejor que no me hagas perder el tiempo.}
-{310}{}{Espero que esta vez tengas algo útil.}
-{311}{}{Hola de nuevo. Me alegro de verte. ¿En qué te puedo ayudar hoy?}
-{312}{}{¡Eh, hola! Me alegro de verte otra vez. ¿En qué te puedo ayudar?}
-{313}{}{Me gustaría coger el día libre, hace tan bueno fuera...}
-{314}{}{¿Por qué saludas otra vez, no estamos guapo hoy?}
-{315}{}{¿Ya estás de vuelta?}
-{316}{}{Acabas de irte. ¿Ya me echabas de menos?}
+{304}{}{Â¿QuÃ© tienes para mÃ­ hoy?}
+{305}{}{Muy bien. Siempre puedo usar mÃ¡s mercancÃ­a.}
+{306}{}{Me encantarÃ­a echar un vistazo a lo que tienes.}
+{307}{}{No intentes engaÃ±arme.}
+{308}{}{QuizÃ¡ deje que me vendas algo, mÃ¡s vale que sea bueno.}
+{309}{}{SerÃ¡ mejor que no me hagas perder el tiempo.}
+{310}{}{Espero que esta vez tengas algo Ãºtil.}
+{311}{}{Hola de nuevo. Me alegro de verte. Â¿En quÃ© te puedo ayudar hoy?}
+{312}{}{Â¡Eh, hola! Me alegro de verte otra vez. Â¿En quÃ© te puedo ayudar?}
+{313}{}{Me gustarÃ­a coger el dÃ­a libre, hace tan bueno fuera...}
+{314}{}{Â¿Por quÃ© saludas otra vez, no estamos guapo hoy?}
+{315}{}{Â¿Ya estÃ¡s de vuelta?}
+{316}{}{Acabas de irte. Â¿Ya me echabas de menos?}
 {317}{}{Ya necesito algo.}
-{318}{}{¡Cuánto tiempo!, ¿en qué te puedo ayudar hoy?}
+{318}{}{Â¡CuÃ¡nto tiempo!, Â¿en quÃ© te puedo ayudar hoy?}
 {319}{}{Ha pasado mucho tiempo, espero que todo te haya ido bien.}
-{320}{}{Veo que todavía vives. Me estaba empezando a preocupar. ¿Qué te puedo ofrecer hoy?}
-{321}{}{Aquí estás. Ha pasado más de una semana desde la última vez que estuviste aquí. Debemos mantenernos en contacto, ¡ERES mi cliente favorito!}
-{322}{}{¿Sí?}
-{323}{}{¿Qué?}
-{324}{}{¿Has venido a comprar algo o qué?}
-{325}{}{Esta es mi tienda, será mejor que te comportes.}
-{326}{}{¡Qué pasa!}
-{327}{}{¿Otra vez tú?}
-{328}{}{El tiempo vale chapas, ¿qué quieres?}
-{329}{}{¿Necesitabas algo?}
-{330}{}{¿Has oído? ¡Está muerto! ¡Me siento llena de alegría! Es lo mejor que jamás haya ocurrido en esta ciudad.}
-{331}{}{Ya te lo dije. ¡Está muerto! Olvidémosle, su nombre trae malos recuerdos.}
-{332}{}{Oh, sí.}
-{333}{}{Sí, se lo merecía y no me siento mal por haberlo hecho.}
-{334}{}{¿Lo hiciste? ¿De verdad? ¡Te quiero! (Mira a Sid) Ni lo pienses listillo... aquí tienes, para mostrarte mi gratitud. (Te da seis estimulantes.) ¡No es mucho, pero te lo agradezco de verdad!}
-{335}{}{¿Lo hiciste? ¿De verdad? ¡Eres genial! No sabes lo feliz que me puse cuando oí que había muerto. Toma, coge esto... (Te da seis estimulantes.) ¡No es mucho, pero te lo agradezco de verdad!}
+{320}{}{Veo que todavÃ­a vives. Me estaba empezando a preocupar. Â¿QuÃ© te puedo ofrecer hoy?}
+{321}{}{AquÃ­ estÃ¡s. Ha pasado mÃ¡s de una semana desde la Ãºltima vez que estuviste aquÃ­. Debemos mantenernos en contacto, Â¡ERES mi cliente favorito!}
+{322}{}{Â¿SÃ­?}
+{323}{}{Â¿QuÃ©?}
+{324}{}{Â¿Has venido a comprar algo o quÃ©?}
+{325}{}{Esta es mi tienda, serÃ¡ mejor que te comportes.}
+{326}{}{Â¡QuÃ© pasa!}
+{327}{}{Â¿Otra vez tÃº?}
+{328}{}{El tiempo vale chapas, Â¿quÃ© quieres?}
+{329}{}{Â¿Necesitabas algo?}
+{330}{}{Â¿Has oÃ­do? Â¡EstÃ¡ muerto! Â¡Me siento llena de alegrÃ­a! Es lo mejor que jamÃ¡s haya ocurrido en esta ciudad.}
+{331}{}{Ya te lo dije. Â¡EstÃ¡ muerto! OlvidÃ©mosle, su nombre trae malos recuerdos.}
+{332}{}{Oh, sÃ­.}
+{333}{}{SÃ­, se lo merecÃ­a y no me siento mal por haberlo hecho.}
+{334}{}{Â¿Lo hiciste? Â¿De verdad? Â¡Te quiero! (Mira a Sid) Ni lo pienses listillo... aquÃ­ tienes, para mostrarte mi gratitud. (Te da seis estimulantes.) Â¡No es mucho, pero te lo agradezco de verdad!}
+{335}{}{Â¿Lo hiciste? Â¿De verdad? Â¡Eres genial! No sabes lo feliz que me puse cuando oÃ­ que habÃ­a muerto. Toma, coge esto... (Te da seis estimulantes.) Â¡No es mucho, pero te lo agradezco de verdad!}
 {336}{}{Lo siento, pero no tengo nada que te guste.}
-{337}{}{¿No ves nada que te guste? Trataré de traer mejor mercancía.}
-{338}{}{Lamento que mi oferta no te parezca bien, pero tengo que sacar algún beneficio de ella.}
-{339}{}{¿Después de todo no quieres vender? Está bien.}
-{340}{}{Siento no poder ayudarte. Que tengas un buen día.}
-{341}{}{Quizás la próxima vez. Adiós.}
-{342}{}{Espero poder ayudarte la próxima vez.}
+{337}{}{Â¿No ves nada que te guste? TratarÃ© de traer mejor mercancÃ­a.}
+{338}{}{Lamento que mi oferta no te parezca bien, pero tengo que sacar algÃºn beneficio de ella.}
+{339}{}{Â¿DespuÃ©s de todo no quieres vender? EstÃ¡ bien.}
+{340}{}{Siento no poder ayudarte. Que tengas un buen dÃ­a.}
+{341}{}{QuizÃ¡s la prÃ³xima vez. AdiÃ³s.}
+{342}{}{Espero poder ayudarte la prÃ³xima vez.}
 {343}{}{Deja de hacerme perder el tiempo.}
 {344}{}{Si no vas a comprar nada, vete, por favor.}
-{345}{}{Si no vas a comprar nada me gustaría que me dejaras en paz.}
+{345}{}{Si no vas a comprar nada me gustarÃ­a que me dejaras en paz.}
 {346}{}{Si no vas a vender nada, vete, por favor.}
 {347}{}{No me molestes si no quieres vender nada.}
 {348}{}{Por favor, vete.}
-{349}{}{Sabía que me harías perder el tiempo otra vez.}
-{350}{}{Ya ves, sabía que no tenías ni una chapa.}
-{351}{}{Gracias por todo, quizás hoy me vaya pronto a casa.}
-{352}{}{¡Casi me dejas sin nada!}
-{353}{}{¡Espero que puedas llevar todo eso!}
-{354}{}{Gracias, ¡espero que pueda vender todas estas cosas!}
-{356}{}{Esto debería venderse bien, gracias.}
+{349}{}{SabÃ­a que me harÃ­as perder el tiempo otra vez.}
+{350}{}{Ya ves, sabÃ­a que no tenÃ­as ni una chapa.}
+{351}{}{Gracias por todo, quizÃ¡s hoy me vaya pronto a casa.}
+{352}{}{Â¡Casi me dejas sin nada!}
+{353}{}{Â¡Espero que puedas llevar todo eso!}
+{354}{}{Gracias, Â¡espero que pueda vender todas estas cosas!}
+{356}{}{Esto deberÃ­a venderse bien, gracias.}
 {357}{}{Puedo usar esto. Gracias.}
-{358}{}{¡Espero tener sitio para todo esto!}
-{359}{}{¡Muchas gracias por todo! ¡Que tengas un buen día!}
-{360}{}{Gracias por todo, por favor, ven más a menudo.}
-{361}{}{Mis puertas siempre estarán abiertas para ti, quiero decir en horas de trabajo.}
-{362}{}{Gracias y que tengas un buen día.}
-{363}{}{¡Adiós! ¡Y gracias!}
-{364}{}{¿Eso es todo? ¿Solo munición? ¡Qué decepción! ¡La próxima vez necesitarás gastar más!}
-{365}{}{¿Almacenas la munición? Es una buena idea. Nunca se tienen bastante.}
-{366}{}{¿Solo lo necesario, no? ¡Adiós!}
+{358}{}{Â¡Espero tener sitio para todo esto!}
+{359}{}{Â¡Muchas gracias por todo! Â¡Que tengas un buen dÃ­a!}
+{360}{}{Gracias por todo, por favor, ven mÃ¡s a menudo.}
+{361}{}{Mis puertas siempre estarÃ¡n abiertas para ti, quiero decir en horas de trabajo.}
+{362}{}{Gracias y que tengas un buen dÃ­a.}
+{363}{}{Â¡AdiÃ³s! Â¡Y gracias!}
+{364}{}{Â¿Eso es todo? Â¿Solo municiÃ³n? Â¡QuÃ© decepciÃ³n! Â¡La prÃ³xima vez necesitarÃ¡s gastar mÃ¡s!}
+{365}{}{Â¿Almacenas la municiÃ³n? Es una buena idea. Nunca se tienen bastante.}
+{366}{}{Â¿Solo lo necesario, no? Â¡AdiÃ³s!}
 {367}{}{Bueno, realmente no pensaba que fueras a comprar algo.}
 {368}{}{Gracias por todo, no ha ido tan mal.}
-{369}{}{Gracias por las mercancías.}
-{370}{}{Que tengas un buen día.}
-{371}{}{Adiós.}
+{369}{}{Gracias por las mercancÃ­as.}
+{370}{}{Que tengas un buen dÃ­a.}
+{371}{}{AdiÃ³s.}
 {372}{}{Gracias.}
-{373}{}{Gracias por la compra, qué tengas un buen día.}
-{374}{}{¡Te he oído!}
-{375}{}{¡No bromeo!}
-{376}{}{¡Sid! ¡Basta ya!}
-{377}{}{Te daré un regalito si no te callas.}
-{378}{}{¡Te he oído! ¡Estás despedida!}
-{379}{}{Ignórale, siempre lo hago.}
+{373}{}{Gracias por la compra, quÃ© tengas un buen dÃ­a.}
+{374}{}{Â¡Te he oÃ­do!}
+{375}{}{Â¡No bromeo!}
+{376}{}{Â¡Sid! Â¡Basta ya!}
+{377}{}{Te darÃ© un regalito si no te callas.}
+{378}{}{Â¡Te he oÃ­do! Â¡EstÃ¡s despedida!}
+{379}{}{IgnÃ³rale, siempre lo hago.}
 {380}{}{Oh, eres tan divertido Sid.}
-{381}{}{Ya te gustaría.}
+{381}{}{Ya te gustarÃ­a.}
 {382}{}{Cierra el pico.}
 {383}{}{Ey. No te muevas Sid.}
 {384}{}{No soy tan lista.}
-{385}{}{Te pondré morada la cara si no dejas a mis clientes en paz.}
-{386}{}{Por favor, perdona mi "asquerosa"... quiero decir, "útil" vigilancia.}
-{387}{}{¡Menudo cabezota!}
-{388}{}{¡Sid!}
-{389}{}{¿Cariño? ¿De dónde te salen todos esos nombres molestos?}
+{385}{}{Te pondrÃ© morada la cara si no dejas a mis clientes en paz.}
+{386}{}{Por favor, perdona mi "asquerosa"... quiero decir, "Ãºtil" vigilancia.}
+{387}{}{Â¡Menudo cabezota!}
+{388}{}{Â¡Sid!}
+{389}{}{Â¿CariÃ±o? Â¿De dÃ³nde te salen todos esos nombres molestos?}
 {390}{}{*suspira* Yo}
-{391}{}{ debería encerrarle. ¿No crees?}
-{392}{}{¡Creo que está celoso!}
-{393}{}{¡Sid!, ¡no seas maleducado con los clientes!}
-{394}{}{¿Conoces a alguien más que tenga información sobre la Garra Mortal?}
-{395}{}{Adiós.}
+{391}{}{ deberÃ­a encerrarle. Â¿No crees?}
+{392}{}{Â¡Creo que estÃ¡ celoso!}
+{393}{}{Â¡Sid!, Â¡no seas maleducado con los clientes!}
+{394}{}{Â¿Conoces a alguien mÃ¡s que tenga informaciÃ³n sobre la Garra Mortal?}
+{395}{}{AdiÃ³s.}
 {396}{}{Gracias.}
 {397}{}{Vale.}
-{398}{}{¿Hay algún lugar de la ciudad que deba evitar?}
-{399}{}{Oh, sí. Deberías mantenerte lo más lejos posible del Halcón Maltés. Decker y su perrito faldero Kane no son buenos. Te comerán vivo si no andas con cuidado. Y lo mismo te digo de Lorenzo y de la Compañía de Crédito Amistoso.}
+{398}{}{Â¿Hay algÃºn lugar de la ciudad que deba evitar?}
+{399}{}{Oh, sÃ­. DeberÃ­as mantenerte lo mÃ¡s lejos posible del HalcÃ³n MaltÃ©s. Decker y su perrito faldero Kane no son buenos. Te comerÃ¡n vivo si no andas con cuidado. Y lo mismo te digo de Lorenzo y de la CompaÃ±Ã­a de CrÃ©dito Amistoso.}

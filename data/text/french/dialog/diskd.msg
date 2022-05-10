@@ -1,9 +1,9 @@
-{100}{}{C'est une sorte de disquette bizarre. Peut-être qu'il peut être lu dans ton Pip-Boy 2000.}
-{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
-{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
-{103}{}{Tu remarques une étiquette fanée par le temps sur le disque. Il y est écrit: "Notes sur les expériences Delta".}
-{104}{}{Tu vois: Disque sur les expériences Delta.}
-{105}{}{L'armée a jugé nécessaire que nous approfondissions nos recherches sur l'effet de la technologie des ondes sur les organismes vivants. La lumière et le son sont les bases de nos études. En manipulant les longueurs d'ondes et en amplifiant les fréquences, nous avons été capable de créer des rayons lasers capables de pénétrer dans plusieurs mètres d'acier. Malheureusement, les capacités d'un tel engin n'ont pas été complètement développées. Nous avons actuellement d'autres scientifiques qui se penchent sur le sujet.}
+{100}{}{C'est une sorte de disquette bizarre. Peut-Ãªtre qu'il peut Ãªtre lu dans ton Pip-Boy 2000.}
+{101}{}{Message du Pip-Boy : fichier dÃ©jÃ  prÃ©sent sur le systÃ¨me. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des donnÃ©es sur le disque. TerminÃ©.}
+{103}{}{Tu remarques une Ã©tiquette fanÃ©e par le temps sur le disque. Il y est Ã©crit: "Notes sur les expÃ©riences Delta".}
+{104}{}{Tu vois: Disque sur les expÃ©riences Delta.}
+{105}{}{L'armÃ©e a jugÃ© nÃ©cessaire que nous approfondissions nos recherches sur l'effet de la technologie des ondes sur les organismes vivants. La lumiÃ¨re et le son sont les bases de nos Ã©tudes. En manipulant les longueurs d'ondes et en amplifiant les frÃ©quences, nous avons Ã©tÃ© capable de crÃ©er des rayons lasers capables de pÃ©nÃ©trer dans plusieurs mÃ¨tres d'acier. Malheureusement, les capacitÃ©s d'un tel engin n'ont pas Ã©tÃ© complÃ¨tement dÃ©veloppÃ©es. Nous avons actuellement d'autres scientifiques qui se penchent sur le sujet.}
 {106}{}{**BEGIN-DISK**}
 {107}{}{**END-DISK**}
 {108}{}{[Continue]}

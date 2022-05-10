@@ -1,72 +1,72 @@
 {100}{}{Ves: a Vinnie, de la banda de los Kalaveras.}
 {101}{}{Ves a un hombre joven con un tatuaje y aspecto de malo.}
-{102}{}{Me gustaría unirme a vosotros, muchachos.}
-{103}{}{Estás en territorio de los Kalaveras, forastero. Será mejor que hables rápido.}
+{102}{}{Me gustarÃ­a unirme a vosotros, muchachos.}
+{103}{}{EstÃ¡s en territorio de los Kalaveras, forastero. SerÃ¡ mejor que hables rÃ¡pido.}
 {104}{}{Lo siento, sala equivocada.}
-{105}{}{¿Los Kalaveras? ¿Quiénes sois, muchachos?}
-{106}{}{¿Ergh?}
-{107}{}{¡No sabes hasta qué punto te has equivocado de sitio!}
-{108}{}{Somos la única banda de Ciudad Vertedero. Tenemos el control de las calles, y gobernamos en la ciudad por la noche.}
-{109}{}{Oh. Lo siento. Adiós.}
+{105}{}{Â¿Los Kalaveras? Â¿QuiÃ©nes sois, muchachos?}
+{106}{}{Â¿Ergh?}
+{107}{}{Â¡No sabes hasta quÃ© punto te has equivocado de sitio!}
+{108}{}{Somos la Ãºnica banda de Ciudad Vertedero. Tenemos el control de las calles, y gobernamos en la ciudad por la noche.}
+{109}{}{Oh. Lo siento. AdiÃ³s.}
 {110}{}{No pudiste controlar el patio del colegio, Cromo.}
-{111}{}{Creía que esta ciudad la dirigía Gizmo fuera de horas.}
-{112}{}{¡Largo de aquí, imbécil!}
-{113}{}{Ese patán ni siquiera puede mantenerse en pie. Somos los musculitos de la ciudad. Tenemos lo que queremos.}
+{111}{}{CreÃ­a que esta ciudad la dirigÃ­a Gizmo fuera de horas.}
+{112}{}{Â¡Largo de aquÃ­, imbÃ©cil!}
+{113}{}{Ese patÃ¡n ni siquiera puede mantenerse en pie. Somos los musculitos de la ciudad. Tenemos lo que queremos.}
 {114}{}{Ya veo.}
-{115}{}{¿Tienes algún tipo de trato con Killian?}
-{116}{}{¡¿Qué?! ¡Me las pagarás por ese comentario!}
-{117}{}{Nosotros no molestamos a Killian y él no nos molesta a nosotros mientras lo tengamos pillado. ¿Lo coges?}
-{118}{}{Sí. Adiós.}
+{115}{}{Â¿Tienes algÃºn tipo de trato con Killian?}
+{116}{}{Â¡Â¿QuÃ©?! Â¡Me las pagarÃ¡s por ese comentario!}
+{117}{}{Nosotros no molestamos a Killian y Ã©l no nos molesta a nosotros mientras lo tengamos pillado. Â¿Lo coges?}
+{118}{}{SÃ­. AdiÃ³s.}
 {119}{}{I get it, all right. You have to hide out from him.}
-{120}{}{¡A nadie y menos a Killian! ¡Solo porque piense que es un Sheriff glorioso no significa que controle a los Kalaveras!}
-{121}{}{Lo siento, no quería ofenderos.}
-{122}{}{Así que te corta las alas, ¿eh? A mí también. De hecho estoy pensando darle una paliza. ¿Estás conmigo?}
+{120}{}{Â¡A nadie y menos a Killian! Â¡Solo porque piense que es un Sheriff glorioso no significa que controle a los Kalaveras!}
+{121}{}{Lo siento, no querÃ­a ofenderos.}
+{122}{}{AsÃ­ que te corta las alas, Â¿eh? A mÃ­ tambiÃ©n. De hecho estoy pensando darle una paliza. Â¿EstÃ¡s conmigo?}
 {123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know... all right, I'm in.}
-{124}{}{Eres un perdedor, dijiste que íbamos a darle una paliza a Killian. Largo de aquí.}
+{124}{}{Eres un perdedor, dijiste que Ã­bamos a darle una paliza a Killian. Largo de aquÃ­.}
 {125}{}{Venga, destrocemos a Killian.}
-{126}{}{¿Qué quieres ahora?}
+{126}{}{Â¿QuÃ© quieres ahora?}
 {127}{}{Nada. Lo siento.}
-{128}{}{Busco a alguien que me ayude a deshacerme de Killian. Los Kalaveras me parecieron una buena elección.}
-{129}{}{¡Mierda, no creí que fueras a hacerlo! ¡Los Kalaveras dirigen ahora esta ciudad! ¡Guau!}
-{130}{}{Ya hemos pasado por esto. Tú no tienes cojones, así que ¡largo de aquí!}
-{131}{}{¿O sea que quieres unirte a nosotros? ¿Cómo sabemos que eres lo bastante duro como para ser uno de los Kalaveras?}
-{132}{}{¡Yo te enseñaré lo que es ser duro, hijo de puta!}
+{128}{}{Busco a alguien que me ayude a deshacerme de Killian. Los Kalaveras me parecieron una buena elecciÃ³n.}
+{129}{}{Â¡Mierda, no creÃ­ que fueras a hacerlo! Â¡Los Kalaveras dirigen ahora esta ciudad! Â¡Guau!}
+{130}{}{Ya hemos pasado por esto. TÃº no tienes cojones, asÃ­ que Â¡largo de aquÃ­!}
+{131}{}{Â¿O sea que quieres unirte a nosotros? Â¿CÃ³mo sabemos que eres lo bastante duro como para ser uno de los Kalaveras?}
+{132}{}{Â¡Yo te enseÃ±arÃ© lo que es ser duro, hijo de puta!}
 {133}{}{Deja que os lo demuestre.}
-{134}{}{Confía en mía, soy lo bastante fuerte.}
-{135}{}{[Vinnie te mira y se ríe.] No lo creo.}
-{136}{}{Te lo demostraré.}
-{137}{}{Ya está. Te ha llegado la hora de morir.}
-{138}{}{Tienes razón, ya me iba.}
-{139}{}{¿Qué hace tan duros a los Kalaveras?}
-{140}{}{[Vinnie piensa un momento.] Si quieres demostrarnos que eres bastante bueno para ser de los Kalaveras, tienes que robar las cenizas de la mujer de ese viejo bastardo. Je. [Vinnie habla entre dientes.] Hagamos que Neal sufra en sus dos últimas horas de vida...}
-{141}{}{Está bien, lo haré.}
+{134}{}{ConfÃ­a en mÃ­a, soy lo bastante fuerte.}
+{135}{}{[Vinnie te mira y se rÃ­e.] No lo creo.}
+{136}{}{Te lo demostrarÃ©.}
+{137}{}{Ya estÃ¡. Te ha llegado la hora de morir.}
+{138}{}{Tienes razÃ³n, ya me iba.}
+{139}{}{Â¿QuÃ© hace tan duros a los Kalaveras?}
+{140}{}{[Vinnie piensa un momento.] Si quieres demostrarnos que eres bastante bueno para ser de los Kalaveras, tienes que robar las cenizas de la mujer de ese viejo bastardo. Je. [Vinnie habla entre dientes.] Hagamos que Neal sufra en sus dos Ãºltimas horas de vida...}
+{141}{}{EstÃ¡ bien, lo harÃ©.}
 {142}{}{Ni hablar.}
-{143}{}{Oh, creo que no podría hacer eso.}
+{143}{}{Oh, creo que no podrÃ­a hacer eso.}
 {144}{}{Ya las he robado.}
-{145}{}{Eso no sería tan duro como crees. Ya he matado a ese bastardo.}
-{146}{}{Si eres lo bastante fuerte como para hacer eso, puede que después de todo seas uno de los Kalaveras. Trae lo que tengas.}
-{147}{}{Sabía que no podrías ser de los Kalaveras. Lárgate ahora mismo de aquí.}
-{148}{}{¿Lo tienes?}
-{149}{}{Sí.}
+{145}{}{Eso no serÃ­a tan duro como crees. Ya he matado a ese bastardo.}
+{146}{}{Si eres lo bastante fuerte como para hacer eso, puede que despuÃ©s de todo seas uno de los Kalaveras. Trae lo que tengas.}
+{147}{}{SabÃ­a que no podrÃ­as ser de los Kalaveras. LÃ¡rgate ahora mismo de aquÃ­.}
+{148}{}{Â¿Lo tienes?}
+{149}{}{SÃ­.}
 {150}{}{No.}
-{151}{}{Tuve que matar a Neal para conseguirlas. Lloró como una niña pequeña.}
-{152}{}{¡Ja, ja! Hagamos sufrir al viejo hasta que lo liquidemos esta noche, ¿te apuntas?}
+{151}{}{Tuve que matar a Neal para conseguirlas. LlorÃ³ como una niÃ±a pequeÃ±a.}
+{152}{}{Â¡Ja, ja! Hagamos sufrir al viejo hasta que lo liquidemos esta noche, Â¿te apuntas?}
 {153}{}{He pensado que no quiero tener nada que ver con canallas como vosotros.}
 {154}{}{Venga, vamos a aplastarlo.}
-{155}{}{Tengo que hacer algo antes. Te veré allí.}
-{156}{}{¿Por qué me haces perder el tiempo?}
-{157}{}{Eso enseñará a este jodido viejo. Gracias por ocuparte de él. [A Vinnie se le saltan las lágrimas.] Ahora eres de los Kalaveras.}
+{155}{}{Tengo que hacer algo antes. Te verÃ© allÃ­.}
+{156}{}{Â¿Por quÃ© me haces perder el tiempo?}
+{157}{}{Eso enseÃ±arÃ¡ a este jodido viejo. Gracias por ocuparte de Ã©l. [A Vinnie se le saltan las lÃ¡grimas.] Ahora eres de los Kalaveras.}
 {158}{}{Uh, all right... meet us later, but don't take too long.}
-{159}{}{Pronto, Neal tendrá lo que se merece, ¿verdad?}
-{160}{}{¡Dijimos que volveríamos, viejo mamón!}
-{161}{}{Ha llegado un montón de gente al bar...}
-{162}{}{¡Que te follen, guindilla!}
-{163}{}{Ganas 400 puntos de experiencia por robar la urna de Neal. La muerta nunca descansará en paz.}
+{159}{}{Pronto, Neal tendrÃ¡ lo que se merece, Â¿verdad?}
+{160}{}{Â¡Dijimos que volverÃ­amos, viejo mamÃ³n!}
+{161}{}{Ha llegado un montÃ³n de gente al bar...}
+{162}{}{Â¡Que te follen, guindilla!}
+{163}{}{Ganas 400 puntos de experiencia por robar la urna de Neal. La muerta nunca descansarÃ¡ en paz.}
 {164}{}{Ganas 300 puntos de experiencia por meterle una chapa por el culo a Neal, de los Kalaveras.}
-{165}{}{¿Listo para encargarte de Neal?}
-{166}{}{Sí, vamos a cargarnos a ese bastardo.}
+{165}{}{Â¿Listo para encargarte de Neal?}
+{166}{}{SÃ­, vamos a cargarnos a ese bastardo.}
 {167}{}{Noo, tengo otras cosas que hacer.}
 {168}{}{Ni hablar. No quiero seguir.}
-{169}{}{Es demasiado tarde para eso, cobarde. Si estás fuera, estás fuera.}
+{169}{}{Es demasiado tarde para eso, cobarde. Si estÃ¡s fuera, estÃ¡s fuera.}
 {170}{}{Nosotros dirigimos esta ciudad.}
-{171}{}{¡Eh, colega, nosotros controlamos esta ciudad!}
+{171}{}{Â¡Eh, colega, nosotros controlamos esta ciudad!}

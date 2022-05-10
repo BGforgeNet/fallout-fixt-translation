@@ -1,9 +1,9 @@
 {100}{}{Ves: a Rufus.}
 {101}{}{No me mates por favor...}
-{102}{}{¡Shhhh! ¡Intento jugar mi partida!}
-{103}{}{¡Silencio! Intento jugar mi partida. Cyberhood, Príncipe del Matrix, ¡todo un clásico!}
-{104}{}{¡Maldición! Mi personaje ha perdido de nuevo. Roger es un debilucho...}
-{105}{}{¿Dónde está la llave del Ciberespacio? He estado por todo el maldito edificio Kruz...}
-{106}{}{¿No conocerás la contraseña para entrar en Malibu Stu's? Oh, no importa...}
-{107}{}{¡Esa Kaira, menuda zorra!}
+{102}{}{Â¡Shhhh! Â¡Intento jugar mi partida!}
+{103}{}{Â¡Silencio! Intento jugar mi partida. Cyberhood, PrÃ­ncipe del Matrix, Â¡todo un clÃ¡sico!}
+{104}{}{Â¡MaldiciÃ³n! Mi personaje ha perdido de nuevo. Roger es un debilucho...}
+{105}{}{Â¿DÃ³nde estÃ¡ la llave del Ciberespacio? He estado por todo el maldito edificio Kruz...}
+{106}{}{Â¿No conocerÃ¡s la contraseÃ±a para entrar en Malibu Stu's? Oh, no importa...}
+{107}{}{Â¡Esa Kaira, menuda zorra!}
 {108}{}{No me molestes. Estoy intentando resolver este condenado puzle...}

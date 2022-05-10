@@ -1,5 +1,5 @@
-{100}{}{Voici une porte en acier. Elle porte cette inscription : "Salle de contrôle du réacteur central. Accès strictement réservé au personnel."}
-{101}{}{La porte est verrouillée par une fermeture électronique.}
-{102}{}{La porte n'est pas verrouillée.}
-{103}{}{Tu réussis à court-circuiter la fermeture électronique.}
-{104}{}{Tu ne réussis pas à neutraliser la fermeture électronique.}
+{100}{}{Voici une porte en acier. Elle porte cette inscription : "Salle de contrÃ´le du rÃ©acteur central. AccÃ¨s strictement rÃ©servÃ© au personnel."}
+{101}{}{La porte est verrouillÃ©e par une fermeture Ã©lectronique.}
+{102}{}{La porte n'est pas verrouillÃ©e.}
+{103}{}{Tu rÃ©ussis Ã  court-circuiter la fermeture Ã©lectronique.}
+{104}{}{Tu ne rÃ©ussis pas Ã  neutraliser la fermeture Ã©lectronique.}

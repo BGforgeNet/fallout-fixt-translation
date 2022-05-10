@@ -7,10 +7,10 @@
 {106}{}{You're in the south end of the Hub. If you look around, you'll find the Water Merchants and a small hospital.}
 {107}{}{Who are the Water Merchants?}
 {108}{}{A hospital?}
-{109}{}{Danke. Tschüss.}
+{109}{}{Danke. TschÃ¼ss.}
 {110}{}{Those bastards. They think they own the damn Hub just because they have control of the water tower.}
 {111}{}{A hospital?}
-{112}{}{Danke. Tschüss.}
+{112}{}{Danke. TschÃ¼ss.}
 {113}{}{The Children of the Cathedral run a small hospital here in the Hub. They seem like a decent bunch.}
 {114}{}{Who are the Water Merchants?}
-{115}{}{Danke. Tschüss.}
+{115}{}{Danke. TschÃ¼ss.}

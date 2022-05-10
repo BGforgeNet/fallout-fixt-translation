@@ -1,10 +1,10 @@
-{100}{}{Estás viendo a una persona aparentemente muy cansada.}
-{101}{}{¿Qué quieres?}
-{102}{}{¡Fuera de aquí!}
-{103}{}{¿Quieres que te meta un balazo en la cabeza?}
-{104}{}{¡Te pillé!}
-{105}{}{¡Cómete esto!}
-{106}{}{¿Alguna vez has bailado con la muerte a la luz de la luna?}
-{107}{}{¡Quieta ahí, forastera!}
-{108}{}{Joróbate, hijo de...}
-{109}{}{Joróbate, hija de...}
+{100}{}{EstÃ¡s viendo a una persona aparentemente muy cansada.}
+{101}{}{Â¿QuÃ© quieres?}
+{102}{}{Â¡Fuera de aquÃ­!}
+{103}{}{Â¿Quieres que te meta un balazo en la cabeza?}
+{104}{}{Â¡Te pillÃ©!}
+{105}{}{Â¡CÃ³mete esto!}
+{106}{}{Â¿Alguna vez has bailado con la muerte a la luz de la luna?}
+{107}{}{Â¡Quieta ahÃ­, forastera!}
+{108}{}{JorÃ³bate, hijo de...}
+{109}{}{JorÃ³bate, hija de...}

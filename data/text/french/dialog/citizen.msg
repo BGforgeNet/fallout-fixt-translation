@@ -1,15 +1,15 @@
-{100}{}{Voici un citoyen des Sables Ombragés.}
-{101}{}{Bienvenue aux Sables Ombragés !}
+{100}{}{Voici un citoyen des Sables OmbragÃ©s.}
+{101}{}{Bienvenue aux Sables OmbragÃ©s !}
 {102}{}{Euh, merci.}
 {103}{}{Que se passe-t-il ici ?}
 {104}{}{Hein !}
-{105}{}{Nous sommes une véritable communauté. Nous travaillons ensemble et nous partageons tout.}
+{105}{}{Nous sommes une vÃ©ritable communautÃ©. Nous travaillons ensemble et nous partageons tout.}
 {106}{}{Comment faites-vous pour survivre ici ?}
 {107}{}{Qui est votre chef ?}
-{108}{}{Nous avons des fermes et un système d'irrigation, et nous élevons des Brahmines. Chacun apporte sa contribution pour être utile à la communauté.}
-{109}{}{Aradesh est notre doyen. Grâce à son expérience, il nous aide à gérer la communauté.}
+{108}{}{Nous avons des fermes et un systÃ¨me d'irrigation, et nous Ã©levons des Brahmines. Chacun apporte sa contribution pour Ãªtre utile Ã  la communautÃ©.}
+{109}{}{Aradesh est notre doyen. GrÃ¢ce Ã  son expÃ©rience, il nous aide Ã  gÃ©rer la communautÃ©.}
 {110}{}{Salut.}
 {111}{}{Bonjour.}
-{112}{}{Comment ça va ?}
+{112}{}{Comment Ã§a va ?}
 {113}{}{Ca fait plaisir de te voir.}
-{114}{}{Bonne journée.}
+{114}{}{Bonne journÃ©e.}

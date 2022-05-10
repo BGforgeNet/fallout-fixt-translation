@@ -27,7 +27,7 @@
 {126}{}{Hey! Wow! You've got scratch marks on your gun! You're coooooool!}
 {127}{}{Thank you for the advance warning, but Mr. Hightower doesn't like strangers hangin' around. I'm going to have to ask you to leave.}
 {128}{}{That's it? No reward? What the hell is wrong with you people?}
-{129}{}{Gern geschehn. Tschüss.}
+{129}{}{Gern geschehn. TschÃ¼ss.}
 {130}{}{Mr. Hightower is not taking any visitors. Now leave!}
 {131}{}{I'll leave when I'm good and ready, pal!}
 {132}{}{Okay, I'll leave.}

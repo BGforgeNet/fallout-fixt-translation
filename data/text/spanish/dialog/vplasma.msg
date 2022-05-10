@@ -1,5 +1,5 @@
-{100}{}{¡Plasma sale disparado del muro norte!}
-{101}{}{Te das cuenta de que hay una pequeña placa a tus pies.}
-{102}{}{ Tus conocimientos sobre trampas te llevan a la conclusión de que se trata de algún tipo de disparador.}
-{103}{}{Cuidadosamente cortas los resortes de presión unidos a la placa}
-{104}{}{No estás muy seguro de cómo evitar que la placa se accione.}
+{100}{}{Â¡Plasma sale disparado del muro norte!}
+{101}{}{Te das cuenta de que hay una pequeÃ±a placa a tus pies.}
+{102}{}{ Tus conocimientos sobre trampas te llevan a la conclusiÃ³n de que se trata de algÃºn tipo de disparador.}
+{103}{}{Cuidadosamente cortas los resortes de presiÃ³n unidos a la placa}
+{104}{}{No estÃ¡s muy seguro de cÃ³mo evitar que la placa se accione.}

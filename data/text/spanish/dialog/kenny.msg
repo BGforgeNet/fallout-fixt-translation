@@ -1,7 +1,7 @@
 {100}{}{Ves: al Ayudante del Sheriff Kenny.}
-{101}{}{Si tienes asuntos con la policÌa del Eje, por favor habla con el Sheriff Greene. Yo solo me ocupo de sus asuntos cuando el Sheriff no est·.}
-{102}{}{No puedo creer que el Sheriff estÈ muerto.}
-{103}{}{Eso es. He estado esperando a que volvieras. Nos hemos enterado de que han asesinado al Sheriff durante una pelea. Es difÌcil creer que se ha ido de verdad. Era un padre para mÌ.}
-{104}{}{El Sheriff me dio instrucciones para actuar en caso de que no volviese de la misiÛn. Me pidiÛ que te diera el resto de la recompensa. Creo que eran 1.000 chapas. [El Ayudante te entrega 1.000 chapas.]}
-{105}{}{Esta ciudad te da las gracias. Ojal· el Sheriff estuviera aquÌ para darte las gracias Èl mismo. AdiÛs.}
+{101}{}{Si tienes asuntos con la polic√≠a del Eje, por favor habla con el Sheriff Greene. Yo solo me ocupo de sus asuntos cuando el Sheriff no est√°.}
+{102}{}{No puedo creer que el Sheriff est√© muerto.}
+{103}{}{Eso es. He estado esperando a que volvieras. Nos hemos enterado de que han asesinado al Sheriff durante una pelea. Es dif√≠cil creer que se ha ido de verdad. Era un padre para m√≠.}
+{104}{}{El Sheriff me dio instrucciones para actuar en caso de que no volviese de la misi√≥n. Me pidi√≥ que te diera el resto de la recompensa. Creo que eran 1.000 chapas. [El Ayudante te entrega 1.000 chapas.]}
+{105}{}{Esta ciudad te da las gracias. Ojal√° el Sheriff estuviera aqu√≠ para darte las gracias √©l mismo. Adi√≥s.}
 {106}{}{Oh my god, they killed Kenny! Those bastards!}

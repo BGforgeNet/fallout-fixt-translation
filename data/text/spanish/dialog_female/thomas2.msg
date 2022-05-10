@@ -1,41 +1,41 @@
 {100}{}{Ves: al Hermano Thomas.}
-{101}{}{Hola. Debes ser la nueva Iniciada de la que me habló Talus. Es demasiado tarde para una visita de compromiso, ¿qué puedo hacer por ti?}
+{101}{}{Hola. Debes ser la nueva Iniciada de la que me hablÃ³ Talus. Es demasiado tarde para una visita de compromiso, Â¿quÃ© puedo hacer por ti?}
 {102}{}{Necesito algunas cosas.}
 {103}{}{Necesito entrenarme.}
-{104}{}{Necesito un médico.}
+{104}{}{Necesito un mÃ©dico.}
 {105}{}{Nada, lamento molestarte.}
-{106}{}{¿Yuk Yuk?}
+{106}{}{Â¿Yuk Yuk?}
 {107}{}{Ruh.}
-{108}{}{¿Qué demonios quieres a estas horas?}
+{108}{}{Â¿QuÃ© demonios quieres a estas horas?}
 {109}{}{No tengo tiempo para esto.}
-{110}{}{¿Qué? ¿Parezco el hombre de las noticias? Si ni siquiera sabes quién soy, ¿por qué me molestas? ¡Déjame!}
+{110}{}{Â¿QuÃ©? Â¿Parezco el hombre de las noticias? Si ni siquiera sabes quiÃ©n soy, Â¿por quÃ© me molestas? Â¡DÃ©jame!}
 {111}{}{Maldita sea }
-{112}{}{, soy un entrenador, no un médico. Ella está en el segundo piso.}
-{113}{}{¿Por qué me estás molestando? Michael ya debe estar durmiendo, a no ser que Talus le haya asignado la guardia. Mira en el almacén de suministros por la mañana.}
-{114}{}{Los Ancianos dicen que nada de entrenar a nuevos iniciados, pero... claro. Pareces una buena chica. No quisiera que te pasara algo allí fuera, cuando te podía haber ayudado. ¿En qué quieres entrenarte?}
-{115}{}{Los Ancianos dicen que nada de entrenar a nuevos iniciados, pero... claro. Pareces una buena chica. Odiaría que te pasase algo allí fuera, y no haberte ayudado. ¿En qué quieres entrenarte?}
-{118}{}{Armas pequeñas.}
+{112}{}{, soy un entrenador, no un mÃ©dico. Ella estÃ¡ en el segundo piso.}
+{113}{}{Â¿Por quÃ© me estÃ¡s molestando? Michael ya debe estar durmiendo, a no ser que Talus le haya asignado la guardia. Mira en el almacÃ©n de suministros por la maÃ±ana.}
+{114}{}{Los Ancianos dicen que nada de entrenar a nuevos iniciados, pero... claro. Pareces una buena chica. No quisiera que te pasara algo allÃ­ fuera, cuando te podÃ­a haber ayudado. Â¿En quÃ© quieres entrenarte?}
+{115}{}{Los Ancianos dicen que nada de entrenar a nuevos iniciados, pero... claro. Pareces una buena chica. OdiarÃ­a que te pasase algo allÃ­ fuera, y no haberte ayudado. Â¿En quÃ© quieres entrenarte?}
+{118}{}{Armas pequeÃ±as.}
 {119}{}{Armas grandes.}
-{120}{}{Armas de energía.}
+{120}{}{Armas de energÃ­a.}
 {121}{}{Combate desarmado.}
-{122}{}{Armas de melé.}
+{122}{}{Armas de melÃ©.}
 {123}{}{Armas arrojadizas.}
 {124}{}{Nada, lo siento.}
-{125}{}{Debería echarte de mi habitación, pero soy un viejo simpático. Los Ancianos dicen que nada de entrenar a nuevos iniciados, pero... quizás pueda ayudarte. No creo que pensasen en ti al decir eso. ¿En qué quieres entrenarte?}
-{126}{}{Hombre, hola. Me alegro de verte. No te cortes, ya no duermo mucho. ¿Quieres entrenarte un poco? Qué será hoy... quiero decir... esta noche.}
-{127}{}{¡Sabía que volverías! ¿Qué te apetece hacer esta noche?}
-{128}{}{¿Vas a volver a preguntarme tonterías? No tengo mucho tiempo.}
-{129}{}{Pues verás, las armas de diferentes calibres tienen...}
-{130}{}{Después de un día intenso de entrenamiento eres más hábil con las armas pequeñas.}
+{125}{}{DeberÃ­a echarte de mi habitaciÃ³n, pero soy un viejo simpÃ¡tico. Los Ancianos dicen que nada de entrenar a nuevos iniciados, pero... quizÃ¡s pueda ayudarte. No creo que pensasen en ti al decir eso. Â¿En quÃ© quieres entrenarte?}
+{126}{}{Hombre, hola. Me alegro de verte. No te cortes, ya no duermo mucho. Â¿Quieres entrenarte un poco? QuÃ© serÃ¡ hoy... quiero decir... esta noche.}
+{127}{}{Â¡SabÃ­a que volverÃ­as! Â¿QuÃ© te apetece hacer esta noche?}
+{128}{}{Â¿Vas a volver a preguntarme tonterÃ­as? No tengo mucho tiempo.}
+{129}{}{Pues verÃ¡s, las armas de diferentes calibres tienen...}
+{130}{}{DespuÃ©s de un dÃ­a intenso de entrenamiento eres mÃ¡s hÃ¡bil con las armas pequeÃ±as.}
 {131}{}{Las...}
-{132}{}{Después de dos días intensos de entrenamiento eres más hábil con las armas grandes.}
-{134}{}{Después de dos días intensos de entrenamiento eres más hábil con las armas de energía.}
-{135}{}{Después de un día intenso de entrenamiento eres más hábil en el combate desarmado.}
-{136}{}{Después de dos días intensos de entrenamiento eres más hábil con las armas de melé.}
-{137}{}{Después de un día intenso de entrenamiento eres más hábil con las armas arrojadizas.}
-{138}{}{No hay problema. Si cambias de opinión, házmelo saber.}
-{139}{}{No sé por qué pierdo el tiempo contigo.}
-{140}{}{¿Sí? Oh, supongo que quieres entrenarte un poco más. Bueno, de todas formas ya no duermo mucho, por qué no. ¿Qué quieres hacer hoy?}
-{141}{}{¿Ahora qué? ¿Más preguntas tontas?}
+{132}{}{DespuÃ©s de dos dÃ­as intensos de entrenamiento eres mÃ¡s hÃ¡bil con las armas grandes.}
+{134}{}{DespuÃ©s de dos dÃ­as intensos de entrenamiento eres mÃ¡s hÃ¡bil con las armas de energÃ­a.}
+{135}{}{DespuÃ©s de un dÃ­a intenso de entrenamiento eres mÃ¡s hÃ¡bil en el combate desarmado.}
+{136}{}{DespuÃ©s de dos dÃ­as intensos de entrenamiento eres mÃ¡s hÃ¡bil con las armas de melÃ©.}
+{137}{}{DespuÃ©s de un dÃ­a intenso de entrenamiento eres mÃ¡s hÃ¡bil con las armas arrojadizas.}
+{138}{}{No hay problema. Si cambias de opiniÃ³n, hÃ¡zmelo saber.}
+{139}{}{No sÃ© por quÃ© pierdo el tiempo contigo.}
+{140}{}{Â¿SÃ­? Oh, supongo que quieres entrenarte un poco mÃ¡s. Bueno, de todas formas ya no duermo mucho, por quÃ© no. Â¿QuÃ© quieres hacer hoy?}
+{141}{}{Â¿Ahora quÃ©? Â¿MÃ¡s preguntas tontas?}
 {142}{}{Oh, that's all right. As I said, I hardly ever sleep. Come back any time.}
 {143}{}{Entonces deja de darme la vara. Ya soy viejo, y necesito dormir para estar guapo.}

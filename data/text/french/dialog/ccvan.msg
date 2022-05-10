@@ -1,16 +1,16 @@
-{100}{}{Voici un employé des Caravanes Ecarlates.}
-{101}{}{Voici un employé des Marchands d'Eau.}
-{102}{}{Voici un employé des Marchands du Lointain.}
+{100}{}{Voici un employÃ© des Caravanes Ecarlates.}
+{101}{}{Voici un employÃ© des Marchands d'Eau.}
+{102}{}{Voici un employÃ© des Marchands du Lointain.}
 {103}{}{Bonjour. Tu cherches du travail ?}
 {104}{}{Oui.}
 {105}{}{Non.}
-{106}{}{Formidable. Nous cherchons un nouveau garde. Cela t'intéresse ?}
+{106}{}{Formidable. Nous cherchons un nouveau garde. Cela t'intÃ©resse ?}
 {107}{}{Ok. Si t'as besoin de travail, passe et nous verrons ce que nous pouvons faire.}
 {108}{}{Tant pis. Salut.}
-{109}{}{Formidable. Nous avons des caravanes à destination : du Cimetière, de Dépôtville, de Nécropolis et de la Confrérie de l'Acier. Pour laquelle veux-tu travailler ?}
-{110}{}{Formidable. Nous avons des caravanes à destination : du Cimetière, de Dépôtville et de la Confrérie de l'Acier. Pour laquelle veux-tu travailler ?}
-{111}{}{Formidable. Nous avons des caravanes à destination du Cimetière et de Dépôtville. Pour laquelle veux-tu travailler ?}
-{112}{}{Le Cimetière de L.A.}
+{109}{}{Formidable. Nous avons des caravanes Ã  destination : du CimetiÃ¨re, de DÃ©pÃ´tville, de NÃ©cropolis et de la ConfrÃ©rie de l'Acier. Pour laquelle veux-tu travailler ?}
+{110}{}{Formidable. Nous avons des caravanes Ã  destination : du CimetiÃ¨re, de DÃ©pÃ´tville et de la ConfrÃ©rie de l'Acier. Pour laquelle veux-tu travailler ?}
+{111}{}{Formidable. Nous avons des caravanes Ã  destination du CimetiÃ¨re et de DÃ©pÃ´tville. Pour laquelle veux-tu travailler ?}
+{112}{}{Le CimetiÃ¨re de L.A.}
 {113}{}{Junktown.}
 {114}{}{The Brotherhood of Steel.}
 {115}{}{Necropolis.}

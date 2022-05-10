@@ -46,7 +46,7 @@
 {303}{}{Forteresse}
 {304}{}{Warehouse}
 {310}{}{Entrance}
-{311}{}{Intérieur}
+{311}{}{IntÃ©rieur}
 {500}{}{You have stopped the Super Mutant threat.}
 {501}{}{Ruins}
 {1000}{}{Desert}

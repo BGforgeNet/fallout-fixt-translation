@@ -2,21 +2,21 @@
 {101}{}{Ves: a Beca.}
 {102}{}{}
 {103}{}{}
-{104}{}{Estás viendo a un miembro de los Navajas.}
-{105}{}{Estás viendo a un miembro de los Navajas.}
+{104}{}{EstÃ¡s viendo a un miembro de los Navajas.}
+{105}{}{EstÃ¡s viendo a un miembro de los Navajas.}
 {106}{}{Piensas que puede ser Libros.}
 {107}{}{Piensas que puede ser Cicatrices.}
-{108}{}{Piensas que puede ser Pistolón.}
+{108}{}{Piensas que puede ser PistolÃ³n.}
 {109}{}{Piensas que puede ser Tembleque.}
 {110}{}{Piensas que puede ser Martillo.}
 {111}{}{Piensas que puede ser Cuchilla.}
-{112}{}{Estos son los dormitorios. Ahora lárgate antes de que te patee el culo.}
+{112}{}{Estos son los dormitorios. Ahora lÃ¡rgate antes de que te patee el culo.}
 {113}{}{Adelante.}
-{114}{}{Lo siento. Adiós.}
-{115}{}{¿Puedo dormir aquí?}
+{114}{}{Lo siento. AdiÃ³s.}
+{115}{}{Â¿Puedo dormir aquÃ­?}
 {116}{}{No. Esto es para los Navajas, no para cualquier debilucho.}
-{117}{}{¡Ey, compi! ¿Qué te cuentas? Duerme aquí si necesitas un lugar seguro.}
-{118}{}{Así que has ayudado. Mejor que nada, lo reconozco. Gracias. Voy a decírselo a los demás.}
-{119}{}{Sí. Iré a ver lo que puedo hacer.}
-{120}{}{Hola de nuevo. He oído que realmente nos has ayudado. Eres más que digno de nuestro respeto. Ahora somos libres. [Ahora eres un miembro de los Navajas.]}
+{117}{}{Â¡Ey, compi! Â¿QuÃ© te cuentas? Duerme aquÃ­ si necesitas un lugar seguro.}
+{118}{}{AsÃ­ que has ayudado. Mejor que nada, lo reconozco. Gracias. Voy a decÃ­rselo a los demÃ¡s.}
+{119}{}{SÃ­. IrÃ© a ver lo que puedo hacer.}
+{120}{}{Hola de nuevo. He oÃ­do que realmente nos has ayudado. Eres mÃ¡s que digno de nuestro respeto. Ahora somos libres. [Ahora eres un miembro de los Navajas.]}
 {121}{}{No te puedo ayudar con eso. Ve a hablar con Cuchilla.}

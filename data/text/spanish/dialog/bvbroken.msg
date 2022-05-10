@@ -1,1 +1,1 @@
-{100}{}{El ascensor est· roto. Quiz·s puedas usar las escaleras.}
+{100}{}{El ascensor est√° roto. Quiz√°s puedas usar las escaleras.}

@@ -1,42 +1,42 @@
-{100}{}{Estás viendo a un tonto perdido.}
-{101}{}{Ves: a Gretch, el ayudante del Doc Mórbid.}
-{102}{}{¿Para qué has bajado?}
-{103}{}{¿Ergh?}
+{100}{}{EstÃ¡s viendo a un tonto perdido.}
+{101}{}{Ves: a Gretch, el ayudante del Doc MÃ³rbid.}
+{102}{}{Â¿Para quÃ© has bajado?}
+{103}{}{Â¿Ergh?}
 {104}{}{Tu jefe me ha mandado.}
-{105}{}{No me hables así, cretino.}
-{106}{}{Para ver qué tal te va todo.}
-{107}{}{Nada. Adiós.}
-{108}{}{Te conozco, ¿eh?}
+{105}{}{No me hables asÃ­, cretino.}
+{106}{}{Para ver quÃ© tal te va todo.}
+{107}{}{Nada. AdiÃ³s.}
+{108}{}{Te conozco, Â¿eh?}
 {109}{}{No.}
-{110}{}{Sí.}
+{110}{}{SÃ­.}
 {111}{}{No importa.}
 {112}{}{Um... vale.}
-{113}{}{¿Qué estás haciendo?}
-{114}{}{¿Bien? ¿Significa eso que estás casi listo?}
-{115}{}{Eres un poco lento, ¿no?}
-{116}{}{Sí, sí, casi listo.}
-{117}{}{¿Con qué?}
+{113}{}{Â¿QuÃ© estÃ¡s haciendo?}
+{114}{}{Â¿Bien? Â¿Significa eso que estÃ¡s casi listo?}
+{115}{}{Eres un poco lento, Â¿no?}
+{116}{}{SÃ­, sÃ­, casi listo.}
+{117}{}{Â¿Con quÃ©?}
 {118}{}{Ya es hora.}
-{119}{}{Vale. Te veré después.}
-{120}{}{Trozos de cadáveres casi listos para ir al Eje.}
-{121}{}{¿Para qué?}
-{122}{}{Por supuesto. Por eso estoy aquí.}
-{123}{}{Creo que no me apetece oír hablar de eso.}
-{124}{}{Te envía el hombre iguana, Bob... feliz; mucha comida buena...}
-{125}{}{¿Vende partes humanas para que se la coma la gente?}
-{126}{}{So asqueroso. Te voy a cortar en pedazos y luego te comeré.}
-{127}{}{Por supuesto. Volveré en un minuto.}
-{128}{}{Para que Bob la venda... para comer... ¿Por qué lo preguntas?}
-{129}{}{No hay de qué. Adiós.}
+{119}{}{Vale. Te verÃ© despuÃ©s.}
+{120}{}{Trozos de cadÃ¡veres casi listos para ir al Eje.}
+{121}{}{Â¿Para quÃ©?}
+{122}{}{Por supuesto. Por eso estoy aquÃ­.}
+{123}{}{Creo que no me apetece oÃ­r hablar de eso.}
+{124}{}{Te envÃ­a el hombre iguana, Bob... feliz; mucha comida buena...}
+{125}{}{Â¿Vende partes humanas para que se la coma la gente?}
+{126}{}{So asqueroso. Te voy a cortar en pedazos y luego te comerÃ©.}
+{127}{}{Por supuesto. VolverÃ© en un minuto.}
+{128}{}{Para que Bob la venda... para comer... Â¿Por quÃ© lo preguntas?}
+{129}{}{No hay de quÃ©. AdiÃ³s.}
 {130}{}{No estaba seguro que esta fuera la procedencia de la carne humana de Bob.}
 {131}{}{A veces me cuesta mucho pensar.}
-{132}{}{A mí también... ¿de qué hablábamos?}
-{133}{}{No me acuerdo. Adiós.}
+{132}{}{A mÃ­ tambiÃ©n... Â¿de quÃ© hablÃ¡bamos?}
+{133}{}{No me acuerdo. AdiÃ³s.}
 {134}{}{Me estabas contando lo que haces.}
-{135}{}{Hablábamos de lo idiota que eres.}
-{136}{}{No lo sé.}
+{135}{}{HablÃ¡bamos de lo idiota que eres.}
+{136}{}{No lo sÃ©.}
 {137}{}{Ya no quiero hablar contigo.}
-{138}{}{Sí... Doc Mórbid tiene los mejores cuerpos humanos.}
-{139}{}{Ah... Volveré para coger los cuerpos... dentro de un rato. Adiós.}
+{138}{}{SÃ­... Doc MÃ³rbid tiene los mejores cuerpos humanos.}
+{139}{}{Ah... VolverÃ© para coger los cuerpos... dentro de un rato. AdiÃ³s.}
 {140}{}{Tengo que volver al trabajo.}
-{141}{}{¡No te metas en los asuntos de Doc!}
+{141}{}{Â¡No te metas en los asuntos de Doc!}

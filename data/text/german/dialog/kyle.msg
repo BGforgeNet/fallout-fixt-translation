@@ -68,6 +68,6 @@
 {167}{}{Okay, you're all set to go. Here, take this manual. If you have any kind of aptitude with repairing things you should have no problem. Good luck!}
 {168}{}{After all that? Okay, just let me know when you want me to put it in. Then you can get started on repairing it.}
 {169}{}{Well, I don't know what to tell you. I guess you need to polish up your repair skills a little. I'll keep the unit here for ya.}
-{170}{}{OK, danke, Tschüss.}
+{170}{}{OK, danke, TschÃ¼ss.}
 {171}{}{Hello again. Can I help you?}
 {300}{}{[More]}

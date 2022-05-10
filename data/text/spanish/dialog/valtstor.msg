@@ -1,1 +1,1 @@
-{100}{}{…ste es el almacÈn. Parece m·s vacÌo que en tus recuerdos. Las provisiones del Refugio se est·n acabando m·s deprisa de lo que pensabas.}
+{100}{}{√âste es el almac√©n. Parece m√°s vac√≠o que en tus recuerdos. Las provisiones del Refugio se est√°n acabando m√°s deprisa de lo que pensabas.}

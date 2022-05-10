@@ -1,21 +1,21 @@
 {100}{}{Nos dirigimos de vuelta al Eje.}
-{101}{}{¿Vas a volver con nosotros?}
+{101}{}{Â¿Vas a volver con nosotros?}
 {102}{}{Estoy listo para partir.}
 {103}{}{Espero que me queden suficientes balas.}
-{104}{}{¡Me encanta este trabajo!}
-{105}{}{¡Vámonos!}
-{106}{}{¡Pongámonos en marcha!}
-{107}{}{¡Los hemos matado a todos!}
-{108}{}{¡Eso fue fácil!}
-{109}{}{¡No hables, mueve el culo!}
-{110}{}{¿Estás listo para partir?}
+{104}{}{Â¡Me encanta este trabajo!}
+{105}{}{Â¡VÃ¡monos!}
+{106}{}{Â¡PongÃ¡monos en marcha!}
+{107}{}{Â¡Los hemos matado a todos!}
+{108}{}{Â¡Eso fue fÃ¡cil!}
+{109}{}{Â¡No hables, mueve el culo!}
+{110}{}{Â¿EstÃ¡s listo para partir?}
 {111}{}{No me pagan para hablar.}
-{112}{}{¡Un lugar horrible, tío!}
+{112}{}{Â¡Un lugar horrible, tÃ­o!}
 {113}{}{No me pagan para hablar.}
-{114}{}{Metete en tus asuntos, ¿quieres?}
-{115}{}{Metete en tus asuntos, ¿quieres?}
-{200}{}{¡Hagámoslo!}
+{114}{}{Metete en tus asuntos, Â¿quieres?}
+{115}{}{Metete en tus asuntos, Â¿quieres?}
+{200}{}{Â¡HagÃ¡moslo!}
 {201}{}{Espero que me queden suficientes balas...}
-{202}{}{¡Apunta a los ojos!}
-{203}{}{¡Protege la caravana!}
-{204}{}{Manténganse firmes, chicos.}
+{202}{}{Â¡Apunta a los ojos!}
+{203}{}{Â¡Protege la caravana!}
+{204}{}{MantÃ©nganse firmes, chicos.}

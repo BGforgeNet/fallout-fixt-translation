@@ -1,62 +1,62 @@
 {100}{}{Ves: al Hermano Thomas.}
-{101}{}{Bien niños, hoy vamos a repasar las artes marciales.}
-{102}{}{En el combate cuerpo a cuerpo, la técnica empleada depende del tamaño, alcance y rapidez del adversario.}
-{103}{}{Si tenéis oportunidad observad a vuestro adversario.}
-{104}{}{No precipitéis el ataque.}
+{101}{}{Bien niÃ±os, hoy vamos a repasar las artes marciales.}
+{102}{}{En el combate cuerpo a cuerpo, la tÃ©cnica empleada depende del tamaÃ±o, alcance y rapidez del adversario.}
+{103}{}{Si tenÃ©is oportunidad observad a vuestro adversario.}
+{104}{}{No precipitÃ©is el ataque.}
 {105}{}{All right my little one, try to hurt poor old gramps.}
-{106}{}{¡Ah!}
+{106}{}{Â¡Ah!}
 {107}{}{Uhh.}
 {108}{}{Eso es todo por ahora, recapitulemos.}
-{109}{}{¿Visteis cómo perdió el equilibrio?}
+{109}{}{Â¿Visteis cÃ³mo perdiÃ³ el equilibrio?}
 {110}{}{Si te estiras demasiado permites el contraataque.}
-{111}{}{Cuando ataquéis no os estiréis demasiado.}
-{112}{}{¿Por qué es tan malo estirarse?}
-{113}{}{Si tienes la oportunidad de matar, ¿no deberías aprovecharla?}
-{114}{}{Pero haciéndolo te juegas la vida.}
-{115}{}{Al extenderte demasiado tu torso está vulnerable a un contraataque y pierdes el equilibrio.}
-{116}{}{Un empujoncito bastará para que te caigas de culo.}
+{111}{}{Cuando ataquÃ©is no os estirÃ©is demasiado.}
+{112}{}{Â¿Por quÃ© es tan malo estirarse?}
+{113}{}{Si tienes la oportunidad de matar, Â¿no deberÃ­as aprovecharla?}
+{114}{}{Pero haciÃ©ndolo te juegas la vida.}
+{115}{}{Al extenderte demasiado tu torso estÃ¡ vulnerable a un contraataque y pierdes el equilibrio.}
+{116}{}{Un empujoncito bastarÃ¡ para que te caigas de culo.}
 {117}{}{Vale, dejemos que otro macarrilla lo intente con el abuelete.}
 {118}{}{Veamos si has aprendido con el ejemplo anterior.}
-{119}{}{No está mal, casi me pillas con esa última llave.}
-{120}{}{¿Seguro que quieres ser un Escriba, Iniciado?}
-{121}{}{Sería una pena que estos talentos se perdiesen.}
-{122}{}{Te dejaremos en reserva. ¿De acuerdo?}
+{119}{}{No estÃ¡ mal, casi me pillas con esa Ãºltima llave.}
+{120}{}{Â¿Seguro que quieres ser un Escriba, Iniciado?}
+{121}{}{SerÃ­a una pena que estos talentos se perdiesen.}
+{122}{}{Te dejaremos en reserva. Â¿De acuerdo?}
 {123}{}{Solo estoy bromeando contigo.}
-{124}{}{Deberías reconsiderar tu carrera como Caballero.}
-{125}{}{Piénsatelo.}
+{124}{}{DeberÃ­as reconsiderar tu carrera como Caballero.}
+{125}{}{PiÃ©nsatelo.}
 {126}{}{Gracias Hermano Thomas.}
-{127}{}{Espero que todos os hayáis fijado en que el Hermano Anthony no se estiró demasiado.}
-{128}{}{También procuró usar mi peso y volumen en mi contra.}
+{127}{}{Espero que todos os hayÃ¡is fijado en que el Hermano Anthony no se estirÃ³ demasiado.}
+{128}{}{TambiÃ©n procurÃ³ usar mi peso y volumen en mi contra.}
 {129}{}{Las artes marciales tienen sus ventajas y sus inconvenientes.}
-{130}{}{Aprenderemos varios estilos diferentes para comprender mejor las ventajas y los puntos débiles de cada uno.}
-{131}{}{Venga, enséñame lo que tienes.}
-{132}{}{Muy bien. Has durado mucho más de lo que esperaba.}
+{130}{}{Aprenderemos varios estilos diferentes para comprender mejor las ventajas y los puntos dÃ©biles de cada uno.}
+{131}{}{Venga, ensÃ©Ã±ame lo que tienes.}
+{132}{}{Muy bien. Has durado mucho mÃ¡s de lo que esperaba.}
 {133}{}{Puedes volver a la fila.}
-{134}{}{Niños, espero que os hayáis enterado de lo que ha pasado.}
+{134}{}{NiÃ±os, espero que os hayÃ¡is enterado de lo que ha pasado.}
 {135}{}{Es un luchador nato.}
-{136}{}{Una vez más.}
-{137}{}{Prestad atención...}
-{138}{}{y recordad que hay que atravesar el objetivo con el puño.}
-{139}{}{Imaginad que el objetivo está unos centímetros detrás de donde se recibe el impacto.}
-{140}{}{¿Mmm, Hermano Thomas?}
-{141}{}{Sí, mi muñequita de porcelana.}
-{142}{}{¿Deberíamos imaginar lo mismo con las patadas?}
+{136}{}{Una vez mÃ¡s.}
+{137}{}{Prestad atenciÃ³n...}
+{138}{}{y recordad que hay que atravesar el objetivo con el puÃ±o.}
+{139}{}{Imaginad que el objetivo estÃ¡ unos centÃ­metros detrÃ¡s de donde se recibe el impacto.}
+{140}{}{Â¿Mmm, Hermano Thomas?}
+{141}{}{SÃ­, mi muÃ±equita de porcelana.}
+{142}{}{Â¿DeberÃ­amos imaginar lo mismo con las patadas?}
 {143}{}{Desde luego.}
 {144}{}{Muy bien. Creo que te dejaremos vivir.}
-{145}{}{Solo bromeaba, procuro sonreír de vez en cuando.}
-{146}{}{No es una cuestión de vida o muerte.}
-{147}{}{Habrá mucho tiempo para eso más adelante.}
-{200}{}{No está mal.}
+{145}{}{Solo bromeaba, procuro sonreÃ­r de vez en cuando.}
+{146}{}{No es una cuestiÃ³n de vida o muerte.}
+{147}{}{HabrÃ¡ mucho tiempo para eso mÃ¡s adelante.}
+{200}{}{No estÃ¡ mal.}
 {201}{}{Muy bien.}
-{202}{}{Estás aprendiendo.}
-{203}{}{Concéntrate.}
-{204}{}{Mírame bien.}
+{202}{}{EstÃ¡s aprendiendo.}
+{203}{}{ConcÃ©ntrate.}
+{204}{}{MÃ­rame bien.}
 {205}{}{No te estires demasiado.}
 {206}{}{Nunca dejes de mirar al contrincante.}
 {207}{}{Vigila tus llaves.}
-{208}{}{Mantén bajo tu centro de gravedad.}
-{209}{}{¡Excelente!}
+{208}{}{MantÃ©n bajo tu centro de gravedad.}
+{209}{}{Â¡Excelente!}
 {210}{}{Perfecto.}
 {211}{}{Estoy impresionado.}
-{300}{}{Ganas 500 puntos de experiencia por atender al entrenamiento de combate. ¡Sientes que has aprendido algo!}
+{300}{}{Ganas 500 puntos de experiencia por atender al entrenamiento de combate. Â¡Sientes que has aprendido algo!}
 {400}{}{Thomas te ignora.}

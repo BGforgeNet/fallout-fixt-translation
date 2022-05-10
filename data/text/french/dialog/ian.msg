@@ -1,121 +1,121 @@
 {100}{}{Voici un homme petit et trapu.}
-{101}{}{Les gens de ton espèce, on n'en veut pas.}
+{101}{}{Les gens de ton espÃ¨ce, on n'en veut pas.}
 {102}{}{Bonjour. On dirait que t'es nouveau par ici. Comment t'appelles-tu ?}
 {103}{}{Mon nom n'a pas d'importance.}
 {104}{}{Je m'appelle }
 {105}{}{.}
 {106}{}{Hein ?}
 {107}{}{Bon, alors, toi non plus.}
-{108}{}{Enchanté. Je m'appelle Ian.}
+{108}{}{EnchantÃ©. Je m'appelle Ian.}
 {109}{}{Que fais-tu ici ?}
 {110}{}{J'aimerais en apprendre davantage sur cet endroit. Peux-tu m'aider ?}
-{111}{}{Excuse-moi mais je n'ai pas de temps à perdre avec des crétins.}
-{112}{}{Je travaillais comme garde pour les marchands au Centre. Mais j'ai reçu une balle au cours d'une attaque de bandits. Je suis resté le temps de guérir, les gens m'ont aidé. Et puis, ma connaissance du monde extérieur et mon expérience me rendent utile ici. Je me sens un peu chez moi aux Sables Ombragés. Parfois, je me rends à Dépôtville ou au Centre pour les affaires. En fait, je suis le seul ici à être sorti du coin.}
+{111}{}{Excuse-moi mais je n'ai pas de temps Ã  perdre avec des crÃ©tins.}
+{112}{}{Je travaillais comme garde pour les marchands au Centre. Mais j'ai reÃ§u une balle au cours d'une attaque de bandits. Je suis restÃ© le temps de guÃ©rir, les gens m'ont aidÃ©. Et puis, ma connaissance du monde extÃ©rieur et mon expÃ©rience me rendent utile ici. Je me sens un peu chez moi aux Sables OmbragÃ©s. Parfois, je me rends Ã  DÃ©pÃ´tville ou au Centre pour les affaires. En fait, je suis le seul ici Ã  Ãªtre sorti du coin.}
 {113}{}{Voici Ian.}
-{114}{}{Je suis désolé d'apprendre pour ta blessure.}
-{115}{}{Où se trouvent le Centre et Dépôtville ?}
+{114}{}{Je suis dÃ©solÃ© d'apprendre pour ta blessure.}
+{115}{}{OÃ¹ se trouvent le Centre et DÃ©pÃ´tville ?}
 {116}{}{Peux-tu me parler de ces bandits ?}
-{117}{}{Les Sables Ombragés forment une petite communauté qui vit en autarcie. Le seul problème ici, ce sont les radscorpions et les bandits.}
-{118}{}{Pourquoi les radscorpions sont-ils un problème ?}
+{117}{}{Les Sables OmbragÃ©s forment une petite communautÃ© qui vit en autarcie. Le seul problÃ¨me ici, ce sont les radscorpions et les bandits.}
+{118}{}{Pourquoi les radscorpions sont-ils un problÃ¨me ?}
 {119}{}{Les bandits sont-ils nombreux ?}
-{120}{}{Il y en a pas mal. Ils appartiennent à différents groupes. Ils volent notre nourriture et il leur arrive de faire quelques victimes. Seth a organisé des rondes de gardes pour les combattre.}
+{120}{}{Il y en a pas mal. Ils appartiennent Ã  diffÃ©rents groupes. Ils volent notre nourriture et il leur arrive de faire quelques victimes. Seth a organisÃ© des rondes de gardes pour les combattre.}
 {121}{}{Peux-tu me parler de Seth ?}
-{122}{}{Il existe différents groupes ? Quels sont-ils ?}
-{123}{}{Les radscorpions sont très dangereux. Il possèdent un dard empoisonné et ils sont très rapides. Aradesh a tenté de trouver un moyen de nous en débarrasser. Si tu t'en sens le courage, tu devrais en parler à Aradesh.}
-{124}{}{Merci. Ca va beaucoup mieux, grâce à Razlo.}
+{122}{}{Il existe diffÃ©rents groupes ? Quels sont-ils ?}
+{123}{}{Les radscorpions sont trÃ¨s dangereux. Il possÃ¨dent un dard empoisonnÃ© et ils sont trÃ¨s rapides. Aradesh a tentÃ© de trouver un moyen de nous en dÃ©barrasser. Si tu t'en sens le courage, tu devrais en parler Ã  Aradesh.}
+{124}{}{Merci. Ca va beaucoup mieux, grÃ¢ce Ã  Razlo.}
 {125}{}{Seth est un valeureux combattant. Il s'aventure parfois dans les grottes des radscorpions pour en tuer quelques-uns, mais ils reviennent sans cesse. Il y en a trop.}
 {126}{}{Les radscorpions sont-ils vraiment si dangereux ?}
 {127}{}{Que puis-je faire pour toi ?}
-{128}{}{Il existe trois groupes: les Khans, les Vipères et les Chacals. Ils se détestent mais ça ne les empêche pas de s'unir pour piller les Sables Ombragés.}
-{129}{}{Dis m'en plus sur les Sables Ombragés.}
-{130}{}{Il a la prestance d'un combattant expérimenté.}
+{128}{}{Il existe trois groupes: les Khans, les VipÃ¨res et les Chacals. Ils se dÃ©testent mais Ã§a ne les empÃªche pas de s'unir pour piller les Sables OmbragÃ©s.}
+{129}{}{Dis m'en plus sur les Sables OmbragÃ©s.}
+{130}{}{Il a la prestance d'un combattant expÃ©rimentÃ©.}
 {131}{}{Donc, }
 {132}{}{, qu'est-ce que je peux faire pour toi ?}
 {133}{}{Parle-moi des pillards.}
 {134}{}{Parle-moi des radscorpions.}
-{135}{}{Parle-moi des Sables Ombragés.}
+{135}{}{Parle-moi des Sables OmbragÃ©s.}
 {136}{}{Parle-moi de Seth.}
-{137}{}{Peux-tu m'indiquer la direction du Centre et de Dépôtville ?}
+{137}{}{Peux-tu m'indiquer la direction du Centre et de DÃ©pÃ´tville ?}
 {138}{}{Rien, merci.}
-{139}{}{Le Centre est une grande ville commerçante au Sud des Sables Ombragés. Elle est dirigée par plusieurs groupes de marchands qui possèdent des caravanes: les Marchands d'Eau, la Caravane Ecarlate et les Marchands du Lointain. Dépôtville est situé un peu plus au Sud-Ouest. C'est une ville plus petite mais ça vaut la peine d'y faire une halte pour boire un coup. Elle est contrôlée par un type du nom de Killian Darkwater. Il est à la fois commerçant, shérif et maire de la ville.}
+{139}{}{Le Centre est une grande ville commerÃ§ante au Sud des Sables OmbragÃ©s. Elle est dirigÃ©e par plusieurs groupes de marchands qui possÃ¨dent des caravanes: les Marchands d'Eau, la Caravane Ecarlate et les Marchands du Lointain. DÃ©pÃ´tville est situÃ© un peu plus au Sud-Ouest. C'est une ville plus petite mais Ã§a vaut la peine d'y faire une halte pour boire un coup. Elle est contrÃ´lÃ©e par un type du nom de Killian Darkwater. Il est Ã  la fois commerÃ§ant, shÃ©rif et maire de la ville.}
 {140}{}{Merci.}
-{141}{}{Je ne suis plus le combattant que j'étais autrefois mais je suis encore capable d'anéantir ceux de ton espèce !}
+{141}{}{Je ne suis plus le combattant que j'Ã©tais autrefois mais je suis encore capable d'anÃ©antir ceux de ton espÃ¨ce !}
 {142}{}{Je peux t'aider }
 {143}{}{?}
 {144}{}{Hmm. Rien, Ian.}
 {145}{}{Tu peux t'en aller maintenant.}
-{146}{}{Peux-tu m'indiquer la direction du Centre et de Dépôtville ?}
+{146}{}{Peux-tu m'indiquer la direction du Centre et de DÃ©pÃ´tville ?}
 {147}{}{C'est bon. A une prochaine !}
 {148}{}{Non merci. On a besoin de moi ici.}
-{149}{}{Est-ce que tu pourrais me donner un coup de main ? Ton expérience pourrait m'être utile.}
+{149}{}{Est-ce que tu pourrais me donner un coup de main ? Ton expÃ©rience pourrait m'Ãªtre utile.}
 {150}{}{Allons-y. Ca me fera du bien de reprendre du service !}
-{151}{}{C'est le magasin de Killian. C'est un brave type et il possède pas mal de matériel.}
-{152}{}{Le casino de Gizmo. C'est le royaume du jeu et de la magouille. Fais gaffe, on dit que ses jeux sont complètement truqués.}
+{151}{}{C'est le magasin de Killian. C'est un brave type et il possÃ¨de pas mal de matÃ©riel.}
+{152}{}{Le casino de Gizmo. C'est le royaume du jeu et de la magouille. Fais gaffe, on dit que ses jeux sont complÃ¨tement truquÃ©s.}
 {153}{}{Cet endroit me fout les jetons.}
-{154}{}{Qu'est-il arrivé ici ?}
-{155}{}{Ca va pas être du gâteau.}
-{156}{}{Hmm. C'est tentant, vu qu'ici, on s'amuse pas tous les jours. Tu sais quoi, je te propose le tarif habituel: 100 caps et c'est marché conclu.}
-{157}{}{Marché conclu.}
+{154}{}{Qu'est-il arrivÃ© ici ?}
+{155}{}{Ca va pas Ãªtre du gÃ¢teau.}
+{156}{}{Hmm. C'est tentant, vu qu'ici, on s'amuse pas tous les jours. Tu sais quoi, je te propose le tarif habituel: 100 caps et c'est marchÃ© conclu.}
+{157}{}{MarchÃ© conclu.}
 {158}{}{Non, merci.}
 {159}{}{Et que dirais-tu d'un peu d'action simplement ?}
-{160}{}{C'est bon, je te donnerai un coup de main en échange de ma part du gâteau.}
+{160}{}{C'est bon, je te donnerai un coup de main en Ã©change de ma part du gÃ¢teau.}
 {161}{}{Non, je ne pense pas. Repasse quand tu auras plus de caps.}
-{162}{}{C'est l'Armurerie. C'est Beth qui s'en occupe. Les flingues c'est son rayon, mais c'est une meilleure commère.}
-{163}{}{Les armes de Jake. Pas très bon marché, mais de la super qualité.}
-{164}{}{Le bureau des Marchands d'Eau. Tout passe par eux au Centre étant donné qu'ils fournissent l'eau.}
-{165}{}{C'est la Caravane Ecarlate. Il m'est arrivé de travailler pour eux. Ils font beaucoup de coups à haut risque.}
-{166}{}{Les Marchands du Lointain, dirigés par Butch Harris. Il est gouli goula tabia, si tu vois ce que je veux dire...}
-{167}{}{Ah ça, le Faucon Maltais, c'est là qu'il faut aller ! Bonne musique, bonnes boissons et charmante compagnie.}
+{162}{}{C'est l'Armurerie. C'est Beth qui s'en occupe. Les flingues c'est son rayon, mais c'est une meilleure commÃ¨re.}
+{163}{}{Les armes de Jake. Pas trÃ¨s bon marchÃ©, mais de la super qualitÃ©.}
+{164}{}{Le bureau des Marchands d'Eau. Tout passe par eux au Centre Ã©tant donnÃ© qu'ils fournissent l'eau.}
+{165}{}{C'est la Caravane Ecarlate. Il m'est arrivÃ© de travailler pour eux. Ils font beaucoup de coups Ã  haut risque.}
+{166}{}{Les Marchands du Lointain, dirigÃ©s par Butch Harris. Il est gouli goula tabia, si tu vois ce que je veux dire...}
+{167}{}{Ah Ã§a, le Faucon Maltais, c'est lÃ  qu'il faut aller ! Bonne musique, bonnes boissons et charmante compagnie.}
 {168}{}{C'est un vrai fils de pute !}
-{169}{}{points d'expérience pour avoir réussi à convaincre Ian.}
-{170}{}{J'ai entendu parler de tous ces endroits sans jamais les avoir vus. Ca semble super et très convenable... un peu trop, à mon goût.}
-{171}{}{Non pas que tu me l'aies demandé, mais il faut qu'il te laisse un peu respirer.}
-{172}{}{Tu sais, cette femme ne pourrait pas mener un tango, encore moins une révolution.}
-{173}{}{Quels types d'armes tu préfères utiliser ?}
+{169}{}{points d'expÃ©rience pour avoir rÃ©ussi Ã  convaincre Ian.}
+{170}{}{J'ai entendu parler de tous ces endroits sans jamais les avoir vus. Ca semble super et trÃ¨s convenable... un peu trop, Ã  mon goÃ»t.}
+{171}{}{Non pas que tu me l'aies demandÃ©, mais il faut qu'il te laisse un peu respirer.}
+{172}{}{Tu sais, cette femme ne pourrait pas mener un tango, encore moins une rÃ©volution.}
+{173}{}{Quels types d'armes tu prÃ©fÃ¨res utiliser ?}
 {174}{}{Je suis bon avec n'importe quel pistolet et je peux me servir d'une mitraillette. Je sais aussi tenir un couteau.}
-{175}{}{Je pensais que le Cimetière de L.A. serait pire.}
+{175}{}{Je pensais que le CimetiÃ¨re de L.A. serait pire.}
 {200}{}{La prochaine fois, utilise l'arme que tu connais le mieux.}
 {201}{}{Aucun soucis.}
 {202}{}{Est-ce que je peux encore t'aider avant de m'en aller ?}
-{203}{}{Hum, ouais. Je pense qu'on devrait faire la paire, après tout.}
+{203}{}{Hum, ouais. Je pense qu'on devrait faire la paire, aprÃ¨s tout.}
 {204}{}{Euh, non. Merci.}
 {1000}{}{Eau}
 {1001}{}{Guerre}
 {1002}{}{Sables}
-{1003}{}{Dépôtville}
+{1003}{}{DÃ©pÃ´tville}
 {1004}{}{Centre}
 {1005}{}{Pillards|Pillards|Khans|Khan}
 {1006}{}{Caravanes}
 {1007}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
-{1008}{}{Ombragés}
+{1008}{}{OmbragÃ©s}
 {1009}{}{Followers}
 {1010}{}{Cathedral}
 {1011}{}{Garl}
-{1012}{}{Maître}
-{1013}{}{Unité}
+{1012}{}{MaÃ®tre}
+{1013}{}{UnitÃ©}
 {1014}{}{Set}
 {1015}{}{Watershed}
-{1016}{}{Nécropolis}
+{1016}{}{NÃ©cropolis}
 {1017}{}{Hall}
 {1018}{}{Library}
 {1019}{}{Dirigeant}
-{1020}{}{Médecin}
-{1021}{}{Guérison}
+{1020}{}{MÃ©decin}
+{1021}{}{GuÃ©rison}
 {1022}{}{Abri}
 {1023}{}{Abris}
 {1024}{}{Vault 13}
 {1025}{}{Killian}
 {1026}{}{Gizmo}
-{1027}{}{Cimetière de L.A.}
+{1027}{}{CimetiÃ¨re de L.A.}
 {1028}{}{Casino}
 {1029}{}{Magasin}
 {1030}{}{Deathclaw}
 {1031}{}{Exode}
-{1032}{}{Initiés|Initié|Inities|Initie}
+{1032}{}{InitiÃ©s|InitiÃ©|Inities|Initie}
 {1033}{}{Paladins}
 {1034}{}{Scribes}
 {1035}{}{Enfants}
-{1036}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1036}{}{ConfrÃ©rie de l'Acier|ConfrÃ©rie|Confrerie|Acier}
 {1037}{}{Vats}
 {1038}{}{Base}
 {1039}{}{Militaire}
@@ -135,87 +135,87 @@
 {1054}{}{Aradesh}
 {1055}{}{Razlo}
 {1056}{}{Zimmerman}
-{1057}{}{Régulateurs}
+{1057}{}{RÃ©gulateurs}
 {1058}{}{Fouineurs}
 {1059}{}{Ecorcheurs}
 {1060}{}{Nicole}
 {1061}{}{Lieutenant}
-{1062}{}{Médiums}
-{1063}{}{Expériences}
+{1062}{}{MÃ©diums}
+{1063}{}{ExpÃ©riences}
 {1064}{}{Police}
 {1065}{}{Marchands|Marchand}
-{1100}{}{Je n'ai pas la moindre idée de ce qu'est une puce d'eau. Désolé}
-{1101}{}{C'était il y a presque un siècle. Pour résumer, quelques pays se sont un peu énervés et ça a fait BOUM !}
-{1102}{}{Un petit village tranquille. Certainement la communauté la plus prometteuse du désert.}
-{1103}{}{Une ville de moyenne importance, bâtie sur des détritus et dirigée par un shérif du nom de Killian. Elle est à seulement quelques jours au Sud-Ouest des Sables Ombragés.}
-{1104}{}{Le Centre est la plus grande ville commerçante du Nouvel Ouest. Les Marchands d'Eau la dirige. Il y a aussi d'autres commerçants. C'est une ville en pleine croissance mais en proie à des luttes de pouvoir entre les commerçants.}
-{1105}{}{Il existe différents groupes de pillards là-bas. Le groupe le mieux organisé s'appelle les Khans; ils semblent penser qu'ils sont en mesure de dominer le monde.}
-{1106}{}{La plupart des caravanes viennent du Centre. Elles circulent un peu partout. Il m'est arrivé de travailler pour un groupe appelé la Caravane Ecarlate avant ma dernière blessure.}
-{1107}{}{Je n'ai pas la moindre idée de ce qu'est une puce d'eau. Désolé}
-{1108}{}{Un petit village tranquille. Certainement la communauté la plus prometteuse du désert.}
-{1109}{}{Désolé, je n'en sais pas plus que toi.}
-{1110}{}{Désolé, je n'en sais pas plus que toi.}
-{1111}{}{Garl est un véritable abruti qui pense pouvoir conquérir le monde avec son armada de pillards. Ouais, rien que ça !}
-{1112}{}{Désolé, je n'en sais pas plus que toi.}
-{1113}{}{Désolé, je n'en sais pas plus que toi.}
-{1114}{}{Désolé, je n'en sais pas plus que toi.}
-{1115}{}{Désolé, je n'en sais pas plus que toi.}
+{1100}{}{Je n'ai pas la moindre idÃ©e de ce qu'est une puce d'eau. DÃ©solÃ©}
+{1101}{}{C'Ã©tait il y a presque un siÃ¨cle. Pour rÃ©sumer, quelques pays se sont un peu Ã©nervÃ©s et Ã§a a fait BOUM !}
+{1102}{}{Un petit village tranquille. Certainement la communautÃ© la plus prometteuse du dÃ©sert.}
+{1103}{}{Une ville de moyenne importance, bÃ¢tie sur des dÃ©tritus et dirigÃ©e par un shÃ©rif du nom de Killian. Elle est Ã  seulement quelques jours au Sud-Ouest des Sables OmbragÃ©s.}
+{1104}{}{Le Centre est la plus grande ville commerÃ§ante du Nouvel Ouest. Les Marchands d'Eau la dirige. Il y a aussi d'autres commerÃ§ants. C'est une ville en pleine croissance mais en proie Ã  des luttes de pouvoir entre les commerÃ§ants.}
+{1105}{}{Il existe diffÃ©rents groupes de pillards lÃ -bas. Le groupe le mieux organisÃ© s'appelle les Khans; ils semblent penser qu'ils sont en mesure de dominer le monde.}
+{1106}{}{La plupart des caravanes viennent du Centre. Elles circulent un peu partout. Il m'est arrivÃ© de travailler pour un groupe appelÃ© la Caravane Ecarlate avant ma derniÃ¨re blessure.}
+{1107}{}{Je n'ai pas la moindre idÃ©e de ce qu'est une puce d'eau. DÃ©solÃ©}
+{1108}{}{Un petit village tranquille. Certainement la communautÃ© la plus prometteuse du dÃ©sert.}
+{1109}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1110}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1111}{}{Garl est un vÃ©ritable abruti qui pense pouvoir conquÃ©rir le monde avec son armada de pillards. Ouais, rien que Ã§a !}
+{1112}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1113}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1114}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1115}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
 {1116}{}{N'est-ce pas la ville mythique des morts ?}
-{1117}{}{Désolé, je n'en sais pas plus que toi.}
-{1118}{}{Désolé, je n'en sais pas plus que toi.}
-{1119}{}{Désolé, je n'en sais pas plus que toi.}
+{1117}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1118}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1119}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
 {1120}{}{Razlo est un bon docteur. Tu devrais aller le voir si tu as des blessures.}
-{1121}{}{Razlo fait du bon boulot en soignant les gens et sa gnôle est pas mal non plus !}
-{1122}{}{Désolé, je n'en sais pas plus que toi.}
-{1123}{}{Désolé, je n'en sais pas plus que toi.}
-{1124}{}{Désolé, je n'en sais pas plus que toi.}
-{1125}{}{Killian est le maire de Dépôtville. Il a aussi un magasin. C'est un type bien. Je n'ai jamais travaillé pour lui mais il semble réglo.}
-{1126}{}{Gizmo dirige un casino à Dépôtville. On dit que tous les jeux sont truqués.}
-{1127}{}{Désolé, je n'en sais pas plus que toi.}
+{1121}{}{Razlo fait du bon boulot en soignant les gens et sa gnÃ´le est pas mal non plus !}
+{1122}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1123}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1124}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1125}{}{Killian est le maire de DÃ©pÃ´tville. Il a aussi un magasin. C'est un type bien. Je n'ai jamais travaillÃ© pour lui mais il semble rÃ©glo.}
+{1126}{}{Gizmo dirige un casino Ã  DÃ©pÃ´tville. On dit que tous les jeux sont truquÃ©s.}
+{1127}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
 {1128}{}{Le casino, c'est le gros coup de Gizmo. Ca attire des tonnes de touristes et d'argent mais aussi les nuisances qui vont avec.}
-{1129}{}{Killian dirige un très bon magasin à Dépôtville.}
-{1130}{}{Désolé, je n'en sais pas plus que toi.}
-{1131}{}{Désolé, je n'en sais pas plus que toi.}
-{1132}{}{Désolé, je n'en sais pas plus que toi.}
-{1133}{}{Désolé, je n'en sais pas plus que toi.}
-{1134}{}{Désolé, je n'en sais pas plus que toi.}
-{1135}{}{Ouais, il y a quelques gamins aux Sables Ombragés. Et alors ? Ils ne sont pas à moi.}
-{1136}{}{Désolé, je n'en sais pas plus que toi.}
-{1137}{}{Désolé, je n'en sais pas plus que toi.}
-{1138}{}{Désolé, je n'en sais pas plus que toi.}
-{1139}{}{Désolé, je n'en sais pas plus que toi.}
-{1141}{}{Tu sais, on aura toujours des guerres. La prochaine, on la fera avec des bâtons.}
+{1129}{}{Killian dirige un trÃ¨s bon magasin Ã  DÃ©pÃ´tville.}
+{1130}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1131}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1132}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1133}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1134}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1135}{}{Ouais, il y a quelques gamins aux Sables OmbragÃ©s. Et alors ? Ils ne sont pas Ã  moi.}
+{1136}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1137}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1138}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1139}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1141}{}{Tu sais, on aura toujours des guerres. La prochaine, on la fera avec des bÃ¢tons.}
 {1142}{}{J'ai vu des choses bizarres quand je gardais les caravanes pour le Centre. Des coyotes, des mantes, des scorpions mutants... Ce genre de choses.}
-{1143}{}{Désolé, je n'en sais pas plus que toi.}
-{1144}{}{C'est un groupe qui attaque les Sables Ombragés et qui pense pouvoir dominer le monde.}
-{1145}{}{C'est la fille d'Aradesh. Elle est plutôt mignonne mais j'ai déjà quelqu'un qui m'attend à la maison.}
-{1146}{}{Désolé, je n'en sais pas plus que toi.}
-{1147}{}{Désolé, je n'en sais pas plus que toi.}
-{1148}{}{Désolé, je n'en sais pas plus que toi.}
-{1149}{}{Désolé, je n'en sais pas plus que toi.}
-{1150}{}{Désolé, je n'en sais pas plus que toi.}
-{1151}{}{T'as pas une bière ?}
-{1152}{}{Une fois, j'ai pris du Psycho lors de l'attaque d'une caravane. Je me suis senti tout drôle.}
+{1143}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1144}{}{C'est un groupe qui attaque les Sables OmbragÃ©s et qui pense pouvoir dominer le monde.}
+{1145}{}{C'est la fille d'Aradesh. Elle est plutÃ´t mignonne mais j'ai dÃ©jÃ  quelqu'un qui m'attend Ã  la maison.}
+{1146}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1147}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1148}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1149}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1150}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1151}{}{T'as pas une biÃ¨re ?}
+{1152}{}{Une fois, j'ai pris du Psycho lors de l'attaque d'une caravane. Je me suis senti tout drÃ´le.}
 {1153}{}{Seth est le capitaine des gardes. Entre nous, c'est vraiment une bille.}
-{1154}{}{Aradesh est le chef des Sables Ombragés. Un homme charmant et plein de patience même s'il est un peu cinglé.}
-{1155}{}{Hé, en cas de besoin, c'est Razlo qu'il faut aller voir. C'est un super docteur.}
-{1156}{}{Désolé, je n'en sais pas plus que toi.}
-{1157}{}{Désolé, je n'en sais pas plus que toi.}
-{1158}{}{Désolé, je n'en sais pas plus que toi.}
-{1159}{}{Désolé, je n'en sais pas plus que toi.}
-{1160}{}{Désolé, je n'en sais pas plus que toi.}
-{1161}{}{Désolé, je n'en sais pas plus que toi.}
+{1154}{}{Aradesh est le chef des Sables OmbragÃ©s. Un homme charmant et plein de patience mÃªme s'il est un peu cinglÃ©.}
+{1155}{}{HÃ©, en cas de besoin, c'est Razlo qu'il faut aller voir. C'est un super docteur.}
+{1156}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1157}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1158}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1159}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1160}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1161}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
 {1162}{}{J'sais pas. Je pense qu'il y a un truc qui tourne pas rond, mais je n'ai aucune preuve.}
-{1163}{}{Désolé, je n'en sais pas plus que toi.}
-{1164}{}{Désolé, je n'en sais pas plus que toi.}
-{1165}{}{Certains marchands du Centre viennent à Dépôtville pour faire des affaires. C'est tout ce que je sais.}
+{1163}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1164}{}{DÃ©solÃ©, je n'en sais pas plus que toi.}
+{1165}{}{Certains marchands du Centre viennent Ã  DÃ©pÃ´tville pour faire des affaires. C'est tout ce que je sais.}
 {1999}{}{J'ai appris de nouveaux trucs.}
 {2000}{}{Discutons de notre tactique de combat.}
 {2001}{}{Ouais ?}
 {2010}{}{Utilise ta meilleure arme.}
 {2011}{}{Change ton armure.}
-{2012}{}{Préfère le combat à distance plutôt que rapproché.}
-{2013}{}{Préfère le combat rapproché plutôt qu'à distance.}
+{2012}{}{PrÃ©fÃ¨re le combat Ã  distance plutÃ´t que rapprochÃ©.}
+{2013}{}{PrÃ©fÃ¨re le combat rapprochÃ© plutÃ´t qu'Ã  distance.}
 {2014}{}{Choisis la distance qui t'arrange.}
 {2015}{}{C'est tout pour l'instant.}
-{2100}{}{C'est ça, mon pote.}
+{2100}{}{C'est Ã§a, mon pote.}

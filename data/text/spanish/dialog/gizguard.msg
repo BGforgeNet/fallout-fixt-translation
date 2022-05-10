@@ -1,34 +1,34 @@
-{100}{}{¡Oye!}
-{101}{}{¡Aquí no se permiten armas!}
-{102}{}{¡Cuidado!}
-{103}{}{¡Cogedlos!}
-{104}{}{¡Deja de curiosear!}
-{105}{}{¡Deja de curiosear por aquí!}
-{106}{}{¡Eh, tú! Deja de esconderte y sal de una vez!}
-{107}{}{¿Qué?}
-{108}{}{Eh, ¿puedo hacerte algunas preguntas?}
-{109}{}{¿Tienes algunas chapas sueltas?}
+{100}{}{Â¡Oye!}
+{101}{}{Â¡AquÃ­ no se permiten armas!}
+{102}{}{Â¡Cuidado!}
+{103}{}{Â¡Cogedlos!}
+{104}{}{Â¡Deja de curiosear!}
+{105}{}{Â¡Deja de curiosear por aquÃ­!}
+{106}{}{Â¡Eh, tÃº! Deja de esconderte y sal de una vez!}
+{107}{}{Â¿QuÃ©?}
+{108}{}{Eh, Â¿puedo hacerte algunas preguntas?}
+{109}{}{Â¿Tienes algunas chapas sueltas?}
 {110}{}{No importa, disculpa.}
-{111}{}{¿Uuuh?}
+{111}{}{Â¿Uuuh?}
 {112}{}{Estoy trabajando. Date prisa.}
 {113}{}{No. Vete.}
-{114}{}{¿Me puedes hablar de tu jefe?}
-{115}{}{¿Qué más hay por esta ciudad?}
-{116}{}{Y tú que eres, ¿idiota? Anda vete.}
+{114}{}{Â¿Me puedes hablar de tu jefe?}
+{115}{}{Â¿QuÃ© mÃ¡s hay por esta ciudad?}
+{116}{}{Y tÃº que eres, Â¿idiota? Anda vete.}
 {117}{}{No. Vete a suplicar a otro sitio.}
-{118}{}{Lárgate.}
-{119}{}{Aquí no necesitamos pobres.}
-{120}{}{Gizmo es un hombre justo. El sueldo es bueno y el trabajo fácil. No causes problemas y todos tan contentos.}
-{121}{}{Ve a buscar algo de beber a la Fosa Común. Buen sitio. Abre a las cuatro. Ahora, déjame solo.}
-{122}{}{¿Por qué no te vas de compras al almacén de Killian? Está al sudeste de aquí. Ahora, lárgate.}
+{118}{}{LÃ¡rgate.}
+{119}{}{AquÃ­ no necesitamos pobres.}
+{120}{}{Gizmo es un hombre justo. El sueldo es bueno y el trabajo fÃ¡cil. No causes problemas y todos tan contentos.}
+{121}{}{Ve a buscar algo de beber a la Fosa ComÃºn. Buen sitio. Abre a las cuatro. Ahora, dÃ©jame solo.}
+{122}{}{Â¿Por quÃ© no te vas de compras al almacÃ©n de Killian? EstÃ¡ al sudeste de aquÃ­. Ahora, lÃ¡rgate.}
 {123}{}{Habla con los comerciantes.}
-{124}{}{Eh, si quieres divertirte un poco, pásate por la Posada y pregunta por Sinthia. Merece la pena.}
+{124}{}{Eh, si quieres divertirte un poco, pÃ¡sate por la Posada y pregunta por Sinthia. Merece la pena.}
 {125}{}{Nada de trampas.}
 {126}{}{Liquidaremos a los deudores.}
 {127}{}{Colega, me duele el cuello.}
 {128}{}{Este trabajo es una mierda.}
 {129}{}{Me encanta este sitio.}
-{130}{}{Creo que esta noche visitaré a Sinthia.}
-{131}{}{Sal de aquí, imbécil.}
-{132}{}{¡Aquí no se permiten armas!}
-{133}{}{¡Eh! ¡Tú! ¡Aparta eso!}
+{130}{}{Creo que esta noche visitarÃ© a Sinthia.}
+{131}{}{Sal de aquÃ­, imbÃ©cil.}
+{132}{}{Â¡AquÃ­ no se permiten armas!}
+{133}{}{Â¡Eh! Â¡TÃº! Â¡Aparta eso!}

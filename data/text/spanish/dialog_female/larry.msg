@@ -1,25 +1,25 @@
 {100}{}{Has enfadado a Larry.}
 {101}{}{Ves: a Larry.}
-{102}{}{Si molestas al jefe, te dará una paliza.}
-{103}{}{No se admiten humanos en Necrópolis. Ven conmigo.}
+{102}{}{Si molestas al jefe, te darÃ¡ una paliza.}
+{103}{}{No se admiten humanos en NecrÃ³polis. Ven conmigo.}
 {104}{}{Pero...}
-{105}{}{¡Nunca!}
-{106}{}{¡¡Unnn!!}
-{107}{}{¡Muere, humana!}
+{105}{}{Â¡Nunca!}
+{106}{}{Â¡Â¡Unnn!!}
+{107}{}{Â¡Muere, humana!}
 {108}{}{El mutante te ignora.}
 {1000}{}{Agua}
-{1001}{}{Necrópolis}
+{1001}{}{NecrÃ³polis}
 {1002}{}{Set}
-{1003}{}{Almacén de Agua}
+{1003}{}{AlmacÃ©n de Agua}
 {1004}{}{Sala}
 {1005}{}{Teni}
-{1006}{}{Necrófagos}
+{1006}{}{NecrÃ³fagos}
 {1007}{}{Normales}
 {1100}{}{No tengo ni idea.}
-{1101}{}{Estás encima de ella.}
-{1102}{}{Es un impresentable. Nos mantenemos alejados de él y de sus necrófagos.}
-{1103}{}{Es aquí.}
+{1101}{}{EstÃ¡s encima de ella.}
+{1102}{}{Es un impresentable. Nos mantenemos alejados de Ã©l y de sus necrÃ³fagos.}
+{1103}{}{Es aquÃ­.}
 {1104}{}{No tengo ni idea.}
 {1105}{}{Es el jefe de Harry.}
 {1106}{}{Debiluchos.}
-{1107}{}{Más débiles que los necrófagos.}
+{1107}{}{MÃ¡s dÃ©biles que los necrÃ³fagos.}

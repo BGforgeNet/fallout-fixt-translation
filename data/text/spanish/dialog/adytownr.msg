@@ -1,20 +1,20 @@
-{100}{}{Est·s viendo a un habitante de Adytum.}
+{100}{}{Est√°s viendo a un habitante de Adytum.}
 {101}{}{Parece que llueve... como siempre.}
 {102}{}{Lo siento, tengo que irme. El trabajo me espera.}
-{103}{}{No vienen muchos forasteros por aquÌ.}
+{103}{}{No vienen muchos forasteros por aqu√≠.}
 {104}{}{Tengo que volver al trabajo.}
-{105}{}{Yo de ti me volverÌa al Eje.}
-{106}{}{Buenos dÌas... si se pueden llamar asÌ.}
-{107}{}{SÌ... lo que sea.}
+{105}{}{Yo de ti me volver√≠a al Eje.}
+{106}{}{Buenos d√≠as... si se pueden llamar as√≠.}
+{107}{}{S√≠... lo que sea.}
 {108}{}{No tengo tiempo de charlas.}
 {109}{}{No puedo hablar ahora mismo.}
-{110}{}{Espero que la lluvia no sea radioactiva como ocurriÛ ayer.}
+{110}{}{Espero que la lluvia no sea radioactiva como ocurri√≥ ayer.}
 {111}{}{Parece que otra vez nos va a faltar comida.}
-{112}{}{Espero que las caravanas pasen por aquÌ pronto.}
+{112}{}{Espero que las caravanas pasen por aqu√≠ pronto.}
 {113}{}{Tenemos la oportunidad de hacerlo ahora.}
-{114}{}{Adytum ser· la ciudad que queremos que sea.}
+{114}{}{Adytum ser√° la ciudad que queremos que sea.}
 {115}{}{Gracias por tu ayuda.}
 {116}{}{Gracias por deshacerte de los Reguladores.}
 {117}{}{Gracias por nuestra libertad.}
-{118}{}{Es fant·stico que los Reguladores se hayan marchado.}
+{118}{}{Es fant√°stico que los Reguladores se hayan marchado.}
 {119}{}{Bienvenido al nuevo Adytum.}

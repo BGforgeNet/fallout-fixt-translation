@@ -1,44 +1,44 @@
 {100}{}{El saqueador le tiene demasiado miedo a Garl para seguir hablando contigo.}
 {101}{}{Ves a un duro saqueador del desierto.}
-{102}{}{Es la Mano Letal. ¡Ha vuelto!}
-{103}{}{Discúlpame, Mano Letal. Siento molestarle.}
-{104}{}{¿Has vuelto para matar a tu hijo?}
-{105}{}{¡Ayyyy! ¡Un fantasma!}
-{106}{}{¡La muerte camina otra vez! ¡La Mano Letal ha vuelto!}
+{102}{}{Es la Mano Letal. Â¡Ha vuelto!}
+{103}{}{DiscÃºlpame, Mano Letal. Siento molestarle.}
+{104}{}{Â¿Has vuelto para matar a tu hijo?}
+{105}{}{Â¡Ayyyy! Â¡Un fantasma!}
+{106}{}{Â¡La muerte camina otra vez! Â¡La Mano Letal ha vuelto!}
 {107}{}{Bien hecho.}
 {108}{}{Hola.}
-{109}{}{Estoy esperando a Garl para aplastar a los de Arenas Sombrías. Me apetece saquear.}
+{109}{}{Estoy esperando a Garl para aplastar a los de Arenas SombrÃ­as. Me apetece saquear.}
 {110}{}{Bienvenida, colega.}
 {111}{}{Me alegra que vuelvas de visita.}
-{112}{}{A menos que quieras problemas, será mejor que apartes eso.}
-{113}{}{¿Quieres leña? Si no, aparta tus armas.}
-{114}{}{Oh, te crees fuerte, ¿eh?}
-{115}{}{Garl Mano Letal ama a sus guerreros. Aparta eso y ve a hablar con él.}
-{116}{}{Así que piensas que eres muy dura, ¿eh? Métete conmigo y lo comprobaremos.}
-{117}{}{No me gusta la gente como tú.}
-{118}{}{¡Vete!}
-{119}{}{¿Qué quieres?}
-{120}{}{Busco a una mujer llamada Tandi. ¿La has visto?}
-{121}{}{Nada. Sólo pasaba por aquí.}
-{122}{}{¿Eh?}
-{123}{}{Oh. Debes estar buscando trabajo. Ve a ver a Garl en la sala grande y déjanos en paz.}
+{112}{}{A menos que quieras problemas, serÃ¡ mejor que apartes eso.}
+{113}{}{Â¿Quieres leÃ±a? Si no, aparta tus armas.}
+{114}{}{Oh, te crees fuerte, Â¿eh?}
+{115}{}{Garl Mano Letal ama a sus guerreros. Aparta eso y ve a hablar con Ã©l.}
+{116}{}{AsÃ­ que piensas que eres muy dura, Â¿eh? MÃ©tete conmigo y lo comprobaremos.}
+{117}{}{No me gusta la gente como tÃº.}
+{118}{}{Â¡Vete!}
+{119}{}{Â¿QuÃ© quieres?}
+{120}{}{Busco a una mujer llamada Tandi. Â¿La has visto?}
+{121}{}{Nada. SÃ³lo pasaba por aquÃ­.}
+{122}{}{Â¿Eh?}
+{123}{}{Oh. Debes estar buscando trabajo. Ve a ver a Garl en la sala grande y dÃ©janos en paz.}
 {124}{}{Entonces hazlo en otro sitio.}
-{125}{}{No. No la he visto. ¿Por qué lo preguntas?}
-{126}{}{Nada. Solo estoy buscando a una amiga mía.}
-{127}{}{Su cabeza tiene precio. Si consigo matarla, conseguiré unas buenas chapas.}
-{128}{}{Estás mintiendo. ¿Dónde está?}
+{125}{}{No. No la he visto. Â¿Por quÃ© lo preguntas?}
+{126}{}{Nada. Solo estoy buscando a una amiga mÃ­a.}
+{127}{}{Su cabeza tiene precio. Si consigo matarla, conseguirÃ© unas buenas chapas.}
+{128}{}{EstÃ¡s mintiendo. Â¿DÃ³nde estÃ¡?}
 {129}{}{Ah, vale.}
-{130}{}{¿De verdad? ¿Cómo es ella?}
-{131}{}{Alrededor de 1,80 m. Rubia. Es de Arenas Sombrías.}
-{132}{}{Sí, está aquí. En la casa grande. Ya sabes, si se lo decimos a Garl, querrá una parte del botín. Puede que te interese saberlo.}
-{133}{}{No pareces sincero. Creo que tramas algo. Y si estás diciendo la verdad, me quedaré con la recompensa.}
-{134}{}{Yo... yo no puedo decir nada más o Garl me matará.}
-{135}{}{¡Chúpamela!}
-{136}{}{No me gusta la gente como tú. Mejor será que te alejes de mi vista.}
-{137}{}{¿Qué? ¡Vete!}
+{130}{}{Â¿De verdad? Â¿CÃ³mo es ella?}
+{131}{}{Alrededor de 1,80 m. Rubia. Es de Arenas SombrÃ­as.}
+{132}{}{SÃ­, estÃ¡ aquÃ­. En la casa grande. Ya sabes, si se lo decimos a Garl, querrÃ¡ una parte del botÃ­n. Puede que te interese saberlo.}
+{133}{}{No pareces sincero. Creo que tramas algo. Y si estÃ¡s diciendo la verdad, me quedarÃ© con la recompensa.}
+{134}{}{Yo... yo no puedo decir nada mÃ¡s o Garl me matarÃ¡.}
+{135}{}{Â¡ChÃºpamela!}
+{136}{}{No me gusta la gente como tÃº. Mejor serÃ¡ que te alejes de mi vista.}
+{137}{}{Â¿QuÃ©? Â¡Vete!}
 {200}{}{Parece curtido por el combate y acostumbrado a la dura vida del yermo.}
-{201}{}{Su lenguaje corporal dice más que sus expresiones. Ninguno es muy agradable.}
-{202}{}{Te mira con desprecio y aprieta la empuñadura de su arma.}
+{201}{}{Su lenguaje corporal dice mÃ¡s que sus expresiones. Ninguno es muy agradable.}
+{202}{}{Te mira con desprecio y aprieta la empuÃ±adura de su arma.}
 {203}{}{Parece curtida por el combate y acostumbrada a la dura vida del yermo.}
-{204}{}{Te da la sensación de que "señorita" no sería una palabra adecuada para describir a esta mujer.}
-{205}{}{Hace un gesto sensual con sus caderas y te guiña un ojo.}
+{204}{}{Te da la sensaciÃ³n de que "seÃ±orita" no serÃ­a una palabra adecuada para describir a esta mujer.}
+{205}{}{Hace un gesto sensual con sus caderas y te guiÃ±a un ojo.}

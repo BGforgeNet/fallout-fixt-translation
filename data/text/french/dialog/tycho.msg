@@ -1,36 +1,36 @@
-{100}{}{Voici un homme vêtu d'une armure en cuir poussiéreuse, d'un trench-coat et d'un masque à gaz.}
-{101}{}{Voici Tycho, un des Rangers du Désert.}
-{102}{}{Une nouvelle tête. Les voyageurs courent les rues ici. Mais tu n'as pas l'air comme les autres. Veux-tu te joindre à moi pour boire un verre ?}
+{100}{}{Voici un homme vÃªtu d'une armure en cuir poussiÃ©reuse, d'un trench-coat et d'un masque Ã  gaz.}
+{101}{}{Voici Tycho, un des Rangers du DÃ©sert.}
+{102}{}{Une nouvelle tÃªte. Les voyageurs courent les rues ici. Mais tu n'as pas l'air comme les autres. Veux-tu te joindre Ã  moi pour boire un verre ?}
 {103}{}{Excuse-moi mais je n'ai pas le temps.}
-{104}{}{Bien sûr.}
+{104}{}{Bien sÃ»r.}
 {105}{}{Que-Quoi ?}
-{106}{}{Formidable. J'espère que tu ne vois pas d'inconvénient à déguster une boisson bien arrosée. Ils ne savent pas faire la bière ici.}
+{106}{}{Formidable. J'espÃ¨re que tu ne vois pas d'inconvÃ©nient Ã  dÃ©guster une boisson bien arrosÃ©e. Ils ne savent pas faire la biÃ¨re ici.}
 {107}{}{Eh bien, quelle est ton histoire ?}
 {108}{}{Ouais, un verre d'eau. Qu'importe.}
-{109}{}{Je pourrais te demander la même chose. Je pense que je devrais me présenter. Je m'appelle Tycho. Je suis originaire de l'Est, d'un endroit qui s'appelait autrefois le Nevada.}
-{110}{}{Ton voyage pour arriver jusqu'ici a du être long...}
-{111}{}{Comment as-tu fait pour survivre à tous les dangers ?}
-{112}{}{Ouais, en effet. J'avais décidé de prendre du bon temps. Cet endroit peut être sympa... enfin il le sera quand quelqu'un l'aura débarrassé de ses ordures.}
+{109}{}{Je pourrais te demander la mÃªme chose. Je pense que je devrais me prÃ©senter. Je m'appelle Tycho. Je suis originaire de l'Est, d'un endroit qui s'appelait autrefois le Nevada.}
+{110}{}{Ton voyage pour arriver jusqu'ici a du Ãªtre long...}
+{111}{}{Comment as-tu fait pour survivre Ã  tous les dangers ?}
+{112}{}{Ouais, en effet. J'avais dÃ©cidÃ© de prendre du bon temps. Cet endroit peut Ãªtre sympa... enfin il le sera quand quelqu'un l'aura dÃ©barrassÃ© de ses ordures.}
 {113}{}{Pourquoi ne t'en charges-tu pas ?}
-{114}{}{Oui, j'ai remarqué. Que sais-tu sur ces connards ?}
-{115}{}{Je suis bien entraîné et bien armé. Mon grand-père était guide et il a appris à mon père tout ce qu'il savait. Mon père me l'a ensuite appris à son tour. Alors j'en connais assez pour ne pas boire d'eau qui brille et pour ne pas trop parler.}
-{116}{}{Intéressant. Merci pour le verre.}
-{117}{}{Vraiment ? Difficile de survivre de nos jours. Tu dois connaître beaucoup de choses.}
-{118}{}{Après tout, je préférerais ne pas croiser Killian. Il nettoiera cette ville lorsqu'il y viendra. C'est un homme bon, et je pèse mes mots. Mais méfie-toi de ce Gizmo. Il me fait penser à un autre sale type dont mon père m'avait parlé de retour de Las Vegas.}
+{114}{}{Oui, j'ai remarquÃ©. Que sais-tu sur ces connards ?}
+{115}{}{Je suis bien entraÃ®nÃ© et bien armÃ©. Mon grand-pÃ¨re Ã©tait guide et il a appris Ã  mon pÃ¨re tout ce qu'il savait. Mon pÃ¨re me l'a ensuite appris Ã  son tour. Alors j'en connais assez pour ne pas boire d'eau qui brille et pour ne pas trop parler.}
+{116}{}{IntÃ©ressant. Merci pour le verre.}
+{117}{}{Vraiment ? Difficile de survivre de nos jours. Tu dois connaÃ®tre beaucoup de choses.}
+{118}{}{AprÃ¨s tout, je prÃ©fÃ©rerais ne pas croiser Killian. Il nettoiera cette ville lorsqu'il y viendra. C'est un homme bon, et je pÃ¨se mes mots. Mais mÃ©fie-toi de ce Gizmo. Il me fait penser Ã  un autre sale type dont mon pÃ¨re m'avait parlÃ© de retour de Las Vegas.}
 {119}{}{Merci pour le conseil et pour le verre.}
-{120}{}{Il y a deux types de vermines ici. Les Skulz sont une bande qui agissent pour le compte de Marcelles. Ce sont des andouilles de seconde zone. Mais les autres obéissent à un sale type dont tu devines sans doute le nom. Il tient le casino. Ces types sont organisés et dangereux.}
+{120}{}{Il y a deux types de vermines ici. Les Skulz sont une bande qui agissent pour le compte de Marcelles. Ce sont des andouilles de seconde zone. Mais les autres obÃ©issent Ã  un sale type dont tu devines sans doute le nom. Il tient le casino. Ces types sont organisÃ©s et dangereux.}
 {121}{}{Je vois. Merci pour le renseignement.}
-{122}{}{Ouais, eh bien, ma famille m'a appris tout ce qu'il fallait savoir pour survivre. Comme de ne pas boire de l'eau claire, exempte d'insectes et de mousse. Seules les eaux empoisonnées ou radioactives peuvent être si claires dans le désert ! Tout comme un tas d'autres petites choses auxquelles il faut faire gaffe.}
+{122}{}{Ouais, eh bien, ma famille m'a appris tout ce qu'il fallait savoir pour survivre. Comme de ne pas boire de l'eau claire, exempte d'insectes et de mousse. Seules les eaux empoisonnÃ©es ou radioactives peuvent Ãªtre si claires dans le dÃ©sert ! Tout comme un tas d'autres petites choses auxquelles il faut faire gaffe.}
 {123}{}{Comme quoi ?}
 {124}{}{Eh bien, si tu as un peu de temps, je pourrais te donner quelques tuyaux.}
 {125}{}{Certainement, ce serait formidable.}
 {126}{}{Excuse-moi mais je n'ai pas vraiment le temps.}
-{127}{}{Eh, pas si vite. Nous n'avons pas terminé les présentations, tu t'en souviens ? C'est quoi ton nom ?}
+{127}{}{Eh, pas si vite. Nous n'avons pas terminÃ© les prÃ©sentations, tu t'en souviens ? C'est quoi ton nom ?}
 {128}{}{Je m'appelle }
 {129}{}{.}
-{130}{}{Cela ne te regarde pas, imbécile.}
-{131}{}{Cette rencontre fut un plaisir ! Fais attention à toi.}
-{132}{}{Hé, hé, tu peux ranger ton impolitesse. Si tu continues comme ça, je te conseille de foutre le camp !}
+{130}{}{Cela ne te regarde pas, imbÃ©cile.}
+{131}{}{Cette rencontre fut un plaisir ! Fais attention Ã  toi.}
+{132}{}{HÃ©, hÃ©, tu peux ranger ton impolitesse. Si tu continues comme Ã§a, je te conseille de foutre le camp !}
 {133}{}{Frappe-moi.}
 {134}{}{Qu'importe. Au revoir.}
 {135}{}{Qu'est-ce que tu veux ?}
@@ -39,83 +39,83 @@
 {138}{}{J'ai besoin de renseignements sur la ville.}
 {139}{}{Rebonjour. Que puis-je faire pour toi ?}
 {140}{}{Killian veut que je nettoie cette ville et j'aimerais que tu m'aides.}
-{141}{}{Eh bien, voici le Skum Pitt, la retraite des voyous. A l'Ouest d'ici se trouve le grand casino de Gizmo. On dit que les jeux y sont truqués. Au Sud se trouve la Crash House, tenue par Marcelles, où tu peux dormir pur pas trop cher. Ensuite, il y a chez Killian. Killian tient un magasin et il fait également régner la loi dans cette ville. C'est un homme bien. Encore au Sud vit Doc Morbide, un gars assez marrant, si tu vois ce que je veux dire.}
-{142}{}{J'espère que ces petites indications te seront utiles.}
+{141}{}{Eh bien, voici le Skum Pitt, la retraite des voyous. A l'Ouest d'ici se trouve le grand casino de Gizmo. On dit que les jeux y sont truquÃ©s. Au Sud se trouve la Crash House, tenue par Marcelles, oÃ¹ tu peux dormir pur pas trop cher. Ensuite, il y a chez Killian. Killian tient un magasin et il fait Ã©galement rÃ©gner la loi dans cette ville. C'est un homme bien. Encore au Sud vit Doc Morbide, un gars assez marrant, si tu vois ce que je veux dire.}
+{142}{}{J'espÃ¨re que ces petites indications te seront utiles.}
 {143}{}{}
-{144}{}{On dit que tu as eu quelques contacts avec Gizmo. Je me méfierais de ce tas de graisse si j'étais toi...}
+{144}{}{On dit que tu as eu quelques contacts avec Gizmo. Je me mÃ©fierais de ce tas de graisse si j'Ã©tais toi...}
 {145}{}{Ce sont mes affaires.}
-{146}{}{Ouais, je travaille pour Gizmo désormais. Ca te va ?}
-{147}{}{Très bien mais fais quand même attention à toi. Gizmo n'est pas du genre à avoir beaucoup de respect pour ses employés.}
-{148}{}{Il est important de souligner que ton employeur est responsable de tous les malheurs de cette ville. N'espère rien de quiconque et surtout pas de Gizmo ! Dommage. Tu aurais été capable d'améliorer la situation de cette ville...}
+{146}{}{Ouais, je travaille pour Gizmo dÃ©sormais. Ca te va ?}
+{147}{}{TrÃ¨s bien mais fais quand mÃªme attention Ã  toi. Gizmo n'est pas du genre Ã  avoir beaucoup de respect pour ses employÃ©s.}
+{148}{}{Il est important de souligner que ton employeur est responsable de tous les malheurs de cette ville. N'espÃ¨re rien de quiconque et surtout pas de Gizmo ! Dommage. Tu aurais Ã©tÃ© capable d'amÃ©liorer la situation de cette ville...}
 {149}{}{Que puis-je pour toi ?}
 {150}{}{Des recommandations ?}
-{151}{}{Merci de ton aide. Je pense qu'il est temps de nous séparer.}
-{152}{}{Ouais, je préfère rester loin de ce qui a fait ça. Sérieusement, je n'ai jamais rien vu de tel. Je pense que nous devrions partir et vite.}
-{153}{}{Très bien. Je dois dire que ce fut un honneur et un plaisir.}
-{154}{}{Fais attention aux zones rouges radioactives ! De toute évidence, cet endroit a été touché par une bombe nucléaire et les phénomènes de radiations en cascades sont très dangereux. Je te conseille d'éviter à tout prix cet endroit si tu le peux.}
-{155}{}{Remarque l'absence d'animaux dans les environs. Et tous ces ossements. Une terrible créature doit vivre ici. Ne te sépare pas de ton arme !}
-{156}{}{Un site militaire comme celui-là doit nécessairement disposer d'une salle de contrôle centrale quelque part.}
-{157}{}{Je parie que nous pourrions accéder à ces générateurs de champs de forces en utilisant, par exemple, un ordinateur de contrôle de champs de forces.}
-{158}{}{On raconte des choses étranges au sujet de Nécropolis, la ville des morts. Fais très attention car tout pourrait aller très vite.}
+{151}{}{Merci de ton aide. Je pense qu'il est temps de nous sÃ©parer.}
+{152}{}{Ouais, je prÃ©fÃ¨re rester loin de ce qui a fait Ã§a. SÃ©rieusement, je n'ai jamais rien vu de tel. Je pense que nous devrions partir et vite.}
+{153}{}{TrÃ¨s bien. Je dois dire que ce fut un honneur et un plaisir.}
+{154}{}{Fais attention aux zones rouges radioactives ! De toute Ã©vidence, cet endroit a Ã©tÃ© touchÃ© par une bombe nuclÃ©aire et les phÃ©nomÃ¨nes de radiations en cascades sont trÃ¨s dangereux. Je te conseille d'Ã©viter Ã  tout prix cet endroit si tu le peux.}
+{155}{}{Remarque l'absence d'animaux dans les environs. Et tous ces ossements. Une terrible crÃ©ature doit vivre ici. Ne te sÃ©pare pas de ton arme !}
+{156}{}{Un site militaire comme celui-lÃ  doit nÃ©cessairement disposer d'une salle de contrÃ´le centrale quelque part.}
+{157}{}{Je parie que nous pourrions accÃ©der Ã  ces gÃ©nÃ©rateurs de champs de forces en utilisant, par exemple, un ordinateur de contrÃ´le de champs de forces.}
+{158}{}{On raconte des choses Ã©tranges au sujet de NÃ©cropolis, la ville des morts. Fais trÃ¨s attention car tout pourrait aller trÃ¨s vite.}
 {159}{}{Je dois changer ma formation.}
 {160}{}{A quelle distance veux-tu que je me mette ?}
-{161}{}{Ne t'éloigne pas.}
-{162}{}{Reste à distance.}
-{163}{}{Déplace-toi un peu plus loin.}
-{164}{}{Quelles sont tes compétences en matière d'armes ?}
-{165}{}{J'ai suivi un bon entraînement de Guide. Je suis doué avec les pistolets et les petites mitrailettes. Je peux aussi utiliser une lance, au cas où.}
+{161}{}{Ne t'Ã©loigne pas.}
+{162}{}{Reste Ã  distance.}
+{163}{}{DÃ©place-toi un peu plus loin.}
+{164}{}{Quelles sont tes compÃ©tences en matiÃ¨re d'armes ?}
+{165}{}{J'ai suivi un bon entraÃ®nement de Guide. Je suis douÃ© avec les pistolets et les petites mitrailettes. Je peux aussi utiliser une lance, au cas oÃ¹.}
 {166}{}{Euh, aucune importance.}
-{167}{}{Ouais, si tu aimes ton lézard bien cuit.}
-{168}{}{Eh bien il est presque temps. Mon ami, allons nettoyer les rues ! Gizmo est une très bonne cible, si je peux me permettre.}
-{169}{}{Eh bien il est presque temps. Mon amie, allons nettoyer les rues ! Gizmo est une très bonne cible, si je peux me permettre.}
+{167}{}{Ouais, si tu aimes ton lÃ©zard bien cuit.}
+{168}{}{Eh bien il est presque temps. Mon ami, allons nettoyer les rues ! Gizmo est une trÃ¨s bonne cible, si je peux me permettre.}
+{169}{}{Eh bien il est presque temps. Mon amie, allons nettoyer les rues ! Gizmo est une trÃ¨s bonne cible, si je peux me permettre.}
 {170}{}{Ah oui ?}
-{171}{}{Après tout, je pense que nous devrions rester ensemble.}
+{171}{}{AprÃ¨s tout, je pense que nous devrions rester ensemble.}
 {172}{}{Rien. Peu importe.}
-{173}{}{points d'expérience pour avoir recruté Tycho, le guide du désert.}
-{174}{}{Nous être amis ?}
+{173}{}{points d'expÃ©rience pour avoir recrutÃ© Tycho, le guide du dÃ©sert.}
+{174}{}{Nous Ãªtre amis ?}
 {175}{}{Tu va payer.}
 {176}{}{C'est l'heure de la revanche.}
-{177}{}{Les citoyens de Dépôtville doivent être vengés.}
+{177}{}{Les citoyens de DÃ©pÃ´tville doivent Ãªtre vengÃ©s.}
 {178}{}{Tu te crois au-dessus des lois ?}
-{179}{}{Je ne tolère pas les ordures comme toi.}
-{180}{}{Toutes les actions ont des conséquences.}
+{179}{}{Je ne tolÃ¨re pas les ordures comme toi.}
+{180}{}{Toutes les actions ont des consÃ©quences.}
 {181}{}{Tu vois : Tycho.}
-{1000}{}{Dépôtville}
+{1000}{}{DÃ©pÃ´tville}
 {1001}{}{Rangers}
 {1002}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1003}{}{Guerre}
-{1004}{}{Désert}
+{1004}{}{DÃ©sert}
 {1005}{}{Followers}
 {1006}{}{Cathedral}
 {1007}{}{Garl}
-{1008}{}{Maître}
-{1009}{}{Unité}
+{1008}{}{MaÃ®tre}
+{1009}{}{UnitÃ©}
 {1010}{}{Set}
 {1011}{}{Watershed}
-{1012}{}{Nécropolis}
+{1012}{}{NÃ©cropolis}
 {1013}{}{Hall}
 {1014}{}{Library}
 {1015}{}{Dirigeant}
-{1016}{}{Médecin}
-{1017}{}{Guérison}
+{1016}{}{MÃ©decin}
+{1017}{}{GuÃ©rison}
 {1018}{}{Abri}
 {1019}{}{Vault 13}
 {1020}{}{Abris}
 {1021}{}{Killian}
 {1022}{}{Gizmo}
-{1023}{}{Cimetière de L.A.}
+{1023}{}{CimetiÃ¨re de L.A.}
 {1024}{}{Sables}
-{1025}{}{Ombragés}
+{1025}{}{OmbragÃ©s}
 {1026}{}{Centre}
 {1027}{}{Casino}
 {1028}{}{Magasin}
 {1029}{}{Deathclaw}
 {1030}{}{Exode}
-{1031}{}{Initiés|Initié|Inities|Initie}
+{1031}{}{InitiÃ©s|InitiÃ©|Inities|Initie}
 {1032}{}{Paladins}
 {1033}{}{Scribes}
 {1034}{}{Enfants}
-{1036}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1036}{}{ConfrÃ©rie de l'Acier|ConfrÃ©rie|Confrerie|Acier}
 {1037}{}{Vats}
 {1038}{}{Base}
 {1039}{}{Militaire}
@@ -135,86 +135,86 @@
 {1054}{}{Aradesh}
 {1055}{}{Razlo}
 {1056}{}{Zimmerman}
-{1057}{}{Régulateurs}
+{1057}{}{RÃ©gulateurs}
 {1058}{}{Fouineurs}
 {1059}{}{Ecorcheurs}
 {1060}{}{Nicole}
 {1061}{}{Lieutenant}
-{1062}{}{Médiums}
-{1063}{}{Expériences}
+{1062}{}{MÃ©diums}
+{1063}{}{ExpÃ©riences}
 {1064}{}{Police}
 {1065}{}{Marchands|Marchand}
-{1100}{}{Eh bien, Dépôtville c'est pas le paradis mais c'est une ville intéressante. Elle a un certain potentiel, même si je ne sais pas si construire avec les déchêts du passé est la meilleure solution pour l'avenir.}
-{1101}{}{Nous, les guides, venons de l'Est, de ce qui s'appelait autrefois le Nevada. Notre héritage remonte à l'époque des Guides du Texas. Nous apprenons les techniques de survie et de combat pour affronter le monde et survivre.}
-{1102}{}{Cela fait longtemps que je n'ai pas vu une relique de la vieille technologie, comme une puce d'eau. Je pense que vous devriez compter sur vous-mêmes plutôt que sur un mécanisme que vous ne pouvez même pas réparer.}
-{1103}{}{La Guerre fut le résultat de l'avidité et de la folie humaine. Espérons que nous en ayons suffisamment appris pour qu'une telle folie ne se reproduise pas.}
-{1104}{}{Le désert est hostile et dangereux, même pour les voyageurs avertis. Les radiations et les créatures étranges y grouillent. Fais preuve de prudence et n'oublie pas que tout ce que tu vois et entends est un indice.}
-{1105}{}{Désolé mais je ne peux pas t'aider.}
-{1106}{}{Désolé mais je ne peux pas t'aider.}
-{1107}{}{Désolé mais je ne peux pas t'aider.}
-{1108}{}{Désolé mais je ne peux pas t'aider.}
-{1109}{}{Désolé mais je ne peux pas t'aider.}
-{1110}{}{Désolé mais je ne peux pas t'aider.}
-{1111}{}{Désolé mais je ne peux pas t'aider.}
-{1112}{}{La Cité de la Mort porte bien son nom. Elle est située sur l'ancienne petite ville de Bakersfield. Et aujourd'hui, elle abrite les Goules et autres créatures.}
-{1113}{}{Désolé mais je ne peux pas t'aider.}
-{1114}{}{Désolé mais je ne peux pas t'aider.}
-{1115}{}{Désolé mais je ne peux pas t'aider.}
-{1116}{}{Désolé mais je ne peux pas t'aider.}
-{1117}{}{Désolé mais je ne peux pas t'aider.}
+{1100}{}{Eh bien, DÃ©pÃ´tville c'est pas le paradis mais c'est une ville intÃ©ressante. Elle a un certain potentiel, mÃªme si je ne sais pas si construire avec les dÃ©chÃªts du passÃ© est la meilleure solution pour l'avenir.}
+{1101}{}{Nous, les guides, venons de l'Est, de ce qui s'appelait autrefois le Nevada. Notre hÃ©ritage remonte Ã  l'Ã©poque des Guides du Texas. Nous apprenons les techniques de survie et de combat pour affronter le monde et survivre.}
+{1102}{}{Cela fait longtemps que je n'ai pas vu une relique de la vieille technologie, comme une puce d'eau. Je pense que vous devriez compter sur vous-mÃªmes plutÃ´t que sur un mÃ©canisme que vous ne pouvez mÃªme pas rÃ©parer.}
+{1103}{}{La Guerre fut le rÃ©sultat de l'aviditÃ© et de la folie humaine. EspÃ©rons que nous en ayons suffisamment appris pour qu'une telle folie ne se reproduise pas.}
+{1104}{}{Le dÃ©sert est hostile et dangereux, mÃªme pour les voyageurs avertis. Les radiations et les crÃ©atures Ã©tranges y grouillent. Fais preuve de prudence et n'oublie pas que tout ce que tu vois et entends est un indice.}
+{1105}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1106}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1107}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1108}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1109}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1110}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1111}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1112}{}{La CitÃ© de la Mort porte bien son nom. Elle est situÃ©e sur l'ancienne petite ville de Bakersfield. Et aujourd'hui, elle abrite les Goules et autres crÃ©atures.}
+{1113}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1114}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1115}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1116}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1117}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
 {1118}{}{J'ai entendu parler des grands Abris souterrains. Mais je n'en sais pas plus.}
 {1119}{}{J'ai entendu parler des grands Abris souterrains. Mais je n'en sais pas plus.}
 {1120}{}{J'ai entendu parler des grands Abris souterrains. Mais je n'en sais pas plus.}
 {1121}{}{Killian est un type bien qui fait un travail difficile.}
-{1122}{}{Gizmo est... Il a très mal agi avec moi. Mais il finira bien par le payer.}
-{1123}{}{Le Cimetière de L.A. ? J'ai entendu dire que les bandes y vivaient et que c'était un endroit pénible.}
-{1124}{}{Désolé mais je ne peux pas t'aider.}
-{1125}{}{Désolé mais je ne peux pas t'aider.}
-{1126}{}{Le Centre est une gigantesque communauté mercantile située au Sud de Dépôtville.}
-{1127}{}{Le casino de Gizmo est bien le dernier endroit où j'aimerais me rendre, à moins de pouvoir m'attaquer à Gizmo en personne. Cela me ferait plaisir.}
-{1128}{}{Killian possède un bon magasin à Dépôtville.}
-{1129}{}{J'ai entendu parler de quelque chose de plus rapide, de plus grand et de plus redoutable que toutes les créatures existantes. Les survivants sont peu nombreux. D'énormes griffes et un comportement féroce.}
-{1130}{}{Désolé mais je ne peux pas t'aider.}
-{1131}{}{Désolé mais je ne peux pas t'aider.}
-{1132}{}{Désolé mais je ne peux pas t'aider.}
-{1133}{}{Désolé mais je ne peux pas t'aider.}
-{1134}{}{Désolé mais je ne peux pas t'aider.}
-{1136}{}{Désolé mais je ne peux pas t'aider.}
-{1137}{}{Désolé mais je ne peux pas t'aider.}
-{1138}{}{Les militaires disposaient de quelques bases secrètes dispersées dans le coin. Mais je ne sais pas où exactement.}
-{1139}{}{Les militaires disposaient de quelques bases secrètes dispersées dans le coin. Mais je ne sais pas où exactement.}
-{1141}{}{La catastrophe nucléaire fut le résultat de beaucoup de fierté et de stupidité. Maintenant, nous en payons le prix.}
-{1142}{}{Il se passe des choses étranges là-bas. J'y ai vu des scorpions géants et des vaches à deux têtes et j'ai entendu dire que Nécropolis abritait des Goules à l'apparence humaine.}
-{1143}{}{Désolé mais je ne peux pas t'aider.}
-{1144}{}{Désolé mais je ne peux pas t'aider.}
-{1145}{}{Désolé mais je ne peux pas t'aider.}
-{1146}{}{Désolé mais je ne peux pas t'aider.}
-{1147}{}{Désolé mais je ne peux pas t'aider.}
-{1148}{}{Désolé mais je ne peux pas t'aider.}
-{1149}{}{Désolé mais je ne peux pas t'aider.}
-{1150}{}{Désolé mais je ne peux pas t'aider.}
-{1151}{}{Je préfère une bonne bière brune ou peut-être un Nuka-Cola.}
-{1152}{}{Si j'étais toi, j'éviterais les stimulants. Certes, ils peuvent t'aider à court terme, mais tu finiras par le payer.}
-{1153}{}{Désolé mais je ne peux pas t'aider.}
-{1154}{}{Désolé mais je ne peux pas t'aider.}
-{1155}{}{Désolé mais je ne peux pas t'aider.}
-{1156}{}{Désolé mais je ne peux pas t'aider.}
-{1157}{}{Désolé mais je ne peux pas t'aider.}
-{1158}{}{Désolé mais je ne peux pas t'aider.}
-{1159}{}{Désolé mais je ne peux pas t'aider.}
-{1160}{}{Désolé mais je ne peux pas t'aider.}
-{1161}{}{Désolé mais je ne peux pas t'aider.}
-{1162}{}{Tu veux parler de télépathie ? Hé, sérieusement... je ne te crois pas.}
-{1163}{}{Désolé mais je ne peux pas t'aider.}
-{1164}{}{Désolé mais je ne peux pas t'aider.}
-{1165}{}{Quelques marchands du Centre viennent régulièrement à Dépôtville et dans d'autres villes.}
+{1122}{}{Gizmo est... Il a trÃ¨s mal agi avec moi. Mais il finira bien par le payer.}
+{1123}{}{Le CimetiÃ¨re de L.A. ? J'ai entendu dire que les bandes y vivaient et que c'Ã©tait un endroit pÃ©nible.}
+{1124}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1125}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1126}{}{Le Centre est une gigantesque communautÃ© mercantile situÃ©e au Sud de DÃ©pÃ´tville.}
+{1127}{}{Le casino de Gizmo est bien le dernier endroit oÃ¹ j'aimerais me rendre, Ã  moins de pouvoir m'attaquer Ã  Gizmo en personne. Cela me ferait plaisir.}
+{1128}{}{Killian possÃ¨de un bon magasin Ã  DÃ©pÃ´tville.}
+{1129}{}{J'ai entendu parler de quelque chose de plus rapide, de plus grand et de plus redoutable que toutes les crÃ©atures existantes. Les survivants sont peu nombreux. D'Ã©normes griffes et un comportement fÃ©roce.}
+{1130}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1131}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1132}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1133}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1134}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1136}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1137}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1138}{}{Les militaires disposaient de quelques bases secrÃ¨tes dispersÃ©es dans le coin. Mais je ne sais pas oÃ¹ exactement.}
+{1139}{}{Les militaires disposaient de quelques bases secrÃ¨tes dispersÃ©es dans le coin. Mais je ne sais pas oÃ¹ exactement.}
+{1141}{}{La catastrophe nuclÃ©aire fut le rÃ©sultat de beaucoup de fiertÃ© et de stupiditÃ©. Maintenant, nous en payons le prix.}
+{1142}{}{Il se passe des choses Ã©tranges lÃ -bas. J'y ai vu des scorpions gÃ©ants et des vaches Ã  deux tÃªtes et j'ai entendu dire que NÃ©cropolis abritait des Goules Ã  l'apparence humaine.}
+{1143}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1144}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1145}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1146}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1147}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1148}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1149}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1150}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1151}{}{Je prÃ©fÃ¨re une bonne biÃ¨re brune ou peut-Ãªtre un Nuka-Cola.}
+{1152}{}{Si j'Ã©tais toi, j'Ã©viterais les stimulants. Certes, ils peuvent t'aider Ã  court terme, mais tu finiras par le payer.}
+{1153}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1154}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1155}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1156}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1157}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1158}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1159}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1160}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1161}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1162}{}{Tu veux parler de tÃ©lÃ©pathie ? HÃ©, sÃ©rieusement... je ne te crois pas.}
+{1163}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1164}{}{DÃ©solÃ© mais je ne peux pas t'aider.}
+{1165}{}{Quelques marchands du Centre viennent rÃ©guliÃ¨rement Ã  DÃ©pÃ´tville et dans d'autres villes.}
 {1999}{}{Je me sens plus fort maintenant !}
 {2000}{}{Discutons de notre tactique de combat.}
 {2001}{}{Ah oui ?}
 {2010}{}{Utilise ta meilleure arme.}
 {2011}{}{Change ton armure.}
-{2012}{}{Préfère le combat à distance plutôt que rapproché.}
-{2013}{}{Préfère le combat rapproché plutôt qu'à distance.}
+{2012}{}{PrÃ©fÃ¨re le combat Ã  distance plutÃ´t que rapprochÃ©.}
+{2013}{}{PrÃ©fÃ¨re le combat rapprochÃ© plutÃ´t qu'Ã  distance.}
 {2014}{}{Choisis la distance qui t'arrange.}
 {2015}{}{C'est tout pour l'instant.}
-{2100}{}{Très bien.}
+{2100}{}{TrÃ¨s bien.}

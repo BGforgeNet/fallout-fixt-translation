@@ -1,4 +1,4 @@
 {100}{}{Voici un Chevalier.}
-{101}{}{L'Ètude se trouve juste l‡, si c'est ce que tu cherches.}
-{102}{}{As-tu perdu ton chemin ? L'Ètude est juste l‡.}
-{103}{}{Le laboratoire mÈdical est juste au coin.}
+{101}{}{L'√©tude se trouve juste l√†, si c'est ce que tu cherches.}
+{102}{}{As-tu perdu ton chemin ? L'√©tude est juste l√†.}
+{103}{}{Le laboratoire m√©dical est juste au coin.}

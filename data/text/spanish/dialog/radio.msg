@@ -1,41 +1,41 @@
 {100}{}{Radio. Sorprendentemente parece que funciona.}
-{101}{}{[En la radio se oyen ruidos de interferencias y a continuación una voz de fondo.] Comandante a patrulla, comandante a patrulla. ¿Cuál es su estado? Cambio.}
-{102}{}{¡Eek!}
-{103}{}{Ehhh, todo bajo control, situación normal. Todo va bien por aquí. Tenemos una ligera... avería en las armas. Pero todo va perfectamente bien ahora.  Todos estamos bien, aquí, ahora. ¿Quién eres?}
-{104}{}{Comandante, nos está atacando un grupo importante de humanos armados. Solicito refuerzos inmediatos. Cambio.}
-{105}{}{¡Ayuda! ¡Atacantes desconocidos! ¡Daños graves! Las coordenadas son: 10... ¡Aaah!}
+{101}{}{[En la radio se oyen ruidos de interferencias y a continuaciÃ³n una voz de fondo.] Comandante a patrulla, comandante a patrulla. Â¿CuÃ¡l es su estado? Cambio.}
+{102}{}{Â¡Eek!}
+{103}{}{Ehhh, todo bajo control, situaciÃ³n normal. Todo va bien por aquÃ­. Tenemos una ligera... averÃ­a en las armas. Pero todo va perfectamente bien ahora.  Todos estamos bien, aquÃ­, ahora. Â¿QuiÃ©n eres?}
+{104}{}{Comandante, nos estÃ¡ atacando un grupo importante de humanos armados. Solicito refuerzos inmediatos. Cambio.}
+{105}{}{Â¡Ayuda! Â¡Atacantes desconocidos! Â¡DaÃ±os graves! Las coordenadas son: 10... Â¡Aaah!}
 {106}{}{Entendido, patrulla. Enviamos refuerzos. Corto.}
-{107}{}{¿Cómo has dicho? ¿Quién es? ¿Qué es lo que quiere?}
+{107}{}{Â¿CÃ³mo has dicho? Â¿QuiÃ©n es? Â¿QuÃ© es lo que quiere?}
 {108}{}{Lo que quiero es acabar con este infierno.}
 {109}{}{Yo, eh... oh, da igual. Os voy a matar a todos de todas formas.}
-{110}{}{Aquí, mmm, Fred. Mi obligación es patrullar. Supongo que estoy, eh, un poco aturdido por la caída.}
-{111}{}{Entendido, patrulla. ¿Cuáles son sus coordenadas?}
+{110}{}{AquÃ­, mmm, Fred. Mi obligaciÃ³n es patrullar. Supongo que estoy, eh, un poco aturdido por la caÃ­da.}
+{111}{}{Entendido, patrulla. Â¿CuÃ¡les son sus coordenadas?}
 {112}{}{224 - 104.}
 {113}{}{Cuatro millas al sur - sudoeste.}
-{114}{}{Sector Gamma, en Ómicron-Delta-Beta.}
+{114}{}{Sector Gamma, en Ã“micron-Delta-Beta.}
 {115}{}{Entendido, patrulla. Cambio y corto.}
 {116}{}{Entendido, patrulla. Enviamos refuerzos.}
 {117}{}{Ah, eso lo explica. Ahora mismo enviamos ayuda.}
-{118}{}{Recibido, patrulla. ¡Enseguida enviamos ayuda! ¡Ánimos!}
+{118}{}{Recibido, patrulla. Â¡Enseguida enviamos ayuda! Â¡Ãnimos!}
 {119}{}{En la radio solo se oyen interferencias.}
 {120}{}{Oyes conversaciones en la radio. Escuchas durante un rato, pero no descubres nada de importancia.}
 {121}{}{La radio tiene una luz roja parpadeando. Por el altavoz, oyes interferencias estridentes.}
 {122}{}{Parece un mensaje de audio codificado.}
-{123}{}{Envías el código de comando para visualizar el campo de fuerza.}
+{123}{}{EnvÃ­as el cÃ³digo de comando para visualizar el campo de fuerza.}
 {124}{}{Oyes conversaciones en la radio. Escuchas durante un rato, pero no descubres nada de importancia.}
 {125}{}{La radio no funciona.}
 {126}{}{Esta radio funciona perfectamente. La causa del problema debe ser externa.}
 {127}{}{En la radio solo se oyen las interferencias de datos codificados.}
-{128}{}{[Se oyen interferencias y el ruido de un golpe.] Aquí el comandante, adelante, patrulla.}
-{129}{}{¡Ack!}
-{130}{}{Oh, lo siento Comandante. Golpeé el botón de comunicación por error.}
-{131}{}{¡Intrusos en la base! ¡Alerta!}
+{128}{}{[Se oyen interferencias y el ruido de un golpe.] AquÃ­ el comandante, adelante, patrulla.}
+{129}{}{Â¡Ack!}
+{130}{}{Oh, lo siento Comandante. GolpeÃ© el botÃ³n de comunicaciÃ³n por error.}
+{131}{}{Â¡Intrusos en la base! Â¡Alerta!}
 {132}{}{Recibido, patrulla, cambio y corto.}
-{133}{}{[Marcas la frecuencia de la radio para el canal del control de seguridad] [¡Clic!] Introducir número de acceso. [¡Clic!]}
-{134}{}{¡Unm!}
+{133}{}{[Marcas la frecuencia de la radio para el canal del control de seguridad] [Â¡Clic!] Introducir nÃºmero de acceso. [Â¡Clic!]}
+{134}{}{Â¡Unm!}
 {135}{}{Uh, 69.}
 {136}{}{5566534571.}
 {137}{}{Fin del acceso.}
-{138}{}{Cerrado canal de seguridad automático.}
-{139}{}{Ganas 1.500 puntos de experiencia por engañar a los guardias mutantes.}
-{140}{}{Ganas 2.000 puntos de experiencia por meterte a escondidas en las profundidades de la base militar sin ser capturado (todavía...)}
+{138}{}{Cerrado canal de seguridad automÃ¡tico.}
+{139}{}{Ganas 1.500 puntos de experiencia por engaÃ±ar a los guardias mutantes.}
+{140}{}{Ganas 2.000 puntos de experiencia por meterte a escondidas en las profundidades de la base militar sin ser capturado (todavÃ­a...)}

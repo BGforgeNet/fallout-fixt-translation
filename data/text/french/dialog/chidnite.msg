@@ -1,26 +1,26 @@
-{100}{}{Voici un Ténébreux.}
+{100}{}{Voici un TÃ©nÃ©breux.}
 {101}{}{Die!}
 {102}{}{Laisse-moi ou meurs !}
-{103}{}{Je n'aime pas le ton que tu emploies. Si mon message ne parvient pas au Maître, je te réserverai une mort lente et atroce.}
-{104}{}{Je voulais juste te complimenter sur la superbe bosse de ton dos. Quant à ta respiration...}
+{103}{}{Je n'aime pas le ton que tu emploies. Si mon message ne parvient pas au MaÃ®tre, je te rÃ©serverai une mort lente et atroce.}
+{104}{}{Je voulais juste te complimenter sur la superbe bosse de ton dos. Quant Ã  ta respiration...}
 {105}{}{Peux-tu m'indiquer l'homme qui s'occupe de cet endroit ?}
 {106}{}{Tu sais, il y a pire que moi !}
 {107}{}{Je reste !}
 {108}{}{Ok. Je m'en vais.}
-{109}{}{C'est une erreur d'affronter les Ténébreux. Va-t-en !}
+{109}{}{C'est une erreur d'affronter les TÃ©nÃ©breux. Va-t-en !}
 {110}{}{Je ne pense pas.}
-{111}{}{Je prendrai un réel plaisir à te voir mourir !}
-{112}{}{Tu écoutes ? C'est déconseillé d'ignorer les Ténébreux.}
+{111}{}{Je prendrai un rÃ©el plaisir Ã  te voir mourir !}
+{112}{}{Tu Ã©coutes ? C'est dÃ©conseillÃ© d'ignorer les TÃ©nÃ©breux.}
 {113}{}{Je dois te parler. C'est urgent !}
-{114}{}{Personne ne m'a jamais accusé de prudence !}
-{115}{}{Je veux juste parler à la personne qui s'occupe de cet endroit !}
-{116}{}{Tu es censé être un dur ou quoi ?}
-{117}{}{Excuse-moi. Passe une bonne journée.}
+{114}{}{Personne ne m'a jamais accusÃ© de prudence !}
+{115}{}{Je veux juste parler Ã  la personne qui s'occupe de cet endroit !}
+{116}{}{Tu es censÃ© Ãªtre un dur ou quoi ?}
+{117}{}{Excuse-moi. Passe une bonne journÃ©e.}
 {118}{}{Tu te moques de moi ? Tu as tort de te moquer de moi, crevure !}
-{119}{}{Monte. Mes amis évalueront l'importance de ton message.}
+{119}{}{Monte. Mes amis Ã©valueront l'importance de ton message.}
 {120}{}{Dernier avertissement !}
 {121}{}{Certainement ! Une bonne affaire...}
-{122}{}{Je dois IMPERATIVEMENT parler à la personne qui s'occupe de cet endroit !}
-{123}{}{Ok ! Ok ! Excuse-moi ! Passe une bonne journée.}
+{122}{}{Je dois IMPERATIVEMENT parler Ã  la personne qui s'occupe de cet endroit !}
+{123}{}{Ok ! Ok ! Excuse-moi ! Passe une bonne journÃ©e.}
 {124}{}{Tu sais quelle est ton erreur ? Tu donnes des avertissements. Moi, pas. Meurs !}
-{125}{}{[Terminé]}
+{125}{}{[TerminÃ©]}

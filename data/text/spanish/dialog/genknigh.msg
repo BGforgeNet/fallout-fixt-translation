@@ -1,19 +1,19 @@
 {100}{}{Ves a un Caballero.}
-{101}{}{Me pregunto qué aspecto tendrían los antiguos motores de turbinas.}
-{102}{}{Sería fantástico si tuviéramos un coche que funcionase.}
-{103}{}{¿Sabías que el hombre ha estado en la luna? O algo así me contaron.}
+{101}{}{Me pregunto quÃ© aspecto tendrÃ­an los antiguos motores de turbinas.}
+{102}{}{SerÃ­a fantÃ¡stico si tuviÃ©ramos un coche que funcionase.}
+{103}{}{Â¿SabÃ­as que el hombre ha estado en la luna? O algo asÃ­ me contaron.}
 {104}{}{No puedo encontrar el archivo que busco.}
-{105}{}{Algún día seré un Paladín.}
-{106}{}{Talus es un guerrero muy hábil. No me gustaría tener que luchar contra él.}
+{105}{}{AlgÃºn dÃ­a serÃ© un PaladÃ­n.}
+{106}{}{Talus es un guerrero muy hÃ¡bil. No me gustarÃ­a tener que luchar contra Ã©l.}
 {107}{}{Thomas es el mejor luchador de la Hermandad. Apuesto a que puede vencer a Rhombus.}
-{108}{}{Me gustaría echarles el guante a esos saqueadores. Enseñarles lo que hacemos con los ladrones.}
-{109}{}{Eso es... ¿qué? Oh, lo siento. Ahora mismo no puedo hablar.}
-{110}{}{Me pregunto... ¿uh? Oh, has hecho que me distraiga.}
+{108}{}{Me gustarÃ­a echarles el guante a esos saqueadores. EnseÃ±arles lo que hacemos con los ladrones.}
+{109}{}{Eso es... Â¿quÃ©? Oh, lo siento. Ahora mismo no puedo hablar.}
+{110}{}{Me pregunto... Â¿uh? Oh, has hecho que me distraiga.}
 {111}{}{Me encanta trabajar en prototipos nuevos.}
-{112}{}{Cuando nuestros suministros están limitados, es un verdadero desafío encontrar la manera de aprovechar lo que tenemos.}
-{113}{}{No logro averiguar por qué no funcionó mi último prototipo.}
+{112}{}{Cuando nuestros suministros estÃ¡n limitados, es un verdadero desafÃ­o encontrar la manera de aprovechar lo que tenemos.}
+{113}{}{No logro averiguar por quÃ© no funcionÃ³ mi Ãºltimo prototipo.}
 {114}{}{Lo siento. Ahora mismo no puedo hablar.}
-{115}{}{Vree está allí.}
-{116}{}{Bueno, dónde puse ese archivo...}
-{117}{}{¿Dónde está ese esquema?}
-{118}{}{Bueno, el ordenador dice que debería funcionar; entonces, ¿qué hice mal?}
+{115}{}{Vree estÃ¡ allÃ­.}
+{116}{}{Bueno, dÃ³nde puse ese archivo...}
+{117}{}{Â¿DÃ³nde estÃ¡ ese esquema?}
+{118}{}{Bueno, el ordenador dice que deberÃ­a funcionar; entonces, Â¿quÃ© hice mal?}

@@ -74,7 +74,7 @@
 {301}{}{You see a human female. She is staring at your shoes.}
 {302}{}{There is no place like home, no place like home, no place like home... [pacing back and forth]}
 {303}{}{Hng!}
-{304}{}{Hör auf damit!}
+{304}{}{HÃ¶r auf damit!}
 {305}{}{What about this place? Isn't this your home?}
 {306}{}{I agree. Completely and utterly. You're right... [she pauses for a moment] What did you say? Oh, never you mind.}
 {307}{}{[looking at you intensely] I will slay you for that! I will make your blood run red. Wait a minute. Blood is red, how can I make it run red? I can't very well do that. Hmmm. I need to think about this. Go away!}

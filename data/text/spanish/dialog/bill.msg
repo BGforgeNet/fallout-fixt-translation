@@ -1,4 +1,4 @@
 {100}{}{Ves: a Bill.}
-{101}{}{¡No deberías estar aquí! ¡Cogedlo!}
-{102}{}{¡No deberías estar aquí! ¡Cogedla!}
+{101}{}{Â¡No deberÃ­as estar aquÃ­! Â¡Cogedlo!}
+{102}{}{Â¡No deberÃ­as estar aquÃ­! Â¡Cogedla!}
 

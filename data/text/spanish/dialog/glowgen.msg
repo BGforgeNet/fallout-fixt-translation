@@ -1,8 +1,8 @@
-{100}{}{Est·s viendo un generador. Debe de ser lo que daba electricidad a las puertas, luces y ascensores de este complejo.}
-{101}{}{El generador est· encendido.}
-{102}{}{El generador parece estar desconectado. Te preguntas si podr·s conectarlo.}
-{103}{}{El generador ya est· encendido.}
-{104}{}{Conectas el generador y todos los sistemas parecen volver a estar en lÌnea.}
+{100}{}{Est√°s viendo un generador. Debe de ser lo que daba electricidad a las puertas, luces y ascensores de este complejo.}
+{101}{}{El generador est√° encendido.}
+{102}{}{El generador parece estar desconectado. Te preguntas si podr√°s conectarlo.}
+{103}{}{El generador ya est√° encendido.}
+{104}{}{Conectas el generador y todos los sistemas parecen volver a estar en l√≠nea.}
 {105}{}{No puedes conectar el generador.}
 {106}{}{No tienes los conocimientos necesarios para reparar el sistema.}
-{107}{}{Oyes un incesante zumbido mec·nico en este nivel, que te recuerda a algo que no puedes explicar con certeza...}
+{107}{}{Oyes un incesante zumbido mec√°nico en este nivel, que te recuerda a algo que no puedes explicar con certeza...}

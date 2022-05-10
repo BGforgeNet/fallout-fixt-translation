@@ -1,8 +1,8 @@
-{100}{}{Estás viendo a un Comerciante de Ultramar.}
+{100}{}{EstÃ¡s viendo a un Comerciante de Ultramar.}
 {101}{}{Por todos los diablos, vete.}
-{102}{}{Vete o no vivirás para contarlo.}
-{103}{}{¡Colgado!}
-{104}{}{¿Quieres un poco, imbécil?}
-{105}{}{¿Preparada para recibir más daño?}
-{106}{}{¡No hagas que te pegue de nuevo!}
-{107}{}{¿Tienes ganas de morir o qué? Piérdete.}
+{102}{}{Vete o no vivirÃ¡s para contarlo.}
+{103}{}{Â¡Colgado!}
+{104}{}{Â¿Quieres un poco, imbÃ©cil?}
+{105}{}{Â¿Preparada para recibir mÃ¡s daÃ±o?}
+{106}{}{Â¡No hagas que te pegue de nuevo!}
+{107}{}{Â¿Tienes ganas de morir o quÃ©? PiÃ©rdete.}

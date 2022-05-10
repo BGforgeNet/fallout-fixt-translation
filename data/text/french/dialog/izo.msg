@@ -1,4 +1,4 @@
-{100}{}{Il possède toute la puissance et la tonicité d'un maître d'arts martiaux.}
+{100}{}{Il possÃ¨de toute la puissance et la tonicitÃ© d'un maÃ®tre d'arts martiaux.}
 {101}{}{Izo ne dit rien.}
 {102}{}{Il te donne ton argent.}
 {103}{}{Izo se dirige vers la porte.}

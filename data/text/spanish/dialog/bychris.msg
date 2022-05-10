@@ -1,18 +1,18 @@
-{100}{}{Estás viendo a una mujer joven y muy guapa.}
+{100}{}{EstÃ¡s viendo a una mujer joven y muy guapa.}
 {101}{}{Ves: a Christine, la mujer de Michael.}
-{102}{}{¿Hola? ¿Puedo ayudarte?}
-{103}{}{¿Quién eres?}
-{104}{}{¿Quién está al mando aquí?}
-{105}{}{¿Puedes contarme algo de esta zona?}
+{102}{}{Â¿Hola? Â¿Puedo ayudarte?}
+{103}{}{Â¿QuiÃ©n eres?}
+{104}{}{Â¿QuiÃ©n estÃ¡ al mando aquÃ­?}
+{105}{}{Â¿Puedes contarme algo de esta zona?}
 {106}{}{No, gracias}
-{107}{}{¿Y tú, mami?}
-{108}{}{Me llamo Christine, vivo aquí con mi marido Michael.}
-{109}{}{Cuchilla se encarga de la mayoría de los asuntos de los Navajas y ayuda a organizarnos.}
-{110}{}{Michael y yo nos acabamos de mudar y no he visto mucho de la zona. He oído hablar de una gran iglesia al sur, pero creo que son solo rumores.}
-{111}{}{¿Hay algo más que debiera saber?}
+{107}{}{Â¿Y tÃº, mami?}
+{108}{}{Me llamo Christine, vivo aquÃ­ con mi marido Michael.}
+{109}{}{Cuchilla se encarga de la mayorÃ­a de los asuntos de los Navajas y ayuda a organizarnos.}
+{110}{}{Michael y yo nos acabamos de mudar y no he visto mucho de la zona. He oÃ­do hablar de una gran iglesia al sur, pero creo que son solo rumores.}
+{111}{}{Â¿Hay algo mÃ¡s que debiera saber?}
 {112}{}{C D E D B D Ducks}
 {113}{}{M R Not Ducks}
 {114}{}{O S M R                                                                   C D E D B D Wings}
 {115}{}{Y I B M R Ducks}
-{116}{}{¿En qué más puedo ayudarte?}
+{116}{}{Â¿En quÃ© mÃ¡s puedo ayudarte?}
 {117}{}{No, no soy tu mami. Ahora desaparece y vete a jugar.}

@@ -1,5 +1,5 @@
-{100}{}{Este ordenador supervisa las máquinas que controlan el Refugio.}
+{100}{}{Este ordenador supervisa las mÃ¡quinas que controlan el Refugio.}
 {101}{}{El sistema de IA del Refugio ha limitado tu acceso a los distintos sistemas.}
-{102}{}{Esta es la Estación Informática Central del Refugio 13. Controla la mayoría de las estaciones de trabajo del Refugio.}
-{103}{}{Te peleas con el ordenador pero no descubres nada más.}
-{104}{}{Hay un montón de luces intermitentes en esta cosa.}
+{102}{}{Esta es la EstaciÃ³n InformÃ¡tica Central del Refugio 13. Controla la mayorÃ­a de las estaciones de trabajo del Refugio.}
+{103}{}{Te peleas con el ordenador pero no descubres nada mÃ¡s.}
+{104}{}{Hay un montÃ³n de luces intermitentes en esta cosa.}

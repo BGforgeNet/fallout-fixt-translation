@@ -1,11 +1,11 @@
-{100}{}{Estás viendo el Tablón de Puestos de Trabajo.}
-{101}{}{"¡TRABAJO! ¿Necesitas un trabajo? ¿Necesitas chapas? ¡MIRA AQUÍ!"}
+{100}{}{EstÃ¡s viendo el TablÃ³n de Puestos de Trabajo.}
+{101}{}{"Â¡TRABAJO! Â¿Necesitas un trabajo? Â¿Necesitas chapas? Â¡MIRA AQUÃ!"}
 {102}{}{"Por favor no pongas mensajes por duplicado. --El Sheriff Greene."}
-{103}{}{1       ¡Caravana desaparecida! ¡Recompensa!}
+{103}{}{1       Â¡Caravana desaparecida! Â¡Recompensa!}
 {104}{}{2       Se buscan guardianes de caravanas.}
 {105}{}{}
 {106}{}{}
 {107}{}{}
 {108}{}{}
 {109}{}{[Salir]}
-{110}{}{"RECOMPENSA: CARAVANA DESAPARECIDA. Se recompensará con 500 chapas a quien sea capaz de capturar a los cabrones que están saqueando las caravanas. Para más detalles, consulte a Butch Harris, Comerciante de Ultramar, al noreste del Mercado de Mercaderes."}
+{110}{}{"RECOMPENSA: CARAVANA DESAPARECIDA. Se recompensarÃ¡ con 500 chapas a quien sea capaz de capturar a los cabrones que estÃ¡n saqueando las caravanas. Para mÃ¡s detalles, consulte a Butch Harris, Comerciante de Ultramar, al noreste del Mercado de Mercaderes."}

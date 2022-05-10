@@ -1,8 +1,8 @@
-{100}{}{Estás viendo un necrófago subterráneo.}
+{100}{}{EstÃ¡s viendo un necrÃ³fago subterrÃ¡neo.}
 {101}{}{Queremos que nos dejes en paz.}
-{102}{}{Set es un bobo incompetente que acabará con todos nosotros.}
-{103}{}{Los Supermutantes nos van a matar un día y Set no nos ayuda.}
-{104}{}{Nos escondemos aquí. Pero no le digas a nadie dónde estamos.}
+{102}{}{Set es un bobo incompetente que acabarÃ¡ con todos nosotros.}
+{103}{}{Los Supermutantes nos van a matar un dÃ­a y Set no nos ayuda.}
+{104}{}{Nos escondemos aquÃ­. Pero no le digas a nadie dÃ³nde estamos.}
 {105}{}{No me gusta ese aspecto.}
-{106}{}{Vete y déjanos solos.}
-{107}{}{He oído cosas malas sobre ti. ¿Son ciertas?}
+{106}{}{Vete y dÃ©janos solos.}
+{107}{}{He oÃ­do cosas malas sobre ti. Â¿Son ciertas?}

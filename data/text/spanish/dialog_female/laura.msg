@@ -1,148 +1,148 @@
 {100}{}{Ves: a Laura.}
-{102}{laura0m}{Hola, hermano. ¿Te puedo ayudar en este glorioso día?}
-{104}{laura0f}{Hola, hermana. ¿Te puedo ayudar en este glorioso día?}
-{105}{}{¿Eres Laura?}
-{106}{}{¿Puedo hacerte unas preguntas sobre los Niños?}
-{107}{}{¿Qué tipo de "ayuda" ofreces?}
-{108}{}{¿Mamá?}
+{102}{laura0m}{Hola, hermano. Â¿Te puedo ayudar en este glorioso dÃ­a?}
+{104}{laura0f}{Hola, hermana. Â¿Te puedo ayudar en este glorioso dÃ­a?}
+{105}{}{Â¿Eres Laura?}
+{106}{}{Â¿Puedo hacerte unas preguntas sobre los NiÃ±os?}
+{107}{}{Â¿QuÃ© tipo de "ayuda" ofreces?}
+{108}{}{Â¿MamÃ¡?}
 {110}{laura01a}{Eso es muy dulce de tu parte, pero no, no soy yo. Seguro que la puedes encontrar en alguna otra parte.}
-{112}{laura2}{Soy yo, sin duda. ¿Querías algo?}
-{113}{}{Nicole me envió para hablar contigo.}
+{112}{laura2}{Soy yo, sin duda. Â¿QuerÃ­as algo?}
+{113}{}{Nicole me enviÃ³ para hablar contigo.}
 {114}{}{Eh... no. Da lo mismo.}
-{116}{laura3}{¿Nicole? Lo siento. Creo que no conozco a nadie con ese nombre.}
+{116}{laura3}{Â¿Nicole? Lo siento. Creo que no conozco a nadie con ese nombre.}
 {117}{}{Bueno, ella me dijo que te dijese "Jinete Rojo".}
-{118}{}{¡Claro que la conoces! ¡Ella me envió!}
-{120}{laura4}{Lo siento. Yo... yo no lo sé. Sígueme, vamos a un sitio donde podamos hablar.}
-{122}{laura9}{Perdóname por los inconvenientes. Espero que no te moleste demasiado.}
-{124}{laura10}{¿Estás... segura? Eh... disculpa mi curiosidad pero parecía que me buscabas específicamente a mí.}
-{125}{}{Bueno, Nicole me envió.}
-{126}{}{Había oído hablar de ti y quería saber cómo eras.}
-{128}{laura11}{Lo... lo siento pero ese tipo de detalles me pone un poco nerviosa. No sé por qué, es una tontería, lo sé. En fin, disfruta de tu paseo.}
-{130}{laura14}{Oh, yo no tengo mucha autoridad. Deberías ver a Morfeo, el Sumo Sacerdote. Estoy segura de que él te ayudará mejor que yo.}
-{132}{laura15}{Yo solo quería decir... oh... tengo que irme.}
-{134}{laura16g}{¡Vaya, hola de nuevo! ¿Solo paseabas o puedo ayudarte en algo?}
-{136}{laura16b}{¿Hay algo en lo que pueda ayudarte?}
-{137}{}{¿Eres Laura?}
-{138}{}{¿Puedo hacerte unas preguntas sobre los Niños?}
+{118}{}{Â¡Claro que la conoces! Â¡Ella me enviÃ³!}
+{120}{laura4}{Lo siento. Yo... yo no lo sÃ©. SÃ­gueme, vamos a un sitio donde podamos hablar.}
+{122}{laura9}{PerdÃ³name por los inconvenientes. Espero que no te moleste demasiado.}
+{124}{laura10}{Â¿EstÃ¡s... segura? Eh... disculpa mi curiosidad pero parecÃ­a que me buscabas especÃ­ficamente a mÃ­.}
+{125}{}{Bueno, Nicole me enviÃ³.}
+{126}{}{HabÃ­a oÃ­do hablar de ti y querÃ­a saber cÃ³mo eras.}
+{128}{laura11}{Lo... lo siento pero ese tipo de detalles me pone un poco nerviosa. No sÃ© por quÃ©, es una tonterÃ­a, lo sÃ©. En fin, disfruta de tu paseo.}
+{130}{laura14}{Oh, yo no tengo mucha autoridad. DeberÃ­as ver a Morfeo, el Sumo Sacerdote. Estoy segura de que Ã©l te ayudarÃ¡ mejor que yo.}
+{132}{laura15}{Yo solo querÃ­a decir... oh... tengo que irme.}
+{134}{laura16g}{Â¡Vaya, hola de nuevo! Â¿Solo paseabas o puedo ayudarte en algo?}
+{136}{laura16b}{Â¿Hay algo en lo que pueda ayudarte?}
+{137}{}{Â¿Eres Laura?}
+{138}{}{Â¿Puedo hacerte unas preguntas sobre los NiÃ±os?}
 {139}{}{Nada, gracias.}
-{140}{}{¿Mamá?}
-{142}{laura16a}{No. Ya hemos hablado de esto. Tendrás que buscar en otro sitio, amiga.}
-{144}{laura21}{Oh... Me alegro de que me hayas encontrado. Nicole me envió una lista con la información que tenía que recoger.}
-{145}{}{¿Qué conseguiste?}
-{147}{laura22}{Esto... hay tanto que... no estoy segura de lo que necesitas o de por dónde empezar. ¿Hay algo en especial que quieras saber?}
-{148}{}{¿Hay una entrada secreta al Santa Sanctórum de la Iglesia?}
-{149}{}{¿Qué has aprendido sobre el Maestro?}
-{150}{}{¿Qué planes tienen los Niños?}
-{151}{}{¿Qué hace una chica como tú en un sitio como este?}
-{152}{}{Nada más, gracias.}
-{154}{laura24}{No es en el Santa Sanctórum donde has de entrar.}
-{155}{}{¿Y entonces qué?}
-{157}{laura25}{Seguí a Morfeo por una escalera secreta trasera. Le vi activar una puerta secreta en la parte de abajo.}
-{158}{}{¿Y entonces qué?}
-{159}{}{¿Me puedes mostrar esta puerta?}
-{161}{laura26}{Usa una extraña llave para abrirla y desaparece. Nunca he intentado seguirle.}
-{162}{}{¿Sabes dónde está esa llave?}
-{163}{}{¿Por qué no?}
-{165}{laura27}{Diría que la lleva encima.}
-{166}{}{¿Me enseñarías la puerta ahora?}
+{140}{}{Â¿MamÃ¡?}
+{142}{laura16a}{No. Ya hemos hablado de esto. TendrÃ¡s que buscar en otro sitio, amiga.}
+{144}{laura21}{Oh... Me alegro de que me hayas encontrado. Nicole me enviÃ³ una lista con la informaciÃ³n que tenÃ­a que recoger.}
+{145}{}{Â¿QuÃ© conseguiste?}
+{147}{laura22}{Esto... hay tanto que... no estoy segura de lo que necesitas o de por dÃ³nde empezar. Â¿Hay algo en especial que quieras saber?}
+{148}{}{Â¿Hay una entrada secreta al Santa SanctÃ³rum de la Iglesia?}
+{149}{}{Â¿QuÃ© has aprendido sobre el Maestro?}
+{150}{}{Â¿QuÃ© planes tienen los NiÃ±os?}
+{151}{}{Â¿QuÃ© hace una chica como tÃº en un sitio como este?}
+{152}{}{Nada mÃ¡s, gracias.}
+{154}{laura24}{No es en el Santa SanctÃ³rum donde has de entrar.}
+{155}{}{Â¿Y entonces quÃ©?}
+{157}{laura25}{SeguÃ­ a Morfeo por una escalera secreta trasera. Le vi activar una puerta secreta en la parte de abajo.}
+{158}{}{Â¿Y entonces quÃ©?}
+{159}{}{Â¿Me puedes mostrar esta puerta?}
+{161}{laura26}{Usa una extraÃ±a llave para abrirla y desaparece. Nunca he intentado seguirle.}
+{162}{}{Â¿Sabes dÃ³nde estÃ¡ esa llave?}
+{163}{}{Â¿Por quÃ© no?}
+{165}{laura27}{DirÃ­a que la lleva encima.}
+{166}{}{Â¿Me enseÃ±arÃ­as la puerta ahora?}
 {168}{laura28a}{Por supuesto.}
 {169}{}{Vale. Vamos.}
-{170}{}{¿Puedo hacerte algunas preguntas antes?}
-{172}{laura29}{Sígueme.}
+{170}{}{Â¿Puedo hacerte algunas preguntas antes?}
+{172}{laura29}{SÃ­gueme.}
 {174}{laura30a}{Vale, pero nos tenemos que dar prisa.}
-{176}{laura30b}{Oh, que sea rápido.}
-{178}{laura31}{Créeme, si hubieses visto a los Nocturnos lo comprenderías. A no ser que seas estúpida.}
-{179}{}{Quizá lo sea, pero no tengo miedo.}
-{180}{}{Eso puedo entenderlo. ¿Podemos volver a las preguntas?}
-{182}{laura32}{Oh, muy graciosa. Mira, estoy en medio de un problema. Si no crees que lo hago bien, guárdatelo para ti. ¿Te enteras?}
-{183}{}{¿Qué vas a hacer, seguir quejándote?}
-{184}{}{Si así lo quieres.}
-{185}{}{Tienes razón, lo siento. ¿Qué tal si volvemos a lo nuestro?}
-{187}{laura33}{Uh, no mucho. Los Niños le veneran y a veces una inmensa visión suya aparece en la nave principal de la iglesia.}
-{188}{}{¿Así que es real?}
+{176}{laura30b}{Oh, que sea rÃ¡pido.}
+{178}{laura31}{CrÃ©eme, si hubieses visto a los Nocturnos lo comprenderÃ­as. A no ser que seas estÃºpida.}
+{179}{}{QuizÃ¡ lo sea, pero no tengo miedo.}
+{180}{}{Eso puedo entenderlo. Â¿Podemos volver a las preguntas?}
+{182}{laura32}{Oh, muy graciosa. Mira, estoy en medio de un problema. Si no crees que lo hago bien, guÃ¡rdatelo para ti. Â¿Te enteras?}
+{183}{}{Â¿QuÃ© vas a hacer, seguir quejÃ¡ndote?}
+{184}{}{Si asÃ­ lo quieres.}
+{185}{}{Tienes razÃ³n, lo siento. Â¿QuÃ© tal si volvemos a lo nuestro?}
+{187}{laura33}{Uh, no mucho. Los NiÃ±os le veneran y a veces una inmensa visiÃ³n suya aparece en la nave principal de la iglesia.}
+{188}{}{Â¿AsÃ­ que es real?}
 {189}{}{Da miedo.}
-{191}{laura34}{Sí y no, un día me coloqué delante y encontré un extraño mecanismo con una lente bajo el altar.}
-{192}{}{Probablemente una especie de proyector holográfico.}
-{193}{}{¿Y?}
-{195}{laura35}{Oh... al principio, claro que lo era, pero entonces me colé y observé el altar cuando nadie miraba. Y resulta que debajo hay un mecanismo con cables y una gran lente.}
-{196}{}{Probablemente una especie de proyector holográfico.}
-{197}{}{¿Y?}
-{199}{laura36}{Y estoy segura de que este Maestro es de carne y hueso. Y también creo saber dónde se encuentra.}
-{200}{}{¿De dónde?}
-{202}{laura37}{De vez en cuando, Morfeo baja por una escalera secreta que conduce a la cripta de la Iglesia. Y entra por una puerta secreta con una especie de llave. Creo que el Maestro está allí abajo.}
-{203}{}{¿Puedes enseñarme esa escalera ahora mismo?}
-{204}{}{¿Sabes dónde está esa llave?}
-{206}{laura38}{Ahora es peligroso. Morfeo predica que la tierra debe ser "purgada de los infieles", y cosas por el estilo. ¡Creo que están planeando hacerse con todo!}
-{207}{}{¿Lo pueden hacer?}
-{208}{}{¿Cuál es su primer objetivo?}
-{210}{laura39}{Sabes, podría ser. Bueno, tienen miembros suficientes y los distintos hospitales en las ciudades están repletos de armas y explosivos.}
-{211}{}{Debemos contárselo a los Seguidores.}
-{212}{}{¿Qué vas a hacer?}
-{214}{laura40}{Lo estaba planeando. De hecho, cuando acabemos esto me iré a dar una vuelta por allí.}
-{215}{}{¿Una pregunta rápida?}
+{191}{laura34}{SÃ­ y no, un dÃ­a me coloquÃ© delante y encontrÃ© un extraÃ±o mecanismo con una lente bajo el altar.}
+{192}{}{Probablemente una especie de proyector hologrÃ¡fico.}
+{193}{}{Â¿Y?}
+{195}{laura35}{Oh... al principio, claro que lo era, pero entonces me colÃ© y observÃ© el altar cuando nadie miraba. Y resulta que debajo hay un mecanismo con cables y una gran lente.}
+{196}{}{Probablemente una especie de proyector hologrÃ¡fico.}
+{197}{}{Â¿Y?}
+{199}{laura36}{Y estoy segura de que este Maestro es de carne y hueso. Y tambiÃ©n creo saber dÃ³nde se encuentra.}
+{200}{}{Â¿De dÃ³nde?}
+{202}{laura37}{De vez en cuando, Morfeo baja por una escalera secreta que conduce a la cripta de la Iglesia. Y entra por una puerta secreta con una especie de llave. Creo que el Maestro estÃ¡ allÃ­ abajo.}
+{203}{}{Â¿Puedes enseÃ±arme esa escalera ahora mismo?}
+{204}{}{Â¿Sabes dÃ³nde estÃ¡ esa llave?}
+{206}{laura38}{Ahora es peligroso. Morfeo predica que la tierra debe ser "purgada de los infieles", y cosas por el estilo. Â¡Creo que estÃ¡n planeando hacerse con todo!}
+{207}{}{Â¿Lo pueden hacer?}
+{208}{}{Â¿CuÃ¡l es su primer objetivo?}
+{210}{laura39}{Sabes, podrÃ­a ser. Bueno, tienen miembros suficientes y los distintos hospitales en las ciudades estÃ¡n repletos de armas y explosivos.}
+{211}{}{Debemos contÃ¡rselo a los Seguidores.}
+{212}{}{Â¿QuÃ© vas a hacer?}
+{214}{laura40}{Lo estaba planeando. De hecho, cuando acabemos esto me irÃ© a dar una vuelta por allÃ­.}
+{215}{}{Â¿Una pregunta rÃ¡pida?}
 {216}{}{Entonces te dejo ir.}
-{218}{laura41}{Está bien. ¡Buena suerte!}
+{218}{laura41}{EstÃ¡ bien. Â¡Buena suerte!}
 {220}{laura42}{Vale, voy a avisar a Nicole. Y, con un poco de suerte, los Seguidores pueden mandar ayuda a las otras ciudades.}
-{221}{}{Primero me gustaría hacerte algunas preguntas.}
-{222}{}{Entonces te dejaré ir.}
+{221}{}{Primero me gustarÃ­a hacerte algunas preguntas.}
+{222}{}{Entonces te dejarÃ© ir.}
 {224}{laura43}{Adytum, esa ciudad no tiene una maldita oportunidad.}
-{225}{}{¿Qué hay de los Seguidores?}
-{226}{}{¿Puedo ayudar Adytum?}
-{228}{laura44}{Los Niños no creen que seamos una amenaza. Se lo demostraremos.}
-{229}{}{Bien. ¿Qué piensas hacer?}
-{230}{}{¿Puedo ayudar Adytum, como sea?}
-{232}{laura45}{Sí, puedes ayudarles llegando al Maestro. Como decía mi abuela, "muerto el perro se acabó la rabia". Era muy práctica.}
-{233}{}{¿Cómo llego hasta él?}
-{234}{}{Lo parece. Necesito más respuesta antes de que te vayas.}
+{225}{}{Â¿QuÃ© hay de los Seguidores?}
+{226}{}{Â¿Puedo ayudar Adytum?}
+{228}{laura44}{Los NiÃ±os no creen que seamos una amenaza. Se lo demostraremos.}
+{229}{}{Bien. Â¿QuÃ© piensas hacer?}
+{230}{}{Â¿Puedo ayudar Adytum, como sea?}
+{232}{laura45}{SÃ­, puedes ayudarles llegando al Maestro. Como decÃ­a mi abuela, "muerto el perro se acabÃ³ la rabia". Era muy prÃ¡ctica.}
+{233}{}{Â¿CÃ³mo llego hasta Ã©l?}
+{234}{}{Lo parece. Necesito mÃ¡s respuesta antes de que te vayas.}
 {235}{}{Estoy en camino.}
-{237}{laura46}{¡Planean apoderarse de todas las ciudades!}
-{238}{}{¿De cuáles?}
-{240}{laura47}{Adytum ya ha caído. El Eje es la próxima.}
-{241}{}{¿Qué hacen los Seguidores mientras tanto?}
-{242}{}{Maldita sea. ¿Qué puedo hacer yo?}
+{237}{laura46}{Â¡Planean apoderarse de todas las ciudades!}
+{238}{}{Â¿De cuÃ¡les?}
+{240}{laura47}{Adytum ya ha caÃ­do. El Eje es la prÃ³xima.}
+{241}{}{Â¿QuÃ© hacen los Seguidores mientras tanto?}
+{242}{}{Maldita sea. Â¿QuÃ© puedo hacer yo?}
 {244}{laura48}{Mandamos un grupo para ayudar en Adytum, y todos fueron eliminados. Nicole ha enviado a otro al Eje. Espero que lleguen a tiempo.}
-{245}{}{Maldita sea. ¿Qué puedo hacer yo?}
-{247}{laura49}{¡Ya han tomado el Eje y Adytum! Creo que los próximos son los Seguidores, así que preparamos nuestra defensa.}
-{248}{}{¿Entonces, por qué estás aquí?}
-{249}{}{¿Qué puedo hacer?}
-{251}{laura50}{Estoy aquí para vigilar a los Niños.}
-{252}{}{¿Qué puedo hacer?}
-{254}{laura51}{Los Niños están montando hospitales por todas partes. Bah. Creo que están intentando ganarse la confianza de la gente.}
-{255}{}{¿Y funciona?}
-{256}{}{¿Hay algún modo de pararles los pies?}
-{257}{}{¡Eso es lo más estúpido que he oído nunca!}
-{259}{laura52}{Ah, desde luego lo parece. O sea, la gente se arremolina ante su iglesia. ¿No se dan cuenta de que es una farsa?}
-{260}{}{¿Estás segura de que lo es?}
-{261}{}{¿Cómo puedo pararles los pies?}
-{263}{laura53}{Por una razón, parece que la gente desaparece por aquí, mientras que el número de Nocturnos crece lentamente.}
-{264}{}{¿Por qué?}
-{265}{}{No tiene buena pinta. Pero necesito más respuestas antes de actuar.}
-{267}{laura54}{No lo sé. Eso es lo que has venido a averiguar, ¿no?}
-{269}{laura55}{¡Encuentra al Maestro y detenle!}
-{270}{}{¿Qué has averiguado acerca del Maestro?}
-{271}{}{Lo haré.}
-{273}{laura56}{Sí, demonios, eso espero. ¿Alguna pregunta más?}
-{275}{laura57}{La verdad es que es una buena manera de manipular a la gente, y el Maestro este sabe cómo hacerlo.}
-{276}{}{No, quiero decir que es la cosa más tonta que te he oído decir. Estás paranoica, ¿verdad?}
-{277}{}{Bueno, le detendré.}
-{278}{}{¿Cómo puedo detener esto?}
-{280}{laura58}{¿Perdón?}
-{281}{}{Ya me has oído.}
+{245}{}{Maldita sea. Â¿QuÃ© puedo hacer yo?}
+{247}{laura49}{Â¡Ya han tomado el Eje y Adytum! Creo que los prÃ³ximos son los Seguidores, asÃ­ que preparamos nuestra defensa.}
+{248}{}{Â¿Entonces, por quÃ© estÃ¡s aquÃ­?}
+{249}{}{Â¿QuÃ© puedo hacer?}
+{251}{laura50}{Estoy aquÃ­ para vigilar a los NiÃ±os.}
+{252}{}{Â¿QuÃ© puedo hacer?}
+{254}{laura51}{Los NiÃ±os estÃ¡n montando hospitales por todas partes. Bah. Creo que estÃ¡n intentando ganarse la confianza de la gente.}
+{255}{}{Â¿Y funciona?}
+{256}{}{Â¿Hay algÃºn modo de pararles los pies?}
+{257}{}{Â¡Eso es lo mÃ¡s estÃºpido que he oÃ­do nunca!}
+{259}{laura52}{Ah, desde luego lo parece. O sea, la gente se arremolina ante su iglesia. Â¿No se dan cuenta de que es una farsa?}
+{260}{}{Â¿EstÃ¡s segura de que lo es?}
+{261}{}{Â¿CÃ³mo puedo pararles los pies?}
+{263}{laura53}{Por una razÃ³n, parece que la gente desaparece por aquÃ­, mientras que el nÃºmero de Nocturnos crece lentamente.}
+{264}{}{Â¿Por quÃ©?}
+{265}{}{No tiene buena pinta. Pero necesito mÃ¡s respuestas antes de actuar.}
+{267}{laura54}{No lo sÃ©. Eso es lo que has venido a averiguar, Â¿no?}
+{269}{laura55}{Â¡Encuentra al Maestro y detenle!}
+{270}{}{Â¿QuÃ© has averiguado acerca del Maestro?}
+{271}{}{Lo harÃ©.}
+{273}{laura56}{SÃ­, demonios, eso espero. Â¿Alguna pregunta mÃ¡s?}
+{275}{laura57}{La verdad es que es una buena manera de manipular a la gente, y el Maestro este sabe cÃ³mo hacerlo.}
+{276}{}{No, quiero decir que es la cosa mÃ¡s tonta que te he oÃ­do decir. EstÃ¡s paranoica, Â¿verdad?}
+{277}{}{Bueno, le detendrÃ©.}
+{278}{}{Â¿CÃ³mo puedo detener esto?}
+{280}{laura58}{Â¿PerdÃ³n?}
+{281}{}{Ya me has oÃ­do.}
 {282}{}{No importa.}
-{284}{laura59}{Vale entonces. ¡Buena suerte!}
-{286}{laura60}{Uh, eh... Estaba esperando que alguien me soltase ese rollo patético.}
-{288}{laura61a}{¿Qué puedo hacer por ti ahora?}
-{290}{laura61b}{¿Qué pasa ahora?}
-{291}{}{Necesito hacerte algunas preguntas más.}
+{284}{laura59}{Vale entonces. Â¡Buena suerte!}
+{286}{laura60}{Uh, eh... Estaba esperando que alguien me soltase ese rollo patÃ©tico.}
+{288}{laura61a}{Â¿QuÃ© puedo hacer por ti ahora?}
+{290}{laura61b}{Â¿QuÃ© pasa ahora?}
+{291}{}{Necesito hacerte algunas preguntas mÃ¡s.}
 {292}{}{Nada, gracias.}
-{294}{laura62}{¿Qué haces? ¡Baja eso!}
-{296}{laura63}{¡Oye! ¡Fuera de aquí!}
-{297}{}{¿Y si no, qué?}
+{294}{laura62}{Â¿QuÃ© haces? Â¡Baja eso!}
+{296}{laura63}{Â¡Oye! Â¡Fuera de aquÃ­!}
+{297}{}{Â¿Y si no, quÃ©?}
 {298}{}{Lo siento, me voy a ir ahora.}
-{300}{laura64}{¡Para!}
-{302}{laura65}{¿Qué... qué estás haciendo aquí? ¡Tienes que irte!}
-{303}{}{¡No, tú te vas!}
-{304}{}{Vale, me iré.}
+{300}{laura64}{Â¡Para!}
+{302}{laura65}{Â¿QuÃ©... quÃ© estÃ¡s haciendo aquÃ­? Â¡Tienes que irte!}
+{303}{}{Â¡No, tÃº te vas!}
+{304}{}{Vale, me irÃ©.}
 {306}{laura67}{Eh... No estoy segura de eso. Ve a hablar con Nicole.}
 {308}{laura67a}{No estoy segura de eso. Ve a hablar con un Sumo Sacerdote.}
 {309}{}{Bueno, como dije...}
@@ -150,46 +150,46 @@
 {311}{}{Bueno, como dije antes...}
 {312}{}{Como dije antes...}
 {313}{}{Estoy casi segura de que ya te lo he dicho, pero...}
-{314}{}{¡Vale! Ya te lo he dicho...}
-{315}{}{¿Ah, otra vez? Bueno, te dije...}
-{316}{}{¿Otra vez? Ya te he dicho esto...}
-{317}{}{Oh Dios, eres una plasta. No pienso decírtelo otra vez.}
-{318}{}{¿Estás...? ¡Vale! ¡Vale! ¿Estás sorda? Lee mis labios. No te lo repetiré.}
+{314}{}{Â¡Vale! Ya te lo he dicho...}
+{315}{}{Â¿Ah, otra vez? Bueno, te dije...}
+{316}{}{Â¿Otra vez? Ya te he dicho esto...}
+{317}{}{Oh Dios, eres una plasta. No pienso decÃ­rtelo otra vez.}
+{318}{}{Â¿EstÃ¡s...? Â¡Vale! Â¡Vale! Â¿EstÃ¡s sorda? Lee mis labios. No te lo repetirÃ©.}
 {319}{}{Creo que ya es suficiente. No lo voy a repetir.}
-{320}{}{No escuchas, ¿eh? Peor para ti, no pienso repetirlo.}
-{321}{}{Oh, esa horrible gente. ¡No pienso hablar de ellos!}
-{322}{}{Nicole te debió hablar de nosotros. Estamos intentando hacer entrar en razón a esos descerebrados pistoleros, imbéciles violentos... Oh, sin contar a los presente, por supuesto.}
-{323}{}{No sé de lo que estás hablando.}
-{324}{}{Encabeza a los Seguidores. Muy voluntariosa. Me fío de ella.}
-{325}{}{¡Los otros son todos tan buenos! Aquí todo es maravilloso. Esta es nuestra tierra, trabajamos por ella...}
-{326}{}{Oh, son como una... plaga en el mundo. La mayoría son un desperdicio y unos pocos son simplemente perversos.}
-{327}{}{¿Adytum no está al oeste de aquí?}
-{328}{}{Adytum está al oeste de aquí. Y la gente de allí... bueno, está un poco paranoica, así que no esperes una calurosa bienvenida.}
-{329}{}{Oh, es maravilloso. Él es nuestro líder. ¡Deberías hablar con él!}
-{330}{}{Predica la paz, la espiritualidad y esas chorradas, pero es escoria. Lo mires por donde lo mires. No hay que darle más vueltas.}
-{331}{}{Oh, no sé siquiera como empezar a describirle. Morfeo es nuestro líder. No hay palabras para ello.}
-{332}{}{Ah sí, el Maestro, es el dios que veneran estos idiotas. Personalmente no creo que sea un dios, sino alguien que sabe manipular a los demás.}
-{333}{}{¿Nocturnos? No sé de lo que hablas.}
+{320}{}{No escuchas, Â¿eh? Peor para ti, no pienso repetirlo.}
+{321}{}{Oh, esa horrible gente. Â¡No pienso hablar de ellos!}
+{322}{}{Nicole te debiÃ³ hablar de nosotros. Estamos intentando hacer entrar en razÃ³n a esos descerebrados pistoleros, imbÃ©ciles violentos... Oh, sin contar a los presente, por supuesto.}
+{323}{}{No sÃ© de lo que estÃ¡s hablando.}
+{324}{}{Encabeza a los Seguidores. Muy voluntariosa. Me fÃ­o de ella.}
+{325}{}{Â¡Los otros son todos tan buenos! AquÃ­ todo es maravilloso. Esta es nuestra tierra, trabajamos por ella...}
+{326}{}{Oh, son como una... plaga en el mundo. La mayorÃ­a son un desperdicio y unos pocos son simplemente perversos.}
+{327}{}{Â¿Adytum no estÃ¡ al oeste de aquÃ­?}
+{328}{}{Adytum estÃ¡ al oeste de aquÃ­. Y la gente de allÃ­... bueno, estÃ¡ un poco paranoica, asÃ­ que no esperes una calurosa bienvenida.}
+{329}{}{Oh, es maravilloso. Ã‰l es nuestro lÃ­der. Â¡DeberÃ­as hablar con Ã©l!}
+{330}{}{Predica la paz, la espiritualidad y esas chorradas, pero es escoria. Lo mires por donde lo mires. No hay que darle mÃ¡s vueltas.}
+{331}{}{Oh, no sÃ© siquiera como empezar a describirle. Morfeo es nuestro lÃ­der. No hay palabras para ello.}
+{332}{}{Ah sÃ­, el Maestro, es el dios que veneran estos idiotas. Personalmente no creo que sea un dios, sino alguien que sabe manipular a los demÃ¡s.}
+{333}{}{Â¿Nocturnos? No sÃ© de lo que hablas.}
 {334}{}{Son grandes y feos esbirros del Maestro y de Morfeo.}
-{335}{}{¿El qué?}
-{336}{}{¿No has caído en que es el Maestro?}
-{337}{}{Es el sitio grande al final, en el norte de la Iglesia, donde Morfeo celebra sus ceremonias. He estado allí, es maravilloso.}
-{338}{}{Está al final, en la parte norte de la Iglesia. He visto a Morfeo hacer su numerito de circo allí.}
-{339}{}{Oh, no puedes ir allí. Es donde Morfeo medita.}
+{335}{}{Â¿El quÃ©?}
+{336}{}{Â¿No has caÃ­do en que es el Maestro?}
+{337}{}{Es el sitio grande al final, en el norte de la Iglesia, donde Morfeo celebra sus ceremonias. He estado allÃ­, es maravilloso.}
+{338}{}{EstÃ¡ al final, en la parte norte de la Iglesia. He visto a Morfeo hacer su numerito de circo allÃ­.}
+{339}{}{Oh, no puedes ir allÃ­. Es donde Morfeo medita.}
 {340}{}{Es donde Morfeo y sus compinches suelen ir. No dejan entrar a nadie.}
 {341}{}{Se han entregado a la Iglesia. El resto de nosotros aspira a hacer lo mismo.}
-{342}{}{Oh sí, estos tipos han sobrevivido a la tortura y quién sabe a qué más. Les han lavado el cerebro completamente y harán todo lo que se les ordene.}
+{342}{}{Oh sÃ­, estos tipos han sobrevivido a la tortura y quiÃ©n sabe a quÃ© mÃ¡s. Les han lavado el cerebro completamente y harÃ¡n todo lo que se les ordene.}
 {343}{}{Son los sumos sacerdotes.}
 {344}{}{Ah, esos son los sumos sacerdotes. Creo que solo hay 13, pero no estoy completamente segura.}
 {345}{}{Eso no es importante.}
 {346}{}{Eso no es importante.}
 {347}{}{Lo siento. No tengo tiempo para esto.}
-{348}{}{¡No tenemos tiempo para hablar de eso! Cíñete al tema.}
-{349}{}{No tengo claro por qué quieres hablar de eso.}
+{348}{}{Â¡No tenemos tiempo para hablar de eso! CÃ­Ã±ete al tema.}
+{349}{}{No tengo claro por quÃ© quieres hablar de eso.}
 {350}{}{No te vayas por las ramas, amiga.}
 {477}{}{Por favor, debemos darnos prisa. No hay tiempo para hablar.}
-{478}{}{Solo Morfeo tiene la llave de esta puerta. Debo irme ahora para hacerle saber a Nicole lo que ocurre aquí.}
-{479}{}{Por favor, tengo que irme de aquí antes de que descubran quién soy.}
+{478}{}{Solo Morfeo tiene la llave de esta puerta. Debo irme ahora para hacerle saber a Nicole lo que ocurre aquÃ­.}
+{479}{}{Por favor, tengo que irme de aquÃ­ antes de que descubran quiÃ©n soy.}
 {480}{}{Solo Morfeo tiene la llave para esta puerta. Debo marcharme ahora.}
 {1000}{}{Seguidores}
 {1001}{}{Nicole}
@@ -199,23 +199,23 @@
 {1005}{}{Nocturnos}
 {1006}{}{Dios}
 {1007}{}{Auditorio}
-{1008}{}{Sánctum}
+{1008}{}{SÃ¡nctum}
 {1009}{}{Servidores}
 {1010}{}{Orden}
 {1011}{}{Apocalipsis}
 {1012}{}{Oscuro}
 {1013}{}{Mutantes}
-{1100}{laura74}{Oh, esa horrible gente. ¡No pienso hablar de ellos!}
-{1101}{laura75}{No sé de quién estás hablando.}
-{1102}{laura76a}{¡Los otros son todos tan buenos! Aquí todo es maravilloso. Esta es nuestra tierra, trabajamos por ella...}
-{1103}{laura78}{Oh, es maravilloso. Él es nuestro líder. ¡Deberías hablar con él!}
-{1104}{laura79}{Oh, no sé siquiera como empezar a describirle. Morfeo es nuestro líder. No hay palabras para ello.}
-{1105}{laura80}{¿Nocturnos? No sé de qué hablas.}
-{1106}{laura81}{¿El qué?}
-{1107}{laura82}{Es el sitio grande al final de la Iglesia, donde Morfeo celebra sus ceremonias. He estado allí, ¡es maravilloso!}
-{1108}{laura83}{Oh, no puedes ir allí. ¡Es donde Morfeo medita!}
+{1100}{laura74}{Oh, esa horrible gente. Â¡No pienso hablar de ellos!}
+{1101}{laura75}{No sÃ© de quiÃ©n estÃ¡s hablando.}
+{1102}{laura76a}{Â¡Los otros son todos tan buenos! AquÃ­ todo es maravilloso. Esta es nuestra tierra, trabajamos por ella...}
+{1103}{laura78}{Oh, es maravilloso. Ã‰l es nuestro lÃ­der. Â¡DeberÃ­as hablar con Ã©l!}
+{1104}{laura79}{Oh, no sÃ© siquiera como empezar a describirle. Morfeo es nuestro lÃ­der. No hay palabras para ello.}
+{1105}{laura80}{Â¿Nocturnos? No sÃ© de quÃ© hablas.}
+{1106}{laura81}{Â¿El quÃ©?}
+{1107}{laura82}{Es el sitio grande al final de la Iglesia, donde Morfeo celebra sus ceremonias. He estado allÃ­, Â¡es maravilloso!}
+{1108}{laura83}{Oh, no puedes ir allÃ­. Â¡Es donde Morfeo medita!}
 {1109}{laura84}{Se han entregado a la Iglesia. El resto de nosotros aspira a hacer lo mismo.}
 {1110}{laura85}{Son sumos sacerdotes.}
-{1111}{laura74}{Oh, esa horrible gente. ¡No pienso hablar de ellos!}
-{1112}{laura81}{¿El qué?}
-{1113}{laura80}{¿Nocturnos? No sé de qué hablas.}
+{1111}{laura74}{Oh, esa horrible gente. Â¡No pienso hablar de ellos!}
+{1112}{laura81}{Â¿El quÃ©?}
+{1113}{laura80}{Â¿Nocturnos? No sÃ© de quÃ© hablas.}

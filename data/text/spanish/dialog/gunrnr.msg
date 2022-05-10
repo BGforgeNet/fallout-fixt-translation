@@ -1,17 +1,17 @@
-{100}{}{¡Eh! ¿Qué crees que estás haciendo?}
-{101}{}{Oye, ¿tienes una Nuka-Cola?}
+{100}{}{Â¡Eh! Â¿QuÃ© crees que estÃ¡s haciendo?}
+{101}{}{Oye, Â¿tienes una Nuka-Cola?}
 {102}{}{El negocio es bueno.}
-{103}{}{Gabriel es un jefe fantástico.}
-{104}{}{Bonito día, ¿verdad?}
-{105}{}{Habla con Zack si estás buscando equipo.}
+{103}{}{Gabriel es un jefe fantÃ¡stico.}
+{104}{}{Bonito dÃ­a, Â¿verdad?}
+{105}{}{Habla con Zack si estÃ¡s buscando equipo.}
 {106}{}{Zack vende armas.}
 {107}{}{Vigila tus armas.}
 {108}{}{No intentes nada raro.}
-{109}{}{Podríamos acabar con un ejército aquí.}
-{110}{}{Un tipo resbaló en el barro una vez. Vaya forma más horrible de morir.}
-{111}{}{Maldito barro, el humo me daña los ojos.}
+{109}{}{PodrÃ­amos acabar con un ejÃ©rcito aquÃ­.}
+{110}{}{Un tipo resbalÃ³ en el barro una vez. Vaya forma mÃ¡s horrible de morir.}
+{111}{}{Maldito barro, el humo me daÃ±a los ojos.}
 {112}{}{Odio este trabajo.}
-{113}{}{¡Fuera de mi camino!}
+{113}{}{Â¡Fuera de mi camino!}
 {114}{}{No me molestes.}
-{115}{}{¿No ves que estoy ocupado?}
-{116}{}{Estás viendo al típico Pistolero.}
+{115}{}{Â¿No ves que estoy ocupado?}
+{116}{}{EstÃ¡s viendo al tÃ­pico Pistolero.}

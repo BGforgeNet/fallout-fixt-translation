@@ -1,3 +1,3 @@
-{100}{}{La bibliothèque est pleine de romans en lambeaux.}
-{101}{}{La bibliothèque est pleine de romans en lambeaux.}
-{102}{}{Hélas, tu n'as même pas le temps de lire un seul de ces romans.}
+{100}{}{La bibliothÃ¨que est pleine de romans en lambeaux.}
+{101}{}{La bibliothÃ¨que est pleine de romans en lambeaux.}
+{102}{}{HÃ©las, tu n'as mÃªme pas le temps de lire un seul de ces romans.}

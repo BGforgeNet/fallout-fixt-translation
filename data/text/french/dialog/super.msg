@@ -1,5 +1,5 @@
-{100}{}{C'est une sorte d'énorme super mutant ! Et il a un énorme fusil !}
-{101}{}{Tu es sur le territoire de l'Unité. Je ferais mieux de te faire rentrer.}
+{100}{}{C'est une sorte d'Ã©norme super mutant ! Et il a un Ã©norme fusil !}
+{101}{}{Tu es sur le territoire de l'UnitÃ©. Je ferais mieux de te faire rentrer.}
 {102}{}{D'accord.}
 {103}{}{Je ne crois pas.}
 {104}{}{Quoi ?}

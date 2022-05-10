@@ -1,6 +1,6 @@
-{100}{}{Tu vois un disque qui porte d'étranges inscriptions, et des tâches qui semblent être du sang.}
-{101}{}{Message du Pip-Boy : fichier déjà présent sur le système. Abandon du chargement.}
-{102}{}{Message du Pip-Boy : chargement des données sur le disque. Terminé.}
-{103}{}{On dirait que cet holodisque était utilisé pour enregistrer des transmissions radio de l'armée.}
+{100}{}{Tu vois un disque qui porte d'Ã©tranges inscriptions, et des tÃ¢ches qui semblent Ãªtre du sang.}
+{101}{}{Message du Pip-Boy : fichier dÃ©jÃ  prÃ©sent sur le systÃ¨me. Abandon du chargement.}
+{102}{}{Message du Pip-Boy : chargement des donnÃ©es sur le disque. TerminÃ©.}
+{103}{}{On dirait que cet holodisque Ã©tait utilisÃ© pour enregistrer des transmissions radio de l'armÃ©e.}
 {104}{}{Tu vois un disque de transmissions radio des Super Mutants.}
-{105}{}{Le disque porte d'étranges inscriptions, et des tâches qui semblent être du sang.}
+{105}{}{Le disque porte d'Ã©tranges inscriptions, et des tÃ¢ches qui semblent Ãªtre du sang.}

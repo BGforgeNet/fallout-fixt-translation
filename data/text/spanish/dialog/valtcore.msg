@@ -1,1 +1,1 @@
-{100}{}{Este es el Sistema Central, corazÛn del sistema inform·tico.}
+{100}{}{Este es el Sistema Central, coraz√≥n del sistema inform√°tico.}

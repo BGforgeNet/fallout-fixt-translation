@@ -1,8 +1,8 @@
-{100}{}{L'étagère est remplie de livres religieux et philosophiques entièrement recouverts de poussière.}
-{101}{}{Tu prends un livre pour l'examiner, puis tu le remets rapidement en place. L'étagère semble particulièrement robuste.}
-{102}{}{Tu découvres un levier dissimulé.}
+{100}{}{L'Ã©tagÃ¨re est remplie de livres religieux et philosophiques entiÃ¨rement recouverts de poussiÃ¨re.}
+{101}{}{Tu prends un livre pour l'examiner, puis tu le remets rapidement en place. L'Ã©tagÃ¨re semble particuliÃ¨rement robuste.}
+{102}{}{Tu dÃ©couvres un levier dissimulÃ©.}
 {103}{}{Rien ne se passe.}
-{104}{}{Le mur à côté de l'étagère s'écarte doucement en glissant sur lui-même.}
-{105}{}{Tu fouilles un moment la bibliothèque sans rien trouver.}
-{200}{}{L'étagère est remplie de livres religieux et philosophiques.}
+{104}{}{Le mur Ã  cÃ´tÃ© de l'Ã©tagÃ¨re s'Ã©carte doucement en glissant sur lui-mÃªme.}
+{105}{}{Tu fouilles un moment la bibliothÃ¨que sans rien trouver.}
+{200}{}{L'Ã©tagÃ¨re est remplie de livres religieux et philosophiques.}
 {201}{}{Le levier ne veut pas bouger.}

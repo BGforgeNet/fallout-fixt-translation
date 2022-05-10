@@ -1,8 +1,8 @@
 {100}{}{Voici un envahisseur super mutant.}
 {101}{}{Approche, Humain !}
-{102}{}{Arrête !}
-{103}{}{J'espère avoir assez de cartouches.}
-{104}{}{Prêt à partir.}
+{102}{}{ArrÃªte !}
+{103}{}{J'espÃ¨re avoir assez de cartouches.}
+{104}{}{PrÃªt Ã  partir.}
 {105}{}{Allons-y !}
 {106}{}{En mouvement !}
-{107}{}{Nous les avons tous tué !}
+{107}{}{Nous les avons tous tuÃ© !}

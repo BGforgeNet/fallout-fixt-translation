@@ -1,10 +1,10 @@
 {100}{}{Voici un habitant du Centre.}
-{101}{}{Oh ! J'ai appris que tu as tué le Griffemort, joli travail !}
+{101}{}{Oh ! J'ai appris que tu as tuÃ© le Griffemort, joli travail !}
 {102}{}{C'est vrai ? Le Griffemort existe... existait vraiment ?}
 {103}{}{J'ai appris que tu es }
 {104}{}{homme}
 {105}{}{femme}
-{106}{}{ qui a tué le Griffemort. Joli travail !}
-{107}{}{Merci d'avoir détruit ce cauchemar, maintenant on a tous un peu moins de mal à s'endormir.}
-{108}{}{Y'a intérêt que ce Griffemort soit bien mort.}
-{109}{}{J'espère que ces mutants qui détruisaient ces caravanes nous laisseront tranquilles.}
+{106}{}{ qui a tuÃ© le Griffemort. Joli travail !}
+{107}{}{Merci d'avoir dÃ©truit ce cauchemar, maintenant on a tous un peu moins de mal Ã  s'endormir.}
+{108}{}{Y'a intÃ©rÃªt que ce Griffemort soit bien mort.}
+{109}{}{J'espÃ¨re que ces mutants qui dÃ©truisaient ces caravanes nous laisseront tranquilles.}

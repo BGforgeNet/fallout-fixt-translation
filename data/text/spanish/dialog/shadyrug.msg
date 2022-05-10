@@ -1,2 +1,2 @@
-{100}{}{Est·s viendo una esterilla hecha jirones.}
-{101}{}{Te preguntas quÈ material fue utilizado para fabricar esta esterilla.}
+{100}{}{Est√°s viendo una esterilla hecha jirones.}
+{101}{}{Te preguntas qu√© material fue utilizado para fabricar esta esterilla.}

@@ -1,113 +1,113 @@
 {100}{}{Voici Jain.}
-{101}{JAIN00}{Pourquoi déranges-tu un ancien de la Cathédrale ?}
-{102}{}{Je viens chercher une bénédiction.}
-{103}{}{Votre église m'intéresse et je voudrais des renseignements. Y'a pas de brochures ?}
-{104}{}{Je jetais un coup d'œil.}
+{101}{JAIN00}{Pourquoi dÃ©ranges-tu un ancien de la CathÃ©drale ?}
+{102}{}{Je viens chercher une bÃ©nÃ©diction.}
+{103}{}{Votre Ã©glise m'intÃ©resse et je voudrais des renseignements. Y'a pas de brochures ?}
+{104}{}{Je jetais un coup d'Å“il.}
 {105}{}{Maman ?}
-{106}{JAIN01}{Je ne suis pas vraiment ta mère.}
+{106}{JAIN01}{Je ne suis pas vraiment ta mÃ¨re.}
 {107}{}{Gnn... Ah bon ?}
 {108}{}{T'es pas vraiment une femme.}
 {109}{JAIN02}{Comment oses-tu me parler sur ce ton ! Que l'on te punisse de ton insolence ! Gardes !}
-{110}{JAIN03}{Peut-être l'un de nos prêtres examinera-t-il tes lacunes. Disparais maintenant.}
-{111}{JAIN04}{As-tu étudié les sacrements, mon enfant ?}
+{110}{JAIN03}{Peut-Ãªtre l'un de nos prÃªtres examinera-t-il tes lacunes. Disparais maintenant.}
+{111}{JAIN04}{As-tu Ã©tudiÃ© les sacrements, mon enfant ?}
 {112}{}{Oui.}
 {113}{}{Non.}
-{114}{JAIN05}{Alors, tu devrais savoir que les aînés de la Cathédrale ne distribuent pas la bénédiction à la légère. Tu peux disposer.}
-{115}{JAIN07}{Continue à te moquer de moi et je te ferai jeter dehors.}
+{114}{JAIN05}{Alors, tu devrais savoir que les aÃ®nÃ©s de la CathÃ©drale ne distribuent pas la bÃ©nÃ©diction Ã  la lÃ©gÃ¨re. Tu peux disposer.}
+{115}{JAIN07}{Continue Ã  te moquer de moi et je te ferai jeter dehors.}
 {116}{}{Mais j't'assure, je me moque pas de toi.}
 {117}{}{Moi, me moquer ? Mais j'ferais jamais une chose pareille !}
-{118}{}{Il va de soi que cette bonté et cette bonne humeur n'ont rien à voir avec cette religion.}
+{118}{}{Il va de soi que cette bontÃ© et cette bonne humeur n'ont rien Ã  voir avec cette religion.}
 {119}{}{Excuse-moi, mais je vais devoir m'en aller.}
-{120}{JAIN08}{Tu paieras pour ces paroles hérétiques.}
-{121}{JAIN09}{Tes paroles vont mal avec ta conviction. L'hérésie les consument. On te purifiera ; puis on t'oubliera.}
-{122}{JAIN10}{Alors, que viens-tu chercher ? Qu'est-ce qui peut t'amener chez les Enfants de la Cathédrale ?}
-{123}{}{Je suis en quête de savoir. J'aimerais apprendre.}
-{124}{}{J'ai l'intention de détruire cet endroit.}
-{125}{}{Oh, simple curiosité.}
+{120}{JAIN08}{Tu paieras pour ces paroles hÃ©rÃ©tiques.}
+{121}{JAIN09}{Tes paroles vont mal avec ta conviction. L'hÃ©rÃ©sie les consument. On te purifiera ; puis on t'oubliera.}
+{122}{JAIN10}{Alors, que viens-tu chercher ? Qu'est-ce qui peut t'amener chez les Enfants de la CathÃ©drale ?}
+{123}{}{Je suis en quÃªte de savoir. J'aimerais apprendre.}
+{124}{}{J'ai l'intention de dÃ©truire cet endroit.}
+{125}{}{Oh, simple curiositÃ©.}
 {126}{JAIN11}{Es-tu un Enfant ?}
 {127}{}{Vous trouvez que j'ai l'air si jeune ?}
-{128}{}{Est-ce que je suis un Enfant de la Cathédrale ? Non.}
-{129}{}{Je suis un dévot.}
-{130}{JAIN12}{Alors, tu devrais savoir que tu n'as rien à faire ici. Surveille tes manières. Adieu.}
+{128}{}{Est-ce que je suis un Enfant de la CathÃ©drale ? Non.}
+{129}{}{Je suis un dÃ©vot.}
+{130}{JAIN12}{Alors, tu devrais savoir que tu n'as rien Ã  faire ici. Surveille tes maniÃ¨res. Adieu.}
 {131}{}{D'accord.}
 {132}{}{Frappe-moi.}
-{133}{JAIN13}{Désires-tu te convertir à notre foi ? Nous pouvons t'offrir plus que personne...}
+{133}{JAIN13}{DÃ©sires-tu te convertir Ã  notre foi ? Nous pouvons t'offrir plus que personne...}
 {134}{}{Quoi donc ?}
-{135}{}{Non, ça m'intéresse pas. A mon avis, vous êtes tous des toqués.}
-{136}{JAIN14}{Une vie remplie de contentement... savoir que tu travailles à reconstruire la planète, à la rendre meilleure pour ceux qui nous suivront.}
-{137}{}{Ca, c'est intéressant. Tu peux m'en dire plus ? Je cherche le contentement.}
-{138}{}{Ouais, c'est ça, j'parie qu'il y a plein de choses à reconstruire et que vous êtes au sommet du contentement.}
-{139}{}{Je crois pas. Ca paraît trop beau pour être vrai.}
+{135}{}{Non, Ã§a m'intÃ©resse pas. A mon avis, vous Ãªtes tous des toquÃ©s.}
+{136}{JAIN14}{Une vie remplie de contentement... savoir que tu travailles Ã  reconstruire la planÃ¨te, Ã  la rendre meilleure pour ceux qui nous suivront.}
+{137}{}{Ca, c'est intÃ©ressant. Tu peux m'en dire plus ? Je cherche le contentement.}
+{138}{}{Ouais, c'est Ã§a, j'parie qu'il y a plein de choses Ã  reconstruire et que vous Ãªtes au sommet du contentement.}
+{139}{}{Je crois pas. Ca paraÃ®t trop beau pour Ãªtre vrai.}
 {140}{JAIN15}{Crois ce que tu veux. Va chercher ailleurs. Tu peux disposer.}
-{141}{JAIN17}{Nous n'aimons pas qu'on raille notre cause sacrée. On te puniera si tu continues.}
-{142}{}{T'es belle quand tu te fâches.}
+{141}{JAIN17}{Nous n'aimons pas qu'on raille notre cause sacrÃ©e. On te puniera si tu continues.}
+{142}{}{T'es belle quand tu te fÃ¢ches.}
 {143}{}{Pardon.}
-{144}{JAIN18}{Quand les Enfants domineront la terre nouvelle, ceux de ton espèce disparaîtront, hérétique ! Va-t'en maintenant !}
-{145}{JAIN19}{Mon sens de l'humour s'arrête là où commence ma mission à la tête des Enfants. Ne l'oublie pas.}
+{144}{JAIN18}{Quand les Enfants domineront la terre nouvelle, ceux de ton espÃ¨ce disparaÃ®tront, hÃ©rÃ©tique ! Va-t'en maintenant !}
+{145}{JAIN19}{Mon sens de l'humour s'arrÃªte lÃ  oÃ¹ commence ma mission Ã  la tÃªte des Enfants. Ne l'oublie pas.}
 {146}{}{Je connais pas tellement les Enfants.}
 {147}{}{Bien. Au revoir.}
-{148}{JAIN20}{Si tu poursuis une quête spirituelle, tu as frappé à la bonne porte. Les Enfants de la Cathédrale tentent de résoudre les problèmes de ce monde dans la paix, et ton aide pourrait nous être utile.}
+{148}{JAIN20}{Si tu poursuis une quÃªte spirituelle, tu as frappÃ© Ã  la bonne porte. Les Enfants de la CathÃ©drale tentent de rÃ©soudre les problÃ¨mes de ce monde dans la paix, et ton aide pourrait nous Ãªtre utile.}
 {149}{}{Quelles sont les intentions des Enfants, pour les mutants ?}
-{150}{}{Comment les Enfants trouvent-ils la paix dans ce désert ?}
-{151}{JAIN21}{Ceux qui peuvent être ramenés au bercail, qu'ils le soient. Ceux qui résistent souffriront.}
-{152}{}{Ca n'a pas l'air évident.}
+{150}{}{Comment les Enfants trouvent-ils la paix dans ce dÃ©sert ?}
+{151}{JAIN21}{Ceux qui peuvent Ãªtre ramenÃ©s au bercail, qu'ils le soient. Ceux qui rÃ©sistent souffriront.}
+{152}{}{Ca n'a pas l'air Ã©vident.}
 {153}{}{Il est temps que tu sentes les douleurs de la souffrance...}
-{154}{}{Ainsi va la vie. Je souhaite que votre croisade réussisse !}
+{154}{}{Ainsi va la vie. Je souhaite que votre croisade rÃ©ussisse !}
 {155}{}{Euh, faut que j'y aille.}
-{156}{JAIN22}{Avec de la persévérance, les Enfants peuvent tout. Nous n'échouerons pas.}
-{157}{}{J'espère bien pour vous.}
-{158}{}{Ouais, c'est ça. Peu importe.}
+{156}{JAIN22}{Avec de la persÃ©vÃ©rance, les Enfants peuvent tout. Nous n'Ã©chouerons pas.}
+{157}{}{J'espÃ¨re bien pour vous.}
+{158}{}{Ouais, c'est Ã§a. Peu importe.}
 {159}{}{Bien. Au revoir.}
-{160}{JAIN26}{Blasphème ! Tu es dans une maison sacrée ! Comment as-tu osé de telles pensées ?!}
-{161}{}{T'énerve pas, je blaguais !}
+{160}{JAIN26}{BlasphÃ¨me ! Tu es dans une maison sacrÃ©e ! Comment as-tu osÃ© de telles pensÃ©es ?!}
+{161}{}{T'Ã©nerve pas, je blaguais !}
 {162}{}{Du calme. Tu veux que j'te montre ?}
-{163}{JAIN27}{La bénédiction de la Flamme Sacrée soit sur toi, mon Enfant.}
-{164}{}{C'est qui la Flamme Sacrée ?}
+{163}{JAIN27}{La bÃ©nÃ©diction de la Flamme SacrÃ©e soit sur toi, mon Enfant.}
+{164}{}{C'est qui la Flamme SacrÃ©e ?}
 {165}{}{Ce lieu est une vaste fumisterie.}
-{166}{}{Et sur toi, Prêtresse Jain. Adieu.}
+{166}{}{Et sur toi, PrÃªtresse Jain. Adieu.}
 {167}{}{Euh hein que quoi ?}
 {168}{}{Ok !}
-{169}{JAIN28}{Nous mettions des espoirs en toi. Mais désormais, tu es indésirable en ces lieux.}
-{170}{JAIN29}{Tu es indésirable en ces lieux. Va-t'en, je te prie.}
-{171}{JAIN30}{Qu'est-ce qui t'amène ?}
-{172}{}{J'ai éliminé le Maître, et je crois qu'il se faisait passer pour la Flamme Sacrée.}
-{173}{}{Tu es libérée de l'oppression du Maître.}
+{169}{JAIN28}{Nous mettions des espoirs en toi. Mais dÃ©sormais, tu es indÃ©sirable en ces lieux.}
+{170}{JAIN29}{Tu es indÃ©sirable en ces lieux. Va-t'en, je te prie.}
+{171}{JAIN30}{Qu'est-ce qui t'amÃ¨ne ?}
+{172}{}{J'ai Ã©liminÃ© le MaÃ®tre, et je crois qu'il se faisait passer pour la Flamme SacrÃ©e.}
+{173}{}{Tu es libÃ©rÃ©e de l'oppression du MaÃ®tre.}
 {174}{}{Euh que qui ?}
 {175}{}{Mes p'tits pieds.}
-{176}{JAIN31}{Tu as... quoi ? Tu paieras pour ce péché contre la Flamme Sacrée en personne !}
+{176}{JAIN31}{Tu as... quoi ? Tu paieras pour ce pÃ©chÃ© contre la Flamme SacrÃ©e en personne !}
 {177}{JAIN32}{Le... qui ?}
-{178}{}{Le Maître. Il s'apprêtait à unir les mutants pour s'emparer du monde.}
-{179}{}{T'inquiète pas.}
-{180}{JAIN33}{Tu sembles délirer. Tu devrais voir un conseiller pour examiner tes problèmes.}
-{181}{JAIN204}{Je t'ai dit de partir ! T'as de la crotte dans les oreilles ou t'es débile ?!}
-{182}{JAIN200}{Quitte cette pièce immédiatement ou je vais te faire purifier par la Flamme Sacrée !}
-{183}{JAIN202}{Il n'existe rien de plus grand que la Flamme Sacrée et nous sommes Ses serviteurs.}
-{184}{}{Vraiment ? Waouh. Alors ça sert à quoi de rejoindre ton ordre ?}
+{178}{}{Le MaÃ®tre. Il s'apprÃªtait Ã  unir les mutants pour s'emparer du monde.}
+{179}{}{T'inquiÃ¨te pas.}
+{180}{JAIN33}{Tu sembles dÃ©lirer. Tu devrais voir un conseiller pour examiner tes problÃ¨mes.}
+{181}{JAIN204}{Je t'ai dit de partir ! T'as de la crotte dans les oreilles ou t'es dÃ©bile ?!}
+{182}{JAIN200}{Quitte cette piÃ¨ce immÃ©diatement ou je vais te faire purifier par la Flamme SacrÃ©e !}
+{183}{JAIN202}{Il n'existe rien de plus grand que la Flamme SacrÃ©e et nous sommes Ses serviteurs.}
+{184}{}{Vraiment ? Waouh. Alors Ã§a sert Ã  quoi de rejoindre ton ordre ?}
 {185}{}{Ah bon. Ben, salut.}
-{186}{JAIN27}{La bénédiction de la Flamme Sacrée soit sur toi, mon Enfant.}
-{187}{JAIN22}{Avec de la persévérance, les Enfants peuvent tout. Nous n'échouerons pas.}
-{188}{JAIN201}{Cette question est déplacée.}
+{186}{JAIN27}{La bÃ©nÃ©diction de la Flamme SacrÃ©e soit sur toi, mon Enfant.}
+{187}{JAIN22}{Avec de la persÃ©vÃ©rance, les Enfants peuvent tout. Nous n'Ã©chouerons pas.}
+{188}{JAIN201}{Cette question est dÃ©placÃ©e.}
 {1000}{}{Guerre}
-{1001}{}{Maître}
+{1001}{}{MaÃ®tre}
 {1002}{}{Cathedral}
 {1003}{}{Mutants}
 {1004}{}{Centre}
 {1005}{}{Acier}
 {1006}{}{Vats}
-{1007}{}{Sacrée}
-{1008}{}{Unité}
-{1009}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1007}{}{SacrÃ©e}
+{1008}{}{UnitÃ©}
+{1009}{}{ConfrÃ©rie de l'Acier|ConfrÃ©rie|Confrerie|Acier}
 {1010}{}{Flamme}
 {1011}{}{Enfants}
-{1100}{JAIN300}{C'était la purification de la planète. Par leur inattention, ceux qui sont venus avant ont attiré les Feux Sacrés. Ce n'était que justice.}
-{1101}{JAIN301}{Il n'y a d'autre Maître que la Flamme Sacrée. Il est notre maître, Il est le Maître de tous.}
-{1102}{JAIN302}{La volonté du Saint apporte la renaissance sur cette planète. Nous sommes Ses Enfants et nous exécutons Son dessein.}
-{1103}{JAIN303}{Ils sont sacrés car ils portent pour notre enseignement les marques d'anciens péchés.}
-{1104}{JAIN304}{Comme tant d'autres villes, il embrassera la cause morale de la Cathédrale.}
-{1105}{JAIN305}{Certes, des prétentions religieuses, mais il leur manque la véritable vertu. Il n'empêche que leur zèle fait plaisir à voir.}
+{1100}{JAIN300}{C'Ã©tait la purification de la planÃ¨te. Par leur inattention, ceux qui sont venus avant ont attirÃ© les Feux SacrÃ©s. Ce n'Ã©tait que justice.}
+{1101}{JAIN301}{Il n'y a d'autre MaÃ®tre que la Flamme SacrÃ©e. Il est notre maÃ®tre, Il est le MaÃ®tre de tous.}
+{1102}{JAIN302}{La volontÃ© du Saint apporte la renaissance sur cette planÃ¨te. Nous sommes Ses Enfants et nous exÃ©cutons Son dessein.}
+{1103}{JAIN303}{Ils sont sacrÃ©s car ils portent pour notre enseignement les marques d'anciens pÃ©chÃ©s.}
+{1104}{JAIN304}{Comme tant d'autres villes, il embrassera la cause morale de la CathÃ©drale.}
+{1105}{JAIN305}{Certes, des prÃ©tentions religieuses, mais il leur manque la vÃ©ritable vertu. Il n'empÃªche que leur zÃ¨le fait plaisir Ã  voir.}
 {1106}{JAIN306}{Jamais je n'ai entendu pareilles choses.}
-{1107}{JAIN308}{Le Saint des Saints. Il est la lumière que nous suivons. Il éliminera ces infidèles quand l'Anneau de la Renaissance sera atteint.}
-{1108}{JAIN309}{C'est l'union, par la Flamme Sacrée, de tous les gens, de toutes les races, et l'élimination des païens de ce monde.}
-{1109}{JAIN305}{Certes, des prétentions religieuses, mais il leur manque la véritable vertu. Il n'empêche que leur zèle fait plaisir à voir.}
-{1110}{JAIN308}{Le Saint des Saints. Il est la lumière que nous suivons. Il éliminera ces infidèles quand l'Anneau de la Renaissance sera atteint.}
-{1111}{JAIN302}{La volonté du Saint apporte la renaissance sur cette planète. Nous sommes Ses Enfants et nous exécutons Son dessein.}
+{1107}{JAIN308}{Le Saint des Saints. Il est la lumiÃ¨re que nous suivons. Il Ã©liminera ces infidÃ¨les quand l'Anneau de la Renaissance sera atteint.}
+{1108}{JAIN309}{C'est l'union, par la Flamme SacrÃ©e, de tous les gens, de toutes les races, et l'Ã©limination des paÃ¯ens de ce monde.}
+{1109}{JAIN305}{Certes, des prÃ©tentions religieuses, mais il leur manque la vÃ©ritable vertu. Il n'empÃªche que leur zÃ¨le fait plaisir Ã  voir.}
+{1110}{JAIN308}{Le Saint des Saints. Il est la lumiÃ¨re que nous suivons. Il Ã©liminera ces infidÃ¨les quand l'Anneau de la Renaissance sera atteint.}
+{1111}{JAIN302}{La volontÃ© du Saint apporte la renaissance sur cette planÃ¨te. Nous sommes Ses Enfants et nous exÃ©cutons Son dessein.}

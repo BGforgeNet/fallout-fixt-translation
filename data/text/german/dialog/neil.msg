@@ -60,7 +60,7 @@
 {159}{}{Sounds fair to me.}
 {160}{}{Now I will end this leak in the Followers!}
 {161}{}{Tough luck then.}
-{162}{}{Was möchtest du denn wissen?}
+{162}{}{Was mÃ¶chtest du denn wissen?}
 {163}{}{Who is the leader?}
 {164}{}{Why are you attacking the Children?}
 {165}{}{Where can I get some first aid?}

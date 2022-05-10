@@ -17,16 +17,16 @@
 {1700}{}{Muro de Acero}
 {1800}{}{Muro de Acero}
 {1801}{}{}
-{1900}{}{Rincón de Muro de Acero}
-{2000}{}{Rincón de Muro de Acero}
-{2100}{}{Rincón de Muro de Acero}
-{2200}{}{Rincón de Muro de Acero}
+{1900}{}{RincÃ³n de Muro de Acero}
+{2000}{}{RincÃ³n de Muro de Acero}
+{2100}{}{RincÃ³n de Muro de Acero}
+{2200}{}{RincÃ³n de Muro de Acero}
 {2300}{}{Muro de Acero}
 {2400}{}{Muro de Acero}
-{2500}{}{Rincón de Muro de Acero}
+{2500}{}{RincÃ³n de Muro de Acero}
 {2600}{}{Muro de Acero}
 {2700}{}{Muro de Acero}
-{2800}{}{Rincón de Muro de Acero}
+{2800}{}{RincÃ³n de Muro de Acero}
 {2900}{}{Muro de Acero}
 {3000}{}{Muro de Acero}
 {3001}{}{}
@@ -55,38 +55,38 @@
 {5300}{}{Muro}
 {5400}{}{Muro}
 {5500}{}{Ventana de Acero}
-{5600}{}{Tubería}
-{5700}{}{Tubería}
-{5800}{}{Tubería}
+{5600}{}{TuberÃ­a}
+{5700}{}{TuberÃ­a}
+{5800}{}{TuberÃ­a}
 {5900}{}{el equipo}
 {5901}{}{}
-{6000}{}{Tuberías}
-{6100}{}{Tubería}
-{6200}{}{Tubería}
-{6300}{}{Tubería}
-{6400}{}{Tubería}
-{6500}{}{Tubería}
-{6600}{}{Tubería}
-{6700}{}{Tuberías}
-{6800}{}{Tuberías}
-{6900}{}{Tuberías}
-{7000}{}{Tubería}
-{7100}{}{Tubería}
-{7200}{}{Tubería}
-{7300}{}{Tubería}
-{7400}{}{Tubería}
+{6000}{}{TuberÃ­as}
+{6100}{}{TuberÃ­a}
+{6200}{}{TuberÃ­a}
+{6300}{}{TuberÃ­a}
+{6400}{}{TuberÃ­a}
+{6500}{}{TuberÃ­a}
+{6600}{}{TuberÃ­a}
+{6700}{}{TuberÃ­as}
+{6800}{}{TuberÃ­as}
+{6900}{}{TuberÃ­as}
+{7000}{}{TuberÃ­a}
+{7100}{}{TuberÃ­a}
+{7200}{}{TuberÃ­a}
+{7300}{}{TuberÃ­a}
+{7400}{}{TuberÃ­a}
 {7500}{}{el equipo}
 {7501}{}{}
-{7600}{}{Tuberías}
+{7600}{}{TuberÃ­as}
 {7700}{}{el equipo}
 {7701}{}{}
-{7800}{}{Tubería}
-{7900}{}{Tuberías}
-{8000}{}{Tuberías}
-{8100}{}{Tubería}
-{8200}{}{Tuberías}
-{8300}{}{Tubería}
-{8400}{}{Tubería}
+{7800}{}{TuberÃ­a}
+{7900}{}{TuberÃ­as}
+{8000}{}{TuberÃ­as}
+{8100}{}{TuberÃ­a}
+{8200}{}{TuberÃ­as}
+{8300}{}{TuberÃ­a}
+{8400}{}{TuberÃ­a}
 {8500}{}{Gizmo}
 {8600}{}{Valla de Madera}
 {8700}{}{Valla de Madera}
@@ -981,28 +981,28 @@
 {97400}{}{Valla}
 {97500}{}{Valla}
 {97600}{}{Valla}
-{97700}{}{Camión de Nuka-Cola}
-{97701}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{97800}{}{Camión de Nuka-Cola}
-{97801}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{97900}{}{Camión de Nuka-Cola}
-{97901}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{98000}{}{Camión de Nuka-Cola}
-{98001}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{98100}{}{Camión de Nuka-Cola}
-{98101}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{98200}{}{Camión de Nuka-Cola}
-{98201}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{98300}{}{Camión de Nuka-Cola}
-{98301}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{98400}{}{Camión de Nuka-Cola}
-{98401}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{98500}{}{Camión de Nuka-Cola}
-{98501}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{98600}{}{Camión de Nuka-Cola}
-{98601}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
-{98700}{}{Camión de Nuka-Cola}
-{98701}{}{Este camión ha tenido mejores días. Parece que los saqueadores no lo han tocado, pero aun así...}
+{97700}{}{CamiÃ³n de Nuka-Cola}
+{97701}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{97800}{}{CamiÃ³n de Nuka-Cola}
+{97801}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{97900}{}{CamiÃ³n de Nuka-Cola}
+{97901}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{98000}{}{CamiÃ³n de Nuka-Cola}
+{98001}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{98100}{}{CamiÃ³n de Nuka-Cola}
+{98101}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{98200}{}{CamiÃ³n de Nuka-Cola}
+{98201}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{98300}{}{CamiÃ³n de Nuka-Cola}
+{98301}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{98400}{}{CamiÃ³n de Nuka-Cola}
+{98401}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{98500}{}{CamiÃ³n de Nuka-Cola}
+{98501}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{98600}{}{CamiÃ³n de Nuka-Cola}
+{98601}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
+{98700}{}{CamiÃ³n de Nuka-Cola}
+{98701}{}{Este camiÃ³n ha tenido mejores dÃ­as. Parece que los saqueadores no lo han tocado, pero aun asÃ­...}
 {98800}{}{Muro de Cueva}
 {98900}{}{Muro}
 {99000}{}{Muro}
@@ -1159,23 +1159,23 @@
 {114100}{}{Muro}
 {114200}{}{Muro}
 {114300}{}{Muro}
-{114400}{}{un depósito de agua}
+{114400}{}{un depÃ³sito de agua}
 {114401}{}{}
-{114500}{}{un depósito de agua}
+{114500}{}{un depÃ³sito de agua}
 {114501}{}{}
-{114600}{}{un depósito de agua}
+{114600}{}{un depÃ³sito de agua}
 {114601}{}{}
-{114700}{}{un depósito de agua}
+{114700}{}{un depÃ³sito de agua}
 {114701}{}{}
-{114800}{}{un depósito de agua}
+{114800}{}{un depÃ³sito de agua}
 {114801}{}{}
-{114900}{}{un depósito de agua}
+{114900}{}{un depÃ³sito de agua}
 {114901}{}{}
-{115000}{}{un depósito de agua}
+{115000}{}{un depÃ³sito de agua}
 {115001}{}{}
-{115100}{}{un depósito de agua}
-{115200}{}{un depósito de agua}
-{115300}{}{un depósito de agua}
+{115100}{}{un depÃ³sito de agua}
+{115200}{}{un depÃ³sito de agua}
+{115300}{}{un depÃ³sito de agua}
 {115400}{}{Muro}
 {115500}{}{una entrada destruida}
 {115501}{}{Esta fue la entrada de la poderosa Hermandad del Acero - ahora solo otro edificio del yermo.}

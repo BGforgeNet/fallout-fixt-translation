@@ -2,19 +2,19 @@
 {101}{}{Tu vois un chien.}
 {102}{}{Wouaf !}
 {103}{}{Grrr!}
-{104}{}{Il semblerait que tu te sois lié d'amitié avec ce chien.}
-{105}{}{Tu gagnes 200 points d'expérience pour avoir fait ami-ami avec le chien.}
-{106}{}{Tu gagnes 335 points d'expérience pour avoir vaincu le chien et permis à Phil de rentrer chez lui.}
+{104}{}{Il semblerait que tu te sois liÃ© d'amitiÃ© avec ce chien.}
+{105}{}{Tu gagnes 200 points d'expÃ©rience pour avoir fait ami-ami avec le chien.}
+{106}{}{Tu gagnes 335 points d'expÃ©rience pour avoir vaincu le chien et permis Ã  Phil de rentrer chez lui.}
 {107}{}{Viens ici, mon gars.}
 {108}{}{Ruff. Ruff.}
-{109}{}{Tu ne sais pas trop pourquoi, mais ce chien semble t'apprécier.}
+{109}{}{Tu ne sais pas trop pourquoi, mais ce chien semble t'apprÃ©cier.}
 {110}{}{Voici Canigou.}
 {111}{}{Arf ! Arf Arf ! Arf ! Arf ! Arf ! Arf ! Arf ! Arf !}
 {112}{}{[Sniff. Sniff.] Grrrr ! Snarl !}
 {113}{}{[Sniff. Sniff] Wouf !}
-{114}{}{points d'expérience pour avoir aidé Phil à résoudre son dilemme canin.}
-{115}{}{Le chien semble penser que tu es son propriétaire.}
-{116}{}{points d'expérience pour avoir aidé Phil à résoudre son dilemme canin.}
+{114}{}{points d'expÃ©rience pour avoir aidÃ© Phil Ã  rÃ©soudre son dilemme canin.}
+{115}{}{Le chien semble penser que tu es son propriÃ©taire.}
+{116}{}{points d'expÃ©rience pour avoir aidÃ© Phil Ã  rÃ©soudre son dilemme canin.}
 {117}{}{Woof-woof! Woof!}
 {118}{}{Allez, viens, p'tit gars.}
 {119}{}{Reste ici et attends-moi, ok ?}
@@ -23,7 +23,7 @@
 {122}{}{Wouf ?}
 {123}{}{Arf ?}
 {124}{}{Woof-woof! Woof!}
-{300}{}{Toutou !! Toutou être ami ?}
+{300}{}{Toutou !! Toutou Ãªtre ami ?}
 {301}{}{Toutou assis ! Pas bouger !}
 {302}{}{Pousse-toi un peu, mon gars. Bon chien.}
 {303}{}{}

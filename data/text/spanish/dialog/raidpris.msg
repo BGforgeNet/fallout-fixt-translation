@@ -1,11 +1,11 @@
 {100}{}{Ves a un desanimado prisionero de los saqueadores.}
-{101}{}{¡Eh, tú! ¡Sácame de aquí!}
-{102}{}{¡Cállate, vas a alertar a los guardias!}
-{103}{}{¡Shh! ¿Quién eres?}
+{101}{}{Â¡Eh, tÃº! Â¡SÃ¡came de aquÃ­!}
+{102}{}{Â¡CÃ¡llate, vas a alertar a los guardias!}
+{103}{}{Â¡Shh! Â¿QuiÃ©n eres?}
 {104}{}{Goop.}
-{105}{}{No me importa. ¡Sácame de aquí, por favor!}
-{106}{}{Me llamo Jack. Soy de Ciudad Vertedero. Estos monstruos mataron al resto de los miembros de mi caravana y me metieron aquí.}
-{107}{}{De acuerdo. Veré lo que puedo hacer.}
-{108}{}{Vaya un gorrón. Disfruta de tu estancia.}
-{109}{}{Por favor, ayúdame a salir.}
-{110}{}{¡Ay! Mi pierna. Me duele. Creo que está rota. ¡Por favor, ayúdame!}
+{105}{}{No me importa. Â¡SÃ¡came de aquÃ­, por favor!}
+{106}{}{Me llamo Jack. Soy de Ciudad Vertedero. Estos monstruos mataron al resto de los miembros de mi caravana y me metieron aquÃ­.}
+{107}{}{De acuerdo. VerÃ© lo que puedo hacer.}
+{108}{}{Vaya un gorrÃ³n. Disfruta de tu estancia.}
+{109}{}{Por favor, ayÃºdame a salir.}
+{110}{}{Â¡Ay! Mi pierna. Me duele. Creo que estÃ¡ rota. Â¡Por favor, ayÃºdame!}

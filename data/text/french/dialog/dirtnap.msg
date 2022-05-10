@@ -1,4 +1,4 @@
 {100}{}{Voici un Goule rayonnant.}
-{101}{}{Si tu touches à quoi que ce soit, tu vas manger de la poussière. Le dernier qui a essayé s'en souvient encore.}
-{102}{}{L'écoulement s'est arrêté. Tout comme ta vie dans peu de temps.}
-{103}{}{Merci d'avoir réparé la pompe à eau.}
+{101}{}{Si tu touches Ã  quoi que ce soit, tu vas manger de la poussiÃ¨re. Le dernier qui a essayÃ© s'en souvient encore.}
+{102}{}{L'Ã©coulement s'est arrÃªtÃ©. Tout comme ta vie dans peu de temps.}
+{103}{}{Merci d'avoir rÃ©parÃ© la pompe Ã  eau.}

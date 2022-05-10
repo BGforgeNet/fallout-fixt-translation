@@ -1,1 +1,1 @@
-{100}{}{Est·s viendo un campo de fuerza que brilla.}
+{100}{}{Est√°s viendo un campo de fuerza que brilla.}

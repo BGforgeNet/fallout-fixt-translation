@@ -1,1 +1,1 @@
-{100}{}{Est·s viendo a un soldado de los Nocturnos.}
+{100}{}{Est√°s viendo a un soldado de los Nocturnos.}

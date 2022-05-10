@@ -1,5 +1,5 @@
-{100}{}{Le bandit ne fait pas attention à toi.}
+{100}{}{Le bandit ne fait pas attention Ã  toi.}
 {101}{}{Le bandit se moque de toi en passant.}
-{102}{}{Voici un bandit armé à l'air louche.}
+{102}{}{Voici un bandit armÃ© Ã  l'air louche.}
 {103}{}{Gizmo te fait ses hommages !}
-{104}{}{points d'expérience pour avoir aidé Killian à lutter contre l'assassin.}
+{104}{}{points d'expÃ©rience pour avoir aidÃ© Killian Ã  lutter contre l'assassin.}

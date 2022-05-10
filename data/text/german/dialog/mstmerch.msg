@@ -6,7 +6,7 @@
 {105}{}{Nothing, bye.}
 {106}{}{Shek.}
 {107}{}{Sure, great. You're hired. Wait. What position? Oh, caravan guard, right? Yeah, sure. You can work for us. You look okay. Anything else?}
-{108}{}{Nö.}
+{108}{}{NÃ¶.}
 {109}{}{Yes, do you have a Water Chip?}
 {110}{}{Veh?}
 {111}{}{Sorry, no time for nonsense!}
@@ -29,7 +29,7 @@
 {128}{}{I need a Water Chip.}
 {129}{}{I'm still looking for a Water Chip.}
 {130}{}{I want a job.}
-{131}{}{Tschüss.}
+{131}{}{TschÃ¼ss.}
 {132}{}{Sure, great. You're hired. Wait. What position? Oh, caravan guard, right? Yeah, sure. You can work for us. You look okay.}
 {133}{}{We already went through this. Are you willing to pay the price to have the water caravans start?}
 {134}{}{Earlier you mentioned that Necropolis might have a Water Chip. Why would they need one?}

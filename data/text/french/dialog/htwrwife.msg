@@ -1,5 +1,5 @@
 {100}{}{Voici la femme de Hightower.}
-{101}{}{Bonjour. Tu dois être un des associés de mon mari.}
+{101}{}{Bonjour. Tu dois Ãªtre un des associÃ©s de mon mari.}
 {102}{}{Rebonjour.}
 {103}{}{Mon dieu !! Il y a quelqu'un chez moi !!}
 {104}{}{Prends tout ce que tu veux ! Mais va-t'en !}

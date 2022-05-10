@@ -1,122 +1,122 @@
-{100}{}{Estás viendo al Maestro de los Supermutantes.}
-{101}{Mast00}{¿Qué va a ser? ¿Te unes a la Unidad o mueres aquí mismo? ¡Únete! ¡Muere! ¡Únete! ¡Muere!}
-{102}{}{No puedo ganar. Me uniré a vosotros.}
-{103}{}{Si me demuestras que vuestra Unidad es el mejor curso que puede tomar la humanidad, os ayudaré.}
-{104}{}{¿Qué tal si tú mueres y yo me largo?}
-{105}{}{Oh, alguien va a morir hoy, pero no seré yo. Tengo un plan.}
-{106}{}{Umgh... qué?}
-{107}{Mast01}{Magnífico. Tu talento nos será útil. Pero, antes, debes contármelo todo sobre tu Refugio.}
-{108}{}{¿Por qué?}
-{109}{}{Vale. Te contaré todo lo que quieras saber.}
-{110}{Mast02}{Conquistaré y convertiré a todo esos humanos puros en mutantes. Ellos serán el ejército que necesito para traer la paz a todo el yermo.}
+{100}{}{EstÃ¡s viendo al Maestro de los Supermutantes.}
+{101}{Mast00}{Â¿QuÃ© va a ser? Â¿Te unes a la Unidad o mueres aquÃ­ mismo? Â¡Ãšnete! Â¡Muere! Â¡Ãšnete! Â¡Muere!}
+{102}{}{No puedo ganar. Me unirÃ© a vosotros.}
+{103}{}{Si me demuestras que vuestra Unidad es el mejor curso que puede tomar la humanidad, os ayudarÃ©.}
+{104}{}{Â¿QuÃ© tal si tÃº mueres y yo me largo?}
+{105}{}{Oh, alguien va a morir hoy, pero no serÃ© yo. Tengo un plan.}
+{106}{}{Umgh... quÃ©?}
+{107}{Mast01}{MagnÃ­fico. Tu talento nos serÃ¡ Ãºtil. Pero, antes, debes contÃ¡rmelo todo sobre tu Refugio.}
+{108}{}{Â¿Por quÃ©?}
+{109}{}{Vale. Te contarÃ© todo lo que quieras saber.}
+{110}{Mast02}{ConquistarÃ© y convertirÃ© a todo esos humanos puros en mutantes. Ellos serÃ¡n el ejÃ©rcito que necesito para traer la paz a todo el yermo.}
 {111}{}{Lo siento, no me gusta mucho ese plan.}
-{112}{}{Parece razonable. Hagámoslo.}
-{113}{Mast03}{Que así sea. Has cavado tu propia tumba. ¡Tumba! ¡Tumba!}
-{114}{Mast04}{¡No te tengo que demostrar nada! Demostrar.}
-{115}{}{Tu propio ego te pide que me lo cuentes. Todos los villanos tienen esta extraña necesidad de explicarlo todo.}
-{116}{}{No puedo saber si representáis el mejor futuro posible si no me lo demuestras.}
-{117}{Mast05}{Muy exigente para alguien en una posición tan delicada como la tuya, pero respetaré tu necesidad.}
-{118}{}{Pues cuéntame.}
-{119}{Mast06}{La Unidad traerá la raza superior. ¡Maestro! ¡Maestro! Capaz de sobrevivir o incluso de desarrollarse, en el yermo. Mientras existan diferencias, nos condenaremos a luchar unos contra otros. Necesitamos una sola raza. ¡Raza! ¡Raza! Una meta. ¡Meta! ¡Meta! Un pueblo... para caminar hacia nuestro destino. Destino.}
+{112}{}{Parece razonable. HagÃ¡moslo.}
+{113}{Mast03}{Que asÃ­ sea. Has cavado tu propia tumba. Â¡Tumba! Â¡Tumba!}
+{114}{Mast04}{Â¡No te tengo que demostrar nada! Demostrar.}
+{115}{}{Tu propio ego te pide que me lo cuentes. Todos los villanos tienen esta extraÃ±a necesidad de explicarlo todo.}
+{116}{}{No puedo saber si representÃ¡is el mejor futuro posible si no me lo demuestras.}
+{117}{Mast05}{Muy exigente para alguien en una posiciÃ³n tan delicada como la tuya, pero respetarÃ© tu necesidad.}
+{118}{}{Pues cuÃ©ntame.}
+{119}{Mast06}{La Unidad traerÃ¡ la raza superior. Â¡Maestro! Â¡Maestro! Capaz de sobrevivir o incluso de desarrollarse, en el yermo. Mientras existan diferencias, nos condenaremos a luchar unos contra otros. Necesitamos una sola raza. Â¡Raza! Â¡Raza! Una meta. Â¡Meta! Â¡Meta! Un pueblo... para caminar hacia nuestro destino. Destino.}
 {120}{}{Se trata de la raza de los mutantes, por supuesto.}
-{121}{}{Espero que no acabemos pareciéndonos a ti.}
-{122}{Mast07}{Por supuesto. Los Mutantes son los mejor equipados para ocuparse del mundo hoy en día. ¿Quién si no? ¿Los necrófagos? Por favor... ¿Los normales? Ellos nos trajeron la muerte nuclear. Ésta será la era de los mutantes. Los Mutantes.}
-{123}{}{¿Estás diciendo que transformaréis a todos los demás en mutantes?}
-{124}{}{Eres un fanático.}
-{125}{}{¿Qué pasará con aquellos que se opongan a vosotros?}
-{126}{Mast08}{A todos los que se resistan, sí. A todos los que sean requeridos para la Unidad, también. Al resto se les permitirá vivir hasta el final de sus días, pero bajo el control y la protección de la Unidad. Pero nadie procreará por lo cual serán los últimos especímenes de sus razas.}
+{121}{}{Espero que no acabemos pareciÃ©ndonos a ti.}
+{122}{Mast07}{Por supuesto. Los Mutantes son los mejor equipados para ocuparse del mundo hoy en dÃ­a. Â¿QuiÃ©n si no? Â¿Los necrÃ³fagos? Por favor... Â¿Los normales? Ellos nos trajeron la muerte nuclear. Ã‰sta serÃ¡ la era de los mutantes. Los Mutantes.}
+{123}{}{Â¿EstÃ¡s diciendo que transformarÃ©is a todos los demÃ¡s en mutantes?}
+{124}{}{Eres un fanÃ¡tico.}
+{125}{}{Â¿QuÃ© pasarÃ¡ con aquellos que se opongan a vosotros?}
+{126}{Mast08}{A todos los que se resistan, sÃ­. A todos los que sean requeridos para la Unidad, tambiÃ©n. Al resto se les permitirÃ¡ vivir hasta el final de sus dÃ­as, pero bajo el control y la protecciÃ³n de la Unidad. Pero nadie procrearÃ¡ por lo cual serÃ¡n los Ãºltimos especÃ­menes de sus razas.}
 {127}{}{Hay un problema con tu plan.}
-{128}{}{Al parecer lo tenéis todo bajo control. Me uniré a vosotros.}
-{129}{}{Creo que todos vosotros estáis chiflados, y tú el que más. Os tengo que detener.}
-{130}{Mast09}{¿Cuál es?}
-{131}{}{¡No contasteis conmigo! ¡Os voy a detener aquí mismo, ahora mismo!}
-{132}{}{No podéis apoderaros de todo el mundo.}
-{133}{}{Resulta que sé que tus mutantes son estériles.}
-{134}{Mast10}{Todavía no quiero dominar el mundo entero. Cuando convierta en mutantes a los habitantes de los Refugios, mis fuerzas serán tan poderosas que no encontrarán oponente. Pero no te preocupes, no te importará. ¡Importará! ¡Importará!}
-{135}{Mast11}{¡Ridículo! El virus VEF-2 no destruye los órganos reproductores de aquellos que modifica.}
-{136}{}{Quizás antes el virus no dejaba estériles a las personas, pero ahora lo hace.}
-{137}{}{¿Has hablado de esto con alguno de tus mutantes?}
-{138}{}{Quizá sea por todas esas radiaciones suplementarias.}
-{139}{Mast12}{¿Tienes pruebas?}
-{140}{}{¡Claro que sí! Aquí están...}
-{141}{}{Te doy mi palabra, pasa así.}
-{142}{}{Pregúntales a tus mutantes.}
-{143}{Mast13}{¡Esto no prueba nada! Pagarás por tu insolencia. ¡Insolencia!}
-{144}{}{Tengo que digerir esta información. Un momento.}
-{145}{Mast14}{Tengo que digerir esta información. Un momento... Ya lo entiendo. Es una buena falsificación. Has inventado todo esto para engañarme. ¡Engañarme!}
-{146}{}{¿¡Qué!? No lo entiendo. ¡Creía que era correcto!}
-{147}{}{¡Mientes! ¡Estas negando la evidencia que tienes delante!}
-{148}{Mast16}{¡Pagarás por lo que has hecho! ¡Paga! Hecho.}
-{149}{Mast17}{Pero no puede ser. Significaría que todo mi trabajo ha sido para nada. Todo lo que he intentado... ¡un fracaso! No puede Ser. Ser. Ser. Ser. Ser.}
-{150}{}{Lo siento, no tienes elección. Tu raza desaparecerá después de esta generación.}
-{151}{}{Quizás se pueda hacer algo. Quizás necesites más sujetos de prueba.}
-{152}{Mast18}{Sí. Más sujetos. Creo que empezaré contigo. ¡Hacer! ¡Hacer!}
-{153}{Mast19}{Creo que no puedo continuar. ¿Continuar? Haber hecho las cosas que he hecho en el nombre del progreso y la medicina. Fue una locura. Ahora lo sé. Una locura. ¿Una locura? No hay esperanza. Vete ahora, vete mientras te queda esperanza...}
-{154}{Mast20}{Creo que debería. No te muevas.}
-{155}{Mast21}{Mis científicos me han asegurado que nada está mal. ¿Qué tienes que decir a eso? ¡Di! ¡Di!}
-{156}{}{¿Se te ocurrió preguntarle a una mutante hembra?}
-{157}{}{Pregúntaselo a uno de tus Tenientes.}
-{158}{}{Te tienen miedo. ¿Pensabas que te dirían la verdad?}
-{159}{Mast22}{Un momento. No le encontramos. Debe estar muerto y puedo adivinar quién lo ha matado. ¡Muerto! ¡Matar!}
-{160}{Mast23}{Lo niega todo. Y dice saber quién inició este rumor...}
-{161}{Mast24}{Creo que sé quién es el mentiroso. ¡Mentiroso!}
-{162}{Mast25}{Es razonable. Un momento. ¿Estás segura? ¿Qué hay de las otras hembras? No puede ser. Ser.}
-{163}{}{Lo siento, tu raza está condenada.}
-{164}{}{Perdona que me ría... ¡Ya te lo dije!}
-{165}{Mast26}{Me parece que sin pruebas no puedo creerte. Ahora, te unirás a mi ejército como una mutante o morirás. ¡Muere! ¡Únete!}
-{166}{}{Mejor estar muerta que ser como tú.}
-{167}{}{Supone abandonar todo lo que conozco, pero me uniré.}
-{168}{Mast27}{Tú humor no te salvará ahora. ¿Aceptas o no mi oferta? ¡Aceptas! ¡No aceptas!}
+{128}{}{Al parecer lo tenÃ©is todo bajo control. Me unirÃ© a vosotros.}
+{129}{}{Creo que todos vosotros estÃ¡is chiflados, y tÃº el que mÃ¡s. Os tengo que detener.}
+{130}{Mast09}{Â¿CuÃ¡l es?}
+{131}{}{Â¡No contasteis conmigo! Â¡Os voy a detener aquÃ­ mismo, ahora mismo!}
+{132}{}{No podÃ©is apoderaros de todo el mundo.}
+{133}{}{Resulta que sÃ© que tus mutantes son estÃ©riles.}
+{134}{Mast10}{TodavÃ­a no quiero dominar el mundo entero. Cuando convierta en mutantes a los habitantes de los Refugios, mis fuerzas serÃ¡n tan poderosas que no encontrarÃ¡n oponente. Pero no te preocupes, no te importarÃ¡. Â¡ImportarÃ¡! Â¡ImportarÃ¡!}
+{135}{Mast11}{Â¡RidÃ­culo! El virus VEF-2 no destruye los Ã³rganos reproductores de aquellos que modifica.}
+{136}{}{QuizÃ¡s antes el virus no dejaba estÃ©riles a las personas, pero ahora lo hace.}
+{137}{}{Â¿Has hablado de esto con alguno de tus mutantes?}
+{138}{}{QuizÃ¡ sea por todas esas radiaciones suplementarias.}
+{139}{Mast12}{Â¿Tienes pruebas?}
+{140}{}{Â¡Claro que sÃ­! AquÃ­ estÃ¡n...}
+{141}{}{Te doy mi palabra, pasa asÃ­.}
+{142}{}{PregÃºntales a tus mutantes.}
+{143}{Mast13}{Â¡Esto no prueba nada! PagarÃ¡s por tu insolencia. Â¡Insolencia!}
+{144}{}{Tengo que digerir esta informaciÃ³n. Un momento.}
+{145}{Mast14}{Tengo que digerir esta informaciÃ³n. Un momento... Ya lo entiendo. Es una buena falsificaciÃ³n. Has inventado todo esto para engaÃ±arme. Â¡EngaÃ±arme!}
+{146}{}{Â¿Â¡QuÃ©!? No lo entiendo. Â¡CreÃ­a que era correcto!}
+{147}{}{Â¡Mientes! Â¡Estas negando la evidencia que tienes delante!}
+{148}{Mast16}{Â¡PagarÃ¡s por lo que has hecho! Â¡Paga! Hecho.}
+{149}{Mast17}{Pero no puede ser. SignificarÃ­a que todo mi trabajo ha sido para nada. Todo lo que he intentado... Â¡un fracaso! No puede Ser. Ser. Ser. Ser. Ser.}
+{150}{}{Lo siento, no tienes elecciÃ³n. Tu raza desaparecerÃ¡ despuÃ©s de esta generaciÃ³n.}
+{151}{}{QuizÃ¡s se pueda hacer algo. QuizÃ¡s necesites mÃ¡s sujetos de prueba.}
+{152}{Mast18}{SÃ­. MÃ¡s sujetos. Creo que empezarÃ© contigo. Â¡Hacer! Â¡Hacer!}
+{153}{Mast19}{Creo que no puedo continuar. Â¿Continuar? Haber hecho las cosas que he hecho en el nombre del progreso y la medicina. Fue una locura. Ahora lo sÃ©. Una locura. Â¿Una locura? No hay esperanza. Vete ahora, vete mientras te queda esperanza...}
+{154}{Mast20}{Creo que deberÃ­a. No te muevas.}
+{155}{Mast21}{Mis cientÃ­ficos me han asegurado que nada estÃ¡ mal. Â¿QuÃ© tienes que decir a eso? Â¡Di! Â¡Di!}
+{156}{}{Â¿Se te ocurriÃ³ preguntarle a una mutante hembra?}
+{157}{}{PregÃºntaselo a uno de tus Tenientes.}
+{158}{}{Te tienen miedo. Â¿Pensabas que te dirÃ­an la verdad?}
+{159}{Mast22}{Un momento. No le encontramos. Debe estar muerto y puedo adivinar quiÃ©n lo ha matado. Â¡Muerto! Â¡Matar!}
+{160}{Mast23}{Lo niega todo. Y dice saber quiÃ©n iniciÃ³ este rumor...}
+{161}{Mast24}{Creo que sÃ© quiÃ©n es el mentiroso. Â¡Mentiroso!}
+{162}{Mast25}{Es razonable. Un momento. Â¿EstÃ¡s segura? Â¿QuÃ© hay de las otras hembras? No puede ser. Ser.}
+{163}{}{Lo siento, tu raza estÃ¡ condenada.}
+{164}{}{Perdona que me rÃ­a... Â¡Ya te lo dije!}
+{165}{Mast26}{Me parece que sin pruebas no puedo creerte. Ahora, te unirÃ¡s a mi ejÃ©rcito como una mutante o morirÃ¡s. Â¡Muere! Â¡Ãšnete!}
+{166}{}{Mejor estar muerta que ser como tÃº.}
+{167}{}{Supone abandonar todo lo que conozco, pero me unirÃ©.}
+{168}{Mast27}{TÃº humor no te salvarÃ¡ ahora. Â¿Aceptas o no mi oferta? Â¡Aceptas! Â¡No aceptas!}
 {169}{}{No.}
 {170}{}{Vale, es mejor que morir...}
-{171}{Mast28}{La radiación no nos afecta. El Virus de Evolución Forzada nos hace inmunes. Tu argumento es débil, tú también.}
-{172}{Mast29}{Oh, creo que te equivocas. Pero, solo para asegurarme ordenaré que se investigue este asunto. Después de ocuparme de ti. Ocuparme. ¡Ocuparme!}
-{173}{Mast30}{Mi único problema eres tú. ¿Trabajarás para la Unidad o no?}
+{171}{Mast28}{La radiaciÃ³n no nos afecta. El Virus de EvoluciÃ³n Forzada nos hace inmunes. Tu argumento es dÃ©bil, tÃº tambiÃ©n.}
+{172}{Mast29}{Oh, creo que te equivocas. Pero, solo para asegurarme ordenarÃ© que se investigue este asunto. DespuÃ©s de ocuparme de ti. Ocuparme. Â¡Ocuparme!}
+{173}{Mast30}{Mi Ãºnico problema eres tÃº. Â¿TrabajarÃ¡s para la Unidad o no?}
 {174}{}{No.}
 {175}{}{Claro.}
-{176}{Mast31}{Serán castigados por su insolencia.}
-{177}{}{¿Quieres matarlos a todos?}
-{178}{}{¡Entonces tengo que detenerte ahora mismo!}
-{179}{Mast32}{Claro que no. A la mayoría se les dará la oportunidad de convertirse en mutantes. A aquellos que rechacen esta posibilidad se les esterilizará y se les dejará ir. Los que se resistan, serán ejecutados.}
+{176}{Mast31}{SerÃ¡n castigados por su insolencia.}
+{177}{}{Â¿Quieres matarlos a todos?}
+{178}{}{Â¡Entonces tengo que detenerte ahora mismo!}
+{179}{Mast32}{Claro que no. A la mayorÃ­a se les darÃ¡ la oportunidad de convertirse en mutantes. A aquellos que rechacen esta posibilidad se les esterilizarÃ¡ y se les dejarÃ¡ ir. Los que se resistan, serÃ¡n ejecutados.}
 {180}{}{Eres un cachorro enfermo. Es hora de acabar contigo.}
 {181}{}{Emm, no me gusta la idea de ser ejecutada. Me uno.}
-{182}{Mast33}{Somos todos unos interesados, ¿verdad? Nos preocupamos más de nuestras propias comunidades que de las otras personas. No hemos cambiado. Y te diré algo más...}
-{183}{}{¿Qué es eso?}
-{184}{Mast34}{No cambiaremos. No hasta que no seamos un solo pueblo. Uno. Uno. Una raza. Una. Una. Una. La Unidad nos permitirá elevarnos sobre estas pequeñas preocupaciones y ocuparnos de los problemas mayores. Tú quieres formar parte de ello, ¿no? Parte. No.}
-{185}{}{Me has convencido. Entraré en la Unidad.}
-{186}{}{Quiero una parte de... ¡tu cabeza!}
-{187}{Mast35}{¡Desde luego! !Los mutantes sobrevivirán! ¡Los mutantes reconstruirán este mundo! ¡Y solo como mutante, te será permitido vivir! ¡Vive! ¡Muere!}
-{188}{}{¡Vive!}
-{189}{}{¡Muere!}
+{182}{Mast33}{Somos todos unos interesados, Â¿verdad? Nos preocupamos mÃ¡s de nuestras propias comunidades que de las otras personas. No hemos cambiado. Y te dirÃ© algo mÃ¡s...}
+{183}{}{Â¿QuÃ© es eso?}
+{184}{Mast34}{No cambiaremos. No hasta que no seamos un solo pueblo. Uno. Uno. Una raza. Una. Una. Una. La Unidad nos permitirÃ¡ elevarnos sobre estas pequeÃ±as preocupaciones y ocuparnos de los problemas mayores. TÃº quieres formar parte de ello, Â¿no? Parte. No.}
+{185}{}{Me has convencido. EntrarÃ© en la Unidad.}
+{186}{}{Quiero una parte de... Â¡tu cabeza!}
+{187}{Mast35}{Â¡Desde luego! !Los mutantes sobrevivirÃ¡n! Â¡Los mutantes reconstruirÃ¡n este mundo! Â¡Y solo como mutante, te serÃ¡ permitido vivir! Â¡Vive! Â¡Muere!}
+{188}{}{Â¡Vive!}
+{189}{}{Â¡Muere!}
 {190}{}{Todo lo que te preocupa son tus mutantes y su Unidad.}
 {191}{Mast36}{No soy un villano. No tienes ni idea de lo que yo y la Unidad significamos.}
-{192}{}{Entonces dime lo que significáis.}
-{193}{}{Eres un villano. Solo que estás negando tus verdaderos sentimientos.}
-{194}{Mast37}{No tengo que demostrarte nada. Si usas tu lógica, eso demostrará que no soy un villano. Sería inútil intentar explicártelo.}
-{195}{Mast38}{¿Oh? Por favor, ¿qué tipo de plan podría ser ese?}
-{196}{}{Voy a activar un mecanismo nuclear en este Refugio. Explotará en breve, ¡os mandará a todos al infierno!}
-{197}{}{Te mataré, eso te lo pone difícil para seguir, ¿no?}
-{198}{}{Convencí a la Hermandad del Acero para que invadiesen este lugar si yo era capturado y no me poníais en libertad. Llegarán de un momento a otro.}
-{199}{Mast39}{Puede que estés diciendo la verdad. No importa, pero te dejaré ir por ahora.}
-{200}{Mast40}{Estás mintiendo. Pero será la última mentira que digas.}
-{201}{Mast41}{Un momento, voy a comprobar tu historia. Puede que digas la verdad. ¡Guardias! Llevad a esta humana al corazón del reactor. Ocupémonos del problema antes de que sea tarde.}
-{202}{Mast42}{Dudo incluso que el VEF te pueda ayudar. ¿Por qué sigo hablando? Seguro que ni siquiera me entiendes...}
+{192}{}{Entonces dime lo que significÃ¡is.}
+{193}{}{Eres un villano. Solo que estÃ¡s negando tus verdaderos sentimientos.}
+{194}{Mast37}{No tengo que demostrarte nada. Si usas tu lÃ³gica, eso demostrarÃ¡ que no soy un villano. SerÃ­a inÃºtil intentar explicÃ¡rtelo.}
+{195}{Mast38}{Â¿Oh? Por favor, Â¿quÃ© tipo de plan podrÃ­a ser ese?}
+{196}{}{Voy a activar un mecanismo nuclear en este Refugio. ExplotarÃ¡ en breve, Â¡os mandarÃ¡ a todos al infierno!}
+{197}{}{Te matarÃ©, eso te lo pone difÃ­cil para seguir, Â¿no?}
+{198}{}{ConvencÃ­ a la Hermandad del Acero para que invadiesen este lugar si yo era capturado y no me ponÃ­ais en libertad. LlegarÃ¡n de un momento a otro.}
+{199}{Mast39}{Puede que estÃ©s diciendo la verdad. No importa, pero te dejarÃ© ir por ahora.}
+{200}{Mast40}{EstÃ¡s mintiendo. Pero serÃ¡ la Ãºltima mentira que digas.}
+{201}{Mast41}{Un momento, voy a comprobar tu historia. Puede que digas la verdad. Â¡Guardias! Llevad a esta humana al corazÃ³n del reactor. OcupÃ©monos del problema antes de que sea tarde.}
+{202}{Mast42}{Dudo incluso que el VEF te pueda ayudar. Â¿Por quÃ© sigo hablando? Seguro que ni siquiera me entiendes...}
 {203}{Mast43}{Debes estar bromeando.}
-{204}{Mast44}{Estás acabando con mi paciencia. Ahora, ¿vas a unirte a la Unidad o no? Unirte. ¡O no!}
-{205}{}{Sí.}
+{204}{Mast44}{EstÃ¡s acabando con mi paciencia. Ahora, Â¿vas a unirte a la Unidad o no? Unirte. Â¡O no!}
+{205}{}{SÃ­.}
 {206}{}{No.}
-{207}{Mast45}{Bien. Entonces puedes morir aquí y ahora.}
-{208}{Mast46}{Has desactivado el mecanismo. Excelente. Dime, ¿hay algo que quieras decirme antes de que te mate?}
-{209}{}{Sí, ¿puedo unirme a vosotros ahora?}
-{210}{}{Incluso muerta, estaré más guapa que tú.}
+{207}{Mast45}{Bien. Entonces puedes morir aquÃ­ y ahora.}
+{208}{Mast46}{Has desactivado el mecanismo. Excelente. Dime, Â¿hay algo que quieras decirme antes de que te mate?}
+{209}{}{SÃ­, Â¿puedo unirme a vosotros ahora?}
+{210}{}{Incluso muerta, estarÃ© mÃ¡s guapa que tÃº.}
 {211}{Mast47}{No. No. No. No.}
-{212}{Mast200}{Soy el Maestro. No tengo por qué responderte.}
-{213}{Mast201}{No estoy aquí para responder a tus preguntas. Tú estás aquí para responder a las mías.}
-{214}{Mast202}{¡Una vez sepa la ubicación de tu Refugio, completaré mi destino! ¡Destino! ¡Destino! ¡Destino!}
-{215}{Mast203}{¿¡Piensas que puedes destruirme!? ¡Destruirme! ¿A mí?}
-{300}{}{¡Bah!}
-{980}{Mast200}{Soy el Maestro. No tengo por qué responderte.}
+{212}{Mast200}{Soy el Maestro. No tengo por quÃ© responderte.}
+{213}{Mast201}{No estoy aquÃ­ para responder a tus preguntas. TÃº estÃ¡s aquÃ­ para responder a las mÃ­as.}
+{214}{Mast202}{Â¡Una vez sepa la ubicaciÃ³n de tu Refugio, completarÃ© mi destino! Â¡Destino! Â¡Destino! Â¡Destino!}
+{215}{Mast203}{Â¿Â¡Piensas que puedes destruirme!? Â¡Destruirme! Â¿A mÃ­?}
+{300}{}{Â¡Bah!}
+{980}{Mast200}{Soy el Maestro. No tengo por quÃ© responderte.}
 {1000}{}{Unidad}
 {1001}{}{Maestro}
-{1100}{Mast200}{Soy el Maestro. No tengo por qué responderte.}
-{1101}{Mast201}{No estoy aquí para responder a tus preguntas. Tú estás aquí para responder a las mías.}
+{1100}{Mast200}{Soy el Maestro. No tengo por quÃ© responderte.}
+{1101}{Mast201}{No estoy aquÃ­ para responder a tus preguntas. TÃº estÃ¡s aquÃ­ para responder a las mÃ­as.}

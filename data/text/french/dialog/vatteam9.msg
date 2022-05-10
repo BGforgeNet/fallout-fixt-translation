@@ -1,1 +1,1 @@
-{100}{}{Voici un soldat des Ténébreux.}
+{100}{}{Voici un soldat des TÃ©nÃ©breux.}

@@ -27,7 +27,7 @@
 {126}{}{No, I don't have the money. Will you float me?}
 {127}{}{Nein.}
 {128}{}{Ya.}
-{129}{}{Nö.}
+{129}{}{NÃ¶.}
 {130}{}{No. I don't loan anyone, and I mean anyone, any amount of money. Go away, you pauper.}
 {131}{}{It's your life. Goodbye.}
 {132}{}{Excellent. Let's begin. This might hurt a little... }

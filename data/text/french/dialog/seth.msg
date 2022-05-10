@@ -1,14 +1,14 @@
-{100}{}{Voici Seth, le capitaine des gardes des Sables Ombragés.}
-{101}{}{Hé toi ! Les habitants des Sables en ont assez que tu leur empoisonnes la vie ! Je vais m'occuper de ton cas moi-même !}
-{102}{}{Il n'y a rien de bon en toi. Je vais te tuer ; ça fera un monstre en moins dans le désert !}
-{103}{}{T'en as pas beaucoup dans la caboche, hein ? Et bien, fais attention aux radscorpions et ne crée pas d'histoires !}
+{100}{}{Voici Seth, le capitaine des gardes des Sables OmbragÃ©s.}
+{101}{}{HÃ© toi ! Les habitants des Sables en ont assez que tu leur empoisonnes la vie ! Je vais m'occuper de ton cas moi-mÃªme !}
+{102}{}{Il n'y a rien de bon en toi. Je vais te tuer ; Ã§a fera un monstre en moins dans le dÃ©sert !}
+{103}{}{T'en as pas beaucoup dans la caboche, hein ? Et bien, fais attention aux radscorpions et ne crÃ©e pas d'histoires !}
 {104}{}{Euh... Radscorpion !}
 {105}{}{Au'voir... au'voir.}
-{106}{}{Tu m'as tout l'air d'un pillard. On se méfie ici aux Sables. Qu'est-ce que tu veux ?}
+{106}{}{Tu m'as tout l'air d'un pillard. On se mÃ©fie ici aux Sables. Qu'est-ce que tu veux ?}
 {107}{}{Je veux tout ton argent !}
 {108}{}{J'ai besoin de quelques renseignements.}
 {109}{}{Baba ?}
-{110}{}{Bonjour. Je m'appelle Seth. En quoi puis-je t'être utile ?}
+{110}{}{Bonjour. Je m'appelle Seth. En quoi puis-je t'Ãªtre utile ?}
 {111}{}{J'ai besoin de quelques renseignements.}
 {112}{}{Bouba !}
 {113}{}{Des renseignements ? Qu'est-ce que tu veux savoir ?}
@@ -16,56 +16,56 @@
 {115}{}{Parle-moi des radscorpions.}
 {116}{}{Parle-moi des pillards.}
 {117}{}{Parle-moi de cet endroit.}
-{118}{}{Enmène-moi aux grottes des radscorpions.}
+{118}{}{EnmÃ¨ne-moi aux grottes des radscorpions.}
 {119}{}{Grotte !}
 {120}{}{Rien d'autre, merci.}
 {121}{}{Que veux-tu cette fois ?}
-{122}{}{Ces satanés radscorpions attaquent nos brahmines depuis le jour où l'on s'est installé ici. Ils rôdent autour des enclos et à cause de ça toutes les semaines quelqu'un y laisse sa peau en essayant de les chasser. La semaine dernière c'est mon frère Jarvis qui a été empoisonné. Razlo, le docteur du village, s'efforce de trouver un antidote au plus vite. Hé, si tu peux nous aider, va donc voir notre chef, Aradesh.}
-{123}{}{Il y a plusieurs groupes de pillards. Je dirige les gardes comme Ian pour lutter contre eux. Il y a une bande qui vit au Sud-Est d'ici. Méfie-toi d'eux !}
-{124}{}{Aux Sables Ombragés, on forme une communauté tranquille. Nous avons notre propre système d'irrigation et vivons de nos cultures. S'il n'y avait pas ces fichus pillards et radscorpions, on n'aurait pas de problèmes !}
+{122}{}{Ces satanÃ©s radscorpions attaquent nos brahmines depuis le jour oÃ¹ l'on s'est installÃ© ici. Ils rÃ´dent autour des enclos et Ã  cause de Ã§a toutes les semaines quelqu'un y laisse sa peau en essayant de les chasser. La semaine derniÃ¨re c'est mon frÃ¨re Jarvis qui a Ã©tÃ© empoisonnÃ©. Razlo, le docteur du village, s'efforce de trouver un antidote au plus vite. HÃ©, si tu peux nous aider, va donc voir notre chef, Aradesh.}
+{123}{}{Il y a plusieurs groupes de pillards. Je dirige les gardes comme Ian pour lutter contre eux. Il y a une bande qui vit au Sud-Est d'ici. MÃ©fie-toi d'eux !}
+{124}{}{Aux Sables OmbragÃ©s, on forme une communautÃ© tranquille. Nous avons notre propre systÃ¨me d'irrigation et vivons de nos cultures. S'il n'y avait pas ces fichus pillards et radscorpions, on n'aurait pas de problÃ¨mes !}
 {125}{}{Tu veux vraiment que je t'indique le chemin des grottes de radscorpions ?! Je ne peux pas t'accompagner mais je peux toujours te montrer le chemin.}
 {126}{}{Oui.}
 {127}{}{Non.}
-{128}{}{D'accord. T'auras qu'à ma faire signe quand tu voudras y aller.}
-{129}{}{[Terminé]}
+{128}{}{D'accord. T'auras qu'Ã  ma faire signe quand tu voudras y aller.}
+{129}{}{[TerminÃ©]}
 {130}{}{Euh ouais.}
 {131}{}{Euh nan.}
-{200}{}{Tout le village te remercie pour avoir anéanti les radscorpions.}
-{201}{}{Grâce à toi, nous n'avons désormais plus rien à craindre.}
-{202}{}{Tu veux vraiment y retourner ? Le voyage sera long. Et puis à quoi bon, tu les as déjà tous tués !}
-{203}{}{Ok. Bon séjour.}
-{204}{}{Bienvenue aux Sables Ombragés. Toi, tu n'es pas du coin. Tant que tu seras ici, ne sors pas ton arme.}
-{205}{}{Bonjour. Bienvenue aux Sables Ombragés.}
-{206}{}{Tu devrais aller voir Aradesh, notre chef. Il aime bien bavarder avec les visiteurs. Tu le trouveras sûrement à l'hôtel de ville, le bâtiment un peu plus au Sud.}
-{300}{}{Merci Dharma, nomade te voilà ! Ma cop... euh, je veux dire Tandi, la fille d'Aradesh, a été kidnappée. Nous pensons que c'est un coup des pillards.}
-{301}{}{Où ils sont ces pillards ?}
-{302}{}{Waou, c'est pas de bol. Bon, ben à plus tard...}
+{200}{}{Tout le village te remercie pour avoir anÃ©anti les radscorpions.}
+{201}{}{GrÃ¢ce Ã  toi, nous n'avons dÃ©sormais plus rien Ã  craindre.}
+{202}{}{Tu veux vraiment y retourner ? Le voyage sera long. Et puis Ã  quoi bon, tu les as dÃ©jÃ  tous tuÃ©s !}
+{203}{}{Ok. Bon sÃ©jour.}
+{204}{}{Bienvenue aux Sables OmbragÃ©s. Toi, tu n'es pas du coin. Tant que tu seras ici, ne sors pas ton arme.}
+{205}{}{Bonjour. Bienvenue aux Sables OmbragÃ©s.}
+{206}{}{Tu devrais aller voir Aradesh, notre chef. Il aime bien bavarder avec les visiteurs. Tu le trouveras sÃ»rement Ã  l'hÃ´tel de ville, le bÃ¢timent un peu plus au Sud.}
+{300}{}{Merci Dharma, nomade te voilÃ  ! Ma cop... euh, je veux dire Tandi, la fille d'Aradesh, a Ã©tÃ© kidnappÃ©e. Nous pensons que c'est un coup des pillards.}
+{301}{}{OÃ¹ ils sont ces pillards ?}
+{302}{}{Waou, c'est pas de bol. Bon, ben Ã  plus tard...}
 {303}{}{Je regrette mais je ne peux rien y faire.}
 {304}{}{C'est terrible mais je dois d'abord m'occuper de ces radscorpions car c'est tout le village qu'ils mettent en danger.}
-{305}{}{Où est Tandi ? Pourquoi ne pars-tu pas à son secours ?}
-{306}{}{Face à ces gars-là il va me falloir plus de matériel.}
+{305}{}{OÃ¹ est Tandi ? Pourquoi ne pars-tu pas Ã  son secours ?}
+{306}{}{Face Ã  ces gars-lÃ  il va me falloir plus de matÃ©riel.}
 {307}{}{Elle n'en vaut pas la peine.}
-{308}{}{T'inquiète, je m'en occupe.}
+{308}{}{T'inquiÃ¨te, je m'en occupe.}
 {309}{}{Je me suis dit qu'il fallait mieux que je m'occupe d'abord des radscorpions.}
-{310}{}{Je croyais pourtant que t'étais quelqu'un de bien !? Alors prouve-le.}
-{311}{}{Ils sont au Sud-Est. Dépêche-toi, s'il te plaît ! Je ne sais pas quel sort ils lui réservent.}
+{310}{}{Je croyais pourtant que t'Ã©tais quelqu'un de bien !? Alors prouve-le.}
+{311}{}{Ils sont au Sud-Est. DÃ©pÃªche-toi, s'il te plaÃ®t ! Je ne sais pas quel sort ils lui rÃ©servent.}
 {312}{}{D'accord, Je vais te la ramener.}
-{313}{}{J'ai jamais dit que j't'aiderais. Moi aussi j'ai mes problèmes.}
-{314}{}{Combien ça va me rapporter ?}
+{313}{}{J'ai jamais dit que j't'aiderais. Moi aussi j'ai mes problÃ¨mes.}
+{314}{}{Combien Ã§a va me rapporter ?}
 {315}{}{Je regrette mais je dois aider les miens.}
-{316}{}{Je le savais que tu n'avais pas de coeur. Mais ne t'inquiète pas, si tu la sauves, nous te paierons bien.}
-{317}{}{Si tu ne veux pas me dire combien tu me paieras, c'est ton problème. Mais je ne sauverai personne tant que l'on ne me dira pas combien on va me payer pour faire ce boulot.}
+{316}{}{Je le savais que tu n'avais pas de coeur. Mais ne t'inquiÃ¨te pas, si tu la sauves, nous te paierons bien.}
+{317}{}{Si tu ne veux pas me dire combien tu me paieras, c'est ton problÃ¨me. Mais je ne sauverai personne tant que l'on ne me dira pas combien on va me payer pour faire ce boulot.}
 {318}{}{D'accord, je m'en charge.}
 {319}{}{Je regrette mais je dois partir.}
 {320}{}{T'es qu'un batard !}
-{321}{}{Dépêche-toi, s'il te plaît ! Seuls les dieux savent ce qu'ils lui réservent.}
-{322}{}{J'aurais préféré que tu sauves Tandi d'abord mais bon, puisque tu acceptes de nous aider à nous débarrasser de ces radscorpions, je vais te montrer le chemin.}
-{323}{}{Ok, enmène-moi jusqu'aux grottes des radscorpions.}
-{324}{}{J'ai changé d'avis. Au revoir}
-{325}{}{Génial. Je reviendrai plus tard et on y ira à ce moment-là.}
+{321}{}{DÃ©pÃªche-toi, s'il te plaÃ®t ! Seuls les dieux savent ce qu'ils lui rÃ©servent.}
+{322}{}{J'aurais prÃ©fÃ©rÃ© que tu sauves Tandi d'abord mais bon, puisque tu acceptes de nous aider Ã  nous dÃ©barrasser de ces radscorpions, je vais te montrer le chemin.}
+{323}{}{Ok, enmÃ¨ne-moi jusqu'aux grottes des radscorpions.}
+{324}{}{J'ai changÃ© d'avis. Au revoir}
+{325}{}{GÃ©nial. Je reviendrai plus tard et on y ira Ã  ce moment-lÃ .}
 {1000}{}{Khans}
 {1001}{}{Garl}
-{1002}{}{Dépôtville}
+{1002}{}{DÃ©pÃ´tville}
 {1003}{}{Sables}
 {1004}{}{Centre}
 {1005}{}{Eau}
@@ -73,20 +73,20 @@
 {1007}{}{Aradesh}
 {1008}{}{Seth}
 {1009}{}{Razlo}
-{1010}{}{Ombragés}
-{1011}{}{Razlo|Medic|Doc|Docteur|Médecin|Medecin|Aide|Guérison|Guerison|Blessure|Blessé|Blesse|Fracture}
+{1010}{}{OmbragÃ©s}
+{1011}{}{Razlo|Medic|Doc|Docteur|MÃ©decin|Medecin|Aide|GuÃ©rison|Guerison|Blessure|BlessÃ©|Blesse|Fracture}
 {1012}{}{Radscorpion}
 {1013}{}{Radscorpions}
 {1014}{}{Radscorpions}
-{1100}{}{Ce sont des hors-la-loi qui prétendent que leur groupe existe depuis belle lurette.}
-{1101}{}{C'est le chef des Khans. C'est un des hommes des plus dangereux qui s'en prend aux Sables Ombragés. Il dirige les pillards d'un poing ferme.}
-{1102}{}{C'est au Sud-Ouest, à 4 ou 6 jours d'ici. On fait des bonnes affaires avec eux parfois mais la plupart du temps ils essaient de nous rouler.}
+{1100}{}{Ce sont des hors-la-loi qui prÃ©tendent que leur groupe existe depuis belle lurette.}
+{1101}{}{C'est le chef des Khans. C'est un des hommes des plus dangereux qui s'en prend aux Sables OmbragÃ©s. Il dirige les pillards d'un poing ferme.}
+{1102}{}{C'est au Sud-Ouest, Ã  4 ou 6 jours d'ici. On fait des bonnes affaires avec eux parfois mais la plupart du temps ils essaient de nous rouler.}
 {1103}{}{C'est ici.}
-{1104}{}{Bien plus au Sud que Dépôtville. Le Centre est la plus grosse ville dont j'ai jamais entendu parler. Il doit bien y avoir au moins 1000 habitants.}
-{1105}{}{Désolé, je ne sais pas.}
-{1106}{}{C'est la fille d'Aradesh. Elle nous commandera peut-être un jour mais faut qu'elle apprenne à se contrôler !}
-{1107}{}{C'est le chef de notre communauté. Et un vrai héros. Tu le trouveras sûrement à l'hôtel de ville.}
-{1108}{}{C'est moi. Je travaille avec Aradesh. On s'assure de la sécurité de chacun.}
+{1104}{}{Bien plus au Sud que DÃ©pÃ´tville. Le Centre est la plus grosse ville dont j'ai jamais entendu parler. Il doit bien y avoir au moins 1000 habitants.}
+{1105}{}{DÃ©solÃ©, je ne sais pas.}
+{1106}{}{C'est la fille d'Aradesh. Elle nous commandera peut-Ãªtre un jour mais faut qu'elle apprenne Ã  se contrÃ´ler !}
+{1107}{}{C'est le chef de notre communautÃ©. Et un vrai hÃ©ros. Tu le trouveras sÃ»rement Ã  l'hÃ´tel de ville.}
+{1108}{}{C'est moi. Je travaille avec Aradesh. On s'assure de la sÃ©curitÃ© de chacun.}
 {1109}{}{Notre docteur. Va le voir en cas de besoin.}
 {1110}{}{C'est ici.}
 {1111}{}{Des sales bestioles. Leur venin est mortel.}

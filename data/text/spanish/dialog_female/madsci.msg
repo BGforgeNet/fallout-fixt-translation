@@ -1,67 +1,67 @@
-{100}{}{Estás viendo a un científico loco. Trabaja diligentemente en algo.}
-{101}{}{Bienvenido, Hermano. ¿Qué te trae a nuestro rinconcito del cielo?}
-{102}{}{Bienvenida, Hermana. ¿Qué te trae a nuestro rinconcito del cielo?}
-{103}{}{Estoy aquí para observar vuestros progresos.}
-{104}{}{¿Se puede saber lo que haces aquí?}
-{105}{}{¿Que qué hago? ¡Cómo te atreves a preguntarme! ¿Quieres que experimente con tu cerebro, mentecata imprudente?}
+{100}{}{EstÃ¡s viendo a un cientÃ­fico loco. Trabaja diligentemente en algo.}
+{101}{}{Bienvenido, Hermano. Â¿QuÃ© te trae a nuestro rinconcito del cielo?}
+{102}{}{Bienvenida, Hermana. Â¿QuÃ© te trae a nuestro rinconcito del cielo?}
+{103}{}{Estoy aquÃ­ para observar vuestros progresos.}
+{104}{}{Â¿Se puede saber lo que haces aquÃ­?}
+{105}{}{Â¿Que quÃ© hago? Â¡CÃ³mo te atreves a preguntarme! Â¿Quieres que experimente con tu cerebro, mentecata imprudente?}
 {106}{}{Rumm.}
-{107}{}{¿Otra vez tú? ¿Por qué te metes en el futuro glorioso del Maestro esta vez?}
-{108}{}{¡El Maestro se impacienta por tus fallos y yo por tu imprudencia!}
+{107}{}{Â¿Otra vez tÃº? Â¿Por quÃ© te metes en el futuro glorioso del Maestro esta vez?}
+{108}{}{Â¡El Maestro se impacienta por tus fallos y yo por tu imprudencia!}
 {109}{}{Quiero saber lo que ocurre con vuestros experimentos.}
-{110}{}{Eso es. Voy a terminar con TU futuro ahora mismo, ¡chump!}
-{111}{}{¡Uahh!}
-{112}{}{No demasiado bien. He estado inoculando el VEF directamente en la glándula pineal, pero no he obtenido los resultados esperados.}
-{113}{}{¿Por qué no intentas inyectarlo directamente en las amígdalas?}
-{114}{}{¿Por qué no intentas inyectarlo directamente en la médula?}
-{115}{}{¿Qué resultados has obtenido?}
-{116}{}{Ummm. ¿Y?}
-{117}{}{Suplico su perdón, señor. ¿Cómo puedo ayudar?}
-{118}{}{Suplico su perdón, señora. ¿Cómo puedo ayudar?}
-{119}{}{O me hablas respetuosamente la próxima vez, ¡o no volverás a hablar con nadie!}
-{120}{}{La verdad del Maestro se ha impuesto, resultando en una mayor capacidad psíquica. [Sacude la cabeza] Pero las almas pobres acaban enloqueciendo y deben ser separadas y nulificadas para que no se dañen a sí mismas o a otras.}
-{121}{}{Oh, qué considerado por tu parte...}
-{122}{}{¿Dónde se conservan?}
-{123}{}{¡Carnicero despiadado! ¡Creo que nulificaré tu cerebro y lo separaré del resto de tu cuerpo! ¡Muere, bastardo!}
-{124}{}{En una habitación al noroeste de aquí. ¿Puedo ayudarte en algo más?}
-{125}{}{Gracias por tu ayuda. Adiós.}
-{126}{}{Sí, eh, ¿qué es el VEF?}
-{127}{}{¡Puedes morir!}
-{128}{}{¡No tengo tiempo para tus payasadas!}
-{129}{}{¡Vaya una idea más intrigante! ¡Debo probarlo inmediatamente!}
-{130}{}{Eh, ¿dónde guardáis los experimentos fracasados?}
+{110}{}{Eso es. Voy a terminar con TU futuro ahora mismo, Â¡chump!}
+{111}{}{Â¡Uahh!}
+{112}{}{No demasiado bien. He estado inoculando el VEF directamente en la glÃ¡ndula pineal, pero no he obtenido los resultados esperados.}
+{113}{}{Â¿Por quÃ© no intentas inyectarlo directamente en las amÃ­gdalas?}
+{114}{}{Â¿Por quÃ© no intentas inyectarlo directamente en la mÃ©dula?}
+{115}{}{Â¿QuÃ© resultados has obtenido?}
+{116}{}{Ummm. Â¿Y?}
+{117}{}{Suplico su perdÃ³n, seÃ±or. Â¿CÃ³mo puedo ayudar?}
+{118}{}{Suplico su perdÃ³n, seÃ±ora. Â¿CÃ³mo puedo ayudar?}
+{119}{}{O me hablas respetuosamente la prÃ³xima vez, Â¡o no volverÃ¡s a hablar con nadie!}
+{120}{}{La verdad del Maestro se ha impuesto, resultando en una mayor capacidad psÃ­quica. [Sacude la cabeza] Pero las almas pobres acaban enloqueciendo y deben ser separadas y nulificadas para que no se daÃ±en a sÃ­ mismas o a otras.}
+{121}{}{Oh, quÃ© considerado por tu parte...}
+{122}{}{Â¿DÃ³nde se conservan?}
+{123}{}{Â¡Carnicero despiadado! Â¡Creo que nulificarÃ© tu cerebro y lo separarÃ© del resto de tu cuerpo! Â¡Muere, bastardo!}
+{124}{}{En una habitaciÃ³n al noroeste de aquÃ­. Â¿Puedo ayudarte en algo mÃ¡s?}
+{125}{}{Gracias por tu ayuda. AdiÃ³s.}
+{126}{}{SÃ­, eh, Â¿quÃ© es el VEF?}
+{127}{}{Â¡Puedes morir!}
+{128}{}{Â¡No tengo tiempo para tus payasadas!}
+{129}{}{Â¡Vaya una idea mÃ¡s intrigante! Â¡Debo probarlo inmediatamente!}
+{130}{}{Eh, Â¿dÃ³nde guardÃ¡is los experimentos fracasados?}
 {131}{}{No lo menciones.}
-{132}{}{¡Sí! ¡Probemos contigo!}
-{133}{}{¡Vincent! ¡Prepara a nuestra próxima voluntaria!}
-{134}{}{¿Qué? ¡Es la cosa más absurda que he oído en mi vida! [Te mira con desconfianza] ¿Quién eres de verdad?}
+{132}{}{Â¡SÃ­! Â¡Probemos contigo!}
+{133}{}{Â¡Vincent! Â¡Prepara a nuestra prÃ³xima voluntaria!}
+{134}{}{Â¿QuÃ©? Â¡Es la cosa mÃ¡s absurda que he oÃ­do en mi vida! [Te mira con desconfianza] Â¿QuiÃ©n eres de verdad?}
 {135}{}{Oh, lo siento. Ahora he de irme.}
-{136}{}{Soy la nueva... eh... chica... He sido enviada para descubrir lo que hacéis.}
+{136}{}{Soy la nueva... eh... chica... He sido enviada para descubrir lo que hacÃ©is.}
 {137}{}{Ya te lo he dicho. He sido enviada por el Maestro para investigaros.}
-{138}{}{He venido para quitarte el bazo... ¡sin anestesia!}
-{139}{}{Vale entonces. ¿Qué tal te va todo?}
-{140}{}{Solo con ver tu forma de comportarte sé todo lo que quería saber. Adiós.}
-{141}{}{¡Ajá! ¡Una intrusa! Tal como sospechaba. ¡Vincent!}
-{142}{}{¿Quién eres tú? Y, ¿por qué vas vestida de esa forma? [A sí mismo] Hace tiempo que no veo uno de esos.}
+{138}{}{He venido para quitarte el bazo... Â¡sin anestesia!}
+{139}{}{Vale entonces. Â¿QuÃ© tal te va todo?}
+{140}{}{Solo con ver tu forma de comportarte sÃ© todo lo que querÃ­a saber. AdiÃ³s.}
+{141}{}{Â¡AjÃ¡! Â¡Una intrusa! Tal como sospechaba. Â¡Vincent!}
+{142}{}{Â¿QuiÃ©n eres tÃº? Y, Â¿por quÃ© vas vestida de esa forma? [A sÃ­ mismo] Hace tiempo que no veo uno de esos.}
 {143}{}{Voy disfrazada. Unos intrusos se han infiltrado en el Santuario del Maestro, y me he vestido como una de ellos para ganarme su confianza.}
-{144}{}{¿Cómo te atreves a dudar de una de las encargadas de las operaciones especiales del Maestro?}
-{145}{}{¿Cuándo has visto un traje como estas antes?}
-{146}{}{Es goma espuma, ¡por lo que resultará fácil eliminar los restos de sangre cuando te haya matado!}
-{147}{}{Oh, ya sabes, cuando tengamos ese último grupo de humanos puros en... Creo que queda todavía uno en el corral. ¿Por qué lo preguntas?}
-{148}{}{Por nada. ¿Qué tal van los experimentos?}
+{144}{}{Â¿CÃ³mo te atreves a dudar de una de las encargadas de las operaciones especiales del Maestro?}
+{145}{}{Â¿CuÃ¡ndo has visto un traje como estas antes?}
+{146}{}{Es goma espuma, Â¡por lo que resultarÃ¡ fÃ¡cil eliminar los restos de sangre cuando te haya matado!}
+{147}{}{Oh, ya sabes, cuando tengamos ese Ãºltimo grupo de humanos puros en... Creo que queda todavÃ­a uno en el corral. Â¿Por quÃ© lo preguntas?}
+{148}{}{Por nada. Â¿QuÃ© tal van los experimentos?}
 {149}{}{Tengo que informar al Maestro. No tengo tiempo para esto.}
-{150}{}{[Sacude la cabeza] Por desgracia, las almas pobres acaban enloqueciendo y deben ser separadas y nulificadas para que no se dañen a sí mismas o a otras.}
-{151}{}{Oh, qué considerado por tu parte...}
-{152}{}{¡Bastardo sin corazón! ¡Creo que desintegraré tu cerebro y lo separaré del resto de tu cuerpo! ¡Muere, bastardo!}
+{150}{}{[Sacude la cabeza] Por desgracia, las almas pobres acaban enloqueciendo y deben ser separadas y nulificadas para que no se daÃ±en a sÃ­ mismas o a otras.}
+{151}{}{Oh, quÃ© considerado por tu parte...}
+{152}{}{Â¡Bastardo sin corazÃ³n! Â¡Creo que desintegrarÃ© tu cerebro y lo separarÃ© del resto de tu cuerpo! Â¡Muere, bastardo!}
 {200}{}{Ves: a Vincent, un guardia Supermutante. Parece aburrido.}
-{201}{}{Estás viendo a un Supermutante que custodia a los científicos. Parece aburrido.}
-{202}{}{¡Intrusos!}
+{201}{}{EstÃ¡s viendo a un Supermutante que custodia a los cientÃ­ficos. Parece aburrido.}
+{202}{}{Â¡Intrusos!}
 {203}{}{Solo observo a los chiflados. No me hables.}
-{204}{}{Déjame tranquilo.}
-{300}{}{Estás viendo a un científico chiflado que duerme.}
+{204}{}{DÃ©jame tranquilo.}
+{300}{}{EstÃ¡s viendo a un cientÃ­fico chiflado que duerme.}
 {301}{}{Zzzzzz}
-{302}{}{¡Eh! ¿Qué? [Abre los ojos] ¡Vincent, saca a esta pagana de nuestras habitaciones!}
-{303}{}{¿Eh? [Bufido]... Zzzzzz...}
+{302}{}{Â¡Eh! Â¿QuÃ©? [Abre los ojos] Â¡Vincent, saca a esta pagana de nuestras habitaciones!}
+{303}{}{Â¿Eh? [Bufido]... Zzzzzz...}
 {400}{}{Ves: a Vincent. Custodia a los locos durmientes.}
-{401}{}{Estás viendo a un guardia Supermutante de pie junto a los cuerpos tendidos.}
-{402}{}{Déjalos en paz y vete. No se puede estar aquí cuando ellos están durmiendo.}
-{403}{}{¡Tú otra vez! ¡Te dije que dejaras en paz a los científicos!}
-{404}{}{Te has quedado más tiempo de lo conveniente.}
+{401}{}{EstÃ¡s viendo a un guardia Supermutante de pie junto a los cuerpos tendidos.}
+{402}{}{DÃ©jalos en paz y vete. No se puede estar aquÃ­ cuando ellos estÃ¡n durmiendo.}
+{403}{}{Â¡TÃº otra vez! Â¡Te dije que dejaras en paz a los cientÃ­ficos!}
+{404}{}{Te has quedado mÃ¡s tiempo de lo conveniente.}

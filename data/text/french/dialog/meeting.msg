@@ -1,1 +1,1 @@
-{100}{}{Tu sais qu'il s'agissait autrefois de la salle de réunion de l'Abri. L'emplacement de l'armoire à pharmacie est enseveli sous des tonnes de pierres.}
+{100}{}{Tu sais qu'il s'agissait autrefois de la salle de rÃ©union de l'Abri. L'emplacement de l'armoire Ã  pharmacie est enseveli sous des tonnes de pierres.}

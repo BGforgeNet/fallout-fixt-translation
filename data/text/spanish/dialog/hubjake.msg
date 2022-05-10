@@ -1,67 +1,67 @@
 {100}{}{Ves: a Jacob, el traficante de armas.}
-{101}{}{¡Hola! Bienvenido al local de Jake. Tengo buena mercancía almacenada. Curiosea por donde quieras.}
-{102}{}{Me gustaría hacer un trato contigo.}
-{103}{}{¿Qué vendes aquí?}
-{104}{}{¿Sabes algo de un Chip de Agua?}
-{105}{}{Háblame de ti.}
-{106}{}{No importa. Adiós.}
+{101}{}{Â¡Hola! Bienvenido al local de Jake. Tengo buena mercancÃ­a almacenada. Curiosea por donde quieras.}
+{102}{}{Me gustarÃ­a hacer un trato contigo.}
+{103}{}{Â¿QuÃ© vendes aquÃ­?}
+{104}{}{Â¿Sabes algo de un Chip de Agua?}
+{105}{}{HÃ¡blame de ti.}
+{106}{}{No importa. AdiÃ³s.}
 {107}{}{Querrer.}
 {108}{}{No querrer.}
-{109}{}{Solo vendo armas de alta tecnología. El mejor material que encontrarás a este lado de la Hermandad y, ya que la Hermandad no trata con extranjeros, tengo que decir que soy el mejor. Tengo un Rifle de Francotirador y debes saber que es difícil encontrar combustible para lanzallamas en el yermo. Oh sí... También tengo un contador Geiger. Son poco comunes.}
-{110}{}{Enséñame lo que tienes.}
-{111}{}{Háblame del rifle de francotirador.}
-{112}{}{¿Para qué quiero yo un contador Geiger?}
-{113}{}{Quizás te vea luego. Adiós.}
-{114}{}{Tío, ¡te encanta el material rarito! ¿Dónde estabas tú cuando hace algunos años me dedicaba a la venta de casquillos de uranio vacíos? Además, no fabrico chips. No hay mercado para eso. ¿Algo más?}
-{115}{}{Enséñame lo que tienes.}
+{109}{}{Solo vendo armas de alta tecnologÃ­a. El mejor material que encontrarÃ¡s a este lado de la Hermandad y, ya que la Hermandad no trata con extranjeros, tengo que decir que soy el mejor. Tengo un Rifle de Francotirador y debes saber que es difÃ­cil encontrar combustible para lanzallamas en el yermo. Oh sÃ­... TambiÃ©n tengo un contador Geiger. Son poco comunes.}
+{110}{}{EnsÃ©Ã±ame lo que tienes.}
+{111}{}{HÃ¡blame del rifle de francotirador.}
+{112}{}{Â¿Para quÃ© quiero yo un contador Geiger?}
+{113}{}{QuizÃ¡s te vea luego. AdiÃ³s.}
+{114}{}{TÃ­o, Â¡te encanta el material rarito! Â¿DÃ³nde estabas tÃº cuando hace algunos aÃ±os me dedicaba a la venta de casquillos de uranio vacÃ­os? AdemÃ¡s, no fabrico chips. No hay mercado para eso. Â¿Algo mÃ¡s?}
+{115}{}{EnsÃ©Ã±ame lo que tienes.}
 {116}{}{Entonces dime lo que realmente tienes.}
-{117}{}{Háblame de ti.}
-{118}{}{Bueno, he estado de aquí para allá. Solía estar en el Sindicato de Trabajadores Atómicos. Algo parecido a la Hermandad, pero menos amistoso. Lo querían todo para ellos y yo... bueno, yo quería ver mundo y ser mi propio jefe, así que me fui.}
+{117}{}{HÃ¡blame de ti.}
+{118}{}{Bueno, he estado de aquÃ­ para allÃ¡. SolÃ­a estar en el Sindicato de Trabajadores AtÃ³micos. Algo parecido a la Hermandad, pero menos amistoso. Lo querÃ­an todo para ellos y yo... bueno, yo querÃ­a ver mundo y ser mi propio jefe, asÃ­ que me fui.}
 {119}{}{Veamos lo que tienes.}
 {120}{}{Dime lo que tienes.}
-{121}{}{¿Sabes algo de un Chip de Agua?}
-{122}{}{Encantado de conocerte, amigo. Ya pasaré más tarde. Adiós.}
-{123}{}{Ahh, la DKS es un arma de largo alcance. Originariamente era un .308, pero le cambiamos la cámara por una .223, más normalita. También calibramos el cañón. Lo más importante, fíjate en el gatillo. ¡Mira que suave! Ahora funciona perfectamente. En resumen, con esta arma puedes cazar cualquier bicho...}
+{121}{}{Â¿Sabes algo de un Chip de Agua?}
+{122}{}{Encantado de conocerte, amigo. Ya pasarÃ© mÃ¡s tarde. AdiÃ³s.}
+{123}{}{Ahh, la DKS es un arma de largo alcance. Originariamente era un .308, pero le cambiamos la cÃ¡mara por una .223, mÃ¡s normalita. TambiÃ©n calibramos el caÃ±Ã³n. Lo mÃ¡s importante, fÃ­jate en el gatillo. Â¡Mira que suave! Ahora funciona perfectamente. En resumen, con esta arma puedes cazar cualquier bicho...}
 {124}{}{Suena bien. Veamos si podemos hacer un trato.}
-{125}{}{¿Para qué quiero yo un contador Geiger?}
-{126}{}{Quizás te vea luego. Adiós.}
-{127}{}{¡Para qué quieres un contador Geiger! ¡Ja, ja! Hace solo 80 años que cayó la bomba, y todavía quedan zonas radiactivas por ahí, mentecato. No puedes verlas, jamás las pudo ver nadie, pero ahí están. Demonios, me apuesto lo que quieras a que tendrías una lectura ahora mismo. Todos los que viven en el yermo tienen un par de rads encima.}
-{128}{}{Enséñame lo que vendes.}
-{129}{}{Háblame sobre la radiación.}
-{130}{}{¿Cómo funciona un contador Geiger?}
-{131}{}{¡¿Mentecato?! ¿Siempre insultas a los clientes? Si piensas que te voy a comprar algo ahora, está bastante equivocado.}
-{132}{}{Bueno, algunos lo llaman el Fantasma de la Muerte, porque eso es lo que es. No puedes verlo, no puedes oírlo e incluso no puedes olerlo. Se desarrolla básicamente dentro de tu sistema. Lo notas cuando ya es demasiado tarde. Cuantos más viajes haces a los Zonas Calientes, más crece y jamás abandona tu sistema. Jamás. Los rads siguen sumándose. Bueno... a no ser que consigas un RadAway.}
+{125}{}{Â¿Para quÃ© quiero yo un contador Geiger?}
+{126}{}{QuizÃ¡s te vea luego. AdiÃ³s.}
+{127}{}{Â¡Para quÃ© quieres un contador Geiger! Â¡Ja, ja! Hace solo 80 aÃ±os que cayÃ³ la bomba, y todavÃ­a quedan zonas radiactivas por ahÃ­, mentecato. No puedes verlas, jamÃ¡s las pudo ver nadie, pero ahÃ­ estÃ¡n. Demonios, me apuesto lo que quieras a que tendrÃ­as una lectura ahora mismo. Todos los que viven en el yermo tienen un par de rads encima.}
+{128}{}{EnsÃ©Ã±ame lo que vendes.}
+{129}{}{HÃ¡blame sobre la radiaciÃ³n.}
+{130}{}{Â¿CÃ³mo funciona un contador Geiger?}
+{131}{}{Â¡Â¿Mentecato?! Â¿Siempre insultas a los clientes? Si piensas que te voy a comprar algo ahora, estÃ¡ bastante equivocado.}
+{132}{}{Bueno, algunos lo llaman el Fantasma de la Muerte, porque eso es lo que es. No puedes verlo, no puedes oÃ­rlo e incluso no puedes olerlo. Se desarrolla bÃ¡sicamente dentro de tu sistema. Lo notas cuando ya es demasiado tarde. Cuantos mÃ¡s viajes haces a los Zonas Calientes, mÃ¡s crece y jamÃ¡s abandona tu sistema. JamÃ¡s. Los rads siguen sumÃ¡ndose. Bueno... a no ser que consigas un RadAway.}
 {133}{}{Veamos si podemos hacer un trato.}
-{134}{}{¿Cómo funciona un contador Geiger?}
-{135}{}{¿Dónde puedo encontrar un RadAway? Nunca he visto uno en las tiendas.}
-{136}{}{Guau. Se nota que has viajado mucho. Parece que ya has estado allí.}
-{137}{}{Gracias por la información. Adiós.}
-{138}{}{De hecho es bastante fácil. Cuando lo utilizas, te dice cuántos rads tienes en el cuerpo. Mientras mantengas la lectura de rads por debajo de 100, estás bien. Si te pasas de 100 estarás en problemas. Lo peor es que no sabrás que has estado chupando radiación hasta que pasen unos días. Pásate de las 1.000 y estás muerto... a no ser que consigas un montón de RadAway.}
+{134}{}{Â¿CÃ³mo funciona un contador Geiger?}
+{135}{}{Â¿DÃ³nde puedo encontrar un RadAway? Nunca he visto uno en las tiendas.}
+{136}{}{Guau. Se nota que has viajado mucho. Parece que ya has estado allÃ­.}
+{137}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{138}{}{De hecho es bastante fÃ¡cil. Cuando lo utilizas, te dice cuÃ¡ntos rads tienes en el cuerpo. Mientras mantengas la lectura de rads por debajo de 100, estÃ¡s bien. Si te pasas de 100 estarÃ¡s en problemas. Lo peor es que no sabrÃ¡s que has estado chupando radiaciÃ³n hasta que pasen unos dÃ­as. PÃ¡sate de las 1.000 y estÃ¡s muerto... a no ser que consigas un montÃ³n de RadAway.}
 {139}{}{Veamos si podemos hacer un trato.}
-{140}{}{¿Qué me puedes decir de las radiaciones?}
-{141}{}{No quiero tener que ver nada con esa mierda tan difícil de vender. Te veo luego.}
+{140}{}{Â¿QuÃ© me puedes decir de las radiaciones?}
+{141}{}{No quiero tener que ver nada con esa mierda tan difÃ­cil de vender. Te veo luego.}
 {142}{}{No importa.}
 {143}{}{}
-{144}{}{Déjame.}
+{144}{}{DÃ©jame.}
 {145}{}{Yo ir.}
-{146}{}{Sí.}
-{147}{}{No. Solo echaba una ojeada por ahí.}
-{148}{}{No quiero problemas. Si quieres hacer negocios, entonces hagámoslos. Si no, vete.}
-{149}{}{Déjame.}
+{146}{}{SÃ­.}
+{147}{}{No. Solo echaba una ojeada por ahÃ­.}
+{148}{}{No quiero problemas. Si quieres hacer negocios, entonces hagÃ¡moslos. Si no, vete.}
+{149}{}{DÃ©jame.}
 {150}{}{Yo ir.}
-{151}{}{Veamos lo qué tienes.}
-{152}{}{Vete al infierno. Voy a donde quiero, ¡y cuando quiero!}
+{151}{}{Veamos lo quÃ© tienes.}
+{152}{}{Vete al infierno. Voy a donde quiero, Â¡y cuando quiero!}
 {153}{}{Me marcho.}
-{154}{}{¡¿Qué demonios estás haciendo aquí?!}
-{155}{}{No llevo ninguno. Y los que me encuentro, me los quedo para mí. Si subes esta calle, encontrarás a un tipo que quizás pueda ayudarte. Se llama Vance. No le hagas muchas preguntas sobre él. Digamos que es su área de competencia. Dile que Jacob te envió, él ya sabe lo que tiene que hacer.}
-{156}{}{¿Cómo funciona un contador Geiger?}
-{157}{}{Gracias por la información. Adiós.}
+{154}{}{Â¡Â¿QuÃ© demonios estÃ¡s haciendo aquÃ­?!}
+{155}{}{No llevo ninguno. Y los que me encuentro, me los quedo para mÃ­. Si subes esta calle, encontrarÃ¡s a un tipo que quizÃ¡s pueda ayudarte. Se llama Vance. No le hagas muchas preguntas sobre Ã©l. Digamos que es su Ã¡rea de competencia. Dile que Jacob te enviÃ³, Ã©l ya sabe lo que tiene que hacer.}
+{156}{}{Â¿CÃ³mo funciona un contador Geiger?}
+{157}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
 {158}{}{Esto es lo que tengo.}
-{159}{}{Adiós.}
+{159}{}{AdiÃ³s.}
 {160}{}{Gracias.}
 {161}{}{Vale.}
-{162}{}{Los mutantes les dieron una paliza hace diez años, por lo que me imagino que tomé la decisión adecuada. Por ahora me he instalado aquí. A la poli no le gusta mi tipo de negocio y por eso me ha dado más de un toque, pero soy mucho más honrado que la mayoría de los mercaderes de aquí.}
-{163}{}{Eh, ¿qué tal te va amiga mía? ¿Buscando algo que comprar?}
-{164}{}{Eh, ¿qué tal te va amiga mía? ¿Buscando algo que comprar?}
-{165}{}{Tu mercancía es buena, pero estoy buscando algo un poco más potente. ¿Tienes idea de a dónde puedo ir?}
-{166}{}{Bueno, puedes probar con los Pistoleros en el Cementerio de LA. Seguramente tienen algo que se ajuste a tus necesidades. Me he enterado de que los tipos de la Hermandad del Acero también tienen material bastante potente, así que puedes probar allí.}
+{162}{}{Los mutantes les dieron una paliza hace diez aÃ±os, por lo que me imagino que tomÃ© la decisiÃ³n adecuada. Por ahora me he instalado aquÃ­. A la poli no le gusta mi tipo de negocio y por eso me ha dado mÃ¡s de un toque, pero soy mucho mÃ¡s honrado que la mayorÃ­a de los mercaderes de aquÃ­.}
+{163}{}{Eh, Â¿quÃ© tal te va amiga mÃ­a? Â¿Buscando algo que comprar?}
+{164}{}{Eh, Â¿quÃ© tal te va amiga mÃ­a? Â¿Buscando algo que comprar?}
+{165}{}{Tu mercancÃ­a es buena, pero estoy buscando algo un poco mÃ¡s potente. Â¿Tienes idea de a dÃ³nde puedo ir?}
+{166}{}{Bueno, puedes probar con los Pistoleros en el Cementerio de LA. Seguramente tienen algo que se ajuste a tus necesidades. Me he enterado de que los tipos de la Hermandad del Acero tambiÃ©n tienen material bastante potente, asÃ­ que puedes probar allÃ­.}

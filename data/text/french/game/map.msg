@@ -68,20 +68,20 @@
 {100}{}{Desert}
 {101}{}{Desert}
 {102}{}{Desert}
-{103}{}{Nécropolis}
-{104}{}{Nécropolis}
-{105}{}{Nécropolis}
+{103}{}{NÃ©cropolis}
+{104}{}{NÃ©cropolis}
+{105}{}{NÃ©cropolis}
 {106}{}{Vault 13}
 {107}{}{Vault 15}
 {108}{}{Vault 15}
 {109}{}{Vault 12}
-{110}{}{Dépôtville}
-{111}{}{Dépôtville}
-{112}{}{Dépôtville}
-{113}{}{Confrérie de l'Acier}
-{114}{}{Confrérie de l'Acier}
-{115}{}{Confrérie de l'Acier}
-{116}{}{Sables Ombragés}
+{110}{}{DÃ©pÃ´tville}
+{111}{}{DÃ©pÃ´tville}
+{112}{}{DÃ©pÃ´tville}
+{113}{}{ConfrÃ©rie de l'Acier}
+{114}{}{ConfrÃ©rie de l'Acier}
+{115}{}{ConfrÃ©rie de l'Acier}
+{116}{}{Sables OmbragÃ©s}
 {117}{}{Cathedral}
 {118}{}{Cathedral}
 {119}{}{City}
@@ -90,8 +90,8 @@
 {122}{}{Desert}
 {123}{}{Desert}
 {124}{}{The Khans}
-{125}{}{Sables Ombragés}
-{126}{}{Sables Ombragés}
+{125}{}{Sables OmbragÃ©s}
+{126}{}{Sables OmbragÃ©s}
 {127}{}{The Glow}
 {128}{}{L.A. Boneyard}
 {129}{}{L.A. Boneyard}
@@ -120,7 +120,7 @@
 {152}{}{Desert}
 {153}{}{Desert}
 {154}{}{Desert}
-{155}{}{Confrérie de l'Acier}
+{155}{}{ConfrÃ©rie de l'Acier}
 {156}{}{Desert}
 {157}{}{Desert}
 {158}{}{Mountains}
@@ -335,12 +335,12 @@
 {400}{}{Irwin's Farm}
 {500}{}{Vault 13}
 {501}{}{Vault 15}
-{502}{}{Sables Ombragés}
-{503}{}{Dépôtville}
+{502}{}{Sables OmbragÃ©s}
+{503}{}{DÃ©pÃ´tville}
 {504}{}{The Khans}
-{505}{}{Nécropolis}
+{505}{}{NÃ©cropolis}
 {506}{}{The Hub}
-{507}{}{Confrérie de l'Acier}
+{507}{}{ConfrÃ©rie de l'Acier}
 {508}{}{Mariposa Military Base}
 {509}{}{The Glow}
 {510}{}{L.A. Boneyard}

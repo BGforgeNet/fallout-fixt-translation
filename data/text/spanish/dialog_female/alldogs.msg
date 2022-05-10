@@ -1,30 +1,30 @@
-{100}{}{Estás viendo a un perro. Parece que te está siguiendo.}
-{101}{}{Estás viendo a un perro.}
-{102}{}{¡Guau!}
-{103}{}{¡Grrr!}
+{100}{}{EstÃ¡s viendo a un perro. Parece que te estÃ¡ siguiendo.}
+{101}{}{EstÃ¡s viendo a un perro.}
+{102}{}{Â¡Guau!}
+{103}{}{Â¡Grrr!}
 {104}{}{Parece que te has hecho amiga de este perro.}
 {105}{}{Ganas 200 puntos de experiencia por hacerte amiga del perro.}
 {106}{}{Ganas 335 puntos de experiencia por derrotar al perro y dejar que Phil vuelva a su casa.}
-{107}{}{Ven aquí, chico.}
+{107}{}{Ven aquÃ­, chico.}
 {108}{}{Ruff. Ruff.}
-{109}{}{Por alguna razón le gustas al perro.}
-{110}{}{Ves: a Albóndiga.}
-{111}{}{¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf!}
-{112}{}{[Snif. Snif.] ¡Grrrr! ¡Grrrr!}
-{113}{}{[Snif. Snif.] ¡Guau!}
+{109}{}{Por alguna razÃ³n le gustas al perro.}
+{110}{}{Ves: a AlbÃ³ndiga.}
+{111}{}{Â¡Arf! Â¡Arf! Â¡Arf! Â¡Arf! Â¡Arf! Â¡Arf! Â¡Arf! Â¡Arf! Â¡Arf!}
+{112}{}{[Snif. Snif.] Â¡Grrrr! Â¡Grrrr!}
+{113}{}{[Snif. Snif.] Â¡Guau!}
 {114}{}{Ganas 100 puntos de experiencia por ayudar a Phil a solucionar su enigma canino.}
-{115}{}{Parece que el perro cree que eres su dueña.}
+{115}{}{Parece que el perro cree que eres su dueÃ±a.}
 {116}{}{Ganas 100 puntos de experiencia por ayudar a Phil a solucionar su enigma canino.}
-{117}{}{¡Guau! ¡Guau! ¡Guau!}
+{117}{}{Â¡Guau! Â¡Guau! Â¡Guau!}
 {118}{}{Venga, Dogmeat. Buen chico.}
-{119}{}{Dogmeat, siéntese! Buen chico. Estaré de vuelta pronto.}
-{120}{}{¡Vámonos, Dogmeat!}
-{121}{}{¡¡¡Cachorrito!!!}
-{122}{}{¿Guau?}
-{123}{}{¿Arf?}
-{124}{}{¡Guau! ¡Guau! ¡Guau!}
-{300}{}{¡¡Perrito!! ¿perrito ser amigo?}
-{301}{}{¡Perrito quedar! no mover.}
-{302}{}{Muévete, Dogmeat. Buen chico.}
+{119}{}{Dogmeat, siÃ©ntese! Buen chico. EstarÃ© de vuelta pronto.}
+{120}{}{Â¡VÃ¡monos, Dogmeat!}
+{121}{}{Â¡Â¡Â¡Cachorrito!!!}
+{122}{}{Â¿Guau?}
+{123}{}{Â¿Arf?}
+{124}{}{Â¡Guau! Â¡Guau! Â¡Guau!}
+{300}{}{Â¡Â¡Perrito!! Â¿perrito ser amigo?}
+{301}{}{Â¡Perrito quedar! no mover.}
+{302}{}{MuÃ©vete, Dogmeat. Buen chico.}
 {303}{}{}
 {304}{}{Buen perrito.}

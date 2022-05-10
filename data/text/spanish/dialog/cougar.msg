@@ -1,12 +1,12 @@
-{100}{}{Ves: a Cougar, el ayudante de Doc Mórbid.}
-{101}{}{¿Qué tal te va?}
-{102}{}{Bien, ¿y a ti?}
+{100}{}{Ves: a Cougar, el ayudante de Doc MÃ³rbid.}
+{101}{}{Â¿QuÃ© tal te va?}
+{102}{}{Bien, Â¿y a ti?}
 {103}{}{Necesito ver al doctor.}
 {104}{}{Ung.}
-{105}{}{Cougar siempre está bien.}
+{105}{}{Cougar siempre estÃ¡ bien.}
 {106}{}{Eh, tengo que saber...}
-{107}{}{Tienes que hablar con mi hombre, Flash, justo aquí. Él puede ayudarte.}
-{108}{}{¡Eh! No hables tan deprisa, colega. Le das a Cougar dolor de cabeza. Mejor habla con Flash.}
-{109}{}{Eres tú otra vez. Cougar no tiene nada más que decirte.}
-{110}{}{¡Cougar te está observando, colega!}
-{111}{}{Buen equipo, ¿lo saqueaste tú?}
+{107}{}{Tienes que hablar con mi hombre, Flash, justo aquÃ­. Ã‰l puede ayudarte.}
+{108}{}{Â¡Eh! No hables tan deprisa, colega. Le das a Cougar dolor de cabeza. Mejor habla con Flash.}
+{109}{}{Eres tÃº otra vez. Cougar no tiene nada mÃ¡s que decirte.}
+{110}{}{Â¡Cougar te estÃ¡ observando, colega!}
+{111}{}{Buen equipo, Â¿lo saqueaste tÃº?}

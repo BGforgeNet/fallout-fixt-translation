@@ -1,15 +1,15 @@
-{100}{}{Ves: a Lex, cabecilla del clan de saqueadores, Víboras.}
-{101}{}{Estás viendo a un tío enorme con mala actitud, te mira fijamente.}
-{102}{}{[...te despiertas con rapidez y miras a tu alrededor. Estás en un lugar desconocido, ves tres tiendas y unas cuantas personas a su alrededor. Parece que te las arreglaste para mantenerte consciente antes de que te limpiasen los bolsillos. Tus ojos se fijan en el hombre que está ante ti] Oh, nuestro desafortunado comprador ha despertado.}
-{103}{}{[Más]}
-{104}{}{¿Qué será? Nos puedes dar todas tus chapas y te dejaremos ir. O podemos jugar a los vaqueros.}
-{105}{}{¿Y que garantiza que saldré con vida esta si te doy el dinero?}
+{100}{}{Ves: a Lex, cabecilla del clan de saqueadores, VÃ­boras.}
+{101}{}{EstÃ¡s viendo a un tÃ­o enorme con mala actitud, te mira fijamente.}
+{102}{}{[...te despiertas con rapidez y miras a tu alrededor. EstÃ¡s en un lugar desconocido, ves tres tiendas y unas cuantas personas a su alrededor. Parece que te las arreglaste para mantenerte consciente antes de que te limpiasen los bolsillos. Tus ojos se fijan en el hombre que estÃ¡ ante ti] Oh, nuestro desafortunado comprador ha despertado.}
+{103}{}{[MÃ¡s]}
+{104}{}{Â¿QuÃ© serÃ¡? Nos puedes dar todas tus chapas y te dejaremos ir. O podemos jugar a los vaqueros.}
+{105}{}{Â¿Y que garantiza que saldrÃ© con vida esta si te doy el dinero?}
 {106}{}{Siempre me han gustado los westerns.}
 {107}{}{Vaqueros.}
-{108}{}{¡La palabra del saqueador!}
-{109}{}{Creo que puedo confiar en ti. Aquí tienes, cógelo. [Le das tus ahorros]}
-{110}{}{Esas palabras no significan nada para mí.}
-{111}{}{¿Así que tenemos un terco? Creo que lo prefiero así. Creo que lo chicos se van a divertir contigo.}
-{112}{}{¡Si no confías en las palabras, entonces tendrás que hacerlo en las armas! ¡Un cobarde como tú no es rival para todo el grupo!}
-{113}{}{Que así sea entonces, prefiero matarte. Para asegurarme de que se acabe el parloteo. Hasta nunca.}
-{114}{}{Buen chico. Una sabia decisión. Puedes irte.}
+{108}{}{Â¡La palabra del saqueador!}
+{109}{}{Creo que puedo confiar en ti. AquÃ­ tienes, cÃ³gelo. [Le das tus ahorros]}
+{110}{}{Esas palabras no significan nada para mÃ­.}
+{111}{}{Â¿AsÃ­ que tenemos un terco? Creo que lo prefiero asÃ­. Creo que lo chicos se van a divertir contigo.}
+{112}{}{Â¡Si no confÃ­as en las palabras, entonces tendrÃ¡s que hacerlo en las armas! Â¡Un cobarde como tÃº no es rival para todo el grupo!}
+{113}{}{Que asÃ­ sea entonces, prefiero matarte. Para asegurarme de que se acabe el parloteo. Hasta nunca.}
+{114}{}{Buen chico. Una sabia decisiÃ³n. Puedes irte.}

@@ -1,115 +1,115 @@
 {100}{}{Ves: a Thorndyke.}
-{101}{}{No malgasto mi destreza curando a mis enemigos. Salga de aquí.}
-{102}{}{He oído hablar de usted. Es un asesino desalmado. No curaré a alguien que ha hecho daño a tanta gente. Váyase.}
-{103}{}{Señor, soy un curandero. No necesita mis servicios.}
-{104}{}{Señor, soy un curandero. No necesita mis servicios.}
-{105}{}{Háblame de tu trabajo.}
-{106}{}{¿De qué va este sitio?}
-{107}{}{¿Cuánto cobras por tus servicios?}
-{108}{}{A lo mejor más tarde...}
-{109}{}{Sabes, puedo proporcionarte clientes. ¡Soy increíble haciendo daño a la gente!}
-{110}{}{¿Eh?}
-{111}{}{Señor, ya tiene tus medicinas. No me atrevo a administrarle una segunda dosis.}
-{112}{}{Señor, ya tiene sus medicinas. No me atrevo a administrarle una segunda dosis.}
-{113}{}{Háblame de tu trabajo.}
-{114}{}{¿De qué va este sitio?}
-{115}{}{Ese medicamento es poca cosa. ¿No debería buscar algo más fuerte?}
+{101}{}{No malgasto mi destreza curando a mis enemigos. Salga de aquÃ­.}
+{102}{}{He oÃ­do hablar de usted. Es un asesino desalmado. No curarÃ© a alguien que ha hecho daÃ±o a tanta gente. VÃ¡yase.}
+{103}{}{SeÃ±or, soy un curandero. No necesita mis servicios.}
+{104}{}{SeÃ±or, soy un curandero. No necesita mis servicios.}
+{105}{}{HÃ¡blame de tu trabajo.}
+{106}{}{Â¿De quÃ© va este sitio?}
+{107}{}{Â¿CuÃ¡nto cobras por tus servicios?}
+{108}{}{A lo mejor mÃ¡s tarde...}
+{109}{}{Sabes, puedo proporcionarte clientes. Â¡Soy increÃ­ble haciendo daÃ±o a la gente!}
+{110}{}{Â¿Eh?}
+{111}{}{SeÃ±or, ya tiene tus medicinas. No me atrevo a administrarle una segunda dosis.}
+{112}{}{SeÃ±or, ya tiene sus medicinas. No me atrevo a administrarle una segunda dosis.}
+{113}{}{HÃ¡blame de tu trabajo.}
+{114}{}{Â¿De quÃ© va este sitio?}
+{115}{}{Ese medicamento es poca cosa. Â¿No deberÃ­a buscar algo mÃ¡s fuerte?}
 {116}{}{Siento molestarte, Doc.}
-{117}{}{Sabes, puedo proporcionarte clientes. ¡Soy increíble haciendo daño a la gente!}
-{118}{}{¿Eh?}
-{119}{}{Señor, está herido. Si quiere puedo hacer algo. Soy un curandero.}
-{120}{}{Señor, está herido. Si quiere puedo hacer algo. Soy un curandero.}
-{121}{}{Háblame de tu trabajo.}
-{122}{}{¿De qué va este sitio?}
-{123}{}{¿Cuánto?}
+{117}{}{Sabes, puedo proporcionarte clientes. Â¡Soy increÃ­ble haciendo daÃ±o a la gente!}
+{118}{}{Â¿Eh?}
+{119}{}{SeÃ±or, estÃ¡ herido. Si quiere puedo hacer algo. Soy un curandero.}
+{120}{}{SeÃ±or, estÃ¡ herido. Si quiere puedo hacer algo. Soy un curandero.}
+{121}{}{HÃ¡blame de tu trabajo.}
+{122}{}{Â¿De quÃ© va este sitio?}
+{123}{}{Â¿CuÃ¡nto?}
 {124}{}{Adelante.}
 {125}{}{No, gracias.}
-{126}{}{¡Odio a los médicos!}
-{127}{}{¡Oooo! ¡Auuuuu!}
-{128}{}{¡¡¡Rarrrr!!!}
-{129}{}{Señor, está gravemente herido. Debería permitir que le tratase. Soy un curandero.}
-{130}{}{Señor, está gravemente herido. Debería permitir que le tratase. Soy un curandero.}
-{131}{}{Háblame de tu trabajo.}
-{132}{}{¿De qué va este sitio?}
-{133}{}{¿Cuánto?}
+{126}{}{Â¡Odio a los mÃ©dicos!}
+{127}{}{Â¡Oooo! Â¡Auuuuu!}
+{128}{}{Â¡Â¡Â¡Rarrrr!!!}
+{129}{}{SeÃ±or, estÃ¡ gravemente herido. DeberÃ­a permitir que le tratase. Soy un curandero.}
+{130}{}{SeÃ±or, estÃ¡ gravemente herido. DeberÃ­a permitir que le tratase. Soy un curandero.}
+{131}{}{HÃ¡blame de tu trabajo.}
+{132}{}{Â¿De quÃ© va este sitio?}
+{133}{}{Â¿CuÃ¡nto?}
 {134}{}{No, gracias.}
-{135}{}{¡Odio a los médicos!}
-{136}{}{¡Oooo! ¡Auuuuu!}
-{137}{}{¡¡¡Rarrrr!!!}
-{138}{}{La Llama Sagrada me encomienda sanar a la gente. Su sabiduría es inmensa, por lo cual obedezco. Ya he aprendido mucho del mundo que hay más allá de la Catedral.}
-{139}{}{Háblame de la Catedral.}
-{140}{}{¿Qué has aprendido?}
-{141}{}{¿De qué va este sitio?}
+{135}{}{Â¡Odio a los mÃ©dicos!}
+{136}{}{Â¡Oooo! Â¡Auuuuu!}
+{137}{}{Â¡Â¡Â¡Rarrrr!!!}
+{138}{}{La Llama Sagrada me encomienda sanar a la gente. Su sabidurÃ­a es inmensa, por lo cual obedezco. Ya he aprendido mucho del mundo que hay mÃ¡s allÃ¡ de la Catedral.}
+{139}{}{HÃ¡blame de la Catedral.}
+{140}{}{Â¿QuÃ© has aprendido?}
+{141}{}{Â¿De quÃ© va este sitio?}
 {142}{}{Siento molestarte, Doc.}
-{143}{}{¡Debe de ser toda una llama!}
-{144}{}{Señor, perdóneme, pero no tengo la paciencia suficiente para mantener conversaciones largas. Otras personas podrían informarle mejor. Por favor, discúlpeme.}
-{145}{}{Señor, perdóneme, pero no tengo la paciencia suficiente para mantener conversaciones largas. Otras personas podrían informarle mejor. Por favor, discúlpeme.}
-{146}{}{Para mí, señor, es el lugar donde practicar el don de la curación. Para otros, es el lugar donde las almas descarriadas encuentran una senda productiva. Perdóneme, pero no tengo la paciencia necesaria para mantener conversaciones largas. Otros podrían informarle mejor. Por favor, discúlpeme.}
-{147}{}{Para mí, señor, es el lugar donde practicar el don de la curación. Para otros, es el lugar donde las almas descarriadas encuentran una senda productiva. Perdóneme, pero no tengo paciencia para mantener conversaciones largas. Hay otras personas que podrían informarla mejor. Por favor, discúlpeme.}
-{148}{}{Algunos sabios entre los antiguos creían que la virtud era su propia recompensa. Yo también lo creo. Si más gente compartiese esta opinión, no sería necesaria la Llama Sagrada... Perdóneme, pero no tengo paciencia para mantener conversaciones largas. Otros podrían informarle mejor. Por favor, discúlpeme.}
-{149}{}{Vaya con Dios. Si me necesita, aquí estaré. Aunque espero que nunca necesite venir a verme.}
-{150}{}{Le estoy haciendo un favor. No espero nada a cambio. Yo que usted no me jactaría demasiado de este tipo de talento. Ahora, por favor, discúlpeme.}
-{151}{}{Lo siento mucho pero sus heridas están más allá de mi habilidad curativa. Dicen que la Llama Sagrada puede guiar a aquellos marcados por la estupidez y redimirles; rezaré por usted.}
-{152}{}{Tiene heridas de gravedad. Olvide las charlas para más tarde... por favor, deje que le cure...}
-{153}{}{¿No tiene mucho tacto con los enfermos, verdad Doc?}
-{154}{}{Es muy importante para mí saberlo.}
-{155}{}{¿Cuánto cobras?}
+{143}{}{Â¡Debe de ser toda una llama!}
+{144}{}{SeÃ±or, perdÃ³neme, pero no tengo la paciencia suficiente para mantener conversaciones largas. Otras personas podrÃ­an informarle mejor. Por favor, discÃºlpeme.}
+{145}{}{SeÃ±or, perdÃ³neme, pero no tengo la paciencia suficiente para mantener conversaciones largas. Otras personas podrÃ­an informarle mejor. Por favor, discÃºlpeme.}
+{146}{}{Para mÃ­, seÃ±or, es el lugar donde practicar el don de la curaciÃ³n. Para otros, es el lugar donde las almas descarriadas encuentran una senda productiva. PerdÃ³neme, pero no tengo la paciencia necesaria para mantener conversaciones largas. Otros podrÃ­an informarle mejor. Por favor, discÃºlpeme.}
+{147}{}{Para mÃ­, seÃ±or, es el lugar donde practicar el don de la curaciÃ³n. Para otros, es el lugar donde las almas descarriadas encuentran una senda productiva. PerdÃ³neme, pero no tengo paciencia para mantener conversaciones largas. Hay otras personas que podrÃ­an informarla mejor. Por favor, discÃºlpeme.}
+{148}{}{Algunos sabios entre los antiguos creÃ­an que la virtud era su propia recompensa. Yo tambiÃ©n lo creo. Si mÃ¡s gente compartiese esta opiniÃ³n, no serÃ­a necesaria la Llama Sagrada... PerdÃ³neme, pero no tengo paciencia para mantener conversaciones largas. Otros podrÃ­an informarle mejor. Por favor, discÃºlpeme.}
+{149}{}{Vaya con Dios. Si me necesita, aquÃ­ estarÃ©. Aunque espero que nunca necesite venir a verme.}
+{150}{}{Le estoy haciendo un favor. No espero nada a cambio. Yo que usted no me jactarÃ­a demasiado de este tipo de talento. Ahora, por favor, discÃºlpeme.}
+{151}{}{Lo siento mucho pero sus heridas estÃ¡n mÃ¡s allÃ¡ de mi habilidad curativa. Dicen que la Llama Sagrada puede guiar a aquellos marcados por la estupidez y redimirles; rezarÃ© por usted.}
+{152}{}{Tiene heridas de gravedad. Olvide las charlas para mÃ¡s tarde... por favor, deje que le cure...}
+{153}{}{Â¿No tiene mucho tacto con los enfermos, verdad Doc?}
+{154}{}{Es muy importante para mÃ­ saberlo.}
+{155}{}{Â¿CuÃ¡nto cobras?}
 {156}{}{Adelante.}
 {157}{}{No, gracias.}
-{158}{}{¡Odio a los médicos!}
-{159}{}{Soy un curandero, no un prestamista. La Catedral vela por mí, y yo velo por los demás. Ahora veamos esa herida, ¿eh?}
+{158}{}{Â¡Odio a los mÃ©dicos!}
+{159}{}{Soy un curandero, no un prestamista. La Catedral vela por mÃ­, y yo velo por los demÃ¡s. Ahora veamos esa herida, Â¿eh?}
 {160}{}{Adelante.}
 {161}{}{Muy bien.}
-{162}{}{Olvídalo. Si fueses más cotorra estarías en una jaula.}
-{163}{}{¡Odio a los médicos!}
-{164}{}{Le recomiendo que pase un par de días en cama, aunque nadie me hace caso nunca. Ahora, salga de aquí.}
-{165}{}{Usted elige. Ya sabe dónde encontrarme si cambia de idea.}
-{166}{}{[Sonríe.] Gente horrible. Estoy totalmente de acuerdo. [Su sonrisa desaparece] Ya sabe dónde encontrarme si cambia de idea. Acepto sus disculpas.}
-{167}{}{Tomaré eso como un sí. Por favor, no me mate...}
-{168}{}{¡¡AUUUU!! [¡GRUÑIDO!]}
-{169}{}{Pobre criatura. Una bestia tan tonta sería un reto incluso para los poderes curativos de la Llama Sagrada. Váyase de aquí...}
-{170}{}{Tomaré eso como un "no". Está excus... uh... Ahora fuera. ¡Fuera!}
-{171}{}{Está muy al sur, es un lugar muy hermoso, aunque un poco abarrotado estos días. Los devotos nos reunimos para alabar a nuestro señor, la Llama Sagrada, y rezar por la paz y la Unidad. Si eso es todo...}
-{172}{}{Háblame de la paz y la Unidad...}
-{173}{}{¿Dónde está ese sitio exactamente?}
-{174}{}{¿Por qué está abarrotado?}
-{175}{}{¡Odio a los médicos!}
-{176}{}{He aprendido que somos una especie despreciable, violenta y estúpida que no se merece la Llama Sagrada. He visto avaricia y maldad por todas partes. Y a menos que hagamos algo drástico, arderemos de nuevo en la Llama Sagrada...}
-{177}{}{Sigue hablándome de la Llama Sagrada...}
-{178}{}{¡Tu religión es la caña, colega!}
-{179}{}{¿Cuántas religiones le prometen a la gente que arderá?}
-{180}{}{Define "drástico".}
-{181}{}{¡Odio a los médicos!}
-{182}{}{Desde luego, pero otros aquí pueden cantar sus glorias mucho más elocuentemente que yo. Adiós.}
-{183}{}{¡Me está desconcentrando! ¿Desea que le cure o no?}
-{184}{}{¿Qué te está mosqueando tanto?}
-{185}{}{¡Me parece que no te has sabido concentrar en tu vida!}
+{162}{}{OlvÃ­dalo. Si fueses mÃ¡s cotorra estarÃ­as en una jaula.}
+{163}{}{Â¡Odio a los mÃ©dicos!}
+{164}{}{Le recomiendo que pase un par de dÃ­as en cama, aunque nadie me hace caso nunca. Ahora, salga de aquÃ­.}
+{165}{}{Usted elige. Ya sabe dÃ³nde encontrarme si cambia de idea.}
+{166}{}{[SonrÃ­e.] Gente horrible. Estoy totalmente de acuerdo. [Su sonrisa desaparece] Ya sabe dÃ³nde encontrarme si cambia de idea. Acepto sus disculpas.}
+{167}{}{TomarÃ© eso como un sÃ­. Por favor, no me mate...}
+{168}{}{Â¡Â¡AUUUU!! [Â¡GRUÃ‘IDO!]}
+{169}{}{Pobre criatura. Una bestia tan tonta serÃ­a un reto incluso para los poderes curativos de la Llama Sagrada. VÃ¡yase de aquÃ­...}
+{170}{}{TomarÃ© eso como un "no". EstÃ¡ excus... uh... Ahora fuera. Â¡Fuera!}
+{171}{}{EstÃ¡ muy al sur, es un lugar muy hermoso, aunque un poco abarrotado estos dÃ­as. Los devotos nos reunimos para alabar a nuestro seÃ±or, la Llama Sagrada, y rezar por la paz y la Unidad. Si eso es todo...}
+{172}{}{HÃ¡blame de la paz y la Unidad...}
+{173}{}{Â¿DÃ³nde estÃ¡ ese sitio exactamente?}
+{174}{}{Â¿Por quÃ© estÃ¡ abarrotado?}
+{175}{}{Â¡Odio a los mÃ©dicos!}
+{176}{}{He aprendido que somos una especie despreciable, violenta y estÃºpida que no se merece la Llama Sagrada. He visto avaricia y maldad por todas partes. Y a menos que hagamos algo drÃ¡stico, arderemos de nuevo en la Llama Sagrada...}
+{177}{}{Sigue hablÃ¡ndome de la Llama Sagrada...}
+{178}{}{Â¡Tu religiÃ³n es la caÃ±a, colega!}
+{179}{}{Â¿CuÃ¡ntas religiones le prometen a la gente que arderÃ¡?}
+{180}{}{Define "drÃ¡stico".}
+{181}{}{Â¡Odio a los mÃ©dicos!}
+{182}{}{Desde luego, pero otros aquÃ­ pueden cantar sus glorias mucho mÃ¡s elocuentemente que yo. AdiÃ³s.}
+{183}{}{Â¡Me estÃ¡ desconcentrando! Â¿Desea que le cure o no?}
+{184}{}{Â¿QuÃ© te estÃ¡ mosqueando tanto?}
+{185}{}{Â¡Me parece que no te has sabido concentrar en tu vida!}
 {186}{}{Adelante.}
 {187}{}{No, gracias.}
-{188}{}{¡Odio a los médicos!}
-{189}{}{La guerra y los tiempos difíciles han forjado siempre la paz y la unidad. Pero desafortunadamente, mis dones serán necesitados en los próximos días.}
-{190}{}{Háblame de la guerra.}
-{191}{}{¿Merece la pena pagar ese precio por la Unidad?}
-{192}{}{¿Por qué cree todo el mundo que la guerra es la respuesta para llegar a la paz?}
-{193}{}{Vamos a ver. Eres adepto de una religión que planea la muerte y destrucción... ¿y no te importa un carajo? ¡Eres un idiota!}
-{194}{}{El viejo mundo era vil y decadente. La Llama Sagrada lo destruyó. Podemos temer a la Llama Sagrada, o adorarla e intentar comprenderla. Los Niños han escogido la comprensión. Aunque no deseamos ver como la Llama Sagrada se desata de nuevo.}
-{195}{}{¿Cómo sabes cómo era el viejo mundo?}
-{196}{}{¿Alabar? ¿La Bomba? ¿Qué hay de bueno en una bomba?}
-{197}{}{Si la Llama Sagrada es tan poderosa como lo dices, ¿por qué no quieren contemplarla todo el rato?}
-{198}{}{Vamos a ver. Para poder comprender algo, ¿tiene que adorarlo?}
-{199}{}{¡Estáis pirados!}
-{200}{}{Cuando le pido a alguien que haga algo, no suele ignorarme. Si decide ignorar mis deseos, yo puedo decidir ignorar sus heridas. Adiós.}
-{201}{}{¿Quién se cree que es? ¡Fuera de mi vista, bestia salvaje!}
-{202}{}{Ya me ha sacado suficiente información por hoy. Adiós, señor.}
-{203}{}{Ya me ha sacado suficiente información por hoy. Adiós, señor.}
-{204}{}{La Llama Sagrada es una metáfora que representa la muerte del viejo mundo y el nacimiento del nuevo. Simboliza el poder de vida y de muerte. ¿Qué merece más adoración que eso?}
-{205}{}{¡Mi pistola tiene también el poder de la vida y la muerte, pero no la adora ningún culto de chiflados!}
-{206}{}{Quizás tengas razón. Pensaré en ello.}
-{207}{}{Uh, bueno, está la comida, el sexo, y una pistola bien grande... ¡Sé de muchas cosas que preferiría adorar!}
-{208}{}{¿No sales mucho, verdad?}
+{188}{}{Â¡Odio a los mÃ©dicos!}
+{189}{}{La guerra y los tiempos difÃ­ciles han forjado siempre la paz y la unidad. Pero desafortunadamente, mis dones serÃ¡n necesitados en los prÃ³ximos dÃ­as.}
+{190}{}{HÃ¡blame de la guerra.}
+{191}{}{Â¿Merece la pena pagar ese precio por la Unidad?}
+{192}{}{Â¿Por quÃ© cree todo el mundo que la guerra es la respuesta para llegar a la paz?}
+{193}{}{Vamos a ver. Eres adepto de una religiÃ³n que planea la muerte y destrucciÃ³n... Â¿y no te importa un carajo? Â¡Eres un idiota!}
+{194}{}{El viejo mundo era vil y decadente. La Llama Sagrada lo destruyÃ³. Podemos temer a la Llama Sagrada, o adorarla e intentar comprenderla. Los NiÃ±os han escogido la comprensiÃ³n. Aunque no deseamos ver como la Llama Sagrada se desata de nuevo.}
+{195}{}{Â¿CÃ³mo sabes cÃ³mo era el viejo mundo?}
+{196}{}{Â¿Alabar? Â¿La Bomba? Â¿QuÃ© hay de bueno en una bomba?}
+{197}{}{Si la Llama Sagrada es tan poderosa como lo dices, Â¿por quÃ© no quieren contemplarla todo el rato?}
+{198}{}{Vamos a ver. Para poder comprender algo, Â¿tiene que adorarlo?}
+{199}{}{Â¡EstÃ¡is pirados!}
+{200}{}{Cuando le pido a alguien que haga algo, no suele ignorarme. Si decide ignorar mis deseos, yo puedo decidir ignorar sus heridas. AdiÃ³s.}
+{201}{}{Â¿QuiÃ©n se cree que es? Â¡Fuera de mi vista, bestia salvaje!}
+{202}{}{Ya me ha sacado suficiente informaciÃ³n por hoy. AdiÃ³s, seÃ±or.}
+{203}{}{Ya me ha sacado suficiente informaciÃ³n por hoy. AdiÃ³s, seÃ±or.}
+{204}{}{La Llama Sagrada es una metÃ¡fora que representa la muerte del viejo mundo y el nacimiento del nuevo. Simboliza el poder de vida y de muerte. Â¿QuÃ© merece mÃ¡s adoraciÃ³n que eso?}
+{205}{}{Â¡Mi pistola tiene tambiÃ©n el poder de la vida y la muerte, pero no la adora ningÃºn culto de chiflados!}
+{206}{}{QuizÃ¡s tengas razÃ³n. PensarÃ© en ello.}
+{207}{}{Uh, bueno, estÃ¡ la comida, el sexo, y una pistola bien grande... Â¡SÃ© de muchas cosas que preferirÃ­a adorar!}
+{208}{}{Â¿No sales mucho, verdad?}
 {209}{}{No resultas muy persuasivo, Doc.}
-{210}{}{Este debate me aburre. Por favor, déjeme.}
-{211}{}{Todavía recuerdo sus insultos, señor. Se puede pudrir en el Ardor antes de que hable con usted.}
-{212}{}{Todavía recuerdo sus insultos, señor. Se puede pudrir en el Ardor antes de que hable con usted.}
-{213}{}{La Madre Jain no quiere que nadie hable con usted. Adiós.}
-{214}{}{Idiota. ¿No ve que necesita descansar?}
+{210}{}{Este debate me aburre. Por favor, dÃ©jeme.}
+{211}{}{TodavÃ­a recuerdo sus insultos, seÃ±or. Se puede pudrir en el Ardor antes de que hable con usted.}
+{212}{}{TodavÃ­a recuerdo sus insultos, seÃ±or. Se puede pudrir en el Ardor antes de que hable con usted.}
+{213}{}{La Madre Jain no quiere que nadie hable con usted. AdiÃ³s.}
+{214}{}{Idiota. Â¿No ve que necesita descansar?}

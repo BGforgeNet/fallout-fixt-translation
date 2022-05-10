@@ -1,7 +1,7 @@
 {100}{}{Sufres }
-{101}{}{ puntos de daño por las radiaciones.}
+{101}{}{ puntos de daÃ±o por las radiaciones.}
 {102}{}{Sufres }
-{103}{}{ puntos de daño por las radiaciones.}
-{104}{}{Cerca hay una alta concentración radioactiva.}
+{103}{}{ puntos de daÃ±o por las radiaciones.}
+{104}{}{Cerca hay una alta concentraciÃ³n radioactiva.}
 {105}{}{Sufres }
-{106}{}{ puntos de daño por las radiaciones.}
+{106}{}{ puntos de daÃ±o por las radiaciones.}

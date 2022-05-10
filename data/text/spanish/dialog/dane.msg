@@ -1,124 +1,124 @@
-{100}{}{Estás viendo a un hombre grande y fuerte.}
-{101}{}{¿No acabamos de conocernos? ¿Vienes a matarme?}
-{102}{}{Se supone que los padres no achuchan a sus hijos pero, ¡te quiero padre!}
-{103}{}{¿Era en eso en lo que supuestamente tenía que convertirme?}
+{100}{}{EstÃ¡s viendo a un hombre grande y fuerte.}
+{101}{}{Â¿No acabamos de conocernos? Â¿Vienes a matarme?}
+{102}{}{Se supone que los padres no achuchan a sus hijos pero, Â¡te quiero padre!}
+{103}{}{Â¿Era en eso en lo que supuestamente tenÃ­a que convertirme?}
 {104}{}{No hay nadie como Dane...}
-{105}{}{¿Cuál es tu color favorito? ¡El mío es el blanco leche!}
-{106}{}{Eres un idiota, Dane. ¡Pronto van a matarte y te lo mereces! ¡Debilucho! ¡Debilucho!}
-{107}{}{Madre, ¿crees que tiraron una bomba?}
-{108}{}{Lo hicieron con elegancia, ¡sin perder comba!}
-{109}{}{Me llamo Dane, ¡no Tomba!}
-{110}{}{Tu poesía es una mierda. ¡Una mierda! ¡Mierda! ¡Mierda!}
-{111}{}{¡Me gusta el Sr. Mañoso! Me encantaría hacer el amor con sus pequeñas manos...}
-{112}{}{Estoy loco. Me he vuelto loco. Oh, Dios mío, ¡me he vuelto completamente loco! ¡Piensa en la paz! ¡Piensa en la Unidad!}
-{113}{}{¡Quiero un caballo! ¡Mi reino por un caballo! Tráeme un caballo, ¡demonios! ¡Un caballo!}
-{114}{}{¡Incluso ahora nos están vigilando! ¡El señor Nocturno! ¡Félix y Timothy! ¡Perros! ¡Gatos! ¡Los Nocturnos!}
-{115}{}{¡Cállate! ¡Creerán que eres un maldito cencerro! ¡Tienes que aclarar tus ideas!}
-{116}{}{¡Fustigador! ¡Tienes que matar a Fustigador! ¡Salva al bebé! Pobre niño de las Flores. Pobre de mí.}
-{117}{}{¡Cállate, hijo de perra! ¡Lárgate de aquí!}
-{118}{}{[Desvariando] ¡Antes estaba perdido y ahora veo! ¡Ya no me quiero bautizar más!}
-{119}{}{¿Sabes?, una vez escuché por casualidad a Morfeo amenazando con el puño a los Nocturnos. ¿O es que lo olí?}
-{120}{}{Estáis locos si lloráis por mí. A rey muerto, rey puesto.}
-{121}{}{¿Sabe alguien cómo arreglar una tostadora?}
-{122}{}{Por supuesto que sí, ¡idiota! Es tu cabeza lo que no pueden arreglar, ¡hijoputa!}
-{123}{}{Son las armas, ¡capullo! ¡La pólvora es inteligente y malévola y controla tu cerebro! ¡Cuanto más cerca estés de la pólvora, más loco te vuelves! ¡BOOM! ¡BOOM! ¡BOOM!}
-{124}{}{... ¡¡¡Yo solo quiero acabar con el mundoooooooooooo!!!}
-{125}{}{¿Qué quieres? Solía ser muy bueno... hasta que los Nocturnos me derrotaron. Aunque me lleve a dos por delante. ¡Los Nocturnos son fuertes!}
-{126}{}{¡Son mutantes, loco! ¡Por supuesto que son fuertes!}
-{127}{}{También lo son los pingüinos. Y el giro búfalo. Los disparan con armas de caza mayor. Tienes que vigilar a las mujeres de los búfalos. Te soltarán un bisonte cuando menos te lo esperes, ¡y no sabrás qué te golpeó! ¡Ja!}
-{128}{}{¿No te conozco de algún sitio? ¿También te duele el cerebro?}
-{129}{}{Por supuesto que lo conoces, Dane, ¡idiota! ¡Es nuestro enemigo! ¡Debe ser destruido!}
-{130}{}{No le hagas caso, es un necio. Te quiero. ¿Tú me quieres?}
-{131}{}{Solía vivir en Penticton, en la Columbia Británica. O quizás lo haya visto en un mapa antiguo. Esos sí que fueron buenos tiempos. Ojalá hubiese vivido entonces...}
-{132}{}{¿No estás cansado de hablar conmigo? ¿No ha sido increíblemente aburrido?}
-{133}{}{¿No estás cansado de hablar contigo mismo, bastardo esquizofrénico?}
-{134}{}{Me odio. Quiero morirme, pero contáis conmigo. ¡Contáis conmigo para decir algo que haga que esta mierda merezca la pena! ¡Algo importante!}
-{135}{}{¿Por qué no puedo ser yo importante por una vez?}
-{136}{}{¡MUUUUUU! ¡MUUUUUUU! ¡MUUUUUUUUU! ¡MUUUUUUU!}
-{137}{}{¡MUUUUUU! ¡MUUUUUUU! ¡MUUUUUUUUU! ¡MUUUUUUU!}
-{138}{}{Estoy aburrido. Y lo que es peor. Estoy fastidiado. Ya no es divertido. ¿No has sentido alguna vez que no eres nada y que no le importas a nadie? ¡Estoy hecho una mierda!}
-{139}{}{¡MUUUUUU! ¡MUUUUUUU! ¡MUUUUUUUUU! ¡MUUUUUUU!}
-{140}{}{¡Ya vale de hacer el brahmin! ¡Estás empezando a oler a vaca! ¡Ahora todo el mundo empezará a vomitar!}
-{141}{}{Solía estar loco, ya sabes, hasta que pasé por el proceso de los Servidores. Solía estar loco, pero ahora estoy hecho pedazos. ¡Pedazos! ¡Pedazos!}
-{142}{}{Hijo de perra, ¡estoy hecho un lío! ¿Me ayudarás a aclararme las ideas?}
-{143}{}{No puedo creer que todavía alguien me esté hablando...}
-{144}{}{Todo es un juego, ya ves. Un juego y yo soy una de las piezas. Y un chico se enfadó y empezó a pisotearme. Pisotearme y pisotearme y pisotearme y pisotearme y al final, ¡acabó conmigo!}
-{145}{}{¡Quizás me saquen el cerebro! ¡Me sacarán el cerebro y me convertirán en su mascota! ¡Aquí, Dane! ¡Coge la pelota, Dane! Búscalos, ¡Dane! búscalos, ¡Dane! búscalos, ¡Dane! ¡Acaba con ellos, perro sarnoso!}
-{146}{}{¿Por qué crees que lo llaman Maestro?}
-{147}{}{La vida es una mierda, pero la muerte lo es todavía más y no podemos viajar en el tiempo para evitar nuestro nacimiento, entonces, ¿de qué sirve vivir?}
-{148}{}{Creo que saben de qué va la cosa, ¡necio! ¡Ellos saben que el proceso de los Servidores te mata! Saben que esta "máquina del bautismo" es solo una porquería...}
-{149}{}{Me llamo Dane. Soy un Vikingo. Me gustan las niñas. ¡Violo y saqueo! ¿Violarás y saquearás conmigo?}
-{150}{}{¡Oh, Dios! ¡Maestro, no Dios! Al menos me acuerdo de mi nombre. Todavía lo tengo. La mayoría de los otros casos fallidos no lo tenían. Solían dispararles. Tampoco fueron unos cadáveres bonitos. ¡Prácticas de tiro para los Nocturnos!}
-{151}{}{Y luego otros perdieron la cabeza completamente. Ojalá estuvieran muertos.}
-{152}{}{Creo que llamaré a mi primer hijo Fallout. Una vez tuve uno, pero la radiación lo mató cuando todavía estaba en el seno de su madre.}
-{153}{}{¡Caraculo! ¡Solo te reías! ¡Nunca hubieras dado antes una mierda ni por él ni por su madre!}
-{154}{}{Los mutantes no pueden reproducirse. ¡Todos nos convertiremos en mutantes! ¿No sabes lo que eso significa? ¡El mundo será estéril! ¡Estéril! ¡Estéril! ¡No nos reproduciremos! ¡Todos moriremos!}
-{155}{}{¡Paradlo! ¡Paradlo! ¡Paradlo! ¡Que lo pare alguien!}
-{156}{}{¡Maestro! No tenía que haber dicho nada. Escuché a un Nocturno llorar y sentí lástima por él.}
-{157}{}{¿Qué es la maldad? ¡La maldad es cuando el bien se vuelve completamente loco! ¡La maldad es cuando la gente valiente ya no puede serlo! La maldad es horrible, ¡tiene que quedar moralidad en algún sitio!}
-{158}{}{¡Calla necio! ¡Moralidad! ¡Tan seguro como que esto no es el infierno!}
-{159}{}{¿Sabes?, solía pensar que la religión era una vocación noble y quizás lo sea; pero no puedes meterte a ciegas o ellos te lavarán el cerebro.}
-{160}{}{... los zombis son una vergüenza para Dios, ¿sabes?}
-{161}{}{Pero, ¿por qué Dios creó a la gente tan débil?}
+{105}{}{Â¿CuÃ¡l es tu color favorito? Â¡El mÃ­o es el blanco leche!}
+{106}{}{Eres un idiota, Dane. Â¡Pronto van a matarte y te lo mereces! Â¡Debilucho! Â¡Debilucho!}
+{107}{}{Madre, Â¿crees que tiraron una bomba?}
+{108}{}{Lo hicieron con elegancia, Â¡sin perder comba!}
+{109}{}{Me llamo Dane, Â¡no Tomba!}
+{110}{}{Tu poesÃ­a es una mierda. Â¡Una mierda! Â¡Mierda! Â¡Mierda!}
+{111}{}{Â¡Me gusta el Sr. MaÃ±oso! Me encantarÃ­a hacer el amor con sus pequeÃ±as manos...}
+{112}{}{Estoy loco. Me he vuelto loco. Oh, Dios mÃ­o, Â¡me he vuelto completamente loco! Â¡Piensa en la paz! Â¡Piensa en la Unidad!}
+{113}{}{Â¡Quiero un caballo! Â¡Mi reino por un caballo! TrÃ¡eme un caballo, Â¡demonios! Â¡Un caballo!}
+{114}{}{Â¡Incluso ahora nos estÃ¡n vigilando! Â¡El seÃ±or Nocturno! Â¡FÃ©lix y Timothy! Â¡Perros! Â¡Gatos! Â¡Los Nocturnos!}
+{115}{}{Â¡CÃ¡llate! Â¡CreerÃ¡n que eres un maldito cencerro! Â¡Tienes que aclarar tus ideas!}
+{116}{}{Â¡Fustigador! Â¡Tienes que matar a Fustigador! Â¡Salva al bebÃ©! Pobre niÃ±o de las Flores. Pobre de mÃ­.}
+{117}{}{Â¡CÃ¡llate, hijo de perra! Â¡LÃ¡rgate de aquÃ­!}
+{118}{}{[Desvariando] Â¡Antes estaba perdido y ahora veo! Â¡Ya no me quiero bautizar mÃ¡s!}
+{119}{}{Â¿Sabes?, una vez escuchÃ© por casualidad a Morfeo amenazando con el puÃ±o a los Nocturnos. Â¿O es que lo olÃ­?}
+{120}{}{EstÃ¡is locos si llorÃ¡is por mÃ­. A rey muerto, rey puesto.}
+{121}{}{Â¿Sabe alguien cÃ³mo arreglar una tostadora?}
+{122}{}{Por supuesto que sÃ­, Â¡idiota! Es tu cabeza lo que no pueden arreglar, Â¡hijoputa!}
+{123}{}{Son las armas, Â¡capullo! Â¡La pÃ³lvora es inteligente y malÃ©vola y controla tu cerebro! Â¡Cuanto mÃ¡s cerca estÃ©s de la pÃ³lvora, mÃ¡s loco te vuelves! Â¡BOOM! Â¡BOOM! Â¡BOOM!}
+{124}{}{... Â¡Â¡Â¡Yo solo quiero acabar con el mundoooooooooooo!!!}
+{125}{}{Â¿QuÃ© quieres? SolÃ­a ser muy bueno... hasta que los Nocturnos me derrotaron. Aunque me lleve a dos por delante. Â¡Los Nocturnos son fuertes!}
+{126}{}{Â¡Son mutantes, loco! Â¡Por supuesto que son fuertes!}
+{127}{}{TambiÃ©n lo son los pingÃ¼inos. Y el giro bÃºfalo. Los disparan con armas de caza mayor. Tienes que vigilar a las mujeres de los bÃºfalos. Te soltarÃ¡n un bisonte cuando menos te lo esperes, Â¡y no sabrÃ¡s quÃ© te golpeÃ³! Â¡Ja!}
+{128}{}{Â¿No te conozco de algÃºn sitio? Â¿TambiÃ©n te duele el cerebro?}
+{129}{}{Por supuesto que lo conoces, Dane, Â¡idiota! Â¡Es nuestro enemigo! Â¡Debe ser destruido!}
+{130}{}{No le hagas caso, es un necio. Te quiero. Â¿TÃº me quieres?}
+{131}{}{SolÃ­a vivir en Penticton, en la Columbia BritÃ¡nica. O quizÃ¡s lo haya visto en un mapa antiguo. Esos sÃ­ que fueron buenos tiempos. OjalÃ¡ hubiese vivido entonces...}
+{132}{}{Â¿No estÃ¡s cansado de hablar conmigo? Â¿No ha sido increÃ­blemente aburrido?}
+{133}{}{Â¿No estÃ¡s cansado de hablar contigo mismo, bastardo esquizofrÃ©nico?}
+{134}{}{Me odio. Quiero morirme, pero contÃ¡is conmigo. Â¡ContÃ¡is conmigo para decir algo que haga que esta mierda merezca la pena! Â¡Algo importante!}
+{135}{}{Â¿Por quÃ© no puedo ser yo importante por una vez?}
+{136}{}{Â¡MUUUUUU! Â¡MUUUUUUU! Â¡MUUUUUUUUU! Â¡MUUUUUUU!}
+{137}{}{Â¡MUUUUUU! Â¡MUUUUUUU! Â¡MUUUUUUUUU! Â¡MUUUUUUU!}
+{138}{}{Estoy aburrido. Y lo que es peor. Estoy fastidiado. Ya no es divertido. Â¿No has sentido alguna vez que no eres nada y que no le importas a nadie? Â¡Estoy hecho una mierda!}
+{139}{}{Â¡MUUUUUU! Â¡MUUUUUUU! Â¡MUUUUUUUUU! Â¡MUUUUUUU!}
+{140}{}{Â¡Ya vale de hacer el brahmin! Â¡EstÃ¡s empezando a oler a vaca! Â¡Ahora todo el mundo empezarÃ¡ a vomitar!}
+{141}{}{SolÃ­a estar loco, ya sabes, hasta que pasÃ© por el proceso de los Servidores. SolÃ­a estar loco, pero ahora estoy hecho pedazos. Â¡Pedazos! Â¡Pedazos!}
+{142}{}{Hijo de perra, Â¡estoy hecho un lÃ­o! Â¿Me ayudarÃ¡s a aclararme las ideas?}
+{143}{}{No puedo creer que todavÃ­a alguien me estÃ© hablando...}
+{144}{}{Todo es un juego, ya ves. Un juego y yo soy una de las piezas. Y un chico se enfadÃ³ y empezÃ³ a pisotearme. Pisotearme y pisotearme y pisotearme y pisotearme y al final, Â¡acabÃ³ conmigo!}
+{145}{}{Â¡QuizÃ¡s me saquen el cerebro! Â¡Me sacarÃ¡n el cerebro y me convertirÃ¡n en su mascota! Â¡AquÃ­, Dane! Â¡Coge la pelota, Dane! BÃºscalos, Â¡Dane! bÃºscalos, Â¡Dane! bÃºscalos, Â¡Dane! Â¡Acaba con ellos, perro sarnoso!}
+{146}{}{Â¿Por quÃ© crees que lo llaman Maestro?}
+{147}{}{La vida es una mierda, pero la muerte lo es todavÃ­a mÃ¡s y no podemos viajar en el tiempo para evitar nuestro nacimiento, entonces, Â¿de quÃ© sirve vivir?}
+{148}{}{Creo que saben de quÃ© va la cosa, Â¡necio! Â¡Ellos saben que el proceso de los Servidores te mata! Saben que esta "mÃ¡quina del bautismo" es solo una porquerÃ­a...}
+{149}{}{Me llamo Dane. Soy un Vikingo. Me gustan las niÃ±as. Â¡Violo y saqueo! Â¿ViolarÃ¡s y saquearÃ¡s conmigo?}
+{150}{}{Â¡Oh, Dios! Â¡Maestro, no Dios! Al menos me acuerdo de mi nombre. TodavÃ­a lo tengo. La mayorÃ­a de los otros casos fallidos no lo tenÃ­an. SolÃ­an dispararles. Tampoco fueron unos cadÃ¡veres bonitos. Â¡PrÃ¡cticas de tiro para los Nocturnos!}
+{151}{}{Y luego otros perdieron la cabeza completamente. OjalÃ¡ estuvieran muertos.}
+{152}{}{Creo que llamarÃ© a mi primer hijo Fallout. Una vez tuve uno, pero la radiaciÃ³n lo matÃ³ cuando todavÃ­a estaba en el seno de su madre.}
+{153}{}{Â¡Caraculo! Â¡Solo te reÃ­as! Â¡Nunca hubieras dado antes una mierda ni por Ã©l ni por su madre!}
+{154}{}{Los mutantes no pueden reproducirse. Â¡Todos nos convertiremos en mutantes! Â¿No sabes lo que eso significa? Â¡El mundo serÃ¡ estÃ©ril! Â¡EstÃ©ril! Â¡EstÃ©ril! Â¡No nos reproduciremos! Â¡Todos moriremos!}
+{155}{}{Â¡Paradlo! Â¡Paradlo! Â¡Paradlo! Â¡Que lo pare alguien!}
+{156}{}{Â¡Maestro! No tenÃ­a que haber dicho nada. EscuchÃ© a un Nocturno llorar y sentÃ­ lÃ¡stima por Ã©l.}
+{157}{}{Â¿QuÃ© es la maldad? Â¡La maldad es cuando el bien se vuelve completamente loco! Â¡La maldad es cuando la gente valiente ya no puede serlo! La maldad es horrible, Â¡tiene que quedar moralidad en algÃºn sitio!}
+{158}{}{Â¡Calla necio! Â¡Moralidad! Â¡Tan seguro como que esto no es el infierno!}
+{159}{}{Â¿Sabes?, solÃ­a pensar que la religiÃ³n era una vocaciÃ³n noble y quizÃ¡s lo sea; pero no puedes meterte a ciegas o ellos te lavarÃ¡n el cerebro.}
+{160}{}{... los zombis son una vergÃ¼enza para Dios, Â¿sabes?}
+{161}{}{Pero, Â¿por quÃ© Dios creÃ³ a la gente tan dÃ©bil?}
 {162}{}{Creo que ya puedo contestar algunas preguntas. Siento haber tardado tanto.}
-{163}{}{¿Para qué se utiliza este lugar?}
-{164}{}{Háblame de los Nocturnos.}
-{165}{}{¿Qué está pasando aquí?}
-{166}{}{¿Qué te hicieron?}
-{167}{}{¿Quién es el Maestro?}
-{168}{}{¿Quieres morir? Puedo sacarte de la miseria.}
-{169}{}{¡Pareces estúpido!}
-{170}{}{Ésta es la pila bautismal. Aquí bautizan a los Servidores. Cuando los acólitos han sido adoctrinados, los traen aquí y los someten al proceso. Muy pocos sobreviven...}
-{171}{}{La mayoría pierde la cabeza, pero todavía son útiles. Se les tira escaleras abajo, les gritan cosas sobre el Maestro y los llenan de estupor. Ya has visto a los zombis. Los usan como esclavos... y soldados...}
-{172}{}{El cuerpo de John Brown se está descomponiendo en la Tumba. El cuerpo de John Brown se está descomponiendo en la Tumba, el cuerpo de John Brown se está descomponiendo en la Tumba y el Maestro se está mosqueando con nosotrosssss...}
-{173}{}{Para eso. Es bastante difícil mantenerse entero, no puedo controlarme.}
-{174}{}{Háblame de los Nocturnos.}
-{175}{}{¿Qué está pasando aquí?}
-{176}{}{¿Qué te hicieron?}
-{177}{}{¿Quién es el Maestro?}
-{178}{}{¿Quieres morir? Puedo sacarte de la miseria.}
-{179}{}{¡Uuuups! ¡No aguanto más! ¡Uyyy! ¡Uyyy! ¡Uyyy!}
-{180}{}{Son mutantes. Los he oído hablar sin que me vieran. Conozco todos sus secretos. Me odian. Me odian mucho.}
-{181}{}{Estoy jodido, pero ésta es solo la Fase 1 del Plan de Destrucción de la Catedral. Cuando se lava el cerebro a los Servidores, pasan a la Fase 2. ¡Y entonces es cuando el Maestro los bautiza en el VEF-2!}
-{182}{}{La mayoría muere ahí. Pero los que sobreviven se convierten en mutantes. Mutantes ENORMES. ¡Nocturnos! El Maestro cree que solo los Nocturnos pueden sobrevivir. ¡Quiere convertir a todo el mundo en Nocturno porque son muy fuertes!}
-{183}{}{¿Conoces toda esa basura de la paz y la unidad? Para el Maestro no es tal basura. ¡Él piensa realmente que está salvando al mundo!}
-{184}{}{¡Estéril! ¡Todos seremos seres asquerosos y estériles! ¡Estériles! ¡Estériles! ¡Estériles! ¡No me llamo Errol! ¡Estériles!}
-{185}{}{Háblame de los Nocturnos.}
-{186}{}{¿Qué está pasando aquí?}
-{187}{}{¿Qué te hicieron?}
-{188}{}{¿Quién es el Maestro?}
-{189}{}{¿Quieres morir? Puedo sacarte de la miseria.}
-{190}{}{¡MUUU! ¡MUUUUU! ¡MUUUU! ¡Llega un brahmin Nocturno! ¡Llega leche estéril!}
-{191}{}{El fin del mundo tal y como lo conocemos. Ejércitos de mutantes en el Refugio. No me eches la culpa, es culpa del Maestro. Cuando consigamos la Unidad, entonces será cuando la diversión del Maestro comience de VERDAD.}
-{192}{}{Háblame de los Nocturnos.}
-{193}{}{¿Qué clase de diversión?}
-{194}{}{¿Qué te hicieron?}
-{195}{}{¿Quién es el Maestro?}
-{196}{}{¿Quieres morir? Puedo sacarte de la miseria.}
-{197}{}{¡Uuuups! ¡No aguanto más! ¡Uyyy! ¡Uyyy! ¡Uyyy!}
+{163}{}{Â¿Para quÃ© se utiliza este lugar?}
+{164}{}{HÃ¡blame de los Nocturnos.}
+{165}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{166}{}{Â¿QuÃ© te hicieron?}
+{167}{}{Â¿QuiÃ©n es el Maestro?}
+{168}{}{Â¿Quieres morir? Puedo sacarte de la miseria.}
+{169}{}{Â¡Pareces estÃºpido!}
+{170}{}{Ã‰sta es la pila bautismal. AquÃ­ bautizan a los Servidores. Cuando los acÃ³litos han sido adoctrinados, los traen aquÃ­ y los someten al proceso. Muy pocos sobreviven...}
+{171}{}{La mayorÃ­a pierde la cabeza, pero todavÃ­a son Ãºtiles. Se les tira escaleras abajo, les gritan cosas sobre el Maestro y los llenan de estupor. Ya has visto a los zombis. Los usan como esclavos... y soldados...}
+{172}{}{El cuerpo de John Brown se estÃ¡ descomponiendo en la Tumba. El cuerpo de John Brown se estÃ¡ descomponiendo en la Tumba, el cuerpo de John Brown se estÃ¡ descomponiendo en la Tumba y el Maestro se estÃ¡ mosqueando con nosotrosssss...}
+{173}{}{Para eso. Es bastante difÃ­cil mantenerse entero, no puedo controlarme.}
+{174}{}{HÃ¡blame de los Nocturnos.}
+{175}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{176}{}{Â¿QuÃ© te hicieron?}
+{177}{}{Â¿QuiÃ©n es el Maestro?}
+{178}{}{Â¿Quieres morir? Puedo sacarte de la miseria.}
+{179}{}{Â¡Uuuups! Â¡No aguanto mÃ¡s! Â¡Uyyy! Â¡Uyyy! Â¡Uyyy!}
+{180}{}{Son mutantes. Los he oÃ­do hablar sin que me vieran. Conozco todos sus secretos. Me odian. Me odian mucho.}
+{181}{}{Estoy jodido, pero Ã©sta es solo la Fase 1 del Plan de DestrucciÃ³n de la Catedral. Cuando se lava el cerebro a los Servidores, pasan a la Fase 2. Â¡Y entonces es cuando el Maestro los bautiza en el VEF-2!}
+{182}{}{La mayorÃ­a muere ahÃ­. Pero los que sobreviven se convierten en mutantes. Mutantes ENORMES. Â¡Nocturnos! El Maestro cree que solo los Nocturnos pueden sobrevivir. Â¡Quiere convertir a todo el mundo en Nocturno porque son muy fuertes!}
+{183}{}{Â¿Conoces toda esa basura de la paz y la unidad? Para el Maestro no es tal basura. Â¡Ã‰l piensa realmente que estÃ¡ salvando al mundo!}
+{184}{}{Â¡EstÃ©ril! Â¡Todos seremos seres asquerosos y estÃ©riles! Â¡EstÃ©riles! Â¡EstÃ©riles! Â¡EstÃ©riles! Â¡No me llamo Errol! Â¡EstÃ©riles!}
+{185}{}{HÃ¡blame de los Nocturnos.}
+{186}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{187}{}{Â¿QuÃ© te hicieron?}
+{188}{}{Â¿QuiÃ©n es el Maestro?}
+{189}{}{Â¿Quieres morir? Puedo sacarte de la miseria.}
+{190}{}{Â¡MUUU! Â¡MUUUUU! Â¡MUUUU! Â¡Llega un brahmin Nocturno! Â¡Llega leche estÃ©ril!}
+{191}{}{El fin del mundo tal y como lo conocemos. EjÃ©rcitos de mutantes en el Refugio. No me eches la culpa, es culpa del Maestro. Cuando consigamos la Unidad, entonces serÃ¡ cuando la diversiÃ³n del Maestro comience de VERDAD.}
+{192}{}{HÃ¡blame de los Nocturnos.}
+{193}{}{Â¿QuÃ© clase de diversiÃ³n?}
+{194}{}{Â¿QuÃ© te hicieron?}
+{195}{}{Â¿QuiÃ©n es el Maestro?}
+{196}{}{Â¿Quieres morir? Puedo sacarte de la miseria.}
+{197}{}{Â¡Uuuups! Â¡No aguanto mÃ¡s! Â¡Uyyy! Â¡Uyyy! Â¡Uyyy!}
 {198}{}{Me drogaron, me agujerearon entero, me sometieron a ruidos estruendosos. Esa clase de mierda. Intentaron convertirme en algo que no soy. Los padres hacen eso todo el rato.}
-{199}{}{Me hice mucho daño.}
-{200}{}{¿Para qué se utiliza este lugar?}
-{201}{}{Háblame de los Nocturnos.}
-{202}{}{¿Qué está pasando aquí?}
-{203}{}{¿Quién es el Maestro?}
-{204}{}{¿Quieres morir? Puedo sacarte de la miseria.}
-{205}{}{¡Pareces estúpido!}
-{206}{}{También solía hacerle mucho daño a la gente. ¡Era una bestia! Demonios, ¡era como un dios! ¡Un hijo de perra muy duro! ¡Pero no lo era suficiente! ¡Era una máquina de matar! Pero ahora soy... soy... ayúdame...}
-{207}{}{Sabes, los Nocturnos dicen que es más feo que ellos. Eso quiere decir que debe ser un repugnante hijo de perra.}
-{208}{}{¡Él es el Hombre! ¡El Hombre que tiene el Plan! ¡Él hace los planes porque nos ama! Y si el mundo se cruza en su camino, ¡se lo carga! ¡Porque eso es el amor!}
-{209}{}{¿Para qué se utiliza este lugar?}
-{210}{}{Háblame de los Nocturnos.}
-{211}{}{¿Qué está pasando aquí?}
-{212}{}{¿Qué te hicieron?}
-{213}{}{¿Quieres morir? Puedo sacarte de la miseria.}
-{214}{}{¡Pareces estúpido!}
-{215}{}{¡El amor es lo que hace crecer al cactus! ¡El amor es lo que hace mugir a los brahmines! ¡El amor te está fastidiando, está destrozando tu vida! ¡Odio el amor! ¡Amo el odio! ¡Si el Maestro nos odiase, estaríamos mejor!}
-{216}{}{¿Dónde está tu consciencia, tío? ¿Crees que en la vida no hay sufrimientos y que siempre es maravillosa? ¡La vida ES sufrimiento! ¡Miseria y lo que quiera que decidamos hacer con ella!}
-{217}{}{¡Apañando! ¡Amando! ¡Fastidiando! ¡Odiando! ¡Aprovechando las oportunidades! ¡Aburriendo a la peña! ¡Apaleando imbéciles! ¡Haciendo amigos con otros imbéciles! ¡Huyendo de tus errores! ¡Enfrentado a tus errores! ¡Radiaciones!}
-{218}{}{Tener niños y hacer siempre las mismas cosas, ¡algunas veces mejor, algunas veces peor!}
-{219}{}{¡Así es la vida, tío! Es como estar borracho; por un lado es una vergüenza, ¡pero por el otro lado, te sientes genial! ¡Pero al final todo es igual! ¡Así es la vida!}
-{220}{}{¡Ajá! ¡Ja! ¡Ja! ¡Ja! ¡Ja! ¡Tienes toda la razón! ¡Todos somos estúpidos! ¿No lo has cogido? ¡Ja! ¡Ja! ¡Ja!}
-{221}{}{Ahora estoy un poco amargado. Como un té de naranja amarga bajo la lluvia. ¡Ja! ¡Me encanta decir eso! ¡Creo que lo repetiré! Ahora estoy un poco amargado. Como un té de naranja amarga bajo la lluvia...}
-{222}{}{[Más]}
-{529}{}{Por supuesto que la conoces, Dane, ¡idiota! ¡Es nuestra enemiga! ¡Debe ser destruida!}
+{199}{}{Me hice mucho daÃ±o.}
+{200}{}{Â¿Para quÃ© se utiliza este lugar?}
+{201}{}{HÃ¡blame de los Nocturnos.}
+{202}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{203}{}{Â¿QuiÃ©n es el Maestro?}
+{204}{}{Â¿Quieres morir? Puedo sacarte de la miseria.}
+{205}{}{Â¡Pareces estÃºpido!}
+{206}{}{TambiÃ©n solÃ­a hacerle mucho daÃ±o a la gente. Â¡Era una bestia! Demonios, Â¡era como un dios! Â¡Un hijo de perra muy duro! Â¡Pero no lo era suficiente! Â¡Era una mÃ¡quina de matar! Pero ahora soy... soy... ayÃºdame...}
+{207}{}{Sabes, los Nocturnos dicen que es mÃ¡s feo que ellos. Eso quiere decir que debe ser un repugnante hijo de perra.}
+{208}{}{Â¡Ã‰l es el Hombre! Â¡El Hombre que tiene el Plan! Â¡Ã‰l hace los planes porque nos ama! Y si el mundo se cruza en su camino, Â¡se lo carga! Â¡Porque eso es el amor!}
+{209}{}{Â¿Para quÃ© se utiliza este lugar?}
+{210}{}{HÃ¡blame de los Nocturnos.}
+{211}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{212}{}{Â¿QuÃ© te hicieron?}
+{213}{}{Â¿Quieres morir? Puedo sacarte de la miseria.}
+{214}{}{Â¡Pareces estÃºpido!}
+{215}{}{Â¡El amor es lo que hace crecer al cactus! Â¡El amor es lo que hace mugir a los brahmines! Â¡El amor te estÃ¡ fastidiando, estÃ¡ destrozando tu vida! Â¡Odio el amor! Â¡Amo el odio! Â¡Si el Maestro nos odiase, estarÃ­amos mejor!}
+{216}{}{Â¿DÃ³nde estÃ¡ tu consciencia, tÃ­o? Â¿Crees que en la vida no hay sufrimientos y que siempre es maravillosa? Â¡La vida ES sufrimiento! Â¡Miseria y lo que quiera que decidamos hacer con ella!}
+{217}{}{Â¡ApaÃ±ando! Â¡Amando! Â¡Fastidiando! Â¡Odiando! Â¡Aprovechando las oportunidades! Â¡Aburriendo a la peÃ±a! Â¡Apaleando imbÃ©ciles! Â¡Haciendo amigos con otros imbÃ©ciles! Â¡Huyendo de tus errores! Â¡Enfrentado a tus errores! Â¡Radiaciones!}
+{218}{}{Tener niÃ±os y hacer siempre las mismas cosas, Â¡algunas veces mejor, algunas veces peor!}
+{219}{}{Â¡AsÃ­ es la vida, tÃ­o! Es como estar borracho; por un lado es una vergÃ¼enza, Â¡pero por el otro lado, te sientes genial! Â¡Pero al final todo es igual! Â¡AsÃ­ es la vida!}
+{220}{}{Â¡AjÃ¡! Â¡Ja! Â¡Ja! Â¡Ja! Â¡Ja! Â¡Tienes toda la razÃ³n! Â¡Todos somos estÃºpidos! Â¿No lo has cogido? Â¡Ja! Â¡Ja! Â¡Ja!}
+{221}{}{Ahora estoy un poco amargado. Como un tÃ© de naranja amarga bajo la lluvia. Â¡Ja! Â¡Me encanta decir eso! Â¡Creo que lo repetirÃ©! Ahora estoy un poco amargado. Como un tÃ© de naranja amarga bajo la lluvia...}
+{222}{}{[MÃ¡s]}
+{529}{}{Por supuesto que la conoces, Dane, Â¡idiota! Â¡Es nuestra enemiga! Â¡Debe ser destruida!}

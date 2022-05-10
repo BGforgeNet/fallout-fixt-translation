@@ -1,14 +1,14 @@
 {100}{}{Eliminar a las bandas de Desguace.}
-{101}{}{Si no eliminas a todas las bandas, se vengar·n.}
-{102}{}{Los Enterradores y los Locos luchan por controlar el generador de energÌa.}
+{101}{}{Si no eliminas a todas las bandas, se vengar√°n.}
+{102}{}{Los Enterradores y los Locos luchan por controlar el generador de energ√≠a.}
 {200}{}{Busca a los Locos.}
 {201}{}{Los Locos quieren que encuentres a los Enterradores.}
 {300}{}{Busca a los Enterradores.}
 {301}{}{Los Enterradores quieren que encuentres a los Locos.}
-{400}{}{El Generador de EnergÌa.}
-{401}{}{Sin el generador, la calidad de vida de los campesinos empeorar·.}
-{402}{}{El generador es lo m·s importante de Desguace. Quien lo controle, controlar· Desguace.}
+{400}{}{El Generador de Energ√≠a.}
+{401}{}{Sin el generador, la calidad de vida de los campesinos empeorar√°.}
+{402}{}{El generador es lo m√°s importante de Desguace. Quien lo controle, controlar√° Desguace.}
 {403}{}{Hay cables pelados que salen del generador.}
 {500}{}{El Problema con el Perro de Phil.}
 {501}{}{Phil tiene algunos problemas con un perro.}
-{502}{}{El perro tiene tanta hambre que se comerÌa a Phil.}
+{502}{}{El perro tiene tanta hambre que se comer√≠a a Phil.}

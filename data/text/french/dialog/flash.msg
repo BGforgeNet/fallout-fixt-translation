@@ -1,30 +1,30 @@
-{100}{}{Surveille tes manières chez le Doc, si tu veux pas que je t'arrange le portrait.}
-{101}{}{C'est fermé. Reviens plus tard.}
+{100}{}{Surveille tes maniÃ¨res chez le Doc, si tu veux pas que je t'arrange le portrait.}
+{101}{}{C'est fermÃ©. Reviens plus tard.}
 {102}{}{Faut que j'vois l'toubib.}
 {103}{}{D'accord.}
-{104}{}{Il faut absolument que je vois le médecin.}
+{104}{}{Il faut absolument que je vois le mÃ©decin.}
 {105}{}{Hnnn.}
 {106}{}{Beau temps, hein ?}
 {107}{}{Tant pis pour toi. Dehors ! Et ne reviens pas avant demain matin, le cabinet n'ouvre pas le soir.}
 {108}{}{Attends, faut que j'vois le toubib.}
 {109}{}{Que veux-tu cette fois ?}
 {110}{}{Faut que j'vois l'toubib.}
-{111}{}{Le docteur reçoit-il ?}
+{111}{}{Le docteur reÃ§oit-il ?}
 {112}{}{Hnnn !}
 {113}{}{Pas question, Doc roupille. Reviens plus tard.}
-{114}{}{Chais pas, pourquoi tu lui demandes pas toi-même.}
-{115}{}{Oui, oui, c'est ça. Dégage !}
-{116}{}{Eh, c'est une propriété privée ici. Tu ferais mieux de sortir.}
+{114}{}{Chais pas, pourquoi tu lui demandes pas toi-mÃªme.}
+{115}{}{Oui, oui, c'est Ã§a. DÃ©gage !}
+{116}{}{Eh, c'est une propriÃ©tÃ© privÃ©e ici. Tu ferais mieux de sortir.}
 {117}{}{Mon cul !}
-{118}{}{Si tu bouges pas de mon chemin, t'auras d'autres raisons de voir le médecin.}
+{118}{}{Si tu bouges pas de mon chemin, t'auras d'autres raisons de voir le mÃ©decin.}
 {119}{}{Tu sais donc pas que les femmes sont le sexe faible ?}
-{120}{}{Tu me prends pour une mauviette ? Vise un peu ça...}
+{120}{}{Tu me prends pour une mauviette ? Vise un peu Ã§a...}
 {121}{}{Je m'en vais.}
-{122}{}{Ravale tes menaces de débile et rentre chez maman. Tu parles à un homme, un vrai.}
-{123}{}{Tu me prends pour une mauviette ? Vise un peu ça...}
+{122}{}{Ravale tes menaces de dÃ©bile et rentre chez maman. Tu parles Ã  un homme, un vrai.}
+{123}{}{Tu me prends pour une mauviette ? Vise un peu Ã§a...}
 {124}{}{Je m'en vais.}
-{125}{}{Whoa ! Si tu tiens vraiment à le voir, c'est tout droit.}
-{126}{}{Bien, quand le docteur est-il là ?}
-{127}{}{Le docteur consulte de 8 à 17. Maintenant, sors.}
-{128}{}{Quand le docteur est-il là ?}
+{125}{}{Whoa ! Si tu tiens vraiment Ã  le voir, c'est tout droit.}
+{126}{}{Bien, quand le docteur est-il lÃ  ?}
+{127}{}{Le docteur consulte de 8 Ã  17. Maintenant, sors.}
+{128}{}{Quand le docteur est-il lÃ  ?}
 {129}{}{Je t'avais dit de ne pas revenir.}

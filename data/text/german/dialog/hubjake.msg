@@ -4,7 +4,7 @@
 {103}{}{What are you selling here?}
 {104}{}{What can you tell me about a Water Chip?}
 {105}{}{Tell me about yourself.}
-{106}{}{Macht nichts. Tschüss.}
+{106}{}{Macht nichts. TschÃ¼ss.}
 {107}{}{wahnt.}
 {108}{}{nO wahnt.}
 {109}{}{I deal with high-end arms. The best stuff you can find this side of the Brotherhood, and since the Brotherhood doesn't deal with outsiders, I've gotta' say I'm the best. I have a sniper rifle, and you would be hard pressed to find flamethrower fuel anywhere else in the wastes. Oh yeah... I've got a Geiger counter, too. Very rare.}
@@ -57,7 +57,7 @@
 {156}{}{How does a Geiger counter work?}
 {157}{}{Thanks for the info. Bye.}
 {158}{}{Here's what I've got.}
-{159}{}{Tschüss.}
+{159}{}{TschÃ¼ss.}
 {160}{}{Danke.}
 {161}{}{Ook.}
 {162}{}{The mutants wiped 'em out about ten years ago, so I guess I made the right decision. I eventually settled down here. The cops don't like my trade and I've been rousted more than once, but I'm a helluva lot more honest than most of the merchants here.}

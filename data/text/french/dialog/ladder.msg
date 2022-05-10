@@ -1,5 +1,5 @@
-{100}{}{Tu ouvres la plaque d'égout et sort des égouts humides.}
-{101}{}{Tu passes les épaules par la plaque d'égout et t'agrippes à l'échelle.}
-{102}{}{Tu n'arrives pas à bouger la plaque d'égout.}
-{103}{}{Tu manques de tomber de l'échelle.}
+{100}{}{Tu ouvres la plaque d'Ã©gout et sort des Ã©gouts humides.}
+{101}{}{Tu passes les Ã©paules par la plaque d'Ã©gout et t'agrippes Ã  l'Ã©chelle.}
+{102}{}{Tu n'arrives pas Ã  bouger la plaque d'Ã©gout.}
+{103}{}{Tu manques de tomber de l'Ã©chelle.}
 {104}{}{Tu tombes par terre.}

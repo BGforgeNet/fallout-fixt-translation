@@ -1,108 +1,108 @@
 {100}{}{Ves: a Dan.}
-{101}{}{¡Ayuda!}
-{102}{}{Hola, colega, y bienvenido al Eje. Deja que me presente, me llaman "¡Dan, el Hombre Brahmin!" Voy de acá para allá y trato con los mercaderes de por aquí ofreciendo mis humildes servicios por un precio muy muy bajo. Bueno, ¿qué puedo hacer por ti, }
+{101}{}{Â¡Ayuda!}
+{102}{}{Hola, colega, y bienvenido al Eje. Deja que me presente, me llaman "Â¡Dan, el Hombre Brahmin!" Voy de acÃ¡ para allÃ¡ y trato con los mercaderes de por aquÃ­ ofreciendo mis humildes servicios por un precio muy muy bajo. Bueno, Â¿quÃ© puedo hacer por ti, }
 {103}{}{joven?}
 {104}{}{hombre?}
 {105}{}{mujercita?}
 {106}{}{Quiero unirme a una caravana.}
-{107}{}{Oh, ¿qué servicios ofreces exactamente?}
-{108}{}{¡¿Por qué demonios le están gritando a ese pobre chico?!}
+{107}{}{Oh, Â¿quÃ© servicios ofreces exactamente?}
+{108}{}{Â¡Â¿Por quÃ© demonios le estÃ¡n gritando a ese pobre chico?!}
 {109}{}{Urg.}
 {110}{}{Bueno, me encargo del cuidado de los vagones de la Caravana y de los brahmines. Si necesitan algo para sus caravanas, ellos vienen a hablar conmigo. Demonios, los Tres Grandes tratan exclusivamente conmigo.}
-{111}{}{¿Quiénes son los Tres Grandes?}
-{112}{}{Bueno, ¿no eres importante?}
-{113}{}{¿De verdad? Eso está bien. Quiero unirme a una caravana.}
-{114}{}{Bueno, tengo que irme. Adiós.}
-{115}{}{¿Qué? ¡Vete de una maldita vez de aquí, estúpido yonqui! ¿Pensabas que iba a perder mi tiempo con alguien tan insignificante como tú?}
-{118}{}{¡Qué demonios! ¿Dónde has estado toda tu vida? ¿Encerrado en una "cueva" o algo así? Los Tres Grandes son los tres grupos de mercaderes más importantes del mundo. Bueno, vale, quizás no sean los más importantes del mundo entero, pero sí lo son de un gran territorio; casi tan lejos como el ojo puede ver.}
-{119}{}{Cariño. ¿Dónde has estado toda tu vida? ¿Encerrada en una "cueva" o algo así? Los Tres Grandes son los tres grupos de mercaderes más importantes del mundo. Bueno, vale, quizás no sean los más importantes del mundo entero, pero sí lo son de un gran territorio; casi tan lejos como el ojo puede ver.}
-{120}{}{Maldito seas, eres un fanático de los brahmines.}
-{121}{}{Oh, ellos. Creí que estabas hablando de otra cosa. Bueno, ¿cómo me uno a una caravana?}
-{122}{}{Vale, gracias. Adiós.}
-{123}{}{¿Un fanático de los brahmines? ¿Estás intentando insultarme? Yo de ti sería un poco más educado con la gente que voy conociendo, forastero. Puede que yo importe poco, pero esta ciudad está llena de todo tipo de asesinos que no dudarían en cortarte el cuello si te metes conmigo.}
-{124}{}{Demonios, ¡eres un hijo de perra!}
+{111}{}{Â¿QuiÃ©nes son los Tres Grandes?}
+{112}{}{Bueno, Â¿no eres importante?}
+{113}{}{Â¿De verdad? Eso estÃ¡ bien. Quiero unirme a una caravana.}
+{114}{}{Bueno, tengo que irme. AdiÃ³s.}
+{115}{}{Â¿QuÃ©? Â¡Vete de una maldita vez de aquÃ­, estÃºpido yonqui! Â¿Pensabas que iba a perder mi tiempo con alguien tan insignificante como tÃº?}
+{118}{}{Â¡QuÃ© demonios! Â¿DÃ³nde has estado toda tu vida? Â¿Encerrado en una "cueva" o algo asÃ­? Los Tres Grandes son los tres grupos de mercaderes mÃ¡s importantes del mundo. Bueno, vale, quizÃ¡s no sean los mÃ¡s importantes del mundo entero, pero sÃ­ lo son de un gran territorio; casi tan lejos como el ojo puede ver.}
+{119}{}{CariÃ±o. Â¿DÃ³nde has estado toda tu vida? Â¿Encerrada en una "cueva" o algo asÃ­? Los Tres Grandes son los tres grupos de mercaderes mÃ¡s importantes del mundo. Bueno, vale, quizÃ¡s no sean los mÃ¡s importantes del mundo entero, pero sÃ­ lo son de un gran territorio; casi tan lejos como el ojo puede ver.}
+{120}{}{Maldito seas, eres un fanÃ¡tico de los brahmines.}
+{121}{}{Oh, ellos. CreÃ­ que estabas hablando de otra cosa. Bueno, Â¿cÃ³mo me uno a una caravana?}
+{122}{}{Vale, gracias. AdiÃ³s.}
+{123}{}{Â¿Un fanÃ¡tico de los brahmines? Â¿EstÃ¡s intentando insultarme? Yo de ti serÃ­a un poco mÃ¡s educado con la gente que voy conociendo, forastero. Puede que yo importe poco, pero esta ciudad estÃ¡ llena de todo tipo de asesinos que no dudarÃ­an en cortarte el cuello si te metes conmigo.}
+{124}{}{Demonios, Â¡eres un hijo de perra!}
 {125}{}{Estoy asustado. Nos vemos.}
-{126}{}{Especial, no; con suerte, sí. Y si no quieres meterte en líos tendrás que ser más amable con la gente que conoces. Puede que yo importe poco, pero esta ciudad está llena de todo tipo de asesinos que no dudarían en cortarte el cuello si te metes conmigo.}
-{127}{}{Demonios, ¡eres un hijo de perra!}
-{128}{}{Si tú lo dices.}
-{129}{}{Bueno, pero al menos no tengo un culo de mutante por cara. Tu madre debió ser una brahmin y tu padre una rata; es la única razón por la que puede que hayas salido tan horriblemente feo. ¡Eres más feo que yo!}
-{130}{}{¡Nadie habla de mi madre de esa manera! ¡Prepárate para morir!}
-{131}{}{Sí, no está mal. Bueno, tengo sitios que visitar y gente que machacar. Nos vemos, Dan.}
-{132}{}{Me parece bien que te comportes así pero mucha gente hace lo mismo. Estás bromeando, ¿no? No pondrías la mano encima al viejo Dan, ¿verdad?}
-{133}{}{¿Comportamiento? ¿Mano? Qué más quisieras. Ahora pondré algo más que mi mano encima de tu cadáver.}
-{134}{}{¡Ja! He sido cruel, ¿verdad?}
-{135}{}{Sí, un poco quizás. No eres malo, chico. Pero recuerda que debes controlar esa boca tuya. Sería una pena echar a perder una boca tan linda.}
-{136}{}{Claro, lo que tú digas. Nos vemos, Dan.}
-{137}{}{Bueno, ¿cómo me uno a una caravana?}
-{138}{}{Adiós. Y aléjate de mis brahmines, pequeño bastardo.}
-{139}{}{Adiós. Y aléjate de mis brahmines, pequeña putilla.}
-{141}{}{¡Guardias! ¡Policía! ¡Un loco está intentando matarme!}
-{142}{}{Bueno, no tengo ningún puesto vacante pero deberías hablar con los Tres Grandes. Hay un puesto de trabajo en el Mercado de Mercaderes que te puede venir bien. Ahí es donde consiguen todos sus hombres.}
+{126}{}{Especial, no; con suerte, sÃ­. Y si no quieres meterte en lÃ­os tendrÃ¡s que ser mÃ¡s amable con la gente que conoces. Puede que yo importe poco, pero esta ciudad estÃ¡ llena de todo tipo de asesinos que no dudarÃ­an en cortarte el cuello si te metes conmigo.}
+{127}{}{Demonios, Â¡eres un hijo de perra!}
+{128}{}{Si tÃº lo dices.}
+{129}{}{Bueno, pero al menos no tengo un culo de mutante por cara. Tu madre debiÃ³ ser una brahmin y tu padre una rata; es la Ãºnica razÃ³n por la que puede que hayas salido tan horriblemente feo. Â¡Eres mÃ¡s feo que yo!}
+{130}{}{Â¡Nadie habla de mi madre de esa manera! Â¡PrepÃ¡rate para morir!}
+{131}{}{SÃ­, no estÃ¡ mal. Bueno, tengo sitios que visitar y gente que machacar. Nos vemos, Dan.}
+{132}{}{Me parece bien que te comportes asÃ­ pero mucha gente hace lo mismo. EstÃ¡s bromeando, Â¿no? No pondrÃ­as la mano encima al viejo Dan, Â¿verdad?}
+{133}{}{Â¿Comportamiento? Â¿Mano? QuÃ© mÃ¡s quisieras. Ahora pondrÃ© algo mÃ¡s que mi mano encima de tu cadÃ¡ver.}
+{134}{}{Â¡Ja! He sido cruel, Â¿verdad?}
+{135}{}{SÃ­, un poco quizÃ¡s. No eres malo, chico. Pero recuerda que debes controlar esa boca tuya. SerÃ­a una pena echar a perder una boca tan linda.}
+{136}{}{Claro, lo que tÃº digas. Nos vemos, Dan.}
+{137}{}{Bueno, Â¿cÃ³mo me uno a una caravana?}
+{138}{}{AdiÃ³s. Y alÃ©jate de mis brahmines, pequeÃ±o bastardo.}
+{139}{}{AdiÃ³s. Y alÃ©jate de mis brahmines, pequeÃ±a putilla.}
+{141}{}{Â¡Guardias! Â¡PolicÃ­a! Â¡Un loco estÃ¡ intentando matarme!}
+{142}{}{Bueno, no tengo ningÃºn puesto vacante pero deberÃ­as hablar con los Tres Grandes. Hay un puesto de trabajo en el Mercado de Mercaderes que te puede venir bien. AhÃ­ es donde consiguen todos sus hombres.}
 {143}{}{Oh, lo siento... y por supuesto mujeres.}
-{144}{}{¿No tienes ningún puesto vacante? ¿También eres un mercader?}
-{145}{}{¿Por dónde se va al Mercado de Mercaderes?}
+{144}{}{Â¿No tienes ningÃºn puesto vacante? Â¿TambiÃ©n eres un mercader?}
+{145}{}{Â¿Por dÃ³nde se va al Mercado de Mercaderes?}
 {146}{}{Vale, gracias.}
-{147}{}{Bueno, no exactamente. Trabajo en estrecho contacto con la mayoría de los grupos de mercaderes pequeños y sé que ahora no están contratando.}
-{148}{}{Tú te lo pierdes.}
+{147}{}{Bueno, no exactamente. Trabajo en estrecho contacto con la mayorÃ­a de los grupos de mercaderes pequeÃ±os y sÃ© que ahora no estÃ¡n contratando.}
+{148}{}{TÃº te lo pierdes.}
 {149}{}{Vale, nos vemos luego, Dan.}
-{150}{}{Bueno, ¿dónde está el Mercado de Mercaderes?}
-{151}{}{Sigue por esta calle abajo. Está justo en el centro del Eje... no tiene pérdida.}
+{150}{}{Bueno, Â¿dÃ³nde estÃ¡ el Mercado de Mercaderes?}
+{151}{}{Sigue por esta calle abajo. EstÃ¡ justo en el centro del Eje... no tiene pÃ©rdida.}
 {152}{}{Eso no es asunto tuyo, forastero.}
-{153}{}{¡Voy a hacer que sea mi asunto, "forastero"!}
+{153}{}{Â¡Voy a hacer que sea mi asunto, "forastero"!}
 {154}{}{Siento haberme entrometido.}
-{155}{}{Bueno, ¡hola otra vez! ¿Qué tal estás?}
+{155}{}{Bueno, Â¡hola otra vez! Â¿QuÃ© tal estÃ¡s?}
 {156}{}{Quiero unirme a una caravana.}
-{157}{}{Oh, ¿qué servicios ofreces exactamente?}
-{158}{}{¡¿Por qué demonios le gritas a ese pobre chico?!}
-{159}{}{Bien. Adiós.}
+{157}{}{Oh, Â¿quÃ© servicios ofreces exactamente?}
+{158}{}{Â¡Â¿Por quÃ© demonios le gritas a ese pobre chico?!}
+{159}{}{Bien. AdiÃ³s.}
 {160}{}{Uf.}
-{161}{}{¿Y ahora qué?}
-{162}{}{¡¿Por qué demonios le gritas a ese pobre chico?!}
+{161}{}{Â¿Y ahora quÃ©?}
+{162}{}{Â¡Â¿Por quÃ© demonios le gritas a ese pobre chico?!}
 {163}{}{Nada.}
 {164}{}{Uf.}
-{168}{}{Mira, han pillado a ese chico robando. La policía me ha encargado que lo vigile.}
-{169}{}{Esa no es razón para ser cruel con él.}
-{170}{}{¿Qué tiene de malo robar?}
-{171}{}{Oh, ¡eso es distinto! ¡Mándalo al infierno!}
-{172}{}{¿Eres idiota? Ésa es la manera más rápida de pudrirse en una celda o de exiliarse sin comida, ropa ni armas.}
-{173}{}{¡Eso no justifica la manera en la que lo tratas!}
+{168}{}{Mira, han pillado a ese chico robando. La policÃ­a me ha encargado que lo vigile.}
+{169}{}{Esa no es razÃ³n para ser cruel con Ã©l.}
+{170}{}{Â¿QuÃ© tiene de malo robar?}
+{171}{}{Oh, Â¡eso es distinto! Â¡MÃ¡ndalo al infierno!}
+{172}{}{Â¿Eres idiota? Ã‰sa es la manera mÃ¡s rÃ¡pida de pudrirse en una celda o de exiliarse sin comida, ropa ni armas.}
+{173}{}{Â¡Eso no justifica la manera en la que lo tratas!}
 {174}{}{Oh, vale.}
-{175}{}{Puede que no sea el mejor modelo en esta maldita ciudad, pero soy el único que se preocupa y que está deseando ayudar. ¿Qué has hecho tú para mejorar la sociedad?}
-{176}{}{¡He matado millones de cosas!}
+{175}{}{Puede que no sea el mejor modelo en esta maldita ciudad, pero soy el Ãºnico que se preocupa y que estÃ¡ deseando ayudar. Â¿QuÃ© has hecho tÃº para mejorar la sociedad?}
+{176}{}{Â¡He matado millones de cosas!}
 {177}{}{Lo siento, no te he juzgado bien.}
-{178}{}{¡Tenías que haber matado al mocoso!}
-{179}{}{Bueno, quizá puedas ser un poco más agradable con él. Creo que lo está intentando.}
-{180}{}{¡Deberías darle una buena paliza!}
-{181}{}{¿Crees que matar gente soluciona el verdadero problema?}
-{182}{}{¡Sí!}
-{183}{}{¡Ha estado trabajando para mí mucho tiempo!}
-{184}{}{Mmm, quizás no.}
-{185}{}{No lo sé.}
-{186}{}{Me decepcionas. Parecía que tenías la cabeza en su sitio. Puede que matar gente solucione el problema temporalmente, pero tienes que llegar a la raíz del asunto si quieres marcar la diferencia.}
-{187}{}{Sí, lo que sea.}
-{188}{}{Eh, vale, adiós.}
+{178}{}{Â¡TenÃ­as que haber matado al mocoso!}
+{179}{}{Bueno, quizÃ¡ puedas ser un poco mÃ¡s agradable con Ã©l. Creo que lo estÃ¡ intentando.}
+{180}{}{Â¡DeberÃ­as darle una buena paliza!}
+{181}{}{Â¿Crees que matar gente soluciona el verdadero problema?}
+{182}{}{Â¡SÃ­!}
+{183}{}{Â¡Ha estado trabajando para mÃ­ mucho tiempo!}
+{184}{}{Mmm, quizÃ¡s no.}
+{185}{}{No lo sÃ©.}
+{186}{}{Me decepcionas. ParecÃ­a que tenÃ­as la cabeza en su sitio. Puede que matar gente solucione el problema temporalmente, pero tienes que llegar a la raÃ­z del asunto si quieres marcar la diferencia.}
+{187}{}{SÃ­, lo que sea.}
+{188}{}{Eh, vale, adiÃ³s.}
 {189}{}{Eres un idiota.}
-{190}{}{Bueno... (Hace una pausa mirando al vacío.) Quizás tengas razón colega. Lo tendré en cuenta, pero no puedo prometerte nada.}
-{191}{}{¿Estás bromeando? ¡Eso los convertiría en más desafiantes! Puede que mis métodos no sean perfectos, pero al menos estoy seguro de que les haré más fuertes y responsables.}
+{190}{}{Bueno... (Hace una pausa mirando al vacÃ­o.) QuizÃ¡s tengas razÃ³n colega. Lo tendrÃ© en cuenta, pero no puedo prometerte nada.}
+{191}{}{Â¿EstÃ¡s bromeando? Â¡Eso los convertirÃ­a en mÃ¡s desafiantes! Puede que mis mÃ©todos no sean perfectos, pero al menos estoy seguro de que les harÃ© mÃ¡s fuertes y responsables.}
 {192}{}{Demonios. Matar a la persona que tiene la enfermedad no es el mejor camino. Tienes que encontrar una cura porque puede que brote otra vez.}
 {193}{}{Nada de bromas, Einstein.}
-{194}{}{¡Deja de hablar! ¡Me das dolor de cabeza!}
-{195}{}{Oh, sí, claro colega. Tengo que irme.}
-{196}{}{Bueno, intenta no solucionar los problemas con una pistola. Adiós.}
-{197}{}{Demonios, ¡hace calor hoy!}
-{198}{}{¡Billy! Será mejor que no molestes, ¡escoria!}
-{199}{}{¡Billy! Será mejor que te asegures de que esos brahmines no pasan frío esta noche o estarás perdido!}
-{200}{}{¡Demonios, pequeño mocoso! ¡Para de charlar y empieza a trabajar!}
-{201}{}{¡Te dije que dejases de molestar!}
-{202}{}{¡Te estoy avisando Billy!}
-{203}{}{No querrás hacerlo por las malas, ¿no?}
+{194}{}{Â¡Deja de hablar! Â¡Me das dolor de cabeza!}
+{195}{}{Oh, sÃ­, claro colega. Tengo que irme.}
+{196}{}{Bueno, intenta no solucionar los problemas con una pistola. AdiÃ³s.}
+{197}{}{Demonios, Â¡hace calor hoy!}
+{198}{}{Â¡Billy! SerÃ¡ mejor que no molestes, Â¡escoria!}
+{199}{}{Â¡Billy! SerÃ¡ mejor que te asegures de que esos brahmines no pasan frÃ­o esta noche o estarÃ¡s perdido!}
+{200}{}{Â¡Demonios, pequeÃ±o mocoso! Â¡Para de charlar y empieza a trabajar!}
+{201}{}{Â¡Te dije que dejases de molestar!}
+{202}{}{Â¡Te estoy avisando Billy!}
+{203}{}{No querrÃ¡s hacerlo por las malas, Â¿no?}
 {204}{}{Lo siento, chico. No puedo hablar. Tengo un negocio que atender.}
 {208}{}{Lo siento, no puedo hablar. Tengo un negocio que atender.}
-{209}{}{Será mejor que no molestes, Billy; tiene un montón de trabajo que hacer hoy.}
+{209}{}{SerÃ¡ mejor que no molestes, Billy; tiene un montÃ³n de trabajo que hacer hoy.}
 {210}{}{Vete, estoy ocupado.}
-{211}{}{¿Por qué la gente siempre está molestándome? ¿No ves que estoy trabajando?}
+{211}{}{Â¿Por quÃ© la gente siempre estÃ¡ molestÃ¡ndome? Â¿No ves que estoy trabajando?}
 {212}{}{Habla con los Mercaderes si buscas trabajo. No estoy contratando gente.}
-{213}{}{¿Por qué no te vas a jugar al Halcón Maltés? Estoy ocupado.}
-{214}{}{¿Qué demonios estás haciendo aquí? ¡Fuera!}
-{215}{}{¡Dije que te fueras! ¡No estoy bromeando! ¡Te volaré la cabeza!}
-{216}{}{Vosotros los novatos nunca aprendéis, ¿no?}
+{213}{}{Â¿Por quÃ© no te vas a jugar al HalcÃ³n MaltÃ©s? Estoy ocupado.}
+{214}{}{Â¿QuÃ© demonios estÃ¡s haciendo aquÃ­? Â¡Fuera!}
+{215}{}{Â¡Dije que te fueras! Â¡No estoy bromeando! Â¡Te volarÃ© la cabeza!}
+{216}{}{Vosotros los novatos nunca aprendÃ©is, Â¿no?}

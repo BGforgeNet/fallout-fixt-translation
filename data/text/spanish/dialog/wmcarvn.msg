@@ -1,107 +1,107 @@
 {100}{}{Ves a un conductor de caravanas.}
-{101}{}{Hola, si buscas trabajo en una de nuestras caravanas, debes hablar con la Maestra Mercader. Está en aquel edificio del este.}
+{101}{}{Hola, si buscas trabajo en una de nuestras caravanas, debes hablar con la Maestra Mercader. EstÃ¡ en aquel edificio del este.}
 {102}{}{Lo siento, pero tienes que hablar con la Maestra Mercader.}
-{103}{}{Bien, tienes el visto bueno. Sabía que no iba a ser un problema. Últimamente está muy agobiada, sobre todo desde que Daren Hightower empezó a ocultarse en su oficina. Un tipo extraño. Nos vamos cada cinco días, es decir los días 1, 5, 10, 15, 20, y 25. Ahora solo vamos al Cementerio de LA y a Ciudad Vertedero.}
-{104}{}{¿Y cuánto pagan?}
+{103}{}{Bien, tienes el visto bueno. SabÃ­a que no iba a ser un problema. Ãšltimamente estÃ¡ muy agobiada, sobre todo desde que Daren Hightower empezÃ³ a ocultarse en su oficina. Un tipo extraÃ±o. Nos vamos cada cinco dÃ­as, es decir los dÃ­as 1, 5, 10, 15, 20, y 25. Ahora solo vamos al Cementerio de LA y a Ciudad Vertedero.}
+{104}{}{Â¿Y cuÃ¡nto pagan?}
 {105}{}{Um.}
-{106}{}{El sueldo es de 200 chapas. No es tanto, salimos a menudo y nuestras rutas no son demasiado peligrosas, y sí, es solo para la ida pero no estás obligado a hacer el viaje de ida y vuelta. }
-{107}{}{Nos vamos hoy. ¿Te interesa?}
+{106}{}{El sueldo es de 200 chapas. No es tanto, salimos a menudo y nuestras rutas no son demasiado peligrosas, y sÃ­, es solo para la ida pero no estÃ¡s obligado a hacer el viaje de ida y vuelta. }
+{107}{}{Nos vamos hoy. Â¿Te interesa?}
 {108}{}{Nos vamos en }
-{109}{}{Vacío }
+{109}{}{VacÃ­o }
 {110}{}{}
-{111}{}{. ¿Te interesa?}
-{112}{}{Aún te ofrezco trabajo, aunque... no importa. ¿Te interesa?}
+{111}{}{. Â¿Te interesa?}
+{112}{}{AÃºn te ofrezco trabajo, aunque... no importa. Â¿Te interesa?}
 {113}{}{Claro.}
 {114}{}{No.}
 {115}{}{Puede ser.}
-{116}{}{Sí, sí.}
-{117}{}{¿Eh?}
-{118}{}{Oh, vale. No hay problema. Házmelo saber si cambias de opinión.}
-{119}{}{A ver si tomas una decisión.}
-{120}{}{Bien, vuelve si decides trabajar para nosotros. Recuerda, los días 1, 5, etc. Adiós.}
+{116}{}{SÃ­, sÃ­.}
+{117}{}{Â¿Eh?}
+{118}{}{Oh, vale. No hay problema. HÃ¡zmelo saber si cambias de opiniÃ³n.}
+{119}{}{A ver si tomas una decisiÃ³n.}
+{120}{}{Bien, vuelve si decides trabajar para nosotros. Recuerda, los dÃ­as 1, 5, etc. AdiÃ³s.}
 {121}{}{Lo siento, pero no puedo contratarte a menos que puedas comunicarte de forma clara con el resto de los empleados.}
 {122}{}{Por favor, vuelve cuando te sientas mejor.}
 {123}{}{Uh, are you all right? I think you need to get something to eat, but don't go to Bob's.}
-{124}{}{¡He dicho que te vayas!}
-{125}{}{Estoy muy decepcionado... ¡Tú robando! ¿Me vas a decir por qué lo hiciste?}
-{126}{}{Porque soy una cosa verde del espacio exterior, ¡y soy... malo!}
-{127}{}{No quería hacerlo, pero tengo hambre y tengo hijos que alimentar.}
-{128}{}{¡Te sacaré el corazón con una cuchara!}
+{124}{}{Â¡He dicho que te vayas!}
+{125}{}{Estoy muy decepcionado... Â¡TÃº robando! Â¿Me vas a decir por quÃ© lo hiciste?}
+{126}{}{Porque soy una cosa verde del espacio exterior, Â¡y soy... malo!}
+{127}{}{No querÃ­a hacerlo, pero tengo hambre y tengo hijos que alimentar.}
+{128}{}{Â¡Te sacarÃ© el corazÃ³n con una cuchara!}
 {129}{}{[Te rindes]}
 {130}{}{[Atacas]}
-{131}{}{Intenté ayudarte, pero supongo que es demasiado tarde para algunos. Siento decir esto, pero tendremos que resolverlo de forma violenta.}
-{132}{}{Lo entiendo, pero eso no es un motivo. Todavía te tengo que pedir que te vayas. No podemos contratar a gente que no puede controlarse.}
-{133}{}{¿De veras esperas que caiga en esa mierda? ¡Guardias!}
-{134}{}{Lo siento, pero a veces una temporada en una celda puede sanar a una persona. ¡Guardias! Intentad "no" matarla. ¿Te rendirás a mis guardias?}
-{135}{}{¡Te veré en el infierno!}
-{136}{}{Sí. Lo siento.}
-{137}{}{¿Qué? ¿Te vas a meter en otra pelea?}
-{138}{}{¡Lo siento pero debes irte inmediatamente o me veré forzada a llamar a la policía!}
-{139}{}{¡Guardias! ¡Policía!}
-{140}{}{Creo que deberías irte.}
+{131}{}{IntentÃ© ayudarte, pero supongo que es demasiado tarde para algunos. Siento decir esto, pero tendremos que resolverlo de forma violenta.}
+{132}{}{Lo entiendo, pero eso no es un motivo. TodavÃ­a te tengo que pedir que te vayas. No podemos contratar a gente que no puede controlarse.}
+{133}{}{Â¿De veras esperas que caiga en esa mierda? Â¡Guardias!}
+{134}{}{Lo siento, pero a veces una temporada en una celda puede sanar a una persona. Â¡Guardias! Intentad "no" matarla. Â¿Te rendirÃ¡s a mis guardias?}
+{135}{}{Â¡Te verÃ© en el infierno!}
+{136}{}{SÃ­. Lo siento.}
+{137}{}{Â¿QuÃ©? Â¿Te vas a meter en otra pelea?}
+{138}{}{Â¡Lo siento pero debes irte inmediatamente o me verÃ© forzada a llamar a la policÃ­a!}
+{139}{}{Â¡Guardias! Â¡PolicÃ­a!}
+{140}{}{Creo que deberÃ­as irte.}
 {141}{}{Lo siento, pero no puedo contratarte.}
-{142}{}{Por favor, me lo estás poniendo muy difícil.}
+{142}{}{Por favor, me lo estÃ¡s poniendo muy difÃ­cil.}
 {143}{}{Por favor, vete.}
 {144}{}{Intrigante, pero no eres mi tipo.}
-{145}{}{¡Excepcional! La paga será de 200 chapas. ¿Qué ruta prefieres?}
-{146}{}{Maravilloso. Por favor, pásate por aquí... [Mira su calendario] en }
-{147}{}{día 1}
-{148}{}{día 5}
-{149}{}{día 10}
-{150}{}{día 15}
-{151}{}{día 20}
-{152}{}{día 25}
-{153}{}{. Entonces saldrás. La paga será como siempre de 200 chapas.}
+{145}{}{Â¡Excepcional! La paga serÃ¡ de 200 chapas. Â¿QuÃ© ruta prefieres?}
+{146}{}{Maravilloso. Por favor, pÃ¡sate por aquÃ­... [Mira su calendario] en }
+{147}{}{dÃ­a 1}
+{148}{}{dÃ­a 5}
+{149}{}{dÃ­a 10}
+{150}{}{dÃ­a 15}
+{151}{}{dÃ­a 20}
+{152}{}{dÃ­a 25}
+{153}{}{. Entonces saldrÃ¡s. La paga serÃ¡ como siempre de 200 chapas.}
 {154}{}{Vale.}
 {155}{}{Lo siento, no puedo esperar.}
-{156}{}{Es una tragedia. Perdimos la caravana completa, ¿pero tú sobreviviste? Eso no debería haber pasado. No sé qué pasó ahí fuera, pero no podemos contratarte más. Lo siento.}
+{156}{}{Es una tragedia. Perdimos la caravana completa, Â¿pero tÃº sobreviviste? Eso no deberÃ­a haber pasado. No sÃ© quÃ© pasÃ³ ahÃ­ fuera, pero no podemos contratarte mÃ¡s. Lo siento.}
 {157}{}{Ciudad Vertedero}
 {158}{}{Cementerio de LA}
-{159}{}{Um, ahora no. Puede que en otra ocasión.}
-{160}{}{Excelente, llamaré al resto del equipo.}
+{159}{}{Um, ahora no. Puede que en otra ocasiÃ³n.}
+{160}{}{Excelente, llamarÃ© al resto del equipo.}
 {161}{}{Bien.}
-{162}{}{¡Adiós! ¡Buena suerte!}
+{162}{}{Â¡AdiÃ³s! Â¡Buena suerte!}
 {163}{}{Intenta evitar los problemas, no los vayas buscando.}
 {164}{}{Ten cuidado, no me gusta el aspecto del Cementerio de LA. Es horripilante.}
-{165}{}{Está bien. Esas carreteras negras son muy extrañas, pero son muy cómodas para viajar.}
-{166}{}{Creo que ahí abajo hay algunas bandas. Yo que tu no hablaba con cualquiera.}
+{165}{}{EstÃ¡ bien. Esas carreteras negras son muy extraÃ±as, pero son muy cÃ³modas para viajar.}
+{166}{}{Creo que ahÃ­ abajo hay algunas bandas. Yo que tu no hablaba con cualquiera.}
 {167}{}{Genial. Ciudad Vertedero es un lugar decente.}
-{168}{}{Oh, decir "hola" a ese... asesi... ¿otra vez? He olvidado su nombre pero es un tipo decente. Me pregunto cómo le va.}
-{169}{}{Un lugar interesante. Me han dicho que allí hay un doctor perverso que reanima a los muertos o algo así.}
-{170}{}{¿Por qué diablos abandonaste la última caravana? No ocurrió nada terrible, pero algo pudo pasar.}
-{171}{}{¿Me das otra oportunidad?}
+{168}{}{Oh, decir "hola" a ese... asesi... Â¿otra vez? He olvidado su nombre pero es un tipo decente. Me pregunto cÃ³mo le va.}
+{169}{}{Un lugar interesante. Me han dicho que allÃ­ hay un doctor perverso que reanima a los muertos o algo asÃ­.}
+{170}{}{Â¿Por quÃ© diablos abandonaste la Ãºltima caravana? No ocurriÃ³ nada terrible, pero algo pudo pasar.}
+{171}{}{Â¿Me das otra oportunidad?}
 {172}{}{Nada.}
-{173}{}{¡Yo no la cago!}
-{174}{}{¿Ig wa neeka rooola?}
+{173}{}{Â¡Yo no la cago!}
+{174}{}{Â¿Ig wa neeka rooola?}
 {175}{}{Lig.}
-{176}{}{Lo siento, me has vuelto a fallar. No pareces ser muy responsable, y esa no es una buena combinación para nuestro perfil de empleado.}
-{177}{}{¿Por qué debería?}
-{178}{}{No deberías.}
+{176}{}{Lo siento, me has vuelto a fallar. No pareces ser muy responsable, y esa no es una buena combinaciÃ³n para nuestro perfil de empleado.}
+{177}{}{Â¿Por quÃ© deberÃ­a?}
+{178}{}{No deberÃ­as.}
 {179}{}{Porque voy a abrirte una brecha en la cabeza si no lo haces.}
-{180}{}{Tenía cosas mejores que hacer que esperar a una aburrida caravana.}
-{181}{}{No sabía que no podía irme. Todo parecía ir bien.}
+{180}{}{TenÃ­a cosas mejores que hacer que esperar a una aburrida caravana.}
+{181}{}{No sabÃ­a que no podÃ­a irme. Todo parecÃ­a ir bien.}
 {182}{}{Ya veo... estabas drogado. Bien, haz lo que quieras con tu vida.}
-{183}{}{Lamento que te sientas así.}
-{184}{}{Me sorprende que no hayas ido en una caravana antes, pero supongo que no tiene nada de malo... claro. Te daré otra oportunidad.}
-{185}{}{¡Hiciste un buen trabajo! ¿Quieres otra caravana?}
+{183}{}{Lamento que te sientas asÃ­.}
+{184}{}{Me sorprende que no hayas ido en una caravana antes, pero supongo que no tiene nada de malo... claro. Te darÃ© otra oportunidad.}
+{185}{}{Â¡Hiciste un buen trabajo! Â¿Quieres otra caravana?}
 {186}{}{Claro.}
 {187}{}{No.}
 {188}{}{Puede ser.}
-{189}{}{¡Eeek!}
+{189}{}{Â¡Eeek!}
 {190}{}{Lub.}
-{191}{}{¿Listo? Nos vamos hoy.}
-{192}{}{Sí.}
-{193}{}{¡No!}
-{194}{}{¡Ack!}
-{195}{}{Si no, se lo daré a otro, no te preocupes por eso. No estás obligado a nada... hasta que salgas con la caravana, ¿vale?}
-{196}{}{Vienes algo pronto. La próxima caravana no sale hasta }
-{197}{}{día 1}
-{198}{}{día 5}
-{199}{}{día 10}
-{200}{}{día 15}
-{201}{}{día 20}
-{202}{}{día 25}
-{203}{}{. Vuelve entonces si todavía te interesa el trabajo. }
+{191}{}{Â¿Listo? Nos vamos hoy.}
+{192}{}{SÃ­.}
+{193}{}{Â¡No!}
+{194}{}{Â¡Ack!}
+{195}{}{Si no, se lo darÃ© a otro, no te preocupes por eso. No estÃ¡s obligado a nada... hasta que salgas con la caravana, Â¿vale?}
+{196}{}{Vienes algo pronto. La prÃ³xima caravana no sale hasta }
+{197}{}{dÃ­a 1}
+{198}{}{dÃ­a 5}
+{199}{}{dÃ­a 10}
+{200}{}{dÃ­a 15}
+{201}{}{dÃ­a 20}
+{202}{}{dÃ­a 25}
+{203}{}{. Vuelve entonces si todavÃ­a te interesa el trabajo. }
 {204}{}{Enero, }
 {205}{}{Febrero, }
 {206}{}{Marzo, }
@@ -114,4 +114,4 @@
 {213}{}{Octubre, }
 {214}{}{Noviembre, }
 {215}{}{Diciembre, }
-{300}{}{Bien, tienes el visto bueno. Sabía que no iba a ser un problema. Últimamente está muy agobiada, sobre todo desde que Daren Hightower empezó a ocultarse en su oficina. Un tipo extraño. Nos vamos cada cinco días, es decir los días 1, 5, 10, 15, 20, y 25. Ahora solo vamos a Ciudad Vertedero. Había rumores de invasiones mutantes en el Cementerio de LA, así que ya no vamos.}
+{300}{}{Bien, tienes el visto bueno. SabÃ­a que no iba a ser un problema. Ãšltimamente estÃ¡ muy agobiada, sobre todo desde que Daren Hightower empezÃ³ a ocultarse en su oficina. Un tipo extraÃ±o. Nos vamos cada cinco dÃ­as, es decir los dÃ­as 1, 5, 10, 15, 20, y 25. Ahora solo vamos a Ciudad Vertedero. HabÃ­a rumores de invasiones mutantes en el Cementerio de LA, asÃ­ que ya no vamos.}

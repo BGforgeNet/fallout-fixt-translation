@@ -1,4 +1,4 @@
 {100}{}{Ves a un Caballero.}
-{101}{}{La sala de aprendizaje está justo allí si es eso lo que estás buscando.}
-{102}{}{¿Te has perdido? La sala de aprendizaje está justo allí.}
-{103}{}{El Laboratorio médico está justo a la vuelta de la esquina.}
+{101}{}{La sala de aprendizaje estÃ¡ justo allÃ­ si es eso lo que estÃ¡s buscando.}
+{102}{}{Â¿Te has perdido? La sala de aprendizaje estÃ¡ justo allÃ­.}
+{103}{}{El Laboratorio mÃ©dico estÃ¡ justo a la vuelta de la esquina.}

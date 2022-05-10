@@ -1,32 +1,32 @@
-{100}{}{Tu vois un enfant, il est plutÙt petit.}
+{100}{}{Tu vois un enfant, il est plut√¥t petit.}
 {101}{}{Salut !}
 {102}{}{Bonjour.}
-{103}{}{O˘ sont tes parents ?}
+{103}{}{O√π sont tes parents ?}
 {104}{}{Erf.}
-{105}{}{ChÈ pas. Quelque part par l‡.}
-{106}{}{Tu es drÙle !}
-{107}{}{HÈ, tu vas tuer quelqu'un ?}
+{105}{}{Ch√© pas. Quelque part par l√†.}
+{106}{}{Tu es dr√¥le !}
+{107}{}{H√©, tu vas tuer quelqu'un ?}
 {108}{}{Oui.}
 {109}{}{Non !}
 {110}{}{Erf.}
-{111}{}{J'vais l'dire ‡ ma maman !}
-{112}{}{Alors tu devrais pas porter ton arme comme Áa}
+{111}{}{J'vais l'dire √† ma maman !}
+{112}{}{Alors tu devrais pas porter ton arme comme √ßa}
 {200}{}{Sorry, mister.}
 {201}{}{Sorry, ma'am.}
-{300}{}{Papa est juste l‡ ! Tu le vois pas ?}
-{301}{}{Maman est juste l‡ ! Tu la vois pas ?}
+{300}{}{Papa est juste l√† ! Tu le vois pas ?}
+{301}{}{Maman est juste l√† ! Tu la vois pas ?}
 {980}{}{Hein ?}
-{981}{}{ChÈ pas. Demande ‡ ma maman.}
-{982}{}{Demande ‡ mon papa.}
+{981}{}{Ch√© pas. Demande √† ma maman.}
+{982}{}{Demande √† mon papa.}
 {1000}{}{Deathclaw}
 {1001}{}{Pillards|Pillards|Khans|Khan}
-{1002}{}{DÈpÙtville}
+{1002}{}{D√©p√¥tville}
 {1003}{}{Brahmine}
 {1004}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1005}{}{Marchands|Marchand}
 {1006}{}{Khans}
 {1007}{}{Garl}
-{1008}{}{Sables OmbragÈs}
+{1008}{}{Sables Ombrag√©s}
 {1009}{}{Centre}
 {1010}{}{Tandi}
 {1011}{}{Aradesh}
@@ -36,23 +36,23 @@
 {1015}{}{Caravanes}
 {1016}{}{Marchands}
 {1017}{}{Enfants}
-{1018}{}{NÈcropolis}
+{1018}{}{N√©cropolis}
 {1019}{}{Rouge}
-{1020}{}{ConfrÈrie de l'Acier|ConfrÈrie|Confrerie|Acier}
-{1021}{}{CimetiËre de L.A.}
+{1020}{}{Confr√©rie de l'Acier|Confr√©rie|Confrerie|Acier}
+{1021}{}{Cimeti√®re de L.A.}
 {1022}{}{Towers}
 {1023}{}{Ville}
 {1024}{}{Downtown}
 {1025}{}{Hauteurs}
-{1026}{}{CimetiËre|Le CimetiËre|CimetiËre de L.A.|Los Angeles}
+{1026}{}{Cimeti√®re|Le Cimeti√®re|Cimeti√®re de L.A.|Los Angeles}
 {1027}{}{L.A. Boneyard}
 {1100}{}{Ouah ! Un monstre cauchemardesque !}
-{1101}{}{MÈchants !}
+{1101}{}{M√©chants !}
 {1102}{}{Je ne sais pas.}
 {1103}{}{Des gros trucs qui puent.}
-{1104}{}{Demande ‡ ma maman.}
-{1105}{}{DrÙles de chants de marins.}
-{1106}{}{MÈchants !}
+{1104}{}{Demande √† ma maman.}
+{1105}{}{Dr√¥les de chants de marins.}
+{1106}{}{M√©chants !}
 {1107}{}{Sale type.}
 {1108}{}{J'te l'dirai pas.}
 {1109}{}{Grande ville.}

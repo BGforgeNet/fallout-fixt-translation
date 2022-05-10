@@ -1,27 +1,27 @@
-{100}{}{Estás viendo a un necrófago prisionero.}
-{101}{}{¿Qué... qué quieres?}
+{100}{}{EstÃ¡s viendo a un necrÃ³fago prisionero.}
+{101}{}{Â¿QuÃ©... quÃ© quieres?}
 {102}{}{Oh, nada.}
 {103}{}{Hng.}
-{104}{}{Estoy aquí para liberarte.}
-{105}{}{Qué esperabas.}
-{106}{}{¡Eh, eso no me importa! ¡Solo sácame de aquí!}
-{107}{}{¡Bien, hazlo!}
-{108}{}{Robé algo de agua. ¡Qué pasa! ¡Tenía sed! No he hecho daño a nadie.}
-{109}{}{Cogiste más de la que te correspondía.}
-{110}{}{Bah, no importa. Te sacaré de aquí.}
-{111}{}{Sin el agua hubiera muerto. Solo fue una taza. Lo justo para mantenerme con vida. ¡Tienes que sacarme de aquí! Estoy perdiendo la cabeza.}
+{104}{}{Estoy aquÃ­ para liberarte.}
+{105}{}{QuÃ© esperabas.}
+{106}{}{Â¡Eh, eso no me importa! Â¡Solo sÃ¡came de aquÃ­!}
+{107}{}{Â¡Bien, hazlo!}
+{108}{}{RobÃ© algo de agua. Â¡QuÃ© pasa! Â¡TenÃ­a sed! No he hecho daÃ±o a nadie.}
+{109}{}{Cogiste mÃ¡s de la que te correspondÃ­a.}
+{110}{}{Bah, no importa. Te sacarÃ© de aquÃ­.}
+{111}{}{Sin el agua hubiera muerto. Solo fue una taza. Lo justo para mantenerme con vida. Â¡Tienes que sacarme de aquÃ­! Estoy perdiendo la cabeza.}
 {112}{}{De acuerdo, espera un momento.}
-{113}{}{Creo que dejaré que las autoridades se ocupen de ti.}
+{113}{}{Creo que dejarÃ© que las autoridades se ocupen de ti.}
 {114}{}{Por favor, deja que me vaya.}
 {115}{}{Gracias por dejarme salir.}
 {116}{}{No hay problema.}
-{117}{}{¿De dónde procede el agua?}
-{118}{}{Sí.}
-{119}{}{La sacaron de los pozos subterráneos. Hay una alcantarilla en la celda de al lado que lleva al antiguo Refugio. Ésta es la fuente del agua. Si no fuera por esos de ahí abajo, estaríamos bastante mejor.}
-{120}{}{¿Qué quieres decir?}
+{117}{}{Â¿De dÃ³nde procede el agua?}
+{118}{}{SÃ­.}
+{119}{}{La sacaron de los pozos subterrÃ¡neos. Hay una alcantarilla en la celda de al lado que lleva al antiguo Refugio. Ã‰sta es la fuente del agua. Si no fuera por esos de ahÃ­ abajo, estarÃ­amos bastante mejor.}
+{120}{}{Â¿QuÃ© quieres decir?}
 {121}{}{Gracias.}
-{122}{}{A veces es difícil hacer que la vieja tecnología funcione correctamente. Cada vez que bajamos esos ardorosos nos sacuden. Nosotros los necrófagos nos limitamos a dejarlos en paz. Y los grandes mutantes no parecen preocuparse ni un poco.}
-{123}{}{Suerte. Adiós.}
+{122}{}{A veces es difÃ­cil hacer que la vieja tecnologÃ­a funcione correctamente. Cada vez que bajamos esos ardorosos nos sacuden. Nosotros los necrÃ³fagos nos limitamos a dejarlos en paz. Y los grandes mutantes no parecen preocuparse ni un poco.}
+{123}{}{Suerte. AdiÃ³s.}
 {124}{}{Ganas }
-{125}{}{ puntos de experiencia por liberar al necrófago prisionero.}
+{125}{}{ puntos de experiencia por liberar al necrÃ³fago prisionero.}
 {126}{}{Gracias de nuevo.}

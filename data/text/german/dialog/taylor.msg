@@ -2,7 +2,7 @@
 {101}{}{You see the town's trader, Tine.}
 {102}{}{We don't get many strangers around here. What do you want?}
 {103}{}{Hello, stranger! What can I do for you today?}
-{104}{}{Ich heiﬂe }
+{104}{}{Ich hei√üe }
 {105}{}{.}
 {106}{}{Can I ask you about the Hub merchants?}
 {107}{}{I'd like to do some trading.}

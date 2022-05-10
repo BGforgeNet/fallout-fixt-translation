@@ -1,12 +1,12 @@
-{100}{}{Voici une tête nucléaire.}
-{101}{}{Des câbles relient l'ordinateur d'accès à la tête nucléaire qui se trouve derrière.}
-{102}{}{Tu as amorcé la tête nucléaire. Une minuterie réglée à quatre minutes s'est déclenchée.}
-{103}{}{Tu as désamorcé la tête nucléaire.}
-{104}{}{BOOOOOOOOOM ! [Tu as déclenché l'arme nucléaire !]}
-{105}{}{On dirait que ça ne marche pas.}
-{106}{}{Le compte à rebours continue... peut-être devrais-tu couper ce fil rouge.}
-{107}{}{Peut-être dois-tu aussi utiliser la clé.}
-{108}{}{C'est une tête nucléaire. Elle est sous contrôle de l'ordinateur connecté par les câbles.}
-{109}{}{Il n'y a rien à réparer sur cette tête nucléaire.}
-{110}{}{Il n'y a rien à crocheter sur cette tête nucléaire.}
-{111}{}{C'est un très gros piège impossible à désamorcer ou à amorcer d'ici.}
+{100}{}{Voici une tÃªte nuclÃ©aire.}
+{101}{}{Des cÃ¢bles relient l'ordinateur d'accÃ¨s Ã  la tÃªte nuclÃ©aire qui se trouve derriÃ¨re.}
+{102}{}{Tu as amorcÃ© la tÃªte nuclÃ©aire. Une minuterie rÃ©glÃ©e Ã  quatre minutes s'est dÃ©clenchÃ©e.}
+{103}{}{Tu as dÃ©samorcÃ© la tÃªte nuclÃ©aire.}
+{104}{}{BOOOOOOOOOM ! [Tu as dÃ©clenchÃ© l'arme nuclÃ©aire !]}
+{105}{}{On dirait que Ã§a ne marche pas.}
+{106}{}{Le compte Ã  rebours continue... peut-Ãªtre devrais-tu couper ce fil rouge.}
+{107}{}{Peut-Ãªtre dois-tu aussi utiliser la clÃ©.}
+{108}{}{C'est une tÃªte nuclÃ©aire. Elle est sous contrÃ´le de l'ordinateur connectÃ© par les cÃ¢bles.}
+{109}{}{Il n'y a rien Ã  rÃ©parer sur cette tÃªte nuclÃ©aire.}
+{110}{}{Il n'y a rien Ã  crocheter sur cette tÃªte nuclÃ©aire.}
+{111}{}{C'est un trÃ¨s gros piÃ¨ge impossible Ã  dÃ©samorcer ou Ã  amorcer d'ici.}

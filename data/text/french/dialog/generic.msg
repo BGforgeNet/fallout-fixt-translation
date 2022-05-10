@@ -7,19 +7,19 @@
 {106}{}{Grrrrr !}
 {107}{}{Uungh.}
 {108}{}{Euh.}
-{109}{}{Hé, as-tu entendu que Set est mort ?}
+{109}{}{HÃ©, as-tu entendu que Set est mort ?}
 {110}{}{Set est mort. Set est mort. Set est mort...}
 {111}{}{Il y a assez d'eau pour tout le monde. Set s'en assure.}
 {112}{}{J'ai entendu dire que les mutants ont fuis la ville.}
 {113}{}{Depuis que les mutants sont partis, tout s'arrange.}
 {114}{}{Bonjour.}
-{200}{}{Vous examinez la chose pitoyable, mais ne comprenez pas ce qui pourrait l'avoir rendu comme ça.}
-{201}{}{Il semble avoir été autrefois humain, ou avoir des origines humaines. Vous supposez que la détérioration de l'organisme est probablement dûe à de l'acide ou aux radiations.}
-{202}{}{L'organisme de l'humanoïde paraît fortement irradié, mais toujours en fonctionnement. Jadis il était un homme, il semble avoir maintenant trouvé un style de vie plus animal.}
-{203}{}{L'organisme de l'humanoïde paraît fortement irradié, et une grande partie des muscles et de la matière cérébrale semblent s'être détériorés. Cependant, des indicateurs génétiques vous poussent à croire qu'il est descendant, comme vous, de ceux qui sont entrés dans les Abris.}
+{200}{}{Vous examinez la chose pitoyable, mais ne comprenez pas ce qui pourrait l'avoir rendu comme Ã§a.}
+{201}{}{Il semble avoir Ã©tÃ© autrefois humain, ou avoir des origines humaines. Vous supposez que la dÃ©tÃ©rioration de l'organisme est probablement dÃ»e Ã  de l'acide ou aux radiations.}
+{202}{}{L'organisme de l'humanoÃ¯de paraÃ®t fortement irradiÃ©, mais toujours en fonctionnement. Jadis il Ã©tait un homme, il semble avoir maintenant trouvÃ© un style de vie plus animal.}
+{203}{}{L'organisme de l'humanoÃ¯de paraÃ®t fortement irradiÃ©, et une grande partie des muscles et de la matiÃ¨re cÃ©rÃ©brale semblent s'Ãªtre dÃ©tÃ©riorÃ©s. Cependant, des indicateurs gÃ©nÃ©tiques vous poussent Ã  croire qu'il est descendant, comme vous, de ceux qui sont entrÃ©s dans les Abris.}
 {204}{}{Non je te remercie.}
 {205}{}{Non, merci.}
-{206}{}{Bien sûr.}
+{206}{}{Bien sÃ»r.}
 {207}{}{Oui.}
 {208}{}{Non.}
 {209}{}{D'accord.}
@@ -35,42 +35,42 @@
 {355}{}{[Donner l'argent]}
 {375}{}{Salut.}
 {376}{}{Au revoir.}
-{450}{}{L'horizon est dégagé, on bouge !}
-{900}{}{La vieille porte usée devrait facilement être détruite avec un explosif.}
+{450}{}{L'horizon est dÃ©gagÃ©, on bouge !}
+{900}{}{La vieille porte usÃ©e devrait facilement Ãªtre dÃ©truite avec un explosif.}
 {905}{}{Wouaf ! Wouaf !}
-{910}{}{Tu reçois une décharge du sol électrifié.}
-{911}{}{ est électrocuté par le sol électrifié.}
-{912}{}{Le niveau de puissance tombe à zéro, puis remonte à 50% lorsque les générateurs de secours se mettent en marche.}
-{913}{}{Un léger bourdonnement se fait entendre alors que le flux d'électricité passe de nouveau dans la base.}
+{910}{}{Tu reÃ§ois une dÃ©charge du sol Ã©lectrifiÃ©.}
+{911}{}{ est Ã©lectrocutÃ© par le sol Ã©lectrifiÃ©.}
+{912}{}{Le niveau de puissance tombe Ã  zÃ©ro, puis remonte Ã  50% lorsque les gÃ©nÃ©rateurs de secours se mettent en marche.}
+{913}{}{Un lÃ©ger bourdonnement se fait entendre alors que le flux d'Ã©lectricitÃ© passe de nouveau dans la base.}
 {930}{}{Hooooowl !}
-{950}{}{Tu prends du temps pour t'entraîner. Ta compétence Corps-à-corps augmente de 5%.}
-{951}{}{Le rataupe combattant succombe à un coup fatal.}
-{952}{}{Le match est terminé.}
-{953}{}{Tu prends du temps pour t'entraîner.}
-{954}{}{Tu mets tes lunettes à vision nocturne.}
-{955}{}{Tu enlèves tes lunettes à vision nocturne.}
+{950}{}{Tu prends du temps pour t'entraÃ®ner. Ta compÃ©tence Corps-Ã -corps augmente de 5%.}
+{951}{}{Le rataupe combattant succombe Ã  un coup fatal.}
+{952}{}{Le match est terminÃ©.}
+{953}{}{Tu prends du temps pour t'entraÃ®ner.}
+{954}{}{Tu mets tes lunettes Ã  vision nocturne.}
+{955}{}{Tu enlÃ¨ves tes lunettes Ã  vision nocturne.}
 {956}{}{You learn nothing new.}
 {957}{}{Tu apprends beaucoup sur le maniement des armes lourdes.}
-{958}{}{Tu apprends beaucoup sur le maniement des armes à énergie.}
-{959}{}{Tu apprends beaucoup sur les techniques médicales.}
+{958}{}{Tu apprends beaucoup sur le maniement des armes Ã  Ã©nergie.}
+{959}{}{Tu apprends beaucoup sur les techniques mÃ©dicales.}
 {960}{}{Tu apprends beaucoup sur le crochetage.}
 {961}{}{Tu apprends beaucoup sur les sciences et la technologie.}
-{962}{}{Tu apprends beaucoup sur les pièges et les explosifs.}
-{963}{}{Tu augmentes tes compétences relationnelles.}
+{962}{}{Tu apprends beaucoup sur les piÃ¨ges et les explosifs.}
+{963}{}{Tu augmentes tes compÃ©tences relationnelles.}
 {964}{}{Tu apprends beaucoup sur le troc.}
-{965}{}{Tu n'as pas l'intelligence nécessaire pour comprendre cet ouvrage.}
-{966}{}{Cet ouvrage est trop avancé pour tes connaissances sur le sujet.}
+{965}{}{Tu n'as pas l'intelligence nÃ©cessaire pour comprendre cet ouvrage.}
+{966}{}{Cet ouvrage est trop avancÃ© pour tes connaissances sur le sujet.}
 {967}{}{Tu gagnes de nouveaux talents par l'apprentissage continu.}
 {968}{}{Ton vocabulaire s'enrichit.}
-{969}{}{Ton éloquence s'améliore.}
+{969}{}{Ton Ã©loquence s'amÃ©liore.}
 {970}{}{Tu apprends beaucoup sur les techniques de survie.}
-{971}{}{Tu apprends beaucoup sur les technologies avancées.}
-{1003}{}{Tu désactives le champ de force.}
+{971}{}{Tu apprends beaucoup sur les technologies avancÃ©es.}
+{1003}{}{Tu dÃ©sactives le champ de force.}
 {1004}{}{Tu pirates l'ordinateur.}
 {1012}{}{ALERTE ! FUSION COMPLETE DU REACTEUR !}
-{1013}{}{ALERTE ! Toxines rejetées dans les conduits d'aération !}
-{1050}{}{Tu fabriques un antidote à partir de la toxine prélevée sur le radscorpion.}
-{2000}{}{zéro}
+{1013}{}{ALERTE ! Toxines rejetÃ©es dans les conduits d'aÃ©ration !}
+{1050}{}{Tu fabriques un antidote Ã  partir de la toxine prÃ©levÃ©e sur le radscorpion.}
+{2000}{}{zÃ©ro}
 {2001}{}{un}
 {2002}{}{deux}
 {2003}{}{trois}
@@ -172,29 +172,29 @@
 {2100}{}{cent}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{Si tu recommences ça, je te tue.}
-{3051}{}{Y'a rien à voler, abruti.}
+{3050}{}{Si tu recommences Ã§a, je te tue.}
+{3051}{}{Y'a rien Ã  voler, abruti.}
 {3052}{}{Je crois pas qu'on se connaisse "suffisament" bien.}
-{3053}{}{Touche ça encore une fois et tu vas le payer.}
+{3053}{}{Touche Ã§a encore une fois et tu vas le payer.}
 {3054}{}{Me touche pas !}
-{3055}{}{Fais encore ça et je te coupe la tête.}
+{3055}{}{Fais encore Ã§a et je te coupe la tÃªte.}
 {3056}{}{Bas les pattes !}
 {3057}{}{Tu cherches les ennuis ?}
 {3058}{}{Touche moi encore et t'es mort.}
 {3059}{}{Seuls les ennuis sont gratuits.}
-{3060}{}{Dégage !}
+{3060}{}{DÃ©gage !}
 {3061}{}{Attention !}
-{3062}{}{Tu cherches à mourir ?}
-{3063}{}{T'essaie encore ça et je t'éclate la tête !}
-{3064}{}{C'est à moi : bas les pattes !}
+{3062}{}{Tu cherches Ã  mourir ?}
+{3063}{}{T'essaie encore Ã§a et je t'Ã©clate la tÃªte !}
+{3064}{}{C'est Ã  moi : bas les pattes !}
 {3075}{}{}
 {3100}{}{ a rejoins le groupe }
-{3101}{}{ a quitté le groupe }
+{3101}{}{ a quittÃ© le groupe }
 {3300}{}{}
-{3325}{}{Pourquoi tu remettrais pas tout ça où tu l'as pris ?}
+{3325}{}{Pourquoi tu remettrais pas tout Ã§a oÃ¹ tu l'as pris ?}
 {3326}{}{C'est pas bien de prendre ce qui t'appartiens pas !}
-{3327}{}{Tire-toi de là, minable !}
-{3328}{}{Et viens pas me dire que "tu cherches tes clés". Barre-toi !}
+{3327}{}{Tire-toi de lÃ , minable !}
+{3328}{}{Et viens pas me dire que "tu cherches tes clÃ©s". Barre-toi !}
 {3329}{}{Quoique tu cherches, c'est pas ici. Compris ?}
 {3350}{}{}
 {3375}{}{}
@@ -262,10 +262,10 @@
 {3520}{}{Chest}
 {3521}{}{Give Item}
 {3600}{}{}
-{3625}{}{Hé, toi ! Qu'est-ce que tu farfouilles comme ça ?}
-{3626}{}{Si t'as pas une clé dans ta main, tu ferais mieux de partir d'ici.}
-{3627}{}{C'est pas fermé par hasard, minable !}
-{3628}{}{Referme ça avant de t'attirer des problèmes !}
+{3625}{}{HÃ©, toi ! Qu'est-ce que tu farfouilles comme Ã§a ?}
+{3626}{}{Si t'as pas une clÃ© dans ta main, tu ferais mieux de partir d'ici.}
+{3627}{}{C'est pas fermÃ© par hasard, minable !}
+{3628}{}{Referme Ã§a avant de t'attirer des problÃ¨mes !}
 {3650}{}{}
 {3675}{}{}
 {3700}{}{Changer le FRM de la cible}
@@ -275,14 +275,14 @@
 {3704}{}{Tenue de l'Abri 13 [F]}
 {3705}{}{Armure en cuir [F]}
 {3706}{}{Mad Max [F]}
-{3707}{}{Armure de métal [F]}
+{3707}{}{Armure de mÃ©tal [F]}
 {3708}{}{Tenue de l'Abri 13 [MB]}
-{3709}{}{Armure de métal [MB]}
+{3709}{}{Armure de mÃ©tal [MB]}
 {3710}{}{Armure de combat [M]}
 {3711}{}{Tenue de l'Abri 13 [M]}
 {3712}{}{Armure en cuir [M]}
 {3713}{}{Mad Max [M]}
-{3714}{}{Armure de métal [M]}
+{3714}{}{Armure de mÃ©tal [M]}
 {3715}{}{Brahmine}
 {3716}{}{Dog}
 {3717}{}{M. Handy}
@@ -290,7 +290,7 @@
 {3719}{}{Rataupe}
 {3720}{}{Cuir noir [SM]}
 {3721}{}{Mutant vert}
-{3722}{}{Radscorpion géant}
+{3722}{}{Radscorpion gÃ©ant}
 {3723}{}{Floater}
 {3724}{}{Rat}
 {3725}{}{Centaure}
@@ -302,7 +302,7 @@
 {3731}{}{Moine}
 {3732}{}{Blonde}
 {3733}{}{Punk}
-{3734}{}{Armure de métal [F pantalons jaunes]}
+{3734}{}{Armure de mÃ©tal [F pantalons jaunes]}
 {3735}{}{Tandi}
 {3736}{}{Salope}
 {3737}{}{Tenue de l'Abri 13 [F cheveux rouge]}
@@ -339,29 +339,29 @@
 {3802}{}{[EXIT]}
 {3803}{}{Entrer le PID de l'objet [format : 0000] }
 {3804}{}{Premier nombre [1000]}
-{3805}{}{Deuxième nombre [100]}
-{3806}{}{Troisième nombre [10] }
-{3807}{}{Quatrième nombre [1] }
+{3805}{}{DeuxiÃ¨me nombre [100]}
+{3806}{}{TroisiÃ¨me nombre [10] }
+{3807}{}{QuatriÃ¨me nombre [1] }
 {3808}{}{PID: }
 {3809}{}{Nom de l'objet : }
 {3810}{}{Objet invalide}
 {3900}{}{}
-{3925}{}{Hé toi ! Que fais tu là ?}
-{3926}{}{T'es pas censé être ici !}
-{3927}{}{Si tu penses pouvoir venir vers moi comme ça, tu te trompes !}
-{3928}{}{Tu ferais mieux de pas être en train de faire ce que je crois que tu fais, étranger.}
+{3925}{}{HÃ© toi ! Que fais tu lÃ  ?}
+{3926}{}{T'es pas censÃ© Ãªtre ici !}
+{3927}{}{Si tu penses pouvoir venir vers moi comme Ã§a, tu te trompes !}
+{3928}{}{Tu ferais mieux de pas Ãªtre en train de faire ce que je crois que tu fais, Ã©tranger.}
 {3929}{}{Et tu pensais que je te remarquerais pas ? Fous le camp !}
 {3950}{}{}
 {3975}{}{}
-{4000}{}{Vérifier les seuils et résistances aux dégâts.}
+{4000}{}{VÃ©rifier les seuils et rÃ©sistances aux dÃ©gÃ¢ts.}
 {4001}{}{%}
-{4002}{}{ a été soigné.}
-{4003}{}{La jambe gauche estropiée a été soigné.}
-{4004}{}{La jambe droite estropiée a été soigné.}
-{4005}{}{Le bras gauche estropié a été soigné.}
-{4006}{}{Le bras droit estropié a été soigné.}
-{4007}{}{L’œil mutilé a été soigné}
-{4008}{}{ n'est pas blessé.}
+{4002}{}{ a Ã©tÃ© soignÃ©.}
+{4003}{}{La jambe gauche estropiÃ©e a Ã©tÃ© soignÃ©.}
+{4004}{}{La jambe droite estropiÃ©e a Ã©tÃ© soignÃ©.}
+{4005}{}{Le bras gauche estropiÃ© a Ã©tÃ© soignÃ©.}
+{4006}{}{Le bras droit estropiÃ© a Ã©tÃ© soignÃ©.}
+{4007}{}{Lâ€™Å“il mutilÃ© a Ã©tÃ© soignÃ©}
+{4008}{}{ n'est pas blessÃ©.}
 {4010}{}{SEUILS ET RESISTANCES}
 {4011}{}{/}
 {4012}{}{--}
@@ -369,12 +369,12 @@
 {4101}{}{Laser : }
 {4102}{}{Feu : }
 {4103}{}{Plasma : }
-{4104}{}{Electricité : }
+{4104}{}{ElectricitÃ© : }
 {4105}{}{EMP : }
 {4106}{}{Explosion : }
 {4107}{}{Radiation : }
 {4108}{}{Poison : }
-{4109}{}{ semble en bonne santé.}
+{4109}{}{ semble en bonne santÃ©.}
 {4200}{}{}
 {4225}{}{}
 {4250}{}{}
@@ -398,12 +398,12 @@
 {5201}{}{Do you wish to continue playing Fallout Fixt with this character?}
 {5202}{}{No.  (END GAME: Play final movie sequence & credits, then exit to main menu.)}
 {5203}{}{Yes.  (CONTINUE PLAYING: This dialog window will close and you'll stay on this map. Play continues normally.)}
-{5400}{}{Reste loin de là.}
-{9000}{}{Réparation terminée.}
-{9001}{}{Réarmement terminé.}
-{9002}{}{Réparation des dégâts en cours.}
-{9003}{}{Aucun dégât détecté.}
-{9004}{}{Fonction de réparation.}
+{5400}{}{Reste loin de lÃ .}
+{9000}{}{RÃ©paration terminÃ©e.}
+{9001}{}{RÃ©armement terminÃ©.}
+{9002}{}{RÃ©paration des dÃ©gÃ¢ts en cours.}
+{9003}{}{Aucun dÃ©gÃ¢t dÃ©tectÃ©.}
+{9004}{}{Fonction de rÃ©paration.}
 {9005}{}{Entrer commande.}
 {9006}{}{Surveille cet endroit.}
 {9007}{}{Initialiser fonction de sentinelle.}
@@ -417,21 +417,21 @@
 {9015}{}{Munition.}
 {9016}{}{5 mm JHP}
 {9017}{}{5mm AP}
-{9018}{}{Cellule énergétique.}
-{9019}{}{M. Handy est programmé au maniement des armes lourdes et à énergie.}
+{9018}{}{Cellule Ã©nergÃ©tique.}
+{9019}{}{M. Handy est programmÃ© au maniement des armes lourdes et Ã  Ã©nergie.}
 {10000}{}{Dis-moi quelque chose.}
 {10001}{}{Tu devrais te soigner maintenant.}
-{10002}{}{J'ai besoin que tu attendes jusqu'à mon retour.}
-{10003}{}{Lâche ton arme.}
-{10004}{}{Reste près de moi.}
+{10002}{}{J'ai besoin que tu attendes jusqu'Ã  mon retour.}
+{10003}{}{LÃ¢che ton arme.}
+{10004}{}{Reste prÃ¨s de moi.}
 {10005}{}{Ne pars pas trop loin de moi.}
-{10006}{}{On devrait s'écarter un peu.}
+{10006}{}{On devrait s'Ã©carter un peu.}
 {10007}{}{C'est tout pour l'instant.}
 {10008}{}{Il faut modifier la distance entre nous.}
-{10009}{}{Il faut que je te parle de ton équipement.}
+{10009}{}{Il faut que je te parle de ton Ã©quipement.}
 {10010}{}{En fait, je pense que la distance est bonne.}
-{10011}{}{J'ai rien besoin de savoir à propos de ton équipement.}
-{10012}{}{Enlève l'armure que tu portes.}
+{10011}{}{J'ai rien besoin de savoir Ã  propos de ton Ã©quipement.}
+{10012}{}{EnlÃ¨ve l'armure que tu portes.}
 {10013}{}{J'ai besoin de savoir quel type d'arme tu sais manier.}
 {10100}{}{Allons-y.}
 {21020}{}{vingt}

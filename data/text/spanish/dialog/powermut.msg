@@ -1,2 +1,2 @@
-{100}{}{Nadie entra en la habitación.}
-{101}{}{Estás viendo a un mutante con el cráneo extrañamente pequeño.}
+{100}{}{Nadie entra en la habitaciÃ³n.}
+{101}{}{EstÃ¡s viendo a un mutante con el crÃ¡neo extraÃ±amente pequeÃ±o.}

@@ -159,9 +159,9 @@
 {8000}{}{First Aid Book}
 {8001}{}{A study book on the concepts and practical use of First Aid skills. Much of the information is pre-War, however it is still applicable to most in-the-field practices and skills.}
 {8100}{}{Iguana-on-a-stick}
-{8101}{}{Gebratener Leguan, in der Haut geröstet.}
+{8101}{}{Gebratener Leguan, in der Haut gerÃ¶stet.}
 {8200}{}{Key}
-{8201}{}{Ein Schlüssel. Mit einem Schlüssel wird ein bestimmtes Schloss geöffnet.}
+{8201}{}{Ein SchlÃ¼ssel. Mit einem SchlÃ¼ssel wird ein bestimmtes Schloss geÃ¶ffnet.}
 {8300}{}{Key Ring}
 {8301}{}{Multiple keys.}
 {8400}{}{Lock Picks}
@@ -197,7 +197,7 @@
 {9900}{}{Gold Locket}
 {9901}{}{A valuable gold locket.}
 {10000}{}{Radio}
-{10001}{}{Funkgerät vom Modell 2043B von Wattz Electronics. Verlässlich, robust und unauffällig. Mit optionaler RS 121-Schnittstelle.}
+{10001}{}{FunkgerÃ¤t vom Modell 2043B von Wattz Electronics. VerlÃ¤sslich, robust und unauffÃ¤llig. Mit optionaler RS 121-Schnittstelle.}
 {10100}{}{Lighter}
 {10101}{}{A silver butane lighter, in good condition.}
 {10200}{}{Guns and Bullets}
@@ -425,7 +425,7 @@
 {21300}{}{Remains of Gizmo}
 {21301}{}{Gizmo, former crime boss of Junktown, is dead. And pretty stinky, too.}
 {21400}{}{Desk}
-{21401}{}{Ein Schreibtisch. Nach näherer Untersuchung entscheidest du, dass es immer noch ein Schreibtisch ist.}
+{21401}{}{Ein Schreibtisch. Nach nÃ¤herer Untersuchung entscheidest du, dass es immer noch ein Schreibtisch ist.}
 {21500}{}{Brotherhood History}
 {21501}{}{A holodisk containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
 {21600}{}{Maxson's History}

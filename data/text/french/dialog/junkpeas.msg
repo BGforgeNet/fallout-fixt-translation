@@ -1,4 +1,4 @@
-{101}{}{J'ai beaucoup à faire. Laisse-moi tranquille.}
-{102}{}{Où ai-je bien pu mettre ça...}
+{101}{}{J'ai beaucoup Ã  faire. Laisse-moi tranquille.}
+{102}{}{OÃ¹ ai-je bien pu mettre Ã§a...}
 {103}{}{Que fais-tu ici ?}
-{104}{}{Tu ne trouves pas que Dépôtville est un spectacle à réjouir le coeur ?}
+{104}{}{Tu ne trouves pas que DÃ©pÃ´tville est un spectacle Ã  rÃ©jouir le coeur ?}

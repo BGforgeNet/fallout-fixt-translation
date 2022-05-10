@@ -1,5 +1,5 @@
 {100}{}{Este ordenador purifica el agua del Refugio.}
-{101}{}{El ordenador del agua no sirve para nada sin el chip que controla la purificación y este chip no se puede reparar. Necesitarás un repuesto.}
-{102}{}{Jugueteas con el ordenador, pero en realidad no descubres nada más.}
-{103}{}{Hay un montón de luces intermitentes en esta cosa.}
+{101}{}{El ordenador del agua no sirve para nada sin el chip que controla la purificaciÃ³n y este chip no se puede reparar. NecesitarÃ¡s un repuesto.}
+{102}{}{Jugueteas con el ordenador, pero en realidad no descubres nada mÃ¡s.}
+{103}{}{Hay un montÃ³n de luces intermitentes en esta cosa.}
 {104}{}{Con el chip de recambio, parece que el ordenador funciona bien.}

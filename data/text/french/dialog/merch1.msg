@@ -1,41 +1,41 @@
-{100}{}{Voici Méphisto, un marchand en colère.}
-{101}{}{Voici un marchand appelé Harms.}
-{102}{}{Voici un marchand énervé appelé Fowler.}
-{103}{}{Voici Dixon, un marchand en colère.}
+{100}{}{Voici MÃ©phisto, un marchand en colÃ¨re.}
+{101}{}{Voici un marchand appelÃ© Harms.}
+{102}{}{Voici un marchand Ã©nervÃ© appelÃ© Fowler.}
+{103}{}{Voici Dixon, un marchand en colÃ¨re.}
 {104}{}{Voici Morgan, un marchand.}
-{105}{}{Voici Marco, un marchand en colère.}
+{105}{}{Voici Marco, un marchand en colÃ¨re.}
 {106}{}{Voici Kjolnir, un marchand.}
 {107}{}{Voici Marzen, un marchand.}
-{108}{}{Voici Joshua, un marchand énervé.}
+{108}{}{Voici Joshua, un marchand Ã©nervÃ©.}
 {109}{}{Voici Anthony, un marchand.}
 {110}{}{Voici Clark, un marchand.}
-{111}{}{Voici Malantic, un marchand énervé.}
+{111}{}{Voici Malantic, un marchand Ã©nervÃ©.}
 {112}{}{Voici Orlando, un marchand.}
-{113}{}{Voici un marchand appelé Ilya.}
-{114}{}{Voici Tracy, un marchand énervé.}
-{115}{}{Peux-tu croire à ce chaos ?}
+{113}{}{Voici un marchand appelÃ© Ilya.}
+{114}{}{Voici Tracy, un marchand Ã©nervÃ©.}
+{115}{}{Peux-tu croire Ã  ce chaos ?}
 {116}{}{En rang !}
 {117}{}{Tu n'es pas d'ici.}
-{118}{}{Ta caravane a-t-elle aussi été retardée ?}
+{118}{}{Ta caravane a-t-elle aussi Ã©tÃ© retardÃ©e ?}
 {119}{}{Bonne chance.}
 {120}{}{Tu as vu Hightower ?}
-{121}{}{J'irais voir les Marchands du Lointain si j'étais toi.}
-{122}{}{Tu cherches le Grand Marchand ? Là voilà.}
-{123}{}{Si ma cargaison ne part pas d'ici peu, ça va me coûter cher.}
-{124}{}{Martha est juste là.}
+{121}{}{J'irais voir les Marchands du Lointain si j'Ã©tais toi.}
+{122}{}{Tu cherches le Grand Marchand ? LÃ  voilÃ .}
+{123}{}{Si ma cargaison ne part pas d'ici peu, Ã§a va me coÃ»ter cher.}
+{124}{}{Martha est juste lÃ .}
 {125}{}{Tu n'es pas un marchand, fiche le camp.}
-{126}{}{Les quartiers des gardes se trouvent de l'autre côté.}
+{126}{}{Les quartiers des gardes se trouvent de l'autre cÃ´tÃ©.}
 {127}{}{Je ne te donnerai pas d'argent, alors va-t-en.}
 {128}{}{Ma cargaison ne partira jamais.}
 {129}{}{Il est hors de question que tu t'installes sur mon territoire.}
 {130}{}{Pourquoi ma cargaison n'est-elle pas encore partie ?}
-{131}{}{Où sont mes réserves ?}
+{131}{}{OÃ¹ sont mes rÃ©serves ?}
 {132}{}{Tes prix sont incroyables !}
-{133}{}{Où est Hightower ?}
-{134}{}{Je crois que j'ai la priorité !}
+{133}{}{OÃ¹ est Hightower ?}
+{134}{}{Je crois que j'ai la prioritÃ© !}
 {135}{}{Ma cargaison a deux semaines de retard !}
-{136}{}{Je veux récupérer mon argent !}
-{137}{}{Je veux parler à Hightower.}
+{136}{}{Je veux rÃ©cupÃ©rer mon argent !}
+{137}{}{Je veux parler Ã  Hightower.}
 {138}{}{Je ferai affaire avec la Caravane Ecarlate.}
 {139}{}{Qu'est-ce qui ne va pas ?}
 {140}{}{J'en ai assez d'attendre !}

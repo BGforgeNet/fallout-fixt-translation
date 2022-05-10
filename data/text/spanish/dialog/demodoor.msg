@@ -1,9 +1,9 @@
 {100}{}{Has conseguido abrir la nevera.}
 {101}{}{Tienes problemas con la cerradura.}
-{102}{}{Est·s viendo una nevera. Est· cerrada con llave.}
-{103}{}{Est·s viendo una nevera. Est· abierta.}
-{104}{}{Est·s viendo una nevera. Est· cerrada.}
-{105}{}{La puerta est· cerrada con llave.}
+{102}{}{Est√°s viendo una nevera. Est√° cerrada con llave.}
+{103}{}{Est√°s viendo una nevera. Est√° abierta.}
+{104}{}{Est√°s viendo una nevera. Est√° cerrada.}
+{105}{}{La puerta est√° cerrada con llave.}
 {106}{}{Eso no hace nada.}
-{107}{}{Ya est· abierta.}
-{108}{}{Est·s viendo una nevera.}
+{107}{}{Ya est√° abierta.}
+{108}{}{Est√°s viendo una nevera.}

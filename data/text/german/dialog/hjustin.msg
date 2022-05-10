@@ -27,7 +27,7 @@
 {126}{}{I'm really sorry to hear that. If you change your mind, let me know, but I can't wait very long.}
 {127}{}{Okay, I'll do it. Just wait for me to get some supplies.}
 {128}{}{You're mad.}
-{129}{}{Tschüss.}
+{129}{}{TschÃ¼ss.}
 {130}{}{Great! Let me know when you're ready. We'll wait for you, but don't take too long.}
 {131}{}{What? Do you expect me to stand around and let him kill innocent people? I've a responsibility to this city, which I don't expect you to understand.}
 {132}{}{You're right. Now's it's your turn.}

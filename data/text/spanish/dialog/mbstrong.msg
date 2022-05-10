@@ -4,11 +4,11 @@
 {103}{}{Apagado}
 {104}{}{Tiempo restante:  }
 {105}{}{ segundos.}
-{106}{}{Es aquí donde deberías darte por muerto.}
+{106}{}{Es aquÃ­ donde deberÃ­as darte por muerto.}
 {107}{}{Encendido}
 {108}{}{Tiempo restante:  }
 {109}{}{ segundos.}
-{110}{}{Es aquí donde deberías darte por muerto.}
+{110}{}{Es aquÃ­ donde deberÃ­as darte por muerto.}
 {111}{}{Tiempo restante:  }
 {112}{}{ segundos.}
-{113}{}{Es aquí donde deberías darte por muerto.}
+{113}{}{Es aquÃ­ donde deberÃ­as darte por muerto.}

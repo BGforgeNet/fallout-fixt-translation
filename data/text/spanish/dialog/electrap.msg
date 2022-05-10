@@ -1,2 +1,2 @@
-{100}{}{La parte del suelo m·s prÛxima a ti est· electrificada.}
-{101}{}{Ya no est· electrificada una parte del suelo.}
+{100}{}{La parte del suelo m√°s pr√≥xima a ti est√° electrificada.}
+{101}{}{Ya no est√° electrificada una parte del suelo.}

@@ -1,2 +1,2 @@
-{100}{}{Un gros réfrigérateur de l'armée.}
-{101}{}{Sur le réfrigérateur, un papier jauni porte l'inscription : FBI, Projets Spéciaux, Classé : Terminal Sécurité.}
+{100}{}{Un gros rÃ©frigÃ©rateur de l'armÃ©e.}
+{101}{}{Sur le rÃ©frigÃ©rateur, un papier jauni porte l'inscription : FBI, Projets SpÃ©ciaux, ClassÃ© : Terminal SÃ©curitÃ©.}

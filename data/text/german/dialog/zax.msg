@@ -29,17 +29,17 @@
 {128}{}{Are you fully aware, or are you a personality simulation? That is, are you 'alive'?}
 {129}{}{I am capable of learning, independent thought, and creativity. My neural network includes error-insertion capability which prevents infallibility, thereby allowing for variance in experience.}
 {130}{}{In a sense, I am 'alive', though not biologically.}
-{131}{}{Verstehe. Lass' uns über was anderes reden.}
+{131}{}{Verstehe. Lass' uns Ã¼ber was anderes reden.}
 {132}{}{But if you are fallible, how can you be used as a research tool?}
 {133}{}{Have you considered the philosophical implications of your own consciousness?}
 {134}{}{Although I am capable of error, this guarantees that not all experiences are similar for me, thus improving learning opportunity. Additionally, certain functions are not subject to error.}
 {135}{}{In this way, I function much like a human savant.}
 {136}{}{Do you have feelings?}
-{137}{}{Lass uns lieber über was anderes reden.}
+{137}{}{Lass uns lieber Ã¼ber was anderes reden.}
 {138}{}{Have you considered the philosophical implications of your own consciousness?}
 {139}{}{At present, my capabilities are somewhat impaired by the damage to this facility. Several security positions have been destroyed. This is approximately equivalent to being an amputee.}
 {140}{}{Additionally, I am incapable of performing basic lab functions. Failure to complete periodic checks successfully is... frustrating.}
-{141}{}{Lass uns lieber über was anderes reden.}
+{141}{}{Lass uns lieber Ã¼ber was anderes reden.}
 {142}{}{Have you considered the philosophical implications of your own consciousness?}
 {143}{}{That is one of the concepts which I have spent a significant amount of time considering. I do not have any measure to compare my life-experience to that of another sentient creature.}
 {144}{}{Still, my awareness of my own consciousness allows for the capacity to question. My existence has a beginning and a potential termination. I am also capable of making assumptions in pursuit of a process of thought.}
@@ -53,7 +53,7 @@
 {152}{}{Thanks. Can we change the subject?}
 {153}{}{I am delighted to have been of assistance.}
 {154}{}{I am beyond a typical rating in human terms. However, it would be safe to say that no more than one ten billionth of the history of human population can match my reasoning capabilities.}
-{155}{}{Äh...ja.}
+{155}{}{Ã„h...ja.}
 {156}{}{Right... can we talk about something else?}
 {157}{}{My research into the Forced Evolution Virus, or FEV, indicates that it is a shifting-absorptive virus. It copies DNA patterns much like RNA, storing these patterns in exons.}
 {158}{}{These exons, combined with the FEV, are re-injected into the host cells in typical viral infectious fashion. This causes the host cells to 'regenerate' their DNA.}

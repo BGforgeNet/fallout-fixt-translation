@@ -2,61 +2,61 @@
 {101}{}{Au revoir.}
 {102}{}{Bonjour.}
 {103}{}{Tu gagnes }
-{104}{}{ points d'expérience.}
+{104}{}{ points d'expÃ©rience.}
 {105}{}{Oh oh !}
 {106}{}{Clic !}
 {107}{}{Houp !}
 {108}{}{Ouch!}
 {109}{}{A un de ces quatre.}
 {110}{}{Mollo !}
-{111}{}{C'était marrant.}
-{112}{}{Voilà.}
-{113}{}{Et avec ça ?}
+{111}{}{C'Ã©tait marrant.}
+{112}{}{VoilÃ .}
+{113}{}{Et avec Ã§a ?}
 {114}{}{Oui.}
 {115}{}{Non.}
 {116}{}{Tu gagnes }
-{117}{}{ points compétence en Armes légères.}
-{118}{}{ points compétence en Armes lourdes.}
-{119}{}{ points compétence en Armes à énergie.}
-{120}{}{ points de compétence en Corps-à-corps.}
-{121}{}{ points de compétence en Armes de mêlée.}
-{122}{}{ points de compétence en Projectiles.}
-{123}{}{ points de compétence en Secourisme.}
-{124}{}{ points de compétence en Médecine.}
-{125}{}{ points de compétence en Furtivité.}
-{126}{}{ points de compétence en Vol.}
-{127}{}{ points de compétence en Crochetage.}
-{128}{}{ points de compétence en Pièges.}
-{129}{}{ points de compétence en science.}
-{130}{}{ points de compétence en Réparation.}
-{131}{}{ points de compétence en Discours.}
-{132}{}{ points de compétence en Troc.}
-{133}{}{ points de compétence en Jeu.}
-{134}{}{ points de compétence en Vie en plein air.}
-{135}{}{Tu gagnes un point de compétence en Armes légères.}
-{136}{}{Tu gagnes un point de compétence en Armes lourdes.}
-{137}{}{Tu gagnes un point de compétence en Armes à énergie.}
-{138}{}{Tu gagnes un point de compétence en Corps-à-corps.}
-{139}{}{Tu gagnes un point de compétence en Armes de mêlée.}
-{140}{}{Tu gagnes un point de compétence en Projectiles.}
-{141}{}{Tu gagnes un point de compétence en Secourisme.}
-{142}{}{Tu gagnes un point de compétence en Médecine.}
-{143}{}{Tu gagnes un point de compétence en Furtivité.}
-{144}{}{Tu gagnes un point de compétence en Vol.}
-{145}{}{Tu gagnes un point de compétence en Crochetage.}
-{146}{}{Tu gagnes un point de compétence en Pièges.}
-{147}{}{Tu gagnes un point de compétence en Science.}
-{148}{}{Tu gagnes un point de compétence en Réparation.}
-{149}{}{Tu gagnes un point de compétence en Discours.}
-{150}{}{Tu gagnes un point de compétence en Troc.}
-{151}{}{Tu gagnes un point de compétence en Jeu.}
-{152}{}{Tu gagnes un point de compétence en vie en Plein air.}
+{117}{}{ points compÃ©tence en Armes lÃ©gÃ¨res.}
+{118}{}{ points compÃ©tence en Armes lourdes.}
+{119}{}{ points compÃ©tence en Armes Ã  Ã©nergie.}
+{120}{}{ points de compÃ©tence en Corps-Ã -corps.}
+{121}{}{ points de compÃ©tence en Armes de mÃªlÃ©e.}
+{122}{}{ points de compÃ©tence en Projectiles.}
+{123}{}{ points de compÃ©tence en Secourisme.}
+{124}{}{ points de compÃ©tence en MÃ©decine.}
+{125}{}{ points de compÃ©tence en FurtivitÃ©.}
+{126}{}{ points de compÃ©tence en Vol.}
+{127}{}{ points de compÃ©tence en Crochetage.}
+{128}{}{ points de compÃ©tence en PiÃ¨ges.}
+{129}{}{ points de compÃ©tence en science.}
+{130}{}{ points de compÃ©tence en RÃ©paration.}
+{131}{}{ points de compÃ©tence en Discours.}
+{132}{}{ points de compÃ©tence en Troc.}
+{133}{}{ points de compÃ©tence en Jeu.}
+{134}{}{ points de compÃ©tence en Vie en plein air.}
+{135}{}{Tu gagnes un point de compÃ©tence en Armes lÃ©gÃ¨res.}
+{136}{}{Tu gagnes un point de compÃ©tence en Armes lourdes.}
+{137}{}{Tu gagnes un point de compÃ©tence en Armes Ã  Ã©nergie.}
+{138}{}{Tu gagnes un point de compÃ©tence en Corps-Ã -corps.}
+{139}{}{Tu gagnes un point de compÃ©tence en Armes de mÃªlÃ©e.}
+{140}{}{Tu gagnes un point de compÃ©tence en Projectiles.}
+{141}{}{Tu gagnes un point de compÃ©tence en Secourisme.}
+{142}{}{Tu gagnes un point de compÃ©tence en MÃ©decine.}
+{143}{}{Tu gagnes un point de compÃ©tence en FurtivitÃ©.}
+{144}{}{Tu gagnes un point de compÃ©tence en Vol.}
+{145}{}{Tu gagnes un point de compÃ©tence en Crochetage.}
+{146}{}{Tu gagnes un point de compÃ©tence en PiÃ¨ges.}
+{147}{}{Tu gagnes un point de compÃ©tence en Science.}
+{148}{}{Tu gagnes un point de compÃ©tence en RÃ©paration.}
+{149}{}{Tu gagnes un point de compÃ©tence en Discours.}
+{150}{}{Tu gagnes un point de compÃ©tence en Troc.}
+{151}{}{Tu gagnes un point de compÃ©tence en Jeu.}
+{152}{}{Tu gagnes un point de compÃ©tence en vie en Plein air.}
 {153}{}{Ta Force augmente de }
 {154}{}{Ta Perception augmente de }
 {155}{}{Ton Endurance augmente de }
 {156}{}{Ton Charisme augmente de }
 {157}{}{Ton Intelligence augmente de }
-{158}{}{Ton Agilité augmente de }
+{158}{}{Ton AgilitÃ© augmente de }
 {159}{}{Ta Chance augmente de }
 {160}{}{ points.}
 {161}{}{Ta Force augmente d'un point.}
@@ -64,27 +64,27 @@
 {163}{}{Ton Endurance augmente d'un point.}
 {164}{}{Ton Charisme augmente d'un point.}
 {165}{}{Ton Intelligence augmente d'un point.}
-{166}{}{Ton Agilité augmente d'un point.}
+{166}{}{Ton AgilitÃ© augmente d'un point.}
 {167}{}{Ta Chance augmente d'un point.}
 {168}{}{Merci de ton aide.}
-{169}{}{Merci quand même.}
-{170}{}{Votre tentative pour équiper une armure humaine est un échec. L'armure est détruite.}
-{171}{}{Je crois que le Maître souhaite te parler.}
+{169}{}{Merci quand mÃªme.}
+{170}{}{Votre tentative pour Ã©quiper une armure humaine est un Ã©chec. L'armure est dÃ©truite.}
+{171}{}{Je crois que le MaÃ®tre souhaite te parler.}
 {172}{}{Tu paieras pour ce BLASPHEME !}
-{173}{}{Ce robot ne semble pas fonctionner. Peut-être une défaillance au niveau de l'alimentation.}
-{174}{}{Ce robot te semble tout à fait normal.}
+{173}{}{Ce robot ne semble pas fonctionner. Peut-Ãªtre une dÃ©faillance au niveau de l'alimentation.}
+{174}{}{Ce robot te semble tout Ã  fait normal.}
 {175}{}{Cet Ecorcheur refuse de te parler.}
-{176}{}{La valise est scellée et impossible à ouvrir.}
-{177}{}{S'il te plait, nous devons nous dépêcher. Pas le temps de parler.}
-{178}{}{Seul Morpheus a les clés de cette porte. Je dois partir maintenant pour faire savoir à Nicole ce qu'il se passe ici.}
-{179}{}{Je dois quitter cet endroit avant qu'ils ne découvrent qui je suis.}
-{180}{}{Tu ne parviens pas à t'emparer de quoi que ce soit et tu te demandes si tu t'es fait repérer.}
-{181}{}{Les membres de la Confrérie t'ont surpris en train de voler.}
+{176}{}{La valise est scellÃ©e et impossible Ã  ouvrir.}
+{177}{}{S'il te plait, nous devons nous dÃ©pÃªcher. Pas le temps de parler.}
+{178}{}{Seul Morpheus a les clÃ©s de cette porte. Je dois partir maintenant pour faire savoir Ã  Nicole ce qu'il se passe ici.}
+{179}{}{Je dois quitter cet endroit avant qu'ils ne dÃ©couvrent qui je suis.}
+{180}{}{Tu ne parviens pas Ã  t'emparer de quoi que ce soit et tu te demandes si tu t'es fait repÃ©rer.}
+{181}{}{Les membres de la ConfrÃ©rie t'ont surpris en train de voler.}
 {182}{}{You see: Marauding Super Mutant.}
 {183}{}{}
 {184}{}{}
 {185}{}{}
-{186}{}{Le haut-parleur se met à hurler : "Alerte ! Intrus détecté."}
+{186}{}{Le haut-parleur se met Ã  hurler : "Alerte ! Intrus dÃ©tectÃ©."}
 {187}{}{La substance gluante a ralenti la transmission de ta frappe.}
 {188}{}{Metal Armor.}
 {189}{}{Leather Armor.}
@@ -98,9 +98,9 @@
 {197}{}{}
 {198}{}{ He is wearing: }
 {199}{}{ She is wearing: }
-{200}{}{Tu vois un champ émetteur terriblement endommagé.}
-{201}{}{L'émetteur est trop endommagé pour être utilisé.}
-{202}{}{L'émetteur est trop endommagé être réparable.}
+{200}{}{Tu vois un champ Ã©metteur terriblement endommagÃ©.}
+{201}{}{L'Ã©metteur est trop endommagÃ© pour Ãªtre utilisÃ©.}
+{202}{}{L'Ã©metteur est trop endommagÃ© Ãªtre rÃ©parable.}
 {203}{}{Tu remarques que le champ est si faible que tu peux le traverser.}
 {204}{}{SuperArmure.}
 {205}{}{Combat Armor.}
@@ -111,7 +111,7 @@
 {210}{}{Tesla Armor.}
 {211}{}{You cannot steal from this critter.}
 {212}{}{You look at yourself for a while. Do you like what you see?}
-{214}{}{Le poison n'est plus présent dans ton organisme.}
+{214}{}{Le poison n'est plus prÃ©sent dans ton organisme.}
 {215}{}{Thanks, I'll make good use of that in combat!}
 {216}{}{ Walk when close.}
 {217}{}{ Always run.}
@@ -130,9 +130,9 @@
 {295}{}{. }
 {296}{}{ (max).}
 {300}{}{D'accord.}
-{301}{}{% de résistance aux dommages.}
+{301}{}{% de rÃ©sistance aux dommages.}
 {302}{}{Oh, excuse me.}
-{400}{}{L'explosion a affaibli fortement le champ énergétique, le traverser est maintenant inoffensif.}
+{400}{}{L'explosion a affaibli fortement le champ Ã©nergÃ©tique, le traverser est maintenant inoffensif.}
 {401}{}{CONTACT SDUIBEK IF YOU SEE THIS MESSAGE}
 {402}{}{EndGame Mod variables reset. Please try to enter Vault 13 again.}
 {403}{}{You have died. The Vault is doomed.}
@@ -183,11 +183,11 @@
 {448}{}{}
 {449}{}{}
 {450}{}{}
-{500}{}{La porte se moque de toi en résistant à l'explosion, ne recevant que des bosses et des marques de brûlure.}
-{501}{}{La porte se pose des question sur sa capacité à supporter plus de dégât, tandis que le souffle la fait voler en éclat.}
-{502}{}{La porte agonise alors qu'elle éclate en morceaux, s'évaporant dans un bruit assourdissant.}
+{500}{}{La porte se moque de toi en rÃ©sistant Ã  l'explosion, ne recevant que des bosses et des marques de brÃ»lure.}
+{501}{}{La porte se pose des question sur sa capacitÃ© Ã  supporter plus de dÃ©gÃ¢t, tandis que le souffle la fait voler en Ã©clat.}
+{502}{}{La porte agonise alors qu'elle Ã©clate en morceaux, s'Ã©vaporant dans un bruit assourdissant.}
 {503}{}{Tu gagnes }
-{504}{}{ points d'expérience pour avoir utiliser avec succès des explosifs.}
+{504}{}{ points d'expÃ©rience pour avoir utiliser avec succÃ¨s des explosifs.}
 {505}{}{Le souffle n'endommage pratiquement pas la porte. Il va te falloir un second essai.}
 {506}{}{Hmm, that doesn't seem to work.}
 {533}{}{Commander of the Wastes.}
@@ -212,16 +212,16 @@
 {552}{}{, the }
 {553}{}{, a }
 {554}{}{, a }
-{601}{}{Tu n'as rien à faire ici, Initié.}
+{601}{}{Tu n'as rien Ã  faire ici, InitiÃ©.}
 {602}{}{Que fais-tu ici ?}
-{603}{}{Sors, je te prie. Tu n'as rien à faire ici.}
-{604}{}{Hé, pas d'initiés ici.}
-{605}{}{Je regrette mais je ne dois parler à personne. Tu sais ce que c'est.}
-{606}{}{Tu n'as rien à faire ici, mon garçon. Si tu veux consulter, va à la bibliothèque.}
-{607}{}{Tu n'as rien à faire ici, ma fille. Si tu veux consulter, va à la bibliothèque.}
-{700}{}{points d'expérience !}
-{701}{}{points d'expérience pour avoir détruit les Cuves.}
-{702}{}{points d'expérience pour avoir détruit le Maitre.}
+{603}{}{Sors, je te prie. Tu n'as rien Ã  faire ici.}
+{604}{}{HÃ©, pas d'initiÃ©s ici.}
+{605}{}{Je regrette mais je ne dois parler Ã  personne. Tu sais ce que c'est.}
+{606}{}{Tu n'as rien Ã  faire ici, mon garÃ§on. Si tu veux consulter, va Ã  la bibliothÃ¨que.}
+{607}{}{Tu n'as rien Ã  faire ici, ma fille. Si tu veux consulter, va Ã  la bibliothÃ¨que.}
+{700}{}{points d'expÃ©rience !}
+{701}{}{points d'expÃ©rience pour avoir dÃ©truit les Cuves.}
+{702}{}{points d'expÃ©rience pour avoir dÃ©truit le Maitre.}
 {800}{}{Why are you talking to rats?}
 {900}{}{Pip-Boy displays: "VAULT WATER - }
 {901}{}{}

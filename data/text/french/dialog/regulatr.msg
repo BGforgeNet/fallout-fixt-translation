@@ -1,13 +1,13 @@
-{100}{}{Voici un Régulateur, l'un des gardes du Sanctuaire.}
+{100}{}{Voici un RÃ©gulateur, l'un des gardes du Sanctuaire.}
 {101}{}{}
-{102}{}{Tant que tu seras dans le coin, évite de jouer avec tes armes.}
+{102}{}{Tant que tu seras dans le coin, Ã©vite de jouer avec tes armes.}
 {103}{}{Bienvenue au Sanctuaire. Mais attention, nous te surveillerons.}
 {104}{}{Je voudrais entrer.}
 {105}{}{Puis-je te poser quelques questions ?}
 {106}{}{Euhhh...}
-{107}{}{Zimmerman a peut-être quelque chose pour toi. Entre, mais n'oublie pas que nous te surveillons.}
+{107}{}{Zimmerman a peut-Ãªtre quelque chose pour toi. Entre, mais n'oublie pas que nous te surveillons.}
 {108}{}{Tu es de retour ! Tes visites sont toujours les bienvenues.}
-{109}{}{N'as-tu pas un travail à faire ? Reviens ici lorsque ce sera fait.}
+{109}{}{N'as-tu pas un travail Ã  faire ? Reviens ici lorsque ce sera fait.}
 {110}{}{Va-t'en !}
 {111}{}{Que veux-tu cette fois ?}
 {112}{}{Je voudrais entrer.}
@@ -17,24 +17,24 @@
 {116}{}{Non.}
 {117}{}{Que veux-tu savoir ?}
 {118}{}{Que fais-tu ici ?}
-{119}{}{Peux-tu m'en dire plus sur le Cimetière de L.A. ?}
+{119}{}{Peux-tu m'en dire plus sur le CimetiÃ¨re de L.A. ?}
 {120}{}{Comment puis-je entrer ?}
-{121}{}{Que sais-tu sur les Enfants de la Cathédrale et sur les Disciples de l'Apocalypse ?}
+{121}{}{Que sais-tu sur les Enfants de la CathÃ©drale et sur les Disciples de l'Apocalypse ?}
 {122}{}{Rien, merci.}
-{123}{}{Je suis un Régulateur. Notre travail consiste à maintenir la paix au Sanctuaire et à protéger la ville. Notre chef, Caleb, pourra peut-être t'en dire plus.}
-{124}{}{Les Disciples vivent à l'Est d'ici. C'est une bande de pacifistes un peu fous. Plus à l'Est, il y a les Ecorcheurs ; une bande de pauv'types si tu veux mon avis. Au SUd se trouve la Cathédrale, le centre religieux des Enfants.}
-{125}{}{Désolé mais nous devons nous méfier des étrangers. C'est trop dangereux. Peut-être pourrais-tu travailler pour Zimmerman ?}
+{123}{}{Je suis un RÃ©gulateur. Notre travail consiste Ã  maintenir la paix au Sanctuaire et Ã  protÃ©ger la ville. Notre chef, Caleb, pourra peut-Ãªtre t'en dire plus.}
+{124}{}{Les Disciples vivent Ã  l'Est d'ici. C'est une bande de pacifistes un peu fous. Plus Ã  l'Est, il y a les Ecorcheurs ; une bande de pauv'types si tu veux mon avis. Au SUd se trouve la CathÃ©drale, le centre religieux des Enfants.}
+{125}{}{DÃ©solÃ© mais nous devons nous mÃ©fier des Ã©trangers. C'est trop dangereux. Peut-Ãªtre pourrais-tu travailler pour Zimmerman ?}
 {126}{}{Termine ton travail.}
 {127}{}{Tes visites sont toujours les bienvenues !}
-{128}{}{Deux bandes de cinglés. Les Disciples prêchent pour la paix et le bonheur. Ils ne se rendent pas compte que le monde est bien trop dur pour ça.}
-{129}{}{Les Enfants vénèrent une sorte de dieu dans leur Cathédrale, au Sud. Ils ont un hôpital mais ils sont très étranges.}
+{128}{}{Deux bandes de cinglÃ©s. Les Disciples prÃªchent pour la paix et le bonheur. Ils ne se rendent pas compte que le monde est bien trop dur pour Ã§a.}
+{129}{}{Les Enfants vÃ©nÃ¨rent une sorte de dieu dans leur CathÃ©drale, au Sud. Ils ont un hÃ´pital mais ils sont trÃ¨s Ã©tranges.}
 {130}{}{On t'avait dit de ne pas utiliser tes armes !}
-{131}{}{Tant que tu seras ici, je te conseille de laisser tes armes de côté.}
-{132}{}{On n'aime pas les voleurs ici ! Tu vas voir ce qu'on réserve aux gens de ton espèce !}
-{133}{}{[Terminé]}
-{134}{}{Attention à toi.}
+{131}{}{Tant que tu seras ici, je te conseille de laisser tes armes de cÃ´tÃ©.}
+{132}{}{On n'aime pas les voleurs ici ! Tu vas voir ce qu'on rÃ©serve aux gens de ton espÃ¨ce !}
+{133}{}{[TerminÃ©]}
+{134}{}{Attention Ã  toi.}
 {135}{}{Nous te surveillons.}
-{136}{}{Tiens-toi à carreau.}
+{136}{}{Tiens-toi Ã  carreau.}
 {137}{}{Qu'est-ce que tu regardes ?}
 {138}{}{Qu'est-ce que tu veux ?}
 {139}{}{Je suppose que cela signifie qu'on en a fini avec toi.}
@@ -44,27 +44,27 @@
 {1004}{}{Ecorcheurs}
 {1005}{}{Contrebandiers}
 {1006}{}{Centre}
-{1007}{}{Dépôtville}
+{1007}{}{DÃ©pÃ´tville}
 {1008}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1009}{}{Magasin}
 {1010}{}{Zimmerman}
-{1011}{}{Nécropolis}
+{1011}{}{NÃ©cropolis}
 {1012}{}{Rayon}
-{1013}{}{Régulateurs}
+{1013}{}{RÃ©gulateurs}
 {1014}{}{Fouineurs}
-{1015}{}{Cimetière de L.A.}
+{1015}{}{CimetiÃ¨re de L.A.}
 {1100}{}{C'est ici.}
-{1101}{}{Ils vivent à l'Est d'ici.}
+{1101}{}{Ils vivent Ã  l'Est d'ici.}
 {1102}{}{C'est au Sud d'ici.}
 {1104}{}{Ils vivent au Nord d'ici.}
-{1105}{}{Ils se trouvent à l'Est des Ecorcheurs et au Nord des Griffemorts.}
+{1105}{}{Ils se trouvent Ã  l'Est des Ecorcheurs et au Nord des Griffemorts.}
 {1106}{}{Nous faisons du commerce avec eux.}
-{1107}{}{N'est-ce pas une ville située au Nord d'ici ?}
+{1107}{}{N'est-ce pas une ville situÃ©e au Nord d'ici ?}
 {1108}{}{Quoi ?}
-{1109}{}{Le magasin de Tine est souterrain. Il se trouve près de la porte.}
+{1109}{}{Le magasin de Tine est souterrain. Il se trouve prÃ¨s de la porte.}
 {1110}{}{C'est le maire.}
-{1111}{}{J'ai entendu dire que ça se trouvait à l'Est.}
+{1111}{}{J'ai entendu dire que Ã§a se trouvait Ã  l'Est.}
 {1112}{}{C'est un mythe.}
-{1113}{}{Nous protégeons le Sanctuaire.}
-{1114}{}{Ils sortent pour récupérer des trucs.}
-{1115}{}{C'est ici le Cimetière de L.A.}
+{1113}{}{Nous protÃ©geons le Sanctuaire.}
+{1114}{}{Ils sortent pour rÃ©cupÃ©rer des trucs.}
+{1115}{}{C'est ici le CimetiÃ¨re de L.A.}

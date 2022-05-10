@@ -1,19 +1,19 @@
-{100}{}{Ceci ressemble à l'ordinateur de Contrôle de Champ.}
-{101}{}{Il semble être doté d'un émetteur pour la transmission de champs, d'un récepteur pour les commandes à distance et d'un port de communications de données radio standard.}
-{102}{}{Lorsque l'ordinateur de Contrôle de Champ est activé, un ronflement sourd se fait entendre dans tout le complexe.}
+{100}{}{Ceci ressemble Ã  l'ordinateur de ContrÃ´le de Champ.}
+{101}{}{Il semble Ãªtre dotÃ© d'un Ã©metteur pour la transmission de champs, d'un rÃ©cepteur pour les commandes Ã  distance et d'un port de communications de donnÃ©es radio standard.}
+{102}{}{Lorsque l'ordinateur de ContrÃ´le de Champ est activÃ©, un ronflement sourd se fait entendre dans tout le complexe.}
 {103}{}{Tu n'utilises pas correctement l'ordinateur.}
-{104}{}{Tu ne peux pas désactiver l'ordinateur de Contrôle de Champ. Toutes les commandes sont verrouillées et codées.}
-{105}{}{Tu ne comprends pas le système d'exploitation de l'ordinateur.}
-{106}{}{Les sous-systèmes du champ de force ne résistent pas à tes talents. Tu désactives tous les champs de forces de ce niveau.}
-{107}{}{Les sous-systèmes du champ de force sont bien protégés, mais tu parviens à en désactiver la moitié. C'est le mieux que tu puisses faire.}
-{108}{}{Les sous-systèmes du champ de force sont protégés contre toute intrusion électronique. Tu passes un certain temps à y travailler, mais tu ne parviens toujours pas à les désactiver.}
-{109}{}{Tu fais sauter la banque au jeu du 21 et tu entres dans le système principal via l'écran de fin du jeu.}
-{110}{}{Tu joues une partie de 21, mais tu ne parviens pas à faire sauter la banque.}
-{111}{}{Le seul dossier non protégé est le dossier Jeux, qui peut être utilisé comme porte de sortie.}
-{112}{}{Le seul dossier non protégé est le dossier Jeux.}
-{113}{}{Tu regardes l'ordinateur d'un air dégoûté.}
-{114}{}{Tu penses que tous les dossiers sont protégés, mais tes recherches ne sont pas encore terminées.}
-{115}{}{Maintenant que tu as atteint le système principal, tu dois reprogrammer les commandes du champ de force.}
-{116}{}{points d'expérience pour tes procédures de piratage informatique insolites. Quine !}
-{117}{}{Tu connectes la radio à l'ordinateur de contrôle de champ de force.}
-{118}{}{Ta tentative de connexion de la radio à l'ordinateur échoue.}
+{104}{}{Tu ne peux pas dÃ©sactiver l'ordinateur de ContrÃ´le de Champ. Toutes les commandes sont verrouillÃ©es et codÃ©es.}
+{105}{}{Tu ne comprends pas le systÃ¨me d'exploitation de l'ordinateur.}
+{106}{}{Les sous-systÃ¨mes du champ de force ne rÃ©sistent pas Ã  tes talents. Tu dÃ©sactives tous les champs de forces de ce niveau.}
+{107}{}{Les sous-systÃ¨mes du champ de force sont bien protÃ©gÃ©s, mais tu parviens Ã  en dÃ©sactiver la moitiÃ©. C'est le mieux que tu puisses faire.}
+{108}{}{Les sous-systÃ¨mes du champ de force sont protÃ©gÃ©s contre toute intrusion Ã©lectronique. Tu passes un certain temps Ã  y travailler, mais tu ne parviens toujours pas Ã  les dÃ©sactiver.}
+{109}{}{Tu fais sauter la banque au jeu du 21 et tu entres dans le systÃ¨me principal via l'Ã©cran de fin du jeu.}
+{110}{}{Tu joues une partie de 21, mais tu ne parviens pas Ã  faire sauter la banque.}
+{111}{}{Le seul dossier non protÃ©gÃ© est le dossier Jeux, qui peut Ãªtre utilisÃ© comme porte de sortie.}
+{112}{}{Le seul dossier non protÃ©gÃ© est le dossier Jeux.}
+{113}{}{Tu regardes l'ordinateur d'un air dÃ©goÃ»tÃ©.}
+{114}{}{Tu penses que tous les dossiers sont protÃ©gÃ©s, mais tes recherches ne sont pas encore terminÃ©es.}
+{115}{}{Maintenant que tu as atteint le systÃ¨me principal, tu dois reprogrammer les commandes du champ de force.}
+{116}{}{points d'expÃ©rience pour tes procÃ©dures de piratage informatique insolites. Quine !}
+{117}{}{Tu connectes la radio Ã  l'ordinateur de contrÃ´le de champ de force.}
+{118}{}{Ta tentative de connexion de la radio Ã  l'ordinateur Ã©choue.}

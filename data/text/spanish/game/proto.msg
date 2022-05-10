@@ -1,7 +1,7 @@
 {10}{}{<Nada>}
 {100}{}{Cristal}
 {101}{}{Metal}
-{102}{}{Plástico}
+{102}{}{PlÃ¡stico}
 {103}{}{Madera}
 {104}{}{Basura}
 {105}{}{Piedra}
@@ -11,7 +11,7 @@
 {151}{}{Contenedor}
 {152}{}{Droga}
 {153}{}{Arma}
-{154}{}{Munición}
+{154}{}{MuniciÃ³n}
 {155}{}{Objetos Variados}
 {156}{}{Llave}
 {200}{}{Portal}
@@ -19,7 +19,7 @@
 {202}{}{Ascensor}
 {203}{}{Base de Escalera}
 {204}{}{Final de Escalera}
-{205}{}{Escenario Genérico}
+{205}{}{Escenario GenÃ©rico}
 {250}{}{normal_dam}
 {251}{}{laser}
 {252}{}{fire}
@@ -30,8 +30,8 @@
 {300}{}{Nada}
 {301}{}{Cohete}
 {302}{}{Flamer Fuel}
-{303}{}{Célula de Energía C}
-{304}{}{Célula de Energía D}
+{303}{}{CÃ©lula de EnergÃ­a C}
+{304}{}{CÃ©lula de EnergÃ­a D}
 {305}{}{.223}
 {306}{}{5mm}
 {307}{}{Calibre .40}
@@ -48,14 +48,14 @@
 {318}{}{RESERVED}
 {350}{}{Caucasiano}
 {351}{}{Africano}
-{400}{}{Bípedo}
-{401}{}{Cuadrúpedo}
-{402}{}{Robótico}
+{400}{}{BÃ­pedo}
+{401}{}{CuadrÃºpedo}
+{402}{}{RobÃ³tico}
 {450}{}{Hombres:}
 {451}{}{Mujeres:}
-{452}{}{Niños:}
+{452}{}{NiÃ±os:}
 {453}{}{Supermutantes:}
-{454}{}{Necrófagos:}
+{454}{}{NecrÃ³fagos:}
 {455}{}{Brahmines:}
 {456}{}{Escorpiones Rad:}
 {457}{}{Ratas:}
@@ -67,16 +67,16 @@
 {463}{}{Garras Mortales:}
 {464}{}{The Master:}
 {465}{}{This is the number of adult human males that you have permanently and forcefully removed from the gene pool.}
-{466}{}{Esta línea muestra el número de humanos adultos de sexo femenino que has liquidado brutalmente en el transcurso de tus aventuras.}
-{467}{}{La cantidad de inocentes e indefensos niños humanos que has matado en el transcurso de tus aventuras. Canalla.}
-{468}{}{Este es el número total de espantosos Supermutantes que has masacrado a través del yermo.}
-{469}{}{Número de criaturas irradiadas con aspecto de zombi has puesto a descansar. Incluye miembros de ambos sexos. (Tampoco hay mucha diferencia en lo que a ti te concierne)}
+{466}{}{Esta lÃ­nea muestra el nÃºmero de humanos adultos de sexo femenino que has liquidado brutalmente en el transcurso de tus aventuras.}
+{467}{}{La cantidad de inocentes e indefensos niÃ±os humanos que has matado en el transcurso de tus aventuras. Canalla.}
+{468}{}{Este es el nÃºmero total de espantosos Supermutantes que has masacrado a travÃ©s del yermo.}
+{469}{}{NÃºmero de criaturas irradiadas con aspecto de zombi has puesto a descansar. Incluye miembros de ambos sexos. (Tampoco hay mucha diferencia en lo que a ti te concierne)}
 {470}{}{This is the tally of how many brahmin (mutant two-headed cows) you have chopped up and butchered during your travels.}
 {471}{}{This is the number of huge mutated scorpions that you have exterminated as you strode the land.}
-{472}{}{Este es el número de adorables y peludas ratas que has eliminado de la cadena alimenticia. Incluye a todos los miembros de la familia de las ratas.}
-{473}{}{Este es el número total de esas criaturas mutantes extrañas y flotantes a las que has dado muerte con gusto.}
-{474}{}{Tu lista de cuantos monstruosos multicéfalos y multípedos Centauros has tenido el placer de ejecutar.}
-{475}{}{Este es el número de robots que has destruido sin ninguna piedad, convertido en piezas de repuesto, o simplemente desactivado.}
+{472}{}{Este es el nÃºmero de adorables y peludas ratas que has eliminado de la cadena alimenticia. Incluye a todos los miembros de la familia de las ratas.}
+{473}{}{Este es el nÃºmero total de esas criaturas mutantes extraÃ±as y flotantes a las que has dado muerte con gusto.}
+{474}{}{Tu lista de cuantos monstruosos multicÃ©falos y multÃ­pedos Centauros has tenido el placer de ejecutar.}
+{475}{}{Este es el nÃºmero de robots que has destruido sin ninguna piedad, convertido en piezas de repuesto, o simplemente desactivado.}
 {476}{}{This line shows how many nice friendly doggies you have sent to the great kennel in the sky, you heartless jerk.}
 {477}{}{This is the total number of manti (oversized mutated preying mantis-like insects) that you have squashed so far.}
 {478}{}{This line indicates that you have slain the legendary Deathclaw, and/or any of her many ferocious spawn. Well done.}
@@ -84,9 +84,9 @@
 {480}{}{Ves: %s.}
 {485}{}{Examinas: %s.}
 {486}{}{Cierras: %s.}
-{487}{}{Está cerrada.}
+{487}{}{EstÃ¡ cerrada.}
 {490}{}{Ves: %s.}
-{491}{}{Ves un cadáver: %s.}
+{491}{}{Ves un cadÃ¡ver: %s.}
 {492}{}{Ves los restos de: %s.}
 {493}{}{No ves nada fuera de lo normal.}
 {500}{}{no tener pulso}
@@ -96,7 +96,7 @@
 {504}{}{gozar de buena salud}
 {510}{}{Mod. de CA: %d}
 {511}{}{RD Mod: %d}
-{512}{}{Mod. de daño: %d/%d}
+{512}{}{Mod. de daÃ±o: %d/%d}
 {518}{}{Pareces %s }
 {519}{}{%s %s }
 {520}{}{Pareces %s.}
@@ -117,58 +117,58 @@
 {541}{}{Pesa %d libra.}
 {544}{}{, }
 {545}{}{.}
-{546}{}{ y está empuñando un/una %s.}
-{547}{}{ y está empuñando un/una %s con %d/%d disparos de %s.}
-{550}{}{\nError: ¡lookup_val fuera de alcance!}
-{551}{}{\nError: obj_examine: ¡proto_ptr ha fallado!}
+{546}{}{ y estÃ¡ empuÃ±ando un/una %s.}
+{547}{}{ y estÃ¡ empuÃ±ando un/una %s con %d/%d disparos de %s.}
+{550}{}{\nError: Â¡lookup_val fuera de alcance!}
+{551}{}{\nError: obj_examine: Â¡proto_ptr ha fallado!}
 {580}{}{Usas el %s.}
 {581}{}{Usas el %s sobre %s.}
-{582}{}{Eso no hace nada de interés.}
-{583}{}{Para tu consternación descubres que ya está muerto.}
-{584}{}{Cuando llegas, descubres que ya está muerto.}
-{585}{}{Lástima, llegas demasiado tarde.}
+{582}{}{Eso no hace nada de interÃ©s.}
+{583}{}{Para tu consternaciÃ³n descubres que ya estÃ¡ muerto.}
+{584}{}{Cuando llegas, descubres que ya estÃ¡ muerto.}
+{585}{}{LÃ¡stima, llegas demasiado tarde.}
 {586}{}{Eso no funciona con los muertos.}
 {587}{}{Enciendes la bengala.}
-{588}{}{La bengala ya está encendida.}
+{588}{}{La bengala ya estÃ¡ encendida.}
 {589}{}{Pones en hora el reloj.}
-{590}{}{¡El reloj ya está en funcionamiento!}
+{590}{}{Â¡El reloj ya estÃ¡ en funcionamiento!}
 {620}{}{Ganas %d puntos de experiencia por matar: %s.}
 {621}{}{%s ganas %d puntos de experiencia.}
 {622}{}{Por derrotar a tus enemigos,}
 {623}{}{Por asesinar a tus enemigos,}
 {624}{}{Vences en el combate;}
 {625}{}{Por aplastar a tus enemigos,}
-{626}{}{Por destruir a tus enemigos sin sufrir un rasguño,}
+{626}{}{Por destruir a tus enemigos sin sufrir un rasguÃ±o,}
 {650}{}{[Hecho]}
-{651}{}{[Más]}
-{652}{}{[Más]}
+{651}{}{[MÃ¡s]}
+{652}{}{[MÃ¡s]}
 {653}{}{[Volver]}
 {654}{}{[Volver]}
 {655}{}{[Continuar]}
 {656}{}{Err...}
-{660}{}{Allí no puedes ver.}
+{660}{}{AllÃ­ no puedes ver.}
 {661}{}{Demasiado lejos.}
 {670}{}{Vale.}
 {671}{}{Claro.}
 {672}{}{Como quieras.}
-{673}{}{Lo que tú digas.}
-{674}{}{Lo intentaré.}
+{673}{}{Lo que tÃº digas.}
+{674}{}{Lo intentarÃ©.}
 {675}{}{No puedo hacer eso.}
 {676}{}{No creo que pueda hacerlo.}
-{677}{}{¡Arf!}
-{678}{}{¡Guau!}
+{677}{}{Â¡Arf!}
+{678}{}{Â¡Guau!}
 {700}{}{You do not have enough Action Points to do that.}
 {800}{}{Lees el libro.}
 {801}{}{No aprendes nada nuevo.}
-{802}{}{Aprendes sobre la aplicación práctica de las ciencias y la tecnología.}
-{803}{}{Aprendes sobre reparación de aparatos electrónicos y mecánicos.}
-{804}{}{Aprendes mejores técnicas de curación de heridas.}
-{805}{}{Aprendes cómo manejar y mantener mejor tus armas.}
-{806}{}{Aprendes mucho sobre técnicas de supervivencia.}
-{900}{}{Los suministros del maletín médico se han agotado.}
-{901}{}{Los suministros del botiquín de primeros auxilios se han agotado.}
+{802}{}{Aprendes sobre la aplicaciÃ³n prÃ¡ctica de las ciencias y la tecnologÃ­a.}
+{803}{}{Aprendes sobre reparaciÃ³n de aparatos electrÃ³nicos y mecÃ¡nicos.}
+{804}{}{Aprendes mejores tÃ©cnicas de curaciÃ³n de heridas.}
+{805}{}{Aprendes cÃ³mo manejar y mantener mejor tus armas.}
+{806}{}{Aprendes mucho sobre tÃ©cnicas de supervivencia.}
+{900}{}{Los suministros del maletÃ­n mÃ©dico se han agotado.}
+{901}{}{Los suministros del botiquÃ­n de primeros auxilios se han agotado.}
 {902}{}{No puedes hacer eso en combate.}
-{903}{}{Esa persona no hará trueques contigo.}
+{903}{}{Esa persona no harÃ¡ trueques contigo.}
 {904}{}{Esa persona no tiene nada que decirte.}
-{905}{}{No puedes recoger eso. Llevas el máximo peso soportado.}
+{905}{}{No puedes recoger eso. Llevas el mÃ¡ximo peso soportado.}
 {913}{}{Esta criatura es incapaz de llevar nada.}

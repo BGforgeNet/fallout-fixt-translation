@@ -12,7 +12,7 @@
 {111}{}{I'll cut you a deal.}
 {112}{}{Come again.}
 {113}{}{Thanks, see you again soon.}
-{114}{}{Tschüss.}
+{114}{}{TschÃ¼ss.}
 {115}{}{Watch your purse.}
 {116}{}{If you need anything, just let me know.}
 {117}{}{Watch your step.}

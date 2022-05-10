@@ -1,154 +1,154 @@
-{100}{}{Estás viendo a un borracho.}
+{100}{}{EstÃ¡s viendo a un borracho.}
 {101}{}{Ves a un cliente.}
-{102}{}{Estás viendo a una sórdida mujer.}
-{103}{}{Ves a un hombre de aspecto extraño.}
+{102}{}{EstÃ¡s viendo a una sÃ³rdida mujer.}
+{103}{}{Ves a un hombre de aspecto extraÃ±o.}
 {104}{}{Ves a un jugador.}
 {105}{}{Ves a una chica muy guapa. Parece ocupada.}
-{106}{}{Estás viendo a una mujer.}
-{107}{}{Estás viendo a un hombre.}
-{108}{}{Estás viendo a un jugador muy triste.}
+{106}{}{EstÃ¡s viendo a una mujer.}
+{107}{}{EstÃ¡s viendo a un hombre.}
+{108}{}{EstÃ¡s viendo a un jugador muy triste.}
 {109}{}{Ves a un mercenario.}
-{110}{}{Déjame ahogar lash penas.}
-{111}{}{Sí, querishísimo amigo.}
-{112}{}{Anda eresh... *hip*... ¿Dónde eshtoy?}
-{113}{}{¿Quién eres?}
-{114}{}{¿Te conozco?}
+{110}{}{DÃ©jame ahogar lash penas.}
+{111}{}{SÃ­, querishÃ­simo amigo.}
+{112}{}{Anda eresh... *hip*... Â¿DÃ³nde eshtoy?}
+{113}{}{Â¿QuiÃ©n eres?}
+{114}{}{Â¿Te conozco?}
 {115}{}{Me siento algo mareado.}
 {116}{}{Tengo la bebida en la sangre.}
-{117}{}{¿Quiénes sois vosotros dos?}
-{118}{}{¡Quédate donde estás, tío!}
-{119}{}{¡Quédate donde estás, chica!}
-{120}{}{¡Vete de aquí, escoria!}
-{121}{}{Estás acabando con la elegancia de este lugar.}
-{122}{}{Vete, ¡gafe!}
+{117}{}{Â¿QuiÃ©nes sois vosotros dos?}
+{118}{}{Â¡QuÃ©date donde estÃ¡s, tÃ­o!}
+{119}{}{Â¡QuÃ©date donde estÃ¡s, chica!}
+{120}{}{Â¡Vete de aquÃ­, escoria!}
+{121}{}{EstÃ¡s acabando con la elegancia de este lugar.}
+{122}{}{Vete, Â¡gafe!}
 {123}{}{No me desconcentres.}
-{124}{}{¡Voy a ganar esta partida!}
-{125}{}{¿No sabes hacer esto?}
-{126}{}{¿Has visto eso? ¡Es imposible!}
-{127}{}{Creo que están bromeando.}
+{124}{}{Â¡Voy a ganar esta partida!}
+{125}{}{Â¿No sabes hacer esto?}
+{126}{}{Â¿Has visto eso? Â¡Es imposible!}
+{127}{}{Creo que estÃ¡n bromeando.}
 {128}{}{Ahora hay posibilidades.}
 {129}{}{Gano seguro.}
-{130}{}{¿Qué? ¿Cómo he podido perder?}
-{131}{}{Esta mesa está gafada.}
+{130}{}{Â¿QuÃ©? Â¿CÃ³mo he podido perder?}
+{131}{}{Esta mesa estÃ¡ gafada.}
 {132}{}{Estoy ocupado.}
-{133}{}{¿No ves que estoy intentando jugar?}
+{133}{}{Â¿No ves que estoy intentando jugar?}
 {134}{}{Apuesta o calla.}
-{135}{}{Déjanos solos o llamaré a los guardias.}
-{136}{}{Cuidado, soy amiga íntima del Ayudante Fry.}
-{137}{}{¿Te importa?}
-{138}{}{¡Odio a los mirones!}
+{135}{}{DÃ©janos solos o llamarÃ© a los guardias.}
+{136}{}{Cuidado, soy amiga Ã­ntima del Ayudante Fry.}
+{137}{}{Â¿Te importa?}
+{138}{}{Â¡Odio a los mirones!}
 {139}{}{No me gustan los grupos.}
 {140}{}{Estoy demasiado cansada para otro.}
-{141}{}{Estás soñando, tío. ¡Vete!}
-{142}{}{¡Vete de aquí! }
-{143}{}{¿Qué diablos crees que estás haciendo?}
-{144}{}{¡Cuidado con tus modales!}
-{145}{}{¡Llamaré a la policía!}
-{146}{}{¡Ni lo sueñes!}
-{147}{}{¡Vete!}
-{148}{}{¡Lárgate!}
-{149}{}{¿Qué estás mirando?}
-{150}{}{¿Formas parte de la orgía?}
-{151}{}{¡Vete de nuestra habitación!}
-{152}{}{¡Vete!}
-{153}{}{¿Formas parte de la orgía?}
-{154}{}{¡Vete, pervertido!}
-{155}{}{¿Cuál es tu problema?}
+{141}{}{EstÃ¡s soÃ±ando, tÃ­o. Â¡Vete!}
+{142}{}{Â¡Vete de aquÃ­! }
+{143}{}{Â¿QuÃ© diablos crees que estÃ¡s haciendo?}
+{144}{}{Â¡Cuidado con tus modales!}
+{145}{}{Â¡LlamarÃ© a la policÃ­a!}
+{146}{}{Â¡Ni lo sueÃ±es!}
+{147}{}{Â¡Vete!}
+{148}{}{Â¡LÃ¡rgate!}
+{149}{}{Â¿QuÃ© estÃ¡s mirando?}
+{150}{}{Â¿Formas parte de la orgÃ­a?}
+{151}{}{Â¡Vete de nuestra habitaciÃ³n!}
+{152}{}{Â¡Vete!}
+{153}{}{Â¿Formas parte de la orgÃ­a?}
+{154}{}{Â¡Vete, pervertido!}
+{155}{}{Â¿CuÃ¡l es tu problema?}
 {156}{}{Vete antes de que me enfade.}
-{157}{}{Búscate a otra.}
-{158}{}{Ésta es mía.}
-{159}{}{¡Maldición!}
-{160}{}{¿Estás de broma?}
-{161}{}{Tendría que haber ganado yo.}
-{162}{}{¡Por los pelos!}
+{157}{}{BÃºscate a otra.}
+{158}{}{Ã‰sta es mÃ­a.}
+{159}{}{Â¡MaldiciÃ³n!}
+{160}{}{Â¿EstÃ¡s de broma?}
+{161}{}{TendrÃ­a que haber ganado yo.}
+{162}{}{Â¡Por los pelos!}
 {163}{}{He perdido por los pelos.}
-{164}{}{¿Cuáles son las reglas?}
+{164}{}{Â¿CuÃ¡les son las reglas?}
 {165}{}{Antes era bueno en esto.}
 {166}{}{Gracias por nada.}
-{167}{}{¡No me lo creo!}
-{168}{}{Quería perder, de verdad}
+{167}{}{Â¡No me lo creo!}
+{168}{}{QuerÃ­a perder, de verdad}
 {169}{}{Hagan sus apuestas.}
 {170}{}{Las manos quietas, por favor.}
-{171}{}{¡Ganador!}
-{172}{}{Lo siento, amigos, puede que la próxima.}
-{173}{}{¡Otro ganador!}
-{174}{}{¡Aleja esas manos!}
+{171}{}{Â¡Ganador!}
+{172}{}{Lo siento, amigos, puede que la prÃ³xima.}
+{173}{}{Â¡Otro ganador!}
+{174}{}{Â¡Aleja esas manos!}
 {175}{}{Su turno, por favor.}
-{176}{}{Lo siento, es una apuesta inválida.}
+{176}{}{Lo siento, es una apuesta invÃ¡lida.}
 {177}{}{Eso es todo.}
-{178}{}{¿Alguien más?}
-{200}{}{Ey, cariño, ¿buscas un buen rato?}
-{201}{}{¿Qué's lo que buscas, cariño?}
-{202}{}{¿Buscas compañía?}
+{178}{}{Â¿Alguien mÃ¡s?}
+{200}{}{Ey, cariÃ±o, Â¿buscas un buen rato?}
+{201}{}{Â¿QuÃ©'s lo que buscas, cariÃ±o?}
+{202}{}{Â¿Buscas compaÃ±Ã­a?}
 {203}{}{Hola, monada.}
-{204}{}{¿Te gusta lo que ves? A mí sí.}
-{205}{}{Enséñame lo que tienes, cariño}
+{204}{}{Â¿Te gusta lo que ves? A mÃ­ sÃ­.}
+{205}{}{EnsÃ©Ã±ame lo que tienes, cariÃ±o}
 {206}{}{Me gusta duro, si es lo que te va.}
-{207}{}{Sin enfermedades, ¡estoy limpia!}
+{207}{}{Sin enfermedades, Â¡estoy limpia!}
 {208}{}{Hago grupales, por un extra.}
-{209}{}{Haré lo que sea por un buen precio...}
+{209}{}{HarÃ© lo que sea por un buen precio...}
 {210}{}{Nunca he estado con una chica antes...}
-{211}{}{Soy tus sueños hechos realidad, preciosa.}
+{211}{}{Soy tus sueÃ±os hechos realidad, preciosa.}
 {212}{}{Si tienes las chapas, me apunto.}
-{213}{}{¿Te gusta lo que ves? A mí sí.}
+{213}{}{Â¿Te gusta lo que ves? A mÃ­ sÃ­.}
 {214}{}{Hola, dulzura.}
-{215}{}{Ey, cariño, ¿buscas un buen rato?}
+{215}{}{Ey, cariÃ±o, Â¿buscas un buen rato?}
 {216}{}{Me gusta duro, si es lo que te va.}
-{217}{}{Sin enfermedades, ¡estoy limpia!}
+{217}{}{Sin enfermedades, Â¡estoy limpia!}
 {218}{}{Hago grupales, por un extra.}
-{219}{}{Haré lo que sea por un buen precio...}
-{220}{}{¿Cuánto cuesta la diversión?}
+{219}{}{HarÃ© lo que sea por un buen precio...}
+{220}{}{Â¿CuÃ¡nto cuesta la diversiÃ³n?}
 {221}{}{Veinte chapas.}
 {222}{}{Vamos al grano...}
 {223}{}{No, gracias, no me interesa.}
 {224}{}{Gracias por el buen rato. Hasta luego.}
-{225}{}{¿Cuánto por algo de acción en grupo?}
+{225}{}{Â¿CuÃ¡nto por algo de acciÃ³n en grupo?}
 {226}{}{Cien chapas.}
-{227}{}{Vale. ¿Qués lo que buscas?}
-{228}{}{De acuerdo, sígueme...}
-{229}{}{Gracias, extraño. [se guarda las chapas y te lanza un beso]}
+{227}{}{Vale. Â¿QuÃ©s lo que buscas?}
+{228}{}{De acuerdo, sÃ­gueme...}
+{229}{}{Gracias, extraÃ±o. [se guarda las chapas y te lanza un beso]}
 {230}{}{Lapdance.}
-{231}{}{Estriptís.}
-{232}{}{Señorita guapa. ¿Conmigo?}
-{233}{}{Oh dios... cariño. Tengo que ganarme la vida pero hasta yo tengo estándares.}
+{231}{}{EstriptÃ­s.}
+{232}{}{SeÃ±orita guapa. Â¿Conmigo?}
+{233}{}{Oh dios... cariÃ±o. Tengo que ganarme la vida pero hasta yo tengo estÃ¡ndares.}
 {234}{}{Juega contigo misma mientras yo miro.}
-{235}{}{¡YO QUERER!}
+{235}{}{Â¡YO QUERER!}
 {236}{}{Lo de siempre.}
-{237}{}{¡Cualquier cosa! Sorpréndeme...}
+{237}{}{Â¡Cualquier cosa! SorprÃ©ndeme...}
 {238}{}{Hmph.}
-{239}{}{Lo siento cariño. Si encuentras un nuevo cerebro, hazme una visita.}
+{239}{}{Lo siento cariÃ±o. Si encuentras un nuevo cerebro, hazme una visita.}
 {240}{}{Mmf. Val-e, yo ir.}
-{241}{}{Depende de lo que busques cariño.}
+{241}{}{Depende de lo que busques cariÃ±o.}
 {242}{}{De acuerdo, seguidme todos...}
-{243}{}{¿Chapa?}
-{244}{}{[suspiro] Sí, idiota. Chapas de botella. Págame 150 y te daré un buen rato. Eso será suficiente como para ahogar mi vergüenza en el Halcón y que me queden beneficios.}
+{243}{}{Â¿Chapa?}
+{244}{}{[suspiro] SÃ­, idiota. Chapas de botella. PÃ¡game 150 y te darÃ© un buen rato. Eso serÃ¡ suficiente como para ahogar mi vergÃ¼enza en el HalcÃ³n y que me queden beneficios.}
 {245}{}{No me importa, acabemos con esto.}
-{246}{}{Sexo sin más.}
+{246}{}{Sexo sin mÃ¡s.}
 {247}{}{Para ti, }
-{248}{}{¿Para ti, cariño? }
+{248}{}{Â¿Para ti, cariÃ±o? }
 {249}{}{Vale, suena bien.}
-{250}{}{Pensándolo mejor, déjalo.}
+{250}{}{PensÃ¡ndolo mejor, dÃ©jalo.}
 {251}{}{Como quieras, seguro que vuelves.}
 {252}{}{No tengo tantas chapas.}
-{253}{}{¿Entonces por qué coño estás hablando conmigo? ¡Lárgate!}
+{253}{}{Â¿Entonces por quÃ© coÃ±o estÃ¡s hablando conmigo? Â¡LÃ¡rgate!}
 {254}{}{[Continuar]}
 {255}{}{[Hecho]}
-{256}{}{Gracias, cariño. ¡Vuelve pronto!}
-{257}{}{Aquí ir.}
+{256}{}{Gracias, cariÃ±o. Â¡Vuelve pronto!}
+{257}{}{AquÃ­ ir.}
 {258}{}{Yo no tener dineros...}
-{259}{}{¡Hmph!}
+{259}{}{Â¡Hmph!}
 {260}{}{No me creo que este haciendo esto...}
-{261}{}{Lárgate de aquí, que voy a vomitar.}
+{261}{}{LÃ¡rgate de aquÃ­, que voy a vomitar.}
 {262}{}{Tengo que encontrar un nuevo trabajo.}
-{263}{}{¿Tú de nuevo? Lárgate, no trabajo con retrasados que no pueden pagar.}
+{263}{}{Â¿TÃº de nuevo? LÃ¡rgate, no trabajo con retrasados que no pueden pagar.}
 {264}{}{Urr...}
-{265}{}{¿Buh?}
+{265}{}{Â¿Buh?}
 {300}{}{ chapas.}
-{301}{}{Tras observarla por un momento, se te hace obvio que se trata de una prostituta con un cliente. Te hace señas para que te vayas, inmediatamente.}
+{301}{}{Tras observarla por un momento, se te hace obvio que se trata de una prostituta con un cliente. Te hace seÃ±as para que te vayas, inmediatamente.}
 {302}{}{Tras observarla por un momento, se te hace obvio que se trata de una prostituta. Al mirarte te brinda una sonrisa falsa.}
 {400}{}{Bueno, eso fue interesante.}
-{401}{}{¡Guau!}
-{402}{}{Deberíamos volver al trabajo.}
+{401}{}{Â¡Guau!}
+{402}{}{DeberÃ­amos volver al trabajo.}
 {403}{}{Ugh, me siento sucio.}
 {404}{}{Oh, wow...}
-{405}{}{Bueno... supongo que podría hacer una excepción. Más vales que tengas un montonazo de chapas.}
+{405}{}{Bueno... supongo que podrÃ­a hacer una excepciÃ³n. MÃ¡s vales que tengas un montonazo de chapas.}

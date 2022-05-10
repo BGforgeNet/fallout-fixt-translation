@@ -1,8 +1,8 @@
-{100}{}{La porte est déjà déverrouillée.}
-{101}{}{Tu ne réussis pas à crocheter le verrou.}
-{102}{}{Le verrou de la porte te paraît impossible à crocheter.}
-{103}{}{Tu reçois une décharge du système de sécurité électronique !}
-{104}{}{Tu as déclenché l'alarme des portes d'accès au ravitaillement.}
+{100}{}{La porte est dÃ©jÃ  dÃ©verrouillÃ©e.}
+{101}{}{Tu ne rÃ©ussis pas Ã  crocheter le verrou.}
+{102}{}{Le verrou de la porte te paraÃ®t impossible Ã  crocheter.}
+{103}{}{Tu reÃ§ois une dÃ©charge du systÃ¨me de sÃ©curitÃ© Ã©lectronique !}
+{104}{}{Tu as dÃ©clenchÃ© l'alarme des portes d'accÃ¨s au ravitaillement.}
 {105}{}{La porte est munie d'un verrou qu'il faudra crocheter.}
-{106}{}{Le système de sécurité électronique est déjà neutralisé.}
-{107}{}{Tu neutralises le système de sécurité électronique.}
+{106}{}{Le systÃ¨me de sÃ©curitÃ© Ã©lectronique est dÃ©jÃ  neutralisÃ©.}
+{107}{}{Tu neutralises le systÃ¨me de sÃ©curitÃ© Ã©lectronique.}

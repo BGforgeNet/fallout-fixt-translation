@@ -1,67 +1,67 @@
-{100}{}{Ves: a Seth, el líder de los guardias de Arenas Sombrías.}
-{101}{}{¡Eres tú! ¡Ya has sido una plaga para nuestro pueblo demasiado, es tiempo de que mueras!}
-{102}{}{Nada bueno viene de gente como tú. Te mataré y así libraré al yermo de ti.}
+{100}{}{Ves: a Seth, el lÃ­der de los guardias de Arenas SombrÃ­as.}
+{101}{}{Â¡Eres tÃº! Â¡Ya has sido una plaga para nuestro pueblo demasiado, es tiempo de que mueras!}
+{102}{}{Nada bueno viene de gente como tÃº. Te matarÃ© y asÃ­ librarÃ© al yermo de ti.}
 {103}{}{No pareces muy brillante. Ten cuidado con los escorpiones rad y no causes problemas.}
-{104}{}{¡Escorpión!}
-{105}{}{Adiós.}
-{106}{}{Pareces una de esos saqueadores. Observamos todo lo que ocurre en el pueblo. ¿Qué quieres?}
-{107}{}{¡Quiero todas tus chapas!}
-{108}{}{Necesito información.}
-{109}{}{¿Blup?}
-{110}{}{Saludos. Mi nombre es Seth. ¿Cómo te puedo ayudar?}
-{111}{}{Necesito información.}
-{112}{}{¡Uab-Uab!}
-{113}{}{¿Información? ¿Qué quieres saber?}
-{114}{}{¿Qué puedo hacer por ti?}
-{115}{}{Quiero información sobre los escorpiones rad.}
-{116}{}{Quiero información sobre los saqueadores.}
-{117}{}{Quiero información sobre este lugar.}
-{118}{}{Llévame a la cueva de los escorpiones rad.}
-{119}{}{¡Cueva!}
-{120}{}{Nada más, gracias.}
-{121}{}{¿Qué quieres ahora?}
-{122}{}{Esos malditos escorpiones rad han tratado de coger a nuestros brahmines desde que llegamos a vivir aquí. No pasa una semana sin que alguien sea envenenado tratando de espantarlos del corral. Mi hermano Jarvis fue envenenado la semana pasada. El Dr. Razlo está tratando de crear un antídoto. Oye, si tienes los medios para ayudarnos, habla con nuestro líder. Su nombre es Aradesh.}
+{104}{}{Â¡EscorpiÃ³n!}
+{105}{}{AdiÃ³s.}
+{106}{}{Pareces una de esos saqueadores. Observamos todo lo que ocurre en el pueblo. Â¿QuÃ© quieres?}
+{107}{}{Â¡Quiero todas tus chapas!}
+{108}{}{Necesito informaciÃ³n.}
+{109}{}{Â¿Blup?}
+{110}{}{Saludos. Mi nombre es Seth. Â¿CÃ³mo te puedo ayudar?}
+{111}{}{Necesito informaciÃ³n.}
+{112}{}{Â¡Uab-Uab!}
+{113}{}{Â¿InformaciÃ³n? Â¿QuÃ© quieres saber?}
+{114}{}{Â¿QuÃ© puedo hacer por ti?}
+{115}{}{Quiero informaciÃ³n sobre los escorpiones rad.}
+{116}{}{Quiero informaciÃ³n sobre los saqueadores.}
+{117}{}{Quiero informaciÃ³n sobre este lugar.}
+{118}{}{LlÃ©vame a la cueva de los escorpiones rad.}
+{119}{}{Â¡Cueva!}
+{120}{}{Nada mÃ¡s, gracias.}
+{121}{}{Â¿QuÃ© quieres ahora?}
+{122}{}{Esos malditos escorpiones rad han tratado de coger a nuestros brahmines desde que llegamos a vivir aquÃ­. No pasa una semana sin que alguien sea envenenado tratando de espantarlos del corral. Mi hermano Jarvis fue envenenado la semana pasada. El Dr. Razlo estÃ¡ tratando de crear un antÃ­doto. Oye, si tienes los medios para ayudarnos, habla con nuestro lÃ­der. Su nombre es Aradesh.}
 {123}{}{Hay varios grupos de saqueadores. Yo organizo a los guardias, como Ian, para defender al pueblo. Hay una banda al sudeste, ten cuidado con ellos.}
-{124}{}{Arenas Sombrías es una comunidad pacífica. Tenemos un sistema de irrigación que provee agua a nuestra huerta. Si no estuviera esto plagado de escorpiones rad y saqueadores tendríamos una existencia ideal.}
-{125}{}{¿En realidad quieres que te lleve a la cueva? Yo no puedo ir, pero te puedo mostrar el camino.}
-{126}{}{Sí.}
+{124}{}{Arenas SombrÃ­as es una comunidad pacÃ­fica. Tenemos un sistema de irrigaciÃ³n que provee agua a nuestra huerta. Si no estuviera esto plagado de escorpiones rad y saqueadores tendrÃ­amos una existencia ideal.}
+{125}{}{Â¿En realidad quieres que te lleve a la cueva? Yo no puedo ir, pero te puedo mostrar el camino.}
+{126}{}{SÃ­.}
 {127}{}{No.}
-{128}{}{Bueno, ya me harás saber cuándo quieras ir a la cueva.}
+{128}{}{Bueno, ya me harÃ¡s saber cuÃ¡ndo quieras ir a la cueva.}
 {129}{}{[Hecho]}
 {130}{}{Uh-huh.}
 {131}{}{Uh-uh.}
-{200}{}{Todo el pueblo te está agradecido por destruir a los escorpiones rad. Gracias.}
+{200}{}{Todo el pueblo te estÃ¡ agradecido por destruir a los escorpiones rad. Gracias.}
 {201}{}{Gracias a ti ya no son un peligro.}
-{202}{}{¿Quieres volver a la cueva? Es un viaje largo y ya has eliminado a los escorpiones rad.}
+{202}{}{Â¿Quieres volver a la cueva? Es un viaje largo y ya has eliminado a los escorpiones rad.}
 {203}{}{Bueno, disfruta tu estancia.}
-{204}{}{Bienvenida a Arenas Sombrías, forastera. Por favor, guarda tu arma mientras que estés aquí.}
+{204}{}{Bienvenida a Arenas SombrÃ­as, forastera. Por favor, guarda tu arma mientras que estÃ©s aquÃ­.}
 {205}{}{Hello, stranger. Welcome to Shady Sands!}
-{206}{}{Deberías de hablar con Aradesh, nuestro líder. Es su costumbre presentarse a todos nuestros visitantes. Lo puedes encontrar en nuestro Ayuntamiento, es el edificio al sur de aquí.}
-{300}{}{¡Gracias a Dharma que regresaste! Mi novia... Tandi, hija de Aradesh, ha sido raptada. Creemos que los saqueadores la tienen presa.}
-{301}{}{¿Dónde están estos saqueadores?}
-{302}{}{Qué lástima. Bueno, te veré después.}
+{206}{}{DeberÃ­as de hablar con Aradesh, nuestro lÃ­der. Es su costumbre presentarse a todos nuestros visitantes. Lo puedes encontrar en nuestro Ayuntamiento, es el edificio al sur de aquÃ­.}
+{300}{}{Â¡Gracias a Dharma que regresaste! Mi novia... Tandi, hija de Aradesh, ha sido raptada. Creemos que los saqueadores la tienen presa.}
+{301}{}{Â¿DÃ³nde estÃ¡n estos saqueadores?}
+{302}{}{QuÃ© lÃ¡stima. Bueno, te verÃ© despuÃ©s.}
 {303}{}{Lo siento, quisiera poder ayudarte.}
-{304}{}{Eso es terrible, pero primero tengo que destruir a los escorpiones rad. Mientras vivan, toda la población está en peligro.}
-{305}{}{¿Dónde está Tandi? ¿Por qué no la han rescatado?}
-{306}{}{Necesito más equipo antes de poder enfrentarme a esos tipos.}
+{304}{}{Eso es terrible, pero primero tengo que destruir a los escorpiones rad. Mientras vivan, toda la poblaciÃ³n estÃ¡ en peligro.}
+{305}{}{Â¿DÃ³nde estÃ¡ Tandi? Â¿Por quÃ© no la han rescatado?}
+{306}{}{Necesito mÃ¡s equipo antes de poder enfrentarme a esos tipos.}
 {307}{}{He decidido que la muchacha no vale la pena.}
 {308}{}{Estoy en ello.}
 {309}{}{Primero he pensado en solucionar el problema con los escorpiones rad.}
-{310}{}{Creía que eras una buena persona, veo que me he equivocado.}
-{311}{}{Están al sudeste. Date prisa, por favor. No me imagino lo que le deben estar haciendo.}
-{312}{}{De acuerdo, iré a por ella.}
+{310}{}{CreÃ­a que eras una buena persona, veo que me he equivocado.}
+{311}{}{EstÃ¡n al sudeste. Date prisa, por favor. No me imagino lo que le deben estar haciendo.}
+{312}{}{De acuerdo, irÃ© a por ella.}
 {313}{}{No dije que fuese a ayudar, yo tengo mis propios problemas.}
-{314}{}{¿Cuánto me vas a pagar por rescatarla?}
+{314}{}{Â¿CuÃ¡nto me vas a pagar por rescatarla?}
 {315}{}{Tengo que ayudar a mi gente primero. Lo siento.}
-{316}{}{Sabía que eras una mercenaria sin compasión. Te aseguro que serás bien recompensada por rescatarla.}
+{316}{}{SabÃ­a que eras una mercenaria sin compasiÃ³n. Te aseguro que serÃ¡s bien recompensada por rescatarla.}
 {317}{}{Si no me dices cuanto me vas a pagar no voy a rescatarla.}
-{318}{}{Muy bien, me encargaré de ello.}
+{318}{}{Muy bien, me encargarÃ© de ello.}
 {319}{}{Lo siento, tengo que irme.}
-{320}{}{¡Hija de...!}
-{321}{}{Apresúrate, por favor. Dios sabrá lo que le deben estar haciendo.}
-{322}{}{Primero desearía que rescataras a Tandi, pero, si estás dispuesto a ayudarnos con los escorpiones rad, te mostraré el camino.}
+{320}{}{Â¡Hija de...!}
+{321}{}{ApresÃºrate, por favor. Dios sabrÃ¡ lo que le deben estar haciendo.}
+{322}{}{Primero desearÃ­a que rescataras a Tandi, pero, si estÃ¡s dispuesto a ayudarnos con los escorpiones rad, te mostrarÃ© el camino.}
 {323}{}{Llevadme a la cueva de los escorpiones rad.}
-{324}{}{He cambiado de opinión. Adiós.}
+{324}{}{He cambiado de opiniÃ³n. AdiÃ³s.}
 {325}{}{Hecho. Me puedes llevar en cuanto regrese.}
 {1000}{}{Khans}
 {1001}{}{Garl}
@@ -73,22 +73,22 @@
 {1007}{}{Aradesh}
 {1008}{}{Seth}
 {1009}{}{Razlo}
-{1010}{}{Sombrías}
-{1011}{}{Escorpión}
-{1012}{}{Escorpión Rad}
+{1010}{}{SombrÃ­as}
+{1011}{}{EscorpiÃ³n}
+{1012}{}{EscorpiÃ³n Rad}
 {1013}{}{Escorpiones}
 {1014}{}{Escorpiones Rad}
 {1100}{}{Son un grupo sin ley que finge ser gente del pasado lejano.}
-{1101}{}{Es el líder de los Khans. Es uno de los hombres más peligrosos que nunca se ha visto en Arenas Sombrías. Lidera los clanes de saqueadores con dureza.}
-{1102}{}{Está a cuatro o seis días hacia el sudoeste. A veces hay buenas mercancías pero lo más normal es que intenten dejarnos tiesos.}
-{1103}{}{Estás aquí mismo.}
-{1104}{}{Está más al sur que Ciudad Vertedero. El Eje es la ciudad más grande de la que he oído hablar. Debe haber por lo menos mil personas allí.}
+{1101}{}{Es el lÃ­der de los Khans. Es uno de los hombres mÃ¡s peligrosos que nunca se ha visto en Arenas SombrÃ­as. Lidera los clanes de saqueadores con dureza.}
+{1102}{}{EstÃ¡ a cuatro o seis dÃ­as hacia el sudoeste. A veces hay buenas mercancÃ­as pero lo mÃ¡s normal es que intenten dejarnos tiesos.}
+{1103}{}{EstÃ¡s aquÃ­ mismo.}
+{1104}{}{EstÃ¡ mÃ¡s al sur que Ciudad Vertedero. El Eje es la ciudad mÃ¡s grande de la que he oÃ­do hablar. Debe haber por lo menos mil personas allÃ­.}
 {1105}{}{Lo siento, no puedo ayudarte.}
-{1106}{}{Es la hija de Aradesh. Algún día podría ser nuestra líder, pero debe aprender a mejorar sus modales.}
-{1107}{}{Es el líder de nuestra comunidad y un verdadero héroe. Lo encontrarás en el Ayuntamiento. Siempre está trabajando.}
-{1108}{}{Soy yo. Trabajo con Aradesh para proteger a la población.}
-{1109}{}{Nuestro doctor. Si estás herido, ve a verlo.}
-{1110}{}{Estás aquí mismo.}
+{1106}{}{Es la hija de Aradesh. AlgÃºn dÃ­a podrÃ­a ser nuestra lÃ­der, pero debe aprender a mejorar sus modales.}
+{1107}{}{Es el lÃ­der de nuestra comunidad y un verdadero hÃ©roe. Lo encontrarÃ¡s en el Ayuntamiento. Siempre estÃ¡ trabajando.}
+{1108}{}{Soy yo. Trabajo con Aradesh para proteger a la poblaciÃ³n.}
+{1109}{}{Nuestro doctor. Si estÃ¡s herido, ve a verlo.}
+{1110}{}{EstÃ¡s aquÃ­ mismo.}
 {1111}{}{Criaturas muy desagradables con veneno mortal.}
 {1112}{}{Criaturas muy desagradables con veneno mortal.}
 {1113}{}{Criaturas muy desagradables con veneno mortal.}

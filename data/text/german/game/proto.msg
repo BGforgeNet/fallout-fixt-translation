@@ -106,9 +106,9 @@
 {524}{}{It looks: %s }
 {525}{}{%s has %d/%d hit points.}
 {526}{}{Es hat %d/%d Schuss %s.}
-{530}{}{und hat schwer verletzte Gliedmaßen.}
+{530}{}{und hat schwer verletzte GliedmaÃŸen.}
 {531}{}{but has crippled limbs.}
-{532}{}{und hast schwer verletzte Gliedmaßen.}
+{532}{}{und hast schwer verletzte GliedmaÃŸen.}
 {533}{}{but have crippled limbs.}
 {535}{}{He has %d/%d hit points}
 {536}{}{She has %d/%d hit points}
@@ -118,14 +118,14 @@
 {544}{}{, }
 {545}{}{.}
 {546}{}{ and is wielding a %s.}
-{547}{}{ und trägt: %s mit %d/%d Schuss %s.}
+{547}{}{ und trÃ¤gt: %s mit %d/%d Schuss %s.}
 {550}{}{\nError: lookup_val out of range!}
 {551}{}{\nError: obj_examine: proto_ptr failed!}
 {580}{}{You use the %s.}
 {581}{}{You use the %s on %s.}
 {582}{}{That does nothing of interest.}
 {583}{}{Entsetzt merkst du, dass es schon tot ist.}
-{584}{}{Als du es berührst, merkst du, dass es schon tot ist.}
+{584}{}{Als du es berÃ¼hrst, merkst du, dass es schon tot ist.}
 {585}{}{Alas, you are too late.}
 {586}{}{That won't work on the dead.}
 {587}{}{You light the flare.}
@@ -134,11 +134,11 @@
 {590}{}{The timer is already ticking!}
 {620}{}{You earn %d experience for killing: %s.}
 {621}{}{%s you earn %d experience.}
-{622}{}{Für den Sieg über deine Feinde}
-{623}{}{Für das Erledigen deiner Gegner}
+{622}{}{FÃ¼r den Sieg Ã¼ber deine Feinde}
+{623}{}{FÃ¼r das Erledigen deiner Gegner}
 {624}{}{You are victorious in combat;}
-{625}{}{Für die Vernichtung deiner Gegner}
-{626}{}{Für die Vernichtung deiner Gegner, ohne einen Kratzer abzubekommen,}
+{625}{}{FÃ¼r die Vernichtung deiner Gegner}
+{626}{}{FÃ¼r die Vernichtung deiner Gegner, ohne einen Kratzer abzubekommen,}
 {650}{}{[Fertig]}
 {651}{}{[More]}
 {652}{}{[More]}
@@ -150,7 +150,7 @@
 {661}{}{Too far away.}
 {670}{}{OK.}
 {671}{}{Sicher.}
-{672}{}{Wie du wünscht.}
+{672}{}{Wie du wÃ¼nscht.}
 {673}{}{Whatever you say.}
 {674}{}{I'll try.}
 {675}{}{I can't do that.}

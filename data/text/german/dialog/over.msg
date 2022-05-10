@@ -13,7 +13,7 @@
 {112}{}{Not good, but I noticed the radiation count is low. Why don't we just move the people out of the Vault?}
 {113}{}{I haven't found the chip yet. Can't we just make a replacement?}
 {114}{}{Nothing yet.}
-{115}{}{Nö.}
+{115}{}{NÃ¶.}
 {116}{Over_8}{Look, I know it's got to be tough. But we're counting on you. And we're running out of time. Please! Keep trying!}
 {117}{Over_9}{Ahh, you never did listen to me. We don't have the necessary parts anymore. We've used up all the supplies required.}
 {118}{}{Oh, okay. Thanks.}
@@ -23,7 +23,7 @@
 {122}{}{Not yet. Sorry.}
 {123}{}{I still say we just pack everybody up and move out of here.}
 {124}{}{No, but I have a lot of other things to tell you!}
-{125}{}{Nö.}
+{125}{}{NÃ¶.}
 {126}{Over_13}{[The Overseer sighs.] Don't be sorry. I know you're trying your best and that means a lot. But you can't give up now.}
 {127}{Over_14}{This isn't the best time to debate that. Get the chip, give us the option. Most of these people, including me, won't survive out there.}
 {128}{}{Okay, I'll go see if I can find it.}
@@ -31,7 +31,7 @@
 {130}{Over_19a}{Please tell me you've found the chip.}
 {131}{}{No, but I've seen some amazing things!}
 {132}{}{Sorry, haven't been able to track it down yet.}
-{133}{}{Nö.}
+{133}{}{NÃ¶.}
 {134}{}{Nuh-uh.}
 {135}{Over_20}{Well, keep looking. Time's growing short.}
 {136}{Over_21}{We don't have time for this! We need the chip. Time's running out. [Sigh]}
@@ -63,7 +63,7 @@
 {162}{}{OK.}
 {163}{Over_34}{Well, you've certainly earned that right. But let's take care of survival first. Give me the chip and we'll discuss this when you give your report.}
 {164}{}{Fair enough.}
-{165}{}{Ich weiß es nicht.}
+{165}{}{Ich weiÃŸ es nicht.}
 {166}{Over_37}{Oh, that's great! Can I have the chip, please?}
 {167}{Over_38}{No, not that. I want the com-pu-ter chip.}
 {168}{Over_38a}{No. The chip.}
@@ -75,7 +75,7 @@
 {174}{Over_41a}{Oh, yes. You did good and I'm sure you have a lot to tell.}
 {175}{Over_42}{I uh, I just wanted to let you know that the water supply has stabilized. Actually, we're rebuilding our reserves. You did great... I uh, I am a little concerned, however.}
 {176}{}{Concerned about what?}
-{177}{}{Häh?}
+{177}{}{HÃ¤h?}
 {178}{Over_43}{I - I don't like your reports. What was in the reports, that is. Heh. In fact, they scared the heck out of me. It's those mutants. I've done some calculations and, well, I've come to an unpleasant conclusion.}
 {179}{}{What's that?}
 {180}{Over_44}{[Sigh] The mutant population is far greater than could be expected by natural growth or mutations. This leads me to believe in - I don't really understand it. But it looks like someone's generating new mutants. And at a startling rate.}
@@ -125,7 +125,7 @@
 {224}{Over_68}{Is the mutant leader... taken care of?}
 {225}{}{Nein.}
 {226}{}{He will be... soon.}
-{227}{}{Nö.}
+{227}{}{NÃ¶.}
 {228}{Over_69}{I know this has been hard on you. But this Master's the type who'll rebuild his mutant army. Then he'll come for us. Please, go out and finish the job.}
 {229}{Over_70}{Well, Th - Tha - That's great. That's very good. You sound like you're in control out there. Please, finish this up soon so that you and I can... When you're out there, remember, the people of the Vault know you've saved them.}
 {230}{Over_71}{We can't have this. Not now. Not with everything else going on. The rules of the Vault are there for our protection and the survival of our species.}

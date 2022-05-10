@@ -1,1 +1,1 @@
-{100}{}{Coges la llave que est· en una ranura de la silla.}
+{100}{}{Coges la llave que est√° en una ranura de la silla.}

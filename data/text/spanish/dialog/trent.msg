@@ -1,44 +1,44 @@
-{100}{}{¡Aléjate de mí! ¡Déjame en paz!}
-{101}{}{Hola forastero. No deberías estar aquí fuera. ¡Solo encontrarás muerte!}
-{102}{}{¿No sabrás algo sobre las caravanas desaparecidas?}
-{103}{}{¿Quién eres?}
-{104}{}{¿Qué tipo de muerte?}
-{105}{}{Necesito provisiones. ¡Dámelas!}
-{106}{}{Estoy buscando un Chip de Agua. ¿Puedes ayudarme?}
-{107}{}{Me preguntaba si sabrías algo sobre las Garras Mortales.}
-{108}{}{¿Rurr? ¿Snif?}
-{109}{}{¡Qué quieres! ¡Déjame tranquilo!}
+{100}{}{Â¡AlÃ©jate de mÃ­! Â¡DÃ©jame en paz!}
+{101}{}{Hola forastero. No deberÃ­as estar aquÃ­ fuera. Â¡Solo encontrarÃ¡s muerte!}
+{102}{}{Â¿No sabrÃ¡s algo sobre las caravanas desaparecidas?}
+{103}{}{Â¿QuiÃ©n eres?}
+{104}{}{Â¿QuÃ© tipo de muerte?}
+{105}{}{Necesito provisiones. Â¡DÃ¡melas!}
+{106}{}{Estoy buscando un Chip de Agua. Â¿Puedes ayudarme?}
+{107}{}{Me preguntaba si sabrÃ­as algo sobre las Garras Mortales.}
+{108}{}{Â¿Rurr? Â¿Snif?}
+{109}{}{Â¡QuÃ© quieres! Â¡DÃ©jame tranquilo!}
 {110}{}{Rrr. Snrg.}
-{111}{}{¡Grande, grandísima! ¡Como tres hombres! ¡Garras como brazos! ¡Rajando por aquí! ¡Rajando por allá!}
-{112}{}{Sí. ¿Qué más?}
-{113}{}{Tranquilízate, hombre. Ahora estás a salvo.}
-{114}{}{¡Menudo pedazo de monstruo debe ser!}
-{115}{}{¿La mataste?}
-{116}{}{Soy Trent. Trabajo como guardia para los Mercaderes de Agua. Nuestra caravana fue atacada... ¡por un monstruo! Gigantesco, rapidísimo. ¡Se comió a Joe! ¡Y ni siquiera se inmutó con los disparos! ¡Era enorme!}
-{117}{}{¿Qué fue lo que os atacó?}
+{111}{}{Â¡Grande, grandÃ­sima! Â¡Como tres hombres! Â¡Garras como brazos! Â¡Rajando por aquÃ­! Â¡Rajando por allÃ¡!}
+{112}{}{SÃ­. Â¿QuÃ© mÃ¡s?}
+{113}{}{TranquilÃ­zate, hombre. Ahora estÃ¡s a salvo.}
+{114}{}{Â¡Menudo pedazo de monstruo debe ser!}
+{115}{}{Â¿La mataste?}
+{116}{}{Soy Trent. Trabajo como guardia para los Mercaderes de Agua. Nuestra caravana fue atacada... Â¡por un monstruo! Gigantesco, rapidÃ­simo. Â¡Se comiÃ³ a Joe! Â¡Y ni siquiera se inmutÃ³ con los disparos! Â¡Era enorme!}
+{117}{}{Â¿QuÃ© fue lo que os atacÃ³?}
 {118}{}{Al parecer se trata de una especie de mutante.}
-{119}{}{¡Al parecer se trata de una Garra Mortal!}
-{120}{}{¡Bueno, ahora sabes que deberían subirte el sueldo!}
-{121}{}{Gracias. No es como si los necesitara todavía.}
-{122}{}{¡Chip de Agua! ¡Soy un guardia, no un ingeniero! Pregúntale a los mercaderes de agua del Eje, ¡ellos sabrán!}
-{123}{}{¡Una Garra Mortal!}
-{124}{}{¿Qué estás haciendo? ¡Déjame en paz!}
-{125}{}{No... no lo sé. Hace tanto tiempo que no duermo. Hambre. Sed. Cansancio. Necesito irme a casa.}
+{119}{}{Â¡Al parecer se trata de una Garra Mortal!}
+{120}{}{Â¡Bueno, ahora sabes que deberÃ­an subirte el sueldo!}
+{121}{}{Gracias. No es como si los necesitara todavÃ­a.}
+{122}{}{Â¡Chip de Agua! Â¡Soy un guardia, no un ingeniero! PregÃºntale a los mercaderes de agua del Eje, Â¡ellos sabrÃ¡n!}
+{123}{}{Â¡Una Garra Mortal!}
+{124}{}{Â¿QuÃ© estÃ¡s haciendo? Â¡DÃ©jame en paz!}
+{125}{}{No... no lo sÃ©. Hace tanto tiempo que no duermo. Hambre. Sed. Cansancio. Necesito irme a casa.}
 {126}{}{}
-{127}{}{Cuernos enormes, piel roja asquerosa, como sacada de un cuento de demonios, y se comió a Joe en tres bocados...}
-{128}{}{¡Nadie está a salvo! Nadie está a salvo, ya no estamos a salvo, y que voy a hacer...}
-{129}{}{¿Estás mal de la cabeza? ¡Le disparé tres veces con mi Desert Eagle y ni siquiera pestañeó!}
+{127}{}{Cuernos enormes, piel roja asquerosa, como sacada de un cuento de demonios, y se comiÃ³ a Joe en tres bocados...}
+{128}{}{Â¡Nadie estÃ¡ a salvo! Nadie estÃ¡ a salvo, ya no estamos a salvo, y que voy a hacer...}
+{129}{}{Â¿EstÃ¡s mal de la cabeza? Â¡Le disparÃ© tres veces con mi Desert Eagle y ni siquiera pestaÃ±eÃ³!}
 {130}{}{I don't care if it's a mutant, an alien, or a demon from hell, I never want to see another one of those things as long as I live!}
-{131}{}{¡Solo soy un guardia, corcho! ¡No me culpes a mí! ¡Y pagan bien! ¡No tengo ningún problema con ellos!}
-{132}{}{¿Cómo puedo ayudarte?}
-{133}{}{Las Garras Mortales las tienen. Creía que eran cuentos, pero... no te imaginas lo grandes que son, y lo rápidas. Primero las olimos, luego aparecieron y nos atacaron. Todos echamos a correr. No sé cómo conseguí escapar.}
-{134}{}{Trent, Trent Barrister. Vivo en el Eje. Últimamente no hay mucho trabajo y soy bastante bueno disparando, así que me puse a trabajar como guardia para los Mercaderes de Agua. Buen sueldo, bajo riesgo... o por lo menos eso creía.}
-{135}{}{No tengo ni idea. ¿Eso es vieja tecnología, no? Supongo que los carroñeros pueden encontrar uno, pero yo no sabría por dónde empezar a buscar. Nadie los usa ya... ¿o sí?}
-{136}{}{Son enormes. Como lagartos gigantes, pero de cuero. Garras enormes, dientes enormes y cuernos enormes. Además les encanta la carne humana. Y son rápidos, Dios mío, qué rápidos son. Menos mal que no me persiguieron a mí, sino estaría muerto.}
-{137}{}{Gracias. Quizás fue un malentendido lo que ocurrió. No tengo muchas chapas, pero ahora son tuyas.}
-{138}{}{Gracias. Oh Dios, eso está bien... No tengo muchas chapas, pero ahora son tuyas.}
-{139}{}{Gracias. Quizás lo que ocurrió fue un malentendido. No tengo muchas chapas, pero... ¡qué diablos! Se me debieron caer. Ahora son tuyas.}
-{140}{}{Gracias. Oh Dios, eso está bien... No tengo muchas chapas, pero... ¡qué diablos! Se me debieron caer. Ahora son tuyas.}
-{141}{}{¡Socorro!}
-{142}{}{El olor de la muerte, amiga mía. El olor de la muerte...}
-{143}{}{El olor de la muerte, amiga mía. El olor de la muerte...}
+{131}{}{Â¡Solo soy un guardia, corcho! Â¡No me culpes a mÃ­! Â¡Y pagan bien! Â¡No tengo ningÃºn problema con ellos!}
+{132}{}{Â¿CÃ³mo puedo ayudarte?}
+{133}{}{Las Garras Mortales las tienen. CreÃ­a que eran cuentos, pero... no te imaginas lo grandes que son, y lo rÃ¡pidas. Primero las olimos, luego aparecieron y nos atacaron. Todos echamos a correr. No sÃ© cÃ³mo conseguÃ­ escapar.}
+{134}{}{Trent, Trent Barrister. Vivo en el Eje. Ãšltimamente no hay mucho trabajo y soy bastante bueno disparando, asÃ­ que me puse a trabajar como guardia para los Mercaderes de Agua. Buen sueldo, bajo riesgo... o por lo menos eso creÃ­a.}
+{135}{}{No tengo ni idea. Â¿Eso es vieja tecnologÃ­a, no? Supongo que los carroÃ±eros pueden encontrar uno, pero yo no sabrÃ­a por dÃ³nde empezar a buscar. Nadie los usa ya... Â¿o sÃ­?}
+{136}{}{Son enormes. Como lagartos gigantes, pero de cuero. Garras enormes, dientes enormes y cuernos enormes. AdemÃ¡s les encanta la carne humana. Y son rÃ¡pidos, Dios mÃ­o, quÃ© rÃ¡pidos son. Menos mal que no me persiguieron a mÃ­, sino estarÃ­a muerto.}
+{137}{}{Gracias. QuizÃ¡s fue un malentendido lo que ocurriÃ³. No tengo muchas chapas, pero ahora son tuyas.}
+{138}{}{Gracias. Oh Dios, eso estÃ¡ bien... No tengo muchas chapas, pero ahora son tuyas.}
+{139}{}{Gracias. QuizÃ¡s lo que ocurriÃ³ fue un malentendido. No tengo muchas chapas, pero... Â¡quÃ© diablos! Se me debieron caer. Ahora son tuyas.}
+{140}{}{Gracias. Oh Dios, eso estÃ¡ bien... No tengo muchas chapas, pero... Â¡quÃ© diablos! Se me debieron caer. Ahora son tuyas.}
+{141}{}{Â¡Socorro!}
+{142}{}{El olor de la muerte, amiga mÃ­a. El olor de la muerte...}
+{143}{}{El olor de la muerte, amiga mÃ­a. El olor de la muerte...}

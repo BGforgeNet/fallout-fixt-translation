@@ -1,6 +1,6 @@
-{100}{}{Est·s viendo a una criatura que reluce.}
+{100}{}{Est√°s viendo a una criatura que reluce.}
 {101}{}{Mmmm...}
 {102}{}{Ahhh...}
-{103}{}{El necrÛfago resplandeciente murmura algo y luego se calla. Babea incontrolablemente.}
+{103}{}{El necr√≥fago resplandeciente murmura algo y luego se calla. Babea incontrolablemente.}
 {104}{}{No obtienes respuesta.}
 {105}{}{Ves: a una criatura que reluce.}

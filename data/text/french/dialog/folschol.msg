@@ -1,20 +1,20 @@
 {100}{}{Voici un studieux Disciple de l'Apocalypse.}
-{101}{}{Silence s'il te plaît, j'essaie d'étudier.}
-{102}{}{Nous recherchons la connaissance pour nous protéger des Enfants.}
-{103}{}{Nicole dit qu'en connaissant nos ennemis, nous arriverons à dominer.}
+{101}{}{Silence s'il te plaÃ®t, j'essaie d'Ã©tudier.}
+{102}{}{Nous recherchons la connaissance pour nous protÃ©ger des Enfants.}
+{103}{}{Nicole dit qu'en connaissant nos ennemis, nous arriverons Ã  dominer.}
 {104}{}{Bonjour.}
-{105}{}{Bienvenue chez les Disciples de l'Apocalypse. Merci de respecter le caractère sacré de notre Bibliothèque.}
-{106}{}{Magnifique journée à toi.}
-{107}{}{Toute connaissance est sacrée.}
-{108}{}{Nous devons nous protéger.}
-{109}{}{Qui sait ce qui se cache derrière la Cathédrale des Enfants ?}
+{105}{}{Bienvenue chez les Disciples de l'Apocalypse. Merci de respecter le caractÃ¨re sacrÃ© de notre BibliothÃ¨que.}
+{106}{}{Magnifique journÃ©e Ã  toi.}
+{107}{}{Toute connaissance est sacrÃ©e.}
+{108}{}{Nous devons nous protÃ©ger.}
+{109}{}{Qui sait ce qui se cache derriÃ¨re la CathÃ©drale des Enfants ?}
 {110}{}{La connaissance est la vie.}
-{111}{}{Nicole nous aide à comprendre le caractère sacré de la connaissance.}
-{112}{}{Nicole nous encourage à ressusciter ce qui a été perdu.}
+{111}{}{Nicole nous aide Ã  comprendre le caractÃ¨re sacrÃ© de la connaissance.}
+{112}{}{Nicole nous encourage Ã  ressusciter ce qui a Ã©tÃ© perdu.}
 {113}{}{Il faut que je trouve ce livre pour Nicole.}
-{114}{}{Katja ne doit pas être loin. Katja !}
-{115}{}{Les Enfants ont été éjectés de la Cathédrale.}
-{116}{}{C'était toi, n'est-ce pas ?}
-{117}{}{A présent, nous sommes libres de trouver les connaissances nécessaires pour reconstruire la civilisation.}
+{114}{}{Katja ne doit pas Ãªtre loin. Katja !}
+{115}{}{Les Enfants ont Ã©tÃ© Ã©jectÃ©s de la CathÃ©drale.}
+{116}{}{C'Ã©tait toi, n'est-ce pas ?}
+{117}{}{A prÃ©sent, nous sommes libres de trouver les connaissances nÃ©cessaires pour reconstruire la civilisation.}
 {118}{}{N'est-ce pas merveilleux que les Enfants ne soient plus une menace ?}
-{119}{}{Magnifique journée à toi.}
+{119}{}{Magnifique journÃ©e Ã  toi.}

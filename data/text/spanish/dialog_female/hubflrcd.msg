@@ -1,57 +1,57 @@
-{100}{}{Estás viendo un niño de las flores.}
-{101}{}{¡Hola! Podrías... oh, discúlpame...}
-{102}{}{¡Tú! ¡He oído hablar de ti! ¡Matas a la gente y te la comes! ¡Madre Jain! ¡Madre Jain! ¡Ayúdame!}
-{103}{}{¿Quiere una flor, señor?}
-{104}{}{¿Quiere una flor, señora?}
-{105}{}{Vacío }
-{106}{}{¿Qué tiene de especial este lugar?}
-{107}{}{¿Qué tiene esta flor de especial?}
-{108}{}{¿Qué quieres decir, chico?}
-{109}{}{¡Claro, chico!}
+{100}{}{EstÃ¡s viendo un niÃ±o de las flores.}
+{101}{}{Â¡Hola! PodrÃ­as... oh, discÃºlpame...}
+{102}{}{Â¡TÃº! Â¡He oÃ­do hablar de ti! Â¡Matas a la gente y te la comes! Â¡Madre Jain! Â¡Madre Jain! Â¡AyÃºdame!}
+{103}{}{Â¿Quiere una flor, seÃ±or?}
+{104}{}{Â¿Quiere una flor, seÃ±ora?}
+{105}{}{VacÃ­o }
+{106}{}{Â¿QuÃ© tiene de especial este lugar?}
+{107}{}{Â¿QuÃ© tiene esta flor de especial?}
+{108}{}{Â¿QuÃ© quieres decir, chico?}
+{109}{}{Â¡Claro, chico!}
 {110}{}{No, gracias.}
-{111}{}{Claro. ¡Quizás me guste pisotearla!}
-{112}{}{*snif snif* ¡Huele bien!}
-{113}{}{*snif snif* ¡Huele fatal!}
-{114}{}{¡Idiota! ¡Ya tienes una flor!}
-{115}{}{¿Quieres la flor o no?}
-{116}{}{Te aceptaré la flor si me cuentas algo de este lugar.}
-{117}{}{¿Qué tiene esta flor de especial?}
-{118}{}{¡Claro, chico!}
-{119}{}{Basta ya con la maldita flor. ¡Contesta la pregunta!}
+{111}{}{Claro. Â¡QuizÃ¡s me guste pisotearla!}
+{112}{}{*snif snif* Â¡Huele bien!}
+{113}{}{*snif snif* Â¡Huele fatal!}
+{114}{}{Â¡Idiota! Â¡Ya tienes una flor!}
+{115}{}{Â¿Quieres la flor o no?}
+{116}{}{Te aceptarÃ© la flor si me cuentas algo de este lugar.}
+{117}{}{Â¿QuÃ© tiene esta flor de especial?}
+{118}{}{Â¡Claro, chico!}
+{119}{}{Basta ya con la maldita flor. Â¡Contesta la pregunta!}
 {120}{}{}
-{121}{}{Es una Rosa de la Unidad. Tiene el color de la Llama Sagrada y representa la paz y la armonía que tendremos cuando los Niños de la Catedral nos ayuden a todos a ser amistosos y fuertes. Oh, ¿quieres una?}
+{121}{}{Es una Rosa de la Unidad. Tiene el color de la Llama Sagrada y representa la paz y la armonÃ­a que tendremos cuando los NiÃ±os de la Catedral nos ayuden a todos a ser amistosos y fuertes. Oh, Â¿quieres una?}
 {122}{}{}
-{123}{}{¿Cómo va a hacer una rosa todo eso?}
-{124}{}{Háblame de la Llama Sagrada...}
-{125}{}{¿Cuánto es, chico?}
-{126}{}{¡Claro, chico!}
+{123}{}{Â¿CÃ³mo va a hacer una rosa todo eso?}
+{124}{}{HÃ¡blame de la Llama Sagrada...}
+{125}{}{Â¿CuÃ¡nto es, chico?}
+{126}{}{Â¡Claro, chico!}
 {127}{}{}
 {128}{}{Mira. No quiero tu maldita flor.}
-{129}{}{Es gratis. No creemos en las chapas. ¡La Llama Sagrada cuida de nuestras necesidades! ¡Es tan maravilloso! ¡Deberías unirte a nuestra Catedral de la Felicidad! Eh, ¿quieres una?}
-{130}{}{Háblame de la Catedral...}
-{131}{}{Háblame de la Llama Sagrada...}
-{132}{}{¡Claro, chico!}
+{129}{}{Es gratis. No creemos en las chapas. Â¡La Llama Sagrada cuida de nuestras necesidades! Â¡Es tan maravilloso! Â¡DeberÃ­as unirte a nuestra Catedral de la Felicidad! Eh, Â¿quieres una?}
+{130}{}{HÃ¡blame de la Catedral...}
+{131}{}{HÃ¡blame de la Llama Sagrada...}
+{132}{}{Â¡Claro, chico!}
 {133}{}{}
 {134}{}{}
-{135}{}{Gracias, oh, ¡gracias! ¡Regalo flores! ¿No es fantástico?}
-{136}{}{¡Eres mezquina! ¡Te odio! ¡Espero que la Llama Sagrada te devore!}
-{137}{}{¡Seguro que sí! ¡Toma una! ¡He regalado una flor! ¿No es fantástico?}
-{138}{}{¡Eres terrible! Espero que la Llama Sagrada te mate antes de que digas más estupideces. Madre Jain, ¡vigila a esa imbécil!}
-{139}{}{Somos los Niños de la Catedral. La mismísima Llama Sagrada nos ha encargado de alimentar a los hambrientos y curar a los enfermos. Vamos a extender la paz y la unidad por todas partes, ¡y pronto todo será perfecto! ¡Toma una flor!}
-{140}{}{No pienso que quieras una flor. ¡Eres mezquina conmigo!}
-{141}{}{¡Las rosas no pueden hacer eso, tonta! Solo las personas pueden salvar el mundo. Y con la Llama Sagrada como Maestra, ¡estamos seguros de que todo será especial y agradable! Bueno, ¿quieres una flor?}
-{142}{}{Háblame de la Catedral...}
-{143}{}{Háblame de la Llama Sagrada...}
-{144}{}{¡Claro, chico!}
+{135}{}{Gracias, oh, Â¡gracias! Â¡Regalo flores! Â¿No es fantÃ¡stico?}
+{136}{}{Â¡Eres mezquina! Â¡Te odio! Â¡Espero que la Llama Sagrada te devore!}
+{137}{}{Â¡Seguro que sÃ­! Â¡Toma una! Â¡He regalado una flor! Â¿No es fantÃ¡stico?}
+{138}{}{Â¡Eres terrible! Espero que la Llama Sagrada te mate antes de que digas mÃ¡s estupideces. Madre Jain, Â¡vigila a esa imbÃ©cil!}
+{139}{}{Somos los NiÃ±os de la Catedral. La mismÃ­sima Llama Sagrada nos ha encargado de alimentar a los hambrientos y curar a los enfermos. Vamos a extender la paz y la unidad por todas partes, Â¡y pronto todo serÃ¡ perfecto! Â¡Toma una flor!}
+{140}{}{No pienso que quieras una flor. Â¡Eres mezquina conmigo!}
+{141}{}{Â¡Las rosas no pueden hacer eso, tonta! Solo las personas pueden salvar el mundo. Y con la Llama Sagrada como Maestra, Â¡estamos seguros de que todo serÃ¡ especial y agradable! Bueno, Â¿quieres una flor?}
+{142}{}{HÃ¡blame de la Catedral...}
+{143}{}{HÃ¡blame de la Llama Sagrada...}
+{144}{}{Â¡Claro, chico!}
 {145}{}{No, gracias.}
-{146}{}{Te lo demostraré, pequeño tonto...}
-{147}{}{Éste es el fuego que limpió el mundo y, si le obedecemos, ¡no lo hará otra vez! ¡Quiere que seamos listos y pacíficos y que estemos unidos y todo el rollo de siempre! Bueno, ¿quieres una flor?}
-{148}{}{Háblame de esta Unidad...}
-{149}{}{¡Claro, chico!}
+{146}{}{Te lo demostrarÃ©, pequeÃ±o tonto...}
+{147}{}{Ã‰ste es el fuego que limpiÃ³ el mundo y, si le obedecemos, Â¡no lo harÃ¡ otra vez! Â¡Quiere que seamos listos y pacÃ­ficos y que estemos unidos y todo el rollo de siempre! Bueno, Â¿quieres una flor?}
+{148}{}{HÃ¡blame de esta Unidad...}
+{149}{}{Â¡Claro, chico!}
 {150}{}{No, gracias.}
-{151}{}{¡Basta ya con la maldita flor!}
-{152}{}{Es un lugar maravilloso cerca del mar donde la gente pasa el tiempo rezándole a la Llama Sagrada y siendo buena. ¿Y todos son buenos excepto el Padre Fustigador? Oh... ¿quieres una flor?}
-{153}{}{Háblame del Padre Fustigador...}
-{154}{}{¡Claro, chico!}
+{151}{}{Â¡Basta ya con la maldita flor!}
+{152}{}{Es un lugar maravilloso cerca del mar donde la gente pasa el tiempo rezÃ¡ndole a la Llama Sagrada y siendo buena. Â¿Y todos son buenos excepto el Padre Fustigador? Oh... Â¿quieres una flor?}
+{153}{}{HÃ¡blame del Padre Fustigador...}
+{154}{}{Â¡Claro, chico!}
 {155}{}{No, gracias.}
-{156}{}{¡Basta ya con la maldita flor!}
+{156}{}{Â¡Basta ya con la maldita flor!}

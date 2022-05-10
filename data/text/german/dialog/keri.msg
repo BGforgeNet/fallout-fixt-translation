@@ -104,7 +104,7 @@
 {203}{}{Lug.}
 {204}{}{Ready to go? We're leaving today.}
 {205}{}{Yep!}
-{206}{}{Nö.}
+{206}{}{NÃ¶.}
 {207}{}{Hrurra?}
 {208}{}{You're a day early. Come back tomorrow if you still want the job. If not, don't show. I don't give a crap.}
 {209}{}{Hey, you're early. I'm not sending them out until }

@@ -1,23 +1,23 @@
-{100}{}{Estás viendo a un niño pequeño.}
-{101}{}{¡Hola!}
+{100}{}{EstÃ¡s viendo a un niÃ±o pequeÃ±o.}
+{101}{}{Â¡Hola!}
 {102}{}{Hola.}
-{103}{}{¿Dónde están tus padres?}
+{103}{}{Â¿DÃ³nde estÃ¡n tus padres?}
 {104}{}{Erf.}
-{105}{}{No zé. Por aquí, supongo.}
-{106}{}{¡Qué simpático!}
-{107}{}{Oye, ¿vas a matar a alguien?}
-{108}{}{Sí.}
-{109}{}{¡No!}
+{105}{}{No zÃ©. Por aquÃ­, supongo.}
+{106}{}{Â¡QuÃ© simpÃ¡tico!}
+{107}{}{Oye, Â¿vas a matar a alguien?}
+{108}{}{SÃ­.}
+{109}{}{Â¡No!}
 {110}{}{Erf.}
-{111}{}{¡Se lo diré a mi mamá!}
-{112}{}{Entonces no deberías llevar un arma como esa.}
-{200}{}{Lo siento, señor.}
-{201}{}{Lo siento, señora.}
-{300}{}{Ves: Niño.}
-{301}{}{Ves: Niña.}
-{980}{}{¿Eh?}
-{981}{}{No zé. Pregúntale a mi mamá.}
-{982}{}{Pregúntale a mi papá.}
+{111}{}{Â¡Se lo dirÃ© a mi mamÃ¡!}
+{112}{}{Entonces no deberÃ­as llevar un arma como esa.}
+{200}{}{Lo siento, seÃ±or.}
+{201}{}{Lo siento, seÃ±ora.}
+{300}{}{Ves: NiÃ±o.}
+{301}{}{Ves: NiÃ±a.}
+{980}{}{Â¿Eh?}
+{981}{}{No zÃ©. PregÃºntale a mi mamÃ¡.}
+{982}{}{PregÃºntale a mi papÃ¡.}
 {1000}{}{Garra Mortal}
 {1001}{}{Raiders}
 {1002}{}{Ciudad Vertedero}
@@ -26,17 +26,17 @@
 {1005}{}{Mercaderes}
 {1006}{}{Khans}
 {1007}{}{Garl}
-{1008}{}{Arenas Sombrías}
+{1008}{}{Arenas SombrÃ­as}
 {1009}{}{Eje}
 {1010}{}{Tandi}
 {1011}{}{Aradesh}
 {1012}{}{Seth}
 {1013}{}{Razlo}
-{1014}{}{Policía}
+{1014}{}{PolicÃ­a}
 {1015}{}{Caravanas}
 {1016}{}{Comerciantes}
-{1017}{}{Niños}
-{1018}{}{Necrópolis}
+{1017}{}{NiÃ±os}
+{1018}{}{NecrÃ³polis}
 {1019}{}{Mancha}
 {1020}{}{Hermandad}
 {1021}{}{Cementerio}
@@ -46,30 +46,30 @@
 {1025}{}{Alturas}
 {1026}{}{El Cementerio}
 {1027}{}{Cementerio de LA}
-{1100}{}{¡Uh! ¡Un monstruo de pesadilla!}
-{1101}{}{¡Viejos agarrados!}
+{1100}{}{Â¡Uh! Â¡Un monstruo de pesadilla!}
+{1101}{}{Â¡Viejos agarrados!}
 {1102}{}{No tengo ni idea.}
 {1103}{}{Bichos asquerosos.}
-{1104}{}{Pregúntale a mi mamá.}
+{1104}{}{PregÃºntale a mi mamÃ¡.}
 {1105}{}{Canciones alegres.}
-{1106}{}{¡Viejos agarrados!}
+{1106}{}{Â¡Viejos agarrados!}
 {1107}{}{Hombre malo.}
 {1108}{}{No te lo digo.}
 {1109}{}{Menuda ciudad.}
-{1110}{}{¡No te lo digo!}
+{1110}{}{Â¡No te lo digo!}
 {1111}{}{No, no te lo digo.}
-{1112}{}{Mamá no quiere que hable de él.}
-{1113}{}{Papá piensa que es gracioso.}
+{1112}{}{MamÃ¡ no quiere que hable de Ã©l.}
+{1113}{}{PapÃ¡ piensa que es gracioso.}
 {1114}{}{Adultos.}
-{1115}{}{Estos bichos asquerosos los están molestando.}
+{1115}{}{Estos bichos asquerosos los estÃ¡n molestando.}
 {1116}{}{Buena gente, me dan golosinas.}
 {1117}{}{No les gusta jugar al escondite.}
 {1118}{}{Ese sitio da miedo.}
 {1119}{}{Un lugar asqueroso.}
 {1120}{}{Ese sitio da miedo.}
 {1121}{}{Ese sitio da miedo.}
-{1122}{}{Mamá no nos dejará jugar allí.}
-{1123}{}{Papá nos dice que juguemos allí.}
+{1122}{}{MamÃ¡ no nos dejarÃ¡ jugar allÃ­.}
+{1123}{}{PapÃ¡ nos dice que juguemos allÃ­.}
 {1124}{}{Zona de adultos.}
 {1125}{}{Zona de adultos.}
 {1126}{}{Ese sitio da miedo.}

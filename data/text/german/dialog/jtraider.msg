@@ -65,7 +65,7 @@
 {164}{}{You can leave peacefully.}
 {165}{}{I want my money. I want 200 caps.}
 {166}{}{I don't have enough money.}
-{167}{}{Bitte schön.}
+{167}{}{Bitte schÃ¶n.}
 {168}{}{You seem like a liar and a cheat to me.}
 {169}{}{Feeling's mutual bud. Let the girl go.}
 {170}{}{man}

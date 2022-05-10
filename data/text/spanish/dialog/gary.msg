@@ -1,23 +1,23 @@
-{100}{}{¡Has enfurecido a Gary!}
+{100}{}{Â¡Has enfurecido a Gary!}
 {101}{}{Ves: a Gary.}
-{102}{}{¡Eh! La ración de agua es solo para los necrófagos.}
-{103}{}{¡Cállate!}
+{102}{}{Â¡Eh! La raciÃ³n de agua es solo para los necrÃ³fagos.}
+{103}{}{Â¡CÃ¡llate!}
 {104}{}{El mutante te ignora.}
 {1000}{}{Agua}
-{1001}{}{Necrópolis}
+{1001}{}{NecrÃ³polis}
 {1002}{}{Set}
-{1003}{}{Almacén de Agua}
+{1003}{}{AlmacÃ©n de Agua}
 {1004}{}{Sala}
 {1005}{}{Teni}
-{1006}{}{Necrófagos}
+{1006}{}{NecrÃ³fagos}
 {1007}{}{Normales}
 {1008}{}{Chip}
 {1100}{}{No tengo ni idea.}
-{1101}{}{Estás encima de ella.}
-{1102}{}{Es un imbécil. Nos cargaríamos a él y a sus necrófagos.}
-{1103}{}{Es aquí.}
+{1101}{}{EstÃ¡s encima de ella.}
+{1102}{}{Es un imbÃ©cil. Nos cargarÃ­amos a Ã©l y a sus necrÃ³fagos.}
+{1103}{}{Es aquÃ­.}
 {1104}{}{No tengo ni idea.}
 {1105}{}{Es el jefe de Harry.}
 {1106}{}{Debiluchos.}
-{1107}{}{Más débiles que los necrófagos.}
+{1107}{}{MÃ¡s dÃ©biles que los necrÃ³fagos.}
 {1108}{}{No tengo ni idea.}

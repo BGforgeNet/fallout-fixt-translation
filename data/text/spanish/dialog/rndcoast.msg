@@ -1,22 +1,22 @@
-{101}{}{Estás viendo extrañas criaturas flotantes...}
-{102}{}{¡De pronto un grupo de mantis mutadas te ataca!}
-{103}{}{¡De pronto un grupo de mantis mutadas te ataca!}
-{104}{}{¡Estás viendo cómo los saqueadores atacan a un grupo de campesinos!}
-{105}{}{¡Un grupo de ratas se acerca rápidamente!}
-{106}{}{Estás viendo a unas personas pescando.}
-{107}{}{Cerca de ti, ves un cadáver asqueroso parcialmente devorado. Acabas de perder el apetito.}
+{101}{}{EstÃ¡s viendo extraÃ±as criaturas flotantes...}
+{102}{}{Â¡De pronto un grupo de mantis mutadas te ataca!}
+{103}{}{Â¡De pronto un grupo de mantis mutadas te ataca!}
+{104}{}{Â¡EstÃ¡s viendo cÃ³mo los saqueadores atacan a un grupo de campesinos!}
+{105}{}{Â¡Un grupo de ratas se acerca rÃ¡pidamente!}
+{106}{}{EstÃ¡s viendo a unas personas pescando.}
+{107}{}{Cerca de ti, ves un cadÃ¡ver asqueroso parcialmente devorado. Acabas de perder el apetito.}
 {200}{}{Tropiezas con unos charcos de agua.}
 {201}{}{Muerto de sed, bebes un poco de agua... no sabe nada bien.}
 {202}{}{El agua parece muy radioactiva y sucia.}
 {203}{}{Ahhh...}
 {204}{}{Arrgg...}
-{205}{}{¡Puaj!}
+{205}{}{Â¡Puaj!}
 {1000}{}{Ganas }
-{1001}{}{ puntos de experiencia por utilizar tu habilidad de Supervivencia con éxito.}
+{1001}{}{ puntos de experiencia por utilizar tu habilidad de Supervivencia con Ã©xito.}
 {1002}{}{Encounter: "}
 {1003}{}{"}
-{1004}{}{. ¿Quieres parar al encuentro?}
-{1005}{}{Sí.}
+{1004}{}{. Â¿Quieres parar al encuentro?}
+{1005}{}{SÃ­.}
 {1006}{}{No.}
 {1007}{}{}
 {1008}{}{}

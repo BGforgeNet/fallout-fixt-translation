@@ -1,9 +1,9 @@
-{100}{}{Voici l'Ordinateur de Contrôle des Cuves.}
-{101}{}{Accès refusé.}
-{102}{}{[la machine fait de drôles de bruits, suivit par un fort "bip !"] Accès accordé.}
-{103}{}{Afficher les codes de sécurité.}
+{100}{}{Voici l'Ordinateur de ContrÃ´le des Cuves.}
+{101}{}{AccÃ¨s refusÃ©.}
+{102}{}{[la machine fait de drÃ´les de bruits, suivit par un fort "bip !"] AccÃ¨s accordÃ©.}
+{103}{}{Afficher les codes de sÃ©curitÃ©.}
 {104}{}{Recherche des journaux.}
-{105}{}{Connexion aux ordinateurs médicaux.}
+{105}{}{Connexion aux ordinateurs mÃ©dicaux.}
 {106}{}{Configuration de la base en mode alerte.}
 {107}{}{1028-1285362}
 {108}{}{5574-7805564}
@@ -11,22 +11,22 @@
 {110}{}{1041-1251514}
 {111}{}{2565-7763929}
 {112}{}{3674-1254730}
-{113}{}{[Tentative d'accès à plus de données] Affichage du tableau des codes de sécurité.}
-{114}{}{Exécution de 1028-1285362}
-{115}{}{Exécution de 5574-7805564}
-{116}{}{Exécution de 8678-1251533}
-{117}{}{Exécution de 1041-1251514}
-{118}{}{Exécution de 2565-7763929}
-{119}{}{Exécution de 3674-1254730}
-{120}{}{[Tu as réussi à accéder au tableau des codes.]   > Commande ?}
+{113}{}{[Tentative d'accÃ¨s Ã  plus de donnÃ©es] Affichage du tableau des codes de sÃ©curitÃ©.}
+{114}{}{ExÃ©cution de 1028-1285362}
+{115}{}{ExÃ©cution de 5574-7805564}
+{116}{}{ExÃ©cution de 8678-1251533}
+{117}{}{ExÃ©cution de 1041-1251514}
+{118}{}{ExÃ©cution de 2565-7763929}
+{119}{}{ExÃ©cution de 3674-1254730}
+{120}{}{[Tu as rÃ©ussi Ã  accÃ©der au tableau des codes.]   > Commande ?}
 {121}{}{1028-1285362 Auto-destruction silencieuse : 1 min.}
 {122}{}{5574-7805564 Auto-destruction: 30 sec.}
 {123}{}{8678-1251533 Configuration de la base en mode alerte}
 {124}{}{1041-1251514 Auto-destruction silencieuse : 3 min.}
 {125}{}{2565-7763929 Auto-destruction: 3 min.}
-{126}{}{3674-1254730 Auto-destruction immédiate.}
+{126}{}{3674-1254730 Auto-destruction immÃ©diate.}
 {127}{}{Commande non valide. Fin de la session.}
-{128}{}{Indique le journal à consulter.}
+{128}{}{Indique le journal Ã  consulter.}
 {129}{}{Grey}
 {130}{}{Boyarsky}
 {131}{}{Maxson}
@@ -37,72 +37,72 @@
 {136}{}{Chargement du journal du Capitaine Maxson ?}
 {137}{}{Oui.}
 {138}{}{[retour au menu principal] Non.}
-{139}{}{Fin de ligne imprévue. Données incorrectes trouvées.}
+{139}{}{Fin de ligne imprÃ©vue. DonnÃ©es incorrectes trouvÃ©es.}
 {140}{}{Commande ?}
-{141}{}{Connexion réussie. Quelle est votre commande ?}
-{142}{}{Quel est l'état actuel des patients ?}
-{143}{}{L'état actuel des patients est le suivant : le lot de test du FEV n°23872-A comprend quatre unités mâles et deux unités femelles. Tous les individus souffrent d'exposition au FEV. Les paramètres vitaux entrent dans les paramètres normaux. Le processus d'infection au FEV est avancé à environ 50% sur tous les sujets. Transformation FEV attendue dans les 12 heures.}
-{144}{}{Je crois qu'il arrive quelque chose à l'un des patients. Puis-je faire quelque chose ?}
-{145}{}{Patient souffrant d'arythmie. Affichage des journaux de l'état du patient.}
+{141}{}{Connexion rÃ©ussie. Quelle est votre commande ?}
+{142}{}{Quel est l'Ã©tat actuel des patients ?}
+{143}{}{L'Ã©tat actuel des patients est le suivant : le lot de test du FEV nÂ°23872-A comprend quatre unitÃ©s mÃ¢les et deux unitÃ©s femelles. Tous les individus souffrent d'exposition au FEV. Les paramÃ¨tres vitaux entrent dans les paramÃ¨tres normaux. Le processus d'infection au FEV est avancÃ© Ã  environ 50% sur tous les sujets. Transformation FEV attendue dans les 12 heures.}
+{144}{}{Je crois qu'il arrive quelque chose Ã  l'un des patients. Puis-je faire quelque chose ?}
+{145}{}{Patient souffrant d'arythmie. Affichage des journaux de l'Ã©tat du patient.}
 {146}{}{Options disponibles :}
-{147}{}{Rapport sur l'état individuel des patients.}
-{148}{}{Couper les systèmes d'assistance vitaux.}
-{149}{}{Augmenter la dose des fragments d'ADN d'origine des sujets à 100%.}
+{147}{}{Rapport sur l'Ã©tat individuel des patients.}
+{148}{}{Couper les systÃ¨mes d'assistance vitaux.}
+{149}{}{Augmenter la dose des fragments d'ADN d'origine des sujets Ã  100%.}
 {150}{}{Sortir.}
-{151}{}{Code d'accès requis.}
+{151}{}{Code d'accÃ¨s requis.}
 {152}{}{Autorisation 3578X287A.}
 {153}{}{Z876342BCD}
 {154}{}{Alpha Delta 287 Foxtrot}
 {155}{}{[Tentative de piratage de l'ordinateur]}
-{156}{}{Code d'accès incorrect. Commande ?}
-{157}{}{Code d'accès accepté. Patienter. Accès aux données en cours. Prêt à traiter la requête.}
-{158}{}{Couper les systèmes d'assistance vitaux du lot n°23872-A du FEV.}
-{159}{}{Augmenter la dose de fragments d'ADN d'origine à 100% sur tous les sujets.}
-{160}{}{Accès accordé. Quel fichier patient veux-tu examiner ?}
-{161}{}{Fichier patient n°23869.}
-{162}{}{Fichier patient n°23870.}
-{163}{}{Fichier patient n°23871.}
-{164}{}{Fichier patient n°23872.}
-{165}{}{Fichier patient n°23869. Sujet : Mâle. Age : 25 ans. Taux de radiations : 40. Exposition au FEV : 50%. Fragments d'ADN d'origine restants : 50%. Les paramètres vitaux sont élevés mais entrent dans les paramètres normaux.}
+{156}{}{Code d'accÃ¨s incorrect. Commande ?}
+{157}{}{Code d'accÃ¨s acceptÃ©. Patienter. AccÃ¨s aux donnÃ©es en cours. PrÃªt Ã  traiter la requÃªte.}
+{158}{}{Couper les systÃ¨mes d'assistance vitaux du lot nÂ°23872-A du FEV.}
+{159}{}{Augmenter la dose de fragments d'ADN d'origine Ã  100% sur tous les sujets.}
+{160}{}{AccÃ¨s accordÃ©. Quel fichier patient veux-tu examiner ?}
+{161}{}{Fichier patient nÂ°23869.}
+{162}{}{Fichier patient nÂ°23870.}
+{163}{}{Fichier patient nÂ°23871.}
+{164}{}{Fichier patient nÂ°23872.}
+{165}{}{Fichier patient nÂ°23869. Sujet : MÃ¢le. Age : 25 ans. Taux de radiations : 40. Exposition au FEV : 50%. Fragments d'ADN d'origine restants : 50%. Les paramÃ¨tres vitaux sont Ã©levÃ©s mais entrent dans les paramÃ¨tres normaux.}
 {166}{}{Je voudrais examiner un autre fichier patient.}
-{167}{}{Fichier patient n°23870. Sujet : Mâle. Age : 23 ans. Taux de radiations : 15. Exposition au FEV : 60%. Fragments d'ADN d'origine restants : 40%. Les paramètres vitaux entrent dans les paramètres normaux.}
-{168}{}{Fichier patient n°23781. Sujet : Femelle. Age : 20 ans. Taux de radiations : 10. Exposition au FEV : 55%. Fragments d'ADN d'origine restants : 45%. Les paramètres vitaux entrent dans les paramètres normaux.}
-{169}{}{Fichier patient n°23782. Sujet : Mâle. Age : 26 ans. Taux de radiations : 35. Exposition au FEV : 60%. Fragments d'ADN d'origine restants : 40%. Les paramètres vitaux sont au-dessous de la normale mais restent sont acceptables.}
-{170}{}{Es-tu sûr de vouloir couper les systèmes d'assistance vitaux du lot n°23872-A du FEV ?}
-{171}{}{Lot n°23872-A du FEV à terme. Commande ?}
+{167}{}{Fichier patient nÂ°23870. Sujet : MÃ¢le. Age : 23 ans. Taux de radiations : 15. Exposition au FEV : 60%. Fragments d'ADN d'origine restants : 40%. Les paramÃ¨tres vitaux entrent dans les paramÃ¨tres normaux.}
+{168}{}{Fichier patient nÂ°23781. Sujet : Femelle. Age : 20 ans. Taux de radiations : 10. Exposition au FEV : 55%. Fragments d'ADN d'origine restants : 45%. Les paramÃ¨tres vitaux entrent dans les paramÃ¨tres normaux.}
+{169}{}{Fichier patient nÂ°23782. Sujet : MÃ¢le. Age : 26 ans. Taux de radiations : 35. Exposition au FEV : 60%. Fragments d'ADN d'origine restants : 40%. Les paramÃ¨tres vitaux sont au-dessous de la normale mais restent sont acceptables.}
+{170}{}{Es-tu sÃ»r de vouloir couper les systÃ¨mes d'assistance vitaux du lot nÂ°23872-A du FEV ?}
+{171}{}{Lot nÂ°23872-A du FEV Ã  terme. Commande ?}
 {172}{}{Oui.}
 {173}{}{Non.}
-{174}{}{Veux-tu vraiment augmenter la dose ? La commande de correction automatique sera désactivée.}
-{175}{}{Augmentation de la dose d'ADN d'origine à 100%. ATTENTION : la commande de correction automatique a été désactivée.}
-{176}{}{Tu réussis à accéder à un écran d'interface de l'ordinateur de contrôle des cuves.}
-{177}{}{Tu essaies d'utiliser l'ordinateur mais tu ne parviens à obtenir aucune information utile.}
-{178}{}{Tu essaies d'utiliser l'ordinateur mais le système est trop complexe pour toi. Tu vas devoir réessayer.}
-{179}{}{L'explosion détruit le système de contrôle des cuves. Sans régulation, elles seront certainement hors de contrôle en quelques minutes.}
-{180}{}{Tu introduis la carte de sécurité dans le lecteur du terminal. Le terminal émet un déclic et un ronflement, et un écran non-crypté s'affiche.}
-{181}{}{[Quitter le système]}
-{182}{}{Mettre la base en alerte et désactiver la console.}
-{183}{}{[10710-8971-2014510] Activer alarmes et désactiver console.}
+{174}{}{Veux-tu vraiment augmenter la dose ? La commande de correction automatique sera dÃ©sactivÃ©e.}
+{175}{}{Augmentation de la dose d'ADN d'origine Ã  100%. ATTENTION : la commande de correction automatique a Ã©tÃ© dÃ©sactivÃ©e.}
+{176}{}{Tu rÃ©ussis Ã  accÃ©der Ã  un Ã©cran d'interface de l'ordinateur de contrÃ´le des cuves.}
+{177}{}{Tu essaies d'utiliser l'ordinateur mais tu ne parviens Ã  obtenir aucune information utile.}
+{178}{}{Tu essaies d'utiliser l'ordinateur mais le systÃ¨me est trop complexe pour toi. Tu vas devoir rÃ©essayer.}
+{179}{}{L'explosion dÃ©truit le systÃ¨me de contrÃ´le des cuves. Sans rÃ©gulation, elles seront certainement hors de contrÃ´le en quelques minutes.}
+{180}{}{Tu introduis la carte de sÃ©curitÃ© dans le lecteur du terminal. Le terminal Ã©met un dÃ©clic et un ronflement, et un Ã©cran non-cryptÃ© s'affiche.}
+{181}{}{[Quitter le systÃ¨me]}
+{182}{}{Mettre la base en alerte et dÃ©sactiver la console.}
+{183}{}{[10710-8971-2014510] Activer alarmes et dÃ©sactiver console.}
 {184}{}{[31914-1041-1251514] Auto-destruction silencieuse: 5 min.}
 {185}{}{10710-8971-2014510.}
 {186}{}{76223-4533-2540092.}
 {187}{}{[76223-4533-2540092] Auto-destruction: 1 min.}
 {188}{}{> Execution de 76223-4533-2540092...}
-{189}{}{L'explosion détruit l'ordinateur de Contrôle des Cuves.}
-{200}{}{Tu remarques que le panneau de maintenance a été retiré, ce qui expose les composants fragiles de l'ordinateur.}
-{201}{}{Désactiver les alarmes de la base.}
-{202}{}{Commande exécuté avec succès.}
+{189}{}{L'explosion dÃ©truit l'ordinateur de ContrÃ´le des Cuves.}
+{200}{}{Tu remarques que le panneau de maintenance a Ã©tÃ© retirÃ©, ce qui expose les composants fragiles de l'ordinateur.}
+{201}{}{DÃ©sactiver les alarmes de la base.}
+{202}{}{Commande exÃ©cutÃ© avec succÃ¨s.}
 {203}{}{[Continue]}
 {204}{}{[Revenir au menu principal] Laisse tomber.}
-{205}{}{> Exécution de 536475-69-62656B... ... ... Commande exécutée avec succès.}
-{206}{}{> Exécution de 10710-8971-2014510...}
-{207}{}{ERREUR: Enregistrements déjà présents sur le Pip-Boy 2000. Annulation.}
+{205}{}{> ExÃ©cution de 536475-69-62656B... ... ... Commande exÃ©cutÃ©e avec succÃ¨s.}
+{206}{}{> ExÃ©cution de 10710-8971-2014510...}
+{207}{}{ERREUR: Enregistrements dÃ©jÃ  prÃ©sents sur le Pip-Boy 2000. Annulation.}
 {208}{}{[Revenir au menu principal] Laisse tomber.}
 {300}{}{10810-1103-9799121.}
 {301}{}{[10810-1103-9799121] Auto-destruction: 5 min.}
-{302}{}{> Exécution de 10810-1103-9799121...}
+{302}{}{> ExÃ©cution de 10810-1103-9799121...}
 {303}{}{83100-1171-0539115.}
 {304}{}{[83100-1171-0539115] Auto-destruction silencieuse: 10 min.}
-{305}{}{> Exécution de 83100-1171-0539115...}
+{305}{}{> ExÃ©cution de 83100-1171-0539115...}
 {400}{}{\> Executing 41515-2114-0141913 ...}
 {401}{}{31415-9265-3589793.}
 {402}{}{[31415-9265-3589793]     Self-destruct in 10 minutes.}

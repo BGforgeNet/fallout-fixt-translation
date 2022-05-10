@@ -1,7 +1,7 @@
-{100}{}{Estás viendo un armario.}
-{101}{}{Parece que el armario tiene una cerradura electrónica.}
+{100}{}{EstÃ¡s viendo un armario.}
+{101}{}{Parece que el armario tiene una cerradura electrÃ³nica.}
 {102}{}{Abres el armario con facilidad.}
-{103}{}{Esta cerradura parece ser más difícil de lo que habías pensado en un principio.}
-{104}{}{Abres la cerradura sin ningún problema.}
-{105}{}{Esta cerradura parece ser más difícil de lo que habías pensado en un principio.}
+{103}{}{Esta cerradura parece ser mÃ¡s difÃ­cil de lo que habÃ­as pensado en un principio.}
+{104}{}{Abres la cerradura sin ningÃºn problema.}
+{105}{}{Esta cerradura parece ser mÃ¡s difÃ­cil de lo que habÃ­as pensado en un principio.}
 {106}{}{Esa habilidad no tiene efecto en el armario.}

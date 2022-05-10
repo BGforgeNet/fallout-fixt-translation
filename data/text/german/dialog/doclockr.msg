@@ -3,7 +3,7 @@
 {102}{}{You spot a trap on the locker, but fail to disarm it.}
 {103}{}{You spot a trap on the locker, and accidentally set it off!}
 {104}{}{You disarm the trap.}
-{105}{}{Du schaffst es nicht, die Falle zu entsch‰rfen.}
+{105}{}{Du schaffst es nicht, die Falle zu entsch√§rfen.}
 {106}{}{You accidentally set off the trap!}
 {107}{}{You unlock the locker.}
 {108}{}{You fail to bypass the lock on the locker.}

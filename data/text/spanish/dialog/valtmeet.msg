@@ -1,1 +1,1 @@
-{100}{}{Esta es la Sala de Reuniones del Refugio. Es un buen lugar de encuentro para los habitantes del Refugio. Por extraño que parezca, ya no atrae tu atención como lo hacía en el pasado.}
+{100}{}{Esta es la Sala de Reuniones del Refugio. Es un buen lugar de encuentro para los habitantes del Refugio. Por extraÃ±o que parezca, ya no atrae tu atenciÃ³n como lo hacÃ­a en el pasado.}

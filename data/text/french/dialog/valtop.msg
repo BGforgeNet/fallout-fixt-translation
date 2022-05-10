@@ -1,1 +1,1 @@
-{100}{}{Voici la salle des opérations. Toutes les opérations de commande et de contrôle sont effectuées ici. Ces personnes sont responsables de l'Abri.}
+{100}{}{Voici la salle des opÃ©rations. Toutes les opÃ©rations de commande et de contrÃ´le sont effectuÃ©es ici. Ces personnes sont responsables de l'Abri.}

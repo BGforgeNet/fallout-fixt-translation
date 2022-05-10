@@ -1,18 +1,18 @@
-{100}{}{Estás viendo a uno de los Guardias de Hightower.}
-{101}{}{Yo que tú me iba. Daren Hightower no recibe visitas.}
-{102}{}{No queremos tu compañía.}
-{103}{}{¡Vete!}
-{104}{}{¡No puedes estar aquí!}
-{105}{}{Vete o te arrepentirás.}
-{106}{}{En esta casa no admitimos a gente como tú.}
-{107}{}{¿Qué?... ¡Cogedlos!}
-{108}{}{¡Cometiste un grave error viniendo!}
-{109}{}{¿Qué haces aquí? Voy a acabar contigo.}
+{100}{}{EstÃ¡s viendo a uno de los Guardias de Hightower.}
+{101}{}{Yo que tÃº me iba. Daren Hightower no recibe visitas.}
+{102}{}{No queremos tu compaÃ±Ã­a.}
+{103}{}{Â¡Vete!}
+{104}{}{Â¡No puedes estar aquÃ­!}
+{105}{}{Vete o te arrepentirÃ¡s.}
+{106}{}{En esta casa no admitimos a gente como tÃº.}
+{107}{}{Â¿QuÃ©?... Â¡Cogedlos!}
+{108}{}{Â¡Cometiste un grave error viniendo!}
+{109}{}{Â¿QuÃ© haces aquÃ­? Voy a acabar contigo.}
 {110}{}{Mmmm, parece apetitoso.}
-{111}{}{¿Huele a brahmin o soy yo?}
-{112}{}{¡Inyéctamelo!}
-{113}{}{¿Hay algo en la nevera?}
-{114}{}{¿Cuánto falta?}
+{111}{}{Â¿Huele a brahmin o soy yo?}
+{112}{}{Â¡InyÃ©ctamelo!}
+{113}{}{Â¿Hay algo en la nevera?}
+{114}{}{Â¿CuÃ¡nto falta?}
 {115}{}{Tengo hambre.}
-{116}{}{¿Está lista?}
-{117}{}{¡Voy a pasar!}
+{116}{}{Â¿EstÃ¡ lista?}
+{117}{}{Â¡Voy a pasar!}

@@ -1,2 +1,2 @@
-{100}{}{L'étagère contient des bouteilles de différents articles.}
-{101}{}{Les cuisiniers sont extrêmement attentifs à leur réserve de nourriture et vous empêchent de prendre quoi que ce soit.}
+{100}{}{L'Ã©tagÃ¨re contient des bouteilles de diffÃ©rents articles.}
+{101}{}{Les cuisiniers sont extrÃªmement attentifs Ã  leur rÃ©serve de nourriture et vous empÃªchent de prendre quoi que ce soit.}

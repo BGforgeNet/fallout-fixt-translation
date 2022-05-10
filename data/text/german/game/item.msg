@@ -1,7 +1,7 @@
 {1}{}{You gained %d %s.}
 {2}{}{You lost %d %s.}
 {3}{}{You feel better now.}
-{4}{}{Du erleidest einen tödlichen Herzanfall aufgrund einer Drogenüberdosis.}
+{4}{}{Du erleidest einen tÃ¶dlichen Herzanfall aufgrund einer DrogenÃ¼berdosis.}
 {5}{}{%s has no charges left.}
 {6}{}{%s is on.}
 {7}{}{%s is off.}

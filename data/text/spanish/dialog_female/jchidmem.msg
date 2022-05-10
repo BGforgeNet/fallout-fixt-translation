@@ -1,47 +1,47 @@
-{100}{}{Ofrecemos la curación del cuerpo para sanar el espíritu. ¿Puedo ayudarte?}
-{101}{}{Sí, ayúdame.}
-{102}{}{¿Quién eres?}
-{103}{}{¿Qué le pasó a la gente que estaba aquí antes?}
+{100}{}{Ofrecemos la curaciÃ³n del cuerpo para sanar el espÃ­ritu. Â¿Puedo ayudarte?}
+{101}{}{SÃ­, ayÃºdame.}
+{102}{}{Â¿QuiÃ©n eres?}
+{103}{}{Â¿QuÃ© le pasÃ³ a la gente que estaba aquÃ­ antes?}
 {104}{}{Ehh...}
-{105}{}{Está bien, niña mía. Te examinaremos ahora.}
-{106}{}{Benditos sean los bondadosos. No te pasa nada hijo mío. Corre, vete a jugar.}
-{107}{}{Te has curado. Ten más cuidado en el futuro.}
+{105}{}{EstÃ¡ bien, niÃ±a mÃ­a. Te examinaremos ahora.}
+{106}{}{Benditos sean los bondadosos. No te pasa nada hijo mÃ­o. Corre, vete a jugar.}
+{107}{}{Te has curado. Ten mÃ¡s cuidado en el futuro.}
 {108}{}{Tienes lesiones.}
 {109}{}{Parece que te han envenenado.}
-{110}{}{Mmm, lesiones por exposición a la radiación. No podemos curarlas.}
-{111}{}{Necesitamos una donación de 5 chapas }
-{112}{}{ antes de poder curarte. ¿Te parece razonable?}
-{113}{}{Sí.}
+{110}{}{Mmm, lesiones por exposiciÃ³n a la radiaciÃ³n. No podemos curarlas.}
+{111}{}{Necesitamos una donaciÃ³n de 5 chapas }
+{112}{}{ antes de poder curarte. Â¿Te parece razonable?}
+{113}{}{SÃ­.}
 {114}{}{No.}
-{115}{}{¡Pero no tengo esas chapas!}
-{116}{}{¿Aceptarás }
+{115}{}{Â¡Pero no tengo esas chapas!}
+{116}{}{Â¿AceptarÃ¡s }
 {117}{}{ chapas?}
-{118}{}{Los Niños no regatean. Entonces, ¿aceptarás nuestro precio ahora?}
-{119}{}{Sí. Por supuesto que lo haré.}
-{120}{}{¡Eso es así!}
-{121}{}{Gracias, hijo mío. Rezaremos por tu curación.}
-{122}{}{Gracias, hija mía. Rezaremos por tu curación.}
-{123}{}{Eso es. Que la paz y la bendición de los Niños estén contigo.}
-{124}{}{No tienes suficientes chapas. Si das todo lo que puedas te sanaremos. ¿Te parece bien?}
-{125}{}{Sí.}
+{118}{}{Los NiÃ±os no regatean. Entonces, Â¿aceptarÃ¡s nuestro precio ahora?}
+{119}{}{SÃ­. Por supuesto que lo harÃ©.}
+{120}{}{Â¡Eso es asÃ­!}
+{121}{}{Gracias, hijo mÃ­o. Rezaremos por tu curaciÃ³n.}
+{122}{}{Gracias, hija mÃ­a. Rezaremos por tu curaciÃ³n.}
+{123}{}{Eso es. Que la paz y la bendiciÃ³n de los NiÃ±os estÃ©n contigo.}
+{124}{}{No tienes suficientes chapas. Si das todo lo que puedas te sanaremos. Â¿Te parece bien?}
+{125}{}{SÃ­.}
 {126}{}{No.}
-{127}{}{Si das todo lo que puedas, te sanaremos. ¿Te parece bien?}
-{128}{}{Sí.}
+{127}{}{Si das todo lo que puedas, te sanaremos. Â¿Te parece bien?}
+{128}{}{SÃ­.}
 {129}{}{No.}
-{130}{}{Tienes más que suficiente para hacer la donación. Necesitas estudiar matemáticas, niña mía.}
-{131}{}{Somos los Niños de la Catedral. Vivimos y trabajamos entre aquellos desgraciados que viven en el yermo. Si alguna vez vas al Cementerio de LA, párate en la Catedral.}
+{130}{}{Tienes mÃ¡s que suficiente para hacer la donaciÃ³n. Necesitas estudiar matemÃ¡ticas, niÃ±a mÃ­a.}
+{131}{}{Somos los NiÃ±os de la Catedral. Vivimos y trabajamos entre aquellos desgraciados que viven en el yermo. Si alguna vez vas al Cementerio de LA, pÃ¡rate en la Catedral.}
 {132}{}{Gracias.}
-{133}{}{¿Qué haces?}
-{134}{}{Somos mensajeros de paz. Sanamos el cuerpo para purificar el espíritu. Solo pedimos una pequeña donación para nuestros materiales de curación.}
-{135}{}{A mí me parece una buena idea.}
+{133}{}{Â¿QuÃ© haces?}
+{134}{}{Somos mensajeros de paz. Sanamos el cuerpo para purificar el espÃ­ritu. Solo pedimos una pequeÃ±a donaciÃ³n para nuestros materiales de curaciÃ³n.}
+{135}{}{A mÃ­ me parece una buena idea.}
 {136}{}{No me parece bien.}
-{137}{}{No te hemos preguntado. Seguro que te has cansado de escuchar nuestras creencias. Si necesitas algo más, estaremos aquí.}
-{138}{}{Es nuestra idea más sagrada. Nos esforzamos en establecer una paz absoluta en el yermo. Todas las criaturas serán una.}
-{139}{}{Gracias. Adiós.}
-{140}{}{Ellos nos donaron esta casa para que extendiésemos nuestras creencias y llevásemos a cabo nuestro deber como curanderos.}
-{141}{}{¿Y Doc Mórbid no está preocupado por eso?}
+{137}{}{No te hemos preguntado. Seguro que te has cansado de escuchar nuestras creencias. Si necesitas algo mÃ¡s, estaremos aquÃ­.}
+{138}{}{Es nuestra idea mÃ¡s sagrada. Nos esforzamos en establecer una paz absoluta en el yermo. Todas las criaturas serÃ¡n una.}
+{139}{}{Gracias. AdiÃ³s.}
+{140}{}{Ellos nos donaron esta casa para que extendiÃ©semos nuestras creencias y llevÃ¡semos a cabo nuestro deber como curanderos.}
+{141}{}{Â¿Y Doc MÃ³rbid no estÃ¡ preocupado por eso?}
 {142}{}{Aquello fue un gran detalle por su parte. Gracias.}
-{143}{}{Sienta lo que sienta ese corazón pagano, eso no es asunto de los Niños. Estamos aquí para cumplir nuestro deber, y así se hará.}
-{144}{}{Uh, sí, gracias. Adiós.}
-{145}{}{¿Por qué haces eso? ¡No te haremos daño!}
+{143}{}{Sienta lo que sienta ese corazÃ³n pagano, eso no es asunto de los NiÃ±os. Estamos aquÃ­ para cumplir nuestro deber, y asÃ­ se harÃ¡.}
+{144}{}{Uh, sÃ­, gracias. AdiÃ³s.}
+{145}{}{Â¿Por quÃ© haces eso? Â¡No te haremos daÃ±o!}
 {146}{}{No necesitas nuestra ayuda.}

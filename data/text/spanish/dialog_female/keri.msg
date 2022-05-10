@@ -1,119 +1,119 @@
 {100}{}{Ves: a Keri.}
-{101}{}{¿Quién demonios eres tú? Si quieres un trabajo tienes que hablar con Demetre.}
-{102}{}{Te dije que hablaras con mi padre si querías un trabajo, no conmigo.}
-{103}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero, Necrópolis y el Cementerio de LA.}
-{104}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero, Necrópolis y el Cementerio de LA.}
-{105}{}{¿Y el sueldo?}
+{101}{}{Â¿QuiÃ©n demonios eres tÃº? Si quieres un trabajo tienes que hablar con Demetre.}
+{102}{}{Te dije que hablaras con mi padre si querÃ­as un trabajo, no conmigo.}
+{103}{}{AsÃ­ que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, Â¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los dÃ­as 3 y 17. Â¿QuÃ© tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero, NecrÃ³polis y el Cementerio de LA.}
+{104}{}{AsÃ­ que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, Â¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los dÃ­as 3 y 17. Â¿QuÃ© tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero, NecrÃ³polis y el Cementerio de LA.}
+{105}{}{Â¿Y el sueldo?}
 {106}{}{Uh.}
-{107}{}{Nuestro sueldo es el mejor, 600 chapas... y sí, eso es solo por la ida y la vuelta... pero no hay obligación de hacer los dos. La ruta de esta caravana es bastante dura y seguramente tendremos que enfrentarnos a saqueadores... o cosas peores. No pasamos ni un error y será mejor que tengas bastante munición.}
-{108}{}{ Nos vamos hoy. ¿Te interesa?}
+{107}{}{Nuestro sueldo es el mejor, 600 chapas... y sÃ­, eso es solo por la ida y la vuelta... pero no hay obligaciÃ³n de hacer los dos. La ruta de esta caravana es bastante dura y seguramente tendremos que enfrentarnos a saqueadores... o cosas peores. No pasamos ni un error y serÃ¡ mejor que tengas bastante municiÃ³n.}
+{108}{}{ Nos vamos hoy. Â¿Te interesa?}
 {109}{}{ Nos vamos en }
-{110}{}{Vacío }
-{111}{}{Vacío }
-{112}{}{. ¿Te interesa?}
+{110}{}{VacÃ­o }
+{111}{}{VacÃ­o }
+{112}{}{. Â¿Te interesa?}
 {113}{}{We're all heading out today. Are you still interested?}
 {114}{}{Vamos a partir en }
 {115}{}{}
 {116}{}{}
-{117}{}{. ¿Te interesa?}
-{118}{}{Todavía tengo un trabajo para tu patético culo, si te interesa.}
+{117}{}{. Â¿Te interesa?}
+{118}{}{TodavÃ­a tengo un trabajo para tu patÃ©tico culo, si te interesa.}
 {119}{}{Claro.}
 {120}{}{No.}
 {121}{}{Creo que me interesas.}
 {122}{}{Puede ser.}
 {123}{}{Uhg.}
-{124}{}{¡Ja, sabía que eras una cobarde! Bueno... si eres lo suficientemente valiente, pásate por aquí y puede que tenga un trabajo para ti. Partimos los días 3 y 17. Puedes presentarte ese mismo día. Siempre es bueno tener ayuda.}
-{125}{}{Te encanta hacerme perder el tiempo, ¿verdad?}
-{126}{}{Lo que sea. Si tienes ganas de movida, vuelve y te incorporo a la próxima caravana.}
-{127}{}{¡Eh! Ya sé que puedes conseguir drogas buenas aquí, pero no te contrataré hasta que se te pase el punto.}
-{128}{}{¡He dicho que soltaras las drogas, tío!}
-{129}{}{¡He dicho que soltaras las drogas, necia!}
-{130}{}{Bueno ahora... Odio decirlo pero... he oído hablar de ti. ¿Eres así de dura tanto en público como privado? Veamos... [Te lleva al otro lado de la esquina]}
+{124}{}{Â¡Ja, sabÃ­a que eras una cobarde! Bueno... si eres lo suficientemente valiente, pÃ¡sate por aquÃ­ y puede que tenga un trabajo para ti. Partimos los dÃ­as 3 y 17. Puedes presentarte ese mismo dÃ­a. Siempre es bueno tener ayuda.}
+{125}{}{Te encanta hacerme perder el tiempo, Â¿verdad?}
+{126}{}{Lo que sea. Si tienes ganas de movida, vuelve y te incorporo a la prÃ³xima caravana.}
+{127}{}{Â¡Eh! Ya sÃ© que puedes conseguir drogas buenas aquÃ­, pero no te contratarÃ© hasta que se te pase el punto.}
+{128}{}{Â¡He dicho que soltaras las drogas, tÃ­o!}
+{129}{}{Â¡He dicho que soltaras las drogas, necia!}
+{130}{}{Bueno ahora... Odio decirlo pero... he oÃ­do hablar de ti. Â¿Eres asÃ­ de dura tanto en pÃºblico como privado? Veamos... [Te lleva al otro lado de la esquina]}
 {131}{}{[En el camino de vuelta deja caer un par de cosas.]}
 {132}{}{Bien, puedes aguantar BASTANTE.}
-{133}{}{Bien, tú ERES interesante y BASTANTE distinta de la mayoría de la gente... muéstrame lo qué puedes hacer, tía. [Te lleva al otro lado de la esquina]}
+{133}{}{Bien, tÃº ERES interesante y BASTANTE distinta de la mayorÃ­a de la gente... muÃ©strame lo quÃ© puedes hacer, tÃ­a. [Te lleva al otro lado de la esquina]}
 {134}{}{[En el camino de vuelta deja caer un par de cosas.]}
 {135}{}{Bien, puedes aguantar BASTANTE.}
-{136}{}{¡Eh Pops, parece que tenemos una ladrona aquí! ¿Qué tienes que decir en tu defensa, necia?}
-{137}{}{Lo siento, no volveré a hacerlo.}
-{138}{}{Cógeme si puedes...}
-{139}{}{¡No me gusta la tranquilidad! ¡Ven a por mí!}
+{136}{}{Â¡Eh Pops, parece que tenemos una ladrona aquÃ­! Â¿QuÃ© tienes que decir en tu defensa, necia?}
+{137}{}{Lo siento, no volverÃ© a hacerlo.}
+{138}{}{CÃ³geme si puedes...}
+{139}{}{Â¡No me gusta la tranquilidad! Â¡Ven a por mÃ­!}
 {140}{}{[Asientes con la cabeza]}
-{141}{}{¡¡¡OOOGABOOOGA!!!}
-{142}{}{Eh Pops, esta estúpida no aprendió la lección la primera vez. Intentó robarme otra vez. Vamos a darle una paliza.}
-{143}{}{Eh Pops, este estúpido no aprendió la lección la primera vez. Intentó robarme otra vez. Vamos a darle una paliza.}
-{144}{}{Bien... Sé lo difícil que es resistir a la tentación de robar pero... Demonios, te daré una oportunidad. No aparezcas por aquí otra vez y no tendré que llamar a la poli. Ahora lárgate.}
-{145}{}{Oh, nos aseguraremos de eso, ¿verdad que sí Pops?}
-{146}{}{¡Vete al infierno!}
-{147}{}{Supongo que sí.}
+{141}{}{Â¡Â¡Â¡OOOGABOOOGA!!!}
+{142}{}{Eh Pops, esta estÃºpida no aprendiÃ³ la lecciÃ³n la primera vez. IntentÃ³ robarme otra vez. Vamos a darle una paliza.}
+{143}{}{Eh Pops, este estÃºpido no aprendiÃ³ la lecciÃ³n la primera vez. IntentÃ³ robarme otra vez. Vamos a darle una paliza.}
+{144}{}{Bien... SÃ© lo difÃ­cil que es resistir a la tentaciÃ³n de robar pero... Demonios, te darÃ© una oportunidad. No aparezcas por aquÃ­ otra vez y no tendrÃ© que llamar a la poli. Ahora lÃ¡rgate.}
+{145}{}{Oh, nos aseguraremos de eso, Â¿verdad que sÃ­ Pops?}
+{146}{}{Â¡Vete al infierno!}
+{147}{}{Supongo que sÃ­.}
 {148}{}{Vas a morir.}
-{149}{}{¡Te dije que te largaras!}
-{150}{}{¡Policía!}
-{151}{}{Lo siento pero nunca más volveremos a tratar contigo.}
-{152}{}{No hay trabajo aquí, vete.}
+{149}{}{Â¡Te dije que te largaras!}
+{150}{}{Â¡PolicÃ­a!}
+{151}{}{Lo siento pero nunca mÃ¡s volveremos a tratar contigo.}
+{152}{}{No hay trabajo aquÃ­, vete.}
 {153}{}{No me cabrees.}
 {154}{}{Idiota.}
 {155}{}{Intrigante, pero no eres mi tipo.}
-{156}{}{Bien. Como dije antes, pagamos 600 chapas. ¿Qué ruta querías tomar?}
-{157}{}{Fantástico. La siguiente partirá en }
-{158}{}{. Vuelve y te pondré en una caravana. Como siempre, la paga es de 600 chapas.}
+{156}{}{Bien. Como dije antes, pagamos 600 chapas. Â¿QuÃ© ruta querÃ­as tomar?}
+{157}{}{FantÃ¡stico. La siguiente partirÃ¡ en }
+{158}{}{. Vuelve y te pondrÃ© en una caravana. Como siempre, la paga es de 600 chapas.}
 {159}{}{Vale.}
 {160}{}{Lo siento, no puedo esperar tanto.}
-{161}{}{¡Debería apalearte hasta acabar contigo! ¡Por tu culpa hemos perdido una maldita caravana! ¡Lárgate de mi vista! Se me va a caer el pelo por esto.}
-{162}{}{¡Debería darte una paliza de muerte! ¡Por tu culpa hemos perdido una maldita caravana! ¡Lárgate de mi vista! Se me va a caer el pelo por esto.}
+{161}{}{Â¡DeberÃ­a apalearte hasta acabar contigo! Â¡Por tu culpa hemos perdido una maldita caravana! Â¡LÃ¡rgate de mi vista! Se me va a caer el pelo por esto.}
+{162}{}{Â¡DeberÃ­a darte una paliza de muerte! Â¡Por tu culpa hemos perdido una maldita caravana! Â¡LÃ¡rgate de mi vista! Se me va a caer el pelo por esto.}
 {163}{}{Hermandad del Acero}
 {164}{}{Ciudad Vertedero}
-{165}{}{Necrópolis}
+{165}{}{NecrÃ³polis}
 {166}{}{Cementerio}
 {167}{}{No importa. Se me ha olvidado hacer algo.}
-{168}{}{¡Ciérralo y carga! ¡Nos vamos de aquí!}
-{169}{}{Hazme saber si pasa algo interesante; mi padre me obliga a quedarme en el almacén.}
-{170}{}{¡Fantástico! Los otros psicópatas están listos. Nos iremos ahora mismo.}
-{171}{}{Fantástico, solo tardaremos unos minutos en reunir a todos los psicópatas.}
-{172}{}{La Hermandad del Acero, ¡allá vamos! Bien... No voy contigo, pero sabes a lo que me refiero.}
-{173}{}{Vale, sal de mi vista inmediatamente. Esos fanáticos de la Hermandad te esperan.}
-{174}{}{¡Espero que te gusten las montañas! Te diriges hacia ellas. Encontrarás mucho movimiento allí.}
-{175}{}{Listo para partir; ¡te encaminarás hacia las montañas! ¡Te divertirás de lo lindo!}
-{176}{}{Ciudad Vertedero es un sitio tranquilo. Prefiero rutas más peligrosas.}
-{177}{}{Me han dicho que ahí había un médico chiflado. Tendrías que ir a verle. Se llama Doc Mórbid.}
-{178}{}{La Ciudad Vertedero está ahí mismo; pronto estarás de vuelta.}
-{179}{}{Ten cuidado, Necrópolis no es un lugar muy amistoso.}
-{180}{}{Set está al mando de la ciudad. O al menos lo estaba la última vez que estuve aquí.}
-{181}{}{¡Esa ciudad está llena de yonquis! Bueno, será mejor que me vaya.}
-{182}{}{LA está bastante bien. Te gustará pero asegúrate de no dejar la caravana hasta que llegue. No es muy seguro para ti, aunque lo sea para las caravanas.}
-{183}{}{Espero que tengas la oportunidad de verlo. También hay una iglesia que mola a unas pocas millas al sur. Eso sí, la gente está destrozada.}
-{184}{}{Me contaron que antes el Cementerio de LA se llamaba LA. No sé de qué o de quién son las iniciales, pero el sitio está bien.}
-{185}{}{¿Qué carajo quieres?}
-{186}{}{Cállate y vete de mi vista; ¡no estoy de humor!}
+{168}{}{Â¡CiÃ©rralo y carga! Â¡Nos vamos de aquÃ­!}
+{169}{}{Hazme saber si pasa algo interesante; mi padre me obliga a quedarme en el almacÃ©n.}
+{170}{}{Â¡FantÃ¡stico! Los otros psicÃ³patas estÃ¡n listos. Nos iremos ahora mismo.}
+{171}{}{FantÃ¡stico, solo tardaremos unos minutos en reunir a todos los psicÃ³patas.}
+{172}{}{La Hermandad del Acero, Â¡allÃ¡ vamos! Bien... No voy contigo, pero sabes a lo que me refiero.}
+{173}{}{Vale, sal de mi vista inmediatamente. Esos fanÃ¡ticos de la Hermandad te esperan.}
+{174}{}{Â¡Espero que te gusten las montaÃ±as! Te diriges hacia ellas. EncontrarÃ¡s mucho movimiento allÃ­.}
+{175}{}{Listo para partir; Â¡te encaminarÃ¡s hacia las montaÃ±as! Â¡Te divertirÃ¡s de lo lindo!}
+{176}{}{Ciudad Vertedero es un sitio tranquilo. Prefiero rutas mÃ¡s peligrosas.}
+{177}{}{Me han dicho que ahÃ­ habÃ­a un mÃ©dico chiflado. TendrÃ­as que ir a verle. Se llama Doc MÃ³rbid.}
+{178}{}{La Ciudad Vertedero estÃ¡ ahÃ­ mismo; pronto estarÃ¡s de vuelta.}
+{179}{}{Ten cuidado, NecrÃ³polis no es un lugar muy amistoso.}
+{180}{}{Set estÃ¡ al mando de la ciudad. O al menos lo estaba la Ãºltima vez que estuve aquÃ­.}
+{181}{}{Â¡Esa ciudad estÃ¡ llena de yonquis! Bueno, serÃ¡ mejor que me vaya.}
+{182}{}{LA estÃ¡ bastante bien. Te gustarÃ¡ pero asegÃºrate de no dejar la caravana hasta que llegue. No es muy seguro para ti, aunque lo sea para las caravanas.}
+{183}{}{Espero que tengas la oportunidad de verlo. TambiÃ©n hay una iglesia que mola a unas pocas millas al sur. Eso sÃ­, la gente estÃ¡ destrozada.}
+{184}{}{Me contaron que antes el Cementerio de LA se llamaba LA. No sÃ© de quÃ© o de quiÃ©n son las iniciales, pero el sitio estÃ¡ bien.}
+{185}{}{Â¿QuÃ© carajo quieres?}
+{186}{}{CÃ¡llate y vete de mi vista; Â¡no estoy de humor!}
 {187}{}{Quiero otro empleo.}
 {188}{}{Nada.}
 {189}{}{Zug.}
 {190}{}{Uhg.}
-{191}{}{¡Claro! ¿Para que puedas abandonar otra caravana? Has tenido suerte de que llegaran a salvo.}
-{192}{}{¿Suerte, yo? ¡Tú sí que tienes suerte que no te parte la cara!}
-{193}{}{¡Eh! Tenía sitios donde ir y... ¡material!}
-{194}{}{¡Eh! ¡No me dijiste que no me podía ir! Ni que estuvieran en plena pelea.}
-{195}{}{¡Sal de aquí! ¡Me pones enferma! ¿Por eso abandonaste la caravana? ¡Apuesto a que estabas drogada!}
-{196}{}{¿Sí? Bueno, ¡por qué no te vas allí ahora! Ya no estás en nuestra lista.}
-{197}{}{¿Qué? ¿Nunca trabajaste en una caravana antes? ¡No puedo creer que mi padre te contratara en un principio! ¡Piérdete! ¡Solo contratamos personal experimentado! ¡Por eso pagamos tanta pasta!}
-{198}{}{Lo hiciste muy bien en tu último trabajo. ¿Estás buscando otro?}
+{191}{}{Â¡Claro! Â¿Para que puedas abandonar otra caravana? Has tenido suerte de que llegaran a salvo.}
+{192}{}{Â¿Suerte, yo? Â¡TÃº sÃ­ que tienes suerte que no te parte la cara!}
+{193}{}{Â¡Eh! TenÃ­a sitios donde ir y... Â¡material!}
+{194}{}{Â¡Eh! Â¡No me dijiste que no me podÃ­a ir! Ni que estuvieran en plena pelea.}
+{195}{}{Â¡Sal de aquÃ­! Â¡Me pones enferma! Â¿Por eso abandonaste la caravana? Â¡Apuesto a que estabas drogada!}
+{196}{}{Â¿SÃ­? Bueno, Â¡por quÃ© no te vas allÃ­ ahora! Ya no estÃ¡s en nuestra lista.}
+{197}{}{Â¿QuÃ©? Â¿Nunca trabajaste en una caravana antes? Â¡No puedo creer que mi padre te contratara en un principio! Â¡PiÃ©rdete! Â¡Solo contratamos personal experimentado! Â¡Por eso pagamos tanta pasta!}
+{198}{}{Lo hiciste muy bien en tu Ãºltimo trabajo. Â¿EstÃ¡s buscando otro?}
 {199}{}{Claro.}
 {200}{}{No.}
 {201}{}{Puede ser.}
 {202}{}{Uhg.}
 {203}{}{Arrastra.}
-{204}{}{¿Lista? Nos vamos hoy.}
-{205}{}{¡Sí!}
+{204}{}{Â¿Lista? Nos vamos hoy.}
+{205}{}{Â¡SÃ­!}
 {206}{}{No.}
-{207}{}{¡Hurra!}
-{208}{}{Llegas un día antes. Vuelve mañana si todavía quieres el trabajo. Si no, no vengas. No te daré nada.}
+{207}{}{Â¡Hurra!}
+{208}{}{Llegas un dÃ­a antes. Vuelve maÃ±ana si todavÃ­a quieres el trabajo. Si no, no vengas. No te darÃ© nada.}
 {209}{}{Eh, llegas demasiado pronto. No los voy a enviar hasta en }
-{210}{}{día 3}
-{211}{}{día 17}
-{212}{}{. Vuelve entonces si todavía quieres este maldito trabajo. En realidad no importa si vienes o no. Pero si todavía quieres el trabajo, vuelve entonces.}
-{213}{}{Aún no.}
-{214}{}{¡Papa, cállate de una maldita vez!}
-{215}{}{¡Eh viejo, tengo hambre! ¡Voy a tomarme un descanso!}
+{210}{}{dÃ­a 3}
+{211}{}{dÃ­a 17}
+{212}{}{. Vuelve entonces si todavÃ­a quieres este maldito trabajo. En realidad no importa si vienes o no. Pero si todavÃ­a quieres el trabajo, vuelve entonces.}
+{213}{}{AÃºn no.}
+{214}{}{Â¡Papa, cÃ¡llate de una maldita vez!}
+{215}{}{Â¡Eh viejo, tengo hambre! Â¡Voy a tomarme un descanso!}
 {216}{}{Odio trabajar en los libros.}
 {217}{}{Enero, }
 {218}{}{Febrero, }
@@ -128,9 +128,9 @@
 {227}{}{Noviembre, }
 {228}{}{Diciembre, }
 {229}{}{Consigues 3 lotes de drogas.}
-{300}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero y Ciudad Vertedero. Necrópolis y el Cementerio han sido invadidas por unos mutantes poco amistosos, así que ya no vamos por allí.}
-{301}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero y Ciudad Vertedero. Necrópolis y el Cementerio han sido invadidas por unos mutantes poco amistosos, así que ya no vamos por allí.}
-{302}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero y Necrópolis. El Cementerio de LA ha sido invadido por unos mutantes poco amistosos, así que ya no vamos por allí.}
-{303}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero y Necrópolis. El Cementerio de LA ha sido invadido por unos mutantes poco amistosos, así que ya no vamos por allí.}
-{304}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero y Ciudad Vertedero y el Cementerio de LA. Necrópolis ha sido invadido por unos mutantes poco amistosos, así que ya no vamos por allí.}
-{305}{}{Así que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, ¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los días 3 y 17. ¿Qué tal te parece? Vamos a donde haya movida: la Hermandad del Acero y Ciudad Vertedero y el Cementerio de LA. Necrópolis ha sido invadido por unos mutantes poco amistosos, así que ya no vamos por allí.}
+{300}{}{AsÃ­ que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, Â¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los dÃ­as 3 y 17. Â¿QuÃ© tal te parece? Vamos a donde haya movida: la Hermandad del Acero y Ciudad Vertedero. NecrÃ³polis y el Cementerio han sido invadidas por unos mutantes poco amistosos, asÃ­ que ya no vamos por allÃ­.}
+{301}{}{AsÃ­ que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, Â¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los dÃ­as 3 y 17. Â¿QuÃ© tal te parece? Vamos a donde haya movida: la Hermandad del Acero y Ciudad Vertedero. NecrÃ³polis y el Cementerio han sido invadidas por unos mutantes poco amistosos, asÃ­ que ya no vamos por allÃ­.}
+{302}{}{AsÃ­ que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, Â¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los dÃ­as 3 y 17. Â¿QuÃ© tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero y NecrÃ³polis. El Cementerio de LA ha sido invadido por unos mutantes poco amistosos, asÃ­ que ya no vamos por allÃ­.}
+{303}{}{AsÃ­ que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, Â¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los dÃ­as 3 y 17. Â¿QuÃ© tal te parece? Vamos a donde haya movida: la Hermandad del Acero, Ciudad Vertedero y NecrÃ³polis. El Cementerio de LA ha sido invadido por unos mutantes poco amistosos, asÃ­ que ya no vamos por allÃ­.}
+{304}{}{AsÃ­ que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, Â¿eh? Pues debes de ser una perra muy dura. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los dÃ­as 3 y 17. Â¿QuÃ© tal te parece? Vamos a donde haya movida: la Hermandad del Acero y Ciudad Vertedero y el Cementerio de LA. NecrÃ³polis ha sido invadido por unos mutantes poco amistosos, asÃ­ que ya no vamos por allÃ­.}
+{305}{}{AsÃ­ que ese viejo bastardo te dio el visto bueno para trabajar para nosotros, Â¿eh? Pues debes de tener un par de pelotas. Estoy impresionada, pero ya veremos como lo haces. Salimos solo dos veces al mes, en los dÃ­as 3 y 17. Â¿QuÃ© tal te parece? Vamos a donde haya movida: la Hermandad del Acero y Ciudad Vertedero y el Cementerio de LA. NecrÃ³polis ha sido invadido por unos mutantes poco amistosos, asÃ­ que ya no vamos por allÃ­.}

@@ -1,53 +1,53 @@
-{100}{}{Estás viendo a Sammael, uno de los carroñeros de Adytum.}
-{101}{}{Estás viendo a un hombre desaliñado vestido de azul oscuro.}
-{102}{}{Oye, no puedo creer que nos hayamos encontrado. ¿Y tú eres?}
+{100}{}{EstÃ¡s viendo a Sammael, uno de los carroÃ±eros de Adytum.}
+{101}{}{EstÃ¡s viendo a un hombre desaliÃ±ado vestido de azul oscuro.}
+{102}{}{Oye, no puedo creer que nos hayamos encontrado. Â¿Y tÃº eres?}
 {103}{}{Soy }
 {104}{}{.}
-{105}{}{¿Quién lo pregunta?}
-{106}{}{¿Eruh?}
-{107}{}{El placer es mío. Me llamo Sammael.}
-{108}{}{¿Qué haces aquí?}
+{105}{}{Â¿QuiÃ©n lo pregunta?}
+{106}{}{Â¿Eruh?}
+{107}{}{El placer es mÃ­o. Me llamo Sammael.}
+{108}{}{Â¿QuÃ© haces aquÃ­?}
 {109}{}{Me alegro de hablar contigo.}
 {110}{}{Nadie especial. No te preocupes.}
-{111}{}{Soy un carroñero. Mi trabajo es rebuscar por todo el Cementerio de LA artículos útiles e información. Un trabajo peligroso.}
-{112}{}{¿Por qué es peligroso?}
-{113}{}{¿Cómo evitáis a las Garras Mortales?}
-{114}{}{¿Has explorado otras áreas?}
-{115}{}{Gracias, adiós.}
+{111}{}{Soy un carroÃ±ero. Mi trabajo es rebuscar por todo el Cementerio de LA artÃ­culos Ãºtiles e informaciÃ³n. Un trabajo peligroso.}
+{112}{}{Â¿Por quÃ© es peligroso?}
+{113}{}{Â¿CÃ³mo evitÃ¡is a las Garras Mortales?}
+{114}{}{Â¿Has explorado otras Ã¡reas?}
+{115}{}{Gracias, adiÃ³s.}
 {116}{}{Ya nos veremos. Si es que me ves. Ja.}
-{117}{}{Bueno, ahí fuera están las Garras Mortales, y luego de vuelta en Adytum están los Reguladores. Ni las unas, ni los otros, son angelitos.}
-{118}{}{¿Cómo evitáis a las Garras Mortales?}
-{119}{}{¿Has explorado otras áreas?}
-{120}{}{Gracias, adiós.}
-{121}{}{Solo trabajamos de noche, y somos buenos en lo nuestro. Pero reconozco que no volvemos todos. La semana pasada mandé a un tipo a buscar unas piezas para Miles, y todavía no hemos tenido noticias suyas. En la última transmisión me decía que había encontrado las piezas, y que regresaba.}
-{122}{}{Yo he explorado un poco. ¿De quién quieres saber cosas?}
+{117}{}{Bueno, ahÃ­ fuera estÃ¡n las Garras Mortales, y luego de vuelta en Adytum estÃ¡n los Reguladores. Ni las unas, ni los otros, son angelitos.}
+{118}{}{Â¿CÃ³mo evitÃ¡is a las Garras Mortales?}
+{119}{}{Â¿Has explorado otras Ã¡reas?}
+{120}{}{Gracias, adiÃ³s.}
+{121}{}{Solo trabajamos de noche, y somos buenos en lo nuestro. Pero reconozco que no volvemos todos. La semana pasada mandÃ© a un tipo a buscar unas piezas para Miles, y todavÃ­a no hemos tenido noticias suyas. En la Ãºltima transmisiÃ³n me decÃ­a que habÃ­a encontrado las piezas, y que regresaba.}
+{122}{}{Yo he explorado un poco. Â¿De quiÃ©n quieres saber cosas?}
 {123}{}{Los Navajas.}
 {124}{}{Las Garras Mortales.}
 {125}{}{Los Pistoleros.}
 {126}{}{Los Seguidores del Apocalipsis.}
-{127}{}{Los Niños de la Catedral.}
+{127}{}{Los NiÃ±os de la Catedral.}
 {128}{}{De nadie, gracias.}
-{129}{}{Los Navajas son un grupo patético. Pero salen adelante, y algunos terminan aquí, en Adytum, si aceptan lo que los Reguladores les ofrecen.}
-{130}{}{Mejor si no las has visto nunca. Son más malas que el demonio, y nada les gusta más que arrancarle el corazón a un pobre carroñero.}
-{131}{}{He oído que tienen un nido al este de los Navajas, pero yo no lo he visto.}
-{132}{}{Los Pistoleros se instalaron hace poco en una fábrica del noreste. No te puedo decir más porque tienen un foso lleno de residuos radiactivos, y hay que pasar por la zona de las Garras Mortales para entrar allí.}
-{133}{}{Los Seguidores predican la paz y la tolerancia. Bonita idea, pero poco práctica. Viven en una gran biblioteca al noroeste de nosotros.}
-{134}{}{Los Niños de la Catedral tienen su base en una gran iglesia muy al sur de aquí. Allí están pasando cosas muy raras. He visto criaturas que no pueden ser humanas entrando y saliendo de allí.}
-{135}{}{Si las historias son ciertas, la iglesia está construida sobre un viejo Refugio, en el que vivían los predecesores de Adytum.}
-{136}{}{Yuju. Nos encontramos una vez más. ¿Qué pasa?}
-{137}{}{¿En qué me dijiste que consistía tu trabajo?}
+{129}{}{Los Navajas son un grupo patÃ©tico. Pero salen adelante, y algunos terminan aquÃ­, en Adytum, si aceptan lo que los Reguladores les ofrecen.}
+{130}{}{Mejor si no las has visto nunca. Son mÃ¡s malas que el demonio, y nada les gusta mÃ¡s que arrancarle el corazÃ³n a un pobre carroÃ±ero.}
+{131}{}{He oÃ­do que tienen un nido al este de los Navajas, pero yo no lo he visto.}
+{132}{}{Los Pistoleros se instalaron hace poco en una fÃ¡brica del noreste. No te puedo decir mÃ¡s porque tienen un foso lleno de residuos radiactivos, y hay que pasar por la zona de las Garras Mortales para entrar allÃ­.}
+{133}{}{Los Seguidores predican la paz y la tolerancia. Bonita idea, pero poco prÃ¡ctica. Viven en una gran biblioteca al noroeste de nosotros.}
+{134}{}{Los NiÃ±os de la Catedral tienen su base en una gran iglesia muy al sur de aquÃ­. AllÃ­ estÃ¡n pasando cosas muy raras. He visto criaturas que no pueden ser humanas entrando y saliendo de allÃ­.}
+{135}{}{Si las historias son ciertas, la iglesia estÃ¡ construida sobre un viejo Refugio, en el que vivÃ­an los predecesores de Adytum.}
+{136}{}{Yuju. Nos encontramos una vez mÃ¡s. Â¿QuÃ© pasa?}
+{137}{}{Â¿En quÃ© me dijiste que consistÃ­a tu trabajo?}
 {138}{}{Nada, gracias.}
-{139}{}{Oh, ya veo. Bien. ¡Adiós!}
-{140}{}{Miles dijo que debería hablar contigo acerca de las granjas hidropónicas. ¿Sabes algo?}
-{141}{}{Ah, sí. Se da que se algunas cosas. La semana pasada mandé a un tipo al norte a buscar unas piezas para Miles, y todavía no hemos tenido noticias suyas. En la última transmisión me decía que había encontrado las piezas, y que regresaba. Todavía no he tenido tiempo de comprobarlo personalmente,  y no quiero perder a otra persona por lo que fuera que ha causado su desaparición.}
-{142}{}{Qué mala suerte, siento oírlo. Gracias por la información. Adiós.}
-{143}{}{Si puedo encontrar información acerca de tu hombre, ¿habrá algún tipo de comisión para mí?}
-{144}{}{Genial, gracias. Buscaré las partes en esa zona. Te haré saber si encuentro a tu amigo desaparecido.}
+{139}{}{Oh, ya veo. Bien. Â¡AdiÃ³s!}
+{140}{}{Miles dijo que deberÃ­a hablar contigo acerca de las granjas hidropÃ³nicas. Â¿Sabes algo?}
+{141}{}{Ah, sÃ­. Se da que se algunas cosas. La semana pasada mandÃ© a un tipo al norte a buscar unas piezas para Miles, y todavÃ­a no hemos tenido noticias suyas. En la Ãºltima transmisiÃ³n me decÃ­a que habÃ­a encontrado las piezas, y que regresaba. TodavÃ­a no he tenido tiempo de comprobarlo personalmente,  y no quiero perder a otra persona por lo que fuera que ha causado su desapariciÃ³n.}
+{142}{}{QuÃ© mala suerte, siento oÃ­rlo. Gracias por la informaciÃ³n. AdiÃ³s.}
+{143}{}{Si puedo encontrar informaciÃ³n acerca de tu hombre, Â¿habrÃ¡ algÃºn tipo de comisiÃ³n para mÃ­?}
+{144}{}{Genial, gracias. BuscarÃ© las partes en esa zona. Te harÃ© saber si encuentro a tu amigo desaparecido.}
 {145}{}{Cuando quieras. Nos vemos.}
-{146}{}{¿Lo harás? Sería genial. Como te he dicho, hemos estado muy ocupados y no nos podemos permitir perder más gente.}
-{147}{}{(Se ríe) No, la verdad que no. Si tuviera las chapas para eso ya habría contratado a alguien para que lo encontrase. (Piensa por un momento) Aunque me gusta tu espíritu. Mira, si puedes encontrarlo, ya veré que puedo hacer por ti.}
-{148}{}{Buenas noticias, encontré a tu hombre. Malas noticias, está más que muerto.}
-{149}{}{Siento tener que contarte esto, pero parece que a tu amigo lo han matado las Garras Mortales en el almacén.}
-{150}{}{¡Demonios! *suspira* Ya me lo suponía. Gracias.}
-{151}{}{Oh, es verdad. Aquí tienes tu recompensa. (Te entrega lo que parece una motosierra de una mano) Solía haber una pandilla por aquí que las utilizaba. No dudes en matar algunas de esas malditas Garras Mortales con ella. Hasta luego.}
-{152}{}{Aquí tienes, toma esto por las molestias, es lo menos que puedo hacer. (Te entrega 200 chapas)}
+{146}{}{Â¿Lo harÃ¡s? SerÃ­a genial. Como te he dicho, hemos estado muy ocupados y no nos podemos permitir perder mÃ¡s gente.}
+{147}{}{(Se rÃ­e) No, la verdad que no. Si tuviera las chapas para eso ya habrÃ­a contratado a alguien para que lo encontrase. (Piensa por un momento) Aunque me gusta tu espÃ­ritu. Mira, si puedes encontrarlo, ya verÃ© que puedo hacer por ti.}
+{148}{}{Buenas noticias, encontrÃ© a tu hombre. Malas noticias, estÃ¡ mÃ¡s que muerto.}
+{149}{}{Siento tener que contarte esto, pero parece que a tu amigo lo han matado las Garras Mortales en el almacÃ©n.}
+{150}{}{Â¡Demonios! *suspira* Ya me lo suponÃ­a. Gracias.}
+{151}{}{Oh, es verdad. AquÃ­ tienes tu recompensa. (Te entrega lo que parece una motosierra de una mano) SolÃ­a haber una pandilla por aquÃ­ que las utilizaba. No dudes en matar algunas de esas malditas Garras Mortales con ella. Hasta luego.}
+{152}{}{AquÃ­ tienes, toma esto por las molestias, es lo menos que puedo hacer. (Te entrega 200 chapas)}

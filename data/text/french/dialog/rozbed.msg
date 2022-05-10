@@ -1,3 +1,3 @@
-{100}{}{Le lit semble défait.}
-{101}{}{Le lit semble défait.}
-{102}{}{Razlo n'apprécierait pas que tu utilises son lit.}
+{100}{}{Le lit semble dÃ©fait.}
+{101}{}{Le lit semble dÃ©fait.}
+{102}{}{Razlo n'apprÃ©cierait pas que tu utilises son lit.}

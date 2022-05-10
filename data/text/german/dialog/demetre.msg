@@ -32,7 +32,7 @@
 {131}{}{You're a smart little ass, aren't you? Well, it doesn't matter to me! Just as long as you defend the caravans, I'll be satisfied. Go talk to Keri in the next room if you want a job.}
 {132}{}{Ha! That's a funny one! Well, if you think you can brave the darkness, come see me.}
 {133}{}{Of course it's dangerous - why else would I fork out 600 bucks?}
-{134}{}{Ach so, OK. Tschüss.}
+{134}{}{Ach so, OK. TschÃ¼ss.}
 {135}{}{I'll still take the job.}
 {136}{}{Get out of here before I rip your head off!}
 {137}{}{I'll shove your head up your ass!}
@@ -132,7 +132,7 @@
 {231}{}{I've still got some things to do first.}
 {232}{}{I need a Water Chip.}
 {233}{}{Tell me what you know about the missing caravans.}
-{234}{}{Okay, Tschüss.}
+{234}{}{Okay, TschÃ¼ss.}
 {235}{}{Rik rok?}
 {236}{}{Roerow?}
 {237}{}{Damn! You're missing out on some good action! I'm sure there are lots of people, creatures, and things waiting to attack the caravans! Nothing beats a good fire fight! Here - take this, it'll give you something to play with until the next caravan is ready to go. [He hands you a frag grenade.]}

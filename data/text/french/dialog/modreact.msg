@@ -6,5 +6,5 @@
 {105}{}{Au revoir.}
 {106}{}{[Plus]}
 {107}{}{Zzzzz}
-{108}{}{[Terminé]}
-{109}{}{Je peux pas me servir de ça.}
+{108}{}{[TerminÃ©]}
+{109}{}{Je peux pas me servir de Ã§a.}

@@ -1,2 +1,2 @@
-{100}{}{L'étagère est remplie de livres religieux et philosophiques. Elle est très poussiéreuse.}
-{101}{}{Tu prends un livre pour l'examiner, puis le reposes vite sur l'étagère. Elle a l'air très solide.}
+{100}{}{L'Ã©tagÃ¨re est remplie de livres religieux et philosophiques. Elle est trÃ¨s poussiÃ©reuse.}
+{101}{}{Tu prends un livre pour l'examiner, puis le reposes vite sur l'Ã©tagÃ¨re. Elle a l'air trÃ¨s solide.}

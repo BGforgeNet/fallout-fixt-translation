@@ -1,6 +1,6 @@
 # Fallout 1 Fixt - translation
 
-[![Build status](https://github.com/BGforgeNet/fallout-fixt-translation/workflows/poify/badge.svg)](https://github.com/BGforgeNet/fallout-fixt-translation/actions?query=workflow%3Apoify)
+[![Poify/Unpoify](https://github.com/BGforgeNet/fallout-fixt-translation/actions/workflows/poify.yml/badge.svg)](https://github.com/BGforgeNet/fallout-fixt-translation/actions/workflows/poify.yml)
 [![Translation status](https://hive.bgforge.net/widgets/fallout/-/fixt/svg-badge.svg)](https://hive.bgforge.net/projects/fallout/fallout-fixt-translation/)
 [![Telegram](https://img.shields.io/badge/telegram-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange?logo=telegram)](https://t.me/bgforge)
 [![Discord](https://img.shields.io/discord/420268540700917760?logo=discord&label=discord&color=blue&logoColor=FEE75C)](https://discord.gg/4Yqfggm)

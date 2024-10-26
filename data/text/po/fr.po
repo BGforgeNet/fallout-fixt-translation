@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-07-00:20+0000\n"
-"PO-Revision-Date: 2022-01-18 12:40+0000\n"
+"PO-Revision-Date: 2024-05-06 23:47+0000\n"
 "Last-Translator: HawK <hawkeye.falloutgen@gmail.com>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/fallout/fixt/fr/>\n"
 "Language: fr\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: cuts/boil1.sve:1
 msgid ""
 "RemindBoy message: Water supplies running low in Vault 13.  Find the water "
 "chip quickly."
 msgstr ""
-"Message de RemindBoy: Les réserves d'eau sont faibles dans l'Abri 13. "
+"Message de RemindBoy : Les réserves d'eau sont faibles dans l'Abri 13. "
 "Trouvez rapidement la puce d'eau."
 
 #: cuts/boil2.sve:1
@@ -118,7 +118,7 @@ msgstr ""
 
 #: cuts/intro.sve:2370
 msgid "And from the ashes of nuclear devastation,"
-msgstr "Et de ces cendres, "
+msgstr "Et de ces cendres,"
 
 #: cuts/intro.sve:2410
 msgid "a new civilization would struggle to arise."
@@ -2164,7 +2164,7 @@ msgstr "Tes aventures sont maintenant terminées."
 #. indexed_txt
 #: cuts/nar_8.txt:1
 msgid "You fought valiantly, but to no avail.  "
-msgstr "Tu as combattu avec bravoure mais en vain."
+msgstr "Tu as combattu avec bravoure mais en vain.  "
 
 #. indexed_txt
 #: cuts/nar_8.txt:2
@@ -2845,8 +2845,7 @@ msgstr "Abel s'en occupe. Après, Abel donner bonne raclée !"
 
 #: dialog/abel.msg:114
 msgid "Children are not allowed here. This mutant place. Go away."
-msgstr ""
-"Les Enfants ne sont pas admis ici. Ici endroit pour mutants. Va donc !"
+msgstr "Les Enfants ne sont pas admis ici. Ici endroit pour mutants. Va donc."
 
 #: dialog/abel.msg:115 dialog/airgrd.msg:112 dialog/cathshop.msg:102
 #: dialog/genmutan.msg:117 dialog/gensarg.msg:120 dialog/gideon.msg:303
@@ -2999,7 +2998,7 @@ msgstr "Merci de nous débarrasser des Régulateurs."
 
 #: dialog/adytownr.msg:117
 msgid "Thank you for our freedom."
-msgstr "Tu nous as sauvés !"
+msgstr "Tu nous as sauvés."
 
 #: dialog/adytownr.msg:118
 msgid "It is good that the Regulators are gone."
@@ -3157,7 +3156,7 @@ msgstr ""
 
 #: dialog/agatha.msg:120
 msgid "Hngh."
-msgstr "Hgnné ?"
+msgstr "Hgnné."
 
 #: dialog/agatha.msg:121 dialog/andrew.msg:104 dialog/boslorri.msg:124
 #: dialog/bychris.msg:103 dialog/bygreg.msg:105 dialog/bymike.msg:105
@@ -3484,7 +3483,7 @@ msgstr ""
 
 #: dialog/airgrd.msg:135
 msgid "What kind of crap is that?"
-msgstr "Epargne-moi ces salades !"
+msgstr "Epargne-moi ces salades?"
 
 #: dialog/airgrd.msg:136
 msgid "There is no possible way that you are human."
@@ -5476,7 +5475,7 @@ msgstr "Ombragés"
 #: dialog/seth.msg:1004 dialog/tandi.msg:1008 dialog/tycho.msg:1026
 #: dialog/vree.msg:1011
 msgid "Hub"
-msgstr "Centre"
+msgstr "Le Centre"
 
 #: dialog/armor.msg:100
 msgid "You see: Damaged Power Armor."
@@ -11282,7 +11281,7 @@ msgstr "Marché"
 
 #: dialog/butch.msg:1018 dialog/loxley.msg:1032 dialog/regulatr.msg:1012
 msgid "Glow"
-msgstr "Rayon"
+msgstr "Le Rayon"
 
 #: dialog/butch.msg:1019 dialog/child.msg:1023 dialog/decker.msg:1016
 #: dialog/loxley.msg:1013
@@ -11308,7 +11307,7 @@ msgstr ""
 #: dialog/obj_dude.msg:10004 dialog/set.msg:1007 dialog/tycho.msg:1036
 #: dialog/vree.msg:1003
 msgid "Brotherhood"
-msgstr "Confrérie de l'Acier|Confrérie|Confrerie|Acier"
+msgstr "Confrerie"
 
 #: dialog/butch.msg:1024 dialog/cabbot.msg:1003 dialog/maxson.msg:1006
 #: dialog/rhombus.msg:1003 dialog/vree.msg:1005 game/scrname.msg:143
@@ -11344,7 +11343,7 @@ msgstr ""
 #: dialog/regulatr.msg:1002 dialog/set.msg:1009 dialog/tycho.msg:1006
 #: game/map.msg:117 game/map.msg:118
 msgid "Cathedral"
-msgstr ""
+msgstr "Cathedrale"
 
 #: dialog/butch.msg:1029 dialog/decker.msg:1019 dialog/ian.msg:1043
 #: dialog/katja.msg:1043 dialog/laura.msg:1003 dialog/lt.msg:1007
@@ -11409,7 +11408,7 @@ msgstr ""
 #: game/scrname.msg:852 game/scrname.msg:853 game/scrname.msg:854
 #: game/scrname.msg:933
 msgid "Merchant"
-msgstr ""
+msgstr "Marchand"
 
 #: dialog/butch.msg:1040 dialog/decker.msg:1027
 msgid "Hightower"
@@ -11465,7 +11464,7 @@ msgstr "Les Eventreurs|Eventreurs|Eventreur"
 #: dialog/obj_dude.msg:25010 dialog/obj_dude.msg:25610
 #: dialog/regulatr.msg:1015 dialog/rhombus.msg:1009 dialog/tycho.msg:1023
 msgid "Boneyard"
-msgstr "Cimetière de L.A."
+msgstr "Cimetierre"
 
 #: dialog/butch.msg:1051 dialog/ian.msg:1056 dialog/katja.msg:1056
 #: dialog/obj_dude.msg:17810 dialog/obj_dude.msg:18010
@@ -15859,7 +15858,7 @@ msgstr ""
 #: dialog/cheater.msg:217 dialog/cheater.msg:230 dialog/killian.msg:236
 #: dialog/set.msg:144
 msgid "Done."
-msgstr "C'est terminé !"
+msgstr "C'est terminé."
 
 #: dialog/cheater.msg:221
 msgid "[Grinning Visciously] I was happy to 'help' you."
@@ -16887,7 +16886,7 @@ msgstr ""
 #: dialog/obj_dude.msg:25613 game/map.msg:332 game/map.msg:333
 #: game/map.msg:334 game/worldmap.msg:301
 msgid "Downtown"
-msgstr ""
+msgstr "Centre-ville"
 
 #: dialog/child.msg:1100
 msgid "Wah! Nightmare monster!"
@@ -29991,7 +29990,7 @@ msgstr ""
 
 #: dialog/garl.msg:161 dialog/nicole.msg:218 dialog/razor.msg:206
 msgid "I'm sorry."
-msgstr "Je regrette."
+msgstr "Quel dommage."
 
 #: dialog/garl.msg:162
 msgid "Why should I care? I'm taking the girl."
@@ -46622,7 +46621,7 @@ msgstr ""
 
 #: dialog/ian.msg:1038 dialog/katja.msg:1038 dialog/tycho.msg:1038
 msgid "Military"
-msgstr "Base"
+msgstr "Base Militaire"
 
 #: dialog/ian.msg:1039 dialog/katja.msg:1039 dialog/morph.msg:1017
 #: dialog/tycho.msg:1039
@@ -76925,7 +76924,7 @@ msgstr "Il faudra. Si t'échoues, c'est la fin de l'Abri."
 #: dialog/over.msg:147 dialog/set.msg:125 dialog/set.msg:153
 #: dialog/set.msg:228 dialog/set.msg:240
 msgid "Got it."
-msgstr "Pigé."
+msgstr "Compris."
 
 #: dialog/over.msg:149
 msgctxt "Over_27"
@@ -116104,7 +116103,7 @@ msgstr ""
 #: game/map.msg:154 game/map.msg:156 game/map.msg:157 game/map.msg:161
 #: game/map.msg:163 game/scrname.msg:212 game/worldmap.msg:1000
 msgid "Desert"
-msgstr ""
+msgstr "Desert"
 
 #: game/map.msg:107 game/map.msg:108 game/map.msg:501 game/pipboy.msg:710
 #: game/pipboy.msg:2037 game/scrname.msg:328 game/scrname.msg:574
@@ -116118,7 +116117,7 @@ msgstr ""
 #: game/map.msg:120 game/map.msg:121 game/scrname.msg:345
 #: game/worldmap.msg:1003
 msgid "Coast"
-msgstr ""
+msgstr "Cote"
 
 #: game/map.msg:124 game/map.msg:504 game/pipboy.msg:740 game/scrname.msg:338
 msgid "The Khans"
@@ -116133,11 +116132,11 @@ msgstr ""
 #: game/map.msg:149 game/map.msg:150 game/map.msg:158 game/map.msg:159
 #: game/map.msg:162 game/map.msg:164 game/worldmap.msg:1001
 msgid "Mountains"
-msgstr ""
+msgstr "Montagnes"
 
 #: game/map.msg:160
 msgid "Viper Camp"
-msgstr ""
+msgstr "Camp des Vipers"
 
 #: game/map.msg:200 game/map.msg:201 game/map.msg:202 game/map.msg:203
 #: game/map.msg:204 game/map.msg:205 game/map.msg:206 game/map.msg:207
@@ -116225,7 +116224,7 @@ msgstr ""
 #: game/map.msg:291 game/map.msg:292 game/worldmap.msg:270
 #: game/worldmap.msg:280 game/worldmap.msg:310
 msgid "Entrance"
-msgstr ""
+msgstr "Entree"
 
 #: game/map.msg:242 game/map.msg:326 game/worldmap.msg:271
 #: game/worldmap.msg:291
@@ -116720,7 +116719,7 @@ msgstr ""
 
 #: game/options.msg:214 game/proto.msg:300 game/scrnset.msg:151
 msgid "None"
-msgstr ""
+msgstr "Aucune"
 
 #: game/options.msg:215
 msgid "Minimal"
@@ -121254,7 +121253,7 @@ msgstr ""
 
 #: game/pro_item.msg:5100
 msgid "Dynamite"
-msgstr ""
+msgstr "Dynamite"
 
 #: game/pro_item.msg:5101
 msgid ""
@@ -121534,7 +121533,7 @@ msgstr ""
 
 #: game/pro_item.msg:8500
 msgid "Plastic Explosives"
-msgstr ""
+msgstr "Plastic"
 
 #: game/pro_item.msg:8501
 msgid ""
@@ -121785,7 +121784,7 @@ msgstr ""
 
 #: game/pro_item.msg:11500
 msgid "Super Sledge"
-msgstr ""
+msgstr "Super Marteau"
 
 #: game/pro_item.msg:11501
 msgid ""
@@ -122243,6 +122242,9 @@ msgid ""
 "A high explosive, consisting of nitroglycerin mixed with the absorbent "
 "substance kieselguhr. Includes a timer, which is ticking."
 msgstr ""
+"Un explosif puissant, composé de nitroglycérine mélangée avec de la "
+"substance absorbante à base de kiselguhr. Comprend une minuterie, qui est "
+"activée."
 
 #: game/pro_item.msg:20700
 msgid "Geiger Counter (Active)"
@@ -122274,6 +122276,8 @@ msgid ""
 "A chunk of Cordex, a military brand of plastic explosives. Highly stable, "
 "very destructive. Includes a timer, which is ticking."
 msgstr ""
+"Un morceau de Cordex, une marque militaire d'explosifs au plastic. Très "
+"stable, très dévastateur. Comprend une minuterie, qui est activée."
 
 #: game/pro_item.msg:21000
 msgid "Stealth Boy (Active)"
@@ -128972,7 +128976,7 @@ msgstr ""
 
 #: game/skill.msg:103
 msgid "Unarmed"
-msgstr "Corps à corps."
+msgstr "Corps à corps"
 
 #: game/skill.msg:104
 msgid "Melee Weapons"

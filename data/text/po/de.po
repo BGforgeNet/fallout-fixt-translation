@@ -4,30 +4,30 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-07-00:20+0000\n"
-"PO-Revision-Date: 2021-03-05 14:12+0000\n"
-"Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
+"PO-Revision-Date: 2024-10-19 12:09+0000\n"
+"Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/fixt/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: cuts/boil1.sve:1
 msgid ""
 "RemindBoy message: Water supplies running low in Vault 13.  Find the water "
 "chip quickly."
 msgstr ""
-"RemindBoy message: Wasservorräte in Vault 13 gehen zu Ende. Schnell den "
-"Wasserchip finden."
+"Meldung des RemindBoy: Wasservorrat in Vault 13 geht zu Ende. Finde "
+"Steuerchip schnell."
 
 #: cuts/boil2.sve:1
 msgid ""
 "RemindBoy message: Water supplies nearly gone in Vault 13.  Situation "
 "critical."
 msgstr ""
-"RemindBoy message: Wasservorräte fast vollständig aufgebraucht in Vault 13. "
+"Meldung des RemindBoy: Wasservorräte in Vault 13 fast völlig erschöpft. "
 "Situation kritisch."
 
 #: cuts/boil3.sve:1
@@ -36,7 +36,7 @@ msgstr "RemindBoy message: Wasservorräte aufgebraucht. Vault 13 ist tot."
 
 #: cuts/intro.sve:1490
 msgid "War. War never changes."
-msgstr "Krieg. Krieg ändert sich nie."
+msgstr "Krieg. Krieg bleibt immer gleich."
 
 #. indexed_txt
 #: cuts/intro.sve:1550 cuts/narrate.txt:3
@@ -2091,29 +2091,29 @@ msgstr "Aber das Leben im Vault ist dabei sich zu verändern."
 #: game/scrname.msg:1065 game/scrname.msg:1067 game/scrname.msg:1068
 #: game/scrname.msg:1069 game/scrname.msg:1071 game/scrnset.msg:60
 msgid " "
-msgstr "."
+msgstr " "
 
 #. indexed_txt
 #: cuts/nar_2.txt:1
 msgid "You are taken away, and slowly returned to normal Vault life."
 msgstr ""
-"Du wurdest wegschafft und kehrst langsam wieder zum normalen Leben im Vault "
+"Du wurdest wegschafft und kehrst langsam wieder zum normalen Vault-Leben "
 "zurück."
 
 #. indexed_txt
 #: cuts/nar_2.txt:2
 msgid "But a month later, disaster strikes."
-msgstr "Aber einen Monat später beginnt die Katastrophe."
+msgstr "Doch einen Monat später bricht die Katastrophe herein."
 
 #. indexed_txt
 #: cuts/nar_3.txt:1
 msgid "Your bones are scraped clean by the desolate wind."
-msgstr "Deine Knochen sind sauber geschabt vom kargen Wind."
+msgstr "Deine Knochen werden vom Wüstenwind blankgeschliffen."
 
 #. indexed_txt
 #: cuts/nar_3.txt:2
 msgid "Your Vault will now surely die, as you have."
-msgstr "Nun wird dein Vault sicher sterben, genau wie du."
+msgstr "Deine Vault wird nun untergehen, genau wie du."
 
 #. indexed_txt
 #: cuts/nar_4.txt:1
@@ -2123,13 +2123,12 @@ msgstr "Die Dunkelheit nach dem Tod ist alles, was dich jetzt erwartet."
 #. indexed_txt
 #: cuts/nar_4.txt:2
 msgid "May you find more peace in that world then you found in this one..."
-msgstr "Mögest du in der Welt mehr Frieden finden als in dieser..."
+msgstr "Mögest du im Jenseits mehr Frieden finden als hier..."
 
 #. indexed_txt
 #: cuts/nar_5.txt:1
 msgid "Not even the carrion eaters are interested in your radiated corpse."
-msgstr ""
-"Nicht mal die Aasfresser sind an deinen verstrahlten Leichnam interessiert."
+msgstr "Nicht einmal die Aasfresser sind auf deine verstrahlte Leiche scharf."
 
 #. indexed_txt
 #: cuts/nar_6.txt:1
@@ -2149,12 +2148,12 @@ msgstr "Dein Tod war schleichend und extrem schmerzhaft."
 #. indexed_txt
 #: cuts/nar_7.txt:3
 msgid "Your adventure is done."
-msgstr "Dein Abenteuer ist geschafft."
+msgstr "Dein Abenteuer ist vorbei."
 
 #. indexed_txt
 #: cuts/nar_8.txt:1
 msgid "You fought valiantly, but to no avail.  "
-msgstr "Du hast heldenhaft gekämpft, aber ohne Nutzen.  "
+msgstr "Du hast tapfer gekämpft - doch vergebens.  "
 
 #. indexed_txt
 #: cuts/nar_8.txt:2
@@ -2162,18 +2161,18 @@ msgid ""
 "Your twisted and ruined body goes down in a hail of bullets, and thus ends "
 "your life in the wasteland."
 msgstr ""
-"Dein verrenkter und zerstörter Körper geht in einem Kugelhagel zu Boden, und"
-" so endet dein Leben im Ödland."
+"Dein geschundener Körper bricht im Kugelhagel zusammen, und so endet dein "
+"Leben im Ödland."
 
 #. indexed_txt
 #: cuts/nar_9.txt:1
 msgid "It is done."
-msgstr "Es ist geschafft."
+msgstr "Es ist vollbracht."
 
 #. indexed_txt
 #: cuts/nar_9.txt:2
 msgid "Vault Thirteen belongs to the Unity and the Master."
-msgstr "Vault 13 gehört zur Einheit und dem Master."
+msgstr "Vault 13 gehört zur Einheit und dem Meister."
 
 #. indexed_txt
 #: cuts/nar_9.txt:3
@@ -2181,16 +2180,16 @@ msgid ""
 "Your knowledge of the Vault defenses saved many mutant lives during the "
 "attack."
 msgstr ""
-"Deine Kenntnisse über die Verteidigungsanlagen des Vaults retteten vielen "
-"Mutanten während des Angriffs das Leben."
+"Deine Kenntnis der Verteidigungsanlagen der Vault hat beim Angriff viele "
+"Mutantenleben gerettet."
 
 #. indexed_txt
 #: cuts/nar_9.txt:4
 msgid ""
 "You personally made the final kill when you took the life of the Overseer."
 msgstr ""
-"Du selbst hast die letzte Tötung durchgeführt, als du dem Aufseher das Leben"
-" nahmst."
+"Du selbst hast den entscheidenden Mord verübt, als du den Aufseher "
+"umgebracht hast."
 
 #. indexed_txt
 #: cuts/nar_9.txt:5
@@ -2198,13 +2197,13 @@ msgid ""
 "You will certainly become one of the finest soldiers for the Unity, and your"
 " skills will see you rewarded often in the future."
 msgstr ""
-"Du wirst sicherlich einer der besten Soldaten der Einheit werden und deine "
-"Fähigkeiten werden dir auch in der Zukunft noch hilfreich sein."
+"Du wirst sicher einer der angesehensten Soldaten der Einheit, und dank "
+"deiner Fähigkeiten wirst du viele Auszeichnungen erhalten."
 
 #. indexed_txt
 #: cuts/nar_9.txt:6
 msgid "You are happy."
-msgstr "Du freust dich."
+msgstr "Du bist glücklich und zufrieden."
 
 #. indexed_txt
 #: cuts/nar_9.txt:7
@@ -2217,8 +2216,8 @@ msgid ""
 "You managed to destroy the Vats, then you killed the Master before he could "
 "realize his twisted plans."
 msgstr ""
-"Du hast es geschafft, die Bottiche zu zerstören, dann hast du den Meister "
-"getötet, bevor er seine verdrehten Pläne durchführen konnte."
+"Du hast die Container zerstört und den Meister getötet, bevor er seine "
+"teuflischen Pläne verwirklichen konnte."
 
 #. indexed_txt
 #: cuts/nar_10.txt:2
@@ -2376,8 +2375,8 @@ msgid ""
 "With Aradesh dead, and Tandi missing or killed, Shady Sands needs a new "
 "leader."
 msgstr ""
-"Nach dem Tod von Aradesh, und Tandi tot oder verschollen, braucht Shady "
-"Sands einen neuen Anfrührer."
+"Da Aradesh tot und Tandi verschollen ist, braucht Shady Sands einen neuen "
+"Führer."
 
 #. indexed_txt
 #: cuts/nar_22.txt:2
@@ -2412,13 +2411,13 @@ msgid ""
 "Killian Darkwater takes firm control of Junktown, drives out the last of "
 "Gizmo's kind, and then enforces his own brand of frontier justice."
 msgstr ""
-"Killian Darkwater hat Junktown fest im Griff. Er vertreibt die letzten "
-"Anhänger Gizmos und setzt seine eigene Grenzlandgerechtigkeit durch."
+"Killian Darkwater hat Junktown fest im Griff. Er vertreibt die letzten Leute "
+"Gizmo´s und setzt dann seine eigene Art der Grenzjustiz durch."
 
 #. indexed_txt
 #: cuts/nar_24.txt:2
 msgid "Life is fair and safe under his law."
-msgstr "Das Leben ist fair und sicher unter seinem Gesetz."
+msgstr "Das Leben ist fair und sicher unter seiner Führung."
 
 #. indexed_txt
 #: cuts/nar_25.txt:1
@@ -2426,7 +2425,7 @@ msgid ""
 "Junktown becomes the new boomtown under the careful, and profitable, "
 "guidance of Don Gizmo."
 msgstr ""
-"Unter der behutsamen und gewinnbringenden Führung von Don Gizmo, erlebt "
+"Unter der behutsamen und gewinnbringenden Führung von Don Gizmo erlebt "
 "Junktown einen großen Aufschwung."
 
 #. indexed_txt
@@ -2436,8 +2435,8 @@ msgid ""
 "the scope of his power, until he chokes to death while eating some Iguana-"
 "on-a-stick."
 msgstr ""
-"Er selbst verdient am meisten, weiterhin vergrößert er sein Casino und baut "
-"seine Macht aus, bis er an einem Leguan am Spieß erstickt."
+"Er selbst verdient am meisten, vergrößert sein Casino und baut seine Macht "
+"aus, bis er an einem Leguan am Spieß erstickt."
 
 #. indexed_txt
 #: cuts/nar_27.txt:1
@@ -2451,8 +2450,7 @@ msgstr ""
 #: cuts/nar_27.txt:2
 msgid ""
 "When the army finishes their brutal siege, nothing of Junktown remains."
-msgstr ""
-"Am Ende der brutalen Belagerung der Arme bleibt von Junktown nichts übrig."
+msgstr "Am Ende der brutalen Belagerung bleibt von Junktown nichts übrig."
 
 #. indexed_txt
 #: cuts/nar_28.txt:1
@@ -2462,7 +2460,7 @@ msgid ""
 msgstr ""
 "Die Brotherhood of Steel hilft anderen Außenposten der Menschen, die "
 "Mutantenarmeen in die Flucht zu schlagen. Beide Seiten erleiden dabei nur "
-"minimale Truppenverluste."
+"minimale Verluste."
 
 #. indexed_txt
 #: cuts/nar_28.txt:2
@@ -2526,7 +2524,7 @@ msgid ""
 "With your assistance, Old Harold brings the ghoul population of the Hub into"
 " equality with the humans."
 msgstr ""
-"Mit deiner Hilfe führt Old Harold die Gleichberechtigung der Ghuls im Hub "
+"Mit deiner Hilfe führt Old Harold im Hub die Gleichberechtigung der Ghuls "
 "mit den Menschen herbei."
 
 #. indexed_txt
@@ -2553,8 +2551,7 @@ msgstr ""
 msgid ""
 "Thanks to your persistence, the Raiders are destroyed as an effective "
 "fighting force, and disband."
-msgstr ""
-"Dank deiner Ausdauer werden die Raider zerschlagen und lösen sich auf."
+msgstr "Dank deiner Ausdauer werden die Raiders zerschlagen und lösen sich auf."
 
 #. indexed_txt
 #: cuts/nar_35.txt:2
@@ -2575,7 +2572,7 @@ msgstr ""
 msgid ""
 "The Desert Raiders pillage most of the northern parts of New California."
 msgstr ""
-"Die Desert Raider plündern große Teile des Nordens von New California."
+"Die Desert Raiders plündern den größten Teil des nördlichen New California."
 
 #. indexed_txt
 #: cuts/nar_37.txt:2
@@ -2589,26 +2586,24 @@ msgstr ""
 #. indexed_txt
 #: cuts/nar_38.txt:1
 msgid "Your mission beneath the Mutant Stronghold is successful."
-msgstr "Deine Mission innerhalb der Mutantenfestung ist erfolgreich."
+msgstr "Deine Mission unter der Mutantenfestung ist erfolgreich."
 
 #. indexed_txt
 #: cuts/nar_38.txt:2 cuts/nar_39.txt:2
 msgid "Your actions today will influence the outside world for years to come."
-msgstr "Deine heutigen Taten werden die Außenwelt über Jahre hin verändern."
+msgstr "Was du heute getan hast wird die Außenwelt über Jahre hin verändern."
 
 #. indexed_txt
 #: cuts/nar_39.txt:1
 msgid "Your mission beneath the Cathedral is successful."
-msgstr "Deine Mission innerhalb der Kathedrale ist erfolgreich."
+msgstr "Deine Mission unter der Kathedrale war ein Erfolg."
 
 #. indexed_txt
 #: cuts/nar_40.txt:1
 msgid ""
 "Your involvement with the various places and people of the Wasteland is well"
 " documented by future historians."
-msgstr ""
-"Dein Engagement für die verschiedenen Orte und Menschen im Ödland wird von "
-"zukünftigen Historikern gut dokumentiert."
+msgstr "Was immer du im Ödland getan hast wird in die Geschichte eingehen."
 
 #. indexed_txt
 #: cuts/nar_40.txt:2
@@ -2621,13 +2616,13 @@ msgid ""
 "You march into the desert sands, leaving the shattered corpse of the "
 "Overseer behind you, never to return to the Vault."
 msgstr ""
-"Du läufst in die Wüste hinaus und lässt die zerschmetterten Knochen des "
-"Aufsehers zurück. Niemals wirst du zu mVault zurückkehren."
+"Du läufst in die Wüste hinaus und lässt die zerschmetterte Leiche des "
+"Aufsehers zurück. Niemals wirst du zur Vault zurückkehren."
 
 #. indexed_txt
 #: cuts/nar_42.txt:1
 msgid "You march into the desert sands, leaving the Vault behind you."
-msgstr "Du läufst in die Wüstensand hinaus und lässt den Vault hinter dir."
+msgstr "Du läufst in die Wüste hinaus und lässt die Vault hinter dir."
 
 #. indexed_txt
 #: cuts/nar_44.txt:1
@@ -2759,7 +2754,7 @@ msgstr "Offen gesagt, ich ... ich glaube, du bist unsere letzte Chance."
 
 #: cuts/ovrintro.sve:560
 msgid "You need to go find us another controller chip."
-msgstr "Du musst gehen und uns einen neuen Steuerchip besorgen."
+msgstr "Besorg uns einen neuen Steuerchip."
 
 #: cuts/ovrintro.sve:615
 msgid "We estimate we have four to five months"
@@ -2767,7 +2762,7 @@ msgstr "Wir schätzen, wir haben für vier bis fünf Monate"
 
 #: cuts/ovrintro.sve:650
 msgid "before the Vault runs out of water."
-msgstr "bis der Bunker kein Wasser mehr hat."
+msgstr "bis der Vault das Wasser ausgeht."
 
 #: cuts/ovrintro.sve:695
 msgid "We need that chip."
@@ -2775,7 +2770,7 @@ msgstr "Wir brauchen den Chip."
 
 #: cuts/ovrintro.sve:735
 msgid "We marked your map with the location of another Vault."
-msgstr "Wir haben auf deiner Karte einen Ort eines anderen Vaults markiert."
+msgstr "Wir haben auf deiner Karte den Ort einer anderen Vault markiert."
 
 #: cuts/ovrintro.sve:785
 msgid "Not a bad place to start I think."
@@ -2927,7 +2922,7 @@ msgstr "Nicht ich wissen."
 
 #: dialog/abel.msg:989
 msgid "What that?"
-msgstr "Was das sein?"
+msgstr "Was das?"
 
 #: dialog/adytownr.msg:100
 msgid "You see an inhabitant of Adytum."
@@ -4440,7 +4435,7 @@ msgstr ""
 
 #: dialog/aradesh.msg:142
 msgid "Why do you want to know?"
-msgstr ""
+msgstr "Warum willst du das wissen?"
 
 #: dialog/aradesh.msg:143
 msgctxt "Ara_13"
@@ -4471,7 +4466,7 @@ msgstr ""
 #: dialog/zark.msg:139 dialog/zark.msg:173 dialog/zark.msg:195
 #: dialog/zark.msg:234 dialog/zark.msg:262
 msgid "What's going on around here?"
-msgstr "Was ist hier los?"
+msgstr "Was geht hier vor?"
 
 #: dialog/aradesh.msg:151 dialog/aradesh.msg:167 dialog/aradesh.msg:182
 #: dialog/aradesh.msg:195 dialog/aradesh.msg:217 dialog/kalnor.msg:149
@@ -4671,7 +4666,7 @@ msgstr ""
 
 #: dialog/aradesh.msg:197 dialog/romero.msg:138
 msgid "Go on."
-msgstr "Mach weiter."
+msgstr "Ja?"
 
 #: dialog/aradesh.msg:198
 msgctxt "Ara_28a"
@@ -6472,7 +6467,7 @@ msgstr ""
 #: dialog/set.msg:1020 dialog/terry.msg:1003 dialog/tycho.msg:1011
 #: game/scrname.msg:264
 msgid "Watershed"
-msgstr ""
+msgstr "Wasserstelle"
 
 #: dialog/barry.msg:1004 dialog/childmem.msg:1010 dialog/gary.msg:1004
 #: dialog/harry.msg:1010 dialog/ian.msg:1017 dialog/katja.msg:1013
@@ -6480,7 +6475,7 @@ msgstr ""
 #: dialog/obj_dude.msg:3405 dialog/obj_dude.msg:4005 dialog/sally.msg:1004
 #: dialog/set.msg:1011 dialog/terry.msg:1004 dialog/tycho.msg:1013
 msgid "Hall"
-msgstr ""
+msgstr "Halle"
 
 #: dialog/barry.msg:1005 dialog/gary.msg:1005 dialog/harry.msg:1001
 #: dialog/larry.msg:1005 dialog/sally.msg:1005 dialog/terry.msg:1005
@@ -7086,7 +7081,7 @@ msgstr ""
 
 #: dialog/billy.msg:177 dialog/hbillie.msg:178
 msgid "I can't talk right now."
-msgstr "Ich kann gerade nicht sprechen."
+msgstr "Ich kann gerade nicht mit dir sprechen."
 
 #: dialog/billy.msg:178 dialog/hbillie.msg:179
 msgid "I don't want to get in trouble."
@@ -9047,7 +9042,7 @@ msgstr ""
 #: dialog/lorenzo.msg:228 dialog/lorenzo.msg:243 dialog/rhombus.msg:101
 #: dialog/ssguide.msg:130
 msgid "Tell me about yourself."
-msgstr ""
+msgstr "Erzähl mir von dir."
 
 #: dialog/butch.msg:102 dialog/maxson.msg:103 dialog/rhombus.msg:103
 msgid "Heard any good rumors?"
@@ -9361,7 +9356,7 @@ msgstr ""
 
 #: dialog/butch.msg:174
 msgid "No reason."
-msgstr "Keine Ursache."
+msgstr "Nur so."
 
 #: dialog/butch.msg:175
 msgid "Never mind. I have some more questions."
@@ -10305,7 +10300,7 @@ msgstr ""
 #: dialog/loxley.msg:1021 dialog/maxson.msg:1015 dialog/rhombus.msg:1015
 #: dialog/tycho.msg:1065 dialog/vree.msg:1009
 msgid "Merchants"
-msgstr ""
+msgstr "Händler"
 
 #: dialog/butch.msg:1007 dialog/decker.msg:1007
 msgid "Daren"
@@ -10591,7 +10586,7 @@ msgstr ""
 #: dialog/obj_dude.msg:25615 dialog/tandi.msg:1040 dialog/tycho.msg:1029
 #: game/pro_crit.msg:5100 game/scrname.msg:742 game/scrname.msg:1022
 msgid "Deathclaw"
-msgstr ""
+msgstr "Deathclaw"
 
 #: dialog/butch.msg:1060 dialog/loxley.msg:1012
 msgid "Hot"
@@ -12655,7 +12650,7 @@ msgstr ""
 #: dialog/caleb.msg:135 dialog/caleb.msg:139 dialog/dugan.msg:114
 #: dialog/macrae.msg:112 dialog/macrae.msg:116 dialog/vree.msg:137
 msgid "Can I ask you something else?"
-msgstr ""
+msgstr "Kann ich dich noch etwas anderes fragen?"
 
 #: dialog/caleb.msg:136 dialog/gunther.msg:112
 msgid "Thanks for the info. Goodbye."
@@ -16912,7 +16907,7 @@ msgstr ""
 
 #: dialog/cougar.msg:101
 msgid "How's it going?"
-msgstr "Wie läuft es?"
+msgstr "Wie geht's."
 
 #: dialog/cougar.msg:102
 msgid "Good, and you?"
@@ -17686,7 +17681,7 @@ msgstr ""
 
 #: dialog/curtis.msg:106
 msgid "What's your name?"
-msgstr ""
+msgstr "Wie heißt du?"
 
 #: dialog/curtis.msg:107
 msgid "What can you tell me about your village?"
@@ -19345,7 +19340,7 @@ msgstr ""
 
 #: dialog/deadcomp.msg:107 game/misc.msg:13
 msgid "EXIT"
-msgstr ""
+msgstr "BEENDEN"
 
 #: dialog/deadcomp.msg:108
 msgid ""
@@ -19718,7 +19713,7 @@ msgstr ""
 
 #: dialog/deadguy.msg:129
 msgid "Yes, ma'am!"
-msgstr "Ja, gnädige Frau!"
+msgstr "Ja, Tante!"
 
 #: dialog/dealer.msg:100
 msgid ""
@@ -25416,7 +25411,7 @@ msgstr ""
 
 #: dialog/folguard.msg:171 dialog/folscout.msg:171
 msgid "Thanks. Goodbye."
-msgstr "Danke. Auf Wiedersehn."
+msgstr "Vielen Dank. Auf Wiedersehn."
 
 #: dialog/folguard.msg:172 dialog/folscout.msg:172
 msgid "Nicole will be pleased then, to know that I killed the agent."
@@ -27165,7 +27160,7 @@ msgstr ""
 #: game/scrname.msg:1074 game/scrname.msg:1075 game/scrname.msg:1076
 #: game/scrname.msg:1077 game/scrname.msg:1078
 msgid "Raider"
-msgstr ""
+msgstr "Raider"
 
 #: dialog/garl.msg:1100 dialog/garl.msg:1109 dialog/garl.msg:1110
 #: dialog/garl.msg:1111 dialog/garl.msg:1112 dialog/obj_dude.msg:15500
@@ -28848,7 +28843,7 @@ msgstr "[Mehr]"
 
 #: dialog/generic.msg:353
 msgid "[CONTINUE]"
-msgstr "[FORTSETZEN]"
+msgstr "[Weiter]"
 
 #: dialog/generic.msg:354
 msgid "[COMBAT]"
@@ -29304,7 +29299,7 @@ msgstr ""
 
 #: dialog/generic.msg:2075
 msgid "seventy-five"
-msgstr ""
+msgstr "fünfundsiebzig"
 
 #: dialog/generic.msg:2076
 msgid "seventy-six"
@@ -29328,7 +29323,7 @@ msgstr ""
 
 #: dialog/generic.msg:2081
 msgid "eighty-one"
-msgstr ""
+msgstr "einundachtzig"
 
 #: dialog/generic.msg:2082
 msgid "eighty-two"
@@ -30206,7 +30201,7 @@ msgstr ""
 
 #: dialog/generic.msg:5400
 msgid "Stay away from there."
-msgstr "Bleib weg da."
+msgstr "Bleib da weg!"
 
 #: dialog/generic.msg:9000
 msgid "Repairs Complete."
@@ -30347,7 +30342,7 @@ msgstr ""
 
 #: dialog/generic.msg:10100 dialog/lance.msg:197
 msgid "Let's go."
-msgstr ""
+msgstr "Lass uns gehen."
 
 #: dialog/generic.msg:21020
 msgid "twenty"
@@ -31293,7 +31288,7 @@ msgstr ""
 #: dialog/genraid2.msg:118 dialog/genraidr.msg:118 dialog/razor.msg:212
 #: dialog/regulatr.msg:110 game/combatai.msg:2104
 msgid "Go away!"
-msgstr ""
+msgstr "Hau ab!"
 
 #: dialog/genraid2.msg:120 dialog/genraidr.msg:120
 msgid "I'm looking for a woman named Tandi. Seen her?"
@@ -32047,7 +32042,7 @@ msgstr ""
 
 #: dialog/genvault.msg:152
 msgid "You should be ashamed of yourself."
-msgstr ""
+msgstr "Du solltest dich was schämen."
 
 #: dialog/genvault.msg:153
 msgid "And to think that I used to like you."
@@ -36405,7 +36400,7 @@ msgstr ""
 #: dialog/obj_dude.msg:4600 dialog/over.msg:1001 dialog/rebel.msg:1003
 #: dialog/tandi.msg:1016 dialog/theresa.msg:1001 dialog/tycho.msg:1018
 msgid "Vault"
-msgstr "Vault"
+msgstr "(die) Vault"
 
 #: dialog/harold.msg:1008 dialog/vconcomp.msg:129
 msgid "Grey"
@@ -42083,7 +42078,7 @@ msgstr ""
 #: dialog/tycho.msg:1014 game/map.msg:287 game/scrname.msg:247
 #: game/scrname.msg:906 game/worldmap.msg:302
 msgid "Library"
-msgstr ""
+msgstr "Bibliothek"
 
 #: dialog/ian.msg:1019 dialog/katja.msg:1015 dialog/obj_dude.msg:4602
 #: dialog/officer.msg:1000 dialog/over.msg:1010 dialog/rebel.msg:1000
@@ -42094,7 +42089,7 @@ msgstr ""
 #: dialog/ian.msg:1020 dialog/katja.msg:1016 dialog/medic.msg:1000
 #: dialog/obj_dude.msg:4607 dialog/over.msg:1007 dialog/tycho.msg:1016
 msgid "Medic"
-msgstr ""
+msgstr "Mediziner"
 
 #: dialog/ian.msg:1021 dialog/katja.msg:1017 dialog/medic.msg:1001
 #: dialog/obj_dude.msg:4608 dialog/over.msg:1006 dialog/tycho.msg:1017
@@ -42134,7 +42129,7 @@ msgstr ""
 #: dialog/ian.msg:1039 dialog/katja.msg:1039 dialog/morph.msg:1017
 #: dialog/tycho.msg:1039
 msgid "Base"
-msgstr ""
+msgstr "Basis"
 
 #: dialog/ian.msg:1046 dialog/katja.msg:1046 dialog/obj_dude.msg:15407
 #: dialog/tandi.msg:1017 dialog/tycho.msg:1046 game/scrname.msg:243
@@ -60508,7 +60503,7 @@ msgstr ""
 
 #: dialog/medic.msg:142
 msgid "Na."
-msgstr ""
+msgstr "Nö."
 
 #: dialog/medic.msg:143 dialog/morbid.msg:106 dialog/morbid.msg:128
 #: dialog/prisonr.msg:118
@@ -66270,7 +66265,7 @@ msgstr ""
 
 #: dialog/obj_dude.msg:981
 msgid "Sorry. No clue."
-msgstr "Tut mir leid. Keine Ahnung."
+msgstr "Keine Ahnung, tut mir leid"
 
 #: dialog/obj_dude.msg:982 dialog/obj_dude.msg:18108 dialog/obj_dude.msg:27507
 msgid "Never heard of it."
@@ -77870,7 +77865,7 @@ msgstr ""
 
 #: dialog/seth.msg:105
 msgid "Bye-bye."
-msgstr "Bye-bye."
+msgstr "Tschüssi!"
 
 #: dialog/seth.msg:106
 msgid ""
@@ -88904,7 +88899,7 @@ msgstr ""
 
 #: dialog/vinnie.msg:114
 msgid "I see."
-msgstr "Ich verstehe."
+msgstr "Verstehe."
 
 #: dialog/vinnie.msg:115
 msgid "You have some sort of deal with Killian?"
@@ -93175,23 +93170,23 @@ msgstr ""
 
 #: game/combat.msg:5008 game/combat.msg:5108
 msgid ", causing severe tennis elbow"
-msgstr "und führt zu einem heftigen Tennisarm"
+msgstr " und führt zu einem heftigen Tennisarm"
 
 #: game/combat.msg:5009 game/combat.msg:5109
 msgid ", pushing the arm out of the way"
-msgstr "und stößt den Arm zur Seite"
+msgstr " und stößt den Arm zur Seite"
 
 #: game/combat.msg:5010 game/combat.msg:5110
 msgid ", leaving a big bruise"
-msgstr "und hinterlässt einen großen blauen Fleck"
+msgstr " und hinterlässt einen großen blauen Fleck"
 
 #: game/combat.msg:5011
 msgid ", crippling the left arm"
-msgstr "und verstümmelt den linken Arm"
+msgstr " und verstümmelt den linken Arm"
 
 #: game/combat.msg:5012
 msgid ", leaving the left arm dangling by the skin"
-msgstr "und lässt den Arm nur noch an Hautfetzen baumeln"
+msgstr " und lässt den Arm nur noch an Hautfetzen baumeln"
 
 #: game/combat.msg:5013 game/combat.msg:5113
 msgid ". That arm now looks like a bloody stump"
@@ -93199,7 +93194,7 @@ msgstr ""
 
 #: game/combat.msg:5014
 msgid ", leaving a crippled right arm"
-msgstr "und hinterlässt einen verstümmelten rechten Arm"
+msgstr " und hinterlässt einen verstümmelten rechten Arm"
 
 #: game/combat.msg:5015
 msgid ". His right arm is pulverized by this powerful blow"
@@ -93215,7 +93210,7 @@ msgstr ", durchdringt die Rüstung"
 
 #: game/combat.msg:5018 game/combat.msg:5118
 msgid ", inflicting an extra helping of damage"
-msgstr "und richtet zusätzlichen Schaden an"
+msgstr " und richtet zusätzlichen Schaden an"
 
 #: game/combat.msg:5019
 msgid " right through his armor, knocking the combatant to the ground"
@@ -93236,7 +93231,7 @@ msgstr ""
 
 #: game/combat.msg:5023
 msgid ", knocking him to the ground like a bowling pin in a league game"
-msgstr "und wirft ihn zu Boden, wie Kegel bei einem Punktespiel."
+msgstr " und wirft ihn wie einen Kegel zu Boden"
 
 #: game/combat.msg:5024
 msgid ""
@@ -93245,7 +93240,7 @@ msgstr ""
 
 #: game/combat.msg:5025
 msgid ", smashing the knee into the next town. He falls"
-msgstr "und bläst das Knie bis in die nächste Stadt. Er fällt"
+msgstr " und bläst das Knie bis in die nächste Stadt. Er fällt"
 
 #: game/combat.msg:5026
 msgid ". The intense pain of having a leg removed causes him to quit"
@@ -93265,7 +93260,7 @@ msgstr ""
 
 #: game/combat.msg:5030
 msgid ", and blinding him with a stunning blow"
-msgstr "und blendet ihn mit einem atemberaubenden Schlag"
+msgstr " und blendet ihn mit einem atemberaubenden Schlag"
 
 #: game/combat.msg:5031
 msgid ". The loss of an eye is too much for him, and he falls to the ground"
@@ -93399,7 +93394,7 @@ msgstr ""
 
 #: game/combat.msg:5134
 msgid ", knocking her to the ground"
-msgstr "und wirft sie zu Boden"
+msgstr " und wirft sie zu Boden"
 
 #: game/combat.msg:5135
 msgid ". Her childbearing days are numbered as she collapses in a limp heap"
@@ -93423,7 +93418,7 @@ msgstr ". Der Schlag sitzt, und das Kind wird bewusstlos"
 
 #: game/combat.msg:5204
 msgid ", smashing the small child around like a limp rag"
-msgstr "und schleudert das kleine Kind wie einen nassen Lappen herum"
+msgstr " und schleudert das kleine Kind wie einen nassen Lappen herum"
 
 #: game/combat.msg:5205
 msgid ". The left arm of this kid now has an owie"
@@ -93431,16 +93426,15 @@ msgstr ""
 
 #: game/combat.msg:5206
 msgid ", throwing the small child off balance"
-msgstr "und bringt das kleine Kind aus dem Gleichgewicht"
+msgstr " und bringt das kleine Kind aus dem Gleichgewicht"
 
 #: game/combat.msg:5207
 msgid ", breaking that arm with a loud snap. Some serious tears start to flow"
-msgstr ""
-"und bricht den Arm mit einem lauten Knacken. Tränen fließen in Strömen"
+msgstr " und bricht den Arm mit einem lauten Knacken. Tränen fließen in Strömen"
 
 #: game/combat.msg:5208
 msgid ", easily snapping that arm like a small piece of candy"
-msgstr "und zerbricht den Arm wie eine Zuckerstange"
+msgstr " und zerbricht den Arm wie eine Zuckerstange"
 
 #: game/combat.msg:5209
 msgid ". The right arm starts to swell, like a balloon"
@@ -93448,7 +93442,7 @@ msgstr ""
 
 #: game/combat.msg:5210
 msgid ", and starts to cry"
-msgstr "und beginnt zu weinen"
+msgstr " und beginnt zu weinen"
 
 #: game/combat.msg:5211
 msgid " in a sensitive spot"
@@ -93460,7 +93454,7 @@ msgstr ""
 
 #: game/combat.msg:5213
 msgid ", knocking the little kid over like a toy"
-msgstr "und wirft das kleine Kind um wie ein Spielzeug"
+msgstr " und wirft das kleine Kind um wie ein Spielzeug"
 
 #: game/combat.msg:5214
 msgid ". Now this young child will never really experience life"
@@ -93468,7 +93462,7 @@ msgstr ""
 
 #: game/combat.msg:5215
 msgid ", inflicting a deep cut"
-msgstr "und fügt eine tiefe Wunde zu"
+msgstr " und fügt eine tiefe Wunde zu"
 
 #: game/combat.msg:5216
 msgid ". The attack bowls the child over, and breaks the leg"
@@ -93476,7 +93470,7 @@ msgstr ""
 
 #: game/combat.msg:5217
 msgid ", inflicting great harm to the small child"
-msgstr "und fügt dem kleinen Kind großen Schaden zu"
+msgstr " und fügt dem kleinen Kind großen Schaden zu"
 
 #: game/combat.msg:5218
 msgid ". The young child looks up and starts to cry"
@@ -93492,7 +93486,7 @@ msgstr ""
 
 #: game/combat.msg:5221
 msgid ". A cut appears above the eyes and the blood starts to flow freely"
-msgstr ""
+msgstr ". Eine Wunde klafft über den Augen, und das Blut fließt in Strömen"
 
 #: game/combat.msg:5222
 msgid ""
@@ -93513,11 +93507,11 @@ msgstr ""
 
 #: game/combat.msg:5226
 msgid ", knocking this young target to the ground"
-msgstr "und wirft das junge Opfer zu Boden"
+msgstr " und wirft das junge Opfer zu Boden"
 
 #: game/combat.msg:5300
 msgid ", hurting the mighty mutant"
-msgstr "und verletzt den mächtigen Mutanten"
+msgstr " und verletzt den mächtigen Mutanten"
 
 #: game/combat.msg:5301
 msgid ", striking a vital spot"
@@ -93538,11 +93532,11 @@ msgstr ""
 
 #: game/combat.msg:5305
 msgid ", severely hurting the mighty mutant"
-msgstr "und verletzt den mächtigen Mutanten ernsthaft"
+msgstr " und verletzt den mächtigen Mutanten ernsthaft"
 
 #: game/combat.msg:5306
 msgid ", causing the giant to spend a moment cursing the universe"
-msgstr "und lässt den Mutanten einen Augenblick lang das Universum verfluchen"
+msgstr " und lässt den Mutanten einen Augenblick lang das Universum verfluchen"
 
 #: game/combat.msg:5307
 msgid ", striking a nerve and forcing the giant to grab his arm in pain"
@@ -93572,7 +93566,7 @@ msgstr ""
 
 #: game/combat.msg:5312
 msgid ", sending the giant flying to the floor"
-msgstr "und schickt den Riesen fliegend zu Boden"
+msgstr " und schickt den Riesen fliegend zu Boden"
 
 #: game/combat.msg:5313
 msgid ". The mutant stumbles and falls, his leg barely able to support him"
@@ -93581,7 +93575,7 @@ msgstr ""
 #: game/combat.msg:5314
 msgid ", striking a vital location. The mutant crumples under a broken leg"
 msgstr ""
-"und trifft eine wichtige Stelle. Der Mutant bricht mit einem gebrochenen "
+" und trifft eine wichtige Stelle. Der Mutant bricht mit einem gebrochenen "
 "Bein zusammen"
 
 #: game/combat.msg:5315
@@ -93590,11 +93584,11 @@ msgstr ""
 
 #: game/combat.msg:5316
 msgid ", nearly blinding the mutant"
-msgstr "und lässt den Mutanten fast erblinden"
+msgstr " und lässt den Mutanten fast erblinden"
 
 #: game/combat.msg:5317
 msgid ", blinding the now-furious mutant"
-msgstr "und lässt den wütenden Mutanten erblinden"
+msgstr " und lässt den wütenden Mutanten erblinden"
 
 #: game/combat.msg:5318
 msgid ", not quite blinding the mutant but throwing him off balance"
@@ -93606,7 +93600,7 @@ msgstr ""
 
 #: game/combat.msg:5320
 msgid ", blinding the now-unconscious mutant"
-msgstr "und lässt den bewusstlosen Mutanten erblinden"
+msgstr " und lässt den bewusstlosen Mutanten erblinden"
 
 #: game/combat.msg:5321
 msgid ""
@@ -93652,7 +93646,7 @@ msgstr ""
 
 #: game/combat.msg:5500
 msgid ", knocking the big beast to the ground"
-msgstr "und wirft das große Ungetüm um"
+msgstr " und wirft das große Ungetüm um"
 
 #: game/combat.msg:5501
 msgid ", stunning both brains and felling the giant animal"
@@ -93668,19 +93662,19 @@ msgstr ""
 
 #: game/combat.msg:5504
 msgid ", seriously hurting the mutant cow"
-msgstr "und verletzt die Mutantenkuh ernsthaft"
+msgstr " und verletzt die Mutantenkuh ernsthaft"
 
 #: game/combat.msg:5505
 msgid ", easily penetrating the thick hide of the giant beast"
-msgstr "und durchdringt ganz einfach die dicke Haut des Riesenviehs"
+msgstr " und durchdringt ganz einfach die dicke Haut des Riesenviehs"
 
 #: game/combat.msg:5506
 msgid ", penetrating straight through both hearts of the mutant cow"
-msgstr "und durchdringt beide Herzen der Mutantenkuh direkt"
+msgstr " und durchdringt glatt beide Herzen der Mutantenkuh"
 
 #: game/combat.msg:5507
 msgid ", blinding both sets of eyes with a single blow"
-msgstr "und blendet beide Augenpaare mit einem einzigen Schlag"
+msgstr " und blendet beide Augenpaare mit einem einzigen Schlag"
 
 #: game/combat.msg:5508
 msgid ", blinding both heads and stunning the mutant cow"
@@ -93712,15 +93706,15 @@ msgstr ""
 
 #: game/combat.msg:5601
 msgid ", separating the head from the carapace"
-msgstr "und trennt den Kopf vom Rückenpanzer"
+msgstr " und trennt den Kopf vom Rückenpanzer"
 
 #: game/combat.msg:5602
 msgid ", seriously damaging the tail"
-msgstr "und schädigt den Schwanz ernsthaft"
+msgstr " und schädigt den Schwanz ernsthaft"
 
 #: game/combat.msg:5603
 msgid ", putting a major hurt on its claws"
-msgstr "und verletzt seine Klauen schmerzhaft"
+msgstr " und verletzt seine Klauen schlimm"
 
 #: game/combat.msg:5604
 msgid ""
@@ -93729,7 +93723,7 @@ msgstr ""
 
 #: game/combat.msg:5605
 msgid ", striking through the tough carapace without pausing"
-msgstr "und durchdringt den harten Rückenschild ohne Schwierigkeiten"
+msgstr " und durchdringt den harten Rückenschild ohne Schwierigkeiten"
 
 #: game/combat.msg:5606
 msgid ", passing through the natural armor and knocking the radscorpion over"
@@ -93751,17 +93745,17 @@ msgstr ""
 
 #: game/combat.msg:5610
 msgid ", seriously wounding and blinding the mutant creature"
-msgstr "und verwundet und blendet das mutierte Wesen"
+msgstr " und verwundet und blendet das Mutantenwesen schwer"
 
 #: game/combat.msg:5611
 msgid ", penetrating almost to the brain. Talk about squashing a bug"
 msgstr ""
-"und dringt fast bis ins Hirn vor. Als würde man Ungeziefer zerquetschen"
+" und dringt fast bis ins Hirn vor. So ist das also, wenn man Ungeziefer "
+"zerquetscht"
 
 #: game/combat.msg:5612
 msgid ", almost penetrating to the brain, but blinding the creature instead"
-msgstr ""
-"und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden"
+msgstr " und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden"
 
 #: game/combat.msg:5613
 msgid ""
@@ -93774,11 +93768,11 @@ msgstr ""
 
 #: game/combat.msg:5615
 msgid ", knocking the poor creature senseless"
-msgstr "und schlägt das arme Wesen besinnungslos"
+msgstr " und schlägt das arme Wesen besinnungslos"
 
 #: game/combat.msg:5616
 msgid ", spiking the brain to the floor"
-msgstr "und nagelt das Hirn an den Boden"
+msgstr " und nagelt das Hirn an den Boden"
 
 #: game/combat.msg:5700
 msgid ". The rodent's skull makes several unhealthy sounds"
@@ -93786,7 +93780,7 @@ msgstr ""
 
 #: game/combat.msg:5701
 msgid ", squashing the rodent's skull like a wet paper bag"
-msgstr "und zerquetscht den Schädel des Nagetiers wie eine nasse Papiertüte"
+msgstr " und zerquetscht den Schädel des Nagetiers wie eine nasse Papiertüte"
 
 #: game/combat.msg:5702
 msgid ", and the left paw now looks a little flat"
@@ -93814,7 +93808,7 @@ msgstr ""
 
 #: game/combat.msg:5708
 msgid ", splattering the rat across the floor"
-msgstr "und verspritzt die Ratte über den Boden"
+msgstr " und verspritzt die Ratte über den Boden"
 
 #: game/combat.msg:5709
 msgid ", easily removing the right leg"
@@ -93822,12 +93816,12 @@ msgstr ""
 
 #: game/combat.msg:5710
 msgid ", putting a big hole in the left leg"
-msgstr "und hinterlässt ein großes Loch im linken Bein"
+msgstr " und hinterlässt ein großes Loch im linken Bein"
 
 #: game/combat.msg:5711
 msgid ", doing some extra damage due to the sensitive location"
 msgstr ""
-"und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle "
+" und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle "
 "handelt"
 
 #: game/combat.msg:5712
@@ -93848,7 +93842,7 @@ msgstr "mit ernsthaften Folgen für das Weiterleben des Wesens"
 
 #: game/combat.msg:5803
 msgid ", stunning the foul creature"
-msgstr "und betäubt das eklige Wesen"
+msgstr " und betäubt das eklige Wesen"
 
 #: game/combat.msg:5804
 msgid ", hitting a sensitive spot there and stunning the floater"
@@ -93893,11 +93887,11 @@ msgstr ""
 
 #: game/combat.msg:5903
 msgid ", stunning it with your violent attack"
-msgstr "und betäubst das Wesen mit deinem heftigen Angriff"
+msgstr " und betäubst es mit deinem heftigen Angriff"
 
 #: game/combat.msg:5904
 msgid ", crippling the arm"
-msgstr "und verstümmelt den Arm"
+msgstr " und verstümmelt den Arm"
 
 #: game/combat.msg:5905
 msgid " striking a critical spot, and crippling the arm"
@@ -93909,7 +93903,7 @@ msgstr ""
 
 #: game/combat.msg:5907
 msgid ", stunning the centaur as it is knocked over with a crippled leg"
-msgstr "und betäubt den Zentaur, der mit einem verstümmelten Bein umfällt"
+msgstr " und betäubt den Zentaur, der mit einem verstümmelten Bein umfällt"
 
 #: game/combat.msg:5908
 msgid ", blinding one head and liquefying the other"
@@ -93917,15 +93911,15 @@ msgstr ""
 
 #: game/combat.msg:5909
 msgid ", surprising the centaur. It blindly stumbles for a moment"
-msgstr "und überrascht den Zentaur. Blind strauchelt er einen Augenblick lang"
+msgstr " und überrascht den Zentaur. Blind strauchelt er einen Augenblick lang"
 
 #: game/combat.msg:5910
 msgid ", surprising the centaur. It collapses in a heap"
-msgstr "und überrascht den Zentaur. Er bricht in einem Haufen zusammen"
+msgstr " und überrascht den Zentaur. Er bricht in einem Haufen zusammen"
 
 #: game/combat.msg:5911
 msgid ", surprising the centaur. It collapses in a pile of goo"
-msgstr "und überrascht den Zentaur. Er fällt in einem Haufen Glibber zusammen"
+msgstr " und überrascht den Zentaur. Er bricht zu einem Haufen Glibber zusammen"
 
 #: game/combat.msg:5912
 msgid ". The attack was not as effective as it could have been"
@@ -93963,7 +93957,7 @@ msgstr ""
 
 #: game/combat.msg:6007
 msgid ", inflicting heavy structural damage"
-msgstr "und verursacht schwere strukturelle Schäden"
+msgstr " und verursacht schwere strukturelle Schäden"
 
 #: game/combat.msg:6008
 msgid ", hitting a critical component and causing severe damage"
@@ -93975,7 +93969,7 @@ msgstr ""
 
 #: game/combat.msg:6010
 msgid ", dismantling the robot"
-msgstr "und zerlegt den Roboter"
+msgstr " und zerlegt den Roboter"
 
 #: game/combat.msg:6011
 msgid ". The robot attempts to compensate, but fails, falling to the ground"
@@ -93987,11 +93981,11 @@ msgstr ""
 
 #: game/combat.msg:6013
 msgid ", breaking the sensor lenses"
-msgstr "und zerbricht die Sensorobjektive"
+msgstr " und zerstört die Sensorobjektive"
 
 #: game/combat.msg:6100
 msgid ", knocking the pooch to the ground"
-msgstr "und wirft den Köter zu Boden"
+msgstr " und wirft den Köter zu Boden"
 
 #: game/combat.msg:6101
 msgid ", right across the snout"
@@ -94012,7 +94006,7 @@ msgstr "und verstümmelt das Bein"
 #: game/combat.msg:6105
 msgid ", crippling the leg. The animal tries to remain standing, but fails"
 msgstr ""
-"und verstümmelt das Bein. Das Tier versucht stehenzubleiben, es gelingt ihm "
+" und verstümmelt das Bein. Das Tier versucht stehenzubleiben, es gelingt ihm "
 "aber nicht"
 
 #: game/combat.msg:6106
@@ -94021,11 +94015,11 @@ msgstr ""
 
 #: game/combat.msg:6107
 msgid ", neutering the poor animal"
-msgstr "und kastriert das arme Tier"
+msgstr " und kastriert das arme Tier"
 
 #: game/combat.msg:6200
 msgid ", knocking down this mutated insect"
-msgstr "und wirft das mutierte Insekt nieder"
+msgstr " und wirft das mutierte Insekt nieder"
 
 #: game/combat.msg:6201
 msgid ", which collapses"
@@ -94037,7 +94031,7 @@ msgstr ""
 
 #: game/combat.msg:6203
 msgid ", crippling the limb"
-msgstr "und verstümmelt das Glied"
+msgstr " und verstümmelt das Glied"
 
 #: game/combat.msg:6204
 msgid ", causing the mantis to lick its wounds. It holds the limb oddly"
@@ -94045,7 +94039,7 @@ msgstr ""
 
 #: game/combat.msg:6205
 msgid ", bypassing the chitinous armor"
-msgstr "und durchdringt den Chitinpanzer"
+msgstr " und durchdringt den Chitinpanzer"
 
 #: game/combat.msg:6206
 msgid ". The mantis shrieks and shivers must inhumanly"
@@ -94057,7 +94051,7 @@ msgstr ""
 
 #: game/combat.msg:6208
 msgid ", shredding the wings"
-msgstr "und zerfetzt die Flügel"
+msgstr " und zerfetzt die Flügel"
 
 #: game/combat.msg:6209
 msgid ", bypassing the chitinous armor and throwing the mantis around"
@@ -94065,7 +94059,7 @@ msgstr ""
 
 #: game/combat.msg:6210
 msgid ", blinding the insect with an accurate blow"
-msgstr "und lässt das Insekt mit einem präzisen Schlag erblinden"
+msgstr " und lässt das Insekt mit einem präzisen Schlag erblinden"
 
 #: game/combat.msg:6300
 msgid ". Even this beast seems fazed by that stunning attack"
@@ -94158,13 +94152,12 @@ msgid ""
 ", slipping past your armor. The blow cracks the bones in your arm like "
 "deadwood"
 msgstr ""
-"und umgeht deine Rüstung. Der Schlag bricht die Knochen deines Arms wie "
+" und umgeht deine Rüstung. Der Schlag bricht die Knochen deines Arms wie "
 "totes Holz"
 
 #: game/combat.msg:6511
 msgid ", bypassing your armor. Your arm now hangs limply at your side"
-msgstr ""
-"und durchdringt deine Rüstung. Dein Arm hängt nun schlaff an deiner Seite"
+msgstr " und durchdringt deine Rüstung. Dein Arm hängt nun schlaff an der Seite"
 
 #: game/combat.msg:6512
 msgid ""
@@ -94173,7 +94166,7 @@ msgstr ""
 
 #: game/combat.msg:6513
 msgid ", crushing your internal organs. All you can do is gurgle blood"
-msgstr "und zerkleinert deine Eingeweide. Du kannst nur noch Blut spucken"
+msgstr " und zerquetscht deine Eingeweide. Du kannst nur noch Blut spucken"
 
 #: game/combat.msg:6514
 msgid ", sending you head over heels"
@@ -94188,8 +94181,8 @@ msgid ""
 ", melting through your armor. The blow knocks you over and seriously hurts "
 "your knee"
 msgstr ""
-"und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein"
-" Knie schwer"
+" und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt "
+"dein Knie schwer"
 
 #: game/combat.msg:6517
 msgid ". The pain from your broken leg causes you to pass out"
@@ -94212,7 +94205,7 @@ msgid ""
 ", slipping past your armor. You stand stunned as your realize you cannot see"
 " anymore"
 msgstr ""
-"und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr "
+" und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr "
 "sehen kannst"
 
 #: game/combat.msg:6522
@@ -94225,7 +94218,7 @@ msgstr ""
 
 #: game/combat.msg:6523
 msgid ", making you cringe"
-msgstr "und lässt dich zusammenzucken"
+msgstr " und lässt dich zusammenzucken"
 
 #: game/combat.msg:6524
 msgid ". You cup your groin and fall to the floor in pain"
@@ -102246,7 +102239,7 @@ msgstr ""
 
 #: game/combatai.msg:7828 game/combatai.msg:7928
 msgid "My aching skull!"
-msgstr "Mein Schädel schmerzt!"
+msgstr "Mir brummt der Schädel."
 
 #: game/combatai.msg:7831
 msgid "You dirty radscorpion-kissing..."
@@ -103709,7 +103702,7 @@ msgstr ""
 #: game/map.msg:120 game/map.msg:121 game/scrname.msg:345
 #: game/worldmap.msg:1003
 msgid "Coast"
-msgstr ""
+msgstr "Küste"
 
 #: game/map.msg:124 game/map.msg:504 game/pipboy.msg:740 game/scrname.msg:338
 msgid "The Khans"
@@ -103768,7 +103761,7 @@ msgstr ""
 #: game/scrname.msg:251 game/scrname.msg:403 game/worldmap.msg:202
 #: game/worldmap.msg:212
 msgid "Living Quarters"
-msgstr ""
+msgstr "Unterkünfte"
 
 #: game/map.msg:220 game/map.msg:225 game/map.msg:226 game/worldmap.msg:203
 #: game/worldmap.msg:213
@@ -103781,7 +103774,7 @@ msgstr ""
 
 #: game/map.msg:222 game/map.msg:223 game/worldmap.msg:211
 msgid "Cavern Entrance"
-msgstr ""
+msgstr "Höhleneingang"
 
 #: game/map.msg:227
 msgid "Level 1 (Sewer Entrance)"
@@ -103885,19 +103878,19 @@ msgstr ""
 
 #: game/map.msg:293 game/worldmap.msg:281
 msgid "Stronghold Level 1"
-msgstr ""
+msgstr "Festung, Ebene 1"
 
 #: game/map.msg:294 game/worldmap.msg:282
 msgid "Stronghold Level 2"
-msgstr ""
+msgstr "Festung, Ebene 2"
 
 #: game/map.msg:296 game/worldmap.msg:283
 msgid "Vats Level 1"
-msgstr ""
+msgstr "Container, Ebene 1"
 
 #: game/map.msg:297 game/worldmap.msg:284
 msgid "Vats Level 2"
-msgstr ""
+msgstr "Container, Ebene 2"
 
 #: game/map.msg:299
 msgid "Lair Level 1"
@@ -103957,15 +103950,15 @@ msgstr ""
 
 #: game/map.msg:335 game/worldmap.msg:304
 msgid "Warehouse"
-msgstr ""
+msgstr "Lager"
 
 #: game/map.msg:338 game/map.msg:339 game/map.msg:340 game/worldmap.msg:303
 msgid "Fortress"
-msgstr ""
+msgstr "Festung"
 
 #: game/map.msg:341 game/map.msg:342 game/map.msg:343 game/worldmap.msg:290
 msgid "Crater"
-msgstr ""
+msgstr "Krater"
 
 #: game/map.msg:347 game/map.msg:348 game/map.msg:349 game/map.msg:350
 #: game/map.msg:351 game/map.msg:352
@@ -104028,7 +104021,7 @@ msgstr ""
 
 #: game/misc.msg:2
 msgid "Default character will be used."
-msgstr ""
+msgstr "Standardfigur wird benutzt."
 
 #: game/misc.msg:3
 msgid "Saved screenshot."
@@ -104044,7 +104037,7 @@ msgstr ""
 
 #: game/misc.msg:6
 msgid "Demo time limit exceeded."
-msgstr ""
+msgstr "Demo-Zeitlimit überschritten."
 
 #: game/misc.msg:7
 msgid "Pip-Boy 2000 is not available in combat!"
@@ -104077,7 +104070,7 @@ msgstr ""
 
 #: game/misc.msg:18
 msgid "The motion sensor has no charges remaining."
-msgstr "Der Bewegungssensor hat keine Ladung mehr übrig."
+msgstr "Der Bewegungssensor hat keine Ladung mehr."
 
 #: game/misc.msg:100
 msgid "Error saving game config file!"
@@ -104204,7 +104197,7 @@ msgstr ""
 
 #: game/options.msg:106
 msgid "COMBAT MESSAGES"
-msgstr ""
+msgstr "KAMPFMELDUNGEN"
 
 #: game/options.msg:107
 msgid "COMBAT FLOATS"
@@ -109307,13 +109300,15 @@ msgstr ""
 
 #: game/pro_item.msg:10600
 msgid "Nuka-Cola"
-msgstr ""
+msgstr "Nuka-Cola"
 
 #: game/pro_item.msg:10601
 msgid ""
 "A bottle of Nuka-Cola, the flavored softdrink of the post-nuclear world. "
 "Warm and flat."
 msgstr ""
+"Flasche Nuka-Cola. Erfrischungsgetränk der postnuklearen Welt. Warm und "
+"abgestanden."
 
 #: game/pro_item.msg:10700 game/pro_item.msg:10800 game/pro_item.msg:21100
 #: game/pro_scen.msg:8200 game/pro_scen.msg:8300 game/pro_scen.msg:8400
@@ -109409,7 +109404,7 @@ msgstr ""
 
 #: game/pro_item.msg:11700
 msgid "Flower"
-msgstr ""
+msgstr "Blume"
 
 #: game/pro_item.msg:11701
 msgid "A beautiful flower."
@@ -110377,7 +110372,7 @@ msgstr ""
 #: game/scrname.msg:842 game/scrname.msg:893 game/scrname.msg:914
 #: game/scrname.msg:1010
 msgid "Computer"
-msgstr ""
+msgstr "Computer"
 
 #: game/pro_scen.msg:901 game/pro_scen.msg:1101 game/pro_scen.msg:1201
 msgid "A Vault computer terminal, hooked into the main Vault computer."
@@ -110436,6 +110431,7 @@ msgid ""
 "A set of three display monitors, showing various bits of data from around "
 "the Vault."
 msgstr ""
+"Eine Reihe von drei Bildschirmen, die diverse Daten aus der Vault anzeigen."
 
 #: game/pro_scen.msg:1800 game/pro_scen.msg:1900 game/pro_scen.msg:14200
 #: game/pro_scen.msg:14300 game/pro_scen.msg:15100 game/pro_scen.msg:15200
@@ -112646,6 +112642,8 @@ msgid ""
 "A large monitor, black and white only. The robed figure is reciting "
 "religious dogma at a feverish pace."
 msgstr ""
+"Ein großer Schwarz-Weiß-Fernseher. Die Gestalt in einer Robe betet mit "
+"fieberhafter Geschwindigkeit religiöse Dogmen herunter."
 
 #: game/pro_scen.msg:48900 game/pro_scen.msg:49000 game/pro_scen.msg:49100
 #: game/pro_scen.msg:49200 game/scrname.msg:460 game/scrname.msg:637
@@ -113400,7 +113398,7 @@ msgstr ""
 
 #: game/pro_scen.msg:79801
 msgid "This table is in very poor condition."
-msgstr ""
+msgstr "Der Tisch befindet sich in einem ausgesprochen schlechten Zustand."
 
 #: game/pro_scen.msg:79901
 msgid "There is no reason to search this table."
@@ -113482,7 +113480,7 @@ msgstr ""
 #: game/pro_scen.msg:82700 game/pro_scen.msg:82800 game/pro_scen.msg:90700
 #: game/pro_scen.msg:90800
 msgid "Light"
-msgstr ""
+msgstr "Leuchte"
 
 #: game/pro_scen.msg:82701 game/pro_scen.msg:82801
 msgid "A security light."
@@ -113592,6 +113590,7 @@ msgstr ""
 #: game/pro_scen.msg:87701
 msgid "This is the sign of the Water Merchants, a Hub trading company."
 msgstr ""
+"Das ist das Zeichen der Water Merchants, einer Handelsgesellschaft im Hub."
 
 #: game/pro_scen.msg:87800 game/pro_scen.msg:87900 game/pro_scen.msg:88000
 #: game/pro_scen.msg:88100 game/pro_scen.msg:88200 game/pro_scen.msg:88300
@@ -113966,7 +113965,7 @@ msgstr ""
 #: game/pro_wall.msg:17000 game/pro_wall.msg:17100 game/pro_wall.msg:17200
 #: game/pro_wall.msg:17300
 msgid "Steel Railing"
-msgstr ""
+msgstr "Schutzgeländer"
 
 #: game/pro_wall.msg:17400 game/pro_wall.msg:17500 game/pro_wall.msg:17600
 #: game/pro_wall.msg:17700 game/pro_wall.msg:17800 game/pro_wall.msg:17900
@@ -114171,7 +114170,7 @@ msgstr ""
 
 #: game/proto.msg:309
 msgid ".44 cal"
-msgstr ""
+msgstr "Kal.44"
 
 #: game/proto.msg:310
 msgid "14mm"
@@ -114388,7 +114387,7 @@ msgstr ""
 
 #: game/proto.msg:501
 msgid "Almost Dead"
-msgstr ""
+msgstr "so gut wie tot"
 
 #: game/proto.msg:502
 msgid "Severely Wounded"
@@ -114416,7 +114415,7 @@ msgstr ""
 
 #: game/proto.msg:518
 msgid "You look: %s "
-msgstr ""
+msgstr "Du bist: %s"
 
 #: game/proto.msg:519
 msgid "%s %s "
@@ -114432,15 +114431,15 @@ msgstr ""
 
 #: game/proto.msg:522
 msgid "He looks: %s "
-msgstr ""
+msgstr "Er ist: %s"
 
 #: game/proto.msg:523
 msgid "She looks: %s "
-msgstr ""
+msgstr "Sie ist: %s"
 
 #: game/proto.msg:524
 msgid "It looks: %s "
-msgstr ""
+msgstr "Es ist: %s"
 
 #: game/proto.msg:525
 msgid "%s has %d/%d hit points."
@@ -115504,7 +115503,7 @@ msgstr ""
 
 #: game/scrname.msg:532
 msgid "Command Center"
-msgstr ""
+msgstr "Kommandozentale"
 
 #: game/scrname.msg:534
 msgid "Krupper"
@@ -115577,7 +115576,7 @@ msgstr ""
 
 #: game/scrname.msg:589
 msgid "Cave"
-msgstr ""
+msgstr "Höhle"
 
 #: game/scrname.msg:590
 msgid "Strange Call Box"
@@ -116002,7 +116001,7 @@ msgstr ""
 
 #: game/scrname.msg:876
 msgid "Sturdy Door"
-msgstr ""
+msgstr "Robuste Tür"
 
 #: game/scrname.msg:879
 msgid "Far Go Traders Merchant"
@@ -116648,7 +116647,7 @@ msgstr ""
 
 #: game/skill.msg:106
 msgid "First Aid"
-msgstr ""
+msgstr "Erste Hilfe"
 
 #: game/skill.msg:108
 msgid "Sneak"
@@ -116656,7 +116655,7 @@ msgstr ""
 
 #: game/skill.msg:109
 msgid "Lockpick"
-msgstr ""
+msgstr "Dietriche"
 
 #: game/skill.msg:110
 msgid "Steal"
@@ -116684,7 +116683,7 @@ msgstr ""
 
 #: game/skill.msg:116
 msgid "Gambling"
-msgstr ""
+msgstr "Spielen"
 
 #: game/skill.msg:117
 msgid "Outdoorsman"
@@ -117119,7 +117118,7 @@ msgid ""
 msgstr ""
 "Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma "
 "ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. "
-"Beeinflusst: Reaktionen von inaktiven Figuren und Preise beim Handeln."
+"Beeinflusst: Reaktionen von Nicht-Spieler-Figuren und Preise beim Handeln."
 
 #: game/stat.msg:204
 msgid ""
@@ -117144,6 +117143,9 @@ msgid ""
 "somehow. Events and situations will be changed by how lucky (or unlucky) "
 "your character is."
 msgstr ""
+"Schicksal oder Karma. Ein extrem hoher oder niedriger Glückswert wirkt sich "
+"auf irgendeine Art auf die Figur aus. Ereignisse und Situationen ändern sich "
+"in Abhängigkeit davon, wie viel oder wenig Glück eine Figur hat."
 
 #: game/stat.msg:207
 msgid ""
@@ -117166,11 +117168,13 @@ msgstr ""
 
 #: game/stat.msg:210 game/stat.msg:211
 msgid "The amount of bonus damage your character does in hand-to-hand combat."
-msgstr ""
+msgstr "Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann."
 
 #: game/stat.msg:212
 msgid "The maximum amount of equipment your character can carry, in pounds."
 msgstr ""
+"Das Höchstgewicht der Ausrüstung, die deine Figur tragen kann, angegeben in "
+"Pfund."
 
 #: game/stat.msg:213
 msgid ""
@@ -117266,6 +117270,8 @@ msgid ""
 "The general competency of the player character. A measure of your experience"
 " and abilities."
 msgstr ""
+"Die allgemeine Kompetenz einer Spielerfigur. Ein Maß für deine Erfahrung und "
+"Fähigkeiten."
 
 #: game/stat.msg:502
 msgid ""
@@ -117279,7 +117285,7 @@ msgid ""
 "reactions."
 msgstr ""
 "Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die "
-"Reaktionen von inaktiven Figuren."
+"Reaktionen von Nicht-Spieler-Figuren."
 
 #: game/stat.msg:504
 msgid ""
@@ -117297,7 +117303,7 @@ msgstr ""
 
 #: game/worldmap.msg:311
 msgid "Interior"
-msgstr ""
+msgstr "Inneres"
 
 #: game/worldmap.msg:500
 msgid "You have stopped the Super Mutant threat."

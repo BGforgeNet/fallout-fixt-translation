@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un ciudadano de Arenas Sombrías.}
-{101}{}{Bienvenido a Arenas Sombrías, forastero.}
+{101}{}{¡Bienvenido a Arenas Sombrías, forastero!.}
 {102}{}{Eh, gracias.}
 {103}{}{¿Qué ocurre en este lugar?}
 {104}{}{¡Unnh!}

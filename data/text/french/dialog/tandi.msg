@@ -149,7 +149,7 @@
 {1005}{}{Radscorpions}
 {1006}{}{Griffemort|Griffes|Griffe|Griffemorts}
 {1007}{}{Dépôtville}
-{1008}{}{Centre}
+{1008}{}{Le Centre}
 {1009}{}{City}
 {1010}{}{Razlo|Medic|Doc|Docteur|Médecin|Medecin|Aide|Guérison|Guerison|Blessure|Blessé|Blesse|Fracture}
 {1011}{}{Khans}

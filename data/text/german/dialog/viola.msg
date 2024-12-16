@@ -23,7 +23,7 @@
 {122}{}{This place is boring! Where's the blood? Where's the death?}
 {123}{}{Greetings Initiate. How may I be of service to you?}
 {124}{}{I was a little nervous about our long range plans.}
-{125}{}{Was ist hier los?}
+{125}{}{Was geht hier vor?}
 {126}{}{Where's the Master?}
 {127}{}{Who's in charge here?}
 {128}{}{Gimme a break sister. Nobody serves another person unless a gun's against their head!}

@@ -18,7 +18,7 @@
 {117}{}{J'ai entendu dire que tu avais sauvé Tandi. C'était la bonne chose à faire. Ton karma est puissant, j'ai beaucoup d'espoir en toi pour l'avenir.}
 {118}{}{Je suis vraiment triste pour Tandi. C'était une jeune femme si charmante. Elle aurait fait le bien dans sa vie.}
 {119}{}{Bonjour. Tu dois être l'étranger dont tout le monde parle. [Agatha soupire.] Comment puis-je t'aider ?}
-{120}{}{Hgnné ?}
+{120}{}{Hgnné.}
 {121}{}{Qui es-tu ?}
 {122}{}{Tu sembles si fatiguée. Quelque chose ne va pas ?}
 {123}{}{Pourquoi tu sembles si fatiguée ?}

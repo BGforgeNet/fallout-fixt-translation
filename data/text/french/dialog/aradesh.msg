@@ -201,7 +201,7 @@
 {1018}{}{Radscorpion}
 {1019}{}{Sables}
 {1020}{}{Ombragés}
-{1021}{}{Centre}
+{1021}{}{Le Centre}
 {1100}{Ara_49}{C'est moi. Je gouverne cette humble ville des Sables Ombragés.}
 {1101}{Ara_49A}{Dharma était un grand homme, très pieux. Prête une oreille attentive à ses paroles.}
 {1102}{Ara_50}{C'est ma fille. Celle qui rend plus douce cette pénible vie.}

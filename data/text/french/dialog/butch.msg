@@ -273,17 +273,17 @@
 {1015}{}{Caravanes}
 {1016}{}{Marché}
 {1017}{}{Griffemort|Griffes|Griffe|Griffemorts}
-{1018}{}{Rayon}
+{1018}{}{Le Rayon}
 {1019}{}{Ville}
 {1020}{}{Hauteurs}
 {1021}{}{Dépôtville}
 {1022}{}{Killian}
-{1023}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1023}{}{Confrerie}
 {1024}{}{Elder}
 {1025}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1026}{}{Adytum}
 {1027}{}{Jon}
-{1028}{}{Cathedral}
+{1028}{}{Cathedrale}
 {1029}{}{Morpheus}
 {1030}{}{Jain}
 {1031}{}{Maître}
@@ -294,7 +294,7 @@
 {1036}{}{Harris}
 {1037}{}{Maltais}
 {1038}{}{Nightclub}
-{1039}{}{Merchant}
+{1039}{}{Marchand}
 {1040}{}{Hightower}
 {1041}{}{Greene}
 {1042}{}{Ecarlate}
@@ -305,7 +305,7 @@
 {1047}{}{Darkwater}
 {1048}{}{Acier}
 {1049}{}{Les Eventreurs|Eventreurs|Eventreur}
-{1050}{}{Cimetière de L.A.}
+{1050}{}{Cimetierre}
 {1051}{}{Zimmerman}
 {1052}{}{Weapons}
 {1053}{}{Magasin}

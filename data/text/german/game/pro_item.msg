@@ -209,7 +209,7 @@
 {10500}{}{Key}
 {10501}{}{A special key of some sort.}
 {10600}{}{Nuka-Cola}
-{10601}{}{A bottle of Nuka-Cola, the flavored softdrink of the post-nuclear world. Warm and flat.}
+{10601}{}{Flasche Nuka-Cola. Erfrischungsgetränk der postnuklearen Welt. Warm und abgestanden.}
 {10700}{}{Bones}
 {10701}{}{A collection of strange bones.}
 {10800}{}{Bones}
@@ -230,7 +230,7 @@
 {11501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback.                  - Min STR: 5.                - Weapon Knockback feature: knocks target away by 1 hex for every 5 points of damage.}
 {11600}{}{Ripper}
 {11601}{}{A Ripper(tm) vibro- knife. Powered by a small energy cell, the chainblade rips and tears into its target.   - Min STR: 4.               - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
-{11700}{}{Flower}
+{11700}{}{Blume}
 {11701}{}{A beautiful flower.}
 {11800}{}{Laser Rifle}
 {11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range.                       - Min STR: 6.}

@@ -12,7 +12,7 @@
 {111}{}{I thought this city was run by Gizmo after hours.}
 {112}{}{Get out of here, you moron!}
 {113}{}{That slob can't even stand up by himself. We're the muscle in this town. We take what we want.}
-{114}{}{Ich verstehe.}
+{114}{}{Verstehe.}
 {115}{}{You have some sort of deal with Killian?}
 {116}{}{What?! You'll pay for that remark!}
 {117}{}{We don't bother Killian and he doesn't bother us as long as we keep it low-key. You get me?}

@@ -961,17 +961,17 @@
 {49200}{}{un campo de fuerza}
 {49201}{}{Un potente campo de energía que crepita amenazadoramente. Te das cuenta de que el campo está dañado lo suficiente como para caminar a través de él.}
 {49300}{}{una mesa}
-{49301}{}{Una mesa de madera normal y corriente.}
+{49301}{}{Una mesa de madera común.}
 {49400}{}{una mesa}
-{49401}{}{Una mesa de madera normal y corriente.}
+{49401}{}{Una mesa de madera común.}
 {49500}{}{una mesa}
-{49501}{}{Una mesa de madera normal y corriente.}
+{49501}{}{Una mesa de madera común.}
 {49600}{}{una mesa}
-{49601}{}{Una mesa de madera normal y corriente.}
+{49601}{}{Una mesa de madera común.}
 {49700}{}{una mesa}
-{49701}{}{Una mesa de madera normal y corriente.}
+{49701}{}{Una mesa de madera común.}
 {49800}{}{una mesa}
-{49801}{}{Una mesa de madera normal y corriente.}
+{49801}{}{Una mesa de madera común.}
 {49900}{}{Estante}
 {50000}{}{Estante}
 {50100}{}{Estante}
@@ -1163,11 +1163,11 @@
 {60000}{}{una señal}
 {60001}{}{En esta señal pone: Mercado}
 {60100}{}{una piscina de lodo}
-{60101}{}{Parece muy poco saludable. Deberías ponerte un traje de baño blindado antes de sumergirte en ella.}
+{60101}{}{Parece muy insalubre. Deberías ponerte un traje de baño blindado antes de tomar un baño.}
 {60200}{}{una piscina de lodo}
-{60201}{}{Parece muy poco saludable. Deberías ponerte un traje de baño blindado antes de sumergirte en ella.}
+{60201}{}{Parece muy insalubre. Deberías ponerte un traje de baño blindado antes de tomar un baño.}
 {60300}{}{una piscina de lodo}
-{60301}{}{Parece muy poco saludable. Deberías ponerte un traje de baño blindado antes de sumergirte en ella.}
+{60301}{}{Parece muy insalubre. Deberías ponerte un traje de baño blindado antes de tomar un baño.}
 {60400}{}{una mesa}
 {60401}{}{Una mesa de metal muy bonita.}
 {60500}{}{una mesa}
@@ -1688,7 +1688,7 @@
 {87600}{}{una señal}
 {87601}{}{En esta señal pone: Mercado de coches usados de Bob.}
 {87700}{}{una señal}
-{87701}{}{Esta es la señal de los Mercaderes de Agua, una compañía de comercio del Eje.}
+{87701}{}{Este es el cartel de los Mercaderes de Agua, una compañía de comercio del Eje.}
 {87800}{}{una cáscara de huevo}
 {87801}{}{Partes de un huevo roto de Garra Mortal.}
 {87900}{}{una cáscara de huevo}

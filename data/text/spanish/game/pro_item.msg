@@ -112,7 +112,7 @@
 {5601}{}{Un grupo de placas de identificación militar de soldado. Se puede leer el nombre de Darkwater, pero no mucho más.}
 {5700}{}{Micrófono}
 {5701}{}{Un micrófono en miniatura y un dispositivo de transmisión.}
-{5800}{}{Holodisk}
+{5800}{}{Holodisco}
 {5801}{}{Es un holodisco de Wattz Electronics, diseñado para reproductores THT. También llamado "holocinta" o solo "cinta", los holodiscos son dispositivos de almacenamiento de lectura mediante láser basados en la tecnología holográfica. Aptos para almacenar información durante largos periodos de tiempo, normalmente su capacidad está entre los 64 y 256 kilobytes.}
 {5900}{}{Sensor de Movimiento}
 {5901}{}{Un sensor de movimiento de Wattz Electronics modelo I-C-U. Detecta el movimiento del material biológico en una distancia en metros utilizando un dispositivo de radar.}
@@ -359,7 +359,7 @@
 {18000}{}{un cajón}
 {18001}{}{Un cajón de madera lleno de cosas normales.}
 {18100}{}{una mesa}
-{18101}{}{Una mesa normal. Cuando has visto una mesa, las has visto todas.}
+{18101}{}{Un escritorio genérico. Cuando has visto uno, has visto todos.}
 {18200}{}{una mesa}
 {18201}{}{Una mesa normal.}
 {18300}{}{una mesa}

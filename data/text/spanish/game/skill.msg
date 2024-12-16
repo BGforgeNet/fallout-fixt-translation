@@ -14,7 +14,7 @@
 {113}{}{Reparar}
 {114}{}{Conversación}
 {115}{}{Trueque}
-{116}{}{Jugar}
+{116}{}{Apostar}
 {117}{}{Supervivencia}
 {200}{}{Uso, mantenimiento y conocimiento general de pequeñas armas de fuego. Pistolas, Subfusiles y rifles.}
 {201}{}{Manejo y mantenimiento de armas realmente grandes. Metralletas, lanzacohetes, lanzallamas, etc.}

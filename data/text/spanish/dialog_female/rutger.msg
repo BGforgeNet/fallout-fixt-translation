@@ -167,7 +167,7 @@
 {267}{}{La verdad es que las cosas no van tan bien. Esos mutantes todavía les causan problemas a nuestras caravanas. Tuvimos que suspender todas las salidas de las caravanas. Pero gracias por preguntar.}
 {268}{}{Claro, podríamos usarte en una de nuestras caravanas. ¿Harías el trabajo de guardia? El sueldo es fijo, 400 chapas del Eje. ¿Te interesa?}
 {269}{}{Claro.}
-{270}{}{No.}
+{270}{}{Nop.}
 {271}{}{¿Qué? ¿Qué hay de las caravanas desaparecidas?}
 {272}{}{¿Qué mejor manera de encontrar a los ladrones que unirse a una caravana?}
 {273}{}{Echaré un ojo, pero necesito algunas chapas.}

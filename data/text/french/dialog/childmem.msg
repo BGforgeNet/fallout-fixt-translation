@@ -41,10 +41,10 @@
 {141}{}{Merci. Bonne journée.}
 {142}{}{Nous n'avons pas le temps de discuter. Nous partons. Cet endroit est dangereux pour nous.}
 {143}{}{Pourquoi fais-tu cela ? Nous ne te ferons aucun mal !}
-{1000}{}{Cathedral}
+{1000}{}{Cathedrale}
 {1001}{}{Mutants}
 {1002}{}{Maître}
-{1003}{}{Cimetière de L.A.}
+{1003}{}{Cimetierre}
 {1004}{}{Followers}
 {1005}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1006}{}{Apocalypse}

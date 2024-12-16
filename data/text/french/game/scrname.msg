@@ -242,7 +242,7 @@
 {342}{}{Dog}
 {343}{}{Duc}
 {344}{}{City}
-{345}{}{Coast}
+{345}{}{Cote}
 {346}{}{Mountain}
 {347}{}{Hernandez}
 {348}{}{Caves}
@@ -749,9 +749,9 @@
 {849}{}{Raider}
 {850}{}{Raider}
 {851}{}{Raider}
-{852}{}{Merchant}
-{853}{}{Merchant}
-{854}{}{Merchant}
+{852}{}{Marchand}
+{853}{}{Marchand}
+{854}{}{Marchand}
 {855}{}{Guard}
 {856}{}{Guard}
 {857}{}{Guard}
@@ -830,7 +830,7 @@
 {930}{}{Water Merchant Guard}
 {931}{}{Sentry Robot}
 {932}{}{Secure Door}
-{933}{}{Merchant}
+{933}{}{Marchand}
 {934}{}{Crimson Caravan Guard}
 {935}{}{Boxing Guard}
 {936}{}{Locker}

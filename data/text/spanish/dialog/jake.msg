@@ -1,4 +1,4 @@
-{100}{}{You see: Jake of the Followers.}
+{100}{}{Estás viendo a Jake, de los Seguidores.}
 {101}{}{Estás viendo a un Seguidor del Apocalipsis.}
 {102}{}{¡Bienvenido! ¿En qué puedo ayudarte en el día de hoy?}
 {103}{}{¡Yo ayuda! ¡Yo ayuda!}

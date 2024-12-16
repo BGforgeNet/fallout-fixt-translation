@@ -86,7 +86,7 @@
 {1003}{}{Guerre}
 {1004}{}{Désert}
 {1005}{}{Followers}
-{1006}{}{Cathedral}
+{1006}{}{Cathedrale}
 {1007}{}{Garl}
 {1008}{}{Maître}
 {1009}{}{Unité}
@@ -103,10 +103,10 @@
 {1020}{}{Abris}
 {1021}{}{Killian}
 {1022}{}{Gizmo}
-{1023}{}{Cimetière de L.A.}
+{1023}{}{Cimetierre}
 {1024}{}{Sables}
 {1025}{}{Ombragés}
-{1026}{}{Centre}
+{1026}{}{Le Centre}
 {1027}{}{Casino}
 {1028}{}{Magasin}
 {1029}{}{Deathclaw}
@@ -115,9 +115,9 @@
 {1032}{}{Paladins}
 {1033}{}{Scribes}
 {1034}{}{Enfants}
-{1036}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1036}{}{Confrerie}
 {1037}{}{Vats}
-{1038}{}{Base}
+{1038}{}{Base Militaire}
 {1039}{}{Militaire}
 {1041}{}{Apocalypse}
 {1042}{}{Mutants}

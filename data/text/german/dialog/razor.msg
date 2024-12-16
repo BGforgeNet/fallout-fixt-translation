@@ -110,7 +110,7 @@
 {209}{}{You know what? I'm going to kill you.}
 {210}{}{Uhh... Whuh?}
 {211}{}{Go ahead. It's your funeral. Without those guns we have nothing to back us up.}
-{212}{}{Go away!}
+{212}{}{Hau ab!}
 {213}{}{You're not welcome here.}
 {214}{}{Get lost.}
 {215}{}{Danke.}

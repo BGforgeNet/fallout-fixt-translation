@@ -147,7 +147,7 @@
 {246}{}{Estoy impresionado. Un tipo como tú debe conocer la verdadera historia sobre lo que está pasando por aquí...}
 {247}{}{Apocalipsis, ¿eh? ¿Se supone que son tipos duros?}
 {248}{}{¿Tres? ¿Eso es todo? ¡Deberías conocer mi currículum!}
-{249}{}{No.}
+{249}{}{Nop.}
 {250}{}{Apuesto a que los tuyos no gritaron tanto como los míos. Me gusta oír cómo gritan.}
 {251}{}{¡Ey! ¡Un tipo con un arma sigue siendo un tipo con un arma! ¿Crees que puedes hacerlo mejor?}
 {252}{}{No, amigo mío. Soy un devoto de la paz, el amor y la unidad.}

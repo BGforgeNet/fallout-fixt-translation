@@ -125,7 +125,7 @@
 {224}{}{¿Tienes alguna novedad que contarme?}
 {225}{}{Necesito información sobre la Garra Mortal. Me han dicho que tú eres mi hombre.}
 {226}{}{¿Cuál es tu historia?}
-{227}{}{No.}
+{227}{}{Nop.}
 {228}{hrold43a}{¿Toda entera? Bueno...}
 {229}{HROLD44}{Oooh, vaya, gracias. Espero que no haya sido un esfuerzo demasiado grande. *tose*}
 {230}{HROLD45}{Oooh, sobre eso. Es una pesadilla. ¿Por qué diablos preguntas por ella?}

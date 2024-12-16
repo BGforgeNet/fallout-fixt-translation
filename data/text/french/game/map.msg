@@ -82,11 +82,11 @@
 {114}{}{Confrérie de l'Acier}
 {115}{}{Confrérie de l'Acier}
 {116}{}{Sables Ombragés}
-{117}{}{Cathedral}
-{118}{}{Cathedral}
+{117}{}{Cathedrale}
+{118}{}{Cathedrale}
 {119}{}{City}
-{120}{}{Coast}
-{121}{}{Coast}
+{120}{}{Cote}
+{121}{}{Cote}
 {122}{}{Desert}
 {123}{}{Desert}
 {124}{}{The Khans}
@@ -114,8 +114,8 @@
 {146}{}{L.A. Boneyard}
 {147}{}{Ruins}
 {148}{}{Military Base}
-{149}{}{Mountains}
-{150}{}{Mountains}
+{149}{}{Montagnes}
+{150}{}{Montagnes}
 {151}{}{Desert}
 {152}{}{Desert}
 {153}{}{Desert}
@@ -123,13 +123,13 @@
 {155}{}{Confrérie de l'Acier}
 {156}{}{Desert}
 {157}{}{Desert}
-{158}{}{Mountains}
-{159}{}{Mountains}
-{160}{}{Viper Camp}
+{158}{}{Montagnes}
+{159}{}{Montagnes}
+{160}{}{Camp des Vipers}
 {161}{}{Desert}
-{162}{}{Mountains}
+{162}{}{Montagnes}
 {163}{}{Desert}
-{164}{}{Mountains}
+{164}{}{Montagnes}
 {165}{}{The Hub}
 {166}{}{The Hub}
 {200}{}{Wasteland}
@@ -171,9 +171,9 @@
 {236}{}{General Store, Hotel}
 {237}{}{General Store, Hotel}
 {238}{}{General Store, Hotel}
-{239}{}{Entrance}
-{240}{}{Entrance}
-{241}{}{Entrance}
+{239}{}{Entree}
+{240}{}{Entree}
+{241}{}{Entree}
 {242}{}{Level 1}
 {243}{}{Level 2}
 {244}{}{Level 2}
@@ -183,7 +183,7 @@
 {248}{}{Radscorpion Cave}
 {249}{}{Radscorpion Cave}
 {250}{}{Radscorpion Cave}
-{251}{}{Entrance}
+{251}{}{Entree}
 {252}{}{Tower Level 1}
 {253}{}{}
 {254}{}{Tower Level 2}
@@ -213,18 +213,18 @@
 {278}{}{Entrance, Town Hall}
 {279}{}{Entrance, Town Hall}
 {280}{}{Entrance, Town Hall}
-{281}{}{Entrance}
-{282}{}{Entrance}
-{283}{}{Entrance}
+{281}{}{Entree}
+{282}{}{Entree}
+{283}{}{Entree}
 {284}{}{Adytum}
 {285}{}{Underground}
 {286}{}{}
 {287}{}{Library}
 {288}{}{Underground}
 {289}{}{}
-{290}{}{Entrance}
-{291}{}{Entrance}
-{292}{}{Entrance}
+{290}{}{Entree}
+{291}{}{Entree}
+{292}{}{Entree}
 {293}{}{Stronghold Level 1}
 {294}{}{Stronghold Level 2}
 {295}{}{}
@@ -264,9 +264,9 @@
 {329}{}{Level 4}
 {330}{}{Level 5}
 {331}{}{Level 6}
-{332}{}{Downtown}
-{333}{}{Downtown}
-{334}{}{Downtown}
+{332}{}{Centre-ville}
+{333}{}{Centre-ville}
+{334}{}{Centre-ville}
 {335}{}{Warehouse}
 {336}{}{Underground}
 {337}{}{}

@@ -50,7 +50,7 @@
 {149}{}{Lass mich einfach in Ruhe.}
 {150}{}{I think you should leave me and my family alone, }
 {151}{}{. It would be for the best.}
-{152}{}{You should be ashamed of yourself.}
+{152}{}{Du solltest dich was schämen.}
 {153}{}{And to think that I used to like you.}
 {154}{}{The vault-dweller refuses to talk to you.}
 {155}{}{An empty stare meets your request to talk.}

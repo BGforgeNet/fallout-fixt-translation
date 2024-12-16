@@ -33,11 +33,11 @@
 {132}{}{Well, the Children of the Cathedral all live in this big, black, church-type building. They have some sort of big god, an' they go around tryin' to convert people to their cult.}
 {133}{}{You'll find him in the big building to the southwest. He might be able to put enough sentences together to let you know that we're looking for some help with the Blades.}
 {134}{}{What's going on with the Blades?}
-{135}{}{Can I ask you something else?}
+{135}{}{Kann ich dich noch etwas anderes fragen?}
 {136}{}{Thanks for the info. Goodbye.}
 {137}{}{Sure. What else do you want to know?}
 {138}{}{They've done something to Zimmerman's half-witted son. But like I said, go talk to Zimmerman about it.}
-{139}{}{Can I ask you something else?}
+{139}{}{Kann ich dich noch etwas anderes fragen?}
 {140}{}{Alright, I get the picture. I'll go talk to Zimmerman.}
 {141}{}{So, Zimmerman gave you the scoop on the Blades. Whatever. I'm sure he'll want to know when you've done the job.}
 {142}{}{Where are the Blades?}

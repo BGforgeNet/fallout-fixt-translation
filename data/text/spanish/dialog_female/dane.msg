@@ -58,7 +58,7 @@
 {157}{}{¿Qué es la maldad? ¡La maldad es cuando el bien se vuelve completamente loco! ¡La maldad es cuando la gente valiente ya no puede serlo! La maldad es horrible, ¡tiene que quedar moralidad en algún sitio!}
 {158}{}{¡Calla necia! ¡Moralidad! ¡Tan seguro como que esto no es el infierno!}
 {159}{}{¿Sabes?, solía pensar que la religión era una vocación noble y quizás lo sea; pero no puedes meterte a ciegas o ellos te lavarán el cerebro.}
-{160}{}{... los zombis son una vergüenza para Dios, ¿sabes?}
+{160}{}{...los zombis son una vergüenza para Dios, ¿sabes?.}
 {161}{}{Pero, ¿por qué Dios creó a la gente tan débil?}
 {162}{}{Creo que ya puedo contestar algunas preguntas. Siento haber tardado tanto.}
 {163}{}{¿Para qué se utiliza este lugar?}
@@ -104,7 +104,7 @@
 {203}{}{¿Quién es el Maestro?}
 {204}{}{¿Quieres morir? Puedo sacarte de la miseria.}
 {205}{}{¡Pareces estúpido!}
-{206}{}{También solía hacerle mucho daño a la gente. ¡Era una bestia! Demonios, ¡era como un dios! ¡Un hijo de perra muy duro! ¡Pero no lo era suficiente! ¡Era una máquina de matar! Pero ahora soy... soy... ayúdame...}
+{206}{}{También solía hacerle mucho daño a la gente. ¡Era una bestia!. Demonios, ¡era como un dios!, ¡un hijo de perra muy duro!, ¡pero no lo era suficiente!, ¡era una máquina de matar!, Pero ahora soy... soy... ayúdame...}
 {207}{}{Sabes, los Nocturnos dicen que es más feo que ellos. Eso quiere decir que debe ser un repugnante hijo de perra.}
 {208}{}{¡Él es el Hombre! ¡El Hombre que tiene el Plan! ¡Él hace los planes porque nos ama! Y si el mundo se cruza en su camino, ¡se lo carga! ¡Porque eso es el amor!}
 {209}{}{¿Para qué se utiliza este lugar?}

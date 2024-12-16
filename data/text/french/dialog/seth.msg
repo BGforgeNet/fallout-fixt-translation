@@ -67,7 +67,7 @@
 {1001}{}{Garl}
 {1002}{}{Dépôtville}
 {1003}{}{Sables}
-{1004}{}{Centre}
+{1004}{}{Le Centre}
 {1005}{}{Eau}
 {1006}{}{Tandi}
 {1007}{}{Aradesh}

@@ -10,8 +10,8 @@
 {109}{}{¡Piedra!}
 {110}{}{¿Estás listo? Nos vamos hoy.}
 {111}{}{¡Sí!}
-{112}{}{No.}
-{113}{}{¡Hurra!}
+{112}{}{Nop.}
+{113}{}{¿Hurra?}
 {114}{}{Lo siento, no tratamos con nadie más. Prueba suerte con otra caravana, puede que cuenten contigo.}
 {115}{}{Lo siento, no contratamos a nadie.}
 {116}{}{Demuestras muchas agallas al presentarte aquí de nuevo. Pienso que deberías irte.}
@@ -79,7 +79,7 @@
 {178}{}{Bueno, vale, una última oportunidad. Nuestra próxima caravana sale }
 {179}{}{hoy}
 {180}{}{mañana}
-{181}{}{el día }
+{181}{}{el día}
 {182}{}{día 8}
 {183}{}{día 18}
 {184}{}{día 28}
@@ -140,7 +140,7 @@
 {239}{}{ días.}
 {240}{}{Supongo que quieres un trabajo. Podría darte uno. ¿Te interesa?}
 {241}{}{Claro.}
-{242}{}{No.}
+{242}{}{Nop.}
 {243}{}{Sabes dónde te puedes colocar la caravana.}
 {244}{}{No lo sé. Tendré que volver a preguntártelo.}
 {245}{}{Uhg.}

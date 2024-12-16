@@ -154,7 +154,7 @@
 {1015}{}{Griffemort|Griffes|Griffe|Griffemorts}
 {1016}{}{Ville}
 {1017}{}{Hauteurs}
-{1018}{}{Cathedral}
+{1018}{}{Cathedrale}
 {1019}{}{Morpheus}
 {1020}{}{Jain}
 {1021}{}{Maître}

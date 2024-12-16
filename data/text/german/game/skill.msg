@@ -4,17 +4,17 @@
 {103}{}{Unarmed}
 {104}{}{Melee Weapons}
 {105}{}{Throwing}
-{106}{}{First Aid}
+{106}{}{Erste Hilfe}
 {107}{}{Doctor}
 {108}{}{Sneak}
-{109}{}{Lockpick}
+{109}{}{Dietriche}
 {110}{}{Steal}
 {111}{}{Traps}
 {112}{}{Science}
 {113}{}{Repair}
 {114}{}{Speech}
 {115}{}{Barter}
-{116}{}{Gambling}
+{116}{}{Spielen}
 {117}{}{Outdoorsman}
 {200}{}{The use, care and general knowledge of small firearms. Pistols, SMGs and rifles.}
 {201}{}{The operation and maintenance of really big guns. Miniguns, Rocket Launchers, Flamethrowers and such.}

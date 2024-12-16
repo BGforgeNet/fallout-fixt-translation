@@ -105,8 +105,8 @@
 {1000}{}{Set}
 {1001}{}{Master}
 {1002}{}{Water}
-{1003}{}{Watershed}
-{1004}{}{Hall}
+{1003}{}{Wasserstelle}
+{1004}{}{Halle}
 {1005}{}{Necropolis}
 {1006}{}{Chip}
 {1100}{}{He tries to control Necropolis, and has forced us under ground.}

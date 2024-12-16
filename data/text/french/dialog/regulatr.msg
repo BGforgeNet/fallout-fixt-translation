@@ -40,19 +40,19 @@
 {139}{}{Je suppose que cela signifie qu'on en a fini avec toi.}
 {1000}{}{Adytum}
 {1001}{}{Followers}
-{1002}{}{Cathedral}
+{1002}{}{Cathedrale}
 {1004}{}{Ecorcheurs}
 {1005}{}{Contrebandiers}
-{1006}{}{Centre}
+{1006}{}{Le Centre}
 {1007}{}{Dépôtville}
 {1008}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1009}{}{Magasin}
 {1010}{}{Zimmerman}
 {1011}{}{Nécropolis}
-{1012}{}{Rayon}
+{1012}{}{Le Rayon}
 {1013}{}{Régulateurs}
 {1014}{}{Fouineurs}
-{1015}{}{Cimetière de L.A.}
+{1015}{}{Cimetierre}
 {1100}{}{C'est ici.}
 {1101}{}{Ils vivent à l'Est d'ici.}
 {1102}{}{C'est au Sud d'ici.}

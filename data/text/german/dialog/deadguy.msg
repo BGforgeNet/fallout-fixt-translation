@@ -21,4 +21,4 @@
 {126}{}{Just get out of here!}
 {127}{}{You're a liar!}
 {128}{}{Yes, sir!}
-{129}{}{Ja, gnädige Frau!}
+{129}{}{Ja, Tante!}

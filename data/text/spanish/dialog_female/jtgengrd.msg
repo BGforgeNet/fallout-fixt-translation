@@ -21,7 +21,7 @@
 {120}{}{¡Trágate tus leyes!}
 {121}{}{Bueno, uh, yo estoy de acuerdo. Pero será mejor que tengas cuidado.}
 {122}{}{Está bien que hayas preguntado. No se pueden desenfundar las armas si no es en defensa propia. Si empiezas una pelea, será culpa tuya. Otra cosa distinta es que vayas por ahí armada. No saques ni un cuchillo ni una pistola sin un motivo real. Que tengas un buen día.}
-{123}{}{Hey you, no weapons! And I don't care if your mama dropped you on your head as a kid. No weapons.}
+{123}{}{Eh tú, ¡nada de armas! Y no me importa si tu mamá te dejó caer de cabeza cuando eras niño. Nada de armas.}
 {124}{}{¡Eh! ¡Tú! ¿Qué haces curioseando?}
 {125}{}{Nada.}
 {126}{}{No estoy curioseando. Solo me gusta caminar con precaución.}

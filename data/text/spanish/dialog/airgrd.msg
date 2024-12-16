@@ -9,7 +9,7 @@
 {108}{}{Solo pasaba por aquí. Aquí no se necesitan identificaciones.}
 {109}{}{¡Muere! ¡Muere! ¡Muere! Siempre he querido decir eso.}
 {110}{}{No te dirigirás a mí de ese modo. Te castigaré.}
-{111}{}{¡Para! ¿Qué haces aquí, "niño"?}
+{111}{}{¡Para!, ¿qué haces aquí, "niño"?}
 {112}{}{¡Unm!}
 {113}{}{Estoy, uh, arreglando algunas cosillas.}
 {114}{}{Tengo un asunto importante entre manos. Y tú no tienes derecho a pararme e interrogarme.}

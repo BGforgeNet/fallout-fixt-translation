@@ -165,7 +165,7 @@
 {1014}{}{Mutants}
 {1015}{}{Holy Flame}
 {1016}{}{Children}
-{1017}{}{Base}
+{1017}{}{Basis}
 {1018}{}{Chip}
 {1100}{MORP50}{The Nightkin came to us a while ago. They might be hideous mutants but they are extremely loyal to the Children. As we all are.}
 {1101}{MORP51}{It is he who brought me the vision of the Unity and it is he who will bring peace to this troubled land.}

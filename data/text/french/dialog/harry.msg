@@ -106,7 +106,7 @@
 {1005}{}{Normaux|Humains|humain|normal}
 {1006}{}{Nécropolis}
 {1007}{}{Unité}
-{1008}{}{Cathedral}
+{1008}{}{Cathedrale}
 {1009}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1010}{}{Hall}
 {1011}{}{Eau}

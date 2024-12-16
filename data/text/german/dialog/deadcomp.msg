@@ -6,7 +6,7 @@
 {105}{}{Macro$oft (tm) Wyndoze 99 (c) booting up...   Done.
             U:\ > }
 {106}{}{DIR}
-{107}{}{EXIT}
+{107}{}{BEENDEN}
 {108}{}{FALLOUT    <DIR>          10-20-99   1:04p
                           0 bytes in 0 files, 0 bytes allocated, 4,379,255 bytes free}
 {109}{}{CD FALLOUT}

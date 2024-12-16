@@ -3,7 +3,7 @@
 {102}{}{I would like to make a deal with you.}
 {103}{}{What are you selling here?}
 {104}{}{What can you tell me about a Water Chip?}
-{105}{}{Tell me about yourself.}
+{105}{}{Erzähl mir von dir.}
 {106}{}{Macht nichts. Tschüss.}
 {107}{}{wahnt.}
 {108}{}{nO wahnt.}
@@ -15,7 +15,7 @@
 {114}{}{Man, you do like the rare stuff! Where were you when I was selling some depleted uranium rounds a few years back? I don't do chips, though. Ain't a market in it. Anything else?}
 {115}{}{Show me what ya' got.}
 {116}{}{Then tell me what you DO have.}
-{117}{}{Tell me about yourself.}
+{117}{}{Erzähl mir von dir.}
 {118}{}{Well, I've been around. Used to be with the Union of Atomic Workers. Sort of like the Brotherhood, but less friendly. They wanted to keep to themselves, and I... well, I wanted to see the world and be my own boss, so I left.}
 {119}{}{Let's see what you have.}
 {120}{}{Tell me what you've got.}

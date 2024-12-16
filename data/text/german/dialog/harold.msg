@@ -177,7 +177,7 @@
 {1002}{}{Ghouls}
 {1003}{}{Loxley}
 {1004}{}{Cathedral}
-{1005}{}{Vault}
+{1005}{}{(die) Vault}
 {1006}{}{War}
 {1007}{}{Decker}
 {1008}{}{Grey}

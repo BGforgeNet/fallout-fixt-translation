@@ -40,7 +40,7 @@
 {139}{Ara_12}{Hmmm, yes, yes, yes. Then tell me of this Vault.}
 {140}{}{Well... the Vault is actually the name of my town. We name it that because it's in between two big cliffs.}
 {141}{}{It's a big place built into a mountain far to the west. My people have been there for the last 80 years.}
-{142}{}{Why do you want to know?}
+{142}{}{Warum willst du das wissen?}
 {143}{Ara_13}{Wanderer, I shall believe you... for now. You may enter Shady Sands, but be warned your every move will be watched.}
 {144}{Ara_14}{I will not be lied to, wanderer.}
 {145}{}{I don't have to tell you anything.}
@@ -48,7 +48,7 @@
 {147}{}{Don't worry, I'm leaving.}
 {148}{Ara_15}{Hmmm. You may enter. But stay out of trouble.}
 {149}{}{What can you tell me about the other towns around here?}
-{150}{}{Was ist hier los?}
+{150}{}{Was geht hier vor?}
 {151}{}{Danke. Tschüss.}
 {152}{Ara_17}{Greetings again, young wanderer. I hope your stay here has been pleasant.}
 {153}{}{It's been great. Can I ask you some questions?}
@@ -64,7 +64,7 @@
 {163}{Ara_19}{Certainly. What do you wish to know?}
 {164}{Ara_19b}{You may ask, but please hurry. There are more important uses for my time.}
 {165}{}{What can you tell me about the other towns around here?}
-{166}{}{Was ist hier los?}
+{166}{}{Was geht hier vor?}
 {167}{}{Danke. Tschüss.}
 {168}{Ara_20g}{Ah. Happy journeys, wanderer.}
 {169}{Ara_20n}{Goodbye.}
@@ -92,10 +92,10 @@
 {191}{}{Good. Hopefully it will stay that way for a while.}
 {192}{Ara_27}{Yes. We like it that way.}
 {193}{}{What can you tell me about the other towns around here?}
-{194}{}{Was ist hier los?}
+{194}{}{Was geht hier vor?}
 {195}{}{Danke. Tschüss.}
 {196}{Ara_28}{Oh my yes. Great packs of radscorpions are killing our herds. We don't know where they're from, and no matter how many we kill, there's always more!}
-{197}{}{Mach weiter.}
+{197}{}{Ja?}
 {198}{Ara_28a}{And now the monsters are attacking my people! Razlo is trying to find a cure for their poison, but I'm not sure how it goes.}
 {199}{}{Well, I'll help you get rid of these things!}
 {200}{}{I can help you for a price.}
@@ -114,7 +114,7 @@
 {213}{Ara_33}{If you can understand me, please try to find my daughter.}
 {214}{Ara_35}{Since you brought my Tandi back to me, things are quite fine. My eternal gratitude to you, wanderer.}
 {215}{}{What can you tell me about the other towns around here?}
-{216}{}{Was ist hier los?}
+{216}{}{Was geht hier vor?}
 {217}{}{Danke. Tschüss.}
 {218}{Ara_36}{Yes, yes. Umm. Have a good stay.}
 {219}{Ara_37}{Ahh, wanderer. How goes the search for my daughter?}

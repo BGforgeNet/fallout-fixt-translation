@@ -114,10 +114,10 @@
 {1003}{}{Elder}
 {1004}{}{Scribes}
 {1005}{}{Chevaliers|Chevalier}
-{1006}{}{Centre}
+{1006}{}{Le Centre}
 {1007}{}{Disques|Disque|Holodisques|Holodisque}
 {1008}{}{Armée|Armee|Armée des Mutants|Armée mutante}
-{1009}{}{Cimetière de L.A.}
+{1009}{}{Cimetierre}
 {1010}{}{Paladins}
 {1011}{}{Maître}
 {1012}{}{Guerre}

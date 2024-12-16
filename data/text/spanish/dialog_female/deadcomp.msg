@@ -3,17 +3,19 @@
 {102}{}{Los daños parecen más físicos que eléctricos. Quizás se pueda arrancar con algo de trabajo.}
 {103}{}{Este equipo parece no funcionar.}
 {104}{}{Te tropiezas y te cortas las manos con la carcasa. ¡Aaay!}
-{105}{}{Macro$oft (tm) Wyndoze 99 (c) iniciando...   Hecho.            U:\ > }
+{105}{}{Macro$oft (TM) Wyndoze 99 (C) iniciando...   listo.
+            U:\ > }
 {106}{}{DIR}
 {107}{}{SALIR}
-{108}{}{FALLOUT    <DIR>          10-20-99   1:04p                          0 bytes en 1 archivo, 0 bytes asignados, 4.379.255 bytes libres}
+{108}{}{FALLOUT    <DIR>          10-20-99   1:04p
+                          0 bytes en 0 archivos, 0 bytes usados, 4.379.255 bytes libres}
 {109}{}{CD FALLOUT}
 {110}{}{¡Guau! ¡Este juego es increíble!}
 {111}{}{ U:\ > }
 {112}{}{Después de varios minutos buscando, encuentras un activador del Modo Debug y lo cambias a 01.}
 {113}{}{FALLOUTW.EXE}
 {114}{}{U:\Fallout\ > }
-{115}{}{FALLOUTW.EXE     1384432   10-20-99   1:04p                      FALLDEMO.EXE     995328    04-22-97   2:13p                   2.379.760 bytes en 4 archivos, 2.436.874 bytes asignados}
+{115}{}{FALLOUTW.EXE     1384432   10-20-99   1:04p                      FALLDEMO.EXE     995328    04-22-97   2:13p                   2.379.760 bytes en 4 archivos, 2.436.874 bytes usados}
 {116}{}{[Continuar]}
 {117}{}{> CARGANDO...  }
 {118}{}{[Hecho]}
@@ -22,7 +24,8 @@
 {121}{}{No me canso de este juego, el Fallout. Ya no los hacen como antes, durante la preguerra.}
 {122}{}{Ummm... me pregunto que cambiará esta opción}
 {123}{}{> Iniciar secuencia debug}
-{124}{}{*clic* ............. Por favor espere ... ... ... ... ... ...                %s Hecho.}
+{124}{}{*click* ............. Por favor espere ... ... ... ... ... ... 
+               %s  Listo.}
 {125}{}{Consigues 50 puntos de experiencia.}
 {126}{}{FALLDEMO.EXE}
 {128}{}{[Hecho]}

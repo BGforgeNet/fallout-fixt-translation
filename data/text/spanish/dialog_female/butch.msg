@@ -81,7 +81,7 @@
 {180}{BUTCH26}{Sí, bueno, no me gusta ir por ahí hablando de mi vida personal y cosas así.}
 {181}{}{¡Oh, venga, por favor!}
 {182}{}{Ah, está bien.}
-{183}{BUTCH27}{¿Parezco yo un... un... uno de esos recuerdos para turistas? Pss.}
+{183}{BUTCH27}{¿Parezco yo un... un... uno de esos turistas?, pss.}
 {184}{}{No, pareces un hombre muy brillante.}
 {185}{}{Solo quiero conocer algunos lugares.}
 {186}{BUTCH28}{Gracias. ¿Algo más?}
@@ -224,7 +224,7 @@
 {324}{}{Ahora mismo estoy ocupado. Habla con Rutger. Ya me hará saber si merece la pena hablar contigo.}
 {325}{}{No tengo nada que decirte.}
 {326}{}{¿Dónde recojo mi recompensa?}
-{327}{}{¿Qué se supone que tenía que volver a hacer?}
+{327}{}{¿Qué se supone que tenía que hacer?}
 {328}{}{¡Lárgate al carajo de aquí!}
 {329}{}{Nada todavía.}
 {330}{}{¡¡¡Gruñe!!!}
@@ -279,7 +279,7 @@
 {1021}{}{Ciudad Vertedero}
 {1022}{}{Killian}
 {1023}{}{Hermandad}
-{1024}{}{Anciano}
+{1024}{}{Elder}
 {1025}{}{Ángel}
 {1026}{}{Adytum}
 {1027}{}{Jon}

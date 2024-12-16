@@ -22,7 +22,7 @@
 {121}{}{Claro. Tenemos pinchos de iguana por veinte pavos cada uno y nuestro plato del día por ocho pavos.}
 {122}{}{Tomaré iguana.}
 {123}{}{Tomaré el plato del día.}
-{124}{}{¿Sabéis que vuestro plato del día sabe a pollo?}
+{124}{}{Sabes, escuché que su carne de primera sabe a pollo}
 {125}{}{¡No poco! ¡Yo querer iguana! ¡Ugh!}
 {126}{}{Mmm, ¡oler bien! ¡Yo querer el plato del día!}
 {127}{}{No servimos eso aquí. ¿Algo más?}

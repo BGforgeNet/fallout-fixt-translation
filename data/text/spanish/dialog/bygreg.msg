@@ -12,7 +12,7 @@
 {111}{}{¿Cuándo vengan a cogeros? ¿Quién va a venir a cogeros?}
 {112}{}{Realmente estás paranoico. Hablaré contigo luego.}
 {113}{}{Bien, ellos son... Sabes, ¿no?... la enfermedad fue solo el comienzo. Ahora vendrán y acabarán con todos nosotros. Pero tú eres como los demás. No me creerás y serás aniquilado. Escucha lo que te digo. YO ESTARÉ AÚN AQUÍ, Y TODO ESTO, INCLUIDO TÚ, SERÁ DESTRUIDO. DESTRUIDO. (Asiente y se hace un ovillo, chillando y revolviéndose)}
-{114}{}{Medicamentos... Oh, así que eres uno de ellos, quieres que vuelva a tomar esos medicamentos otra vez... Bueno, no lo conseguirás. ¡NO ME LAS TOMARÉ! NO, NO LO HARÉ. LAS VOCES. ¡NO, NO LO HARÉ! NO PUEDES OBLIGARME. (Cierra los ojos y se agarra la cabeza desesperadamente, hablando con las voces que solo él puede oír)}
+{114}{}{Medicamentos... oh, así que eres uno de ellos, quieres que vuelva a tomar esos medicamentos otra vez... bueno, no lo conseguirás. ¡NO ME LAS TOMARÉ! NO, NO LO HARÉ. LAS VOCES. ¡NO, NO LO HARÉ, NO PUEDES OBLIGARME!. [Cierra los ojos y se agarra la cabeza desesperadamente, hablando con las voces que solo él puede oír.]}
 {115}{}{¡NO PUEDES OBLIGARME!}
 {116}{}{¡NADA DE LO QUE HAGAS ME AYUDARÁ!}
 {117}{}{¡TODO ESTÁ PERDIDO!}

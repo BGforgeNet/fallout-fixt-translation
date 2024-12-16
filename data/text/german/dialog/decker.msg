@@ -142,7 +142,7 @@
 {1003}{}{Thieves}
 {1004}{}{Justin}
 {1005}{}{Harold}
-{1006}{}{Merchants}
+{1006}{}{Händler}
 {1007}{}{Daren}
 {1008}{}{Crimson}
 {1009}{}{Demetre}

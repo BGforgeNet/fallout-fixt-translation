@@ -637,7 +637,7 @@
 {2101}{}{Mercy! Mercy!}
 {2102}{}{Please stop!}
 {2103}{}{Help!}
-{2104}{}{Go away!}
+{2104}{}{Hau ab!}
 {2105}{}{I gotta stop mixing it up}
 {2106}{}{Can't we settle this?}
 {2107}{}{Do we really have to do this?}
@@ -4122,7 +4122,7 @@
 {7825}{}{You can't get the job done}
 {7826}{}{That was your last shot!}
 {7827}{}{Loser}
-{7828}{}{Mein Schädel schmerzt!}
+{7828}{}{Mir brummt der Schädel.}
 {7829}{}{How dare you do this to me!}
 {7830}{}{You broke my nose!}
 {7831}{}{You dirty radscorpion-kissing...}
@@ -4184,7 +4184,7 @@
 {7925}{}{You can't get the job done}
 {7926}{}{That was your last mistake}
 {7927}{}{You're having a bad day. Stick around. It gets worse.}
-{7928}{}{Mein Schädel schmerzt!}
+{7928}{}{Mir brummt der Schädel.}
 {7929}{}{Oooo...}
 {7930}{}{You broke my nose!}
 {7931}{}{Oooo...}

@@ -63,7 +63,7 @@
 {162}{}{I think I can finally answer some questions now. Sorry it took so long.}
 {163}{}{What's this place used for?}
 {164}{}{Tell me about the Nightkin.}
-{165}{}{Was ist hier los?}
+{165}{}{Was geht hier vor?}
 {166}{}{What did they do to you?}
 {167}{}{Who is the Master?}
 {168}{}{Do you want to die? I can put you out of your misery.}
@@ -73,7 +73,7 @@
 {172}{}{John Brown's body is molderin' in the Grave. John Brown's body is molderin' in the Grave, John Brown's body is a-molderin' in the Grave, and the Master's screwing us overrrrr...}
 {173}{}{Stop that. It's getting real difficult to hold myself together.}
 {174}{}{Tell me about the Nightkin.}
-{175}{}{Was ist hier los?}
+{175}{}{Was geht hier vor?}
 {176}{}{What did they do to you?}
 {177}{}{Who is the Master?}
 {178}{}{Do you want to die? I can put you out of your misery.}
@@ -84,7 +84,7 @@
 {183}{}{You know all this peace and unity bullshit? It really isn't bullshit to the Master. He really thinks that he's saving the world!}
 {184}{}{Sterile! We're all going to be hideous, sterile freaks! Sterile! Sterile! Sterile! My name's not Errol! Sterile!}
 {185}{}{Tell me about the Nightkin.}
-{186}{}{Was ist hier los?}
+{186}{}{Was geht hier vor?}
 {187}{}{What did they do to you?}
 {188}{}{Who is the Master?}
 {189}{}{Do you want to die? I can put you out of your misery.}
@@ -100,7 +100,7 @@
 {199}{}{I hurt real bad.}
 {200}{}{What's this place used for?}
 {201}{}{Tell me about the Nightkin.}
-{202}{}{Was ist hier los?}
+{202}{}{Was geht hier vor?}
 {203}{}{Who is the Master?}
 {204}{}{Do you want to die? I can put you out of your misery.}
 {205}{}{You sound stupid!}
@@ -109,7 +109,7 @@
 {208}{}{He's the Man! The Man with the Plan! He plans because he loves us! And if the world gets in his way, screw it! Because that's what love is all about!}
 {209}{}{What's this place used for?}
 {210}{}{Tell me about the Nightkin.}
-{211}{}{Was ist hier los?}
+{211}{}{Was geht hier vor?}
 {212}{}{What did they do to you?}
 {213}{}{Do you want to die? I can put you out of your misery.}
 {214}{}{You sound stupid!}

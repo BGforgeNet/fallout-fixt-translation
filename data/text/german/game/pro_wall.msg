@@ -163,19 +163,19 @@
 {15800}{}{Stone Wall}
 {15900}{}{Stone Wall}
 {16000}{}{Stone Wall}
-{16100}{}{Steel Railing}
-{16200}{}{Steel Railing}
-{16300}{}{Steel Railing}
-{16400}{}{Steel Railing}
-{16500}{}{Steel Railing}
-{16600}{}{Steel Railing}
-{16700}{}{Steel Railing}
-{16800}{}{Steel Railing}
-{16900}{}{Steel Railing}
-{17000}{}{Steel Railing}
-{17100}{}{Steel Railing}
-{17200}{}{Steel Railing}
-{17300}{}{Steel Railing}
+{16100}{}{Schutzgeländer}
+{16200}{}{Schutzgeländer}
+{16300}{}{Schutzgeländer}
+{16400}{}{Schutzgeländer}
+{16500}{}{Schutzgeländer}
+{16600}{}{Schutzgeländer}
+{16700}{}{Schutzgeländer}
+{16800}{}{Schutzgeländer}
+{16900}{}{Schutzgeländer}
+{17000}{}{Schutzgeländer}
+{17100}{}{Schutzgeländer}
+{17200}{}{Schutzgeländer}
+{17300}{}{Schutzgeländer}
 {17400}{}{Cave Wall}
 {17500}{}{Cave Wall}
 {17600}{}{Cave Wall}

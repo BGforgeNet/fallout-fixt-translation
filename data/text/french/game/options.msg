@@ -40,7 +40,7 @@
 {211}{}{Verbose}
 {212}{}{Brief}
 {213}{}{Targeting Only}
-{214}{}{None}
+{214}{}{Aucune}
 {215}{}{Minimal}
 {216}{}{Maximum Blood}
 {217}{}{8 seconds}

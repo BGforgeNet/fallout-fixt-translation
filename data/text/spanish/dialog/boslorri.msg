@@ -9,12 +9,12 @@
 {108}{}{¿Estás mal? Veamos...}
 {109}{}{Ése era el problema. Eso es. Tienes que tener más cuidado ahí fuera.}
 {110}{}{Lo siento, no podré ayudarte si no me cuentas cuál es el problema.}
-{111}{}{Al parecer estás bien.}
+{111}{}{ Pareces estar bien.}
 {112}{}{Eso es. Espero que te sientas mejor.}
-{113}{}{Eso es, pero deja de meterte en tantas peleas.}
+{113}{}{¡Ahí sí, pero deja de meterte en tantas peleas!.}
 {114}{}{Eso debería ser suficiente, estás listo.}
 {115}{}{Estás como nuevo.}
-{116}{}{Estás totalmente fuera de peligro.}
+{116}{}{¡Todo bien!.}
 {117}{}{Las radiaciones son muy peligrosas; deberías tener más cuidado.}
 {118}{}{No tengo tiempo para jueguecitos.}
 {119}{}{Por supuesto, pero es muy caro y se necesita mucho tiempo.}

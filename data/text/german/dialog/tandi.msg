@@ -1,6 +1,6 @@
 {100}{}{You see: Tandi.}
 {101}{}{What else is around these parts?}
-{102}{}{Was ist hier los?}
+{102}{}{Was geht hier vor?}
 {103}{}{Have you heard any stories from down south?}
 {104}{}{How do you like it here?}
 {105}{}{Well, that's about it. Thanks for your time.}
@@ -157,7 +157,7 @@
 {1013}{}{Shady Sands}
 {1014}{}{The Hub}
 {1015}{}{Water Chip}
-{1016}{}{Vault}
+{1016}{}{(die) Vault}
 {1017}{}{Alya}
 {1018}{}{Diana}
 {1019}{}{Gwen}

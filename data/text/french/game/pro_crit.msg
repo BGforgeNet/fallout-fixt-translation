@@ -14,7 +14,7 @@
 {1100}{}{Radscorpion}
 {1101}{}{A giant mutated scorpion, scourge to animals and humans alike.}
 {1200}{}{Person in Robes}
-{1300}{}{Merchant}
+{1300}{}{Marchand}
 {1400}{}{Zombie Guard}
 {1401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
 {1500}{}{Combat Armor Female}
@@ -71,7 +71,7 @@
 {6300}{}{Tandi}
 {6400}{}{Aradesh}
 {6500}{}{Seth}
-{6600}{}{Merchant}
+{6600}{}{Marchand}
 {6700}{}{Guard}
 {6800}{}{Mantis}
 {6900}{}{Robobrain}
@@ -93,16 +93,16 @@
 {8500}{}{Traveler}
 {8600}{}{Peasant}
 {8700}{}{Citizen}
-{8800}{}{Merchant}
+{8800}{}{Marchand}
 {8900}{}{Stranger}
 {9000}{}{Guard}
 {9100}{}{Farmer}
-{9200}{}{Merchant}
+{9200}{}{Marchand}
 {9300}{}{Peasant}
 {9400}{}{Neal}
 {9500}{}{Peasant}
 {9600}{}{Worker}
-{9700}{}{Merchant}
+{9700}{}{Marchand}
 {9800}{}{Peasant}
 {9900}{}{Thug}
 {10000}{}{Stranger}
@@ -187,13 +187,13 @@
 {17100}{}{Farmer}
 {17200}{}{Worker}
 {17300}{}{Farmer}
-{17400}{}{Merchant}
+{17400}{}{Marchand}
 {17500}{}{Guard}
 {17600}{}{Great Mantis}
 {17700}{}{Mean Pig Rat}
 {17800}{}{Farmer}
 {17900}{}{Worker}
-{18000}{}{Merchant}
+{18000}{}{Marchand}
 {18100}{}{Guard}
 {18200}{}{Glower}
 {18201}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
@@ -211,7 +211,7 @@
 {19200}{}{Super Nightkin}
 {19300}{}{Master Nightkin}
 {19400}{}{Guard}
-{19500}{}{Merchant}
+{19500}{}{Marchand}
 {19600}{}{Guard}
 {19700}{}{Guard}
 {19800}{}{Guard}

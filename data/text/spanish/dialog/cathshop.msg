@@ -26,10 +26,10 @@
 {125}{}{¡Saludos! ¿En qué puedo ayudarte? Espero que te tomes un momento para comprender la importancia de cualquier decisión futura que tomes en relación a tu alma.}
 {126}{}{¡Ehhh!}
 {127}{}{¿Qué tienes para comprar?}
-{128}{}{¿Dónde puedo conseguir una de esos trajes alucinantes?}
+{128}{}{¿Dónde puedo conseguir una de esas lindas túnicas?...}
 {129}{}{Solo los miembros más reconocidos de la Catedral pueden llevar la púrpura sagrada.}
 {130}{}{Supongo que eso aclara todas mis dudas. ¡Gracias!}
-{131}{}{Idiota, supongo que tendré que coger la tuya.}
+{131}{}{Tonto engreído. ¡Supongo que tendré que quitártela!}
 {132}{}{Oh, bien. ¿Qué tienes para intercambiar?}
 {133}{}{Oh, cosas que le gustan a la gente que viene aquí. Nada especial. Pasa, echa un vistazo.}
 {134}{}{Gracias, nos vemos luego.}

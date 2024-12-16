@@ -23,12 +23,12 @@
 {263}{}{Old Town}
 {264}{}{Water Merchants, Church}
 {265}{}{Deathclaw Lair}
-{270}{}{Entrance}
+{270}{}{Entree}
 {271}{}{Level 1}
 {272}{}{Level 2}
 {273}{}{Level 3}
 {274}{}{Level 4}
-{280}{}{Entrance}
+{280}{}{Entree}
 {281}{}{Stronghold Level 1}
 {282}{}{Stronghold Level 2}
 {283}{}{Vats Level 1}
@@ -41,16 +41,16 @@
 {295}{}{Level 5}
 {296}{}{Level 6}
 {300}{}{Adytum}
-{301}{}{Downtown}
+{301}{}{Centre-ville}
 {302}{}{Library}
 {303}{}{Forteresse}
 {304}{}{Warehouse}
-{310}{}{Entrance}
+{310}{}{Entree}
 {311}{}{Intérieur}
 {500}{}{You have stopped the Super Mutant threat.}
 {501}{}{Ruins}
 {1000}{}{Desert}
-{1001}{}{Mountains}
+{1001}{}{Montagnes}
 {1002}{}{City}
-{1003}{}{Coast}
+{1003}{}{Cote}
 {1004}{}{Unknown}

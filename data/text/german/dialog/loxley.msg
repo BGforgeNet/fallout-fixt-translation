@@ -191,7 +191,7 @@
 {1018}{}{Angel's}
 {1019}{}{Blades}
 {1020}{}{Razor}
-{1021}{}{Merchants}
+{1021}{}{Händler}
 {1022}{}{Spot}
 {1023}{}{Iguana}
 {1024}{}{Bits}

@@ -160,10 +160,10 @@
 {1004}{}{Anciens}
 {1005}{}{Scribes}
 {1006}{}{Chevaliers|Chevalier}
-{1007}{}{Centre}
+{1007}{}{Le Centre}
 {1008}{}{Disques|Disque|Holodisques|Holodisque}
 {1009}{}{Marchands|Marchand}
-{1010}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1010}{}{Confrerie}
 {1011}{}{Ordre Ancien|Rayon|Le Rayon|Ancien}
 {1012}{}{Exode}
 {1013}{}{Cabbot}
@@ -173,7 +173,7 @@
 {1017}{}{Guerre}
 {1018}{}{Armée|Armee|Armée des Mutants|Armée mutante}
 {1019}{}{Caravanes}
-{1020}{}{Cathedral}
+{1020}{}{Cathedrale}
 {1021}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1022}{}{Entry 1022}
 {1023}{}{Entry 1023}

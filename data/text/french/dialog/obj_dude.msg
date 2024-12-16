@@ -787,7 +787,7 @@
 {8801}{}{The War}
 {8802}{}{The Exodus}
 {8803}{}{The Strange Army}
-{8804}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{8804}{}{Confrerie}
 {8805}{}{The Merchants}
 {8806}{}{The Missing Caravans}
 {8807}{}{The Hub}
@@ -901,7 +901,7 @@
 {9401}{}{The War}
 {9402}{}{The Exodus}
 {9403}{}{The Strange Army}
-{9404}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{9404}{}{Confrerie}
 {9405}{}{The Merchants}
 {9406}{}{The Missing Caravans}
 {9407}{}{The Hub}
@@ -1015,7 +1015,7 @@
 {10001}{}{The War}
 {10002}{}{The Exodus}
 {10003}{}{The Strange Army}
-{10004}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{10004}{}{Confrerie}
 {10005}{}{The Merchants}
 {10006}{}{The Missing Caravans}
 {10007}{}{The Hub}
@@ -1364,7 +1364,7 @@
 {15416}{}{Pillards|Pillards|Khans|Khan}
 {15417}{}{Raider}
 {15418}{}{Khan}
-{15419}{}{Centre}
+{15419}{}{Le Centre}
 {15420}{}{}
 {15421}{}{}
 {15422}{}{}
@@ -1701,7 +1701,7 @@
 {17813}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
 {17814}{}{Fouineurs|Fouineur|Fouines|Fouine}
 {17815}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
-{17816}{}{Cimetière de L.A.}
+{17816}{}{Cimetierre}
 {17817}{}{L.A. Boneyard}
 {17818}{}{}
 {17819}{}{}
@@ -1819,7 +1819,7 @@
 {18013}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
 {18014}{}{Fouineurs|Fouineur|Fouines|Fouine}
 {18015}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
-{18016}{}{Cimetière de L.A.}
+{18016}{}{Cimetierre}
 {18017}{}{L.A. Boneyard}
 {18018}{}{}
 {18019}{}{}
@@ -1937,7 +1937,7 @@
 {18213}{}{Régulateurs|Régulateur|Regulateurs|Regulateur|Police|Force de police}
 {18214}{}{Fouineurs|Fouineur|Fouines|Fouine}
 {18215}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
-{18216}{}{Cimetière de L.A.}
+{18216}{}{Cimetierre}
 {18217}{}{L.A. Boneyard}
 {18218}{}{}
 {18219}{}{}
@@ -2927,10 +2927,10 @@
 {22607}{}{Dépôtville}
 {22608}{}{Confrérie de l'Acier}
 {22609}{}{Sables Ombragés}
-{22610}{}{Cimetière de L.A.}
+{22610}{}{Cimetierre}
 {22611}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {22612}{}{Old Town}
-{22613}{}{Downtown}
+{22613}{}{Centre-ville}
 {22614}{}{Les Hauteurs|Hauteurs|Hauteur}
 {22615}{}{Deathclaw}
 {22616}{}{Water Chip}
@@ -3044,10 +3044,10 @@
 {23807}{}{Dépôtville}
 {23808}{}{Confrérie de l'Acier}
 {23809}{}{Sables Ombragés}
-{23810}{}{Cimetière de L.A.}
+{23810}{}{Cimetierre}
 {23811}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {23812}{}{Old Town}
-{23813}{}{Downtown}
+{23813}{}{Centre-ville}
 {23814}{}{Les Hauteurs|Hauteurs|Hauteur}
 {23815}{}{Deathclaw}
 {23816}{}{Water Chip}
@@ -3161,10 +3161,10 @@
 {24407}{}{Dépôtville}
 {24408}{}{Confrérie de l'Acier}
 {24409}{}{Sables Ombragés}
-{24410}{}{Cimetière de L.A.}
+{24410}{}{Cimetierre}
 {24411}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {24412}{}{Old Town}
-{24413}{}{Downtown}
+{24413}{}{Centre-ville}
 {24414}{}{Les Hauteurs|Hauteurs|Hauteur}
 {24415}{}{Deathclaw}
 {24416}{}{Water Chip}
@@ -3278,10 +3278,10 @@
 {25007}{}{Dépôtville}
 {25008}{}{Confrérie de l'Acier}
 {25009}{}{Sables Ombragés}
-{25010}{}{Cimetière de L.A.}
+{25010}{}{Cimetierre}
 {25011}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {25012}{}{Old Town}
-{25013}{}{Downtown}
+{25013}{}{Centre-ville}
 {25014}{}{Les Hauteurs|Hauteurs|Hauteur}
 {25015}{}{Deathclaw}
 {25016}{}{Water Chip}
@@ -3395,10 +3395,10 @@
 {25607}{}{Dépôtville}
 {25608}{}{Confrérie de l'Acier}
 {25609}{}{Sables Ombragés}
-{25610}{}{Cimetière de L.A.}
+{25610}{}{Cimetierre}
 {25611}{}{Tour|Tour d'eau|Château d'eau|Château|Chateau|Eau}
 {25612}{}{Old Town}
-{25613}{}{Downtown}
+{25613}{}{Centre-ville}
 {25614}{}{Les Hauteurs|Hauteurs|Hauteur}
 {25615}{}{Deathclaw}
 {25616}{}{Water Chip}

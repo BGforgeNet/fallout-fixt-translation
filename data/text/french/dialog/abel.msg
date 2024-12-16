@@ -12,7 +12,7 @@
 {111}{}{Toi humain. Moi mutant. Mutant tuer humain.}
 {112}{}{Mais comment ? Qu'est-ce que tu fais du champ de force ?}
 {113}{}{Abel s'en occupe. Après, Abel donner bonne raclée !}
-{114}{}{Les Enfants ne sont pas admis ici. Ici endroit pour mutants. Va donc !}
+{114}{}{Les Enfants ne sont pas admis ici. Ici endroit pour mutants. Va donc.}
 {115}{}{Grr !}
 {116}{}{Il faut que je traverse le champ de force. S'il te plaît, laisse-moi passer.}
 {117}{}{Non.}

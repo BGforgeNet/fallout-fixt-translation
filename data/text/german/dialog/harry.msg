@@ -108,7 +108,7 @@
 {1007}{}{Unity}
 {1008}{}{Cathedral}
 {1009}{}{Chip}
-{1010}{}{Hall}
+{1010}{}{Halle}
 {1011}{}{Water}
 {1012}{}{Human}
 {1013}{}{Normies}
@@ -125,7 +125,7 @@
 {1024}{}{Gary}
 {1025}{}{Terry}
 {1026}{}{Sally}
-{1027}{}{Watershed}
+{1027}{}{Wasserstelle}
 {1100}{Harry300}{I don't know, but think he like a boss people.}
 {1101}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
 {1102}{Harry302}{Set a wuss. He think he run place, but we run.}

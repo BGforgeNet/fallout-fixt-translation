@@ -116,7 +116,7 @@
 {1002}{}{discos}
 {1003}{}{Hermandad}
 {1004}{}{Chip}
-{1005}{}{Anciano}
+{1005}{}{Elder}
 {1006}{}{Rhombus}
 {1007}{}{Éxodo}
 {1008}{}{Extraño ejército}
@@ -128,7 +128,7 @@
 {1014}{}{Escribas}
 {1015}{}{Caballeros}
 {1016}{}{Paladines}
-{1017}{}{Holodisk}
+{1017}{}{Holodisco}
 {1018}{}{Holo-disk}
 {1019}{}{Holo-disco}
 {1020}{}{Holodisco}

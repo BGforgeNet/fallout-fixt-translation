@@ -16,7 +16,7 @@
 {115}{}{Garl Death-Hand loves his warriors. Put that thing away and go talk to him.}
 {116}{}{So, you think you're tough, huh? Mess with me and we'll both find out.}
 {117}{}{I don't like your look.}
-{118}{}{Go away!}
+{118}{}{Hau ab!}
 {119}{}{Was willst du?}
 {120}{}{I'm looking for a woman named Tandi. Seen her?}
 {121}{}{Nothing. Just looking around.}

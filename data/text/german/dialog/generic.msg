@@ -30,7 +30,7 @@
 {350}{}{[Ende]}
 {351}{}{[Tschüss]}
 {352}{}{[Mehr]}
-{353}{}{[FORTSETZEN]}
+{353}{}{[Weiter]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
 {375}{}{Tschüss.}
@@ -144,13 +144,13 @@
 {2072}{}{seventy-two}
 {2073}{}{seventy-three}
 {2074}{}{seventy-four}
-{2075}{}{seventy-five}
+{2075}{}{fünfundsiebzig}
 {2076}{}{seventy-six}
 {2077}{}{seventy-seven}
 {2078}{}{seventy-eight}
 {2079}{}{seventy-nine}
 {2080}{}{eighty}
-{2081}{}{eighty-one}
+{2081}{}{einundachtzig}
 {2082}{}{eighty-two}
 {2083}{}{eighty-three}
 {2084}{}{eighty-four}
@@ -398,7 +398,7 @@
 {5201}{}{Do you wish to continue playing Fallout Fixt with this character?}
 {5202}{}{No.  (END GAME: Play final movie sequence & credits, then exit to main menu.)}
 {5203}{}{Yes.  (CONTINUE PLAYING: This dialog window will close and you'll stay on this map. Play continues normally.)}
-{5400}{}{Bleib weg da.}
+{5400}{}{Bleib da weg!}
 {9000}{}{Repairs Complete.}
 {9001}{}{Rearming Complete.}
 {9002}{}{Repairing Structural Damage.}
@@ -433,5 +433,5 @@
 {10011}{}{Actually, I guess there's nothing I need to really know about your gear.}
 {10012}{}{Ich möchte, dass du deine Rüstung ablegst.}
 {10013}{}{I need to know what kind of weapons you can use.}
-{10100}{}{Let's go.}
+{10100}{}{Lass uns gehen.}
 {21020}{}{twenty}

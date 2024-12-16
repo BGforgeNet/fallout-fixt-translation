@@ -57,7 +57,7 @@
 {1100}{}{Esos somos nosotros.}
 {1101}{}{Sufrieron una mutación durante el holocausto nuclear Pero aún son buena gente.}
 {1102}{}{Todos tenemos maestros, ¿no?}
-{1103}{}{El Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}
+{1103}{}{El Cementerio de L.A. es un caldo de cultivo para el odio. Allí están los Seguidores del Apocalipsis, las bandas: Los Destripadores, Los Navajas y Los Pistoleros, además asentamiento pequeño llamado Adytum. }
 {1104}{}{Ellos pretenden destruir la paz que el Maestro está intentando establecer.}
 {1105}{}{No tengo ni idea de lo que me dices.}
 {1106}{}{Ellos pretenden destruir la paz que el Maestro está intentando establecer.}
@@ -65,5 +65,5 @@
 {1108}{}{Creo que es uno de los necrófagos.}
 {1109}{}{Está justo ahí, hacia el noreste.}
 {1110}{}{No sé nada de eso.}
-{1111}{}{El Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}
-{1112}{}{El Cementerio de LA es un caldo de cultivo de odio. Allí están los Seguidores del Apocalipsis, las bandas -los Destripadores, los Navajas y los Pistoleros- y un pequeño asentamiento llamado Adytum.}
+{1111}{}{El Cementerio de L.A. es un caldo de cultivo para el odio. Allí están los Seguidores del Apocalipsis, las bandas: Los Destripadores, Los Navajas y Los Pistoleros, además asentamiento pequeño llamado Adytum. }
+{1112}{}{El Cementerio de L.A. es un caldo de cultivo para el odio. Allí están los Seguidores del Apocalipsis, las bandas: Los Destripadores, Los Navajas y Los Pistoleros, además asentamiento pequeño llamado Adytum. }

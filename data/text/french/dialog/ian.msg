@@ -83,13 +83,13 @@
 {1001}{}{Guerre}
 {1002}{}{Sables}
 {1003}{}{Dépôtville}
-{1004}{}{Centre}
+{1004}{}{Le Centre}
 {1005}{}{Pillards|Pillards|Khans|Khan}
 {1006}{}{Caravanes}
 {1007}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1008}{}{Ombragés}
 {1009}{}{Followers}
-{1010}{}{Cathedral}
+{1010}{}{Cathedrale}
 {1011}{}{Garl}
 {1012}{}{Maître}
 {1013}{}{Unité}
@@ -106,7 +106,7 @@
 {1024}{}{Vault 13}
 {1025}{}{Killian}
 {1026}{}{Gizmo}
-{1027}{}{Cimetière de L.A.}
+{1027}{}{Cimetierre}
 {1028}{}{Casino}
 {1029}{}{Magasin}
 {1030}{}{Deathclaw}
@@ -115,9 +115,9 @@
 {1033}{}{Paladins}
 {1034}{}{Scribes}
 {1035}{}{Enfants}
-{1036}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1036}{}{Confrerie}
 {1037}{}{Vats}
-{1038}{}{Base}
+{1038}{}{Base Militaire}
 {1039}{}{Militaire}
 {1041}{}{Apocalypse}
 {1042}{}{Mutants}

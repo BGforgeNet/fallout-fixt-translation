@@ -245,7 +245,7 @@
 {1001}{}{Mathia}
 {1002}{}{Cabbot}
 {1003}{}{Vree}
-{1004}{}{Library}
+{1004}{}{Bibliothek}
 {1005}{}{Rhombus}
 {1006}{}{Älteste}
 {1007}{}{Elders}
@@ -256,7 +256,7 @@
 {1012}{}{Hub}
 {1013}{}{Butch}
 {1014}{}{Traders}
-{1015}{}{Merchants}
+{1015}{}{Händler}
 {1016}{}{Disks}
 {1017}{}{Player}
 {1018}{}{Roger}

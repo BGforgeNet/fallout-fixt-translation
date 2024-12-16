@@ -22,7 +22,7 @@
 {121}{}{¿Cuánto tiempo falta para que la caravana salga?}
 {122}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
 {123}{}{Esta parte del Cementerio de LA se llama Adytum. El Cementerio de LA está prácticamente gobernado por bandas. Una zona dura. Cuidado con lo que haces aquí. Adytum está gobernado por los Reguladores. Intentan mantener este lugar al margen de las batallas callejeras. No son demasiado amigos de los extraños, por lo que si no has hablado aún con ellos, te aconsejo que lo hagas antes de que empieces a merodear por ahí.}
-{124}{}{Vacío }
+{124}{}{Vacío}
 {125}{}{¿Cuánto tiempo falta para que la caravana salga?}
 {126}{}{Creo que me daré una vuelta antes de que salgamos. Te veré luego.}
 {127}{}{No puedo contarte mucho de ellos. La Hermandad es muy prudente con sus cosas. Hay mucha gente que los critica, pero según tengo entendido son buena gente. Un poco fanáticos, quizás, pero tíos majos.}

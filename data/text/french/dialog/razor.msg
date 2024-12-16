@@ -104,7 +104,7 @@
 {203}{}{Super. Allons-y.}
 {204}{}{Ca ne me paraît pas une bonne idée, mais essaie toujours.}
 {205}{}{Espèce d'ordure ! Si les Contrebandiers sont partis, jamais on ne pourra s'armer. Fous le camp, tu n'as rien à faire ici.}
-{206}{}{Je regrette.}
+{206}{}{Quel dommage.}
 {207}{}{J't'emmerde.}
 {208}{}{Je vais parler à Zimmerman lui donner ce holodisque tout ira bien !}
 {209}{}{Tu sais quoi ? Je vais te tuer !}

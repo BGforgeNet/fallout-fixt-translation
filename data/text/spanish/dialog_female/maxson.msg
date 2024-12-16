@@ -247,7 +247,7 @@
 {1003}{}{Vree}
 {1004}{}{Biblioteca}
 {1005}{}{Rhombus}
-{1006}{}{Anciano}
+{1006}{}{Elder}
 {1007}{}{Ancianos}
 {1008}{}{Iniciados}
 {1009}{}{Escribas}

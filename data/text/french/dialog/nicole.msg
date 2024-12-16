@@ -116,7 +116,7 @@
 {215}{}{Comment ta famille a-t-elle survécu ?}
 {216}{}{C'est encore si radioactif ? Après 80 ans ?}
 {217}{Nic_37}{On vivait à la périphérie du Grand Rayon. Comme la maladie commençait à se répandre, on a rassemblé tous les gens pour partir vers le Nord. [Soupir] C'est alors que mes parents ont été tués.}
-{218}{}{Je regrette.}
+{218}{}{Quel dommage.}
 {219}{}{Pourquoi cette zone là-bas est-elle encore si radioactive après tout ce temps ?}
 {220}{Nic_39}{Merci, je te suis reconnaissante. Autre chose que tu voulais savoir ?}
 {221}{}{Oui.}
@@ -236,15 +236,15 @@
 {1005}{}{Dieu}
 {1006}{}{Maître}
 {1007}{}{Nightkin}
-{1008}{}{Cathedral}
+{1008}{}{Cathedrale}
 {1009}{}{Adytum}
 {1010}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1011}{}{Followers}
 {1012}{}{Guerre}
-{1013}{}{Centre}
-{1014}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1013}{}{Le Centre}
+{1014}{}{Confrerie}
 {1015}{}{Les Eventreurs|Eventreurs|Eventreur}
-{1016}{}{Cimetière de L.A.}
+{1016}{}{Cimetierre}
 {1017}{}{Acier}
 {1100}{Nic_86}{Morpheus est le chef des Enfants de la Cathédrale. Il est le mal, et ce fait doit être connu de tous !}
 {1101}{Nic_87}{Il n'y a pas grand-chose à dire.}

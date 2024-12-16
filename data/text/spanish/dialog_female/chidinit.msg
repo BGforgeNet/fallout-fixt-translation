@@ -1,6 +1,6 @@
 {100}{}{Ves: al Iniciado Ronald, de los Niños de la Catedral.}
 {101}{}{Ves: a la Iniciada Caroline, de los Niños de la Catedral.}
-{102}{}{Ves: al Iniciado Myles, de los Niños de la Catedral }
+{102}{}{Ves: al Iniciado Myles, de los Niños de la Catedral.}
 {103}{}{Ves: a la Iniciada Alisha, de los Niños de la Catedral.}
 {104}{}{Ves: al Iniciado Thomas, de los Niños de la Catedral.}
 {105}{}{Ves: al Iniciado Gabriel, de los Niños de la Catedral.}

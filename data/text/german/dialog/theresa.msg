@@ -77,7 +77,7 @@
 {176}{}{If you're interested, we hold meetings at 5:00 p.m.}
 {177}{}{You earn 250 experience for violently disbanding the Vault's revolutionary faction.}
 {1000}{}{Chip}
-{1001}{}{Vault}
+{1001}{}{(die) Vault}
 {1002}{}{War}
 {1003}{}{Outside}
 {1004}{}{Overseer}

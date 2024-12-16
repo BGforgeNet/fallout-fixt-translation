@@ -1,18 +1,18 @@
 {100}{}{Tù ves Baka.}
 {101}{}{Estás viendo a una mujer.}
-{102}{}{Criptas no deberìan estar aquì, ¿deberìan los chicos? (los otros tontos sacuden sus cabezas) Creo que deberìas irte. }
-{103}{}{Cometí un error al unirme a las criptas. Quiero estar de tu lado. }
-{104}{}{Vine con un mensaje de Phrax. }
+{102}{}{Los criptas no deberían estar aquí, ¿o sí chicos?. [Los otros tontos sacuden sus cabezas.] Creo que deberías irte.}
+{103}{}{Cometí un error uniéndome a los Criptas. Quiero estar de tu lado.}
+{104}{}{Vine con un mensaje de Phrax.}
 {105}{}{Eso haré, gracias.}
 {106}{}{¿Entonces deberíamos usar el abrigo de un traidor? ¿Uno que entregaría el suyo? Ningún perro es tan bajo como tú.}
 {107}{}{Siento como si tu abrigo se volviera a poner, pero tus palabras me influyen.}
 {108}{}{¿Phrax no es lo suficientemente valiente como para pronunciar este mensaje con su propia voz? Él no es hombre, de eso lo sé. Y envía a este chico a decir sus palabras. Bueno, entonces, diles y listo.}
 {109}{}{Muere.}
 {110}{}{Dijo que abandones la ciudad y que no te matarán.}
-{111}{}{Dijo que tengas un buen dìa. }
-{112}{}{Jajaja! Me gusta un hombre con sentido del humor. Puedes vivir. Perdòn, solo bromeaba. }
+{111}{}{Dijo que tengas un buen día.}
+{112}{}{¡Jajaja!, me la gente con sentido del humor. Puedes vivir. Perdón, solo bromeaba.}
 {113}{}{No creo que entiendas completamente las ramificaciones de lo que acabas de decir. Espero que los aprendas antes de que tus huesos se sequen en el sol del desierto. Lamentablemente, no creo que tengas mucho tiempo.}
-{114}{}{¿Qué tenemos aquí? Escuchamos que alguien nuevo estaba en la ciudad. Este debes ser tú; todos los demás se ven tan familiares. Por favor permítame presentarme. Soy Baka, Reina de los locos. }
+{114}{}{¿Qué tenemos aquí?, escuchamos que alguien nuevo estaba en la ciudad. Debes ser tú; todos los demás se ven tan familiares. Por favor permite presentarme. Soy Baka, Reina de los Tontos.}
 {115}{}{¿Por què se llaman los Tontos?}
 {116}{}{Oigo que hay desacuerdos entre usted y las Criptas.}
 {117}{}{Te ves como un tonto de mí.}
@@ -72,7 +72,7 @@
 {171}{}{Oh, sí. Adiós.}
 {172}{}{Dioses de la fortuna, los dioses de la suerte. No me importa mientras yo sea el último en reír. Nosotros no puede unirse a la muerte así que se ríen de él.}
 {173}{}{Usted será como si un Tonto, pero escucha bien y marca mis palabras: si a traicionar como lo haría con sus antiguos compañeros, a continuación, vas a morir - con una mueca de dolor, no una risa.}
-{174}{}{Y no, no deberán vestir el manto de un Tonto. Va a llevar el manto de un traidor, y mi garrot será su compañero.}
+{174}{}{Y no, no deberán vestir el manto de un Tonto. Va a llevar el manto de un traidor, y mi garrote será su compañero.}
 {175}{}{Sí, usted puede ser el próximo bufón en el Tonto del tribunal. Bienvenido a los Tontos. Nos engañará y morir.}
 {176}{}{Y sin que el generador de energía, no hay ninguna razón para estar en este dunghole. El generador proporciona luz, calor e incluso algunos espeluznantes experiencias.}
 {177}{}{Ir a recoger algunas de inteligencia o algo, y traer de vuelta la noticia de que el enemigo. (Agita su mano en un gesto desdeñoso)}

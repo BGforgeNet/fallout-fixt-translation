@@ -19,7 +19,7 @@
 {118}{}{¿Hiciste una misión antes de unirte?}
 {119}{Cab_5a}{No exactamente. Pero ahora las cosas son distintas.}
 {120}{}{¿Y qué misión es?}
-{121}{}{¿Qué es diferente?}
+{121}{}{Dime qué es diferente.}
 {122}{}{Bueno, volveré en otro momento.}
 {123}{Cab_6}{Tienes que ir a las ruinas de la Orden Antigua. Están al sur de aquí. Tienes que entrar y volver con algo que pruebe que has estado allí.}
 {124}{}{¿Cómo sabrás que lo traigo de ese lugar?}
@@ -46,7 +46,7 @@
 {145}{}{He cambiado de idea. Quiero unirme a la Hermandad.}
 {146}{}{¿Puedo hacerte algunas preguntas?}
 {147}{}{No importa. Adiós.}
-{148}{Cab_20}{Te estás burlando de mí, ¿verdad? Adiós.}
+{148}{Cab_20}{¡Te estás burlando de mí, ¿verdad?, adiós!.}
 {149}{Cab_21}{¡Fuera!}
 {150}{}{Por favor, lo siento, te he hecho enfadar. ¿Podemos intentarlo de nuevo?}
 {151}{}{Vale.}
@@ -156,7 +156,7 @@
 {1000}{}{Iniciada}
 {1001}{}{Vree}
 {1002}{}{Rhombus}
-{1003}{}{Anciano}
+{1003}{}{Elder}
 {1004}{}{Ancianos}
 {1005}{}{Escribas}
 {1006}{}{Caballeros}
@@ -268,7 +268,7 @@
 {1112}{Cab_65}{La antigua Hermandad vino hace mucho tiempo de algún lugar lejano del norte. Llamamos a eso el Gran Éxodo. Puedes leer más sobre ello si le preguntas a Vree en la biblioteca.}
 {1113}{Cab_53}{Bueno, ese soy yo.}
 {1114}{Cab_64}{Oh, bien, en el Éxodo, la Hermandad se dividió en dos grupos. El grupo que escapó le robó al otro algunas armas y fueron hacia el sur. Hace unos diez años enviamos a nuestros Caballeros a buscarlos, pero todo lo que encontraron fueron ruinas. Nadie sabe qué pasó.}
-{1115}{Cab_20}{Te estás burlando de mí, ¿verdad? Adiós.}
+{1115}{Cab_20}{¡Te estás burlando de mí, ¿verdad?, adiós!.}
 {1116}{Cab_67}{Mmm... no sé. Deberías preguntar a alguien más importante que yo.}
 {1117}{Cab_63}{Guau, es una historia muy larga. Ve a la biblioteca y habla con Vree. Ella te dirá dónde están los CD históricos.}
 {1118}{Cab_67}{Mmm... no sé. Deberías preguntar a alguien más importante que yo.}

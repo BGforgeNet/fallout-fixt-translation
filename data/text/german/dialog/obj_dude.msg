@@ -9,7 +9,7 @@
 {978}{}{I don't like talking about myself. New topic.}
 {979}{}{I'm not an open book; let's talk about something else.}
 {980}{}{Darüber weiß ich nichts.}
-{981}{}{Tut mir leid. Keine Ahnung.}
+{981}{}{Keine Ahnung, tut mir leid}
 {982}{}{Noch nie davon gehört.}
 {983}{}{What's that?}
 {984}{}{What are you babbling about?}
@@ -32,8 +32,8 @@
 {2801}{}{Water Chip}
 {2802}{}{Necropolis}
 {2803}{}{Set}
-{2804}{}{Watershed}
-{2805}{}{Hall}
+{2804}{}{Wasserstelle}
+{2805}{}{Halle}
 {2806}{}{}
 {2807}{}{}
 {2808}{}{}
@@ -138,8 +138,8 @@
 {3401}{}{Water Chip}
 {3402}{}{Necropolis}
 {3403}{}{Set}
-{3404}{}{Watershed}
-{3405}{}{Hall}
+{3404}{}{Wasserstelle}
+{3405}{}{Halle}
 {3406}{}{}
 {3407}{}{}
 {3408}{}{}
@@ -244,8 +244,8 @@
 {4001}{}{Water Chip}
 {4002}{}{Necropolis}
 {4003}{}{Set}
-{4004}{}{Watershed}
-{4005}{}{Hall}
+{4004}{}{Wasserstelle}
+{4005}{}{Halle}
 {4006}{}{}
 {4007}{}{}
 {4008}{}{}
@@ -346,16 +346,16 @@
 {4103}{}{Oh, I like him, I do. You can find him at the Hall.}
 {4104}{}{Watch out for the guards. They take their job real serious like.}
 {4105}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
-{4600}{}{Vault}
+{4600}{}{(die) Vault}
 {4601}{}{Water}
 {4602}{}{Overseer}
 {4603}{}{Chip}
 {4604}{}{Waterchip}
 {4605}{}{Vault13}
 {4606}{}{Vault 13}
-{4607}{}{Medic}
+{4607}{}{Mediziner}
 {4608}{}{Healing}
-{4609}{}{Library}
+{4609}{}{Bibliothek}
 {4610}{}{}
 {4611}{}{}
 {4612}{}{}

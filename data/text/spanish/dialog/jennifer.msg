@@ -135,7 +135,7 @@
 {234}{}{Ven aquí, cielito.}
 {235}{}{¿Me estás tomando el pelo?}
 {236}{}{Estás luchando con uñas y dientes, ¿verdad?}
-{237}{}{Over here, sweaty!}
+{237}{}{¡Por aquí, corazón!}
 {238}{}{¡Eh, cariño!}
 {239}{}{Eso es. Estaba empezando a preocuparme.}
 {240}{}{Acércate y dame un beso, guapetón.}

@@ -12,7 +12,7 @@
 {111}{}{¡Me encantará verte morir!}
 {112}{}{¿Es que no escuchas? Resulta peligroso jugar con los nocturnos.}
 {113}{}{Debo hablar contigo. ¡Es urgente!}
-{114}{}{Nadie me ha acusado jamás de ser inteligente.}
+{114}{}{¡Nadie me ha acusado jamás de ser sabio!.}
 {115}{}{¡Solo quiero hablar con el jefe!}
 {116}{}{¿Piensas que eres fuerte o algo así?}
 {117}{}{¡Lo siento! Que tengas un buen día.}

@@ -114,7 +114,7 @@
 {1000}{}{Maître}
 {1001}{}{Guerre}
 {1002}{}{Disques|Disque|Holodisques|Holodisque}
-{1003}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1003}{}{Confrerie}
 {1004}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1005}{}{Elder}
 {1006}{}{Rhombus}
@@ -122,7 +122,7 @@
 {1008}{}{Armée|Armee|Armée des Mutants|Armée mutante}
 {1009}{}{Marchands|Marchand}
 {1010}{}{Caravanes Disparues|Caravanes|Caravane|Disparues|Disparu}
-{1011}{}{Centre}
+{1011}{}{Le Centre}
 {1012}{}{Children of the Cathedral}
 {1013}{}{Initiés|Initié|Inities|Initie}
 {1014}{}{Scribes}

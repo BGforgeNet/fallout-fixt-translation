@@ -29,7 +29,7 @@
 {128}{}{El Padre Fustigador dice que he de tener mi bocaza cerrada. ¡Habla en serio!}
 {129}{}{Vamos, chico. ¡Seguro que sabes algo!}
 {130}{}{¿El Padre Fustigador?}
-{131}{}{¡Qué divertido!}
+{131}{}{Diversión buena.}
 {132}{}{Parece que él y yo tenemos mucho en común.}
 {133}{}{¡Fantástico! Bendito seas por el Maestro. (Te ofrece una flor.)}
 {134}{}{¡Ay! No me resultas simpática. ¡Puede que tenga que informar a los Nocturnos sobre tu existencia!}
@@ -64,7 +64,7 @@
 {163}{}{¿Eh? ¿Qué dices?}
 {164}{}{La vida es muy dura. Aprende a vivir, chico, y deja de lamentarte.}
 {165}{}{¡He de hacerlo! ¡¡He de hacerlo!! ¡La falta de fe es muy dolorosa!}
-{166}{}{¡No lo hagas! ¡Él me quiere! ¡Es el único que me quiere!}
+{166}{}{¡No lo hagas!, ¡él me quiere!, ¡es el único que me quiere!.}
 {167}{}{Supongo que vale. Bendita seas por el Maestro. Adiós.}
 {168}{}{¡Gracias! ¡¡Gracias!! Bendita seas por el Maestro. Adiós.}
 {169}{}{Lo haré... *snif* Puede que el Padre Fustigador sea más amable conmigo cuando el Maestro se apodere del mundo.}
@@ -94,7 +94,7 @@
 {194}{}{También me resulta estúpido. ¿Qué estás haciendo aquí?}
 {195}{}{No trates así a los adultos, ¿eh?}
 {196}{}{¿Qué tipo de descerebrado eres? ¡Cuando crezcas te convertirás en uno de esos zombis! ¡Debería matarte ahora!}
-{197}{}{Regalo flores. Cada pétalo simboliza la paz, y el tallo es la unidad. ¿O es al revés? Oh no, ¡no me acuerdo! ¿Quieres una?}
+{197}{}{Regalo flores. Cada pétalo simboliza la paz, y el tallo es la unidad. ¿O es al revés?, ¡oh no!, ¡no recuerdo!, ¿quieres una?}
 {198}{}{Cogeré una si me cuentas lo que sucede aquí.}
 {199}{}{Claro.}
 {200}{}{No, gracias.}

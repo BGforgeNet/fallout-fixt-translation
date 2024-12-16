@@ -1,5 +1,5 @@
 {100}{}{You see: Butch.}
-{101}{}{Tell me about yourself.}
+{101}{}{Erzähl mir von dir.}
 {102}{}{Heard any good rumors?}
 {103}{}{What else is around here, besides the Hub?}
 {104}{}{What's in the Hub?}
@@ -72,7 +72,7 @@
 {171}{BUTCH22}{Yeah, yesterday! Get going!}
 {172}{BUTCH23}{Hmmm. Whatta ya want'a know?}
 {173}{}{Just curious.}
-{174}{}{Keine Ursache.}
+{174}{}{Nur so.}
 {175}{}{Never mind. I have some more questions.}
 {176}{BUTCH24}{Well, I've run the Far Go Traders for about five years. Before that I was in Adytum. Before that, near the Glow.}
 {177}{}{Noch irgendwas?}
@@ -261,7 +261,7 @@
 {1003}{}{Thieves}
 {1004}{}{Justin}
 {1005}{}{Harold}
-{1006}{}{Merchants}
+{1006}{}{Händler}
 {1007}{}{Daren}
 {1008}{}{Crimson}
 {1009}{}{Demetre}

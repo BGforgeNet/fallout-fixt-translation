@@ -3,7 +3,7 @@
 {102}{}{¡Tú! ¡He oído hablar de ti! ¡Matas a la gente y te la comes! ¡Madre Jain! ¡Madre Jain! ¡Ayúdame!}
 {103}{}{¿Quiere una flor, señor?}
 {104}{}{¿Quiere una flor, señora?}
-{105}{}{Vacío }
+{105}{}{Vacío}
 {106}{}{¿Qué tiene de especial este lugar?}
 {107}{}{¿Qué tiene esta flor de especial?}
 {108}{}{¿Qué quieres decir, chico?}

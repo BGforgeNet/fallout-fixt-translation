@@ -38,7 +38,7 @@
 {148}{}{Vertex Hardware Processing:}
 {149}{}{Shader Version 2.0:}
 {150}{}{Panel Scaling}
-{151}{}{None}
+{151}{}{Aucune}
 {152}{}{Fit}
 {153}{}{Fill}
 {154}{}{Movies}

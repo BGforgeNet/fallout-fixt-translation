@@ -36,7 +36,7 @@
 {306}{}{5mm}
 {307}{}{.40 cal}
 {308}{}{10mm}
-{309}{}{.44 cal}
+{309}{}{Kal.44}
 {310}{}{14mm}
 {311}{}{12-gauge}
 {312}{}{9mm}
@@ -90,20 +90,20 @@
 {492}{}{You see the remains of: %s.}
 {493}{}{You see nothing out of the ordinary.}
 {500}{}{Dead}
-{501}{}{Almost Dead}
+{501}{}{so gut wie tot}
 {502}{}{Severely Wounded}
 {503}{}{Wounded}
 {504}{}{Unhurt}
 {510}{}{AC Mod: %d}
 {511}{}{RV-Mod: %d}
 {512}{}{Dmg Mod: %d/%d}
-{518}{}{You look: %s }
+{518}{}{Du bist: %s}
 {519}{}{%s %s }
 {520}{}{You look: %s.}
 {521}{}{%s %s.}
-{522}{}{He looks: %s }
-{523}{}{She looks: %s }
-{524}{}{It looks: %s }
+{522}{}{Er ist: %s}
+{523}{}{Sie ist: %s}
+{524}{}{Es ist: %s}
 {525}{}{%s has %d/%d hit points.}
 {526}{}{Es hat %d/%d Schuss %s.}
 {530}{}{und hat schwer verletzte Gliedmaßen.}

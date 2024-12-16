@@ -15,6 +15,6 @@
 {114}{}{Nous ferons du Sanctuaire ce que nous voulons.}
 {115}{}{Merci pour ton aide.}
 {116}{}{Merci de nous débarrasser des Régulateurs.}
-{117}{}{Tu nous as sauvés !}
+{117}{}{Tu nous as sauvés.}
 {118}{}{C'est une bonne chose que les Régulateurs soient plus là.}
 {119}{}{Bienvenue au Nouveau Sanctuaire.}

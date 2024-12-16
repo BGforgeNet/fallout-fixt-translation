@@ -166,7 +166,7 @@
 {8301}{}{Multiple keys.}
 {8400}{}{Lock Picks}
 {8401}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks.}
-{8500}{}{Plastic Explosives}
+{8500}{}{Plastic}
 {8501}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. Includes a timer.}
 {8600}{}{Scout Handbook}
 {8601}{}{A book on the methods and ideals of Scouting. Very practical information regarding outdoor life.}
@@ -226,7 +226,7 @@
 {11301}{}{Robes from the Children of the Cathedral.}
 {11400}{}{Tangler's Hand}
 {11401}{}{A cybernetic manipulator, in the shape and form of a hand. Damaged due to the sloppy nature of the removal process.}
-{11500}{}{Super Sledge}
+{11500}{}{Super Marteau}
 {11501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback.                  - Min STR: 5.                - Weapon Knockback feature: knocks target away by 1 hex for every 5 points of damage.}
 {11600}{}{Ripper}
 {11601}{}{A Ripper(tm) vibro- knife. Powered by a small energy cell, the chainblade rips and tears into its target.   - Min STR: 4.               - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
@@ -409,13 +409,13 @@
 {20500}{}{Flare (Lit)}
 {20501}{}{A flare. Creates light for a short period of time. The paper is a little worn, but otherwise it is in good condition. It is lit.}
 {20600}{}{Dynamite (Ticking)}
-{20601}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer, which is ticking.}
+{20601}{}{Un explosif puissant, composé de nitroglycérine mélangée avec de la substance absorbante à base de kiselguhr. Comprend une minuterie, qui est activée.}
 {20700}{}{Geiger Counter (Active)}
 {20701}{}{A Wattz Electronics C-Radz model Geiger Counter. Detects the presence and strength of radiation fields. It is on.}
 {20800}{}{Motion Sensor (Active)}
 {20801}{}{A Wattz Electronics C-U model motion sensor. Detects the movement of biological material over a distance of meters using a tuned radar device. It is on.}
 {20900}{}{Plastic Explosives (Ticking)}
-{20901}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. Includes a timer, which is ticking.}
+{20901}{}{Un morceau de Cordex, une marque militaire d'explosifs au plastic. Très stable, très dévastateur. Comprend une minuterie, qui est activée.}
 {21000}{}{Stealth Boy (Active)}
 {21001}{}{A RobCo Stealth Boy 3001 personal stealth device. Generates a modulating field that transmits the reflected light from one side of an object to the other.}
 {21100}{}{Bones}

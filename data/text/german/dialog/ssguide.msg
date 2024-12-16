@@ -28,7 +28,7 @@
 {127}{}{Where can I get some better equipment?}
 {128}{}{Tell me about this place.}
 {129}{}{Tell me about the rest of the world.}
-{130}{}{Tell me about yourself.}
+{130}{}{Erzähl mir von dir.}
 {131}{}{That's all for now, thanks.}
 {132}{}{Well, if you can't get to a doctor, you will need to heal yourself. Stimpaks are a common healing item. Use them on yourself to heal minor wounds. First Aid is a slower method, but it is always available. For major wounds, like a broken leg, you will need to use your Doctor skill.}
 {133}{}{You will have to do what we do: Scavenge it, or trade for it. And if you are attacked, your foes might provide equipment - if you live long enough to loot the corpses. We are a peaceful community, so we mostly barter or trade for the items that we cannot produce.}

@@ -42,7 +42,7 @@
 {141}{}{¿Rhu?}
 {142}{}{Oh, no. Ya tengo bastantes problemas.}
 {143}{}{¡YA trabajo duro!}
-{144}{}{Lo siento, no quería decir eso. Él solo intenta ayudarte. }
+{144}{}{Lo siento, no quería decir eso. Él intentaba ayudarte.}
 {145}{}{Seguro, ¡tío vago!}
 {146}{}{Vale.}
 {147}{}{Sí, puede que tengas razón. Ahora parece excelente, pero me gustaría que no me gritara tanto.}
@@ -61,7 +61,7 @@
 {160}{}{Hola otra vez.}
 {161}{}{Los brahmines son geniales.}
 {162}{}{Dan me llevará al Halcón si hago un buen trabajo.}
-{163}{}{Dan me llevará en una caravana algún día.}
+{163}{}{¡Dan me llevará en una caravana algún día.}
 {164}{}{Cuando sea mayor seré aventurero.}
 {165}{}{¿De verdad? Vale. Espero que no le hicieras daño. En el fondo no es tan malo. Lo único es que grita mucho.}
 {166}{}{Hola de nuevo.}

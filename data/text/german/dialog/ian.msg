@@ -94,14 +94,14 @@
 {1012}{}{Master}
 {1013}{}{Unity}
 {1014}{}{Set}
-{1015}{}{Watershed}
+{1015}{}{Wasserstelle}
 {1016}{}{Necropolis}
-{1017}{}{Hall}
-{1018}{}{Library}
+{1017}{}{Halle}
+{1018}{}{Bibliothek}
 {1019}{}{Overseer}
-{1020}{}{Medic}
+{1020}{}{Mediziner}
 {1021}{}{Healing}
-{1022}{}{Vault}
+{1022}{}{(die) Vault}
 {1023}{}{Vault13}
 {1024}{}{Vault 13}
 {1025}{}{Killian}
@@ -118,7 +118,7 @@
 {1036}{}{Brotherhood}
 {1037}{}{Vats}
 {1038}{}{Military}
-{1039}{}{Base}
+{1039}{}{Basis}
 {1041}{}{Apocalypse}
 {1042}{}{Mutants}
 {1043}{}{Morpheus}
@@ -143,7 +143,7 @@
 {1062}{}{Psychics}
 {1063}{}{Experiments}
 {1064}{}{Police}
-{1065}{}{Merchants}
+{1065}{}{Händler}
 {1100}{}{No idea what a Water Chip is. Sorry, friend.}
 {1101}{}{Happened about a hundred years ago. Basically, a bunch of countries got kind of antsy, and everything went BOOM!}
 {1102}{}{A small and peaceful village. Probably the most promising community in the wastes.}

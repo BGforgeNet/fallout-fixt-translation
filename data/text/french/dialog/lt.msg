@@ -178,7 +178,7 @@
 {1000}{}{Unité}
 {1001}{}{FEV|VIRUS FEV|VIRUS EVOLUTION FORCE}
 {1002}{}{Maître}
-{1003}{}{Cathedral}
+{1003}{}{Cathedrale}
 {1004}{}{Vats}
 {1005}{}{Normaux}
 {1006}{}{Abris}

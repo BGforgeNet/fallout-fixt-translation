@@ -56,7 +56,7 @@
 {1107}{}{Hombre malo.}
 {1108}{}{No te lo digo.}
 {1109}{}{Menuda ciudad.}
-{1110}{}{¡No te lo digo!}
+{1110}{}{¡No hablaré!.}
 {1111}{}{No, no te lo digo.}
 {1112}{}{Mamá no quiere que hable de él.}
 {1113}{}{Papá piensa que es gracioso.}

@@ -6,7 +6,7 @@
 {105}{}{¿Cómo te atreves a molestarme? ¿No sabes lo importante que es mi posición? ¡Fuera!}
 {106}{}{No eres demasiado inteligente al apuntarme. El Maestro me protege, ¡y no puedo ser tocado sin retribución!}
 {107}{}{No me importaría gozar de la protección del Maestro.}
-{108}{}{Nadie me ha acusado jamás de ser inteligente.}
+{108}{}{¡Nadie me ha acusado jamás de ser sabio!.}
 {109}{}{Quiero hablar con el encargado.}
 {110}{}{¡Esa vara es muy bonita! ¿Por eso es por lo que te llaman "Fustigador"?}
 {111}{}{¿Es verdad que te gusta abusar de los niños?}

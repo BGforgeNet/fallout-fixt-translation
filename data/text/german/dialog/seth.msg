@@ -3,7 +3,7 @@
 {102}{}{Nothing good comes of your kind. I will kill you and rid the wasteland of one more monster.}
 {103}{}{Not very bright, eh? Well, watch out for the radscorpions, and stay out of trouble.}
 {104}{}{Scorpin!}
-{105}{}{Bye-bye.}
+{105}{}{Tschüssi!}
 {106}{}{You look like one of those raiders. We keep a close watch here in Shady Sands. What do you want?}
 {107}{}{I want all of your money!}
 {108}{}{I'd like some information.}

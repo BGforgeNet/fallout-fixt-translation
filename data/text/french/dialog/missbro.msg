@@ -35,7 +35,7 @@
 {134}{}{Rebonjour.}
 {135}{}{Je ne vais pas tarder à partir. J'attends juste d'avoir repris des forces.}
 {136}{}{Merci encore.}
-{1000}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1000}{}{Confrerie}
 {1001}{}{Acier}
 {1002}{}{Talus}
 {1100}{}{L'unique espoir de salut pour cette planète torturée et ses habitants. Sans eux, l'humanité périra.}

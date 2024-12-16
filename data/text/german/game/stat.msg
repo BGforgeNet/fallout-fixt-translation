@@ -39,16 +39,16 @@
 {200}{}{Raw physical strength. A high Strength is good for combat-based characters and packrats. Modifies: Hit Points, Melee Damage, and Carry Weight.}
 {201}{}{Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu schmecken und wahrzunehmen. Eine gute Wahrnehmung ist z.B. für Scharfschützen wichtig. Beeinflusst: Reaktions- und Distanzkampffaktoren.}
 {202}{}{Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer überlebt, wo andere längst sterben. Beeinflusst: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
-{203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflusst: Reaktionen von inaktiven Figuren und Preise beim Handeln.}
+{203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflusst: Reaktionen von Nicht-Spieler-Figuren und Preise beim Handeln.}
 {204}{}{Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für jede Figur wichtig. Beeinflusst: Anzahl der neuen Fähigkeitspunkte pro Level, Dialogoptionen und viele Fähigkeiten.}
 {205}{}{Coordination and the ability to move well. A high Agility is important for any active character. Modifies: Action Points, Armor Class, Sequence, and many skills.}
-{206}{}{Fate. Karma. An extremely high or low Luck will affect the character - somehow. Events and situations will be changed by how lucky (or unlucky) your character is.}
+{206}{}{Schicksal oder Karma. Ein extrem hoher oder niedriger Glückswert wirkt sich auf irgendeine Art auf die Figur aus. Ereignisse und Situationen ändern sich in Abhängigkeit davon, wie viel oder wenig Glück eine Figur hat.}
 {207}{}{How much damage your character can take before dying. If you reach 0 hit points or less, you are dead.}
 {208}{}{Represents the number of actions that your character can take during one combat turn. Different types of actions require different amounts of Action Points to perform.}
 {209}{}{Modifies the chance to successfully hit your character during ranged or melee combat. Higher is better.}
-{210}{}{The amount of bonus damage your character does in hand-to-hand combat.}
-{211}{}{The amount of bonus damage your character does in hand-to-hand combat.}
-{212}{}{The maximum amount of equipment your character can carry, in pounds.}
+{210}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
+{211}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
+{212}{}{Das Höchstgewicht der Ausrüstung, die deine Figur tragen kann, angegeben in Pfund.}
 {213}{}{Determines how soon in combat your character can take their turn. Higher is better. With a high enough Sequence, you can effectively "ambush" your opponents, getting two turns in a row.}
 {214}{}{When you rest, you heal this amount of hit points every four hours.}
 {215}{}{The chance to cause a critical hit in combat is equal to this amount. Critical hits always cause more damage, and can also blind, cripple, knock out or instantly kill an opponent. Ouch.}
@@ -90,8 +90,8 @@
 {403}{}{Reputation}
 {404}{}{Karma}
 {500}{}{Points earned by going up a Level. Can be used to increase a skill by 1%, or a tag skill by 2%, per point spent.}
-{501}{}{The general competency of the player character. A measure of your experience and abilities.}
+{501}{}{Die allgemeine Kompetenz einer Spielerfigur. Ein Maß für deine Erfahrung und Fähigkeiten.}
 {502}{}{A reward for completing specific tasks, or defeating enemies in combat. More experience is required to attain higher Levels.}
-{503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die Reaktionen von inaktiven Figuren.}
+{503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die Reaktionen von Nicht-Spieler-Figuren.}
 {504}{}{The effects of actions that you have taken. Important information will be displayed.}
 {600}{}{You have gained a level!}

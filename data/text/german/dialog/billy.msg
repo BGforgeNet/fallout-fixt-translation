@@ -75,5 +75,5 @@
 {174}{}{Hi again.}
 {175}{}{I'm going to be an adventurer when I grow up.}
 {176}{}{Brahmin sure do shi... uh, poop a lot.}
-{177}{}{Ich kann gerade nicht sprechen.}
+{177}{}{Ich kann gerade nicht mit dir sprechen.}
 {178}{}{I don't want to get in trouble.}

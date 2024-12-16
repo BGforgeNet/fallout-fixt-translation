@@ -27,7 +27,7 @@
 {1006}{}{Khans}
 {1007}{}{Garl}
 {1008}{}{Sables Ombragés}
-{1009}{}{Centre}
+{1009}{}{Le Centre}
 {1010}{}{Tandi}
 {1011}{}{Aradesh}
 {1012}{}{Seth}
@@ -38,11 +38,11 @@
 {1017}{}{Enfants}
 {1018}{}{Nécropolis}
 {1019}{}{Rouge}
-{1020}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
-{1021}{}{Cimetière de L.A.}
+{1020}{}{Confrerie}
+{1021}{}{Cimetierre}
 {1022}{}{Towers}
 {1023}{}{Ville}
-{1024}{}{Downtown}
+{1024}{}{Centre-ville}
 {1025}{}{Hauteurs}
 {1026}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1027}{}{L.A. Boneyard}

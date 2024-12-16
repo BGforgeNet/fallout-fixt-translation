@@ -1,10 +1,10 @@
 {200}{}{Cavern, Vault Door}
 {201}{}{Entrance, Medical}
-{202}{}{Living Quarters}
+{202}{}{Unterkünfte}
 {203}{}{Library, Supplies, Command}
 {210}{}{Old Shack}
-{211}{}{Cavern Entrance}
-{212}{}{Living Quarters}
+{211}{}{Höhleneingang}
+{212}{}{Unterkünfte}
 {213}{}{Library, Supplies, Command}
 {220}{}{Entrance, Town Hall}
 {221}{}{Garden}
@@ -29,11 +29,11 @@
 {273}{}{Level 3}
 {274}{}{Level 4}
 {280}{}{Entrance}
-{281}{}{Stronghold Level 1}
-{282}{}{Stronghold Level 2}
-{283}{}{Vats Level 1}
-{284}{}{Vats Level 2}
-{290}{}{Crater}
+{281}{}{Festung, Ebene 1}
+{282}{}{Festung, Ebene 2}
+{283}{}{Container, Ebene 1}
+{284}{}{Container, Ebene 2}
+{290}{}{Krater}
 {291}{}{Level 1}
 {292}{}{Level 2}
 {293}{}{Level 3}
@@ -42,15 +42,15 @@
 {296}{}{Level 6}
 {300}{}{Adytum}
 {301}{}{Downtown}
-{302}{}{Library}
-{303}{}{Fortress}
-{304}{}{Warehouse}
+{302}{}{Bibliothek}
+{303}{}{Festung}
+{304}{}{Lager}
 {310}{}{Entrance}
-{311}{}{Interior}
+{311}{}{Inneres}
 {500}{}{You have stopped the Super Mutant threat.}
 {501}{}{Ruins}
 {1000}{}{Desert}
 {1001}{}{Mountains}
 {1002}{}{City}
-{1003}{}{Coast}
+{1003}{}{Küste}
 {1004}{}{Unbekannt}

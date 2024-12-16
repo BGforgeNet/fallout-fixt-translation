@@ -31,7 +31,7 @@
 {1600}{}{Screens}
 {1601}{}{A series of three display monitors, showing various bits of data.}
 {1700}{}{Screens}
-{1701}{}{A set of three display monitors, showing various bits of data from around the Vault.}
+{1701}{}{Eine Reihe von drei Bildschirmen, die diverse Daten aus der Vault anzeigen.}
 {1800}{}{Door}
 {1801}{}{After closer examination, it's still a door.}
 {1900}{}{Door}
@@ -951,7 +951,7 @@
 {48700}{}{Monitor}
 {48701}{}{Ein großer Schwarz-Weiß-Fernseher. Der Empfang ist recht gut, wenn man bedenkt, dass er ohne Antenne in einem Innenraum steht.}
 {48800}{}{Monitor}
-{48801}{}{A large monitor, black and white only. The robed figure is reciting religious dogma at a feverish pace.}
+{48801}{}{Ein großer Schwarz-Weiß-Fernseher. Die Gestalt in einer Robe betet mit fieberhafter Geschwindigkeit religiöse Dogmen herunter.}
 {48900}{}{Force Field}
 {48901}{}{This is a powerful field of energy, preventing any living or non-living matter from passing through.}
 {49000}{}{Force Field}
@@ -1556,7 +1556,7 @@
 {79700}{}{Table}
 {79701}{}{This table was badly damaged.}
 {79800}{}{Table}
-{79801}{}{This table is in very poor condition.}
+{79801}{}{Der Tisch befindet sich in einem ausgesprochen schlechten Zustand.}
 {79900}{}{Table}
 {79901}{}{There is no reason to search this table.}
 {80000}{}{Monitors}
@@ -1612,9 +1612,9 @@
 {82500}{}{Wall}
 {82600}{}{Bank Door}
 {82601}{}{A very sturdy bank vault door. The door looks very secure.}
-{82700}{}{Light}
+{82700}{}{Leuchte}
 {82701}{}{A security light.}
-{82800}{}{Light}
+{82800}{}{Leuchte}
 {82801}{}{A security light.}
 {82900}{}{Pillar}
 {82901}{}{This pillar is the showpiece of the Shady Sands square. It tells stories to remind the people of hope and peace.}
@@ -1688,7 +1688,7 @@
 {87600}{}{Sign}
 {87601}{}{This very unlikely sign reads: Bob's Pre-Owned Car Mart.}
 {87700}{}{Sign}
-{87701}{}{This is the sign of the Water Merchants, a Hub trading company.}
+{87701}{}{Das ist das Zeichen der Water Merchants, einer Handelsgesellschaft im Hub.}
 {87800}{}{Eggshell}
 {87801}{}{Pieces of a broken Deathclaw egg.}
 {87900}{}{Eggshell}
@@ -1746,7 +1746,7 @@
 {90501}{}{This bed has a built-in display for monitoring the patient's progress.}
 {90600}{}{Power Armor Parts}
 {90601}{}{These are parts to a suit of Power Armor.}
-{90700}{}{Light}
+{90700}{}{Leuchte}
 {90701}{}{This security light is currently pulsating a bright red.}
-{90800}{}{Light}
+{90800}{}{Leuchte}
 {90801}{}{This security light is currently pulsating a bright red.}

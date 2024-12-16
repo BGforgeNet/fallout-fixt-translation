@@ -15,7 +15,7 @@
 {114}{}{Tu humilde caminos, será erradicada de la faz de la tierra!}
 {115}{}{Sólo los Tontos tienen el verdadero conocimiento de la regla Chatarra.}
 {116}{}{Begone intestino limo de tres patas de pollo!}
-{117}{}{What happened to you? Your mama drop you on your head at birth?}
+{117}{}{¿Qué te pasó? ¿Tu madre te dejó caer de cabeza al nacer?}
 {118}{}{}
 {119}{}{}
 {120}{}{}

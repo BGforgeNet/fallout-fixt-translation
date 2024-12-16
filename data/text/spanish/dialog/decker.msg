@@ -10,7 +10,7 @@
 {109}{}{No particularmente.}
 {110}{DECK_3}{Te cuento: Cierto mercader... como diría yo... no coopera demasiado con los Clandestinos.}
 {111}{}{¿Y el trabajo?}
-{112}{DECK_4}{Es muy sencillo. Buscar al mercader y a su esposa y exterminarlos.}
+{112}{DECK_4}{Muy simple. Buscar al mercader y a su esposa, luego exterminarlos. }
 {113}{}{¿Quieres decir matarlos?}
 {114}{}{¿Cuánto por el trabajo?}
 {115}{}{¡No puedo hacer eso!}
@@ -58,7 +58,7 @@
 {157}{}{¿Puedo hacerte más preguntas?}
 {158}{}{Desde luego. Un guía turístico sería más agradable.}
 {159}{DECK_21}{No. Por favor, coge tus chapas y vete.}
-{160}{DECK_22}{¿Perdón?}
+{160}{DECK_22}{¿Perdón? }
 {161}{}{Ya me has oído.}
 {162}{}{Nada. ¿Puedo preguntarte algo más?}
 {163}{DECK_23}{Eres un arrogante. Mi ayudante te llevará por la... quiero decir... a la puerta.}

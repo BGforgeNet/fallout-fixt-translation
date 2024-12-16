@@ -8,10 +8,10 @@
 {107}{}{Nuestro sueldo es el mejor, 600 chapas... y sí, eso es solo por la ida y la vuelta... pero no hay obligación de hacer los dos. La ruta de esta caravana es bastante dura y seguramente tendremos que enfrentarnos a saqueadores... o cosas peores. No pasamos ni un error y será mejor que tengas bastante munición.}
 {108}{}{ Nos vamos hoy. ¿Te interesa?}
 {109}{}{ Nos vamos en }
-{110}{}{Vacío }
-{111}{}{Vacío }
+{110}{}{Vacío}
+{111}{}{Vacío}
 {112}{}{. ¿Te interesa?}
-{113}{}{We're all heading out today. Are you still interested?}
+{113}{}{Nos vamos hoy. ¿Te interesa?}
 {114}{}{Vamos a partir en }
 {115}{}{}
 {116}{}{}
@@ -104,8 +104,8 @@
 {203}{}{Arrastra.}
 {204}{}{¿Listo? Nos vamos hoy.}
 {205}{}{¡Sí!}
-{206}{}{No.}
-{207}{}{¡Hurra!}
+{206}{}{Nop.}
+{207}{}{¿Hurra?}
 {208}{}{Llegas un día antes. Vuelve mañana si todavía quieres el trabajo. Si no, no vengas. No te daré nada.}
 {209}{}{Eh, llegas demasiado pronto. No los voy a enviar hasta en }
 {210}{}{día 3}

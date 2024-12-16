@@ -45,7 +45,7 @@
 {144}{}{Comme tu veux. Je ferai de mon mieux... mais je sais pas si ça suffira.}
 {145}{}{Je comprends.}
 {146}{Over_26}{Il faudra. Si t'échoues, c'est la fin de l'Abri.}
-{147}{}{Pigé.}
+{147}{}{Compris.}
 {148}{}{Qu'importe.}
 {149}{Over_27}{Bien, maintenant vas-y !}
 {150}{Over_28}{T'as trouvé la puce ?}

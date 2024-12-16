@@ -33,7 +33,7 @@
 {132}{}{Oh, boucle-la !}
 {133}{}{N'essaie pas de jouer au plus malin avec moi. Y'en a marre...}
 {134}{}{Nous sommes "l'humanité", mais quel sectarisme primaire ! Nous sommes tous des humains, tous autant que toi.}
-{135}{}{Epargne-moi ces salades !}
+{135}{}{Epargne-moi ces salades?}
 {136}{}{C'est impossible que tu sois un humain.}
 {137}{}{Je m'appelle Kyle. Je suis né d'une mère et d'un père, comme toi. Le Maître a simplement supervisé ma renaissance. Avec ces muscles, cette peau et cette force, je suis un humain comme toi. Moi, je n'aime pas ce qu'implique l'Unité mais je pense que c'est le meilleur moyen pour garantir la paix.}
 {138}{}{Tant que je serai en vie, ça ne se passera pas comme ça. Je suis ici pour en finir avec toi et ton espèce.}

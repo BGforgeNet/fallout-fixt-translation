@@ -10,19 +10,19 @@
 {109}{}{Por alguna razón le gustas al perro.}
 {110}{}{Ves: a Albóndiga.}
 {111}{}{¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf! ¡Arf!}
-{112}{}{[Snif. Snif.] ¡Grrrr! ¡Grrrr!}
+{112}{}{[Huele. Huele.] ¡Grrrr! [¡Gruñe!]}
 {113}{}{[Snif. Snif.] ¡Guau!}
 {114}{}{Ganas 100 puntos de experiencia por ayudar a Phil a solucionar su enigma canino.}
 {115}{}{Parece que el perro cree que eres su dueño.}
 {116}{}{Ganas 100 puntos de experiencia por ayudar a Phil a solucionar su enigma canino.}
-{117}{}{¡Guau! ¡Guau! ¡Guau!}
+{117}{}{¡Guau-guau! ¡Guau!}
 {118}{}{Venga, Dogmeat. Buen chico.}
 {119}{}{Dogmeat, siéntese! Buen chico. Estaré de vuelta pronto.}
 {120}{}{¡Vámonos, Dogmeat!}
 {121}{}{¡¡¡Cachorrito!!!}
 {122}{}{¿Guau?}
 {123}{}{¿Arf?}
-{124}{}{¡Guau! ¡Guau! ¡Guau!}
+{124}{}{¡Guau-guau! ¡Guau!}
 {300}{}{¡¡Perrito!! ¿perrito ser amigo?}
 {301}{}{¡Perrito quedar! no mover.}
 {302}{}{Muévete, Dogmeat. Buen chico.}

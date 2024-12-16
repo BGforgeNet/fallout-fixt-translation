@@ -36,7 +36,7 @@
 {986}{}{Was, hmm?}
 {987}{}{Uh... nicht ich wissen.}
 {988}{}{Nicht ich wissen.}
-{989}{}{Was das sein?}
+{989}{}{Was das?}
 {990}{}{}
 {991}{}{}
 {992}{}{}

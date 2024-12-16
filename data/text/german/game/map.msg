@@ -85,8 +85,8 @@
 {117}{}{Cathedral}
 {118}{}{Cathedral}
 {119}{}{City}
-{120}{}{Coast}
-{121}{}{Coast}
+{120}{}{Küste}
+{121}{}{Küste}
 {122}{}{Desert}
 {123}{}{Desert}
 {124}{}{The Khans}
@@ -151,12 +151,12 @@
 {216}{}{The Watershed}
 {217}{}{Sewers under Watershed}
 {218}{}{Entrance, Medical}
-{219}{}{Living Quarters}
+{219}{}{Unterkünfte}
 {220}{}{Library, Supplies, Command}
 {221}{}{Old Shack}
-{222}{}{Cavern Entrance}
-{223}{}{Cavern Entrance}
-{224}{}{Living Quarters}
+{222}{}{Höhleneingang}
+{223}{}{Höhleneingang}
+{224}{}{Unterkünfte}
 {225}{}{Library, Supplies, Command}
 {226}{}{Library, Supplies, Command}
 {227}{}{Level 1 (Sewer Entrance)}
@@ -219,17 +219,17 @@
 {284}{}{Adytum}
 {285}{}{Underground}
 {286}{}{}
-{287}{}{Library}
+{287}{}{Bibliothek}
 {288}{}{Underground}
 {289}{}{}
 {290}{}{Entrance}
 {291}{}{Entrance}
 {292}{}{Entrance}
-{293}{}{Stronghold Level 1}
-{294}{}{Stronghold Level 2}
+{293}{}{Festung, Ebene 1}
+{294}{}{Festung, Ebene 2}
 {295}{}{}
-{296}{}{Vats Level 1}
-{297}{}{Vats Level 2}
+{296}{}{Container, Ebene 1}
+{297}{}{Container, Ebene 2}
 {298}{}{}
 {299}{}{Lair Level 1}
 {300}{}{Lair Level 2}
@@ -267,15 +267,15 @@
 {332}{}{Downtown}
 {333}{}{Downtown}
 {334}{}{Downtown}
-{335}{}{Warehouse}
+{335}{}{Lager}
 {336}{}{Underground}
 {337}{}{}
-{338}{}{Fortress}
-{339}{}{Fortress}
-{340}{}{Fortress}
-{341}{}{Crater}
-{342}{}{Crater}
-{343}{}{Crater}
+{338}{}{Festung}
+{339}{}{Festung}
+{340}{}{Festung}
+{341}{}{Krater}
+{342}{}{Krater}
+{343}{}{Krater}
 {344}{}{Ruins}
 {345}{}{Ruins}
 {346}{}{Ruins}

@@ -37,7 +37,7 @@
 {136}{}{Es demasiado pronto. Conozcámonos un poco primero.}
 {137}{}{Hola. Debido al VEF he cambiado y los que me cabrean mueren. No me cabrees, pequeño idiota.}
 {138}{}{Averígualo en otro lugar. A Ton no le gusta tu compañía.}
-{139}{}{Vale. ¿Quieres seguir? A veces es necesario matar. A veces incluso me gusta. Pero he oído que a ti te ENCANTA matar... siempre. Cada vez que topo con un psicópata, muere él o muere Ton. Ton aún está aquí. ¿Así que por qué no te vas a otra parte?}
+{139}{}{Vale. ¿Quieres sinceridad?, a veces es necesario matar. A veces incluso me gusta. Pero he oído que te ENCANTA matar... siempre. Cada vez que conozco un psicópata, muere él o muere Ton. Ton sigue vivo. ¿Así que por qué no te vas a otra parte?}
 {140}{}{Colega, podría intentar hacer que me gustaras. O eres totalmente imbécil o tienes muchas agallas. De todos modos le va bien a Ton, mientras no me traigas problemas. ¿Quieres unirte a mí?}
 {141}{}{¿Qué hay de la paz y del amor?}
 {142}{}{¿De qué se trata?}

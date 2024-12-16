@@ -50,8 +50,8 @@
 {1006}{}{Apocalypse}
 {1007}{}{Necropolis}
 {1008}{}{Set}
-{1009}{}{Watershed}
-{1010}{}{Hall}
+{1009}{}{Wasserstelle}
+{1010}{}{Halle}
 {1011}{}{The Boneyard}
 {1012}{}{L.A. Boneyard}
 {1100}{}{That is us.}

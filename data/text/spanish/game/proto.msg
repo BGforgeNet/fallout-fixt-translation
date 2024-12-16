@@ -36,7 +36,7 @@
 {306}{}{5mm}
 {307}{}{Calibre .40}
 {308}{}{10mm}
-{309}{}{Calibre .44}
+{309}{}{.44 cal}
 {310}{}{14mm}
 {311}{}{Calibre 12}
 {312}{}{9mm}
@@ -90,7 +90,7 @@
 {492}{}{Ves los restos de: %s.}
 {493}{}{No ves nada fuera de lo normal.}
 {500}{}{no tener pulso}
-{501}{}{estar a punto de morir}
+{501}{}{Moribundo}
 {502}{}{tener heridas graves}
 {503}{}{tener heridas}
 {504}{}{gozar de buena salud}

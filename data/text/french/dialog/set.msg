@@ -23,7 +23,7 @@
 {122}{}{Euh, ok.}
 {123}{}{Ben, euh nan !}
 {124}{Set06}{Excellent. Tu donnes à ces mutants leur dernière leçon et tu r'viens... Hmm. Si je dis à mes Goules de te fout' la paix, les mutants risquent de l'apprendre. Alors tu sais quoi, j'te fais une fleur. Je dirai rien. Compris ?}
-{125}{}{Pigé.}
+{125}{}{Compris.}
 {126}{}{Et les Goules ?}
 {127}{}{Euh, ok.}
 {128}{}{Hein ?}
@@ -42,7 +42,7 @@
 {141}{}{Qu'est-ce que je peux faire ? Et toi, qu'est-ce que tu feras pour moi ?}
 {142}{}{Ca me semble pas dans mes cordes. C'est pas mon problème.}
 {143}{Set12}{Les Mutants au réservoir ont besoin de bouffer de la poussière. Mon influence doit grandir. T'en fais du saucisson et tu reçois ta récompense. Et des infos, aussi.}
-{144}{}{C'est terminé !}
+{144}{}{C'est terminé.}
 {145}{}{Trop dangereux. A un de ces quatre.}
 {146}{Set13}{Tu cherches du boulot ? Alors fais tes preuves. Tu démolis les mutants au réservoir. Tu leur fais passer un sale quart d'heure et je te récompenserai.}
 {147}{}{Ca me va.}
@@ -51,7 +51,7 @@
 {150}{}{Heu, je pense pas. Qu'est-ce que je peux faire pour toi ?}
 {151}{}{Ouais. Ca te fait pas mal de te regarder dans la glace ?}
 {152}{Set15}{J'me marre tellement, à m'en décrocher la mâchoire. Recommence, et mes Elites te f'ront ta fête. Pigé ?}
-{153}{}{Pigé.}
+{153}{}{Compris.}
 {154}{}{Je n'ai pas tout bien compris...}
 {155}{}{C'est vrai que t'as la gueule sacrément arrangée.}
 {156}{Set16}{J'm'appelle Set. Toi, c'est "Sale-Quart-d'Heure". T'acceptes le coup et je change ton surnom. Tu m'écoutes ?}
@@ -126,7 +126,7 @@
 {225}{Set42a}{C'est pas le moment. Fous-le camp.}
 {226}{}{J'ai droit à certaines informations.}
 {227}{}{Et si je te piétinais la tronche ?}
-{228}{}{Pigé.}
+{228}{}{Compris.}
 {229}{}{Gnn... Ah bon ?}
 {230}{Set43}{Vite fait, bien fait. Quoi ?}
 {231}{}{T'aurais pas buté les mutants toi-même. Je m'interroge : pourquoi ? Réponse : quelqu'un te fout les pétoches. Pourquoi ?}
@@ -138,7 +138,7 @@
 {237}{}{Je pense que c'est une menace !}
 {238}{Set45}{Tu comprends vraiment pas. Si tu veux pas que Nécropolis t'enterre, fous le camp ! J'ai pas de temps à perdre pour quelques foutues panses crevées !}
 {239}{}{Et pour ta panse toi ?}
-{240}{}{Pigé.}
+{240}{}{Compris.}
 {241}{}{Frappe-moi.}
 {242}{Set45a}{Avec plaisir...}
 {243}{Set46}{Pas de bluff, pas de mensonge ! Le Maître me fait pas peur. Dégage ! Mon sens de l'hospitalité a des limites !}
@@ -225,10 +225,10 @@
 {1003}{}{Nécropolis}
 {1004}{}{Guerre}
 {1005}{}{Unité}
-{1006}{}{Centre}
-{1007}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1006}{}{Le Centre}
+{1007}{}{Confrerie}
 {1008}{}{Réservoir}
-{1009}{}{Cathedral}
+{1009}{}{Cathedrale}
 {1010}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1011}{}{Hall}
 {1012}{}{Enfants}

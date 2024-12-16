@@ -176,7 +176,7 @@
 {1001}{}{Maître}
 {1002}{}{Goules}
 {1003}{}{Loxley}
-{1004}{}{Cathedral}
+{1004}{}{Cathedrale}
 {1005}{}{Abri}
 {1006}{}{Guerre}
 {1007}{}{Decker}

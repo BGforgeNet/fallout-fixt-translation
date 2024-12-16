@@ -27,7 +27,7 @@
 {126}{}{I'm on guard duty.}
 {127}{}{Was sagst du?}
 {128}{}{You got something to say, say it fast.}
-{129}{}{Was ist hier los?}
+{129}{}{Was geht hier vor?}
 {130}{}{I want to speak with the Master.}
 {131}{}{I want to speak with whomever's in charge here.}
 {132}{}{It! It-it-it-it-it-it-it!}
@@ -37,7 +37,7 @@
 {136}{}{Who's this Lasher character?}
 {137}{}{Fine. What do you want?}
 {138}{}{Have you noticed any unusual happenings around here?}
-{139}{}{Was ist hier los?}
+{139}{}{Was geht hier vor?}
 {140}{}{Where's the Master?}
 {141}{}{Just looking for a friend.}
 {142}{}{To finish what the nuke started.}
@@ -71,7 +71,7 @@
 {170}{}{Was sagst du?}
 {171}{}{Fine. What do you want?}
 {172}{}{Have you noticed any unusual happenings around here?}
-{173}{}{Was ist hier los?}
+{173}{}{Was geht hier vor?}
 {174}{}{Where's the Master?}
 {175}{}{Just looking for a friend.}
 {176}{}{To see your head drop off your shoulders, so I can kick it around this room like a soccer ball until your skull has been completely smashed to pieces!}
@@ -93,7 +93,7 @@
 {192}{}{Too bad. I was hoping that you stiffs would have some balls.}
 {193}{}{And I thought I was nuts! You'd better get outta here before someone kills you!}
 {194}{}{Please don't kill me! I'll tell you what you want to know.}
-{195}{}{Was ist hier los?}
+{195}{}{Was geht hier vor?}
 {196}{}{Where's the Master?}
 {197}{}{Who's in charge here?}
 {198}{}{Who the hell wants to know anything? I just like to smell a person's fear before I kill them. Man, what a high!}
@@ -132,7 +132,7 @@
 {231}{}{There ain't any booze man! Life's a bigger bitch than Lasher! Now why don't you go find someone else to talk to you, you little puke? Get outta here!}
 {232}{}{Don't give me bullshit, pal. What do you really want?}
 {233}{}{Have you noticed any unusual happenings around here?}
-{234}{}{Was ist hier los?}
+{234}{}{Was geht hier vor?}
 {235}{}{Where's the Master?}
 {236}{}{Just looking for a friend.}
 {237}{}{All I want is some booze. Maybe some radscorpion juice?}
@@ -160,7 +160,7 @@
 {259}{}{Thought so. Why don't you just go back to your zombie chants and leave the real work to guys like me.}
 {260}{}{Yeah. I heard that about you. You may've killed your share of radscorpions, but I'm badder! What's your angle? Why are you here?}
 {261}{}{Have you noticed any unusual happenings around here?}
-{262}{}{Was ist hier los?}
+{262}{}{Was geht hier vor?}
 {263}{}{Where's the Master?}
 {264}{}{Just looking for a friend.}
 {265}{}{I heard the booze is pretty good around here.}

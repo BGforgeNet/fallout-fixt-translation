@@ -7,7 +7,7 @@
 {106}{}{Te daremos 400 pavos del Eje. Dirás que no es mucho, pero viajamos a menudo y no te vas a jugar la vida por menos. Pero ganas esas chapas por cada viaje; no es que tengas que ir y volver, pero ganarás 800 si lo haces.}
 {107}{}{ Partimos hoy. ¿Te interesa?}
 {108}{}{ Salimos en }
-{109}{}{Vacío }
+{109}{}{Vacío}
 {110}{}{}
 {111}{}{. ¿Te interesa?}
 {112}{}{Aún te ofrezco trabajo, aunque... no importa. ¿Te interesa?}

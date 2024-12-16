@@ -89,14 +89,14 @@
 {188}{JAIN201}{Cette question est déplacée.}
 {1000}{}{Guerre}
 {1001}{}{Maître}
-{1002}{}{Cathedral}
+{1002}{}{Cathedrale}
 {1003}{}{Mutants}
-{1004}{}{Centre}
+{1004}{}{Le Centre}
 {1005}{}{Acier}
 {1006}{}{Vats}
 {1007}{}{Sacrée}
 {1008}{}{Unité}
-{1009}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1009}{}{Confrerie}
 {1010}{}{Flamme}
 {1011}{}{Enfants}
 {1100}{JAIN300}{C'était la purification de la planète. Par leur inattention, ceux qui sont venus avant ont attiré les Feux Sacrés. Ce n'était que justice.}

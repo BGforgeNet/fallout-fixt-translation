@@ -40,7 +40,7 @@
 {140}{}{Cabbot}
 {141}{}{Niño de la Catedral}
 {142}{}{Decker}
-{143}{}{Anciano}
+{143}{}{Elder}
 {144}{}{Gizmo}
 {145}{}{Harold}
 {146}{}{Jain}
@@ -531,7 +531,7 @@
 {631}{}{Centinela Supermutante}
 {632}{}{Sargento de los Nocturnos}
 {633}{}{Centinela Supermutante}
-{634}{}{Holodisk}
+{634}{}{Holodisco}
 {635}{}{Garret}
 {636}{}{Guardia Nocturno}
 {637}{}{un campo de fuerza}
@@ -741,9 +741,9 @@
 {841}{}{Generador}
 {842}{}{Computadora}
 {843}{}{Maletín}
-{844}{}{Holodisk}
-{845}{}{Holodisk}
-{846}{}{Holodisk}
+{844}{}{Holodisco}
+{845}{}{Holodisco}
+{846}{}{Holodisco}
 {847}{}{Refrigerador}
 {848}{}{una estantería}
 {849}{}{Saqueador}

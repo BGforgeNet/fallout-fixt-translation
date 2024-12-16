@@ -59,7 +59,7 @@
 {158}{}{Je propose quelque chose d'égale valeur.}
 {159}{}{Tu auras le droit de vivre.}
 {160}{}{Justice ?! C'est moi qui décide de ce qui est juste. Tu t'avances en terrain dangereux.}
-{161}{}{Je regrette.}
+{161}{}{Quel dommage.}
 {162}{}{Qu'est-ce que j'en ai à faire ? J'emmène la fille.}
 {163}{}{Oui, je le vois. Je n'admets pas les chiffes molles. Et ce qui n'est pas admis doit être détruit. A mort !}
 {164}{}{Tu me défierais au combat pour elle ?}
@@ -110,7 +110,7 @@
 {1001}{}{Garl}
 {1002}{}{Dépôtville}
 {1003}{}{Sables}
-{1004}{}{Centre}
+{1004}{}{Le Centre}
 {1005}{}{Eau}
 {1006}{}{Tandi}
 {1007}{}{Ombragés}

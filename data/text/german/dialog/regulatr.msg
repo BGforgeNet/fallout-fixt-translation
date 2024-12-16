@@ -8,7 +8,7 @@
 {107}{}{Zimmerman might have a use for you. Come inside, but remember, we're watching.}
 {108}{}{Welcome back! You're welcome here any time.}
 {109}{}{Don't you have a job to do? Come back here when you've dealt with the it.}
-{110}{}{Go away!}
+{110}{}{Hau ab!}
 {111}{}{What do you want now?}
 {112}{}{I'd like to enter.}
 {113}{}{}

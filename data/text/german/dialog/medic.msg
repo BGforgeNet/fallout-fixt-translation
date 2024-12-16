@@ -40,7 +40,7 @@
 {139}{}{Okay, do it.}
 {140}{}{How long?}
 {141}{}{How long will it take, and how much radiation can you remove?}
-{142}{}{Na.}
+{142}{}{Nö.}
 {143}{}{Ya.}
 {144}{}{Okay, fine; it's your body.}
 {145}{}{It will take about }
@@ -71,7 +71,7 @@
 {170}{}{ RadAway would work a little faster, but we don't have any to spare. Shall we get started?}
 {171}{}{Hmph.}
 {172}{}{Looking for more of a kick? What kind of trouble have you been getting into? I shouldn't do this, but here, take these. No more for you, though, and be careful.}
-{1000}{}{Medic}
+{1000}{}{Mediziner}
 {1001}{}{Healing}
 {1100}{}{I'm here at all times, to offer assistance and healing.}
 {1101}{}{I can heal you if you are injured.}

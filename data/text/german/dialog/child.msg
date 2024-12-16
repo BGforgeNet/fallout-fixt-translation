@@ -23,7 +23,7 @@
 {1002}{}{Junktown}
 {1003}{}{Brahmin}
 {1004}{}{Chip}
-{1005}{}{Merchants}
+{1005}{}{Händler}
 {1006}{}{Khans}
 {1007}{}{Garl}
 {1008}{}{Shady Sands}

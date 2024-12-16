@@ -11,7 +11,7 @@
 {110}{}{Solo soy una exploradora.}
 {111}{}{Estoy buscando un Chip de Agua de repuesto para mi Refugio.}
 {112}{}{Aprendes a tener cuidado aquí. Bueno, ¿qué haces por aquí?}
-{113}{}{All right, fair enough. I'm called Katja. What's it matter to you?}
+{113}{}{De acuerdo, es justo. Me llaman Katja. ¿Qué pasa contigo?}
 {114}{}{¿Por qué eres tan hostil?}
 {115}{}{Eh, si vas a ser desagradable, nos vemos más tarde.}
 {116}{}{Estoy buscando información. ¿Puedes ayudarme?}
@@ -51,7 +51,7 @@
 {150}{}{No te preocupes por eso. Gracias de todos modos.}
 {151}{}{¿Puedo hacerte primero algunas preguntas?}
 {152}{}{Adytum está controlado por tres bandas: los Navajas, los Destripadores y los Pistoleros, además es el hogar de los Seguidores y también el mío.}
-{153}{}{All right, looks like we've got a little ass-kicking to do!}
+{153}{}{De acuerdo, ¡parece que tenemos que trabajar un poco!}
 {154}{}{Mira, un 90% de la gente de esta ciudad pertenece a una de estas tres categorías: violadores, asesinos o ladrones. Yo soy ladrona y tú pareces muy educada, por lo que me haces dudar, ¿vale? Llámalo instinto de supervivencia.}
 {155}{}{Siento haberte interrumpido. Imagino que me marcharé ahora mismo.}
 {156}{}{Bueno, ¿pero puedo hacer al menos unas preguntas?}
@@ -77,7 +77,7 @@
 {176}{}{Esa comida huele bien.}
 {177}{}{¿Qué técnicas de combate posees?}
 {178}{}{Aprendí todo lo que sé durante mi estancia en el Cementerio de LA. Soy buena con los cuchillos y las ametralladoras. Por supuesto, lo que más me gusta es lanzar cuchillos.}
-{179}{}{All right, although I don't feel right without a good knife.}
+{179}{}{De acuerdo, aunque no me siento bien sin un buen cuchillo.}
 {180}{}{Consigues 200 puntos de experiencia por conseguir a Katja, la carroñera del Cementerio de LA.}
 {181}{}{¿Qué quieres ahora?}
 {182}{}{He cambiado de opinión. Todavía quiero tu ayuda.}

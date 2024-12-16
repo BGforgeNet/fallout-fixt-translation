@@ -34,7 +34,7 @@
 {133}{}{Uhh... yo no tengo hambre ahora.}
 {134}{}{¡Bien! ¡Toma tu dinero y lárgate!}
 {135}{}{¡Entérate! ¡Nunca voy a pagarte! ¡Piérdete!}
-{136}{}{Sí, claro. ¿Por qué no vas a molestar a otro?}
+{136}{}{Sí, claro. ¿Por qué no vas a molestar a otro?.}
 {137}{}{No puedes manejar mierda sin pringarte las manos. ¡Sal de aquí!}
 {138}{}{Seguro que sí. ¡Piérdete!}
 {139}{}{Lo siento. Nos hemos quedado sin iguana.}

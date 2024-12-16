@@ -41,7 +41,7 @@
 {1000}{}{Overseer}
 {1001}{}{Vault13}
 {1002}{}{Vault 13}
-{1003}{}{Vault}
+{1003}{}{(die) Vault}
 {1100}{}{The Overseer just wants to keep everyone under his control in here. We need to go out into the world for ourselves.}
 {1101}{}{The Vault has been our home, but it just won't last any longer. It's time to make a new home.}
 {1102}{}{The Vault has been our home, but it just won't last any longer. It's time to make a new home.}

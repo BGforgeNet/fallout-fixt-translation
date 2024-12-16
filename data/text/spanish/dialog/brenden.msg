@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un Iniciado serio y joven con un libro.}
-{101}{}{Ves: al Iniciado Brenden. }
+{101}{}{Ves: al Iniciado Brenden.}
 {102}{}{Buenos días. ¿Cómo puedo ayudarte?}
 {103}{}{Estoy buscando a la Escriba Jefa Vree.}
 {104}{}{Estoy buscando al General Maxson.}

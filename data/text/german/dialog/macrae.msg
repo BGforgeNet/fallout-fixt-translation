@@ -10,11 +10,11 @@
 {109}{}{What kind of stuff do you teach them?}
 {110}{}{Have you seen the Deathclaws?}
 {111}{}{What's the deal with the Regulators}
-{112}{}{Can I ask you something else?}
+{112}{}{Kann ich dich noch etwas anderes fragen?}
 {113}{}{Well m' specialty is fightin' with m' fists, and takin' a punch or two more than the guy throwin 'em at me.}
 {114}{}{Sounds like a dumb idea, I'd rather use a gun.}
 {115}{}{Do you think you could teach me anything?}
-{116}{}{Can I ask you something else?}
+{116}{}{Kann ich dich noch etwas anderes fragen?}
 {117}{}{Well if that's how you be feeling, you can just turn yourself around and walk away.}
 {118}{}{You seem to be an alright lad, but me times busy with keeping the Blades schooled. If things were to straighten themselves, I might be havin' the time then.}
 {119}{}{Alright, can I ask you something else?}

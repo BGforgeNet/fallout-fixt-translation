@@ -111,7 +111,7 @@
 {1000}{}{Vree}
 {1001}{}{Rhombus}
 {1002}{}{Talus}
-{1003}{}{Anciano}
+{1003}{}{Elder}
 {1004}{}{Escribas}
 {1005}{}{Caballeros}
 {1006}{}{Eje}

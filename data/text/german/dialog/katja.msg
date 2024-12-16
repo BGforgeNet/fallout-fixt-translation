@@ -104,14 +104,14 @@
 {1008}{}{Master}
 {1009}{}{Unity}
 {1010}{}{Set}
-{1011}{}{Watershed}
+{1011}{}{Wasserstelle}
 {1012}{}{Necropolis}
-{1013}{}{Hall}
-{1014}{}{Library}
+{1013}{}{Halle}
+{1014}{}{Bibliothek}
 {1015}{}{Overseer}
-{1016}{}{Medic}
+{1016}{}{Mediziner}
 {1017}{}{Healing}
-{1018}{}{Vault}
+{1018}{}{(die) Vault}
 {1019}{}{Vault13}
 {1020}{}{Vault 13}
 {1021}{}{Killian}
@@ -131,7 +131,7 @@
 {1036}{}{Brotherhood}
 {1037}{}{Vats}
 {1038}{}{Military}
-{1039}{}{Base}
+{1039}{}{Basis}
 {1041}{}{Apocalypse}
 {1042}{}{Mutants}
 {1043}{}{Morpheus}
@@ -156,7 +156,7 @@
 {1062}{}{Psychics}
 {1063}{}{Experiments}
 {1064}{}{Police}
-{1065}{}{Merchants}
+{1065}{}{Händler}
 {1100}{}{I don't know where you could find such a relic of old technology.}
 {1101}{}{The Angel's Boneyard is all that's left of the old city of Los Angeles. Mostly divided among warring factions, these days.}
 {1102}{}{The War brought misery and death all over the world. I sure hope something like that never happens again. But from what I've seen, there's not much hope for humanity.}

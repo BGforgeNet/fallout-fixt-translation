@@ -12,7 +12,7 @@
 {111}{}{What's so good about Nuka-Cola?}
 {112}{}{Is that all? That doesn't seem to help anyone that much.}
 {113}{}{How much of that stuff do you drink?}
-{114}{}{Can I ask you something else?}
+{114}{}{Kann ich dich noch etwas anderes fragen?}
 {115}{}{Ah, okay. I'll be seeing you.}
 {116}{}{It is the stuff of life... Well actually, if I don't drink it on an hourly basis, I get a splitting headache.}
 {117}{}{So? (He raises his eyebrows at you.)}

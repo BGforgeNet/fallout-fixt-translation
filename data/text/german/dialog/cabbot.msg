@@ -162,7 +162,7 @@
 {1006}{}{Knights}
 {1007}{}{Hub}
 {1008}{}{Disks}
-{1009}{}{Merchants}
+{1009}{}{Händler}
 {1010}{}{Brotherhood}
 {1011}{}{Ancient}
 {1012}{}{Exodus}

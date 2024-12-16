@@ -11,7 +11,7 @@
 {110}{}{vendidas al Eje, quien a su vez las vendía a las bandas. Creo que encontraste una buena solución.}
 {111}{}{Nunca pensé que podríamos detener las peleas de las bandas. Mi padre me contó cómo conseguiste que prometieran que nos dejarían en paz. Sabes, pensé que siempre quería ir de aventuras, pero creo que me gusta... bueno, }
 {112}{}{sentir la seguridad que ahora hay aquí. No hay que preocuparse más por las bandas y sus ataques repentinos o preguntarse quién va a morir hoy.}
-{113}{}{Lorraine says that there was a Vault south of here, where a lot of my grandparents lived. What's it like living in a Vault?}
+{113}{}{Lorraine dice que había un Refugio al sur de aquí, donde vivían muchos de mis antepasados. ¿Cómo es vivir en un Refugio?}
 {114}{}{En realidad es muy aburrida.}
 {115}{}{Es muy excitante. ¡Tenemos todo tipo de tecnología que no te creerías!}
 {116}{}{Oh. Bueno, debes haber tenido algunas aventuras después de irte, ¿no?}
@@ -45,6 +45,6 @@
 {144}{}{¡Gracias!}
 {145}{}{¡Por favor, no me dejes!}
 {146}{}{Creía que sería divertido irse de Adytum y explorar el mundo. Pero los Destripadores me cogieron y he estado aquí desde entonces. Por favor, ¡ayúdame!}
-{147}{}{All right, let's get out of here!}
+{147}{}{De acuerdo, ¡salgamos de aquí!}
 {148}{}{No. Tú te metiste en esto, pues sal tú.}
 {149}{}{¡Espero que podamos salir de aquí pronto!}

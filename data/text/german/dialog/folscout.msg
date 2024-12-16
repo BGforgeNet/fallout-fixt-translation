@@ -69,7 +69,7 @@
 {168}{}{I'm glad to know that. Thanks for your time.}
 {169}{}{You are the double agent!!!}
 {170}{}{Not really. The only thing I can think of is that the person would have to have access to some information and have access to the outside. You might want to look to the initiates or scouts.}
-{171}{}{Danke. Auf Wiedersehn.}
+{171}{}{Vielen Dank. Auf Wiedersehn.}
 {172}{}{Nicole will be pleased then, to know that I killed the agent.}
 {173}{}{You must be right. Thank you for setting me straight.}
 {174}{}{I think you are the double agent. Trying to trick me, I see. Well now you DIE!}

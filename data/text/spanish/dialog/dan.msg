@@ -10,10 +10,10 @@
 {109}{}{Urg.}
 {110}{}{Bueno, me encargo del cuidado de los vagones de la Caravana y de los brahmines. Si necesitan algo para sus caravanas, ellos vienen a hablar conmigo. Demonios, los Tres Grandes tratan exclusivamente conmigo.}
 {111}{}{¿Quiénes son los Tres Grandes?}
-{112}{}{Bueno, ¿no eres importante?}
+{112}{}{Bueno, ¿no eres importante?.}
 {113}{}{¿De verdad? Eso está bien. Quiero unirme a una caravana.}
 {114}{}{Bueno, tengo que irme. Adiós.}
-{115}{}{¿Qué? ¡Vete de una maldita vez de aquí, estúpido yonqui! ¿Pensabas que iba a perder mi tiempo con alguien tan insignificante como tú?}
+{115}{}{¿Qué?, ¡vete de una maldita vez de aquí estúpido adicto!, ¿pensar que 'staba por perder mi tiempo contigo malviviente?}
 {118}{}{¡Qué demonios! ¿Dónde has estado toda tu vida? ¿Encerrado en una "cueva" o algo así? Los Tres Grandes son los tres grupos de mercaderes más importantes del mundo. Bueno, vale, quizás no sean los más importantes del mundo entero, pero sí lo son de un gran territorio; casi tan lejos como el ojo puede ver.}
 {119}{}{Cariño. ¿Dónde has estado toda tu vida? ¿Encerrada en una "cueva" o algo así? Los Tres Grandes son los tres grupos de mercaderes más importantes del mundo. Bueno, vale, quizás no sean los más importantes del mundo entero, pero sí lo son de un gran territorio; casi tan lejos como el ojo puede ver.}
 {120}{}{Maldito seas, eres un fanático de los brahmines.}
@@ -28,7 +28,7 @@
 {129}{}{Bueno, pero al menos no tengo un culo de mutante por cara. Tu madre debió ser una brahmin y tu padre una rata; es la única razón por la que puede que hayas salido tan horriblemente feo. ¡Eres más feo que yo!}
 {130}{}{¡Nadie habla de mi madre de esa manera! ¡Prepárate para morir!}
 {131}{}{Sí, no está mal. Bueno, tengo sitios que visitar y gente que machacar. Nos vemos, Dan.}
-{132}{}{Me parece bien que te comportes así pero mucha gente hace lo mismo. Estás bromeando, ¿no? No pondrías la mano encima al viejo Dan, ¿verdad?}
+{132}{}{Sí, claro, es una buena frase, pero todo el mundo la usa. Estás bromeando, ¿verdad?, no le pondrías la mano encima al pobre Dan.}
 {133}{}{¿Comportamiento? ¿Mano? Qué más quisieras. Ahora pondré algo más que mi mano encima de tu cadáver.}
 {134}{}{¡Ja! He sido cruel, ¿verdad?}
 {135}{}{Sí, un poco quizás. No eres malo, chico. Pero recuerda que debes controlar esa boca tuya. Sería una pena echar a perder una boca tan linda.}

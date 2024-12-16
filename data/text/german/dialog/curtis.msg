@@ -4,7 +4,7 @@
 {103}{}{Hubip.}
 {104}{}{Hallo nochmal.}
 {105}{}{What can I do for you?}
-{106}{}{What's your name?}
+{106}{}{Wie heißt du?}
 {107}{}{What can you tell me about your village?}
 {108}{}{Was machst du?}
 {109}{}{Nothing, thanks.}

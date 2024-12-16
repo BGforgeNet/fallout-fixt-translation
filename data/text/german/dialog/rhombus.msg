@@ -1,5 +1,5 @@
 {100}{}{You see: Rhombus.}
-{101}{}{Tell me about yourself.}
+{101}{}{Erzähl mir von dir.}
 {102}{}{Can you give me some history behind the Brotherhood?}
 {103}{}{Heard any good rumors?}
 {104}{}{What can you tell me about the surrounding area?}
@@ -123,7 +123,7 @@
 {1012}{}{War}
 {1013}{}{Exodus}
 {1014}{}{Strange Army}
-{1015}{}{Merchants}
+{1015}{}{Händler}
 {1016}{}{Missing Caravans}
 {1017}{}{Children of the Cathedral}
 {1018}{}{Initiates}

@@ -134,7 +134,7 @@
 {233}{}{Encore ? Non, je pense pas. J'ai pas mal de chats à fouetter.}
 {234}{Kill60}{Va trouver Lars à la maison des gardes. Il te donnera ce qu'il faut. Tu sais, cette ville te doit... beaucoup.}
 {235}{Kill61b}{Disons, le salaire normal d'un mercenaire, 500 caps.}
-{236}{}{C'est terminé !}
+{236}{}{C'est terminé.}
 {237}{}{Malheureusement c'est pas assez.}
 {238}{Kill62}{Ca roule. Va voir Lars, il te donnera les détails.}
 {239}{Kill63}{Ecoute, c'est tout ce que j'offre. Merci pour les preuves... mais je vais quand même pas te supplier.}
@@ -199,9 +199,9 @@
 {1009}{}{Crash House|Crash|House}
 {1010}{}{Gizmo|Casino}
 {1011}{}{Skum}
-{1012}{}{Cathedral}
+{1012}{}{Cathedrale}
 {1013}{}{Griffemort|Griffes|Griffe|Griffemorts}
-{1014}{}{Centre}
+{1014}{}{Le Centre}
 {1015}{}{Sables}
 {1016}{}{Nécropolis}
 {1017}{}{Pillards|Pillards|Khans|Khan}

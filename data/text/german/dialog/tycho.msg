@@ -91,14 +91,14 @@
 {1008}{}{Master}
 {1009}{}{Unity}
 {1010}{}{Set}
-{1011}{}{Watershed}
+{1011}{}{Wasserstelle}
 {1012}{}{Necropolis}
-{1013}{}{Hall}
-{1014}{}{Library}
+{1013}{}{Halle}
+{1014}{}{Bibliothek}
 {1015}{}{Overseer}
-{1016}{}{Medic}
+{1016}{}{Mediziner}
 {1017}{}{Healing}
-{1018}{}{Vault}
+{1018}{}{(die) Vault}
 {1019}{}{Vault 13}
 {1020}{}{Vault13}
 {1021}{}{Killian}
@@ -118,7 +118,7 @@
 {1036}{}{Brotherhood}
 {1037}{}{Vats}
 {1038}{}{Military}
-{1039}{}{Base}
+{1039}{}{Basis}
 {1041}{}{Apocalypse}
 {1042}{}{Mutants}
 {1043}{}{Morpheus}
@@ -143,7 +143,7 @@
 {1062}{}{Psychics}
 {1063}{}{Experiments}
 {1064}{}{Police}
-{1065}{}{Merchants}
+{1065}{}{Händler}
 {1100}{}{Well, Junktown's not really home, but it's an interesting city. It has potential, although I don't know that building out of the refuse of the past is the best way to construct the future.}
 {1101}{}{We Rangers hail from back east, what used to be called Nevada. Our heritage stretches back to the days of the Texas Rangers. We learn survival and combat skills in order to go out into the world and have a chance of surviving and making things better.}
 {1102}{}{I haven't seen a relic of old technology like a Water Chip for a long time. Personally, you're better off depending on yourself, not on some piece of tech that you can't fix.}

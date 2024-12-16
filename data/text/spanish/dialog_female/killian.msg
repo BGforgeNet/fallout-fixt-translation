@@ -81,7 +81,7 @@
 {180}{}{Está bien. Disculpa las molestias.}
 {181}{}{¿Que me vas a hacer qué? ¿Tú? No me hagas reír...}
 {182}{Kill35}{Un ladrona honesta. Vaya. Tendré que llevarte dentro de todas formas. Pórtate bien y no te harán daño.}
-{183}{}{All right, I'll come along quietly.}
+{183}{}{Está bien, seré un buen chico.}
 {184}{}{Portarme bien... No me apetece.}
 {185}{Kill36}{Como te dije...}
 {186}{Kill37}{Ya te lo dije...}
@@ -91,7 +91,7 @@
 {190}{Kill41}{Mira, ya te lo he dicho varias veces.}
 {191}{Kill42}{¿Te vas tan pronto? Antes será mejor que pagues.}
 {192}{Kill43}{Esto es algo que no me lo tomo a broma. Págame.}
-{193}{Kill44}{All right. Fine. Let's see if a night in the locker will cool you off a bit.}
+{193}{Kill44}{De acuerdo. Muy bien. Veamos si una noche en el agujero te suaviza.}
 {194}{Kill45}{¿Alguna pregunta más?}
 {195}{}{Tenlo por seguro.}
 {196}{}{No. Eso es todo, gracias.}
@@ -116,7 +116,7 @@
 {215}{}{Sí, lo haré.}
 {216}{}{Ni de lejos. No me jugaré el cuello por eso.}
 {217}{Kill52}{Vaya hombre. Qué lástima. Pero, sabes, te voy a tener que encerrar hasta que esto se solucione. No puedo exponerme a que Gizmo lo averigüe. Lo siento.}
-{218}{Kill53}{All right, I owe you. Here's the bug and the wiretap. You let me know when it's done. And good luck.}
+{218}{Kill53}{Bien, te la debo. Aquí tienes el micrófono y la grabadora con la cinta. Avísame cuando esté hecho. Buena suerte.}
 {219}{Kill54}{¿Has conseguido las pruebas?}
 {220}{}{Aún no. Pero créeme, ¡lo haré!}
 {221}{}{Claro que lo hice.}
@@ -138,7 +138,7 @@
 {237}{}{Lo siento, no es bastante.}
 {238}{Kill62}{Estupendo. Vete a ver a Lars, él te dará los detalles.}
 {239}{Kill63}{Mira, no te voy a ofrecer más. Gracias por conseguir las pruebas, pero no pienso rogar por tus servicios.}
-{240}{}{All right, I'll do it for that fee.}
+{240}{}{Está bien, lo haré por ese precio.}
 {241}{}{Oh, vaya. Entonces ya nos veremos.}
 {242}{Kill64}{Buena suerte en tus viajes. Ahora discúlpame, pero tengo que mover el trasero.}
 {243}{Kill65}{Gizmo es propietario del Casino del lado este. Le puso su nombre. Ten cuidado con él.}

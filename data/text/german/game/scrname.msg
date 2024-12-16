@@ -141,14 +141,14 @@
 {241}{}{Gwen}
 {242}{}{Diana}
 {243}{}{Alya}
-{244}{}{Living Quarters}
+{244}{}{Unterkünfte}
 {245}{}{Meeting Room}
 {246}{}{Storeroom}
-{247}{}{Library}
+{247}{}{Bibliothek}
 {248}{}{Central Core}
 {249}{}{Meeting Room}
-{250}{}{Living Quarters}
-{251}{}{Living Quarters}
+{250}{}{Unterkünfte}
+{251}{}{Unterkünfte}
 {252}{}{Blocked Passage}
 {253}{}{Blocked Passage}
 {254}{}{Airlock}
@@ -161,7 +161,7 @@
 {261}{}{Ladder}
 {262}{}{Gate Guard}
 {263}{}{Water Ration Guard}
-{264}{}{Watershed}
+{264}{}{Wasserstelle}
 {265}{}{Manhole}
 {266}{}{Manhole}
 {267}{}{Manhole}
@@ -242,7 +242,7 @@
 {342}{}{Dog}
 {343}{}{Duc}
 {344}{}{City}
-{345}{}{Coast}
+{345}{}{Küste}
 {346}{}{Mountain}
 {347}{}{Hernandez}
 {348}{}{Caves}
@@ -300,7 +300,7 @@
 {400}{}{Secure Door}
 {401}{}{Generator}
 {402}{}{Water Pump}
-{403}{}{Living Quarters}
+{403}{}{Unterkünfte}
 {404}{}{Sentry Gun}
 {405}{}{Door with red paint on it}
 {406}{}{Door with blue paint on it}
@@ -429,7 +429,7 @@
 {529}{}{Bookshelf}
 {530}{}{Caves}
 {531}{}{Secure Door}
-{532}{}{Command Center}
+{532}{}{Kommandozentale}
 {533}{}{Super Mutant Sentry}
 {534}{}{Krupper}
 {535}{}{VanHaggen}
@@ -486,7 +486,7 @@
 {586}{}{The Hub}
 {587}{}{The Hub}
 {588}{}{The Hub}
-{589}{}{Cave}
+{589}{}{Höhle}
 {590}{}{Strange Call Box}
 {591}{}{Large Footprint}
 {592}{}{Used Car Lot}
@@ -773,7 +773,7 @@
 {873}{}{Maxson's Guard}
 {874}{}{Jeremiah}
 {875}{}{Door}
-{876}{}{Sturdy Door}
+{876}{}{Robuste Tür}
 {877}{}{Traveling Caravan}
 {878}{}{Caravan Merchant}
 {879}{}{Far Go Traders Merchant}
@@ -803,7 +803,7 @@
 {903}{}{Luke}
 {904}{}{John}
 {905}{}{Door}
-{906}{}{Library}
+{906}{}{Bibliothek}
 {907}{}{Rented Room}
 {908}{}{Door}
 {909}{}{Desk}

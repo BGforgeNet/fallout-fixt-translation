@@ -7,7 +7,7 @@
 {106}{}{El sueldo es de 200 chapas. No es tanto, salimos a menudo y nuestras rutas no son demasiado peligrosas, y sí, es solo para la ida pero no estás obligada a hacer el viaje de ida y vuelta. }
 {107}{}{Nos vamos hoy. ¿Te interesa?}
 {108}{}{Nos vamos en }
-{109}{}{Vacío }
+{109}{}{Vacío}
 {110}{}{}
 {111}{}{. ¿Te interesa?}
 {112}{}{Aún te ofrezco trabajo, aunque... no importa. ¿Te interesa?}

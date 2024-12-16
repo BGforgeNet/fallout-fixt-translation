@@ -186,8 +186,8 @@
 {1013}{}{Ville}
 {1014}{}{Hauteurs}
 {1015}{}{Bob}
-{1016}{}{Cathedral}
-{1017}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1016}{}{Cathedrale}
+{1017}{}{Confrerie}
 {1018}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1019}{}{Ecorcheurs}
 {1020}{}{Razor}
@@ -198,11 +198,11 @@
 {1025}{}{Chez Bob}
 {1026}{}{Acier}
 {1027}{}{Les Eventreurs|Eventreurs|Eventreur}
-{1028}{}{Cimetière de L.A.}
+{1028}{}{Cimetierre}
 {1029}{}{Ecarlate}
 {1030}{}{Death}
 {1031}{}{Deathclaw}
-{1032}{}{Rayon}
+{1032}{}{Le Rayon}
 {1033}{}{Old Town}
 {1034}{}{Vieille}
 {1100}{LOX_66}{Decker est un malin qu'a toute la ville dans la poche. Il "protège" les marchands et en même temps, il les monte les uns cont'les autres. Vaut mieux pas s'frotter à lui mais si t'y tiens, tu le trouv'ras sûrement au Faucon Maltais.}

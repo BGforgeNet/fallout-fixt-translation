@@ -94,11 +94,11 @@
 {981}{}{On ne peut pas dire que j'en sais quelque-chose...}
 {982}{}{Non, je n'en ai jamais entendu parler.}
 {1000}{}{Eau}
-{1001}{}{Cimetière de L.A.}
+{1001}{}{Cimetierre}
 {1002}{}{Guerre}
 {1003}{}{Adytum}
 {1004}{}{Followers}
-{1005}{}{Cathedral}
+{1005}{}{Cathedrale}
 {1006}{}{Puce d'eau|Puce eau|Puce|Eau|Controleur}
 {1007}{}{Garl}
 {1008}{}{Maître}
@@ -119,7 +119,7 @@
 {1023}{}{Dépôtville}
 {1024}{}{Sables}
 {1025}{}{Ombragés}
-{1026}{}{Centre}
+{1026}{}{Le Centre}
 {1027}{}{Casino}
 {1028}{}{Magasin}
 {1029}{}{Deathclaw}
@@ -128,9 +128,9 @@
 {1032}{}{Paladins}
 {1033}{}{Scribes}
 {1034}{}{Enfants}
-{1036}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1036}{}{Confrerie}
 {1037}{}{Vats}
-{1038}{}{Base}
+{1038}{}{Base Militaire}
 {1039}{}{Militaire}
 {1041}{}{Apocalypse}
 {1042}{}{Mutants}

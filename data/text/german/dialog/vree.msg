@@ -35,7 +35,7 @@
 {134}{Vree24}{You're not very bright, are you? You're wearing a holodisk reader on your arm.}
 {135}{Vree25}{You would need some anti-radiation drugs. I have some. Take these immediately if you think you are near radiation.}
 {136}{}{Danke auch!}
-{137}{}{Can I ask you something else?}
+{137}{}{Kann ich dich noch etwas anderes fragen?}
 {138}{Vree26}{Don't drink the glowing water.}
 {139}{Vree27}{Between the nuclear and biogenetic weapons used in the War, it's surprising we don't have more mutations. However, if we can hold out, everything will be okay.}
 {140}{}{Warum sagst du das?}
@@ -120,7 +120,7 @@
 {1006}{}{Rhombus}
 {1007}{}{Exodus}
 {1008}{}{Strange Army}
-{1009}{}{Merchants}
+{1009}{}{Händler}
 {1010}{}{Missing Caravans}
 {1011}{}{Hub}
 {1012}{}{Children of the Cathedral}

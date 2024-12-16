@@ -43,14 +43,14 @@
 {146}{}{¿Tengo que sacrificar un cachorrito para unirme?}
 {147}{}{¿Incómoda? Para nada. La armadura sagrada está tan bien construida, con tal precisión, que parece una extensión del propio cuerpo del bendito. Aumenta de forma increíble la fuerza y ayuda a resistir los efectos de las radiaciones para servir mejor a la Hermandad. Me sentiría muy desmejorado sin mi armadura sagrada.}
 {148}{}{¿Cómo es que nadie más en el yermo tiene esta armadura?}
-{149}{}{Yo quiero una de esas. ¿Dónde hay que firmar?}
+{149}{}{Yo quiero. ¿Dónde firmo?.}
 {151}{}{Si quieres unirte, tendrás que hablar con Cabbot.}
 {152}{}{No puedo creerlo. ¿Lo van a mandar ahí abajo?}
 {153}{}{No puedo creerlo. ¿La van a mandar ahí abajo?}
 {154}{}{Así que te uniste a la Famosa Búsqueda del Ardor. *risas*}
 {155}{}{No... voy a la Orden Antigua.}
 {156}{}{El Ardor, ¿qué es eso?}
-{157}{}{¿A ti que te importa a donde voy o dejo de ir?}
+{157}{}{No es asunto tuyo lo que hago.}
 {158}{}{Sí, lo hice. Adiós.}
 {159}{}{Ardor u Orden Antigua, es lo mismo. En cualquier caso no es un buen lugar para visitar.}
 {160}{}{¿Por qué dices eso?}
@@ -100,6 +100,6 @@
 {208}{}{Gracias por tu tiempo.}
 {209}{}{Si lo que buscas son mejores armas, deberías dirigirte al sur del Ardor. [Darrel señala hacia el sur.]}
 {210}{}{Toma, aquí tienes unas Rad-X. [Darrel te da unas píldoras.]}
-{211}{}{Trágatelas así. [Darrel hace como que se traga las píldoras y se frota la barriga.] Mmm, ñam, ñam.}
+{211}{}{Trágalos así. [Darrel hace un gesto mientras toma las pastillas y se frota la barriga.] Mmmmm, mmm.}
 {212}{}{¡Espera, espera, todavía no! [Darrel evita que te tomes las píldoras.] Espera a llegar al Ardor.}
 {300}{}{[Más]}

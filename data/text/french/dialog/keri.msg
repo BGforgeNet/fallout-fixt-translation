@@ -64,7 +64,7 @@
 {163}{}{Confrérie de l'Acier}
 {164}{}{Dépôtville}
 {165}{}{Nécropolis}
-{166}{}{Cimetière de L.A.}
+{166}{}{Cimetierre}
 {167}{}{Peu importe. Il y a quelque chose que j'ai oublié de faire. }
 {168}{}{Que tout le monde se prépare ! Nous quittons cet endroit !}
 {169}{}{S'il se passe quelque chose de sympa, dis-le moi. Mon père veut que je reste près de l'entrepôt.}

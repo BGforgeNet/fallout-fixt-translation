@@ -95,7 +95,7 @@
 {194}{}{In a brahma-herding backwater? You've gotta be crazy! There's probably not a working piece of electronics within two hundred miles.}
 {195}{}{You got a point. I think we should play things cautious and go our separate ways. If I were you, I'd do something about those stories. Unless you like people hating and mistrusting you.}
 {196}{}{I should kill you right now. You cross my path again, and I will. Now get.}
-{197}{}{Let's go.}
+{197}{}{Lass uns gehen.}
 {198}{}{Let me guess, someone told you about my snoring. Oh well. You take care of yourself.}
 {199}{}{It is. Well, I'm heading out. You take care of yourself.}
 {200}{}{Just you stay where you are. I don't know if you're in league with those mutants, but if you are, I'll kill you.}

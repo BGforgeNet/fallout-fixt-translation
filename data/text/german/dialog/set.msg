@@ -230,7 +230,7 @@
 {1008}{}{Shed}
 {1009}{}{Cathedral}
 {1010}{}{Chip}
-{1011}{}{Hall}
+{1011}{}{Halle}
 {1012}{}{Children}
 {1013}{}{Garret}
 {1014}{}{Set}
@@ -239,7 +239,7 @@
 {1017}{}{Water Shed}
 {1018}{}{Children of the Cathedral}
 {1019}{}{Children}
-{1020}{}{Watershed}
+{1020}{}{Wasserstelle}
 {1021}{}{Water}
 {1100}{Set300}{His meaning has no place here. None.}
 {1101}{Set301}{The future. Survival anywhere. We surpass the norms.}

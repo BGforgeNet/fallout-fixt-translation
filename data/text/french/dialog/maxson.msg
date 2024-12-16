@@ -241,7 +241,7 @@
 {980}{Gen_79}{Oh, j'en sais rien.}
 {981}{Gen_80}{Quoi ? Non. Je pense pas en avoir entendu parler.}
 {982}{Gen_81a}{Comment je saurais.}
-{1000}{}{Confrérie de l'Acier|Confrérie|Confrerie|Acier}
+{1000}{}{Confrerie}
 {1001}{}{Mathia}
 {1002}{}{Cabbot}
 {1003}{}{Vree}
@@ -253,7 +253,7 @@
 {1009}{}{Scribes}
 {1010}{}{Chevaliers|Chevalier}
 {1011}{}{Paladins}
-{1012}{}{Centre}
+{1012}{}{Le Centre}
 {1013}{}{Butch}
 {1014}{}{Marchands}
 {1015}{}{Marchands|Marchand}
@@ -262,7 +262,7 @@
 {1018}{}{Roger}
 {1019}{}{Exode}
 {1020}{}{Armée|Armee|Armée des Mutants|Armée mutante}
-{1021}{}{Cathedral}
+{1021}{}{Cathedrale}
 {1022}{}{Cimetière|Le Cimetière|Cimetière de L.A.|Los Angeles}
 {1023}{}{Gangs}
 {1024}{}{Adytum}
@@ -270,7 +270,7 @@
 {1026}{}{Harris}
 {1027}{}{Maxson}
 {1028}{}{Les Eventreurs|Eventreurs|Eventreur}
-{1029}{}{Cimetière de L.A.}
+{1029}{}{Cimetierre}
 {1030}{}{Maître}
 {1031}{}{Guerre}
 {1032}{}{Caravanes}

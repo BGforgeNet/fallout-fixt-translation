@@ -21,7 +21,7 @@
 {120}{}{Tell me about Decker.}
 {121}{}{What about the local police?}
 {122}{}{What about the Children of the Cathedral?}
-{123}{}{Tell me about yourself.}
+{123}{}{Erzähl mir von dir.}
 {124}{}{Where does a person find work around here?}
 {125}{}{Sorry. I don't do rumors. Don't ask me again.}
 {126}{}{I warned you I don't do rumors. If you think I was just blowing smoke, you're wrong. Get out of here and don't come back, punk.}
@@ -57,28 +57,28 @@
 {156}{}{Tell me about Decker.}
 {157}{}{What about the local police?}
 {158}{}{What about the Children of the Cathedral?}
-{159}{}{Tell me about yourself.}
+{159}{}{Erzähl mir von dir.}
 {160}{}{Where does a person find work around here?}
 {161}{}{He's a great guy. A good source of jobs to pay off my loans. Tell him I sent you, you might get a bonus!}
 {162}{}{What about those missing caravans?}
 {163}{}{Bonus? What do you mean?}
 {164}{}{What about the local police?}
 {165}{}{What about the Children of the Cathedral?}
-{166}{}{Tell me about yourself.}
+{166}{}{Erzähl mir von dir.}
 {167}{}{Where does a person find work around here?}
 {168}{}{They're great guys! It's true we have the occasional misunderstanding, but I think they're a credit to their species... [sotto voce] ...whichever one that is...}
 {169}{}{What about those missing caravans?}
 {170}{}{Tell me about Decker.}
 {171}{}{Misunderstandings? Like what?}
 {172}{}{What about the Children of the Cathedral?}
-{173}{}{Tell me about yourself.}
+{173}{}{Erzähl mir von dir.}
 {174}{}{Where does a person find work around here?}
 {175}{}{I can't say I'm too impressed. I run an honest, respectable business, and they accuse me of being a thief! The nerve of those people. They think a vow of poverty gives them the right to judge me!}
 {176}{}{What about those missing caravans?}
 {177}{}{Tell me about Decker.}
 {178}{}{What about the local police?}
 {179}{}{Vow of poverty?}
-{180}{}{Tell me about yourself.}
+{180}{}{Erzähl mir von dir.}
 {181}{}{Where does a person find work around here?}
 {182}{}{I'm just a respectable businessman, that's all. We Giovannis have been respectable businessmen since the days before the holocaust... now that's tradition!}
 {183}{}{What about those missing caravans?}
@@ -92,7 +92,7 @@
 {191}{}{Tell me about Decker.}
 {192}{}{What about the local police?}
 {193}{}{What about the Children of the Cathedral?}
-{194}{}{Tell me about yourself.}
+{194}{}{Erzähl mir von dir.}
 {195}{}{What kind of excitement?}
 {196}{}{Forget it, you're too big of a credit risk. Get outta my sight and don't come back.}
 {197}{}{Fine. One thousand caps. You've got 10 days to repay it.}
@@ -105,28 +105,28 @@
 {204}{}{Tell me about Decker.}
 {205}{}{What about the local police?}
 {206}{}{What about the Children of the Cathedral?}
-{207}{}{Tell me about yourself.}
+{207}{}{Erzähl mir von dir.}
 {208}{}{Where does a person find work around here?}
 {209}{}{Well, bye!}
 {210}{}{Well maybe not a bonus. But he's a great guy, trust me on that one!}
 {211}{}{What about those missing caravans?}
 {212}{}{What about the local police?}
 {213}{}{What about the Children of the Cathedral?}
-{214}{}{Tell me about yourself.}
+{214}{}{Erzähl mir von dir.}
 {215}{}{Where does a person find work around here?}
 {216}{}{Well, bye!}
 {217}{}{Can you believe someone accused me of extortion? Fortunately, my good friend Decker set them straight!}
 {218}{}{What about those missing caravans?}
 {219}{}{Tell me about Decker.}
 {220}{}{What about the Children of the Cathedral?}
-{221}{}{Tell me about yourself.}
+{221}{}{Erzähl mir von dir.}
 {222}{}{Where does a person find work around here?}
 {223}{}{Well, bye!}
 {224}{}{I'll bet their leader, this Morpheus character, he's not broke! No sir! I'll bet that over in L.A. Boneyard, he's just living it up!}
 {225}{}{What about those missing caravans?}
 {226}{}{Tell me about Decker.}
 {227}{}{What about the local police?}
-{228}{}{Tell me about yourself.}
+{228}{}{Erzähl mir von dir.}
 {229}{}{Where does a person find work around here?}
 {230}{}{Well, bye!}
 {231}{}{You don't show us respect, you get hurt. How much more respectability can a man ask for?}
@@ -141,7 +141,7 @@
 {240}{}{Tell me about Decker.}
 {241}{}{What about the local police?}
 {242}{}{What about the Children of the Cathedral?}
-{243}{}{Tell me about yourself.}
+{243}{}{Erzähl mir von dir.}
 {244}{}{Well, bye!}
 {245}{}{See you around, pal!}
 {246}{}{Hey, hey, hey... take your hands off that door, freak!}

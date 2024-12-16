@@ -193,7 +193,7 @@
 {480}{}{Seul Morpheus a les clés de cette porte. Je file maintenant !}
 {1000}{}{Followers}
 {1001}{}{Nicole}
-{1002}{}{Cathedral}
+{1002}{}{Cathedrale}
 {1003}{}{Morpheus}
 {1004}{}{Maître}
 {1005}{}{Nightkin}

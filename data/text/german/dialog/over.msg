@@ -166,13 +166,13 @@
 {265}{Over_81e}{I've made a lot of tough decisions since I took this position. But none of them harder than this one. You saved us, but you'll kill us. I'm sorry. You're a hero... and you have to leave.}
 {980}{Over_100}{I don't know anything about that.}
 {1000}{}{Water}
-{1001}{}{Vault}
+{1001}{}{(die) Vault}
 {1002}{}{War}
 {1003}{}{Outside}
 {1004}{}{Chip}
-{1005}{}{Library}
+{1005}{}{Bibliothek}
 {1006}{}{Healing}
-{1007}{}{Medic}
+{1007}{}{Mediziner}
 {1008}{}{Vault13}
 {1009}{}{Vault 13}
 {1010}{}{Overseer}
